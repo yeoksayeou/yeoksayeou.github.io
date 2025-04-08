@@ -203,6 +203,15 @@ body {
     white-space: pre-wrap;
 }
 
+.meta-separator {
+    margin: 0 6px;
+    color: #888;
+}
+
+.article-meta-row {
+    margin-bottom: 4px;
+}
+
 hr {
     margin: 30px 0;
     border: 0;

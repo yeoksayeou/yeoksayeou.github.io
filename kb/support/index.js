@@ -4,6 +4,31 @@ function getUrlParam(param) {
     return urlParams.get(param);
 }
 
+function loadIssueScript(issue, callback) {
+    const baseDir = isEnglishMode() ? 'support/index_en/' : 'support/index/';
+    const fileName = encodeURIComponent(issue) + '.js';
+    const script = document.createElement('script');
+    script.src = baseDir + fileName;
+    script.onload = () => {
+        if (typeof window.ISSUE_DATA === 'undefined') {
+            console.error('ISSUE_DATA not defined in file:', script.src);
+            return;
+        }
+        callback(window.ISSUE_DATA);
+        delete window.ISSUE_DATA; // clean up global namespace
+    };
+    script.onerror = () => {
+        const contentDiv = document.getElementById('content');
+        contentDiv.innerHTML = `
+            <div class="error">
+                <p>Could not load issue data for "${issue}".</p>
+                <p><a href="${createUrl('index.html')}">Return to issue list</a></p>
+            </div>
+        `;
+    };
+    document.body.appendChild(script);
+}
+
 // Check if English language mode is active
 function isEnglishMode() {
     return getUrlParam('lang') === 'en';
@@ -25,6 +50,32 @@ function createUrl(base, params = {}) {
     }
     
     return url.toString();
+}
+
+function loadIssueScript(issue, callback) {
+    const baseDir = isEnglishMode() ? 'support/index_en/' : 'support/index/';
+    const fileName = encodeURIComponent(issue) + '.js';
+    const script = document.createElement('script');
+    script.src = baseDir + fileName;
+    script.onload = () => {
+        if (typeof window.ISSUE_DATA === 'undefined') {
+            console.error('ISSUE_DATA not defined in file:', script.src);
+            return;
+        }
+        const data = window.ISSUE_DATA;
+        delete window.ISSUE_DATA;
+        callback(data);
+    };
+    script.onerror = () => {
+        const contentDiv = document.getElementById('content');
+        contentDiv.innerHTML = `
+            <div class="error">
+                <p>Could not load issue data for "${issue}".</p>
+                <p><a href="${createUrl('index.html')}">Return to issue list</a></p>
+            </div>
+        `;
+    };
+    document.body.appendChild(script);
 }
 
 // Toggle language mode
@@ -56,69 +107,8 @@ function initLanguageToggle() {
     }
 }
 
-// Determine which data file to load based on the lang parameter
 function loadDataScript() {
-    const langParam = getUrlParam('lang');
-    const dataScriptElement = document.createElement('script');
-    
-    if (langParam === 'en') {
-        dataScriptElement.src = 'support/data_en.js';
-    } else {
-        dataScriptElement.src = 'support/data.js';
-    }
-    
-    // Load the pdfs.js file from support directory
-    const pdfsScriptElement = document.createElement('script');
-    pdfsScriptElement.src = 'support/pdfs.js';
-    
-    // Track script loading
-    let dataLoaded = false;
-    let pdfsLoaded = false;
-    
-    // Function to check if both scripts are loaded
-    function checkAllLoaded() {
-        if (dataLoaded && pdfsLoaded) {
-            initializeDisplay();
-        }
-    }
-    
-    // Set up error handler for data.js
-    dataScriptElement.onerror = function() {
-        document.getElementById('content').innerHTML = `
-            <div class="error">
-                <p>Failed to load data file: ${dataScriptElement.src}</p>
-                <p>Please check that the file exists and try again.</p>
-            </div>
-        `;
-    };
-    
-    // Set up error handler for pdfs.js
-    pdfsScriptElement.onerror = function() {
-        console.error(`Failed to load PDFs file: ${pdfsScriptElement.src}`);
-        // Still mark pdfs as loaded (even though it failed) so we can continue
-        pdfsLoaded = true;
-        checkAllLoaded();
-    };
-    
-    // Set up load handler for pdfs.js
-    pdfsScriptElement.onload = function() {
-        pdfsLoaded = true;
-        checkAllLoaded();
-    };
-    
-    // Set up load handler for data.js
-    dataScriptElement.onload = function() {
-        dataLoaded = true;
-        checkAllLoaded();
-    };
-    
-    // Add both scripts to the document
-    if ('requestIdleCallback' in window) {
-        requestIdleCallback(() => document.body.appendChild(dataScriptElement));
-    } else {
-        setTimeout(() => document.body.appendChild(dataScriptElement), 200);
-    }
-    document.body.appendChild(pdfsScriptElement);
+    // No longer needed
 }
 
 // Get all unique issues sorted
@@ -142,10 +132,10 @@ function getAdjacentIssues(currentIssue) {
 
 // Function to find PDF path for a given issue
 function getPdfPath(issueName) {
-    // Check if PDFS is defined in the same way we check for ARTICLES
     if (typeof PDFS === 'undefined') return null;
     
-    const pdfInfo = PDFS.find(pdf => pdf.issue === issueName);
+    const normalized = issueName.normalize('NFD');
+    const pdfInfo = PDFS.find(pdf => pdf.issue === normalized);
     return pdfInfo && pdfInfo.path ? pdfInfo.path : null;
 }
 
@@ -214,337 +204,287 @@ function displayIssueList() {
 function displayIssueArticles(issueName) {
     const contentDiv = document.getElementById('content');
     const showAll = getUrlParam('all') === 'yes';
-    
-    // Get PDF path for this issue
-    const pdfPath = getPdfPath(issueName);
-    
-    // Get adjacent issues
-    const { prevIssue, nextIssue } = getAdjacentIssues(issueName);
-    
-    // Filter articles by issue
-    const issueArticles = ARTICLES.filter(item => item.issue === issueName)
-        .sort((a, b) => {
-            // Extract file number from path (e.g., "010.txt" from "29호 1922.11/010.txt")
+
+    loadIssueScript(issueName, (issueArticles) => {
+        const pdfPath = getPdfPath(issueName);
+        const { prevIssue, nextIssue } = getAdjacentIssues(issueName);
+
+        issueArticles.sort((a, b) => {
             const getFileNumber = (path) => {
                 const matches = path.match(/\/(\d+)\.txt$/);
                 return matches ? parseInt(matches[1], 10) : 0;
             };
-            
             return getFileNumber(a.path) - getFileNumber(b.path);
         });
-    
-    if (issueArticles.length === 0) {
-        contentDiv.innerHTML = `
-            <div class="error">
-                <p>No articles found for issue "${issueName}".</p>
-                <p><a href="${createUrl('index.html')}">Return to issue list</a></p>
-            </div>
-        `;
-        return;
-    }
-    
-    if (showAll) {
-        // Display all articles content
-        let allArticlesHTML = `
-            <div class="article-header">
-                <div class="issue-title">
-                    ${issueName}
-                    <a href="${createUrl('index.html', {issue: issueName})}" class="all-articles-link">List</a>
-                    ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px;">PDF</a>` : ''}
+
+        if (issueArticles.length === 0) {
+            contentDiv.innerHTML = `
+                <div class="error">
+                    <p>No articles found for issue "${issueName}".</p>
+                    <p><a href="${createUrl('index.html')}">Return to issue list</a></p>
                 </div>
-            </div>
-        `;
-        
-        issueArticles.forEach((article, index) => {
-            // Handle author links differently based on language mode
-            const authorLinksHTML = article.author ? 
-                (isEnglishMode() ? 
-                    // English mode: single link for whole name
-                    `<a href="${createUrl('index.html', {author: article.author})}" style="color: inherit; text-decoration: none;">${article.author}</a>` :
-                    // Korean mode: split names at spaces (original behavior)
-                    article.author.split(' ').map(name => 
-                        `<a href="${createUrl('index.html', {author: name})}" style="color: inherit; text-decoration: none;">${name}</a>`
-                    ).join(' ')
-                ) : 'Unknown';
-            
-            allArticlesHTML += `
-                <div class="article-container">
-                    <div class="article-header">
-                        <div class="article-title">${article.title}</div>
-                        <div class="article-meta">
-                            <div><span class="meta-label">Author:</span> ${authorLinksHTML}</div>
-                            <div><span class="meta-label">Type:</span> 
-                                <a href="${createUrl('index.html', {type: article.type || 'Other'})}" style="color: inherit; text-decoration: none;">
-                                    ${article.type || 'Other'}
-                                </a>
+            `;
+            return;
+        }
+
+        if (showAll) {
+            let allArticlesHTML = `
+                <div class="article-header">
+                    <div class="issue-title">
+                        ${issueName}
+                        <a href="${createUrl('index.html', {issue: issueName})}" class="all-articles-link">List</a>
+                        ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px;">PDF</a>` : ''}
+                    </div>
+                </div>
+            `;
+
+            issueArticles.forEach((article, index) => {
+                const authorLinksHTML = article.author ? 
+                    (isEnglishMode() ?
+                        `<a href="${createUrl('index.html', {author: article.author})}" style="color: inherit; text-decoration: none;">${article.author}</a>` :
+                        article.author.split(' ').map(name => 
+                            `<a href="${createUrl('index.html', {author: name})}" style="color: inherit; text-decoration: none;">${name}</a>`
+                        ).join(' ')
+                    ) : 'Unknown';
+
+                allArticlesHTML += `
+                    <div class="article-container">
+                        <div class="article-header">
+                            <div class="article-title">${article.title}</div>
+                            <div class="article-meta">
+                                <div class="article-meta-row">
+                                    ${article.author ? `<span class="meta-label">Author:</span> ${article.author} <span class="meta-separator">|</span>` : ''}
+                                    <span class="meta-label">Type:</span> ${article.type || 'Other'}
+                                </div>
                             </div>
                         </div>
+                        <div class="article-content">${formatContent(article.content, article.type)}</div>
                     </div>
-                    <div class="article-content">${formatContent(article.content, article.type)}</div>
+                `;
+
+                if (index < issueArticles.length - 1) {
+                    allArticlesHTML += `<hr class="article-separator" />`;
+                }
+            });
+
+            allArticlesHTML += `<p><a href="${createUrl('index.html')}">&laquo; Back to all issues</a></p>`;
+            contentDiv.innerHTML = allArticlesHTML;
+        } else {
+            let articleListHTML = `
+                <div class="article-header">
+                    <div class="issue-title">
+                        ${issueName}
+                        <a href="${createUrl('index.html', {issue: issueName, all: 'yes'})}" class="all-articles-link">Full View</a>
+                        ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px;">PDF</a>` : ''}
+                    </div>
                 </div>
+                <ul class="article-list">
             `;
-            
-            // Add separator between articles (except after the last one)
-            if (index < issueArticles.length - 1) {
-                allArticlesHTML += `<hr class="article-separator" />`;
-            }
-        });
-        
-        allArticlesHTML += `
-            <p><a href="${createUrl('index.html')}">&laquo; Back to all issues</a></p>
-        `;
-        
-        contentDiv.innerHTML = allArticlesHTML;
-    } else {
-        // Display article list
-        let articleListHTML = `
-            <div class="article-header">
-                <div class="issue-title">
-                    ${issueName}
-                    <a href="${createUrl('index.html', {issue: issueName, all: 'yes'})}" class="all-articles-link">Full View</a>
-                    ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px;">PDF</a>` : ''}
-                </div>
-            </div>
-            <ul class="article-list">
-        `;
-        
-        issueArticles.forEach(article => {
-            // Handle author links differently based on language mode
-            const authorLinksHTML = article.author ? 
-                (isEnglishMode() ? 
-                    // English mode: single link for whole name
-                    `<a href="${createUrl('index.html', {author: article.author})}">${article.author}</a>` :
-                    // Korean mode: split names at spaces (original behavior)
-                    article.author.split(' ').map(name => 
-                        `<a href="${createUrl('index.html', {author: name})}">${name}</a>`
-                    ).join(' ')
-                ) : '';
-            
+
+            issueArticles.forEach(article => {
+                const authorLinksHTML = article.author || '';
+                articleListHTML += `
+                    <li>
+                        <div class="article-list-title">
+                            <a href="${createUrl('index.html', {path: article.path})}">${article.title}</a>
+                        </div>
+                        <div class="article-list-meta">
+                            ${authorLinksHTML ? `${authorLinksHTML} <span class="meta-separator">|</span> ` : ''}
+                            ${article.type || ''}
+                        </div>
+                    </li>
+                `;
+            });
+
             articleListHTML += `
-                <li>
-                    <div class="article-list-title">
-                        <a href="${createUrl('index.html', {path: article.path})}">${article.title}</a>
-                    </div>
-                    <div class="article-list-meta">
-                        ${authorLinksHTML}
-                        ${article.type ? `<a href="${createUrl('index.html', {type: article.type})}">${article.type}</a>` : ''}
-                    </div>
-                </li>
-            `;
-        });
-        
-        articleListHTML += `
-            </ul>
-            <p><a href="${createUrl('index.html')}">&laquo; Back to all issues</a></p>
-            
-            <!-- Add issue navigation -->
-            <div class="article-navigation">
-                <div class="nav-links">
-                    <div></div> <!-- Empty div for alignment -->
-                    
-                    <div class="nav-pagination">
-                        ${prevIssue ? 
-                            `<a href="${createUrl('index.html', {issue: prevIssue})}" class="nav-link-prev">Previous Issue</a>` : 
-                            `<span class="nav-link-disabled">Previous Issue</span>`
-                        }
-                        ${nextIssue ? 
-                            `<a href="${createUrl('index.html', {issue: nextIssue})}" class="nav-link-next">Next Issue</a>` : 
-                            `<span class="nav-link-disabled">Next Issue</span>`
-                        }
+                </ul>
+                <p><a href="${createUrl('index.html')}">&laquo; Back to all issues</a></p>
+                <div class="article-navigation">
+                    <div class="nav-links">
+                        <div></div>
+                        <div class="nav-pagination">
+                            ${prevIssue ?
+                                `<a href="${createUrl('index.html', {issue: prevIssue})}" class="nav-link-prev">Previous Issue</a>` :
+                                `<span class="nav-link-disabled">Previous Issue</span>`
+                            }
+                            ${nextIssue ?
+                                `<a href="${createUrl('index.html', {issue: nextIssue})}" class="nav-link-next">Next Issue</a>` :
+                                `<span class="nav-link-disabled">Next Issue</span>`
+                            }
+                        </div>
                     </div>
                 </div>
-            </div>
-        `;
-        
-        contentDiv.innerHTML = articleListHTML;
-    }
+            `;
+            contentDiv.innerHTML = articleListHTML;
+        }
+    });
 }
 
 // Display a specific article
 function displayArticle(articlePath) {
     const contentDiv = document.getElementById('content');
-    
-    // Find the article in ARTICLES array
-    const article = ARTICLES.find(item => item.path === articlePath);
-    
-    if (!article) {
-        contentDiv.innerHTML = `
-            <div class="error">
-                <p>The requested article "${articlePath}" could not be found.</p>
-                <p><a href="${createUrl('index.html')}">Return to issue list</a></p>
-            </div>
-        `;
+    const match = articlePath.match(/^(.+?)\//);
+    if (!match) {
+        contentDiv.innerHTML = `<div class="error">Invalid article path: ${articlePath}</div>`;
         return;
     }
-    
-    // Get all articles from the same issue and sort them
-    const issueArticles = ARTICLES.filter(item => item.issue === article.issue)
-        .sort((a, b) => {
-            // Extract file number from path (e.g., "010.txt" from "29호 1922.11/010.txt")
+
+    const issueName = match[1];
+
+    loadIssueScript(issueName, (issueArticles) => {
+        const article = issueArticles.find(item => item.path === articlePath);
+
+        if (!article) {
+            contentDiv.innerHTML = `
+                <div class="error">
+                    <p>The requested article "${articlePath}" could not be found.</p>
+                    <p><a href="${createUrl('index.html')}">Return to issue list</a></p>
+                </div>
+            `;
+            return;
+        }
+
+        const pdfPath = getPdfPath(article.issue);
+
+        issueArticles.sort((a, b) => {
             const getFileNumber = (path) => {
                 const matches = path.match(/\/(\d+)\.txt$/);
                 return matches ? parseInt(matches[1], 10) : 0;
             };
-            
             return getFileNumber(a.path) - getFileNumber(b.path);
         });
-    
-    // Find current article index in the sorted issue articles
-    const currentIndex = issueArticles.findIndex(item => item.path === article.path);
-    
-    // Determine previous and next articles
-    const prevArticle = currentIndex > 0 ? issueArticles[currentIndex - 1] : null;
-    const nextArticle = currentIndex < issueArticles.length - 1 ? issueArticles[currentIndex + 1] : null;
-    
-    // Get adjacent issues
-    const { prevIssue, nextIssue } = getAdjacentIssues(article.issue);
-    
-    // Get PDF path for this issue
-    const pdfPath = getPdfPath(article.issue);
-    
-    // Update page title
-    document.title = `${article.title} - Korean Periodicals Archive`;
-    
-    // Check if any metadata field contains extensive content (with line breaks)
-    const hasExcessiveMetadata = 
-        (article.date && article.date.includes('\n')) || 
-        (article.author && article.author.includes('\n')) ||
-        (article.magazine && article.magazine.includes('\n'));
-    
-    let articleHTML = '';
-    
-    if (hasExcessiveMetadata) {
-        // Simplified header for articles with problematic metadata
-        articleHTML = `
-            <div class="article-header">
-                <div class="article-title">${article.title}</div>
-                <div class="article-meta">
-                    <div><span class="meta-label">Issue:</span> 
-                        <a href="${createUrl('index.html', {issue: article.issue})}" style="color: inherit; text-decoration: none;">
-                            ${article.issue}
-                        </a>
-                        ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px; font-size: 0.8em;">PDF</a>` : ''}
+
+        const currentIndex = issueArticles.findIndex(item => item.path === article.path);
+        const prevArticle = currentIndex > 0 ? issueArticles[currentIndex - 1] : null;
+        const nextArticle = currentIndex < issueArticles.length - 1 ? issueArticles[currentIndex + 1] : null;
+
+        const { prevIssue, nextIssue } = getAdjacentIssues(article.issue);
+
+        document.title = `${article.title} - Korean Periodicals Archive`;
+
+        const hasExcessiveMetadata = 
+            (article.date && article.date.includes('\n')) || 
+            (article.author && article.author.includes('\n')) ||
+            (article.magazine && article.magazine.includes('\n'));
+
+        let articleHTML = '';
+
+        if (hasExcessiveMetadata) {
+            articleHTML = `
+                <div class="article-header">
+                    <div class="article-title">${article.title}</div>
+                    <div class="article-meta">
+                        <div><span class="meta-label">Issue:</span> 
+                            <a href="${createUrl('index.html', {issue: article.issue})}" style="color: inherit; text-decoration: none;">
+                                ${article.issue}
+                            </a>
+                            ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px; font-size: 0.8em;">PDF</a>` : ''}
+                        </div>
+                        ${article.type ? `
+                        <div><span class="meta-label">Type:</span> 
+                            <a href="${createUrl('index.html', {type: article.type})}" style="color: inherit; text-decoration: none;">
+                                ${article.type}
+                            </a>
+                        </div>` : ''}
                     </div>
-                    ${article.type ? `
-                    <div><span class="meta-label">Type:</span> 
-                        <a href="${createUrl('index.html', {type: article.type})}" style="color: inherit; text-decoration: none;">
-                            ${article.type}
-                        </a>
-                    </div>` : ''}
+                    <div style="margin-top: 10px; color: #999; font-size: 0.9em;">
+                        ${prevArticle ? 
+                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
+                            prevIssue ? 
+                                `<a href="${createUrl('index.html', {issue: prevIssue})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Issue</a>` :
+                                ``
+                        }
+                        ${nextArticle ? 
+                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
+                            nextIssue ? 
+                                `<a href="${createUrl('index.html', {issue: nextIssue})}" style="color: #999; text-decoration: none;">Next Issue »</a>` :
+                                ``
+                        }
+                    </div>
                 </div>
-                
-                <!-- Subtle navigation links at the top -->
-                <div style="margin-top: 10px; color: #999; font-size: 0.9em;">
-                    ${prevArticle ? 
-                        `<a href="${createUrl('index.html', {path: prevArticle.path})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
-                        prevIssue ? 
-                            `<a href="${createUrl('index.html', {issue: prevIssue})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Issue</a>` :
-                            ``
-                    }
-                    ${nextArticle ? 
-                        `<a href="${createUrl('index.html', {path: nextArticle.path})}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
-                        nextIssue ? 
-                            `<a href="${createUrl('index.html', {issue: nextIssue})}" style="color: #999; text-decoration: none;">Next Issue »</a>` :
-                            ``
-                    }
+            `;
+
+            let combinedContent = article.content;
+
+            if (article.author && article.author.includes('\n')) {
+                combinedContent = `<div class="metadata-section"><strong>Author Information:</strong>\n${article.author}</div>\n\n${combinedContent}`;
+            }
+
+            if (article.date && article.date.includes('\n')) {
+                combinedContent = `<div class="metadata-section"><strong>Additional Information:</strong>\n${article.date}</div>\n\n${combinedContent}`;
+            }
+
+            if (article.magazine && article.magazine.includes('\n')) {
+                combinedContent = `<div class="metadata-section"><strong>Publication Information:</strong>\n${article.magazine}</div>\n\n${combinedContent}`;
+            }
+
+            articleHTML += `<div class="article-content">${formatContent(combinedContent, article.type)}</div>`;
+        } else {
+            const authorLinksHTML = article.author ? 
+                (isEnglishMode() ? 
+                    `<a href="${createUrl('index.html', {author: article.author})}" style="color: inherit; text-decoration: none;">${article.author}</a>` :
+                    article.author.split(' ').map(name => 
+                        `<a href="${createUrl('index.html', {author: name})}" style="color: inherit; text-decoration: none;">${name}</a>`
+                    ).join(' ')
+                ) : 'Unknown';
+
+            articleHTML = `
+                <div class="article-header">
+                    <div class="article-title">${article.title}</div>
+                    <div class="article-meta">
+                        <div><span class="meta-label">Author:</span> ${article.author || 'Unknown'}</div>
+                        <div><span class="meta-label">Publication:</span> ${article.magazine} (${article.date})</div>
+                        <div><span class="meta-label">Type:</span> ${article.type || 'Other'}</div>
+                        <div><span class="meta-label">Issue:</span> 
+                            <a href="${createUrl('index.html', {issue: article.issue})}" style="color: inherit; text-decoration: none;">
+                                ${article.issue}
+                            </a>
+                            ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px; font-size: 0.8em;">PDF</a>` : ''}
+                        </div>
+                    </div>
+                    <div style="margin-top: 10px; color: #999; font-size: 0.9em;">
+                        ${prevArticle ? 
+                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
+                            prevIssue ? 
+                                `<a href="${createUrl('index.html', {issue: prevIssue})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Issue</a>` :
+                                ``
+                        }
+                        ${nextArticle ? 
+                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
+                            nextIssue ? 
+                                `<a href="${createUrl('index.html', {issue: nextIssue})}" style="color: #999; text-decoration: none;">Next Issue »</a>` :
+                                ``
+                        }
+                    </div>
+                </div>
+                <div class="article-content">${formatContent(article.content, article.type)}</div>
+            `;
+        }
+
+        articleHTML += `
+            <div class="article-navigation">
+                <div class="nav-links">
+                    <a href="${createUrl('index.html', {issue: article.issue})}" class="nav-link-issue">&laquo; Back to ${article.issue}</a>
+                    <div class="nav-pagination">
+                        ${prevArticle ? 
+                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" class="nav-link-prev">Previous Article</a>` : 
+                            prevIssue ? 
+                                `<a href="${createUrl('index.html', {issue: prevIssue})}" class="nav-link-prev">Previous Issue</a>` :
+                                `<span class="nav-link-disabled">Previous Article</span>`
+                        }
+                        ${nextArticle ? 
+                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" class="nav-link-next">Next Article</a>` : 
+                            nextIssue ? 
+                                `<a href="${createUrl('index.html', {issue: nextIssue})}" class="nav-link-next">Next Issue</a>` :
+                                `<span class="nav-link-disabled">Next Article</span>`
+                        }
+                    </div>
                 </div>
             </div>
         `;
-        
-        // Combine all content including problematic metadata fields
-        let combinedContent = article.content;
-        
-        // Add metadata fields that contain extensive text to the main content
-        if (article.author && article.author.includes('\n')) {
-            combinedContent = `<div class="metadata-section"><strong>Author Information:</strong>\n${article.author}</div>\n\n${combinedContent}`;
-        }
-        
-        if (article.date && article.date.includes('\n')) {
-            combinedContent = `<div class="metadata-section"><strong>Additional Information:</strong>\n${article.date}</div>\n\n${combinedContent}`;
-        }
-        
-        if (article.magazine && article.magazine.includes('\n')) {
-            combinedContent = `<div class="metadata-section"><strong>Publication Information:</strong>\n${article.magazine}</div>\n\n${combinedContent}`;
-        }
-        
-        articleHTML += `<div class="article-content">${formatContent(combinedContent, article.type)}</div>`;
-    } else {
-        // Normal display for articles with well-formed metadata
-        // Handle author links differently based on language mode
-        const authorLinksHTML = article.author ? 
-            (isEnglishMode() ? 
-                // English mode: single link for whole name
-                `<a href="${createUrl('index.html', {author: article.author})}" style="color: inherit; text-decoration: none;">${article.author}</a>` :
-                // Korean mode: split names at spaces (original behavior)
-                article.author.split(' ').map(name => 
-                    `<a href="${createUrl('index.html', {author: name})}" style="color: inherit; text-decoration: none;">${name}</a>`
-                ).join(' ')
-            ) : 'Unknown';
-        
-        articleHTML = `
-            <div class="article-header">
-                <div class="article-title">${article.title}</div>
-                <div class="article-meta">
-                    <div><span class="meta-label">Author:</span> ${authorLinksHTML}</div>
-                    <div><span class="meta-label">Publication:</span> ${article.magazine} (${article.date})</div>
-                    <div><span class="meta-label">Type:</span> 
-                        <a href="${createUrl('index.html', {type: article.type || 'Other'})}" style="color: inherit; text-decoration: none;">
-                            ${article.type || 'Other'}
-                        </a>
-                    </div>
-                    <div><span class="meta-label">Issue:</span> 
-                        <a href="${createUrl('index.html', {issue: article.issue})}" style="color: inherit; text-decoration: none;">
-                            ${article.issue}
-                        </a>
-                        ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px; font-size: 0.8em;">PDF</a>` : ''}
-                    </div>
-                </div>
-                
-                <!-- Subtle navigation links at the top -->
-                <div style="margin-top: 10px; color: #999; font-size: 0.9em;">
-                    ${prevArticle ? 
-                        `<a href="${createUrl('index.html', {path: prevArticle.path})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
-                        prevIssue ? 
-                            `<a href="${createUrl('index.html', {issue: prevIssue})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Issue</a>` :
-                            ``
-                    }
-                    ${nextArticle ? 
-                        `<a href="${createUrl('index.html', {path: nextArticle.path})}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
-                        nextIssue ? 
-                            `<a href="${createUrl('index.html', {issue: nextIssue})}" style="color: #999; text-decoration: none;">Next Issue »</a>` :
-                            ``
-                    }
-                </div>
-            </div>
-            <div class="article-content">${formatContent(article.content, article.type)}</div>
-        `;
-    }
-    
-    // Add navigation links with previous/next article
-    articleHTML += `
-        <div class="article-navigation">
-            <div class="nav-links">
-                <a href="${createUrl('index.html', {issue: article.issue})}" class="nav-link-issue">&laquo; Back to ${article.issue}</a>
-                
-                <div class="nav-pagination">
-                    ${prevArticle ? 
-                        `<a href="${createUrl('index.html', {path: prevArticle.path})}" class="nav-link-prev">Previous Article</a>` : 
-                        prevIssue ? 
-                            `<a href="${createUrl('index.html', {issue: prevIssue})}" class="nav-link-prev">Previous Issue</a>` :
-                            `<span class="nav-link-disabled">Previous Article</span>`
-                    }
-                    ${nextArticle ? 
-                        `<a href="${createUrl('index.html', {path: nextArticle.path})}" class="nav-link-next">Next Article</a>` : 
-                        nextIssue ? 
-                            `<a href="${createUrl('index.html', {issue: nextIssue})}" class="nav-link-next">Next Issue</a>` :
-                            `<span class="nav-link-disabled">Next Article</span>`
-                    }
-                </div>
-            </div>
-        </div>
-    `;
-    
-    contentDiv.innerHTML = articleHTML;
+
+        contentDiv.innerHTML = articleHTML;
+    });
 }
 
 // Display articles by a specific author
@@ -683,7 +623,18 @@ function initializeDisplay() {
 }
 
 // Run when page loads
-window.onload = function() {
-    loadDataScript();
+window.onload = function () {
     initLanguageToggle();
+
+    const pdfScript = document.createElement('script');
+    pdfScript.src = 'support/pdfs.js';
+    pdfScript.onload = () => {
+        initializeDisplay(); // only run after PDFs are available
+    };
+    pdfScript.onerror = () => {
+        console.warn('⚠️ Failed to load pdfs.js. PDF links may not appear.');
+        initializeDisplay(); // proceed anyway
+    };
+
+    document.body.appendChild(pdfScript);
 };
