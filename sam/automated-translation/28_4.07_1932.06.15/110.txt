@@ -1,0 +1,70 @@
+**Header Section:**
+Magazine Title: 삼천리 제4권 제7호
+Publication Date: 1932년 06월 15일
+Article Title: 휘파람 (Whistle)
+Author: Unknown
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation:**
+Whistle
+Mr. Yi Kwangsu's Salary
+
+Last month, after receiving his monthly salary of 130 Won and putting the envelope in his pocket, Mr. Yi Kwangsu (李光洙), the managing editor of the Tong-a Ilbo, was fine until he went somewhere with a friend for dinner. However, upon returning home after eating dinner, what astonishing thing could this be? The salary envelope, which he had clearly put in his pocket just moments before, had vanished into thin air (飛去雲霧中). Startled, he searched everywhere, but could not find even a shadow of it. Either it was stolen at the restaurant, or else he encountered a "gentleman on the beam" (梁上君子 - thief) while riding the bus on the way home and lost it...
+
+Mr. Yi, having lost a month's pay, still goes about laughing "ha-ha" like a gentleman, but there is one person who cannot simply laugh "ha-ha" – his wife, Mrs. Hŏ Yŏngsuk. When creditors flock to their house in Sŭngsam-dong (崇三洞), Mrs. Hŏ has to explain the whole story (自初至終) of the lost salary envelope right from the front gate, causing her no small headache these days, it is said.<15>
+
+**Summary**
+
+This short article recounts an anecdote where Yi Kwangsu (李光洙), a famous writer and managing editor at the Tong-a Ilbo newspaper, lost his entire monthly salary of 130 Won shortly after receiving it in 1932. Despite his own nonchalant reaction, his wife, Hŏ Yŏngsuk (허영숙), bears the brunt of explaining the situation to creditors who visit their home in Sŭngsam-dong (崇三洞). For historians, this piece offers a glimpse into the personal financial struggles, even for prominent intellectuals, during the Japanese colonial period in Korea. The specific salary amount (130 Won), the mention of creditors, and the contrast between Yi's demeanor and his wife's burden provide social and economic context for the era.
+
+**Named Entities**
+
+李光洙	이광수	Yi Kwangsu
+동아일보	동아일보	Tong-a Ilbo
+허영숙	허영숙	Hŏ Yŏngsuk
+崇三洞	숭삼동	Sŭngsam-dong
+
+**Glossary**
+
+월급	월급	Monthly salary
+너흔	넣은	Put in (older spelling)
+자시려	자시려고/드시려고	To eat (honorific, older form/spelling)
+엇든	어떤	Some / certain (older spelling)
+잇슬가	있을까	Could there be? (older spelling)
+금세	금세	Just now, moments ago
+飛去雲霧中	비거운무중	Vanished into thin air (Hanja phrase)
+차저 보앗스나	찾아 보았으나	Looked for, but (older spelling)
+업섯다	없었다	Was not there, was gone (older spelling)
+도적마젓든지	도둑맞았든지	Whether one was robbed (older spelling/form)
+그리치 안으면	그렇지 않으면	Otherwise, if not
+歸路	귀로	On the way back/home
+뻐스	버스	Bus (loanword, older spelling)
+양상군자	양상군자	Gentleman on the beam; euphemism for a thief/burglar (Hanja phrase)
+일허벼렷든지	잃어버렸든지	Whether one lost (it) (older spelling)
+업새버린	없애버린	Having lost / gotten rid of (older spelling)
+갓치	같이	Like, as (older spelling)
+영부인	영부인	Wife (honorific term)
+빗쟁이	빚쟁이	Creditor (older spelling)
+몰켜 오면	몰려 오면	When (they) flock/gather (older spelling)
+대문깐	대문간	Area by the front gate (older form)
+일헛다는	잃었다는	The story that (he) lost (it) (older spelling)
+자초지종	자초지종	The whole story from beginning to end (Hanja phrase)
+요지간	요즈음/요지음	Nowadays, recently (likely older/regional form)
+여간	여간	Slightly, ordinarily (used in negative 'not just a little')
+알는	앓는	Suffering from, aching (older spelling)
+아니시라든가	아니시라던가	Isn't she... / Reportedly is not... (honorific, hearsay, older spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제7호
+발행일	1932년 06월 15일
+기사제목	휘파람
+기사형태	잡저
+
+휘파람
+李光洙씨의 월급
+
+지난 달 월급 130원을 타서 월급 봉투를 호주머니에 너흔 동아일보 편즙국장 리광수씨는 어느 친구를 따라 엇든 곳으로 저녁 자시려 가기까지는 무사하엿스나 막상 저녁 자시고 도라서 집에 와 보니 이런 놀나운 일이 어듸 잇슬가. 금세 분명히 호주머니에 너흔 돈 월금 봉투가 飛去雲霧中하엿다. 놀나서 아모리 차저 보앗스나 영영 그림자도 차질 수 업섯다. 그 음식점에서 도적마젓든지 그리치 안으면 歸路에 뻐스를 탓다가 양상군자를 맛나 일허벼렷든지...
+한 달 보수를 업새버린 씨는 여전히 군자갓치 허-허 웃고 지내지만 다만 허-허 웃고 지내지 못하는 분에 그의 영부인 허영숙녀사가 잇섯다. 빗쟁이들이 崇三洞 집으로 몰켜 오면 대문깐에서부터 월급 봉투 일헛다는 자초지종을 이야기하기에 허녀사는 요지간 여간 두통 알는 것이 아니시라든가.<15>

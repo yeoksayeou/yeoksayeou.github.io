@@ -1,0 +1,47 @@
+Magazine Title: 三千里
+Publication Date: 1934년 08월 01일
+Article Title: 社告 (Company Notice)
+Author: 三千里編輯局
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Company Notice
+						Samch'ŏlli Editorial Department
+
+We deeply apologize that many articles previously scheduled had to be postponed to next month's issue due to space limitations. Furthermore, the upcoming September issue will be presented as an Autumn Festival (秋節) special feature. <136>
+
+**Summary**
+
+This brief notice from the Samch'ŏlli Editorial Department apologizes to readers for having to postpone several planned articles to the next issue because of limited space. It also announces that the forthcoming September issue will be a special feature dedicated to the Autumn Festival (Chuseok). From a historical perspective, the notice reflects common publishing challenges (space constraints) and promotional strategies (announcing special editions). The use of Hanja mixed with Hangul, alongside older grammatical forms like "만하엿슴을" and "함니다," is characteristic of Korean writing during the colonial period. The mention of the Autumn Festival (秋節) highlights the continued observance of traditional holidays.
+
+**Named Entities**
+
+三千里編輯局	삼천리편집국	Samch'ŏlli Editorial Department
+秋節	추절	Ch'ujŏl
+
+**Glossary**
+
+定하엿든	정하였던	(Which) was decided/scheduled (older form of 정했던)
+紀事	기사	Article/Report
+紙面關係上	지면관계상	Due to page/space limitations
+來月	내월	Next month
+밀닌	밀린	Postponed/Pushed back (older spelling of 밀린)
+만하엿슴을	많았음을	That (there) were many (older spelling/form of 많았음을)
+深謝함니다	심사합니다	We deeply apologize (older spelling of 심사합니다)
+來九月	내구월	Coming September
+秋節	추절	Autumn Festival (Chuseok)
+特輯	특집	Special feature/edition
+내옵니다	내옵니다	Will be presented/put out (slightly older/formal form of 나옵니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제8호
+발행일	1934년 08월 01일
+기사제목	社告
+필자	三千里編輯局
+기사형태	사고·편집후기
+
+社告
+						三千里編輯局
+定하엿든 紀事로서 紙面關係上 來月 號에 밀닌 것이 만하엿슴을 深謝함니다. 더욱 來九月 號는 秋節特輯으로 내옵니다. <136>

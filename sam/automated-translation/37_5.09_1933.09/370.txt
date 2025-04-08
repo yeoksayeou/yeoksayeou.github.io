@@ -1,0 +1,52 @@
+**Header Section:**
+Magazine Title: 三千里
+Publication Date: 1933년 09월 01일
+Article Title: 李博士의 紀行文 (Dr. Yi's Travelogue)
+Author: Unspecified
+Article Type: 잡저 (Miscellaneous Writing / Essay)
+
+**Body Text Translation:**
+Dr. Yi's Travelogue
+
+When the remains (遺骸) of Dr. Yi (李博士), who suddenly passed away on the Ch'ŏngjin Coast (淸津海岸), arrived at Ch'ŏngnyangni (淸凉里) on the morning of August 16th, Messrs. Chŏng In-bo (鄭寅普), Hong Myŏng-hŭi (洪命憙), Yu Chin-t'ae (兪鎭泰), Pyŏn Yŏng-no (卞榮魯), Yŏ Un-hong (呂運弘), and others who went out to attend the farewell ceremony gathered and talked about the deceased. According to what was heard, in the travelogue Dr. Yi last wrote, there were passages like "the story of looking into someone else's house of mourning" and "The Wŏnsan (元山) sea is too dirty, this body cannot be submerged in it." Thinking about it now, they said there were many phrases that were strangely coincidental. Could this merely be coincidence? <36>
+
+**Summary**
+
+This short piece describes a gathering of prominent Korean intellectuals (Chŏng In-bo, Hong Myŏng-hŭi, etc.) attending the arrival of the remains of a certain "Dr. Yi" in August 1933. They reminisce about his final travelogue, noting seemingly premonitory passages about visiting a house of mourning and finding the Wŏnsan sea too dirty to enter, which felt eerily significant after his sudden death. For historians, the article offers a glimpse into the intellectual circles of colonial Korea, their shared grief, and how they interpreted personal writings, possibly finding subtle reflections of the era's atmosphere or veiled commentary within them. The specific mention of these intellectuals gathering highlights their network and shared sentiments during a difficult period.
+
+**Named Entities**
+李博士	이박사	Yi Paksa
+淸津海岸	청진해안	Ch'ŏngjin Haean
+鄭寅普	정인보	Chŏng In-bo
+洪命憙	홍명희	Hong Myŏng-hŭi
+兪鎭泰	유진태	Yu Chin-t'ae
+卞榮魯	변영로	Pyŏn Yŏng-no
+呂運弘	여운홍	Yŏ Un-hong
+淸凉里	청량리	Ch'ŏngnyangni
+元山	원산	Wŏnsan
+
+**Glossary**
+遺骸	유해	Remains (of the deceased)
+아츰	아침	Morning (Older spelling)
+하엿슬 때	하였을 때	When (someone) did (Older spelling/grammar)
+參列코저	참렬코자	Intending to attend/participate (Older spelling/grammar)
+듯건대	듣건대	Hearing that; According to what was heard (Older spelling)
+이약이	이야기	Story; Talk (Older spelling)
+紀行文	기행문	Travelogue
+초상집	초상집	House of mourning
+드러다 보앗다	들여다 보았다	Looked into (Older spelling)
+업다	없다	To not exist; To be absent (Older spelling)
+잇서	있어	Being present; Existing (Older spelling)
+만헛섯다	많았었다	There were many (Older spelling/past perfect tense marker)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제9호
+발행일	1933년 09월 01일
+기사제목	李博士의 紀行文
+기사형태	잡저
+
+李博士의 紀行文
+淸津海岸에서 갑작히 도라간 李博士의 遺骸가 8월 16일 아츰 淸凉里에 도착하엿슬 때 영결식에 參列코저 나간 鄭寅普, 洪命憙, 兪鎭泰, 卞榮魯, 呂運弘 氏 等이 모여 고인의 이약이를 하는 것을 듯건대 李博士가 최후로 쓴 기행문 속에 「남의 초상집 드러다 보앗다는 이야기」와 「元山 바다는 더러워서 이 몸을 잠글 수 업다」는 구절이 잇서 지금 생각하면 기이하기 짝이 업는 글구가 만헛섯다고 이것이 다만 우연일가. ＜36＞

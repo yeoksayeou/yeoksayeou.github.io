@@ -1,0 +1,82 @@
+Magazine Title:	삼천리
+Publication Date:	1932년 01월 01일
+Article Title:	三千里 「壁新聞」 (Samch'ŏlli "Wall Newspaper")
+Author:	米國 가 잇는 朝鮮留學生 (Korean Students in the United States)
+Article Type:	소식 (News/Dispatch)
+
+Samch'ŏlli "Wall Newspaper"
+Korean Students Residing in the United States
+
+Currently, the individuals most active in Chosŏn society are those who studied abroad in Tonggyŏng and America.
+
+According to a recent survey, there is still a large number of 340 Chosŏn students studying day and night within the United States. Now, looking at the numbers of various foreign students currently studying at American universities:
+
+China: 1,294
+Canada: 1,263
+Japan: 987
+Philippines: 887
+Russia: 338
+Germany (獨 日): 397
+United Kingdom: 365
+Mexico: 350<49>
+
+**Summary**
+
+This short news piece highlights the significant role played by Koreans educated abroad, specifically in Tokyo and the United States, within contemporary Korean society (as of 1932). It reports that 340 Korean students were studying in the US at the time and provides comparative figures for students from other nations like China, Canada, Japan, the Philippines, Russia, Germany, the UK, and Mexico. For historians, the article offers a snapshot of the perceived importance of foreign-educated elites in colonial Korea and provides concrete data on the scale of Korean student presence in the US relative to other nationalities during this period. The comparison implicitly positions Korea within a global context of international education centered on America.
+
+**Named Entities**
+
+米國	미국	United States
+朝鮮	조선	Chosŏn
+東京	동경	Tonggyŏng
+아메리카	아메리카	America
+中  國	중국	China
+加奈陀	가나다	Canada
+日  本	일본	Japan
+比律賓	비율빈	Philippines
+露西亞	노서아	Russia
+獨  日	독일	Germany (*Note: Appears as 獨 日 (Dok Il) in the text, likely a typo for 獨逸 (Dokil)*)
+英  國	영국	United Kingdom
+墨西加	묵서가	Mexico
+
+**Glossary**
+
+만히	많이	many, much (older spelling)
+잇는	있는	who are, which is (older spelling)
+잇다	있다	to be, exist (older spelling)
+米國	미국	United States (lit. 'rice country')
+朝鮮留學生	조선 유학생	Korean international student(s)
+최근	최근	recent
+조사	조사	survey, investigation
+아직도	아직도	still, yet
+日日夜夜	일일야야	day and night
+수업	수업	studying, taking classes
+多數	다수	large number
+현재	현재	currently, present time
+대학	대학	university, college
+수학	수학	studying, pursuing studies (here, not mathematics)
+諸외국유학생	제 외국 유학생	various foreign international students (諸 is a prefix for 'various')
+보건대	보건대	looking at, considering
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제1호
+발행일	1932년 01월 01일
+기사제목	三千里 「壁新聞」
+기사형태	소식
+
+三千里 「壁新聞」
+米國 가 잇는 朝鮮留學生
+
+지금 조선사회에서 가장 만히 활약하고 잇는 인물은 東京留學과 아메리카 유학생들이다.
+최근의 조사에 의하면 아직도 米國 내에는 日日夜夜 수업하고 잇는 조선유학생 수가 340명의 多數가 잇다 하는데 이제 현재 미국의 각 대학에서 수학하고 잇는 諸외국유학생 수를 보건대.
+中  國1,294명
+加奈陀1,263명
+日  本 987명
+比律賓 887명
+露西亞 338명
+獨  日 397명
+英  國 365명
+墨西加 350명<49>

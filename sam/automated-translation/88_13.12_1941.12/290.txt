@@ -1,0 +1,101 @@
+**Header Section:**
+Magazine Title: 三千리
+Publication Date: 1941년 12월 01일 (December 1, 1941)
+Article Title: 時局解說 (Situational Commentary)
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation:**
+Situational Commentary
+
+What is National Land Planning (國土計畫)?
+Recently, the term National Land Planning (國土計畫) is being used. This term refers to a comprehensive plan for the preservation (保全), utilization (利用), development (開發), and construction (建設) of the national land. In this context, national land (國土) does not simply mean the natural land, but the human land tied to politics, economy, and culture. Therefore, National Land Planning aims to revitalize the life force (生命力) inherent in the national land by comprehensively planning various facilities such as industry (産業), transportation (交通), and culture (文化), the distribution (配分) of population, and the placement (配置) of labor, all in relation to the land, toward the specific goal of building a national defense state (國防國家建設).
+
+What is the Fifth Unit (第五部隊)?
+What does the 5th Unit (第5部隊) or 5th Column (第5列) mean? It signifies spies (스파이) or collaborators (內通者). The etymology (語原) comes from the Spanish Civil War (西班牙의 動亂). General Franco (후랑코 將軍) used four units for the capture (攻略) of Madrid (마드릿드), and additionally had a spy group corresponding to a 5th Unit stationed within Madrid city. Because they responded to each other (서로 呼應하여) during the occupation (進駐), collaborators (內應者) or spies came to be called the Fifth Column (第五列).
+
+What "Banzai" means in Germany (獨逸)?
+In German (獨逸 말로), "Heil" (하일) is a term of blessing (祝福), meaning Banzai (萬歲). "Heil Hitler" (하일. 히틀러) means "Long live Hitler" (히틀러 萬歲).
+
+What are White Papers (白書), Blue Books (靑書), and Yellow Books (黃書)?
+A White Paper (白書) in Britain (英國) is an official report (官憲의 報告書) for reporting to Parliament (議會報告); it is called a White Paper because its cover (表紙) is white (힌). A Blue Book (靑書) is a report from British Ambassadors/Ministers abroad (英國의 在外大公使) to the Foreign Minister (外務大臣); it is called a Blue Book because its cover is blue (푸른).
+The White Paper and Blue Book published in Britain, detailing the diplomatic negotiations (外交交涉經緯) surrounding the outbreak of war between Britain/France and Germany (英佛對獨 開前) from August to September the year before last (再昨年; 1939), sold with great popularity (大人氣로 팔렀다) once issued. A Yellow Book (黃書) is the French (佛蘭西) diplomatic report, similar to Britain's Blue Book. In Italy (伊太利), this is called a Green Book (綠書). <125>
+<124-125>
+
+**Summary**
+
+This article from late 1941 explains several terms relevant to the international situation and state management. It defines "National Land Planning" as a comprehensive strategy for developing national territory encompassing infrastructure, population, and labor distribution, explicitly linking it to the goal of building a "national defense state." It explains the origin of the term "Fifth Column" from the Spanish Civil War, the meaning of "Heil Hitler" in Germany, and the different colored diplomatic report books used by Britain (White Paper, Blue Book), France (Yellow Book), and Italy (Green Book).
+
+For historians, this piece is interesting as it reflects the concepts and terminology permeating Korean society under Japanese rule during the early stages of the Pacific War (published just before Pearl Harbor). The focus on "National Land Planning" aligned with Japanese state planning ideology, and the explanation of terms like "Fifth Column" and "Heil Hitler" indicates an awareness of, and likely alignment with, Axis power narratives and the broader geopolitical context of World War II within the colony. The explanation of diplomatic 'papers' shows an interest in international diplomatic practices.
+
+**Named Entities**
+
+후랑코 將軍	후랑코 장군	General Franco
+마드릿드	마드리드	Madrid
+西班牙	서반아	Spain
+獨逸	독일	Germany
+히틀러	히틀러	Hitler
+英國	영국	Britain
+佛蘭西	프랑스	France
+伊太利	이탈리아/이태리	Italy
+
+**Glossary**
+
+時局解說	시국 해설	Situational commentary; Explanation of the current situation
+國土計畫	국토 계획	National Land Planning
+保全	보전	Preservation; Conservation
+綜合的	종합적	Comprehensive; Synthetic
+國防國家	국방 국가	National Defense State
+生命力	생명력	Life force; Vitality
+살니려	살리려	To try to save; To try to revive (older spelling of 살리려고 하다)
+第五部隊	제오 부대	Fifth Unit; Fifth Column
+第五列	제오 열	Fifth Column
+內通者	내통자	Collaborator; Insider traitor
+語原	어원	Etymology; Origin of a word
+動亂	동란	Disturbance; Turmoil; Civil war
+攻略	공략	Attack; Capture; Conquest
+呼應	호응	Responding (to each other); Acting in concert
+進駐	진주	Stationing troops; Entering and occupying
+內應者	내응자	Collaborator; Insider traitor (same meaning as 內通者)
+萬歲	만세	Hurrah; Long live; Banzai
+白書	백서	White Paper (official government report)
+官憲	관헌	Government authorities; Officialdom
+表紙	표지	Cover (of a book or document)
+힌	흰	White (older spelling)
+靑書	청서	Blue Book (official government report, esp. British diplomatic)
+在外大公使	재외 대공사	Ambassador or Minister Plenipotentiary stationed abroad
+外務大臣	외무 대신	Foreign Minister
+푸른	푸른	Blue
+再昨年	재작년	The year before last
+英佛對獨	영불 대독	Britain and France versus Germany
+開戰	개전	Outbreak of war; Start of hostilities
+外交交涉經緯	외교 교섭 경위	The details (or process) of diplomatic negotiations
+記載	기재	Recording; Entry; Description
+大人氣	대인기	Great popularity
+팔렀다	팔렸다	Was sold (older passive form/spelling)
+黃書	황서	Yellow Book (official government report, esp. French diplomatic)
+綠書	녹서	Green Book (official government report, esp. Italian diplomatic)
+잡저	잡저	Miscellaneous writing; Miscellany; Essay
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제12호
+발행일	1941년 12월 01일
+기사제목	時局解說
+기사형태	잡저
+
+時局解說
+國土計畫이란 무엇이냐
+요지음 國土計畫이란 말이 있는데 이 뜻은 國土의 保全, 利用, 開發, 建設의 綜合的 計畫을 말함이다, 이 경우에 國土라 함은 단지 自然的 土地가 아니고, 政治, 經濟, 文化에 결부한 人文的 土地을 말하는 것으로 그러기에 國防國家建設이라 하는 일정한 目標에 향하여 産業, 交通, 文化 등의 諸 施設, 人口의 配分, 勞力의 配置 등을 土地와의 관련에 있어 綜合的으로 計畫하여 國土가 가진 生命力을 살니려 하는 것이 國土計畫이다.
+
+第五部隊란 무엇이냐
+第5部隊 或은 第5列이라 함은 무슨 말인가 하면 스파이 又는 內通者의 意味로, 語原은 西班牙의 動亂으로 후랑코將軍이 마드릿드 攻略에 四個部隊를 쓰고, 그 밖에 第5의 部隊에 相當하는 스파이단을 마드릿드 시내* 가저다 두고, 서로 呼應하여 **進駐한 데로부터, 內應者 又는 스*이를 第五列이라 부르게 되었다.
+
+獨逸서 萬歲라 함은
+獨逸말로 「하일」 이라 함은 祝福의 意味로서 萬歲의 뜻이다. 「하일. 히틀러」라 함은 「히틀러 萬歲」라는 뜻이다.
+
+白書, 靑書, 黃書란 무엇인가
+白書는 英國서 議會報告를 하기 위하여서의 官憲의 報告書로, 그 表紙가 힌 까닭에 白書라 하고, 靑書는 英國의 在外大公使로부터 外務大臣에의 報告書로 그 表紙가 푸른 까닭에 靑書라 한다,
+再昨年 8月부터 9月에 걸쳐서 英佛對獨 開前의 前後의 外交交涉經緯를 記載한 白書, 及 靑書는 英國에서 한 번 발행되자 아주 大人氣로 팔렀다. 黃書는 佛蘭西 外交報告書로 英國의 靑書와 같은 것 또 伊太利에선 이것을, 綠書라 한다. ＜125＞
+＜124-125＞

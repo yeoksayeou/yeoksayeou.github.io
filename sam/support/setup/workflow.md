@@ -1,0 +1,6 @@
+- run build.py for the Korean and build_en.py for the English 
+- These will create data.js and data_en.js - may need to change the output from const to window.ARTICLES
+- for the data_en.js the titles and metadata are messed up so run node jsonreplace.js with titles_en.js in the directory so that it fixes the titles.
+  - to create titles_en.js from titles_en.txt you can use titles-to-json.py (currently only looks for title)
+- then use node split-articles-by-issue.js and node en-split-articles-by-issue.js to create index and index_en folders which you put in the support folder.
+- use node generate_issue-list.js to get the list of issues.

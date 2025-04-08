@@ -1,0 +1,42 @@
+**Header Section**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1935년 11월 01일
+Article Title: 社告 (Company Announcement)
+Author: None
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Body Text Translation**
+Company Announcement
+
+From the next issue, many good children's songs (童謠) and children's stories (童話) will be published.<204>
+
+**Summary**
+
+This brief announcement informs readers that the magazine *Samch'ŏlli* will begin publishing a significant number of children's songs and stories starting with the subsequent issue. For historians, this notice highlights the magazine's content strategy and potentially reflects a growing interest in or perceived need for children's literature and cultural content within Korean society during the colonial period, possibly aimed at education or shaping young minds.
+
+**Named Entities**
+
+None
+
+**Glossary**
+
+社告	사고	Company announcement/Notice
+다음號	다음호	Next issue (號 indicates 'issue number')
+조흔	좋은	Good (older spelling of 좋은)
+童謠	동요	Children's song/Nursery rhyme
+童話	동화	Children's story/Fairy tale
+만히	많이	Many, much (likely an older spelling/form for 많이, as 가만히 'quietly' doesn't fit the context)
+실니겟슴니다	실릴 것입니다 / 싣겠습니다	Will be published/included (older polite future tense ending of 싣다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제10호
+발행일	1935년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+다음號부터는 조흔 童謠와 童話가만히실니겟슴니다＜204＞
+＜204＞

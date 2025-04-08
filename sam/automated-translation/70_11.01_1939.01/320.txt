@@ -1,0 +1,895 @@
+Magazine Title: 삼천리 제11권 제1호
+Publication Date: 1939년 01월 01일
+Article Title: 詩傳 =孔子曰, 詩三百一言以蔽之, 曰, 思無邪. - 論語- (The Book of Songs = Confucius said, "The three hundred poems can be covered by one phrase: 'Have no depraved thoughts.'" - Analects -)
+Author: 柳錫彬 譯 (Translated by Yu Sŏkpin)
+Article Type: 시 (Poetry)
+
+Preface to the Book of Songs
+
+Someone asked me, "For what reason were the poems created?" I answered, saying, "Man is born tranquil; this is the nature endowed by Heaven. To be moved by external things is the desire of this nature. Since there are desires, one cannot be without thoughts. Since there are thoughts, one cannot be without words. Since there are words, when words cannot fully express, what bursts forth in sighs and songs must naturally have rhythm and sound, unable to cease. This is why poetry is created." He then asked, "So, what is its didactic purpose?" I replied, "Poetry is the surplus of what the human heart feels when moved by things, expressed in words. The feelings of the heart can be deviant or proper, thus the expressions in words have right and wrong. Only when a sage is in a high position are his feelings always proper, and all his words are sufficient for instruction. If perhaps the feelings are mixed, and what is expressed cannot be chosen, then the person in a high position must reflect upon himself and thereby encourage good and punish evil; this also serves as instruction. In the past, during the flourishing era of Chou (周), from the suburban temples and court down to the village lanes, the words were pure and invariably stemmed from propriety. The sage had already harmonized them with melody and rhythm, using them among the countrymen and in the states to transform the world. As for the poems of the various states, when the Son of Heaven made his inspection tours, they were presented and examined as a basis for the rites of promotion and demotion. From the time after Kings Chao (昭) and Mu (穆), decline gradually set in, and by the time of the eastward move [of the capital], the practice was abandoned and no longer discussed. Confucius (孔子), born in that era, did not attain a position to enact policies of encouragement, punishment, promotion, and demotion. Therefore, he specifically took up the records, discussed them, removed repetitions, corrected disorder, and even excised those poems whose goodness was insufficient as a model or whose evil was insufficient as a warning, aiming for conciseness to reveal them for posterity. This was so that scholars could thereby examine the gains and losses, emulating the good and correcting the bad. Thus, although his governance could not be implemented in his time, his teachings truly spread across ten thousand generations. This is how poetry serves <266> as instruction." He asked, "Then, why are the forms of the Kuo Feng (國風), Ya (雅), and Sung (頌) so different?" I replied, "I have heard that what are called Feng in poetry mostly originated from the songs and ballads of village lanes. They are what men and women sang together, each expressing their feelings. Only the Chou Nan (周南) and Shao Nan (召南) were directly influenced by the civilizing virtue of King Wen (文王) to achieve moral perfection, and everyone was able to attain the propriety of their nature and emotions. Therefore, what they expressed in words was joyful without being licentious, and sorrowful without being injurious. Thus, these two sections alone are considered the orthodox canon of the Feng poems. From Pei Feng (邶風) downwards, the governance of the states varied, the worthiness of the people differed, and what they felt and expressed displayed an uneven mix of deviance and propriety, right and wrong. Thus, what was called the 'style of the former kings' changed. As for the Ya and Sung sections, they are all lyrics for music performed at court and in the suburban temples during the Chou dynasty. Their language is harmonious and solemn, their meanings broad and meticulous. Their authors were often disciples of the sages, inherently serving as models for ten thousand generations, immutable. Even the 'altered' Ya (變雅) poems were largely composed by worthy men and gentlemen of the time, lamenting the times and grieving over customs. The sage selected them for their loyal, compassionate hearts and their intention to promote good and suppress evil, something which later eloquent scholars could hardly replicate. This is why the Book of Songs, as a classic, encompasses human affairs below and is equipped with the principles of Heaven above, lacking no single principle." He asked, "Then how should one study it?" I replied, "Base oneself on the two Nan sections to seek its beginning, consult the various states to exhaust its variations, rectify with the Ya to broaden its scope, and harmonize with the Sung to grasp its endpoint. This is the main gist of studying poetry. Thereupon, use the chapters and verses (章句) to structure it, glosses (訓詁) to record it, recitation (諷咏) to make it flourish, and immersion (涌濡) to embody it. Examine it in the subtleties of emotion and nature, scrutinize it at the inception of words and deeds (樞機), then the way to cultivate the self, regulate the family, and bring peace to the world (脩身及家平均天下之道) will also be found herein without needing to seek elsewhere." The questioner nodded assent and withdrew. As I was compiling the 'Commentary on the Book of Songs' (詩傳) at that time, I accordingly arranged these words to preface the volume. Written by Chu Hsi (朱熹) of Hsin-an (新安) on the wu-tzu day of the tenth month, winter, in the ting-yu year of the Ch'un-hsi era (淳熙四年, 1177).
+
+Preface to the Sijŏn (Book of Songs)
+
+A visitor came to me and asked, "For what purpose was poetry (詩) created?" I answered, saying, "Human nature is originally tranquil. When it is moved by things, this is the desire of nature. Since desires arise, thoughts cannot but exist; since thoughts exist, words cannot but exist; since words exist, what cannot be fully expressed through words—the movements of a fleeting and aimless heart—will inevitably find expression, 맞춰, in natural sounds and rhythms, <267> unable to cease. This is the reason songs came to be composed." He then asked, "Then how does it become instruction for people?" "Poetry is the remainder of the human heart's feelings, moved by things, appearing in words. As the heart feels, there is right and wrong, so when it appears in words, it is divided into right and wrong. If a Sage (聖人) is above, there is nothing he feels that is not proper, so his words are all sufficient to serve as instruction. But if his feelings are mixed, reaching a point where discernment and selection are needed, then being the superior person, he must certainly reflect upon himself. Consequently, by encouraging the good and punishing (懲戒) the wicked, it also becomes instruction. In the past, during the flourishing times of the Chou (周) dynasty, from the capital palaces down to the rural villages (洞里), their [expressions] were pure (淳粹), all arising from propriety. The Sage himself composed sounds and rhythms for them, so the entire nation sang, and the whole world (天下) was harmonized. Furthermore, when the Son of Heaven (天子) toured the various states (列國), he would view the poetry (詩) of that state and reward or punish officials accordingly. From the time of King Chao (昭王) and King Chi (稷王, likely Mu 穆王), that system declined. When King P'ing (平王) moved the capital to Loyang (洛陽), it finally disappeared. Confucius (孔子) was born in that era, did not attain a position (位), and could not carry out governance (政事). Thus, he discussed the Poetry, eliminated repetitions, corrected disorder, discarded things that, though good, could not serve as law, and things that, though evil, were not worthy of punishment (懲戒), revised them to be concise (簡約), and revealed them for eternity, enabling learners to contemplate the gains and losses, follow the good, and correct the wrong. Therefore, although his governance might not have been implemented in his time, his teachings truly reached myriad generations. How could it not be instruction? However, why are the forms called Feng (風), Ya (雅), and Sung (頌) dissimilar?" he asked. I answered again, "I have heard that what is generally called Feng in Poetry mostly came from songs sung in the village alleys (閭巷). It is men and women singing together, each expressing their feelings (情). Only Chou Nan (周南) and Shao Nan (召南) personally received the civilizing influence (德化) of King Wen (文王), achieving virtue, so everyone's heart was proper. Looking at what appeared in their words, they were joyful but not licentious (淫), sorrowful but not harmful (傷). Thus, these two sections alone are called the 'orthodox canon' (正經) of the Feng Poetry. From Pei Feng (邶風) downwards, the governance (治亂) of each state was not the same, and the wisdom/foolishness (賢愚) of the people also differed. What they felt and expressed in song was also uneven in propriety (發르고) and deviance (姿邪), right and wrong. Thus, the 'civilizing influence of the former kings' (先王之風化) changed in this way. As for the <268> Ya and Sung sections, they are all court music (風流) from the time of the Chou dynasty. Their words are balanced yet vigorous (씩씩하고), their meaning broad yet dense (빽빽하니). The composers were generally disciples (弟子) of the Sage. They were originally models (法程) for myriad generations and cannot be changed. Even in the 'Altered Ya' (變雅), they were all composed by worthy men and gentlemen (賢人君子) worried about the times and concerned about customs. The Sage selected them for their loyalty to the country and compassionate feelings (뜯을) towards the people. This is beyond the capability of eloquent scholars (선비) of later generations. Also, being the 'Classic' (經) of Poetry, it below permeates human affairs (浹洽) and above is equipped with the principles (理致) of heaven. Not a single aspect of humanity is missing." The visitor asked about the method of learning it. I answered, "Take the two Nan sections as the foundation, exhaust the variations (變) of the various states (列國) to find their meaning (뜯을), correct with the Ya to broaden the scale (규모), and harmonize with the Sung to reach the end. This is the method. Therefore, read the chapters and verses (章句), record the glosses (訓話), recite and memorize (을프고 외여서) to practice it. If you examine the inner heart and are careful at the beginning of words and actions (言行), the way to cultivate the self, manage the household, and pacify the world (天下) will be found here." The visitor then withdrew. As I was currently compiling the Sijŏn (詩傳), I used the words I spoke in reply to the visitor as the preface. Written by Chu Hsi (朱熹) of Hsin-an (新安) on the wu-tzu day of the tenth month, winter, in the ting-yu year (丁酉) of the Ch'un-hsi (淳熙) era (fourth year, 1177). <269>
+
+Kuo Feng (國風) - Chou Nan (周南) One of One -
+
+Kuan Chü (關雎) Water Bird Song
+Kuan-kuan cry the ospreys (關關雎鳩)一 A lovely crying sound
+On the islet in the river (在河之洲)-roda On the water's edge, the water bird's song
+The modest, retiring, virtuous, young lady (窈窕淑女)- The lovely young lady
+Fit mate for our lord (君子好逑)-roda Is a good match (好逑) for the gentleman <269>
+Here long, there short, is the water-mallow (參差荇菜)를 The uneven water shield plants
+Left and right we float it (左右流之)로다 Washed away to both sides
+The modest, retiring, virtuous, young lady (窈窕淑女)를 The lovely young lady
+Waking and sleeping, he sought her (寤寐求之)로다 Let's seek her day and night.
+He sought her and found her not (求之不得)이라 Though sought day and night
+Waking and sleeping, he thought of her (寤寐思服)하야 How could she be obtained?
+Longingly, longingly (悠哉悠哉)라하 Though tossing and turning
+He tossed and turned from side to side (轉輾反側)하소라 How could she be obtained?
+
+Here long, there short, is the water-mallow (參差荇菜)를 The uneven water shield plants
+Left and right we gather it (左右釆之)로다 Gathered neatly on both sides
+The modest, retiring, virtuous, young lady (窈窕淑女)를 The lovely young lady
+With lutes, small and large, let us give her friendly welcome (琴瑟友之)로다 Befriends the zither (가야고)
+Here long, there short, is the water-mallow (參差荇菜)를 The uneven water shield plants
+Left and right we cook it (左右芼之)로다 Made into greens on both sides
+The modest, retiring, virtuous, young lady (窈窕淑女)를 The lovely young lady <270>
+With bells and drums let us gladden her (鍾鼓樂之)로다 Enjoys playing with large drums
+
+Ko T'an (葛覃) Kudzu Vine
+
+How the kudzu spreads out (葛之覃兮)- Kudzu vine, spreading, spreading
+Extending to the midst of the valley (施于中谷)하야 Reaching the middle valley
+Its leaves are luxuriant (維葉萋萋)-어늘. Leaves abundant on every branch
+The yellow birds fly about (黃鳥于飛)- The dance of the orioles
+Alighting on the shrubs (集于灌木)하야 A joyful song's sound
+Their singing is harmonious (其鳴喈喈)리라 In the shade of the strawberry vines
+
+How the kudzu spreads out (葛之覃兮)- Kudzu vine, spreading, spreading
+Extending to the midst of the valley (施于中谷)하야 Reaching the middle valley
+Its leaves are dense (維葉莫莫)이어늘 Leaves abundant on every branch
+They are cut, they are boiled (是刈是濩)하야 Cut and cut, gathered up (Continued in next issue)
+
+Kuo (國). The territory enfeoffed to feudal lords (諸侯)
+Feng (風). Poetry singing of folk customs (民俗)
+Chou Nan (周南). Chou is the name of a state (now within Shensi Province, 陝西省), Nan means southern; it means the southern part of the Chou state.
+Kuan-kuan (關關). Description of the sound of the female and male birds harmonizing and responding to each other.
+Yao-t'iao (窈窕). Meaning modest and demure (幽閑).
+Ts'en-tz'u (參差). Uneven length.
+Wu-mei (寤寐). Both wu (waking) and mei (sleeping) mean doing something without regard to time.
+Chuan-chen (轉輾), Fan-ts'e (反側). The sleeping place is uncomfortable.
+Ch'i-ch'i (萋萋). Flourishing appearance.
+Chieh-chieh (喈喈). A pleasant sound heard from afar. <271>
+
+Selection of Greek Lyric Poetry
+
+An Sŏ (岸曙)
+
+It goes without saying how extremely difficult the transplantation (移植) of poetry is, but my attitude in translating these Greek lyric poems this time is no different from my previous assertions. In other words, I took the ideas from the original Japanese translation (和譯) of the original poems and strove to make them resemble poetry with the freest possible brushstrokes. The world seems to value direct translation (直譯) or faithful word-for-word translation (遂字譯), but this is something I absolutely cannot abide. Why? Because it does nothing but kill the poetry itself forever.
+There may be those who ridicule my free style as incorrect, but my assertion will never change.
+Well, leaving that aside, on this occasion, I would like to briefly relate the story of the Greek poetess Sappho (삽포). This is because considerable interest arises.
+Excluding Homer (호메로스), Sappho's poetic evaluation as a woman is just as high today as it was in the past, without the slightest difference. As for why this poetess became so famous, it is said to be because her songs were elegant, sincere, possessed a feminine grace, and had a beautiful sentiment. However, it is regrettable that this poetess's poems remain only in fragments, making it difficult to glimpse their full glory (金面). It seems that Sappho's poems were mostly burned along with other books because they largely dealt with love (戀愛), so what remains today are mostly snippets discovered in various books. Thus, there is a sense of searching for the fragrance (芳香) of a past poetic season from fallen flower petals. <272>
+Sappho was born around the end of the 7th century BC in the town of Eresos (에레소스邑) on the island of Lesbos (레스보스島) off the coast of Asia Minor (소아시아). In the local Aeolic (아이오리스語) dialect, her name is Psappho (프삽포). She was from the local aristocracy (貴族), became involved in a dispute that arose then with the burgeoning commercial petty bourgeoisie, and left her homeland for a while with her clan (一族同類). Later, she returned to her hometown, set up house in the capital Mytilene (미티레네), and is said to have taught young maidens the zither (거문고) and dance. Besides songs about entertaining friends and weddings (婚禮), many of her works (制作) seem to have been composed for use on such occasions.
+Sappho also had friendly relations with the poet Alcaeus (알카이어스) from the same island. Her brothers held considerable status (지위) and wealth (재산) and traveled back and forth doing business. The fact that this poetess loved a maiden named Cleis (크레이스) like gold seems true, and it appears this is why she was called a homosexual (同性愛者). However, detailed biographical information (傳紀) about this poetess lacks sufficient evidence (憑證), so it is regrettable again that I cannot elaborate further.
+If even a glimpse of this poetess can be caught from these few translated poems, my joy as the translator (譯者) would be great, and it would likely do no harm to the bygone poetess either.
+
+Whirlwind (Sappho)
+
+Like a whirlwind
+Twisting the oak branches
+Round and round
+Love shakes my whole being (오장육부)
+This heart of mine
+To pieces <273>
+
+On the bank of the gently flowing river (Sappho)
+
+Playing over the branches of the apple tree (능금나무)
+On the bank of the gently flowing river
+A passing gentle breeze
+In that wind, leaves tremble alone
+Quiet sleep succumbs to the river water
+
+The moon has set (Sappho)
+
+The moon has set and the stars too have gone in
+Night now, midnight (子正) has passed
+Time goes by and changes
+I fall asleep alone
+
+Red apple (Sappho)
+
+Shall I call it that of a red apple?
+Dyed red, on a high branch <274>
+Hanging on one branch, higher still
+Was it that the picker didn't see it?
+No, no, was it because they didn't see it
+Because their arm couldn't reach, they didn't see it
+The red apple remaining alone, dangling (댕글이)
+
+Rose (Anonymous)
+
+Rose,
+Is the flower season (時節)
+But a moment?
+
+Once the time passes
+No matter how I search
+The flower has fallen
+Only thorns (딸기) remain
+
+Light pink rose (Anonymous) <275>
+To be born
+As a light pink rose
+With my hands, I pick that flower
+That snow-like white breast (흰가슴)
+Wrapping our beloved
+
+Asclepius (Meleager)
+
+Asclepius (아스크레피어스)
+Your eyes are so beautiful
+When you open those shining eyes once
+It's like daybreak on the seashore (바다까)
+Everyone raises the sails (돗) on the ship of love, indeed <276>
+
+Irish Folk Song
+
+Translated by Mo Yunsuk (毛允淑 譯)
+
+I met little Collen (콜넨, horse name?) in the market
+"God protect thee," I whispered
+He intoxicates my heart.
+
+Faraway Irish mountain village
+When my hand grows strong with the grass
+My heart leaps lightly with joy.
+
+The Irish house you always sought
+Will greet you courteously with a smiling face.
+Oh! How long I have missed brown Pogi (뽀기, horse name?)
+Strong and cheerful Pogi
+May God above the blue sky abide upon you.
+
+She is always kind, humble, and wise
+A woman of love, faithful also in work
+Prayer dwells in her heart <277>
+
+A smile lingers in her eyes
+Trustworthy Irish mother, Mercury (매큐리)!
+
+Rekindling tender memories
+Beloved old Irish roads!
+
+Though I wander far
+My heart stays in the joyful little Irish home.
+
+Binding my thoughts (想念) with mystical threads
+Take me to the shores of the Irish lakes.
+
+When hope truly finds me, my wish is
+In that little house in the Irish valley
+To stay with you.
+
+Carefree and peaceful Ireland
+Always welcoming and waiting for you.
+
+Like in the old days, like a flower
+I see Samnyak (샘략, horse name?) growing on the cool path. <278>
+
+Sŏkkuram Grotto (石窟庵)
+
+Wŏlt'an (月灘)
+
+Eleven-Faced Avalokiteśvara Bodhisattva (十一面觀音菩薩) (1)
+
+A thousand-year Great Buddha
+Enshrined as a Holy Maiden (聖處女)
+With a gourd (胡蘆), one bottle
+Did she empty the waters of the East Sea (東海)?
+
+Smiling, as if murmuring (자부름), then again
+Smiling, as if dozing
+Closed yet open, lovely lips
+If you incline your ear and listen
+Fragrant words
+Seem to murmur softly (도라도란). <279>
+
+Eleven-Faced Avalokiteśvara Bodhisattva (2)
+
+The halo (圓光) and jeweled crown (寶冠) are all venerable.
+Soft cheeks
+Slender shoulders
+Beneath the spring mountain-like elegant eyebrows (春山峨眉) slightly open
+A finely shaped, drooping nose
+How lovely, even without the bell ornament.
+
+Eleven-Faced Avalokiteśvara Bodhisattva (3)
+
+How fine are the Bodhisattva's hands
+Though stone, like white fish (백어, 白魚).
+Were the ancient beauties of Silla (新羅) so venerable?
+If I kneel and caress them weeping
+The fragrant warmth (薰香) of the high, warm flesh
+Seems it would instantly become warm. <280>
+
+A Visitor in White Arrives
+
+Yŏsu (麗水)
+
+I do not wish to say anything
+Beautiful words, embellished this way and that
+I dislike the falsehood that follows those words
+Rather, I will say nothing at all
+
+Besides, what is there for me to say now?
+You know everything better than I
+And the spirits of heaven and earth (하눌땅의 신명) know everything
+That is all - there is nothing more to say <281>
+
+Fallen leaves (락엽) tumbled futilely onto the street
+Just like before, the visitor in white (소복닙은 손님) - winter
+Shakes the window frame (들창문) of my solitary weeping
+Again tonight, I only sigh in vain.
+
+Not on paper (조희우), but now
+I am recording in my heart
+A heavy silence drifts in the room
+Outside on the street, a snowstorm (눈보라) is still raging. <282>
+
+That Beloved Day
+
+Karam (가람)
+
+The lark's ear is tempted, the mayfly catches the eye
+Digging wild onions (옹곳) in the marshy field (진펄밭), climbing the mountain (뫼) to pick bracken
+Sitting upright (오또기) in the room, disliking reciting texts.
+
+On the grassless riverbank (강변), the sun's rays are harsh
+Playing with sand daily, living in the water
+The body, black as clothes, did not shine.
+
+Stealing beans (콩서리) and roasting them over a bonfire (모닥불)
+Pestering the old man making straw mats (밀방석) and twisting hemp ropes (신삼는)
+Endless old stories made the night seem short.
+
+That winter, the winter solstice month (동지 섣달), did we not know the cold?
+Barefoot in the snow, racing with friends (동모)
+Comparing icicles on every rice stack (볏가리). <283>
+
+Last Night of the Month
+
+Kim Myŏngsun (金明淳)
+
+On the last night of the month, the stars seemed likely to fall
+I gathered an armful, but this emptiness
+Insects cry out.
+
+Seeking autumn, I came to a deep valley
+Blue, yellow, red abound (靑黃赤 爛漫한대), where is this place?
+The sound of water is profound, knowing hidden feelings (情).
+
+Oh, gentle stream flowing over the sandy path
+I raise my voice and call your name <284>
+Let us go together on the road to the sea.
+
+At the end of the desolate street, the beloved is unlikely to come
+When longing arises, the moon rises as if they have come
+Perhaps the same image will appear before my eyes.
+
+Late on an early winter night, reading difficult texts
+The sound of dragging slippers (曳履聲) in the back garden sounds like theirs
+But not knowing my hardship, is it the sound of falling leaves (落葉聲)?
+
+If my wish comes true, flying freely and seeing
+Beside the fortunate stove where my beloved laughs and works
+As a bluebird, I would announce this cold. <285>
+
+Untitled
+
+No Ch'unsŏng (盧春城)
+
+Bird and Bell (鍾)
+
+The bird and the Bell live above the sky
+The mole lives underground
+
+But my heart is always wandering between sky and earth
+A foolish wanderer (彷徨者)!
+
+Ah, my heart, before you
+Count the stars above the sky
+Will you follow the yellow mouse (노랑쥐) underground? <286>
+
+Dove
+
+The dove is a bird that knows only obedience (從順) and song!
+But it prefers the green forest and the high sky!
+
+And it never forgets the spirit (意氣)
+Of the pine tree (솔나무), evergreen even in severe cold (嚴寒)
+Cooing heavily, it cries again today.
+
+Snowy Night
+
+Like flowers petal by petal, the white snow falls.
+Such a perfectly lovely form, like my beloved's heart
+Closing my eyes all night long, I stand. <287>
+
+Plucking White Hairs
+
+An Sŏ (岸曙)
+
+Playing a toy trumpet and beating a drum "dong-dong"
+Gathered in the yard for the children's enjoyment, making noise (홍어릴제)
+The shining sun, already early autumn, is suddenly at sunset (夕陽)
+Sitting on the sunlit veranda, I gaze absently
+Holding a mirror, plucking white hairs alone.
+
+An old saying goes, the young age easily
+And the old depart one by one.
+Rereading books read long ago (두적이며)
+Trying to fill the emptiness (空虛) of words, is there even merit?
+Lost in aimless thoughts (心思), just stroking white hairs.
+
+Around twenty, like flowers, this beautiful world (世相)
+Quietly sketching castles in the air (空中巨閣) in my mind,
+Alone enjoying and agonizing over the philosophy (哲理) of this life, the happiness of this world
+But soon growing old, lamenting,
+A bowl of rice (밥) becomes precious, sons and daughters all seem beyond measure (가이없을 듯해).
+Children playing, clapping hands with excitement
+In tearful recollection (回想), I lonelily, lonelily
+Stroke my white hairs and gaze with a sigh. <288>
+
+**Summary**
+
+This article from the January 1939 issue of *Samch'ŏlli* magazine presents a diverse collection of poetry. It begins with a preface and translation of Chu Hsi's commentary on the Chinese *Book of Songs*, followed by translated excerpts from the *Book of Songs* itself. It then shifts to translations of Greek lyric poetry (primarily Sappho), an Irish folk song, and concludes with several original poems by contemporary Korean poets (Wŏlt'an, Yŏsu, Karam, Kim Myŏngsun, No Ch'unsŏng, An Sŏ) covering themes like nature, historical sites (Sŏkkuram), personal reflections on aging, solitude, and longing. The inclusion of classical Chinese, ancient Greek, Irish folk, and modern Korean poetry within a single issue highlights the complex cultural landscape of colonial Korea, showcasing an engagement with both Eastern traditions and Western literature, alongside contemporary Korean creative expression.
+
+For historians, this collection is interesting as it demonstrates the literary currents and cultural consumption patterns among Korean intellectuals during the late colonial period. The juxtaposition of classical East Asian texts (Chu Hsi, *Book of Songs*) with Western classics (Sappho) and modern Korean works reflects an era grappling with tradition, modernity, and foreign influence under Japanese rule. The translation efforts themselves (from Chinese, Greek via likely Japanese, and English/Irish) and the themes of nostalgia, nature, and introspection in the original poems offer insights into the intellectual and emotional climate of the time. The inclusion of an Irish folk song might subtly resonate with themes of national identity and longing under foreign influence.
+
+**Named Entities**
+
+孔子	공자	Confucius
+柳錫彬	유석빈	Yu Sŏkpin
+論語	논어	Analects
+周	주	Chou (Dynasty/State)
+郊廟廟廷	교묘묘정	Suburban temples and court
+鄕黨閭巷	향당여항	Village lanes
+列國	열국	Various States (during Chou Dynasty)
+昭王	소왕	King Chao (of Chou)
+穆王	목왕	King Mu (of Chou) - Note: Original text has 稷王, likely a mistake for 穆王 (Mu Wang) in this context of Chou decline. McCune-Reischauer for 稷 is Chik.
+平王	평왕	King P'ing (of Chou)
+洛陽	낙양	Loyang
+周南	주남	Chou Nan (Section of Book of Songs)
+召南	소남	Shao Nan (Section of Book of Songs)
+文王	문왕	King Wen (of Chou)
+邶風	패풍	Pei Feng (Section of Book of Songs)
+朱熹	주희	Chu Hsi
+新安	신안	Hsin-an (Place associated with Chu Hsi)
+淳熙	순희	Ch'un-hsi (Era name, 1174-1189)
+陝西省	섬서성	Shensi Province
+希臘	희랍	Greece
+岸曙	안서	An Sŏ (Author/Translator Name)
+삽포	삽포	Sappho
+호메로스	호메로스	Homer
+소아시아	소아시아	Asia Minor
+레스보스島	레스보스도	Lesbos Island
+에레소스邑	에레소스읍	Eresos town
+아이오리스語	아이오리스어	Aeolic language
+프삽포	프삽포	Psappho
+미티레네	미티레네	Mytilene
+알카이어스	알카이어스	Alcaeus
+크레이스	크레이스	Cleis
+메레아그로스	메레아그로스	Meleager
+아스크레피어스	아스크레피어스	Asclepius
+毛允淑	모윤숙	Mo Yunsuk
+아일낸드	아일랜드	Ireland
+콜넨	콜넨	Collen (Name, likely a horse)
+뽀기	뽀기	Pogi (Name, likely a horse)
+매큐리	매큐리	Mercury (Name)
+샘략	샘략	Samnyak (Name, likely a horse)
+石窟庵	석굴암	Sŏkkuram Grotto
+月灘	월탄	Wŏlt'an (Poet's Pen Name)
+十一面觀音菩薩	십일면관음보살	Eleven-Faced Avalokiteśvara Bodhisattva
+東海	동해	East Sea
+新羅	신라	Silla (Kingdom)
+麗水	여수	Yŏsu (Poet's Pen Name)
+가람	가람	Karam (Poet's Pen Name)
+金明淳	김명순	Kim Myŏngsun
+盧春城	노춘성	No Ch'unsŏng
+
+**Glossary**
+
+詩傳	시전	Commentary on the Book of Songs
+思無邪	사무사	Have no depraved thoughts (Quote from Analects)
+感於物而動	감어물이동	To be moved by external things
+咨嗟咏歎	자차영탄	Sighs and songs/laments
+邪正	사정	Deviant and proper / Wrong and right
+勸懲	권징	Encouraging good and punishing evil
+協之聲律	협지성률	Harmonize with melody and rhythm
+黜陟之典	출척지전	Rites of promotion and demotion
+陵夷	능이	Decline, decay
+討論	토론	Discuss, debate
+刋	간	To carve, engrave; here means to excise or delete
+簡約	간약	Concise, brief
+國風	국풍	Airs of the States (Section of Book of Songs)
+雅	아	Odes/Elegances (Section of Book of Songs)
+頌	송	Hymns/Eulogies (Section of Book of Songs)
+里巷歌謠	이항가요	Songs and ballads of village lanes
+正經	정경	Orthodox canon/classic
+變雅	변아	Altered Ya (subsection of Book of Songs)
+閔時病俗	민시병속	Lamenting the times and grieving over customs
+陳善閉邪	진선폐사	Promote good and suppress evil
+浹洽	협흡	To permeate, soak through
+理致	이치	Principle, reason
+章句	장구	Chapters and verses/phrases
+訓詁	훈고	Glosses, exegesis
+諷咏	풍영	Recitation, chanting
+涌濡	용유	Immersion, steeping
+樞機	추기	Pivot, crucial point; inception
+脩身及家平均天下	수신제가치국평천하	Cultivate the self, regulate the family, govern the state, bring peace to the world (Confucian concept; text uses 平均天下 'level the world' variation)
+關雎	관저	Kuan Chü (Title of first poem in Book of Songs, 'Ospreys')
+雎鳩	저구	Osprey
+河之洲	하지주	Islet in the river
+窈窕淑女	요조숙녀	Modest, retiring, virtuous young lady (classic phrase)
+君子好逑	군자호구	Fit mate for the lord/gentleman
+參差荇菜	참치행채	Uneven water shield/mallow plants
+寤寐求之	오매구지	Seeking her waking and sleeping
+轉輾反側	전전반측	Tossing and turning (unable to sleep)
+琴瑟友之	금슬우지	Welcome her as friend with qin and se (zithers)
+芼之	모지	To cook as greens/vegetables (classical verb)
+鍾鼓樂之	종고락지	Gladden her with bells and drums
+葛覃	갈담	Ko T'an (Poem title, 'Kudzu Spreads')
+中谷	중곡	Middle of the valley
+萋萋	처처	Luxuriant, flourishing (of leaves)
+黃鳥于飛	황조우비	The yellow birds fly about
+灌木	관목	Shrubs, bushes
+喈喈	개개	Harmonious (of bird song)
+莫莫	막막	Dense, thick (of leaves)
+抒情詩	서정시	Lyric poetry
+移植	이식	Transplantation (of culture, ideas)
+和譯	화역	Japanese translation (used in context of translating Greek via Japanese)
+直譯	직역	Direct translation
+遂字譯	축자역	Word-for-word translation
+焚燒	분소	Burning (of books)
+芳香	방향	Fragrance
+貴族	귀족	Aristocracy
+釀成	양성	To brew, ferment; here means to bring about, cause (a dispute)
+相關	상관	To be related, involved
+一族同類	일족동류	Clan members, relatives
+거문고	거문고	Korean zither (used here to translate the instrument Sappho taught, likely lyre)
+制作	제작	Works, creations (literary)
+接待	접대	Reception, entertainment
+婚禮	혼례	Wedding ceremony
+지위	지위	Status, position
+재산	재산	Property, wealth
+同性愛者	동성애자	Homosexual
+憑證	빙증	Evidence, proof
+돌개바람	돌개바람	Whirlwind
+오장육부	오장육부	The five viscera and six entrails; one's whole being
+능금나무	능금나무	Apple tree (specifically, Malus asiatica)
+子正	자정	Midnight
+댕글이	댕글이	Dangling (onomatopoeic/mimetic word)
+時節	시절	Season, time
+딸기	딸기	Strawberry; context suggests thorn/brier after flower falls
+흰가슴	흰가슴	White breast/bosom
+돗	돗	Sail (older spelling of 돛)
+콜넨	콜넨	Collen (likely a name, possibly of a horse in the Irish song)
+뽀기	뽀기	Pogi (likely a name, possibly of a horse in the Irish song)
+매큐리	매큐리	Mercury (name used in the Irish song translation)
+샘략	샘략	Samnyak (likely a name, possibly of a horse in the Irish song)
+聖處女	성처녀	Holy Maiden/Virgin
+胡蘆	호로	Gourd bottle
+자부름	자부름	Murmuring, muttering (dialectal/poetic word)
+도라도란	도라도란	Softly murmuring, whispering (onomatopoeic/mimetic word)
+圓光	원광	Halo (Buddhist iconography)
+寶冠	보관	Jeweled crown (Buddhist iconography)
+春山峨眉	춘산아미	Eyebrows like spring mountains (metaphor for beautiful eyebrows)
+결곡하게	결곡하게	Finely shaped, delicately structured (older usage)
+백어	백어	White fish
+薰香	훈향	Fragrance, incense scent; fragrant warmth
+소복닙은	소복입은	Wearing white mourning clothes (older spelling '닙은')
+하눌땅	하늘땅	Heaven and earth (older spelling '하눌')
+신명	신명	Spirits, deities
+락엽	낙엽	Fallen leaves (older spelling)
+들창문	들창문	A type of window that lifts or pushes out
+조희우에	종이 위에	On paper (older spelling '조희')
+침묵	침묵	Silence
+눈보라	눈보라	Snowstorm, blizzard
+종달	종달	Skylark (short form of 종달새)
+하루살이	하루살이	Mayfly
+진펄밭	진펄밭	Marshy field, muddy field
+옹곳	옹곳	Wild onion/garlic (dialectal/older term)
+뫼	뫼	Mountain (older/poetic word)
+오또기	오똑이	Sitting uprightly (mimetic word, older spelling of 오뚝이)
+강변	강변	Riverbank
+콩서리	콩서리	Stealing beans (from fields)
+모닥불	모닥불	Bonfire
+밀방석	밀방석	Straw mat (made of wheat straw)
+신삼는	신 삼는	Twisting hemp for shoes/rope
+동지 섣달	동지 섣달	Winter solstice month (11th lunar month) and 12th lunar month; deep winter
+동모	동무	Friend, comrade (older term)
+달음질	달음질	Running, race (older spelling of 달리기/달음박질)
+볏가리	볏가리	Rice stack
+고드름	고드름	Icicle
+그믐밤	그믐밤	Night of the new moon (last day of the lunar month)
+녁여서	여겨서	Thinking, considering (older spelling)
+밧것마는	받았건만은	Received, but... (older spelling/contraction)
+버러지	벌레	Insect, worm, bug (older form)
+靑黃赤 爛漫한대	청황적 난만한데	Blue, yellow, red are profuse/resplendent
+曳履聲	예리성	Sound of dragging slippers/shoes
+落葉聲	낙엽성	Sound of falling leaves
+파랑새	파랑새	Bluebird
+鍾	종	Bell
+두더지	두더지	Mole
+彷徨者	방황자	Wanderer
+노랑쥐	노랑쥐	Yellow mouse/rat
+從順	종순	Obedience, submissiveness
+嚴寒	엄한	Severe cold
+솔나무	소나무	Pine tree (older spelling)
+意氣	의기	Spirit, mettle, vigor
+힌털	흰털	White hair (older spelling)
+작난감	장난감	Toy (older spelling)
+홍어릴제	흥 어릴 제	When excitement/merriment arose (possible interpretation of archaic phrase)
+夕陽	석양	Setting sun
+두적이며	뒤적이며	Rummaging through, leafing through (older spelling)
+空虛	공허	Emptiness, void
+心思	심사	Thoughts, mind, mood
+空中巨閣	공중누각	Castle in the air, imaginary construction
+哲理	철리	Philosophy, profound principle
+밥	밥	Cooked rice, meal
+가이없을 듯해	가이없을 듯해	Seems measureless, boundless (often implying overwhelming or pitiful)
+回想	회상	Recollection, reminiscence
+
+
+---------------------------
+
+
+잡지명	삼천리 제11권 제1호
+발행일	1939년 01월 01일
+기사제목	詩傳 =孔子曰, 詩三百一言以蔽之, 曰, 思無邪. - 論語-
+필자	柳錫彬 譯
+기사형태	시
+
+詩傳 =孔子曰, 詩三百一言以蔽之, 曰, 思無邪. - 論語-
+						柳錫彬 譯
+詩傳序
+
+或有問於予曰, 詩何爲而作也. 予應, 之曰, 人生而靜, 天之性也. 感於物而動, 性之欲也. 夫旣有欲矣, 則不能無思, 旣有思矣, 則不能無言, 旣有言矣, 則言之所不能盡而發於咨嗟咏歎之餘者, 必有自然之音響節族而不能己焉. 此詩之所以作也. 曰然則其所以敎者何也. 曰, 詩者人心之感物而形於言之餘也. 心之所感有邪正, 故言之所形有是非. 惟聖人在上則其所感者無不正, 而其言皆足以爲敎. 其或感之之雜, 而所發不能焉可擇者, 則上之人必思所以自反, 而因有以勸懲之, 是亦所以爲敎也. 昔周盛時, 上自郊廟廟廷而下達於鄕黨閭巷, 其言粹然, 無不出於正者, 聖人固己協之聲律, 而用之鄕人, 用之邦國, 以化天下. 至於列國之詩, 則天子巡守必陳而觀之以行黜陟之典. 降自昭穆而後寖以陵夷, 至於東遷而遂廢不講矣. 孔子生於其時, 旣不得位無以行勸懲黜陟之政, 於是特擧其籍而討論之, 去其重複, 正其紛亂, 而其善之不足以爲戒者, 則亦刋而去之, 以從簡約示久遠. 使夫學者卽是以有以考其得失, 善者師之, 而惡者改焉. 是以其政雖不足以行於一時, 而其敎實被於萬世, 是則詩之<266> 所以爲敎者然也. 曰, 然則國風雅頌之體其不同若是何也. 曰, 吾聞之凡詩之所謂風者多出於里巷歌謠之作. 所謂男女相與詠歌各言其情者也. 唯周南親被文王之化以成德, 而人皆有以得其性情之正, 故其發於言者樂而不過於淫, 哀而不及於傷, 是以二篇獨爲風詩之正經, 自邶而下, 則其國之治亂不同, 人之賢否異, 其所感而發者有邪正是非之不齊, 而所謂先王之風者於此焉變矣, 若夫雅頌之篇, 則皆成周之世朝廷郊廟樂歌之詞, 其語和而莊, 其義寬而密其作者往往聖人之徒, 固所以爲萬世法程, 而不可易者也. 至於雅之變者亦不皆一時之人君子閔時病俗之所爲, 而聖人取之其忠厚惻怛之心, 陳善閉邪之意, 尤非後世能言之士所能反之. 此詩之爲經所以人事之於下天道備於上, 而無一理之不具也. 曰, 然則其學之也當柰何. 曰, 本之二南以求其端叅之列國以盡其變, 正之於雅以大其規, 和之於頌以要其止, 此學詩之大旨也. 於是乎章句以綱之, 訓詁以紀之, 諷咏以昌之, 涌濡以體之察之, 情性隱微之閒, 審之言行樞機之始, 則脩身及家平均天下之道其亦, 不待他, 求而得之於此矣. 問者唯唯而退, 余時方輯詩傳, 因悉次是語以冠其篇云. 淳熙四年丁酉冬十月戊子新安朱熹書.
+
+시전 머리말
+
+손이 내게 와서 詩는 무엇 때문에 만드러 낸 것이뇨 하고 묻는지라. 대답하야 말하되 사람의 본성은 원래 고요한 것이라 그것이 사물에 느껴 움직이니 이는 본성에 바라는 배라. 이믜 物欲이 생기매 생각이 없을 수 없으며 이믜 생각이 있으매 말이 없을 수 없으니 이믜 말이 있은즉 말로다 할 수 없는 덧 없음과 하염없는 마음에 움직임을 자연의 소리와 가락에<267> 마처 을퍼 마지 아닐 것이니 이것이 노래를 짓게 된 까닭이라. 그러면 그것이 어떻게 시람에게 가라침이 되나뇨 하고 또 무르니 시는 사람의 마음이 사물에 느껴 말에 나타난 나마지이니 마음이 느끼매 그른 것과 발른 것이 있어 그것이 말로 나타나매 올흔 것과 올치 않은 것으로 난흐이니 聖人이 우에 게시면 느끼매 발로지 아니한 것이 없어서 그 말이 모다 가라침이 됨에 足하나 혹시 그 느낀 바이 잡스러워서 분간하야 가려내일 지지경어면 우ㅅ사람이 되야 반드시 스스로 도리키여 살필지니 말미아마 착한 것을 勸하고 악한 것을 懲戒하야 또한 가라침이 되는 것이라. 예전 周ㅅ나라 盛할 때에는 서울 대궐로부터 시골 洞里에 이르기까지 그들이 淳粹하야 모다 발른 것이여쓰니 聖人이 스스로 소리와 가락을 지어주사 왼나라이 불러 天下이 다 和하야 쓰며 또 天子이 列國에 巡狩하사 그 나라의 詩를 보시고 관리를 賞罰하시여 쓰니 昭王 稷王때부터 그 제도가 衰하더니 平王때 洛陽으로 遷都함에 이르러서는 드듸어 없어저 버려쓰니 孔子는 그 때에 나으사 位를 얻지 못하시고 政事를 행치 못하시니 이에 詩를 토론하야 거듭된 것을 없이하고 어지러운 것을 바로 자바 착한 것이라도 法으로는 삼지 못할 것과 惡한 것이라도 懲戒ㅅ거리가 못될 것 등은 버리고 고처서 簡約하게 하야 영원히 밝혀주사 배흐는 사람으로 하야곰 그 得失을 생각하야 착한 것을 조츠며 그른 것은 고치라 하서쓰니 이럼으로 그의 정치는 비록 한 때에 行치 못하였다 할지라도 그의 가라침으 참으로 만세에 미처쓰니 어찌 가라침이 안이랴. 그러나 風雅頌이라하야 그 體가 같지 아니함은 무슨 綠故뇨 하고 묻는지라. 또 대답하되 듣건대 무릇 詩에 이른바 風은 閭巷에서 만히 불러 나온 것이니 男女가 서로 그 情을  을퍼 노래한 것이라. 오직 周南召南은 文王의 德化를 친히 이버 德이 이루지저 사람마다 마음이 발라서 말에 나타난 것을 보드라도 즐기되 淫치 아니하고 슬프되 傷치 아니하야 이 두 篇은 홀로 風詩에 바른 날(正經)이라 하야스며 邶風으로부터 아래는 各其 나라에 治亂이 같지 아니하고 사람에 賢愚도 또한 달른지라 그 느껴 노래에 나타난 것도 발르고 姿邪하고 올코 그른 것이 골르지 못하야 선왕의 風化도 이러틋 변하야 진것이라. 저<268> 雅頌篇을 다 成周ㅅ나라 때 나라에 풍류이니 그 말이 고르되 씩씩하고 그 뜯이 너그럽되 빽빽하니 그것을 지은 사람도 大槪 聖人의 弟子이라. 본래 萬世에 法程으로 가히 밧고지 못할 것이며 變雅에 있어서도 모다 賢人君子 이 때를 걱정하고 풍속을 근식하야 지은 것이니 그 나라에 충성함과 백성을 불상히 역인 뜯을 성인이 취한 것이니 後世의 말하자는 선비에 능치 못할 바이라. 또한 詩에 날(經)이니 아래로는 사람일에 浹洽하고 위로는 하날 理致로 가초와 있으니 한 가지에 다 사람도 빠짐이 없난 것이라. 손이 그 배호는 방법은 무르매 대답하되 二南으로 근본을 삼고 列國에 變을 다하야 그 뜯을 차즈며 雅를 바로하야 그 규모를 넓히여 頌에 和하야 그칠지니 이것이 방법이라. 이에 章句를 일거 訓話를 적고 을프고 외여서 行할지니 마음 속을 살피고 言行의 비롯을 삼가면 몸을 닥고 집을 다사리며 天下를 고르게 하는 길리이 이에 있을지라. 손이 그만 물러가니 내 바야흐로 詩傳을 編輯하고 있는 때이라 손에게 대답한 말로 머리ㅅ말을 삼다 순희 사년 정유 동시월 무자신안 주희는 서하노라.<269>
+
+國風-周南一之一-
+
+關雎                     물새노래
+關關雎鳩一               어여쁜 우름ㅅ소리
+在河之洲-로다            물 기슭에 물새ㅅ노래
+窈窕淑女-                어여쁜 아가씨는
+君子好逑-로다            군자에 호구라네<269>
+參差荇菜를                빗어긋난 행채를
+左右流之로다              양갓으로 흘려버려
+窈窕淑女를                어여쁜 아가씨를
+寤寐求之로다              밤낮으로 구해보세.
+求之不得이라              밤낮으로 구해본들
+寤寐思服하야              어찌 어들 것인가.
+悠哉悠哉라하              업처 뒤처 둥그른들
+轉輾反側하소라            어찌 어들 것인가
+
+參差荇菜를                빗어긋난 행채를
+左右釆之로다              양갓으로 다드마라
+窈窕淑女를                어여쁜 아가씨는
+琴瑟友之로다              가야고로 벗을 삼네
+參差荇菜를                빗어긋난 행채를
+左右芼之로다              양갓으로 나물하네
+窈窕淑女를                어여뿐 아가씨는<270>
+鍾鼓樂之로다             큰 북으로 즐겨노네
+
+葛覃                    츩넝쿨
+
+葛之覃兮-               츩넝쿨 버더버더
+施于中谷하야            중곡으로 올마저서
+維葉萋萋-어늘.           가지마다 무성한 닢
+黃鳥于飛-               꾀꼴새에 춤이로세
+集于灌木하야            즐거운 노래ㅅ소래
+其鳴喈喈리라            딸기 넝쿨 그늘일제
+
+葛之覃兮-               츩넝쿨 버더버더
+施于中谷하야            중곡으로 올마갓네
+維葉莫莫이어늘          가지마다 무성한 닢
+是刈是濩하야            븨고븨여 거둬드려 (次號續)
+
+國. 諸侯의 封한 바 지역
+風. 民俗을 노래한 詩
+周南. 周는 나라 일홈(只今陝西省內)이오 南南方이니 周ㅅ나라 남쪽이란 말
+關關. 암새와 수새가 화합하야 서로 應하는 소래의 形容
+窈窕. 幽閑스럽다는 뜯
+參差. 장단이 고로지 못함
+寤寐. 寤나 寐나 다- 때없이 한다는 말
+轉輾. 反側 잠ㅅ자리가 편안치 모함
+萋萋. 盛한 모양
+喈喈. 좋은 소래가 멀리 들림<271>
+
+希臘抒情詩歌抄
+
+岸曙
+
+詩歌의 移植이 어떻게 至難한 일인지는 새삼스러이 이야기할가 없거니와 나는 이번 希臘 抒情詩들을 옴겨 놓음에 대한 나의 태도는 종래의 주장과 조곰도 다름이 없었읍니다. 다시 말하면 和譯의 原詩에서 그 想을 따다가 가장 자유로운 筆致로 詩歌답도록 만들기에 힘을 썻을 뿐입니다. 直譯이니 충실한 遂字譯이니 하는 것을 세상에서는 존중하는 상 싶으나 이것은 나의 어디까지든지 참아할 수 없는 일이외다. 웨냐하면 그것은 永永 詩 그것을 죽여버리는 것 밧게 아니되기 때문이외다.
+나의 이러한 자유로운 筆致를 아니라고 비웃는 분이 잇을 것이외다만은 나의 이 주장은 언제나 변치 않을 것이외다.
+자 이것은 이러타 하고 나는 이 기회에 잠간 希臘 女詩人 삽포의 이야기까지 옴겨 보랴고 합니다. 적지 아니한 흥미가 일기 때문이외다.
+호메로스를 除하고는 여성으로의 삽포의 시적 평가는 예나 지금이나 조곰도 다름이 없을 만치 놉습니다. 엇지 하야 이 女詩人이 이렇게 이름이 높았는가에 대하야는 그의 노래가 高雅하고 진실하고 女性다운 優雅에 다가 아름다운 심정을 갖었기 때문이라 함니다. 그러나 이 女詩人의 詩篇이 단편으로만 남아서 그 金面을 엿보기 어려운 것이 恨이외다. 삽포의 詩歌가 대개 戀愛에 관한 것이라는 이유로 다른 서적과 같이 焚燒되야 지금 남은 것이란 대개가 이 책 저 책에서 발견된 토막 토막에 지내지 아니하고 보니 떨어진 꽃송이에서 지내간 詩節의 芳香을 찿는 感이 없지 아니하외다.<272>
+삽포는 기원전 7세기말경 소아시아 해안 「레스보스」島의 「에레소스」邑에서 낳는데 고향인 아이오리스語로는 프삽포라고 합니다. 그 토지 귀족의 출신으로 그때 釀成된 상업소시민과의 분쟁사건에 관련되야 一族同類와 함께 한동안 고국을 떠났다가 그 뒤 고향에 돌아와 수도 「미티레네」에다 집을 잡고 어린 처녀들에게 거문고와 춤을 가르첬다 합니다. 이 女詩人의 制作에는 친구와의 接待 婚禮를 노래한 이외에도 이러한 때에 사용할 목적으로 지은 것이 많은 듯 하외다.
+삽포는 同島의 시인 「알카이어스」와도 친교가 있었고 이 女詩人의 형제들은 상당한 지위과 재산이 있어서 옛집을 왔다 갓다 하며 장사를 하였다 합니다. 그런데 이 女詩人 크레이스라는 처녀를 황금과 같이 사랑하였다는 것은 사실인 듯 할 뿐 아니라 이 시인을 同性愛者라고 한 것은 이 때문인 듯 하외다. 그러나 이 女詩人의 자세한 傳紀는 이러타고 憑證할 만한 것이 적어서 더 자세이 이야기 할 수 없는 것이 다시금 유감어외다.
+몇 편 아니되는 이 譯詩에서나마 이 女詩人의 한모가 엿보여진다고 하면 譯者인 나로서의 깃붐도 크려니와 또한 지내간이 女詩人에게노 害로울 것은 없을 것이외다.
+
+돌개바람(삽포)
+
+돌개바람이
+떡갈나무 가지를
+줄줄줄 말아대듯시
+사랑은 오장육부
+이 내마음을
+갈내갈내 흔들어놋네<273>
+
+살내살내 흘으는 江까 언덕에(삽포)
+
+살내살내 흘으는 江까 언덕의
+능금나무 가지를 넘놀며
+지내가는 실바람
+그 바람에 입사귀 혼자흔들려
+고요한잠 江물에 지고마나니
+
+달은 지고(삽포)
+
+달은 지고 별도 들어가
+밤온 지금 子正이 지냇고야
+때는 가며 변하는 것을
+나는 외로이 잠을 드노라
+
+붉은 능금알(삽포)
+
+붉은 능금의 그것이랄가
+발갓케 물이 들어 높은 가지에<274>
+보다 높은 가지의 한곳가지에 달닌 것을
+따는 사람의 못본탓일가
+아니아니 못보았길래
+팔이 다치안아서 못보았길래
+혼자로서 댕글이 남은 붉은 능금알
+
+장미(失名氏)
+
+장미여
+꽃 時節은
+한때런가
+
+때지나니
+아모리 차자도
+꽃은 지고
+딸기만 남았고야
+
+연분홍장미(失名氏)
+
+연분홍 장미로나<275>
+태여를 지고
+손소 그 꽃따다가
+눈같은 그 흰가슴
+우리님을 둘네매나니
+
+아스크레피어스(메레아그로스)
+
+아스크레피어스
+당신의 눈은 곱기도 하외다
+빛나는 그눈을 한번 뜨시면
+바다까에 날이 든듯시
+모도들 사랑의 배에 돗을 답니니다 그려<276>
+
+愛蘭民謠
+
+毛允淑 譯
+
+나는 시장에서 적은 콜넨을(말일홈) 맞나
+「신이 너를 보호하리라」 속삭였다
+그는 내맘을 취하게 한다.
+
+머나먼 아일낸드 山村
+풀과 함께 내 손길이 강해질 때
+마음은 깃거워 가벼히 뛰노라.
+
+그대 항상 찾든 아일낸드 집은
+웃는 얼골노 공손히 그대를 맞어주리라.
+오! 오래동안 갈색뽀기를 그리웠노라
+힘세고 기분좋은 뽀기
+푸른 하늘우에 신이 네우에 머믈도다.
+
+그는 항상 친절하고 겸손하고 지헤스러워
+일에도 충실한 사랑의 여인
+그의 마음에 기도가 깃드리고<277>
+
+그의 눈에 미소가 잠긴
+믿어운 아일낸드 어머니 매큐리여!
+
+부드러운 기억을 다시 새롭게하는
+그리운 아일낸드 옛길이여!
+
+내비륵 멀니 방황하여도
+내맘은 적은 아일낸드 즐거운 가정에 머므노니.
+
+신비한 줄노 내 想念을 얽어매여
+아일낸드 호수가로 나를 갖어가라.
+
+희망이 진실노 나를 찾어올 때 나의 소원은
+아일낸드 山谷 그 적은집에
+너와 함께 머므는 일이다.
+
+무심이 없고 평화한 아일낸드
+너를 항상 환영하고 기다리노라.
+
+나는 옛날이나 꽃같이
+서늘한 길에서 자라가는 샘략(말일홈)을 보노라.<278>
+
+石窟庵
+
+月灘
+
+十一面觀音菩薩(1)
+
+千年 大佛을
+聖處女로 모시였네
+胡蘆, 한병으로
+東海물을 불리시다.
+
+웃는 듯 자부름 하신가 하면
+조는 듯이 웃으섰네
+담은 듯 열으신 듯, 어엽분 입술
+귀 기우려 들으면
+향기로운 말슴
+도라도란 구으는 듯 하구나.<279>
+
+十一面觀音菩薩(2)
+
+圓光 寶冠이 모두다 거룩하다.
+부드러운 두볼
+날신한 두억개
+春山 峨眉가 으적이 열린미테
+결곡하게 드리우신코
+어엽부다, 방울조차 없구나.
+
+十一面觀音菩薩(3)
+
+고은지고 보살의 손
+돌이면서 백어(白魚)갔다.
+新羅 옛 美人이 저러트시 거룩하오.
+무릅꿀어 울 어러만지면
+薰香 내 높은 훈훈한 살기운
+당장 곧 따수할 듯 하구나.<280>
+
+소복닙은 손님이 오시다
+
+麗水
+
+나는 아모 말슴도 하고 십지 않습니다
+이리꾸미고 저리꾸미는 아름다운 말
+그 말의 뒤에 따를 거짓이 싫여서
+차라리 나는 아모 말슴도 않하렵니다
+
+또 나에게 지금 무슨 할 말슴이 있읍니까
+모든 것은 나보다도 그대가 더 잘아시고
+또 모든 것은 하눌땅의 신명이 아시고
+그뿐입니다-드릴 말슴이 없읍니다<281>
+
+락엽이 헛되히 거리위로 궁그러 가더니
+전이나 다름없이 소복닙은 손님-겨을이
+고독에 우는 나의 들창문을 흔듭니다
+나는 또 헛되히 이 밤을 탄식만하고 있읍니다.
+
+조희우에가 아니라 나는 지금
+마음속에 긔록하고 있읍니다
+방안에는 무거운 침묵이 떠돌고
+거리위에는 지금도 눈보라가 치고 있읍니다.<282>
+
+그리운 그날
+
+가람
+
+종달이 귀가 솔고 하루살이 눈에 드다
+진펄밭 옹곳 캐고 뫼를 올라 고사리 꺾고
+방안에 오또기 앉어 글을 외기 싫여라.
+
+풀도 없는 강변 쬐는 볓은 따가워라
+모래로 놀이 삼어 날마다 물에 살고
+옷처럼 검은 몸둥이 빛은 아니 나드니라.
+
+콩서리 하여다가 모닥불에 구어 먹고
+밀방석 한머리 신삼는 늙은이 졸라
+끝없는 옛날 이야기 밤을 짧어 하였다.
+
+그겨을 동지 섯달 치워도 모르든지
+눈속에 발을 벗고 동모와 달음질 치고
+볏가리 고드름 마다 니를 서로 겨르다<283>
+
+그믐밤
+
+金明淳
+
+그믐밤 별고흔데 떠러질 듯 녁여서
+한아름 밧것마는 허전한 이 모양야
+버러지 울어낸다.
+
+가을을 찾노라니 깊은 골에 왔고나
+靑黃赤 爛漫한대 이곳이 어드메냐
+물 소리 그윽하야 숨은 情 아노란다.
+
+모래ㅅ길 예이는 잔잔한 시내물아
+내 목소래 높이어 네 일홈 부르노라 <284>
+바다로 가는 길을 나 함께 가잣고나.
+
+쓸쓸한 거리 끝에 님 오실리 없거늘
+그리운 情 도지면 오신 듯 달 떠진다
+幸여나 같은 모양 눈앞에 버려지리.
+
+초겨을밤 깊어서 힘든 글 닑노라면
+뒤뜰의 曳履聲이 그의 것 갓것마는
+내 어려음 모르니 落葉聲 그러한가.
+
+뜻대로 된다하면 훌훌날어 보고서
+님이 웃고 일하는 다행한 火爐가에
+파랑새 한머리로 이치움 告하리라.<285>
+
+失題
+
+盧春城
+
+새와 鍾
+
+섀와 鍾은 하눌 우에 살고
+두더지는 땅속에 살어
+
+그러나 내 마음은 언제나 하눌과 땅속을 헤매는
+어리석은 하나의 彷徨者!
+
+아, 내 마음이여 너는
+하눌 우에 별들을 헤기도 전에
+땅 속에 노랑쥐를 따라가려나? <286>
+
+비둘기
+
+비둘기는 從順과 노래만을 아는 새!
+그러나 푸른 숲과 높은 하눌을 더 좋아해!
+
+그리고 嚴寒에도 잎잎이 새파란
+솔나무의 意氣를 언제나 못 잊고
+꾸꾸 무거운 소리로 오눌도 운다.
+
+눈오는 밤
+
+잎잎이 꽃이되여 힌눈은 나리네.
+알뜰이 고흔 모습 님 마음이신 듯
+밤새도록 눈을 감고 내가 섯노라.<287>
+
+힌털을 뽑노라
+
+岸曙
+
+작난감 나팔에다 북을 덩덩 두들며
+이린이들 조와라고 뜰에 뫃여서 홍어릴제
+빛나는 볏은 이른 가을도 어느듯 夕陽
+볏든 마루에 앉아서 나는 무심이 바라보노라
+거울들고 흰털을 호을노 뽑으면서.
+
+예로부터 니르는 말이 절믄이는 늙기 쉽고
+그나마 늙은이는 하나둘 모다간다고.
+옛날 읽든 책을 다시금 두적이며
+말의 空虛를 채우랴하다, 보람조차 있으랴.
+하욤없는 心思에 흰털만 만지노라.
+
+스믈 內外 꽃이라 아름다운 이 世相
+空中巨閣을 맘속에 고요이 그리며,
+이 인생의 哲理를 이 世相의 행복을 혼자로서 즐기며 괴로워하나
+얼마안아 늙어지면 탄식하나니,
+한 그릇의 밥이 귀여워 아들 딸이 모도다 가이없을 듯해.
+손벽치며 흥이라고 노는 어린이들
+눈물겨운 回想에 나는 외로이 외로이
+흰털을 만지면서 한숨으로 바라보노라.<288>
+<266-288>

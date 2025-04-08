@@ -1,0 +1,1056 @@
+Magazine Title: 삼천리 제7권 제11호
+Publication Date: 1935년 12월 01일
+Article Title: 三千里文藝講座(第2回 開講) (Samch'ŏlli Literary Lecture (Second Session Opening))
+Author: Pak P'aryang, Yi Pyŏnggi, Kim T'aejun, Yi Hŏn'gu
+Article Type: 문예평론 (Literary Criticism)
+
+**Samch'ŏlli Literary Lecture (Second Session Opening)**
+
+**Poetry Lecture**
+
+**History of the Korean New Poetry Movement**
+
+**Pak P'aryang**
+
+**Author Introduction**
+Mr. Pak was born in Suwŏn, Kyŏnggi Province, and is 32 years old this year. He previously graduated from Paejae High School and Kyŏngsŏng Law College. He served as a reporter in the society section of the Chosun Ilbo and is currently the head of the society section at the Chungang Ilbo. His pen name is "Kimnyŏsu" (金麗水), and he has published numerous poems.
+
+Titled "History of the Korean New Poetry Movement," this feels like an excessive burden for the author.
+Of course, this piece must possess the nature of a historical document, however small, but I must frankly confess that I currently lack any preparation or confidence to write it properly like a historical document. Firstly, in writing this, I cannot help but appeal to the readers regarding my lack of various necessary reference materials. Secondly, I realize I must also admit my own deficiency in the historical perspective needed to write this.
+However, should I simply throw down my pen because of this? Or, even if it is extremely abstract, fragmentary, general, and superficial, should I try to look back on the nearly 30-year footsteps of our New Poetry movement based on my own limited experience and record it?<254>
+I do not wish to simply cast aside my pen solely due to the difficulty of collecting materials or the author's limited knowledge and learning. Let's try to record it. Isn't it acceptable even if abstract, even if fragmentary? My humble intention regarding the Korean New Poetry movement is to attempt, whether successfully or not, to sketch here the "image" of the "new song of Korea" that we have always loved, from the days of weeping and laughing in the cradle of the Korean New Literature movement to today, when it has emerged from that cradle and is walking and running. Fortunately, may the reader forgive me.
+
+**I. Early New Poetry**
+
+"We have nothing
+But we have no fear
+
+We cannot obtain
+We carry the burden of what is right
+We are those who walk the main road—
+
+We possess nothing
+But we have no dread
+We cannot obtain<255>
+We take what is right as our wide ears (廣耳)
+We are those who heed everything on the main road—
+
+We carry nothing
+But we are not afraid
+Even with wealth like fine sand
+We cannot obtain
+We hold what is right as our knife
+We are those who watch over the main road—"
+This poem, which appears very clumsy to our eyes now, is one piece from the "Three Old Works" (舊作三篇) published in "Sonyŏn" (少年) Volume 2, Number 4, issued in April of Meiji 44 (Yunghŭi 3, 1911). These "Three Old Works," signed "Kongyuk" (公六), by Mr. Ch'oe Namsŏn (who later used the pen name Yuktang), are indeed the very first free verse—that is, the first New Poetry—in Korea that we cannot overlook. A record proving this to be Korea's first New Poetry exists in the postscript to the "Three Old Works," which states:
+"Before the Chŏngmi year (i.e., Kwangmu 11 - Author's Note), three months prior, I took up my pen and randomly recorded my thoughts as they came. This was the beginning, and over those three months, I produced about ten pieces. This was the start of my writing poetry and also the beginning of experimenting with the form of New Poetry in our language. The three pieces published here are selections<256> from among those. Now, happening upon these old works and recalling my thoughts from that time, I cannot help but feel a profound sense of emotion. Kongyuk (i.e., Ch'oe Namsŏn, later known as Yuktang - Author's Note) notes." As seen here, these "Three Old Works" are from Kwangmu 11 (1907) and are Korea's first free verse.
+Kwangmu 11 corresponds to the Western year 1907, 28 years ago from now. Therefore, New Poetry in Korea, born from the matrix of the traditional *sijo* (詩調) poetic form and raising its first cries, possesses a history of less than 30 years.
+In the past Korea, when one spoke of poetry, it invariably meant only *hansi* (漢詩, poetry written in Chinese characters). Even after King Sejong promulgated Hunminjŏngŭm (訓民正音), there was only the *sijo*, which had strict formal constraints. The birth of free verse, which emphasizes freedom of rhythm like this, can only be described as a major revolution in the history of Korean song.
+Continued<257>
+
+**Sijo Lecture**
+
+**Sijo Appreciation and Composition**
+
+**Yi Pyŏnggi**
+
+**Author Introduction**
+Mr. Yi was born in Ch'ungch'ŏng Province and is a 48-year-old scholar and writer. He is currently a professor at Hwimun High School. His research on *sijo* and "Han'gŭl" is profound, and he has published many *sijo* works under the pen name "Karam" (가람). He is a member of the "Korean Language Society" (朝鮮語學會).
+
+**I. Appreciation**
+
+Although this title only uses the word "Appreciation," in reality, it cannot be done without comprehensively discussing various aspects such as contemplation, interpretation, and criticism, not just the literal meaning.
+Even starting with the word *sijo* (時調), it seems we are still in a muddled state, unable to discern whether it was used for music or literature. Needless to say about the completely unlearned and ignorant, even those with considerable knowledge think of *sijo* only as something sung musically. If someone says they compose *sijo*, people ask them to sing one. They might say, "How can you compose *sijo* if you don't know how to sing?"—such remarks are often heard. This is what I mean by knowing *sijo* only as music. Indeed, it seems that our short songs (*tanga*, 短歌) acquired the name *sijo* more through music than through literature. In other words, the practice of singing *tanga* in 24 types of classical songs (*kagok*, 歌曲) naturally transitioned<258> into singing them as 4 types of *sijo*. It became popularized to the extent that even common clerks (閭井胥吏) could perform it, unlike the past when only special classes like high officials (高官大爵) did. Even if the general public doesn't know the names of the 24 types of *kagok*, there is no one who doesn't know *sijo*. There's even a proverb, "Sing a *sijo* or do something timely" (時調커니 때조나 하여라). And most respectable people knew how to sing a *sijo* tune. Even today, many older people know how to sing them. In this way, *sijo* has been revered solely as a form of music.
+The recognition of *sijo* as a literary term seems to have begun relatively recently, with the rise of the New Culture Movement among us. Previously, it was called *tanga* (短歌) and used as a literary term. This is evident when tracing back through our traditional literature. In other words, the name *tanga* changed to *sijo*.
+Although *sijo* became a literary term not long ago, songs of that form clearly existed from at least 800-900 years ago, during the Koryŏ period. There are over 1,500 such recorded pieces transmitted today. Since all of these were based on the sentiments, customs, and living conditions of their respective eras—Koryŏ, Yi Dynasty—it is natural that they might not align with the thoughts and feelings of us modern people. When scholarship meant only Confucius, Mencius, Cheng Yi, and Zhu Xi (孔孟程朱), writing meant only Classical Chinese (漢文), people wore hats as big as grinding stones (맷방석), held long bamboo pipes (長竹) like reeds in their mouths, and engaged in leisurely talk like "cherish flowers like courtesans" (愛花當妓) and "walk slowly instead of riding a carriage" (緩步當車)—those times were quite different from now. But those times were those times, and now is now. Not everything from back then disappears or is discarded. Even if we eat butter<259> and wear Western clothes, we cannot escape having inherited the bones and blood of those who lived like that back then. Even if we have changed, it's merely like a tadpole becoming a frog. A tadpole should not forget its tadpole days. Our past culture is the trace of the path trodden from tadpole to frog. Among those traces are artistic masterpieces like Sŏkkuram Grotto (石窟庵), Tabot'ap Pagoda (多寶塔), and the Bell of Pongdŏksa Temple (奉德寺鍾), and also precious literature like this *sijo*. If we want to appreciate such things, we must become like the people of that time and look at them; otherwise, it's impossible to understand.
+So, to understand this, let's assume we have become people of that time and read their songs. And let's look for the sentiment, language, and metrical structure (調格) of those songs.
+
+**1. Sentiment (情趣)**
+Some might say our customs and institutions are entirely imitations of China's, but not everything is like that. From thousands of years ago, we had our own unique history, customs, and institutions. Whether looking at housing systems, clothing and food, coming-of-age/wedding/funeral/ancestral rites (冠婚喪祭), stationery and utensils (文房諸具, 器皿等屬), gardens and pavilions (庭園亭臺), or even tastes and entertainment (嗜好, 娛樂), they differ from those of China. The sentiment in songs also has many points of difference from what appears in *hansi*. At first glance, our songs might seem like translations, adaptations, or plagiarisms of *hansi*, but upon careful examination, there are things that seem similar yet are not. Or, even if they are similar, it might be due to poets coincidentally sharing the same idea (意思同).
+
+**2. Language (用語)**<260>
+The language used in the old days is somewhat different from today's language. Language changes with the times. It's a natural thing. When we look at books written in our language like *Yongbiŏch'ŏn'ga* (龍飛御天歌), *Wŏrin ch'ŏn'gang chi kok* (月印千江之曲), the vernacular translations of seven Buddhist scriptures (佛經七書諺解), the vernacular translation of Du Fu's poetry (*Tusi ŏnhae*, 杜詩諺解), and other songbooks, there are many words we don't understand. That, rather, is what holds precious value for research. Not just for linguistics, but also for literature. We can see the language of the people of that time as it was, and also guess at their feelings and thoughts.
+Old words like "marŭnŭn" (마르는), "ŏjŭbŏ" (어즈버), "nomaera" (노매라), "notta" (놋다), "nŭn'goya" (는고야), "saida" (사이다), "saegŭnyŏ" (새그녀) were indispensable back then. Moreover, some of them can still be used today. Also, since Classical Chinese was revered and used as the ultimate script back then, Chinese idioms or phrases coined using Chinese characters constituted 80-90% of writing. Consequently, many Chinese characters came to be used in our songs as well. However, these too became Koreanized, so if used well, they would be fine.
+
+**3. Metrical Structure (調格)**
+Our traditional *tanga* can all be sung as music like *kagok* or *sijo*. This is because they were highly esteemed as music. Looking at the composers, they were mostly famous singers (名唱). The number of syllables and phrasing are orderly, and even in any inferior work, the metrical structure is quite well-formed. One could also think of this as the metrical structure prescribed by their music. And if you count the syllables in each phrase, it's not just 3,4 meter (seven-syllable phrase) and 4,4 meter (eight-syllable phrase); there are various others besides. For instance, there are regular meters (正調), altered meters (變調), irregular meters (亂調), and mixed meters (雜調).
+Let's put aside these general remarks and provide an actual example from our traditional songs.<261>
+
+*tas tŭja pae ttŏnani ije kamyŏn ŏnje ori*
+*man'gyŏng ch'angp'a-e kanŭn dŭt tora oso*
+*pamjungman chigukch'ong sori-e ae kŭnnŭn dŭt hayŏra*
+
+(Weigh anchor, the boat departs; if you leave now, when will you return?
+On the vast blue waves, may you go swiftly and return.
+Around midnight, the sound of *chigukch'ong* seems to tear at my heart.)
+
+Author unknown. In "Taedong p'unga" (大東風雅), "tas tŭja" (닷드자) is written as "tal ttŭja" (달뜨자, moon rises), and in "Tongguk chip" (東樊集)'s *I Sŏn Akka* (離船樂歌, Song of the Departing Boat), it says 可奈萬頃蒼波水 鯨濤鰐浪船難行 離愁滿船船更生 渡口月出帆徐懸 (How can one bear the vast blue waters? Amidst whale waves and crocodile waves, the boat struggles to proceed. Parting sorrow fills the boat, yet the boat revives. At the ferry crossing, the moon rises, the sail is slowly hoisted.), and the note says 曲中 有萬頃蒼波去如迴云語 又有月出曲 (In the song, there are the words "on the vast blue waves, going is like returning," and there is also a "moonrise song"). However, these are all corruptions (訛傳). There is no need to make "tal ttŭja" the introductory phrase (虛頭). A boat can depart whether the moon rises or not. Also, "the moon rises, the boat departs" doesn't particularly convey any special charm (韻致). In the *Yŏrha Ilgi* (熱河日記), in the *Makpuk Haengjŏngnok* (漠北行程錄, Record of Travel North of the Desert), there is a *paettara* (排打羅), or boat departure song, which says 碇擧兮船離 此時去兮何時來 萬頃蒼波去似迴 (Anchor raised, boat departs. Leaving now, when will you return? On the vast blue waves, going is like returning). This is a direct translation of "tas tŭja pae ttŏnani ije kamyŏn ŏnje ori." Looking at this, it is clear that "tas tŭja" is indeed correct. "Tat" (닷) is written in Chinese characters as 碇, 掟, 錨, or 鐵錨, and is the device for stopping a boat (anchor). It is raised when the boat is about to depart and lowered when stopping. The anchor has a rope attached, called *tatchul* (닷줄), which is wound up or let down using a device. *Man'gyŏng ch'angp'a* (萬頃蒼波) means the vast, boundless sea. "Kanŭn dŭt tora oso" (가는 듯 돌아오소, may you go swiftly and return) is written in some books as "kanŭn dŭt tanyŏomse" (가는 듯 단여옴세, let's go and come back), but this is also a corruption. If it were like that, it couldn't be this kind of song and would merely be prose in a question-and-answer format. "Pamjungman" (밤중만) means around midnight. "Chigukch'ong sori" (지국총소리), also written as 至匊悤 or 至匊叢, has no meaning in Chinese characters; it is the sound of winding or unwinding the anchor rope. "Ae" (애) means innards, intestines, liver and bowels (肝膓). "Kŭnnŭn dŭt" (긋는 듯) means seems to be cutting or breaking.<262>
+This is a song of parting (離別), bidding farewell at the wharf (埠頭) to someone leaving by water. Even on a smooth land route (坦坦한 陸路), sending someone far away would cause considerable sadness and worry; how much more so when sending them off on the fearsome waterway?
+"Weigh the anchor rope (닷줄). The bow turns, the boat departs; if you leave now, when will you ever return?" This is a prayerful wish: "On that vast, boundless sea (浩浩茫茫한 바다), amidst the whale waves and crocodile waves (鯨濤鰐浪), may you travel safely, and may you return safely right away on the path you took." The translation "去似迴" (going is like returning) in the aforementioned *Man'gyŏng ch'angp'a kusahoe* (萬頃蒼波去似迴) seems a bit incomplete. The particle "dŭt" (듯) in *kanŭn dŭt* (가는 듯) holds a special nuance (妙味). It doesn't mean "like" but is used to mean "quickly, swiftly." Then, after the boat has departed, day after day, day and night, wondering if the boat arrived safely or not, already waiting and waiting to see if the boat isn't returning, around midnight, if a boat arrives and the *chigukch'ong, chigukch'ong* sound of the anchor rope being let down is heard, one rushes to the wharf, only to find it's not that boat. One doesn't know how many nights, how many times one has been deceived like this, but still, whenever the *chigukch'ong* sound is heard, one cannot remain composed (泰然). Truly, because of this *chigukch'ong* sound, it must feel as if one's thousand intestines (일천간장) are being cut piece by piece (마듸마듸).
+Alternatively, this song might seem like a direct recording of the conversation between the sender and the departing person at the time of farewell. Or, viewing the time differently, the lines up to "ije kamyŏn ŏnje ori. man'gyŏng ch'angp'a-e kanŭn dŭt tora oso" record the words spoken when the boat departs, and the following passage "pamjungman chigukch'ong sori-e ae kŭnnŭn dŭt hayŏra" records the scene after the boat's departure. (Continued on page 270)<263>
+The time gap is too large, the connection isn't smooth, and if it were a dialogue, each part would be fragmentary, lacking the tension needed to form a single piece. Indeed, it's not like that, but rather composed using a question-and-answer style (問答法). The language is appropriate, and the meter is beautiful. It's a splendid song that evokes extraordinary feelings using ordinary words. -(Continued)-<270>
+
+**Novel Lecture**
+
+**History of the Development of the Korean Novel**
+
+**Kim T'aejun**
+
+**Author Introduction**
+Mr. Kim was born in North P'yŏngan Province and is 30 years old this year. He graduated from the Literature Department of Keijō Imperial University in Shōwa 6 (1931). He is currently a teacher at Kyŏngsŏng Myŏngnyun Academy (京城明倫學院). He previously authored "History of Korean Novels" (朝鮮小說史), has deep knowledge of Korean classical literature such as Silla *hyangga* (新羅鄕歌), and has published numerous research papers.
+
+**A Single, Rough Factual Report**
+
+"The Land of Eastern Propriety" (東方禮義之處)—this was the pride of the scholars (선비님) of this land. Of course, propriety (禮義) refers to the Confucian ideology (儒敎이데오로기)—a product of Chinese society from thousands of years ago, but it was applied just the same in this land.
+Confucius (孔子), the venerable figure of Confucianism, said, "The novel is a minor way (小道). Because it leads far off and risks getting stuck in the mud (致遠恐泥), the gentleman (君子) does not engage in it." This is the fundamental reason why the scholars of this land came to treat novels with contempt (賤待視). Thus, even enlightened figures of recent times like Yi Sŏngho (李星湖) and Yi Ajŏng (李雅亭) said novels were "not fit to be seen" (不可接目), and Ch'ae Pŏmam (蔡樊岩) even issued an order prohibiting the import of novels. However, while being treated coldly with disdain (白眼) by gentlemen scholars (士君子), novels were still beloved among women and servants who did not understand Classical Chinese.<264>
+In this land, originally lacking letters to transcribe its own speech directly, cultural life proceeded for nearly 2,000 years through the Three Kingdoms and Koryŏ periods without them. Since there were no letters, they naturally borrowed the script of the Chinese people—that is, Chinese characters (漢字)—and invented a writing system called "*idu*" (吏讀) to phonetically transcribe their own words. However, with a script as cumbersome and inconvenient as *idu*, one could record short songs, but writing long novels was not only impossible, but if one were to write in *idu*, it was preferable to express oneself directly in Classical Chinese prose. Thus, we see the emergence of *p'aegwan* literature (裨官文學), the East Asian primitive form of the novel. But that was close to the essay (隨筆). And since it was narrated in Classical Chinese, it is difficult to consider it Korean literature. However, even so, there were no good works during the Three Kingdoms and Koryŏ periods. Even works written in Classical Chinese, such as the masterpieces *Kŭmo Sinhwa* (金驚新話), *Kuunmong* (九雲夢), and *Yŏnam Oejŏn* (燕岩外傳), could only be seen after the invention of the Korean script (조선문자, 한글). However, works like *Kŭmo Sinhwa*, *Kuunmong*, and *Yŏnam Oejŏn*, even if discussed within Chinese literature, would likely be of a much higher standard than the foreign-language writing published in foreign literary circles by the writers of this land today.
+This piece was written suddenly by dredging up old memories at the urgent request of the editor, without consulting any documents. Reader, please forgive this rambling text.
+This manuscript is divided primarily focusing on novels written purely in Han'gŭl.
+
+A decisive factor that powerfully enabled us to possess our own unique literature lies in the creation of Hunminjŏngŭm (訓民正音)—Han'gŭl—by King Sejong of the Yi Dynasty and his subordinate Hall of Worthies (集賢殿) scholars 489 years ago. However, due to the intellectuals of the time—knowledge was the exclusive possession of a special class with money and leisure—who were intoxicated with Classical Chinese, it could not achieve full development. Yet, as seen in the examples of Kim Manjung (金萬重) and Sin Hudam (愼後聃), there were those who "composed novels in the vernacular script (諺文)" for the consolation of their benevolent mothers,<265> or more commonly, they were the playful writings (戱筆) of unfortunate scholars (書生). Particularly, we cannot overlook the fact that a large number were crudely mass-produced (粗製濫造) through translation and imitation from base ancient Chinese unofficial histories (野史) to meet the demand from the royal court, serving as a pastime (消閑의 具) for queens and court ladies (宮女). These are what are known as "tale books" (니약이 책) or "*chŏn'gi*" (傳記, biographies/tales). Their form was generally fixed in a monotonous pattern (千篇一律): "During the Chenghua era (成化年間) of the Great Ming (大明), in the land of Nanjing (南京), there was a prime minister whose surname was X and given name was X. He had no offspring under his knee... gave birth to a jade-like boy... had 3 sons and 1 daughter and enjoyed wealth, honor, and glory (富貴榮華), it is said." This is an extremely naive narrative form (叙事的叙述形式). A significant influence here was the import of Ming and Qing novels; *Sanguo Yanyi* (三國衍義), *Shuihu Zhuan* (水滸傳), *Jiandeng Xinhua* (剪燈新話), *Xiyouji* (西遊記), *Jingu Qiguan* (今古奇觀), etc., were most avidly read. The protagonists of military tales (軍談類) often drew material from *Taiping Guangji* (太平廣記) and *Shishuo Xinyu* (世說新語), which had been read since the Koryŏ period. The fact that most military tales set their stage in China stemmed either from the Sinophilia (慕華心) of the Korean aristocracy or from a yearning for exotic atmosphere (異國的情調). Losing the place of feudal literature, whether in the East or West, involved records boasting of the military prowess (武勇) of feudal warriors or tales of loyalty (忠義譚) involving service to an absolute individual. Works that broke away from this fixed format hold greater value for later appreciation. A major reason why *Hong Kiltong Chŏn* (洪吉童傳), *Kuunmong* (九雲夢), *Ch'unhyang Chŏn* (春香傳), *Sim Ch'ŏng Chŏn* (沈淸傳), *Changhwa Hongnyŏn Chŏn* (薔花紅蓮傳), *Hŭngbu Nolbu Chŏn* (興夫놀부전), etc., are much more beloved than *So Taesŏng Chŏn* (蘇大成傳), *Chang P'ungun Chŏn* (張豊雲傳), *Wang Changgun Chŏn* (王將軍傳), *Hwang Changgun Chŏn* (黃將軍傳) might lie in the structure of their narratives rather than just being general true stories (一般實談).
+
+*Hong Kiltong Chŏn* was written by Hŏ Kyun (許筠), whom all Confucian scholars (儒冠) during King Kwanghae's reign mocked as a "monster" (怪物). It was modeled on the "Pak Ŭngsŏ Incident" (朴應犀獄事件), where illegitimate sons (庶孼) like Pak Ŭngsŏ (朴應犀) and Sŏ Yanggap (徐羊甲) gathered by the Soyang River (昭陽江) and plotted social action.<266> *Kuunmong*, depicting the life of a Chinese aristocrat with one husband and eight wives, along with *Sas</em>si Namjŏnggi* (南征記), was authored by Sŏp'o Kim Manjung (西浦金萬重), as written in the *Pukhŏn Chapsŏl* (北軒雜說) by his collateral grandson Kim Ch'unt'aek (金春澤).
+Also, many novels were based on folktales (童話) and legends (傳說) like those of Sim Ch'ŏng (沈淸), Nolbu's gourd (놀부쨍기), and the golden calf (金송아지), elaborating them into novels and incorporating elements like stepmother revenge (繼母復讐) and other aspects of real social life. These, along with other romance tales (艶情類), developed even into the form of narrative singing (*ch'anggŭk*, 唱劇調).
+Among romance novels (艶情小說), *Ch'unhyang* (春香), *Oktan Ch'un* (玉丹春), *Sugyŏng* (淑英), *Paek Hak Sŏn* (白鶴仙), *Ch'uk Yŏngt'ae* (祝英臺), etc., were the best. It was a perfectly natural trend (趨勢) that *Ch'unhyang Chŏn*, which possessed more social class significance (社會階級的意義) than mere tales of chance encounters between talented men and beautiful women (才子佳人의 奇遇), became the most beloved. The peasant uprising (農民一揆) and the resistance against Magistrate Pyŏn (卞府使) appearing in *Ch'unhyang Chŏn* were general demands of the newly emerging class (新興層인 擡頭的新興階級).
+
+However, it was the predecessors from 30-40 years ago, Messrs. Yi Injik (李人植) and Yi Haejo (李海朝), who liberated the novel from the kitchen (廚房) and truly introduced it as reading material for modern youth (現代靑年).
+It was Kukch'o Yi Injik (菊初李人植) who wrote novels in a colloquial, unified spoken-written style (言文一致體) using Han'gŭl.
+He adapted works like *Sŏlchungmae* (雪中梅), *Ŭnsegye* (銀世界), and the Kim Okkyun incident (金玉均事件), attempting theatrical performances at Wŏn'gaksa Temple (圓覺寺) together with Ilchae Cho Chunghwan (一齋趙重桓), while also writing novels such as *Kwiŭi Sŏng* (鬼의 聲, Voice of the Ghost), *Ch'iaksan* (雉岳山), and *Hyŏrŭi Nu* (血의 淚, Tears of Blood). He completely reformed the past novel format, of course. Those engaged in creative work with steady effort at the time were Messrs. Yi Haejo (李海朝), Ch'oe Ch'ansik (崔讚植), and Kim Kyoje (金敎濟). In translation, there were Messrs. Yi Sanghyŏp (李相協) and Min T'aewŏn (閔泰瑗).
+Thus, chronologically succeeding Messrs. Yi Injik, Yi Haejo, and Ch'oe Ch'ansik, those engaged in the New Literature Movement included Ch'unwŏn Yi Kwangsu (春園李光洙) as the leader, along with Messrs. Hyŏn Sangyun (玄相允) and Chu Yosŏp (奏瞬昇 error, likely Chu Yohan 주요한 or Chu Yosŏp 주요섭 is intended, though 奏瞬昇 appears in the original text). They formed the writing team for "Sonyŏn" (少年), "Aidŭlboi" (이이들보이),<267> and "Ch'ŏngch'un" (靑春), managed by Ch'oe Namsŏn (崔南善).
+And so, after witnessing the trend of "New Novels" (新小說)—a type of novel different from the old tale books (니야기책)—we finally came to see "novels" (小說) worthy of the name in the modern sense.
+Remarkable activity was seen by those who had studied in Japan proper (日本內地) and returned. They were individuals who had considerably absorbed existing literature and engaged in creative work with literary nourishment absorbed from contemporary European, American, and Japanese literature. The efforts of key figures like Kim Tongin (金東仁), Yŏm Sangsŏp (廉相涉), Hyŏn Chin'gŏn (玄憑虛 error, likely Hyŏn Chin'gŏn 현진건 is meant, though 玄憑虛 appears), Pang In'gŭn (方仁根), and Na Pin (羅彬) belong to this period. At that time, besides the Taehan Maeil Sinbo (大X每日申報, likely 대한매일신보), there were the three newspapers—Tonga (東亞), Chosŏn (朝鮮), Sidae (時代), and "Today's Chungang" (오늘의 中央, likely referring to the Chungang Ilbo 중앙일보)—and magazines sprouting like mushrooms after rain (雨後竹筍).
+
+However, we cannot fail to mention here the existence of the novelist Ch'unwŏn Yi Kwangsu (春園李光洙), who came after Yi Injik and Yi Haejo, bridged the gap to these later writers, and gave the feeling of freely moving back and forth (從往橫來).
+Ch'unwŏn's work "To a Young Friend - Young Dream" (어린벗에게-젊은 꿈) is said to be the first Korean work influenced by Western literature (according to Kim Tongin's study of Ch'unwŏn). Not only in its brilliant colloquial beautiful prose (口語體의 美文), but also its themes were more progressive. He consecutively published works like "A Boy's Sorrow" (少年의 悲哀) and "Yun Kwangho" (尹光浩), but above all, the work that made Ch'unwŏn famous must be "Mujŏng" (無情, The Heartless), published in the Maeil Sinbo (每日申報).
+Taking transitional figures like Elder Kim (金長老), the English teacher Yi Hyŏngsik (리형식), and the elder's daughter Sŏnhyŏng (선형), he wrote Korea's first truly long novel.
+From an actively individualistic standpoint, he resisted old ideas and advocated free love (自由戀愛). He subsequently wrote "The Pioneer" (開拓者), "Rebirth" (再生), etc.<268>
+Resistance against feudalistic patriarchal authority (家長權) is visible. He fulfilled a progressive role by expressing, albeit one-sidedly, the awakened individualistic ideology (個人主義的思潮) of the time. Mr. Yi later wrote historical novels such as "Prince Maui" (麻衣太子), "Yi Sunsin" (李舜臣), and "The Sad History of King Tanjong" (端宗哀史). However, in these, one cannot see the vibrant civic sensibility (市民的感嘆) or historical progressiveness (歷史的進步性) of his earlier work; instead, bound by a narrow subjective perspective (小主觀), he determines good and evil based on concepts of loyalty and filial piety (忠孝觀念), further mystifying and heroizing them, thereby depicting his own fantasies (自家의 幻想). He is currently writing "The Death of Ich'adon" (異次頓의 死).
+
+Following Ch'unwŏn, Messrs. Kim Tongin (金東仁), Yŏm Sangsŏp (廉想涉), Ch'oe Sŏhae (崔曙海), and Cho Myŏnghŭi (趙明熙) arose. Some critics summarily dismiss this as the Chaotic Searching Period (混沌模索時代), while others call it the Post-War Flowering Period of Korean Literature (朝鮮文學의 戰後的開花期)—a transitional period from Naturalism to Romanticism. Those who call it the Chaotic Searching Period argue that the various ideological tendencies of the time—Nihilism (虛無主義), Romanticism (浪漫主義), Aestheticism (唯美主義), Satanism (惡魔主義), Naturalism (自然主義), etc.—covered Korean literature like a polluted lake, making it questionable whether even a single coherent school (主義) was formed. Those who see it as a transition from Naturalism to Romanticism view it as inheriting or extending the fundamental weakness running through Ch'unwŏn's literature—the one-sidedness of reality recognition and grasp (現實認識 及 把握의 일면성). They see it as showing a marked change in the appearance and content of Korean people's historical life centered around the March First Movement (己未年) as a watershed, and argue that even if social class differentiation (社會的階級分化) had not yet shown fundamental opposition, it could be encompassed under the unified concept of what we might call the National Literature Period (民族文學時代).
+
+However, although the "diverse tendencies of the Romantic fin-de-siècle" (浪漫的世紀末의 雜多한 傾向) seemed to present chaos and searching on the surface, and while the bleak reality after the March First Movement constrained the full artistic development of Naturalist literature, excellent works were produced, such as Mr. Yŏm Sangsŏp's<269> full-length novel "Before the Manse Cheers" (*Manse Chŏn*, 萬歲前), short stories "Green Frog in the Specimen Room" (標本室의 靑개고리), "New Year's Eve" (除夜), etc., Mr. Kim Tongin's short stories "Flogging" (笞刑), "Sorrow of the Weak" (弱한 者의 슲음), and Mr. Hyŏn Chin'gŏn's (玄憑虛 error) "Grandmother's Death" (할머니 죽엄). Although the objective conditions and economic background of this land obstructed the natural path of art, it can be seen that we reached, albeit faintly, the flourishing period of bourgeois literature (부르문학의 興隆期) dealing with feelings of disillusionment (幻滅). This flourishing period became extremely sentimental and fantastical, leading towards formalism (形式主義) and art-for-art's-sake (藝術至上主義).
+
+Thus, this declining phase of Naturalism could also be seen as the flowering period of Romantic literature. It reached its perfect model (好個의 典型) in Mr. To Hyang, Na Pin's (稻香羅彬 error, likely Na Tohyang 나도향 is meant, though 稻香羅彬 appears) full-length novel "Fantasy Game" (*Hwanhŭi*, 幻戱) and short stories "Yesterday's Dream Was Pale" (옛날의 꿈은 蒼白하더이다), "If You Don't Know the Stars, Don't Cry" (별을 안거든 우지나 말걸), etc. Art-for-art's-sake literature, completely detached from reality, like the whistle of an empty wanderer (空虛한 浪人), was itself like a nebula in a world of fantasy. It was already prone to becoming listless (無氣力) and escapist (逃避的), like the *hansi* poets (漢詩客) of old who idly recited poems about rivers, mountains, wind, and moon (江山風月). Reality under the banner of Cultural Rule (文化政治) had changed shockingly and tremendously.
+Consequently, popular organizations (민중단체) arose everywhere, and among them, Im Sŭngjae's (任昇宰) article "A Message to All Men of Letters" (文士諸君에 告함) was a huge bombshell (爆彈) and alarm bell (警鍾) for the writers intoxicated by the Romantic fragrance (浪漫的薰香). (Continued in the next issue)<270>
+
+**Overseas Literary Giants Lecture**
+
+**Romain Rolland's Art and Life**
+
+**Yi Hŏn'gu**
+
+**Author Introduction**
+Mr. Yi Hŏn'gu was born in Myŏngch'ŏn, North Hamgyŏng Province, and is 31 years old this year. He previously finished Kyŏngsŏng Posŏng High School, went to Tokyo, and graduated from the French Literature Department of Waseda University. After returning, he is currently employed at the Communications Bureau (遞信局) and is a member of the Theater Arts Research Society (劇藝術硏究會). Not only does he have profound research in French literature, but he is also a literary critic who has published numerous research papers.
+
+"Romain Rolland" was born in Nièvre department in central France on January 29, 1866 (Sunday). He was born in the small village of Clamecy, but he inherited a considerable amount of passionate revolutionary spirit from his great-grandfather, who fought fervently during the French Revolution. On the other hand, his mother was a truly devout Catholic believer, while his father held the ordinary profession of a notary (公證人).
+He was naturally nervous and precocious. His blue eyes (碧眼), evoking images of a blue lake, concealed the mysterious phantoms of infinite yearning (憧憬) and fantasy (空想). Therefore, the school education intended by his parents to make him successful in the field of science and engineering could not help but conflict with his spirit. That is, music, which he believed was "as indispensable to life as bread (팡)," and this scientific world were too far apart. He was immersed in the intense dream world of faith and legend and the infinite charm of music. The childhood of "Jean-Christophe" is largely a self-portrait of the author. He was intoxicated by the music of "Beethoven," "Mozart," and "Wagner." His nervous disposition, prone to fainting (기절) over small matters, found supreme solace (法說) and stability only in this music.<271> And his reading inclined him towards Shakespeare's (沙翁) plays (戱曲).
+A new life unfolded before him. He moved to Paris (巴里). This talented 17-year-old boy, thanks to the sacrificial efforts of his parents, left the hometown where he had lived permanently and began attending Lycée Louis-le-Grand (르-이中學) to prepare for entrance to the École Normale Supérieure (師範學校).
+Here, he gained several friends who would shoulder the future of French literature and thought. Today's famous poet "Paul Claudel" (포올·골로델), the sole authority on French literary trends Professor "Strowski" (스토로스키), and the pure-hearted poet "André Suarès" (아드레, 슈아려스) were all classmates. However, around 1886, when he chose geography and history at the École Normale, he suffered great anguish fueled by pure ideals. That is, he harbored a kind of disillusionment and anxiety towards Naturalism, led by "Zola" (졸라) at the time, and could not muster great interest in the rise of Symbolism (象微主義) either. His innate strong faith and passion yearned for some ideal, heroic, great flash of light, and he sobbed and agonized (鳴咽懊惱) in the darkness. Just then, Russian literature, including "Tolstoy" (톨스토이) and "Dostoevsky" (도스토이엡스키), surged through the translations of "Vogüé" (보규에). Among Tolstoy's works, "War and Peace" (戰爭과 平和), "Anna Karenina" (안나, 카려니나), and several others were translated. He felt an infinite attachment to such works.
+There, he discovered the revelation of a great life, or the life of the masses (民衆生活), and the essence of a new art. For him, until then engrossed in music and Shakespeare, a new real world of human life unfolded. Amidst this, in 1887, Tolstoy's "What Is to Be Done?" (우리는 무엇을 해여야 하느냐?) was translated and published. Reading this book brought him a new, great doubt (懷疑) and desperate gloom (絶望的暗澹). That is, Tolstoy fiercely refuted (痛烈한 反駁) modern art, including Shakespeare,<272> and denied the value of modern art. For "Rolland," music, which he considered like daily bread (팡), was defined as "entertainment that leads humans to neglect their duties." Beethoven and Wagner, whom he revered day and night, were denounced as confusing the senses, disturbing beliefs (信念을 攪亂), immoral (背德的), and causing the loss of mutual human harmony (人類相互의 融和). Seeing this, "Rolland's" ideals and beliefs up to that point were suddenly cast into a dark abyss (暗黒의 深淵), and he could only collapse, holding the lifeless husk (形骸) of his destroyed and disrupted spirit. Days of anguish (煩腦) and torment (苦憫) continued for him. From this abyss of despair, he searched and groped for a new single ray of light (光明).
+He finally made up his mind. This unknown foreign youth wrote a letter to the great writer Tolstoy (杜翁), who then dominated the world stage. Of course, he did not expect a reply. But unexpectedly, on October 4, 1887, an astonishingly long letter of 38 pages found its way to this pale-faced youth. (Rolland made this letter public 15 years later, in 1902.) The letter began with the salutation "My dear friend!" (!나는 君의 편지를 밧고 심히 감동되엿다. 나는 눈물노써 글을 닑엇다!) "Art that unites humanity is the only art of value. Valuable art is that for which the artist must sacrifice themselves for their convictions. The prerequisite for all true work is love for humanity before love for art. Only those filled with such love are suitable talents for any meaningful work an artist should undertake!" These words decisively influenced "Rolland's" view of art. As he stated in the preface when he later wrote "The Life of Tolstoy" (톨스토이傳), the vivid lesson of how much he was influenced by Tolstoy<273> can be fully understood.
+After finishing the École Normale in 1889, he went to study abroad in Rome (羅馬). Since he had previously known Rome as a city of already dead art, he did not hold such great yearning for it. However, the two years he spent in Rome were significant in his life; if he received teachings like a master (師父) from Tolstoy, then Mrs. "Malwida" von Meysenbug (마르비다 夫人), whom he met in Rome, was his elderly female mentor (師母).
+This lady was born into a German aristocratic family but held fervent enthusiasm (熾意) for the revolutionary movement. Exiled (亡命), she had friendships with numerous international exiles (國際的諸亡命客) in London (倫敦). When Rolland met her, she was already 72 years old. Meanwhile, the lady was also a lover of art (藝術의 愛慕家) and was close (親爻) to various literary figures staying in Rome at the time, such as "Ibsen" (입센). He visited the grave of the sacred musician "Wagner" (와그너-), who died in Venice (뻬녀칫스), with this old lady. During these two years of study abroad, "Rolland's" musical education (音樂的敎養) became engrossed again in the study of Italian opera (伊太利의 歌劇硏究). At the same time, his historical and artistic inclination towards the heroic achievements (英雄的業蹟) of Italy's various master painters (諸畵聖) eventually led him to later write "The Life of Michelangelo" (미켈안젤로傳).
+Returning from Rome, he married in 1892 and studied abroad again in Rome in 1893. Returning once more to Paris, in 1895 (at age 29), he submitted two major theses, "The Origins of Modern Lyric Drama" (近代抒情劇의 起源) and "History of Opera Before Lully and Scarlatti" (룰리及스칼라티 以前의 歌劇史), to the Sorbonne University (소르본느大學), obtaining a doctorate in literature (文學博士). Subsequently, he took charge of lectures on music history at the École Normale Supérieure. During his time teaching at the École Normale, his friendship with "Charles Péguy" (솨알, 페기-), a future famous poet and fervent admirer (狂熱的崇拜者) of "Joan of Arc" (쟈안다-크), is a famous fact in "Rolland's" biography.
+Furthermore, when the famous "Dreyfus Affair" (드레푸스事件) caused French intellectual circles, politics, and general public opinion to split into two major opposing sides, centered around contemporary prestigious writers like "Émile Zola" (에밀, 졸라) and "Anatole France" (아나톨, 프랑스),<274> the fact that "Rolland," along with "Zola" and others, was a fervent fighter (一鬪士) in the Dreyfus support movement is also something everyone knows. Due to space constraints, a detailed report of the facts is omitted, but while he participated in such practical actions (實踐行動) from a humanitarian standpoint (人道主義的立場), around this time, he began writing plays (劇作). Although he had attempted 2 or 3 plays during his studies in Rome, the completion of "The Wolves" (羣狼) in 1898 was precisely the result of the passion for human love (人類愛的情熱) and the ideas that had swelled in his entire spirit since the Dreyfus affair. The emotion and passion from his childhood readings of his great-grandfather's manuscripts, "Diary of the Revolutionary Era" (革命時代日記), who had participated in the French Revolution, finally flared up in his heart (心胸). Thus, he followed with two more plays, "The Fourteenth of July" (七月十四日) and "Danton" (단통), combining them under the collective title "Revolutionary Plays" (革命劇).
+He felt extreme disgust (憎惡) towards all the decadent (頹廢) intellectual and literary circles of France at the time. That is, against bourgeois decadence (보르로아지-리데카다니즘), he intended to sweep away the chaotic, deformed anarchist state (畸形的無政府狀態) of society through the creation of new art. To purify the corrupt contemporary literature, especially theater—which was about pleasure (享樂), lewdness (淫佚), and peripheral nerve excitement (末稍神經的興奮)—he advocated for a new theater movement "for the people and by the people" (民衆을 위하야 또는 民衆에 의하야), not just for a segment of the leisured class (有閑階級), but truly as the central movement of society. He wrote "The People's Theater" (民衆劇論) and "Rolland" himself directly participated in this people's theater movement, constructing people's theaters in areas where large crowds could gather. This movement was planned from the end of the 19th century, and in November 1899, a design competition for a popular theater (平民劇場) was held. By 1903, two large people's theaters were established. The government attempted appeasement (懷柔) once or twice regarding this movement, and in opposition, the government proceeded with plans for state-established people's theaters,<275> eventually preventing the movement from achieving complete, continuous success.
+Having failed in this practical movement, "Rolland" quit his music lectures at the Sorbonne University mid-way, retired entirely from art education and art movements, and returned purely to the life of a writer. After divorcing his wife from his unpeaceful home life, he continued a poor existence with his sister Madeleine, his sole spiritual companion (精神的伴侶者), starting a truly tearful writing life (文筆生活) without any particular reward or favorable treatment (報酬와 優待) socially or from the literary world. He provided all his manuscripts for publication in the literary magazine "Cahiers de la Quinzaine" (카이에르·드·라·캉제-느) (bi-monthly), founded by his beloved disciple Charles Péguy, whose name was mentioned earlier.
+Not only "Rolland's" three great biographies—"Beethoven," "Michelangelo," "Tolstoy"—but also "Jean-Christophe," one of the world's three great epic novels, was serialized in this magazine for 10 years, from 1904 to 1913.
+However, society maintained a very cold attitude towards such dedicated efforts. Often, great souls (偉大한 靈魂) are not praised popularly for their brilliance (光鋩). Amidst this absolute arduous struggle (刻苦奮鬪), the confused world situation reached the eve of the Great European War, heralding its crisis.
+In 1914, the French Academy (佛蘭西翰林院) suddenly awarded "Rolland's" "Jean-Christophe" the Academy Prize (아카데미상), and subsequently, in the same year, he received the world's highest literary award, the Nobel Prize (노-벨賞). For "Rolland," 1914 was truly a year to be blessed. However, the general trend finally led to the planting of terrifying cannon fire (砲火) and the gore (血腥) of slaughter (殺戮).<276>
+"Rolland," who inherited Tolstoy's humanitarian spirit (人類的精神), vehemently advocated anti-war (反戰). Exiled abroad to Switzerland (瑞西), he published fiery articles titled "Above the Battle" (戰亂을 超越하야) in Swiss newspapers, seeking comrades who resonated with this spirit. He sought fervent agreement from Hauptmann (하우푸트만), who held similar ideas, and urged the socialist poet Verhaeren (벨하-령), but failed to find companions fully satisfactory to his cause.
+From the World War, he came to hold extreme skepticism (懷疑) towards scientific civilization (科學文明). He finally immersed himself in Eastern thought—Indian philosophy (印度哲學)—and came to admire "Gandhi" (간듸). Thus, he even came to write "Mahatma Gandhi" (간듸-傳). However, he possessed a blood-earnest sincerity (血誠) dedicating his entire life to the creation of a new human history. Even if his thought lacked practicality (實踐性), it more than suffices to deeply move true human society. In 1931, after 20 years of exile (追放), he wrote "Farewell to the Past" (過去와의 訣別), declaring a new creativity regarding his ideological standpoint up to that point, followed by "Fifteen Years of Struggle" (苦鬪十五年), vividly portraying the full picture of his human anguish.
+By Korean reckoning, he is 70 years old this year. Despite this, his fighting spirit (鬪志) for the realization of humanity's ideals is only becoming fiercer (熾烈). The life of the great man of the 20th century, the true hero—"Romain Rolland"—still promises us a new dawn (曙光).
+Nov. 5
+
+(Postscript) This piece ends up merely introducing his life very crudely. I intend to publish about his ideological background or his art at a later date.<277>
+
+**Summary**
+
+This collection of four short lectures from *Samch'ŏlli* magazine in December 1935 covers Korean poetry, sijo, the Korean novel, and the French writer Romain Rolland. Pak P'aryang traces the "New Poetry" movement from Ch'oe Namsŏn's 1907 free verse. Yi Pyŏnggi discusses appreciating traditional sijo by understanding its historical context and provides an analysis of a parting song. Kim T'aejun outlines the history of the Korean novel from its Hanmun and Han'gŭl roots, through traditional tales and "New Novels," to modern writers like Yi Kwangsu and Kim Tongin, noting the influence of social change and foreign literature. Yi Hŏn'gu presents a biography of Romain Rolland, highlighting his artistic development, influences (especially Tolstoy), humanitarianism, anti-war stance, and eventual interest in figures like Gandhi.
+
+From a colonial history perspective, the articles are revealing. Kim T'aejun's piece openly discusses the class basis of literary access ("knowledge was the exclusive possession of a special class"), the impact of Han'gŭl, the influence of Chinese and later Western/Japanese literature, and connects literary developments like *Ch'unhyang Chŏn*'s popularity and the rise of naturalist/romantic authors to social changes and emerging class consciousness (mentioning the March First Movement implicitly via "己未年" and peasant resistance). Pak P'aryang's dating of "New Poetry" highlights the relatively recent shift from traditional forms. Yi Pyŏnggi emphasizes reconnecting with Korea's pre-modern literary past. Yi Hŏn'gu's focus on Rolland's humanitarianism, anti-war activism, and interest in non-Western figures like Gandhi might resonate with intellectuals seeking moral frameworks beyond colonial or purely Western models. Historians might find the explicit discussion of class, the acknowledgment of foreign literary influence alongside attempts to define a unique Korean literary history, and the implicit engagement with contemporary social/political issues (like Rolland's anti-war stance) particularly interesting within the context of late 1930s colonial Korea.
+
+**Named Entities**
+
+京畿水原	경기도 수원	Kyŏnggi Suwŏn
+培材高普	배재고보	Paejae Kobo (Paejae High School)
+京城法學專門學校	경성법학전문학교	Kyŏngsŏng Law College
+朝鮮日報	조선일보	Chosun Ilbo
+中央日報	중앙일보	Chungang Ilbo
+金麗水	김려수	Kimnyŏsu (pen name)
+朝鮮	조선	Chosŏn (Korea)
+少年	소년	Sonyŏn (magazine)
+明治	명치	Meiji
+隆熙	융희	Yunghŭi
+公六	공륙	Kongyuk (pen name)
+六堂 崔南善	육당 최남선	Yuktang Ch'oe Namsŏn
+光武	광무	Kwangmu
+西歷	서력	Sŏryŏk (Western Calendar)
+世宗大王	세종대왕	King Sejong the Great
+訓民正音	훈민정음	Hunminjŏngŭm
+忠淸道	충청도	Ch'ungch'ŏng Province
+徽文高普校	휘문고보교	Hwimun Kobo Kyo (Hwimun High School)
+가람	가람	Karam (pen name)
+朝鮮語學會	조선어학회	Chosŏnŏ Hakhoe (Korean Language Society)
+高麗	고려	Koryŏ
+李朝	이조	Yi Cho (Yi Dynasty)
+孔孟程朱	공맹정주	Kong Maeng Chŏng Chu (Confucius, Mencius, Cheng Yi, Zhu Xi)
+漢文	한문	Hanmun (Classical Chinese)
+石窟庵	석굴암	Sŏkkuram (Grotto)
+多寶塔	다보탑	Tabot'ap (Pagoda)
+奉德寺鍾	봉덕사종	Pongdŏksa Chong (Bell of Pongdŏk Temple)
+龍飛御天歌	용비어천가	Yongbiŏch'ŏn'ga
+月印千江之曲	월인천강지곡	Wŏrin ch'ŏn'gang chi kok
+佛經七書諺解	불경칠서언해	Pulgyŏng ch'ilsŏ ŏnhae (Vernacular Renderings of Seven Buddhist Sutras)
+杜詩諺解	두시언해	Tusi ŏnhae (Vernacular Renderings of Du Fu's Poetry)
+大東風雅	대동풍아	Taedong P'unga (anthology name)
+東樊集	동번집	Tongbŏn Chip (anthology name)
+熱河日記	열하일기	Yŏrha Ilgi (Travelogue by Pak Chiwŏn)
+漠北行程錄	막북행정록	Makpuk Haengjŏngnok (section title within Yŏrha Ilgi)
+平北	평북	P'yŏngbuk (North P'yŏngan Province)
+昭和	소화	Shōwa
+京城帝國大學	경성제국대학	Keijō Teikoku Daigaku (Keijō Imperial University)
+京城明倫學院	경성명륜학원	Kyŏngsŏng Myŏngnyun Hagwŏn
+新羅鄕歌	신라향가	Silla Hyangga
+中國	중국	Chungguk (China)
+李星湖	이성호	Yi Sŏngho
+李雅亭	이아정	Yi Ajŏng
+蔡樊岩	채번암	Ch'ae Pŏmam
+金驚新話	금오신화	Kŭmo Sinhwa (Work by Kim Sisŭp)
+九雲夢	구운몽	Kuunmong
+燕岩外傳	연암외전	Yŏnam Oejŏn (Works by Pak Chiwŏn)
+李朝	이조	Yi Cho (Yi Dynasty)
+集賢殿	집현전	Chiphyŏnjŏn (Hall of Worthies)
+金萬重	김만중	Kim Manjung
+愼後聃	신후담	Sin Hudam
+大明	대명	Taemyŏng (Great Ming Dynasty)
+南京	남경	Nanjing
+三國衍義	삼국연의	Samguk Yŏnŭi (Romance of the Three Kingdoms)
+水滸傳	수호전	Suhyojŏn (Water Margin)
+剪燈新話	전등신화	Chŏndŭng Sinhwa
+西遊記	서유기	Sŏyugi (Journey to the West)
+今古奇觀	금고기관	Kŭmgo Kigwan
+太平廣記	태평광기	T'aep'yŏng Kwanggi
+世說新語	세설신어	Sesŏl Sinŏ
+洪吉童傳	홍길동전	Hong Kiltong Chŏn
+春香傳	춘향전	Ch'unhyang Chŏn
+沈淸傳	심청전	Sim Ch'ŏng Chŏn
+薔花紅蓮傳	장화홍련전	Changhwa Hongnyŏn Chŏn
+興夫놀부전	흥부놀부전	Hŭngbu Nolbu Chŏn
+蘇大成	소대성	So Taesŏng (likely So Taesŏng Chŏn)
+張豊雲	장풍운	Chang P'ungun (likely Chang P'ungun Chŏn)
+王將軍	왕장군	Wang Changgun (likely Wang Changgun Chŏn)
+黃將軍	황장군	Hwang Changgun (likely Hwang Changgun Chŏn)
+光海	광해	Kwanghae (King Kwanghae)
+許筠	허균	Hŏ Kyun
+朴應犀	박응서	Pak Ŭngsŏ
+徐羊甲	서양갑	Sŏ Yanggap
+昭陽江	소양강	Soyang River
+南征記	남정기	Namjŏnggi (Sas*si Namjŏnggi*)
+西浦	서포	Sŏp'o (pen name of Kim Manjung)
+金春澤	김춘택	Kim Ch'unt'aek
+北軒雜說	북헌잡설	Pukhŏn Chapsŏl
+沈淸	심청	Sim Ch'ŏng
+놀부쨍기	놀부쟁기	Nolbu Chaenggi (Nolbu's Gourd Section/Story)
+金송아지	금송아지	Kŭm Songaji (Golden Calf Story)
+春香	춘향	Ch'unhyang
+玉丹春	옥단춘	Oktan Ch'un
+淑英	숙영	Sugyŏng (likely Sukyŏng Nangja Chŏn)
+白鶴仙	백학선	Paek Hak Sŏn
+祝英臺	축영대	Ch'uk Yŏngt'ae (likely referring to Liang Shanbo and Zhu Yingtai story)
+卞府使	변부사	Pyŏn Pusa (Magistrate Pyŏn in Ch'unhyang Chŏn)
+李人植	이인식	Yi Injik
+李海朝	이해조	Yi Haejo
+菊初	국초	Kukch'o (pen name of Yi Injik)
+雪中梅	설중매	Sŏlchungmae
+銀世界	은세계	Ŭnsegye
+金玉均	김옥균	Kim Okkyun
+一齋	일재	Ilchae (pen name of Cho Chunghwan)
+趙重桓	조중환	Cho Chunghwan
+圓覺寺	원각사	Wŏn'gaksa (Temple/Theater)
+鬼의 聲	귀의 성	Kwiŭi Sŏng
+雉岳山	치악산	Ch'iaksan
+血의 淚	혈의 루	Hyŏrŭi Nu
+崔讚植	최찬식	Ch'oe Ch'ansik
+金敎濟	김교제	Kim Kyoje
+李相協	이상협	Yi Sanghyŏp
+閔泰瑗	민태원	Min T'aewŏn
+春園	춘원	Ch'unwŏn (pen name of Yi Kwangsu)
+李光洙	이광수	Yi Kwangsu
+玄相允	현상윤	Hyŏn Sangyun
+奏瞬昇	주순승	Chu Sunsŭng (Original text error, likely Chu Yosŏp/Yohan meant)
+이이들보이	이이들보이	Aidŭlboi (magazine)
+靑春	청춘	Ch'ŏngch'un (magazine)
+日本內地	일본내지	Ilbon Naeji (Japan Proper)
+金東仁	김동인	Kim Tongin
+廉相涉	염상섭	Yŏm Sangsŏp
+玄憑虛	현빙허	Hyŏn Pinghŏ (Original text error, likely Hyŏn Chin'gŏn meant)
+方仁根	방인근	Pang In'gŭn
+羅彬	나빈	Na Pin (Error, likely Na Tohyang or Na Kyŏngsŏk meant)
+大X每日申報	대한매일신보	Taehan Maeil Sinbo
+東亞	동아	Tonga (Ilbo)
+朝鮮	조선	Chosŏn (Ilbo)
+時代	시대	Sidae (Ilbo)
+오늘의 中央	오늘의 중앙	Onŭrŭi Chungang (Today's Chungang, likely Chungang Ilbo)
+每日申報	매일신보	Maeil Sinbo
+尹光浩	윤광호	Yun Kwangho
+麻衣太子	마의태자	Prince Maui
+李舜臣	이순신	Yi Sunsin
+端宗哀史	단종애사	Tanjong Aesa
+異次頓	이차돈	Ich'adon
+崔曙海	최서해	Ch'oe Sŏhae
+趙明熙	조명희	Cho Myŏnghŭi
+己未年	기미년	Kiminyŏn (1919, year of March First Movement)
+萬歲前	만세전	Manse Chŏn (novel title)
+標本室의 靑개고리	표본실의 청개구리	P'yobonsirŭi Ch'ŏnggaeguri (story title)
+除夜	제야	Cheya (story title)
+笞刑	태형	T'aehyŏng (story title)
+弱한 者의 슲음	약한 자의 슬픔	Yakhan Chaŭi Sŭlp'ŭm (story title)
+할머니 죽엄	할머니 죽음	Halmŏni Chugŏm (story title)
+稻香羅彬	도향나빈	Tohyang Nabin (Error, likely Na Tohyang meant)
+幻戱	환희	Hwanhŭi (novel title)
+任昇宰	임승재	Im Sŭngjae
+咸北明川	함북명천	Hambuk Myŏngch'ŏn
+京城普成高普	경성보성고보	Kyŏngsŏng Posŏng Kobo (Posŏng High School)
+東京	동경	Tōkyō
+早稻田大學	조도전대학	Waseda Daigaku (Waseda University)
+遞信局	체신국	Ch'esinkuk (Communications Bureau)
+劇藝術硏究會	극예술연구회	Kŭgyesul Yŏn'guhoe (Theater Arts Research Society)
+佛蘭西	불란서	Pullanseo (France)
+로맹·롤랑	로맹 롤랑	Romain Rolland
+니에-브르	니에브르	Nièvre
+카람시-	클람시	Clamecy
+팡	팡	Pain (French for bread)
+벼-토벤	베토벤	Beethoven
+모찰트	모차르트	Mozart
+왁네-르	바그너	Wagner
+쟝크리스토프	장 크리스토프	Jean-Christophe
+沙翁	사옹	Sa Ong (Shakespeare)
+巴里	파리	Pari (Paris)
+르-이中學	루이중학	Lycée Louis-le-Grand
+師範學校	사범학교	Sabŏm Hakkyo (École Normale Supérieure)
+포올·골로델	폴 클로델	Paul Claudel
+스토로스키	스트로프스키	Strowski
+아드레, 슈아려스	앙드레 쉬아레스	André Suarès
+졸라	졸라	Zola
+보규에	보귀에	Vogüé
+톨스토이	톨스토이	Tolstoy
+도스토이엡스키	도스토옙스키	Dostoevsky
+露西亞	노서아	Nosŏa (Russia)
+戰爭과 平和	전쟁과 평화	Chŏnjaenggwa P'yŏnghwa (War and Peace)
+안나, 카려니나	안나 카레니나	Anna Karenina
+杜翁	두옹	Tu Ong (Tolstoy)
+羅馬	나마	Roma (Rome)
+마르비다 夫人	마르비다 부인	Malwida von Meysenbug
+獨逸	독일	Togil (Germany)
+倫敦	윤돈	Yundon (London)
+입센	입센	Ibsen
+뻬녀칫스	베네치아	Penech'issŭ (Venice)
+伊太利	이태리	It'aeri (Italy)
+미켈안젤로傳	미켈란젤로전	Mik'elanjello Chŏn (Life of Michelangelo)
+소르본느大學	소르본대학	Sorbonne Da hak (Sorbonne University)
+룰리	룰리	Lully
+스칼라티	스칼라티	Scarlatti
+쟈안다-크	잔 다르크	Joan of Arc
+솨알, 페기-	샤를 페기	Charles Péguy
+드레푸스事件	드레퓌스 사건	Dreypyusŭ Sagŏn (Dreyfus Affair)
+에밀, 졸라	에밀 졸라	Émile Zola
+아나톨, 프랑스	아나톨 프랑스	Anatole France
+羣狼	군랑	Kullang (The Wolves)
+七月十四日	칠월십사일	Ch'irwŏlsipsail (The Fourteenth of July)
+단통	단통	Danton
+카이에르·드·라·캉제-느	카이에 드 라 캥젠	Cahiers de la Quinzaine (magazine)
+佛蘭西翰林院	불란서한림원	Pullanseo Hallimwŏn (French Academy)
+노-벨賞	노벨상	Nobel Syŏng (Nobel Prize)
+歐洲大戰	구주대전	Kuju Taejŏn (European Great War, WWI)
+瑞西	서서	Sŏsŏ (Switzerland)
+戰亂을 超越하야	전란을 초월하여	Chŏnnanŭl Ch'owŏrhaya (Above the Battle)
+하우푸트만	하우프트만	Hauptmann
+벨하-령	베르하렌	Verhaeren
+印度哲學	인도철학	Indo Ch'ŏrhak (Indian Philosophy)
+간듸	간디	Kandi (Gandhi)
+간듸-傳	간디전	Kandi Chŏn (Life of Gandhi)
+
+**Glossary**
+
+氏	씨	Mr.; suffix for names
+일즉이	일찍이	Previously, early on (older spelling)
+歷任	역임	To have served successively in posts
+職	직	Position, job
+갓가운	가까운	Near, close to (older spelling)
+업다	없다	To not exist, to lack (older spelling)
+첫재	첫째	Firstly
+당하야	당하여	Facing, upon (older spelling)
+呼訴	호소	Appeal, plea
+니	네	Your (older/dialect form)
+깨닷는	깨닫는	Realizing (older spelling)
+그러타고 해서	그렇다고 해서	Even so, despite that (older spelling)
+그러치	그렇지	Like that; correct (older spelling)
+조코	좋고	Good and... (older spelling)
+조치	좋지	Good (contraction of 좋다 + 지) (older spelling)
+닯게	닮게	Resemblingly, like
+잇서서	있어서	Regarding, in (older spelling)
+가치	같이	Like, as (older spelling)
+말	말	End, conclusion
+잇스니	있으니	Since there is/are (older spelling)
+붓	붓	Writing brush, pen
+엇으니	얻으니	Obtained, gained (older spelling)
+되나 안되나	되나 안 되나	Whether it works out or not
+아모것도	아무것도	Anything, nothing (older spelling)
+업소	없소	Do not have (formal, slightly archaic)
+업네	없네	Do not have (slightly archaic/poetic)
+엇지	어찌	How, why (older spelling)
+者-일세	자일세	Is a person/one who... (emphatic ending)
+者-ㅁ일세	자ㅁ일세	Is a person/one who... (emphatic ending, possibly representing a glottal stop or pause)
+칼해집소	칼에 집소	Hold onto the knife (imperative/declarative, archaic form)
+직혀보난	지켜보는	Watching over (older spelling)
+만타	많다	Many, numerous (older spelling)
+아즉도	아직도	Still, yet (older spelling)
+狀態	상태	State, condition
+밧어	받아	Received (older spelling)
+밟어온	밟아온	Have trodden upon (older spelling)
+있으려니와	있으려니와	There are... and also...
+달러지는	달라지는	Changing, becoming different (older spelling)
+마르는	마르는	Drying; ending (context-dependent archaic term)
+어즈버	어즈버	Ah!, Alas! (archaic interjection)
+노매라	놓으매라	As (one) lets go/puts down (archaic grammatical form)
+놋다	놓다	To put, place, let go (older spelling)
+는고야	는고야	Is it...? (archaic interrogative ending)
+사이다	사뢰다	To tell, inform (humble, older form)
+새그녀	새기며	Engraving, carving; pondering (older spelling/form)
+긋는 듯	끊는 듯	As if cutting/severing (older spelling for 끊는)
+섭섭하고	섭섭하고	Sad, regretful, disappointed and...
+평안히	평안히	Peacefully, safely
+달겨가서	달려가서	Running towards (older spelling)
+마듸마듸	마디마디	Joint by joint, piece by piece (older spelling)
+니약이 책	이야기책	Storybook (older spelling/pronunciation)
+긔술하는	기술하는	Describing, writing down (older spelling)
+업는지라	없는지라	Since there is no... (older spelling)
+갓가왓다	가까웠다	Was close (older spelling)
+녯날	옛날	Old days, ancient times (older spelling)
+도라온	돌아온	Returned (older spelling)
+놀나운	놀라운	Surprising, amazing (older spelling)
+밧고	받고	Receiving and... (older spelling)
+닐어난	일어난	Arose, occurred (older spelling)
+노흐면서	놓으면서	Placing, laying; bridging (older spelling)
+늣김	느낌	Feeling, impression (older spelling)
+안이라	아니라	Not only... but also (older spelling)
+실닌	실린	Published, carried (older spelling)
+식히랴는	시키려는	Intending to make someone do (older spelling)
+업섯다	없었다	Did not exist, lacked (older spelling)
+가젓고	가졌고	Had, possessed and... (older spelling)
+업섯다	없었다	Did not exist, lacked (older spelling)
+암흑속에거	암흑 속에서	In the darkness (older spelling)
+늣기엿다	느끼었다	Felt (older spelling)
+해여야	하여야	Must do (older spelling)
+밧고	받고	Received (older spelling)
+닑엇다	읽었다	Read (older spelling)
+식힌다고	시킨다고	Causes to... (older spelling)
+던저지엇고	던져졌고	Was thrown and... (older spelling)
+박게	밖에	Only, except (older spelling)
+업다	없다	To not exist, to lack (older spelling)
+차자	찾아	Seeking, looking for (older spelling)
+드듸여	드디어	Finally, at last (older spelling)
+썻다	썼다	Wrote (older spelling)
+밧덧다면	받았다면	If (one) had received (older spelling)
+잇는	있는	Being in (older spelling)
+어덧고	얻었고	Obtained and... (older spelling)
+마텃다	맡았다	Took charge of (older spelling)
+엿든	였던	Was (retrospective modifier) (older spelling)
+섯다	섰다	Stood; was established (older spelling)
+올낫다	올랐다	Rose, went up (older spelling)
+지어	지어	Building; composing; naming (older spelling)
+안이요	아니요	Is not (older spelling)
+하랴고	하려고	Intending to do (older spelling)
+써스며	썼으며	Wrote and... (older spelling)
+잇는	있는	Existing (older spelling)
+엿고	였고	Was and... (older spelling)
+식히여	시켜	Making, causing (older spelling)
+말엇다	말았다	Ended up not doing; stopped (older spelling)
+도라가고	돌아가고	Returning (older spelling)
+업는	없는	Non-existent, lacking (older spelling)
+임이	이미	Already (older spelling)
+밧게	받게	To receive (nominalized form) (older spelling)
+므듸여	마침내/드디어	Finally, eventually (older spelling, mix of 마침내 and 드디어?)
+밧치는 바	바치는 바	That which is dedicated/offered
+잇다	있다	To exist, have (older spelling)
+끈치고	그치고	Stopping at, ending with (older spelling)
+말엇다	말았다	Ended up not doing; stopped (older spelling)
+기하야	기하여	Based on; waiting for (older spelling)
+하랴고	하려고	Intending to do (older spelling)Magazine Title: 삼천리 제7권 제11호
+Publication Date: 1935년 12월 01일
+Article Title: 三千里文藝講座(第2回 開講) (Samch'ŏlli Literary Lecture (Second Session Opening))
+Author: Pak P'aryang, Yi Pyŏnggi, Kim T'aejun, Yi Hŏn'gu
+Article Type: 문예평론 (Literary Criticism)
+
+**Samch'ŏlli Literary Lecture (Second Session Opening)**
+
+**Poetry Lecture**
+
+**History of the Korean New Poetry Movement**
+
+**Pak P'aryang**
+
+**Author Introduction**
+Mr. Pak was born in Suwŏn, Kyŏnggi Province, and is 32 years old this year. He previously graduated from Paejae High School and Kyŏngsŏng Law College. He served as a reporter in the society section of the Chosun Ilbo and is currently the head of the society section at the Chungang Ilbo. His pen name is "Kimnyŏsu" (金麗水), and he has published numerous poems.
+
+Titled "History of the Korean New Poetry Movement," this feels like an excessive burden for the author.
+Of course, this piece must possess the nature of a historical document, however small, but I must frankly confess that I currently lack any preparation or confidence to write it properly like a historical document. Firstly, in writing this, I cannot help but appeal to the readers regarding my lack of various necessary reference materials. Secondly, I realize I must also admit my own deficiency in the historical perspective needed to write this.
+However, should I simply throw down my pen because of this? Or, even if it is extremely abstract, fragmentary, general, and superficial, should I try to look back on the nearly 30-year footsteps of our New Poetry movement based on my own limited experience and record it?<254>
+I do not wish to simply cast aside my pen solely due to the difficulty of collecting materials or the author's limited knowledge and learning. Let's try to record it. Isn't it acceptable even if abstract, even if fragmentary? My humble intention regarding the Korean New Poetry movement is to attempt, whether successfully or not, to sketch here the "image" of the "new song of Korea" that we have always loved, from the days of weeping and laughing in the cradle of the Korean New Literature movement to today, when it has emerged from that cradle and is walking and running. Fortunately, may the reader forgive me.
+
+**I. Early New Poetry**
+
+"We have nothing
+But we have no fear
+
+We cannot obtain
+We carry the burden of what is right
+We are those who walk the main road—
+
+We possess nothing
+But we have no dread
+We cannot obtain<255>
+We take what is right as our wide ears (廣耳)
+We are those who heed everything on the main road—
+
+We carry nothing
+But we are not afraid
+Even with wealth like fine sand
+We cannot obtain
+We hold what is right as our knife
+We are those who watch over the main road—"
+This poem, which appears very clumsy to our eyes now, is one piece from the "Three Old Works" (舊作三篇) published in "Sonyŏn" (少年) Volume 2, Number 4, issued in April of Meiji 44 (Yunghŭi 3, 1911). These "Three Old Works," signed "Kongyuk" (公六), by Mr. Ch'oe Namsŏn (who later used the pen name Yuktang), are indeed the very first free verse—that is, the first New Poetry—in Korea that we cannot overlook. A record proving this to be Korea's first New Poetry exists in the postscript to the "Three Old Works," which states:
+"Before the Chŏngmi year (i.e., Kwangmu 11 - Author's Note), three months prior, I took up my pen and randomly recorded my thoughts as they came. This was the beginning, and over those three months, I produced about ten pieces. This was the start of my writing poetry and also the beginning of experimenting with the form of New Poetry in our language. The three pieces published here are selections<256> from among those. Now, happening upon these old works and recalling my thoughts from that time, I cannot help but feel a profound sense of emotion. Kongyuk (i.e., Ch'oe Namsŏn, later known as Yuktang - Author's Note) notes." As seen here, these "Three Old Works" are from Kwangmu 11 (1907) and are Korea's first free verse.
+Kwangmu 11 corresponds to the Western year 1907, 28 years ago from now. Therefore, New Poetry in Korea, born from the matrix of the traditional *sijo* (詩調) poetic form and raising its first cries, possesses a history of less than 30 years.
+In the past Korea, when one spoke of poetry, it invariably meant only *hansi* (漢詩, poetry written in Chinese characters). Even after King Sejong promulgated Hunminjŏngŭm (訓民正音), there was only the *sijo*, which had strict formal constraints. The birth of free verse, which emphasizes freedom of rhythm like this, can only be described as a major revolution in the history of Korean song.
+Continued<257>
+
+**Sijo Lecture**
+
+**Sijo Appreciation and Composition**
+
+**Yi Pyŏnggi**
+
+**Author Introduction**
+Mr. Yi was born in Ch'ungch'ŏng Province and is a 48-year-old scholar and writer. He is currently a professor at Hwimun High School. His research on *sijo* and "Han'gŭl" is profound, and he has published many *sijo* works under the pen name "Karam" (가람). He is a member of the "Korean Language Society" (朝鮮語學會).
+
+**I. Appreciation**
+
+Although this title only uses the word "Appreciation," in reality, it cannot be done without comprehensively discussing various aspects such as contemplation, interpretation, and criticism, not just the literal meaning.
+Even starting with the word *sijo* (時調), it seems we are still in a muddled state, unable to discern whether it was used for music or literature. Needless to say about the completely unlearned and ignorant, even those with considerable knowledge think of *sijo* only as something sung musically. If someone says they compose *sijo*, people ask them to sing one. They might say, "How can you compose *sijo* if you don't know how to sing?"—such remarks are often heard. This is what I mean by knowing *sijo* only as music. Indeed, it seems that our short songs (*tanga*, 短歌) acquired the name *sijo* more through music than through literature. In other words, the practice of singing *tanga* in 24 types of classical songs (*kagok*, 歌曲) naturally transitioned<258> into singing them as 4 types of *sijo*. It became popularized to the extent that even common clerks (閭井胥吏) could perform it, unlike the past when only special classes like high officials (高官大爵) did. Even if the general public doesn't know the names of the 24 types of *kagok*, there is no one who doesn't know *sijo*. There's even a proverb, "Sing a *sijo* or do something timely" (時調커니 때조나 하여라). And most respectable people knew how to sing a *sijo* tune. Even today, many older people know how to sing them. In this way, *sijo* has been revered solely as a form of music.
+The recognition of *sijo* as a literary term seems to have begun relatively recently, with the rise of the New Culture Movement among us. Previously, it was called *tanga* (短歌) and used as a literary term. This is evident when tracing back through our traditional literature. In other words, the name *tanga* changed to *sijo*.
+Although *sijo* became a literary term not long ago, songs of that form clearly existed from at least 800-900 years ago, during the Koryŏ period. There are over 1,500 such recorded pieces transmitted today. Since all of these were based on the sentiments, customs, and living conditions of their respective eras—Koryŏ, Yi Dynasty—it is natural that they might not align with the thoughts and feelings of us modern people. When scholarship meant only Confucius, Mencius, Cheng Yi, and Zhu Xi (孔孟程朱), writing meant only Classical Chinese (漢文), people wore hats as big as grinding stones (맷방석), held long bamboo pipes (長竹) like reeds in their mouths, and engaged in leisurely talk like "cherish flowers like courtesans" (愛花當妓) and "walk slowly instead of riding a carriage" (緩步當車)—those times were quite different from now. But those times were those times, and now is now. Not everything from back then disappears or is discarded. Even if we eat butter<259> and wear Western clothes, we cannot escape having inherited the bones and blood of those who lived like that back then. Even if we have changed, it's merely like a tadpole becoming a frog. A tadpole should not forget its tadpole days. Our past culture is the trace of the path trodden from tadpole to frog. Among those traces are artistic masterpieces like Sŏkkuram Grotto (石窟庵), Tabot'ap Pagoda (多寶塔), and the Bell of Pongdŏksa Temple (奉德寺鍾), and also precious literature like this *sijo*. If we want to appreciate such things, we must become like the people of that time and look at them; otherwise, it's impossible to understand.
+So, to understand this, let's assume we have become people of that time and read their songs. And let's look for the sentiment, language, and metrical structure (調格) of those songs.
+
+**1. Sentiment (情趣)**
+Some might say our customs and institutions are entirely imitations of China's, but not everything is like that. From thousands of years ago, we had our own unique history, customs, and institutions. Whether looking at housing systems, clothing and food, coming-of-age/wedding/funeral/ancestral rites (冠婚喪祭), stationery and utensils (文房諸具, 器皿等屬), gardens and pavilions (庭園亭臺), or even tastes and entertainment (嗜好, 娛樂), they differ from those of China. The sentiment in songs also has many points of difference from what appears in *hansi*. At first glance, our songs might seem like translations, adaptations, or plagiarisms of *hansi*, but upon careful examination, there are things that seem similar yet are not. Or, even if they are similar, it might be due to poets coincidentally sharing the same idea (意思同).
+
+**2. Language (用語)**<260>
+The language used in the old days is somewhat different from today's language. Language changes with the times. It's a natural thing. When we look at books written in our language like *Yongbiŏch'ŏn'ga* (龍飛御天歌), *Wŏrin ch'ŏn'gang chi kok* (月印千江之曲), the vernacular translations of seven Buddhist scriptures (佛經七書諺解), the vernacular translation of Du Fu's poetry (*Tusi ŏnhae*, 杜詩諺解), and other songbooks, there are many words we don't understand. That, rather, is what holds precious value for research. Not just for linguistics, but also for literature. We can see the language of the people of that time as it was, and also guess at their feelings and thoughts.
+Old words like "marŭnŭn" (마르는), "ŏjŭbŏ" (어즈버), "nomaera" (노매라), "notta" (놋다), "nŭn'goya" (는고야), "saida" (사이다), "saegŭnyŏ" (새그녀) were indispensable back then. Moreover, some of them can still be used today. Also, since Classical Chinese was revered and used as the ultimate script back then, Chinese idioms or phrases coined using Chinese characters constituted 80-90% of writing. Consequently, many Chinese characters came to be used in our songs as well. However, these too became Koreanized, so if used well, they would be fine.
+
+**3. Metrical Structure (調格)**
+Our traditional *tanga* can all be sung as music like *kagok* or *sijo*. This is because they were highly esteemed as music. Looking at the composers, they were mostly famous singers (名唱). The number of syllables and phrasing are orderly, and even in any inferior work, the metrical structure is quite well-formed. One could also think of this as the metrical structure prescribed by their music. And if you count the syllables in each phrase, it's not just 3,4 meter (seven-syllable phrase) and 4,4 meter (eight-syllable phrase); there are various others besides. For instance, there are regular meters (正調), altered meters (變調), irregular meters (亂調), and mixed meters (雜調).
+Let's put aside these general remarks and provide an actual example from our traditional songs.<261>
+
+*tas tŭja pae ttŏnani ije kamyŏn ŏnje ori*
+*man'gyŏng ch'angp'a-e kanŭn dŭt tora oso*
+*pamjungman chigukch'ong sori-e ae kŭnnŭn dŭt hayŏra*
+
+(Weigh anchor, the boat departs; if you leave now, when will you return?
+On the vast blue waves, may you go swiftly and return.
+Around midnight, the sound of *chigukch'ong* seems to tear at my heart.)
+
+Author unknown. In "Taedong p'unga" (大東風雅), "tas tŭja" (닷드자) is written as "tal ttŭja" (달뜨자, moon rises), and in "Tongguk chip" (東樊集)'s *I Sŏn Akka* (離船樂歌, Song of the Departing Boat), it says 可奈萬頃蒼波水 鯨濤鰐浪船難行 離愁滿船船更生 渡口月出帆徐懸 (How can one bear the vast blue waters? Amidst whale waves and crocodile waves, the boat struggles to proceed. Parting sorrow fills the boat, yet the boat revives. At the ferry crossing, the moon rises, the sail is slowly hoisted.), and the note says 曲中 有萬頃蒼波去如迴云語 又有月出曲 (In the song, there are the words "on the vast blue waves, going is like returning," and there is also a "moonrise song"). However, these are all corruptions (訛傳). There is no need to make "tal ttŭja" the introductory phrase (虛頭). A boat can depart whether the moon rises or not. Also, "the moon rises, the boat departs" doesn't particularly convey any special charm (韻致). In the *Yŏrha Ilgi* (熱河日記), in the *Makpuk Haengjŏngnok* (漠北行程錄, Record of Travel North of the Desert), there is a *paettara* (排打羅), or boat departure song, which says 碇擧兮船離 此時去兮何時來 萬頃蒼波去似迴 (Anchor raised, boat departs. Leaving now, when will you return? On the vast blue waves, going is like returning). This is a direct translation of "tas tŭja pae ttŏnani ije kamyŏn ŏnje ori." Looking at this, it is clear that "tas tŭja" is indeed correct. "Tat" (닷) is written in Chinese characters as 碇, 掟, 錨, or 鐵錨, and is the device for stopping a boat (anchor). It is raised when the boat is about to depart and lowered when stopping. The anchor has a rope attached, called *tatchul* (닷줄), which is wound up or let down using a device. *Man'gyŏng ch'angp'a* (萬頃蒼波) means the vast, boundless sea. "Kanŭn dŭt tora oso" (가는 듯 돌아오소, may you go swiftly and return) is written in some books as "kanŭn dŭt tanyŏomse" (가는 듯 단여옴세, let's go and come back), but this is also a corruption. If it were like that, it couldn't be this kind of song and would merely be prose in a question-and-answer format. "Pamjungman" (밤중만) means around midnight. "Chigukch'ong sori" (지국총소리), also written as 至匊悤 or 至匊叢, has no meaning in Chinese characters; it is the sound of winding or unwinding the anchor rope. "Ae" (애) means innards, intestines, liver and bowels (肝膓). "Kŭnnŭn dŭt" (긋는 듯) means seems to be cutting or breaking.<262>
+This is a song of parting (離別), bidding farewell at the wharf (埠頭) to someone leaving by water. Even on a smooth land route (坦坦한 陸路), sending someone far away would cause considerable sadness and worry; how much more so when sending them off on the fearsome waterway?
+"Weigh the anchor rope (닷줄). The bow turns, the boat departs; if you leave now, when will you ever return?" This is a prayerful wish: "On that vast, boundless sea (浩浩茫茫한 바다), amidst the whale waves and crocodile waves (鯨濤鰐浪), may you travel safely, and may you return safely right away on the path you took." The translation "去似迴" (going is like returning) in the aforementioned *Man'gyŏng ch'angp'a kusahoe* (萬頃蒼波去似迴) seems a bit incomplete. The particle "dŭt" (듯) in *kanŭn dŭt* (가는 듯) holds a special nuance (妙味). It doesn't mean "like" but is used to mean "quickly, swiftly." Then, after the boat has departed, day after day, day and night, wondering if the boat arrived safely or not, already waiting and waiting to see if the boat isn't returning, around midnight, if a boat arrives and the *chigukch'ong, chigukch'ong* sound of the anchor rope being let down is heard, one rushes to the wharf, only to find it's not that boat. One doesn't know how many nights, how many times one has been deceived like this, but still, whenever the *chigukch'ong* sound is heard, one cannot remain composed (泰然). Truly, because of this *chigukch'ong* sound, it must feel as if one's thousand intestines (일천간장) are being cut piece by piece (마듸마듸).
+Alternatively, this song might seem like a direct recording of the conversation between the sender and the departing person at the time of farewell. Or, viewing the time differently, the lines up to "ije kamyŏn ŏnje ori. man'gyŏng ch'angp'a-e kanŭn dŭt tora oso" record the words spoken when the boat departs, and the following passage "pamjungman chigukch'ong sori-e ae kŭnnŭn dŭt hayŏra" records the scene after the boat's departure. (Continued on page 270)<263>
+The time gap is too large, the connection isn't smooth, and if it were a dialogue, each part would be fragmentary, lacking the tension needed to form a single piece. Indeed, it's not like that, but rather composed using a question-and-answer style (問答法). The language is appropriate, and the meter is beautiful. It's a splendid song that evokes extraordinary feelings using ordinary words. -(Continued)-<270>
+
+**Novel Lecture**
+
+**History of the Development of the Korean Novel**
+
+**Kim T'aejun**
+
+**Author Introduction**
+Mr. Kim was born in North P'yŏngan Province and is 30 years old this year. He graduated from the Literature Department of Keijō Imperial University in Shōwa 6 (1931). He is currently a teacher at Kyŏngsŏng Myŏngnyun Academy (京城明倫學院). He previously authored "History of Korean Novels" (朝鮮小說史), has deep knowledge of Korean classical literature such as Silla *hyangga* (新羅鄕歌), and has published numerous research papers.
+
+**A Single, Rough Factual Report**
+
+"The Land of Eastern Propriety" (東方禮義之處)—this was the pride of the scholars (선비님) of this land. Of course, propriety (禮義) refers to the Confucian ideology (儒敎이데오로기)—a product of Chinese society from thousands of years ago, but it was applied just the same in this land.
+Confucius (孔子), the venerable figure of Confucianism, said, "The novel is a minor way (小道). Because it leads far off and risks getting stuck in the mud (致遠恐泥), the gentleman (君子) does not engage in it." This is the fundamental reason why the scholars of this land came to treat novels with contempt (賤待視). Thus, even enlightened figures of recent times like Yi Sŏngho (李星湖) and Yi Ajŏng (李雅亭) said novels were "not fit to be seen" (不可接目), and Ch'ae Pŏmam (蔡樊岩) even issued an order prohibiting the import of novels. However, while being treated coldly with disdain (白眼) by gentlemen scholars (士君子), novels were still beloved among women and servants who did not understand Classical Chinese.<264>
+In this land, originally lacking letters to transcribe its own speech directly, cultural life proceeded for nearly 2,000 years through the Three Kingdoms and Koryŏ periods without them. Since there were no letters, they naturally borrowed the script of the Chinese people—that is, Chinese characters (漢字)—and invented a writing system called "*idu*" (吏讀) to phonetically transcribe their own words. However, with a script as cumbersome and inconvenient as *idu*, one could record short songs, but writing long novels was not only impossible, but if one were to write in *idu*, it was preferable to express oneself directly in Classical Chinese prose. Thus, we see the emergence of *p'aegwan* literature (裨官文學), the East Asian primitive form of the novel. But that was close to the essay (隨筆). And since it was narrated in Classical Chinese, it is difficult to consider it Korean literature. However, even so, there were no good works during the Three Kingdoms and Koryŏ periods. Even works written in Classical Chinese, such as the masterpieces *Kŭmo Sinhwa* (金驚新話 error, likely 金鰲新話), *Kuunmong* (九雲夢), and *Yŏnam Oejŏn* (燕岩外傳), could only be seen after the invention of the Korean script (조선문자, 한글). However, works like *Kŭmo Sinhwa*, *Kuunmong*, and *Yŏnam Oejŏn*, even if discussed within Chinese literature, would likely be of a much higher standard than the foreign-language writing published in foreign literary circles by the writers of this land today.
+This piece was written suddenly by dredging up old memories at the urgent request of the editor, without consulting any documents. Reader, please forgive this rambling text.
+This manuscript is divided primarily focusing on novels written purely in Han'gŭl.
+
+A decisive factor that powerfully enabled us to possess our own unique literature lies in the creation of Hunminjŏngŭm (訓民正音)—Han'gŭl—by King Sejong of the Yi Dynasty and his subordinate Hall of Worthies (集賢殿) scholars 489 years ago. However, due to the intellectuals of the time—knowledge was the exclusive possession of a special class with money and leisure—who were intoxicated with Classical Chinese, it could not achieve full development. Yet, as seen in the examples of Kim Manjung (金萬重) and Sin Hudam (愼後聃), there were those who "composed novels in the vernacular script (諺文)" for the consolation of their benevolent mothers,<265> or more commonly, they were the playful writings (戱筆) of unfortunate scholars (書生). Particularly, we cannot overlook the fact that a large number were crudely mass-produced (粗製濫造) through translation and imitation from base ancient Chinese unofficial histories (野史) to meet the demand from the royal court, serving as a pastime (消閑의 具) for queens and court ladies (宮女). These are what are known as "tale books" (니약이 책) or "*chŏn'gi*" (傳記, biographies/tales). Their form was generally fixed in a monotonous pattern (千篇一律): "During the Chenghua era (成化年間) of the Great Ming (大明), in the land of Nanjing (南京), there was a prime minister whose surname was X and given name was X. He had no offspring under his knee... gave birth to a jade-like boy... had 3 sons and 1 daughter and enjoyed wealth, honor, and glory (富貴榮華), it is said." This is an extremely naive narrative form (叙事的叙述形式). A significant influence here was the import of Ming and Qing novels; *Sanguo Yanyi* (三國衍義), *Shuihu Zhuan* (水滸傳), *Jiandeng Xinhua* (剪燈新話), *Xiyouji* (西遊記), *Jingu Qiguan* (今古奇觀), etc., were most avidly read. The protagonists of military tales (軍談類) often drew material from *Taiping Guangji* (太平廣記) and *Shishuo Xinyu* (世說新語), which had been read since the Koryŏ period. The fact that most military tales set their stage in China stemmed either from the Sinophilia (慕華心) of the Korean aristocracy or from a yearning for exotic atmosphere (異國的情調). Losing the place of feudal literature, whether in the East or West, involved records boasting of the military prowess (武勇) of feudal warriors or tales of loyalty (忠義譚) involving service to an absolute individual. Works that broke away from this fixed format hold greater value for later appreciation. A major reason why *Hong Kiltong Chŏn* (洪吉童傳), *Kuunmong* (九雲夢), *Ch'unhyang Chŏn* (春香傳), *Sim Ch'ŏng Chŏn* (沈淸傳), *Changhwa Hongnyŏn Chŏn* (薔花紅蓮傳), *Hŭngbu Nolbu Chŏn* (興夫놀부전), etc., are much more beloved than *So Taesŏng Chŏn* (蘇大成傳), *Chang P'ungun Chŏn* (張豊雲傳), *Wang Changgun Chŏn* (王將軍傳), *Hwang Changgun Chŏn* (黃將軍傳) might lie in the structure of their narratives rather than just being general true stories (一般實談).
+
+*Hong Kiltong Chŏn* was written by Hŏ Kyun (許筠), whom all Confucian scholars (儒冠) during King Kwanghae's reign mocked as a "monster" (怪物). It was modeled on the "Pak Ŭngsŏ Incident" (朴應犀獄事件), where illegitimate sons (庶孼) like Pak Ŭngsŏ (朴應犀) and Sŏ Yanggap (徐羊甲) gathered by the Soyang River (昭陽江) and plotted social action.<266> *Kuunmong*, depicting the life of a Chinese aristocrat with one husband and eight wives, along with *Sas*si Namjŏnggi* (南征記), was authored by Sŏp'o Kim Manjung (西浦金萬重), as written in the *Pukhŏn Chapsŏl* (北軒雜說) by his collateral grandson Kim Ch'unt'aek (金春澤).
+Also, many novels were based on folktales (童話) and legends (傳說) like those of Sim Ch'ŏng (沈淸), Nolbu's gourd (놀부쨍기), and the golden calf (金송아지), elaborating them into novels and incorporating elements like stepmother revenge (繼母復讐) and other aspects of real social life. These, along with other romance tales (艶情類), developed even into the form of narrative singing (*ch'anggŭk*, 唱劇調).
+Among romance novels (艶情小說), *Ch'unhyang* (春香), *Oktan Ch'un* (玉丹春), *Sugyŏng* (淑英), *Paek Hak Sŏn* (白鶴仙), *Ch'uk Yŏngt'ae* (祝英臺), etc., were the best. It was a perfectly natural trend (趨勢) that *Ch'unhyang Chŏn*, which possessed more social class significance (社會階級的意義) than mere tales of chance encounters between talented men and beautiful women (才子佳人의 奇遇), became the most beloved. The peasant uprising (農民一揆) and the resistance against Magistrate Pyŏn (卞府使) appearing in *Ch'unhyang Chŏn* were general demands of the newly emerging class (新興層인 擡頭的新興階級).
+
+However, it was the predecessors from 30-40 years ago, Messrs. Yi Injik (李人植) and Yi Haejo (李海朝), who liberated the novel from the kitchen (廚房) and truly introduced it as reading material for modern youth (現代靑年).
+It was Kukch'o Yi Injik (菊初李人植) who wrote novels in a colloquial, unified spoken-written style (言文一致體) using Han'gŭl.
+He adapted works like *Sŏlchungmae* (雪中梅), *Ŭnsegye* (銀世界), and the Kim Okkyun incident (金玉均事件), attempting theatrical performances at Wŏn'gaksa Temple (圓覺寺) together with Ilchae Cho Chunghwan (一齋趙重桓), while also writing novels such as *Kwiŭi Sŏng* (鬼의 聲, Voice of the Ghost), *Ch'iaksan* (雉岳山), and *Hyŏrŭi Nu* (血의 淚, Tears of Blood). He completely reformed the past novel format, of course. Those engaged in creative work with steady effort at the time were Messrs. Yi Haejo (李海朝), Ch'oe Ch'ansik (崔讚植), and Kim Kyoje (金敎濟). In translation, there were Messrs. Yi Sanghyŏp (李相協) and Min T'aewŏn (閔泰瑗).
+Thus, chronologically succeeding Messrs. Yi Injik, Yi Haejo, and Ch'oe Ch'ansik, those engaged in the New Literature Movement included Ch'unwŏn Yi Kwangsu (春園李光洙) as the leader, along with Messrs. Hyŏn Sangyun (玄相允) and Chu Sunsŭng (奏瞬昇 error, likely Chu Yohan 주요한 or Chu Yosŏp 주요섭 is intended, though 奏瞬昇 appears in the original text). They formed the writing team for "Sonyŏn" (少年), "Aidŭlboi" (이이들보이),<267> and "Ch'ŏngch'un" (靑春), managed by Ch'oe Namsŏn (崔南善).
+And so, after witnessing the trend of "New Novels" (新小說)—a type of novel different from the old tale books (니야기책)—we finally came to see "novels" (小說) worthy of the name in the modern sense.
+Remarkable activity was seen by those who had studied in Japan proper (日本內地) and returned. They were individuals who had considerably absorbed existing literature and engaged in creative work with literary nourishment absorbed from contemporary European, American, and Japanese literature. The efforts of key figures like Kim Tongin (金東仁), Yŏm Sangsŏp (廉相涉), Hyŏn Pinghŏ (玄憑虛 error, likely Hyŏn Chin'gŏn 현진건 is meant, though 玄憑虛 appears), Pang In'gŭn (方仁根), and Na Pin (羅彬 error, likely Na Tohyang 나도향 or Na Kyŏngsŏk 나경석 is meant) belong to this period. At that time, besides the Taehan Maeil Sinbo (大X每日申報, likely 대한매일신보), there were the three newspapers—Tonga (東亞), Chosŏn (朝鮮), Sidae (時代), and "Today's Chungang" (오늘의 中央, likely referring to the Chungang Ilbo 중앙일보)—and magazines sprouting like mushrooms after rain (雨後竹筍).
+
+However, we cannot fail to mention here the existence of the novelist Ch'unwŏn Yi Kwangsu (春園李光洙), who came after Yi Injik and Yi Haejo, bridged the gap to these later writers, and gave the feeling of freely moving back and forth (從往橫來).
+Ch'unwŏn's work "To a Young Friend - Young Dream" (어린벗에게-젊은 꿈) is said to be the first Korean work influenced by Western literature (according to Kim Tongin's study of Ch'unwŏn). Not only in its brilliant colloquial beautiful prose (口語體의 美文), but also its themes were more progressive. He consecutively published works like "A Boy's Sorrow" (少年의 悲哀) and "Yun Kwangho" (尹光浩), but above all, the work that made Ch'unwŏn famous must be "Mujŏng" (無情, The Heartless), published in the Maeil Sinbo (每日申報).
+Taking transitional figures like Elder Kim (金長老), the English teacher Yi Hyŏngsik (리형식), and the elder's daughter Sŏnhyŏng (선형), he wrote Korea's first truly long novel.
+From an actively individualistic standpoint, he resisted old ideas and advocated free love (自由戀愛). He subsequently wrote "The Pioneer" (開拓者), "Rebirth" (再生), etc.<268>
+Resistance against feudalistic patriarchal authority (家長權) is visible. He fulfilled a progressive role by expressing, albeit one-sidedly, the awakened individualistic ideology (個人主義的思潮) of the time. Mr. Yi later wrote historical novels such as "Prince Maui" (麻衣太子), "Yi Sunsin" (李舜臣), and "The Sad History of King Tanjong" (端宗哀史). However, in these, one cannot see the vibrant civic sensibility (市民的感嘆) or historical progressiveness (歷史的進步性) of his earlier work; instead, bound by a narrow subjective perspective (小主觀), he determines good and evil based on concepts of loyalty and filial piety (忠孝觀念), further mystifying and heroizing them, thereby depicting his own fantasies (自家의 幻想). He is currently writing "The Death of Ich'adon" (異次頓의 死).
+
+Following Ch'unwŏn, Messrs. Kim Tongin (金東仁), Yŏm Sangsŏp (廉想涉), Ch'oe Sŏhae (崔曙海), and Cho Myŏnghŭi (趙明熙) arose. Some critics summarily dismiss this as the Chaotic Searching Period (混沌模索時代), while others call it the Post-War Flowering Period of Korean Literature (朝鮮文學의 戰後的開花期)—a transitional period from Naturalism to Romanticism. Those who call it the Chaotic Searching Period argue that the various ideological tendencies of the time—Nihilism (虛無主義), Romanticism (浪漫主義), Aestheticism (唯美主義), Satanism (惡魔主義), Naturalism (自然主義), etc.—covered Korean literature like a polluted lake, making it questionable whether even a single coherent school (主義) was formed. Those who see it as a transition from Naturalism to Romanticism view it as inheriting or extending the fundamental weakness running through Ch'unwŏn's literature—the one-sidedness of reality recognition and grasp (現實認識 及 把握의 일면성). They see it as showing a marked change in the appearance and content of Korean people's historical life centered around the March First Movement (己未年) as a watershed, and argue that even if social class differentiation (社會的階級分化) had not yet shown fundamental opposition, it could be encompassed under the unified concept of what we might call the National Literature Period (民族文學時代).
+
+However, although the "diverse tendencies of the Romantic fin-de-siècle" (浪漫的世紀末의 雜多한 傾向) seemed to present chaos and searching on the surface, and while the bleak reality after the March First Movement constrained the full artistic development of Naturalist literature, excellent works were produced, such as Mr. Yŏm Sangsŏp's<269> full-length novel "Before the Manse Cheers" (*Manse Chŏn*, 萬歲前), short stories "Green Frog in the Specimen Room" (標本室의 靑개고리), "New Year's Eve" (除夜), etc., Mr. Kim Tongin's short stories "Flogging" (笞刑), "Sorrow of the Weak" (弱한 者의 슲음), and Mr. Hyŏn Pinghŏ's (玄憑虛 error) "Grandmother's Death" (할머니 죽엄). Although the objective conditions and economic background of this land obstructed the natural path of art, it can be seen that we reached, albeit faintly, the flourishing period of bourgeois literature (부르문학의 興隆期) dealing with feelings of disillusionment (幻滅). This flourishing period became extremely sentimental and fantastical, leading towards formalism (形式主義) and art-for-art's-sake (藝術至上主義).
+
+Thus, this declining phase of Naturalism could also be seen as the flowering period of Romantic literature. It reached its perfect model (好個의 典型) in Mr. To Hyang, Na Pin's (稻香羅彬 error, likely Na Tohyang 나도향 is meant, though 稻香羅彬 appears) full-length novel "Fantasy Game" (*Hwanhŭi*, 幻戱) and short stories "Yesterday's Dream Was Pale" (옛날의 꿈은 蒼白하더이다), "If You Don't Know the Stars, Don't Cry" (별을 안거든 우지나 말걸), etc. Art-for-art's-sake literature, completely detached from reality, like the whistle of an empty wanderer (空虛한 浪人), was itself like a nebula in a world of fantasy. It was already prone to becoming listless (無氣力) and escapist (逃避的), like the *hansi* poets (漢詩客) of old who idly recited poems about rivers, mountains, wind, and moon (江山風月). Reality under the banner of Cultural Rule (文化政治) had changed shockingly and tremendously.
+Consequently, popular organizations (민중단체) arose everywhere, and among them, Im Sŭngjae's (任昇宰) article "A Message to All Men of Letters" (文士諸君에 告함) was a huge bombshell (爆彈) and alarm bell (警鍾) for the writers intoxicated by the Romantic fragrance (浪漫的薰香). (Continued in the next issue)<270>
+
+**Overseas Literary Giants Lecture**
+
+**Romain Rolland's Art and Life**
+
+**Yi Hŏn'gu**
+
+**Author Introduction**
+Mr. Yi Hŏn'gu was born in Myŏngch'ŏn, North Hamgyŏng Province, and is 31 years old this year. He previously finished Kyŏngsŏng Posŏng High School, went to Tokyo, and graduated from the French Literature Department of Waseda University. After returning, he is currently employed at the Communications Bureau (遞信局) and is a member of the Theater Arts Research Society (劇藝術硏究會). Not only does he have profound research in French literature, but he is also a literary critic who has published numerous research papers.
+
+"Romain Rolland" was born in Nièvre department in central France on January 29, 1866 (Sunday). He was born in the small village of Clamecy, but he inherited a considerable amount of passionate revolutionary spirit from his great-grandfather, who fought fervently during the French Revolution. On the other hand, his mother was a truly devout Catholic believer, while his father held the ordinary profession of a notary (公證人).
+He was naturally nervous and precocious. His blue eyes (碧眼), evoking images of a blue lake, concealed the mysterious phantoms of infinite yearning (憧憬) and fantasy (空想). Therefore, the school education intended by his parents to make him successful in the field of science and engineering could not help but conflict with his spirit. That is, music, which he believed was "as indispensable to life as bread (팡)," and this scientific world were too far apart. He was immersed in the intense dream world of faith and legend and the infinite charm of music. The childhood of "Jean-Christophe" is largely a self-portrait of the author. He was intoxicated by the music of "Beethoven," "Mozart," and "Wagner." His nervous disposition, prone to fainting (기절) over small matters, found supreme solace (法說) and stability only in this music.<271> And his reading inclined him towards Shakespeare's (沙翁) plays (戱曲).
+A new life unfolded before him. He moved to Paris (巴里). This talented 17-year-old boy, thanks to the sacrificial efforts of his parents, left the hometown where he had lived permanently and began attending Lycée Louis-le-Grand (르-이中學) to prepare for entrance to the École Normale Supérieure (師範學校).
+Here, he gained several friends who would shoulder the future of French literature and thought. Today's famous poet "Paul Claudel" (포올·골로델), the sole authority on French literary trends Professor "Strowski" (스토로스키), and the pure-hearted poet "André Suarès" (아드레, 슈아려스) were all classmates. However, around 1886, when he chose geography and history at the École Normale, he suffered great anguish fueled by pure ideals. That is, he harbored a kind of disillusionment and anxiety towards Naturalism, led by "Zola" (졸라) at the time, and could not muster great interest in the rise of Symbolism (象微主義) either. His innate strong faith and passion yearned for some ideal, heroic, great flash of light, and he sobbed and agonized (鳴咽懊惱) in the darkness. Just then, Russian literature, including "Tolstoy" (톨스토이) and "Dostoevsky" (도스토이엡스키), surged through the translations of "Vogüé" (보규에). Among Tolstoy's works, "War and Peace" (戰爭과 平和), "Anna Karenina" (안나, 카려니나), and several others were translated. He felt an infinite attachment to such works.
+There, he discovered the revelation of a great life, or the life of the masses (民衆生活), and the essence of a new art. For him, until then engrossed in music and Shakespeare, a new real world of human life unfolded. Amidst this, in 1887, Tolstoy's "What Is to Be Done?" (우리는 무엇을 해여야 하느냐?) was translated and published. Reading this book brought him a new, great doubt (懷疑) and desperate gloom (絶望的暗澹). That is, Tolstoy fiercely refuted (痛烈한 反駁) modern art, including Shakespeare,<272> and denied the value of modern art. For "Rolland," music, which he considered like daily bread (팡), was defined as "entertainment that leads humans to neglect their duties." Beethoven and Wagner, whom he revered day and night, were denounced as confusing the senses, disturbing beliefs (信念을 攪亂), immoral (背德的), and causing the loss of mutual human harmony (人類相互의 融和). Seeing this, "Rolland's" ideals and beliefs up to that point were suddenly cast into a dark abyss (暗黒의 深淵), and he could only collapse, holding the lifeless husk (形骸) of his destroyed and disrupted spirit. Days of anguish (煩腦) and torment (苦憫) continued for him. From this abyss of despair, he searched and groped for a new single ray of light (光明).
+He finally made up his mind. This unknown foreign youth wrote a letter to the great writer Tolstoy (杜翁), who then dominated the world stage. Of course, he did not expect a reply. But unexpectedly, on October 4, 1887, an astonishingly long letter of 38 pages found its way to this pale-faced youth. (Rolland made this letter public 15 years later, in 1902.) The letter began with the salutation "My dear friend!" (!나는 君의 편지를 밧고 심히 감동되엿다. 나는 눈물노써 글을 닑엇다!) "Art that unites humanity is the only art of value. Valuable art is that for which the artist must sacrifice themselves for their convictions. The prerequisite for all true work is love for humanity before love for art. Only those filled with such love are suitable talents for any meaningful work an artist should undertake!" These words decisively influenced "Rolland's" view of art. As he stated in the preface when he later wrote "The Life of Tolstoy" (톨스토이傳), the vivid lesson of how much he was influenced by Tolstoy<273> can be fully understood.
+After finishing the École Normale in 1889, he went to study abroad in Rome (羅馬). Since he had previously known Rome as a city of already dead art, he did not hold such great yearning for it. However, the two years he spent in Rome were significant in his life; if he received teachings like a master (師父) from Tolstoy, then Mrs. "Malwida" von Meysenbug (마르비다 夫人), whom he met in Rome, was his elderly female mentor (師母).
+This lady was born into a German aristocratic family but held fervent enthusiasm (熾意) for the revolutionary movement. Exiled (亡命), she had friendships with numerous international exiles (國際的諸亡命客) in London (倫敦). When Rolland met her, she was already 72 years old. Meanwhile, the lady was also a lover of art (藝術의 愛慕家) and was close (親爻) to various literary figures staying in Rome at the time, such as "Ibsen" (입센). He visited the grave of the sacred musician "Wagner" (와그너-), who died in Venice (뻬녀칫스), with this old lady. During these two years of study abroad, "Rolland's" musical education (音樂的敎養) became engrossed again in the study of Italian opera (伊太利의 歌劇硏究). At the same time, his historical and artistic inclination towards the heroic achievements (英雄的業蹟) of Italy's various master painters (諸畵聖) eventually led him to later write "The Life of Michelangelo" (미켈안젤로傳).
+Returning from Rome, he married in 1892 and studied abroad again in Rome in 1893. Returning once more to Paris, in 1895 (at age 29), he submitted two major theses, "The Origins of Modern Lyric Drama" (近代抒情劇의 起源) and "History of Opera Before Lully and Scarlatti" (룰리及스칼라티 以前의 歌劇史), to the Sorbonne University (소르본느大學), obtaining a doctorate in literature (文學博士). Subsequently, he took charge of lectures on music history at the École Normale Supérieure. During his time teaching at the École Normale, his friendship with "Charles Péguy" (솨알, 페기-), a future famous poet and fervent admirer (狂熱的崇拜者) of "Joan of Arc" (쟈안다-크), is a famous fact in "Rolland's" biography.
+Furthermore, when the famous "Dreyfus Affair" (드레푸스事件) caused French intellectual circles, politics, and general public opinion to split into two major opposing sides, centered around contemporary prestigious writers like "Émile Zola" (에밀, 졸라) and "Anatole France" (아나톨, 프랑스),<274> the fact that "Rolland," along with "Zola" and others, was a fervent fighter (一鬪士) in the Dreyfus support movement is also something everyone knows. Due to space constraints, a detailed report of the facts is omitted, but while he participated in such practical actions (實踐行動) from a humanitarian standpoint (人道主義的立場), around this time, he began writing plays (劇作). Although he had attempted 2 or 3 plays during his studies in Rome, the completion of "The Wolves" (羣狼) in 1898 was precisely the result of the passion for human love (人類愛的情熱) and the ideas that had swelled in his entire spirit since the Dreyfus affair. The emotion and passion from his childhood readings of his great-grandfather's manuscripts, "Diary of the Revolutionary Era" (革命時代日記), who had participated in the French Revolution, finally flared up in his heart (心胸). Thus, he followed with two more plays, "The Fourteenth of July" (七月十四日) and "Danton" (단통), combining them under the collective title "Revolutionary Plays" (革命劇).
+He felt extreme disgust (憎惡) towards all the decadent (頹廢) intellectual and literary circles of France at the time. That is, against bourgeois decadence (보르로아지-리데카다니즘), he intended to sweep away the chaotic, deformed anarchist state (畸形的無政府狀態) of society through the creation of new art. To purify the corrupt contemporary literature, especially theater—which was about pleasure (享樂), lewdness (淫佚), and peripheral nerve excitement (末稍神經的興奮)—he advocated for a new theater movement "for the people and by the people" (民衆을 위하야 또는 民衆에 의하야), not just for a segment of the leisured class (有閑階級), but truly as the central movement of society. He wrote "The People's Theater" (民衆劇論) and "Rolland" himself directly participated in this people's theater movement, constructing people's theaters in areas where large crowds could gather. This movement was planned from the end of the 19th century, and in November 1899, a design competition for a popular theater (平民劇場) was held. By 1903, two large people's theaters were established. The government attempted appeasement (懷柔) once or twice regarding this movement, and in opposition, the government proceeded with plans for state-established people's theaters,<275> eventually preventing the movement from achieving complete, continuous success.
+Having failed in this practical movement, "Rolland" quit his music lectures at the Sorbonne University mid-way, retired entirely from art education and art movements, and returned purely to the life of a writer. After divorcing his wife from his unpeaceful home life, he continued a poor existence with his sister Madeleine, his sole spiritual companion (精神的伴侶者), starting a truly tearful writing life (文筆生活) without any particular reward or favorable treatment (報酬와 優待) socially or from the literary world. He provided all his manuscripts for publication in the literary magazine "Cahiers de la Quinzaine" (카이에르·드·라·캉제-느) (bi-monthly), founded by his beloved disciple Charles Péguy, whose name was mentioned earlier.
+Not only "Rolland's" three great biographies—"Beethoven," "Michelangelo," "Tolstoy"—but also "Jean-Christophe," one of the world's three great epic novels, was serialized in this magazine for 10 years, from 1904 to 1913.
+However, society maintained a very cold attitude towards such dedicated efforts. Often, great souls (偉大한 靈魂) are not praised popularly for their brilliance (光鋩). Amidst this absolute arduous struggle (刻苦奮鬪), the confused world situation reached the eve of the Great European War, heralding its crisis.
+In 1914, the French Academy (佛蘭西翰林院) suddenly awarded "Rolland's" "Jean-Christophe" the Academy Prize (아카데미상), and subsequently, in the same year, he received the world's highest literary award, the Nobel Prize (노-벨賞). For "Rolland," 1914 was truly a year to be blessed. However, the general trend finally led to the planting of terrifying cannon fire (砲火) and the gore (血腥) of slaughter (殺戮).<276>
+"Rolland," who inherited Tolstoy's humanitarian spirit (人類的精神), vehemently advocated anti-war (反戰). Exiled abroad to Switzerland (瑞西), he published fiery articles titled "Above the Battle" (戰亂을 超越하야) in Swiss newspapers, seeking comrades who resonated with this spirit. He sought fervent agreement from Hauptmann (하우푸트만), who held similar ideas, and urged the socialist poet Verhaeren (벨하-령), but failed to find companions fully satisfactory to his cause.
+From the World War, he came to hold extreme skepticism (懷疑) towards scientific civilization (科學文明). He finally immersed himself in Eastern thought—Indian philosophy (印度哲學)—and came to admire "Gandhi" (간듸). Thus, he even came to write "Mahatma Gandhi" (간듸-傳). However, he possessed a blood-earnest sincerity (血誠) dedicating his entire life to the creation of a new human history. Even if his thought lacked practicality (實踐性), it more than suffices to deeply move true human society. In 1931, after 20 years of exile (追放), he wrote "Farewell to the Past" (過去와의 訣別), declaring a new creativity regarding his ideological standpoint up to that point, followed by "Fifteen Years of Struggle" (苦鬪十五年), vividly portraying the full picture of his human anguish.
+By Korean reckoning, he is 70 years old this year. Despite this, his fighting spirit (鬪志) for the realization of humanity's ideals is only becoming fiercer (熾烈). The life of the great man of the 20th century, the true hero—"Romain Rolland"—still promises us a new dawn (曙光).
+Nov. 5
+
+(Postscript) This piece ends up merely introducing his life very crudely. I intend to publish about his ideological background or his art at a later date.<277>
+
+**Summary**
+
+This collection of four short lectures from *Samch'ŏlli* magazine in December 1935 covers Korean poetry, sijo, the Korean novel, and the French writer Romain Rolland. Pak P'aryang traces the "New Poetry" movement from Ch'oe Namsŏn's 1907 free verse. Yi Pyŏnggi discusses appreciating traditional sijo by understanding its historical context and provides an analysis of a parting song. Kim T'aejun outlines the history of the Korean novel from its Hanmun and Han'gŭl roots, through traditional tales and "New Novels," to modern writers like Yi Kwangsu and Kim Tongin, noting the influence of social change and foreign literature. Yi Hŏn'gu presents a biography of Romain Rolland, highlighting his artistic development, influences (especially Tolstoy), humanitarianism, anti-war stance, and eventual interest in figures like Gandhi.
+
+From a colonial history perspective, the articles are revealing. Kim T'aejun's piece openly discusses the class basis of literary access ("knowledge was the exclusive possession of a special class"), the impact of Han'gŭl, the influence of Chinese and later Western/Japanese literature, and connects literary developments like *Ch'unhyang Chŏn*'s popularity and the rise of naturalist/romantic authors to social changes and emerging class consciousness (mentioning the March First Movement implicitly via "己未年" and peasant resistance). Pak P'aryang's dating of "New Poetry" highlights the relatively recent shift from traditional forms. Yi Pyŏnggi emphasizes reconnecting with Korea's pre-modern literary past. Yi Hŏn'gu's focus on Rolland's humanitarianism, anti-war activism, and interest in non-Western figures like Gandhi might resonate with intellectuals seeking moral frameworks beyond colonial or purely Western models. Historians might find the explicit discussion of class, the acknowledgment of foreign literary influence alongside attempts to define a unique Korean literary history, and the implicit engagement with contemporary social/political issues (like Rolland's anti-war stance) particularly interesting within the context of late 1930s colonial Korea.
+
+**Named Entities**
+
+京畿水原	경기도 수원	Kyŏnggi Suwŏn
+培材高普	배재고보	Paejae Kobo
+京城法學專門學校	경성법학전문학교	Kyŏngsŏng Pŏphak Chŏnmun Hakkyo
+朝鮮日報	조선일보	Chosun Ilbo
+中央日報	중앙일보	Chungang Ilbo
+金麗水	김려수	Kimnyŏsu
+朝鮮	조선	Chosŏn
+少年	소년	Sonyŏn
+明治	명치	Meiji
+隆熙	융희	Yunghŭi
+公六	공륙	Kongyuk
+六堂 崔南善	육당 최남선	Yuktang Ch'oe Namsŏn
+光武	광무	Kwangmu
+西歷	서력	Sŏryŏk
+世宗大王	세종대왕	King Sejong the Great
+訓民正音	훈민정음	Hunminjŏngŭm
+忠淸道	충청도	Ch'ungch'ŏng Province
+徽文高普校	휘문고보교	Hwimun Kobo Kyo
+가람	가람	Karam
+朝鮮語學會	조선어학회	Chosŏnŏ Hakhoe
+高麗	고려	Koryŏ
+李朝	이조	Yi Cho
+孔孟程朱	공맹정주	Kong Maeng Chŏng Chu
+漢文	한문	Hanmun
+石窟庵	석굴암	Sŏkkuram
+多寶塔	다보탑	Tabot'ap
+奉德寺鍾	봉덕사종	Pongdŏksa Chong
+龍飛御天歌	용비어천가	Yongbiŏch'ŏn'ga
+月印千江之曲	월인천강지곡	Wŏrin ch'ŏn'gang chi kok
+佛經七書諺解	불경칠서언해	Pulgyŏng ch'ilsŏ ŏnhae
+杜詩諺解	두시언해	Tusi ŏnhae
+大東風雅	대동풍아	Taedong P'unga
+東樊集	동번집	Tongbŏn Chip
+熱河日記	열하일기	Yŏrha Ilgi
+漠北行程錄	막북행정록	Makpuk Haengjŏngnok
+平北	평북	P'yŏngbuk
+昭和	소화	Shōwa
+京城帝國大學	경성제국대학	Keijō Teikoku Daigaku
+京城明倫學院	경성명륜학원	Kyŏngsŏng Myŏngnyun Hagwŏn
+新羅鄕歌	신라향가	Silla Hyangga
+中國	중국	Chungguk
+李星湖	이성호	Yi Sŏngho
+李雅亭	이아정	Yi Ajŏng
+蔡樊岩	채번암	Ch'ae Pŏmam
+金驚新話	금오신화	Kŭmo Sinhwa
+九雲夢	구운몽	Kuunmong
+燕岩外傳	연암외전	Yŏnam Oejŏn
+李朝	이조	Yi Cho
+集賢殿	집현전	Chiphyŏnjŏn
+金萬重	김만중	Kim Manjung
+愼後聃	신후담	Sin Hudam
+大明	대명	Taemyŏng
+南京	남경	Nanjing
+三國衍義	삼국연의	Samguk Yŏnŭi
+水滸傳	수호전	Suhyojŏn
+剪燈新話	전등신화	Chŏndŭng Sinhwa
+西遊記	서유기	Sŏyugi
+今古奇觀	금고기관	Kŭmgo Kigwan
+太平廣記	태평광기	T'aep'yŏng Kwanggi
+世說新語	세설신어	Sesŏl Sinŏ
+洪吉童傳	홍길동전	Hong Kiltong Chŏn
+春香傳	춘향전	Ch'unhyang Chŏn
+沈淸傳	심청전	Sim Ch'ŏng Chŏn
+薔花紅蓮傳	장화홍련전	Changhwa Hongnyŏn Chŏn
+興夫놀부전	흥부놀부전	Hŭngbu Nolbu Chŏn
+蘇大成	소대성	So Taesŏng
+張豊雲	장풍운	Chang P'ungun
+王將軍	왕장군	Wang Changgun
+黃將軍	황장군	Hwang Changgun
+光海	광해	Kwanghae
+許筠	허균	Hŏ Kyun
+朴應犀	박응서	Pak Ŭngsŏ
+徐羊甲	서양갑	Sŏ Yanggap
+昭陽江	소양강	Soyang River
+南征記	남정기	Namjŏnggi
+西浦	서포	Sŏp'o
+金春澤	김춘택	Kim Ch'unt'aek
+北軒雜說	북헌잡설	Pukhŏn Chapsŏl
+沈淸	심청	Sim Ch'ŏng
+놀부쨍기	놀부쟁기	Nolbu Chaenggi
+金송아지	금송아지	Kŭm Songaji
+春香	춘향	Ch'unhyang
+玉丹春	옥단춘	Oktan Ch'un
+淑英	숙영	Sugyŏng
+白鶴仙	백학선	Paek Hak Sŏn
+祝英臺	축영대	Ch'uk Yŏngt'ae
+卞府使	변부사	Pyŏn Pusa
+李人植	이인식	Yi Injik
+李海朝	이해조	Yi Haejo
+菊初	국초	Kukch'o
+雪中梅	설중매	Sŏlchungmae
+銀世界	은세계	Ŭnsegye
+金玉均	김옥균	Kim Okkyun
+一齋	일재	Ilchae
+趙重桓	조중환	Cho Chunghwan
+圓覺寺	원각사	Wŏn'gaksa
+鬼의 聲	귀의 성	Kwiŭi Sŏng
+雉岳山	치악산	Ch'iaksan
+血의 淚	혈의 루	Hyŏrŭi Nu
+崔讚植	최찬식	Ch'oe Ch'ansik
+金敎濟	김교제	Kim Kyoje
+李相協	이상협	Yi Sanghyŏp
+閔泰瑗	민태원	Min T'aewŏn
+春園	춘원	Ch'unwŏn
+李光洙	이광수	Yi Kwangsu
+玄相允	현상윤	Hyŏn Sangyun
+奏瞬昇	주순승	Chu Sunsŭng
+이이들보이	이이들보이	Aidŭlboi
+靑春	청춘	Ch'ŏngch'un
+日本內地	일본내지	Ilbon Naeji
+金東仁	김동인	Kim Tongin
+廉相涉	염상섭	Yŏm Sangsŏp
+玄憑虛	현빙허	Hyŏn Pinghŏ
+方仁根	방인근	Pang In'gŭn
+羅彬	나빈	Na Pin
+大X每日申報	대한매일신보	Taehan Maeil Sinbo
+東亞	동아	Tonga
+朝鮮	조선	Chosŏn
+時代	시대	Sidae
+오늘의 中央	오늘의 중앙	Onŭrŭi Chungang
+每日申報	매일신보	Maeil Sinbo
+尹光浩	윤광호	Yun Kwangho
+麻衣太子	마의태자	Prince Maui
+李舜臣	이순신	Yi Sunsin
+端宗哀史	단종애사	Tanjong Aesa
+異次頓	이차돈	Ich'adon
+崔曙海	최서해	Ch'oe Sŏhae
+趙明熙	조명희	Cho Myŏnghŭi
+己未年	기미년	Kiminyŏn
+萬歲前	만세전	Manse Chŏn
+標本室의 靑개고리	표본실의 청개구리	P'yobonsirŭi Ch'ŏnggaeguri
+除夜	제야	Cheya
+笞刑	태형	T'aehyŏng
+弱한 者의 슲음	약한 자의 슬픔	Yakhan Chaŭi Sŭlp'ŭm
+할머니 죽엄	할머니 죽음	Halmŏni Chugŏm
+稻香羅彬	도향나빈	Tohyang Nabin
+幻戱	환희	Hwanhŭi
+任昇宰	임승재	Im Sŭngjae
+咸北明川	함북명천	Hambuk Myŏngch'ŏn
+京城普成高普	경성보성고보	Kyŏngsŏng Posŏng Kobo
+東京	동경	Tōkyō
+早稻田大學	조도전대학	Waseda Daigaku
+遞信局	체신국	Ch'esinkuk
+劇藝術硏究會	극예술연구회	Kŭgyesul Yŏn'guhoe
+佛蘭西	불란서	Pullanseo
+로맹·롤랑	로맹 롤랑	Romain Rolland
+니에-브르	니에브르	Nièvre
+카람시-	클람시	Clamecy
+팡	팡	Pain
+벼-토벤	베토벤	Beethoven
+모찰트	모차르트	Mozart
+왁네-르	바그너	Wagner
+쟝크리스토프	장 크리스토프	Jean-Christophe
+沙翁	사옹	Sa Ong
+巴里	파리	Pari
+르-이中學	루이중학	Lycée Louis-le-Grand
+師範學校	사범학교	Sabŏm Hakkyo
+포올·골로델	폴 클로델	Paul Claudel
+스토로스키	스트로프스키	Strowski
+아드레, 슈아려스	앙드레 쉬아레스	André Suarès
+졸라	졸라	Zola
+보규에	보귀에	Vogüé
+톨스토이	톨스토이	Tolstoy
+도스토이엡스키	도스토옙스키	Dostoevsky
+露西亞	노서아	Nosŏa
+戰爭과 平和	전쟁과 평화	Chŏnjaenggwa P'yŏnghwa
+안나, 카려니나	안나 카레니나	Anna Karenina
+杜翁	두옹	Tu Ong
+羅馬	나마	Roma
+마르비다 夫人	마르비다 부인	Malwida von Meysenbug
+獨逸	독일	Togil
+倫敦	윤돈	Yundon
+입센	입센	Ibsen
+뻬녀칫스	베네치아	Penech'issŭ
+伊太利	이태리	It'aeri
+미켈안젤로傳	미켈란젤로전	Mik'elanjello Chŏn
+소르본느大學	소르본대학	Sorbonne Da hak
+룰리	룰리	Lully
+스칼라티	스칼라티	Scarlatti
+쟈안다-크	잔 다르크	Joan of Arc
+솨알, 페기-	샤를 페기	Charles Péguy
+드레푸스事件	드레퓌스 사건	Dreypyusŭ Sagŏn
+에밀, 졸라	에밀 졸라	Émile Zola
+아나톨, 프랑스	아나톨 프랑스	Anatole France
+羣狼	군랑	Kullang
+七月十四日	칠월십사일	Ch'irwŏlsipsail
+단통	단통	Danton
+카이에르·드·라·캉제-느	카이에 드 라 캥젠	Cahiers de la Quinzaine
+佛蘭西翰林院	불란서한림원	Pullanseo Hallimwŏn
+노-벨賞	노벨상	Nobel Syŏng
+歐洲大戰	구주대전	Kuju Taejŏn
+瑞西	서서	Sŏsŏ
+戰亂을 超越하야	전란을 초월하여	Chŏnnanŭl Ch'owŏrhaya
+하우푸트만	하우프트만	Hauptmann
+벨하-령	베르하렌	Verhaeren
+印度哲學	인도철학	Indo Ch'ŏrhak
+간듸	간디	Kandi
+간듸-傳	간디전	Kandi Chŏn
+
+**Glossary**
+
+氏	씨	Mr.; suffix for names
+일즉이	일찍이	Previously, early on (older spelling)
+歷任	역임	To have served successively in posts
+職	직	Position, job
+갓가운	가까운	Near, close to (older spelling)
+업지 아니하다	없지 아니하다	To not lack, to certainly have (older spelling of 없-)
+過重	과중	Excessive burden
+되다	되다	To become
+史的文獻	사적문헌	Historical document
+닯게	닮게	Resemblingly, like (older spelling of 닮-)
+업는	없는	Non-existent, lacking (older spelling)
+첫재	첫째	Firstly (older spelling)
+당하야	당하여	Facing, upon (older spelling/form)
+諸般	제반	Various, all sorts of
+參考文獻	참고문헌	Reference materials, bibliography
+缺乏	결핍	Lack, deficiency
+呼訴	호소	Appeal, plea
+니	네	Your (older/dialect form)
+眼目	안목	Perspective, discernment
+깨닷는	깨닫는	Realizing (older spelling)
+까닭	까닭	Reason, cause
+그러타고 해서	그렇다고 해서	Even so, despite that (older spelling)
+붓대	붓대	Writing brush handle; pen
+그러치 아니하면	그렇지 아니하면	Otherwise, if not so (older spelling)
+오	요	(Connective ending
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제11호
+발행일	1935년 12월 01일
+기사제목	三千里文藝講座(第2回 開講)
+기사형태	문예평론
+
+三千里文藝講座(第2回 開講)
+詩歌講座
+
+朝鮮新詩運動史
+
+朴八陽
+
+筆者紹介
+氏는 京畿水原出生으로 今年32歲다. 일즉이 培材高普를 나와 京城法學專門學校를 卒業하다. 朝鮮日報 社會部 記者를 歷任 현재 中央日報社會部長의 職에 잇다. 號는 「金麗水」詩作의 발표가 허다하다.
+
+題하여 가로되 『朝鮮新詩運動史』라 하니 筆者로서는 過重한 負擔인 感이 업지 아니하다.
+물론 이것은 적으나마 한개의 史的文獻이 되지 아니하면 안니될 성질의 것인데 지금의 나로서는 이것을 제법 한개 史的文獻닯게 써 볼 아모러한 準備와 自信이 업는 것을 率直하게 告白하지 아니할 수 업다. 그것은 첫재 이것을 씀에 당하야 나는 이에 필요한 諸般參考文獻의 缺乏을 讀者諸氏에게 呼訴아니 할 수 업고 다음으로 또 한가지는 내가 이것을 씀에 필요한 니 자신의 歷史的眼目의 부족을 스스로 自認 아니 할 수 업는 것을 깨닷는 까닭이다.
+그러나 그러타고 해서 나는 나의 이 붓대를 던지고 말것인가? 그러치 아니하면 비록 극히 抽象的이오 斷片的이오 槪括的이오 平面的일지라도 나 自身의 약간의 見聞을 土臺삼어 30년 갓가운 우리 新詩運動의 걸오온 발자최를 돌아다 보고 그것을 기록하여 볼 것인가?<254>
+는 材料蒐集의 困難 또는 筆者의 寡聞淺學만을 이유로 하여 그대로 이 붓대를 던지고 십지는 안타. 기록하여 보자. 抽象的이라도 조코 斷片的이다도 조치 아니한가? 朝鮮新文學運動의 搖籃에서 울고 웃든 시절로부터 그 搖籃에서 나와 것고 뛰는 오늘에 이르기까지의 우리가 항상 사랑하는 『조선의 새로운 노래』의 『모습』을 되나 안되나 여긔에 『스켓취』하여 보려는 것이 나의 朝鮮新詩運動에 대한 조곰만한 微衷이다. 다행히 讀者는 容恕하라.
+
+一. 初期의 新詩
+
+『우리는 아모것도 가진 것 업소
+그러나 무서움업네
+
+우리는 엇지 못하네
+우리는 올흔 것 짐을 지고
+큰길을 거러가난 者-일세
+
+우리는 아모것도 진닌것 업소
+그러나 두려움업네
+우리는 엇지 못하네<255>
+우리는 올흔 것 廣耳삼아
+큰길을 다 사리는 者-ㅁ일세
+
+우리는 아모것도 든 물건업소
+
+그러나 겁아니나네
+細砂가튼 재물로도
+우리는 엇지 못하네
+우리는 올흔 것 칼해집소
+큰길을 직혀보난 者-ㅁ일세』
+지금 보아 우리 눈에 대단히 서투른 이 詩篇은 明治 44년(隆熙 3년) 4월에 發行된 「少年」 第二卷 第四號에 揭載된 舊作三篇』이라 題한 詩중의 한편이니 이 『舊作三篇』이라 題하고 『公六』이라고 署名한 六堂 崔南善氏의 詩야말로 우리가 주목하지 아니 할 수 업는 朝鮮 최초의 自由詩-즉 新詩의 최초인 者이다. 이것이 朝鮮最初의 新詩인 것을 증명하는 기록이 그 「舊作三篇」의 末記에 잇스니 가로되
+「前畧丁未(卽光武 11年-筆者註)년이 되기前 三朔에 붓을 들어 우연히 생각한대로 기록한 것을 始初로 하야 三朔동안에 10여편을 엇으니 이곳 내가 붓을 詩에 쓰든 始初이오. 아울너 우리말로 新詩의 形式을 試驗하든 시초라. 이에 揭載하는 바 이것 3篇도 그중엣 것을 나<256> 摘錄한 것이라. 이제 우연히 舊作을 보고 그 時 자기의 想華를 追憶하니 또한 甚大한 感興이 업지 못하도다. 公六(卽後日의 六堂인 崔南善氏-筆者註)識』이라 한 것을 보드라도 이 『舊作三篇』이 光武 11년作으로 朝鮮最初의 自由詩인 것을 알 수가 잇다.
+光武 11년이면 곳 西歷 1907년이니 지금으로부터 28년 전이라. 그럼으로 朝鮮에 잇서서 固有한 詩形體이든 詩調를 母胎로 하고 그 呱呱의 소리를 올린 新詩는 30년 未滿의 歷史를 가지고 잇슬 뿐이다.
+過去朝鮮에 잇서서 詩라 하면 두말 할 것 업시 漢詩만을 알엇고 그 後 世宗大王의 訓民正音이 發布된 후에도 形式에 嚴格한 제한이 잇는 詩調가 잇을 뿐이다가 이 가치 韻律의 自由性을 高調하는 自由詩가 誕生하게 된 것은 실로 朝鮮歌謠史上의 一大革命이라 아니 할 수 업다.
+繼續<257>
+
+時調講座
+
+時調鑑賞과 作法
+
+李秉岐
+
+筆者紹介
+氏는 忠淸道出生으로 今年 48歲인 學者兼作家 현재 徽文高普校의 敎授로 있으며, 時調와 「한글」에 대한 硏究가 깊고 또 號를 「가람」이라하야 時調作品의 發表한 바가 현재만타.
+「朝鮮語學會」會員이다.
+
+一. 鑑賞
+
+이 題目에는 다만 鑑賞이라는 말만을 써 놓았으나 事實은 文字 그대로 만이 아니고 思索, 解釋, 批評等의 여러 가지를 종합하여 말하지 않으면 될 수가 없다.
+우선 時調라는 말부터도 音樂으로 쓰든 말인지 文學으로 쓰든 말인지를 分揀하지 못하고 아즉도 흐리멍텅한 狀態로 있는 것 같다. 아주 不學無識한 이는 말할 것도 없거니와 상당한 學識을 가진 이로도 時調라면 音樂으로 부르는 것 인 줄만 안다. 時調를 짓는다니 한장 불러보라. 부를 줄을 모르면 어찌 時調를 지을 수 있을까-하는 말들을 種種 들을 수 있다. 이것이 나의 이른바 時調를 音樂으로 안다는 것이다. 아닌게 아니라 이것이 우리 短歌로서 時調라는 이름을 얻은 것은 文學으로서 보다도 音樂으로서라고 하겠다. 다시 말하면 短歌를 24種의 歌曲으로 부르든 것이 自然 變遷이 되어<258> 4種의 時調로 부르게 되며 高官大爵같은 特殊한 階級에서나 하든 것이 閭井胥吏까지라도 할 수 있을 만큼 通俗化한 것이다. 비록 24種의 歌曲같은 것은 一般이 그 名稱부터도 모르드라도 時調만은 그 누구나 모르는 이가 없다. 「時調커니 때조나 하여라」하는 俗談까지도 되어 있다. 그리고 웬만한 이는 時調짱이나 부를 줄 모르는 이가 없든 것이다. 지금도 낫살이나 자신이에는 부를 줄 아는 이가 많다. 이와 같이 時調를 한 音樂으로만 崇尙하여 오든 것이다.
+時調를 文學의 한 名稱으로 認識한 것은 이 近者 우리에게 新文化運動이 일어나면서부터가 아닌가 한다. 예전에는 이걸 短歌라 하여 文學의 이름으로 쓰든 것이다. 從來의 우리 文獻을 溯考하여 보면 그러하다. 다시 말하면 短歌라든 名稱이 時調라는 이름으로 변한 것이다.
+이러하여 時調가 文學의 한 名稱으로 되기는 오래지 않어도 그와 같은 形式의 노래만은 적어도 8, 900年前 高麗때부터 분명히 있어 왔다. 지금 記錄되어 전하는 것도 1,500餘首나 된다. 이러한 것이 모두 古代-高麗, 李朝-그 時代 그 時代의 人情, 風俗生活狀態를 背景으로 한 것인 만큼 현대 사람인 우리로서는 思想, 感情에 맞지 않을 것은 당연한 일이다. 學問이라면 孔孟程朱만 알고 文字라면 漢文만 알고 맷방석만한 갓을 쓰고 간질대같은 長竹을 입에 물고 愛花當妓요 緩步當車니 하는 늘어진 수작이나 하든때가 지금과는 如干 다른 것이 아니다. 그러나 그때는 그때요. 지금은 지금이다. 그땟것이라고 모두 없어지는 것도 아니고 버려지는 것도 아니다. 우리가 빠다를 먹고<259> 洋服을 입고 나서드라도 그때 그러하든 이의 뼈와 피를 받어 온 것을 면할 수 없다. 그를 변하였다해도 올창이가 겨우 개구리됨에 지나지 못하다. 올창이가 개구릿적 일을 잊어서는 아니 된다. 우리의 과거의 文化는 올창이로부터 개구리되기까지의 밟어온 그 자취다. 그 자취에는 石窟庵, 多寶塔, 奉德寺鍾같은 藝術品도 있으려니와 이 時調와 같은 貴重한 文學도 있어 온 것이니 우리가 이런 것을 鑑賞하자면 다시 그때 사람과 같은 이가 되어가지고 보지 않으면 아니된다. 그렇지 않으면 도저히 알 수 없다.
+그러면 우리가 이걸 알기 위하여 假定 그때 사람이 되었다하고 그들의 노래를 읽어보자. 그리고 그 노래의 情趣, 用語, 調格等을 찾어보자.
+
+1. 情趣
+우리의 風俗, 制度와 같은 것이 전혀 中國것을 그대로 흉내낸 것이라고 할 이도 있을지 모르되 모두가 그런건 아니다. 몇 천년전부터의 固有한 歷史, 固有한 風俗, 制度가 있었다. 家屋制度를 보든지 衣服飮食을 보던지 冠婚喪祭를 보든지 文房諸具, 器皿等屬, 庭園亭臺를 보든지 또는 嗜好, 娛樂을 보던지 하도라도 中國의 그것과는 서로 다르다. 노래의 情趣와 같은 것도 漢詩에 나타나는 것과는 다른 점이 많다. 얼른 보기에는 우리 노래는 漢詩 그것을 翻譯, 翻案 혹은 剽竊한 것이 아닌가 할 듯도 하나, 仔細히 살펴보면 같은 듯 하고도 아닌 것이 있다. 또는 같은 것이라도 詩人이 意思同으로 우연히 그러한 것도 없지 않을 것이다.
+
+2. 用語<260>
+옛날 쓰든 말이 지금 말과는 얼마큼 다르다. 말이란 時代를 따라 달러지는 것이다. 자연한 일이다. 우리가 우리말로 적은 龍飛御天歌, 月印千江之曲, 佛經七書諺解, 杜詩諺解 其他 노래 책들을 보면 모를 말이 많다. 그것이 도리어 貴重한 硏究할 價値가 있는 것이다. 語學으로만 아니라 문학으로도 그러하다. 그때 사람의 말을 그대로 볼 수 있으며 또한 그들의 어떠한 感情思想도 짐작할 수 있다.
+예전말의 「마르는」 「어즈버」 「노매라」 「놋다」 「는고야」 「사이다」 「새그녀」와 같은 따위도 그때 그것으로서는 없을 것 없는 것이다. 그 뿐더러 그 어느 것은 지금이라도 쓸 수 있다. 또 그때에는 漢文을 다시없는 文字로 崇尙하고 쓰든 만큼 漢文의 熟語나 또는 漢文으로 지어쓰는 말이 十常八九라. 우리 노래에도 漢文의 문자가 많이 쓰이게 되었다. 그러나 그것도 우리말로 化한 것이니 쓰기만 잘 하였으면 좋을 것이다.
+
+3. 調格
+從來의 우리 短歌는 가곡이나 時調와 같은 音樂으로서 부르지 못할 것이 없다. 音樂으로서 퍽 崇尙한 까닭이다. 그 作家들을 보면 대개 名唱이다. 그 字數며 句法은 정연하여 아무러한 劣作이라도 그 調格만은 상당히 되어있다. 이러케도 생각할 수가 있다. 이는 그들의 音樂으로서 規定한 調格이라고. 그러고 그 字數를 句句이 따져보면 다만 3,4調(七字句) 4,4調(八字句)만이 아니고 그밖에 여러 가지가 있다. 말하자면 正調, 變調, 亂調, 雜調들이 있다.
+이러한 말은 대강 이만해두고 종래의 우리노래에서 實例를 들어 말해보자.<261>
+닷드자 배떠나니 이제 가면 언제오리
+萬頃蒼波에 가는듯 돌아오소
+밤중만 지국총소리에 애긋는 듯 하여라
+
+作者는 未詳. 「닷드자」는 大東風雅에는 「달뜨자」라 하였고 東樊集의 離船樂歌에는 可奈萬頃蒼波水 鯨濤鰐浪船難行 離愁滿船船更生 渡口月出帆徐懸이라하고 그 註엔 曲中 有萬頃蒼波去如迴云語 又有月出曲이라 하였으나 이는 다 訛傳이다. 달뜨자라는 것을 虛頭로 할 필요가 없다. 달이야 뜨든마든 배가 떠날 수 있다. 또 달뜨자 배떠난다는 것이 무슨 韻致스러울 것도 아니다. 熱河日記의 漠北行程錄을 보면 碇擧兮船離 此時去兮何時來萬頃蒼波去似迴라는 排打羅 즉 배떠나기 노래가 있으니 이것이 「닷드자 배떠나니 이제가면 언제 오리」를 直譯하여 놓은 것이다. 이걸 보드라도 「닷드자」가 과연 옳은 것이다. 「닷」은 漢字로는 碇, 掟, 錨, 또는 鐵錨라 하며 배를 停止하는 器械. 배가 떠나려 할 때에는 들어올리고 정지하려 할 때에는 집어나린다. 닷에는 줄이 달렷으니 그건 닷줄이라하고 이걸 또 器械로 감어 올리고 풀어나리기도 한다. 萬頃蒼波는 浩浩茫茫한 바다. 「가는 듯 돌아오소」는 어떤 책에는 「가는 듯 단여옴세」라고 적었으나 이도 訛傳이다. 이러타면 이러한 노래가 될 수 없고 한 問答法으로 된 散文에 지나지 못하다. 「밤중만」은 한밤중쯤 되었다는 말. 「지국총소리」는 至匊悤, 또는 至匊叢으로도 적었으나 漢字에는 뜻이 없고 닷줄을 감거나 풀거나 하는 소리다. 「애」는 부애, 창자, 肝膓. 「긋는 듯」은 끊어지는<262> 듯 하다는 뜻.
+이는 離別의 노래 水路로 가는 이를 埠頭에서 作別하는 노래. 坦坦한 陸路라도 멀리 떠나보낼때 그 섭섭하고 念慮됨이 여간이 아닐것인데 더구나 그 무서운 물낄로 떠나 보냄에랴.
+닷줄을 들어 올리자. 뱃머리는 빙돌며 떠나니 이제 가시면 언제나 오시리. 그 浩浩茫茫한 바다, 鯨濤鰐浪에 부듸 평안히 가시고 가시는 길로 즉시 평안히 돌아오시라고 祝願한 말인데 위에 말한 萬頃蒼波去似迴의 「去似迴」는 번역이 좀 덜 된 듯하다. 가는 듯의 「듯」字가 특별히 妙味를 가지고 있다. 같다는 것이 아니고 빨리빨리 하라는 뜻으로 쓰인 것이다. 그러고 그 배가 떠난 뒤에는 날의 날마다 낮이나 밤이나 그 배가 잘 갔을가 못갔을가 하고 벌서 그 배가 돌아오지나 않는가하고 기다리고 기다리다가 밤중쯤하여 배가 와다며 닷줄을 풀어나리는 지국총. 지국총소리가 나면 埠頭로 달겨가서 보면 그 배는 아니다. 이러케 몇밤 몇번을 속았는지 모르지마는 그래도 또 지국총소리가 들리기만 하면 泰然히 있을 수 없다. 그야말로 이 지국총소리로 하여 일천간장이 마듸마듸 다 끊어지는 듯 할 것이다.
+또 어떠케 보면 이 노래는 作別할때, 보내는 이와 떠나는 이와의 대화하는 걸 그대로 적어놓은 것 같기도 하며 또 시간을 달리보아 「이제가면 언제 오리. 萬頃蒼波에 가는 듯 돌아오소」까지는 배 떠날 때 하는 말을 적은 것이고 그 다음 「밤중만 지국총소리에 애긋는 듯 하여라」하는 대문은 배떠난 뒤의 情景을 그대로 적은 것이라.(제270頁에)<263>
+그 時間이 너무 떠러저 連絡이 잘 안되고 대화라 한다면 各部分이 斷片이 되어 한 篇을 이룰만한 緊張한 맛이 없을 것이다. 과연 그런 것 아니고 다만 問答法을 빌어가지고 지은 것이다. 用語도 妥當하고 調格도 아름답다. 尋常한 말을 하여 가지고 비상한 느낌을 주는 훌륭한 한 노래다. -(繼續)-<270>
+
+小說講座
+
+朝鮮小說發達史
+
+金台俊
+
+筆者紹介
+氏는 平北出生으로 금년 30歲다. 昭和 6년 京城帝國大學 文學部를 卒業. 현재 京城明倫學院敎師. 일즉이 『朝鮮小說史』를 著述하였으며 新羅鄕歌等 朝鮮古典文學에 대한 硏究가 깊고 또한 硏究論文의 발표가 허다하다.
+
+한개의 粗雜한 事實報告
+
+「東方禮義之處」-이것이 이 땅의 선비님들의 자랑이엿다. 물론 禮義라는 것은 儒敎이데오로기-를 말하는 것으로 數千年前 中國社會의 産物이엿지만 그것은 그대로 이땅에도 適用된 것이다.
+儒家의 本尊인 孔子님이 「小說은 小道라. 致遠恐泥하기 때문에 君子는 하지 안는다」하엿다. 이것은 이땅의 선비들로 하여금 小說을 賤待視하게 된 근본이다. 그리하야 近世의 先覺者엿든 李星湖, 李雅亭같은 사람들도 小說은 「不可接目」이라 하고 蔡樊岩같은 이는 小說輸入의 금지령까지 나렷다. 하나 士君子에게 이처럼 白眼으로 冷待를 받으면서도 오히려 漢文을 이해치 못하는 婦女들이나 머슴들 사이에 愛讀되여 온 것이다.<264>
+이땅에는 원래 자기자신의 말을 그대로 긔술하는 글자가 없은 채, 三國 高麗의 近 2,000년 동안 文化生活을 하여 왓다. 글자가 업는지라 자연히 中國人의 文字-즉 漢字-를 빌려서 自家의 쓸 말을 音標로 긔술하는 「吏讀」라는 記寫法을 발견하엿다. 그러나 吏讀와 같이 군색하고 불편한 文字로써는 짤막짤막한 노래를 적을 수는 잇어도 길다란 小說을 쓸 수는 없을 뿐 아니라 吏讀로 쓸진댄 차라리 漢文의 文章 그대로 표현하자는 것이엿다. 그리하야 小說의 東洋的原始型인 裨官文學을 보게 되엿다. 그러나 그는 隨筆에 갓가왓다. 그리고 그는 漢文으로 叙述된 만큼 朝鮮의 文學으로 간주하기가 어러운 것이다. 그러나, 그 나마도 三國高麗라는 시절에는 좋은 作品이 없엇다. 漢文으로 된 작품도 조선문자-(한글)-가 생긴후에야 金驚新話, 九雲夢, 燕岩外傳같은 傑作을 볼 수가 잇엇다. 하나 金驚新話, 九雲夢, 燕岩外傳같은 것은 中國文學속에서 論할지라도 오날날 이땅 文章家들의 外國文壇에 발표하는 外國文보담은 훨신 수준이 높은 것이리라.
+아무 文獻에 의함이 없이 編輯者의 緊請에 의하야 낡은 記憶을 흔들어 갑작이 쓰게 된 글이라. 讀者여 산만한 이 글을 양해하시라.
+순전히-한글노 쓴 小說을 主로 하고 이 稿를 나뉜다.
+
+決定的으로 우리네 固有한 文學을 갖게 함에 유력한 契機는 지금으로 489년전 李朝의 世宗과 그 부하의 集賢殿四學士에 의하야 創定된 訓民正音-한글-의 發生에 잇다. 그러나 한문의 陶醉한 당시의 智識人-知識은 돈잇고 겨를 잇는 특수한 生活群의 專有物이엇다.-들 때문에 도저히 완전한 發達을 할 수는 없엇다. 그러나 金萬重, 愼後聃의 例에서와 같이 慈母의 慰安을 위하야<265> 「諺文으로 小說을 지은」者도 잇고 그렇치 않으면 불우한 書生들의 戱筆로 된 것이 보통이다. 특히 宮廷에서 王妃와 宮女들의 消閑의 具로서 그들의 需要에 응하야 저급한 古代支那의 野史에서 粗製濫造하야 다량으로 번역, 모방한 것도 看過할 수 없는 사실이엿다. 그것은 소위 「니약이 책」, 「傳記」라는 명칭으로부터 오는 것이다. 그 形式은 대개 千篇一律로 固定한 것으로 「大明成化年間에 南京땅에 한 재상이 잇으니 姓은 X이요, 名은 X라, 膝下에 一点 혈육이 없어서... 한 玉童子를 낳으니... 3男 1女를 낫코 富貴榮華를 누렷다 하더라」 이 類이다. 극히 나이부한 叙事的叙述形式이다. 여기에 중대한 영향을 준 것은 明淸小說의 수입이니 三國衍義, 水滸傳, 剪燈新話, 西遊記 今古奇觀등이 가장 愛讀되고 軍談類의 主人公은 高麗때부터 읽어오든 太平廣記, 世說新語등에서 題材를 취하는 때가 많엇다. 軍談類의 대부분이 무대를 中國에 빌린 것은 조선 貴族들의 慕華心에서가 아니면 異國的情調의 憧憬에서 엿다. 封建文學의 자리를 일은 것은 東洋이나 西洋이나 마찬가지 封建武士의 武勇을 자랑하는 記錄이 아니면 絶對的個人에 대한 奉仕의 忠義譚이엿다. 이 일정한 형식에 脫脚된 작품일수록 후세에 稱讀되는 가치가 큰것이니 蘇大成 張豊雲 王將軍 黃將軍傳보담, 洪吉童, 九雲夢, 春香傳, 沈淸傳, 薔花紅蓮傳, 興夫놀부전등이 더 많이 愛讀되는 중요한 이유의 하나는 一般實談보담 그 說話의 구성한데 잇지 않을가 한다.
+
+洪吉童傳은 光海때에 모든 儒冠들이 「怪物」이라고 笑罵하든 許筠의 作이니 이는 庶孼朴應犀 徐羊甲등이 昭陽江上에서 庶孼끼리 뫃여서 社會일을 企圖하든 「朴應犀獄事件」을 모델로 한<266> 것이요 九雲夢은 中國貴族의 一夫八妻生活을 그런 者로 南征記와 함께 西浦金萬重의 作인 것은 그 從孫金春澤의 北軒雜說에 쓰여 잇다.
+그리고 沈淸, 놀부쨍기 金송아지같이 童話와 傳說이 妖怪談을 기초로 하고 소설로 敷衍하야 거긔에 繼母復讐 그 他實社會의 생활을 집어넣은 것도 많으니 이것도 다른 艶情類와 함께 唱劇調에까지 발전된다.
+艶情小說로서는 春香 玉丹春 淑英, 白鶴仙, 祝英臺등이 그 上乘이엿다. 한낫 才子佳人의 奇遇보담은 좀더 社會階級的意義를 가진 春香傳이 가장 愛讀되는 것도 극히 당연한 趨勢엿다. 春香傳에 나오는 農民一揆와 卞府使에 대한 반항은 新興層인 擡頭的新興階級의 一般的要求엿든 것이다.
+
+그러나 小說을 廚房에서 해방하고 정말 現代靑年의 讀物로 인도하기는 3,40年전의 先輩李人植, 李海朝諸氏들이엿다.
+한글로써 言文一致體의 小說을 쓴 이기 菊初李人植氏엿다.
+그는 한편 雪中梅 銀世界 金玉均사건등을 각색하야, 一齋趙重桓氏와 함께 圓覺寺에서 연출을 試하며 한편 鬼의 聲 雉岳山 血의 淚같은 소설을 썻다. 그는 과거의 小說形式을 완전히 改革하엿음은 물론이엇다. 당시에 꾸준한 努力으로 創作에 從事한 이는 李海朝
+崔讚植
+金敎濟諸氏로 변역엔 李相協
+閔泰瑗 諸氏가 잇엇다.
+그리하야 시간적으로 李人植/<pers> <pers>李海朝
+崔讚植諸氏의 뒤를 니여 新文學運動에 종사한 이는 春園李光洙氏를 爲始하야 玄相允
+奏瞬昇諸氏로서 崔南善의 경영하든 「少年」 「이이들보이」<267> 「靑春」에 筆陣을 폇섯다.
+그리하야 엇잿든 古代小說 즉 니야기책과는 다른 일종의 小說을 쓰는 「新小說」의 流行을 보게 된 후에 비로소 현대의 小說다운 「小說」을 보게 된 것이다.
+日本內地에 留學하고 도라온 諸氏에 의하야 놀나운 活躍을 보게 되엿다. 그들은 종래의 文學을 상당히 攝取한 者돌로 歐米日本의 當時文學에서 吸收한 文學的營養을 갓고 創作에 종사하게 된 것이니 주요한 金東仁
+廉相涉
+玄憑虛
+方仁根
+羅彬諸氏의 노력이 이때다. 당시에는 大X每日申報뿐 아니라 東亞, 朝鮮, 時代 「오늘의 中央」의 3新聞과 雨後竹筍같이 닐어난 雜誌가 잇엇다.
+
+그러나 우리는 여기서 이들의 닐어나기 이전 李人植
+李海朝氏이후 이들의 다리를 노흐면서 從往橫來하는 늣김을 주든 小說家春園李光洙氏의 존재를 말하지 안이 할 수 업다.
+春園의 作 「어린벗에게-젊은 꿈」은 西洋文學의 영양을 받은 朝鮮最初의 작품이라고 한다.(金東仁氏의 春園硏究)그는 혈난한 口語體의 美文에서만 안이라 그 題材도 보담 進步的이엿다. 그는 連하야 「少年의 悲哀」 「尹光浩」같은 작품도 발표하엿지만 무엇보담도 春園을 출세시킨 작품은 每日申報에 실닌 「無情」이리라.
+金長老, 英語敎師의 리형식 長老의 딸 선형이라는 過渡期人物을 취급하야 조선최초의 長篇다운 長篇을 쓴 것이다.
+積極的으로 個人主義的立場에서 舊思想에 抗拒하야 自由戀愛를 高調하엿다. 그는 그후 連하야 「開拓者」 「再生」등을 썻다.<268>
+封建的인 家長權에 대한 반항이 보인다. 그는 일면적이나마 당시에 각성한 個人主義的思潮를 표현한데 進步的役割를 다 한 것이다. 氏는 그후 「麻衣太子, 李舜臣 端宗哀史」등, 歷史小說을 쓴다. 하나 거긔에는 녯날의 발랄한 市民的感嘆과 또 歷史的進步性을 볼 수가 없고 다만 小主觀에 束縛된 忠孝觀念으로써 선악을 정하야 좀더 이를 神秘化하고 英雄化식켜 그를 통하야 自家의 幻想을 그리고 잇다. 현재 또 「異次頓의 死」를 집필중이시다.
+
+이 春園의 뒤를 니여 金東仁
+廉想涉
+崔曙海
+趙明熙諸氏가 닐어난 것이니 어떤 批評家는 이를 混沌模摸索時代라고 간단히 치여 버리고 어떤 분은 朝鮮文學의 戰後的開花期-自然主義로부터 浪漫主義에의 과도기-라고 하고 있다. 混沌時代·模索時代라고 하는 이는 당시의 虛無主義, 浪漫主義, 唯美主義, 惡魔主義, 自然主義等 諸種의 思想傾向이 일시에 불결한 호수와도 같게 한개의 主義까지는 형성하엿는지 의문이라 할지라도 이 朝鮮文學의 우에 덮여 눌너잇섯다는 것이요. 이를 自然主義에서 浪漫主義에의 過渡期로 보는 이는 「春園文學가운데 貫流하고 잇든 基本的弱点인 現實認識 及 把握의 일면성의 계승 또는 그 연장이라는 점에서 己未年이라는 한개의 분수령을 중심으로 조선사람의 歷史的生活의 容貌와 밋 내용의 顯著한 變化를 보인 者로 社會的階級分化가 아직 基本的인 대립을 나타내지 안엇다 할지라도 우리가 民族文學時代라고 일컬을 만한 한개의 統一的 槪念下에 포괄될 수 잇엇다는 것이다.
+
+그러나 「浪漫的世紀末의 雜多한 傾向」은 표면 混沌과 模索을 呈한 것 같을지라도 己未年後의 暗澹한 현실하에 충분한 自然主義文學의 藝術的發展을 보지 못하게 제약햇을 망정 想涉氏의<269> 長篇 「萬歲前」 短篇 「標本室의 靑개고리」 「除夜」등과 金東仁氏의 短篇 「笞刑」 「弱한 者의 슲음」 玄憑虛氏의 「할머니 죽엄」등 우수한 작품을 산출하엿으며 이땅의 客觀的情勢와 經濟的背景이 藝術의 당연한 進路는 阻止되고 잇슬망정 희미하나마 幻滅의 감정과 정서를 취급한 부르문학의 興隆期에 도달하엿다고 볼 수가 잇고 이 興隆期란 것은 극히 感傷的이고 幻想的이면서 形式主義 藝術至上主義에로 달어나게 되엿든 것이다.
+
+그리하야 이 自然主義의 下向期는 浪漫主義文學의 開花期라고 볼 수도 잇섯고 그는 稻香羅彬氏의 長篇 「幻戱」 短篇 「옛날의 꿈은 蒼白하더이다」 「별을 안거든 우지나 말걸」등에 닐으러 好個의 典型을 보여주엇다. 현실과의 완전한 隔離, 空虛한 浪人의 휘파람같은 藝術至上的文學은 그 自身空想의 世界에 잇는 星雲과, 같엇다. 그는 벌서 녯날의 江山風月을 漫然히 읊든 漢詩客들 처름 無氣力하고 逃避的으로 되기 쉬운 것이엿다. 文化政治의 看板下의 현실은 엄청나게 놀랍게 변하엿다.
+그리하야 각처의 민중단체가 닐어나고 그중에도 任昇宰의 一文 「文士諸君에 告함」은 浪漫的薰香에 陶醉하고 잇든 文人들에게 커다란 爆彈이요 警鍾이엿섯다.(以下次號)<270>
+
+海外文豪講座
+
+로맹·롤랑의 藝術과 生涯
+
+李軒求
+
+筆者紹介
+李軒求氏는 咸北明川出生. 금년 31세다. 일즉이 京城普成高普를 마치고 東京에 드러가 早稻田大學 佛文科를 마치다. 도라와서 현재는 遞信局에 재직중이며 劇藝術硏究會員으로 잇다.
+佛蘭西 文學에 대한 深奧한 연구가 잇을 뿐만 안이라 文藝評論家의 한분으로서 허다한 硏究論文의 발표가 있다.
+
+「로맹·롤랑」은, 佛蘭西中部에 잇는 「니에-브르」縣에서 1866년 1월 29일(日曜)誕生하엿다. 「카람시-」라는 조고마한 村落에서 태여난 그, 그러나 그에게는 佛蘭西革命當時에 열열히 싸웟든 曾祖父에게서 다분히 情熱的革命精神의 혈통을 바더왓다. 그 반면에 그의 母親은 진실로 敬虔한 加持力敎信者엿스나 그의 父親은 公證人이라는 평범스러운 직업을 가젓다.
+그는 본래 신경질이요 早熟한 편이엿다. 파-란호수를 聯想식히는 그의 碧眼은 무한한 憧憬과 空想의 신비스러운 幻影을 감초고 잇엇다. 그러므로 그의 부모가 그를 理工科方面에 출세식히랴는 學校敎育은 그의 精神과 相反되지  안을 수 업섯다. 즉 「팡과 가티 人生의 不可缺」이라고까지 確信하는 音樂과 이 科學的世界는 너무나 懸隔한 차이를 가지고 잇엇다. 그는 신앙과 傳說의 강열한 夢想世界와 音樂의 無限大한 魅惑속에 잠기여 잇엇다. 「쟝그리스토프」의 幼年時代는 다분히 작자자신의 肖像이다. 그는 「벼-토벤」-과 「모찰트」와 「왁네-르」의 音樂에 陶醉되엿다. 조고마한 일에도 기절하리만치 激情되는 그의 신경질은 이 音樂만에서 無上의 法說과 안정을 어덧다.<271> 그리고 그의 讀書는 沙翁의 戱曲에 傾到식혓다.
+새로운 生活이 그 앞에 展開되엿다. 그는 巴里로 移住해 왓다. 17세된 天才的少年은 양친의 犧牲的努力으로 말미아마 永住해 오든 고향을 떠나게 되엿고 그는 師範學校 入學準備로 르-이中學에 단이게 되엿다.
+그는 여기서 장래의 佛蘭西文藝 乃至 思想을 등에 질머질 몃사람의 친구를 어덧다. 오늘의 유명한 詩人 「포올·골로델」과 佛文學思潮의 유일의 權威 「스토로스키」敎授와 純情的詩人 「아드레, 슈아려스」가 모도다 同級生이엿다. 그러나 그가 師範學校에서 地理歷史科를 선택한 1886년경의 그에게는 실로 純情的理想에 불타는 위대한 苦惱가 잇엿다. 즉 당시 「졸라」를 爲始한 自然主義에 대하여서는 일종의 幻想과 불안을 가젓고, 또 象微主義의 劾興에 대해서도 커다란 관심을 가질 수 업섯다. 그의 天性인 强烈한 신앙심과 정열은 어떤 理想的英雄的偉大한 閃光을 渴望하야서 암흑속에거 鳴咽懊惱하엿다. 그러자 당시 「보규에」의 飜譯을 통하야 「톨스토이」와 「도스토이엡스키」를 위시한 露西亞文學이 膨漲하야저서 杜翁의 작품으로도 「戰爭과 平和」 「안나, 카려니나」를 위시하야 여러 개의 작품이 번역되엿다. 그는 이러한 작품에 무한한 애착을 늣기엿다.
+거기에서 그는 위대한 人生, 또는 民衆生活의 啓示와 새로운 藝術의 精華를 발견하엿다. 이때까지 音樂과 沙翁에게 열중된 그에게 새로운 人生의 현실세계가 전개되엿다. 그러든 중 1887년에 杜翁의 「우리는 무엇을 해여야 하느냐?」가 飜譯出版되엿다. 이 一書를 읽음에서 그에게는 새로운 커다란 懷疑와 絶望的暗澹이 襲來하엿다. 즉 톨스토이는 沙翁을 위시하야 近代藝術에<272> 대하야 痛烈한 反駁과 近代藝術의 價値를 부인하엿다. 「롤랑」에게 잇어서는 每日의 팡과가티 생각하든 音樂을 의무를 「무시하도록 人間을 인도하는 娛樂」이라고 定義를 내리여 그가 日夜로 崇拜해 오든 벼-토벤, 와그너-가 感覺을 疊惑하며 신념을 攪亂식히는 者 背德的이요 人類相互의 融和를 喪失식힌다고 說破하엿다. 이러고보니 「롤랑」의 이때까지의 理想과 信念은 一朝에 암흑의 深淵속에 던저지엇고 그는 파괴되고 교란된 생명을 일흔 形骸를 안고 기절할 수 박게 업다. 그에게는 여러 날의 煩腦와 苦憫이 계속되엿다. 그는 이 절망의 심연에서 새로운 한오리 光明을 차자 모색하엿다.
+그는 드듸여 결심하엿다. 이 無名의 異國靑年은 當時世界에 雄據하는 大文豪杜翁에게 한 장의 편지를 썻다. 물론 그는 그에 대한 返信이 잇기를 기다림은 아니엿다. 그러나 의외에도 1887년 10월 4일 38페지라는 놀나운 長文의 書翰이 이 白面靑年을 차저오게 되엿다. (이 書翰을 15년 후인 1902년 롤랑이 공개한 것이다.) 그 書翰은 「信愛하는 親友여 하는」 頭書로써 「!나는 君의 편지를 밧고 심히 감동되엿다. 나는 눈물노써 글을 닑엇다! 人間을 한가지로 結合식히는 藝術만이 唯一의 價値잇는 藝術이다. 가치잇는 예술이란 자기의 소신을 위하야 희생되여야 하는 藝術家다. 모든 참된 業務의 先要條件은 藝術에 대한 사랑이기 전 人類에 대한 사랑이여야 한다.
+이러한 사랑으로써 充溢한 者만이 藝術家로서 행할 바 有爲의 그 어떤 사업에 適材인 것이다!」 이런 의미의 이 글월은 「롤랑」이 藝術觀에 決定的感化를 주엇다. 그가 후일 「톨스토이傳」을 쓸때 卷頭에 말한바에 의하야 그가 얼마나 톨스토이의 감화를 바덧는가 하는 생생한 敎訓은<273> 충분히 이해할 수 잇다.
+그는 1889년 師範學校를 마치자 羅馬로 유학을 가게 되엿다. 원래 그는 羅馬를 임이 죽어버린 藝術의 都城으로 알어왓기 때문에 그러케 커-다란 憧憬을 가진 것은 아니엿다. 그러나 그가 羅馬에 잇는 2개년간은 그의 일생에 잇어서 만일 톨스토이에게서 師父와 가튼 敎訓을 바덧다면 그는 羅馬에서 만난 「마르비다」夫人은 그의 年老한 師母엿다.
+이 夫人은 獨逸의 貴族家庭에서 태여낫으나 革命運動에 열렬한 熾意를 가지고 亡命되여 倫敦에서 幾多의 國際的諸亡命客과 친교가 잇어스며 롤랑이 부인을 알게 된 때는 夫人은 벌서 72의 高齡이엿다. 一便 夫人은 또 藝術의 愛慕家로서 當時 羅馬에 滯在한 「입센」등의 諸文豪와 親爻가 잇어스며 뻬녀칫스에서 永眼한 聖樂 「와그너-」의 무덤은 이 노부인과 더부러 차저갓다. 「롤랑」은 이 2개년간 遊學에서 그의 音樂的敎養은 다시 伊太利의 歌劇硏究에 沒頭하엿다. 그리고 동시에 伊太利의 諸畵聖의 英雄的業蹟에 대한 史的藝術的傾到가 드듸여 그로 하여금 후일 「미켈안젤로傳」을 쓰게 한 것이다.
+로-마에서 도라온 그는 1892년 결혼하엿고 1893년에 다시 羅馬로 遊學하엿다. 다시 巴里로 도라온 그는 1895년(29세) 「近代抒情劇의 起源」과 「룰리及스칼라티 以前의 歌劇史」라는 兩大論文을 「소르본느」大學에 제출하야 文學博士의 학위를 어덧고 이어서 師範學校에서 音樂史講義를 마텃다. 이 師範學校에서 교편을 잡는 동안 후일 유명한 詩人 「쟈안다-크」의 狂熱的崇拜者는 「솨알, 페기-」와의 交誼는 「롤랑」의 傳記史上 유명한 史實이다.
+그리고 유명한 「드레푸스」事件이 「에밀, 졸라」와 「아나톨, 프랑스」등 當時 名望의 文藝家를<274> 중심으로 佛蘭西思想界와 政界 一般人心이 兩大對峙를 보게 되엿을때 「롤랑」이 「졸라」등과 더부러 맹열한 드레푸스 擁護運動의 一鬪士엿든 것은 또한 누구나 다 아는 사실이요 또한 지면관계로 그 상세한 사실의 報道를 略하거니와 그가 人道主義的立場에서 이러한 實踐行動에 加擔한 일면 이 시기를 전후하야 그는 劇作에 着手하엿다. 그가 羅馬에 遊學時代에도 2,3의 劇作을 試한 일이 잇어스나 그가 「羣狼」을 완성한 1898년은 정히 드레푸스사건 이후로 그의 全精神에 膨漲하여 온 人類愛的情熱과 그 思想의 결정으로써 결과된 것이다. 그가 幼年時代 佛蘭西革命에 參加하엿든 曾祖父의 遺稿 「革命時代日記」를 耽讀하든 그 감격과 정열이 드듸여 그의 心胸에 타 올낫다. 그래서 이어 「七月十四日」과 「단통」 2劇作으로 합하야 이것을 「革命劇」이라는 綜合顯名을 지어 내엿다.
+그는 당시의 頹廢하여 오는 佛蘭西의 모든 思想界, 文藝界에 극도의 憎惡를 느끼엿다. 즉 보르로아지-리데카다니즘에 대하야 그는 새로운 藝術의 創造로써 모든 혼란된 사회의 畸形的無政府狀態를 一掃하랴 하엿다. 享樂이요 淫佚이요 末稍神經的興奮인 부패된 당시의 文藝, 특히 演劇의 淨化를 위하야 그는 위선 일부의 有閑階級이 안이요 실로 사회의 中心運動인 「民衆을 위하야 또는 民衆에 의하야」 새로운 演劇運動을 提唱하랴고 「民衆劇論」을 써스며 「롤랑」자신이 이 民衆劇運動에 직접 참가하야 多數民衆이 집합할 수 잇는 지대에 民衆劇場을 건설하엿다. 이 運動은 19世紀末브터 計劃되야 1899년 11월에는 平民劇場設計圖를 현상모집하엿고 1903년에 일으러 兩大民衆劇場이 설립되엿다. 이 運動에 대해서 정부로서의 懷柔가 1, 2차 아니 여섯고, 政府는 이에 대립하야 官設民衆劇場계획을 진행식히여 드듸여<275> 이 運動은 완전한 繼續的成果를 보지 못하고 말엇다.
+이러한 실제운동에서 실패 당한 「롤랑」은 당시 「소르본느」대학에서 音樂講義하든 것도 중도에 고만두고 그는 오로지 藝術敎育과 藝術運動에서 引退하야 순전히 作家的生活로 도라가고 말앗다. 평화롭지 못하든 家庭도 婦人을 이혼한 후 그의 유일의 精神的伴侶者인 妹弟 마들레-느로 더부러 貧寒한 생활을 계속해 가면서 그는 社會的으로 文壇的으로 이러타할 報酬와 優待도 업는 중에서 실노 눈물겨운 文筆生活을 시작한 것이다. 임이 그 일홈만을 소개한바 그의 愛弟子 솨알, 페기-가 창설한 文藝雜誌 「카이에르·드·라·캉제-느」(월 2回)에 그는 그의 원고전부를 제공하야 발표하엿다.
+「롤랑」의 3大偉人傳인 「베-토벤, 이켈앙젤로, 톨스토이」는 물론이요, 世界3大長篇小說의 하나인 「쟝크리스토프」는 1904년부터 1913년까지 10년간 이 雜誌에 連載하엿든 것이다.
+그러나 이러한 獻身的努力에 대하야 사회는 심히 냉정한 태도를 가젓다. 왕왕 위대한 靈魂은 流行的으로 그 光鋩을 頌讚밧는 것이 아니다. 이러한 절대의 刻苦奮鬪中에 混亂된 世界情勢는 그 危急을 고하는 歐洲大戰의 前夜까지에 일으엇다.
+1914년 佛蘭西翰林院은 돌연히 「롤랑」의 「쟝, 크리스토프」에 아카데미상을 授業하엿고 이여서 이 해에 역시 세계최고의 文藝賞인 노-벨賞을 밧게 되엿다. 「롤랑」에게 잇어서는 실로 축복되여야 할 1914년이엇다. 그러나 대세는 므듸여 戰慄할 만한 砲火와 殺戮의 血腥이 淋漓를 植하엿다.<276>
+톨스토이의 人類的精神을 繼承한 「롤랑」은 맹렬한 反戰을 提唱하자, 國外로 瑞西에 추방되여 가지고 그는 「戰亂을 超越하야」라는 격렬한 논설을 瑞西의 신문에 揭載하면서 이 정신에 共鳴할 동지를 구하엿다. 그는 자기와 동일한 思想을 가진 하우푸트만에게 열열한 贊同을 구햇고 社會主義的詩人 벨하-령에게 檄하엿스나 그의 기도에 洽足한 동지를 엇지 못하엿다.
+그는 世界大戰에서 더욱 科學文明에 대한 극도의 懷疑를 가지게 되엿다. 그는 드듸여 東洋思想-印度哲學에 몰두하게 되엿으며 「간듸」를 崇慕하게 되엿다. 그리하야 그는 「간듸-傳」까지를 쓰게 된 것이다. 그러나 그는 새로운 人類歷史의 創造에 대하야 全生命을 밧치는 바 血誠을 가젓다. 그의 思想이 實踐性에 결핍하다고 하더라도 그가 참다운 인간사회에게 지대한 감격을 주고도 남음이 잇다. 追放 20년의 그는 1931년 「過去와의 訣別」을 써서 그의 이때까지의 思想的見地에 대한 새로운 創意를 선언하엿고 뒤이여 「苦鬪十五年」을 써서 그의 人間的苦憫의 全面貌를 彷彿히 하엿다.
+그는 今年朝鮮的計算에 의하면 70高齡이다. 그럼에도 불구하고 그의 인류의 理想實現을 위한 鬪志는 더욱 熾烈할 뿐이다. 20世紀의 偉大한 인간 참다운 英雄-「로맹, 롤랑」의 生涯는 아직도 吾人에게 새로운 曙光을 약속하여 준다.
+11, 5日
+
+(後記)이 一文은 극히 조잡하게 그의 生涯를 소개하는 정도에 끈치고 말엇다. 그의 思想的背景 또는 그의 藝術에 대해서는 후일을 기하야 발표하랴고 한다.<277>
+<253-277>

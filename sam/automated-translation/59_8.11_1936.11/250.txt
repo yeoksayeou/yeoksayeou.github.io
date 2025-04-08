@@ -1,0 +1,88 @@
+Magazine Title: 삼천리 제8권 제11호
+Publication Date: 1936년 11월 01일
+Article Title: 「劇硏」에서 戱曲賞制度를 創設 (Play Award System Established by the "Kŭgyŏn")
+Author: None specified
+Article Type: 소식 (News/Announcement)
+
+Establishment of a Play Award System by the "Kŭgyŏn"
+
+It is reported that the Theater Arts Research Association (劇藝術硏究會) has established the "Kŭgyŏn Play Award" (劇硏戱曲賞) system and decided to hold a public call for the first play submissions according to the following regulations, in order to discover hidden playwrights.
+
+One. Scope: Number of acts unlimited (Performance time approximately 2 to 3 hours)
+One. Theme: Free (Consideration should be given to realism enabling performance in Chosŏn (朝鮮))
+One. Submission Deadline: By the last day of October, Showa 11 (1936)
+One. Receiving Office: Literary Department, Theater Arts Research Association, within T'aehwa Girls' School (泰和女子?), Insadong (仁寺町), Kyŏngsŏng Prefecture (京城府)
+One. Judging: The Association's "Play Award Judging Committee" (戱曲賞審査委員會)
+One. Award: Play Award Plaque and Prize Money of One Hundred Won (百圓)
+One. Announcement Date: End of November, Showa 11 (1936), in various newspapers
+For details, inquire at the said Association's office, enclosing return postage (返信料金).<144>
+
+**Summary**
+
+The Theater Arts Research Association ("Kŭgyŏn") announced the creation of the "Kŭgyŏn Play Award" to discover new playwrights. The article details the rules for the first public competition: unlimited acts (2-3 hour performance time), free theme (but realistic and performable in Korea), a deadline of October 31, 1936, submission details (at T'aehwa Girls' School in Insadong, Seoul), judging by an internal committee, and a prize of a plaque plus 100 Won. The results were to be announced in newspapers by the end of November 1936. For historians, this article documents cultural activity by Koreans during the Japanese colonial period, specifically the establishment of a literary/theatrical prize. The requirement for "realism enabling performance in Chosŏn" might hint at navigating censorship or reflecting the specific social conditions of colonial Korea. The location (T'aehwa Girls' School, associated with the March 1st Movement) and the prize amount also provide context.
+
+**Named Entities**
+
+劇硏	극연	Kŭgyŏn (Abbreviation for Theater Arts Research Association)
+劇藝術硏究會	극예술연구회	Kŭgyesul Yŏn'guhoe (Theater Arts Research Association)
+朝鮮	조선	Chosŏn (Korea)
+昭和	쇼와	Shōwa (Japanese era name)
+京城府	경성부	Kyŏngsŏng-bu (Keijō Prefecture / Colonial Seoul)
+仁寺町	인사동	Insadong (Neighborhood in Seoul)
+泰和女子?	태화여자관	T'aehwa Yŏja Kwan (T'aehwa Girls' School - assuming ? is 舘/館)
+
+**Glossary**
+
+戱曲賞制度	희곡상제도	Play award system
+創設	창설	Establishment, founding
+拔擢	발탁	Selection, discovery (of talent)
+爲하야	위하여	For the sake of (older spelling/form of 위하여)
+左	좌	Below, the following (used to introduce a list)
+規程	규정	Regulations, rules
+公募	공모	Public call for submission/application
+되였다	되었다	Became, was decided (older spelling of 되었다)
+場數	장수	Number of acts/scenes (in a play)
+無制限	무제한	Unlimited
+上演	상연	Theatrical performance, staging
+程度	정도	Degree, extent, level, approximately
+題材	제재	Theme, subject matter
+考慮	고려	Consideration, thought
+期限	기한	Deadline, time limit
+末日	말일	Last day (of a month)
+受理	수리	Receipt, acceptance (of applications/submissions)
+?內	관내	Within the jurisdiction/precinct of (likely 館內 - within the building/institution)
+文藝部	문예부	Literary Department
+審査	심사	Judging, screening, examination
+該會	해회	The said association/meeting
+?賞	수상	Award, prize (likely 受賞 or 授賞)
+賞牌	상패	Award plaque
+賞金	상금	Prize money
+百圓	백원	One Hundred Won/Yen
+發表	발표	Announcement, presentation
+各新聞紙上	각 신문지상	In various newspapers
+詳細	상세	Details
+事務所	사무소	Office
+返信料金	반신요금	Return postage
+添付	첨부	Attachment, enclosure
+問議	문의	Inquiry (older spelling/form of 문의)
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제11호
+발행일	1936년 11월 01일
+기사제목	「劇硏」에서 戱曲賞制度를 創設
+기사형태	소식
+
+「劇硏」에서 戱曲賞制度를 創設
+劇藝術硏究會에서는 「劇硏戱曲賞」制度를 創設하고 숨은 劇作家의 拔擢을 위하야 左의 規程대로 第1回作戱曲을 公募하기로 되였다고 한다.
+
+一. 募, 場數  無制限(上演時間 2時間-3時間 程度)
+一. 題材  自由(朝鮮서 上演可能의 現實性을 考慮할 일)
+一. 募集期限  昭和11년 10月末日까지
+一. 受理  京城府仁寺町 泰和女子?內 劇藝術硏究會 文藝部
+一. 審査  該會 「戱曲賞審査委員會」
+一. ?賞  戱曲賞牌와 賞金百圓
+一. 發表期日 昭和11년 11月末日 各新聞紙上
+詳細 該會事務所에 返信料金를 添付하야 問議할 것.<144>

@@ -1,0 +1,101 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1941-04-01
+Article Title: 尿病과 性病의 惱憫을 秘密히 治療함=自療法의 實際 (Secretly Treating the Anguish of Urinary and Venereal Diseases = The Practice of Self-Treatment)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/article)
+
+**Body Text Translation:**
+Literature on Pathology and Treatment Explanations (Free presentation to those who apply describing their disease name and condition)
+
+Acute and chronic nephritis (督廢炎), cystitis (膀䏯炎), [obscured] gland inflammation (■謨腺炎, likely prostatitis), gonorrhea (滑病), diabetes (消渴), hematuria (血尿), bedwetting (寢小便), and genital diseases (生殖器病) are caused by factors such as colds (感胃), getting chilled (冷込), fatigue (退勞), exhaustion from military service (兵役의 衰弱), unhealthy lifestyles (不攝生), or related to other illnesses and food (患病及食物의 關係等). Additionally, invasion by E. coli (大腸菌) or tuberculosis bacteria (結核菌), and infection with gonorrhea poison (淋毒), etc., are extremely common.
+Any of these are troublesome, intractable diseases (難病) that are difficult to cure easily. They worsen again due to [obscured] changes (■■의 變化) and neglecting one's health (不養生), and easily cause dangerous [obscured] complications (危險■發症). It is truly regrettable that very many long-suffering patients (從來羅患者) wander among various therapies and ultimately find no effect, worrying without others knowing. However, these diseases (本病) are definitely not incurable (不治), and are fully curable diseases, so one must absolutely undergo fundamental treatment (根本治療) with an accurate treatment method (正確한 治療法) without letting the disease condition (病勢) worsen.
+The Jiryōdō Urology Drug Specialty Clinic (自療堂泌尿藥專門院) at Nishi Sannen-zaka, Oka Kōen, Wakayama City (和歌山市岡公園西三年阪), which has been repeatedly introduced in this magazine (本誌上) for its research on urinary and venereal diseases and self-treatment methods (自療法) and has an excellent reputation (大端評判), has published treatment literature (療法文獻, fixed price 35 sen [錢]) for regrettable chronic patients, explaining in greatest detail and kindness various symptoms (病狀), causes (原因), [obscured] methods (■生法, likely health maintenance methods), dietary regimens (食物養生法), special drug therapies (特殊의 藥劑療法), etc. Aiming for the relief (救濟) of patients with intractable diseases, being wholeheartedly devoted (全部秘心하고), please write urgently (至急히) mentioning that you saw this in the April issue of the 16th year of Samch'ŏlli (三千里十六年四月號) for each disease and symptom.
+Fortunately, there are truly many letters reporting full recovery (全快體狀) from those overjoyed that the intractable disease they suffered from for years (年來) was completely cured (完治) at home (自宅에서) and does not recur (再發하지안는다). We earnestly urge (간절히 勸합니다) everyone to use this therapy as quickly (速히) as possible, even for a moment (一刻이라드).<140>
+
+**Summary**
+
+This article is an advertisement from the April 1941 issue of the Korean magazine *Samch'ŏlli* for the Jiryōdō Urology Drug Specialty Clinic in Wakayama, Japan. It promotes a self-treatment guide (available for 35 sen) for various urinary and venereal diseases, including nephritis, cystitis, gonorrhea, diabetes, and genital diseases. The ad emphasizes the difficulty of curing these conditions, the social stigma attached ("worrying without others knowing"), and claims its methods offer a complete, at-home cure without recurrence, citing numerous testimonials. It lists causes like colds, fatigue, military service exhaustion, unhealthy lifestyles, and bacterial infections.
+
+From a historical perspective, the article is interesting as it advertises a Japanese clinic and its mail-order treatment guide to a Korean audience during the late colonial period, showing cross-border medical marketing within the empire. The mention of "exhaustion from military service" as a cause reflects the increasing mobilization pressures of the time. The focus on self-treatment and secrecy highlights contemporary social anxieties surrounding diseases like STDs and the potential limitations or distrust of available healthcare options for Koreans.
+
+**Named Entities**
+
+和歌山市岡公園西三年阪 自療堂泌尿藥專門院	와카야마시 오카 공원 니시 산넨자카 지료도 비뇨약 전문원	Wakayama-shi Oka Kōen Nishi Sannen-zaka Jiryōdō Hinyōyaku Senmon'in
+
+**Glossary**
+
+尿病	뇨병	Urinary disease (Older term)
+性病	성병	Venereal disease
+惱憫	뇌민	Anguish, worry (Older term for 고민)
+秘密히	비밀히	Secretly (Modern: 비밀히/비밀리에)
+自療法	자료법	Self-treatment method
+實際	실제	Reality, practice
+督廢炎	독폐염	Nephritis (Likely an older or specific term for kidney inflammation)
+膀䏯炎	방광염	Cystitis (Bladder inflammation; 䏯 seems a variant/error for 胱)
+滑病	활병	Gonorrhea (Lit. "slippery disease")
+消渴	소갈	Diabetes (Lit. "wasting thirst")
+血尿	혈뇨	Hematuria (Blood in urine)
+寢小便	침소변	Bedwetting (Enuresis)
+生殖器病	생식기병	Genital disease
+感胃	감위	Cold, flu (Possibly combining symptoms of cold and stomach upset)
+冷込	냉込	Getting chilled (Possibly related to Japanese 冷え込み 'hiekomi' or a Korean coinage)
+退勞	퇴로	Fatigue, exhaustion (Older term for 피로)
+衰弱	쇠약	Weakness, debilitation
+不攝生	불섭생	Unhealthy lifestyle, intemperance
+患病	환병	Suffering from illness
+食物	식물	Food (Modern Korean 식물 primarily means 'plant')
+關係等	관계등의	Relations, etc. (Includes archaic Hangul vowel ㆎ represented as )
+淋毒	임독	Gonorrheal poison/infection
+難病	난병	Intractable disease
+곤치기	곤치기	To cure (Older form of 고치기)
+不養生	불양생	Neglecting one's health
+從來羅患者	종래라환자	Long-suffering patients (羅 likely used for 罹 'suffer from')
+療法	요법	Treatment method
+效力	효력	Effect, efficacy
+다른 사람모튼게	다른 사람 모르게	Without others knowing (Older spelling/phrasing)
+決코	결코	Never (Older spelling)
+不治	불치	Incurable
+充分히	충분히	Sufficiently, fully
+반듯이	반드시	Surely, certainly (Older spelling)
+根本治療	근본치료	Fundamental treatment
+本誌上	본지상	In this magazine
+屢屢紹介	누누소개	Repeatedly introduced
+大端評判	대단평판	Great reputation
+爲하여	위하여	For the sake of (Older spelling)
+病狀	병상	Symptoms, condition
+藥劑療法	약제요법	Pharmacotherapy, drug treatment
+錢	전	Jeon/Sen (Currency unit, likely Japanese Sen here)
+難病者	난병자	Patients with intractable diseases
+救濟	구제	Relief, salvation
+秘心	진심(?)	Wholeheartedly (Interpretation of 秘心, possibly 盡心)
+至急히	지급히	Urgently
+便紙	편지	Letter (Older term/Hanja spelling for 편지)
+年來	연래	For years
+自宅에서	자택에서	At home
+完治	완치	Complete cure
+再發	재발	Recurrence
+全快體狀	전쾌체장	Letter/report of full recovery
+實로	실로	Truly, really
+一刻이라드	일각이라도	Even for a moment (Older particle ending)
+速히	속히	Quickly
+勸합니다	권합니다	Recommend, urge
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제4호
+발행일	1941년 04월 01일
+기사제목	尿病과 性病의 惱憫을 秘密히 治療함=自療法의 實際
+기사형태	잡저
+
+尿病과 性病의 惱憫을 秘密히 治療함=自療法의 實際
+
+病理療病解說의 文獻(病名과 容態를 記載하여 申込하는이에게 無代進呈)
+
+急性慢性의 督廢炎 레후로-제ㆍ膀䏯炎ㆍ■謨腺炎ㆍ滑病ㆍ消渴ㆍ血尿ㆍ寢小便ㆍ生殖器病은  感胃와 冷込 退勞 兵役의 衰弱 不攝生 或은 患病及食物의 關係等 原因이며 또 大腸菌 結核菌의 侵入 淋毒의 感染等이 大端히많습니다.
+어느것이나이런 것은 시끄럽게 難病으로 容易히곤치기어렵고 ■■의 變化와 不養生으로 다시 惡化하며 危險■發症을 일으키기쉬웁다. 從來羅患者는 여러 가지 療法에 방황하여 結局은 效力이없어 다른 사람모튼게 惱憫하는사람이 非常히 많은 것은 참으로 유감이다. 가장 本病은 決코 不治는아니고 充分히 곤칠 수 있는 病인고르 반듯이 病勢를 일으키지않고 正確한 治療法으로 根本治療를하지않으면 안된다.
+尿病과 性病의 硏究와 自療法으로 本誌上에 屢屢紹介하여 大端評判이좋은, 和歌山市岡公園西三年阪 自療堂泌尿藥專門院은 유감인 慢性病人을 爲하여 여러 가지 病狀 原因 ■生法 食物養生法 特殊의 藥劑療法等을 가장 詳細히 親切히 解說한 療法文獻(定價三十五錢)을 發行하여 難病者救濟를 目的으로 全部秘心하고 各病各症狀을 三千里十六年四月號에서보았다고 써서 至急히 便紙하여주시오.
+多幸히 年來고생하는 難病이 自宅에서 完治하고 再發하지안는다고 大端히기뻐하는 全快體狀이 實로 많이있습니다. 여러분 一刻이라드 速히이療法을 쓰시기를 간절히 勸합니다.＜140＞
+＜140＞

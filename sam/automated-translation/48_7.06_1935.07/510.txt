@@ -1,0 +1,55 @@
+Magazine Title: 삼천리 제7권 제6호
+Publication Date: 1935년 07월 01일
+Article Title: 價格表(笑話) (Price List (Joke))
+Article Type: 잡저 (Miscellaneous Writing)
+
+Price List (Joke)
+
+To a young man asking for the hand of Rich Man Choe's daughter:
+
+"So, you say you want to become my son-in-law. Before that, there's something I must ask. When I marry off my daughters, I send them all off with a dowry (持叅金). For my third daughter, who is eighteen this year, it's 10,000 won; for my second daughter, who is twenty, it's 20,000 won; for my eldest daughter, who is twenty-eight, it's 30,000 won. And if you take my wife, I'll give you half my fortune (財産). What do you say? Which will you choose?" <237>
+
+**Summary**
+
+This short piece presents a joke where a wealthy father, "Rich Man Choe," outlines the dowries he will provide for his daughters of different ages to a prospective son-in-law. The dowry amount increases significantly with the daughter's age, culminating in an offer of half his fortune if the suitor takes his wife instead. The joke humorously commodifies marriage and family members, assigning monetary value based on perceived desirability (or the father's eagerness to marry them off). From a historical perspective, the joke touches upon marriage customs (dowries - 持叅金), reflects contemporary perceptions of wealth and marriage as a transaction, and uses humor to comment possibly on changing social values or the perceived burden of older unmarried daughters (and perhaps even wives) in 1930s Korea. The specific monetary values (10,000 to 30,000 Won, plus half a fortune) also offer a glimpse into economic scales or aspirations of the time, even within a humorous context.
+
+**Named Entities**
+
+崔富者	최부자	Choe Puja (Rich Man Choe)
+
+**Glossary**
+
+價格表	가격표	Price list
+笑話	소화	Joke, funny story
+崔富者	최부자	Rich Man Choe (likely a generic term)
+請婚	청혼	Marriage proposal
+엇던가	어떤가	How about it? What do you think? (Older spelling/form)
+몬저	먼저	First (Older spelling)
+무러볼	물어볼	To ask (Older spelling/form)
+出家식히는데	출가시키는데	When marrying off (a daughter) (出家 literally means leaving home, often for monastic life, but here used for marriage)
+모다	모두	All, entirely
+持叅金	지참금	Dowry (money/goods brought by a bride, but here given by the father *with* the daughter)
+주어보낸단	주어보낸다는	(He) says he gives and sends off (Older spelling/form contraction)
+열여들	열여덟	Eighteen (Older spelling)
+셋재딸	셋째 딸	Third daughter
+스물나는	스물 나는	Who is twenty (Older spelling/form)
+둘재딸	둘째 딸	Second daughter
+스물여덜나는	스물여덟 나는	Who is twenty-eight (Older spelling/form)
+막딸	맏딸	Eldest daughter (Note: 막딸 usually means youngest daughter, but the age progression 18 -> 20 -> 28 implies this must mean the eldest, perhaps a regional or older usage, or simply an error in the original text; context points to eldest).
+안해	아내	Wife
+자저가 준다면	데려가 준다면	If you take (her) (자저가 is likely a dialectal or older form of 데려가)
+財産	재산	Property, fortune, assets
+골늘터인가	고를 터인가	Will you choose? (Older spelling/form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제6호
+발행일	1935년 07월 01일
+기사제목	價格表(笑話)
+기사형태	잡저
+
+價格表(笑話)
+崔富者 딸에게 請婚하는 청년에게
+「엇던가, 자네가 내 사위되려 한다지. 그보다 몬저 무러볼 말은 나는 出家식히는데 모다 持叅金을 주어보낸단 말이야. 올해 열여들 나는 셋재딸엔 1만원 스물나는 둘재딸엔 2만원 스물여덜나는 막딸에는 3만원 그리고 내 안해를 자저가 준다면 내 財産의 절반을 줄테야. 엇든가 어느 것을 골늘터인가.」 <237>

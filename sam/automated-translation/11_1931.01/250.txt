@@ -1,0 +1,51 @@
+Magazine Title: 삼천리 제11호
+Publication Date: 1931년 01월 01일
+Article Title: 謝告 (Apology Notice)
+Author: 三千里社白 (From the Samch'ŏlli Company)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+謝告 (Apology Notice)
+
+Regarding the December issue, as some may know, due to a truly unexpected incident, although printing was almost entirely completed, we were unable to mail it out. During this time, we received various pressing letters from our esteemed readers, and we are extremely sorry (罪悚萬萬) for not being able to reply to each one individually. Henceforth, there will absolutely not be such an occurrence where the month's magazine does not come out within that month, so we humbly ask for your generous forgiveness (容怒) just this once.
+From the Samch'ŏlli Company (三千里社白) <57>
+
+**Summary**
+
+This notice is an apology from the Samch'ŏlli Company to its readers for failing to distribute the December 1930 issue of the *Samch'ŏlli* magazine, despite it being nearly fully printed. The company attributes this failure to an unspecified "unexpected incident" and expresses deep regret for not being able to respond individually to reader inquiries. They promise that such delays will not happen again and ask for the readers' understanding. From a historical perspective, the vague mention of an "unexpected incident" preventing publication hints at the precarious environment for Korean publishers during the colonial period, possibly alluding to censorship, financial difficulties, or other external pressures imposed by the authorities, without explicitly stating the cause. The direct apology also highlights the relationship publishers tried to maintain with their readership.
+
+**Named Entities**
+
+三千里社	삼천리사	Samch'ŏllisa
+
+**Glossary**
+
+謝告	사고	Apology Notice
+거지반	거의 반	Almost; Nearly half (older spelling/usage for '거의')
+애독자	애독자	Esteemed readers; Loyal readers
+諸氏	제씨	Gentlemen; Everyone (honorific plural suffix)
+독촉	독촉	Urging; Pressing; Demanding
+글월	글월	Letter; Writing (respectful term)
+밧고도	받고도	Even after receiving (older spelling of 받고도)
+회답	회답	Reply; Answer
+드리여	드리어	To give (humble form, older spelling of 드려)
+罪悚萬萬	죄송만만	Extremely sorry; Deeply apologetic (emphatic expression)
+今後	금후	From now on; Hereafter
+업겟사니	없겠으니	As there will not be (older spelling and grammar of 없겠으니)
+절대로	절대로	Absolutely; Never
+널니	널리	Widely; Generously (older spelling of 널리)
+容怒	용노	Forgiveness; Understanding (likely used similarly to 용서)
+주시압소서	주시옵소서	Please give/grant (highly respectful imperative ending, older form)
+白	백	From; States (used after an organization's name in formal notices)
+
+
+---------------------------
+
+
+잡지명	삼천리 제11호
+발행일	1931년 01월 01일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+지난 12월호는 아시는 이나 알는지 시로 천만 의외의 일로 인쇄까지 거지반 다하고 발송치 못하엿삽. 그동안 애독자 諸氏로부터 여러 가지로 독촉하는 글월을 밧고도 일일히 회답을 못하여 드리여 罪悚萬萬이외다. 今後로는 그 달 잡지가 그 달에 아니 나올 그런 일이 절대로 업겟사니 이번만 널니 容怒하여 주시압소서.
+三千里社白 ＜57＞

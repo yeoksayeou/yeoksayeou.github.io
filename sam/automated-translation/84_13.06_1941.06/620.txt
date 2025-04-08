@@ -1,0 +1,1642 @@
+Magazine Title: 삼천리 제13권 제6호
+Publication Date: 1941년 06월 01일
+Article Title: 戱戱曲 放浪詩人 金삿갓 (Playful Drama: The Wandering Poet Kim Sakkat)
+Author: 宋影 (Song Yŏng)
+Article Type: 희곡·시나리오 (Play/Scenario)
+
+戱戱曲 放浪詩人 金삿갓
+						宋影 (Song Yŏng)
+
+Explanation
+
+Kim Sakkat's real name was Kim Pyŏngyŏn (金柄淵). He was born about 135 years ago from now, on the 13th day of the 3rd month of the Chŏngmyo year (丁卯年) (around 1805 AD, during the late Yi Dynasty, reign of King Sunjo). At that time, the rotten politics that had persisted for hundreds of years had reached its peak (factional strife, purges of scholars, rule by the queen's relatives, etc!).
+
+Among these, one of the biased political practices of the time, the old custom that "Northwestern people should not be appointed to important positions" (「西北人勿爲重用」), was particularly causing public resentment (民怨). This policy, "Northwestern people should not be appointed to important positions," was established out of the groundless fear that power would be usurped because there were many great talents among the Westerners (people from Hwanghae and P'yŏngan Provinces) and Northerners (people from Hamgyŏng Province). The first to raise the banner of revolt against this was the Hong Kyŏngnae Rebellion (洪景來亂) in P'yŏngan Pukto (Sinmi Rebellion, 辛末叛亂).
+
+Kim Pyŏngyŏn's grandfather, Kim Ik-sun (金益淳), was serving as the Anju Pyŏnbangsa (安州邊防使, Frontier Defense Commander of Anju) (also called Sŏnch'ŏn Pusa, 宣川府使, Governor of Sŏnch'ŏn) at the time. In the middle of the night, while deeply asleep after heavy drinking (大醉), he was captured (捕虜) by Hong Kyŏngnae's forces and unavoidably surrendered.
+
+Because of this, after the rebellion was suppressed, Kim Ik-sun was executed (處刑), and his descendants became a ruined family (廢族) <280> (from the time of the 5th generation descendant, Kim Yŏngjin (金榮鎭) (Kim Sakkat's grandson) (currently living), the path to success in official life (榮達) was reopened). Pyŏngyŏn was a man of outstanding literary talent (文才) but could not be appointed to office (等用) because he was from a ruined family. Due to this, he became pessimistic about the world (비관하고서), put on a "sakkat" (삿갓, bamboo hat), wandered for his entire life, and died away from home (客死) in the Tongbok region of Chŏlla Namdo.
+
+When Constructing the Play
+
+1.  I did not focus heavily on facts (partly because the facts are not originally passed down) but rather strove only to express the atmosphere of that era through the life (emotions) of Kim Sakkat. Therefore, an excessive amount of romanticism (浪漫) flows through it.
+2.  Regarding whether Sakkat had a stable family or not, due to his status as belonging to a ruined family, historians hold different views (or rather, assumptions (想定)). However, I concluded (단정했다) that he must have had a home, even if it was a hidden one (隱家). And Koksan is the place where he lived when he was raised by his servant (從僕) Kim Sŏngsu. However, for the needs of the play's structure, I temporarily assumed (假定했다) his family was there.
+3.  The incident at the writing contest (백일장), the event at the gisaeng Kyehyang's house, and the reunion (해후하다) with Ŭmjŏn are also purely facts created from my imagination (공상).
+4.  For the top prize poem (狀元詩) at the writing contest, although in reality it would have been an examination poem (科詩), I substituted one of his nature poems (自然詩), specifically the exquisite (묘하고도) and popular (통속적인) Snow Scene Poem (雪景詩).
+5.  And regarding the dialogue terms (even the tone of speech (어투)) of the characters of that time, I tried as much as possible to evoke the scent of that era, but inevitably, modern language is occasionally mixed in, which makes me feel very uncomfortable (매우 마음에 찌부드드하다). - Author -
+
+Time: Late Yi Dynasty, Reign of King Sunjo (around 1804 AD)
+Place: Chosŏn (朝鮮)
+Characters
+Kim Sakkat (Pyŏngyŏn, 炳淵)
+Kim An'gŭn (金安根) (his Father)
+Kim Ikkyun (金翼均) (his Second Son) - [Note: Seems possibly related to Kim Ik-sun or another character; does not feature later]
+Kim Sŏngsu (金聖秀) (the Servant who raised him)
+Pyŏngyŏn's Wife (炳淵夫人)
+Governor of Koksan (谷山府使)
+Chinsa (進士) (Scholar who passed the lower civil service exam)
+Magistrate (縣令) (Neighboring county)
+Ch'osi (初試) (Scholar who passed the initial exam stage)
+Ibang (吏房) (Clerk of Personnel)
+Yun Sŏngsun (尹誠淳) (Governor's son)
+Village Elder (村老人)
+His Wife (老妻)
+His Daughter (Ŭmjŏn, 音全이)
+Kyehyang (桂香) (Famous Gisaeng, 名妓)
+Her Mother
+Owol (五月) (Female Servant, 女婢) <281>
+Minister Kim (金判書)
+Scholar Wŏn (元生員)
+Junior Officer Mun (文僉知)
+Scholar Sŏ (徐進士)
+Old Fisherman (漁翁)
+Woodcutter Boy (樵童)
+Village Maidens (Tansun, 丹順; Punok, 粉玉)
+Mountain Bandit (山賊)
+Woodcutter (樵夫)
+Others
+Gisaeng, Drunken Guests, Villagers, Many Confucian Scholars (儒生), Large Crowd (群衆)
+
+Prologue
+Characters
+Kim Sakkat
+Woodcutter Boy (樵童)
+Old Fisherman (漁翁)
+
+Curtain Opens
+Stage: Black curtain
+A poem is written large and posted (His Poem Chanting of the Hat, 詠笠詩)
+浮浮我笠等虛舟 (My floating, floating hat, like an empty boat,)
+一着平生四十秋 (Wearing it once, a lifetime of forty autumns.)
+
+牧竪輕裝隨野犢 (The shepherd boy, lightly clad, follows the wild calf,)
+漁翁本色伴白鷗 (The old fisherman's true nature accompanies the white gull.)
+
+醉來脫掛看花樹 (When drunk, I take it off and hang it to see the flowering trees,)
+興到携登翫月樓 (When excitement comes, I carry it up to gaze at the moonlit pavilion.)
+
+俗子衣冠皆外飾 (The worldly man's robes and hats are all external adornments,)
+滿天風雨獨無愁 (Amidst sky-filling wind and rain, I alone have no sorrow.)
+Kim Sakkat (Chants the poem above)
+
+From stage left (下手), a Shepherd Boy (牧童) carrying a fodder basket (꼴망태) enters and listens.
+Woodcutter Boy: Who are you?
+Kim Sakkat: It's me.
+Woodcutter Boy: Who is 'me'?
+Kim Sakkat: Sakkat.
+Woodcutter Boy: Isn't a sakkat something you wear?
+Kim Sakkat: What one wears is a sakkat, but I too am Sakkat.
+Woodcutter Boy: What?
+Kim Sakkat: (Laughs loudly, 阿阿大笑)
+Woodcutter Boy: Why do you just laugh?
+Kim Sakkat: Isn't the world laughable?
+Woodcutter Boy: What are you talking about? <282>
+Kim Sakkat: This is all talk laughing at the world.
+Woodcutter Boy: What do you do for a living, sir?
+Kim Sakkat: I am a person who lives wearing only a sakkat.
+Woodcutter Boy: Why do you only wear a sakkat?
+Kim Sakkat: Why do you wear a sakkat?
+Woodcutter Boy: Since I carry a rake and basket, and drive calves, what else would I wear but a sakkat?
+Kim Sakkat: (Recites softly) The bushy-haired cowherd carries a whip (챗죽) and wears a sakkat, the old fisherman on the riverbank (강포) holds a fishing rod and wears a sakkat... But listen. The sakkat I wear, I hang it on flower branches when pleasantly drunk (만취되여), and when excitement arises in the middle of the night, I take it off and carry it to go view the moon.
+Woodcutter Boy: What?
+Kim Sakkat: 醉來脫掛看花樹 (When drunk, I take it off and hang it to see the flowering trees,)
+興到携登翫月樓 (When excitement comes, I carry it up to gaze at the moonlit pavilion.)
+
+From stage right (上手), Old Fisherman enters carrying a fishing rod.
+Old Fisherman: Whoever you are, you recite well.
+Woodcutter Boy: He says he's an elder who lives inside a sakkat.
+Old Fisherman: Lives inside a sakkat? Hey there! Whose household are you from?
+Kim Sakkat: Sakkat.
+Old Fisherman: You mean you have no family name or given name?
+Kim Sakkat: What value is a name that cannot make itself known widely (헛날니지 못하는)?
+Old Fisherman: Why can't you make it known? You look like you know your letters (글짜). Why don't you take the state examination (과거) and try to rise in the world and make a name for yourself (입신양명)?
+Kim Sakkat: Hmph...
+Old Fisherman: Why do you just laugh?
+Woodcutter Boy: This elder laughs at the drop of a hat, you know.
+Old Fisherman: Why?
+Woodcutter Boy: (Mimicking Sakkat's tone) The world is laughable, so how can one not laugh?
+Kim Sakkat: ...
+Old Fisherman: Ah ha! Now I see, old brother, you are no ordinary sakkat-wearer.
+Kim Sakkat: The sakkat is an ordinary sakkat, but there's a separate reason why I wear it.
+Old Fisherman: What reason is that?
+Kim Sakkat: A sakkat is also official attire. A formal hat (갓), a crown (冠), a straw hat (草笠), or a wide-brimmed hat (風子) are all official attire (衣冠). However, all other kinds of official attire are "things for outward show" (것치장거리) worn to display one's prominence to others, but this sakkat alone is not like that. Even jade crowns (玉冠子) and gold crowns (金冠子), and even humble felt hats fear the rain and snow, but doesn't this sakkat alone fear neither rain, nor snow, nor wind?
+Old Fisherman: Is that the only reason?
+Kim Sakkat: (Chants)
+俗子衣冠皆外飾 (The worldly man's robes and hats are all external adornments,)
+滿天風雨獨無愁 (Amidst sky-filling wind and rain, I alone have no sorrow.)
+Old Fisherman: I feel like that's not the only reason.
+Kim Sakkat: Actually, it's not. I wear it because I hate looking at the sky.
+Woodcutter Boy: Why do you hate looking at the bright blue sky?
+Kim Sakkat: I wear it because I hate looking at the world. <283>
+Old Fisherman: Why do you say you hate looking at the world?
+Kim Sakkat: Ask the world.
+Woodcutter Boy: How can I ask the world?
+Kim Sakkat: Then try asking this sakkat.
+Woodcutter Boy: What? Really, sir!
+Old Fisherman: Hey now, stop talking such nonsense and tell us straight, please! It's frustrating!
+Kim Sakkat: If you're frustrated, then follow the fish caught on your hook and head out to the vast and boundless (浩浩滄滄한) sea. Go on.
+Old Fisherman: Hey, what is all this talk?
+Kim Sakkat: This is all the talk of the sakkat, Hmph...
+Old Fisherman: That fellow must be mad.
+Kim Sakkat: The whole world is twisted (빗틀니고) and distorted (찌그러젔는데), so how can you tell me to live straight (뚝바로)?
+Woodcutter Boy: Then tell me, why did you come to wear the sakkat?
+Kim Sakkat: You want to know that much?
+Old Fisherman: Truthfully, I'm curious.
+Kim Sakkat: (Recites softly) The lowliest among official attire is the sakkat. The "outcast child" (어붓자식) of the world is also the sakkat. Can anyone wearing a sakkat put on airs (뽑내지) saying, "Look at me"? The sakkat's companions are, at best, a calf or a fishing rod. A rake or a hand hoe (호미). A humble hut (오막사리) or the servants' quarters (행낭방).
+- This is why I am Sakkat -
+Within the sakkat that receives only contempt (賤待) and ridicule (嘲弄), I shall instead mock them! Woodcutting boy!
+Woodcutter Boy: (Looks up)
+Kim Sakkat: Hunchbacked fisherman!
+Old Fisherman: (Approaches)
+Kim Sakkat: Do you really want to know that much about 'why I live wearing a sakkat'? Then I will roughly tell you my story. The story I tell is the sakkat's story. The sakkat is me. I am the sakkat. Now, listen well.
+- Dark (暗) -
+Sound of traditional music (Effect, 効果)
+
+Act One: The Reason for Wearing the "Sakkat"
+Scene One: The Writing Contest (白日場)
+Characters
+Kim Pyŏngyŏn (金炳淵), 23 years old
+Governor Yun (尹府使), 60 years old
+Magistrate (縣令) (Neighboring county), 55 years old
+Chinsa (進士), 62 years old
+Ch'osi (初試), 59 years old
+Yun Sŏngsun (尹誠淳) (Governor's son), 25 years old
+An Old Man (엇던 노인), 60 years old
+Ibang (吏房), 40 years old <284>
+Attendant (通引), around 20
+Servant (使令), around 30
+Gisaeng (妓生), around 20
+Musician (樂士), middle-aged
+Many young Confucian Scholars (儒生)
+Some spectators, men and women
+Stage: A pavilion (亭子) in the center.
+Left is a flat rock, right are green pines (靑松).
+Writing Contest (百日場)
+On the pavilion stage (亭上), the Governor of this prefecture sits with neighboring county magistrates (隣邑方伯) and village elders (村翁) (Ch'osi, Chinsa, Saengwŏn, etc.) seated in rows (列座). Below the stage (亭下), general officials (官屬) and young Confucian scholars fill the seats (滿座).
+Musicians (樂士) are on one side.
+Gisaeng (government entertainers) stand in attendance (侍立) on the stage. Attendants (通引).
+Scholars arrange their writing boxes (筆匣).
+Some tap their brushes (붓방아를 찧다) when ideas don't come.
+Some submit their finished works to the stage.
+Kim Pyŏngyŏn (Sakkat) is crouched (웅크리고) in a corner.
+On a pillar hangs the poetry theme (詩題): "Snow Scene" (雪景).
+- Light (明) -
+Wind and music sounds end.
+On the stage, the examinations (考試) are conducted.
+They pass poems around, murmuring.
+Below the stage, scholars filled with anxiety (焦慮) and unease (불안) whisper (수군거린다).
+Time: Late spring afternoon.
+Chinsa: (Reads one piece several times, then slaps his knee)
+People on stage fix their gaze there.
+Chinsa: (Giving it to the Governor) Your Excellency, please look at this. Truly, it is a phoenix (鳳) mixed among chickens, jade (玉) buried among pebbles.
+Governor: (Reads it silently) Ahh... indeed, what literary skill! To think that such an outstanding talent (秀才) exists in our district is truly beyond my wildest dreams.
+Magistrate: It is all due to Your Excellency the Governor's achievement of good governance (善治之功).
+Ch'osi: Indeed it is.
+People below the stage become tense.
+Governor: Hmph... Not at all. Then shall we make this the top winner (壯元)?
+Chinsa: With literary talent (文才) like this, even if he goes up to Hanyang, he's sure to win the top prize at the Alseong examination (알성장원).
+Governor: Hmph... Another renowned statesman (名相) will emerge. Hmph... But what about the others?
+Chinsa: (Picking up another sheet he had set aside) Next, this one is at least somewhat passable (免無識). We have no choice but to pick this one for second place (부장원), even if forced.
+Governor: (Looking at it) (Comparing it to the one in his hand) How much difference is there compared to this one?
+Chinsa: Well, they are incomparable. Truly, there is a heaven-and-earth difference (천양지차). <285>
+Ch'osi: (Having read it at some point) Humph! Is this even writing? Ah, truly clumsy (拙劣) beyond compare.
+Governor: Then, Your Excellency, let's just select one top winner (都壯元). (Picks up the poem deemed clumsy and throws it among the pile of rejected entries) Get rid of this. Now, make the announcement.
+Chinsa: (Stands up) Yes. Hey there... The top winner will now be announced. This new winner, the author of this poem, is an extraordinary talent (기재) of the world, a future renowned statesman. If you hear it recited, you will all gauge (斟酌) its quality, but the writing is as vast (浩瀚) as the sea, and the spirit as grand (웅장) as a great mountain. Every year, our district has produced not a few new talents, but never an outstanding literary talent like this new top winner. Truly unprecedented and unrepeatable (前無後無). Everyone, lend your ears and respectfully listen to this new writing. Now, before announcing the name, I will recite the poem. Girls!
+Gisaeng 1, 2: Yes... (Step forward and receive the poem sheet) (The two gisaeng clear their throats and recite together in harmony)
+Snow Scene (雪景) (In Tang recitation style, 唐吟體)
+飛來片片 三春蝶 (Fluttering flakes arrive, butterflies of the third spring month,)
+踏去聲聲 六月蛙 (Stepping sounds echo, frogs of the sixth summer month.)
+寒將不吉 多言雪 (The cold portends misfortune, much-spoken-of snow,)
+醉或以留 更進杯 (Perhaps stay due to drunkenness, offer another cup.)
+On and below the stage, the air is filled with emotion, admiration (美仰) (mixed with jealousy, 猜忌).
+Governor: (Slapping his knee) Exactly, exactly! The falling snowflakes look like white butterflies fluttering in the third spring month, and the sound of stepping on snow is indeed like the croaking of frogs in summer. Yes, exactly, exactly!
+Ch'osi: Truly exquisite, exquisite (절묘절묘)!
+(The gisaeng return the poem sheet to the Chinsa and step aside)
+Chinsa: Now, let's reveal (띠여 보시도록) the name.
+Governor: Let's do so. Whose descendant could it be? Hey—
+Ibang: Yes... (Receives the poem sheet from the Chinsa and unfolds the back)
+Ibang: Koksan Kim Pyŏngyŏn (谷山 金炳淵), Kim Pyŏngyŏn.
+Servant: (Muttering) Koksan Kim Pyŏngyŏn, Kim Pyŏngyŏn. (His expression changes, but he doesn't show it.)
+Kim Pyŏngyŏn stands up.
+Everyone looks at him.
+Governor: Tell him to come up.
+Ibang: Kim Pyŏngyŏn! Top Winner Kim Pyŏngyŏn!
+(Raises his hand)
+(Servant raises his hand)
+Military music (吹打) plays.
+Kim Pyŏngyŏn ascends to the stage (亭上).
+Gisaeng guide (welcome) him.
+Yun Sŏngsun (Governor's son) sits with his head bowed.
+Kim Pyŏngyŏn bows (挹) to the Governor and others and stands.
+Military music stops.
+Governor: Who did you say you were?
+Kim: I am Kim Pyŏngyŏn. <286>
+Governor: Our eyes were dim, discovering a literary talent (文章) like you so late.
+Kim: I am overwhelmed with gratitude. Though I am still young (年少) and, moreover, possess shallow learning and meager talent (淺學菲才), despite my limitations (不願하온), I humbly ask for punishment (請罪) for this student's (侍生) audacity (당돌하옴).
+Governor: Don't be too modest (謙辭).
+Chinsa: "The mind of deference and humility (辭讓之心) is the foundation of propriety (禮之端)"—indeed, it should be so—What texts have you read?
+Kim: Nominally, I have pretended to read the Seven Classics (七書), the Book of Rites (禮記), the Spring and Autumn Annals (春秋), the Brief History (史畧), and poetry and prose-poetry (詩賦). However, I have not yet attained the mastery of entering the inner room (入室之妙).
+Ch'osi: Ah, not only his writing but also his speech is excellent. His manner (態) of responding readily to questions (應口輒對) has the style of Su Qin and Zhang Yi (蘇張).
+Magistrate: His face also has the appearance of an immortal sage (仙風道骨). They say "Body, speech, writing, judgment" (身言書判)—was this phrase indeed meant for this person? Hmph...
+Governor: Who is your father?
+Kim: His name is An (安) followed by Kŭn (根).
+Governor: An'gŭn, Kim An'gŭn—Who is Kim An'gŭn? (Aside, 倚白) What does your esteemed father do?
+Kim: He is just at home.
+Governor: Kim An'gŭn! Does anyone happen to know him?
+Chinsa: (As if remembering) Wait a moment. Kim An'gŭn? Kim An'gŭn, Kim An'gŭn... Then, hey you.
+Kim: Yes.
+Chinsa: Who is your grandfather (祖父)?
+Kim: (Hesitates to answer immediately)
+Chinsa: What is his esteemed name?
+Kim: (Summoning courage) It is Ik (益) followed by Sun (淳).
+Chinsa: (Startled) Kim Ik-sun! Kim Ik-sun! What government post did he hold?
+Kim: I am told he served as the Anju Pyŏnbangsa (安州邊防使).
+Chinsa: What? You say you are the grandson of Anju Pyŏnbangsa Kim Ik-sun?
+Governor: What? You mean Kim Ik-sun who surrendered to the traitor (逆賊) Hong Kyŏngnae?
+Magistrate: What kind of incident (變) is this? If he surrendered to a traitor, he is also a traitor. How can the child of a traitor hold his head up and walk around? Huh?
+Ch'osi: If he was a traitor, wouldn't his three generations (三族) have been exterminated (滅)? How can his descendant be alive?
+Kim: (Confidently) This student (侍生) is certainly the descendant of the Anju Pyŏnbangsa. The state decreed that my grandfather's (한아버님) fault (허물) ended with his generation, and from my father onwards, we are considered to have no connection to it.
+Governor: I don't want to hear it. Even if you received His Majesty's (상감마마) great benevolence (鴻恩) and avoided punishment (刑罰), you are still the children of a criminal. What a disgraceful (괫심한) fellow! Relying on your meager talent (才操), how dare you presumptuously (엉강생심) show your face in such a gathering (좌석)?
+Chinsa: Absolutely. Look here, Pyŏngyŏn. You are the children of a ruined family (廢族). Having committed a crime that fills heaven and earth, with what sense of shame (염치) do you try to stand shoulder-to-shoulder with the people of the world?
+Ch'osi: Then you should consider your status!
+Magistrate: Your Excellency the Governor, please take swift action (措處). I cannot bear being under the same roof (簷下) as the son of a criminal; I am truly fearful and apprehensive (悚懼). <287>
+Governor: Get down immediately!
+Kim: If you command me to go down, I shall go down, but are you not being excessively biased (偏僻)?
+Governor: What? You insolent pup!
+Chinsa: He truly has the blood of a traitor; his audacity (放孜) is boundless.
+Governor: Throw this fellow down!
+Ibang: The order is to throw him down!
+Servant: Yes, sir! (Drags Kim down)
+Kim: On the verge of tears, he falls prostrate (업푸러진다) at the foot of the stairs (階下).
+Governor: Listen here, fellow. Your crime of deceiving the eyes of those high and low and acting presumptuously (外濫) is not light, but considering today's auspicious occasion and thinking commendably (가상히) of your meager talent (才操), I grant you a special pardon (赦). From now on (從此 이후로), go into the mountains and spend the rest of your life (여생) among nameless woodcutter boys and herdsmen (樵童牧夫). I believe this is the duty (도리) you ought to uphold.
+"That's the traitor's son," the crowd (群衆) murmurs and points fingers (손꼬락질).
+Governor: Everyone, listen. Kim Pyŏngyŏn, who won the top prize today, is the descendant of Kim Ik-sun, who was part of the clique (도당) of the traitor Hong Kyŏngnae, who started a rebellion in Yonggang (龍岡), P'yŏngan-do 15 years ago, in the Sinmi year (辛末). Although he avoided the calamity affecting three generations (三族之患) thanks to the state's great benevolence (鴻恩), is he not still the son of a traitor? For this reason, today's top prize is hereby nullified (말살).
+Chinsa et al.: Your words are most proper (지당하신)! (Throwing down the poem sheet) Here! Take it away!
+Kim: (Receives the poem sheet and tears it up like a madman, 밋친듯이) What use is this? Where is such a law? What connection is there between a fault in one's ancestors and oneself?
+Is there no law by which mulberry fields become blue sea (桑田碧海), and magpies (烏鵲) become phoenixes (鳳凰)?
+Governor: Say no more!
+Kim: How can I not speak? Having suffered such a wrongful matter, how can I remain silent like a mute (벙어리)? Your Excellency (상공)! All you esteemed sirs seated filling the high seats (당상)! How can your hearts be so narrow? Is it not the duty of all you sirs to foster (북돋아 주다) the growing new sprouts (자라나는 새싹)? With what intention do you try to trample down (짓밟으시려고) with your stubborn (완고하신) large feet this newly emerged, weak (軟弱) sprout that knows nothing of the seasons (아무 철 모르는)?
+Governor: What is this fellow saying?
+Chinsa et al.: That fellow is insolent!
+Kim: (In a tearful voice) I am merely a youth (弱冠) who knows nothing. However, having roughly read the old books, I can gauge (斟酌) what kind of people our ancestors were. Our ancestors were merely rotten scholars (腐儒) bound only by chapters and verses (章句).
+Only when criticizing others, only when scheming against (모해하다) and destroying (멸망시키다) others according to the principle "Books are books, I am I" (書自書我自我), did they invoke (꾀차들고) the words of sages and worthies. When faced with their own actions, or rather, with the righteous affairs of the nation as a whole, they cast aside the words of the sages. What are Easterners (東人)? What are Westerners (西人)? <288> What are Noron and Soron (老論少論)? What are Bone North and Flesh North (骨北肉北)? Why can you not think more broadly, support and push forward good people, instead of just pressing them down and eliminating them (짓눌러 없새려고)? Is this merely the Way of the Gentleman (君子之道) possessed by the yangban folk (양반네)?
+Governor: (Throw that fellow out!)
+Servant: You scoundrel, go! (Pushes his back)
+Kim: (Exits crying) Is there a law that says the son of a bad person must always remain bad? (Exits weeping)
+For a short while, the sound of his weeping and desperate struggle (발악) is heard. (The shouting/blustering sounds (부락대는 소리) of the servants are also heard.)
+Ch'osi: What an insolent fellow.
+Magistrate: Are you just letting such a fellow go?
+Governor: I'll just consider that indignant (억에 올른) fellow a mad puppy (밋친 강아지).
+Chinsa: Then what shall we do about today's top prize (壯元)?
+Governor: Well...
+Magistrate: In my opinion, we cannot fail to produce a winner on such a day, so how about elevating the one previously marked for second place (副장원) to the top prize?
+Governor: You mean that clumsy (拙劣) poem from earlier?
+Ch'osi: Well, compared to Kim Pyŏngyŏn's poem it might be clumsy, but compared to the other poems, it could serve as the top prize.
+Magistrate: Hmph... It's a matter of using a chicken instead of a pheasant.
+Governor: Alright then, since it's getting late, please find that poem from earlier.
+Chinsa: (Finds it)
+Governor: (To the Ibang) Announce that we are awarding the top prize again.
+Ibang: Yes! Attention everyone! Since the earlier winner's writing belonged to a ruined family (廢族), it has been cancelled, and we will now announce the top prize anew.
+Chinsa: Girls! (Gives the poem sheet)
+Gisaeng 1, 2: Yes. (Receive it) (They read it silently to themselves, frown displeasedly (찌프리고), and cannot bring themselves to read it aloud)
+Chinsa: Read it quickly!
+Gisaengs: Yes—
+Snow Scene (雪景) (By Yun Sŏngsun, 尹誠淳 作)
+(They read it carelessly, without sincerity, 성의없이)
+梨花三日皆骨山 (Pear blossoms for three days, all are bone mountains,)
+小鳥迷巢松林間 (Small birds lose their nests among the pine forest,)
+二三學友終日遊 (Two or three school friends play all day,)
+落照紅顔詠歌還 (In the setting sun, rosy-cheeked, they return singing.)
+(People on stage pout their lips, 입들을 내민다)
+People below stage murmur (수군거린다).
+Chinsa: That will suffice. Now, quickly open the seal (개봉) and call the name (호명).
+Ibang: Yun Sŏng— (Cannot finish calling the name and looks up at the Governor)
+Governor: Call it out loudly!
+Ibang: Yun Sŏngsun! Yun Sŏngsun!
+Servant: Yun Sŏngsun! Yun Sŏngsun!
+The young Yun Sŏngsun stands up. <289>
+Chinsa: Ah, now I recognize him, he is the Governor's son (자제)!
+Governor: Oh, not at all, hahaha...
+Ch'osi: Somehow, although the writing seemed clumsy (拙劣), it felt grand (웅장).
+Magistrate: I thought so too. The more I hear and think about it, the more my head naturally bows. It certainly contains the poetic style of Li Bai (李太白).
+Governor: Please don't overdo it.
+Chinsa: I was extremely sorry (罪悚) earlier.
+Ch'osi: Truly, I meant to say it seemed clumsy yet grand, but I only ended up saying clumsy. Please don't misunderstand.
+Magistrate: "Like father, like son" (乃父乃子), how could the Governor's son be ordinary (범연)?
+An Old Man (Standing in the crowd, laughs loudly) A jeering (揶諭) laugh. Hmph...
+All turn their attention!
+Governor: What is that over there, making such a loud laugh?
+Ibang: Who is it?
+Old Man: (Laughs louder) Hmph...
+Ibang: Why are you laughing?
+Old Man: I laugh because it's laughable. (Stands up)
+Ibang: Laughable?
+Old Man: Since ancient times, it's said that even if the mouth (주라) is crooked (삐뚜른), the trumpet should be blown straight. But you people up there, with your straight-torn (뚝바로 찌저진) mouths, speak only crooked words, so it's quite laughable to hear. Hmph...
+Governor: (Angrily) What? What did you say?
+Old Man: (In a more imposing voice) What do you mean, what? Is there a law that sets aside the real winner and makes someone undeserving the winner again? "Two or three school friends play all day" (二三學友와 終日遊)—is that supposed to be poetry? Hmph...
+Chinsa: Who are you?
+Old Man: Before trying to find out who I am, first know who you are. You so-called head magistrates and governors of a district (一邑首令方伯), or scholars of a village, acting like yangban, are in reality like tavern girls with oiled heads and powdered faces (油頭粉面), fawning (알진거리) this way and that... Hmph... It's so dirty, it's laughable.
+Magistrate: Have you ever seen such a crazy old man?
+Governor: Hey! Seize that crazy old fellow and throw him down (잡어없찔러라)!
+Ibang: Hey!
+Servant: Yes! (Rush over and seize the old man)
+Old Man: Hmph...
+Governor: Who are you?
+Old Man: My name is not high, but my heart is high. A straightforward old man.
+Governor: Before whom do you think you are acting so frantically (발악)?
+Old Man: What do you mean, before whom? I think it is before corrupt officials (貪官汚吏) who are ignorant of large matters and fuss only over small ones.
+Governor: Have you ever seen such a fellow deserving death! Beat that fellow to death at once (대매에 때려죽여라)!
+Old Man: Hmph...
+Chinsa: Your Excellency, that fellow's crime indeed warrants immediate death by beating (타살), yet <290> however, on an auspicious occasion like this, awarding (卓杖) new talent, it would be somewhat inauspicious (불길). How about imprisoning him for now (一段 下獄)—
+Magistrate: That seems like a good idea.
+Governor: Aigh, the anger! Hey! Lock that crazy old thing up tight (단단히 가두어뒤라)!
+Ibang: Lock him up!
+Servant: Yes!
+Old Man: (More calmly, yet passionately) Prison? I'd go even to hell with you. I have nothing to fear! But do you people even know why Hong Kyŏngnae became a traitor?
+It was because the rotten, biased (偏僻) politics of "Northwestern people should not be appointed to important positions" (西北人勿爲重用) had flowed down for hundreds of years.
+Why were people from the west and north not given official posts, no matter how talented (才操) they were? Because of this, northwesterners could not display their loyalty even if they had it, and could not exercise their statesmanship (經綸) even if they possessed it.
+Where is the law that says only the son of a yangban can become a yangban, and the son of a commoner must always remain a commoner?
+Wasn't the Hong Kyŏngnae rebellion the explosion of such accumulated discontent?
+Furthermore, regarding Kim Ik-sun, the grandfather of the young Kim Pyŏngyŏn who won the prize just now, he was merely captured by them in the middle of the night while lying drunk.
+Does being captured necessarily mean surrender? And does surrender necessarily make one a traitor?
+Governor: Quickly drag him out!
+Servant: (Drags him away)
+Old Man: Ah, when will these rotten politics ever become enlightened? Hmph... (Is dragged out)
+Governor: That fellow is no ordinary man.
+Magistrate: Perhaps he's one of Hong Kyŏngnae's remaining followers (餘黨).
+Chinsa: What's the point of making an issue (탄해서는) of the words of some crazy old thing? Come now, let's quickly perform the auspicious ceremony (吉例).
+Governor: Let's just cancel (거더 치우시요) today's top prize altogether.
+Chinsa: No, Your Excellency. Where is there a writing contest without a winner? That would truly become a disgrace (羞恥) to our district.
+Ch'osi: The Chinsa's words are most proper (지당하심니다).
+Magistrate: Indeed! By the way, Your Excellency, in this humble official's (小官) opinion, since the day is growing late, how about proceeding directly with the procession (行列)?
+Chinsa: Indeed, that would be best.
+Governor: Let's do as you wish.
+Chinsa: (Signals to the Ibang)
+Ibang: Everyone listen! The procession for today's winner, Yun Sŏngsun, will now begin!
+Governor: The procession!
+As the sound of military music (吹打) begins—the stage darkens—
+In the darkness, the sound of military music continues, gradually fading. <291>
+
+Scene Two: Moonlit Night
+Stage: Same as above
+That night
+As the round moon rises over the mountain ridge beyond the pavilion, the stage gradually brightens. (Gradual light, 溶明)
+Kim Pyŏngyŏn, wearing a sakkat, sits facing away, towards the moon.
+The sound of a cuckoo (뻑국새). From afar, the sound of refined music (雅樂) can be heard from Governor Yun's house, where a banquet (壯元宴) celebrating his son's top prize is underway.
+Characters Appearing
+Kim Pyŏngyŏn
+His Wife
+His Eldest Son (Infant, 乳兒)
+His Father (Kim An'gŭn)
+Kim Sŏngsu (His Servant)
+An Old Man's Wife
+His Daughter (Ŭmjŏn, 音全)
+Villager 1, 2, 3
+Drunken Old Man (醉翁)
+- Light (明) -
+Villager 1: (Entering from stage left, 下手) Hurry up, man!
+Villager 2: (Following) What's the rush?
+Villager 1: We might as well go quickly and get at least one more drink.
+Villager 2: You pig, all you know is getting free stuff.
+Villager 1: Why are you going then?
+Villager 2: I'm going to watch the gisaeng dance.
+Villager 1: Don't be ridiculous, what do gisaeng have to do with you?
+Villager 2: Can't I even watch?
+Villager 1: You'll just get more upset.
+Villager 2: Still, just feasting my eyes (눈요기) makes me feel a bit refreshed.
+Villager 1: What a child fit to be fried in dung water (똥물에 튀길 자식)! Others win the top prize at our age and feast all night, while your eyes just bulge out for sightseeing.
+Villager 2: If you put it that way, aren't you and I both the same? A child who gets fired up over one cup of bitter rice wine (탁백이) and runs off unable to sleep soundly...
+Villager 1: Hah...
+Villager 2: You laugh so pitifully.
+Villager 1: But they say he's not actually the real winner.
+Villager 2: Even so, they say a fake yangban winner is better than a real commoner winner.
+Villager 1: That Kim Pyŏngyŏn was certainly wrongfully eliminated.
+Villager 2: Wrongful or rightful, let's just hurry up and go.
+A drunken village elder stumbles out from stage right (上手), singing with slurred speech (혀꼬부라진).
+Villager 1: You seem quite drunk!
+Villager 2: Uncle, where have you been? <292>
+Village Elder: I went to join someone else's fun and had a drink.
+Villager 1: It's quite a grand affair, they say.
+Village Elder: They say the entertainment (노리) will last all night, so isn't it grand? Hmph, they had all kinds of food there.
+Villager 2: If it's like that just for winning a writing contest, what would happen if someone really won the top prize in the state examination (과거)?
+Village Elder: What would happen? They'd start thinking, "How can I make the lives of the common people miserable?"
+Villager 1: Aww, damn it! If only we had studied, we could have won the top prize too.
+Village Elder: Hey, hey! Don't you ever let such words cross your lips again.
+Villager 2: Why not?
+Village Elder: Even if you become a yangban, you die in yangban fights.
+Villager 1: Still, that's better than being a commoner and being killed by a yangban. We'll be back.
+Village Elder: Have a good time. (His words trail off into song)
+Villager 1, 2: Exit stage right (上手).
+Village Elder: Sings as he exits stage left (下手).
+Kim: (Stands up and turns around. Takes off his sakkat.)
+(Filled with悲憤慷慨, sorrowful indignation) Hmmph! This damned world is too much! (Laughs pathologically between words) Hmph... Sakkat! I trade the world for you.
+(Facing the direction of the music) Having a grand time, aren't they? (Louder) Having a grand time!
+Sounds of people approaching from stage left.
+Kim: (Quickly crouches down in a corner)
+The Old Man's Wife and her daughter Ŭmjŏn enter.
+Ŭmjŏn: Mother, where exactly are you going?
+Old Wife: Let's go and plead, whether it works or not.
+Ŭmjŏn: What good will it do going in the middle of the night like this?
+Old Wife: Still, shouldn't we go when he's happy because of his son?—Aigoo, your father is truly a crazy old man! Why on earth did he defend (역성들어) a traitor and resist (항거) the yangban?
+Ŭmjŏn: But since they set aside the real winner, wouldn't anyone be angry?
+Old Wife: Aigoo, I don't want to hear any more. In a world where one can't even put out the fire on one's own back (등의 불도 다 끄지 못하는 세상), how can meddling in others' affairs (남의 참견) be right? Let's hurry.
+Ŭmjŏn: Alright, let's go.
+Old Wife: If the Magistrate (삿도) doesn't investigate our situation, then let's, mother and daughter, really go together into the prison where your father is.
+(Mother and Daughter exit weeping towards stage right, 上手)
+Kim Sŏngsu, the servant who raised Pyŏngyŏn, enters from stage left (下手) with Villager 3.
+Villager 3: No matter how much I looked, I couldn't find any trace of him.
+Sŏngsu: Oh dear, this is serious.
+Villager 3: Well, just considering what happened earlier, the young master must have been furious (화통이 터지셨겠지만) in his youthful energy, but he doesn't seem like the type to harbor harsh <293> feelings.
+Sŏngsu: Well, in my opinion too, the young master doesn't seem like he would do the act of a weak-willed woman (속중이 아녀자의 짓은 아니 하실 듯 한데).
+Villager 3: Still, you never know with people's affairs. He even wrote a note and left, didn't he?
+Sŏngsu: Whether it's a suicide note (유서) or a farewell letter (작별서), I don't know, but anyway, the phrase "I will turn my back on this world" is there.
+Villager 3: Then he must have passed away. Doesn't turning one's back on the world mean that?
+Sŏngsu: Keep searching quickly. You go that way. I'll search around here.
+Villager 3: Alright then. Aigoo, what a wrongful world this is. (Exits stage right, 上手)
+Sŏngsu: (Searches briefly, then spots Kim Sakkat on the pavilion)
+Who's there?
+Kim: —
+Sŏngsu: Who is it?
+Kim: —
+Sŏngsu: What kind of drink did you have that you can't even take off your sakkat and are all curled up? Hey!
+Kim: —
+Sŏngsu: Hey! (Goes up) (Sees the hem of his robe)
+That sakkat-wearer is strange. Wearing a scholar's robe (창의) and a sakkat. Hey! (Removes the sakkat) Ah! Young Master!
+Kim: Leave me alone.
+Sŏngsu: What kind of foolishness is this?
+Kim: I feel like I could go mad.
+Sŏngsu: Young Master, don't entertain foolish thoughts for no reason. Since the world is already like this, what use is there in thinking resentfully about it anew?
+Kim: It's not resentment, it's indignation and anger! (Stands up) Grandfather! Grandfather, you are my benefactor and my elder brother. If you hadn't saved and raised my brother and me, I wouldn't even have seen this much of the world. But Grandfather, I actually resent you. Did you raise me just to play the role of this kind of outcast child (어붓자식) in this kind of world? Grandfather, why did you raise me like this? Why did you teach me to read? Grandfather!
+Sŏngsu: Young Master, don't grieve too much. No matter how long the dark night lasts, surely the dawn (새벽) won't fail to come altogether? Young Master, think firstly of the Master and Mistress, and also of the young mistress (새앗씨) and the young master (새 도련님), and please return home (宅).
+Kim: I will not go back.
+Sŏngsu: Then how will they live at home? It's not just you, Young Master, who receives contempt from the world.
+The entire Kim family receives it.
+In times like these, isn't it the duty of a son (人子) to rely on each other and live while consoling one another?
+Kim: I am not a son (人子). The child of a traitor is... Hmph... the child of a traitor! <294>
+Sŏngsu: Young Master, then what do you intend to do?
+Kim: I will begin a fight with the world.
+Pyŏngyŏn's Father, Kim An'gŭn, appears beside the pavilion and eavesdrops on their conversation.
+Kim: I will twist (비꼬고) and pinch and tear apart (꼬집어 뜨들려오) the world as I please. I will play with it like a puppet (망석중이). I will rip into shreds (갈기갈기 찌저서) and expose (들처내 버릴려오) all the pent-up (응묻친) ugliness (醜惡) deep inside.
+If they attack with power, I will counter with terrifying mockery (戱謔). If they approach wearing formal hats (갓) and crowns (관), I will face them wearing this sakkat.
+Grandfather, turning one's back on the world doesn't mean dying.
+It means becoming a party of one and fighting against the world.
+The sun and moon are birds in a cage (籠中鳥), heaven and earth (乾坤) are floating duckweed (流萍草). This pathetic world isn't even difficult to kick around like a pebble.
+Sŏngsu: Young Master, please still go home.
+Right now, everyone in the entire household is weeping and searching because of you alone, Young Master.
+Kim: Still, I won't go back.
+Sŏngsu: Still, you must go back.
+An'gŭn: (Wipes his eyes with his sleeve) (Steps forward)
+It's alright if you don't come back.
+Sŏngsu: Master!
+Kim: Father!
+(The two descend from the pavilion, 亭下)
+An'gŭn: Pyŏngyŏn, if you truly hate staying put, I will watch over the house in your stead. Even crows and magpies have nests; just because we are a ruined family (廢族), does that mean we can't have a house?
+Kim: Father!
+An'gŭn: However, since you are planning to leave like this, perhaps this might be a final parting (영 이별). So, as a last (마즈막) request, listen to one word from me. Pyŏngyŏn, this old man's heart is also filled with discontent and resentment no less than a young man's. I have received insults and contempt many times greater than what you experienced at the writing contest.
+Every single one of these wrinkles (주림쌀) is nothing but tears mixed with blood (피섞긴 눈물).
+Know at least this much before you leave.
+Kim: Father!
+Sŏngsu: Master, are you angry?
+An'gŭn: No. Our current situation is one where we cannot even afford to be angry.
+O, vast blue heaven (悠悠蒼天)! O, indifferent blue heaven! (Looks up at the empty sky)
+Kim: Father, I truly cannot bear it.
+An'gŭn: (Changes the subject) I have one more request.
+Meet your wife one last time, exchange farewells, and then part. Your discontent is your discontent, but what sin has your wife committed?
+Cuckoo sound (뻑국새 소리)
+Kim: I will meet her.
+An'gŭn: Father Sŏngsu, go over there and bring the young mistress (새앗씨). She is probably standing crying, looking this way. <295>
+Sŏngsu: Yes. (Exits stage left, 下手)
+An'gŭn: Your wife is truly praiseworthy (갸륵하다) and more. Everyone refused marriage proposals, calling our family a ruined family.
+But didn't your wife voluntarily come into our house?
+Not to mention your father-in-law and mother-in-law (장인 장모)—all the relatives on her side (처가) opposed it. Yet, didn't your wife overcome all difficulties and become your wife?
+Do you have the courage to leave such a wife behind alone?
+Kim: (Tempted for a moment, then resolves himself)
+Father, please say no more. (Bows his head)
+An'gŭn: (Turns away and wipes tears) Alright.
+Kim's wife, carrying the baby, enters with Sŏngsu.
+An'gŭn: My dear, your husband is leaving. Say your farewells. He says he is not dying.
+His Wife: (Bows her head, silently wiping tears)
+Kim: (Returns the bow)
+- Pause -
+An'gŭn: (Looking at the baby) Your father is leaving. He's leaving towards the world.
+Say goodbye to your father.
+Say, "Father, farewell. When I grow up, I will completely avenge the resentment of my grandfather and father." Say it... Hah...
+Aigoo, the little thing can't even talk, just grinning... Hmph...
+(Goes up onto the pavilion)
+Sŏngsu stands beside the pavilion.
+Kim: My dear, I am truly sorry.
+Let us meet again someday.
+His Wife: Please take good care of your health (옥체나 보중해 주셔요).
+Kim: (Bows to An'gŭn) Father, may you live a long and healthy life (만수무강하옵소서).
+An'gŭn: Don't lose to the world.
+Kim: Grandfather, stay well (태평히 계슈).
+Sŏngsu: Young Master, take care of yourself.
+Kim: (Puts on his sakkat and quickly walks up the path beside the pavilion)
+Sŏngsu follows him.
+An'gŭn turns away.
+His Wife covers her eyes.
+Kim Sakkat pauses briefly on the path and looks back.
+Sound of traditional music.
+Kim: (Recites softly) 浮浮我笠等虛舟 (My floating, floating hat, like an empty boat,) 一着平生弄世周 (Wearing it once, a lifetime playing with the world.)
+Sŏngsu stands on the path above. An'gŭn finally turns, grasps a pillar, and gazes at the place where Pyŏngyŏn went.
+Music fades, cuckoo sound.
+- Curtain -
+
+Act Two: Wearing the "Sakkat"
+Time: 20 years later <296>
+
+Scene One: Group Scene (群像)
+Stage: Rear garden (後園) of the famous gisaeng (名妓), Kyehyang's house. A wooden platform/bench (平床) in front of a thatched pavilion (草堂). To the left, a low fence and a wattle gate (싸리짝 문); the fence is low enough for passersby's heads to be visible outside.
+To the right, a door leading to the inner quarters.
+On the pavilion floor (초당마루), a Kŏmun'go (玄琴), poetry books (詩書), brush and ink (筆墨), etc., are placed, indicating what a famous gisaeng skilled in song, dance, talent, and beauty (歌舞才色) she is. Time is late spring, now late afternoon.
+Characters
+Kim Sakkat
+Minister Kim (金判書)
+Scholar Wŏn (元生員)
+Scholar Sŏ (徐進士)
+Junior Officer Mun (文僉知)
+Kyehyang (桂香)
+Kyehyang's Mother
+Female Servant Owol (女婢 五月)
+Curtain Opens
+Kyehyang is playing the kŏmun'go at the edge of the pavilion floor. The female servant Owol runs out from inside.
+Owol: Miss! Miss!
+Kyehyang: Yes?
+Owol: He's here! He's here again!
+Kyehyang: What do you mean, "he's here," without rhyme or reason?
+Owol: Scholar Wŏn's house sent rice cakes, meat, silk, just a whole palanquin's (轎子) worth, a huge amount!
+Kyehyang: (Scoffs, 鼻笑) Hmph, what a crazy fellow.
+Owol: Aigoo! Why do you insult such a kind gentleman?
+Kyehyang: What's kind about him?
+Owol: Well, what could be kinder than just giving things?
+Kyehyang: I don't want to hear it.
+Owol: You're just being difficult. Why do you always torment people like this, Miss?
+Kyehyang: What?
+Owol: Never mind. (Exiting) What a crazy fellow. Why does he keep bringing things and causing trouble for others too? (Exits)
+Kyehyang: What a foolish girl (망쇠계집애). (Comes down into the garden) (Recites a sijo poem under her breath)
+Kyehyang's Mother: (Enters hurriedly, flustered (허둥지둥), holding silk (緋緞)) Hey, Kyehyang! Kyehyang!
+Kyehyang: (Pretends not to hear, turns away and strokes a flower blossom)
+Kyehyang's Mother: Kyehyang! Is this child deaf? I say, hey, Kyehyang! (Approaches her)
+Kyehyang: What's the fuss (야단이슈)? <297>
+Kyehyang's Mother: Look, Scholar Wŏn sent this kind of silk again!
+Kyehyang: So what do you want me to do?
+Kyehyang's Mother: My goodness, where else could such fortune be found?
+Kyehyang: Hmph. (Scoffs)
+Kyehyang's Mother: Hey, what on earth are you supposed to be? Is everything "Hmph"?
+Kyehyang: Hmph.
+Kyehyang's Mother: "Hmph" again! Hey, what are your insides (오장) made of, why are you like this? Since you're already registered as a gisaeng (妓籍), shouldn't you live like one?
+Kyehyang: How?
+Kyehyang's Mother: What do you mean, how? You need to quickly pick out a big one (큼직한 것)! Hey, haven't you heard the saying, "No flower stays red for ten days" (花無十日紅)?
+Kyehyang: Hmph.
+Kyehyang's Mother: I don't know. If you won't have him (안가지면), I will. Who knows what will happen later?
+Kyehyang: Hmph.
+Kyehyang's Mother: You think only you can say "Hmph"? I know it too. I know. Thanks to having a good daughter, Hmph, only silk comes my way, Hmph! (Exits)
+Kyehyang: (Sighs)
+Owol: (Runs in) Miss! Miss! He's here again! He's here again!
+Kyehyang: What is it this time?
+Owol: This time, Scholar Wŏn himself has really come.
+Kyehyang: So what am I supposed to do?
+Owol: Hurry up and fix your appearance! Goodness.
+Kyehyang: You do it.
+Owol: What business do I have?
+Kyehyang: Entertain Scholar Wŏn in my place.
+Owol: Aigoo, if only it could be like that, how wonderful would it be?
+Kyehyang: Hohoho.
+Owol: Miss, you just enjoy teasing people.
+o Kyehyang's Mother enters, escorting Scholar Wŏn.
+Kyehyang's Mother: Please come in. But my goodness, why do you keep sending things?
+Scholar Wŏn: Don't mention it.
+Kyehyang's Mother: My dear, Scholar Wŏn is here.
+Kyehyang: (Bows silently, 黙禮)
+Kyehyang's Mother: Are you mute? Just nodding your head?
+Scholar Wŏn: Just leave her be.
+Kyehyang's Mother: Aigoo, you are so fond of her.
+Scholar Wŏn: Don't tease too much. By the way, Scholar Sŏ (徐進士) and Junior Officer Mun (文僉知) will be here shortly.
+Kyehyang's Mother: Then I should prepare a drinking table (주안상).
+Scholar Wŏn: Please trouble (수고) yourself then.
+Kyehyang's Mother: Aigoo, such foolish words—Hey, Owol! Why are you standing there dazed (얼이 빠저서), just staring blankly at the Scholar?
+Owol: I'm not!
+Kyehyang's Mother: Hurry inside and prepare the wine table (약주상). <298>
+Owol: (Seemingly displeased) Yeees! (Runs inside)
+Kyehyang's Mother: Look at that foolish wench's reply! (Exits)
+Scholar Wŏn: Kyehyang.
+Kyehyang: Yes.
+Scholar Wŏn: I feel uneasy causing you so much trouble (페).
+Kyehyang: It's alright.
+Scholar Wŏn: I intend to enjoy myself here today.
+Kyehyang: Do as you please.
+Scholar Wŏn: It's no fun when you're too agreeable (싹싹해도).
+Kyehyang: Hmph.
+Scholar Wŏn: "Hmph" again? What is "Hmph" in front of an elder?
+Kyehyang: I apologize.
+Scholar Wŏn: (Sits down) Do you know why we are gathering today?
+Kyehyang: I do not know.
+Scholar Wŏn: That Scholar Sŏ and Junior Officer Mun boast so much (嬌들을 떨길내), each claiming to be the foremost literary figure, that I decided to shame them in front of you by having a drink together and composing a regulated verse (律) each.
+Kyehyang: Oh, is that so?
+Scholar Wŏn: Truly, I may not know about the rest of the world, but within this district, I don't fall behind anyone. Anyway, when I attended the village school, I was famous for often composing regulated verse and composing quickly.
+Kyehyang: It seems you resemble Cao Zhi (曹子建) and excel at composing Seven-Step Poems (七步詩).
+Scholar Wŏn: No, it's not like that, but... Hey, Kyehyang. Anyway, today I will compose far better (월등나게) than those two, so please praise me a little.
+Kyehyang: What good will my praise do you?
+Scholar Wŏn: Your praise is the best.
+Kyehyang: But how do you know if you will compose well or not?
+Scholar Wŏn: What, I guarantee it. Still, among the three of us, I am decidedly Li Bai (李太白).
+Kyehyang: Hmph.
+Scholar Wŏn: "Hmph" again? Aigoo, this little thing! (Takes out a gold ornamental ring (금패가락지) from his bosom) Here, look at this. Last month, a merchant from Nanjing (南京장사치) brought it in as treasure, and I bought it to give to you. (To be concluded in the next issue, 次號完) <299>
+
+**Summary**
+
+This text presents the beginning of a play by Song Yŏng about Kim Sakkat (Kim Pyŏngyŏn), a famous wandering poet from the late Chosŏn Dynasty. The preface explains Kim Sakkat's background: his grandfather, Kim Ik-sun, surrendered during the Hong Kyŏngnae Rebellion, leading to the family being stripped of status (廢族). Despite his talent, Kim Pyŏngyŏn faced discrimination, culminating in his rejection at a local writing contest purely due to his ancestry. Angered by this injustice and the hypocrisy of the ruling class, he decides to abandon a settled life, dons a bamboo hat (sakkat) as a symbol of defiance and social critique, and embarks on a life of wandering, using satire and mockery against the world. Act 2 begins 20 years later, showing interactions involving a gisaeng, Kyehyang, and her admirers, setting the stage for further episodes in Kim Sakkat's life. The author explicitly states the focus is on capturing the *atmosphere* of social decay and injustice of the era, particularly the discrimination against people from the northwest (Sŏbukin), rather than strict historical accuracy, employing imaginative elements within the play format.
+
+For historians, this piece offers insight into how historical figures and events like the Hong Kyŏngnae Rebellion and the associated social discrimination (废族, 西北人勿爲重用) were interpreted and dramatized during the Japanese colonial period (1941). The author's commentary reveals a conscious effort to critique past injustices of the Chosŏn era, potentially as an indirect commentary on contemporary issues, while navigating the constraints of the time. The language used, blending older Korean forms with emerging modern usage, is also of linguistic interest.
+
+**Named Entities**
+
+金삿갓	김삿갓	Kim Sakkat
+金柄淵	김병연	Kim Pyŏngyŏn
+李末 純祖朝	이말 순조조	Late Yi Dynasty, Reign of King Sunjo
+西北人	서북인	Sŏbukin
+黃海	황해	Hwanghae
+平安道	평안도	P'yŏngan-do
+咸鏡道	함경도	Hamgyŏng-do
+洪景來	홍경래	Hong Kyŏngnae
+金益淳	김익순	Kim Ik-sun
+安州邊防使	안주변방사	Anju Pyŏnbangsa
+宣川府使	선천부사	Sŏnch'ŏn Pusa
+金榮鎭	김영진	Kim Yŏngjin
+全南 同福	전남 동복	Chŏllam Tongbok
+谷山	곡산	Koksan
+金成秀	김성수	Kim Sŏngsu
+音全이	음전이	Ŭmjŏni
+桂香	계향	Kyehyang
+朝鮮	조선	Chosŏn
+金安根	김안근	Kim An'gŭn
+金翼均	김익균	Kim Ikkyun
+炳淵夫人	병연부인	Pyŏngyŏn Puin
+谷山府使	곡산부사	Koksan Pusa
+進士	진사	Chinsa
+縣令	현령	Hyŏllyŏng
+初試	초시	Ch'osi
+吏房	이방	Ibang
+尹誠淳	윤성순	Yun Sŏngsun
+村老人	촌로인	Ch'olloin
+金判書	김판서	Kim P'ansŏ
+元生員	원생원	Wŏn Saengwŏn
+文僉知	문첨지	Mun Ch'ŏmji
+徐進士	서진사	Sŏ Chinsa
+漁翁	어옹	Ŏong
+樵童	초동	Ch'odong
+丹順	단순	Tansun
+粉玉	분옥	Punok
+龍岡	용강	Yonggang
+南京	남경	Namgyŏng
+李太白	이태백	Yi T'aebaek
+曹子建	조자건	Cho Chagon
+
+**Glossary**
+
+戱戱曲	희희곡	Playful drama/farce
+放浪詩人	방랑시인	Wandering poet
+金삿갓	김삿갓	Kim Sakkat (Kim of the bamboo hat)
+解說	해설	Explanation, commentary
+本名	본명	Real name
+純祖朝	순조조	Reign of King Sunjo
+西歷	서력	Western calendar year
+썩은 정치	썩은 정치	Rotten politics
+偏僻된	편벽된	Biased, prejudiced (older form)
+西北人勿爲重用	서북인물위중용	Northwestern people should not be appointed to important positions (Policy name)
+民怨	민원	Public resentment/grievance
+洪景來亂	홍경래난	Hong Kyŏngnae Rebellion
+叛亂	반란	Rebellion, revolt
+祖父	조부	Grandfather
+邊防使	변방사	Frontier defense commander
+府使	부사	Governor
+大醉	대취	Heavily drunk
+捕虜	포로	Prisoner of war
+부득기	부득이	Unavoidably, inevitably (older spelling)
+處刑	처형	Execution
+廢族	폐족	Ruined family (stripped of status due to treason)
+榮達	영달	Advancement, success in official life
+文才	문재	Literary talent
+等用	등용	Appointment to office
+비관하다	비관하다	To be pessimistic, despair
+방랑하다	방랑하다	To wander, roam
+客死	객사	Death away from home
+構成하다	구성하다	To construct, compose
+치중하다	치중하다	To focus on, emphasize
+분위기	분위기	Atmosphere, mood
+힘을 썻다	힘을 썼다	Made an effort (older spelling)
+浪漫	낭만	Romance, romanticism
+史家	사가	Historian
+想定	상정	Assumption, supposition
+從僕	종복	Servant
+假定하다	가정하다	To assume, hypothesize
+백일장	백일장	Outdoor writing contest
+해후하다	해후하다	To reunite after a long time
+공상	공상	Fantasy, imagination
+科詩	과시	Poem for the civil service examination
+自然詩	자연시	Nature poem
+묘하다	묘하다	Exquisite, subtle, strange
+통속적	통속적	Popular, common
+어투	어투	Tone of speech, manner of speaking
+마음에 찌부드드하다	마음에 찌뿌드드하다	To feel uncomfortable/unpleasant in one's mind (older spelling/expression)
+人物	인물	Characters (in a play)
+次子	차자	Second son
+夫人	부인	Wife
+進士	진사	Holder of the lower civil service degree
+縣令	현령	County Magistrate
+初試	초시	Holder of the initial examination pass title
+吏房	이방	Clerk of Personnel
+名妓	명기	Famous gisaeng/courtesan
+女婢	여비	Female servant
+判書	판서	Minister (government board)
+生員	생원	Holder of the lower civil service degree
+僉知	첨지	Junior military officer title
+漁翁	어옹	Old fisherman
+樵童	초동	Woodcutter boy
+山賊	산적	Mountain bandit
+樵夫	초부	Woodcutter
+儒生	유생	Confucian scholar
+群衆	군중	Crowd, multitude
+序幕	서막	Prologue
+開幕	개막	Opening of the curtain/play
+詠笠詩	영립시	Poem Chanting of the Hat
+吟하다	음하다	To chant, recite (poetry)
+꼴망태	꼴망태	Fodder basket
+牧童	목동	Shepherd boy
+헛날니지 못하는	헛날리지 못하는	Unable to make known widely/show off (older spelling/expression)
+글짜	글자	Letters, writing (older spelling)
+과거	과거	State examination (for civil service)
+입신양명	입신양명	Rising in the world and making a name for oneself
+챗죽	채찍	Whip (dialectal/older form?)
+강포	강포	River inlet/bank
+만취되여	만취되어	Being heavily drunk (older spelling)
+것치장거리	겉치장거리	Things for outward show/decoration (older spelling)
+浩浩滄滄한	호호창창한	Vast and boundless (ocean)
+빗틀니고	비틀리고	Being twisted (older spelling)
+찌그러젔는데	찌그러졌는데	Being crushed/distorted (older spelling)
+뚝바로	똑바로	Straight, upright (older spelling)
+어붓자식	어붓자식	Outcast child/bastard (archaic/derogatory, contextually also 'outcast')
+뽑내지	뽐내지	To show off, boast (older spelling)
+호미	호미	Korean hand plow/hoe
+오막사리	오막살이	Humble hut, hovel
+행낭방	행랑방	Servant's quarters
+嘲弄	조롱	Ridicule, mockery
+暗	암	Dark(ness) (stage direction)
+効果	효과	Effect (sound effect)
+亭子	정자	Pavilion
+百日場	백일장	Outdoor writing contest
+方伯	방백	Provincial governor/official (archaic)
+列座하다	열좌하다	To sit in rows, be seated
+官屬	관속	Government officials/staff
+滿座	만좌	Full house, packed seats
+樂士	악사	Musician
+侍立하다	시립하다	To stand in attendance
+通引	통인	Attendant, guide
+筆匣	필갑	Writing box, stationery case
+붓방아를 찧다	붓방아를 찧다	To tap one's brush (while thinking)
+웅크리다	웅크리다	To crouch, huddle
+詩題	시제	Poetry topic/theme
+明	명	Light (stage direction)
+考試하다	고시하다	To examine, review (submissions)
+焦慮	초려	Anxiety, impatience
+수군거린다	수군거리다	To whisper, murmur
+秀才	수재	Outstanding talent, genius
+善治之功	선치지공	Achievement of good governance
+壯元	장원	Top place (in an exam/contest)
+알성장원	알성장원	Top place in the special state examination (Alseongsi)
+名相	명상	Renowned prime minister/statesman
+免無識	면무식	Barely avoiding ignorance, passable
+부장원	부장원	Second place
+천양지차	천양지차	Heaven-and-earth difference, vast difference
+拙劣하다	졸렬하다	Clumsy, poor, unskilled
+기재	기재	Extraordinary talent
+斟酌하다	짐작하다	To guess, infer, consider
+浩瀚하다	호한하다	Vast, extensive (like the sea)
+웅장하다	웅장하다	Grand, magnificent
+탁월하다	탁월하다	Excellent, outstanding
+前無後無	전무후무	Unprecedented and unrepeatable
+읊다	읊다	To recite, chant
+唐吟體	당음체	Tang dynasty recitation style
+美仰	미앙	Admiration
+猜忌	시기	Jealousy, envy
+가뜩찼다	가득 찼다	To be full, packed (older spelling)
+절묘하다	절묘하다	Exquisite, superb
+띠여 보다	떼어 보다	To detach and look (older spelling)
+吹打	취타	Traditional military music
+挹하다	읍하다	To bow respectfully
+淺學菲才	천학비재	Shallow learning and meager talent (humble expression)
+侍生	시생	Humble term for 'I' (used by students/lower officials)
+당돌하다	당돌하다	Bold, audacious, impertinent
+請罪하다	청죄하다	To ask for punishment, apologize humbly
+謙辭	겸사	Humble words, modesty
+辭讓之心	사양지심	Mind of deference and humility
+禮之端	예지단	The beginning/foundation of propriety
+入室之妙	입실지묘	Mastery (lit. subtlety of entering the inner room)
+應口輒對	응구첩대	Responding readily/aptly to questions
+仙風道骨	선풍도골	Appearance of an immortal sage
+身言書判	신언서판	Body, speech, writing, judgment (selection criteria)
+逆賊	역적	Traitor, rebel
+變	변	Incident, disaster
+滅하다	멸하다	To annihilate, exterminate
+三族	삼족	Three generations of a family
+한아버님	할아버님	Grandfather (dialectal/older form)
+허물	허물	Fault, wrongdoing
+상감마마	상감마마	His Majesty the King
+鴻恩	홍은	Great benevolence/grace
+刑罰	형벌	Punishment, penalty
+免하다	면하다	To avoid, be exempted from
+괫심한	괘씸한	Disgraceful, abominable (older spelling)
+才操	재조	Talent and skill
+엉강생심	엉감생심	How dare one even think of it, presumptuously
+염치	염치	Sense of shame/honor
+견으랴	겨누랴	To aim for, compare with (older form)
+措處	조처	Measure, action, handling
+簷下	첨하	Under the eaves
+悚懼하다	송구하다	To be fearful and apprehensive
+내려쪼차라	내려쫓아라	Drive him down/away (older spelling)
+업푸러지다	엎드러지다	To fall prostrate (older spelling)
+外濫한	외람한	Presumptuous, audacious
+가상히	가상히	Commendably, laudably
+赦하다	사하다	To pardon, forgive
+從此 이후로	종차 이후로	From now on
+樵童牧夫	초동목부	Woodcutter boys and herdsmen
+여생	여생	Remainder of one's life
+손꼬락질하다	손가락질하다	To point fingers (in scorn) (older spelling)
+辛末	신미	Sinmi Year (1811)
+도당	도당	Clique, faction, gang (negative)
+三族之患	삼족지환	Calamity affecting three generations
+말살하다	말살하다	To erase, obliterate
+지당하다	지당하다	Right, proper, justifiable
+밋친듯이	미친 듯이	Like crazy (older spelling)
+桑田碧海	상전벽해	Great changes (lit. mulberry fields become blue sea)
+벙어리	벙어리	Mute person
+상공	상공	Your Excellency/Lordship (address term)
+당상	당상	High officials
+자라나는 새싹	자라나는 새싹	Growing new sprout
+북돋아 주다	북돋아 주다	To encourage, foster, support
+軟弱한	연약한	Weak, feeble
+완고하다	완고하다	Stubborn, obstinate
+짓밟다	짓밟다	To trample down
+君子之道	군자지도	The Way of the Gentleman
+章句	장구	Chapters and verses (pedantic focus)
+腐儒	부유	Rotten/decadent Confucian scholar
+書自書我自我	서자서아자아	Books are books, I am I (separation of learning and self)
+모해하다	모해하다	To scheme against, slander
+멸망시키다	멸망시키다	To cause ruin, destroy
+꾀차들고	꿰차들고	Carrying tucked in one's belt (invoking selectively)
+老論少論	노론소론	Noron and Soron (political factions)
+骨北肉北	골북육북	Bone North, Flesh North (likely derogatory term for Northerners/factions)
+짓눌러 없새려고	짓눌러 없애려고	To press down and eliminate (older spelling)
+양반네	양반네	Yangban folks (slightly familiar/pejorative)
+발악하다	발악하다	To struggle desperately, act frantically
+부락대는 소리	부락대는 소리	Shouting/blustering sound
+억에 올른	억에 오른	Choked up with indignation (idiomatic)
+밋친 강아지	미친 강아지	Mad puppy
+吉例	길례	Auspicious ceremony/ritual
+거더 치우시오	걷어 치우시오	Clear it away, cancel it (older spelling)
+羞恥	수치	Shame, disgrace
+小官	소관	Humble term for 'I' (used by lower officials)
+行列	행렬	Procession, parade
+개봉하다	개봉하다	To open the seal (reveal name)
+호명하다	호명하다	To call out the name
+성의없이	성의 없이	Without sincerity, half-heartedly
+찌프리다	찌푸리다	To frown, grimace (older spelling)
+입들을 내민다	입들을 내민다	To stick out one's lips (pouting, displeased)
+자제	자제	Son (honorific)
+乃父乃子	내부내자	Like father, like son
+揶揄하다	야유하다	To jeer, mock, ridicule
+뭬길래	뭣이길래	What is it that... (older form)
+주라	주둥이	Mouth, snout (colloquial/vulgar)
+삐뚜른	비뚤은	Crooked, twisted (older spelling)
+찌저진	찢어진	Torn (older spelling)
+一邑首令方伯	일읍수령방백	Head magistrate and governor of a district
+油頭粉面	유두분면	Superficially decorated, foppish (lit. oiled head, powdered face)
+알진거리다	알찐거리다	To act coquettishly, fawn (likely meaning)
+잡어없찔러라	잡아엎질러라	Seize and throw down (older spelling)
+대매에 때려죽여라	대번에 때려죽여라? / 매에 때려죽여라?	Beat him to death at once / Beat him to death with a stick (meaning unclear, suggests immediate, harsh punishment)
+卓杖	탁장	Awarding the prize/honor (contextual meaning)
+불길하다	불길하다	Ominous, inauspicious
+下獄하다	하옥하다	To imprison
+가두어뒤라	가두어 두어라	Lock him up (older ending)
+餘黨	여당	Remaining members of a faction/rebellion
+탄하다	탓하다	To blame, make an issue of (contextual meaning)
+溶明	용명	Gradual brightening (stage direction)
+뻑국새	뻐꾹새	Cuckoo
+雅樂	아악	Refined court music
+壯元宴	장원연	Banquet celebrating the top winner
+乳兒	유아	Infant, baby
+醉翁	취옹	Drunken old man
+다름박질하다	달음박질하다	To run, dash (older spelling)
+탁백이	탁배기/탁주	Takju/Makgeolli (milky rice wine) (likely typo)
+튀길 자식	튀길 자식	Fry-worthy child (curse)
+눈요기	눈요기	Feast for the eyes, sightseeing
+혀꼬부라진	혀 꼬부라진	Tongue-twisted (slurred speech)
+노리	놀이	Play, entertainment, party
+삿도	사또	Magistrate (colloquial/historical)
+역성들다	역성들다	To take sides with, defend
+항거하다	항거하다	To resist, defy
+등의 불도 다 끄지 못하는 세상	등의 불도 다 끄지 못하는 세상	World where one can't even put out the fire on one's own back (idiom: minding one's own difficult business)
+남의 참견	남의 참견	Meddling in others' affairs
+화통이 터지다	화통이 터지다	To burst with anger
+속중이 아녀자의 짓	속좁은 아녀자의 짓?	Act of a narrow-minded/weak-willed woman (contextual meaning)
+유서	유서	Will, suicide note
+작별서	작별서	Farewell letter
+새벽	새벽	Dawn
+새앗씨	새아씨	Young mistress/bride (older term)
+새 도련님	새 도련님	Young master (older term)
+人子	인자	Son of man, human child
+비꼬다	비꼬다	To twist, satirize, mock
+꼬집어 뜨들려오	꼬집어뜯으려오	Will pinch and tear apart (older form)
+망석중이	망석중이	Puppet figure
+응묻친	응어리진/맺힌?	Clotted, pent-up (older form)
+醜惡	추악	Ugliness, depravity
+갈기갈기	갈기갈기	Into shreds, piece by piece
+찌저서 들처내 버릴려오	찢어서 들춰내 버리려오	Will tear apart and expose (older spelling/form)
+戱謔	희학	Jesting, mockery, satire
+籠中鳥	농중조	Bird in a cage
+乾坤	건곤	Heaven and earth, the universe
+流萍草	유평초	Floating duckweed
+굴니다	굴리다	To roll (older spelling)
+이별	이별	Parting, farewell
+마즈막	마지막	Last, final (older spelling)
+주림쌀	주름살	Wrinkles
+피섞긴 눈물	피섞인 눈물	Tears mixed with blood
+갸륵하다	갸륵하다	Praiseworthy, admirable
+장인 장모	장인 장모	Father-in-law, mother-in-law
+처가	처가	Wife's family home
+만수무강	만수무강	Long life and health without end
+옥체	옥체	Jade body (honorific for health/body)
+보중하다	보중하다	To take good care of oneself
+後園	후원	Rear garden
+草堂	초당	Thatched cottage/pavilion
+平床	평상	Wooden platform/bench
+싸리짝 문	싸리짝 문	Wattle gate
+玄琴	현금	Hyŏn'gŭm/Kŏmun'go (Korean zither)
+筆墨	필묵	Brush and ink
+歌舞才色	가무재색	Singing, dancing, talent, and beauty
+妓籍	기적	Gisaeng register/status
+花無十日紅	화무십일홍	No flower stays red for ten days (beauty/power is fleeting)
+轎子	교자	Palanquin, sedan chair
+鼻笑	비소	Scoff, sneer
+망쇠계집애	망할/멍청한 계집애?	Foolish/Damned girl (meaning uncertain)
+緋緞	비단	Silk
+허둥지둥	허둥지둥	Hurriedly, flustered
+야단이슈	야단이슈	What's the fuss? (older polite ending)
+오장	오장	Five viscera (metaphor for inner self)
+큼직한 것	큼직한 것	A big one (referring to a patron)
+주안상	주안상	Drinking table setting
+채리다	차리다	To prepare, set up (older spelling)
+얼이 빠지다	얼이 빠지다	To be dazed, absent-minded
+약주상	약주상	Rice wine table setting
+페	폐	Trouble, nuisance (older spelling/form)
+싹싹하다	싹싹하다	Affable, obliging, agreeable
+嬌들을 떨다	교태를 떨다	To act coquettishly, put on airs
+律	율	Lüshi (Regulated Verse - Chinese poetry form)
+월등나게	월등하게	Exceptionally, surpassingly (older spelling)
+금패가락지	금패 가락지	Gold ornamental ring
+南京장사치	남경 장사치	Merchant from Nanjing
+次號完	차호완	To be concluded in the next issue
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	戱戱曲 放浪詩人 金삿갓
+필자	宋影
+기사형태	희곡·시나리오
+
+戱戱曲 放浪詩人 金삿갓
+						宋影
+「解說」
+金삿갓의 본명은 金柄淵이다. 지금으로부터 약 135년전인 丁卯年 3월 13일에 (그때는 李末 純祖朝 西歷 1805年頃)탄생되다. 당시로 말하면 수백년동안 내려오든 썩은 정치가 극도에 달해 있었다. (明黨, 士禍 外戚 집권 등!)
+그 중에도 그때 偏僻된 정치의 하나인 「西北人勿爲重用」이란 묵은 폐단이 더욱히 民怨을 사고 있었다. 西人과(黃海, 平安道), 北人은(咸鏡道人) 偉傑이 많음으로 정권을 빼았길가하는 기우때문에 세워진 것이 즉 「西北人勿爲重用」이며 여기에 첫번으로 반기를 들고 일어난 것이 平北의 洪景來亂이다. (辛末叛亂)
+金柄淵의 祖父되는 金益淳씨는 당시에 安州邊防使(或稱 宣川府使)로 있었는데 夜半에 大醉해서 잠이 들었다가 洪景來軍에게 捕虜가 되어서 부득기 항복을 했다.
+이 때문에 반란평정 후에 金益淳씨는 처형이 되고 그의 자손들은 廢族이＜280＞ 되었다.(5世孫, 金榮鎭씨(삿갓의 孫)(現存)때부터는 다시 榮達의 길이 터젔다) 柄淵은 탁월한 문장이 었으나 廢族이기 때문에 등용이 못 되었다. 이래서 그는 세상을 비관하고서 「삿갓」을 쓰고 일생을 방랑하다가 全南 同福지방에서 객사를 했다.
+
+戱曲을 構成할때
+1, 사실에 치중하지 않고(원래 사실이 전해지지 않고 해서) 다만 金「삿갓」의 생활(감정)을 통해서 그때 그 세대의 분위기를 나타내려고만 힘을 썻다. 때문에 도에 지내친 浪漫이 흘는다.
+2, 삿갓이 廢族이었든 관계로 일정한 가정이 있었다 없었다 하고들 史家마다 다른 견해(보다도 想定)를 가지고 있다. 그렇나 나는 비록 隱家라도 있었으리라고 단정을 했다. 그리고 谷山은 그가 從僕 金成秀에게 길니울 때에 살든 곳이다. 그러나 나는 극의 구성상 필요에 의해서 그의 가정을 그 곳에 暫定(假定했다)
+3, 백일장사건, 기생계향집 사건, 또 音全이와 해후하는 것들도 순전히 나의 공상으로써 창조된 사실이다.
+4, 백일장의 狀元詩는 사실로는 科詩이었겠지만 나는 그의 自然詩 중에서 그 중 묘하고도 통속적인 雪景詩로 대신했다.
+5, 그리고 그때 인물들의 대화용어(어투까지라도)는 될 수 있는 대로 당시에 냄새를 풍기려고 힘을 썻으나 어쩔 수 없이 현대어가 가끔 섞여저서 매우 마음에 찌부드드하다. -作者-
+
+時 李末 純祖時代(西歷 1804년경)
+所 朝鮮
+人物
+金새갓(炳淵)
+金安根(그의 父)
+金翼均(그의 次子)
+金聖秀(그를 길너 준 從僕)
+炳淵夫人
+谷山府使
+進士
+縣令(隣邑)
+初試
+吏房
+尹誠淳(府使의 아들)
+村老人
+그의 老妻
+그의 딸(音全이)
+桂香(名妓)
+그의 母
+五月(女婢)＜281＞
+金判書
+元生員
+文僉知
+徐進士
+漁翁
+樵童
+洞里處女(丹順 粉玉)
+山賊
+樵夫
+外
+妓生, 醉客, 村人, 儒生多數, 群衆多數
+
+序幕
+人物
+金삿갓
+樵童
+漁翁
+
+開幕
+舞臺 黑幕
+詩 크게 써 부처놓았다(그의 詠笠詩)
+浮浮我笠等虛舟
+一着平生四十秋
+
+牧竪輕裝隨野犢
+漁翁本色伴白鷗
+
+醉來脫掛看花樹
+興到携登翫月樓
+
+俗子衣冠皆外飾
+滿天風雨獨無愁
+金笠(이상의 시를 吟한다)
+
+下手에서 꼴망태 멘 牧童이 나와서 듣는다.
+樵童 누구세요?
+金笠 나다.
+樵童 내가 누구세요?
+金笠 삿갓이다.
+樵童 삿갓은 쓰는 것이 아님니까?
+金笠 쓰는 것도 삿갓이지만 나도 삿갓이다.
+樵童 네?
+金笠 (阿阿大笑)
+樵童 왜 웃기만 하심니까.
+金笠 세상이 웃읍지가 않으냐.
+樵童 이게 다 무슨 말슴이세요?＜282＞
+金笠 이게 다 세상을 웃는 말슴이시란다.
+樵童 뭣 하시는 어른이세요?
+金笠 삿갓만 쓰고 사는 사람이다.
+樵童 왜 삿갓만 쓰심니까.
+金笠 너는 웨 삿갓을 썻니?
+樵童 갈퀴나 들고 망태나 메고 송아지나 몰고 다니는지라 삿갓바께 더 쓰겠습니까.
+金笠 (읊조린다) 소치는 더벙머리 챗죽들고 삿갓쓰고 강포에 늙은 어부 낚시들고 삿갓쓰고-그러나 말들어 봐라. 내가 쓴 삿갓은 얼큰하게 만취되여 꽃나무가지에도 걸고 夜半에 흥에겨워 달 구경갈 때에도 벗어들고 간다.
+樵童 네?
+金笠 醉來脫掛看花樹
+興到携登翫月樓
+
+上手에서 漁翁 낚시들고 등장
+漁翁 누구신지 잘도 읊소이다.
+樵童 삿갓속에서 사시는 어른이람니다.
+漁翁 삿갓속에서 살다니? 여보슈 뉘댁이슈?
+金笠 삿갓입니다.
+漁翁 성도 없고 이름도 없으시단 말슴요.
+金笠 헛날니지 못하는 성명이 무슨 성명쭐에 감니까.
+漁翁 웨 헛날니지를 못하슈? 보아하니 글짜나 하시는 모양인데 과거나 봐 가지고 입신양명을 해보시구려.
+金笠 허...
+漁翁 왜 웃기만하슈.
+樵童 이 어른은 툭하면 웃으신답니다.
+漁翁 왜?
+樵童 세상이 웃으니 어찌 웃지 않으리요(삿갓의 어조로)
+金笠 ...
+漁翁 아하- 그러고 보니까 老兄은 보통삿갓쟁이가 아니시구료.
+金笠 삿갓은 보통삿갓이지만 쓰고 다니는 까닭은 따로 있습니다.
+漁翁 무슨 까닭이슈.
+金笠 삿갓도 의관입니다. 갓이나 冠이나 草笠이나 風子도 衣冠입니다. 그러나 온갓 다른 의관들은 남에게 저의 잘난 것을 보히기 위해 쓰는 「것치장거리」지만 이 삿갓만은 그렇지가 않습니다. 玉冠子 金冠子 안울님벙거지도 비와 눈을 무서워하지만 오직 이 삿갓만은 비도 눈도 바람도 두려워하지 않지 않습니까.
+漁翁 그 까닭뿐이슈.
+金笠 (吟)
+俗子衣冠皆外飾
+滿天風雨獨無愁
+漁翁 그 까닭뿐이 아니실 것 같은데.
+金笠 사실은 아님니다. 하늘이 보기 싫어서 쓰고 다님니다.
+樵童 왜 샛파란 하늘이 보기가 싫으심니까.
+金笠 세상이 보기가 싫여서 쓰고 다님니다.＜283＞
+漁翁 왜 세상이 보기가 싫으시단 말슴이슈.
+金笠 世上한테 무러보시구려.
+樵童 어떻게 세상에다 무러봅니까.
+金笠 그러면 이 삿갓에다 무러보려무나.
+樵童 네? 참 그 어른께서도.
+漁翁 여보슈 너무 실업슨 말슴만 마시고 좀 뚝바로 아르켜 주시구료 갑갑하구료!
+金笠 갑갑하시거든 낚시에 걸닌 물고기나 따라서 浩浩滄滄한 바다로 나가십쇼 그려.
+漁翁 여보 이게다 무슨 말슴이슈.
+金笠 이게 다 삿갓의 말슴이라우 허...
+漁翁 그 냥반 실성했군 그래.
+金笠 왼 세상이 모두가 빗틀니고 찌그러젔는데 어떻게 나만 뚝바로 살난말이요.
+樵童 그럼 여보세요 왜 삿갓을 쓰시게 됐습니까?
+金笠 그렇게도 알고가 싶으냐.
+漁翁 아닌게 아니라 궁금하구료.
+金笠 (읊조린다) 의관중의 상놈은 삿갓이니라. 세상에 「어붓자식」도 삿갓이니라. 삿갓쓰고 다니는 사람 처놓고 내가 나로라하고 뽑내지를 못하지 안느냐. 삿갓에 동무는 기껏해야 송아지 아니면 낚시때다. 갈퀴 아니면 호미다. 오막사리 아니면 행낭방이다.
+-이래서 나는 삿갓이다-
+賤待만 받고 嘲弄만 받는 삿갓속에서 도로혀 내가 그들을 조롱하리라 나무하는 아해야.
+樵童 (쳐다본다)
+金笠 허리굽은 어부님네.
+漁翁 (닥어선다)
+金 그렇게도 『내가 왜 삿갓을 쓰고 살어가나』하는 것들이 아시고 가고 싶으슈. 그러면 내 대강 내 이야기를 내가 하리다. 내가 하는 얘기는 삿갓의 얘기요. 삿갓은 바로 나요. 나는 삿갓이요. 자- 들어들 보슈.
+-暗-
+풍악소리(効果)
+
+第一幕 「삿갓」쓴 까닭
+第一場 白日場
+人物
+金炳淵  23세
+尹府使  60세
+縣令(隣邑)55세
+進士  62세
+初試  59세
+尹誠淳(府使의 아들) 25세
+엇던 노인 60세
+吏房 40세＜284＞
+通引 20전후
+使令 30전후
+妓生 20전후
+樂士 중년
+젊은 儒生들 다수
+구경하는 남여 약간
+舞臺, 중앙에 亭子
+왼편은 평평한 바위, 바른 편은 靑松.
+百日場
+亭上에는 本府 府使를 위시해서 隣邑方伯과 村翁(初試, 進士, 生員 등)이 列座하고 亭下에는 일반 官屬과 젊은 유생들이 滿座
+한편에는 악사
+亭上에는 기생(관기)들이 侍立을 했다. 通引
+선비들 筆匣을 정돈하기도 하고
+생각이 안나서 붓방아를 찌끼도 하고
+다 쓴 것을 亭上에 바치는 자도 있다.
+金炳淵(삿갓) 한편에 웅크리고 앉었다.
+한편 기둥에는 詩題 「雪景」이 걸려있다.
+-明-
+風樂소리 끗친다.
+亭上에서는 考試들을 한다.
+서로 돌려보고 중얼거린다.
+亭下에서는 焦慮와 불안에 싸힌 선비들 수군거린다.
+때는, 晩春 오후
+進士 (그 중에 한 편을 몇 번이나 읽다가 무릎을 친다)
+亭上의 人 그리로 凝視한다.
+進士 (府使에게 주며) 영감 이것을 좀 봅쇼. 그야말로 뭇 닭 가운데 썪긴 鳳이요 조각돌 가운데 무친 玉이옵니다.
+府使 (속으로 읽어보고) 하아 정말이지 문장이군요. 우리 고을에도 이같은 秀才가 있을 줄은 참으로 꿈바께 꿈이옵니다.
+縣令 다- 府使영감의 善治之功이지요.
+初試 그렇습죠.
+亭下의 人 긴장해진다.
+府使 허... 천만에요. 그럼 이것으로 壯元을 삼으시죠.
+進士 이만한 文才만 가지면 한양에 올나가서도 알성장원은 갈데 없습니다.
+府使 허... 또 하나의 名相이 생기겠군 그래. 허... 그런데 다른 것들은?
+進士 (또 한장 따로 놨든 것을 집으면서) 그 다음에는 이것이 조금 免無識은 됐습니다. 억지로라도 부장원은 이것으로 뽑는 수밖에 없지요.
+府使 (그냥보며) (손에 든 것과 비기면서) 이것과 비교를 하면 얼마큼 차이가 남니까?
+進士 뭐 비교할 거리가 못됨니다. 그야말로 천양지차가 있습니다.＜285＞
+初試 (어느 틈에 읽어보고) 흥 어디 이게 글이랄게 뭐 있습니가. 아 참 拙劣하기가 짝이 없습니다 그려.
+府使 그러면 영감 都壯元 한 사람만 뽑으시도록 하시지요.(拙劣하다는 시편을 집어서 모든 낙선된 틈바귀에다 내던지며) 이건 치워버리십쇼. 자 선포를 해보시죠.
+進士 (일어선다) 네, 여보아라... 지금부터 장원을 알니운다. 이번 이 시의 주인인 새 장원으로 말하면 천하의 기재요. 미래의 명상이다. 읊는 소리 들으면 다들 斟酌들을 하겠지만 문장은 바다같이 浩瀚하고 의기는 태산같이 웅장하다. 해마다 우리 고을에서 적지않은 새로운 秀才를 얻어냈으나 이번 이 새 壯元같은 탁월한 문장은 없었다. 그야말로 前無後無다. 모두들 귀를 기우려 새로운 문장을 삼가서 들어라. 자 먼저 성명을 선포하기 전에 글부터 읊어 들니겠다. 얘들아.
+妓生 1, 2 네...(앞으로 나와서 詩篇을 받는다) (두 기생 목소리를 가다듬고 서로 和해서 읊는다)
+雪景(唐吟體로)
+飛來片片 三春蝶
+踏去聲聲 六月蛙
+寒將不吉 多言雪
+醉或以留 更進杯
+亭上亭下 감격과 美仰의(猜忌가 섞인)색이 가뜩찼다.
+府使 (무릎을 치며)그렇지 그렇지 눈발 날니는 모양은 三春의 흰나븨가 헛날니는 것 같고 눈밟는 소리야말로 여름철 개고리 우름소리 같다. 암 그렇지 그렇지.
+初試 참 절묘절묘합니다.
+(기생들 시편을 진사에게 올니고 한편으로 물러선다)
+進士 자, 성명을 띠여 보시도록 하시죠.
+府使 그러시죠. 대관절 뉘집 자손인구 애아-
+吏房 네...(進士에게서 시편을 받어서 뒤를 뜨더본다)
+吏房 谷山 金炳淵 金炳淵.
+使令(입속으로) 谷山 金炳淵 金炳淵.(기색이 변한다. 그러나 나타내지는 않는다)
+金炳淵 일어선다.
+모두들 처다본다.
+府使 올라오라고 그래라.
+吏房 金炳淵  都壯元 金炳淵.
+(손을 든다)
+(使令 손을 든다)
+吹打울닌다.
+金炳淵 亭上으로 올나간다.
+기생 인도(영접)을 한다.
+尹生(府使의 아들) 고개를 숙이고 앉었다.
+金炳淵 府使이하에게 挹하고 선다.
+吹打 그친다.
+府使 누구라고?
+金 金炳淵이올시다.＜286＞
+府使 우리들의 눈이 어두워서 그대같은 文章을 늦게 들처냈네.
+金 너무나 황공스럽습니다. 아즉 年少하옵고 게다가 淺學 菲才임에도 不願하온 侍生의 당돌하옴을 머리 쪼아서 請罪하옵나이다.
+府使 너무 謙辭말게.
+進士 辭讓之心은 禮之端이라고―딴은 그래야지―글은 무엇 무엇 읽었소?
+金 명색은 七書와 禮記, 春秋 史畧, 詩賦를 읽는 척 했습니다. 그러나 아즉 入室之妙는 얻지를 못했습니다.
+初試 어허 글뿐이 아니라 말까지 잘하는 군 그래. 應口輒對하는 態가 蘇張의 風이 있군.
+縣令 얼굴도 仙風道骨인걸. 「身言書判」이라드니 과연 이 사람을 두고 한 말인가 보다. 허...
+府使 아버님은 누구시지?
+金 安字 根字 올시다.
+府使 安根, 金安根―金安根이가 누군가 (倚白) 뭣하시는 어른이신가?
+金 집에 그냥 게심니다.
+府使 金安根! 혹시들 아시우.
+進士 (생각이 나는 듯이) 가만히 겝쇼. 金安根이라. 金安根 金安根, 그럼 여봐.
+金 네
+進士 祖父께서는 누가 되시지?
+金 (얼는 대답을 못한다)
+進士 존함이 뭣이시지?
+金 (용기를 내어서) 益字 淳字 올습니다.
+進士 (놀내며) 金益淳 金益淳 무슨 벼슬을 하셨지?
+金 安州邊防使로 계시옵셨다고 합니다.
+進士 아니 뭐야. 安州邊防使 金益淳의 손자라고.
+府使 아니 逆賊 洪景來에게 항복했던 金益淳이 말이지?
+縣令 아니 이런 變도 있습니까. 역적에게 항복을 했으면 역시 역적인데. 역적의 자식이 고개를 처들고 다니다니 응.
+初試 역적이면은 三族을 滅했을텐데 어떻게 그 자손이 살어 있단 말슴입니까.
+金 (자신있게) 확실히 侍生은 安州邊防使의 자손이올시다. 나라에서 한아버님의 허물은 한아버님 당대에 끝이게 하시고 저의 아버님부터는 아모 상관이 없게 되었습니다.
+府使 듣기 싫다. 비록 상감마마의 鴻恩을 입어서 너이들이 刑罰만은 免했다고 하드라도 역시 너의들은 죄인의 자식이다. 괫심한 놈 같으니라고. 조그마한 才操를 믿고서 엉강생심히 이러한 좌석에다 고개를 내민단 말이냐.
+進士 그렇구 말구요. 이거봐라 炳淵아. 너이들은 廢族의 자식들이다. 하늘과 땅에 가득찬 죄를 짓고서 무슨 염치로써 세상사람과 어깨를 견으랴 드느냐.
+初試 그럼 제 신분을 생각을 해야지.
+縣令 府使영감 어떻게 얼는 措處를 해줍쇼. 죄인의 자식놈과 簷下밑에 있다니 그야말로 悚懼해서 못 견듸겠습니다.＜287＞
+府使 썩 내려가라.
+金 내려가라시면 내려가겠습니다만은 너무나 偏僻되시지가 않으심니까?
+府使 뭐야- 이 맹랑한 놈아.
+進士 역시 역적의 피를 받은지라 放孜하기가 짝이 없습니다그려.
+府使 이 놈을 내려쪼차라.
+吏房 내려쫓치랍신다.
+使令 네 에, (金을 끌어내린다)
+金 울뜻이 되어서 階下에 업푸러진다.
+府使 이놈 말들어라. 상하의 눈을 속이고서 外濫한 행동을 한 네 죄는 가법지 아니하되 오늘 이같은 경사스런 좌석을 생각하고 또는 네 조고마한 才操를 가상히 생각해서 특별히 赦하는 것이니 從此 이후로는 산간에 들어가서 이름없는 樵童牧夫틈에나 끼여서 여생을 보내라. 이것이 너이들이 응당 지켜야 할 도리라고 생각한다.
+「저게 역적의 자식이지」하면서들 群衆 수군거리고 손꼬락질한다.
+府使 모두들 말들어 봐라. 오늘 장원한 金炳淵이는 지금부터 15년 전의 즉 辛末에 평안도 龍岡에서 반란을 이르킨 역적 洪景來의 도당되는 金益淳의 자손이다. 비록 나라에 鴻恩을 입어서 三族之患은 면했지만 역시 역적의 자식들이 아니냐. 이런 까닭에 오늘 이 장원은 말살하는 바다.
+進士등 지당하신 말슴입니다. (詩紙를 내던지면서) 엇다. 가지고 가라.
+金 (試紙를 받어서 밋친듯이 찟는다) 이걸 가지고 가서 뭣 합니까? 이런 법이 어디 있습니까? 조상에게 허물이 있는 것이 저이들에게 무슨 상관이 있습니까?
+桑田이 碧海가 되고 烏鵲이 鳳凰이 되는 법은 없습니까.
+府使 말마라.
+金 어떻게 말을 맘니까. 이렇게 원통한 일을 당하고도 어떻게 벙어리만 되고 있으람니까. 상공영감! 당상에 가득히 앉아계신 여러 영감마님! 어쩌면 이치럼 가슴속이 좁으시기들만 하심니까. 자라나는 새싹을 북돋아 주어야하실 의무는 모든 영감들께서 가지고 계신 것이 아님니까. 글쎄 무슨 심사로 아무 철 모르는 새로 나온 軟弱한 싹을 완고하신 큰 발로서 짓밟으시려고 하심니까.
+府使 뭐야 이놈아.
+進士들 고놈 맹랑하다.
+金 (느껴우는 목소리로) 저는 아무것도 모르는 弱冠이올습니다. 그러나 대강 옛 책을 보아서 우리네의 조상이 어떤 줄은 斟酌하고 있습니다. 저이들의 조상들은 「章句」에만 매여달닌 썩은 「腐儒」들 뿐이었습니다.
+「書自書我自我」로 남을 책한 때에만 남을 모해하고 멸망시킬 때에만 聖賢의 말을 꾀차들고 나오고 자기 자신의 행동이나 그보담도 나라 전체의 옳은 일을 당한 때에는 聖賢의 말슴을 내던지고만 마심니다. 東人은 뭐고 西人은＜288＞ 무엇이며 老論少論은 무엇이며 骨北肉北은 뭣임니까. 웨, 좀 더 생각을 크게 가지고서 좋은 사람을 붓돋아 주고 등을 밀어 주지를 못하고 그냥 그대로 짓눌러 없새려고들만 하심니까. 이게 겨우 양반네의 가지실 君子之道이옵니까.
+府使 (저놈을 내쪼차라)
+使令 이놈아 가, (등을 민다)
+金 (울고 쫓겨나가며) 나뿐놈의 자식은 언제까지던지 나뿌게만 지내라는 법이 어디 있습니까(울면서 퇴장)
+조금동안 그의 울고 발악하는 소리가 들린다.(使令들의 부락대는 소리도 들닌다)
+初試 맹랑한 놈도 다 있습니다.
+縣令 그런 놈을 그냥 놓아 보내십니까.
+府使 그까진 억에 올른 놈을 밋친 강아지로 봐버리겠습니다.
+進士 그러면 오늘 壯元은 어떻게 할가요.
+府使 글쎄요.
+縣令 제 생각에는 이런 날에 장원을 안 낼 수가 없아오니 아까 副장원으로 점을 찍어 놓았던 것을 장원으로 올니시는게 어떠실는지요.
+府使 아까 그 拙劣하다는 詩 말슴이죠.
+初試 그야 金炳淵의 詩에다 대면 졸렬하겠지만 다른 시에다 대면 장원노릇이 되겠습죠.
+縣令 허... 꿩대신에 닭을 쓰잔 말슴이심니다그려.
+府使 자 그럼 늦어가고하니 아까 그 시를 찾아내십쇼.
+進士 (찾아낸다)
+府使 (이방에게) 장원 다시 내겠다는 선포를 해라.
+吏房 네-여보쇼들 아까 장원은 廢族의 글임으로 그만두기로 하고 지금 다시 장원을 선포하겠습니다.
+進士 얘들아(試紙를 준다)
+기생 1, 2 네, (받는다) (속으로들 읽어들 보고 못 맛당해서 상을 찌프리고 읽지들을 못한다)
+進士 어서 읽어라.
+기생들 네-
+雪景(尹誠淳 作)
+(성의없이 아무케나 읽는다)
+梨花三日皆骨山
+小鳥迷巢松林間
+二三學友終日遊
+落照紅顔詠歌還
+(亭上의 人 입들을 내민다)
+亭下의 人 수군거린다.
+進士 그만하면 되겠습니다. 자 어서 개봉을 하고 호명을 해라.
+吏房 尹誠-(다 불느지를 못하고 부사를 치다본다)
+府使 어서 크게 외처봐라.
+吏房 尹誠淳 尹誠淳.
+使令 尹誠淳 尹誠淳.
+尹誠淳少年 일어난다.＜289＞
+進士 아 인제 알아보니가 부사영감의 자제입니다그려.
+府使 원 천만에 허허허...
+初試 어쩐지 문장이 拙劣한듯 하면서도 웅장하드군요.
+縣令 저도 그렇게 생각했습니다. 듣고 생각을 할수록 저절로 고개가 숙으러짐니다. 확실히 李太白의 시풍이 잠겨 있습니다.
+府使 너무들 그러지 말어 주십쇼.
+進士 아까는 너무나 罪悚했습니다.
+初試 정말이지 저도 졸렬한듯 하면서도 웅장하다는 말을 한다는 것이 졸렬소리만 하고 말었습니다그려. 어떻게 아시지를 마십쇼.
+縣令 乃父乃子라니 영감자제가 범연하실 수가 있습니까.
+어떤 노인(군중틈에 섰다가 크게 웃는다) 揶諭하는 웃음소리다. 허...
+一同注視!
+府使 저기 저게 뭬길래 저렇게 요란하게 웃느냐.
+吏房 누구요.
+老人 (더 웃는다) 허...
+吏房 웨 웃느냐.
+老人 우수우니까 웃소. (일어선다)
+吏房 우숩다니.
+老人 옛부터 일으길 입은 삐뚜러도 주라는 바로 불라고 했는데 그 위에 당신들은 뚝바로 찌저진 입들을 가지고서 삐뚜른 말들만 하니 듣기에 대단 웃읍구료. 허...
+府使 (怒해서) 아니 뭐야.
+老人 (더 위엄있는 소리로) 뭐는 뭐야. 장원은 제처놓고 되지도 않은 것을 다시 장원을 삼는 법도 있소? 「二三學友와 終日遊」하니 아니 그게 겨우 詩란말요. 허...
+進士 누구냐.
+老人 내가 누구라는 것을 알려고 하기들 전에 당신들이 누구인지들이나 먼저 아슈. 소위 一邑首令方伯이라느니 일촌의 학자라거니 하면서 양반행세들만 하는 것들이 실상은 油頭粉面을 한 술집계집애 모양으로 요리조리 붙어서 알진거리는 꼴이라는게 헛... 더럽다 못해서 웃읍소.
+縣令 아니 저런 밋친 늙은이 봤나.
+府使 얘들아 저 밋친 늙은 놈을 잡어없찔러라.
+吏房 얘들아.
+使令 네 (달려들어서 노인을 잡는다)
+老人 헛...
+府使 너는 누구냐.
+老人 이름은 높지을 못하나 마음만은 높은 사람요. 뚝바른 늙은이요.
+府使 너는 어느 앞이라고 이렇게 발악을 하느냐.
+老人 어느 앞이 어느 앞이란 말요. 큰 것은 모르고 저근 것에만 허덕어리는 貪官汚吏의 앞이라고 생각하오.
+府使 아니 저런 죽일 놈 봤나-그 놈을 대매에 때려죽여라.
+老人 헛...
+進士 영감 저 놈의 죄는 당장 타살을 해도 오히려 남겠사오나＜290＞ 그러하오나 지금같이 새로운 인재를 卓杖하는 경사스러운 마당에서는 다소불길하오니 一段 下獄을 하시었다가-
+縣令 그러시는게 좋실 것 같습니다.
+府使 아이구 분해-애들아 저 밋친 늙은 것을 단단히 가두어뒤라.
+吏房 가두어라.
+使令 네.
+老人 (더 태연하게 그러나 정열적으로) 獄 아니라 지옥이라도 같이 가자. 난 난 무서울게 하나도 없다-그러나 너이들 대관절 洪景來가 웨 역적이 된 줄이나 아느냐.
+西北人勿爲重用이란 썩어빠진 偏僻된 정치가 몇 백년동안이나 흘러 내려왔던 까닭이다.
+어째서 서쪽사람과 북쪽사람은 아무리 才操가 있더래도 벼슬을 시키지 않었느냐 여기에서 서북인들은 충심이 있어도 충심을 발휘를 못하고 經綸을 갖었으나 경륜치를 못하였느니라.
+양반의 자식이라야만 양반만 되고 상놈의 자식이면 언제던지 상놈만 되라는 법이 어디 있단 말이냐.
+이러한 불평이 쌓이고 쌓여서 터진 것이 洪景來의 반란이 아니냐.
+더군다나 지금 장원한 소년 金炳淵의 조부되는 金益淳씨로 말하면 夜半에 술이 취해서 누었었을 때에 그들에게 잡혔을 뿐이다.
+잡히었다고 반드시 항복한 것이요. 항복했다고 반드시 역적이 될 수만도 없느니라.
+府使 얼는 잡어내려라.
+使令 (끌고 간다)
+老人 아, 언제나 이 썩어빠진 政事가 밝아진단 말이냐. 헛...(끌려 나간다)
+府使 그 놈이 보통 놈이 아니군.
+縣令 洪景來의 餘黨인 줄도 모르겠습니다.
+進士 뭐 그까짓 밋친 늙은 것의 말을 탄해서는 뭘 합니까. 자 어서 吉例나 치르지요.
+府使 오늘 장원은 다 거더 치우시요.
+進士 아님니다. 장원없는 백일장이 어디 있습니까. 그야말로 우리 고을에 羞恥가 되고 말 것입니다.
+初試 진사님의 말슴이 지당하심니다.
+縣令 그렇습니다-그런데 영감 小官의 생각같대서는 날도 늦고 했으니 아주 行列로 들어서는게 어떠습니까.
+進士 참 그게 좋겠습니다.
+府使 맘대로들 하십시다.
+進士 (이방에 손짓)
+吏房 모두 말들어 보소. 오늘 장원 尹誠淳의 행렬이 지금부터 시작이 되신다오.
+府使 행렬이다.
+吹打소리가 날때-무대 어두어진다-
+어두운 중에서 吹打소리 계속된다. 차차 적어진다.＜291＞
+
+第二場 달밤
+舞臺 同上
+그날밤
+정자너머 산머리로서 둥근달이 떠올으면서 차차 무대 밝아진다. (溶明)
+金炳淵 삿갓 쓰고 달을 향해서 돌아앉었다.
+뻑국새소리 멀니서는 尹부사집에서 아들의 壯元宴이 열니여서 雅樂소리 들려온다.
+登場人物
+金炳淵
+그의 妻
+그의 長子(乳兒)
+그의 父(金安根)
+金聖秀(그의 從僕)
+어떤 노인의 妻
+그의 딸(音全)
+村人 1, 2, 3
+醉翁
+-明-
+村人1 (下手에서 나오며) 어서 와, 이사람아.
+村人2 (따라 나오며) 뭐 그렇게 급하냐.
+村人1 이왕이면 얼는 가서 한 잔이라도 더 얻어 먹어야지.
+村人2 자식 돼지처럼 얻어먹는 것만 알아.
+村人1 너는 웨 가니.
+村人2 나는 기생 춤추는 것 구경하러.
+村人1 되지못하게 네게 기생이 아랑곳이냐.
+村人2 구경도 못해?
+村人1 속만 더 상하지.
+村人2 그래도 눈요기라도 하면 좀 후련해진다.
+村人1 이런 똥물에 튀길 자식봤나. 남은 우리네 나이에 장원을 해서 밤새도록 잔치도 하는데 너는 눈요기하는데만 눈이 뻔뻔해야만해.
+村人2 그렇게 말하면 너나 나나 다 마찬가지지 뭐냐. 쓰디쓴 탁백이 한 잔에 열이 나서 단잠도 못자고 뛰어가는 자식이나.
+村人1 하...
+村人2 못나게도 웃는다.
+村人1 그런데 실상은 정말 장원이 아니라지.
+村人2 그렇지만 상놈의 진짜 장원보다는 양반집 가짜 장원이 더 났다나.
+村人1 그 참 金炳淵이는 원통하게 떨어졌지.
+村人2 원통이나 질통이나 어서 가기나 하자.
+술취한 촌노인 上手에서 비틀거리고 나온다. 혀꼬부라진 노래를 불으면서.
+村人1 상당히 취하셨구나.
+村人2 아젓씨 어디 갔다옵쇼?＜292＞
+村老 남의 흥에 띄워서 한 잔 먹고 오네.
+村人1 아주 장하다죠.
+村老 밤새도록 노리를 한다니까 장할께 아닌가. 흥 가진 음식이 다 있드라.
+村人2 백일장에서 장원을 했는데도 저런데, 정말 과거에서 장원을 하면 어떻게 될가요.
+村老 어떻게 되냐고? 「백성을 어떡하면 못살게 구나」하고 궁리부터 하게 되지.
+村人1 엥히 경칠 것 저이들도 글이나 읽었드면 장원이나 해볼걸을.
+村老 았게 았게 행여 그런 소리는 두 번 다시 입에다 대지도 말게.
+村人2 왜요.
+村老 양반이 돼도 양반싸홈에서 죽는다네.
+村人1 그래도 상놈이 돼서 양반에게 죽는 것보다 났죠. 갔다오겠습니다.
+村老 잘들 갔다들 오게. (말끝이 노래로 변한다)
+村人1, 2, 上手로 退
+村老 노래 불으며 下手 退
+金 (일어서며 돌아선다. 삿갓을 벗는다)
+(悲憤慷慨) 음 망할 세상도 다 - 많다-(사이 병적으로 웃으면서) 헛... 삿갓아 나는 세상과 너와 맞바꾼다.
+(풍악소리나는 편으로 향해서) 잘들도 논다. (좀 크게) 잘도 논다.
+下手편에서 인기척이 난다.
+金 (급히 한편구석에 가 웅크리고 앉는다)
+노인의 처와 그의 딸 音全 나온다.
+音全 어머니 글쎄 가시는 데가 어디세요.
+老妻 되나 안되나 가서 빌어나 보자.
+音全 이런 밤중에 가면 어떡합니까.
+老妻 그래도 아드님때매 興의 겨운때에 가야하쟎니?-에이구 글쎄 너이 아버님도 밋친 어른이시지 어쩌자고 역적을 역성을 들어서 양반에게 항거를 하시었단 말이냐.
+音全 그렇지만 정말 장원을 제처놓았으니 누군들 화가 안나겠어요.
+老妻 에구 다 듣기 싫다. 제발 등의 불도 다 끄지 못하는 세상에서 남의 참견이 다 당했드란 말이냐. 어서 가보자.
+音全 그럼 가시죠.
+老妻 만일 「삿도」님이 우리 사정을 삷혀주시지 않는다면 정말 우리 모녀들도 한테 너의 아버님게신 獄으로 들어가작구나.
+(느끼면서 母女, 上手로 퇴장)
+炳淵을 길러낸 從業 金聖秀 村人3을 데리고 下手에서 등장
+村人3 암만 찾아봐도 종적을 알 수가 없습니다.
+聖秀 그 참 큰일났네.
+村人3 글쎄 아까 당한 일 한가지만 가지고도 그 서방님께서는 젊은 기운에 화통이 터지셨겠지만 그렇다고 독한＜293＞ 마음을 먹으실 분은 아닌데요.
+聖秀 글쎄 내 생각같애서도 그 서방님께서는 속중이 아녀자의 짓은 아니 하실 듯 한데.
+村人3 그래도 사람의 일이란 알 수가 없으니가요. 유서까지 써 놓고 나오셨다면서.
+聖秀 유서가 될지 작별서가 될지는 몰라도 하여간 「저는 이 세상과 등을 지겠습니다」하는 말 句는 있거든.
+村人3 그럼 꼭 돌아가셨습니다. 세상을 등을 진다는 뜻이 그 뜻이 아님니까.
+聖秀 어서 더 찾아보게. 자네 저리로 가게. 나는 이 근처에서 찾아 뵙겠네.
+村人3 그럼 그러세요. 아이구 원통한 놈의 세상도 다 많다. (上手로 退)
+聖秀 (조금 찾다가 亭上의 金笠을 발견한다)
+누구요?
+金 -
+聖秀 누구야.
+金 -
+聖秀 무슨 술을 어떻게 먹었길래 삿갓도 못 벗고 동그라젔소. 엥히.
+金 -
+聖秀 여봐(올나간다) (창의자락을 보고)
+그 삿갓쟁이 이상하다. 창의를 입고 삿갓을 스다니. 여봐 (삿갓을 베낀다) 앗! 서방님.
+金 가만 내버려두우.
+聖秀 이게 무슨 망영이심니까.
+金 밋치기라도 하겠소.
+聖秀 서방님 공연히 딴 마음은 잡숫지를 마쇼. 이왕 세상이 그런 것을 새삼스러히 원통이 생각을 하신들 무슨 소용이 있겠습니까.
+金 원통한게 아니라 아니꼽고 분하오. (이러서며) 할아범! 할아범은 나의 은인이자 父兄이시지. 만일 할아범이 우리 형제를 구해주고 길러주지 않었드면 요만한 세상꼴도 못 볼 뻔했소. 그렇지만 할아범 나는 할아범이 도리혀 원망스러웠소. 요따위 세상에서 요따위 어붓자식 노릇을 하라고 나를 길러 냇단말이요. 할앙범 웨 나를 이렇게 길러 놓았소. 웨 글을 읽혀주었소. 할아범.
+聖秀 서방님 너무 상심치 마십쇼. 어둔 밤의 아무리 지지하다한들 설마하니 새벽이야 아조 안오고 말겠습니까. 서방님 첫째 영감마님 내외분과 그리고 새앗씨와 새 도련님을 생각해서라도 다시 宅으로 돌아가시죠.
+金 안들어가오.
+聖秀 그러면은 宅에서는 어떻게들 살어가심니까. 세상에서 천대를 받기는 비단 서방님뿐이 아님니다.
+金씨댁 일문이 모두 받습니다.
+이럴수록 서로 의지가 되여서 서로 위로를 해가면서 살어가시는 것이 人子로서의 도리가 아니심니까.
+金 나는 人子가 아뇨. 역적의 자식은 헛... 역적의 자식이라＜294＞
+聖秀 서방님 그럼 어떡하실 모양이심니까.
+金 세상과 싸홈을 시작하겠소.
+정자옆으로 炳淵의 父 金安根 나타나서 그들의 대화를 엿듣는다.
+金 세상을 내 맘대로 비꼬고 꼬집어 뜨들려오. 망석중이 모양으로 가지고 놀려오. 속속디리 응묻친 가진 醜惡을 갈기갈기 찌저서 들처내 버릴려오.
+그놈들이 권력을 가지고 덤비거든 나는 무서운 戱謔를 가지고 당할터이요 그놈들이 갓과 관을 쓰고 마조오면 나는 이 삿갓을 쓰고 앞을 가릴테요.
+할아범 세상을 등진다는 뜻은 죽는다는 뜻이 아뇨.
+나 혼자 한편이 되여가지고서 세상과 싸호겠다는 뜻이오.
+일월은 籠中鳥요 乾坤은 流萍草라 요까진 세상쯤야 조각돌같이 발끝으로 굴니기도 어렵지 않지.
+聖秀 서방님 그래도 宅으로 들어가십쇼.
+지금 왼통 왼집안 어른께서는 서방님 한 분 때문에 울면서 찾아단니심니다.
+金 그래도 안들어 갈래요.
+聖秀 그래도 들어가서야 합니다.
+安根 (소매로 눈을 씻는다) (앞으로 나오며)
+안들어와도 좋다.
+聖秀 영감마님.
+金 아버지.
+(두 사람 亭下로 내려온다)
+安根 炳淵아 네가 정 드러앉었기가 싫거든 내 네대신 집을 직히고 있으마. 까막까치도 보금자리가 있겠거늘 廢族이라고 집까지 없을소냐.
+金 아버지.
+安根 그러나 이왕 네가 이렇게 떠나가려고 하니 아마 이것이 영 이별이 될는지도 몰은다. 그러니 마즈막으로 내 말이나 한마디 들어다오. 炳淵아 이 늙은 놈의 가슴속도 젊은이만 못지 않는 불평과 원한이 충만했다. 백일장에서 네가 당한 이상의 그 몇갑절 이상의 侮辱과 경멸을 받어왔다.
+이 주림쌀 한줄기 한줄기가 모두가 피섞긴 눈물이 아닌 것이 없다.
+이렇다는 것이나 알고 떠나가거라.
+金 아버지.
+聖秀 영감마님 역정이 나셨습니까.
+安根 아닐세. 역정까지 낼 수 없는 것이 지금 우리들의 처지라네.
+悠悠蒼天아 이 무심한 蒼天아. (허공을 처다본다)
+金 아버지 정말 참을 수가 없습니다.
+安根 (다른 말을 꺼낸다) 또 청이 하나 있다.
+네 처나 마주막 한번 만나보고 인사들이나 하고 헤여저라. 네 불평은 네 불평이지만 네 처야 무슨 죄가 있니.
+뻑국새 소리
+金 만나보겠습니다.
+安根 아범 저기 가서 새앗씨 좀 모시고 오게. 아마 이 便을＜295＞ 바라보고 울고 섰으리.
+聖秀 네(下手로 退)
+安根 네 처야말로 갸륵하고도 남는다. 모두들 우리집안을 廢族의 집이라고 혼인들을 하려고 하니.
+그러나 네 처는 자진해서 우리집으로 들어오지를 않었니.
+너의 장인 장모는 말할 것도 없이 모-든 처가의 일가에서도 모두들 반대들을 했다. 그래도 네 처는 모든 어려움을 물리치고 네 처가 되여주지를 않었느냐.
+그러한 네 처를 혼자 내버려두고 갈 용기가 있니.
+金 (잠시 유혹이 되다가 결심을 한다)
+아버지 아무 말도 말어주셔요. (고개를 숙인다)
+安根 (외면을 하고 눈물을 씻는다) 오냐.
+어린애 업은 金의 안해. 聖秀와 가치 들어온다.
+安根 아가 애아범이 떠나간다. 작별이나 해라. 죽지는 않는단다.
+그의妻 (허리를 굽히며 눈물을 가만히 씻는다)
+金 (답례를 한다)
+-사이-
+安根 (어린애를 디려다 보며) 너이 아범이 떠나간단다. 세상을 향하여 떠나간단다.
+아범보고 인사나 해라.
+「아버지 안녕히 가세요. 제가 크게 자라면 할아버지나 아버님의 원한을 말쩡히 씻어 듸릴께요」해라 하...
+에구 그놈 말도 못하는 것이 빙긋거리기만 하는구나 허...
+(정자로 올나간다)
+聖秀 정자옆으로 선다.
+金 여보 미안하기 짝이 없오.
+언제든지 또 만납시다.
+그의妻 부듸 옥체나 보중해 주셔요.
+金 (安根에게 절하고) 아버지 만수무강하옵소서.
+安根 세상에게 지지마라.
+金 할아범 태평히 계슈.
+聖秀 서방님 몸 조심하세요.
+金 (삿갓을 쓰고 바뿐 걸음으로 정자옆 언덕길로 올나선다)
+聖秀 따라간다.
+安根 돌아선다.
+그의妻 눈을 가린다.
+김삿갓 언덕길에 잠시 서서 돌아본다.
+풍악소리
+金 (읊조린다) 浮浮我笠等虛舟. 一着平生弄世周.
+聖秀 언덕길위에 선다. 安根 그제야 돌아서서 기둥을 집고 炳淵의 간 곳을 바라본다.
+풍악소리 적어지며 뻑국새 소리.
+-幕-
+
+第二幕 「삿갓」을 쓰고서
+때 20년 뒤＜296＞
+
+第一場 群像
+舞臺 名妓, 桂香의 집 후원, 초당 앞에 平床 왼편으로 적은 울타리와 싸리짝 문 울타리는 밖으로 행인의 머리가 디려다 보히도록 얕다.
+바른편으로는 안채로 통한 문.
+초당마루에는 玄琴, 詩書, 筆墨 등이 놓여서 얼마나 歌舞才色이 겸비한 名技임을 알 수가 있다. 때는 늦인 봄 지금은 석양나절이다.
+人物
+金삿갓
+金判書
+元生員
+徐進士
+文僉知
+桂香
+桂香母
+女婢 五月
+개막
+桂香 마루끝에서 거문고를 뜯고 있다. 女婢 五月 안에서 다름박질해 나오면서
+五月 아씨 아씨.
+桂香 응.
+五月 저 왔어요. 또 왔어요.
+桂香 오다니 밋도 끝도 없이 뭐 왔단 말이냐.
+五月 저 元생원댁에서 떡하고 고기하고 비단하고 그저 한 轎子나 되게 하나 잔뜩 갖어 왔어요.
+桂香 (鼻笑) 흥 별 미친 녀석도 다 보겠군.
+五月 아이그머니. 왜 그렇게 고맙게 하는 어른께 욕을 하심니까.
+桂香 뭬 고마워.
+五月 그럼 그저 갔다주는 것바께 더 고마운게 어디 있습니까.
+桂香 듣기싫다.
+五月 괘니 그러시지 어쩌면 아씨께서는 그렇게 남의 속만 태우세요.
+桂香 뭐야.
+五月 아냐요. (나가며) 매친 녀석도 다 보겠지. 웨 자꾸 무얼 가지고 와서 남까지 야단을 만나게 하는 거야. (退)
+桂香 망쇠계집애도 다 많지. (뜰로 내려오며) (입속으로 시조를 읊는다)
+桂香母 (緋緞을 가지고서 허둥지둥 들어온다) 애 桂香아 桂香아.
+桂香 (모른척 하고 돌아서서 꽃송이를 어루만진다)
+桂香母 桂香아. 얘가 귀가 먹었나. 글쎄 애 桂香아. (가까히 선다)
+桂香 웨 야단이슈.＜297＞
+桂香母 글쎄 元생원께서 또 이런 비단을 보내셨구나.
+桂香 그러니 어쩌란 말이에요.
+桂香母 글쎄 이런 신세가 어디 있니.
+桂香 흥, (코웃음)
+桂香母 아니 너는 대관절 명색이 뭐란 말이냐 모두 흥이게?
+桂香 흥.
+桂香母 또 흥이야. 얘 네 오장은 어떻게 생겼길래 웨 이 모양이냐. 이왕 妓籍에 몸을 잠갔으면 기생다웁게 지내가야 안하니?
+桂香 어떻게?
+桂香母 뭬 어떻게야, 얼는 하나 큼직한 것으로 골나내야지. 얘 너 花無十日紅이란 소리도 못드러봤니.
+桂香 흥.
+桂香母 모르겠다. 너 안가지면 또 내가 가지겠다. 나종엔 누가 안다드냐.
+桂香 흥.
+桂香母 너만 흥을 할 줄 아니. 나도 안다. 나도 알어. 딸 하나 잘 둬서 흥 비단만 생기네 흥,(退)
+桂香 (한숨)
+五月 (다름박질해 들어오며) 앗씨 앗씨 또 왔어요. 또 왔어요.
+桂香 뭐냐 또 온게.
+五月 이번에는 정말 元생원이 오셨세요.
+桂香 그러니 어쩌란 말야.
+五月 어서 몸단장이나 곳처 하세요. 괘니.
+桂香 너나 하렴.
+五月 제가 무슨 일이 있어요.
+桂香 내대신 元생원님 모시고 놀지.
+五月 에이구 그렇게나 됐으면 오즉 좋겠어요.
+桂香 호호호.
+五月 아씨는 괘니 남만 가지고 놀니시지.
+o  桂香母 元생원을 인도해 가지고 들어온다.
+桂香母 어서 들어오세요. 그런데 웬걸 그렇게 자꾸 보내세요.
+元生員 별말을 다하네.
+桂香母 아가 元생원 오신다.
+桂香 (黙禮)
+桂香母 벙어리냐. 고개만 끗덕어리게.
+元生員 가만 내버려 두세 그려.
+桂香母 에구 퍽도 귀여하시지.
+元生員 너무 조롱말게. 그런데 참 조금 있으면 徐진사영감하고 文僉知영감이 오실텐데.
+桂香母 그러면 주안상을 채려야죠.
+元生員 그럼 수고 좀 해주게.
+桂香母 에구망녕의 말슴을 다 하시지-얘 오월아. 아니 너는 웨 얼이 빠저서 생원님만 멍하니 처다보고 섯니.
+五月 아냐요.
+桂香母 어서 들어가서 약주상이나 보자.＜293＞
+五月 (못맛당한 듯이) 내애! (다름박질해 들어간다)
+桂香母 아니 저런 망쇠년의 말대답 좀 봐(退)
+元生員 桂香아.
+桂香 네.
+元生員 자꾸 페를 끼처서 불안하다.
+桂香 괜찮어요.
+元生員 오늘 좀 놀다가련다.
+桂香 처분대로 하세요.
+元生員 이렇게 너무 싹싹해도 재미가 없다.
+桂香 흥.
+元生員 또 흥이냐. 어른 앞에서 흥이 뭐냐.
+桂香 죄송합니다.
+元生員 (걸터 앉는다) 오늘 우리들이 왜 모히는 줄 아늬.
+桂香 몰느겠습니다.
+元生員 저 徐진사나 文僉知가 하도 제각기 제일가는 문장들이라고 嬌들을 떨길내 내 네 앞에서 망신을 주려고 한잔식 나누면서 律한편식 짓기로 했다.
+桂香 네 그러서요.
+元生員 내 정말이지 이 세상천지에서는 몰나도 이 고을안에서는 남에게 떠러지질 안는다. 어쨌든지 글방 다닐 때 律을 자조 짓고 얼는 짓기론 유명했단다.
+桂香 曹子建이를 달무세서 七步詩를 잘 지시는 모양이심니다그려.
+元生員 안냐. 그런 것이 아니지만 말야. 애 桂香아. 어터튼지 내 오늘 두 사람에게 월등나게 글을 잘 질테니 너 칭찬좀 해다우.
+桂香 제 칭찬을 들어서 무얼하세요.
+元生員 네 칭찬이 제일이지.
+桂香 그렇지만 잘 지실지 못 지실지 어떻게 압니까.
+元生員 뭐 그건 내 장담한다. 그래도 나는 우리 셋중에서는 단연 李太白이다.
+桂香 흥.
+元生員 또 흥이냐. 에구 고것(금패가락지를 품속에서 내주면서) 어따 이것 봐라. 지난달에 南京장사치가 보물이라고 가지고 들어 온 것을 너 주려고 샀다.(次號完)＜299＞
+＜280-299＞

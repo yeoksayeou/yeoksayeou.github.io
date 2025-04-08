@@ -1,0 +1,44 @@
+**Header Section**
+Magazine Title: 三千里
+Publication Date: 1941년 06월 01일
+Article Title: 朝鮮映畵의 製作數量 (Production Quantity of Korean Films)
+Article Type: 잡저 (Miscellaneous Article/Feature)
+
+**Body Text Translation**
+Production Quantity of Korean Films
+
+The number of commercially released films (興行映畵) produced during Shōwa 14 [1939] was 11 films, comprising over 70 rolls. If government-produced films (官廳製作映畵) are added to this, the count reaches 20 films. Furthermore, the total number of feature films (劇映畫) produced in Korea (朝鮮) to date is over 200. Currently, there are 8 films under production. <194>
+
+**Summary**
+
+This short article from June 1941 provides statistics on film production in colonial Korea. It states that in 1939 (Shōwa 14), 11 commercial films were made, totaling over 70 reels. Including government productions, the number reaches 20 for that year. Cumulatively, over 200 feature films had been produced in Korea up to that point, with 8 more currently in production. For historians, this piece offers a quantitative snapshot of the Korean film industry under Japanese rule just before the Pacific War intensified. The distinction between commercial and government films hints at the colonial administration's involvement and potential use of cinema for propaganda or official purposes, while the overall numbers reflect the scale of cultural production despite colonial constraints.
+
+**Named Entities**
+朝鮮	조선	Chosŏn
+昭和	쇼와	Shōwa
+
+**Glossary**
+映畵	영화	Film, movie
+製作	제작	Production
+數量	수량	Quantity, amount
+興行	흥행	Commercial release/showing (for profit)
+本數	본수	Number of items (here, films); an older counter form for films/books.
+卷	권	Roll (of film); also used as a counter for books/volumes.
+官廳	관청	Government office/agency
+가하면	가하면	If added, including (from 가하다)
+算한다	산한다	To count, calculate (from 산하다)
+今日	금일	Today (older or formal term compared to 오늘)
+劇映畫	극영화	Feature film, drama film
+目下	목하	Currently, at present
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	朝鮮映畵의 製作數量
+기사형태	잡저
+
+朝鮮映畵의 製作數量
+昭和 14年 中의 興行映畵의 製作本數는 11本, 70餘 卷. 여기에 官廳製作映畵까지 가하면 20本을 算한다. 그리고 今日까지 朝鮮에서 제작된 劇映畫의 本數는 200餘 本이오, 目下 제작 중의 영화는 8本이다.＜194＞

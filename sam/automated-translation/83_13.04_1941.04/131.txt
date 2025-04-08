@@ -1,0 +1,65 @@
+Magazine Title: 삼천리 제13권 제4호
+Publication Date: 1941년 04월 01일
+Article Title: 昆明の大學近情 (Recent University Situation in Kunming)
+Author: None specified
+Article Type: 소식 (News/Update)
+
+Recent University Situation in Kunming
+
+With the expansion of the Incident [Sino-Japanese War], the Chongqing Government has primarily relocated cultural institutions and universities, formerly in Shanghai, to Kunming, the capital of Yunnan Province. Consequently, even today, Kunming generally serves as the cultural center for the Chongqing side. Publishing and similar activities are also most active here.
+
+Now, in Kunming, known as this cultural center, there are currently four government-established universities. These are Yunnan University, National Southwest University, the Sino-French University, and Dongzhi University. The total number of Chinese students studying here amounts to approximately five thousand. However, what is truly unfortunate for these students is the difficulty in obtaining necessities like paper, ink, and pencils—either the goods are unavailable, or even if available, the absurdly high prices inevitably lead to hardship in their lives.
+
+Current prices in Kunming are about five times higher than before the war. A student's minimum monthly food expense is eighteen yuan, and adding other costs brings the minimum monthly academic expense to thirty-five yuan. Indeed, even having increased fivefold to thirty-five yuan, Chinese academic expenses are quite cheap compared to those of students in our country [Japan]. <95>
+
+**Summary**
+
+This article reports on the status of universities in Kunming, China, in 1941, noting it became a cultural center for the Chongqing government after universities relocated from Shanghai due to the Sino-Japanese War. It lists four government universities (Yunnan, National Southwest, Sino-French, Dongzhi) with about 5,000 students facing hardship due to severe inflation (prices 5x pre-war) and shortages of basic supplies like paper and ink. While acknowledging the hardship, the article concludes by comparing the costs favorably to Japanese student expenses. From a Korean colonial history perspective, the article is interesting as it reflects the information disseminated in colonial Korea about wartime China, likely filtered through a Japanese lens. It highlights the awareness of the Nationalist government's relocation efforts and the economic struggles in unoccupied China, while the comparison to Japanese costs subtly reinforces a narrative of relative Japanese stability or superiority.
+
+**Named Entities**
+
+重慶政府	じゅうけいせいふ	Chongqing Government
+上海	しゃんはい	Shanghai
+雲南省	うんなんしょう	Yunnan Province
+昆明	こんめい	Kunming
+雲南大學	うんなんだいがく	Yunnan University
+國立西南大學	こくりつせいなんだいがく	National Southwest University
+華佛大學	かぶつだいがく	Sino-French University
+東智大學	とうちだいがく	Dongzhi University
+支那	しな	China
+
+**Glossary**
+
+事變	じへん	Incident (refers to the Second Sino-Japanese War)
+擴大	かくだい	Expansion, enlargement
+從來	じゅうらい	Formerly, conventionally
+機關	きかん	Institution, organization
+移傳	いでん	Relocation, transfer (less common term, usually 移転iten)
+首府	しゅふ	Capital city
+目下	もっか	Currently, at present
+官立	かんりつ	Government-established
+所在	しょざい	Location, whereabouts
+總計	そうけい	Total sum, aggregate
+氣の毒な	きのどくな	Pitiful, unfortunate
+品物	しなもの	Goods, articles
+物價高	ぶっかだか	High prices, inflation
+勢ひ	いきおい	Force, vigor; inevitably, naturally (in this context)
+來してゐる	きたしている	Causing, bringing about (older conjugation of 来す kitasu,ている teiru)
+最低	さいてい	Minimum, lowest
+隨分	ずいぶん	Quite, very, considerably
+けだし	けだし	Indeed, probably, likely (classical/formal conjunction)
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제4호
+발행일	1941년 04월 01일
+기사제목	昆明の大學近情
+기사형태	소식
+
+昆明の大學近情
+重慶政府では事變の擴大と共に、從來上海に在つた文化機關、大學等は主として雲南省の首府昆明に移傳した、よつて、今日でも大體に於いて、昆明は重慶側の文化の中心地となつてゐる。出版等もやはりこゝが一番盛んである。
+さて、この文化の中心と云はれる昆明には目下官立の四つの大學が所在してゐる。雲南大學、國立西南大學、華佛大學、東智大學がそれである。そしで、こゝに學ぶ支那人は總計で約五千人を數へてゐる。しかし何と云つても、彼等學生に對して氣の毒なことは、紙やインキ、鉛筆等を買ふにも、品物がなくまた品物はあつても、ベら棒な物價高で勢ひ彼等の生活難を來してゐることだ。
+昆明の目下の物價は戰前の約五倍だ學生の一ヶ月の食費は最低十八元その他の費用を加へると、最低の一ヶ月の學費は三十五元だと云ふ。けだし五倍になつて三五元といふのだから我が國の學生の學費に比べると支那の學費は隨分安いものではある＜95＞
+＜95＞

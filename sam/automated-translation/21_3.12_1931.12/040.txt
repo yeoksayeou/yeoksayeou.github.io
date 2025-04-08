@@ -1,0 +1,62 @@
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1931년 12월 01일
+Article Title: 三千里 「壁新聞」 제1호, 名唱의 報酬 (Samch'ŏlli "Wall Newspaper" No. 1, The Fees of Famous Singers)
+Author: Not specified
+Article Type: 소식 (News/Dispatch)
+
+From time to time, famous singers' competitions are held at the Chosŏn Theater (朝鮮劇場) or Tansŏngsa (團成社). When invited for these events, how much remuneration do the organizers give the famous singers (名唱) who perform for one night?
+For top-class singers like Yi Tong-baek (李東伯), Song Man-gap (宋萬甲), Kim Ch'ang-hwan (金昌煥), Kim Ch'ang-nyong (金昌龍), Pak Nok-chu (朴綠珠), and Kim Ch'o-sŏn (金楚仙), it is usual to receive from 10 to 20 Won. For other self-proclaimed famous singers, it is said to be less than that.
+
+When the Kyŏngsŏng Broadcasting Station (京城放送局) invites famous personalities for radio broadcasts, how much remuneration do they give? Usually, it is customary to send a box of sweets worth 2 or 3 Won per appearance. For lectures that require a bit more effort, cash payment of about 5 Won per session is given. Also, famous singers are given 10 Won per session, but if they bring along someone who plays the *changgo* (drum), 3 or 4 Won out of that is given to the drummer (*kosu*). It is said that even famous *kisaeng* (名流 기생) like Pak Nok-chu and Kim Ch'o-sŏn only end up with an income of 6 or 7 Won.<8>
+
+**Summary**
+
+This news brief from 1931 details the performance fees paid to famous traditional Korean singers (명창, *myŏngch'ang*) and other figures in colonial Seoul (Kyŏngsŏng). Top singers like Yi Tong-baek and Pak Nok-chu received 10-20 Won for a one-night theater performance, while lesser-known singers earned less. Radio appearances paid significantly less: lecturers received about 5 Won in cash (or a small gift box), while famous singers received 10 Won, out of which they had to pay their accompanying drummer (고수, *kosu*) 3-4 Won, leaving even famous *kisaeng* performers with only 6-7 Won. Historians might find the specific monetary figures useful for understanding the economic status of artists and the value placed on traditional performance versus modern media like radio in colonial Korea. It also sheds light on the payment structures, including the responsibility of lead performers to pay their accompanists.
+
+**Named Entities**
+
+李東伯	이동백	Yi Tong-baek
+宋萬甲	송만갑	Song Man-gap
+金昌煥	김창환	Kim Ch'ang-hwan
+金昌龍	김창룡	Kim Ch'ang-nyong
+朴綠珠	박록주	Pak Nok-chu
+金楚仙	김초선	Kim Ch'o-sŏn
+朝鮮劇場	조선극장	Chosŏn Kŭkchang
+團成社	단성사	Tansŏngsa
+京城放送局	경성방송국	Kyŏngsŏng Pangsongguk
+
+**Glossary**
+
+名唱	명창	Famous singer (esp. traditional Korean P'ansori singer)
+報酬	보수	Fee, remuneration, payment
+열니는데	열리는데	Opens, is held (older spelling of 열리는데)
+바더	받아	Receive (older spelling of 받아)
+하로밤	하룻밤	One night (older spelling of 하룻밤)
+그밧게	그 밖에	Besides that, other than that (older spelling/form)
+자칭	자칭	Self-proclaimed
+라듸오	라디오	Radio (older spelling)
+예이요	예의요	Is the custom/courtesy (older spelling of 예의요)
+조곰	조금	A little (older spelling of 조금)
+힘드린	힘들인	That required effort, strenuous (older form of 힘들인)
+식	씩	Each, per (suffix)
+다리고 가면	데리고 가면	If one takes [someone] along (older spelling/form of 데리고 가면)
+고수	고수	Drummer accompanying a P'ansori singer
+名流	명류	Famous, top-class, distinguished
+기생	기생	Kisaeng (traditional female entertainer)
+밧게 아니된다고 한다	밖에 안 된다고 한다	It is said that it is only... / does not exceed... (older construction/spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제12호
+발행일	1931년 12월 01일
+기사제목	三千里 「壁新聞」 제1호, 名唱의 報酬
+기사형태	소식
+
+三千里 「壁新聞」 제1호, 名唱의 報酬
+朝鮮劇場이나 團成社에서 각금 명창대회가 열니는데 그 때에 초빙을 바더 하로밤 출연하는 명창들에게 얼마나 되는 보수를 주최자 측에서 주는가 하면
+李東伯, 宋萬甲, 金昌煥, 金昌龍, 朴綠珠, 金楚仙
+등 일류에게는 10원에서 20원까지가 보통이요 그밧게 자칭 명창에 이르러는 그 이하라 한다.
+
+京城放送局에서 명사를 초빙하여 라듸오 방송을 하는데 얼마나한 보수를 주는가 하면 대개 한번에 2,3원짜리 과자상자를 보내주는 것이 예이요, 조곰 힘드린 강연엔 1회 5원 정도로 현금을 주며, 또 명창들은 한 회에 10원식 주는데 장고 치는 이를 다리고 가면 그중에 3,4원은 고수에게 주고 朴綠珠요 金楚仙이요 하는 名流 기생들도 6,7원의 수입 밧게 아니된다고 한다.<8>

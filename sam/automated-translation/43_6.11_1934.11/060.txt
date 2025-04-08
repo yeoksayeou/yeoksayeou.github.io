@@ -1,0 +1,75 @@
+Magazine Title: 三千리 제6권 제11호
+Publication Date: 1934년 11월 01일
+Article Title: 士官學校와 이럭저럭 (The Military Academy and This and That)
+Author: Not Specified
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+The Military Academy and This and That
+
+The Korean Military Academy (韓國 陸軍士官學校) was opened in 1899. The school building's entrance was at the site of the Salvation Army Barracks (救世軍營) near the Sŏdaemun-jŏng Station (西大門町 停留場). Behind that, on the site of the Monopoly Bureau's official residences (專賣局 官舍), stood a magnificent building (宏壯한 建物). There were many foreign officers (外國人土官) as instructors; Ŏ Tam (漁담) (currently Lieutenant General), a native of Tōkyō (東京), and Cho Sŏng-gŭn (趙性根) (currently Lieutenant General) were instructors at that time, and the Commandant (校長) was Mr. Yi Hŭi-du (李熙斗), who passed away the year before last.
+
+The Military Academy was closed (廢校) soon after the Russo-Japanese War (日露戰爭) broke out.<29>
+
+**Summary**
+
+This short article provides basic information about the Korean Military Academy established in 1899 during the Daehan Empire. It notes its location near Sŏdaemun Station in Seoul, initially on the former site of Salvation Army barracks and later encompassing a grand building on the former Monopoly Bureau residence site. It mentions foreign instructors and specifically names two Korean instructors, Ŏ Tam and Cho Sŏng-gŭn (both holding the rank of Lieutenant General in the Japanese Army at the time of writing, 1934), and the first Commandant, Yi Hŭi-du. The academy's closure shortly after the start of the Russo-Japanese War (1904-1905) is also stated. From a historical perspective, the article is interesting as it casually mentions Koreans who achieved high rank (Lieutenant General) within the Japanese military structure during the colonial period (Ŏ Tam and Cho Sŏng-gŭn), reflecting the complex paths some Koreans navigated under Japanese rule. The academy's brief existence and closure tied to the Russo-Japanese War also highlight the turbulent geopolitical situation involving Korea, Japan, and Russia at the turn of the 20th century, leading up to annexation.
+
+**Named Entities**
+
+韓國 陸軍士官學校	한국 육군사관학교	Han'guk Yukgun Sagwan Hakkyo
+西大門町	서대문정	Sŏdaemun-jŏng
+停留場	정류장	Chŏngnyujang
+救世軍營	구세군영	Kusegunyŏng
+專賣局	전매국	Chŏnmaeguk
+官舍	관사	Kwansa
+外國人土官	외국인 토관	Oegugin T'ogwan
+東京	동경	Tōkyō
+漁담	어담	Ŏ Tam
+趙性根	조성근	Cho Sŏng-gŭn
+李熙斗	이희두	Yi Hŭi-du
+日露戰爭	일로전쟁	Illo Chŏnjaeng
+
+**Glossary**
+
+士官學校	사관학교	Military Academy
+이럭저럭	이럭저럭	This and that; odds and ends; various things (used idiomatically in the title)
+잡저	잡저	Miscellaneous writing; essay; notes
+開校되엇는데	개교되었는데	Was opened (Older spelling/form of 개교되었는데)
+校舍	교사	School building
+停留場	정류장	Station; stop (Less common now than 역 or 정거장 for train stations)
+잇는	있는	Located; existing (Older spelling of 있는)
+救世軍營	구세군영	Salvation Army Barracks/Camp (營 means camp/barracks)
+專賣局	전매국	Monopoly Bureau
+官舍	관사	Official residence
+宏壯한	굉장한	Grand; magnificent (굉<0xE5><0xA3><0x89>한 is now standard)
+建物	건물	Building
+잇섯다	있었다	There was; existed (Older spelling of 있었다)
+外國人	외국인	Foreigner
+土官	토관	Officer (Uncommon term, likely meant 士官 (사관), military officer)
+敎官	교관	Instructor; military instructor
+多數하엿는데	다수하였는데	Were numerous (Older spelling/form of 다수하였는데)
+出身	출신	Origin; native of
+現	현	Current; present
+中將	중장	Lieutenant General
+엇고	였고	Was/were (and) (Older spelling of 였고, connecting clause)
+校長	교장	Principal; Commandant (of a military school)
+再昨年	재작년	The year before last
+作故한	작고한	Deceased; passed away (作故 is a formal term for death)
+엇다고	였다고	Was (reported/said) (Older spelling of 였다고)
+日露戰爭	일로전쟁	Russo-Japanese War (日=Japan, 露=Russia)
+이러나자	일어나자	As soon as it broke out/started (Older spelling of 일어나자)
+곳	곧	Soon; immediately
+廢校되엿다	폐교되었다	Was closed (school) (Older spelling/form of 폐교되었다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제11호
+발행일	1934년 11월 01일
+기사제목	士官學校와 이럭저럭
+기사형태	잡저
+
+士官學校와 이럭저럭
+韓國 陸軍士官學校는 1899年에 開校되엇는데 校舍는 西大門町 停留場 잇는 救世軍營터가 入口다. 그 뒤의 專賣局 官舍자리에 宏壯한 建物이 잇섯다. 外國人土官의 敎官도 多數하엿는데 東京出身의 漁담(現中將) 趙性根(現中將)도 그때의 敎官이엇고, 校長은 再昨年에 作故한 李熙斗氏엇다고,
+士官學校는 日露戰爭이 이러나자 곳 廢校되엿다.＜29＞

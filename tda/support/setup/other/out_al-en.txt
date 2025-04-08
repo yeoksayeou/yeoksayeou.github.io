@@ -1,0 +1,300 @@
+71	140	Mr. Chŏng Myŏngsŏn of the Mining Industry, Devoted 37 Years to the Field	Reporter	News
+71	150	Wartime and Industrial Service to the Nation	Chang Tŏksu	Editorial
+71	160	Impressions of Chen Youren	Yi Chŏngsŏp	Memoir/Reminiscence
+71	170	Special Feature: Alas, Mourning Song Mankap		Memoir/Reminiscence
+71	180	Nostalgia	Tokyo Ma Haesong	Literary Miscellaneous
+71	190	Ŭijŏngbu Studio, A Peaceful Village of Movies	Reporter	News
+71	200	A Land of Happiness Stretching Ten Thousand Ri		Literary Miscellaneous
+71	210	Peking University Student Life, Five Universities Have Opened	Peking O Ch'op'a	Literary Miscellaneous
+71	220	Folk Song Collecting Journey (II)	Yi Sangin	Literary Miscellaneous
+71	230	The Temple of Music	Reporter	News
+71	240	Holding the Brush for the 'Portrait of Ch'unhyang', Seeking the Yearned-for Kwanghallu Pavilion	Kim Ŭnho	Literary Miscellaneous
+71	250	Prospects for a "Great Revival Era" of Literature and Arts		Dialogue/Roundtable
+71	260	A Study of Ch'unwŏn (13)	Kim Tongin	Literary Criticism
+71	270	On Rebuilding the Literary World	Kim Munjip	Editorial
+71	280	Visiting Novelists (3), Historical Literature and Mr. Kim Tongin	Reporter	Dialogue/Roundtable
+71	290	Waiting (and 9 others)	Ch'unwŏn	Poetry
+71	300	Selections from Irish Yeats' Poetry	Yi Haeyun	Poetry
+71	310	Secret	Kim Kwangsŏp	Poetry
+71	320	What Cannot Be Hidden (and 2 others)	No Ch'ak	Poetry
+71	330	Human Sacrifice	Pak Kyeju	Novel
+71	340	Katō Kiyomasa (2)	Chang Hyŏkchu	Novel
+71	350	Editor's Postscript		Notice/Editor's Postscript
+71	360	'The Korea Problem' Special Edition		Editorial
+72	010	The Insides of Our Society	Confidential Room	News
+72	020	Commemorative Address for the Second Anniversary of the Holy War, Expressing Gratitude to the Officers and Soldiers of the Imperial Army		Editorial
+72	030	Meeting Where Civilian Volunteers Inquire with the Military and Government-General Authorities Regarding Conscription, Compulsory Education, and General Mobilization Issues		Dialogue/Roundtable
+72	040	Visiting Company Presidents (1) Mr. Yi Chongman's View on Business; He is the President of Taedong Mining, President of Taedong Rural Community, and Founder of Taedong Technical College	Ch'angnang Kaek	Dialogue/Roundtable
+72	050	To Mr. Yi Kwangsu - A Gathering of Female Writers Asking about Literature, Love, and Religion		Dialogue/Roundtable
+72	060	War and Education	Ch'oe Namsŏn	Editorial
+72	070	A New Start in the Literary World	Chŏn Yŏngt'aek	Literary Miscellaneous
+72	080	A Shallow Life	Yŏm Sangsŏp	Literary Miscellaneous
+72	090	Samch'ŏlli and I	An Sŏ	Literary Miscellaneous
+72	100	Report on Returning from the Battlefield and the Diet		Dialogue/Roundtable
+72	110	Samch'ŏlli Confidential Room, Chronicles of Beauties		News
+72	120	A Fundamental Analysis of Korean Society	In Chŏngsik	Editorial
+72	130	Love and the Trends of the Times - My Amateur View of Love -	Kim Myŏngsik	Literary Miscellaneous
+72	140	From the Notebook of a Famous Detective, The Secret Story of Yang Kŭnhwan's Swift Capture, Memoir of Detective Ōzawa of the Tokyo Metropolitan Police Department		Memoir/Reminiscence
+72	150	Impressions of Mr. Pak Sŏgyun - Sending Off the Newly Appointed Consul General to Poland -	Hsinking Kim Kyŏngjae	Literary Miscellaneous
+72	160	Meeting Wang Jingwei in Shanghai - Impressions of Him During the Hu-Wang-Chiang United Era -	Hong Yangmyŏng	Memoir/Reminiscence
+72	170	China's Ideological Warfare During Wartime, From the Peking University Era to the Current Melee	Guangdong Hwang Hangnu In	Editorial
+72	180	Chinese Character Newspapers under the Chiang Regime		Editorial
+72	190	Former Administrative Superintendent Mizuno's Recollections Regarding the "Korean Language"		Memoir/Reminiscence
+72	200	Ewha Womans College Professor Runs a Tea Room, A Couple Graduated from American Universities		News
+72	210	Singer Wang Subok, Planning to Go to Italy		Dialogue/Roundtable
+72	220	The Night of the Movie 'Mujŏng' (The Heartless)	Ch'unwŏn (Original Author), Pak Kich'ae (Director)	Dialogue/Roundtable
+72	230	An Open Letter Regarding the Movie 'Mujŏng' (The Heartless), Sent to Director Pak Kich'ae	Ch'unwŏn	Literary Miscellaneous
+72	240	Report on 'Shanghai Movies'	Kim Wŏndong in Shanghai	News
+72	250	Notes on Elected Members of the Keijō Municipal Council		News
+72	260	Dispatch from Paris	Ch'oe Sŭnghŭi	Literary Miscellaneous
+72	270	Diary of a Girls' School Dormitory Supervisor		Literary Miscellaneous
+72	280	The Life and Art of Solgŏ, the Painting Deity of Silla	Yi Sangin	Literary Miscellaneous
+72	290	The New Woman and Pregnancy	Female Doctor Chang Munkyŏng	Editorial
+72	300	News from the Kohyŏp Theater Troupe, Record of a Tour in Kwanbuk	From Sim Yŏng, No Chaesin, Chi Kyesun	Travelogue
+72	310	Miscellaneous Views on the Music Scene	Ku Wangsam	Literary Criticism
+72	320	Crisis in the Film Criticism Circle, Thoughts After Reading the Review of 'Mujŏng' (The Heartless)	Pak Kich'ae	Literary Miscellaneous
+72	330	An Actress's Stage Diary	Kŭgyŏnja Kim Pokchin	Literary Miscellaneous
+72	340	The Ancient Capital Nanjing in Early Summer, Seeking Historical Sites and Facts		Travelogue
+72	350	Ruins Related to the Famous General Napoleon in Moscow		Travelogue
+72	360	Sad Story of the "Great Wall," Lady Meng Jiang Seeks Her Lover		Literary Miscellaneous
+72	370	Critique of New Governors (1), On Ch'ungbuk Governor Yu Man'gyŏm	Kwanghwa Hagin	News
+72	380	Report on the Return of the Literary Delegation, After Visiting North China to Comfort the Imperial Army	Pak Yŏnghŭi, Kim Tongin, Im Haksu	Dialogue/Roundtable
+72	390	Account of Attending the Namwŏn Ch'unhyang Festival, Over 30,000 People Gathered Grandly	Hagye Sa Special Correspondent Ch'oe Okhŭi	Memoir/Reminiscence
+72	400	'Korea and Koreans' Special Japanese Edition		Editorial
+72	410	Works of a Literary Kisaeng, Impressions of King Tŏk, Etc.	Kim Suk	Literary Miscellaneous
+72	420	Love Stories of Famous Kisaeng in Changan	Paek Chorang	Novel
+72	430	Special Feature on the "Korean Literary Delegation," On Departing to Comfort the Imperial Army on the North China Front	Kim Tongin et al.	Literary Miscellaneous
+72	440	A Study of Ch'unwŏn (14)	Kim Tongin	Literary Criticism
+72	450	Visiting Novelists (4), Mr. Pak Chonghwa Discusses the History of Yŏnsan-gun	Reporter	Dialogue/Roundtable
+72	460	The Masterpiece-like Strange Phenomenon in the Literary World and Its Historical Significance	Kim Munjip	Literary Criticism
+72	470	The World of the Poet	No Chayŏng	Literary Criticism
+72	480	Zhu Xi's Nine Bend Song	Written by Zhu Xi, Translated by Yang Sangŭn	Poetry
+72	490	Scenario: Sŏnghwangdang (Village Tutelary Shrine)	Chŏng Pisŏk (Original Author), Yi Ik (Adaptation)	Play/Scenario
+72	500	Editor's Postscript		Notice/Editor's Postscript
+73	010	Confidential Room, The Insides of Our Society		News
+73	020	Congratulations, National Foundation Festival, On the Occasion of the 2600th Year of the Imperial Era	Kim Tonghwan	News
+73	030	Commemorative Address for the Fourth Year of the Holy War, Expressing Gratitude to the Imperial Army Officers and Soldiers, Expecting Self-Restraint from the People on the Home Front	Samch'ŏlli Company	Notice/Editor's Postscript
+73	040	Consideration of Various Popular Issues of Koreans within the Framework of "Naissen Ittai", "Naissen Ittai" and the Issue of Korean Individuality	Hyŏn Yŏngsŏp	Editorial
+73	050	Establishment of the "Clan Name System" and Korean-Manchurian Unity	Kim Myŏngsik	Editorial
+73	060	"Naissen Ittai" and Language	In Chŏngsik	Editorial
+73	070	Union Towards a Common Destiny and Its Reductionist Argument	Kim Han'gyŏng	Editorial
+73	080	"Naissen Ittai" Seen as a Great Mission for the Rise of Asia	Kim Tujŏng	Editorial
+73	090	Shanghai Under Wartime	New Shanghai Hotel Kim Kyŏngjae	Literary Miscellaneous
+73	100	Critique of Korean Provincial Governors (2)	Kwanghwa Hagin	Editorial
+73	110	The Urgent Task of Improving Livelihoods	Yi Kwangsu	Editorial
+73	120	The Great War and the Unrest of Small Nations	Reporter	Editorial
+73	130	Critique of Korean High Officials in the Government-General	Pugaksan In	Editorial
+73	140	Record of Name Changes ('Sōshi-kaimei') Among Social Figures		Literary Miscellaneous
+73	150	List of Gentlemen's Families in Changan (In Order of Arrival) (As of December 1, Shōwa 14)		Survey
+73	160	Personnel Directory of Various Social Organizations		Miscellaneous Writing
+73	170	Government-General Reporters' Roundtable		Dialogue/Roundtable
+73	180	Korean Farmers and the Development of Manchukuo	Hsinking Hong Yangmyŏng	Editorial
+73	190	The Whereabouts of Koreans in Siberia, History of Korean Emigration to the Far East	Chonggak Hagin	Editorial
+73	200	Housewives' Roundtable on "Family Life" During the Prolonged War		Dialogue/Roundtable
+73	210	Thoughts on My Husband Pak Sŏgyun, Having Gone to Hong Kong with Our Beloved Child	Ch'oe Sŏlgyŏng	Dialogue/Roundtable
+73	220	A Study of the "Ma-i Xiangshu" (Physiognomy Text)	Pae Sangch'ŏl	Editorial
+73	230	The Issue of Korean Clothing in Wartime, The Origin of Our Attire	Kim Myŏngsik	Editorial
+73	240	The Issue of Korean Clothing in Wartime, Proposal for Reforming the Clothing System	Kim Chunggŭn	Editorial
+73	250	The Military in Korea, Excerpts from Thirty Years of History	Yongsan Hagin	Editorial
+73	260	Famous Changan Kisaeng Who Married Well and Those Who Didn't		News
+73	270	Paekche Ruins Remaining in the Mainland (Japan)	Tokyo Edo Gakujin	Editorial
+73	280	Recent News of Compatriots Abroad, Trip to Lake Jingpo in North Manchuria	Pak Tonggŭn from Tokyo Castle	Travelogue
+73	290	Harbin and the Beer Company	Chosŏn Ilbo Industrial Inspection Team Yi Sangho	Literary Miscellaneous
+73	300	The Life of Compatriots in Jilin	Central Council Councillor Pak Yonggu	Editorial
+73	310	Koreans in Peking	War Correspondent Writer Im Haksu	Editorial
+73	320	Anecdotes of Great Monks, Master Wŏnhyo	Kim T'aehŭp	Literary Miscellaneous
+73	330	Songam Ch'ŏsa and the Eight Songs of Solitary Pleasure, Plus the Eighteen Songs of Leisurely Living	Yi Sangin	Literary Miscellaneous
+73	340	Collection of War Poster Slogans, From the Time of World War I		Miscellaneous Writing
+73	350	New Trends in Korean Literature	Chang Hyŏkchu	Literary Criticism
+73	360	Commemorative Statues of World Writers; Life is Short, Art is Long.	Chŏng Insŏp	Memoir/Reminiscence
+73	370	Battle Sites and Poetry, Seeking the Traces of Poets Like Li Bai, Du Mu, Bai Juyi, Su Dongpo	Samch'ŏlli Editorial Department	Travelogue
+73	380	Siku Quanshu (Complete Library in Four Sections)	Ch'oe Namsŏn	Editorial
+73	390	Miscellaneous Thoughts on the Tale of Kogyun	Im Hwa	Literary Miscellaneous
+73	400	The Love Affairs of Intellectuals	Yi Sŏkhun	Literary Miscellaneous
+73	410	Reminiscence	Kim Kwangsŏp	Literary Miscellaneous
+73	420	The Significance of Ideological Conversion	Hong Yangmyŏng	Literary Miscellaneous
+73	430	Three Translated Poems	Translated by Yi Hayun	Poetry
+73	440	Corn	Ch'unwŏn	Novel
+73	450	Novel: Taejo (Manchukuo Ministry of People's Welfare Minister's Award)	Mongnyugae	Novel
+73	460	Editor's Postscript		Notice/Editor's Postscript
+74	010	Confidential Room, The Insides of Our Society		News
+74	020	Celebrating the Emperor's Birthday, On the Occasion of Reaching the Fortieth Year of His Reign	Samch'ŏlli President Kim Tonghwan	Editorial
+74	030	Future University President's Grand Plan for Founding a University		Dialogue/Roundtable
+74	040	Samch'ŏlli Urgent Bulletin Board, What is the Nine-Power Treaty? Was it a Pretext for Western Nations Misunderstanding the Meaning of the Holy War?		News
+74	050	Samch'ŏlli Urgent Bulletin Board, Scene of the Meeting Between North Korean Army Chief of Staff Ōba and Russian Major General "Ka"		News
+74	060	All Korea Provincial Council Members and Municipal Council Members, Record of Name Changes ('Sōshi-kaimei') = As of March 10		News
+74	070	Samch'ŏlli Urgent Bulletin Board, Armed Women Among Kim Il-sŏng Bandits, Twenty-Five Abducted Return Safely		News
+74	080	A Letter Presented to Mr. Wang Jingwei, The Prosperity of East Asia and Your Duty	In Chŏngsik	Editorial
+74	090	On the New Head of the Office of the Yi Royal Household, Yi Hangk'u	Kim Tongjin	News
+74	100	Roundtable Discussing the Establishment of the New Government and the Land and People of Over a Hundred Western Provinces		Dialogue/Roundtable
+74	110	Public Opinion Survey		Survey
+74	120	The Presbyterian Church Split and Opinions Thereon		Survey
+74	130	The War Starts Now, Twenty Million People, Be Vigilant!		Editorial
+74	140	Samch'ŏlli Bulletin Board		News
+74	150	Travelogue: Namhansansŏng Fortress	Pak Chonghwa	Travelogue
+74	160	Newspaper Novels and the Author's Attitude		Dialogue/Roundtable
+74	170	Notes on Art Appreciation Among Prominent Ladies		Survey
+74	180	Roundtable Where Contemporary Beauties like Mun Yebong Gather to Discuss "Red Tears and Resentment"		Dialogue/Roundtable
+74	190	Marching into the "Wedding Hall"	Kang Poksin	Memoir/Reminiscence
+74	200	Kim Soyŏng, Full of Resentment, Having Returned from Tokyo		Dialogue/Roundtable
+74	210	Prison Diary from a Korean Jail, The Story of the French Catholic Priest Ridel		Memoir/Reminiscence
+74	220	My Friend in Japan	Philippine President Quezon	Editorial
+74	230	Seeking and Seeing the Giant Gandhi	Kim Ilch'ŏn, Passing Through Calcutta City	Travelogue
+74	240	A Study of the "Physiognomy of Wealth and Nobility," A Popular Lecture on "Physiognomy"	Ch'un'gang Pae Sangch'ŏl	Miscellaneous Writing
+74	250	Piningja	Pak T'aewŏn	Literary Miscellaneous
+74	260	My Song of Everlasting Sorrow, A Record of My Sadness When I Wandered Weeping from Harbin to Hsinking, Holding My Beloved Child	Kim Yŏnsil	Memoir/Reminiscence
+74	270	Thoughts of My Departed Mother	Yang Chŏnghyang	Memoir/Reminiscence
+74	280	Record of New Construction in the National Capital Nanjing	Hujiang Scholar in Nanjing	News
+74	290	Chinese Writers Amidst the Turmoil	Shanghai Kim Hakchun	News
+74	300	The Foreign Cemetery at Pusan Pier, Graves of Foreigners Filled with Poetry and Sorrow		News
+74	310	Comedy: Domestic Harmony Brings Success in Everything (Two Scenes)	Kim Wŏnho, Son Ilp'yŏng, New Year's Chat	Play/Scenario
+74	320	Two Jokes		Miscellaneous Writing
+74	330	Collection of Writings by Women		Literary Miscellaneous
+74	340	Women's Arts, (1. Collection of Elegant Writings by Wives of Literary Men)		Memoir/Reminiscence
+74	350	Women's Arts, (2. Collection of Poems by Accomplished Poetesses)		Poetry
+74	360	Women's Arts, (3. Collection of Novels by Female Writers)		Novel
+74	361	Women's Arts, (3. Collection of Novels by Female Writers) - One Year Later - Record of a Certain Marriage	Yŏ Sunok	Novel
+74	370	Editor's Postscript		Notice/Editor's Postscript
+75	010	Confidential Room (The Insides of Our Society)		News
+75	020	Korean Compatriots in Wuhan	Yu Sangŭn	News
+75	030	Telephone Numbers of Major Public and Private Offices in Keijō		Miscellaneous Writing
+75	040	Urgent Proposal from Private Citizens to the Provincial Governors' Meeting	Ha Chunsŏk, Yi Sŭngu, Kim Sŏngsu, Yi Sŏnghwan	Editorial
+75	050	The New Government and Wang Jingwei's Policies	Chang Tŏksu	Editorial
+75	060	Various Issues of Compatriots in the Mainland (Japan) (Fragmentary Thoughts During Travel)	Sin T'aekak	Editorial
+75	070	My Inaugural Address	Ch'ŏndogyo Leader Yi Chongnin	Editorial
+75	080	"Military Instructors" Meeting		Dialogue/Roundtable
+75	090	Mr. Kim Sŏngsu's Views on Business, Life, and Money (He is Manchukuo's Consul General in Keijō, President of Kyŏngsŏng Spinning Co., Ltd., Founder of Fengtian Tongkwang Middle School)	Pak Kyeju	Dialogue/Roundtable
+75	100	Let's Conserve Rice and Clothing (The Long War and the People's Resolve)		Editorial
+75	110	Ambassador Abe and the Principles of Peace, Following the Line of the Konoe Statement Principles		Editorial
+75	120	The War is Still Far Off, Warning from Chief of Staff Itagaki		Editorial
+75	130	Account of Attending the Nanjing New Government Inauguration Ceremony		Dialogue/Roundtable
+75	140	On the Significance of the Ch'ŏndogyo Merger and Its Future Path	Ch'ŏndogyo Youth Party Leader Cho Kigan	Editorial
+75	150	Record of Visits to Governor-General Minami's Home by Women from Various Circles		News
+75	160	Samch'ŏlli Bulletin Board, Miss Sŏ Chŏngsun, the First Korean "Angel in White" at the Army Hospital		News
+75	170	Travelogue: Taedong River, Praising the P'ae River in Early Summer	Yang Chudong	Literary Miscellaneous
+75	180	Unrequited Love	Ch'unwŏn	Literary Miscellaneous
+75	190	Views on Love Among Young Literary Men		Literary Miscellaneous
+75	200	Taught That Love is "Giving," After Reading the Novel "Sunaebo" (Record of Martyred Love)	Ch'oe Chŏnghŭi	Literary Miscellaneous
+75	210	Visiting the Newlywed Home of Mr. Son Kijŏng, Says Living in Berlin Was Just a Fantasy	Paegun Ch'o	News
+75	220	Samch'ŏlli Bulletin Board		Miscellaneous Writing
+75	230	Lifespan and Success/Failure in Life	Pae Sangch'ŏl	Editorial
+75	240	Samch'ŏlli Bulletin Board, Old Man Gandhi Stars in a Movie	Samch'ŏlli Company	Miscellaneous Writing
+75	250	Excerpts of Heart's Fire	P'ain	Literary Miscellaneous
+75	260	Collection of Letters from Stars	Samch'ŏlli Company	Miscellaneous Writing
+75	270	Letter from Ch'oe Sŭnghŭi Sent from America, From New York to Sisters in the Homeland	Ch'oe Sŭnghŭi	Literary Miscellaneous
+75	280	Record of a Meeting Between Actresses	Kim Yŏnsil, Kim Soyŏng	News
+75	290	Roundtable Where Literary Figures from the Kwansŏ Region Discuss "Local Culture"	Samch'ŏlli Company	Dialogue/Roundtable
+75	300	Sickbed Diary	Hŏ Yŏngsuk	Literary Miscellaneous
+75	310	Cultural Appreciation Notes by Students of the Literature and Music Departments at Ewha Womans College	Yi Yŏngsul et al.	Literary Miscellaneous
+75	320	Madame Pae Kuja Touching Her 108 Prayer Beads	Ch'obyŏngjŏng	Dialogue/Roundtable
+75	330	Literary Circle Comings and Goings	Samch'ŏlli Company	News
+75	340	<True Story> Confession of an Actress Who Superstitiously Believed in Horoscopes	Pak Kich'ae	Memoir/Reminiscence
+75	350	Marquis Yun Tŏgyŏng and Mr. Pak Ch'un'gŭm, Conversation Between Members of the House of Peers and House of Representatives from the Peninsula		Dialogue/Roundtable
+75	360	Korean Culture and Industry Exposition, Volunteer Soldier Section		News
+75	370	Special Feature: New Works by Award-Winning Writers	Samch'ŏlli Company	Poetry
+75	380	Our Country's Culture Awards and Art Awards	Samch'ŏlli Editorial Department	Miscellaneous Writing
+75	390	Magazine Special Feature, Korean "Culture and Industry" Exposition, General Catalog of the Korean Culture and Industry Exposition on Paper	Compiled by Samch'ŏlli Company Editorial Department	Miscellaneous Writing
+75	400	Korean Culture and Industry Exposition, Culture Section		Miscellaneous Writing
+75	410	Korean Culture and Industry Exposition, Film Section		Miscellaneous Writing
+75	420	The Peninsula's Products and Culture, Surveying Each of the Thirteen Provinces		Editorial
+75	430	Rain and Snow	Kang Hyŏnggu	Novel
+75	440	Kim Sayŏng	Resenting Heaven	Novel
+75	450	Play: Today's Couple (One Act)	Hong Yongt'aek	Play/Scenario
+75	460	Play: Blue Sky (One Act)	Ham Sedŏk	Play/Scenario
+75	470	Editor's Postscript		Notice/Editor's Postscript
+75	480	Play: Sacrifice (Two Acts)	Kang Yŏnghŭi	Play/Scenario
+76	010	Confidential Room, The Insides of Our Society		News
+76	020	Outline for Sino-Japanese Peace by New China's Politicians and Commentators		Editorial
+76	030	Urgent Notice to Our Esteemed Readers	Samch'ŏlli Company Business Manager	Notice/Editor's Postscript
+76	040	Governor-General Minami's Speech, At the Provincial Governors' Meeting	Government-General of Korea Minami Jirō	Editorial
+76	050	Special Report		Editorial
+76	060	Thoroughness of Wartime Life		News
+76	070	Let's Save 500 Million Won		Editorial
+76	080	History of the Rise and Fall of Poland	Kim Myŏngsik	Editorial
+76	090	Mr. Min Kyusik's Business and View of Life; He is Chairman of Tongil Bank, President of Yŏngbo Limited Partnership, Director of Hwimun Middle School	Pak Kyeju	Dialogue/Roundtable
+76	100	The Volunteer Soldier System and Hopes for the People of the Peninsula	Korean Army Information Department, Army Major Gama Isao	Editorial
+76	110	Record of the Shanghai Korean Women's Association's Visit to the "Mountains and Rivers of the Homeland"		Dialogue/Roundtable
+76	120	Travelogue: Haeinsa Temple	Yi Kiyŏng	Travelogue
+76	130	Continued: "Len's Elegy"	Mo Yunsuk	Poetry
+76	140	Three Great Writers of the High Tang Era		Literary Miscellaneous
+76	150	Letters of Writers and Poets, Ten Letters Between Male and Female Writers		Literary Miscellaneous
+76	160	Recollections of the Era of Various Chinese Universities as Professors and University Students	Yi Hun'gu et al.	Memoir/Reminiscence
+76	170	Watching the Berlin Olympics Film "Olympia" (Festival of Nations)	Son Kijŏng	Travelogue
+76	180	Report on the Lives of Husbands Who Are Social Figures in Changan (Recent News of Four Gentlemen)		News
+76	190	Fragrant Resentment	Wŏlt'an	Poetry
+76	200	Water Bend	An Sŏ	Poetry
+76	210	In the Wind, (- You, my mother's son along with me, my brother who fell prostrate on the street of Pogranichnaya and passed away forever -)	Yi Yongak	Poetry
+76	220	Dream of the First Summer Night	P'ain	Poetry
+76	230	Roundtable Where Literary Figures from the Kiho Region Discuss "Local Culture"		Dialogue/Roundtable
+76	240	Chronology of "Favorite Works Read"		Survey
+76	250	"Cultural Appreciation" Notes by Literature Students of Yŏnhŭi College		Survey
+76	260	Female Painters Depict Their "Ideal Handsome Man" with Their Brushes		Survey
+76	270	Inspiring Story of Patriotism, (Miss Chŏng, Who Dedicated Herself to the Emperor and Country Instead of Her Brother Who Could Not Become a Volunteer Soldier, as an Angel in White)		News
+76	280	Rationing System Demanded Among Intellectual Women		News
+76	290	Question: If You Won 10,000 Won from Bonds, (If you won the first prize of 10,000 won in the recent Patriotic Bonds, what would you use the money for?)		Survey
+76	300	Empress Dowager Cixi's Imperial Visit to Fengtian	Former Qing Official Yu Derling	Memoir/Reminiscence
+76	310	Easter Night, - Visiting Harbin and Seeing a Russian Festival -	Songhwagang In	Travelogue
+76	320	Philippine Constitution		News
+76	330	War and the Love of Wives and Daughters as Sung by Li Bai and Bai Juyi	Samch'ŏlli Company Editorial Department	Literary Miscellaneous
+76	340	Jokes		Miscellaneous Writing
+76	350	Physiognomy of "A Beauty's Life"	Pae Sangch'ŏl	Miscellaneous Writing
+76	360	"New Chinese Literature" Special Feature - The New Poetry Scene in China		Poetry
+76	370	"New Chinese Literature" Special Feature - Essays		Literary Miscellaneous
+76	380	"New Chinese Literature" Special Feature - Novels		Novel
+76	390	The Custom of Mixed Bathing		Miscellaneous Writing
+76	400	Editor's Postscript		Notice/Editor's Postscript
+77	010	The Insides of Our Society	Confidential Room	News
+77	020	Third Anniversary of the Incident, Remember This Day, July 7th!		Notice/Editor's Postscript
+77	030	Amidst National Affairs, Volunteer Soldiers (Applicants) Surpass 100,000; A Letter Sent to the Mothers and Sisters of Volunteer Soldiers		Literary Miscellaneous
+77	040	To the Volunteer Soldiers, A Letter Encouraging All Korean Youth Upon Hearing the News of Surpassing 100,000 Applicants		Editorial
+77	050	How Will the World War Turn Out? Interesting Observations from Various Experts (All replies received by June 10)		Survey
+77	060	Third Anniversary of the Incident: Special Feature "Holy War Commemorative Writings"		Literary Miscellaneous
+77	070	On the Fleeting Star Chin Hakmun	Kim Tongjin	Editorial
+77	080	From the Ancient City of Dresden, Recent Letter from Mr. Pak Sŏgyun		Literary Miscellaneous
+77	090	Recent Letter from Shanghai, From Mr. Kim Kyŏngjae		Literary Miscellaneous
+77	100	Hitler's Speech Regarding Japan		Editorial
+77	110	The Spirit of Self-Condemnation, Publication of Essay Commemorating the Return to the Capital	Wang Jingwei	Editorial
+77	120	Korean Farmers and Literary Expression	In Chŏngsik	Literary Criticism
+77	130	The Enemy Capital Chongqing Recently		Editorial
+77	140	Fairyland Myohyangsan Mountain	No Ch'ŏnmyŏng	Travelogue
+77	150	Continued: Len's Elegy	Mo Yunsuk	Poetry
+77	160	Friendship	Kim Kwangsŏp	Poetry
+77	170	Solitude (and 10 others)	P'ain	Poetry
+77	180	A Glimpse of New China's Cultural Institutions	Yangtze River Person from Shanghai	Travelogue
+77	190	Two Inspiring Stories of Patriotism		Miscellaneous Writing
+77	200	Roundtable Where Literary Figures from the Yŏngnam and Yŏngdong Regions Discuss "Local Culture" (Third Session)		Dialogue/Roundtable
+77	210	Excerpts from Artists' Lives	Yi Hyosŏk, Im Tonghyŏk, Ch'oe Mongnang	Literary Miscellaneous
+77	220	Masterpieces of the Art Exhibition, Critique of Works from the 19th Exhibition	Ku Ponung	Art Criticism
+77	230	Newlywed Life of a Young Artist, The Happiness of Marriage, A Glimpse of My Newlywed Life	Ham Taehun	Literary Miscellaneous
+77	240	Life on Ttukseom Island	Chŏng Hyŏnung	Literary Miscellaneous
+77	250	Early Summer Essays by New Writers	Kye Yongmuk et al.	Literary Miscellaneous
+77	260	"Cultural Appreciation Notes" by Central Childcare Students (Part 4)	No Chŏngae et al.	Literary Miscellaneous
+77	270	Excerpts from Prefaces by Various Authors	Ch'uho Chŏn Yŏngt'aek et al.	Literary Criticism
+77	280	Popular Lecture on Physiognomy, Continued Study of the Physiognomy of Wealth and Nobility, Those Destined to Become 'High Officials and Wealthy Merchants'	Pae Sangch'ŏl	Miscellaneous Writing
+77	290	German War Literature	Berlin Scholar	Literary Criticism
+77	300	Jokes		Miscellaneous Writing
+77	310	Collection of Famous Poems by China's Sage Poets	Yang Chudong et al.	Poetry
+77	320	Death	Paul Bourget et al.	Novel
+77	330	Solitude, French Academy Literature Prize Work	By Estaunié	Novel
+77	340	Meek Heritage, From the Nobel Prize-Winning Work "Meek Heritage"	By F. E. Sillanpää (Nordic Finnish Writer)	Novel
+77	350	Editor's Postscript		Notice/Editor's Postscript
+78	010	Confidential Room, The Insides of Our Society		News
+78	020	The Truth Behind the Voluntary Closure of Chosŏn Ilbo and Tonga Ilbo, and the Future		News
+78	030	Company Notice		Notice/Editor's Postscript
+78	040	Korean Demands Regarding the New Political Structure and the New Konoe Cabinet	Ch'oe Rin, Pak Hŭngsik, O Kŭngsŏn	Editorial
+78	050	Samch'ŏlli Bulletin Board		News
+78	060	My View of 'Prime Minister Konoe'		Survey
+78	070	My View of 'President Hitler'		Survey
+78	080	Striving Towards the Establishment of a New Order in East Asia, Statement by the New Konoe Cabinet		Editorial
+78	090	War and Women	Former Governor-General of Korea Ugaki Kazushige	Editorial
+78	100	Festival of the Nation		Memoir/Reminiscence
+78	110	Aspects of Turbulent Europe	Former Manchukuo Consul General to Poland Pak Sŏgyun	Editorial
+78	120	Local Korean Populace After the Incident, Vitality in Qingdao and Jinan, Sharp Increase in Korean Population Across North China	Han Sangnyong	Travelogue
+78	130	Recent Situation in Shanghai and the Lives of Resident Koreans, Transcript of Conversation Between Mr. Yi Kabyŏng and Our Magazine's Reporter		Dialogue/Roundtable
+78	140	The Great Achievements of Dr. Wani	President of the Economic Federation, Duke Ichijō Sanetaka	Editorial
+78	150	Half a Century Since the Patriot's Passing, Thoughts on the New Order in East Asia and Kim Okkyun	Tōyama Mitsuru	Memoir/Reminiscence
+78	160	Korean Farmers and Literary Expression	In Chŏngsik	Literary Criticism
+78	170	Roundtable Where Writers from Kwanbuk and Manchuria Discuss "Local Culture" (Fourth Session)		Dialogue/Roundtable
+78	180	Going to the Kaema Plateau Battlefield	Mo Yunsuk	Travelogue
+78	190	Korea's Literature and Arts & Crafts, Transcript of Conversation Between Mr. Yanagi Sōetsu and Mr. Akita Ujaku		Dialogue/Roundtable
+78	200	Book Review, Reading Yun Sŏkchung's "Ŏkkaedongmu" (Shoulder to Shoulder)	Pak Kyeju	Literary Criticism

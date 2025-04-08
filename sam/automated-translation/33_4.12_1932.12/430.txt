@@ -1,0 +1,57 @@
+**Header Section:**
+Magazine Title: 三千里
+Publication Date: 1932년 12월 01일
+Article Title: 12月號를 내면서 讀者諸氏에 急告 (Urgent Notice to All Readers Upon Publishing the December Issue)
+Author: 三千里社 主幹 (Publisher/Editor of Samch'ŏlli Company)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation:**
+Urgent Notice to All Readers Upon Publishing the December Issue
+Special 1
+We intended to publish the November issue of "Samch'ŏlli" (三千里), which you all kindly read avidly, on the 1st of that month. However, we were astonished to learn on October 25th that the entire manuscript of over 300 pages, submitted to the Censorship Authorities (檢閱當局) on October 8th, was suddenly caught by "unavoidable circumstances" and not a single page could be released. Therefore, over the two days of the 25th and 26th, we exerted all our efforts to create replacement manuscripts entirely anew, submitted them for censorship, and received permission in early November. Consequently, we proceeded with printing day and night, but the printing house's full capacity required over a week just for this printing. Thus, unavoidably, the magazine has only now come out to the public (市井).
+
+For this reason, being unable to put out the December issue now, we have unavoidably designated this month's issue as the December issue. We will make the New Year issue a grand special feature and will definitely release it in advance around December 15th. Therefore, we ask the tens of thousands of readers who have fervently supported and avidly read this journal for four years to deeply understand (深諒) the unexpected situation our company faced this time and to generously overlook (눌너보아주시압) the fact that the November issue became *. We will certainly compensate (代償) for this by * the New Year issue as recompense.
+
+Respectfully, The Publisher/Editor (主幹) of Samch'ŏlli Company (三千里社) <特別1>
+
+**Summary**
+
+The publisher of the magazine *Samch'ŏlli* informs readers about a significant publication delay. The entire manuscript for the November 1932 issue was rejected by censorship authorities after submission. The staff had to rewrite the entire issue in two days, leading to further delays in approval and printing. Consequently, the issue intended for November is being released late and labeled as the December issue. The actual December issue, planned as a New Year special, will be published early, around December 15th, as compensation. This notice vividly illustrates the practical challenges faced by Korean publishers under Japanese colonial rule, specifically the direct impact of censorship (검열) on content and schedules, forcing rapid rewrites and apologies to readers. Historians might find this a concrete example of the pressures and operational difficulties imposed by the colonial censorship apparatus on cultural production.
+
+**Named Entities**
+
+三千里社	삼천리사	Samch'ŏlli Sa
+
+**Glossary**
+
+愛讀하여주시든	애독해주시던	(You all) kindly read avidly (older verb ending)
+내이려 하엿사오나	내려고 하였사오나	Intended to publish, but (older spelling/conjugation)
+檢閱當局	검열당국	Censorship Authorities
+至하야	이르러	Reaching; Upon (older grammatical form derived from Hanja)
+부득이한	부득이한	Unavoidable; Inevitable
+만드러	만들어	To make (older spelling)
+너허	넣어	To put in; To submit (older spelling)
+市井	시정	The market; The public streets; Publicly available
+낼름이 업서서	낼 수가 없어서	Being unable to put out/publish (idiomatic/older expression)
+大大특집하야	대대특집하여	Making it a grand special feature
+斷定코	단정코	Assuredly; Definitely
+支持	지지	Support
+深諒하시고	심량하시고	Please deeply understand/sympathize (formal request)
+되옴을	됨을	Becoming; The fact that it became (older spelling/nominalization)
+눌너보아주시압	너그러이 보아 주십시오	Please generously overlook/look upon it kindly (older imperative form)
+代償	대상	Compensation; Recompense
+主幹	주간	Publisher; Editor-in-chief
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제12호
+발행일	1932년 12월 01일
+기사제목	12月號를 내면서 讀者諸氏에 急告
+기사형태	사고·편집후기
+
+12月號를 내면서 讀者諸氏에 急告
+特別1
+여러분께서 愛讀하여주시든 「三千里」는 11월호를 그 달 1일에 내이려 하엿사오나 10월 8일에 檢閱當局에 제출하엿든 原稿 3百餘 枚 전부가 10월 25일에 至하야 突然히 「부득이한 사정」에 걸니게 되어 한 장도 나오지 못하게 되엇슴을 알고 놀나서 이에 25, 26의 兩日間에 全力을 다하야 그 보충原稿를 다시 전부만드러 檢閱에 너허 11월 초순에 至하야 許可가 되어 나왓섯슴니다. 그래서 晝夜계속하야 인쇄에 着手하엿사오나 인쇄소의 全능력이 이 인쇄만에 일주일 以上을 要하게 되는터이라 그래서 부득이 今日에야 잡지가 市井에 나오게 된것이외다. 이러한 까닭으로 이제 12월호를 낼름이 업서서 북득이 本月號로서 12월호를 삼고 新年號는 大大특집하야 斷定코 12월 15일頃 미리 發賣하겟사오니 4주년이나 本誌를 열렬히 支持 愛讀하여주시든 數萬讀者께서는 今番 本社가 당한 不意의 사정을 深諒하시고 11월호가 *하게 되옴을 너그러히 눌너보아주시압. 반드시 新年號를 *하야 그에 代償할 報答을 하여드리겟슴니다.
+三千里社 主幹 再拜＜特別1＞

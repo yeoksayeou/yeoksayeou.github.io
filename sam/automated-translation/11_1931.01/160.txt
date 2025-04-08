@@ -1,0 +1,43 @@
+Magazine Title: 삼천리 제11호
+Publication Date: 1931년 01월 01일
+Article Title: 한글運動 (Hangeul Movement)
+Author: None specified
+Article Type: 소식 (News/Update)
+
+As a pioneer of the Hangeul Use Movement, the Korean Language Research Society (朝鮮語硏究會), currently busy with dictionary compilation (辭典編纂) and spelling reform (綴字法改正), held a commemorative meeting for the 480th anniversary on November 11th at the Myŏngwŏlgwan (明月館) main branch, which was very successful (盛況).<43>
+
+**Summary**
+
+This news brief reports that the Korean Language Research Society (Chosŏnŏ Yŏn'guhoe), described as a pioneer in the movement to promote the use of Hangeul, held a successful 480th commemorative meeting on November 11th at Myŏngwŏlgwan. The society was actively engaged in compiling a dictionary and reforming Korean orthography at the time. For historians, this article provides a glimpse into the activities of Korean cultural nationalist organizations during the Japanese colonial period, specifically their efforts to standardize and promote the Korean language as a form of resistance and identity preservation, despite the political climate.
+
+**Named Entities**
+
+朝鮮語硏究會	조선어연구회	Chosŏnŏ Yŏn'guhoe
+明月館	명월관	Myŏngwŏlgwan
+
+**Glossary**
+
+한글運動	한글 운동	Hangeul Movement (Movement to promote the Korean alphabet)
+愛用	애용	Cherished use; Patronage
+先驅	선구	Pioneer; Forerunner
+辭典編纂	사전 편찬	Dictionary compilation
+綴字法	철자법	Spelling rules; Orthography (Older spelling of 철자법)
+改正	개정	Revision; Reform
+奔走	분주	Being busy; Bustling about
+朝鮮語硏究會	조선어연구회	Korean Language Research Society
+기념회	기념회	Commemorative meeting; Anniversary celebration
+열엇는데	열었는데	Held; Opened (Older spelling/conjugation)
+盛況	성황	Great success; Prosperity; Bustling activity
+이엿다	이었다	Was (Older spelling/copula form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제11호
+발행일	1931년 01월 01일
+기사제목	한글運動
+기사형태	소식
+
+한글運動
+한글 愛用運動의 先驅로 지금 辭典編纂과 綴字法改正에 奔走하는 朝鮮語硏究會에서는 11월 11일에 明月館本店에서 480년의 기념회를 열엇는데 매우 盛況이엿다.＜43＞

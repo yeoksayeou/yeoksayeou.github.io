@@ -1,0 +1,68 @@
+Magazine Title:	三千里 제8권 제2호
+Publication Date:	1936년 02월 01일
+Article Title:	君檀과 宋鎭禹氏說 (Regarding Tan'gun and Mr. Song Chin-u's Theory)
+Author:	Not specified
+Article Type:	잡저 (Miscellaneous writing/Essay)
+
+Regarding Tan'gun and Mr. Song Chin-u's Theory
+
+One day in the office of the Dong-A Ilbo president, when Principal Kim Yong-mu (金用茂) of Posŏng College (普專) visited, Song Chin-u (宋鎭禹), holding his brush, intentionally took out an old, dusty, yellow-paged book (황지책) and said,
+"The 'Tan' (檀) character in Tan'gun (檀君) is clearly the character 'Tan' (壇), but Yuk-tang (六堂) mistakenly started using the character 'Tan' (檀)..."
+Pointing out passages from the writings of a great scholar (鴻儒) named Yang Sŏng-ji (梁誠之) from Namwŏn from long ago (녯날), he engaged in a passionate discussion for a long time. According to Mr. Song Chin-u's words (말슴), the politician Yang Sŏng-ji, who held the rank of T'ongjŏng Taebu (通政大夫), had already argued 400 years ago that Tan'gun (壇君) - should be venerated.<55>
+
+**Summary**
+
+This short piece recounts an anecdote where Song Chin-u, president of the Dong-A Ilbo, discusses the correct Hanja character for Tan'gun, the mythical founder of Korea, with Kim Yong-mu, the principal of Posŏng College. Song argues, referencing the 15th-century scholar Yang Sŏng-ji, that the character should be 壇 (altar) rather than the commonly used 檀 (sandalwood), attributing the latter usage mistakenly to the intellectual Ch'oe Nam-sŏn (Yuk-tang). Song emphasizes that Yang Sŏng-ji had advocated for venerating Tan'gun centuries prior. From a historical perspective, this article is interesting as it shows prominent Korean figures during the colonial period actively debating foundational national myths and historical orthography. It highlights the intellectual effort to solidify Korean identity by referencing pre-colonial scholarship (Yang Sŏng-ji) and engaging with contemporary interpretations (Ch'oe Nam-sŏn/Yuk-tang), demonstrating the continued relevance of Tan'gun as a symbol even under Japanese rule.
+
+**Named Entities**
+
+동아일보	동아일보	Tong-a Ilbo
+普專	보전	Pojŏn (Posŏng College)
+金用茂	김용무	Kim Yong-mu
+宋鎭禹	송진우	Song Chin-u
+六堂	육당	Yuk-tang (Ch'oe Nam-sŏn's pen name)
+梁誠之	양성지	Yang Sŏng-ji
+남원	남원	Namwŏn
+通政大夫	통정대부	T'ongjŏng Taebu
+
+**Glossary**
+
+君檀	군단	Term in the title, likely referring to Tan'gun or the debate around the character used for 'Tan'.
+宋鎭禹氏說	송진우씨설	Mr. Song Chin-u's Theory/Argument.
+잡저	잡저	Miscellaneous writing; essay.
+사장실	사장실	President's office.
+普專	보전	Abbreviation for 보성전문학교 (Posŏng College).
+교장	교장	Principal; President (of a school/college).
+케케묵은	케케묵은	Old and dusty; stale; antiquated.
+황지책	황지책	Old book with yellowed paper.
+끄내노코서	꺼내놓고서	Taking out and placing (older spelling/form of 꺼내놓고서).
+檀君	단군	Tan'gun, the legendary founder of Gojoseon.
+壇	단	Altar; platform (the character argued for by Song/Yang).
+분명한되	분명한데	Although it is clear (older grammatical form of 분명한데).
+六堂	육당	Yuk-tang, pen name of Ch'oe Nam-sŏn (최남선).
+잘못	잘못	Mistakenly; wrongly.
+쓰기 시작햇고	쓰기 시작했고	Started writing (older spelling of 시작했고).
+녯날	옛날	Old days; ancient times (older spelling of 옛날).
+鴻儒	홍유	Great scholar; eminent Confucian scholar.
+저서	저서	Written work; book.
+구절구절	구절구절	Phrase by phrase; passage by passage.
+말슴	말씀	Words; speech (older/dialectal form of 말씀).
+通政大夫	통정대부	T'ongjŏng Taebu (a senior official rank in the Joseon Dynasty).
+지낸	지낸	Who held (a position); who passed through.
+벌서	벌써	Already (older spelling of 벌써).
+-모서야 한다고	-모셔야 한다고	Should be served/venerated (likely intended spelling: 모셔야).
+立論하엿더라고	입론하였더라고	(He heard/recounted that someone) had argued/established a theory (older spelling/form of 입론하였다고).
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제2호
+발행일	1936년 02월 01일
+기사제목	君檀과 宋鎭禹氏說
+기사형태	잡저
+
+君檀과 宋鎭禹氏說
+어느날 동아일보 사장실에서 普專교장 金用茂氏 온 것을 붓잡고 宋鎭禹氏가 케케묵은 황지책을 일부러 끄내노코서
+「檀君의 단字는 壇자가 분명한되 六堂이 잘못 檀자로 쓰기 시작햇고...」하면서 녯날 남원 梁誠之란 鴻儒의 저서 구절구절을 가르치면서 장시간 열론, 宋鎭禹氏 말슴에 의하면 通政大夫까지 지낸 梁誠之란 정치가는 벌서 400년전에 壇君을 -모서야 한다고 立論하엿더라고.<55>
+<55>

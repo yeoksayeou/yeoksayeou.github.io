@@ -1,0 +1,127 @@
+Magazine Title: 삼천리 제10권 제1호
+Publication Date: 1938년 01월 01일
+Article Title: 靑年男女와 花柳病 (Young Men and Women and Venereal Disease)
+Author: 의학박사 朴昌薰 (Medical Doctor Pak Ch'anghun)
+Article Type: 잡저 (Miscellaneous Writing)
+
+Young Men and Women and Venereal Disease
+						By Medical Doctor Pak Ch'anghun
+
+1. What kind of disease is Syphilis (黴毒)?
+
+Among venereal diseases (花柳病, also known as 性病, Sexually Transmitted Disease), there are Syphilis (黴毒), Gonorrhea (淋疾), Chancroid (軟性下疳), and the Fourth Venereal Disease (弟4性病). Among these, Syphilis was contracted by sailors from the natives of America (亞米利加) when Columbus (컬럼부스) discovered the American continent, and from there it gradually spread from Western Europe to various parts of the world.
+The discovery of the pathogenic bacterium, *Spirochaeta pallida* (스피로헤타팔리다), was the achievement of Messrs. Schaudinn (시야우듼) and Hoffmann (트*만) 33 years ago from today.
+
+The vast majority of this disease is contracted through the reproductive organs of men and women, but in very rare cases, it can initially appear on the lips (口脣), tongue (舌), or fingertips (指頭). It can also occur concurrently with Chancroid (軟性下疳), which is termed Mixed Chancre (混合下疳). Syphilis is divided into three stages:
+
+(1) First Stage Syphilis (also known as Hard Chancre (硬性下疳))
+This generally occurs about 2 to 5 weeks after unclean sexual intercourse, starting as a small papule (小丘疹) in the local area, which then ulcerates (this is called Hard Chancre (硬性下疳)). After 2 to 4 weeks, it heals naturally or after 1 or 2 injections of Salvarsan (606호), leaving no trace. However, this absolutely does not mean that the syphilis itself is completely cured. From this point, the *Spirochaeta* infiltrate the bloodstream and spread throughout the body, triggering Second Stage Syphilis. Therefore, patients infected with syphilis should not be complacent just because the local lesion (腫處) has healed. If they do not receive sufficient and complete treatment during the First Stage Syphilis, i.e., the Hard Chancre stage (also called Local Syphilis), they will bring trouble (屢) not only upon their own lives but also upon their descendants.
+
+(2) Second Stage Syphilis (also known as the Rash Stage (發疹期))
+Syphilis from the second stage onwards is also called Systemic Syphilis. A characteristic of Second Stage Syphilis is the appearance of rashes or lesions/sores (腫處부스럼) on the entire outer surface (skin and mucous membranes) 6 to 12 weeks after infection. It can also cause hair loss (脫毛症), syphilitic periostitis (黴毒性骨膜炎) or osteitis (骨炎), syphilitic lymphadenitis (黴毒性 淋巴膜炎), syphilitic onychia (黴毒性 爪床炎) or paronychia (爪炎). Symptoms similar to neurasthenia such as headache (頭痛), joint pain (肢節痛), muscle pain (筯肉痛), and lethargy (無力感), or hoarseness (聲音嘶*) may also occur.
+
+(3) Third Stage Syphilis (also known as the Gumma Formation Stage (護膜腫形成期))
+This occurs 3, 4, or even 10 years after syphilis infection. The characteristic feature of this stage is the formation of Gummas (護膜腫, lumps) in various parts of the body, which then ulcerate. Other severe forms of syphilis cause general debilitation (全身衰弱), amyloid degeneration (아밀노이드 일변화) in internal organs (*), or affect the central nervous system, leading to mental illnesses such as Tabes Dorsalis (脊髓癆) and General Paresis (麻痺狂). Such cases are referred to as Fourth Stage Syphilis. Furthermore, if the syphilis is extremely malignant, the course can be extremely rapid, presenting symptoms of Third Stage Syphilis within a few months (數朔) to just one year, quickly followed by general debilitation and death. Such cases are specifically called Malignant Syphilis (惡性黴毒) or Galloping Syphilis (奔馬性黴毒).
+If parents have syphilis, it can result in miscarriage (流産) or premature birth (早産) during pregnancy, or even if the child is born safely, they may develop so-called Hereditary Syphilis (俗稱 유전黴毒) – either Early Congenital Syphilis (初生兒黴毒) after birth or Late Congenital Syphilis (晩發性黴毒) after growing up (Academic term: 先天性黴毒, Congenital Syphilis).
+
+2. What kind of treatment should a patient infected with Syphilis receive?
+
+As is clear from the above description, if complete treatment is not received after infection, syphilis is a disease that brings misfortune not only upon the patient's life but also spreads to their spouse and descendants. Thus, it can be considered a disease that ruins both the individual and the family (可謂 亡身亡族的 疾患). Particularly concerning is that even in the second stage, let alone the first, the current painful symptoms often disappear quickly with simple treatments (for example, 1, 2, or several injections of Salvarsan (606호) or commercially available oral medications). Because of this, patients often believe (信하는 事가 多有함으로) that the syphilis is completely cured, making it a truly frightening disease. Therefore, once infected with syphilis, especially in the second stage or beyond, achieving the desired complete cure (i.e., eliminating every single *Spirochaeta* from the bloodstream) is hopeless with only the conventional Salvarsan (606호) injection treatment. Thus, the following treatment method is recommended (推獎할가 하는 바이다). Currently, the representative drugs discovered for the radical cure (根治藥) of syphilis are Arsenicals (砒素劑), Mercurials (水銀劑), Bismuth agents (蒼鑑劑), and Iodides (沃度劑). Using only one type makes it extremely difficult (極難) to achieve the desired results, so it is necessary to appropriately combine these four types of drugs. To give an example (一例) of its treatment method:
+
+1.  Salvarsan (606호, i.e., Arsenical agent) injection every 4 to 7 days. (But for acute cases or *[unclear text regarding poison/dose size, possibly suggesting larger doses like "No. 3" (3호) as standard depending on patient constitution]* it is appropriate to continue based generally on No. 3, while of course considering the patient's constitution and other factors.)
+2.  Several injections of Mercurial agents per week, OR Mercury rubs (水銀*房*擦) for 6 days a week.
+3.  Several injections of Bismuth agents (蒼*劑) per week. Concurrently (倂施) administer these three types, and
+4.  If lesions (病處) are present, also use Iodide (沃度劑) oral medication.
+
+This combination of the four types of drugs should be continued for 10 to 15 weeks; this is called one course of syphilis treatment (一治療). After completing this one course of treatment, blood tests should be performed once or twice a year for about 3 years. If the result is negative, treatment is terminated. Conversely, if it is positive, a second course, third course, etc., should be continued successively (추차계속할 것이다).
+Therefore, implementing a radical cure for syphilis requires:
+First, the patient's financial status.
+Second, the patient's health (Radical cure drugs for syphilis can easily cause toxicity depending on the patient's constitution, so a constitution with considerable resistance is required).
+Third, the patient's perseverance (the will not to discontinue treatment midway).
+Fourth, time (sufficient spare time (的干의 餘假) to receive treatment from a doctor).
+Fifth, the doctor's considerable specialized skill, ** [likely 'experience' or 'diligence'] and attention regarding the treatment of this disease.
+These factors are necessary. <38>
+
+**Summary**
+
+This 1938 article by Dr. Pak Ch'anghun details the nature, stages, and transmission of syphilis (referred to as 黴毒, Maedok), distinguishing it from other venereal diseases. It outlines the progression from primary (Hard Chancre) to secondary (Rash Stage) and tertiary (Gumma) syphilis, including severe complications like neurosyphilis and congenital syphilis ("Hereditary Syphilis"). Dr. Pak stresses the inadequacy of simple treatments like a few Salvarsan (606) injections, warning that symptoms may disappear but the disease persists, potentially harming descendants. He advocates for a rigorous, long-term combined therapy using Arsenicals (Salvarsan), Mercurials, Bismuth agents, and Iodides over several months, followed by years of monitoring. The article concludes by listing the demanding requirements for successful treatment: patient finances, health, perseverance, time, and specialized medical expertise.
+
+From a historical perspective, the article is interesting as it reflects the state of syphilis treatment (using heavy metals like arsenic, mercury, and bismuth) just before the advent of penicillin. It highlights public health concerns in colonial Korea, particularly the spread of venereal diseases and the emphasis on individual responsibility for treatment completion to protect family and society ("ruins both the individual and the family"). The mention of specific drugs like "606" (Salvarsan) and the detailed, demanding treatment regimen underscores the introduction and practice of Western medicine, while the discussion of "Hereditary Syphilis" reflects contemporary understanding and anxieties about congenital transmission and eugenics-adjacent concerns about national/familial health.
+
+**Named Entities**
+
+朴昌薰	박창훈	Pak Ch'anghun
+컬럼부스	컬럼부스	K'ŏllŏmbusŭ
+亞米利加	아미리가	Amiriga
+시야우듼	시야우듼	Siyaudŭn
+트*만	트*만	T'ŭ...man (likely Hoffmann)
+
+**Glossary**
+
+花柳病	화류병	Venereal disease (lit. "flower-willow disease")
+黴毒	매독	Syphilis
+淋疾	임질	Gonorrhea
+軟性下疳	연성하감	Chancroid
+硬性下疳	경성하감	Hard chancre (primary syphilis lesion)
+스피로헤타팔리다	스피로헤타팔리다	*Spirochaeta pallida* (former name for *Treponema pallidum*)
+606호	육백육호	Salvarsan (Arsphenamine), an early syphilis drug
+發疹期	발진기	Rash stage (secondary syphilis)
+腫處	종처	Swelling, lesion, sore
+護膜腫	호막종	Gumma (tertiary syphilis lesion)
+脊髓癆	척수로	Tabes dorsalis (neurosyphilis)
+麻痺狂	마비광	General paresis of the insane (neurosyphilis)
+先天性黴毒	선천성매독	Congenital syphilis
+유전黴毒	유전매독	Hereditary syphilis (colloquial term for congenital syphilis)
+엇더한	어떠한	What kind of (older spelling)
+읍시	없이	Without (older spelling)
+안이라	아니라	Is not (older spelling/form)
+可謂	가위	Can be called, so-called
+推獎	추장	Recommendation
+砒素劑	비소제	Arsenical agent
+水銀劑	수은제	Mercurial agent
+蒼鑑劑	창감제	Bismuth agent (likely intended 蒼鉛劑, Ch'angyeomje)
+沃度劑	옥도제	Iodide agent
+倂施	병시	Administer concurrently
+餘假	여가	Spare time, leisure
+
+
+---------------------------
+
+
+잡지명	삼천리 제10권 제1호
+발행일	1938년 01월 01일
+기사제목	靑年男女와 花柳病
+필자	의학박사 朴昌薰
+기사형태	잡저
+
+靑年男女와 花柳病
+						의학박사 朴昌薰
+1. 黴毒이란 엇더한 병인가?
+花柳病(일명 性病)에는 黴毒, 淋疾, 軟性下疳 及 弟4性病이 有하니 其중에 黴毒은 컬럼부스가 亞米利加대륙 발견시에 船人이 亞米利加토인에게서 감염되야 점차 서구로부터 세계각지로 전파식힌 것이다.
+병원균인 「스피로헤타팔리다」를 발견한 것은 距今 33년 전에 시야우듼 及 트*만 양씨의 공적이다.
+본병의 대다수는 남녀의 생식기로부터 감염되는 것이나 극소수로는 口脣, 舌, 指頭 등에도 初發되는 事가 有하며 또한 軟性下疳과 합병하야 발생하는 事도 有하며 此를 混合下疳이라고 칭한다. 黴毒은 此를 3기로 구별하나니
+
+(1)제1기 黴毒(일명 硬性下疳)
+此는 대개는 불결한 性交가 유한지 약 2주내지 5주일 후에 국부에 小丘疹을 발생하얏다가 自潰하야 潰瘍(此를 硬性下疳이라 칭한다)이 되얏다가 2주내지 4주일 후에 자연히 又는 1, 2회의 606호주사 등으로 흔적도 읍시 치유되는 것이다. 然이나 此는 결코 黴毒 자체가 진정히 전치된 것이 안이라 從此로 「스피로헤타」가 혈액내로 잠입하야 전신에 만연하야 제2기 黴毒을 *發하나니 고로 黴毒에 감염된 환자는 국부의 腫處가 치료하얏다고 방심하지 말고 제1기 黴毒 즉 硬性下疳期(此를 국부黴毒이라고도 칭함)에 충분 且 완전한 치료를 受하지 안으면 자기 일생은 물론이요 자손에게까지라도 屢를 及하게 되는 것이다.
+
+(2)黴毒 제2기(일명 發疹期)
+제2기 이후의 黴毒은 此를 전신성 黴毒이라고도 칭하나니 본병감염 6주내지 12주일 후에 제2기 黴毒의 특징으로 전신외피(피부 및 점막)에 발진 내지 腫處부스럼를 발생하는 것이며 또한 탈모증, 黴毒性骨膜炎 又는 骨炎, 黴毒性 淋巴膜炎, 黴毒性 爪床炎 又는 爪炎 등을 발하며 혹은 두통, 肢節痛, 筯肉痛, 무력감 등의 신경쇠약 유사의 증상, 聲音嘶*(목쉬는 것) 등을 발하는 事도 有하다.
+
+(3)제3기 黴毒(일명 護膜腫形成期)
+黴毒 감염후 3, 4년내지 10년만에 발생하나니 此시기에는 전신각처에 護膜腫(혹)을 생하얏다가 자궤하야 潰瘍을 형성하는 것이 특징이다. 기타 중증黴毒에는 전신쇠약, 내*에 아밀노이드 일변화 등을 惹起하며 又는 中樞神經을 침범하야 脊髓癆, 麻痺狂 등의 정신병까지도 유발하나니 여차한 것을 제4기 黴毒이라고 칭한다. 또한 黴毒이 극히 악성인 시에는 경우가 심히 신속하야 數朔 내지 불과 1년에 제3기 黴毒의 증상을 呈하고 전신쇠약을 속발하야 사망케하는 경우도 有하나니 여차한 것을 특히 악성黴毒 又는 奔馬性黴毒이라고 칭한다.
+부모에게 黴毒이 유한 시에는 태중에 유산 又는 조산이 되거나 혹은 무사히 출산하드래도 생후에 初生兒黴毒 又는 성장후에 晩發性黴毒 등의 속칭 유전黴毒(學名 先天性黴毒)을 발하는 것이다.
+
+2. 黴毒에 감염된 환자는 엇더한 치료를 받을가?
+黴毒은 상술한 바에 의하야 명료함과 如히 감염후 완전한 치료를 不受하는 시에는 환자의 일생은 물론이요 배우자 及 자손에게까지도 전파식히는 불행에 遭遇하는 병인즉 可謂 亡身亡族的 疾患이라고 간주할 수 잇다. 특히 此병은 제1기에는 물론이요 제2기 黴毒일지라도 간단한 治療例如 606호의 1, 2회 내지 수회의 주사 又는 시매품의 내복약 등으로도 고통되는 현재의 증상만은 속히 소멸되는 고로 환자는 此로서 黴毒이 전치된 줄노만 信하는 事가 多有함으로 실로 가공할 병이라 하겟다. 고로 일단 黴毒에 감염된 시에는 其中에도 특히 제2기이상 黴毒에는 재래의 606호 주사치료로만은 所期의 전치(즉 혈액내에 1匹의「스피로헤타」도 읍시 하는 것)는 절망적임으로 如左의 치료법을 推獎할가 하는 바이다. 현재 黴毒의 根治藥으로 발견된 것은 砒素劑, 水銀劑, 蒼鑑劑 及  沃度劑 등이 대표적 약제다. 此를 일종만 사용하면 소기의 성적을 收하기 極難인 즉 此4종의 약제를 적절하게 병용하는 것이 필요하다. 其 치료법이 일례를 擧하면
+1. 매4일 내지 7일식에 606호(즉 砒素劑)주사 但急性 又는 *一(性*中 독을 *하기 위하야 可成的 **의 큰 것을 *함이라 可하다. 更言하면 환자의 체질 기타를 참작함은 물론이나 대개 3호를 표준으로 하야 계속함이 적당)
+2. 1주 중 수회의 水銀劑주사 又는 1주중 6일간 水銀*房*擦
+3. 1주 중 수회의 蒼*劑주사 이상의 3종을 倂施하는 동시에
+4. 병처가 有한 시에는 沃度劑 내복약을 兼用
+이상 4종 약제의 병용을 10주 내지 15주일간 계속할 것이니 此를 黴毒의 일치료라고도 칭한다. 此 일치료를 실시완료한 후에 약 3년간을 두고 매년 1, 2회식 혈액검사를 행하야 음성이면은 치료를 종지하고 반대로 양성이면은 이치료 삼치료를 추차계속할 것이다.
+고로 黴毒의 근절적 치료실시에는
+제1로 환자의 경제상태
+제2로 환자의 건강(黴毒根治藥은 특히 환자체질에 따러 중독이 발하기 쉬운 고로 상당한 저항력이 多大한 체질을 요한다)
+제3으로 환자의 감내력(치료중도에 중지되게 하지 안을 의지)
+제4로 시간(의사에게 受療할만한 的干의 餘假)
+제5로 의사의 此 병치료에 대한 상당한 전문적 기술과 **과 주의
+등을 요하는 것이다. ＜38＞

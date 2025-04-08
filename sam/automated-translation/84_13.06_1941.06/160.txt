@@ -1,0 +1,147 @@
+Magazine Title: 삼천리 제13권 제6호
+Publication Date: 1941년 06월 01일
+Article Title: 纖維界의 革命兒 「合成纖維」 (The Revolutionary Child of the Fiber World: "Synthetic Fiber")
+Author: 京都帝國大學 助敎授 化學硏究所員 李升基 (Yi Sŭnggi, Assistant Professor, Kyoto Imperial University; Member, Chemical Research Institute)
+Article Type: 논설 (Editorial/Article)
+
+The Revolutionary Child of the Fiber World: "Synthetic Fiber"
+						By Yi Sŭnggi, Assistant Professor, Kyoto Imperial University; Member, Chemical Research Institute
+
+As you all know, although "Synthetic Fiber" only appeared in the world a mere three years ago, it seems likely that not only the entire world's fiber [industry] but especially in the Mainland (內地), it has been announced repeatedly in newspapers and magazines, so that even people in remote mountain villages who don't know what fiber is have probably heard the name "synthetic fiber." So, for what reason has "synthetic fiber" been promoted like this in the Mainland, and why has it garnered the attention of the world's fiber circles? Hereafter, I intend to write plainly about its cause and future development so that the general public may understand it well.
+
+The reason synthetic fiber became a topic of conversation began after 1938, when the vice president of the famous American chemical company "DuPont" (뜌·폰) announced a so-called synthetic fiber named "Nylon" (나이론) in New York in October 1938. According to that announcement, "Nylon" is a fiber made entirely artificially using "coal," "air," and "water," its structure is similar to protein, its thread (絲) is tougher than steel and finer than a spider's web, and on top of that, it possesses elasticity far superior to conventional natural fibers and a good luster, making it usable not only for general textiles but also for various other purposes.
+
+Around the time of this announcement, actual "Nylon" thread (絲) appeared in the world, and although it couldn't be said to be exactly as announced, the results of tests in various countries revealed it to be an extremely superior fiber. Consequently, fiber experts naturally examined what the essence of this "Nylon" was, and even in the Mainland, within just 2 or 3 months after this "Nylon" arrived, its true nature was figured out. As a result, it became clear <105> that "Nylon" thread was truly a thread made from "coal," "air," and "water."
+
+So, is "Nylon" the only so-called synthetic fiber? Not at all. Immediately after "Nylon" was announced, Germany announced "Pe·Ce fiber" (페·체·섬유), a new synthetic fiber completely different from "Nylon," adding that although research on this fiber had already been done, they hadn't announced it, but did so because "Nylon" was announced in the US. Considering that the actual product appeared soon after this announcement, it seems factual that Germany had already completed research on this "Pe·Ce fiber."
+
+After that, another new synthetic fiber, "Vinyon" (비니욘), was announced in the US, and in Japan (日本) as well, less than a year after "Nylon" was announced, Kyoto Imperial University's Chemical Research Institute announced a new synthetic fiber, "Synthetic No. 1" (合性1號).
+
+Thus, about three or four types of new synthetic fibers were announced within roughly one year, and since then, several more new fibers have been announced to the world. So, what definition generally gives rise to the name synthetic fiber, or from what classification of fibers does this name emerge? Here, I will create a table classifying fibers to explain it simply.
+
+Classification of Fibers
+[Table implied, not visually represented in original text]
+
+As known from the classification table, fibers can be divided into natural fibers and artificial fibers. Natural fibers are a general term for fibers like wool, cotton, silk, etc., which naturally possess a fibrous form and can be made into thread (絲) either directly like silk, or by spinning like cotton and wool. Artificial fibers can be defined as a general term for fibers made by taking a raw material substance that does not possess the fibrous form and properties we require, eliminating its original form once through a suitable method, and then artificially re-endowing it with the form and properties we require. It is convenient to further divide these artificial fibers into three types, as seen in the classification table: regenerated fibers, semi-synthetic fibers, and synthetic fibers. Therefore, it can be clearly understood that synthetic fiber is a type of artificial fiber.
+
+Among the fiber classifications above, natural fibers probably don't require further explanation, but artificial fibers seem to need some clarification. That is, for what reason are artificial fibers classified into the three types: Regenerated, Semi-synthetic, and Synthetic? <106>
+
+Regenerated fiber refers to an artificial fiber that, chemically speaking, is identical to the natural high-molecular-weight substance synthesized by the animal or plant that is its raw material. For example, let's take the rayon yarn we always use in daily life. The raw material for this rayon yarn is "pulp" (팔푸) made from wood. Chemically, "pulp," like cotton or hemp, is cellulose, so not only its molecular form but also its size (大) is almost the same as that of cotton or hemp. However, the fibers formed by the aggregation of these molecules are extremely short (短) in form, so the fibers of this "pulp" cannot be spun into thread (絲) as they are. Therefore, it is dissolved using a suitable chemical method – in other words, dispersed into individual molecules – and then these molecules are stuck together again (coagulated) by a chemical method into a form convenient for human use, that is, the form of rayon yarn. This is the rayon yarn we currently use daily. No matter how completely different its form is from "pulp," the substance forming it is chemically identical cellulose. Herein lies the origin of the name regenerated fiber: regenerated fiber is a general term for fibers made by changing the form of the raw material through chemical methods into a form convenient for us to use, where the constituent substance is chemically the same in both the raw material and the manufactured fiber.
+
+Semi-synthetic fiber, like regenerated fiber, is made by first dissolving the raw material and then coagulating it again using chemical methods, but the raw material and the manufactured fiber are chemically different. For example, let's explain using acetate rayon fiber. This artificial fiber is made by chemically combining cellulose and acetic acid, but the product and the raw material are chemically entirely different substances. That is, since it is an artificial fiber made from cellulose acetate, which is formed by the synthetic chemical combination of acetic acid synthesized by human effort from coal and lime, and cellulose, a natural high-molecular-weight substance synthesized by the power of nature in plants, we call this semi-synthetic fiber.
+
+Next is synthetic fiber, but before discussing synthetic fiber, it is necessary to briefly talk about fiber science. This concerns what kind of substance fiber, the raw material for our human clothing, is chemically, and what characteristics it has. Are cellulose, which forms cotton, hemp, "pulp," etc. (wood fibers); "fibroin" (피부로인), which forms silk; and "keratin" (게라친), which forms wool, different in molecular form and size (大) compared to substances we encounter daily like sugar, salt, or petroleum? If they are not different, can human clothing materials be simply made from such substances?
+
+If they are different, what aspects are different, and what kind of substance must it be to have the potential to become a clothing material?
+Regarding this question, fiber scientists around the world have researched and debated for decades, and recently, its true nature has become known to some extent. <107> This fundamental, foundational research became the main artery for the birth of synthetic fiber.
+
+There seems no need to write here the development path and debates of this fiber science, so I will only briefly write the conclusion reached currently, which is extremely simple. That is, the substance that makes fiber has two major characteristics:
+First, the molecular weight of the substance is not in the teens or hundreds like the aforementioned petroleum or sugar, but tens or hundreds of thousands; that is, the molecular weight is much larger than ordinary organic compounds (therefore, these are collectively called high-molecular-weight substances).
+Second, not only is the molecular weight, or rather the molecule, large, but its shape is long like a thread (絲), exactly like a thread, hence the name thread-like molecule (絲狀分子).
+
+If a molecule is large and long, it is called a thread-like high-molecular-weight substance [polymer]. As mentioned above, decades of effort by fiber scientists have clearly shown the world that cellulose forming cotton, silk thread, and protein forming wool are all made of thread-like high-molecular-weight substances.
+
+So, if humans, by human effort, create long and large molecules, i.e., thread-like high-molecular-weight substances, can fibers be made from them?
+The answer to this is the synthetic fiber "Nylon" from the US, the synthetic fiber "Pe·Ce fiber" from Germany, and "Synthetic No. 1" announced by Kyoto Imperial University; it is tangible proof that thread-like high-molecular-weight substances synthesized by human effort make excellent artificial fibers.
+
+Having come this far, you can probably guess what synthetic fiber is, so let me write the definition once more: "Synthetic fiber is fiber made from thread-like high-molecular-weight substances synthesized by human effort."
+
+Then, one might casually think that since humans can create as many synthetic thread-like high-molecular-weight substances as they want, countless types of synthetic fibers will rapidly appear in the world. In fact, tens, even hundreds of types of synthetic thread-like high-molecular-weight substances have already been invented. However, does every synthetic thread-like high-molecular-weight substance make good fiber? Not so; only certain special thread-like molecules become good fibers. Therefore, although hundreds of types of synthetic thread-like high-molecular-weight substances have been invented, the types that become good fibers currently do not exceed 10.
+
+However, among them, fibers like "Nylon," which has been industrialized and is, for certain uses, much better than natural silk thread (絲), have appeared in the world. How can the path of natural fibers like silk or wool remain tranquil?
+It is a fact that numerous synthetic fibers will appear in the next ten or so years, and among them, there will surely be fibers that succeed industrially and economically. Furthermore, considering that synthetic fibers require nothing other than coal <108> (Continued on page 45)
+
+(Continuation of "Synthetic Fiber" from page 45)
+coal, air, and water as raw materials, how can we not attach importance to synthetic fibers in the future fiber world, and how can we neglect research on them?
+The Synthetic No. 1 (合成1號) that we are researching at Kyoto Imperial University is now undertaking pilot industrial testing, and it seems a conclusion, whether success or failure, will be reached in just one year. As for us, we are doing our best in research; regardless of success or failure, isn't the moment absorbed in research the happiest moment and state of absorption (三昧境) for a scholar?
+April 1, Showa 16 [1941] <45>
+
+**Summary**
+
+This 1941 article by Korean scientist Yi Sŭnggi, then at Kyoto Imperial University, introduces the concept of synthetic fibers to a general audience. It explains the recent development of fibers like Nylon, Perlon, and Vinyon, defining synthetic fibers as those made from artificially synthesized long-chain, high-molecular-weight substances (polymers). The author contrasts them with natural fibers, regenerated fibers (like rayon), and semi-synthetic fibers (like acetate), highlighting the scientific breakthrough of creating fibers from basic materials like coal, air, and water. He also mentions his own research group's development, "Synthetic No. 1," undergoing pilot testing.
+
+From a historical perspective, the article is significant as it showcases a prominent Korean scientist actively participating in cutting-edge research within the Japanese empire during the colonial period. Yi Sŭnggi's position at a top imperial university and his contribution (Synthetic No. 1, a precursor to Vinalon) illustrate the complex position of educated Koreans under colonial rule. The article's publication in a Korean magazine (Samch'ŏlli), despite being written from Japan and using terms like "Mainland" (内地) for Japan, reflects the circulation of scientific knowledge within the colony. Historians might find the blend of scientific explanation with subtle nationalistic undertones (developing a unique fiber) and the geopolitical context (reliance on readily available resources like coal) particularly interesting.
+
+**Named Entities**
+
+京都帝國大學	교토제국대학	Kyoto Imperial University
+李升基	이승기	Yi Sŭnggi
+內地	내지	Mainland Japan (Naichi/Naeji)
+米國	미국	United States
+뜌·폰	듀폰	DuPont
+뉴·욕	뉴욕	New York
+나이론	나이론	Nylon
+獨逸	독일	Germany
+페·체·섬유	페체섬유	Pe·Ce fiber (Likely Perlon)
+비니욘	비니욘	Vinyon
+日本	일본	Japan
+合成1號	합성1호	Synthetic No. 1
+
+**Glossary**
+
+纖維	섬유	Fiber
+合成纖維	합성섬유	Synthetic fiber
+内地	내지	Mainland Japan (used during colonial era)
+만드러	만들어	To make (older spelling)
+아르시도록	아시도록	So that (you) know (polite, older form)
+아러내게	알아내게	To figure out, find out (older spelling)
+실(絲)	실	Thread, yarn
+천연섬유	천연섬유	Natural fiber
+인조섬유	인조섬유	Artificial fiber (man-made fiber)
+재생섬유	재생섬유	Regenerated fiber (e.g., rayon)
+반합성섬유	반합성섬유	Semi-synthetic fiber (e.g., acetate)
+팔푸	펄프	Pulp
+섬유소	섬유소	Cellulose
+高分子物質	고분자물질	High-molecular-weight substance (polymer)
+분자량	분자량	Molecular weight
+絲狀分子	사상분자	Thread-like molecule
+불으는데	부르는데	Is called (older spelling)
+아르켜	알려 / 가르쳐	To show, teach, inform (older form)
+할뜻	할 듯	Seems likely to (older spelling)
+우리로서는	우리로서는	As for us (standard spelling, used for context)
+불문하고	불문하고	Regardless of (standard spelling, used for context)
+날뜻합니다	날 듯합니다	Seems it will be decided (older spelling)
+三昧境	삼매경	State of absorption/deep concentration (Sanskrit: Samādhi)
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	纖維界의 革命兒 「合成纖維」
+필자	京都帝國大學 助敎授 化學硏究所員 李升基
+기사형태	논설
+
+纖維界의 革命兒 「合成纖維」
+						京都帝國大學 助敎授 化學硏究所員 李升基
+여러분이 다 아시는 바와 같이 「合成纖維」는 세상에 나온지 불과 삼년에 아마 온 世界纖維는 물론이요 특히 內地에 있어서는 신문이며 잡지에 누차 발표되어 山間僻村에 섬유가 무엇인 줄 모르는 사람이라도 아마 「합성섬유」라는 이름만은 알뜻 합니다. 그러면 무슨 까닭에 「합성섬유」가 內地에서 이와 같이 선전되었으며 세계섬유계에 주목을 받게 되었는가. 이하 간단히 그 원인과 將來의 發展에 대하여 一般人士가 잘 아르시도록 평범히 써보려고 생각하나이다.
+합성섬유가 세간에 화제를 던지게 된 것은 1938년 이후의 일로써 米國의 유명한 化學工業會社 「뜌·폰」의 副社長이 1938년 10월 뉴·욕에서 「나이론」이라는 소위 합성섬유를 발표한데 시작되었다고 말할 수가 있습니다. 그 발표에 의하면 「나이론」은 「석탄」과 「공기」와 「물」을 가지고 전혀 인공적으로 만드러 낸 섬유로서 그 구조는 단백질과 類似하고 그 실(絲)은 강철보다 질기고 거미줄보다 가늘고 그 우에 從來의 천연섬유보담 훨신 우수한 彈性과 좋은 光澤을 가지고 있음으로 일반 織物用은 물론이요 기타 여러 가지에 사용할 수 있다고 하였습니다.
+이 발표와 전후하여 실물의 「나이론」실(絲)이 세상에 나왔는데 발표와 똑같다고 할 수는 없으나 대단히 우수한 섬유인 것을 세계 각국에서 시험한 결과 알게 되었습니다. 따라서 섬유의 전문가가 이 「나이론」이 그 본질이 무엇인가를 검토하였음은 물론이요 내지에서도 이 「나이론」이 들어온 후 불과 2, 3개월에 그 正體가 무엇인가를 아러내게 되었습니다. 그 결과 「나이론」실은 정말로 「석탄」과 「공기」와 「물」로 만드러 낸 실인＜105＞ 것이 確實하게 되었습니다.
+그러면 소위 합성섬유는 「나이론」 이외에는 없느냐 하면 결코 그렇지 않고 「나이론」이 발표된 후 獨逸서는 그 즉시 「나이론」과 전혀 다른 새로운 합성섬유인 「페·체·섬유」를 발표한 동시에 이 섬유의 硏究는 벌써 하여 놓았으나 발표를 하지 않었는데 米國서 「나이론」이 발표되었음으로 발표한다고 付言하였습니다. 이 발표 즉후 실물이 세상에 나온 것으로 보드라도 獨逸이 이 「페·체·섬유」의 硏究를 벌써 完了하여 놓았던 것은 事實로 생각됩니다.
+그 후에 米國서는 또 새로운 합성섬유 「비니욘」이 발표가 되고 일본에 있어서도 「나이론」이 발표된 후 1년이 못되어 京都帝國大學 化學硏究所에서 새로운 합성섬유 「合性1號」를 발표하였습니다.
+이와 같이 약 1개년간에 3, 4종류의 새로운 합성섬유가 발표되었으며 그 후로 于今까지 또 數種의 새 섬유가 世界에 발표되었습니다. 그러면 합성섬유라는 것은 대체로 어떠한 定議 혹은 섬유의 분류에서 이 명칭이 생기어났는가. 여기에 알기 쉽게 섬유의 분류를 한 개의 표로 만드러 설명하겠습니다.
+섬유의 分類
+
+分類表로서 아는 바와 같이 섬유는 이것을 천연섬유와 인조섬유로 나눌 수가 있으니 천연섬유는 羊毛, 木棉, 絹 등과 같이 天然的으로 섬유형태를 가지고 있어 이것을 絹과 같이 그대로 실(絲)을 만들든지 木棉, 羊毛와 같이 紡績하여 실(絲)을 만들 수 있는 섬유의 總稱이요, 인조섬유는 其 原料物質이 우리가 要求하는 섬유형태, 性狀을 具備치 않은 경우에 적당한 방법으로써 그 原形을 한 번 消失시키어 人工的으로 再次 우리의 要求하는 形態, 性狀을 賦與시키어 만드러 내는 섬유의 총칭이라고 定義할 수 있습니다. 이 인조섬유를 分類表에서 보시는 바와 같이 또다시 세 가지로 나누는 것이 편리하니 재생섬유, 반합성섬유, 합성섬유가 즉 이것입니다. 그러므로 합성섬유는 인조섬유의 일종이라는 것을 명백히 알 수 있습니다.
+이상의 섬유분류표 중 천연섬유는 다시 설명할 필요가 없다고 생각합니다만은 인조섬유에 대하여서는 약간의 해설이 필요할 뜻합니다. 즉 어떠한 이유하에 인조섬유를 再生, 半合成, 合成의 3 섬유로 분류하였는가.＜106＞
+재생섬유는 만드러낸 인조섬유가 化學的으로 보아 그 原料인 動物 혹은 植物이 合成한 天然高分子物質과 똑같은 섬유를 말함이니 예를 우리가 日常生活에 늘 쓰는 인조견사를 들어 말하여 보면 이 인조견사의 原料는 木材에서 만드러 낸 「팔푸」인데 「팔푸」는 化學的으로 보아 棉이나 麻와 같이 섬유소임으로 그 分子의 形態는 물론이오 크기(大)까지 棉이나 麻의 그것과 거의 같습니다. 다만 그 分子가 集合하여 된 섬유가 그 形態가 대단히 짧아(短) 이 「팔푸」의 섬유는 그대로 紡績하여 실(絲)을 만드러 낼 수가 없습니다. 그러므로 이것을 적당한 化學的 方法으로 녹히어(溶解) 다시 말하라면 개개의 分子로 분산시키어 다시 化學的 方法으로 이 分子를 서로 붙이되(凝固시킴) 우리 人類의 쓰기 좋을 形態 즉 인조견사의 형태로 凝固시킨 것입니다. 이것이 즉 현재 우리가 日常使用하는 인조견사니 아무리 그 形態가 「팔푸」와는 전연 틀린다 하더라도 이것을 形成한 物質은 化學的으로 보아 똑같은 섬유소입니다. 여기에 재생섬유라는 명칭의 유래가 있으니 즉 재생섬유는 化學的 方法으로 原料의 形態를 一變시키어 우리가 쓰기 좋은 形態로 맨드러낸 섬유인데 化學的으로 보아 構成物質이 原料나 만드러낸 섬유가 똑같은 섬유의 총칭입니다.
+半합성섬유로 재생섬유와 같이 原料를 一次 溶解시키어 化學的 方法으로 다시 凝固시키어 만드러낸 것이나 그 原料와 만드러낸 섬유가 化學的으로 볼 때에 달러저 있습니다. 예를 醋酸化法인조섬유를 들어 설명하자면 이 인조섬유는 섬유소와 초산을 化學的으로 결합시키어 만드러낸 것이나 製品과 原料와는 化學的으로 보아 전연 다른 物質입니다. 즉 석탄과 석회로부터 人間의 힘으로 合成한 醋酸과 천연의 힘으로 植物이 合成한 天然高分子物質인 섬유소가 合成化學的으로 결합하여 된 초산섬유소로 만드러낸 인조섬유임으로 우리는 이것을 반합성섬유라고 부릅니다.
+그 다음은 합성섬유인데 합성섬유를 말하기 전에 먼저 섬유과학에 대하여 간단히 말할 필요가 있습니다. 그것은 다름이 아니라 우리 人間의 衣服의 原料가 되는 섬유는 이것을 化學的으로 볼 때에 어떠한 物質이며 무슨 特徵이 있는가입니다. 木棉, 麻, 「팔푸」 등 목재섬유를 形成한 섬유소, 絹을 形成한 「피부로인」, 羊毛를 形成한 「게라친」 등은 우리가 日常 늘 接觸한 砂糖이나 食鹽이나 석유 등과 비교하여 分子의 形態와 크기(大)가 다름이 없는가. 만일 다름이 없으면 이와 같은 物質로 간단히 人類의 被服原料를 만들 수 있는가.
+만일 다르다 하면 어떠한 점이 다르며 어떠한 物質이라야만 被服原料가 될 可能性이 있는가.
+이 問題에 대하여 世界의 섬유과학자가 수십 년을 연구하고 論爭한 결과 최근에 와서 어느 정도까지 그 正體를 알게＜107＞ 되였으니 이 基礎的, 根本的 硏究가 합성섬유의 誕生의 大動脈이 된 것입니다.
+여기에 이 섬유과학의 발전경로와 論爭 등을 쓸 필요는 없을 듯하여 다만 현재에 當到한 결론만 간단히 쓰겠으니 그 결론은 다음과 같이 極이 간단합니다. 즉 섬유를 만들 물질은 두 가지의 큰 特徵을 가지고 있는데
+첫째는 그 物質의 分子量이 上述한 石油나 砂糖과 같이 十數 혹은 數百이 아니요 數萬 혹은 數十萬으로써 즉 分子量이 普通有機化合物보다 훨신 큰 것이요 (그러므로 이것을 총칭 高分子物質이라 합니다)
+둘째는 分子量 다시 말하자면 分子가 클 뿐 아니라 形態가 실(絲)처럼 길(長)어서 똑 실과 같음으로 絲狀分子라는 名稱이 있습니다.
+分子가 크고 길면 이것을 絲狀高分子라고 불으는데 上述함과 같이 木棉을 形成한 섬유소, 絹絲, 羊毛를 形成한 蛋白質이 전부 다 絲狀高分子物質로 되어 있다는 것을 수십 년간의 섬유과학자들의 노력으로 세상에 또렷이 아르켜 내게 되었습니다.
+그러면 만일 인류가 인류의 힘으로 길고 큰 分子 즉 絲狀高分子를 만드러내면 이로써 섬유를 만드러 낼 수가 있을가.
+이에 대한 대답이 米國서 나온 합성섬유 「나이론」이며 獨逸서 나온 합성섬유 「페·체·섬유」며 京都帝國大學에서 발표한 「合成1號」이니 인류가 인류의 힘으로 合成한 絲狀高分子物質은 훌륭한 인조섬유를 만든다는 實物의 證明입니다.
+여기까지 오면 합성섬유라는 것은 무엇인가를 대개 짐작하실 터이니 다시 한 번 定義를 써 보자면 「합성섬유는 인류의 힘으로 合成한 絲狀高分子物質로써 만드러 낸 섬유」라고 할 수 있습니다.
+그러면 얼핏 생각하기에 合成絲狀高分子物質은 인류가 얼마든지 만드러 낼 수가 있으니 無數의 종류의 합성섬유가 세상에 속속 출현할 것입니다. 사실 合成絲狀高分子物質은 벌써 數十, 數百種이 발명되었습니다. 그러나 合成絲狀高分子物質이라고 다 좋은 섬유가 되느냐 하면 그렇지 않고 어떠한 특수한 絲狀分子라야만 좋은 섬유가 되는 것이오니 따라서 비록 수백 종의 合成絲狀高分子物質이 發明되었으나 좋은 섬유가 되는 종류는 현재 10종을 지나지 못합니다.
+그러나 그 중에 「나이론」과 같이 工業化하여 어떠한 용도에는 천연견사보담 훨신 좋은 실(絲)이 세상에 출현하였으니 견사나 양모 등의 천연섬유의 길이 어찌 安閑하리요.
+自後 십수 년 간에는 數多한 합성섬유가 출현할 것은 사실이며 그 중에는 工業的으로 經濟的으로 성공할 섬유가 반듯이 있을 터이며 더구나 합성섬유는 그 原料가 석탄＜108＞ (45 頁에 계속)
+45頁의 「합성섬유」의 계속
+석탄, 공기, 水 이외에 아무것도 필요치 않은 것을 생각할 때에 이후의 섬유계에서 어찌 합성섬유를 重要視치 않을 수가 있으며 이에 대한 硏究를 등한히 할 수가 있겠습니까.
+京都帝國大學에서 우리들이 硏究하고 있는 合成1號는 지금 中間工業試驗을 착수하고 있으니 불과 1년에 成敗 간의 결론이 날뜻합니다. 우리로서는 최선을 다하여 연구 중이니 성패를 불문하고 硏究에 熱中한 그 瞬間이 學者의 가장 행복스러운 순간이며 三昧境이 아닐가 합니다.
+昭和 16년 4월 1일＜45＞
+＜105-108, 45＞

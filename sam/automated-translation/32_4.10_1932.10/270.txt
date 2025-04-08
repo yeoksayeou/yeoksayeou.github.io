@@ -1,0 +1,57 @@
+**Header Section:**
+Magazine Title: 삼천리 제4권 제10호
+Publication Date: 1932년 10월 01일
+Article Title: 贈別詩 (Farewell Poem)
+Author: 金泉서 止齋 (From Kimch'ŏn, Chijae)
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Farewell Poem
+						From Kimch'ŏn, Chijae
+
+Human feelings are the same when it's time to regretfully part,
+Green trees, setting sun, a thousand-li road.
+
+Regretting parting is nothing other than the difficulty of meeting again,
+The rustling departing horse intentionally lingers. <69>
+
+**Summary**
+
+This short poem, written in classical Chinese (Hanja), expresses the universal sentiment of sorrow associated with parting (惜別). The poet notes the shared human feeling of regret at separation, evokes imagery of a long journey under a setting sun, highlights the pain stemming from the uncertainty of reunion (難再期), and concludes with the image of a horse seemingly reluctant to depart, mirroring the traveler's feelings. From a historical perspective, the article showcases the continued practice of composing Hanja poetry by Korean intellectuals during the Japanese colonial period, reflecting the persistence of traditional literary forms and themes even amidst modernization and external pressures. It signifies the use of established East Asian literary conventions to express personal emotions.
+
+**Named Entities**
+
+金泉	김천	Kimch'ŏn
+止齋	지재	Chijae
+
+**Glossary**
+
+人情	인정	Human feelings, human nature
+惜別	석별	Regretting parting, sorrowful farewell
+別離	별리	Parting, separation
+碧樹	벽수	Green trees
+斜陽	사양	Setting sun
+千里路	천리로	A thousand-li road (a long journey)
+靡他	미타	None other than, nothing but (Classical Chinese grammatical phrase)
+難再期	난재기	Difficult to set a time to meet again, uncertainty of reunion
+蕭蕭	소소	Rustling sound (of wind, leaves); lonely, desolate
+征馬	정마	A horse setting out on a journey, departing horse
+故	고	Intentionally, deliberately
+遲遲	지지	Slowly, lingeringly, delaying
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제10호
+발행일	1932년 10월 01일
+기사제목	贈別詩
+필자	金泉서 止齋
+기사형태	시
+
+贈別詩
+						金泉서 止齋
+人情同惜別離時
+碧樹斜陽千里路
+惜別靡他難再期
+蕭蕭征馬故遲遲＜69＞

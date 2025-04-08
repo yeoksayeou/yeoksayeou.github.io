@@ -1,0 +1,46 @@
+Magazine Title: 삼천리 제6권 제5호
+Publication Date: 1934년 05월 01일
+Article Title: 서울에 女子 七人不足 (Seven Women Lacking in Seoul)
+Author: Not specified
+Article Type: 잡저 (Miscellany/Short Piece)
+
+Seven Women Lacking in Seoul
+
+If you ask how many people (백성) live in Seoul, there are 79,519 households and a population (人口) of 382,491 people (人). Looking at this by gender, there are 191,249 males and 191,242 females, meaning there is a shortage (不足) of exactly 7 women. Isn't there some benefactor (特志家) somewhere who will arrange for just 7 young women (색시) to move (移住) to Seoul?<38>
+
+**Summary**
+
+This short piece from 1934 reports the population statistics for Seoul: 79,519 households and 382,491 people. It breaks this down by gender, noting 191,249 men and 191,242 women, highlighting a deficit of precisely seven women. The article concludes with a lighthearted question asking if a benefactor exists who could arrange for seven young women to relocate to Seoul. For historians, this snippet provides specific demographic data for the colonial capital during this period. The slightly humorous tone concerning the gender imbalance, framing it almost as a matchmaking issue ("색시"), offers a glimpse into contemporary social commentary, albeit brief, on population figures.
+
+**Named Entities**
+
+서울	서울	Seoul
+
+**Glossary**
+
+女子	녀자	Woman (Older spelling/pronunciation, now 여자)
+七人	칠인	Seven people
+不足	부족	Shortage; lack; insufficiency
+백성	백성	People; populace (Can sometimes imply subjects of a ruler, but here used for inhabitants)
+잇나하면	있나 하면	If one asks/looks (Older spelling of 있나)
+戶數	호수	Number of households
+人口	인구	Population
+사내	사내	Man; male (Colloquial/slightly older term)
+어대서	어디서	From where (Older spelling)
+색시	색시	Young woman; maiden; lass (Often implies unmarried)
+移住식혀	이주시켜	To make move; to relocate (시키다 causative verb combined with 移住)
+特志家	특지가	Benefactor; philanthropist; person of noble intent
+업는고	없는고	Is there not?; Isn't there? (Older interrogative form of 없다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제5호
+발행일	1934년 05월 01일
+기사제목	서울에 女子 七人不足
+기사형태	잡저
+
+서울에 女子 七人不足
+서울에 백성들이 얼마나 살고 잇나하면 戶數 7만 9천 5백 19호 人口 38만 2천 491人인데 이것을 남녀별로 보면 사내 19만 1천 2백 49인이요 녀자 19만 1천 2백 42인으로 녀자가 꼭 7명이 부족하다. 어대서 색시 7명만 서울에 移住식혀 줄 特志家는 업는고?<38>
+<38>

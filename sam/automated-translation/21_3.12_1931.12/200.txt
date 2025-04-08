@@ -1,0 +1,72 @@
+Magazine Title: 삼천리 제3권 제12호
+Publication Date: 1931년 12월 01일
+Article Title: 壁新聞 제4호, 아메리카 都市 市民의 娛樂費 調査 (Wall Newspaper No. 4, Survey of Entertainment Expenses of American City Citizens)
+Author: None specified
+Article Type: 소식 (News/Report)
+
+Wall Newspaper No. 4, Survey of Entertainment Expenses of American City Citizens
+
+It is said that the expenses incurred last year in major cities of the United States (米國) for public entertainment, such as equipping parks or dance halls, were truly tremendous.
+
+According to statistics now available, the total entertainment expenses for citizens in 18 cities from New York (紐育) down to New Orleans (뉴올레안쓰) amounted to the figure of $18,156,747.60. Among these, the city occupying the highest number was New York City (紐育市), with a total amount reaching $3,290,095. Next was Chicago (시카코-) with $2,517,810, followed by Cleveland (그리브랜드), Detroit (데틀이드), Boston (뽀쓰톤), and Los Angeles (로스안젤쓰), which were also said to be over $1 million each.
+
+Even in America (아메리카), a bourgeois (뿌르조아) nation, there must be proletarians (無産者). However, it is well known that for those proletarians, let alone entertainment expenses, they must worry about their food for the day.<60>
+
+**Summary**
+
+This short news report from 1931 details the significant amount of money spent on public entertainment facilities like parks and dance halls in major American cities the previous year. It provides specific figures for total spending across 18 cities ($18.1 million) and highlights the top spenders: New York ($3.3 million), Chicago ($2.5 million), followed by Cleveland, Detroit, Boston, and Los Angeles (all over $1 million). The article concludes by contrasting this spending with the assumed plight of America's "proletarians" (無産者), who likely struggle even for daily food. From the perspective of Korean colonial history, the article offers a glimpse into how America's wealth and societal structure were perceived and reported. The explicit mention of vast entertainment spending alongside the acknowledgment of a struggling proletariat ('無産者') within a 'bourgeois nation' might have served to illustrate the scale of American capitalism, its potential excesses, and its inherent class divisions, subjects of interest and perhaps critique in colonized Korea during a period of global economic depression and rising ideological tensions.
+
+**Named Entities**
+
+米國	미국	Miguk
+紐育	뉴욕	Nyuyok
+뉴올레안쓰	뉴올리언스	Nyuolleanssŭ
+시카코-	시카고	Sik'ak'o
+그리브랜드	클리블랜드	Kŭribŭraendŭ
+데틀이드	디트로이트	Tet'ŭridŭ
+뽀쓰톤	보스턴	Ppossŭt'on
+로스안젤쓰	로스앤젤레스	Rosŭanjelssŭ
+아메리카	아메리카	Amerika
+
+**Glossary**
+
+壁新聞	벽신문	Wall newspaper (Likely a section title within the magazine)
+都市	도시	City
+市民	시민	Citizen
+娛樂費	오락비	Entertainment expenses
+調査	조사	Survey, investigation
+主要	주요	Major, main
+공중오락	공중오락	Public entertainment
+갓흔	같은	Like, such as (Older spelling of 같은)
+설비	설비	Facilities, equipment; establishing/equipping
+경비	경비	Expenses, costs
+실노	실로	Truly, indeed (Older spelling/formality of 실로)
+통계	통계	Statistics
+이하	이하	Below, down to (Used here geographically 'from X down to Y')
+총계	총계	Total sum, grand total
+수자	숫자	Number, figure (Older spelling of 숫자)
+지엿다고	지었다고	Showed, recorded (Reported speech; older spelling/form of 지었다고)
+점령한	점령한	Occupied (Used here to mean 'held' or 'accounted for')
+달하엿다고	달하였다고	Reached, amounted to (Reported speech marker; older verb ending -엿-)
+다음	다음	Next
+이상	이상	More than, above
+뿌르조아	부르주아	Bourgeois (Loanword transliteration)
+無産者	무산자	Proletarian, propertyless person
+고사하고	고사하고	Let alone, never mind, setting aside
+하로	하루	One day (Older spelling of 하루)
+잇을	있을	Will be, exist (Older spelling of 있을)
+잇다	있다	To know (Here, stem 알- + pre-final ending -았- + declarative ending -다, contracted/older form 알앗다 -> 알앋다 -> 알앴다. The text uses 잇다 which seems to be a typo or unusual form for 알다; context implies 'know')
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제12호
+발행일	1931년 12월 01일
+기사제목	壁新聞 제4호, 아메리카 都市 市民의 娛樂費 調査
+기사형태	소식
+
+壁新聞 제4호, 아메리카 都市 市民의 娛樂費 調査
+米國 주요 도시에서 작년 중에 공중오락을 위하야 공원 혹은 땐쓰홀 갓흔 것을 설비하느라고 드린 경비는 실노 굉장하엿다고 한다.
+이제 통계에 의하면 紐育 이하 뉴올레안쓰까시 18도시의 시민오락락비 총계가 1,815만6,747불60선이라는 수자를 지엿다고 하며 그 중에도 최고의 수를 점령한 도시는 紐育市인데 총액이 329만95불에 달하엿다고 한다. 다음의 시카코-는 251만7810불이엿고 그 다음으로 그리브랜드, 데틀이드, 뽀쓰톤, 로스안젤쓰라는데 이 도시에도 100만불 이상이라고 하엿다.
+뿌르조아 국가인 아메리카에도 無産者가 잇을 것이다. 그러나 그를 無産者에게는 오락비는 고사하고 하로의 먹을 것을 걱정할 것임을 잘 알고 잇다.<60>

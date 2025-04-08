@@ -1,0 +1,59 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1934-06-01
+Article Title: 贈花卿 (Gift to General Hua)
+Author: 杜甫 (Du Fu)
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Gift to General Hua
+						Du Fu
+In Brocade City, music from silk strings and pipes bustles daily,
+Half enters the river wind, half enters the clouds.
+This melody surely ought only to exist in heaven;
+In the human world, how many times can it be heard? <70>
+
+**Summary**
+
+This entry presents the famous classical Chinese poem "Gift to General Hua" (贈花卿) by the Tang dynasty poet Du Fu (杜甫). The poem describes the exquisite and seemingly celestial music heard at a banquet hosted by Hua Qing in Chengdu (锦城, Jincheng, "Brocade City"), marveling at its beauty and rarity in the mortal realm. The publication of this canonical Chinese poem in a Korean magazine during the Japanese colonial period (1934) highlights the enduring significance of classical Chinese literature in Korean culture. For historians, it might indicate a space for appreciating traditional East Asian heritage separate from Japanese colonial influence or contemporary Korean nationalist discourse, reflecting the complex cultural landscape of the time.
+
+**Named Entities**
+杜甫	두보	Du Fu
+花卿	화경	Hua Qing
+錦城	금성	Jincheng
+
+**Glossary**
+贈花卿	증화경	Gift/Present to Hua Qing (General Hua)
+錦城	금성	Brocade City (old name for Chengdu)
+絲管	사관	Silk (strings) and pipes; string and wind instruments; music
+日	일	Day; daily
+粉紛	분분	Numerous and bustling; filling the air confusedly (Original uses 粉紛, often written 紛紛)
+半	반	Half
+入	입	Enter
+江風	강풍	River wind
+雲	운	Cloud
+此曲	차곡	This melody/song
+秪應	지응	Should only; surely ought to (秪 is a variant/older form of 只)
+天上	천상	In heaven; celestial
+人間	인간	The human world; among people
+能得	능득	Can get/obtain; be able to
+幾回	기회	How many times?
+聞	문	Hear; be heard
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제7호
+발행일	1934년 06월 01일
+기사제목	贈花卿
+필자	杜甫
+기사형태	시
+
+贈花卿
+						杜甫
+錦城絲管日粉紛
+半入江風半入雲
+此曲秪應天上有
+人間能得幾回聞<70>
+<70>

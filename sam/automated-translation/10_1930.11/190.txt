@@ -1,0 +1,83 @@
+Magazine Title: 삼천리 제10호
+Publication Date: 1930년 11월 01일
+Article Title: 놀라운 一億圓의 負債 (Astonishing Debt of 100 Million Won)
+Author: Not specified
+Article Type: 소식 (News/Report)
+
+Astonishing Debt of 100 Million Won
+
+Among the small farmers and small merchants of Chosŏn (조선), it is rare to find someone who does not owe a debt to the Financial Cooperatives (金融組合). Whether mortgaging a humble six-kan thatched house (六間斗屋) or mortgaging farmland (田土), many are borrowing heavily from the Cooperatives. Now, looking at the total debt as of the end of May (5月末日), it has surpassed a total of 100 million Won (一億圓). This means they are carrying 100 million Won in debt from these semi-governmental lending institutions (半官設 貸金業機關), and the interest alone, calculated at ten percent per year (년 一割), amounts to 10 million Won. How astonishing is this?
+
+The number of Cooperatives, combining cities and villages, is 621. This is an increase of 24 cooperatives compared to the same period last year, and an increase of 47 cooperatives compared to the same period two years ago.
+
+The number of cooperative members is 594,231, an increase of 55,283 people compared to the same period last year, and an increase of 92,113 people compared to the same period two years ago.
+
+The total amount loaned (貸付高) is truly 100,016,080 Won (1억 1,608圓). This is an increase of 15,511,000 Won compared to the same period the previous year (前年 同期), and an increase of 21,421,000 Won compared to the same period two years ago.
+
+The average loan amount per cooperative member is 185 Won, which is an increase of 10 Won compared to the same period the previous year, and an increase of 9 Won compared to the same period two years ago. <59>
+
+**Summary**
+
+This 1930 news report from the magazine *Samch'ŏlli* highlights the rapidly increasing debt burden carried by Korean small farmers and merchants, owed primarily to Financial Cooperatives (金融組合). Total debt surpassed 100 million Won by May 1930, with significant year-over-year increases in the number of cooperatives, members, total loan amounts, and average debt per member. The article expresses astonishment at the scale of this indebtedness and the associated interest burden, estimated at 10 million Won annually. For historians, this article provides quantitative data on the economic distress and growing dependency on semi-governmental lending institutions in colonial Korea during a period of economic hardship. The figures illustrate the penetration of these financial entities into rural and urban society and the scale of economic pressure faced by ordinary Koreans.
+
+**Named Entities**
+
+조선	조선	Chosŏn
+金融組合	금융조합	Financial Cooperatives
+半官設 貸金業機關	반관설 대금업기관	Semi-governmental lending institutions
+
+**Glossary**
+
+소농민	소농민	Small farmer
+소상인	소상인	Small merchant
+금융조합	금융조합	Financial Cooperative
+채무	채무	Debt, liabilities
+아니진	아니 진	Not possessing (older negative form)
+드물다	드물다	To be rare, uncommon
+六間斗屋	육간두옥	Six-kan thatched house (a measure of house size, likely indicating a modest dwelling)
+잡히고	잡히고	Being mortgaged/seized
+田土	전토	Farmland, agricultural land
+빗	빚	Debt (older spelling of 빚)
+만히	많이	Many, much (older spelling of 많이)
+어더쓰고	얻어 쓰고	Borrowing and using (compound verb)
+잇는 터인데	있는 터인데	While it is the case that... (older spelling of 있는)
+5月末日	5월 말일	End of May
+총액	총액	Total amount
+돌파하엿다	돌파하였다	Surpassed, broke through (older spelling/form)
+半官設	반관설	Semi-governmental, quasi-official
+貸金業機關	대금업기관	Lending institution, loan business agency
+지어 쓰고	지어 쓰고	Incurring (debt) and using
+이자	이자	Interest (on money)
+년 一割	연 일할	One tenth per year (10% annual interest rate; older way of expressing rate)
+놀라운	놀라운	Astonishing, surprising
+도시	도시	City
+촌락	촌락	Village
+합하야	합하여	Combined, added together (older spelling)
+조합	조합	Cooperative, association, union
+작년	작년	Last year
+同期	동기	Same period
+비하야	비하여	Compared to (older spelling)
+재작년	재작년	The year before last
+증가	증가	Increase
+조합원	조합원	Cooperative member
+貸付高	대부고	Total loan amount
+실로	실로	Truly, indeed
+前年	전년	Previous year
+平均	평균	Average
+一人	일인	Per person
+
+
+---------------------------
+
+
+잡지명	삼천리 제10호
+발행일	1930년 11월 01일
+기사제목	놀라운 一億圓의 負債
+기사형태	소식
+
+놀라운 一億圓의 負債
+조선의 소농민, 소상인들로 金融組合에 채무를 아니진 분이 드물다. 혹은 六間斗屋을 잡히고 혹은 田土를 잡히고서 組合에서 빗을 만히 어더쓰고 잇는 터인데 이제 5月末日 현재의 채무총액을 보면 모다 一億圓을 돌파하엿다. 즉 半官設 貸金業機關으로부터 一億圓의 빗을 지어 쓰고 잇는 셈이니 그 이자만 년 一割 잡어도 一千萬圓이다. 얼마나 놀라운 일인가 즉
+組合數는 도시와 촌락을 합하야 621조합 작년 同期에 비하야 24조합 재작년 同期에 비하야 47조합움˜ 증가이다.
+조합원은 594,231人이니 작년 同期에 비하야 55,283人 재작년 同期에 비하야 92,113人의 증가이다.
+貸付高는 실로 1억 1,608圓이니 前年 同期에 비하야 1,551만 1천圓 재작년 同期에 비하야 2,142萬 1千圓의 증가이다.
+조합원 一人 평균 貸付高는 185원이니 前年 同期에 비하면 10원 재작년 同期에 비하야 9원의 증가이다.＜59＞

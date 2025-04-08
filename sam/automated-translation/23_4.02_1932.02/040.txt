@@ -1,0 +1,94 @@
+Magazine Title: 삼천리 제4권 제2호
+Publication Date: 1932년 02월 01일
+Article Title: 三千里 「壁新聞」 (Samch'ŏlli "Wall Newspaper")
+Author: Not specified
+Article Type: 소식 (News/Tidbits)
+
+Samch'ŏlli "Wall Newspaper"
+
+How Many *Ch'ŏnsŏkkun* Are There?
+
+People call Min Yŏnghwi, Pak Yŏngch'ŏl, Ch'oe Ch'anghak, and others *mansŏkkun* (ten-thousand-sŏk harvesters), but just how many *ch'ŏnsŏkkun* (thousand-sŏk harvesters) are there currently in Chosŏn?
+
+The Police Bureau (경무국) investigated this once in the year Kiminyŏn (己未年 - 1919). Specifically, a *ch'ŏnsŏkkun* refers to someone who has an annual harvest (年추수) of one thousand sŏk. Even estimating one sŏm of rice at 6 wŏn each (식), one must have an annual income (年收) of over 6,000 wŏn to qualify. Furthermore, to achieve a thousand sŏk harvest, one must possess land worth at least 100,000 wŏn. So, how many wealthy individuals worth over 100,000 wŏn were there at that time?
+
+The number obtained from the Police Bureau's investigation was 864, which is likely accurate.
+
+Since there were only slightly over 800 in Taishō 8 (大正 8年 - 1919), when the economy was booming, the number has probably decreased significantly (벗적) by now, amidst this severe economic depression. It seems the Police Bureau investigates annually, but they do not announce it publicly (外間), so it's hard to know for sure. However, according to some businessmen (실업가), it's probably a fair observation that large landowners (대지주) who hold onto their thousand-sŏk farmlands (田地) without putting them into the Oriental Development Company (東拓 - Tongch'ŏk) or the Chōsen Industrial Bank (殖銀 - Sikŭn) might be countable on one's fingers.
+
+Emperor Sunjong and "Nŏ" (You)
+
+Even after his abdication, the late Emperor Sunjong (純宗 - Yung-hui Emperor, 隆熙帝) always addressed the late Yi Wanyong using "nŏ" (너 - informal 'you') when calling him.
+
+Yi Wanyong, although a subject (臣下), confessed to an intimate friend (知己) in his later years (萬年) that he felt it was excessive. <10>
+
+**Summary**
+
+This article discusses the number of wealthy landowners (*ch'ŏnsŏkkun*) in colonial Korea, defined as those with an annual harvest of 1,000 sŏk (equivalent to ~₩6,000 income and ~₩100,000 land value in 1919). It cites a 1919 police survey counting 864 such individuals but speculates the number has sharply declined due to the economic depression, with few large landowners remaining independent of colonial financial institutions like the Oriental Development Company or the Industrial Bank. It also includes an anecdote about Emperor Sunjong continuing to address the pro-Japanese official Yi Wanyong informally ("nŏ") even after abdication, which Yi found grating. For historians, the piece offers specific (though potentially dated) figures on wealth concentration among Korean landowners during the colonial period and reflects the perceived economic impact of the global depression on this class. The anecdote about Sunjong and Yi Wanyong provides a glimpse into the personal dynamics and lingering traditional hierarchies even under Japanese rule.
+
+**Named Entities**
+
+閔泳徽	민영휘	Min Yŏnghwi
+朴榮喆	박영철	Pak Yŏngch'ŏl
+崔昌學	최창학	Ch'oe Ch'anghak
+朝鮮	조선	Chosŏn
+경무국	경무국	Kyŏngmuguk
+東拓	동척	Tongch'ŏk
+殖銀	식은	Sikŭn
+純宗	순종	Sunjong
+隆熙帝	융희제	Yunghŭije
+李完用	이완용	Yi Wanyong
+
+**Glossary**
+
+천석꾼	천석꾼	Person harvesting 1,000 sŏk of grain annually; a large landowner.
+몃	몇	How many (older spelling).
+잇는고	있는가	Is/are there? (older interrogative form).
+만석꾼	만석꾼	Person harvesting 10,000 sŏk of grain annually; an extremely wealthy landowner.
+섬	섬	A unit of volume for grain, approx. 180 liters.
+식	씩	Each; per (older spelling/usage).
+잡어도	잡아도	Even if estimated/calculated at.
+잇서야	있어야	Must have/be (older spelling).
+되든고	되었는가	Was/were? (older interrogative past form).
+수자	숫자	Number (older spelling).
+조흔	좋은	Good (older spelling).
+밧게	밖에	Only; outside of (older spelling).
+되엇스니	되었으니	Since it was; because it was (older spelling).
+벗적	버쩍	Significantly, greatly, drastically (possibly older or dialectal form of '부쩍').
+줄엇슬	줄었을	Would have decreased (older spelling).
+안어	않아	Not (older spelling/contraction).
+업지만은	없지만은	Although there isn't/aren't (older spelling).
+엇든	어떤	Some; certain (older spelling).
+드르면	들으면	If one hears.
+너코	넣고	Putting in; depositing (older spelling).
+잇는	있는	Who have/possess (used adnominally).
+남엇슬가	남았을까	Would remain?; I wonder if it remains (older spelling).
+도라가신	돌아가신	Deceased; passed away (honorific).
+불늘	부를	To call (older spelling/form of future determiner).
+하섯다	하셨다	He did; he said (honorific past, older spelling).
+아모리	아무리	No matter how; however much (older spelling).
+너	너	You (plain/informal second-person pronoun).
+신하	신하	Subject; vassal; court official.
+만년	만년	Later years; old age.
+지기	지기	Intimate friend; close acquaintance; confidant.
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제2호
+발행일	1932년 02월 01일
+기사제목	三千里 「壁新聞」
+기사형태	소식
+
+三千里 「壁新聞」
+천석꾼은 몃 명이나 되나
+閔泳徽, 朴榮喆, 崔昌學 등을 모다 만석꾼이라고 부르는데 대체 지금 조선 안에는 천석꾼이 몃 명이나 잇는고.
+己未年에 경무국에서 이것을 한번 조사한 일이 잇섯다. 즉 천석꾼이라 하면 年추수 천석을 가지는 자를 가르치는데 벼 한섬에 6원 식 잡어도 年收 6천원 이상이 잇서야 이 자격이 잇다. 그런데 천석을 하자면 적어도 토지가 10만원어치는 잇서야 된다. 그러면 그때 10만원 이상의 부자가 얼마나 되든고.
+864인이라 하는 것이 경무국에서 조사하여낸 수자이니 이것은 아마 정확한 것이리라.
+경기가 한창 조흔 大正 8년에 8백여명 밧게 안되엇스니 불경기가 심한 지금 쯤은 아마 벗적 줄엇슬 것이다. 경무국에서는 해마다 조사하는 모양이나 外間에 발표를 하지 안어 잘 알 수 업지만은 엇든 실업가의 말을 드르면 東拓, 殖銀에 아니 너코 그냥 천석드리 전지를 가지고 잇는 대지주는 손꼬락으로 꼽을만치나 남엇슬가 함이 아마 정당한 관측일걸.
+
+純宗께서와 너
+도라가신 純宗(隆熙帝)께서는 퇴위하신 뒤까지도 故 李完用을 불늘 때에 늘
+「너」
+라고 하섯다. 李完用은 아무리 신하라도 너무 심하시더라고 만년에 知己에게 고백하더라.＜10＞

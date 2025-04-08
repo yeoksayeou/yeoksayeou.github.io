@@ -1,0 +1,86 @@
+**Header Section:**
+Magazine Title: 삼천리
+Publication Date: 1930년 09월 01일
+Article Title: 王昭君歌 (Song of Wang Chao-chün)
+Author: Not Specified
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+
+Song of Wang Chao-chün
+
+Year after year, dwelling in Weiyang Palace,
+Spring days pass slowly, autumn nights are long.
+The Emperor's favor is deep, but this servant's fate is thin,
+Spring birds fly out to the northern lands (朔方), feelings are wounded.
+
+On horseback, holding the pipa,
+The Great Wall (萬里長城) rises from yellow sand for ten thousand li.
+The sky at dusk grows dim, pale clouds scatter,
+In the land of the Hu (胡地), the sound of their language saddens me for [my lost] favor.
+
+Tears from two eyes flow continuously, soaking [my clothes],
+Holding back sorrow, swaying sadly, I pass through the Han Pass (漢關).
+*Farewell to the Phoenix Pavilion (鳳閣), farewell to the Dragon Face (龍顔 Emperor's face),
+Gazing sorrowfully at the mountains of Yenching (燕京山), desolate. <20>
+
+**Summary**
+
+This poem recounts the sorrowful journey of Wang Chao-chün, a Han Dynasty court lady sent north to marry a Xiongnu ruler. It describes her lingering life in the palace, the abrupt turn of fate despite the emperor's favor, the desolate landscape of her journey beyond the Great Wall, and her tearful farewell to her homeland and emperor. The poem emphasizes her grief, loneliness, and the cultural alienation symbolized by the unfamiliar language and bleak scenery. From the perspective of Korean colonial history, the poem's theme of forced departure, loss of homeland, and sorrow under a powerful entity (the Emperor, analogous to a ruling power) could resonate with contemporary Korean sentiments of cultural loss and displacement under Japanese rule. Historians might find the use of this specific Chinese historical allegory notable as a potentially permissible way to express national grief or feelings of subjugation during a period of censorship.
+
+**Named Entities**
+
+王昭君	왕소군	Wang Chao-chün
+未央	미앙	Weiyang (Palace)
+朔方	삭방	Shuofang (Northern regions)
+萬里長城	만리장성	Great Wall of China
+胡地	호지	Land of the Hu (Xiongnu territory)
+漢關	한관	Han Pass
+鳳閣	봉각	Phoenix Pavilion
+龍顔	용안	Dragon Face (Emperor's face)
+燕京山	연경산	Yenching Mountains
+
+**Glossary**
+
+年年	년년	Year after year
+未央	미앙	Weiyang (Palace name)
+遲遲	지지	Slowly, leisurely (literary)
+君恩	군은	Emperor's favor/grace
+妾命	첩명	My (humble woman's) fate/life
+朔方	삭방	Northern region (often referring to non-Han areas)
+琵琶	비파	Pipa (Chinese lute)
+黃砂	황사	Yellow sand
+胡地	호지	Land of the Hu (non-Han northern peoples)
+語音	어음	Speech sound, language
+潛潛	잠잠	Quietly, secretly (implying continuous flow)
+婆娑	파사	Swaying, moving reluctantly or sorrowfully
+漢關	한관	Han Pass (Border pass of Han China)
+鳳閣	봉각	Phoenix Pavilion (part of imperial palace)
+龍顔	용안	Dragon Face (Emperor's face)
+燕京山	연경산	Mountains near Yenching (Beijing); symbolic of the capital region or north
+悽慘	처참	Miserable, pitiful, desolate
+
+
+---------------------------
+
+
+잡지명	삼천리 제8호
+발행일	1930년 09월 01일
+기사제목	王昭君歌
+기사형태	시
+
+王昭君歌
+年年住未央
+春日遲遲秋夜長
+君恩深妾命薄
+春鳥出朔方情傷
+
+馬上把琵琶
+萬里長城起黃砂
+天黃昏淡雲散
+胡地語音悲我恩
+
+兩眼淚連潛潛
+含悲婆娑出漢關
+*鳳閣別龍顔
+愁看燕京山悽慘＜20＞

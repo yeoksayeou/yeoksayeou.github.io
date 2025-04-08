@@ -1,0 +1,53 @@
+Magazine Title: 三千里 제4권 제7호
+Publication Date: 1932년 06월 15일
+Article Title: 謝告 (Apology Notice)
+Author: 삼천리사 편집국
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Apology Notice
+
+Regarding the "cut" (캇트) used on page 8 of this magazine's Midsummer issue (仲夏호), due to carelessness during printing, we ended up using a copperplate (동판) from the "7-person KAPF Writers Collection" (캅프작가 7인집) published by Chiptansa (集團社) as it was. This has resulted in a protest from the KAPF Secretariat (캅프 서기국) and caused a misunderstanding regarding your esteemed publishing business. We apologize for this mistake.
+
+Samch'ŏlli Company Editorial Department <42>
+
+**Summary**
+
+The Samch'ŏlli magazine's editorial department issues an apology for mistakenly using a printing plate ("cut") belonging to Chiptansa, specifically from their publication "7-person KAPF Writers Collection," in the magazine's midsummer issue. This error prompted a protest from the KAPF (Korea Artista Proleta Federacio) Secretariat. The magazine apologizes for the carelessness and the resulting misunderstanding caused to Chiptansa's publishing business. For historians, this short notice is interesting as it highlights the interactions (even through conflict/error) between different publishing entities in colonial Korea, including the prominent leftist literary organization KAPF and a major magazine like Samch'ŏlli. It also provides a glimpse into the practical issues of printing and copyright/ownership of materials during that period.
+
+**Named Entities**
+
+集團社	집단사	Chiptansa
+캅프작가 7인집	카프작가 칠인집	K'ap'ŭ jakka 7injip
+캅프 서기국	카프 서기국	K'ap'ŭ Sŏgiguk
+
+**Glossary**
+
+謝告	사고	Apology Notice
+본지	본지	This magazine
+仲夏호	중하호	Midsummer issue (An older way to refer to a specific issue, likely June/July)
+캇트	카트	Cut (loanword referring to a printing block/illustration)
+부주의	부주의	Carelessness, negligence
+集團社	집단사	Chiptansa (Name of a publishing company)
+동판	동판	Copperplate (used for printing)
+캅프	카프	KAPF (Korea Artista Proleta Federacio - 조선 프롤레타리아 예술가 동맹)
+서기국	서기국	Secretariat
+항의	항의	Protest, complaint
+귀출판사업	귀출판사업	Your publishing business (귀 is an honorific prefix)
+오해	오해	Misunderstanding
+끼치게 되엿슴은	끼치게 되었음은	To have caused (되엿슴은 is an older spelling/form of 되었음은)
+잘못된 일이엇기	잘못된 일이었기	Because it was a mistaken matter (일이엇기 is an older spelling/form of 일이었기)
+미안하엿슴니다	미안하였습니다	We are sorry (하엿슴니다 is an older formal ending, cf. modern 하였습니다)
+편집국	편집국	Editorial department/bureau
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제7호
+발행일	1932년 06월 15일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+본지 仲夏호 제8頁에 사용한 「캇트」는 인쇄 당시의 부주의로 集團社 출판의 「캅프작가 7인집」의 동판을 그대로 쓴 바가 되어 캅프 서기국의 항의와 가치 귀출판사업에 오해를 끼치게 되엿슴은 잘못된 일이엇기 미안하엿슴니다.
+삼천리사 편집국 <42>

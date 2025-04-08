@@ -1,0 +1,62 @@
+Magazine Title: 삼천리 제6권 제9호
+Publication Date: 1934년 09월 01일
+Article Title: 社告 (Company Announcement)
+Author: None
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+Company Announcement
+
+1.  Telephone
+    This company's telephone number is Kwanghwamun 557.
+
+2.  Bank Transfer
+    This company's bank transfer account number is Kyŏngsŏng 2949.
+
+3.  Branch Offices
+    We are establishing branch offices in various local areas. Interested individuals, please request the internal regulations soon.
+    Samch'ŏlli Company<192>
+
+**Summary**
+
+This brief announcement from the Samch'ŏlli Company provides essential contact and banking information: their telephone number (Kwanghwamun 557) and their bank transfer account number (Kyŏngsŏng 2949). It also announces plans to establish branch offices in various regions and invites interested parties to inquire about the internal regulations for setting one up. For historians, this notice offers a glimpse into the basic business operations of a Korean publishing house during the colonial period, including its use of modern infrastructure like telephones and banking systems (based in Kyŏngsŏng, the colonial name for Seoul), and its ambition for regional expansion.
+
+**Named Entities**
+
+光化門	광화문	Kwanghwamun
+京城	경성	Kyŏngsŏng
+三千里社	삼천리사	Samch'ŏlli Sa
+
+**Glossary**
+
+社告	사고	Company announcement
+本社	본사	Head office, this company
+電話	전화	Telephone
+番	번	Number (used for phone number, account number)
+振替	진체	Bank transfer
+口座	구좌	Bank account (older term, now 계좌 is more common)
+京城	경성	Kyŏngsŏng (Colonial-era name for Seoul)
+支社	지사	Branch office
+設置함니다	설치합니다	To establish (Older spelling/form of 합니다)
+有意	유의	Interested, having intention
+內規	내규	Internal regulations
+請하시압	청하십시오	Please request (Older, formal imperative form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제9호
+발행일	1934년 09월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+一. 電話
+本社의 電話는 光化門 557番이외다.
+
+二. 振替
+本社振替口座는 京城 2949番이외다.
+
+三. 支社
+地方各處에 支社를 設置함니다. 有意한분은 곳 內規를 請하시압.
+三千里社＜192＞

@@ -1,0 +1,61 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里) 제15호
+Publication Date: 1931년 05월 01일
+Article Title: 世界最小의 戱曲, 「亡命者」 一幕 (World's Smallest Play, "The Exile" One Act)
+Author: 佛蘭西詩人 벨나-알 原作 (Original work by French poet Bernard)
+Article Type: 잡저 (Miscellaneous Writing/Contribution)
+
+**Body Text Translation:**
+World's Smallest Play, "The Exile" One Act
+						Original work by French Poet Bernard
+
+Characters: Exile, Village House Owner
+Setting: An exile quietly enters a village house near the border.
+
+Exile: "Hello, I don't know who you might be, but please hide me. I am someone sought by the Police (警察). There's even a reward offered."
+
+Village House Owner: "How much is the reward? Let's ask about that first."
+
+The Exile helplessly turns his feet and leaves. - End of Act - <16>
+
+**Summary**
+
+This article presents a translation of what is claimed to be the "World's Smallest Play," a one-act piece titled "The Exile," originally by the French poet Bernard (likely Tristan Bernard). The play depicts an encounter where an exile seeking refuge reveals a reward is offered for his capture. The house owner, instead of offering help, immediately inquires about the reward amount, prompting the exile to leave in despair. From a historical perspective, the publication of this foreign play in a Korean magazine during the Japanese colonial period is noteworthy. Its themes of desperation, betrayal for monetary gain, and moral compromise, though universal, might have resonated particularly strongly with Korean readers facing economic hardship and the complex social dynamics under colonial rule, possibly serving as an indirect commentary on collaboration or the erosion of traditional values.
+
+**Named Entities**
+
+佛蘭西	불란서	Pŭllansŏ (France - archaic term)
+벨나-알	벨나알	Pelna-al (Likely Bernard, the French author)
+警察	경찰	Kyŏngch'al (Police)
+
+**Glossary**
+
+戱曲	희곡	Play, drama
+亡命者	망명자	Exile, fugitive
+國境	국경	National border
+엇든	어떤	Certain, some (older spelling)
+드러 와서	들어 와서	Enters (older spacing/form)
+겟슴니다만은	겠습니다마는	I don't know but... (older polite ending '-습니다')
+찻는	찾는	Seeking, looking for (older spelling)
+부터서요	붙어서요	Is attached, is offered (older spelling/form)
+뭇습시다	묻습시다	Let's ask (older spelling)
+업시	없이	Without (older spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제15호
+발행일	1931년 05월 01일
+기사제목	世界最小의 戱曲, 「亡命者」 一幕
+필자	佛蘭西詩人 벨나-알 原作
+기사형태	잡저
+
+世界最小의 戱曲, 「亡命者」 一幕
+						佛蘭西詩人 벨나-알 原作
+登場人物  亡命客 마을 집 主人
+舞台, 國境의 엇든 마을집에 亡命者가 고요히 드러 와서
+
+亡命客 「여보세요, 당신은 엇든 분인지 모르겟슴니다만은 나를 좀 감추어 주세요. 나는 警察에서 찻는 사람임니다. 懸賞까지 부터서요.
+마을 집 主人 「賞金은 얼마요. 몬저 그것부텀 뭇습시다.」
+亡命客은 할 수 업시 발길을 돌려 나가버린다. -幕- ＜16＞

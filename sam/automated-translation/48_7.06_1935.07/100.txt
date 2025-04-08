@@ -1,0 +1,55 @@
+Magazine Title: 三千里
+Publication Date: 1935년 07월 01일
+Article Title: 애독자 各位에 急告! (Urgent Notice to Our Esteemed Readers!)
+Author: 삼천사 영업국 (Samch'ŏnsa Business Department)
+Article Type: 사고·편집후기 (Notice/Postscript)
+
+Urgent Notice to Our Esteemed Readers!
+
+1.  If there is not yet a "Samch'ŏlli" branch office or sales outlet in your esteemed locality (貴地), please exert yourself (盡力) to establish one (there are internal regulations for becoming a branch office with profit and without a security deposit (保證金); if you request them, we will present (進呈) them).
+
+2.  When sending money, if you send it via postal transfer savings (振替貯金), it will be deposited without fail (틀님업시). If the magazine does not arrive within 20 days after sending the money, it has been lost in transit (中途紛失). In that case, please send a letter to the main office stating "Magazine Not Received (冊不着)," and we will investigate and resend (再送) it.
+
+Samch'ŏnsa Business Department <64>
+
+**Summary**
+
+This notice from the Samch'ŏnsa Business Department urges readers to help expand the magazine's distribution by establishing local branches, particularly in areas without existing outlets, offering incentives like profit-sharing without requiring a security deposit. It also provides instructions for payment via postal transfer and outlines the procedure for reporting and resolving non-delivery issues, promising investigation and reshipment if a magazine is lost in transit. For historians, this piece offers insight into the business and distribution practices of a Korean magazine during the colonial period. It highlights reliance on reader networks for expansion, the use of the postal system (specifically 振替貯金) for financial transactions and logistics, and the publisher's customer service approach to delivery problems.
+
+**Named Entities**
+
+삼천사	삼천사	Samch'ŏnsa
+
+**Glossary**
+
+各位	각위	To Each and Every One; Esteemed (honorific plural suffix)
+急告	급고	Urgent Notice
+貴地	귀지	Your esteemed place/locality (honorific)
+支社	지사	Branch office
+업거든	없거든	If there is not (older spelling/form of 없거든)
+盡力	진력	Exert oneself; Do one's best
+잇고	있고	And there is (older spelling of 있고)
+보증급	보증금	Security deposit (older spelling/term for 보증금)
+內規	내규	Internal regulations
+進呈	진정	To present; To give (honorific)
+振替貯金	진체저금	Postal transfer savings (a method of sending money via the post office)
+틀님업시	틀림없이	Without fail; Surely (older spelling of 틀림없이)
+되옵니다	됩니다	Becomes; Is done (deferential/honorific older form of 됩니다)
+中途紛失	중도분실	Lost in transit; Lost midway
+冊不着	책불착	Book/Magazine Not Arrived (Hanja 冊 for book/magazine)
+再送	재송	Resend
+영업국	영업국	Business Department; Sales Department
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제6호
+발행일	1935년 07월 01일
+기사제목	애독자 各位에 急告!
+기사형태	사고·편집후기
+
+애독자 各位에 急告!
+1. 貴地에 아직 「三千里」 支社나 판매소가 업거든 선생께서 설치하여 주시도록 盡力하여 주옵소서(이익잇고 보증급 없이 支社하는 內規을 청구하시면 進呈).
+2. 송금하실 때 振替貯金으로 보내시면 틀님업시 입금되옵니다. 송금하신 뒤 20일 이내에 책이 도착되지 않으면 중도분실이니 그 때는 冊不着이라고 본사로 편지하여 주시면 조사 再送하여 드리겠습니다.
+三千社 영업국<64>

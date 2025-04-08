@@ -1,0 +1,78 @@
+Magazine Title: 삼천리 第六卷 第七號
+Publication Date: 1934년 06월 01일
+Article Title: 臨洞庭 (Looking Down on Dongting Lake)
+Author: 孟浩然
+Article Type: 시 (Poem)
+
+Looking Down on Dongting Lake
+						Meng Haoran
+
+In the eighth month, the lake's surface is level,
+Embracing the void, blending with the vast clarity.
+Vapors steam up from the Yunmeng Marsh,
+Waves shake Yueyang City.
+I wish to cross, but have no boat or oars,
+Living idly, I feel ashamed in this wise reign.
+Sitting, watching the anglers cast their lines,
+I have only the feeling of envying the fish. <69>
+
+**Summary**
+
+This article presents the classical Chinese poem "Looking Down on Dongting Lake" by the Tang Dynasty poet Meng Haoran. The poem describes the vastness of Dongting Lake in autumn, contrasting the impressive natural scene with the poet's personal feelings of inadequacy and frustrated ambition – his desire to serve the state but lack of opportunity, symbolized by wanting to cross the lake without a boat. For historians studying colonial Korea, the inclusion of this specific Tang poem in a popular magazine like *Samch'ŏlli* might be interesting. It reflects the continued high regard for classical Chinese literature within Korean culture during this period, but the poem's themes of feeling powerless and unable to act ('wishing to cross but having no boat') could perhaps have resonated subtly with Korean intellectuals facing limitations under Japanese rule.
+
+**Named Entities**
+
+洞庭	동정	Dongting (Lake)
+孟浩然	맹호연	Meng Haoran
+雲夢澤	운몽택	Yunmeng Marsh
+岳陽城	악양성	Yueyang City
+
+**Glossary**
+
+臨	림	To look down upon; to face; to arrive at
+洞庭	동정	Dongting (Lake name)
+八月	팔월	Eighth month (lunar calendar)
+湖水	호수	Lake water
+涵	함	To contain; to soak; to embrace
+虛	허	Void; emptiness; sky
+混	혼	To mix; to blend
+太淸	태청	The great clarity; the heavens; the sky
+氣	기	Vapor; steam; spirit; energy
+烝	증	To steam; rise (like steam)
+雲夢澤	운몽택	Yunmeng Marsh (A large ancient marshland)
+波	파	Wave
+憾	감	To shake; to regret (here used for shaking/striking)
+岳陽城	악양성	Yueyang City (City by Dongting Lake)
+欲	욕	To wish; to desire
+濟	제	To cross (a river/lake)
+舟揖	주즙	Boat and oars
+端居	단거	To live quietly; to live in retirement/idleness
+恥	치	To feel ashamed
+聖明	성명	Sage ruler; wise reign
+坐觀	좌관	To sit and watch
+垂釣者	수조자	One who casts a fishing line; angler
+徒	도	Only; merely; in vain
+羨	선	To envy; to admire
+魚情	어정	Feeling regarding fish (here, envying the fish, or metaphorically, envying those who have obtained a position/opportunity, like catching fish)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제7호
+발행일	1934년 06월 01일
+기사제목	臨洞庭
+필자	孟浩然
+기사형태	시
+
+臨洞庭
+						孟浩然
+八月湖水平
+涵虛混太淸
+氣烝雲夢澤
+波憾岳陽城
+欲濟無舟揖
+端居恥聖明
+坐觀垂釣者
+徒有羨魚情<69>
+<69>

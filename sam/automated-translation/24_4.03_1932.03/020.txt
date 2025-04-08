@@ -1,0 +1,50 @@
+Magazine Title: 三千里
+Publication Date: 1932-03-01
+Article Title: 社告 (Company Notice)
+Author: 編輯局 (Editorial Bureau)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Company Notice
+						Editorial Bureau
+
+Through a Samch'ŏlli general meeting, we intended to thoroughly inform [readers] in this month's issue about the "Current State of Nationalist Movement Forces and Social Movement Forces," but due to objective circumstances (객관적 사정), this was insufficient. We will discuss this again at a later date.<7>
+
+**Summary**
+
+The Editorial Bureau of Samch'ŏlli magazine informs readers that a planned article detailing the "Current State of Nationalist Movement Forces and Social Movement Forces" could not be sufficiently covered in the current issue due to "objective circumstances." They state their intention to revisit the topic in the future. This brief notice is significant for historians studying colonial Korea as the phrase "objective circumstances" often served as a euphemism for censorship or external pressure from Japanese authorities, highlighting the limitations faced by the Korean press when attempting to discuss politically sensitive topics like nationalist and socialist movements.
+
+**Named Entities**
+
+編輯局	편집국	Editorial Bureau
+
+**Glossary**
+
+社告	사고	Company Notice
+編輯局	편집국	Editorial Bureau
+全體會議	전체회의	General meeting
+今月號	금월호	This month's issue
+民族運動	민족운동	Nationalist movement
+社會運動	사회운동	Social movement
+現勢	현세	Current state/situation
+철처히	철저히	Thoroughly (Older spelling of 철저히)
+알녀	알려	To inform (Older spelling/form of 알려)
+하엿스나	하였으나	Did, but... (Older spelling of 하였으나)
+객관적 사정	객관적 사정	Objective circumstances (Often a euphemism for external pressure/censorship in this era)
+충분치 못하엿슴니다	충분치 못하였습니다	Was insufficient (Combination of shortened form 충분치 and older spelling/polite ending 못하였슴니다)
+后日	후일	Later date; in the future
+再議	재의	Re-discuss; reconsider
+하겟슴니다	하겠습니다	Will do (Older spelling/polite ending of 하겠습니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제3호
+발행일	1932년 03월 01일
+기사제목	社告
+필자	編輯局
+기사형태	사고·편집후기
+
+社告
+						編輯局
+三千里 全體會議를 통하야 今月號에 「民族運動 勢力과 社會運動 勢力의 現勢」를 철처히 알녀 하엿스나 객관적 사정으로 충분치 못하엿슴니다 后日 再議하겟슴니다.＜7＞

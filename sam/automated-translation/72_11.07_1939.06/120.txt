@@ -1,0 +1,265 @@
+잡지명	삼천리 제11권 제7호
+발행일	1939년 06월 01일
+기사제목	朝鮮社會의 基本的 分折 (A Fundamental Analysis of Korean Society)
+필자	印貞植
+기사형태	논설 (Editorial/ 논설)
+
+朝鮮社會의 基本的 分折
+						印貞植
+
+Pa In Hyŏng! This title is exactly as you suggested. More than anything, I coveted this title and felt ambitious about it. Therefore, I wanted to comprehensively analyze not just the economic structure of modern Korea, but also the dynamics and trends of each category comprising the Korean population. However, didn't you also restrict the space? Carrying out such an analysis within such limited space is truly impossible. So, I limited the scope solely to the economy. But even that is quite difficult for an article published in a magazine. After much deliberation, I narrowed the scope of analysis considerably. Since I was already narrowing it, isn't it necessary to capture the most central point of social life? The following <76> short piece is an attempt to elucidate this central point—in other words, the driving force of development in modern Korean society—and if you grant me freedom of space, knowing what your request is, I intend to respond to that request with confidence. For now, this much will suffice.
+
+I. The Focus of the Problem
+Time indeed flies fast. Already 29 years have passed since the annexation was established. People feel deep emotion in these words. Why is that? Because these 29 years have brought more rapid and complex changes to Korean society than the 500 years of the Yi Dynasty's history, or rather, even more than the entire 4,000 years of Korean history.
+People also often say that in the 29 years since the annexation, Korean society has fundamentally changed, and ultimately, a new Korea has emerged. Indeed, that is so. Korean society has truly changed fundamentally. This change has actually been carried out across various fields such as politics, culture, economy, education, industry, and transportation. However, people often tend to forget that the driving force behind all these changes ultimately lies in the transformation of the economic structure—and that within the transformation of the economic structure, the most crucial significance lies in the change in the relative importance (比重) of industry compared to agriculture.
+The change in the weight of industry relative to agriculture is indeed a focal point we must always pay attention to when observing the developmental aspects of today's Korean society. Why? Because, as people often say, Korean history for several thousand years up to the end of the Yi Dynasty was ultimately a history of agriculture, and even after the annexation, Korean society until recent years was ultimately an agricultural society. Therefore, as will be demonstrated below, if Korean industry has reached a state where it truly overwhelms agriculture in terms of its weight relative to agriculture, this holds immense significance, tantamount to putting a period at the end of the entire past Korean history as an agricultural history.
+
+II. The Trend of Industry's Overwhelming Dominance over Agriculture
+First, it is necessary to examine the change in the proportion of the industrial population relative to the agricultural population. <77>
+[Table missing in provided text - Likely showed population statistics]
+...ratio to [Total population?]
+Thus, the absolute number of the agricultural population increased quite rapidly from Taishō 8 (1919) to Shōwa 10 (1935). That is, during those 15 years, it increased by 2.4 million people.
+However, for the immediate issue of considering the change in the ratio of agriculture to industry, it is not the absolute number of the agricultural population that holds significance, but rather its "relative representation"—that is, the proportion of the agricultural population to the total Korean population is what matters. From the perspective of this relative number, the agricultural population drastically decreased from 83.36% (Taishō 8) of the total population to 76.04% (Shōwa 10).
+In short, "the two trends of the increase in the absolute number of the agricultural population and the decrease in its relative number are developing in parallel." What does this signify?
+The fact that the absolute number increases despite the relative number decreasing indicates that the growth rate of the total Korean population is much higher. Also, the fact that the relative number decreases despite the absolute number increasing suggests that the rate of migration from the agricultural population to other populations, especially the commerce and industry population, is actually higher than the growth rate of the agricultural population itself.
+Therefore, here too, we can glimpse the trend of Korean society transitioning from an Agricultural Korea to an Industrial Korea.
+This trend can emerge even more clearly when we examine the change in the position occupied by agricultural production value within the total production value of Korea.
+Korean Agricultural Production Value (Unit: Thousand Yen)
+
+[Table missing in provided text - Likely showed agricultural production value over time]
+
+Thus, agricultural production value, which accounted for a commanding 89.32% of the total production value at the beginning of the annexation, plummeted to 54.87% by Shōwa 10 (1935). It is now Shōwa 14 (1939). During this time, along with the progress of the continental policy and Korea's designation as a logistical base (兵站基地), Korean industry has developed with astonishing rapidity. Although recent statistics cannot be cited, judging from this well-known fact, we can confidently assert that the proportion of agricultural production value must have fallen even further than this 54.87%. Of course, production value other than agricultural production value ultimately signifies, for the most part, industrial production value. Therefore, we can also confidently assert that in present-day Korean society, industrial production value numerically overwhelms agricultural production value.
+Again, examining the above statistics in detail, we can see that despite the drastic decrease in the relative number of agricultural production value, in terms of the "absolute number," it actually follows a trend of increasing year after year. That is, compared to Meiji 43 (1910), the absolute value of agricultural production in Shōwa 10 (1935) shows a sharp increase, nearly fivefold.
+In essence, "the conclusion must be drawn that Korean agricultural production value is drastically decreasing relatively, but drastically increasing absolutely." What does this conclusion signify again?
+Firstly, the fact that agricultural production value increases absolutely but decreases relatively indicates, as mentioned above, that industrial production value is increasing overwhelmingly. Also, the fact that it increases absolutely despite decreasing relatively means that even though agriculture is being overwhelmed by industry, agriculture itself is by no means shrinking (萎縮). Look at the following statistics. <79>
+Changes in the Value of Korean Industrial Products
+Taishō 3 (1914)        228,790 Thousand Yen
+
+Taishō 8 (1919)        228,494
+
+Taishō 13 (1924)       250,761
+
+Shōwa 1 (1926)        299,967
+
+Shōwa 2 (1927)        302,945
+
+Shōwa 3 (1928)        318,713
+
+Shōwa 4 (1929)        327,007
+
+Shōwa 5 (1930)        280,963
+
+Shōwa 6 (1931)        252,924
+
+Shōwa 7 (1932)        310,836
+
+Shōwa 8 (1933)        367,235
+
+Shōwa 9 (1934)        438,401
+
+Shōwa 10 (1935)       607,476
+
+That is, in the 20 years from Taishō 3 (1914) to Shōwa 10 (1935), Korea's industrial production value achieved a growth rate of approximately threefold. Such a rapid tempo is rare even in any advanced industrial nation. However, the more important significance lies not in the fact that the tempo of industrial production growth is this rapid, but that the development of industrial production has progressed alongside the development of agriculture, without causing agriculture to shrink or degenerate (萎縮 退化). As stated above, along with the development of industry, the production value of agriculture has also drastically increased in absolute terms. Therefore, the economic process that today's Korean society is undergoing cannot but be defined not simply as a "transition from Agricultural Korea to Industrial Korea," but as a development "from Agricultural Korea to a Korea of Parallel Agricultural and Industrial Advancement (農工 倂進)." When Britain's main industry was transitioning from agriculture to industry <80>, the beloved Romantics (로-만더스트 - likely meant Romantics or referred to specific figures like Thomas More cited next) Thomas More shed tears at the miserable spectacle of "sheep devouring men." Faced with the pitiful serf-like (農奴的) production relations of modern Chinese rural economy groaning under feudalistic pressure (重壓), Stalin's spokesman "Madiar" (마듸알 - likely refers to Ludwig Magyar, a Comintern agent who wrote on China) cursed the barbaric trend of driving out cattle and horses. However, our contemporary Korean society is overcoming both extremes of these tendencies and pursuing its unique economic laws. People often try to compare Korea to India or Annam. But in India and Annam, the rise (勃興) of industry due to British and French capital has always been accompanied (伴隨) by the merciless sacrifice of agriculture. That the development of industry proceeds in parallel with the development of agriculture is an unprecedented phenomenon in economic history that can only be seen under the rule of our Empire (帝國), which makes the moral spirit (道義的 *神) its national ideal.
+
+III. Focusing on Industrial Development
+However, this parallel advancement of industry and agriculture was only possible under the premise of agriculture's subordination to industry. In short, the development of industry itself stimulated and promoted agriculture, rescuing it from its crisis. Therefore, to grasp the focal point of the modern Korean economy, our attention must first be directed towards the trajectory of industrial development and the economic influences spread thereby.
+As seen above, the value of Korea's products achieved nearly a threefold increase during the period from Taishō 3 (1914) to Shōwa 10 (1935). Furthermore, as can be understood by examining the above statistics more closely, there is a marked difference between the development tempo during the Taishō 3 to Shōwa 6 (1931) period and the tempo after Shōwa 6. That is, during the former period, the tempo was too slow to show any remarkable rate of development, but during the latter period, i.e., the 4-5 years from Shōwa 6 onwards to Shōwa 10, it truly achieved a leap forward development approaching threefold.
+Generally, what reasons give rise to such stepwise differentiation? To investigate this point, we first need to clearly understand that contemporary Korean industry, in terms of both capital and technology, relies entirely on capital from the Mainland (內地 資本). According to a survey by the Chōsen Shokusan Ginkō (殖産銀行), as of the end of Shōwa 9 (1934), the total number of stock companies headquartered in Korea with paid-in capital (拂込자본) of 50,000 Yen or more was 170. However, looking at the relationship of Mainland capital to the 82 companies that account for 86% of the total paid-in capital of these 170 companies, the paid-in capital of Korean shareholders (朝鮮 內 *主(**人)) amounts to merely 18,303,000 Yen, whereas the paid-in capital of Mainland shareholders (內地 株主) shows an overwhelming dominance of ********* Yen [number obscured/missing]. <81> However, this only speaks to the advance of Mainland capital headquartered within Korea. If we further consider the capital advance of Mainland companies with branches within Korea, we cannot help but be surprised at how fatally dependent Korean industry is on Mainland capital. There is no need to list statistics one by one. Kanegafuchi Spinning's (鍾紡) factories in Kyŏngsŏng, P'yŏngyang, and Sinŭiju; Dai Nippon Spinning's (大日本紡) advance into Ch'ŏngjin; Toyo Spinning's (東洋紡) factories in Kyŏngsŏng and Inch'ŏn; the advance of the Onoda (小野田) group; the Noguchi (野口) group's Changjin River hydroelectric power; the securing of Southern Korea (南鮮) through joint investment by the Five Major Electric Power Companies (五大電力); Mitsubishi's (三菱) Musan iron mine development; Nittetsu's (日鐵) Ch'ŏngjin factory; the Oriental Development Company's (東拓) establishment of power generation business; the joint investment by the Oriental Development Company and the Noguchi group in the Amnok River hydroelectric development; Nippon Mining's (日鑛) commencement of smelting operations; Sumitomo's (住友) acquisition of mines, etc.—the advance of Mainland capital realized in recent years is even more astonishing. Compared to this, the activities of capital within Korea are truly negligible. In short, industry within Korea is such that Mainland capital completely controls its lifeline (命脈).
+Thus, Korea's industrial economy is completely monopolized in the hands of Mainland capital. Therefore, Korea's industrial economy should be understood only as one link (一環) in the chain of all-Japan capitalism. Accordingly, to find the cause of the aforementioned leap in Korean industry, we must first examine the trends of the entire Japanese economy in recent years.
+Table of Changes in Industrial Indices of Major Countries
+[Table missing in provided text - Likely showed industrial production index changes for Japan and other countries]
+As seen in the table of industrial production indices for various countries surveyed by the League of Nations above, between 1930 and 1935 [note: original text says 9 years, but 1930-1935 is 6 years, maybe a typo or refers to a different period like 1926-1935?], the only countries whose production indices reached the highest rate were Japan and Great Britain. However, even between these two countries, Japan's production index is significantly higher than that of Great Britain. In this way, our country's capitalist economy is treading a path of magnificent and sound development, alone amidst the storm of the so-called "Allgemeine Krise" sweeping the entire world. Thus, the all-Japan economy has not only expanded quantitatively but also leaped forward qualitatively in the recent 10 years. Corresponding to this unprecedented quantitative expansion and qualitative leap of Mainland capital, Korea naturally came to assume the role of a cell in its internal consolidation movement or a feeler (觸手) in its external expansion movement. Large amounts of surplus capital (過剩資本) crossed the Genkai Sea (玄海灘) seeking investment domains. However, the large amounts of capital that crossed the Genkai Sea could also pass through Korea to advance into Manchuria (滿洲) or North China (北支). To make even a single stream of the vast tide of capital heading for Manchuria or North China stay in Korea, there had to be appropriate Korean attractions. These Korean attractions, called under the name of Korea's so-called special circumstances (特殊事情), would roughly be the following factors:
+Firstly, that labor wages (勞動 賃銀) are significantly cheaper (廉價) compared to the Mainland. According to a survey by the South Manchuria Railway Company (滿鐵) in Shōwa 9 (1934), the wages of Korean and Japanese laborers engaged in the Najin Port railway construction were as follows.
+[Table missing in provided text - Likely showed comparative wages]
+Thus, the wages of Korean factory workers (職工), even within Korea, are only half the wages of Mainland Japanese factory workers. Furthermore, even comparing this to the wages of Mainland Japanese factory workers in the Mainland, one can see it's roughly [proportion missing] ratio. ******** **** **** ** <83> [Text missing/corrupt] is cheap. However, in Manchuria or North China, it is extremely difficult to find modern labor force that has received primary education and been trained in the Japanese way. Therefore, although labor wages may be much cheaper, labor efficiency (勞動能率) is much lower (低度的), offering no profit from the perspective of pursuing profit. In contrast, Korea is already 20 years ahead of Manchukuo in the dissemination of primary education, and when the currently progressing primary education dissemination plan is fully implemented (around Shōwa 21 [1946]), schools with a capacity to accommodate about 2 million children will be newly established. This point certainly cannot but be an advantageous condition for Mainland capital. Why is that? Because from the perspective of labor efficiency, Korea can catch up with the Mainland in the near future, but from the perspective of labor wages, Korean wages do not yet hold such a prospect. This is, of course, largely attributable (起因) to the fact that the general standard of living for Korean workers is lower compared to the Mainland, but it is also related to the issue of implementing the Factory Act. The reason why the Ugaki (宇垣) economic policy, as one of its passive methods for attracting (誘致) Mainland capital, strongly avoided the implementation of the Factory Act within Korea also lies here.
+Cases where the sales market is targeted at Korea, but production in the Mainland incurs increased transportation costs and taxes, eventually necessitating the establishment of new factories within Korea. Examples include the capital advancement of Dai Nippon Brewery, Kirin Brewery, etc.
+Cases due to the convenience of utilizing Korea's industrial or mining resources directly in Korea, as seen in various mining companies, coal liquefaction plants, explosives factories, hardened oil factories, canning factories, light metal factories, pulp factories, the Noguchi group's chemical industry complex, etc. Korea's electric power is much more abundant and cheaper than in the Mainland, plus it allows avoidance of electric power controls.
+The decisive defeat of the communist labor movement and the securing of public order.
+(6) Factory construction site land prices being significantly cheaper compared to the Mainland.
+(7) Being closer to the continent compared to the Mainland.
+The above conditions are the main attractions that induced Mainland capital and factories to Korea. However, these attractions likely existed even before Shōwa 6 (1931), when Korean industry began its rapid tempo development. The reason why Korean industry suddenly surged (勃興), taking Shōwa 6 as its starting point, must be attributed to the Ugaki economic policy, which actively sought to attract Mainland capital and factories by fully utilizing the above conditions. <84>
+Governor-General Ugaki, who took office in Shōwa 6, put an end to the previous policy heavily focused on agriculture. The global agricultural crisis (恐慌) swept away the previous agriculture-biased policy, and moreover, its concrete expression, the plan to increase rice production (産米增殖 計劃). Thus, it became increasingly clear that an economic policy centered on agriculture could not avoid enormous difficulties in finance and public order in the governance of Korea. To escape these difficulties, the Ugaki economic policy was based on the rapid development of industry through the attraction of Mainland capital, and the promotion of agriculture advancing in parallel (倂進) with industrial development. The passive methods for attracting Mainland capital were, as mentioned above, the avoidance of implementing the Factory Act and the refusal to implement the Major Industries Control Law, while its active methods were the implementation of electric power policies, subsidy policies (補助金政策), land price control policies, etc.
+Next, we need to examine below the various impacts that such industrial development has spread (파급) to each element of Korean society.
+(Continued in the next issue) <85>
+
+**Summary**
+
+This 1939 article by In Chŏng-sik argues that Korean society is undergoing a fundamental transformation, moving from a purely agricultural base to a stage where industry and agriculture are advancing in parallel. The author uses statistics (though some tables are missing in the provided text) on population shifts and production values to demonstrate that while agriculture's relative importance is declining sharply compared to industry, its absolute production is still increasing. This parallel development (農工 倂進) is presented as a unique and positive phenomenon occurring under Japanese rule, contrasted favorably with colonial industrialization in places like India and Annam, which allegedly sacrificed agriculture. The rapid industrial growth, particularly after 1931 (Shōwa 6), is attributed entirely to the influx of Japanese ("Mainland") capital, drawn by factors like cheap Korean labor, resources, strategic location, political stability, and proactive policies by Governor-General Ugaki Kazushige aimed at attracting investment.
+
+From a historical perspective, the article is revealing as a contemporary justification of Japanese colonial economic policy. It highlights the official narrative of benevolent development, emphasizing the "unprecedented" parallel growth of industry and agriculture while downplaying or ignoring exploitative aspects. The explicit crediting of Japanese capital and policy (especially Ugaki's) for Korea's industrialization, and the framing of this as rescuing Korea from an agricultural crisis and uniquely avoiding the pitfalls seen in other colonies, offers insight into the ideological underpinnings of late colonial rule. Historians would find the specific arguments, the selective use of statistics (even with missing data), the identification of factors attracting Japanese investment (especially cheap, disciplined labor and suppression of dissent), and the explicit comparison with other colonial contexts particularly interesting.
+
+**Named Entities**
+
+印貞植	인정식	In Chŏng-sik
+巴人	파인	Pa In
+朝鮮	조선	Chosŏn
+李朝	이조	Ijo
+日本	일본	Ilbon
+英國	영국	Yŏngguk
+印度	인도	Indo
+安南	안남	Annam
+英佛	영불	Yŏng-Pul (England-France)
+帝國	제국	Cheguk (Empire of Japan)
+殖産銀行	식산은행	Siksan Ŭnhaeng (Chōsen Shokusan Ginkō)
+內地	내지	Naeji
+鍾紡	종방	Chongbang (Kanegafuchi Spinning)
+京城	경성	Kyŏngsŏng
+平壤	평양	P'yŏngyang
+新義州	신의주	Sinŭiju
+大日本紡	대일본방	Taeilbonbang (Dai Nippon Spinning)
+淸津	청진	Ch'ŏngjin
+東洋紡	동양방	Tongyangbang (Toyo Spinning)
+仁川	인천	Inch'ŏn
+小野田	오노다	Onoda
+野口	노구치	Noguchi
+長津江	장진강	Changjin'gang
+五大電力	오대전력	Odae Chŏllyŏk
+南鮮	남선	Namsŏn
+三菱	미쓰비시	Mitsubishi
+茂山	무산	Musan
+日鐵	일철	Ilch'ŏl (Nittetsu)
+東拓	동척	Tongch'ŏk (Oriental Development Company)
+鴨綠江	압록강	Amnokkang
+日鑛	일광	Ilgwang (Nikkō/Nippon Mining)
+住友	스미토모	Sumitomo
+滿洲	만주	Manju
+北支	북지	Pukchi
+宇垣	우가키	Ugaki
+滿鐵	만철	Manch'ŏl (South Manchuria Railway Company)
+羅津港	나진항	Najin 항
+
+**Glossary**
+
+題號	제호	Title (of an article)
+스페-스	스페이스	Space (loanword, refers to page space)
+機動力	기동력	Driving force, motive power
+比重	비중	Relative importance, weight, specific gravity
+壓倒	압도	Overwhelm, overpower
+範疇	범주	Category
+動態	동태	Dynamics, movement, state
+相對數	상대수	Relative number/figure
+絶對數	절대수	Absolute number/figure
+推移	추이	Transition, shift, change over time
+生産額	생산액	Production value/amount
+倂進	병진	Advancing side-by-side, parallel development
+萎縮	위축	Shrinking, withering, atrophy
+退化	퇴화	Degeneration, regression
+重壓	중압	Heavy pressure, burden
+農奴的	농노적	Serf-like
+勃興	발흥	Sudden rise, upsurge
+伴隨	반수	Accompanying, being attended by (older spelling of 동반/수반)
+道義的	도의적	Moral, ethical
+焦點	초점	Focus, focal point
+刺戟	자극	Stimulation, impetus, stimulus (now usually 자극)
+拂込자본	불입자본	Paid-in capital
+株主	주주	Shareholder
+命脈	명맥	Lifeline, lifeblood
+環	환	Ring, link (as in 一環, one link in a chain)
+指數	지수	Index (numerical indicator)
+過剩資本	과잉자본	Surplus capital
+觸手	촉수	Feeler, tentacle
+特殊事情	특수사정	Special circumstances
+賃銀	임은	Wages (older term, now more commonly 임금)
+廉價	염가	Cheap, low price
+職工	직공	Factory worker, artisan, mechanic
+能率	능률	Efficiency
+低度的	저도적	Low-level, rudimentary (used here to mean low efficiency)
+起因	기인	Attributable to, caused by
+誘致	유치	Attraction, inducement (of investment, etc.)
+恐慌	공황	(Economic) crisis, panic
+産米增殖	산미증식	Increase of rice production
+基調	기조	Keynote, basic principle, underlying tone
+補助金	보조금	Subsidy, grant-in-aid
+파급	파급	Spread, ripple effect, repercussion
+흘럿다	흘렀다	Flowed, passed (time) (older spelling)
+믿첬기	미쳤기	Because it influenced/affected (older spelling)
+안습니까	않습니까	Isn't it? (older spelling/formality)
+떠러젔으리라는	떨어졌으리라는	That it would have fallen (older spelling)
+갓가운	가까운	Near, close to (older spelling)
+되여	되어	Becoming, being (older spelling)
+첫다	쳤다	Struck, hit (here used metaphorically for 'put an end to')
+버서나기	벗어나기	To escape from, get out of (older spelling)
+엿스며	였으며	Was/were and... (older spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제11권 제7호
+발행일	1939년 06월 01일
+기사제목	朝鮮社會의 基本的 分折
+필자	印貞植
+기사형태	논설
+
+朝鮮社會의 基本的 分折
+						印貞植
+巴人 兄! 이 題號는 형이 지시하여 주신 그대로임니다. 무었보담도 나는 이 題號에 탐이 나고 야심이 생겻습니다. 그래서 나는 다만 현대 朝鮮의 경제기구만이 아니라 朝鮮人口를 구성하는 각 範疇의 動態 及 傾向을 전면적으로 분석해 보고 십었읍니다. 그러나 형은 동시에 『스페-스』까지도 제한하여주지 않었읍니까. 요만한 『스페-스』를 가지고 그만한 분석을 한다는 것은 사실 불가능한 일입니다. 그래서 나는 범위를 경제에만 限했읍니다. 그러나 그것만도 잡지에 실리는 한 논문으로서는 퍽 곤란한 일입니다. 여러가지로 생각다 못해서 나는 분석의 범위를 훨신 좁혓습니다. 이미 좁히는 바엔 사회생활의 가장 중심적인 점을 捕捉할 필요가 있지 안습니까. 이하의＜76＞ 小*은 이 중심적인 점-다시 말하면 현대 朝鮮社會의 발전* **力을 구명해 보고저 한 것과 『스페-스』의 자유를 주신다면 형의 요구가 무었인지 아는 나로서는 그 요구에 자신을 가지고 응하려고 함니다. 이번에는 爲先 이만함니다.
+
+一. 問題의 焦點
+세월은 과연 빠르다. 합병이 성립된 후 벌서 29년의 해와 달이 흘럿다. 사람들은 이 말속에 깊은 感慨를 늣긴다. 웨 그러냐하면 이 29년이란 세월은 李朝의 500년史에서보담도 아니 4,000년의 全朝鮮史에서보담도 오히려, 보담 급격하고 복잡한 변동을 朝鮮社會에 믿첬기 때문이다.
+또 사람들은 흔이 말한다. 합병이래 29년간 朝鮮社會는 근본적으로 변화되고 결국 새로운 朝鮮이 나타낫다고. 과연 그러타. 朝鮮社會는 정말 근본적으로 변화되었다. 이 변화는 실로 정치, 문화, 경제, 교육, 산업, 교통 등 각 방면에 互하여 遂行되었다. 그러나 이러한 모든 변화의 機動力은 결국 경제기구의 변화에 있다는 것-또 경제기구의 변화에 있어서도 가장 중요한 意義를 가지는 것은 농업에 대한 공업의 比重의 변화에 있다는 것을 사람들은 흔히 잊어버리려 한다.
+농업에 대한 공업의 비중의 변화는 實로 今日의 朝鮮社會의 發展相을 凝視함에 있어서 우리가 언제든지 着目하지 않으면 안되는 焦點이 된다. 웨 그러냐하면 사람들이 흔이 말하는 바와 같이 李朝 末葉에 이르기까지의 수천년간의 朝鮮史는 결국 農業史였으며 또 병합이후에 있어서도 最近年에 이르기까지의 朝鮮社會는 결국 農業社會였다. 그럼으로 이하에서 論證되는 바와 같이 농업에 대한 공업의 비중에 있어서 朝鮮의 공업이 과연 농업을 壓倒할만한 상태에 이르렀다면 이는 실로 農業史로서의 과거의 朝鮮史 전부에 대해서 終止点를 친 것과 다름 없는 막대한 意義를 가지는 것이다.
+
+二. 農業에 對한 工業의 壓倒的 優勢의 傾向
+먼저 농업인구에 대한 공업인구의 비례의 변화를 살펴볼 필요가 있다.＜77＞
+에 대한 비율
+이처럼 농업인구의 절대수는 大正8년에서 昭和10년에 이르는 동안 상당히 급속하게 증가하였다. 즉, 그 동안 15년간에 있어서 240만인이나 증가되었다.
+그러나 농업 對 공업의 비례의 변화를 고찰하는 當面의 문제에 있어서는 이러한 농업인구의 절대수가 의의를 가지는 것이 아니라. 그의 「相對表」-즉 농업인구의 朝鮮 총인구에 대한 비례의 如何가 중요성을 가지는 것이다. 이 相對數의 견지에서 볼 때 농업인구는 총인구에 대한 83.36%(大正8년)에서 76.04%(昭和10년)로 激減되었다.
+요컨대 『농업인구의 絶對數의 증가와 相對數의 減少의 두 경향이 병행적으로 발전되고 있다』 이것은 무었을 의미하는가.
+相對數가 감소함에도 불구하고 絶對數가 증가한다는 것은 朝鮮 총인구의 증가율이 훨신 높다는 것은 지시함이며, 또 絶對數가 증가함에도 불구하고 相對數가 감소되고 있다는 것은 농업인구 이외의 다른 인구 특히 상공업 인구에로 이 농업인구 移動率이 농업인구 자체의 증가율보다도 오히려 높다는 것을 암시함이다.
+따라서 우리는 여기에서도 朝鮮社會가 農業朝鮮에서 工業朝鮮에로 推移하고 있는 경향을 엿볼 수가 있다.
+이 경향은 다시 朝鮮 총생산액의 중에서 농업 생산액이 占하는 위치의 변동을 살필 때 더욱 明確하게 나타날 수가 있다.
+조선농업생산액(단위千圓)
+
+이와 같이 병합 당초에는 능히 총생산액의 89.32%를 占하고 있든 농업 생산액이 昭和 10년에는 54.87로 격감되었다. 지금은 昭和 14년이다. 그동안 대륙정책의 진행과 아울러 朝鮮이 兵站基地로 선정됨에 따라 朝鮮의 공업은 놀랄만큼 급격하게 발전되었다. 최근의 통계를 지시할 수는 없지만 周知된 이 사실에 미루어 볼 때 農産額의 비율에는 다시 이 54.87%보담도 일층 떠러젔으리라는 것을 우리는 안심하고 斷言할 수가 있다. 물론 農産額 이외의 다른 生産額이란 것은 결국 그의 대부분이 공업 생산액을 의미한다. 그래서 우리는 現今의 朝鮮社會에 있어서는 生産額으로 보아 공업 생산액이 농업 생산액을 數的으로도 또한 壓倒하고 있다는 것을. 역시 안심하고 斷言할 수가 있다.
+다시 以上의 통계를 상세히 고찰하여 보면 농업 생산액이 相對數에 있어서는 이처럼 격감되고 있음에도 불구하고, 『絶對數』에 있어서는 오히려 累年 증가의 경향을 밟고 있음을 볼 수가 있다. 즉 明治 43년에 비해 볼 때 昭和 10년도의 農産額의 絶對數는 약 5배에 갓가운 激增을 보인다.
+요컨대 『朝鮮의 농업 생산액은 상대적으로는 격감되고 있지만 절대적으로는 격증되고 있다는 결론이 내리지 않을 수 없다』 이 결론은 다시 무었을 의미하느냐.
+첫재로 농업 생산액이 절대적으로는 증가하지만 상대적으로는 감소되고 있다는 것은 以上에 말한 바와 같이 공업 생산액이 압도적으로 증가한다는 것을 지시함이며 또 상대적으로는 감소됨에도 불구하고 절대적으로는 증가한다는 것은 농업이 공업의 밑에 압도됨에도 불구하고 농업 자체는 결코 萎縮되지 안는다는 것을 말하는 것이다. 다음의 통계를 보라.＜79＞
+조선공산물가액의 변천
+대정  3년        228,790千圓
+
+대정  8년        228,494
+
+대정 13년        250,761
+
+소화 원년        299,967
+
+소화  2년        302,945
+
+소화  3년        318,713
+
+소화  4년        327,007
+
+소화  5년        280,963
+
+소화  6년        252,924
+
+소화  7년        310,836
+
+소화  8년        367,235
+
+소화  9년        438,401
+
+소화 10년        607,476
+
+즉, 大正 3년에서 昭和 10년에 이르는 20년간에 있어서 朝鮮의 공업 생산액은 약 3배의 증가율을 *來하였다. 이만큼 급속한 『템포』는 如何한 선진 공업국에서도 보기 드문 일이다. 그러나 보담 중요한 의의는 공업 생산 증가의 템포가 이처럼 급속하다는데 있는 것이 아니라. 공업 생산의 발전이 농업을 萎縮 退化하지 않고 도리혀 농업의 발전과 倂進하였다는데 있는 것이다. 以上에서 말한 바와 같이 공업의 발전과 아울러 농업의 생산액도 또한 절대적으로는 격증되여 왔다. 그럼으로 今日의 朝鮮社會가 경과하고 있는 경제과정은 단순하게 말해서 『農業朝鮮에서 工業朝鮮에로의 推移』가 아니라 『農業朝鮮에서 農工 倂進의 朝鮮』에로의 발전이라고 규정되지 않을 수 없다. 英國의 주요산업이 농업에서 공업에로 推移되고＜80＞ 있을 때 사랑스러운 『로-만더스트』 『토-마스, 모-어』는 『羊이 사람을 잡아먹는』 捿慘한 광경에 눈물을 뿌렷다. 봉건적 重壓 밑에 허덕이고 있는 近代 支那 농촌경제의 안타까운 農奴的 생산관계에 직면하여 스탈린의 대변자 「마듸알」는 牛馬를 *逐하는 야만적인 경향을 咀呪하였다. 그러나 현대의 우리 朝鮮社會는 이 양 극단의 如何한 경향도 超克하면서 獨自한 경제법칙을 貫徹하고 있다. 사람들은 흔히 朝鮮을 印度나 安南에 比하려 한다. 그러나 印度나 安南에서는 英佛 資本에 의한 공업의 勃興이 농업의 무자비한 희생을 항상 伴隨하여 왔다. 공업의 발전이 농업의 발전과 병행된다는 것은 오직 道義的 *神을 國家 理想으로 하는 우리 帝國의 통치 밑에서만 볼 수 있는 經濟史上 未曾有의 현상이라 아니할 수 없다.
+
+三. 工業의 發展을 焦點으로
+그런데 이처럼 공업과 농업이 倂進한다는 것은 공업에 의한 농업의 종속을 전제로 하고서만 가능하였다. 요컨대 공업 자체의 발전이 농업을 刺戟하고 진흥하여 그의 危機에서 구출하였다. 그럼으로 근대 朝鮮經濟의 焦點을 捕促하자면 먼저 우리들의 시선을 공업의 發展路線과 또 이에 의해서 파급되는 경제적 영향에로 향해지지 않으면 안될 것이다.
+우에서 본 바와 같이 朝鮮의 그 産物 價額은 大正 3년에서 昭和 10년에 이르는 동안 근 3배의 증가를 *來 하였다. 그** 以上의 통계를 더욱 상세히 보면 알 수 있는 바와 같이 大正3년 昭和 6년간 발전 『템포』와 昭和 6년 이후의 발전 『템포』와의 間에는 현저한 차이가 붙인다. 즉 前者의 기간에는 『템포』가 너무 완만하여 보잘 만한 發展率을 나타내지 못하고 있지만 後者의 기간 즉 昭和 6년 以降 昭和 10년에 이르는 4, 5년간에는 실로 3배에 갓가운 躍進的 발전을 *來하고 있다.
+대체, 이러한 階段的 차별은 어떠한 이유에서 기인되고 있는가. 이 점을 究明하기 위해서 우리는 먼저 현대의 朝鮮工業이 자본으로 보아서나 기술로 보아서나 전혀 內地 資本에 의존하고 있다는 것을 명백히 이해해둘 필요가 있다. 殖産銀行의 조사에 의하면 昭和 9년말 현재에 있어서 朝鮮 내에 本店을 둔 拂込자본 5만원 以上 주식회사가 총 수백70社였다. 그런* 이 17*社에 대한 全 拂込자본의 8할 6리을 占하고 있는 82社에 대한 內地자본의 관계를 본다면 朝鮮 內 *主(**人)의 拂込자본은 겨우 18,303,000원에 불과함에 반하여 內地 株主의 拂込 자본은 실로 *********원의＜81＞압도적 우세를 보이고 있다. 그러나 이것은 朝鮮內에 본점을 둔 內地자본의 진출을 말할 뿐이다. 다시 朝鮮 內에 지점을 둔 內地會社의 자본 진출을 본다면 朝鮮의 공업이란 것이 얼마나 치명적으로 內地자본에 의존하고 있다는 것을 놀래지 안을 수 없다. 일일히 통계를 열거할 필요도 없을 것이다. 鍾紡의 京城, 平壤, 新義州공장. 大日本紡의 淸津 진출 東洋紡의 京城, 仁川공장. 小野田系의 진출. 野口系의 長津江 水電, 五大電力 공동출자에 의한 南鮮 확보. 三菱系의 茂山鐵鑛開發, 日鐵의 淸津공장, 東拓의 發電事業 樹立, 鴨綠江 水電 개발에 대한 東拓 及 野口系의 공동출자, 日鑛의 精練業 開始 住友의 광산 획득, 등 최근 수년간에 초래된 內地자본의 진출은 더욱 놀랠만한 것이 있다. 이에 비하여 본다면 朝鮮 內 자본의 활동이란 것은 실로 微微하기 짝이 없다. 요컨대 朝鮮 內의 공업이란 것은 內地자본이 완전히 그 命脈을 좌우하고 있는 것이다.
+이처럼 朝鮮의 공업경제는 內地 자본의 손에 완전히 독점되여 있다. 그럼으로 朝鮮이 공업경제란 것으 全 日本 자본주의의 一環으로서만 이해되여야 한다. 따라서 우리는 以上과 같은 朝鮮 공업의 躍進의 원인을 찾기 위해서도 爲先 最近年의 全 일본경제의 동향을 살펴보지 않으면 안될 것이다.
+각 주요국 공업지수 변화표
+以上 國際聯盟의 조사한 바 각국 공업 生産指數表에서 보는 바와 같이 1930년에서 1935년에 이르는 9년간 生産指數 最高率化된 것은 오직 日本과 英國 뿐이다. 그러나 이 두 나라 중에서도 日本의 生産指數가 英國의 그것보담도 훨씬 높다. 이처럼 우리 나라의 자본경제는 전세계를 휩쓰는 소위 『알게마이네·크리제』 폭풍속에서 홀로히 웅장하고 건실한 발전의 길을 밟고 있다. 이리하여 全 日本경제은 최근 10년간, 양적으로 확대될 뿐 아니라. 질적으로도 躍進되고 있다. 그런데 內地자본의 이러한 空前의 양적 확대* 질적 약진에 대응하여 朝鮮은 당연히 그의 內包的 충실운동의 細胞로서 또는 外延的 확대운동의 觸手로서의 역할을 擔當하게 되였다. 대량의 과잉자본이 투자영역을 찾어서 玄海灘을 넘었다. 그러나 玄海灘을 넘* 대량의 자본은 다시 朝鮮을 거처서 滿洲나 北支에로 진출할 수도 있었다. 滿洲나 北支로 향하는 막대한 자본의 물결을 한 줄기만이라도 朝鮮에 머믈게 하자면 또한 그에 적당한 朝鮮的의 매력이 있지 않으면 않되*다. 소위 朝鮮의 특수사정이란 일홈 밑에 불러지는 이러한 朝鮮的 매력이란 것은 대략 아래와 같은 諸要因일 것이다.
+첫재로 노동 賃銀이 內地에 비해서 훨신 廉價하다는 昭和9년도의 滿鐵 조사에 의하면 羅津港 *鐵공사에 종사한 內鮮人 노동 賃銀은 다음과 같다.
+이와 같이 朝鮮人 職工의 賃銀은 朝鮮內에 있어 서로 內地人 職工 賃銀의 半分밖에 못된다. 다시 이것을 內地에 *內地人職工賃銀과 比해본다할지도 거진**의 비율임을 알 수 있을 것이다. ******** **** **** **＜83＞低廉하다. 그러나 滿洲나 北支에서는 초등교육을 받은 일본적으로 훈련된 근대적 노동력을 구하기가 몹시 곤란하다. 따라서 노동 賃銀으로 보아서는 훨신 싸지만 노동능률로 보아서는 훨신 低度的임으로 이윤 추구의 견지에서 볼 때 아모 이익도 되지 못한다. 이에 반하여 朝鮮은 滿洲國에 비해서 이미 초등교육의 보급이 20년을 전진하였스며 또 현재 진행중인 초등교육 보급계획이 완전히 실시될 때(昭和21년경)에는 약 200만의 아동 수용력을 가진 학교 증설될 터임으로 이 점은 확실히 內地자본에 대한 유리한 조건이 아닐 수 없다. 웨 그러냐 하면 노동능률의 견지에서 볼 때에는 朝鮮은 머지 않는 장래에 內地를 따라갈 수 있지만 노동 賃銀의 견지에서 볼 때에는 조선의 賃銀은 아직 이러한 전망을 가지지 못하고 있기 때문이다. 이것은 물론 朝鮮 노동자의 일반생활 정도가 內地에 비해서 저렴하다는 대도 起因되지만, 공장법 실시의 문제와도 관계가 된다. 內地 자본을 誘致하기 위한 宇垣 경제정책이 소극적 방법의 하나로서 공장법의 朝鮮 內 실시를 極力 회피한 이유도 여긔에 있다.
+판매시장으로는 朝鮮을 목표로 하고 있지만 생산을 內地에서 하는 경우에는 運賃 稅金 등이 增高됨으로 결국 朝鮮 內의 공장 신설을 필요로 하게된 것 例하면 大日本麥酒 麒麟麥酒 등의 자본 진출이 이에 속한다.
+각종 鑛業會社 石炭液化工場, 火藥工場, 硬化油工場, 製鑵工場, 輕金屬工場, 빨푸工場, 野口系 化學工業群 등에서 보는 바와 같이 朝鮮의 공업 또는 광업자원을 직접 朝鮮에서 활용하는 것이 편리한 까닭으로 因한 것 朝鮮의 電力이 內地에 비해서 훨신 풍부하고 저렴할 뿐 아니라 전력 통제를 회피할 수 있는 것.
+공산주의 노동운동이 결정적으로 敗北되고 治安이 확보된 것.
+(6) 공장 건축기지의 地價가 內地에 비해서 훨신 저렴한 것.
+(7) 內地에 비해서 대륙에 갓가운 것.
+以上의 諸條件이 內地의 자본과 공장을 朝鮮에 誘致케 한 주요한 매력이다. 그러나 이 매력은 朝鮮工業이 急『포탬』의 발전을 개시한 昭和6년 이전에도 있을 것이다. 하필 昭和6년을 출발점으로 하여 朝鮮의 공업이 低然 勃興케 된 것은 以上의 諸條件을 충분히 활용하야 內地의 자본과 공장을 積極的을 誘致하려한 宇垣 경제정책의 所以일다.＜84＞
+昭和6년에 취임한 宇垣 總督은 종래의 농업편중정책에 終止符를 첫다. 세계를 휩쓴 농업 恐慌은 종래의 農偏重政策 더욱이 그의 구체적 표현으로서의 産米增殖 계획을 一蹴해 버리고 말었다. 이리하야 농업을 爲主하는 경제정책으로서는 朝鮮統治에 있어서 財政上 또는 治安上의 막대한 곤란을 피할 수가 없다는 것이 더욱 더욱 명확하게 되였다. 이 곤란을 버서나기 위해서 宇垣 경제정책은 內地 資本의 誘致에 의한 공업의 급속한 발전과 또 공업발전에 倂進하는 농업* 진흥을 基調로 하였다. 內地資本 誘致의 소극적 방법은 우에 말한 바 공장법 실시의 회피와 중요산업통제법 실시의 拒否엿스며 또 그의 적극적 방법은 電力政策 補助金政策 土地價格統制政策 등의 실시였다.
+다시 우리는 以下에서 이러한 공업발전이 朝鮮社會의 각 要素에 파급한 바 各樣의 영향을 고찰하여볼 필요가 있다.
+(次號續) ＜85＞
+＜76-85＞

@@ -1,0 +1,77 @@
+**Header Section**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1932년 05월 01일
+Article Title: 各國의 國花 (National Flowers of Various Countries)
+Author: [Not specified]
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation**
+National Flowers of Various Countries
+
+China's National Flower: "Plum Blossom (梅花)"
+
+Regarding China's national flower, everyone likely thought it was the "Peony (牡丹)," but since becoming the Republic of China (中華民國), the national flower is said to have been revised to the "Plum Blossom (梅花)"; perhaps this is because the plum blossom is a plant originating from China.
+Someone compared the plum blossom to a woman, saying, "The plum blossom represents the integrity (節) of a pure scholar (淸士) who enjoys its spirit (氣韻)."
+In any case, the plum blossom blooms in the severe winter, and both its flower and its form (아지) possess pure integrity and lofty elegance (淸節高雅); it could be called the flower of a respectable gentleman (君子) possessing dignity.
+
+England's National Flower: "Rose (薔薇)"
+
+England's (英吉利) national flower is the "rose." The "rose" carries the meanings of "Beauty," "Affection," and "Romantic Love." However, the yellow rose is said to carry the meaning, "I have come to dislike you!" Among horticultural (園芸) plants, the cultivation (재배) of the "rose" has the longest history. <7>
+
+**Summary**
+
+This short article discusses the national flowers of China and England in 1932. It notes that contrary to popular belief (that it was the peony), the Republic of China adopted the plum blossom (梅花), perhaps due to its Chinese origin, symbolizing scholarly integrity and gentlemanly virtue. It then states that England's national flower is the rose (薔薇), symbolizing beauty and love, though the yellow rose means dislike, and notes the rose's long history in horticulture. For historians, the article offers a glimpse into how national symbols were understood and discussed in colonial Korea, reflecting awareness of international identities (China, England) and the specific meanings attached to these floral emblems, potentially serving as a subtle comparison or exploration of national identity during a period when Korea lacked its own internationally recognized sovereignty. The correction regarding China's flower is also noteworthy.
+
+**Named Entities**
+
+中國	중국	China
+中華民國	중화민국	Republic of China
+英吉利	영길리	England
+
+**Glossary**
+
+國花	국화	National flower
+梅花	매화	Plum blossom
+牡丹	모단	Peony (Older pronunciation/transcription, modern is 모란)
+알엇섯다만은	알았었다마는	Although [one] knew/thought (Older spelling/conjugation)
+개정되엿다고	개정되었다고	That it was revised (Older spelling)
+원산지	원산지	Place of origin
+까닭인가	까닭인가	Is it the reason?
+氣韻	기운	Spirit; atmosphere; grace
+淸士	청사	Pure/noble scholar
+節	절	Integrity; principle; virtue
+엇잿든	어쨌든	Anyway; regardless (Older spelling)
+엄동	엄동	Severe winter
+아지	아지	Form; appearance; shape (Likely intended meaning in context, modern Korean might use '모양' or '자태'. Could also relate to '가지' - branch, but less likely here)
+淸節高雅	청절고아	Pure integrity and lofty elegance
+기품	기품	Dignity; grace
+공경할 만한	공경할 만한	Worthy of respect
+군자	군자	Gentleman; man of virtue
+英吉利	영길리	England (Older phonetic transcription)
+薔薇	장미	Rose
+이약이	이야기	Story (Older spelling)
+실혀젓서요	싫어졌어요	Have come to dislike you (Older spelling/conjugation)
+園芸	원예	Horticulture; gardening
+재배	재배	Cultivation
+역사	역사	History
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제5호
+발행일	1932년 05월 01일
+기사제목	各國의 國花
+기사형태	잡저
+
+各國의 國花
+中國의 國花 「梅花」
+
+中國의 國花라면 누구나 「牡丹」인 줄 알엇섯다만은 中華民國으로 된 후로부터의 國花는 「梅花」로 개정되엿다고 하니 아마 梅花는 中國 원산지의 식물인 까닭인가 한다.
+누구는 梅花꼿츨 여자에게 비유헤서 말하기를 「梅花는 氣韻을 즐기는 淸士의 節」이라고 하엿다.
+엇잿든 梅花는 엄동에 피어서 꼿이나 아지나 淸節高雅하고 기품잇는 공경할 만한 군자의 꼿이라고 하겟다.
+
+英吉利의 國花 「薔薇」
+
+英國의 국화는 「장미」다. 「장미」는 「美」 「愛」 「戀愛」라고 하는 의미의 이약이를 가지고 잇다. 그러나 黃장미는 「나는 당신이 실혀젓서요」하는 의미를 가지고 잇다고! 園芸식물 중에서 「장미」의 재배가 가장 오랜 역사를 가지고 잇다.<7>
+<7>

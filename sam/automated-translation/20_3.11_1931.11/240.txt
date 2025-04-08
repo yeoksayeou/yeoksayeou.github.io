@@ -1,0 +1,53 @@
+**Header Section:**
+Magazine Title: 삼천리 제3권 제11호
+Publication Date: 1931년 11월 01일
+Article Title: 女天下의 아메리카, 남자보더 녀자가 더 늘어 (America, a Woman's World: Women Increasing More Than Men)
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+**Body Text Translation:**
+America, a Woman's World: Women Increasing More Than Men
+
+Recently in America, it is said that the rate of increase for women compared to men is high. This can only be seen as a natural tendency for men to likely be dominated by women.
+
+Specifically speaking, in America, as of April 1, 1930, the total population was 122,775,046, of which 62,137,080 were men and 60,637,966 were women. In other words, for every 100 women, there were 102.5 men.
+
+Compared to the results of the population census 10 years prior—that is, in 1920—there were 53,900,431 men and 51,810,189 women, which was a ratio of 104 men to 100 women. Isn't it clearly proven that the rate of increase for women compared to men is becoming severe? <48>
+
+**Summary**
+
+The article reports on the changing demographics in the United States, citing 1920 and 1930 census data. It notes that while men still slightly outnumbered women in 1930, the rate of increase for women was higher than that of men over the preceding decade, decreasing the male-to-female ratio from 104:100 to 102.5:100. The author interprets this trend as a "natural tendency" towards a future where women might dominate men, framing America as a potential "woman's world." For historians, this piece is interesting as it reflects Korean awareness of and interest in global demographic trends, particularly those in the West, during the colonial period. It also reveals contemporary perspectives on gender ratios and potential societal shifts, possibly viewed with a mix of curiosity and perhaps apprehension, framed through the lens of potential female dominance.
+
+**Named Entities**
+
+아메리카	아메리카	Amerika
+
+**Glossary**
+
+女天下	여천하	Woman's world; female dominance
+남자보더	남자보다	Than men (older particle form '보더' instead of '보다')
+녀자	여자	Woman (older spelling)
+만타고 한다	많다고 한다	It is said that (it) is numerous/high (older spelling '만타' for '많다')
+깔니워지리라는	깔리리라는	That (they) will likely be crushed under/dominated by (older spelling and passive construction)
+밧게 업다	밖에 없다	There is nothing but; cannot but (older spelling '밧게' for '밖에', '업다' for '없다')
+잇서서	있어서	In; at (older spelling '잇서서' for '있어서')
+인대	인데	Being (conjunction/copula ending, older spelling '인대' for '인데')
+엿다	였다	Was (past tense copula, older spelling '엿다' for '였다')
+割合	비율	Ratio (uses the Japanese term 'wariai' 割合, read in Korean)
+되여 잇다	되어 있다	Has become; is (older spelling '되여' for '되어')
+되엿슴으로	되었으므로	Because it became (older spelling/causal ending '되엿슴으로' for '되었으므로')
+격심하는	격심하는	Becoming severe; intense
+밝히	밝히	Clearly (adverb, same as modern spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제11호
+발행일	1931년 11월 01일
+기사제목	女天下의 아메리카, 남자보더 녀자가 더 늘어
+기사형태	잡저
+
+女天下의 아메리카, 남자보더 녀자가 더 늘어
+최근에 아메리카에서는 남자에 비해서 여자의 증가율이 만타고 한다. 이것은 아마 남자가 여자에게 깔니워지리라는 자연적 경향이라고 볼 수 밧게 업다.
+구체적으로 말하면 아메리카에 잇서서 1930년 4월 1일 현재 인구 총계가 1억2천2백77만5천4십6인인대 그 중에 남자가 6천2백13만7천8십인이고 여자는 6천6십3만7천9백6십6인이엿다. 즉 여자 100에 대해서 남자 102이라는 5의 割合이 되여 잇다.
+그것이 10년 전-즉 1920년의 인구조사의 결과의 의하면 남자가 5천3백9십만4백3십1인이엿고 여자가 5천백3십1만8십9인이엿는데 - 즉 100대 104의 비례로 되엿슴으로 남자에게 비해서 여자의 증가율이 격심하는 것은 밝히 증명되여 잇는 것이 안인가?＜48＞

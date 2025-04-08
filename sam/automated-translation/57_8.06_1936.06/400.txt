@@ -1,0 +1,44 @@
+Magazine Title: 삼천리 第八卷 第六號
+Publication Date: 1936년 06월 01일
+Article Title: 謹告 (Correction Notice)
+Author: Not specified (likely Editorial Staff)
+Article Type: 사고·편집후기 (Correction/Editorial Note)
+
+An article by Mr. Im Wŏn-gŭn regarding An To-san's activities (安島山舞臺), published in this magazine's previous month's issue, was in reality something that should have been included in the article about General Chiang Kai-shek (蔣介石 將軍), but was mistakenly placed. We deeply apologize to the writer and readers.
+
+**Summary**
+
+This is a correction notice from the *Samch'ŏlli* magazine editors. It states that an article by Im Wŏn-gŭn concerning An To-san (likely An Changho), which appeared in the previous issue, was misplaced. It should have been part of an article discussing General Chiang Kai-shek. The editors express their sincere apologies for this error to both the author and the readership. For historians, this notice is interesting as it explicitly links discussions of Korean figures like Im Wŏn-gŭn and An Changho (a major independence activist) with the prominent Chinese leader Chiang Kai-shek, potentially reflecting the interconnectedness of political discourse or nationalist movements in East Asia during the period, or perhaps comparisons being drawn between them. The need for a public correction might also hint at the sensitivity surrounding these figures under Japanese colonial rule.
+
+**Named Entities**
+
+林元根	임원근	Im Wŏn-gŭn
+安島山	안도산	An To-san (Likely refers to An Changho)
+蔣介石 將軍	장개석 장군	General Chiang Kai-shek
+
+**Glossary**
+
+本誌	본지	This magazine
+前月號	전월호	Previous month's issue
+실닌	실린	Published/Included (Older spelling of 실린)
+記事	기사	Article
+對한	대한	Regarding/About (Older form of 대한)
+그 實	그 실	In reality / Actually
+너을	넣을	To be put in / To be included (Older spelling of 넣을)
+錯誤	착오	Error/Mistake
+되엿든	되었던	Which was (Older spelling/conjugation of 되다)
+筆者	필자	Writer/Author
+讀者	독자	Reader
+甚 사하는 바이다	심사하는 바이다	We deeply apologize (Context implies 甚謝하다 - to deeply apologize)
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제6호
+발행일	1936년 06월 01일
+기사제목	謹告
+기사형태	사고·편집후기
+
+謹告
+本誌 前月號에 실닌 林元根氏의 安島山舞臺에 對한 記事는 그 實 蔣介石 將軍에 대한 記事에 너을 것인 것이 錯誤되엿든 것이다. 筆者와 讀者에게 甚 사하는 바이다.

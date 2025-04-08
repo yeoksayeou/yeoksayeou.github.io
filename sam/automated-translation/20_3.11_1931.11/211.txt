@@ -1,0 +1,50 @@
+Magazine Title: 三千里 제3권 제11호
+Publication Date: 1931년 11월 01일
+Article Title: 社告 (Company Announcement)
+Author: 編輯局 (Editorial Department)
+Article Type: 사고·편집후기 (Announcement/Editorial Note)
+
+Company Announcement
+
+Regarding the open letter addressed to Mr. Ch'oe Rin (崔麟氏) and the written responses from over fifty individuals concerning a certain issue (某問題), we announce that, due to unavoidable circumstances (不得已한 事情), we were unable to publish them.
+
+Respectfully, The Editorial Department (編輯局白) <44>
+
+**Summary**
+
+This brief announcement from the editorial department of *Samch'ŏlli* magazine informs readers that an open letter intended for Ch'oe Rin, along with responses from over fifty people regarding an unspecified issue, could not be published due to "unavoidable circumstances." From a historical perspective, this notice is intriguing. Ch'oe Rin was a prominent but controversial figure involved in the independence movement who later collaborated with the Japanese. The vague mention of "unavoidable circumstances" preventing publication hints strongly at potential external pressure or censorship, likely from the Japanese Government-General, regarding sensitive political discussions or critiques involving Ch'oe Rin or the "certain issue" mentioned. Historians might find this significant as evidence of the constraints on press freedom and the careful negotiation of sensitive topics required by publishers during the colonial period.
+
+**Named Entities**
+
+崔麟氏	최린씨	Ch'oe Rin ssi
+編輯局	편집국	Editorial Department
+
+**Glossary**
+
+社告	사고	Company/Magazine Announcement
+與하는	여하는	To/Regarding (older grammatical form, modern equivalent might be ~에게 보내는 or ~에 대한)
+某問題	모문제	A certain issue/problem (unspecified)
+對한	대한	Regarding/About
+五十餘氏	오십여씨	Over fifty individuals/people (氏 used as a counter for people)
+回答文	회답문	Written response/Replies
+不得已	부득이	Unavoidable, inevitable
+事情	사정	Circumstances, reasons
+揭載치함못	게재치함못	Cannot publish (older combined negative form; modern: 게재하지 못함)
+告하나이다	고하나이다	(We) announce/inform (formal, slightly archaic polite ending)
+編輯局	편집국	Editorial Department
+白	백	Respectfully informs/states (classical usage in letters/announcements, appended after the sender's name/title)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제11호
+발행일	1931년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+崔麟氏에 與하는 公開狀某問題에 對한 五十餘氏의 回答文
+右는 不得已한 事情으로 揭載치함못을 告하나이다
+編輯局白＜44＞
+＜44＞

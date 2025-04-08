@@ -1,0 +1,85 @@
+Magazine Title: 三千里 제13권 제7호
+Publication Date: 1941년 07월 01일
+Article Title: 南鮮紀行, 文人協會講演の途次 (Southern Korea Travelogue, On the Way to a Literary Association Lecture)
+Author: 金東煥
+Article Type: 시 (Poem)
+
+Drunk on the rising fragrance of smoke,
+Through the tobacco quarter (タンバクヤ), the old streets of Tongnae and Pusan I go.
+
+In the blue-green flow of the Naktong,
+The image of Tang warships from a thousand years ago appears.
+
+This land is the site of Silla;
+Remembering the image of the "Hwarang" (화랑), I am at the archery pavilion (射亭).
+
+When spring comes, white willow tightly bound,
+And red petals of peach and plum will float upon the stream. <58>
+
+**Summary**
+
+This short poem by Kim Tong-hwan, written in Japanese, describes impressions during a journey through southern Korea (Tongnae, Pusan, Naktong River area) en route to a lecture for a literary association. The poet reflects on the sensory experience of the old streets, the historical echoes of the Silla kingdom and Tang China seen in the landscape, the legacy of the Hwarang warriors, and imagines the beauty of spring. For historians, the poem is interesting as an example of a Korean intellectual writing in Japanese during the late colonial period (1941), focusing on landscape and history rather than overt political themes, possibly reflecting the constraints of censorship. The mention of the "Literary Association" hints at the organized cultural activities occurring under Japanese rule.
+
+**Named Entities**
+
+南鮮	N/A	Southern Korea (Nansen)
+文人協會	N/A	Literary Association (Bunjin Kyōkai)
+金東煥	김동환	Kim Tong-hwan
+東萊	동래	Tongnae
+釜山	부산	Pusan
+洛東	낙동	Naktong
+唐	N/A	Tang (Dynasty)
+新羅	신라	Silla
+화랑	화랑	Hwarang
+射亭	사정	Archery Pavilion (Sajŏng)
+
+**Glossary**
+
+薰り立つ	かおりたつ	To be fragrant, to rise fragrantly
+烟	けむり	Smoke (Older Kanji form of 煙)
+醉ひて	よういて	Becoming drunk/intoxicated (Older verb conjugation/kana usage of 酔う)
+タンバクヤ	たんばくや	Tobacco shop/area (Likely derived from Korean '담배 가게' tambae kage - tobacco shop, rendered in Katakana)
+古さ街	ふるさまち	Old street/town (Slightly unusual combination, ふるい街 is more common)
+往く	ゆく	To go (Classical/literary form of 行く)
+碧さ	あおさ	Blueness, greenness (Nominalization of 青い using さ)
+流れ	ながれ	Stream, flow
+千年	せんねん	Thousand years
+兵船	へいせん	Warship
+面影	おもかげ	Image, visage, trace, memory
+見ゆ	みゆ	To be visible, can be seen (Classical/literary form of 見える)
+趾ぞ	あとぞ	Site, ruins (ぞ adds emphasis)
+偲び	しのび	Remembering, recalling fondly
+われ	われ	I, me (Classical/literary pronoun)
+春されば	はるされば	When spring comes (Classical conditional form)
+白さ	しろさ	Whiteness (Nominalization of 白い using さ)
+柳	やなぎ	Willow
+緊と	きんと	Tightly (Possibly emphatic or dialectal form of 緊密に or しっかりと)
+桃李	とうり	Peach and plum (trees/blossoms)
+赤い	あかい	Red
+花辨	はなびら	Petal (辨 is an older/alternative form of 弁)
+泛ぶ	うかぶ	To float (Older form/alternative Kanji for 浮ぶ)
+ならむ	ならむ	Will probably be, likely is (Classical future/speculative auxiliary verb)
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제7호
+발행일	1941년 07월 01일
+기사제목	南鮮紀行, 文人協會講演の途次
+필자	金東煥
+기사형태	시
+
+南鮮紀行, 文人協會講演の途次
+						金東煥
+薰り立つ烟に醉ひて
+タンバクヤ 東萊釜山の古さ街往く
+
+洛東の碧さ流れに
+千年前の唐の兵船の面影の見ゆ
+
+この地は新羅の趾ぞ
+「화랑」の面影の偲びわれは射亭に
+
+春されば白さ柳緊と
+桃李の赤い花辨流れに泛ぶならむ <58>

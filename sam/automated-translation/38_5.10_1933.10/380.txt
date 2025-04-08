@@ -1,0 +1,76 @@
+**Header Section**
+Magazine Title: 三千理
+Publication Date: 1933-10-01
+Article Title: 高層建物 林立時代 (Era of High-Rise Buildings Standing Dense Like a Forest)
+Author: None specified
+Article Type: 소식 (News/Item)
+
+**Body Text Translation**
+Era of High-Rise Buildings Standing Dense Like a Forest
+
+Mr. Min Tae-sik (閔大植) has decided to demolish the buildings near the Central Mission Hall (中央傳道舘) east of the Central Young Men's Hall (中央靑年會舘) in Chongno, Seoul, and invest 200,000 won to construct a large four-story building. It is said that Shimizu Gumi (淸水組) will soon commence the work. The building is intended for rental offices and rental shops, and after its completion, it will add another distinctive feature to the Chongno area.
+
+The location for the new Chosŏn Ilbo Company (朝鮮日報社) building, which they are constructing by investing some 180,000 won, is said to be next to the Yi Royal Art Exhibition Hall (李王職美術陳列舘) on T'aep'yŏng-t'ong (太平通). This is also expected to be completed next spring.
+
+It is said that the expansion of the Tonga Ilbo Company (東亞日報社) building will make it exactly double its current size, to be built right next to its south side, and word is that a contract has already been made with Shimizu Gumi (淸水組). It seems construction will begin before long. <63>
+
+**Summary**
+
+This news item from October 1933 reports on several major construction projects in Seoul, signifying a move towards taller buildings. Mr. Min Tae-sik plans a four-story rental building on Chongno using the Japanese firm Shimizu Gumi. The Chosŏn Ilbo newspaper is building a new headquarters on T'aep'yŏng-t'ong, also set for completion next spring. The Tonga Ilbo newspaper is planning a major expansion, doubling its building size, reportedly also contracting Shimizu Gumi. From a historical perspective, the article highlights the modernization of Seoul's urban landscape during the colonial period, the significant capital investment involved, the emerging rivalry between major Korean newspapers (Chosŏn Ilbo and Tonga Ilbo) manifested in new buildings, and the prominent role of Japanese construction companies like Shimizu Gumi in these large-scale projects.
+
+**Named Entities**
+
+閔大植	민대식	Min Tae-sik
+鍾路	종로	Chongno
+中央靑年會舘	중앙청년회관	Central Young Men's Hall
+中央傳道舘	중앙전도관	Central Mission Hall
+淸水組	청수조	Shimizu Gumi
+朝鮮日報社	조선일보사	Chosŏn Ilbo Company
+太平通	태평통	T'aep'yŏng-t'ong
+李王職美術陳列舘	이왕직 미술 진열관	Yi Royal Art Exhibition Hall
+東亞日報社	동아일보사	Tonga Ilbo Company
+
+**Glossary**
+
+高層建物	고층 건물	High-rise building
+林立時代	임립 시대	Era of dense standing (like a forest); proliferation
+氏	씨	Mr./Ms. (suffix)
+東便	동편	East side (older form; modern: 동쪽 편)
+헐고	헐고	Demolishing and... (from 헐다 'to demolish')
+投하야	투하야	Investing (older form of 투하여, from 투하다 'to invest')
+곳	곧	Soon, shortly (older spelling; modern: 곧)
+着手하리라는데	착수하리라는데	It is said they will commence/start work (older grammatical ending)
+貸事務所	대사무소	Office for rent
+貸商店	대상점	Shop for rent
+埈工后	준공 후	After completion (后 is an older/alternative Hanja for 後 'after')
+비닥에	바닥에	On the floor/ground (older spelling of 바닥에)
+異彩	이채	Distinctive color, uniqueness
+新社屋	신사옥	New company building
+엽헤	옆에	Next to (older spelling of 옆에)
+明春	명춘	Next spring (somewhat literary/older term)
+落成될	낙성될	Will be completed
+증축	증축	Expansion, annex (building)
+倍되게	배되게	To become double
+南便	남편	South side (older form; modern: 남쪽 편)
+지으리라는데	지으리라는데	It is said they will build (older grammatical ending)
+벌서	벌써	Already (older spelling of 벌써)
+되엇다는	되었다는	That it became/was done (되엇다 is an older spelling of 되었다)
+未久에	미구에	Soon, before long (literary/older term)
+모양이리라	모양이리라	It seems/appears that... (older grammatical ending)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제10호
+발행일	1933년 10월 01일
+기사제목	高層建物 林立時代
+기사형태	소식
+
+高層建物 林立時代
+閔大植 氏는 이번에 서울 鍾路 中央靑年會舘 東便 中央傳道舘이 잇는 그 부근 건물 터를 헐고 20만원을 投하야 4층 대건물을 건축하기로 되어 淸水組의 손으로 곳 着手하리라는데 용도는 貸事務所 貸商店의 건물이 되리라하니 埈工后는 鍾路비닥에 또 異彩를 발할 것이다.
+
+朝鮮日報社에서 18만원인가 投하야 건축하는 新社屋의 소재지는 太平通 李王職美術陳列舘의 엽히 되리라는데 이것도 明春에 落成될 것이라 한다.
+
+東亞日報社屋의 증축도 현재의 꼭 倍되게 그 南便엽헤 지으리라는데 벌서 淸水組와 계약이 되엇다는 말이 잇다. 未久에 착공할 모양이리라 한다.＜63＞
+＜63＞

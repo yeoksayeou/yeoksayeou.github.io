@@ -1,0 +1,95 @@
+Magazine Title: 삼천리 제10권 제1호
+Publication Date: 1938-01-01
+Article Title: 京城音樂學院, 貞洞町 獨逸사람집채에서 (Kyŏngsŏng Music Academy, in a German's House in Chŏngdong-chŏng)
+Author: None specified
+Article Type: 소식 (News)
+
+Kyŏngsŏng Music Academy, in a German's House in Chŏngdong-chŏng
+
+An Kiyŏng, Yi Sŭnghak, An Sŏnggyo, Kim T'aeyŏn, and Mr. Kim Kwan gathered, appointing Mr. Kim Chaedong, who returned after completing his studies in Germany, as the director. They have founded a music school called Kyŏngsŏng Music Professional Academy (京城音樂專門學院), renting a German person's house in Chŏngdong-chŏng, and began classes on December 1st last. Mr. Kim Chaedong will teach composition method, German language, and violin; Mr. An Kiyŏng will teach harmony and voice; Mr. Yi Sŭnghak will teach music fundamentals (樂典) and voice; Mr. An Sŏnggyo will teach intervals (音程), ear training (聽音), and violin; Mr. Shimizu Kanzō will teach piano; Mr. Kim T'aeyŏn will teach cello; and Mr. Kim Kwan will be responsible for teaching music theory, music history, foreign languages, etc.
+
+The curriculum is divided into three courses: the main course (본과), the specialized course (專修科), and the preparatory course (예과). The preparatory course is for preparing before entering the main course. The specialized course is, naturally, for those who wish to study music further after completing the main course, but it is also designed so that graduates from other schools, those currently studying elsewhere, those with jobs, or even those at home can pursue research. For this reason, for commuting convenience, only the specialized course has [*]afternoon or evening classes[*].
+
+Admission Qualifications
+For the preparatory course, applicants must have completed the third year of middle school for boys or girls, or possess qualifications equivalent to or higher than this level.
+For the specialized course, regardless of academic background or age, anyone recognized as capable of undertaking music studies can be admitted.
+
+Tuition Fees
+Preparatory Course / Main Course
+Term 1 (April-July)
+金24 wŏn
+Term 2 (September-December)
+金24 wŏn
+Term 3 (January-March)
+金18 wŏn
+Specialized Course: 金5 wŏn per subject per month.
+Admission fee is 3 wŏn, examination fee is 2 wŏn, and there is no examination for the specialized course. <42>
+
+**Summary**
+
+This news article announces the establishment of the Kyŏngsŏng Music Professional Academy (京城音樂專門學院) in Chŏngdong-chŏng, Seoul, in December 1937. Headed by Kim Chaedong, recently returned from studies in Germany, the academy offers preparatory, main, and specialized courses taught by notable Korean musicians like An Kiyŏng and Yi Sŭnghak, as well as a Japanese instructor, Shimizu Kanzō. The article details the faculty, subjects taught, admission requirements, and tuition fees, highlighting the specialized course's flexibility for working individuals or those pursuing further study. From a historical perspective, the article reveals the burgeoning interest and institutionalization of Western classical music education in colonial Korea, led by Korean intellectuals educated abroad (Germany, in this case). The inclusion of a Japanese instructor and the mention of German language instruction also reflect the complex cultural interactions of the period. The establishment of such an institution signifies a Korean effort to cultivate modern artistic expertise despite the colonial context.
+
+**Named Entities**
+
+An Kiyŏng	안기영	An Kiyŏng
+李升學	이승학	Yi Sŭnghak
+安聖敎	안성교	An Sŏnggyo
+金泰淵	김태연	Kim T'aeyŏn
+金管	김관	Kim Kwan
+金載動	김재동	Kim Chaedong
+貞洞町	정동정	Chŏngdong-chŏng
+京城音樂專門學院	경성음악전문학원	Kyŏngsŏng Umak Chŏnmun Hagwŏn
+淸水幹三	청수간삼	Shimizu Kanzō
+獨逸	독일	Germany (Tokil)
+京城	경성	Kyŏngsŏng (Colonial name for Seoul)
+
+**Glossary**
+
+집채	집채	A house building (older term)
+도라온	돌아온	Returned (older spelling of 돌아온)
+마터	맡아	To take charge of, be responsible for (older spelling/form of 맡아)
+나누워	나뉘어	To be divided (older spelling of 나뉘어)
+-이러니와	-이려니와 / -이거니와	Naturally/of course... but also... (conjunctive ending)
+밧는	받는	Receiving, getting (older spelling of 받는)
+헤아리지 않고	헤아리지 않고	Without considering, regardless of
+본과	본과	Main course (of study)
+전수과	전수과	Specialized course, advanced course
+예과	예과	Preparatory course
+화성학	화성학	Harmony (music theory)
+악전	악전	Music fundamentals/theory
+음정	음정	Musical interval
+청음	청음	Ear training
+작곡법	작곡법	Composition method
+此	차	This (Hanja character used for 이/이것)
+金	금	Gold; used here to denote money (Wŏn)
+
+
+---------------------------
+
+
+잡지명	삼천리 제10권 제1호
+발행일	1938년 01월 01일
+기사제목	京城音樂學院, 貞洞町 獨逸사람집채에서
+기사형태	소식
+
+京城音樂學院, 貞洞町 獨逸사람집채에서
+安基永
+李升學
+安聖敎
+金泰淵
+金管 諸氏가 모여서 독일유학을 마치고 도라온 金載動氏를 원장으로 하고 貞洞町에 獨逸사람집을 빌어서 京城音樂專門學院이라는 음악학교를 창설하여 지난 12월 1일부터 개강을 하게 되였다는데 金載動씨가 작곡법 獨逸語 바요린을 가르치고 安基永씨가 和聲學, 성악 李升學씨가 樂典, 성악 安聖敎씨가 音程, 聽音 바요린, 淸水幹三씨가 피아노 金泰淵씨가 첼로 金管氏가 음악이론, 음악사 외국어 등을 마터 가르친다고.
+학과는 본과, 專修科, 예과 세과로 나누워 예과는 본과에 입학하기전 준비하기 위한데고 또 전수과는 본과를 수업한 후에 좀더 음악을 연구하고 *하는 자는 물론이러니와 * 좀 다른 학교를 졸업한 사람이나 또 수업중인 자나 혹은 직업을 가진 자나 가정에 있는 자라도 연구할 수 있게 되였다는 것이다. 그런 까닭에 통학상 편리를 보느라고 전수과만 *오후 또는 야간부를 *었다 한다.
+
+입학자격
+예과는 남녀중등학교 3학년 수료한 자 혹은 此와 동등하거나 그이상 정도에 자격을 가진 자라야만 되고
+전수과는 학력과 나이를 헤아리지 않고 음악수업을 할 수 있으리라고 인증밧는 사람이면 된다고 한다.
+수업과
+예과   본과
+제1기(4월-7월)
+金24원
+제2기(9월-12월)
+金24원
+제3기(1월-3월)
+金18원
+전수과 1ケ월 1과목에만 金5원
+입학과 3원 수험료 2원이고 전수과는 시험이 없다고 한다. ＜42＞

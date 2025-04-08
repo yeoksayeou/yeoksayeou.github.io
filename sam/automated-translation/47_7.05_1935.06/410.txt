@@ -1,0 +1,60 @@
+Magazine Title: 三千⾥ 제7권 제5호
+Publication Date: 1935년 06월 01일
+Article Title: 時代가 要求하는 神聖한 醫業, 누구나 배울 수 잇는 平壤電醫校 (The Sacred Medical Profession Demanded by the Times, the P'yŏngyang Electro-medical School Anyone Can Learn At)
+Author: Not specified
+Article Type: 소식 (News/Announcement)
+
+There are many schools in Chosŏn (朝鮮), and medical colleges (醫專) are sparsely located. However, this is the first time there has been something called an Electro-medical School (電醫學校). One should not misunderstand what an Electro-medical School is. The Electro-medical School is a school that teaches medicine exclusively, just like a general medical college (醫學專門學校). As a method of electrotherapy (雷氣治療法) demanded by the modern era (現代), when malfunctions occur in the mysterious functions of life within the human body (人體), which absolutely cannot be cured solely by medicine (藥), electro-medicine (電醫學) provides the happiness of a complete cure (完治) to patients with difficult-to-treat diseases (難疾) through its five great actions (5大 作用): physical action (物理的 作用), chemical action (化學的 作用), physiological action (生理的 作用), bactericidal action (殺菌的 作用), and stimulatory action (動念的 作用). This is a sacred enterprise (聖業). The principal, Mr. Ōshige Chika (大重近氏), truly has much experience (經驗) regarding electro-medicine; having served as the principal of the Tōkyō Electro-medical School (東京電醫專門學校校長) and established branch schools (分校) as far away as Ōsaka (大阪) and Taiwan (臺灣), educating many talented individuals (英材), he has now come to P'yŏngyang (平壤) to establish a branch school and is teaching at the school which will guide the future of young people well (善히 指導). (Photo is of Mr. Ōshige Chika (大重近氏))
+<243>
+
+**Summary**
+
+This article announces the establishment of the P'yŏngyang Electro-medical School (平壤電醫校), presented as a modern institution meeting the demands of the era. It highlights electrotherapy (雷氣治療法) as a superior method for treating difficult diseases incurable by conventional medicine, citing its "five great actions." The school is a branch established by Mr. Ōshige Chika (大重近), who previously ran similar schools in Tōkyō, Ōsaka, and Taiwan. The piece promotes the school as accessible ("anyone can learn") and beneficial for the future of Korean youth. For historians, this article illustrates the introduction and promotion of Japanese-led technological and educational ventures (here, a specific type of medical training, electrotherapy) in colonial Korea. It reflects the narrative of modernization under Japanese influence, the appeal to scientific advancement (even if pseudo-scientific by modern standards), and the targeting of Korean youth for new forms of education and professions within the colonial structure.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+平壤電醫校	평양전의교	P'yŏngyang Electro-medical School
+大重近	대중근	Ōshige Chika
+東京電醫專門學校	동경전의전문학교	Tōkyō Electro-medical School
+大阪	오사카	Ōsaka
+臺灣	대만	Taiwan
+平壤	평양	P'yŏngyang
+
+**Glossary**
+
+醫業	의업	Medical profession/practice
+만코	많고	Many (older spelling)
+잇다	있다	To exist, to be (older spelling)
+터문터문잇다	드문드문 있다	To be sparsely located (older/dialectal form for 'sparsely')
+電醫學校	전의학교	Electro-medical School
+갓치	같이	Like, as (older spelling)
+專修식히는	전수시키는	Making someone specialize in; teaching exclusively (older causative form)
+雷氣治療法	뇌기치료법	Electrotherapy (lit. thunder-energy treatment method)
+神祕한	신비한	Mysterious
+낫지 아니하니	낫지 아니하니	Because it does not heal (older negative form)
+物理的 作用	물리적 작용	Physical action/effect
+化學的 作用	화학적 작용	Chemical action/effect
+生理的 作用	생리적 작용	Physiological action/effect
+殺菌的 作用	살균적 작용	Bactericidal action/effect
+動念的 作用	동념적 작용	Stimulatory action/effect (contextual interpretation)
+難疾	난질	Difficult-to-treat disease
+聖業	성업	Sacred work/enterprise
+실노	실로	Indeed, truly (older spelling)
+英材	영재	Talented person, gifted individual
+敎養타가	교양하다가	While cultivating/educating (older verb ending)
+善히	선히	Well, properly (older adverbial form)
+敎授하고 잇다	교수하고 있다	Is teaching (older spelling/form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제5호
+발행일	1935년 06월 01일
+기사제목	時代가 要求하는 神聖한 醫業, 누구나 배울 수 잇는 平壤電醫校
+기사형태	소식
+
+時代가 要求하는 神聖한 醫業, 누구나 배울 수 잇는 平壤電醫校
+朝鮮에 있어 學校가 만코 醫專도 터문터문잇다. 그러나 電醫學校라 하는 것은 처음이다. 電醫學校라 하니 誤解하면 아니된다. 電醫學校는 一般 醫學專門學校와 갓치 醫學을 專修식히는 學校로, 現代의 要求하는 雷氣治療法으로서 神祕한 人體에 生活機能의 故障이 생길 때에 오직 藥으로서만 도저히 낫지 아니하니 電醫學으로 본 物理的 作用 化學的 作用 生理的 作用 殺菌的 作用 動念的 作用 5大 作用으로서 難疾의 患者에게 完治의 幸福을 주는 聖業이다. 院長 大重近氏는 電醫學에 대하야는 실노 만흔 經驗이 잇나니 東京電醫專門學校校長으로 大阪 臺灣의 멀리까지 分校을 두어 많은 英材을 敎養타가 지금 平壤에 와서 分校을 두고 靑年의 장래를 善히 指導할 學校를 敎授하고 잇다. (사진은 大重近氏)
+＜243＞

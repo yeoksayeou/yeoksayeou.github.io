@@ -1,0 +1,300 @@
+41	380	Newspaper Novels and Illustrators	An Sŏkchu, Yi Sŭngman, No Simsan, Yi Sangbŏm	Memoir/Reminiscence
+41	390	Strange Tales of Literary Figures		News/Information
+41	400	On Two Leading Writers	Min Pyŏnghwi, Chŏn Yŏngt'aek	Literary Criticism
+41	410	Sowŏl Poetry Collection		Poetry
+41	420	Ansŏ Poetry Collection		Poetry
+41	430	Wŏlt'an Poems		Poetry
+41	440	Ch'unsŏng Poetry Collection		Poetry
+41	450	Collection of Overseas Masterpiece Poems		Poetry
+41	460	Chat Room		Miscellaneous Writing
+41	470	Firebird	Gurt Gyuhira (Author), Pak Yŏnghŭi (Translator)	Novel/Fiction
+41	480	Chat Room		Miscellaneous Writing
+41	490	Guangxu Emperor	German Gurabundŭ (Author)	Novel/Fiction
+41	500	Gratitude and Apology		Notice/Editor's Postscript
+42	010	Samch'ŏlli Secret Room - The Korean Black-chamber		News/Information
+42	020	Long Autumn Night	Ch'angnang Kaek	Poetry
+42	030	The Rise and Fall of Nations and War	Kim Kyŏngjae	Editorial/Article
+42	040	Samch'ŏlli Chronicle	Ch'angnang Kaek	Miscellaneous Writing
+42	050	Korean Officers in the Military		News/Information
+42	060	The Suddenly Appearing Presidents of East and West, Hitler and Chiang Kai-shek	Kim Kyŏngjae	Editorial/Article
+42	070	Ten Cherished Books		Survey/Questionnaire
+42	080	Modern Christian Movement	Chŏng In'gwa	Editorial/Article
+42	090	The Splendid History of Modern Debates, Various Splendid Debates that Bloomed in This Land		Editorial/Article
+42	100	A Walk Down Newspaper Street		News/Information
+42	110	A Walk Down Record Street		Miscellaneous Writing
+42	120	Recollections of a Famous Reporter's Era (2), Dispatched During the Great Tōkyō Earthquake	Hamong Yi Sanghyŏp	Memoir/Reminiscence
+42	130	Divorce Confession (Continued), -To Mr. Ch'ŏnggu-	Na Hyesŏk	Literary Miscellaneous
+42	140	Novel Divorce Demands		Miscellaneous Writing
+42	150	The Paris Festival I Saw	Paris University Kim Yŏn'gŭm	Travelogue
+42	160	The Newspaper Reporter Corps Surrounding the Government-General		News/Information
+42	170	Strange Tales of Famous Judges, The Death of a Beauty and a Monk	Yun Paengnam	Literary Miscellaneous
+42	180	View on the Nationalist Government's Recognition of Manchukuo Issue	Yi Mong	Editorial/Article
+42	190	Organization of the Chinese Communist Army	Kwŏn Yŏngmok	Editorial/Article
+42	200	Courtroom Miscellany, The American XX Movement and Secret Stories from Trial History	Lawyer Sin T'aet'ak	Miscellaneous Writing
+42	210	Roundtable Discussion on "Fate and Views on Life and Death"		Dialogue/Roundtable Discussion
+42	220	Countermeasures Against Department Stores and Chain Stores, (-Retail Merchants, Become Specialists!-)	Ch'oe Nam	Editorial/Article
+42	230	Female Mayor Election		Survey/Questionnaire
+42	240	Music Scene Merry-Go-Round	Hanyang Hwarang	News/Information
+42	250	Chastity and Professional Women, (-Various Things from the Western Capital's Waterside Village-)	Kimsŏng Ma	Miscellaneous Writing
+42	260	Across the Pacific Ocean, (-Europe/America Travelogue Continued-)	Chŏngwŏl	Travelogue
+42	270	Scenery of the Westerners' Villa Area		Literary Miscellaneous
+42	280	Genius Advertising Techniques		Miscellaneous Writing
+42	290	Alas, the Westerners' Cemetery on the Banks of the Han River	Yu Kwangnyŏl	Literary Miscellaneous
+42	300	A Walk Through the Shopping District		Miscellaneous Writing
+42	310	Collection of Rumors		News/Information
+42	320	Company Announcement		Notice/Editor's Postscript
+42	330	Roundtable Discussion on "The Recent Foreign Literary Scene"		Dialogue/Roundtable Discussion
+42	340	Short Reviews of Recent Readings		Literary Criticism
+42	350	Recruiting Female Employees		Notice/Editor's Postscript
+42	360	Coming and Going in the Literary World	Ch'obyŏngjŏng	News/Information
+42	370	On Kim Kijin	Min Pyŏnghwi	Literary Criticism
+42	380	Writer Study (1), "Black Hood" and Paengnam's Art, A Brief General Examination	Hong Hyomin	Editorial/Article
+42	390	Reflections on Translation		Memoir/Reminiscence
+42	400	Strange Tales of Literary Figures		Miscellaneous Writing
+42	410	A Glimpse of the Disaster Area	Chang Hyŏkchu	Literary Miscellaneous
+42	420	My Moonlight Sonata	Yi Sŏnhŭi	Novel/Fiction
+42	430	Short Reviews of Recent Readings	Yi Hyosŏk	Literary Criticism
+42	440	Regarding the Esperanto Translation of "Modern Korean Short Story Collection"	Kim Ŏk	Literary Criticism
+42	450	Short Reviews of Recent Readings	Yi Hayun	Literary Criticism
+42	460	The Autumn Wind Blows Gently (and 3 others)	Ansŏ	Poetry
+42	470	May Morning (and 2 others)	Haeng Sŏkjŏng	Poetry
+42	480	Not Appearing	Ch'uya Chang	Poetry
+42	490	Let's Play Ch'ingch'ing	Ch'oe Munjin	Poetry
+42	500	Spark	Yŏm Sangsŏp	Novel/Fiction
+42	510	The Taedong River Whispers	Kim Tongin	Novel/Fiction
+42	520	Gratitude and Apology		Notice/Editor's Postscript
+43	010	Samch'ŏlli Secret Room - The Korean Black chamber		News/Information
+43	020	Company Announcement	Head of the Secret Room	Notice/Editor's Postscript
+43	030	Discussing "Heroes of the Peninsula" - Famous Rulers, Scholars, and Generals in History -		Dialogue/Roundtable Discussion
+43	040	Empress Myŏngsŏng's Funeral		Miscellaneous Writing
+43	050	The Guards Protecting the Royal Palace		Miscellaneous Writing
+43	060	The Military Academy and This and That		Miscellaneous Writing
+43	070	Writing Disasters and Debates	Kim Myŏngsik	Memoir/Reminiscence
+43	080	Figures the World is Watching		News/Information
+43	090	Korea's Army and Navy Strength		News/Information
+43	100	The British Bank on Chongno		Miscellaneous Writing
+43	110	Korea's Naval Academy		Miscellaneous Writing
+43	120	Three Million Disaster Victims and Relief	Kim Yaksu	Editorial/Article
+43	130	Company Announcement		Notice/Editor's Postscript
+43	140	On Heroes	Wŏn Sehun	Editorial/Article
+43	150	The Source of the Storm Clouds in the Far East	Kim Kyŏngjae, Hong Yangmyŏng	Editorial/Article
+43	160	The Diplomatic Lineup of Britain, America, and 5 Other Countries Stationed on the Peninsula		News/Information
+43	170	The Revival of the Republic of China	Chinese Minister to the US Shi Zhaoji (Alfred Sao-ke Sze)	Editorial/Article
+43	180	Company Announcement		Notice/Editor's Postscript
+43	190	Full View of the Naval Port "Vladivostok", Base of the Red Russian Far East Fleet		News/Information
+43	200	An Overview of Modern History, Yuan Shikai and Korea	Yi Sŏn'gŭn	Editorial/Article
+43	210	Grand March of the Teaching Crusaders - Postscript to the Christian Encouragement Youth Rally -	Unsŏng	News/Information
+43	220	Cutting Off All Worldly Desires	Kim Ilyŏp	Literary Miscellaneous
+43	230	Royal Tombs and the Autumn Wind		Literary Miscellaneous
+43	240	Shrines of Loyal Subjects and Great Scholars		News/Information
+43	250	Ah, Hangzhou's Koryŏ Temple, -Koryŏ Temple is in China's Exquisite Hangzhou-	Hangzhou Yi Yuch'un	Editorial/Article
+43	260	The Genius Poets of Sŏgyŏng (P'yŏngyang), Remembering Their Hidden Faces	Kimsŏng Ma	Literary Criticism
+43	270	A Study of Kissing	Pak Chŏngwŏl	Miscellaneous Writing
+43	280	A Short History of Love		Miscellaneous Writing
+43	290	Evening Tales of Broadcasting		Memoir/Reminiscence
+43	300	Russian Literature and Women (Three Sisters and Elena)		Literary Miscellaneous
+43	310	Impressions of Tōkyō Literary Figures	Chang Ch'unp'ung	Literary Miscellaneous
+43	320	Analyzing the Attention-Grabbing Chinese White Terror Blue Shirts Society	Shanghai Chang Kyech'ŏng	Editorial/Article
+43	330	Courtroom Miscellany: The Trial of the Seven Bishops (An Incomparably Solemn Historical Scene)	Lawyer Sin T'aet'ak	News/Information
+43	340	Love in a Foreign Land	Ch'oe Sŭngil	Play/Scenario
+43	350	The Unfortunate Girl and the Stepmother (From Grimm's Fairy Tales)		Novel/Fiction
+43	360	Italian Art Museums	Na Hyesŏk	Travelogue
+43	370	Tuberculosis and Sexual Desire (-TB Patients, Abstain!-)	German Medical Doctor Chŏng Sŏkt'ae	News/Information
+43	380	Portraits of Female Students in Puberty 1.2.3.4		Memoir/Reminiscence
+43	390	Anecdotes of Chŏng Mansu		Literary Miscellaneous
+43	400	Prayer (and 7 others)	Sowŏl	Poetry
+43	410	Miscellaneous Thoughts on an Autumn Day	Ansŏ	Poetry
+43	420	Autumn Sounds of the Old Palace (and 5 others)	Wŏlt'an	Poetry
+43	430	Builders of National Literature		Editorial/Article
+43	431	Company Announcement		Notice/Editor's Postscript
+43	440	Roundtable Discussion "Literary Scene Retrospective" Commemorating Ch'unwŏn's 20 Years in the Literary World		Dialogue/Roundtable Discussion
+43	450	Miscellaneous Affairs of the Literary World		Miscellaneous Writing
+43	460	Durtal. Wandering, The Well Found	Chang Tŏkcho	Literary Miscellaneous
+43	470	New Theater in Moscow, The Moscow Art Theatre's "Resurrection"	Moscow Kim Haech'un	Literary Criticism
+43	480	Diary	Yi Hyosŏk	Novel/Fiction
+43	490	The Beggar Old Woman Ropa	Christ (Author), Hong Myŏnghŭi (Translator)	Novel/Fiction
+43	500	Moonlight	Maupassant (Author), Chin Hangmun (Translator)	Novel/Fiction
+43	510	Naktong River	Ch'oe Chŏngwŏn	Novel/Fiction
+43	511	Apology and Gratitude		Notice/Editor's Postscript
+44	010	Lighthouse	Ansŏ	Poetry
+44	020	Samch'ŏlli Secret Room - The Korean Black chamber		News/Information
+44	030	Discussion of "Current Affairs Issues" by Presidents of Three Major Newspapers, The First Voice of Construction Resounding Throughout the Peninsula at the Start of the New Year, Shōwa 10		Dialogue/Roundtable Discussion
+44	040	Diplomacy and War	Kim Myŏngsik	Editorial/Article
+44	050	Since 1935 and an Overview of the International Political Situation	Kim Kyŏngjae	Editorial/Article
+44	060	People's Vote on National Development		Survey/Questionnaire
+44	070	The Golden Age of the Korean Nation	Sin Ch'aeho	Editorial/Article
+44	080	Tumultuous Journey to Northern Manchuria, Up to the Songhua River	Wŏn Sehun	Travelogue
+44	090	What Happened to the Hwasin Chain Store After That?		Editorial/Article
+44	091	Branch Office Recruitment		Notice/Editor's Postscript
+44	100	Following the Buddhist Path	Kim Ilyŏp	Dialogue/Roundtable Discussion
+44	110	Jokes		Miscellaneous Writing
+44	120	The Newspaper Reporter Corps Surrounding the Yongsan Army Headquarters		News/Information
+44	130	Impressions of the 70th Birthday Celebration of Yun Ch'iho (Left Wing?)	Chu Unsŏng	News/Information
+44	131	The Best Russian Books are Russian		News/Information
+44	140	Yŏŭido Aviation School, What is This Only School on the Peninsula Like?		News/Information
+44	141	Notice of Thanks / Apology Notice		Notice/Editor's Postscript
+44	150	Two Major Commentaries		Editorial/Article
+44	151	Company Announcement		Notice/Editor's Postscript
+44	160	Sad History of Beautiful Women's Misfortune, The Tragic Love of Katyusha Yi Wŏrhwa	Nogŭi Tongja	Memoir/Reminiscence
+44	170	Dozens of Virgin Nuns Who Shaved Their Heads to Become Monks Meditate and Practice Asceticism in the Male-Prohibited Andong Female Monk Quarters of An'guk-dong, Seoul		News/Information
+44	180	Account of Imprisonment in Vladivostok Prison	Muhak Sanin	Memoir/Reminiscence
+44	190	Unofficial Tales: Sŏ Hwadam	Sin Inbŏm	Literary Miscellaneous
+44	200	Survey Report on the Husbands of Famous Women		Miscellaneous Writing
+44	210	Writers and the Speed of Their Writing		News/Information
+44	220	Guide to Hot Spring Resorts		Miscellaneous Writing
+44	230	Scenic Spots for Mountain and River Excursions		Miscellaneous Writing
+44	240	Samch'ŏlli Color Plate		Miscellaneous Writing
+44	250	Watching Ch'oe Sŭnghŭi's Dance......	Ku Wangsam	Literary Criticism
+44	260	Conditions for My Ideal Groom Candidate, Proposed by Young Ladies of a Certain Girls' High School Graduating Class in Seoul		Survey/Questionnaire
+44	270	Bonuses and the Suffering of a Young Couple	Yi Sŏgu	Literary Miscellaneous
+44	280	Samch'ŏlli Special Report	Ch'angnangja	News/Information
+44	290	Study of Ch'unwŏn (3)	Kim Tongin	Literary Criticism
+44	300	Missed Writers, P'osŏk and Sŏhae	Min Pyŏnghwi	Memoir/Reminiscence
+44	310	Catching the Spring Moon	Yohan	Poetry
+44	320	The Spring Water Alone	Yohan	Poetry
+44	330	The Departed Love	Chŏng Inbo	Poetry
+44	340	Song of the Hometown	Kim Ansŏ	Poetry
+44	350	Golden Lawn	Sowŏl	Poetry
+44	360	I Want to Go	Yi Ŭnsang	Poetry
+44	370	Three Stanzas of Sea Songs	Yang Chudong	Poetry
+44	380	Wandering Beijing	O Sangsun	Poetry
+44	390	Night Train	Yŏsu	Poetry
+44	400	Spring Rain	Cho Un	Poetry
+44	410	In Front of the Assembly Hall (Poem Sent to Lady Hwasŏng)	P'albong	Poetry
+44	420	Passing the Koguryŏ Castle Site	Sŏksong	Poetry
+44	430	Seagull	Chŏng Chiyong	Poetry
+44	440	To My Bedroom	Yi Sanghwa	Poetry
+44	450	Tranquility	Wŏlt'an Pak Chonghwa	Poetry
+44	460	Lament	Kim Myŏngsun	Poetry
+44	470	(Untitled poem from the collection)	Han Yongun	Poetry
+44	480	Voice of a Ghost	Yi Injik	Novel/Fiction
+44	490	Kasil	Yi Kwangsu	Novel/Fiction
+44	500	Im Kkŏkjŏng	Hong Myŏnghŭi	Novel/Fiction
+44	510	Prosecutor's Office Waiting Room	Yŏm Sangsŏp	Novel/Fiction
+44	520	Paettaragi	Kim Tongin	Novel/Fiction
+44	530	Baptism of Earth	Sŏnghae Yi Iksang	Novel/Fiction
+44	540	Mountain Goat	Hoewŏl Pak Yŏnghŭi	Novel/Fiction
+44	550	Fire	Hyŏn Pinghŏ	Novel/Fiction
+44	560	Mulberry Leaves	Tohyang	Novel/Fiction
+44	570	Photograph	Chŏn Yŏngt'aek	Novel/Fiction
+44	580	Escape Account	Ch'oe Sŏhae	Novel/Fiction
+44	590	Naktong River	Ch'oe Chŏngwŏn	Novel/Fiction
+44	591	Apology and Gratitude		Notice/Editor's Postscript
+45	010	Samch'ŏlli Secret Room, The Korean Black chamber		News/Information
+45	011	Branch Office Recruitment		Notice/Editor's Postscript
+45	020	Tension Between the Two Major Camps of Christianity and Cheondoism, Trends among 30 Million Believers and the New Leadership		Survey/Questionnaire
+45	030	Lost Territory Recovery Movements of Defeated Nations, Tibet, Xinjiang, and Mongolia	Kim Kyŏngjae	News/Information
+45	040	Lost Territory Recovery Movements of Defeated Nations, Jewish "Zionism" and Far East Nation-Building Movements	Hong Yangmyŏng	News/Information
+45	050	Lost Territory Recovery Movements of Defeated Nations, Post-War German Strategy - The Saar Plebiscite Issue and League of Nations Mandates -	Ko Yŏnghwan	News/Information
+45	060	Cultural Examination of the Origins of the Korean Nation	Kim Myŏngsik	Editorial/Article
+45	070	Short Essay on Korean Newspaper Editorials, Reading the Various New Year Editorials	Hwang Uk	Editorial/Article
+45	080	Parting Ways with the YMCA and Heading to India	Former General Secretary of the Korean Central YMCA Sin Hŭng'u	Literary Miscellaneous
+45	090	Entering a New Life	Na Hyesŏk	Literary Miscellaneous
+45	100	Portraits of Patriots Who Saved the Motherland		Editorial/Article
+45	110	Resolution of Korean Students in America, From the Eastern Conference		Editorial/Article
+45	120	Storm Clouds Over Asia	American Military Commentator Steele	Editorial/Article
+45	130	Tumultuous Journey to Northern Manchuria	Wŏn Sehun	Travelogue
+45	140	View on the Leadership Change in Cheondoism (New Faction), The December Party Congress and New Power Distribution	Namak Sanin	News/Information
+45	150	The Governor-General and the Prisoner		Miscellaneous Writing
+45	160	Female Orators and Miscellaneous Thoughts	U Pongun	News/Information
+45	170	Samch'ŏlli Salon		Miscellaneous Writing
+45	180	Pilgrimage to Scenic Spots	Sin Rim	Travelogue
+45	190	Evening Courtroom Tales, The Trial of the Seven Bishops	Lawyer Sin T'aet'ak	Editorial/Article
+45	200	Sad History of Beautiful Women's Misfortune, The Flower That Fell Amid Tears: Ch'oe Hyanghwa	Hongŭi Tongja	Literary Miscellaneous
+45	210	Paradise for Tuberculosis Patients: Haeju Sanatorium		News/Information
+45	220	Collection of Obsessive Love in China	Yang Paekhwa	Literary Miscellaneous
+45	230	Bizarre Travels Through Ports of Various Countries, South America's "Rio Port"	Hong Unbong	Travelogue
+45	240	Health Regimen During Pregnancy	Sŏk Igyŏng	Editorial/Article
+45	250	Writers' Wives Shedding Tears of Blood		News/Information
+45	260	Moving Friendship		News/Information
+45	270	Holding a Cigarette Between One's Lips		Miscellaneous Writing
+45	280	Women of the Three Dynasties		Editorial/Article
+45	290	Visit to "Koma Village", Scenery Outside Tōkyō City	Yi Hagin	Travelogue
+45	300	German Youth's Motherland Revival Movement	Chang T'aegyŏng	Editorial/Article
+45	310	Account of Passing the Bar Exam After Studying Under Hardship, Shōwa 9 Passer	Pak Ch'anil	Memoir/Reminiscence
+45	320	Italian Art Travelogue (Continued from Previous Issue)	Chŏngwŏl	Travelogue
+45	330	Tale of a Wise Judge, A Strange Incident During King Yŏnsan's Reign	Yun Paengnam	Literary Miscellaneous
+45	340	Study of Ch'unwŏn (4)	Kim Tongin	Literary Criticism
+45	350	Writer Study	Kim Ansŏ	Literary Criticism
+45	360	Establishment of a New National Literature	Chungkong	Literary Criticism
+45	361	Samch'ŏlli Salon		News/Information
+45	370	Selection of Masterpiece Popular Songs		Poetry
+45	380	Masterpiece Plays Performed by Various Theater Troupes		Play/Scenario
+45	390	Naktong River	Ch'oe Chŏngwŏn	Novel/Fiction
+45	400	Notice/Editor's Postscript		Notice/Editor's Postscript
+46	010	Samch'ŏlli Secret Room (The Korean Black Chamber)		News/Information
+46	011	Company Announcement		Notice/Editor's Postscript
+46	020	Overview of Korean People's Leaders, Never in Decades Have Such Talents Gathered in the Peninsula's Lands as Today	Hong Yangmyŏng, Kim Kyŏngjae, Yi Chongnin, Kim Ch'angje, Kim Hangggyu, Kim Pyŏngno, Chu Yohan, Hong Sŏn'sik, Yi Yongsol, Sŏ Chŏnghŭi, Kim Pyŏngsŏn	Editorial/Article
+46	030	The Peninsula's Thought Judges and Prosecutors, Through the High, Appeals, and District Courts	Kim Pyŏngno	News/Information
+46	040	Significance of the Chinese Soviet Capital Ruijin's Abandonment, Merely a Strategic Shift	Ch'angsan Hagin	Editorial/Article
+46	041	Newly Established Branch Office		Notice/Editor's Postscript
+46	050	The "Active Faith Group" That Declared 21 Articles		News/Information
+46	060	The Growing Power of the Cheondoism Old Faction, Merger with the O Yŏngch'ang Faction Takes Shape	Pungnŭng Hagin	News/Information
+46	070	Recent Movements of Figures, Czechoslovakian President Masaryk		News/Information
+46	080	Siberia and Yi Tonghwi	Kwŏn Tongjin, Wŏn Sehun, Hong Yangmyŏng	Memoir/Reminiscence
+46	090	Oh Blue Heaven, Please Return My Beloved Child	Yi Kwangsu	Literary Miscellaneous
+46	100	Oh Beloved Child Who Departed	Hŏ Yŏngsuk	Literary Miscellaneous
+46	110	Notice of Thanks / Apology Notice	Samch'ŏlli Company	Notice/Editor's Postscript
+46	120	Chronicle of Emperors, King Injo Chapter, His Reign of Many Hardships and Upheavals and Various Sagacious Virtues	Mokch'un Hagin	Literary Miscellaneous
+46	130	Thoughts of a Comrade	Chŏng Ch'ilsŏng	Literary Miscellaneous
+46	140	Elegy for a Beauty Robbed of Her Youth		Literary Miscellaneous
+46	150	Ningguta and Dongjingcheng, Tumultuous Journey to Northern Manchuria	Wŏn Sehun	Travelogue
+46	160	Hanyang, Seoul, Kyŏngsŏng, Looking Back at 20 Years of Change	Yu Kwangnyŏl	Memoir/Reminiscence
+46	170	Biographical Novel, Business World Phenomenon Pak Hŭngsik	Sach'ŭngnu Kŏsa	Novel/Fiction
+46	180	The Professors of Great Ewha Blooming Brilliantly on Sinch'on Hill, Ewha Female Faculty Lineup	Kim P'allyŏn	News/Information
+46	190	Speech of an Orator	Chu Unsŏng	News/Information
+46	200	Sad History of Beautiful Women's Misfortune, The Literary World's Famous Flower Who Died Young: Miss Song Kyewŏl	Hongŭi Tongja	Literary Miscellaneous
+46	210	Current Thoughts on the Music Scene	Ku Wangsam	Literary Criticism
+46	220	Gentlemen and Ladies Identity Survey		Miscellaneous Writing
+46	230	Writers' Western Clothes, Shoes, Hats		Miscellaneous Writing
+46	240	Old Tales of Old People, New Tales of New People, Yi Tonghwi of the Myŏngdong Village Era Who Walked 90 Ri at Night		Memoir/Reminiscence
+46	250	Looking Up to the Pioneers, Great Elders in History	An Chaehong, Sŏl T'aehŭi, Yi Tonhwa, Kim Ch'angje, Sin Hŭng'u, Hŏ Hŏn, Chŏng In'gwa, Yŏ Unhyŏng, Pang Ŭngmo, Song Chin'u, Ch'a Sangch'an, Yi Kwangsu, Pak Ch'anghun	Survey/Questionnaire
+46	260	Account of Revival After the Great Hwasin Fire	Agyangnu	News/Information
+46	270	The New Woman, Love, and Views on Chastity	Ch'oe Chŏnghŭi	Editorial/Article
+46	280	Study of Ch'unwŏn (5)	Kim Tongin	Literary Criticism
+46	290	Visit to Tolstoy's Hometown	Moscow University Ch'oe Haksŏng	Travelogue
+46	300	Regarding the Masterpiece Collection		Notice/Editor's Postscript
+46	310	Masterpiece Poetry Collection (2)		Poetry
+46	320	Mouse Story	Minch'on Yi Kiyŏng	Novel/Fiction
+46	330	Tale of a Great Bandit	Yun Paengnam	Novel/Fiction
+46	340	Tragic Song of the Monk's Cell	Ch'oe Sangdŏk	Novel/Fiction
+46	350	Lecturer Kim and Professor T	Yu Chin'o	Novel/Fiction
+46	360	Before and After the Flood	Pak Hwasŏng	Novel/Fiction
+46	370	New Meaning	Chang Hyŏkchu	Novel/Fiction
+46	380	Having Planted the Tree	Sanghŏ Yi T'aejun	Novel/Fiction
+46	390	Pig	Yi Hyosŏk	Novel/Fiction
+46	400	Mother and Daughter	Chang Tŏkcho	Novel/Fiction
+46	410	Old Bachelor	Pang In'gŭn	Novel/Fiction
+46	420	Scar	Han Int'aek	Novel/Fiction
+46	430	Publishing the March Issue		Notice/Editor's Postscript
+47	010	Samch'ŏlli Secret Room The Korean Black chamber		News/Information
+47	020	Record of Emperor Sunjong's Royal Study Mates, (-Together with the History of the Crown Prince's Sigangwon-)	Ch'angnang Kaek	News/Information
+47	030	Son Pyŏnghŭi, Leader of Two Million Believers	Kwŏn Tongjin	Memoir/Reminiscence
+47	040	Ten Years of the Yi Sangjae Era	Ku Chaok	Memoir/Reminiscence
+47	050	The Tuesday Society of the Kim Ch'an Era	Kim Kyŏngjae	Memoir/Reminiscence
+47	060	Record of Friendships	Song Chin'u	Memoir/Reminiscence
+47	070	Germany's Bomb Declaration Shaking Europe	Ham Sanghun	News/Information
+47	080	The Patriotic Army of Great Germany Defending the Motherland	German General Staff Announcement	News/Information
+47	090	The Motherland Revives (German Deposed Emperor Kaiser)		Editorial/Article
+47	100	Platforms of Various Political Parties		News/Information
+47	110	Theory of Friendship Between Sexes: Record of a Beautiful Brother and Sister	Na Hyesŏk	Literary Miscellaneous
+47	120	Eloquence and Chat	Sin Pulch'ul	Editorial/Article
+47	130	Account of Visiting King Tanjong's Tomb, Changnŭng	Kim Sŏngmok	Travelogue
+47	140	Korean Society and Adult Education Theory	Pak Indŏk	Editorial/Article
+47	150	Comprehensive View of Korean Rice Control (Current Countermeasures and Autonomous Management Plan)	Pak Yongnae	Editorial/Article
+47	160	The Comeback of Venizelos, Father of Modern Greece, 71-Year-Old Revolutionary Fighter		News/Information
+47	170	Excerpts on the World Situation		Editorial/Article
+47	180	King of Misrule Yŏnsan'gun, Chronicle of Emperors Part 2, -Hanyang's Royal Energy Declined From This Time-	Mokch'un Hagin	Editorial/Article
+47	190	To Korean Women, Seeing European and American Women, To Peninsula Women	Na Hyesŏk	Editorial/Article
+47	200	The Art and Love Life of a Diva	Company Special Correspondent Kim Yŏsan	News/Information
+47	210	The Three-Person Female Monk Troupe Seeking Alms, Wandering the Streets of Seoul...	Kim P'allyŏn	News/Information
+47	220	Historical Tales and Unofficial Stories		Literary Miscellaneous
+47	230	Beauties of Sŏdo (P'yŏngan Province) and Yŏngnam (Kyŏngsang Province)	Yun Paengnam	Literary Miscellaneous
+47	240	Study on Artificial Contraception Methods	Sŏk Igyŏng	Miscellaneous Writing
+47	250	Recent Feelings	Chŏng Ch'ilsŏng	Literary Miscellaneous
+47	260	How Much Profit Does Film Make?		Literary Criticism
+47	270	Virgins at Maturity and Menstruation	Sŏk Ŭnhŭi	Editorial/Article
+47	280	On the Great Writer Chekhov	Russian Critic Chukovsky	Literary Criticism
+47	290	The Death of a Young Lady and a Newspaper Reporter	Kim Ŭrhan	Memoir/Reminiscence
+47	300	Account of a Strange Incident at the Power Plant	Kim Ŭrhan	Memoir/Reminiscence
+47	310	Lyric Poet Heine and Love		Literary Miscellaneous

@@ -1,0 +1,300 @@
+47	320	Record of Your Wife's Academic Level Ranking		News/Information
+47	330	Scenery of the Rich's Villa Area, Sŏngbuk-tong Area		News/Information
+47	340	Collection of Love Letters between Mr. Yi Kwangsu and Ms. Hŏ Yŏngsuk		Literary Miscellany
+47	350	Sad History of a Beauty Cut Down in Her Prime, Ah Ah It's Better to Return, Famous Actress Yi Kyŏngsŏl	Hongŭi Tongja	Novel/Fiction
+47	360	Music Criticism	Ku Wangsam	Literary Criticism
+47	370	Navy of Old Korea	Puk'ansanin	Editorial/Article
+47	380	Graves of Tokyo Literati	Nosŏng	Travelogue
+47	390	Poets and Tasteful Pursuits	Kim Ch'iwŏn	Literary Criticism
+47	400	Rampant International Spy Network	Chang T'aegyŏng	News/Information
+47	410	The Sacred Medical Profession Demanded by the Times, P'yŏngyang Electro-Medical School Anyone Can Learn At		News/Information
+47	420	Bizarre Tour of Various Ports: Marseille Port, France	Hong Unbong	Travelogue
+47	430	Collection of Chinese Love Obsessions	Yang Paekhwa	Literary Miscellany
+47	440	Ch'unwŏn Study (6)	Kim Tongin	Literary Criticism
+47	450	Account of a Literary Life	Yŏm Sangsŏp et al.	Memoir/Reminiscence
+47	460	Diary of a Madman	Lu Xun, China	Novel/Fiction
+48	010	Samch'ŏlli Secret Room, The Korean Black chamber		News/Information
+48	020	Collapse of the Old Civilization, Construction of a New Civilization: After Seeing Tokyo After Twenty Years	An Chaehong	Literary Miscellany
+48	030	Korean Culture, the Masses, and Newspapers: Discussion on the Editorial Policies of the Three Major Newspapers		Survey/Questionnaire
+48	040	My View on "Department Stores and Chain Stores"	Pak Hŭngsik	Editorial/Article
+48	050	Kyŏngp'o Summer Evening Gathering	Sop'a Han Chunsŏk	Poem
+48	060	Summer Day Boat Trip to Ch'ŏndo	Sop'a Han Chunsŏk	Poem
+48	070	Good Economy and the Future of the Financial World	Pak Yŏngch'ŏl, President of Chosŏn Commercial Bank	Editorial/Article
+48	080	Songdo	Sop'a Han Chunsŏk	Poem
+48	090	Hamhŭng Scenic Tour Group's Pleasant Outing to Oksong-dong	Sop'a Han Chunsŏk	Poem
+48	100	Urgent Notice to All Dear Readers!		Notice/Editorial Postscript
+48	110	Sending the Ever-Victorious Army on an Expedition to Shanghai: Physical Education and Competition	Yŏ Unhyŏng	Editorial/Article
+48	120	The Global Importance of the Philippine Problem	Kim Yaksu	Editorial/Article
+48	130	Honeymoon Trip Amidst Fresh Greenery		Memoir/Reminiscence
+48	140	German Attitude and the European Political Situation	Pyŏn Sŏngnyŏl	Editorial/Article
+48	150	Japan-China Relations and Pro-Japanese Politicians	Hwangha Hagin	Editorial/Article
+48	160	Will the Ten-Sen Store (Ten-Cent Store) Succeed in Korea?	Ch'oe Nam, Former Owner of Tong'a Department Store	Editorial/Article
+48	170	Gorgeous, Mature New Theater Movement in Tokyo	Yi Kise	Literary Miscellany
+48	180	A Beauty's Hair?		Miscellaneous Writing
+48	190	Men's Roundtable Discussion "Critiquing Women"		Interview/Roundtable Discussion
+48	200	Question and Answer Collection		Survey/Questionnaire
+48	210	Liberalism and Views of Parliaments in Various Countries, Mainly Revealing Their Origins	Ch'ŏngsan Hagin	Editorial/Article
+48	220	My Days as a Female Teacher	Na Hyesŏk	Memoir/Reminiscence
+48	230	Sad History of a Beauty Cut Down in Her Prime, Yun Simdŏk of a Heartless World and Feeling Blue Waves	Nogŭi Tongja	Literary Miscellany
+48	240	3,000-Ri Voyage, 15 Years of Flying - My Reflections as an Aviator	Sin Yongswe	Memoir/Reminiscence
+48	250	Pilgrimage to Famous Mountains and Great Temples (1)	Han Yongun	Travelogue
+48	260	A Beauty's Eyebrows		Miscellaneous Writing
+48	270	The Reviving Osan High Common School	Kim Sŏngmok	News/Information
+48	280	Popular Singer's Life, Art, and Love	Yŏsan	Interview/Roundtable Discussion
+48	290	Building Supremacy Battle of the Two Big Chaebols: The Two Great Camps of Hanch'ŏng and Yŏngbo	Pak Sanghŭi	Literary Criticism
+48	300	Kim Chŏngp'il, Released from Prison After 12 Years, Does He Intend to Marry Again?		Interview/Roundtable Discussion
+48	310	Literature of Tragedy		Novel/Fiction
+48	320	The Academic World Flourishing Day by Day	Yi Sukchong	News/Information
+48	330	Poetic Talent of Female Poets		Poem
+48	340	Maxims and Famous Sayings		Miscellaneous Writing
+48	350	News from the Tokyo Music Scene	H. R. ima	News/Information
+48	360	How Much Do Children Resemble Their Parents?	Chŏng Sŏkt'ae, German Doctor of Medicine	Editorial/Article
+48	370	Pharmacist's Unpalette	T'aeyang	News/Information
+48	380	Actresses with Salaries Higher Than the President's		Miscellaneous Writing
+48	390	Samch'ŏlli Social Room		Miscellaneous Writing
+48	400	This Summer's Fashion Trends		Miscellaneous Writing
+48	410	Cheju Island with Boundless Cool Flavors	Kwŏn Tŏkkyu	Literary Miscellany
+48	420	A Person's Heart		Miscellaneous Writing
+48	430	If You Connect the Blood Vessels		Miscellaneous Writing
+48	440	A Peacock's Feathers		Miscellaneous Writing
+48	450	The Talent of Smiling/Laughing		Miscellaneous Writing
+48	460	Great Master Wŏnhyo (Anecdote of a High Monk)	Kim T'aehap	Literary Miscellany
+48	470	They Say 100 Million People Watched		Miscellaneous Writing
+48	480	Introduction to a New Business for an Intellectual Youth with Small Capital		Miscellaneous Writing
+48	490	How Does Department Store Crime Happen?		Miscellaneous Writing
+48	500	View on Korean Film Directors	Sŏ Kwangje	Literary Criticism
+48	510	Price List (Joke)		Miscellaneous Writing
+48	520	Treasured Mirror of Medicine (Life, Disease, Health)	Pak Ch'anghun, Doctor of Medicine, Former Professor at Kyŏngsŏng Medical College, Former Lecturer at Kyŏngsŏng Imperial University Medical School	Miscellaneous Writing
+48	530	Thank You Gift for Being Elected/Selected		Miscellaneous Writing
+48	540	Scene at Yŏnghŭng School (Reformatory for Delinquent Youths)	Nam Chŏnggwan	News/Information
+48	550	Discussion on Rational New Family Life	Song Oksŏn	Editorial/Article
+48	560	Regarding Parasites That Harm Children's Nutrition	Sŏk Yigyŏng	Editorial/Article
+48	570	Ch'unwŏn Study (7)	Kim Tongin	Literary Criticism
+48	580	My Love / Our Lord	Manhae Han Yongun	Poem
+48	590	White Ink (and 1 other)	Karam Yi Pyŏnggi	Poem
+48	600	Prose Poem - Disturber of the Flower Garden	Yi Ŭngsu	Poem
+48	610	Early Summer Essay, Waiting for the Oriole	Yi Muyŏng	Literary Miscellany
+48	620	Nostalgic Old Scenery of the East Sea, A Passage from an Early Summer Diary	Han Int'aek	Literary Miscellany
+48	630	Intersection of Ideas and Ink, Brief Thoughts of Early Summer	Hong Hyomin	Literary Miscellany
+48	640	Songdo Beach Where White Gulls Drift	Sin Im	Literary Miscellany
+48	650	Hometown	Chirikov (Author), Pinghŏ (Translator)	Novel/Fiction
+48	660	Hugo and the Pantheon		Miscellaneous Writing
+48	670	Thanks and Apology		Notice/Editorial Postscript
+49	010	Samch'ŏlli Secret Room (The Korean Black chamber)		News/Information
+49	020	Rare Scandal in the Peninsula's Press and Academic Circles: Truth and Criticism of the Chosŏn Ilbo vs. Tong'a Ilbo Conflict		Editorial/Article
+49	021	What Relation Does It Have to the Whole?	Kwŏn Tongjin	Editorial/Article
+49	022	Regarding the Multi-faceted Conflict Pitting the Two Newspapers Against Each Other	Wŏn Sehun	Editorial/Article
+49	023	My View on the Various Aspects of That Tactic	Chŏng Ch'ilsŏng	Editorial/Article
+49	024	What Benefit Does It Give to the World?	Sin Hŭng'u	Editorial/Article
+49	025	Alas, Torn into Three or Four Pieces	Yu Chint'ae	Editorial/Article
+49	026	Proposing the Revival of the Mumyŏnghoe (Nameless Society)	Yi Chongnin	Editorial/Article
+49	027	Attacking the Private Interest Nature of a Public Instrument	Yi Yŏng	Editorial/Article
+49	028	Keep the Public Pledge to the People	Hwang Uk	Editorial/Article
+49	030	Urgent Company Notice	Samch'ŏllisa Editorial Department	Notice/Editorial Postscript
+49	040	Record of Friendships	Hŏ Hŏn	Memoir/Reminiscence
+49	050	Portraits of Giants Planning a Comeback	Ch'angnang Kaekki	Interview/Roundtable Discussion
+49	060	Self-Reflection	Sop'a Han Chunsŏk	Poem
+49	070	Record of a Beauty Sleeping Alone in an Empty Room		Interview/Roundtable Discussion
+49	080	Recent Good Deeds of Philanthropists		News/Information
+49	090	Famous Generals and This One Battle	Kwŏn Tŏkkyu, Yu Kwangnyŏl, Yi Kwangsu	Literary Miscellany
+49	091	Urgent Notice to All Dear Readers of Samch'ŏlli!!		Notice/Editorial Postscript
+49	100	Crisis of the Nazi Regime	Kim Myŏngsik	Editorial/Article
+49	110	Discussion on Heroes and Great Men	Chu Unsŏng	Editorial/Article
+49	120	Sad History of a Beauty Cut Down in Her Prime, Kang Myŏnghwa for Whom Love Was Long and Life Was Short	Ch'ŏng'ŭi Ch'ŏsa	Miscellaneous Writing
+49	130	Popular Singer's Art, Private Life, and Love	Yŏsan	Interview/Roundtable Discussion
+49	140	Nine Years Wandering Between Life and Death - My Prison Diary -	Yi Sut'ak	Memoir/Reminiscence
+49	150	Where Have the Young Scholars Graduated from Kyŏngsŏng Imperial University Gone?		Editorial/Article
+49	160	Account of Visiting a Moscow Film School	Pak Ŭlla	News/Information
+49	170	Commerce and Character	Sin T'aehwa	Memoir/Reminiscence
+49	180	Secret Operations at Britain's Singapore Naval Base Aiming at the East		News/Information
+49	190	Japanese Political Parties and Figures as Seen by the Soviet Union		News/Information
+49	200	From Death Sentence to Acquittal - Account of Defending and Saving from Death -	Sim Sanggyun, Defense Attorney for the Yi Sut'ak Case	Memoir/Reminiscence
+49	210	Love Affair of an American Young Lady Who Crossed the Pacific		News/Information
+49	220	Global Leap of "Boxing Korea", Visiting the Oriental Boxing Hall Headed by Hwang Ŭlsu		News/Information
+49	230	Treasured Mirror of Medicine - Life, Disease, Health (2), Collection of Popular Practical Prescriptions	Pak Ch'anghun, Doctor of Medicine	Miscellaneous Writing
+49	240	Good Medicines and Methods for Eternal Youth and Long Life	Yi Yŏngjun, Doctor of Medicine	Miscellaneous Writing
+49	250	Green Shade Flooding the Ground	Sin Im	Literary Miscellany
+49	260	The Art of Seduction at the Beach		Miscellaneous Writing
+49	270	Where Did the Sad Mood of Arirang Come From?		Literary Miscellany
+49	280	Views on Love of World-Famous Actresses	Claudette Colbert	Literary Miscellany
+49	290	Thousand-Ri Scenery of the Western Province - Via Songdo to Paekch'ŏn -	Kim Sŏngmok	Travelogue
+49	300	Samch'ŏlli Comics		Comic/Cartoon
+49	310	Notice to the Alumni of Posŏng College		Editorial/Article
+49	320	Notes from Listening to Mr. Sin Pulch'ul's Comic Talk: The Generous Husband	A Reporter	Miscellaneous Writing
+49	330	Folktale - Kim Ch'i and the Waterman	Sin Inbŏm	Miscellaneous Writing
+49	340	Beautiful "Announcers" - Female Announcers of Kyŏngsŏng Broadcasting Station -		Interview/Roundtable Discussion
+49	350	King T'aejo's Boyhood	Pak Sanghŭi	Literary Miscellany
+49	360	University Life Boiling with the Blood of Youth		Memoir/Reminiscence
+49	370	Literature - Ch'unwŏn Study (8)	Kim Tongin	Literary Criticism
+49	380	Literature - Poems		Poem
+49	390	Literature - Notes on Folk Art	Son Chint'ae	Literary Miscellany
+49	400	Literature - Wolf	Chang Hyŏkchu	Novel/Fiction
+49	401	Thanks and Apology		Notice/Editorial Postscript
+50	010	Samch'ŏlli Secret Room The Korean Black chamber		News/Information
+50	020	Political Upheaval and Fires of War Shaking All of East Asia	Kim Kyŏngjae, Hong Yangmyŏng, An Pyŏngju	Editorial/Article
+50	030	My View: "Chiang Kai-shek, Gandhi, Trotsky" - Are These Three Figures Now Figures of Past History, or Is a Comeback Expected?		Survey/Questionnaire
+50	040	A Millionaire's View on One Million Won	Ch'angnang Kaek	Interview/Roundtable Discussion
+50	050	Short Colorful Record	Sŏksil Kŏsa	Miscellaneous Writing
+50	060	Heard Record of Nature and Life		News/Information
+50	070	Myself and My Record of Friendships	An Chaehong	Memoir/Reminiscence
+50	080	The Philippines Near the Inauguration of the First President	O Yŏngsŏp (Special Contributor from Headquarters), Manila, Philippine Union College	Literary Miscellany
+50	090	Heard Record of Nature and Life,		News/Information
+50	100	Earnest Call for Securing the Public Nature and Establishing the Foundation of the Pojŏn Academy	Chu Ik	Editorial/Article
+50	110	Cultivating the Mind (and 2 others)	Hwagok Yun Iksŏn	Poem
+50	120	Account of a New Woman Widowed in Her Youth	Recorded by Paengno Kongja	News/Information
+50	130	Heard Record of Nature and Life		News/Information
+50	140	Beauty's Heartbreak Blood and Tears Record, Wandering Female Poet Kim Myŏngsun, Heartbroken Three Times	Recorded by Ch'ŏngnosae	News/Information
+50	150	Is Japan the Power of the East?	Tagore, India	Editorial/Article
+50	160	Essay While Reading History, Historical Research on Koguryŏ	Kim Myŏngsik	Editorial/Article
+50	170	Heard Record of Nature and Life		News/Information
+50	180	Those Who Became Millionaires Like Kim Kwangju: The Rise and Fall History of Ch'oe Ch'anghak, Pang Ŭngmo, Kim T'aewŏn, Pak Yong'un, Yu Yŏngsŏp, Ku Ch'angjo, Pan Poktong		News/Information
+50	190	Let's Learn the Magnificent National Character, Discussion on Eradicating Narrow-minded and Clumsy Petit Bourgeois Mentality	Chu Unsŏng	Editorial/Article
+50	200	How Can One Live Long?	Chŏng Sŏkt'ae, German Doctor of Medicine	Miscellaneous Writing
+50	210	Novel - Sorrow of the Black Man	Beecher Stowe (original author), Yi Kwangsu (first translation)	Novel/Fiction
+50	220	Four Songs/Ballads	P'ain	Poem
+50	230	Short Colorful Record	Sŏksil Kŏsa	Miscellaneous Writing
+50	240	Portraits of Beauties Gathering at Seoul Beauty Salons, Half-Hour Scene at Han-Ch'ŏng Beauty Salon	Kim P'allyŏn	Miscellaneous Writing
+50	250	Film, Scene of Recording Ch'unhyang Chŏn, The First Talkie Motion Picture in Korea		News/Information
+50	260	All-Korea Store Owners United, Hwasin Chain Store Owners Association		Editorial/Article
+50	270	View of Modern Architecture in Great Kyŏngsŏng	Pak Killyong	Literary Miscellany
+50	280	How to Cure Tuberculosis?	Yun Ch'ihyŏng, Doctor of Medicine	Editorial/Article
+50	290	Is It a Sin to Give Oneself During Engagement?		Survey/Questionnaire
+50	291	New Post Office Box Established		Notice/Editorial Postscript
+50	300	Film - A Dog of Flanders	Original Author: Ms. Ouida, Screenplay: Ainsworth Morgan, Director: Edward Sloman	Literary Miscellany
+50	310	Masterpiece Film - Lake of the Bride	Original Author: Bickiham?, Screenplay: Marc Allégret?, Director: Marta Allégret?	Literary Miscellany
+50	320	Popular Singer's Love, Art, and Private Life		Interview/Roundtable Discussion
+50	330	Business Figures Who Succeeded Barehanded		News/Information
+50	340	Scene of Ms. Chŏng Hunmo's Record Recording, at the Okeh Recording Room		News/Information
+50	350	Secret History of the German Emperor's Emissary Instigating Unrest in India, Record of the German General Staff's Secret Maneuvers During the Great War Revealed After Twenty Years		News/Information
+50	351	Company Notice		Notice/Editorial Postscript
+50	360	Private Life of the Queen of the Netherlands		News/Information
+50	361	Short Colorful Record	Sŏksil Kŏsa	Miscellaneous Writing
+50	370	Moscow's New Women and New Culture, Meeting Discussing Moscow Then and Now		Interview/Roundtable Discussion
+50	380	Treasured Mirror of Medicine: Life, Disease, Health (3), Collection of Popular Practical Prescriptions	Pak Ch'anghun, Doctor of Medicine, Former Professor at Kyŏngsŏng Medical College, Lecturer at Kyŏngsŏng Imperial University	Miscellaneous Writing
+50	390	Notes from Listening to Mr. Sin Pulch'ul's Comic Talk - The Generous Husband	A Reporter	Social Commentary
+50	400	The 3,000-Year Imperial Line of the Ethiopian Imperial Family	Haksan Sansa	Editorial/Article
+50	410	Ch'unwŏn Study (9)	Kim Tongin	Literary Criticism
+50	420	Three Short Songs (Posthumous Manuscript)	Kim Sowŏl	Poem
+50	430	Friend	Yohan	Poem
+50	440	Miracle	Kim Kirim	Literary Miscellany
+50	450	Poems of the Indian Poetess Naidu	Translated by Ansŏ	Poem
+50	460	Longing Affection for My Love (and 4 others)	P'ain	Poem
+50	470	Album of Blue Mountains and White Clouds	Wŏlt'an	Literary Miscellany
+50	480	Monologue Record	Ch'uho	Literary Miscellany
+50	490	Viewing Nasturtiums	Yŏm Sangsŏp	Literary Miscellany
+50	500	Story of a House	Yi T'aejun	Literary Miscellany
+50	510	Our Folk Songs and Literature	Yang Myŏng in Siberia	Editorial/Article
+50	520	Jing Ke, Five-Act Opera	Ouyang Yuqian, China (Author), Yang Paekhwa (Translator)	Play/Scenario
+50	530	Watermill	Tohyang	Novel/Fiction
+50	540	Films of Rising China		Literary Miscellany
+50	550	Story of a Beauty and a Jewel Ring		Miscellaneous Writing
+50	560	Thanks and Apology for Wrongdoing		Notice/Editorial Postscript
+51	010	Samch'ŏlli Secret Room The Korean Black Chamber		News/Information
+51	020	Joke/Funny Story		Miscellaneous Writing
+51	030	Imminent Great War and the Far East Situation =Roundtable Discussion=		Interview/Roundtable Discussion
+51	040	Italy's Current Military Strength		News/Information
+51	041	Company Notice		Notice/Editorial Postscript
+51	050	25th Anniversary of Government Administration, Commemorative Ceremony for the Sixth Governor-General Held Grandly		News/Information
+51	060	Let's Not Be Sad People, "At the Welcome Night for Athlete Sŏ Yŏn'gwŏn"	Yun Ch'iho	Literary Miscellany
+51	070	Short Colorful Record	Sŏksil Kŏsa	Poem
+51	080	Heard Record of Nature and Life		News/Information
+51	090	Impressions of Visiting the Philippines of the New President and New Republic, Thoughts on Friends in the Philippine Islands	Sin Hŭng'u	Travelogue
+51	100	Some Thoughts on the Nation/Ethnicity	Yi Kwangsu	Editorial/Article
+51	110	A Millionaire's View on One Million Won	Ch'uyŏp Kaek	Interview/Roundtable Discussion
+51	120	New Form of North China Regime: Substantive Protection, Formal Buffer	Kim Myŏngsik	Editorial/Article
+51	130	Wives of Key Figures in the Nationalist Government		News/Information
+51	140	World War Seen Centered on Japan-Russia	Anonymous High Official, US State Department	Editorial/Article
+51	150	Remembering Mr. Sŏ Chaep'il Sojourning in America: Young Officer of the Reform Faction, Advocate of the Spirit of Self-Reliance	An Chaehong	Memoir/Reminiscence
+51	151	Company Notice		Notice/Editorial Postscript
+51	160	Pioneer of the Han'gŭl Movement, Mr. Chu Sigyŏng	Yi Yunjae	Memoir/Reminiscence
+51	170	Joint Statement of Ms. Song Qingling and Mr. Chen Youren		News/Information
+51	180	Thirty Rhymes Chanting Returning to Nothingness, Old Manuscript from Imsin Year (Written at Ch'ŏrwŏn Mountain Villa)	Och'on Sŏl T'aehŭi	Poem
+51	190	Popular Singer's Art, Private Life, and Love		Interview/Roundtable Discussion
+51	191	Samch'ŏlli Kyŏngsangnam-do General Branch Office (New Establishment Notice)		Notice/Editorial Postscript
+51	200	Discussion on the Chastity of Single Women	Na Hyesŏk	Literary Miscellany
+51	210	Rare Customs of the World		Miscellaneous Writing
+51	220	"Alt Heidelberg" Which Sang the Elegy of Youth		Literary Criticism
+51	230	Record Singer Popularity Poll		Survey/Questionnaire
+51	240	First Publication of New Writers' Works		Notice/Editorial Postscript
+51	250	Book Market Survey Report, Appearing in Book Markets like Hant'o, Imun, Pangmun, Yŏngch'ang, etc.		News/Information
+51	260	Koreans Who Read Western Books, Visiting Maruzen Company (Bookstore)		News/Information
+51	270	Account of Visiting the Newly Completed Five-Story Hwasin Department Store		News/Information
+51	280	Account of Visiting the Korea Music Research Institute	Ch'ojŏk Tong	News/Information
+51	290	Essay While Reading History: The Great Wall and Great Koguryŏ	Kim Myŏngsik	Literary Miscellany
+51	300	"Napoleon" and Korea	Kim Tongsong	Literary Miscellany
+51	310	Discussion on Appointing Geniuses, Overthrow the Incompetent and Inactive!	Chu Unsŏng	Editorial/Article
+51	320	Seeking the Longed-for Homeland	Ch'oe Sŭnghŭi	Interview/Roundtable Discussion
+51	330	Famous Baritone Singer Mr. Kim Munbo	Kim Yŏsan	Interview/Roundtable Discussion
+51	340	Why Did I Step onto the World Stage?	Sŏ Chŏnggwŏn	Memoir/Reminiscence
+51	350	Critique of Building Construction in Great Kyŏngsŏng	Pak Killyong	Literary Criticism
+51	360	Children's Story: Strange Dream	Ch'oe Inhwa	Literary Miscellany
+51	370	Beauty's Heartbreak Blood and Tears Record (2), Hyangnang Who Left Behind Sad Folk Songs	Chŏng Ikchin	Literary Miscellany
+51	380	Touring the Eight Views of Kwansŏ, From P'yŏngyang to Yaksan Tongdae (Part 1)	Kim Sŏngmok	Travelogue
+51	390	Seoul Song	Sin Pulch'ul	Poem
+51	400	Impressions of Fengtian (Mukden)	Kim T'aejun	Travelogue
+51	410	Kisaeng of Old and Kisaeng of Today Seen from an Artistic Perspective	Yun Paengnam	Literary Miscellany
+51	420	Female Party Members and the Rising Atmosphere of Moscow, Meeting Discussing Moscow Then and Now (Continued)		Interview/Roundtable Discussion
+51	430	Beauty Exercise Methods Modern People Must Know		Miscellaneous Writing
+51	440	Mr. Sin Pulch'ul's Comic Talk: The Generous Husband	Mr. Sin Pulch'ul	Literary Miscellany
+51	450	Clear Autumn Literature		Poem
+51	460	Discussion on the Mainstream of Korean Literature, Responses from Various Authors Regarding the Literature We Should Have in the Future		Survey/Questionnaire
+51	470	The Position of Old Tolstoy in Russian Literary History, Commemorating 25 Years After His Death	Ham Taehun	Literary Criticism
+51	480	May You Attain Rebirth in Paradise	Kim Ansŏ	Poem
+51	490	Please Have a Drink	Kim Ansŏ	Poem
+51	500	Poet	Kim Ansŏ	Poem
+51	510	Mountain Rain	Yi Pyŏnggi	Poem
+51	520	Traveler/Wayfarer	Yŏsu	Poem
+51	530	Sending You Off on the Night Train	Pak Yongch'ŏl	Poem
+51	540	Arm Pillow Song	Kim Sowŏl	Poem
+51	550	The Pest Germ of the Literary World	Chang Hyŏkchu	Literary Criticism
+51	560	Album of Blue Mountains and White Clouds (2)	Wŏlt'an	Travelogue
+51	570	Four Topics on Parking Lots/Stations	Paek Sin'ae	Literary Miscellany
+51	571	Company Notice		Notice/Editorial Postscript
+51	580	Tohyang Seen as a Writer, Remembering His Works	Min Pyŏnghwi	Literary Criticism
+51	590	Jing Ke, Complete Five Acts (Continued)	Ouyang Yuqian, China (Author), Yang Paekhwa, Korea (Translator)	Play/Scenario
+51	600	Masterpiece Sappho-	Cyrille Părutchel? (Author)	Novel/Fiction
+51	610	Playing with Love and Death	Romain Rolland (Author)	Novel/Fiction
+51	620	Thanks and Apology		Notice/Editorial Postscript
+52	001	(Untitled - Domestic Section)		Miscellaneous Writing
+52	010	Samch'ŏlli Secret Room, Domestic and International Situation		News/Information
+52	020	Thoughts on the Figures Gathered at the Paris Peace Conference	Yŏ Unhong	Memoir/Reminiscence
+52	030	Once-in-a-Thousand-Years War Boom is Here! How to Make Money in This Situation	Yi Kŭnjong, Yi T'aero, Ch'oe Sangjong, Chŏng Sekwŏn	Editorial/Article
+52	040	Enshrinement of Chōsen Jingū, 10th Anniversary Ceremony Held Grandly	Samch'ŏllisa	News/Information
+52	041	New Thousand Character Classic		News/Information
+52	050	East Asian Peace and the Future of Japan-China	Chiang Kai-shek	Editorial/Article
+52	060	War in Italy and Germany's Attitude	Ham Sanghun	Editorial/Article
+52	070	A Millionaire's View on One Million Won, Mr. Pak Hŭngsik Leaping from Business to Business	Ch'uyŏp Kaek	Interview/Roundtable Discussion
+52	080	Mr. Ch'oe Sŏnik Who Put 300,000 Won into Newspapers	Samch'ŏllisa	Interview/Roundtable Discussion
+52	090	Chinese Revolution and the Future of Japan-China	Wang Zhaoming	Editorial/Article
+52	100	International Public Law in Wartime	Sin T'aekak	Editorial/Article
+52	110	Writers' Letters to 100,000 Dear Readers	Yi Kwangsu, Pak Hwasŏng, Kim Malbong, Pang In'gŭn, Sim Hun, Yi T'aejun, Yi Muyŏng	Literary Miscellany
+52	120	Seeking Modern "Heroes of Chang'an" (Roundtable Discussion)	Paengnak Sŏnin	Interview/Roundtable Discussion
+52	130	Seeking the Girls' School on the Street: Hwasin Girls' School with Forbidden Love, 140 Virgins in Uniform	Samch'ŏllisa	News/Information
+52	140	Account of an Exploration Flight to the Sacred Site, Paektu Mountain	Kim Tong'ŏp	Travelogue
+52	150	Reviving Academic City, Osan	Kim Kihong, Standing Director of Osan High Common School	Editorial/Article
+52	160	Portraits of World Billionaires		News/Information
+52	170	Golden Deluxe Edition: Ms. Kim Chŏngsuk Who Still Owns Over Sixty Plots as a Widow Guardian (?), The 300,000 Won Gold Mine Queen	Yŏsan	Interview/Roundtable Discussion
+52	180	Comic Talk: Language That Isn't Language	Sin Pulch'ul	Literary Miscellany
+52	190	What is the National Reform Society?	Kim U'gŭm	Editorial/Article
+52	200	Explanation/Defense of Wanggŏm	Kim Myŏngsik	Editorial/Article
+52	210	General Overview of the Newspaper World in Various Countries	Puk'an Hagin	Editorial/Article
+52	220	Why Did P'yŏng'an Department Store Collapse? Rumors of 300,000-400,000 Won Loss from Huge Capital		News/Information
+52	230	Heard Record of Nature and Life		Miscellaneous Writing
+52	240	Sightseeing Account of Kyŏngsŏng Sanatorium Surrounded by Green Pines	Sŏngdaebongin	Travelogue
+52	250	Account of the Hardships of Composers and Lyricists Who Produced the Ten Great Singers, the "Nightingales of the Street"		Memoir/Reminiscence
+52	260	Touring the Eight Views of Kwansŏ, From the Underground Diamond Tongyong Cave to Myohyang Mountain (2)	Kim Sŏngmok	Travelogue
+52	270	Poems and Songs		Poem
+52	280	Famous Female Singers Seen by a Male Singer	O T'aesŏk	Literary Criticism
+52	290	Famous Male Singers Seen by a Female Singer	O Pich'wi	Literary Criticism
+52	300	Several Topics on One-Sided Love	Sin Im	Literary Miscellany
+52	310	Song of the Volga Boatmen (Seeking Famous Songs and Records)	Hong Chongin	Literary Miscellany
+52	320	Roster of Noblewomen on the Streets of Seoul	Yi Sŏgu	Literary Miscellany
+52	330	Art Deluxe Edition, The 50,000 Won "Tong'yang Theater," a New Theater Newly Built by Korean Hands		News/Information
+52	340	Children's Story, The Painter and the Carpenter	Ch'oe Inhwa	Novel/Fiction
+52	341	Company Notice		Notice/Editorial Postscript
+52	350	Artistic Talk of a Kŭm Master		Memoir/Reminiscence
+52	360	P'yŏngyang, Capital of Singers	Kim Sangnyong	Literary Miscellany
+52	370	Scene of Invincible Sŏ Chŏnggwŏn's Great Victory, Defeating the Spanish Champion		News/Information
+52	380	General Lecture on Literature, Samch'ŏlli Literature Lecture Series (1st Opening)	Yi Kwangsu	Editorial/Article
+52	390	Literature and Thought (Extremely Simple Descriptive Outline), Samch'ŏlli Literature Lecture Series (1st Opening)	Chŏng Insŏp	Editorial/Article
+52	400	Lecture on Novels, Samch'ŏlli Literature Lecture Series (1st Opening)	Yŏm Sangsŏp	Editorial/Article

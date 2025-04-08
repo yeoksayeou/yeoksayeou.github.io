@@ -1,0 +1,81 @@
+**Header Section:**
+Magazine Title: 삼천리
+Publication Date: 1936년 12월 01일
+Article Title: 하리웃드에서 (From Hollywood)
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+**Body Text Translation:**
+From Hollywood
+
+Chaplin's Marriage—Established with Miss Goddard
+
+Are they actually married? Are they just living together? The matter between the King of Comedy, Chaplin, and the star actress of "Modern Times," Miss Paulette Goddard, has become a topic of conversation in Hollywood. When Mr. Randolph Churchill, the son of the former British Chancellor of the Exchequer, Sir Churchill, visited Chaplin's residence upon invitation, both individuals stated, "Actually, we have been married for over a year now." The reason for not announcing this publicly is that Miss Goddard wished to avoid entering the film world as Mrs. Chaplin, wanting to declare it after her fame had risen considerably.
+
+Rare Comedians Amidst Divorce Chaos
+
+Among the rare comedy duo known from films, Laurel and Hardy, a divorce lawsuit arose because Laurel sent a letter praising his former wife to his current wife. He received an order from the judge to pay $750 monthly alimony. On top of that, his former common-law wife, Mrs. Mae, also filed a similar lawsuit, bringing him to the brink of collapse. His partner, Mr. Hardy, comforted him saying, "Don't be discouraged. I am definitely bracing myself." While it's good they go out holding hands to cultivate a magnanimous spirit, this Mr. Hardy's wife, Mrs. Myrtle, also appeared at the Hollywood Superior Court, filed for divorce stating, "Mr. Hardy returned home after 4 AM carrying whiskey," and is demanding $2,500 monthly alimony, thoroughly confounding the paradise-like comedy duo. <179>
+
+**Summary**
+
+This article reports on two pieces of Hollywood gossip from 1936. First, it confirms the secret marriage between Charlie Chaplin and Paulette Goddard, explaining they kept it quiet for Goddard's career. Second, it details the simultaneous divorce proceedings faced by the comedy duo Laurel and Hardy; Laurel was sued by both his current wife and a former common-law wife, while Hardy was sued by his wife for his late-night drinking, with both facing significant alimony demands. From a historical perspective, the article reveals the keen interest of the Korean public (or at least the readership of *Samch'ŏlli* magazine) in international, particularly American, celebrity culture and news during the Japanese colonial period. The phonetic transcriptions of Western names and terms also offer linguistic data on how foreign words were adopted into Korean at the time.
+
+**Named Entities**
+
+차푸링	차플린	Charlie Chaplin
+고다―드孃	고다드 양	Miss Goddard (Paulette Goddard)
+하리우트	할리우드	Hollywood
+英吉利	영길리	England
+자아―지루卿	처칠 경	Sir Churchill (Winston Churchill)
+린도루후 자―지루씨	랜돌프 처칠 씨	Mr. Randolph Churchill
+로레루	로렐	Laurel (Stan Laurel)
+하데이	하디	Hardy (Oliver Hardy)
+메― 부인	메이 부인	Mrs. Mae (Mae Laurel)
+마―도루부인	머틀 부인	Mrs. Myrtle (Myrtle Hardy)
+하리우드	할리우드	Hollywood
+
+**Glossary**
+
+하리웃드에서	할리우드에서	From Hollywood (older spelling/transcription)
+차푸링	채플린	Chaplin (older transcription)
+고다―드孃	고다드 양	Miss Goddard (孃: respectful suffix for unmarried woman, archaic)
+잇는가	있는가	Is/Are there? (older spelling)
+女優	여우	Actress
+놉하진	높아진	Become high/risen (older spelling/form)
+십다고	싶다고	Wants to (older spelling/form)
+離婚	이혼	Divorce
+珍優	진우	Rare actor/comedian (珍: rare, 優: actor)
+알녀진	알려진	Known (older spelling)
+兩人	양인	Two people
+前부인	전부인	Former wife
+서신	서신	Letter
+현재부인	현재부인	Current wife
+바더슬	받았을	Received (older spelling)
+바덧고	받았고	Received and... (older spelling)
+그우에	그 위에	On top of that (older spelling)
+겟날	옛날	Old days, formerly (older spelling)
+내연의 처	내연의 처	Common-law wife
+실신할 지경	실신할 지경	Point of fainting/collapse
+동무	동무	Comrade, friend, partner (used here for partner in comedy duo)
+벼르고 있다	벼르고 있다	To be bracing oneself, waiting determinedly
+호연한 기분	호연한 기분	Magnanimous/unconstrained spirit or feeling
+양성하기	양성하기	To cultivate, nurture
+도라왓다	돌아왔다	Returned (older spelling)
+極樂	극락	Paradise (used ironically here for the duo)
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제12호
+발행일	1936년 12월 01일
+기사제목	하리웃드에서
+기사형태	잡저
+
+하리웃드에서
+차푸링의 結婚 고다―드孃과 成立
+대체 결혼하고 잇는가? 서로 동거만 하는가? 喜劇王 차푸링과 「모단다임쓰」의 주연 女優, 뽀―렛트, 고다트―孃 간의 문제가 하리우트에서 화제꺼리로 되여 잇는데, 當地를 방문한 英吉利 前藏相 자아―지루卿의 令嗣, 린도루후 자―지루씨가 차푸링邸에 초대를 바더슬 때 2인이 다 「실은 우리들은 결혼한 지가 벌서 1년이상이 됩니다.」라고 말하였다. 이것을 사회에 발표치 아니함은 고다―도孃이 차푸링부인으로써 영화계에 나오는 것을 피하고 상당히 명성이 놉하진 후에 성명하고 십다고.
+
+離婚亂中의 珍優
+
+영화에서 알녀진 珍優 로레루, 하데이 兩人중 로레로가 前부인을 찬미한 서신을 현재부인에게 보낸 것으로써 이러난 이혼소송은 판사로부터 월액 750불의 부양료 지불명령을 바덧고 그우에 겟날 내연의 처 메―부인으로부터도 같은 소송을 제기해서 실신할 지경인데, 동무인에 하데이君은 「낙담하지 말라. 내가 꼭 벼르고 있다」 이라 위안하고 손에 손을 잡고 호연한 기분을 양성하기 위해서 나가는 것은 좋지만 이 하―데이군의 부인 마―도루부인도 하리우드 상급재판소에 출두해서 「하―데이군은 오전 4시 지나 우이쓰기―을 안고 도라왓다」 라고 또 이혼소송을 제기해서 매월 2,500도루의 부양료를 청구 極樂 珍優 兩人을 단단히 혼내고 있다.＜179＞
+＜179＞

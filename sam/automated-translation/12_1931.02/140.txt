@@ -1,0 +1,324 @@
+**Header Section:**
+Magazine Title: 三千里 제12호
+Publication Date: 1931년 02월 01일
+Article Title: 農民問題論綱 序論 (Outline of the Peasant Problem: Introduction)
+Author: 張日星 (Chang Il-sŏng)
+Article Type: 논설 (Editorial/ 논설)
+
+**Body Text Translation:**
+
+Outline of the Peasant Problem: Introduction
+						Chang Il-sŏng
+
+This article was originally contributed in the spring of 1928 to be published in the third issue of the magazine "Chosŏn Undong" (朝鮮運動), which was published in Tokyo (東京). However, before I could finish editing that issue, I was suddenly arrested as a suspect in a certain incident (某事件) and forcibly sent back to Korea (朝鮮). Therefore, it is only today, after more than three years have passed, that I have discovered this old manuscript in a dusty desk drawer. This piece can be seen, to some extent, as a creative work of labor. Especially in this land where such fundamental treatises are scarce, letting it simply become waste paper feels like an unbearable burden for me as the editor regarding the author's efforts. Also, looking at the content, although there is a sense of being somewhat outdated due to the passage of several years, its grasp of the concept of the peasant problem is sufficient to offer considerable suggestions in some aspects. Thus, after making some additions, deletions, and revisions, I present it here. This is because I am confident that it has sufficient value as material for critique. Of course, it is clear today that in Comrade Chang Il-sŏng's past strategic and tactical theories, there were more points to be rejected than accepted. However, this stemmed from errors due to confusion in the field of consciousness (意識野) arising from an exceptional display (乃至) regarding the national question at that time, or from the specific circumstances of the movement's development in Korea. The view that sees this particularly as an epoch-making error (劃意的인 오류) deviating from the class perspective is inappropriate, as even this short treatise by the author, who possesses a broad perspective of Marxist studies, seems to show a glimpse of this. Just as there is no absolute truth, there is no one who commits only absolute errors. The essence of evaluating (品騰) theoretical distortions lies in comparing and judging the fundamental position of the theory and the theorist. Who is without fault (人誰無過)? Only failing to cleanly liquidate the past is the height of differentiating superiority and inferiority. Recent newspapers report that this author has fallen into the unfortunate Chinese White Terror (中國 白色데로) and is wandering between life(?) and death(?) in the jaws of the beastly X (野X的). The logic of history is truly ironic (皮肉的). Who does not feel nostalgia (誰無懷古之感)?
+January 19, 1931 Hong Yang-myŏng
+
+Just as the agrarian problem universally holds the most important position in the proletarian movements of all backward countries—colonies and semi-colonies—so too in the proletarian movement of the agrarian nation of Korea (朝鮮), the peasant problem holds decisive importance.
+However, there is no room here to develop a concrete discussion of how or why this problem is important. Therefore, in this introduction, I intend to directly pose the problem, define the scope of the problem, and also, regarding the development and resolution of the problem—that is, the trend of the movement—limit myself to pointing out only general laws.
+
+I. Posing the Problem
+
+How should we pose the peasant problem, one of the important tasks we face?<34>
+—Of course, we see that countless diverse views and policies regarding this problem have been discussed and proposed by economists of various schools, social reformers, policymakers, and bourgeois politicians.
+However, attempting to introduce and critique each of these to ascertain the correct conclusion—the posing of the problem we require—is a nearly futile endeavor. Therefore, it would be natural for me here to directly delve into the study of the agricultural theory of Marx and Engels, the initial posers of the problem we are concerned with. So, how was the problem posed by Marx and Engels? The posing of the agricultural theory by Marx and Engels can be summarized as follows:
+
+First, the point of explaining the commodification (商品化) of agricultural products (農業生産物).
+
+Marx never distinguished agricultural production as commodities from industrial products. In analyzing commodities, he repeatedly used wheat (麥) as an example, and in explaining the labor process, he used agricultural products as raw materials, thereby clarifying the inseparable relationship between agricultural commodities and industrial products.
+For Marx, anything possessing use-value that could be exchanged for money, the expression of value, was indistinguishable as a commodity. Thus, he foresaw that certain production and exchange relations in agriculture would become capitalized.
+(Refer to Capital (資本論), Vol. 1, Chapters 1, 2, 3)
+
+Second, the point of discovering surplus value (剩餘價値) in land capital (土地資本).
+
+Marx did not overlook the fact that the exploitation of surplus value through the capitalist mode of production also occurs in land capital, i.e., capital invested in agriculture. In other words, through consideration of the specific production and exchange relations arising from investment in agriculture, he clearly demonstrated the state where a portion of the production from land capital is acquired by the landowner as surplus value—the fact that agriculture becomes subjugated to capitalist production conditions.
+
+Third, the point of investigating the essence (本質) of land capital—rent (地代).
+
+He developed the theory from the modern forms of land ownership to the analysis of rent, thereby perfecting the analysis of capital. That is, he elucidated the essence of rent as a part of capital. Therefore, in the system of Capital, the section on Rent (地代篇) is an integral component. In other words, the essence of rent elucidated in the Rent section is an inseparable part of the theory of the immanent laws of motion of capital. The world-historical value of his Rent section truly lies here.
+To summarize the above, in Marx's system, it is clearly stated that agricultural production, as a commodity, is not distinguished from other commodities in exchange relations; that the exploitation of surplus value through land capital is not separated from exploitation relations in other industries; and that rent, as a part of capital, is not an antithesis to general capital. This is a natural conclusion. Thus, the initial posing of the problem was most fundamentally investigated. However, this was a theoretical beginning, and the concrete development of the problem was left as unfinished work, awaiting successors.
+『...It is most regrettable that Heaven did not lend its lifespan to Marx, preventing him from completing the study of Russia's agrarian problem he intended to clarify.』
+This was a passage of lamentation by Engels regarding Marx's Rent section after his death.
+So, who was the successor for its concrete development?
+It was none other than Lenin. Lenin, born in the agrarian nation of Russia, was a suitable successor.
+So, how was the Marxist agricultural theory developed by Lenin?
+Its main points can be summarized as follows:
+1. Analysis and investigation of the aspects and specific forms of capitalist development in agriculture.
+He developed Marx's theory—which elucidated the commodification of agricultural production, the exploitative function of surplus value in land capital, the transition of land ownership relations to modern forms, and the inseparable relationship between rent and capital—and concretely analyzed and investigated the aspects and specific forms of capitalist development in reality.
+(Refer to The Agrarian Question in Russia at the End of the Nineteenth Century, The Development of Capitalism in Russia (published 1899), etc.)<35>
+2. Discovery of the possibility of capitalization regardless of the form of land ownership relations.
+Russia was non-modern in terms of land ownership relations. There were communal forms like the 'Mir' (『밀』) and vast aristocratic estates. The Narodnik (나로드니키一派, People's Party) faction ridiculed Lenin's view of agriculture as 'capitalizing'.
+However, Lenin fiercely attacked them for their petty-bourgeois (小뿌루조아) views. Time was the rightful judge. The correctness of Lenin's view in Russia was completely proven by the success of the revolution.
+3. Concrete development of the relationship between the Proletarian Party and the Peasantry—the policy aspect.
+Russia was an agrarian nation with 70% peasants until the time of the revolution. Uniting the peasants with the workers (勞働者) was a decisive major event that determined victory or defeat on the path to triumph.
+He overcame the opportunistic ridicule of the Kautsky faction and the stubborn prejudice of the 'S.R.s' (『에스·엘』) and succeeded in perfecting the policy aspect. (Refer to Lenin Collected Works Vol. 8, Sano Manabu translation, The Agrarian Question in Russia, and numerous other articles dealing with the peasant and worker problem.)
+However, Lenin's agrarian policy and Russia's current agrarian policy are guided by Engels' theory. The theory regarding this will be omitted here and deferred to a later occasion.
+
+II. Scope of the Problem
+
+In Marx's system, it is a natural consequence that the starting point and the ending point of the problem are always dialectically unified.
+Therefore, even though Marx's agricultural theory developed from the initial posing of the problem—through the commodity nature of agricultural products, specific production and exchange relations based on agricultural investment, and rent analysis—to Lenin's concrete posing of the problem—through the analysis and investigation of the forms and aspects of capitalist development in agriculture, down to the determination and development of the relationship between the proletariat and the peasantry (policy aspect)—it is natural that there should be no difference or distinction in the essence of the problem itself. Therefore, from their posing of the problem, we can discover the method to determine the scope of the problem we should address.
+So, how should we define the scope of the peasant problem in relation to the reality (現實) of Korea?
+It can be considered in two aspects: first, concerning the developmental aspects, production, and exchange aspects of Korean agriculture; second, concerning the peasant movement, i.e., the policy aspect regarding the historical role of peasants in the Korean proletarian movement.
+
+First, the Developmental Aspects, Production, and Exchange Aspects of Korean Agriculture
+
+In dealing with this problem, we must analyze and study it in three parts.
+
+a. Capitalist Developmental Tendency of Korean Agriculture
+
+One can easily perceive how Korean agriculture has developed capitalistically over the 20 years since annexation. The trend of rapid concentration and consolidation (兼倂) in land ownership status, along with all statistics related to agriculture, proves this most clearly. (These numbers are omitted as they are too numerous and cumbersome—Hong Yang-myŏng) Moreover, in recent years, the aspects and specific forms of capitalist development have become even more blatant and concrete. Such capitalist development of agriculture will, of course, be the decisive condition for the class (階級的) differentiation of the agricultural population. This is a point that requires our consideration.
+
+b. Correct Assessment of the Capitalist Development and Progressive Nature of Agriculture
+
+We considered the need to accurately analyze and understand the trend of capitalist development in agriculture based on concrete phenomena and the fact of class differentiation among the agricultural population. However, taking one step further, we must evaluate the progressive, developmental role of the capitalist development of Korean agriculture as a process.
+All petty-bourgeois (小뿌루조아) intellectual classes, merely self-hypnotized by rhetoric about the producing class, underestimate the potential for agricultural development and progress, emphasizing only the aspect of agricultural decline and the proletarianization of peasants. Ultimately, they are nothing more than prejudiced individuals who formalize Marx's agricultural theory.
+We must acknowledge that current Korean agriculture has the potential for further progress and development through capitalization and accordingly evaluate its corresponding specific forms correctly. In other words, we must not underestimate the fact that Korean agriculture is becoming further rationalized<36> and organized under the dominance of finance capital. To ignore the trend of rationalization and organization and only emphasize the process of decline is to echo the prejudice of the Russian Narodniks (인민파) regarding the agrarian problem.
+One should pay attention to the large-scale land improvement projects, the development of irrigation associations, the implementation of plans for increased rice production, the Agricultural Association Ordinance (農會令), and the middle-peasant-oriented policies under the Industrial Cooperatives Ordinance (産業組合令), etc., which are being actively implemented by the authorities recently. (This is an observation encompassing all of Korea.)
+
+c. Commodification of Agricultural Production
+
+Originally, agriculture has an extremely complex developmental process in itself. Thus, viewed from one side, agriculture becomes an obstacle to the commodity market. Those who see only this aspect emphasize that agriculture inevitably XX [likely 'declines' or 'is ruined'] under the capitalist order. However, as mentioned before, this is merely a prejudice that sees only one side of things. We cannot overlook the fact of the commodification of agricultural production, which plays a more potent role.
+Moreover, the agrarian problem in colonies becomes even more explicit due to this specificity.
+In recent Korean agricultural economy, the commodification of products and the capitalization of exchange are emerging as prominent facts. They are concentrated and large-scale.
+The large-scale export (移出) of rice (米), the main agricultural product of Korea, is one example. Peasants produce rice. However, they do not produce it as their own foodstuff. They produce rice as a commodity, i.e., to sell (賣). Accordingly, the buying and selling of rice have enough power to sway the market. So, where does the rice go? Rice is exported to Japan (日本), the provider of essential daily goods for the peasants. Not only rice, but all agricultural products are exported purely as commodities to Japan, and in return, daily consumer goods are imported. The trade figures between Korea and Japan attest to this. The fact that major export items are limited to raw materials like rice, cotton, raw silk cocoons, cowhides, etc., while import items are led by cotton cloth and other daily consumer goods, i.e., processed goods, makes this clear. Agricultural production becomes commodified. The destination of these commodities is Japan. And daily consumer goods are brought back. (Numerical tables are omitted as they are cumbersome and outdated, thus containing errors—Hong)
+Based on the above, we can demonstrate how Korean agriculture is capitalizing.
+
+Second, the Role of the Peasant Movement (Policy Aspect)
+
+We must consider the peasant movement in two phases in the process.
+
+a. The Process of National Cooperative X-Line [likely 戰線 - Front], i.e., Peasant Policy of the Current Class
+
+How should we define the peasant movement in the process of (11 characters omitted here - original text)?
+In the current class, how should the energy of the peasants be mobilized, utilized, guided, and transformed? The problem concentrates here. This should be addressed only after properly critiquing the current peasant movement.
+However, since this is the most important issue, I intend to discuss it separately.
+
+Third. Peasant Policy in the Worker-Peasant Cooperative X-Line [likely 戰線 - Front] after the Establishment of Proletarian Hegemony (푸로레다리안 헤게모늬)
+
+This point also I intend to discuss in detail later.
+Based on the scope of the problems listed above, I believe one can grasp the general outline of how the peasant problem will develop in the future. If one were to discuss these problems further, each could become a substantial thesis independently.
+The purpose of this main text is limited to revealing the general outline of the problem.
+Author's note—Having written this in too much haste, I have dealt with a large problem too crudely. However, I ask for the understanding of my comrades and readers, as this writing was done almost out of obligation, unable to refuse my colleague's earnest request. (March 1928) <37>
+
+**Summary**
+
+This article, written in 1928 by Chang Il-sŏng but published in 1931 with a preface by Hong Yang-myŏng, presents a Marxist-Leninist analysis of the peasant problem in colonial Korea. It argues for the decisive importance of peasants in the Korean proletarian movement. Following Marx and Lenin, it discusses the commodification of agriculture, surplus value extraction via land capital, and the inevitable capitalization of Korean agriculture under Japanese rule, criticizing those who only see decline. It highlights the increasing rationalization, organization (e.g., irrigation, cooperatives), and export-oriented nature (especially rice to Japan) of Korean agriculture under finance capital. The article outlines the need to analyze Korea's specific agricultural development and formulate policy regarding the peasants' role, both in the current stage ("national cooperative front") and after establishing proletarian hegemony.
+
+From a historical perspective, the article is significant for its application of Marxist-Leninist theory to the specific conditions of colonial Korean agriculture in the late 1920s. Historians might find the author's insistence on the "progressive" aspects of capitalist development under colonialism (contrasting with simple 'ruin' narratives) and the detailed framing using Marx and Lenin particularly interesting. The editor's preface adds another layer, revealing the political risks faced by leftist intellectuals like Chang Il-sŏng (arrest, reported danger in China) and reflecting internal debates ("past strategic errors," "liquidating the past") within the socialist/communist movement in Korea during that period. The mention of specific Japanese agricultural policies (land improvement, cooperatives, increased rice production plan) provides concrete context.
+
+**Named Entities**
+
+三千里	삼천리	Samch'ŏlli
+張日星	장일성	Chang Il-sŏng
+東京	동경	T'okyo
+朝鮮運動	조선운동	Chosŏn Undong
+某事件	모사건	Mo sagŏn (A certain incident)
+朝鮮	조선	Chosŏn
+洪陽明	홍양명	Hong Yang-myŏng
+맑쓰	마르크스	Marx
+엥겔스	엥겔스	Engels
+資本論	자본론	Chabonnon (Capital)
+로시아	러시아	Rossia (Russia)
+레―닌	레닌	Lenin
+나로드니키	나로드니키	Narodniki
+카우츠키	카우츠키	Kautsky
+에스·엘	에스·엘	Esŭ El (S.R. Party - Socialist Revolutionary Party)
+日本	일본	Ilbon (Japan)
+農會令	농회령	Nonghoe Ryŏng (Agricultural Association Ordinance)
+産業組合令	산업조합령	Sanŏp Chohap Ryŏng (Industrial Cooperatives Ordinance)
+
+**Glossary**
+
+잡지	잡지	Magazine
+발행	발행	Publication
+기사	기사	Article
+논설	논설	Editorial; Treatise
+기고하얏든	기고했던	(Older spelling) Contributed (article)
+용의	용의	Suspicion; Being a suspect
+호송되여	호송되어	(Older spelling) Being forcibly sent/escorted
+구고	구고	Old manuscript
+휴지	휴지	Waste paper
+견듸기	견디기	(Older spelling) Enduring
+隔한	격한	Passed; Separated by (time)
+示唆	시사	Suggestion; Implication
+첨삭	첨삭	Addition and deletion; Revision
+提呈	제정	Presentation; Submission
+전략전술적	전략전술적	Strategic and tactical
+배제할	배제할	To be excluded/rejected
+과시	과시	Exaggeration; Display; Ostentation
+乃至	내지	Or; Ranging from A to B; Even to the extent of
+기인한	기인한	Resulting from; Caused by
+意識野	의식야	Field of consciousness
+혼돈	혼돈	Confusion; Chaos
+劃意的	획기적	Epoch-making; Groundbreaking
+탈각한	탈각한	Deviated from; Shed
+왜곡	왜곡	Distortion
+品騰	품평	(Likely 品評) Evaluation; Critique; Assessment
+要諦	요체	The essential point; The gist
+청산치	청산치	(Older spelling) Not liquidating/settling
+우열	우열	Superiority and inferiority
+白色데로	백색테러	White Terror
+방황함	방황함	Wandering; Roaming
+皮肉적	피육적	Ironic; Sarcastic
+懷古之感	회고지감	Feeling of nostalgia; Reminiscence
+후진국	후진국	Backward country; Underdeveloped nation
+식민지	식민지	Colony
+반식민지	반식민지	Semi-colony
+무산운동	무산운동	Proletarian movement
+농업국	농업국	Agrarian nation
+결정적	결정적	Decisive
+제기	제기	Posing (a question/problem)
+뿌루조아	부르주아	(Older phonetic rendering) Bourgeois
+단도직입적	단도직입적	Directly; Straightforwardly
+단초적	단초적	Initial; Rudimentary
+생산물	생산물	Product; Produce
+상품화	상품화	Commodification
+석명	석명	Explanation; Clarification
+불가분적	불가분적	Inseparable
+토지자본	토지자본	Land capital
+잉여가치	잉여가치	Surplus value
+간과치	간과치	(Older form) Not overlooking
+귀복되는	귀복되는	Becoming subjugated to
+지대	지대	Rent (economic term)
+본질	본질	Essence; Intrinsic nature
+구명	구명	Investigation; Ascertainment
+불감되는	불감되는	Unbearable; Intolerable
+후계자	후계자	Successor
+미필	미필	Unfinished
+양상	양상	Aspect; Mode; Pattern
+특수형태	특수형태	Specific form
+현실	현실	Reality
+소뿌루조아적	소부르주아적	(Older phonetic rendering) Petty-bourgeois
+박격하엿다	박격하였다	(Older spelling) Fiercely refuted/attacked
+정당한	정당한	Correct; Just; Rightful
+완명한	완명한	Stubborn; Obstinate
+편견	편견	Prejudice; Bias
+변증법적	변증법적	Dialectical
+추세	추세	Trend; Tendency
+겸병	겸병	Annexation; Consolidation (of land)
+노골화	노골화	Becoming blatant/explicit
+진보적	진보적	Progressive
+수사	수사	Rhetoric
+몰락	몰락	Downfall; Ruin; Collapse
+푸로레타리아화	프롤레타리아화	Proletarianization
+금융자본	금융자본	Finance capital
+합리화	합리화	Rationalization
+수리조합	수리조합	Irrigation association
+산미증식	산미증식	Increase of rice production
+중농적	중농적	Middle peasant-oriented
+이출	이출	Export (older term)
+이입	이입	Import (older term)
+실증	실증	Actual proof; Empirical evidence
+헤게모늬	헤게모니	(Older phonetic rendering) Hegemony
+수립	수립	Establishment
+노농	노농	Worker-peasant
+윤곽	윤곽	Outline; Contour
+계시함	계시함	Revealing; Indicating
+총총히	총총히	Hastily; Hurriedly
+조폭	조폭	Crude; Rough
+간탁	간탁	Earnest request
+새책	새책	Fulfilling one's duty (often perfunctorily)
+양해	양해	Understanding
+
+
+---------------------------
+
+
+잡지명	삼천리 제12호
+발행일	1931년 02월 01일
+기사제목	農民問題論綱 序論
+필자	張日星
+기사형태	논설
+
+農民問題論綱 序論
+						張日星
+이 글은 1928년 봄 東京에서 발행하든 잡지 「朝鮮運動」 제3호에 실기 위하야 기고하얏든 것인데 나는 그 호의 편집을 종료치 못하고 돌연히 某事件의 용의로 朝鮮으로 호송되여 버렷슴으로 3有餘 年이 경과한 금일에야 비로소 이 等의 구고를 묵은 책상속에서 발견케 된 바 이 一文은 어느 정도까지 창의적 勞作이라고도 볼 수 잇고 특히 이러한 기본적인 논책이 희소한 이 땅에 잇서서는 그대로 휴지가 되고 말게 하는 것은 필자의 노력에 대하야 편집자로서 견듸기 어러운 부담과 가티 생각도 되고 또한 내용으로 보아서도 여러 해를 隔한 만큼 다소 후퇴의 감이 잇기도 하지마는 농민문제의 개념을 포착한 점에서 일방에 또한 상당한 示唆가 될만한 점도 충분함으로 약간의 첨삭 수정을 가하야 이에 提呈해본다. 비판의 재료로서는 충분한 가치가 잇슴을 확신하기 때문이다. 물론 동지 張日星의 과거의 전략전술적 이론에 잇서서는 취할 점보담도 배제할 점이 만엇슴은 오늘에 와서 확연하지마는 그것은 그 당시의 민족문제에 대한 예외적 과시 乃至 운동발전의 朝鮮的 특수사정 등에서 기인한 意識野의 혼돈에 의한 오류로써 특히 계급적 견지를 탈각한 劃意的인 오류처럼 보는 견해의 타당치 안음은 맑쓰학의 광범한 시각을 가진 필자의 이 짧은 논책에 의하야서도 그 片鱗을 볼 수가 잇는 것 가티 생각된다. 절대적 진리가 업슴과 가티 절대적 오류만을 범하는 자도 업나니 이론상의 왜곡을 品騰하는 要諦는 또한 이론과 이론가의 기본적 입장을 비교 판단함에 잇슬 것이다. 人誰無過? 과거를 깨끗이 청산치 안음만이 오즉 우열의 극일 뿐. 최근의 신문지는 이 필자가 우미한 中國 白色데로에 걸려 野X的의 항에서 생? 사? 간에 방황함을 전한다. 역사의 논리란 참말로 皮肉적이다. 誰無懷古之感.
+1931년 1월 19일  洪陽明
+
+모든 후진국―식민지 반식민지의 무산운동에 잇서서 농업문제가 보편적으로 가장 중요한 지위를 가지게 되는 것과 가티 농업국인 朝鮮의 무산운동에 잇서서도 농민문제는 결정적 중요성을 가진 것이다.
+그러나 여긔에 잇서서는 이 문제가 얼마나 또 어떠케 중요하다는 구체적 논술을 전개할 만한 여유는 가지지 못하엿슴으로 이 서론에 잇서서는 바로 문제의 제기, 문제의 범위를 규정하고 또 문제의 전개 해결 즉 운동의 趨向에 대하야서도 다만 일반적 법칙을 지적함에 끗치고저 한다.
+
+一. 問題의 提起
+
+우리는 우리가 당면한 과업 중의 一重要問題인 농민문제를 如何히<34> 제기할가?
+―물론 이 문제는 각파의 경제학자들에 의하야 또는 사회개량가 밋 정책가들에 의하야 또 뿌루조아정치가들에 의하야 헤일 수 업슬 만큼의 각종 다양의 견해와 정책이 논구되고 제창된 것을 본다.
+그러나 이것을 일일히 소개비판하고 이에 의하야 정당한 決論―우리가 요구하는 문제의 제기를 구명하랴는 것은 徒勞에 갓가운 企圖임으로 이곳에 잇서 나는 단도직입적으로 우리가 문제할 문제의 단초적 제기자 맑쓰·엥겔스의 농업이론의 연구로 들어가는 것이 당연할 것이다. 그러면 맑쓰·엥겔스에 의하야 문제는 如何히 제기되엿는가? 맑쓰·엥겔스의 농업이론의 제기는 左와 如히 요약할 수가 잇다.
+
+第一 農業生産物의 商品化를 釋明한 點
+
+맑스는 일즉이 농업적 생산을 상품으로서 공업생산품과 구별을 두지 안이하엿다. 상품을 분석함에 잇서서 누누히 麥을 실례로 하야 노동 行程을 설명함에 잇서 원료인 농산품을 실례로 하야 공업생산품의 상품과 불가분적 관계는 명백히 하엿다.
+맑쓰에 잇서서는 가치의 表章인 화폐와 교환할 수 잇는 사용가치를 가진 것은 상품으로서 구별되지 안는 것이엿다. 그리하야 농업의 일정한 생산교역 관계가 자본주의화라는 것을 예견한 것이다.
+(資本論 第1卷 第1, 2, 3章 參照)
+
+第二 土地資本의 剩餘價値를 發見한 點
+
+맑쓰는 자본주의적 생산방법에 의한 잉여가치의 착취를 토지자본 즉 농업상에 投한 자본에서도 행하는 사실을 간과치 안엇다. 환언하면 농업상의 투자의 결과로 발생하는 일정한 생산적 교역관계에 대한 고찰로써 토지자본에 의한 생산의 일부분이 잉여가치로써 토지소유자에게로 收得되는 상태―농업이 자본주의적 생산조건에 歸服되는 사실을 극명한 것이다.
+
+第三 土地資本―地代의 本質을 究明한 點
+
+토지소유의 근세적 형태로부터 지대의 분석에까지 이론을 전개하야 자본분석을 완벽케 하엿다. 즉 자본의 일부분으로서의 지대의 본질을 천명한 것이다. 그럼으로 자본론의 체계에 잇서서 地代篇은 不可分的 關係에 잇는 일구성부분이 되어 잇는 것이다. 다시 말하면 地代篇에서 천명된 지대의 본질은 자본의 내재적 운동법칙론이 일구성부분으로서 불가분적 관계에 잇는 것이다. 彼의 地代篇의 세계사적 가치는 실로 여긔에 잇다.
+이상을 요약하면 맑쓰체계에 잇서서 농업생산도 상품으로서 교역관계에 잇서 다른 상품과 구별이 되지 안는 것과 토지자본에 의한 잉여가치의 착취는 다른 산업상의 착취관계와 분리하지 아니한 것과 자본의 일부분으로서의 지대가 일반 자본과 대립물이 되지 안는 것을 명백히 말한 것이다. 이것은 당연한 결론이다. 이와 가티 문제의 단초적 제기는 가장 근본적으로 구명되엿다. 그러나 이것은 이론적 단초이엿고 문제의 구체적 전개는 未畢의 유업으로써 후계자를 기다리게 되엿다.
+『...유감에 不堪되는 것은 天이 맑쓰에게 명을 빌리지 아니하야 彼의 극명코저 한 ―로시아의 농업문제연구를 완성치 못하게 된 것이다.』
+이것은 엥겔스가 맑쓰 사후에 그의 地代篇에 대한 탄성의 一節이엿다.
+그러면 그 구체적 전개의 후계자는 누구이엿든가?
+그는 다른 사람이 아니라 레―닌이엿다. 농업국인 로시아에서 産한 레―닌은 적당한 후계자엿다.
+그러면 레―닌에 의하야 맑쓰주의의 농업이론은 如何히 전개되엿는가?
+그 요점을 摘起하면
+一. 농업의 자본주의적 발전양상 及 특수형태의 분석구명.
+그는 농업생산의 상품화 토지자본의 잉여가치의 착취작용 토지소용관계와 근세적 형태에로의 변천지대 자본과의 不可分的 관계 등을 천명한 맑쓰이론을 전개하야 자본주의적 발달양상 及 특수형태를 현실에 卽하야 구체적으로 분석구명하엿다.
+(19세기의 로시아의 농업문제. 로시아의 資本主義發達.(1899년 發行) 등 參照)<35>
+二. 土地所有關係의 如何를 勿論하고 資本主義化할 可能性의 발견.
+로시아는 토지소용관계로 보와서 비근대적이엿다. 『밀』과 가튼 공유형태가 잇고 광대한 귀족령이 잇섯다. 나로드니키一派(人民派)는 레―닌의 『資本主義化』라는 『농업』의 견해를 조소하엿섯다.
+그러나 레―닌은 彼等을 小뿌루조아적 견해라고 통렬히 駁擊하엿다. 시대는 정당한 심판자이엿다. 로시아에 잇서서 레―닌의 견해가 정당하다는 것은 혁명의 성공으로서 완전히 증명되엿다.
+三. 푸로레타리아黨과 農民과의 關係―政策的 方面의 具體的 展開.
+로시아는 혁명 당시까지 70%의 농민을 가진 농업국이엿다. 농민을 노동자와 결합시키는 것은 승리의 길에 잇서 승패를 分하는 결정적 중대사건이엿다.
+彼는 카우츠키一派의 기회주의적 조소와 『에스·엘』의 頑冥한 편견을 극복하고 정책적 방면의 완성을 성공하엿다. (레―닌전집 제8권 佐野學 譯 로시아 농업문제 기타 농민과 노동자의 문제를 취급한 다수의 논문참조)
+그런데 레―닌의 농업정책 밋 현재 로시아의 농업정책은 엥겔스의 이론을 지침으로 한 것이다. 이에 대한 이론은 생략하고 後期를 期코저 한다.
+
+二. 問題의 範圍
+
+맑쓰의 체계에 잇서서 언제나 문제의 출발점과 종결점이 변증법적으로 통일이 되여잇는 것은 당연한 결과이다.
+그럼으로 맑쓰의 농업이론이 농업생산품의 상품적 성질, 농업상의 투자에 의한 일정한 생산, 교역관계 及 지대분석으로써 한 문제의 단초적 제기로부터 레―닌의 농업의 자본주의적 발전형태 及 其樣相의 분석구명 乃至 푸로레타리아와 농민과의 관계―정책적 방면의 규정, 展開인 문제의 구체적 제기에까지 발전되엿다 하드래도 문제자체의 본질상 하등의 차이구별이 되지 아니할 것은 물론이다. 고로 우리는 그들의 문제의 제기에서 우리가 문제로 할 문제의 범위를 결정하는 방법을 발견할 수가 잇다.
+그러면 우리는 현실의 朝鮮에 卽하야 농민문제의 범위를 如何히 규정할 것인가.
+그것은 두 방면으로 고찰할 수가 잇스니, 제1은 朝鮮농업의 발달양상, 생산교역방면에 대하야서이오. 제2는 농민의 운동 즉 朝鮮 무산자운동에 잇서서 농민의 역사적 역할에 대한 정책적 방면에 대한 것이 될 것이다.
+
+第一 朝鮮農業의 發達樣相, 生産, 交易方面
+
+이 문제를 취급함에 잇서 우리는 3부분으로 분석하야 연구아니하면 안된다.
+
+가. 朝鮮農業의 資本主義的 發達傾向
+
+朝鮮 농업이 병합 이래 20년간에 잇서서 如何히 자본주의적으로 발전되야 온 것을 용이히 看取할 수 잇슬 것이다. 모든 농업에 관한 통계수자와 토지소유상태가 급속히 집중 兼倂된 추세가 무엇보다도 여실히 증명하고 잇다. (此等 數字는 넘우 煩多함으로 省略―洪陽明) 그런데 최근 수년내에는 자본주의적 발달양상 及 특수형태가 더욱 노골화, 구체화되고 잇다. 이와 가튼 농업의 자본주의적 발달은 농업인구의 계급적 분화의 결정적 조건이 될 것은 물론이다. 여기에 우리의 고려을 要할 점이 잇다.
+
+나. 農業의 資本主義的 發達 及 進步性에 대한 正當한 評論
+
+우리는 농업의 자본주의적 발달경향을 구체적 현상에 卽하야 정확히 분석, 이해를 要할 것과 농업인구의 계급적 분화의 사실을 고려하엿다. 그러나 한거름 더 나아가서 우리는 朝鮮 농업의 자본주의적 발달의 진보적, 발전적 역할을 과정적으로 평가하지 아니하면 안된다.
+일체의 小뿌루조아적 지식계급은 한갓 생산계급적 修辭에 자기최면이 되야 농업의 발전진보적 가능성을 과소평가하야 농업의 몰락과 농민의 푸로레타리아화의 일면만을 고조하고 잇다. 결국 그들은 맑쓰의 농업이론을 공식화하는 편견자에 불과한 것이다.
+현재의 朝鮮 농업은 자본주의화로서 더 진보발전의 가능성이 잇다는 것을 승인하고 딸아 其에 상응한 특수형태를 정당히 평가하여야 된다. 다시 말하면 朝鮮의 농업은 금융자본의 지배하에서 더욱 합리화,<36> 조직화되여 가는 사실을 과소평가하야서는 아니된다. 합리화, 조직화라는 경향을 말살하고 몰락과정만을 고조하는 것은 로시아 나로도닉키(인민파)들의 농업문제에 대한 편견과 異口同曲이 되는 것이다.
+최근 당국에 의하야 적극적으로 실시되고 잇는 대규모의 토지개량사업, 수리조합발달, 산미증식, 계획의 실시, 農會令, 산업조합령에 의한 中農的 정책 등등을 주목할 것이다. (이것은 全朝鮮을 통관하는 관찰이다.)
+
+다. 農業生産의 商品化
+
+원래 농업은 그 자체의 발전 行程이 비상히 복잡한 형태를 가진다. 그리하야 일면으로 보면 농업은 상품시장에 대한 일장애가 된다. 이 일면만을 보는 자는 자본주의적 질서하에서 농업은 필연적으로 XX되는 것을 고조하는 것이다. 그러나 이것은 전술한 바와 가티 사물의 일면만을 보는 편견에 불과한 것이다. 우리는 더 유력한 역할을 가진 농업생산의 상품화의 사실을 간과할 수 업는 것이다.
+더구나 식민지의 농업문제는 이 특수성으로 더욱 노골화하게 되는 것이다.
+최근 朝鮮 농업경제에 잇서서 생산품의 상품화 교환의 자본주의화는 현저한 사실로서 들어나고 잇다. 그것은 집중적이오 대규모적이다.
+朝鮮 농업생산의 大宗인 米의 대규모 移出은 그 일례이다. 농민은 米를 생산한다. 그러나 이것은 자기의 식료품으로서 생산하는 것이 아니다. 팔(賣)기 위하야 즉 상품으로서의 米를 생산하는 것이다. 따러 米의 매매는 시장을 좌우할 만큼 위력을 가시고 잇다. 그러면 米는 어듸로 가는가? 米는 농민의 일상생활상 필수품의 제공자인 日本에로 이출된다. 米 뿐 아니라 모든 농산품이 순연한 상품으로서 日本에 이출되고 그 대신으로 일상생활의 소비상품을 이입한다. 朝鮮과 日本의 무역관계의 數字는 이것을 실증하고 잇다. 이출품의 주요한 것이 米, 면화, 蠶繭生사, 우피, 기타 등 원료품에 국한된 觀이 잇고 이입품은 면포를 首位도 기타 일상소비품, 즉 가공품되는 사실을 보아도 명백한 것이다. 농업생산은 상품화한다. 그 상품의 가는 곳은 日本이다. 그러고 일상소비품을 가저온다. (數字表는 煩多하고 또 오랜 것으로 錯誤가 잇슴으로 省略―洪)
+이상에 의하야 우리는 朝鮮농업이 如何히 자본주의화하고 잇는가를 논증할 수가 잇다.
+
+第二 農民運動의 役割(政策的 方面)
+
+우리는 과정에 잇서서 농민운동을 二期로 分하야 고찰하여야 한다.
+
+가. 民族的 協同X線過程 즉 現階級의 農民政策
+
+우리는 (此間 11字略 - 원문) 과정의 농민운동을 如何히 규정할가?
+현계급에 잇서서는 농민의 에네르기―를 如何히 동원, 이용, 지도, 전화할가? 여기에 문제는 집중되는 것이다. 이것은 현재의 농민운동을 정당히 비판한 후에 비로소 문제로 할 것이다.
+그러나 이 문제는 가장 중요한 문제임으로 別段에 논코저 한다.
+
+第三. 푸로레다리안 헤게모늬 樹立後의 勞農協同X線에서의 農民政策
+
+이 점도 후단에 상논하고저 한다.
+이상에 열거한 문제의 범위의 의햐야 농민문제가 장차 如何히 전개할가 하는 대체의 개념을 파악할 수는 잇슬 줄 안다. 이 문제는 상논하랴 하면 각 문제가 모다 독립적으로 상당한 분량의 논문이 될 수 잇는 것이다.
+본론의 목적은 문제의 대체적 윤곽을 계시함에 그치게 된 것이다.
+필자의 말―넘우나 총총히 집필하게 된 고로 넘우나 粗暴에 갓가웁게 큰 문제을 취급하게 되엿다. 그러나 동지의 懇托을 저버리지 못한 塞責에 갓가운 집필이 된 점에서 同人諸君 及 독자 諸氏의 양해를 빈다. (1928년 3월) <37>
+<34-37>

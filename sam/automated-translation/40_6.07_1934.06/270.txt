@@ -1,0 +1,62 @@
+**Header Section:**
+Magazine Title: 三千里 (Samch'ŏlli)
+Publication Date: 1934년 06월 01일
+Article Title: 내가 서울 女市長된다면? (If I Were to Become the Female Mayor of Seoul?)
+Author: 李善熙 (Yi Sŏnhŭi)
+Article Type: 설문 (Survey/Questionnaire Response)
+
+**Body Text Translation:**
+If I Were to Become the Female Mayor of Seoul?
+						Yi Sŏnhŭi
+
+1. I would summon all the citizens within Seoul and give each one a nutritional injection.
+
+2. I would establish about a hundred "dance halls" and catch everyone, regardless of gender or age, and make them dance.
+
+3. I would prohibit the Salvation Army from marching in groups along the main streets. Because I really dislike seeing it.
+
+4. I would give special treatment to female reporters, and those who violate this would be sentenced to detention. (She is a women's reporter for Kaebyŏk Sa) <59>
+
+**Summary**
+
+Yi Sŏnhŭi, a female reporter for Kaebyŏk Sa, outlines four whimsical policies she would enact if she became the female mayor of Seoul in 1934. These include mass nutritional injections, mandatory dancing in numerous dance halls, banning Salvation Army street marches, and granting special treatment to female journalists under penalty of detention for non-compliance. The article offers a glimpse into the social imagination and concerns of a modern, professional woman in colonial Seoul. Historians might find interest in the blend of modern concerns (public health via nutrition, modern entertainment like dance halls) with authoritarian methods, the commentary on public space (dislike of Salvation Army marches), and the specific focus on the status and treatment of female professionals (journalists), reflecting both the era's social changes and the author's personal perspective.
+
+**Named Entities**
+
+서울	서울	Sŏul
+李善熙	이선희	Yi Sŏnhŭi
+구세군	구세군	Kusegun (Salvation Army)
+開闢社	개벽사	Kaebyŏk Sa
+
+**Glossary**
+
+불너 내여서	불러내어서	Calling out, summoning (Older spelling/form of 불러내어서)
+營養注射	영양주사	Nutritional injection
+딴쓰홀	댄스홀	Dance hall (Loanword, older transcription)
+업시	없이	Without (Older spelling of 없이)
+잡어 내여	잡아내어	Catching (Older spelling/form of 잡아내어)
+행길노	한길로	Along the main street (Dialectal/older form using -노 suffix instead of -로)
+단니지	다니지	Go around, 다니지 (Older spelling of 다니지)
+실흐니까요	싫으니까요	Because (I) dislike it (Older spelling/form of 싫으니까요)
+女記者	여기자	Female reporter
+者	자	Person (Sino-Korean character often used in formal/older texts)
+구류	구류	Detention (Legal term)
+처하지요	처하지요	Will sentence/inflict (Polite, slightly older sentence ending form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제7호
+발행일	1934년 06월 01일
+기사제목	내가 서울 女市長된다면?
+필자	李善熙
+기사형태	설문
+
+내가 서울 女市長된다면?
+						李善熙
+1. 서울 안에 市民을 모조리 불너 내여서 營養注射를 한 대식 주겟서요.
+2. 「딴쓰홀」을 한 백여소에 두고 남녀노소 할 것 업시 잡어 내여 춤을 추게 하지요.
+3. 구세군을 행길노 떼를 지어 단니지 못하게 하겟서요. 아조 보기 실흐니까요.
+4. 女記者에게 특별대우를 하되 이에 위반하는 者는 구류에 처하지요. (氏는 開闢社 婦人 記者)<59>
+<59>

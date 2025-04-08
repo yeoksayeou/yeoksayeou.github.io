@@ -1,0 +1,300 @@
+18	370	Literary Poetry Criticism, "Stream of Consciousness" in "Hongyŏm"	Kim Kirim	Literary Criticism
+18	380	When the Sweet Brier Blooms, at Myŏngsa Simni	Ch'osa	Literary Miscellany
+18	390	Water Mill	Tohyang (Posthumous Manuscript)	Novel/Fiction
+18	400	Thanks and Apologies		Notices/Editor's Postscript
+19	010	The First Mission, On the Occasion of This Magazine's 3rd Year	Kim Tonghwan	Notices/Editor's Postscript
+19	020	Cultural Advancement of the Chosŏn People and the Great National Plan	Shanghai An Ch'angho	Editorial/Article/Essay
+19	030	Far East War Clouds and Great Power Armaments	Yi Sŏn’gŭn, Kim Changhwan	Editorial/Article/Essay
+19	040	Samch'ŏlli Wall Newspaper	Samch’ŏllisa	News/Report
+19	050	Constitutional England's Fascist Political Change	Kim Myŏngsik	Editorial/Article/Essay
+19	060	An Open Letter to Mr. Chang Tŏksu, Hearing the News of His Return to Korea	Ch'angnang'gaek	Editorial/Article/Essay
+19	070	Chosŏn New Economy Construction 3-Year Plan, Overview of the Chosŏn Cooperative Movement	Kim Sŏngsuk	Editorial/Article/Essay
+19	080	The Cooperative Movement for the Next 3 Years	Ham Sanghun	Editorial/Article/Essay
+19	090	Company Notice	Samch’ŏllisa	Notices/Editor's Postscript
+19	100	Current Status and Significance of the Consumer Cooperative Movement	Im Wŏn’gŭn	Editorial/Article/Essay
+19	110	Sad Words from the Old Palace	Yi Chongnin, Yi Yunjae	Literary Miscellany
+19	120	Announcement of Results for Public Recommendation of Chosŏn Ilbo and Tonga Ilbo Presidents		News/Report
+19	130	Announcement of "Samch'ŏlli Unified Color"	Samch’ŏllisa	Notices/Editor's Postscript
+19	140	The Numbers of Chosŏn Laborers	Yi Yŏsŏng	Editorial/Article/Essay
+19	150	Refuting Mr. Yi Kwangsu's "Critique of Kim Sŏngsu"	Yu Kwangnyŏl	Editorial/Article/Essay
+19	160	Wall Newspaper (No. 5)	Samch’ŏllisa	News/Report
+19	170	Critique of British-American System Schools, Hospitals, and Church Activities	O Kyŏngsŏn, Chin Yŏngch’ŏl, Yi Yang, Pak Hŭido	Editorial/Article/Essay
+19	180	The Sky of My Hometown	Scottish Folk Song, P'ain (translation)	Poem/Poetry
+19	190	Secret History of Prince Yi Kang's Border Escape, Joining Hands with Chŏnhyŏp's Chŏng Unbok and Na Ch'anghŏn		Memoir/Recollection
+19	200	"Wall Newspaper" (No. 1)	Samch’ŏllisa	News/Report
+19	210	Cossack Lullaby	Kim Tongjin (translator)	Poem/Poetry
+19	220	Northern Travels Over Samch'ŏlli, Several Passages from This Summer's Diary	Kim Ch'angje	Travelogue
+19	230	At Kamgang Pavilion	Kim Ch'angje	Poem/Poetry
+19	240	TITLE NOT FOUND
+19	250	TITLE NOT FOUND
+19	260	TITLE NOT FOUND
+19	270	TITLE NOT FOUND
+19	280	TITLE NOT FOUND
+19	290	TITLE NOT FOUND
+19	300	TITLE NOT FOUND
+19	310	TITLE NOT FOUND
+19	320	Reward Announcement, A Comrade Who Betrayed		Memoir/Recollection
+19	330	To a Comrade Regarding the Problem of Love and Desire	Min Pyŏnghwi	Literary Miscellany
+19	340	True Story with Reward, My Solution to a Love Triangle		Memoir/Recollection
+19	350	Thoughts and Hopes	Shanghai Kim Ch'ŏl	Miscellaneous Writing
+19	360	Congratulatory Message	Kim Ku in China	Miscellaneous Writing
+19	370	When Evening Comes	Yohan	Poem/Poetry
+19	380	Roadside Weeds	Kim Sŏksong	Literary Miscellany
+19	390	T'oui sa (and 2 others)	Kim Ansŏ	Poem/Poetry
+19	400	Paegun Sim (and 1 other)	P'ain	Poem/Poetry
+19	410	Rose	Turgenev (original work), Yi Yŏngch’ŏl (translation)	Poem/Poetry
+19	420	Intersection		Miscellaneous Writing
+19	430	Recent Masterpieces 1		Miscellaneous Writing
+19	440	The Clumsy Thief	Pinghŏ	Novel/Fiction
+19	450	Jealousy and Rice	Yŏm Sangsŏp	Novel/Fiction
+19	460	The Death of Old Man Pak	Kim Tongin	Novel/Fiction
+19	461	○Urgent Notice		Notices/Editor's Postscript
+19	470	The Legitimate Spy	Ch'oe Chŏnghŭi	Novel/Fiction
+19	471	"Women of All Nations" Compilation		Notices/Editor's Postscript
+19	480	Listening to the Autumn Wind	Kim Iryŏp	Literary Miscellany
+19	490	Untitled Record	No Chayŏng	Literary Miscellany
+19	500	Mahjong (Complete 1 Act)	Kim Yŏngp’al	Play/Scenario
+19	510	Woman, Thou Art Strong (1 Act Play)	Kim Ansŏ	Play/Scenario
+19	520	Editor's Postscript		Notices/Editor's Postscript
+20	010	Folk Song Mood		Poem/Poetry
+20	020	Urgent Notice, Let's Save Our Compatriots in Manchuria		Notices/Editor's Postscript
+20	030	Weak/Small Nations Movement and the Attitude of Suzerain States		Editorial/Article/Essay
+20	031	Company Notice		Notices/Editor's Postscript
+20	040	Asian Storm Clouds and China's Direction, Mainly Focusing on Foreign Views of China	Shanghai Hong Yangmyŏng	Editorial/Article/Essay
+20	050	A Study of "Japanese Attitudes Towards the Chosŏn Problem"	Kim Tonghwan	Editorial/Article/Essay
+20	060	Recollections of Siberia, Regarding the Discussion in the Magazine "Irkutsk(?)"	Ch’anghaegŏsa	Literary Miscellany
+20	070	Giants Amidst the Storm Clouds		Editorial/Article/Essay
+20	080	Samch'ŏlli Wall Newspaper No. 2		News/Report
+20	090	Manchuria-Mongolia Independence Movement and Chosŏn People's Interests, The Specificity of Manchuria-Mongolia and Us	Kim Han’gyu	Editorial/Article/Essay
+20	100	Manchuria-Mongolia Independence Movement and Chosŏn People's Interests, The Manchuria-Mongolia Regime and Our Future	Kwŏn Tongjin	Editorial/Article/Essay
+20	110	Manchuria-Mongolia Independence Movement and Chosŏn People's Interests, Seriousness of Livelihood Difficulties and Others	Sŏ Chŏnghŭi	Editorial/Article/Essay
+20	120	Recent Status of the Chungoe Ilbo	Samch'ŏlli Wall Newspaper No. 4	News/Report
+20	121	○Company Notice		Notices/Editor's Postscript
+20	130	Overseas Correspondence		Literary Miscellany
+20	140	Secret Notes of a Visiting Doctor		Memoir/Recollection
+20	150	Recent News of Yang Kŭnhwan, Whose Release Date is Approaching, Recent Interview with Him Writing an Autobiography, Poems, and Novels	From Tokyo, Chu Ch’ŏngp’ung	Interview/Discussion
+20	160	Divorce Tragedy Seen in Court, Husband is an Idiot, Wife is a Peerless Beauty	Lawyer Kim Pyŏngno	Memoir/Recollection
+20	170	(Title Unknown - Kukp'yŏn)		Miscellaneous Writing
+20	180	Samch'ŏlli "Wall Newspaper" No. 1, "Seoul," City of Divorce		News/Report
+20	190	Biographies of 10 Great Women of Chosŏn (1), Ms. Pak Indŏk, Ms. Hwang Aesidŏk		News/Report
+20	200	Happiness That Does Not Forget Me, Thoughts After Being Selected for the Teiten	Na Hyesŏk	Literary Miscellany
+20	210	Sending My Husband to Prison,		Literary Miscellany
+20	211	Company Notice		Notices/Editor's Postscript
+20	220	Attitude of the New Woman Regarding Family Register Registration When Marrying a Divorced Man		Editorial/Article/Essay
+20	230	My One Year Behind Bars, Various Stories from a Year Ago	Yun Yŏngok	Memoir/Recollection
+20	240	America, the Women's Domain, More Women Than Men		Miscellaneous Writing
+20	250	The President Makes His Son Work as Someone Else's Servant, Providing Practical Education		Miscellaneous Writing
+20	260	Famous Russian Film Production, Commemorating the 15th Anniversary of the October Revolution		Miscellaneous Writing
+20	270	Suicide and Culture are Directly Proportional		Miscellaneous Writing
+20	280	Filming of the "Enlightenment Party"	Na Un’gyu	Literary Miscellany
+20	290	Samch'ŏlli "Wall Newspaper" No. 3, Number of Suicides in Chosŏn		News/Report
+20	300	Recent Poetry Criticism, A Stroll Through the Autumn Poetry Scene	Kim Ansŏ	Literary Criticism
+20	310	Wŏnsadae	Manp'o Kim Chŏnggyu	Poem/Poetry
+20	320	Kwanhae Temple	Manp'o Kim Chŏnggyu	Poem/Poetry
+20	330	Summer Day in the Mountains	Manp'o Kim Chŏnggyu	Poem/Poetry
+20	340	Impression of the Sŏhwa Hyŏpchŏn (Calligraphy and Painting Association Exhibition)	Kim Yongjun	Literary Criticism
+20	350	Exploring Chihagŭmgang Yŏnyonggul	Kim Ch’angkang	Travelogue
+20	360	Weak/Small Nations Literary Special Feature		Poem/Poetry
+20	370	Intersection		Miscellaneous Writing
+20	380	Bulgarian March (Gronde Maritza Teint de Sang)	Bulgaria, Vazov (original work), Ansŏ (translation)	Novel/Fiction
+20	381	Company Notice		Notices/Editor's Postscript
+20	390	Letter (Dialogue)	Hungary, Molnár (original work), Kim Ansŏ (translation)	Play/Scenario
+20	400	Halia	Poland, Zamenhof (original work)	Novel/Fiction
+20	410	(Women of All Nations) My Peninsula After Six Years, Unpacking My Bags After Returning from America, to My Old Siblings	Pak Indŏk	Literary Miscellany
+20	420	(Women of All Nations) Collection of Poems by Our Poets Singing About Women		Poem/Poetry
+20	430	(Women of All Nations) "Development Process of the Chosŏn Women's Movement"	Ch'oe Chŏnghŭi	Editorial/Article/Essay
+20	440	(Women of All Nations) World Diary, What Made a Mother Abandon Her Child	Song Kyewŏl	Novel/Fiction
+20	450	(Women of All Nations) Recent Status of Vanguard Groups in the Women's Liberation Movement (1)		News/Report
+20	460	(Women of All Nations) Women's Legal Consultation		Miscellaneous Writing
+20	470	(Women of All Nations) "Working Women and Temptation"	Kim Oksun	Editorial/Article/Essay
+20	480	(Women of All Nations) Recent Marriage and Legal Relations	Lawyer Yang Yunsik	Editorial/Article/Essay
+20	490	(Women of All Nations) Notes of a Pilgrim Actress	Kim Ryŏnsil	Memoir/Recollection
+20	500	(Women of All Nations) Samch'ŏlli Wall Newspaper No. 6		Miscellaneous Writing
+20	510	(Women of All Nations) Modern "Love Scenes"	Ch’ujŏgyang	Novel/Fiction
+20	520	(Women of All Nations) What is "Kollontaism"?		News/Report
+20	530	(Women of All Nations) Autumn Emotions, The Bride's Cheerfulness	Yi Kyŏngwŏn	Play/Scenario
+20	540	Thanks and Apologies		Notices/Editor's Postscript
+21	010	March (and 3 others)	P'ain	Poem/Poetry
+21	020	Sino-Japanese War Operation Plan, Secretly Prepared by a Chinese Officer	Mun Pyŏngmun	News/Report
+21	030	Prospects for Various Situations After the Dissolution of Sin'ganhoe,		Editorial/Article/Essay
+21	040	Samch'ŏlli "Wall Newspaper" No. 1, Payment for a Master Singer		News/Report
+21	050	Samch'ŏlli "Wall Newspaper" (No. 5), Russian Newspaper Circulation		News/Report
+21	060	Ah, the Last Face, Listening to the Sad Bell on New Year's Eve		Memoir/Recollection
+21	070	Salaries of Working Women in Seoul		News/Report
+21	080	The Future Far East, -Especially Regarding Russia's Policy Towards the Far East-	Kim Seyong	Editorial/Article/Essay
+21	081	Urgent Notice		Notices/Editor's Postscript
+21	090	International Capitalism in 1931	Haesonghagin	Editorial/Article/Essay
+21	100	Samch'ŏlli "Wall Newspaper" No. 5, Secret Story of Tonga Ilbo's Publication		News/Report
+21	110	My Dear Hometown		Literary Miscellany
+21	120	Shanghai Scene, The Noulens Affair	Shanghai Hong Yangmyŏng	News/Report
+21	130	Samch'ŏlli "Wall Newspaper" No. 5, Secret Funds		News/Report
+21	140	Women I Like in Novels		Survey/Questionnaire
+21	150	Secret History of the Ages in the Shanghai French Concession, Secret Record of the Mass Arrest of Filipino Activists	Sanghaegŏsa	News/Report
+21	151	Company Notice		Notices/Editor's Postscript
+21	160	Yi Kyuwan's Assessment of Kim Okkyun and Pak Yŏnghyo	Kim Chin’gu	Memoir/Recollection
+21	170	Samch'ŏlli "Wall Newspaper" No. 5, National Flowers of Various Countries		News/Report
+21	180	Visiting the Highest Seat of Learning (1), Ewha Women's College, Hall of Literature and Music, Various Romances in the Dormitory, etc.	Kim P’allyŏn	News/Report
+21	181	Urgent Notice		Notices/Editor's Postscript
+21	190	My Maiden Days	Ch'oe Ŭisun	Literary Miscellany
+21	200	Wall Newspaper No. 4, Survey of Entertainment Expenses of American City Citizens		News/Report
+21	210	Samch'ŏlli Lecture	Haejŏnghagin	Editorial/Article/Essay
+21	220	Samch'ŏlli Lecture, The Current Chinese Women's Movement	Pukp'unghagin	Editorial/Article/Essay
+21	230	Female Portraits	Kim Ŭrhan (record), Yi Sŭngman (painting)	Literary Miscellany
+21	231	Company Notice		Notices/Editor's Postscript
+21	240	Visiting Vanguard Women's Groups, Lineup of the Buddhist Women's Youth Association - Planning to Expand Organization to the Front Lines		News/Report
+21	250	Intersection		Miscellaneous Writing
+21	260	Public Divorce Statement	Kim Kirim	Literary Miscellany
+21	261	Only in the Past		Miscellaneous Writing
+21	270	Wandering Citizen "Gypsy's Love and Life," Story of Spending 3 Days with Them	Paengnimhagin	Travelogue
+21	280	Group of Praying Virgins, Their Prayers and Worship, Ascetic Life, What About Their Romances?, Visiting a Catholic Monastery	Ch'oe Chŏnghŭi	News/Report
+21	290	True Stories of Overcoming Male Temptation	Hwang Aesidŏk, Ko Sŏngsuk, Kim Chŏnggil	Literary Miscellany
+21	300	Secret Story of a Spy, The Glamorous Female Spy Who Shook the World	Tokkŏru Chuin	Literary Miscellany
+21	310	Chosŏn Lady Who Advanced to Tokyo's Ginza, Actively Working as a Professional Woman	Yi Ilgwang in Tokyo	Literary Miscellany
+21	320	Women Famous Throughout the World (1)	Ch’ae Mida	News/Report
+21	330	Them and Us	Kim Yaksu	Poem/Poetry
+21	340	Morning Sun Ode	P’yŏnsŏkch’on	Poem/Poetry
+21	350	Literary World Miscellany	Ch'osa	Miscellaneous Writing
+21	360	Conditions of Beauty, The Type of Woman I Want to Portray in My Novel (1)	Ch'oe Tokkyŏn	Miscellaneous Writing
+21	370	Oh, God!	Pang In’gŭn	Novel/Fiction
+21	380	Ancient and Modern	Kangnam	Literary Miscellany
+21	390	Thanks and Apologies		Notices/Editor's Postscript
+22	010	Vow	P'ain	Poem/Poetry
+22	020	Theory of Legal and Illegal Movements		Editorial/Article/Essay
+22	030	Samch'ŏlli "Wall Newspaper"		News/Report
+22	040	Samch'ŏlli "Wall Newspaper"		News/Report
+22	050	Announcement of the Founding of the "National Culture Center," Samch'ŏllisa's Devoted Project	Kim Tonghwan	Notices/Editor's Postscript
+22	060	My Alma Mater and Esteemed Teacher		Memoir/Recollection
+22	070	Enthusiasm for "Compatriots in Manchuria"		Notices/Editor's Postscript
+22	080	Overview of Recent Japanese Social Movements	Im Wŏn’gŭn in Osaka	Editorial/Article/Essay
+22	081	Urgent Notice		Notices/Editor's Postscript
+22	090	My Era of Overseas Exile		Memoir/Recollection
+22	100	Ah, I Miss the Paris of Freedom, Myself After Touring Europe and America	Na Hyesŏk in Tokyo	Memoir/Recollection
+22	110	New Terminology		Miscellaneous Writing
+22	120	Samch'ŏlli Wall Newspaper		News/Report
+22	130	Meeting Gandhi and Naidu, While Staying in India for 4 Months	Ch'oe Yŏngsuk	Travelogue
+22	140	Samch'ŏlli "Wall Newspaper"		News/Report
+22	150	The Heroic Construction Project of 1932, the "Peninsula Assault Brigade" Movement		Editorial/Article/Essay
+22	160	New Year's Bows		Notices/Editor's Postscript
+22	161	Samch'ŏllisa Sponsored Magazine Youth Student Oratorical Contest, Samch'ŏllisa's Small Sincerity: Financial Aid for Talented Students		Notices/Editor's Postscript
+22	170	If a Great Sage Were Born in Chosŏn Today?		Interview/Discussion
+22	180	Nostalgic Old School Days		Literary Miscellany
+22	190	Emergence of the Peninsula's Largest Department Store, -Content and Appearance of Tonga Department Store-, How Much Capital and What Kind of People are Managing It?	Sin T’aeaek	News/Report
+22	200	"Chaplin Appears in Court" - Sued by Female Secretary		Miscellaneous Writing
+22	210	Secret Marriage of Emperor Nicholas of Romania		News/Report
+22	220	Critique of the Patriot-Style View of Society, -Regarding the Framework for Recognizing Social Phenomena-	Sin Ilsŏng	Editorial/Article/Essay
+22	230	Returning After Seeing the Suffering Compatriots in Manchuria	Consolation Envoy Sŏ Chŏnghŭi of the Association for Compatriots in Manchuria	Travelogue
+22	240	How Do Women in the Soviet Union Live?	Ham Taehun	News/Report
+22	241	Company Notice		Notices/Editor's Postscript
+22	250	Is Marriage Truly the Grave of Love?		Survey/Questionnaire
+22	260	Women's Liberation Movement	Chŏn Yudŏk	Editorial/Article/Essay
+22	270	Jokes, Romantic Mood		Miscellaneous Writing
+22	280	Lineup of Vanguard Women's Groups (3), Korean Women's Christian Federation	Woman Reporter	News/Report
+22	290	Jokes		Miscellaneous Writing
+22	300	Intersection		Miscellaneous Writing
+22	310	Miscellaneous Writing		Miscellaneous Writing
+22	320	Sudden Appearance of a Collective Lumpen Group of Women in Seoul, -Also Studying the Lumpen-	Ch'oe Chŏnghŭi	Social Commentary
+22	330	Where is the Proletarian Women's Movement Headed?	Kim Ŭnhŭi	Editorial/Article/Essay
+22	340	The "Blue Widow Club" Organized with Forty-Five Members, This Strange "Erotic" Group Appearing in the Middle of Seoul	P’allyŏnhwagi	Social Commentary
+22	350	The "Dream" of 500 Years Later in American Academia, Debate Over "Going to Mars" vs. "Cannot Go"		Miscellaneous Writing
+22	360	Selected Translations of Kim Sakkat's Poems	Yi Ŭngsu	Literary Criticism
+22	370	World Proletariat Works Special Feature		Literary Criticism
+22	380	Desperate Cries of Giants Worldwide		News/Report
+22	390	Samch'ŏlli "Wall Newspaper"		Miscellaneous Writing
+22	400	Esperanto Column	Ansŏ Kim Ŏk	Miscellaneous Writing
+22	410	New Year Thoughts, -Finishing the Printing of the New Year Issue-		Notices/Editor's Postscript
+23	010	Necessity of an Expression Group for Solving the Land Problem	Kim Tonghwan	Editorial/Article/Essay
+23	020	Will Dictatorial Politics Be Realized in Japan?		Survey/Questionnaire
+23	030	Eradication of Separatists, the Public Enemy of the Nation, Theory on Breaking Down Regionalism and Factional Strife	Yi Chongnin	Editorial/Article/Essay
+23	040	Samch'ŏlli "Wall Newspaper"		News/Report
+23	050	Company Notice		News/Report
+23	060	Jokes		Miscellaneous Writing
+23	070	Talent Parade from the Five Major Academic Institutions		News/Report
+23	080	Samch'ŏlli Wall Newspaper		News/Report
+23	090	Current State of World Capitalism and the Position of the Nanjing Government	Deng Yanda	Editorial/Article/Essay
+23	100	Samch'ŏlli "Wall Newspaper"		News/Report
+23	110	The Chosŏn Industrial World Under the Gold Embargo	Sŏ Ch’un	Editorial/Article/Essay
+23	120	Interlude		Miscellaneous Writing
+23	130	Significance of the National Living Zone	Kim Myŏngsik	Editorial/Article/Essay
+23	140	That Guy is Also That Guy		Miscellaneous Writing
+23	150	Formation Strategy for the Chosŏn Proletariat Culture Federation, Discussing the Necessity at the Current Stage	Hong Hyomin	Editorial/Article/Essay
+23	160	Character Assessments of Pak Hŭngsik and Ch'oe Nam, Owners of Hwashin and Tonga Department Stores	Sin T’aeaek	News/Report
+23	170	Spring Grass is Green Every Year, But Why Doesn't He Return?	Yu Kwangnyŏl	News/Report
+23	180	Title and Namer		News/Report
+23	190	March of the 5 Sisters from a Prestigious Family		News/Report
+23	200	First Book		Survey/Questionnaire
+23	210	15 Years Between Life and Death with Tuberculosis	Yi Kwangsu	Memoir/Recollection
+23	220	"Our Baby Day"	Ch'oe Chŏnghŭi	Miscellaneous Writing
+23	230	The Bride's 3 Days	Kim Kwidŏk - Mrs. Yu Kwangnyŏl	Memoir/Recollection
+23	240	Theory of the Proletarian Women's Movement (Continued)	Kim Ŭnhŭi	Editorial/Article/Essay
+23	250	Urgent Notice		Notices/Editor's Postscript
+23	260	Let's Thoroughly Eradicate Mahjong with the Great Power of Public Opinion	Yi Sŏnghwan	Editorial/Article/Essay
+23	270	Company Notice		Notices/Editor's Postscript
+23	280	Communist Party Assassination Squad, The 15-Person Massacre Incident That Erupted in Shanghai	In Shanghai, Manakch'ŏnbongnu Kŏsa	Literary Miscellany
+23	290	Critique of Women's Issues		Survey/Questionnaire
+23	300	Spring Colors of the Old Capital		Travelogue
+23	310	Two Letters		Literary Miscellany
+23	320	Samch'ŏllisa Sponsored Magazine Youth Student Oratorical Contest		Survey/Questionnaire
+23	330	A Fragment of Memory, Recollection of First Love	Ch'oe Tokkyŏn	Literary Miscellany
+23	340	Actress, Chastity, and Love	Yi Sŏgu	Literary Miscellany
+23	350	New Spring Literature		Poem/Poetry
+23	360	First Impressions of Writers (2)	Woman Reporter	News/Report
+23	370	Reading "The Path of Love," - Work by Madam Kollontai	Kim Ansŏ	Literary Miscellany
+23	380	Sickbed Recitation	Nŭlsaem	Poem/Poetry
+23	390	Cement Warehouse	Ch’ujŏgyang	Novel/Fiction
+23	400	Intersection		Miscellaneous Writing
+23	410	Esperanto Column	Ansŏ Kim Ŏk	Miscellaneous Writing
+23	420	New Spring Thoughts		Notices/Editor's Postscript
+24	010	Magazine Samch'ŏlli General Meeting, First Section = National Problem, Current Nationalist Forces and Socialist Forces		Interview/Discussion
+24	020	Company Notice	Editorial Bureau	Notices/Editor's Postscript
+24	030	Theory on Establishing a Leading Organization and Guiding Ideology	Wŏn Sehun	Editorial/Article/Essay
+24	040	Investigation of the Relationship Between Nation and Class, -My Few BAC-related Points-	Ch’un’gok	Editorial/Article/Essay
+24	050	National Health Problem, Urgent Task of Public Health and Universal Physical Education	Chosŏn Sports Research Association Director Kim Poyŏng	Editorial/Article/Essay
+24	060	Strategy for the Chosŏn Public Health Movement	Health Movement Society Chief Yang Ponggŭn	Editorial/Article/Essay
+24	070	Overview of Next-Generation Leaders		Survey/Questionnaire
+24	080	Notice of Thanks	Samch'ŏlli Editorial Bureau	Notices/Editor's Postscript
+24	090	Samch'ŏlli Wall Newspaper Relief Funds for Compatriots in Manchuria		Notices/Editor's Postscript
+24	100	Profile of Shanghai, City of Turmoil	Hong Yangmyŏng	Travelogue
+24	110	Jokes		Miscellaneous Writing
+24	120	True Nature of Re-establishing the Expression Group, Critique of An Chaehong's Course	Chin Yŏngch’ŏl	Editorial/Article/Essay
+24	130	Company Notice		Notices/Editor's Postscript
+24	140	Jokes		Miscellaneous Writing
+24	150	Presidential Election Battle and World Political Situation		Survey/Questionnaire
+24	160	Problem of Higher Education for Chosŏn Women	Ewha Women's College President = Appenzeller	Editorial/Article/Essay
+24	170	Intersection		Miscellaneous Writing
+24	180	Paris Models and the Life of a Painter	Tokyo Na Hyesŏk	Travelogue
+24	190	March of Famous Three Brothers, Min Moksik and his Two Brothers, Kim Sŏngsu and his Two Brothers, Ch'oe Namsŏn and his Two Brothers, Chang Tŏksu and his Two Brothers	Yu Kwangnyŏl	News/Report
+24	200	Samch'ŏlli "Wall Newspaper," Recent Situation of Suffering Compatriots in Manchuria		News/Report
+24	210	Intersection		Literary Miscellany
+24	220	Women's Collective Farm Being Built on a 100,000-P'yŏng Plain, Buying 100,000 p'yŏng of land in a Hwanghae Province mountain valley to build an ideal village, bustling about		News/Report
+24	230	Recollections of Moscow	Kim Seyong	Travelogue
+24	240	Letter to Mr. Kim Yaksu	Pak Sŏkhong	Literary Miscellany
+24	250	Marriage Conditions for Female Students About to Leave School, -What are their dreams?-		Literary Miscellany
+24	260	Reason for Coming Out		Miscellaneous Writing
+24	270	Harbor Mood and Women	Ansŏ	Travelogue
+24	280	Poems of Kim Sakkat	Yi Ŭngsu	Literary Criticism
+24	290	Intrinsic Value of Theater	Hong Haesŏng	Editorial/Article/Essay
+24	300	Places I Want to Go, People I Want to Meet		Literary Miscellany
+24	310	The Empress's Jewels		Miscellaneous Writing
+24	320	Washington's Farewell Address		Miscellaneous Writing
+24	330	Grandeur of the "Proletarian Academy" Built by Rickshaw Pullers and Water Carriers - Soaring Building in Kahoe-dong, Seoul-, Taedong Academy Built with the Enthusiasm of Laborers!		News/Report
+24	340	Invoking the Spirit of Husband Kim Chwajin, Visit with Widow Madam Na Hyeguk		Interview/Discussion
+24	350	Plausible		Miscellaneous Writing
+24	360	Becoming a Sailor on the Indian Ocean	Hong Unbong	Travelogue
+24	370	Tragedy of Love Between Different Peoples (Three True Stories)		Literary Miscellany
+24	380	March Literature		Poem/Poetry
+24	390	First Impressions of Writers (2)	Woman Reporter	News/Report
+24	400	Love Letters Printed and Publicized, By British Literary Critic Old Man Shaw		News/Report
+24	410	Instead of an Autobiography	Kim Iryŏp	Literary Miscellany
+24	420	Orion and the Apple - One Piece from "The Technique of the Apple" -	Yi Hyosŏk	Novel/Fiction
+24	430	First Day of Street Contact	Song Kyewŏl	Literary Miscellany
+24	440	Thanks and Apologies		Notices/Editor's Postscript
+25	001	Observation and Determination	Kim Tonghwan	Literary Miscellany
+25	010	Samch'ŏlli General Meeting, Strategy to Break Through the Current Calm Situation - Focusing on Cultural Movement and Consumer Cooperative Movement -		Interview/Discussion
+25	020	Samch'ŏlli General Meeting No. 2 Manchuria Problem, The New Manchukuo and Our Attitude		Editorial/Article/Essay
+25	030	Samch'ŏlli General Meeting No. 3, New Stage of the Chosŏn Movement	Pak Munhŭi	Editorial/Article/Essay
+25	040	True State of the Chinese "Soviet Force"	Hong Yangmyŏng	Editorial/Article/Essay
+25	050	Dissection of the Big Capital Camp Structure		Editorial/Article/Essay
+25	051	Company Notice		Notices/Editor's Postscript
+25	060	My View of Eight People	Hwang Sŏgu	Editorial/Article/Essay
+25	070	Roundtable Discussion of Three Female Scholars Graduated from Foreign Universities		Interview/Discussion
+25	080	Theory of National Formation, Process of National Formation and Its Basic Elements	Sin T’aeak	Editorial/Article/Essay

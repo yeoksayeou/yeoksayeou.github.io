@@ -1,0 +1,58 @@
+**Header Section:**
+Magazine Title: 三千里 제7호
+Publication Date: 1930년 07월 01일
+Article Title: 編輯餘言 (Editorial Remarks/Afterword)
+Author: 파인 (P'ain)
+Article Type: 사고·편집후기 (Notices/Editorial Postscript)
+
+**Body Text Translation:**
+Editorial Remarks
+
+The bells of the New Year ring out, dong dong, and the castle gates open. Friends throughout the land, let us run out to the wide fields and shape 1930 meaningfully. Though joy may come quickly to those who suffer, old age also comes quickly in return. This state of tension does not last so long, so let us quickly and diligently accomplish the tasks entrusted to us each day. Therefore, this humble person has resolved to steadily publish the *Samch'ŏlli* (三千里) magazine this year as well, so please offer much reprimand and assistance. Also, starting from the New Year, we have devised the *Samch'ŏlli* Member System (三千里 社友制); this comes from the humble intention of strengthening the financial foundation of our company, even if only slightly, and also from the desire to gain your spiritual anticipation. Please, by all means, offer much approval.
+
+The next issue will be published on February 1st as a special "Golden Age Issue" (全盛時代號). As for why this month's New Year issue turned out so meager, as you may know, during the magazine editing period in early to mid-December, due to a certain atmosphere that suddenly arose, the matter of the magazine itself seemed entirely uncertain, preventing us from dedicating our full effort to editing. Furthermore, important contributors who were writing for us unfortunately ended up in such circumstances, unavoidably resulting in this state. However, starting from the next issue, we will restore things.(P'ain)
+
+**Summary**
+
+This editorial postscript from the July 1930 issue of *Samch'ŏlli* magazine reflects on the start of the new year, urging diligence and announcing the editor's renewed commitment to publishing the magazine. It introduces a new membership system ("Sahuje," 社友制) to bolster finances and gain reader support, previews the next issue's theme ("Golden Age Issue"), and apologizes for the current issue's poor quality. The editor attributes the deficiencies to disruptions ("a certain atmosphere") in December that hindered editing and prevented key writers from contributing. For historians, the piece is revealing due to its candid (though veiled) reference to external pressures ("a certain atmosphere") likely hinting at colonial censorship or political interference impacting publishing activities. The mention of establishing a reader membership system also sheds light on the financial struggles and strategies of Korean cultural enterprises under colonialism.
+
+**Named Entities**
+
+파인	파인	P'ain
+
+**Glossary**
+
+編輯餘言	편집여언	Editorial remarks; postscript (often at the end of a publication)
+울니고	울리고	To ring; to sound (older spelling of 울리고)
+내다라	내달아	To run out; dash out (older spelling/form of 내달아)
+마튼	맡은	Entrusted; taken charge of (older spelling of 맡은)
+이루워 놋습시다	이루어 놓읍시다	Let's accomplish/achieve (older spelling/grammar: 이루워 for 이루어, 놋다 for 놓다, -습시다 formal propositive ending)
+社友制	사우제	Member system; associate system (refers to the magazine's reader subscription/support system)
+굿게	굳게	Firmly; strongly (older spelling of 굳게)
+엇고 십흔	얻고 싶은	Wanting to gain/obtain (older spelling: 엇고 for 얻고, 십흔 for 싶은)
+오모조록	아무쪼록	By all means; please (older spelling of 아무쪼록)
+來號	내호	Next issue (of a publication)
+全盛時代號	전성시대호	Golden Age Issue (special issue theme title)
+이가치	이같이	Like this; in this way (older spelling of 이같이)
+엇든	어떤	A certain; some kind of (older spelling of 어떤)
+도모지	도무지	(Not) at all; utterly; entirely (often used with negatives)
+업섯스며	없었으며	Did not exist; was not (older spelling/form of 없었으며)
+주시든	주시던	(Someone who) used to give/write (older spelling of 주시던, referring to contributors)
+되여	되어	Becoming; turning into (older spelling of 되어)
+이 꼬리	이 꼴이	This state/condition (often implies a poor or undesirable state; older spelling of 이 꼴이)
+되엇사오나	되었사오나	Although it became; although it happened (older spelling and archaic humble ending -사오나)
+복구하겟사외다	복구하겠습니다	Will restore; will recover (older spelling and formal ending -겠사외다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7호
+발행일	1930년 07월 01일
+기사제목	編輯餘言
+기사형태	사고·편집후기
+
+編輯餘言
+새해의 종소리는 둥둥 울니고 성문은 열어짐니다. 천하의 벗들이어 너른 들로 내다라 1930년을 뜻이 잇게 꾸밉시다. 고생하는 사람에겐 樂도 빨니 오겟지만 그 대신 「늙음」도 빨니 오는 법이외다. 이 긴장한 태도가 그리케 오래가는 것이 아니오니 어서 하로 급히 제 마튼 일을 꾸준히 이루워 놋습시다. 그래서 小人도 올해에는 「三千里」잡지를 꾸준히 하여 나갈 결심이니 여러분도 만흔 꾸지람과 도움을 주옵소서. 또 新年부터 「三千里」 社友制를 꾸미엇는데 이것은 다소라도 본사의 경제적 기초를 굿게 하랴는 뜻과 또한 여러분의 정신적 기대를 엇고 십흔 微意에서 나온 바니 오모조록 만히 讚同하여 주옵소서.
+
+來號는 「全盛時代號」로 특집하여 2월 1일에 발행하겟사외다. 그러고 이 달 新年號가 이가치 빈약하게 된 것은 여러분도 아실 터이나 잡지편집 시기이든 12월초 중순에 이르러 홀연히 이러난 엇든 분위기 때문에 잡지 云云의 문제가 도모지 아닐 것 갓하여 편집에 전력을 할 수 업섯스며 또 집필하여 주시든 重要諸氏- 그만 그러케 되여 부득이 이 꼬리 되엇사오나 來號부터는 다시 復舊하겟사외다.(파인)

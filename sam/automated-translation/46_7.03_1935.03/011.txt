@@ -1,0 +1,50 @@
+Magazine Title: 三千里
+Publication Date: 1935년 03월 01일
+Article Title: 社告 (Company Notice)
+Author: 三千里編輯局
+Article Type: 사고·편집후기 (Notice/Postscript)
+
+Because the articles for the March issue were extremely congested (輻轃), we unavoidably had to postpone approximately nine topics, amounting to over fifty pages of planned manuscripts, to the upcoming April issue. We express our deep apologies to the writers and readers.
+
+Samch'ŏlli Editorial Department <24>
+
+**Summary**
+
+This brief notice from the Samch'ŏlli Editorial Department informs readers that due to a high volume of content ("congestion") planned for the March 1935 issue, approximately nine articles totaling over fifty pages had to be deferred to the April issue. The notice apologizes to both the writers whose work was postponed and the readers. From a historical perspective, this notice highlights the practicalities and constraints of periodical publishing in colonial Korea. It suggests the magazine had a significant amount of submitted or commissioned content, perhaps exceeding available space due to paper costs, printing limitations, or even potential censorship delays requiring layout changes. It points to an active literary or journalistic scene contributing to the magazine.
+
+**Named Entities**
+
+三千里編輯局	삼천리편집국	Samch'ŏlli Editorial Department
+
+**Glossary**
+
+社告	사고	Company notice, announcement
+記事	기사	Article, news item
+몹시	몹시	Extremely, very
+輻轃	복주	Congested, crowded (Hanja term; 輻輳 is more standard for 'congestion')
+豫定	예정	Prearranged plan, schedule
+原稿	원고	Manuscript, draft
+約	약	Approximately
+提	제	Topic, item, subject
+不得已	부득이	Unavoidably, inevitably
+來	내	Coming, next (as in 내월 - next month, referring to 來四月號 - the coming April issue)
+밀우엇슴니다	밀었습니다	Postponed, pushed back (Older spelling/conjugation of 밀다)
+筆者	필자	Writer, author
+讀者	독자	Reader
+	께	To (honorific particle, older form/spelling of 에게/께)
+深謝	심사	Deep apology, profound thanks (Context suggests apology here)
+編輯局	편집국	Editorial department/bureau
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제3호
+발행일	1935년 03월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+三月號의 記事는 몹시 輻轃하엿든 關係로 豫定한 原稿로서 約九提五十餘頁을 不得已來四月號로 밀우엇슴니다 筆者와 讀者 深謝함니다
+三千里編輯局＜24＞
+＜24＞

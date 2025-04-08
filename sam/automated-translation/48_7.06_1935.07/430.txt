@@ -1,0 +1,43 @@
+Magazine Title: 삼천리 제7권 제6호
+Publication Date: 1935년 07월 01일
+Article Title: 血管을 이어노으면 (If You Connect the Blood Vessels)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+If You Connect the Blood Vessels
+
+If you were to gather up and connect all the blood vessels spread throughout the arms, back, and entire body of a single person, don't be surprised: it's said they would stretch about 2,000 *ri*. If it were 2,000 miles, that would be about 10,000 *ri*, which means it could wrap around the three thousand *ri* of Chosŏn three times.<212>
+
+**Summary**
+
+This short piece marvels at the total length of blood vessels within a single human body. It estimates this length at 2,000 *ri* (a traditional Korean unit of distance, approx. 786 km). It then makes a comparison, stating that if the length were 2,000 miles (approx. 10,000 *ri* or 3,218 km), it would be enough to encircle Korea (traditionally called "Samch'ŏlli" or 3,000 *ri*) three times. For historians, this article offers a glimpse into the dissemination of basic scientific or anatomical knowledge in colonial Korea, framed using familiar Korean units (*ri*) and cultural references (Samch'ŏlli Korea), even while introducing Western units (miles). The comparison highlights an attempt to make a foreign concept relatable, although the figures themselves might reflect the scientific understanding or estimations of the era.
+
+**Named Entities**
+
+조선	조선	Chosŏn
+
+**Glossary**
+
+血管	혈관	Blood vessel
+널니어	널리어	Spread out (older spelling/form of 널려)
+잇대어	잇대어	Connecting; joining together (older spelling/form related to 이어)
+놋는다면	놓는다면	If you were to place/lay out (older spelling/form of 놓는다면)
+놀나지마소	놀라지 마소	Don't be surprised (older spelling/form of 놀라지 마십시오/마세요)
+된담니다	된다고 합니다	It is said to become; amounts to (older spelling/form of 된다고 합니다)
+만리	만리	10,000 ri (a unit of distance, approx. 3,930 km)
+조선	조선	Korea; Joseon dynasty
+삼천리	삼천리	3,000 ri (poetic name for Korea, referring to its length)
+감을수가	감을 수가	Can wrap around
+잇담니다	있다고 합니다	It is said there is; it is said to be (older spelling/form of 있다고 합니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제6호
+발행일	1935년 07월 01일
+기사제목	血管을 이어노으면
+기사형태	잡저
+
+血管을 이어노으면
+사람 한사람의 팔에고 등에고 온-몸에 널니어 잇는 혈관을 모다 주서모아 잇대어 놋는다면 놀나지마소. 2천리이나 된담니다. 2천마일이라면 약 만리가 되니 조선 삼천리를 세번이나 감을수가 잇담니다.<212>

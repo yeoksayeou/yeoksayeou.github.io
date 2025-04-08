@@ -1,0 +1,47 @@
+**Header Section**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1935년 09월 01일
+Article Title: 感謝와 罪謝 (Gratitude and Apology)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice / Editorial Postscript)
+
+**Body Text Translation**
+We have greeted the fine season of September, when the yellow chrysanthemums and crimson maples ripen. Now is the time to read books, the time to think, and the time to long for those who have gone far away. The time has come to gather the emotions that were scattered throughout spring and summer. Please spend this time valuably, everyone.
+
+The first distributed volume of the "Collected Works of Ch'unwŏn" (春園全集), "That Woman's Life" (그 女子의 一生), has truly received an ardent welcome; everywhere, Kim Pong (金鳳) is the talk of the town. This name, Kim Pong, is about to become a name that pulls most strongly at our hearts. It is a joyous thing. We too wish to have names from literary history that are world-famous, like Kak Chusa (각주사 - likely referring to the poet Zhu Shuzhen) or Juliet (쥬리엣). It seems such a name might be found in Kim Pong, the protagonist of "That Woman's Life." Indeed. <300>
+
+**Summary**
+
+This editorial postscript from the September 1935 issue of *Samch'ŏlli* magazine welcomes the autumn season and expresses gratitude for the enthusiastic reception of the first volume of the "Collected Works of Ch'unwŏn" (likely Yi Kwangsu), specifically his work "That Woman's Life." The editors celebrate the emerging popularity of the protagonist, Kim Pong, expressing hope that this character might achieve enduring fame comparable to international literary figures like Zhu Shuzhen or Juliet. From a historical perspective, the piece is interesting as it reflects the cultural environment of colonial Korea, particularly the promotion of contemporary Korean literature (Yi Kwangsu's work) and the aspiration for Korean literary characters to gain recognition on par with world literature, even while framed within the context of Japanese colonial rule. The enthusiastic promotion of Yi Kwangsu, a major but later controversial figure due to collaboration, is also notable.
+
+**Named Entities**
+
+春園	춘원	Ch'unwŏn
+金鳳	김봉	Kim Pong
+각주사	각주사	Kak Chusa (Likely Zhu Shuzhen)
+쥬리엣	주리엣	Jyuri'et (Juliet)
+
+**Glossary**
+
+마젓슴니다	맞았습니다	Have greeted/met (Older spelling/conjugation of 맞다)
+외다	외다	It is (Older copula form, similar to modern -이다)
+풀어젓든	풀어졌던	Were scattered/loosened (Older spelling/conjugation of 풀어지다)
+갑잇게	값있게	Valuably (Older spelling of 값있게)
+밧어	받아	Received (Older spelling of 받아)
+일홈	이름	Name (Older spelling of 이름)
+십슴니다	싶습니다	Wish/want to (Older spelling/conjugation of 싶다)
+차저질	찾아질	Will be found (Older spelling of 찾아질)
+함니다 그려	합니다 그려	It seems it does. Indeed. (Older sentence ending expressing supposition/agreement)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제8호
+발행일	1935년 09월 01일
+기사제목	感謝와 罪謝
+기사형태	사고·편집후기
+
+感謝와 罪謝
+黃菊丹楓 무르익는 秋 9월의 好季節을 마젓슴니다. 이제는 글 읽을 때요, 생각할 때요, 멀니 간 이를 그리워할 때 외다. 봄 여름 내내 풀어젓든 情緖를 한데 뭉칠 때가 왓슴니다. 여러분께서 이때를 갑잇게 보내주시압소서.
+「春園全集」 第一回 配本 「그 女子의 一生」은 실로 열렬한 환영을 밧어 간데 온데 金鳳이 의약이외다. 이 金鳳이란 일홈은 우리들에게는 가장 마음에 끌니는 일홈이 되려고 함니다. 깁분 일이외다. 우리들도 세계적으로 유명한 「각주사」 「쥬리엣」 가튼 文學史上의 일홈을 가지고 십슴니다. 그런 일홈을 「그 女子의 一生」의 主人公인 金鳳에게서 차저질 듯 함니다 그려. <300>

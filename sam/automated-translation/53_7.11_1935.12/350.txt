@@ -1,0 +1,88 @@
+Magazine Title: 삼천리 제7권 제11호
+Publication Date: 1935년 12월 01일
+Article Title: 諸家推薦 新人作品集- 李殷相 薦, 秋夜長(시조) (Collection of Works by Newcomers Recommended by Various Houses - Recommended by Yi Ŭn-sang, Ch'uyajang (Sijo))
+Author: 驚山 李殷相 (Kyŏngsan Yi Ŭn-sang), 張應斗 (Chang Ŭng-du)
+Article Type: 시 (Poem/Sijo)
+
+Selecting "Ch'uyajang"
+
+Kyŏngsan Yi Ŭn-sang
+
+I hope that your esteemed company's (貴社) literary recruitment this time yields great results. It is deeply regrettable (遺憾) that among the works of about 30 individuals submitted to me, the unworthy one (不肖), through your company for recommendation, there were unfortunately none worth selecting.
+
+However, I have chosen and am sending one piece, a two-stanza sijo (時調) titled "Ch'uyajang" (秋夜長) by Mr. Chang Ŭng-du (張應斗). Other works by this individual could not be published, so they were omitted.
+
+Although it is difficult to call this one piece, "Ch'uyajang," a masterpiece (佳作), I have chosen it for the delicate (纖細) aspect of its technique (手法) in directly (單的) expressing the state of mind (心境) on an autumn night.
+
+As I do not know the detailed (仔細히) regulations regarding acceptance ranks (入等 等外), I am merely sending it; please kindly consider (惠燭하소서).<220>
+
+Ch'uyajang (Long Autumn Night)
+
+Chang Ŭng-du
+
+On a night like this, if only there were someone to be a talking companion,
+The clock ticks itself out, making it even more desolate.
+
+How deep has the night become, like holding something?
+From somewhere (어듸서), the sound of a rooster's crow drifts through the window crack.<221>
+
+**Summary**
+
+Yi Ŭn-sang, a prominent literary figure, writes a short note explaining his selection for Samch'ŏlli magazine's call for new writers' works. He expresses regret that out of 30 submissions, only one *sijo* poem, "Ch'uyajang" by Chang Ŭng-du, was deemed suitable, and even that is described modestly as not quite a masterpiece but commendable for its delicate expression of an autumn night's atmosphere. The selected two-stanza *sijo* itself conveys feelings of loneliness and the passage of time during a long, quiet autumn night. For historians, this piece offers insight into the literary gatekeeping process in colonial Korea, showing established figures like Yi Ŭn-sang evaluating and recommending new talent through magazine publications. It also reflects the aesthetic value placed on subtle emotional expression in poetry during that period and the typical format of such recommendations.
+
+**Named Entities**
+
+李殷相	이은상	Yi Ŭn-sang
+驚山	경산	Kyŏngsan (Yi Ŭn-sang's pen name)
+張應斗	장응두	Chang Ŭng-du
+
+**Glossary**
+
+貴社	귀사	Your esteemed company (polite term for the magazine publisher)
+不肖	불초	I, the unworthy one (humble self-referential term)
+遺憾	유감	Regret; regrettable
+時調	시조	Sijo (traditional Korean poetic form)
+佳作	가작	Masterpiece; fine work
+心境	심경	State of mind; feeling
+單的	단적	Direct; simple
+手法	수법	Technique; method
+纖細	섬세	Delicate; fine; subtle
+入等	입등	Acceptance rank (in a competition or selection)
+等外	등외	Outside the ranks; unranked (in a competition or selection)
+仔細히	자세히	In detail; minutely (older spelling/form of 자세히)
+惠燭하소서	혜촉하소서	Please kindly consider (honorific and archaic request form)
+되엇스면	되었으면	If it were; if only there were (older spelling of 되었으면)
+업섯슴이	없었음이	The fact that there was none (older spelling of 없었음이)
+빼어 버렷습니다	빼어 버렸습니다	Omitted; removed (older spelling of 빼어 버렸습니다)
+되엇는고	되었는고	Has it become? (older poetic/archaic interrogative form of 되었는가)
+어듸서	어디서	From somewhere (older spelling of 어디서)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제11호
+발행일	1935년 12월 01일
+기사제목	諸家推薦 新人作品集- 李殷相 薦, 秋夜長(시조)
+기사형태	시
+
+諸家推薦 新人作品集- 李殷相 薦, 秋夜長(시조)
+「秋夜長」을 골느고
+
+驚山 李殷相
+
+이번 貴社의 文藝募集이 큰 成果를 보여주엇스면 고맙겟습니다. 貴社를 통하야 不肖에게 推薦을 要求한 30여명의 作品은 不幸하게도 取할 만한 것이 업섯슴이 심히 遺憾임니다.
+다만 張應斗氏의 「秋夜長」이란 兩章時調一篇을 選하야 보냅니다. 이분의 作品에도 다른 것은 登載할 수가 업서서 빼어 버렷습니다.
+이 秋夜長一篇도 佳作이라하기는 힘드나 秋夜의 心境을 單的으로 表現한 그 手法의 纖細한 點을 取한 것입니다.
+入等 等外의 規定은 仔細히 알지 못함으로 보내기만 하는 것이니 惠燭하소서.<220>
+
+秋夜長
+
+張應斗
+
+이런 밤 누구잇서 말벗이나 되엇스면
+시게가 울다 끝이니 더욱 적막하구려.
+
+안은 양 깁퍼진 밤 얼마나 되엇는고
+어듸서 닭울음소리 창틈으로 들려오네.<221>
+<220-221>

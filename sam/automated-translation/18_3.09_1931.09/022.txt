@@ -1,0 +1,42 @@
+**Header Section:**
+Magazine Title: 三千里
+Publication Date: 1931년 09월 01일
+Article Title: 三千里「壁新聞」 (Samch'ŏlli "Wall Newspaper")
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/Collection)
+
+**Body Text Translation:**
+Nine years ago today, Chosŏnin (Koreans) heading to the Narashino internment camp during the Great Kantō Earthquake in Tōkyō <5>
+
+**Summary**
+
+This text is a caption for a photograph published in the September 1, 1931 issue of the magazine Samch'ŏlli, under the recurring feature "Wall Newspaper." The caption identifies the image as showing Koreans being transported to the Narashino internment camp in Japan exactly nine years prior, during the chaos following the Great Kantō Earthquake on September 1, 1923. For historians, this caption is significant as it directly references the rounding up and internment of Koreans following the earthquake, a period marked by widespread racist violence and massacres against the Korean population in Japan fueled by false rumors. The mention of the Narashino camp points to the official Japanese involvement in detaining Koreans during this crisis.
+
+**Named Entities**
+
+東京	동경	Tōkyō
+習志野收容所	습지노 수용소	Narashino shūyōjo
+朝鮮人	조선인	Chosŏnin
+
+**Glossary**
+
+九年前	구년전	Nine years ago
+今日	금일	Today (Sino-Korean term, less common in modern spoken Korean than 오늘)
+大震災	대진재	Great Earthquake (referring to the 1923 Great Kantō Earthquake)
+收容所	수용소	Internment camp, reception center, holding facility
+朝鮮人	조선인	Korean(s) (Common term for Koreans during the period)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제9호
+발행일	1931년 09월 01일
+기사제목	三千里「壁新聞」
+기사형태	잡저
+
+三千里「壁新聞」
+
+
+三千里「壁新聞」九年前 今日 東京大震災時 習志野收容所로가는 朝鮮人＜5＞
+＜5＞

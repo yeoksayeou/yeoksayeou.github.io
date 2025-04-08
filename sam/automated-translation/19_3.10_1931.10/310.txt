@@ -1,0 +1,71 @@
+**Header Section:**
+Magazine Title: 新東亞
+Publication Date: 昭和十三年六月一日 (June 1, 1938)
+Article Title: 朝鮮의 開闢과 건국신화 (檀君, 箕子, 衛滿) (The Creation of Korea and its Founding Myths (Tan'gun, Kija, Wiman))
+Author: 李丙燾
+Article Type: 特輯記事 (Special Feature Article)
+
+**Body Text Translation:**
+
+<32> The story of a nation's beginning, like the story of the world's creation, often starts amidst the mists of myth and legend. For Chosŏn (朝鮮), too, this is the case. There have long been foundation myths, but a clear, unified narrative supported by concrete evidence has been lacking. How did our nation begin? How were these lands first opened? The traditional answers lie in the foundation myths, typically centered around the figures of Tan'gun (檀君), Kija (箕子), and Wiman (衛滿).
+
+The Tan'gun myth speaks of the divine descent of Hwanung, son of the heavenly king Hwanin, onto T'aebaek-san (太白山), where he established a sacred city. He encountered a bear and a tiger who wished to become human. Only the bear endured the trial, transforming into a woman whom Hwanung married. Their son was Tan'gun Wanggŏm (檀君王儉), the progenitor of the Korean people, who established his capital at P'yŏngyang (平壤) and ruled for many centuries. This story imbues the nation's origins with divinity (神聖) and establishes Tan'gun as the sacred first ancestor (始祖).
+
+Following Tan'gun, the narrative introduces Kija (箕子). According to traditional accounts, often citing Chinese sources, Kija was a sage of the Shang dynasty who, refusing to serve the succeeding Zhou dynasty, migrated east with his followers and was enfeoffed in Chosŏn by the Zhou king. He is credited with bringing agriculture, sericulture, writing, and rites, thus civilizing the peninsula. This narrative places Chosŏn within the Sinitic cultural sphere early in its history.
+
+<33> Lastly, there is Wiman (衛滿). Wiman was reportedly a general from the state of Yan in China who fled to Chosŏn around 194 BC during the turmoil following the Qin dynasty's collapse. He gained the trust of King Chun, the reigning monarch of Chosŏn at the time (often assumed, though problematically, to be a descendant of Kija), but later usurped the throne, establishing Wiman Chosŏn. This state eventually fell to the Han dynasty in 108 BC. Wiman represents a more historically verifiable period, bridging the gap between myth and recorded history, although details remain debated.
+
+Evaluating these three figures – Tan'gun, Kija, and Wiman – presents challenges. Tan'gun belongs firmly to the realm of myth (神話), embodying the Korean people's sense of unique, divine origin. While deeply ingrained in traditional consciousness and revered, finding concrete historical (歷史) proof for Tan'gun is difficult, as supporting documentary evidence (文獻上 根據) or archaeological artifacts (遺物) are scarce or ambiguous (模糊). Kija, while treated as historical for centuries, particularly during the Chosŏn dynasty, faces increasing scrutiny regarding the veracity and interpretation of the source materials. His story served ideological purposes, linking Korea to Chinese civilization. Wiman is generally accepted as a historical figure, marking a transition towards recorded history, but his narrative signifies foreign influence and conquest.
+
+Therefore, understanding the "creation" (開闢) of Chosŏn requires navigating these intertwined layers of myth, legend, and history. Each figure carries significant meaning (意義) concerning national identity, cultural origins, and political legitimacy. While Tan'gun represents indigenous origin and sacredness (崇高), Kija signifies civilizational influence from the continent, and Wiman marks a period of historical interaction and conflict. How we interpret these foundation narratives continues to shape our understanding of Korean identity and its place in East Asian history.
+
+**Summary**
+
+This article by Yi Pyŏngdo discusses the three central figures associated with the founding of ancient Chosŏn: the mythical Tan'gun, the traditionally revered sage Kija, and the historically documented Wiman. It outlines the core narrative associated with each figure – Tan'gun's divine descent and establishment of the first Korean kingdom, Kija's supposed enfeoffment and introduction of civilization from China, and Wiman's usurpation and the subsequent fall of his state to Han China. The author notes the difficulty in separating myth from history, particularly for Tan'gun and Kija, highlighting the lack of concrete evidence for the former and the ideological aspects of the latter, while acknowledging Wiman's historical basis but association with foreign influence. For historians, the article is interesting as it reflects a Korean intellectual grappling with national foundation narratives during the colonial period. Yi Pyŏngdo's relatively neutral presentation acknowledges the mythical nature of Tan'gun and questions Kija, subtly pushing back against narratives that overemphasized Chinese influence, while still operating within the academic constraints of the time.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+檀君	단군	Tan'gun
+箕子	기자	Kija
+衛滿	위만	Wiman
+太白山	태백산	T'aebaek-san
+平壤	평양	P'yŏngyang
+李丙燾	이병도	Yi Pyŏngdo
+王儉	왕검	Wanggŏm
+
+**Glossary**
+
+開闢	개벽	Creation; the founding or beginning (of a nation or world)
+건국신화	건국신화	Foundation myth
+잇섯스며	있었으며	There was/were; existed (older spelling of 있었으며)
+업는	없는	Non-existent; without; lacking (older spelling of 없는)
+가지지못하엿다	가지지 못하였다	Could not possess/have (older spelling/form)
+엇더케	어떻게	How; in what way (older spelling of 어떻게)
+神話	신화	Myth; mythology
+歷史	역사	History
+始祖	시조	Founder; progenitor (of a lineage or nation)
+降臨	강림	Descent; advent (esp. of a divine being)
+子孫	자손	Descendants; posterity
+傳統的	전통적	Traditional
+崇拜	숭배	Worship; adoration
+事實	사실	Fact; historical fact; reality
+模糊	모호	Vague; obscure; ambiguous
+文獻上	문헌상	According to documents/literature; textual (evidence)
+遺物	유물	Relic; artifact
+根據	근거	Basis; grounds; evidence
+英雄	영웅	Hero
+時代	시대	Era; period; age
+民族	민족	Nation; people; ethnic group
+起源	기원	Origin; beginning
+說明	설명	Explanation; description
+關聯	관련	Relation; connection; association
+崇高	숭고	Sublime; lofty; noble
+意義	의의	Significance; meaning; importance
+評價	평가	Evaluation; assessment; appraisal
+
+
+---------------------------
+
+
+

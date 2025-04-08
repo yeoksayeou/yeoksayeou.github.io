@@ -1,0 +1,1 @@
+window.ISSUE_LIST = ["01","02","03"];

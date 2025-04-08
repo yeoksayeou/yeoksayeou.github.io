@@ -1,0 +1,78 @@
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1931년 11월 01일
+Article Title: 三千里 壁新聞 제2호 (Samch'ŏlli Wall Newspaper No. 2)
+Author: N/A
+Article Type: 소식 (News/Dispatch)
+
+Samch'ŏlli Wall Newspaper No. 2
+
+World Gold
+Currently, every country in the world is crying because it has no money. However, saying there is no money ultimately means that the vast majority of poor people do not have it; it never means that the rich or the banks do not have it. Now, looking at the gold reserves of each country's central bank:
+
+USA = In the great vault of the New York Federal Reserve Bank, 6.858 billion wŏn worth of gold coins lie dormant.
+
+France = In the basement vault of the Bank of France in Paris, a great sum of 4.8 billion wŏn in gold is also held within.
+
+UK = In the great vault of the Bank of England in London, 1.349 billion wŏn is piled up.
+
+Germany = In the vault of the Reichsbank in Berlin, 683 million wŏn worth of gold is held.
+
+Japan = In the great vault of the Bank of Japan in Nihonbashi, Tokyo, 810 million wŏn worth of brilliant gold coins are also held. <24>
+
+**Summary**
+
+This news brief from late 1931 reports on the vast gold reserves held by the central banks of major world powers (USA, France, UK, Germany, Japan) despite widespread reports of economic hardship ("no money") affecting the general populace globally. It lists the specific amounts held in each bank's vault, highlighting the concentration of wealth. For historians studying colonial Korea, this piece is interesting as it reflects the global economic context of the Great Depression era, shows awareness in Korea of international finance, and notably includes Japan among the major economic powers holding significant gold reserves, implicitly positioning the colonizer within this global elite structure while Korea itself faced economic difficulties.
+
+**Named Entities**
+
+米國	미국	Miguk
+紐育	뉴욕	Nyuyok
+紐育聯邦 준비은행	뉴욕 연방 준비은행	New York Federal Reserve Bank
+佛蘭西	불란서	Pŭllansŏ
+巴里	파리	P'ari
+푸랑스은행	프랑스은행	Bank of France
+英國	영국	Yŏngguk
+倫敦	런던	Rondŏn
+잉글란드은행	잉글랜드은행	Bank of England
+獨逸	독일	Togil
+伯林	베를린	Pŏllin
+제국은행	제국은행	Reichsbank
+日本	일본	Ilbon
+東京	도쿄	Togyŏ
+日本橋	니혼바시	Nihonbashi
+일본은행	일본은행	Bank of Japan
+
+**Glossary**
+
+업서	없어	To not have; to lack (older spelling of 없어)
+잇다	있다	To exist; to have (older spelling of 있다)
+인민	인민	The people; populace
+뿌	뿐	Only; merely (likely older form or typo for 뿐)
+결코	결코	Never; by no means
+중앙은행	중앙은행	Central bank
+보유량	보유량	Amount held; reserves
+대금고	대금고	Large vault; large safe
+금화	금화	Gold coin; gold currency/bullion
+묵어 잇고	묶여 있고/묵혀 있고	To be tied up; to be lying dormant/idle (older verb conjugation/spelling)
+잡드러 잇고	잠들어 있고/잡혀 들어 있고	To be sleeping; to be held within (older verb conjugation/spelling)
+싸여 잇고	쌓여 있고	To be piled up (older spelling/conjugation)
+광채	광채	Brilliance; luster; radiance
+壁新聞	벽신문	Wall newspaper
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제11호
+발행일	1931년 11월 01일
+기사제목	三千里 壁新聞 제2호
+기사형태	소식
+
+三千里 壁新聞 제2호
+世界의 黃金
+지금 세계 각국에는 어느 나라이나 돈이 업서 울고 잇다. 그러나 돈이 업다는 것도 결국 대다수의 가난한 인민들에게 업다는 말이지, 부자나, 은행에 업다는 뿌는 결코 아니다, 이제 각국 중앙은행의 황금 보유량을 보면
+米國=紐育聯邦 준비은행 대금고에는 68억5800만원의 금화가 묵어 잇고.
+佛蘭西=巴里푸랑스은행 지하실 대금고에는 역시 48억원의 대금이 잡드러 잇고.
+英國=倫敦의 잉글란드은행 대금고에도 13억4900만원이 싸여 잇고.
+獨逸=伯林에 잇는 제국은행 금고에도 6억8300만원의 황금이 드러 잇고.
+日本=東京日本橋의 일본은행 대금고에도 8억1천만원의 광채 나는 금화가 드러 잇다.＜24＞

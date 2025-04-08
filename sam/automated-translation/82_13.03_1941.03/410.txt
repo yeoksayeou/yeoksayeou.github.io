@@ -1,0 +1,66 @@
+Magazine Title: 삼천리 제13권 제3호
+Publication Date: 1941년 03월 01일
+Article Title: 謹告 (Public Notice)
+Author: 三千里編輯局 (Samch'ŏlli Editorial Department)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation**
+
+Public Notice
+
+We believe that our company's publication of this special issue commemorating the formation of the Chosŏn Theater Association (朝鮮演劇協會) is a very meaningful event for the development of Chosŏn's theatrical culture. However, due to space limitations and a very tight editing schedule, we were unable to include the histories of various large and small theater troupes other than Kohyŏp (高協), Ch'ŏngch'unjoa (靑春座), Arang (阿娘), and Hwahwasŏn (豪華船), nor actors' memoirs (俳優手記). Our company deeply regrets this. We ask for the broad understanding of the relevant troupes and esteemed readers (讀者諸彦), and promise to address this in the future.
+
+Samch'ŏlli Editorial Department <200>
+
+**Summary**
+
+This editorial notice from *Samch'ŏlli* magazine apologizes for omitting several theater troupes and actors' memoirs from its special issue celebrating the formation of the Chosŏn Theater Association in March 1941. The editors cite lack of space and time constraints as reasons, specifically mentioning that troupes Kohyŏp, Ch'ŏngch'unjoa, Arang, and Hwahwasŏn *were* included. They ask for understanding and promise future coverage. From a historical perspective, this notice highlights the active theater scene in late colonial Korea and the challenges faced by publications in providing comprehensive coverage, possibly reflecting resource constraints or editorial priorities under colonial rule. The formation of the Chosŏn Theater Association itself is a significant event, potentially reflecting attempts to organize or control cultural activities during wartime mobilization.
+
+**Named Entities**
+
+朝鮮演劇協會	조선연극협회	Chosŏn Yŏn'gŭk Hyŏphoe
+高協	고협	Kohyŏp
+靑春座	청춘좌	Ch'ŏngch'unjoa
+阿娘	아랑	Arang
+豪華船	호화선	Hwahwasŏn
+三千里編輯局	삼천리편집국	Samch'ŏlli Editorial Department
+
+**Glossary**
+
+今番	금번	This time; on this occasion
+본사	본사	Our company (referring to the magazine publisher)
+結成	결성	Formation; establishment
+특집	특집	Special feature; special issue
+발간케 된 것	발간케 된 것	(Older form) That it came to be published (Modern: 발간하게 된 것)
+有意義	유의의	Meaningful; significant
+지면 관계	지면 관계	Space limitations (on the page)
+편집 시일	편집 시일	Editing period; time for editing
+촉박했던 탓으로	촉박했던 탓으로	Due to having been very tight/pressed (for time)
+大小諸劇團	대소제극단	Various large and small theater troupes (諸 is a plural marker)
+小史	소사	Brief history
+及	급	And (Classical Chinese character used in Korean)
+俳優手記	배우수기	Actor's memoirs/notes
+揭載치 못한 것	게재치 못한 것	(Older form/spelling) The fact that (we) could not publish/include (Modern: 게재하지 못한 것)
+심히	심히	Greatly; extremely
+섭섭하게	섭섭하게	Regrettably; disappointedly
+생각하여 마지않사오며	생각하여 마지않사오며	(Older, formal ending) We cannot but think; we feel strongly (Modern: 생각하지 않을 수 없으며)
+該劇團	해극단	The relevant/aforementioned theater troupe(s)
+諸位	제위	You (plural, formal, addressing the troupes)
+讀者諸彦	독자제언	Esteemed readers (諸彦 is a respectful term for 'everyone' or 'gentlemen')
+넓은 양해	넓은 양해	Broad understanding
+바라옵고	바라옵고	(Older, formal ending) Asking for; wishing for (Modern: 바라고)
+후일	후일	A later day; the future
+약속하여 두나이다	약속하여 두나이다	(Older, formal ending) We promise (Modern: 약속해 둡니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제3호
+발행일	1941년 03월 01일
+기사제목	謹告
+기사형태	사고·편집후기
+
+謹告
+今番 본사에서 朝鮮演劇協會結成을 기념하여 그 특집을 발간케 된 것은 朝鮮연극문화의 발전을 위해 매우 有意義한 일이라 생각하나이다. 그러나 지면 관계와 편집 시일이 매우 촉박했던 탓으로 高協, 靑春座, 阿娘, 豪華船 이외의 大小諸劇團小史 及 俳優手記를 揭載치 못한 것은 본사로서도 심히 섭섭하게 생각하여 마지않사오며 該劇團諸位와 讀者諸彦의 넓은 양해를 바라옵고 후일을 약속하여 두나이다.
+三千里編輯局<200>

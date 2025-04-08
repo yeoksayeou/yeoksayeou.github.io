@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text File Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            color: #333;
+        }
+        header, footer {
+            background-color: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
+        }
+        footer {
+            margin-top: 20px;
+            margin-bottom: 0;
+        }
+        .content {
+            background-color: #fff;
+            padding: 20px;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            white-space: pre-wrap;
+        }
+        h1 {
+            color: #2c3e50;
+        }
+        /* For sections that match regex patterns */
+        .highlight {
+            background-color: #ffffcc;
+            font-weight: bold;
+        }
+        .code {
+            font-family: monospace;
+            background-color: #f8f8f8;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 3px;
+        }
+        .file-select {
+            margin: 20px 0;
+        }
+        .error {
+            color: #e74c3c;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1 id="title">Text File Viewer</h1>
+        <div class="file-select">
+            <input type="file" id="fileInput" accept=".txt">
+            <p><small>Select a .txt file to view with formatting</small></p>
+        </div>
+    </header>
+
+    <div class="content" id="content">
+        <!-- Content will be loaded here -->
+        <p>Please select a text file using the file input above.</p>
+    </div>
+
+    <footer>
+        <p>Local Text File Viewer - Created <span id="current-date"></span></p>
+    </footer>
+
+    <script>
+        // Get current date for footer
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString();
+        
+        // Get elements
+        const fileInput = document.getElementById('fileInput');
+        const contentDiv = document.getElementById('content');
+        const titleElement = document.getElementById('title');
+        
+        // Add event listener for file selection
+        fileInput.addEventListener('change', handleFileSelect);
+        
+        // Function to handle file selection
+        function handleFileSelect(event) {
+            const file = event.target.files[0];
+            if (!file) return;
+            
+            // Update title
+            titleElement.textContent = `Viewing: ${file.name}`;
+            document.title = `Viewing: ${file.name}`;
+            
+            // Read the file
+            const reader = new FileReader();
+            reader.onload = function(e) {
+                const content = e.target.result;
+                const formattedContent = formatContent(content);
+                contentDiv.innerHTML = formattedContent;
+            };
+            reader.onerror = function() {
+                contentDiv.innerHTML = `<p class="error">Error reading file: ${file.name}</p>`;
+            };
+            reader.readAsText(file);
+        }
+        
+        // Apply regex formatting to content
+        function formatContent(content) {
+            // Example regex patterns - customize these for your specific needs
+            
+            // Format headings (lines that are all uppercase)
+            content = content.replace(/^([A-Z][A-Z0-9 ]+)$/gm, '<h2>$1</h2>');
+            
+            // Format code blocks (indented by 4 spaces or tab)
+            content = content.replace(/^([ \t]{4}.+)$/gm, '<div class="code">$1</div>');
+            
+            // Format important sections (surrounded by asterisks)
+            content = content.replace(/\*\*(.+?)\*\*/g, '<span class="highlight">$1</span>');
+            
+            // Convert URLs to clickable links
+            content = content.replace(/(https?:\/\/[^\s]+)/g, '<a href="$1" target="_blank">$1</a>');
+            
+            return content;
+        }
+        
+        // Check for URL parameter on page load
+        window.onload = function() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const requestedFile = urlParams.get('file');
+            
+            if (requestedFile) {
+                contentDiv.innerHTML = `
+                    <p class="error">Due to browser security restrictions (CORS), 
+                    direct loading of local files via URL parameters is not possible.</p>
+                    <p>Please use the file selector above to choose: ${requestedFile}</p>
+                `;
+            }
+        };
+    </script>
+</body>
+</html>

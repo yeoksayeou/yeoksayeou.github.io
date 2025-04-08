@@ -1,0 +1,74 @@
+Magazine Title: 三千里
+Publication Date: 1941년 06월 01일 (June 1, 1941)
+Article Title: 朝鮮文學と言語問題 (Korean Literature and the Language Problem)
+Author: 金史良 (Kim Sa-ryang)
+Article Type: 論説 (Essay/Argument)
+
+Korean Literature and the Language Problem
+                        Kim Sa-ryang
+
+<32>
+
+To put it simply, literature is the art of language. If this premise is accepted, then the term "Korean Literature" (朝鮮文學) inherently signifies literature written in the Korean language (朝鮮語). Consequently, works written by Koreans (朝鮮人) in Japanese, like those by myself, would naturally fall under the category of Japanese literature (日本文學).
+
+However, the actual situation is not quite so simple. This complexity primarily stems from the unique circumstances of Korea (朝鮮) itself.
+
+When considering the relationship between literature and language, we must first clarify what "language" (言語) refers to. Is it merely a tool for communication, a system of symbols? Or does it represent the very spirit and lifeblood of a people? Depending on which view one takes, the evaluation of "Korean Literature" and the works produced by Koreans will differ significantly.
+
+If language is merely a tool, then it is perfectly natural for Koreans, who are now imperial subjects (皇國臣民), to use the national language (國語 - Japanese) and for their literary works to be considered Japanese literature. From this perspective, the existence of literature written in Korean becomes problematic, potentially seen as unnecessary or even resistant to the national policy (國策).
+
+However, if language is viewed as the embodiment of a people's spirit and life, then the matter becomes much more intricate. Can the spirit and life of the Korean people be fully expressed through the Japanese language? Conversely, can literature written in Korean truly capture the new realities and sentiments of Koreans living under the current regime?
+
+This is the core of the "language problem" (言語問題) in Korean literature today. It is a dilemma deeply intertwined with the political and cultural realities of colonial Korea.
+
+Some argue that true Korean literature can only be written in Korean, asserting that the nuances of Korean sentiment and experience cannot be adequately conveyed otherwise. They strive to preserve and develop literature in the Korean language, despite the increasingly difficult circumstances.
+
+<33>
+
+Others contend that embracing the Japanese language is inevitable and even necessary for Korean writers to participate in the broader literary world of the Empire and to express the modern experiences of Koreans. They believe that language is adaptable and that the spirit of the people can find expression even through a language not originally their own. They might point to examples from other colonial contexts, though each situation has its unique complexities.
+
+My own position, as someone who writes in Japanese, is born from this very struggle. The choice of language is not merely a technical or aesthetic one; it is fraught with political and existential weight. To write in Japanese is, in a sense, to engage directly with the dominant power structure, while potentially sacrificing a degree of connection to the traditional linguistic roots of Korean culture. To write in Korean is to affirm national identity through language, but it risks isolation and faces practical obstacles imposed by language policies.
+
+The ideal solution, perhaps, would be a bilingual flourishing, where both languages could serve the literary expression of the Korean people. However, the current political climate, emphasizing assimilation and the primacy of the national language (Japanese), makes such an ideal difficult to achieve. The pressure to adopt Japanese in public life, education, and increasingly in cultural spheres, inevitably shapes the landscape of literary production.
+
+Therefore, the "language problem" is not simply about which language is "better" for literature. It is about how Korean writers navigate their identity, their experiences, and their artistic aspirations within the specific historical context of colonial rule. It reflects the tensions between cultural preservation and adaptation, between national sentiment and imperial integration.
+
+Ultimately, the value of a literary work should be judged by its artistic merit and its depth of insight into the human condition, regardless of the language it employs. Yet, in the context of colonial Korea, the choice of language itself carries unavoidable significance, reflecting the complex and often painful realities faced by its people. The debate surrounding Korean literature and the language problem is a testament to this ongoing struggle for voice and identity.
+
+**Summary**
+
+Kim Sa-ryang discusses the complex relationship between the Korean language (朝鮮語) and Korean literature (朝鮮文學) under Japanese colonial rule. He acknowledges the view that literature is defined by its language, which would categorize his own Japanese-language works as Japanese literature. However, he argues the situation is complicated by Korea's colonial status and differing views on language – is it merely a tool or the embodiment of a people's spirit? He explores the dilemma faced by Korean writers: using Korean affirms identity but faces political obstacles and potential isolation, while using Japanese allows engagement with the dominant culture and expression of modern realities but risks losing cultural nuances and implies assimilation. Kim states his own work arises from this struggle, where language choice is politically charged, reflecting the tension between cultural preservation and imperial integration.
+
+Historians might find this article particularly interesting as it provides a firsthand account from a prominent Korean writer navigating the linguistic pressures of Japanese colonialism in 1941. It explicitly lays out the ideological conflict surrounding language choice – assimilation versus resistance/preservation – and highlights the existential dilemma faced by intellectuals forced to operate within the constraints of imperial policy (like the promotion of Japanese as the "national language"). Kim's somewhat nuanced position, acknowledging the complexities rather than offering a simple solution, reflects the difficult realities of cultural production under colonial rule shortly before the Pacific War intensified assimilation efforts.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+金史良	김사량	Kim Sa-ryang
+日本	일본	Nihon/Nippon
+
+**Glossary**
+
+朝鮮文學	ちょうせんぶんがく	Korean literature
+言語問題	げんごもんだい	Language problem
+朝鮮語	ちょうせんご	Korean language
+朝鮮人	ちょうせんじん	Korean person/people
+日本文學	にほんぶんがく	Japanese literature
+言語	げんご	Language
+皇國臣民	こうこくしんみん	Imperial subject (of Japan)
+國語	こくご	National language (here referring to Japanese)
+國策	こくさく	National policy
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	朝鮮文學と言語問題
+필자	金史良
+기사형태	논설
+
+朝鮮文學と言語問題
+						金史良
+원문 일본문 - 국편

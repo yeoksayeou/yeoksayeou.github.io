@@ -1,0 +1,47 @@
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1931-10-01
+Article Title: ○急告 (Urgent Notice)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+○Urgent Notice
+We are recruiting Samch'ŏlli branches within the country and overseas. Those interested, please request the internal regulations (enclose a 2-sen postage stamp).
+Kyŏngsŏng Samch'ŏlli Sa <117>
+
+**Summary**
+
+This short notice is an announcement from the Samch'ŏlli Company, publishers of the Samch'ŏlli magazine, seeking individuals interested in establishing branch offices both within Korea ("海內") and abroad ("海外"). Prospective applicants are instructed to request the company's internal regulations by mail, enclosing a 2-sen postage stamp. This brief text reveals the magazine's ambition to expand its network and distribution during the colonial period, suggesting a degree of business activity and outreach extending potentially beyond the Korean peninsula. The requirement of a stamp for information highlights the common communication methods of the era.
+
+**Named Entities**
+
+海內	해내	Haenae (Within the country/Korea)
+海外	해외	Haeoe (Overseas)
+京城	경성	Kyŏngsŏng
+三千里社	삼천리사	Samch'ŏlli Sa (Samch'ŏlli Company)
+
+**Glossary**
+
+急告	급고	Urgent Notice
+海內	해내	Within the country, domestic (referring to Korea)
+海外	해외	Overseas, abroad
+支社	지사	Branch office
+募集함니다	모집합니다	We are recruiting (Older polite ending "-ㅁ니다" instead of modern "-ㅂ니다")
+有意하신분	유의하신 분	Interested person(s) (Slightly older phrasing)
+內規	내규	Internal regulations
+請하시압	청하십시오	Please request (Archaic polite imperative ending "-시압")
+郵票	우표	Postage stamp
+봉入	봉입	Enclosed (Using 入 instead of modern 입 for 'enter'/'insert')
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제10호
+발행일	1931년 10월 01일
+기사제목	○急告
+기사형태	사고·편집후기
+
+○急告
+海內海外에 三千里支社를 募集함니다 有意하신분은 內規를 請하시압(二錢郵票봉入)
+京城 三千里社＜117＞
+＜117＞

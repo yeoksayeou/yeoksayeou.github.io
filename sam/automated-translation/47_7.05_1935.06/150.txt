@@ -1,0 +1,177 @@
+Magazine Title: 삼천리 第七卷 第五號
+Publication Date: 1935년 06월 01일 (June 1, 1935)
+Article Title: 朝鮮米統制縱橫觀(現行對策과 自治管理案) (A Comprehensive View of Korean Rice Control (Current Countermeasures and the Self-Management Plan))
+Author: 朴用來 (Pak Yongnae)
+Article Type: 논설 (Editorial/Argumentative Essay)
+
+A Comprehensive View of Korean Rice Control
+						By Pak Yongnae
+I. Foreword
+The rice countermeasures, which have seen repeated disputes over the past several years, regardless of how they are presented, have their focus on controlling rice from outside territories (外地米), mainly Korean rice (朝鮮米), for the purpose of protecting mainland Japanese rice producers (內地米 生産者). This requires no redundant explanation (贅言). As a result of encouraging increased rice production (産米增殖) under a vast plan, particularly in Korea, to solve the food problem of the mainland (內地), Korean rice production advanced, and large quantities began to appear in the mainland Japanese rice market. Consequently, this put pressure on mainland Japanese rice, causing mainland Japanese rice producers to scream (絶呌) for the control of Korean rice, which in turn led the government to worry greatly (腐心) about its control. However, it is a natural consequence that increased production of rice from outside territories would put pressure on the mainland. Initially encouraging increased rice production in the outside territories, and then attempting to control this rice now because it pressures mainland rice, does nothing more than expose the contradiction of the policy for increasing rice production in outside territories itself and the lack of firm principles among those in power. From the perspective of the outside territories, herein lies the reason for complete opposition to such control.
+Next, let us first examine the kind of treatment Korean rice is currently receiving, and then proceed to review what kind of relationship the currently discussed Rice Self-Management Plan (米穀 自治管理案) has with Korean rice.
+
+I. Rice Control Law Article 4
+According to Article 4 of the Rice Control Law (米穀統制法), implemented from November 1, Shōwa 8 (1933), "The Government, in order to make the quantity of rice exported from prefectures (道府懸) to outside said regions, or from Korea (朝鮮) or Taiwan (臺灣) to the mainland (內地), average¹³ monthly, may, as prescribed by Imperial Ordinance (勅令), purchase rice during the shipping season (出廻期) and sell rice after the shipping season." In short, speaking from the perspective of Korean rice, this is intended to prevent Korean rice from being exported in large quantities all at once during the shipping season when rice floods the market, thereby further negatively impacting the mainland Japanese rice market. The government purchases a certain amount of Korean rice during the shipping season and then gradually sells it off after the shipping season<119> when the general rice outflow decreases, thereby averaging the export of Korean rice monthly to regulate the seasonal fluctuations of mainland Japanese rice prices. Unless there are special circumstances, the purchase or sale of Korean rice is done in Korea (Same Enforcement Ordinance Article 13), and the price is determined based on (準據) the market price (時價) (Same Law Article 4, Paragraph 2). The purchase quantity is limited to "the quantity remaining after deducting (控除) the sum of the estimated monthly export quantities from November to February of the relevant rice year from four months' worth of the monthly average of the estimated annual export quantity for that rice year." Here, the estimated annual export quantity is the amount calculated by multiplying the second estimated rice harvest forecast for Korea by the average ratio of rice exports to Korean rice production taken over the previous five years. The estimated monthly export quantity is the amount calculated by multiplying the estimated annual export quantity by the average ratio of Korean rice exports for each month to the total annual exports for that year, taken over the previous five years (Monthly Enforcement Ordinance Article 11). Thus, it is a principle that rice equivalent to the purchased quantity should be sold (賣渡) within the relevant year. However, if such sales cause the rice price to fall below the minimum price, it is stipulated that sales need not occur if the average price of standard medium-grade rice in the three official rice markets of Fukagawa (深川), Kanda (神田), and Dōtonbori (道頓堀) is less than five *sen* dearer than the standard minimum price (Same Enforcement Ordinance Article 12). Such regulations saw actual activation, and the seasonal purchase of Korean rice produced in Shōwa 8 (1933) was 1.7 million *sŏk* (石). It is a fact that, within this limit, the seasonal impact on mainland Japanese rice due to Korean rice exports was reduced accordingly. However, for the rice produced in Shōwa 9 (1934), there has been no purchase yet due to high rice prices.
+
+I. Temporary Rice Import Adjustment Law
+While Article 4 of the Rice Control Law was effective to some extent in adjusting the export of rice from outside territories, as mentioned earlier, the Temporary Rice Import Adjustment Law (臨時米穀移入調節法), which could be said to expand and strengthen this regulation, was also implemented from May 20, Shōwa 9 (1934). Looking at the content of this law, the government can purchase rice from outside territories to adjust the quantity imported (移入) into the mainland (Same Law Article 1). The purchase price of the rice is determined based on the market price within the range set by the Minister of Agriculture and Forestry (農林大臣), taking into account the standard minimum price, the price difference with mainland Japanese rice, freight charges, etc. (Same Law Article 2, Same Law Enforcement Ordinance Article 1). The selling price of the purchased rice is determined based on the market price (Same Law Article 4). However, as mentioned before, fearing a sharp drop in mainland rice prices, sales, other than those intended for export, cannot be made unless the standard medium-grade rice price in the Tokyo (東京) and Osaka (大阪) official rice markets is above a price corresponding to the standard minimum price, and it is recognized that it will not negatively affect the mainland Japanese rice market (Same Enforcement Ordinance Article 2). Purchased rice can also be stored (貯藏) and processed. Unless there are special circumstances, the purchase, storage, and processing of Korean rice are to be done in Korea. That is, this law lacks the limitations on the timing or quantity of buying and selling seen in the Rice Control Law, and the conditions for selling are even stricter. Therefore, mainland Japanese rice is considerably protected <120> from the threat posed by the export of rice from outside territories, especially Korean rice. However, since this law is temporary, effective only until March 31 of this year (Shōwa 10, 1935), it is destined to be abolished soon, and it seems it will ultimately end without ever being activated.
+
+I. Encouragement of Unhulled Rice Storage
+Another supplementary measure to the Rice Control Law, the Encouragement of Unhulled Rice Storage (正租貯藏獎勵), implemented in Korea last year, deserves mention. Based on the Rice Storage Encouragement Rules (米穀貯藏獎勵 規則), specific incentive money (獎勵金) is provided to encourage farmers to voluntarily store unhulled rice (正租). In return for receiving a considerable amount of incentive money, the storer cannot dispose of the rice arbitrarily during the storage period unless certain conditions are met—for example, when there is no risk of collapsing the market price—and government permission is obtained. Without explaining the detailed contents, for the rice produced in Shōwa 8 (1933), 3 million *sŏk* of Korean rice were stored long-term and 800,000 *sŏk* short-term. For the rice produced in Shōwa 9 (1934), although long-term storage was suspended, short-term storage was carried out, storing 434,300 *sŏk* of unhulled rice and 149,250 *sŏk* of brown rice (玄米). Therefore, through this method as well, the flooding of the mainland Japanese market by Korean rice during the shipping season will be prevented to some extent.
+In summary, even currently, the export of Korean rice to mainland Japan is considerably controlled. However, mainland Japanese rice producers are not satisfied with this. A coalition of representative rice producers, centered around the Imperial Agricultural Association (帝國農會), insists on forceful and thorough control over rice from outside territories, and recently, the movement for its realization has intensified fiercely. Accordingly, the government has also begun devising "Fundamental Rice Countermeasures" (米穀 根本對策). Based on a resolution of the House of Representatives in the 65th Diet session, the government established a Rice Countermeasures Investigation Committee (米穀對策 調査會) headed by Prime Minister Okada (岡田), appointing its members by the end of August (last year). Thus, the first general meeting of the Rice Countermeasures Investigation Committee was held on September 25th at the Prime Minister's official residence. On that day, the Ministry of Agriculture and Forestry (農林省) submitted, along with other proposals, a "Rice Self-Control Plan" (米穀 自治統制案) as a reference plan. After repeated deliberations, a draft was finalized by the subcommittee on January 11th of this year, passed by a large majority in the special committee on the 15th, and also passed without difficulty in the general meeting on the 19th. This is the so-called "Rice Self-Management Plan" (米穀 自治管理案).
+
+I. Rice Self-Management Plan
+This Rice Self-Management Plan was submitted to the current Diet session after the government received the official report from the Rice Countermeasures Investigation Committee and prepared the bill based on it. Since it is currently causing controversy, introducing its full text might not be futile (徒勞), but here, only its main points will be summarized for reference, and the clauses considered to have a direct impact on the interests of Korean rice will be cited and explained in more detail.
+Outline of the Rice Self-Management Plan (Refer to The Economist, early February issue).
+(1) The government shall annually estimate the supply and demand (需給推算) of rice throughout mainland Japan, Korea, and Taiwan. If a surplus (過剩) arises as a result, it shall determine a certain quantity within the scope of that surplus<121> and allocate (配定) it for control to mainland Japan, Korea, and Taiwan.
+(2) The government may, when necessary, mandate the establishment of Rice Control Cooperatives (米穀統制組合) based on designated districts throughout mainland Japan, Korea, and Taiwan. Upon establishment, producers within that district shall, in principle, be deemed members of the cooperative.
+(3) The Control Cooperative shall allocate the control quantity assigned to the cooperative among its members, receive the allocated members' rice on consignment for storage (貯藏), and take other necessary measures for control.
+(4) In municipalities where Sales Cooperatives handling rice exist, the duties of the Rice Control Cooperative may be performed by these Sales Cooperatives. Also, in municipalities without Control Cooperatives or Sales Cooperatives, the Agricultural Association (農會) may perform the duties of the Control Cooperative with the permission of the administrative authorities.
+(5) The government may, when necessary, order Control Cooperatives or the bodies performing their duties to join a Regional Rice Control Cooperative Federation (地方米穀 統制組合 聯合會), and order Cooperative Federations to join a Central Rice Control Cooperative Association (中央米穀 統制組合會).
+(6) The government shall allocate a certain quantity to the Cooperative Federation and have it controlled. The Cooperative Federation shall allocate the assigned rice to its affiliated organizations and have it controlled, deducting (控除) an amount determined by considering the storage capacity of the organization and other circumstances. The remainder shall be purchased (買上) by the government upon application.
+(7) Control Cooperatives, the bodies performing their duties, or Federations shall not sell rice at prices outside the range of the minimum and maximum prices.
+(8) The government shall devise measures to supply funds for rice and provide subsidies (助成金) to Control Cooperatives or the bodies performing their duties or Federations, while simultaneously exercising necessary supervision over their operations in the public interest.
+(9) If the government recognizes that the supply of rice is still markedly excessive despite implementing the above facilities, it may, after deliberation by the committee, order control over the movement of rice in mainland Japan, Korea, and Taiwan, limited to a certain quantity. The primary issue here is how much allocation will fall to Korea. To discuss this allocation ratio, one must first explain the supply and demand estimation. The supply and demand estimation is based annually on the estimated rice harvest throughout mainland Japan, Korea, and Taiwan (for Taiwan's first crop, it's an estimated amount), the rice inventory as of November 1st, the estimated rice consumption considering past consumption patterns, and the ideal carryover stock. If there is a surplus as a result, a certain quantity within that surplus range will be determined and allocated to mainland Japan, Korea, and Taiwan for control. Looking at the supply and demand estimation based on the rice situation as of November 1, Shōwa 8 (1933):
+Supply
+Carryover from previous year: 9,008,000 *sŏk*
+Actual harvest for Year 8: 70,847,000 *sŏk*
+Estimated import from Korea/Taiwan: 12,500,000 *sŏk*
+Total: 92,355,000 *sŏk*<122>
+Demand
+Estimated exports: 40,000 *sŏk*
+Estimated shipments out [within Japan]: 387,000 *sŏk*
+Estimated consumption: 73,181,000 *sŏk*
+Total: 73,609,000 *sŏk*
+Difference (Carryover): 18,746,000 *sŏk*.
+From this carryover, after deducting the ideal carryover of 500,000 *sŏk* and the government-owned rice at the time, approximately 3,000,000 *sŏk* (Government rice as of end Nov. Shōwa 8: 2,960,350 *sŏk*), the remaining 10,746,000 *sŏk* is surplus rice (過剩米). However, the following calculation assumes 9 million *sŏk* as the quantity to be controlled. The allocation ratio, in the plan suggested by the Ministry of Agriculture and Forestry, was based on the quantity of rice shipped outside the jurisdiction (管外移出數量) from mainland Japan, Korea, and Taiwan.
+Note - (1) Allocation ratio based on the ratio of jurisdictional exports in Shōwa 8. (2) Movement volume refers to the 13.614 million *sŏk* of mainland Japanese rice shipped outside prefectures (縣外移出) in the same year; export volume refers to the 7.972 million *sŏk* of Korean rice exported to mainland Japan in the same year (Reference: Chosun Ilbo, Jan 17, 23). What was roughly a 50/50 split between mainland and external territories became based on the "increasing trend" (『增加趨勢』) of jurisdictional export quantity in the original subcommittee proposal, resulting in:
+Note - (1) Allocation ratio based on the average ratio of the increasing trend of jurisdictional export quantities over the recent ten years. (2) Other details same as before. This became extremely disadvantageous to the external territories. However, such an unfair allocation ratio inevitably provoked opposition movements from the external territories. Consequently, the special committee gave some consideration to the position of the external territories in making the final decision:
+Note - (1) Allocation ratio based on the increasing trend of jurisdictional export quantity, taking into account the jurisdictional export quantity and other circumstances. (2) Other details same as before. Even so, mainland Japan is allocated only 35% of the surplus rice to be controlled, whereas Korea is allocated a whopping 44%. Consequently, while mainland Japan only needs to control just over 20% of the rice transported outside its prefectures, Korea must hold back fully half of its exported rice. How is this not "discriminatory treatment" (「差別待遇」) and damaging (致傷) to Korean rice? The reason why the Korean Grain Association Federation (朝鮮穀物協會聯合會),<123> the Rice Research Society (米穀硏究會), and the Society for the Promotion of Korean Rice Protection (朝鮮米擁護期成會) etc., launched a "ratio opposition" movement for a time lies here.
+In any case, a certain quantity of surplus rice is thus determined for mainland Japan, Korea, and Taiwan, respectively allocated to their Control Cooperatives for storage. From the allocated quantity, after deducting an amount determined by considering the storage capacity of the Control Cooperative and other circumstances, if there is a remainder, the government is to purchase it upon application. The price for this purchase in mainland Japan is the minimum price under the Control Law, while in Korea or Taiwan, it is determined by considering rice production costs, prices, and other economic circumstances. Furthermore, rice stored in the Control Cooperative cannot be released unless the rice price in mainland Japan is significantly higher than the minimum price, and it cannot be sold at a price below the minimum price range. Also, the Cooperative Federation can issue necessary directives, such as implementing average selling prices, to its affiliated organizations to control rice sales.
+Surveying this, the main objective of the Rice Self-Management Plan is to largely prohibit the export of Korean rice to mainland Japan, which pressures mainland Japanese rice, thereby maintaining mainland Japanese rice prices above the minimum price, and only permitting the export of controlled Korean rice when there is no fear of breaking (割) that price. While mainland Japanese rice may be protected without worries about the future (後顧の念), Korean rice, produced not for consumption but for sale, will have even the benefits enjoyed under the existing free export system severely restricted.
+The situation does not end here. If, despite such controls, the supply is still recognized as markedly excessive—that is, if the rice price falls below or is feared to fall below the standard minimum price—control over the movement of rice in mainland Japan, Korea, and Taiwan, limited to a certain quantity, can be ordered after deliberation by the committee. This is particularly targeted at rice from outside territories, erecting double and triple breakwaters against its export to mainland Japan. The stored rice receives some low-interest financing and subsidies for low-interest storage fees. Considering that the vast majority of Korean rice depends on export to mainland Japan, its future cannot but be called gloomy (暗澹).<124>
+
+**Summary**
+
+This 1935 editorial by Pak Yongnae critiques Japan's rice control policies, arguing they primarily serve to protect Japanese farmers by restricting Korean rice exports. It analyzes existing laws like the Rice Control Law and the Temporary Rice Import Adjustment Law, and details the newly proposed Rice Self-Management Plan. Pak argues this plan, especially its allocation formula for surplus rice control, is discriminatory against Korea, forcing it to store a disproportionately large share of its export-oriented rice production, thereby damaging the Korean agricultural economy while shielding Japanese producers. The article highlights the inherent contradiction in Japan first encouraging Korean rice production for its own needs, then restricting it when it becomes competitive. Historians would find this article valuable for its contemporary Korean perspective on Japanese colonial economic policies, specifically the mechanisms of agricultural control, the articulated sense of injustice regarding discriminatory treatment ("差別待遇"), and the organized Korean resistance to these policies (mentioning specific groups like the 朝鮮米擁護期成會). It clearly illustrates the colonial dynamic where the colony's economic activities were subordinated to the metropole's interests.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+朴用來	박용래	Pak Yongnae
+内地	내지	Naichi
+政府	정부	Chŏngbu
+臺灣	대만	Taiwan
+道府懸	도부현	Dōfuken
+昭和	소화	Shōwa
+深川	심천	Fukagawa
+神田	신전	Kanda
+道頓堀	도톤보리	Dōtonbori
+農林省	농림성	Nōrinshō
+帝國農會	제국농회	Teikoku Nōkai
+岡田	오카다	Okada
+米穀對策 調査會	미곡대책 조사회	Migok T'aech'aek Chosahoe
+朝鮮穀物協會聯合會	조선곡물협회연합회	Chosŏn Kokmul Hyŏphoe Yŏnhaphoe
+米穀硏究會	미곡연구회	Migok Yŏn'guhoe
+朝鮮米擁護期成會	조선미옹호기성회	Chosŏn Mi Ongho Kisŏnghoe
+東京	동경	Tokyo
+大阪	오사카	Osaka
+
+**Glossary**
+
+統制	통제	Control, regulation
+内地	내지	Mainland Japan
+外地	외지	External territories (colonies like Korea, Taiwan)
+移出	이출	Export, shipment out
+移入	이입	Import, shipment in
+産米增殖	산미증식	Increase of rice production
+獎勵	장려	Encouragement, promotion
+絶呌	절규	Outcry, scream (older Hanja form for 절규)
+腐心	부심	To worry greatly, rack one's brains
+贅言	췌언	Superfluous words, redundant explanation
+米穀	미곡	Rice grain
+勅令	칙령	Imperial Ordinance
+出廻期	출회기	Harvest/shipping season (for crops)
+買入	매입	Purchase
+賣渡	매도	Sale, selling
+準據	준거	Based on, according to
+豫想	예상	Estimate, forecast (older form, now 예상)
+控除	공제	Deduction, subtraction
+正租	정조	Unhulled rice, paddy
+玄米	현미	Brown rice
+需給	수급	Supply and demand
+過剩	과잉	Surplus, excess
+配定	배정	Allocation, assignment
+組合	조합	Cooperative, association, union
+聯合會	연합회	Federation, association
+貯藏	저장	Storage
+助成金	조성금	Subsidy, grant
+割	할	To break, fall below (a price level)
+暗澹	암담	Gloomy, dark, bleak
+잇슴	있음	Being, existence (older spelling of 있음)
+업는	없는	Not having, without (older spelling of 없는)
+하얏스며	하였으며	And did (older spelling/conjugation of 하였으며)
+밧고	받고	Receiving (older spelling of 받고)
+놋코서	놓고서	Having put, after placing (older spelling of 놓고서)
+마츰내	마침내	Finally, eventually (older spelling of 마침내)
+이르키고	일으키고	Causing, raising, starting (older spelling of 일으키고)
+管外移出	관외이출	Shipment/export outside the jurisdiction (e.g., prefecture or colony)
+縣外移出	현외이출	Shipment/export outside the prefecture (within Japan)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제5호
+발행일	1935년 06월 01일
+기사제목	朝鮮米統制縱橫觀(現行對策과 自治管理案)
+필자	朴用來
+기사형태	논설
+
+朝鮮米統制縱橫觀
+						朴用來
+一. 머릿말
+最近數年來 紛糾에 紛糾를 거듭하고 잇는 米穀對策은 그 표명하는 바가 여하한 것임에 불구하고 內地米 生産者의 擁護를 목적한 外地米主로 朝鮮米의 統制에 중점이 잇슴은 贅言할 필요도 업는 일이다. 內地의 食糧問題 解決을 위하야 특히 朝鮮에 잇서서 尨大한 계획으로 産米增殖을 獎勵한 결과는 朝鮮 米生産의 진전을 보아 다량으로 內地米穀市長에 그 자태를 나타내이게 되엇다. 따라 이것이 內地米를 압박하야 內地米 生産者로 하야금 朝鮮米 統制를 絶呌케 하얏스며 延하야서는 政府에서도 그 統制에 腐心하게 되엇다. 그러나 外地米增産이 內地에 압박을 주게 됨은 당연한 歸結일 터인데 당초에는 外地産米 增殖을 獎勵하야 놋코서 이것이 內地米에 압박이 된다고 이제 와서 外地米를 통제하려는 것은 外地産米 增殖政策 그 자체의 矛盾과 爲政者의 無定見을 暴露함에 지나지 못할 것이며 外地側으로 본다면 그 統制에 全面的으로 반대할 이유가 여긔에 잇다 할 것이다.
+그러면 다음에 우선 朝鮮米가 현재 엇더한 대우를 밧고 잇는가를 살려보고 나아가 방금 문제되어 잇는 米穀 自治管理案이 朝鮮米에 대하야 엇더한 關係를 갓고 잇는가를 檢討하야 보기로 하자.
+
+一. 米穀統制法 第四條
+昭和 8년 11월 1일부터 施行된 米穀統制法 第四條에 의하면 「政府는 道府懸으로부터 該地域外로 又는 朝鮮 또는 臺灣으로부터 內地로 移出하는 米穀의 數量을 月別¹³均的으로 하기 위하야 勅令에 정하는 바에 의하야 出廻期에 잇서 米穀의 買入을 하고 出廻期後에 잇서 米穀의 賣渡를 할 수 잇슴」이라고 規定되어 잇는바 以下 朝鮮米를 표준하고 말한다면 이는 米穀이 殺到하는 出廻期에 朝鮮米가 일시에 다량으로 移出되어 日本內地 米穀市場에 一層 惡影響을 주지 안토록 出廻期에 政府에서 일정한 수량의 朝鮮米를 買入하야 두엇다가 出廻期後米穀出廻가＜119＞ 일반으로 적어진 그때에 점차로 賣却하야 朝鮮米移出을 月別的으로 평균히 함으로써 內地米價의 季節的 變動을 調節하려는 것인데 그 買入 또는 賣渡는 특별한 사정이 업는 한 朝鮮米는 朝鮮에서 하고 (同法施行令 第十三條) 그 價格은 時價에 準據하야 이를 정하게 되엇다. (同法 第四條 第二項)그리고 買入數量은 「當該 米穀年度에 잇서서의 年推算 移出數量을 월평균한 것의 4개월분을 當該 米穀年度에 잇서서의 11월부터 2월에 이르는 各月推算移出數量의 합계액에서 控除한 數量을 限度」로 制限되어잇다. 그런데 여긔에 年推算移出數量이라는 것은 朝鮮의 第二回 米穀豫想 收穫高에 朝鮮米穀 生産高에 대한 그 産米의 移出數量의 比例를 前五年에 취하야 평균한 것을 乘하야 産出한 額이고 各月推算 移出數量이라는 것은 각월에 잇서서의 朝鮮産米의 移出數量의 그 年移出數量에 대한 比例를 前五年에 취하야 평균한 것을 그 年推算 移出數量에 乘한 額이다(月法施行令第十一條). 이리하야 買入한 米穀의 數量에 상당하는 米穀은 當該年度內에 賣渡하는 것이 원칙적슜�로 되어 잇스나 그 賣渡로 말미아마 米價가 最低價格 以下로 低落하게 되면 안될 것임으로 深川, 神田, 及道頓堀의 三正米市場의 標準 中米平均價格이 標準 最低價格보다 五分 빗싼 이하인때는 賣渡치 안어도 조타고 規定되어 잇다(同法施行令第十二條). 如斯한 法規는 실제에 잇서서 그 발동을 보게 되어 昭和 8年産 朝鮮米의 期節的 買上은 170만石이엇섯는데 此限에 잇서서도 朝鮮米移出에 인한 日本內地米의 季節的 打算이 그만치 輕減되엇슬 것은 사실이다. 그런데 9年産米에 잇서서는 米價高의 관계로 아직 그 買上이 업다.
+
+一. 臨時米穀移入調節法
+米穀統制法 第四條가 外地米의 移出調節에 어느 정도까지 有效함은 前述한 바와 갓거니와 이 法規를 擴充强化하얏다고 할 臨時 米穀移入 調節法이 또한 昭和 9년 5월 20일부터 실시되엇다. 이 法令의 내용을 보건대 政府는 外地米의 內地移出量數을 調節하기 위하야 外地米를 買入할 수 잇다고 하얏는데(同法第一條) 그 買入하는 米穀의 價格은 標準 最低價格 日本內地米와의 格差, 運賃諸掛등을 參酌하야 農林大臣이 정하는 額의 범위내에서 時價에 準據하야 이를 정하고(同法 第二條 同法 施行令 第一條) 그 買入한 米穀의 賣渡價格은 時價에 準據하야 이를 정한다(同法第四條). 그러나 그 賣渡는 압서 말한 바와 가티 內地米價의 暴落을 염려하야 輸出을 목적한 賣渡외에는 東京大阪 正米市場의 標準 中米價格이 標準 最低價格에 상당하는 가격이상인 때로서 日本內地의 米穀市場에 惡影響을 밋치지 안으리라고 인정되는 경우가 아니면 할 수 업게 되엇다(同法施行令第二條). 그리고 買入한 米穀은 貯藏及加工도 할 수 잇다. 그 買入貯藏及加工은 특별한 사정이 업는 한 朝鮮米에 잇서서는 朝鮮에서 하기로 되엇다. 즉 이 法令에 잇서서는 米穀統制法에서 보는 바와 가튼 買賣의 시기라든가 數量의 제한이 업고 또 賣渡의 條件도 一層嚴重히 되어 잇슴으로 外地米＜120＞ 특히 朝鮮米移出에 의한 脅威로부터 內地米는 상당히 보호를 밧게 되어잇다. 그러나 이 法令은 今10년 3월 31일까지의 臨時的의 것이기 때문에 不遠 이것은 廢止될 운명에 잇스니 마츰내 그 發動은 보지 못하고 말게 될 줄로 안다.
+
+一. 正租貯藏獎勵
+또 한가지 米穀統制法의 補强工作으로 客年에 朝鮮에도 실시된 正租貯藏獎勵에 대하야 一言하면 米穀貯藏獎勵 規則에 基하야 일정한 獎勵金을 交附하고 農民으로 하야금 自發的으로 正租를 貯藏케 하는 것인데 이는 상당한 額의 獎勵金을 交附하는 대신 貯藏其間中은 일정한 조건-例하면 市價를 崩落식힐 염려가 업다든가 함을 구비한 경우로서 政府의 허가를 마튼때가 아니면 貯藏者가 임의로 처분할 수 업게 되어 잇다. 그 자세한 내용에 대해서는 설명치 안커니와 昭和 8년 産米에 잇서서 朝鮮米는 長期貯藏 三百萬石 短期貯藏 八十萬石이 貯藏되엇섯고 9年産米에 잇서서도 長期貯藏은 중지되엇스나 短期貯藏은 하기로 되어 正租 43만4천3백石과 玄米 14만9천2백5십石을 貯藏하얏다. 그럼으로 이 방법에 의하야서도 出廻期에 잇서서 朝鮮米의 日本內地 市場殺到는 어느 정도까지 방지될 것이다.
+이상은 요컨대 현금에 잇서서도 朝鮮米의 日本內地移出은 상당히 통제되고 잇다. 그러나 日本內地米 生産者는 이로 만족치 안는다. 一聯의 代表的 米生産者는 帝國農會를 중심으로 外地米에 대한 强力的 徹底統制를 주장하며 최근에 이르러 그 實現運動은 猛烈의 度를 加하게 되엇다. 따라 政府에서도 「米穀 根本對策」을 강구하게 되엇스니 第65議會의 衆議院決議에 기하야 政府는 岡田首相을 首班으로 한 米穀對策 調査會를 설치하고 8月 末日(昨年)에는 委員까지 任命하얏다. 이리하야 米穀對策 調査會 第一回 總會는 9월 25일 首相官邸에서 개최되엇는바 당일 農林省으로부터 參考案으로 다른 案과 아울러 「米穀 自治統制案」이 제출되엇다. 이래 심의를 거듭한 결과 금년 1월 11일 小委員會에서 成案을 엇게되어 15일의 特別委員會에서 대다수로 可決되고 19일의 總會에서 이 또한 무난히 可決된 것이 소위 「米穀 自治管理案」이라는 것이다.
+
+一. 米穀 自治管理案
+이 米穀 自治管理案은 政府에서 米穀對策 調査會로부터 正式 答申을 바다 이에 基하야 法案을 정비하야가지고 今期議會에 제출하엿든 것인바 방금문제를 이르키고 잇는 이만치 그 全文을 소개함도 徒勞는 안일지나 여긔서는 그 骨子만을 추려 참고에 供하고 朝鮮米의 이해에 직접관련이 잇다고 생각되는 條項만을 좀더 자세히 引用하야 설명하기로 한다.
+米穀 自治管理案要領(에코노미스트 2月上旬號參照).
+(1) 政府는 每年 日本內地, 朝鮮及臺灣을 통하야 米穀의 需給推算을 行하고 그 결과 過剩을 生하는 경우는 그 過剩數量의＜121＞ 범위내에서 일정수량을 정하야 日本內地, 朝鮮及臺灣에 이를 配定統制함.
+(2) 政府는 필요한 경우에는 日本內地, 朝鮮及臺灣을 통하야 일정구역을 단위로 하는 米穀統制組合을 設立 식힘을 得함이 설립이 잇슬 時는 그 구역내의 生産者는 원칙으로 그 組合에 가입한 것으로 看做함.
+(3) 統制組合은 組合에 配定된 統制數量을 그 組合員에게 배정하고 또 배정된 조합원의 米穀을 委託바다 貯藏하며 그 他統制上 필요한 處置를 취함.
+(4) 米穀을 취급하는 販賣組合의 설치가 잇는 市町村에서는 米穀統制組合의 업무는 이 販賣組合에서 行함을 得함. 또 統制組合 又는 販賣組合이 업는 市町村에서는 農會가 行政官廳의 허가를 바다 統制組合의 업무를 行함을 得함.
+(5) 政府는 필요한 경우 統制組合 又는 그 業務를 행하는 단체에 대하야 地方米穀 統制組合   聯合會에 가입을 命하고 又는 組合聯合會에 대하야 中央米穀 統制組合會에 加入을 命함을 得함.
+(6) 政府는 組合聯合會에 대하야 一定數量을 配定하고 統制케 함. 組合聯合會는 配定된 米穀을 그 所屬團體에 대하야 配定하고 統制케 함이 統制數量中團體의 貯藏能力 그 他의 사정을 참작하야 정한 것을 控除함. 殘餘는 申込에 應하야 政府에서 이를 買上함.
+(7) 統制組合 그 업무를 行하는 단체 又는 聯合會는 最低價格及最高價格의 범위내의 가격으로써 함이 아니면 米穀을 販賣함을 不함.
+(8) 政府는 統制組合 또는 그 업무를 행하는 단체 又는 聯合會에 대하야 米穀資金을 공급하며 助成金을 교부하는 방책을 강구하는 동시에 그 업무에 관하야 公益上 필요한 監督을 함.
+(9) 政府는 如上한 施設을 講할지라도 아직 米穀의 供給이 현저히 過剩하다고 認할 時는 委員會의 議를 至하야 一定數量을 한하야 日本內地, 朝鮮及臺灣의 米穀移動에 대하야 통제를 命함을 得함. 여긔서 제일에 문제되는 것은 朝鮮에 얼마나한 배정이 도라올가 하는 것인데 이 配定比率을 말하려면 먼저 米穀需給推算부터 설명하야만 될 것이다. 需給推算은 每年日本內地, 朝鮮及臺灣을 통하야서의 米穀豫想 收穫高(臺灣의 第一期作에 대하야서는 推定額) 11월1일의 米穀現在高過去의 消費狀況을 참작한 米穀消費豫想高 及 理想持越高를 기초로 한다. 그 결과 過剩이 잇는 그 경우에는 그 수량의 범위내에서 일정한 수량을 정하야 가지고 日本內地 朝鮮及臺灣에 배정하야 통제케 될 터인바 이제 昭和 8년 11월 1일의 米穀事情에 의한 需給推算을 보면
+供給
+前年度持越  9,008千石
+八年度實收  70,847千石
+朝臺米移入豫想  12,500千石
+計  92,355千石＜122＞
+需要
+輸出豫想  40千石
+移出豫想  387千石
+消費豫想  73,181千石
+計  73,609千石
+差引持越  18,746千石.
+인데이 持越高에서 理想持越高 500千石과 당시의 政府所有米 約 3,000千石(昭和8년11月末現在政府米, 2,960,350石)을 控除한 남어지 10,746千石이 過剩米이나 以下計算은 9백만石을 統制될 數量으로 한다. 그런데 그 配定比率은 當部農林省에서 암시한 안에 잇서서는 日本內地 朝鮮出臺灣의 米穀管外移出數量을 기준으로 한 것이다.
+備考-(1)配定比率은 昭和8년 管外移出數量의 比 (2)移動高는 昭和 日本內地米의 縣外移出1,361만4천石을 移出高는 同年 朝鮮米의 日本內地 移出 797만2천石을 말함 (2)1월17, 23日附朝鮮日報參照)으로 內外地半半의 形勢이든 것이 小委員會原案은 管外移出數量의 『增加趨勢』를 基準으로 하게 되어 잇슴으로 이에 의하면
+備考-(1)配定比率은  管外移出數等 增加趨勢의 最近 十個年平均比 (2)其他前同으로 外地側에 極度로 불리하게 되엇다. 그러나 이럿케 不公平한 配定比率은 外地側의 反對運動을 이르키지 안을 수 업다. 이에 特別委員會에서는 外地側의 입장을 幾分考慮에 너어 最後的 決定을 하게 되엇스니 그는
+備考-(1)配定比率은 管外移出數量 增加趨勢를 基準으로 하고 이에 管外移出數量 그 他事情을 參酌 (2)其他前同으로 그래도 統制될 過剩米中 日本內地는 그 三割五分를 配定됨에 불과한데 朝鮮은 실로 그 四割四分나 配定되며 따라 日本內地가 그 縣外로 搬出되는 米의 僅僅 二割 남짓을 統制하면 되는데 대하야 朝鮮은 그 移出되는 米의 반이나 되는 數量을 가두어 두지 안으면 안되게 된다. 이 엇지 朝鮮米에 대한 「差別待遇」가 아니며 致傷이 아니리오. 일시 朝鮮穀物協會聯合會,＜123＞ 米穀硏究會, 朝鮮米擁護期成會等이 「比率反對」運動을 한 것도 그 이유가 여긔 잇다.
+여하간 이리하야 過剩米의 一定數量은 日本內地, 朝鮮及 臺灣에 決定되어 각히 그 統制組合에 결정하야 貯藏케 될 터인 바 그 결정된 數量中 統制組合의 貯藏能力 그 他의 事情을 參酌하야 정한 것을 控除하고 殘餘가 잇스면 政府에서 이를 申請에 응하야 買上하기로 되엇는데 그 가격은 日本內地에 잇서서는 統制法의 最低價格이고 朝鮮 또는 臺灣에 잇서서는 米穀生産費 物價 그 他의 經濟事情을 參酌하야 정한다. 그리고 統制組合에 貯藏된 米는 日本內地의 米價가 最低價格보다 상당히 高價인 때가 아니면 解除할 수 업고 最低價格의 범위내의 가격으로 하지 안으면 賣却할 수 업스며 또 統制組合聯合會는 그 所屬團體에 대하야 米의 販賢를 統制키 위하야 平均賣의 실행 그 他 必要한 指令을 할 수 잇게 되엇다.
+이를 槪觀하건대 米穀自治管理案은 그 主要目的이 日本內地米에 壓迫이 되는 朝鮮米의 日本內地移出을 大部分 禁足시켜 日本內地 米價를 最低價格以上으로 유지하고 그 價格을 割할 念慮가 업는 때에 한하야서만 朝鮮統制米의 移出을 許하려는 것으로 이로 日本內地米는 後顧의 念이 업시 보호될지 나 먹기 위하야 생산하는 것이 아니고 팔기 위하야 생산하는 朝鮮米는 在來 移出自由制度下에서 亨受하고 잇든 便益쫏차 극도로 제한 되게 되잇다.
+事態는 여긔서 끗치지 안는다. 이럿케 統制함에도 불구하고 그래도 供給이 현저히 過剩하다고 인정되는 때 즉 말하자면 米價가 標準最低價格보다 低下하거나 또는 저하할 염려가 잇는 때는 委員會의 議를 경하야 一定數量을 한도로 日本內地 朝鮮及 臺灣의 米移動에 대하야 統制를 命할 수 잇게 되어 잇다. 이는 특히 外地米를 목표한 것으로 그 日本內地移出에 대하야 二重三重으로 防波堤를 設코 잇스니 그 貯藏米에 얼마간의 低利資金의 融通을 밧고 또는 低利保管料의 補助를 밧는다. 朝鮮米의 殆半이 日本內地移出에 의존하야 잇슴을 생각할 때 실로 그 前途는 暗澹하다 하지 안이치 못할 것이다.＜124＞
+＜119-124＞

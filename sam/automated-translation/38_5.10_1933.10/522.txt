@@ -1,0 +1,62 @@
+Magazine Title: 삼천리
+Publication Date: 1933-10-01
+Article Title: 振替口座變更 (Change of Postal Transfer Account)
+Author: 三千里社 (Samch'ŏllisa)
+Article Type: 社告 (Company Announcement)
+
+Change of Postal Transfer Account
+
+Company Announcement
+
+As we are expanding our company's operations (社務) at this time (今番), we have changed the postal transfer account (振替口座) as follows (左와 如히). Those ordering magazines or books (書籍) should make payments (拂込) using this account from now on (此番).
+
+Postal Transfer Kyŏngsŏng 2949. Therefore (라서), the previous (從來) Postal Transfer Kyŏngsŏng 4284 has been abolished (廢止하엿슴니다).
+
+1933, 10
+Samch'ŏllisa <93>
+
+**Summary**
+
+Samch'ŏllisa, the publisher of *Samch'ŏlli* magazine, announces a change in its postal transfer account number due to business expansion. The new account is Kyŏngsŏng 2949, and the old one, Kyŏngsŏng 4284, is now discontinued. Customers are requested to use the new account number for payments related to magazine and book orders. This brief notice is interesting to historians as it reflects the operational details of a Korean publishing house during the colonial period, including its growth ("expanding our company's operations") and its use of the Japanese-era postal transfer system centered in Kyŏngsŏng (Seoul) for financial transactions.
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+三千里社	삼천리사	Samch'ŏllisa
+
+**Glossary**
+
+振替口座	진체구좌	Postal transfer account
+社告	사고	Company announcement
+今番	금번	This time, now
+社務	사무	Company affairs/business operations
+擴張	확장	Expansion
+左	좌	Left; used here to mean 'the following'
+如히	여히	Like, as (older form related to modern 같이)
+하엿스니	하였으니	As (we) have done (older spelling/conjugation)
+書籍	서적	Books
+注文	주문	Order
+此番	차번	This time, from now on
+拂込	불입	Payment, paying in
+하여주시압	하여 주십시오	Please do (older polite ending)
+라서	따라서	Therefore, accordingly (older spelling)
+從來	종래	Previously, up to now
+廢止	폐지	Abolition, discontinuance
+하엿슴니다	하였습니다	Did, have done (older polite ending form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제10호
+발행일	1933년 10월 01일
+기사제목	振替口座變更
+기사형태	사고·편집후기
+
+振替口座變更
+社告
+今番社務를 擴張하는 同時에 振替口座를 左와 如히 變更하엿스니 雜誌나 書籍을 注文하실분은 此番에 拂込하여주시압
+振替京城二九四九番라서 從來의 振替京城四,二八四番는 廢止하엿슴니다
+一九三三, 一○
+三千里社＜93＞
+＜93＞

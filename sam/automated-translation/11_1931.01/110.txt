@@ -1,0 +1,47 @@
+Magazine Title: 삼천리 제11호
+Publication Date: 1931년 01월 01일
+Article Title: 社告 (Public Notice)
+Author:
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Regarding the first installment of the 'Complete Dissection of Chaebol' (財閥總解剖), in the article concerning the Kim Sŏngsu (金性洙) lineage, the passage at the end mentioning a wreath (花環) and so forth (云云) upon the death of Katō Takaaki (加藤高明) was reported by the author to be based on a mishearing (誤聞); therefore, we retract only that specific passage (該一節).<34>
+
+**Summary**
+
+This public notice retracts a specific detail from a previous article in the magazine's series analyzing Korean conglomerates (Chaebol). The retracted part concerned a claim that Kim Sŏngsu (or his faction) had sent a funeral wreath upon the death of Japanese politician Katō Takaaki. The magazine states the author admitted this information was based on a mishearing. This correction highlights the sensitivity surrounding the interactions between prominent Korean figures and Japanese officials during the colonial period. For historians, this brief notice is interesting as it reflects editorial practices of the time, the potential scrutiny faced by Korean elites regarding their relationship with the Japanese colonial power, and the importance of managing public perception in that context.
+
+**Named Entities**
+
+金性洙	김성수	Kim Sŏngsu
+加藤高明	가토 다카아키	Katō Takaaki
+
+**Glossary**
+
+社告	사고	Public notice, editorial announcement
+財閥總解剖	재벌 총해부	Complete Dissection of Chaebol (likely an article series title)
+第一次	제일차	First time, first installment
+金性洙氏系	김성수씨 계	Kim Sŏngsu lineage/faction
+末尾	말미	End, conclusion
+加藤高明	가토 다카아की	Katō Takaaki (Japanese name)
+死去時	사거시	At the time of death
+花環	화환	Wreath
+云云	운운	And so forth, et cetera, mentioning/saying such-and-such
+一節	일절	A passage, a section, a paragraph
+誤聞	오문	Mishearing, incorrect information heard
+筆者	필자	Author, writer
+訂正	정정	Correction
+잇기에	있기에	Because there is/was (older spelling of 있기에)
+該一節	해일절	The said passage/section (uses 該 'hae', meaning 'that' or 'the said')
+取消	취소	Cancellation, retraction
+
+
+---------------------------
+
+
+잡지명	삼천리 제11호
+발행일	1931년 01월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+財閥總解剖의 第一次 金性洙氏系 記事중 末尾에 加藤高明死去時花環云云의 一節은 誤聞이엇다고 筆者로부터 訂正이 잇기에 該一節만은 取消합니다.＜34＞

@@ -1,0 +1,50 @@
+Magazine Title: 三千里 제4권 제10호
+Publication Date: 1932년 10월 01일
+Article Title: 急告 (Urgent Notice)
+Author: 삼천리사 영업국 (Samch'ŏlli Company Sales Bureau)
+Article Type: 사고·편집후기 (Announcement/Editorial Note)
+
+Urgent Notice
+
+The magazine "Samch'ŏlli" (三千里) must be present wherever our white-clad compatriots (白衣同胞) reside, but if by chance your region (貴地方) does not yet have a branch office (支社), please immediately request the regulations (規則書) and strive to establish a branch office yourself.
+
+Samch'ŏlli Company Sales Bureau (三千里社營業局) <92>
+
+**Summary**
+
+This short text is an advertisement or notice from the Samch'ŏlli magazine's sales bureau, urging readers to help establish local branch offices or distributorships if one doesn't exist in their area. It appeals to Korean national identity ("white-clad compatriots") and emphasizes the magazine's importance, encouraging readers to take the initiative in expanding its circulation network. For historians, this notice reflects the magazine's business strategy and efforts to broaden its reach across Korea during the colonial period, relying on reader initiative and local networks. It also highlights the use of nationalist sentiment ("white-clad compatriots") in commercial appeals.
+
+**Named Entities**
+
+三千里社營業局	삼천리사 영업국	Samch'ŏlli Company Sales Bureau
+
+**Glossary**
+
+白衣同胞	백의동포	White-clad compatriots (a term referring to Koreans)
+사시는	사시는	Residing (older spelling form of 사시는)
+업슬수업는데	없을 수 없는데	Cannot be without (older spelling/form)
+萬一	만일	If by chance
+貴地方	귀지방	Your region (honorific)
+支社	지사	Branch office
+아니되엿다면	아니되었다면	If it has not become (older spelling/form)
+곳	곧	Immediately (older spelling)
+規則書	규칙서	Rulebook, regulations
+請求	청구	Request, claim
+貴下서	귀하께서	You (honorific, archaic form of 귀하께서)
+設置	설치	Establishment, installation
+힘써주시압	힘써 주십시오	Please strive (older spelling/request form)
+營業局	영업국	Sales Bureau, Business Bureau
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제10호
+발행일	1932년 10월 01일
+기사제목	急告
+기사형태	사고·편집후기
+
+急告
+白衣同胞사시는 곳에 雜誌「三千里」업슬수업는데 萬一貴地方에 아직 支社가 아니되엿다면 곳 規則書를 請求하여 貴下서 支社設置하도록 힘써주시압
+三千里社營業局＜92＞
+＜92＞

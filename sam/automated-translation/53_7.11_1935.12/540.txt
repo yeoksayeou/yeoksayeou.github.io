@@ -1,0 +1,74 @@
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1935년 12월 01일
+Article Title: 달 뜨는 것 (The Moon Rising)
+Author: 파인 (P'ain)
+Article Type: 시 (Poem)
+
+The Moon Rising
+						P'ain
+
+As the moon rises,
+As the wild geese cry,
+As the boat departs,
+My love goes.
+
+As the flowers bloom,
+As the river thaws,
+As the swallows come,
+My love comes.
+
+Knowing this once,
+Who again
+Will watch the moon
+Rise with me? <297>
+
+**Summary**
+
+This short poem by P'ain expresses a deep sense of longing and separation. The speaker contrasts the cyclical, predictable events in nature – the moon rising, geese crying, flowers blooming, the river thawing, swallows returning – with the departure and anticipated (or perhaps hoped-for) return of a beloved ('님'). The first stanza marks departure coinciding with natural events, while the second links natural arrival signs with the beloved's coming. The final stanza shifts to the present loneliness, questioning who will share the simple act of watching the moonrise, implying a cherished past shared experience now lost. From a historical perspective, the poem reflects the lyrical expression of personal emotion common in the period. While ostensibly about personal love and loss, the underlying theme of waiting and the contrast between nature's reliable cycles and human separation could potentially be interpreted by historians as subtly reflecting the broader atmosphere of longing or uncertainty during the colonial era. The poem's use of older Korean grammatical forms also provides linguistic data for the 1930s.
+
+**Named Entities**
+
+파인	파인	P'ain
+
+**Glossary**
+
+달	달	Moon
+기럭	기러기	Wild goose (older form/spelling of 기러기)
+울자	우니	As (it) cries (older connective form -자 instead of -니)
+떠나자	떠나니	As (it) departs (older connective form -자 instead of -니)
+님	님	Beloved, dear, you (term of endearment or respect)
+가데	가는데	Goes, but... (older form of 가는데)
+꼿	꽃	Flower (older spelling of 꽃)
+피자	피니	As (it) blooms (older connective form -자 instead of -니)
+풀니자	풀리니	As (it) thaws / becomes green (older connective form -자 instead of -니)
+오자	오니	As (it) comes (older connective form -자 instead of -니)
+오데	오는데	Comes, but... (older form of 오는데)
+보아줄가	보아줄까	Will (someone) watch for me/with me? (older interrogative ending -ㄹ가 instead of -ㄹ까)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제11호
+발행일	1935년 12월 01일
+기사제목	달 뜨는 것
+필자	파인
+기사형태	시
+
+달 뜨는 것
+						파인
+달 뜨자
+기럭 울자
+배 떠나자
+님은 가데
+
+꼿 피자
+강 풀니자
+제비 오자
+님은 오데
+
+알고 한 번
+다시 누가
+달 뜨는 것
+보아줄가 <297>
+<297>

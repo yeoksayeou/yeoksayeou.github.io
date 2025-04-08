@@ -1,0 +1,192 @@
+84	430	Chosŏn Film Entrepreneur Theory	XYZ	News
+84	440	Number of American Films Produced in 1940		Miscellany
+84	450	Establishment of a "Film Actor School" in Japan to Improve the Quality of Film Actors		Miscellany
+84	460	The Harmful Effects of American Films	Paegakhagin	Editorial/Article
+84	470	Ministry of Education Award Films for Shōwa 15 (1940)		Miscellany
+84	480	Chosŏn Film Director Theory, (-Profile of Registered Directors-)	Kim Chŏng-hyŏk	News
+84	490	Character Critique of Chosŏn Male and Female Film Actors	Pak Ki-ch'ae	News
+84	500	First Round of Film Professional Registrants, 58 Film Professionals Registered		Miscellany
+84	510	French Film Appreciation, Especially Fragmentary Memos on the Three Great Artists	Yi Hŏn-gu	Literary Criticism
+84	520	Screening of Foreign Films		Miscellany
+84	530	Outstanding Master Directors - The Late Na Un-gyu, Sim Hun, Kim Yu-yŏng	An Sŏk-yŏng	Memoir/Reminiscence
+84	540	How to Become a Film Actor and Director	Film Director An Sŏk-yŏng	Miscellany
+84	550	Scenario Writing Method, "Scenario" and "Montage" Issues	Pak Song	Editorial/Article
+84	560	Visit Report on Domestic and Foreign Film Studios, Story of the Japanese Studios I Saw	O Yŏng-jin	News
+84	570	Visit Report on Domestic and Foreign Film Studios, Visit Report on Chinese Studios	Hwangp'ogangin	News
+84	580	Memoirs of Male and Female Actors		Memoir/Reminiscence
+84	590	Survey Form on the Real Names of Film and Theater Professionals		Miscellany
+84	600	Hwarang and P'ungnyu	Yu Cha-hu	Editorial/Article
+84	610	Selections from German Nazi Poetry	Kim Sŏn-bu (Trans.)	Poem
+84	620	(Play) Wandering Poet Kim Satkat	Song Yŏng	Play/Scenario
+84	621	Editor's Postscript		Notice/Postscript
+85	010	Commemorative Addresses from Various Social Organizations in Chosŏn Welcoming the "4th Anniversary" of the Holy War		Editorial/Article
+85	020	Appeal to Intellectuals on the "4th Anniversary" of the Holy War	Chosŏn Writers' Association	Editorial/Article
+85	030	Governor-General Minami's Words Spoken in Tokyo	Tokyo Ikeda Saburō	Editorial/Article
+85	040	Report on the Achievements of the Peninsula's "National Culture Movement" - Traveling Theater Troupe, New Theater, Dance Performances		News
+85	050	Visiting Notables in the Cultural Field (Part 3), Talking with Principal Masuda of Hōsen School about the Thoughts of the Peninsula's Youth Layer, etc.	Samch'ŏlli-sa Woman Reporter	Interview/Roundtable Talk
+85	060	Impressions of Mr. Wang Ching-wei	Yŏ Un-hong, Yu Kwang-nyŏl	Memoir/Reminiscence
+85	070	Tour of Higher Education Institutions for Japanese-Korean Co-education, Visiting the White Chalk School Building of Sookmyung Women's Professional School on Keijō Misaka-dōri		News
+85	080	Memories of the Battlefront, On the Occasion of the Fourth Anniversary of the Holy War	Yoshimura Kōdō (Pak Yŏng-hŭi)	Travelogue
+85	090	Chosŏn Travelogue Poem and Prose Collection by Various Naichijin Gentlemen	Tsukui Tatsuo, Tomiyasu Fūsei, Ishii Baku, Yi Sŏk-hun	Literary Miscellaneous
+85	100	South Chosŏn Travelogue, On the Way to a Writers' Association Lecture	Kim Tong-hwan	Poem
+85	110	Information Room, Various Insides of Our Society	Samch'ŏlli-sa	News
+85	120	Fourth Anniversary of the China Incident, Let the 100 Million Compatriots Practice Self-Denial and Public Service	Samch'ŏlli-sa	Editorial/Article
+85	130	True Facts of Important Matters in Various Social Fields, Maeil Sinbo's New Lineup Welcomes President Kŭmch'ŏn; Managing Director and Business Bureau Director Also Replaced		News
+85	140	Tragic State of the Anti-Japanese Capital Chongqing Turned into a Living Hell, Memoirs of Famous Domestic and Foreign Figures		News
+85	150	Mongolia Travelogue / North China Travelogue, Retracing the Path of Pak Yŏnam, Memoirs of the Two Ladies of the Japan-Mongolia Goodwill Mission		Travelogue
+85	160	From Earning Three Million Won to Spending Three Million Won, Biography of Mr. Son Ch'ang-yun, Father of P'yŏngyang Commerce and Industry, East Asia's Sock King		Memoir/Reminiscence
+85	170	Future Outlook for Chosŏn's Economy, After Inspecting the New System Economy in Japan	P'yŏngyang Marine Products Trade Association Head, P'yŏngyang P'yŏngan Company Owner Yi Chong-hyŏn	Editorial/Article
+85	180	Wartime Photo Notes	Editorial Room	News
+85	190	Future Education of Koreans in Manchuria, Report of the Inspection Team for the Education Problem of Koreans in Manchuria	Government-General Bureau of Academic Affairs School Inspector Natsuyama Zaikō (Former Name Cho Chae-ho)	Editorial/Article
+85	191	Secret Treatment for Worries of Urinary and Venereal Diseases = Practice of Self-Treatment		Miscellany
+85	200	Visit Report to a Nazi Leadership School = In Berlin	Ch'oe Il-sŏn	News
+85	210	Soldiers' Favorite Books		Miscellany
+85	220	Travelogue of Famous Mountains Near Hanyang		Travelogue
+85	221	Prevention and Treatment of Beriberi, Common from Now On - People Prone to It and Food Precautions	MD Okabe Taku	Miscellany
+85	230	Mother and Famous Actors	Mun Ye-bong, Kim Sin-jae, Kim So-yŏng, Han Ŭn-jin	Miscellany
+85	240	Folktale: The Duty of a Famous Kisaeng	Sin Chŏng-ŏn	Literary Miscellaneous
+85	250	Ten Years of Actor Life (Part 3), "Arirang" and I, From Stage Actor to Film Actor	Tazawaji	Memoir/Reminiscence
+85	260	Patriotic Beautiful Stories	Selected by Editorial Room	News
+85	270	Film Policies of Major World Countries	Hyŏn Yun	Editorial/Article
+85	280	Author's Impressions After Reading Masterpieces		Literary Criticism
+85	290	Recent French Writers and Publishing World	Kim Kwang-ho in Paris	Miscellany
+85	300	Traces of the Queen of Egypt, Impressions from the New Battlefield		Miscellany
+85	310	Tokyo International Students Welcome Chairman Wang		Miscellany
+85	320	Mr. Yu Chin-o's Clear Talk on Reading, Season of Green Shade and Theory of Reading	A Reporter	Interview/Roundtable Talk
+85	330	Poet's Inner Thoughts		Survey/Questionnaire
+85	340	Recent Feelings about Remarque of "All Quiet on the Western Front"		Miscellany
+85	350	Home Front Literary Lecture Meeting		News
+85	360	Song of German Soldiers	Kim Sŏn-bu (Trans.)	Poem
+85	370	Before Mother's Spirit	Mo Yun-suk	Poem
+85	380	News of "Silence"	No Ch'ŏn-myŏng	Poem
+85	390	(Play) Wandering Poet Kim Satkat (Complete)	Song Yŏng	Play/Scenario
+85	400	Editor's Postscript		Notice/Postscript
+86	010	Chosŏn Housing Problem (Roundtable Talk Welcoming Housing Corporation Executives at the National Service League Conference Room)		Interview/Roundtable Talk
+86	020	Visiting Notables in the Cultural Field (4) (With Broadcasting Association President Amakasu - Talking about Japan-Korea Cultural Exchange)	Samch'ŏlli-sa Woman Reporter	Interview/Roundtable Talk
+86	030	The Battlefield and the Patriotic Fervor of Peninsula Compatriots	Army Second Lieutenant Matsuda Seita (China Expeditionary Army Shanghai Information Department Member)	Editorial/Article
+86	040	Changgo (Korean Drum)	Sugimoto Nagao	Poem
+86	050	July Regular Meeting	Shiiki Miyoko	Poem
+86	060	Newspaper, Reading, School	Noritake Mitsuo	Literary Miscellaneous
+86	070	Loving the Moonlight (Record of Moon Love Absorption)	Tsuda Setsuko	Literary Miscellaneous
+86	080	Keijō Yamato Juku Female Teacher, One Week Diary	Kim Chae-gyŏng	Literary Miscellaneous
+86	090	Volunteer Soldier Film "Kimi to Boku (You and I)" (Chōsen Army Command Production, Army Ministry Information Department / Government-General of Chōsen Support)	Iijima Tadashi, Hinatsu Eitarō	Play/Scenario
+86	100	Information Room (Various Affairs of Our Society)		Social Commentary
+86	110	Proposal for "Wartime Life" (Let's Live a Minimum Life)		Editorial/Article
+86	120	Wartime Activities of 1.2 Million Koreans in Japan	Edogaku-jin	Editorial/Article
+86	130	Recent Status of Koreans in Taiwan (Current Activities of 2,000 People)	Kagawa Kenji in Taiwan	News
+86	140	Visit Report on Son Ch'ang-sik, Conqueror of Three Million Won in Shanghai Financial Circles (President of Shanghai Precision Machinery Craftsmanship, Shanghai's No. 1 Machine Kingdom)		Interview/Roundtable Talk
+86	150	White Russian Exiles Dreaming of Imperial Restoration (Greed of Empress Dowager Mari of the Romanov Dynasty)		Miscellany
+86	160	Legend: Origin of Thousand-Day Liquor	Taebaeksanin	Literary Miscellaneous
+86	170	Trends in the Japanese Christian World (Returning After Inspecting Japan)	Chosŏn Christian Literature Society General Secretary, Former Methodist Church Superintendent Yang Chu-sam	Travelogue
+86	171	My Unforgettable Mentor Memoir	Dr. Sombart of Berlin University by Yi Kŭng-no, Dr. Itō [?]zō of Kyoto Imperial University by Pak Ch'ang-hun, President Miss Frey of Ewha Women's University by Pak In-dŏk	Memoir/Reminiscence
+86	172	Patriotic Beautiful Stories	Selected by Editorial Room	News
+86	173	On-Paper Culture Lecture (First Installment)		Editorial/Article
+86	174	Freedom of Culture and the National Defense State - Discussing the Wrongs of Cultural Supremacism -	Army Information Bureau, Army Colonel Suzuki Kōzō	Editorial/Article
+86	175	Initial Symptoms and Treatment Methods for Tuberculosis, Which Often Occurs When Appetite is Poor	MD Okabe Taku	Miscellany
+86	176	Secret Stories of the Literary World	Changdaehyŏnin	Memoir/Reminiscence
+86	177	Shanghai-Keijō Artists' Friendship Roundtable Talk		Interview/Roundtable Talk
+86	178	New Popular Song Collection	Works by Various Chosŏn Poets	Poem
+86	179	Mountain Flower	Sŏk In-hae	Novel
+86	180	Editor's Postscript		Notice/Postscript
+86	181	Roundtable Talk Discussing "Kimi to Boku (You and I)" (General Itagaki also Appears, Director Hinatsu Eitarō)		Interview/Roundtable Talk
+87	010	Great Lion's Roar of the Wartime Patriot!!, Stenographic Record of the Grand Speech Meeting for Wartime Patriotism		Editorial/Article
+87	020	Great Lion's Roar of the Wartime Patriot!!, On the Formation of the Wartime Patriotic Group	Kim Tong-hwan	Editorial/Article
+87	030	Great Lion's Roar of the Wartime Patriot!!, The Decisive Battle in the Far East and Our Resolution	Yun Ch'i-ho (Itō Chiko)	Editorial/Article
+87	040	Great Lion's Roar of the Wartime Patriot!!, Tearful Appeal	Ch'oe Rin (Kayama Rin)	Editorial/Article
+87	050	Great Lion's Roar of the Wartime Patriot!!, Outlook on the Storm Clouds in the Pacific	Sin Hŭng-u (Kōrei Kōu)	Editorial/Article
+87	060	Great Lion's Roar of the Wartime Patriot!!, This is What Tokyo and Osaka are Like	Sin T'ae-ak	Editorial/Article
+87	070	Great Lion's Roar of the Wartime Patriot!!, The Path to Victory is Here	Pak In-dŏk (Eiga Jindoku)	Editorial/Article
+87	080	Great Lion's Roar of the Wartime Patriot!!, Utmost Sincerity of Patriotism and This Opportunity	Yi Sŏng-hwan (Ankō Seikan)	Editorial/Article
+87	090	Great Lion's Roar of the Wartime Patriot!!, Recalling 3000 Years Ago	Yi Chong-rin (Mizuhara Shōrin)	Editorial/Article
+87	100	Our Company Sponsored Grand Roundtable: Wartime Countermeasures Council, 120 People Gather at the Puminkwan		News
+87	110	Minutes of the Wartime Countermeasures Council		Editorial/Article
+87	120	Central and South China Inspection Report - After Attending the East Asia Journalists Conference -	Maeil Sinbo Chief Writer Sŏ Ch'un	Travelogue
+87	130	Overseas Information	Editorial Room	Miscellany
+87	140	【Overseas Secret】How Much Gold Does the US Currently Have? - Occupying Three-Quarters of the World's Total -		Miscellany
+87	150	Mobilization Order for Various Groups in the National Labor Movement!!		Editorial/Article
+87	160	Patriotic Beautiful Stories	Selected by Editorial Room	News
+87	170	Portraits of Wartime Patriots (To be concluded next issue)		Editorial/Article
+87	180	My Favorite Books		Survey/Questionnaire
+87	190	Forest of a Thousand Soldiers	Hakusan Seiju	Poem
+87	200	How to Treat Stomach Acid Hyperacidity, Most Common Among Gastrointestinal Diseases - Cell Protoplasm Revitalization Action for Fundamental Treatment	MD Okabe Taku	Miscellany
+87	210	True Story - Learned About Beriberi from Extreme Picky Eating, Collapsed While Working	Tanikawa Sueo	Memoir/Reminiscence
+87	220	The Jewish Zaibatsu Disturbing the World - Exposing the Secrets of the Jewish Underground Government -	O Il-sŏn	Editorial/Article
+87	230	Mount Kwanmo Ascent Report	Yi Yong-ak	Travelogue
+87	240	Information Room - Various Affairs of Our Society		News
+87	250	Urgent Notice		Notice/Postscript
+87	260	Actor's Notebook: My Impressions of Appearing in the Volunteer Soldier Film "Kimi to Boku (You and I)"	Kŭktan Kohyŏp, Sim Yŏng	Memoir/Reminiscence
+87	270	Mr. Chu Yo-han's Folk Song and Popular Song Collection		Poem
+87	280	Nangnang Ancient Tombs Cluster, etc.	Chŏng In-t'aek	Travelogue
+87	290	Night at a Mountain Temple	No Ch'ŏn-myŏng	Poem
+87	300	Novel War: The Death of "Mercier"	Georges Duhamel, Yi Hŏn-gu (Trans.)	Novel
+87	310	Editor's Postscript		Notice/Postscript
+88	001	(Untitled - Kukp'yŏn)		Miscellany
+88	002	Annihilation of the US-British Fleets - Greater East Asia War and the Peninsula Populace's Certain Victory Formation -		Miscellany
+88	003	To the 250,000 Volunteer Soldier Applicants = Ardent Expectations of the Military, Officials, and People =		Miscellany
+88	004	Japan-US-Britain Pacific War!!		Editorial/Article
+88	005	Mr. Min Kyu-sik's Clear Talk on the Financial World	P Reporter	Interview/Roundtable Talk
+88	006	【Overseas Secret】US Military Strength	Samch'ŏlli Editorial Bureau	Miscellany
+88	007	Recollections of Going to War and the Tokyo Army Officer Academy Era		Memoir/Reminiscence
+88	010	Great Tax Increase and Chosŏn - Suppression of Amusement and Luxury and Cutback of National Life	Yi Kŏn-hyŏk	Editorial/Article
+88	020	Foreign Currency Conversion		Miscellany
+88	030	Overseas Information (Part 1)	Selected by Samch'ŏlli Editorial Bureau	Miscellany
+88	040	Tragedy on the Sea of Japan - The Scene of the Kihin Maru Sinking Seen from the Air -	Maeil Sinbo Special Correspondent Kim Chung-wŏn	Literary Miscellaneous
+88	050	Overseas Information (Part 2)	Selected by Samch'ŏlli Editorial Room	Miscellany
+88	060	Portraits of Wartime Patriots (Part 2, Concluding Chapter)		Editorial/Article
+88	061	Hayashi Fumiko and I	Ch'oe Chŏng-hŭi	Memoir/Reminiscence
+88	070	Fatigue Without Clear Cause Common in Winter, Tuberculosis, Beriberi, Chronic Gastrointestinal Diseases Should Be Watched Out For	MD Okabe Taku	Miscellany
+88	080	Loss of Appetite and Constipation from Irregular Life	Yoshihara Kōkichi	Miscellany
+88	090	Roundtable Talk with Lead Actresses of Masterpiece Films		Interview/Roundtable Talk
+88	100	Chōsen Army Production / Volunteer Soldier Film "You and I" Filming Diary in Japan	Kim So-yŏng at Tokyo Ōfuna Studio	Literary Miscellaneous
+88	110	Before and After Marriage - Wedding Day Diary -	Former Keijō Nippō Woman Reporter Chŏn Hŭi-bok (Tamura Fukiko)	Literary Miscellaneous
+88	120	(New Theater Impressions) Attitude Towards Translated Plays, Watching "Early Spring" Performed at the Hyundai Theater	Kim Chŏng-hyŏk	Literary Criticism
+88	130	Patriotic Beautiful Stories, Selected by Editorial Bureau		News
+88	140	(Economics Lecture) Wartime Financial Policy and National Savings, On-Paper Culture Lecture (Second Installment), Yonhi Professional School Professor Section	Yonjŏn Commerce Dept. Head Kim Hyo-rok	Editorial/Article
+88	150	(Physical Education Lecture) Nationalist Physical Education and the Construction of Japanese Physical Education, On-Paper Culture Lecture (Second Installment), Yonhi Professional School Professor Section	Yonjŏn Physical Ed. Dept. Head Yi Un-yong	Editorial/Article
+88	160	(Science Lecture) Method of Natural Science and Scientific Spirit, On-Paper Culture Lecture (Second Installment), Yonhi Professional School Professor Section	Yonjŏn Science Professor Han In-sŏk	Editorial/Article
+88	170	(Religion Lecture) Method of Religious Recognition	Yonjŏn Religion Dept. Head Kal Hong-gi	Editorial/Article
+88	180	Harvest of Our Literary World This Past Year		Survey/Questionnaire
+88	190	Appreciation	Yi T'ae-jun	Literary Miscellaneous
+88	200	Stroll	Yi Hyo-sŏk	Literary Miscellaneous
+88	210	(Chinese Women Writers) Works of Bing Xin and Ding Ling	Pak Ch'ŏn-sun in Beijing	Literary Criticism
+88	220	Overseas War Poetry Collection, German Section	Chu Yo-han (Trans.)	Poem
+88	230	Overseas War Poetry Collection, French Section	Chu Yo-han (Trans.)	Poem
+88	240	Overseas War Poetry Collection, Italian Section	Mo Yun-suk (Trans.)	Poem
+88	250	Overseas War Poetry Collection, British Section	No Ch'ŏn-myŏng (Trans.)	Poem
+88	260	The Earth is the Soldier's Mother, War Novel	(German) Remarque, Yi Sŏk-hun (Trans.)	Novel
+88	270	Woman in Green, War Novel	(French) Georges Duhamel (Author), Cho Yong-man (Trans.)	Novel
+88	280	Marriage with a German Woman	Berlin Scholar	News
+88	290	Current Affairs Commentary		Miscellany
+88	300	Outline of World Masterpieces	Selected by Editorial Room	Literary Criticism
+88	310	Editor's Postscript		Notice/Postscript
+89	010	Praying for His Majesty's Eternal Longevity, On the Occasion of Imperial Year 2602	Samch'ŏlli-sa	Notice/Postscript
+89	020	Gratitude to the Imperial Army, Navy, and Air Force for the Greater East Asia War, Welcoming the 6th Year of the Holy War	Samch'ŏlli-sa	Notice/Postscript
+89	030	Greater East Asia War and the Armament of the Peninsula, Special Feature of Stenographic Records from the Decisive Battle Grand Speech Meeting		Editorial/Article
+89	040	East Asia's Restoration, Stenographic Record of the P'yŏngyang Grand Speech Meeting for the Annihilation of America and Britain	P'yŏngyang Presbyterian Theological Seminary Principal Sagawa Hitsukon (Former Name Ch'ae P'il-gŭn)	Editorial/Article
+89	050	Pearl Harbor Attack as the Starting Point, Biggest Event of This Year		Miscellany
+89	060	Great Lion's Roar for the Overthrow of the Aggressors of the East, Britain and America!		Editorial/Article
+89	070	Greater East Asia New Spring Pledge, Words for the Beginning of Imperial Year 2602	National Service Chōsen League Secretary-General Kawagishi Bunzaburō	Editorial/Article
+89	080	The Significance of the Greater East Asia War and the Mental Preparedness of the Peninsula Populace	Chōsen Army Chief of Staff, Army Major General Takahashi Tan	Editorial/Article
+89	090	Taiwan and Central China Travelogue, Finishing a Month and a Half Journey Through Various Places	Central Advisory Council Councillor Goson Shōu (Lawyer Yi Sŭng-u)	Travelogue
+89	100	Memories of Tokyo	Kayama Mitsurō (Former Name Yi Kwang-su)	Memoir/Reminiscence
+89	110	Memories of Siberia	Maeil Sinbo Managing Director Kanemoto Tōshin (Former Name Kim Tong-jin)	Memoir/Reminiscence
+89	120	Special Report from Overseas Koreans On Site		News
+89	130	The People's Wish	National Service Chōsen League Propaganda Department Hoshino Tadayū	Editorial/Article
+89	140	Why Did I Volunteer as a Soldier?	Tokyo Hōsei University Graduate Yashima Hideo	Memoir/Reminiscence
+89	150	Recent Economic Crimes on the Peninsula, For Grasping the People's New Economic Ethics	Keijō District Court Economic Prosecutor Tokuda Chūjin (Former Name Kang Chung-in)	Editorial/Article
+89	160	Overseas News, War and Casualty Numbers	Editorial Room	News
+89	170	Sketch of Combined Fleet Commander-in-Chief Admiral Yamamoto Isoroku	Kōasei	Memoir/Reminiscence
+89	180	Our School's Female Student Military Drill Plan		Survey/Questionnaire
+89	190	Disclosure of Our Family's Wartime Living Household Account Book		Survey/Questionnaire
+89	200	Chinese Film "Mulan Joins the Army", First Introduction of a Problematic Work	Nangnanghagin	News
+89	210	Literary World Comings and Goings		News
+89	220	Women and New Life, For an Orderly Life	Ewha Home Economics Dept. Head Ko Hwang-gyŏng	Editorial/Article
+89	221	Nutrition and All-Out Attack	Oksanp'ain	Miscellany
+89	222	Words of the Famous: Health Mascot	Writer Hayashi Fumiko	Miscellany
+89	230	Wartime Health and Pulmonary Tuberculosis	MD Cha Kyun-hyŏn	Miscellany
+89	240	Ise Shrine, Holy Site Pilgrimage Report	Yi Sŏk-hun	Travelogue
+89	250	Actress's Wandering Diary	Hyundai Theater Kim Yang-ch'un	Memoir/Reminiscence
+89	260	Genius Schubert Who Ended His Life in Poverty and Misfortune	Paegun-ch'o	Literary Miscellaneous
+89	270	War Poems		Poem
+89	280	Novel: Sunday	Yi Hyo-sŏk	Novel
+89	290	Editor's Postscript		Notice/Postscript

@@ -1,0 +1,446 @@
+Magazine Title: 삼천리 제7권 제6호
+Publication Date: 1935년 07월 01일
+Article Title: 自由主義와 各國 議會觀, 主로 그 起源을 드러 (Liberalism and Views on Parliaments in Various Countries, Mainly Revealing Their Origins)
+Author: 靑山學人
+Article Type: 논설 (Editorial/Essay)
+
+自由主義와 各國 議會觀, 主로 그 起源을 드러
+						靑山學人
+
+**議會의 起源 (Origin of Parliament)**
+
+The homeland of constitutional government is Great Britain. The parliaments of all constitutional nations today, although differing in degree, have adopted their model from Great Britain. So, how did the British parliament develop? In explaining the mechanism of parliamentary politics, I think it necessary first to briefly outline the path of its development.
+
+**놀만時代 (Norman Era)**
+
+There are two scholarly theories regarding the origin of the British parliament. The commonly proposed one is that it originated from the Magnum Concilium of the Norman era, and the other theory posits that it originated from the Witenagemot of the Anglo-Saxons. Whichever it may be, they agree on the point that it began when the influential figures (nobles) of the country, either on their own initiative or by the king's invitation, offered various counsel to the king during declarations of war, conclusions of peace treaties, or the enactment of other important laws.<116>
+The famous Magna Carta was the confirmation by the king of the privileges of these nobles who responded to the king's counsel. At the same time, it was not merely a class-based victory, as seen in points such as limiting the rights of nobles over their tenants and prohibiting the imposition of taxes without the consent of the influential figures. The practice of inviting representatives other than nobles to the king's council, adopting the form of what is today called representative government, also dates from that time.
+Next, in Simon de Montfort's Parliament (1265) and Edward I's "Model" Parliament (1295), besides the nobles, two knights from each county and two citizens from each city or borough were elected and sent, thereby gradually clarifying the principle of representative government. The existence of these two bodies—one hereditary nobility and the other elected through a representative system—eventually became today's House of Lords and House of Commons. Gradually, they began voting separately, and after the Palace of Westminster burned down in 1834, the current Parliament building, housing the two chambers separately, was constructed on the present site.
+Thus, as commerce flourished and the power of the so-called commoner class increased, the right to vote expanded accordingly. The phrase used by Edward I when summoning Parliament, "What touches all, should be approved by all," became the guiding principle, and the British Parliament has followed this line of development to the present day.
+
+**必要는 制度를 낫는다 (Necessity Breeds Institutions)**
+
+However, why do the British Parliament and parliamentary politics have so many aspects worthy of emulation by other countries? It is certainly not for the simple, superficial reason<117> that Britain is the homeland of constitutional government. Rather, because Britain has traditionally lacked a written constitution and, moreover, in all matters values practice over theory, its state political institutions evolved most reasonably and rapidly according to practical needs. While it is unavoidable that any nation's constitution contains, to some degree, the influence of the characteristic circumstances of the era of its enactment or the preconceived notions of its drafters, Britain's constitution, being a so-called flexible constitution, did not hinder the natural evolution of established subjective views. Consequently, the operation of constitutional government evolved most naturally in Britain, and the so-called Anglo-American style can be said to be not a special system or custom suited only to Britain, but rather the form developed when responsible government evolved without unnatural constraints.
+In Britain, where all institutions evolved according to practical needs, the structure of parliamentary politics also developed according to practical needs. That is, in 1696, William III formed a cabinet with members from both the Whig and Tory parties. However, as the Tories opposed the King's policies, cabinet members from the Tory party were gradually dismissed, and the cabinet was reorganized solely with Whigs. This was the first party cabinet in Britain. Subsequently, after George I, the custom of the King himself presiding over cabinet meetings was broken. As a result, the power to preside over the cabinet naturally fell to the most influential member among the ministers, leading to the emergence of today's responsible cabinet system.
+
+**로바-드·와루볼 (Robert Walpole)**
+
+The further development of Britain's responsible cabinet system into its current form owes much, in particular, to the skill and insight of Robert Walpole, the first Prime Minister of the modern cabinet system.
+Walpole was the head of the cabinet for 20 years, and it is no exaggeration to say that the characteristics of today's British cabinet system, namely the structure of the responsible cabinet, were largely established during Walpole's era. It was Walpole who created the system of discussing state affairs primarily with the House of Commons. It was Walpole who advocated the principle of collective responsibility, asserting that ministers must act jointly in the conduct of state affairs. The shift of the center of Parliament from the House of Lords to the House of Commons also occurred during Walpole's cabinet. It was Walpole who took the unprecedented step for a responsible cabinet by tendering the cabinet's collective resignation based on the loss of confidence in the House of Commons, despite still having the King's confidence. Furthermore, Walpole was the first to reside at 10 Downing Street, establishing the precedent whereby "10 Downing Street" came to signify the Prime Minister's official residence. Thus, although Walpole is sometimes considered by the public as the chief architect of parliamentary political corruption, his contribution to the evolution of Britain's constitutional government must be acknowledged as significant.
+
+**소위 內閣制度 (The So-called Cabinet System)**
+
+The so-called British-style transfer of political power occurs when, as a result of a general election, one political party secures a majority in the House of Commons.<118> The leader of that party is summoned by the King and receives the imperial command to form a cabinet. The party leader—the Prime Minister—upon receiving the command to form a cabinet, obtains a brief respite, withdraws from the palace, and recommends ministers according to the cabinet list.
+Above, I have briefly outlined the development path of the British Parliament—which can also be seen as the history of world parliaments. Hereafter, let us examine the current state of parliamentary systems in the major countries of the world today, addressing each country's parliament in separate sections.
+
+**各國의 議會 (Parliaments of Various Countries)**
+
+Since the parliamentary systems of various countries all took their model from Britain, they are generally similar systems. However, one major exception is the parliamentary system of the United States. During the drafting of the U.S. Constitution, the minds of the drafters, such as Hamilton, Madison, and Paterson, were strongly dominated by Montesquieu's theory of the separation of powers. Consequently, in the U.S. state structure, the legislative, executive, and judicial powers were clearly separated, to the point where these three branches have almost no interaction with each other. However, Montesquieu's theory of the separation of powers originated from his observation—or rather, his failure to observe reality accurately due to his longing for liberty—that Britain enjoyed much freer politics compared to the continent because its organization separated the three powers and did not concentrate power in one place. In reality, the British Parliament does not separate the three powers; rather, its system, ahead of many other nations, mixes the three powers.
+The fact that the U.S. strictly separated the three powers based on Montesquieu's theory accounts for both the strengths and weaknesses of its parliamentary system in the broad sense. Below is a brief description of the organization and structure of the parliaments of various countries.
+
+**英國의 議會 (British Parliament)**
+
+The British Parliament consists of the House of Lords and the House of Commons.
+
+**組織 (Organization)**
+
+House of Commons – Men and women who have reached the age of 21, provided they are not disqualified by law, all have the right to vote and be elected. In other words, politically, full gender equality is recognized. Eligibility for election is the same. The term is 5 years. The number of members is 615.
+House of Lords – Hereditary peers, 16 Scottish peers elected by mutual vote, 28 Irish peers, Law Lords with life tenure, and 26 Lords Spiritual including the Archbishops of Canterbury and York, and the Bishops of London, Durham, and Winchester.
+
+**會期 (Session)**
+
+It convenes annually in early February. Except for Easter, summer recess, and Christmas holidays, it is generally in session year-round.
+
+**兩院의 關係 (Relationship between the Two Houses)<119>**
+
+The two houses are equal, except concerning money bills.
+According to the Parliament Act of 1911:
+1. If the House of Lords delays deliberation on a money bill for more than one month, it can be presented for Royal Assent and enacted into law without waiting for the Lords' resolution.
+2. Determining whether a bill is a money bill falls under the authority of the Speaker of the House of Commons.
+3. A bill other than a money bill that has passed the House of Commons in three consecutive sessions and has been rejected by the House of Lords can be enacted into law without waiting for the Lords' resolution, provided that two years have passed between the initial proposal and the final Third Reading, limited to that specific circumstance.
+In short, this constitutional amendment was carried out based on the principle that the will of the publicly elected House of Commons must be respected regarding money bills that impose burdens on the people. However, since the amendment by this Parliament Act was intended as a temporary measure until the traditional "hereditary" system of the House of Lords could be reformed into an elected one, the Second Chamber Conference Committee, chaired by Lord Bryce, was organized in 1917 to investigate the reform of the House of Lords system. The investigation was completed in 1918, and a proposal was subsequently presented to the House of Lords. However, the Conservative Party, holding a majority in the Lords, opposed the reduction of the Lords' powers from the outset. Currently, the demand for the restoration of the Lords' powers is being pursued by the Conservative Party under the name of House of Lords reform. As mentioned earlier, this issue of the Lords' powers is likely to become a significant problem in parliamentary politics in the future.
+
+**政府와 議會와의 關係 (Relationship between Government and Parliament)**
+
+As Bagehot argued that the British cabinet system is the solution that led British parliamentary politics to success, there is a close relationship between the government and Parliament. To borrow Bagehot's words, the cabinet serves as the connecting link between the legislature and the executive. A peculiar British custom is that even ministers, if they hold a seat in one house, cannot attend and speak in the other house. Thus, it has recently become a sort of custom for the Prime Minister to hold a seat in the House of Commons. It goes without saying that the government has the power of dissolution.
+
+**佛蘭西의 議會 (French Parliament)**
+
+The French Parliament consists of the Senate (元老院) and the Chamber of Deputies (代議員).
+
+**組織 (Organization)**
+
+Chamber of Deputies – Men aged 21 or older, provided they are not disqualified by law, have the right to vote. Men aged 25 or older are similarly eligible for election. The electoral system is proportional representation in large constituencies using party lists. The term is 4 years. The number of members is 612.
+Senate – Having undergone various changes, there are currently no hereditary or life members.<120> Members are indirectly elected from (1) Deputies, (2) Departmental Councillors, (3) Arrondissement Councillors, (4) Delegates from Municipal Councils, who must be at least 40 years old, possess the qualifications for electing Deputies, and have completed their military service obligations under the conscription law, with a fixed number of members. The term for Senators is 9 years, with one-third being re-elected every 3 years.
+
+**會期 (Session)**
+
+Parliament convenes annually on the second Tuesday of January. Regarding the session length, it is only stated that it "must be at least five months each year." There is no limit beyond five months. Furthermore, if a request is made by a majority of the members of each house, the President must comply with the demand and convene both houses.
+
+**兩院의 關係 (Relationship between the Two Houses)**
+
+Generally similar to the Japanese Diet, there is a constitutional provision stating that "Laws concerning finance must first be submitted to the Chamber of Deputies and passed by it." Otherwise, the two houses are equal. Since the Senate has the right to initiate and amend laws just like the Chamber of Deputies, the Chamber's so-called priority (先議權) is merely a matter of timing.
+
+**政府와 議會와의 關係 (Relationship between Government and Parliament)**
+
+Similar to other countries, it is noteworthy that the Constitution specifically stipulates that Ministers of State are subject to "collective responsibility" concerning the general policy of the government. At the same time, the government does not have full dissolution power; the President cannot dissolve the Chamber of Deputies without "obtaining the consent of the Senate." Additionally, the French Parliament has over ten political factions that constantly split and merge, meaning the government's foundation is always unstable. Therefore, when the government and Parliament clash, it almost invariably leads to the collapse of the cabinet. However, triggered by the Paris riots of 1934, the current coalition cabinet was formed, and the cabinet's authority has been further strengthened.
+
+**3. 獨逸의 議會 (German Parliament)**
+
+The German Parliament consists of the Reichstag (國議會) and the Reichsrat (國叅議院). However, the relationship between these two houses is not the usual relationship between an upper and lower house. The Reichsrat represents the various federal states (Länder) of Germany, while the Reichstag represents the German people. In this respect, it closely resembles the organization of the U.S. Senate and House of Representatives. Regarding legislation, it is the Reichstag that debates and passes laws. The Reichsrat first deliberates on government bill proposals and also has the right to protest laws passed by the Reichstag. In this regard, it differs in purpose from both a typical Senate and the U.S. Senate, being a unique German institution.
+
+**組織 (Organization)**
+
+Reichstag – Men and women aged 20 or older generally have the right to vote for and be elected as members of the Reichstag.<121> The term of office for members is 4 years. In principle, one member is elected per 60,000 votes, so there is no fixed number of members from the outset. In the May 1924 election, there were 472 members; in the November 1924 election, 493 members; and in the May 1928 election, 490 members.
+
+**會期 (Session)**
+
+The Constitution specifies that the Reichstag shall convene annually on a Wednesday in November in the seat of the national government, i.e., Berlin. However, this is the regular session. The President of the Reichstag can convene Parliament at any time upon request of the Reich President or at least one-third of the total number of Reichstag members. Furthermore, since the Reichstag itself determines the session length, it is essentially unlimited.
+
+**政府와 議會와의 관계 (Relationship between Government and Parliament)**
+
+Government representatives must comply with the Speaker's authority in managing proceedings, but they can request to speak at any time during the session. Similar to many countries except the U.S., the structure allows for cooperation between the government and parliament in legislation, or for parliament to supervise the government's administration. The natural consequence is that the government is responsible to the parliament. It is explicitly stated in the constitution that the Reich Chancellor and Reich Ministers require the confidence of the Reichstag to remain in office. If the Reichstag expresses no confidence through an explicit resolution, the Reich Chancellor or Reich Minister must resign. A unique institution in the German Parliament is the standing committee on foreign affairs. This committee can meet even during parliamentary recess, after the expiration of members' terms, or after the dissolution of parliament until the new parliament convenes. In addition to the constitutional requirement that matters falling within the scope of legislation concerning alliances and treaties with foreign countries require parliamentary consent, this committee supervises all matters related to foreign affairs.
+As mentioned before, the Reichsrat represents the German federal states concerning legislation and administration. Each state has at least one vote in the Reichsrat. Larger states receive one vote per 700,000 inhabitants, with populations over 350,000 counting as 700,000. However, to prevent dominance by any single state, there is a restriction that no state may hold more than two-fifths of the total votes. The current number of members is 66.
+
+**4. 미국의 의회 (American Congress)**
+
+The U.S. Congress, like those of other nations, consists of two chambers: the Senate and the House of Representatives. However, because the legislative and executive branches are strictly separated, the Senate has unique powers different from others.
+
+**組織 (Organization)**
+
+House of Representatives – Persons qualified to vote for the most numerous branch of their state legislature<122> have the right to vote for Representatives. Anyone who is at least 25 years old, has been a citizen of the United States for 7 years, and is an inhabitant of the state at the time of election is eligible. The term is 2 years. The number of Representatives is approximately one per 30,000 inhabitants, currently 460.
+Senate – Voting qualifications are the same as for the House. However, while Representatives are apportioned based on each state's population, each state equally elects 2 Senators. The term is 6 years, with one-third of the total members being re-elected every 2 years. Anyone who is at least 30 years old, has been a U.S. citizen for 9 years, and was an inhabitant of the state at the time of election is eligible.
+
+**會期 (Session)**
+
+Congress assembles at least once every year. Unless Congress by law appoints a different day, the meeting shall be on the first Monday in December.
+
+**양원의 관계 (Relationship between the Two Houses)**
+
+All bills for raising revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills, as stipulated in the Constitution.
+
+**政府와 議會와의 關係 (Relationship between Government and Parliament)**
+
+Organized under strict separation of powers, there is no regular interaction between the government and Congress. The President only provides Congress with information on the state of the Union from time to time and merely "recommends" to their consideration such measures as he shall judge necessary and expedient. The President also has the power, in extraordinary cases, to convene both Houses, or either of them. If the two houses disagree on the time of adjournment, he may adjourn them to such time as he shall think proper. In essence, coordination between the government and Congress is achieved not through the system itself, but by the fact that the same majority often elects both the President and the majority in Congress, preventing severe dissatisfaction.
+Regarding bills passed by the House and Senate, if the President approves, he signs it immediately. If he disapproves, he returns it with his objections to the House in which it originated.
+In this case, the House that received the returned bill reconsiders it. If, after reconsideration, two-thirds of that House agree to pass the bill, and it is likewise passed by two-thirds of the other House, it becomes law.
+What is particularly noteworthy is that all treaties are made only with the advice and consent of the Senate. As seen when President Wilson faced the rejection of the League of Nations, the practical power over treaties lies in the hands of the Senate. In that sense, the Senate Foreign Relations Committee<123> holds absolute power concerning international issues.
+
+**5. 日本의 議會 (Japanese Diet)**
+
+In the Japanese Diet, there are the House of Peers and the House of Representatives. First, the House of Peers has the following six types of members:
+
+**가. 貴族院 (House of Peers)**
+
+1. Imperial Family Members (皇族議員) = Male members of the Imperial Family automatically become members of the House of Peers upon reaching the age of 20, for life.
+2. Princes and Marquises (公候爵議員) = Princes (公爵) and Marquises (候爵) become members upon reaching the age of 30, for life.
+3. Counts, Viscounts, Barons (伯爵, 男爵, 子爵議員) = Counts (伯爵), Viscounts (子爵), and Barons (男爵) who are 20 years old can elect members of the House of Peers from among their peers according to regulations. Those elected must be 30 years old. The term is 7 years. However, individuals recognized by His Majesty the Emperor for distinguished service to the state or unique scholarship, appointed by His Majesty the Emperor – these are simply called Imperial Nominees (勅選議員) – serve for life and must be male and at least 30 years old.
+4. Life Imperial Nominees (終身勅選議員) = Term is for life.
+5. Members of the Imperial Academy (帝國學士院會 會員議員) = Those who have received Imperial sanction, term is 7 years.
+7. Highest Taxpayer Members (다액납세자의원) = Men who pay large amounts of tax on industry, etc., in Hokkaido and each Prefecture, mutually elected at a rate of one per hundred such taxpayers, and sanctioned by His Majesty the Emperor = The number cannot exceed 66, term is 7 years.
+
+**나. 衆議院 (House of Representatives)**
+
+Members of the House of Representatives (중의원의원) = Any male Japanese subject aged 25 or older who has lived at a legally recognized address for 6 months or more has the right to vote for these Representatives. Any male aged 30 or older, unless subject to special legal restrictions, can be elected as a member of the House of Representatives. (Previously, it was different, requiring payment of 3 yen in annual taxes, which was called limited suffrage; not considering tax payment is called universal suffrage.)
+The number of members of the House of Representatives is determined by law, currently 466, and the term is 4 years.
+
+**俸給 (Salaries)**
+
+Regardless of whether they are in the House of Peers or the House of Representatives, members receive an annual salary of 3,000 yen. However, both the House of Peers and the House of Representatives have a President and Vice-President; there was a time when the President received 7,500 yen and the Vice-President 4,500 yen.
+
+**召集과 解散 (Convocation and Dissolution)**
+
+The right to convene and dissolve rests with His Majesty the Emperor. However, the House of Peers is not subject to dissolution. Only when the House of Representatives is dissolved does the House of Peers go into recess.<124>
+Moreover, in Japan, the power of His Majesty the Emperor exists above the Diet.
+
+**6. 쏘뻬-트의 政治 (Soviet Politics)**
+
+Lenin declared the establishment of the world's first Communist state in November 1917. This was simultaneously a declaration rejecting parliamentary politics. The Constitution of the Union of Soviet Socialist Republics, at its very beginning, upholds the "Declaration of the Rights of the Working and Exploited People" and establishes, under the condition that it is necessary for the "transitional period," a dictatorship by the urban and rural proletariat and the poorest peasants, namely, Soviet rule. In Russia, which recognizes no party other than the Communist Party, it is a completely dictatorial state under the motto of "rule by the party" (以黨治國) under a one-party system. In examining the parliamentary systems of various countries, we will briefly outline the political organization of the Soviets below.
+The political organization of Worker-Peasant Russia became extremely complex after the formation of the Union of Soviet Socialist Republics in 1923 by merging the Ukrainian, Belarusian, Transcaucasian Socialist Federative Soviet Republics, and the Azerbaijan, Georgian, and Armenian Socialist Soviet Republics. In essence, the supreme state power resides in the Congress of Soviets, composed solely of representatives of workers, soldiers, and poor peasants, which also combines legislative and executive functions.
+So, how are the Soviets elected? The Soviets start from the villages and cities and extend to each county (uyezd), province (guberniya), and the center. The right to vote for the most basic village or city Soviet belongs to any laborer aged 18 or older. Elections are held annually. The election method in cities involves meetings at each factory or other occupational gathering, while in villages, people are gathered in one place for open voting. The list of candidates can only be submitted by the Communist Party or trade unions and is displayed two days before the vote.
+Of course, the All-Union Congress of Soviets, elected from across the country under the direct guidance of the party with over 1,100 members, cannot function as the actual legislative and executive body. Therefore, the Congress of Soviets convenes only once a year for a one-week session, and practical affairs are handled by the 300-member Central Executive Committee elected by the Congress. This Central Executive Committee corresponds to the parliament in parliamentary states. The Central Executive Committee, in turn, elects a 17-member Presidium. This is the central organ of Soviet politics. For general administration, there is a separate Council of People's Commissars. This corresponds to the cabinet in parliamentary states.<125>
+
+**Summary**
+
+This 1935 article by "Ch'ŏngsan Hagin" provides a comparative overview of parliamentary systems, focusing on their origins, primarily in Britain, and then outlining the structures of parliaments in Britain, France, Germany, the USA, Japan, and briefly the Soviet Union. It traces the evolution of British parliament from Norman times, emphasizing the Magna Carta, the Model Parliament, the rise of the Commons, the development of the responsible cabinet system under figures like Robert Walpole, and the principle of "necessity breeds institutions." It then contrasts this with the strict separation of powers in the US, the multi-party system challenges in France, the unique Reichstag/Reichsrat structure in Weimar Germany, the structure of the Japanese Diet (House of Peers and House of Representatives), and finally describes the Soviet system as a non-parliamentary, party-dictatorship model based on Soviets.
+
+For historians of colonial Korea, this article is interesting as it presents Western liberal parliamentary models and contrasts them implicitly with both the Japanese system (described neutrally) and the Soviet system (described negatively as dictatorial). Published during Japanese rule, the discussion of liberalism and representative government, even in an academic tone, could carry subtle undertones about political rights, while the inclusion of Japan and the critique of the USSR align with the political realities and ideological currents of the time within the Japanese Empire. The author's choice of topic and comparisons provides insight into how global political systems were understood and presented to a Korean readership in the mid-1930s.
+
+**Named Entities**
+
+英國	영국	Yŏngguk (Great Britain)
+놀만	놀만	Norman
+마그남·콤시리암	마그남 콤시리암	Magnum Concilium
+앵그로·색손	앵글로 색슨	Anglo-Saxon
+위-테나-지못트	위테나게모트	Witenagemot
+시몬·드·몬드포-드	시몽 드 몽포르	Simon de Montfort
+에드와-드 1世	에드워드 1세	Edward I
+웨스트미스타-궁전	웨스트민스터 궁전	Westminster Palace
+위이리암 3世	윌리엄 3세	William III
+호익크	휘그	Whig
+도-리-	토리	Tory
+죠-지 1世	조지 1세	George I
+로바-드 와루볼	로버트 월폴	Robert Walpole
+다우닝街 10番地	다우닝가 10번지	10 Downing Street
+米國	미국	Miguk (United States)
+하밀톤	해밀턴	Hamilton
+마지손	매디슨	Madison
+뻬-다-손	패터슨	Paterson
+몬데스큐-	몽테스키외	Montesquieu
+아라에스卿	브라이스 경	Lord Bryce (likely intended, given the context of the 1917-18 committee)
+바지옷토	배젓	Bagehot
+佛蘭西	프랑스	P'ŭllansŏ (France)
+巴里	파리	Pari (Paris)
+獨逸	독일	Togil (Germany)
+伯林	베를린	Perŭllin (Berlin)
+윌손	윌슨	Wilson
+國際聯盟	국제 연맹	Kukche Yŏnmaeng (League of Nations)
+日本	일본	Ilbon (Japan)
+北海道	홋카이도	Hokkaidō
+쏘뻬-트	소비에트	Ssobyet'ŭ (Soviet)
+레-닌	레닌	Renin (Lenin)
+로시아	러시아	Rosia (Russia)
+우크라이나	우크라이나	Uk'ŭraina (Ukraine)
+白로시아	백러시아	Paengnosia (Belarus)
+트란스코-카샨	트란스코카서스	T'ŭransŭk'ok'asyan (Transcaucasia)
+아자-베쟌	아제르바이잔	Ajabejyan (Azerbaijan)
+죠-지아	조지아	Jyojia (Georgia)
+아루메니아	아르메니아	Arumenia (Armenia)
+
+**Glossary**
+
+立憲政治	입헌정치	Constitutional government
+議會	의회	Parliament, assembly
+起源	기원	Origin
+貴族	귀족	Nobility, aristocrat
+法律	법률	Law
+制定	제정	Enactment, establishment
+大憲章	대헌장	Magna Carta
+租稅	조세	Taxes
+代議政治	대의정치	Representative government
+原則	원칙	Principle
+上院	상원	Upper house (e.g., House of Lords, Senate)
+下院	하원	Lower house (e.g., House of Commons, House of Representatives)
+成文法	성문법	Written law, statutory law
+實際	실제	Reality, practice
+尊重	존중	Respect, value
+軟性憲法	연성헌법	Flexible constitution (uncodified)
+責任政治	책임정치	Responsible government
+政黨內閣	정당내각	Party cabinet
+閣議	각의	Cabinet meeting
+總理大臣	총리대신	Prime Minister
+連帶責任	연대책임	Collective responsibility
+總選擧	총선거	General election
+過半數	과반수	Majority
+三權分立	삼권분립	Separation of powers (legislative, executive, judicial)
+組織	조직	Organization, structure
+選擧權	선거권	Right to vote, suffrage
+被選擧權	피선거권	Right to be elected, eligibility for election
+任期	임기	Term of office
+定員	정원	Fixed number (of members), quota
+會期	회기	Session (of parliament)
+法案	법안	Bill (legislative proposal)
+審議	심의	Deliberation, review
+議決	의결	Resolution, decision (by vote)
+裁可	재가	Sanction, approval (esp. royal assent)
+權限	권한	Authority, power
+改革	개혁	Reform
+政府	정부	Government
+元老院	원로원	Senate (esp. French, Roman, US)
+代議員	대의원	Deputy, representative (esp. French Chamber of Deputies, US House of Representatives)
+比例代表制	비례대표제	Proportional representation system
+國議會	국의회	Reichstag (German Parliament)
+國叅議院	국참의원	Reichsrat (German Federal Council)
+聯邦	연방	Federation, federal state
+抗議權	항의권	Right to protest
+憲法	헌법	Constitution
+皇帝	황제	Emperor
+勅選	칙선	Imperial nomination/appointment
+衆議院	중의원	House of Representatives (esp. Japanese)
+俸給	봉급	Salary
+召集	소집	Convocation, summoning
+解散	해산	Dissolution (of parliament)
+停會	정회	Recess, adjournment (of parliament)
+쏘뻬-트	소비에트	Soviet (council in Russian context)
+勞農	노농	Workers and peasants
+無産者	무산자	Proletariat
+獨裁政治	독재정치	Dictatorship, autocratic rule
+동맹헌법	동맹헌법	Union Constitution (referring to USSR)
+劈頭	벽두	Beginning, outset
+中央集行委員會	중앙집행위원회	Central Executive Committee (Soviet)
+人民委員會	인민위원회	Council of People's Commissars (Soviet)
+잇다	있다	To exist, to have (Older spelling of 있다)
+업다	없다	To not exist, to not have (Older spelling of 없다)
+갓흔	같은	Same, like (Older spelling of 같은)
+맨드러낸	만들어낸	Made, created (Older form of 만들어낸)
+식히다	시키다	To make/cause someone to do (Older spelling/form, often used as causative suffix)
+밧다	받다	To receive (Older spelling of 받다)
+되엿다	되었다	Became (Older spelling of 되었다)
+녁이다	여기다	To consider, regard as (Older spelling of 여기다)
+낫는다	낳는다	To give birth to, produce, yield
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제6호
+발행일	1935년 07월 01일
+기사제목	自由主義와 各國 議會觀, 主로 그 起源을 드러
+필자	靑山學人
+기사형태	논설
+
+自由主義와 各國 議會觀, 主로 그 起源을 드러
+						靑山學人
+議會의 起源
+
+立憲政治國의 祖國은 英國이다. 今日 모든 立憲國들의 의회는 정도의 差는 잇을지라도 그 模範을 英國에서 바더갓다. 그러면 英國의 의회는 如何히 하야 발달되엿는가. 議會政治의 機*를 설명하는데 잇서서 먼저 대강 그 발달의 足蹟을 말하여 둘 필요가 잇스리라고 생각한다.
+
+놀만時代
+
+英國의 의회의 기원에 대하여서는 두 가지의 學說이 잇다. 그 중 普通 提唱되고 잇는 것은 놀만時代의 마그남·콤시리암(Magnum Concilium)이가 그것이라는 學說이 잇고 다른 하나는 앵그로·색손의 위-테나-지못트(Witedagemot)의 기원을 發하엿다고 하는 說이다. 어느 편이든 國內의 有力者(貴族)들이 戰爭을 宣言할 때라든가 講和條約締結을 할 때라든가 其他 중요한 法律을 제정할 경우라든가, 有力者 自身들이 또는 王의 초청을 바더, 王에게 種種의 獻言을 할 때부터 시착되엿다고 하는 点에 잇서서는 일치되엿다.<116>
+이 王의 相談에 應하는 貴族들이 그 특권을 王에게 확인식힌 것이 유명한 大憲章이엿스나 동시에 그것은 貴族의 借地人에 대한 權利를 제한식히고 租稅는 有力者의 승낙업시는 賦課할 수 업시한 点 갓흔 것에 잇서서는 단순한 계급적 승리만이 아니고, 王의 회의에 貴族 以外에 엇던 代表者를 초청하여 今日에 소위 代議政治의 형태를 취하여온 것도 그 때부터이엿다.
+다음은 시몬·드·몬드포-드의 會議(1265年) 及 에드와-드 1世의 「模範」議會(1295年)에서는, 貴族 외에, 各州로부터 두 사람式의 나이드 各市 또는 보로-로부터는 2人式의 시민을 선출하여 보냄으로 말미암아, 점점 代議政治의 원칙을 명확히 하엿다. 이 一方은 세습의 貴族 一方은 代表制度에 의하야 선출되는 2개 단체가 잇게 된 것은 드듸여 今日의 上院 下院이 되엿고 점차 투표도 別로히 하는데 이르러서, 1834년, 웨스트미스타-宮殿이 燒却되여버린 以後, 지금의 議會 *在地에 兩院을 區別한 議院을 建築하는데 이르럿다.
+그리하야 商業이 勃興하고, 소위 庶民階級의 세력이 증대하게 되자, 그와 동시에 선거권이 廣大되여 에드와-드 1世의 議會 소집 때에 쓴 「모든 國民에게 접촉되는 문제는 모든 國民에게 의하야 동의를 엇지 안으면 안된다」(What tonohes all, be sheuld approned by all)라는 文句가 지도원리가 되여 今日의 英國議會는 그 발달의 線을 거러왓다.
+
+必要는 制度를 낫는다
+
+그러나 英國의 議會 及 議會政治가 웨 다른 나라에게 模範이 될 만한 点이 만흔가하면 그것은 결코, 英國이 立憲政治의 祖國이라는 單純한 표면상의<117> 이유는 물론 안이고 英國에는 古來로 成文法이 업고 더욱이 모든 点에 잇서서 이론보다는 實際를 尊重히 녁이는 나라인 만큼 國家政治의 機關도 實際의 필요에 따라서 가장 無理가 업고 또한 가장 속히 진화하여온 까닭이엿다. 一國의 헌법에는 各各 그 制定한 시대의 특징적인 사정에의 영향 내지 그 起草者의 기성적 주관이 多少間이라도 드러잇는 사실은 할 수 업는 일이나 英國의 헌법은 소위 軟性憲法으로 旣成的 주관의 자연의 진화를 妨하는 것이 업섯다. 따라서 憲政의 運用은 英國에 잇서서 가장 자연적으로 진화하여서 소위 英米流는 결코 英國에만 적합한 특별한 制度習律이 안이고 責任政治가 不自然의 桎梏이 업시 발달된 형태라고 말할 수가 잇다.
+모든 制度가 實際의 필요에 따라 진화된 英國에서는 議會政治의 機構도 亦 實際의 필요에 따라 발달되엿다. 즉 1696년, 위이리암 3世는, 호익크, 도-리-의 兩黨에 의하야 內閣을 組織하엿으나, 도-리-는 王의 政策에 반대함으로, 점차 도-리-出身의 閣員은 罷免되고, 호익크 일당만으로 성립된 內閣으로 改造되엿다. 그것이 英國에 잇서서 政黨內閣의 최초이엿고, 따라, 죠-지 1世 以後, 종래 王 자신이 閣議를 總裁하든 慣例를 깨진 결과는 自然 閣議總裁의 권력은 閣員 중 最有力者에게 도라가서 여긔에 今日의 責任內閣制度가 생겻섯다.
+
+로바-드·와루볼
+
+英國의 責任內閣制度가 더욱히 今日과 갓흔 발달을 보게 된 것은 근대적 內閣制度의 최초의 總理大臣이엿든 로바-드 와루볼의 手腕과 見識에 의함이 특히 만헛섯다.
+와루볼은 20年에 亘하여 內閣의 首班이엿으나 今日의 英國 內閣制의 특질 즉 責任內閣의 機構는 대개가 전부 와루볼時代에 맨드러낸 것이라고 해도 과언이 안니다. 주로 下院을 상대로 國務를 議論하는 制度를 맨는 것은 와루볼이엿다. 國務의 運行에 잇서서는 大臣共同으로 여게 당하지 안으면 알된다는 今日의 連帶責任論을 주장한 사람도 와루볼이엿다. 議會의 中心이 上院으로부터 下院으로 옴긴 것도 와루볼의 內閣 때 이엿다. 國王의 信任이 아즉도 잇는데 불구하고 下院의 信任이 업서진 것을 이유로 內閣을 總辭職하며 최초의 責任內閣의 행동을  감행한 것도 와루볼이엿다. 또 한가지는 다우닝街 10番地에 처음으로 居住하고 잇서 後來 다우닝街 10番地라고만 하면 곳 總理大臣官邸를 의미하는데 이르게 된 그 시초도 와루볼이엿다. 그만큼 와루볼온 일반에게는 議會政治腐敗의 張本人과 갓치도 생각히우나 英國의 憲政의 進化에 貢獻함이 크다할 것이다.
+
+소위 內閣制度
+
+소위 英國流의 政權의 授受는 總選擧의 결과 한 政黨이 下院의<118> 過半數를 占하며는 그政黨의 首領이 國王에게 불이워서 內閣組織의 大命을 降下식힌다. 그 黨의 黨首-總理大臣은 內閣組織의 大命을 밧자, 暫時의 猶豫를 어더 宮中으로부터 退下하여 閣員表에 의하며  大臣을 奏薦한다.
+以上! 英國議會-동시에 世界議會史로도 볼 수 잇는--의 발달하여온 자최를 대강 말하엿다. 以下 各國의 議會에 項을 달니하여 現今 世界主要各國의 議會制度의 현상을 더듬어 보기로하자.
+
+各國의 議會
+
+各國의 議會制度는 모두가 그 範을 英國에서 취하엿기 때문에 大體에 잇서서 近似한 制度이나 다만 한 가지 가장 커다란 예외는 米國의 議會制度이다. 米國의 憲法起草에 際하여 하밀톤 마지손 뻬-다-손 등의 起草者들의 頭腦가 무엇브담도 강하게 지배한 것은 몬데스큐-의 三權分立論으로 그로 말미암아, 米國의 國家機關에 잇서서 극히 명료하게 立法, 行政, 司法의 三權이 分立되여, 이 三者는 전혀 서로 교섭이 업게까지 되엿다. 그러나 몬테스큐-의 三權分立論은 원래 英國에 잇서서 大陸에 비하여 훨신 자유스러운 정치를 행하여지는 것은 三權이 分立하며 권력을 한군데다 집중식히지 안는 組織으로부터 온 것이라고 실은 자유를 憧憬하는 나머지, 實際를 좀 더 잘보지 못하고 세운 議論으로써, 實은 英國의 議會는 三權에 分立하는 것이 안이라 그 制度에 잇서서는 다른 여러나라에도 압서서 三權에 混淆된 制度이다.
+이 몬데스큐-의 議論을 밋고 三權을 엄격히 分立식힌 곳에 米國의 넓은 의미에 잇서서의  議會制度의 장점도 잇으며 단점도 잇다. 以下 各國의 議會의 組織 及 機構를 약술한다.
+
+英國의 議會
+
+英國의 議會는 上院 及 下院으로 되엿다.
+
+組織
+
+下院-滿 21세에 達한 男女子는 법률의 규정한 缺格條項에 해당치 안는 한 모다 선거권 又는피선거권이 잇다. 즉 다시 말하면 정치적으로 全然 男女同權이 인정되엿다. 피선거권도 同樣. 任期는 5年 定員 615人.
+上院-世襲貴族. 互選에 의한 16명의 스콧트란드貴族 28명의 아이루란드의 貴族 終身任期의 法官貴族 칸다베리-大僧正 요-구大僧正 론돈 다-람 위인체스타-僧正을 포함한 26名의 敎會貴族.
+
+會期
+
+매년 2月 초에 開會하며 이-스타-祭日 暑中休暇 크리스마스의 休暇 以外는 대개 年中開會한다.
+
+兩院의 關係<119>
+
+金錢法案 이외에 대하여서는 兩院이 對等.
+1911年의 國會法에 의하여
+1. 上院에 잇서서 1개월 以上 金錢法案의 審議를 遷延할 때에는 上院의 議決을 기다리지 안코 國王의 裁可를 비러 法律로 定할 수가 잇음.
+2. 法案이 金錢法案인가 안인가를 決定하는 것은 下院議長의 權限에 屬함.
+3. 연속하여 3會期 下院을 통과하고 더욱히 上院에 잇서서 거부한 金錢法 以外의 法案은 最初에 提案보다 最終의 議事의 第3讀會의 사희에 2年을 經過한데 限하여는 上院의 議決을 기다리지 안코 法律로써 制定할 수 잇음.
+요컨댄 國民에게 부담을 미치게 하는 金錢法案에 대하엿서는 公選에 의한 下院의 意思를 존중히 하지 안으면 안된다는 趣意에 의하여 이 憲法改正을 行하엿섯으나 이 國會法에 의한 改正은 從來上院의 制度를 「世襲的」으로 公選的에로 改正할 때까지의 一時的 制度일 것을 條件으로하는 故로 그 上院制度改革을 調査하기 위하야 1917年 아라에스卿을 會長으로 하는 第 2院制度 調査委員會가 組織되여 1918年 調査를 완료하고 其後 成案을 上院에 提示하엿스나 上院의 多數를 占한 保守黨은 처음부터 上院의 權限縮少에 반대하며 今日에는 上院의 權限復活要求가 保守黨에 의하야 上院制度改革의 名稱으로 行해지고 잇는 현상이다. 이 상원권한문제가, 장래 議會政治上 중대한 문제로 될 것은 前述한 바와 갓다.
+
+政府와 議會와의 關係
+
+바지옷토가 英國의 內閣制度는 英國의 議會政治를 성공에 인도한 해결이라고 論한 만큼 政府와 議會와의 사희에는 밀접한 관계가 잇고 바지옷트의 말을 비러 말하면 內閣이 立法府와 行政府와의 사희의 聯接機가 되여잇다. 英國의 특수한 慣行은 아무리 大臣이라고 하드래도 一院에 議席을 가지고 잇는 者는 他의 院에 出席하여 發言할 수가 업는 것이다. 그래서 총리대신은 下院에 의석을 가지게 되는 것도 최근 일종의 慣行으로 되엿다. 政府에 解散權이 잇는 것은 물론이다.
+
+佛蘭西의 議會
+
+佛蘭西의 議會는 元老院 及 代議員으로 되엿다.
+
+組織
+
+代議院-21세 이상의 남자는 法律에 정하여 잇는 缺格條項이 업는데 한하여 선거권이 잇고, 25세 이상의 男子는 同樣 피선거권이 잇음. 선거제도는 名簿式에 의한 大選擧區比例代表制, 任期 4年, 定員 612名.
+元老院-種種의 沿革을 경과하엿스나 今日에는 世襲 又는 終身議員이란 것은 업고,<120> (1)代議院 議員, (2)郡會議員, (3)縣會議員, (4)市町村으로부터 年齡 40세 이상으로써 代議院議員 選擧貿格을 가지고, 또한 徵兵法에 規定된 의무를 완료한 者를 間接選擧에 의하야, 定員을 정하여 選出한다. 元老院 議員의 任期는 9年 3分의 1式 3年마다 改選한다.
+
+會期
+
+議會는 每年 1월 제2 火躍日에 集合하나 會期에 대하여서는 다만 「매년 적어도 5개월 以上됨을 要함」이라고 하엿슬 뿐이고 5개월 이상은 無制限이고 더욱 이 각 議院의 議員의 過半數로부터 請求가 잇을 때에는 大統領은 그 요구에 응하여 兩議院을 소집하지 안으면 안되게 되여 잇다.
+
+兩院의 關係
+
+大體 日本의 議會와 가치 「財政에 關한 法律은 먼저 代議院에 提出하여 그 議決을 經由함을要함」이란 憲法의 規定이 잇는 以外는 兩院이 대등하고, 元老院은 代議院과 同樣으로 法律의 發案權 及 修正權이 잇음으로 代議院의 소위 先議權은 單히 시간적 문제됨에 지나지 안는다.
+
+政府와 議會와의 關係
+
+他의 여러 諸國과 틀님업시 특히 憲法에 國務大臣은 政府의 一般政策에 관하여서는 「連帶의責」에 任할 것이라고 규정되여 잇는 것이 주목되나, 그와 동시에 政府에 완전한 解散權이 업고 「大統領은 元老院의 同意를 어듬」을 要치 안코는 代議院을 해산식힐 수 업는 것과 佛蘭西議會에는 10여 개가 넘는 政派가 잇서 그것이 늘 離合集散을 되푸리하고 잇서 政府에 依하야 슨 基礎가 늘 動搖하고 잇음으로 政府와 議會가 충돌된 경우에는 대개 예외업시 內閣의 瓦解를 보게 된다. 그러나 1934년 巴里暴動을 契機로 하야 현재의 聯立內閣이 드러스며 內閣의 權限이 일층 강하게 되엿다.
+
+3. 獨逸의 議會
+
+獨逸의 議會는 國議會와 國叅議院으로 組織되여 잇다. 단 이 兩院의 관계는 보통 말하는 上院下院의 관계가 안이고 國叅議院은 獨逸 各聯邦을 代表하고 國議會는 獨逸國民을 代表하는 点에 잇서 米國의 上院 下院 組織에 酷似하고 立法에 當하여 이것을 議決하는 것은 國議會로 叅議院은 政府의 法律案提出에 잇서서 먼저 그 議에 當하고 더욱이 議會에서 議決된 法律에 대하여 抗議權을 가지는 点에 잇서 보통의 元老院과도 米國의 上院과도 그 취지를 달리한는 獨逸의 獨得한 機關이다.
+
+組織
+
+國議會-만 20세 이상의 男女子는 原則으로 國議會議員의<121> 선거권 及 피선거권이 有홈. 議員의 任期는 4년. 원칙으로 得票 6萬票에 한 사람 選出되는 것으로 처음부터 일정한 定員은 업고 1924년 5월의 選擧에는 472명, 1924년 11월의 選擧에는 493명, 1928년 5월 選擧에는 490명.
+
+會期
+
+國議會는 매년 11월 水曜日에 國政府 所在地, 즉, 伯林에 소집될 것이 憲法으로 明記되여 잇다. 그러나 이것은 통상 議會로서 國大統領 又는 國議會員 總數 3분지 1 이상의 請求가 잇슬시는 國議會 議長은 何時라도 議會를 소집할 수가 잇음. 더욱이 會期는 國議會 자신이 정하게 되엿슴으로 요컨대 무제한이다.
+
+政府와 議會와의 관계
+
+政府의 대표자는 의장의 議事整理權에는 복종하지 안으면 안되나 회의 중 何時라도 발언을 구할 수 잇다는 규정에 의하여, 米國 이외의 만은 제국과 同樣으로, 입법상 정부와 의회는 서로  협력하는 又는 의회는 정부의 施政을 감시하도록 조직의 결과는 당연히 정부가 의회에 대하여 책임을 질 것을 결론지은 것으로 國宰相 及 국무대신이 그 직에 잇슴에는 국의회의 신임을 要함. 국의회가 명시의 결의에 의하야 불신임을 표한 때에는 國宰相 又는 국무대신은 그직을 辭할 것이다 라는 것이 헌법에 明記되여 잇다. 獨逸議會에 잇서서 특수한 제도는 외교에 관한 상임위원회가 설치되여 잇는 것이다. 이 외 *위원회는 議會閉會 중 及 의원의 임기만료 후, 又는 의회 해산 후 新議會의 집회에 일으기까지 사회에도 개회할 수가 잇고, 외국과의 동맹 급 조약에 잇서, 입법의 범위에 속하는 사항이 의회의 동의를 요한다는 헌법상의 규정 이외 모든 외교에 관한 사항을 감시하게 되엿다.
+國叅議院은 전에도 말한거와 가치 입법 及 행정에 관하야 독일 각 연방을 대표하는 것으로 各邦은 參議院에 잇서서 적어도 1투표권을 有하고 큰 邦은 인구 70만식에 1투표권 인구 35만 이상의 수가 잇을 경우에도 70만을 계산하게 되여잇서 다만 1邦의 전단을 막기 위하야 어떤 邦이라 할지라도 총투표수의 5분지 2 이상의 투표권이 有하게 되여잇는 제한이 잇다. 현재의 의원수는 66인.
+
+4. 미국의 의회
+
+米國의 의회는 元老院, 代議員의 2원으로 성립된 것 亦 다른제국과 형태에 잇서서 갓다. 그러나 입법부와 행정부와의 엄연하게 분립하여 잇기 때문에 元老院의 권한에는 他와 다른 특수한 점이 잇다.
+
+組織
+
+대의원- 各邦 立法 각 부원 중 의원수가 가장 만흔 의원의 선거인됨에<122> 요하는 資格이 잇는 자는 대의원 의원의 선거권이 잇고 何人이라 하드래도 연령 만 25세 이상으로 7년 간 合衆國의 公民이고 선거 당시 其邦의 주민이면 피선거권이 잇음. 임기는 2년. 의원수는 약 인구 3만에 대하야 1인의 비례로 現今에는 460인.
+원로원- 선거 자격은 대의원의 경우와 同樣이고 다만 대의원은 각방의 인구에 비례하여 의원을 선출하나 원로원은 各邦 평등히 2인식 선출한다. 임기는 6년으로 2년마다 의원 총수의 3분지 1식을 改選하기로 되여 잇다. 연령 만 30세 이상으로 9년간 합중국 공민이고 선거 당시 그 邦의 주민이엿스면 피선거권이 有함.
+
+會期
+
+의회는 매년 적어도 1회 집회한다. 집회의 시기는 의회가 법률로서 특별한 기일을 정하지 안는 外는 12월 제1 월요일로 함.
+
+양원의 관계
+
+歲入의 징수에 관한 모든 법률안은 대의원에 잇서서 먼저 이를 제의할 權이 有함. 단, 원로원이 이에 대하야 수정안을 발의하고 及 의결할 권한이 잇는 것은 他의 법률안에 잇서서와 갓다는 것이 헌법에 규정되여 잇다.
+
+政府와 議會와의 關係
+
+엄격한 3권 분립주의하에 조직된 것으로 정부와 의회와의 사희에는 平時의 교섭이 업고 다만 대통령은 의회에 대하야 隨時 합중국의 상세에 관한 보고를 제출하고 그 필요 또한 적당하다고 사유되는 조치에 대하야 그 심의를 「勸說할 뿐이다. 대통령에게는 또한 非常時의 경우에 잇서서 양의원 又는 그 一方을 소집할 수가 잇슴. 폐회의 기일에 대하여는 양의원 그 의론을 달이할 때에는 적당하다고 인정되는 시기까지 의회를 停會식힐 수가 잇다는 權能이 주워저 잇으나 요컨댄 정부와 의회와의 調節은 제도가 안이고 갓흔 다수가 대통령과 의회의 다수를 선출한다는 사실에 의하야 심한 불만이 업게 한다.
+대의원 及 원로원을 **한 법률안에 대하야 대통령은 이를 可타고 認할 시는 즉시로 서명하나 만약 이를 否타고 할 시는 여기에 이의서를 첨부하여 발의한 의원에 還附한다.
+이 경우 還附를 바든 의원은 다시 의원 3분지 2 이상의 다수로써 가결하고 他의 의원에 잇서서도 역시 3분지 2의 다수로서 가결된 때에는 그 법률안은 확정한 것으로 된다.
+더욱 주목될 것은 모든 조약은 원로원의 **에 의하야 그 동의를 어더 비로서 체결되는 것으로 실제상의 조약권이 윌손대통령이 國際聯盟의 부결을 보앗을 때와도 갓치 원로원의 *중에 잇는 그것이다. 그런 의미에서 원로원의 외교위원회는<123> 국제문제에 관한 限 절대의 권력이 잇다.
+
+5. 日本의 議會
+
+일본의 의회에 잇서서는 귀족원과 衆議院이 잇는데 먼첨 귀족원에는 左와 如한 여섯가지 의원이 잇다.
+
+가. 貴族院
+
+1. 皇族議員= 황족의 남자는 누구든지 20세만 되면 귀족원의원이 되는 바 기한은 평생토록 한다.
+2. 公候爵議員= 公爵, 候爵은 30세만 되면 이 귀족원의 의원이 되는 바 기한은 평생토록 한다.
+3. 伯爵, 男爵, 子爵의원= 백작, 남작, 자작은 20세만 되면 갓흔 爵에 잇는 이를 정한대로 귀족원의원을 선거할 수 잇스되 선거될 사람은 나히 30세가 되여서 하난 바, 기한은 7년동안만 하되 국가에 공로가 잇거나 또는 독특한 학식이 잇다고 천황폐하께서 생각하신 사람 중 천황폐하께서 맥기신 사람, 이는 간단하게 불너서 勅選議員이라고 하며 기한은 평생으로서 30세 이상 남자에 한하야 될 수 잇다.
+4. 終身勅選議員= 기한은 평생토록 한다.
+5. 帝國學士院會 會員議員= 천황폐하께서의 칙허를 어든 이로서 기한은 7년.
+7. 다액납세자의원= 북해도, 각 府縣에 잇서서 공업 등에 대한 세금을 만히 내는 남자 百사람 중 한사람식 서로 선출한 것을 천황폐하께서 칙허하신 이 = 그 인원수는 66인을 넘지 못하는 바 기한은 7년.
+
+나. 衆議院
+
+중의원의원= 일본국민으로 25세 이상만 되는 남자로서 법률이 인정하는 바 일정한 주소에 6개월이상 살기만 하면 이 중의원 代議士를 선거할 권리를 가지는 것이고 또는 30세 이상 남자로서 법률이 정하는 특별한 구속만 업스면 누구던지 이 중의원의원으로 선거될 수 잇다. (그전에는 이와 달나서 세금 3원을 1년에 내는 사람만 자격이 잇섯는 바 이것을 제한선거라하고 세금관계를 보지 안는 것을 보통선거라고 한다.)
+그리고 중의원 의원수는 법률이 인정한 대로 되되 지금은 466인인 바 기한은 4년.
+
+俸給
+
+그리고 귀족원 중의원 할 것 업시 의원은 1년에 3천원 봉급을 준다. 그런데 귀족원이나 중의원 중으로 어대를 막론하고 의장 부의장을 두엇는 바 의장은 7,500원 부의장은 4,500원이엿든 일도 잇다.
+
+召集과 解散
+
+소집과 해산의 권리는 천황께서 가지섯다. 그러나 귀족원은 해산을 명하시지 안한다. 다만 중의원 해산식히면 귀족원이 停會될 뿐이다.<124>
+그러고 일본은 의회 우에 다시 천황폐하께서의 힘이 계시다.
+
+6. 쏘뻬-트의 政治
+
+레-닌은 1917년 11월 세계최초의 XX주의국가의 성립을 선언하엿다. 이것은 동시에 의회정치排斥의 선언도 되엿다. 사회주의 쏘뻬-트 공화국동맹헌법은 그 劈頭에서 「로동자 及 피착취자의 권리의 선언」을 걸고 「과도시대」에 필요하다는 조건부로 「도회 及 지방의 무산자 及 빈농자에 의한 전제 즉 쏘뻬-트정치를 설정하엿다. 공산당 이외의 아무 당도 승인치 안는 로시아에 잇서서 1국 1당주의하에 以黨治國의 못토-로하는 완연한 독재정치국가이다. 우리는 각국의 의회제도를 考究하는뎨 잇서 以下 대략 쏘뻬-트의 정치조직을 적으려 한다.
+勞農로서아의 정치조직은 1923년 우크라이나 白로시아 트란스코-카샨 사회주의연방 쏘뻬-트 공화국 아자-베쟌 죠-지아 아루메니아의 각 사회주의 쏘뻬-트공화국을 병합하여 사회주의 쏘뻬-트 공화국동맹을 조직한 이래 비상히 복잡한 조직이엿으나 요컨댄 국가의 최고권력이 노동자 병사 빈농의 大衰로 만으로 성립되여 더욱이 입법기관과 행정기관과를 겸하는 쏘뻬-트대회에 잇는 것이다.
+그러면 쏘뻬-트는 如何히하여 선거되는가. 쏘뻬-트는 村, 도시로부터 시작하여 각 縣, 각 州, 중앙에 이른다. 제일 기본적인 촌 又는 도시의 쏘뻬-트 선거권은 18세 이상의 노동자는 누구나 다-잇다. 그 선거는 매년 행해진다. 그리고 선거의 방법은 도시에 잇서는 각 공장 기타 직업적 집회에서 행하여지고 村에 잇서서는 1개소에 집회식혀 공개적 투표를 행한다. 그리고 후보자의 명부는 공산당 又는 노동조합에서만이 제출할 수 잇으며 이것은 투표의 2일전에 표시된다.
+이러케 직접 당의 지도밋헤서 전국으로부터 선출된 1,100명 이상의 쏘뻬-트대회가 실제의 입법기관 행정기관으로 작용 못함은 물론이다. 그러키 때문에 쏘뻬-트대회는 1년 1회 1주간의 회기로서 개회될 뿐으로 실무는 대회로부터 선거된 3백명의 중앙집행위원회로써 행해지게 한다. 이 중앙집행위원회가 의회정치국의 의회에 해당한다. 그리고 중앙집행위원회는 다시 17명으로 된 상임위원회를 선출한다. 이것은 쏘뻬-트 정치의 중심기관이고 일반 행정의 기관으로서는 인민위원회가 따로 잇다. 이것이 의회국가의 내각에 해당다.<125>
+<116-125>

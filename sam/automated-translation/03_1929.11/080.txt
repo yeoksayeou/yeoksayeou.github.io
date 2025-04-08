@@ -1,0 +1,90 @@
+Magazine Title: 삼천리 제3호
+Publication Date: 1929년 11월 13일
+Article Title: 笑話 (Jokes/Funny Stories)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+笑話
+Jokes
+
+名談?
+Famous Talk?
+
+"This fly must be female."
+"How do you know?"
+"Because I see it sitting on the mirror."
+
+李太白
+Li T'aebaek
+
+Pak: "What does the term *T'aebuin* (太夫人) mean?"
+Ch'oe: "It's customary to attach the character *T'ae* (太) to indicate an elder. If you just say *Puin* (夫人), it means 'wife', but if you say *T'aebuin*, doesn't it mean 'mother'?"
+Pak: "That's right! So that's why in the Book of Odes (詩經), there's the poet Li Paek (李白) and the poet Li T'aebaek (李太白). Then Li T'aebaek must have been Li Paek's father!"
+
+엉털이
+Nonsense/Muddlehead
+
+Unable to bear watching her husband worrying anxiously as the exam date drew near,
+Wife: "Honey, is writing the exam answers really that hard? It must be like me giving birth."
+Husband: "That's nothing! Giving birth is still the easy part."
+Wife: "Why is that?"
+Husband: "A baby, you just push out what's inside your belly, but for an exam, you have to push out what's *not* in your belly, so it's tough!"<11>
+
+**Summary**
+
+This article presents three short jokes or humorous anecdotes typical of the era. The first relies on a simple stereotype about women and mirrors. The second plays on a misunderstanding of Chinese characters and honorifics, confusing the famous poet Li T'aebaek (Li Bai) with a hypothetical father figure based on the character "太" (T'ae - great/elder). The third joke compares the difficulty of taking an exam (especially when unprepared) to the difficulty of childbirth, concluding the exam is harder because one must produce answers from nothing. For historians, these jokes offer a glimpse into popular humor, gender stereotypes, common knowledge (or lack thereof) regarding classical Chinese figures and language, and everyday anxieties like examinations during the colonial period.
+
+**Named Entities**
+
+李太白	이태백	Li T'aebaek
+李白	이백	Li Paek
+詩經	시경	Book of Odes
+
+**Glossary**
+
+笑話	소화	Jokes, funny stories
+엇더케	어떻게	How (older spelling)
+우에	위에	On top of (older spelling)
+안는	앉는	Sitting (older spelling)
+太夫人	태부인	Honorific term for another's mother (lit. Great Madam)
+年長者	연장자	Elder person
+부치는	붙이는	To attach, add (older spelling)
+잇지	있지	Is there, exists (contraction, older spelling)
+올치	옳지	That's right (colloquial)
+勞心焦思	노심초사	Worrying anxiously, fretting
+아해	아이	Child (older form)
+가치요	같이요	Like, as (older spelling/form)
+낫는	낳는	Giving birth (older spelling)
+엇재서	어째서	Why, for what reason (older spelling)
+업는	없는	Not having, non-existent (older spelling)
+내보내랴니까	내보내려니까	Because one intends/tries to send/push out (older grammar/spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3호
+발행일	1929년 11월 13일
+기사제목	笑話
+기사형태	잡저
+
+笑話
+名談?
+
+「이 파리는 암컷인 모양이야」
+「엇더케 아나」
+「거울우에 올라 안는 것을 보아선」
+
+李太白
+
+박,  「太夫人이란 말은 무슨 뜻이냐?」
+崔,  「年長者에는 太字를 부치는 법이야 그저 夫人이라하면 안해지만 太夫人이라 하면 그 「어머니」란 말이 아닌가」
+朴,  「올치 올해 그래서 詩經속에 李白이란 시인과 李太白이란 시인이 잇지 그럼 李太白은 李白의 아버지엇구나」
+
+엉털이
+
+시험날자가 박두하여 勞心焦思하는 남편을 참아보다 못하여
+안해,  「여보 시험답안을 쓴다는 것이 그러케 어려워요. 마치 내가 아해낫는 것과 가치요」
+남편,  「그까짓! 아해낫는 것은 아직 약이라네」
+안해,  「엇재서 그래요」
+남편,  「아해야 뱃속에 잇는 것을 내보내지만 시험은 뱃속에 업는 것을 내보내랴니까 딱하지!」<11>

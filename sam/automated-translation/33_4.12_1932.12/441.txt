@@ -1,0 +1,50 @@
+Magazine Title: 삼천리 제4권 제12호
+Publication Date: 1932년 12월 01일
+Article Title: 三千里社에 送金注意 (Notice Regarding Sending Money to Samch'ŏllisa)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Notice Regarding Sending Money to Samch'ŏllisa
+
+As the Samch'ŏllisa (三千里社) has this time published a new magazine called "Man'guk Puin" (萬國婦人), we are currently in the process of revising the company's transfer account name (振替名義) with the Communications Bureau (遞信局). Therefore, for the time being, everyone sending transfer funds (振替送金) to either Samch'ŏllisa or the Man'guk Puin Department should please make the payment (拂込) to "Transfer Kyŏngsŏng 4284, Man'guk Puin Sa" (振替京城四二八四番 萬國婦人社). <특별8>
+
+**Summary**
+
+This short notice informs readers that due to the launch of a new magazine, "Man'guk Puin," by Samch'ŏllisa, the company is updating its postal transfer account details with the Communications Bureau. Readers wishing to send money to either Samch'ŏllisa or the new magazine are instructed to use the temporary account name "Transfer Kyŏngsŏng 4284, Man'guk Puin Sa" for the time being. This article provides a small window into the practical business operations of a Korean publishing house during the colonial period, including interactions with the colonial administrative body (Communications Bureau) and the specific financial mechanisms like the postal transfer system (振替) used for subscriptions or payments. The launch of a women's magazine ("Man'guk Puin") also reflects the expanding scope of the publisher.
+
+**Named Entities**
+
+三千里社	삼천리사	Samch'ŏllisa
+萬國婦人	만국부인	Man'guk Puin
+遞信局	체신국	Communications Bureau
+京城	경성	Kyŏngsŏng
+萬國婦人社	만국부인사	Man'guk Puin Sa
+
+**Glossary**
+
+今番	금번	This time, now
+新雜誌	신잡지	New magazine
+發行하엿슴에 라서	발행하였음에 따라서	Following the publication of (Older verbal ending -슴 + particle 라서)
+振替名義	진체명의	Transfer account name (Postal transfer system term)
+遞信局	체신국	Communications Bureau (Colonial era postal and communications authority)
+對하야	대하여	Towards, regarding (Older spelling)
+方今	방금	Just now, currently
+訂正手續	정정수속	Correction procedures, revision process
+중에잇기에	중에 있기에	Because it is in the middle of (Older spelling/form)
+當分間	당분간	For the time being, for a while
+振替送金	진체송금	Sending money via postal transfer
+하실이는모다	하실 이는 모두	Everyone who will do (Older spelling/form for '-ㄹ 이는 모두')
+拂込하여주시압	불입하여 주십시오	Please make the payment (拂込 is Japanese 'haraikomi'; 주시압 is an older polite request form, equivalent to 주십시오)
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제12호
+발행일	1932년 12월 01일
+기사제목	三千里社에 送金注意
+기사형태	사고·편집후기
+
+三千里社에 送金注意
+三千里社에서 今番「萬國婦人」이란 新雜誌를 發行하엿슴에 라서 社의 振替名義을 遞信局에 對하야 方今訂正手續을 하는 중에잇기에 當分間三千里社나 萬國婦人部에 振替送金하실이는모다 「振替京城四二八四番 萬國婦人社」로 拂込하여주시압＜특별8＞
+＜특별8＞

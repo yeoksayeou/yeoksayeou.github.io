@@ -1,0 +1,49 @@
+**Header Section:**
+Magazine Title: 三千理
+Publication Date: 1941-03-01
+Article Title: 國語版特輯, 內鮮結婚の家庭主婦 (Japanese Language Special Feature, Homemaker in a Mainland Japan-Korea Marriage)
+Author: 詩人 金素雲氏 夫人 (Poet Kim Soun's Wife)
+Article Type: 회고·수기 (Memoir/Recollection)
+
+**Body Text Translation:**
+
+<47-50>
+*The main body text of the article, originally in Japanese and spanning pages 47-50, was not provided in the prompt. Translation cannot be performed.*
+
+**Summary**
+
+*A summary cannot be provided as the article text is missing.*
+
+**Named Entities**
+
+*Named entities cannot be extracted as the article text is missing. Based on the metadata, the following entity is identifiable:*
+
+金素雲	김소운	Kim Soun
+
+**Glossary**
+
+*A glossary cannot be created as the article text is missing. Based on the metadata, the following terms are identifiable:*
+
+國語	こくご	National Language (referring to Japanese in this colonial context)
+特輯	とくしゅう	Special Feature
+內鮮	ないせん	Mainland Japan (內) and Korea (鮮); often used in colonial context implying unity/integration
+結婚	けっこん	Marriage
+家庭	かてい	Household; Family
+主婦	しゅふ	Housewife
+詩人	しじん	Poet
+夫人	ふじん	Wife; Mrs.
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제3호
+발행일	1941년 03월 01일
+기사제목	國語版特輯, 內鮮結婚の家庭主婦
+필자	詩人 金素雲氏 夫人
+기사형태	회고·수기
+
+國語版特輯, 內鮮結婚の家庭主婦
+						詩人 金素雲氏 夫人
+(원문 일본문 - 국편)
+<47-50>

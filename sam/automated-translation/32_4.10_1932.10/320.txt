@@ -1,0 +1,87 @@
+Magazine Title: 삼천리
+Publication Date: 1932-10-01
+Article Title: 山田六曲 (Sanjŏn Yukgok / Mountain Field Six Songs)
+Author: Not specified
+Article Type: 시 (Poem)
+
+**Mountain Field Six Songs**
+
+First Song
+Leaning on the mountain, several terraced fields; the farmhouse’s joys and sorrows repeat year after year.
+In leisure, every single thing finds peace in its nature; garden grass and courtyard birds each find their mates.
+
+Second Song
+A screen of green bamboo encircles the peaks; the clouds on the peaks haven't changed their ancient form.
+Amidst them, many flowering trees bloom among the rocks; heaven crafted wondrous shapes, mountains wind round and round.
+
+Third Song
+Gazing afar at the great flat fields, where rice and millet are planted, the year's work is done.
+Tilling fields and digging wells are timeless pursuits; drumming the belly, one truly knows the people of Yao and Shun's era. <70>
+
+Fourth Song
+Deep and green are the trees; on thousand-year pines perch cranes crying from the high marsh.
+The brushwood gate is quiet, quiet, listening for the rooster's crow; the herb garden and sunflower patch lie in spring's shade.
+
+Fifth Song
+The peak path winds and turns, becoming secluded; mountain homes with fences stand beside the clouds' edge.
+Calling a boy to fetch wine, I invite poet friends; the moon rises over the courtyard paulownia, a late-night pavilion.
+
+Sixth Song
+East and west, the valley settlements stretch long with mulberry and hemp; whose house is that amidst the misty willows?
+Young children sit in order by the bedside, reading the books of sages and worthies, learning the ways of filial and fraternal duty. <71>
+
+**Summary**
+
+This six-stanza poem, written in classical Chinese style (Hansi), depicts an idealized vision of rural life in a Korean mountain setting ("Sanjŏn"). It paints scenes of farming, natural beauty, peaceful coexistence with nature, quiet contemplation, social gatherings, and the upholding of traditional Confucian values like filial piety through education. The poem emphasizes harmony, contentment, and timelessness, evoking the peaceful reigns of legendary Chinese emperors Yao and Shun. From a historical perspective, the poem is interesting as it presents a serene, almost utopian portrayal of rural Korea in 1932, amidst the hardships of Japanese colonial rule. Historians might analyze this idyllic representation as a form of escapism, a quiet affirmation of traditional Korean values against imposed modernity, or simply a non-political aesthetic exercise common in the period.
+
+**Named Entities**
+
+堯	요	Yao (Legendary Chinese Emperor)
+舜	순	Shun (Legendary Chinese Emperor)
+
+**Glossary**
+
+山田	산전	Mountain fields
+田家	전가	Farmhouse; farming family
+苦樂	고락	Suffering and pleasure; hardships and joys
+物物	물물	Each and every thing
+安其性	안기성	To be at peace with/according to its nature
+翠竹	취죽	Green bamboo
+舊時容	구시용	Old-time appearance; ancient form
+禾*種穋	화종륙	Planting grains (likely 禾種穋; 禾種=grain seed, 穋=late-planted grain/millet)
+耕田*井	경전착정	Tilling fields and digging wells (likely 耕田鑿井)
+鼓腹	고복	To drum one's belly (sign of contentment)
+堯舜氓	요순맹	The people of Yao and Shun's time (i.e., living in peace and simplicity)
+九皐	구고	High marsh or riverbank (often associated with cranes)
+柴門	시문	Brushwood gate; rustic gate
+藥圃	약포	Herb garden; medicinal garden
+葵田	규전	Sunflower patch/field (葵 can refer to various mallows/hollyhocks, often sunflowers in this context)
+峰回路轉	봉회로전	The mountain path winds and turns
+籬落	이락	Fence (often of brushwood or bamboo)
+傍雲	방운	Beside the clouds
+詩友	시우	Poet friend(s)
+庭梧	정오	Courtyard paulownia tree
+洞府	동부	Valley settlement; grotto dwelling (can imply a secluded, beautiful place)
+桑麻	상마	Mulberry and hemp (representing agriculture/sericulture)
+煙柳	연류	Misty willows
+稚兒	치아	Young child(ren)
+聖賢書	성현서	Books of sages and worthies
+孝悌	효제	Filial piety and fraternal duty
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제10호
+발행일	1932년 10월 01일
+기사제목	山田六曲
+기사형태	시
+
+山田六曲
+一曲 依山數項田田家苦樂自年年閑中 物物安其性庭草園禽各得夫
+二曲 屛環翠竹峰峰雲不改舊時容中多 花樹開巖石天作奇形山繞重
+三曲 遙看大野平禾*種穋歲功成耕田 *井無今古鼓腹方知堯舜氓＜70＞
+四曲 蒼蒼樹木深千年松上九皐禽柴門 寂寂企鷄唱藥圃葵田春日陰
+五曲 峰回路轉幽山家籬落傍傍雲頭呼 童貰酒邀詩友月上庭梧半夜樓
+六曲 東西洞府長桑麻煙柳是誰堂稚兒 次第床頭坐讀聖賢書孝悌方＜71＞
+＜70-71＞

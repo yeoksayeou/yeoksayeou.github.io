@@ -1,0 +1,52 @@
+Magazine Title: 삼천리
+Publication Date: 1935년 02월 01일
+Article Title: 支社募集 (Recruitment of Branch Offices)
+Author: 삼천리사
+Article Type: 사고 (Advertisement/Notice)
+
+**Body Text Translation**
+
+Recruitment of Branch Offices
+
+If there is not yet a Samch'ŏlli branch office where you (先生) are located, we hope you will encourage yourself or a friend (友人) to establish one. The Branch Office Regulations (支社規約), which are profitable (利益) and convenient (輕便), will be sent upon request (請求).
+
+Samch'ŏlli Company <16>
+
+**Summary**
+
+This short notice is an advertisement by the Samch'ŏlli Company, publishers of the Samch'ŏlli magazine, soliciting individuals ("先生" - Sŏnsaeng, a general term of respect) to establish local branch offices for the magazine. It promises that the regulations for setting up a branch are profitable and convenient and offers to send them upon request. From a historical perspective, this text reveals the magazine's distribution and expansion strategy during the colonial period, relying on local agents or entrepreneurs motivated by potential profit. It shows the business side of cultural production and the methods used to broaden reach in the 1930s Korean market.
+
+**Named Entities**
+
+三千里社	삼천리사	Samch'ŏlli Company
+
+**Glossary**
+
+支社	지사	Branch office
+募集	모집	Recruitment
+先生	선생	Teacher; Sir; Mr. (Used as a general polite term of address)
+게신곳	계신 곳	Place where (someone esteemed) is (Older spelling/form of 계시다)
+업거든	없거든	If there is not (Older spelling/form of 없다)
+友人	우인	Friend
+勸하여	권하여	By encouraging/recommending
+設置	설치	Establishment; installation
+바람니다	바랍니다	Hope; wish (Older spelling/form of 바랍니다)
+利益	이익	Profit; benefit
+輕便한	경편한	Convenient; handy
+規約	규약	Regulations; rules
+請求	청구	Request; claim
+드리겟슴니다	드리겠습니다	Will give (humble form) (Older spelling/form of 드리겠습니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제2호
+발행일	1935년 02월 01일
+기사제목	支社募集
+기사형태	사고·편집후기
+
+支社募集
+先生이게신곳에 아직三千里支社가업거든 先生自身이나 友人에 勸하여 支社設置하여주시기를 바람니다 利益잇고 輕便한 支社規約은 請求하시는대로 보내드리겟슴니다
+三千里社＜16＞
+＜16＞

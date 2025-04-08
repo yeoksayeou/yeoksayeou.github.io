@@ -1,0 +1,56 @@
+Magazine Title: 삼천리 제17호
+Publication Date: 1931년 07월 01일
+Article Title: 世界의 無産者代表議員 (World Proletarian Representatives)
+Author: None Specified
+Article Type: 소식 (News/Information)
+
+World Proletarian Representatives
+
+Country Name Lower House Seats Proletarian Reps. Percentage
+United Kingdom 615 289 4.70
+Germany 493 152 38.0
+Ireland 151 14 9.0
+United States 435 1 0.2
+Japan 466 6 1.2
+France 612 101 16.5 <80>
+
+**Summary**
+
+This brief article presents statistics comparing the representation of "proletarian" members in the lower houses of parliament across six major countries: the UK, Germany, Ireland, the US, Japan, and France, as of 1931. It lists the total number of lower house seats, the number of seats held by proletarian representatives, and the resulting percentage for each country. For historians studying Korean colonial history, this piece is interesting as it reflects a global interest in socialist or labor movements and their political representation. The inclusion of Japan, the colonial power, with its relatively low percentage (1.2%), provides context for the political landscape influencing Korea at the time, where similar movements were often suppressed but intellectually tracked. The data (despite potential inaccuracies, like the UK's 4.70% which seems low for 289/615 seats) highlights the varying degrees of success such movements had achieved internationally.
+
+**Named Entities**
+
+英國	영국	United Kingdom
+獨逸	독일	Germany
+愛蘭	애란	Ireland
+米國	미국	United States
+日本	일본	Japan
+佛國	불국	France
+
+**Glossary**
+
+世界	세계	World
+無産者	무산자	Proletarian; person without property
+代表議員	대표의원	Representative; delegate; member of parliament/congress
+國名	국명	Country name
+下院議席	하원의석	Lower house seats (in parliament/congress)
+議員數	의원수	Number of representatives/members
+百分比	백분비	Percentage
+
+
+---------------------------
+
+
+잡지명	삼천리 제17호
+발행일	1931년 07월 01일
+기사제목	世界의 無産者代表議員
+기사형태	소식
+
+世界의 無産者代表議員
+國名   下院議席   無産議員數   百分比
+英國    615        289           4.70
+獨逸    493        152           38.0
+愛蘭    151         14            9.0
+米國    435          1            0.2
+日本    466          6            1.2
+佛國    612        101           16.5 <80>

@@ -1,0 +1,50 @@
+Magazine Title: 三千里 제6권 제8호
+Publication Date: 1934년 08월 01일
+Article Title: 社告 (Editorial Notice)
+Author: 三千里編輯局 (Samch'ŏlli Editorial Bureau)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Editorial Notice
+						Samch'ŏlli Editorial Bureau
+
+We had intended for the study on India's Gandhi (印度 간듸), which Mr. Cho Man-sik (曺晩植氏) was writing, to continue from the previous issue and enter the main discussion in this issue; however, due to circumstances, it has been interrupted. We ask for the deep understanding (甚諒) of our readers. <130>
+
+**Summary**
+
+This is a brief editorial notice from the *Samch'ŏlli* magazine's editorial team. They apologize to readers because a planned continuation of a study on India's Gandhi by Cho Man-sik could not be published in this issue due to unspecified "circumstances." This highlights potential editorial difficulties or external pressures faced by Korean publications during the colonial period. For historians, it is interesting as it points to the possible sensitivities surrounding discussions of figures like Gandhi, a prominent anti-colonial leader, and hints at the constraints under which Korean intellectuals and publishers operated.
+
+**Named Entities**
+
+曺晩植氏	조만식씨	Cho Man-sik ssi
+印度	인도	India
+간듸	간디	Kandi (Gandhi)
+三千里編輯局	삼천리편집국	Samch'ŏlli Editorial Bureau
+
+**Glossary**
+
+執筆中	집필중	In the process of writing
+이든	이던	Which was (retrospective modifier, older form of -던)
+前號	전호	Previous issue
+게속하야	계속하여	Continuing (older spelling/form of 계속하여)
+本論	본론	Main discussion; main part (of an argument or text)
+入하려	들어가려	Intended to enter
+하엿스나	하였으나	However; although (older spelling of 하였으나)
+事情	사정	Circumstances; situation
+中斷되엿삽기	중단되었기에	Because it was interrupted (older spelling and formal/humble ending: 되엿—>되었, -삽기—>-(으)므로/-기에)
+讀者諸氏	독자제씨	Esteemed readers (formal, honorific plural suffix 諸氏)
+甚諒	심량	Deep understanding; kind consideration (formal)
+바라나이다	바랍니다	We ask; we hope (formal, older style -나이다 ending)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제8호
+발행일	1934년 08월 01일
+기사제목	社告
+필자	三千里編輯局
+기사형태	사고·편집후기
+
+社告
+						三千里編輯局
+曺晩植氏 執筆中이든 印度 간듸 硏究는 前號에 게속하야 本論에 入하려 하엿스나 事情으로 中斷되엿삽기 讀者諸氏의 甚諒을 바라나이다. <130>

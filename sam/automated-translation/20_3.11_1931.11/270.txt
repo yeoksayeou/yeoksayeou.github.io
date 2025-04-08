@@ -1,0 +1,64 @@
+Magazine Title: 三千里 제3권 제11호
+Publication Date: 1931년 11월 01일
+Article Title: 自殺과 文化는 正比例된다 (Suicide and Culture are Directly Proportional)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+Suicide and Culture are Directly Proportional
+
+Yet, another strange thing is that we often see suicides among young men and women who dwell in hope and brightness. That is, young people aged 20 to 30 constitute more than half. Suicides among the elderly over 50 are rarely seen.
+
+One might say the reason young people commit suicide at twice the rate of the elderly is either heartbreak (실연) or philosophical pessimism (철학적 염세관). However, more than that, the number of those who commit suicide driven by economic hardship (생활난) is 531, those who commit suicide due to illness is 353, and additionally, those who commit suicide out of jealousy (질투) number 64.
+
+Suicide and culture are directly proportional. Why? This can be clearly proven by looking at the fact that Kyŏnggi-do, said to be the most culturally advanced, occupies the highest position with 421 suicides.
+
+Kyŏngbuk and Ch'ungnam follow, while Hamgyŏng North and South Provinces showed the lowest numbers.<50>
+
+**Summary**
+
+This 1931 article from the magazine *Samch'ŏlli* claims a direct correlation between "culture" (interpreted as societal advancement or modernization) and suicide rates in Korea. It notes that young adults (20-30) have significantly higher suicide rates than the elderly, attributing causes primarily to economic hardship and illness, followed by heartbreak, philosophical pessimism, and jealousy. The author uses the high suicide rate in Kyŏnggi-do, considered the most "advanced" region, and the lower rates in the Hamgyŏng provinces as evidence for the link between culture and suicide. From a historical perspective, the article is interesting for its statistical breakdown of suicide causes (highlighting economic distress) and its attempt to link modernization/cultural development with social pathologies like suicide during the colonial period. Historians might find the specific statistics and the framing of "culture" versus suicide rates revealing about societal anxieties and interpretations of social change under Japanese rule.
+
+**Named Entities**
+
+京畿道	경기도	Kyŏnggi-do
+慶北	경북	Kyŏngbuk
+忠南	충남	Ch'ungnam
+咸南北道	함남북도	Hamnam/Hambuk-do (Hamgyŏng North and South Provinces)
+
+**Glossary**
+
+自殺	자살	Suicide
+文化	문화	Culture
+正比例	정비례	Direct proportion
+희망	희망	Hope
+광명	광명	Light, brightness
+청춘 남녀	청춘 남녀	Young men and women; youth
+만히	많이	Many, much (older spelling of 많이)
+잇다	있다	To be, exist (older spelling/form of 있다)
+업다	없다	To not be, not exist (older spelling/form of 없다)
+실연	실연	Broken heart, unrequited love
+철학적 염세관	철학적 염세관	Philosophical pessimism
+생활난	생활난	Economic hardship, difficulties in living
+쫏기여서	쫓기어서	Being chased/driven by (older spelling/form of 쫓기어서)
+병	병	Sickness, illness
+질투	질투	Jealousy
+웨그러냐 하면	왜 그러냐 하면	The reason why is because... (older spelling/form of 왜 그러냐 하면)
+진전되엿다는	진전되었다는	Said to have advanced/progressed (older spelling/form of 진전되었다는)
+최고	최고	Highest, maximum
+位 점령	위 점령	Occupy the position/rank
+최하	최하	Lowest, minimum
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제11호
+발행일	1931년 11월 01일
+기사제목	自殺과 文化는 正比例된다
+기사형태	잡저
+
+自殺과 文化는 正比例된다
+그런데 또 한가지 이상한 것은 희망과 광명에서 노는 청춘 남녀의 자살을 만히 볼 수 잇다. 즉 20세부터 30세 되는 나 젊은 사람들이 반수 이상이다. 50세 이상된 노인들의 자살은 별로 볼 수 업다.
+젊은 사람들이 노인들의 2배나 자살하게 되는 원인은 실연이 아니면 철학적 염세관일 것이라고 하겟다. 그러나 그것보담 생활난에 쫏기여서 자살하는 수가 531인이고 병 때문에 자살하는 것이 353인이며 또 그 외에 질투로 자살하는 것이 64인이다.
+자살과 문화와는 정비례된다. 웨그러냐 하면 문화가 제일 진전되엿다는 京畿道의 자살자가 421인이라는 최고를 位 점령한 것을 보아서 확실히 증명할 수 잇다.
+慶北 忠南이 다음이고 咸南北道가 최하의 수를 표시하엿다.＜50＞

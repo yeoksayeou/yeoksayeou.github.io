@@ -1,0 +1,47 @@
+Magazine Title: 三千里 제5권 제1호
+Publication Date: 1933년 01월 01일
+Article Title: 新年文藝 (New Year Literary News)
+Author: None specified
+Article Type: 소식 (News/Dispatch)
+
+新年文藝 (New Year Literary News)
+
+The 1932 Nobel Prize in Literature (文學賞), which had been predicted to go to Germany's Stefan George (게오르그스테판), France's Valéry (발레라), Noailles (노아이유), or Jammes (쟘므), ultimately went (떠러젓다) to England's John Galsworthy (존·골스워디). <103>
+
+**Summary**
+
+This short news item reports that the 1932 Nobel Prize in Literature was awarded to John Galsworthy of England, mentioning other contenders from Germany and France (Stefan George, Paul Valéry, Anna de Noailles, Francis Jammes) who were expected to win. From a historical perspective, this piece highlights the awareness and interest within colonized Korea regarding international cultural events like the Nobel Prize during the 1930s. It demonstrates a connection to global literary trends despite the political situation under Japanese rule.
+
+**Named Entities**
+
+게오르그스테판	게오르그 스테판	Stefan George
+발레라	발레라	Paul Valéry
+노아이유	노아이유	Anna de Noailles
+쟘므	쟘므	Francis Jammes
+존·골스워디	존 골스워디	John Galsworthy
+
+**Glossary**
+
+新年文藝	신년문예	New Year Literary News/Scene
+獨	독	Abbreviation for Germany (獨逸國)
+佛	불	Abbreviation for France (佛蘭西)
+或은	혹은	Or
+-에게로	에게로	To (particle indicating recipient/direction)
+가리라고 하던	가리라고 하던	Was said/predicted it would go to
+文學賞	문학상	Literature Prize
+필경	필경	Ultimately, in the end
+英	영	Abbreviation for England (英國)
+떠러젓다	떨어졌다	Fell to, went to (older spelling of 떨어졌다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제1호
+발행일	1933년 01월 01일
+기사제목	新年文藝
+기사형태	소식
+
+新年文藝
+獨의 『게오르그스테판』 佛의 『발레라』 『노아이유』 或은 『쟘므』에게로 가리라고 하던
+1932년도 노-벨 文學賞은 필경 英의 『존·골스워디』에게로 떠러젓다. ＜103＞

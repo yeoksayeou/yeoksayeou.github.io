@@ -1,0 +1,69 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1935년 10월 01일
+Article Title: 淸秋文藝 (Autumn Literature)
+Author: Not specified
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Autumn Literature
+
+Song of Harvest
+
+Now I must leave here
+No, no, I cannot leave
+Until that violin sounds
+To the Hungarian, wine
+To the Slovak, brandy
+To the German, beer
+Offer it, offer it
+Even if leaving, I must leave
+
+This song is sung by the "Gypsy" (집시) tribe in Southern Europe (南歐) after the harvest is all finished.<217>
+
+**Summary**
+
+This article presents a short poem titled "Song of Harvest," attributed to Gypsy people in Southern Europe singing after the harvest season. The poem expresses a reluctance to leave a place but an acceptance of the necessity, marked by the offering of different alcoholic drinks (wine, brandy, beer) to various European nationalities (Hungarians, Slovaks, Germans) before departure, seemingly waiting for a violin signal. From a historical perspective, the introduction of a European folk song (specifically Gypsy) in a Korean magazine during the colonial period is interesting. It might reflect a broader cultural curiosity about Europe or potentially resonate with themes of wandering, displacement, and the bittersweet nature of endings, which could have held subtle parallels for contemporary Korean readers, even if presented simply as foreign folklore.
+
+**Named Entities**
+
+항가리 사람	항가리 사람	Hungarian people
+스로바기야사람	스로바키아 사람	Slovakian people
+독일사람	독일 사람	German people
+南歐	남구	Southern Europe
+집시	집시	Gypsy
+
+**Glossary**
+
+淸秋文藝	청추문예	Autumn Literature
+收獲	수확	Harvest
+바요링	바이올린	Violin (Older phonetic transcription)
+울니기까지는	울리기까지는	Until it sounds/rings (Older spelling of 울리기까지는)
+뿌란데-	브랜디	Brandy (Older phonetic transcription)
+삐루	비루 (맥주)	Beer (Older phonetic transcription, from German 'Bier')
+갓다바치고	갖다 바치고	Offer it and offer it (Older spelling/phrasing of 갖다 바치고)
+끗난	끝난	Finished (Older spelling of 끝난)
+집시	집시	Gypsy
+族	족	Tribe, ethnic group
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제9호
+발행일	1935년 10월 01일
+기사제목	淸秋文藝
+기사형태	시
+
+淸秋文藝
+收獲의 노래
+이제는 여기서 떠나야하지
+아니 아니 떠나지는 못하겟네
+저기 바요링이 울니기까지는
+항가리 사람에게는 포도주를
+스로바기야사람에는 뿌란데-를
+독일사람에게는 삐루를
+갓다바치고 갓다바치고
+떠나드래도 떠나야지요
+
+이 노래는 收獲이 다 끗난 뒤 南歐에서 「집시」族들이 부르는 것이다.＜217＞

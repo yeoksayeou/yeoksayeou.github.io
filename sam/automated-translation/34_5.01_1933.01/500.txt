@@ -1,0 +1,92 @@
+Magazine Title: 삼천리 제5권 제1호
+Publication Date: 1933년 01월 01일
+Article Title: 晋州民謠 (Chinju Folk Song)
+Author: 椿靖 (Chunjō)
+Article Type: 시 (Poem)
+
+Chinju Folk Song
+						Chunjō
+
+Chinju alley, deep alley<105>
+Mr. Ha's eldest daughter
+Because the rumor spread that she's so pretty
+When I went to see her once
+They said she went out
+When I went to see her twice
+They said she hadn't come back
+When I went to see her ten times
+They said she had fallen ill
+When I asked to see the sick girl
+With her mother
+Drawing her eyebrows
+Five *toe* (升) of oil
+Five *toe* of powder
+Five *toe* of rouge
+Ah, I didn't know about the fifteen *toe*!
+
+End
+(Author and details unknown) <106>
+
+**Summary**
+
+This article presents a Korean folk song (minyo) from Chinju. The song humorously describes the persistent efforts of a speaker to see a famously beautiful girl, the eldest daughter of a Mr. Ha. Each attempt is met with an excuse – she's out, she hasn't returned, or she's sick. Finally, upon trying to visit the supposedly sick girl, the speaker discovers her elaborate makeup routine involving large quantities of oil, powder, and rouge, implying her "sickness" was just the time taken to prepare herself.
+
+From a historical perspective, the publication of a regional Korean folk song in a major magazine during the colonial period is noteworthy. It reflects an interest in preserving or documenting local Korean culture, although the author appears to have a Japanese name (Chunjō). The poem offers a glimpse into social customs and ideals of beauty (indicated by the extensive use of cosmetics) in 1930s Korea, specifically Chinju. The use of older spellings and potentially dialectal forms ("골묵", "맛딸애기", "기시고") is also of linguistic interest.
+
+**Named Entities**
+
+晉州	진주	Chinju
+하산도	하산도	Ha Sando (description: Mr. Ha)
+椿靖	춘정	Chunjō
+
+**Glossary**
+
+晋州	진주	Chinju (a city in South Gyeongsang Province)
+民謠	민요	Folk song
+골묵	골목	Alley (older spelling/dialectal form of 골목)
+맛딸애기	맏딸 아기	Eldest daughter (combination of 맏딸 'eldest daughter' and 아기 'child/girl', with older spelling)
+잘랏다	잘났다	To be excellent, handsome, pretty (older spelling/dialectal form of 잘났다)
+낫기	나서	Because (it) arose/spread (older spelling/dialectal form, likely from 나다 'to arise/spread' + -기 때문에 'because')
+분	번	Time(s), instance (older spelling/dialectal form of 번)
+보로	보러	To see, in order to see (older spelling/dialectal form of 보러)
+가니개	가니까	Because (I) went / When (I) went (older spelling/dialectal connective ending)
+기시고	계시고 / 이시고	(Honorific) is/are; or likely a dialectal form for reported speech marker "they said..."
+기시게	계시기에 / 이시기에	Similar to 기시고, likely indicating reported speech "they said..."
+병난	병난	Sick, who got sick (standard form)
+애미	에미	Mother (slightly archaic/informal term)
+눈섬빼고	눈썹 대고/빼고	Drawing eyebrows / Plucking eyebrows (likely related to applying makeup around the eyes/eyebrows; interpretation based on context)
+닷	닷	Five (older numeral form, used before counters like 되)
+데(升)	되	A traditional unit of volume (approx. 1.8 liters); 升 is the Hanja character.
+몰랏구나	몰랐구나	Oh, I didn't know! / I didn't realize! (older spelling of 몰랐구나)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제1호
+발행일	1933년 01월 01일
+기사제목	晋州民謠
+필자	椿靖
+기사형태	시
+
+晋州民謠
+						椿靖
+진주골묵 진골묵＜105＞
+하산도 맛딸애기
+하도 잘랏다 소문 낫기
+한 분 보로 가니개
+나갓다고 기시고
+두 번 보로 가니개
+안 왓다고 기시고
+열 분 보로 가니개
+병 낫다고 기시게
+병난 애기 보자하니
+애미하고
+눈섬빼고
+기름 닷 데(升)
+분 닷 데
+연지 닷 데
+열 닷데를 몰랏구나
+以上
+(작자연해 미상) ＜106＞
+＜105-106＞

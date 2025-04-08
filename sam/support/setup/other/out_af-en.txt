@@ -1,0 +1,300 @@
+38	120	Discussion on Far East Issues		Discussion/Panel Talk
+38	130	High-rise Building		Miscellaneous Article
+38	140	Captain Amakasu and Manchuria		Miscellaneous Article
+38	150	High Officials and Great Generals Taking Up Arms		Miscellaneous Article
+38	160	Analysis of Background and Foundation (2)	Ch'angnang'gaek	Editorial
+38	170	Comparison of Japan-US Combat Power	As Seen by a Chinese General	Editorial
+38	180	The Newspaper War Between Tonga Ilbo and Chosŏn Ilbo Amidst Great Chaos	Ch'obyŏngjŏng	Editorial
+38	190	Flower-Selling Supplementary Prize		Miscellaneous Article
+38	200	Currently Under Investigation		Miscellaneous Article
+38	210	Samch'ŏlli Wall Newspaper, Chiang Kai-shek's Speech		Miscellaneous Article
+38	220	The Dance of Ms. Ch'oe Sŭnghŭi		News
+38	230	Freedom of the Inner Self		Miscellaneous Article
+38	240	Speaking with Mr. Abe Isoo, Head of the Social Masses Party, about Social Issues	Ch'angnang'gaek	Discussion/Panel Talk
+38	250	A Great Emperor's View of Wives		Miscellaneous Article
+38	260	Meticulous Preparation		Miscellaneous Article
+38	270	Gold Veins Buried 3,000 Li Underground and Promising Gold Mines	Investigation Bureau	News
+38	280	Sangjŏn Pyŏkhae Collection, Acting Minister Becomes a Clerk		Miscellaneous Article
+38	290	Newspaper Novels and the Author's State of Mind		Literature/Other
+38	300	To Scotland After Enthronement		Miscellaneous Article
+38	310	Ten Great Figures of the Peninsula's Financial World, Pak Hŭngsik Edition	Mukkŏn'gong	News
+38	320	Mr. Yi Kiyŏng's Full-Length Novel		News
+38	330	Selected Sijo		Poetry
+38	340	Seeking the Capital of Arts, A Painted Boat on a Moonlit Night in Jinling	Chu Yohan	Travelogue
+38	350	Seeking the Capital of Arts, Oh, the Ruins of Pompeii!	Yi Sunt'ak in Rome	Travelogue
+38	360	Seeking the Capital of Arts, Heidelberg Recollections	Chŏng Sŏkt'ae	Travelogue
+38	370	Seeking the Capital of Arts, Poet Saint Dante's "Florence"	South European Scholar in "Florence"	Travelogue
+38	380	Era of Proliferating High-rise Buildings		News
+38	390	Western Art and Nude Beauty, Continuation of a Tour Around Europe and America	Na Hyesŏk	Travelogue
+38	400	Mr. Yŏm Sangsŏp's Trip to Manchukuo		News
+38	410	Chonggak Miscellany, Continued Sup'yogyo Riverside	P'ain	Literature/Other
+38	420	Collection of Folk Songs		Literature/Other
+38	430	Timeless Masterpieces of Writing		Literature/Other
+38	440	Thoughts on the Theatrical and Cinematic Adaptation of My Work		Literature/Other
+38	441	US Marine Recruitment Poster!		Miscellaneous Article
+38	450	Record of Conversation with Mr. Sin Hŭng'u, Centering on the Issue of Christianity's Self-Reliance	Hanyang Kŏsa	Discussion/Panel Talk
+38	460	Husband Survey		Miscellaneous Article
+38	470	Success of the Three Great Gold Mining Kings (Messrs. Ch'oe Ch'anghak, Pang Ŭngmo, Kim T'aewŏn, etc.)	Pukpuk Sanin	News
+38	480	Collection of Mistakes/Blunders		Miscellaneous Article
+38	490	Panga T'aryŏng		Poetry
+38	500	Collection of Unseemly Sights/Things I Don't Want to See		Miscellaneous Article
+38	510	Panel Discussion on Overcoming Late Marriage, Ah, Youth is Precious!		Discussion/Panel Talk
+38	520	Department Store Critique and Others, Diary of a Young Merchant	Moo Young Dang Joo Yi Kŭnmu	Literature/Other
+38	521	Branch Office Recruitment		Notice/Editorial Postscript
+38	522	Change of Transfer Account		Notice/Editorial Postscript
+38	530	New Faces of the Literary World: KAPF	Min Pyŏnghwi	Literary Criticism
+38	540	Autumn Is About to Depart on a Long Journey	Sin Sŏkchŏng	Poetry
+38	550	Successful Occupations for Intelligent Youth (1)	Pak Ok'wa	News
+38	560	Publication Anniversary Recollections	Pak Yŏnghŭi et al.	Memoir/Reminiscence
+38	570	Secret Story of Border Smuggling, The Ch'ŏnyang Manyang Edition (1)	Chŏkt'oma	Memoir/Reminiscence
+38	580	An 8,000 Won Windfall		Miscellaneous Article
+38	590	"If You Throw a Stone in Washington, You'll Hit a Colonel."		Miscellaneous Article
+38	600	Recent Prison Status of Kim Chŏngp'il, Who Poisoned a Beauty	Pak Ok'wa	News
+38	610	Sad Story of a Kisaeng, Nan'hwa is a Pitiful Woman	Yi Ponghŭi	Literature/Other
+38	620	Favored Talent of the Medical World		News
+38	630	Self-Proclaimed Beauty		Miscellaneous Article
+38	640	Pastoral Poet Tao Yuanming	Paeg'u Hagin	Literature/Other
+38	650	Yes, That's Right, Sister —Poetic Folk Song—	Kim Ansŏ	Poetry
+38	660	Nostalgia of the Garden	P'yŏnsŏkch'on	Poetry
+38	670	Beggar	Ham Taehun	Poetry
+38	680	Lyricism of Autumn	Yi Hyosŏk	Literature/Other
+38	690	Korean Sentiments Recited by an Overseas Poet (1)	Shiratori Shōgo	Poetry
+38	700	The Writers' Village in Sŏngbuk-dong		Miscellaneous Article
+38	710	Sending Out the October Issue		Notice/Editorial Postscript
+39	001	The Wind is a South Wind	P'ain	Poetry
+39	002	(Untitled - National Compilation)		Miscellaneous Article
+39	010	Samch'ŏlli Secret Room (The Korean Black-chamber)		News
+39	020	Three Pieces of Advice		Social Commentary
+39	030	Critique of Pan-Asianism	Kim Kyŏngjae	Editorial
+39	040	The Reform Movement and Comrades at the Time of the Kapsin Coup, Messrs. Kim Okkyun, Hong Yŏngsik, Sŏ Kwangbŏm, and Others	Pak Yŏnghyo	Memoir/Reminiscence
+39	050	Willows and the Magistrate		Social Commentary
+39	060	Drunken Talk		Miscellaneous Article
+39	070	Samch'ŏlli Go-Stop, Department Store Fever		Miscellaneous Article
+39	080	Anecdotes of Suffering		Miscellaneous Article
+39	090	Shortage of Seven Women in Seoul		Miscellaneous Article
+39	100	Alimony of 35,000 Won		Miscellaneous Article
+39	110	Samch'ŏlli Annals	Ch'angnang'gaek	News
+39	120	Advocacy of the New Life Movement, The Revival Movement Surging in Young China		Editorial
+39	130	Spring Dawn	Meng Haoran	Poetry
+39	140	Spring Palace Song	Wang Changling	Poetry
+39	150	Moonlit Night of Flowers on the Spring River	Zhang Ruoxu	Poetry
+39	160	A Day in the Life of a Newspaper President: Mr. Song Chin'u, President of Tonga Ilbo		News
+39	170	A Day in the Life of a Newspaper President - Mr. Yŏ Unhyŏng, President of Chungang Ilbo		News
+39	180	A Day in the Life of a Newspaper President - Mr. Pang Ŭngmo, President of Chosŏn Ilbo		News
+39	190	Personalities of Successive Governors-General, My Account of the Seven Governors-General I Saw: Itō, Sone, Terauchi, Hasegawa, Saitō, Yamanashi, Ugaki	Pak Yŏngch'ŏl	Memoir/Reminiscence
+39	200	Samch'ŏlli Go-Stop, Imitation Sickness		Miscellaneous Article
+39	210	Returning to the Fatherland, No. 2 Molière Road, Shanghai	Zhang Xueliang	Editorial
+39	220	What is a Wife?		Miscellaneous Article
+39	230	Women's Research Lab		Miscellaneous Article
+39	240	Secret Document Disclosure Room (1)		Memoir/Reminiscence
+39	250	Stopping Over in Wŏnsan	Yi Chun'gong	Poetry
+39	260	Untitled	Yi Hyegong	Poetry
+39	270	Autumn of Hạ Kỷ	Pak Yŏnghyo	Poetry
+39	280	Soviet, US, UK Far East War Preparations Targeting Japan		Editorial
+39	290	The Independence Movement of Inner Mongolia		Editorial
+39	300	Analysis Chart of the Ideal Wife		Miscellaneous Article
+39	310	Recollections of a Famous Reporter's Poetic Season (1), At the Time of King Yi T'aewang's State Funeral	Min T'aewŏn	Memoir/Reminiscence
+39	320	Greed is Good	German Chancellor Hitler	Miscellaneous Article
+39	330	The Path of Life	British Thinker Smiles	Miscellaneous Article
+39	340	Recollections	Hong Myŏnghŭi	Poetry
+39	350	Chonggak Miscellany, Continued Recitation by Sup'yogyo Riverside	P'ain	Literature/Other
+39	360	Special Contribution: Record of Meeting Gandhi, the Saint of the East	Han Ch'angmin in London	News
+39	370	Women's View of Handsome Men	Son Ch'o'ak	Miscellaneous Article
+39	380	To the Concerned Scholar	Sŏl T'aehŭi	Editorial
+39	390	Is Being Born in Chosŏn Fortunate or Unfortunate?	Kim Hwallan	Survey
+39	400	Is Being Born in Chosŏn Fortunate or Unfortunate?	Kim Ch'angje	Survey
+39	410	Is Being Born in Chosŏn Fortunate or Unfortunate?	Hyŏn Sang'yun	Survey
+39	420	Is Being Born in Chosŏn Fortunate or Unfortunate?	Na Hyesŏk	Survey
+39	430	Record of Peninsula Figures, Two Ministers, Six Great Men, Hamgyŏng North Province Edition	Ch'angnang'gaek	News
+39	440	War and Civilization	German Philosopher Nietzsche	Miscellaneous Article
+39	450	Mr. Pak Hŭido's Love Affair Case, Scene from the Inquiry Committee		News
+39	451	(Untitled - National Compilation)		Notice/Editorial Postscript
+39	460	Human Feelings and Worldly Affairs, Continued Prison Diary at Ichigaya Prison	Yang Kŭnhwan	Memoir/Reminiscence
+39	470	Inferior Human Beings	Indian Poet Saint Tagore!	Miscellaneous Article
+39	480	Don't Just Dream	British Magnate Rothschild	Miscellaneous Article
+39	490	University Friends		Memoir/Reminiscence
+39	500	Analysis Chart of the Ideal Husband		Miscellaneous Article
+39	510	Recollections of Late Han Dynasty Figures, Remembering Old People As They Come to Mind	Kwŏn Tongjin	Memoir/Reminiscence
+39	520	Samch'ŏlli Life Guide		News
+39	530	Miscellaneous Article		Miscellaneous Article
+39	540	Bank of Chosŏn Bullion Depository, Ten Million Won Gold Ingots Buried	Kangch'on	Editorial
+39	550	The Aftermath for Surrendered Leaders, Leaders of the First and Second Communist Party Incidents, Leaders of the Mass Movement Activists Conference Incident		News
+39	560	Visiting the P'yŏngyang Kisaeng School, The Elegant Atmosphere of the Pleasure Quarters in Sŏdo P'yŏngyang		News
+39	570	Do Women Appear as Angels or Demons in Your Eyes?		Survey
+39	580	Samch'ŏlli Go-Stop, 3,000 Won and 10,000 Won		Miscellaneous Article
+39	590	Visit to Mr. Ch'oe Ch'anghak's Sakchu Gold Mine, Pilgrimage to Great Gold Mines of All Chosŏn (Part 1)	Reported by Mok Pyŏngjŏng	News
+39	600	Collection of Strange Tales, One Billion Won at the Bottom of the Sea Due to Steamship Sinking, Hoarded Gold of the World		Miscellaneous Article
+39	610	Famous Places of the Old Capital Hanyang		Miscellaneous Article
+39	620	Passionate Trip to Spain (Continuation of World Tour Diary)	Na Hyesŏk	Travelogue
+39	630	Lovesickness	Sŏngch'ŏn's Famous Kisaeng Kim Puyong	Poetry
+39	640	Rumor of Mass Execution of Twenty-Two Kando Communist Party Members and Eyewitness Account of the Execution Stand	Paeg'u Hagin	News
+39	650	Is Being Born in Chosŏn Fortunate?	Yi In	Survey
+39	660	Confessions of a Literary Kisaeng	Chang Yŏnhwa	Memoir/Reminiscence
+39	670	Sun Yat-sen's London Prison Escape Story, The Secret History of Exile Sun Wen's Capture and Escape		Memoir/Reminiscence
+39	680	Samch'ŏlli Go-Stop		Miscellaneous Article
+39	690	Praise for the Nudist Movement, America's Nudist Movement Fever		News
+39	700	Review of Coffee Shops		News
+39	710	Seeking the Marriage Market, The Beauty Market of Department Stores		Miscellaneous Article
+39	720	Moscow Theater	Paengnak'kwan	Literature/Other
+39	730	Rather Than Personal Greed	American Magnate Rockefeller	Miscellaneous Article
+39	740	Traces of a Great Writer	Tolstoy	Literature/Other
+39	750	When You Encounter Hardship	French Writer Émile Zola	Miscellaneous Article
+39	760	Anecdote of a Famous Kisaeng, Song of Sŏnch'ŏn's Kyehyang		Miscellaneous Article
+39	770	The Five Women Surrounding Famous Actor Mr. Na Un'gyu: Mses. Sin Ilsŏn, Kim Chŏngsuk, Chŏn Ok, Ha Soyang, Kim Yŏnsil	Paengno Hagin	Miscellaneous Article
+39	780	The Three Men Surrounding Beautiful Ms. Sin Ilsŏn	Paengno Hagin	Miscellaneous Article
+39	790	Diary of an Intellectual Waitress, My Face Reflected in a Cocktail, Reading an Old Diary	Yŏngnan	Memoir/Reminiscence
+39	800	During the World War, History of the Secret Maneuvers of Various Emperors, First Time in Sixteen Years		Literature/Other
+39	810	1. Masterpiece to Last Ten Years 2. Masterpiece to Last a Hundred Years		Survey
+39	820	Impressions of Newspaper Serial Novels	Kim P'albong	Literary Criticism
+39	830	Which Newspaper's Serial Novel Do You Continue to Read? And Your Thoughts on the Parts You've Read		Survey
+39	840	Excerpts on Literary World Issues	Chŏng Inbyŏn	Editorial
+39	850	Samch'ŏlli Go-Stop	Iltŭng Simin	Miscellaneous Article
+39	860	Three Stanzas of Sorrowful Old Music	Widang Chŏng Inbo	Poetry
+39	870	Mother's Lap	Ch'unwŏn	Poetry
+39	880	Sailor's Wife, Contemporary Folk Songs (and 2 others)	Kim Ansŏ	Poetry
+39	890	The Small Paradise of My Soul	No Ch'unsŏng	Literature/Other
+39	900	Mother and Daughter	Chang Tŏkcho	Novel
+39	910	When, Where, and How Many Times a Month Do You Go Out with Your Wife?		Survey
+39	920	Urgent Company Notice		Notice/Editorial Postscript
+40	010	Samch'ŏlli Secret Room		News
+40	020	Song of Youth	Kim Tonghwan	Poetry
+40	030	Gandhi the Person and His Recent Movement	Cho Mansik	Editorial
+40	040	Ch'ŏndogyo at the Crossroads of Rise and Fall	Kim Kyŏngjae	Editorial
+40	050	Life Bulletin Board		News
+40	060	Life Bulletin Board		News
+40	070	Life Bulletin Board		News
+40	080	Life Bulletin Board		News
+40	090	Life Bulletin Board		News
+40	100	Life Bulletin Board		News
+40	110	Philippine Commonwealth Established After 35 Years Under US Rule		News
+40	120	Contents of the US-China Aviation Secret Pact, Recent Aviation Fever in China		News
+40	130	To All Sirs	Chief Editor, Samch'ŏllisa	Notice/Editorial Postscript
+40	140	Headless and Tailless Collection, Before and After Educational Research		Miscellaneous Article
+40	150	Headless and Tailless Collection, Masterpiece Speech		Miscellaneous Article
+40	160	Headless and Tailless Collection, Another Person		Miscellaneous Article
+40	170	Headless and Tailless Collection, P'an and Mr. Chŏng Unyŏng		Miscellaneous Article
+40	180	Speech by India's Gandhi Determining Attitude Towards Britain During the World War		Editorial
+40	190	A Day in the Life of a Bank President		Miscellaneous Article
+40	200	Recent Transformation of Chosŏn Over 25 Years - (Politics) Changes in Political System and Rulers	Yi Chŏngsŏp	Editorial
+40	210	Recent Transformation of Chosŏn Over 25 Years - (Intellectual World) Rise and Fall of Hwayohoe, Pukp'unghoe, Sin'ganhoe, etc.	Kim Kyŏngjae	Editorial
+40	220	Recent Transformation of Chosŏn Over 25 Years - (Literature) Development of Korean Literature, Twenty-Five Years Since Kyŏngsul (1910)	Yi Kwangsu	Literary Criticism
+40	230	Recent Transformation of Chosŏn Over 25 Years - [New Establishment of Public Security Maintenance Law Violations, Chosŏn Seen Through 25 Years of Law	Sin T'aek'ak	Editorial
+40	240	If I Became the Female Mayor of Seoul?	Hwang Aesidŏk	Survey
+40	250	If I Became the Female Mayor of Seoul?	U Pong'un	Survey
+40	260	If I Became the Female Mayor of Seoul?	Chang Tŏkcho	Survey
+40	270	If I Became the Female Mayor of Seoul?	Yi Sŏnhŭi	Survey
+40	280	If I Became the Female Mayor of Seoul?	Na Hyesŏk	Survey
+40	290	Peak Period of Genius - Politicians		Miscellaneous Article
+40	300	Peak Period of Genius - Thinkers		Miscellaneous Article
+40	310	Peak Period of Genius - Scientists		Miscellaneous Article
+40	320	Approaching Dongting	Meng Haoran	Poetry
+40	330	To General Hua	Du Fu	Poetry
+40	340	Sima Li	Gong Chou	Poetry
+40	350	Seeing Off a Friend	Li Bai	Poetry
+40	360	Ascending Yueyang Tower	Du Fu	Poetry
+40	370	Song of the Barbarian Reed Pipe	Wang Changling	Poetry
+40	380	If I Became the Female Mayor of Seoul!	Kim Chahŭi	Survey
+40	390	If I Became the Female Mayor of Seoul?	Kim Sŏnch'o	Survey
+40	400	Absolute Safety		Miscellaneous Article
+40	410	Feelings		Poetry
+40	420	Current Status and Stock Prices of Banks and Companies Managed by Koreans	Kangch'on Hagin	Editorial
+40	430	Amazing Love		Miscellaneous Article
+40	440	Samch'ŏlli Annals	Ch'angnang'gaek	Miscellaneous Article
+40	450	Ch'unwŏn's Record of Renunciation and Wandering, The Inside Story of Resigning as Vice President of Chosŏn Ilbo and Account of Wandering Amidst Mountains and Waters		News
+40	460	La Paloma	Translated by Yun Kŭgyŏng	Poetry
+40	470	My Reason for Conversion, -Memoir of a Certain Korean Communist Party Member-		Memoir/Reminiscence
+40	480	Fingers Dyed with Balsam	Sŏngch'ŏn's Famous Kisaeng Kim Puyong	Poetry
+40	490	Inside View of Tongil Bank, -Appointment of Managing Director Ichikawa and Future Path-	Sin T'aeik	Editorial
+40	500	Shakespearean Plays Flourishing in Europe		News
+40	510	Analyzing a Happy Marriage		Miscellaneous Article
+40	520	Recollections of the Blood Pledge Corps		News
+40	530	Good Times		Poetry
+40	540	To the Concerned Scholar	Sŏl T'aehŭi	Editorial
+40	550	A Deceased Friend Who Was a Travel Companion on a Long Journey Between Shanghai, Nanjing, and Beiping	Wŏn Sehun	Memoir/Reminiscence
+40	560	Leaving Jerusalem	Tokutomi Roka	Literature/Other
+40	570	The Aftermath for the Governors of the Thirteen Provinces	Mokch'un Hagin	News
+40	580	Recollections	Hong Myŏnghŭi	Poetry
+40	590	Collection of Scribbles by Visitors to the Company (Unordered)		Miscellaneous Article
+40	600	Guest Book of Local Dignitaries Visiting the Company		Notice/Editorial Postscript
+40	610	Books Received		Notice/Editorial Postscript
+40	620	Headless and Tailless Collection - Difficult Topics		Miscellaneous Article
+40	630	Autobiography of a Female Singer	Kim Sŏnch'o	Memoir/Reminiscence
+40	640	From Paris to New York, (World Tour (Cont.))	Na Hyesŏk	Literature/Other
+40	650	Since Coming to Seoul, How Many Times Have You Moved House?		Survey
+40	660	Response Poem to Kim Puyong's Lovesickness Poem	Author Unknown	Poetry
+40	670	Record of Dissecting 208 Corpses	Dr. Pak Ch'anghun, M.D.	Memoir/Reminiscence
+40	680	Review of Songs by Famous Singers of the Eight Provinces	Chang'an Kwagaek	News
+40	690	Strange Tales of a Summer Night		Literature/Other
+40	700	The Assassin and I	Napoleon I	Miscellaneous Article
+40	710	Sad Story of a Singer, (Polydor Singer Ms. Ch'oe Ch'angsŏn)	SK	Memoir/Reminiscence
+40	720	Outlook for the Tokyo Dance World, (-Status of Ms. Ch'oe Sŭnghŭi, etc.-)	Paek Haenam	Literary Criticism
+40	730	Can Petroleum Cure Tuberculosis?	Answered by Dr. Chŏng Sŏkt'ae, German M.D.	Discussion/Panel Talk
+40	740	Great Fantasy		Miscellaneous Article
+40	750	This Month's Letter Collection		Notice/Editorial Postscript
+40	760	1. Is Your First Lover and Your Current Wife the Same Person? 2. At What Age Did You Become Aware of the Opposite Sex?		Survey
+40	770	Unrivaled Famous Kisaeng of the Old Capital, Mainly Centering on P'yŏngyang Kisaeng	Kim Sanwŏl	Miscellaneous Article
+40	780	Magnate Who Amassed One Billion Won During the Napoleonic Wars, The Rothschild Family		Miscellaneous Article
+40	790	Angels and the Angelus Bell, Tŏkwŏn Abbey Ringing in the Blue Sky	Nam Chŏnggwan	Travelogue
+40	800	Samch'ŏllisa-Hosted Discussion Meeting on Literary Issues		Discussion/Panel Talk
+40	810	Peak Period of Genius - Artists		Miscellaneous Article
+40	820	Peak Period of Genius - Musicians		Miscellaneous Article
+40	830	Peak Period of Genius Writers		Miscellaneous Article
+40	840	A Study of Ch'unwŏn	Kim Tongin	Literary Criticism
+40	850	Coming and Going in the Literary World	Ch'obyŏngjŏng	Miscellaneous Article
+40	860	What Do Art and Science Contribute to Human Society?	Pak Yŏnghŭi	Literary Criticism
+40	870	Summer Day Notes	Chang Hyŏkchu	Literature/Other
+40	880	The Hundred Flowers Array of China's New Literature and Art	No Chayŏng	News
+40	890	Writers and Cemeteries	Yŏm Sangsŏp	Literature/Other
+40	900	Record of a Woman Living Alone	Na Hyesŏk	Literature/Other
+40	910	Curious Tales of Writers		News
+40	920	Impressions of a Writer - Mr. Chang Hyŏkchu of "Rainbow"	Pak Myŏnghwan	Discussion/Panel Talk
+40	930	Literary Works and Women	Kim Ŏk	Literary Criticism
+40	940	Old Maid (and 1 other)		Miscellaneous Article
+40	950	Seventeen Original Folk Songs (Collection of Works by Five Folk Song Writers)	Yi Kwangsu, Kim Ansŏ, Chu Yohan, Kŭmdong, Kim Tonghwan	Poetry
+40	960	Overseas Folk Songs	Translated by Yun Kŭgyŏng	Poetry
+40	970	Mother Fell Asleep	Chŏn Yŏngt'aek	Novel
+40	980	Crime Train	By Henri Barbusse, Translated by Hwaewŏl	Novel
+40	990	Several Company Notices		Notice/Editorial Postscript
+41	010	Samch'ŏlli Secret Room (The Korean Black chamber)		News
+41	020	Review Session of World-Class Politicians and Thinkers		Discussion/Panel Talk
+41	021	Life Bulletin Board		News
+41	030	On the Chiefs of Staff of the Three Major Newspapers	Hanyang Kwagaek	News
+41	040	Formation and Outlook of the Okada Cabinet	Yi Mong	Editorial
+41	041	Year of the Same Zodiac Cycle		Literature/Other
+41	050	A Speech Given at the Pacific Conference	Kim Hwallan	Editorial
+41	060	Samch'ŏlli Annals		News
+41	070	A Study of the Philippines	Kim Tonghwan	Editorial
+41	080	To Which Politician Should Crisis-Stricken China Be Entrusted?	An Chaehong, Ham Sanghun, Kim Kyŏngjae, Wŏn Sehun	Editorial
+41	090	Study of a Gentleman (1), Mr. An Chaehong Who Pursues Astronomy		News
+41	100	Study of a Lady (1), Ms. Hwang Aesidŏk Holding the Teacher's Pointer		News
+41	110	To the Young Followers of Ch'ŏndogyo	Kim Kyŏngjae	Editorial
+41	120	Future Outlook for Hwashin Chain Stores, The Rise and Fall of the Peninsula's Business World and Hwashin's This Battle		Editorial
+41	130	What is a Chain Store? Its Organization and Development Status	Ch'angsan	Editorial
+41	131	Tremendous Confidence		Literature/Other
+41	132	Critical Juncture		Literature/Other
+41	133	Truth		Literature/Other
+41	140	Divorce Confession Letter, To Mr. Ch'ŏnggu	Na Hyesŏk	Literature/Other
+41	150	Account of Meeting Tosan After Twenty-Five Years	Kim Sŏng'ŏp	News
+41	160	Tolstoy's Letter Sent to Gandhi.		Literature/Other
+41	170	Review of Mr. Yŏ Unhyŏng's Speech, Orators of the Peninsula	Ch'wigong	News
+41	180	Yama Kings of the Human World: Story of Successive Police Commissioners, From Kabo (1894) to the Present	Hong Mokch'un	Memoir/Reminiscence
+41	190	Tuberculosis and a Desperate Fight Against Illness, Excerpts from a Sickbed Diary	No Ch'unsŏng	Literature/Other
+41	200	Review of Mitsubishi Zaibatsu's Advance into Chosŏn, In Various Businesses such as Mining, Steelmaking, Oil Refining, etc. -	Chŏng Suil	Editorial
+41	201	Life Bulletin Board		News
+41	210	Recollections of a Famous Reporter's Season (2), The Poet Saint of Peace Visiting the East	Chin Sunsŏng	Memoir/Reminiscence
+41	220	Impressions of Mr. Bose	Hong Yangmyŏng	Memoir/Reminiscence
+41	230	Beiping Women's Police Corps		Miscellaneous Article
+41	240	Qualification to Mourn	Ch'anggong	Editorial
+41	250	Company Notice	Samch'ŏlli Editorial Department	Notice/Editorial Postscript
+41	260	Automobile Driver Becomes a 3 Million Won Magnate, Gold Mine Night Tales		Literature/Other
+41	270	Advantages and Management of a 10-Sen Uniform Price Store, The Way for Retail Merchants Lies Here	Yi Nak'yang, Osaka Purchasing Department, Kyŏngsŏng X Trading Company	Memoir/Reminiscence
+41	280	Company Notice	Samch'ŏlli Editorial Department	Notice/Editorial Postscript
+41	290	Visiting a Beauty Creation Room, Mr. O Yŏpchu's Beauty Salon		News
+41	300	Jokes/Funny Stories		Miscellaneous Article
+41	310	Night Tales of a Licentious Queen, Anecdote of Empress Jia Nanfeng of Jin		Literature/Other
+41	320	Chongno Love Tales		Social Commentary
+41	330	Life Bulletin Board		Miscellaneous Article
+41	340	A Study of Ch'unwŏn (II)	Kim Tongin	Literary Criticism
+41	350	Coming and Going in the Literary World	Ch'obyŏngjŏng	News
+41	360	Thoughts on Current Literary Affairs	Kim P'albong	Literary Criticism
+41	370	Chat Room		Miscellaneous Article

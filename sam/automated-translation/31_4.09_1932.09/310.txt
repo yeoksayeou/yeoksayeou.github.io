@@ -1,0 +1,60 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1932-09-01
+Article Title: 林檎한게 (An Apple)
+Author: 郭鍾守 (Kwak Chongsu)
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+An Apple
+						Kwak Chongsu
+
+As I offer one apple (林檎),
+Please know it is given with sincerity,
+And eat it, skin and all.
+
+Even as you eat the skin (껍질낭),
+Please be sure to discard the seed.
+It shall become a seed of love.<92>
+
+**Summary**
+
+This short poem by Kwak Chongsu uses the simple act of gifting an apple as a metaphor. The speaker asks the recipient to accept the gift wholeheartedly ("eat it, skin and all") but to preserve the seed, suggesting it represents the potential for future love or connection. For historians, the poem offers a glimpse into personal sentiment and lyrical expression during the colonial period, potentially contrasting with more overtly political or nationalist themes often studied from this era. Its use of traditional Korean poetic sensibility and slightly archaic language (like honorific imperatives ending in -소서) within a modernizing context is also noteworthy.
+
+**Named Entities**
+
+郭鍾守	곽종수	Kwak Chongsu
+
+**Glossary**
+
+林檎	임금	Apple (Archaic/Hanja term for 사과)
+한게	한 개	One (item/piece); '게' is an older spelling/form of '개' (counter for things)
+들이오니	드리니	As I offer/give (honorific); combination of 들이다 (to give/offer - humble) + -오니 (connective ending, reason/sequence)
+알으시고	아시고	Please know/understand (honorific); '알으시고' is an older form of '아시고'
+껍질채	껍질째	With the skin on, skin and all
+자십소서	자십시오/드십시오	Please eat (high honorific); older imperative form. Base verb is 자시다 (honorific of 먹다/eat).
+껍질낭	껍질째	With the skin on, skin and all (Likely a typo or variant spelling of 껍질째)
+씨	씨	Seed
+부대	부디	Please, kindly, surely (Adverb emphasizing a request or hope)
+버립소서	버리십시오	Please discard/throw away (high honorific); older imperative form. Base verb is 버리다 (to discard).
+되오리다	되리라/될 것입니다	It shall become; poetic/slightly archaic future tense form.
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제9호
+발행일	1932년 09월 01일
+기사제목	林檎한게
+필자	郭鍾守
+기사형태	시
+
+林檎한게
+						郭鍾守
+林檎 한 개 들이오니
+정성으로 알으시고
+껍질채 자십소서
+
+껍질낭 자시어도
+씨는 부대 버립소서
+사랑의 씨 되오리다<92>

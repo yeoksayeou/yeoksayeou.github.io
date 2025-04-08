@@ -1,0 +1,73 @@
+**Header Section:**
+Magazine Title: 삼천리 제6권 제7호
+Publication Date: 1934년 06월 01일
+Article Title: 내가 서울 女市長된다면? (What if I became the female Mayor of Seoul?)
+Author: 羅蕙錫
+Article Type: 설문 (Survey/Questionnaire Response)
+
+**Body Text Translation:**
+What if I became the female Mayor of Seoul?
+						Na Hyesŏk (羅蕙錫)
+
+1. I would implement policies (政司) to change the areas between the Sŏdaemun Line (西大門線) and Map'o Line (麻浦線), between the Tongdaemun Line (東大門線) and Ch'ŏngnyangni Line (淸凉里線), and between the Kwanghŭimun Line (光熙門線) and Wangsimni Line (往十里線) into single zones (一區域).
+
+2. I would ensure that Korean residential areas (朝鮮人市街地) also have the same electrical facilities (電氣시설) as Honmachi-dōri (本町通).
+
+3. I would organize women's groups (女性團體) so they have unified thought (統一的 思想) and action (行動) regarding correcting public morals according to the trends of the times (時勢思想矯風).<60>
+
+**Summary**
+
+Na Hyesŏk, responding to a survey question about what she would do as Seoul's female mayor in 1934, proposes three main initiatives: reorganizing specific tram line zones into single administrative units, ensuring Korean residential areas receive electrical facilities equivalent to those in Japanese-dominated areas like Honmachi-dōri, and organizing women's groups to foster unified thought and action regarding the "correction of morals according to the trends of the times." This response highlights the stark infrastructural inequalities (like electricity access) faced by Koreans in colonial Seoul compared to Japanese residents. Historians might find Na's focus on practical urban planning, demand for equal services, and vision for organizing women (even under the potentially loaded term "correcting morals") particularly interesting, revealing aspects of colonial governance, social conditions, and early feminist consciousness in Korea.
+
+**Named Entities**
+
+羅蕙錫	나혜석	Na Hyesŏk
+서울	서울	Seoul
+西大門線	서대문선	Sŏdaemun Line
+麻浦線	마포선	Map'o Line
+東大門線	동대문선	Tongdaemun Line
+淸凉里線	청량리선	Ch'ŏngnyangni Line
+光熙門線	광희문선	Kwanghŭimun Line
+往十里線	왕십리선	Wangsimni Line
+本町通	본정통	Honmachi-dōri
+
+**Glossary**
+
+女市長	여시장	Female Mayor
+電車	전차	Tram, streetcar
+線	선	Line (as in tram line)
+間	간	Between
+一區域	일구역	One zone/district
+變更	변경	Change, alteration
+政司	정사	Administration, policy (Older term)
+하겟삽니다	하겠습니다	I will do (Older polite suffix '-삽니다' instead of '-습니다')
+市街地	시가지	Urban area, city streets
+갓흔	같은	Same as (Older spelling of 같은)
+電氣施設	전기시설	Electrical facilities
+하도록	하도록	So that, in order to
+女性團體	여성단체	Women's group/organization
+組織하야	조직하여	Organize and... (Older connective form '-하야' instead of '-하여')
+時勢	시세	Trends of the times, current situation
+思想	사상	Thought, ideology
+矯風	교풍	Correction of morals/customs
+대하야	대하여	Regarding, about (Older form of 대하여)
+統一的	통일적	Unified
+行動	행동	Action, behavior
+갓도록	갖도록	So as to have/possess (Older spelling of 갖도록)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제7호
+발행일	1934년 06월 01일
+기사제목	내가 서울 女市長된다면?
+필자	羅蕙錫
+기사형태	설문
+
+내가 서울 女市長된다면?
+						羅蕙錫
+1. 電車 西大門線과 麻浦線間, 東大門線과 淸凉里線間, 光熙門線과 往十里線間을 一區域으로 變更할 政司를 하겟삽니다.
+2. 朝鮮人市街地도 本町通과 갓흔 電氣시설을 하도록 하겟삽니다.
+3. 女性團體를 組織하야 時勢思想矯風에 대하야 統一的 思想과 行動을 갓도록 하겟삽니다.<60>
+<60>

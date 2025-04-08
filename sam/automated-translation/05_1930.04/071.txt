@@ -1,0 +1,78 @@
+잡지명	삼천리 제5호
+발행일	1930년 04월 01일
+기사제목	各國代議士와 有權者 (Representatives and Voters in Various Countries)
+기사형태	잡저 (Miscellaneous Article)
+
+Representatives and Voters in Various Countries
+
+Country Upper House Reps Lower House Reps Voters Voters per 1,000 Pop.
+▲ USA (美) 96 436 29,090,000 260
+▲ UK (英) 740 615 11,730,000 584
+▲ Poland (波) 111 444 14,010,000 210
+▲ Italy (伊) 393 535 12,060,000 303
+▲ France (佛) 314 584 11,070,000 275
+▲ Spain (西) 360 417 4,780,000 221
+▲ Austria (墺) 50 165 3,840,000 584
+▲ Netherlands (和) 50 100 3,540,000 484
+▲ Switzerland (瑞) 150 230 3,330,000 553
+▲ Belgium (百) 153 186 2,220,000 298
+▲ Denmark (丁) 76 149 1,630,000 485
+▲ Japan (日) 402 466 12,400,000 202
+▲ Germany (獨) 68 493 38,980,000 620<24>
+
+**Summary**
+
+This article presents a table comparing the number of upper and lower house representatives, the total number of eligible voters, and the number of voters per 1,000 people across thirteen countries in 1930. The countries include major powers like the USA, UK, France, Germany, Italy, and Japan, as well as several other European nations. Germany shows the highest rate of suffrage per capita, while Japan's rate is among the lowest listed. For historians studying Korean colonial history, this article is interesting as it provides contemporary comparative data on suffrage and representation during a period when Koreans themselves lacked these rights within the Japanese empire. The relatively low suffrage rate listed for Japan itself (202 per 1000) compared to several European nations (especially Germany at 620) provides context for the political landscape of the colonizing power and highlights the limited nature of democracy even within Japan at the time, let alone its colonies.
+
+**Named Entities**
+
+美	미	USA
+英	영	UK
+波	파	Poland
+伊	이	Italy
+佛	불	France
+西	서	Spain
+墺	오	Austria
+和	화	Netherlands
+瑞	서	Switzerland
+百	백	Belgium
+丁	정	Denmark
+日	일	Japan
+獨	독	Germany
+
+**Glossary**
+
+各國	각국	Various countries
+代議士	대의사	Representative; Member of Parliament/Congress
+有權者	유권자	Eligible voter; person with the right to vote
+上院議員	상원의원	Upper House member; Senator
+下院議員	하원의원	Lower House member; Representative
+人口	인구	Population
+千名	천명	Thousand people
+萬	만	Ten thousand (used for large numbers)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5호
+발행일	1930년 04월 01일
+기사제목	各國代議士와 有權者
+기사형태	잡저
+
+各國代議士와 有權者
+上院議員      下院議員           有權者      人口千名에有權者
+▲美         九六         四三六        二九○九萬         二六○
+▲英      七四○         六一五        一一七三            五八四
+▲波      一一一         四四四        一四○一            二一○
+▲伊      三九三         五三五        一二○六            三○三
+▲佛      三一四         五八四        一一○七            二七五
+▲西      三六○         四一七           四七八            二二一
+▲墺         五○         一六五           三八四            五八四
+▲和         五○         一○○           三五四            四八四
+▲瑞      一五○         二三○           三三三            五五三
+▲百      一五三         一八六           二二二            二九八
+▲丁         七六         一四九           一六三            四八五
+▲日      四○二         四六六       一,二四○            二○二
+▲獨         六八         四九三        三八九八            六二○＜24＞
+＜24＞

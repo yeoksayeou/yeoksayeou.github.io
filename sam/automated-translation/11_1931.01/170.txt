@@ -1,0 +1,42 @@
+Magazine Title: 삼천리 제11호
+Publication Date: 1931년 01월 01일
+Article Title: 要視察人 萬名 (People Requiring Observation: Ten Thousand)
+Author:
+Article Type: 소식 (News Brief)
+
+According to an investigation by the Government-General Police Affairs Bureau (總督府警務局), the total number of individuals within Korea (朝鮮) classified as thought movement activists (思想運動者) who must definitely be monitored, designated as 'People Requiring Observation' (要視察人), is 10,085 as of recently. It is said that this number increases year by year (年年히). <43>
+
+**Summary**
+
+This short news brief reports that, according to the Japanese Government-General Police Affairs Bureau, there were 10,085 individuals in Korea designated as "People Requiring Observation" due to their involvement in "thought movements" as of late 1930. The article notes that this number is reportedly increasing annually. For historians, this piece provides a concrete figure illustrating the scale of Japanese colonial surveillance targeting perceived political dissidents (communists, nationalists, etc.) in Korea during this period. The increasing number points to both growing resistance or activism and the intensifying efforts of the colonial state to monitor and control the population.
+
+**Named Entities**
+
+總督府警務局	총독부 경무국	Ch'ongdokpu Kyŏngmuguk
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+要視察人	요시찰인	People requiring observation/surveillance
+總督府警務局	총독부 경무국	Government-General Police Affairs Bureau
+思想運動者	사상운동자	Thought movement activist (political dissident)
+긔어히	기어이	Definitely, without fail (older spelling)
+朝鮮내	조선 내	Within Korea (older spacing/usage)
+年年히	연년히	Year by year (older spelling of 연년히/해마다)
+調査	조사	Investigation, survey
+監視	감시	Surveillance, monitoring
+總數	총수	Total number
+數字	숫자	Number, figure
+증가하여 간다고 한다	증가하여 간다고 한다	Is said to be increasing
+
+
+---------------------------
+
+
+잡지명	삼천리 제11호
+발행일	1931년 01월 01일
+기사제목	要視察人 萬名
+기사형태	소식
+
+要視察人 萬名
+總督府警務局의 調査에 의하건대 朝鮮내의 思想運動者로 긔어히 監視하여야 하는 要視察人의 總數가 최근 현재 1만 85인이라 하는데 年年히 이 數字는 증가하여 간다고 한다.＜43＞

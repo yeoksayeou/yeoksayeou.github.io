@@ -1,0 +1,53 @@
+**Header Section**
+Magazine Title: 三千里 第五卷 第十號
+Publication Date: 1933년 10월 01일
+Article Title: 十月號를 내보내면서 (Publishing the October Issue)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation**
+Publishing the October Issue
+
+Thank you for loving the September issue so warmly.
+
+The October issue has also come out with content that does not fall short of the previous one. Please give it much attention. We will strive even harder going forward.
+
+We would be grateful if our Esteemed Readers (讀者諸氏) would provide their impressions after reading this journal. And may you be well during this fine season of yellow chrysanthemums and crimson maples (黃菊丹楓의 佳節). <120>
+
+**Summary**
+
+This brief editorial postscript thanks readers for their positive reception of the previous (September) issue of the magazine *Samch'ŏlli*. It introduces the current October issue, promising continued quality and effort, requests reader feedback (reading impressions), and offers seasonal greetings appropriate for autumn. From a historical perspective, the text is interesting for its use of early 20th-century Korean orthography (e.g., "감사함니다", "떠러지지 안는", "나왓슴니다", "압흐로") before standardization. It also reflects typical editorial practices of engaging with readers and the use of Sino-Korean expressions for seasonal descriptions (黃菊丹楓).
+
+**Named Entities**
+
+(None found in the text)
+
+**Glossary**
+
+열열히	열렬히	Ardently, fervently (Older spelling)
+떠러지지 안는	떨어지지 않는	Not falling short of, not inferior to (Older spelling and phrasing)
+나왓슴니다	나왔습니다	Has come out, was published (Older spelling/polite ending)
+만히	많이	Much, many (Older spelling)
+돌보아 주시압	돌보아 주십시오	Please look after, please give attention to (Older polite request form, "주시압" is an older form of "주십시오")
+압흐로	앞으로	Going forward, in the future (Older spelling)
+하겟슴니다	하겠습니다	Will do (Older spelling/polite ending)
+讀者諸氏	독자제씨	Esteemed Readers (Sino-Korean term)
+본지	본지	This journal/magazine
+독후감	독후감	Reading impressions, book review
+黃菊丹楓	황국단풍	Yellow chrysanthemums and crimson maples (Sino-Korean term for autumn scenery)
+佳節	가절	Fine season, festive season
+안녕하옵소서	안녕하십니까	May you be well (Older, formal polite greeting/closing)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제10호
+발행일	1933년 10월 01일
+기사제목	十月號를 내보내면서
+기사형태	사고·편집후기
+
+十月號를 내보내면서
+9월 호를 그처럼 열열히 사랑하여 주시니 감사함니다.
+10월 호도 전에 떠러지지 안는 내용을 가지고 나왓슴니다. 만히 돌보아 주시압. 압흐로 더욱 분투하겟슴니다.
+讀者諸氏께서 본지의 독후감을 주신다면 감사하겟슴니다. 그리고 黃菊丹楓의 佳節에 내내 안녕하옵소서. ＜120＞

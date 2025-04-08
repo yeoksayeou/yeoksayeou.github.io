@@ -1,0 +1,66 @@
+Magazine Title: 삼천리
+Publication Date: 1931년 11월 01일
+Article Title: 民謠情調 (Folk Song Mood)
+Author: N/A
+Article Type: 시 (Poem)
+
+Folk Song Mood
+(1) The Sorrowful Song of the Seodo Lass (西道閣氏의 愁心歌)
+A dreary autumn moon shines upon P'yŏngyang Castle (平壤城), the old capital of song and dance. Tonight, the Seodo lass (西道閣氏), lamenting the night, leans against the stones of Ch'ilsŏng Gate (七星門), gazing at the distant sky, harboring sorrowful feelings (情懷).
+
+Whether one lives a thousand years or ten thousand years, once life ends, one becomes but clouds and mist (雲霧) amidst the vast forest (萬樹長林)...
+
+Namsan (南山) is a thousand-year mountain, and the Taedong River (大同江) is a ten-thousand-year river...
+
+Half-old already, one cannot become young again...<1>
+
+**Summary**
+
+This short poetic piece, "The Sorrowful Song of the Seodo Lass," part of a "Folk Song Mood" series, captures a melancholic atmosphere in P'yŏngyang under an autumn moon. A woman from the western provinces (Seodo) reflects on the ephemeral nature of human life and the irrevocability of aging, contrasting it with the enduring presence of landmarks like Namsan mountain and the Taedong River. The poem employs traditional lyrical themes and imagery. From a historical perspective, the piece is interesting for its use of traditional Korean motifs (han, folk song style), specific cultural geography (P'yŏngyang, Seodo), and older linguistic forms during the Japanese colonial period, possibly reflecting a subtle assertion of Korean cultural identity or simply the continuation of established artistic expression.
+
+**Named Entities**
+
+平壤城	평양성	P'yŏngyang Castle
+西道閣氏	서도각씨	Seodo Lass
+七星門	칠성문	Ch'ilsŏng Gate
+南山	남산	Namsan
+大同江	대동강	Taedong River
+
+**Glossary**
+
+民謠情調	민요 정조	Folk Song Mood/Atmosphere
+西道閣氏	서도각씨	Lass/Young Woman from the Western Provinces (P'yŏngan/Hwanghae)
+愁心歌	수심가	Sorrowful Song (a type of folk song from the western provinces)
+우스러한	으스스한/우스꽝스러운	Dreary, chilly (likely intended meaning); archaic/regional form.
+녯	옛	Old, former (Older spelling of 옛)
+비최는데	비추는데	Shines upon (Older spelling/form of 비추는데)
+앗기는	아끼는/빼앗기는	Lamenting the passing of / Being robbed of (Interpretation based on context; older spelling/form)
+엽헤	옆에	Beside, next to (Older spelling of 옆에)
+바라서	바라보면서	Gazing at, looking towards (Older form/contraction)
+구슬푼	구슬픈	Sorrowful, sad (Older spelling of 구슬픈)
+情懷	정회	Feelings, sentiment, pathos
+사드란 말가	산들한들 무슨 말인가 / 산다는 말인가	What does it mean to live... / Is it said one lives... (Rhetorical phrase; older phrasing)
+죽어지면	죽으면	When one dies (Slightly older/poetic form)
+萬樹長林	만수장림	Vast forest ('Ten thousand trees, long forest')
+雲霧	운무	Clouds and mist
+늙엇스니	늙었으니	Having become old (Older spelling of 늙었으니)
+젊든	젊던/젊든	(Cannot) become young (Older verb ending/form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제11호
+발행일	1931년 11월 01일
+기사제목	民謠情調
+기사형태	시
+
+民謠情調
+(1)西道閣氏의 愁心歌
+우스러한 가을 달이 노래와 춤의 녯 서울 平壤城을 비최는데 이밤을 앗기는 서도각씨 七星門 城돌 엽헤 기대어 먼-하늘 바라서 구슬푼 情懷를 품니다.
+
+천년을 살거나 만년을 사드란 말가 인생 한번 죽어지면 萬樹長林에 雲霧로구나...
+
+南山은 千年山이요 大同江은 萬年江이라...
+
+半남아 늙엇스니 다시 젊든 못하리라...＜1＞

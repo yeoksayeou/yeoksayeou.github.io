@@ -1,0 +1,299 @@
+Magazine Title: 삼천리 제9권 제1호
+Publication Date: 1937년 01월 01일
+Article Title: 時調作座 (Sijo Composition Session)
+Author: 李秉岐
+Article Type: 문예평론 (Literary Criticism)
+
+時調作座
+						李秉岐
+Author Introduction
+
+Mr. Yi was born in Chŏlla North Province and is a 46-year-old scholar and writer. He is currently a teacher at Hwimun High School (徽文高普校), has deep research on Sijo and "Hangul" (한글), and has published many Sijo works under the pen name "Karam" (가람). He is a member of the "Korean Language Society" (朝鮮語學會).
+
+Sijo Appreciation and Composition
+
+II. Composition Method
+
+3. Terminology
+
+Sijo is also one of the language arts. It goes without saying how crucial the relationship with language is, but it's not uncommon to forget this. That is, there are often those who try to express their thoughts or emotions without regard to the language itself. Of course, those thoughts and emotions are the main point, but the problem is how one should use language to express those thoughts and emotions satisfactorily as intended. Whether the language is used well or poorly determines its life.
+
+Therefore, to write sijo—poetry—one must first study our language extensively. We generally lack sufficient study of our own language. Unlike others, we haven't received education in our own language for at least 17 or 18 years from elementary school to university, nor have we studied it at home.<250> We only use the incomplete, insufficient language learned naturally. This means using language recklessly without knowing its nature, types, rules, or aesthetic sense. Even if one had studied their own language for 17 or 18 years like others, one would still need further study to write poetry, let alone those of us in this situation.
+
+Since there are currently no adequate institutions teaching our language, the only way is through self-study. For self-study, one must obtain and read Hangul grammar books or spelling books to learn the rules and spelling of our language, read ancient and modern poetry and novels written in our language to learn its vocabulary and conventions, and also always pay attention and be curious to understand the nature, forms, subtleties, and aesthetic qualities of our language, and then write and compose. One should not rush into trying to understand or compose easily without putting in this much effort. We should not neglect our language, thinking it is too easy or insignificant. Some among us now speak foreign languages better than our own and are even proud of it. They are not just thoughtless, but shameless. There's no need to discuss such things with such people, *but for those of us who have even a little interest in this, we must first study and know our language well.
+
+In sijo—poetry, etc.—one does not simply gather and use any words from the Korean language we use, but selects only those words suitable for use. These selected words are called the terminology of poetry, or simply poetic language (詩語). So, how is the distinction between poetic and non-poetic language determined? This is difficult to say quickly. It's hard to define it like standard words in a dictionary and list its vocabulary. It is merely distinguished and selected by the sensibility of the person composing the poem. To force an explanation, words with good sound (聲響) and meaning are considered poetic language. These are words whose sound is beautiful like music, and whose meaning is as beautiful as their sound. However, even good poetic words must be well arranged so that their sound and meaning are well-balanced (均整)<251> and well-harmonized. Otherwise, even if poetic words are used, it cannot become a poem. For example,
+Saying
+*ŏjŏ nae iriyŏ kŭriljulŭl morŭdŏn'ga* (어저 내일이여 그릴줄을 모르던가 - Oh, what I've done! Didn't I know I would long for you?)
+as
+*ŏwa nae iriyŏ kŭrŏljulŭl mollattŏn'ga* (어와 내일이여 그럴줄을 몰랏던가 - Oh, what I've done! Didn't I know it would be like this?)
+Or saying
+*kyŏŭllal tasahan pich'ŭl nim'eke pich'oegojŏ* (겨을날 다사한 비츨 님에게 비최고저 - I wish to shine the winter day's warm light upon my beloved)
+as
+*kyŏŭllal tasuhan pich'ŭl nim'eke tchoigojŏ* (겨을날 다수한 비츨 님에게 쪼이고저 - I wish to make the winter day's warm light shine upon my beloved)
+cannot work. The latter examples do not possess the same meaning and sound as the former.
+Words like *ŏwa, kŭrŏl, mollat, tasuhan, tchoi* (어와 그럴 몰랏 다수한 쪼이) can be used as poetic language, but not in these cases. Also,
+Saying
+*kŭ nŏmŏ nimi wattahamyŏn nanŭn ani hanbŏndo swiŏ nŏmŭrira* (그 넘어 님이 왔다하면 나는 아니 한번도 쉬어 넘으리라 - If they say my beloved has come over that pass, I will cross it without resting even once)
+as
+*kŭ nŏmŏ nimi wattahamyŏn nanŭn hanbŏndo ani swiŏ nŏmŭrira* (그 넘어 님이 왔다하면 나는 한번도 아니 쉬어 넘으리라 - If they say my beloved has come over that pass, I will cross it without resting even once)
+makes the latter sound less beautiful and more discordant than the former. Looking at the *Unhandang Munjip* (韻漢堂文集) by Kim Ch'anggang (金倉江), there is such a statement in his miscellaneous writings (雜言). He wrote "鷄鳴滿江水" (Cocks crow, filling the river water), and Yi Nyŏngje (李寧齊) saw it and said if the character *ming* (鳴, crow) had been *sŏng* (聲, sound), it could not have been poetry. Hearing this, Kim told someone that one could truly discuss poetry and prose (時文) only with someone like Yi Nyŏngje. That person then asked if the line "午巷鷄聲嬾" (Midday alley, cock's sound is lazy) from Pak Ch'ojŏng's (朴楚亭) poem was not poetry. Kim replied that in that case, changing the character *sŏng* (聲) to *ming* (鳴) would not work. This applies not only to Chinese poetry (漢詩) but also to poetry and prose written in our language. Not just a phrase or a passage, but even one or two characters being discordant<252> makes it unacceptable.
+To know how to use poetic language, one must read many famous pieces and excellent lines from the past (自來), write much oneself, and possess extraordinary diligence and effort to develop such sensibility. One who knows how to use poetic language well is already a poet. A remarkable poet.
+
+Now, among the poetic language used in sijo, there are a few things to mention: Sino-Korean words (漢字語), foreign loanwords (外來語), and neologisms (新造語).
+Sino-Korean words are still impossible for us to completely avoid using. It is utterly impossible to abolish overnight what has been used for several thousand years. Moreover, the Sino-Korean words we use are not Chinese words as they are, but have already become part of our language. However, there is no reason to keep using those difficult Chinese characters without any limit and waste our futile efforts. A certain degree of limitation should be imposed. This limitation is not something we need to clamor about anew now. Looking at the conventions of our language used since the past (自來), the rule of using purely native Korean words as the主体 is clearly defined. This is demonstrated from *Yongbiŏch'ŏn'ga* (龍飛御天歌) and *Wŏrin Ch'ŏn'gangjigok* (月印千江之曲) to recent poetry and prose, showing that control. That is, only Sino-Korean words that function as nouns, adverbs, or conjunctions are used, while verbs, adjectives, and other words, either as they are or in inflected phrases derived from them, are not used. For example,
+There are no instances like:
+*nanŭn wang* (나는 往 - I go). *pamŭn sim* (밤은 深 - The night is deep). *myŏngho nŭn sŭlp'ŭda* (鳴呼는 슬프다 - Alas is sad).
+This is because our language and Chinese characters are separate and do not form a single phrase, so even in the old days when Chinese writing was revered, this was not done. There are exceptions, such as phrases composed entirely of Chinese characters—*Ch'ŏnwigŏn'guk hasya* (天爲建國하샤 - Heaven established the country), *panghwasuyu haya* (訪花隨柳하야 - visiting flowers and following willows), *changjojunjunghariro* (長照樽中하리라 - will long shine in the wine cup)—but these are exceptions. Not just exceptions; using them like this in our language creates disharmony and<253> a strangely stale smell of classical Chinese (漢文). The use of such Sino-Korean words should be quickly spat out and discarded (唾棄). It is excessively outdated for some who compose sijo nowadays to imitate this practice. Also, regarding the aforementioned Sino-Korean words—nouns or conjunctions, adverbs—although I said they could be used as they are, they should not be overused. If possible, one should find and use purely native Korean words or those that have become like purely native Korean words. Even Sino-Korean words that have already become part of our language, the more they are mixed into our language, the more the flavor (滋味) of our language seems to diminish. Using many Sino-Korean words might make writing easier and perhaps easier to deceive others, but for truly loving and valuing our language, one should embrace our native words as much as possible and distance oneself from that sort.
+
+Also, regarding words entering from foreign countries nowadays, the so-called foreign loanwords (外來語), while they cannot be completely avoided, one should not recklessly use words still unfamiliar to our ears out of temporary curiosity or blind following. If used incorrectly, it becomes comical (滑稽) and ends up merely as a laughingstock.
+
+Furthermore, in neologisms (新造語) translated from foreign loanwords into our language or Chinese characters, or neologisms naturally arising from our new lives, one can certainly find and use as many poetic words as desired. However, there are also randomly fabricated words (濫造語) similar to neologisms. Randomly fabricated words are new words deliberately coined by oneself to promote one's own writing style. Some even provide their own annotations (註解), but this is something to be cautious about. Even if we select from the contemporary language (現代語) (standard language 標準語, dialects 地方語) or older language (古語) we currently use, there will be more than enough. What deficiency necessitates such strange behavior? Based on my experience and the words of writers I know, there is no need to go so far as to fabricate random words. And regarding older Korean words (古語), many actually remain in various dialects (地方語), and even in Seoul, elderly people still use some. They should not be rejected simply because they are old words. Even older words that are not<254> like that, there is no reason they cannot be used. While newly entering foreign loanwords are used recklessly, what reason is there not to use the words our ancestors used for a long time? If it is a word suitable for poetic use, it is fine to use it again as much as one wants. Even dead words (死語) can be revived.
+
+Also, looking at traditional songs with the same form as the current sijo, there are words that seem to have been used almost exclusively in them.
+Words like *ŏjŭbŏ* (어즈버), *ahŭiya* (아희야), *amado* (아마도), *tuŏra* (두어라), *hanomaera* (하노매라), *hanora* (하노라), *iroda* (이로다), *hagona* (하고나), *hanotta* (하놋다), *hakwaera* (하괘라) are examples. Among these, the phrase "*ŏjŭbŏ ahiya amado tuŏra*" (어즈버 아희야 아마도 두어라 - Oh, child, perhaps leave it be) has been used so excessively at the beginning of the final chapter (終章) that it has become a stale cliché (陳腐한 套語). It is unknown whether this inherits a format like the *kyŏkku huŏn nakkwi aya ayaya* (隔句 後言 落句 阿耶 阿耶也) of Silla Hyangga (新羅鄕歌), but in any case, from our current sensibility, we cannot help but feel a certain weariness. Furthermore, other specialized terms (專用語) should not be imitated or followed conventionally either. We should strive to find new thoughts and new words to create songs that match our new sensibilities.
+
+4. Practice Composition
+
+As mentioned earlier, just hearing the theory of sijo likely won't allow one to fully grasp its flavor. One might get a vague, plausible idea, but likely won't have reached its true state (眞境). To truly reach that state, one must undergo arduous effort, experience, etc., on their own. That is, there is no other way than to actually write many oneself.
+By writing, one gradually understands the skill or lack thereof (巧拙) in one's own works, understands the inner workings (裏許) of others' works, and thus comes to know its rich flavor (津津한 滋味).
+When doing practice composition (習作), create originally from the start.<255>
+One should not imitate others. Whether it's the work of people from the past or present, each possesses its own unique life. Merely imitating it has no value whatsoever. It's just wasted effort. Even if Kim Ch'usa's (金秋史) calligraphy is called divine (神品), simply imitating each dot and stroke exactly is not praiseworthy. No matter how well done, it will only be called an imitation of the Ch'usa style (秋史體) and not recognized otherwise. In this sense, among Ch'usa's disciples, rather than Ch'ŏljŏk Toin (鐵笛道人), who wrote逼真하게 (realistically/very closely) in the Ch'usa style, the calligraphy of Sodang (小棠), who did not copy the Ch'usa style but learned only its spirit, possesses its own life. This is because Sodang exists as Sodang with a unique life. Such original creation is what has value.
+Indeed, works must be original creations.
+When creating originally, first practice sketching from life (寫生).
+Sketching from life can depict all things, all scenes. This is not done with scattered thoughts or idle talk, but is based on at least some real object (實物), real event (實事), real scene (實景), real emotion (實情), or real feeling (實感), so the material is extensive and abundant, and the content can be truthful and fresh (生新).
+Thus, sketching from life is necessary for any writer, but especially for beginners (初學者). More than necessary, one cannot proceed without starting from sketching from life. Most poets and writers of ancient and modern times who left behind many famous pieces and excellent lines were masters of this method. Their famous works contain truth (眞), life (生), and move with divine resonance (神韻). We too cannot help but strive in this sketching from life. We too must master it.
+Sketching from life does not necessarily mean drawing the real object exactly as it is. If drawing it exactly as it is results in a beautiful work, that's fine, but if not, one must shape it to fit one's own feelings. Sketching from life is not photography. Photography captures whatever is needed, whether it fits one's feelings or not,<256> but sketching from life is different. There was a famous painter in the Yuan (元) dynasty named Wŏllim (雲林) who excelled at landscape painting. Once, he happened to paint an old pine tree. Behind it were layered rocks and cliffs, and in front, a waterfall cascaded down, and the pine tree's branches spread out in all directions. However, drawing the pine tree exactly as it was would not result in a beautiful picture, so he gathered all the branches spreading in four directions and made them lean towards the side where the waterfall cascaded down in front. This indeed is skillful sketching from life (寫生) and original creation. His artistic insight lies in drawing the branches leaning. We too, whenever we sketch from life, must observe the subject well and always use our heads. We should indeed contemplate how to draw it to make a beautiful work, and it is fine to alter certain parts according to our own thoughts. Truly, the subtlety (妙味) of sketching from life lies there. In other words, it is about turning it into art and making it lively (生好).
+When sketching from life, one may do it immediately upon seeing the actual scene, or anytime afterwards, but if too much time passes, the impression will fade, so it should be done before the impression fades. However, one should not force oneself when unwilling, but try creating it occasionally when feeling inclined, when in a good mood. Seize upon particularly beautiful and flavorful (滋味스러운) parts of the actual scene, arrange them to form one sijo, and place the phrases in the initial (初章), middle (中章), and final (終章) chapters. The order does not have to be strictly followed. It's fine to compose the final or middle chapter first. That can be done as it comes at the time. However, one must decide in which of the three chapters to place the center of the sijo. That center is the most important part. Some sijo may not have a center, but usually, it is included. It naturally occurs, like the highest peak of a mountain range or the rapids of a river. It is said that Southern School painting (南畵) is painted with a center. Such things have even more subtlety.<257>
+*songnim'e nuni oni kajimada kkoch'iroda* (松林에 눈이 오니 가지마다 꽃이로다 - Snow falls on the pine forest, every branch is a flower)
+*han'gaji kkŏkkŏnaeŏ nim'gesindyŭi tŭrigojŏ* (한가지 꺾어내어 님게신듸 드리고저 - I wish to break off one branch and offer it to where my beloved is)
+*nimkkesŏ poosin hu'e nogajindŭl ŏiri* (님께서 보오신 후에 녹아진들 어이리 - What matter if it melts after my beloved has seen it?)
+The center of this song is in the phrase "*nim'gesindyŭi tŭrigojŏ*" (님게신듸 드리고저 - I wish to offer it to where my beloved is). The author saw a snow scene in a pine forest one day, somewhere. The branches covered in white snow looked like flowers. It was so beautiful that it seemed a waste to see it alone. At that moment, he thought of the beloved he loves most. He wants to break off one branch and offer it to that beloved. It doesn't matter if the snow melts after the beloved sees the branch. Isn't "*nim'gesindyŭi tŭrigojŏ*" indeed the most important part of the song?
+
+*tulmada nŭjŭn kaŭl ch'anbarami umjigine* (둘마다 늦은 가을 찬바람이 움즉이네 - In every field, late autumn's cold wind stirs)
+*pyŏisak susu isak ŭsŭrŭsŭr soksagigo* (벼이삭 수수이삭 으슬으슬 속삭이고 - Rice ears, sorghum ears rustle, whispering)
+*patmŏri hae kŭrimjado patpŭn tŭsi kanuna* (밭머리 해 그림자도 밧븐 듯이 가누나 - Even the sun's shadow at the field's edge seems to hurry away)
+This song has no center in the initial, middle, or final chapter. It simply reveals the desolate (蕭條) scene of a late autumn day drawing to a close. The phrase "*hae kŭrimjado patpŭn tŭsi*" (해 그림자도 밧븐듯이 - Even the sun's shadow seems hurried) in the final chapter might seem important, but it is not the center. It merely describes a scene, like the "cold wind" (찬바람) in the initial chapter or the "rice ears, sorghum ears" (벼이삭 수수이삭) in the middle chapter.
+And then there is the structuring method like *ki-sŭng-jŏn-gyŏl* (起承轉結 - introduction, development, turn, conclusion).
+This is a method used in Chinese poetry (漢詩). For example:
+*kwabu pong ch'usŏk* (寡婦逢秋夕 - A widow meets the autumn evening) (起 - Ki, Introduction)
+*ch'ŏngsan chinil kok* (靑山盡日哭 - Blue mountains weep all day) (承 - Sŭng, Development)
+*sanha hwangnyang suk* (山下黃梁熟 - Below the mountain, yellow millet ripens) (轉 - Chŏn, Turn)
+*tonggyŏng pudong sik* (同耕不同食 - Plow together, eat apart) (結 - Kyŏl, Conclusion)
+In this poem, *kwabu pong ch'usŏk* is the phrase that first raises the thought. *ch'ŏngsan chinil kok* is the phrase that follows and develops the *ki* phrase. *sanha hwangnyang suk* is a phrase that introduces another scene. *tonggyŏng pudong sik* is the phrase that finally concludes the meaning. In poems like Chinese poetry with 4 or 8 lines, writing in this sequence might be convenient (便宜), but in a poem like sijo with three chapters, writing in that exact sequence is difficult. Of course, the principle itself applies to sijo as well. Without such a structure (졸가리), a poem cannot be formed. If one just strings together scattered words without any connection, change, or unity, it amounts to nothing more than a collection of fragmented phrases.
+
+5 Revision (推敲)
+
+*Ch'ugo* (推敲) means to strike or polish writing. This originates from the *Tangshijisa* (唐詩紀事 - Record of Tang Poetry Matters). A poetry monk (詩僧) named Jia Dao (賈島) was going to the capital to take the civil service examination at that time. Riding a donkey, he composed a poem.
+The poem contained the line "*sŭng ch'u wŏlha mun*" (僧推月下門 - Monk pushes moonlit gate). However, he wanted to change the character *ch'u* (推, push) in the line to *ko* (敲, knock), and was making hand gestures of pushing (推) and knocking (敲) when he bumped into the poet Han Yu (韓愈), who happened to be riding beside him on horseback. Han Yu was startled and asked the reason. Jia Dao explained the reason and apologized. Han Yu said the character *ko* (敲) was better (佳) than *ch'u* (推), and they rode side by side, discussing poetry. Thus, that term came into being.
+Just like the origin of that term, we too must put immense effort into composing sijo. If it comes out well right away, there's no need, but it's difficult for it to come out well immediately. Beginners aside, even experienced masters (巨匠) often make many revisions. Correcting what is wrong is natural. It is not the least bit amusing (웃읍거나) or shameful; rather, leaving mistakes as they are or hiding them is amusing and shameful<259>. Without revision, one cannot improve. One cannot become fresh. Nor can one achieve utmost refinement and beauty (至精至美). Revision is indeed our study and reflection.
+When composing sijo, revising one piece provides more study than writing 100 pieces. One who knows how to revise well is already a writer.
+Generally, beginners don't know how to revise, and because they don't know, they also dislike it. And so they just try to write constantly. They keep writing. They write 100 or even several thousand pieces. Even if they write that many, likely not even a few are actually accomplished. In my hometown, there was a man named Kim Chungyong (金中庸). His son was called Kim Ch'ŏnja (金千字 - Kim Thousand Characters). Why was he given this name? It wasn't given by themselves, but a nickname given by others who knew him. Kim Chungyong shut his door and sat reading the *Zhongyong* (中庸 - Doctrine of the Mean) from the Four Books day and night for over 10 years. Thus, he could recite it fluently even with his eyes closed. He must have read it tens of thousands, no, hundreds of millions of times. But the strange thing was, if someone asked the meaning of a passage from the *Zhongyong*, he couldn't answer. And he could only read the *Zhongyong* according to the grammatical particles (토) attached to the main text, unable to read other minor commentaries (註). Also, his son Kim Ch'ŏnja sat out on the wooden porch (툇마루) every day with the *Thousand Character Classic* (千字文) and practiced writing the characters with a water brush (水筆). He continued writing like this for about 10 years as well. There wasn't a single plank on the thick wooden porch that wasn't worn down. Still, he couldn't write even *Ipch'un taegil* (立春大吉 - Start of Spring, Great Luck) passably. His strokes (字畫) and character structure (構字) were clumsy. It was barely suitable for pasting on a tavern door, not for a respectable house. Composing sijo like the Kim father and son would only waste precious time and effort, without achieving any particular accomplishment (별양 성취) in sijo itself.
+When revising sijo, one should not just fix individual characters, but sometimes revise entire phrases, the whole piece, or even the initial idea itself. Works composed based on the very first idea that comes to mind<260> often have mediocre ideas from the start. One should compose based on ideas that come to mind at least the second or third time. Even when composing with those, at the very moment of writing, the mind is too excited, so even considerable writers (*) can become blind to their own work. In such cases, one should put it aside and then take it out again after 3 or 4 days, or even a few weeks, to look it over and revise. It is often revised effectively when viewed casually (無心) rather than intently (有心). And one often spots flaws better when looking at others' work than one's own.
+Therefore, it is also good to show one's work to a senior (先輩) or friend and receive critique (評). Upon receiving critique, one should not feel displeased or defensive, but understand it well and use it as a mirror for the future. It is said that the Tang (唐) dynasty poet Bai Juyi (白樂天) would read his poems to an old woman (老姬) to test whether she understood them. That too is a method of revision. One should know that even someone less capable than oneself might know something better than oneself. (End)<261>
+
+**Summary**
+
+This article by Yi Pyŏnggi offers practical advice on composing Sijo poetry. It stresses the paramount importance of mastering the Korean language, urging self-study due to lack of formal education and warning against overuse of difficult Sino-Korean words (Hanja), unfamiliar foreign loanwords, or self-coined jargon. The author advocates for original creation, rooted in careful observation and "sketching from life" (寫生), rather than imitation. He emphasizes the crucial role of rigorous revision (推敲), suggesting writers distance themselves from their work and seek feedback to achieve refinement, drawing analogies from calligraphy and historical anecdotes about poets. The most historically interesting aspects are the strong emphasis on studying and prioritizing the Korean language (including older forms and dialects) and the cautionary notes about Hanja and foreign loanwords, reflecting the linguistic complexities and nationalistic undercurrents of the colonial period. The detailed discussion on balancing native Korean words with unavoidable Hanja terms provides insight into the practical linguistic challenges faced by writers at the time.
+
+**Named Entities**
+
+李秉岐	이병기	Yi Pyŏnggi
+全羅北道	전라북도	Chŏlla North Province
+徽文高普校	휘문고등보통학교	Hwimun High School
+가람	가람	Karam
+朝鮮語學會	조선어학회	Korean Language Society
+金倉江	김창강	Kim Ch'anggang
+李寧齊	이영제	Yi Nyŏngje
+朴楚亭	박초정	Pak Ch'ojŏng
+金秋史	김추사	Kim Ch'usa
+鐵笛道人	철적도인	Ch'ŏljŏk Toin
+小棠	소당	Sodang
+元나라	원나라	Yuan Dynasty
+雲林	운림	Wŏllim (Ni Zan)
+賈島	가도	Jia Dao
+韓愈	한유	Han Yu
+金中庸	김중용	Kim Chungyong
+金千字	김천자	Kim Ch'ŏnja
+白樂天	백낙천	Bai Juyi (Paek Nakch'ŏn)
+唐나라	당나라	Tang Dynasty
+中國	중국	China
+
+**Glossary**
+
+깁고	깊고	Deep (older spelling of 깊고)
+만했다	많았다	Was much/many (older spelling/form of 많았다)
+어떠케	어떻게	How (older spelling)
+워낙	워낙/원래	Originally, by nature
+아죽은	아직은	Still, yet (older spelling of 아직은)
+알어진	알려진	Known (older form of 알려진)
+드라도	더라도	Even if (older form of ~더라도)
+로서랴	로서랴	Being such (rhetorical ending, older form)
+얻어 보고 읽혀	얻어 보고 익혀	Obtain, read, and master (읽혀 is older form/spelling for 익혀)
+궁굼도 하여	궁금도 하여	Being curious too (older spelling of 궁금)
+알랴거나	알려고 하거나	Trying to know or... (older form of 알려고 하거나)
+알어두어야	알아두어야	Must know (older spelling/form of 알아두어야)
+씀즉한	쓸 만한	Worth using, suitable for use
+聲響	성향	Sound and echo; acoustic quality
+均整	균정	Balance, symmetry
+모르던가	몰랐던가	Didn't know? (older grammatical form)
+몰랏던가	몰랐던가	Didn't know? (older spelling)
+다사한	따사한/따스한	Warm (dialectal/older form)
+비츨	빛을	Light (accusative, older spelling)
+비최고저	비추이고자/비추고저	Wishing to shine upon (older form)
+다수한	따스한	Warm (dialectal/older form)
+쪼이고저	쬐이고자/쬐고저	Wishing to make shine upon (older form)
+알재도	알려 해도/알자 해도	Even trying to know
+自來	자래	Since the past, traditionally
+아즉	아직	Still, yet (older spelling)
+그러타고	그렇다고	Even so, that being said (older spelling)
+하야야	하여야	Must do (older spelling/form of 하여야)
+써오든	써 오던	Have been writing/using (older form)
+이 近者	이 근자	Recently, these days
+句語	구어	Phrase, clause (esp. referring to Hanja phrases)
+이마적	이제껏/지금껏/이즈막	Until now, recently
+숭내를	흉내를	Imitation (accusative, older spelling)
+수작이다	수작이다	Undertaking, work; sometimes implies scheming or poor quality attempt
+들으는	들어오는	Entering, coming in (older form)
+쓰잘	쓸	To use/write (contraction/older form of 쓸 것을 or similar)
+암만이라도	얼마든지라도	However much, limitlessly
+코저	고자	Intending to, wishing to (older form of ~고자)
+할가부냐	할까 보냐	Why would one do...? (rhetorical question, older form)
+남어 있고	남아 있고	Remains, is left (older spelling)
+어대	어디	Where (older spelling)
+套語	투어	Cliché, set phrase
+늦길	느낄	To feel (older spelling)
+맨드자는	만들자는	Let's make (older spelling/form of 만들자는)
+얼이벙벙한	어리벙벙한	Dazed, bewildered
+이르러보든	이르러 보지는	Does not reach/attain (older form)
+이르러보자면	이르러 보자면	If one tries to reach/attain
+차첨	차츰	Gradually, step by step (older spelling)
+裏許	이허	Inner circumstances, the inside story (Hanja term)
+津津한 滋味	진진한 자미	Rich flavor, deep interest/taste (자미 is older form of 재미)
+밟어나가지	밟아 나가지	Does not step forward/proceed
+움즉인다	움직인다	Moves, stirs (older spelling)
+쓸리게	쏠리게	To make lean/slant
+살어지고	사라지고	Disappears, fades (older spelling)
+살어지기	사라지기	Disappearing, fading (noun form, older spelling)
+다름답고	아름답고	Beautiful and... (older spelling)
+滋味스러운	자미스러운	Flavorful, interesting (older form)
+잡어가지고	잡아 가지고	Holding, grasping; focusing on
+않어도	않아도	Even without (older spelling)
+님게신듸	님 계신 데	To the place where the beloved is (older form)
+드리고저	드리고자	Wishing to give/offer (older form)
+보오신	보신	Saw (honorific, older form)
+녹아진들	녹아진들	Even if it melts
+어이리	어떠하리	What would it matter? How would it be? (older form)
+둘마다	들마다	In every field (older spelling of 들)
+움즉이네	움직이네	Moves, stirs (older spelling)
+밧븐	바쁜	Busy (older spelling)
+가누나	가는구나	Goes! (exclamatory, older form)
+마즈막	마지막	Last, final (older spelling)
+마마른	마무른	Finished, concluded (older form)
+便宜	편의	Convenience
+졸가리	줄거리	Outline, structure, plot
+흣튼	흩은	Scattered, disordered (older form)
+推	추	To push
+敲	고	To knock
+신융	시늉	Gesture, pretense (older spelling)
+마츰	마침	Just then,ちょうど (older spelling)
+놀내어	놀라서	Being surprised (older form/spelling)
+웃읍거나	우습거나	Amusing or... (older spelling)
+웨	왜	Why (older spelling)
+나려외든	내려 외던	Used to recite down (older form)
+몃	몇	How many, several (older spelling)
+별양	별다른	Particular, special, different
+앗가운	아까운	Regrettable, wasteful (older spelling)
+떠도는	떠도는/떠오르는	Floating, wandering; 떠오르는 (coming to mind)
+*도	~라도	Even (particle attached to noun, indicating older usage/omission)
+떠들어	들추어	To look through, rummage through; reveal
+는가	는지	Whether... (interrogative ending, older form often used doubly)
+
+
+---------------------------
+
+
+잡지명	삼천리 제9권 제1호
+발행일	1937년 01월 01일
+기사제목	時調作座
+필자	李秉岐
+기사형태	문예평론
+
+時調作座
+						李秉岐
+筆者紹介
+
+氏는 全羅北道 출생으로 금년 46세인 학자 작가, 현재 徽文高普校의 교사로 있으며 시조와 「한글」에 대한 연구가 깁고 또 號를 「가람」이라 하야 시조작품을 발표한 바가 만했다.
+「朝鮮語學會」회원이다.
+
+時調鑑賞과 作法
+
+二. 作法
+
+3. 用語
+
+時調도 언어예술의 그 하나이다. 언어와의 관계가 얼마나 중대한 것임을 더 말할 것도 없지마는 그려도 자칫하면 그걸 잊어버리는 일이 없지도 않다. 즉 언어는 어떠하든가를 상관하지 않고 자기의 사상이나 감정을 표현하려고 하는 이가 종종 있다. 무론 그 사상, 감정이 주장이 아니 되는 건 아니나 그 사상, 감정을 자기가 생각한대로 탐탁하게 표현하자면 그 언어를 어떠케 써야할가 함이 문제다. 그 언어를 잘 쓰고 못 쓰고 함이 그것의 생명을 좌우하고 있다.
+그럼으로 시조―詩歌를 지으랴면 먼저 우리말에 대하여 많은 공부가 있어야 한다. 우리는 워낙 우리말 공부가 대다 부족하다. 남들과 같이 소학교로부터 대학교 때까지 적어도 17,8년 동안을 제 말의 교육도 받지 못하고 또는 가정에서도 학습을 하지 않고<250> 자연히 알어진 불안전, 불충분한 말만 가지고 쓰고 있다. 이는 말의 성질도 종류도 법칙도 미감도 모르고 함부로 쓰는 것이다. 비록 남들과 같은 17,8년 동안 제 말 공부를 하였다 드라도 시가를 짓다면 더욱이 공부를 하여야 할 것인데 더구나 이러한 우리로서랴.
+이에 우리말 공부를 하자면 그걸 교육하는 상당한 기관이 아죽은 없으니 제가 自學自習하는 수밖에는 도리가 없다. 自學自習함에는 한글 문법책이나 綴字法冊들을 얻어 보고 읽혀 우리말의 법칙이나 綴字하는 법을 알고 우리말로 된 古今의 詩歌나 소설을 읽어 우리말의 語彙나 관례를 알고 또는 항상 유의하고 궁굼도 하여 우리말의 성질, 형태, 묘미, 미감들도 알고 그리고 쓰고 짓고―하여야 한다. 이만한 수고도 들이지 않고 대번 쉽사리 알랴거나 지으랴고 덤벼서는 아니된다. 우리말을 너무 쉽다 하잘 것 없다하고 그냥 내버려두어서는 아니된다. 지금 우리들 가운대 어떤 이는 우리말보다도 남의 말을 더 잘하고 그결 또 자랑하고 있다. 그는 무심하다기보다도 부끄러움도 모르는 이다. 그런 이로 더불어는 이런 말을 운운할 것도 *지마는 적으나 이런데 뜻을 두고 있는 우리로서는 무었보다도 먼저 우리말을 잘 공부하며 잘 알어두어야 한다.
+시조―시가 등에는 우리가 쓰고 있는 우리말을 아무 말이라도 되는 대로 주어 쓰는 것이 아니라 그 중에 씀즉한 말만을 뽑아 쓰는 것이다. 이 뽑아 쓰는 말을 시가의 用語. 다시 생략하여 말하면 詩語라 한다. 그러면 시어와 비시어와의 구분은 어떠케 정할까. 이건 얼른 말하기 어렵다. 사전의 표준어처럼 정하고 그 語彙를 들어 말하기 어렵다. 시를 짓는 그 사람의 감각으로서 분간하고 뽑아 쓸 뿐이다. 억지로 말하자면 그 聲響과 의미가 좋은 말들을 시어로 하는 것이다. 그 聲響이 음악의 소리처럼 곱고 그 의미도 그 聲響과 같이 곱게된 말이다. 그러나 좋은 시어라도 그걸 잘 배열하여 그 聲響과 의미가 잘 均整되고<251> 잘 조화되여야 한다. 그러치 않으면 시어를 쓰고도 시는 될 수 없다. 가령
+어저 내일이여 그릴줄을 모르던가
+라 하는 것을
+어와 내일이여 그럴줄을 몰랏던가
+라고 하든지 또
+겨을날 다사한 비츨 님에게 비최고저
+라 하는 것을
+겨을날 다수한 비츨 님에게 쪼이고저
+라고 하든지 하면 될 수 없다. 후자는 전자와 같은 의미와 聲響을 가지지 못하였다.
+「어와 그럴 몰랏 다수한 쪼이」들도 시어로 쓸 수는 있으나 이런 경우에는 될 수 없다. 또
+그 넘어 님이 왔다하면 나는 아니 한번도 쉬어 넘으리라
+라 하는 것을
+그 넘어 님이 왔다하면 나는 한번도 아니 쉬어 넘으리라
+라고 하면 후자는 전자처럼 어조가 곱지 못하고 어그러저 버린다. 金倉江의 韻漢堂文集을 보면 그 雜言에 이러한 말이 있다. 자기가 「鷄鳴滿江水」라고 지은걸 李寧齊가 보고 鳴字를 만일 聲字로 하였드라면 詩가 될 수 없다 하였다. 이 말을 듣고 자기가 어떤 사람더러 과연 李寧齊 같은 일이라야 時文을 의논하겠다 한즉 그러면 朴楚亭詩의 「午巷鷄聲嬾」 이라는 句는 시가 아니냐 하는걸 거긔는 만일 聲字를 鳴字로 하여서는 될 수 없다고 자기는 말하였다 한다. 이건 漢詩에서만 아니라 우리말로 된 시가나 산문에서도 그러야한 것이다. 한 句나 한 대문이야 무론, 한 두 자라도 어그러지면<252> 될 수 없는 것이다.
+시어 쓰는 법을 알재도 自來의 名篇佳句들을 많이 읽어보고 자기가 많이 지어보고 그러한 감각을 발달시키는 남다른 고심노력이 있어야 한다. 시어를 잘 쓸 줄 알면 그는 벌서 시인이다. 놀라운 시인이다.
+그런데 시조의 쓰는 시어가운대 두어가지 말해두자는 것은 漢字語와 外來語와 新造語들이다.
+漢字語는 아즉 우리로서는 전연 아니 쓸 수 없는 것이다. 몇 천년 동안 써오든 것을 도저히 얼른 폐지할 수 없다. 그 뿐더러 우리가 쓰는 漢字語는 中國語 그대로가 아니고 벌서 우리말이 되어버린 것이다. 그러타고 아무 제한도 없이 어려운 그 漢字를 자꾸 쓰며 무단한 우리의 노력을 허비할 까닭도 없다. 어느 정도만큼은 제한을 하야야 하겠다. 그 제한도 지금 우리가 새삼스러이 떠들 것이 없다. 自來 써오든 우리말의 관례를 보면 순연한 우리말을 주체로 하여 쓰든 그 법이 분명하게 규정되여있다. 그건 龍飛御天歌, 月印千江之曲으로부터 이 近者의 시가나 산문 등에도 그 統制를 보여주는 것이다. 즉 漢字語는 名詞, 혹은 副詞, 接續詞로 된 것만을 쓰고 動詞 形容詞, 기타 말들을 그대로나 또는 그 말들이 활용된 句語따위는 아니 쓰는 것이다. 말하자면
+나는 往. 밤은 深. 鳴呼는 슬프다.
+하는 이런 예는 없다. 이건 우리말과 한자와가 각돌고 있어 한 語句를 이루지 못하는 것임으로 한문을 숭상하든 옛날에 있어서도 행하지 못하든 것이다. 다만 한자로 된 句語―天爲建國하샤 訪花隨柳하야 長照樽中하리라―하는 따위는 없지도 않으나 이건 한 예외다. 예외만 아니다. 우리말에 이러케 쓰고 보면 잘 조화가 되지 않고 이상히<253> 케케한 漢文냄새가 난다. 이따위 한자어를 쓰는 것은 얼른 唾棄해버려야 하겠다. 이마적 시조를 짓는 이에도 이 숭내를 내는 이가 있음은 너무 뒤떨어진 수작이다. 또 己上에 말한 漢字語―名詞 혹은 接續詞. 副詞는 그대로 쓰겠다 하였으나 이것도 그리 남용할 건 아니다. 될 수 있으면 순연한 우리말을 찾어 쓰거나 순연한 우리말처럼 된 것을 쓸 것이다. 이미 우리말로 된 漢字語라도 우리말에 漢字語가 많이 섞이면 많이 섞일스록 우리말의 자미는 적어지는 것 같다. 漢字語를 많이 쓰는 것이 글을 짓는데는 도리어 수월하고 남을 속이기도 쉬울는지 모르나 참으로 우리말을 사랑하고 위함에는 될 수 있는대로 우리말을 값가이 하고 그 따위는 멀리하여야 하겠다.
+또 이마적 외국으로서 들으는 말 이른바 外來語도 아주 아니 쓸 수는 없으나 한 때 호기심 맹종적으로 아즉 우리 귀에 설은 그 말을 함부로 쓰잘 것은 없다. 잘못 쓰고 보면 한 滑稽가 되어 남의 웃음거리에 그치고 만다.
+또 外來語를 우리말로나 漢字로 번역한 新造語 또는 우리의 새로운 생활을 따러 자연 생기는 新造語에도 무론 詩語를 암만이라도 찾어 쓸 수 있다. 그러나 新造語 비슷한 濫造語가 있다. 濫造語는 자기의 作風을 선전코저 일부러 자기가 새 말을 지어내는 것이다. 그리고 자기가 註解까지 하는 이도 있으나 이는 삼가할 노릇이다. 지금 우리가 쓰고 있는 現代語(標準語 地方語)나 혹은 古語에서 뽑아쓰드라도 남고 남을 것이다. 무었이 부족하여 그 이상야릇한 짓을 할가부냐. 나의 경험으로나 나의 아는 작가의 말들을 들어보도 그러케 濫造語까지 지어낼 것은 없다고 하는 바이다. 그리고 古語 우리말의 古語는 실상 여러 地方語속에 많이 남어 있고 서울에서도 노인들은 아즉도 쓰고 있는 말이 있다. 그저 古語라 하여 배척할 건 아니다. 그러치 않은 古語라도<254> 못 쓸 이유는 없다. 새로 들어오는 外來語는 함부로 쓰면서 제 조상들이 오래 써오든 말은 못 쓸 이유가 어대 있느냐. 시어로 쓸만한 말이고 보면 다시 암만쓰드라도 좋다. 死語라도 부활시킬 수가 있다.
+또 지금 시조의 形과 같은 장을 종래의 노래들을 보면 그 용어에는 전용하다싶이 된 말들이 있다.
+어즈버 아희야 아마도 두어라 하노매라 하노라 이로다 하고나 하놋다 하괘라 이런 말들이 그 예다. 이중에 「어즈버 아희야 아마도 두어라」하는 말은 終章 첫머리에 쓴 것이 너무도 많아 한 陳腐한 套語가 되여버렸다. 이것이 新羅鄕歌의 隔句 後言 落句 阿耶 阿耶也와 같은 형식을 전승함인지 모르나 어떠튼 지금 우리의 감각으로는 얼마큼 권태를 아니 늦길 수 없다. 또 그밖의 專用語라고 그대로 모방하거나 因襲하는 것이 아니다. 우리는 아무쪼록 새로운 생각, 새로운 말들을 찾어 써 우리의 새로운 감각에 맞은 노래를 맨드자는 바이다.
+
+4. 習作
+
+전자에도 말하였거니와 시조의 이론만 들어 가지고는 시조의 맛을 잘 모르리라. 아마 그럴듯하는 얼이벙벙한 생각이나 돌는지 참으로 그 眞境에는 이르러보든 못하리라. 참으로 그 眞境에 이르러보자면 자기로서의 刻苦한 노력 체험 등이 있고야 하리라. 즉 자기가 실지 많이 지어볼 수밖에 없다.
+지어보면 차첨 자기의 작품의 巧拙도 알고 남의 작품들의 裏許도 알고 그리고 그 津津한 滋味를 알 것이다.
+習作을 함에 처음부터 창작을 하라.<255>
+남의 것을 모방할 건 아니다. 옛날 사람의 것이든 지금 사람의 것이든 어느 것을 물론하고 그것은 그것으로써 한 독특한 생명을 가지고 있다. 그걸 그대로 모방을 한 대야 일분의 값도 없다. 헛수고만 들일 뿐이다. 金秋史의 글씨를 神品이라 하드라도 그 一點一畫을 그대로 모방하였다 하여 그리 칭도할 것이 없다. 그건 암만하드라도 秋史體를 그대로 모방한 것이라 하지 달리는 인정치 않을 것이다. 이 의미로서 같은 秋史의 弟子로도 秋史體를 逼眞하게 쓰든 鐵笛道人보다도 秋史體를 아니 쓰고 그 정신만을 배운 小棠의 글씨가 자기의 생명을 지니고 있다. 小棠은 小棠으로서 독특한 생명이 있는 까닭이다. 이런 창작이야말로 가치가 있다.
+과연 작품은 창작이라야 한다.
+창작을 함에는 먼저 寫生을 하라.
+寫生은 모든 사물, 모든 情景을 다 그려낼 수 있는 것이다. 이건 그저 흩은 생각, 흩은 수작으로서 하는 것이 아니고 적어도 어느 實物 實事 實景 實情 實感을 근거하여 하는 까닭에 그 재료가 광범하고 풍부하며 그 내용도 진실하고 生新할 수 있다.
+이러하여 寫生은 어느 작가에게든지 그러치마는 더욱이 初學者에게는 필요하다. 필요하다기보다도 寫生 그것으로서 밟어나가지 않으면 될 수 없다. 고금의 시인 문사들도 대개 이 법을 精通한 이라야 그 名篇佳句을 많이 남기었다. 그 名篇佳作에는 眞이 있고 生이 있고 神韻이 움즉인다. 우리도 이 寫生을 힘쓰지 않을 수 없다. 우리도 이걸 精通하고야 할 것이다.
+寫生을 함에는 반듯이 실물 그대로 그리는 것이 아니다. 실물 그대로 그려도 한 아름다운 작품이 될 것 같으면 그래도 좋지마는 그러치 않은 경우에는 자기의 감정에 맞도록 맨들어야 한다. 寫生은 사진이 아니다. 사진은 자기의 감정에 맞거나 많거나 어떤<256> 필요만 있으면 박히지마는 이 寫生은 그런 것이 아니다. 元나라의 雲林이라는 이가 山水를 잘 그리는 高名한 화가인데 한번은 어느 老松나무를 그리게 되였다. 그 뒤에는 層岩과 절벽이 있고 앞에는 폭포수가 나려지르고 그 소나무는 사면으로 가지들이 벗어있다. 그러나 그 소나무를 그대로 그려서는 아름다운 그림이 될 수 없는 까닭에 그 사면으로 벗은 가지들을 모다 그 앞에 폭포수가 나려지르는 쪽으로 쏠리게 하여 그렸다 한다. 이것이야말로 교묘한 寫生이고 창작이다. 그의 예술의 안목은 그 가지들을 쓸리게 그리는데 있다. 우리도 어떤 寫生을 할 때든지 寫生할 그것을 잘 관찰하고는 항상 자기의 머리를 써야할 것이다. 과연 그것을 어떠케 그려야 한 아름다운 작품이 될까 하고 궁구마련을 하여 그 어느 부분만은 자기의 생각대로 하여도 좋다. 정말 寫生의 묘미는 거긔에 있다. 다시 말하면 그것을 한 예술화하여 生好케 하는 것이다.
+寫生을 할 때 그 실경을 보고 그 즉시에 하거나 또는 그 뒤 어느 때든지 하여도 좋으나 너무 오래되면 그 인상이 살어지고 말 것이니 아모쪼록 그 인상이 살어지기 전에 하여야 하겠다. 그러나 하기 싫은 때엔 억제로 할 것이 없고 간간 하고 싶은 때 좋은 기분이 날 때 그걸 맨들어보되 그 실경 가운대 특히 다름답고 滋味스러운 곳을 잡어가지고 한 首가 될만큼 마련을 하여 初章 中章 終章의 그 章마다 글句들을 배치한다. 그 순서는 꼭 그대로 않어도 무방하다. 혹은 終章이나 中章부터를 먼저 지어도 좋다. 그건 그때 되는대로 하여도 좋다. 다만 그 3章中 어느 章에다 그 한 首의 중심을 두어야 할까함은 정하여야 한다. 그 중심은 가장 그 중요한 곳이다. 그 중심을 아니 두는 것도 있지마는 대개는 그걸 두게 된다. 마치 山岳의 최고봉이나 하천의 급류처럼 자연 있게 된다. 그럼에도 南畵에는 중심을 두고 그린다 한다. 이런 것이 더욱 묘미가 있는 것이다.<257>
+松林에 눈이 오니 가지마다 꽃이로다
+한가지 꺾어내어 님게신듸 드리고저
+님께서 보오신 후에 녹아진들 어이리
+이 노래의 중심은 「님게신듸 드리고저」라는 구에 있다. 그 작가는 어느 날 어느 곳에서 松林의 설경을 보았다. 그 하얀 눈이 덮어있는 가지들이 꽃과 같었다. 그것이 어떻게나 아름다운지 자기가 혼자만 보기가 앗갑다. 그때 그는 자기가 가장 사랑하는 님이 생각난다. 그 가지 하나를 꺾어 그님에게 드리자는 것이다. 님께서 그 가지를 보시난 뒤에야 눈이 녹아버리드라도 상관이 없다. 과연 「님게신듸 드리고저」가 그 노래의 가장 중요한 곳이 아니냐.
+둘마다 늦은 가을 찬바람이 움즉이네
+벼이삭 수수이삭 으슬으슬 속삭이고
+밭머리 해 그림자도 밧븐 듯이 가누나
+이 노래는 初章 中章 終章 어느 곳에도 중심이 없다. 다만 그 전면에 늦은 가을 저믈어 가는 저녁 날의 그 蕭條한 광경이 들어나는 것이다. 그 終章의 「해 그림자도 밧븐듯이」의 句가 중요한 곳인 듯 하여도 그 중심이 아니다. 그저 그 初章의 『찬바람』이나 中章의 「벼이삭 수수이삭」과 같은 한 景을 말한 것이다.
+그리고 또 起承轉結과 같은 매드는 법이 있다.
+이건 漢詩들에서 써오든 법이다. 그 예를 들면
+寡婦逢秋夕(起)
+靑山盡日哭(承)
+山下黃梁熟(轉)
+同耕不同食(結)
+하는 이 시에 寡婦逢秋夕을 처음 생각을 일으킨 句요 靑山盡日哭은 그 起句를 이어 말한 句요 山下黃梁熟은 또한 景을 끌어다 말한 句요 同耕不同食은 그 뜻을 마즈막 마마른 句다. 漢詩와 같이 4句 또는 8句로된 시에는 그 순서대로 쓰는 것이 便宜라 하겠으나 시조와 같이 三章으로 된 시에는 그 순서와 같이 쓰기는 어렵다. 무론 그런 원리만은 시조에도 통용되는 것이다. 그런 졸가리가 없고서는 한 시편을 이룰 수 없다. 그저 흣튼 말이나 늘어놓고 아무 연락도 변화도 통일도 없으면 다만 단편의 어구를 모아놓은데 지나지 못한다.
+
+5 推敲
+
+推敲는 글을 친다는 말이다. 이는 唐詩紀事에 賈島라 하는 詩僧이 그때 科擧를 보러 서울을 가는데 당나귀를 타고 가며 시를 지었다.
+그 시는 「僧推月下門」이라는 句다. 그러나 그 句中의 推字를 敲字로 고치고 십어 손을 들어 밀(推)고 두다리(敲)고 하는 신융을 하다가 그때 마츰 그 옆의 말 타고 가든 韓愈라는 시인을 건들이었다. 韓愈는 깜짝 놀내어 그 까닭을 물었다. 賈島는 그 까닭을 말하고 사과를 하였더니 韓愈는 推字보다 鼓字가 佳하다 하고 서로 곳비를 나란이 하고 시를 의논하였다 하여 그 문자가 생긴 것이다.
+그 문자의 출처와 같이 우리도 시조를 지을 때 무진 수고를 들여야 하겠다. 대번 잘 되면 야 그러잘 것이 없으나 대번 잘 되기가 어렵다. 初學者는 고사하고 노련한 巨匠들도 많이들 고치게 된다. 잘못된 걸 고치는 것은 당연한 일이다. 조곰도 웃읍거나 부끄러운 일이 아니라 도리어 그 잘못된 것을 그대로 두거나 숨기는 것이 웃읍고 부끄러운<259> 일이다. 고치지 않으면 늘어갈 수가 없다. 새로워질 수도 없다. 또는 至精至美할 수도 없다. 고치는 것이야말로 우리의 공부요 반성이다.
+시조를 지을 때 100首를 짓는 이보다 한 首를 고치는 것이 더 공부가 된다. 잘 고칠 줄을 아는 이는 벌서 한 작가다.
+대개 초학자로는 고칠 줄도 모르고 모르는 까닭에 싫어도 한다. 그리고는 자꾸 지으려 한다. 자꾸 짓는다. 100首 내지 몃 천首를 지는다. 그는 몃 首를 지었다드라도 실상 된 것은 몃 首도 없을 것이다. 나의 고향에 金中庸이라는 이가 있었다. 그의 아들은 金千字라 한다. 웨 이런 이름을 지었느냐 하면 그건 그들 자신이 지은 게 아니고 그를 아는 남들이 지어 부르는 별명이다. 金中庸은 문을 닷고 앉어서 밤으로나 낮으로나 四書의 中庸이라는 글을 10여년 동안 읽어었다. 그러하여 두 눈을 감고도 줄줄 나려외든 것이다. 아마 몇 만 讀은 고사라고 몇 억 讀을 하였으라. 그러나 이상한 것은 누가 가서 中庸의 어느 구절의 뜻을 물으면 대답을 못하는 것이다. 그리고 中庸도 대문의 토 단대로나 읽을 뿐이고 기타 잔 註같은건 읽지를 못함이다. 또 그 아들 金千字는 날마다 퇴마루에 나 앉어 千字文을 놓고 그 字들을 水筆로 써보고 써보고 하였다. 이렇게 쓰기를 역시 한 10년을 하였다. 그 두터운 툇마루 쪽이 한쪽도 패이지 않은 건 없다. 그려도 立春大吉하나를 반반히 쓰지는 못하였다. 그 字畫이며 構字가 망칙하다. 겨우 주막집에나 부치게되지 제법 무엇한 집에는 부칠 수 없게 되였다. 그 金氏 父子처럼 시조도 지어서는 앗가운 세월과 노력이나 허비하지 시조 그것은 별양 성취가 없을 것이다.
+시조를 고치는데 어느 글자만 고칠 것이 아니라 혹은 어느 구절이나 혹은 그 전편이나 혹은 그 생각까지라도 고치어야 한다. 애초 지을 때 첫 번 떠도는 생각을 가지고<260> 지은 건 흔히 그 생각부터가 변변치 못하다. 적어도 제2회 제3회에 떠도는 생각을 가지고 지어야 한다. 그걸 가지고 짓드라도 짓는 그 당장에는 머리가 너무 흥분되여있는 까닭에 상당한 작가로 *도 자기의 작품에 눈이 어둡게 된다. 그런 때에는 그걸 덮어두었다가 3,4일 또는 몇 주일 뒤에 다시 떠들어 보고 고치어야 한다. 有心하게 보는 이보다는 無心이 보는 때 용하게 고치어 진다, 그리고 자기 것보다도 남의 것을 볼 때 그 결점을 잘 발견하게 된다.
+그럼으로 자기의 작품을 어느 선배나 친구에 보여 평을 받는 것도 좋다. 평을 받고는 불평을 하거나 자격하게 여기지 말고 잘 了解하여 뒷날의 거울을 삼도록 하여야 한다. 옛날 唐나라 시인 白樂天은 시를 지으면 老姬에게 읽어들리고 그가 아는가 모르는가를 시험해 보았다 한다. 그도 한 고치는 방법이다. 시는 나만 못한 이라도 그 아는 것은 나보다 나은 이도 있는 줄을 알어두을 것이다. (끗)<261>
+<250-261>

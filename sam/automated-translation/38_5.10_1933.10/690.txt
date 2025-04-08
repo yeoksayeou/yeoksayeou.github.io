@@ -1,0 +1,97 @@
+**Header Section:**
+Magazine Title: 三千里 第五卷 第十號
+Publication Date: 1933년 10월 01일 (October 1, 1933)
+Article Title: 海外詩人이 을픈 朝鮮情緖(1) (Korean Sentiment Sung by an Overseas Poet (1))
+Author: 白鳥省吾 (Shiratori Shōgo)
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Korean Sentiment Sung by an Overseas Poet
+						Shiratori Shōgo
+
+Willow
+
+The spring of the willow, parted from in tears,
+has come again.
+Smoky rain,
+dreams too are hazy, Ryōratō (綾羅島).
+The threads of the willow writing on the water <118>
+What are they repeating?
+A bird sings.
+The willow is long, and the day is long too.
+
+Flowing gently and grandly, the Daidōkō (大洞江),
+the boats are black boats,
+the sails too are black.
+Amid the green willows, flowers are red.
+
+Even if the rain clears, my heart likely won't.
+The rainbow is an illusion,
+it quickly fades.
+Let's sing Arirang in the willow shade.
+<118-119>
+
+**Summary**
+
+This short poem by Japanese poet Shiratori Shōgo, titled "Willow," depicts a scene by the Taedong River (Daidōkō) near Nŭngna Island (Ryōratō), likely P'yŏngyang. It uses imagery of weeping willows, misty rain, black boats, and red flowers to evoke a melancholic atmosphere associated with parting and persistent sorrow, despite the arrival of spring. The poem concludes with a suggestion to sing the Korean folk song "Arirang" under the willows. From a historical perspective, the poem is interesting as it shows a Japanese writer engaging with Korean scenery and cultural elements (Arirang) during the colonial period. It reflects a certain romanticized, perhaps slightly melancholic, view of Korea prevalent among some Japanese intellectuals, focusing on natural beauty and folk traditions while subtly hinting at underlying sadness ("Even if the rain clears, my heart likely won't").
+
+**Named Entities**
+
+白鳥省吾	しらとり しょうご	Shiratori Shōgo
+綾羅島	りょうらとう	Ryōratō (Nŭngna Island)
+大洞江	だいどうこう	Daidōkō (Taedong River)
+アリラン	アリラン	Arirang
+
+**Glossary**
+
+泣く	なく	To cry, weep
+別ら	わから	To part, separate (likely colloquial/poetic form of 別れる - wakareru)
+煙ぶる	けぶる	To smoke, smolder; here, to look hazy or misty like smoke
+霞む	かすむ	To be hazy, misty, blurred
+綾羅島	りょうらとう	Ryōratō (Nŭngna Island)
+字	じ	Character, letter
+繰り言	くりごと	Repetitive talk, grumbling, complaint (likely intended by 繰りごこ)
+啼く	なく	To sing (birds), cry, chirp
+永い	ながい	Long (older/poetic form of 長い)
+大やか	おおやか	Grand, magnificent (likely poetic/older form of 大様 -おおよう)
+大洞江	だいどうこう	Daidōkō (Taedong River)
+黑ぶね	くろぶね	Black boat/ship
+帆	ほ	Sail
+みどり	みどり	Green
+幻	まぼろし	Illusion, phantom, vision
+唄はう	うたおう	Let's sing (volitional form of 唄う - utau)
+柳かげ	やなぎかげ	Willow shade
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제10호
+발행일	1933년 10월 01일
+기사제목	海外詩人이 을픈 朝鮮情緖(1)
+필자	白鳥省吾
+기사형태	시
+
+海外詩人이 을픈 朝鮮情緖
+						白鳥省吾
+柳
+
+泣にて別らた 柳の 春の
+またも來たそ
+煙ぶる雨
+夢も霞むよ 綾羅島。
+水に字をかく柳の糸の＜118＞
+なにを 繰りごこ
+鳥が 啼く。
+柳 永うて日も 永い。
+
+流れゆるや大やか  大洞江の
+般は 黑ぶね
+帆も 黑い。
+柳みごりに 花赤い。
+
+雨は晴れても は晴れめ。
+虹は幻
+すぐ消える。
+アリラン唄はうよ柳かげ。
+＜118-119＞

@@ -1,0 +1,54 @@
+Magazine Title: 삼천리 제8권 제6호
+Publication Date: 1936년 06월 01일
+Article Title: 바람 (Wind)
+Author: 申不出
+Article Type: 시 (Poem)
+
+Wind
+						Sin Pulch’ul
+
+Saying, "If spring is to go, let the flowers go too,"
+The wind, with intention, shook every branch,
+Yet, unable to fathom that fellow’s vexed heart, it makes a fuss.
+
+The water carries the flowers, the flowers carry the spring,
+They go, and that's all; it's a matter to laugh off,
+What use is it to resent the silently blowing wind? <292>
+
+**Summary**
+
+This short poem personifies the wind as an agent ushering out spring by shaking flowers from the branches. The speaker observes the wind, attributing intention ("알심있어") to its actions but also describing it as vexed ("짜증내는") and making a fuss ("함내다"). Ultimately, the speaker concludes that the natural flow of water carrying flowers and spring away is inevitable and something to accept rather than blaming the wind. From a historical perspective, the poem, written during the colonial period, uses nature imagery common at the time. While seemingly a simple reflection on nature's cycles, the themes of unavoidable change, misunderstood intentions, and resignation towards powerful, seemingly arbitrary forces (like the wind) could potentially resonate with the socio-political atmosphere of Korea under Japanese rule, though any such interpretation remains subtle and implicit.
+
+**Named Entities**
+
+申不出	신불출	Sin Pulch’ul
+
+**Glossary**
+
+가라구서	가라고 해서	Saying "go" (Older form of -라고 해서)
+알심있어	알심 있어서	Being thoughtful; with intention/care (알심 suggests a core meaning or intention)
+거슬	것을	The thing that... (Object marker, older spelling of 것을)
+그냥반	그 양반	That person/fellow (Slightly archaic/colloquial term, here referring to the wind)
+함내다	함내다	To make a fuss, get angry (Potentially dialectal or archaic; 함 can mean anger/fuss)
+이어든	이거든	If it is...; since it is... (Older connective form)
+뭘하노	뭘 하겠는가	What use is it?; What can be done? (Archaic interrogative ending -노)
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제6호
+발행일	1936년 06월 01일
+기사제목	바람
+필자	申不出
+기사형태	시
+
+바람
+						申不出
+봄이 가려거든 꽃마저 가라구서
+바람이 알심있어 가지마다 흔든거슬
+그냥반 짜증내는 속 알길 없어 함내다
+
+물은 꽃을 실고 꽃은 다시 봄을 실고
+가니 그뿐이라 웃고말 일이어든
+말없이 부는 바람쯤 원망한들 뭘하노 <292>

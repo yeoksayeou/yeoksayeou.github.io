@@ -1,0 +1,58 @@
+Magazine Title: 삼천리 제5권 제9호
+Publication Date: 1933년 09월 01일
+Article Title: [秋江에 밤이 드니 물결이 자노매라…] ([Night falls on the autumn river, the waves are calm...])
+Author: 月山大君 (Wŏlsan Taegun)
+Article Type: 시 (Poem)
+
+月山大君 (Wŏlsan Taegun)
+Night falls on the autumn river (秋江),
+The waves are calm.
+I cast my fishing line,
+The fish do not bite.
+Only the indifferent moonlight fills [the boat],
+And I return with an empty boat. <31>
+
+**Summary**
+
+This short article presents a classic Korean *sijo* (poem) attributed to Prince Wolsan (Wŏlsan Taegun), a figure from the Joseon Dynasty. The poem depicts a quiet, perhaps melancholic scene of night fishing on an autumn river where the speaker catches no fish and returns with only moonlight filling the boat. For historians, the inclusion of this traditional Korean poem in a magazine published during the Japanese colonial period (1933) is notable. It represents the persistence of Korean cultural heritage and traditional aesthetics (nature, contemplation, subtle emotion) in print media, potentially serving as a quiet assertion of national identity amidst colonial pressures that often sought to suppress or marginalize Korean culture.
+
+**Named Entities**
+
+月山大君	월산대군	Wŏlsan Taegun
+
+**Glossary**
+
+秋江	추강	Autumn river
+밤	밤	Night
+물결	물결	Wave(s)
+자노매라	자노매라	Are calm / are asleep (archaic form of 자다 + declarative ending)
+낙시	낚시	Fishing; fishing line (older spelling/form of 낚시)
+드리오니	드리오니	Cast / lower (humble/archaic form of 드리다)
+고기	고기	Fish
+아니	아니	Not
+무노매라	무노매라	Do not bite (archaic form of 물다 + declarative ending)
+무심(無心)한	무심한	Indifferent; detached; unconcerned
+달빗	달빛	Moonlight (older spelling of 달빛)
+섯고	싣고	Fills; is loaded with (archaic spelling of 싣고)
+빈	빈	Empty
+배	배	Boat
+도로	도로	Back; again
+오노라	오노라	I come / I return (archaic declarative ending)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제9호
+발행일	1933년 09월 01일
+기사제목	[秋江에 밤이 드니 물결이 자노매라…]
+필자	月山大君
+기사형태	시
+
+月山大君
+秋江에 밤이 드니
+물결이 자노매라
+낙시 드리오니
+고기 아니 무노매라
+무심한 달빗만 섯고
+빈 배 도로 오노라. ＜31＞

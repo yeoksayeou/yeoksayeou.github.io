@@ -1,0 +1,64 @@
+Magazine Title: 三千里
+Publication Date: 1932년 03월 01일
+Article Title: 三千里「壁新聞」, 在滿遭難同胞近況 (Samch'ŏlli "Wall Newspaper," Recent Situation of Compatriots Suffering Disaster in Manchuria)
+Author: None Specified
+Article Type: 소식 (News)
+
+According to information recently received by the Manchurian Compatriots Problem Consultation Committee, the number of people housed in various camps across Manchuria is approximately 14,189. The food supply situation differs in each camp, but generally, 4 or 5 *chŏn* up to 7 or 8 *chŏn* per person per day is provided, allowing each individual to eat as they wish. The foodstuffs are said to be sorghum (高粱) and millet (栗). Due to the lack of medical treatment in each camp, leprosy patients (나병자) are appearing one after another. Regarding the trend of illnesses, deaths from infectious diseases such as measles (痲疹) and pneumonia (폐염) already number in the hundreds. Mr. Kim Tak-wŏn, urgently dispatched just now by the Kyŏngsŏng Manchurian Compatriots Problem Consultation Committee, is reportedly striving to provide circuit medical treatment. <54>
+
+**Summary**
+
+This news brief from March 1932 reports on the dire conditions faced by approximately 14,189 Korean refugees housed in camps across Manchuria. Food rations are meager (4-8 *chŏn* daily per person, consisting mainly of sorghum and millet), and inadequate medical care has led to outbreaks of infectious diseases like measles and pneumonia, resulting in hundreds of deaths. Leprosy cases are also reported. Relief efforts include the dispatch of Mr. Kim Tak-wŏn by the Seoul-based Manchurian Compatriots Problem Consultation Committee to provide medical assistance. For historians, this article offers a stark glimpse into the humanitarian crisis affecting Korean migrants and refugees in Manchuria during a period of significant upheaval (following the Mukden Incident of 1931), highlighting their vulnerability, the inadequate relief infrastructure, and early organized responses from Korea. The mention of specific diseases and death tolls provides concrete data on the severity of the situation.
+
+**Named Entities**
+
+滿洲	만주	Manju
+滿洲同胞問題協議會	만주동포문제협의회	Manju Tongp'o Munje Hyŏbŭihoe
+京城	경성	Kyŏngsŏng
+金鐸遠	김탁원	Kim Tak-wŏn
+
+**Glossary**
+
+壁新聞	벽신문	Wall newspaper (a type of public bulletin)
+在滿	재만	Located in Manchuria
+遭難	조난	Suffering disaster/calamity
+同胞	동포	Compatriots (fellow countrymen)
+近況	근황	Recent situation
+協議會	협의회	Consultation committee/council
+수용소	수용소	Camp (detention/refugee)
+인원	인원	Number of people; personnel
+식량	식량	Food supplies; provisions
+공급	공급	Supply; provision
+各異하다	각이하다	To differ from each other
+일일	일일	Daily; per day
+錢	전	Chŏn (a unit of currency, 1/100th of a Won)
+每人前	매인전	Per person (older phrasing)
+지급하야	지급하여	To provide; pay (older spelling/form of 하여)
+隨意	수의	As one pleases; arbitrarily
+高粱	고량	Sorghum
+栗	율	Chestnut (likely used here to mean Millet 粟 '조')
+不備	불비	Lack; inadequacy; deficiency
+나병자	나병자	Leprosy patient
+속출	속출	Appearing/occurring one after another; in succession
+병세	병세	Condition of an illness
+동향	동향	Trend; tendency
+전염병	전염병	Infectious disease; epidemic
+痲疹	마진	Measles
+폐염	폐염	Pneumonia (older term/spelling for 폐렴)
+벌서	벌써	Already (older spelling)
+算하다	산하다	To count; calculate
+급파	급파	Urgent dispatch
+순회	순회	Circuit tour; round trip
+노력중	노력중	In the middle of making an effort
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제3호
+발행일	1932년 03월 01일
+기사제목	三千里「壁新聞」, 在滿遭難同胞近況
+기사형태	소식
+
+三千里「壁新聞」, 在滿遭難同胞近況
+최근 滿洲同胞問題協議會에 드러온 정보에 의하면 滿洲각지 수용소에 수용된 인원이 약 14,189명인데 식량공급상황은 각 수용소가 各異하나 대개는 일일 4, 5錢으로부터 7, 8錢을 每人前에 지급하야 각자가 隨意대로 먹게 하는 바 식료는 高粱(수수), 栗 등이라 하며 각 수용소에 치료의 不備로 나병자가 속출하는데 병세의 동향은 전염병으로 痲疹, 폐염 등 사망자가 벌서 수백을 算한다 하며 방금 京城滿洲同胞問題協議會에서 급파한 金鐸遠씨는 순회 치료에 노력중이라 한다.＜54＞

@@ -1,0 +1,60 @@
+**Header Section**
+Magazine Title: 삼천리 第六卷 第五號 (Samch'ŏlli Vol. 6, No. 5)
+Publication Date: 1934년 05월 01일 (May 1, 1934)
+Article Title: 離婚料 三萬五千圓 (Divorce Settlement of 35,000 Won)
+Author: Not specified
+Article Type: 잡저 (雜著 - Miscellany/Feature Article)
+
+**Body Text Translation**
+Divorce Settlement of 35,000 Won
+A Curious Lawsuit Has Been Filed
+
+Let's recount the surprising story that a divorce costs 48,000 Won. A 26-year-old woman named Kim Ch'aejang, living in Kaech'ŏn, South P'yŏngan Province, married a young man from the same village named Yi Kunbyŏng. However, after the husband studied abroad in Tokyo and returned, their relationship deteriorated. The husband came to dislike his wife and went to Wŏnsan, where he began living with another woman. Consequently, they unavoidably decided to divorce. The condition at that time was that he would pay her 100 Won each month until she turned 65. This amounts to 48,000 Won for the 40 years after the divorce, but it is said that he has not fulfilled this obligation even once. Recently, she filed a lawsuit in court against her former husband, that young man, seeking 35,000 Won, the amount covering 29 years and 2 months until she turns 55. One wonders how the judgment will turn out.<38>
+
+**Summary**
+
+A woman named Kim Ch'aejang from Kaech'ŏn sued her ex-husband, Yi Kunbyŏng, for failing to pay alimony agreed upon during their divorce. Yi, after returning from studying in Tokyo, left Kim for another woman in Wŏnsan. The divorce agreement stipulated he pay 100 Won monthly until Kim turned 65 (totaling 48,000 Won over 40 years). Having received no payments, Kim is now suing for 35,000 Won, covering the period until she turns 55. The article highlights a significant legal dispute over a large sum of money related to divorce and alimony promises in colonial Korea. Historians might find this case interesting for insights into changing marital norms, the legal recourse available to women regarding divorce settlements, the economic value assigned (35,000-48,000 Won was a fortune), and the social backdrop involving overseas study (Tokyo) and subsequent marital breakdown during the colonial period.
+
+**Named Entities**
+
+平南 价川	평남 개천	P'yŏngnam Kaech'ŏn
+金采璋	김채장	Kim Ch'aejang
+李君丙	이군병	Yi Kunbyŏng
+東京	동경	Tonggyŏng (Tokyo)
+元山	원산	Wŏnsan
+裁判所	재판소	Chaep'anso (Courthouse/Court)
+
+**Glossary**
+
+離婚料	이혼료	Divorce settlement money, alimony (Hanja form)
+提起되엇다	제기되었다	Was filed, was raised (older spelling '되엇다' for 되었다)
+이약이	이야기	Story, talk (older spelling)
+안해	아내	Wife (common older term)
+실혀해서	싫어해서	Disliking, hating (older spelling/form '실혀하다' for 싫어하다)
+도라오자	돌아오자	Upon returning (older spelling '도라오다' for 돌아오다)
+조치 못하야	좋지 못하여	Being not good, having a bad relationship (older spelling/form '조치 못하다' for 좋지 못하다)
+同居生活	동거 생활	Living together, cohabitation
+不得已	부득이	Unavoidably, inevitably
+매월 100원식	매월 100원씩	100 Won each month (older particle '식' for 씩)
+주기로 하엿다	주기로 하였다	Promised to give (older spelling '하엿다' for 하였다)
+履行하지 안엇다고	이행하지 않았다고	(He) did not fulfill/pay (older negative form '안엇다' for 않았다)
+요지음에 이르러	요즈음에 이르러	Recently, nowadays (older form '요지음' for 요즈음)
+예전 남편이든	예전 남편이었던	Who was the former husband (older form '이든' for 이었던)
+거러	걸어	Against (in the context of filing a suit against someone)
+請求訴訟	청구 소송	Claim lawsuit
+엇지될는지	어찌 될는지	How it will turn out (older spelling '엇지' for 어찌)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제5호
+발행일	1934년 05월 01일
+기사제목	離婚料 三萬五千圓
+기사형태	잡저
+
+離婚料 三萬五千圓
+珍訴訟이 提起되엇다
+
+離婚하자면 48,000원이 든다는 놀나운 이약이를 적어보면 平南 价川 사는 金采璋이라는 26에 나는 여성은 그 동리 李君丙이란 청년과 결혼하엿스나 남편이 東京留學하고 도라오자 사이가 조치 못하야 남편은 안해를 실혀해서 元山가서 다른 여성과 同居生活을 하엿다. 그래서 不得已 離婚하기로 하엿는데 그때 조건이 65세를 먹기까지 매월 100원식 주기로 하엿다. 그런 것이 離婚后 40년분 48,000원 중 한 번도 履行하지 안엇다고 요지음에 이르러 예전 남편이든 그 청년을 거러 55세까지 29년 2개월분 35,000원의 請求訴訟을 裁判所에 제기하엿다는데 그 판결이 엇지될는지.<38>
+<38>

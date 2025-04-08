@@ -1,0 +1,66 @@
+Magazine Title: 삼천리 제12권 제8호
+Publication Date: 1940년 09월 01일
+Article Title: 創氏(全鮮)六割三分 突破, 戶數로는 二百七十萬戶, 8月 12日 現在의 總計 (Name Changing (All Korea) Breaks 63%, Reaches 2.7 Million Households, Total as of August 12th)
+Author: Not specified
+Article Type: 소식 (News)
+
+**Body Text Translation**
+
+Name Changing (創氏)
+
+The changing of names (創氏, Sōshi), for which the deadline is this coming August 10th, is currently seeing a flood of submissions across various regions, putting the city, town, and village offices (府邑面, Pu-Ŭp-Myŏn) handling them in a state of frantic busyness. According to a recent investigation by the Government-General's Legal Affairs Bureau (總督府 法務局), an excellent result was shown with over one million households having already completed the process as of the end of June.
+
+That is, the actual number as of the end of June reached 1,078,690 households, which translates to 5,932,795 individuals. Compared to the total number of households in all of Korea (朝鮮), which is 4,274,239, the number of name changes by the end of June indeed exceeds 25 percent (二割五分).
+
+Of course, this is the precise number clearly submitted and recorded in the family registers (戶籍, Hojŏk). Furthermore, considering those submissions actually received by the city, town, and village offices but not yet entered, and those not formally registered in the Hojŏk due to lack of manpower, the actual number is expected to be much higher than this figure.
+
+The reason for the sudden increase in the number of name changes lately is said to be because many from the upper class (上層階級), meaning the leadership class (指導者階級) or the intelligentsia (『インテリ』階級), have changed their names. Regarding the forecast for name changes up to the final deadline of August 10th, the legal affairs authorities state the following:
+
+The sharp increase in name changes among the upper class is a very welcome phenomenon, indicating that the name-changing system has been thoroughly understood across all strata. Furthermore, the number of submissions has increased even more sharply since late May, averaging 180,000 households every ten days. If this trend continues, it is calculated that another 720,000 households will submit by August 10th. However, as there is information suggesting submissions will rush in all at once as the deadline nears, we believe considerably more will be submitted. Also, although it is rumored in some quarters that the submission deadline of August 10th might be extended, there will absolutely be no such thing. <139>
+
+**Summary**
+
+This news article from September 1940 reports on the progress of the mandatory name-changing policy (Sōshi-kaimei) imposed by the Japanese colonial government in Korea. It highlights that by the end of June 1940, 25% of Korean households (over 1 million) had officially registered new Japanese-style names, with the total expected to reach 63% (2.7 million households) by the August 10th deadline, based on current trends and anticipated last-minute rushes. The article emphasizes the "welcome" participation of the Korean upper class and intelligentsia as proof of the policy's acceptance and firmly denies rumors of a deadline extension. For historians, the article is revealing of the colonial administration's propaganda efforts, using statistics to portray the deeply unpopular assimilation policy as a success willingly embraced, particularly by elites. It also shows the administrative pressure exerted through deadlines and the dismissal of any possibility of leniency.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+總督府 法務局	총독부 법무국	Government-General Legal Affairs Bureau
+府邑面	부읍면	Pu-Ŭp-Myŏn (City, Town, Village level administrative units)
+
+**Glossary**
+
+創氏	창씨	Name changing; specifically, the Japanese policy forcing Koreans to adopt Japanese-style family names (Sōshi-kaimei).
+全鮮	전선	All Korea; referring to the entire Korean peninsula under Japanese rule.
+六割三分	육할삼푼	63 percent (using traditional Sino-Korean number units for proportion: 割=10%, 分=1%).
+戶數	호수	Number of households.
+總計	총계	Grand total.
+게출자	게출자	Submitter, applicant (older form/spelling of 제출자).
+부읍면	부읍면	Administrative units: Bu (city), Ŭp (town), Myŏn (village).
+안비막개	안비막개	(Idiomatic expression) State of being extremely busy, frantic busyness.
+총독부 법무국	총독부 법무국	Government-General Legal Affairs Bureau (the legal branch of the Japanese colonial administration in Korea).
+수효	수효	Number, count (older spelling/form of 수요).
+호적	호적	Family register system (Hojŏk).
+활	활	Unit representing tenths (e.g., 2활 5부 = 2.5 tenths = 25%).
+상층게급	상층계급	Upper class (older spelling '게급' for 계급).
+인테리	인테리	Intelligentsia (loanword from Russian/Japanese).
+막음기한	막음기한	Deadline (lit. 'closing deadline').
+격증	격증	Sharp increase, surge.
+쇄도	쇄도	Flood, rush, inundation (of submissions).
+전파	전파	Spread (of rumors).
+
+
+---------------------------
+
+
+잡지명	삼천리 제12권 제8호
+발행일	1940년 09월 01일
+기사제목	創氏(全鮮)六割三分 突破, 戶數로는 二百七十萬戶, 8月 12日 現在의 總計
+기사형태	소식
+
+創氏
+오는 8월 10일까지를 막음기한으로 한 각지의 창씨(創氏)는 지금 한창 게출자가 많어서 이것을 취급하는 부읍면에서는 안비막개의 분망상태인데 최근 총독부 법무국 조사에 의한 6월말일 현재로 이미 백만호를 돌파한 훌륭한 성적을 보히고 있다.
+즉 6월말 현재의 실제 수효를 보면 1백7만8천6백90호에 달하고 있으며 인구로 치면 5백93만2천7백95인으로 조선 전체 호수 4백27만4천2백39호에 비하면 6월말까지에 창씨 수효는 실로 2활5부를 넘고 있다.
+물론 이것은 호적상에 뚜렷이 게출기입된 엄정한 수자이오 거기에 다시 부읍면에서 실제 게출을 받고 있기는 하지만 채 기입을 하지 못한 것과 손이 모자라 정식으로 호적에 올리지 못한 것을 합하면 훨신 이 수자보다 많어지리라는 것이다.
+이렇듯 요새 와서 갑작이 창씨의 수효가 많은 것은 상층게급 즉 지도자게급과 또는 『인테리』게급에서 창씨한 이가 많은 까닭이라 하며 최후 막음기한이 8월 10일까지의 창씨예상에 대하여 법무당국에서는 다음과 같이 말한다.
+상층게급에서 창씨하는 사람이 격증한 것은 창씨제도가 각층에 골고루 이해된 것으로서 대단 반가운 현상이다. 더욱 5월 하순부터 일층 게출건수가 격증하여 열흘동안에 평균 18만호에 달하므로 이대로 가면 8월 10일까지에는 72만호가 더 게출할 게산이나 기한이 절박하면 게출이 한거번에 쇄도하리라는 정보가 있으므로 훨신 더 많이 게출할 줄 믿는다. 그리고 일부에서는 8월 10일의 게출기한을 연장하는 듯이 전파되고 있으나 절대로 그런 일은 없다.  ＜139＞

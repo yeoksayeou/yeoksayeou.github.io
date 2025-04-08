@@ -1,0 +1,79 @@
+Magazine Title: 三千里 제1호
+Publication Date: 1929년 06월 12일
+Article Title: 編輯後記 (Editor's Postscript)
+Author: 파인 (P'ain)
+Article Type: 사고·편집후기 (Notice/Editor's Postscript)
+
+Because of the three difficulties—difficulty obtaining manuscripts (原稿難), difficulty managing (經管難), and difficulty with censorship (檢閱難)—dozens of publications, such as the newspaper *Sidae Ilbo* (時代日報) and the magazines *Hyŏndae P'yŏngnon* (現代評論), *Tonggwang* (東光), *Chosŏn Mundan* (朝鮮文壇), and *Ch'ŏngch'un* (靑春), have collapsed. Witnessing this tragic historical scene, we (*Samch'ŏlli*) now come forth into the world. Perhaps you'll call it reckless, but what grandeur or satisfaction is there in doing only what can be done? Is it not in doing the impossible that development occurs and profound meaning is found?
+
+Therefore, we do not necessarily promise longevity, but instead, for the duration of our publication, we will strive to make it brilliant and valuable. Furthermore, we do not seek tens of thousands of readers, but hope for even just one or two true friends who will genuinely cherish and read our work. (16 lines omitted - original text)
+
+The clear responses from the gentlemen of the literary world regarding the points of difference and agreement between national literature (民族文學) and proletarian literature (無産文學) in the literary section will surely be epoch-making, valuable opinions in the history of our literary movement. We believe that from this, our literary movement will leap further forward and become even more brilliant. And we know that the newly selected Eight Scenic Views of the Peninsula (半島八景) is also a grand undertaking that will leave its mark upon our memory.
+
+Because time was pressing and manuscripts did not arrive well from those who were asked, the inaugural issue seems to have turned out weaker than expected, but we know that even this much is not shameful to others. For the next issue, we intend to make truly sufficient preparations and attempt a fine editing job. (P'ain) <50>
+
+**Summary**
+
+The editor reflects on the challenging publishing environment in colonial Korea, citing manuscript acquisition, management, and censorship as major hurdles that led to the failure of many contemporary publications. Despite these difficulties, the editor launches *Samch'ŏlli* (三千里) magazine, not aiming for mass readership or guaranteed longevity, but focusing on producing quality content and finding sincere readers. The postscript highlights key features of the first issue, including a discussion on national versus proletarian literature, deemed historically significant, and a feature on the "Eight Scenic Views of the Peninsula." The editor apologizes for the first issue's perceived weaknesses due to time constraints and promises improvements. For historians, this postscript offers insight into the precarious conditions of Korean publishing under Japanese rule, specifically mentioning censorship (檢閱難), the ideological debates within the literary scene (national vs. proletarian literature), and the cultural aspirations represented by features like the "Eight Scenic Views." The mention of specific failed publications provides context for the media landscape of the late 1920s.
+
+**Named Entities**
+
+時代日報	시대일보	Sidae Ilbo
+現代評論	현대평론	Hyŏndae P'yŏngnon
+東光	동광	Tonggwang
+朝鮮文壇	조선문단	Chosŏn Mundan
+靑春	청춘	Ch'ŏngch'un
+半島	반도	Pando (Korean Peninsula)
+파인	파인	P'ain
+
+**Glossary**
+
+編輯後記	편집후기	Editor's Postscript
+原稿難	원고난	Difficulty obtaining manuscripts
+經管難	경관난	Difficulty managing/financing
+檢閱難	검열난	Difficulty with censorship
+너머젓섯다	넘어졌었다	Collapsed, fell down (older spelling/past perfect form)
+慘景	참경	Tragic scene/sight
+나왓다	나왔다	Came out (older spelling)
+無謀하다	무모하다	To be reckless
+할넌지	할는지	Whether one might say (older conjectural ending)
+깁흔	깊은	Deep (older spelling)
+期約하지	기약하지	To promise, anticipate
+둥안까지는	동안까지는	For the duration (older spelling)
+빗나게	빛나게	Brilliantly
+갑잇게	값있게	Valuably (older spelling)
+조흐니	좋으니	As it is good (older spelling)
+眞情	진정	Sincerity, true feeling
+참벗	참벗	True friend
+文藝欄	문예란	Arts/Literary section
+民族文學	민족문학	National literature
+無産文學	무산문학	Proletarian literature
+文檀諸氏	문단제씨	Gentlemen/figures of the literary world (檀 used for 壇)
+明答	명답	Clear answer/response
+劃時期的	획기적인	Epoch-making
+빗잇서질	빛 있어질	Will become brilliant/shining (older spelling/construction)
+밋는	믿는	Believing (older spelling)
+新選한	신선한	Newly selected
+半島八景	반도팔경	Eight Scenic Views of the Peninsula
+자최를	자취를	Trace, footprint (older spelling)
+壯擧	장거	Grand undertaking
+促迫하고	촉박하고	To be pressing, urgent
+付扥한	부탁한	Requested (扥 is a variant/old form of 託)
+創刊號	창간호	Inaugural issue
+貧弱하여	빈약하여	To be poor, weak, meager
+붓그럽지	부끄럽지	Not shameful/embarrassing (older spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제1호
+발행일	1929년 06월 12일
+기사제목	編輯後記
+기사형태	사고·편집후기
+
+編輯後記
+原稿難, 經管難, 檢閱難의 三難 때문에 新聞으로는 時代日報 雜誌로는 現代評論, 東光, 朝鮮文壇, 靑春 等 數十誌가 너머젓섯다. 이러한 歷史的 慘景을 바라보면서 우리(三千里)는 이에 세상에 나왓다. 無謀하다 할넌지 그러나 될 일을 하는 것이야 무엇이 壯하고 快하랴 안될 일을 하는 것에서 發展이 잇고 비로소 깁흔 뜻이 잇는 것이 아닐가.
+그러기에 우리는 반드시 長壽하기를 期約하지 안으나 그 代身 發行하는 둥안까지는 빗나게 갑잇게 하려 애쓰며 또 讀者의 數萬을 求하지 안으나 한 두분이라도 조흐니 眞情으로 愛讀하여 주는 참벗이 잇기를 期待한다. (16行畧-원문)
+文藝欄의 民族文學과 無産文學의 差異点과 合致点에 대한 文檀諸氏의 明答은 우리 文藝運動史上의 劃時期的 貴重한 意見이리라. 이에서부터 우리 文藝運動은 더욱 飛躍하여지고 더욱 빗잇서질 것을 밋는 바이다. 그러고 新選한 半島八景도 우리 記憶 우에 자최를 남길 壯擧인 줄 아노라.
+時日이 促迫하고 또 付扥한 분으로부터 原稿가 잘 모이지 안엇든 關係로 豫想보다는 創刊號가 貧弱하여 진 듯하나 이만하여도 남에게 붓그럽지 안을 줄 안다. 이 다음 號에는 實로 充分한 準備를 다하여 조흔 編輯을 하여 보려 한다. (파인) ＜50＞

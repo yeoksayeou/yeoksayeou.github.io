@@ -1,0 +1,61 @@
+**Header Section:**
+Magazine Title: 三千里 제16호
+Publication Date: 1931년 06월 01일
+Article Title: 前進曲 (Marching Song)
+Author: 鄭振鐸
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Marching Song
+						Chŏng Chint'ak
+
+Forward! Forward! Forward!
+Light up! Our Torches (炬火)
+Ring out! Our iron gongs
+Hoist! Our banners
+Set up! Our Red Flags (紅旗)
+
+Forward! Forward! Forward!
+We are an isolated detachment (一支隊), but
+We have countless reinforcements (後衛) behind us.<54>
+
+**Summary**
+
+This short, repetitive poem titled "Marching Song" is a powerful call to action. Using imperatives, it urges the lighting of torches, ringing of gongs, hoisting of banners, and setting up of red flags, all under the cry of "Forward!". It acknowledges the current isolation of the group ("an isolated detachment") but asserts confidence in future support ("countless reinforcements"). For historians, the poem is interesting as an example of potentially revolutionary or strongly nationalistic/leftist sentiment appearing in a mainstream Korean magazine during the Japanese colonial period. The use of imagery like torches and red flags, the militant tone, and its publication date (1931) could reflect the influence of international leftist movements (especially given the author is likely the prominent Chinese leftist writer Zheng Zhenduo) or suppressed Korean aspirations. Its presence raises questions about censorship and the circulation of such ideas in colonial Korea.
+
+**Named Entities**
+
+鄭振鐸	정진탁	Chŏng Chint'ak (Korean reading; likely the Chinese author Zheng Zhenduo)
+
+**Glossary**
+
+前進曲	전진곡	Marching Song
+炬火	거화	Torch (Hanja term, 횃불 is more common now)
+쇠북	쇠북	Iron drum, gong (Native Korean word)
+들녀라	들려라(?)	Hoist! / Raise high! (Seems an archaic or non-standard imperative form, possibly related to 들다 - to lift/raise)
+마치	마치	Banner / Standard (Meaning is somewhat ambiguous in context; could refer to the march itself or a symbol thereof)
+紅旗	홍기	Red Flag
+一支隊	일지대	One detachment, a single unit
+後衛	후위	Rear guard, reinforcements
+잇다	있다	To exist, to be present (Older spelling of 있다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제16호
+발행일	1931년 06월 01일
+기사제목	前進曲
+필자	鄭振鐸
+기사형태	시
+
+前進曲
+						鄭振鐸
+前進! 前進! 前進!
+불켜라. 우리들의 炬火에
+울려라. 우리들의 쇠북을
+들녀라 우리들의 마치를
+세워라 우리들의 紅旗를
+前進! 前進! 前進!
+우리들은 孤立된 一支隊다, 그러나
+우리들에게는 無數한 後衛가 잇다.＜54＞

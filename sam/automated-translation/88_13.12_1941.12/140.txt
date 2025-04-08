@@ -1,0 +1,159 @@
+**Header Section:**
+Magazine Title: 삼천리 제13권 제12호
+Publication Date: 1941년 12월 01일
+Article Title: (經濟講座)戰時 金融政策과 國民貯蓄, 誌上文化講座(第二回), 延禧專門學校敎授篇 ((Economics Lecture) Wartime Financial Policy and National Savings, Magazine Culture Lecture (Part 2), Yŏnhŭi Professional School Professor Edition)
+Author: 延專商科 科長 金孝祿 (Kim Hyo-rok, Head of Commerce Department, Yŏnhŭi Professional School)
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation:**
+
+Kim Hyo-rok, Head of Commerce Department, Yŏnhŭi Professional School
+Special Feature: (Science) Natural Science Methods and Spirit - Professor Han In-sŏk, Science Department
+(Economics) Wartime Financial Policy and Savings - Head Kim Hyo-rok, Commerce Department
+(Religion) Methods of Religious Recognition - Head Kal Hong-gi, Religion Department
+(Physical Education) Nationalist Physical Education and Welfare - Head Yi Un-yong, Physical Education Department
+
+Our company has mobilized the professorial staff of the peninsula's highest academic institutions to specially establish and publish a monthly magazine culture lecture series. The first installment, featuring the professors of Ewha Womans Professional School, was published as a special feature in last month's issue, and this second installment features the professors of Yŏnhŭi Professional School. Going forward, we will continue to mobilize the professorial ranks of various schools such as Posŏng Professional School, Keijō Imperial University, Severance Union Medical College Professional School, Hyehwa Professional School, etc. (Samch'ŏlli Editorial Bureau) <97>
+
+(Economics Lecture) Wartime Financial Policy and National Savings
+Kim Hyo-rok, Head of Commerce Department, Yŏnhŭi Professional School
+
+1. The main objectives of wartime financial policy are, needless to say, to facilitate the procurement of war funds (戰費) smoothly so that there is no hindrance to prosecuting the war, and to recover government funds dispersed into the market as quickly as possible to prevent the occurrence of inflation beforehand. The main methods currently adopted by various countries worldwide for procuring war funds include issuing public bonds (公債) and increasing taxes (增稅). Among these, regarding public bond issuance, there are methods such as general public offering (一般公募), where the government issues bonds directly to the general populace, and central bank underwriting (中央銀行引受), where the central bank is made to underwrite a certain amount of bonds the government intends to issue. Whichever method is taken, the government can procure the necessary funds. However, when adopting the latter method, central bank underwriting, an amount equivalent to the public bonds underwritten by the central bank induces currency expansion (通貨의 增發), creating the risk of inflation. To prevent this inflation, appropriate measures must be devised to withdraw the expanded currency while also shortening the period the currency stays in the market as much as possible. However, war funds, regardless of time or place, are urgently needed and required in vast amounts (巨額). Therefore, most of it must be procured through the issuance of public bonds, <98> and most of that bond issuance must inevitably rely on the central bank underwriting method. This is something we witnessed in World War I and the current World War, and it is a well-known fact (周知의 事實) that Our Empire (我帝國), currently under a wartime footing (臨戰體制下), also depends on this method. Whether to procure war funds through public bonds or tax increases is a matter to be decided based on each country's national circumstances (國情), as each has its pros and cons. It is proven by facts that the policies adopted by various countries in the current Great War also differ. Leaving aside examples from other countries, Our Empire has mainly adopted the method of issuing public bonds since the Incident (事變). However, as the war situation has become prolonged (長期化), the method of tax increases has also come to be used concurrently (倂用) with bond issuance. That a major tax increase plan (大增稅案) is soon to be implemented (實施) is something we sufficiently know from the newspapers, but we will defer discussion on this issue to another opportunity.
+
+2. As explained above, the main objectives of wartime financial policy are war fund procurement and inflation prevention. Since the primary method of war fund procurement lies in central bank-underwritten public bond issuance, a way to understand the outline of wartime financial policy is to first comprehend the channels (流路) through which government funds dispersed to the private sector via bond issuance flow out (撒出), how these dispersed funds permeate (滲透) the national economic body, and also by what methods they are recovered (還流). Therefore, let me briefly explain the channels of government funds as follows:
+(a) First, when the government intends to issue a certain amount of public bonds, it has the central bank, namely the Bank of Japan (日本銀行), underwrite the entire amount. The underwritten amount is not immediately paid in cash to the government by the Bank of Japan but is recorded as a transfer (振替記入) to the government's deposit account at the Bank of Japan, allowing the government to achieve its purpose by issuing (進出) checks drawn on the Bank of Japan (日本銀行宛小切手) whenever it needs the funds.
+(b) Then, when the government actually needs funds, for example, when it requires payment of dues (代金支佛) after having munitions producers (軍需品生産者), other producers, and merchants deliver goods (物品), the government issues checks drawn on the Bank of Japan, having the Bank of Japan make the payment.
+(c) Consequently, the Bank of Japan issues and delivers new currency (新通貨) to the munitions producers, other producers, and merchants, thereby dispersing that amount of new currency into the market. In this way, <99> the producers or merchants who receive the new currency from the Bank of Japan use a portion of it to cover the purchase of domestic materials (國內資材), rent (地代), interest (利子), wages (賃金), profit (利潤)*, etc. If domestic materials alone are insufficient, they inevitably use another portion to cover the purchase of imported materials (輸入資材). Among these, the portion allocated to rent, interest, wages, profit, etc., immediately constitutes income for the various related parties (關係者) involved in the payment, thus representing that much of an increase in national income (國民所得). The portion allocated to the purchase of domestic materials also gets successively distributed (逐次分解) to those directly or indirectly involved in the production of these materials, eventually forming national income.
+(d) Next, the portion allocated to the purchase of imported materials passes through the hands of importers (輸入業者). A part of it, of course, becomes the importers' income, and another part is concentrated in exchange banks (爲替銀行) to pay for import bills (輸入爲替代金).
+(e) The currency thus concentrated in the exchange banks then moves from the exchange banks' hands into the hands of exporters (輸出業者) for the purchase (買入) of export bills (輸出手形). The currency that enters the exporters' hands is distributed as income to businesses directly or indirectly related to exporting, eventually becoming an increase in national income.
+(f) If imports and exports are balanced, the above phenomenon occurs. However, if imports exceed exports, the exchange bank must receive a disbursement (拂下) of gold from the government's Gold Fund Special Account (金資金特別會計) and remit it in cash (現送). Due to this relationship, the corresponding currency moves from the exchange bank to the Gold Fund Special Account. The currency moved to the Gold Fund Special Account is then paid to gold producers (産金業者) as payment for gold purchases (金買上代金). This too is successively distributed as income to those directly or indirectly related to the gold production industry, thereby increasing national income by that amount.
+
+3. Based on the explanation above, I believe you roughly understand the principle (理致) that new currency dispersed from the government to the private sector, despite variations in the length of the channels (流路) and the speed (遲速), ultimately increases national income. Furthermore, it is a clear fact that the greater the government expenditure, the more national income increases, and when the procurement method is central bank-underwritten public bond issuance, the circulation of new currency will also increase accordingly. Now, when such a large amount (巨額) of currency is dispersed from the government's hands into the private sector, increasing national income, what kind of impact does it have on the national economy as a whole? Of course, <100> when national income increases, the people's purchasing power (購買力) also increases in direct proportion (正比例). Therefore, if measures concerning this increase in purchasing power are mishandled, the impact on the economic world will indeed be profound (甚大). In other words, when the people's purchasing power increases due to income growth, it increases the demand for goods accordingly, and the increase in demand for goods becomes the most primary (主要) cause of price surges (物價騰貴).
+Furthermore, under a wartime system (戰時體制下), when the trend (趨勢) of increasing purchasing power is rapid (急激) alongside a shortage (缺乏) of goods, the phenomenon of so-called malignant inflation (惡性 인프렛숀) appears. Not only does the economic world fall into a state of chaos (混沌), but significant hindrances (支障) also arise in the execution (實行) of the government budget (豫算), ultimately causing difficulties (困難) in carrying out national policy (國策). Therefore, special attention (特別注意) is required in this regard.
+Conversely, if the increase in currency as national income is not used for purchasing goods but is deposited (預入) into financial institutions (金融機關) such as banks (銀行), trust companies (信託會社), and insurance companies (保險會社), it will increase national savings by that amount, clearly bringing about (齋來) favorable results for the national economy. In other words, when the new currency, which left the Bank of Japan due to government expenditure and was dispersed into the private sector, is concentrated in various financial institutions, and these institutions purchase the public bonds underwritten by the Bank of Japan with those funds, not only are the public bonds absorbed (公債消化), but that amount of new currency is recovered back to its starting point, the Bank of Japan. This plays a crucial role in preventing currency expansion (通貨의 膨脹) and checking (阻止) price surges. Also, when various financial institutions provide loans (貸出) or investments (投資) to munitions producers or other important industries, those funds ultimately fulfill a crucial duty (任務) for the expansion of production capacity (生産力擴充).
+Therefore, under the wartime footing financial policy, it is paramount to first suppress (極力抑壓) the floating purchasing power (浮動 購買力) of the populace, increased by the currency dispersed by the government, promoting thoroughness (徹底化) in consumption savings (消費 節約). At the same time, appropriate measures (適當한 方策) must be devised so that the increase in national income is entirely deposited and concentrated in financial institutions. In other words, not only should national savings be strongly encouraged (極力獎勵), but their realization (其實現) must be pursued (圖謀), even using compulsory means (强制的 手段), if necessary. From a national standpoint (國家的 立場), neither bond absorption nor production capacity expansion is unimportant. Financial policy must ensure these two aspects proceed in parallel (竝行) to achieve satisfactory (圓滿) results. However, it must be said that both bond absorption and production capacity expansion are immensely (莫大) influenced by national savings (이 국민저축 여하에 의하야 영향(이하 제117頁에 계속) <101>되는 바 막대하다고 하지 아니치 못할 것이다). Therefore, the government also sets annual target amounts (目標額) for national savings and encourages savings among the general populace, with the true intention (眞意) lying herein. The recent acute feeling (切實히 느끼게 되는 것) of the necessity (必要) for compulsory savings (强制貯蓄) also finds its fundamental reason (根本理由) here. Particularly, the 24,000,000 subjects (臣民) of the peninsula (半島), guarding the home front logistics base (銃後의 兵站基地), must accurately recognize (正確히 認識) the gravity of the current situation (時局의 重大性) and the true intention of national policy, unite as one (一致團結), and fully demonstrate (充分發揮) their total strength (總力). <117>
+
+**Summary**
+
+This 1941 article by Kim Hyo-rok, a professor at Yŏnhŭi Professional School, explains Japan's wartime financial policy. It details how the government finances the war primarily through public bonds underwritten by the Bank of Japan, leading to increased currency circulation and national income. The author warns of the danger of inflation caused by rising purchasing power and strongly advocates for national savings as the crucial mechanism to absorb excess currency, facilitate bond absorption, prevent inflation, and fund industrial expansion. The article emphasizes the necessity of savings, even hinting at compulsory measures, and concludes with a call for the Korean populace ("24,000,000 subjects of the peninsula") to understand the national policy and contribute their "total strength" to the war effort from the "home front logistics base."
+
+From a historical perspective, the article is revealing for its direct articulation of Japanese colonial economic policy during the height of the Pacific War, explicitly linking Korean savings mobilization to Japan's war financing and inflation control. The framing of Korea as a "home front logistics base" (銃後의 兵站基地) and the address to Koreans as "subjects" (臣民) underscore the colonial context and the expectation of Korean participation in Japan's war effort, particularly through economic means like enforced savings, which historians know became increasingly burdensome. The mention of mobilizing professors from top Korean schools (Yŏnhŭi, Ewha, Posŏng, Keijō Imperial University etc.) for propaganda like this "Magazine Culture Lecture" also highlights the co-option of Korean intellectuals into the colonial state apparatus.
+
+**Named Entities**
+
+延禧專門學校	연희전문학교	Yŏnhŭi Chŏnmun Hakkyo (Yŏnhŭi Professional School)
+金孝祿	김효록	Kim Hyo-rok
+韓仁錫	한인석	Han In-sŏk
+葛弘基	갈홍기	Kal Hong-gi
+李沄鎔	이운용	Yi Un-yong
+梨花女子專門學校	이화여자전문학교	Ihwa Yŏja Chŏnmun Hakkyo (Ewha Womans Professional School)
+普專	보전	Po Chŏn (Posŏng Professional School)
+京城帝大	경성제대	Kyŏngsŏng Chedae (Keijō Imperial University)
+世專	세전	Se Chŏn (Severance Union Medical College Professional School)
+惠專	혜전	Hye Chŏn (Hyehwa Professional School - likely intended)
+三千里編輯局	삼천리편집국	Samch'ŏlli Editorial Bureau
+日本銀行	일본은행	Nippon Ginkō (Bank of Japan)
+我帝國	아제국	A Jeguk (Our Empire - referring to the Empire of Japan)
+第一次世界大戰	제일차세계대전	Che-ilch'a Segye Taejŏn (World War I)
+今次大戰	금차대전	Kŭmch'a Taejŏn (This Great War - referring to WWII/Pacific War)
+金資金特別會計	금자금특별회계	Kŭmjagŭm T'ŭkpyŏl Hoegye (Gold Fund Special Account)
+半島	반도	Pando (Peninsula - referring to Korea)
+
+**Glossary**
+
+戰時	전시	Wartime
+金融政策	금융정책	Financial policy
+國民貯蓄	국민저축	National savings
+敎授	교수	Professor
+科長	과장	Department head
+特輯	특집	Special feature
+厚生	후생	Welfare
+編輯局	편집국	Editorial bureau
+戰費	전비	War expenses/funds
+調達	조달	Procurement; supply
+撒布	살포	Dispersal; scattering
+還流	환류	Reflux; flowing back; recovery (of funds)
+公債	공채	Public bonds
+增稅	증세	Tax increase
+中央銀行	중앙은행	Central bank
+引受	인수	Underwriting; taking over
+通貨	통화	Currency
+增發	증발	Expansion (of currency); increased issuance
+豫防	예방	Prevention (older form of 예방)
+回收	회수	Withdrawal; collection; recovery
+我帝國	아제국	Our Empire (referring to Japan)
+事變	사변	Incident (often refers to the Mukden Incident or the start of the Sino-Japanese War in 1937)
+倂用	병용	Using together; concurrent use
+實施	실시	Implementation; enforcement
+流路	유로	Channel; route
+撒出	살출	Dispersion; flowing out
+滲透	삼투	Permeation; infiltration
+振替記入	진체기입	Transfer entry (in accounting)
+宛小切手	완소절수	Check drawn on (宛 is 'addressed to', 小切手 is 'check')
+軍需品	군수품	Munitions; war supplies
+代金支拂	대금지불	Payment of price/charges (older form, now 대금지불)
+充當	충당	Allocation; appropriation
+爲替銀行	위체은행	Exchange bank (older form, now 외환은행)
+輸出手形	수출수형	Export bill/draft (手形 is bill/draft)
+買入	매입	Purchase
+拂下	불하	Disbursement; selling off (government property)
+現送	현송	Cash remittance
+産金	산금	Gold production
+購買力	구매력	Purchasing power
+物價騰貴	물가등귀	Price surge; soaring prices
+惡性 인프렛숀	악성 인프레션	Malignant/vicious inflation (Korean + English loanword)
+豫算	예산	Budget (older Hanja form of 예산)
+國策	국책	National policy
+信託會社	신탁회사	Trust company
+預入	예입	Deposit (in a bank)
+膨脹	팽창	Expansion; inflation
+阻止	조지	Prevention; obstruction
+貸出	대출	Loan; lending
+擴充	확충	Expansion; augmentation
+浮動	부동	Floating (as in uncommitted capital/purchasing power)
+抑壓	억압	Suppression; oppression
+徹底化	철저화	Making thorough
+獎勵	장려	Encouragement; promotion
+强制貯蓄	강제저축	Compulsory savings
+銃後	총후	The home front (literally 'behind the guns')
+兵站基地	병참기지	Logistics base; supply base
+臣民	신민	Subjects (of an empire/monarch)
+時局	시국	The current state of affairs; the times
+總力	총력	Total strength; all-out effort
+發揮	발휘	Display; demonstration (of power/ability)
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제12호
+발행일	1941년 12월 01일
+기사제목	(經濟講座)戰時 金融政策과 國民貯蓄, 誌上文化講座(第二回), 延禧專門學校敎授篇
+필자	延專商科 科長 金孝祿
+기사형태	논설
+
+延專商科 科長 金孝祿
+特輯 (科學) 自然科學方法과 精神 理科 敎授 韓仁錫,
+(經濟) 戰時金融政策과 貯蓄 商科 科長 金孝祿
+(宗敎) 宗敎的認識의 方法 宗敎科 科長 葛弘基
+(體育) 國家主義體育과 厚生 體育科  科長 李沄鎔
+본사에서는 반도의 최고학부 교수진을 동원하여 매월 계속해서 誌上 문학강좌를 특설 발간하옵는 바, 第一着으로 이미 梨花女子專門學校 敎授篇을 前月 호에 특집하였사오며, 제이착으로 延專敎授篇을 꾸미였나이다. 앞으로 계속하여 普專, 京城帝大, 世專, 惠專 等 諸校의 敎授陣 諸氏를 동원하겠나이다.(三千里編輯局)＜97＞
+
+(經濟講座)戰時 金融政策과 國民貯蓄
+延專商科 科長 金孝祿
+
+1. 戰時金融政策의 주요한 목표는 두말할 것도 없이 戰費의 조달을 원활히하야 전쟁을 遂行함에 支障이 없도록 하며 시장에 撒布된 정부자금을 할 수 있는대로 속히 還流시켜 인프렛숀의 발생을 미연에 방지함에 있다고 할 것이다. 그리고 戰費調達의 방법으로 現今 세계각국이 採用하고 있는 주요한 방법으로는 公債를 발행하는 것과 增稅의 두 가지를 들을 수 있으며 그중 公債發行에 대하여서도 一般公募 卽 정부가 일반 민중에 대하야 공채를 직접 발행하는 방법과 중앙은행인수 즉 정부가 발행코저 하는 일정액의 공채를 중앙은행으로 하여금 인수케하는 방법 등이 있어서 어느 방법을 취하든지 정부로서는 필요한 금액을 조달할 수 잇다 하겠으나 그러나 후자의 방법 즉 중앙은행인수의 방법을 취할 때에는 중앙은행이 인수한 公債의 상당한 금액만큼은 통화의 증발을 誘起케 됨으로 인프렛숀의 위험성이 생기게 되며 이 인프렛숀의 발생을 예방키 위하야는 증발된 통화를 적당히 회수하는 동시에 통화가 시장에 滯留하는 기한을 할 수 있는대로 短縮할 방법을 강구하지 아니하면 아니될 것이다. 그런데 戰費라는 것은 東西古今을 물론하고 時急을 要하며 또는 巨額을 요구하는 것인 만큼 그 대부분을 공채의 발행에 의하야＜98＞ 조달 할 뿐만 아니라 공채의 발행도 그 대부분은 중앙은행인수의 방법을 취치 아니치 못하게 되는 것도 우리가 第一次世界大戰及 今番 世界大戰에서 목격하는 바이며 現下 臨戰體制下에 있는 我帝國도 이 방법에 의존하여 있는 것도 주지의 사실이다. 전비를 공채에 의하야 조달하느냐 增稅에 의하야 조달하느냐에 대하야는 각각 일장일단이 있음으로 각각 自國國情에 의하야 결정할 문제이며 今次大戰에섊� 각국이 채용하고 있는 정책도 각각 다른 것은 사실이 증명하는 바이다. 他國에 예는 그만 두고라도 我帝國은 事變以來 지금까지 주로 공채발행의 방법을 취하여왔으나 戰局이 장기화함에 따라 공채발행의 方法以外에 增稅의 방법도 倂用케 되였으며 大增稅案이 근근 실시케 되는 것은 우리들이 新聞紙上으로 넉넉히 아는 바이나 이 문제에 대하야는 他機會에 밀우기로 한다.
+
+2. 戰時金融政策의 주요한 목표는 이상 설명한 바와 같이 戰費調達과 인프렛숀 방지에 있으며 戰費調達의 주요한 방법도 중앙은행인수의 공채발행에 있는 이상 戰時金融政策의 대강을 이해하는 방법으로서는 먼저 공채발행에 의하야 민간에 살포케 되는 정부자금이 어떠한 流路를 통하여 撒出되며 그 撒出된 자금이 어떠한 방법으로 인하야 국민경제체내에 滲透되며 또한 어떠한 방법으로 인하야 還流되는가를 먼저 이해할 필요가 있을 것이다. 그러므로 먼저 정부자금의 통로를 간단히 설명하면 다음과 같다.
+(가) 먼저 정부가 일정액의 공채를 발행코저 할 때는 중앙은행 卽 日本銀行으로 하여금 그 전액을 인수케하되 그 인수한 금액은 日本銀行이 즉시 정부의게 현금으로 지불하는 것이 아니고 日本銀行에 대한 정부예금으로 振替記入을 하여두어 어느때든지 정부가 그 금액을 필요로 하는때는 日本銀行宛小切手를 진출하야 그 목적을 달성할 수 있게 되는 것이다.
+(나) 그리고 정부가 실제자금을 필요로하는 경우 예하면 군수품생산자 기타 생산자 及 상인으로부터 물품을 납입시키고 其代金支佛을 要할 때에는 정부는 日本銀行宛小切手를 진출하여 日本銀行으로 하여금 지불케한다.
+(다) 그러면 日本銀行은 군수품생산자 기타 생산 及 상인에 대하야 新通貨를 발행 교부케 됨으로 그 금액 만큼 新通貨는 시장에 살포케 되는 것이다. 이와 같이＜99＞일본은행으로부터 新通貨의 교부를 받는 생산자 혹은 상인은 그 일부분으로 하여금 국내 자재의 구입 지대 이자 임금 利* 등에 충당케하고 국내자재로만은 불충분한 경우에는 부득이 他의 일부분으로 하여금 수입자재구입에 충당케하는 것이다. 이중에서 지대 이자 임금 이* 등에 충당한 부분만은 直時 그 지불에 참여한 여러 관계자들의 소득을 일우게 됨으로 그만큼 국민 소득의 증가분을 나타내게 될 것이며 국내자재구입에 충당된 부분도 이 자재생산에 직접 간접으로 관여한 관계자들의게 逐次分解되여 결국 국민소득을 형성케 되는 것이다.
+(라) 그 다음 수입자재구입에 충당한 부분은 수입업자의 손을 거처 그 일부분은 물론 輸入업자의 소득이 되고 他의 일부분은 輸入爲替代金을 지불키 위하여 爲替銀行에 집중케 되는 것이다.
+(마) 이와 같이 하야 爲替銀行에 집중된 통화는 輸出手形을 매입키 위하야 다시 爲替銀行의 손으로부터 수출업자의 손에 드러가게 되고 수출업자의 手中에에 들어간 통화는 직접 간접으로 수출업에 관련된 업자의 소득으로 분해되여 결국 국민소득의 증가분으로 되는 것이다.
+(바) 수입과 수출이 상등한 경우에는 이상과 같은 현상을 일우으게되나 만일 수입이 수출을 초과할 때에는 爲替銀行은 정부의 金資金特別會計로부터 金의 拂下를 받어 現送치 아니하면 아니되는 관계상 여기 해당한 통화는 爲替銀行으로부터 金資金特別會計에 옴기게되며 金資金特別會計로 옴기여진 통화는 다시 産金業者에게 金買上代金으로 지불케되여 이역시 産金業에 직접 간접으로 관련된 자들의 소득으로 逐次分解케 됨으로 그만큼 국민 소득은 증가케 되는 것이다.
+
+3. 이상 설명한 바에 의하야 정부로부터 민간에 살포되는 新通貨는 流路의 장단과 시간의 遲速은 있다 할지언정 결국 국민소득을 증가케하는 이치는 대략 이해하여 스리라고 믿는 바이다. 그리고 정부의 지출하는 금액이 많으면 많을스록 국민의 소득은 더욱더욱 증가되고 그 조달하는 방법이 중앙은행인수의 공채발행 방법일 때에는 그 만큼 신통화의 유통도 많아질 것은 명백한 사실이다. 그러면 이와 같이 정부의 손으로부터 민간에 巨額의 통화가 살포되여 국민소득을 증가시키게 될 때에는 국민경제전체에 대하야 어떠한 영향을 미치게 되는가. 물론＜100＞ 국민의 소득이 증가될때에는 그와 정비례하여 국민의 구매력도 증가케됨으로 만일 이 구매력증가에 대한 조치를 그릇한다고하면 실로 경제계에 미치는 영향은 심대할 것이다. 다시말하면 소득의 증가로 말미아마 국민의 구매력이 증대할 때에는 그만큼 물자의 수요를 증대케하고, 물자수요의 증대는 物價騰貴의 가장 주요한 원인이 되는 것이다.
+더군다나 전시체제하에서 물자의 결핍과 아울너 구매력증가의 추세가 급격할 때에는 소위 악성 인프렛숀의 현상이 나타나 경제계는 혼돈한 상태에 빠지게 될 뿐만 아니라 정부의 예산실행에 대하야서도 중대한 지장이 생기여 결국 국책수행에 곤란을 생케 함으로 이 점에 대하야는 特別注意를 要하는 바이다.
+만일 이와 반대로 국민소득으로서의 통화의 증가가 물자구매에 사용되지 않고 銀行 신탁회사 보험회사등 금융기관에 預入케 될 때에는 국민 저축을 그 만큼 증가시키게 됨으로 국민 경제에 대하야서도 양호한 결과를 齋來케 될 것은 명백한 사실이다. 다시말하면 정부지출로 말미아마 日本銀行의 손을 떠나 민간에 살포되였든 新通貨는 각종 금융기관에 집중되여 금융기관이 그 자금으로써 日本銀行이 인수하였든 공채를 매입할 때에는 공채소화가 될 뿐만 아니라 그 금액만큼 新通貨는 出發處인 일본은행에 회수케 되여 통화의 膨脹을 방지케하고 물가의 등귀를 阻止하는 중대한 역할을 하게 되는 것이다. 또는 각종 금융기관이 군수품 생산자 又는 기타 중요한 산업에 대하여 貸出 혹은 투자를 할 때에는 그 자금은 결국 생산력확충을 위하야 중대한 임무를 다하게 되는 것이다.
+그러면 臨戰體制下의 금융정책으로서는 무엇보다도 먼저 정부가 민간에 살포한 통화로 말미아마 증가된 국민의 浮動 구매력을 極力抑壓하야 소비에 절약을 철저화하는 동시에 국민소득의 증가분은 그 전부를 반듯이 금융기관에 예입 집중시키도록 적당한 방책을 강구하여야 할 것이다. 다시 말하면 국민 저축을 極力獎勵하는 것은 물론 강제적 수단을 써서라도 其實現을 도모하지 아니하면 안될 것이다. 공채소화도 생산력확충도 그 어느 것이나 국가적 입장으로 보아 중요치 아니한 것은 아니며 금융정책으로서도 이 두 가지 사실이 서로 병행하야 원만한 결과를 얻게 하도록 하야 할 것이나, 公債消化도 생산력확충도 이 국민저축 여하에 의하야 영향(이하 제117頁에 계속)＜101＞되는 바 막대하다고 하지 아니치 못할 것이다. 그러므로 정부에서도 年年 국민저축의 목표액을 정하야 일반 국민의게 저축을 장려하는 것도 그 진의는 여기에 있이것는며 최근 강제저축의 필요를 절실히 느끼게 되는 것도 그 근본이유는 여기에 잇는 것이다. 특히 銃後의 兵站基地를 지키고 있는 반도 24,000,000 신민은 시국의 중대성과 국책의 진의를 정확히 인식하야 일치단결하여 총력을 충분발휘하여야 할 것이다.＜117＞
+＜97-101, 117＞

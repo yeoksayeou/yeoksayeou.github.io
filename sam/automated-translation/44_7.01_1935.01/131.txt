@@ -1,0 +1,71 @@
+Magazine Title: 삼천리 제7권 제1호
+Publication Date: 1935년 01월 01일
+Article Title: 露書第一은 露西亞 (Publications: Russia is First)
+Author:
+Article Type: 소식 (News)
+
+Publications: Russia is First
+
+While it is said that the volume of publications is directly proportional to the civilization of that country, looking at the number of publications from various countries around the world for the year 1930:
+
+First Place: Russia (露西亞) - 34,000 types
+Second Place: Germany (獨逸) - 26,000 types
+Third Place: Japan (日本) - 22,000 types
+England (英吉利) - 15,000 types
+France (佛蘭西) - 14,000 types
+Poland (波蘭) - 12,000 types
+Italy (伊太利) - 11,000 types
+United States (米國) - 10,000 types <85>
+
+**Summary**
+
+This short news item from 1935 lists the number of publications released by various countries in 1930, ranking them accordingly. Russia leads significantly, followed by Germany and Japan. The article prefaces the list by stating that the volume of publications reflects a country's level of civilization. For historians, the high ranking of Japan (third place) is notable, potentially used implicitly to bolster Japan's image as a 'civilized' nation comparable to Western powers during the colonial period. The relatively low number listed for the United States (potentially due to a typo) compared to European nations and Japan is also interesting.
+
+**Named Entities**
+
+露西亞	노서아	Russia
+獨逸	독일	Germany
+日本	일본	Japan
+英吉利	영길리	England
+佛蘭西	불란서	France
+波蘭	파란	Poland
+伊太利	이태리	Italy
+米國	미국	United States
+
+**Glossary**
+
+露書	노서	Publications (likely intended generally, though literally "Russian Books/Writings")
+文明	문명	Civilization
+正化例	정화례	Directly proportional (Likely a typo or archaic form of 正比例, 정비례)
+잇거니와	있거니와	While it is so; Although it is... (Older spelling)
+左右間	좌우간	Anyway; At any rate (Older form/spelling)
+보건대	보건대	Looking at; Seeing that
+第一位	제일위	First place
+獨逸	독일	Germany (Older phonetic transcription using Hanja)
+英吉利	영길리	England (Older phonetic transcription using Hanja)
+佛蘭西	불란서	France (Older phonetic transcription using Hanja)
+波蘭	파란	Poland (Older phonetic transcription using Hanja)
+伊太利	이태리	Italy (Older phonetic transcription using Hanja)
+米國	미국	United States (Literally "Rice Country," common abbreviation)
+一方種	일방종	10,000 types (Likely a typo for 一萬種, 일만종)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제1호
+발행일	1935년 01월 01일
+기사제목	露書第一은 露西亞
+기사형태	소식
+
+露書第一은 露西亞
+出版物의 多少는 그나라 文明에 正化例한 다는말이 잇거니와 左右間一九三○年의 一年동안 世界各國出版物數를보건대
+第一位 露西亞 三萬四千種
+第二位 獨逸 二萬六千種
+第三位 日本 二萬二千種
+英吉利 一萬五千種
+佛蘭西 一萬四千種
+波蘭  一萬二千種
+伊太利  一萬一千種
+米國 一方種＜85＞
+＜85＞

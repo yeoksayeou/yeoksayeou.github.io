@@ -1,0 +1,60 @@
+**Header Section:**
+Magazine Title: 三千理
+Publication Date: 1932년 04월 01일
+Article Title: 急告 (Urgent Notice)
+Author: 三千里編輯局
+Article Type: 사고·편집후기 (Apology/Editorial Note)
+
+**Body Text Translation:**
+Urgent Notice
+
+Although this one article by Mr. Yi Chŏngsŏp (李晶燮氏) is a long essay reaching fifty-three manuscript pages, we apologize to the author and readers that due to unavoidable circumstances (不得已한 事情), we could only publish a part of it like this. However, following the critique of Mr. An Chaehong's (安在鴻氏) course last month and the critique of Mr. Ch'oe Rin's (崔麟氏) course this month, we will continue with major critiques of various individuals' courses in the next issue as well, so please look forward to it greatly.
+
+Samch'ŏlli Editorial Department <55>
+
+**Summary**
+
+This is an editorial notice from the magazine *Samch'ŏlli* apologizing for only being able to publish a portion of a long article by Yi Chŏngsŏp due to unspecified circumstances. It assures readers that critiques of prominent figures' viewpoints ("courses"), following those of An Chaehong and Ch'oe Rin in previous issues, will continue in the next issue. For historians, this brief notice is interesting as it points to editorial constraints (perhaps censorship or space limitations) faced by Korean publications under Japanese rule. It also highlights the magazine's role in hosting intellectual debates by critiquing the ideas of significant contemporary Korean figures like An Chaehong and Ch'oe Rin.
+
+**Named Entities**
+
+李晶燮氏	이정섭씨	Yi Chŏngsŏp ssi
+安在鴻氏	안재홍씨	An Chaehong ssi
+崔麟氏	최린씨	Ch'oe Rin ssi
+三千里編輯局	삼천리 편집국	Samch'ŏlli P'yŏnjipkuk
+
+**Glossary**
+
+急告	급고	Urgent Notice
+此무一文	차무 일문	This one article/text (Archaic phrasing)
+原稿	원고	Manuscript
+及하는	급하는	Reaching; Amounting to
+엇스나	있으나	Although there is (Older spelling of 있으나)
+이와가치	이와 같이	Like this (Older spelling of 이와 같이)
+不得已	부득이	Unavoidable; Inevitable
+事情	사정	Circumstances; Situation
+밧게실지못하게되엿슴을	밖에 싣지 못하게 되었음을	That (we) could only publish a part / could not publish more than a part (Older spelling and grammar)
+謝함니다	사합니다	We apologize (Older spelling/formality of 사과합니다 or 죄송합니다)
+前月	전월	Last month
+코-쓰	코스	Course (likely refers to a viewpoint, stance, or series)
+批判	비판	Critique; Criticism
+後	후	After; Following
+繼續	계속	Continuation; To continue
+	또	Also; Again (Older spelling of 또)
+來號	내호	Next issue (of a publication)
+期待	기대	Expectation; Anticipation
+編輯局	편집국	Editorial Department/Bureau
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제4호
+발행일	1932년 04월 01일
+기사제목	急告
+기사형태	사고·편집후기
+
+急告
+李晶燮氏의 此무一文은 原稿五十三枚에 及하는 長論文이 엇스나 이와가치 不得已한 事情으로 그 一部分밧게실지못하게되엿슴을 筆者와 讀者諸氏에게 謝함니다 그러나 前月에 安在鴻氏의 코-쓰를 批判하엿고 今月에 崔麟氏의 코-쓰를 批判한 後를 繼續하야  來號에는 諸氏의 코-쓰 批判을 크게 繼續하겟스니 만히 期待하여주소서.
+三千里編輯局＜55＞
+＜55＞

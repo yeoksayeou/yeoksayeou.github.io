@@ -1,0 +1,69 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里) 제10권 제10호
+Publication Date: 1938년 10월 01일
+Article Title: 白樂天 놀든 九江 (Jiujiang, Where Bai Letian Roamed)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation:**
+Jiujiang, Where Bai Letian Roamed
+
+The line "*Yang Jiangtou song yek'aek" (潯陽江頭送夜客 - "Seeing off a night guest at the head of the Xunyang River") in Bai Letian's (白樂天 - Bai Juyi) famous poem "Pipa Xing" (琵琶行) refers to the riverfront of Jiujiang (九江), located 17 *ri* from Hukou (湖口) on the upper reaches of the Xunyang River (潯陽江), which is downstream from Yangzhou (楊州 - likely a misunderstanding or conflation, Xunyang is correct contextually).
+
+Jiujiang has many famous sites and historic relics. The site of Bai Letian's Pipa Pavilion (琵琶亭跡) and the Zhenjiang Tower (鎭江樓), built 300 years ago during the Wanli era (萬曆間) of the Ming Dynasty, are in the eastern suburbs. The famous Lushan (廬山) is 10 *ri* to the southeast; the entire Lushan area can be called a scenic spot, a place extolled by many literary figures and poets like Tao Yuanming (陶淵明), Su Dongpo (蘇東坡), Li Bai (李白), and Bai Letian (白樂天). It is also famous as a summer retreat (*piduji* - 避暑地) for foreigners, and even Chiang Kai-shek (將介石) comes here to stay during the summer season. The population is 60,000. In terms of military preparedness (*mubi* - 武備), the strong forts at Jinjipo (金鷄坡) and Yueshimen (岳師門) make it a militarily important strategic point for the defense of Wuhan (武漢).<105>
+
+**Summary**
+
+This short article introduces Jiujiang, a Chinese city on the Yangtze River, primarily through its association with the Tang dynasty poet Bai Juyi (Bai Letian) and his poem "Pipa Xing". It mentions scenic spots like the Pipa Pavilion site, Zhenjiang Tower, and nearby Lushan, noting their historical significance and connection to other famous Chinese literary figures. The article also touches upon Jiujiang's contemporary importance as a summer retreat, mentioning Chiang Kai-shek's presence, and its strategic military value with forts defending the approach to Wuhan, reflecting the ongoing Sino-Japanese War context. For historians studying colonial Korea, this piece shows an awareness of and interest in Chinese culture and contemporary events. The mention of Chiang Kai-shek and the city's military significance, published during the Sino-Japanese War, provides a glimpse into how information about the conflict zone was disseminated or permitted in colonial Korean media, potentially highlighting Jiujiang's role in the ongoing hostilities relevant to Japanese imperial interests.
+
+**Named Entities**
+
+白樂天	백낙천	Bai Letian (Bai Juyi)
+九江	구강	Jiujiang
+潯陽江頭	심양강두	Xunyang Jiangtou (Head of the Xunyang River)
+潯陽江	심양강	Xunyang Jiang (Xunyang River)
+楊子江	양자강	Yangtze River (Referred to as 楊子江上流)
+湖口	호구	Hukou
+琵琶亭跡	비파정적	Pipa Pavilion Site
+明	명	Ming Dynasty
+萬曆間	만력간	Wanli era
+鎭江樓	진강루	Zhenjiang Tower
+東郊	동교	Eastern Suburbs
+廬山	여산	Lushan
+陶淵明	도연명	Tao Yuanming
+蘇東坡	소동파	Su Dongpo
+李白	이백	Li Bai
+將介石	장개석	Chiang Kai-shek
+金鷄坡	금계파	Jinjipo
+岳師門	악사문	Yueshimen
+武漢	무한	Wuhan
+
+**Glossary**
+
+놀든	놀던	(Who) played/roamed (Older participial form of 놀다)
+만타	많다	To be many/numerous (Older spelling/form of 많다)
+-이라함이	-이라고 함이	The fact that it is called...
+압강면	앞 강변	Riverfront in front of
+건조된	건조된	Built/constructed
+모다	모두	All/entirely (Older form of 모두)
+영탄하든	영탄하던	(Which was) extolled/praised (Older participial form)
+외인	외인	Foreigner
+壁屠地	피서지	Summer retreat (Likely 避暑地 - *pisŏji*)
+여른	여름	Summer (Older spelling of 여름)
+머물느고이다	머무는 곳이다	Is a place where (one) stays (Older grammatical construction/spelling)
+武備	무비	Military preparedness/armaments
+堅牽한	견고한	Strong/solid (견고한 is standard)
+방위	방위	Defense
+
+
+---------------------------
+
+
+잡지명	삼천리 제10권 제10호
+발행일	1938년 10월 01일
+기사제목	白樂天 놀든 九江
+기사형태	잡저
+
+白樂天 놀든 九江
+白樂天의 유명한 시「琵琶行」속에 나타나는 「*陽江頭送夜客」운운의 그 *陽江이라함이 楊下江上流湖口에서 17리의 「九江」압강면을 이름함이다.
+九江에는 명승과 고적이 만타, 白樂天의 琵琶亭跡, 300 前 明나라 萬*問에 건조된 鎭江樓는 東郊에 있는데 유명한 *산은 동남 10리에 있어 금산이 모다 명승이라할수 있어 陶淵明, 蘇東坡, 李白, 白樂天 같은 여러 문인 시객이 영탄하든 곳이다. 외인의 壁屠地로도 유명한거니와 將介石이도 여른 한철은 여기와서 머물느고이다. 인구 6만, 武備로는 金*坡, 岳師門의 堅牽한 포대는 무한방위의 군사상 중요 전격지이다.＜105＞

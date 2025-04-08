@@ -1,0 +1,52 @@
+Magazine Title: 삼천리 제11호
+Publication Date: 1931년 01월 01일
+Article Title: 內外消息 (Domestic and Foreign News)
+Author: None specified
+Article Type: 소식 (News Tidbit)
+
+**Body Text Translation**
+
+Domestic and Foreign News
+
+After "Hangŭl" was officially established (公定) by the hands of Chosŏn scholars, its standard orthography has gradually come into use. Because of this, printing type (活字) must first be recast (改鑄). Therefore, the Tonga Ilbo-sa (東亞日報社), abandoning its conventional vernacular script type (諺文活字), will newly use Hangŭl type, and it is said they are currently vigorously casting (鑄造) it, so it seems it will be implemented by next spring at the latest.
+
+The Hansŏng Book Printing Company (漢城圖書印刷會社) is also currently in the midst of abandoning its conventional type and casting new type in order to rely on Hangŭl type, and word is strong that it will likely come into use within the year. <7>
+
+**Summary**
+
+This news brief reports on the practical steps being taken to implement a newly standardized form of Hangul orthography in early 1931. Two major organizations, the newspaper company Tonga Ilbo-sa and the Hansŏng Book Printing Company, are actively recasting their printing typefaces to conform to the new standard, replacing older "vernacular script" type. The Tonga Ilbo expects to implement the change by the following spring, while the printing company anticipates using the new type within the year. From a historical perspective, this article is interesting as it documents the concrete actions taken by influential private entities to adopt and promote a standardized Korean writing system, even before the official 1933 unified orthography proposal. It highlights the growing momentum behind linguistic nationalism and modernization efforts by Koreans under colonial rule, focusing on the essential technology of print.
+
+**Named Entities**
+
+조선	조선	Chosŏn
+東亞日報社	동아일보사	Tonga Ilbo-sa
+漢城圖書印刷會社	한성도서인쇄회사	Hansŏng Toso Inswae Hoesa
+
+**Glossary**
+
+한글	한글	The Korean alphabet; here refers to the move towards a standardized orthography.
+公定된 뒤	공정된 뒤	After being officially decided/established. (公定되다)
+標準語文	표준어문	Standard language/orthography.
+活字	활자	Printing type (movable type).
+改鑄하여야 함으로	개주하여야 함으로	Because it must be recast. (改鑄하다 - to recast metal type)
+從來의	종래의	Conventional, traditional, of the past.
+諺文活字	언문활자	Vernacular script type; older term for Hangul type, sometimes seen as less prestigious than Hanja.
+鑄造하고 잇슴으로	주조하고 있음으로	Because (they) are casting (metal type). (잇슴 is an older spelling of 있음).
+느저도	늦어도	At the latest. (Older spelling).
+實施될 것	실시될 것	Will be implemented/put into effect. (實施되다)
+갓다	같다	Seems like, is like. (Older spelling).
+놉다	높다	Is high; here used idiomatically to mean 'word is strong' or 'rumors are rife'.
+
+
+---------------------------
+
+
+잡지명	삼천리 제11호
+발행일	1931년 01월 01일
+기사제목	內外消息
+기사형태	소식
+
+內外消息
+「한글」이 朝鮮學者의 손으로 公定된 뒤 漸漸 그 표준어문을 쓰게 되엇는데 이 때문에 爲先 印刷活字를 改鑄하여야 함으로 東亞日報社에서는 종래의 언문활자를 버리고 새로히 한글활자를 쓰게 되어 방금 盛히 주造하고 잇슴으로 느저도 明春부터는 실시될 것 갓다고 한다.
+
+漢城圖書印刷會社도 방금 한글활자에 의하려고 종래의 활자를 버리고 새 활자를 주造하는 中이 되어 아마 年內에 사용하게 될 것 갓다는 소리가 놉다.＜7＞

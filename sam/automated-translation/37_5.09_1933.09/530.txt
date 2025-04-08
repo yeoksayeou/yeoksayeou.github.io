@@ -1,0 +1,62 @@
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1933년 09월 01일 (September 1, 1933)
+Article Title: 歷史抄 (Historical Excerpt)
+Author: None specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+Historical Excerpt
+
+Koguryŏ had 28 rulers [主] and lasted 705 years.
+
+Paekche had 31 rulers [主] and lasted 680 years.
+
+Kara had 10 rulers [主] and lasted 344 years.
+
+Silla had 56 rulers [主] and lasted 992 years.
+
+Koryŏ had 34 rulers [主] and lasted 475 years.
+
+Chosŏn had 27 rulers [主] and lasted 518 years.<55>
+
+**Summary**
+
+This short piece provides a basic chronological list of major Korean historical states (Koguryŏ, Paekche, Kara, Silla, Koryŏ, Chosŏn), noting the number of rulers and the duration of each dynasty in years. For historians studying colonial Korea, the article's presence in a popular magazine like *Samch'ŏlli* is interesting. It represents a simple, factual presentation of Korean history, possibly reflecting the limited scope allowed under Japanese censorship, yet still serving to keep a basic outline of national history accessible to the Korean public during that period. The inclusion of Kara (Gaya) as a distinct entity with a specific duration is also noteworthy.
+
+**Named Entities**
+
+高句麗	고구려	Koguryŏ
+百濟	백제	Paekche
+加羅	가라	Kara
+新羅	신라	Silla
+高麗	고려	Koryŏ
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+歷史抄	역사초	Historical Excerpt
+高句麗	고구려	Koguryŏ (Name of an ancient Korean kingdom)
+主	주	Ruler; King; Lord (Used here to count monarchs)
+년	년	Year(s)
+百濟	백제	Paekche (Name of an ancient Korean kingdom)
+加羅	가라	Kara (Gaya) (Name of a confederacy of ancient Korean statelets)
+新羅	신라	Silla (Name of an ancient Korean kingdom)
+高麗	고려	Koryŏ (Name of a medieval Korean kingdom)
+朝鮮	조선	Chosŏn (Name of the last Korean kingdom/dynasty)
+잡저	잡저	Miscellaneous writing; Miscellany
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제9호
+발행일	1933년 09월 01일
+기사제목	歷史抄
+기사형태	잡저
+
+歷史抄
+高句麗는 28主 705년
+百濟는 31主 680년
+加羅는 10主 344년
+新羅는 56主 992년
+高麗는 34主 475년
+朝鮮은 27主 518년.＜55＞

@@ -1,0 +1,300 @@
+78	210	Letters of Warriors Killed in Action and Deployed	Nitto Danji · Chosŏn Volunteer Soldiers · German Youth	Arts/Misc.
+78	220	Full Details of the Luxury Goods Prohibition Order and Manufacturing/Sales Restriction Rules		News
+78	230	Field Report: How Koreans Came to Run a School in Hankou	Yu Sang-ŭn, Principal of Hankou Peace Japanese Language School	Editorial/Article
+78	240	Name Changing (All Korea) Surpasses 63%; 2.7 Million Households, Total as of August 12th		News
+78	250	Newspapers and Magazines of Chongqing	Yangtze River Person	News
+78	260	The War Front and Koreans	Novelist Ueda Hiroshi	Arts/Misc.
+78	270	Roundtable Discussion Welcoming Famous Actors from Manchukuo	Ri Kōran · Mun Ye-bong · Kim Sin-jae	Dialogue/Roundtable
+78	280	Women's News		News
+78	290	Impressions of Famous Paintings		Arts/Misc.
+78	300	Imperial Guards and Korean Clothing		Memoir/Reminiscence
+78	310	The Peninsula's Literary Scene in Early Autumn		Dialogue/Roundtable
+78	320	Serenade, Limpianta	Chu Yo-han	Poem
+78	330	Verlaine's Lament	Chu Yo-han	Poem
+78	340	From English Poetry (and 1 other)	Chu Yo-han	Poem
+78	350	"Namsadang"	No Ch'ŏn-myŏng	Poem
+78	360	Night After Night	Yi Yong-ak	Poem
+78	370	Youth	P'ain	Poem
+78	380	War Literature and National Literature; Nazis and National Literature	Dietrich Jeckel	Editorial/Article
+78	390	War Literature and National Literature; The World-Historical Ideals of Chinese Literature	Cai Yuanpei, Former President of Peking University	Editorial/Article
+78	400	War Literature and National Literature; Zola's War Novels	Yamada Tamaki	Editorial/Article
+78	410	Seasonal Wind	By Agnes Newton Keith	Fiction
+78	420	After Leaving	By Chinese Female Writer Ding Ling	Fiction
+78	430	Father and Mother	By Nobel Literature Prize Winner Pearl Buck	Fiction
+78	440	Editor's Postscript		Notice/Editor's Postscript
+79	010	Confidential Room: Various Inside Stories of Our Society		News
+79	020	Mid-career Critics Discuss During the Great War: Will Britain and America Unite? Will India Become Independent? Will Traitor Chiang Turn Red?		Dialogue/Roundtable
+79	030	Current Affairs Articles		News
+79	040	Japanese Language Edition		Arts/Misc.
+79	050	Critiques of New Governors, etc.; Assessment of Recent Personnel Changes in the Government-General and Provincial High Officials	Matsuyama Rōkyaku	News
+79	060	German Marriage Promotion Policy		Miscellaneous Writing
+79	070	A Visit to the Army Officer Academy: A Special Report for This Magazine		News
+79	080	Holy War Site "Changkufeng": Visiting the Place of the Imperial Army's Fierce Battle	Hyŏn Kyŏng-jun	Travelogue
+79	090	Notes on the Feelings of the Presidents of the Chosun and Dong-A Newspapers		Dialogue/Roundtable
+79	100	Travelogue: The Scenery of Lushan Where Bai Letian (Bai Juyi) Visited	Yangtze Scholar in Nanjing	Travelogue
+79	110	Introduction to New Publications		Miscellaneous Writing
+79	120	Manchukuo Ten Years After Founding and the Recent Situation of Koreans: Advancement of Korean Capital, Gathering and Dispersion of People, etc.	Kim Tong-jin	Editorial/Article
+79	130	The Current Status of Korean Enterprises in the Peninsula's Economy	In Chŏng-sik	Editorial/Article
+79	140	Black People and the Population Problem in the Americas	Pak In-dŏk	Editorial/Article
+79	150	World Knowledge		Miscellaneous Writing
+79	160	Post-War Nanjing: What is the Recent Appearance of the Old Capital?	Kim Kyŏng-jae	Travelogue
+79	170	Visiting "Napoleon's Tomb" in Paris: Passing the Arc de Triomphe to Find the Great Man's Grave	Chŏng In-sŏp	Travelogue
+79	180	Keijō (Seoul) Reconstruction Plan		Survey/Questionnaire
+79	190	Travelogue: Crossing Siberia	Sin Hŭng-u	Travelogue
+79	200	Pyongyang Thirty Years Ago	Ninagawa Arata, Doctor of Law	Memoir/Reminiscence
+79	210	Life Tables of Korean Residents (Korean Life Tables)	Ch'oe Hŭi-yŏng, Doctor of Medicine	Editorial/Article
+79	220	Autumn Harvest and Poetic Thoughts		Arts/Misc.
+79	230	The Banks of the Songhua River in Clear Autumn: Traces of Old Russia and the Development of North Manchuria	Hong Yang-myŏng	Arts/Misc.
+79	240	Yeongnamnu Pavilion and Aranggak Shrine: Collecting a Poem of Vindicated Grievance	Yi Sang-in	Arts/Misc.
+79	250	Travelogue: Nakhwaam Rock	Yi Pyŏng-gi	Travelogue
+79	260	Three Hours at a Mountain House: A Passage from a Deep Mountain Travelogue	Kim Sa-ryang	Travelogue
+79	270	Record of the Korean Unit's Labor Service for Manchukuo Construction	Yi Wan-su	Travelogue
+79	280	Inspiring Patriotic Stories from the Home Front		Miscellaneous Writing
+79	290	Magazine Field Trip ①: Old Palace = Deoksugung Palace		Arts/Misc.
+79	300	"A Man's Life" Seen by Women · "A Woman's Life" Seen by Men	Pok Hye-suk, Ch'oe Yŏng-su	Survey/Questionnaire
+79	310	At the Stationery Store		Miscellaneous Writing
+79	320	My Joyful Home		Arts/Misc.
+79	330	Films of the Clear Autumn		Arts/Literary Criticism
+79	340	Notes on the Characters of Various Famous Actors		News
+79	350	An Actor's Notebook	Chi Kyŏng-sun	Memoir/Reminiscence
+79	360	Life at Guangdong University	Pak Ch'ŏn-sŏn (Guangdong)	Memoir/Reminiscence
+79	370	Lullabies of Various Countries		Poem
+79	380	Recollections of Serializing Novels in the Dong-A and Chosun Newspapers	Yi Kwang-su, Yi T'ae-jun, Han Sŏr-ya, Ch'ae Man-sik, et al.	Memoir/Reminiscence
+79	390	Recent News of Various Men of Letters and Women		News
+79	400	Appreciation of Classic Masterpieces: The Tale of Changhwa Hongnyŏn	Yi Sŏn-hŭi	Arts/Literary Criticism
+79	410	Appreciation of Classic Masterpieces: Anthology of Women's Poems of Devoted Love, Looking at Korean Women's Poetry Through the Ages	Mo Yun-suk	Arts/Literary Criticism
+79	420	Appreciation of Classic Masterpieces: The Tale of Sim Ch'ŏng	No Ch'ŏn-myŏng	Arts/Literary Criticism
+79	430	Appreciation of Classic Masterpieces: The Tale of Ch'unhyang	Ch'oe Chŏng-hŭi	Arts/Literary Criticism
+79	440	West Wind	Yi Yuk-sa	Poem
+79	450	Short Song from a Sickbed	Mo Yun-suk	Poem
+79	460	Farewell, The Day My Boy Left	Chang Man-yŏng	Poem
+79	470	Accounting, Giving/Receiving, and Humans	Kim Tong-ni	Fiction
+79	480	Wind and Waves	Kim Yŏng-su	Fiction
+79	490	Oryanghap	Pak Kye-ju	Fiction
+79	500	Editor's Postscript		Notice/Editor's Postscript
+80	010	Confidential Room (Various Inside Stories of Our Society)		News
+80	020	Capital Punishment for Economic Crimes (Example of Wartime Punishment in Germany)		News
+80	030	The New Korean System and Our Tension: On the Occasion of This Magazine's Renewal	Kim Tong-hwan, President of Samch'ŏlli	Editorial/Article
+80	040	Respectful Account of Witnessing the Special Fleet Review Personally Inspected by His Majesty the Emperor	Paek Ch'ŏl in Tokyo	Travelogue
+80	050	The Writers' Corps and "Volunteer Soldiers"		Arts/Misc.
+80	060	An Editorial Like This Appeared in the Maeil Sinbo That Day.		Editorial/Article
+80	070	The Unity of the 23 Million Populace		Editorial/Article
+80	080	Army Commander's National Defense Speech (Prepare a High-Level National Defense Posture)	Nakamura Kōtarō, Korea Army Commander	Editorial/Article
+80	090	The New Order and the People's Awakening (Participating in Politics from the Workplace)	Arima Yoriyasu, General Affairs, Imperial Rule Assistance Association	Editorial/Article
+80	100	Japanese Language Special Feature		Editorial/Article
+80	110	The Tripartite Pact and the Awakening of Peninsula Youth	Kama Isao, Army Major, Korea Army Information Department	Editorial/Article
+80	120	Historical Retrospective on the Tripartite Pact	Yoneda Minoru, Doctor of Law	Editorial/Article
+80	130	Rapid Implementation of "Compulsory Education" and Council Members' Plans		Dialogue/Roundtable
+80	140	Report from Individuals Recently Returned from the War Zones of Berlin, Paris, and Belgium	Pae Un-sŏng, Kim Chae-wŏn, Chŏng In-sŏp, Kim Tong-hwan, Ch'oe Chŏng-hŭi, Pak Kye-ju	Dialogue/Roundtable
+80	150	Account of Escape from French Indochina	Kim Sang-nyul (Owner of Nakaichi Yoko Trading Company), Saigon, French Indochina	Memoir/Reminiscence
+80	160	Inspiring Patriotic Stories from the Home Front (The Patriotic Fervor of the Peninsula Populace!)		News
+80	170	A Model Among Soldiers (A Volunteer Soldier Awarded the Diligence Medal Four Times)		News
+80	180	Travelogue: T'onggunjŏng Pavilion	Chŏn Yŏng-t'aek	Travelogue
+80	190	My Joyful Home	Novelist Yi Sŏn-hŭi / Kim Sŏng-ch'ŏl, wife of Kye Chŏng-sik / Actress Kim Sin-jae	Arts/Misc.
+80	200	Korean Pioneer Groups in North Manchuria (How Collective Farms in the Nenjiang Area are Developing)	Jingpo Lake Person	Travelogue
+80	210	Visiting Hyangninwŏn, the Orphans' Paradise: 63 Orphans Gathered Outside Seoul	Ch'oe Chŏng-hŭi	Memoir/Reminiscence
+80	220	Secret Stories Hidden in Photographs	Mo Yun-suk, Ch'oe Chŏng-hŭi	Memoir/Reminiscence
+80	230	Color Box		Miscellaneous Writing
+80	240	Genius Sculptor Kim Pok-chin	Ch'unwŏn / Kim Ŭn-ho / Pang Ŭng-mo	Memoir/Reminiscence
+80	250	Alas, "The Lover's Grave": Notes from Young Widows		Arts/Misc.
+80	260	Collection of Love Stories from Seoul's Back Alleys: Pitiful Kyewŏl's Sorrows	Mat'aebu	Memoir/Reminiscence
+80	270	The Samch'ŏlli Literary Scene in December		Dialogue/Roundtable
+80	280	Literature Also Undergoes a Great Transformation: Towards Subjects with National Significance	Kikuchi Kan	Editorial/Article
+80	290	Become the Matrix of World Culture	Kishida Kunio, Culture Director, Imperial Rule Assistance Association	Editorial/Article
+80	300	Writers' Talk Room		Arts/Misc.
+80	310	Representative Works of Great Writers and Their Personalities		Arts/Literary Criticism
+80	320	Artists' News		News
+80	330	Volunteer Soldier Send-off Song	Ch'unwŏn	Poem
+80	340	Liberation of the East	Chu Yo-han	Poem
+80	350	The "Forest" of a Thousand Soldiers	Kim Tong-hwan	Poem
+80	360	"Beautiful Season"	Kim Tong-hwan	Poem
+80	370	Good People	Chŏng In-t'aek	Fiction
+80	380	Editor's Postscript		Notice/Editor's Postscript
+81	010	Praying for His Majesty's Eternal Life: On the Occasion of Imperial Year 2601		Miscellaneous Writing
+81	020	Gratitude to the Million Soldiers of the Imperial Army: Greeting the Fifth Year of the Holy War		Miscellaneous Writing
+81	030	Field Reports from Korean Compatriots at Home and Abroad; New Year's Address on Korean Development Policies		Editorial/Article
+81	040	The Economic Character of the East Asian Sphere and Korea's Position	In Chŏng-sik	Editorial/Article
+81	050	The Ethical Conclusion of Naeseon Ilche (Japan-Korea Unity)	Chŏng Kyo-wŏn	Editorial/Article
+81	060	Respectful Record of Emotion Before Nijubashi Bridge: Notes by Participants in the 2600th Anniversary Ceremony		Memoir/Reminiscence
+81	070	Interview with the New Daejehak, Mr. Pak Sang-jun	Reporter P	News
+81	080	Escape from Singapore Under Storm Clouds: Industry, Races, Climate, and Customs of British Malaya	Yi Kyun-mo	Editorial/Article
+81	090	Ch'unwŏn	Sanghwa	Arts/Misc.
+81	100	Roundtable Recalling the Fierce Battles of Returned Volunteer Soldiers from Shanxi and Wuhan (Keijō Division Review)		Dialogue/Roundtable
+81	110	The Women's Corps and "Volunteer Soldiers"		Memoir/Reminiscence
+81	120	Volunteer Soldier Diary: A Day in the Life	Shigemitsu Kunio, 1st Squad, 3rd Training Class	Arts/Misc.
+81	130	Volunteer Soldier Diary: A Day in the Life	Ōyama Masataka, 1st Section, 1st Training Class	Arts/Misc.
+81	140	Volunteer Soldier Diary: A Day in the Life	Takezawa Jōshū, 5th Squad, 3rd Class	Arts/Misc.
+81	150	Volunteer Soldier Diary: A Day in the Life	Kojima Yoshihide, Army Private First Class	Arts/Misc.
+81	160	Inspiring Patriotic Stories	Selected by the Editorial Office	News
+81	170	Full Picture of the Recent Activities of the National Training Support Association	Paegak Sanin	News
+81	180	The Goal of Korean Film Promotion: Towards Establishing a True Cinematic Spirit	Kim Chŏng-hyŏk	Editorial/Article
+81	190	Critiques of the Principals of Korea's Five Major Girls' Schools	Pongmyŏnja	News
+81	200	Kyŏngsŏng Chamaewŏn (Keijō Sister Garden)	Ko Hwang-gyŏng, Professor, Ewha Womans College	Memoir/Reminiscence
+81	210	Visiting the Great Athletic Festival and Prospects for Korean Sports Promotion	Son Ki-jŏng	Editorial/Article
+81	220	German Bride Crying in Seoul: Account of the Sorrow of Dr. Chŏn's Widow	Sojo	News
+81	230	My Joyful Home	Pak Oe-sŏn, Kang Pok-sin	Arts/Misc.
+81	240	Advisory Message to Anti-State Elements like Kim Il-sŏng, By the General Will of 1.5 Million Compatriots in Manchuria		Editorial/Article
+81	250	1940 Great German Art Exhibition	Berlin Scholar	Arts/Literary Criticism
+81	260	I Have Returned Safely: From the Tokyo Imperial Hotel	Ch'oe Sŭng-hŭi	Arts/Misc.
+81	270	Ten-Year Record of an Actor's Life		Memoir/Reminiscence
+81	280	My Literary Activity Policy Under the New Order		Editorial/Article
+81	290	Hakkō Ichiu	Chu Yo-han	Poem
+81	300	To the Volunteer Soldiers	Mo Yun-suk	Poem
+81	310	Son	Han Sŏr-ya	Fiction
+81	320	Celestial Vein	Ch'oe Chŏng-hŭi	Fiction
+81	330	Editor's Postscript		Notice/Editor's Postscript
+82	010	The Tense Pacific Situation: Look at America's Hostility	Mitarai Tatsuo, President of Keijō Nippō	Editorial/Article
+82	020	Our Country's National Defense and the Situation in East Asia (Lecture at Keijō Public Hall in Early February)	Yamanouchi, Lieutenant Colonel, Korea Army Staff	Editorial/Article
+82	021	Two Million Enemy Corpses—600,000 in the Last Year (1940) Alone—		News
+82	030	America's Ambition and Military Expansion (The Breaker of Pacific Peace)	Pugak Hagin	Editorial/Article
+82	040	Total War, the National Defense State, and Korea	National Spiritual Mobilization League of Korea	Editorial/Article
+82	050	Correction		Notice/Editor's Postscript
+82	060	Record of Labor Service at the Buyŏ Holy Site		Memoir/Reminiscence
+82	070	The IRAA Diet Where Six Ministers Wept: Notes from Observing the 76th Session	Chu Un-sŏng in Tokyo	News
+82	080	Japanese Language Special Feature: Roundtable Discussing Korea's "Culture Problem"		Dialogue/Roundtable
+82	090	Japanese Language Special Feature: A Housewife in a Japanese-Korean Marriage	Wife of Poet Kim So-un	Memoir/Reminiscence
+82	100	Japanese Language Special Feature: Naeseon Ilche (Japan-Korea Unity) Dance Piece "Buyŏ Reminiscence"		Arts/Misc.
+82	110	Overseas Development Strategy for the Korean Populace	Chin Hak-mun in Xinjing (Managing Director, Manchukuo Daily Necessities Co., Ltd.)	Editorial/Article
+82	120	Manchukuo News Bulletin		News
+82	130	Aviation Fever and Korean Youth	Aviator Sin Yong-uk	Dialogue/Roundtable
+82	140	Inspiring Patriotic Stories	Selected by the Editorial Office	Miscellaneous Writing
+82	150	Olympia Part II: Festival of Beauty, Recalling Berlin at That Time - January 23rd	Son Ki-jŏng	Memoir/Reminiscence
+82	160	Kwanghallu Pavilion and Ch'unhyanggak Pavilion	Chŏng In-sŏp	Travelogue
+82	170	Our Three Stars Active in Tokyo: Ch'oe Sŭng-hŭi, Pak Oe-sŏn, Kim Min-ja	Ch'oe Chŏng-sun in Tokyo	News
+82	171	Cut: Han Hong-t'aek - Caution When Visiting Tuberculosis Patients	Okabe Taku, Doctor of Medicine	Miscellaneous Writing
+82	180	Impressions of 16 Cities North and South, Seen by a Writer		Memoir/Reminiscence
+82	190	Letter to Ch'oe Sŭng-hŭi, Returned from Europe and America	Sŏgyŏng, Son Ki-jŏng, Yi Sŏ-gu, Kim Yŏn-sil, Kim So-yŏng, Pak Ki-ch'ae, Sim Yŏng	Arts/Misc.
+82	200	Bridegroom and Bride's Honeymoon Diary	Film Director Pak Ki-ch'ae, Yi Sŏn-gyŏng (Ewha College Literature Graduate)	Arts/Misc.
+82	210	Flower-like Brides from Ewha Womans College: School Life of Ewha Students	Reporter C	News
+82	220	Secret Stories Hidden in Photographs	Yi Hŏn-gu, Yi Sŏn-hŭi	Memoir/Reminiscence
+82	230	An Artist's Family in a Japanese-Korean Marriage (1)	Mrs. Ch'oe Chiyoko, wife of Painter Ch'oe Kŭn-bae	Memoir/Reminiscence
+82	240	Full Picture of Keijō Imperial University		News
+82	250	Inside Story of the Seoul Detective Agency: An Investigator's Account	Detective P	Memoir/Reminiscence
+82	260	On Publishing the "Theater Special Issue": Expecting the Korean Theater Association's Leap Forward; Special Feature Commemorating the KTA Formation: "Theater and the New Order"		News
+82	270	The New Order and the Formation of the Korean Theater Association; Special Feature Commemorating KTA Formation: "Theater and the New Order"	Yi Sŏ-gu (Makiyama Mizuki), President, Korean Theater Association	Editorial/Article
+82	280	Origin of the Korean Theater Association's Formation; Special Feature Commemorating KTA Formation: "Theater and the New Order"		News
+82	290	Arts World News; Special Feature Commemorating KTA Formation: "Theater and the New Order"		News
+82	300	New Theater and National Theater (Future Path of the New Theater Movement); Special Feature Commemorating KTA Formation: "Theater and the New Order"	Yu Ch'i-jin	Editorial/Article
+82	310	Retrospective of Our New Theater Movement; Special Feature Commemorating KTA Formation: "Theater and the New Order"	Sŏ Hang-sŏk	Memoir/Reminiscence
+82	320	The New Order and the Playwright's Mission; Special Feature Commemorating KTA Formation: "Theater and the New Order"	Pak Song	Editorial/Article
+82	330	On the Formation of Mobile Theater Troupes; Special Feature Commemorating KTA Formation: "Theater and the New Order"	Kim Kwan-su (Kishiki Hiroshi), Standing Director, Korean Theater Association	Editorial/Article
+82	340	Notes from a Theater World Luminary; Special Feature Commemorating KTA Formation: "Theater and the New Order"	Ch'oe Sang-dŏk, Manager, Cheil Theater	Memoir/Reminiscence
+82	350	Theater, Planning, and Theaters (Some Thoughts as a Manager); Special Feature Commemorating KTA Formation: "Theater and the New Order"	Kim T'ae-yun, Manager, Tongyang Theater	Editorial/Article
+82	360	Playwriting Club Formed		News
+82	370	Theater Troupe Kohyŏp; Comprehensive Edition: Korea's Representative Theater Troupes	Sim Yŏng, General Affairs, Kohyŏp	News
+82	380	Actor's Notes; Comprehensive Edition: Korea's Representative Theater Troupes	Kohyŏp: Kim Yang-ch'un, Yi Chae-hyŏn, Yu Sŏng-ae, Namgung Yŏn, Na Ung	Memoir/Reminiscence
+82	390	Ch'ŏngch'unjwa Theater Troupe; Comprehensive Edition: Korea's Representative Theater Troupes	Pyŏn Ki-jong, Representative, Ch'ŏngch'unjwa	News
+82	400	Actor's Notes; Comprehensive Edition: Korea's Representative Theater Troupes	Ch'ŏngch'unjwa: Han Il-song, Pak Ok-ch'o, Pok Wŏn-gyu, Kang No-sŏk	Memoir/Reminiscence
+82	410	Respectful Notice		Notice/Editor's Postscript
+82	420	Theater Troupe Arang; Comprehensive Edition: Korea's Representative Theater Troupes	Pak Chin	News
+82	430	Actor's Notes; Comprehensive Edition: Korea's Representative Theater Troupes	Theater Troupe Arang: Hwang Ch'ŏl, Sŏ Il-sŏng, Pak Yŏng-sin	Memoir/Reminiscence
+82	440	Theater Troupe Hwahwasŏn; Comprehensive Edition: Korea's Representative Theater Troupes	Chang Chin, Representative, Hwahwasŏn	News
+82	450	Actor's Notes; Comprehensive Edition: Korea's Representative Theater Troupes	Hwahwasŏn: Yi Ch'ŏng-san, Sin Chwa-hyŏn	Memoir/Reminiscence
+82	460	Arts World Information Room		News
+82	470	Germany's Theater Movement Under Wartime: Focusing on Mobile Theater Troupes	Hyŏn Yun	Editorial/Article
+82	480	Famous Actors and the Stage	Hwahwasŏn: Han Ŭn-jin, Yi Kŭm-nyong	Memoir/Reminiscence
+82	490	Film and Theater People's Talk Room		Arts/Misc.
+82	500	Current Thoughts on Theater	Pak Song	Arts/Literary Criticism
+82	510	Letter Presented to the Culture Director	Paek Ch'ŏl, Yi Hŏn-gu, An Sŏg-yŏng	Editorial/Article
+82	520	Current Literary Criticism: The Realistic and the True	Im Hwa	Arts/Literary Criticism
+82	530	Current Thoughts on Literature and Arts	Han Sŏr-ya	Arts/Literary Criticism
+82	540	Collection of Regional Poems from Sŏdo (Northwestern Korea)		Poem
+82	550	Celestial Vein	Ch'oe Chŏng-hŭi	Fiction
+82	560	Editor's Postscript		Notice/Editor's Postscript
+83	010	Message from Government-General High Officials to the Wartime Korean Populace: Building the Greater East Asia Co-Prosperity Sphere and the Korean Populace	Kye Kwang-sun, Chief, Social Education Section, Government-General of Korea	Dialogue/Roundtable
+83	020	Message from Government-General High Officials to the Wartime Korean Populace: Survival Path for Merchants and Industrialists and the Low Price Policy	Asakawa Tōseki (Han Tong-sŏk), Administrative Officer, Commerce and Industry Section, Government-General of Korea	Dialogue/Roundtable
+83	030	Message from Government-General High Officials to the Wartime Korean Populace: The Production Expansion Movement and Korea's Position	Hiramatsu Shōkon (Yi Ch'ang-gŭn), Director of Industry, Kyŏnggi Province	Dialogue/Roundtable
+83	040	Message from Government-General High Officials to the Wartime Korean Populace: Building a High-Level National Defense State and Volunteer Soldiers	Nagata Tanehide (Kim Pyŏng-uk), Secretary, Central Council	Dialogue/Roundtable
+83	050	Message from Government-General High Officials to the Wartime Korean Populace: The National School System and Student Issues	Kayama Zaikō (Cho Chae-ho), Inspector, Educational Affairs Bureau, Government-General of Korea	Dialogue/Roundtable
+83	060	Message to Korean Women	Mrs. Minami Kakuko, Wife of Governor-General Minami	Editorial/Article
+83	070	Argument for Establishing a Korean Music School		Survey/Questionnaire
+83	080	Executives of Eight Organizations Speak: Discussing New Peninsula Culture	Pak Yŏng-hŭi, An Chong-hwa, Yi Sŏ-gu, Kim Chae-hun, Yi Ch'ŏl, Yu Ch'i-jin, Sim Hyŏng-gu, Ham Tae-hun	Dialogue/Roundtable
+83	081	"Korean Culture" Lecture Collection		Notice/Editor's Postscript
+83	090	Visiting Notables in the Cultural Field (1): Interview with Culture Director Yanabe on Wholesome Entertainment in Farming and Fishing Villages	Female Reporter, Samch'ŏlli Company	Dialogue/Roundtable
+83	100	The Modern Warfare Character of the China Incident: The True State of Our Nation's Leaping Power	Tsuda Tsuyoshi, Chief Editor, Ryokki Renmei (Green Flag Alliance)	Editorial/Article
+83	110	American Films	Karashima Takeshi, Professor, Keijō Imperial University	Editorial/Article
+83	120	The Peninsula Populace and the Concept of Kokutai (National Polity), Especially Regarding National Life Under Wartime	Kama Isao, Army Major, Korea Army Information Department	Editorial/Article
+83	130	View on the Japan-US Crisis		Editorial/Article
+83	131	Recent Situation of Universities in Kunming		News
+83	140	Notes of Mainland Japanese University Students Killed in Action		Arts/Misc.
+83	150	Watching Ch'oe Sŭng-hŭi's Tokyo Performance	Kondō Kōtarō	Arts/Literary Criticism
+83	160	Inaugural Address for the "Shanghai Edition": For Cultural Exchange Between Japan Proper and Overseas Territories	Kim Tong-hwan, President of Samch'ŏlli	Notice/Editor's Postscript
+83	170	Japan-China Cooperation and China's Resources: Mainly Regarding Economic Cooperation	Hong Sa-ik, Army Major General (Former Kōain First Bureau Chief)	Editorial/Article
+83	180	Sun Yat-sen Park Built by the Hands of Chinese Residents		News
+83	190	The Real Situation of Shanghai Koreans	Yi Kap-nyŏng, Chairman, Shanghai Resident Korean People's Association	Editorial/Article
+83	200	Interview with Miss Cho Tong-sŏn, Korean Professor at Shanghai's Hujiang University	Pak Kŏ-yŏng, Shanghai Correspondent	Dialogue/Roundtable
+83	210	Discussing Various Issues of Shanghai Koreans with Ch'oe Kyŏng-su, General Manager of the Shanghai Times	Pak Kye-ju, Samch'ŏlli Company	Dialogue/Roundtable
+83	220	Korea Observation Record: The Full Picture of Harmonious Naeseon Ilche (Japan-Korea Unity) Throughout Korea	Ilbŏm Sim, Shanghai Central Propaganda Training Center Travel Group	Travelogue
+83	221	Secretly Treating Urinary and Venereal Diseases: Practical Self-Treatment Methods		Miscellaneous Writing
+83	230	The Incident and "China's National Character"	Odake Fumio, Professor, Tōa Dōbun Shoin, Shanghai	Editorial/Article
+83	240	Impressions of Shanghai Notables: Mr. Kim Kyŏng-jae, Vice President of the Shanghai Times		News
+83	250	Various Cultural Organizations in Central China	Shanghai Scholar	News
+83	260	Aspiring Volunteer Soldiers from Shanghai Head to Sinŭiju with a Grand Send-off		News
+83	270	Ch'oe Sŭng-hŭi: Thoughts on Returning Home		Dialogue/Roundtable
+83	280	The Imperial Nation and My Feelings	Yu Ŏk-kyŏm, Professor, Yonhui College	Editorial/Article
+83	290	Old Temple Pilgrimage Record (Part 1): Famous Temple Pŏmŏsa	Kwŏn Sang-no	Travelogue
+83	300	Account of Meeting Ri Kōran and Kim Sin-jae		Dialogue/Roundtable
+83	310	Fengtian (Mukden) Military Officer Academy		News
+83	320	Inspiring Patriotic Stories	Selected by the Editorial Office	News
+83	321	Cut: Han Hong-t'aek - What is Cell Revitalization Therapy, Highly Effective for Chronic Gastrointestinal and Consumptive Diseases? - Combined Effect of Assimilable VB Vitamins and Three Digestive Enzymes	Okabe Taku, Doctor of Medicine	Miscellaneous Writing
+83	330	Germany's Cultural Policy: Its Facilities and Project Outlook	Berlin Scholar	News
+83	340	Overseas Cultural Correspondence		News
+83	350	France Has Fallen: Excerpted Translation of the Book That Shocked the World's Intellectuals	André Maurois (French Writer, in America)	Fiction (Book Excerpt)
+83	360	Culture of the Residents of the Dutch East Indies	Im Ch'ŏl in the Dutch East Indies	News
+83	370	Miscellaneous War Views: Recent Berlin and Paris	Parija	News
+83	380	American Popular Songs		Miscellaneous Writing
+83	390	Musicians and Artists' Talk Room		Dialogue/Roundtable
+83	400	Chastity Fee 2,000 Yen: The Tragedy of Divorce and Its Alimony	Kim Kwang-jun (Kanemitsu Junpei), Judge, Keijō District Court	Editorial/Article
+83	410	Promotion Measures for Folk Art and Rural Entertainment		Editorial/Article
+83	420	Len's Elegy; Wind and Waves	Mo Yun-suk	Fiction
+83	430	Short Autobiographies of Female Writers: A Fragment of "Life Records" from Those Raised Poetically Amidst Scenic Beauty		Memoir/Reminiscence
+83	440	Collection of Regional Poems from the South		Poem
+83	450	Jikimi	Kim Sa-ryang	Fiction
+83	460	Celestial Vein	Ch'oe Chŏng-hŭi	Fiction
+83	470	Editor's Postscript		Notice/Editor's Postscript
+84	001	The Problem of Koreans in Manchuria and Governor-General Minami's Firm Promise - 1.5 Million Korean Nationals Rejoice	Songhua River Person in Xinjing	Dialogue/Roundtable
+84	002	Culture Prize and the Spirit of Total Mobilization - The League's Culture Department Sets Out	Judge Terada Akira	Notice/Editor's Postscript
+84	010	Shanghai Officials and Civilians On-Site Roundtable		Dialogue/Roundtable
+84	020	Regarding the Path Forward for Korean Intellectuals	Mitarai Tatsuo, President of Keijō Nippō	Editorial/Article
+84	030	Personnel Changes in the Korean Christian World	Samch'ŏlli Editorial Bureau	News
+84	040	Account of Visiting the "Tombs of Kyŏngju"	Nakamura Ryōhei in Tokyo	Travelogue
+84	050	Wandering Poet Kim Satkat and His Works	Poet Miyoshi Tatsuji	Arts/Misc.
+84	060	Review of "Homeless Angel" and "Tuition Fee"	Shigeno Tatsuhiko in Tokyo	Arts/Literary Criticism
+84	070	From the Taedong River in Pyongyang	Kunikida Doppo	Arts/Misc.
+84	080	Poem: Watching "Ch'oe Sŭng-hŭi's Dance"	Noritake Mitsuo	Poem
+84	090	Asianism and Nationalism	Mei Siping, New China Ambassador to Japan	Editorial/Article
+84	100	Patriotic Spirit and Volunteer Soldiers	Kim Tong-hwan	Editorial/Article
+84	110	Korean Literature and the Language Problem	Kim Sa-ryang	Editorial/Article
+84	120	Notes of Mainland Japanese University Students Killed in Action	Asakura (Imperial Univ.), Ichikawa (Meiji Univ.), Anzai (Meiji Univ.)	Memoir/Reminiscence
+84	130	Account of Experiences in the National Language (Japanese) Comprehension Movement	Tamagawa Yoshio (Keijō Normal School), Ha Chung (P'ap'yŏng)	Memoir/Reminiscence
+84	140	Sano Shūji and Kim Sin-jae Roundtable Discussion	Samch'ŏlli Editorial Bureau	Dialogue/Roundtable
+84	141	Acute Gastroenteritis Common in Spring - Prompt Treatment Needed to Prevent Chronicity	Okabe Taku, Doctor of Medicine	Miscellaneous Writing
+84	142	Chronic Gastrointestinal Disease from Binge Eating and Drinking	Yi Hak-su, Ch'unch'ŏn, Kangwŏn Province	Miscellaneous Writing
+84	150	Sacred Concepts of Ancient Eastern Peoples	Ch'oe Nam-sŏn, Professor, Manchukuo Jianguo University	Editorial/Article
+84	160	Revolutionary Child of the Fiber World: "Synthetic Fiber"	Yi Sŭng-gi, Assistant Professor, Chemical Research Institute, Kyoto Imperial University	Editorial/Article
+84	170	Spiritual Cooperation Between Japan and China	Cho Tong-sŏn, Lecturer, Shanghai Hujiang University	Editorial/Article
+84	180	Exchange Between Korean Culture and German Culture	Kang Se-hyŏng, Director, Tokyo Japan-Germany Cultural Association	Editorial/Article
+84	190	Valuable Document: Replying to the US President.	German Führer Hitler	Editorial/Article
+84	200	150,000 Indian Soldiers: Investigation into India's War Capability	Paegak Sanin	Editorial/Article
+84	210	Korea's Population and National Land Plan; Korean Agriculture, Food, and National Land Plan	In Chŏng-sik, Member, Korean National Land Problem Committee	Editorial/Article
+84	220	Korean Population and the Problem of Improving Rural Nutrition	Chang Sang-hong	Editorial/Article
+84	230	Youth's Lives and the Tuberculosis Problem	Pak Chŏng-hyu, Former Principal, Hamhŭng Elementary School	Editorial/Article
+84	240	Visit to Indian Poet Sage Tagore's "Visva-Bharati" (Forest Academy)	O Chŏng-sŏk in India	Travelogue
+84	250	<Field Report> Hankou and the Recent Situation of Koreans	Yu Sang-ŭn, Principal, Hankou Peace Japanese Language School	News
+84	260	Willow Trees, Pavilions of May	Chu Yo-han, Yi Sŏk-hun	Arts/Misc.
+84	270	Topics: Korea · Mainland Japan · Overseas - Circulating News		News
+84	280	The Beauty of Eastern and Western Women: Returning from Paris and Seeing Korean Women	Painter Pae Un-sŏng	Arts/Misc.
+84	290	Paradise of the "Homeless Angels": Record of Life at Hyangninwŏn	Pang Su-wŏn, Director, Hyangninwŏn	Memoir/Reminiscence
+84	300	Inspiring Patriotic Stories	Selected by the Editorial Office	News
+84	310	Diary of a Beloved Child	Pak Oe-sŏn, Pak Kyŏng-hŭi	Arts/Misc.
+84	320	The New Order and the Mission of the Film Artists Association	An Chong-hwa, President, Korean Film Artists Association	Editorial/Article
+84	330	Box Office Revenue of Korean Films		Miscellaneous Writing
+84	340	Production Quantity of Korean Films		Miscellaneous Writing
+84	350	Views on Film by World Leaders		Miscellaneous Writing
+84	360	Regulations of the Korean Film Artists Association		Miscellaneous Writing
+84	370	A Short History of Korean Film Development	Im Hwa	Editorial/Article
+84	380	Exchange of Japanese and Korean Culture Through Film	Kim Sŏng-gyun, Film Censorship Office, Library Section, Government-General	Editorial/Article
+84	390	The Future of Korean Cultural Films	Chu Yŏng-sŏp	Editorial/Article
+84	400	Number of Film Viewers in Korea		Miscellaneous Writing
+84	410	Argument for Establishing a Korean Film School	An Sŏk-chu	Editorial/Article
+84	420	Regulations for Issuing Skill Certificates for Film Professionals		Miscellaneous Writing

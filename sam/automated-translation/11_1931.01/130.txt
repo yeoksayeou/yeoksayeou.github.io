@@ -1,0 +1,45 @@
+Magazine Title: 三千里 제11호
+Publication Date: 1931년 01월 01일
+Article Title: 韓一과 湖西銀行合同 (Hanil and Hoseo Bank Merger)
+Author: None Specified
+Article Type: 소식 (News)
+
+Hanil and Hoseo Bank Merger
+
+The Hanil Bank (韓一銀行) of Kyŏngsŏng and the Hoseo Bank (湖西銀行) of Ch'ŏnan are set to merge. It has been decided that the capital will be 4 million won, and the name will become the Chosŏn Tongil Bank (朝鮮東一銀行). Currently, the negotiations are progressing significantly. <37>
+
+**Summary**
+
+This short news brief reports on the planned merger between Hanil Bank, based in Kyŏngsŏng (Seoul), and Hoseo Bank, based in Ch'ŏnan. The merged entity is to be capitalized at 4 million won and named Chosŏn Tongil Bank, with negotiations reported to be well underway. From a historical perspective, this article documents the consolidation within the Korean banking sector during the Japanese colonial period. It highlights the existence and activity of regional Korean banks like Hoseo Bank alongside larger ones like Hanil Bank, and their eventual absorption into larger entities, reflecting economic trends under colonial rule. Historians might find the specific details of the merger (capitalization, new name, participating banks) useful for tracking financial developments and Korean capital formation (or lack thereof) during this era.
+
+**Named Entities**
+
+韓一銀行	한일은행	Hanil Ŭnhaeng
+湖西銀行	호서은행	Hoso Ŭnhaeng
+京城	경성	Kyŏngsŏng
+天安	천안	Ch'ŏnan
+朝鮮東一銀行	조선동일은행	Chosŏn Tongil Ŭnhaeng
+
+**Glossary**
+
+合同	합동	Merger; Joining together
+하야	하여	To do; and then (Older conjunctive form of 하다)
+資本金	자본금	Capital fund; Capital stock
+方今	방금	Now; Currently (Slightly more formal/older than modern 방금/지금)
+交捗	교섭	Negotiations; Progress (Often refers specifically to diplomatic or business talks)
+進捗	진척	Progress; Advancement
+잇다	있다	To be; To exist (Older spelling of 있다)
+京城	경성	Capital City (Name for Seoul during the Japanese colonial period)
+銀行	은행	Bank
+
+
+---------------------------
+
+
+잡지명	삼천리 제11호
+발행일	1931년 01월 01일
+기사제목	韓一과 湖西銀行合同
+기사형태	소식
+
+韓一과 湖西銀行合同
+京城의 韓一銀行과 天安의 湖西銀行이 서로 合同하야 資本金 4백만원으로 하고 명칭은 朝鮮東一銀行으로 하기로 되어 方今 그 交捗이 매우 進捗중에 잇다.＜37＞

@@ -1,0 +1,60 @@
+**Header Section:**
+Magazine Title: 三千里 제5권 제1호
+Publication Date: 1933년 01월 01일
+Article Title: 그리운 우리 情調, 濟州島의 燃燈祭 (Our Cherished Sentiment, Cheju Island's Yŏndŭngje (Lantern Festival))
+Author: O Ch'ŏng (吳晴)
+Article Type: 문예기타 (Literary Miscellaneous)
+
+**Body Text Translation:**
+Our Cherished Sentiment, Cheju Island's Yŏndŭngje (Lantern Festival)
+
+This is a custom practiced in regions of Cheju Island such as Kuidŏk and Kŭbyŏng. Twelve poles are erected to welcome the gods and perform rites (祭). Various figures (種種의 形) are made and decorated with colored silk (彩帛), and a horse-riding play (躍馬戱) is performed to please the gods. This is called Yŏndŭng (燃燈), and it is held from the first day of the second lunar month until the fifteenth day of the second lunar month.
+
+From O Ch'ŏng's (吳晴氏) "Chosŏn ŭi Yŏnjunghaengsa" (朝鮮의 年中行事) <67>
+
+**Summary**
+
+This short excerpt describes the Yŏndŭngje (Lantern Festival) as practiced in the Kuidŏk and Kŭbyŏng regions of Cheju Island in the early 1930s. The custom involves setting up twelve poles for deities, performing rites, creating figures decorated with colored silk, and staging a horse-riding play to entertain the gods. The festival takes place between the first and fifteenth days of the second lunar month. From a historical perspective, this text is valuable for documenting a specific regional folk religious practice during the Japanese colonial period. It provides details about the material culture (poles, silk figures) and performance aspects (rites, horse play) of a local festival, preserving a snapshot of Cheju Island's cultural traditions at that time.
+
+**Named Entities**
+
+濟州島	제주도	Cheju Island
+귀덕	귀덕	Kuidŏk
+급영	급영	Kŭbyŏng
+吳晴	오청	O Ch'ŏng
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+情調	정조	Sentiment, mood, atmosphere
+濟州島	제주도	Cheju Island
+燃燈祭	연등제	Lantern Festival (Yŏndŭngje)
+행하는	행하는	Practiced, performed (standard form)
+풍속	풍속	Custom, tradition
+장대	장대	Pole, staff
+마저	맞아	To welcome, greet (older form/spelling of 맞아)
+제	제	Rite, ritual (often referring to 祭)
+지내고	지내고	To perform, hold (a ceremony)
+종종의형	종종의 형	Various kinds of figures/shapes (種種의 形)
+맨드러	만들어	To make (older form/spelling of 만들어)
+채백	채백	Colored silk (彩帛)
+장식	장식	Decoration
+약마희	약마희	Horse-riding play/game (躍馬戱)
+깁흐게	기쁘게	To please, make happy (older form/spelling of 기쁘게)
+연등	연등	Lantern lighting; the festival name (燃燈)
+하야	하여	Being called; doing and... (older form/spelling of 하여)
+보름	보름	Fifteenth day of the lunar month (full moon day)
+年中行事	연중행사	Annual events/customs
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제1호
+발행일	1933년 01월 01일
+기사제목	그리운 우리 情調, 濟州島의 燃燈祭
+기사형태	문예기타
+
+그리운 우리 情調, 濟州島의 燃燈祭
+이것은 제주도의 귀덕 급영 등의 지방에 행하는 풍속이다. 열두개의 장대를 세워 신을 마저 제를 지내고 종종의형을 맨드러 채백(彩帛)으로 장식을 하고 약마희(躍馬戱)를 맨드러 신을 깁흐게 한다. 이것을 연등이라 하야 이월 일일로부터 이월 보름까지 한다.
+吳晴氏 著 「朝鮮의 年中行事에서」＜67＞

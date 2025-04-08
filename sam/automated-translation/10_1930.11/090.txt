@@ -1,0 +1,101 @@
+Magazine Title: 삼천리
+Publication Date: 1930년 11월 01일
+Article Title: 여러분 아심니까?, 朝鮮의 現實硏究室 (Do You Know?, Research Lab on the Reality of Chosŏn)
+Author: Not mentioned
+Article Type: 소식 (News/Tidings)
+
+Do You Know?, Research Lab on the Reality of Chosŏn
+5 Thousand Factories
+Do you know how many factories there are in Chosŏn that produce any kind of manufactured goods, whether they are rice mills, rubber factories, or factories making luxury items like clothing, textiles, or gold, silver, and precious jewelry? According to a recent survey, the numbers are:
+Kyŏnggi-do 1,495 factories
+Ch'ungch'ŏngbuk-to 63
+Ch'ungch'ŏngnam-do 203
+Chŏllabuk-to 132
+Chŏllanam-do 456
+Kyŏngsangbuk-to 612
+Kyŏngsangnam-do 963
+Hwanghae-do 240
+P'yŏngan'nam-do 500
+P'yŏnganbuk-to 264
+Kangwŏn-do 90
+Hamgyŏngnam-do 152
+Hamgyŏngbuk-to 172
+for a total of 5,342 locations.
+
+11 Million Won Goes Up in Smoke
+Just as the song "Guya guya dambaeguya" [a folk tune about tobacco] flows along nicely, there is simply no place, here or there, without the smoke of people smoking tobacco. And so, between drinking alcohol and smoking tobacco, our pockets empty day by day. Now, as for how much tobacco was sold by the Government-General's Tobacco Monopoly Bureau from April to July this year, a period of about 4 months, it is said to be a total of 11,553,000 Won. How much money is just flying away like coal and charcoal!... <26>
+
+**Summary**
+
+This short news piece from 1930 reports two statistics about colonial Korea (Chosŏn). First, it lists the number of factories by province, totaling 5,342, highlighting a significant concentration in Kyŏnggi-do and Kyŏngsangnam-do. Second, it states that tobacco sales by the Government-General's Monopoly Bureau amounted to over 11.5 million Won in just four months (April-July 1930), lamenting this expenditure. For historians, this article provides specific quantitative data on the distribution of early industrialization across Korea and the significant revenue generated (and consumer spending involved) by the state-controlled tobacco monopoly during the colonial period. It reflects contemporary awareness of economic conditions and perhaps a subtle critique of consumer spending habits under colonial rule.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+京畿道	경기도	Kyŏnggi-do
+忠淸北道	충청북도	Ch'ungch'ŏngbuk-to
+忠淸南道	충청남도	Ch'ungch'ŏngnam-do
+全羅北道	전라북도	Chŏllabuk-to
+全羅南道	전라남도	Chŏllanam-do
+慶尙北道	경상북도	Kyŏngsangbuk-to
+慶尙南道	경상남도	Kyŏngsangnam-do
+黃海道	황해도	Hwanghae-do
+平安南道	평안남도	P'yŏngan'nam-do
+平安北道	평안북도	P'yŏnganbuk-to
+江原道	강원도	Kangwŏn-do
+咸鏡南道	함경남도	Hamgyŏngnam-do
+咸鏡北道	함경북도	Hamgyŏngbuk-to
+총독부	총독부	Government-General
+연초전매국	연초전매국	Tobacco Monopoly Bureau
+
+**Glossary**
+
+아심니까	아십니까	Do you know? (Older interrogative form)
+그밧게	그밖에	Besides that; other than that (Older spelling)
+수효	수효	Number; count
+의하건대	의하면/의하건대	According to (Slightly archaic conjunction)
+로	으로	As; by (Particle, older spelling without vowel harmony consideration)
+모도	모두	All; altogether (Older spelling)
+흘너 다니드시	흘러 다니듯이	As it flows/spreads around (Older spelling/grammar)
+간데 온데	간 데 온 데	Everywhere; here and there (Idiomatic phrase, older spelling)
+업지요	없지요	There isn't/aren't, right? (Older spelling of 없다)
+날마다가	날마다	Everyday (Older form with particle 가)
+비여가지요	비어가지요	Becomes empty (Older spelling of 비다)
+팔니엿는가	팔렸는가	Was sold (Older spelling/past passive form)
+날녀가는가	날아가는가	Flies away; disappears (Older spelling of 날아가다)
+圓	원	Won (Currency unit, written with Hanja)
+연초전매국	연초전매국	Tobacco Monopoly Bureau
+정미공장	정미공장	Rice mill
+고무공장	고무공장	Rubber factory
+금은보패	금은보패	Gold, silver, and precious jewels; precious metals and jewelry
+
+
+---------------------------
+
+
+잡지명	삼천리 제10호
+발행일	1930년 11월 01일
+기사제목	여러분 아심니까?, 朝鮮의 現實硏究室
+기사형태	소식
+
+여러분 아심니까?, 朝鮮의 現實硏究室
+공장수 5千
+조선 안에 정미공장이나 고무공장이나 그밧게 입는 옷 가음 차는 금은보패 만드는 사치품 공장이거나 좌우간 무에나 生産品을 만드는 공장수효가 얼마나 잇는 줄 아심니까? 최근의 조사에 의하건대
+京畿道 1,495工場
+忠淸北道 63
+忠淸南道 203
+全羅北道 132
+全羅南道 456
+慶尙北道 612
+慶尙南道 963
+黃海道 240
+平安南道 500
+平安北道 264
+江原道 90
+咸鏡南道 152
+咸鏡北道 172
+로 모도 5,342개소라고 한다.
+
+1,100萬圓에 煙氣化
+「구야 구야 담바구야」하는 노래가 잘 흘너 다니드시 간데 온데 담배피우는 연긔가 업는 곳이 아예 업지요. 그래서 술먹기에 담배먹기에 우리들 주머니는 날마다가 비여가지요. 이제 금년 4월부터 7월까지 약 4개월 동안에 총독부에서 장사하는 연초전매국에서 얼마나 담배가 팔니엿는가 하면 모다 1,155만3천원이라 한다. 얼마나 석탄 백탄식으로 돈이 풀풀 날녀가는가?......＜26＞
+＜26＞

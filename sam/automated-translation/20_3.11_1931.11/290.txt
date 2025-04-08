@@ -1,0 +1,69 @@
+Magazine Title: 三千里
+Publication Date: 1931 November 01
+Article Title: 三千里 『壁新聞』 제3호, 朝鮮의 自殺者 數 (Samch'ŏlli "Wall Newspaper" No. 3, The Number of Suicides in Chosŏn)
+Author: Not specified
+Article Type: 소식 (News/Report)
+
+It might be called the strange prophecy of a fortune teller if one says that suicide and culture are directly proportional, but according to actual examples in Chosŏn, it is true that such a tendency certainly exists.
+
+Now, the total count of suicides that occurred just in Kyŏngsŏng is as noted below (左記).
+
+Male count 1,226 persons, female count 925 persons, total count 2,161 persons. Looking at the total count of suicides above, one can see that the number of males is greater than the number of females, and also, up to 9% of the suicides are Koreans (조선사람).
+
+Furthermore, regarding the method of suicide, about 50% of the total hang themselves (縊死) (997 persons), the next is drowning in water (518 persons), and the third is suicide by knife. From the fact that there are many people who drown, one can imagine that the season (씨-슨) for suicide is spring and summer.
+
+The time of year with the highest number of suicides is August. Next are June, May, and July; around January, February, and December, perhaps because it is cold, people seem less inclined to think of dying. <53>
+
+**Summary**
+
+This 1931 news brief from *Samch'ŏlli* magazine reports suicide statistics specifically for Kyŏngsŏng (colonial Seoul). It notes a total of 2,161 suicides (1,226 male, 925 female). Surprisingly, it claims only "up to 9%" of these were Koreans. The most common method was hanging (approx. 50%), followed by drowning (approx. 24%). Suicides peaked in the summer months, especially August, and were lowest in winter. For historians, the article offers specific social statistics for colonial Kyŏngsŏng, reflecting gender differences in suicide rates, methods, and seasonal patterns. The strikingly low percentage attributed to Koreans is particularly noteworthy and potentially indicative of reporting biases, demographic specifics of Kyŏngsŏng at the time (significant Japanese population), or a possible misprint/misstatement in the original article.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+京城	경성	Kyŏngsŏng
+
+**Glossary**
+
+三千里	삼천리	Samch'ŏlli (lit. "Three Thousand Ri," a common name for Korea; here, the magazine title)
+壁新聞	벽신문	Wall Newspaper (A section likely imitating a public bulletin)
+自殺者	자살자	Suicide victim
+數	수	Number
+정비례	정비례	Direct proportion
+실례	실례	Actual example, real case
+京城	경성	Kyŏngsŏng (Colonial name for Seoul)
+左記	좌기	As noted below/on the left
+如하다	여하다	To be like, such as (older form, now ~와 같다)
+남자수	남자수	Number of males
+여자수	여자수	Number of females
+총수	총수	Total count, total number
+만흔	많은	Many, numerous (older spelling of 많은)
+보담	보다	Than (older form/dialectal form of 보다)
+잇는	있는	To be, to exist (older spelling of 있는)
+조선사람	조선사람	Korean person
+방법	방법	Method, way
+전체	전체	The whole, total
+할	할	Unit of 10 percent (e.g., 5할 = 50%)
+가량	가량	Approximately, about
+縊死	익사	Death by hanging
+셋재	셋째	Third (older spelling of 셋째)
+칼노	칼로	With a knife (older spelling/particle usage)
+씨-슨	시즌	Season (loanword)
+만허지는	많아지는	To become many, increase (older spelling/form of 많아지는)
+까닭인지	까닭인지	Perhaps because, maybe the reason is
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제11호
+발행일	1931년 11월 01일
+기사제목	三千里 『壁新聞』 제3호, 朝鮮의 自殺者 數
+기사형태	소식
+
+三千里 『壁新聞』 제3호, 朝鮮의 自殺者 數
+자살과 문화와는 정비례가 된다고 하면 이상한 점쟁이의 예언이라고 할넌지도 모르지만 조선의 실례에 의하면 확실히 그러한 경향이 잇는 것은 사실이다.
+인제 京城에서만 이러난 그 자살자 총계는 左記와 如하다.
+남자수 1,226인, 여자수 925인, 총수 2,161인 이상의 자살자 총계를 보면 여자수 보담 남자수가 만흔 것을 알 수 잇는 것이며 또한 자살자 중 9%까지는 조선사람이다.
+그리고 자살의 방법은 전체의 5할 가량은 縊死(997인)하는 것이고 그 다음으로 물에 빠저 죽는 것이며(518인) 셋재로는 칼노 자살하는 것이다. 물에 빠저 죽는 사람이 만흔 것으로부터 상상할 수 잇는 것은 자살에 씨-슨은 봄과 여름이라고 보겟다.
+1년중에 잇서서 제일 자살자의 수가 만허지는 때는 8월이다. 그 다음은 6월, 5월, 7월이고 1월, 2월, 12월 경에는 추운 까닭인지 죽을 생각이 덜한 모양이다.＜53＞

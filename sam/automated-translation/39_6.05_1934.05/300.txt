@@ -1,0 +1,75 @@
+**Header Section:**
+Magazine Title: 삼천리 (Samch'ŏlli) 제6권 제5호
+Publication Date: 1934년 05월 01일 (May 1, 1934)
+Article Title: 理想的 妻의 分折表 (Analysis Table of the Ideal Wife)
+Author: 엇던 高名한 文人 (A certain famous writer)
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation:**
+Analysis Table of the Ideal Wife
+
+A certain famous writer announced the percentage analysis table of the wife he ideally envisions as follows.
+
+1.  Beauty - Appearance (long like a willow leaf, eyes round and large, teeth white as snow, nose prominent*) 50 points; Beauty of Speech (P'yŏngan Province dialect or Seoul accent is good) 10 points; Beauty of Demeanor (tall and slender figure, delicate, graceful and poised, just like a crane or a white heron) 20 points. Total 80 points
+(*Refers to a well-defined, somewhat high nose bridge)
+
+2.  Education - Graduating from primary school is sufficient. Didn't Rousseau marry a completely uneducated woman? The philosopher Laozi also did so. Education is not that important for a housewife. Total 10 points
+
+3.  Wealth - A woman raised in a very poor household lacks cheerfulness due to shadows in her disposition. Therefore, one born into the middle class is enviable. Total 10 points. This completes the 100 points.<64>
+
+**Summary**
+
+This article presents a point-based system outlining one writer's criteria for an "ideal wife" in 1934 Korea. The overwhelming majority of points (80%) are allocated to physical beauty, encompassing facial features, specific regional speech patterns (P'yŏngan or Seoul dialect), and a tall, slender, graceful figure likened to a crane or heron. Education is deemed largely unimportant (10%), with primary school being sufficient, citing Rousseau and Laozi as examples. Modest wealth (middle-class background) is preferred (10%) to ensure a cheerful disposition, avoiding the perceived "shadows" of poverty. For historians, the article offers insight into patriarchal beauty standards and social values in colonial Korea, revealing a strong emphasis on appearance over female intellect, specific preferences for regional accents possibly linked to perceived modernity or status (Seoul) or perhaps regional stereotypes (P'yŏngan), and class-based assumptions about personality.
+
+**Named Entities**
+
+平安道	평안도	P'yŏngan-do
+서울	서울	Sŏul
+룻소	룻소	Rousseau
+老子	노자	Laozi
+
+**Glossary**
+
+分折表	분석표	Analysis table (Older form/spelling of 분석표)
+엇던	어떤	A certain (Older spelling)
+高名한	고명한	Famous, renowned
+가치	같이	Like, as (Older spelling)
+어골어골 크고	동글동글 크고	Round and large (Describing eyes; older/uncommon adjective)
+白雪가치	백설같이	Like white snow
+히고	희고	Being white (Older spelling)
+코이	코가	The nose is (Subject particle 이 used instead of modern 가)
+산둑한	오뚝한	Prominent, well-defined (Describing a nose; older/uncommon adjective, likely meaning 오뚝한)
+조타	좋다	Is good (Older spelling)
+후리후리 크고	훤칠하게 크고	Being tall and slender
+간얄피고	가냘프고	Being slender, delicate (Older spelling)
+산눗하야	산뜻하여/꼿꼿하여	Being graceful and poised/upright (Older/uncommon adjective form)
+학두룸	학두루미	Crane (Older form/spelling)
+백로가튼	백로 같은	Like a white heron (Older spelling of particle)
+無*하다	무방하다	Does not matter, is acceptable (Likely typo/older form for 무방하다)
+娶치	취하지	(Not) marry (Older verbal ending combined with Hanja 娶 for 'marry')
+안엇든가	않았던가	Didn't (someone) do X? (Older interrogative ending)
+그러하엿다	그러하였다	Was so, did so (Older form)
+그러케	그렇게	So, that much (Older spelling)
+안타	않다	Is not (Older spelling/form)
+잇서	있어	Existing, being (Older spelling)
+陰影	음영	Shadow, gloominess
+明朗味	명랑미	Cheerfulness, brightness
+缺한다	결한다	Lacks (Older verbal form of 결하다)
+그러기에	그러기에	Therefore
+이가	이가	Person who is (Noun + subject particle)
+完한다	완한다	Completes (Older verbal form of 완하다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제5호
+발행일	1934년 05월 01일
+기사제목	理想的 妻의 分折表
+기사형태	잡저
+
+理想的 妻의 分折表
+엇던 高名한 文人이 자기가 理想하는 이해의 百分比分折表를 아래와 가치 발표하엿다.
+1. 美-容貌는 (버들입가치 길고, 눈이 어골어골 크고 이가 白雪가치 히고 코이 산둑한 이*) 50점 言語美 (平安道 사투리나 서울말씨가 조타) 10점 姿態美(키가 후리후리 크고 간얄피고, 산눗하야 마치 학두룸이나 백로가튼 이) 20점. 計 80점
+2. 學識-普通學校卒業程度라도 無*하다. 룻소는 전혀 무식한 여자를 娶치 안엇든가. 哲人老子도 그러하엿다. 家庭婦人에 學識은 그러케 중요치 안타. 計 10점
+3. 財産-너무 가난 집안에서 자라난 여성은 그 심성에 陰影이 잇서 明朗味를 缺한다. 그러기에 中産階級에 태어난 이가 부럽다. 計 10점 이상으로 100점을 完한다.<64>

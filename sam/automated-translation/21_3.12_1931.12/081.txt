@@ -1,0 +1,48 @@
+**Header Section:**
+Magazine Title: 三千里
+Publication Date: 1931년 12월 01일
+Article Title: 急告 (Urgent Notice)
+Author: 三千里白 (From Samch'ŏlli)
+Article Type: 사고·편집후기 (Company Notice/Editorial Postscript)
+
+**Body Text Translation:**
+Urgent Notice
+
+It is regrettable if there is still no Samch'ŏlli branch office or sales outlet established in the region (方地) where you are located, so please make every effort to establish one (Internal regulations will be provided).
+From Samch'ŏlli <24>
+
+**Summary**
+
+This short notice from the magazine *Samch'ŏlli* urges readers in areas without existing distribution points (branch offices or sales outlets) to take the initiative and establish one. The magazine offers to provide internal regulations to assist those interested. For historians, this notice highlights the magazine's efforts to expand its distribution network across Korea during the colonial period, relying on reader initiative. It reflects the practical challenges of publishing and distribution, and potentially the desire to foster a wider readership network despite colonial constraints.
+
+**Named Entities**
+
+*(No specific named entities other than the magazine itself were mentioned in the text)*
+
+**Glossary**
+
+서	께서	Honorific particle meaning 'to/from/by' (older spelling of 께서)
+게신곳	계신 곳	Place where (someone respected) is (older spelling)
+方地	방지	Region, area, locality (Hanja: 方地)
+設置되여	설치되어	To be established, installed (older spelling/inflection)
+잇지안으시면서운한	있지 않으시면 서운한	If (it) is not there, it is regrettable/unfortunate (likely older spelling/spacing for 있지 않으시면 서운한)
+서	께서	Honorific subject particle (older spelling of 께서)
+盡力	진력	Making every effort, exertion (Hanja: 盡力)
+주시압	주십시오	Please give/do (older polite imperative ending)
+內規	내규	Internal regulations (Hanja: 內規)
+進呈	진정	To present, to offer (formally) (Hanja: 進呈)
+白	백	Suffix used after a name/organization in notices meaning 'reports', 'states', or 'from' (Hanja: 白)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제12호
+발행일	1931년 12월 01일
+기사제목	急告
+기사형태	사고·편집후기
+
+急告
+여러분서 게신곳 方地에 아직 三千里支社나 販賣所가 設置되여 잇지안으시면서운한일이오니 貴下서 盡力하시여 設置하여주시압(內規進呈)
+三千里白＜24＞
+＜24＞

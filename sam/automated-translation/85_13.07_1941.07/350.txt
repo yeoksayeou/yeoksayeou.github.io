@@ -1,0 +1,68 @@
+**Header Section**
+Magazine Title: 삼천리 제13권 제7호
+Publication Date: 1941년 07월 01일
+Article Title: 銃後文藝講演會 (Home Front Literary Lecture Meeting)
+Author: Not specified
+Article Type: 소식 (News/Dispatch)
+
+**Body Text Translation**
+Home Front Literary Lecture Meeting
+
+The Literary Home Front Lecture Meeting, hosted by the Literary Association (文藝協會) in Okaya City (岡谷市), Nagano Prefecture (長野縣), was held starting at 7 PM on the 9th of last month on the upper floor of the City Hall. The venue was a great success, with no standing room (立錐의 여지) even before the scheduled time.
+
+Beginning with greetings from Mayor Imai of Okaya (今井岡谷市長), five individuals—Shinkyō Kaku (新居格), Nakamura Murao (中村武羅夫), Ibuse Masuji (井伏鱒二), Kamei Katsuichirō (龜井勝一郞), and Hibino Shirō (日比野士郞)—took turns delivering passionate speeches on literary service to the nation (文藝報國), deeply impressing the capacity crowd.
+
+Before the lectures began, the group of speakers inspected Shirishio Pass (尻鹽峠). Starting from 5 PM, they attended a discussion meeting held at the City Hall with local influential figures and the heads of the cultural departments from each village and town's Yokusan Youth Corps (各町村翼贊壯年團文化部長). It is said that this became an informal meeting offering many suggestions for the construction of local culture. <177>
+
+**Summary**
+
+This news article reports on a "Home Front Literary Lecture Meeting" held in Okaya City, Nagano Prefecture, Japan, in June 1941. Hosted by the local Literary Association, the event featured five prominent Japanese literary figures who spoke about "literary service to the nation" to a large audience. Before the main event, the speakers visited a local pass and participated in a discussion with local leaders and cultural heads of the Yokusan Youth Corps regarding local cultural development. From a historical perspective, this piece is interesting as it appears in a Korean magazine, reporting matter-of-factly on an event in mainland Japan aimed at mobilizing cultural figures and local organizations for the Japanese war effort through literature. It demonstrates the reach of wartime propaganda and the integration of cultural activities into the state's objectives, highlighting the expected role of literature in bolstering the "home front" (銃後) spirit across the empire.
+
+**Named Entities**
+長野縣	나가노현	Nagano Prefecture
+岡谷市	오카야시	Okaya City
+文藝協會	문예협회	Literary Association
+市役所	시야쿠쇼	City Hall (Japanese context)
+今井岡谷市長	이마이 오카야 시장	Mayor Imai of Okaya
+新居格	니이 카쿠	Shinkyō Kaku
+中村武羅夫	나카무라 무라오	Nakamura Murao
+井伏鱒二	이부세 마스지	Ibuse Masuji
+龜井勝一郞	카메이 카츠이치로	Kamei Katsuichirō
+日比野士郞	히비노 시로	Hibino Shirō
+尻鹽峠	시리오토게	Shirishio Pass
+地方有力者	지방유력자	Local influential figures
+各町村翼贊壯年團文化部長	각정촌익찬장년단문화부장	Heads of the Cultural Departments of each Village and Town's Yokusan Youth Corps
+
+**Glossary**
+銃後	총후	Home front (wartime context)
+文藝	문예	Literature and arts
+講演會	강연회	Lecture meeting
+主催	주최	Hosting; sponsoring
+盛況	성황	Great success; large attendance; thriving
+立錐의 여지	입추의 여지	Standing room only (idiom: lit. 'no room to stick an awl')
+ 인사	인사	Greetings; opening remarks
+ 비롯해서	비롯해서	Beginning with; starting from
+ 順次	순차	In sequence; one after another
+ 熱辨	열변	Passionate speech; fervent argument
+ 報國	보국	Serving the nation; patriotism (often in a wartime context)
+ 滿場	만장	Full house; entire audience
+ 감명	감명	Deep impression; moving experience
+ 視察하다	시찰하다	To inspect; to observe; to visit
+ 座談會	좌담회	Discussion meeting; symposium; round-table talk
+ 出席하다	출석하다	To attend; to be present
+ 示唆	시사	Suggestion; hint; implication
+ 懇談會	간담회	Informal discussion meeting; friendly chat
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제7호
+발행일	1941년 07월 01일
+기사제목	銃後文藝講演會
+기사형태	소식
+
+銃後文藝講演會
+長野縣 岡谷市에 있는 文藝協會主催 文藝銃後講演會는 지난 9일밤 7시부터 市役所樓上에서 개최했는데, 會場은 定刻 전부터 立錐의 여지가 없는 盛況이었다.
+今井岡谷市長의 인사로 비롯해서 新居格, 中村武羅夫, 井伏鱒二, 龜井勝一郞, 日比野士郞의 五氏가 順次대로 文藝報國의 熱辨을 토하여 滿場의 청중에게 다대한 감명을 주었다.
+講演을 시작하기 전, 演士들 一行은 尻鹽峠를 視察하고 오후 5시부터는 市役所에 열린 地方有力者와 各町村翼贊壯年團文化部長 等의 座談會에 출석하여 地方文化 建設의 많은 示唆이 있는 懇談會가 되었다 한다.<177>

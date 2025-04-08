@@ -1,0 +1,45 @@
+**Header Section**
+Magazine Title: 三千理 제4권 제2호
+Publication Date: 1932년 02월 01일
+Article Title: 社告 (Company Announcement)
+Article Type: 소식 (News/Notice)
+
+**Body Text Translation**
+Company Announcement
+
+Regarding the discussion on abolishing factionalism and regional fervor, we announce that we regrettably could not publish the long, 57-page manuscript by Mr. Wŏn Sehun (元世勳), which historically discussed factionalism, along with manuscripts from several other authors.
+
+Samch'ŏlli Company Editorial Department <11>
+
+**Summary**
+
+This brief notice from the Samch'ŏlli magazine's editorial department informs readers that several manuscripts, including a lengthy 57-page one by Wŏn Sehun discussing the history of factionalism, could not be published in the current issue focused on "abolishing factionalism and regional fervor." For historians, this notice is interesting as it points to editorial decisions possibly influenced by the sensitivity of discussing internal Korean divisions like factionalism (파쟁) and regionalism (지방열) during the colonial period. It hints at the constraints or self-censorship magazines faced when dealing with potentially controversial socio-political topics.
+
+**Named Entities**
+
+元世勳	원세훈	Wŏn Sehun
+삼천리사 편집국	삼천리사 편집국	Samch'ŏlli Company Editorial Department
+
+**Glossary**
+
+社告	사고	Company announcement
+파쟁	파쟁	Factional strife, factionalism
+지방열	지방열	Regional fervor, regionalism
+타파론	타파론	Argument/discussion for abolition/overthrow
+논술한	논술한	(Which) discussed/argued
+매	매	Sheet/page (counter for paper)
+싯지 못하엿슴	싣지 못하였음	Could not publish (Older spelling/form of 싣지 못하였음)
+고하나이다	고하나이다	(We) announce/inform (Older polite ending, modern 고합니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제2호
+발행일	1932년 02월 01일
+기사제목	社告
+기사형태	소식
+
+社告
+파쟁과 지방열 타파론에 대하야 파쟁을 역사적으로 논술한 元世勳 씨의 57매의 긴 논문과 기타 數 씨의 원고를 부득이 싯지 못하엿슴을 고하나이다.
+삼천리사 편집국＜11＞

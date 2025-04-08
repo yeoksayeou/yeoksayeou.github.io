@@ -1,0 +1,60 @@
+Magazine Title: 삼천리 제13권 제3호
+Publication Date: 1941년 03월 01일
+Article Title: 訂正 (Correction)
+Author: N/A (Correction notice for an article by 鄭僑源 Chŏng Kyo-wŏn)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Correction
+
+We humbly make the following corrections to Mr. Chŏng Kyo-wŏn's (鄭僑源) "The Ethical Conclusion of Naeseon Ilch'e" (內鮮一體의 윤리적 歸結) published in the New Year issue of this magazine:
+In item 75, change 救授 (kusŏ) and 授護 (suho) to 救援 (kuwŏn - rescue) and 援護 (wŏnho - aid/support); change 薨去 (honggŏ - demise) to 御薨去 (O-honggŏ - honorable demise [imperial connotation]); change 南鮮人間 (Namsŏn in'gan - Southern Korean people) to 內鮮人間 (Naesŏn in'gan - Japanese and Korean people); change "When I heard that [someone] was said to have been deeply grieved (御悲痛해 하시옵셨다고 듣자왔는때), I am startled anew" to "The fact that [someone] predicted they would enter nirvana (入寂할 것) on the first anniversary [of a death] and indeed carried this out is something that causes endless astonishment (驚歎不已) even after a thousand years (千載下)".
+
+Furthermore, in item 76, change 法興社 (Pŏphŭngsa - Pŏphŭng Society) to 法興寺 (Pŏphŭngsa - Pŏphŭng Temple) and 將電 (changjŏn - general's telegram?) to 將軍 (changgun - General).<25>
+
+**Summary**
+
+This is a correction notice (errata) for an article titled "The Ethical Conclusion of Naeseon Ilch'e" by Chŏng Kyo-wŏn, published in the New Year 1941 issue of Samch'ŏlli magazine. It corrects specific words and phrases, changing terms related to aid, death honorifics, the term for Koreans and Japanese, a specific quote, a temple name, and a military rank/title. From a historical perspective, the most revealing corrections are the change from `Namsŏn in'gan` (Southern Korean people) to `Naesŏn in'gan` (Japanese and Korean people), explicitly reflecting the assimilationist `Naeseon Ilch'e` (Japan and Korea as One Body) policy, and the addition of the imperial honorific prefix `御` (O/Gyō) to `薨去` (demise), indicating enforced reverence towards the Japanese Imperial house or high-ranking figures associated with it. These linguistic adjustments highlight the political pressures and ideological conformity demanded during this period.
+
+**Named Entities**
+
+鄭僑源	정교원	Chŏng Kyo-wŏn
+內鮮	내선	Naesŏn
+南鮮	남선	Namsŏn
+法興社	법흥사	Pŏphŭngsa (Pŏphŭng Society)
+法興寺	법흥사	Pŏphŭngsa (Pŏphŭng Temple)
+將軍	장군	Changgun (General)
+
+**Glossary**
+
+訂正	정정	Correction; Erratum
+揭載	게재	Publication;掲載 (Japanese keisai)
+內鮮一體	내선일체	Naeseon Ilch'e (Japan and Korea as One Body); Ideology promoted by Imperial Japan.
+歸結	귀결	Conclusion; Outcome
+救授	구수	An older or possibly erroneous term for rescue/aid (corrected to 救援).
+授護	수호	An older or possibly erroneous term for aid/support (corrected to 援護).
+救援	구원	Rescue; Relief; Aid
+援護	원호	Support; Aid; Protection
+薨去	훙거	Demise (used for high-ranking individuals, non-imperial).
+御薨去	어훙거	Honorable Demise (specifically used with the honorific prefix 御 'O/Gyō', often implying imperial connection).
+南鮮人間	남선인간	Southern Korean people (term often used before stronger enforcement of Naeseon Ilch'e).
+內鮮人間	내선인간	Japanese and Korean people (as one entity under Naeseon Ilch'e).
+一週忌日	일주기일	First anniversary of a death.
+入寂	입적	Entering nirvana; Death (specifically of a Buddhist monk/nun).
+預言	예언	Prediction; Prophecy
+實行	실행	Implementation; Carrying out
+千載下	천재하	Down through a thousand years; Throughout ages.
+驚歎不已	경탄불이	Endless astonishment; Unceasing admiration/wonder.
+法興寺	법흥사	Pŏphŭng Temple (A Buddhist temple name).
+將軍	장군	General (military rank).
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제3호
+발행일	1941년 03월 01일
+기사제목	訂正
+기사형태	사고·편집후기
+
+訂正
+본지 신년호에 揭載한 鄭僑源씨의 『內鮮一體의 윤리적 歸結』 중 75항의 救授와 授護를 救援과 援護로 그 薨去를 御薨去로 南鮮人間을 內鮮人間으로 『御悲痛해 하시옵셨다고 듣자왔는때 새삼스레 놀라게 된다』를 『一週忌日에 入寂할 것을 예언하고 과연 이것을 실행하였는 것 같은 사실은 千載下에서도 驚歎不已하는 바이다』로 삼가 訂正하오며, 및 76항의 法興社를 法興寺로 將電을 將軍으로 訂正하나이다.<25>

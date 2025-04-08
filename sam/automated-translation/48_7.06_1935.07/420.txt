@@ -1,0 +1,46 @@
+Magazine Title: 三千里 제7권 제6호
+Publication Date: 1935년 07월 01일
+Article Title: 사람의 心臟을 (Regarding the Human Heart)
+Article Type: 잡저 (Miscellaneous Writing)
+
+Don't people in love talk about the "heart" (하-트) this and that? It refers to the heart (심장), which they call "heart" (하-트).
+
+If you take a heart out of the human body, does it die right away? Not so. According to the research of Dr. "Kuburayu" (구불아유) of Russia (露西亞), it is said to live for 30 hours.<210>
+
+**Summary**
+
+This short piece reflects on the common term "heart" used in romance and contrasts it with a scientific claim. It reports that according to research by a Russian doctor named "Kuburayu," a human heart can survive outside the body for up to 30 hours. From a historical perspective, the article shows the dissemination of (potentially simplified or sensationalized) Western scientific news, specifically from Soviet Russia, into colonial Korea. The use of mixed script (Hanja and Hangul), older spellings like "그러치안코" and "함니다," and the transliteration of foreign terms like "하-트" (heart) are typical linguistic features of the period, making it interesting for historical linguistics and studies of cultural reception.
+
+**Named Entities**
+
+露西亞	노서아	Russia
+구불아유	구불아유	Kuburayu
+
+**Glossary**
+
+心臟	심장	Heart
+하-트	하트	Heart (English loanword transliteration)
+엇저구 엇저구	어쩌구 저쩌구	This and that, blah blah (Older spelling/form)
+안어요	않아요	Do not (Older/colloquial verb ending)
+말임니다	말입니다	It is..., it means... (Older spelling of 입니다 ending)
+인체밧게	인체 밖에	Outside the human body (Older spelling of 밖에)
+끄내어	꺼내어	To take out (Older spelling)
+노으면	놓으면	If placed, if put (Older spelling)
+곳	곧	Immediately, right away
+그러치안코	그렇지 않고	Not so, it isn't like that (Older/colloquial form)
+露西亞	노서아	Russia (Hanja representation)
+博士	박사	Doctor (Ph.D.), learned person
+함니다	합니다	Does, says, is said (Older spelling of 합니다 ending)
+잡저	잡저	Miscellaneous writing, essay, feature article
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제6호
+발행일	1935년 07월 01일
+기사제목	사람의 心臟을
+기사형태	잡저
+
+사람의 心臟을
+사랑하는 사람끼리 하-트가 엇저구 엇저구 하지 안어요? 「하-트」라고하는 심장말임니다.심장을 사람의 인체밧게 끄내어 노으면 곳 죽는가하면 그러치안코 露西亞의 「구불아유」博士의 연구에 의하면 30시간은 살아간다 함니다.<210>

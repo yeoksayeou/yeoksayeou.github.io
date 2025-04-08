@@ -1,0 +1,55 @@
+Magazine Title: 삼천리 第六卷 第五號
+Publication Date: 1934년 05월 01일
+Article Title: 春曉 (Spring Dawn)
+Author: 孟浩然
+Article Type: 시 (Poem)
+
+春曉 (Spring Dawn)
+						孟浩然 (Meng Haoran)
+In spring sleep, I don't notice the dawn.
+Everywhere, I hear birds cry.
+Last night, the sound of wind and rain.
+How many flowers fell, I wonder?<41>
+
+**Summary**
+
+The article presents the famous Tang dynasty Chinese poem "Chūn Xiǎo" (Spring Dawn) by Meng Haoran. The poem describes waking up on a spring morning, realizing dawn has broken unnoticed during sleep, hearing birdsong everywhere, and then recalling the sounds of wind and rain during the night, prompting a gentle wonder about how many blossoms might have fallen. For historians, the inclusion of this classical Chinese poem in a popular Korean magazine from 1934 highlights the persistence of traditional Sinitic literary culture and education among Koreans during the Japanese colonial period, serving as a marker of cultural identity and intellectual engagement beyond the immediate political context.
+
+**Named Entities**
+
+孟浩然	맹호연	Maenghoyŏn
+
+**Glossary**
+
+잡지명	잡지명	Magazine title
+발행일	발행일	Publication date
+기사제목	기사제목	Article title
+필자	필자	Author/Writer
+기사형태	기사형태	Article type
+春曉	춘효	Spring Dawn (Title of the poem)
+春眠	춘면	Spring sleep
+不覺曉	불각효	Not realizing [it's] dawn
+處處	처처	Everywhere, here and there
+聞	문	To hear
+啼鳥	제조	Crying/singing birds
+夜來	야래	During the night, last night
+風雨聲	풍우성	Sound of wind and rain
+花落	화락	Flowers fall
+知多少	지다소	Know how many (wondering how many)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제5호
+발행일	1934년 05월 01일
+기사제목	春曉
+필자	孟浩然
+기사형태	시
+
+春曉
+						孟浩然
+春眠不覺曉
+處處聞啼鳥
+夜來風雨聲
+花落知多少<41>

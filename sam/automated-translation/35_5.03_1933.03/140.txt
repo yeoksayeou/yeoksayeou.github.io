@@ -1,0 +1,52 @@
+Magazine Title: 삼천리 제5권 제3호
+Publication Date: 1933년 03월 01일
+Article Title: 三千里壁新聞, 駐在所一面一所主義 (Samch'ŏlli Wall Newspaper, The Principle of One Substation per Myŏn)
+Author: [Not provided]
+Article Type: 잡저 (Miscellaneous article/column)
+
+The Police Affairs Bureau (警務局) has increased the number of police officers (警官) by 415 this year.
+
+Simultaneously, to expand the security network, they have adopted the principle (主義) of establishing one police substation (駐在所) in each *myŏn* (面) throughout all of Korea (全朝鮮) and have begun its implementation (實現). It is said that there are currently about 300 *myŏn* without a police substation. <24>
+
+**Summary**
+
+The article reports that the colonial Police Affairs Bureau increased its police force by 415 officers in 1933. Concurrently, it initiated a plan to establish one police substation (*chujaeso*) in every *myŏn* (sub-county administrative unit) across Korea to strengthen the security network, noting that approximately 300 *myŏn* still lacked one. For historians, this piece is interesting as it quantifies the expansion of the colonial police apparatus and explicitly states the policy objective of achieving complete geographical coverage with police substations at the *myŏn* level, reflecting the intensification of surveillance and control in rural Korea during the 1930s.
+
+**Named Entities**
+
+警務局	경무국	Kyŏngmuguk
+朝鮮	조선	Chosŏn
+面	면	Myŏn
+
+**Glossary**
+
+警務局	경무국	Police Affairs Bureau
+금년도	금년도	This year
+警官	경관	Police officer
+증가하엿다	증가하였다	Increased (older spelling: 하엿다)
+경비망	경비망	Security network
+확충	확충	Expansion, reinforcement
+위하야	위하여	For the sake of (older spelling: 하야)
+全朝鮮	전조선	All of Korea
+各面	각면	Each *myŏn* (sub-county administrative unit)
+駐在所	주재소	Police substation (colonial era term)
+一個所	일개소	One place/station
+主義	주의	Principle, doctrine
+實現	실현	Realization, implementation
+착수하엿다는데	착수하였다는데	It is said that they have begun/embarked upon (older spelling: 하엿다)
+현재	현재	Currently
+업는	없는	Without, lacking (older spelling)
+개소	개소	Counter for places/stations
+되더라	된다더라	It is said that it becomes/amounts to (older grammatical form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제3호
+발행일	1933년 03월 01일
+기사제목	三千里壁新聞, 駐在所一面一所主義
+기사형태	잡저
+
+三千里壁新聞, 駐在所一面一所主義
+警務局에서는 금년도에 警官 415명을 증가하엿다. 이와 동시에 경비망의 확충을 위하야 全朝鮮 각지의 各面마다 駐在所 一個所를 둘 主義를 가지고서 그 실현에 착수하엿다는데 현재 駐在所가 업는 面이 약 300개소가 된다더라. ＜24＞

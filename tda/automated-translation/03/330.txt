@@ -1,0 +1,52 @@
+Magazine Title: 大東亞
+Publication Date: 1943년 03월 01일
+Article Title: 國語の新聞小說と作者の言葉 (Newspaper Novels in the National Language [Japanese] and the Authors' Words)
+Author: [Article author not specified, lists works by:] 牧洋 (Maki Hiroshi / Yi Sŏkhun), 李無影 (Yi Muyŏng)
+Article Type: 문예평론 (Literary Criticism)
+
+Newspaper Novels in the National Language and the Authors' Words
+
+Keijō Nippō [Seoul Daily News], "Eternal Woman" by Maki Hiroshi (Former Name: Yi Sŏkhun)
+
+Fuzan Nippō [Busan Daily News], "The House of Blue Tiles" by Yi Muyŏng
+<148-151>
+
+**Summary**
+
+This text provides the title and introductory examples for a literary review article from the March 1943 issue of the magazine "Daitōa". The review focuses on newspaper serial novels written in Japanese ("Kokugo" - the National Language) by Korean authors (Yi Sŏkhun, using the Japanese pen name Maki Hiroshi, and Yi Muyŏng) published in Japanese-language newspapers in colonial Korea (Keijō Nippō in Seoul and Fuzan Nippō in Busan). For historians, this snippet highlights the linguistic assimilation policy during the late colonial period, where Japanese was promoted as the "national language" and Korean writers were producing literary works in Japanese for colonial media outlets. It points to the complex cultural and political landscape faced by Korean intellectuals and artists under Japanese rule.
+
+**Named Entities**
+
+京城日報	ケイジョウニッポウ	Keijō Nippō
+牧洋	マキヒロシ	Maki Hiroshi
+李石薰	리석훈	Yi Sŏkhun
+釜山日報	フザンニッポウ	Fuzan Nippō
+李無影	리무영	Yi Muyŏng
+
+**Glossary**
+
+國語	こくご	National Language (referring to Japanese in this colonial context)
+新聞	しんぶん	Newspaper
+小說	しょうせつ	Novel
+作者	さくしゃ	Author
+言葉	ことば	Words; Language
+舊名	きゅうめい	Former name; Previous name
+靑瓦	せいが	Blue tile (likely read 'Seiga' in the Japanese title, though referring to Korean 'Ch'ŏngwa')
+
+
+---------------------------
+
+
+잡지명	대동아 제15권 제3호
+발행일	1943년 03월 01일
+기사제목	國語の新聞小說と作者の言葉
+기사형태	문예평론
+
+國語の新聞小說と作者の言葉
+일본문-원문
+
+京城日報「永遠の女」 牧洋(舊名 李石薰)
+
+釜山日報「靑瓦の家」
+李無影
+＜148-151＞

@@ -1,0 +1,56 @@
+**Header Section:**
+Magazine Title: 삼천리 제4권 제9호
+Publication Date: 1932년 09월 01일
+Article Title: 편집후기 (Editor's Postscript)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editor's Postscript)
+
+**Body Text Translation:**
+O The Mid-Autumn Festival (仲秋佳節), when one thinks of Oksong Pavilion (玉銅소) on a moonlit night (月明夜), has arrived. How do all of you intend to enjoy this autumn season?
+
+O As per the company announcement (社告), our company will be newly publishing a Women's Magazine (婦人雜誌) starting this coming October. Please read it avidly.
+
+O All booklets from the publishing department are also going on sale from the beginning of September, so we hope for many orders.<100>
+
+**Summary**
+
+This editor's postscript from the September 1932 issue of Samch'ŏlli magazine welcomes the autumn season (Ch'usŏk) and announces two business developments: the upcoming launch of a new women's magazine in October and the sale of books from the company's publishing department starting in September. Historians might find this interesting as it reflects the commercial activities and expansion strategies of a Korean publishing house during the colonial period, including attempts to diversify its offerings by targeting a female readership and promoting its other publications. The text also provides examples of Korean language usage and orthography from the 1930s.
+
+**Named Entities**
+
+(No specific named people, places, or organizations were mentioned beyond the magazine publisher itself, which is excluded per instructions.)
+
+**Glossary**
+
+月明夜	월명야	Moonlit night
+玉銅소	옥동소(?)	Oksong Pavilion (Potentially Oksongso 玉松所, a place known for moon viewing; exact reference uncertain/possibly typo)
+仲秋佳節	중추가절	Mid-Autumn Festival (Ch'usŏk)
+왓습니다	왔습니다	has come (older spelling)
+가을쳘	가을철	autumn season (older spelling)
+엇더케	어떻게	how (older spelling)
+하나잇고	합니까	(question ending, older polite form)
+社告	사과	Company announcement/notice
+如히	-와 같이	like, as per (Hanja-based connector)
+來10월	내10월 / 오는 10월	coming October
+婦人雜誌	부인 잡지	Women's magazine
+발행함니다	발행합니다	will publish (older spelling/ending)
+만히	많이	much, many (older spelling)
+愛讀하여 주시압	애독하여 주십시오	please read avidly (older spelling/ending)
+출판부	출판부	publishing department
+책자	책자	booklets, publications
+발매하오니	발매하오니	are going on sale, so (older spelling/ending)
+바람니다	바랍니다	hope for, request (older spelling/ending)
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제9호
+발행일	1932년 09월 01일
+기사제목	편집후기
+기사형태	사고·편집후기
+
+편집후기
+O 月明夜에 玉銅소가 생각나는 仲秋佳節이 왓습니다. 여러분은 이 가을쳘을 엇더케 즐기시려 하나잇고.
+O 社告와 如히 來10월부터 본사에서는 새로 婦人雜誌를 발행함니다. 만히 愛讀하여 주시압.
+O 출판부의 모든 책자도 9월초부터 발매하오니 만히 주문을 바람니다.<100>

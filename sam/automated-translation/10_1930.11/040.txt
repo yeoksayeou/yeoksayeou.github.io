@@ -1,0 +1,55 @@
+Magazine Title: 삼천리 제10호
+Publication Date: 1930년 11월 01일
+Article Title: 거북船 (Turtle Ship)
+Article Type: 잡저 (Miscellaneous writing)
+
+Turtle Ship
+
+Ch'ungmugong's (忠武公) Turtle Ship, which was used during the Imjin War (壬辰亂), was truly the progenitor of the modern submarine (潛航艇). The ironclad ship said to have been invented first in the West (西洋) was the one used by the Confederate Army (南軍) during the American (米國) Civil War (南北戰爭) in the Western calendar year (西歷) 1862; Ch'ungmugong's creation of the ship (創艦) truly preceded this by 270 years.＜14＞
+
+**Summary**
+
+This short article highlights Admiral Yi Sunsin's (Ch'ungmugong) Turtle Ship from the Imjin War (1592-1598) as a pioneering naval invention. It asserts that the Turtle Ship predates the Western ironclad, specifically citing the Confederate ironclad used in the American Civil War (1862), by 270 years, positioning it as an early precursor, even hyperbolically suggesting it as the "progenitor of the modern submarine." From a colonial history perspective, the article is interesting as it emphasizes Korean technological prowess and historical achievement centuries before Western advancements, serving as a point of national pride and subtle resistance against colonial narratives that might diminish Korean history during a period of Japanese rule. Historians might note the specific comparison point (the American Civil War ironclad) and the slightly inaccurate claim linking the surface vessel Turtle Ship to submarines, likely for rhetorical effect to emphasize its advanced, covered nature.
+
+**Named Entities**
+
+壬辰亂	임진란	Imjin War
+忠武公	충무공	Ch'ungmugong
+西洋	서양	West
+米國	미국	America
+南北戰爭	남북전쟁	American Civil War
+南軍	남군	Confederate Army
+
+**Glossary**
+
+거북船	거북선	Turtle Ship
+壬辰亂	임진란	Imjin War (Japanese invasions of Korea, 1592-1598)
+사용하든	사용하던	(which) was used (Older verbal ending -든 vs modern -던)
+忠武公	충무공	Posthumous title of Admiral Yi Sunsin
+현대	현대	Modern times
+潛航艇	잠항정	Submarine
+시조	시조	Progenitor, originator
+西洋	서양	The West, Occident
+몬저	먼저	First (Older spelling)
+발명하엿다는	발명했다는	Said to have invented (Older verbal ending/spelling)
+철갑선	철갑선	Ironclad ship
+西歷	서력	Western calendar (A.D.)
+米國	미국	America (United States)
+南北戰爭	남북전쟁	North-South War (American Civil War)
+南軍	남군	Southern Army (Confederate Army)
+엿스니	이었으니 / 였으니	because it was (Older copula form/spelling)
+創艦	창함	Ship creation/building
+압서기	앞서기	Preceding, being ahead of (Older spelling/form)
+年前	년 전	years before/ago
+
+
+---------------------------
+
+
+잡지명	삼천리 제10호
+발행일	1930년 11월 01일
+기사제목	거북船
+기사형태	잡저
+
+거북船
+壬辰亂때에 사용하든 忠武公의 거북선은 실로 현대 潛航艇의 시조로 西洋에서 가장 몬저 발명하엿다는 철갑선이 西歷 1862年 米國 南北戰爭때 南軍이 사용한 것이엿스니 忠武公의 創艦은 이보다 압서기 실로 270年前이엿다.＜14＞

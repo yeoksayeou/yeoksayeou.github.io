@@ -1,0 +1,65 @@
+Magazine Title: 삼천리 제13권 제6호
+Publication Date: 1941년 06월 01일
+Article Title: 1940年度 米國映畵 製作本數 (Number of American Films Produced in Fiscal Year 1940)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/Feature article)
+
+Number of American Films Produced in Fiscal Year 1940
+
+Last year in the United States, the films released included 523 feature films (劇) and 707 short films (短篇). The breakdown of sources for the feature films (劇映畫 原作) is as follows:
+Original screenplays: 323 (61.8% - 6割 1分 8厘), full-length novels (109), plays (51), short stories (短篇) (21), biographies (傳記) (8), comic strips (『코믹크스코릿푸』) (7), radio programs (4), etc.
+
+Compared to the total of 584 films in the previous year, 1939, this is a decrease of 61 films.
+
+According to a State Department (國務省) announcement, the revenue from 1,515 theaters nationwide (全米) was $673,045. Calculated at an average of 25 cents (仙) per ticket, this indicates that an average family spends $20, and an average individual spends $5, on watching movies (映畵 觀賞).<221>
+
+**Summary**
+
+This short article reports on the number of American films produced and released in 1940, detailing 523 feature films and 707 short films. It breaks down the source material for feature films, noting that original screenplays accounted for the majority (61.8%), followed by novels and plays. The total number of films decreased by 61 compared to 1939. Additionally, it cites US State Department figures on nationwide theater revenue ($673,045 from 1,515 theaters) and estimates average annual spending on movie viewing at $20 per family and $5 per individual, based on a 25-cent average ticket price. For historians, this piece reveals the continued interest within colonial Korea in specific details of American popular culture, particularly Hollywood statistics, even amid increasing wartime controls and anti-Western sentiment propagated by Japan. The use of specific data points (film counts, sources, revenue, spending) and Japanese-influenced terminology (like 割/分/厘 for percentages and transliterations) offers insight into information dissemination and cultural interests during that period.
+
+**Named Entities**
+
+米國	미국	United States
+國務省	국무성	State Department
+全米	전미	Nationwide (United States)
+
+**Glossary**
+
+작년도	작년도	Last year (older form combining 작년 'last year' + 도 'year')
+米國	미국	United States
+劇	극	Feature film (in this context)
+短篇	단편	Short film (in this context); also means short story
+映畵	영화	Film, movie
+原作	원작	Original work, source material
+內譯	내역	Breakdown, details
+오리지날	오리지널	Original (loanword)
+割	할	Unit representing 10% (used in older percentage notation)
+分	푼	Unit representing 1% (used in older percentage notation)
+厘	리	Unit representing 0.1% (used in older percentage notation)
+희곡	희곡	Play, drama (script)
+傳記	전기	Biography
+코믹크스코릿푸	코믹 스트립	Comic strip (phonetic transliteration)
+總本數	총본수	Total number (of items, here films)
+減少	감소	Decrease, reduction
+國務省	국무성	State Department
+全米	전미	Nationwide (referring to the US)
+舘	관	Theater, hall (alternate/older Hanja for 館)
+弗	불	Dollar (currency symbol transliteration)
+仙	센	Cent (currency symbol transliteration)
+觀賞	관상	Viewing, watching (for appreciation)
+잡저	잡저	Miscellaneous writing, feature article
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	1940年度 米國映畵 製作本數
+기사형태	잡저
+
+1940年度 米國映畵 製作本數
+작년도 米國에서 공개된 영화는 劇 523本 短篇 707本으로 劇映畫 原作의 內譯은
+오리지날 323(6割 1分 8厘) 장편소설(109) 희곡(51) 短篇(21) 傳記(8) 『코믹크스코릿푸』(7) 라디오(4) 등인데
+前 39년도의 總本數 584本에 비교하면 61本의 減少이다.
+國務省 발표에 의하면 全米 1,515舘 673,045弗의 수입으로서, 평균 25仙으로 계산하면 일가족 평균 20弗 一人 평균 5弗을 映畵 觀賞하기에 사용하고 있다는 것이다.＜221＞

@@ -1,0 +1,60 @@
+Magazine Title: 三千理 제12호
+Publication Date: 1931년 02월 01일
+Article Title: 靑春 (Youth)
+Author: 파인
+Article Type: 시 (Poem)
+
+Is thirty also youth?
+Oh my, then this body is youth too.
+The flowers blooming this year are flowers
+I shall go find your house.
+
+Bunch by bunch, Haedanghwa (海棠花)
+Do not wither until I come.
+Even if you wither,
+Become fruit and remain attached.<30>
+
+**Summary**
+
+This short poem, titled "Youth" (靑春), reflects on the concept of age and enduring vitality. The speaker, perhaps surprised to consider thirty as still youthful, resolves to embrace this notion and visit someone (presumably a loved one), likening their endurance to the Haedanghwa flower, urging it to stay vibrant or at least bear fruit until their arrival. From a historical perspective, the poem offers a glimpse into personal sentiments during the colonial period. The contemplation of youth and vitality, coupled with the use of traditional Korean imagery like the Haedanghwa flower, might reflect a subtle longing for persistence and continuity amidst the challenging circumstances of the era. The simple, direct language contrasts with more overtly political or nationalistic themes sometimes found in literature of the time, providing insight into more personal reflections on life and time.
+
+**Named Entities**
+
+파인	파인	P'ain
+
+**Glossary**
+
+靑春	청춘	Youth
+三十	삼십	Thirty
+청츈	청춘	Youth (older spelling of 청춘)
+얼시구	얼씨구	Oh my!; Well!; Hurrah! (An interjection expressing excitement or surprise)
+이몸	이 몸	This body; Myself
+일네	이네	Is; am; are (older grammatical ending, equivalent to modern -이네/-네)
+꼿	꽃	Flower (older spelling of 꽃)
+차저가리	찾아가리	I shall go find/visit (찾아 + 가다 + -리, older spelling and future tense form)
+海棠花	해당화	Haedanghwa; Japanese quince flower; rugosa rose
+지지마라	지지 마라	Do not wither/fall (지다 + -지 마라, negative imperative)
+지더래도	지더라도	Even if (it) withers/falls (지다 + -더라도, concessive ending, older spelling)
+부터잇게나	붙어 있게나	Remain attached (붙어 있다 + -게나, mild command/request ending, older spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제12호
+발행일	1931년 02월 01일
+기사제목	靑春
+필자	파인
+기사형태	시
+
+靑春
+						파인
+三十도 청츈인가
+얼시구, 그러면 이몸도 청츈일네.
+금년도 피는 꼿 꼿고
+그대집 차저가리.
+
+송이, 송이, 海棠花
+오실 때까지 지지마라
+지더래도
+열매되어 부터잇게나.<30>

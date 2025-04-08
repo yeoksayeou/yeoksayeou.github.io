@@ -1,0 +1,126 @@
+**Header Section**
+Magazine Title: 삼천리 제12권 제9호
+Publication Date: 1940년 10월 01일
+Article Title: 朝鮮住民의 生命表 (Korean Life Tables)
+Author: 醫學博士 崔羲楹 (Doctor of Medicine, Ch'oe Hŭi-yŏng)
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation**
+Korean Life Tables
+						By Ch'oe Hŭi-yŏng, Doctor of Medicine
+
+"Korean Life Tables" is the title of my dissertation submitted for my degree. Originally, scientific papers have a set format, requiring frank and clear descriptions in the order of Conclusion, Research Materials and Methods, Research Results, Summary and Conclusion, and References. Therefore, it is customary to avoid using ornate language as much as possible, making them typically devoid of reading pleasure. The value of the paper is determined solely by evaluating whether its content contributes to the academic field. Although I have taken up this pen today, unable to refuse the request from Samch'ŏllisa (三千里社), I must state beforehand that, as mentioned above, this paper is a mere listing of dry phrases and will likely hold no interest for the general readership.
+
+Furthermore, while someone who has conducted very similar research might recognize the effort involved and the importance of the results, those without much experience in the field are likely to read a thesis and think, "What is all this?" Therefore, it might be better for appearances and for giving the impression of brilliance to the public to simply state one is a "Doctor of XX" and not disclose the thesis. However, if we think about it calmly, the ultimate purpose of a doctoral thesis is to benefit human society, directly or indirectly. Thus, a thesis detached from human society has little value. Considering this, even if we omit the difficult parts<102>, if there are aspects that can serve as even a slight reference for general society, publishing them emphasizes the significance of the thesis, and I believe this should be the attitude taken by a researcher. In this sense, mustering courage I do not possess, I have decided to select two or three points from my humble thesis that I believe might be of reference, jot them down, and thus fulfill my obligation.
+
+All living beings on this Earth generally have a fixed lifespan. The length varies greatly, ranging from a few hours to several hundred years. Looking only at humans, some die immediately after birth, while others enjoy longevity of over a hundred years. Just as individual lifespans differ, the overall lifespan of a nation, an ethnic group, or the residents of a region also varies. If the residents of a region are healthy, the number of deaths is low, and if the number of deaths is low, the average lifespan is long. Conversely, if the residents are unhealthy, the number of deaths is high, and if the number of deaths is high, the average lifespan is short. The so-called life table, which indicates this frequency of death and length of life, is not only important in social hygiene because it clearly reflects the health status of the local population, but it is also absolutely necessary for implementing public health policies. Why? Because it serves as a necessary guide to analyze whether the cause of poor health lies in the infant group, child group, youth group, adult group, or elderly group, and to eliminate and prevent it. Moreover, in recent years, as the importance of the population problem has been highlighted and discussions on population quantity and quality, or human resources, have begun, the importance of life tables has become even greater. Therefore, various countries are striving to be the first to create life tables. In mainland Japan (內地) alone, the fifth life table has already been produced, and Taiwan (臺灣) also has its first life table. When we look for a life table for the Korean Peninsula (朝鮮半島), which accommodates over 20 million people, the fact that not a single line has been compiled to this day is something that knowledgeable people cannot help but lament, and it is a shame for our peninsula's culture. Herein, disregarding my shallow learning and meager talent, with the enthusiastic support of the relevant authorities, I have collected and organized the data to describe the first detailed life table. I cannot help but feel pleased that, despite my humble abilities, the very first life table has been produced by my hand.
+
+Regarding the results, the distinctive points are recorded as follows.
+
+One. Japanese Residents in Korea (在鮮 內地人)
+
+The trends in the lifespan of Japanese residents in Korea (在鮮 內地人) are generally similar to those of mainland Japanese (內地人), but some differences are noticeable, likely resulting from migration to a foreign land. Specifically, looking at the mortality rate (the ratio of deaths per 1,000 people of the same age, Mortality), the infant mortality rate is low, but<103> the mortality rate for young children is high. This seems to be due to deficiencies in school hygiene compared to mainland Japan, suggesting a need for future efforts in this area. Also noteworthy is the high mortality rate for women aged 20 to 40, although this is not the case for men. The age at which the number of survivors (this assumes 100,000 children are born simultaneously; as age increases, deaths gradually occur, so the remaining surviving population decreases annually. This remaining population is called Survivors) halves is 57 for men and 56 for women. The average life expectancy at age zero (this is the average lifespan of a newborn baby, Expectation of Life) is 47.1 years for men and 47.9 years for women.
+
+One. Koreans (朝鮮人)
+
+Looking at the mortality rate for Koreans (朝鮮人), the rate for infants (under 1 year old) is extremely high, with more than 200 out of every 1,000 newborns dying before reaching their first birthday. Not only infants but children, in general, have high mortality rates. To borrow the words of the famous demographer Mr. Newsholme (뉴-스홈씨), the level of infant mortality is a barometer of the health status of the population and an indicator of the social order and well-being. The high mortality among infants and children is partly due to insufficient maternal childcare methods, and it suggests we must all strive together for child welfare. Around age 11 is said to be the safest time in life regarding the threat to life. An increase in mortality around age 20 and higher female mortality compared to male mortality during the childbearing years, roughly ages 20 to 45, due to pregnancy and childbirth, is the general pattern. However, a unique characteristic of Koreans is that there is no visible increase in mortality around age 20, and even during the childbearing years, female mortality is actually lower than male mortality. As mentioned above, due to the high child mortality rate, the number of survivors decreases drastically in childhood. By age 5, only about 65% (65 out of 100) of those born survive, and the age at which the number of survivors halves is 37 for men and 39 for women.
+
+Thus, the fact that a large proportion die during infancy and childhood, resulting in extremely few survivors reaching the active ages of 20s and 30s, represents a huge loss and draws our attention from the perspective of labor force expansion and protection of human resources. The average life expectancy is 36.4 years for men and 38.5 years for women. Comparing this to Japanese residents in Korea, Koreans live about 10 years less for men and about 9 years less for women. Compared to the average life expectancy in New Zealand, considered the longest-living country in the world, at 65 years for men<104> and 68 years for women, Koreans indeed live 28 years less for men and 29 years less for women. If human life lasted for a thousand or ten thousand years, a difference of about 30 years might be overlooked, but in a lifespan where "living to seventy is rare since ancient times," a 30-year difference is a profound one and truly startling. So, why do those people live long, and why do we live short lives? Should we attribute the cause solely to ethnicity or the inherent lifespan of Korea itself? That is not the case. I emphasize that the cause lies in the completeness or incompleteness of food, clothing, and shelter (의식주), the degree of dissemination of hygiene knowledge (위생사상), and the adequacy of public health facilities (보건시설). Europeans and Americans, who today have an average lifespan of over 60 years, also had short lifespans in the past when education levels were low, public health facilities were inadequate, and deficiencies in food, clothing, and shelter were common. Literature proves that their lifespans gradually extended year by year as these unfavorable conditions improved. We should not lament our past short lifespans but take a step forward and actively strive to eliminate such causes. This cannot be achieved by the efforts of a few; it is an effect expected from the combined efforts of all residents. I declare that when that time comes, we too can certainly enjoy longevity of 50 or 60 years. I plan to write about my humble opinions on the methods and focus points for these efforts in the future, but for now, I will lay down my pen. Finally, I list the average life expectancies of various countries.
+
+Table of Average Life Expectancy by Country
+Country          Average Life Expectancy
+                 Male      Female
+Japan            44.8 yrs  46.5 yrs
+Taiwanese        38.8      43.1
+New Zealand      65.0      67.9
+United Kingdom   55.6      59.6
+United States    55.3      57.5
+Germany          59.8      62.6
+India            26.9      26.6
+Japanese in Korea 47.1     47.9
+Koreans          36.4     38.5
+
+From this, one can sufficiently infer how weak the vitality of the Korean population is, that is, how poor their health status is. (End)<105>
+
+**Summary**
+
+Dr. Ch'oe Hŭi-yŏng presents findings from his doctoral thesis, the first life table for Koreans, compiled in 1940. He highlights the starkly low life expectancy of Koreans (approx. 36-38 years) compared to Japanese residents in Korea (approx. 47-48 years) and Western nations like New Zealand (approx. 65-68 years). Extremely high infant and child mortality among Koreans is identified as a major factor. Ch'oe argues that these differences stem not from inherent racial traits but from socio-economic factors: inadequate basic necessities (food, clothing, shelter), poor hygiene awareness, and insufficient public health infrastructure. He calls for collective efforts to improve these conditions, believing Koreans could achieve significantly longer lifespans.
+
+For historians, this article offers valuable demographic data from the late colonial period, reflecting the significant disparities in health outcomes between the colonizers (Japanese) and the colonized (Koreans). Ch'oe's analysis, attributing low life expectancy to environmental and societal factors rather than race, provides insight into contemporary scientific discourse and potentially challenges prevailing colonial ideologies, even while framed within the context of improving "human resources." The comparison table starkly illustrates Korea's position relative to other nations and groups within the Japanese empire.
+
+**Named Entities**
+崔羲楹	최희영	Ch'oe Hŭi-yŏng
+三千里社	삼천리사	Samch'ŏllisa
+朝鮮	조선	Chosŏn
+日本	일본	Ilbon
+內地	내지	Naeji
+臺灣	대만	Taeman
+뉴-스홈씨	뉴스홈씨	Newsholme (Sir Arthur Newsholme)
+뉴-지랜드	뉴질랜드	New Zealand
+英國	영국	Yŏngguk
+美國	미국	Miguk
+獨逸	독일	Togil
+印度	인도	Indo
+
+**Glossary**
+生命表	생명표	Life Table
+醫學博士	의학박사	Doctor of Medicine (M.D.)
+논설	논설	Editorial, essay, discourse
+內地人	내지인	Mainland person (i.e., Japanese from Japan proper)
+朝鮮人	조선인	Korean person
+사망률	사망률	Mortality rate
+생존수	생존수	Number of survivors
+平均餘命	평균여명	Average life expectancy (often specifically 'life expectancy at birth' when context implies age 0)
+乳兒	유아	Infant (under 1 year old)
+가치	같이	Like, as (older spelling of 같이)
+익이지	이기지	Unable to overcome (older spelling/conjugation related to 이기다)
+났고	낫고	Better (older spelling of 낫고, from 낫다)
+찾어볼	찾아볼	To look for, search (older spelling of 찾아볼)
+되였다는	되었다는	Became, turned out to be (older spelling of 되었다는)
+띠인다	띈다	Is noticeable, stands out (older spelling/form related to 띄다)
+아르키는	가리키는	Indicates, points to (older spelling of 가리키는)
+되여있것마는	되어 있건마는	Although it is... (older spelling/form of 되어 있건마는)
+의식주	의식주	Food, clothing, and shelter; basic necessities
+위생사상	위생사상	Hygiene concepts/awareness; sanitary ideas
+보건시설	보건시설	Public health facilities
+
+
+---------------------------
+
+
+잡지명	삼천리 제12권 제9호
+발행일	1940년 10월 01일
+기사제목	朝鮮住民의 生命表(Korean Life Tables)
+필자	醫學博士 崔羲楹
+기사형태	논설
+
+朝鮮住民의 生命表(Korean Life Tables)
+						醫學博士 崔羲楹
+「朝鮮住民의 生命表」라고 하는 제목은 나의 학위청구논문의 제목이다. 원래 과학논문이라는 것은 일정한 형식이 있어 결론 硏究材料 及 硏究方法, 硏究成績, 總括 及 結論, 參考文獻 이러한 순서로 솔직하고 명백하게 기재하기로 되어있다. 그러므로 名文佳句도 될 수 있는한 나열하지 않게 되어있음으로 一讀의 흥취가 아무 것도 없는 것이 상례이다. 다만 그 내용이 학계에 공헌하는 바 있느냐 없느냐 하는 것을 논평하여 그 논문의 가치를 결정하는 것이다. 어제 三千里社의 下囑을 익이지 못하여 이 붓을 잡기는 하나 우에 말한 바와 가치 무미한 문구를 列記한 논문이라 일반 독자 諸氏에게 아무 취미 없을 것이라는 것을 미리 말하여 둔다.
+또 논문이라는 것은 그와 酷似한 연구를 하여본 사람이면 그 노력과 그 결과의 중요성을 시인하게 되지마는 그 길에 별로 경험을 가지지 못한 사람으로서 논문을 본다면 대개는 「이까지 것이 다 무엇이냐」하는 독후감을 가지게 되는 것이다. 그러므로 다만 XX學博士라고만 하여 두고 그 논문을 공개시키지 않는 것이 뽑내여 보기에도 났고 世人에게 훌륭하다는 느낌을 주기에도 나을 것이다. 그러나 우리가 한번 냉정한 태도로 들어가 생각하여 보면 학위논문이라는 것은 결국은 직접 혹은 간접으로 사회인류에 稗益을 주자는 것이 목적이 되어있으므로 사회인류를 떠난 논문은 역시 그 가치가 적을 것이다. 이렇게 생각한다면 난삽한 점은<102> 제외할지라도 다소간이라도 일반 사회에 참고될 만한 점이 있다면 그것을 공표하는 것이 논문의 의의를 강조하는 것도 되며 연구자로 취할 바 태도도 이리하여야 할 것이라고 믿는다. 이러한 의미에서 필자도 없는 俠氣를 가다듬어 나의 拙著 논문 중에서 참고될 줄 믿는 점 두 세 가지를 뽑아 적어 塞責하기로 한다.
+이 지구상에 있는 모든 생물은 대개로 일정한 생명을 가지고 있다. 그 長短은 각기 달러 수시간 내지 수백년의 大動搖가 있다. 인류만을 볼지라도 생후 즉시 사망하는 사람이 있는가하면 백수십년의 장수를 누리는 사람도 있다. 개인의 수명이 각기 다른 것과 같이 한 국가 한 민족 한 지방주민전체의 수명도 각기 다른 것이다. 한 지방주민이 건강하면 사망자수가 적고 사망자수가 적으면 평균수명은 길고 그와 반대로 주민이 건강치 못하면 사망자가 많고 사망자가 많으면 평균수명이 짧다. 이러한 사망의 多少 수명의 長短을 표시하는 소위 생명표라는 것이 그 지방주민의 健康度를 일목요연하게 반영시키고 있다는 점에서 사회위생상 중요시될 뿐 아니라 보건정책 시행상에 절대로 필요하다. 왜-그러냐하면 보건정도가 열등한때에 그 원인이 유아층에 있는가 소아층에 있는가 청년층, 장년층, 노년층에 있는가 하는 것을 分折하여 보아 그것을 제거하며 예방하기에 필요한 지침이 되기 때문이다. 더욱 근년에 와서 인구문제의 중요성이 喝破되어 인구의 數와 質 혹은 인적자원이 논의되기 시작한 이후로는 생명표의 중요성이 한층 더 크게 되었다. 그러므로 각국은 솔선하여 생명표의 작성에 노력하고 있으며 日本 內地만 보드라도 벌서 제5회 생명표가 제작되어있고 臺灣에도 제1회 생명표가 되어있다. 이에 2천여 만의 인구를 포용하고있는 朝鮮半島의 생명표를 찾어볼 때에 至于今 一行의 작성도 없음에는 識者로 개탄을 금치 못하게 하는 동시에 우리 半島문화상 한 수치라고 할 것이다. 玆에 淺學菲才를 돌보지 않고 當路當局의 열렬한 후원을 얻어 자료의 수집과 정리를 하여 서술한 것이 제1회 상세생명표이다. 미력이나마 최초회의 생명표가 필자의 손에서 되였다는 것을 생각할 때 스스로 반가운 생각을 금치 못한다.
+그 결과에 대하여 특수한 점을 기록하면 다음과 같다.
+
+一. 在鮮 內地人
+
+在在鮮 內地人의 수명의 消長은 대체로는 日本 內地人과 흡사하나 異域 이주에 인한 결과의 소치로 간혹 다른 점이 눈에 띠인다. 즉 사망률(동일 연령인구 千에 대한 사망자의 比 Mortality)를 보면 유아사망률은 적으나<103> 유소년사망률이 높다. 이것은 日本 內地에 비하여 학교위생방면의 不及所致인 듯하며 금후 그 방면을 진력하여야 할 점일 것이다. 그리고 남자는 그렇지 않지마는 여자의 20 내지 40세의 사망이 많은 것이 주목된다. 생존수(이것은 10만명이 아해가 일시에 출산되었다 가정하고 其後 연령의 증가에 따러 한편으로 점차 사망하여 가게 될 터이므로 殘在한 생존인구수는 年年이 감소할 것이다. 그 殘在인구수를 가르처 생존수 Survivors라고 한다)가 半減되는 연령은 남자 57세 여자 56세이다. 零歲의 평균餘命(이것은 막 출산된 아해의 평균수명 Expectation of Life)은 남자 47.1년, 여자 47.9년이다.
+
+一. 朝鮮人
+
+朝鮮人의 사망률을 보면 乳兒(만1년 미만)의 사망률이 대단 높아 出産兒孩 천명중에서 만1년되기 전에 사망하는 수가 2백명 이상이다. 乳兒 뿐 아니라 小兒의 사망률이 대체로 높다. 유명한 인구학자 뉴-스홈씨의 말을 빌면 유아사망률의 多寡는 그 주민보건 정도 우열의 바로메-터로서 그 사회 안녕질서를 아르키는 標識이라고 하였다. 乳小兒의 사망이 많은 것은 결국 모성의 육아법이 불충분한 것도 一因일 것이며 다가치 아동애호에 노력하여야 하겠다는 것을 말하여 둔다. 11세경이 일생애 중 생명의 협박에 대하여 가장 안전한 때라고 하겠으며 20세 전후에 사망률이 증가하는 것과 姙産연령기 즉 20세로부터 45세 경까지의 사이에는 姙産의 관계로 인하여 여성이 남성보담 사망률 많은 것이 일반 사망형으로 되여있것마는 朝鮮人만은 20세 전후의 사망률 증가도 보이지 않고 비록 姙産연령기간일지라도 남자 사망률에 비하여 여자사망률이 오히려 낮다는 것이 한 특징이다. 우에 말한 바와 같이 소아사망률이 높은 결과로 생존 수는 소아기에 격감하여 5세 때에 벌서 출생자의 65%(100分之65), 가량밖에는 수명을 누리지 못하고 생존수가 半數로 감소되는 연령은 남자 37세 여자 39세이다.
+이와 같이 乳幼兒期에 대부분이 사망되기 때문에 2, 30의 활동연령기까지 生殘하는 수가 극소하다는 것은 막대한 손실이며 노동력확충 인적자원보호라는 견지에서 吾人의 주의를 환기하는 점이다. 평균수명은 남자 36.4년 여자 38.5년이다. 이것을 在鮮內地人에 비교하여보면 남자에 있어서 약 10년 여자에 있어서 약 9년 단명이다. 세계에서 가장 장수하다고 하는 뉴-지랜드(New Zealand)의 남자 65년<104> 여자 68년의 평균수명에 비교하면 朝鮮人은 실로 남자에 있어서 28년 여자에 있어서 29년 단명하다. 천년이나 만년의 장수를 누리는 인생이라면 30년 가량의 차이도 간과되겠지마는, 「人生七十古來稀」라는 말과 같이 겨우 백년도 살지 못하는 일생애에서 30년의 수명차이는 심대한 차이라고 할 것이며 참으로 놀날 사실이다. 그러면 저 사람들은 왜-장수하고 우리는 왜-단명하냐. 그 원인을 오직 민족 혹은 朝鮮자체의 고유수명에 돌릴 것이냐 그것은 아니다. 그 원인은 의식주의 完不完과 위생사상보급정도와 보건시설의 充備여하에 의한 것이라고 강조하여둔다. 오늘날 60여 년의 평균수명을 가진 歐米人들도 교육정도가 낮고 보건시설이 불충분하고 의식주의 결함이 많었던 과거에 있어서는 역시 短壽하였고 其後 점차 上記의 불리조건을 개선함에 따라 年 一年 수명이 연장되였다는 것은 문헌의 증명하는 바이다. 우리는 과거단명을 탄식할 것이 아니라 한걸음 나아가 적극적으로 그러한 원인제거에 진력하여야 할 것이다. 이것은 數人의 노력으로 달성하는 것이 아니고 주민 전부가 다같이 노력함에서 기대되는 효과이다. 그때면 吾人도 능히 5, 60년의 장수를 누릴 수 있다는 것을 明言하여둔다. 그 노력경주의 방법 주력점 등에 대한 나의 卑見도 日後 기재하기로 하고 今回는 이것으로 擱筆하겠으며 끝으로 각 국의 평균수명을 표기하여둔다.
+各國의 平均壽命表
+國名          평균수명
+남      녀
+일본       44.8년   46.5년
+대만인     38.8     43.1
+뉴-지랜드  65.0     67.9
+영국       55.6     59.6
+미국       55.3     57.5
+독일       59.8     62.6
+인도       26.9     26.6
+在鮮內地人 47.1     47.9
+조선인     36.4     38.5
+
+이 얼마나 朝鮮住民의 생명력의 약하냐 즉 보건정도가 좋지 못한지를 넉넉히 推察할 수 있을 것이다. (끝)<105>
+<102-105>

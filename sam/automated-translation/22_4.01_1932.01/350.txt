@@ -1,0 +1,62 @@
+Magazine Title: 삼천리 제4권 제1호
+Publication Date: 1932년 01월 01일
+Article Title: 아메리카 學界에서의 五百年後의 「꿈」, 『火星에 간다』『못간다』는 것으로 論爭 (America's Academic World's "Dream" of 500 Years Later, Dispute Over "Going to Mars" vs. "Cannot Go")
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+In America these days, a great debate has arisen among astronomers. Director Ch'ŭkhŭso (측흐소) (?) of Albania, Dr. Pposa (뽀사) (?), discovered that there are mountains on Mars, saying that if one could just go, one could live there, and said that if one travels at a speed of 680 miles (哩) per hour, it would take 8 years and 22 days.
+
+However, the Los Angeles astronomer Dr. Ppŭm'gadŭ (쁘-ㅁ가-드) (?) said the problem is how one would store 8 years' worth of food, and announced that even with the development of speed science (스피-드·싸이엔스), arrival would not be possible within 500 years.
+
+Furthermore, Dr. Tchi-je (찌-제) (?) of the University of California (加酒大學) published an argument that within 500 years, due to the lack of oil and metal, earthlings would not be able to fly to Mars, so a debate was bound to arise.<109>
+
+**Summary**
+
+This article reports on a debate among American astronomers in the early 1930s regarding the feasibility of traveling to Mars within the next 500 years. One astronomer claims Mars is habitable due to the discovery of mountains and calculates an 8-year travel time. Another astronomer counters that storing food for such a journey is problematic and that even with advancements, reaching Mars within 500 years is impossible. A third astronomer argues that resource depletion (oil and metal) on Earth will prevent such a journey within that timeframe anyway. For historians of colonial Korea, this piece reveals an awareness of and interest in international scientific discussions, including speculative topics like space travel. It reflects how global futuristic ideas were received and reported in Korea, while the somewhat unclear transliterations of foreign names and places offer insights into information flow and translation practices during the period.
+
+**Named Entities**
+
+아메리카	아메리카	America
+알바니아	알바니아	Albania
+측흐소	측흐소	Ch'ŭkhŭso
+뽀사	뽀사	Pposa
+로산젤쓰	로산젤레스	Losanjelssŭ (Los Angeles)
+쁘-ㅁ가-드	쁨가드	Ppŭm'gadŭ
+加酒大學	가주대학	Kaju Taehak (University of California)
+찌-제	찌제	Tchi-je
+
+**Glossary**
+
+學界	학계	Academic world
+五百年後	오백년후	500 years later
+火星	화성	Mars (planet)
+論爭	논쟁	Debate, dispute
+니러낫는데	일어났는데	Arose, happened (Older spelling/form of 일어나다)
+잇다는	있다는	That there is/are (Older spelling)
+발견햇슴으로	발견했으므로	Because (he) discovered (Older spelling/form)
+샇수 잇다고	살수 있다고	Can live (there) (Older spelling/form of 살 수 있다)
+햇스며	했으며	Said/did and (Older spelling/form of 하다)
+哩	마일	Mile (Hanja character for mile)
+걸닌다고	걸린다고	Takes (time) (Older spelling/form of 걸리다)
+엇더케	어떻게	How (Older spelling)
+저축하겟는가	저축하겠는가	Will store/save (Question form)
+업다고	없다고	That there is not / cannot (Older spelling/form of 없다)
+발표햇다	발표했다	Announced (Older spelling/form)
+업서	없어	Lacking, because there isn't (Older spelling/form of 없어)
+나러갈 수 업다는	날아갈 수 없다는	Cannot fly (Older spelling/form of 날아갈 수 없다)
+되엿스니	되었으니	Because it became (Older spelling/form)
+밧게업지	밖에 없지	There is no choice but / bound to happen (Older spelling/form)
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제1호
+발행일	1932년 01월 01일
+기사제목	아메리카 學界에서의 五百年後의 「꿈」, 『火星에 간다』『못간다』는 것으로 論爭
+기사형태	잡저
+
+아메리카 學界에서의 五百年後의 「꿈」, 『火星에 간다』『못간다』는 것으로 論爭
+아메리카에선 요새 천문학자사이에 대논쟁이 니러낫는데 알바니아의 측흐소장 뽀사박사는 화성에 산이 잇다는 것을 발견햇슴으로 가기만 하면 샇수 잇다고 햇스며 한시간에 680哩의 스-피드를 다-하면 8년 22일이 걸닌다고 햇다.
+그런데 로산젤쓰의 천문학자 쁘-ㅁ가-드박사는8년간의 양식을 엇더케 저축하겟는가하는 것이 문제이라고 하엿스며 스피-드·싸이엔스가 발달해서 5백년이내에는 도착할 수 업다고 발표햇다.
+거기에 또 加酒大學 찌-제박사가 5백년내에는 오일과 금속이 업서 지구인이 화성에 나러갈 수 업다는 논설이 발표되엿스니 논쟁이 생길밧게업지.<109>

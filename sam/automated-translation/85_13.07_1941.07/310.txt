@@ -1,0 +1,45 @@
+**Header Section:**
+Magazine Title: 三千理
+Publication Date: 1941년 07월 01일
+Article Title: 東京留學生, 汪主席歡迎 (Tokyo International Students Welcome Chairman Wang)
+Author: Unspecified
+Article Type: 잡저 (Miscellaneous Article)
+
+**Body Text Translation:**
+Tokyo International Students Welcome Chairman Wang
+
+It is said that the number of Chinese international students under the National Government of Nanjing (南京) studying abroad in Tokyo amounts to a large number, over 20,000, comprising only those in professional schools and universities. These international students reportedly held several grand welcoming receptions for Chairman Wang (汪主席), who is currently visiting Japan.<171>
+
+**Summary**
+
+This short article reports that over 20,000 Chinese students from Nanjing's National Government studying in Tokyo held large welcoming events for Wang Jingwei (referred to as Chairman Wang), the head of the Japanese-backed regime in Nanjing, during his visit to Japan in 1941. From the perspective of Korean colonial history, this piece, published in a Korean magazine, illustrates the reach of Japanese imperial propaganda and political maneuvering across East Asia. It highlights Japan's efforts to legitimize its puppet regime in China, even showcasing supposed support from Chinese students in the heart of the Japanese empire, within a publication aimed at a Korean audience under colonial rule.
+
+**Named Entities**
+
+東京	도쿄	Tokyo
+南京	난징	Nanjing
+國民政府	국민정부	National Government
+汪主席	왕주석	Chairman Wang (Wang Jingwei)
+
+**Glossary**
+
+留學生	유학생	International student
+治下	치하	Under the rule of
+來朝中	내조중	Currently visiting Japan (朝 refers to the Japanese Imperial Court/Government)
+主席	주석	Chairman
+盛大히	성대히	Grandly, magnificently (Older adverbial form of 성대하다)
+專門學校	전문학교	Professional school, technical college
+달하다	달하다	To reach, amount to
+환영하다	환영하다	To welcome
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제7호
+발행일	1941년 07월 01일
+기사제목	東京留學生, 汪主席歡迎
+기사형태	잡저
+
+東京留學生, 汪主席歡迎
+東京에 와서 유학하는 南京의 國民政府 治下의 中國留學生은 專門學校와 大學生만 2萬餘名의 다수에 달한다는데 이 유학생들은 來朝中인 汪主席을 환영하는 會를 여러 盛大히 환영하였다고 한다.<171>

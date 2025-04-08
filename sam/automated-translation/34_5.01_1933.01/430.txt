@@ -1,0 +1,163 @@
+**Header Section:**
+Magazine Title: 삼천리 제5권 제1호
+Publication Date: 1933년 01월 01일
+Article Title: 大學生의 思想觀, 亞米利加大學生들의 灌測 (University Students' Views on Ideology, Observations of American University Students)
+Author: Unspecified (article mentions a North Carolina State University professor)
+Article Type: 세태비평 (Social Commentary/Critique of the Times)
+
+**Body Text Translation:**
+University Students' Views on Ideology, Observations of American University Students
+
+It is quite interesting, and indeed significant, to consider what thoughts young university students have about the social phenomena of their time. A professor at North Carolina State University compiled and published the results of a survey on the thoughts of 258 students at that university. This is fascinating both for understanding the general psychology of young people and for seeing the United States (米國) from a different angle.
+
+A indicates affirmation of the presented question.
+B indicates negation of the question.
+C indicates unable to answer. (The numbers indicate the percentage out of the 258 students.)
+
+Was Christ truly resurrected from the dead?
+(A 69.7 B 8.6 C 21.7)
+It seems even among Christians in present-day Korea (朝鮮), there are probably few who think Christ was resurrected, yet American university students think this way.
+That only 8.6 percent say he was not resurrected from the dead is something we cannot help but see as quite astonishing.
+
+Was humankind created by a special act of God?
+(A 38.8 B 36 C 25.2 )
+It is quite peculiar that the numbers for A and B are nearly identical. And it is also exceedingly strange that 25.2 percent were unable to answer.
+One becomes curious about what has happened to Darwin's (따윈) theory of evolution in America (米國).
+
+When there is a contradiction between religion and modern science, does religion take <100> precedence?
+(A 25.2 B 37.6 C 37.2)
+Similar to the above, it is quite unexpected that so many people could not give a definite answer.
+
+Is it acceptable for young unmarried men and women to go driving every night without a chaperone (隨付者)?
+(A 51.9 B 39.1 C 8.9)
+What would happen if this question were posed to students at specialized schools in Korea (朝鮮)?
+
+Does war only serve the interests (益權) of a few certain groups (OO家) and certain groups (OO家)?
+(A 64 B 28.2 C 7.8)
+This is the clearest question reflecting contemporary thought among these young students.
+
+Is the current popular clothing system better for social tranquility than the clothing of 50 years ago?
+(A 64.4 B 27.1 C 8.5)
+Clothing from 50 years ago refers to those long, flowing clothes from the era of Napoleon III (라포레온 3세). However, these university students believe that current clothing does not disrupt order when considering social tranquility.
+
+Did the United States (米國) prosper more under the rule of the Republican Party (共和黨)?
+(A 24.8 B 45.4 C 29.8)
+Very few people affirm the rule of the Republican Party (共和黨). Also, few people consider this a question. Might the election of Mr. Roosevelt of the Democratic Party (民主黨) this time be related to this?
+
+Our government is based on financial interests, not on morality (道徵的).
+(A 65.5 B 27.1 C 7.4)
+If, indeed, there are no governments or politicians in America (米國) acting morally, this is perhaps something for the rulers (위정자) of America (米國) to reflect upon.<101>
+
+Are movies and dancing a good trend for everyone?
+(A 80.2 B 12.8 C 7.0)
+American university students say dancing and movies are good for everyone. How many young people in Korea (朝鮮), then, truly understand dancing properly?
+
+If a marriage is unhappy, is it acceptable to divorce even if there is no infidelity by the wife?
+(A 84.9 B 11.3 C 3.9)
+American men speak out so boldly and frankly. How does this answer compare to the responses on other religious items? <102>
+
+**Summary**
+
+This 1933 article reports on a survey of 258 North Carolina State University students regarding their views on religion (Christ's resurrection, creationism, science vs. religion), social customs (dating without chaperones, modern clothing), politics (war profiteering, Republican vs. Democrat prosperity, government morality), and personal life (movies, dancing, divorce). The author expresses surprise at the high level of traditional religious belief among American students, contrasts their liberal views on dating and especially divorce with implied Korean norms, and notes the students' critical stance on war profiteering and the perceived lack of morality in government, linking political dissatisfaction to the recent election of Roosevelt. For historians, the article is interesting as it shows a Korean intellectual engaging with Western (specifically American) social and political thought during the colonial period. It uses American student opinions as a benchmark, implicitly inviting comparison with Korean society and revealing contemporary Korean curiosity about modernity, social change, and political critique, albeit viewed through a foreign lens. The commentary highlights perceived contradictions in American society (e.g., religious belief vs. liberal divorce views) and subtly reflects on Korean social norms.
+
+**Named Entities**
+
+노-스카로리나 주립대학	노스캐롤라이나 주립대학	North Carolina State University
+米國	미국	America/United States
+朝鮮	조선	Chosŏn (Korea)
+따윈	다윈	Darwin
+라포레온 3세	나폴레옹 3세	Napoleon III
+共和黨	공화당	Republican Party
+民主黨	민주당	Democratic Party
+루스벨트	루스벨트	Roosevelt
+
+**Glossary**
+
+大學生	대학생	University student
+思想觀	사상관	View on ideology/thought
+亞米利加	아메리카	America (older phonetic transcription)
+灌測	관측	Observation/Survey (likely intended meaning, unusual term)
+세태비평	세태비평	Social commentary/Critique of the times
+퍽으나	퍽으나	Very, quite (older adverbial form)
+잇다	있다	To exist, to have (older spelling of 있다)
+엇더한	어떠한	What kind of, certain (older spelling of 어떠한)
+死	사	Death
+소생되엿나	소생되었나	Was resurrected (older spelling/conjugation)
+업슬 것 갓흐나	없을 것 같으나	It seems there probably isn't/aren't (older spelling/phrasing)
+창조된 것인가	창조된 것인가	Was created
+기묘한	기묘한	Strange, peculiar
+괴이하다	괴이하다	Strange, weird, bizarre
+진화론	진화론	Theory of evolution
+우선권	우선권	Priority, precedence
+맛찬가지로	마찬가지로	Similarly, likewise (older spelling)
+만흔	많은	Many, much (older spelling of 많은)
+婚約	혼약	Engagement (marriage)
+隨付者	수부자	Chaperone (lit. accompanying person)
+조흔가	좋은가	Is it good/acceptable? (older spelling of 좋은가)
+益權	익권	Benefit, interest, gain
+안녕	안녕	Peace, tranquility, well-being
+어질너터리지	어지르지	To make messy, disrupt (older spelling/form of 어지르다)
+번영하얏는가	번영하였는가	Did prosper (older spelling/conjugation)
+道徵的	도덕적	Moral, ethical (徵 likely used for 德)
+위정자	위정자	Ruler, person in power, politician
+딴스	댄스	Dance (older phonetic transcription)
+솔직하게	솔직하게	Frankly, candidly
+부르지짓는다	부르짖는다	To cry out, to proclaim loudly (older spelling of 부르짖는다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제1호
+발행일	1933년 01월 01일
+기사제목	大學生의 思想觀, 亞米利加大學生들의 灌測
+기사형태	세태비평
+
+大學生의 思想觀, 亞米利加大學生들의 灌測
+젊은 청년대학생들은 그 시대의 사회현상에 대하야 엇더한 생각을 하는가는 퍽으나 흥미잇는 일이며 또 중대한 일이라고 생각할 수 잇다. 노-스카로리나 주립대학 교수가 同대학생도258인에 대하야 그 사상조사를 종합하야 발표하얏다. 이것은 청년들의 전반적 심리를 아는대도 또 米國을 측면으로 보는 것으로 보아서도 자미잇는 것이다.
+A는 제출된 문제를 긍정한 것
+B는 그 문제를 부정한 것
+C는 해답이 불능한 것(수자는 그 258인에 대한 퍼센티지를 가르친 것이다.)
+
+크리스도는 정말 死에서 소생되엿나.
+(A 69.7  B 8.6  C 21.7)
+현재 朝鮮의 크리스찬도 크리스트는 소생되엿다고 생각하는 사람이 별로 업슬 것 갓흐나 米國대학생은 이러케 생각들을 하고 잇다.
+死에서 소생되지 안는다고 하는 사람이 겨우 8.6 이것은 우리들이 보아서 너무나 커다란 경이라고 안 할 수 업다.
+
+인간은 신의 특별한 행위로써 창조된 것인가.
+(A 38.8  B 36  C 25.2 )
+A와 B의 수자가 거진 일치되는 것은 퍽 기묘한 것이라고 할 수 잇다. 그리고 또 해답이 불가능한 사람이 25.2가 되는 것은 너무나 괴이하다고 볼 수 잇다.
+따윈의 진화론은 米國에서는 엇더케 된 것인지 알고도 십게 되엿다.
+
+종교와 근대과학과의 모순이 잇술 때는 종교에＜100＞ 우선권이 잇는가.
+(A 25.2  B 37.6  C 37.2)
+우와 맛찬가지로 확답을 엇지 못한 사람이 퍽으나 만흔 것은 의외라 할 수 잇다.
+
+婚約을 안한 젊은 남녀가 매일 밤에 隨付者가 업시 드라이브 하는 것이 조흔가.
+(A 51.9  B 39.1  C 8.9)
+朝鮮의 전문학교생도에게 이런 문제를 내면 엇덜가.
+
+전쟁은 어느 소수의 OO家와 OO家의 益權을 주는 뿐인가.
+(A 64  B 28.2  C 7.8)
+이것은 가장 그 젊은 학생들에게 현대사상이 반영되는 가장 명확한 문제이다.
+
+현재 유행되는 의복제도는 50년 전의 의복보다 사회의 안녕으로 보아 조흘가.
+(A 64.4  B 27.1  C 8.5)
+50년 전의 의복이라면 라포레온 3세 시대의 그 기다란 너풀거리는 옷이다. 그러나 이 대학생들은 현재의 의복이 사회의 안녕으로 보아 질서를 어질너터리지 안는다고 한다.
+
+共和黨時의 지배하에 잇든 米國이 더 일층 번영하얏는가.
+(A 24.8  B 45.4  C 29.8)
+共和黨의 지배를 긍정하는 사람이 극히 적다. 이것을 또 의문으로 생각하는 사람도 적다. 이번 民主黨의 루스벨트씨의 당선도 이곳에 잇지 안엇슬가.
+
+우리의 정부는 道徵的이 아니고 재정적 이해에 의하야 된 것이다.
+(A 65.5  B 27.1  C 7.4)
+그러면 정말 米國의 정부는 도덕적으로 해 나가는 정부나 정치가가 업다면 米國으로선 위정자의 한번 생각할일가 한다.＜101＞
+
+영화나 딴스는 모든 사람에게 조흔 경향이라 할가.
+(A 80.2  B 12.8  C 7.0)
+米國의 대학생은 딴스나 영화가 모든 사람에게 좃타 한다. 그러면 조선의 젊은이로 딴쓰를 정말 똑똑히 이해하는 분이 얼마나 될가.
+
+결혼하야서 행복스럽지 안으면 처의 부정한 사실이 업서도 이혼하야 조흘가.
+(A 84.9  B 11.3  C 3.9)
+米國의 남자들은 이갓치 대담하게 솔직하게 그들은 부르지짓는다. 다른 종교에 대한 항목에 빗치여 이 대답은 엇더한가. ＜102＞
+＜100-102＞

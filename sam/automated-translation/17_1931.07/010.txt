@@ -1,0 +1,76 @@
+Magazine Title: 삼천리 제17호
+Publication Date: 1931년 07월 01일
+Article Title: 세사람중 몃치나 행복하냐 (Among Three People, How Many Are Happy?)
+Author: [Not Provided]
+Article Type: 논설 (Editorial/Opinion Piece)
+
+Among Three People, How Many Are Happy?
+
+Whenever and wherever we gather, if just three of us sit together, one or two among them will invariably be a debtor, a sick person, or someone released from prison. In even more severe cases, sometimes all three fit these descriptions.
+That there are many debtors is truly our characteristic feature. According to recent statistics from the Government-General (總督府統計), loans from Financial Cooperatives (금융조합) amount to 120 million won, loans from the Industrial Bank (식은) and the Oriental Development Company (동척) total 60 million won, loans from other financial institutions (긍용긔관) amount to 110 million won, and even loans from pawnshops (전당포), which have special dealings with the common people, are said to count in the several millions of won. Furthermore, it is a generally acknowledged reality that only a countable few are not hard-pressed by tenant fees, rent, water bills, state taxes, and the like.
+
+There are also many sick people. The number of deaths last year was 400,000, suicides numbered over 700, and the number of patients currently sick in bed is unknown, potentially numbering in the millions. We do not try to delve into the reasons why there are so many sick people and deaths.
+In addition, those released from prison number in the thousands annually, and inmates number in the tens of thousands, so without needing more detailed statistics, we can see the same trend.
+
+Now, recent newspapers report that in the farming villages, one *doe* of barley sells for 3 *chŏn*. Selling barley at 3 *chŏn*, when will they ever repay these massive cooperative debts or buy medicine for the ailing? Although Chosŏn overall possesses arable land proportionate to its population, due to the imbalance in land ownership (토지소유의 불균형), agricultural products cannot be produced to the full capacity of the farmers, and even when they are, the farmers' poverty only deepens further due to the agricultural depression (농업공황). Consequently, this gives rise to phenomena such as intense class differentiation (계급분화) in rural areas, the reaction of the national bourgeoisie (민족뿔조아지), and a sharp increase in urban unemployment (도시실업자의 격증), which naturally adds impetus to our movement.
+At this point, we cannot help but cry out once more: Are the seeds of happiness growing among us? Or are the seeds of misfortune growing more abundantly? Truly, when three gather, how many among them are happy, and how many have prospects of future happiness? <1>
+
+**Summary**
+
+This editorial from 1931 paints a bleak picture of Korean society under Japanese rule, arguing that widespread suffering is the norm. It cites statistics on massive debt held by ordinary people through various financial institutions, high rates of illness, death, and imprisonment. The author connects this misery to economic hardship, particularly the extremely low price of grain (barley), unequal land distribution preventing optimal agricultural output, and a general agricultural depression. These conditions are seen as fueling social problems like rural class division, the rise of a nationalist bourgeoisie, and urban unemployment, ultimately adding momentum to unnamed social or political movements. For historians, the article is revealing for its stark portrayal of the socio-economic distress in colonial Korea, explicitly linking colonial economic structures (debt, land issues, depression) to widespread personal suffering (debt, illness, incarceration). The mention of specific institutions like the Financial Cooperatives, Industrial Bank, and Oriental Development Company, along with concrete figures (though perhaps generalized), provides insight into the colonial financial system's impact. The term "민족뿔조아지" (national bourgeoisie) also points to contemporary analyses of class and nationalism.
+
+**Named Entities**
+
+總督府統計	총독부통계	Government-General Statistics
+금융조합	금융조합	Financial Cooperatives
+식은	식산은행	Sikŭn (Industrial Bank; Ch. Shokusan Ginkō)
+동척	동양척식주식회사	Tongch'ŏk (Oriental Development Company; Jp. Tōyō Takushoku Kabushiki Kaisha)
+전당포	전당포	Pawnshops
+조선	조선	Chosŏn (Korea)
+
+**Glossary**
+
+몃치나	몇이나	How many (people); Older spelling/form of '몇이나'.
+빗군	빚군	Debtor; Person in debt.
+총독부	총독부	Government-General (referring to the Japanese Government-General of Korea).
+긍용긔관	금융기관	Financial institution; Older spelling/form.
+세민	세민	Common people; Ordinary folk.
+밧게 업다	밖에 없다	There is only/nothing but; Older spelling/form of '밖에 없다'.
+알는 이	앓는 이	Sick person; Ailing person; Older spelling/form of '앓는 이'.
+출옥자	출옥자	Person released from prison; Ex-convict.
+재감자	재감자	Inmate; Person currently in prison.
+한되	한 되	One *doe* (a traditional unit of volume, approx. 1.8 liters).
+3전	삼 전	Three *chŏn* (a small monetary unit, 1/100th of a Won/Yen).
+갑고	갚고	Repay (debt) and...; Older spelling/form of '갚고'.
+경작할	경작할	Cultivatable; To be cultivated.
+토지소유	토지소유	Land ownership.
+농업공황	농업공황	Agricultural depression/crisis.
+심화하여	심화하여	Deepening; Worsening.
+계급분화	계급분화	Class differentiation; Stratification.
+민족뿔조아지	민족 부르주아지	National bourgeoisie; Likely intended to mean the Korean middle/capitalist class, possibly with a critical nuance. '뿔조아지' is a phonetic rendering of 'bourgeoisie'.
+격증	격증	Sharp increase; Sudden rise.
+한박차를 加하여	한 박차를 가하여	Adding impetus; Spurring on.
+모흐면	모이면	If (they) gather; Older spelling/form of '모이면'.
+잇스며	있으며	Are there / While there are; Older spelling/form of '있으며'.
+웨우처보지	외쳐보지	Cry out; Shout out; Older spelling/form of '외쳐보지'.
+
+
+---------------------------
+
+
+잡지명	삼천리 제17호
+발행일	1931년 07월 01일
+기사제목	세사람중 몃치나 행복하냐
+기사형태	논설
+
+세사람중 몃치나 행복하냐
+
+
+엇든 때, 엇든 곳에서든지 우리들은 셋만 모여 안지면 그중에 한둘은 빗군, 병자, 출옥자가 끼이게 된다. 아니 심한 경우에는 셋이 모다 그러한 때가 잇다.
+빗군이 만흔 것은 실로 우리의 특색이다. 최근 總督府統計에 의하면 금융조합대출이 1억2천만원 식은과 동척의 대출이 6천만원 기타 긍용긔관의 대출이 1억1천만원 그리고 세민에게 특별한 교섭이 잇는 전당포의 대출조차 또한 수백만원을 헤인다하며 이밧게 소작료, 집세, 물세 국가의 공과등에 쪼들니우지 안는 인민이 겨우 헤일만하게 밧게 업다함은 일반이 승인하는 현실이다.
+
+병자 또한 만타. 작년 일년동안에 사망한 수효가 40만병이요 자살자가 700여명이며 현재 병드러 누은 환자 또한 몃백만명인지 모른다. 우리는 엇재서 병자와 사망자가 이러케 만허지는 그 원인을 캐려하지 안는다.
+그밧게 출옥자도 일년동안에 수천명을 헤이고 재감자가 수만명이 잇서 더 자세한 통계를 둘것업시 가튼 경향을 바라볼수 잇다.
+
+이제 요지음의 신문에는 농촌서 보리 한되에 3전씩 한다고 전한다. 3전의 보리를 파라서 언제 이 만흔 조합빗을 갑고 알는 이에 약을 사줄가. 조선은 전반적으로 인구에 알맛게 경작할 토지는 가지고 잇건만은 토지소유의 불균형 때문에 농산물은 농민의 전능력대로 산출되지 못하고 또 되엇대사 농업공황으로 농민의 빈곤이 더욱 심화하여 갈 따름이다. 이에 따라 농촌의 격렬한 계급분화와 민족뿔조아지의 반동과 도시실업자의 격증등 현상을 나아서 우리운동에 저절로 한박차를 加하여 노을 뿐이다.
+이에 이르러 다시한번 우리들 사이에는 행복의 씨가 자라고 잇느냐. 불행의 씨가 더 만히 자라고 잇느냐. 대체 셋이 모흐면 그중에 몃치나 행복스러운 자 잇스며 장차 행복스러울 자 잇느냐 하는 것을 더한번 웨우처보지 안을수 업다.<1>

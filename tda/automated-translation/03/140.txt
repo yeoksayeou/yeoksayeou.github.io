@@ -1,0 +1,42 @@
+Magazine Title: 大東亞
+Publication Date: 1943년 03월 01일
+Article Title: 「大東亞」中繼室, 朝鮮 內地 其他 各地の特殊情報を中繼す ("Daitōa" Relay Room, Relaying Special Information from Korea, the Mainland, and Other Regions)
+Author: None specified
+Article Type: 소식 (News/Dispatch)
+
+"Daitōa" Relay Room, Relaying Special Information from Korea, the Mainland, and Other Regions <66-67>
+
+**Summary**
+
+This text is the title for a regular section or feature within the "Daitōa" magazine, identified as the "Relay Room." This section's purpose was to gather and disseminate "special information" (reports, news, potentially intelligence) from various parts of the Japanese Empire, specifically mentioning Korea, the Japanese mainland ("Naichi"), and other unspecified regions. From a historical perspective, this title illustrates the magazine's imperial scope and the perceived need to centralize information flow from across "Greater East Asia" during wartime. The reference to "special information" from places like Korea hints at the tightly controlled and potentially propagandistic nature of news dissemination during the colonial period, making it interesting for historians studying wartime information control and imperial communication networks.
+
+**Named Entities**
+
+大東亞	だいとうあ	Daitōa (Greater East Asia - referring to the magazine)
+朝鮮	ちょうせん	Korea
+內地	ないち	Mainland (Japan proper)
+
+**Glossary**
+
+大東亞	だいとうあ	Greater East Asia
+中繼室	ちゅうけいしつ	Relay room, transmission room
+朝鮮	ちょうせん	Korea
+內地	ないち	Mainland, Japan proper (as distinct from colonies)
+其他	そのた/きた	Other(s)
+各地	かくち	Various places, each region
+特殊	とくしゅ	Special, particular
+情報	じょうほう	Information, intelligence, news
+中繼す	ちゅうけいす	To relay, to transmit (Classical verb form of する)
+
+
+---------------------------
+
+
+잡지명	대동아 제15권 제3호
+발행일	1943년 03월 01일
+기사제목	「大東亞」中繼室, 朝鮮 內地 其他 各地の特殊情報を中繼す
+기사형태	소식
+
+「大東亞」中繼室, 朝鮮 內地 其他 各地の特殊情報を中繼す
+일본문-원문
+＜66-67＞

@@ -1,0 +1,152 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里) 제7권 제10호
+Publication Date: 1935년 11월 01일 (November 1, 1935)
+Article Title: 戰時의 國際公法 (International Law in Wartime)
+Author: 辛泰嶽
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation:**
+International Law in Wartime
+						Sin T'aeyak
+
+Regarding War
+The concept of war is not necessarily the same across different eras. However, broadly viewed, there are two theories: one is the Action Theory (行爲說), and the other can be called the State Theory (狀態說). The Action Theory holds that war is a struggle between states, and unless there are phenomena such as facing off, firing cannons, attacks, and the like, it cannot be called war. The State Theory holds that war is a state opposite to the state of peace between nations, and therefore, war does not require the existence of an act where one country inflicts violence upon the other. In other words, if diplomatic negotiations between two countries break down and they mutually recall their ministers, war is established at that point, and combat actions are not necessarily required. However, among the definitions by modern scholars, most belong<69> to the former. Although there may be differences in terminology, the substance is largely similar. Therefore, ultimately, war can be defined as a struggle between states using military force.
+
+When war occurs, the International Law of Wartime applies. Belligerent nations acquire rights and duties under wartime international law towards the opposing nation, a relationship of rights and duties of neutrality arises with third-party neutral nations, and a kind of rights and duties also arise among allied nations. Therefore, whether the relationship between certain states constitutes war often has a significant impact on international relations. However, as mentioned earlier, because theories regarding the definition of war do not agree, practical examples frequently arise where there is doubt whether a certain state constitutes war or not. Regarding the Sino-French War of 1884, although France claimed at the outset that it was not war but reprisal (報仇), it was eventually resolved as war. In 1900 (Meiji 30), the Boxer Rebellion (義和團) arose in Qing China, harming the lives, bodies, and property of foreigners, attacking foreign legations, and killing the German Minister and a Japanese Secretary. If this incident were considered a war between Qing China and foreign countries, wartime international law would apply to the relationship between Qing China and the various foreign powers, and a peace treaty would have been necessary to conclude this war. However, this incident was concluded as merely an act committed against foreigners by bandits called the Boxers, not something Qing China itself waged war against foreign countries. To give another example, regarding the battles between the Japanese Imperial Court and the Shogunate (幕府) in the first year of Meiji (明治 元年), doubts arose as to whether it was war or civil unrest; European and American countries viewed it as war and each adopted neutrality.
+
+The start of war usually occurs when a dispute arises between states that cannot be resolved through diplomatic means. Regarding the method of initiation, the concept differs by era, and opinions among scholars are not uniform. Based on the actual practices of various countries, the sequence is generally as follows: first, an ultimatum (Ultimatum); second, an imperial edict declaring war or a resolution to commence hostilities; third, advance notice of the commencement of war to the opposing country. It is common for war to begin after following this sequence. However, regarding the aforementioned advance notice of commencement of war, that is, the declaration of war, there is debate among scholars as to whether it is absolutely necessary or not. Generally, scholars of the European Continental school (歐洲大陸派) require a declaration before actual combat, while British and American scholars do not deem it necessary. In ancient times, a declaration was required for the commencement of war, but since the 18th century, such declarations became unnecessary. The Sino-Japanese War of Meiji 27 (1894), the Russo-Turkish War of 1877, the Spanish-American War of 1898, and the Russo-Japanese War of Meiji 37 (1904) all began without a declaration. However, during the Great European War (WWI), there is the example of Japan issuing an ultimatum to Germany on August 16, Taishō 3 (1914), and commencing war on the expiration date,<70> August 23, as no reply was received.
+
+Once war begins, it is natural that peaceful relations between the disputing nations are severed. Furthermore, although third-party countries are, in principle, unrelated to the war, they may incur special duties towards the belligerent nations regarding certain matters. Thus, the acts of war between belligerent nations are governed by the Laws of War (戰時法規), and the relationship of rights and duties between belligerent nations and third-party countries is handled according to the Laws of Neutrality (局外中立法規). However, even for belligerent nations, the outbreak of war does not necessarily extinguish all existing peacetime relationships between the state or its people. Also, nations with special relationships with a belligerent nation, although not directly involved in the dispute, may inevitably have to participate in hostile acts as an effect of the outbreak of war.
+
+Furthermore, when war begins, the principle is to recall diplomatic envoys. If enemy diplomatic envoys remain stationed during wartime, it poses disadvantages concerning military secrets and various other points. Therefore, if the enemy state does not recall them, the belligerent nation can demand their withdrawal. During the Russo-Japanese War, as the Russian Minister showed no sign of withdrawing by February 8, Meiji 37 (1904), Japan demanded his withdrawal. Similarly, even if not political representatives of the state like diplomatic envoys, consuls, whose duty it is under orders from their home government to protect and promote the interests of their home country abroad, especially commercial and industrial interests such as trade, transportation, and navigation, also follow the principle of withdrawal. However, their home country's citizens and property usually remain in the enemy country. Therefore, it is customary to entrust their rights and interests to the diplomatic envoys or consulates of friendly neutral countries for protection. For example, during the Sino-Japanese War, Japan's interests in Qing China and the Japanese citizens and their property in Qing were entrusted to the American Minister stationed in Qing for protection. Qing entrusted its interests in Japan and the Qing citizens and their property in Japan to Great Britain for protection. Also, during the Russo-Japanese War, Japan entrusted its interests to the United States, and Russia entrusted its interests to France, for mutual protection. Now, what must be specifically mentioned here is the effect of war on the citizens of neutral countries residing in a belligerent country. The principle is that citizens of neutral countries residing in a belligerent country do not experience any particular impact on their rights and duties due to the start of war. However, they cannot be exempted from duties based on special needs arising from the state of war simply because they are citizens of a neutral country. They must bear these duties just like domestic citizens. Therefore, they cannot avoid obligations such as restrictions on trade with the enemy, bearing wartime taxes, and being subject to requisitions. Regarding enemy nationals residing in the country, in medieval doctrine and practice, the nation and the state were completely identified, viewing all enemy nationals as enemies, and there were instances where enemy nationals within the country were detained and made prisoners of war (俘虜) immediately upon the outbreak of war. However, in modern times, as the nature of the state has become clearer, the concept of war has changed, and it is generally<71> recognized, as mentioned earlier, that war is a struggle of military forces between states, different from relations between private individuals. However, at times, to avoid dangers and disputes arising from the presence of enemy nationals within the country, they may be expelled. But this expulsion requires granting a reasonable grace period. In 1755, France expelled British nationals accompanied by trumpets and drums. During the Sino-Japanese War, an Imperial Edict of August 8, Meiji 37 (*error in year, should be Meiji 27/1894*), required Qing nationals wishing to continue residing in Japan to report to the Prefectural Governor (府縣知事) of their residence within 20 days to be registered and receive a registration certificate. Those who did not register could be ordered to leave. However, during the Russo-Japanese War, no such Imperial Edict was issued; the Home Minister merely issued instructions (訓令) to the Prefectural Governors on how to handle them. And in actual practice, apart from the martial law commander ordering several Russian nationals residing in Hakodate (函舘) to leave when martial law was imposed there, there were no other instances of expelling enemy nationals.
+
+Furthermore, regarding property owned by the enemy state or enemy nationals, there was a time when it was recognized that it could be confiscated immediately upon the outbreak of war between the two countries. However, modern doctrine and practice generally recognize that the property of enemy nationals should be respected.
+
+In the future, I intend to continue explaining topics such as Prisoners of War (俘虜), Neutrality (局外中立), Blockade (封鎖), and others.<72>
+
+**Summary**
+
+This 1935 article by Sin T'aeyak discusses the definition of war according to international law, contrasting the "action theory" (requiring hostilities) and the "state theory" (requiring only a break in peaceful relations). It covers the procedures for starting a war (ultimatum, declaration), noting the declining necessity of formal declarations, citing examples like the Sino-Japanese and Russo-Japanese Wars. The article outlines the consequences of war: the application of wartime international law, the status of neutral nations, the recall of diplomats and consuls, and the protection of remaining citizens and property through neutral intermediaries. It also touches upon the treatment of enemy nationals residing within a belligerent state, noting the shift from medieval practices of automatic internment to modern principles generally respecting individuals and their property, while still allowing for expulsion under certain circumstances, again referencing Japanese practices during the Sino-Japanese and Russo-Japanese Wars.
+
+From the perspective of Korean colonial history, this article is interesting as it reflects the legal discourse prevalent in Korea under Japanese rule. The author, a Korean intellectual, discusses international law concepts using examples heavily centered on Japan's recent military history (Sino-Japanese War, Russo-Japanese War, WWI). This highlights the integration of Japanese legal and historical perspectives into Korean academic thought during this period. The detailed discussion of Japan's handling of enemy nationals (Chinese and Russian) provides insight into the practical application of international law principles by the colonizing power, which would have been a relevant topic for Koreans living under that regime. Historians might find the article useful for understanding the adoption and adaptation of Western international law concepts within the East Asian context, particularly through the lens of Japanese imperial expansion and its influence on colonial Korean intellectual life.
+
+**Named Entities**
+
+辛泰嶽	신태악	Sin T'aeyak
+淸佛戰爭	청불전쟁	Sino-French War
+佛國	불국	France
+淸國	청국	Qing China
+義和團	의화단	Boxer Rebellion
+獨逸公使	독일 공사	German Minister
+日本書記生	일본 서기생	Japanese Secretary
+獨逸	독일	Germany
+日本	일본	Japan
+歐米諸國	구미제국	European and American countries
+明治 元年	명치 원년	First year of Meiji
+幕府	막부	Shogunate (Japanese)
+歐洲大陸派	구주대륙파	European Continental school
+英米	영미	Britain and America
+明治 27年	명치 27년	Meiji 27 (1894)
+日淸戰爭	일청전쟁	Sino-Japanese War
+露工戰爭	노공전쟁	Russo-Turkish War (*likely typo for 露土戰爭, Russo-Turkish War*)
+米亞戰爭	미아전쟁	Spanish-American War (*likely typo for 米西戰爭, Spanish-American War*)
+明治 37年	명치 37년	Meiji 37 (1904)
+日露戰爭	일로전쟁	Russo-Japanese War
+歐洲大戰	구주대전	Great European War (WWI)
+大正 3年	대정 3년	Taishō 3 (1914)
+露國公使	노국 공사	Russian Minister
+露國	노국	Russia
+米國公使	미국 공사	American Minister
+米國	미국	America
+英國	영국	Britain
+府縣知事	부현지사	Prefectural Governor
+函舘	함관	Hakodate
+
+**Glossary**
+
+戰爭	전쟁	War
+國際公法	국제공법	International Law
+行爲說	행위설	Action Theory (of war)
+狀態說	상태설	State Theory (of war)
+國家間	국가간	Between states/nations
+外交談判	외교담판	Diplomatic negotiations
+破裂	파렬	Breakdown, rupture (Older usage/Hanja reading)
+互相	호상	Mutually
+公使	공사	Minister (diplomatic rank)
+召還	소환	Recall (diplomatic)
+병력	병력	Military force
+교전국	교전국	Belligerent nation
+상대국	상대국	Opposing nation/counterpart state
+第3國	제3국	Third country
+중립국	중립국	Neutral country
+권리의무	권리의무	Rights and duties
+기치게	기치게	To cause, bring about (Older form of 끼치게)
+報仇	보구	Reprisal, revenge
+匪徒	비도	Bandits, rebels
+紛議	분의	Dispute, conflict
+최후통첩	최후통첩	Ultimatum
+宣戰	선전	Declaration of war
+詔勅	조칙	Imperial edict
+豫告	예고	Advance notice
+議論	의론	Debate, discussion (Older usage for 의논)
+반다시	반다시	Necessarily, surely (Older spelling of 반드시)
+업스면	업스면	If there isn't/aren't (Older spelling of 없으면)
+잇다	잇다	To exist, be (Older spelling of 있다)
+만타	만타	To be many, much (Older spelling of 많다)
+안는다고	안는다고	Does not (Older spelling/form of 않는다고)
+안코	안코	Without doing (Older spelling/form of 않고)
+律케	율케	To be governed by, regulated by
+局外中立	국외중립	Neutrality (literally 'outside the situation neutrality')
+소멸케	소멸케	To cause to extinguish/disappear
+항적행위	항적행위	Hostile act
+駐在	주재	To be stationed, reside (diplomatically)
+軍機	군기	Military secrets
+철퇴	철퇴	Withdrawal, removal
+영사	영사	Consul
+이익	이익	Interest, profit, benefit
+보호	보호	Protection
+在留	재류	Residing (in a foreign country)
+면할 수 업다	면할 수 업다	Cannot avoid/be exempted from (Older spelling: 면할 수 없다)
+通商制限	통상제한	Trade restrictions
+戰時稅	전시세	Wartime tax
+징발	징발	Requisition, conscription (of goods/property)
+억류	억류	Detention, internment
+俘虜	부로	Prisoner of War (PoW) (Standard reading is 포로)
+추방	추방	Expulsion, deportation
+유예기간	유예기간	Grace period
+몰수	몰수	Confiscation
+존중	존중	Respect
+봉쇄	봉쇄	Blockade
+밧지안은	밧지안은	One who did not receive (Older spelling of 받지 않은)
+바더	바더	Receiving (Older spelling of 받아)
+식힘을	식힘을	Causing to do (Older spelling of 시킴을)
+함에	함에	Regarding, concerning (Connective phrase)
+엇더한	엇더한	What kind of, any (Older spelling of 어떠한)
+사신	사신	Envoy, messenger
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제10호
+발행일	1935년 11월 01일
+기사제목	戰時의 國際公法
+필자	辛泰嶽
+기사형태	논설
+
+戰時의 國際公法
+						辛泰嶽
+戰爭에 關하야
+전쟁의 관념은 시대에 따라 반다시 동일한 것은 아니다. 그러나 이를 大觀하면 2說이 있으니 一은 行爲說이요, 他一은 狀態說이라고 할 수 잇다. 行爲說이라고 함은 전쟁은 국가간의 쟁투로서 對陣, 發砲, 공격 등과 가튼 현상이 업스면 이를 전쟁이라고 할 수 업다는 說이요, 狀態說이라고 함은 전쟁은 국가간의 평화상태에 반대되는 상태로서, 따라서 전쟁은 양국간의 一方이 他方에 대하야 폭력을 가하는 행위의 존재을 필요하지 안는다고 한다. 환언하면 양국간의 외교담판이 破裂되어 互相 公使를 召還하는 것가튼 일이 있으면, 그 때에 발서 전쟁이 성립되는 것으로, 반다시 전투행위가 있어야 하는 것은 아니라고 한다. 그러나 近世학자의 정의로는 대개가 전자에 속하는＜69＞ 것이 만타. 다만 그 용어의 차이는 있을지언정 실질에 있어서는 대개가 유사하다. 따라서 결국 전쟁이라고 함은 병력에 의한 국가간의 쟁투를 가라침이라고 정의할 수 있다.
+
+전쟁이 있으면 戰時國際公法의 적용이 있게 되고 교전국은 상대국에 대하야 戰時國際公法上의 권리 의무를 生하며 第3國인 중립국 사이에는 중립의 권리의무의 관계를 生하며 또 與國의 사이에도 역시 일종의 권리 의무를 生하게 된다. 따라서 엇더한 국가간의 관계가 전쟁이냐 아니냐 함은 국제관계에 있어서 중대한 영향을 기치게 되는 일이 만타. 그러나 전술한 반와 가치 전쟁의 정의에 대하야 각 설이 일치치 안키 때문에 엇던 때는 엇더한 상태가 전쟁이냐 아니냐하는 의문을 生하는 實例도 적지 안하다. 1884년의 淸佛전쟁은 개전 당시에 佛國은 전쟁이 아니라 報仇라고 주장하얏슴에 불구하고 필경에는 전쟁이라고 해결되었으며, 1900년(明治30年)에 淸國에 義和團이라는 것이 이러나, 외국인의 생명, 신체, 재산을 손상하고 외국 공사관을 공격하고 獨逸公使와 日本書記生을 살해한데 대하야 이 사변을 淸國과 외국간의 전쟁이라고 하면 청국과 諸外國間의 관계에는 戰時國際公法의 적용을 보게 될 터이며, 또 이 전쟁을 종결함에는 강화조약의 체결을 하지 안으면 안되게 될 터인데 이 사변은 단순한 義和團이라는 匪徒가 외국에 대하야 한 행위에 불과하는 것으로 淸國 자신이 외국과 전쟁한 것은 아니라는 것으로 결말을 지어버렷다. 또다시 一例를 들면, 明治 元年에 일본의 조정과 幕府 간에 이러난 전투가 전쟁이냐, 내란이냐 함에 관하야 疑義가 生하얏섯는데 歐米諸國은 이를 전쟁이라고 보아서 각각 중립한 일도 있엇다.
+
+전쟁의 開始는 국가간에 엇더한 紛議를 生하야 외교상의 수단으로써 이를 해결하기 불능한 경우에 이러나는 것이 보통이다. 그 開始의 방법에 있어서는 시대에 의하야 그 관념을 달니하며 또 학자에 의하야 의견이 일치하지 안하다. 그 開始방법에 관하야 이에 각국의 實際에 基하야 순서대로 말슴하면 첫재 최후통첩(Ultimatum) 둘재 宣戰의 詔勅 又는 開戰의 決議 셋재 對手國에 대한 戰爭開始의 예고, 이러한 순서를 밟은 연후에 개전됨이 보통이다. 그런데 右記한 開戰의 豫告, 즉 전쟁개시의 선언에 대하야는 그를 반다시 하여야 하느냐, 그러치안으냐 함에 대하야는 학자간에 議論이 있는데 대체로 歐洲大陸派의 학자는 實戰 以前의 宣戰을 필요한다고 하며 英米의 학자는 이를 필요치 안는다고 한다. 古代에 있어서는 전쟁의 개시에는 반다시 선언을 필요하얏스나 제18세기 이후에는 그 선언을 필요하지 안하게 되엇다. 明治 27년의 日淸전쟁, 1877년의 露工전쟁, 1898년의 米亞전쟁, 明治 37년의 日露전쟁 이는 모다 선언을 하지 안코 개전하얏다. 그러나 歐洲大戰時에는 일본은 大正 3년 8월 16일에 독일에 대하야 최후통첩을 發하고 그 회답이 업슴으로 期滿了日＜70＞ 卽 8월 23일에 전쟁을 개시한 예도 있다.
+
+전쟁이 한번 개시되면 분쟁국 간에 있어서 평화의 관계가 파괴됨은 물론이거니와, 제3국도 원칙으로 전쟁에는 아모 관계가 업다고 하더래도, 엇더한 사항에 관하야는, 교전국에 대하야 特種의 의무를 부담하게 되는 일이 있다. 그리하야 교전국 간의 전쟁행위는 戰時法規에 의하야 律케 되고 교전국과 제3국과의 권리의무의 관계는 局外中立法規에 의하야 처리되게 된다. 그러나 교전국에 있어서도 개전은 반다시 국가 又는 그 人民間에 존재한 일체의 平時關係를 소멸케 하는 것이 안니면 또 교전국과 特種의 관계를 가진 나라는 분쟁에 직접관계는 업다고 할지라도 개전의 효과로서 당연히 抗敵行爲에 참여하지 안으면 안되게 되는 일이 있다.
+그리고 전쟁이 개시되면 그 외교사신를 소환함을 원칙으로 한다. 적국의 외교사신이 전쟁 중에 駐在하게 되면 軍機 기타 여러 가지 점에 있어서 불리한 일이 만흠으로 만약 적국이 이를 소환하지 안는 때에는 교전국은 그 철퇴를 요구할 수도 있다. 日露전쟁시에도 明治 37년 2월 8일까지 露國公使가 撤退할 태도를 보이지 안음으로 일본은 그 撤退를 요구하얏다. 이와 가치 외교사신가튼 국가의 정치적 대표자가 아니라고 할지라도 본국 정부의 命을 바더 외국에 있어서 본국의 이익, 특히 무역, 교통 及 항해 등 상업상 及 공업상의 이익을 利護增進식힘을 그 직무로 하는 영사도 역시 철퇴하는 원칙으로 한다. 그러나 그 本國 人民 及 재산은 敵國에 그대로 있게 되는 것이 보통이다. 그럼으로 그 권리이익은 親交가 있는 局外中立國의 외교사신 又는 영사관에 의뢰하야 이로 보호함을 예로 한다. 예컨대 日淸戰爭 시에는 淸國에 있는 일본의 이익과 在淸일본인 及 其財産은 淸國駐箚米國公使에게 의뢰하야 이를 보호하얏고 淸國은 영국에 의뢰하야 일본에 있는 그 이익 及 在日本淸國人 及 其財産을 보호하얏스며 또 日露전쟁 시에는 일본은 미국에 露國은 佛國에 의뢰하야 각각 보호하얏다. 그런데 이에 특히 말하여야 할 것은 교전국에 在留하는 局外中立國 人民에 及하는 전쟁의 영향은 엇더한가 함이다. 교전국에 在留하는 局外中立國 人民은 전쟁의 개시 때문에 그 권리의무에 특종의 영향을 바듬이 업슴을 원칙으로 한다. 그러나 전쟁情態에서 생기는 특별한 필요에 基한 의무는 중립국인이라는 이유로써 이를 면할 수는 업다. 내국인과 同樣으로 이를 부담하지 안으면 안되게 된다. 따라서 적과의 通商制限, 戰時稅의 부담 及 징발의 늪�령을 밧는 등의 의무는 이를 면할 수 업게 된다. 그리고 在留敵國人民에 대하야는 中古의 학설 及 관례에 있어서는 국민과 국가를 전혀 동일시하야 적국인민의 전체를 적으로 보아 자국내에 있는 적국인민은 開戰과 동시에 이를 억류하야 俘虜로 한 일도 있으나 近世에 있어서는 국가의 성질이 명확하야짐에 따라 전쟁의 관념을 一變하야 전쟁은 전술한 바와 가치 國과 國과의 間의 병력의 쟁투로서 一私人間의 관계와 다르다함을 일반적으로＜71＞ 인정하게 되엇다. 그러나 때에 따라서는 적국 인민이 국내에 在留함으로 生하는 위험과 분쟁을 피하기 위하야 이를 추방하는 일도 있다. 그러나 이 추방에는 상당한 유예기간을 許與함을 要한다. 1755년 佛國은 喇叭과 大鼓를 울니면서 영국인을 추방하얏다. 日淸戰爭 시에는 明治 37년 8월 8일의 勅令으로 淸國人으로서 일본에 계속 거주하고저 하는 者는 20일 이내에 거주지의 府縣知事에게 届出케 하야 등록을 밧게 하고 등록증서를 교부하얏스며 만약 등록을 밧지안은 자는 퇴거를 명할 수 잇도록 하얏섯는데 日露戰爭 시에는 이와 가튼 勅令도 發치안코 다만 內務大臣이 府縣知事에게 其 취급방법을 訓令하얏슬 뿐이다. 그리고 그 실제에 있어서는 函舘에 계엄을 실시할 時에 계엄지 사령관이 同地在留의 露國人 數名에 대하야 同地의 퇴거를 명한 이외에 적국인을 퇴거식힌 일은 업다.
+
+그리고 적국 又는 적국인민의 소유재산에 대하야는 양국 간에 개전만 되면 곳 몰수하야도 무방하다고 인정한 시대도 있엇스나 근세의 학설 及 관례는 일반으로 적국인민의 재산을 존중하여야 함을 인정하얏다.
+
+후일 다시 俘虜, 局外中立, 封鎖 기타에 관하야 계속 설명하랴고 한다.＜72＞
+＜69-72＞

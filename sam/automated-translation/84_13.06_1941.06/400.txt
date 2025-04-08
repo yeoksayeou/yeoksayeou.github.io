@@ -1,0 +1,45 @@
+Magazine Title: 三千理 제13권 제6호
+Publication Date: 1941년 06월 01일
+Article Title: 朝鮮의 映畵 관람자 수 (Number of Moviegoers in Chosŏn)
+Author:
+Article Type: 잡저 (Miscellaneous writing)
+
+The annual attendance at movie theaters within Chosŏn calculates to 13,996,760 people (Shōwa 16 [1941]), and it is showing an increase of 2 million year by year.
+
+Furthermore, besides this, when adding the paid and free audience members of temporary theaters/venues (假說興行場), the situation in Shōwa 13 (1938) was such that it exceeded 16 million people. <212>
+
+**Summary**
+
+This short piece from 1941 quantifies movie attendance in colonial Korea (Chosŏn). It states that nearly 14 million people attended permanent movie theaters annually in 1941, with an increase of 2 million per year. It also mentions that including attendance at temporary venues, the total number of viewers surpassed 16 million in 1938. For historians, this article provides valuable statistical data on the scale and growth of cinema as a popular mass entertainment medium in late colonial Korea, indicating its significant reach even beyond established theaters.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+昭和	쇼와	Shōwa
+
+**Glossary**
+
+映畵	영화	Movie, film
+관람자	관람자	Viewer, spectator, audience member
+興行場	흥행장	Theater, performance venue
+입장 인원	입장 인원	Attendance number, number of admissions
+算하며	산하며	Calculates to, amounts to (older grammatical form of 산하다)
+年年	연년	Year by year, annually
+示하고 있다	시하고 있다	Is showing, indicates (using 示하다)
+假說興行場	가설 흥행장	Temporary theater/venue
+유료	유료	Paid admission
+무료	무료	Free admission
+초과하는	초과하는	Exceeding, surpassing
+상황이었다	상황이었다	Was the situation/circumstance
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	朝鮮의 映畵 관람자 수
+기사형태	잡저
+
+朝鮮의 映畵 관람자 수
+朝鮮 내 映畵興行場의 1年간 입장 인원은 13,996,760人(昭和 16년)을 算하며, 年年 2백 만의 증가를 示하고 있다. 더욱이 이 외에 假說興行場의 유료 무료의 관람 인원을 합하는 때는 昭和 13年 중엔 1,600萬人을 초과하는 상황이었다. ＜212＞

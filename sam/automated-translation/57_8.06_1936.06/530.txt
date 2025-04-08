@@ -1,0 +1,331 @@
+Magazine Title: 삼천리 제8권 제6호
+Publication Date: 1936년 06월 01일
+Article Title: 詩經 (Book of Odes)
+Author: 金岸曙
+Article Type: 시 (Poetry)
+
+詩經
+						金岸曙
+Regarding the Translation of the *Book of Odes* Once More
+
+Since I have already expressed my stance on poetry translation several times, there is no need to elaborate on it again here.
+However, I cannot simply remain silent, so I wish to say a word, not about anything else. When bringing something over from others, it should be brought over exactly as it is. Only then can it be said to have been brought over completely. But since this cannot be achieved, it is common that one inevitably has no choice but to take only the author's intent, which could be called its spirit, and craft something new.
+
+To glimpse things like the color of the era or the flavor of the locale, I know that one should bring over the terminology or specific characteristics exactly as they are. However, since this too lacks meaning in terms of providing a real sense (實感), I have not used archaic language (古語), and have also avoided nouns as they are. For example,<262> the terms *kŭmchŏp* (金疊 - gilded vessel) and *sigong* (兕觥 - rhinoceros horn cup) from "*Kwŏn i*" (卷耳) are such cases. The commentary notes, "*Chŏp*, a vessel carved with cloud and thunder patterns, decorated with gold," clearly indicating a wine vessel of that time. Yet, one cannot write *kŭmchŏp* in translation because it lacks any real sense. Therefore, it would be better to use ordinary nouns like "wine cup" or "cup" if there is no proper noun. Regarding *sigong*, the commentary states, "*Si*, a wild ox, single-horned, blue-colored, weighing a thousand *ch'ŏk*; *kong*, a goblet; using a *si* horn as a goblet." If one were to translate this painstakingly, it might be "wild ox horn cup," "ox horn cup," or perhaps "horn cup." However, I chose not to, simply using "cup." While "horn cup" is not impossible, valuing the rhythm of poetry, and since I cannot bring over the original poem's essence completely, I used "cup" or "wine cup" for the sake of sound.
+
+Furthermore, when translating the *Book of Odes*, if one looks up every commentary, it kindly explains why each poem was composed. However, I did not adopt this approach; instead, I disregarded the origins and circumstances so that anyone could understand the poem's meaning. Indeed, faithfully rendering the original poem and explaining the detailed points through annotations is the kindest act for a translator. But my attitude towards poetry is different. My assertion regarding poetry is that it should be understandable to anyone who reads it, interpreted according to their own situation and circumstances, and there is no need to know only its meaning from that specific time.
+
+Therefore, in this translation of the *Book of Odes*, I have discarded all such things. In other words,<263> as much as possible, I have endeavored to make the poetic meaning understandable from the poetry translation itself, without relying on annotations. Even if some mock this free and bold approach, it is none of my concern. Hence, in this poetry translation, I have aimed for self-evident poetic meaning (詩意自明) throughout. Fearing potential misunderstanding, I deliberately state my stance in a word.
+
+In any case, my translation will likely contain mistranslations. And there will be the boldest freedom. However, as long as I pursue only the poetic meaning, I accept this as my unavoidable penalty.
+
+Gathering Herbs
+
+Kwŏn i (卷耳), Four Stanzas
+
+Gathering herbs, gathering, gathering herbs,               釆釆卷耳 (Ch'ae ch'ae kwŏn i)
+Yet my basket is still not full.                           不盈頃筐 (Pul yŏng kyŏng k'wang)
+Ah, I miss my beloved, thinking of him,                   嗟我懷人 (Ch'a a hwae in)
+I left my basket abandoned by the highway.                寘彼周行 (Ch'i p'i chu haeng)
+
+Though I try to climb that rocky mountain,               陟彼崔嵬 (Ch'ŏk p'i ch'oe oe)
+This horse of mine cannot climb.                         我馬虺隤 (A ma hwe t'oe)
+Filling the cup full, full with wine,                      我姑酌彼金疊 (A ko ch'ak p'i kŭmchŏp)
+Let me try to forget my beloved whom I miss.             維以不永懷 (Yu i pul yŏng hwae)
+
+Though I try to climb that high hill,                    陟彼高岡 (Ch'ŏk p'i ko kang)
+My sick yellow horse cannot go.                           我馬玄黃<264> (A ma hyŏn hwang)
+Filling the cup full, full with wine,                      我姑酌彼兕觥 (A ko ch'ak p'i sigong)
+Let me try to soothe this sorrowful heart of mine.         維以不永傷 (Yu i pul yŏng sang)
+
+Though I try to climb that mountain top and gaze,        陟彼砠矣 (Ch'ŏk p'i ch'a ŭi)
+My horse is sick and cannot climb,                       我馬瘏矣 (A ma t'o ŭi)
+My servants too are unwell, unable to travel;            我僕痛矣 (A pok t'ong ŭi)
+Who could possibly know this heart yearning for my love?   云何吁矣 (Un ha u ŭi)
+
+Kyumok (樛木 - Curved Wood)
+
+Kyumok, Three Stanzas
+
+On the trees standing on Namsan mountain,                南有樛木 (Nam yu kyu mok)
+The lush arrowroot vines twine and wind;                 葛藠纍之 (Kal Kyŏng yŏ chi)
+Our kind and beautiful lord,                             樂只君子 (Ak chi kun cha)
+May blessings twine and wind around you.                 福履綏之 (Pok ri su chi)
+
+On the trees standing on Namsan mountain,                南有樛木 (Nam yu kyu mok)
+The thick arrowroot vines densely cover;                 葛藠荒之 (Kal Kyŏng hwang chi)
+Our kind and beautiful lord,                             樂只君子 (Ak chi kun cha)
+May blessings densely cover you.                         福履綏之 (Pok ri su chi)
+
+On the trees standing on Namsan mountain,                南有樛木 (Nam yu kyu mok)
+The trailing arrowroot vines hang down;                  葛藠之 (Kal Kyŏng chi) <Note: Original seems incomplete, likely 葛藠纍之 or similar variation expected based on context, but translating as written.>
+Our kind and beautiful lord,                             樂只君子 (Ak chi kun cha)
+May blessings hang trailing upon you.                    福履綏之<265> (Pok ri su chi)
+
+Grasshoppers
+
+Chongsa (螽斯), Three Stanzas
+
+Grasshoppers gather together harmoniously,               螽斯羽 (Chong sa u)
+Chirping, chirping, how joyfully they play;              詵詵兮 (Sŏn sŏn hye)
+How lovely, are your descendants like this too?          宜爾子孫 (Ŭi i cha son)
+Crowding together, enjoying themselves.                  振振兮 (Chin chin hye)
+
+Grasshoppers gather together harmoniously,               螽斯羽 (Chong sa u)
+Buzzing, buzzing, how well they play;                    薨薨兮 (Hong hong hye)
+How lovely, are your descendants like this too?          宜爾子孫 (Ŭi i cha son)
+In long lines, always enjoying themselves.               繩繩兮 (Sŭng sŭng hye)
+
+Grasshoppers gather together harmoniously,               螽斯羽 (Chong sa u)
+Clustering, clustering, how joyfully they play;          揖揖兮 (Ŭp ŭp hye)
+How lovely, are your descendants like this too?          宜爾子孫 (Ŭi i cha son)
+Clustered together, endlessly enjoying themselves.       蟄蟄兮<266> (Ch'ip ch'ip hye)
+
+Peach Tree
+
+Toyo (桃夭), Three Stanzas
+
+Slender, slender, the lovely peach tree,                 桃之夭夭 (To chi yo yo)
+Its blossoms, soft pink, are beautiful;                  灼灼其華 (Ch'ak ch'ak ki hwa)
+When our young lady goes to be married,                  之子于歸 (Chi cha u kwi)
+Her husband's household will praise her.                 宜其室家 (Ŭi ki sil ka)
+
+Slender, slender, the lovely peach tree's form,          桃之夭夭 (To chi yo yo)
+Its plump, plump fruits are beautiful.                   有*其實 (Yu *sil ki sil) <Note: Original has an asterisk before 實, perhaps a typo or marker.>
+When our young lady goes to be married,                  之子于歸 (Chi cha u kwi)
+Her husband's love will be endless.                      宜其家室 (Ŭi ki ka sil)
+
+Slender, slender, the lovely peach tree's form,          桃之夭夭 (To chi yo yo)
+Its green, green leaves are beautiful.                   其葉蓁蓁<267> (Ki yŏp chin chin)
+When our young lady goes to be married,                  之子于歸 (Chi cha u kwi)
+All the relatives will rejoice together.                 宜其家人 (Ŭi ki ka in)
+
+**Summary**
+
+The author, Kim An-sŏ, outlines his philosophy for translating poems from the Chinese classic *Shih Ching* (Book of Odes). He argues against literal translation and extensive annotation, stating that the original context, specific terms (like ancient vessel names), and archaic language hinder modern readers' "real sense" (實感) of the poems. Instead, he prioritizes conveying the "poetic meaning" (詩意) in accessible language, allowing readers to interpret the poems based on their own experiences. He presents his translations of four poems—*Kwon i*, *Kyu mok*, *Chong sa*, and *To yo*—as examples of this approach, acknowledging that his method is "free and bold" and may contain errors, but accepting this as necessary to achieve self-evident poetic meaning (詩意自明). From a historical perspective, this article reveals a Korean intellectual in the 1930s grappling with the translation of East Asian classics, advocating for a modern, reader-centric approach over strict philological accuracy. This reflects broader trends in adapting tradition for contemporary relevance and showcases an individual translator's assertion of interpretive freedom during the colonial period.
+
+**Named Entities**
+
+金岸曙	김안서	Kim An-sŏ
+
+**Glossary**
+
+詩經	시경	Book of Odes (Shih Ching), a classic collection of Chinese poetry.
+詩經譯	시경역	Translation of the Book of Odes.
+態度	태도	Attitude, stance.
+表明	표명	To express, state clearly.
+업는	없는	Not having, lacking (older spelling of 없는).
+외다	외다	Archaic sentence ending particle (similar to modern 입니다/습니다).
+가저오다	가져오다	To bring (older spelling/form of 가져오다).
+고대로	고대로	As it is, exactly the same.
+精神	정신	Spirit, mind, essence.
+作者	작자	Author, creator.
+意圖	의도	Intention, purpose.
+時代色	시대색	Color of the era, period style.
+風土味	풍토미	Local flavor, characteristics of a region's climate and customs.
+用語	용어	Terminology, wording.
+特殊性	특수성	Specificity, special characteristic.
+實感	실감	Real feeling, actual sensation, sense of reality.
+点	점	Point, aspect (Hanja used for 점).
+古語	고어	Archaic language, old words.
+名詞	명사	Noun.
+避하엿으니	피하였으니	Avoided (older spelling/form of 피하였으니).
+例	예	Example.
+卷耳	권이	Name of a poem in the Book of Odes (lit. Curly Ear, a type of plant).
+金疊	금첩	Gilded vessel (an ancient type of wine container mentioned in the commentary).
+兕觥	시觥	Rhinoceros horn cup (an ancient type of drinking vessel).
+註	주	Commentary, annotation.
+甁	병	Bottle, flask, vessel (Hanja used for 병).
+飜譯	번역	Translation.
+조곰도	조금도	Even a little (older spelling of 조금도).
+잇을 수 업기	있을 수 없기	Because it cannot be/exist (older spelling/grammar).
+술잔	술잔	Wine cup, drinking cup.
+固有名詞	고유명사	Proper noun.
+普通名詞	보통명사	Common noun.
+조흘	좋을	Good, fine (older spelling of 좋을).
+쇠뿔잔	쇠뿔잔	Ox horn cup.
+뿔잔	뿔잔	Horn cup.
+詩歌	시가	Poetry and song.
+音調	음조	Rhythm, tone, cadence.
+重要視	중요시	To emphasize, regard as important.
+響	향	Sound, echo, resonance.
+옴기면서	옮기면서	While translating/moving (older spelling of 옮기면서).
+일일이	일일이	One by one, individually.
+親切	친절	Kindness, consideration.
+解說	해설	Explanation, commentary.
+取치 아니하엿습니다	취하지 아니하였습니다	Did not take, did not adopt (older spelling/form).
+由來	유래	Origin, history, source.
+忠實	충실	Faithful, loyal.
+大詳	대상	Detailed (likely means 詳細, 상세).
+註解	주해	Annotation, explanatory notes.
+譯者	역자	Translator.
+境遇	경우	Circstances, situation (older spelling of 경우).
+事情	사정	Circumstances, situation.
+解釋	해석	Interpretation, explanation.
+主張	주장	Assertion, claim, insistence.
+내여버렷습니다	내어버렸습니다	Discarded, threw away (older spelling/form).
+될 수 잇는대로	될 수 있는 대로	As much as possible (older spelling).
+詩意	시의	Poetic meaning, essence of the poem.
+努力	노력	Effort, endeavor.
+自由	자유	Freedom, liberty.
+대담	대담	Bold, daring.
+비웃는 이	비웃는 이	One who mocks/scoffs.
+잇다 하여도	있다 하여도	Even if there is/are (older spelling).
+어듸까지든지	어디까지든지	To whatever extent, thoroughly.
+詩意自明	시의자명	Self-evident poetic meaning.
+目標	목표	Goal, target, objective.
+幸여나	행여나	By chance, perhaps (expressing slight worry).
+誤解	오해	Misunderstanding.
+바들가	받을까	Might receive (older spelling/form of 받을까).
+일부러	일부러	Deliberately, on purpose.
+所以	소이	Reason, cause (classical Chinese grammar marker).
+如何間	여하간	Anyway, in any case.
+誤譯	오역	Mistranslation.
+目由	목유	Likely a typo for 自由 (자유 - freedom).
+밧지	받지	Receive, get (older spelling of 받지).
+罰	벌	Punishment, penalty.
+광우리	광주리	Basket (older spelling of 광주리).
+못니즐사	못 잊을사	Cannot forget (expression of longing).
+녀버렷네	내버렸네	Abandoned, threw away (older spelling/form).
+올으랴해도	오르려 해도	Even trying to climb (older spelling/form).
+올으지 못하는	오르지 못하는	Cannot climb (older spelling/form).
+니저나보나	잊어나 보나	Let me try to forget (older spelling/form).
+놉흔	높은	High (older spelling of 높은).
+올나가랴도	올라가려도	Even trying to go up (older spelling/form).
+서러운	서러운	Sorrowful, sad.
+풀어나보나	풀어나 보나	Let me try to resolve/soothe (older spelling/form).
+올나가	올라가	Go up, climb (older spelling/form).
+바라보랴도	바라보려도	Even trying to gaze at (older spelling/form).
+不便	불편	Inconvenient, uncomfortable, unwell.
+뉘랴 알을고	뉘랴 알을꼬	Who would know? (rhetorical question, older form).
+섯는	섰는	Standing (older spelling of 서 있는 or 선).
+칙넝쿨	칡넝쿨	Arrowroot vine.
+감기엿나니	감기었나니	Is wound/twined (older spelling/form).
+맘씨	마음씨	Heart, nature, disposition.
+고흔	고운	Beautiful, fine, kind (older spelling of 고운).
+덥혓나니	덮였나니	Is covered (older spelling/form).
+날니엿나니	날리었나니	Is trailed/fluttered (older spelling/form - context suggests 'trailing' like vines).
+달니옵소서	달리옵소서	May it be attached/hang (older spelling/form, archaic polite request).
+멧뚜기	메뚜기	Grasshopper (older spelling).
+의죠이	의좋이	Harmoniously, amicably (older spelling).
+죠와라	좋아라	How nice/joyful! (older spelling/exclamatory form).
+놀거니	놀거니	Playing (older connecting form).
+貴엽다	귀엽다	Cute, lovely, dear (Hanja used for 귀).
+子孫	자손	Descendants.
+갓달는가	같을런가	Is it like...? (older spelling/form).
+네라내라	네라내라	Likely onomatopoeia or description of swarming/crowding (perhaps related to 늘어나다 - to increase/spread).
+끗업시	끝없이	Endlessly (older spelling).
+복송아	복숭아	Peach (older spelling).
+날신날신	날씬날씬	Slender, slim (reduplication for emphasis).
+엽븐	예쁜	Pretty, lovely (older spelling).
+꼿송이는	꽃송이는	Flower cluster/blossom (older spelling).
+싀집을 가면	시집을 가면	When going to get married (older spelling).
+그지아비	그 지아비	That husband (older spelling/term).
+칭찬	칭찬	Praise, compliment.
+볼굿볼굿	볼긋볼긋	Plump, round (reduplication, possibly related to 볼록하다).
+입사귀	잎사귀	Leaf.
+一家親戚	일가친척	Whole family and relatives.
+모도	모두	All, entirely (older spelling).
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제6호
+발행일	1936년 06월 01일
+기사제목	詩經
+필자	金岸曙
+기사형태	시
+
+詩經
+						金岸曙
+두번 다시 詩經譯에 對하야
+
+나는 발서 여러 번 詩譯에 대한 나의 態度를 表明하엿기 때문에 두 번 다시 새삼스러이 이 곳에서 이야기 할 必要가 업는 것이외다.
+그러나 그럿타고 또한 가만이 잇을 수가 업서서 한마듸 하고저 하는 것은 다른 것이 아니외다. 이미 남의 것을 가저오는 以上에는 그것을 고대로 옴겨와야 할 것이외다. 그러케 해야 비로소 그것을 完全이 옴겨왔다고 할 수 잇는 것이외다. 그러나 그럿케 되지 못하니 엇지 할 수 업시 그 精神이라 할만한 作者의 意圖만을 가저다가 만들지 아니할 수가 업게 되는 것이 普通이외다.
+저 時代色이라든가 風土味라든가 하는 것을 엿보기 위햐야는 그 用語라든가 特殊性 가튼 것을 고대로 가저와야 할 것인 줄 압니다. 그러나 그것도 역시 實感을 준다는 点에서는 의미가 업는 것이기 때문에 用語도 古語를 쓰지 아니하엿고 名詞가튼 것도 그대로의 그것을 避하엿으니 例를 들자면<262> 「卷耳」에 잇는 金疊이나 兕觥가튼 것이 그것이외다. 註를 보면 「疊, 器刻爲雲雷之象, 以黃金餙之」라 하엿으니 이것은 分明이 그 때의 술甁이외다. 그럿타고 飜譯할 때에 金疊이라고 할 수는 업는 것이 조곰도 實感이 잇을 수 업기 때문이외다. 그런지라 그보다는 차라리 술잔이라든가 잔이라든가 하면서 固有名詞가 업스면 普通名詞라도 쓰는 것이 조흘 것이외다. 그러고 兕觥을 註에 兕, 野午, 一角, 靑色, 重千斥, 觥, 爵也, 以兕角爲爵也」라 하엿으니 구태여 색이자면 들쇠뿔잔이라거나 쇠뿔잔이라거나 또는 뿔잔이라든가 할 것이외다. 그러나 나는 취하지 아니하고 그저 단순이 잔이라고 하엿습니다. 뿔잔이라고 하지 못할 것은 아니나마 詩歌의 音調를 重要視하는 意味로 이미 原詩의 그것을 가저오지 못하는 以上에는 響이나 조키 위하야 잔이라든가 술잔이라든가 하엿습니다.
+그러고 詩經을 옴기면서 註가튼 것을 일일이 들어다보면 이 詩는 엇지하야 지은 것이라고 親切하게 解說을 하엿습니다, 만은 나는 그것을 取치 아니아고 누구가 보든지 詩의 뜻을 알 수 잇도록 그 出處와 由來가튼 것을 取치 아니하엿습니다. 하기야 原詩의 그것을 忠實하게 옴겨놋코 그 大詳한 点은 註解로써 알려주는 것이 譯者로서의 가장 친절한 일이외다. 그러나 詩에 대한 나의 態度는 그러치 아니하외다. 詩는 누구가 보아도 알 수 잇는 것으로 각각 그 自身의 境遇와 事情대로 解釋할 것이요, 그 때의 그것으로만 알닐 必要가 업다는 것이 詩에 대한 나의 主張이외다.
+그런지라 나는 이 詩經譯에서 그런 것은 모다 내여버렷습니다. 다시 말하면<263> 될 수 잇는대로 註解가튼 것을 하지 아니하고 詩譯 그것에서 詩意를 알아 볼 수 잇도록 노력하엿습니다. 이러한 自由롭고 대담한 것을 비웃는 이가 잇다 하여도 그것은 나의 알 바가 아니외다. 그 기에 이 詩譯에서 나는 어듸까지든지 詩意自明을 目標한 것이외다. 幸여나 誤解를 바들가 하야 일부러 한 마듸로써 나의 態度를 밝히는 所以외다.
+如何間 나의 譯에는 誤譯도 잇을 것이외다. 그 고 가장 대담한 目由가 잇을 것이외다. 그러나 詩意만을 따는 以上, 또한 밧지 아니할 수 업는 나의 罰인줄 압니다.
+
+나물을 캐려
+
+卷耳四章
+
+나물을 캐고캐고 캐노라건만                  釆釆卷耳
+아직도 차지 안는 이 내 광우리               不盈頃筐
+못니즐사 우리 님 생각 그리워                嗟我懷人
+큰 길까에 광우리 내여버렷네.                 寘彼周行
+
+저 山이라 바위에 올으랴해도                 陟彼崔嵬
+이 내 말이 올으지 못하는 것을               我馬虺隤
+잔에다 가득가득 술이나 부어                 我姑酌彼金疊
+그리운 우리님을 니저나보나.                  維以不永懷
+
+고개라 놉흔 곳에 올나가랴도                 陟彼高岡
+病들은 노랑말이 못가는 것을                 我馬玄黃<264>
+잔에다 가득가득 술이나 부어                 我姑酌彼兕觥
+서러운 이 내 맘을 풀어나보나.                維以不永傷
+
+저 山우에 올나가 바라보랴도                 陟彼砠矣
+이 내 말 病이 들어 올으지 못코              我馬瘏矣
+종들도 몸 不便해 갈 길 업거니,               我僕痛矣
+님 그리는 이 心思 뉘랴 알을고.               云何吁矣
+
+樛木
+
+樛木三章
+
+南山이라 山 우에 섯는 나무에                南有樛木
+휘휘친친 칙넝쿨 감기엿나니,                  葛藠纍之
+맘씨 고흔 우리의 아름다운 님                樂只君子
+福祿이 휘휘친친 감기옵소서                  福履綏之
+
+南山이라 山 우에 섯는 나무에                南有樛木
+다복다복 칙넝쿨 뒤덥혓나니,                  葛藠荒之
+맘씨 고흔 우리의 아름다운 님                樂只君子
+福祿이 다복다복 덥히옵소서.                  福履綏之
+
+南山이라 山 우에 섯는 나무에                南有樛木
+나릿나릿 칙넝쿨 날니엿나니,                  葛藠之
+맘씨 고흔 우리의 아름다운 님                樂只君子
+福祿이 나릿나릿 달니옵소서.                  福履綏之<265>
+
+멧뚜기
+
+螽斯三章
+
+멧뚜기들 의죠이 서로 모혀서                 螽斯羽
+시실시실 죠와라 잘 놀거니,                   詵詵兮
+貴엽다 네 子孫도 이 갓달는가.                宜爾子孫
+네라내라 무리로 즐기는 것을                 振振兮
+
+멧뚜기들 의죠이 서로 모혀서                  螽斯羽
+시실시실 조와라 잘도 놀거니,                 薨薨兮
+貴엽다 네 子孫도 이갓달는가.                 宜爾子孫
+네라내라 언제나 즐기는 것을.                  繩繩兮
+
+멧뚜기들 의죠이 서로 모혀서                  螽斯羽
+시실시실 죠와라 잘도 놀거니                  揖揖兮
+貴엽다 네 子孫도 이갓달는가                  宜爾子孫
+네라내라 끗업시 즐기는 것을.                  蟄蟄兮
+
+복송아 나무
+
+桃夭三章
+
+날신날신 복송아 엽븐 그 몸에                 桃之夭夭
+꼿송이는 연분홍 아름답고야                   灼灼其華
+우리나 아가씨네 싀집을 가면                  之子于歸
+그지아비 집사람 칭찬을 하리.                  宜其室家<266>
+
+날신날신 복송아 엽분 그 몸매                 桃之夭夭
+볼굿볼굿 그 열매 아름답고야.                  有*其實
+우리나 아가씨네 싀집을 가면                  之子于歸
+그 지아비 사랑은 끗이 업스리.                 宜其家室
+
+날신날신 복송아 엽분 그 몸매                 桃之夭夭
+파릇파릇 입사귀 아름답고야.                  其葉蓁蓁
+우리나 아가씨네 싀집을 가면                  之子于歸
+一家親戚 모도 다 즐거워하리.                 宜其家人  <267>
+<262-267>

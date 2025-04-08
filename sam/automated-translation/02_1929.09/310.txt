@@ -1,0 +1,240 @@
+Magazine Title: 삼천리 제2호
+Publication Date: 1929년 09월 01일
+Article Title: 自然科學講座(1), 野蠻人과 數的 觀念 (Natural Science Lecture (1), Primitive People and the Concept of Number)
+Author: 李晶燮
+Article Type: 논설 (Editorial/Essay)
+
+Natural Science Lecture
+						Yi Chŏng-sŏp
+
+One
+If there is anything among the products of the human spirit that reaches the pinnacle of subtlety, one must surely count mathematics. From the celestial bodies wandering the vast emptiness to the fine dust drifting in a gust of wind, there is no phenomenon that cannot be expressed through mathematics. Humans try to bind nature with mathematics. Equations obtained at a desk generally correspond to phenomena in the external world. So, what is the most important concept within such subtle mathematics? It is Number. Not only does the concept of number form the foundation of mathematics, but we also cannot obtain accurate practical knowledge about things by using mathematics without the concept of number.
+Why is this so? Because knowing things practically and accurately means measuring them, and measuring means expressing them with numbers. For example, let's say in Euclidean geometry, it has been proven that the sum of the three interior angles of a triangle is equal to two right angles (although, of course, non-Euclidean geometry states that the sum of the interior angles of a triangle is less than two right angles). However, to know if it is indeed equal to two right angles in reality, we must measure the three angles with a protractor and find the number 180, representing 180 units of 1 degree. In this way, all things express number. Therefore, already over 2,400 years ago, the Greek scholar Pythagoras said that things are number.
+
+Two
+Now let's see how we humans came to acquire the concept of number.<36> Suppose there is a man named Kap, a woman named Ŭl, and a child named Pyŏng. Kap has Kap's characteristics, Ŭl has Ŭl's characteristics, and Pyŏng has Pyŏng's characteristics. Despite Kap, Ŭl, and Pyŏng each having different characteristics, how can they all be gathered under the concept of '3'? It is for no other reason than this: By the power of the mind, we remove the individual characteristics possessed by Kap, Ŭl, and Pyŏng, and take only the common underlying concept of 'person'. In other words, Kap, Ŭl, and Pyŏng form a single set as the same kind. In the formation of this set of the same kind, Kap, Ŭl, and Pyŏng each have the identical status of a 'unit'. Since Kap, Ŭl, and Pyŏng are identical units, it must be possible to add all other units consecutively to one unit. That is, 1+1+1=3. Applying this same method of thinking to general things like cows, horses, wood pieces, books, houses, etc., we universally obtain the number '3'. Here, the number '3' has become very generalized. However, the number '3' is merely one specific number among general numbers. Besides 3, there are very many numbers like 4, 5... 100, 1,000... 100 million, etc. All these numbers possess a certain commonality. When we discern these general properties of numbers, we thereby acquire the universal concept of 'number'. This is the method by which civilized people like you acquire the concept of number.
+
+Three
+However, some primitive tribes lack the concept of number entirely. There are indeed very unfortunate primitive people in the world! According to 『Muŏ Haussŭ』, among a tribe living in the northern part of Australia (濠太洲), one man had nine children. This father did not count his nine children using the cardinal concept of 'nine' or the ordinal concept of 'ninth'. Instead, he gave each of the nine children a noun according to their birth order and used those nouns in an ordinal sense, just as we might say 'the Nth one'.<37> Such primitive people do not know how to calculate; they only know how to enumerate. They cannot count one, two, three... but only know how to say this, this, this...
+In such elementary minds, the concept of number is not within their spirit but can be seen as contained within things themselves. The meaning of this can be understood from the following example. The natives living in the 『Mŏre』 Islands (『머-레-』群島) only have the noun 'netat' corresponding to 1 and 'neis' corresponding to 2. With only these two nouns, they attempt to count all sorts of things. Consequently, numbers greater than 2 are simply repetitions of these two nouns. For example, 'neis netat' = 2 and 1 = *, 'neis neis' = 2 and 2 = 4, and so on. So, how high can they count using this method? Don't be surprised. They cannot count beyond 31. Now, I must explain the procedure for calculation. When counting items, they start from the little finger of the left hand, bend the other four fingers one by one, then proceed to the fist, elbow (팔뒤꿈치), armpit (腋下), shoulder (억개), upper part of the hipbone (股骨 上部의 上處), and finally reach the chest (胸部).
+Then, from the chest, they go in reverse order down to the little finger of the right hand. Therefore, when these natives lend, say, 11 fruits to someone, they only need to remember 'chest'. Later, when retrieving those 11 fruits from the debtor, they simply point to the chest after going through each intermediate body part starting from the little finger of the left hand, and that serves as the expression of intent to ask for the 11 items. From this example, it is clear that these natives lack the concept of number. Instead of numbers, they merely point to various parts of the body. They have only established an equivalence between numbers and body parts. The abstract concept of number is not in their minds but rather can be seen as contained within things.
+
+Four
+In other words, they have merely established <38> some relationship of correspondence between the things to be counted and the things used for counting. This can be understood more clearly from the following example. Regarding the Dayak (『다이약쓰』族) tribe of Borneo (『보르네오』島), 『Purukkŭ』 reported this fact: A rebellion arose in several villages, and after suppressing it, natives were sent to collect reparations. But how could natives lacking the concept of number collect the reparations? However, the natives employed this method: They made countless paper slips (조히쪼각), counted up to 10 by assigning one paper slip to each finger, and then, lacking enough fingers, they put their feet (足) on the desk and similarly counted by assigning paper slips to each toe. If they ran out of toes, they would then resort to using fingers again. Thus, they gathered paper slips corresponding to the reparation amount for each village, totaling 45. Consequently, the 45 paper slips must have been divided into several piles according to the reparation amount for each village. The natives counted the number in each pile, counted again, then mixed all the paper slips together and practiced dividing them back into the original piles. After leaving, the strange thing was that upon their return, they remembered the different reparation amounts perfectly without any error. In this way, there is merely a certain correspondence relationship between the paper slips to be counted and the fingers or toes used for counting; there is no abstract concept of number as we possess. Scholars call this the 'method of correspondence'.
+
+Five
+Now, I will explain the method by which such primitive people might develop the concept of number. Simply put, it ultimately comes down to a matter of habit. Earlier, I mentioned the example of the fruit. When a native lends 11 fruits and later seeks their return, they know that reaching the chest after passing through the intermediate body parts from the left little finger <39> represents or points to 11. If this native repeats this frequently, at some stage, they will know that the chest itself represents 11 without having to tediously count all the intermediate body parts from the left little finger to the chest every time. That is, the chest will be thought of as if it were already counted as 11 beforehand. All the intermediate body parts will be seen as units of the same kind, and together with the chest, they will acquire the number concept of 11. Once they acquire the concept of number in this way, they will not repeat the troublesome calculation procedure each time. To quote the famous Professor 『Ma-hŭi』 (Mach), 'economy of thought' (『思考의 經濟』) will have been realized.
+
+Six
+However, the concept of the number 11 mentioned above was used for ease of explanation. Before primitive people acquire the concept of the number 11, they must first acquire the concept of the number 2. This is because the concept of number arises from repeating units of the same kind, and it is clear that the first number to arise from repeating units of the same kind is 2. Therefore, the number 2 can be seen as the simplest number concept. In fact, there is a tribe in Australia (濠太洲) that possesses the concept of the number 2. However, they do not possess concepts for numbers greater than 2. How do we know this? For example, if you gather 7 needles and ask a native to count them, they will count them two by two (둘식 둘식), and if one remains at the end (마즈막으로 한 개가 지트면), they only know that the total number of needles is '2 and 1', but they do not know '7'. Therefore, if someone stealthily removes just one needle from the 7, the native knows the number of needles is different from the original number, but if two needles are removed, they think it is the same as the original number and raise no objection. This is clear evidence that these natives merely pair the needles into groups of two when counting; they do not know how many groups of two add up to what total. They simply know that if there is one group of two and one group of one, that <40> is the same as the original number.
+
+Seven
+Comparing such primitive people who have established the concept of the number 2 with the primitive people mentioned in sections 3 and 4 who have not established any number concept, we must say there is a significant difference in superiority between them. Thus, once the concept of the number 2 is established, acquiring concepts for higher numbers is not such a difficult task. According to Dr. 『Sŭt'ŭip'an』 (Stephan), the natives of 『Nyu-P'omerani』 (New Pomerania) use the word 'Sanaulhua', which simply means '10 and 1'. Therefore, depending on the situation, it could mean 10+2 or 10x2. The question then is how they can know the exact quantity of things. But it is not a difficult problem. When these natives count things, they do so with the actual objects before their eyes; they do not just count abstractly. Therefore, when there are 12 coconuts before their eyes, 'Sanaulhua' means 12, and if there are two piles of stones gathered in groups of ten, then it means 20. Depending on the actual objects seen before them, the number expands and contracts like a cat's eye.
+Among tribes that count beyond 2 are the 『Tingk'a』 (『딍카』) tribe living upstream on the Nile (『나일』강), but let me briefly mention the tribe living in the Torres (『토-레스』) Strait. This tribe also only has number words for 1 and 2: 'urapum'=1, 'oksa'=2. Therefore, 3 is 'oksa urapum', 4 is 'oksa oksa', 5 is 'oksa oksa urapum', 6 is 'oksa oksa oksa', and for numbers beyond that, they simply say 'many' and leave it at that.
+
+Eight
+However, the fact that the tribe living in the Torres (『토-레쓰』) Strait counts up to 6, as mentioned above, is a concept of 6 obtained by repeating 1 and 2; it is not a fully independent concept. According to 『K'a-l P'on Terŭsyut'aisyŭ』 (Karl von den Steinen), the 『Pakairi』 (『바카이리』) tribe counts fully up to 6, but when it comes to numbers greater than 6, they again exhibit this primitiveness. For numbers greater than 6, they just bend one finger at a time <41> as they go; they cannot add 1 to 6 to make 7, or add another one to that to make 8 at all. If the items to be counted exceed 10, then even this 'higher' primitive tribe, the 『Pakairi』, supplements with a toe, and if the items exceed 20, then they truly display the genuine primitive style by randomly pulling out strands of hair here and there to represent the number.
+
+Nine
+Besides these, there are primitive people who calculate up to 100 starting from the concept of the number 10, but since they are too close to civilized people, I will not discuss them and simply conclude. If the theory of evolution has a firm basis, and it is clear that today's civilized people also evolved through stages like those of the various primitive tribes described above, then the distant ancestors of civilized people must initially have had no concept of number at all. For the ancestors of civilized people too, the concept of number would not have been in their minds but contained within things. To get from such concrete numbers to the abstract concept of number, the ancestors of civilized people must have struggled immensely over long ages. When they acquired the concept of the number 2, those ancestors were far superior humans compared to their ancestors of several generations prior. From 2 to 6, 6 to 10, 100, and thus constructing the brilliant mathematics of today, the spirit, which was bound by matter in ancient times, now tries instead to mathematize the entire universe, to spiritualize it. The spirit, liberated from matter, now tries conversely to bind matter with spirit. (End) <42>
+<36-42>
+
+**Summary**
+
+The article discusses the nature and origin of the concept of 'number,' contrasting the abstract understanding in "civilized" societies, rooted in mathematics like Euclidean geometry and Pythagorean thought, with the more concrete, object-bound understanding observed in various "primitive" peoples. It details methods used by tribes in Australia, the Murray Islands, Borneo, New Pomerania, the Nile region, the Torres Strait, and the Bakairi people, who rely on enumeration, body parts, or correspondence with objects (like paper slips or hair) rather than abstract numerical concepts, often struggling beyond small quantities like 2 or 6. The author posits an evolutionary progression from concrete counting methods based on habit and correspondence ("economy of thought") towards abstract numerical concepts, suggesting that modern humans' ancestors passed through similar stages, eventually leading to advanced mathematics where the human spirit seeks to understand and "bind" the material universe through numbers.
+
+From a colonial history perspective, the article is revealing in its explicit use of terms like "primitive people" (野蠻人, 야만인) and its hierarchical framing, positioning contemporary "civilized" people (specifically the implied Korean/East Asian intellectual reader) at the apex of an evolutionary scale of cognitive development concerning mathematics. It reflects common colonial-era anthropological and evolutionary theories that ranked different societies based on perceived intellectual sophistication. The detailed ethnographic examples, drawn from Western sources (Moorhouse, Brooke, Mach, Stephan, Karl von den Steinen), also show the circulation of such knowledge and perspectives within Korean intellectual circles during the Japanese colonial period, highlighting an engagement with Western scientific and anthropological discourse, albeit through a lens that reinforces ideas of civilizational progress and hierarchy.
+
+**Named Entities**
+
+李晶燮	이정섭	Yi Chŏng-sŏp
+유-크리드	유클리드	Euclid
+피타코라쓰	피타고라스	Pythagoras
+濠太洲	호태주	Hot'aeju (Australia)
+무어 하우쓰	무어 하우스	Muŏ Haussŭ (Moorhouse)
+머-레-群島	머레이 군도	Mŏre Kundo (Murray Islands)
+보르네오島	보르네오 섬	Borneo Island
+다이약쓰族	다이약스 족	Taiyakssŭjok (Dayak People)
+브룩크	브룩	Purukkŭ (Brooke)
+마-히	마흐	Ma-hŭi (Mach)
+스틔판	슈테판	Sŭt'ŭip'an (Stephan)
+뉴-포메라니-	뉴포메라니아	Nyu-P'omerani (New Pomerania / New Britain)
+나일강	나일 강	Nail Kang (Nile River)
+딍카족	딩카 족	Tingk'ajok (Dinka People)
+토-레스海峽	토레스 해협	T'oresŭ Haehyŏp (Torres Strait)
+카-ㄹ. 폰. 데르슈타이슈	카를 폰 덴 슈타이넨	K'a-l P'on Terŭsyut'aisyŭ (Karl von den Steinen)
+바카이리족	바카이리 족	Pakairijok (Bakairi People)
+
+**Glossary**
+
+니룬	이룬	Achieved, formed (older spelling/form of 이룬)
+잇다면	있다면	If there is (older spelling of 있다면)
+손곱아야	손꼽아야	Must count/point out (older spelling of 손꼽아야)
+업슴니다	없습니다	There is not / Does not exist (older spelling of 없습니다)
+갓고	갖고	Having (older spelling/form of 갖고)
+니루고	이루고	Forms, constitutes (older spelling/form of 이루고)
+잇슬	있을	Will be / That exists (older spelling of 있을)
+업시는	없이는	Without (older spelling of 없이는)
+안됨니다	안됩니다	Is not possible / Cannot (older spelling of 안됩니다)
+웨그러냐 하면	왜 그러냐 하면	The reason why is / Because (older spelling/form)
+갓다	같다	Is the same as (older spelling of 같다)
+알랴면	알려면	If one wants to know (older spelling of 알려면)
+차저	찾아	Find (older spelling of 찾아)
+잇슴니다	있습니다	There is / Exists (older spelling of 있습니다)
+그럼으로	그러므로	Therefore (older spelling of 그러므로)
+발서	벌써	Already (older spelling of 벌써)
+하엿슴니다	하였습니다	Did / Said (older spelling of 하였습니다)
+엇지하야	어찌하여	How / Why (older spelling of 어찌하여)
+엇게	얻게	To get, obtain (older spelling of 얻게)
+되엿는가를	되었는가를	How it came to be (older spelling of 되었는가를)
+여게	여기에	Here (older spelling/form of 여기에)
+잇슬	있을	Will be / To have (older spelling of 있을)
+가젓슴에도	가졌음에도	Despite having (older spelling of 가졌음에도)
+모라 널 수	몰아넣을 수	Can group together / herd into (older spelling/form)
+잇서서	있어서	In / Regarding (older spelling of 있어서)
+加할 수	가할 수	Can add
+엇게 됨니다	얻게 됩니다	Come to obtain (older spelling of 얻게 됩니다)
+되엿습니다	되었습니다	Became (older spelling of 되었습니다)
+만습니다	많습니다	There are many (older spelling of 많습니다)
+알어낼	알아낼	To figure out, discern (older spelling of 알아낼)
+어게 되는	얻게 되는	Come to obtain (older spelling of 얻게 되는)
+니르러서는	이르러서는	When it comes to / Reaching (older spelling of 이르러서는)
+갓지	갖지	To have (older spelling of 갖지)
+몰느고	모르고	Not knowing (older spelling of 모르고)
+枚擧할	매거할	To enumerate, list one by one
+압니다	압니다	Knows (older spelling of 압니다)
+잇서서는	있어서는	In the case of / For (older spelling of 있어서는)
+포함되엇다고	포함되었다고	That it is included/contained (older spelling of 포함되었다고)
+잇스르	있을	Will be / That exists (older spelling/form of 있을)
+온갓	온갖	All sorts of (older spelling of 온갖)
+세너냐	세느냐	How far one counts (older spelling of 세느냐)
+놀내지 마십시요	놀라지 마십시오	Don't be surprised (older spelling/form)
+박게서	밖에서	Beyond / Outside of (older spelling/form of 밖에서)
+세지를 못합니다	세지를 못합니다	Cannot count (older spelling of 세지를 못합니다)
+말하여야겟습니다	말하여야겠습니다	I must say/explain (older spelling of 말하여야겠습니다)
+세일	셀	To count (older spelling of 셀)
+곱은	꼽은	Counted (on fingers) / Bent (fingers) (older spelling of 꼽은)
+팔뒤꿈치	팔꿈치	Elbow (older term, now 팔꿈치)
+腋下	액하	Armpit
+억개	어깨	Shoulder (older spelling)
+股骨 上部의 上處	고골 상부의 상처	Upper part of the hipbone/thighbone (specific anatomical point used for counting)
+그럼으로	그러므로	Therefore (older spelling)
+안테서	한테서	From (someone) (older spelling)
+取尋할	취심할	To retrieve, collect (esp. debt)
+가르키면	가리키면	If one points to (older spelling)
+달나는	달라는	Asking for (older spelling)
+업는	없는	Not having, lacking (older spelling)
+국부	국부	Part (esp. of the body)
+대등치	대등치	Equivalence, equal value
+設 하엿슬	설하였을	Established, set up (older spelling/form)
+박구어	바꾸어	Changing, exchanging (older spelling)
+設하여슬	설하였을	Established, set up (older spelling/form)
+니럿는데	일었는데	Arose, occurred (rebellion) (older spelling)
+鎭定한	진정한	Suppressed, pacified
+바드러	받으러	To receive (older spelling)
+되엿습니다	되었습니다	Became (older spelling)
+어떠케	어떻게	How (older spelling)
+바더올 수	받아올 수	Can receive/collect (older spelling)
+맨드러	만들어	Making (older spelling)
+가지구는	가지고는	With / Taking (older spelling/form)
+손구락	손가락	Finger (older spelling)
+조히	종이	Paper (older spelling)
+식	씩	Each
+足	족	Foot
+올녀 노코	올려 놓고	Placing upon (older spelling)
+발구락	발가락	Toe (older spelling)
+드리대는	들이대는	Applying, bringing forth (older spelling/form)
+노늬어술	나뉘었을	Must have been divided (older spelling/form)
+무데기	무더기	Pile, heap, group
+노누는	나누는	Dividing (older spelling)
+도라온	돌아온	Returned (older spelling)
+달른	다른	Different (older spelling)
+틀님업시	틀림없이	Without error, correctly (older spelling)
+잇더라는	있더라는	That there was / The fact that (older spelling/form)
+안입니다	아닙니다	Is not (older spelling)
+가르켜	가리켜	Pointing to, referring to as (older spelling)
+생기랴면	생기려면	If it is to arise/develop (older spelling)
+말삼하겟습니다	말씀하겠습니다	I will speak/explain (older spelling/form)
+도라가고	돌아가고	Returns to (older spelling)
+악가	아까	A short while ago, earlier (older spelling)
+차즐	찾을	To find, retrieve (older spelling)
+대표하야	대표하여	Representing (older spelling/form)
+가르키는	가리키는	Pointing to, indicating (older spelling)
+니르러서는	이르러서는	Reaching a stage (older spelling)
+번거럽게	번거롭게	Cumbersomely, tediously (older spelling)
+안코라도	않고라도	Even without doing (older spelling/form)
+발서	벌써	Already (older spelling)
+가티	같이	Like, as (older spelling)
+어들	얻을	Will obtain (older spelling)
+귀챤은	귀찮은	Troublesome, annoying (older spelling)
+드러	들어	Citing, quoting (as in 'quoting Mach')
+실현되엿다고	실현되었다고	That it was realized (older spelling)
+거듭함으로서	거듭함으로써	By repeating (older form)
+몬저	먼저	First (older spelling)
+어더야	얻어야	Must obtain (older spelling)
+지트면	지면	If remaining (archaic verb ending)
+훔처내면	훔쳐내면	If one steals/removes (older spelling)
+알어도	알아도	Even if one knows (older spelling)
+둘짜리가	둘짜리가	Group of two (older form/spelling)
+며치	몇이	How many (older spelling)
+하나째리가	하나짜리가	Group of one (older form/spelling)
+잇스면	있으면	If there is (older spelling)
+곳	곧	Immediately, the same as
+갓가운	가까운	Close, near (older spelling)
+아니하고	아니하고	Not doing, instead of
+말겟습니다	말겠습니다	Will speak / Will conclude (older spelling/form)
+잇서서	있어서	In / For (older spelling)
+과정하여	과정하여	Having gone through the process of
+업서슬	없었을	Must not have existed (older spelling)
+잇슨	있던	Which was in/at (older spelling of 있던)
+포함되엿슬	포함되었을	Must have been included/contained (older spelling)
+애를 써술	애를 썼을	Must have struggled (older spelling/form)
+어더슬때	얻었을 때	When obtained (older spelling)
+엿습니다	였습니다	Was (older spelling)
+건설하여노코	건설하여놓고	Having constructed (older spelling/form)
+속박밧든	속박받던	Which was bound/constrained (older spelling)
+도로혀	도리어	Rather, on the contrary (older spelling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제2호
+발행일	1929년 09월 01일
+기사제목	自然科學講座(1), 野蠻人과 數的 觀念
+필자	李晶燮
+기사형태	논설
+
+自然科學講座
+						李晶燮
+一
+만일에 인간정신의 산물로서 미묘의 극치를 니룬 무엇이 잇다면 그에는 반드시 수학을 손곱아야 할 것입니다. 大空에 배회하는 天體로부터 一陣 광풍에 떠도는 微塵 그 어느 현상이 수학으로 표현 못될 것이 업슴니다. 인간은 수학으로 자연을 結縛지으려 합니다. 책상 우에서 어든 방정식과 外界의 현상이 대개는 서로 부합합니다. 그러면 이와가치 미묘한 수학 가운데 가장 큰 중요를 갓고 잇는 개념이 무엇이냐 하면 그는 數입니다. 수의 개념이 수학의 根柢를 니루고 잇슬 뿐만 아니라 우리가 수학을 이용하야 사물에 대한 정확한 실제 지식을 어듬에도 수라는 것이 업시는 안됨니다.
+웨그러냐 하면 사물을 실제로 정확히 안다함은 그를 측정함이오, 측정한다함은 수로 표현함을 말함인 까닭입니다. 가령 『유-크리드』 기하학에서 삼각형의 3개의 內角의 和는 2직각과 갓다. (물론 非『유-크리드』 기하학에서는 삼각형의 內角의 總和는 2직각보다 小하다는 것을 말하지만)는 것을 증명하엿다 합시다. 그러나 과연 실제로 2직각과 갓느냐함을 알랴면 우리는 分度器로써 3개의 각을 측정하야 1度재리가 180이라는 수를 차저 내어야 합니다. 이와가치 모든 사물은 수를 표현하고 잇슴니다. 그럼으로 발서 2.400여년 전에 希臘의 학자 『피타코라쓰』는 사물은 수라 하엿슴니다.
+
+二
+그러면 엇지하야 우리 인간이 수라는 개념을＜36＞ 엇게 되엿는가를 봅시다. 여게 甲이라는 남자와 乙이라는 여자와 丙이라는 아해가 잇다 합시다. 甲은 甲의 특질이 잇고 乙은 乙의 특질이 잇고 丙은 丙의 특질이 잇슬 것입니다. 이와가치 甲乙丙이 각각 相異한 특질을 가젓슴에도 불구하고 엇지하야 3이라는 개념 하에 전부를 모라 널 수 잇느냐 하면 그는 다른 까닭 아닙니다. 甲乙丙이 소유한 각 특질을 정신의 힘으로 제거하고 甲乙丙에 공통된 바탕인 사람이라는 개념만을 취합니다. 換言하면 甲乙丙이 同類로 一集合을 구성하엿슴니다. 이 同類 외 집합구성에 잇서서 甲乙丙은 각각 단위라는 똑가튼 자격을 갓고 잇습니다. 이미 甲乙丙이 똑가튼 단위라면 한 단위에 연속하야 다른 모든 단위를 加할 수 잇슬 것입니다. 즉 1+1+1=3 이와 동일한 사고방법을 牛. 馬. 木片. 冊. 家屋 등 일반 사물에 적용하야 3이라는 수를 보편적으로 엇게 됨니다. 여기서 3이라는 수는 매우 보편화되엿습니다. 그러나 3이라는 수는 일반 수 가운데의 한 특별한 수에 불과한 것입니다. 3 이외에도 4. 5...100. 1.000... 億 등 수가 퍽 만습니다. 이러한 모든 수는 어떠한 공통성을 갓고 잇습니다. 이와가치 수적 일반성질을 알어낼 때 우리는 거기서 수라는 보편적 개념을 어게 되는 것입니다. 이것이 여러분과 가튼 문명인이 수의 개념을 엇는 방법입니다.
+
+三
+그러나 어떠한 野蠻種類에 니르러서는 수라는 개념을 전연 갓지 못하고 잇습니다. 매우 불행한 야만인도 세상에 잇습니다! 『무어 하우쓰』에 의하면 濠太洲 北部地方에 사는 1종족 가운데 한 사람은 자식 9인을 가젓는 바 이 아부지 되는 이가 9라는 基數的 개념이나 혹은 9라는 序數的 개념으로 그 아홉 자식을 세는 것이 아니라 아홉 자식이 출생 순서대로 각각 名詞를 주어 가지고 그 명사에 의하야 마치 우리가 제 몃재라고 부르드키＜37＞ 序數의 의미로 사용할 뿐입니다. 이러한 야만인은 계산할 줄을 몰느고 枚擧할 줄만 압니다. 하나 둘 셋... 을 세지 못하고 이것. 이것. 이것...할 줄만 아는 사람입니다.
+이와가튼 初級의 두뇌에 잇서서는 수라는 관념이 그네들의 정신 가운데 잇는 것이 아니라 사물 가운데 포함되엇다고 볼 수 잇습니다. 말의 뜻은 이하의 예로 알 수 잇습니다. 『머-레-』群島에 사는 土人은 1에 대칭되는 명사 netat와 2에 대칭되는 명사 neis가 잇스르 뿐입니다. 이 두가지 명사만 가지고 온갓 사물을 계산하려 합니다. 따라서 2이상 수는 이 두 명사를 중복할 뿐입니다. 가령 neis netat=2와 1=* neis neis=2와 2=4 등등과 가튼 것입니다. 그러면 이와 가튼 방법으로 얼마나 세너냐 하면 놀내지 마십시요. 31박게서 더 세지를 못합니다. 이제부터는 계산하는 手續을 말하여야겟습니다. 물건을 세일 때에는 左手의 小指로부터 시작하야 다른 4指를 일일히 곱은 후에는 주먹 팔뒤꿈치 腋下 억개 股骨 上部의 上處 胸部에까지 옵니다.
+그 다음에는 이 흉부에서 逆順을 右手의 小指까지 내려 갑니다. 그럼으로 이 土人들이 남에게 가령 어떠한 果實 11개를 貸與할 때는 흉부라는 것만 기억하면 그만이외다. 후일에 債務者 안테서 그 果實 11개를 取尋할 때는 左手의 小指로부터 中間局部를 일일히 지낸 후에 흉부만 가르키면 그것으로써 11개를 달나는 의사표시가 되는 것입니다. 이 예로 보면 이 土人들에게는 수라는 관념이 업는 것이 분명합니다. 수 대신에 신체의 각국부를 지적할 뿐입니다. 수와 신체의 국부간에 대등치를 設 하엿슬 뿐입니다. 수라는 추상적 관념이 정신에 잇는 것이 아니라 차라리 사물에 포함되어 잇다고 볼 수 잇습니다.
+
+四
+다시 박구어 말하면 계산하려는 사물과 계산에 사용되는 사물 간에 엇더한 일치 관계를 設하여슬＜38＞  뿐입니다. 이것은 이하의 예로 더 명백히 알 수 잇습니다. 『보르네오』島의 『다이약쓰』族에 대하야 『브룩크』는 이러한 사실을 말하엿습니다.―수 개의 부락에서 반란이 니럿는데 이 반란을 鎭定한 후에 배상금 바드러 土人은 보내게 되엿습니다. 그러나 數라는 개념이 업는 土人이 어떠케 배상금을 바더올 수 잇습니까. 그러나 土人은 이러한 방법을 채용하엿습니다. 무수한 조희쪼각을 맨드러 가지구는 손구락 하나에 조히 한 쪼각식 세어 10까지 세고 그 다음에는 손구락이 부족하니까 足을 책상 우에 올녀 노코 역시 발구락 한 개에 조히쪼각식 세더랍니다. 만일에 발구락이 부족되면 그 담에는 또 손구락을 드리대는 판이엇습니다. 그래서 각 부락의 배상금 수대로 조히조각을 모으니 45개이엇습니다. 그러니 결국은 45개의 조히조각 수가 각 부락의 배상금액대로 여러 무데기로 노늬어술 것입니다. 土人은 이 각 무데기의 수를 세고 다시 세고 그 다음에는 조히쪼각 전부를 한군데 혼합하엿다가 다시 原무데기 수대로 노누는 방법을 잘 습득하고 떠나더니 도라온 후에 기이한 것은 각각 달른 배상금액 수를 조금도 틀님업시 잘 기억하고 잇더라는 사실이엇습니다. 이와가치 계산하랴는 조히쪼각과 계산에 사용하는 손구락 혹은 발구락 간에 다만 어떠한 일치 관계가 잇다 할 뿐이오 거기에 우리가 갓고 잇는 어떠한 추상적 수의 관념이 잇는 것은 안입니다. 학자들은 이것을 가르켜 『일치의 방법』이라 합니다.
+
+五
+그러면 이러한 야만인에게 수라는 개념이 생기랴면 어떠한 방법에 의할 것인가를 말삼하겟습니다. 간단히 말하자면 그는 결국 습관문제로 도라가고 말 것입니다. 악가 나는 果實의 예를 들엇슴니다. 土人이 果實 11개를 남에게 貸與하엿다가 그를 다시 차즐 때에는 左手의 小指로부터 중간 각 국부을 지내 흉부에 오면 그것이 11개를＜39＞ 대표하야 가르키는 줄 알 것입니다. 만일에 이 토인이 이것을 자주 반복하면 어느 과정에 니르러서는 번거럽게 左手의 小指로부터 흉부에까지 일일히 중간국부를 다 세지 안코라도 흉부 그것이 11을 대표하는 줄 알 것입니다. 즉 흉부라는 것이 발서 미리 11로 세어 잇는 것과 가티 생각될 것입니다. 중간의 모든 국부가 同類의 단위로 보이어 흉부와 함게 11이라는 수개념을 어들 것입니다. 이와 가티 수라는 개념을 엇게 되면 귀챤은 計算手續을 매번 반복 안 할 것입니다. 유명한 교수 『마-히』 Mach 드러 말하라면 『思考의 經濟』가 실현되엿다고 할 것입니다.
+
+六
+그러나 이상에 말한 11이라는 수의 개념은 설명에 편키 위하야 인용한 것입니다. 야만인이 11이라는 수의 개념을 엇기 전에 그는 몬저 2라는 수의 개념을 어더야 합니다. 웨그러냐 하면 수라는 개념은 同類의 단위를 거듭함으로서 발생하는 것인 바 同類의 단위를 거듭함에서 제일 몬저 생기는 것은 2라는 수인 것이 분명한 까닭입니다. 그럼으로 2라는 수가 수라는 개념으로서는 가장 단순한 것이라 볼 수 잇습니다. 사실상 濠太洲의 1種族에는 2라는 수의 개념을 가진 종족이 잇습니다. 그러나 2 이상의 수의 개념은 갓지 못하엿습니다. 그것은 엇지하야 아느냐 하면 가령 바늘 7개를 모아 노코 이것을 세라하면 토인은 둘식 둘식 세다가 마즈막으로 한 개가 지트면 전체의 바늘 수가 2와 1이라는 것만 알지 7이라는 것은 모릅니다. 그럼으로 만일에 누가 7개의 바늘 중에서 한 개만 가만히 훔처내면 土人은 原 바늘 수수와 달는 줄 알어도 만일에 두 개를 훔처내면 原數와 동일한 줄 알고 아무 이의를 두지 안습니다. 그는 명백한 사실이어서 이 토인은 다만 바늘 둘식을 작을 지어 세일 뿐이오 둘짜리가 며치 모아 며치 된다는 것은 모릅니다. 단순히 둘째리가 하나 잇고 또 하나째리가 하나 잇스면 그것이＜40＞ 곳 原數와 동일한 줄 압니다.
+
+七
+이와가치 2라는 수의 개념이 선 야만인을 아무 수의 개념이 서지 못한 이상 3. 4節에 말한 야만인과 비교하면 그간에는 우열의 차가 심하다 할 박게 업습니다. 그리하야 일단 2라는 수의 개념이 서면 그 이상의 수의 개념 엇기는 그다지 힘든 일이 아님니다. 『스틔판』 박사에 의하면 『뉴-포메라니-』의 土人은 Sanaulhua라는 말을 사용하는데 그는 단순히 10과 1이라는 뜻이라 합니다. 그럼으로 경우에 의하여는 10+2 될 수도 잇고 10X2 될 수도 잇다함니 그러면 어떠케 물건을 정확히 알 수 잇슬가가 문제입니다. 그러나 어려운 문제가 아님니다. 이 토인들이 물건을 센다는 것은 실물을 눈압헤 노코 세는 것이지 거저 공세는 것이 아닙니다. 그럼으로 눈 압헤 椰子果 12개가 잇슬 때의 Sanaulhua는 12개가 되고 열 개식 모인 石片 두 무데기가 잇스면 그ㅅ때는 20개가 될 것입니다. 目前에 보는 실물 如何로 수가 고양이 눈처럼 느럿다 조랏다 합니다.
+2 이상을 세는 종족으로는 『나일』강 상류에 사는 『딍카』종족도 잇지만 『토-레스』海峽에 사는 종족을 잠시 말하겟습니다. 이 종족도 1과 2 박게서 數語가 업습니다. urapum=1 oksa=2 그럼으로은 3은 oksa urapum 4는 oksa oksa 5는 oksa oksa Wrapum 6은 oksa oksa oksa가 되며 그 이상 수에 대해서는 단순히 만타 해 버리고 만답니다.
+
+八
+그러나 『토-레쓰』海峽에 사는 종족이 6까지 센다는 것은 上述한 바와 가치 1과 2를 번복하여 어든 6이라는 개념이오 완전한 독립적 개념을 니룬 것은 아닙니다. 『카-ㄹ. 폰. 데르슈타이슈』에 의하면 『바카이리』족은 6까지를 완전히 세나 6 이상 수에 가면 또 이 여만성을 발휘합니다. 6 이상 수에는 손구락 하나식을 작구 고부며 나갈뿐이오.＜41＞ 6에 1을 加하야 7을 맨들거나 게다가 또 하나을 加하야 8을 맨들거나 도모지 못합니다. 만일에 계산할 물건이 10을 초과하면 그ㅅ때는 이 高等野蠻族『바카이리』도 또 한발구락을 보충하며 그리다가 20이 넘는 물건이면 그 담에는 정말 야만의 本式을 발휘하야 머리가락을 되는대로 여게 저게서 마구 뽑아가지고 數를 표한답니다.
+
+九
+이 外에 10이라는 수의 개념으로부터 100까지를 계산하는 野蠻人이 잇습니다만은 그들은 文明人과 너무나 갓가운 까닭에 말슴하지 아니하고 나는 간단히 결론하고 말겟습니다.  만일에 進化說이 확실한 근거가 잇서서 今日의 文明人도 상술한 바와가튼 諸野蠻種族時代를 過程하여 진화한 것이 分明하다면 文明人의 먼 祖先도 처음에는 數라는 개념이 全然 업서슬 것입니다. 文明人의 祖先에 잇서서도 數라는 개념이 그네들의 정신에 잇슨 것이 아니라  사물에 포함되엿슬 것입니다. 이와 갓치 具象的 數에서 抽象的 數의 개념을 엇기까지 文明人의 祖先에서는 긴 세월동안 무한한 애를 써술 것입니다. 2라는 數의 개념을 어더슬때 그 祖先은 그 이전 몃몃대의 祖先에 비교하야 매우 우월한 인간이엿습니다. 2로부터 6. 6으로부터 10. 100. 그리하야 오늘날과 가튼 燦爛한 數學을 건설하여노코 太古時節에 물질에 속박밧든 정신은 지금에 와서 도리어 우주 전체를 수학화하려 하며 정신화하려 함니다. 물질에서 해방된 정신은 지금에 와서 도로혀 물질을 정신으로 속박하려 합니다.(끗)＜42＞
+＜36-42＞

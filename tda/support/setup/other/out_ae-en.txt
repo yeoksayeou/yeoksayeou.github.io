@@ -1,0 +1,300 @@
+33	150	Female Judge	Hŏ Su-man	News
+33	160	Jokes	 	Miscellany
+33	170	Germany's Ten Commandments	 	News
+33	180	Company Announcement	 	Announcements/Editor's Postscript
+33	190	The Passionate Poet of the Philippines, Don José Rizal	Sae-pak	News
+33	200	Problems of the Fellow Traveler Writers	Yi Kap-ki	Literary Criticism
+33	210	Our Nostalgic Sentiment	 	Literary Miscellany
+33	220	Unforgettable Person of the Opposite Sex Met While Traveling	 	Literary Miscellany
+33	230	First Impressions of Famous Gentlemen as Seen by Women	 	Miscellany
+33	240	Trip to Soviet Russia, Part One of Travels in Europe and America	Na Hye-sŏk	Travelogue
+33	250	To the Youth of the Homeland Applying to Chinese Flight Schools	Kim Ryŏn-gi from Nanjing	Literary Miscellany
+33	260	Our Nostalgic Sentiment	 	Miscellany
+33	270	Reciting by Sup'yogyo Bridge	P'a-in	Literary Miscellany
+33	280	A Passage of Recollection, Surrounded by the Late Autumn Scenery Outside Tongsomun Gate	Ch'oe Chŏng-hŭi	Literary Miscellany
+33	290	Views on Chastity and Love of Proletarian and Bourgeois Female Students	 	Miscellany
+33	300	Jokes	 	Literary Miscellany
+33	310	True Story - Mysterious Woman by the Lakeside	Yi Sŏng-yong, German Medical Doctor from Nanjing	Travelogue
+33	320	Samch'ŏlli News	 	News
+33	330	The Rise to Fame of Silver Screen Queens Marlene Dietrich and Greta Garbo	Pak Ki-ch'ae from Tōkatsu, Kyōto	News
+33	340	Current Literary Review	Yi Wŏn-jo from Tōkyō	Editorial/Essay
+33	350	Literary Circle Gossip/Miscellaneous Talk	 	Miscellany
+33	360	What Women Are	 	Miscellany
+33	370	Villages and the People	Chŏk-ku	Literary Miscellany
+33	380	The North Wind Comes!	Hwang Sŏk-u	Poetry
+33	390	Lonely Evening (Part 2)	Kim Tong-in	Novel/Fiction
+33	400	Sŏhae and Anecdotes	Nam U-hun	Literary Miscellany
+33	410	Dr. Ch'oe's Conscience (Continued from Previous Issue)	Yi Chong-myŏng	Novel/Fiction
+33	420	Editor's Postscript	P'a-in	Announcements/Editor's Postscript
+33	430	Urgent Notice to Readers Upon Publishing the December Issue	 	Announcements/Editor's Postscript
+33	440	Urgent News, The Inside Story of the Revival of Chosŏn and Chungang Newspapers - How the Long-Locked Doors Were Opened	Ch'angnang-kaekki	News
+33	441	Notice Regarding Remittances to Samch'ŏlli Company	 	Announcements/Editor's Postscript
+34	010	Thoughts at the Beginning of the Year	 	Editorial/Essay
+34	020	Before the Liberty Bell in America	Yi Hong-jang	Poetry
+34	030	New Year's Vow	 	Miscellany
+34	040	Trends and Outlook of the World Political Situation	Kim Kyŏng-jae	Editorial/Essay
+34	050	The Reignited Philippine Independence Issue	Hong Yang-myŏng	Editorial/Essay
+34	060	Wall Newspaper 1, December 1932 Diary	 	News
+34	070	Wall Newspaper 2, New Independent Nations Emerging in the New Year	 	News
+34	080	Our Nostalgic Sentiment, Tug-of-War	 	Literary Miscellany
+34	090	History of Study Abroad in Britain, America, Russia, and Japan Which Produced Many Talents for the Peninsula	 	Memoir/Reminiscence
+34	100	British Parliamentary Politics, Outlook for the World's Highest Civilization	Yi Chŏng-sŏp	Editorial/Essay
+34	110	Denmark's National Physical Education	Kim Po-yŏng	Editorial/Essay
+34	120	Portraits of Great Envoys on the Diplomatic Stage at the End of the Korean Empire	 	Memoir/Reminiscence
+34	130	Miscellaneous Thoughts on India	Yi Yŏ-sŏng	Social Commentary
+34	140	Chongno Crossroads	 	Social Commentary
+34	141	(Untitled - National Compilation)	 	Announcements/Editor's Postscript
+34	150	CCCP, Part Two of Travels in Europe and America	Na Hye-sŏk	Travelogue
+34	160	Korea's Last Army and National Defense Plan	Account by Elder Kwŏn Tong-jin	Memoir/Reminiscence
+34	170	Manchukuo and the Future of Koreans, Travels in Manchukuo (Part 2)	Im Wŏn-gŭn from Fengtian	Travelogue
+34	180	The Era of the Newspaper Novel "Olympics"	Ki-rim	Literary Criticism
+34	190	1933 and the Korean Rural Village	Yu Hae-song	Editorial/Essay
+34	200	Our Nostalgic Sentiment, Torch Play	 	Literary Miscellany
+34	210	Our Nostalgic Sentiment, Lantern Festival of Cheju Island	 	Literary Miscellany
+34	220	The Day That Shook the World, Mussolini's March on Rome (Part 1)	 	Editorial/Essay
+34	230	Korea's Count of "Monte Cristo", the Adventurer Yi Kap	 	Memoir/Reminiscence
+34	240	Our "Katyusha", Miss Pok Hye-suk	 	Memoir/Reminiscence
+34	250	Korea's Nora Who Left the Doll's House, Ms. Pak In-dŏk	 	Memoir/Reminiscence
+34	260	Tales of Bravery in Modern Korean History	Chang To-bin	Editorial/Essay
+34	270	Strategy for the Current Economic Movement, Proposal for Organizing a Self-Sufficiency Society	Sŏl T'ae-hŭi	Editorial/Essay
+34	280	Conversation Room	 	Miscellany
+34	290	Overview of the Korean Mining Industry	Kim Se-yong	Editorial/Essay
+34	300	Portraits of Female Writers in 1933	Hong Ku	Literary Criticism
+34	310	Our Nostalgic Sentiment, Willow Flute	 	Literary Miscellany
+34	320	Film Pilgrimage, Pathé Company Special Production "Goddess of Blonde Hair"	 	Literary Criticism
+34	321	(Untitled - National Compilation)	 	Announcements/Editor's Postscript
+34	330	Golden March	P'yŏn Sŏk-ch'on	Literary Miscellany
+34	340	Parade of Old and New Writers	An Chae-chwa	Literary Criticism
+34	350	Literary Circle "Indépendants" Special Feature = Call for Manuscripts	 	Announcements/Editor's Postscript
+34	360	Sound of the Wind	Kim Cha-hye	Literary Miscellany
+34	370	Lover	Chang Tŏk-cho	Novel/Fiction
+34	380	Madame X	Chu Yo-sŏp	Novel/Fiction
+34	390	Reconnaissance on the Life Front	G, W,	Novel/Fiction
+34	400	Theory on Establishing Class-Based Sexual Morality	An Hwa-san	Editorial/Essay
+34	401	Establishment of Branch Office	 	Announcements/Editor's Postscript
+34	410	Going to Britain, "Fascism", Seeking World Topics	Editorial Department	Editorial/Essay
+34	420	Flower Planted in the Forest, Poem	Sŏk-u	Poetry
+34	430	University Students' View of Ideology, Observations of American University Students	 	Social Commentary
+34	440	Sympathy	 	Miscellany
+34	450	New Year Literary Arts	 	News
+34	460	Love Cannot Be Auctioned, Short Piece	Snead Ogburn (Original), Ki-rim (Translator)	Poetry
+34	470	Group Going to the Sun, Poem/Song	Chŏk-ku	Poetry
+34	480	Snowflake on the Tree Branch, Poem/Song	Hwang Sŏk-u	Poetry
+34	490	Drinking Buddy, Poem/Song	Kwak Chong-su	Poetry
+34	500	Chinju Folk Song	Ch'un-jŏng	Poetry
+34	510	Prayer Sent to Sleep, Modern English Poetry Circle	R. W. Ketton-Cremer (Author), Kim Kwang-sŏp (Translator)	Poetry
+34	520	Brilliant, Modern English Poetry Circle	J. G. Fletcher	Poetry
+34	530	Whitechapel, Modern English Poetry Circle	Richard Aldington	Poetry
+34	540	Sea Nocturne, Modern English Poetry Circle	Edgar Foxall	Poetry
+34	550	Apple Blossom Blooming in October, Conte	Yi Hyo-sŏk	Novel/Fiction
+34	560	Fifty Chŏn Silver Coin	Kim Il-yŏp	Novel/Fiction
+34	561	Company Announcement	 	Announcements/Editor's Postscript
+34	570	Dr. Ch'oe's Conscience (Continued), Romance	Yi Chong-myŏng	Novel/Fiction
+34	580	Lotus Pagoda, Recited at the House of Pak Ch'ang-sŏ in Sunch'ŏn	 	Poetry
+34	590	Yangsan Sword, Play	Sin Pul-ch'ul	Drama/Scenario
+34	600	Secret Story of Border Smuggling	Border X Student	Memoir/Reminiscence
+34	610	Editor's Postscript	 	Announcements/Editor's Postscript
+34	611	"Samch'ŏlli" Vol. 5 No. 2 Special Supplement - Overview of Korean Thinkers	 	Miscellany
+34	612	"Samch'ŏlli" Vol. 5 No. 2 Special Supplement - Directory of Peninsular Property Owners	 	Miscellany
+35	010	Welcoming Spring	P'a-in	Poetry
+35	020	Victory of Unity	Kim Tong-hwan	Editorial/Essay
+35	030	Colonial Self-Government Movement and Parliamentary Activities, Recent Movement of Filipinos and the Parliament	Kim U-p'yŏng	Editorial/Essay
+35	040	Company Announcement	 	Announcements/Editor's Postscript
+35	050	Beauty's Self-Portrait, Bright Spirit!	Ch'oe Ŭi-sun	Literary Miscellany
+35	060	Beauty's Self-Portrait, Away from Trends	Ch'a Sa-baek	Literary Miscellany
+35	070	Beauty's Self-Portrait, If Only I Had Dimples on My Cheeks	Kim Cha-hye	Literary Miscellany
+35	080	Japan-US War and World War, Discussed by a Japanese Officer	Japanese Officer	Editorial/Essay
+35	090	Beauty's Self-Portrait, Though Lacking Angular Beauty	Song Kŭm-sŏn	Literary Miscellany
+35	100	Report on Visit to the Philippines	An Ch'ang-ho	Travelogue
+35	110	Literature of Korea	Yi Kwang-su	Literary Criticism
+35	120	The Heihe Incident on the Banks of the Heilongjiang, Sad History of Compatriots Trampling Each Other	 	Memoir/Reminiscence
+35	130	Independence of Manchukuo and Theory of International Co-management of China, Trends and Outlook of the World Political Situation (Continued)	Kim Kyŏng-jae	Editorial/Essay
+35	140	Samch'ŏlli Wall Newspaper, Principle of One Police Substation per District	 	Miscellany
+35	150	Current Status of the World Women's Labor Union Movement	Yu Hae-song	Editorial/Essay
+35	160	Samch'ŏlli Wall Newspaper, Land Boom Trend in Najin	 	Miscellany
+35	170	Record of My First Love	 	Memoir/Reminiscence
+35	180	Berlin and Paris	Na Hye-sŏk	Travelogue
+35	190	Images of Students Studying in America	O Ch'ŏn-sŏk	Memoir/Reminiscence
+35	200	Account of Visiting the Liberty Bell Pavilion in America	Pak In-dŏk	Travelogue
+35	210	Images of Five Modern Heroes	Namjŏng Hyŏn-in	Editorial/Essay
+35	220	Two Great Stars Amidst the Storm Clouds	Kim Ki-rim	Editorial/Essay
+35	221	Company Announcement	 	Announcements/Editor's Postscript
+35	230	Oh, Youth of Sixteen!! Writers' Recollections of Their Twenties	 	Memoir/Reminiscence
+35	240	Opening of the Studio, Ms. Na Hye-sŏk Returned from Paris, Women's Art Academy	Female Reporter	News
+35	250	Words of Great Writers	 	Miscellany
+35	260	Nostalgic Newlywed Days	 	Memoir/Reminiscence
+35	270	First Impressions of Famous Gentlemen as Seen by Women	Kim Ok-lyŏn	Miscellany
+35	280	Modern Notebook 1, If You Want to Become a Beauty	Hyŏn Hŭi-sun	Miscellany
+35	281	(Untitled - National Compilation)	 	Announcements/Editor's Postscript
+35	290	Theory on the Sexual Morality of the Proletariat	An Hwa-san	Editorial/Essay
+35	300	Portraits of Female Writers in 1933 (Continued)	Hong Ku	Literary Criticism
+35	310	Popular Songs Lament	Ch'ae Kyu-yŏp from Tōkyō	Literary Criticism
+35	320	Parade of Old and New Writers... Continued	An Chae-chwa	Literary Criticism
+35	330	Visit to a Writer's Wife, Mrs. Chu Yo-han (Ms. Ch'oe Sŏn-bok)	Female Reporter	News
+35	340	Actress's Private Life and the Stage	Yi Kyŏng-sŏl	Memoir/Reminiscence
+35	350	Ten Years Since Leaving My Hometown	Kim Sŏn-ch'o	Memoir/Reminiscence
+35	360	Collection of Writers' Letters (1)	 	Literary Miscellany
+35	370	Poetry Scene in March	 	Poetry
+35	380	That Woman and 13	Sŏ Kwang-je	Novel/Fiction
+35	390	Short Stories from the Literary Circle	 	News
+36	010	Famous Actor and the Stage (1), Yi Ki-se as "Yi Su-il", Protagonist of Changhannŏng, on the Umi-gwan Stage	 	News
+36	020	Famous Actor and the Stage (2), Im Sŏng-gu's "Wŏrhon", As the First Play of the New School, by the Traveling Troupe	 	News
+36	030	Famous Actor and the Stage (3) Kim So-rang's "Ohoch'ŏnmyŏng", As the Army Captain in the Loyalty Play, at Tansŏng-sa	 	News
+36	040	Famous Actor and the Stage (4), Mo Yun-suk's "Ujŏng", Becoming the Bride of Friendship, on the Public Hall Stage	 	News
+36	050	Famous Actor and the Stage (5), Pak Sa-hye's "Jeanne d'Arc", in the Great Hall of Ewha Haktang	 	News
+36	060	Famous Actor and the Stage (6), Kim To-san's "Paek Nak-kwan", As the Chivalrous Man of Changhannŏng, at Tansŏng-sa	 	News
+36	070	Famous Actor and the Stage (7), Miss Pok Hye-suk's "Katyusha", As the Heroine of Resurrection, on the T'owŏl-hoe Stage	 	News
+36	080	Famous Actor and the Stage (8), Na Un-gyu's "Count of Monte Cristo", As the Protagonist of Neptune, at Tansŏng-sa	 	News
+36	090	Ode to Spring	 	Poetry
+36	100	Proposal Regarding the Control of National Cultural Projects	Kim Tong-hwan	Editorial/Essay
+36	110	Samch'ŏlli Wall Newspaper	 	Miscellany
+36	120	Samch'ŏlli Wall Newspaper	 	Miscellany
+36	130	Historical Giants Full of Fighting Spirit	 	News
+36	140	Samch'ŏlli Wall Newspaper	 	News
+36	150	Samch'ŏlli! News	 	News
+36	151	Company Announcement	 	Announcements/Editor's Postscript
+36	160	To the Concerned Scholar	Sŏl T'ae-hŭi	Editorial/Essay
+36	170	America in Financial Panic	Chang Kyŏng-su from New York	Editorial/Essay
+36	180	My Speech Given with Deep Emotion	 	Memoir/Reminiscence
+36	190	View of Soviet Health Facilities	Pukp'ung Hagin	Editorial/Essay
+36	200	Hitler's Ambition	Yi Song-gyu	Editorial/Essay
+36	210	Solution to the Difficulty of Marriage, Emphasizing Rational Criticism and Skillful Ability	Yu Kwang-nyŏl	Editorial/Essay
+36	220	Impressions of Shimamura Hōgetsu and Matsui Sumako	Ch'unwŏn	Memoir/Reminiscence
+36	230	Released from Prison After Thirteen Years	Yang Kŭn-hwan	Memoir/Reminiscence
+36	240	My Record of Friendships	 	Literary Miscellany
+36	241	Urgent Notice	 	Announcements/Editor's Postscript
+36	250	Breaking the Silence of a Spring Night	 	Miscellany
+36	260	Writer's Travels to the Eight Scenic Spots of the Peninsula, Part 1, Ah, Nakhwaam Rock	Yi Kwang-su	Travelogue
+36	270	Ms. O Yŏp-chu's Beauty Salon	 	News
+36	280	Travels in the South Seas	Kim Tong-sŏng	Travelogue
+36	290	"Turgenev" and Nihilism	Hyŏng-yun	Literary Criticism
+36	300	Sun Yat-sen and Nationalism, The Full Aspect of the Three Principles of the People	Mr. Sun Yat-sen (Narrator), Unjong Hagin (Translator)	Editorial/Essay
+36	301	Company Announcement	 	Announcements/Editor's Postscript
+36	310	Battle Record of the 19th Route Army in Shanghai	Chinese Soldier Chiang I-hsing (Jiang Yixing)	Memoir/Reminiscence
+36	320	Record of Syngman Rhee's Attempted Prison Break, The Scene of Escape 30 Years Ago	Account by Elder Yu Chin-t'ae	Memoir/Reminiscence
+36	330	Flower's Trip to Paris, Travels in Europe and America Continued	Na Hye-sŏk	Travelogue
+36	340	Thoughts on Stage Performance	 	Memoir/Reminiscence
+36	350	Tomb of Dr. Wani, As the Tomb of the Paekche Scholar in Sugawara Village, Ōsaka	Pak Yŏng-su from Ōsaka	Travelogue
+36	351	Company Announcement	 	Announcements/Editor's Postscript
+36	360	The Current Theater Scene on the Peninsula, "As Seen, As Remembered"	Han Chi-su	Literary Miscellany
+36	370	First Prize Received Through Fatigue	Yi Sŏ-gu	Drama/Scenario
+36	380	Sounding Out Sentiments, Do Female Students Desire Birth Control?, Sounding Out the Sentiments of This Spring's Graduates	 	Survey
+36	390	Temperament of Virgins from the Eight Provinces	 	Survey
+36	400	Theory of the Housewife	An Kŭm-sŏn	Editorial/Essay
+36	410	Child-Rearing Issues and Us, What Attitude Should Commentators Take?	Ch'a Sa-baek	Editorial/Essay
+36	420	Women of All Nations, Salon - New Women's Noses Get Bigger. New Laws Arising from Boycott	 	Miscellany
+36	430	East, West, South, North	 	Miscellany
+36	440	Writer's Diary	 	Literary Miscellany
+36	450	Poetry Scene in April	 	Poetry
+36	460	The Painter's Wife (One Act)	Yun Paeng-nam	Drama/Scenario
+36	470	Weeping Willow	P'a-in	Drama/Scenario
+36	480	Towards the Dark Place	P'a-in	Drama/Scenario
+37	010	Ground Film, Chongno	 	Drama/Scenario
+37	020	Recent Famous European Films, Spring Shower	 	Literary Criticism
+37	030	Rejection of Defeatism, Our Creed for Survival from Today Onward	 	Editorial/Essay
+37	040	Beauty	Yi Kwang-su	Miscellany
+37	050	Recounting Thoughts	Ch'oe Rin	Poetry
+37	060	Myŏngsa Simni	Han Yong-un	Literary Miscellany
+37	070	Before a Beauty	Yang Kŭn-hwan	Poetry
+37	080	National Self-Awareness	Ch'oe Sŭng-man	Editorial/Essay
+37	090	Streetcar and Woman, Random Thoughts on a Summer Day	Kim Tong-in	Literary Miscellany
+37	100	Azalea Flower	Sowŏl	Poetry
+37	110	Mountain	Sowŏl	Poetry
+37	120	Memoir of Release from Prison	An Pyŏng-ju	Memoir/Reminiscence
+37	130	Recounting Thoughts	Yu Kil-chun	Poetry
+37	140	My View of Beauty	Pak P'ar-yang	Miscellany
+37	150	Novel Title	Yi Chong-myŏng	Literary Miscellany
+37	160	Mr. Pak Yŏng-hyo's Straw Hat	 	Memoir/Reminiscence
+37	170	Mr. Ok Kwan-bin's Bold Words	 	News
+37	180	Ms. Kim Wŏn-ju's Trip to Shanghai	 	News
+37	190	Ms. Kim Il-yŏp Entering the Buddhist Priesthood	 	News
+37	200	Writers' Debut Works	 	Memoir/Reminiscence
+37	210	Atmosphere of Harbin, Pak Kerensky	 	News
+37	220	Bizarre Motion Pictures	 	Social Commentary
+37	230	View on the Current Power of Pro-American and Pro-Russian Factions in Korea, Economically, Culturally, Ideologically	Ch'angnang-kaek	Editorial/Essay
+37	240	Collection of Frustrations	 	Miscellany
+37	250	My Arrest and Trial, Recollections of 13 Years in Prison	Yang Kŭn-hwan	Memoir/Reminiscence
+37	260	In the Courtroom, - Notes from Inside Ichigaya Prison -	Yang Kŭn-hwan	Memoir/Reminiscence
+37	270	Collection of Open Secrets	 	News
+37	280	Newspaper Night Tales	 	News
+37	290	[Though this body dies and dies again...]	Chŏng Mong-ju	Poetry
+37	300	[On a moonlit night on Hansan Island...]	Yi Sun-sin	Poetry
+37	310	[When pear blossoms scattered like rain, the lover I tearfully parted with...]	Kye-nang	Poetry
+37	320	[Night falls on the autumn river, the waves are calm...]	Wŏlsan Taegun	Poetry
+37	330	Analysis of Background and Foundation	Ch'angnang-kaek	News
+37	340	Samch'ŏlli Wall Newspaper	 	News
+37	350	Two Topics for the Margin	 	Social Commentary
+37	360	Recollections of Ōsugi Sakae	Hyŏng-yun	Memoir/Reminiscence
+37	370	Dr. Yi's Travelogue	 	Miscellany
+37	380	110 Daycare Centers	 	Miscellany
+37	390	Historical Giants Full of Fighting Spirit	 	Editorial/Essay
+37	400	Rumors and Slander	 	Miscellany
+37	401	Samch'ŏlli Wall Newspaper	 	News
+37	410	University Student Temperament	 	Miscellany
+37	420	Ha, ha, ha	 	Miscellany
+37	430	Dance Hall in Moscow	Kim Nikolai from Moskva	News
+37	440	Trip along Russia's Volga River	Kim Nikolai from Moscow	Travelogue
+37	450	Collection of Floating Words (Rumors)	 	Miscellany
+37	460	Roundtable Talk on "The Issue of Compatriots in Manchuria"	 	Interview/Roundtable Talk
+37	470	On the Banks of the Yalu River	Sŏk-song	Poetry
+37	480	On the Banks of the Songhua River	Ch'unwŏn	Poetry
+37	490	Passing the Site of a Koguryŏ Fortress	Sŏk-song	Poetry
+37	500	Storm Clouds in the Far East and the Future of Siberia	Kim Kyŏng-jae	Editorial/Essay
+37	510	New Organization of Writers	 	News
+37	520	Success of "Turgenev's Night"	 	Miscellany
+37	530	Historical Excerpts	 	Miscellany
+37	540	Travel Expenses for a Round-the-World Trip	 	Miscellany
+37	550	Record of Conversation with Mr. Yi Kwang-su	 	Interview/Roundtable Talk
+37	560	Misjudgment	 	Miscellany
+37	570	Actor's Monthly Salary: 2,000 Won	 	Miscellany
+37	580	View on Korean Provincial Governors	Simgyŏng-saeng	Editorial/Essay
+37	590	Anticipating the Revival of Ch'oe Tok-kyŏn	 	News
+37	600	Memorial for Ch'oe Sŏ-hae	 	News
+37	610	Queen Min	 	Miscellany
+37	620	Tanjŏng-dae (Platform for Impeachment)	 	Announcements/Editor's Postscript
+37	630	[Don't laugh, O great Peng, saying the quail is small...]	Yi T'aek	Poetry
+37	640	Rise to Fame of the Three Great Gold Mine Kings: Ch'oe Ch'ang-hak, Pang Eung-mo, Kim T'ae-wŏn, etc.	Pugak Sanin	Memoir/Reminiscence
+37	650	[What is so amusing about the sound of rain sweeping the clear river...]	King Hyojong	Poetry
+37	660	[Casting a line in the Ch'angnang and sitting on the fishing spot...]	Song In-su	Poetry
+37	670	Kim An-sŏ's Apartment Life	 	News
+37	680	Ha ha ha	 	Miscellany
+37	690	Gandhi As I Saw Him	Bernard Shaw	Miscellany
+37	700	Full-Length Novels and the Author's State of Mind	 	Literary Miscellany
+37	710	Era of Suffering for Beauties	 	News
+37	720	Old Jurchen Capital, Account of Exploring Tongjin Mountain Fortress	Sae-pak	Travelogue
+37	730	Something Even Worse	 	Miscellany
+37	740	Account of Visiting Soviet Union Dictator Stalin	Southern European Scholar in Moscow	News
+37	750	Collection of "If Only It Were So"	 	Miscellany
+37	760	Miscellaneous Recitations at Chonggak, Continued Recitations by Sup'yogyo Bridge	P'a-in	Literary Miscellany
+37	770	Selected Folk Songs	 	Literary Miscellany
+37	780	From Berlin to London, Travels in Europe and America Continued	Na Hye-sŏk	Travelogue
+37	790	Collection of Masters	 	News
+37	800	British Steamship Captain Mr. Sin, As Captain of an Outstanding Ship Sailing the Atlantic	 	News
+37	810	This Tragedy of a Female Writer, Miss Kim Myŏng-sun Meets Misfortune in Tōkyō	 	Literary Miscellany
+37	820	The Time I First Came to Seoul	 	Memoir/Reminiscence
+37	821	Preview of the Upcoming October Issue	 	Announcements/Editor's Postscript
+37	822	To All Readers Under Heaven	 	Announcements/Editor's Postscript
+37	830	Activities of Patriots During the Independence War, Young Officer Hel and Girl Bel	 	Literary Miscellany
+37	840	[I want to carve out my heart and make that moon...]	Chŏng Ch'ŏl	Poetry
+37	850	India's Poet Sage Tagore and Visva-Bharati University, Account of Meeting in the Forest in Late July	 	Interview/Roundtable Talk
+37	860	Jokes	 	Miscellany
+37	870	Collection of Secrets from Inside and Outside	 	News
+37	880	World's Number One Department Store, Chicago's Marshall Field's	 	News
+37	890	Thrilling History of International Terrorism	Mok Pyŏng-jŏng	Editorial/Essay
+37	900	Public Morals	 	Miscellany
+37	910	Viewing "The Resurrected Sin Il-sŏn", Various Matters of the Theater and Film Worlds	Na Un-gyu	Literary Miscellany
+37	920	On Pak Yŏng-hŭi, Theory of Proletarian Writers	Min Pyŏng-hwi	Literary Criticism
+37	930	Literary Circle Annals	 	News
+37	940	Folk Song Collection	Ch'o-jŏk	Poetry
+37	950	Suni and I—	Yi Chong-myŏng	Novel/Fiction
+38	010	Autumn Sky	P'a-in	Poetry
+38	020	Manual for Cultural Work	 	Editorial/Essay
+38	030	Secret Story	Yang Kŭn-hwan, Yi Chŏng-sŏp, Pak Kŭm	Memoir/Reminiscence
+38	040	Disappointment	P'a-in	Poetry
+38	050	Autumn Night	P'a-in	Poetry
+38	060	Sorrowful Circumstances	An-sŏ	Poetry
+38	070	Autumn Wind	P'a-in	Poetry
+38	080	The Reed Wind Blows Gently	An-sŏ	Poetry
+38	090	On a Night of Sleet	An-sŏ	Poetry
+38	100	Samch'ŏlli Life Guide	Ch'oe Rin et al.	News
+38	110	Moonlight	P'a-in	Poetry

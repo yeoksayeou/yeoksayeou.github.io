@@ -1,0 +1,291 @@
+Magazine Title: 삼천리 제15호
+Publication Date: 1931-05-01
+Article Title: 朝鮮土地兼倂의 趨勢, 現下 朝鮮農村의 硏究 (The Trend of Land Annexation in Korea, A Study of the Current Korean Farming Villages)
+Author: 韓長庚 (Han Chang-gyŏng)
+Article Type: 논설 (Essay/Research Article)
+
+The Trend of Land Annexation in Korea, A Study of the Current Korean Farming Villages
+						By Han Chang-gyŏng
+
+I. Unfair Distribution of Cultivated Land
+
+In ancient times, all land in Chosŏn (朝鮮) was state-owned, and the people, as cultivators, received distributions of farmland from the government and paid taxes with their harvested crops. Consequently, in this era, there were neither landlords nor tenant farmers. Land could be freely cultivated according to the number of households or labor force. Farmers from densely populated areas were transplanted to sparsely populated areas to adjust the population, and idle people were given land and forced to engage in agriculture. Furthermore, the only spoils of war were prisoners, who were used as slaves or serfs, transplanted to barren lands, and made to engage in land reclamation.
+
+Then, immediately after the unification of Silla (新羅), the system of *chikchŏn* (職田, office land) was first established, granting land instead of salaries to civil and military officials, allowing them to consume the rent collected from it.
+Thus, those who possessed *chikchŏn* used slaves (*nobok*, 奴僕) for self-cultivation, and if they had surplus land, they would have other farming households cultivate it on their behalf, sharing the harvest. This was truly the origin of land tenant farming.
+Originally, the land system (*chŏnje*, 田制) was extremely complex and prone to disorder. Therefore, the land system was later revised to distribute land appropriately according to the number of households; this was the *Chŏngjŏn pŏp* (丁田法).
+
+During the Koryŏ (高麗) dynasty, the number of cultivated fields (*kŏnjŏn*, 墾田) was totaled, grades were set according to the fertility (*kojŏk*, 膏瘠) of the land, and taxation (*pugwa*, 賦課) was equalized. The *chikchŏn* system was further expanded. In addition to the *yŏkpunjŏn* (役分田) attached to high and low government posts, a system called *chŏnsikwa* (田柴科) granted land to meritorious subjects and the bereaved families of civil and military officials, with the condition that it be returned to the state upon the death of the recipient or when certain conditions arose. Separately, *konghaejŏn* (公廨田) was established, granting estates (*changt'aek*, 庄宅) to government offices, provincial and county seats, relay stations (*yŏk*, 驛), etc., thus completing the initial formation of the land system. However, from the mid-Koryŏ period onwards, the laws regarding the granting and retrieval of land (*sujŏn sujŏn*, 授田收田) became lax, and land (*chŏnji*, 田地) was hereditarily bestowed upon officials, title holders, and meritorious subjects. This marked the beginning of private land ownership. Consequently, those who possessed large areas of land had other farming households cultivate it, and the method of sharecropping (*taegyŏng punik*, 代耕分益) became prevalent, eventually becoming a general custom.
+
+However, this beginning of private land ownership ultimately led to the ills of land annexation (*t'oji kyŏmbyŏng*, 土地兼倂). Most of the state's fertile land (*yangjŏn*, 良田) fell into the private ownership of powerful families and nobles (*kwŏnmun kwijok*, 權門貴族), and public land (*kongjŏn*, 公田) gradually decreased. As a result, the government, in order to supplement the insufficient national treasury (*kukto*, 國帑), raised taxes (*chose*, 租稅), causing hardship for the people. Meanwhile, the powerful families and local magnates (*kwŏn'ga hojok*, 權家豪族) competed to seize land, leading to incessant lawsuits (*songsa*, 爭訟). By the end of the Koryŏ dynasty, the abuses (*p'yehae*, 弊害) were rampant, plunging the state into a condition that could not possibly be rectified.
+
+At this time, Yi T'aejo (李太祖) advocated for the abolition of private land (*sajŏn*, 私田) and the equalization of taxes and levies (*puryŏm*, 賦歛), <17> causing the government to burn the land registers (*chŏnjŏk*, 田籍). As a result, the people's hearts (*minsim*, 民心) overwhelmingly responded to Yi T'aejo, and this truly became the driving force behind the Yi clan's acquisition of the country. However, after the Yi clan acquired the country, not only was it difficult to reform the long-standing customs overnight, but also, due to political considerations for protecting the royal family, it was felt that reclaiming the private lands of old and new powerful families and nobles would be disadvantageous to the royal house. Thus, the abolition of private land was abandoned, and the matter concluded merely with land surveying and tax organization (*chose chŏngni*, 租稅整理). As a result, the cultivators of private land, like those on public land, bore the national tax (*kukcho*, 國租) and additionally had to pay tenant fees (*sojakryo*, 小作料) to the traditional landowners (*chŏnju*, 田主). In effect, private land ownership and the custom of tenant farming continued publicly, just as in the Koryŏ dynasty. Yi T'aejo's so-called theory of abolishing private land was merely a means to win the hearts of the people at that time and seize control of the state.
+
+In this way, state officials (*kwalli*, 官吏) and local powerful families (*kangjok*, 强族) relied on their influence (*seryŏk*, 勢力) to acquire even more land, becoming landlords (*chiju*, 地主), while the common people (*semin*, 細民) became tenant farmers (*sojakin*, 小作人), giving rise to a relationship of master-servant (*chujong*, 主從) and upper-lower class (*sangha kyegŭp*, 上下階級), which has continued to this day.
+
+The total area of cultivated land is 4,607,632 *chōbo* (町步) (as of the end of 1928), consisting of 1,614,726 *chōbo* of paddy fields (*tap*, 畓) and 2,992,906 *chōbo* of dry fields (*chŏn*, 田). Classified by state and private ownership, it is as follows:
+
+State-Owned Land / Private-Owned Land
+Paddy 33,405 *chō* / Paddy 1,581,311 *chō*
+Dry Field 56,380 *chō* / Dry Field 2,936,526 *chō*
+Total 89,785 *chō* / Total 4,517,847 *chō*
+
+State-owned land accounts for about 2% of the total cultivated land area, the majority of which was originally *yŏktunt'o* (驛屯土). *Yŏktunt'o* is a general term for palace land (*kunjangt'o*, 宮庄土), station land (*yŏkt'o*, 驛土), and military colony land (*tunt'o*, 屯土). *Yŏkt'o* refers to the system established since the Koryŏ dynasty where relay stations (*yŏkch'am*, 驛站) were set up in each province for the transmission of official documents (*kongmunsŏ*, 公文書) and for traveling officials on public duty (*kongmu*, 公務). Horses (*map'il*, 馬匹) were stationed at these relays, and the expenses were covered by the harvest from the *yŏkt'o*. *Tunt'o* was land allocated for the subsistence (*kyŏngsik*, 耕食) of garrison soldiers (*suchol*, 戍卒) stationed for national defense (*kyŏngbi*, 警備). This system was abolished in 1894, and the land was incorporated into state-owned land. *Yŏktunt'o* occupies vast areas in flat, fertile (*p'yŏngt'an ko'yu*, 平坦膏腴) regions and has over 150,900 numerous tenant farmers. *Yŏktunt'o* was initially much larger, but about 10,000 *chōbo* were leased to the Tōyō Takushoku Kaisha (東洋拓殖會社, Oriental Development Company) to be used for Japanese immigrant settlement. Since 1920, the majority of it has been contracted for sale to current tenant farmers through annual installment payments.
+
+Regarding the distribution status of private land, appropriate data is lacking. According to the list of taxpayers by area owned, it is as follows (as of the end of 1928): <18>
+Note: This survey was aggregated at the *myŏn* (面, township) level. Therefore, individuals who own land and pay taxes across two or more *myŏn* are counted multiple times, so the number of personnel differs from the actual number of landowners.
+
+[Table data embedded in text – Requires formatting to represent the table structure clearly, but the text describes the distribution based on this missing table.]
+
+Land Cultivation Status (Self-cultivated vs. Tenant-farmed) (End of 1929)
+[Table data embedded in text – Also requires formatting. The text mentions:]
+(Additionally, there is an estimated area of cultivated land not registered in the land cadastre (*t'oji taejang*, 土地臺帳): Paddy 16,598 *chō*. [Field data missing or typo: 446,758 *chō*?]. Slash-and-burn fields (*hwajŏn*, 火田) 176,762 *chō*. Total estimated unregistered: 240,118 *chō*.) [Note: There seems to be a missing number or typo for the Field data.]
+
+Farm Household Classes (End of 1929)
+Landlords (*chiju*, 地主): 104,502 households
+Self-cultivating farmers (*chajaknong*, 自作農): 507,384
+Part-tenant farmers (*pansojaknong*, 半小作農): 885,597
+Tenant farmers (*sojaknong*, 小作農): 1,283,417
+Pure slash-and-burn farmers (*sun hwajŏnmin*, 純火田民): 34,337
+Total (*kye*, 계): 2,815,277
+
+Breaking this down further yields the following (Based on the Sept. 1925 end survey table, as 1929 survey data is unavailable):
+Note: Regarding statistics within Chosŏn, especially rural statistics, <19> the figures are mostly collected by *myŏn* clerks (*myŏn sŏgi*, 面書記) and district chiefs (*kujang*, 區長). Almost all of them lack training in statistical surveying. Furthermore, their survey methods often involve estimation and guesswork when entering numbers. Therefore, these statistics contain many fabrications (*tuch'an*, 杜撰), errors (*ch'ago*, 錯誤), and falsehoods (*hŏwi*, 虛僞), leading to frequent discrepancies in the figures.
+
+[Table data embedded in text – Missing but described below.]
+Now, subtracting the approximately 90,000 households of small landlords (*so chiju*, 小地主) owning less than 5 *chōbo* and petty landlords (*se chiju*, 細地主) owning less than 1 *chōbo* from the total landlord count of 104,502 households, and estimating the maximum area owned by medium and small landlords owning less than 5 *chōbo* from the total tenant land area and subtracting approximately 250,000 *chōbo*, we find that ultimately, fewer than 30,000 large and medium landlords occupy over 2.7 million *chōbo* of tenant land. This amounts to an average of over 70 *chōbo* per household. Less than 1.1% of all farm households, this extremely small number of landlords, own 50% of the total cultivated land. Meanwhile, the 1.97 million *chōbo* of self-cultivated land is distributed among over 1.39 million households of self-cultivating and part-tenant farmers, averaging only 1 *chō* 4 *tan* (町4段) per household. Considering that the average farm household size is about 5 people, and managing a household requires self-cultivating a minimum of 1 *chō* 7-8 *tan* (段) of medium-grade paddy and dry fields combined, excluding the 94,543 large self-cultivating farmers cultivating over 3 *chōbo*, the 179,016 medium self-cultivating farmers cultivating around 2 *chōbo*, and the 98,628 large part-tenant farmers cultivating over 3 *chōbo* – a total of over 372,100 households – the remaining 2,244,400 small and petty farmers (*sonong senong*, 小農細農) all fall below the minimum required cultivated land area.
+
+Looking at this by province, it is as follows (as of the end of 1928):
+
+Regional Distribution of Cultivated Land (End of 1928)
+[Table data embedded in text – Missing]
+Note: Excludes slash-and-burn fields and estimated unregistered cultivated land.
+Even looking at the averages for each province, the six provinces of Ch'ungch'ŏng Pukto (충북), Ch'ungch'ŏng Namdo (충남), Chŏlla Pukto (전북), Chŏlla Namdo (전남), Kyŏngsang Pukto (경북), and Kyŏngsang Namdo (경남) originally lack sufficient cultivated land and are in a situation where they absolutely cannot accommodate the current number of farm households. Furthermore, the rural population density varies significantly depending on the region. According to the survey at the end of 1929, it is as follows:
+
+[Table data embedded in text – Missing]
+
+Plains areas (*p'yŏngyaji*, 平野地), areas along railway lines (*ch'ŏldo yŏnsŏnji*, 鐵道沿線地), and riverside areas (*sohaji*, 沼河地) have fertile soil (*chimi*, 地味) and are mostly tenant-farmed land. Consequently, the population is dense (*semil*, 細密), cultivated land is insufficient, and the average cultivated area (*tanbo*, 反別) per tenant farmer is as follows: <20>
+
+[Table data embedded in text – Missing]
+
+Since tenant farmers receive less than half of the harvest (*suhwangmul*, 收穫物), except for a portion of large farmers in the northwestern regions, all fall below the minimum required cultivated land area, and farm household life is fundamentally XX [word obscured or missing - likely 'impoverished' or 'distressed'] (*kŭnbonuro put'ŏ XX toeyŏ itta*).
+
+Furthermore, the percentage distribution of self-cultivated vs. tenant-farmed land is as follows (as of the end of 1928):
+
+[Table data embedded in text – Missing]
+
+And the percentage distribution of tenant farmers vs. self-cultivating farmers is as follows (as of the end of 1928):
+
+[Table data embedded in text – Missing]
+
+II. Trend of Land Annexation
+
+As the gap between rich and poor farmers (*nongmin*, 農民) widens further and the reach of capitalists (*chabon'ga*, 資本家) extends, the trend of land annexation (*t'oji kyŏmbyŏng*, 土地兼倂) progresses at an accelerating rate (*kasokto*, 加速度).
+
+Changes in Cultivated Land Area
+
+[Table data embedded in text – Missing, but trends described below.]
+
+Changes in Farm Household Classes
+
+[Table data embedded in text – Missing, but trends described below.]
+Note: In these statistics, landlords (*chiju*) who lease out all their land are called 'Type A Landlords' (*Kap chiju*, 甲地主), and those who lease out part of their land and cultivate part themselves are called 'Type B Landlords' (*Ŭl chiju*, 乙地主). Among Type A landlords, there are petty landlords with less than one *chōbo*, and among Type B landlords, there are large landlords with several tens of *chōbo*. Thus, the number of landlords in these statistics is unreliable. Ultimately, those who can be called landlords likely number only around 6,000 households owning 20 *chōbo* or more.
+
+Over the preceding 12 years, the total cultivated land area increased by 50,024 *chōbo*. However, dry fields (*chŏn*) actually decreased by 14,434 *chōbo*, while paddy fields (*tap*) increased by 64,458 *chōbo*. This increase in paddy fields is due to the establishment of water utilization associations (*suri chohap*, 水利組合). Although paddy fields increased in this manner, the increase in self-cultivated paddy fields was merely 1,342 *chōbo*, while tenant-farmed paddy fields increased by 63,112 *chōbo*. This is likely because self-cultivated dry fields converted into paddy fields due to the establishment of water utilization associations almost entirely transitioned into tenant-farmed paddy fields. Furthermore, self-cultivated land (both paddy and dry fields) decreased by 182,045 *chōbo*, or 9%, while tenant-farmed land increased by 322,065 *chōbo*, or 11%. This shows how rapid the trend of land annexation is. While the area of tenant-farmed land has increased like this, the number of landlords has gradually decreased since 1927. Among them, the increase in Type A landlords and decrease in Type B landlords indicates that Type B landlords are also in the process of decline (*mollak kwajŏng*, 沒落過程), and their land is being annexed by large landlords.
+Year / 1927 / 1928
+Number of Type B Landlords / 84,359 / 83,824
+
+Furthermore, due to the ruin (*p'amyŏl*, 破滅) of small landlords, self-cultivating farmers, and part-tenant farmers, land mortgaged (*chŏdang*, 抵當) to financial institutions (*kŭmyung kigwan*, 金融機關) will eventually fall into the ownership of these institutions because the borrowers lack the ability to repay the loans (*ch'akkŭm*, 借金). Similarly, land within the districts of water utilization associations will also be transferred to *Shokusan* (殖産 - likely referring to the Bank of Chōsen or related development banks) or *Tōtaku* (東拓 - Tōyō Takushoku Kaisha) due to non-payment of association fees (*chohappi*, 組合費). The fact that over 300 *chōbo* of land within the district of the Ch'ŏrwŏn Central Water Utilization Association (鐵原中央水利組合) has already been transferred to the water association proves this <22>. As farmers face further ruin in the future, land annexation will increase rapidly, and simultaneously, financial large landlords (*kŭmyung tae chiju*, 金融大地主) will emerge.
+
+Regarding farm household classes, self-cultivating farmers decreased by 15,928 households, or 3‰ [per mille, i.e., 0.3%], part-tenant farmers decreased by 158,239 households, or 15%, and tenant farmers experienced a large, drastic increase (*taegyŭkchŭng*, 大激增) of 279,644 households, or 28%. Self-cultivating farmers are falling to become part-tenant farmers, and part-tenant farmers are falling to become pure tenant farmers or pure slash-and-burn farmers, heading down the path of rapid decline (*kŭpchŏn chikha*, 急轉直下). Although the number of farm households increases annually in absolute terms, its proportion relative to the total number of households has been gradually decreasing since 1916.
+
+While there are certainly various reasons, the most significant one is the outflow (*kyŏng'oe yuri*, 境外流離) of farmers, which we witness daily, and their concentration in cities as factory laborers (*kongjang nodongja*, 工場勞働者) and day laborers (*chayu nodongja*, 自由勞働者). Although the increase in cultivated land area over 12 years reached over 50,000 *chōbo*, the fact that self-cultivated land actually decreased makes it clear that newly reclaimed land (*sint'akhan kyŏngji*, 新拓한 耕地) is entirely going into the land expansion portfolios of land capitalists (*t'oji chabon'ga*, 土地資本家). On the other hand, the area lost (*koemyŏl*, 潰滅) to residential, factory, railway, and road construction is not insignificant, making the actual cultivators, the farmers, feel the land shortage even more acutely. Furthermore, those who encroach (*cham*) upon Chosŏn's cultivated land and further promote the ills of land annexation are immigrants (*imin*, 移民) and the increase in agricultural estates (*nongjang*, 農場).
+
+Japanese people began focusing on Chosŏn's agricultural land (*nongt'o*, 農土) about 50 years ago, purchasing land. Starting with the establishment of the Tomita Farm (*Put'a nongjang*, 富田農場) in Ŭllyul (殷栗), Hwanghae Province (黃海道) in 1879 (according to *Chosŏn Nongŏp* (朝鮮農業), compiled by the Government-General of Chosŏn), the Takase Farm (*Kose nongjang*, 高瀨農場) was established in Yŏsu (麗水), South Chŏlla Province (全南) in 1881. Thereafter, the number of Japanese coming to Chosŏn to manage farms gradually increased. After the Eulsa Protectorate Treaty (乙巳保護條約) was concluded, they flooded in, congregating (*wŏijip*, 蝟集) in the southern regions (南鮮地方) where the climate is mild (*onhwa*, 溫和) and transportation is convenient (*p'yŏlli*, 便利).
+
+Among the immigrants, there are free immigrants (*chayu imin*, 自由移民) and protected immigrants (*poho imin*, 保護移民). Their number reached 10,338 households (as of the end of 1929), primarily concentrated (*milchip*, 密集) in the three southern provinces (Samnam, 三南), Kyŏnggi (京畿), and Hwanghae (黃海) regions.
+
+Protected Immigrants
+The Tōyō Takushoku Kaisha (東洋拓殖會社) is a company established with the mission of transplanting Japanese people to Chosŏn. It conducted its first immigrant recruitment in 1910 and has since transplanted several hundred Japanese households annually, reaching 3,990 households by the end of 1929. There were two types of recruited immigrants: Type 1, where each household was allocated up to 2 *chōbo* of cultivated land, with the land price payable in 25 annual installments (*yŏnbu sanghwan*, 年賦償還) at 6% annual interest (*yŏn yukpun ija*, 年六分利子); and Type 2, where up to 10 *chōbo* of cultivated land was allocated, requiring a down payment of one-fourth (4分 1) of the price upon land transfer (*t'oji indo*, 土地引渡), with the remaining balance payable in 15 annual installments at 7% annual interest (*yŏn ch'ilpun ija*, 年七分利子). Later, in 1922, Type 1 immigration was abolished, and only Type 2 immigrants were accepted, allocating up to 5 *chōbo* of cultivated land per household. However, since 1928, recruitment for Type 2 immigrants has also been abolished. The land owned by Tōtaku was generally selected in areas with fertile soil (*chimi*, 地味), little risk of flood or drought (*suhanjae*, 水旱災), and convenient transportation. The immigration of one Japanese household results in 2 to 10 Korean farm households losing their farms and becoming displaced (*silnong yuri*, 失農流離), thus becoming a source of resentment (*Xpu* - likely 怨府, *wŏnbu*, meaning 'object of resentment') for Korean farm households.
+
+Tōtaku Owned Land Area
+[Table data embedded in text – Missing, but description follows.]
+Of the cultivated land, 8,458 *chōbo* were transferred (*yangdo*, 讓渡) to immigrants in 1922. As of the end of 1926, the company held a huge area totaling 90,462 *chōbo*.
+The area by province is as follows (as of Sept. 1926): <23>
+[Table data embedded in text – Missing]
+Note: Figures rounded from the *tan* (段) level, so the sum of provincial areas may not match the total. Additionally, there are forest management areas totaling 79,028 *chōbo* in Kyŏnggi, Kyŏngbuk, Kangwŏn, Hambuk, and Hwanghae provinces, and bamboo forest management areas totaling 278 *chōbo* in Chŏnnam and Kyŏngnam.
+
+The Fuji Nōson Sangyō Kumiai (不二農村産業組合, Pui Nongch'on Sanŏp Chohap; formerly Fuji Kōgyō Kaisha, 不二興業會社) plans to transplant 333 Japanese households onto 1,800 *chōbo* of reclaimed land (*kant'akchi*, 干拓地) prepared as paddy fields (*chak tap*, 作畓) in Mimyŏn (米面), Okku County (沃溝郡), North Chŏlla Province (全北). By 1929, it had transplanted 251 households, granting each 3 *chōbo* of paddy land, 1 *tanbo* (一段步) of dry field and housing site (*t'aekchi*, 宅地), and a house (*chut'aek*, 住宅). The payment method involves 20-year annual installments (*isip kaenyŏn yŏnburo sanghwan*, 20個年年賦로償還).
+
+The Heikō Sangyō Kumiai (平康産業組合, P'yŏnggang Sanŏp Chohap) purchased over 87 *chōbo* of paddy, over 303 *chōbo* of dry field, and over 107 *chōbo* of forest land (*imya*, 林野) in P'yŏnggang (平康), Kangwŏn Province (江原道). With plans to accommodate 100 households (*paekho sukkaek*, 100戶收客), it had transplanted 43 households by 1929, allocating 2 *chō* 5 *tan* of paddy and 2 *chō* 5 *tan* of dry field per household. It received an immigration encouragement subsidy (*iju changnyŏ pojobi*, 移住獎勵補助費) of 300 *wŏn* (圓) per household from the Ministry of Colonial Affairs (*T'akmusŏng*, 拓務省) and low-interest financing (*chŏri chagŭm ŭi yungt'ong*, 低利資金의 融通) for land purchase and housing construction costs from the Government-General of Chosŏn, repayable in 21 annual installments.
+
+Free Immigrants
+From the fertile plains (*okya*, 沃野) of the three southern provinces (Samnam) to the plains areas (*p'yŏngyaji*, 平野地帶) throughout Chosŏn, there is no place where Japanese have not entered, and the area of land they possess (*chŏmyu*, 占有) increases year by year. As of the end of 1928, the owned area reached over 145,000 *chōbo* of paddy, over 78,000 *chōbo* of dry field, over 40,000 *chōbo* of other land (*kit'a*, 其他), and over 30,000 *chōbo* of managed land (*kwalliji*, 管理地), totaling over 298,000 *chōbo*. The number of owners and managers holding 30 *chōbo* or more, by province, is as follows (as of July 1929):
+[Table data embedded in text – Missing]
+(To be continued in the next issue) <24>
+
+**Summary**
+
+This article meticulously details the historical progression of land ownership in Korea, arguing that land distribution became increasingly unequal from the Silla and Koryŏ periods onward, despite attempts at reform like Yi T'aejo's. It culminates in the colonial period (early 1930s), where the author presents statistics showing a stark reality: a tiny fraction of landlords (less than 1.1%) own half the cultivated land, while the vast majority of farmers (self-cultivating, part-tenant, and tenant) struggle with insufficient land, often below subsistence levels. The author highlights the accelerating trend of land annexation (*kyŏmbyŏng*), driven by farmer impoverishment and debt, leading to land concentration in the hands of large landlords and financial institutions. Crucially, the article emphasizes the role of Japanese entities – both state-sponsored immigration programs like those run by the Tōyō Takushoku Kaisha (Oriental Development Company) and private Japanese settlers – in acquiring vast tracts of fertile land, directly contributing to the displacement and decline (*mollak*) of Korean farmers. The author explicitly links Japanese immigration and land acquisition to Korean farmer ruin (*p'amyŏl*) and resentment (*wŏnbu*). Historians would find the detailed (though cautioned as potentially inaccurate by the author himself) statistics on land ownership distribution, farm household classes, and Japanese land acquisition particularly valuable, alongside the narrative connecting historical land tenure systems to the worsening conditions under Japanese colonial rule and the explicit identification of Japanese colonization as a primary driver of land consolidation and farmer dispossession.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+新羅	신라	Silla
+高麗	고려	Koryŏ
+李太祖	이태조	Yi T'aejo
+東洋拓殖會社	동양척식회사	Tongyang Ch'ŏksik Hoesa (Tōyō Takushoku Kaisha)
+충북	충북	Ch'ungbuk (Ch'ungch'ŏng Pukto)
+충남	충남	Ch'ungnam (Ch'ungch'ŏng Namdo)
+전북	전북	Chŏnbuk (Chŏlla Pukto)
+전남	전남	Chŏnnam (Chŏlla Namdo)
+경북	경북	Kyŏngbuk (Kyŏngsang Pukto)
+경남	경남	Kyŏngnam (Kyŏngsang Namdo)
+黃海道	황해도	Hwanghae-do
+殷栗	은율	Ŭllyul
+麗水	여수	Yŏsu
+朝鮮總督府	조선총독부	Chosŏn Ch'ongdokpu (Government-General of Chosŏn)
+乙巳保護條約	을사보호조약	Ŭlsa Poho Choyak (Eulsa Protectorate Treaty)
+南鮮地方	남선지방	Namsŏn Chibang (Southern Korean Region)
+三南	삼남	Samnam (Three Southern Provinces: Ch'ungch'ŏng, Chŏlla, Kyŏngsang)
+京畿	경기	Kyŏnggi
+黃海	황해	Hwanghae
+不二農村産業組合	부이농촌산업조합	Pui Nongch'on Sanŏp Chohap (Fuji Nōson Sangyō Kumiai)
+不二興業會社	부이흥업회사	Pui Hŭngŏp Hoesa (Fuji Kōgyō Kaisha)
+沃溝郡	옥구군	Okku-gun
+米面	미면	Mimyŏn (Likely a *myŏn* or township name)
+平康産業組合	평강산업조합	P'yŏnggang Sanŏp Chohap (Heikō Sangyō Kumiai)
+江原道	강원도	Kangwŏn-do
+平康	평강	P'yŏnggang
+拓務省	척무성	Ch'ŏngmusŏng (Ministry of Colonial Affairs - Takumushō)
+鐵原中央水利組合	철원중앙수리조합	Ch'ŏrwŏn Chungang Suri Chohap
+
+**Glossary**
+
+兼倂	겸병	Annexation, merger, consolidation (often referring to land)
+趨勢	추세	Trend, tendency
+國有	국유	State-owned, national ownership
+職田	직전	Office land; land granted to officials as salary in pre-modern Korea
+小作人	소작인	Tenant farmer
+丁田法	정전법	A land allocation system based on households/labor force (Koryŏ/Chosŏn)
+膏瘠	고척	Fertility and barrenness (of land)
+世襲的	세습적	Hereditary
+賦歛	부렴	Taxes and levies (older term)
+驛屯土	역둔토	Land allocated to support post stations (驛土) and military colonies (屯土)
+町步	정보	*Chōbo* (Japanese unit of area, approx. 2.45 acres or 9917 sq meters), read as *chŏngbo* in Korean context
+火田	화전	Slash-and-burn agriculture; fields created by burning forests/bushes
+地主	지주	Landlord
+自作農	자작농	Self-cultivating farmer; owner-farmer
+半小作農	반소작농	Part-tenant farmer (cultivates own land and rents some)
+純火田民	순화전민	People subsisting solely on slash-and-burn farming
+杜撰	두찬	Fabrication, careless error, slipshod work (often referring to unreliable data/writing)
+水利組合	수리조합	Water Utilization Association; irrigation cooperative
+沒落	몰락	Downfall, ruin, collapse, decline
+抵當	저당	Mortgage, collateral
+拓務省	척무성	Ministry of Colonial Affairs (Japanese governmental body)
+干拓地	간척지	Reclaimed land (usually from sea or marsh)
+年賦償還	연부상환	Annual installment repayment
+잇서서는	있어서는	In (older spelling of 있어서는)
+업고	없고	Not having, without (older spelling of 없고)
+하엿다	하였다	Did (older spelling of 하였다)
+식히여	시켜	Making someone do, ordering (older spelling/form related to 시키다)
+업슴으로	없으므로	Because there isn't/wasn't (older spelling of 없으므로)
+놉히여	높여	Raising, increasing (older spelling of 높여)
+늣기고	느끼고	Feeling, sensing (older spelling of 느끼고)
+가티	같이	Like, as, together with (older spelling of 같이)
+밧게	밖에	Only, outside of (older spelling of 밖에)
+떠러지고	떨어지고	Falling, dropping (older spelling of 떨어지고)
+잇스니	있으니	Because there is/are (older spelling of 있으니)
+만하야	많아서	Because there are many (older spelling/form of 많아서)
+만햇스나	많았으나	Although there were many (older spelling of 많았으나)
+만혼	많은	Numerous, many (context suggests this meaning for 만혼 used with 소작인)
+
+
+---------------------------
+
+
+잡지명	삼천리 제15호
+발행일	1931년 05월 01일
+기사제목	朝鮮土地兼倂의 趨勢, 現下 朝鮮農村의 硏究
+필자	韓長庚
+기사형태	논설
+
+朝鮮土地兼倂의 趨勢, 現下 朝鮮農村의 硏究
+						韓長庚
+一. 耕地分配의 不公平
+朝鮮의 土地는 古代에 잇서서는 모다 國有로 되고 人民은 耕作者로서 政府로부터 耕地의 分配를 受하고 收穫物로써 租稅를 納入하엿다. 따라서 이 時代에는 地主라는 者도 업고 小作人이라는 者도 업고 家口數에 의하야 또는 勞働力에 應하야 마음대로 土地를 耕作할수 잇섯고 人口稠密한 處의 農民을 稀薄한 處로 移植하야 人口를 調節하고 遊食民에 대하야는 土地를 給하야 强制로 農業에 從事케 하엿다. 그러고 戰爭에서 唯一한 戰勝品은 捕虜인데 그것은 捕虜人을 奴隷나 農奴로 使役하야 荒地에 移植하야 開墾에 從事케 하엿다.
+그러다가 新羅統一 直後에 처음으로 職田의 制度를 設하야 文武百官에 대하야 給料의 代身에 田地로써 주어 그 收租를 먹게 하엇다.
+그리하야 職田을 가진 者는 奴僕을 使役하야 自作農을 하는 外에 尙히 剩餘의 土地가 잇스면 이를 다른 農家에 代耕식히여 그 收穫을 分配하는 일이 잇섯스니 이것이 實로 土地小作의 起源이엿다.
+元來 田制는 甚히 複雜하야 紊亂하기 쉬운 것임으로 그 後에도 田制를 改定하야 家口에 應하야 適當히 分配하니 이것이 곳 丁田法이엿다.
+高廘朝에 이르러서는 墾田의 數를 總括하고 土地의 膏瘠에 의하야 等級을 定하고 賦課를 均平히 하엿스며 職田의 制度를 一層 擴張하야 大小 官職에 附隨하는 役分田 以外에 田紫科라하야 功臣 及 文武官의 遺族에 土地를 給與하되 그 本人이 死亡하거나 또는 一定한 條件이 發生한때에 官家에 返還하게 하고 別로히 公廨田이라 하야 官院百司州縣舘驛에 庄宅을 給하게 하야 田制가 처음으로 具備하엇다. 그러나 中葉 以後에 授田收田의 法이 解弛하야 有官有位有勳者에게 世襲的으로 田地를 附與하엿스니 이것이 卽 土地私有의 發端이다. 따라서 大面積의 土地를 領有한 者는 이를 다른 農家에 耕作케 하게 되야 代耕分益의 方法이 盛行하야 一般的 慣行이 됨에 이르럿다.
+그러나 이 田地私有의 發端은 結局 土地兼倂의 弊를 釀成하야 國家의 良田이 大槪 權門貴族의 私有에 歸하고 公田이 次次 減小되엿슴으로 政府는 國帑의 不足을 補充하기 위하야 租稅를 놉히여 人民을 괴롭게 하고 一邊으로 權家豪族의 輩는 서로 田地를 占奪하야 爭訟이 쉬지 안하고 高麗朝 末葉에 이르러서는 弊害가 百出하야 到底히 收拾치 못할 狀態에 빠젓다.
+이때에 李太祖는 私田의 廢止와 賦歛의 均平을 主唱하야＜17＞ 政府로 하야곰 田籍을 燒棄케 하엿슴으로 民心이 翕然히 李太祖에게 響應하야 李氏得國의 原動力이 實로 여긔에 잇섯든 것이다. 그러나 李氏 得國後에 永年 傳來하든 慣例는 一朝에 改革키 어려울 뿐 아니라 王室을 擁護케 할 政策上 新舊權門貴族의 私田을 奪還함은 王室에 不利할 것을 늣기고 私田의 廢止를 斷念하고 오즉 土地測量, 租稅整理로써 結局을 告하엿다. 그 結果로 私田의 耕作者는 一般公田과 가티 國租를 負擔하는 外에 從來의 田主에 대하야 小作料를 上納하게 되여 事實上 田地의 私有와 小作의 慣行은 高麗朝와 조곰도 다름이 업시 一般으로 公行하엿다. 李太祖의 主唱한 所謂 私田廢止論은 그때의 民心을 收攬하고 國家를 빼앗는 한 手段에 不過하엿든 것이다.
+이와 가티 하야 國家의 官吏와 地方의 强族은 勢力을 밋고 더욱 田地를 穫得하야 地主가 되고 細民은 小作人이 되야 이에 主從 上下階級의 關係를 生하야 今日에 及하엿든 것이다.
+耕地는 總面積이 4,607,632 町步(1928년末 現在)이요 畓 1,614,726町步, 田 2,992,906町步이며 이것을 國有와 民有로 區別하면 다음과 갓다.
+국 유 지  / 민 유 지
+畓 33,405町 / 畓 1,581,311町
+田 56,380町 / 田 2,936,526町
+計 89,785町 / 計 4,517,847町
+國有地는 總耕地面積의 약 2%에 當하고 그 大部分은 元來 驛屯土어엿다. 驛屯土는 宮庄土, 驛土及屯土의 總稱이니 驛土는 高麗朝부터 公文書의 遞傳과 公務로 因한 旅行官吏를 위하야 各道에 驛站을 設하고 驛에 馬匹을 配置하고 驛土의 收穫으로써 그 費用에 充用하엿스며 屯土는 國家의 警備를 위하야 戍卒을 置하고 그 耕食에 充當한 土地이다. 이 制度는 1894년에 廢止되고 土地는 國有地로 編入되엿다. 驛屯土는 平坦膏腴의 地에 잇서 廣濶한 區域을 占據하고 15만 9백餘人의 만혼 小作人을 가지고 잇다. 驛屯土는 처음에는 只今보다 훨신 만햇스나 약 1萬町步는 東洋拓殖會社에 貸付하야 日本人 移民의 用에 供하엿고 그 大部分은 1920년 以來 年年償還의 方法에 의하야 現小作人에게 賣渡契約을 하고 잇다.
+民有地의 分配狀況은 適切한 資料가 업고 納稅義務者 面積別人員表에 의하면 다음과 갓다. (1928년末 現在)＜18＞
+비고 이 조사는 面을 단위로 하야 집계한 것이므로 同一人으로서 二面 이상에 亙하야 납세를 有한 자는 인원수가 중복되야 실제의 土地所有者數와 상이하다.
+
+토지의 자작소작의 別(1929년말 현재)
+(이외에 토지대장에 등록되지 않은 경지의 추측면적이 畓 16,598町.  446,758町.  火田 176,762町.  합계 240,118町이 잇다.)
+
+농가 계급별(1929년말 현재)
+지주 104,502호
+자작농 507,384
+반소작농 885,597
+소작농 1,283,417
+純火田民 34,337
+계 2,815,277
+
+이것을 다시 세분하여 보면 다음과 갓다.(1929년 조사가 업슴으로 1925년 9월말 조사표에 의함.)
+비고 조선내의 통계 더구나 농촌통계에 잇서서는＜19＞ 대개 面書記 及 區長들의 손에서 모집된 數字인 바 그들의 거의 전부가 통계조사에 대한 素養이 업슬 뿐만 아니라 그 조사방식에 잇서서도 추측 억측으로 數字를 기입한 것임으로 그 통계에는 杜撰, 錯誤, 허위가 만하야 數字의 相違가 만케 되는 것이다.
+이제 地主總數 104,502戶 中에서 5町步 未滿의 小地主와 1町步 未滿의 細地主의 數 約 9萬戶를 除하고 小作地 總面積에서 5町 未滿의 中小地主의 所有面積을 最大限度로 推算하야 약 25만町步를 除하고 보면 結局 3만 未滿의 大中地主가 小作地 270만餘 町를 占領하게 되야 1戶平均 70餘 町步에 當하야 全農家의 1.1% 弱되는 極少數의 地主로서 全耕地의 50%를 가지고 잇스며 自作地 197萬 町步가 自作農 及 半小作農의 139萬餘 戶에 分配되야 1戶 平均 1町4段 밧게 되지 안한다. 그러고 農家 1戶 平均人口가 약 5人으로 一家政을 經營함에 中等田畓을 合하야 最少限度 1町 78段의 耕地의 自作을 必要로 하는 바 3町 以上을 耕作하는 94,543戶의 大自作農과 2町 內外를 耕作하는 179,016戶의 中自作農과 3町步 以上을 耕作하는 98,628戶의 大半小作農의 合計 37만 2천 1백餘戶를 除하고는 2백 2십 4만 4천 4백여의 小農細農은 모다 最少限度의 耕地에 未滿하는 者이다.
+다시 이것을 各 道別로 보면 다음과 갓다.(1928년末 現在)
+
+경지의 지방분포 상황(1928년말)
+비고 火田 及 土地未登錄 推測 耕地를 除함.
+이 각 道別의 평균을 보더라도 충북, 충남, 전북, 전남, 경북, 경남의 6道는 원래 경지가 부족하야 도저히 현재의 農家를 수용할 수 업는 형편이다. 더구나 농촌인구는 그 地帶를 따라 疏密의 差가 현격하니 1929년말 조사에 의하면 다음과 갓다.
+
+平野地, 鐵道沿線地, 沼河地는 地味가 비옥하야 거의 대부분이 소작지로 되여 잇고 따라서 인구가 세밀하고 경지가 부족하야 소작농의 平均小作反別은 다음과 갓다. ＜20＞
+
+소작농은 收穫物의 半分 未滿을 차지하는 관계로 서북지방의 大農의 일부를 除하고는 모다 최소한도의 경지에 未滿하야 농가생활이 근본으로부터 XX되여 있다.
+다시 自作小作의 분포상태의 백분비를 보면 다음과 갓다.(1928년말 현재)
+
+그러고 소작농 及 자작농의 분포상태의 백분비는 다음과 갓다.(1928년말 현재)
+
+二. 土地兼倂의 趨向
+農民의 貧富의 差가 더욱 懸隔하고 資本家의 손이 더욱 펴짐을 따라 土地兼倂의 趨向은 加速度로 進展하여 간다.
+
+耕地의 推移狀況
+
+農家階級의 推移狀況
+비고 이 통계 중의 地主는 소유지 전부를 小作으로 주는 자를 甲地主라 하고 소유지의 일부는 소작으로 주고 일부는 자작하는 자를 乙지주라고 하엿는데 甲지주 중에도 一町 미만의 細지주가 잇고 乙지주 중에도 수십 町步의 대지주가 잇스니 이 통계의 地主數는 신빙할 수 업고 결국 지주라고 稱할 자는 20町 이상 소유자 6천호 내외 밧게 되지 안한다.
+
+前後 12年間에 耕地의 總面積에 잇서서 50,024 町步가 增加되엇스나 田은 도로혀 14,434町步가 減少되고 畓이 64,458 町步가 增加된 것은 水利組合의 設置된 까닭이다. 畓은 이와 가치 增加되엇스되 自作畓의 增加는 겨우 1천3백4십2 町步밧게 되지 안하고 小作畓이 6만3천백12町步가 增加된 것은 水利組合의 設置로 因하야 自作田의 畓된 者가 거의 全部가 小作畓으로 넘어간 까닭일 것이다. 그리고 自作地는 田畓을 合하야 182,045 町 卽 9%가 減少되고 小作地는 322,065 町 卽 11%가 增加되야 土地兼倂의 趨勢가 얼마나 急激함을 알 수 잇스며 小作地 面積은 이와 가치 增加하되 地主의 數는 1927년 以來 漸次로 減少되며 그 중에도 甲地主가 增加하고 乙地主가 減少되는 것을 보아 乙地主도 沒落過程에 잇고 乙土地는 大地主에게 兼倂됨을 알수 잇다.
+연   도  /   1927년  /  1928년
+乙地主의 數 /  84,359人 /  83,824人
+그러고 小地主自作農, 半小作農의 破滅로 因하야 金融機關에 抵當한 土地는 그 借金을 返濟할 힘이 업슴으로 結局 金融機關의 所有로 넘어갈 것이오 水利組合 區內의 土地가 亦是 組合費 不納으로 因하야 殖産이나 東拓에 넘어가게 될 것이니 鐵原中央水利組合 區內의 土地가 벌서 300餘 町步가 水組에 넘어간 것이 이를＜22＞ 證明한다. 今後 農民이 더욱 破滅됨을 따라 土地兼倂이 急速度로 늘어가는 同時에 金融 大地主가 出現하게 될 것이다.
+農家階級에 잇서서는 自作農이 15,928戶 卽 3‰가 減少되고 半小作農은 158,239戶 卽 15%가 減少되고 小作農은 279,644戶 卽 28%로 大激增하엿다. 自作農은 半小作農으로 떠러지고 半小作農은 純小作農 또는 純火田民으로 떠러저 急轉直下로 沒落의 길을 향하고 잇다. 그려고 農家戶數는 그 數字로는 年年 增加하나 總戶數에 대한 比例로는 1916년 以來 漸次 減退하고 잇다.
+勿論 여러 가지의 原因이 잇겟스나 그 가장 主要한 者는 우리가 日常 目睹한 農民의 境外流離와 工場勞働者 及 自由勞働者로 都市에 集中하는 까닭이다. 12년간의 耕地面積의 增加가 5만餘 町步에 達하나 自作地는 도로혀 減少되는 것을 보아 新拓한 耕地는 모다 土地資本家의 耕地擴張 部分으로 들어가는 것이 確實하며 一方으로 住宅工場鐵道 及 道路 等 用地에 潰滅되는 面積도 적지 아니하야 實際 耕作者인 農民은 더욱 土地의 不足을 늣기게 된다. 그러고 朝鮮의 耕地를 蠶X하야 土地兼倂의 弊를 더욱 助長하는 者는 移民과 農場의 增加이다.
+日本人은 距今 50여년 전부터 朝鮮의 農土에 着眼하고 土地를 購入하야 1879년에 黃海道 殷栗에 富田農場이 創立(朝鮮總督府編纂한 朝鮮農業에 의함)됨을 비롯하야 1881년에 全南 麗水에 高瀨農場이 創立되고 그후 朝鮮에 渡來하야 農場을 經營하는 者 漸增하야 乙巳保護條約이 締結된 후에는 洪水가 치밀려들어 氣候가 溫和하고 交通이 便利한 南鮮地方에 蝟集하게 되엿다.
+移民 중에는 自由移民과 保護移民이 잇스니 그 數는 10,338戶(1929년末 現在)로 主로 三南 及 京畿 黃海地方에 密集하여 잇다.
+
+保護移民
+東洋拓殖會社은 朝鮮에 日本人 移植事業을 使命으로 하야 創立된 會社로서 1910년에 第1回 移民募集을 하고 爾來 年年 數百戶의 日本人을 移植하야 1929년末 現在에 3,990戶에 達한다. 募集移民에 2種이 잇스니 第1種은 1戶當 2町步 以內의 耕地를 割與하고 그 土地代金은 年6分 利子로 하야 25個年에 年賦償選케 하고 第2種은 10町步 以內의 耕地를 割與하야 土地引渡의 際에 代金의 4分 1을 納入하고 殘金은 年7分 利子로 15個年에 年賦償還케 하는 것이다. 그후 1922년에 第1種 移民을 廢止하고 第2種 移民만을 收容하기로 하고 1戶當 5町步 以內의 耕地를 割與하여 오든 바 1928년 以後에 第2種 移民募集도 廢止하엿다. 東拓의 所有地는 大槪 地味가 肥沃하고 水旱災의 憂慮가 적으며 交通이 便利한 地帶를 選定하엿스며 日本人 1戶의 移民은 朝鮮農家의 2戶 乃至 10戶의 失農 流離하는 結果를 生하게 됨으로 朝鮮農家의 X府가 되어 잇다.
+
+東拓 所有地 面積
+耕地 中 8,458 町步는 1922년에 移民에게 讓渡하고 1926년末 現在에 90,462 町步의 巨大한 面積에 達한다.
+그러고 各 道別 面積은 다음과 갓다.(1926년 9월 現在)＜23＞
+비고 段位에서 四捨五入하엿슴으로 각 도별 면적과 합계 면적이 부합되지 안는 것이 잇다. 이외에 경기, 경북, 강원, 함북, 황해의 각 道에 산림경영 면적이 79,028 町步가 잇고 전남과 경남에 竹林경영 면적이 278 町步가 잇다.
+
+不二農村産業組合(前不二興業會社)은 全北 沃溝郡 米面에 잇는 干拓地 1,800 町步를 作畓하야 333戶의 日本人을 移植할 計劃으로 1929년까지에 251戶를 移植하고 1戶에 畓3 町步와 田及宅地一段步 及 住宅을 給與하고 그 代金은 20個年 年賦로 償還케 하는 方法을 取하고 잇다.
+平康産業組合은 江原道 平康에 畓 87町餘 田 303町餘 林野 107町餘를 買受하야 100戶 收客의 豫定으로 1929년짜지에 43戶를 移植하고 1戶에 畓 2町 5段 田 2町 5段를 割與하고 拓務省으로부터 1戶 300圓의 移住獎勵 補助費를 給與하고 朝鮮總督府로부터 土地買收費 住宅建築費 등의 低利資金의 融通을 受하고 21個年 年賦로 償還케 하고 잇다.
+
+自由移民
+三南의 沃野를 비롯하야 全朝鮮의 平野地帶에는 日本人의 들어가지 안한 곳이 업고 土地占有의 面積은 해마다 增加하고 잇다. 1928년末 現在에 所有面積은 畓 14만 5천餘町步 田 7만8천餘町步 其他 4만餘町步 管理地 3만餘町步 合計 29만 8천餘町步에 達하고 30町 以上 所有者 及 管理者의 各 道別 數는 다음과 갓다.(1929년7월現在)
+(以下次號續)＜24＞
+＜17-24＞

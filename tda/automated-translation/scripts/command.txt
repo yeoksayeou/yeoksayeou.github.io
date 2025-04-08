@@ -1,0 +1,6 @@
+for f in $(seq -w 10 10 480); do echo "Now doing $f"; (cat "../01호 1920.06/$f.txt" | llm "$(cat prompt.txt)"; echo -e "\n\n---------------------------\n\n"; cat "../01호 1920.06/$f.txt") > "./01호 1920.06/$f.txt"; done
+
+
+(cat "../1/170.txt" | llm "$(cat prompt.txt)"; echo -e "\n\n---------------------------\n\n"; cat "../1/170.txt") > "./170.txt"
+
+for f in $(seq -w 10 10 190); do echo "Now doing $f"; (cat "../1/$f.txt" | llm "$(cat prompt2.txt)" ) > "sum/$f.txt"; done

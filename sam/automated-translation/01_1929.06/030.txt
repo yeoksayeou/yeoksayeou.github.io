@@ -1,0 +1,75 @@
+Magazine Title: 삼천리 제1호
+Publication Date: 1929년 06월 12일
+Article Title: 眞書와 原書 (True Books and Original Books)
+Author: 東京에서 薛義植 (Sŏl Ŭi-sik from Tokyo)
+Article Type: 세태비평 (Social Commentary)
+
+True Books and Original Books
+						By Sŏl Ŭi-sik from Tokyo
+
+In Chosŏn, they call Chinese written texts *Chinso* (眞書, True Books). In Japan, they call Western-language books *Gensho* (原書, Original Books). Across the Hyŏnhae Strait (玄海), these are indeed interesting parallel phrases.
+
+I do not know which great Confucian scholar (碩儒) created the term *Chinso*, but it must have coincided with the thorough ideology of *sadae* (사대사상, serving the great) since at least the Yi Dynasty (이조). Calling one's own script *Ŏnsŏ* (諺書, vernacular script) or "dog script," referring to it as *Sokcha Ŏnhae* (俗字 諺解, vernacular explanation using vulgar characters), stating it was merely for "Clearly conveying earnest entreaties" (宣當懇吐之用), and deeming it the "Writing of village women and children" (閭菤兒女之文) – if you boil down the culture of the several hundred years of the Yi Dynasty, it becomes the five characters: "True Books are Chinese texts" (眞書는 한문). The sagely kings and virtuous ministers did this, the high officials and state councillors did this, the functionaries and supervisors did this, and the scholar-officials and commoners did this; licking others' soles again and again until, strength and energy utterly depleted (氣盡力盡), they collapsed – that was the end of Chosŏn.
+
+I do not know which scholar initiated the term *Gensho*, but it must have coincided with the fervent Europeanizationism (歐化主義) since at least the Meiji (明治) era. Translating politics and economics, translating "rich country, strong army," translating rites, music, customs, and habits, translating techniques, mathematics, skills, and arts – if you bundle together the culture of the sixty years of the Restoration (維新), it becomes the five characters: "Original Books are Western texts" (原書는 歐文). High and low, old and young did this, near and far, capital and countryside did this; gazing only westward again and again until they reached an impasse (行詰) and are now floundering – that is the current state here [in Japan].
+
+Chosŏn has also awakened. Thus, it has realized that Chinese texts alone are not "True Books." Japan has also awakened. Thus, it has come to realize that Western texts alone are not "Original Books." However, the ingrained habit (固習) of revering and calling them *Chinso*, *Chinso*, and the energy spent admiring and calling them *Gensho*, *Gensho*, ultimately just lead to oneself and others indifferently and unconsciously continuing to say "Chinso, Chinso" and "Gensho, Gensho."
+
+Historical records (史乘) prove that such is generally the fate of those who lack the consciousness, determination, ideals, and execution for independence and self-reliance (獨立自主) and self-made originality (自作獨創).<4>
+
+**Summary**
+
+The author, Sŏl Ŭi-sik, writing from Tokyo, critiques the subservient mentalities prevalent in both Korea and Japan. He parallels Korea's historical reverence for Chinese classical texts ("True Books" - 眞書) stemming from its *sadae* ideology with Japan's modern admiration for Western texts ("Original Books" - 原書) resulting from its drive for Meiji-era Westernization. He argues that while both nations are beginning to realize the limitations of these perspectives, the deeply ingrained habits of deference persist, hindering true independence and originality. For historians, this article is interesting as it offers a Korean intellectual's comparative critique from within Japan during the colonial period. It highlights the shared challenge perceived in East Asia of overcoming cultural deference (to China or the West) and forging an independent identity, reflecting anxieties about cultural authenticity and self-determination amidst modernization and colonial dynamics.
+
+**Named Entities**
+
+조선	조선	Chosŏn
+일본	일본	Ilbon (Japan)
+玄海	현해	Hyŏnhae (Genkai Sea)
+이조	이조	Yi Cho (Yi Dynasty)
+明治	명치	Meiji
+東京	동경	Tokyo
+薛義植	설의식	Sŏl Ŭi-sik
+
+**Glossary**
+
+眞書	진서	True Book (term for Chinese classics in old Korea)
+原書	원서	Original Book (term for Western books in Japan, also used in Korea later)
+歐文冊子	구문책자	Western-language booklet/book
+玄海	현해	Hyŏnhae (Korean name for the Genkai Sea between Korea and Japan)
+碩儒	석유	Great Confucian scholar
+사대사상	사대사상	Ideology/thought of 'serving the great' (historically, China)
+諺書	언서	Vernacular script (referring to Hangul, often pejoratively)
+諺解	언해	Vernacular explanation/translation (using Hangul)
+歐化主義	구화주의	Europeanization-ism / Westernization-ism
+維新	유신	Restoration (referring to the Meiji Restoration)
+固習	고습	Ingrained habit; deep-rooted custom
+欽仰	흠앙	To admire; to look up to; veneration
+獨立自主	독립자주	Independence and self-reliance/autonomy
+自作獨創	자작독창	Self-made originality; creating original works oneself
+史乘	사승	Historical records; annals
+하오	하오	(polite verb ending, older form of modern 해요)
+잇는	있는	(present adjective/verb ending, older spelling of 있는)
+하얏는	하였는	(past adjective/verb ending, older spelling/form of 하였는)
+갓치	같이	Like; as; together with (older spelling of 같이)
+밧삭	바싹	Thoroughly; completely; dried up (older spelling of 바싹)
+업고	없고	Not having; without (older spelling of 없고)
+-e 
+
+---------------------------
+
+
+잡지명	삼천리 제1호
+발행일	1929년 06월 12일
+기사제목	眞書와 原書
+필자	東京에서 薛義植
+기사형태	세태비평
+
+眞書와 原書
+						東京에서 薛義植
+조선서 한문글자를 眞書라고 하오. 일본서 歐文冊子를 原書라고 하오. 玄海를 사이에 두고 미상불 흥미 잇는 聯句의다.
+眞書라는 문구를 어느 碩儒가 창작하얏는 지는 모르거니와 적어도 이조 이래의 철저한 사대사상과 때를 갓치 하엿슬 것이오. 제 글을 『諺書 개글』이라 하고 『俗字 諺解』라 하고 『宣當懇吐之用』이며 『閭菤兒女之文』이라고 한 李朝累百年間의 문화를 밧삭 줄이면 『眞書는 한문』이란 다섯 글자가 되오. 聖君賢臣이 이리하엿고 公卿大夫가 이리하엿고 有司都監이 이리하엿고 士人庶民이 이리하여 남의 발바닥만 할다가 할다가 氣盡力盡으로 넘어진 것이 조선 末路엿소.
+原書라는 술어를 어느 학자가 주창하얏는 지는 모르거니와 적어도 明治이래의 열광한 歐化主義와 때를 갓치 하엿슬 것이오. 정치경제를 번역하고 부국강병을 번역하고 禮, 樂, 風, 習을 번역하고 術, 數, 技, 藝를 번역한 維新 육십년간의 문화를 한데 뭉치면 『原書는 歐文』이란 다섯 글자가 되오. 上下老少가 이리하엿고 遠近都鄙가 이리하여 서쪽만 처다보다가 보다가 『行詰』하여 허둥거리는 것이 이곳의 현상이오.
+조선도 깨엿소. 그래서 한문만이 『眞書』가 아닌 것을 알앗소. 일본도 깨엿소. 그래서 歐文만이 『原書』가 아닌 것을 알게 되엿소. 그러나 眞書眞書하고 推載하여 온 固習과 原書原書하고 欽仰하여온 정력은 맛츰내 그저 『眞書眞書』라하고 『原書原書』하기에 자타가 無不識無關心이오.
+독립자주와 자작 독창의 의식이 업고 각오가 업고 이상이 업고 실행이 업는 자의 말로는 대개 이러함을 史乘이 증명하오.＜4＞
+＜4＞

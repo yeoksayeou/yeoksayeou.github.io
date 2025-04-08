@@ -1,0 +1,46 @@
+Magazine Title: 三千理 제7권 제3호
+Publication Date: 1935년 03월 01일
+Article Title: 名作選集에 對하야 (Regarding the Collection of Masterpieces)
+Author: Unspecified (likely editorial staff)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Regarding the Collection of Masterpieces
+
+The "Collection of Masterpieces" (名作選), which gathered and specially featured masterpieces from the Peninsula's (半島) literary world of the past 20 years in this magazine's New Year issue and this March issue, has received激讚 (great praise) from the Peninsula's readership. However, unfortunately, among the writers requested by our company, there were several individuals (數氏) who did not consent and were thus omitted, which was regrettable. Furthermore, due to page count limitations, several other writers (數氏) were also omitted, for which we feel quite sorry.<185>
+
+**Summary**
+
+This editorial postscript from the March 1935 issue of *Samch'ŏlli* magazine addresses the reception and editorial choices behind their special feature, "Collection of Masterpieces," which showcased 20 years of Korean literature. While noting the feature's positive reception, the editors express regret that some requested authors declined participation and others had to be omitted due to space constraints. For historians, this brief note is interesting as it reflects the active literary scene and efforts to canonize Korean works during the colonial period. The mention of authors declining participation could hint at various underlying reasons, possibly including political sensitivities or disagreements with the magazine's editorial direction, offering a small window into the complexities faced by writers and publishers under Japanese rule.
+
+**Named Entities**
+
+半島	반도	Pando
+
+**Glossary**
+
+對하야	대하여	Regarding, concerning (older spelling/form of 대하여)
+본지	본지	This magazine
+신년호	신년호	New Year issue
+밧은	받은	Received (older spelling of 받은)
+바어니와	바이거니와	Although it was the case that... (older grammatical form)
+請한	청한	Requested
+應諾치 안은	응낙지 않은	Did not consent (older form of 응낙하지 않은)
+數氏	수씨	Several persons/individuals (honorific)
+잇서	있어	Being, existing (older spelling of 있어)
+遺感	유감	Regret
+枚數	매수	Number of pages/sheets
+省略한	생략한	Omitted
+되엇슴니다	되었습니다	It became; it is (older spelling/form of 되었습니다)
+激讚	격찬	High praise, acclamation
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제3호
+발행일	1935년 03월 01일
+기사제목	名作選集에 對하야
+기사형태	사고·편집후기
+
+名作選集에 對하야
+본지 신년호와 이번 3월호에 半島文壇 20年來의 명작을 모다 수집하야 특집한 「名作選」은 半島 독자 사회의 激讚을 밧은 바어니와 그런데 불행히 본사로부터, 請한 작가 중 應諾치 안은 數氏가 잇서 빠지게 된 것은 遺感이엇고, 또한 枚數 관계로 省略한 작가 數氏도 잇서, 모다 미안하게 되엇슴니다.<185>

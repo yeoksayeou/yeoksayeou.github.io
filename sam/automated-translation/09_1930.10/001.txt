@@ -1,0 +1,59 @@
+**Header Section:**
+Magazine Title: 三千里
+Publication Date: 1930년 10월 01일
+Article Title: 感謝와 謝罪 (Thanks and Apology)
+Author: Not specified (likely editorial staff)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation:**
+Thanks and Apology
+
+○ We are grateful that the brethren of the Peninsula (半島兄弟) love this journal so much. From now on, we intend to publish monthly and also enrich the content to repay even a fraction of your patronage.
+
+○ An Chaehong's "Paektusan Journey" (白頭山行), Yi Kwangsu's "The Scent of Life" (人生의 香氣), Chŏkku's "Our Poems," and Ansŏ's "Four Poems for Diversion" (消遺四首) were all typeset, but due to page limitations, they have been pushed to the next issue.
+
+○ Yi Kwangsu's "Wife of a Revolutionary" (革命家의안해) and Pak Yŏnghŭi's "Collection of Novels and Criticism" (小說, 評論集) are currently on sale amidst fervent acclaim. Please read them often. Bad books are not sold by our company. (End)
+
+**Summary**
+
+This editorial note expresses gratitude to readers for their support of the magazine *Samch'ŏlli* and announces the intention to publish monthly with improved content. It apologizes for delaying the publication of several planned articles by prominent writers like An Chaehong and Yi Kwangsu due to space constraints. It also promotes recently published books by Yi Kwangsu and Pak Yŏnghŭi, assuring readers of their quality. From a historical perspective, this brief note reveals the operational challenges (page limits forcing content delays) faced by Korean magazines during the colonial period, while also highlighting the active literary scene, featuring major figures like Yi Kwangsu and An Chaehong, and the magazine's role in promoting their works. The mention of "Peninsula brethren" underscores a sense of national identity among the readership.
+
+**Named Entities**
+
+安在鴻	안재홍	An Chaehong
+白頭山行	백두산행	Paektusan haeng
+李光洙	이광수	Yi Kwangsu
+人生의 香氣	인생의 향기	Insaeng ŭi hyanggi
+赤駒	적구	Chŏkku
+岸曙	안서	Ansŏ
+消遺四首	소유사수	So'yu sasu
+革命家의안해	혁명가의 아내	Hyŏngmyŏngga ŭi anhae
+朴英熙	박영희	Pak Yŏnghŭi
+小說, 評論集	소설, 평론집	Sosŏl, p'yŏngnonjip
+本社	본사	Pon sa (Our Company/Main Office)
+
+**Glossary**
+
+本誌	본지	This magazine
+半島兄弟	반도 형제	Brethren of the Peninsula (referring to Koreans)
+하외다	합니다	(archaic/formal) do; does (present tense declarative ending)
+압흐로	앞으로	From now on; in the future (older spelling)
+	또	Also; too (older spelling)
+하야	하여	(older spelling/form) do so that; and
+萬一	만일	Even one ten-thousandth; even a fraction (used here to mean repaying even a small part of the kindness)
+版지	판까지	Up to the printing plate; typeset (지 is an older spelling of 까지)
+노코	짜놓고	Having typeset/arranged (older spelling/form of 짜놓고)
+頁數關係
+
+---------------------------
+
+
+잡지명	삼천리 제9호
+발행일	1930년 10월 01일
+기사제목	感謝와 謝罪
+기사형태	사고·편집후기
+
+感謝와 謝罪
+○本誌를 半島兄弟가 이처럼 사랑하여 주시니 感謝하외다, 압흐로는 每月마다 發行하고  內容을 充實히 하야 愛護의 萬一에 報答하려함니다
+○安在鴻氏의 「白頭山行」과 李光洙氏의 「人生의 香氣」와 赤駒의 우리들의 詩와 岸曙의 消遺四首는모다 版지 노코 그만 頁數關係로 來號에 밀렷슴니다
+○李光洙氏의 「革命家의안해」와 朴英熙氏의 「小說, 評論集」은 熱熱한 歡呼裡에 發賣中이외다 만히 보아주시압낫분 冊은 本社에서 發賣치안습니다(파인)

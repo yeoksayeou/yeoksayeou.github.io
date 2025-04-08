@@ -1,0 +1,99 @@
+Magazine Title: 每日申報 (Maeil Sinbo)
+Publication Date: 1936 May 28
+Article Title: 朝鮮의榮養 (Chosŏn ŭi Yŏngyang) (Nutrition in Korea)
+Author: 京城醫專 兒科敎授 室永供一 (Kyŏngsŏng Medical College Pediatrics Professor Muronaga Kōichi)
+Article Type: 學術·隨筆 (Haksul · Sup'il) (Academic Essay/Notes)
+
+<5>
+**Nutrition in Korea**
+
+By Muronaga Kōichi, Professor of Pediatrics, Kyŏngsŏng Medical College
+
+**Introduction**
+
+Nutrition issues are not only problems for medical science but also profound issues related to social welfare and even national development. Especially in colonies, the nutritional status of the indigenous people is directly linked to colonial management and cultural policies. However, research on the nutritional status of Koreans has been remarkably scarce until now. While there have been fragmentary studies by individuals, comprehensive and systematic research has been lacking. This is truly regrettable for the development of medicine in Korea and for the establishment of cultural policies. Fortunately, in recent years, interest in this area has gradually increased, and various studies are beginning to emerge. This is a truly encouraging phenomenon for Korea. I have been conducting research on the nutritional status of Korean infants and children for several years, and although my research is still insufficient, I would like to briefly introduce some of my findings along with related literature, hoping to contribute to future research and practical application.
+
+**1. Physique of Koreans**
+
+The physique is the most direct indicator of nutritional status. Let's look at the physique of Koreans. According to research by Professor Kubo (久保) of Kyūshū Imperial University on the physical measurements of Korean adults, the average height is 161.1 cm for males and 149.3 cm for females, and the average weight is 54.8 kg for males and 47.9 kg for females. Comparing this to Japanese (average of various measurements), Korean males are about 2 cm taller and 1 kg heavier, while Korean females are about 1 cm taller and 1 kg heavier. Thus, Koreans are generally slightly larger than Japanese.
+
+Now let's look at the physique of infants and children. According to my measurements of infants and children visiting the pediatric outpatient clinic of Kyŏngsŏng Medical College Hospital, the average physique from birth to school age is generally superior to that of Japanese children (based on Ministry of Education statistics and Mishima's (三島) statistics). For example, the average birth weight of Korean newborns is 3.12 kg for males and 3.05 kg for females, which is about 100g heavier than Japanese newborns (average of various statistics). Also, looking at the physique of school children based on the physical examination statistics of elementary school children in Kyŏngsŏng-bu (京城府), Korean children are significantly superior to Japanese children in both height and weight across all age groups.
+
+From these facts, we can see that the physique of Koreans, from infants to adults, is generally superior to that of Japanese. Does this mean that the nutritional status of Koreans is also superior to that of Japanese? The physique is certainly influenced by nutrition, but it is also largely determined by inherent racial factors. Therefore, we cannot conclude that Koreans are better nourished than Japanese simply based on their superior physique. However, it is an undeniable fact that the physique of Koreans is by no means inferior to that of Japanese.
+
+**2. Diet of Koreans**
+
+Next, let's examine the diet of Koreans, which is the most important factor determining nutritional status. The staple food of Koreans is rice, similar to Japanese, but they consume a much larger amount of grains. According to Dr. Scheube's (シヱーベ) research, the daily grain intake per adult Korean is about 760g, which is considerably higher than the Japanese average of about 540g. In addition to rice, they also consume millet, barley, sorghum, etc. The subsidiary foods mainly consist of vegetables, and meat consumption is extremely low. Kimchi (김치), made by pickling various vegetables like Chinese cabbage and radish with salt and red pepper, is an indispensable side dish for Koreans at every meal. They also consume various soups (국) made with vegetables, seaweed, etc. Fish is also consumed, but the amount is not large.
+
+Regarding the nutritional components of the Korean diet, according to analyses by Saiki (齋木) et al., the protein intake is sufficient, but the fat intake is extremely low. The ratio of carbohydrates is excessively high. Among minerals, calcium intake is particularly deficient. As for vitamins, Vitamin A and C intake seems relatively sufficient due to the consumption of kimchi and other vegetables, but Vitamin B1 intake is likely insufficient because they consume polished rice.
+
+Let's look at the diet of infants. Breastfeeding is common in Korea, and the breastfeeding rate is very high. According to my survey at the pediatric outpatient clinic, over 90% of infants under one year old are breastfed. The breastfeeding period is also generally long, often extending to 2-3 years of age. However, supplementary feeding is often inadequate. Starting supplementary food is delayed, and the content is often just rice gruel or soup, lacking sufficient protein, fat, vitamins, and minerals. This inadequate supplementary feeding is likely a major cause of nutritional deficiencies in Korean infants and young children.
+
+Recently, the consumption of cow's milk and dairy products has gradually increased in urban areas, but it is still very limited overall. Artificial feeding using cow's milk is rare, and even when practiced, it is often done improperly, leading to nutritional disorders.
+
+**3. Nutritional Status of Koreans**
+
+Based on the physique and diet discussed above, what can we say about the nutritional status of Koreans? As mentioned earlier, the physique of Koreans is generally good. However, their diet has several deficiencies, particularly insufficient intake of fat, calcium, and Vitamin B1, and inadequate supplementary feeding for infants. Therefore, it is presumed that the nutritional status of Koreans is not necessarily optimal.
+
+Various nutritional deficiency diseases are observed in Koreans. Beriberi (脚氣), presumably due to Vitamin B1 deficiency, is quite common among adults who consume polished rice. Infant beriberi (乳兒脚氣) is also frequently seen in breastfed infants whose mothers have beriberi. Pellagra-like skin symptoms are also sometimes observed, suggesting potential niacin deficiency. Calcium deficiency likely contributes to the prevalence of dental caries (蟲齒) and potentially affects bone development, although pronounced rickets (佝僂病) is rare. Anemia (貧血) is also common, especially among infants and pregnant women, likely due to iron deficiency combined with other nutritional factors.
+
+Although the physique is generally good, these nutritional deficiencies indicate that the qualitative aspect of nutrition is problematic. Improving the quality of the diet, especially increasing the intake of fat, calcium, and Vitamin B1, and promoting appropriate supplementary feeding for infants, are crucial tasks for enhancing the nutritional status of Koreans.
+
+**Conclusion**
+
+The nutritional status of Koreans presents a mixed picture. While their physique is generally comparable or superior to Japanese, their traditional diet has qualitative deficiencies, leading to various nutritional deficiency diseases. Particularly, inadequate supplementary feeding for infants is a serious concern. Improving the Korean diet requires education and guidance on balanced nutrition, promotion of consuming subsidiary foods rich in essential nutrients, and proper infant feeding practices. Enhancing the nutritional status of the Korean people is not merely a medical issue but a vital foundation for the development of Korea under Imperial rule. Further research and practical efforts in this field are strongly desired.
+
+**Summary**
+
+Professor Muronaga Kōichi discusses the nutritional status of Koreans based on physique, diet, and observed deficiency diseases. He notes that Koreans generally have a physique superior to Japanese but suffer from qualitative dietary issues, including low intake of fat, calcium, and Vitamin B1, and inadequate supplementary feeding for infants, leading to conditions like beriberi and anemia. He emphasizes the need for dietary improvement and education for the overall development of Korea. For historians, this article offers insight into Japanese medical perspectives on Korean health during the colonial period, highlighting both the acknowledgment of Korean physical stature and the identification of dietary deficiencies framed within the context of colonial administration and cultural policy. It reflects contemporary nutritional science and its application (or lack thereof) in a colonial setting, potentially revealing biases or specific focuses related to governance.
+
+**Named Entities**
+
+朝鮮\t조선\tChosŏn
+京城醫專\t경성의전\tKyŏngsŏng Medical College
+室永供一\t무로나가 고이치\tMuronaga Kōichi
+久保\t구보\tKubo
+九州帝大\t규슈제대\tKyūshū Imperial University
+日本\t일본\tJapan
+京城府\t경성부\tKyŏngsŏng-bu
+シヱーベ\t셰베\tScheube
+齋木\t사이키\tSaiki
+三島\t미시마\tMishima
+
+**Glossary**
+
+朝鮮\t조선\tKorea (older term, used during the period)
+榮養\t영양\tNutrition
+隨筆\t수필\tInformal essay, notes
+醫學\t의학\tMedical science
+土人\t토인\tIndigenous people (potentially derogatory term used in colonial contexts)
+植民地\t식민지\tColony
+體格\t체격\tPhysique
+內地人\t내지인\tJapanese people (literally 'mainland people', used in contrast to colonial subjects)
+乳兒\t유아\tInfant
+學齡期\t학령기\tSchool age
+學童\t학동\tSchool children
+食餌\t식이\tDiet
+主食\t주식\tStaple food
+穀物\t곡물\tGrains
+副食物\t부식물\tSubsidiary foods, side dishes
+キムチ\t김치\tKimchi (written in Katakana in the text, indicating it might be treated as a specific Korean term)
+鹽分\t염분\tSalt content
+唐辛子\t당신자\tRed pepper (Gochu)
+蛋白質\t단백질\tProtein
+脂肪\t지방\tFat
+炭水化物\t탄수화물\tCarbohydrates
+石灰\t석회\tCalcium (literally lime, often used for calcium in older texts)
+母乳\t모유\tBreast milk
+補食\t보식\tSupplementary food
+牛乳\t우유\tCow's milk
+脚氣\t각기\tBeriberi
+佝僂病\t구루병\tRickets
+貧血\t빈혈\tAnemia
+蟲齒\t충치\tDental caries, cavities
+
+
+---------------------------
+
+
+

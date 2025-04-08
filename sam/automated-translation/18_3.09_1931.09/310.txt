@@ -1,0 +1,165 @@
+**Header Section:**
+Magazine Title: 삼천리 (三千里)
+Publication Date: 1931-09-01
+Article Title: 米國의 日本暗號盜譯秘錄, 화성돈회의때에 오천장이나, 日本政府는 크게 驚愕中, 米國機密室解剖 (Secret Record of America's Decryption of Japanese Ciphers, 5,000 during the Washington Conference, Japanese Government Greatly Shocked, Exposing America's Cipher Bureau)
+Article Type: 소식 (News/Report)
+
+**Body Text Translation:**
+Secret Record of America's Decryption of Japanese Ciphers, 5,000 during the Washington Conference, Japanese Government Greatly Shocked, Exposing America's Cipher Bureau
+
+"Regarding the issue of arms limitation, the Conference is completely stalled, with no progress whatsoever. The situation is extremely unfavorable to our country."
+This was the final top-secret telegram sent on December 8, 1921, when the Washington Conference was stalled, from Japan's Ambassador Plenipotentiary Katō (加藤) to Foreign Minister Uchida (內田) in Tōkyō (東京).
+
+"America is stubbornly insisting on the Hughes Plan, and Britain (英國) also supports it. If it reaches a point where our position cannot be achieved, reluctantly accept America's ratio."
+This was the instruction telegram from the Japanese government finally approving the 10:6 naval ratio.
+Before this coded telegram reached the hands of the ambassador plenipotentiary, it entered the secret room (긔밀실) within the U.S. Department of War (陸軍省), was translated, and equipped the American plenipotentiary to compel Japan's submission.
+This astonishing fact was recently revealed by Mr. Yardley of America (美國).
+Generally, the institutions that use ciphers the most are the diplomatic missions (外交機關) of various countries. Although they are also used extensively by the army and navy (陸海軍) of each country, unless a war breaks out, there isn't much opportunity for them to be used so critically. However, in the realm of diplomacy, they are extremely important for establishing a country's foreign policy.
+This is especially true during times of international conferences (列國會議). Indeed, looking at diplomatic history (外交史), it was even more intense during events like the Paris Peace Conference (巴里媾和會議) and the Washington Conference (華盛頓會議).
+Therefore, every country has a secret room (긔밀실). In that secret room, telegrams are stolen, and each country's unique cipher is deciphered to be used in formulating their own national policy.
+Diplomatic relations between nations are truly entirely composed of secrets. However, during the Washington Conference, Japan's coded telegrams were entirely decrypted (盜譯) by the secret room within the U.S. Department of War, resulting in the catastrophe of Japan's naval ratio, which they had insisted should be 10:7, falling to 10:6.
+Learning this ten years later, Japan is now astonished and aghast, not knowing what to do. They attack America's inhumane actions, curse America, and are truly in an uproar. Japan's indignation has reached its peak.
+According to the confession of Mr. Yardley (야-드리), who was the head of the secret room (긔밀실), the American government decrypted five thousand Japanese telegrams during the Washington Conference. Even though five thousand messages were leaked, it seems Japan failed to notice it all that time.
+
+What kind of coded telegrams did the Japanese state use? According to Mr. Yardley's (야-도리) explanation, for example, when writing the word 'Independence' (獨立), it comes as:
+a. i ru la n do
+ア イ ル ラ ン ト
+Since Ireland (愛蘭) is now independent, it is interpreted to mean independence, and so forth.
+Mr. Yardley (야-드리) first began translating Japanese telegrams from July 1919. At that time, Japan had submitted the Racial Equality Proposal (人種平等案), which was most disliked by the European powers (歐洲列國), at the Paris Peace Conference. This became a major issue in America, and American newspapers were loudly demanding that Japan return Shandong (山東), which it had received from Germany (德國), to China (中國). America was keen to uncover secret treaties (密約).
+At that time, a large secret room (긔밀실) was established within the Department of War (제 84頁에)<60> and began the task of stealing Japanese ciphers.
+There, there were five sections:
+1. Cipher Compilation (暗號編纂)
+2. Cipher Communication (暗號通信)
+3. Shorthand (速記)
+4. Secret Ink (속임수 「잉크」)<84>
+5. Cipher Decryption (暗號解讀)
+Mr. Yardley (야-드리) was the chief (首領) here.
+
+Why did Mr. Yardley reveal such critical state secrets?
+He was angered because the American government did not fulfill the promises (言質) made to him.
+He published it to the world in a book titled “American Black Chamber”.
+America has stolen and read the coded telegrams of various other countries besides this. Let's continue to look inside the American Secret Room (米國機密室). 【To be continued】<85>
+
+**Summary**
+
+This 1931 article reports on the recent revelation by Herbert Yardley that the American "Black Chamber" (secret cipher bureau) successfully decrypted thousands of secret Japanese diplomatic telegrams during the 1921 Washington Naval Conference. This intelligence coup allowed the US to know Japan's final negotiating position (willingness to accept a 10:6 naval ratio instead of their desired 10:7), forcing Japan into accepting unfavorable terms. The article highlights Japan's current shock and anger upon learning of this decade-old espionage and explains the basic workings of the Black Chamber and Yardley's motive for exposing it (broken government promises). From the perspective of Korean colonial history, this article is interesting as it shows a major power (USA) undermining another major power (Japan, Korea's colonizer) through intelligence operations during a period of shifting international power dynamics relevant to East Asia. It offers a contemporary Korean perspective on an event diminishing Japanese prestige and potentially revealing vulnerabilities of the Japanese state, which might have been read with keen interest by Koreans under Japanese rule.
+
+**Named Entities**
+
+米國	미국	USA
+日本	일본	Japan
+華盛頓會議	화성돈회의	Hwasŏngdon Conference (Washington Conference)
+加藤全權大使	가등전권대사	Ambassador Plenipotentiary Katō
+東京	동경	Tōkyō
+內田外務大臣	내전외무대신	Foreign Minister Uchida
+英國	영국	Britain
+陸軍省	륙군성	Department of War (US) / Army Ministry
+야-도리씨	야-드리씨	Mr. Yardley (Herbert Yardley)
+列國會議	열국희의	International Conference(s)
+巴里媾和會議	파리-강화회의	Paris Peace Conference
+愛蘭	애란	Ireland
+歐洲列國	구라파열국	European Powers
+人種平等案	인종평등안	Racial Equality Proposal
+獨逸	독일	Germany
+山東	산동	Shandong
+中國	증국	China
+
+**Glossary**
+
+暗號	암호	Cipher; code
+盜譯	도역	Decryption (literally 'stolen translation'); deciphering of intercepted messages
+秘錄	비록	Secret record; confidential document
+驚愕	경악	Astonishment; shock; consternation
+機密室	기밀실	Secret room; cipher bureau (older spelling 긔밀실)
+解剖	해부	Dissection; analysis; exposure
+軍備制限	군비제한	Arms limitation
+停頓	정돈	Stall; deadlock; standstill
+全權大使	전권대사	Ambassador Plenipotentiary
+極秘	극비	Top secret; highly confidential
+電報	전보	Telegram
+訓電	훈전	Instruction telegram
+比率	비율	Ratio
+承認	승인	Approval; recognition; acceptance
+不得已	부득이	Unavoidably; reluctantly
+貫徹	관철	Penetration; accomplishment; carrying through (one's point)
+外交機關	외교기관	Diplomatic mission/organization
+陸海軍	육해군	Army and Navy
+列國會議	열국회의	International conference (older spelling 열국희의)
+外交史	외교사	Diplomatic history
+媾和會議	강화회의	Peace conference
+大慘變	대참변	Great disaster; catastrophe
+分慨	분개	Indignation; resentment
+高白	고백	Confession
+漏泄	누설	Leakage; disclosure (older spelling 루설)
+解說	해설	Explanation; commentary
+獨立	독립	Independence
+意味	의미	Meaning; significance
+解析	해석	Analysis; interpretation
+人種平等案	인종평등안	Racial Equality Proposal
+提出	제출	Submission; presentation
+還付	환부	Return; restitution
+密約	밀약	Secret treaty; secret agreement
+編纂	편찬	Compilation
+通信	통신	Communication
+速記	속기	Shorthand; stenography
+解讀	해독	Decryption; decipherment
+首領	수령	Chief; head; leader
+暴露	폭로	Exposure; revelation
+言質	언질	Promise; commitment; pledge
+實行	실행	Execution; implementation; fulfillment (older spelling 실행)
+잇서	있어	Being; existing (older spelling of 있어)
+업다	없다	To not exist; to be lacking (older spelling of 없다)
+밧은	받은	Received (older spelling of 받은)
+증국	중국	China (older pronunciation/spelling)
+씨울	쓰일	To be used (older spelling of 쓰일)
+가튼	같은	Same; like (older spelling of 같은)
+엇절줄	어쩔 줄	What to do (older spelling of 어쩔 줄)
+만타	많다	To be many; much (older spelling of 많다)
+엇더한	어떠한	What kind of; any (older spelling of 어떠한)
+엇지하야	어찌하여	Why; how (older spelling of 어찌하여)
+안음으로	않음으로	Because of not doing (older spelling of 않음으로)
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제9호
+발행일	1931년 09월 01일
+기사제목	米國의 日本暗號盜譯秘錄, 화성돈회의때에 오천장이나, 日本政府는 크게 驚愕中, 米國機密室解剖
+기사형태	소식
+
+米國의 日本暗號盜譯秘錄, 화성돈회의때에 오천장이나, 日本政府는 크게 驚愕中, 米國機密室解剖
+『會議는 軍備制限問題에 관하야는 全혀 停頓狀態에 빠지어 잇서 何等의 進捗이 업다. 形勢 甚히 我國에 不利하다.』
+이것은 화성돈회의가 정돈상태에 빠지엇든 1921년 12월 8일에 日本의 加藤全權大使가 東京의 內田外務大臣에게 대한 最後의 極秘電報이다.
+
+『米國은 極力히 유-스案을 固執하고 英國이 또한 이것을 支持하고 잇서 我主張이 貫徹할 수 입슴에 至하엿다면 不得已 米國의 比率을 受諾하라.』
+이는 最後로 10對 6의 海軍比率을 承認하라는 日本政府의 訓電이다.
+이 암호전보가 전권대사의 손에 드러가기전에 미국 륙군성『陸軍省』안에 잇는 긔밀실『機密實』로 드러가서 번역이 되어 미국전권대사를 식혀 일본을 압복하게 되엿다.
+이러케 놀라운 사실이 요지간 『미국』야-도리씨의 손으로 공개되엿다.
+대체 암호를 가장 만히 쓰는 곳은 각국의 외교긔관『外交機關』이다. 각국의 륙해군『陸海軍』방면에서도 만히 쓰고 잇지만은 그것은 전쟁이나 터지지안는 이상 그러케 중요하게 씨울 긔희가 업지만은 외교방면만은 그나라의 외교정책을 세우는데 잇서서 대단히 중요한 것이다.
+더구나 열국희의『列國會議』가튼 때이랴 실로 외교사『外交史』를 보면 파리-강화회의『巴里媾和會議』나 화성돈회의『華盛頓會議』가튼 때에 더욱 심하엿다.
+그래서 각국마다 긔밀실이 잇다. 그 긔밀실에서 전보를 도적질하여 각국독특의 암호를 해석하여 자긔나라의 정책세우는데 쓴다.
+국가와 국가사이의 외교관계는 실로 전부가 긔밀뿐이다. 그런데 일본암호전보가 화성돈회의때에 전부 미국륙군성내의 긔밀실손에 도역『盜譯』이 되여서 십대 칠을 주장하든 일본의 해군비율 이십대 륙에 떠러지는 대참변을 당하고 말엇다.
+이것을 십년후에 안 일본은 지금 경악 실색하여 엇절줄을 모른다. 미국의 비인도적 행위를 공격하고 미국을 욕하고 실로 야단이다. 일본의 분개는 극도에 달하엿다.
+긔밀실 주임이든 『야-드리』씨의 고백에 의하면 미국정부는 화성돈회의중에 오천장의 일본전보를 도역하엿섯다고. 오천통이나 루설되엇건만 그러도록 일본은 그 눈치를 차리지 못하엿든 모양이다.
+
+일본 국가에서 쓴 암호전보란 엇더한 것이냐. 『야-도리』씨의 해설에 의하면 가령 『獨立』이란 말을 쓸때에
+a.  i  ru la  n do
+ア イ ル ラ ン ト
+라고 온다. 애란『愛蘭』은 지금 독립하고 잇슴으로 그것은 독립이란 뜻으로 해석되는 등등이다.
+그런데 『야-드리』씨가 처음 일본전보의 번역을 시작한 것은 1919년 7월부터이다. 그때는 일본이 파리강화회의에서 구라파열국에서 가장 실혀하는 인종평등안『人種平等案』을 제출하엿슴으로 미국에서는 크게 문제가 되여 일본이 독일로부터 환부를 밧은 산동『山東』을 증국에 환부하라고 미국신문이 크게 떠들든 때로 미국은 비밀조약『密約』을 알어내려고 약긔하엿든 터이다.
+그때 륙군성안에는 크나큰 긔밀실을 두고(제 84頁에)<60> 일본암호의 도적질에 착수하엿든 것이다.
+거기서는
+1. 暗號編纂
+2. 暗號通信
+3. 速記
+4. 속임수 「잉크」<84>
+5. 暗號解讀
+의 다섯반이 잇섯는데 『야-드리』씨는 여기의 수령이엿다.
+
+이러케 국가의 중대한 긔밀을 엇지하야 야-드리씨는 폭로하엿는가.
+그는 미국정부가 동씨에게 약속하엿든 언질을 실행하지 안음으로 그에 분개하야
+“American Black chmbtr"
+란 저서로 세상에 공개한 것이다.
+아메리카는 이밧게도 다른 각국의 암호전보를 도적하야 본 것이 만타. 이하 계속하야 미국긔밀실『米國機密室』을 드려다 보기로 하자. 【계속】<85>
+<60, 84-85>

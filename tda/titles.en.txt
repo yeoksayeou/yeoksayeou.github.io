@@ -1,0 +1,121 @@
+01	010	Changing "Samcheolli" to "Greater East Asia"		Thoughts on Accident/Editing
+01	020	Appeal to Compatriots at Home and Abroad: On the Occasion of the Renaming and Re-launch of This Magazine as "Greater East Asia"	President of the Company, Haksan Cheongsu (Kim Dong-hwan)	Editorial
+01	030	The Leaders of the National Wartime Service Corps Speak: Opinions of Director Kasan and Others		Editorial
+01	031	Next Issue Preview		Thoughts on Accident/Editing
+01	040	The Steps of the Greater East Asia Construction Move Forward: Greater East Asia and Culture	National General Mobilization Korean Alliance Cultural Department Director Yabe Eizaburo	Editorial
+01	050	The Steps of the Greater East Asia Construction Move Forward: The Concept of Building the Greater East Asia Co-Prosperity Sphere	Secretary of the Nokgi Alliance, Tsuda Takeshi	Editorial
+01	060	Poem on the Night of February 15th	Noritake Mitsuo	Poem
+01	070	Nostalgic "Gwanghallu": Memories of a Trip to the Peninsula	Terada Akira	Travelogue
+01	080	Bulguksa Temple Travelogue: Memories of a Trip to the Peninsula	Tanaka Hatsuo	Travelogue
+01	090	Near Jangan Temple: Memories of a Trip to the Peninsula	Teramoto Kiichi	Travelogue
+01	100	Down the Amnok River: Memories of a Trip to the Peninsula	Noritake Mitsuo	Travelogue
+01	110	The Scenery of "Oegeumgang": Memories of a Trip to the Peninsula	Tanaka Eiko	Travelogue
+01	120	Impressions of Visiting Guests to Korea		Memoir/Essay
+01	130	The Greater East Asia War and China	Wang Zhaoming	Editorial
+01	140	The Dawn Bell of Asia: One Hundred Million Hearts, Solidly United	Kim Dong-won	Editorial
+01	150	Overseas Information		Editorial
+01	160	Singapore and the Co-Prosperity Sphere	Principal of Gyeongseong Baejae Middle School, Shin Heung-woo (Goryeong Shin Heung-woo)	Editorial
+01	170	The Dawn of East Asia and Korean Women	Principal of Gyeongseong Deokhwa Girls' School, Yeongha In-deok (Park In-deok)	Editorial
+01	180	The Great Roar of Korean Leading Women's Determination to Serve the Nation in Wartime!!	Organized by the Korean National Wartime Service Corps	Editorial
+01	190	The Great Roar of Korean Leading Women's Determination to Serve the Nation in Wartime!!	Organized by the Korean National Wartime Service Corps	Editorial
+01	200	The History of British Malaya's Invasion: Appendix - The Dynamics of the Population and Race of Malaya	Kim Cheol-su	Editorial
+01	210	History of Advancement of Development Companies: Secret Stories of Southern Advancement from Forty Years Ago	Yuk Jeong-su, Secretary of the Gyeongseong Central Christian Youth Association	Editorial
+01	220	Overview of Greater East Asia	Editorial Department	Miscellaneous
+01	230	Asianism and the Construction of the New East Asian Order: Based on the Asian Theory of Sun Wen and Wang Jingwei and Other Chinese Politicians	Hirata Zaifuku of the Shanghai Xingya Institute of Culture (Former name Jang Jae-bok)	Editorial
+01	240	Southern Travelogue: Yearning for the Eternal Summer Paradise	Kim Mori Shigeru, President of Gyeongseong Sijo News (Former name Kim Chang-jip)	Travelogue
+01	250	Brief History of Marshal Phibunsongkhram Who Shouldered Thailand	Han Min-hun	Editorial
+01	260	Meaning of "Sinking"		Miscellaneous
+01	270	American Armaments	Editorial Department	Miscellaneous
+01	280	Impressions of the Philippines: Manila Study Abroad Days and Philippine Scenery	Matsuyama Ryo Shoku (Former name Lee Ryo-shik)	Travelogue
+01	290	Selected by the Samcheolli Editorial Department	Information Room	Miscellaneous
+01	300	Transforming Shanghai: Various Aspects of Shanghai After the Outbreak of the Greater East Asia War	Lee Gwang-bin, Samcheolli Shanghai Branch	News
+01	310	Overview of the Indian Women's Movement: Mrs. Ka-, Chairman of the Indian National Women's Conference, Dialogue with Ms. Kora Tomiko, Women's Representative of the Tokyo National Cooperation Association	Jeong Ok-im, in Tokyo	Editorial
+01	320	In Praise of Soldiers of the Land of the Rising Sun	Italian Prime Minister Mussolini	Editorial
+01	330	Gliding and Korean Youth: Encouraging Aviation Enthusiasm to the Youth of the Peninsula	Dalseong Woo-jeong, Instructor of the Korean National Defense Aviation Corps Headquarters, 1st Class Glider Pilot (Former name Seo Cheol-gwon)	Editorial
+01	340	Historical Drama in 5 Acts: Eomille Bell	Ham Se-deok (Original), Hyeondae Theater (Performance)	Novel
+01	350	Historical Drama in 4 Acts: Ichadon	Park Yeong-ho (Original), Theater Troupe Seonggun (Performance)	Novel
+01	360	Wartime Writer's Diary	Kim Pal-bong, Lee Hyo-seok, Chae Man-shik, Jeong Bi-seok, Gye Yong-muk	Literature, etc.
+01	370	Dreaming of Sending to the South		Literature, etc.
+01	380	Battle Song Excerpts	Kim Dong-hwan	Poem
+01	390	Yun's Biography	Kim Seo-po (Author), Lee Byeong-gi (Annotation)	Literature, etc.
+01	400	Post-Editing Thoughts		Thoughts on Accident/Editing
+02	010	Welcoming the 5th Anniversary of the Holy War		Thoughts on Accident/Editing
+02	020	Important Announcement by the New Governor-General Koiso: Emphasizing the Imperialization of the Korean People		Editorial
+02	030	The Enemy from the Beginning is America and Britain! Remember July 7th		News
+02	040	To the Youth of the Peninsula: Conscription System and the Resolve of the Peninsula's Youth		Editorial
+02	050	The New Mission of Literature: At the Inauguration Ceremony of the Literary Patriotic Association	Okumura, Vice Director of the Information Bureau	Editorial
+02	060	British Prime Minister Churchill's Report on the Defeat		Miscellaneous
+02	070	Belief in Certain Victory	Seo Chun	Editorial
+02	071	Let's Protect Motherhood: High Mortality Rate Among Young Women - Cause of Illness is Overwork, Nutrition Supply is Urgent		Miscellaneous
+02	072	Popular Medicine - Occupational Spasms: The Harm of Fatigue Cannot Be Taken Lightly		Miscellaneous
+02	080	"Shanghai University" Visit: Meeting Korean Professor Kim Myeong-su	Park Geo-yeong, Shanghai "Greater East Asia" Special Correspondent	Dialogue/Roundtable
+02	090	Visiting the Shanghai Korean Christian Church	One Reporter from the Shanghai Bureau	Miscellaneous
+02	100	"Sardine" Season Has Come. Fishing Starting from July, Important Food Supply Under Wartime, Hamgyeong Province's 100 Million Yen Production		Miscellaneous
+02	110	The Great War and the Path of Women	Im Hyo-jeong, Executive Director of the Women's Corps of the National Wartime Service Corps	Editorial
+02	120	"Naval Academy": Chasing After Etajima in Tokyo, Where Sea Country Men are Trained	Kim Gyeong-ae, Tokyo Women's University	Travelogue
+02	130	Literary World		News
+02	140	Film		News
+02	150	Tokyo International Students Vow Before Generals Kawagishi and Others: Celebration of the Conscription System in the Imperial Capital		Editorial
+02	160	Traveler's Sentiments	Sugimoto Nagao	Literature, etc.
+02	170	Northward Advance Corps	Yu Chi-jin (Author), Gyeongseong Yamato Juku (Organizer), Hyeondae Theater (Director)	Literary Criticism
+02	180	Choe Seung-hee's Future	Noritake Mitsuo	Literary Criticism
+02	190	Southern Mineral Resources		Miscellaneous
+02	200	Collection of Anecdotes of Joy and Sorrow from the Battlefront: The Ugly State of American and British Soldiers, etc., The Brilliant War Results of the Imperial Army and Hidden Tales of Military Merit		Travelogue
+02	210	Mothers and Sisters, Please See: Volunteer Soldiers in Intense Training	Park Ok-hui	Editorial
+02	220	Chinese Art During the War	Ogi Gake	Literary Criticism
+02	230	Ball Game as Popular Entertainment: Issues in Promoting Rural Entertainment	Yu Ja-hu	Editorial
+02	240	The Mission of a Traveling Theater Troupe	Choe Sang-deok, Director of the Korean Theater Association and Head of the Traveling Theater Troupe	Editorial
+02	250	Analysis of the Southern Treasure House Calling for Pioneers!	Prospects for Southern Resources	Editorial
+02	260	The Group Portrait of the Leaders of the Flourishing Asia Founding Movement	Park Geo-yeong	Editorial
+02	270	Ancient Battlefields and Xiang Yu: The Old Battlegrounds of the Three Kingdoms in Xuzhou	Hwangha Hakjin	Travelogue
+02	280	Resources of India	Baek Dong-yeon	Editorial
+02	290	Citizen Theater		Miscellaneous
+02	300	The Indian National Congress Party	Editorial Department	Miscellaneous
+02	310	Serialized Long Stories and Writers: Regarding Two Serialized Works	Lee Tae-jun	Literary Criticism
+02	320	Eternal Peace: A Song of Welcome to the Imperial Army Sung by an Indian	Indian Darida Mu	Poem
+02	330	Regarding "Eastern Sky Red"	Lee Gi-yeong	Literary Criticism
+02	340	Writer's Frontier Trip (Previous)		Travelogue
+02	350	Ah, Lee Hyo-seok: Works and Figure	Yu Jin-o, Choe Jeong-hee	Literature, etc.
+02	360	House of Roses	Choe Jeong-hee	Novel
+02	370	Post-Editing Thoughts		Thoughts on Accident/Editing
+03	010	Information Room, Collection of Internal Reports of Korean Society		News
+03	020	New Indicators for this Magazine		Thoughts on Accident/Editing
+03	030	Coming to Korea, Verbatim Record of the Lecture at the Gyeongseong Prefectural Hall "Heaven Will Surely Side with Justice"	Former Minister of Communications, Director of the Greater Japan Political Association East Asia Bureau, Nagai Ryutaro	Editorial
+03	040	At Namwon Gwanghallu (Part 1)		Poem
+03	050	At Namwon Gwanghallu (Part 2)		Poem
+03	060	Korea's New Mission	Tanaka Takeo	Editorial
+03	070	Collection of Statements from the Korean Side: Collection of Statements Made by the Korean Side at the Greater East Asia Literary Assembly Held in Tokyo in Mid-November		Editorial
+03	080	Letter Sent to Literary Friends: Returning from the Greater East Asia Literary Assembly		Literature, etc.
+03	090	Early Symptoms and Treatment of Pulmonary Tuberculosis Commonly Occurring in Cold Weather	Medical Doctor Okabe Taku	Miscellaneous
+03	100	True Story: Treating Chronic Gastrointestinal Illness and Neurasthenia	Arakawa Umeji	Miscellaneous
+03	110	Visit to the Thirteen Provincial Governors (1): Highly Energetic Governor of Gyeonggi Province, Go Gyeong-gi	Abe Eiji	Dialogue/Roundtable
+03	120	(Character Assessment of the Thirteen Provincial Vice-Council Chairmen 1): Vice-Chairman Kim Hong-ryang of Hwanghae Province	Ham Sang-hun	Dialogue/Roundtable
+03	130	One-Sided Love for the Continent (Part 1): Trip to Beijing	Kim Bon-dongjin, Managing Director of the Maeil Shinbo	Travelogue
+03	140	"Greater East Asia" Relay Room: Relaying Special Information from Korea, Japan, and Other Locations		News
+03	150	Impressions of Visiting Guests to Korea		Memoir/Essay
+03	160	Koreans and Conscription: Summary of a Lecture Thanking Conscription Implementation in Osaka	Maruyama Tsurukichi	Editorial
+03	170	Special On-site Report: Roundtable of "Koreans" in Nanjing, Discussing Development Strategies for Koreans in Nanjing	Editorial
+03	180	The Path of Koreans in Shanghai: Regarding the Korean-Japanese Integration Movement on the Ground	Tsuboi Bansho of Shanghai	Editorial
+03	190	Seeing the Activities of 9,000 Koreans in Shanghai: Mainly Profiles of Leading Figures Active in the Financial World		News
+03	200	Shanghai Gyrin Society Lineup: The Only Korean Organization		News
+03	210	Group Portrait of Nanjing Businessmen: Seeing the Activities of Koreans on the Ground	Park Geo-yeong, Special Correspondent for the Greater East Asia Company in Central China	News
+03	220	Seeing the Activities of Korean Businessmen in Suzhou, Wuxi, and Nanjing	Park Geo-yeong, Special Correspondent for the Greater East Asia Company in Central China	News
+03	230	The Poet of the Maechang Collection: The Story of Gisaeng Gye-saeng of Buan	Tanaka Hatsuo	Literary Criticism
+03	240	Memorable Masterpieces		Literary Criticism
+03	250	Incheon's "Shipyard": Many Korean Workers in Blue Uniforms, U.S. and British Annihilation War and Korean Wartime Industry (1)		Miscellaneous
+03	260	Taiwan Page		Editorial
+03	270	Collapsing Enemy's Three Capitals (1): Chongqing Crying from Hunger		Editorial
+03	280	Australia, a Good Place		Miscellaneous
+03	290	The World's Darkest City: Broadcast by an Englishman Reporter Who Saw It		Miscellaneous
+03	300	To "Tokyo" for the First Time: Actress's Memoir	Kim Shin-jae	Memoir/Essay
+03	310	"Pollock" Fishing Battle: From Seohotsu in Hamnam Province to the Fishermen's Training Center, the Brave and Sad Scenery	One Reporter Dispatched by this Magazine	Miscellaneous
+03	320	Suggestions for the Cultural Aspect of the League		Miscellaneous
+03	330	Korean Newspaper Novels and the Author's Words		Literary Criticism
+03	340	The True Heart of Sijo: Korean Translation of Korean Sijo (1)	Seo Du-su	Literary Criticism
+03	350	German War Poems		Poem
+03	360	Advancing Theater to Tokyo		News
+03	370	Welcoming Friends: On the Occasion of the Visit of Representatives of the Greater East Asia Literary Assembly to Gyeongseong	Noritake Mitsuo	Literature, etc.
+03	380	Chicken Rice Offering	Kim Jong-han	Poem
+03	390	Suicide Squad of the Watchtower	Yamagata Yusaku, Yagi Ryuichiro (Screenplay), Imai Tadashi (Director)	Play/Screenplay
+03	400	Post-Editing Thoughts		Thoughts on Accident/Editing
+

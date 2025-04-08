@@ -1,0 +1,44 @@
+Magazine Title: 大東亞
+Publication Date: 1943년 03월 01일
+Article Title: 仁川の『造船工場』, 靑菜服の半島職工も多數交りて, 米英擊滅戰と鮮內戰時工業(1) (Incheon's 'Shipbuilding Yard,' Many Peninsula Workers in Green Work Clothes Also Participate, The War to Annihilate America and Britain and Korea's Wartime Industry (1))
+Author: Not Provided
+Article Type: 雜著 (Miscellaneous writing)
+
+<126-130>
+[Translator's Note: The main body text of the article spanning pages 126-130 was not provided in the input. Only the title and metadata were given. Therefore, a translation of the body text cannot be provided.]
+
+**Summary**
+
+Based on the title, this article discusses a shipbuilding yard in Incheon during the wartime period of 1943. It highlights the participation of numerous Korean workers ("Peninsula workers"), identifiable by their green work clothes, in the shipbuilding efforts. The article frames this industrial activity within the context of Japan's war against the United States and Britain ("War to Annihilate America and Britain") and positions it as part of Korea's contribution to the wartime industrial mobilization. For historians, this article title is interesting as it explicitly links Korean industrial labor (shipbuilding in Incheon) directly to Japan's Pacific War effort (米英擊滅戰) and uses the term "Peninsula workers" (半島職工), reflecting the colonial context and mobilization of Korean manpower for Japanese wartime industries. The mention of specific clothing ("靑菜服" - green work clothes) also offers a small visual detail about the workers.
+
+**Named Entities**
+
+仁川	인천	Incheon
+半島	한도	Peninsula (Referring to Korea)
+米英	베이에이	America and Britain
+鮮內	센나이	Within Korea (Chosen)
+
+**Glossary**
+
+造船工場	ぞうせんこうじょう	Shipbuilding yard
+靑菜服	せいさいふく	Green work clothes (Lit. 'vegetable-color clothes')
+半島職工	はんとうしょっこう	Peninsula worker(s) (Referring to Korean workers)
+多數	たすう	Many, large number
+交りて	まじりて	Mixing in, participating (Older grammatical form of 交じる - majiru)
+米英擊滅戰	べいえいげきめつせん	War to Annihilate America and Britain
+鮮內	せんない	Within Korea (Chosen)
+戰時工業	せんじこうぎょう	Wartime industry
+雜著	ざっちょ	Miscellaneous writing, miscellany
+
+
+---------------------------
+
+
+잡지명	대동아 제15권 제3호
+발행일	1943년 03월 01일
+기사제목	仁川の『造船工場』, 靑菜服の半島職工も多數交りて, 米英擊滅戰と鮮內戰時工業(1)
+기사형태	잡저
+
+仁川の『造船工場』, 靑菜服の半島職工も多數交りて, 米英擊滅戰と鮮內戰時工業
+일본문-원문
+＜126-130＞

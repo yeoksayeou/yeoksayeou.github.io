@@ -1,0 +1,114 @@
+**Header Section:**
+Magazine Title: 三千리
+Publication Date: 1937년 10월 01일
+Article Title: 六百萬圓의 大競技場, 올림픽 東京大會 豪華設備 (A Grand Stadium of 6 Million Yen, Luxurious Facilities for the Tokyo Olympics)
+Author: None
+Article Type: 소식 (News)
+
+**Body Text Translation:**
+A Grand Stadium of 6 Million Yen, Luxurious Facilities for the Tokyo Olympics
+
+Stadium Decision Amidst Difficulties
+Preparations are steadily progressing for the Tokyo Olympics scheduled to be held three years from now in Shōwa 15 (1940). Among these, the locations for the main stadium and swimming pool, which have consistently drawn public attention, have recently been finalized. Specifically, it has been decided to renovate Jingū Gaien (神宮外苑), and Dr. Kishida's (岸田博士) renovation master plan has been approved. The designs for the main stadium and swimming pool are as follows.
+
+Main Stadium
+Total cost: 4 million Yen; Total area: 20,000 *pyeong*; Location: Same as present
+1. The exterior walls will be of a bright white type, avoiding dark colors. At the northernmost end, a white Olympic Tower, Marathon Tower, and Holy Fire Cauldron (聖火聖) will be established. Inside the Olympic and Marathon towers, facilities such as radio and motion picture filming equipment, lighting fixtures, etc., will be installed, with the lower part serving as entrances/exits for stands, tunnels, etc.
+1. The flagpole stand will be established on the mountain side (*山側) opposite the Olympic Tower.
+1. For the main stand, a roof covering 23 tiers will be built over the uppermost section for about 100 meters in the central part.
+
+Swimming Pool
+Total cost: 2 million Yen; Total area: approx. 4,000 *pyeong*; Location: Same as present; Length: East-West; Capacity: 30,000 people
+1. A tall tower will be erected in the center of the main stand, equipped with motion picture filming facilities, radio, and lighting equipment.
+1. The flagpole tower will be at the easternmost end.
+1. The stands will be 16 meters high, 27 meters deep at the base, totaling 44 tiers.
+1. For the pool, a 25-meter square diving pool (-* 풀-) will be established on the east side, and directly in front, a racing pool (競泳풀-) 25 meters wide and 50 meters long will be set up. The diving ( -힝구) and racing pools will be approximately 5 meters deep. <37>
+
+**Summary**
+
+This 1937 news article reports on the finalized plans for the main venues of the 1940 Tokyo Olympics. The Jingū Gaien area was chosen for renovation based on Dr. Kishida's plan. The main stadium, costing 4 million Yen, would feature a white exterior, integrated towers for broadcasting and filming, and a partially roofed main stand. The swimming pool, costing 2 million Yen, would accommodate 30,000 spectators and include a central tower, separate diving and racing pools. For historians, this article is interesting as it details Japan's ambitious preparations for the Olympics amidst rising militarism and just before the outbreak of the Second Sino-Japanese War, highlighting the large investment and intended scale of an event ultimately cancelled due to the war. It reflects Japan's efforts to project international prestige during the colonial period, an endeavor reported on even in Korean magazines like *Samch'ŏlli*.
+
+**Named Entities**
+
+東京	도쿄	Tokyo
+昭和	쇼와	Shōwa
+神宮外苑	진구 가이엔	Jingū Gaien
+岸田博士	기시다 박사	Kishida Hakase (Dr. Kishida)
+
+**Glossary**
+
+六百萬圓	육백만원	Six Million Yen (円)
+大競技場	대경기장	Large Stadium / Main Stadium
+豪華設備	호화설비	Luxurious Facilities/Equipment
+난관	난관	Difficulty, Obstacle
+결정	결정	Decision
+열니기로	열리기로	To be held/opened (older spelling of 열리기로)
+진행되여	진행되어	To be progressing (older spelling of 진행되어)
+주목	주목	Attention
+끌어오든	끌어오던	Which has been drawing/attracting (older spelling of 끌어오던)
+아조	아주	Very, Completely (older spelling of 아주)
+개조	개조	Renovation, Remodeling
+博士	박사	Doctor (Ph.D.), Scholar
+原案	원안	Original plan, Draft proposal
+승인	승인	Approval
+설계	설계	Design, Plan
+총 경비	총경비	Total Expenses/Cost
+총면적	총면적	Total Area
+同様	동양	Same as, Similar
+외벽	외벽	Exterior Wall
+白色系	백색계	White-based color scheme
+暗色	암색	Dark Color
+掛하며	피하며	Avoiding (likely intended meaning in context, lit. 'hanging/suspending off')
+최북단	최북단	Northernmost end
+올님픽탑	올림픽 탑	Olympic Tower (older spelling)
+마라손탑	마라톤 탑	Marathon Tower (older spelling)
+及	급	And
+聖火聖	성화대	Holy Fire Cauldron/Stand (likely intended meaning for 聖火台)
+設하여	설치하여	Establishing, Setting up
+활동사진	활동사진	Motion Picture, Movie
+촬영설비	촬영설비	Filming Equipment
+조명기	조명기	Lighting Equipment
+하부	하부	Lower part, Base
+스탄드	스탠드	Stand(s) (loanword, older spelling)
+톤널	터널	Tunnel (loanword, older spelling)
+출입구	출입구	Entrance/Exit
+국기 게양대	국기 게양대	Flagpole Stand
+반대측	반대측	Opposite side
+說하며	설치하며	Establishing, Setting up (likely intended meaning for 設-)
+메인스탄	메인 스탠드	Main Stand (loanword)
+米突	미터	Meter (unit of length)
+水泳場	수영장	Swimming Pool
+收客人員	수용 인원	Capacity (number of people) (lit. 'received guest personnel number')
+高塔	고탑	Tall Tower
+동측	동측	East side
+최단	최단	Endmost point
+底部	저부	Base part, Bottom part
+풀-	풀	Pool (loanword, older spelling/representation)
+平方	평방	Square (unit of area, e.g., square meter)
+競泳	경영	Racing (swimming)
+
+
+---------------------------
+
+
+잡지명	삼천리 제9권 제5호
+발행일	1937년 10월 01일
+기사제목	六百萬圓의 大競技場, 올림픽 東京大會 豪華設備
+기사형태	소식
+
+六百萬圓의 大競技場, 올림픽 東京大會 豪華設備
+난관 중이든 경기장 결정
+3년 후인 昭和 15년에 열니기로 된 올림픽 東京大會는 모든 준비가 착착 진행되여 가고 있다. 그 중에도 늘 세인의 주목을 끌어오든 주경기장과 수영장의 장소는 요즈음 아조 결정이 되었다. 즉 神宮外苑을 개조하기로 하고 岸田博士의 改造 原案을 승인하였는데 이제 주경기장과 수영장의 설계를 보면 이러하다.
+
+주경기장
+총 경비 4백만 원 총면적 2만평 위치 현재 同樣
+1. 외벽은 명랑한 白色系로 暗色을 掛하며 최북단에 白色系의 올님픽탑 마라손탑, 及 聖火聖을 設하여 올님픽, 마라손 兩塔 내부에 라디오, 활동사진 촬영설비 조명기 등의 설비을 하여 그 하부는 스탄드, 톤널 등 출입구
+1. 국기 게양대는 올님픽탑 반대측의 *山側에 說하며
+1. 메인스탄은 중앙부 약 百米突間의 최상부 23단의 지붕을 만든다.
+
+水泳場
+총 경비 2백만 원, 총면적 4천坪位 場現在와 同樣 東西에 길이 收客人員 3만인
+1. 메인스탄드 중앙부에 高塔을 세우고 활동사진 촬영설비, 라디오, 조명기의 설비를 함.
+1. 국기 게양탑은 동측 최단
+1. 스탄드는 高 16米 底部 27米 총계 44단
+1. 풀-은 東側 25米平方의 -*, 풀-, 정면에 폭 25米, 長 50米의 競泳풀-을 設, -힝구, 競泳用풀-은 약 5米로 함. ＜37＞

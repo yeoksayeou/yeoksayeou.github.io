@@ -1,0 +1,43 @@
+Magazine Title: 三千理 第13巻 第7号
+Publication Date: 1941년 07월 01일
+Article Title: 內鮮共學の高等學府巡り, 淑明女子專門學校 京城三坂通の白亞校舍を訪ねて (A Tour of Higher Educational Institutions for Japanese-Korean Co-education: Visiting the White Chalk Building of Sookmyung Women's Professional School on Misaka-dōri, Keijō)
+Author: (Not provided in metadata)
+Article Type: 소식 (News/Report)
+
+**(The main body text from pages 47-51 was not provided. Therefore, a translation, summary, full named entity list, and glossary based on the article content cannot be generated.)**
+
+**Summary**
+
+(Cannot be provided without the article text.)
+
+**Named Entities**
+
+(Based *only* on the provided metadata and title)
+內鮮	ないせん	Naisen (Japanese term for 'Inner Lands [Japan]' and 'Korea')
+淑明女子專門學校	しゅくめいじょしせんもんがっこう	Shukumei Joshi Senmon Gakkō (Sookmyung Women's Professional School - Japanese reading)
+淑明女子專門學校	숙명여자전문학교	Sukmyŏng Yŏja Chŏnmun Hakkyo (Sookmyung Women's Professional School - Korean reading)
+京城	けいじょう	Keijō (Japanese name for Seoul during the colonial period)
+京城	경성	Kyŏngsŏng (Korean reading of the colonial name for Seoul)
+三坂通	みさかどおり	Misaka-dōri (A street name in Keijō/Seoul during the colonial period)
+
+**Glossary**
+
+(Based *only* on the provided metadata and title - examples of potential entries if the text were available)
+內鮮共學	ないせんきょうがく	Japanese-Korean Co-education (A term referring to the colonial-era policy/practice of educating Japanese and Korean students together, often with assimilationist goals)
+高等學府	こうとうがくふ	Institution of higher learning; prestigious school
+專門學校	せんもんがっこう	Professional school; specialized college (a type of higher education institution in the pre-1947 Japanese system)
+白亞校舍	はくあこうしゃ	White chalk school building; often implies a modern, Western-style building
+訪ねて	たずねて	Visiting (gerund form of 訪ねる - tazuneru)
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제7호
+발행일	1941년 07월 01일
+기사제목	內鮮共學の高等學府巡り, 淑明女子專門學校 京城三坂通の白亞校舍を訪ねて
+기사형태	소식
+
+內鮮共學の高等學府巡り, 淑明女子專門學校 京城三坂通の白亞校舍を訪ねて
+일본문-원문
+<47-51>

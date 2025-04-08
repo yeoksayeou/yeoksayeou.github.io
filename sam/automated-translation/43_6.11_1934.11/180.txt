@@ -1,0 +1,43 @@
+Magazine Title: 三千里 제6권 제11호
+Publication Date: 1934년 11월 01일
+Article Title: 社告 (Company Announcement)
+Author: None specified
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+社告
+The policy has been decided to set the 15th of the preceding month as the standard actual release date for the 『三千里』 (Samch'ŏlli) magazine, and as this will be implemented starting from November, we unavoidably did not publish the October issue. The December issue will be published on November 15th, and the New Year issue on December 15th; as we will always publish in advance like this, we ask for the understanding (海諒) of our esteemed readers (愛讀者 諸氏).<68>
+
+**Summary**
+
+This announcement informs readers of the magazine *Samch'ŏlli* about a change in its publication schedule effective November 1934. The magazine will now be released on the 15th of the preceding month (e.g., the December issue on November 15th). Due to this change, the October 1934 issue was skipped. The notice asks for readers' understanding. For historians, this brief notice offers insight into the practical business operations of a major Korean magazine during the colonial period, including its distribution strategy (early release) and direct communication style with its readership regarding logistical changes. It reflects an effort to regularize and perhaps optimize circulation.
+
+**Named Entities**
+
+None
+
+**Glossary**
+
+社告	사고	Company announcement; Public notice
+결정되야	결정되어/결정돼야	Has been decided (Older spelling/grammar)
+발행치	발행하지	Do not publish (Older negative contraction)
+안엇슴니다	않았습니다/않습니다	Did not / Do not (Older spelling and politeness level for -ㅂ니다/-습니다)
+號	호	Issue (of a publication)
+新年號	신년호	New Year issue
+이러케	이렇게	Like this (Older spelling)
+발행하겟느니	발행하겠으니	Will publish, so... (Older spelling/conjugation)
+애독자	애독자	Esteemed readers; Loyal readers
+諸氏	제씨	Messrs.; Ladies and Gentlemen; Everyone (Formal honorific plural suffix)
+海諒	해량	Understanding; Forbearance (Formal, literary)
+바라나이다	바랍니다	Hope for; Wish for (Older polite verb ending)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제11호
+발행일	1934년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+『三千里』잡지의 실제 발매일자는 그 前달 15일을 표준으로 하기로 방침이 결정되야 11월부터 실시하는 관계상, 부득이 10월호는 발행치 안엇슴니다.  12월號는 11월15일에, 新年號는 12월 15일에 이러케 늘 미리 발행하겟느니 애독자 諸氏의 海諒을 바라나이다.＜68＞

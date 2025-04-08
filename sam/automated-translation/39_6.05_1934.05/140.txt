@@ -1,0 +1,55 @@
+Magazine Title: 三千里 제6권 제5호
+Publication Date: 1934년 05월 01일
+Article Title: 春宮曲 (Song of the Spring Palace)
+Author: 王昌齡
+Article Type: 시 (Poem)
+
+Yesterday night, the wind opened the peach blossoms by the dew-covered well;
+Above the front hall of Weiyang Palace, the moon's disk hung high.
+
+Singers and dancers from Pingyang have newly received favor,
+Outside the curtain, feeling the spring cold, she is bestowed a brocade robe.<42>
+
+**Summary**
+
+This article presents a classical Chinese poem, "Song of the Spring Palace" by Wang Changling. The poem depicts a scene in the imperial palace: peach blossoms blooming, the moon high over Weiyang Palace, and a newly favored singer/dancer receiving a brocade robe from the emperor due to the spring chill. It evokes themes of fleeting imperial favor and the luxurious yet potentially cold atmosphere of palace life. For historians studying colonial Korea, the inclusion of a Tang dynasty Chinese poem in a popular Korean magazine like *Samch'ŏlli* in 1934 is noteworthy. It highlights the enduring cultural prestige of classical Chinese literature among the Korean readership, existing alongside emerging modern Korean literature and Japanese cultural influence during the colonial period.
+
+**Named Entities**
+
+王昌齡	왕창령	Wang Ch'angnyŏng (Wang Changling)
+未央	미앙	Miyang (Weiyang Palace)
+平陽	평양	P'yŏng'yang (Pingyang)
+
+**Glossary**
+
+三千里	삼천리	Samch'ŏlli (Magazine name, lit. "Three Thousand Li," referring to Korea)
+春宮曲	춘궁곡	Song of the Spring Palace (Poem title)
+昨夜	작야	Last night
+露井	노정	Dew-covered well
+未央	미앙	Weiyang (Name of a Han Dynasty palace)
+前殿	전전	Front hall (of a palace)
+月輪	월륜	Moon disk (full moon)
+平陽	평양	Pingyang (Refers to Princess Pingyang, known for her favored performers)
+歌舞	가무	Singing and dancing
+承寵	승총	To receive favor/grace (esp. imperial)
+簾外	염외	Outside the screen/curtain
+春寒	춘한	Spring cold
+賜	사	To bestow, grant (esp. from a superior)
+錦袍	금포	Brocade robe
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제5호
+발행일	1934년 05월 01일
+기사제목	春宮曲
+필자	王昌齡
+기사형태	시
+
+春宮曲
+						王昌齡
+昨夜風開露井桃
+未央前殿月輪高
+平陽歌舞新承寵
+簾外春寒賜錦袍<42>

@@ -1,0 +1,54 @@
+Magazine Title: 三千리
+Publication Date: 1935년 10월 01일
+Article Title: 詩人 (Poet)
+Author: 金岸曙
+Article Type: 시 (Poem)
+
+Poet
+						Kim An-sŏ
+
+When snow falls,
+Saying flower blossoms flutter down heavily,<241>
+If one sings, they are called a Poet.
+
+When flowers fall,
+Saying snowflakes flutter down heavily,
+If one recites, they are called a Poet.<242>
+
+**Summary**
+
+This short poem by Kim An-sŏ defines a poet as someone who perceives and describes the world through inversions and metaphors, seeing falling snow as flower blossoms and falling blossoms as snowflakes. The act of singing or reciting these perceptions marks one as a poet. From a historical perspective, the poem's focus on nature imagery and subjective perception, rather than social or political themes, might reflect the artistic tendencies or constraints of the colonial period, where such lyrical expression could exist somewhat apart from overt political discourse. It highlights an appreciation for aesthetic sensibility.
+
+**Named Entities**
+
+金岸曙	김안서	Kim An-sŏ
+
+**Glossary**
+
+詩人	시인	Poet
+꼿송이	꽃송이	Flower blossom (older spelling of 꽃)
+펄펄	펄펄	Sound/manner of fluttering or falling heavily (onomatopoeia/mimetic word)
+曰	왈	Says; is called (Sino-Korean grammatical particle, often used in quoting or defining)
+읍조리면	읊조리면	If one recites/murmurs/chants softly (Older spelling/form of 읊다/읊조리다)
+난다	난다	Flies; flutters (Present tense of 날다, used poetically for snow falling)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제9호
+발행일	1935년 10월 01일
+기사제목	詩人
+필자	金岸曙
+기사형태	시
+
+詩人
+						金岸曙
+눈이 오면
+꼿송이가 펄펄진다고,＜241＞
+노래를하면 曰 詩人이고요.
+
+꼿이 지면
+눈송이가 펄펄난다고,
+읍조리면 曰 詩人이라지.＜242＞
+＜241-242＞

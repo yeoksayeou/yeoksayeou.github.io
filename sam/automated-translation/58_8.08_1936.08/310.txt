@@ -1,0 +1,219 @@
+Magazine Title: 삼천리 제8권 제8호
+Publication Date: 1936년 08월 01일
+Article Title: 時調講座, 三千里文藝講座(제7회 개강) (Sijo Lecture, Samch'ŏlli Literary Lecture (7th Session Opening))
+Author: 李秉岐
+Article Type: 논설 (Editorial/Essay)
+
+Sijo Lecture, Samch'ŏlli Literary Lecture
+						Yi Pyŏnggi
+Sijo Appreciation and Composition
+Author Introduction
+Mr. Yi was born in Chŏlla Pukto province and is a 45-year-old scholar and writer. He is currently a teacher at Hwimun High Common School (徽文高普校), has deep research interests in sijo and Han'gŭl, and has published many sijo works under the pen name 'Karam' (가람). He is a member of the Korean Language Society (朝鮮語學會).
+
+II. Composition
+Regarding appreciation, I have already spoken as mentioned, and now I wish to speak a little about composition.
+However, before speaking about this, what must be said first is the will and attitude towards it. If that will and attitude are weak and insincere, even one born with exceptional natural talent (天稟) will be of no use. Whatever study one undertakes, to achieve depth and height in proficiency requires a corresponding amount of time and effort. That even a great genius like Li Bai (李白) passed down the tale of polishing an iron pestle at Kuangshan (匡山磨鐵), and even a poetic sage like Du Fu (杜甫) received the mockery, "Asking why you've grown so thin since we last met, it's all due to the past suffering of composing poetry (借問別來太瘦生, 總爲從前作詩苦)," allows us to guess how much effort they too must have put in back then. How much more so for ordinary talents unlike them, who might or might not succeed even if they put in a hundred or thousand times the effort? If one merely resolves upon impulse (衝動), tries for a while, and then quits, or pretends to be capable, they will ultimately achieve nothing and gain nothing. Therefore, once one sets their mind on this, they must respect it, be reverent, treat it like their own life<260>, and dedicate all their strength and effort to it. If I speak like this, some might wonder why one needs to go to such lengths for something like that, but it is not so. Even threading a tiny needle requires concentrating one's mind and strength, and it cannot be done carelessly or clumsily; how much more so for this?
+To try composing sijo requires this kind of will and attitude, constant training (修鍊), and painstaking effort (刻苦). Thus, one must always desire and hasten their progress (精進).
+No matter how thoroughly this composition method is explained, one cannot succeed just by reading about it. One must experience and understand it themselves. Even if told that dragon-phoenix soup (龍鳳湯) tastes good, one cannot feel full just by hearing about it. Ultimately, it lies in self-study and self-awakening (自習自覺).
+Here are a few points regarding its composition:
+
+1. Form
+Sijo, unlike amorphous free verse, generally has a predetermined form. One must follow this track (軌道). If derailed (脫線), the sijo is destroyed. Although some today find this track disagreeable, unlike the fixed-form poetry of other countries, it does not have strictly fixed syllable counts (字數). It is not like the precisely limited syllable counts of Japanese *waka* (和歌) (5-7-5-7-7) or Chinese poetry (漢詩) (five-character or seven-character lines), but is generous and free, allowing the addition or subtraction of several syllables. In fact, if you really look at it, this too is a kind of free verse. Even the so-called free verse (自由詩) of recent times, if it is to be poetry, must have its own form. It's not about just rambling on confusingly, listing this and that. In other words, free verse freely selects and uses various poetic forms, while sijo uses a predetermined form.
+The structure (構成) of sijo consists of three sections: initial verse (初章), middle verse (中章), and final verse (終章). The initial verse has an initial phrase (初句) and a final phrase (終句); the middle verse<261> also has an initial phrase and a final phrase; and the final verse has an initial phrase, a second phrase (二句), a third phrase (三句), and a final phrase. Regarding syllable counts, the initial phrase of the initial verse can range from six syllables (2-4 rhythm) to nine syllables; the final phrase also from six syllables (2-4 rhythm) to nine syllables; the initial phrase of the middle verse from five to eight syllables; the final phrase from six syllables (2-4 rhythm) to nine syllables; the initial phrase of the final verse is three syllables; the second phrase from five to eight syllables; the third phrase four or five syllables; and the final phrase three or four syllables, all usable at will. Representing this again in a table:
+
+(a) Sijo Initial Verse - Initial Phrase - (6~9 syllables) - Final Phrase - (6~9 syllables)
+Middle Verse - Initial Phrase - (5~8 syllables) - Final Phrase - (6~9 syllables)
+Final Verse - Initial Phrase - (3 syllables) - Second Phrase - (5~8 syllables) - Third Phrase - (4 or 5 syllables) - Final Phrase - (3 or 4 syllables)
+(b) Sijo Initial Verse Initial Phrase - Is the wind the water sound? (7 syllables) Final Phrase - Is the water sound the wind? (7 syllables)
+Middle Verse Initial Phrase - Old pine clinging to the stone cliff (7 syllables) Final Phrase - Huddles and dances (8 syllables)
+Final Verse Initial Phrase - White clouds (3 syllables) Second Phrase - thrashing about (5 syllables) Third Phrase - from the blue sky (4 syllables) Final Phrase - descend (4 syllables)
+
+In this structure, the six-syllable phrases in the initial phrase and final phrase of the initial verse, or the initial phrase of the middle verse, must use a 2-4 rhythm; rhythms like 3-3 are not used. For example,
+*San-a murŏ poja* (Mountain, let me ask you)
+is a six-syllable phrase with a 2-4 rhythm, whereas
+*Isira hadŭmyŏn* (If you say it exists)
+is a six-syllable phrase with a 2-3 rhythm. This [3-3 or similar] is sometimes used in the middle verse's initial phrase, and also, the initial and final phrases of the initial verse or the final phrase of the middle verse sometimes break the rules (破格) and use up to ten or more syllables. In other phrases too, one or two extra syllables might be usable, but only the three syllables of the final verse's initial phrase are fixed and unchanging<262>.
+The syllable counts mentioned above are the form of the standard *p'yŏngsijo* (平時調); the forms of *ŏtsijo* (엇時調) and *sasŏlsijo* (辭說時調) are the same as *p'yŏngsijo* only in having three sections (initial, middle, final), but their phrase counts (句數) and syllable counts are all different, and even the three syllables of the final verse's initial phrase can be written with more syllables.
+As mentioned above, there are three types of sijo: *p'yŏngsijo*, *ŏtsijo*, and *sasŏlsijo*. However, what is being composed now is only *p'yŏngsijo*. Of course, for beginners, starting with this *p'yŏngsijo* is the proper sequence.
+The reason why sijo syllable counts must be this way cannot be explained quickly. However, this form is not the creation of one person at a certain time but has been passed down through use since at least 800-900 years ago in the Koryŏ period. No one encouraged its writing, nor was it written due to being drawn to any particular ideology. Considering that even during times when Chinese characters and Chinese poetry (漢文漢詩) were so loved and revered (崇尙), it endured numerous waves (波瀾) and has maintained its form distinctly to this day, actively developing, shows that it possesses a historically eternal inseparability and indestructibility within our language and literature.
+
+II. Content
+There is nothing particularly special about the content (內容) of sijo. Simply put, it is about expressing what would be used in other poetry and songs, but through the form of sijo. One simply expresses frankly what one sees, hears, and is moved by. However, just as the form of sijo differs from the forms of other poetry and songs, it does not mean that everything can be expressed exactly as it is. Depending on the composition, countless variations are naturally expected. Some might think sijo is suitable for reciting reminiscences of the past (懷古), landscapes, satire (諷刺), or humor (諧謔), but that is not due to sijo itself, but rather depends on the person composing the sijo. Why single out sijo? It's the same for other poetry and songs. Such aspects<263> have no reason to exist only in sijo. Looking at Kitahara Hakushū's (北原白秋) experience in composing songs, he composed the same content into new poetry (新詩), children's songs (童謠), and *waka* (和歌). Indeed, it is possible to compose in all forms. That is, everything in nature and human life can be used as content. However, in choosing the material for the content, beginners have these shortcomings: one is deficiency in form, and the other is excessive overflow.
+Deficiency means that the power to observe (觀察) things is not yet meticulous and thorough (綿密周到) or sharp (銳敏), and one throws away the most crucial (緊要) part and chooses trivial parts. Yet, they themselves are unaware of this and take interest (興味) in it. This doesn't have a fixed standard (標準) but differs according to a person's natural talent (天稟) and level of training (修鍊). Even among those who can be called established writers, there will be differences. It was the discerning eye (眼目) of the great poet Li Bai that when he went to Yellow Crane Tower (黃鶴樓) and saw Ch'oe Ho's (崔灝) poem, he admired it, saying, "The scene is there, but I cannot express it (有景道不得)," and only composed a poem after going to Phoenix Terrace (鳳凰臺). Ch'oe Ho had already composed the Yellow Crane Tower poem perfectly; there was nothing more to add with redundant words (重言復言). Ignorant poets might go to Yellow Crane Tower, see Ch'oe Ho's poem, and still think they can compose better, groaning (呻吟) and putting out only stale (陳腐) pieces. This is laughable, but I too once went to Kyŏngju (慶州) and composed several dozen sijo, which were published in a newspaper. Several years later, I went to Kyŏngju again, and finding the previous dozens of poems unsatisfactory, I composed two more. Those two are as follows:
+
+One pass, then another pass, counting passes as I came
+Crossing over T'oham Mountain (吐含山), gazing at the East Sea (東海)<264>
+In the waning day, I forget that the road back is urgent.
+
+Seeing and seeing again, here at Sŏkkuram (石窟庵)
+Crossing harsh passes, on a winding, twisting road
+With short breaths and quick steps, I come and come again.
+
+These two poems are said to be worth more than the previous dozens. The earlier ones were nothing more than stale words (陳腐). That is, they merely took the conventional materials of reminiscence (懷古) that anyone typically uses and fitted them into the sijo form. There was no originality (獨創) of my own. Then, going there again, I obtained these two poems. The content of the first poem is gazing at the East Sea after crossing T'oham Mountain. Leaving Pulguksa temple, climbing continuously up the mountainside, crossing those many passes, turning back - one pass crossed, then another, another - I even counted these many passes on my fingers as I went. How arduous it must have been! Sweat flowed like water, breath was short, legs grew tired, gradually unable to move even an inch. The beautifully coloring autumn leaves (丹楓), the murmuring sound of water, the squirrels darting in and out of rock crevices, all other things and matters were forgotten, and the only thought was of hardship. The journey continued with only that hardship. Finally, the high pass was crossed. I stopped. The vast, boundless (浩浩茫茫) East Sea came into view at once. My chest suddenly broadened. A cool wind rushed in. Jagged mountain ranges stretched out line after line, pine forests, sandy shores, blue waves, and white sails - these scenes shimmered (알신거린다) like butterflies. This is the most crucial point. This place must not be abandoned. How fortunate I am, that even in the fading day, I forget the urgency of the road back.<265>
+Crossing over T'oham Mountain, gazing at the East Sea
+The character 'go' (고) in 'gazing at the East Sea' (東海바다 바라보고) brings this content to life. If it were '東海바다 보라보니' (Tonghae pada poraboni - seeing the East Sea), using 'ni' (니) instead of 'go' (고), the central crucial element would be lost. Because of that 'go' (고), it becomes a song, and those many scenes and the magnificent feeling are implied (含蓄); also, the 'o' (오) in the initial verse's 'counting passes as I came' (고개를 헤어오다) and the 'gal' (갈) in the final verse's 'the road back' (돌아갈 길이) further strengthen the song's center, 'gazing at the East Sea' (東海바다 바라보고). Usually, following the sequence of the journey, one might have written '헤어가다' (heŏgada - counting as I go) and '돌아올 길' (toraol kil - the road to return). And the content of the second poem praises the famous Sŏkkuram Grotto. One can compose any amount of poetry or prose about the sculptures of Sŏkkuram - the divine generals (神將), the Buddha images (佛像) - describing them this way and that, but if careless, far from bringing the sculptures, the works of art, to life, one might end up ruining a masterpiece with clumsy additions (筆陳圖에 改漆). No matter how hard one tries, there's no way to produce a creative work superior to the sculpture itself. Trying to embellish it more beautifully than the sculpture itself, especially in poetry, is foolishness (愚昧). I too committed such foolish acts before. I put in much effort. Then, going back and seeing it again, I wrote:
+Seeing and seeing again
+Here at Sŏkkuram
+And crossing harsh and rough passes, winding around many bends
+With short breaths and quick steps
+I come and come again.
+Why would one come seeking this place, enduring such endless hardship? The unspoken message is that Sŏkkuram here is exceedingly wonderful, beautiful, and good. Sŏkkuram itself is saying this. Therefore, in this song, 'here at Sŏkkuram' (이곳에 石窟庵) is the most crucial<266> point.
+Excess also stems from not knowing the crucial point and carelessly gathering only materials, packing them densely (빡빡하게시리). If the words are prettily written, like displayed goods, they might attract naive customers (顧客), but as a single work, it's a failure. If the material is excessive, there will be correspondingly much that is unnecessary. And because of the unnecessary parts, the necessary parts cannot be brought to life either.
+Trying to make one poem out of material sufficient for two or three is impossible. Sijo must have content appropriate only for sijo. A ship meant to carry a thousand tons should not be loaded with more than a thousand tons. One must know the capacity (量) of sijo too. To know that capacity, one must read and savor (玩味) many traditional short songs (*tan'ga*), compose many oneself, and analyze them. Since the content is not like wood or stone, it cannot be measured with a ruler or weighed on a scale. One can only know it by seeing with one's own clarifying mind's eye (心眼).
+-(To be continued) -<267>
+
+**Summary**
+
+This excerpt from Yi Pyŏnggi's lecture series focuses on the composition (*chakpŏp*) of *sijo*. Yi emphasizes the crucial importance of dedication, reverence, and persistent effort, comparing the necessary discipline to that of legendary poets like Li Bai and Du Fu. He explains the formal structure of *p'yŏngsijo* (the standard form), detailing its three-verse structure and the flexible syllable counts within each phrase, highlighting its unique blend of structure and freedom compared to Japanese *waka* or Chinese regulated verse. Yi stresses that the final verse's initial three-syllable phrase is immutable. Regarding content, he argues that *sijo* can encompass any subject but warns beginners against choosing trivial details over the essential core or overloading the poem with excessive material. He uses his own experience composing poems about Kyŏngju and Sŏkkuram Grotto to illustrate finding the "crucial point" and achieving conciseness and evocative power.
+
+From a historical perspective, this article is significant as it represents a conscious effort to define, teach, and promote a traditional Korean literary form during the Japanese colonial period. Yi Pyŏnggi, a key figure in the Korean Language Society, asserts the historical depth and unique characteristics of *sijo*, implicitly positioning it as a vital part of Korean cultural identity distinct from Chinese or Japanese poetic traditions. His emphasis on the form's inherent "freedom" within structure and its long history rooted in the Koryŏ period serves as a subtle affirmation of Korean literary resilience and distinctiveness.
+
+**Named Entities**
+
+李秉岐	이병기	Yi Pyŏnggi
+全羅北道	전라북도	Chŏlla Pukto
+徽文高普校	휘문고보	Hwimun Kobo (Hwimun High Common School)
+朝鮮語學會	조선어학회	Chosŏn Ŏhakhoe (Korean Language Society)
+李白	이백	Yi Paek (Li Bai)
+匡山	광산	Kwangsan
+杜甫	두보	Tu Po (Du Fu)
+北原白秋	기타하라 하쿠슈	Kitahara Hakushū
+崔灝	최호	Ch'oe Ho
+黃鶴樓	황학루	Hwanghangnu (Yellow Crane Tower)
+鳳凰臺	봉황대	Ponghwangdae (Phoenix Terrace)
+慶州	경주	Kyŏngju
+吐含山	토함산	T'oham-san
+東海	동해	Tonghae (East Sea)
+石窟庵	석굴암	Sŏkkuram (Sŏkkuram Grotto)
+
+**Glossary**
+
+時調	시조	Sijo (traditional Korean poetic form)
+作法	작법	Composition method, technique
+鑑賞	감상	Appreciation, viewing
+熊度	태도	Attitude (older usage, now 태도 is standard)
+天稟	천품	Natural talent, innate gifts
+工程	공정	Effort, work, process (here implies dedicated labor)
+衝動	충동	Impulse
+發心	발심	To resolve, make up one's mind (often with Buddhist nuance, but here just 'to decide')
+成就	성취	Achievement, accomplishment
+敬虔	경건	Reverence, piety
+修鍊	수련	Training, discipline, practice (older spelling, now 수련)
+刻苦	각고	Painstaking effort, arduous toil
+精進	정진	Diligence, devotion, striving forward
+自習自覺	자습자각	Self-study and self-awakening/realization
+龍鳳湯	용봉탕	Dragon-phoenix soup (a luxurious dish, used metaphorically)
+定形詩	정형시	Fixed-form poetry
+軌道	궤도	Track, orbit, path (metaphor for rules/form)
+脫線	탈선	Derailment (metaphor for breaking rules/form)
+字數	자수	Syllable count, number of characters
+和歌	와카	Waka (classical Japanese poetry form)
+漢詩	한시	Classical Chinese poetry
+自由詩	자유시	Free verse poetry
+構成	구성	Structure, composition, organization
+初章	초장	Initial verse (of a sijo)
+中章	중장	Middle verse (of a sijo)
+終章	종장	Final verse (of a sijo)
+初句	초구	Initial phrase (within a verse)
+終句	종구	Final phrase (within a verse)
+二句	이구	Second phrase (specifically in the final verse)
+三句	삼구	Third phrase (specifically in the final verse)
+平時調	평시조	Standard sijo (the most common form)
+엇時調	엇시조	Ŏtsijo (a variant, slightly longer sijo form)
+辭說時調	사설시조	Sasŏlsijo (a variant, much longer, narrative sijo form)
+內容	내용	Content
+懷古	회고	Reminiscence of the past, nostalgia
+諷刺	풍자	Satire
+諧謔	해학	Humor, wit
+觀察	관찰	Observation
+綿密周到	면밀주도	Meticulous and thorough
+銳敏	예민	Sharp, keen, sensitive (older spelling, now 예민)
+緊要	긴요	Crucial, essential, vital
+興味	흥미	Interest (older usage, now 흥미)
+標準	표준	Standard, criterion
+眼目	안목	Discerning eye, judgment, insight
+重言復言	중언부언	Redundant words, repetition
+呻吟	신음	Groaning, moaning (here implies struggling to compose)
+陳腐	진부	Stale, trite, cliché
+依例히	의례히	Typically, conventionally, as usual (older form of 의례)
+獨創	독창	Originality, unique creation
+浩浩茫茫	호호망망	Vast and boundless (describing the sea)
+알신거린다	알신거리다	Shimmer, glimmer, appear indistinctly (descriptive verb)
+含蓄	함축	Implication, connotation, suggestion
+筆陳圖에 改漆	필진도에 개칠	Lit. 'Repainting over a masterpiece drawing'; ruining something good with poor additions
+愚昧	우매	Foolishness, ignorance
+빡빡하게시리	빡빡하게시리	Densely, tightly packed (colloquial/emphatic form)
+顧客	고객	Customer (here, metaphorically, readers/audience)
+量	양	Quantity, capacity, measure
+玩味	완미	To savor, relish, appreciate deeply
+心眼	심안	Mind's eye, mental insight
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제8호
+발행일	1936년 08월 01일
+기사제목	時調講座, 三千里文藝講座(제7회 개강)
+필자	李秉岐
+기사형태	논설
+
+時調講座, 三千里文藝講座
+						李秉岐
+時調鑑賞과 作法
+筆者紹介
+씨는 全羅北道출생으로 금년 45세인 학자, 작가. 현재 徽文高普校의 교사로 있으며 시조와 ⌈한글⌋에 대한 연구가 깁고 또 號를 ⌈가람⌋이라하야 시조작품을 발표한 바가 만했다.
+⌈朝鮮語學會⌋ 회원이다.
+
+二. 作法
+鑑賞에 당한건 이미 말한 바와 같거니와 지금부터는 作法에 대하여 약간 말하고저 한다.
+한데 이걸 말하기 전에 먼저 말하여 둘 것은 이것에 대한 意志와 熊度다. 그 意志와 熊度가 薄弱하고 不實하면 비록 남다른 天稟을 타고난 이라도 소용이 없을 것이다. 무슨 工夫든지 그 造詣가 깊고 높고 하자면 그만한 동안과 努力이 있고야 한다. 李白과 같은 大天材로도 匡山磨鐵의 說을 전하고 杜甫와 같은 時聖으로도 ⌈借問別來太瘦生, 總爲從前作詩苦⌋라는 嘲弄을 받었든 것을 보면 그때 그들도 그 얼마만한 工程을 쌓았든가를 짐작할 수가 있다. 더구나 그들과 같지 못한 凡才로서야 그들보다 百倍千倍의 工程을 쌓아도 될가 말가 한 것을 그저 한때의 어떤 衝動으로 發心하여 얼마간 하여보다가 두든지 또는 自能한 척을 하든지 한다면 그는 마츰내 아무런 成就도 없고 所得도 없을 것이다. 그럼으로 한번 이것에 뜻을 둔다면 그걸 尊重하고 敬虔하고 자기의 생명과 같이＜260＞ 알고 힘과 애를 오로지 바다드리어 보고야 할 것이다. 이러케 말하면 그까진 것을 가지고 그러케까지 하잘 것이 무엇이냐고 하실 이도 있을는지 모르나 그건 그러치 않다. 조고만 바늘귀에 실을 꾀는 것이라도 정신과 힘을 오로지 하여야 될 것이고 함부로 서뿔리 하여서는 아니 되거든 하물며 이것에랴.
+時調를 지어 보랴면 이러한 意志와 態道를 가지고 不斷의 修鍊과 刻苦한 노력이 있어야 한다. 그리하여 항상 그 精進하기를 바라고 재촉하여야 한다.
+이 作法을 아무리 자상하게 설명하드라도 그것만 보고는 되는 것이 아니다. 자기가 體驗하고 알어야 한다. 龍鳳湯이 맛이 좋다고 하여도 말만 듣고는 배부를 수 없다. 결국은 自習自覺에 있다.
+이에 그 作에 대한 몇몇 가지를 말하면
+
+1. 形式
+時調는 不定形한 自由詩와 달러 대개 旣定한 형식이 있다. 이 軌道를 따러야 하리라. 만일 脫線이 된다면 時調는 破壞한다. 지금 어떤 이는 이 軌道를 맛땅치 못하게 여기는 이도 있으나 이것이 다른 나라들의 定形詩와는 달러 嚴定한 字數가 있는 건 아니다. 和歌의 五七七七이나 漢詩의 五言七言과 같은 꼭 限定된 字數가 아니고 몇몇 자를 加減하여 쓸 수 있는 너그럽고 자유스럽게 된 것이다. 실상 알고 보면 이것도 一種 自由詩다. 요마적 新詩라는 自由詩도 시로 된다면 그만한 形은 제각각 있어야 한다. 橫說竪說 이것저것 하여 어수선하게 늘어놓기만 하면 되는 것이 아니다. 다시 말하면 自由詩는 여러 詩形을 자유로 選擇하여 쓰는 것이고 時調는 旣定한 形을 쓰는 것이다.
+時調의 構成은 初章, 中章, 終章의 三節로 되고 初章에는 初句, 終句가 있고 中章＜261＞에도 初句, 終句가 있고 終章은 初句, 二句, 三句, 終句가 있으며 字數는 初章의 初句에는 六字(二四調)로부터 九字까지, 終句에도 六字(二四調)로부터 九字까지, 中章의 初句에는 五字로부터 八字로까지, 終句에는 六字(二四調)로부터 九字까지, 終章의 初句는 三字, 二句는 五字로부터 八字까지, 三句는 四字 혹은 五字, 終句는 三字 혹은 四字를 마음대로 쓸 수가 있는 것이다. 이걸 다시 表하여 보면
+
+(ㄱ), 時調  初章-初句-(六字~九字)-終句-(六字~九字)
+中章-初句-(五字~八字)-終句-(六字~九字)
+終章-初句-(三字)-二句-(五字~八字)-三句-(四字, 五字)-終句-(三字, 四字)
+(ㄴ), 時調  初章初句-바람이 물소린가(七字) 終句-물소리가 바람인가(七字)
+中章初句-石壁에 달린 老松(七字) 終句-옴츠리고 춤을 추니(八字)
+終章初句-白雲이(三字) 二句-허우적어려(五字) 三句-蒼天에서(四字) 終句-나리                      더라(四字)
+
+이러한데 初章의 初句 終句나 中章의 初句의 六字句에는 반듣이 二四調를 쓰고 三三調와 같은 것은 아니 쓴다. 그 예를 들면
+山아 물어보자
+와 같은건 六字句의 二四調요
+이시라 하드면
+과 같은건 六字句의 二三調다. 이건 中章初句에는 쓰기도 하고 또 初章의 初句 終句나 中章의 終句에는 九字 이상으로 十餘字까지라도 破格하여 쓰기도 한다. 이밖에 다른 구들에 있어서도 한두字쯤 더 쓸 수가 있으나 다만 終章初句의 三字만은 一定不變＜262＞한다.
+이상의 말한 字數는 보통으로 쓰는 平時調의 형식이거니와 엇時調, 辭說時調의 형식은 初章, 中章, 終章의 三節로 된 것만은 平時調와 같어도 그 句數라든지 字數라든지가 다 다르고 또 終章初句의 三字로 그 이상 字數로 쓰기도 한다
+時調의 種類는 우에 말한 바와 같이 平時調, 엇時調, 辭說時調의 세 가지가 있다. 그러나 지금 와서 짓는 것은 平時調뿐이다. 물론 初學하는 이로는 이 平時調로부터 시작하는 것이 정당한 順序이다.
+時調의 字數가 이러케 되어야 할 이유는 얼른 말할 수 없다. 다만 이러한 형식은 어느 때 어느 한 사람의 創作이 아니고 적어도 八九百年前 高麗 때부터 일일이 쓰든 것으로 전하여 왔다. 누가 이걸 쓰라고 장려것도 아니고 어느 主義에 끌리거나 하여 써온 것도 아니다. 그러케 漢文漢詩를 愛重하고 崇尙하든 그 때에 있어 무수한 波瀾을 겪으면서도 지금까지 뚜렷하게 그 모양을 지키고 活躍하고 展開하는 것을 보면 우리의 언어, 문학에서의 역사적으로 영원한 不離性 不滅性을 가지고 있는 것이다.
+
+二. 內容
+時調의 內容이라 하여 별다른 것은 아니다. 말하자면 다른 詩歌에서 쓸 것을 時調의 形으로서 할뿐이다. 자기가 보고 듯고 感動하는 바를 率直하게 말할 뿐이다. 그러나 時調의 形이 다른 詩歌의 形과는 다른 만큼 그 전부를 그대로 할 수가 있다는 건 아니다. 그 作에 따러 千差萬別이 있을 건 當然한 일이다. 혹은 時調는 懷古나 산수풍경이나 읊는 데며 諷刺, 諧謔를 함에 適當하다고 생각할지는 모르나 그건 時調自體가 그런 것이 아니고 時調를 짓는 사람에 따를 것이다. 하필 時調만이냐. 다른 詩歌에 있어도 그러타. 이러한 점＜263＞이 시조에만 있을 까닭이 없다. 北原白秋의 作歌의 體驗을 보면 같은 내용을 가지고도 新詩로도 짓고 童謠로도 짓고 和歌로도 지었다. 과연 다 지을 수가 있는 것이다. 즉 자연이나 인생의 모든 것을 다 내용으로 쓸 수가 있는 것이다. 한데 그 내용이 될 材料를 취함에 初學者로서는 이러한 缺點이 있으니 하나는 그 形에 부족한 것이고 또 하나는 너무 넘치는 것이다.
+부족한 것은 아즉 사물을 觀察하는 힘이 綿密周到하지 못하거나 또는 銳敏하지 못하며 그 가장 緊要한 곳을 내버리고 그 시시한 부분을 고르는 것이다. 그러면서도 자기는 그런 줄도 모르고 그것에 興味를 가지고 있다. 이건 일정한 標準이 있는 것이 아니라 그 사람의 天稟과 修鍊의 程度에 따러 다를 것이다. 제법 작가라 할만한 이로도 서로 다를 것이다. 李白이가 黃鶴樓에 가서 崔灝의 시를 보고 ⌈有景道不得⌋이라 하고 嘆服하고 鳳凰臺로 가서야 시를 지은 것이 李白인 대시인의 眼目이다. 벌서 崔灝가 黃樓詩를 더할 나위 없게 지었는데 게다가 다시 重言復言할 것이 없다. 그 갈피를 모르는 시인들은 黃鶴樓에 가서 崔灝의 시를 보고도 자기가 능히 그보다 낫게 짓겠다고 呻吟하며 陳腐한 수작이나 내놓을 것이다. 이건 웃으운 일이지마는 나도 이왕 慶州를 가서 數十首 時調를 지어 어느 新聞에 記載한 일이 있다. 그 뒤 수년만에 또 慶州를 가보고 그전의 지은 數十首가 마음에 들지 아니하여 다시 두 首를 지었다. 그 두 首라는 것은 이러하다.
+
+한 고개 또한고개 고개를 헤어오다
+吐含山 넘어서서 東海바다 바라보고＜264＞
+저믄날 돌아갈길이 밧븐줄을 모르네
+
+보고도 보고지어 이곳에 石窟庵이
+험구즌 고개넘어 굽이굽이 도는길을
+잦은숨 잰걸음치며 오고오고 하누나
+
+이 두 首가 그전 數十首를 당하고 남으리라고 한다. 그전 것들은 陳腐한 소리에 지나지 못하였다. 즉 누구나 다 依例히 쓰는 懷古의 재료를 가지고 時調에 맞후어 놓았을 뿐이다. 자기로서의 獨創은 없든 것이다. 그러다가 다시 게를 가보고 이 두 首를 얻었는데 첫재 首의 내용은 吐含山을 넘어서서 東海바다를 바라다보는 것이다. 불국사를 나서 줄곳 산비탈로 오르며 그 여러 고개들을 넘어 돌아갈 때 한 고개를 넘어 돌면 또 한 고개, 또 한 고개-이 많은 고개들을 넘어 도노라고 손고락을 꼽아 헤어보기까지 하였다. 그 얼마나 괴로웠으리. 땀은 물 흘르듯 하고 숨은 차고 다리는 파근파근하여 차침차침 寸步도 옴길 수가 없다. 바야흐로 곱게도 물드는 丹楓이라든가 졸졸이는 물소리라든가 바위틈으로 오락가락 하는 다람쥐라든가 그밖의 모든 것, 모든 일이 다 잊어지고 다만 생각나는 것은 괴로움  뿐이다. 그 괴로움만으로 行進은 繼續한다. 마즈막 높은 고개를 넘었다. 발을 멈추었다. 浩浩茫茫한 東海바다가 대번 바라다 보인다. 가슴 속이 갑작이 넓어진다. 시원한 바람이 치달어 온다. 올목졸목한 산줄기들 줄줄이 벋어 있고 松林과 沙岸蒼波와 白帆- 이런 풍경들이 부나비처럼 알신거린다. 이곳이 가장 緊要한 곳이다. 이곳을 버려서는 아니된다. 여복이나 좋길래 저믈어 가는 날에도 돌아갈 길이 밧분 줄을 모르랴.＜265＞
+吐含山 넘어서서 東海바다 바라보고
+의 ⌈東海바다 바라보고⌋의 고字가 이 내용을 살린 것이다. 만일 東海바다 보라보니라 하여 고字를 니字로 한다면 그 중심인 緊要한 것을 잃어버릴 것이다. 그 고字 때문에 그 노래가 되고 그 많은 풍경들이며 그 壯快한 심사들이 含蓄된 것이고 또는 그 初章의 ⌈고개를 헤어오다⌋의 오字와 그 終章의 ⌈돌아갈 길이⌋의 갈字도 이 노래의 중심인 ⌈東海바다 바라보고⌋를 더욱 힘있게 한 것이다. 항용 道程의 順序대로 하면 헤어가다, 돌아올 길이라 하였을 것이다. 그리고 또 둣재首의 내용은 유명한 石窟庵을 讚頌한 것이다. 石窟庵의 彫刻-神將, 佛像들이 이러니 저리니 하고 詩나 文으로 암만이라도 지을 수는 있으나 잣칫하면 그 彫刻, 그 藝術品을 그대로 살리기는커녕 도리어 筆陳圖에 改漆이 되고 말 것이다. 아무리 한대도 그 彫刻 이상의 창작품을 낼 도리가 없을 것이다. 그 조각보다도 더 곱게 아루사기려고 덤벼서는 더구나 시가로서는 愚昧한 짓이다. 나도 그전에 이러한 愚昧한 짓을 하였다. 무척 애도 써보았다. 그러다 다시 가서 보고는
+보고도 보고지어
+이곳에 石窟庵이
+라 하고 험하고 사나운 고개들을 넘어 또 여러굽이 돌고돌아
+갖은숨 잰걸음치며
+오고오고 하누나
+라 한 것이다. 이곳은 웨 이와 같이 수 없이 수고를 하면서 찾어 오겠느냐. 이 곳의 石窟庵이 너무도 훌융하고 아름답고 좋다는 것이 말은 없어도 말한 것이다. 그건 石窟庵自身이 말하고 있는 것이다. 그러면 이 노래에는 ⌈이곳에 石窟庵⌋이라는 것이 가장 緊要한＜266＞ 곳이다.
+넘치는 것도 역시 그 緊要한 곳을 모르고 함부로 그 재료만 취하여다가 빡빡하게시리 채워 놓은 것이다. 말이나 곱게 쓴 것이고 보면 陣烈한 상품과 같이 어수룩한 顧客은 끝는지는 모르나 한 작품중으로서는 실패다. 재료가 과하면 과한 만큼 불필요한 것이 많다. 그리고 그 불필요한 것 때문에 필요한 것도 살릴 수가 없을 것이다.
+두세 首의 내용이 될만한 것을 가지고 한 首쯤을 맨든다면 될 수 없다. 時調는 時調만은 내용이랴야 될 것이다. 千噸을 실어야 할 배에다 千噸 이상을 실어서는 아니 된다. 時調도 그 量을 알어야 한다. 그 量을 알자면 從來의 短歌들을 많이 읽고 玩味하고 자기가 또한 많이 지어보고 따저보아야 한다. 그 내용은 목석과 같은 것이 아닌즉 자로 재어보거나 저울로 달어 뵐수도 없다. 다만 자기의 밝어지는 心眼으로 보고서 알 수밖에는 없다.
+-(繼續) -＜267＞
+＜260-267＞

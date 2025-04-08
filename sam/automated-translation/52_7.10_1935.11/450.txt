@@ -1,0 +1,72 @@
+**Header Section**
+Magazine Title: 三千里 제7권 제10호
+Publication Date: 1935-11-01
+Article Title: 서울 茶坊 (Seoul Teahouses)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation**
+Seoul Teahouses
+
+Seoul, Insadong, Venus
+
+Seoul, Chongno, Mexico
+
+Seoul, Hasegawachō, Nangnang (樂浪)
+
+Seoul, Chongno, Bon, Ami
+
+Seoul, Meijichō, Eliza
+
+Seoul, Meijichō, Diana
+
+Seoul, Namdaemun-t'ong, Boston
+
+Seoul, Kwanch'ŏl-tong, Paegabwŏn (百合園) <267>
+
+**Summary**
+
+This short piece simply lists several prominent teahouses (dabang) located in various districts of Seoul (Keijō) in 1935. The list includes the district name (Insadong, Chongno, Hasegawachō, Meijichō, Namdaemun-t'ong, Kwanch'ŏl-tong) and the name of the establishment. It offers a glimpse into the burgeoning modern cafe culture in colonial Seoul, showcasing a mix of Western (Venus, Mexico, Eliza, Diana, Boston, Bon Ami) and Sino-Korean (Nangnang, Paegabwŏn) names for these spaces. Historians might find this list valuable for studying urban social spaces, cultural consumption, modernization, and the geography of leisure under Japanese rule, noting the mix of Korean and Japanese administrative district names and the adoption of foreign names for establishments.
+
+**Named Entities**
+
+서울	서울	Sŏul
+仁寺洞	인사동	Insadong
+鐘路	종로	Chongno
+長谷川町	하세가와초	Hasegawachō
+明治町	메이지초	Meijichō
+南大門通	남대문통	Namdaemun-t'ong
+貫鐵洞	관철동	Kwanch'ŏl-tong
+樂浪	낙랑	Nangnang
+百合園	백합원	Paegabwŏn
+
+**Glossary**
+
+茶坊	다방	Teahouse; coffee shop (dabang)
+잡저	잡저	Miscellaneous writing; short essay/article
+삐-너스	비너스	Venus (older phonetic transcription)
+멕키시코	멕시코	Mexico (older phonetic transcription)
+뽄	본	Bon (French for 'good', part of 'Bon Ami'; older phonetic transcription)
+아미	아미	Ami (French for 'friend', part of 'Bon Ami')
+에리자	엘리자	Eliza (older phonetic transcription)
+따이나	다이애나	Diana (older phonetic transcription)
+뽀스통	보스턴	Boston (older phonetic transcription)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제10호
+발행일	1935년 11월 01일
+기사제목	서울 茶坊
+기사형태	잡저
+
+서울 茶坊
+서울 仁寺洞 삐-너스
+서울 鐘路 멕키시코
+서울 長谷川町 樂浪
+서울 鐘路 뽄, 아미
+서울 明治町 에리자
+서울 明治町 따이나
+서울 南大門通 뽀스통
+서울 貫鐵洞 百合園＜267＞

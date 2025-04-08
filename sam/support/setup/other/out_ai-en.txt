@@ -1,0 +1,300 @@
+52	410	World Literature Lecture, Samch'ŏlli Literary Lecture (1st Session Opens)	Kim Kwangsŏp	Essay/Editorial
+52	420	World Literary Masters Lecture, Samch'ŏlli Literary Lecture (1st Session Opens)	Yang Paekhwa	Essay/Editorial
+52	430	Burying Wild Chrysanthemums	No Ch'ŏnmyŏng	Poem
+52	440	Tohyang as Seen by a Writer (II), Recalling His Works	Min Pyŏnghwi	Literary Criticism
+52	450	Seoul Coffee Shops		Miscellaneous Writing
+52	460	Weather Map (Final Part)	Kim Kirim	Poem
+52	470	Rooster	Yi Hyosŏk	Novel/Fiction
+52	480	In the Willow's Shadow	Yi Hayun	Poem
+52	490	(Play) That Woman in Pari [Paris]	Na Hyesŏk	Play/Scenario
+52	500	Sorrow of the Black Man (III)	Stowe (Original), Ch'unwŏn (Abridged Translation)	Novel/Fiction
+52	510	Thanks and Apologies		Notice/Editorial Note
+53	010	Samch'ŏlli Confidential Room: The Korean Black Chamber		News/Report
+53	020	Gentleman: Over 410 Yen, Lady: Around 500 Yen. How Much Does It Cost to Make a Dapper Gentleman and Lady?		Miscellaneous Writing
+53	030	Invitation Plan - World Politicians, Thinkers, Literary Masters, Scientists		Survey/Questionnaire
+53	040	Seeking an Audience with the President of Piryulbin [Philippines], Prelude to His Inauguration in the New Capital	O Yŏngsŏp from P'illip'in [Philippine] University	News/Report
+53	050	Many Events in Chosŏn, Many Events in the World (Looking Back at the World 'Annals' and Seoul 'Annals' at the End of the Ŭrhae Year)	Wŏn Sehun	Essay/Editorial
+53	060	New Thousand Character Classic		News/Report
+53	070	Tosan's Character and Stage	Yi Kwangsu	Memoir/Reminiscence
+53	080	Millionaire's View on a Million Yen	Ch'uyŏpkkaek	Interview/Roundtable Talk
+53	090	Seoul Coffee Shops		Miscellaneous Writing
+53	100	Will War Break Out After All? (Mainly Focusing on the Italo-Ethiopian War and the Future Moves of the Powers)	Yŏ Unhyŏng	Essay/Editorial
+53	101	Unveiling Ceremony of the Memorial Stele for Master Yulgok	Sopa Han Chunsŏk	Poem
+53	110	A Scathing Critique of Materialism	Yu Kwangnyŏl	Essay/Editorial
+53	120	Dancer Ch'oe Sŭnghŭi Going to London and Pari [Paris]		Literary Miscellany
+53	130	Sounding Out the Feelings of Women Writers		Interview/Roundtable Talk
+53	140	Jade T'ongso [Flute]	P'ain	Poem
+53	150	The Way of the Cross		Miscellaneous Writing
+53	160	Couple Roundtable - Mr. and Mrs. Yŏ Unhyŏng, Feeling Like Newlyweds After Twenty Years	Samch'ŏllisa Woman Reporter Kang Sunok	Interview/Roundtable Talk
+53	170	Elegy for a Waning Life (Looking Towards the Age of Fifty)		Literary Miscellany
+53	180	Secret to Wealth of Top Merchants, First Public Disclosure = Propaganda and Advertising Techniques		News/Report
+53	190	Recollections of Past Days Filled with Laughter and Tears, Twenty Years of Stage Life	Pae Kuja	Interview/Roundtable Talk
+53	200	View of Life	Hwagok Yun Iksŏn	Poem
+53	210	Old Battlefield Pyŏktchegwan, Along with a Travelogue of Soryŏngwŏn, Tomb of King Sukchong's Concubine	Ch'oe Pongch'ŭk	Literary Miscellany
+53	220	Hidden Stars Preparing for Doctorates, Doctors of Literature, Doctors of Medicine, etc.	Yonghŭnggangin	News/Report
+53	230	Lament for King Tanjong, Revised Song-Story "Yŏngwŏl Heartbreak Song"	Original by Hyojong Hyŏn Hŭiun, Performed by Sŏnurhŏn Hyŏn Ch'ŏl	Literary Miscellany
+53	231	Wŏnsan Main Branch Announcement		Notice/Editorial Note
+53	240	Figures Active in Tongkyŏng [Tokyo]	Pukhan Hagin	News/Report
+53	250	Seeking the Street Girls' School (Part 2), The Tobacco Girls' School Singing the Tobacco Song		News/Report
+53	260	The Red Swastika Flag Flying at Yun Tŏgyŏng's Villa		News/Report
+53	270	More Excellent Than Dogs and Cats		Miscellaneous Writing
+53	280	Children's Story, The Tortoise and the Hare	Ch'oe Inhwa	Literary Miscellany
+53	290	Kussŭ, Yŏngae, and the Waitress	Yi Sŏgu	Novel/Fiction
+53	300	Recommended New Writers' Collection - Recommended by Yi Kwangsu, Naerak [Hell] (Novel)		Novel/Fiction
+53	310	Recommended New Writers' Collection - Recommended by Kim Ansŏ, Kŏjong [Giant Bell] (Poem)		Poem
+53	320	Recommended New Writers' Collection - Recommended by Chu Yohan, Hŭimang [Hope] (Poem)		Poem
+53	330	Recommended New Writers' Collection - Recommended by Pak Wŏlt'an, Nimŭl Nae Wae Morŭritka [Why Wouldn't I Know My Love?] (Poem)		Poem
+53	340	Recommended New Writers' Collection - Recommended by Yi T'aejun, Anhae [Wife] (Novel)		Novel/Fiction
+53	350	Recommended New Writers' Collection - Recommended by Yi Ŭnsang, Ch'uyajang [Long Autumn Night] (Sijo)		Poem
+53	360	Recommended New Writers' Collection - Recommended by Pak P'aryang, Pamŭi Kamch'ok [Touch of the Night] (Novel)		Poem
+53	370	Recommended New Writers' Collection - Recommended by Kim Kirim, Hana [One] (Poem)		Poem
+53	380	Recommended New Writers' Collection - Recommended by Yi Hayun, Haesuyokchang [Beach] (Poem)		Poem
+53	390	Recommended New Writers' Collection - Recommended by Chang Hyŏkchu, Samsongjŏngesŏ Saenggin Il [What Happened at Samsong Pavilion] (Novel)		Novel/Fiction
+53	400	Recommended New Writers' Collection - Recommended by Ch'unsŏng, Wŏryaŭi Pasubyŏng [Sentry on a Moonlit Night] (Poem)		Poem
+53	410	Recommended New Writers' Collection - Recommended by Im Hwa, Imin [Immigrant] (Poem)		Poem
+53	420	Recommended New Writers' Collection - Recommended by Yu Chino, Yurangmin [Wanderers] (Novel)		Novel/Fiction
+53	430	Samch'ŏlli Literary Lecture (2nd Session Opens)		Literary Criticism
+53	440	A Certain Woman	Mo Yunsuk	Poem
+53	450	Tohyang as Seen by a Writer (III)	Min Pyŏnghwi	Literary Criticism
+53	460	Autumn Night	Yŏsu	Poem
+53	470	The Wheels Listen	Kim Kirim	Poem
+53	480	Sorrow of the Black Man (IV)	Stowe (Original), Ch'unwŏn (Abridged Translation)	Novel/Fiction
+53	490	First Skirt	P'ain	Poem
+53	500	That Child's Age	P'ain	Poem
+53	510	No Ears, No Mouth	P'ain	Poem
+53	520	When the Garden Pea Flowers Bloom	P'ain	Poem
+53	530	Moonlit Night	P'ain	Poem
+53	540	The Rising Moon	P'ain	Poem
+53	550	Bluebird	P'ain	Poem
+53	560	Dream Path	P'ain	Poem
+53	570	Thoughts on Sending Off the Year		Notice/Editorial Note
+54	001	(Untitled - National Compilation)		Miscellaneous Writing
+54	010	Domestic and Foreign Situation	Samch'ŏlli Confidential Room	News/Report
+54	020	Three New Wishes for the New Year		Literary Miscellany
+54	021	The Prosperity of the Imperial Family		News/Report
+54	030	Symposium Critiquing Figures Great and Small Under Heaven		Interview/Roundtable Talk
+54	040	Youth, Look Ahead!	Cho Mansik	Essay/Editorial
+54	050	Parliamentary Politics and Dictatorial Politics	Kim Myŏngsik	Essay/Editorial
+54	060	The Story of Pak Hŭngsik Who Controls Twenty Million Yen	Ch'angnangkkaek	News/Report
+54	061	Thoughts After My Child's Death	Hyŏn Sangyun	Poem
+54	062	Meeting Pak Sunch'ŏn	Yang Kwŏnhwan	Poem
+54	070	Heard Tales of Nature [Scandal Chronicle]		News/Report
+54	080	Number of Great Power Troops and Their Concessions in North China, Revolving Around Japan, Britain, America, France, Germany, and White Russia	Hanyang Hagin	Essay/Editorial
+54	090	Crossing the Pacific Again, To Attend the World Christian Conference	Pak Indŏk	Travelogue
+54	100	Couple Roundtable, Mr. and Mrs. Yun Ch'iho, the Most Harmonious Couple in Chosŏn	Samch'ŏllisa Woman Reporter Kang Sunok	Interview/Roundtable Talk
+54	110	Impressions of the President Giving His Inaugural Address	O Yŏngsŏp at P'illip'in [Philippine] University	Literary Miscellany
+54	120	Account of Meeting British and American Women's Suffrage Activists	Na Hyesŏk	Interview/Roundtable Talk
+54	130	Watching the Turbulent Situation in the Motherland	Luo Jiyi, Vice Consul, Consulate General of the Republic of China in Kyŏngsŏng [Seoul]	Interview/Roundtable Talk
+54	140	White-Clad Talents Active in America, What Kind of People Are Active in Society Recently?	Ku Chaok	News/Report
+54	150	My Ten Years of Dance	Ch'oe Sŭnghŭi	Memoir/Reminiscence
+54	160	Group of White-Clad Heroes in Manchuria and North China		News/Report
+54	170	Writings Left by Ubo	Ch'oe Ŭnhŭi	Literary Miscellany
+54	180	Announcement of New Esperanto Section - Starting from the February Issue in This Magazine		Essay/Editorial
+54	190	Popular Singers Roundtable		Interview/Roundtable Talk
+54	200	Passing Soryŏngwŏn, Tomb of King Sukchong's Concubine, and the Old Battlefield Pyŏktchegwan (Continued)	Ch'oe Pongch'ŭk	Travelogue
+54	210	Ms. Kim Sanhoju Who Manages the 100,000 Yen Chosŏnkwan (Seeking the Female President)		Interview/Roundtable Talk
+54	220	Tearful Yŏngwŏl, Song-Story "Sad History of King Tanjong Continued"	Hyŏn Ch'ŏl	Novel/Fiction
+54	230	Heard Tales of Nature [Scandal Chronicle]		News/Report
+54	240	What Kind of Woman is Kim Okkyo Who Plans to Build a Hotel with 600,000 Yen?		News/Report
+54	250	The Go-Stop Bus Girls' School, 104 Women Active on the Streets, Seeking the Street Girls' School 3		News/Report
+54	260	What is the Recent Situation in Shanghai Where Three Million People Live?	Hwangp'ogangin	News/Report
+54	270	As an Artist Going Out into the World, What Would You See and Bring Back?		Survey/Questionnaire
+54	280	Looking Towards the Pŏllim [Berlin] Olympic Games	Son Kijŏng	Literary Miscellany
+54	290	Ch'ŏndogyo, Buddhism, Christianity, Religious Movements		Essay/Editorial
+54	300	"Modern" Seoul Design Plan	Pok Hyesuk	Essay/Editorial
+54	310	Sijo Lecture - Sijo Appreciation and Composition (Continued), Samch'ŏlli Literary Lecture, 3rd Session Opens	Yi Pyŏnggi	Essay/Editorial
+54	320	New Poetry Lecture - General Concepts of Poetry, Samch'ŏlli Literary Lecture, 3rd Session Opens	Im Hwa	Essay/Editorial
+54	330	Novel Lecture - History of the Development of the Chosŏn Novel (Continued), Samch'ŏlli Literary Lecture, 3rd Session Opens	Kim T'aejun	Essay/Editorial
+54	340	Overseas Literature Lecture: Overview of the Aeran [Irish] Literary Renaissance	Kim Kwangsŏp	Literary Criticism
+54	350	Unemployment	Yŏm Sangsŏp	Novel/Fiction
+54	360	Sŏngjogi [Record of House Construction] (Impressions)	Ch'unwŏn	Literary Miscellany
+54	370	Competition Poem	Widang Chŏng Inbo	Poem
+54	380	Contract	Chang Hyŏkchu	Novel/Fiction
+54	390	Omuni	Ch'uho Chŏn Yŏngt'aek	Novel/Fiction
+54	400	Sound of Footsteps Filling the Street	Pyŏn Yŏngno	Poem
+54	410	Yearning	Yŏngun Mo Yunsuk	Poem
+54	420	Hwangnyul [Yellow Chestnut] (A Sketch of the Metropolis)	Hyŏnmin Yu Chino	Literary Miscellany
+54	430	Scholar / Bachelor	Paek Sinae	Novel/Fiction
+54	440	Love and the Catapult (and 2 others)	P'yŏnsŏkch'on Kim Kirim	Poem
+54	450	By the Bronze Brazier	No Ch'ŏnmyŏng	Poem
+54	460	A Lesson	Chang Tŏkcho	Novel/Fiction
+54	470	By the Han River	Kim Ansŏ	Poem
+54	480	Song of the Dreamland Rose	Brian Hooker (Author), Pak Yongch'ŏl (Translator)	Poem
+54	490	Mountain	Yi Hyosŏk	Novel/Fiction
+54	500	Sorrow of the Black Man (V)	Stowe (Original), Yi Kwangsu (Abridged Translation)	Novel/Fiction
+54	510	Thoughts on Welcoming the New Year		Notice/Editorial Note
+54	520	Collection of Yŏ Unhyŏng's Speeches, Special Supplement No. 1		Essay/Editorial
+54	530	Collection of Popular Songs, Samch'ŏlli New Year Issue Special Supplement No. 2		Literary Miscellany
+55	010	Samch'ŏlli Confidential Room, The Korean Black Chamber		News/Report
+55	020	If One Were to Travel Around the World		Survey/Questionnaire
+55	030	Nation and State in a Period of Great Transition		Essay/Editorial
+55	040	The Chosŏn Ilbo Challenges, The Tonga Ilbo Responds	Sŏkpyŏngjŏng Ki	News/Report
+55	050	Vast North Manchuria	Kim Kyŏngjae	Travelogue
+55	060	Mr. Cho Mansik's Folk Calendar Diary		Miscellaneous Writing
+55	061	Announcement		Notice/Editorial Note
+55	070	What is Our Foremost Principle?		Survey/Questionnaire
+55	080	Critique of Bank Presidents: Tongŭn President Mr. Min Taesik	Kangsangkŏsa	News/Report
+55	090	Kundan and Mr. Song Chinu's Theory		Miscellaneous Writing
+55	100	Seeking Traces of the Nation's Rise and Fall		Travelogue
+55	110	What is the 'Old Korean Officers' Association'?		News/Report
+55	120	Replying to Im Ujŏng's Poem in Mid-November		Poem
+55	130	Grand View of Kyŏngsŏng [Seoul]'s Chongno Commercial Street	Kyŏngsan Hagin	News/Report
+55	140	Figures Active in Europe - Seeking the Shining Traces of White-Clad Talents -	Yonghŭnggangin	News/Report
+55	150	What Kind of Films Get "Cut" [Censored]?		Miscellaneous Writing
+55	160	Pounding Grain is Also Exciting	Yun Kŭgyŏng	Poem
+55	170	Progress on the Construction of Ch'ŏnhyanggak, a Korean-Style Hotel Flowing with Our Sentiment, Ms. Kim Okkyo Travels the Thirteen Provinces		Interview/Roundtable Talk
+55	180	Deluxe Edition of Cultural Chosŏn, New Women's Professional School on the Banks of the Han River - I am Only Happy to Realize What I Set My Mind On in My Life -	Im Yŏngsin, Principal of Chungang Childcare School	Memoir/Reminiscence
+55	190	That Woman Who Betrayed, That Man		Memoir/Reminiscence
+55	200	I Don't Know	Yun Kŭgyŏng	Poem
+55	210	Short Song of Longing for Home	Yun Kŭgyŏng	Poem
+55	220	(Comic Sketch) Scene from the Roundtable of New and Old Women	Sin Puch'ul	Miscellaneous Writing
+55	230	Star Actress Miss Mun Yebong's Answers Are Like This		Interview/Roundtable Talk
+55	240	Popular Physiognomy Lecture, What Kind of Person Accumulates Money?	Pae Sangch'ŏl	Miscellaneous Writing
+55	250	What Kind of Songs Will Be Popular in the New Spring?		Survey/Questionnaire
+55	260	Account of Accompanying a Honeymoon Trip	Yi Sŏgu	Literary Miscellany
+55	270	Records and Ms. Pak Hwasŏng		Miscellaneous Writing
+55	280	Writers and "Asparagus"		Miscellaneous Writing
+55	290	Mun Yebong Who Lost Sixty Yen		Miscellaneous Writing
+55	300	Seeking the Street Girls' School, The Textile Girls' School Weaving with Delicate Jade Hands		News/Report
+55	310	Crossed Lines and More Crossed Lines: The International Spy War		Miscellaneous Writing
+55	320	Where Palm Trees Thrive (Letter Sent from Kangnam)	Yŏsan	Literary Miscellany
+55	330	Revised Song-Story "Yŏngwŏl Heartbreak Song"	Performed by Haeurhŏn Hyŏn Ch'ŏl	Literary Miscellany
+55	340	What Would Mr. Yi Sut'ak Do If He Got a Million Yen?		Interview/Roundtable Talk
+55	350	Old Customs and New Year Events	Sin Im	Literary Miscellany
+55	360	Women Drawn by Literary Masters		Literary Miscellany
+55	370	Twelve Years to Avenge Her Father, Tearful Sad Story of a Flower-like Woman, The Tianjin Sun Chuanfang Assassination Incident		Memoir/Reminiscence
+55	380	Novel Lecture		Literary Criticism
+55	390	Poetry and Song Lecture		Literary Criticism
+55	400	Overseas Literary Masters Lecture	Yang Paekhwa	Literary Criticism
+55	410	Guide to Entrance for Kyŏngsŏng [Seoul] Schools, Guidelines for Entrance to Middle Schools and Above in Kyŏngsŏng This Spring		News/Report
+55	420	Our Works We Want to Translate into English or Esperanto and Send Overseas		Survey/Questionnaire
+55	430	Women Writers Roundtable		Interview/Roundtable Talk
+55	440	Literary Activities We Want to Do This Year		Survey/Questionnaire
+55	450	Masculine Beauty	Widang Chŏng Inbo	Poem
+55	460	Greeting the New Year	Chŏkku	Poem
+55	470	Beast	Yu Ch'ijin	Play/Scenario
+55	480	Unemployment (Continued)	Yŏm Sangsŏp	Novel/Fiction
+55	490	Recommended by Chang Hyŏkchu, New Writer's Work, What Happened at Samsong Pavilion (Continued)	Pak Pukmin	Novel/Fiction
+55	500	Sorrow of the Black Man (VI)	Stowe (Original), Yi Kwangsu (Abridged Translation)	Novel/Fiction
+55	510	Laughing Free Notes		Miscellaneous Writing
+55	520	Samch'ŏlli Esperanto Section		Literary Miscellany
+55	521	Thanks and Apologies		Notice/Editorial Note
+56	001	(Untitled - National Compilation)		Miscellaneous Writing
+56	010	Samch'ŏlli Confidential Room: The Korean Black Chamber	Samch'ŏllisa	News/Report
+56	020	Principles for Founding a People's University		Essay/Editorial
+56	030	What Kind of Stage Do We Want to Entrust to Mr. An Ch'angho?		Survey/Questionnaire
+56	040	Rise of the Center and Chosŏn, East Asian Hegemony Battle, Three-Generation Newspaper War Like the Spring and Autumn / Warring States Period	Ch'wigong	Essay/Editorial
+56	050	Skills and Personal Views of Foreign Ministers of the Powers Revolving Around the Far East Problem	Kim Chongbŏm	Essay/Editorial
+56	060	Seeking Contemporary Scholars Out of Office (1), Visiting Mr. Hong Myŏnghŭi, a Contemporary Scholar Living in Honorable Poverty and Enjoying the Way		News/Report
+56	070	Tomb of Tan'gun	Yi Kwangsu	Travelogue
+56	080	Critique of Bank Presidents	Kangch'on Kŏsa	Essay/Editorial
+56	090	Would General Chiang Kai-shek Becoming President Be Good for the "General Situation in the Orient"?		Survey/Questionnaire
+56	100	Will Yi Yongik's "Million Yen" Live or Die? What is the Outcome of the Great Trial to be Decided This March?		Essay/Editorial
+56	110	White Gull	Hwagok Yun Iksŏn	Poem
+56	120	Walking Alone After Parting	Yang Kŭnhwan	Poem
+56	130	Several Recent Poems	Kŭmnŭngin Sŭng Ŭngsun	Poem
+56	140	Where Did Graduates of Ihwa University and Professional Schools Marry? What Sweet Homes Are the Mortarboard-Wearing Ladies Decorating?	Kim P'allyŏn Ki	Miscellaneous Writing
+56	150	Do Women Writers Watch Movies?	Pak Hwasŏng	Miscellaneous Writing
+56	160	Women Writers and Movies	Paek Sinae	Miscellaneous Writing
+56	170	Farewell, Brothers	Pak Indŏk, Having Come to America	Literary Miscellany
+56	180	Why Did I Come to Tongkyŏng [Tokyo]? My Plan for a Maternity Hospital	Hŏ Yŏngsuk from Tongkyŏng [Tokyo]	Literary Miscellany
+56	190	Though the Wind Blows	Kim Anyo	Poem
+56	200	Sigh of the Butterfly	Kim Anyo	Poem
+56	210	Waiting	P'ain	Poem
+56	220	Inner Thoughts / Soliloquy	P'ain	Poem
+56	230	Heated Debate, Heated Debate, Heated Debate		Essay/Editorial
+56	240	Tanjae Sin Ch'aeho	Wŏn Sehun	Essay/Editorial
+56	250	View of Taejonggyo, What is Taejonggyo Historically?	Kwŏn Tŏkkyu	Essay/Editorial
+56	260	Taejonggyo and the Korean People	Yi Yunjae	Essay/Editorial
+56	270	Happy News Heard with Emotion	Yu Chint'ae	Literary Miscellany
+56	271	Sigh of the Butterfly	Kim Ansŏ	Poem
+56	272	Ch'unwŏn of the "Dead Tree Bears Flowers" Theory		News/Report
+56	280	Landscape and People of North Manchuria	Kim Kyŏngjae	Literary Miscellany
+56	290	Significance of the Nangnang [Lelang] Ruins	Kim T'aejun	Essay/Editorial
+56	300	Contemporary Popular Star, Mr. Na Un'gyu's Answers Are Like This		Interview/Roundtable Talk
+56	310	Roundtable of Intelligent Kisaeng, Actresses, and Waitresses Who Graduated from Girls' High Schools	Sŏ Pyŏngju from Mikasa-chō, Taegu	Interview/Roundtable Talk
+56	320	Dance, Dance, Dance		Survey/Questionnaire
+56	330	Elegy of the White-Clad Camellia Princess [Traviata]	Yi Sŏgu	Novel/Fiction
+56	340	World-Renowned Dancer Ms. Ch'oe Sŭnghŭi's Answers Are Like This		Interview/Roundtable Talk
+56	350	Protesting to the Prime Minister Regarding the Women's Issue	Chungse Hagin	Essay/Editorial
+56	360	Visiting Mr. Ch'oe Sangdŏk, Manager of Tongyang Theater, Account of Visiting the Young Manager		Interview/Roundtable Talk
+56	370	Visiting the Salvation Army Daycare Center in London	Na Hyesŏk	Interview/Roundtable Talk
+56	380	How Different Are Pŏllansŏ [French] Families?		News/Report
+56	390	Impressions of Syayarip'in [Chaliapin]	Chang Nosŏng from Tongkyŏng [Tokyo]	Memoir/Reminiscence
+56	400	Prediction Regarding "War or Peace," This Year's World Political and Financial Circles	Madame Pŏllanya	Essay/Editorial
+56	410	How Should Retailers Compete Against Department Stores?	Chu T'aedo, President of Tongyang T'ongsin	Essay/Editorial
+56	420	Yŏnjŏn's Victory Match Seen in Shanghai, Soccer Match Against the All-China Army Team	Kim Myŏngsu from Shanghai	Literary Miscellany
+56	430	Film Movement in Nanking and Shanghai		Literary Criticism
+56	440	Film Adaptation of Woman Literary Master Ms. Widŏ [Ouida]'s Work, Pitiful Friend		Novel/Fiction
+56	450	Film of Literary Master Ttŏstŏepsŭk'i [Dostoevsky]'s Work, Crime and Punishment		Novel/Fiction
+56	460	Spring Nostalgia		Literary Miscellany
+56	470	The Lawn of Chunwŏnjŏn Palace, Which Would Have Been Green This Spring Too	Pak Sanghŭi	Literary Miscellany
+56	480	Popular Physiognomy Lecture (2), What Kind of Person Lives a Long Life?	Pae Sangch'ŏl	Essay/Editorial
+56	490	What Kind of "Records" Are Banned?		Miscellaneous Writing
+56	500	Where Did the Zoo Animals Come From and How Much Were They Sold For?		Miscellaneous Writing
+56	510	Homeland Flight Also an Ephemeral Dream! Secret Love and Sad Story of Ill-Fated Aviatrix Miss Pak Kyŏngwŏn		Memoir/Reminiscence
+56	520	World Literary Masters Lecture, Samch'ŏlli Literary Lecture 5th Session Opens	Wŏlt'an	Essay/Editorial
+56	530	Sijo Lecture, Samch'ŏlli Literary Lecture 5th Session Opens	Yi Pyŏnggi	Essay/Editorial
+56	540	View on the World Standard of Korean Literature		Literary Criticism
+56	550	Our Modern Literary Masters	Hyŏn Sangyun	Literary Criticism
+56	560	Book of Songs	Kim Ansŏ	Poem
+56	570	Lullaby	Chang Tŏkcho	Novel/Fiction
+56	580	News from the "Cotton Gin Street"	Song Yŏng	Novel/Fiction
+56	590	Sorrow of the Black Man (VII)	Stowe (Original), Yi Kwangsu (Abridged Translation)	Novel/Fiction
+56	591	Tongkyŏng [Tokyo] Military Incident Illustrated News (Samch'ŏlli April Issue Special Supplement)		Miscellaneous Writing
+56	600	Thanks and Apologies		Notice/Editorial Note
+57	010	Samch'ŏlli Confidential Room, The Korean Chamber		News/Report
+57	020	Impressions of World Conferences and National Assemblies		Interview/Roundtable Talk
+57	030	Have You Tried Dancing?		Survey/Questionnaire
+57	040	Stories of Failures During Travel		Memoir/Reminiscence
+57	050	Travel Notes from Abroad	Kim Hwallan	Memoir/Reminiscence
+57	060	Reminiscing about Pari [Paris]	Yŏ Unhong	Memoir/Reminiscence
+57	070	Poem on Meeting One Evening in Hanyang [Seoul]		Poem
+57	080	Old Gentlemen and Ladies Twenty Years Later		Miscellaneous Writing
+57	090	Will the Day Come When a Proletarian Cabinet Appears in Nihon [Japan]?		Survey/Questionnaire
+57	100	Heroes of the Korean Lineage/System	An Chaehong	Essay/Editorial
+57	110	Current Events Photo Report		Miscellaneous Writing
+57	120	Miscellaneous Reading Notes	Song Chinu	Memoir/Reminiscence
+57	130	Seeking Contemporary Scholars Out of Office (2), Visiting Mr. Han Yongun Meditating at Simujang [Seeking the Ox Hermitage]		Interview/Roundtable Talk
+57	140	Where Will Min Yŏnghwi's Twelve Million Yen Fortune Go?		Miscellaneous Writing
+57	150	Critique of Bank Leaders: Haedong Bank's Mr. Mun Sang'u	Kangch'on Kŏsa	News/Report
+57	160	First Enthusiastic Educational Fervor Since Kimi [1919], Trying to Build Anak Common High School with 600,000 Yen Soaked in Tears	Chang Hŭimun, Standing Committee Member, Anak Common High School Establishment Association	Memoir/Reminiscence
+57	170	How Much Does Tongt'ak [Oriental Development Company] Lend for Gold Mines?		Miscellaneous Writing
+57	180	Sitting Facing the Mirror		Literary Miscellany
+57	190	The "Nyangnyangjwa" [Ladies' Seat] Where Men Are Forbidden	Kaaja	Interview/Roundtable Talk
+57	200	Love's "Hiking Course" to Go With a Lover	Yi Sŏgu	Miscellaneous Writing
+57	210	The Meijiza, Palace of Film Art Calling the 600,000 Citizens of Great Kyŏngsŏng [Seoul], The Shōchiku Premiere Movie Theater to be Completed This Autumn -		Miscellaneous Writing
+57	220	List of Single Female Teachers in Seoul, Youth Fades, How Long Will These Beauties Remain Alone?	Kim P'allyŏn	News/Report
+57	230	Samch'ŏlli Thousand and One Nights		Miscellaneous Writing
+57	240	Comedy Actor Chŏn Kyŏnghŭi and Sŏkkwabul [Stone Reclining Buddha], Gathering in One Place, Q&A Record	Sang'gong	Interview/Roundtable Talk
+57	250	Ninety-Nine Aspects of Women	Sin Puch'ul	Literary Miscellany
+57	260	Account of the Conduct of Millionaires' Second Generation	Ch'obyŏngjŏng	News/Report
+57	270	Contemporary Handsome Man Mr. Sim Yŏng's Answers Are Like This	Ch'unsu	Interview/Roundtable Talk
+57	280	Tearful Heroine Miss Ch'a Hongnyŏ's Answers Are Like This	Ch'uyŏp	Interview/Roundtable Talk
+57	290	Secret Method for Building Cultural Housing on Monthly Installments		Miscellaneous Writing
+57	300	History of Famous Kisaeng's Glory, Chosŏn Kwŏnbŏn [Kisaeng Association]	Nangnang Kongja	News/Report
+57	310	Inquiry Meeting, An Kiyŏng and Kim Hyŏnsun Love Affair Case	Il Kija [A Reporter]	Interview/Roundtable Talk
+57	320	<Popular Physiognomy Lecture>, What Kind of Person Enjoys Glory?	Pae Sangch'ŏl	Miscellaneous Writing
+57	330	Star Actors Who Disappeared from the Silver Screen	Ch'osa	News/Report
+57	340	Record of Loving Alcohol	Kim Ansŏ, Ch'a Sangch'an	Literary Miscellany
+57	350	Does Sambang Mineral Water Really Have Efficacy?	Pak Ch'anghun, M.D.	Miscellaneous Writing
+57	360	Is Taking a Nap After Meals Good for the Body?	Chŏng Sŏkt'ae, German M.D.	Miscellaneous Writing
+57	370	Samch'ŏlli Apricot Blossom Village		Miscellaneous Writing
+57	380	Talk Room		Miscellaneous Writing
+57	390	Jokes / Funny Stories		Miscellaneous Writing
+57	400	Respectful Announcement		Notice/Editorial Note
+57	410	Overseas Literature Lecture, Characteristics of Togil [German] Literature (1)	Sŏ Hangsŏk	Essay/Editorial
+57	420	New Poetry Lecture, How to Write Poetry	Kim Ansŏ	Essay/Editorial
+57	430	Sijo Lecture: Sijo Appreciation and Composition (Continued)	Yi Pyŏnggi	Essay/Editorial
+57	440	Overseas Literature Lecture, Overview of Modern Aeran [Irish] Poetry (III)	Kim Kwangsŏp	Essay/Editorial
+57	450	Literature of Early Summer	P'ain	Poem
+57	460	Literary Policy Meeting with Four Professors from Three Professional Schools and Arts Section Chiefs from Three Newspaper Companies		Interview/Roundtable Talk
+57	470	Recent Reading and Creation		News/Report
+57	480	Impressions of Meeting Literary Masters		Memoir/Reminiscence
+57	490	Urgent Discussion: Will Fascist Literature Emerge in the Korean Literary World?		Survey/Questionnaire
+57	500	My House Window Greeting the Spring	Kang Kyŏngae	Literary Miscellany
+57	510	Aeran [Ireland]'s Restoration Movement		News/Report
+57	520	Random Thoughts on Literature	Min Pyŏnghwi	Literary Criticism
+57	530	Book of Songs	Kim Ansŏ	Poem
+57	540	Ten Years Later	Yi Kiyŏng	Novel/Fiction
+57	550	Swarm of Flies	Song Yŏng	Novel/Fiction

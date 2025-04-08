@@ -1,0 +1,69 @@
+Magazine Title: 삼천리
+Publication Date: 1931년 09월 01일
+Article Title: 三千里 「壁新聞」 第2號, 總督府內의 朝鮮人幹部 (Samch'ŏlli "Wall Newspaper" No. 2, Korean Cadres within the Government-General)
+Author: Not specified
+Article Type: 소식 (News)
+
+Samch'ŏlli "Wall Newspaper" No. 2, Korean Cadres within the Government-General
+
+The Korean cadres within the Government-General of Korea are as follows, from which one can clearly see in which areas the supreme governing body employs Korean officials.
+
+Governor's Secretariat Cadre: 15 persons total, Korean: None
+Home Affairs Bureau Cadre: 34 persons total, Korean: 1
+Finance Bureau Cadre: 18 persons total, Korean: None
+Industrial Promotion Bureau Cadre: 33 persons total, Korean: 1
+Judicial Bureau Cadre: 3 persons total, Korean: None
+Educational Affairs Bureau Cadre: 10 persons total, Korean: 3
+Police Affairs Bureau Cadre: 15 persons total, Korean: None
+Forestry Bureau Cadre: 11 persons total, Korean: None
+Land Improvement Department Cadre: 16 persons total, Korean: None
+Total: 155 persons total, 5 <7>
+
+**Summary**
+
+This news brief from the September 1931 issue of *Samch'ŏlli* magazine lists the number of Korean officials holding cadre (幹部) positions within the various bureaus of the Japanese Government-General of Korea. It reveals that out of 155 total cadre positions across major departments, only 5 were held by Koreans, predominantly in the Educational Affairs Bureau (3), with one each in Home Affairs and Industrial Promotion. Historians might find this data valuable as a stark, quantitative illustration of the limited extent to which Koreans were integrated into the higher levels of the colonial administration, particularly outside of culturally-focused areas like education, highlighting the structural limitations placed on Korean participation in governance during this period.
+
+**Named Entities**
+
+朝鮮總督府	조선총독부	Chosŏn Ch'ongdokpu
+官房	관방	Governor's Secretariat
+內務局	내무국	Home Affairs Bureau
+財務局	재무국	Finance Bureau
+殖産局	식산국	Industrial Promotion Bureau
+法務局	법무국	Judicial Bureau
+學務局	학무국	Educational Affairs Bureau
+警務局	경무국	Police Affairs Bureau
+山林局	산림국	Forestry Bureau
+土地改良部	토지개량부	Land Improvement Department
+
+**Glossary**
+
+幹部	간부	Cadre, executive staff
+갓하야	같아서	Like the following, as follows (Older spelling/form of 같아서)
+엇든	어떤	Which, what kind of (Older spelling/form of 어떤)
+方面	방면	Area, field, aspect
+登用	등용	Appointment, employment (esp. to a government post)
+잇슴	있음	Being, existence; here used to indicate the fact of employment (Older spelling/form of 있음)
+計	계	Total, sum
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제9호
+발행일	1931년 09월 01일
+기사제목	三千里 「壁新聞」 第2號, 總督府內의 朝鮮人幹部
+기사형태	소식
+
+三千里 「壁新聞」 第2號, 總督府內의 朝鮮人幹部
+朝鮮總督府內의 朝鮮人幹部는 아래와 갓하야 最高統治機關에서 엇든 方面에 限하야 朝鮮人官吏를 登用하고 잇슴을 可히 알 수 잇다.
+官房      幹部  15人中    朝鮮人 無
+內務局    同    34人中    朝鮮人 1
+財務局    同    18人中    同    無
+殖産局    同    33人中    同     1
+法務局    同     3人中    同    無
+學務局    同    同10人中  同     3
+警務局    同    15人中    同    無
+山林局    同    11人中    同    無
+土地改良部同    16人中    同    無
+計              155人中         5 <7>

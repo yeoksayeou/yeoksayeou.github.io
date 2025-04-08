@@ -1,0 +1,40 @@
+Magazine Title: 삼천리 제13권 제6호
+Publication Date: 1941년 06월 01일
+Article Title: 외국영화의 상영 (Screening of Foreign Films)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/article)
+
+In Chosŏn, because the theatrical exhibition of only foreign films is forbidden, they are all screened together with domestic films (邦畫), and the average screening ratio is 65% domestic films and 35% foreign films. <240>
+
+**Summary**
+
+This brief article notes that in colonial Korea (Chosŏn) as of 1941, regulations prohibited movie theaters from exclusively showing foreign films. Instead, foreign films had to be paired with domestic films (邦畫, likely referring to Japanese or potentially Korean films made within the empire). The average screening time was allocated as 65% for domestic films and 35% for foreign films. For historians, this text provides specific quantitative data on the implementation of cultural control policies by the Japanese Government-General during the late colonial period, demonstrating the mandated restriction of foreign cultural products like movies in favor of promoting domestic ones.
+
+**Named Entities**
+
+조선	조선	Chosŏn
+
+**Glossary**
+
+외국영화	외국영화	Foreign film
+상영	상영	Screening, showing
+영화흥행	영화흥행	Film exhibition, theatrical run
+금하기	금하기	To forbid, ban (Slightly older grammatical form)
+방화 (邦畫)	방화	Domestic film (lit. 'national film', referring to films produced within the Japanese empire)
+倂映	병영	Combined screening, double feature
+상영율	상영률	Screening rate/ratio (Note standard contemporary spelling uses 률 after a vowel)
+할	할	Unit representing 10% or 0.1 (used in ratios)
+분	분	Unit representing 1% or 0.01 (used in ratios)
+평균	평균	Average
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	외국영화의 상영
+기사형태	잡저
+
+외국영화의 상영
+조선에서는 외국영화만을 상영하는 영화흥행을 금하기 때문에 모두 방화와 倂映하고 있으며 그 상영율은 방화 6할 5분, 외국영화 3할 5분 평균이다.＜240＞

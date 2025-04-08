@@ -1,0 +1,77 @@
+**Header Section:**
+Magazine Title: 三千里
+Publication Date: 1935년 12월 01일 (December 1, 1935)
+Article Title: 서울 茶坊 (Seoul Tabang / Seoul Tea Houses)
+Author: Not specified
+Article Type: 잡저 (Chapchŏ / Miscellany)
+
+**Body Text Translation:**
+Seoul Tea Houses
+
+Seoul Insadong Ppi-nŏsŭ (삐-너스)
+
+Seoul Chongno Mekk'isik'o (멕키시코)
+
+Seoul Hasegawachō Nakrang (樂浪)
+
+Seoul Chongno Ppon (뽄), Ami (아미)
+
+Seoul Meijichō Erija (에리자)
+
+Seoul Meijichō Ttaina (따이나)
+
+Seoul Namdaemun-t'ong Pposŭt'ong (뽀스통)
+
+Seoul Kwanch'ŏl-tong Paeghabwŏn (百合園) <62>
+<62-62>
+
+**Summary**
+
+This short article lists several prominent tea houses (*tabang*) in Seoul as of late 1935, specifying their locations by district (dong/chō/t'ong). The list highlights popular spots in central Seoul areas like Insadong, Chongno, Hasegawachō (modern Sogong-dong area), Meijichō (modern Myŏngdong), Namdaemun-t'ong (Namdaemun-ro), and Kwanch'ŏl-tong. For historians, the article is interesting as it reflects the burgeoning cafe culture in colonial Seoul. The mix of Korean districts (Insadong, Chongno, Kwanch'ŏl-tong) and Japanese-named districts (Hasegawachō, Meijichō), along with the variety of tea house names (Western transliterations like Ppi-nŏsŭ/Venus, Mekk'isik'o/Mexico, Pposŭt'ong/Boston; Japanese/Korean like Nakrang, Paeghabwŏn), illustrates the cultural fusion and modernization occurring under Japanese rule.
+
+**Named Entities**
+
+서울	서울	Seoul
+仁寺洞	인사동	Insadong
+삐-너스	삐-너스	Ppi-nŏsŭ
+鐘路	종로	Chongno
+멕키시코	멕키시코	Mekk'isik'o
+長谷川町	하세가와초	Hasegawachō
+樂浪	낙랑	Nakrang
+뽄	뽄	Ppon
+아미	아미	Ami
+明治町	메이지초	Meijichō
+에리자	에리자	Erija
+따이나	따이나	Ttaina
+南大門通	남대문통	Namdaemun-t'ong
+뽀스통	뽀스통	Pposŭt'ong
+貫鐵洞	관철동	Kwanch'ŏl-tong
+百合園	백합원	Paeghabwŏn
+
+**Glossary**
+
+茶坊	다방	Tea house, coffee shop (often used for western-style cafes in this era)
+洞	동	Administrative district suffix (Korean)
+町	초	Administrative district suffix (Japanese, used for some areas in colonial Seoul, read as 'jō' or 'chō' depending on context, often Koreanized as 'ch'o' or 'jŏng')
+通	통	Street or avenue suffix (Korean)
+잡저	잡저	Miscellaneous writing, miscellany
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제11호
+발행일	1935년 12월 01일
+기사제목	서울 茶坊
+기사형태	잡저
+
+서울 茶坊
+서울 仁寺洞 삐-너스
+서울 鐘路 멕키시코
+서울 長谷川町 樂浪
+서울 鐘路 뽄, 아미
+서울 明治町 에리자
+서울 明治町 따이나
+서울 南大門通 뽀스통
+서울 貫鐵洞 百合園 <62>
+<62-62>

@@ -1,0 +1,62 @@
+**Header Section:**
+Magazine Title: 삼천리
+Publication Date: 1934년 08월 01일
+Article Title: 閑談室 (Idle Talk Room / Lounge)
+Author: None specified
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation:**
+Idle Talk Room
+
+Among literary figures, those who have not yet visited Mount Kŭmgang are as follows. They keep intending to go but haven't managed it.
+Chu Yohan, Pak P'aryang, Kim P'albong, Pak Yŏnghŭi, Yi T'aejun, Kim Tonghwan
+
+On the contrary, those who have already visited are Yi Kwangsu, Yang Paekhwa, Kim Ansŏ, Yi Ŭnsang, Kim Tongin, Chŏng Inbo, Yi Pyŏnggi, Yi Yunjae<154>
+
+**Summary**
+
+This short piece lists prominent Korean writers of the 1930s, dividing them into two groups: those who have yet to visit the famous Mount Kŭmgang despite wanting to, and those who have already made the trip. From a historical perspective, the article is interesting as it names key literary figures of the colonial period and references Mount Kŭmgang, a site of significant cultural and national importance. It subtly reflects the status and perhaps the leisure or means available to these intellectuals, making it a minor but potentially useful data point for social and cultural historians studying the era.
+
+**Named Entities**
+
+金剛山	금강산	Kŭmgangsan
+朱요한	주요한	Chu Yohan
+朴八陽	박팔양	Pak P'aryang
+金八峯	김팔봉	Kim P'albong
+朴英熙	박영희	Pak Yŏnghŭi
+李泰俊	이태준	Yi T'aejun
+金東煥	김동환	Kim Tonghwan
+李光洙	이광수	Yi Kwangsu
+梁白華	양백화	Yang Paekhwa
+金岸曙	김안서	Kim Ansŏ
+李殷相	이은상	Yi Ŭnsang
+金東仁	김동인	Kim Tongin
+鄭寅普	정인보	Chŏng Inbo
+李秉歧	이병기	Yi Pyŏnggi
+李允宰	이윤재	Yi Yunjae
+
+**Glossary**
+
+閑談室	한담실	Lounge, chat room
+文人	문인	Literary person, writer, intellectual
+아직	아직	Yet, still
+못 가본	못 가본	Have not been able to go, unable to visit
+如左	여좌	As follows (lit., like the left); an older, formal expression
+벼르면서	벼르면서	While planning to, while intending to, while waiting for an opportunity
+反對	반대	Opposite, contrary
+이미	이미	Already
+단녀온	다녀온	(Someone) who has visited/been to. Older spelling/form of 다녀온.
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제8호
+발행일	1934년 08월 01일
+기사제목	閑談室
+기사형태	잡저
+
+閑談室
+文人 中 아직 金剛山을 못 가본 이가 如左함니다. 늘 벼르면서 못 가보는 것이지요.
+朱요한, 朴八陽, 金八峯, 朴英熙, 李泰俊, 金東煥
+그 反對로 이미 단녀온 이가 李光洙, 梁白華, 金岸曙, 李殷相, 金東仁, 鄭寅普, 李秉歧, 李允宰<154>

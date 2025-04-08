@@ -1,0 +1,97 @@
+Magazine Title: 삼천리 제10권 제1호
+Publication Date: 1938년 01월 01일
+Article Title: 肺結核과 外科 (Pulmonary Tuberculosis and Surgery)
+Author: 鄭求忠
+Article Type: 잡저 (Miscellaneous Writing)
+
+Pulmonary Tuberculosis and Surgery
+						Chŏng Ku-ch'ung
+
+With the development of surgery, there is a trend towards treating internal diseases surgically. Especially diseases that cannot be treated medically are almost all attempted to be treated surgically. Appendicitis (盲腸炎), once treated in internal medicine, is now fundamentally treated by complete appendectomy (虫樣突起摘出) in surgery as its pathology has become clear and its cause precise. Stomach cancer (胃癌) is also difficult to completely eliminate the cancer itself, so the goal of treatment is pursued by surgically removing the site where the cancer occurs. Similarly, since the medical treatment of pulmonary tuberculosis (肺結核) is slow, there is an attempt to treat it surgically. Now, I wish to briefly discuss the cause and pathology of pulmonary tuberculosis and its treatment.
+
+The cause of pulmonary tuberculosis is infection by the tubercle bacillus (結核菌). While it is sometimes transmitted directly through the respiratory system (in most cases), infections transmitted through the skin or intestines all invade the lungs (肺臟) to form tuberculosis.
+
+Strangely, from the point of invasion, the bacteria travel through the lymphatic vessels (淋巴線) to the veins, invariably passing through the lungs before circulating throughout the body again. In other words, bacteria that have entered the bloodstream, regardless of their type, must pass through the lungs. Therefore, pyogenic bacteria (化濃菌) that cause acute diseases cause illness at the site of invasion, but bacteria that cause chronic diseases do not cause illness at the site of invasion but rather in distant locations (遠隔場所). Thus, it is often the case that tubercle bacilli invade through the tonsils (扁桃線) and cause tuberculosis of the lymph nodes in the head (scrofula), leading to pulmonary tuberculosis. Not only that, but it is believed by all scholars studying tuberculosis that hilar lymph node tuberculosis (肺門腺結核) leads to pulmonary tuberculosis. When we handle tuberculosis patients, thinking it is only transmitted through the respiratory tract and defending only the oral cavity means defending only a part; we must be careful that it does not invade any part of the entire body.
+
+The initial symptoms of pulmonary tuberculosis, hilar lymph node tuberculosis, and apical catarrh (肺尖加答兒症勢) are only mild fever and cough. When such symptoms are present, if pulmonary tuberculosis is suspected first, it can be completely cured with simple treatment. However, if it progresses further and tuberculosis spreads to the lung parenchyma (肺實質), there is comparatively high fever and many various symptoms, making treatment difficult, and it often does not heal unless a long period has passed.
+
+When it progresses further and becomes relatively widespread tuberculosis, there may be hemoptysis (咯血), and besides that, various side effects such as cough, bloody sputum, and fever occur, making it often difficult to expect a complete cure.
+
+Generally, as human life gradually concentrates in cities and the need for communal living is felt, contact between individuals increases, and consequently, the spread of tuberculosis causes harm, while at the same time, immunity (免疫性) to tuberculosis develops within the human body. Children in cities become infected with tubercle bacilli unknowingly from the age of 4 or 5, developing immunity to it. During the period until immunity develops after infection with tubercle bacilli, the symptoms observed in young children include weakening due to loss of appetite, mild cough and fever, sometimes accompanied by mild pleurisy (肋膜炎) and peritonitis (腹膜炎), along with swelling (腫脹) of lymph nodes throughout the body, or sometimes symptoms of gastrointestinal catarrh (胃腸加答兒), and occasionally chest pain or abdominal pain. While such symptoms often persist for several years or 7-8 years and are unknowingly cured during that time, we see a considerable number who transition again to pulmonary tuberculosis and become victims (in our Chosŏn (朝鮮), this is sometimes called *pokhak* (복학) or *chaegŏt* (재것)). Those who have resisted tuberculosis in childhood like this have strong resistance to tuberculosis after becoming adults, their progression is relatively slow, and they are easily cured. People who had no relation to tuberculosis in childhood, if infected with tubercle bacilli after becoming adults, progress rapidly and meet an unfortunate outcome (歸轉). There are many actual examples of this seen when young men and women from rural areas engage in city life.
+
+When one develops pulmonary tuberculosis, there are differences according to age, but generally, in the young, it progresses and worsens rapidly, leading to an unfortunate outcome even less than 3 months after onset; mostly, they suffer for several years. Those who develop it after age 30 have relatively slow progression, and those who develop it after age 40 suffer from pulmonary tuberculosis for a longer period, 10 years or more, but the suffering is comparatively less. Women have less resistance to tuberculosis than men, and not only that, but women often experience a rapid worsening of pulmonary tuberculosis due to blood loss after childbirth. Therefore, for female pulmonary tuberculosis patients, the issue of artificially inducing abortion always arises, as does the issue of contraception.
+
+The need for prevention does not require our further comment now. The more pulmonary tuberculosis patients there are, the more severe the spread, causing not only suffering for the patients themselves but also misfortune for families and great loss for the nation. Once infected with a tuberculous disease, one must treat it for life and always be cautious, and since few regain productive capacity, it is inefficient from an economic perspective.
+
+Contact with a pulmonary tuberculosis patient does not mean immediate infection. The gradual expansion of the patient's tuberculous changes and the external dissemination (外部散布) of tubercle bacilli is the most dangerous to the general public. Tubercle bacilli are dispersed externally in the sputum (咯痰) along with coughing. Therefore, this must be understood not only by the patients themselves but also by the general public to strive for prevention of spread. Patient sputum contains over approximately 300 million tubercle bacilli, harming the populace. Since tubercle bacillus infection can invade any part of the body, there should be no wounds on the surface, and care must be taken to avoid gastrointestinal disorders. Of course, since the chance of transmission through the respiratory tract is the greatest, special attention should be paid to the respiratory system. Spittoons (唾壺) used by patients with open tuberculosis must always contain disinfectant (such as sublimate solution [?] or Creolin [クレン-ル]); utensils used by patients should be sterilized by boiling (煮沸); clothing and bedding should be disinfected (液毒) by sunlight. Sputum should be collected in paper (조희) or cloth and disposed of by incineration (液却). Patients with open tuberculosis should, if possible, be admitted to a sanatorium for isolation, for the sake of their families and the public, which is necessary for tuberculosis prevention.
+
+Tuberculosis sanatoriums should be established near cities, selecting locations with fresh air and mild climate, have skilled physicians treat patients, differentiate and accommodate severe and mild cases, and simultaneously implement thorough disinfection (액독) to prevent harm to the general public. In modern civilized cities recently, laws require the establishment of sanatoriums by the state. We believe that such laws will be implemented in the various cities of our Chosŏn (朝鮮) in the near future. <40>
+
+**Summary**
+
+This 1938 article by Chŏng Ku-ch'ung discusses the rise of surgical interventions for diseases like appendicitis, stomach cancer, and particularly pulmonary tuberculosis (TB), where medical treatment is slow. It outlines TB's transmission routes (respiratory, skin, intestinal), pathology, symptoms, and varying severity based on age and sex. The author emphasizes the concept of acquired immunity, contrasting urban children's early exposure with the high susceptibility of rural individuals moving to cities. Prevention is stressed, highlighting the danger of sputum from open TB cases and recommending sanitation measures (disinfection, boiling, sun exposure) and isolation in sanatoriums, which the author anticipates will soon be legally mandated in colonial Korea's cities.
+
+From a historical perspective, the article reveals the penetration of modern Western medical concepts (surgery for internal diseases, germ theory, public health, immunity) into colonial Korea. It reflects contemporary concerns about TB as a major public health crisis, exacerbated by urbanization. The observation about differing immunity between urban and rural populations provides insight into the social and health impacts of migration patterns during the colonial period. The anticipation of state-mandated sanatoriums points to developing public health infrastructure and policy awareness, even under colonial rule. The mention of folk terms like *pokhak* and *chaegŏt* also offers a glimpse into local understandings of disease.
+
+**Named Entities**
+
+鄭求忠	정구충	Chŏng Ku-ch'ung
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+肺結核	폐결핵	Pulmonary tuberculosis
+外科	외과	Surgery
+잇다	있다	To exist, to be (older spelling)
+업다	없다	To not exist, to not be (older spelling)
+盲腸炎	맹장염	Appendicitis
+虫樣突起摘出	충양돌기적출	Appendectomy (lit. worm-like process removal)
+胃癌	위암	Stomach cancer
+結核菌	결핵균	Tubercle bacillus
+淋巴線	임파선	Lymphatic vessel/node (modern: 림프선/림프절)
+化濃菌	화농균	Pyogenic bacteria (pus-forming bacteria)
+扁桃線	편도선	Tonsil
+肺門腺	폐문선	Hilar lymph node
+加答兒	카타르	Catarrh (inflammation of mucous membrane; from German via Japanese カタル)
+咯血	객혈	Hemoptysis (coughing up blood)
+만타	많다	To be many, much (older spelling)
+늣김	느낌	Feeling, sense (older spelling)
+따러서	따라서	Therefore, consequently (older spelling)
+免疫性	면역성	Immunity
+아해	아이	Child (older form)
+肋膜炎	늑막염	Pleurisy
+腹膜炎	복막염	Peritonitis
+가치	같이	Like, as (older spelling)
+즉다	적다	To be few, little, small (older spelling)
+歸轉	귀전	Outcome, prognosis (medical term)
+唾壺	타호	Spittoon
+잇쓰야	있어야	Must be, should be (older spelling/form)
+クレン-ル	크레졸	Creolin (disinfectant, Japanese transcription likely)
+煮沸	자비	Boiling
+液毒	소독	Disinfection (unusual Hanja usage, likely meaning 消毒)
+조희	종이	Paper (older spelling)
+밧어서	받아서	Receiving and... (older spelling)
+液却	소각/처리	Incineration/Disposal (unusual Hanja usage, likely meaning 燒却 or 處理)
+
+
+---------------------------
+
+
+잡지명	삼천리 제10권 제1호
+발행일	1938년 01월 01일
+기사제목	肺結核과 外科
+필자	鄭求忠
+기사형태	잡저
+
+肺結核과 外科
+						鄭求忠
+외과의 발달됨에 따러서 내과적 질환을 외과적으로 치료코자 하는 경향이 잇다. 특히 내과적으로 치료할 수 업는 질병은 거이 외과적으로 치료할랴 한다. 盲腸炎이 내과에서 치료하는 것이 그 병리가 명백하고 원인이 的確하여즘으로 외과에 완전히 虫樣突起摘出을 하야 근본적 치료를 하고 胃癌도 癌자체가 완전히 소멸시키기는 어려움으로 암이 발생하는 장소를 외과적으로 적출하야 치료의 목적을 達코자 하며 肺結核도 내과적으로 치료가 완만함으로 외과적으로 치료를 할랴한다. 지금  肺結核의 원인과 병리를 말삼하고 그 치료에 대하야 약술코자 한다.
+肺結核의 원인은 結核菌의 감염으로 생키나니 직접 호흡계통으로 전염되는 때도 잇고(대부분) 피부로 전염된 것이나 腸으로 전염된 것이나 모다 肺臟으로 침입되여서 結核를 형성한다.
+이상한 것은 침입한 장소로부터 균이 淋巴線을 통하야 정맥으로 반드시 肺臟을 통해 다시 전신으로 순환된다. 환언하면 혈액중으로 침입한 세균은 그 종류의 여하에 불구하고 반드시 肺臟을 통과하게 된다. 그럼으로 급성질환을 이리키는 化濃菌은 침입한 장소에 병이 생기나 만성질환을 이리키는 세균은 침입장소에 병이 생기지 아니하고 遠隔場所에 병이 생긴다. 그럼으로 扁桃線으로 결핵균이 침입하여서 두부의 임파선결핵(연주나력)으로 肺結核이 되는 때가 만타. 그뿐 안이라 肺門腺결핵으로 肺結核이 되는 것은 결핵을 연구하는 학자간에 누구든지 밋는 바이다. 우리가 결핵환자을 취급할 때 호흡기로만 전염되는 줄 알고 口腔만을 방어할야는 것은 일부분만 방어하는 까닭을 몸전체 어느 방면이든지 침입치 안토록 주의하야 한다.
+肺結核의 초기 肺門腺결핵, 肺尖加答兒症勢는 경미한 신열과 咳嗽뿐이다. 일어한 증세가 있을 때에는 먼저 肺結核을 의심하야서 간단한 치료로 전치할 수 잇으나 더 지나서 肺實質에 결핵이 파급하는 경우에는 비교적 고열과 여러 가지 증세가 만어서 치료하기가 어려울 뿐 아니라 시일에 경*가 길지 안으면 낫지 안은 때가 만타.
+더 한층 진행이 되여 비교적 광범한 결핵이 된 때에는 혹 咯血도 잇고 其  외과에 咳嗽, 각혈, 신열 등으로 여러 가지 부작용이 생겨서 완전한 치료를 기대하기 어려운 때가 만타.
+대체도 인류생활이 점차 도회집중이 되고 兵同생활의 필요을 늣김으로 개인간 접촉이 만코 따러서 결핵의 만연으로 폐해가 생기는 동시에 인류체내에 결핵의 대한 免疫性이 생긴다. 도회지에 잇는 아동은 4, 5세로부터 不知中 결핵균이 감염되여서 여긔에 대한 면역성이 생긴다. 그 틈으로 아동의게 결핵균이 감염되야 면역성이 생길 때까지 증세을 보면 어린 아해가 식사부진으로 쇠약하야지며 輕度의 咳嗽와 신열이 있어서 혹 경도의 肋膜炎과 腹膜炎이 동시에 있어 겸하야 전신임파선이 腫脹되며(부어) 혹은 胃腸加答兒의 증세가 잇기도 하고 흉통 복통도 잇는 때가 잇다 . 이와 같은 증세가 수년 혹은 7, 8년간 지속이 되는 동안에 또 부지중 치료되는 때가 만으나 다시 肺結核으로 이행하야 희생되는 자도 상당이 만이 잇는 것을 본다(우리 朝鮮에서는 이것을 혹 복학이라고도 하고 재것이라고도 한다) 이와 가치 소아시에 결핵에 대하야 저항하야 온 자는 성인이 된 후에 결핵에 저항력이 强硬하야 비교적 진행이 완만하고 치료되기도 쉽다. 소아시에 결핵에 대하야 관계이 업든 사람이 성인이 된 후에 결핵균 감염이 되면 급속히 진행되여 불행한 歸轉을 취한다. 이거슨 농촌청년남녀가 도회생활을 하엿슬 때 보는 실례가 다수 잇다.
+肺結核이 되면 연령에 *하야 차가 잇쓰나 대체로 연소자는 급속히 進行增惡하야서 발생 3개월미만에도 불행한 歸轉을 취하니 대개 수년후 고통을 받는다. 30세이상 된 후 發生한 자는 비교적 진행이 완만하며 40세이상 된 후에 발생한 자는 더 장기간 10여년 이상 肺結核으로 곤란을 받으나 고통은 비교적 즉다. 남자보다 여자가 결핵에 대한 저항력이 즉고 또 그뿐 아니라 여자는 분만후에 출혈로 급격히 肺結核增惡하여지는 때가 만타. 그럼으로 여자肺結核환자의 임신은 항상 인공적으로 유산시키는 문제도 생기고 피임문제도 생긴다.
+예방이 필요한 것은 지금 다시 吾人의 발언을 요치 아니한다. 肺結核환자가 다수가 될수록 만연이 심하야 환자 자신에 고통뿐 아니라 가정의 불행이오 국가로도 多大한 손해이다. 결핵성 질병은 일차 감염되면 일생을 두고 치료하며 항상 주의하지 아니하면 안됨으로 또 생산능력이 회복되는 자가 근소함을 경제적으로 보아서는 능률이 업다.
+肺結核환자와 접촉한다고 즉시로 전염되는 것은 아니다. 환자의 결핵성변화가 점차 확대하여 결핵균을 外部散布시키는 것이 일반공중에 제일 위험하다. 咳嗽와 동시 咯痰중에 결핵균이 외부로 산포된다. 그럼으로 이것을 환자자신에게 이해케 할 뿐 아니라 일반공중의게도 이해케하여 만연방지를 기할 것이다. 患者咯痰중에 약 3억이상의 결핵균이 함유하여 민중에 해독끼친다. 결핵균의 감염은 신체 어느 부분이든지 침입할 수 잇씀으로 표면에 손상처가 없서야 할 것이고 위장장해가 업도록 주의할 것이다, 물론 호흡기로 전염되는 기회가 제일 만음으로 특별히 호흡기는 더 주의할 것이다. 개방성 결핵환자가 사용하는 唾壺타구중에는 항상 소독약이 잇쓰야 하며(昇永不炭酸, クレン-ル 등 환자사용하는 식기는 煮沸하야 소독하며 의류침구는 일광에 液毒하여야 한다. 咯痰은 조희 혹 수건에 밧어서 液却할 것이다. 이 개방성 결핵환자는 될 수 잇으면 가족을 위하야서든지 공중을 위하야서든지 요양원에 수용하야 격리식히는 것이 결핵예방상 필요하다.
+결핵요양원은 도회근처, 신선한 공기와 온화한 처소를 선택하야 숙련한 의사로 하여금 환자를 치료케하고 重輕환자를 구별하야 수용하고 동시에 충분한 액독을 실시하여 일반공중에 해독이 되지 안토록 할 것이다. 근래 문명도시에서는 국가에서 법령으로 요양원을 설립하도록 되여 잇다. 우리 朝鮮의 각도시에도 불원이 법령이 실시될 줄로 밋고 잇다. ＜40＞

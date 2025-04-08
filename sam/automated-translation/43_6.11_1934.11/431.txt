@@ -1,0 +1,72 @@
+Magazine Title: 삼천리 제6권 제11호
+Publication Date: 1934년 11월 01일
+Article Title: 社告 (Company Notice)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+社告 (Company Notice)
+
+一, 電話 (Telephone)
+本社의 電話는
+光化門五五七番이외다
+(Our company's telephone number is Kwanghwamun 557.)
+
+二, 振替 (Transfer)
+本社振替口座
+京城二九四九番이외다
+(Our company's bank transfer account number is Kyŏngsŏng 2949.)
+
+三, 支社 (Branches)
+地方各處에 支社를 設置함니다 有意
+한분은곳 內規를 請하시압
+(We are establishing branches in various regions. Interested individuals should please request the internal regulations.)
+
+三千里社＜224＞
+(Samch'ŏlli Company <224>)
+
+**Summary**
+
+This brief notice from the Samch'ŏlli Company provides essential contact and business information: their telephone number (Kwanghwamun 557), their bank transfer account number (Kyŏngsŏng 2949), and an announcement that they are seeking to establish regional branches, inviting interested parties to inquire about the internal rules. For historians, this notice offers a glimpse into the basic operational details of a Korean publishing house in Seoul (Kyŏngsŏng) during the colonial period, including its communication methods (telephone), financial transactions (bank transfer), and expansion plans (regional branches). The use of specific location identifiers like Kwanghwamun and Kyŏngsŏng grounds the business firmly within the colonial capital.
+
+**Named Entities**
+
+光化門	광화문	Kwanghwamun
+京城	경성	Kyŏngsŏng
+三千里社	삼천리사	Samch'ŏlli Sa
+
+**Glossary**
+
+社告	사고	Company notice, public announcement by a company
+電話	전화	Telephone
+振替	진체	Bank transfer, postal transfer
+口座	구좌	Account (bank)
+支社	지사	Branch office
+設置	설치	Establishment, installation
+함니다	합니다	Does, is doing (older polite verb ending for 합니다)
+有意	유의	Having interest, interested
+內規	내규	Internal regulations, bylaws
+請	청	To request, to ask for
+하시압	하십시오	Please do (older polite imperative ending for 하십시오)
+이외다	입니다	Is, am, are (older polite declarative ending for 입니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제6권 제11호
+발행일	1934년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+一, 電話
+本社의 電話는
+光化門五五七番이외다
+二, 振替
+本社振替口座
+京城二九四九番이외다
+三, 支社
+地方各處에 支社를 設置함니다 有意
+한분은곳 內規를 請하시압
+三千里社＜224＞
+＜224＞

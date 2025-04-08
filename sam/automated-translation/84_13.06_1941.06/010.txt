@@ -1,0 +1,37 @@
+**Magazine Title:** 三千里
+**Publication Date:** 1941년 06월 01일 (June 1, 1941)
+**Article Title:** 上海官民現地座談會 (Shanghai Official-Civilian Local Symposium)
+**Author:** Not specified (Symposium format)
+**Article Type:** 대담·좌담 (Conversation/Symposium)
+
+**(The following sections require the full text of the article "上海官民現地座談會", which was not provided. Therefore, translation, summary, detailed named entity extraction, and glossary creation based on the article's content cannot be completed.)**
+
+**Summary**
+
+(Cannot be provided without the article text.)
+
+**Named Entities**
+
+(Based *only* on the provided metadata)
+上海	シャンハイ	Shanghai
+
+**Glossary**
+
+(Based *only* on the provided metadata)
+官民	かんみん	Officials and Civilians
+現地	げんち	Local; On-site
+座談會	ざだんかい	Symposium; Round-table discussion (Note: 會 is an older form of 会)
+대담	대담	Conversation; Dialogue (Korean term from metadata)
+좌담	좌담	Symposium; Round-table discussion (Korean term from metadata)
+
+
+---------------------------
+
+
+잡지명	삼천리 제13권 제6호
+발행일	1941년 06월 01일
+기사제목	上海官民現地座談會
+기사형태	대담·좌담
+
+上海官民現地座談會
+원문 일본문 - 국편

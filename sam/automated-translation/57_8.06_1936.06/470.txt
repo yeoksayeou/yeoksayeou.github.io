@@ -1,0 +1,97 @@
+Magazine Title: 三천리 제8권 제6호
+Publication Date: 1936년 06월 01일
+Article Title: 最近의 讀書와 制作 (Recent Reading and Creation)
+Article Type: 소식 (News/Update)
+
+Recent Reading and Creation
+
+Kim Pokchin=Lately, I am reading works written by Chosŏn writers as much as possible.
+
+Chŏng Insŏp=I am studying a bit of Latin and striving to quickly complete the English translation of Chosŏn poetry.
+
+Kim Sang'yong=I am trying my hand at translating some English poetry, recently tackling several famous works from the English poetry scene, and intermittently, I am endeavouring to translate Persia's "Rubaiyat" (「루바니얏트」).
+
+Hong Kimun=These days, I am mainly trying to research "Linguistics" (言語學), so I am reading various books on "Linguistics" published in the T'okyo area. Also, I recently started studying the Turkish language. And, whenever I have time, I occasionally read the works of the French writer Balzac (빠르작크).
+
+Son Chint'ae=I get to read many things concerning Chosŏn History (朝鮮史) and Folklore (民俗學). Besides this, I am always paying attention to collecting various handicrafts such as Ancient Chosŏn artifacts (朝鮮古事) and pottery (陶磁器).
+
+Sŏ Hangsŏk=Recently, I read a lot of Poetry (詩) and Drama (戱曲). As I am also involved with the "Kŭgyŏn" (劇硏 - Drama Research Society), I am particularly interested in Drama. <229>
+
+**Summary**
+
+This short article surveys the recent intellectual activities of several Korean figures in 1936. It reveals their diverse interests, ranging from reading contemporary Korean literature (Kim Pokchin), translating Korean poetry into English and studying Latin (Chŏng Insŏp), translating English and Persian poetry (Kim Sang'yong), studying linguistics, Turkish, and French literature (Hong Kimun), researching Korean history, folklore, and collecting artifacts (Son Chint'ae), to focusing on poetry and drama, particularly due to involvement in a drama society (Sŏ Hangsŏk). Historically, this piece is interesting as it showcases the intellectual currents among Korean elites during the Japanese colonial period. It highlights engagement with both Western and traditional Korean culture, an effort to engage with global knowledge (linguistics, foreign languages, translation), and a continued focus on Korean identity through history, folklore, and literature, despite the colonial context.
+
+**Named Entities**
+
+金復鎭	김복진	Kim Pokchin
+朝鮮	조선	Chosŏn
+鄭寅燮	정인섭	Chŏng Insŏp
+라톈語	라틴어	Latin
+朝鮮詩歌	조선시가	Chosŏn poetry
+英譯	영역	English translation
+金尙鎔	김상용	Kim Sang'yong
+英詩	영시	English poetry
+波斯	파사	Persia
+루바니얏트	루바이야트	Rubaiyat
+洪起文	홍기문	Hong Kimun
+言語學	언어학	Linguistics
+東京	동경	T'okyo
+土耳其語	터키어	Turkish
+佛國	불국	France
+빠르작크	발자크	Balzac
+孫晋泰	손진태	Son Chint'ae
+朝鮮史	조선사	Chosŏn History
+民俗學	민속학	Folklore
+朝鮮古事	조선고사	Ancient Chosŏn artifacts/affairs
+陶磁器	도자기	Pottery/Ceramics
+手藝品	수예품	Handicrafts
+徐恒錫	서항석	Sŏ Hangsŏk
+詩	시	Poetry
+戱曲	희곡	Drama/Plays
+劇硏	극연	Kŭgyŏn (Drama Research Society)
+
+**Glossary**
+
+最近	최근	Recent(ly)
+讀書	독서	Reading
+制作	제작	Creation, Production, Writing
+요지간	요즈음	These days (Older form of 요즈음)
+文人	문인	Literary person, writer
+될 수 잇는대로	될 수 있는 대로	As much as possible (잇는대로 is older spelling of 있는 대로)
+…중이외다	…중입니다	Am in the middle of doing... (이외다 is an older/formal ending)
+공부하며	공부하며	Studying and...
+英譯	영역	English translation
+完成석히려고	완성시키려고	Trying to complete quickly (석히려고 is an older form, related to 속히)
+애쓰고 잇슴니다	애쓰고 있습니다	Striving, endeavoring (잇슴니다 is an older spelling of 있습니다)
+飜譯	번역	Translation
+하여보려고	해보려고	Trying to do (Older form)
+저명한	저명한	Famous, renowned
+몃몃	몇몇	Several, some (Older spelling)
+손을 대이고 잇스며	손을 대고 있으며	Am tackling, starting on (대이고 is older form of 대고; 잇스며 older form of 있으며)
+간간히	간간이	Intermittently, occasionally
+힘씀니다	힘씁니다	Strive, endeavour (Older spelling/form)
+요사히	요사이	These days (Older form/spelling)
+연구할야고 해서	연구하려고 해서	Trying to research, so... (할야고 is an older/dialectal form of 하려고)
+방면	방면	Direction, area, field
+출판되는	출판되는	Being published
+冊	책	Book
+봄니다	봅니다	See, read (Older spelling/form)
+관계하고 잇니만큼	관계하고 있으니만큼	As I am involved/related (잇니만큼 is older spelling/form of 있으니만큼)
+關心	관심	Interest, concern
+
+
+---------------------------
+
+
+잡지명	삼천리 제8권 제6호
+발행일	1936년 06월 01일
+기사제목	最近의 讀書와 制作
+기사형태	소식
+
+最近의 讀書와 制作
+金復鎭=나는 요지간 朝鮮文人들이 쓴 작품을 될 수 잇는대로 읽는 중이외다.
+鄭寅燮=라톈語를 좀 공부하며 그리고 朝鮮詩歌의 英譯을 完成석히려고 애쓰고 잇슴니다.
+金尙鎔=英詩飜譯을 좀 하여보려고 최근 英詩壇에서 저명한 몃몃 작품에 손을 대이고 잇스며, 간간히 波斯의 「루바니얏트」번역을 하여 보려고 힘씀니다.
+洪起文=나는 요사히 주로 「言語學」에 대한 것을 좀 연구할야고 해서 東京방면에서 출판되는 「言語學」에 대한 여러 가지 冊을 봄니다. 그리고는 土耳其語 공부를 최근에 와서는 하기 시작하지요. 또 佛國 作家 빠르작크의 작품을 틈 잇는 대로 각금 봄니다.
+孫晋泰=나는 朝鮮史에 관한 것, 民俗學에 관한 것 등을 만히 보게 됨니다. 이 박게도 朝鮮古事와 陶磁器 등 여러 手藝品의 蒐集에도 늘 留意하고 잇지요.
+徐恒錫=최근 나는 詩와 戱曲을 만히 봄니다. 戱曲은 내가 「劇硏」에도 관계하고 잇니만큼 關心하지요. <229>

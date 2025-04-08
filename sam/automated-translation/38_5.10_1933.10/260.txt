@@ -1,0 +1,44 @@
+**Header Section:**
+Magazine Title: 삼천리
+Publication Date: 1933년 10월 01일
+Article Title: 用意周到 (Careful Preparation / Being Meticulous)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing / Essay)
+
+**Body Text Translation:**
+"Isn't there some kind of book that explains divorce law (離婚法) in detail?"
+
+"Hmph. Are you planning to take the bar exam?"
+
+"No. Actually, it's because I'm thinking of getting married..." <39>
+
+**Summary**
+
+This brief dialogue features one person inquiring about detailed books on divorce law, prompting the other to mistakenly assume they are studying for the bar exam. The punchline comes when the first person reveals they are asking because they are planning to get married, suggesting a need for meticulous preparation even for marriage, perhaps hinting at its potential dissolution. From a historical perspective, this snippet humorously reflects the societal adjustments and perhaps growing anxieties or cynicism surrounding marriage in 1930s colonial Korea, as modern legal concepts like divorce became more prominent. Historians might note it as an example of how changing legal frameworks and social norms were discussed and perceived in popular media.
+
+**Named Entities**
+
+None
+
+**Glossary**
+
+用意周到	용의주도	Being meticulous, careful preparation.
+離婚法	이혼법	Divorce law.
+업는가	없는가	Isn't there? (Older spelling).
+실상	실상	In reality, actually.
+생각하어서	생각해서	Because I am thinking (Older grammatical form/spelling).
+잡저	잡저	Miscellaneous writing, essay.
+
+
+---------------------------
+
+
+잡지명	삼천리 제5권 제10호
+발행일	1933년 10월 01일
+기사제목	用意周到
+기사형태	잡저
+
+用意周到
+「무언가 離婚法에 대한 책자로 자세히 설명하여 쓴 것이 업는가.」
+「흥. 변호사 시험을 보려고 그러나.」
+「아니야. 실상은 결혼하려고 생각하어서...」＜39＞

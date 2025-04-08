@@ -1,0 +1,63 @@
+Magazine Title: 三千里
+Publication Date: 1931년 11월 01일 (November 1, 1931)
+Article Title: 三千里 「壁新聞」 제1호, 離婚의 都市 「서울」 (Samch'ŏlli "Wall Newspaper" No. 1, "Seoul," the City of Divorce)
+Author: Not specified
+Article Type: 소식 (News/Report)
+
+Samch'ŏlli "Wall Newspaper" No. 1, "Seoul," the City of Divorce
+
+Even when compared to Tōkyō, Ōsaka, P'yŏngyang, or Taegu, Seoul (서울) has the highest number of divorce cases.
+Looking at the number of divorce lawsuits received by the Kyŏngsŏng District Court (京城地方法院) last year, there were a total of 203 cases. This is a sharp increase of 50 to 80 cases compared to 124 cases in Taishō 15 (1926) and 158 cases in Shōwa 2 (1927).
+
+Looking at Tōkyō, which has a population of 3 million, ten times that of Kyŏngsŏng (京城), there were only 154 divorce lawsuits filed in court. Ōsaka had 82 cases, Kyōto 26 cases, Nagoya 41 cases, and Hiroshima (廣島) and Nagasaki (長崎) each had 30 cases. From this, we can see that Seoul holds a decided superiority in terms of divorce.<35>
+
+**Summary**
+
+This short news report from November 1931 highlights the remarkably high number of divorce cases filed in Seoul's Kyŏngsŏng District Court compared to previous years and even major cities in Japan like Tōkyō, Ōsaka, and Kyōto. In 1930, Seoul recorded 203 divorce lawsuits, a significant jump from 1926 and 1927, and notably higher than Tōkyō's 154 cases despite Tōkyō having ten times the population. The article emphasizes Seoul's position as the leading city for divorce filings within the scope compared. For historians, this piece offers a valuable statistical snapshot of social change in colonial Seoul, suggesting shifting marital norms or perhaps greater access/willingness to use the legal system for divorce compared to both other Korean cities (P'yŏngyang, Taegu mentioned) and major Japanese cities during that period. It prompts questions about the socio-economic factors driving this trend in the colonial capital.
+
+**Named Entities**
+
+서울	서울	Seoul
+東京	도쿄	Tōkyō
+大阪	오사카	Ōsaka
+平壤	평양	P'yŏngyang
+大邱	대구	Taegu
+京城地方法院	경성지방법원	Kyŏngsŏng District Court
+京城	경성	Kyŏngsŏng
+京都	교토	Kyōto
+名古屋	나고야	Nagoya
+廣島	히로시마	Hiroshima
+長崎	나가사키	Nagasaki
+
+**Glossary**
+
+壁新聞	벽신문	Wall Newspaper (A type of simple, often posted news bulletin)
+離婚	이혼	Divorce
+都市	도시	City
+만키로	많기로	Being many/numerous (Older spelling/form of 많기로)
+건수	건수	Number of cases
+작년	작년	Last year
+밧은	받은	Received (Older spelling/form of 받은)
+격증	격증	Sharp increase, sudden rise
+인구	인구	Population
+잇서	있어	Regarding, In terms of (Older spelling/form of 있어)
+배	배	Times (as in 'ten times')
+재판소	재판소	Courthouse, court
+제기된	제기된	Filed, submitted (a lawsuit)
+겨우	겨우	Only, merely, barely
+단연	단연	Decidedly, by far, absolutely
+우위	우위	Superiority, advantage
+
+
+---------------------------
+
+
+잡지명	삼천리 제3권 제11호
+발행일	1931년 11월 01일
+기사제목	三千里 「壁新聞」 제1호, 離婚의 都市 「서울」
+기사형태	소식
+
+三千里 「壁新聞」 제1호, 離婚의 都市 「서울」
+서울은 東京이나 大阪이나 平壤 大邱 등에 비할지라도 이혼건수가 만키로 제일이다.
+이제 작년 중 京城地方法院에서 이혼소송을 밧은 건수를 보면 모다 203건으로 이것을 大正 15년의 124건 昭和 2년의 158건에 비하면 50건 내지 80건의 격증이다.
+인구에 잇서 3백만으로 京城의 10배를 가진 東京을 보면 재판소에 제기된 이혼소송이 겨우 154건 大阪 82건 京都 26건 名古屋 41건 廣島 長崎 각 30건이라 이로써 서울은 이혼에 잇서 단연 우위를 점한 것을 알 수 잇다.＜35＞

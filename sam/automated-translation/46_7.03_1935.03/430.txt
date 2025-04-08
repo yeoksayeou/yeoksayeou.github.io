@@ -1,0 +1,61 @@
+**Header Section:**
+Magazine Title: 三千里
+Publication Date: 1935년 03월 01일
+Article Title: 三月號를 내면서 (Publishing the March Issue)
+Author: Editorial Staff
+Article Type: 사고·편집후기 (Announcement/Editor's Postscript)
+
+**Body Text Translation:**
+Publishing the March Issue
+
+O Spring has come. To the mountains, the fields, the old castles, spring has come. The myriad houses of Changan (長安) are veiled in the morning mist, and above the lush green forests in the blue pine fields of Pukak (北岳) and Namsan (南山), hawks circle. The waters of the Han River (漢江) have also become brighter and have swelled. It is spring. Truly, spring has come to this land. The fine season of the third month of spring has arrived. At this time, as we send out this March issue, our hearts too are stirred.
+
+O Next month is the April issue. If March is good, April is an even better season. We deeply feel that our utmost efforts must be further demonstrated at this time. Well then, everyone, we shall meet again through the spectacle of the April issue. <300>
+
+**Summary**
+
+This editor's postscript from the March 1935 issue of *Samch'ŏlli* magazine celebrates the arrival of spring, using evocative imagery of Seoul's landscape (Changan, Pukak, Namsan, Han River). It links the season's renewal to the publication of the March issue and expresses anticipation and commitment towards producing an even better April issue. For historians, the text is interesting for its use of traditional Korean orthography from the 1930s, its blending of natural scenery with the act of publishing, and its references to specific Korean landmarks, which could subtly evoke national identity during the colonial period. The optimistic tone about future issues might also reflect the magazine's resilience or aspirations within the constraints of the era.
+
+**Named Entities**
+
+長安	장안	Changan
+北岳	북악	Pukak
+南山	남산	Namsan
+漢江	한강	Han River
+
+**Glossary**
+
+왓슴니다	왔습니다	Came (older spelling of 왔습니다)
+어리엇고	어리었고	Was veiled/dim (older spelling of 어리었고)
+밧에는	밭에는	In the field(s) (older spelling of 밭에는)
+蒼蒼한	창창한	Lush green, verdant
+綠林	녹림	Green forest
+우으로	위로	Above (older spelling of 위로)
+떠놈니다	떠돕니다	Floats, wanders, circles (older spelling/form of 떠돕니다)
+빗나젓고	빛나졌고	Became brighter, shone (older spelling of 빛나졌고)
+뿔어젓슴니다	불어났습니다	Increased, swelled (older spelling of 불어났습니다)
+이외다	이외다	It is (older declarative form)
+왓구려	왔구려	Has come! (older exclamatory form)
+躍動하여 짐니다	약동하여집니다	Becomes dynamic, throbs, is stirred (older spelling/form of 약동하여집니다)
+조타거든	좋다거든	If (it) is good (older spelling of 좋다거든)
+조흔	좋은	Good (older spelling of 좋은)
+節季	절기	Season, time of year
+잇서	있어	Being, existing (older spelling of 있어)
+誠力	성력	Utmost effort, sincerity and strength
+깁히	깊이	Deeply (older spelling of 깊이)
+늣김니다	느낍니다	Feel (older spelling of 느낍니다)
+偉觀	위관	Grand sight, spectacle
+맛납니다	만납니다	Meet (older spelling of 만납니다)
+
+
+---------------------------
+
+
+잡지명	삼천리 제7권 제3호
+발행일	1935년 03월 01일
+기사제목	三月號를 내면서
+기사형태	사고·편집후기
+
+三月號를 내면서
+O 봄이 왓슴니다. 산에, 들에, 古城에, 봄이 왓슴니다. 長安萬戶는 아츰 안개에 어리엇고 北岳과 南山의 푸른 솔밧에는 蒼蒼한 綠林 우으로 수리개가 떠놈니다. 漢江의 水流도 더 빗나젓고 또 뿔어젓슴니다. 봄이외다. 정말 이 山川에 봄이 왓슴니다. 봄에도 春三月 好時節이 왓구려. 이때에 이 三月號를 내보내는 우리의 가슴도 저절로 躍動하여 짐니다.
+O 이 다음달은 四月號, 三月도 조타거든 四月은 더 조흔 節季 이때에 잇서 우리의 誠力이 더욱 발휘되여야 할 것을 깁히 늣김니다. 그러면 여러분 四月號의 偉觀을 通하야 다시 맛납니다. <300>

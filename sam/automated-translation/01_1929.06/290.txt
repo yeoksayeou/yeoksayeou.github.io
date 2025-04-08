@@ -1,0 +1,52 @@
+**Header Section:**
+Magazine Title: 三千里 제1호
+Publication Date: 1929년 06월 12일
+Article Title: 押收記錄 (Confiscation Record)
+Author: N/A
+Article Type: 사고·편집후기 (Incident Report/Editor's Postscript)
+
+**Body Text Translation:**
+Confiscation Record
+Reminiscences of Those Days ..................................... Han Yongun
+Giant of the World, Chiang Kai-shek ...................... Chu Yohan
+Account of Meeting India's Poet Sage Tagore ............ Sŏl Ŭisik <43>
+
+**Summary**
+
+The provided text lists selected article titles and authors from the first issue of the magazine *Samch'ŏlli*, published in June 1929. The list itself appears under the heading "Confiscation Record," which is designated as an "Incident Report/Editor's Postscript," suggesting this particular piece likely discussed an instance of censorship or confiscation by the Japanese colonial authorities. The listed articles include works by prominent figures like Han Yongun, Chu Yohan, and Sŏl Ŭisik, covering topics such as reminiscences, international figures like Chiang Kai-shek, and cultural encounters with figures like Tagore. This selection highlights the magazine's engagement with national consciousness, international politics, and cultural discourse. For historians, the title "Confiscation Record" itself is a direct indicator of the repressive media environment in colonial Korea, while the list of authors and topics reveals the intellectual currents and interests *Samch'ŏlli* aimed to address from its inception.
+
+**Named Entities**
+
+韓龍雲	한용운	Han Yongun
+蔣介石	장개석	Chiang Kai-shek
+朱耀翰	주요한	Chu Yohan
+印度	인도	India
+타고아	타고르	Tagore
+薛義植	설의식	Sŏl Ŭisik
+
+**Glossary**
+
+押收記錄	압수 기록	Confiscation Record
+當時	당시	Those days; At that time (Older form, same meaning as modern 당시)
+追憶	추억	Reminiscence; Recollection
+世界	세계	World
+巨人	거인	Giant
+詩聖	시성	Poet Sage
+會見記	회견기	Account of a meeting/interview
+사고	사고	Incident; Accident (here likely refers to an incident report)
+편집후기	편집 후기	Editor's postscript
+
+
+---------------------------
+
+
+잡지명	삼천리 제1호
+발행일	1929년 06월 12일
+기사제목	押收記錄
+기사형태	사고·편집후기
+
+押收記錄
+當時의 追憶  .....................................  韓龍雲
+世界의 巨人 蔣介石  ......................  朱耀翰
+印度 詩聖 타고아 會見記  ............  薛義植 ＜43＞
+＜43＞

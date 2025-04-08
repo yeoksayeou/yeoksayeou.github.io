@@ -1,0 +1,56 @@
+**Header Section:**
+Magazine Title: 三千里 제4권 제2호
+Publication Date: 1932년 02월 01일
+Article Title: 急告 (Urgent Notice)
+Author: 영업국 (Business Department)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Body Text Translation:**
+Urgent Notice
+
+Our New Year issue has received an extraordinary welcome, and even after a huge number of copies were sold, orders are still continuing to come in. Therefore, we have unavoidably reprinted it. Those who need a copy, please send 30 Jeon (錢) and place your order. The remaining copies are few.
+
+Business Department <67>
+
+**Summary**
+
+This is a brief announcement from the Business Department of *Samch'ŏlli* magazine. It informs readers that the New Year's issue was so popular it sold out, necessitating a reprint. Interested readers are encouraged to quickly order the reprinted issue by sending 30 Jeon, as supplies are limited. For historians, this short piece highlights the popularity and reach of *Samch'ŏlli* magazine in colonial Korea, indicating a significant readership willing to purchase it. The mention of a reprint suggests both successful marketing/content and perhaps underestimation of demand, while the price (30 Jeon) provides a data point for economic history concerning publication costs and consumer prices in the 1930s.
+
+**Named Entities**
+
+*(No specific named people, places, or organizations were mentioned in the text besides the magazine itself and its department)*
+
+**Glossary**
+
+본지	본지	This magazine (referring to 삼천리)
+신년호	신년호	New Year issue
+비상한	비상한	Extraordinary, unusual
+환영	환영	Welcome, reception
+밧어	받아	(Older spelling of) Received
+거대한	거대한	Huge, enormous
+부수	부수	Number of copies
+발매된	발매된	Sold, put on sale
+잇삽기	있기에	(Older spelling/form of) Because there are/is
+부득이	부득이	Unavoidably, inevitably
+증쇄하엿사오니	증쇄하였사오니	(Older spelling/form of) As we have reprinted
+필요하신	필요하신	Who need(s) it
+-錢	-전	Jeon (Korean currency unit, derived from Chinese character)
+송금하여	송금하여	By sending money
+주문하여	주문하여	By ordering
+주시압	주십시오	(Older spelling/form of) Please give/do (request form)
+잔부	잔부	Remaining copies
+근소하외다	근소합니다	(Older spelling/form of) Are few, is small in number
+영업국	영업국	Business Department
+
+
+---------------------------
+
+
+잡지명	삼천리 제4권 제2호
+발행일	1932년 02월 01일
+기사제목	急告
+기사형태	사고·편집후기
+
+急告
+본지 신년호는 비상한 환영을 밧어 거대한 부수가 발매된 후에도 아직까지 계속 주문하는 이가 잇삽기 부득이 증쇄하엿사오니 필요하신 분은 30錢 송금하여 주문하여 주시압. 잔부는 근소하외다.
+영업국＜67＞
