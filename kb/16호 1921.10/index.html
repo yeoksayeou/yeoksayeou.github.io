@@ -1,0 +1,2420 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>Issue Overview</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      border: none;
+      border-top: 1px solid #1a1a1a;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+  
+  <style>
+      body {
+          font-family: Arial, sans-serif;
+          line-height: 1.6;
+          max-width: 900px;
+          margin: 0 auto;
+          padding: 20px;
+          color: #333;
+      }
+      h1 {
+          color: #2c3e50;
+          border-bottom: 2px solid #eee;
+          padding-bottom: 10px;
+      }
+      h2 {
+          color: #3498db;
+          margin-top: 30px;
+      }
+      h3 {
+          color: #2980b9;
+      }
+      table {
+          border-collapse: collapse;
+          width: 100%;
+          margin: 20px 0;
+      }
+      th, td {
+          padding: 12px 15px;
+          text-align: left;
+          border-bottom: 1px solid #ddd;
+      }
+      th {
+          background-color: #f2f2f2;
+          font-weight: bold;
+      }
+      tr:hover {
+          background-color: #f5f5f5;
+      }
+      a {
+          color: #3498db;
+          text-decoration: none;
+      }
+      a:hover {
+          text-decoration: underline;
+      }
+  </style>
+</head>
+<body>
+<header id="title-block-header">
+<h1 class="title">Issue Overview</h1>
+</header>
+<h1 id="overview-16호-1921.10">Overview: 16호 1921.10</h1>
+<h2 id="table-of-contents">Table of Contents</h2>
+<ul>
+<li><a href="010.txt">생각할 때는 왓도다</a></li>
+<li><a href="020.txt">우리의 社會的 性格의 一部를 考察하야써 同胞兄弟의
+自由處斷을 促함, 金起瀍</a></li>
+<li><a href="030.txt">生活의 條件을 本位로 한 朝鮮의 改造事業(續),
+李敦化</a></li>
+<li><a
+href="040.txt">辛酉嘉俳日省墓于抱川路經築雪嶺時山月皎皎樹影婆裟徘徊良久有感述懷,
+崔誠愚</a></li>
+<li><a href="050.txt">現代倫理思想의 槪觀, 東洋式 倫理思想의 變遷,
+白頭山人</a></li>
+<li><a href="060.txt">退溪先生의 宇宙觀과 人生觀, 一記者</a></li>
+<li><a href="070.txt">回顧 夏路七千里, 朴達成</a></li>
+<li><a href="080.txt">續兎糞錄, 夜雷</a></li>
+<li><a href="090.txt">우리의 靜中動觀</a></li>
+<li><a href="100.txt">稀世의 政治家이며 또 哲學家인 栗谷先生, 朝鮮
+十大偉人 紹介의 其三</a></li>
+<li><a href="110.txt">自然의 王國江界를 보고, 一記者</a></li>
+<li><a href="120.txt">智之端</a></li>
+<li><a href="130.txt">近代文藝(三), 岸曙</a></li>
+<li><a href="140.txt">文學上으로 보는 思想, 曉鍾</a></li>
+<li><a href="150.txt">彼岸의 사랑(新詩), 步月生</a></li>
+<li><a href="160.txt">希臘의 戀愛歌 (빠이론 詩集에서),
+(譯)步月生</a></li>
+<li><a href="170.txt">北漢의 一日, 文一平</a></li>
+<li><a href="180.txt">蜾蠃의 聲 -航陸漢이여-, 辛槿圃</a></li>
+<li><a href="181.txt">謝告</a></li>
+<li><a href="190.txt">小說 標本室의 靑개고리(前號繼續), 廉想涉</a></li>
+<li><a href="200.txt">不得已하야, 廉尙燮</a></li>
+<li><a href="210.txt">The rising of the moon 달뜰 때(愛蘭), 레듸,
+오-거스타, 그레고리(Lady Augusta Gregory), 海兒(譯)</a></li>
+<li><a href="220.txt">九日龍山吟, 石溪</a></li>
+<li><a href="230.txt">하믈레트, 쉑스피아(原作), 玄哲(譯述)</a></li>
+<li><a href="240.txt">十月의 古今</a></li>
+<li><a href="250.txt">投稿하시는 이에게, 編輯局啓告</a></li>
+</ul>
+<h2 id="basic-statistics">Basic Statistics</h2>
+<ul>
+<li><strong>Total Files:</strong> 26</li>
+<li><strong>Average Content Length:</strong> 6088.50 characters</li>
+</ul>
+<h3 id="article-types">Article Types</h3>
+<table>
+<thead>
+<tr>
+<th>Article Type</th>
+<th>Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>논설</td>
+<td>7</td>
+</tr>
+<tr>
+<td>시</td>
+<td>5</td>
+</tr>
+<tr>
+<td>기행문</td>
+<td>2</td>
+</tr>
+<tr>
+<td>소설</td>
+<td>2</td>
+</tr>
+<tr>
+<td>희곡·시나리오</td>
+<td>2</td>
+</tr>
+<tr>
+<td>사고·편집후기</td>
+<td>2</td>
+</tr>
+<tr>
+<td>문예평론</td>
+<td>2</td>
+</tr>
+<tr>
+<td>소식</td>
+<td>1</td>
+</tr>
+<tr>
+<td>문예기타</td>
+<td>1</td>
+</tr>
+<tr>
+<td>잡저</td>
+<td>1</td>
+</tr>
+<tr>
+<td>세태비평</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="authors">Authors</h3>
+<table>
+<thead>
+<tr>
+<th>Author</th>
+<th>Count</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>一記者</td>
+<td>2</td>
+</tr>
+<tr>
+<td>朴達成</td>
+<td>1</td>
+</tr>
+<tr>
+<td>廉尙燮</td>
+<td>1</td>
+</tr>
+<tr>
+<td>(譯)步月生</td>
+<td>1</td>
+</tr>
+<tr>
+<td>文一平</td>
+<td>1</td>
+</tr>
+<tr>
+<td>레듸, 오-거스타, 그레고리(Lady Augusta Gregory), 海兒(譯)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>石溪</td>
+<td>1</td>
+</tr>
+<tr>
+<td>辛槿圃</td>
+<td>1</td>
+</tr>
+<tr>
+<td>曉鍾</td>
+<td>1</td>
+</tr>
+<tr>
+<td>金起瀍</td>
+<td>1</td>
+</tr>
+<tr>
+<td>李敦化</td>
+<td>1</td>
+</tr>
+<tr>
+<td>步月生</td>
+<td>1</td>
+</tr>
+<tr>
+<td>廉想涉</td>
+<td>1</td>
+</tr>
+<tr>
+<td>쉑스피아(原作), 玄哲(譯述)</td>
+<td>1</td>
+</tr>
+<tr>
+<td>崔誠愚</td>
+<td>1</td>
+</tr>
+<tr>
+<td>夜雷</td>
+<td>1</td>
+</tr>
+<tr>
+<td>編輯局啓告</td>
+<td>1</td>
+</tr>
+<tr>
+<td>白頭山人</td>
+<td>1</td>
+</tr>
+<tr>
+<td>岸曙</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+<h3 id="word-frequencies">Word Frequencies</h3>
+<table>
+<thead>
+<tr>
+<th>Rank</th>
+<th>Word</th>
+<th>Frequency</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1</td>
+<td>하야</td>
+<td>625</td>
+</tr>
+<tr>
+<td>2</td>
+<td>우리</td>
+<td>314</td>
+</tr>
+<tr>
+<td>3</td>
+<td>말</td>
+<td>313</td>
+</tr>
+<tr>
+<td>4</td>
+<td>사람</td>
+<td>256</td>
+</tr>
+<tr>
+<td>5</td>
+<td>나</td>
+<td>232</td>
+</tr>
+<tr>
+<td>6</td>
+<td>가티</td>
+<td>145</td>
+</tr>
+<tr>
+<td>7</td>
+<td>생각</td>
+<td>134</td>
+</tr>
+<tr>
+<td>8</td>
+<td>先生</td>
+<td>120</td>
+</tr>
+<tr>
+<td>9</td>
+<td>섯다</td>
+<td>116</td>
+</tr>
+<tr>
+<td>10</td>
+<td>社會</td>
+<td>111</td>
+</tr>
+<tr>
+<td>11</td>
+<td>하얏다</td>
+<td>106</td>
+</tr>
+<tr>
+<td>12</td>
+<td>自己</td>
+<td>106</td>
+</tr>
+<tr>
+<td>13</td>
+<td>가지</td>
+<td>101</td>
+</tr>
+<tr>
+<td>14</td>
+<td>朝鮮</td>
+<td>99</td>
+</tr>
+<tr>
+<td>15</td>
+<td>思想</td>
+<td>95</td>
+</tr>
+<tr>
+<td>16</td>
+<td>그것</td>
+<td>94</td>
+</tr>
+<tr>
+<td>17</td>
+<td>다시</td>
+<td>84</td>
+</tr>
+<tr>
+<td>18</td>
+<td>男子</td>
+<td>84</td>
+</tr>
+<tr>
+<td>19</td>
+<td>하나</td>
+<td>79</td>
+</tr>
+<tr>
+<td>20</td>
+<td>巡査部長</td>
+<td>77</td>
+</tr>
+<tr>
+<td>21</td>
+<td>事實</td>
+<td>73</td>
+</tr>
+<tr>
+<td>22</td>
+<td>무엇</td>
+<td>71</td>
+</tr>
+<tr>
+<td>23</td>
+<td>모든</td>
+<td>65</td>
+</tr>
+<tr>
+<td>24</td>
+<td>勿論</td>
+<td>60</td>
+</tr>
+<tr>
+<td>25</td>
+<td>로써</td>
+<td>60</td>
+</tr>
+<tr>
+<td>26</td>
+<td>수가</td>
+<td>60</td>
+</tr>
+<tr>
+<td>27</td>
+<td>이나</td>
+<td>56</td>
+</tr>
+<tr>
+<td>28</td>
+<td>또한</td>
+<td>53</td>
+</tr>
+<tr>
+<td>29</td>
+<td>이오</td>
+<td>53</td>
+</tr>
+<tr>
+<td>30</td>
+<td>기사</td>
+<td>52</td>
+</tr>
+<tr>
+<td>31</td>
+<td>同時</td>
+<td>51</td>
+</tr>
+<tr>
+<td>32</td>
+<td>戀愛</td>
+<td>51</td>
+</tr>
+<tr>
+<td>33</td>
+<td>生活</td>
+<td>50</td>
+</tr>
+<tr>
+<td>34</td>
+<td>무슨</td>
+<td>50</td>
+</tr>
+<tr>
+<td>35</td>
+<td>今日</td>
+<td>48</td>
+</tr>
+<tr>
+<td>36</td>
+<td>只今</td>
+<td>46</td>
+</tr>
+<tr>
+<td>37</td>
+<td>가장</td>
+<td>44</td>
+</tr>
+<tr>
+<td>38</td>
+<td>一般</td>
+<td>44</td>
+</tr>
+<tr>
+<td>39</td>
+<td>리하</td>
+<td>43</td>
+</tr>
+<tr>
+<td>40</td>
+<td>집</td>
+<td>43</td>
+</tr>
+<tr>
+<td>41</td>
+<td>江界</td>
+<td>43</td>
+</tr>
+<tr>
+<td>42</td>
+<td>神聖</td>
+<td>43</td>
+</tr>
+<tr>
+<td>43</td>
+<td>兄弟</td>
+<td>43</td>
+</tr>
+<tr>
+<td>44</td>
+<td>손</td>
+<td>42</td>
+</tr>
+<tr>
+<td>45</td>
+<td>눈</td>
+<td>41</td>
+</tr>
+<tr>
+<td>46</td>
+<td>朝鮮人</td>
+<td>41</td>
+</tr>
+<tr>
+<td>47</td>
+<td>딸아</td>
+<td>40</td>
+</tr>
+<tr>
+<td>48</td>
+<td>누구</td>
+<td>40</td>
+</tr>
+<tr>
+<td>49</td>
+<td>다른</td>
+<td>40</td>
+</tr>
+<tr>
+<td>50</td>
+<td>人生</td>
+<td>40</td>
+</tr>
+<tr>
+<td>51</td>
+<td>眞理</td>
+<td>40</td>
+</tr>
+<tr>
+<td>52</td>
+<td>個人</td>
+<td>40</td>
+</tr>
+<tr>
+<td>53</td>
+<td>너</td>
+<td>39</td>
+</tr>
+<tr>
+<td>54</td>
+<td>勞働</td>
+<td>39</td>
+</tr>
+<tr>
+<td>55</td>
+<td>하얏스</td>
+<td>38</td>
+</tr>
+<tr>
+<td>56</td>
+<td>巡査</td>
+<td>38</td>
+</tr>
+<tr>
+<td>57</td>
+<td>한번</td>
+<td>37</td>
+</tr>
+<tr>
+<td>58</td>
+<td>意味</td>
+<td>37</td>
+</tr>
+<tr>
+<td>59</td>
+<td>하니</td>
+<td>37</td>
+</tr>
+<tr>
+<td>60</td>
+<td>여긔</td>
+<td>37</td>
+</tr>
+<tr>
+<td>61</td>
+<td>소리</td>
+<td>36</td>
+</tr>
+<tr>
+<td>62</td>
+<td>나리</td>
+<td>35</td>
+</tr>
+<tr>
+<td>63</td>
+<td>마음</td>
+<td>35</td>
+</tr>
+<tr>
+<td>64</td>
+<td>입</td>
+<td>35</td>
+</tr>
+<tr>
+<td>65</td>
+<td>서로</td>
+<td>35</td>
+</tr>
+<tr>
+<td>66</td>
+<td>반듯이</td>
+<td>35</td>
+</tr>
+<tr>
+<td>67</td>
+<td>生命</td>
+<td>35</td>
+</tr>
+<tr>
+<td>68</td>
+<td>로부터</td>
+<td>33</td>
+</tr>
+<tr>
+<td>69</td>
+<td>잇스</td>
+<td>33</td>
+</tr>
+<tr>
+<td>70</td>
+<td>그대로</td>
+<td>33</td>
+</tr>
+<tr>
+<td>71</td>
+<td>더욱</td>
+<td>32</td>
+</tr>
+<tr>
+<td>72</td>
+<td>잇슬</td>
+<td>32</td>
+</tr>
+<tr>
+<td>73</td>
+<td>먼저</td>
+<td>32</td>
+</tr>
+<tr>
+<td>74</td>
+<td>自由</td>
+<td>32</td>
+</tr>
+<tr>
+<td>75</td>
+<td>考察</td>
+<td>32</td>
+</tr>
+<tr>
+<td>76</td>
+<td>어찌</td>
+<td>31</td>
+</tr>
+<tr>
+<td>77</td>
+<td>吾人</td>
+<td>31</td>
+</tr>
+<tr>
+<td>78</td>
+<td>權利</td>
+<td>31</td>
+</tr>
+<tr>
+<td>79</td>
+<td>로서</td>
+<td>29</td>
+</tr>
+<tr>
+<td>80</td>
+<td>以上</td>
+<td>29</td>
+</tr>
+<tr>
+<td>81</td>
+<td>보고</td>
+<td>29</td>
+</tr>
+<tr>
+<td>82</td>
+<td>노래</td>
+<td>29</td>
+</tr>
+<tr>
+<td>83</td>
+<td>하엿다</td>
+<td>28</td>
+</tr>
+<tr>
+<td>84</td>
+<td>동안</td>
+<td>28</td>
+</tr>
+<tr>
+<td>85</td>
+<td>일이</td>
+<td>28</td>
+</tr>
+<tr>
+<td>86</td>
+<td>잡지</td>
+<td>27</td>
+</tr>
+<tr>
+<td>87</td>
+<td>하랴</td>
+<td>27</td>
+</tr>
+<tr>
+<td>88</td>
+<td>主張</td>
+<td>27</td>
+</tr>
+<tr>
+<td>89</td>
+<td>머리</td>
+<td>27</td>
+</tr>
+<tr>
+<td>90</td>
+<td>개벽</td>
+<td>26</td>
+</tr>
+<tr>
+<td>91</td>
+<td>제호</td>
+<td>26</td>
+</tr>
+<tr>
+<td>92</td>
+<td>발행</td>
+<td>26</td>
+</tr>
+<tr>
+<td>93</td>
+<td>제목</td>
+<td>26</td>
+</tr>
+<tr>
+<td>94</td>
+<td>형태</td>
+<td>26</td>
+</tr>
+<tr>
+<td>95</td>
+<td>所謂</td>
+<td>26</td>
+</tr>
+<tr>
+<td>96</td>
+<td>스스로</td>
+<td>26</td>
+</tr>
+<tr>
+<td>97</td>
+<td>一層</td>
+<td>25</td>
+</tr>
+<tr>
+<td>98</td>
+<td>일지</td>
+<td>25</td>
+</tr>
+<tr>
+<td>99</td>
+<td>人格</td>
+<td>25</td>
+</tr>
+<tr>
+<td>100</td>
+<td>結果</td>
+<td>25</td>
+</tr>
+<tr>
+<td>101</td>
+<td>文學</td>
+<td>25</td>
+</tr>
+<tr>
+<td>102</td>
+<td>藝術</td>
+<td>25</td>
+</tr>
+<tr>
+<td>103</td>
+<td>아모</td>
+<td>25</td>
+</tr>
+<tr>
+<td>104</td>
+<td>世上</td>
+<td>25</td>
+</tr>
+<tr>
+<td>105</td>
+<td>이제</td>
+<td>24</td>
+</tr>
+<tr>
+<td>106</td>
+<td>얼마나</td>
+<td>24</td>
+</tr>
+<tr>
+<td>107</td>
+<td>果然</td>
+<td>24</td>
+</tr>
+<tr>
+<td>108</td>
+<td>如何</td>
+<td>24</td>
+</tr>
+<tr>
+<td>109</td>
+<td>까닭</td>
+<td>24</td>
+</tr>
+<tr>
+<td>110</td>
+<td>必要</td>
+<td>24</td>
+</tr>
+<tr>
+<td>111</td>
+<td>마는</td>
+<td>23</td>
+</tr>
+<tr>
+<td>112</td>
+<td>하라</td>
+<td>23</td>
+</tr>
+<tr>
+<td>113</td>
+<td>世界</td>
+<td>23</td>
+</tr>
+<tr>
+<td>114</td>
+<td>一種</td>
+<td>23</td>
+</tr>
+<tr>
+<td>115</td>
+<td>方面</td>
+<td>23</td>
+</tr>
+<tr>
+<td>116</td>
+<td>平壤</td>
+<td>23</td>
+</tr>
+<tr>
+<td>117</td>
+<td>日本</td>
+<td>23</td>
+</tr>
+<tr>
+<td>118</td>
+<td>宗敎</td>
+<td>23</td>
+</tr>
+<tr>
+<td>119</td>
+<td>容恕</td>
+<td>23</td>
+</tr>
+<tr>
+<td>120</td>
+<td>一言</td>
+<td>23</td>
+</tr>
+<tr>
+<td>121</td>
+<td>하얏</td>
+<td>22</td>
+</tr>
+<tr>
+<td>122</td>
+<td>일다</td>
+<td>22</td>
+</tr>
+<tr>
+<td>123</td>
+<td>코저</td>
+<td>22</td>
+</tr>
+<tr>
+<td>124</td>
+<td>時代</td>
+<td>22</td>
+</tr>
+<tr>
+<td>125</td>
+<td>說明</td>
+<td>22</td>
+</tr>
+<tr>
+<td>126</td>
+<td>하겟다</td>
+<td>22</td>
+</tr>
+<tr>
+<td>127</td>
+<td>民族</td>
+<td>22</td>
+</tr>
+<tr>
+<td>128</td>
+<td>關係</td>
+<td>22</td>
+</tr>
+<tr>
+<td>129</td>
+<td>습니</td>
+<td>22</td>
+</tr>
+<tr>
+<td>130</td>
+<td>以外</td>
+<td>22</td>
+</tr>
+<tr>
+<td>131</td>
+<td>觀念</td>
+<td>22</td>
+</tr>
+<tr>
+<td>132</td>
+<td>萬一</td>
+<td>21</td>
+</tr>
+<tr>
+<td>133</td>
+<td>中國</td>
+<td>21</td>
+</tr>
+<tr>
+<td>134</td>
+<td>認定</td>
+<td>21</td>
+</tr>
+<tr>
+<td>135</td>
+<td>感情</td>
+<td>21</td>
+</tr>
+<tr>
+<td>136</td>
+<td>文化</td>
+<td>21</td>
+</tr>
+<tr>
+<td>137</td>
+<td>업스</td>
+<td>21</td>
+</tr>
+<tr>
+<td>138</td>
+<td>것이엇다</td>
+<td>21</td>
+</tr>
+<tr>
+<td>139</td>
+<td>어떠케</td>
+<td>21</td>
+</tr>
+<tr>
+<td>140</td>
+<td>그대</td>
+<td>21</td>
+</tr>
+<tr>
+<td>141</td>
+<td>價値</td>
+<td>21</td>
+</tr>
+<tr>
+<td>142</td>
+<td>犧牲</td>
+<td>21</td>
+</tr>
+<tr>
+<td>143</td>
+<td>少年</td>
+<td>21</td>
+</tr>
+<tr>
+<td>144</td>
+<td>英姬</td>
+<td>21</td>
+</tr>
+<tr>
+<td>145</td>
+<td>필자</td>
+<td>20</td>
+</tr>
+<tr>
+<td>146</td>
+<td>서서</td>
+<td>20</td>
+</tr>
+<tr>
+<td>147</td>
+<td>처음</td>
+<td>20</td>
+</tr>
+<tr>
+<td>148</td>
+<td>儒敎</td>
+<td>20</td>
+</tr>
+<tr>
+<td>149</td>
+<td>問題</td>
+<td>20</td>
+</tr>
+<tr>
+<td>150</td>
+<td>發展</td>
+<td>20</td>
+</tr>
+<tr>
+<td>151</td>
+<td>精神</td>
+<td>20</td>
+</tr>
+<tr>
+<td>152</td>
+<td>爲先</td>
+<td>20</td>
+</tr>
+<tr>
+<td>153</td>
+<td>社會的</td>
+<td>20</td>
+</tr>
+<tr>
+<td>154</td>
+<td>精力</td>
+<td>20</td>
+</tr>
+<tr>
+<td>155</td>
+<td>道德</td>
+<td>20</td>
+</tr>
+<tr>
+<td>156</td>
+<td>亡靈</td>
+<td>20</td>
+</tr>
+<tr>
+<td>157</td>
+<td>대로</td>
+<td>19</td>
+</tr>
+<tr>
+<td>158</td>
+<td>紹介</td>
+<td>19</td>
+</tr>
+<tr>
+<td>159</td>
+<td>사랑</td>
+<td>19</td>
+</tr>
+<tr>
+<td>160</td>
+<td>理想</td>
+<td>19</td>
+</tr>
+<tr>
+<td>161</td>
+<td>가을</td>
+<td>19</td>
+</tr>
+<tr>
+<td>162</td>
+<td>京城</td>
+<td>19</td>
+</tr>
+<tr>
+<td>163</td>
+<td>其他</td>
+<td>19</td>
+</tr>
+<tr>
+<td>164</td>
+<td>그때</td>
+<td>19</td>
+</tr>
+<tr>
+<td>165</td>
+<td>會</td>
+<td>19</td>
+</tr>
+<tr>
+<td>166</td>
+<td>그러케</td>
+<td>19</td>
+</tr>
+<tr>
+<td>167</td>
+<td>徹底</td>
+<td>18</td>
+</tr>
+<tr>
+<td>168</td>
+<td>적지</td>
+<td>18</td>
+</tr>
+<tr>
+<td>169</td>
+<td>다만</td>
+<td>18</td>
+</tr>
+<tr>
+<td>170</td>
+<td>退溪</td>
+<td>18</td>
+</tr>
+<tr>
+<td>171</td>
+<td>實行</td>
+<td>18</td>
+</tr>
+<tr>
+<td>172</td>
+<td>듯이</td>
+<td>18</td>
+</tr>
+<tr>
+<td>173</td>
+<td>이름</td>
+<td>18</td>
+</tr>
+<tr>
+<td>174</td>
+<td>비록</td>
+<td>18</td>
+</tr>
+<tr>
+<td>175</td>
+<td>가슴</td>
+<td>18</td>
+</tr>
+<tr>
+<td>176</td>
+<td>目的</td>
+<td>18</td>
+</tr>
+<tr>
+<td>177</td>
+<td>小說</td>
+<td>18</td>
+</tr>
+<tr>
+<td>178</td>
+<td>다음</td>
+<td>18</td>
+</tr>
+<tr>
+<td>179</td>
+<td>境遇</td>
+<td>18</td>
+</tr>
+<tr>
+<td>180</td>
+<td>倫理</td>
+<td>18</td>
+</tr>
+<tr>
+<td>181</td>
+<td>文明</td>
+<td>18</td>
+</tr>
+<tr>
+<td>182</td>
+<td>自我主義</td>
+<td>18</td>
+</tr>
+<tr>
+<td>183</td>
+<td>科學</td>
+<td>18</td>
+</tr>
+<tr>
+<td>184</td>
+<td>보아</td>
+<td>17</td>
+</tr>
+<tr>
+<td>185</td>
+<td>天才</td>
+<td>17</td>
+</tr>
+<tr>
+<td>186</td>
+<td>黨爭</td>
+<td>17</td>
+</tr>
+<tr>
+<td>187</td>
+<td>始作</td>
+<td>17</td>
+</tr>
+<tr>
+<td>188</td>
+<td>當時</td>
+<td>17</td>
+</tr>
+<tr>
+<td>189</td>
+<td>第一</td>
+<td>17</td>
+</tr>
+<tr>
+<td>190</td>
+<td>記者</td>
+<td>17</td>
+</tr>
+<tr>
+<td>191</td>
+<td>발</td>
+<td>17</td>
+</tr>
+<tr>
+<td>192</td>
+<td>거나</td>
+<td>17</td>
+</tr>
+<tr>
+<td>193</td>
+<td>한우</td>
+<td>17</td>
+</tr>
+<tr>
+<td>194</td>
+<td>아아</td>
+<td>17</td>
+</tr>
+<tr>
+<td>195</td>
+<td>條件</td>
+<td>17</td>
+</tr>
+<tr>
+<td>196</td>
+<td>伯父</td>
+<td>17</td>
+</tr>
+<tr>
+<td>197</td>
+<td>호레</td>
+<td>17</td>
+</tr>
+<tr>
+<td>198</td>
+<td>이로</td>
+<td>16</td>
+</tr>
+<tr>
+<td>199</td>
+<td>참으로</td>
+<td>16</td>
+</tr>
+<tr>
+<td>200</td>
+<td>잇슴</td>
+<td>16</td>
+</tr>
+<tr>
+<td>201</td>
+<td>부터</td>
+<td>16</td>
+</tr>
+<tr>
+<td>202</td>
+<td>家庭</td>
+<td>16</td>
+</tr>
+<tr>
+<td>203</td>
+<td>다가</td>
+<td>16</td>
+</tr>
+<tr>
+<td>204</td>
+<td>하리</td>
+<td>16</td>
+</tr>
+<tr>
+<td>205</td>
+<td>發表</td>
+<td>16</td>
+</tr>
+<tr>
+<td>206</td>
+<td>오늘날</td>
+<td>16</td>
+</tr>
+<tr>
+<td>207</td>
+<td>왓다</td>
+<td>16</td>
+</tr>
+<tr>
+<td>208</td>
+<td>어대</td>
+<td>16</td>
+</tr>
+<tr>
+<td>209</td>
+<td>態度</td>
+<td>16</td>
+</tr>
+<tr>
+<td>210</td>
+<td>永遠</td>
+<td>16</td>
+</tr>
+<tr>
+<td>211</td>
+<td>盟誓</td>
+<td>16</td>
+</tr>
+<tr>
+<td>212</td>
+<td>疑問</td>
+<td>15</td>
+</tr>
+<tr>
+<td>213</td>
+<td>發達</td>
+<td>15</td>
+</tr>
+<tr>
+<td>214</td>
+<td>西洋</td>
+<td>15</td>
+</tr>
+<tr>
+<td>215</td>
+<td>아츰</td>
+<td>15</td>
+</tr>
+<tr>
+<td>216</td>
+<td>모양</td>
+<td>15</td>
+</tr>
+<tr>
+<td>217</td>
+<td>弊害</td>
+<td>15</td>
+</tr>
+<tr>
+<td>218</td>
+<td>거리</td>
+<td>15</td>
+</tr>
+<tr>
+<td>219</td>
+<td>이란</td>
+<td>15</td>
+</tr>
+<tr>
+<td>220</td>
+<td>亦是</td>
+<td>15</td>
+</tr>
+<tr>
+<td>221</td>
+<td>名譽</td>
+<td>15</td>
+</tr>
+<tr>
+<td>222</td>
+<td>족음</td>
+<td>15</td>
+</tr>
+<tr>
+<td>223</td>
+<td>저서</td>
+<td>15</td>
+</tr>
+<tr>
+<td>224</td>
+<td>斷斷子</td>
+<td>15</td>
+</tr>
+<tr>
+<td>225</td>
+<td>性質</td>
+<td>15</td>
+</tr>
+<tr>
+<td>226</td>
+<td>하자</td>
+<td>14</td>
+</tr>
+<tr>
+<td>227</td>
+<td>겨우</td>
+<td>14</td>
+</tr>
+<tr>
+<td>228</td>
+<td>거의</td>
+<td>14</td>
+</tr>
+<tr>
+<td>229</td>
+<td>고저</td>
+<td>14</td>
+</tr>
+<tr>
+<td>230</td>
+<td>硏究</td>
+<td>14</td>
+</tr>
+<tr>
+<td>231</td>
+<td>調和</td>
+<td>14</td>
+</tr>
+<tr>
+<td>232</td>
+<td>觀察</td>
+<td>14</td>
+</tr>
+<tr>
+<td>233</td>
+<td>事業</td>
+<td>14</td>
+</tr>
+<tr>
+<td>234</td>
+<td>組織</td>
+<td>14</td>
+</tr>
+<tr>
+<td>235</td>
+<td>거긔</td>
+<td>14</td>
+</tr>
+<tr>
+<td>236</td>
+<td>自然</td>
+<td>14</td>
+</tr>
+<tr>
+<td>237</td>
+<td>안흐</td>
+<td>14</td>
+</tr>
+<tr>
+<td>238</td>
+<td>現在</td>
+<td>14</td>
+</tr>
+<tr>
+<td>239</td>
+<td>天然</td>
+<td>14</td>
+</tr>
+<tr>
+<td>240</td>
+<td>안코</td>
+<td>14</td>
+</tr>
+<tr>
+<td>241</td>
+<td>문득</td>
+<td>14</td>
+</tr>
+<tr>
+<td>242</td>
+<td>여러</td>
+<td>14</td>
+</tr>
+<tr>
+<td>243</td>
+<td>아마</td>
+<td>13</td>
+</tr>
+<tr>
+<td>244</td>
+<td>비롯</td>
+<td>13</td>
+</tr>
+<tr>
+<td>245</td>
+<td>돌이</td>
+<td>13</td>
+</tr>
+<tr>
+<td>246</td>
+<td>이면</td>
+<td>13</td>
+</tr>
+<tr>
+<td>247</td>
+<td>國家</td>
+<td>13</td>
+</tr>
+<tr>
+<td>248</td>
+<td>偉大</td>
+<td>13</td>
+</tr>
+<tr>
+<td>249</td>
+<td>佛敎</td>
+<td>13</td>
+</tr>
+<tr>
+<td>250</td>
+<td>靑年</td>
+<td>13</td>
+</tr>
+<tr>
+<td>251</td>
+<td>個性</td>
+<td>13</td>
+</tr>
+<tr>
+<td>252</td>
+<td>努力</td>
+<td>13</td>
+</tr>
+<tr>
+<td>253</td>
+<td>한울</td>
+<td>13</td>
+</tr>
+<tr>
+<td>254</td>
+<td>더욱이</td>
+<td>13</td>
+</tr>
+<tr>
+<td>255</td>
+<td>가트</td>
+<td>13</td>
+</tr>
+<tr>
+<td>256</td>
+<td>아모리</td>
+<td>13</td>
+</tr>
+<tr>
+<td>257</td>
+<td>婦人</td>
+<td>13</td>
+</tr>
+<tr>
+<td>258</td>
+<td>主義</td>
+<td>13</td>
+</tr>
+<tr>
+<td>259</td>
+<td>얼굴</td>
+<td>13</td>
+</tr>
+<tr>
+<td>260</td>
+<td>한가지</td>
+<td>13</td>
+</tr>
+<tr>
+<td>261</td>
+<td>原因</td>
+<td>13</td>
+</tr>
+<tr>
+<td>262</td>
+<td>元來</td>
+<td>13</td>
+</tr>
+<tr>
+<td>263</td>
+<td>恒常</td>
+<td>13</td>
+</tr>
+<tr>
+<td>264</td>
+<td>貞操</td>
+<td>13</td>
+</tr>
+<tr>
+<td>265</td>
+<td>하노</td>
+<td>12</td>
+</tr>
+<tr>
+<td>266</td>
+<td>업슬</td>
+<td>12</td>
+</tr>
+<tr>
+<td>267</td>
+<td>노코</td>
+<td>12</td>
+</tr>
+<tr>
+<td>268</td>
+<td>바이</td>
+<td>12</td>
+</tr>
+<tr>
+<td>269</td>
+<td>政治的</td>
+<td>12</td>
+</tr>
+<tr>
+<td>270</td>
+<td>理氣兩者</td>
+<td>12</td>
+</tr>
+<tr>
+<td>271</td>
+<td>先天的</td>
+<td>12</td>
+</tr>
+<tr>
+<td>272</td>
+<td>作用</td>
+<td>12</td>
+</tr>
+<tr>
+<td>273</td>
+<td>進步</td>
+<td>12</td>
+</tr>
+<tr>
+<td>274</td>
+<td>한참</td>
+<td>12</td>
+</tr>
+<tr>
+<td>275</td>
+<td>조치</td>
+<td>12</td>
+</tr>
+<tr>
+<td>276</td>
+<td>漸次</td>
+<td>12</td>
+</tr>
+<tr>
+<td>277</td>
+<td>妙香山</td>
+<td>12</td>
+</tr>
+<tr>
+<td>278</td>
+<td>狀態</td>
+<td>12</td>
+</tr>
+<tr>
+<td>279</td>
+<td>地方</td>
+<td>12</td>
+</tr>
+<tr>
+<td>280</td>
+<td>얼마</td>
+<td>12</td>
+</tr>
+<tr>
+<td>281</td>
+<td>程度</td>
+<td>12</td>
+</tr>
+<tr>
+<td>282</td>
+<td>發見</td>
+<td>12</td>
+</tr>
+<tr>
+<td>283</td>
+<td>혼자</td>
+<td>12</td>
+</tr>
+<tr>
+<td>284</td>
+<td>안흘</td>
+<td>12</td>
+</tr>
+<tr>
+<td>285</td>
+<td>近代</td>
+<td>12</td>
+</tr>
+<tr>
+<td>286</td>
+<td>描寫</td>
+<td>12</td>
+</tr>
+<tr>
+<td>287</td>
+<td>多數</td>
+<td>12</td>
+</tr>
+<tr>
+<td>288</td>
+<td>一部</td>
+<td>12</td>
+</tr>
+<tr>
+<td>289</td>
+<td>藝術的</td>
+<td>12</td>
+</tr>
+<tr>
+<td>290</td>
+<td>여러분</td>
+<td>11</td>
+</tr>
+<tr>
+<td>291</td>
+<td>歲時</td>
+<td>11</td>
+</tr>
+<tr>
+<td>292</td>
+<td>衝動</td>
+<td>11</td>
+</tr>
+<tr>
+<td>293</td>
+<td>生涯</td>
+<td>11</td>
+</tr>
+<tr>
+<td>294</td>
+<td>趣味</td>
+<td>11</td>
+</tr>
+<tr>
+<td>295</td>
+<td>排斥</td>
+<td>11</td>
+</tr>
+<tr>
+<td>296</td>
+<td>兩者</td>
+<td>11</td>
+</tr>
+<tr>
+<td>297</td>
+<td>影響</td>
+<td>11</td>
+</tr>
+<tr>
+<td>298</td>
+<td>不得已</td>
+<td>11</td>
+</tr>
+<tr>
+<td>299</td>
+<td>보지</td>
+<td>11</td>
+</tr>
+<tr>
+<td>300</td>
+<td>만흐</td>
+<td>11</td>
+</tr>
+<tr>
+<td>301</td>
+<td>人間</td>
+<td>11</td>
+</tr>
+<tr>
+<td>302</td>
+<td>天下</td>
+<td>11</td>
+</tr>
+<tr>
+<td>303</td>
+<td>特色</td>
+<td>11</td>
+</tr>
+<tr>
+<td>304</td>
+<td>形便</td>
+<td>11</td>
+</tr>
+<tr>
+<td>305</td>
+<td>오히려</td>
+<td>11</td>
+</tr>
+<tr>
+<td>306</td>
+<td>靑年會</td>
+<td>11</td>
+</tr>
+<tr>
+<td>307</td>
+<td>勞働者</td>
+<td>11</td>
+</tr>
+<tr>
+<td>308</td>
+<td>理解</td>
+<td>11</td>
+</tr>
+<tr>
+<td>309</td>
+<td>基督敎</td>
+<td>11</td>
+</tr>
+<tr>
+<td>310</td>
+<td>때문</td>
+<td>11</td>
+</tr>
+<tr>
+<td>311</td>
+<td>하하</td>
+<td>11</td>
+</tr>
+<tr>
+<td>312</td>
+<td>投稿</td>
+<td>11</td>
+</tr>
+<tr>
+<td>313</td>
+<td>注意</td>
+<td>11</td>
+</tr>
+<tr>
+<td>314</td>
+<td>異常</td>
+<td>11</td>
+</tr>
+<tr>
+<td>315</td>
+<td>만일</td>
+<td>11</td>
+</tr>
+<tr>
+<td>316</td>
+<td>理性</td>
+<td>11</td>
+</tr>
+<tr>
+<td>317</td>
+<td>世間</td>
+<td>11</td>
+</tr>
+<tr>
+<td>318</td>
+<td>文學者</td>
+<td>11</td>
+</tr>
+<tr>
+<td>319</td>
+<td>에나</td>
+<td>11</td>
+</tr>
+<tr>
+<td>320</td>
+<td>東洋</td>
+<td>11</td>
+</tr>
+<tr>
+<td>321</td>
+<td>姑母</td>
+<td>11</td>
+</tr>
+<tr>
+<td>322</td>
+<td>社交</td>
+<td>11</td>
+</tr>
+<tr>
+<td>323</td>
+<td>되엇</td>
+<td>10</td>
+</tr>
+<tr>
+<td>324</td>
+<td>는가</td>
+<td>10</td>
+</tr>
+<tr>
+<td>325</td>
+<td>그네</td>
+<td>10</td>
+</tr>
+<tr>
+<td>326</td>
+<td>물</td>
+<td>10</td>
+</tr>
+<tr>
+<td>327</td>
+<td>有名</td>
+<td>10</td>
+</tr>
+<tr>
+<td>328</td>
+<td>不幸</td>
+<td>10</td>
+</tr>
+<tr>
+<td>329</td>
+<td>哲學的</td>
+<td>10</td>
+</tr>
+<tr>
+<td>330</td>
+<td>根本的</td>
+<td>10</td>
+</tr>
+<tr>
+<td>331</td>
+<td>反對</td>
+<td>10</td>
+</tr>
+<tr>
+<td>332</td>
+<td>實在</td>
+<td>10</td>
+</tr>
+<tr>
+<td>333</td>
+<td>同一</td>
+<td>10</td>
+</tr>
+<tr>
+<td>334</td>
+<td>缺點</td>
+<td>10</td>
+</tr>
+<tr>
+<td>335</td>
+<td>創造</td>
+<td>10</td>
+</tr>
+<tr>
+<td>336</td>
+<td>娼妓</td>
+<td>10</td>
+</tr>
+<tr>
+<td>337</td>
+<td>仔細</td>
+<td>10</td>
+</tr>
+<tr>
+<td>338</td>
+<td>가운</td>
+<td>10</td>
+</tr>
+<tr>
+<td>339</td>
+<td>이요</td>
+<td>10</td>
+</tr>
+<tr>
+<td>340</td>
+<td>인지</td>
+<td>10</td>
+</tr>
+<tr>
+<td>341</td>
+<td>東京</td>
+<td>10</td>
+</tr>
+<tr>
+<td>342</td>
+<td>活動</td>
+<td>10</td>
+</tr>
+<tr>
+<td>343</td>
+<td>敎訓</td>
+<td>10</td>
+</tr>
+<tr>
+<td>344</td>
+<td>一時</td>
+<td>10</td>
+</tr>
+<tr>
+<td>345</td>
+<td>몰랏다</td>
+<td>10</td>
+</tr>
+<tr>
+<td>346</td>
+<td>發揮</td>
+<td>10</td>
+</tr>
+<tr>
+<td>347</td>
+<td>오늘</td>
+<td>10</td>
+</tr>
+<tr>
+<td>348</td>
+<td>運動</td>
+<td>10</td>
+</tr>
+<tr>
+<td>349</td>
+<td>暫間</td>
+<td>10</td>
+</tr>
+<tr>
+<td>350</td>
+<td>根底</td>
+<td>10</td>
+</tr>
+<tr>
+<td>351</td>
+<td>당신</td>
+<td>10</td>
+</tr>
+<tr>
+<td>352</td>
+<td>賞金</td>
+<td>10</td>
+</tr>
+<tr>
+<td>353</td>
+<td>人民</td>
+<td>10</td>
+</tr>
+<tr>
+<td>354</td>
+<td>文學上</td>
+<td>10</td>
+</tr>
+<tr>
+<td>355</td>
+<td>外界</td>
+<td>10</td>
+</tr>
+<tr>
+<td>356</td>
+<td>一面</td>
+<td>10</td>
+</tr>
+<tr>
+<td>357</td>
+<td>實際</td>
+<td>10</td>
+</tr>
+<tr>
+<td>358</td>
+<td>宣傳</td>
+<td>10</td>
+</tr>
+<tr>
+<td>359</td>
+<td>主人</td>
+<td>10</td>
+</tr>
+<tr>
+<td>360</td>
+<td>階級</td>
+<td>10</td>
+</tr>
+<tr>
+<td>361</td>
+<td>家族</td>
+<td>10</td>
+</tr>
+<tr>
+<td>362</td>
+<td>乃至</td>
+<td>10</td>
+</tr>
+<tr>
+<td>363</td>
+<td>勞働的</td>
+<td>10</td>
+</tr>
+<tr>
+<td>364</td>
+<td>生活條件</td>
+<td>10</td>
+</tr>
+<tr>
+<td>365</td>
+<td>解放</td>
+<td>10</td>
+</tr>
+<tr>
+<td>366</td>
+<td>三寸</td>
+<td>10</td>
+</tr>
+<tr>
+<td>367</td>
+<td>레트</td>
+<td>10</td>
+</tr>
+<tr>
+<td>368</td>
+<td>退溪先生</td>
+<td>9</td>
+</tr>
+<tr>
+<td>369</td>
+<td>마치</td>
+<td>9</td>
+</tr>
+<tr>
+<td>370</td>
+<td>그로</td>
+<td>9</td>
+</tr>
+<tr>
+<td>371</td>
+<td>만하</td>
+<td>9</td>
+</tr>
+<tr>
+<td>372</td>
+<td>記錄</td>
+<td>9</td>
+</tr>
+<tr>
+<td>373</td>
+<td>動機</td>
+<td>9</td>
+</tr>
+<tr>
+<td>374</td>
+<td>完全</td>
+<td>9</td>
+</tr>
+<tr>
+<td>375</td>
+<td>覺悟</td>
+<td>9</td>
+</tr>
+<tr>
+<td>376</td>
+<td>知識</td>
+<td>9</td>
+</tr>
+<tr>
+<td>377</td>
+<td>存在</td>
+<td>9</td>
+</tr>
+<tr>
+<td>378</td>
+<td>成功</td>
+<td>9</td>
+</tr>
+<tr>
+<td>379</td>
+<td>變化</td>
+<td>9</td>
+</tr>
+<tr>
+<td>380</td>
+<td>表現</td>
+<td>9</td>
+</tr>
+<tr>
+<td>381</td>
+<td>緣起論</td>
+<td>9</td>
+</tr>
+<tr>
+<td>382</td>
+<td>宇宙</td>
+<td>9</td>
+</tr>
+<tr>
+<td>383</td>
+<td>所以</td>
+<td>9</td>
+</tr>
+<tr>
+<td>384</td>
+<td>意義</td>
+<td>9</td>
+</tr>
+<tr>
+<td>385</td>
+<td>根據</td>
+<td>9</td>
+</tr>
+<tr>
+<td>386</td>
+<td>멀리</td>
+<td>9</td>
+</tr>
+<tr>
+<td>387</td>
+<td>以後</td>
+<td>9</td>
+</tr>
+<tr>
+<td>388</td>
+<td>江山</td>
+<td>9</td>
+</tr>
+<tr>
+<td>389</td>
+<td>女子</td>
+<td>9</td>
+</tr>
+<tr>
+<td>390</td>
+<td>記憶</td>
+<td>9</td>
+</tr>
+<tr>
+<td>391</td>
+<td>簡單</td>
+<td>9</td>
+</tr>
+<tr>
+<td>392</td>
+<td>後者</td>
+<td>9</td>
+</tr>
+<tr>
+<td>393</td>
+<td>수도</td>
+<td>9</td>
+</tr>
+<tr>
+<td>394</td>
+<td>사이</td>
+<td>9</td>
+</tr>
+<tr>
+<td>395</td>
+<td>스리</td>
+<td>9</td>
+</tr>
+<tr>
+<td>396</td>
+<td>印象</td>
+<td>9</td>
+</tr>
+<tr>
+<td>397</td>
+<td>兒童</td>
+<td>9</td>
+</tr>
+<tr>
+<td>398</td>
+<td>眞正</td>
+<td>9</td>
+</tr>
+<tr>
+<td>399</td>
+<td>後援</td>
+<td>9</td>
+</tr>
+<tr>
+<td>400</td>
+<td>自軆</td>
+<td>9</td>
+</tr>
+</tbody>
+</table>
+</body>
+</html>
