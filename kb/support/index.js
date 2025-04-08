@@ -113,12 +113,19 @@ function loadDataScript() {
     };
     
     // Add both scripts to the document
-    document.body.appendChild(dataScriptElement);
+    if ('requestIdleCallback' in window) {
+        requestIdleCallback(() => document.body.appendChild(dataScriptElement));
+    } else {
+        setTimeout(() => document.body.appendChild(dataScriptElement), 200);
+    }
     document.body.appendChild(pdfsScriptElement);
 }
 
 // Get all unique issues sorted
 function getAllSortedIssues() {
+    if (typeof ISSUE_LIST !== 'undefined') {
+        return ISSUE_LIST;
+    }
     return [...new Set(ARTICLES.map(item => item.issue))].sort();
 }
 
