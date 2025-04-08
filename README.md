@@ -1,4 +1,4 @@
-This is a site created mostly for students of history to easily browse articles of several Korean colonial period journals. 
+This is a [site](https://yeoksayeou.github.io/) created mostly for students of history to easily browse articles of several Korean colonial period journals. 
 
 The original journals are unlikely to be protected under any copyright, but a special appreciation needs to be shown for the transcription work of the [National Institute of Korean History](https://db.history.go.kr/) (국사편찬위원회).
 
