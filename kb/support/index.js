@@ -4,6 +4,16 @@ function getUrlParam(param) {
     return urlParams.get(param);
 }
 
+function formatIssueForDisplay(issue) {
+    // First replace underscores with spaces
+    let displayIssue = issue.replace(/_/g, " ");
+    
+    // Then replace "sk" with "신간" if it's at the beginning of the string
+    displayIssue = displayIssue.replace(/^sk /i, "신간 ");
+    
+    return displayIssue;
+}
+
 function loadIssueScript(issue, callback) {
     const baseDir = isEnglishMode() ? 'support/index_en/' : 'support/index/';
     const fileName = encodeURIComponent(issue) + '.js';
@@ -184,11 +194,12 @@ function displayIssueList() {
     
     uniqueIssues.forEach(issue => {
         const pdfPath = getPdfPath(issue);
+        const displayIssue = formatIssueForDisplay(issue); // Format the issue name for display
         
         issueListHTML += `
             <li>
                 <div>
-                    <a href="${createUrl('index.html', {issue: issue})}">${issue}</a>
+                    <a href="${createUrl('index.html', {issue: issue})}">${displayIssue}</a>
                     <a href="${createUrl('index.html', {issue: issue, all: 'yes'})}" class="all-link">Full View</a>
                     ${pdfPath ? `<span class="link-separator">|</span><a href="${pdfPath}" class="all-link" target="_blank">PDF</a>` : ''}
                 </div>
@@ -208,6 +219,7 @@ function displayIssueArticles(issueName) {
     loadIssueScript(issueName, (issueArticles) => {
         const pdfPath = getPdfPath(issueName);
         const { prevIssue, nextIssue } = getAdjacentIssues(issueName);
+        const displayIssueName = formatIssueForDisplay(issueName); // Format for display
 
         issueArticles.sort((a, b) => {
             const getFileNumber = (path) => {
@@ -220,7 +232,7 @@ function displayIssueArticles(issueName) {
         if (issueArticles.length === 0) {
             contentDiv.innerHTML = `
                 <div class="error">
-                    <p>No articles found for issue "${issueName}".</p>
+                    <p>No articles found for issue "${displayIssueName}".</p>
                     <p><a href="${createUrl('index.html')}">Return to issue list</a></p>
                 </div>
             `;
@@ -231,7 +243,7 @@ function displayIssueArticles(issueName) {
             let allArticlesHTML = `
                 <div class="article-header">
                     <div class="issue-title">
-                        ${issueName}
+                        ${displayIssueName}
                         <a href="${createUrl('index.html', {issue: issueName})}" class="all-articles-link">List</a>
                         ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px;">PDF</a>` : ''}
                     </div>
@@ -273,7 +285,7 @@ function displayIssueArticles(issueName) {
             let articleListHTML = `
                 <div class="article-header">
                     <div class="issue-title">
-                        ${issueName}
+                        ${displayIssueName}
                         <a href="${createUrl('index.html', {issue: issueName, all: 'yes'})}" class="all-articles-link">Full View</a>
                         ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px;">PDF</a>` : ''}
                     </div>
@@ -345,6 +357,7 @@ function displayArticle(articlePath) {
         }
 
         const pdfPath = getPdfPath(article.issue);
+        const displayIssue = formatIssueForDisplay(article.issue); // Format for display
 
         issueArticles.sort((a, b) => {
             const getFileNumber = (path) => {
@@ -437,7 +450,7 @@ function displayArticle(articlePath) {
                         <div><span class="meta-label">Type:</span> ${article.type || 'Other'}</div>
                         <div><span class="meta-label">Issue:</span> 
                             <a href="${createUrl('index.html', {issue: article.issue})}" style="color: inherit; text-decoration: none;">
-                                ${article.issue}
+                                ${displayIssue}
                             </a>
                             ${pdfPath ? `<a href="${pdfPath}" class="all-articles-link" target="_blank" style="margin-left: 10px; font-size: 0.8em;">PDF</a>` : ''}
                         </div>
@@ -464,7 +477,7 @@ function displayArticle(articlePath) {
         articleHTML += `
             <div class="article-navigation">
                 <div class="nav-links">
-                    <a href="${createUrl('index.html', {issue: article.issue})}" class="nav-link-issue">&laquo; Back to ${article.issue}</a>
+                    <a href="${createUrl('index.html', {issue: article.issue})}" class="nav-link-issue">&laquo; Back to ${displayIssue}</a>
                     <div class="nav-pagination">
                         ${prevArticle ? 
                             `<a href="${createUrl('index.html', {path: prevArticle.path})}" class="nav-link-prev">Previous Article</a>` : 
