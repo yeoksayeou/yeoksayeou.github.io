@@ -1,0 +1,102 @@
+75 410 incomplete
+70 330 incomplete
+69 370 incomplete
+45 380 incomplete
+22 370 incomplete
+61 280 incomplete
+
+
+8 140 - redo!
+9 010 - redo
+16 330 - redo
+20 390 - redo
+
+20 450 - redo
+21 100 - redo
+21 220 - redo
+STILL: 22 210 - redo
+23 170 - redo
+26 100 - cut original
+STILL: 26 170 - redo
+27 011 - redo
+27 020 - cut original
+27 050 - redo
+27 220 - redo
+29 330 - redo
+32 160 - redo
+33 260 - redo
+33 270 - redo
+34 020 - redo
+34 260 - redo
+34 270 - redo
+34 280 - redo
+34 510 - redo
+
+37 700 - cut original
+38 680 - cut original
+
+39 001 - redo
+39 890 - redo
+
+41 430 - redo
+
+42 250 - redo
+42 330 - redo
+
+
+
+
+CONTINUE CHECK FROM HERE:
+
+ 
+43 220 - redo
+43 330 - redo
+43 490 - redo
+44 120 - cut original
+
+46 230 - redo
+46 430 - redo
+47 190 - redo
+48 420 - redo
+48 430 - redo
+49 023 - redo
+49 025 - redo
+49 027 - redo
+49 260 - redo
+50 400 - cut original
+55 360 - redo
+56 290 - redo
+56 520 - cut original
+58 030 - redo
+58 040 - redo
+60 360 - redo
+60 430 - redo
+60 431 - redo
+61 290 - redo
+62 390 - redo
+64 040 - redo
+65 060 - redo
+65 130 - redo
+65 260 - redo
+65 270 - redo
+66 240 - redo
+66 370 - redo
+66 430 - redo 
+78 150 - redo
+78 160 - redo
+78 170 - redo
+79 100 - redo
+79 240 - redo
+79 380 - redo
+82 270 - redo
+82 400 - redo
+82 410 - redo
+83 090 - redo (Japanese)
+83 170 - redo
+83 180 - redo
+86 110 - redo
+86 120 - redo
+86 160 - redo
+88 005 - redo
+89 221 - redo
+89 222 - redo

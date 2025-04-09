@@ -1,0 +1,37 @@
+雜誌名	別건곤 제36호
+발행일	1931년 01월 01일
+기사제목	一問一答記 7, (One Question, One Answer Record 7)
+기사형태	대담·좌담 (Conversation/Dialogue)
+
+One Question, One Answer Record 7
+
+Yu Il-jun
+
+Reporter: What is the biggest issue in the medical field recently?
+
+Yu: A French medical scholar named Calmette has researched and announced a novel tuberculosis prevention method. After animal testing, and even human trials, it has shown considerably positive results, causing quite a sensation in the medical community. The method involves feeding people tuberculosis bacteria. It seems this method may also be used for typhoid fever and dysentery, replacing vaccinations with oral ingestion of the bacteria. <56>
+
+<56-56>
+
+**Named Entities**
+
+兪日濬	Yu Il-jun
+칼메트	Calmette
+腸窒扶斯	Changch'ilp'usa
+赤痢病	Chŏgnibyeong
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제36호
+발행일	1931년 01월 01일
+기사제목	一問一答記 7,
+기사형태	대담·좌담
+
+一問一答記 7,
+兪日濬
+記者 最近醫學界에 문제가 되어 잇는 것이 무엇인가요
+兪 佛國의학자 칼메트란 사람이 연구발표한 바 종래 업든 結核病豫防法인ep 동물시험을 거처 人身試驗까지 해서 상당히 양호한 성적을 어덧슴으로 의학계에 적지 안흔 센세이슌을 일으키고 잇슴니다. 그방법은 結核菌을 사람이 먹는다 함니다. 이 방법으로 腸窒扶斯, 赤痢病가튼 것도 예방주사 대신 菌을 먹게 될 모양임니다.<56>
+<56-56>

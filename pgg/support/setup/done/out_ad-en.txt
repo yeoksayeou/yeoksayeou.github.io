@@ -1,0 +1,300 @@
+17	240	Lookout		Miscellany
+17	250	If There Were No Women in This World		Literary Miscellany
+17	260	Social Bureau Survey: Love Statistics		Miscellany
+17	270	If There Were No Men in This World		Essay
+17	271	Welcoming Exploration Reports from Various Cities		Announcement/Postscript
+17	280	Big Fights, Small Fights, Secret Methods for Marital Reconciliation, Secrets from Famous Figures Revealed		Miscellany
+17	281	Cover Picture Explanation		Miscellany
+17	290	Dream of Seeing Ch'unhyang Story	P'algakchŏng Yi Toryŏng	Literary Miscellany
+17	291	Commemorating 30,000 Copies Sold: Grand 500 Won Prize Contest		Announcement/Postscript
+17	300	Accounts of Famous Beauties in Five Major Cities	P'ungnyurang	Literary Miscellany
+17	310	Beauties: Women I Think Fondly Of		Literary Miscellany
+17	311	Special Announcement		Announcement/Postscript
+17	320	Men: Men I Think Fondly Of		Literary Miscellany
+17	330	Arguments About Men / Pros and Cons of Men		Literary Miscellany
+17	331	(Untitled - Staff Contribution)		Announcement/Postscript
+17	332	(Untitled - Staff Contribution)		Announcement/Postscript
+17	340	Arguments About Women / Pros and Cons of Women		Literary Miscellany
+17	350	Premiere on Paper		Literary Miscellany
+17	360	Scientific Research: The Emotional Life of Fierce Beasts		Essay
+17	361	◇ New Branch Office Established		Announcement/Postscript
+17	370	Rare News, Strange Sights: Observations on the Sex Lives of Men and Women in Various Countries	Oe Yusaeng	Literary Miscellany
+17	380	Concepts of Chastity / Views on Chastity		Miscellany
+17	390	Hobby Science: Method for Making an Elixir of Immortality with 『Farts』, New Invention by Red Russia's Zoology Ph.D. Dr. Mechnikov		Essay
+17	400	Kyŏngsŏng Radio		Social Commentary
+17	410	International Snake Exhibition Continued		Literary Miscellany
+17	420	Constitution of the Land of Alcohol / Drinkers' Constitution		Miscellany
+17	430	Serial Lecture Story, "Morning", Part 4: The Jurchen Nation's Mobilization Order to Conquer Ming	Pak Hŭido	Literary Miscellany
+17	440	New Myth: "Before the Creation"	Yarae	Literary Miscellany
+17	441	Welcoming Confidential Submissions		Announcement/Postscript
+17	450	Afterparty for the "Exhibition of Strange Love Affairs"	Ch'oe Tongmyŏng	Literary Miscellany
+17	460	Scribbles from the Editorial Office / Editor's Notes		Announcement/Postscript
+18	010	Folk Song: Water Mill Bride - Set to the Menari Tune of Kangso	Han Chŏngdong	Poem
+18	020	Sŏdo Folk Song: Lament of the May Maiden - Set to the Menari Tune of Kangso	Han Chŏngdong	Poem
+18	030	Kangnam Song - Yearning for Kangnam	Kim Sŏksong	Poem
+18	040	Where is Kangnam?	Chu Yohan	Literary Miscellany
+18	050	Willow	Kim Tonghwan	Literary Miscellany
+18	060	Azalea Flower	Yu Tosun	Poem
+18	070	Oh, Forsythia!	Yŏsu	Poem
+18	080	Spring Rain!	Yu Kwangryŏl	Literary Miscellany
+18	090	Three Great Victories of the Third Month: Kang Kamch'an's Great Victory at Kuju, Repelling 100,000 Khitan Troops with a Single Command	Mun Ilp'yŏng	Literary Miscellany
+18	100	Wiping Out 300,000 Red Turban Bandits in One Fell Swoop: The Great Victory of Koryŏ's Three Marshals	Sin Sik	Literary Miscellany
+18	110	Thrilling! Exhilarating! Field Marshal Kwŏn Yul's Great Victory at Haengju - King Sŏnjo, Kyesa Year (1593), Third Month, Thirteenth Day	Yi Yunjae	Literary Miscellany
+18	120	Account of the Founding of Three Great Eastern Nations - Tae Choyŏng, Who Founded the State of Parhae with Refugees from Fallen Koguryŏ	Sin Myŏnggyun	Literary Miscellany
+18	130	Secret History of the Founding of Koryŏ by T'aejo, Who Unified the Three Hans as a Subordinate of Kungye	Such'un Hagin	Literary Miscellany
+18	140	True Record of Yi T'aejo's Founding of the Nation: A 500-Year Dynasty with a Three-Foot Sword	Ch'a Sangch'an	Literary Miscellany
+18	141	Submissions Welcome		Announcement/Postscript
+18	150	Three Great Men of Founding Faith, Nation, and Language: Creating a New Nation with an Inch of Tongue and a Single Pen! The Great Man President Masaryk, True Story of the Founding of Czechoslovakia	Ch'ŏngosaeng	Literary Miscellany
+18	151	500 Won Prize Contest		Announcement/Postscript
+18	160	Three Great Men of Founding Faith, Nation, and Language: Benefactor of World Civilization, Founder of the International Language, Dr. Zamenhof, On the Occasion of the 13th Anniversary of His Death	Kyŏnghwasaeng	Memoir/Recollection
+18	170	National Flower Romances of Various Countries Around the World		Miscellany
+18	180	Economist / Man of Economy		Miscellany
+18	190	From Despairing Tuberculosis to Gaining New Life	Hyŏn Sangyun	Memoir/Recollection
+18	200	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; Captured During Exile and Revived from the Brink of Death: Anecdotes of Sun Yat-sen, the God of the Chinese Revolution	Nankin Hagin	Memoir/Recollection
+18	210	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; Memoir of Surviving by a Hair's Breadth in the Great Earthquake Disaster Where Heaven Collapsed and Earth Sank	Pak Chin	Memoir/Recollection
+18	220	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; True Story of Dying and Coming Back to Life at the Yalu River (Amnokkang)	Yi T'aejun	Memoir/Recollection
+18	230	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; Sentenced to Execution by Royal Order, but Pardoned and Ennobled Midway	Kyesanin	Literary Miscellany
+18	240	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; The Old Man Komhalch'i Reborn After Living with Fierce Bears in Their Den for 3 Years	Sŏsŏk Sanin	Literary Miscellany
+18	250	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; Bewitched by a Beauty, Went to a Murderous Robbers' Den, and Escaped Under Cover of Darkness	Ch'wiunsaeng	Literary Miscellany
+18	260	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; World's Strangest True Story: The Beauty Reborn from the Execution Ground	Chuksŏruin	Literary Miscellany
+18	270	Finding Life in Dire Straits: Collection of True Stories of Dead Lives Revived; Story of Being Shot by Enemy Bullets and Dying, Then Reviving During the French Disturbance of 1866 (Pyŏng'in Yangyo)	Ch'oe Insu of Yangp'yŏng	Literary Miscellany
+18	280	New Light Even for the Disabled, Miraculous, Truly Miraculous! Method for the Blind to Regain Sight	Pak Sŭngjin	Miscellany
+18	281	Two Grand Prize Contests		Announcement/Postscript
+18	290	New Light Even for the Disabled, The Deaf Can Hear and the Mute Can Speak	Kim Tongsik	Miscellany
+18	300	Cut Short in Pain Amidst Blooming Flowers		Miscellany
+18	310	Post-Graduation Home Education Problem for Unmarried Women: What If You Have a Daughter Who Graduated from Girls' Higher Common School?	Sin Sik	Literary Miscellany
+18	320	Post-Graduation Home Education Problem for Unmarried Women: Absolute Control/Sanctions	O Hwayŏng	Literary Miscellany
+18	330	Post-Graduation Home Education Problem for Unmarried Women: This Is How I Supervise... So She Becomes the Good Housewife Society Desires Today...	Paek Namgyu	Literary Miscellany
+18	340	Job Seeking: New Paths / New Ways to Find Employment		Survey / Questionnaire
+18	350	Job Seeking: New Paths; If I Were Looking for a Job...		Survey / Questionnaire
+18	360	Job Seeking: New Paths; Experiences in Job Placement/Matchmaking		Memoir/Recollection
+18	370	Job Seeking: New Paths; Job Seeking Experiences		Memoir/Recollection
+18	380	Several New Types of Side Businesses Anyone Can Do at Home: Home Side Businesses for Salaried Workers		Miscellany
+18	390	Job Seeking: New Paths; Secret Methods for Successful Job Seeking	Ch'ŏngjŏn Yi Sangbŏm	Cartoon/Comic
+18	400	A Great Wonder of Electric Civilization (Science Lecture Part 1) - Explanation of Phototelegraphy	Engineer Yi Paekkyu	Essay / Article
+18	401	Founder of the Innaech'ŏn ("Man is Heaven") Doctrine, Mr. Ch'oe Suun (Ch'oe Cheu)		Announcement/Postscript
+18	410	Lookout		Miscellany
+18	420	Discussion of School Trip Issues		Survey / Forum
+18	421	The May Issue is "Youth March"		News / Notice
+18	430	Market Songs of the Eight Provinces - Kaksari	Kaksari	Literary Miscellany
+18	440	Caution, Caution, Watch Your Belongings: Story of Thieves - Spring Night Rambling Talk: "Pickpockets" and the Platinum Watch	Yun Paengnam	Social Commentary
+18	450	Reporters Mobilized: A One-Hour Undercover Report on Greater Kyŏngsŏng in Broad Daylight, March 29th, 2:30 PM to 3:30 PM		Social Commentary
+18	460	Newly Established Branch Office(s)		Announcement/Postscript
+18	470	Byŏlgŏn'gon Miscellany		Miscellany
+18	480	New Spring, Creation, and Liberation	Pang Hanmin	Literary Miscellany
+18	490	Our Baby	Ch'unwŏn	Poem
+18	500	Overview of the Land: Flower Judging Contest Across Chosŏn - Story of the Flowers Blooming Recently in the Eight Provinces	Ch'ŏngosaeng	Literary Miscellany
+18	510	Hobby & Practical Benefit Science Lecture (Part 2): Regarding Pufferfish Poisoning, Most Dangerous in April	Chŏng Sŏkt'ae	Essay / Article
+18	520	Strange Diagnosis		Miscellany
+18	530	Humanity's Big Problem: The Path to Solving the Man-Woman Problem, Theory of Differences Between Sexes (Part 2)	Ch'oe Chinsun	Essay / Article
+18	540	The Sorrow of French Women - Unmarried Tax If You Don't Marry, Special Dowry If You Do		Miscellany
+18	550	Movie on Paper: Uncle Tom's Cabin		Literary Miscellany
+18	560	Divorced Man and Woman Meet Again and Marry - Couple Divorced in Prison Meet Abroad and Remarry	Pang In'gŭn	Miscellany
+18	570	Couple Divorced Young Fall in Love and Marry Again	Chŏng Inik	Literary Miscellany
+18	580	As a Beggar, Saved 5,000 Won and Found His First Wife Who Had Remarried 10 Years Ago	Kim Pyŏngje	Literary Miscellany
+18	590	Serial Lecture Story "Morning", Part 5: The Death from Illness of Norach'i (Nurhaci) and the Tyranny of T'aejong	Kim Kijŏn	Literary Miscellany
+18	600	Scribbles from the Editorial Office / Editor's Notes		Announcement/Postscript
+19	009	If a Man at Twenty Has Not Pacified the State, Who in Later Generations Will Call Him a Great Man?		Poem
+19	010	Ode to Youth / In Praise of Youth	Min T'aewŏn	Literary Miscellany
+19	020	Words on Youth / Poem of Youth	Yi Tonhwa	Literary Miscellany
+19	030	How Should One Spend One's Youth?	Hong Myŏnghŭi	Literary Miscellany
+19	040	Three Great Periods of Life: Characteristics of Youth	Cho Chaeho	Literary Miscellany
+19	050	Great Deeds Lie in Youth: The Youthful Days of Great Men East and West; Planning the Great Task of Unifying the Three Kingdoms at Seventeen: The Youth of Kim Yusin	Yi Yunjae	Literary Miscellany
+19	060	Great Deeds Lie in Youth: The Youthful Days of Great Men East and West; Sweeping Through Manchuria as an Army General at Twenty-Six: The Youth of General Nam I	Ch'a Sangch'an	Literary Miscellany
+19	070	Great Deeds Lie in Youth: The Youthful Days of Great Men East and West; Breaking Through Enemy Lines Spanning a Thousand Ri Alone at Seventeen: The Youth of Chŏng Ch'ungsin	Ch'wiunsaeng	Literary Miscellany
+19	080	Great Deeds Lie in Youth: The Youthful Days of Great Men East and West; Terrifying the Enemy Army as a Twenty-Five-Year-Old Youth: The Youth of the "Winged Tiger" General Kim Tŏngnyŏng	Sin Myŏnggyun	Literary Miscellany
+19	090	Great Deeds Lie in Youth: The Youthful Days of Great Men East and West; Smashing the Mighty Qin at Twenty-Four: The Youth of Xiang Yu, the Strongest Man Under Heaven	Pak Talch'an	Literary Miscellany
+19	100	President Masaryk of the Newly Risen Czech Nation: His Youthful Days	Yi Il	Literary Miscellany
+19	110	Oh, Youths! / To the Young People	Kim Tonghwan	Poem
+19	120	Yearning Melody / Nostalgic Tune	Kim Tonghwan	Poem
+19	130	Youth March, Youth Diary: Age of Fantasy/Daydreaming	Chŏng Inik	Literary Miscellany
+19	140	Youth Diary: Age of Literary Craze / Literary Mania Period	Kim Yŏngp'al	Memoir/Recollection
+19	150	Youth Diary: Age of Music Craze / Music Mania Period	Pak Kyŏnghŭi	Memoir/Recollection
+19	160	Youth Diary: Age of Theater Craze / Theater Mania Period	Yi Soyŏn	Memoir/Recollection
+19	170	Dreams of Youth: Anchoring Dreams / Dreams that Reach	Yu Kwangryŏl	Literary Miscellany
+19	180	Dreams of Youth: Indispensable Dreams / Dreams One Cannot Do Without	Yi Tongwŏn	Literary Miscellany
+19	190	Dreams of Youth: Difficult to Dream, Difficult to Describe	Kim P'albong	Literary Miscellany
+19	191	Beauty Prize Contest		Announcement/Postscript
+19	200	Dreams of Youth: My Dream Media Organization	Pak Ch'anhŭi	Essay / Article
+19	201	Special Announcement		Announcement/Postscript
+19	210	Pride of Youth: My Treasures		Survey / Questionnaire
+19	220	An Ironware Shop in a Woman's Stomach		Miscellany
+19	230	If Youth Came to Me Again, This Is What I Would Do: I Would Become a Soldier	Yun Ch'iho	Survey Response
+19	240	If Youth Came to Me Again, This Is What I Would Do: Research Specialized Knowledge	Han Yong'un	Survey Response
+19	250	If Youth Came to Me Again, This Is What I Would Do: I Would Become a Great World Poet	Ch'oe Rin	Survey Response
+19	260	If Youth Came to Me Again, This Is What I Would Do: Visit Every Village and Household, Reawaken the Fundamental Spirit of Education	Yu Chint'ae	Survey Response
+19	270	If Youth Came to Me Again, This Is What I Would Do: Strive for Practical Education	Kim Mirisa	Survey Response
+19	280	The Most Exhilarating Thing in My Youth: Berating the Ten Ministers at the Independence Club When I Was Nineteen	Chang Ungjin	Memoir/Recollection
+19	290	Punishing Corrupt Officials as a Member of the Progressive Association (Chinbohoe) at Twenty-One	Yi Tonhwa	Memoir/Recollection
+19	300	Three Brave Chosŏn Merchants Who Defeated a Chinese Bandit Gang Barehanded	Kim Pyŏngjun	Memoir/Recollection
+19	310	When I Roamed the Wilderness of Manchuria and Shouted Aloud at Eighteen	Pak Hŭido	Memoir/Recollection
+19	311	New Branch Office Established		Announcement/Postscript
+19	320	Their Youth!! Youth Life in Various Countries: The Characteristics of German Youth - Meticulous and Systematic in All Matters	Chŏng Sŏkt'ae	News / Report
+19	330	Their Youth!! Youth Life in Various Countries: Liveliness is the Characteristic of American Youth	Yi Taewi	News / Report
+19	340	Their Youth!! Youth Life in Various Countries: The "Life" of a Parisian Child/Youth	Yi Chŏngsŏp	News / Report
+19	350	Their Youth!! Youth Life in Various Countries: Youth's China, Youth's Nationalist Government	Chu Yohan	News / Report
+19	360	Beautiful Youth! Flower-like Youth! The Lives of Unmarried Women Around the World	Saengch'on Pang	Miscellany
+19	370	New Figures of Newly Risen Nations: Young Turkey and Kemal Pasha	Ch'ŏng'o	News / Report
+19	380	New Figures of Newly Risen Nations: Poland's Young Hero of the Age, Marshal Piłsudski	Ch'angsŏk	News / Report
+19	381	Urgent Recruitment / Wanted Urgently		Announcement/Postscript
+19	390	The World's Critical Juncture		Miscellany
+19	400	Male and Female		Literary Miscellany
+19	410	Blood Boiling, Flesh Leaping = Adventure Story from the Youth of a Living Strongman; Wiping Out a Bandit Den with a Single Whip = The Divine Prowess and Strategy of the Flying Tiger General - Old Master Yun Yŏngnyŏl During His Time as Ansŏng County Magistrate	Kusŏk Sanin	Memoir/Recollection
+19	420	Unparalleled Courage! Superhuman Strength! Leader of the Eight Strongmen Who Strike Heaven and Kick Earth: The Youthful Days (Age 20) of Elder Yi Suhyŏng, the Heaven-and-Earth Strongman	Hakpo	Memoir/Recollection
+19	430	As a Twenty-Year-Old Youth of Full-Bodied Courage, Vanguard of the Kapsin Coup: The First Adventure of Mr. Yi Kyuwan, Passionate Youth of Those Days	Kim Chin'gu	Memoir/Recollection
+19	440	Newly Appeared Wonder in Sihŭng County: The Virtuous Woman Bamboo of the Hong Family, Rarest of the Rare - Is It Truly Real Bamboo?	Yun Pyŏngsŏp	Essay / Article
+19	450	Account of Meeting Ch'a Kyŏngsŏk, Who Was Said to Ascend the Throne This Year on the Kisa Day of the Kisa Month	Haegŭmgang	Literary Miscellany
+19	460	Resentment of Youth: The Grievances of Yun ○ Tŏk	Kwanak Sanin	Memoir/Recollection
+19	470	Lincoln's Love Letter Discovered After Ninety Years	P. C Saeng	Literary Miscellany
+19	480	Five Women Making Headlines Around the World	Usŏksaeng	Literary Miscellany
+19	490	The First Invention of Face Powder		Miscellany
+19	500	Sudden Global Strange Incident: The Trial Determining the Authenticity of the Former Russian Princess	Pakchinsaeng	Essay / Article
+19	510	Byŏlgŏn'gon Miscellany		Miscellany
+19	520	Recounting Strange and Rare Tales from Around the World: The World University of "Kissing"	Oe Yusaeng	Literary Miscellany
+19	530	(Untitled - Staff Contribution)		Literary Miscellany
+19	540	Story of Tano, the Heavenly Middle Festive Day	Ch'ŏng'o	Essay / Article
+19	550	Movie on Paper: Emergency Line (Pisangsŏn), "THE DRAG NET" (8 Reels)		Literary/Cultural Criticism / Review
+19	560	Early Summer Big Cleaning	Sojobu	Miscellany
+19	570	Lookout		Miscellany
+19	580	April Issue (New Life Issue) Prize Winner Announcement		Announcement/Postscript
+19	590	Special Announcement to All Readers of Byŏlgŏn'gon		Announcement/Postscript
+19	600	Common Knowledge Lecture: What Kind of Sense is the Sixth Sense?		Essay / Article
+19	610	(Untitled - Staff Contribution)		Literary Miscellany
+19	620	Song of the Youth / Young People's Song	Yi Pyŏnggi	Poem
+19	630	Youth	Ch'unwŏn	Literary/Cultural Criticism / Essay
+19	640	Western Region Folk Song: Single-Minded Devotion	Han Chŏngdong	Poem
+19	650	Early Summer Essay: The Young Master in Golden Clothes	Yi Ŭnsang	Literary Miscellany
+19	660	Azalea		Poem
+19	670	Rice Seedlings (Transplanting)		Poem
+19	680	Fresh Greenery / New Green	Yi T'aejun	Literary Miscellany
+19	690	First Summer (Fragmentary Thoughts)	Pang Hanmin	Literary Miscellany
+19	700	Serial Lecture Story "Morning", Part 6: Tragic Escape	An Chaehong	Literary Miscellany
+19	710	500 Won Prize Contest		Announcement/Postscript
+19	720	Play: Flesh and Blood (One Act)	Pak Sŭnghŭi	Play/Scenario
+19	730	Grand Prize Contest Problem Offering One Sŏm of White Rice		Announcement/Postscript
+20	010	Celebrating the 9th Anniversary of Our Company's Founding		Announcement/Postscript
+20	020	Incomparably Thrilling Eccentrics Chapter: Chosŏn's Zhuge Liang, World Eccentric Scholar Hŏ of Mŏkchyŏkkol	Such'un Hagin	News / Report
+20	021	White Rice Prize Contest		Announcement/Postscript
+20	030	Incomparably Thrilling Eccentrics Chapter: Kim Paekkok, Who Became the Great Writer of His Age Despite Being the World's Greatest Dunce, Eccentrics Chapter Part 2	Kim Chin'gu	News / Report
+20	040	Incomparably Thrilling Eccentrics Chapter: Cooking Rice with a Kat (Hat), Sailing with a Gourd Dipper, Great World Eccentric Mr. Yi Sajŏng - Eccentrics Chapter Part 3	Ch'ungch'ŏngsaeng	News / Report
+20	050	Incomparably Thrilling Eccentrics Chapter: A Play Mocking Japanese Soldiers at Chech'ŏn Pavilion; The Dwarf Celebrity, Man Yi Kŭn - Eccentrics Chapter Part 4	Songch'aksaeng	News / Report
+20	060	Incomparably Thrilling Eccentrics Chapter: Founder of Sasang Constitutional Medicine, Modern Eccentric Mr. Yi Chema - Eccentrics Chapter Part 4	Kim Pyŏngje	News / Report
+20	070	Incomparably Thrilling Eccentrics Chapter: Eccentric Among Eccentrics, Unfortunate Painter Ch'oe Ch'ilch'il - Eccentrics Chapter Part 5	Ch'wiunsaeng	News / Report
+20	080	Incomparably Thrilling Eccentrics Chapter: Great Female Eccentric, Famous Kaesŏng Kisaeng Hwang Chin'i - Eccentrics Chapter Part 6	Ch'ŏngosaeng	News / Report
+20	090	Incomparably Thrilling Eccentrics Chapter: A Living Great Eccentric Unlike Any Other Person in This World, Mr. Yukpong U Yongt'aek - Eccentrics Chapter Part 7	Yi Yunjae	Memoir/Recollection
+20	100	Incomparably Thrilling Eccentrics Chapter: Great World Eccentric Figure, Dr. Samuel Johnson - Eccentrics Chapter Part 8	Yi Tongwŏn	Memoir/Recollection
+20	110	Incomparably Thrilling Eccentrics Chapter: Thrilling Eccentric Philosopher, The Barrel Bodhisattva (Diogenes) - Eccentrics Chapter Part 9	Ko Yŏnghwan	Miscellany
+20	120	Short Talks on Eccentrics,	Sosan	Literary Miscellany
+20	130	Elusive Strange Tales Chapter: Thrilling Strange Tale from the Imjin War, The Old Man Riding an Ox	Yun Paengnam	Literary Miscellany
+20	140	Elusive Strange Tales Chapter: Strange Tale of Revenge, Strange Tale of Repaying Kindness; Soul of the Maiden in Unrequited Love - Strange Tales Chapter Part 2	Such'un Sanin	Literary Miscellany
+20	150	Elusive Strange Tales Chapter: World Strange Tales, Medical Ghost Stories / Strange Medical Tales - Strange Tales Chapter Part 3	Oe Yusaeng	Literary Miscellany
+20	160	Elusive Strange Tales Chapter: Chinese Strange Tales and Love Scandals; Ghost of Resentful Love, Hwa Ryech'un - Strange Tales Chapter Part 4	Kŭm Hwarang	Literary Miscellany
+20	170	Strange Tales of Occupations: Unimaginably Strange True Story; Shaving a Dead Beauty	Barber Yi Kiyŏng	Memoir/Recollection
+20	180	Strange Tales of Occupations: Unimaginably Strange True Story; True Story of Saving Twelve Death Row Inmates	Lawyer Yi In	Memoir/Recollection
+20	190	Strange Tales of Occupations: Unimaginably Strange True Story; The T'ŭremŏri (Traditional Chignon Wig) Swindle	Paek Sŏnghwa, Head of Paek Trading Company	Memoir/Recollection
+20	200	Strange Tales of Occupations: Unimaginably Strange True Story; The Female Clerk and the Strange Parcel	Ŏm Kyŏngch'un	Memoir/Recollection
+20	210	Old Man in White on Pyŏkkolje Reservoir; Strange Tale Passed Down in the Cho Family of Kimje - Strange Tales Chapter Part 5	Sin Kisuk	Memoir/Recollection
+20	220	Rare/Interesting Stories from a Newspaper Reporter's Life		Memoir/Recollection
+20	230	Beer		Miscellany
+20	240	Rambling Talk Under Green Shade / Summer Musings		Literary Miscellany
+20	250	Can a Virgin Conceive Alone? A Virgin Unknown to Men Conceives a Baby and Commits Suicide - A Secret True Story That Seems Too Much Like a Lie	Ssang S Saeng	Memoir/Recollection
+20	260	Shaved Ice / Iced Water	Saeng Yŏngp'a	Literary Miscellany
+20	270	Rain Shower, Mineral Spring Site	Yun Paengnam	Literary Miscellany
+20	271	Wedding Ceremony Contest Winner Announcement		Announcement/Postscript
+20	280	Rare Femme Fatale Who Toyed with Over 3,000 Men: Sad Story of the Strange Canton Beauty Yu Mei Yan, Who Drowned Herself Hating to Grow Old	Hosang Nang'in	Miscellany
+20	281	Report on the North-South Team Competition Trip Along the Kyŏngŭi and Kyŏngbu Lines		News / Report
+20	290	South Team	Ch'a Sangch'an	Travelogue
+20	300	Q&A with Woman Painter Na Hyesŏk After Her Tour of Europe and America		Interview/Discussion
+20	310	Earnest Request from Our Readers		Announcement/Postscript
+20	320	Notice of Thanks		Announcement/Postscript
+20	330	Cool Island Country	Yi Kiryong	Literary Miscellany
+20	340	Byŏlgŏn'gon Miscellany		Miscellany
+20	350	Lookout		Miscellany
+20	351	Kyŏngsŏng Issue! Kyŏngsŏng Issue Next Issue Special Feature Kyŏngsŏng Issue		News / Notice
+20	360	North Team	Kim Chin'gu	Travelogue
+20	370	Special Summer Lecture Series in the Magazine		News / Notice
+20	380	How to Escape the Summer Heat for Ten Chŏn		Miscellany
+20	390	Hobby Activity Lecture: The Dung Beetle That Makes Delicacies Out of Cow and Horse Dung	Cho Poksŏng	Miscellany
+20	400	Commonly Prevalent During Summer: Typhoid Fever, Hygiene and Prevention Against It	Dr. Chŏng Sŏkt'ae	Information / Advice
+20	410	Worst Diseases During Summer: Cholera and Dysentery	Medical Practitioner Kim Yongch'ae	Information / Advice
+20	420	Great Satire, Great Humor: Famous Figure of Modern Chosŏn, Chŏng Sudong	Hakposaeng	Literary Miscellany
+20	430	Scribbles from the Editorial Office / Editor's Notes		Announcement/Postscript
+21	010	Exhibition of Kyŏngsŏng Street Characters / People on the Streets of Kyŏngsŏng		Miscellany
+21	020	Greater Kyŏngsŏng Trilogy		Miscellany
+21	030	Grand View of Kyŏngsŏng / Overview of Kyŏngsŏng		Essay / Article
+21	040	Kyŏngsŏng Before Becoming the Capital: A Brief History Over 1300 Years	Ch'wiunsaeng	Essay / Article
+21	041	When You Come to Kyŏngsŏng...		Announcement/Postscript
+21	050	500-Year History of Kyŏngsŏng	Ch'a Sangch'an	Essay / Article
+21	060	Eight Verses of Hando and Ten Verses of Hando		Miscellany
+21	070	Famous Places and Historical Sites of Kyŏngsŏng	Kogosaeng	Literary Miscellany
+21	080	Educational Facilities and Slums: What Should One Learn Upon Coming to Kyŏngsŏng?	Song Chinu, Dong-a Ilbo Company	Essay / Article
+21	090	Just Observe Carefully What Is Changing: What Should One Learn Upon Coming to Kyŏngsŏng?	An Chaehong, Chosun Ilbo	Essay / Article
+21	100	First, Find a Way to Live: What Should One Learn Upon Coming to Kyŏngsŏng?	Kim Kijŏn, Ch'ŏndogyo Youth Party	Essay / Article
+21	110	The "Jazz" of Kyŏngsŏng: The Taste and Mood of Seoul	Yi Sŏgu	Literary Miscellany
+21	120	The Scent of Seoul: The Taste and Mood of Seoul	Ch'oe Yŏngju	Literary Miscellany
+21	130	Consolation of the Screen: The Taste and Mood of Seoul	P'ayŏngsaeng	Literary Miscellany
+21	140	Bell Tolls and Dust Settles: The Taste and Mood of Seoul	Ch'angsŏksaeng	Literary Miscellany
+21	150	The Mood of the Café: The Taste and Mood of Seoul	Pak Noa	Literary Miscellany
+21	160	Chin'gogae: The Taste and Mood of Seoul	Chŏng Suil	Literary Miscellany
+21	170	T'aptong Park, T'aptong Park: Good Places and Bad Places in Seoul; What Do Seoul People Live For (Cherish)?	Kim Kwabaek	Literary Miscellany
+21	180	People Living Out of Necessity: Good Places and Bad Places in Seoul; What Do Seoul People Live For (Cherish)?	Kim Namju	Literary Miscellany
+21	190	For That Taste Called Seoul: Good Places and Bad Places in Seoul; What Do Seoul People Live For (Cherish)?	Ko Yŏnghan	Literary Miscellany
+21	200	Sorrows and Joys of Seoul People	Kwangsan Saeng	Literary Miscellany
+21	210	How to See Seoul Thoroughly in 2 Days: Itinerary for Guiding a Friend from the Countryside...	Il Kija	Miscellany
+21	220	Sayings of Kyŏngsŏng / Kyŏngsŏng Quotations		Miscellany
+21	230	Chongno Crossroads	Yu Kwangryŏl	Literary Miscellany
+21	240	Changes in Kyŏngsŏng Markets	Yi Chunghwa	Essay / Article
+21	250	-The Very Center of Old Kyŏngsŏng-		Miscellany
+21	260	Record Correcting Facts About Kyŏngsŏng's Five Great Bells	Ch'ŏng'o	Miscellany
+21	270	Lament of the Old Mute, the Chongno Curfew Bell	Songch'aksaeng	Literary Miscellany
+21	280	The Beginning of the Stone Embankment of Kaech'ŏn (Cheonggyecheon Stream) in Kyŏngsŏng		Miscellany
+21	290	Travel and Tears: Street Jottings	Yi Ryang	Literary Miscellany
+21	300	This Sight and That Sight: Street Jottings	Yi Iksang	Literary Miscellany
+21	310	Chongno of Ghosts: Street Jottings	Yi T'aejun	Literary Miscellany
+21	320	Roadside Sketches - One, Two: Street Jottings	Kim Yŏngp'al	Literary Miscellany
+21	321	Local Color / Regional Characteristics		Announcement/Postscript
+21	330	Origins of Kyŏngsŏng Dong and Machi Names & Comparison of Past and Present; Explanation of Seoul Neighborhood Names - Even a Single Dong Name Has Historical Origins		Essay / Article
+21	331	Postcard Correspondence / Letters to the Editor		Announcement/Postscript
+21	340	Byŏlgŏn'gon Miscellany		Miscellany
+21	350	Old Houses and Present Houses of Seoul, Radically Changed Like Seas Turning into Mulberry Fields		Social Commentary
+21	360	Collection of Kyŏngsŏng Specialties / Famous Things of Kyŏngsŏng		News / Information / List
+21	361	When Ordering the Magazine		Announcement/Postscript
+21	370	Special Villages/Neighborhoods of Greater Kyŏngsŏng		News / Report
+21	380	Origins of Kyŏngsŏng's Eight Great Gates and Five Great Palace Gates	Munnaehan	Essay / Article
+21	390	Dragged to a Kisaeng House by a Delinquent Square Cap (Student), Seoul is Treacherous! Stories of Being Deceived After Coming to Kyŏngsŏng (Real Experiences from Various People in Various Places)	Kim Unp'a from Anbyŏn	Memoir/Recollection
+21	400	Deceived by a Sorcerer/Trickster: Seoul is Treacherous! Stories of Being Deceived After Coming to Kyŏngsŏng (Real Experiences from Various People in Various Places)	Im Mansu from Kaesŏng	Memoir/Recollection
+21	410	The Sly Rickshaw Puller and the Candlelight in the Fireplace: Seoul is Treacherous! Stories of Being Deceived After Coming to Kyŏngsŏng (Real Experiences from Various People in Various Places)	Chang Wansik from Chŏnju	Memoir/Recollection
+21	420	Knowingly Robbed at the Brothel/Bar: Seoul is Treacherous! Stories of Being Deceived After Coming to Kyŏngsŏng (Real Experiences from Various People in Various Places)	Yi Wŏnbok from Ongjin	Memoir/Recollection
+21	430	Robbed of 200 Won by a Fake Detective: Seoul is Treacherous! Stories of Being Deceived After Coming to Kyŏngsŏng (Real Experiences from Various People in Various Places)	Ch'oe Hŭisu from Ch'ŏlsan	Memoir/Recollection
+21	440	The Fountain Pen Windfall from a 50 Nyang Rickshaw Fare: Seoul is Treacherous! Stories of Being Deceived After Coming to Kyŏngsŏng (Real Experiences from Various People in Various Places)	Ch'oe Hŭisu from Ch'ŏlsan	Memoir/Recollection
+21	450	Offering to Buy a Train Ticket: Seoul is Treacherous! Stories of Being Deceived After Coming to Kyŏngsŏng (Real Experiences from Various People in Various Places)	Nong'ŭnsaeng from Ch'ŏngju	Memoir/Recollection
+21	460	Things Forgotten and Left Behind After Visiting Seoul	Ch'unp'a	Literary Miscellany
+21	470	Exploration Report of the Greater Kyŏngsŏng City Wall	Such'un Hagin	Travelogue / Exploration Report
+21	480	Various Fields, Various Organizations: Kyŏngsŏng Statistics	Editorial Office	Article / Data Report
+21	490	How to Avoid Being Pickpocketed ("Suri"), Which Anyone Can Fall Victim To; Secret Stories of Pickpockets		Miscellany
+21	500	The Surprising Inside Story of Auction Houses	T'ambogun	Miscellany
+21	510	Lookout		Miscellany
+21	520	A World Beyond Imagination: Kyŏngsŏng's Five Dens of Iniquity/Vice		Miscellany
+21	521	Notice of Thanks		Announcement/Postscript
+21	530	The Modernity of the "Revue"		Literary/Cultural Criticism / Review
+21	540	Manicure Girl	(USA) P. Wilde	Play/Scenario
+21	550	Kyŏngsŏng's Modern Eight Views That Will Surprisingly Disappear		Literary Miscellany
+21	560	The Past	(USA) P. Wilde	Play/Scenario
+21	570	The Solution / Resolution	(USA) P. Wilde	Play/Scenario
+21	580	The First Client	(USA) P. Wilde	Play/Scenario
+21	590	Erroneous Records Published in the World: Errors in Various Records Concerning Kyŏngsŏng; Readers Beware.		Essay / Article
+21	600	Next Issue is the 3rd Anniversary Commemorative Issue		Announcement/Postscript
+21	610	Grand Prize Contest Giving One Sŏm of White Rice if You Guess Correctly		Announcement/Postscript
+21	620	Editorial Office		Announcement/Postscript
+22	001	(Untitled - Staff Contribution)		Poem
+22	010	Winter in the North Country	Pak Noa	Literary Miscellany
+22	011	Snow	Kim Sakkat	Poem
+22	020	Snow of the North Country, Snow Snow Snow	Kim Tongjin	Literary Miscellany
+22	030	Love Story of Tongnae Hot Springs	Kim Namju	Literary Miscellany
+22	040	The First Discovery of Onyang Hot Springs		Miscellany
+22	050	Episode/Anecdote of Onyang Hot Springs	Nam Uhun	Literary Miscellany
+22	060	Visit with Han'gŭl Master Kim Tubong: Visits with Famous Koreans Abroad	Yi Yunjae	News / Report / Interview
+22	070	Visit with Kim Myŏngsik, Former Editor-in-Chief of New Life Company: Visits with Famous Koreans Abroad	Kim Yong'am, Ōsaka Branch	News / Report / Interview
+22	080	Reviews/Critiques of Female Reporters from Dong-a, Chosun, and Chung'oe Newspapers	Oetot Saeng	News / Report / Commentary
+22	090	New Calendar of Worker-Peasant Russia (Soviet Union): The Five-Day Week System to be Implemented from Next Year		Miscellany
+22	100	Pitiful Matters, Big Problems: Advantages and Disadvantages of Old and New Family Life	Han O Pong	Memoir/Recollection / Essay

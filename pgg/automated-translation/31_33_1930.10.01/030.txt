@@ -1,0 +1,249 @@
+Magazine Title 別건곤
+발행일 1930년 10월 01일
+기사제목 새로 實行하는 盜犯等防止法의 解說 (Explanation of the newly implemented Law for the Prevention of Theft, etc.)
+필자 辯護士 楊潤植
+기사형태 논설 (Essay)
+
+Explanation of the Newly Implemented Law for the Prevention of Theft, etc.
+						Attorney Yang Yun-shik
+
+The law regarding the prevention and disposition of theft, etc. (盜犯등의 防止 及 處分에 관한 法律), Law No. 9 of Shōwa 5, which was implemented in Japan from June 11 of this year, was also implemented in Chosŏn from September 10 after amending a part of the Chosŏn Criminal Ordinance with Decree No. 8 on September 8 of this year. Initially, there were many pros and cons in Japan's political and social circles regarding the enactment and implementation of this law. However, I do not intend to write my personal opinion on that. In any case, since this law is now implemented in Chosŏn, I only intend to explain the significance and contents of the law for the reference of the readers. However, this explanation is intended to explain the outline to the readers who are not legal professionals, and because the author's research is shallow, there are no theories or criticisms. It is only a simple and popular explanation and introduction of the meaning of the law as it appears in the legal text, so I ask for the understanding of the readers on this point.
+
+This law consists of a total of 4 articles, and its contents are largely divided into two categories: Article 1 lists in detail the cases of justifiable defense under the Criminal Law. Articles 2 to 4 impose heavier penalties on habitual robbery and theft offenders than the current Criminal Law.
+
+In the cases of each item under Article 1, those who kill or injure the perpetrator to eliminate the current danger to themselves or another person's life, body, or chastity shall be considered as having acted in defense under Article 36, Paragraph 1 of the Criminal Law.
+
+1. When preventing theft or recovering stolen goods.
+
+2. When trying to prevent someone who is carrying a weapon or trespassing on or damaging doors, walls, etc., or opening locks and intruding into a person's residence, or a residence building or ship guarded by a person.
+
+3. When trying to repel a person who has intruded into a person's residence or a residence building or ship guarded by a person without reason, or who does not leave such places after receiving a request.
+
+Even if there is no present danger to one's own or another person's life, body, or chastity in the cases of each item in the preceding paragraph, if the actor kills or injures the perpetrator at the scene due to fear, shock, excitement, or confusion, this shall not be punished.
+
+Article states, "In such and such cases, Article 36, Paragraph 1 of the Criminal Law," so it is necessary to explain what kind of regulation Article 36 of the Criminal Law is.
+
+Article 36 of the Criminal Law: An act done unavoidably to defend one's own or another person's rights against imminent and unjust infringement shall not be punished. An act exceeding the extent of defense may be mitigated or exempted from punishment depending on the circumstances.
+
+The above act is called justifiable defense (正當 防衛) in criminal law, and for justifiable defense to be established, there must first be an imminent and unjust infringement on one's own (the defender) or another person's rights. There can be no defense without infringement. Imminent infringement means not something in the future or past, but an infringement that is imminent at the moment. It is not possible to anticipate an infringement that is not directly imminent and take defensive action in advance, and retaliatory acts for past infringements are not justifiable defense. Unjust means illegal, so justifiable defense is not possible against another person's lawful acts. The infringement can be not only on the defender's own rights but also on the infringement of another person's rights. Since it is broadly referred to as rights, it includes all legal rights such as our life, property, freedom, and honor. Secondly, the defense must be an act done unavoidably to eliminate the imminent and unjust infringement on rights. Exceeding the necessary extent for defense constitutes a crime. However, even if the victim has a way to escape from the unjust infringement or can receive protection from the authorities, justifiable defense is established if it does not exceed the extent necessary for defense from the general social perspective. Whether the act was indeed unavoidable will be judged objectively by considering all the circumstances at the time. Exceeding the necessary extent constitutes a crime under general criminal law regulations, but there are cases where the punishment is mitigated or exempted depending on the circumstances. Thirdly, justifiable defense must be a counterattack against the unjust infringer. Even if the act is unavoidable to escape the infringement, if harm is inflicted on a third party other than the infringer, it can be an act of emergency evacuation (緊急 避難) under Article 37 of the Criminal Law, but it is not the justifiable defense mentioned here.
+
+An act that meets the above requirements is called justifiable defense, and a case where there is a mistaken belief that there is an imminent and unjust infringement when there is none is called mistaken defense (誤想 防衛). For example, a case where a robber threatens with a toy 6-hole cannon, or a case where a friend pretends to strike with a knife as a joke, and the person believes that there is a genuine infringement and takes defensive action. Mistaken defense is not justifiable defense, so the act is not a crime if there is no intention or negligence at all according to general criminal law principles, but depending on the case, a crime may be constituted if there is intention or negligence in the defense.
+
+There are many theories about justifiable defense and mistaken defense, and more explanations are needed, but <9> for the purpose of explaining this law, I will first explain the outline of the concept and then explain this law.
+
+Article 1, Paragraph 1 of this law states that in cases of theft prevention, stolen goods recovery, intrusion prevention, and intrusion repulsion listed in each item, when it is necessary to eliminate the present danger to oneself or another person's life, body, or chastity, and the perpetrator is killed or injured, it is justifiable defense under the Criminal Law, so it is not a crime. Therefore, for a killing or injury to be found not guilty as justifiable defense under this law, the following two conditions must be met:
+
+First, there must be an infringement that falls under one of the three cases listed in Article 1, Paragraph 1 of this law.
+
+1. When preventing theft or recovering stolen goods.
+
+Theft refers to crimes under Article 235 et seq. (法文後出) of Chapter 36, Theft and Robbery Crimes, as defined in Article 12 of the Criminal Law. (Among them, Article 237, Robbery Preparatory Crime, is not included due to the nature of this law.) Preventing theft refers to preventing a robber who is about to commit a crime. Since it is called theft, there must be an attempt to commit the act of theft. Therefore, for example, if a robber is on the way to his destination to commit a crime, he cannot be called a thief here. However, since it is called preventing theft, it is not theft prevention when the criminal act of theft is completed and the theft has already been committed, but it may fall under stolen goods recovery. Recovering stolen goods means an act by which the victim (or another person on behalf of the victim) tries to recover property taken by the thief, which is after the theft has been committed.
+
+2. When trying to prevent someone who is carrying a weapon or trespassing on or damaging doors, walls, etc., or opening locks and intruding into another person's residence, or a residence, building, or ship guarded by another person.
+
+A weapon refers to an instrument that is capable of killing or injuring a person by its nature, such as a kitchen knife, knife, axe, or sickle. Carrying a weapon means holding it in one's hand or carrying it on one's body, regardless of whether it is intended to be used. In particular, it refers to doors, walls, etc., so it generally refers to equipment that can prevent house invasion, not just doors and walls. Trespassing includes not only going over but also digging under walls or breaking through fences. Locks are a general term for equipment that prohibits the opening and closing of doors, including not only padlocks but also bolts and ropes that bind doors. This item refers to intrusion into a residence, mansion, building, or ship, so it does not include the prevention of intrusion into trains, streetcars, automobiles, etc. Ships are not distinguished by size, so everything from giant ships of thousands of tons to ferries and even one-person fishing boats are ships. However, it should be noted that warships are outside the scope of this law. Intrusion prevention is different from intrusion repulsion, which is explained in the next paragraph. After someone has already entered a house, it is intrusion repulsion, not intrusion prevention.
+
+3. When repelling a person who has intruded into another person's residence or a residence building or ship guarded by a person without reason, or who does not leave such places after receiving a request.
+
+Without reason means without legal, business, or customary justification, or against the will of the resident or guard. If a worker or tenant visits and meets with a capitalist or landlord within a reasonable range in relation to their work or custom, and does not leave upon request, it cannot be naturally recognized as a groundless intrusion or a person who does not leave without reason. However, when workers <10> or tenants demand improvements in working conditions or reductions in rent, and the residents or guards demand their departure, but they persistently force their claims and it is recognized that they have exceeded what is appropriate for maintaining social order, it may fall under the case of not leaving without reason in this item. Whether it is "without reason" or not will be judged objectively by the judge, who will consider all the circumstances in each case and judge whether there is illegal intrusion or illegal failure to leave based on laws, customs, and business relationships, and it will not be determined by the defender's subjective observation. If police officers or tax officials enter a house against the will of the resident or mansion guard in order to perform their duties, it is an act based on law by exercising their authority, so it is not a groundless intrusion or groundless failure to leave. Even if such public officials abuse their authority in the name of performing their duties and intrude or fail to leave with the intention of committing illegal acts, defensive action can be taken.
+
+Second, the perpetrator must be killed or injured to eliminate the present danger to oneself or another person's life, body, or chastity. Rights other than life, body, and chastity are outside the scope of this law. No matter how valuable property or honor is, even if there is a present danger to it (a separate issue when applying the justifiable defense regulations under the Criminal Law), killing or injury cannot be done under this law.
+
+In this article, the present danger refers to a danger that has not yet reached the stage of imminent infringement. For example, if a robber takes someone's property and stays in the room for several hours waiting for dawn, or if a violent man enters the room without permission with a weapon but has not yet tried to use it, it is not an imminent infringement but it can be seen as a present danger. If the danger to life, body, or chastity is at a level that can be called an imminent infringement, justifiable defense under Article 36 of the Criminal Law will naturally be established even if there is no infringement listed in each item of Paragraph 1 of this article. For example, if a robber is immediately committing assault and intimidation, justifiable defense can be established by applying only Article 36 of the Criminal Law.
+
+If the above two requirements are met, even if the perpetrator is killed or injured, it is recognized as justifiable defense and no crime is established. In other words, for a killing or injury to be found not guilty under the provisions of this law, it is conditional that the killing or injury of the perpetrator is unavoidable for defense against an imminent and unjust infringement that substantially involves theft or intrusion and failure to leave, and that it is also due to the necessity of eliminating the present danger to one's own or another person's life, body, or chastity. If there is no such need, the killing or injury constitutes a crime. However, there is one thing to pay particular attention to here. Whether there was indeed a present danger to life, body, or chastity, and whether it was necessary to kill or injure the perpetrator to eliminate such a danger, should not be determined solely by the actor's <11> subjective intention. The judge in a position to interpret and apply the law will judge from the general social perspective, taking into account all the circumstances of each specific case. If, in fact, there is no such danger, but the actor mistakenly believes that there is such a danger and thinks it is necessary to repel it, and commits a killing or injury, it will be resolved according to the general legal principle of mistaken defense, except in the case of Paragraph 2 of this article.
+
+There seems to be a lot of debate among scholars as to whether a killing or injury that meets the above conditions will conform to the act of justifiable defense under Article 36 of the Criminal Law, or whether the scope of application of justifiable defense has been expanded compared to the past due to this article, and I am still in doubt. However, the legislator, as well as the Ministry of Justice, argues that this law is a more concrete interpretation of justifiable defense under the existing Criminal Law and does not expand its scope in any way.
+
+Paragraph 2 of this article stipulates that when defending against an imminent and unjust infringement listed in each item of Paragraph 1, even if there is no actual present danger to one's own or another person's life, body, or chastity, if the actor mistakenly believes that there is such a danger due to fear, shock, excitement, or confusion, and thinks it is necessary to eliminate it, and kills or injures the perpetrator at the scene, the killing or injury shall not be punished.
+
+The act in this paragraph is undoubtedly a defensive act in some sense, but it is not justifiable defense under Article 36 of the Criminal Law. The end of Paragraph 1 stipulates, "...in such cases, it shall be considered a defensive act under Article 36, Paragraph 1 of the Criminal Law," but the end of Paragraph 2 only stipulates, "shall not be punished," so it seems that the act in Paragraph 2 is not originally justifiable defense, but it is stipulated that illegality is precluded for some other reason.
+
+For a killing or injury to be found not guilty under the provisions of Paragraph 2 of this article, the following four conditions must be met:
+
+First, there must be an infringement that falls under one of the three cases listed in Article 1, Paragraph 1.
+
+Even if there was no such infringement, even if the actor mistakenly believed that there was, it is outside the scope of this paragraph. Since the explanation of each article has already been given in the previous paragraph, that explanation is omitted.
+
+Second, it is necessary that there is no present danger to one's own or another person's life, body, or chastity. If such a danger actually exists, Paragraph 1 will be applied and the person will be found not guilty without room for applying Paragraph 2.
+
+Third, it is necessary that although there is no present danger to life, body, or chastity, the actor mistakenly believes that there is such a danger and thinks it is necessary to eliminate the danger.
+
+This is interpreted in this sense in light of the relationship with Paragraph 1 and the literal interpretation of this paragraph.
+
+Fourth, the actor must have killed or injured the perpetrator at the scene due to fear, shock, excitement, or confusion.
+
+The meanings of fear (恐怖), shock (驚愕), excitement (興奮), and confusion (狼狽) will be interpreted according to common sense. These four all mean mental impulses that are likely to hinder calm judgment of things, so there may be cases where they overlap. However, it is not the case that one can commit a killing or injury unconditionally simply because there is fear, shock, excitement, or confusion. There must be circumstances that make one think that there is the danger mentioned above and that lead to fear, shock, excitement, or confusion. <12> Killing or injury at the scene means the very place where the infringing act in Article 1, No. 1 to No. 3 is continuing to be carried out, so it is not allowed after such infringement has already been completed. For example, after a thief takes property and heads in another direction, or after an illegal intruder has already passed outside the door, killing or injury cannot be done.
+
+A killing or injury that meets the above four conditions is not punished. Therefore, if those conditions are not met, for example, if there is no actual infringement in Article 1, No. 1 to No. 3, but the person mistakenly believes that there is such an infringement, or if the person mistakenly believes that there is a present danger to life, body, or chastity without being caused by fear, shock, etc., it will be decided according to the general legal principle of mistaken defense because it is outside the scope of Paragraph 2 of this article. However, if the person makes a killing or injury in an unconscious state due to excessive fear, shock, etc., by misinterpreting such an infringement or misinterpreting the present danger to life, body, etc., it may be found not guilty as an act of a mentally incapacitated person under the Criminal Law regulations.
+
+Article 2: A person who habitually commits the crime in Article 235, Article 236, Article 238, or Article 239 of the Criminal Law or an attempted crime thereof by the methods in each of the following items shall be punished by imprisonment with labor for not less than 3 years when prosecuted for theft, and for not less than 7 years when prosecuted for robbery.
+
+1. When committed while carrying a weapon
+
+2. When committed jointly by two or more people at the scene
+
+3. When trespassing on or damaging doors, walls, etc., or opening locks and intruding into a person's residence or a residence building, or ship guarded by a person and committing the crime
+
+4. When intruding into a person's residence or a residence building or ship guarded by a person at night and committing the crime
+
+This article is a regulation that increases the punishment compared to the current Criminal Law for those who habitually commit theft or robbery by the methods listed in the article. However, the punishment is not increased for all theft crimes stipulated in the Criminal Law. / The punishment is increased only for those who habitually commit crimes in the following articles using methods such as those listed in the article.
+
+Article 235 of the Criminal Law: A person who steals another person's property shall be punished for theft by imprisonment for not more than 10 years.
+
+Article 236: A person who forcibly takes another person's property by violence or intimidation shall be punished for robbery by imprisonment with labor for not less than 5 years.
+
+A person who obtains illegal profit on property or causes another person to obtain it by the method in the preceding paragraph shall also be treated the same.
+
+Article 238: When a robber obtains property and refuses its return, or avoids arrest, or commits violence or intimidation to conceal traces of the crime, he shall be prosecuted for robbery.
+
+Article 239: A person who intoxicates a person and steals his property shall be prosecuted for robbery.
+
+"Habitually" at the beginning of this article refers to a person who has a habit of committing robbery and theft listed above. It is difficult to say uniformly how many times one must commit a crime to be considered habitual, but it refers to a person who repeatedly commits theft.
+
+It is not necessary to make theft one's profession. Even if one is engaged in a legitimate occupation, if one commits theft from time to time and it can be ultimately recognized as a habit, it can be said to be habitual. The existence or absence of a previous conviction for theft is the most powerful evidence in recognizing the perpetrator's habituality, but even if there is no previous conviction, if there is a fact that the crime has been committed repeatedly, habituality can be recognized.
+
+The term habitual used here is a common interpretation of the term habitual in Articles 2 to 4, and the habitual in Article 2 is not only habitual theft and robbery. The following methods must also be habitual.
+
+1. When committed while carrying a weapon (see Article 1 explanation)
+
+2. When committed jointly by two or more people at the scene Because it must be done jointly at the scene, it does not include a case where one person is waiting at a certain place and only one person is performing the previous act on his behalf. However, if one person commits the crime and one person is watching over him, both can be seen as having committed the crime at the scene.
+
+3. When trespassing on or damaging doors, walls, etc., or opening locks and intruding into a person's residence or a residence building, or ship guarded by a person and committing the crime, it is generally the same as the explanation in Article 1, but there it is called a ship, but here it is called a warship (艦船), so warships are also included.
+
+4. When intruding into a person's residence or a residence building or ship guarded by a person at night and committing the crime In particular, it is limited to crimes committed at night. In Article 1, Paragraph 3, there is the word "without reason" (無故), but there is no such word in this item. The former is only for residential intrusion and is intended to exclude cases of legitimately entering a house, but since this item is a case of theft, it is naturally illegal, so it seems that there is no need to include the word "without reason".
+
+According to the Criminal Law, theft under Article 235 is punishable by imprisonment with labor for not less than 1 year and not more than 10 years, and robbery (Articles 236, 238 to 229) is punishable by imprisonment with labor for not less than 5 years (attempted crimes can be punished by reducing each punishment). However, if one habitually commits theft using one or more of the four methods mentioned here, the minimum punishment is imprisonment with labor for not less than 3 years, and if one commits robbery (listed in the articles), the minimum punishment is imprisonment with labor for not less than 7 years. According to the Criminal Law, the punishment for an attempted crime can be reduced compared to a completed crime, but the statutory punishment for theft under this article cannot be reduced even for an attempted crime.
+
+Article 3: When sentencing a person who habitually commits the crime in each article of the Criminal Law listed in the preceding article or an attempted crime thereof, and who has been sentenced to imprisonment for 6 months or more 3 or 4 times or more or has been granted exemption from its execution within 10 years before the act for such crimes or combined crimes with such crimes, the example in the preceding article shall be followed.
+
+This article is intended to increase the punishment for a person who habitually commits theft, robbery, or an attempted crime thereof, and who has a previous conviction that meets the following requirements. <14>
+
+1. The previous conviction must be for a person who has received the execution of the punishment or has been granted exemption from the execution within 10 years before the act. It does not include those who have only received a final judgment. It must be a person who has either completed the execution of the punishment or has been granted its exemption. The expiration of the suspension period of the execution of the sentence, general amnesty, and special amnesty only exempt the execution of the sentence and do not completely nullify the effect of the sentencing, so it cannot be said to be an exemption here.
+
+2. The previous conviction must be for a crime listed in the article or a crime that was punished as a combined crime with that crime.
+
+3. The term of the previous conviction must have been 6 months or more.
+
+This includes 6 months of imprisonment and also includes cases where the person was initially sentenced to indefinite imprisonment or indefinite confinement and was later reduced and released from prison.
+
+4. The number of previous convictions must be 3 or 4 or more.
+
+Even if the previous conviction meets the above three requirements, it does not fall under this article if it is only one or two times. There must be at least three previous convictions.
+
+If a person who meets the above four conditions habitually commits Article 235, Article 236, Article 238, or Article 239 of the Criminal Law, they will be sentenced to imprisonment with labor for a minimum of 3 years if it corresponds to the crime of theft, and to imprisonment with labor for a minimum of 7 years if it corresponds to the crime of robbery, just as in the preceding article. The same applies to attempted crimes.
+
+Article 4: A person who habitually commits the crime in the first part of Article 240 or the crime in the first part of Article 241 of the Criminal Law or an attempted crime thereof shall be sentenced to indefinite imprisonment or imprisonment for not less than 10 years.
+
+This article stipulates that the punishment for a person who habitually commits robbery and injury (crime in the first part of Article 240 of the Criminal Law), robbery and rape (crime in the first part of Article 241 of the Criminal Law), or an attempted crime thereof shall be increased compared to the regulations of the Criminal Law.
+
+Article 240 of the Criminal Law: A person who injures another person while committing robbery shall be sentenced to indefinite imprisonment or imprisonment for not less than 7 years. A person who causes death shall be sentenced to death or indefinite imprisonment.
+
+Article 241: A person who rapes a woman while committing robbery shall be sentenced to indefinite imprisonment or imprisonment for not less than 7 years. A person who causes the woman to die as a result shall be sentenced to death or indefinite imprisonment.
+
+In order to impose an increased punishment under this article,
+
+1. The crime in question must be robbery and injury, robbery and rape, or an attempted crime thereof.
+
+That is, the crime currently being punished must be a completed or attempted crime of this type.
+
+2. The crime in the previous item must be habitually committed.
+
+It is not enough to have a habit of committing general robbery. It must be a habitual offender who has committed robbery and injury, rape, etc. However, it is not necessary to have a separate habit of committing robbery and injury or a habit of committing robbery and rape. The two can be combined and recognized as habitual.
+
+If the above two requirements are met, one can be sentenced to indefinite imprisonment or imprisonment for not less than 10 years, regardless of whether the crime is completed or attempted. <15>
+
+**Named Entities**
+
+日本	Nippon
+朝鮮	Chosŏn
+楊潤植	Yang Yun-shik
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제33호
+발행일	1930년 10월 01일
+기사제목	새로 實行하는 盜犯等防止法의 解說,
+필자	辯護士 楊潤植
+기사형태	논설
+
+새로 實行하는 盜犯等防止法의 解說,
+						辯護士 楊潤植
+日本에서 本年 6월11일부터 실시된 昭和 5년 법률 제9호 「盜犯등의 防止 及 處分에 관한 法律」은 本年 9월8일 制令 제8호로 朝鮮 刑事令의 一部를 개정하야 9월10일부터 朝鮮에도 실시하게 되얏다. 당초 本法 制定 實施에 대하야는 日本 朝野에서 贊否 兩論으로 議論이 만핫섯다. 그러나 필자는 거기에 대한 私見을 쓰고저 함이 안이다. 좌우간 이 법률이 今般 朝鮮에도 실시하게 되얏기 다만 그 법률의 의의, 내용을 해설하야 讀者 諸氏의 參考에 供하고저 한다. 그러나 본 해설은 법률가가 안인 讀者 諸氏에게 그 대강을 설명하기 위한 것이고, 또 필자의 연구가 淺薄한 연고로 학설이라든지 비평은 업고 다만 될 수 잇는 대로 평이하고 간단하게 法文에 나타난 의의를 그대로 通俗的으로 설명 소개함에 불과한 것이니 이 점에 대하야 讀者 諸氏의 諒察을 乞한다.
+이 법률은 전부 4箇 條로 성립되얏는데 그 내용은 대체로 두 가지로 나호앗스니, 제1조는 刑法상 正當防衛의 경우를 列擧的으로 詳記한 것이요. 제2조 乃至 제4조는 常習的 强窃盜犯에 대하야 現行 刑法보다 그 刑罰을 重한 것이다.
+제1조 下의 各號의 경우에 잇서 자신 又는 타인의 생명 신체 又는 貞操에 대한 현재의 위험을 배제하기 위하야 범인을 殺傷한 때는 刑法 제36조 제1항의 防衛行爲가 잇슨 者로 함.
+1, 盜犯을 방지하거나 又는 盜贓을 取還하려 할 때.
+2, 兇器를 携帶하고 又는 門戶牆壁등을 踰越損害하고 鎖鑰을 開하고 人의 住居 又는 人의
+看守하는 邸宅建造物 혹은 船舶에 侵入하는 자를 방지하려 할 때.
+3, 무고히 人의 住居 又는 人의 看守하는<8> 邸宅建造物 혹은 선박에 侵入한 자 又는 요구를 受하고 此等場所로부터 退去치 안는 자를 排斥하려 할 때.
+前項 各號의 경우에 잇서 자기 又는 타인의 생명, 신체 又는 貞操에 대한 현재의 위험이 업드라도 행위자가 恐怖, 驚愕, 興奮 又는 狼狽로 因하야 현장에서 범인을 살상함에 至한 때 此를  罰치 아니함.
+本 條에 如斯如斯한 때는 형법 제36조 제1항 云云하얏스니 爲先형법 제36조는 엇더한 規定인가를 설명할 필요가 잇다.
+형법 제36조 急迫不正의 侵害에 대하야 자기 又는 人의 권리를 防衛하기 위하야 不得已에 出한 행위는 此를 罰치 아니함, 防衛의 정도를 超한 행위는 情狀에 인하야 其刑을 減輕 又는 免除함을 得함.
+上의 행위를 刑法學상 正當 防衛라고 하는데 正當 防衛가 성립되려면 첫재 자기(防衛者) 又는 타인의 권리에 대한 急迫 不正한 침해가 잇서야 한다. 침해가 업는데 防衛가 잇슬 수 업다. 急迫한 침해라 함은 미래나 과거의 것이 안이라 함이니 目前에 切迫한 침해를 의미함이다. 直接 切迫하지 안은 침해를 예상하고 미리 防衛 行爲를 할 수 업고 또 과거의 침해에 대한 復讎的 행위는 正當 防衛가 못된다. 不正이라 함은 違法이란 뜻이니 타인의 적법한 행위에 대하야는 正當 防衛가 안된다. 그 侵害는 반듯이 防衛者 자신의 권리뿐 안이라 타인의 권리침해에 대하야도 正當 防衛를 할 수 잇다. 널니 권리라 하얏스니 吾人의 생명, 재산, 자유, 명예등, 법률상 一切의 권리를 포함한 것이다. 둘재 防衛는 권리에 대한 急迫 不正의 침해를 배제하기 위하야 不得已에 出한 행위라야 한다. 防衛하기 위한 필요한 정도를 초과하면 범죄가 構成된다. 그러나 不正 侵害에 대하야 피해자가 도피할 方途가 잇다던지 또는 관청의 보호를 바들 수 잇는 경우라도 일반 사회적 관념으로 봐서 防衛하기에 필요한 정도를 초과치 안엇스면 正當 防衛가 성립된다. 그 행위가 과연 不得已한 행위인지 안인지는 그 당시에 諸般 事情을 짐작하야 객관적으로 판단할 것이다. 그 필요한 정도를 초과한 것은 一般刑罰 法規에 의하야 범죄가 성립되나 그 情狀에 의하야 其刑罰을 減輕 혹은 免除하는 경우도 잇다. 셋재 正當 防衛는 不正 侵害者에 대한 反擊 行爲라야 한다. 침해를 도피하기 위하야 不得已한 행위라도 침해자 이외의 제3자에게 대하야 가해를 하얏스면 그는 刑法 제37조의 緊急 避難 行爲는 될 수 잇스나 여기 말하는 正當 防衛는 안된다.
+이상 말한 요건을 구비한 행위를 正當 防衛라고 하는데 急迫不正의 침해가 업는데 이것이 잇다 誤信하고 防衛 行爲를 한 경우를 誤想 防衛라 한다. 가령 강도가 작난감 6穴砲로써 협박하는 경우 親故가 戱弄으로 칼로 치는 흉내를 한 경우에 진정한 침해가 잇다고 생각하고 防衛 行爲를 행한 경우이다. 誤想 防衛는 正當 防衛가 안인고로 其行爲는 一般 刑法 原理에 의하야 행위가 全然 故意 過失이 업스면 범죄가 안되나 경우에 따라 防衛에 고의 또는 過失이 잇스면 범죄가 構成되는 때가 잇다.
+正當 防衛, 誤想 防衛에 대하야는 만흔 학설도 잇고 또 더 만흔 설명이 필요하나<9> 爲先 本法해설상 필요로 그 관념의 대강을 설명하고 이로부터 本法을 해설한다.
+本法 제1조 제1항은 各虎에 列擧한 盜犯防止, 盜贓取還, 侵入防止, 侵入排斥의 경우에 자기나 타인의 생명, 신체 또는 貞操에 대한 현재의 위험을 배제할 필요로 그 범인을 살해하거나 또는 傷害하얏슬 때는 그는 刑法의 正當防衛이니까 범죄가 안된다는 趣旨이다. 그럼으로 本法에 의하야 殺傷行爲가 正當防衛로 무죄가 되려면 다음 두 조건이 구비하여야 한다.
+제1, 本法 제1조 제1항에 列擧한 세 가지 경우 중에 어느 한 가지에 해당한 침해가 잇서야 한다.
+1, 盜犯을 防止하거나 또는 盜贓을 取還하려고 할 때.
+盜犯이라함은 刑法 제12조 제36장 窃盜 及 强盜罪라고 규정한 제235조 이하의 범죄를 指稱함이다.(法文後出) (其中 제237조 强盜豫備罪는 本法性質상 포함치 아니함) 盜犯을 防止하려할 때란 것은 장차 범행하려는 强盜를 防止하는 경우다. 盜犯이라고 하얏스니 盜犯 行爲에 착수가 잇서야 한다. 고로 가령 强窃盜가 범행을 할 次로 그 목적지를 향하야 가는 도중에 잇는 경우에는 여기에 盜犯이라고 할 수 업다. 그러나 盜犯을 防止라 하엿스니 盜犯에 犯罪行爲가 완료되여 盜犯旣遂狀態일 때에는 다음에 盜贓取還에는 해당할 수 잇스나 盜犯防止는 아니다. 盜臟을 取還할 때라 함은 盜犯에게 奪取된 재물을 피해자가(타인이라도 피해자를 위하야)도로 차지려고 하는 행위를 의미함이니 盜犯이 旣遂後의 일이다.
+2, 兇器를 휴대하고 또는 門戶牆壁등을 踰越損壞하게나 鎖鑰을 열고 타인의 住居 또는 타인의 간수하는 邸宅, 建造物, 혹은 선박에 侵入하는 자를 방지하려 할 때.
+兇器라 함은 其 성질상 인체를 살상할 만한 기구를 指稱함이니 食刀, 小刀, 斧, 鎌등 갓흔 것이 다 兇器이다. 兇器를 휴대함이라 함은 其 使用 目的의 有無를 물론하고 손에 갓던지 몸에 진인다는 뜻이다. 특히 門戶牆壁 등이라 하엿스니 何必 門戶牆壁뿐아니라도 가택침임을 防止할 만한 設備을 總稱한다. 踰越이라 함은 넘어드러 가는 것뿐 아니라 牆壁등의 밋흘 뜰코 들어가는 것이나 또는 울을 뚤어 헤치고 드러가는 것도 포함된다. 鎖鑰은 門戶의 開閉를 禁한 設備의 總稱이니 何必 잠을쇠 『고리』뿐 아니라 『빗장』가튼 것은 물론 繩索 등으로 門戶를 結縛한 것도 포함된다. 本號에는 住居, 邸宅, 建造物, 船舶에 侵入 云云하얏스니 其이외의 기차, 전차, 자동차등 侵入防止는 포함되지 안는다. 船舶은 大小의 구별이 업스니 數千噸의 巨船으로부터 渡津船 또 1인승의 魚舟라도 다 船舶이다. 그러나 軍艦은 本法 規定외인 것은 주의할 것이다. 侵入防止는 次項에 설명하는 侵入排斥과는 다르다. 임이 가택에 들어 온 후에는 侵入排斥은 되나 侵入防止는 아니다.
+3, 無故히 타인의 住居 또는 看守하는 邸宅 建造物 혹은 船舶에 侵入한 者 又는 요구를 밧고 此等場所로부터 退去치 안는 者를 排斥할 때
+無故히라 함은 법규, 업무, 관습상, 정당한 이유가 업시 또는 住居者, 看守者에 의사에 反하야라는 뜻이다. 職工, 小作人이 其業務 關係라든지 관례상 상당한 범위안에서 자본가나 지주를 방문면담후 요구에 응하야 퇴거치 안는 경우에는 이것을 無故한 侵入이라 든지 또는 無故히 退去치 안는 者라고 당연히 인정할 수는 업다. 그러나 勞働者<10> 小作人이 勞働 條件改善 혹은 小作料 引下 등을 요구함에 住居者 看守者등이 退去를 요구함에 불구하고 依然 완강히 자기네의 주장을 강요하야 사회 질서 유지상 相當性을 초월하엿다고 인정할 때에는 本號에 無故히 退去치 안는 경우에 해당할 때도 잇슬 것이다. 『無故히』인지 不然인지는 객관적으로 재판관이 판단할 것이니 各個 경우에 諸般 事情을 參酌하야 법령, 관습, 業務關係등에 빗처 不法侵入, 不法不退去의 여부를 판단할 것이오, 防衛 行爲를 한 者의 독단적 관찰로 결정할 것이 안이다. 경찰관, 收稅官吏등이 其職務를 집행하기 위하야 居住者나 邸宅看守者의 의사에 반하야 가택내에 들어온 경우는 職權 行使로 법령에 의한 行爲인고로 無故히 侵入, 無故不退去가 안이다. 此等 官公吏라도 職務 執行이란 名義로 職權을 남용하야 不法行爲를 할 의사로 侵入不退去할 때는 防衛 行爲를 할 수잇다.
+제2, 자기 又는 타인의 생명, 신체 又는 貞操에 대한 현재의 위험을 排除하기 위하야 범인을 殺傷한 때라야 한다. 생명, 신체, 貞操이외의 권리는 本法 規定 외이다. 如何히 귀중한 재산, 명예에 대하야 현재의 위험이 잇드라도 (형법상 正當防衛 規定을 適用할 때는 別問題) 本法에 의하야 殺傷行爲는 할 수가 업다.
+本條에 현재의 위험이라 함은 아직 급박한 侵害에 이르지 못할 정도의 위험을 謂함이다. 가령 强盜가 임의 재물을 奪取하야 가지고 數時間을 실내에서 逗留하며 날이 새이기를 期待리고 잇다든지 또는 暴漢이 아직 兇器를 사용하랴고는 안하나 兇器를 가지고 無斷이 室內侵入한 것과 가튼 경우에는 급박한 侵害는 아니나 현재의 위험이 잇다고 볼 수 잇다. 생명, 신체, 貞操에 대한 위험이 급박한 侵害라 할 만한 정도에 잇스면 本條 제1항 各號 列記의 侵害가 업드라도 당연히 刑法 제36조의 正當 防衛가 될 것은 물론이다. 가령 强盜가 당장 폭행협박을 하는 경우에는 刑法 36조만을 적용하야도 正當 防衛가 성립된다.
+이상 두 가지 요건이 구비하면 범인을 살해하거나 상해하드라도 正當 防衛로 인정되야 범죄가 성립 안된다. 다시 말하면 本法 規定에 의하야 殺傷行爲가 무죄가 되려면 盜犯 又는 侵入, 不退去를 實質로 하는 急迫不正의 侵害에 대하야 防衛상 부득이 범인을 殺傷한 것이 동시에 자기나 타인의 생명, 신체 또는 정조에 대한 현재의 위험을 배제하기 위한 필요에 기인한 事를 조건으로 한다. 만약에 그런 필요가 업는데 범인을 殺傷하면 범죄가 성립된다. 그러나 여기에 한 가지 특히 주의할 일이 잇다. 과연 생명, 신체, 又는 貞操에 대한 현재의 위험이 잇섯는지 안인지 그런 위험을 배제하려면 반듯이 범인을 殺傷까지 할 필요가 잇섯는지는 다만 행위자<11> 一個人의 주관적 의사로만 결정할 것이 안이다. 법률을 解釋 運用할 지위에 잇는 재판관이 各個 구체적 경우의 諸般 事情을 參酌하야 일반 사회적 관념으로 판단할 것이다. 사실 그런 위험이 업는데 행위자만은 그런 위험이 잇다고 誤信하고 그를 排斥하기에 필요하다고 생각하야 殺傷行爲를 하얏스면 本條 제2항에 해당할 경우외에는 일반 誤想防衛의 法理에 의하야 해결할 것이다.
+우에 말한 條件을 구비한 殺傷 行爲가 과연 刑法 제36조의 正當 防衛 行爲에 부합될 것인지 혹은 本條로 因하야 正當防衛의 적용범위가 종래보다 확장되엿는지 학자간에 만흔 議論이 잇는 듯하고 필자도 아직 의문중에 잇다. 그러나 立法者는 물론 司法省에서도 本法은 종래 刑法상의 正當防衛를 좀 구체적으로 해석한 것이요 결코 一毫라도 그 범위를 확장한 것이 안이라고 주장한다.
+本條 제2항은 제1항 各號에 列記한 急迫不正의 侵害에 대하야 그것을 防衛할 경우에 잇서 자기나 타인의 생명, 신체 又는 貞操에 현재의 위험이 사실 업드라도 행위자가 恐怖, 驚愕, 興奮, 또는 狼狽로 因하야 그런 위험이 잇다고 誤認하고 이것을 排除하기에 필요하다고 생각하야 현장에서 범인을 殺傷하게 至한 때는 그 殺傷行爲를 罪하지 안는다는 규정이다.
+本項 行爲도 엇던 의미로 보와 防衛行爲됨이 無違하나 刑法 제36조의 正當防衛는 안이다. 제1항 末尾에는 「... ...한때에는 刑法 제36조 제1항의 防衛行爲이라고 함」이라고 규정하얏스나 제2항 末尾에는 다만 「罪하지 안이함」이라고 규정함을 보아 제2항의 行爲는 본래의 正當防衛는 안이나 다른 엇더한 이유로 違法阻却이 된다고 규정함인 듯하다.
+本條 제2항의 규정에 의하야 殺傷行爲가 무죄가 되려면 다음 네 가지 條件이 구비하여야 한다.
+제1, 本條 제1항에 列擧한 세 가지 경우 중에 그 어느 한 가지에 해당한 侵害가 잇서야 한다.
+그런 侵害가 업섯스면 행위자가 잇섯다고 誤認하엿드라도 그는 本項규정 외이다. 各條文句解釋은 前項에 다 말하얏기로 그 설명은 생략한다.
+제2, 자기나 타인의 생명, 신체 또는 貞操에 대한 현재의 위험이 업는 事함을 要함. 이와 가튼 위험이 實在하면 제2항을 적용할 여지가 업시 제1항에 의하야 무죄가 될 것이다.
+제3, 생명. 신체 또는 貞操에 대한 현재의 위험이 업지만 행위자가 이런 위험이 잇다고 誤認하고 그 위험을 排除하기에 필요하다고 생각한 事를 要한다.
+이것은 제1항과의 관계로 보아 本項 文理解釋상 이런 의미로 解釋된다.
+제4, 행위자가 恐怖, 驚愕, 興奮 또는 狼狽로 因하야 현장에서 범인을 殺傷하게 된 때라야 한다.
+恐怖, 驚愕, 興奮, 狼狽등의 意義는 普通觀念대로 解釋할 것이니 此4者는 다 사물을 平靜히 판단하기 障碍가 될 만한 정신적 衝動을 뜻하는 것이니 彼此 중복될 경우도 잇슬 듯하다. 그러나 恐怖, 驚愕, 興奮 또는 狼狽가 잇섯다고 무조건으로 殺傷行爲를하야도 관계치 안타는 것은 아니다, 우에 말한 위험이 잇다고 생각하고 恐怖, 驚愕, 興奮, 또는 狼狽될 만한 사정이 잇섯서야만 한다.<12> 현장에서 殺傷함이라 함은 本條 第1號 乃至 제3조의 侵害行爲가 繼續實行되고 잇는 그 當場이란 뜻이니 그런 侵害가 벌서 완료된 후에는 안된다. 例하면 盜賊이 재물을 奪取하야 가지고 벌서 다른 方面으로 향하야 간 후 또 不法侵入者가 임의 門 밧스로 過去한 뒤에는 殺傷行爲를 못한다.
+이상 네 가지 조건이 구비한 殺傷行爲는 罰치 안는다. 그런고로 그 조건이 구비치 못한 경우 가령 제1항 第1號 乃至 第3號의 侵害가 實在치 안이한데 그 侵害가 잇다고 誤認한 경우라든지 恐怖, 驚愕등에 因치 안이하고 생명, 신체, 또는 貞操에 대한 현재의 위험이 잇다고 誤認한 경우에는 本條 제2항이 범위 외임으로써 一般誤想防衛의 法理로 決定할 것이다. 그러나 그와 가튼 侵害를 誤認하든지 또 생명, 신체 등의 현재의 위험을 誤認하야 너무 恐怖, 驚愕등으로 因하야 무의식상태 중에 殺傷行爲를 하게 되얏스면 刑法規定에 의하야 心神喪失者의 행위로 무죄가 될 경우도 잇슬 것이다.
+제1조 常習으로 下의 各號의 방법에 의하야 형법 제235조, 제236조, 제238조 혹은 제239조의 죄는 其未遂罪를 犯한 者에 대하야 窃盜로써 論할 때는 3년 이상, 强盜로써 論할 때는 7년 이상의 有期懲役에 처함.
+1, 兇器를 携帶하고 犯한 때
+2, 2인 이상 현장에서 공동으로 犯한 때
+3, 門戶牆壁 등을 喩越損壞하거나 또는 鎖鑰을 開하고 人의 住居 又는 人의 看守하는 邸宅, 建造物, 혹은 艦船에 侵入하야 犯한 때
+4, 夜間에 人의 住居 又는 人의 看守하는 邸宅, 建造物 혹은 艦船에 侵入하야 犯한 때
+本條는 常習으로 條文列記한 방법으로 窃盜强盜를 犯하는 者에 대하야 現行刑法보다 其刑罰을 가중한 規定이다. 그러나 刑法의 規定한 盜犯全部에 대하야 刑을 가중한 것은 안이다./ 常習的으로 條文에 列記한 것과 가튼 방법으로 下記各條의 罰을 犯한 者에게만 其刑罰을 가중한 것이다.
+刑法 제235조 타인의 재물을 窃取한 者는 窃盜의 罰로 10년 이하의 징역에 처함.
+제236조 暴行 又는 脅迫으로써 타인의 재산을 强取한 者는 强盜의 罪로 5년 이상의 有期懲役에 처함.
+前項의 방법으로써 재산상 불법의 이익을 得하거나 又는 타인으로 하야곰 此를 得하게 한 者 亦同함.
+제238조 强盜가 재물을 得하고 其取還을<13> 拒하고 又는 逮捕를 免하고 혹은 罪跡을 煙減하기 위하야 暴行 又는 脅迫을 한 때는 强盜로써 論함.
+제239조 人을 昏醉케하고 그 財物을 盜取한 者는 强盜로써 論함.
+本條 冒頭에 「常習으로」 라 함은 우에 列記한 强盜, 窃盜를 犯하는 習癖잇는 者를 말함이다. 몃 번이상을 犯하면은 常習이라 할지 일률적으로 말하기는 어럽지만 窃盜의 反覆性 잇는 者를 말함이다.
+반듯이 盜犯을 常業으로 함을 要치 안이한다. 正業에 從事하드라도 時時로 盜賊질을 하야 畢竟 習性이 되엿다고 認定할 수 잇는 이상 常習이라고 할 수가 잇다. 범인의 常習性을 인정함에는 盜犯의 前科有無는 가장 有力한 자료가 되겟지만 1회의 前科가 업는 者라도 犯罪를 累行한 사실이 잇스면 常習性을 認定할 수 잇다.
+여긔 말한 常習이란 제2조 乃至 제4조에 常習이란 語句의 공통될 解釋이요 제2조의 常習이란 窃盜, 强盜만 常習이 안이다. 다음 各號의 방법도 常習으로 하얏슴을 要한다.
+1, 兇器를 휴대하고 犯한 때 (제1조해설 참조)
+2, 2인 이상 현장에서 공동으로 犯한 때 현장에서 공동으로 하얏서야만 하는 고로 1인은 某장소에서 기다리고 잇고 1인만이 前行爲를 代行한 경우를 포함치 안이한다. 그러나 1인이 犯行을 하고 1인이 派守를 보고 잇섯든 경우는 둘 다 현장에서 犯行을 한 것으로 볼 수 잇다.
+3, 門戶牆壁을 踰越損壞하거나 또는 鎖鑰을 開하고 人의 住居 又는 人의 看守하는 邸宅, 建造物, 혹은 艦船에 侵入하고 犯한 때는 대개 제1조 해설과 가트나 거기는 船舶이라 하엿스나 여기는 艦船이라 하엿스니 軍艦도 포함된다.
+4, 夜間에 人의 住居 又는 人의 看守하는 邸宅 建造物 혹은 艦船에 侵入하야 犯한 때 특히 夜間의 犯行에 限한다. 제1조 제3항에는 「無故」히라고 잇스나 本號에는 그런 語句가 업는 것은 前者는 住居侵入뿐이고 정당히 入家하는 경우를 제외하려고 그리 하얏스나 本號는 盜犯의 경우인 이상 당연히 불법인고로 구타여 無故라는 字句를 너흘 필요가 업슴인 듯하다.
+刑法에 의하면 窃盜罪 제235조는 1년 이상 10년 이하의 有期懲役에 처하게 되고 强盜罪(제236조 제238조 乃至 제229조)는 5년 이상 有期懲役에 처하게 되는 것이나 (未遂는 各其刑을 減輕하야 處刑할 수 잇다.) 常習으로 여기 말한 네 가지 중의 어느 한 가지 이상의 방법으로 窃盜罪를 犯하면 最短 3년 이상의 有期懲役, 强盜罪(條文에 列擧한)를 犯하면 最短 7년 이상의 有期懲役에 처하게 된다. 刑法상으로는 未遂罪를 旣遂보다 其刑罪을 輕減할 수 잇스나 本條에 의한 盜犯은 未遂罪라도 法定刑을 輕減할 수 업다.
+제3조 常習으로 前條에 揭한 刑法各條의 죄 又는 其未遂罪를 犯한 者로 其行爲 前 10년 내에 此等의 죄 又는 此等의 죄와의 倂合罪로 3,4회 이상 6개월 징역이상의 刑의 執行을 受하거나 又는 其執行의 면제를 得한 者에 대하야 刑을 科할 때는 前條의 例에 의함.
+本條는 常習으로 窃盜, 强盜나 其未遂罪를 犯한 者로 下의 요건을 구비한 前科가 잇슬 때에는 其刑罰을 가중한다는 趣旨이다.<14>
+1, 前科는 當該行爲 前 10년 내에 其刑의 執行을 바덧거나 又는 執行의 면제를 得한 事 確定判決만을 바든 者를 포함치 안이한다. 반듯이 其刑의 執行을 다 치루엇든지 혹은 其면제를 바든 者이여야 한다. 刑의 執行猶豫期間滿了, 大赦 及 特赦는 刑의 執行을 면제할 뿐이라 全然 刑罰言渡의 효력을 업시하는 것인고로 여기에 면제라고 할 수 업다.
+2, 그 前科는 條文에 揭載한 죄 또는 그 죄와 他罪와의 倂合罪로 處斷된 事.
+3, 그 前科의 刑期는 6개월 징역 이상이 엿든 事.
+이중에는 6개월 징역도 포함되고 당초의 無期懲役, 無期禁錮刑에 刑되엿다가 追後에 減免되여 出獄된 경우도 포함된다.
+4, 前科의 회수는 3,4 이상인 事.
+우에 말한 3者 요건을 구비한 前科라도 1회이나 2회로는 本條에 해당치 안는다. 필히 3회이상의 前科가 잇섯서야 한다.
+이상 4조건을 구비한 者가 常習的으로 刑法 제235조, 제236조, 제238조이나 혹은 제239조를 犯하얏스면 窃盜罪에 해당할 時는 前條와 맛치 한 가지로 最短 3년 이상의 懲役, 强盜罪에 해당할 時는 最短 7년 이상의 有期懲役에 처한다. 未遂라도 亦同하다.
+제4조 常習으로 刑法 제240조 前段의 죄 혹은 제241조 前段의 죄 又는 其未遂罪를 犯한 者는 無期 又는 10년 이상의 징역에 처함.
+本條는 常習으로 强盜傷人(刑法 제240조 前段의 죄) 强盜, 强姦(형법 제241조 前段의 죄)이나 혹은 其未遂罪는 犯한 者를 刑法의 규정보다 其刑罰을 가중할 事를 규정한 것이다.
+刑法 제240조 强盜가 人을 傷한 때는 無期 又는 7년 이상의 징역에 처함. 死에 致한 때는 死刑 又는 無期懲役에 처함.
+제241조 强盜가 婦女를 强姦한 때는 無期 又는 7년 이상의 懲役에 처함. 因하야 婦女를 死에 致케한 때는 死刑 又는 無期懲役에 처함.
+本條에 의하야 가중한 刑을 科하랴면
+1, 當該犯罪가 强盜傷人, 强盜强姦 又는 此等未遂罪인 事.
+卽 현재 罰하려 하는 죄가 此等 죄의 旣遂나 혹은 未遂라야 한다.
+2, 前號의 죄를 常習으로 犯한 事.
+一般强盜의 常習이 잇서도 안된다. 반듯이 强盜傷人, 强姦등을 暴行한 常習者라야만 한다. 그러나 따로히 强盜傷人의 常習 또 强盜, 强姦의 常習임을 要하지 안는다. 二者를 종합하야 常習으로 認定한 수 잇다.
+이상 두 가지 요건이 구비하면 旣遂未遂를 물론하고 無期나 혹은 10년 이상의 징역에 처할 수 잇다.<15>
+<8-15>

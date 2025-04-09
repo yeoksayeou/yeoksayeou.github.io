@@ -1,0 +1,59 @@
+Magazine Title: 별건곤 제2호
+Publication Date: 1926년 12월 01일
+Article Title: 謝告 (Thank You and Notice / Apology)
+Author: 별건곤편집부 (Pyŏlgŏn'gon Editorial Department)
+Article Type: 사고·편집후기 (Apology/Notice · Editorial Postscript)
+
+Apology and Notice
+						Pyŏlgŏn'gon Editorial Department
+
+Due to offending the authorities' taboo (當局의 忌諱에 觸하야), the sections "Literary Scene Rumors" (문단풍문) and "Sugumun" (수구문) were subjected to deletion and could not be published. Although this is deeply regrettable for our readers, we will ensure they are published next time, so please wait and see what kind of articles appear.<10>
+
+**Summary**
+
+This brief notice from the Pyŏlgŏn'gon Editorial Department informs readers that two planned sections, "Literary Scene Rumors" and "Sugumun," were censored ("subjected to deletion") by "the authorities" because they touched upon forbidden topics (忌諱). The editors express regret and promise to publish the content in a future issue. For historians, this text is a direct piece of evidence illustrating the censorship faced by Korean publications under Japanese colonial rule in the 1920s. It highlights the constraints on freedom of the press and the editorial challenges of navigating sensitive topics while trying to keep readers informed or entertained.
+
+**Named Entities**
+
+당국	당국	The Authorities
+문단풍문	문단풍문	Mundanp'ungmun (Literary Scene Rumors - section title)
+수구문	수구문	Sugumun (Section title)
+
+**Glossary**
+
+謝告	사고	Thank You and Notice / Apology (often used for public apologies or important notices)
+별건곤편집부	별건곤편집부	Pyŏlgŏn'gon Editorial Department
+문단풍문	문단풍문	Literary Scene Rumors (A section title)
+수구문	수구문	Sugumun (A section title, potentially referring to the Water Gate area or just a title)
+당국	당국	The authorities (Referring to the Japanese colonial government)
+忌諱	기휘	Taboo; forbidden subject; displeasure
+觸하다	촉하다	To touch; to offend; to incur (Here: offended/incurred displeasure)
+삭제	삭제	Deletion; removal
+당하고	당하고	To be subjected to; to suffer (Passive construction)
+게재치	게재치	To publish (Older spelling/form of 게재하지)
+못하게되야	못하게되야	Became unable to (Older spelling/form of 못하게 되어)
+독자	독자	Reader
+심히	심히	Deeply; greatly; very much
+섭섭하나	섭섭하나	Although regrettable/disappointing (Older spelling/form of 섭섭하지만)
+이다음에는	이다음에는	Next time
+반드시	반드시	Surely; certainly; without fail
+기재하도록	기재하도록	To ensure it is published/recorded
+하겟사오니	하겠사오니	We will do so, therefore... (Archaic/formal ending, =하겠으니)
+엇더한	엇더한	What kind of (Older spelling of 어떠한)
+기사	기사	Article; news report
+나오는가	나오는가	Appears; comes out (Question form)
+기다려 보십시요	기다려 보십시요	Please wait and see (Older spelling/form of 기다려 보십시오)
+
+
+---------------------------
+
+
+잡지명	별건곤 제2호
+발행일	1926년 12월 01일
+기사제목	謝告
+필자	별건곤편집부
+기사형태	사고·편집후기
+
+謝告
+						별건곤편집부
+『문단풍문』과 『수구문』은 당국의 忌諱에 觸하야 삭제를 당하고 게재치 못하게되야 독자에게 심히 섭섭하나 이다음에는 반드시 기재하도록 하겟사오니 엇더한 기사가 나오는가 기다려 보십시요.＜10＞

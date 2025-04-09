@@ -1,0 +1,272 @@
+잡지명	별건곤 제24호
+발행일	1929년 12월 01일
+기사제목	朝鮮歌詩의 苗昹 (A Glimpse of Korean Poetry)
+필자	安自山
+기사형태	논설 (Essay)
+
+A Glimpse of Korean Poetry
+						An Ch'ijae-san
+
+(I) Beginning
+
+To say that Korean poetry only consists of the single format of Sijo is inadequate. Even so, it is unacceptable to say that Korean literature in the thousands of years of the Orient has only that format. Likewise, to say that Korean music has no instrumental pieces and only songs is also unacceptable, as it is unlikely that music played for thousands of years only consisted of Sijo. Solving this doubt might seem like a trivial matter.
+
+I have been struggling for years to understand this, and for the past five years, I have been drafting a history of court music. In doing so, I took the opportunity to pore over old books in the royal household and investigate major musical scores. Gradually, I was able to find over two thousand songs. By uprooting the source and delving into the depths of the poetry, I discovered that there were various formats of ancient songs. However, since the accumulation of thousands of years of decline is so vast and originally chaotic, it would be futile for my humble opinion to attempt a solitary correction. Therefore, I am communicating with Pyŏl Kŏn’gon to report this to the world, hoping that the members of the new academic community will not neglect this but will jointly strive to understand it.
+
+(II)
+
+With the over two thousand poems I have already investigated, I have counted the verses, traced the threads, and standardized the poetic forms, melodies, and musical measures. By categorizing their rhythmic patterns, they can be broadly divided into the following types:
+
+Types of Poetry
+1. Samdaemok Style
+2. Chŏngŭp Style
+3. Repetitive Verse Style
+4. Kyŏnggi Style
+5. Long Poem
+6. Sijo
+
+(I) According to the Samguk Sagi (History of the Three Kingdoms), the Sinra (Silla) chancellor, Wihŭng, gathered the scattered Hyangga (native songs) of the time with the monk Tae’go and created a book titled Samdaemok. <166> Although that book is now lost, there are twenty-five Hyangga extracted from the Kyunyŏjŏn in the Samguk Yusa (Memorabilia of the Three Kingdoms) and Kyobunkiyŏnt'ongch'o, which have already been explained by Mr. Ogura Shinpei and are well-known to the world. These are papers that cannot be easily dismissed. The poetic form of these twenty-five poems has a fixed structure, and this format is called Samdaemok style. It uses the rhythmic beauty of the four-four meter and writes eight-syllable counts. In large poems, a special supplementary verse is added, which is called the closing verse. The Samdaemok style was also imitated in the Koryŏ period.
+
+◇Short Song of Yejong
+"Juŭlwanho paekho simmun chech'ŏnŭl gŭpkun honjosi kŏsagi chung samjosi kyojik ma u mangmang ari rallagŭppi kagongsin yanggun najigŭnhŭnjosi chŏng"
+This was found in the biography of Sin Sunggyŏm and the Sinssi Ch'uwŏnrok, and its meaning is that Yejong mourned Sin Sunggyŏm and Kim Nak, meritorious subjects who died during the reign of King T'aejo. In addition, the song "Chinsak," found in the Akhak Kwebŏm (Canon of Music), is considered to be a poem called "Chŏng Kwajŏng," written by Chŏng Sŏ of Koryŏ, and it is also a imitation of the Samdaemok style.
+
+(II) Chŏngŭp Style. The northern literature of the Three Kingdoms period was mostly romantic. A representative poem of this is the Chŏngŭpsa (Song of Chŏngŭp), which was written by a woman from Chŏngŭp-hyŏn in Paekche, lamenting the absence of her husband who had gone out to trade. It was discovered by referring to the Akhak Kwebŏm and the Koryŏsa Akchi (History of Koryŏ Music).
+
+1. Dalha nop'igom tadadasya ŏgiya
+Mŏrigom pich'wiosilla ŏgiya
+Ŏgangjori aŭ tarongdari
+2. Chŏjae nyŏrŏsingoyo ŏgiya
+Jŭndaeraldŭdaeyolsella ŏgiya
+Ŏgangjori
+3. Ŏnŭida nok'osilla ŏgiya
+Naeganondae chŏmgŭrŭlsella ŏgiya
+Ŏgangjori aŭ tarongdari
+Its characteristic is the use of interjections according to the intonation and the creation of refrains with them. The Sagyŏng Pyŏlgok, Ch'ŏngsan Pyŏlgok, Pyŏnhwajŏm, Kasiri, Tongdong, etc., of Koryŏ are in this system, and this style continued until the mid-Chosŏn period. Chŏng Tojŏn's "Chŏngdongbanggok," Sang Chin's "Kamgunŭn," etc., were also written in this style.
+
+◇ A verse from Sagyŏng Pyŏlgok (Song of the Western Capital) (Lyrics from the musical score)
+Yŏhŭimŭronajul
+Yŏhŭimŭronjilsamboe parisigo
+Wi tuŏrŏngsŏng-후렴 (Refrain)
+Tuŏrŏngsŏng taringdiri-후렴 (Refrain)
+
+◇ A verse from Ch'ŏngsan Pyŏlgok (Song of the Green Mountain) (same as above)
+Kadaibaerŭrŭndogi
+Sŏljingangsurŭlbijora
+Joronggosnurugimiwajapjapwani
+Naeŏjjihariitgo
+Yalliyalli-후렴 (Refrain)
+Yallaseongyalliriyalla-후렴 (Refrain) <167>
+
+(III) Repetitive Verse Style is a variation of the Chŏngŭp Style that appeared in the Koryŏ Dynasty. It does not have refrains, but only repeats important phrases with sustained intonation. Examples include Chŏng Sŏkka, Ch'oyongga, Pŏksanggok, Ŏbucha, Ponghwangŭm, Samogok, Mundŏkkok, and Mandjŏnch'un Pyŏlsa. It is similar to the repetitive verse style developed during the Tang Dynasty under Emperor Xuanzong.
+
+◇ A verse from Chŏng Sŏkka (Song of Chŏng Sŏk) (Same as "Even if a Jewel Falls on a Rock" in the Ikchaejip Soyagu)
+Kusŭribaŏiye tijindal
+Kusŭribaŏiye tijindal
+Kinhitdanggŭch'irikka
+Jŭmunhaeralloegomnyŏnsindal
+Jŭmunhaeralloegomnyŏnsindal
+Sinittanggŭch'irikka
+
+◇ Manjŏnch'un Pyŏlsa
+Ŏrŭmuhwi taetnipjari powa
+Nimgwanaŏrŏjŭgŭlmangdjŏng
+Ŏrŭmuhwi taetnipjari powa
+Nimgwanaŏrŏjŭgŭlmangdjŏng
+Chŏngtunonalbam
+Tŏdŭisaeoriradŏdŭisaeorira
+
+(IV) Kyŏnggi Style is a type of repetitive verse style. It equalizes the number of syllables with three or four syllables, and repeats the places where the meaning is strong. It is characterized by the exemplary use of the words "Kyŏnggi" and "wi". It originated in the naturalistic wave literature of Koryŏ. An example is the Hanrim Pyŏlgok.
+
+◇ Hanrim Pyŏlgok
+Hwanggŭmjuk Paekjajuk Songjukch'ejuk
+Chugyŏpjuk Ihwajuk Ogagadojuk
+■■pae Hobaee kadŭgpŭŏ
+Wi kwŏnsangsgyŏnggieŏttŏh̆anitgo
+Yuryŏngt'och'ŏnllyangsŏnongŭi
+Yuryŏngt'och'ŏnllyangsŏnongŭi
+Wi ch'wihonggyŏnggieŏttŏhŭnigo
+
+This style of writing continued until the reign of King Chungjong of the Chosŏn Dynasty. The songs in Koryŏ An Hwi's (Kŭn’irjip), "Kwandong Pyŏlgok," "Chukgye Pyŏlgok," Pyŏn Kyeryang's "Hwasan Pyŏlgok," Kwŏn Kŭn's "Sangdae Pyŏlgok," "Oryunnorae," "Yŏnhyŏngjegok," Chŏng Kŭgin's "Pulbunhŏngok," Kim Ku's "Hwadaen Pyŏlgok," and the songs in Chu Se-bung's "Muryŭngjapgo" are all in this system.
+
+(V) Long Poem is an advancement of the Samdaemok style. It uses the four-four meter and creates eight-syllable rhymes. The introduction is grand, the arrangement is extravagant, and it is an unlimitedly long text. The long songs in the Samguk Sagi, such as the "Haerongjŏn" and "Sillaejŏn," O Se-jae's "Yŏktaega" in Koryŏ, and in Chosŏn, "Sangch'un’gok" in Pulbunhŏnjip, Songgang’s "Samin’gok," No Gye's "Sŏnsangt'an," and Kim Ŏiam's "Hwaryusŏ," "Ch'up'ung Kamgyŏlbok," etc., are numerous, making it impossible to list them all here.
+
+(VI) Sijo originated in the mid-Koryŏ period and is a short poem of six lines with eight syllables. Comparing it to the Greek Rhapsody's hexameter, and translating two lines as one line of Chinese poetry, it can be compared to the three-line forms of Tang poetry such as "Kan’ŭnda" and "Hwansŏksa." It developed from around the time of King Chungjong of the Chosŏn Dynasty and became very popular. Collections of these Sijo include Chang U-byŏk's "Kajip," O Hŭi-sang's "Haeyu Kayo," Kim Cha-ik's "Chŏnggaryult'e," and An Min-yŏng's "Haedong Akchang," which are famous.
+
+(III) Melody and Musical Measure
+
+The value of poetry is fully realized when accompanied by musical expression. Therefore, in order to thoroughly study poetry today, it is necessary to compare the melody and musical measure. To explain this, one must understand five key elements: tone, leaf, melody, tune, and rhythm.
+
+(I) Tone refers to the alteration of high and low notes to create music. It is based on the differences in the breadth of the five-note scale (Kung, Shang, Kak, Chi, Woo) and has two melodic methods: P'yŏngjo (level mode) and KyeMyŏnjo (changing mode).
+
+P'yŏngjo scale: Kung ○○○ Woo ○ Chi ○ Kak ○○ Shang ○ Kung
+KyeMyŏnjo scale: Kung ○ Woo ○○ Chi ○ Kak ○ Shang ○○ Kung
+
+○一 is one step, an ordinary interval, and ○○二 is one and a half steps, a slightly wider interval. The principle of changing these intervals is a matter of music theory, so I will omit it here. It is sufficient to simply note the difference in scale between the two modes.
+
+(II) Leaf refers to the shortness of the melody. In ancient times, the ups and downs of the song were compared to the branches and leaves of plants. Liu Nu's Sŏkmyŏng says, "The human voice is called a song, and the song is like branches, showing its quality; singing with sound has ups and downs, like grass and trees have branches and leaves." Here, one musical measure is called a leaf, and one song is divided into musical measures such as one leaf, five leaves, and six leaves.
+
+(III) Melody refers to the entire length of the melody. When repeating the melody, it is sometimes divided into three parts: front melody, middle melody, and rear melody, as in Chinsak and Pukjŏn. In addition, when a song and a musical instrument are played together, there are times when the singing stops and only the musical instrument plays at the melody, leaf, or musical measure. This is called yŏŭm (residual sound).
+
+(IV) Tune is the combination of middle sections of a song to create one piece. The collection of these pieces is called a t'aesu (suite). The number of t'aesu in one tune is unlimited. A recent song consists of twenty-four t'aesu, and this is called one kwŏl.
+
+(V) Rhythm: The most important aspect of singing is the beat. It is common to tap the knees with both hands, but the original method is to use a cane to regulate the progress of the singing. The rhythm of any song is divided into three speeds: slow, medium, and fast. It starts slowly, speeds up in the middle, and rushes to a climax at the end. Please refer to my article in Buddhism No. 63.
+
+(IV) Poetry and National Character
+
+In conclusion, one word about the relationship of national character. In general, it is a very important matter to inquire into what kind of spirit is embodied in the image of the national mind painted in poetry.
+
+The characteristic of the Korean people is their inherent gentleness. Compared to things, it is neither as transparent as crystal nor as opaque as a stone. It is like a precious jade, with a warm glow and a pure appearance. <169> Chinese poems have complex rhymes and rhythms, and Japanese poems have simple phrases with many sudden emotional expressions. However, Korean poetry, due to the gentleness of its inherent nature, has a natural and pure taste without extremes. The syllable count is four-four, using eight characters, which comes from the natural rhythm of breathing, the natural beat of the mouth. The content depicts an extremely optimistic temperament.
+
+The presence of this optimistic flavor is the manifestation of a harmonious temperament like jade light, expressing the equal thought of oneness with all things. However, this innate idea of equality calls for imbalance and floats upward in order to demand absolute equality through external obstacles. Therefore, general ancient art is neither the beauty of form like the Chinese nor the beauty of color like the Japanese, but only the beauty of line. Line is a state of aiming from one point to another, neither active nor calm, but floating. Also, the tone of singing poetry is entirely accompanied by a sorrowful sound. This sad tone of singing and the floating artistic beauty are neither desolate disappointment nor chaotic disorder, but a wave state that seeks to reach the realm of thorough equality. In light of this, the progress of literature is that the construction of a new ideal world arises from the violent chaos of imbalance. Therefore, Korean literature is a movement of pure equality, and its future is vast and expansive. (The End) <170>
+
+**Named Entities**
+
+魏弘	Wihŭng
+僧大炬	Tae’go
+小倉進平	Ogura Shinpei
+睿宗	Yejong
+申崇謙	Sin Sunggyŏm
+金樂	Kim Nak
+申氏追遠錄	Sinssi Ch'uwŏnrok
+鄭叙	Chŏng Sŏ
+鄭苽亭	Chŏng Kwajŏng
+百濟	Paekche
+鄭道傳	Chŏng Tojŏn
+靖東方曲	Chŏngdongbanggok
+尙震	Sang Chin
+感軍恩	Kamgunŭn
+李朝	李朝
+安■	An Hwi
+謹爾集	Kŭn’irjip
+關東別曲	Kwandong Pyŏlgok
+竹溪別曲	Chukgye Pyŏlgok
+卞季良	Pyŏn Kyeryang
+華山別曲	Hwasan Pyŏlgok
+權近	Kwŏn Kŭn
+霜臺別曲	Sangdae Pyŏlgok
+五倫歌	Oryunnorae
+宴兄弟曲	Yŏnhyŏngjegok
+丁克仁	Chŏng Kŭgin
+不憤軒曲	Pulbunhŏngok
+金球	Kim Ku
+花田別曲	Hwadaen Pyŏlgok
+周世鵬	Chu Se-bung
+武陵雜高	Muryŭngjapgo
+奚論傳	Haerongjŏn
+實勞傳	Sillaejŏn
+吳世材	O Se-jae
+歷代歌	Yŏktaega
+不憂軒集	Pulbunhŏnjip
+賞春曲	Sangch'un’gok
+松江	Songgang
+思美人曲	Samin’gok
+蘆溪集	No Gye
+船上歎	Sŏnsangt'an
+金擬岩集	Kim Ŏiam
+花柳詞	Hwaryusŏ
+秋風感別曲	Ch'up'ung Kamgyŏlbok
+張友璧	Chang U-byŏk
+歌集	Kajip
+吳熹常	O Hŭi-sang
+海友歌謠	Haeyu Kayo
+金子益	Kim Cha-ik
+鄭歌律體	Chŏnggaryult'e
+安玟英	An Min-yŏng
+海東樂章	Haedong Akchang
+劉怒	Liu Nu
+釋名	Sŏkmyŏng
+
+
+---------------------------
+
+
+잡지명	별건곤 제24호
+발행일	1929년 12월 01일
+기사제목	朝鮮歌詩의 苗昹
+필자	安自山
+기사형태	논설
+
+朝鮮歌詩의 苗昹
+						安自山
+(一) 發端
+거시키 朝鮮歌詩의 文套는 單거리 時調만잇다하기는 斟酌에 未洽하다 그래도 數千年東方에서 이러타한 朝鮮人의 文學이 외그리 套式으로만된게라할수업고 거시키 朝鮮音樂은 樂曲이업고 모도 歌曲이라 그러면 數千年노라오든 音樂도 唯獨히 時調만불넛슬이가 萬無하다 이 疑端을 解惑키는 시럽지 魚池間치안이한 公事라할지라.
+余는 이걸 透得키로 積年間汨突할새 近者五年間은 雅樂史를 起草함에 投托한바 그 要代에 乘時하야 宮家舊書를 涉獵하고 大樂曲調를 廉探하야 次漸次漸二千屢百篇의 歌詩를 査得하게된지라 이로써 拔本塞源하야 歌詩의 裏許를 講磨하니 이제사 古歌의 各色文套가잇슴을 發覺한지라 그러나 數千年落華가 원낙 深遼하고 本來왁자한게라 小拙한 所見으론 焉敢히 單獨歸正을짓기는부질업슨일이라 故로 別乾坤에 連通하야 이걸 天下에 申白하노니 幸혀 新學界의 僉位는 小歇히치말고 共同으로 解得하길 發願하노라.
+(二)
+이믹 査出한 二千餘의 歌詩를가지고 汨數를대고 頭緖를차려 詩形과 旋律과다못 樂節等을 準的하야 그 律調를 分捒하야보면 거시기 大種으로별느기 可하니라.
+歌詩種類
+一 三代目體
+二 井邑體
+三 疊聲體
+四 景幾體
+五 長篇
+六 時調
+(一) 三國史記에보면 新羅角干魏弘이 僧大炬를다리고 當時에 偏散한 鄕歌를 會收하야 冊名을 三代目이라햇다하는＜166＞대 그冊은 至今滅絶되고 三國遺事와 敎分記圓通抄에잇는 均如傳에서 摘發한 二十五篇의 鄕歌가잇는데 이는벌서 小倉進平君이 解釋한바 世人의 周知하는터이니 그는 實相認視치못할 論文이라 그 二十五篇의 詩形은 一定한 規模가잇는바 그 c體裁는 三代目體라하니 그는 四四調의 律美로서 八字音數를 쓰고 大篇에는 特히 附葉一節을 加하니 그를 後句라하니라 三代目體는 高麗에서도 莫本함이잇스니
+◇睿宗의 短歌
+主乙完乎白乎心聞際天乙及昆魂鳥是去賜矣中三鳥賜敎職麻又欲望彌阿里剌及彼可二功臣良久乃直隱跡鳥隱現乎賜丁
+이는 申崇謙行狀과 申氏追遠錄에서 査出한것이라 意味는 睿宗이 天授大王時의 殉死功臣인 申崇謙, 金樂二人을 追慕한것이러라 其外樂學軌範에잇는 眞勺一篇은 高麗鄭叙의 作한 鄭苽亭이란 歌詩로 斟酌하는바 亦是三代目體의 貌習으로된것이러라.
+(二) 井邑體 三國時代의 北方文學은 모도 浪漫的으로 된것이니 이의 代表的詩歌는 井邑歌라 이는 百濟井邑縣의 女子가 그 男便의 行商으로나간것을 苦待하야 지은것이니 樂學軌範과 高麗史樂志에 參量하야 發見한것이다.
+一, 달하 노피곰 다다샤 어긔야
+머리곰비취오시라 어긔야
+어강됴리 아으 다롱다리
+二, 저재 녀러신고요 어긔야
+즌대랄드대욜세라 어긔야
+어강됴리
+三, 어느이다 노코시라 어긔야
+내가논대점그를세라 어긔야
+어강됴리 아으 다롱다리
+이는 口調에라 感動詞를 例用하고 그로써 後廉을 作한것이 特徵이라 高麗의 四京別曲 靑山別曲 變花店 가시리 動動等이 其系統이오 其體가 李朝中期에지나려오니 鄭道傳의 靖東方曲 尙震의 感軍恩等이요  此體로지은것이더라
+◇西京別曲一節(樂章歌詞)
+여희므론아줄
+여희므론질삼뵈바리시고
+위 두어렁성-後廉
+두어렁성 다링디리-後廉
+◇靑山別曲一節(上同)
+가다이배르른도긔
+설진강수를비조라
+조롱곳누로기미와잡잡와니
+내엇지하리잇고
+얄리얄리-後念
+얄라성얄리리얄라-後念＜167＞
+(三) 疊聲體 는井邑體의 變體로서 高麗登內에난것이니 여긔는 後廉이업고 오직 緊要한 語句는 持續的語調를 加하야 反復的再唱하는 套式으로되나 鄭石歌 處容歌 覆霜曲 漁父詞 鳳凰吟 思母曲 文德曲 滿殿春別詞等이 其例니 唐玄宗時에 開發된 疊聲體律調와 彷佛한것이러라.
+◇鄭石歌一節 益齋集小樂府에잇는 縱然岩石落珠■와 同
+구스리바회예디신달
+구스리바회예디신달
+긴힛단그치리잇가
+즈문랄외오곰년신달
+즈문랄외오곰년신달
+信잇단그치리잇가
+◇滿殿春別詞
+어름우희댓닙자리보와
+님과나와어러죽을망뎡
+어름우희댓닙자리보와
+님과나와어러죽을망뎡
+情둔오날밤
+더듸새오리라더듸새오리라
+(四) 景幾體 는疊聲體의 一種이라 三字四字의 音數로 均齊하고 意味의 强한 處는 反覆式으로 再唱하되 景幾二字와위 一字를 例用함이 特色이라 이는 高麗自然主義波文學에서 發生한것이니 翰林別曲이그라.
+◇翰林別曲
+黃金酒 栢子酒 松酒體酒
+竹葉酒 梨花酒 五加度酒
+■■盃 琥■盃에 가득부어
+위 勸上ㅅ景幾엇더니잇고
+劉伶陶潛兩仙翁의
+劉伶陶潛兩仙翁의
+위 醉혼景幾엇더흐니잇고
+此體의 作風은 李朝中宗時節지잇섯스니 高麗安■(謹爾集)關東別曲 竹溪別曲 卞季良의 華山別曲 權近의 霜臺別曲 五倫歌 宴兄弟曲 丁克仁의 不憤軒曲 金球의 花田別曲 周世鵬의 武陵雜高에잇는 歌詩等이 모도 此의 系統이러라.
+(五) 長篇 은 三代目體의 進步된것이라 四四調의 音數로서 八字一韻脚을 作한것이니 舖頭가 巨創하고 排備가 張皇하야 限量업시 長文으로된것이라 三國史記奚論傳 實勞傳等에잇는 長歌 高麗吳世材의 歷代歌 李朝에와서는 不憂軒集의 賞春曲 松江의 思美人曲 蘆溪集의 船上歎 金擬岩集의 花柳詞 秋風感別曲等其數는 多하야 이로 枚擧키 未遑하다.
+(六) 時調 는高麗中葉으로부터 發生한것으로서 八字六句의 短篇이라 希臘라포소드 六脚體와 防備하고 孤松遺稿의 例가티 二句를 漢詩一句로 譯하면 唐詞의 感恩多 浣＜168＞溪沙等의 三句體에 比하기 可하니라 이는 李朝中宗時代前後로 發達하야 크게 流行하니 그 時調를 聚集한것은 張友璧의 歌集 吳熹常의 海友歌謠 金子益의 鄭歌律體 安玟英의 海東樂章等이 有名하니라.
+(三) 旋律과 樂節
+歌詩는 音樂的表白에 伴하야 其價値가 完全히 發現되는것이라 故로 今에 歌詩를 典實히 工究하자면 旋律과 樂節을 比準함이 可하니 그것을말하자면 調葉腔曲 節奏等 五條目이 大頭腦로알것이니라.
+(一) 調는 音의 高低를 變更하야 作曲된것을 謂함이니 그는 五音宮商角徵羽의 音階上廣狹의 差異를 準據하야 平調界面調二旋法이잇나니
+平調音階 宮○○羽○徵○角○○商○宮
+界面調音階 宮○羽○○徵○角○商○○宮
+○一은 一段으로서 普通間隔이오 ○○二는 一段半으로서 少廣한 間隔이라 이間隔變更되는 理致는 樂理問題라 故로 今에는 此를 略하니 아직은 二調의 音階差異만 眼標함이 足하니라.
+(二) 葉은 旋律의 短小함을 謂함이니 古者에는 歌音의 上下를 草木의 柯葉에 比함이잇스니 劉怒의 釋名에 人聲日歌歌柯也所歌之言見其質也以聲吟咏有上下如草木之有柯葉也라함이 此라 그런데 一樂節을 葉이라하매 歌一篇을 一葉又五葉六葉等으로 樂節을 區分함이잇나니라.
+(三) 腔 旋律의 全長을 謂함이라 腔을거푸함에는 前腔 中腔 後腔의 三同으로치기도하나니 眞勺 北殿等이 其例라 그런데 歌와 樂器를 合奏할 時에 腔이던지 葉이던지 或時樂節에 至하야 歌를 停止하고 樂器만 奏함이잇스니 이를 餘音이라하나니라.
+(四) 曲은 歌의 中篇을 組合하야 一篇을 作한것이니 그 衆篇을 套數라하는지라 一曲의 套數는 限이업스니 近來歌曲이란것은 二十四套數로 成한것이 매 此를 일闕이라하나니라.
+(五) 節奏 歌法에 가장 重要히치는것은 拍子라 이拍子는 兩手로 膝을 打함이 普通이나 原法은 杖䜵로써 歌聲進行을 整齊하는것이라 其節奏는 何種의 歌던지 慢中數(삭) 三機에 分하니 最初는 徐緩하다가 中間에서는조곰 速하고 最後에는 急促하야모라치는것이니 拙者의 論文佛敎六十三號를 參照하라.
+(四) 歌詩와 民族性
+終末에 磨勘으로 一言할것은 民族性의 係關이라 大體歌詩는 民族心像의 畵本에매처잇는 精神이 果然如何한가함을 探知코자함은 未賞不喫緊의 事라할지라.
+朝鮮人의 性格은 本來溫順한것이 特徵이라 物에 比하면 水晶가티 透明치도안코 石塊가티 暗濁치도안타 卽美玉가＜169＞티 溫潤의 光과 淸淨한 相이라 漢人의 詩는 複雜한 廉과 韻이잇고 日本詩는 單調의 排句로서 突發的感情語가 多하다 그러나 朝鮮人의 歌詩는 本性의 溫潤함에 因하야 極端味가업시 自然的의 純平한 味가잇스니 音數는 四四調로서 八字를 用하매 이는 生理上呼吸의 强弱인 天然的口拍子로나온것이오 內容은 極히 樂天的情性을 描寫함이 一手니라.
+그樂天的의 風味가잇슴은 卽玉光가티 圓融한 情性이 物我一體의 平等思想을 發揮함이라 그런데 그 先天的의 平等思想은 外觀的事物의 支障으로써 더욱더욱 絶對的平等을 要求키 爲하야 不平을 呼하며 浮動的으로나감이업지못하다 故로 一般古藝術은 漢人가티 形美나 日本人처럼 色美도안이라 오직 線美가잇스니 線이란것은 一點에서 他點에 向往하는 狀態라 卽 活動도안이오 沈靜도안이오 거시기 浮動的이라 한 歌詩를 唱하는 音調는 一體로 哀怨聲을 帶한지라 이 悲調의 歌聲과 浮動的 藝術美는 凄凉한 落望이안이오 無秩序한 散亂도안이라 透徹히 平等界에 到達코자하는 波動狀態라 보건대 文學의 進步는 不平의 矯激狂亂이 起하여야 新理想境을 建設하는것이니 故로 朝鮮人의 文學은 純全한 平等의 運動으로서 前途가 活大코 洋洋타하노라.(完)＜170＞
+＜166-170＞

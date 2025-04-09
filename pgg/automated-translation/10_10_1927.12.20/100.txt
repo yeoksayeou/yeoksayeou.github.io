@@ -1,0 +1,42 @@
+Magazine Title: 別건곤 第10號
+Publication Date: 1927년 12월 20일 (December 20, 1927)
+Article Title: 선술집에서 본 돈 경향, 今年一年 朝鮮사람의 生活은 엇더하엿나, 여러 方面으로 모아 본 昨年과 今年의 比較 (Money Trends Seen from a Tavern, How Was the Life of Koreans This Year? A Comparison of Last Year and This Year from Various Perspectives)
+Author: 酒店業 黃昌煥 (Hwang Chang-hwan, Tavern Owner)
+Article Type: 회고·수기 (Reminiscence/Personal Essay)
+
+The average daily sales at my place last year were at least 60 or 70 won, and often exceeded 100 won. It sold very well.
+
+This year, it's nothing like that. The most I sell in a day is about 60 or 70 won, which is like the low days of last year. My income has definitely decreased by a third.
+
+If a tavern's income decreases, it's obviously because fewer customers are coming, and if fewer customers are coming, it must be due to some reason, such as the taste of the liquor being worse than before, the side dishes not being as good, or the service being less friendly. But as customers who have visited know, nothing is worse than before, it's actually better. So, why is the income decreasing? That's the question.
+
+The lives of us Koreans, except for the wealthy, are mostly filled with suffering and troubles, aren't they? "Let's have a drink and forget it." It's easy to fall into that. If people like that increase, no matter what happens to society or the world, it might seem like only the tavern owner's pockets will get fatter like looting a burning house, but in reality, the difference between last year and this year is so great. Who knows if next year will be even worse? Unless something changes, there's nothing we can do.
+
+I don't know if the number of people saying, "Let's just drink and forget everything," has increased, but it's a fact that their wallets have shrunk even more, so they don't even have the money for a drink, and they have to cut back from two drinks to one to save money. On top of that, even if they can't do anything else, the number of taverns is increasing while the number of customers is decreasing, so naturally, the income will decrease.
+
+Looking at the year as a whole, the fall season is the best for business, and looking at the day, the evening is the busiest. However, as our general living conditions deteriorate, my business is greatly affected. How should we live? It's truly a pitiful situation. <158>
+
+**Named Entities**
+
+黃昌煥	Hwang Chang-hwan
+朝鮮	Chosŏn
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제10호
+발행일	1927년 12월 20일
+기사제목	선술집에서 본 돈 경향, 今年一年 朝鮮사람의 生活은 엇더하엿나, 여러 方面으로 모아 본 昨年과 今年의 比較
+필자	酒店業 黃昌煥
+기사형태	회고·수기
+
+선술집에서 본 돈 경향, 今年一年 朝鮮사람의 生活은 엇더하엿나, 여러 方面으로 모아 본 昨年과 今年의 比較
+						酒店業 黃昌煥
+하로에 적어도 60원 70원 만흐면 백원이 훨신 넘엇던 것이 우리집에서 판 작년 평균통게엿슴니다. 무던히 팔린 가격이지요.
+금년에는 어림도 업슴니다. 하로에 만히 팔려야 작년 적게 팔리던 날만큼 되야 한 6, 70원 가량밧게 아니됨니다. 그저 확실히 3분 1은 수입이 준 셈임니다.
+술집에서 수입이 줄엇다하면 물론 손님이 덜드시닛가 그러코 손님 덜드는 것은 술맛이 전보다 낫버젓다거나 안주준비가 전만 못하다거나 혹은 손님대접이 전보다 불친절하다거나 무슨 원인이 잇던지 반드시 원인이 잇기는 잇슬 것이라고 추측하시겟지요. 그러나 와보신 손님은 다 아시겟지만 족금도 전보다 나으면 나엇지 못하게 하는 것은 하나도 업슴니다. 그러면 엇재서 수입이 주느냐? 그게 의문임니다.
+우리 조선사람의 생활이라는 것이 돈 만흔 사람은 말할 것 업지만 대개는 고통과 번뢰로 지내지 안습닛가. 『에라 한잔먹고 니저버리자.』 깟닥하면 그러케 되기쉽지요. 그러는 사람이 는다면 사회야 엇더케 되던지 세상이야 엇잿던지 하여간 불난데 도적질하랴는 셈으로 술장사의 호주머니밧게 살찔 것이 업슬 것 갓지만 사실에 잇서서는 요러케도 작년과 금년이 틀너 넘어 갑니다그려. 명년에 가서는 요보다도 더 틀닐넌지 누가 압닛가. 딴수가 생기기 전에는 별수 업지요.
+『술이나 먹자. 그리고 다 니저버리자.』 하는 패가 늘으섯슬는지는 모릅니다마는 그 소리보다 호주머니가 더 줄어든 것만은 사실이어서 그나마도 한잔 기우릴 힘이 업고 전에 두잔 먹든 것을 주려서 한잔으로 절약하지 안이하면 안될 엇절수 업는 사정에 박도한 까닭, 게다가 다른건 못하여도 선술집은 작고 느니 손님은 주는데다가 겹처서 길이 갈리게 되니 자연히 수입이 적어지지 안켓서요.
+1년을 두고 보면 가을머리가 제일 시세가 낫고 하로로 보면 저녁때가 제일 복잡한데 하여간 우리 일반의 살림살이가 궁해오닛간 내 영업가지 영향이 이러케 큼니다그려. 엇더케 살어야 올습닛가. 참 딱한 일이여요.<158>

@@ -1,0 +1,56 @@
+잡지명	別乾坤 第2號
+발행일	1926년 12월 01일
+기사제목	夫婦者와 獨身者 死亡數, 北歐瑞典 나라의 興味 잇는 調査, 각 千人의 死亡數 (Mortality Rates of Married and Single People: An Interesting Study from Sweden, Each per Thousand)
+기사형태	雜著 (Miscellaneous Essay)
+
+Mortality Rates of Married and Single People: An Interesting Study from Sweden, Each per Thousand
+Age Group 30
+Single - Men 9.2, Women 6.4, Married - Men 4.9, Women 6.3, Difficult to Marry/Widowed - Men 8.9, Women 10.2
+Age Group 40
+Single - Men 14.7, Women 8.1, Married - Men 7.4, Women 7.9, Difficult to Marry/Widowed - Men 12.9, Women 9.5
+Age Group 50
+Single - Men 22.7, Women 12.2, Married - Men 11.7, Women 9.0, Difficult to Marry/Widowed - Men 17.3, Women 11.9
+Age Group 60
+Single - Men 37.2, Women 23.2, Married - Men 22.1, Women 17.2, Difficult to Marry/Widowed - Men 29.5, Women 21.2 <109>
+
+**Summary**
+
+This article from 1926 presents mortality statistics from Sweden, comparing death rates per thousand people across different age groups (30s, 40s, 50s, 60s) for single, married, and "difficult to marry/widowed" individuals, broken down by gender. The data consistently shows that married individuals generally have lower mortality rates than single or "difficult to marry/widowed" individuals, particularly among men.
+
+The article highlights the social and perhaps economic pressures of the time, reflected in the separate category for those "difficult to marry/widowed," suggesting societal concerns about marital status and its impact on well-being. The relative statistical detail, though from a foreign country, hints at an increasing interest in quantitative social science and public health within Korean intellectual circles.
+
+**Named Entities**
+
+北歐瑞典	북구 스웨덴	Pukku Sŭweden
+
+**Glossary**
+
+夫婦者	부부자	Married person
+獨身者	독신자	Single person
+死亡數	사망수	Mortality rate, number of deaths
+興味	흥미	Interest
+調査	조사	Investigation, study
+年齢階級	연령계급	Age group, age bracket
+難婚者	난혼자	Person difficult to marry, hard to marry person
+寡者	과자	Widow/Widower
+잇는	있는	(Older form of 있는) Existing, being
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제2호
+발행일	1926년 12월 01일
+기사제목	夫婦者와 獨身者 死亡數, 北歐瑞典 나라의 興味 잇는 調査, 각 千人의 死亡數
+기사형태	잡저
+
+夫婦者와 獨身者 死亡數, 北歐瑞典 나라의 興味 잇는 調査, 각 千人의 死亡數
+30세 연령계급
+독신자-남 9.2인, 여 6.4인, 결혼자-남 4.9인, 여 6.3인, 難婚者 鯄寡者-남 8.9인, 여 10.2인
+40세 연령계급
+독신자-남 14.7인, 여 8.1인, 결혼자-남 7.4인, 여 7.9인, 難婚者 鯄寡者-남 12.9인, 여 9.5인
+50세 연령계급
+독신자-남 22.7인, 여 12.2인, 결혼자-남 11.7인, 여 9.0인, 難婚者 鯄寡者-남 17.3인, 여 11.9인
+60세 연령계급
+독신자-남 37.2인, 여 23.2인, 결혼자-남 22.1인, 여 17.2인, 難婚者 鯄寡者-남 29.5인, 여 21.2인＜109＞

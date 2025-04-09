@@ -1,0 +1,123 @@
+64	230	A Paradise for Women Who Control Men at Will, Recently Discovered in Africa		Miscellaneous Article
+64	240	Movies		Literary Miscellaneous
+64	250	Feature-Length Children's Story, Aryŏn's Adventure	Yŏn Sŏng-hŭm	Novel
+64	260	The Mailbox and the Beggar	Yun Sŏk-chung	Poem
+64	270	Science, How Are Rice Cakes and Cooked Rice Different?	Samsanin	Miscellaneous Article
+64	280	Kaleidoscope		Miscellaneous Article
+64	290	Record of a Lucky Dash in Love Affairs (Comic Talk)	Kŭmnŭngin	Play/Scenario
+64	300	Humor Novel, The Fat Female Teacher's Heartbreak	Yi Abu	Novel
+64	310	Humor Short Story, Telephone Number 4471	Ch'oe Kong-wŏn (Munso)	Novel
+64	320	First Prize Winning Popular Songs		Announcement/Editorial Note
+64	330	(Comic Essay) Caricature	Sin Kyŏng-sun	Novel
+64	340	Tragic Love Elegy (2)	Pak Sang-yŏp	Novel
+64	350	The Demonic Nature of a Fiancée	Ch'oe Yu-bŏm	Novel
+64	360	Readers' Club		Announcement/Editorial Note
+64	370	Remaining Ink		Announcement/Editorial Note
+65	010	Matter and Mind, Random Thoughts (Part 4)	Yi Kwang-su	Editorial/Commentary
+65	020	International Trends	Kim Hyŏng-chun	Editorial/Commentary
+65	030	Anecdotes from Four Thousand Years of History, Secret Stories of the Injo Restoration, Three Great Heroines Amidst the Restoration Turmoil	Such'unsanin	Literary Miscellaneous
+65	031	The Imjin War and the Japanese Army		Miscellaneous Article
+65	040	Number of Counties and Households During the Era of the Four Commanderies of Chosŏn		Miscellaneous Article
+65	050	Science, Do Airplanes Literally Fly Like Birds?, Interesting Theories About Airplanes and Birds		News/Information
+65	060	World's First Collection		Miscellaneous Article
+65	070	The Corroding Cultural City!! Great Kyŏngsŏng's Headache, An Analysis of the Streets' "Gangs," the Three Major Violent Groups	Mamyŏnsaeng	Social Commentary
+65	080	The Corroding Cultural City!! Great Kyŏngsŏng's Headache, Culture Possessed by Goblins, This Rotting Scene and That	Ko Yŏng-han	Social Commentary
+65	090	The Public's Demands Regarding Newspapers	Yi Sŏk-hun	Miscellaneous Article
+65	100	Newspaper Reporter's Confession	An Sŏk-chu	Memoir/Reminiscence
+65	110	Kŭmgang Love Story, Butterfly and Lily of the Valley	Kŭmnŭngin	Literary Miscellaneous
+65	120	Extra's Extra		Social Commentary
+65	130	Kaleidoscope		News/Information
+65	140	The Invisible Man, Universal Pictures Film, Shin		News/Information
+65	150	Ever in my heart, Souls in Accord, Warner Brothers Film, Shin		News/Information
+65	160	Comic Essay, Wandering Lesson 3	Pak Yŏng-ho	Literary Miscellaneous
+65	170	Story of Paints and Dyes, Home	Engineer Yun Chu-bok	Miscellaneous Article
+65	180	Housewife's Notebook		Miscellaneous Article
+65	190	First New Popular Song Grand Prize Contest Winner Announcement		Literary Miscellaneous
+65	200	Condensed Society Section		News/Information
+65	210	Aryŏn's Adventure, Feature-Length Children's Story, Children's Section	Yŏn Sŏng-hŭm	Novel
+65	220	The Lark and the Goldfish	Yun Sŏk-chung	Poem
+65	230	This is Also Electricity	Samsanin	Miscellaneous Article
+65	240	The Sad Story of Yŏnyŏn, Who Appeared with Mysterious Spirit and Died Miserably	Kangch'on Hagin	Literary Miscellaneous
+65	250	This is How the World Is!! The Hateful Mischief of a 10-Won Bill		Miscellaneous Article
+65	260	Tragedy on the Sandy Beach	Pak Sang-yŏp	Literary Miscellaneous
+65	261	★To Provincial Readers		Announcement/Editorial Note
+65	270	Readers' Club		Announcement/Editorial Note
+65	280	The Demonic Nature of a Fiancée	Ch'oe Yu-bŏm	Novel
+65	290	Provincial Section		News/Information
+65	291	Prize Competition Question		Announcement/Editorial Note
+65	292	★How to Order Magazines		Announcement/Editorial Note
+65	300	Remaining Ink		Announcement/Editorial Note
+66	010	Random Thoughts (Part 5), Realization of Life	Yi Ton-hwa	Literary Miscellaneous
+66	020	Spring Quartet	Yi T'ae-chun, Sin Kyŏng-sun, Chang Chŏng-nyŏ, Yi Sŏn-hŭi	Literary Miscellaneous
+66	030	Dreamlike Fantasy of Tears, Cherry Blossoms of the Old Palace Ch'anggyŏngwŏn	Hong Chong-in	Literary Miscellaneous
+66	040	Spring and * and Records	Yi Sŏ-gu	Literary Miscellaneous
+66	041	(Night Cherry Blossom Scene - Ed.)		Announcement/Editorial Note
+66	050	Nonsense, Crime of a Spring Night (Alias: The Husband Who Stayed Out All Night)	Kim Yungnin	Miscellaneous Article
+66	060	Trends in the International Political Situation	Yi Ŭng-jin	Editorial/Commentary
+66	070	Economic Current Affairs Commentary, The Chosŏn Rice Control Problem, How Was This Contentious Issue Finally Decided?	Sin T'ae-ik	News/Information
+66	080	Animal Communication Methods	Reporter A	Miscellaneous Article
+66	090	Short Knowledge Section		Miscellaneous Article
+66	100	Humor Novel, Kiss-Betting Hwatu	Yi Abu	Novel
+66	110	Popular Song Second Round Winner Announcement		Literary Miscellaneous
+66	120	Condensed Society Section		News/Information
+66	130	True Story, Love and Desire Across 100,000 Li!! Sequel to Yŏnyŏn's Sad Story	Kangch'on Hagin	Literary Miscellaneous
+66	140	SOS from Great Kyŏngsŏng	Nakt'aengsaeng	Social Commentary
+66	150	Secrets of the Broadcasting Room	Yi Sŏk-hun	Memoir/Reminiscence
+66	160	Kaleidoscope		News/Information
+66	170	Home, Child Care Precautions for This Time	Director of Provincial Pediatrics Yi Sŏn-gŭn	Miscellaneous Article
+66	180	Home Notebook		Miscellaneous Article
+66	190	Movies Paramount Pictures Film		News/Information
+66	200	Pirate Romance, Horizon of Passionate Flames	Pak Yŏng-ho	Novel
+66	210	Children's Story, The Strange Palace (Continuation of "The Strange Lamp")	Chŏng Sŏng-hŭm	Novel
+66	220	Children's Song, Moonlit Night	Yun Sŏk-chung Trans.	Poem
+66	230	Science, Humans and Monkeys	Samsanin	Miscellaneous Article
+66	240	Grandfather's Great Embarrassment		Comic/Cartoon
+66	250	Traditional Strange Tale, The World's Hero Yang Su-sim	XYZ	Literary Miscellaneous
+66	260	True Story, Strange Family Tale	Sin Kyŏng-sun	News/Information
+66	270	European Royal Court Jewel Theft Incident	Pak Sang-yŏp	News/Information
+66	280	Correction Notice	Pyŏlgŏngon Editorial Department	Announcement/Editorial Note
+66	290	Detective Novel, Who Killed Him!!	Ch'oe Yu-bŏm	Novel
+66	300	Readers' Club		Announcement/Editorial Note
+66	301	Prize Competition Question		Announcement/Editorial Note
+66	310	Remaining Ink		Announcement/Editorial Note
+67	010	Random Thoughts (Part 6) The True Man's Fight	Cho Ki-gan	Literary Miscellaneous
+67	020	The World 100 Years Later, What Will Transportation Be Like?	Transatlantic female aviator Amelia Earhart	Survey/Symposium
+67	030	The World 100 Years Later, What Will the Economy Be Like?	Economist Stuart Chase	Survey/Symposium
+67	040	The World 100 Years Later, What Will the Family System Be Like?	Social scientist Bertrand Russell	Survey/Symposium
+67	050	The World 100 Years Later, What Will Romance Be Like?	Psychologist Alfred Adler	Survey/Symposium
+67	051	(Untitled - Ed.)		Announcement/Editorial Note
+67	060	The World 100 Years Later, What Will Science Be Like?	British Scientist J. S. Huxley	Survey/Symposium
+67	070	The World 100 Years Later, What Will Clothing Be Like?	Paris's Foremost Couturier Gabrielle Chanel	Survey/Symposium
+67	071	New Theory Kaebyŏk Branch Office		Announcement/Editorial Note
+67	080	World Trends	Yi Ŭng-jin	News/Information
+67	090	Inside Story of the Kongmyŏngdan Incident Activities	Chungang Ilbo Ch'oe Mun-u	Memoir/Reminiscence
+67	100	Inside Story of the Kando Communist Party Incident Activities	Tong-a Ilbo Kim Chŏng-sil	Memoir/Reminiscence
+67	110	Flowers Fall and What Comes Next, Comic Essay and Caricature	Ch'oe Yŏng-su	Miscellaneous Article
+67	120	Flowing Life, Comic Essay	Kŭmnŭngin	Literary Miscellaneous
+67	130	Address and Name of the Thief, Comic Essay	Sŏk Mun-yang	Literary Miscellaneous
+67	140	Yearning Cradle, Popular Song Contest 3rd Round Announcement, 1st Place Selection	Chaeryŏng Chŏng Hŭng-p'il	Poem
+67	150	Shedding Tears, Popular Song Contest 3rd Round Announcement, 2nd Place Selection	Sinch'ŏn Kang Sŭng-han	Poem
+67	160	Finishing the Announcement	Kaebyŏksa Editorial Department Regards	Literary Criticism
+67	170	5th "New Popular Song" Grand Prize Contest Call for Entries!!		Announcement/Editorial Note
+67	180	I Brace Myself for Hell, Professional Confessions (2), Doctor's Confession	DTK	Literary Miscellaneous
+67	190	Fragrant Soul at Sword's Point, Sad Story of Concubine Yu, Collection of Love Stories of Three Beauties	A. XYZ	Literary Miscellaneous
+67	200	Kaleidoscope		News/Information
+67	210	[The upcoming July issue will be the 15th Anniversary Commemorative Issue...]	Kaebyŏksa	Announcement/Editorial Note
+67	220	Regimen During Pregnancy, A Reader for Pregnant Women	Kyŏngsŏng Univ. Obstetrics & Gynecology Yun T'ae-kwŏn	Miscellaneous Article
+67	230	Home Notebook		Miscellaneous Article
+67	240	Put Your Newborn to Sleep Like This.	Miso Saeng	Miscellaneous Article
+67	250	Revealing the Secret to Business Success Anyone Can Achieve in Chosŏn		Miscellaneous Article
+67	260	United Artists Film "Great Life", Film Section		Literary Miscellaneous
+67	270	First National Film, The World Moves On		Literary Miscellaneous
+67	271	New Theory Kaebyŏk Branch Office		Announcement/Editorial Note
+67	280	The Moved Palace, Children's Story	Yŏn Sŏng-hŭm	Novel
+67	290	The Lark's Village	Yŏngdong	Poem
+67	300	Ant Story, What Kind of Bug Is It and Where Does It Come From?		Miscellaneous Article
+67	310	Victim of a Jealous Woman	Pak Sang-yŏp	Miscellaneous Article
+67	320	Trial of the Cannibalism Case	Sin Kyŏng-sun	Memoir/Reminiscence
+67	330	Readers' Club		Announcement/Editorial Note
+67	340	Eccentric Schemer, Rare Character of the Age: Kim Pong-i	Kim Chin-gu	Literary Miscellaneous
+67	350	Night-Luminous Pearl in Human Flesh, Detective Novel	Ch'oe Yu-bŏm	Novel
+67	360	Special Notice		Announcement/Editorial Note
+67	361	Prize Competition Question		Announcement/Editorial Note
+67	370	Remaining Ink		Announcement/Editorial Note

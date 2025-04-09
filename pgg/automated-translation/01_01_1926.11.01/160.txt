@@ -1,0 +1,76 @@
+Magazine Title: 별건곤 제1호
+Publication Date: 1926년 11월 01일
+Article Title: 統計室 (Statistics Room)
+Author: Not specified
+Article Type: 소식 (News/Report)
+
+Statistics Room
+
+As of the end of last year, the area of cultivated land in Chosŏn consisted of 1,563,736 *chŏng* (町) of paddy fields (畓) and 2,784,618 *chŏng* of dry fields (田), totaling 4,348,354 *chŏng*. Breaking this down further into owner-cultivated and tenant-farmed land, owner-cultivated paddy fields amount to 548,208 *chŏng* and tenant-farmed paddy fields 1,015,527 *chŏng*, while owner-cultivated dry fields total 1,601,417 *chŏng* and tenant-farmed dry fields 1,183,200 *chŏngbo* (町步). This means that for dry fields, which produce less valuable crops, owner-cultivated and tenant-farmed land are roughly half and half, whereas for paddy fields, which produce the best rice, landlord ownership accounts for approximately two-thirds.
+
+As is generally known, the total area of Chosŏn is 143,120,004 square *ri* (方里) (a square *ri*, of course, refers to an area one *ri* on each side), divided into 13 administrative districts. However, these divisions vary greatly in size; Hamgyŏng North (咸北) Province, for example, occupies 2,073 square *ri* as a single province, while Ch'ungch'ŏng South (忠南) is merely 481 square *ri*. Furthermore, as of today, the administrative divisions across Chosŏn consist of 12 *pu* (府 - cities), 2 *to* (島 - islands), 218 *kun* (郡 - counties), 2,504 *myŏn* (面 - townships), and 28,300 *tong* (洞) and *ri* (里 - villages/neighborhoods). While knowing the number of *tong* and *ri* might not be necessary, the number of *pu*, *kun*, and *myŏn* is worth remembering as general knowledge.
+
+Regarding Chosŏn's total area of 14,312 square *ri* (Note: discrepancy with 143,120,004 earlier seems likely a typo in original, possibly missing 만?), breaking it down by land composition reveals: forest and fields (임야) cover 15,883,000 *chŏng*, cultivated land (경지) 4,348,344 *chŏng*, miscellaneous land (雜地) 2,053,000 *chŏng*, and uncultivated land (未墾地) approximately 70,000 *chŏngbo* (町步). Comparing this to the total area, forests and fields make up 91.4%, paddy fields 7% (i.e., seven percent), dry fields 12.4%, and miscellaneous land 9.2%. The average cultivated land area per farming household (농가) is 1 *chŏng* 6 *tan* (段), which is 5 *tan* more than Japan's 1 *chŏng* 1 *tan*. However, looking at the actual situation of farming households today, as of the end of last year, out of 2,693,241 Korean farming households, 1,135,244 are tenant farmers (소작농) and impoverished farmers (窮農) who, far from having 1 *chŏng* 1 *tanbo* (町步), do not even possess enough land to stick an awl into.
+
+So, what is the state of agriculture in Chosŏn? First, looking at the number of farming households, there are 2,731,177 Korean (조선인) households with a population of 14,601,269 people, and 9,483 non-Korean (非조선인) households with a population of 39,560 people. Second, looking at land tenure, there are 103,567 landlords (지주), 544,536 owner-cultivators (자작농), 910,178 owner-tenant farmers (자작 겸 소작농), and 1,184,422 tenant farmers (소작농). From this, one can immediately perceive that nearly 40,000 non-Koreans are involved in agriculture within Chosŏn, and above all, that tenant farmers are the most numerous. <92>
+
+**Summary**
+
+This article from 1926 presents statistics on land use and agricultural demographics in colonial Korea. It details the total area, breakdowns by land type (paddy, dry field, forest, etc.), and administrative divisions. Critically, it highlights land tenure, revealing that while dry fields were roughly evenly split between owner-cultivators and tenants, two-thirds of the more valuable rice paddies were tenant-farmed. It notes that while the average Korean farm size was slightly larger than in Japan, a vast number of Korean farmers (over 1.1 million households) were landless tenants or extremely poor farmers. The presence of nearly 40,000 non-Korean farmers (presumably Japanese) is also mentioned. For historians, this article provides valuable contemporary data illustrating the high degree of land concentration, widespread tenancy (especially for profitable rice land), and rural poverty characteristic of the colonial period, offering a stark statistical picture of the agricultural economy and social structure under Japanese rule.
+
+**Named Entities**
+
+조선	조선	Chosŏn
+咸北	함북	Hamgyŏng Pukto (Hamgyŏng North)
+忠南	충남	Ch'ungch'ŏng Namdo (Ch'ungch'ŏng South)
+일본	일본	Ilbon (Japan)
+
+**Glossary**
+
+統計室	통계실	Statistics Room
+畓	답	Paddy field (for rice cultivation)
+田	전	Dry field (for other crops)
+町	정	Chŏng (Unit of area, approx. 0.99 hectares or 2.45 acres)
+町步	정보	Chŏngbo (Same as 町, unit of area)
+자작	자작	Owner-cultivation; cultivating one's own land
+소작	소작	Tenant farming; cultivating rented land
+지주	지주	Landlord
+占持	점지	To occupy and hold; possess (older usage)
+方里	방리	Square *ri* (Unit of area, 1 *ri* ≈ 393m)
+府	부	Pu (Administrative unit: city/urban prefecture)
+郡	군	Kun (Administrative unit: county)
+面	면	Myŏn (Administrative unit: township)
+洞	동	Tong (Administrative unit: neighborhood/village subdivision)
+里	리	Ri (Administrative unit: village)
+임야	임야	Forests and fields
+경지	경지	Cultivated land; arable land
+雜地	잡지	Miscellaneous land
+未墾地	미간지	Uncultivated land; wasteland
+段	단	Tan (Unit of area, 1/10th of a 町/町步)
+농가	농가	Farming household
+戶數	호수	Number of households
+窮農	궁농	Impoverished farmer
+조선인	조선인	Korean person/people
+非조선인	비조선인	Non-Korean person/people
+내이는	내는	(Older spelling/form) Producing; yielding
+조흔	좋은	(Older spelling/form) Good
+가티	같이	(Older spelling/form) Like; as
+논핫는데	논하는데	(Older spelling/form) Discussing; dividing
+잇다	있다	(Older spelling/form) To exist; to be
+만타	많다	(Older spelling/form) To be many; numerous
+
+
+---------------------------
+
+
+잡지명	별건곤 제1호
+발행일	1926년 11월 01일
+기사제목	統計室
+기사형태	소식
+
+統計室
+작년말 현재의 조선 경지면적은 畓이 1,563,736町이요 田이 2,784,618町으로서 합계4,348,354町이며 이것을 다시 자작지와 소작지로써 분간하면 畓에 자작이 548,208町 소작이 1,015,527町이며 田에 자작이 1,601,417정 소작이 1,183,200町步인 바 말하면 변변치 못한 곡식을 내이는 田에는 자작 소작이 대략 반部 반部인 셈이나 제일 조흔 쌀을 내는 畓에는 지주의 소유가 약 3분의 2를 占持한 것이다.
+일반이 아는 바와 가티 조선의 총면적은 143,12萬4里(1方里라 함은 물론 四方1里를 指함이다)로서 이것을 13의 행정구획으로 논핫는데 그 분획이 大小不一하야 咸北 가튼 道는 1道로 2,073方里를 점함에 不拘하고 忠南은 單 481方里에 불과하며 그리고 오늘 현재의 전 朝鮮府郡 등의 행정 區城으로는 府가 12, 島가 2, 郡이 218, 面이 2,504 洞과 里가 28,300이다. 洞里 수까지는 모르지만 府郡面의 수까지는 우리의 상식으로 기억해 둘 필요가 잇다.
+조선 총면적 14,312方里에 대하야 다시 토지에 組成別을 보면 임야가 15,883,000町 경지가 4,348,344町 雜地가 2,053,000町 未墾地에 속한 면적이 약 7萬町步인데 이를 총면적에 대비하면 임야가 9할 1분 4리 畓이 7분(즉 百分之七) 田이 1할 2분 4리 雜地가 9분 2리이며 농가 1戶당 경지면적은 1町 6段으로서 일본의 1町 1段에 비하면 5段이 多하다. 그러나 오늘의 농가 실황을 보면 작년 말 현재로 조선인 농업자 戶數 2,693,241戶 중 1,135,244戶는 1町 1段步는 고사하고 송곳세울 땅도 갓지 못한 소작농이요 窮農이다.
+그러면 조선의 농업 형편은 엇던가. 쳣쟤 농업자 戶數를 보면 조선인이 2,731,177戶에 인구가 14,601,269人이오 非조선인이 9,483戶에 인구가 39,560人이며 둘재 자작 及 소작의 면으로 보면 지주가 103,567戶 자작농이 544,536戶 자작 겸 소작농이 910,178戶 소작농이 1,184,422戶이다. 이로보면 조선 안에 잇는 농업자 중에는 非조선인이 近 4萬人이 잇는 것과 무엇보다도 소작이 제일 만타는 것을 직감할 수가 잇다.＜92＞
+＜92＞

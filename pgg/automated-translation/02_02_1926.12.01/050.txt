@@ -1,0 +1,72 @@
+Magazine Title: 별건곤 제2호
+Publication Date: 1926년 12월 01일
+Article Title: 社告 (Company Announcement)
+Author: 개벽사 편집실 (Kaebyŏksa Editorial Office)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+社告 (Company Announcement)
+						개벽사 편집실 (Kaebyŏksa Editorial Office)
+
+Among the three major magazines published by our company, *Kaebyŏk* (개벽) has long been dead. Since it is useless to pass the time with futile lamentations and pointless tears, we decided to first publish *Pyŏlgŏn’gon* before its successor emerges, a fact well known to our esteemed readers. However, as *Sin Yŏsŏng* (新女性) will cease publication from November, we believe that its readers, with whom we have had a long and deep relationship, will naturally feel curious and regretful.
+
+Nevertheless, *Sin Yŏsŏng* is by no means dead either. Because many of its content articles overlap with *Pyŏlgŏn’gon*, we have decided to suspend publication (“休刊”) of *Sin Yŏsŏng* for the time being and merge it into *Pyŏlgŏn’gon*. We plan to edit *Pyŏlgŏn’gon* to specifically handle many articles related to women, sufficiently encompassing the content of one volume of *Sin Yŏsŏng*. Therefore, we ask previous readers of *Sin Yŏsŏng* not to be disappointed (“落望”) but to fondly read this magazine. We earnestly hope you will wait for the day when *Sin Yŏsŏng* resumes publication (“續刊”) alongside the new successor magazine to *Kaebyŏk*. <11>
+
+**Summary**
+
+This announcement from the Kaebyŏksa publishing house informs readers about changes to its magazine lineup in late 1926. It acknowledges the earlier demise of its flagship magazine, *Kaebyŏk*, and explains the decision to suspend publication of *Sin Yŏsŏng* ("New Woman"). The suspension is attributed to content overlap with the newly launched *Pyŏlgŏn’gon*. Kaebyŏksa assures readers that *Pyŏlgŏn’gon* will absorb *Sin Yŏsŏng*'s focus on women's issues and encourages *Sin Yŏsŏng* readers to subscribe to *Pyŏlgŏn’gon*, while expressing hope for the eventual revival of both *Kaebyŏk* (via a successor) and *Sin Yŏsŏng*. For historians, this text illuminates the precarious state of Korean publishing under Japanese rule, hinting at the likely forced closure of the nationalist *Kaebyŏk*. The consolidation strategy suggests economic or political pressures forcing publishers to adapt, possibly shifting focus to less controversial content while trying to retain readership and maintain a platform, however altered.
+
+**Named Entities**
+
+개벽	개벽	Kaebyŏk
+개벽사	개벽사	Kaebyŏksa
+新女性	신여성	Sin Yŏsŏng
+
+**Glossary**
+
+社告	사고	Company announcement
+개벽사	개벽사	Kaebyŏksa (name of the publishing house)
+편집실	편집실	Editorial office
+발행하던	발행하던	Used to publish (older verb form)
+죽은지	죽은 지	Since (it) died (older spacing)
+쓸데업는	쓸데없는	Useless (older spelling)
+업는	없는	Without, non-existent (older spelling)
+임으로	이므로	Because it is (older grammatical form)
+후신	후신	Successor; reincarnation
+讀者諸氏	독자 제씨	Esteemed readers (formal Sino-Korean term)
+熟知하시는	숙지하시는	Being well aware of (honorific)
+바어니와	바이거니와	As is the fact that... (older conjunction form)
+新女性	신여성	New Woman (magazine title)
+안케되야	않게 되어	Became such that it doesn't... (older spelling/grammatical form)
+깁흐신	깊으신	Deep (honorific, older spelling)
+만흐실줄	많으실 줄	Expect that there will be many (honorific, older spelling)
+밋습니다	믿습니다	Believe (older spelling)
+조차	조차	Even (particle)
+아님니다	아닙니다	Is not (older spelling)
+만음으로	많음으로	Because there are many (older spelling)
+당분간	당분간	For the time being
+休刊케	휴간케	To suspend publication (causative verb ending, older form)
+합하야	합하여	Combining (older spelling)
+만히	많이	Many, much (older spelling)
+취급하야	취급하여	Handling, dealing with (older spelling)
+하엿사오니	하였사오니	As we have done so (older polite humble ending)
+종래의	종래의	Conventional, of the past
+落望치 마시고	낙망치 마시고	Don't be disappointed and... (older negative command form)
+본지	본지	This magazine (referring to Pyŏlgŏn’gon)
+애독하여 주시며	애독하여 주시며	Please read fondly and... (request form)
+續刊케 될날을	속간케 될 날을	The day it will resume publication (older causative verb form)
+바라나이다	바라나이다	Humbly hope/wish (older polite humble ending)
+
+
+---------------------------
+
+
+잡지명	별건곤 제2호
+발행일	1926년 12월 01일
+기사제목	社告
+필자	개벽사 편집실
+기사형태	사고·편집후기
+
+社告
+						개벽사 편집실
+본사에서 발행하던 3대 잡지중, 개벽은 이미 죽은지 오래라 공연한 한탄과 쓸데업는 눈물로 세월을 보내는 것도 소용이 업는 일임으로 그의 후신이 나오기 전에 먼저 별건곤을 발행하기로 한 것은 讀者諸氏의 熟知하시는 바어니와 『新女性』이 11월부터 나오지 안케되야 오래동안 인연이 깁흐신 그의 독자 여러분으로서는 응당궁금하고 섭섭히 아심이 만흐실줄 밋습니다.
+그러나 신여성조차 죽은 것은 결코 아님니다. 내용기사가 별건곤과 서로 저촉되는 점이 만음으로 당분간, 신여성을 休刊케 하고 별건곤에 합하야 특별히 여자에 관한 기사를 만히 취급하야 신여성 1권의 내용을 넉넉히 포함할 만큼 편집하기로 하엿사오니 종래의 신여성 독자도 落望치 마시고 본지를 애독하여 주시며 다시 개벽 후신의 신잡지와 함께 신여성의 續刊케 될날을 기다려주시기 간절히 바라나이다.＜11＞

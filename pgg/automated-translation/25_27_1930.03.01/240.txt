@@ -1,0 +1,33 @@
+잡지명	別乾坤 제27호
+발행일	1930년 03월 01일
+기사제목	名案 (A Good Idea)
+기사형태	잡저 (Miscellany)
+
+"Where is the inn you moved to this time?"
+
+"It's at Jongno 2-chome, number 12, right by the streetcar tracks."
+
+"Isn't it noisy with the streetcar?"
+
+"At first, it's loud, but after 4 or 5 days, you don't even notice it, the owner's wife says. So, I'm planning to stay at my aunt's house for about 4 or 5 days and then move!" <57>
+
+**Named Entities**
+
+鍾路  Chongno
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제27호
+발행일	1930년 03월 01일
+기사제목	名案
+기사형태	잡저
+
+名案
+A 「이번에 옴긴 여관은 어듼가.」
+B 「鍾路 2町目 12번지 바로 전차길가일세.」
+A 「전차소리에 시끄럽지 안은가.」
+B 「멀 처음에는 요란해도 4,5일만 지나면 아무럿치도 안타고 주인마누라가 그러데. 그래 나는 한 4,5일 동안만 숙모댁에 잇다 옴기겟네!」＜57＞
+＜57＞

@@ -1,0 +1,158 @@
+Magazine Title	別件坤 제29호
+Publication Date	1930년 06월 01일
+Article Title	家庭應用 電氣常識(一) (Home Application Electrical Common Sense (1))
+Author	尹柱福 (Yun Ju-bok)
+Article Type	雜著 (Miscellany)
+
+I. Introduction
+
+The 20th century can be called the era of electrical omnipotence. Electricity is used in every aspect, and if we were to remove electricity from modern cultural facilities, the wreckage would be indescribably miserable.
+
+What was once the instrument of heavenly punishment, lightning, was conquered as a possession of mankind, thanks to the astonishing progress of scientific knowledge. As it became used for telephones, telegraphs, and electric lights, the area of the earth shrunk, and the authority of the sun was diminished. In recent days, due to inventions such as radio (wireless telephone), electric phonographs, and television (wireless transmission of moving pictures), electricity exerts an even greater influence on modern cultural life.
+
+Now, a country's electricity consumption and the skill of its electrical utilization even indicate the civilization or barbarity, the development or lack thereof, of that country's society.
+
+Then, what about our Korea? Until several years ago, the amount of electricity generated was small, and it was mostly unfavorable thermal power generation economically. It was despaired that favorable hydroelectricity was utterly unattainable in Korea due to its geography, and nature was resented to an extreme degree. However, in recent years, it has been realized that not only is hydroelectric power generation possible, but its power generation capacity is truly the largest in the Orient. The electrical industry has suddenly become invigorated. On the one hand, due to the lowering of electricity prices and the import of electrical appliances, we can use most electrical appliances today, except for a few special ones.
+
+However, how much specialized knowledge—let alone common sense knowledge—do we have about electricity, which makes such a great contribution to cultural advancement and has such a close relationship with our daily lives?
+
+When a gentleman or lady who has proudly graduated from middle school becomes the head of a household, their level of electrical knowledge is so infantile that it is questionable whether they really learned physics in middle school. This ignorance in the field of electricity is a fact.
+
+Suppose the fuse blows in a house that uses electric lights. Let's set aside the knowledge of the cause of why it blew. How many people can handle the emergency on the spot? Or, how is the electricity bill calculated? How much electricity is consumed? Or, how many people can understand how to use the same amount of electricity most economically?
+
+At least, so-called intellectuals who have studied electricity in physics for a considerable amount of time in middle school still look at electricity, which is universally used throughout the world, as something novel. How embarrassing is that!
+
+Of course, there are defects in the modern education system, which wastes time on empty theories and abstract discussions, but on the other hand, isn't it because we lack the passion for research and the power of thought about things?
+
+II. What is Electricity?
+
+Electricity is a force generated when two objects are rubbed together. Its true nature cannot yet be specifically explained, but just as there are men and women in humans, there are two types of electricity: positive and negative. Positive electricity is masculine and active, while negative electricity is feminine and passive. Positive and negative electricity, and negative and positive electricity, long for each other and have an attractive force. This attraction phenomenon is similar to the relationship between male and female in the animal kingdom, and between men and women in humans, forming a kind of love phenomenon. Positive and positive electricity, or negative and negative electricity—that is, between the same sex—have no compromise, but are absolutely exclusive. Their jealousy is beyond comparison to human jealousy. Furthermore, the feeling of love between opposite sexes and the exclusiveness between the same sex are so extremely absolute that they make humans, who compromise with matter and are influenced by the environment, blush.
+
+All of electricity's power is activated with this attraction between opposite sexes and repulsion between the same sex as the center, just as the issue of sex in human society is the most important. In the electricity society, everything is activated with this sex issue as the central axis.
+
+The flow of electricity is called electric current. The ease with which electricity flows depends on the object in the middle. Objects that conduct electricity well are called conductors, such as metals, charcoal, salt water, seawater, rainwater, well water, living plants and animals, and cloth. Objects that do not conduct electricity are called insulators (不導體), such as oils, rubber, gems, glass, leather, earthenware, hair, wool, phosphorus, and ice below -20 degrees Celsius. In addition, there are some that conduct electricity to some extent but not very well, and these are called semiconductors (半導體), such as alcohol, paper, and dry wood.
+
+If an insulator blocks the flow of electricity, the current will be cut off, and this is called insulation (絶緣). If the electricity residing in two places is connected with a conductor, the electricity will flow, and this is called connection (連結).
+
+The shape and quality of the path through which current flows may hinder the current to some extent, and this is called resistance (抵抗). In other words, if the same current is connected with a thick iron wire, the current will flow better than if it is connected with a thin iron wire. That is, if the iron wire is thick, the resistance is less than if it is thin. Also, if the iron wire is short, the current flows better than if it is long, and this also means that if the iron wire is short, the resistance is less than if it is long. Furthermore, in terms of the quality of the wire itself, copper wire conducts electricity better than iron wire, that is, copper wire has less resistance than iron wire. The unit of this resistance is expressed in "ohms (옴)". The resistance of a mercury column with a length of 106.3 cm and a cross-sectional area of 1 mm squared at a temperature of 0 degrees Celsius is defined as "1 ohm" using mercury as the standard. The resistance gradually decreases in the order of German silver, lead, iron, platinum, gold, copper, and silver, and the resistance of copper is only 1/55th of the resistance of mercury.
+
+In addition to the resistance mentioned above, electromotive force (起電力) also affects the strength of the electric current. That is, if the resistance is the same, the strength of the electric current is determined by the electromotive force. If the electromotive force is tripled, the current is also tripled. In conclusion, the electric current is directly proportional to the electromotive force.
+
+The unit of electric current is expressed in "amperes (암페어)," the unit of resistance is expressed in "ohms (옴)," and the unit of electromotive force is expressed in "volts (볼트)." That is, to flow a current of 1 ampere in a circuit with a resistance of 1 ohm, an electromotive force of 1 volt is required.
+
+Electricity flows in the same way that water flows from high mountains to deep valleys and seas. Electricity flows from places with high electromotive force to places with low electromotive force. A high electromotive force is called high potential (電位), and a low electromotive force is called low potential (電位). Just as water flows according to the height difference of the water level, electric current flows according to the height difference of the potential. Thus, just as water flow stops when the two water surfaces are level, electric current stops when the potential becomes level.
+
+It was said that electricity always has a force that attracts opposites. If positive electricity and negative electricity are accumulated in large quantities, each with an insulating barrier in the middle, the longing between these two sexes will be extraordinary. If even a small path is created between these barriers, the electricity of the two sexes will rapidly come into contact, and a so-called neutralization reaction (中和作用) will occur, with fire igniting in an extremely short time. This fire is called a spark (火花), and such a grand neutralization is called discharge (放電).
+
+Thunder is ultimately caused by a considerable amount of electricity accumulating in the high-altitude air. This electricity is insulated by the air on clear days, but on cloudy and rainy days, the air becomes humid and conducts electricity to some extent. The large amount of electricity accumulated in the two places shakes hands with the opposite sex and causes a neutralization reaction, discharging and generating sparks.
+
+Lightning is caused by clouds accumulating electricity coming close to the ground. When the air between the ground and the cloud has insufficient insulating ability, it discharges to the opposite-sex electricity on the ground, causing a fire on the ground. This is lightning, and electricity's sweet act of love poses a great danger to humans and animals.
+
+III. The Relationship Between Electricity and Magnets
+
+A magnet is a mineral ore extracted from magnetite (磁鐵鑛) that has the property of attracting iron. When a compass is made from this, it always points north and south, so it is called a lodestone (指南石) or a compass (指南針). However, in addition to such artificial magnets (人工磁石), there is also an electromagnet (電氣磁石). If an insulated wire is wound countless times around a soft iron bar (軟鐵棒) and current is passed through this wire, the soft iron bar becomes a magnet while the current is flowing. This is called an electromagnet. It is not as convenient as an artificial magnet because the magnetic force disappears when the current is cut off. However, the fact that it becomes a magnet when current flows and immediately loses its magnetic force when the current is cut off, allowing it to release the iron it was holding, is a surprisingly important property. Telegraphs, telephones, electric bells, etc., all utilize this electromagnet.
+
+I would like to explain telegraphs, telephones, and electric bells one by one, but the paper does not permit it, so I will only talk about electric bells. An electric bell is something that rings a bell, that is, there is a bell that makes a good sound and a hammer that strikes it. After making the hammer handle attractive to magnets, an electromagnet is attached to a place where the hammer handle can easily make contact. If electricity is passed through the wire wound around this electromagnet, the electromagnet will grab the iron hammer handle. At this time, the hammer head will be bounced to the opposite side, hitting the bell. However, on the one hand, when the hammer handle that was grabbed by the electromagnet is electrified, the electricity of the electromagnet is consumed, and the electromagnet itself loses its magnetic force, releasing the iron hammer handle. By repeating this short time, the electric bell rings. Telegraphs and telephones are largely the same.
+
+IV. Heat and Light from Electricity
+
+When electric current flows through an electric wire, there is some resistance, and due to this, the "energy" of electricity is converted into heat. The amount of heat generated at this time is directly proportional to the amount of electricity consumed.
+
+The heat generated by electric current is called electric heat (電熱), and its applications are very numerous. In medicine, platinum is heated with electric current during surgical operations, and this is used to cauterize the affected area. In mines, explosives are detonated with electric heat, ensuring greater safety for human lives than with conventional methods. In homes, electric ranges are manufactured, allowing for a stylish and clean lifestyle. In addition, many cooking appliances used in the kitchen have been devised, all of which utilize electric heat. Recently, electric irons (電氣아이론) are being used quite a lot in Korean homes, and this also utilizes electric heat.
+
+As mentioned above, electric current generates heat when it flows through a part with high resistance. If it flows through a conductor with even greater resistance, it will not only generate heat but will ultimately emit bright light. This is called electric light (電光), and electric lights are one example of using this electric light.
+
+V. Direct Current, Alternating Current, and Power Generation Methods
+
+In the form in which electricity flows, electricity that flows only in a certain direction is called direct current (直流電氣), and electricity whose flow direction changes to the opposite direction momentarily is called alternating current (交流電氣). In alternating current, the time it takes for the direction to change once is called the period (週期) of the alternation, and because the strength of the current changes from moment to moment, the strength always indicates the average value.
+
+The production of electricity is called power generation (發電). Power generation methods are very complex and difficult to explain simply, but the principle is the reverse of the principle of making an electromagnet. That is, after winding wire (insulated on the surface with an insulator, of course) like a cushion, insert a soft iron bar in the middle, and the soft iron bar changes into an electromagnet when current is passed through the wire. That is, if you prepare an electromagnet separately in advance and insert it into the middle of the wire that has been wound in a circle as mentioned above, electricity will be generated in the wire at this time. However, if you just insert the electromagnet as is, the current will flow too weakly. If you rotate this electromagnet at a high speed, a strong current will flow in the wire loop surrounding the electromagnet. This electricity is drawn to the place where it is needed and used. At this time, if a steam engine or a gas engine is used as the driving force to rotate the electromagnet at high speed, this is called thermal power generation (火力發電). Using waterfalls falling from high mountains or the rapid currents of rivers is called hydroelectric power generation (水力發電).
+
+Thermal power generation relies on thermal power as its driving force, so expensive raw materials are used, and the cost of power generation eventually rises. Therefore, thermal power generation is avoided except in unavoidable circumstances, and efforts are made to utilize natural hydroelectric power. That is, hydroelectric power utilizes waterfalls or rivers, so it is influenced by natural geography, but the cost is very low. Even in places where there are no waterfalls or rivers, efforts are being made to artificially construct reservoirs and create waterfalls to obtain hydroelectric power by utilizing the falling force. Until recently, power generation in Korea relied solely on thermal power generation, but recently, by adding some human effort to the natural terrain, a fairly large-scale hydroelectric power generation has become possible.
+
+VI. Transformers and Power Transmission Methods
+
+When utilizing thermal power, power plants are established where fuel can be obtained cheaply. When generating hydroelectric power, power plants are set up near waterfalls or rivers. Naturally, power plants are located fairly far from metropolitan areas. Then, the generated power must be transported to the metropolitan areas where it is needed. This is called power transmission (送電). Of course, electricity is transmitted using electric wires, but it is very difficult to transmit a large amount of electricity from the power plant. As mentioned earlier, the longer the wire, the greater the resistance. Since the distance between the power generation site and the demand site is considerably far, this resistance is unavoidable. Not only will the electricity consumption be high, but if a large amount of electricity is to be sent, the wire must be thicker. It was said that thicker wires have less resistance than thin wires, so it is necessary to make the wire quite thick, but this cannot be infinitely thick. That is, if the wire is too thick, the current will flow in a considerably larger amount due to the lower resistance, but if the wire is too thick, the cost will be enormous, and since the wire will naturally be heavy, it will be very difficult to install.
+
+Therefore, since the power transmission distance is fixed, the length of the wire cannot be shortened, and the thickness of the wire is also economically limited. In the end, to transmit electricity with the least resistance and most economically, the electromotive force, that is, the voltage, must be increased. That is, the higher the voltage, the less resistance the current encounters, so power plants transmit electricity with astonishingly high voltage, usually over 100,000 volts. Of course, since the voltage for power transmission is high, it is called high-voltage power transmission (高壓送電), and care is taken to prevent danger to humans and animals during power transmission.
+
+Such a current of 100,000 volts is of no use in reality. Therefore, unless the voltage is lowered to several hundred volts, it cannot be used practically. Therefore, power plants must increase the voltage higher than the generated voltage, and demand sites must lower the transmitted voltage again for use. Increasing or decreasing the voltage in this way is called transformation (變壓), and the machine that transforms the voltage is called a transformer (變壓機).
+
+That is, the power (energy) of electric current is equal to the product of voltage and current. In other words, the electric power of 100 volts and 5 amperes is 500 watts, which is the product of the two (watts is the unit of electric power). However, 500 watts of power is not necessarily limited to a current of 100 volts and 5 amperes. There may be 500 volts and 1 ampere, 200 volts and 2.5 amperes, or 250 volts and 2 amperes. Therefore, whether the voltage is raised at the power plant or lowered at the demand site, only the strength of the current will change, and there will be no change in the power itself.
+
+I will omit the structural explanation of the transformer, but power plants use high-voltage transformers (高壓機) to raise the voltage, and demand sites use low-voltage transformers (低壓機) to lower the voltage. The black cylinders attached to the utility poles are mostly a type of these small transformers.
+
+VII. Power Distribution and Electric Wires
+
+Delivering electricity from the electricity provider to the electricity user is called power distribution (配電). The current transmitted from the power plant at high voltage is lowered to an appropriate voltage and then distributed to the user at a voltage and current appropriate to the user's order. The amount of electricity consumed can be easily known. That is, if a current of 200 volts and 5 amperes is consumed every hour, the power is said to be 1000 watt-hours. 1000 watts is called 1 kilowatt, so it is said that 1 kilowatt-hour of electricity is being used. Regardless of power distribution or power transmission, the movement of electric current is done through electric wires. There are two types of these electric wires: bare wires (裸線) and insulated wires (被覆電線). There are single wires and stranded wires (燃線), which are twisted together for convenience of use. The cord used for electric lights in our homes is a stranded, insulated wire. Insulated wires are wires that have the outside of the wire covered with an insulator to prevent electricity from leaking to the outside or to avoid danger in daily life. Cotton-covered wires are used for circuits below 100 volts, and rubber-covered wires are used in humid places for safety.
+
+When current flows through an electric wire, some resistance will cause heat to be generated, but if an excessively unreasonable current is not passed, the heat will not be very severe. However, if an unreasonable current is passed, the electric wire will generate heat, and there is a high risk of electricity leaking to the outside and even causing a fire.
+
+Therefore, the type and thickness of the electric wire vary depending on the degree of power consumption. It is dangerous to connect an electric heater of 200 volts or more to a ten-candlepower electric wire. (To be continued)
+
+Named Entities
+
+尹柱福	Yun Ju-bok
+朝鮮	Chosŏn
+
+
+---------------------------
+
+
+잡지명	별건곤 제29호
+발행일	1930년 06월 01일
+기사제목	家庭應用 電氣常識(一)
+필자	尹柱福
+기사형태	잡저
+
+家庭應用 電氣常識(一)
+						尹柱福
+一, 머리말
+二十世紀는 電氣萬能時代라할만콤 各方面으로 電氣가利用되여잇스니 萬一現代文化施設中에서 電氣를除外한다하면 그殘骸는形言할수업시, 悲慘할것이다。
+天罰의形具이든 벼락이 科學智識의驚嘆할만한進步로因하야 人類의掌中之物로征服되자 이것이電話로 電信으로는電燈으로이용되게되면서 地球의面積이縮小되엿스며 太陽의威嚴을滅하게된 것은 勿論이어니와 近日에는레듸오(無線電話), 에렉트돌러(電氣蓄音機), 텔레비전숀(無線電送活動寫眞機)等의發明으로因하야 더욱더욱現代文化生活者에게 絶大의威力을發揮하게되엿다。
+只今에 잇서서는 一國의電氣消費量과 電氣利用의巧拙이 그國家社會의 文明野蠻과開化未開를 表示하게지에이르럿다。
+그러면 우리朝鮮은엇더한가? 數年前지도 電氣의發電量이적엇스며한經濟的으로도 가장不利한火力發電에不過하엿고 有利한水力電氣는 朝鮮의地理上到底히可望이업다고落望하고 自然界에對하야極度로怨望하든 것이 近年에와서 水力發電이可能하게만될아니라 眞實로그發電容量이 東洋第一의大量인것을알게되자 電氣界는一朝에活氣를우게되면서 한편으로는電氣價格의低下電氣器具의輸入等으로 今日에잇서서는 特殊한器具數例를除하고는 우리가利用할수잇게되었다。
+그러나 이만콤 文化向上의 至大한貢獻이잇고 우리의 日常生活에 密接한關係가잇는 電氣에對하야 專門的知識은姑捨하고 常識的知識이나마얼마나잇는가?
+中學을堂堂히卒業한紳士淑女가 一家의主人或은主婦의處地에서게될에 電氣知識의程度를보건대 幼稚하기限量업서서 果然中學에서 物理를배우고나왓나할만콤 電氣方面에無智識한 것이 事實이다。
+假令電燈을켜는家庭에서「휴스」가너젓다고하자 이것이 엇지하야너젓는가하는 原因에對한知識은且置하고 能히當場에應急處理나마 할만한사람이 몃名이나되는가는電氣의料金은 엇더케計算하는것이며 電氣의消費는엇더케되는것인가는同一量의電氣를가장經濟的으로使用하랴면 엇더케하여야하는가나마 能히理解하는사람이몃名이나되는가?
+적어도中學時代에物理에서 電氣에關하야는 相當한時間을消費하면서修學한 所謂有識階級의人士가 全世界에普遍活用되는電氣를 아직지도新奇하게만보고잇다하면 얼마나붓그러운일인가!
+勿論空理空論으로 歲月을虛費케하는 現代敎育制度에도 缺陷이잇다고하겟스나 한편으로는 그보다도우리가事物에對한硏究熱과 思考力이너무나 不足한닭인가한다。
+
+二, 電氣는엇더한것인가
+電氣는엇더한두物體를摩擦하면 發生되는氣力이니 其正體에對하야는 아직도具體的說明이不能하다고하나 人에男女가잇는것과갓치 電氣에도陽電陰電의두가지가잇서 陽電은男性的이고 積極的이며 陰電은女性的이며消極的性質을가지고잇고 陽電과陰電, 陰電과陽電은 서로서로 그리워하며 자버는引力을가지고잇서서 그率引現象이 動物界의雄雌, 人類의男女의關係와恰似하야 一種의戀愛現象을이루고잇고 陽電과陽電, 或은陰電과陰電즉同性間에는 조금도妥協性이업슬아니라 絶對로排他的이어서 그嫉妬心이 到底히人類의嫉妬의 比가아니며더구나 異性間의戀愛感 同性間의排他主義는 極端으로絶對的이어서 物質로妥協하고 環境으로左右하는人類로하여곰 얼골을붉키게한다。
+電氣의全能力은 이異性間의率引 同性間의排斥 作用을中心으로하여 發動하는 것이 恰似히 人間社會의性問題가 가장重大한것인것과갓허서 전기사회에서는全혀이性問題을中樞로하여서만 發動되는것이다。
+電氣는흐르는 것으로 曰電流라한다 電氣가흐르기爲하야는 그中間에 介在한物體에러서 흐르기에難易가잇스니 電氣을잘流導하는 物體를導體라하야 金屬, 木炭, 鹽水, 海水, 雨水, 井水, 生活中에잇는動植物, 布木等이며 電氣를流導치아니하는物體를 不導體라하야 油脂, 고무, 寶石, 유리, 皮革, 砂器, 毛髮, 羊毛, 燐, 零下二十度의氷等이다 이外에多少電氣를流度하기는하나 그다지시원치못한것이잇스니 이것을半導體라하야 酒精, 紙藁, 大理石, 乾木等이다。
+電氣가흐르는곳에 不導體로가로막으면 電流는허질것이니 이것을絶緣하얏다말하며 兩處에各居하는電氣를導體로連絡하면 電氣가流通할지니 이것을 連結하엿다고말한다。
+電流에對하야 그流通하는經路의形狀과 品質에러多少電流를妨害하는것이잇스니 이것을抵抗이라말한다 말하면 同一한電流를 굴근鐵線으로連結하면 가는鐵線으로連結한보다 電流가잘흐르니 卽鐵線이굴그면 가는것보다抵抗이적으며는鐵線이르면 긴線보다電流가잘흐르나니 이亦鐵線이르면 긴것보다抵抗이적다線自體의品質로보면 鐵線보다銅線이 電流가잘흐르나니卽銅線이鐵線보다 抵抗이적은 것이다 이와갓치電流에對하야 抵抗이相當히잇는 것으로 이抵抗의單位를「옴」으로表示하야 水銀을標準으로하야 溫度零度기리一〇六三센치메돌 굴기一平方粍의水銀의抵抗을「一옴」이라하고洋銀, 鉛, 鐵, 白金, 金, 銅, 銀의順序로 抵抗이漸次減少되여 銅의抵抗은 水銀의抵抗의 五十五分之一에不過한다。
+電流의 强弱을 左右하는 것은 以上에 말한 抵抗以外에 起電力이라는 것이 잇스니 卽 抵抗이 同一한 境遇에는 電流의 强弱은 起電力이 左右하는 것이니 起電力이 三倍되면 電流도 三倍되는 것이다。 結局 電流는 起電力에 正比例하는 것이다。
+電流의單位는「암페어」저항의단위는「옴」起電力의單位는「볼트」로표시하나니 卽 一옴의抵抗을가진電路에 一암페어의電流를흐르게하랴면 一볼트의起電力이必要하다。
+電氣가흐르는方法은 물이高山峻嶺에서 深谷蒼海로흐름과가티 電氣는起電力이强한곳에서 起電力이弱한곳으로흐른다 起電力이强한 것을 電位가놉다말하며 起電力이弱한 것을 電位가얏다고말하고보면 물이 水位의高低를러흐름과가티 電流는 電位의高低를러흐르는 것이다 그리하야水流는 兩水面이均平하면 水流가침과가티 電流는電位가均平케되면 치고만다。
+電氣는恒常異性을 는힘이잇다하엿거니와 陽電은陽電대로 陰電은陰電대로各各接近은하되 中間에絶緣障壁을쌋코 各各多量을蓄積하면 이兩性間에서로戀慕하는마음이 여간이아닐 것이다 그리하다가 이障壁사이에 조그마한通路라도생기면 急速度로兩性의電氣는 서로接觸되면서 陽은陰과陰은陽과 所謂中和作用이 이러나면서極히短時間에 불이이러난다 이불을曰 火花라하며 이와가치宏壯히 中和되는것을 放電하엿다말한다。
+천둥은 結局 高層의空氣中에는 相當히電氣가蓄積되여잇스나 이것이淸明한日氣에는 空氣가電流를絶緣하고잇다가 曇雨時에는 空氣가濕하여저서 電流를多少導通케함으로 兩處에 多量의電氣가蓄積된것이 서로異性과握手하면서 中和作用을일으키노라 放電하면서 火花가發生하는것이다。
+벼락은 電氣를蓄積한구름이 地面에갓가치올 地面과구름사이에잇는空氣가 絶緣할能力이 不充分하게되면地面의異性電氣와 放電케되면서 地上에불이이러나게된다 이것이벼락이니 電氣의 달큼한戀愛行爲가 人畜에게는 多大한危險을주게된다。
+
+三, 電氣와 磁石과의 關係
+磁石이라하면 磁鐵鑛에서採取한鑛石으로 鐵을吸引하는特性이잇스며 이것으로 指南을만들면 恒常 南北을指示함으로 指南石 或은指南針이라고말한다 그러나이러한人工磁石外에 電氣磁石이라는것이잇스니 軟鐵棒의周圍에不導體로被覆한電線을 無數히감은後에 이電線에電流를通하면 電流가通하는동안에는 軟鐵棒이磁石이되나니 이것을電磁石이라稱하야 電流가허지면 다시磁石의힘이업서지는것이니 人工磁石가티便利치는못하나電流가通하면 磁石이되여서 鐵을고 電流가허지면卽時로 磁石의힘을喪失하야 럿든鐵을 여놋케되는그作用이 意外에도 크게重要한性質이다 電信, 電話, 電鈴等은 全혀 이電磁石을利用한것이다。
+電信, 電話, 電鈴을一一히說明하고십흐나, 紙面이不許하니 電鈴만이야기할한다 電鈴은鍾이울니게하는것이니 卽 소리가잘나는鍾과 이것을두드리는마치가잇스니 이마치자루는 磁石에게잘니게맨든後 이마치자루가잘 接觸될만한곳에 電磁石을붓처놋코 이電磁石을감은電線에 電氣를通하면 電磁石은 鐵로맨든마치자루를 잡어다닐것이니 이에 이마치머리가 反對편으로 ᆺ퉁겨지면서 鍾을릴 것이다 그러나한편으로電磁石에녓든마치자루가 感電하게되면 電磁石의電氣가消粍되여서 電磁石自身이 磁石의힘을일코 鐵로된마치자루를 여노을 것이다 이러케短時間에 작고重覆하면 電鈴은 르렁르렁 울니게되는 것이다 電信電話도 大同小異한것이다。
+
+四, 電氣의 熱과 光
+電流가電線을流通할에 多少의抵抗이잇스며이로因하야電氣의「에넬기」는熱로變한다 이에發生하는熱量은 消費되는電氣量에正比例한다。
+電流로因하야 發生하는熱을 電熱이라稱하야 그應用되는方面이非常히만흐니 醫學에잇서서는 外科手術時에電流로白金을熱하야 이것으로患部를지지며 鑛山에잇서서는 爆發藥을電熱로爆發케하야 在來方法보다人命의安全을엇게되엿스며 家庭에잇서서는 電氣란로가製造되여模樣잇고淸潔한生活을할수잇고 이外에도 廚房에所用되는料理器具가 만히案出되여잇스니 이것은모다 電熱을利用한 것이다 近日에와서 特히 朝鮮家庭에서 電氣아이론(다름이)이 相當히만히使用되나니 이것도 電熱을利用한것이다。
+電流가抵抗力이强한部分을流通할에 熱을發하게되는 것은以上에말하엿거니와 이보다더 抵抗이强大한導線을流通하면 發熱은勿論이어니와 決局光彩잇는光線을發輝하게된다 이것을電光이라稱하야 電燈은 이電光을利用한一例이다。
+
+五, 直流電氣와 交流 電氣及發電方法
+電氣가流通하는形式에 一定한方向으로만 流通하는電氣를 直流電氣라하고 그流通方向이瞬間瞬間에 反對方向으로變하야 流通하는電氣를交流電氣라한다 交流電氣에잇서서 그方向을一囘變更하는時間을 交流의週期라稱하며 그電流의强弱은 時時로變更되는것임으로 그强弱은恒常平均値를表示한다。
+電氣를製造하는 것을 發電한다稱하나니 發電方法은매우複雜하야 到底히簡略하야 說明하기困難하나 그原理는電磁石을맨들랴면 電線으로(勿論表面을不導體로絶緣한것임) 집방석가티 트러노흔後 그中間에 軟鐵棒을우고 電線에電流를通하면 軟鐵棒이電磁石으로變化하는그原理를 그대로뒤집은것이니 卽 미리電磁石을로히準備하야서 이것을 以上에말한電線을 둥글게트러노흔가운데우면 이는도려히 電線에電氣가發生된다 그러나 그대로電磁石을 우기만하면 電流가너무弱하게흐름으로 이電磁石을 急한速力으로囘轉식히면 그電磁石을고잇는 電線輪路에는 强한電流가흐르게될것이니이電氣를 所用되는곳으로 러다가使用하는 것이다 이에 電磁石을 快速度로囘轉하는原動力으로 水蒸氣機關或은瓦斯機關을使用하면 이것을火力發電이라이루며高山峻嶺에서 落下하는瀑布이나 急流의江水를利用하는 것을 水力發電이라한다。
+火力電氣는 그原動力이火力에依支하게됨으로 高價의原料를使用하야 結局發電費用이 高騰하여지나니 故로不得已한境遇以外에는 火力發電을避하고 自然의水力을利用하기에努力한다 卽水力은 瀑布나江水를利用하게됨으로 自然地理에左右되는것이나 그費用이非常히低廉하게되는故로 只今지 瀑布나江水가업는地方에서도 近日에는人工的으로貯水池를施設하고 이것으로瀑布를맨드러서 이落下力을利用하야 水力電氣를엇도록努力한다 朝鮮에서도 最近지發電은 火力發電에 不過하든것이 近日에와서 天然地勢에多少 人力을加工하야 제법大規模의水力發電이 可能하게되엿다。
+
+六, 變壓器와 送電方法
+發電은火力을利用할에는 燃料를廉價로엇는곳에 水力發電을함에는 瀑布나江水에隣近한곳에 發電所를設置하고 發電하게됨으로 自然都會地에서 相當히遠隔한곳에잇게된다 그러면 發電한電力을需用하는 都會地지運搬하여야할지니 이것을送電이라한다 勿論電線을利用하야 電流를遞送하게되는것이나 發電所에서 多量의電氣를 送電함에는 그方法이매우困難하니 前述한바와갓치 電線은길면길수록 抵抗이큰것임으로 發電地와需用地와의距離가 相當히遠隔한以上 이抵抗은 到底히免치못할 것이다 電流의消耗도만흐려니와 多量의電流을보내랴하면 電線을굴쓰면 가는線보다는抵抗이적다하엿슴으로 電線을相當히굴할必要가잇스나 이것亦是無限히굴게는못할 것이다 卽電線이너무굴그면 抵抗이적은만콤電流는상당히多量으로 흐를것은事實이나 電線이너무굴그면 第一經費가莫大하며 線이굴그면 自然重量이무거울것이니 이것을加設하기가 여간困難이아니다。
+然則 送電距離는一定한以上 電線의기리는短縮할수업고 電線의굴도亦是 經濟上 制限을밧게되니 決局電流를가장抵抗이적게 經濟的으로 送電하랴면 起電力卽電壓을놉히여야한다 卽電流는電壓이놉흐면 놉흘수록抵抗이적게流通하는것임으로 發電所에서는 놀낼만콤 非常히놉흔 電壓으로 大槪十萬볼트以上으로 電流를送電한다 勿論送電하는電壓이高壓임으로 所謂高壓送電이라하야 人畜에危險이업도록 注意하야送電한다。
+이와가티 十萬볼트나되는 電流는實際에는 何等의所用이업다 그럼으로 이것을幾百볼트로 電壓을抵下식히지아니하면 實用이못된다 그럼으로 發電所에서는 發電한電壓보다 電壓을놉히여야겟고 需用地에서는 送電된電壓을 다시낫추어서쓰게되니 이와가티 電壓을놉히거나 낫추는 것을 變壓한다하며 變壓하는機械를 變壓機라고한다。
+卽電流의勢力(에넬기)은 電壓과電流와의 相乘積과갓흐니 換言하면 百볼트五암페어의電氣力은 그相乘積인五百왓트일 것이다 (왓트는電力의單位임) 그러나 五百왓트의電力은 반드시百볼트五암페어의電流에만 限한것이아니다 五百볼트一암페어도잇고 二百볼트二五암페어도잇고 二百五十볼트二암페어의 電流도잇슬것이다 그럼으로 發電所에서 電壓을올녓거나 需用地에서 電壓을나리웟거나 單只그電流의强弱이 變할이지 그電力自體에는 何等의變化가업슬것이다。
+變壓機에 構造說明은 略하거니와 發電所에는 高壓機라하야 電壓을올니며 需用地에서는 低壓機를使用하야 電壓을나리나니 흔히電柱에 검은통이매여달린 것은 大槪 이變壓器의小型의一種이다。
+
+七, 配電과 電線
+電力을使用하는者에게 電氣業者가 電氣를配達하는 것을 配電이라하나니 發電所에서 高壓으로送電된電流를다시 電壓을適當히낫춘後에 使用者의注文에適當한電壓과 電流로配電케되는것임으로 그電力의消費量도 容易히알수잇슬 것이다 卽二百볼트五암페어의電流를 每時間消費한다하면 그電力은 千왓트時라고말한다 千왓트는一기로왓트라고부름으로 結局一기룰왓트時의電力을 使用하는세음이된다 配電送電을 勿論하고 電流의移動은電線을通하야하는것이니 이電線에는 電線그대로의裸線不導體로 被覆한被覆電線의 두가지가잇스며一線으로된單線과 使用할에 便利하게하기爲하야 數線을하나 은燃線이잇다 우리家庭에서 電燈에쓰는줄은燃線의被覆電線이다 被覆電線은 電氣가外部에漏電되거나日常生活에 危險을避하기爲하야 電線의外部를 絶緣物로싼것이니 百볼트以下의電路에는 木綿被覆線이 使用되며 濕氣가잇는곳에는 고무被覆線을 使用하야安全하다。
+電線에電流가 通할時에는 多少間 抵抗이잇게됨으로熱이發生할것이나 過히 無理한電流를 通하지아니하면 그다지 熱이甚하지아니하나 萬一無理히 電流를通하면電線이發熱하게되여 外部에漏電될念慮가 만흘아니라火災를일으키게지된다。
+그러함으로 電力의消費되는程度를러서 電線의種類와電線의 굴가다르니 萬一十燭燈電線 에二百볼트以上의電熱器를 운다하면 危險한것이다。(게속)

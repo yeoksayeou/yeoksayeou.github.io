@@ -1,0 +1,101 @@
+잡지명	별건곤 제44호
+발행일	1931년 10월 01일
+기사제목	社會問題講座 現代生産의 特徵 (Lecture on Social Problems: Characteristics of Modern Production)
+필자	陣榮喆
+기사형태	논설 (Essay)
+
+Lecture on Social Problems: Characteristics of Modern Production
+						Chin Yŏng-ch'ŏl
+
+In modern society, the characteristic of production is the production of commodities, not for self-consumption. It is an old form of production when a farmer weaves cotton for his own hunger or a housewife makes clothes for her family. It is true that such forms still exist, but they are a vestige of the past. Therefore, modern production must be based on a factory system and be large-scale, which inevitably requires large capital. Individual businesses have limited capital and a narrow scope, making it impossible to undertake large-scale projects. Here, many people pool their capital to achieve the purpose, which usually appears in the form of a company (會社).
+
+Establishment of a Company
+
+Then, how is a company established?
+
+A production business must first have money. It is true that labor is the source of economic value, but in today's capitalist (資本主義) world, one cannot even dream of starting a production business without having cash or the right to obtain it. Therefore, to raise money, the promoters (發起人) of the company print a prospectus (趣旨書), announce it to the public, and solicit funds. The prospectus contains a plan for the business to be undertaken in the future, detailing what will be produced, how much capital will be required, and what the expected profits will be. The names of capitalists, aristocrats, and prominent figures are announced as promoters.
+
+The legal procedures for establishing a stock company (株式會社) are as follows:
+
+1. At least seven promoters.
+2. Establish articles of incorporation (定款) and specify the purpose, company name, capital amount, amount per share (一株), etc.
+3. Even if the promoters subscribe for all shares (全株), the company is established, but at least one-quarter of the share capital (株金) must be paid immediately (直時).
+4. If the promoters do not subscribe for all shares and solicit shareholders (株主), the shareholders who apply must make the first payment.
+5. After the payment is completed, a founding general meeting (創立總會) is held, and the company is established upon its conclusion.
+
+After a company is established under these conditions, executives (重役) elected at the shareholders' meeting (株主總會) take charge of the work. Since it is a gathering for profit and pooled capital, they will seek the most effective methods for achieving profits. They pride themselves on producing something useful for society, but since their capital is invested for profit, if the dividend of a poison gas (毒瓦斯) manufacturing company is 10%, their capitalists will not subscribe to the shares of a beneficial milk company but will subscribe to the shares of the poison gas company. From this, it can be seen that today's capitalist production is thoroughly individualistic and focused solely on self-interest.
+
+Types of Shares
+
+There are two types of shares: common (普通) and preferred (優先).
+
+1. Preferred Stock (優先株). This guarantees that the company will pay a fixed rate of interest, and it has priority (優先權) over other shares when dividends (配當) are distributed. There are two types:
+a. Non-cumulative preferred stock (非漸加 優先株). If the annual dividend is low, only the fixed rate can be received, and there is no right to claim the unpaid amount of the dividend for that year in the following year.
+b. Cumulative preferred stock (漸加 優先株). This guarantees a considerable proportion of the total profit (利潤) of the entire business as a dividend. However, it is not fixed at a certain amount for several years, but rather, depending on the circumstances, if the dividend for preferred stock is not possible this year, it will be paid whenever possible.
+
+2. Common Stock (普通株). If there is profit to be distributed after the preferred stock dividend has been paid, it is distributed. Therefore, common stock sometimes receives dividends of 50% or 60%, but sometimes there are no dividends at all.
+
+And although the meaning is different from stocks, there are corporate bonds (社債), which are issued when the company is short of funds or when building a new factory. The money raised in this way is a debt (負債) and is different from the original capital (資本). A shareholder is one of the people who manage and organize the company, but a bondholder (社債의 所有者) is a creditor (債權者), so when the company is dissolved, the bondholder has the right to claim the bond before anyone else.
+
+Types of Capital
+
+The company's capital is not paid in full at once. The total face value is called authorized capital (公稱資本), and the capital actually paid in is called paid-in capital (拂込資本). According to the Japanese Commercial Law (日本 商法), at least one-quarter of the initial amount must be paid in. For example, if there is a company with 10 million won, at least the first payment of 2.5 million won must be paid in at the same time the company is established. There are also subscribed capital (募集資本) and unissued capital (不發行資本). Subscribed capital is generally publicly offered, while unissued capital refers to what the promoters subscribe for and do not generally solicit.
+
+In a stock company, the liability (責任) of the shareholder is limited. No matter how bankrupt the company may be, the shareholder's liability is limited to the shares they hold. For example, if I have 10 shares of 50 won each, and the first payment of 12.5 won has been paid, and the company goes bankrupt, I only need to pay the remaining 37.5 won. This applies equally to ordinary shareholders (普通株主), presidents (사장), and managing directors (사무취체역). This limited liability (유한책임) is the basis for running the affairs of a stock company.
+
+The company's capital is constantly increasing in addition to the methods mentioned above. The depreciation (소모) of the machinery and equipment in daily operation cannot be ignored in the calculations. It is usually estimated at 10% of the original price. Here, the value of the machinery is transferred to the finished products along with the depreciation. If 10% is set aside each year for the repair or construction of machinery, a property can be created in ten years to renew the organization. It is not that the machinery or facilities become unusable in ten years; they can usually continue for some time. It is generally said that machinery or facilities do not hinder production for 25 years. Therefore, the money collected for the depreciation of machinery also leads to the creation of new factories, and capital is effectively increased without raising new capital. (I will discuss this in detail in the section on surplus value.) <8>
+
+Capitalization of Reserves
+
+Another way to increase capital is to capitalize reserves (積立金의 資本化). According to the Japanese Commercial Law, until a company reaches one-quarter of its capital, it must set aside at least one-twentieth of its profit as a reserve each time it distributes profits. When it exceeds that amount, the directors (취체역) decide how much of the profit to set aside. This is done so that it can be distributed when there is no profit. If the profits continue, the reserve fund is used for other aspects of production because large shareholders (大株主) do not want high dividends in order to pay less tax (稅). In this way, it increases several times over.
+
+In addition, there is always a method of enriching the company by concealing surplus value (잉여가치를 은닉) and keeping the profit rate (이윤움˜ 率) secret, devised and considered by the major shareholders (大株主). Because these major shareholders are familiar with the company's internal affairs (회사 內情) and have insight into the future, they reject the opinions of small shareholders (小株主) who focus only on immediate profits and strive for the huge profits that will come in the future. One of the methods is to buy a company that is not making a profit for more than its actual price so that the executives (중역) of the old company can see dividends above the actual price, or to buy it for less than the actual price. Even looking at the state of stock trading (株式 取引所) in the stock exchange (株券의 매매), they also buy shares by creating newspaper articles or artificial fluctuations (인위적의 동요) to drop the price of a 50 won share to 30 won, and vice versa, they sell shares of a company that is not making a profit for more than its actual price. In this way, the company's capital increases. The fact that such irrationality is openly practiced under the general public's approval is a characteristic of modern capitalist society (現代 資本主義 社會), and as long as the exploitation of labor (勞働力의 착취) is the basis of the economic organization, it will naturally be so. <9>
+
+Named Entities
+
+日本 商法	Ilbon Sangpŏp
+株式會社	Chusik Hoesa
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제44호
+발행일	1931년 10월 01일
+기사제목	社會問題講座 現代生産의 特徵
+필자	陣榮喆
+기사형태	논설
+
+社會問題講座 現代生産의 特徵
+						陣榮喆
+현대사회에서는 생산의 특징은 상품의 생산이요 자기 소비를 위한 것은 아니다. 농민이 자기의 배를 채우기 위하야 주부가 집안의 식구를 위하야 무명을 짠다든가 옷을 짓는다던가 그는 옛날의 생산형태이요 지금도 그러한 형태가 잇는 것은 사실이나 그는 전 시대의 유풍이다. 그럼으로 현대식의 생산은 공장제이고 대규모적이여야 하나니 그리하려면 필연적으로 대자본을 요구하게 되는 것이다. 개인 경영의 사업은 자본이 적고 그 활동 범위가 좁아서 대규모의 사업을 하지 못하게 된다. 여기에서 여러 사람의 자본을 모아서 전기의 목적을 달케 하나니 그는 보통 회사란 형식으로 나타나게 되는 것이다.
+
+會社의 設立
+그러면 회사는 어떠케 하야 창립되는 것인가.
+생산 사업에는 위선 돈이 잇서야 한다. 노동이 경제적 가치의 근원인 것은 사실이나 현대의 資本主義 세상에서는 현금을 갓고 잇다든가 그러치 안으면 현금을 끄러내일 수 잇는 권리를 갓지 못하고는 생산 사업에 念도 못 둔다. 그래서 돈을 구하기 위하야 회사의 발기인은 취지서를 인쇄하야 그를 일반으로 발표하고 모금한다. 그 취지서에는 장래에 하려는 사업의 계획서가 잇고 그에는 무엇을 생산하며 자금은 얼마나 소용되며 장차 리익은 어떠하다는 것을 자세히 설명하고 자본가 귀족 명사 등의 일홈이 발기인으로 발표된다.
+법률로써 규정한 株式會社의 창립 수속은 다음과 갓다.
+1. 7명 이상의 발기인.
+2. 정관을 맨들고 목적 회사명 자본액 一株의 금액 기타를 규정할 것.
+3. 발기인이 全株를 인수하는 때에도 회사는 성립되나 그 株金의 사분지일 이상을 直時 불입하여야 한다.
+4. 발기인이 全株를 인수하지 못하고 주주를 모집하는 때에는 응모의 株主는 지급 제일회 불입을 할 것.
+5. 불입이 끈난 후에는 창립총회를 열고 그 종결에 의하야 회사가 성립된다.
+이러한 조건에 의하야 회사가 성립된 후에는 그에는 주주총회에서 선거를 바든 중역이 일에 당케 되는 바 그는 어듸까지나 이익을 목적으로 하고 모힌 것이요 모힌 자본임으로 이익을 위하야 가장 효과가 만흔 방법을 강구케 된다. 그들은 사회에 유용한 생산이라고 자긍하고 잇스나 그들의 자본은 이익을 위하야 던저진 것임으로 毒瓦斯 제조회사의 배당이 一割이라 하면 그들의 자본가는 유익한 우유회사의 株를 인수하지 안코 毒瓦斯 회사의 株를 인수할 것이니 그로 보면 오날의 자본가적 생산은 철두철미 개인주의적이요 자기 이익만을 본위로 한 것임을 알 수 잇다.
+
+株券의 種類
+株券에는 普通과 優先의 두 가지 종류가 잇다.
+1. 優先株. 이것은 회사가 일정한 率의 利子를 지불할 것을 보증한 것으로 配當이 分配되는 때에는 다른 주보다 優先權을 가지게 된다. 그에도 두 가지가 잇스니
+가, 非漸加 優先株. 일년 배당이 적으면 그 일정한 율만을 바들 수가 잇스나 그 해의 배당의 未拂金은 다음 해에 청구할 권리가 업는 것이고
+나, 漸加 優先株. 사업 전체의 利潤 전체 중에서 상당한 비레의 配當을 보증하는 것이나 그러나 멧 해 동안에 얼마식으로 정한 것이 아니고 경우에 따라서 금년에는 優先株에 대한 配當이 불능하면 언제나 가능한 때에 한다는 것.
+2. 普通株. 優先株의 配當이 잇슨 후에 배당할 이윤이 잇스면 배분하는 것이니 그럼으로 普通株는 어떤 때에는 五割, 六割의 배당을 밧는 때가 잇스나 어떤 때에는 배당이 전연히 업는 때도 잇는 것이다.
+그리고 株券과는 意義가 다르나 社債란 것이 잇스니 그는 회사의 자금이 부족하다던가 새로 공장을 세울 때에는 社債를 발행한다. 이리하야 모집되는 돈은 그는 負債인 것이요 원래 資本과는 다른 것이다. 株券의 所有者는 회사를 경영하고 조직한 사람의 하나이나 社債의 所有者는 債權者임으로 회사가 해산하는 때에는 社債의 所有者는 누구보다도 率先하야 債券을 주장할 수 잇는 것이다.
+
+資本의 種類
+회사의 자본은 일시에 그 전부를 불입하는 것이 아니니 액면의 총계를 公稱資本이라 부르고 실지로 불입한 자본을 拂込資本이라고 부른다. 日本 商法에는 최초의 四分之一만은 불입하지 안으면＜8＞ 안 되게 되엿스니 가령 여기에 1천만 원의 회사가 잇다하면 그의 1회 拂込金 250만 원만은 회사가 성립되는 동시에 불입해야 한다. 그 외에도 募集資本이니 不發行資本이니 하는 것이 잇스니 募集資本이란 일반적으로 공모한 것이고 不發行資本은 발기인이 인수하야 일반적으로 모집치 안는 것을 가르친 것이다.
+株式會社에 잇서서는 株主의 책임은 일정한 한도가 잇서 아무리 회사가 파산할지라도 株主는 갓고 잇는 주권의 책임에 끈치고 마는 것이니 가령 내가 50원의 주권 10매를 갓고 잇다고 하면 그리고 그 일회불 125원을 불입한 때에 회사가 파산햇다고 하면 남어지의 375원만 불입하면 그만이다. 그는 普通株主이나 사장이나 사무취체역이나 똑 가튼 책임을 지게 된다. 그와 가튼 유한책임의 성질이 株式會社의 일을 경영하는 근본이 되는 것이다.
+회사의 자본은 우에서 말한 방법 외에도 항상 증가하고 잇나니 그는 매일 운전하고 잇는 기계나 기구의 소모를 게산에 느치 안을 수 업스니 그를 보통은 전 가격의 一割로 보고 잇다. 여기에서 기계의 가치는 소모와 함께 완성한 생산품 중에 이전하는 것이다. 一割를 매년 기계의 수선이나 신설을 위하야 따로히 모아노흐면 십년이면 그 조직을 새로히 할 수 잇는 재산이 되고 그 기계나 시설은 십년이면 못 쓰게 되느냐 하면 그런 것은 아니니 아즉도 얼마 동안 ¡´속할 수 잇는 것으로 보통은 25개 年間은 기계나 시설이 생산에 지장이 업다고 한다. 그럼으로 기계의 소모비로 모흔 것이 또한 새 공장을 낫케 되니 새로히 자본을 모집하지 안코도 사실에 잇서서는 자본이 증대한 것이다.(그는 잉여가치의 편에서 자세히 말하려 함.)
+
+積立金의 資本化
+자본 증대의 또 한 가지 방법은 적립금의 자본화이다. 일본의 상법은 회사는 그 자본의 四分之一에 달하기까지는 이익을 배당하는 때마다 그의 준비금으로써 이익의 二十分之一 이상을 적립하여야 한다. 그 이상에 달하는 때에는 취체역의 생각대로 그 이익의 멧 부분을 적립하는 것이다. 그리 하얏다가 이익이 업는 때에 그를 배당하는 것이다. 만일에 이익이 그냥 게속하는 때에는 그 적립금은 다른 방면의 생산에로 사용케 되나니 大株主는 稅를 적게 물기 위하야 만흔 배당을 원치 안는 까닭이다. 그리하야 멧 倍이던지 증가하는 것이다.
+그 외에도 잉여가치를 은닉하고 이윤움˜ 率을 비밀히 하야 회사를 기름지우는 방법이 언제나 大株主들의 손으로 연출 고찰되고 잇나니 그들 大株主는 회사 內情에 通曉하고 장래에 관한 식견을 가지고 잇는 까닭에 목전의 이익만을 위주하는 小株主의 의견을 배척하고 장차 오는 거대한 이익을 위하야 노력하고 잇는 바 이익을 보지 못하는 회사를 실제 가격 이상으로 매수하야 구회사의 중역은 실제 가격 이상의 배당을 본다든가 혹은 실제 이하로 매수하는 것도 그 방법의 하나인 것이다. 株式 取引所에서 株券의 매매되는 상항을 볼지라도 신문의 기사라던가 인위적의 동요를 양성하야 50원의 株券을 30원에 떠러트려 사기도 하고 그 반대로 이익을 보지 못하는 회사의 株券을 그 실제 이상으로 팔기도 하는 것이다. 그리하야 회사의 자본은 증대하는 것이다. 그러한 불합리가 일반의 공인 하에서 공공연히 행하고 잇다는 것은 現代 資本主義 社會의 특징이요 勞働力의 착취가 경제조직의 근본이 되여 잇는 이상 그는 자연이 그러케 되는 것이다.＜9＞
+＜8-9＞

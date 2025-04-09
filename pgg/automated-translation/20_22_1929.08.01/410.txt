@@ -1,0 +1,71 @@
+별건곤 第22號
+1929년 08월 01일
+夏其中 最大 惡病, 虎列剌와 赤痢病 (The Worst Diseases During Summer: Cholera and Dysentery)
+醫學士 金溶埰
+소식 (News)
+
+The Worst Diseases During Summer: Cholera and Dysentery
+						Medical Doctor Kim Yong-chae
+
+The Cause of Cholera
+
+The definite discovery of the cause of cholera occurred in 1883 when the German government dispatched a scholar named Koch to India. As a result of research on cholera patients, he discovered a type of comma-shaped bacteria (콤마菌) in the intestines (腸). This bacteria thrives best between 30-40 degrees Celsius and its reproductive power stops below 16 degrees Celsius, but it does not completely die. However, if the bacteria touches a person's hand, it dies and disappears in two hours. It can live in moist food for 8 days, and in moist filth for 14 days.
+
+The route by which this cholera is transmitted to Korea generally comes from India via China. Also, to explain one method of transmission, comma-shaped bacteria spread through the feces and urine (糞便) of patients, enter the water and multiply, and then transfer to food, drinking water, and seafood, and are then transmitted again through the medium of flies.
+
+Furthermore, the onset of cholera is not only conditional on ingesting the bacteria, but it is also said that the bacteria attaching to the intestinal wall (腸壁), multiplying, and then damaging the intestinal wall is also one of the conditions for onset. Therefore, during cholera epidemic seasons, even healthy people ingest a considerable amount of bacteria. However, most of them are immediately sterilized by hydrochloric acid in the gastric juices, and even if a small number enters the intestines, their reproductive power is extremely weak, so they ultimately do not develop the disease, or even if they do, they may experience mild symptoms. Moreover, some people harbor the bacteria in their intestines without any symptoms and excrete the bacteria in their feces and urine, thus transmitting it to others. These people are called carriers (보균자) and are a significant condition for preventing infectious diseases. The incubation period of cholera, that is, the period from entering the body to developing and appearing, is reasonably understood to be between 1 and 3 days.
+
+Cholera Prevention
+
+Since this disease is mostly imported from China, maritime quarantine is, of course, the most necessary. If it becomes epidemic inland, everyone should be careful about their diet. Food should always be boiled at 100 degrees or higher, and flies should never be allowed to land on food. People with weak digestive systems should strengthen their digestive organs through medical treatment to reduce the likelihood of contracting the disease. And <171> vaccinations are also considerably effective.
+
+The Cause of Dysentery
+
+There are two types of causes of dysentery: one is bacterial dysentery (細菌性赤痢), and the other is amoebic dysentery (아메바性赤痢). This disease occurs frequently in tropical and temperate regions. The bacteria of bacterial dysentery were first discovered by Mr. Shiga Kiyoshi (志賀潔氏), the current director of the medical department of Keijo Imperial University. The route of transmission can be seen as through drinking water and the medium of flies, or directly mixing into food from contaminants.
+
+Bacterial dysentery is acute and progresses severely, while amoebic dysentery is chronic. It is generally believed that amoebic dysentery is more prevalent than bacterial dysentery in Korea.
+
+Dysentery Prevention
+
+As much as possible, patients should be quickly isolated, and their excrement (such as feces and urine) should be thoroughly disinfected. Do not feed them unsanitary food, be careful not to catch a cold, and never forget to boil drinking water before using it. Pay special attention to preventing flies from landing on food, always wash your hands before eating, keep the toilet clean, and inject disinfectants to prevent flies from breeding. Keep the area around the well clean, and do not feed them unripe fruits or raw vegetables. <172> There are also vaccinations, but their duration is only 3 months. -(End)-
+
+Named Entities
+
+志賀潔氏	Shiga Kiyoshi
+京城帝國大學	Kyŏngsŏng Imperial University
+印度	India
+支那	China
+朝鮮	Chosŏn
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제22호
+발행일	1929년 08월 01일
+기사제목	夏其中 最大 惡病, 虎列剌와 赤痢病
+필자	醫學士 金溶埰
+기사형태	소식
+
+夏其中 最大 惡病, 虎列剌와 赤痢病
+						醫學士 金溶埰
+虎列剌의 原因
+
+虎列刺의 원인을 확실이 발견한 것은 西曆 1883년에 독일정부에서 코호라 하는 학자를 印度로 派遣하야 호열자 환자에 대하야 연구한 결과 창자(腸)에서 일종의 콤마菌을 발견한 것이다. 이 균은 섭씨 30도-40도 안에서 가장 잘 번식하고 섭씨 16도 이하에서는 번식력이 정지하나 아주 사멸하여지지는 아니한다. 그러나 그 균이 사람의 손에 붓트면 두 시간이면 죽어 업서지고 水分이 잇는 음식 중에서는 8일간이나 살 수 잇스며 습기잇는 汚穢物 중에서는 14일간이나 살 수 잇는 것이다.
+이 호열자의 조선에 전래하는 계통=경로를 말하면 대개 印度로부터 支那를 경유하야 드러오는 것이다. 또 한번 전염하는 방법을 말하면 환자의 똥오줌(糞便)으로 전파되어 콤마균이 水中에 드러가서 번식해가지고는 食物, 飮料水, 魚介類 등으로 옴겨와서 다시 파리의 매개로 말미암아 전염되는 것이다.
+또 虎列剌 발병은 다만 균을 섭취하는 것만이 조건이 안이라 균이 腸壁에 附着하야 증식한 후 腸壁을 상해하는 것이 또한 발병조건의 하나이라고 한다. 그런고로 虎列剌 流行時期에는 건강한 사람에게도 상당이 균을 嚥下하는 법이다. 그러나 위액 중의 염산으로 당장에 殺菌하는 것이 대다수이며 소수의 것이 腸으로 드러간다 하더라도 번식력이 극히 미약하기 때문에 종시 발병하지 안키도 하고 혹 發病하더라도 輕症으로 경과하는 수도 잇스며 또 다시 균을 장내에 保存하면서도 본인은 아무 증상도 업시 잘 익여지나다가 그 사람의 똥오줌으로 균이 배설하야 타인에게 전염하는 수도 잇스니 이런 사람을 보균자라 하야 전염병 예방상 중대한 條件이 되는 것이다. 이 虎列剌의 잠복기 즉 체내에 드러가서 발병하야 나타나기까지의 기한은 1일내지 3일간으로 아는 것이 타당한 것이다.
+
+虎列剌의 豫防
+
+이 病은 대개가 支那로부터 輸入하는 것임으로 海港檢疫이 뎨일 필요함은 물론이어니와 만일 內地에 流行되는 때는 사람마다 졔각기 食物의 섭생에 주의하야 음식물은 반듯이 100度 이상으로 끌여먹을 것이며 食物에서는 절대로 파리가 안지 못하게 할지며 腸胃가 튼튼치 못한 사람은 醫療로써 消化器를 건전케 하면 이 병에 걸릴 넘려는 적은 것이다. 그리고<171> 예방주사도 상당한 효력이 잇는 것이다.
+
+赤痢의 原因
+
+赤痢의 원인은 2종이 잇스니 1은 細菌性赤痢이며 2는 아메바性赤痢 그것이다. 이 병은 열대에 온대지방에 만히 발생하는 병이다. 細菌性赤痢의 균은 현 경성제국대학 의학부장 志賀潔氏가 최초로 발명한 자인대 전염의 경로는 飮料水와 파리의 매개로 혹은 직접 오염물로부터 食物 중에 混入하는 것으로 볼 수 잇는 것이다.
+그런대 細菌性赤痢는 급성이며 악성으로 경과되고 아메바性赤痢는 만성으로 경과되는 것인대 보통 조선 내지에 유행되는 것은 세균성보다는 아메바性이 만흔 줄로 생각한다.
+
+赤痢의 豫防法
+
+예방법은 可成的 환자를 속히 격리하야 그의 배설물(똥오좀 가튼 것)을 철저히 소독하고 비위생적 食物을 먹이지 말지며 感冒에 걸리지 안토록 주의하고 음료수는 반듯이 煮沸하야 쓰는 것을 닛지 말일이다. 식물에 파리가 안지 못 하도록 특별 주의하고 식사할 때에도 반듯이 손을 씻고 변소를 청결히 하는 동시에 소독약을 주입하야 파리의 발생을 방지할지며 우물 주위를 청결히 하며 익지 안은 과실과 생채 등을 먹이지 말 것이다. 이밧게 예방주사도 잇지만은 그 기간은 3개월에 불과하다. -(끗)-<172>
+<171-172>

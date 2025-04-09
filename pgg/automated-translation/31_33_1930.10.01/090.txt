@@ -1,0 +1,32 @@
+잡지명: 別乾坤 第33號
+발행일: 1930년 10월 01일
+기사제목: 一問一答記(6) (Questions and Answers, Part 6)
+기사형태: 설문 (Questionnaire)
+金麗植 (Kim Ryeo-sik)
+
+Reporter: Have you ever been a schoolboy in America?
+
+Kim: Yes, I have. It is almost impossible to study at your own expense in a country like America. If you enter as a schoolboy, you get a room and board, and on top of that, you receive 15 or 16 dollars every month. Moreover, if you boil some tea in the morning and do some housework for half a day on Saturdays, you are free. It is a very convenient and simple job for studying.
+<20>
+
+**Named Entities**
+
+美國	America
+金麗植	Kim Ryeo-sik
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제33호
+발행일	1930년 10월 01일
+기사제목	一問一答記(6)
+기사형태	설문
+
+一問一答記(6)
+金麗植
+
+記者, 米國서 스쿨보이(school boy)되여 보신 일이 잇슴닛가?
+金, 잇지요. 米國가튼 나라에서는 도저히 自費로 工夫하기는 어려우닛가요. 스쿨보이로 만 들어가면 房 한間 주고 먹여주는 外에 매달 15,6弗은 바들 수 잇스닛가요. 그러고 아침때 茶물이나 좀 끌여주고 土曜日가튼 날 半日쯤 집안 일을 해주면 自由임니다. 공부하기에는 썩 便利하고 간단한 職業이지요.
+<20>

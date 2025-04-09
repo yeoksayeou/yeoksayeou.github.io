@@ -1,0 +1,300 @@
+27	060	A Pilgrimage to Working Women on the Front Lines of Life, Their Lives and Aspirations		News/Information
+27	070	What Made It So? A Record of Life Born from Facts, Bright Eyes Are Guilty (End)	Kim Ŭrhan	Novel
+27	071	Old and New Magazine Exchange		Notices/Editor's Postscript
+27	080	The Trial of the Cannibalism Incident (1), A Pitiful Life Fallen into Darkness	Sin Kyŏngsun	Memoir/Personal Account
+27	090	Her Half-Life, What Drove Her to Suicide?	Min Pongho	Novel
+27	100	The Me I See, Self-Views of Famous People		Survey/Questionnaire
+27	110	Posthumous Manuscript of the Late An Ch'angnam!, An Adventurous Flight Record - Gaining One Life from Nine Deaths		Memoir/Personal Account
+27	120	Romance at the Time of Founding Private Enterprises, Recollections of Those in Charge		Memoir/Personal Account
+27	121	Company Announcement		Notices/Editor's Postscript
+27	130	Humor, Nonsense, Modern Secret Arts of Fighting Poverty, A Dictionary for the Life of the Poor	Hwalbindang	Miscellaneous Writing
+27	140	Two Jokes		Miscellaneous Writing
+27	150	A World Apart		Miscellaneous Writing
+27	160	Regarding the Women's Liberation Movement, Its Historical Value and Political Significance	Sŏngnam	Editorial/Article
+27	170	New Word Dictionary (III) -		Miscellaneous Writing
+27	180	One Person, One Writing		Literary Miscellaneous
+27	190	A Critique of Kollontai's View on Love	Kim Yun	Editorial/Article
+27	200	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+27	210	Secret History of the Strange Hero of Late Silla, King Kung Ye of T'aebong	Ch'a Sangch'an	News/Information
+27	220	MODERN COLLEGE Opens: Five Commandments for Urban Life	Lecturer Modern Moses	Miscellaneous Writing
+27	230	Ten Secrets to Becoming a High-Class Movie Fan	Lecturer Screen-Fan	Miscellaneous Writing
+27	240	Korean History Journal		Miscellaneous Writing
+27	250	Bride Candidate Exhibition, Free Admission, Hosted by SS		News/Information
+27	260	Modern Fortune Real Estate (Poktŏkbang)		Literary Criticism
+27	270	Revenge for Heartbreak on the Street		Literary Criticism
+27	280	Sights on the Road in April	Kim Hwasan	Poem
+27	290	Tragedy of a Spring Day	Roa	Poem
+27	300	100 Percent Modern	Roa	Poem
+27	310	Three Dramatic Poems (Rhymed)	Kim Ansŏ	Poem
+27	320	Temptation of New Greenery	Pang Ch'unhae	Literary Miscellaneous
+27	330	New Greenery	Yi T'aejun	Literary Miscellaneous
+27	340	New Greenery and I	Ch'oe Sŏhae	Literary Miscellaneous
+27	350	Thoughts on New Greenery	Ch'oe Yŏngju	Literary Miscellaneous
+27	360	Empty Pocket	Kim Sojŏ	Literary Miscellaneous
+27	370	New Greenery... Etc.	Paengnyŏng	Literary Miscellaneous
+27	380	Creative Work: Homecoming (Middle)	Yu Chino	Novel
+27	390	Play: Setting Sun (One Act)	Ch'ae Mansik	Play/Scenario
+27	400	Greeting Andersen's Memorial Festival... His Position in World Literature	Ech'wi Sŭt'in Holbekŭ	Literary Criticism
+27	410	New Trends in Russian Literature - Advancing Towards Pastoral Literature -	Musosaeng	Literary Criticism
+27	420	Meteorology Lecture: The Cause of the Rainy Season	Cho Yŏnggŭn	Miscellaneous Writing
+27	430	Common Knowledge of Household Electrical Applications (I)	Yun Chubok	Miscellaneous Writing
+27	440	Imjin War Story: The Great Victory at Okp'o and the Great Victory at Hansan	Sin Hyŏngch'ŏl	Miscellaneous Writing
+27	450	Sijo Poem of Yi Ch'ungmugong (Admiral Yi Sun-sin)		Poem
+27	460	Scribbles from the Editorial Office		Notices/Editor's Postscript
+28	010	Foreword		Editorial/Article
+28	020	Congratulatory Messages for the Full 10th Anniversary, From Gentlemen of Various Circles and Fields		Miscellaneous Writing
+28	021	To the People of Kyŏngju		Notices/Editor's Postscript
+28	030	A Brief History of Kaebyŏk Publishing Company		Editorial/Article
+28	040	Recalling the "Kaebyŏk" Era, Commemorative Writings by Gentlemen Who Wrote Then		Memoir/Personal Account
+28	050	History of Korean Newspapers and Magazines: Origins and Publication History	Such'un Hagin	Editorial/Article
+28	060	The Economic Crisis of the Korean People (Part 1)	Chŏng Suil	Editorial/Article
+28	070	A Historical Examination of the Indian Movement	Kim Kijŏn	Editorial/Article
+28	080	Ever-Changing, Chaotic World: Views on the Past and Present of China's Turmoil	An Yunhap	Editorial/Article
+28	090	Special Announcement		Notices/Editor's Postscript
+28	100	New Word Dictionary (IV)		Miscellaneous Writing
+28	110	The Global Impact of the US Economy	Sŏ Ch'un	Editorial/Article
+28	120	The Era of Female Panic	Pak Roa	Editorial/Article
+28	130	The Problem of Human Rights Protection in China, The Superiority of Capitalist Liberalism	Soch'on	Editorial/Article
+28	140	News Clippings from the British Literary Scene		News/Information
+28	150	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+28	160	Casual Talk on the Times		Social Commentary
+28	170	Quo Vadis? A Record of Searching for Mr./Ms. Missing	T'ambogun	News/Information
+28	180	Humorous, Satirical, and Eccentric Bride Candidate Exhibition (Second)	Hosted by SS	Miscellaneous Writing
+28	190	Collection of Evening Tales from Various Countries of the World		Literary Miscellaneous
+28	200	Illustration Supplement for This Issue		Notices/Editor's Postscript
+28	210	Korean People and Summer		Editorial/Article
+28	220	Korean History Journal, July Record		Miscellaneous Writing
+28	230	Modern Fortune Real Estate	Old Modern	Social Commentary
+28	240	Postcard Correspondence		Social Commentary
+28	250	A World Apart		News/Information
+28	260	MODERN COLLEGE Opens, Auditing Greatly Welcomed		Miscellaneous Writing
+28	270	One Person, One Writing		Literary Miscellaneous
+28	280	Humor, Nonsense, Irony: A Collection of Modern Casual Essays, Cartoons Drawn with Words		Literary Miscellaneous
+28	290	The Effect of Psychotherapy on Mental Patients	Medical Psychology Research Society, Yi Yongsik	Editorial/Article
+28	300	A Hundred People, A Hundred Styles: Anecdotes from the Speaker's Platform	Pangch'ŏngsaeng	News/Information
+28	310	The Ambiance of a Summer Lookout Hut (Wŏndumak)		Literary Miscellaneous
+28	311	Old and New Magazine Exchange		Notices/Editor's Postscript
+28	320	The 9th Chosŏn Art Exhibition	Kim Chugyŏng	Literary Criticism
+28	330	Washing Feet (T'akchok)	Roa	Poem
+28	340	"Pagoda" is a Fairytale Land	Roa	Poem
+28	350	(Creative Work) Homecoming (End)	Yu Chino	Novel
+28	360	Woman, The Path of Groping Memories	Kim Tongin	Novel
+28	370	Editorial Scribbles		Notices/Editor's Postscript
+28	380	Last Month's Prize Announcement		Notices/Editor's Postscript
+28	390	New Prize Contest Question		Notices/Editor's Postscript
+29	010	Foreword		Editorial/Article
+29	020	The Economic Crisis of the Korean People (End)	Chŏng Suil	Editorial/Article
+29	030	The Austerity Policy of the Hamaguchi Cabinet (Regarding its Origins, Impact, and Future)	Sŏ Ch'un	Editorial/Article
+29	040	The New Labor Union Bill	Yi Chŏngsŏp	Editorial/Article
+29	050	Rumor Book (1)		Miscellaneous Writing
+29	060	The Anti-Chiang Alliance and Chiang Kai-shek, (A Modern Romance of the Three Kingdoms of Chiang, Feng, and Yan)	Chu Yohan	Novel
+29	070	The Simon Commission Report and the Indian Populace	Yi Yŏsŏng	Novel
+29	080	Regarding the Cooperative Movement	Ham Sanghun	Novel
+29	090	Song of the Haenyeo (Female Divers)	Sŏkpuk Sin Kwangsu	Poem
+29	100	Critique of the Bandit Prevention Law	Yi In	Editorial/Article
+29	110	The Problem of Inland River Navigation Rights in China	Sŏkch'on	Editorial/Article
+29	120	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+29	130	A Short Essay on Consumer Cooperatives	Sŏngnam	Editorial/Article
+29	140	Casual Talk on the Times		Social Commentary
+29	150	What Made It So? A Record of Life Born from Facts, Human Face, Serpent Body (A Sad Tale of a Young Wife Who Murdered Her Husband)	Hoyŏndang In	Literary Miscellaneous
+29	160	Book Cover Bound with a Lover's Skin	K. L. Moril	Literary Miscellaneous
+29	170	Devil of the South Seas (-The Story of Mr. An Who Sells "Flesh and Blood"-)	South Seas Batavia L.P.L	Literary Miscellaneous
+29	180	The Person Who Crawled Out of a Coffin 15 Months After Death		Literary Miscellaneous
+29	190	New Word Dictionary (V)		Miscellaneous Writing
+29	200	Frailty, Thy Name is Man		Literary Miscellaneous
+29	210	My Protest		Literary Miscellaneous
+29	220	Elephant Dentures		Miscellaneous Writing
+29	221	New Prize Contest Question		Notices/Editor's Postscript
+29	230	One Person, One Writing)		Miscellaneous Writing
+29	240	Bride Candidate Exhibition, Humorous, Satirical, Eccentric (Third), Free Admission...	Hosted by SS	Literary Miscellaneous
+29	250	Postcard Correspondence		Miscellaneous Writing
+29	260	Record of Household Extremes, Paper Trial for Family Disputes		Literary Miscellaneous
+29	270	Record of Household Extremes, Great Method for Summer Family Cooling Off		Literary Miscellaneous
+29	280	Multifaceted Human Emotions: A Record of Heartbreak Commotion - (A Specimen Room of Sexual Conflict) -		Literary Miscellaneous
+29	290	Fountain	Roa	Poem
+29	300	Sweetfish	Roa	Poem
+29	310	Dim Moonlit Night	Roa	Poem
+29	320	Woman, The Path of Groping Memories (Creative Work)	Kim Tongin	Novel
+29	330	Rural Sketch (Two Acts, Four Scenes), Play	Ch'ae Mansik	Play/Scenario
+29	340	Scribbles from the Editorial Office		Notices/Editor's Postscript
+29	350	Waterfall Pavilion of Various Places in Korea		Literary Miscellaneous
+29	360	A Separate World: North and South Pole Pavilion		Travelogue
+29	370	Rumor Book (II)		Miscellaneous Writing
+29	380	Nature Music Pavilion		Literary Miscellaneous
+29	390	Specially Selected Overseas Masterpiece: Hilarious Cartoon Pavilion		Comic/Cartoon
+29	400	Nonsense Special Pavilion		Literary Miscellaneous
+29	410	Ocean Museum		Travelogue
+29	420	Rumor Book (III)		Miscellaneous Writing
+29	430	Spot Sale Pavilion		Miscellaneous Writing
+29	440	Advance Payment		Miscellaneous Writing
+30	010	Foreword, The Ambitions of the Great Powers		Editorial/Article
+30	020	New Global Anxiety, Gathering Storm Clouds: A Second World War?!		Survey/Questionnaire
+30	030	Outlook for Korean Rice Prices This Autumn	Sin T'aeik	Editorial/Article
+30	040	Economic Panic and the Unemployment Problem	Sŏngnam	Editorial/Article
+30	050	The Nationality Problem of Koreans	Yi In	Editorial/Article
+30	060	The Liberation Movement of the Annamese People (Vietnamese)	Yi Hakchung	Editorial/Article
+30	070	Explanation of the Franco-Italian Friction	Kim Changhwan	Editorial/Article
+30	080	Casual Talk on Current Thoughts		Social Commentary
+30	090	March of the 4,000-Year-Old Ancient Capital P'yŏngyang: Local Introduction (Part 1) - Overview of P'yŏngyang Social Organizations	P'yŏngyang O Kiyŏng	News/Information
+30	100	March of the 4,000-Year-Old Ancient Capital P'yŏngyang: Local Introduction (Part 1) - P'yŏngyang Seen After Ten Years	Chu Yosŏp	Literary Miscellaneous
+30	110	While Establishing the Local Introduction Column		Notices/Editor's Postscript
+30	120	P'yŏngyang...P'yŏngyang Miscellany, Manila Dance (Old Manuscript), Recollection of Fish Porridge (Ŏjuk)	Siŏdim	Literary Miscellaneous
+30	130	P'yŏngyang...P'yŏngyang Miscellany, P'yŏngyang and I	Chu Yohan	Literary Miscellaneous
+30	140	P'yŏngyang...P'yŏngyang Miscellany, Song of the Merchant Girl of P'aesŏng (P'yŏngyang)	Kim Ansŏ	Literary Miscellaneous
+30	150	P'yŏngyang...P'yŏngyang Miscellany, P'yŏngyang Memoir	Ŭn Chunggi	Literary Miscellaneous
+30	160	Humorous, Satirical, Eccentric Bride Candidate Exhibition (Fourth)	Hosted by SS	Miscellaneous Writing
+30	161	Newly Established Branch Office		Notices/Editor's Postscript
+30	170	One Family, One Word	Ch'oe Hoyŏng (Violinist)	Miscellaneous Writing
+30	180	One Family, One Word	Ch'oe Sŭnghŭi (Dancer)	Miscellaneous Writing
+30	190	One Family, One Word	Yi Chŏnghŭi (Female Aviator)	Miscellaneous Writing
+30	200	One Family, One Word	An Sŏkchu (Cartoonist/Illustrator)	Miscellaneous Writing
+30	210	Life Aspects of Small Nations Around the World, The Evergreen Country: Philippines	Pukhungsaeng	News/Information
+30	220	Life Aspects of Small Nations Around the World, Suffering India	Pukhungsaeng	News/Information
+30	230	Life Aspects of Small Nations Around the World, Burma of Eastern Charm	Pukhungsaeng	News/Information
+30	240	Life Aspects of Small Nations Around the World, Dreamlike Country: Annam (Vietnam)	Pukhungsaeng	News/Information
+30	250	Rumor Book (1)		News/Information
+30	260	The Era of Useless Prisons, Epoch-Making Hormone Therapy	Usŏk Trans.	Miscellaneous Writing
+30	270	Local Color		Literary Miscellaneous
+30	280	Postcard Correspondence		Miscellaneous Writing
+30	290	Nonsense Serial Casual Essay, New Refined Rice Wine is Guilty		Novel
+30	300	Faces of Korean Conscripted Soldiers Viewed Through Phrenology (Part 1)	Pae Sangch'ŏl	Miscellaneous Writing
+30	310	Rumor Book		News/Information
+30	320	The Life of the Mongols	Nakt'ach'ibongin	Travelogue
+30	330	The Truth of the Wife-Transfer Incident Between Japanese Writers Tanizaki and Satō, The Incident of Transferring a Beloved Wife Along with Her Daughter - It Was a Decade-Long Conflict of Love and Desire.	A Reporter	Miscellaneous Writing
+30	340	Praise of World Women	Chinnamsaeng	Miscellaneous Writing
+30	341	New Prize Contest Question		Notices/Editor's Postscript
+30	350	Full Thoughts from Prison		News/Information
+30	360	Cooking the Giant Kim Pugwi	A Reporter	Interview/Roundtable
+30	370	Modern Women and Healthy Beauty, Beauty Secrets Revealed	Namp'asaeng	Miscellaneous Writing
+30	380	Rumor Book		News/Information
+30	390	Modern Fortune Real Estate	Old Modern	Miscellaneous Writing
+30	400	Special Public Exposure on Paper: Major Crackdown on Profiteering (Part 1), Medicine Prices and Treatment Costs	Hoyŏndang In	Social Commentary
+30	410	Woman (VI), The Path of Groping Memories	Kim Tongin	Novel
+30	420	Detective Novel: The Luminous Pearl Buried in Human Flesh	L. G. Ppisŭt'on	Novel
+30	430	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+30	440	Nonsense Human	Paek Kwi	Miscellaneous Writing
+30	450	Early Autumn and Essays, A Few Pieces of Autumn	Paek Kwi	Literary Miscellaneous
+30	460	Early Autumn and Essays, Autumn Water	Kim Ansŏ	Literary Miscellaneous
+30	470	Early Autumn and Essays, Oriole	Wŏrho	Literary Miscellaneous
+30	480	Early Autumn and Essays, Untitled	Yi Sosan	Literary Miscellaneous
+30	490	Early Autumn and Essays, Fragmentary Thoughts on Early Autumn	Sojŏ	Literary Miscellaneous
+30	500	Early Autumn and Essays, Autumn and I	Pak Roa	Literary Miscellaneous
+30	510	Early Autumn and Essays, Autumn, Insects, and I	Kim Tongjin	Literary Miscellaneous
+30	520	Early Autumn and Essays, Autumn Water	Yun Paengnam	Literary Miscellaneous
+30	530	Editorial Scribbles		Notices/Editor's Postscript
+30	540	Note for When Ordering		Notices/Editor's Postscript
+31	010	Foreword, Implementation of the Bandit Prevention Law		Editorial/Article
+31	020	Overview of the Current Korean Economic World, Regarding the Driving Forces Influencing Korea's Economy and Its Current State	Sin T'aeik	Editorial/Article
+31	030	Explanation of the Newly Implemented Bandit Prevention Law	Lawyer Yang Yunsik	Editorial/Article
+31	040	One Question, One Answer Record (1)		Survey/Questionnaire
+31	050	One Question, One Answer Record (2)		Survey/Questionnaire
+31	060	One Question, One Answer Record (3)		Survey/Questionnaire
+31	070	One Question, One Answer Record (4)		Survey/Questionnaire
+31	080	One Question, One Answer Record (5)		Survey/Questionnaire
+31	090	One Question, One Answer Record (6)		Survey/Questionnaire
+31	100	One Question, One Answer Record (7)		Survey/Questionnaire
+31	110	One Question, One Answer Record (8)		Survey/Questionnaire
+31	120	One Question, One Answer Record (9)		Survey/Questionnaire
+31	130	One Question, One Answer Record (10)		Survey/Questionnaire
+31	140	Where is Russia Going? Achievements of the Five-Year Plan and Its Future Plans	A Reporter	Editorial/Article
+31	150	Theory of Labor Education	Cho Chaeho	Editorial/Article
+31	160	The Issue of Middle School Education Improvement Policy Viewed from Reality		Survey/Questionnaire
+31	170	The Political Function of the Privy Council	Mangjunghanin	Editorial/Article
+31	180	The Philippine Independence Movement and the United States	Yi Hakchung	Editorial/Article
+31	190	Smoking Room		Miscellaneous Writing
+31	200	The Red Movement in China, Two Topics on Current Chinese Affairs	Kim Seyong	Editorial/Article
+31	210	Ten-Day Reign Northern Government, Great Unity of Unfortunate Politicians? Two Topics on Current Chinese Affairs	Chu Yohan	Editorial/Article
+31	220	Notice of Thanks		Notices/Editor's Postscript
+31	230	Battle Record of the P'yŏngyang Rubber Factory Dispute	O Kiyŏng	Editorial/Article
+31	240	Casual Talk on the Times		Social Commentary
+31	241	New Prize Contest Question		Notices/Editor's Postscript
+31	250	Taegu March	Sanghwa	Poem
+31	260	Where is Taegu Going?	Anghyosaeng	Editorial/Article
+31	270	Overview of Taegu Companies and Organizations	Taegu 264	News/Information
+31	280	Taegu Taegu Taegu, History, Famous Places, and Historic Sites	Paek Kiman	News/Information
+31	290	Pride and Faults	Taegu Ch'ŏnsu	Editorial/Article
+31	300	A Glimpse of the Taegu Commerce and Industry World	Sŏ Sangil	Editorial/Article
+31	310	The Rising Taegu Commercial World	K.M.L.	Editorial/Article
+31	320	Taegu Miscellaneous Criticism	Unjŏng	Literary Miscellaneous
+31	330	Highlights of Taegu's Famous Beauties ("Flowers")	P'ungwŏllu Chuin	Miscellaneous Writing
+31	340	Postcard Correspondence		Miscellaneous Writing
+31	350	Pilgrimage Record of Famous Autumn Foliage Spots in Various Parts of Korea	Such'un Sanin	Travelogue
+31	360	Public Exposure on Paper: Major Crackdown on Profiteering (Part 2), Pawnshops, Rental Houses, Western Clothing Stores)		Social Commentary
+31	370	Profiles of Prime Ministers from Various Countries Around the World		News/Information
+31	380	Rare Stories from the Speaker's Platform	Pang Sop'a	Memoir/Personal Account
+31	390	New Word Dictionary (VI)		Miscellaneous Writing
+31	400	Groom Candidate Exhibition (Nonsense, Irony, Humor), Hosted by the Groom Qualification Screening Committee		Miscellaneous Writing
+31	410	Devil's Love, Record of New Family Life Breakdown, New Women: Why Can't They Endure Married Life with In-laws?	Usŏk	Literary Miscellaneous
+31	420	White Slaves of a Despotic King, Record of New Family Life Breakdown, New Women: Why Can't They Endure Married Life with In-laws?	A Reporter	Literary Miscellaneous
+31	430	The First Step Was Wrong, Record of New Family Life Breakdown, New Women: Why Can't They Endure Married Life with In-laws?	Kim O Suk	Literary Miscellaneous
+31	440	Faces of Korean Conscripted Soldiers Viewed Through Phrenology (Part 2)	Pae Sangch'ŏl	Miscellaneous Writing
+31	441	Branch Office Recruitment		Notices/Editor's Postscript
+31	450	Faults of the Wife According to the Husband. Faults of the Husband According to the Wife		Survey/Questionnaire
+31	460	Memoir of Participating in the 1927 Canton Incident (Guangdong) Chinese Revolutionary Turmoil, Remaining Stories of the Chinese Civil War	Hosang Kŏin	Editorial/Article
+31	470	The Woman Who Swallowed 50,000 Pistols, Record of a Female Spy's Activities	A Reporter	Miscellaneous Writing
+31	480	Rumor Book		Miscellaneous Writing
+31	490	A World Apart		Miscellaneous Writing
+31	500	Modern Fortune Real Estate		Miscellaneous Writing
+31	510	Standing in the Autumn Fields	Roa	Poem
+31	520	Namdaemun (South Gate)	Roa	Poem
+31	530	Thinking of a Friend	Yi Yusuk	Poem
+31	540	Sŏnjuk Bridge (Sijo)	Yi Yusuk	Poem
+31	550	(Play) Rice (One Act)	Ch'ae Mansik	Play/Scenario
+31	560	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+31	570	Detective Novel, Secret of the Cursed House (1), Original Title: The Green Door	H. Raendon	Novel
+31	580	Editorial Scribbles		Notices/Editor's Postscript
+32	010	Increased Harvest: 6 Million Sŏk (Unit of grain volume)		Comic/Cartoon
+32	020	Where is Korea Going?		Survey/Questionnaire
+32	021	(Untitled)		Notices/Editor's Postscript
+32	030	The Pressing Rural Policy Problem Controlling the Fate of the Korean People, Society Must Pay Great Attention to This	Mamyŏng	Editorial/Article
+32	031	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+32	040	One Question, One Answer Record		Interview/Roundtable
+32	050	A Study on Whether to Abolish Middle School Exams and Its Implementation	Cho Chaeho	Editorial/Article
+32	060	Collapse of Rice Prices Due to Increased Harvest and the Decline of the Korean Rural Economy	Sin T'aeik	Editorial/Article
+32	061	Smoking Room		Miscellaneous Writing
+32	070	How About the Realization of the European Union Plan?	Kim Changhwan	Editorial/Article
+32	080	World-Class Orators	Pangch'ŏngsaeng	Miscellaneous Writing
+32	090	Kyŏngsŏng Kyŏngun-dong Kaebyŏk Company Postcard Correspondence	Chongno Il T'onghaengin	Social Commentary
+32	100	The Current Stage of Korean Industry	Hong Sŏngha	Editorial/Article
+32	110	Casual Talk on the Times		Social Commentary
+32	120	March of the Newly Adorned Old Capital Kaesŏng (Local Introduction... Part 3)		Miscellaneous Writing
+32	130	Kaesŏng... This Face and That Face of Kaesŏng		Literary Miscellaneous
+32	131	Last Month's Prize Contest Question		Notices/Editor's Postscript
+32	140	Gold Deficiency Syndrome		Comic/Cartoon
+32	150	Letter from a Country Father		Comic/Cartoon
+32	160	Public Exposure on Paper: Major Crackdown on Profiteering (Part 3), Electric Company, Photo Studio, Retail Rice Millers		Miscellaneous Writing
+32	170	Scenery of Men and Women on Autumn Streets		Literary Miscellaneous
+32	180	Faces of Korean Conscripted Soldiers Viewed Through Phrenology (Part 3)	Pae Sangch'ŏl	Miscellaneous Writing
+32	190	Record of Visiting the Tomb of Ŭlchi Mundŏk	Yi Yunjae	Travelogue
+32	200	Physiognomy Record of Kyŏngsŏng's Famous Figures	Kwansangja	News/Information
+32	210	Sweet Home: Record of Visiting Mr. Yi Kwangsu's Home	Kim Sojŏ	News/Information
+32	211	Newly Established Branch		Notices/Editor's Postscript
+32	220	Groom Candidate Exhibition, Hosted by the Groom Qualification Screening Committee		Miscellaneous Writing
+32	230	A World Apart		News/Information
+32	240	Record of Same-Sex Love by Famous Women Writers/Artists		Memoir/Personal Account
+32	250	The World Seen from Behind: Exposing the Underside of Society (Part 1), The Inside Story of the Newspaper World	Kim Ŭrhan	Social Commentary
+32	260	Methodology of Birth Control Viewed Medically	Chŏng Sŏkt'ae	Editorial/Article
+32	270	Ghost Stories from Various Countries Around the World		Miscellaneous Writing
+32	280	Modern Fortune Real Estate (Old Modern)	(Old Modern)	Miscellaneous Writing
+32	290	At the Ruins of Hwasŏmun Gate	Roa	Poem
+32	300	Three Years Apart (and 4 others), Free Translation of Rhymed Chinese Poems	Kim Ansŏ	Poem
+32	310	Woman (VII), The Path of Groping Memories	Kim Tongin	Novel
+32	311	Grand Prize Contest for the 4th Anniversary		Notices/Editor's Postscript
+32	320	Riders to the Sea	Synge	Play/Scenario
+32	330	Detective Novel: Secret of the Cursed House (II), The Green Door (Original Title)	H. Raendon	Novel
+32	331	Branch Office Newly Established		Notices/Editor's Postscript
+32	340	Editorial Scribbles		Notices/Editor's Postscript
+33	010	The Waning Year 1930		Editorial/Article
+33	020	How Did Korea Move This Past Year? Final Accounting of Various Movements in 1930, Final Accounting of the 1930 Korean Economic World	Sin T'aeik	Editorial/Article
+33	030	How Did Korea Move This Past Year? Final Accounting of Various Movements in 1930, Social Movements During 1930	Kim Kyŏngjae	Editorial/Article
+33	040	How Did Korea Move This Past Year? Final Accounting of Various Movements in 1930, Various Problems in the Korean Education World During 1930	Ch'oe Chinsun	Editorial/Article
+33	050	Postcard Correspondence Greatly Welcomed		Notices/Editor's Postscript
+33	060	Prize Money 100 Won = Recruitment for Two Grand Prize Contests, Manuscripts for "Student Song" and "Oratory Contest"		Notices/Editor's Postscript
+33	070	How Did Korea Move This Past Year? Final Accounting of Various Movements in 1930, The Religious World During 1930	Kim Pyŏngjun	Editorial/Article
+33	080	How Did Korea Move This Past Year? Final Accounting of Various Movements in 1930, The Literary Scene During 1930	Yi Hayun	Literary Criticism
+33	090	One Question, One Answer Record (1)	Yi Tonhwa	Survey/Questionnaire
+33	100	One Question, One Answer Record (2)	Chŏng Taehyŏn	Survey/Questionnaire
+33	110	The Pressing Rural Policy Problem Controlling the Fate of the Korean People (End), Society Must Pay Great Attention to This Problem	Mamyŏng	Editorial/Article
+33	120	One Question, One Answer Record (3)	Sŏ Ch'un	Survey/Questionnaire
+33	130	One Question, One Answer Record (4)	Kim Upy'ŏng	Survey/Questionnaire
+33	140	One Question, One Answer Record (5)	Kim Kyŏngjae	Survey/Questionnaire

@@ -1,0 +1,300 @@
+01	001	Company Announcement =Part 1=		Notice/Editor's Postscript
+01	002	Company Announcement =Part 2=		Notice/Editor's Postscript
+01	003	Company Announcement =Part 3=		Notice/Editor's Postscript
+01	010	Our Slogan		Miscellaneous Writing
+01	020	If You Had 100,000 Won?		Survey
+01	030	True Books and Original Books	From Tōkyō, Sŏl Ŭi-sik	Social Criticism
+01	040	Towards the World, Let Great Scientists Arise from Chosŏn and Advance Globally	Minse An Chae-hong	Editorial/Essay
+01	050	Round-the-World Travelogue (First Letter), Braving the Raging Waves of the Pacific to America, the Land of Gold! Briefly Stopping in Hawaiʻi to See Brothers First	Hŏ Hŏn	Travelogue
+01	060	Masterpiece Writing, Comrade's Funeral Oration	Anonymous	Miscellaneous Writing
+01	070	Autobiography	Hong Myŏng-hŭi	Memoir/Reminiscence
+01	080	Calling a Comrade	Chŏng Ch'il-sŏng	Literary Miscellany
+01	090	Our Benefactor	Sin Hŭng-u	Memoir/Reminiscence
+01	100	The Last Moments of a Death Row Inmate	Judge K	Miscellaneous Writing
+01	110	The Protagonist of an Eternal Tragedy, The Last Days of King Ŭija of Paekche, Romance on Nakhwaam Rock	Mun Il-p'yŏng	Miscellaneous Writing
+01	120	Masterpiece Writing (Excerpt), Sparrow	Turgenev	Literary Miscellany
+01	130	Study of Past Events - The Brilliant Civilization of Silla and the Glory of the Silla People, What Was Its Capital Kyŏngju Like? (1)	Hwang Ŭi-don	Editorial/Essay
+01	140	Company Announcement	Samch'ŏlli Company	Notice/Editor's Postscript
+01	150	The Siberian Atmosphere Where Katyusha Was Exiled	Kim Tong-jin	Literary Miscellany
+01	160	Chat Room, The Scholar Who Died Abroad		Miscellaneous Writing
+01	170	Pilgrimage to the Land of Women, Cheju Island Haenyeo	Kim Tu-baek	Miscellaneous Writing
+01	180	Pilgrimage to the Land of Women, Nuns in Temples	Chŏng In-ik	Miscellaneous Writing
+01	190	If I Were Reborn?		Survey
+01	200	True Story of Becoming a Millionaire Through Rice and Beans, Losing a Lover and Angrily Trading Rice and Beans to Win 200,000 Won, A Young Man Who Worked as a Clerk in Suwŏn Suddenly Becomes a Millionaire	Chŏng Su-il	Memoir/Reminiscence
+01	210	True Story of a Millionaire's Downfall, Misjudging the Market and Losing a Million Won Overnight, He Who Spent 10,000 Won on Wedding Expenses Is Now Destitute		Memoir/Reminiscence
+01	220	Literary World March		News/Information
+01	230	Secret Stories of Famous Detectives, Murder Cases and Fingerprints	As told by Inspector N	Memoir/Reminiscence
+01	240	Points of Agreement and Difference Between National Literature and Proletarian Literature		Survey
+01	250	Confiscation Record		Notice/Editor's Postscript
+01	260	Announcement of the Newly Selected "Eight Scenic Views of the Peninsula" Recommended by All Chosŏn Writers, Its Purpose and Our Company's Plan		Survey
+01	270	Calling "Nongae, Nongae," Visiting Ch'oksŏngnu Pavilion in Early Summer, The City of History and Song Strings	From Chinju Castle, Kim Tong-hwan	Travelogue
+01	280	Novels in the Three Major Newspapers		Literary Criticism
+01	290	Confiscation Record		Notice/Editor's Postscript
+01	300	Chat Room, Heavenly Strength and Diligent Talent		Miscellaneous Writing
+01	310	Nude Models and the Painter's Touch		Survey
+01	320	Pilgrimage to Famous Literary Places (1) Ch'unwŏn's "Mujŏng," Samnangjin Where Pak Yŏng-ch'ae and Kim Sŏn-hyŏng Performed Music	Ch'o Kong	Travelogue
+01	330	Poem	Han Yong-un	Poetry
+01	340	To a New Country (and 1 other poem)	Ch'unwŏn	Poetry
+01	350	Flower Selling Boy (and 1 other poem)	Yi Ŭn-sang	Poetry
+01	360	Thinking of Home	Yŏsu	Poetry
+01	370	Ode to Samch'ŏlli (Korea)	Sim Hun	Poetry
+01	380	Rotten Walnut	Yŏm Sang-sŏp	Fiction/Novel
+01	390	Editor's Postscript		Notice/Editor's Postscript
+02	001	◇Announcement of Writers for the Peninsula's Eight Scenic Views Tour◇		Notice/Editor's Postscript
+02	010	Unique Colors Blooming in Samch'ŏlli (Korea)		Literary Miscellany
+02	020	Pioneers of the Past and Pioneers of the Future	An Chae-hong	Editorial/Essay
+02	030	Chosŏn Longing for Pioneers	Yi Kwang-su	Literary Criticism
+02	040	Critique of "Red Love," Regarding Kollontai's Sexual Morality	Chŏng Ch'il-sŏng	Dialogue/Roundtable
+02	050	Mental Test of a Famous Person (1), Kŭnuhoe Central Committee Chairman Ms. Chŏng Ch'il-sŏng		News/Information
+02	060	Alcohol and Women Make Men Laugh Until They Die.		Miscellaneous Writing
+02	070	Jokes		Miscellaneous Writing
+02	080	Anecdotes		Miscellaneous Writing
+02	090	The Ideal Husband	Chat Room	Miscellaneous Writing
+02	100	Politics: The Ill-fated Patriot Kim Ok-kyun, Glorious Pioneers of Chosŏn!!	Min T'ae-wŏn	Editorial/Essay
+02	110	Religion: Mr. Yi Sang-jae and Mr. Son Pyŏng-hŭi, Glorious Pioneers of Chosŏn!!	Yun Ch'i-ho	Editorial/Essay
+02	120	Literature (1): Pioneer of the New Literary Movement, Glorious Pioneers of Chosŏn!!	Chu Yo-han	Editorial/Essay
+02	130	Literary Arts (2): Pioneer of the Chosŏn Proletarian Literary Movement, Glorious Pioneers of Chosŏn!!	Kim Ki-jin	Editorial/Essay
+02	140	Theater/Film: Pioneers of the Theater and Film Worlds, Glorious Pioneers of Chosŏn!!	Kwanaksanin	Editorial/Essay
+02	150	Untitled		Miscellaneous Writing
+02	160	Baoshan Road, Shanghai	Yi Yŏ-sŏng	Literary Miscellany
+02	170	Ch'unwŏn and "Kim Ok-kyun"	Chat Room	Memoir/Reminiscence
+02	180	Round-the-World Travelogue (Second Letter), Seeing the Flowers of "Hollywood," Crossing the Atlantic Again to Ireland!	Hŏ Hŏn	Travelogue
+02	190	Mental Test of a Famous Person (Part 2), Chosŏn Ilbo President Mr. Sin Sŏk-u		News/Information
+02	200	Autobiography	Hong Myŏng-hŭi	Memoir/Reminiscence
+02	210	Mental Test of a Famous Person (Part 3), Tonga Ilbo President Mr. Song Chin-u		News/Information
+02	220	Self-Portrait, Fifty Tumultuous Years	Ch'oe Rin	Memoir/Reminiscence
+02	230	Chat Room		Miscellaneous Writing
+02	240	My View on Love and Marriage	Ch'oe Ŭi-sun	Editorial/Essay
+02	250	Wandering, Professor, Lawyer	Kim Pyŏng-no	Memoir/Reminiscence
+02	260	Record Without Head or Tail	From Tōkyō, Sŏl Ŭi-sik	Literary Miscellany
+02	270	Half a Life of Poverty, Struggle, and Solitude	Chŏng Chong-myŏng	Memoir/Reminiscence
+02	280	Seeing the Rising China	Yi Kwan-yong	Editorial/Essay
+02	290	The Divorce Issue and Modern Law	Lawyer Yi In	Editorial/Essay
+02	300	An Era of Fear for National Health, Proposal for Establishing Tuberculosis Sanatoriums	Dr. Chŏng Sŏk-t'ae (M.D.)	Editorial/Essay
+02	310	Natural Science Lecture (1), Barbarians and the Concept of Number	Yi Chŏng-sŏp	Editorial/Essay
+02	320	Pae Ku-ja's Dance Hall, Visit to the Dance Research Institute in Sindang-ri Culture Village		News/Information
+02	330	Alas, Ill-fated Writers		Memoir/Reminiscence
+02	340	Horse Driver (and 2 other poems)	Yi Ŭn-sang	Poetry
+02	350	(Untitled - National Compilation)		Miscellaneous Writing
+02	360	Cossack Lullaby	Translated by Kim Tong-jin	Literary Miscellany
+02	370	Chat Room, If You Intend to Marry		Miscellaneous Writing
+02	380	True Story, The Pitiful "Suhyang" Sold in the Human Flesh Market		Memoir/Reminiscence
+02	381	◇After Editing◇		Notice/Editor's Postscript
+03	010	Attending the Pacific Conference, Held in American Territory Hawaiʻi	Yŏnhŭi Professional School Professor Yu Ŏk-kyŏm	Memoir/Reminiscence
+03	020	Attending the International Bar Association Conference, Held in Peiping, China	Posŏng Professional School Principal Pak Sŭng-bin	Memoir/Reminiscence
+03	030	Attending the World Parliament of Religions, Held in Jerusalem, Judea	Chosŏn Sunday School General Secretary Chŏng In-kwa	Memoir/Reminiscence
+03	040	Those Active Globally		News/Information
+03	050	Biographies of Masters (Part 1), National Singer Master Yi Tong-baek		Dialogue/Roundtable
+03	060	Anecdotes		Miscellaneous Writing
+03	070	The Recent American New Woman	Ewha Professional School Professor Ms. Yun Sŏng-dŏk	Dialogue/Roundtable
+03	080	Jokes		Miscellaneous Writing
+03	090	Round-the-World Travelogue (Third Letter), Resurgent Ireland and the Stature of England	Hŏ Hŏn	Travelogue
+03	100	Mental Test of a Famous Person (Part 4)	Singanhoe Central Committee Chairman Mr. Hŏ Hŏn	News/Information
+03	110	Chat Room		News/Information
+03	120	Mental Test of a Famous Person (Part 4)	Chosŏn Education Association Chairman Mr. Yu Chin-t'ae	News/Information
+03	130	The Constructive Spirit of Women in Transition	Pae Sŏng-nyong	Editorial/Essay
+03	140	Critique of "The Stepmother's Tragedy"		Editorial/Essay
+03	150	Eight Scenic Views of the Peninsula	Kim Tong-in	Literary Miscellany
+03	151	Difficulty Writing		Notice/Editor's Postscript
+03	160	Chat Room (Continued)		Miscellaneous Writing
+03	170	Lover and Wife		Literary Miscellany
+03	180	Property and Age		Miscellaneous Writing
+03	190	Lover and Husband		Literary Miscellany
+03	200	Quick Retorts		Miscellaneous Writing
+03	210	Impressions of a Husband Whose Wife Became a Working Woman		Literary Miscellany
+03	220	Lowly Books		Miscellaneous Writing
+03	230	A Side View of Love and Marriage	Sim Hun	Editorial/Essay
+03	231	Company Announcement		Notice/Editor's Postscript
+03	240	Poem	Yohan	Poetry
+03	250	Sketches of the North Country	Yi Hyo-sŏk	Fiction/Novel
+03	260	The Infinite Power of Life	Yang Paek-hwa	Literary Miscellany
+03	270	Editor's Postscript		Notice/Editor's Postscript
+04	010	Life That Will Grow in the Next Ten Years!!, The Press, Education Circles, etc.		Editorial/Essay
+04	011	Calling Friends of Samch'ŏlli Company		Notice/Editor's Postscript
+04	012	A Grand National Undertaking!!		Notice/Editor's Postscript
+04	020	What Was Done in the Past Ten Years, What Will Be Done in the Next Ten Years		Survey
+04	030	Father's Character Assessment, Son's Character Assessment		Literary Miscellany
+04	040	Social Activities of Modern Women		Miscellaneous Writing
+04	050	The Origin of Pen Names!	Min T'ae-wŏn	Memoir/Reminiscence
+04	060	Chat Room		Miscellaneous Writing
+04	070	Casual Critique of Contemporary Writing	Sŏnggŏ Sanin	Literary Criticism
+04	080	Scene at the Execution Stand	P'ain	News/Information
+04	090	Pilgrimage of Talent (Part 1), The Newspaper Companies		News/Information
+04	100	The Bizarre Secret Society Shanghai Green and Red Gangs, Even Chiang Kai-shek Hid in the Leader's House, The Secret Society That Makes Police Officers Tremble, Ghostly Actions!	Sim Hun	News/Information
+04	110	The Origin of Pen Names	An Chae-hong, Kim Ki-jin, Kim Ŏk	Memoir/Reminiscence
+04	120	The Purpose of Marriage		Miscellaneous Writing
+04	130	Activities of Modern Women (Continued)		Literary Miscellany
+04	131	(Untitled - National Compilation)		Notice/Editor's Postscript
+04	140	Appreciation of Folk Songs	P'ain	Literary Criticism
+04	150	Shoes	Kim Tong-in	Fiction/Novel
+04	160	Editor's Final Words		Notice/Editor's Postscript
+04	161	Company Announcement		Notice/Editor's Postscript
+05	001	Outlook and Assertion		Editorial/Essay
+05	002	Theory of University Composition: A Farmers' University is Most Necessary -- Possible with a Minimum of 150,000 Won --	An Chae-hong	Dialogue/Roundtable
+05	003	Theory of University Management: A Comprehensive University for 2 Million Won -- Completed in Three to Five Years --	Ch'oe Rin	Dialogue/Roundtable
+05	004	Theory of University Talent Cultivation: Training Leaders and Technicians -- I Will Sell Novels to Provide Financial Aid --	Yi Kwang-su	Dialogue/Roundtable
+05	005	The Origin of Pen Names (2)		Miscellaneous Writing
+05	006	Lingering Fragrance of Famous Kisaeng		Poetry
+05	007	Past History: The Course of the People's University Movement	Kim Tong-hwan	Editorial/Essay
+05	010	Pilgrimage of Talent, Part 2: Social Organizations		News/Information
+05	020	March of Rising China, Nanking Revolutionary Army Bereaved Families School and Ideal Village, Educational Facilities, Art Movement	Sohang Scholar	News/Information
+05	021	◇Two Company Announcements		Notice/Editor's Postscript
+05	030	Study of Assassination Groups (Part 1)		Editorial/Essay
+05	040	Golden Age		Memoir/Reminiscence
+05	041	○Company Announcement		Notice/Editor's Postscript
+05	050	Lingering Fragrance of Famous Kisaeng		Poetry
+05	060	Miscellaneous Thoughts on Literature and Art	P'ain	Editorial/Essay
+05	070	Before and After Marriage (2), Fantasy and Ideal	Cho Ch'un-gwang	Survey
+05	071	Representatives and Voters in Various Countries		Miscellaneous Writing
+05	072	◇Announcement of Branch Office Establishment		Notice/Editor's Postscript
+05	080	Heroine of the Peninsula, The Sad History of Queen Min	Topo Kŏsa	Literary Miscellany
+05	090	The Cry for Birth Control!!, Four Major Medical Methods	Dr. Chŏng Sŏk-t'ae (M.D.)	Dialogue/Roundtable
+05	100	The Cry for Birth Control!!,		Editorial/Essay
+05	110	Night Patrol Reporting Desk		News/Information
+05	120	Jokes		Miscellaneous Writing
+05	130	The Village of Peace and Free Love on a Remote South Sea Island	Kangnam Kŏsa	News/Information
+05	140	Modern View of Beauty, Literature and Beauty	Yŏm Sang-sŏp	Literary Miscellany
+05	150	Before and After Marriage, The Growth of Love Over Seven Years	Kim Yŏng-p'al	Literary Miscellany
+05	160	Strange Tales from the Reign of Yŏnsan-gun of the Yi Dynasty, The Death of Paengnandang	Yun Paeng-nam	Literary Miscellany
+05	170	Boatman's Song	P'ain (lyrics), Sŏk-yŏng (illustration)	Poetry
+05	180	Boatman's Wife	P'ain (lyrics), Sŏk-yŏng (illustration)	Poetry
+05	190	Arirang	P'ain (lyrics), Sŏk-yŏng (illustration)	Poetry
+05	200	A-frame Carrier	P'ain (lyrics), Sŏk-yŏng (illustration)	Poetry
+05	210	Seagull	P'ain (lyrics), Sŏk-yŏng (illustration)	Poetry
+05	220	Country Bride	P'ain (lyrics), Sŏk-yŏng (illustration)	Poetry
+05	221	Announcement of the "Resurrection Issue" Publication		Notice/Editor's Postscript
+05	222	◇Announcement of Branch Office Establishment (2)		Notice/Editor's Postscript
+05	223	◇Announcement of Sales Office Establishment		Notice/Editor's Postscript
+06	001	Call for Open Letters		Notice/Editor's Postscript
+06	010	American Presidential Election Campaign	Kim Yŏ-sik	News/Information
+06	020	China, Scene of Boycotting British Goods in Shanghai	Chu Yo-han	News/Information
+06	030	France, May Day March in Paris	Yi Chŏng-sŏp	News/Information
+06	040	Britain, March of Heroines in the Women's Suffrage Movement, 10,000 Women Demonstrate in the Streets of London	From London, Cambridge Scholar	News/Information
+06	050	Italy, Grand Spectacle of the Centennial Memorial Service for Martyrs, Scene of the Grand Commemoration Festival of Old Christianity (Catholicism)	Chŏng Sŏk-t'ae	Travelogue
+06	051	Ch'unwŏn's Autobiography		Notice/Editor's Postscript
+06	060	Statements from Various People		Survey
+06	070	Night Patrol Reporting Desk		Miscellaneous Writing
+06	080	Smoking Room		Miscellaneous Writing
+06	090	Jokes		Miscellaneous Writing
+06	100	We and the Three Laws	Yi In, Han Kuk-chong, Kwŏn Sŭng-nyŏl	Editorial/Essay
+06	101	Public Opinion Welcome		Notice/Editor's Postscript
+06	110	Impressions of a Newspaper Reporter Standing in Court (Part 1), Son Pyŏng-hŭi	Yu Kwang-nyŏl	News/Information
+06	120	Yŏ Un-hyŏng on the Train	Kim Ŭl-han	Memoir/Reminiscence
+06	130	Sorrowful Moan of a Court Lady		Poetry
+06	140	The Poisoning Beauty Kim Chŏng-p'il Standing in Court	Oryuch'on Kŏsa	News/Information
+06	150	Studies of Famous People		News/Information
+06	160	Argument for Abolishing the Death Penalty, - From Humanitarian and Criminal Policy Perspectives -	Song Chin-u	Editorial/Essay
+06	170	Why Did I Become a Monk?	Han Yong-un	Memoir/Reminiscence
+06	180	Chosŏn Society After Five Years	Im Wŏn-gŭn	Social Criticism
+06	190	Kropotkin's Escape Account	Hanyang Sŏngin (Translator/Abridger)	Memoir/Reminiscence
+06	200	Visit to the Nudist Colony Outside Berlin	Account by Paris Newspaper Reporter Kowaie	Miscellaneous Writing
+06	210	Biography of Lady Ch'oe Songsŏldang, 300,000 Won for Education	Kim Su-kil	News/Information
+06	220	Proposal for a New Morality Between the Sexes	Yun Sŏng-sang, Hwang Sin-dŏk, Na Hye-sŏk, Chŏng Sŏk-t'ae	Dialogue/Roundtable
+06	230	Escape of the Irish President	From Dublin, Ireland, Ch'unch'u P'ilbu	News/Information
+06	240	Alas, Two Deceased Who Died Unnatural Deaths	Kim Tong-jin, Hanyang Kŏsa	Memoir/Reminiscence
+06	250	Secret History of the Chinese Imperial Harem (1)		Literary Miscellany
+06	251	○Apologies		Notice/Editor's Postscript
+06	260	My Novels and Their Models	Yi Kwang-su, Yŏm Sang-sŏp, Hyŏn Chin-gŏn, Yi Ik-sang, Ch'oe Sŏ-hae	Memoir/Reminiscence
+06	270	Fragrance of Masterpieces, Miscellaneous Thoughts from Southern Travels	Yi Kwang-su	Travelogue
+06	280	Fragrance of Masterpieces, Regarding the Composition of the Rising Literary Arts	P'albong Kim Ki-jin	Literary Criticism
+06	290	Fragrance of Masterpieces, Mountain Bird	Kim So-wŏl	Poetry
+06	300	Fragrance of Masterpieces, Ah, Mr. Yi Sang-jae	Chu Yo-han	Literary Miscellany
+06	310	Fragrance of Masterpieces, From Shanghai	Yi Kwang-su	Travelogue
+06	320	Fragrance of Masterpieces, After Parting	Yang Chu-dong	Poetry
+06	330	Three Themes on Picking Flowers (Hansi)	Kim An-sŏ	Poetry
+06	340	Longing for a Smiling Face (and 1 other poem)	Chŏngno P'ung	Poetry
+06	350	Alas, Ninety Springtimes!	Kim Il-lyŏp	Literary Miscellany
+06	360	Several Themes on Women, -Miscellaneous Thoughts from a Hot Spring-	Kim Tong-in	Fiction/Novel
+06	370	The Origin of Pen Names (2)		Miscellaneous Writing
+06	371	Ten Places to See Beauties		Miscellaneous Writing
+06	380	Editor's Monologue		Notice/Editor's Postscript
+06	381	Announcement of Commemorative Issue Publication		Notice/Editor's Postscript
+07	010	Let's Protect the Han River.	P'ain	Poetry
+07	020	Trends of the World		Editorial/Essay
+07	030	Times When Various People Abroad Were Inside (Korea)		Memoir/Reminiscence
+07	040	Expressing Thoughts	P'ain	Poetry
+07	050	Taiwan's Freedom Movement	Taiwanese Ts'ai P'ei-huo	Memoir/Reminiscence
+07	060	Night Patrol Reporting Desk		News/Information
+07	070	Emergence of Ewha Woman's University	Pak Ŭn-hŭi	Literary Miscellany
+07	080	Recent Anti-American Movement in the Philippines	Pacific Scholar	Editorial/Essay
+07	090	Our Slogan Submitted for the Inaugural Issue of This Magazine		Miscellaneous Writing
+07	100	Our Movement and the Problem of Concentrating Strength	An Chae-hong	Editorial/Essay
+07	110	Proposal Regarding the Social Movement	Kim Kyŏng-jae	Editorial/Essay
+07	120	The Extraordinary Figure Who Shocked the World, Mr. Yi Yong-ik's 900,000 Won Incident, What Happened to the Money Deposited in Dai-Ichi Bank?, Dramatic Scenes Surrounding the Stormy Petrel of the Orient	Ch'osa	Memoir/Reminiscence
+07	130	The Fragrance of Life	Ch'unwŏn	Memoir/Reminiscence
+07	140	Pioneer of Modern Education, Mr. Yi Chong-ho	Kim Tong-hwan	Memoir/Reminiscence
+07	150	Alas, Comrades	Chŏng Chong-myŏng, Chang Chi-yŏng, Yi Chong-nin, U Pong-un	Memoir/Reminiscence
+07	160	P'yŏngyang Kisaeng School Where the Unique Beauties of Sŏdo Gathered	Ch'osa	News/Information
+07	170	The Resonance Group and the Newspaper Extra Battle		News/Information
+07	180	TITLE NOT FOUND
+07	190	TITLE NOT FOUND
+07	200	TITLE NOT FOUND
+07	210	TITLE NOT FOUND
+07	220	TITLE NOT FOUND
+07	230	TITLE NOT FOUND
+07	240	TITLE NOT FOUND
+07	250	The Origin of Pen Names		Memoir/Reminiscence
+07	260	Zhang San Li Si (Every Tom, Dick, and Harry) of the Literary World		News/Information
+07	270	National Anthems of France, Germany, Russia		Literary Miscellany
+07	280	Life as a Soviet Communist University Student,	Account by Moscow University Student Yōguri	Memoir/Reminiscence
+07	290	Folk Song Selections		Poetry
+07	300	Critics as Seen by Writers		Literary Criticism
+07	310	Kanggyŏng, The Mountains, Rivers, and People of My Hometown =Lost Hometown=	Kim Sŏk-song	Literary Miscellany
+07	320	P'yŏngyang, Descendants of Koguryŏ and the Foremost Rivers and Mountains	Kim Tong-jin	Literary Miscellany
+07	330	Fragrance of Masterpieces		Literary Miscellany
+07	340	TITLE NOT FOUND
+07	350	Editor's Final Words		Notice/Editor's Postscript
+07	351	Company Announcement		Notice/Editor's Postscript
+08	010	Alas, Tragedy (Opening Words)	Kim Tong-hwan	Notice/Editor's Postscript
+08	020	The Three Recent Major Incidents and Scenes from the Locations		Travelogue
+08	030	Characteristics of the Irish Movement	Yi Yŏ-sŏng	Editorial/Essay
+08	040	Current State of the Annam (Vietnamese) Movement	Pacific Scholar	Editorial/Essay
+08	050	To the Indian National Congress!, Autobiography of India's Gandhi		Memoir/Reminiscence
+08	060	Japanese Scholars' Views on the Chosŏn Problem, etc., Original Title: Imperialism and Colonial Policy		Dialogue/Roundtable
+08	070	Jokes		Miscellaneous Writing
+08	080	Song of Wang Zhaojun		Poetry
+08	090	Prison Diary	Im Wŏn-gŭn	Memoir/Reminiscence
+08	100	The Fragrance of Life	Yi Kwang-su	Literary Miscellany
+08	110	Historical Consideration of Our Lives	Yi Sŏn-gŭn	Editorial/Essay
+08	120	Ireland's Easter Rising, A Facet of the Irish National Movement	Kim Tong-hwan	Editorial/Essay
+08	130	What Happens to Life After Death?		Dialogue/Roundtable
+08	140	Do You Know?, "Realities of Chosŏn" Research Room		News/Information
+08	150	Verdun of Corpses, Travelogue of an Old Battlefield from the Great European War	Chŏng Sŏk-t'ae	Travelogue
+08	160	The Rising Czechs and the Sokol Movement	Kim Po-yŏng	Editorial/Essay
+08	161	Company Announcement		Notice/Editor's Postscript
+08	170	Border Atmosphere		Literary Miscellany
+08	180	Journey to Paektu Mountain, All Contemporary Literary Giants Participate, Tour of the Peninsula's Eight Scenic Views Begins	Written by Minse An Chae-hong	Travelogue
+08	190	Great Undertaking and Vocal Support, From the Head of Samch'ŏlli Company		Notice/Editor's Postscript
+08	200	Famous Ladies and Birth Control		Survey
+08	210	Surgery by an Incompetent Doctor Means Certain Death		Miscellaneous Writing
+08	220	Explanation of Russia's State Security Department "GPU"		News/Information
+08	230	Night Patrol Report		Miscellaneous Writing
+08	240	Flood of Nudity		Social Criticism
+08	250	Ascent of Mount Emei	Nanjing Scholar	Travelogue
+08	260	Company Announcement		Notice/Editor's Postscript
+08	270	Fragrance of Masterpieces		Literary Miscellany
+08	280	Sijo Selections		Poetry
+08	290	All Quiet on the Western Front	By German Remarque	Fiction/Novel
+09	001	Thanks and Apologies		Notice/Editor's Postscript
+09	010	When the Autumn Wind Rises, A Man Rises (Opening Words)	Kim Tong-hwan	Editorial/Essay
+09	020	The Safety and Future of Two Million Compatriots Abroad		Editorial/Essay
+09	030	Recent Collection of Letters from Imprisoned Leaders		Literary Miscellany
+09	040	Critique of "Patriotism"		Editorial/Essay
+09	050	General Survey of Current Forces, Singanhoe, Farmers' Federation, Labor Federation, Youth Federation, Kŭnuhoe, Ch'ŏndogyo, Christianity, Buddhism		News/Information
+09	060	Chŏng Yag-yong and Famous Products		Miscellaneous Writing
+09	070	Wang Chao-ming (Wang Jingwei) and the Northern Government	Yi Chŏng-sŏp	Editorial/Essay
+09	080	The Labor-Farmer Party Split Problem, The Course and Future of the Dissolution Movement	Yi Sŏn-gŭn	Editorial/Essay
+09	090	Love Letters from Shanghai and Tōkyō Days (1)		Literary Miscellany
+09	100	Classic Jokes		Miscellaneous Writing
+09	110	Prison Diary (2)	Im Wŏn-gŭn	Memoir/Reminiscence
+09	120	Ah, Father Yi Kap, Visit with His Daughter, Lady Yi Chŏng-hŭi	Hanyang Scholar	Dialogue/Roundtable
+09	130	Letter of Protest Against Male Infidelity		Dialogue/Roundtable
+09	140	Autumn in the Old Capital		Literary Miscellany
+09	150	Confession of a Love Letter		Memoir/Reminiscence
+09	160	Microcosm of the Current American Poetry Scene	Chŏng In-sŏp	Literary Criticism
+09	170	Fragrance of Masterpieces (3)		Literary Miscellany
+09	180	China's Rising Literature	Yang Paek-hwa	Literary Criticism
+09	190	Theater Founding and the New Theater Movement	Hong Hae-sŏng	Literary Criticism
+09	200	Indian National Movement		News/Information
+09	210	Figures Facing China Currently, Recent Survey		News/Information
+09	220	Depravity	Yŏm Sang-sŏp	Fiction/Novel

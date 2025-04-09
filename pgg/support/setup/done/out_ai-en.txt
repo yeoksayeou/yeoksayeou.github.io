@@ -1,0 +1,300 @@
+54	001	Introductory: The New Year Has Come			Literary Miscellany
+54	010	Let's Do This This Year.			Editorial
+54	020	My History Lecture on Chickens	Stenographer Cho San'gang	Literary Miscellany
+54	030	Bragging about Housekeeping by Women from Each Province	Pak Nangyong	Miscellaneous Writing
+54	040	What are the Two Laws to be Implemented from Today, the Criminal Compensation Act and the Tenant Mediation Ordinance?	Yi In	Dialogue/Roundtable
+54	050	Modern Funeral March (Mandam Novel)	Ilso (pseudonym)	Novel
+54	051	A Country Farmer's Letter	Sŏ Pyŏngjŏm	Social Commentary
+54	052	World Trends, World Situation, Story of World Affairs	Cho Yŏnggŭn	News
+54	053	Historical Story of Kyeyu: Record of the Rebellion of Yi Chingok, Self-Proclaimed Emperor of Great Jin - First Year of Tanjong, Kyeyu	Ch'a Sangch'an	Literary Miscellany
+54	054	Kyŏngsŏng's Famous Figures New Year Physiognomy Record	Physiognomist	Miscellaneous Writing
+54	060	Biographies of Chosŏn Assassins	Such'unsanin (pseudonym)	Literary Miscellany
+54	070	New Year Disturbance Record	Hoegosaeng (Memoirist)	Memoir/Recollection
+54	080	Haedong Koryŏ Kingdom Doctor of Medicine's Nonsense Story of Getting Rich, Story of Making Money with Guts in China	Yang Sangho	Memoir/Recollection
+54	090	Tense... ...Exciting Hunting Story			Literary Miscellany
+54	100	My Bragging Roundtable			Miscellaneous Writing
+54	101	Agile Service	Kim Kyut'aek	Literary Miscellany
+54	110	Kaleidoscope			Miscellaneous Writing
+54	120	Kim, Kim, Kim, Kim, Kim - Story of Ocean Kim	Chŏng Osŏng	Miscellaneous Writing
+54	130	Company Employee New Year's Cards			Miscellaneous Writing
+54	140	Ch'ŏngnyang Line Streetcar's Tale of Woe	Aedorangin (pseudonym)	Social Commentary
+54	150	Beginning of the New Year: Makgeolli General's Standing Bar Tour Record	War Correspondent Pae Irbin	Memoir/Recollection
+54	160	Story of One Making Trouble and Causing a Big Incident	Ilp'ilsaeng (pseudonym)	Miscellaneous Writing
+54	170	Temporary Suicide	Kim Kyut'aek	Literary Miscellany
+54	180	Long-form Lecture Story: Ch'anghae Strongman (Part 12)	Narrated by Wŏlmyŏngsanin (pseudonym), Illustrated by Kim Kyut'aek	Literary Miscellany
+54	190	If You Plan to Study in China, Be Sure to Know This	Sin Kian (in Nanjing)	Miscellaneous Writing
+54	200	New Spring Big Laughter Convention			Literary Miscellany
+54	210	Prize Question			Announcement/Editorial Postscript
+54	220	Worn-out Iron Pen			Announcement/Editorial Postscript
+55	010	Old New Year Folk Song, Moon-Gazing Song			Poetry
+55	020	Why Was the Rice Production Increase Project Stopped?	Madal (pseudonym?)	Editorial
+55	030	World Trends	Cho Yŏnggŭn	Editorial
+55	040	Report on the Aspects of the Times: Miscellaneous Scenes of This Year	Nakt'yŏnsŏng (pseudonym)	Social Commentary
+55	050	Early January Events and Customs	Yi Pyŏnggi	Literary Miscellany
+55	060	Yi Aerisu's Love Suicide Disturbance, Victor Exclusive Popular Singer Yi Aerisu, Yi Aerisu Who Was the Star Flower of the Theater Troupe	Ch'unrangsaeng (pseudonym)	Literary Miscellany
+55	070	Biographies of Chosŏn Assassins (Part 2), Three Kingdoms/Koryŏ Edition	Such'unsanin (pseudonym)	Literary Miscellany
+55	080	Mandam, Emergence of Publicly Established Cafes	Sŏk Munnyang	Social Commentary
+55	090	Street Scenes of Women	Chang Tŏkcho	Social Commentary
+55	100	Night Tales of Four Western Beauties Who Captivated Everyone in Their Time	XYZ (pseudonym)	Miscellaneous Writing
+55	110	Historical Anecdote, The Eternal Righteous Wife Lady Yun	Sin Inbŏm	Literary Miscellany
+55	120	Wedding Night Great Disturbance Record	Sŏk Munnyang	Miscellaneous Writing
+55	130	Songnangyo and Ch'oe Kyŏng, Heartbreaking Sad Story Hidden in a Folk Song	Ch'ŏngo (pseudonym)	Literary Miscellany
+55	140	Famous Men and Women: One Hour After Dinner			Survey
+55	150	Literary Circle Rumor Book			News
+55	160	Ero Section			Miscellaneous Writing
+55	170	Secret within Secrets Story, My Wedding Night Public Letter	Song Kŭmsun	Memoir/Recollection
+55	180	Woman Who Will Marry, Woman Who Won't Marry	Physiognomist	Miscellaneous Writing
+55	190	(Serial Mandam) A Woman's Life, Part 1: Birth	Ung Ki	Literary Miscellany
+55	200	Humor Collection			Miscellaneous Writing
+55	210	The Female Spy Who Shook All of Europe During the World War	Pak Manch'un	Miscellaneous Writing
+55	220	(Detective Novel) The Suna Murder Case	Ch'oe Yubŏm	Novel
+55	230	The Woman I Like (In Order of Arrival)	Various Famous Gentlemen	Survey
+55	240	Chocolate Story			Miscellaneous Writing
+55	250	(Long-form Lecture Story) Ch'anghae Strongman (Part 13)	Narrated by Wŏlmyŏngsanin (pseudonym), Illustrated by Kim Kyut'aek	Literary Miscellany
+55	260	Kaleidoscope			Social Commentary
+55	270	Romance of Joy and Sorrow in Memory - Snow! Snow! - Story Picked Up in the Snow			Memoir/Recollection
+55	271	Prize Question			Announcement/Editorial Postscript
+55	280	Worn-out Iron Pen			Announcement/Editorial Postscript
+56	010	Let's Go Gather Mountain Greens, New Folk Song	Yi Sŏgu	Poetry
+56	020	Sounding Out the State of Mind of Modern People			Survey
+56	030	Dialogue Between a Son Graduating This Spring and His Father	Cho San'gang	Social Commentary
+56	040	That Mother and Daughter Remembered Every Spring, That Unforgettable Spring Scene	Ch'oe Pyŏnghwa	Memoir/Recollection
+56	050	How I Miss It! Myself That Spring, That Unforgettable Spring Scene	Pak Sanghyŏp	Memoir/Recollection
+56	060	Spring, That Woman, and Rice, That Unforgettable Spring Scene	Chŏng Uhyang	Memoir/Recollection
+56	070	The Reason the Sun's Heat Doesn't Decrease	Samsanin (pseudonym)	Miscellaneous Writing
+56	080	The Magic of Inflation Boom: Rising Prices, Falling Money Value	Madal (pseudonym?)	News
+56	090	Gold Rush Rhapsody: Ownerless Gold Nugget! Anyone Take It First.	Nakt'yŏnsŏng (pseudonym)	Miscellaneous Writing
+56	100	Chosŏn Old Customs and Habits, Continuation of Early January Events and Customs	Yi Pyŏnggi	Editorial
+56	110	Modern Female 'Lupin' Not Announced in Newspapers, Bold Crime Committed in Broad Daylight in Chongno			Memoir/Recollection
+56	120	World Trends			News
+56	121	Serial Mandam, A Woman's Life			Announcement/Editorial Postscript
+56	130	Miscellaneous Thoughts on Kissing: Kiss Interference Fee 4,000 Won			Miscellaneous Writing
+56	140	March Historical Anecdote: Blue Fan, Red Fan in the Sleeve	Sin Inbŏm	Literary Miscellany
+56	150	Humor Skit: The Merit of Helping One's Husband (Complete 4 Acts)	Wŏlgyŏnch'o (pseudonym)	Play/Scenario
+56	160	Humor Collection 1			Miscellaneous Writing
+56	170	Biographies of Chosŏn Assassins (Part 3)	Such'unsanin (pseudonym)	Literary Miscellany
+56	180	Shanghai Incident and Tuberculosis Convalescence Record	Murai Tadashi	Miscellaneous Writing
+56	190	Stomach Illness and Neurasthenia	Ōsugi Shirō	Miscellaneous Writing
+56	200	U.S. Navy Pacific Grand Maneuvers, What is the Purpose? What is the Method?	Sŏk Munnyang	News
+56	210	Indian Royal Palace Secret Story: Cutting-Edge Strange Marriage Talk	Son Palsaeng	Miscellaneous Writing
+56	220	'Cafe' Waitress Diary	Kim Chŏngja	Literary Miscellany
+56	230	O Weak One! Your Name is Man - Portraits of Men Living Under Their Wives' Thumbs			Miscellaneous Writing
+56	240	Ero Section			Miscellaneous Writing
+56	250	Byproduct of the Last Days: Snot-Stained Thief	Hoyeondangin (pseudonym)	Miscellaneous Writing
+56	260	Specially Selected Reading: Strange True Story, Blood-Stained Notebook	Sin Kyŏngsun	Novel
+56	270	Detective Novel: The Jealous Devil	Ch'oe Yubŏm	Novel
+56	280	Prize Question			Announcement/Editorial Postscript
+56	290	Worn-out Iron Pen			Announcement/Editorial Postscript
+57	010	Yonggang Folk Songs, Love Songs (5 pieces)	Hong Chongin	Poetry
+57	020	Those We Saw, Secret Inspection Record of Various Circles and Gentlemen			Survey
+57	030	Serial Long-form Lecture Story, Lord Yŏnsan	Yi Pyŏnggi	Novel
+57	040	Kaleidoscope			News
+57	050	Love Stories Appearing in Novels, Dumas's La Dame aux Camélias	Chŏng Uhyang	Literary Criticism
+57	060	Record of the Meeting Between the Humble Ch'a and Old Man Shaw	Accompanying Reporter	Literary Miscellany
+57	070	Corpse Marriage Secret Story, Special True Story			Miscellaneous Writing
+57	080	Moving World Affairs			News
+57	090	Record of the Rise and Fall of Chosŏn High Officials, The Three Puwŏn'gun Families of Chosŏn Weeping at Their Downfall, Where Are the Powers of Yesteryear Now?	Ilhyang'am (pseudonym)	Editorial
+57	100	Specimen			Miscellaneous Writing
+57	110	Love Story Appearing in Historical Tales, Master Ko Chebong and the Kongju Kisaeng	Such'unsanin (pseudonym)	Literary Miscellany
+57	120	World Living Without Money, Guide to the Modern Lumpen Heaven			Miscellaneous Writing
+57	130	Kaleidoscope			News
+57	140	Grumbling of a Student Who Failed the Entrance Exam	Yi Sangnyŏl	Memoir/Recollection
+57	150	Night Cherry Blossom Scene	Pak Usŏk	Literary Miscellany
+57	160	Woman Met During Night Cherry Blossom Time			Cartoon
+57	170	Love Story Appearing in Song, King Yuri and the Hwangjoga	Ch'ŏngo (pseudonym)	Literary Criticism
+57	180	What Kind of Place is Rehe (Jehol)?			Editorial
+57	190	Serial Mandam, A Woman's Life (Part 2) Education Chapter	Kop'an (pseudonym)	Novel
+57	200	Got into School, But Worries of a Country Father	Sin O-sun	Literary Miscellany
+57	210	Now That I've Graduated!	Ung Ch'o	Cartoon
+57	220	Humor-Novel, Marriage Proposal	Pukkŭksŏng (pseudonym)	Novel
+57	230	(Mandam) Doctor and Fortune Teller	Yu Kwangnyŏl	Literary Miscellany
+57	240	April Fools Convention, Person Who Doesn't Lie			Miscellaneous Writing
+57	250	Long Live Lumpen, Beggar Colony	A Reporter	Miscellaneous Writing
+57	260	Crime, Punishment, and Life, What Made Them Do It?, Secret Story Behind the Crimes of Escaped Convict Sim Chongsong and Accomplice Kim Pongju			Miscellaneous Writing
+57	270	Cursed Chongdong (Confession of an Illegitimate Child)	Ch'oe Pyŏnghwa	Memoir/Recollection
+57	271	Call for Photos of Scenic Spots			Announcement/Editorial Postscript
+57	280	Detective Novel, Dr. K's Famous Case	Ch'oe Yubŏm	Novel
+57	290	Strange True Story, Blood-Stained Notebook (2)	Sin Kyŏngsun	Novel
+57	300	Worn-out Pencil			Announcement/Editorial Postscript
+57	310	Prize Question			Announcement/Editorial Postscript
+58	010	Kwandong Folk Song	Ch'a Sangch'an	Poetry
+58	020	Famous Men and Women of Various Circles, Character Study Seen from Behind	Physiognomist	Miscellaneous Writing
+58	030	Record of the Rise and Fall of Chosŏn High Officials, The Past and Present of the Three Min Families Who Shook the Peninsula	Ilhyang'am (pseudonym)	Editorial
+58	040	May Love Scene, A Madwoman's Chastity	P'iil Sil (pseudonym?)	Literary Miscellany
+58	050	Modern Boy's Conduct Record, Guide to Modern Life	Yang Sangho	Miscellaneous Writing
+58	060	Moving World Affairs			News
+58	070	Biographies of Recent Eloping Men and Women, Modern World of Men and Women Blown Away by the Spring Wind	Ssang S (pseudonym)	Miscellaneous Writing
+58	080	Extra of Extras			Social Commentary
+58	090	Record of the Ways of the Sŏdang Room	Songp'yŏngsaeng (pseudonym)	Memoir/Recollection
+58	100	This Therapy with True Stories about Pleurisy and...	Ch'oe Ch'ung'gŭn (Kyŏngsŏng)	Miscellaneous Writing
+58	110	Who Deceived?	Chŏng Osŏng	Miscellaneous Writing
+58	120	Story Seen for the First Time, Japanese Photographer 37 Years Ago	Ch'a Sangch'an	Memoir/Recollection
+58	130	A Different World Altogether			News
+58	140	Ero Section			Miscellaneous Writing
+58	150	Serial Mandam, A Woman's Life	Paengnyŏng (pseudonym)	Literary Miscellany
+58	160	People Chased from the Throne Dreaming of the Crown	Hoyeondangin (pseudonym)	Miscellaneous Writing
+58	170	True Crime Story, The Maria Murder Case Shrouded in Fog for Three Years, Until the Real Culprit Was Caught	To Il	Miscellaneous Writing
+58	180	S. Break Masterpiece Short Story Collection (1), The Strange Beggar	Ch'oe Yubŏm	Novel
+58	190	Living Devil of the City, Modern Vampire	Chegal Pŏm	Social Commentary
+58	200	Strange True Story, Blood-Stained Notebook (End)	Sin Kyŏngsun	Novel
+58	210	Serial Detective Novel, Secret of the Lake Bottom, Original Title - Blue-Eyed Maiden	Maurice Leblanc (Original Author), Yun Sŏnghak (Translator)	Novel
+58	220	Kaleidoscope			Miscellaneous Writing
+58	230	Worn-out Iron Pen			Announcement/Editorial Postscript
+58	240	Prize Question			Announcement/Editorial Postscript
+59	010	Ch'ungch'ŏng Province Folk Song	Ch'a Sangch'an	Literary Miscellany
+59	020	Magazine Roundtable on Men and Women of Various Circles Encountering Misfortune			Dialogue/Roundtable
+59	030	Rise and Fall of Chosŏn High Officials, Today of the Descendants of the Yun(?) Clan Who Shook the Peninsula, Where Are the Powers of Yesteryear Now?	Ilhyang'am (pseudonym)	News
+59	040	Nine Months After Being Reported Dead, Ma Zhanshan Suddenly Appears in Berlin	Nam Il	News
+59	050	Story Seen for the First Time (2), Hwatu Cards and Paper Money, (Appendix) Body Mirror and Poktŏkbang (Real Estate Agency)	Ch'a Sangch'an	Miscellaneous Writing
+59	060	Moving World Affairs			News
+59	070	Sad Story of Chŏng Yangsun	Chegal Pŏm	Miscellaneous Writing
+59	080	Story Wanting to Devour (1), I Don't Know	Tan S (pseudonym)	Miscellaneous Writing
+59	090	Chosŏn Yangban's Concubine Lament	P'ungnyurang (pseudonym)	Miscellaneous Writing
+59	100	If We Got 1 Million Won, How Would We Use It?, Their Wild Ideas	Reporter A (Survey)	Survey
+59	110	If We Got 1 Million Won, How Would We Use It?, Those Who Don't Know 1 Million Won	Reporter B (Survey)	Survey
+59	120	Serial Mandam, A Woman's Life (Part 4, Love Chapter)	Pak Usŏk	Literary Miscellany
+59	130	Condensed Society Page, Conflict Between Poverty and Love: Trio of Affection, Hatred, and Sin	Hoyeondangin (pseudonym)	Miscellaneous Writing
+59	140	Story Wanting to Devour (2), One Gold One Won Each?	Hoyeondangin (pseudonym)	Miscellaneous Writing
+59	150	Murder Ghost Story, The Old Murder Demon (aka Malthus Ghost?)	Ch'oe Pyŏnghwa	Novel
+59	160	Emergency Time			Miscellaneous Writing
+59	170	Non-Modern Character University (First Lecture), Pockmark Philosophy Department	Lecturer: Physiognomy Master	Miscellaneous Writing
+59	180	S. Break Masterpiece Short Story Collection (2), The Ugly Villain	Ch'oe Yubŏm	Novel
+59	190	What Did the Wife Do While the Husband Was Away?, Young Husbands Should Read!	P'ilbin (pseudonym?)	Miscellaneous Writing
+59	200	The Cheap Guy Is...			Miscellaneous Writing
+59	210	Secret of the Lake Bottom (Part 2), Original Title Blue-Eyed Maiden	Maurice Leblanc (Author), Yun Sŏnghak (Translator)	Novel
+59	211	Prize Question			Announcement/Editorial Postscript
+59	220	Worn-out Iron Pen			Announcement/Editorial Postscript
+59	230	Foreign Cartoon			Cartoon
+60	010	Celebrating Kaebyŏk Company's 14th Birthday			Announcement/Editorial Postscript
+60	020	Figures of Internationally Famous Korean Youths	Yang Sangho	News
+60	030	Kyŏngsŏng City Interior with Corrected Fortunes, Tale of Woe of the Six Great Gates	Mun'oehan (Outsider)	Miscellaneous Writing
+60	031	Reader Magazine Roundtable with Popular Figures			Announcement/Editorial Postscript
+60	040	Story of Being Caught	Ssang S (pseudonym)	Memoir/Recollection
+60	050	World Trends	Cho Yŏnggŭn	Editorial
+60	060	Bearded Man Philosophy, Character Philosophy Lecture 2	Lecturer: Dr. Mo, Leader of the Many-Beards Party	Miscellaneous Writing
+60	070	Tough Maiden Mayor			Miscellaneous Writing
+60	080	Bloody July, July is the Month of War			News
+60	090	Extra of Extras			Social Commentary
+60	100	The Sea Hero An Yongbok Who Reclaimed Ullŭngdo with His Eloquent Tongue	Such'unsanin (pseudonym)	Literary Miscellany
+60	110	A Different World Altogether			Miscellaneous Writing
+60	120	Story Seen Looking Through the Small Window	Tan S (pseudonym)	Social Commentary
+60	130	New and Old Modern Eyesores	Hwang Chŏngsu	Cartoon
+60	140	What Comes After, Story That Was Good at First but Troublesome Later	Chŏng Osŏng	Memoir/Recollection
+60	150	Naked World, Nude Scenes	P'ilbin (pseudonym?)	Literary Miscellany
+60	160	Record Exposing the Inside of Bogus Business			Social Commentary
+60	170	Kaleidoscope			Miscellaneous Writing
+60	180	Secret of the Lake Bottom (Original Title - Blue-Eyed Maiden), Part 3	Maurice Leblanc (Original Author), Yun Sŏnghak (Translator)	Novel
+60	190	Antagonism Between the Bachelor Club and the Marriage Club			Miscellaneous Writing
+60	200	Zinc Poisoning Victim, Masterpiece Short Story Collection (3)	S. Break (Original Author), Ch'oe Yubŏm (Translator)	Novel
+60	210	Superstitious Country America			Miscellaneous Writing
+60	220	Frightening News, Using Wolves as Police Dogs			Miscellaneous Writing
+60	221	Prize Question			Announcement/Editorial Postscript
+60	230	Worn-out Iron Pen			Announcement/Editorial Postscript
+61	010	Kyŏngbuk Folk Song, Sasŭng Song			Poetry
+61	020	Record of the Rise and Fall of Chosŏn High Officials (Cont.), Song Pyŏngjun, Yi Wanyong, Yi Kŭnt'aek, Im Sŏnjun	Paegaksaeng (pseudonym)	Literary Miscellany
+61	030	Noble Rich Family, Record of a Beloved Concubine's Escape	P'ungmunsaeng (Rumor Reporter)	Literary Miscellany
+61	040	Alas! The Tragedy of Miss Pak Kyŏngwŏn, -It's Like a Dream-	Yi Chŏnghŭi	News
+61	050	The Last of Famous Contemporary Actress Miss Yi Wŏrhwa, -Don't Scoff Calling Her a Fallen Woman-	Pok Hyesuk	Memoir/Recollection
+61	060	Dwarf Philosophy (Dr. Short-Stature), Non-Modern Character Study (Lecture 4)			Miscellaneous Writing
+61	070	Love Letter/Erotic Letter Auction Site, Modernology of Love Letters	Saranggun (pseudonym?)	Miscellaneous Writing
+61	080	Woman, Guide to Strange Port Hunting Around the World	Koryŏ Pŏm	Travelogue
+61	090	Kaleidoscope			Miscellaneous Writing
+61	100	Fight General's War Service Record	Chegal Pŏm	Memoir/Recollection
+61	110	Story of Teasing a Tail	Yun Owŏl	Memoir/Recollection
+61	120	Humor			Miscellaneous Writing
+61	130	ERO SECTION Ero Section	P'igyŏnsil (pseudonym?)	Miscellaneous Writing
+61	140	Autumn Magazine Grand Cleaning	Soch'obu (Cleaner)	Social Commentary
+61	150	Summer Resort Night Tale -, Whose Sin? (Complete 1 Scene)	Yi Sŏkhun	Play/Scenario
+61	160	Story Material, Portraits of Women	A Reporter	News
+61	170	Loudspeaker			Announcement/Editorial Postscript
+61	180	Star of Our Music World, Tenor Hyŏn Chemyŏng, New High-Quality Recording This Time on Columbia	XY Saeng (pseudonym)	News
+61	190	Bizarre True Story, Mahjong Murder (Part 1)	Pak Sanghyŏp	Memoir/Recollection
+61	191	Extra of Extras			Announcement/Editorial Postscript
+61	200	(Wanted Criminal Hunt) Detective Novel, Murder in Room 23	Judson Philips (Original Author), Pak Usŏk (Translator)	Novel
+61	210	Prize Question			Announcement/Editorial Postscript
+61	220	Regarding the Answer to Last Month's Prize Question			Announcement/Editorial Postscript
+61	230	Worn-out Iron Pen			Announcement/Editorial Postscript
+62	009	Yonggang Folk Song			Literary Miscellany
+62	010	Detective Novel, The Murder Case of the "Red House"	A. A. Milne (Original Author), Pak Usŏk (Translator)	Novel
+62	020	Current Affairs Commentary, Record of the Cuban Revolutionary Turmoil	Pang Ch'unsan	Editorial
+62	030	Mentally Ill People Living in the Third World, Pastor Who Slipped While Going to Heaven	P'yŏngsindo (Lay Believer)	Miscellaneous Writing
+62	040	Fatty Philosophy, Non-Modern Character Study (Lecture 5)	Physiognomist	Miscellaneous Writing
+62	050	Greater Kyŏngsŏng's Different World Scene, Public Market of Human Flesh Taking Prodigals as Customers	A Reporter	News
+62	060	Legally Permitted Treatment Center for Opium Addicts	A Reporter	News
+62	070	Slaughterhouse Demonstrating Human Cruelty	A Reporter	News
+62	080	Hell of Humanity-like Isolation Hospital	A Reporter	News
+62	090	Humor Collection			Miscellaneous Writing
+62	100	Chosun Ilbo vs. Dong-A Ilbo Battle for Supremacy, =Abnormality on the Newspaper Front=	Pyŏksangsaeng (pseudonym)	News
+62	110	Strange Stories from the Womb			Miscellaneous Writing
+62	120	Era of Record Frenzy: A Piece of the Competition Story	Ho'oesaeng (Extra Edition Reporter)	News
+62	130	Pilgrimage to Small Countries of the World, Republic of Andorra	Uch'un (pseudonym)	Travelogue
+62	140	Pilgrimage of Strange World Marriages, South America Brazil Edition	Chŏng Soa	Travelogue
+62	150	(Cont.) Record of the Rise and Fall of Chosŏn High Officials, Yi Chiyong, Pak Chesun, Cho Chungŭng, Yi Pyŏngmu, Yi Chaegon	Paegak (pseudonym)	Literary Miscellany
+62	160	Kaleidoscope			News
+62	170	A Different World Altogether			Miscellaneous Writing
+62	180	Modern Villains and Poisonous Women, On Parade	Namgungnang (pseudonym)	Miscellaneous Writing
+62	190	Record of Escape from a Bandit Den	Ch'oe Subok	Memoir/Recollection
+62	200	True Secret Story, Chastity Gambling Incident	Sŏk Munnyang	Memoir/Recollection
+62	210	Extra of Extras			Social Commentary
+62	211	Erotic Strange Story: Beautiful Woman in Red Makeup and the Elegant Governor	Ch'ŏngo (pseudonym)	Novel
+62	212	Koguryŏ Ancient Tombs			Miscellaneous Writing
+62	220	Side-Splitting Laughter, Eight Provinces Dialect Roundtable	Kim Okpin	Dialogue/Roundtable
+62	230	World's Highest Climbing/Eating Records			Miscellaneous Writing
+62	240	Strange True Story, Mahjong Murder	Pak Sanghyŏp	Memoir/Recollection
+62	241	Prize Question			Announcement/Editorial Postscript
+62	250	Worn-out Iron Pen			Announcement/Editorial Postscript
+63	010	Impressions, New Promises for the New Year	Yŏ Unhyŏng	Literary Miscellany
+63	020	New Year Magazine 'Mental Test' for Each Person from Various Circles			Survey
+63	030	Outlook for the 1934 World Political Situation	Kim Hyŏngjun	Editorial
+63	040	Humor Orchestra, Mandam			Miscellaneous Writing
+63	050	Unofficial History of 4000 Years, Successive Queens and Princesses Edition	Such'unsanin (pseudonym)	Literary Miscellany
+63	051	Table of Chosŏn Dynasty Reigns			Miscellaneous Writing
+63	052	Famous Mountains and Famous Rivers of Chosŏn			Miscellaneous Writing
+63	060	Science, Wonder of the New Century!, Pinnacle of Ray Science, Night Becomes Day - The Dead Speak			News
+63	070	One-Line Knowledge Column			Miscellaneous Writing
+63	080	Secret within Secret Stories, Collection of 100 People, 100 Stories	Taŏnsaeng (Talkative Person)	News
+63	090	What Made Them Do It? Record of Life Born from Facts,			Literary Miscellany
+63	100	Condensed Society Page			Miscellaneous Writing
+63	101	Correction			Announcement/Editorial Postscript
+63	110	Record of Fighting Illness with Three Instances of Hemoptysis	Hikata Fumio (Yamanashi)	Miscellaneous Writing
+63	120	Random Essay, Tea Party Woman	Yi Sŏnhŭi	Literary Miscellany
+63	130	Extra of Extras			Social Commentary
+63	140	Strange News			Miscellaneous Writing
+63	150	Home: Mother's Common Sense for This Time, Young People's Health and Clothing Issues	Misosaeng (Smiling Person)	Miscellaneous Writing
+63	160	Housewife's Notebook			Miscellaneous Writing
+63	170	How Many Days Can a Person Endure Without Eating?	Dr. A	Miscellaneous Writing
+63	180	Movies			Literary Criticism
+63	190	Children's Section, Interesting Children's Story, The Strange Lamp	Yŏn Sŏnghŭm	Novel
+63	200	Children's Poem, Snowman	Yun Sŏkchung	Poetry
+63	210	Cartoon Without Explanation			Cartoon
+63	220	Curiosity Solver			Miscellaneous Writing
+63	230	The Devilish Nature of the Fiancée (Detective Novel)	Ch'oe Yubŏm	Novel
+63	240	Kaleidoscope			Miscellaneous Writing
+63	250	Unmarried Great Men			Miscellaneous Writing
+63	260	Relationship Between Emotion and Body Weight			Miscellaneous Writing
+63	270	Readers' Club			Announcement/Editorial Postscript
+63	271	Prize Question			Announcement/Editorial Postscript
+63	280	Remaining Ink			Announcement/Editorial Postscript
+64	010	Impressions (Part 3), Harmfulness of Celebrating New Year Twice	Pak Sŭngbin	Editorial
+64	020	International Political Trends	Kim Hyŏngjun	News
+64	030	U.S. Dollar Devaluation!!, What Does This Mean?	Sin T'aeik	Editorial
+64	040	Chosŏn Rice Control Issue!!, Why Did It Arise?	Sin T'aeik	Editorial
+64	050	Announcement			Announcement/Editorial Postscript
+64	060	Unofficial History of 4000 Years	Such'unsanin (Ch'a Sangch'an)	Literary Miscellany
+64	070	Nicknames of Chosŏn's Provinces			Miscellaneous Writing
+64	080	Various States of the Samhan Period	Such'unin (pseudonym)	Miscellaneous Writing
+64	090	Secret History of Ullŭngdo's Snow Disaster Buried in Snow	Ch'wiunsaeng (pseudonym)	Literary Miscellany
+64	091	Pyŏlgŏn'gon Statistics Room 2	X·Y·Z (pseudonym)	Miscellaneous Writing
+64	100	New Science Story, Story of the 'Rotor' Moved by Wind Power, A Great Revolution in Power Generation	Reporter A, Reporter B, Reporter C	News
+64	110	Story Not Published in the Newspaper, Secret Notes from a Newspaper Reporter's Notebook, Female Teacher's Secret Revealed, True Secret Story (1)	Kangch'onsaeng (pseudonym)	Miscellaneous Writing
+64	120	Story Not Published in the Newspaper, Secret Notes from a Newspaper Reporter's Notebook, Story of Birth Mother Becoming Mother-in-Law, True Secret Story (2)	Yu Tosun	Miscellaneous Writing
+64	130	Story Not Published in the Newspaper, Secret Notes from a Newspaper Reporter's Notebook, Female Student's Questionable Death, True Secret Story (3)	Ko Yŏnghan	Miscellaneous Writing
+64	140	Condensed Society Page	Reporter B	Miscellaneous Writing
+64	150	To Provincial Readers	Editorial Department	Announcement/Editorial Postscript
+64	160	Under the Roof of the Chosŏn Theater Troupe	Pak Yŏngho	Literary Miscellany
+64	170	Extra of Extras			Miscellaneous Writing
+64	180	Collection of Strange Rumors and Bizarre Stories			Miscellaneous Writing
+64	190	Kaleidoscope			Miscellaneous Writing
+64	200	Entrance Exams and Mother's Attention	Miso (pseudonym)	Literary Miscellany
+64	210	Housewife's Notebook	Reporter B	Miscellaneous Writing
+64	220	Women's Reader, Menstruation and Appetite	Dr. A	Miscellaneous Writing

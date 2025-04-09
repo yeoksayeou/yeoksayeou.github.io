@@ -1,0 +1,297 @@
+잡지명	別乾坤 第28號
+발행일	1930년 05월 01일
+기사제목	化學應用의 家庭副業 (Household Side Business Using Chemistry)
+필자	尹柱福
+기사형태	논설 (Article)
+
+Household Side Business Using Chemistry
+						Yun Ju-bok
+(160면 원본 낙장 - 국편)
+
+When we think of the success of artificial manufacturing (人工的 製造成功) etc., it would not be an absurd remark of a dreamer to say that we are now approaching the completion of artificial humans (人造人間).
+
+Considering this, we who sing the praises of modern cultural life (現代 文化生活) cannot cope with the competition for survival (生存競爭) without having general knowledge of the whole of chemistry (化學), and cannot be considered civilized people (文明人).
+
+2. History of Chemistry
+
+Now, to briefly discuss the history of chemistry, in ancient times, when human mental life (精神生活) was extremely childish, in primitive times (原始時代), the scope of knowledge (知識의 範圍) was very simple, making comparison and investigation (比較 攻究) of things impossible. People blindly believed that all phenomena of nature (大自然의 萬家) were the creation of God (神의 造化). However, as human intelligence gradually developed and people began to recognize their ego (自我), they clarified the relationship between nature and themselves, and when the desire to explain nature with their own reason (理性) arose, this formed the origin of the emergence of science. Even around 4000 BC, scientific explanations for physical phenomena (物理的 現象) in the natural world were sufficiently developed to an extent that is still surprising today, even after 6000 years. However, research on chemical phenomena (化學的 現象) was very immature. The reason for this is that dynamic chemical phenomena are more complex than static physical phenomena, making it difficult to organize them academically, and it is also imaginable that this was due to the requirement of certain and unwavering experiments (確乎不拔한 實驗).
+
+The beginning of chemistry (化學의 始初) was the development of mineral metallurgy (鑛物冶金術) due to its practical necessity. By the time of the Menes era in Egypt around 30 BC, mining and metallurgy techniques for copper, silver, tin, etc. (銅 銀 錫) had already been invented, and ancient mirrors (古鏡) were also manufactured in China around the same time. Later, the philosophers' theory of the four elements (四原素說), that all things in nature (自然界의 森羅萬象) were composed of the addition and subtraction of the four elements of earth, water, fire, and wind (地 水 火 風), combined with philosophical thoughts such as Plato's idealism and Aristotle's evolutionism. The belief that base metals (卑金屬) such as cheap lead (鉛) could be used to manufacture noble metals (高貴한 金屬) such as gold (黃金) prevailed throughout Egypt at the time. After Alexander, numerous scholars devoted themselves to research, resulting in the famous alchemy (鍊金術).
+
+However, before long, Rome declined, and the invasion of the Germanic tribes (겔만族), the spread of Christianity (基督敎), the establishment of the feudal system (封建制度), the rise of the Arabs (아라비아人), and the Crusades (十字軍의 遠征) successively occurred. The battles between the Pope (法王) and the Emperor (帝王) continued, and plunder and slaughter (掠奪과 殺伐) were incessant. Not only the Roman Empire but even free cities (自由 都市), the birthplace of arts and skills, were devastated. The brilliant essence of past learning and arts was trampled under the iron boots of uncomprehending, ignorant, and violent northern barbarians (北夷人) in an instant. The preservation of human culture was mercilessly abandoned, and at the same time, the teachings of Christ (基督의 敎意) filled this wasteland, and existing learning (在來의 學術) was extremely rejected. Those who believed that only divine revelation illuminated life discarded the intellectual and mechanical worldview of Democritus and Epicurus without reservation.
+
+The struggle between religion and learning (宗敎와 學術의 鬪爭) was incessant, and as religion gained power (得勢), its repressive actions became more blatant. Not only was there theoretical refutation of learning, but its evil hand (魔手) even reached into precious treasures (寶庫). The religious leaders (宗敎家), who should have been the embodiment of love (愛의 權化), committed the atrocities of the tyrant Qin Shi Huang (秦始皇), even regarding those who believed in the spherical shape of the earth (地球의 球形論者) as heretics (異端者視) and rejecting them. Rational medical techniques (合理的 醫療術) were completely abolished, and prayer (祈禱) and abstinence (禁慾) became the only means of healing (求癒之道) that could appease God's wrath.
+
+Not only Christianity (基督敎), the ruler of spiritual life (精神生活), but also the Germanic tribes (케루만族), who held political power (政權把握者) and were the rulers of material life (物質生活), extremely rejected learning and only achieved success through destruction and plunder. After this, until around the 14th century, it was a great dark age (暗黑時代) in the academic world, a time of terror (恐怖時代), so how could we have expected chemistry (化學) to develop?
+
+From the end of the 14th century, a bright light (光明한 서광) gradually appeared. Copernicus (코페닐스) (1543) decisively refuted the traditional geocentric theory (天動說) regarding the vast universe and advocated the heliocentric theory (地動說). At that time, in the chemical world, Paracelsus (파랏첼스) (1541) abandoned past errors and narrow views (誤謬와 狹見) and established a new era (一新紀元). He exclaimed that the purpose of chemistry (化學의 목적) was not to manufacture gold from lead (鉛으로 金을 제조함) but that its true mission (使命) lay in the refining of pharmaceuticals (藥品精製). He devised methods such as sublimation and distillation (昇華蒸溜), charcoal (炭火), etc., greatly facilitating the research of his successors. Afterward, Helmont's (헬몬드) (1644) discovery of gas (瓦斯), Kroeber's (크로벨) (1664) invention of sulfuric acid and hydrochloric acid manufacturing (硫酸 鹽酸製造發明), Boyle's (뽀일) (1695) establishment of the gas laws and invention of analytical methods (瓦斯法則確立과 分析法發明), and Meyer's (메여) (1679) study of oxygen (酸素硏究), etc., formed the renaissance of the chemical world (中興時代).
+
+Following this, Lavoisier's (라보제) (1774) combustion theory (燃燒說), Cavendish's (카펜듸쉬) (1781) study of the composition of water (水의 組成硏究), Avogadro's (아부끄들로) (1811) gas laws (瓦斯法則), Mendeleev's (멘델레푸) (1782) periodic law (週期律), Arrhenius's (알렌뉴스) (1887) ionization theory (電離說), Curie's (큐리) (1898) discovery of radium (라듐 發見), and Emil Fischer's (에밀핏샤) (1906) successful protein synthesis (蛋白質 集成 성공), etc., were continuously announced, and chemistry has made great strides until today.
+
+3. Basics of Chemistry
+
+As mentioned earlier, chemistry (化學) is the study of the changes in matter (物質의 變化). There are generally two types of changes: physical change (物質的 變化) and chemical change (化學的 變化). Physical change refers to a change in which the properties (性質) of the substance itself remain unchanged and only its form changes. For example, when water turns into ice in winter or boils and becomes steam (水蒸氣), whether it is water, ice, or steam, the substance itself does not change its properties, only its shape changes, becoming solid, liquid, or gas. This is called a physical change. Chemical change refers to a complete change in the properties of a substance, such as when alcohol (酒) turns into vinegar (醋) or wood turns into charcoal (숫).
+
+There are four methods of chemical change (化學的 변화): combination (化合), decomposition (分解), substitution (置換 (代入)), and double decomposition (複分解). Combination refers to when A and B combine to form P, a completely different substance that is neither A nor B. Decomposition refers to when P, which is combined from A and B, is separated back into A and B. Substitution refers to when P, which is formed by the combination of A and B, reacts with C, and C is substituted for A or B in P, and A or B is expelled externally. Double decomposition refers to when two substances, P formed by the combination of A and B, and Q formed by the combination of C and D, react again, causing A and C, and B and D to combine with each other.
+
+<162> The subject of change starts with elements (元素). Although there are countless phenomena in the universe (宇宙) with diverse forms and properties, fundamentally analyzing them reveals that they are formed by the combination and separation of only about 80 elements.
+
+An element (元素) refers to the smallest form of a substance that does not change its properties even when finely crushed. A compound (化合物) refers to when two or more elements combine.
+
+That is, hydrogen (水素) and oxygen (酸素) are elements, and when these elements, hydrogen and oxygen, combine, they become water. This water is called a compound. However, if we mix fine sand (細砂) and sugar (雪糖), it cannot be called a compound because neither the fine sand nor the sugar undergoes any change in properties. This is called a mixture (混合物).
+
+There are certain laws that govern chemical changes (化學變化): the law of conservation of mass (質量不變律), the law of definite proportions (正比例律), and the law of multiple proportions (倍數比例律).
+
+The law of conservation of mass (質量不變律) states that no matter what chemical change a substance undergoes, the sum of the masses of the original substances does not increase or decrease. For example, it is true that the weight of a tree (樹木) increases drastically as it grows, but this is only because the weight increases as much as the nutrients and air in the soil are absorbed.
+
+The law of definite proportions (定比例律) states that the ratio of each component of a compound (化合物) is constant and unchanging. For example, water is formed by the weight ratio of hydrogen (水素) two and oxygen (酸素) sixteen, so whether it is a drop of water or a thousand gallons of water, its component composition ratio does not change from the ratio of 2 to 16.
+
+The law of multiple proportions (倍數比例律) teaches that when two types of elements combine, the amount of element B that combines with a fixed amount of element A always combines in a simple integer ratio. For example, when carbon (炭素) and oxygen (酸素) combine, they can form carbon monoxide (酸化炭素) or carbon dioxide (炭酸瓦斯). In carbon monoxide, the weight ratio of carbon and oxygen is 12:16, and in carbon dioxide, it is 12:32. Therefore, the ratio of oxygen to carbon 12 is in the ratio of 1 to 2.
+
+4. Classification of Chemistry
+
+Chemistry (化學), from the beginning when humans became curious about the changes in natural phenomena (自然現象) using their reason (理智), initially came to know the causes to some extent, then anticipated future changes, tried to defend against them, and also tried to promote them. As human life gradually became more complex and desires evolved, people realized that obtaining self-satisfaction (自己滿足) was greatly needed. Thus, pure theoretical chemistry (純碎한 理論化學) gave rise to the classification of applied chemistry (應用化學).
+
+Within theoretical chemistry (理論化學) itself, recognizing that the activity stage of chemistry was not limited to chemistry alone and was greatly related to physics, physical chemistry (物理化學) was established. <163> It borrowed electrical activity and electrical chemistry (電氣化學) was organized. When it was realized that chemical changes had a very close relationship with light, spectroscopic chemistry (分光化學) was established. By analyzing the organization of all things (森羅萬象) and investigating their composition, analytical chemistry (分析化學) developed.
+
+In applied chemistry (應用好學) too, the field was initially narrow, limited to paper manufacturing (紙類製造), tableware manufacturing (食器製造), etc. in ancient times. However, as human life became complex, inorganic chemistry (無機化學) and organic chemistry (有機化學) were separated. The manufacturing of organic substances was considered impossible by human means, and concentrating on the manufacturing of inorganic substances. As the raw materials for chemical industry (化學工業) were limited to inorganic substances, mineral chemistry (鑛物化學) and marine chemistry (海産化學) developed.
+
+Afterward, the success of urea synthesis (尿素 合成) and protein synthesis (蛋白質 集成), etc., led to a breakthrough in the manufacturing of organic substances (有機物 製造) that had been considered beyond human capabilities. On one hand, synthetic chemistry (合성화학) was established, aiming to analyze natural substances, explore their composition and structure, and then imitate and synthesize them.
+
+On the other hand, it invaded the agricultural field (農業分野) and a branch of agricultural chemistry (農藝化學) was created to plan the utilization and increased production of agricultural products (農産物).
+
+Today, the classifications of chemistry (化學의 分科) are too numerous to list individually, and each specialized field will continue to branch out and become more profound in the future.
+
+Examples of industries that apply chemistry (化學을 應用하는 工業) include: glass industry (유리工業), ceramics industry (陶磁器工業), cement industry (세멘트工業), enamelware industry (琺瑯鐵器工業), salt industry (食鹽工業), soda ash industry (曹達灰工業), caustic soda (양재물) and bleaching powder industry (晒粉工業), pharmaceutical industry (製藥工業), oil industry (製油工業), hardened oil industry (硬化油工業), soap industry (石*工業), paint and pigment industry (塗料 及 顔料工業), lacquer industry (漆工業), petroleum industry (石油工業), matches industry (석냥工業), pulp industry (팔푸工業), paper industry (製紙工業), celluloid industry (세투로이드工業), rayon industry (人造絹工業), starch industry (澱粉工業), sugar industry (砂糖工業), brewing industry (釀造工業), sulfuric acid industry (硫酸工業), artificial fertilizer industry (人造肥料工業), coal industry (石炭工業), bone industry (骸骨工業), tar industry (타루工業), dye industry (染料工業), ink industry (잉크工業), dry distillation industry (乾溜工業), rubber industry (고무工業), camphor industry (樟腦工業), menthol industry (薄荷工業), fragrance industry (香料工業), cosmetics industry (化粧品工業), liquefaction industry (液化工業), leather industry (皮革工業), steel industry (製鐵工業), currency industry (貨幣工業), light metal industry (輕金屬工業), seasoning industry (調味料工業), confectionery industry (製菓工業), dairy industry (製乳工業), artificial liquor industry (人造酒工業), soft drink industry (淸凉飮料工業), photography industry (寫眞工業), printing industry (印刷工業), alloy industry (合金工業), carbon industry (카본工業), carbide industry (카바이드工業), battery industry (電池工業), gunpowder industry (火藥工業), and weapons industry (兵器工業), etc. There are too many to count, and even a common sense explanation of these is not easy due to the limitations of space. Let's list a few manufacturing raw materials of items that are most closely related to our lives.
+
+Glass: sand, soda, colorants
+Caustic soda: salt, water, electricity, lime
+Soap: tallow, coconut oil, caustic soda, fragrances and colorants
+Matches: red phosphorus, potassium chlorate, potassium dichromate, manganese dioxide, rosin, sulfur, glass powder, glue
+Western paper: rags, wood, caustic soda, paste, sulfurous acid
+Celluloid: rags, caustic soda, mixed acid, camphor, alcohol
+Rayon: pulp, rags, caustic soda, carbon disulfide, sulfuric acid, sodium sulfate, glucose, magnesium sulfate
+Cider: sugar water, baking soda, citric acid
+Rubber: rubber sap, clay, charcoal, calcium carbonate, sulfur <164>
+
+5. Artificial Production of Natural Materials
+
+Artificial! The development of chemistry (화학) has finally proclaimed the unlimited artificial capabilities of this world. How much does this desecrate the omniscient and omnipotent God? All things under heaven are created only by God. Therefore, humans cannot do anything about it. Only by praying and wishing to God can we achieve our desires. This is the 주장 of religious people (宗敎家).
+
+However, some people have developed too much reason (理智) to believe this. They say no. All things under heaven can be influenced by our human effort and struggle. Religion and science have long since issued final ultimatums and declarations of war. In the meantime, there have been wins and losses, times of truce, and times of compromise and reconciliation. But a time of peace has never come. In recent times, with frequent reports of scientific victories, there is a growing sentiment among religious people to propose compromise and shaking hands. What are the good news of science? It is the development of artificial technology (人造術). It has shattered the creed of religious people that all things in the universe are created by God, so artificial manufacturing is impossible. How many artificial objects have sprung up recently?
+
+Starting with dyes being artificially produced from coal tar (石炭타루) and surpassing natural dyes (天然産 染料), the success of artificial silk (人造絹), artificial tortoiseshell (人造玳瑁), artificial jade (人造翡翠), artificial rubber (人造고무), artificial fragrances (人造香料), artificial petroleum (人造石油), artificial leather (人造革), artificial liquor (人造酒), artificial stone (人造石), artificial gemstones (人造寶石), artificial wool (人造羊毛), artificial ivory (人造象牙), artificial fruit honey (人造果蜜), artificial urea (人造尿素), artificial camphor (人造樟腦), artificial beeswax (人造蜜華), artificial horn (人造角), artificial lacquer (人造漆), etc. has already happened in the past. Now, they have started to artificially create humans, the spiritual beings of the world and the children of God. The progress of chemistry has conquered nature. Things that could not be created without relying on the power of nature have been artificially manufactured. Moreover, some of these are more sophisticated and cheaper than those created by the power of nature, the creator, causing the god of creation to blush.
+
+6. A Few Simple Chemical Processes
+
+I have been asked by the editor to introduce a few simple daily necessities (일용품) manufacturing methods. However, although I will try to write about what can be easily done at home, the appearance will not be as good as the products sold in stores, but the quality will be better.
+
+Of course, there will be one or two failures, but realizing that failure is a valuable experience, repeating it several times will result in a considerable product.
+
+1. Anti-cracking Lotion
+
+Potassium hydroxide 0.2, potassium carbonate 2.3, glycerin 10.0, glacial acetic acid 4.0, alcohol 11.0
+
+2. Milky White Beautifying Water
+
+Borax 7.0, casein 5.5, glycerin 13.0, glacial acetic acid 4.3, fragrance 0.2
+
+3. Sunscreen Whitening Powder
+
+Zinc oxide 2.0, calamine 13.0, orris root tincture 5.0, glycerin 5.0, glacial acetic acid 4.9, fragrance 0.1 <165>
+
+4. Freckle Remover Powder Water
+
+Ammonium chloride 1.0, glycerin 4.0, alcohol 10.0, rose water 84.5, amber liquid 0.5
+
+5. Face Powder
+
+Zinc oxide 55.0, starch 15.0, talc 27.0, zinc stearate 3.0
+
+6. Tooth Powder
+
+Potassium bitartrate 30.0, lactose 30.0, diatomaceous earth 39.0, cineole 0.02, clove oil 0.7, calamus oil 0.28
+
+7. Hair Perfume Bay Rum
+
+Bay oil 0.15, clove oil 0.05, alcohol 60.0, quinine tincture 10.0, water 30.0
+
+8. Hair Growth Perfume
+
+Quinine hydrochloride 0.3, pilocarpine hydrochloride 0.1, glycerin 2.0, rose water 77.6, lavender water 20.0
+
+9. Pomade (Straight Hair)
+
+Castor oil 86.0, beeswax 10.0, small amount of fragrance, vanillin 1.0
+
+10. Cream
+
+Liquid paraffin 56.5, beeswax 17.2, lanolin 5.0, borax 0.8, water 20.0, rose otto 0.2, benzoin 0.4
+
+11. Method to Make Brassware Silver
+
+Dissolve tartaremetic 40, potassium bitartrate 14 in 1000 parts of water in an earthenware pot, then add 50 parts of hydrochloric acid, 125 parts of tin powder, and 30 parts of antimony powder, boil it, and soak the brassware in it for 30 minutes.
+
+12. Method to Make Silverware Yellow
+
+Dissolve 0.3 parts of barium sulfide in 150 parts of water, and when you soak the silverware in it, it will initially turn bluish-white and gradually turn golden yellow.
+
+13. Ink (Blue-Black)
+
+Soak 1 part of powdered gallnut (粉末沒食子) in 2.5 liters of boiling water for one day and night, then add 5.5 ounces of ferrous sulfate, 3 ounces of gum arabic, and several drops of creosote to the strained water.
+
+14. Secret Ink
+
+Write with water that has the same amount of ammonium chloride and copper sulfate dissolved in it, and if you dry it, nothing will be visible, but it will appear when you hold it over a fire.
+
+15. Depilatory
+
+Dissolve strontium sulfide (硫化스토론) in water and apply it to remove hair.
+
+16. Shoe Polish (Black)
+
+After heating and dissolving 45 parts of stearin and 15 parts of beeswax, knead in 100 parts of silkworm pupa ash (蠶蛹을 黑燒한 가루), 30 parts of gallnut (五倍子), 15 parts of ferrous sulfate, and 20 parts of glycerin, then slowly boil it over a fire for about an hour and let it cool to make a solid shoe polish. <166>
+
+**Named Entities**
+
+尹柱福	Yun Ju-bok
+埃及	Aegyŭp
+메네스	Menesu
+中國	Chungguk
+알렉싼더	Alleksanda
+羅馬	Roma
+겔만族	Kelmanjok
+法王	Pŏbang
+帝王	Chewang
+아라비아人	Arabia in
+羅馬帝國	Roma Cheguk
+北夷人	Pŏgiiin
+秦始皇	Chin Sijong
+基督敎	Kidokkyo
+코페닐스	K'op'enilsŭ
+파랏첼스	P'arat'ellsŭ
+헬몬드	Helmondŭ
+크로벨	K'urobel
+뽀일	Ppoil
+메여	Meyŏ
+라보제	Raboje
+카펜듸쉬	K'ap'endwisywi
+아부끄들로	Abukkŭdŭllo
+멘델레푸	Mendellip'u
+알렌뉴스	Allennyusŭ
+큐리	K'yuri
+에밀핏샤	Emilp'itsya
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제28호
+발행일	1930년 05월 01일
+기사제목	化學應用의 家庭副業
+필자	尹柱福
+기사형태	논설
+
+化學應用의 家庭副業
+						尹柱福
+(160면 원본 낙장 - 국편)
+
+人工的 製造成功 등을 連想할 때에 이제는 人造人間의 竣成線에 육박한 것도 결코 夢想論者의 妄說이라 할 수 업슬 것이다.
+이와가치 관찰할진대 現代 文化生活을 謳歌하는 우리는 化學 전반의 일반적 상식을 갓지 못하고는 도저히 文明人과 伍列하야 生存競爭을 감당치 못할 것이다.
+
+2. 化學의 歷史
+이제 化學의 歷史를 간단히 말할진대 古代에 잇서서 인간의 精神生活이 극히 유치한 原始時代에 잇서서는 그 知識의 範圍는 매우 單純하야 사물의 比較 攻究는 도저히 불가능하엿스며 오직 大自然의 萬家을 人格化하야 이것을 神의 造化로 妄信하엿스나 점차 人智가 발달되자 自我를 인식하게 되며 自然과 自己와의 관계를 밝히며 自己의 理性으로써 自然을 설명하고자 하는 慾望이 勃起되자 이것이 科學 대두의 근원을 이루게 되여 紀元前 4천년경에 잇서서도 自然界에 이러난 바 物理的 現象에 대하야는 6천년을 經過한 今日에 잇서서도 오히려 놀낼만한 정도까지 과학적 설명이 충분히 발달되엿스나 화학적 現象에 대한 연구는 매우 유치하엿스니 그 원인은 靜的 現象인 物理的 現象보다도 動的인 化學的 現象은 오히려 緻密複雜하야 이것을 學術的으로 조직하기는 至難한 일이며 또한 確乎不拔한 實驗을 要求하는 까닭에 잇섯슬 것도 능히 想像된다.
+化學의 始初는 그 實用上 필요한 關係로 鑛物冶金術이 最初에 發達되엿스니 紀元前 30년頃에 埃及의 메네스 時代에 임의 銅 銀 錫등의 採鑛法과 冶金術이 발명되엿스며 中國에 잇서서도 거의 同時代에 古鏡이 製造되엿섯다. 其後 哲學者들의 四原素說 즉 自然界의 森羅萬象은 모도가 地 水 火 風의 四原素의 加減構成된 것이라는 관념과 푸라톤의 理想主義 아리스토텔레스의 進化主義等의 哲學思想이 결합하게 되면서부터 廉賤한 卑金屬인 鉛등으로 高貴한 金屬인 黃金을 製造할 수 잇다는 신념이 당시 埃及天下에 풍미되자 알렉싼더 이후에 허다한 學者들이 硏究에 몰두한 것이 유명한 鍊金術이엿다.
+그러나 未久에 羅馬는 老衰하고 겔만族의 南侵을 비릇하야 基督敎의 傳播 封建制度의 설립 아라비아人의 勃起 十字軍의 遠征등이 연속하여 이러나며 法王과 帝王의 싸움이 계속되고 掠奪과 殺伐이 不絶하야 羅馬帝國뿐 아니라 學術과 技藝의 産母인 自由 都市까지 荒廢하니 過去의 찬란하든 학예의 정화는 일조일석에 無理解하고 無智兇暴한 北夷人의 鐵靴에 蹂躪되고 人文의 존보는 무참히도 파양되는 동시에 이 廢瘧에는 基督의 敎意가 充溢되면서 在來의 學術은 極端으로 배척되고 오직 신의 계시가 인생을 빗취고 잇다고 信仰하는 그들에게는 데모크리트스 에피쿠로-스등의 理智的 機械的 世界觀은 餘地업시 唾棄되고 마럿다.
+宗敎와 學術의 鬪爭이 不絶하고 宗敎가 得勢하면 할수록＜161＞ 그 彈壓行動은 露骨化하야 단지 學術의 理論的 反駁뿐 아니라 그 魔手는 귀중한 寶庫에까지 밋치게 되여 愛의 權化일 宗敎家는 暴君 秦始皇의 亂行을 자행하야 심지어 지구의 球形論者까지 異端者視하야 배척되며 合理的 醫療術이 전폐된 대신에 祈禱와 禁慾이 오직 神怒를 풀 수 잇는 求癒之道가 되고 마럿다.
+精神生活의 지배자인 基督敎뿐 아니라 그때에 政權把握者이며 物質生活의 支配者인 케루만族도 또한 學術을 극도로 배척하고 다만 破壤와 掠奪로만 成事하엿스니 이후 14세기頃까지는 學術계의 일대 암흑시대이엿스며 恐怖時代라 하겟스니 化學인들 발달을 엇지 바랄 수 잇섯스리요.
+14세기말부터 점차 광명한 서광이 現出되여 코페닐스(1543)가 廣大無邊한 우주 문제에 관하야 在來의 天動說을 餘地업시 排擊하고 地動說을 주장하는 그 당시에 化學界에 잇서서는 파랏첼스(1541)가 過去의 誤謬와 狹見을 파양하고 一新紀元을 획립하엿스니 化學의 목적은 鉛으로 金을 제조함에 잇지 아니하고 藥品精製에 참된 使命이 잇다고 절규하야 昇華蒸溜 炭火등의 수단을 案出하야 후배의 연구에 다대한 편의를 주엇고 그 후 헬몬드(1644)의 瓦斯發明 크로벨(1664)의 硫酸 鹽酸製造發明 뽀일(1695)의 瓦斯法則確立과 分析法發明 메여(1679)의 酸素硏究등 화학계의 中興時代를 이루엇섯다.
+이어서 라보제(1774)의 燃燒說 카펜듸쉬(1781)의 水의 組成硏究 아부끄들로(一八一一)의 瓦斯法則 멘델레푸(1782)의 週期律 알렌뉴스(1887)의 電離說 큐리(一八九八)의 라듐 發見 에밀핏샤(1906)의 蛋白質 集成 성공등이 계속하여 발표되면서 化學은 今日까지 長足으로 進步되엿다.
+
+3.化學의 基礎
+化學은 物質의 變化를 연구하는 학문이라고 前述하엿거니와 대개 變化에는 二種이 잇스니 物質的 變化와 化學的 變化의 두가지라 물질적 변화라 함은 物質自體의 性質은 不變한 채로 오직 형태가 변한 것을 말함이니 물이 겨울에 어름이 되고 끄러서 水蒸氣가 된 것가흔 것은 물이나 어름이나 水蒸氣나 그 自體가 물의 성질을 변치 아니하고 다만 形狀만 혹은 固體 혹은 液體 혹은 氣體가 되엿슬 뿐이니 이러한 것을 物理的 變化라 하며 화학적 변화라 함은 物質의 性質이 전연히 변화됨을 이루나니 술(酒)이 초(醋)가 되거나 나무가 숫이 된 것가흔 것을 가르침이라.
+化學的 변화에는 그 변화하는 방법이 네가지 잇스니 化合分解 置換(代入) 複分解라 化合이라 함은 A와 B가 합하야 A도 아니요 B도 아닌 전연 다른 물질인 P로 변화한 것을 이름이요 分解라 함은 A와 B로써 化合된 P가 다시 A와 B로 난호인 것을 이름이며 置換이라 함은 A와 B가 化合퓀˜야 된 P와 C가 함게 작용하야 P중의 A나 혹은 B 代身에 C가 代入되고＜162＞ A나 혹은 B가 外部로 逐出된 것을 이름이며 複分解라 함은 A와 B가 化合한 P와 C와 D가 化合한 Q의 二物質이 다시 작용하야 A와 C B와 D가 서로 化合한 것을 말함이다.
+變化의 主體는 元素로 始作될지니 우주에 허다한 천태만상이 형상과 성질이 各殊各異하나 이것을 근본적으로 분석하여 볼진대 80여개에 불과하는 元素의 合同分離로 인하야 形成된 것이다.
+元素라 함은 어느 물질이나 세세히 粉碎하야 최후까지 성질을 변하지 아니한 極少의 形態를 이름이며 2개이상의 元素가 化合한 것을 化合物이라 한다.
+즉 水素와 酸素는 元素인데 이 元素인 水素와 酸素가 化合하면 물이 되나니 이 물을 화합물이라 한다. 그러나 假令 細砂와 雪糖을 석거 노앗다 하면 이것은 化合物이라 못할지니 그 理由는 細砂는 細砂대로 雪糖은 雪糖대로 何等의 性質의 變化를 이르키지 아니한 까닭이다. 이러한 것을 혼합물이라 칭한다.
+化學變化를 이르킴에는 일정한 법칙이 잇스니 質量不變律 正比例律 倍數比例律의 三則이 基本이라.
+質量不變律이라 함은 물질이 엇더한 화학변화를 이르킨다 할지라도 근원되는 물질의 질량의 總和에는 增減이 업슴을 이름이니 例하건대 樹木이 생장하면 樹木自體의 重量이 激增된 것은 사실이나 이 반면에 土壤中의 양분과 공기중에 양분이 섭취된 만큼 重量이 增加되엿슴에 불과하다.
+定比例律 化合物의 각 성분의 比는 一定不變함을 이름이니 예컨대 물은 水素三와 酸素一六의 重量比로 成立된 것임으로 한방울의 물이나 千石의 물이나 其成分 組成比는 二對一六의 比에 變함이 업다.
+倍數比例律은 二種의 元素가 화합하는 경우에는 甲元素의 일정량에 대한 乙元素의 化合量은 항상 간단한 整數比로 화합됨을 가르침이니 예컨대 炭素와 酸素가 화합할 경우에는 酸化炭素도 될 수 잇고 炭酸瓦斯도 될 수 잇스니 酸化炭素는 炭素와 酸素의 화합된 重量比가 12 :16이며 炭酸瓦斯는 12:32인 즉 이것의 比는 탄소12에 대하야 산소는 1과 2의 比이다.
+
+4. 化學의 分科
+化學은 우리 人間이 理智를 가지고 自然現象을 대할 때의 그 변화함에 호기심을 가지게 됨으로부터 처음에는 다소 원인을 알게 되자 장래의 변화를 예기하고 이것을 방어하랴고도 하여보고 이것을 촉진식히랴고도 노력하는 중에 학문이 인간생활의 점차 복잡하여지고 慾求의 進化됨을 따러 自己滿足을 엇는데 크게 要한 것을 깨닷게 되자 처음에는 純碎한 理論化學이엿든 것이 應用化學의 分科를 짓게 되엿다.
+理論化學 自體에 잇서„ 화학의 活動舞臺는 化學에만 한하지 아니하고 물리학과 크게 관계가 잇는 것을 알자 물리화학이＜163＞ 成立되엿고 電氣的 활동을 빌게 되여 電氣化學이 組織되고 化學變化가 光線과 非常히 密接한 關係가 잇는 것을 알 때에 分光化學이 成立되엿스며 森羅萬象의 組織을 分析하야 其組成을 討究하게 되니 分析化學이 발전되엿다.
+應用好學에 잇서도 처음에는 其分野가 狹小하야 上古에 잇서서는 紙類製造 食器製造등에 불과하엿스나 인간생활이 복잡하게 되자 無機化學과 有機化學을 난호게 되고 오직 有機物의 製造는 人工으로는 불가능하고 無機物의 製造에 열중하며 化學工業에 원료가 無機物에 限하엿든만큼 鑛物化學이 발달하엿고 海産化學이 발달되엿다.
+그후 尿素 合成 蛋白質 集成등의 성공으로 인하야 人力으로 不及視하든 有機物 製造에 突進하야 한편으로는 자연물을 분석하여 조성과 구조를 탐색한 후에는 이것을 모방하야 합성하랴는 합성화학이 성립되엿다.
+또 한편으로 農業分野에 침입하야 農産物의 利用及 增收를 획책하기 위하야 農藝化學의 分科가 생겻다.
+오늘에 잇서 化學의 分科는 일일히 들기에는 넘무나 다수로 난호여 잇서 각각 專門方面이 압흐로도 分岐되며 深奧하게 될 것이다.
+화학을 應用하는 工業의 種題를 들면 유리工業 陶磁器工業 세멘트工業 琺瑯鐵器工業 食鹽工業 曹達灰工業 苛性曹達(양재물) 及 晒粉工業 製藥工業 製油工業 硬化油工業 石*工業 塗料 及 顔料工業 漆工業 石油工業 석냥工業 팔푸工業 製紙工業 세투로이드工業 人造絹工業 澱粉工業 砂糖工業 釀造工業 硫酸工業 人造肥料工業 石炭工業 骸骨工業 타루工業 染料工業 잉크工業 乾溜工業 고무工業 樟腦工業 薄荷工業 香料工業 化粧品工業 液化工業 皮革工業 製鐵工業 貨幣工業 輕金屬工業 調味料工業 製菓工業 製乳工業 人造酒工業 淸凉飮料工業 寫眞工業 印刷工業 合金工業 카본工業 카바이드工業 電池工業 火藥工業 兵器工業등이로 헤일 수 업시 만흐며 이들에 대한 常識的 解說도 紙數의 關係로 용이한 일이 아니니 다음에 우리 생활에 가장 접촉이 만흔 물건의 製造原料나 몃가지 적기로 하자.
+유리 모래 소다 물깜
+양재물 소금 물 전긔 石灰
+비누 쇠기름 椰子油 양재물 香料와 물깜
+석냥 赤燐 鹽素酸加里 重크롬酸加里 二酸化만간 송진 황 硝子粉 아교
+洋紙 넉마 나무 냥재물 糊 亞硫酸
+세루로이드 넉마 양재물 混酸 樟腦 酒精
+人造絹 팔푸 넉마 양재물 二硫化炭素 硫酸 硫酸소다 그루코스 硫酸苦土
+사이다 雪糖水 重曹 枸櫞酸
+고무 고무진액 진흙 炭麻 炭酸石灰 황＜164＞
+
+5. 天然物의 人造
+人造! 화학의 발전은 드듸여 이 세상의 人工的 능력이 무한한 것을 聲名하게 되엿다. 이 얼마나 全知全能한 神을 冒瀆함인가. 天下萬物은 오직 神의 創造로 된 것이다. 고로 人力으로는 이것을 엇지 할 수 업다. 오직 神에게 祈禱하며 祝願함으로써만 우리의 소망을 달할 수 잇다. 이것은 宗敎家의 主唱이다.
+그러나 일부의 사람은 이것을 信仰하기에는 넘우나 理智가 발달되엿섯다. 그들은 아니다. 天下萬物은 오직 우리 人類의 努力과 奮鬪로 얼마든지 左右할 수 잇다고 絶叫하야 宗敎와 科學은 최후통첩과 선전포고를 한지가 임의 오래엿다. 그동안에는 或勝或敗하엿스며 休戰時代도 잇섯고 妥協講和時代도 잇섯다. 그러나 결코 平和時代는 오지 아니하엿다. 그러는 중에 과학의 捷報가 屢屢히 보도되는 근래에 잇서서는 宗敎家중에 타협과 악수를 提請하는 기분이 濃厚하여간다. 보라 東西 書籍發刊類目을 보면 가장 현명한 宗敎家들은 宗敎와 科學의 親睦을 主唱하며 심지어 宗敎의 科學化를 역설하기까지 되엿다. 과학의 捷報는 무엇인가. 人造術의 발달이다. 삼라만상과 우주만물은 神의 창조임으로 人工的製造는 불가능하다는 종교가의 信條를 여지업시 깨트렷다. 근래에 와서 얼마나 人造物이 簇生되엿는가.
+染料가 石炭타루에서 人造되여 天然産 染料를 凌駕하게 된 것을 비롯하야 人造絹 人造玳瑁 人造翡翠 人造고무 人造香料 人造石油 人造革 人造酒 人造石 人造寶石 人造羊毛 人造象牙 人造果蜜 人造尿素 人造樟腦 人造蜜華 人造角 人造漆등의 성공은 벌서 과거에 일이요 지금은 天下의 靈物이며 하나님의 자녀인 인간을 人造하기에 着手하엿스니 화학의 진보는 自然을 정복하엿스며 자연의 힘에 의지하지 아니하고는 創造되지 못한다든 것을 人工的으로 製造하게 되엿고 더구나 그 중에는 自然의 힘 造物主의 힘으로 창조된 것보다도 精巧하고 廉價한 물건을 人造하게 되어서 창조의 神으로 顔色을 불키게 되엿다.
+
+6. 簡單한 化學工藝 몃가지
+編輯者의 요구도 잇고하야 몃가지 간단한 일용품의 製法을 소개할까 한다. 그러나 이것은 家庭에서 容易히 될 수 잇는 것을 쓰랴하지만은 상점에서 판매하는 물품가치 外觀은 좃케되지 못할 것이나 其品質에 잇서서는 오히려 나흔 것이 될 것이다.
+물론 1,2차의 실패가 잇슬 줄 아나 실패는 귀중한 경험인 것을 깨닷고 數次 反覆하면 상당한 製品이 되리라.
+
+1. 살터지지 아니하는 化粧水
+化粧加里0.2 炭酸加里2.3 구리세린10.0 氷七4.0 酒精11.0
+
+2. 乳白色美顔水
+硼砂7.0 카세인5.5 구리세린13.0 氷七4.3 香料0.2
+
+3. 햇빗에 껄니지 안는 水白粉
+亞鉛華2.0 카라민13.0 오리쓰根丁幾5.0 구리세린5.0 水七4.9 香料0.1＜165＞
+
+4. 죽은께 뽑는 粉水
+鹽化암모늄1.0 구리세린4.0 酒精10.0 薔薇水84.5 암바리퀴드0.5
+
+5. 가루粉
+亞鉛華55.0 澱粉15.0 滑石27.0 스톄아린酸亞鉛3.0
+
+6. 齒磨粉
+重酒石酸加里30.0 乳糖30.0 硅藻土39.0 시네울0.02 丁字油0.7 가라에油0.28
+
+7. 頭髮香水베이럼
+베이油0.15 丁字油0.05 酒精60.0 기라이丁幾10.0 水30.0
+
+8. 養毛香水
+鹽酸키니네0.3 鹽酸피로칼핀0.1 구리세린2.0 薔薇水77.6 라벤더水20.0
+
+9. 포마-드(직구)
+皮麻子油86.0 木蠟10.0 香料少量 와니린1.0
+
+10. 구리무(크림)
+流動파라핀56.5 白蠟17.2 노라린5.0 硼砂0.8 水20.0 薔薇옷트0.2 벤쏘인0.4
+
+11. 鍮器를 銀色내이는 法
+砂器에 酒石英40 瓦吐酒石14 瓦을 水千瓦에 溶解한 후 鹽酸50 瓦錫粉125 瓦及 안치몬粉30 瓦을 加하야 끄린데다가 鍮器를 넛코 三十分 담그라.
+
+12. 銀器를 黃色내이는 法
+硫化바륨0.3을 水 150에 溶解한 후에 銀器를 담그면 처음에는 靑白色이 나다가 점차 黃金色으로 變함.
+
+13. 잉크(靑黑)
+粉末沒食子 一封度를 沸湯二升五合에 一晝夜 담근 後 걸는 물에 硫化鐵 5.5온쓰 아라비야 고무 3온쓰 크레오소-트 數滴을 加하라.
+
+14. 秘密잉크
+鹽化암모늄과 硫酸銅을 同量을 물에 溶解한 물로 글씨를 쓴 후 말니면 아모 것도 아니 뵈이나 불에 쪼이면 낫타난다.
+
+15. 脫毛藥
+硫化스토론을 물에 푸러서 발느면 脫毛된다.
+
+16. 구두약(黑色)
+스톄아린 45分과 蜜蠟 15分을 加熱溶解한 후 蠶蛹을 黑燒한 가루 100分 五倍子 30分 第一硫酸鐵 15分 구리세린 20分을 반죽한 후 서서히 불에 끄리기를 一時間쯤 하야 식히면 단단한 구두약이 된다.＜166＞
+＜160-166＞

@@ -1,0 +1,300 @@
+10	001	Youth is Brief, Let's Laugh and Live		Miscellaneous Writing
+10	010	Iron and Blood	Kim Tong-hwan	Literary Miscellany
+10	020	After Attending the Paris Peace Conference	Yŏ Un-hong	Memoir/Recollection
+10	030	The World's Men of Iron and Blood and Their Great Deeds		Editorial/Article
+10	040	Turtle Ship		Miscellaneous Writing
+10	050	Report on Meetings with Leaders of Friendly Nations		News/Information
+10	060	Collection of Domestic and Foreign News (1)		News/Information
+10	070	The Truth of the Hague Secret Emissary Affair, The International Peace Conference and the Winds of Change in the Far East	Related by a Certain Late Korean Empire Politician	Memoir/Recollection
+10	080	Complete Dissection of Chosŏn's Great Chaebŏl (1), The 5 Million Won of the Kim Sŏng-su Line, Business System = Kyŏngsŏng Pangjik, Kyŏngsŏng Sang'gong, Haedong Bank, Tong-A Ilbo, Chungang School	Yu Kwang-ryŏl	News/Information
+10	090	Do You All Know?, Chosŏn Reality Research Lab		News/Information
+10	100	Prison Diary	Im Wŏn-gŭn	Memoir/Recollection
+10	110	The Fragrance of Life	Yi Kwang-su	Memoir/Recollection
+10	120	The Issue of Wives' Fidelity While Husbands Are Imprisoned or in Exile		Survey/Questionnaire
+10	130	Idle Talk Room		Miscellaneous Writing
+10	140	General Review of Rising Scholars (1), The Professors of Yŏnhŭi College	Hanyang Hagin	News/Information
+10	150	Pilgrimage to Historic Sites		Travelogue
+10	160	A Visit to the Women's Prison	Yun Sŏng-sang	News/Information
+10	170	Things That Made Me Cry in Court		Memoir/Recollection
+10	180	Death Sentence Pronouncements and Judges, Former P'yŏngyang Appeals Court Judge Han Kuk-chong		Memoir/Recollection
+10	190	The Astonishing Debt of 100 Million Won		News/Information
+10	200	Lighting Up a Cigarette		Social Commentary
+10	210	Our Poems	Chŏkku	Poetry
+10	220	Coast (Rhyming)	Kim An-sŏ	Poetry
+10	230	The Fall	Yŏm Sang-sŏp	Novel/Fiction
+10	240	Du Fu's "Zimei" River Village Poem		Poetry
+10	250	Autumn Thoughts	Anonymous	Poetry
+10	260	Yellow Crane Tower	Ch'oe Ho	Poetry
+10	270	Gratitude and Apology		Notice/Editor's Postscript
+11	001	Chosŏn College School Song Collection		Poetry
+11	010	Flag Advances, People Do Not: A Year-End Message		Editorial/Article
+11	020	The Issue of Electing Representatives of the Chosŏn Nation		Survey/Questionnaire
+11	030	Domestic and Foreign News		News/Information
+11	040	Sin'ganhoe General Assembly, Scene at the Acting Central Executive Committee	Kim Ki-rim	News/Information
+11	050	Critique of the Sin'ganhoe Dissolution Issue	Hong Yang-myŏng, Pak Mun-hŭi	Editorial/Article
+11	060	Groups of Exiles Wandering All Nations	Yi Kwang-su, Kim Se-yong, Yi Chŏng-sŏp, Kim Tong-hwan	Literary Miscellany
+11	070	Overview of Foreign Capital, The Mitsui Kingdom and Chosŏn	Hong Sŏng-ha	Editorial/Article
+11	080	The Unification and Trend of Ch'ŏndogyo	Simgyŏng Hagin	Editorial/Article
+11	090	Witty Talk, Jokes		Miscellaneous Writing
+11	100	Dissection of Chosŏn's Largest Chaebŏl (2), The 10 Million Won of the Min Yŏng-hwi Line, Business System = Chosŏn Hanil Bank, Chosŏn Silk Reeling Company, Hwimun High Common School, etc.	Sin T'ae-ik	News/Information
+11	110	Company Notice		Notice/Editor's Postscript
+11	120	Departing Concessions (1), The South Coast and the Yi Kŏn'gong Fishery	Kim Tong-jin	Editorial/Article
+11	130	Merger of Hanil and Hoseo Banks		News/Information
+11	140	Mr. Kim Myŏng-sik Released from Prison		News/Information
+11	150	Foreign Works That Moved Me		Literary Miscellany
+11	160	The Han'gŭl Movement		News/Information
+11	170	10,000 People Under Surveillance		News/Information
+11	180	Revolutionary Woman 'Naidu' and India	Chŏng In-sŏp	Editorial/Article
+11	190	Lighting up a cigarette		Social Commentary
+11	200	Recent Love and Prostitution in Russia, ... ...From Leningrad	A Student in the Russian Capital	Editorial/Article
+11	210	Humor		Miscellaneous Writing
+11	220	Yun Sim-dŏk, Queen of the Immortal Music Scene, The Truth Investigated by Newspaper Reporters	Kim Ŭl-han	News/Information
+11	230	Shanghai's New Spring	Im Wŏn-gŭn	Literary Miscellany
+11	240	Street Artists	Ch'obyŏngjŏng	Interview/Roundtable Talk
+11	250	Notice of Thanks		Notice/Editor's Postscript
+11	260	At the Old Asan Battlefield	P'ain	Travelogue
+11	270	Families Where Both Husband and Wife Are Artists (1), Ms. Paek Nam-sun and Painter Mr. Im Paekp'a	Ch'obyŏngjŏng	News/Information
+11	280	The Sad Story of Ŭn-hŭi, A True Story of Human Tragedy	Ch'osa	Literary Miscellany
+11	290	Gratitude and Apology	P'ain	Notice/Editor's Postscript
+12	010	The Camellias of Pulguksa Temple	P'ain	Poetry
+12	020	'Getting' and 'Giving'	Kim Tong-hwan	Literary Miscellany
+12	030	World Bulletin Board (Mid-January)	Kim Tong-hwan	News/Information
+12	040	Chosŏn Movement: Cooperation or Confrontation?, Critique of the Sin'ganhoe "Dissolution Movement"		Survey/Questionnaire
+12	050	Lighting Up a Cigarette		Miscellaneous Writing
+12	060	The Recent Philippines Issue	Yi Chŏng-sŏp	Editorial/Article
+12	070	The Labor Union Bill and Its Future, = Clear Expression of the Essence of Party Politics =	Pae Sŏng-ryong	Editorial/Article
+12	071	Company Notice		Notice/Editor's Postscript
+12	080	Account of Escaping the Border and the Far East Political Upheaval, Recollections of the Siberian Era (1)	Hong Yang-myŏng	Memoir/Recollection
+12	090	Debate on the Remarriage of Women Who Have Lost Their Chastity		Editorial/Article
+12	100	Midnight at the Port	An-sŏ	Poetry
+12	110	Youth	P'ain	Poetry
+12	120	A Good Harvest Has Come	P'ain	Poetry
+12	130	Dissection of Chosŏn's Largest Chaebŏl (3), The 3 Million Won of the Ch'oe Ch'ang-hak Line, No Business Achievements Yet, But His Characteristic is Holding Everything in Cash	Kim Ŭl-han	News/Information
+12	140	Outline of Peasant Issues: Introduction	Chang Il-sŏng	Editorial/Article
+12	150	Departing Concessions (2), The Oysters of Yŏnghŭng Bay and 2,000 Residents, 'Another 10-Year License to Yokoyama'	Kim Tong-jin	Editorial/Article
+12	160	The Management of Ch'ŏndogyo After the Assembly	Simgyŏng Hagin	Editorial/Article
+12	170	Left-Leaning Professors, Right-Leaning Professors, Review of Yŏnhŭi College Professors (Continued)	Hanyang Hagin	News/Information
+12	180	The Great March of Work Clothes, 100 Young Women Unite Holding the Banner of the Class Vanguard, A Visit to the Kyŏngsŏng Women's Consumer Cooperative		News/Information
+12	190	The Great March of Work Clothes 2, Singing Songs of Victory While Making Shoes in the Workers' Factory, Scene at the Western Shoe Craftsmen's Workshop Department Organized and Run by 20 Workers Who Pooled Their Own Capital Without a Capitalist		News/Information
+12	200	Record of the Death of the Russian Tsar, The Last Diary of Tsar Nicholas	Wŏndong Hagin	Literary Miscellany
+12	210	Famous Kisaeng "Ch'unjong"		Literary Miscellany
+12	220	The Great Department Store Battle: Hwashin Tŏkwon vs. Mitsukoshi Chōji	Sin T'ae-ik	Editorial/Article
+12	230	Joint Honeymoon Diary of a Bride and Groom		Literary Miscellany
+12	240	Collection of Jokes		Miscellaneous Writing
+12	250	Who Wrote the Arirang Song?		Literary Miscellany
+12	260	Standing on the Performance Stage	Ch'oe Sŭng-hŭi	Literary Miscellany
+12	270	Chat Room		Miscellaneous Writing
+12	280	Fantasy	Yŏsu	Poetry
+12	290	Soviet Film: Storm Over Asia, Original Title: Descendant of Genghis Khan	Pugaksanin	Literary Miscellany
+13	010	Swallow South of the River (Short Song)	P'ain	Poetry
+13	020	Magazine Screening of the World-Famous Film "All Quiet on the Western Front"		Literary Miscellany
+13	030	Magazine Screening of Chaplin's Tearjerker "City Lights"		Literary Miscellany
+13	040	Movement for Freedom of Speech, Assembly, and Association	An Chae-hong, Yi Chu-yŏn	Editorial/Article
+13	050	Debate on Imprisoning Adulterous Husbands		Survey/Questionnaire
+13	060	Critique of the Indian National Movement	Edward Thompson, Professor at Oxford University, UK	Editorial/Article
+13	070	The Present and Future of the Chosŏn Youth Movement, Including the Outlook for the Dissolution of Ch'ongch'ong	An Pyŏng-ju	Editorial/Article
+13	080	Prospects for the Chosŏn Cooperative Movement	Ham Sang-hun	Editorial/Article
+13	090	Account of Sailing to Shanghai and Vladivostok on an Old Korean Warship, A Sailor's Notes	Konggok Kŏsa	Memoir/Recollection
+13	100	New Spring Music Scene Parade, Grand Mix of Yi Tong-baek, Song Man-gap, Ms. Pak Nok-chu, and Messrs. An Ki-yŏng, Kim Yŏng-hwan		News/Information
+13	110	Chiang Kai-shek's Theory of World Crisis	China weekly	News/Information
+13	120	Lighting up a cigarette		Miscellaneous Writing
+13	130	Selected Poems of Kim Sakkat	Yi Ŭng-su	Poetry
+13	140	The Legend of Posin'gak Pavilion		Literary Miscellany
+13	150	Debate on Purging Figures from the Movement Frontline	Kim Min-u	Editorial/Article
+13	160	Theory of Finance in Colonial Chosŏn	Pugaksan Hagin	Editorial/Article
+13	170	Shanghai in Turmoil, Record of a Musician Weeping While Holding His Child's Corpse	Pak Kyŏng-hŭi	Memoir/Recollection
+13	180	Love and Death, The Tragic Suicide by Poison of Poetess Ms. Pak Chŏng-jin Due to Unrequited Love, Ending Her Life After Finishing Tokyo Women's Higher Normal School		Literary Miscellany
+13	181	Thoughts on Occasion (Posthumous Work)	Pak Chŏng-jin	Poetry
+13	182	Remembering My Sister	Pak P'al-yang	Poetry
+13	190	Magazine "Birth Control Clinic"		Editorial/Article
+13	200	Scenes from Kyŏngsŏng's Communal Residences for Single Women	Ch'osa	News/Information
+13	210	Visiting an Opium Den	An'gong	News/Information
+13	220	Ewha Womans University and Chosŏn Women	Simgyŏng Hagin	News/Information
+13	230	A Millionaire's Funeral		Miscellaneous Writing
+13	240	The Issue of Sexual Desire While Imprisoned		Survey/Questionnaire
+13	250	Splendid Rivers and Mountains, Our Peninsula's Landscape, Grand Gathering of Writers and Painters		Travelogue
+13	260	Remembering a Departed Friend	Im Wŏn-gŭn	Literary Miscellany
+13	270	Writers and Pawnshops		Memoir/Recollection
+13	271	○ Gratitude and Apology	Kim Tong-hwan	Notice/Editor's Postscript
+14	001	Jar Construction	Kim Tong-hwan	Literary Miscellany
+14	010	The Movement for Gaining Immediate Benefits and Its Critique		Editorial/Article
+14	020	Our Movement and the Sin'ganhoe, Including the Outlook for This Spring's General Assembly and the Dissolution Debate	Sin'ganhoe Iwŏn Branch	Editorial/Article
+14	030	History of Censorship (Writing and Speech) in the Last Ten Years		Memoir/Recollection
+14	040	The Dissolved Taiwan People's Party	Kōno Mitsu	Editorial/Article
+14	050	The Imprisonment of Hu Hanmin and the Future of the Nationalist Government	Kim Chang-hwan	Editorial/Article
+14	060	A Social Study of Civil Unrest in Chosŏn	Pugaksanin	Editorial/Article
+14	070	Review of Figures on the Vanguard Line		Editorial/Article
+14	071	(Untitled - Kukp'yŏn)		Notice/Editor's Postscript
+14	080	Hanging Scroll		Miscellaneous Writing
+14	090	Autobiography	Song Man-gap	Memoir/Recollection
+14	100	Because of the War		Miscellaneous Writing
+14	110	My Life in a Monastery, One Year at the Trappist Monastery in Hokkaidō	Yi Kwan-gu	Memoir/Recollection
+14	120	Jokes		Miscellaneous Writing
+14	130	Dissection of Chosŏn's Largest Chaebŏl (4), The 2 Million Won Banking King Mr. Pak Yŏng-ch'ŏl - Connected to Chosŏn Commercial Bank, Rice Warehouses, etc.	Chu Yun	News/Information
+14	140	Report on Meeting the Disheartened Hu Hanmin	Chu Yo-han	News/Information
+14	150	Lighting up a cigarette		Miscellaneous Writing
+14	160	Departing Concessions (3), The Future of Kaesŏng Ginseng - Annual Production Quantity 150,000 Kŭn -	Pak Yun-sŏk	Editorial/Article
+14	170	Pak Yŏl's Lover's Final Testament, Sent from Prison to a Certain Person	Kaneko Fumiko	Literary Miscellany
+14	180	Impressions of Figures from the ML Faction	An Pyŏng-ju	Memoir/Recollection
+14	190	Popular Slang Among New Women		Miscellaneous Writing
+14	200	Love in Nepal	Ch'angnang'gaek	Literary Miscellany
+14	210	Birth Control Clinic	Medical Doctor MB	Miscellaneous Writing
+14	211	Company Notice		Notice/Editor's Postscript
+14	220	Account of Sailing to Shanghai and Vladivostok on an Old Korean Warship (2), A Sailor's Notes	Konggok Kŏsa	Memoir/Recollection
+14	230	Magazine Film Screening		Literary Miscellany
+14	240	National Health and Physical Education Promotion (1)	Chin Pŏm	Editorial/Article
+14	250	Unforgettable Young Foreign Women		Memoir/Recollection
+14	260	Anecdotes from China: The Land of Women	Yun Paeng-nam	Literary Miscellany
+14	270	Life as a Nun in a Large Nunnery with 80 Virgins, Visiting Hwanhŭisa Temple in Chŏngp'yŏng, Hamnam Province	Ch'angnang'gaek	Travelogue
+14	280	Gratitude and Apology		Notice/Editor's Postscript
+15	010	Dissolution and Prospects		Editorial/Article
+15	020	Chosŏn=China=Spain, From the Atlantic to Compatriots in the Homeland, On Behalf of Compatriots Residing in Cuba (Yi Sŭng-man Battalion)	Kim Ch'ŏn-t'aek	News/Information
+15	030	China's Construction Plan for Manchuria	Dai Tianchou, Head of the Examination Yuan of the Chinese Nationalist Government	Editorial/Article
+15	040	The Fall of the Spanish Monarchy, Its Declining Power and Judgment	Paengnyuhyang	Editorial/Article
+15	050	How Did Chaplin Become Famous?		Miscellaneous Writing
+15	060	Standing on the Banks of the Yangtze River	Hong Yang-myŏng	Travelogue
+15	070	Hŏ Hŏn and Hong Myŏng-hŭi in Court, Observing the Scene at the Public Trial for the People's Assembly	Ch'angnang'gaek	News/Information
+15	080	The World's Shortest Play, "The Exile" One Act	Original by French Poet Bernard	Miscellaneous Writing
+15	090	The Trend of Land Consolidation in Chosŏn, A Study of the Current Chosŏn Countryside	Han Chang-gyŏng	Editorial/Article
+15	100	Company Notice	Editorial Department	Notice/Editor's Postscript
+15	110	Proposal for Organizing a Youth Council, In Relation to the Dissolution of Chosŏn Ch'ongch'ong	Pak Sŭng-gŭk	Editorial/Article
+15	120	Current Social Movements and Associations	Pugaksanin	Editorial/Article
+15	130	Actual Record of Labor-Farmer Disputes		Memoir/Recollection
+15	140	Lighting up a cigarette		Social Commentary
+15	150	Proletariat Party Cabinet		News/Information
+15	160	Paradise Lost		Social Commentary
+15	170	News		Miscellaneous Writing
+15	180	Kim Ok-kyun and Pak Yŏng-hyo	Kim Chin-gu	Editorial/Article
+15	190	National Health and Physical Education Promotion (2), The Current Situation in Europe and America and Our Awakening	Chin Pŏm	Editorial/Article
+15	200	Marvels of Scientific Civilization (1), Artificial Humans		Miscellaneous Writing
+15	210	Peninsula of Legends		Literary Miscellany
+15	220	Mistaking Someone for Her Husband		Miscellaneous Writing
+15	230	Famous Overseas Novels (1), The Emigrants	By Norwegian Johan Bojer	Novel/Fiction
+15	240	More Fruit than Flowers		Miscellaneous Writing
+15	250	Birth Control Clinic (3)	German Medical Doctor Chŏng Sŏk-t'ae	Interview/Roundtable Talk
+15	260	Grave of Lamentation (1), Alas, the Tomb of Tohyang	Pang In-gŭn	Literary Miscellany
+15	270	Fifteen Tanka Poems	Yi Ŭng-su	Poetry
+15	280	Account of Being Robbed Tens of Thousands of Miles Away, Mr. N Robbed of 1,500 Won in School Fees on the Way to Europe	Chŏng Sŏk-t'ae	Memoir/Recollection
+15	290	Account of Being Robbed Tens of Thousands of Miles Away, Almost Robbed in Hong Kong	Yŏ Un-hong	Memoir/Recollection
+15	300	Account of Being Robbed Tens of Thousands of Miles Away, Inside the Trans-Siberian Railway	Sin Hŭng-u	Memoir/Recollection
+15	301	Notice of Thanks		Notice/Editor's Postscript
+15	310	Setting Sun	Han Yong-un	Poetry
+15	320	Sŏngch'ŏn Kangsonnu Pavilion	Chŏngna Sanin	Poetry
+15	330	Courthouse Miscellany, One-Year Sentence Becomes Not Guilty	Attorney Yi In	Memoir/Recollection
+15	340	Overview of New Women in the Kwangmu and Yung-hŭi Eras		Memoir/Recollection
+15	350	Literary Scene March		News/Information
+15	360	Psychology of Unmarried Women		Miscellaneous Writing
+15	370	Gratitude and Apology		Notice/Editor's Postscript
+16	010	The Reality of the Peasant Movement - Several Tactics for Expansion and Strengthening	Han Chang-gyŏng	Editorial/Article
+16	020	The Immediate New Stage of the Chosŏn Labor Movement	Yi Yang	Editorial/Article
+16	030	The Returned Labor-Farmer Masses and Organization	Song Pong-u	Editorial/Article
+16	040	Prospects for the Anti-Religion Movement	Chin Yŏng-ch'ŏl	Editorial/Article
+16	050	Sin'ganhoe Before and After the Dissolution Vote, Scene at the Kyŏngsŏng General Assembly on May 15th	Kim Ki-rim	Editorial/Article
+16	060	Dissection of Japan's Three Major Proletariat Parties	Im Wŏn-gŭn from Tokyo	Editorial/Article
+16	070	Impression of Mr. Yi Tong-hwi, One Night in Siberia	Hong Yang-myŏng	Memoir/Recollection
+16	080	Overview of New Women (2) The Blooming Crowd of Women from the Kimi Year (1919)		Memoir/Recollection
+16	090	Outlook for the New China, Current Movement and Statistics in China	Compiled by Kim Tong-hwan	Editorial/Article
+16	100	Outlook for the New China, The Future of the National Revolution - Our Tasks Henceforth	Deng Yanda from Nanjing	Editorial/Article
+16	110	Outlook for the New China, Theoretical Characteristics of Chinese Civil Unrest - The Third Period and Negotiations with Warlord Conflicts	Hong Yang-myŏng from Shanghai	Editorial/Article
+16	120	Outlook for the New China, Current State of the Peasant Movement	Kim Se-yong	Editorial/Article
+16	130	Outlook for the New China, Current Political Situation After the National Assembly	Yi Chŏng-sŏp	Editorial/Article
+16	140	Outlook for the New China, Current Plight of Chosŏn Farmers in Manchuria, Its Causes and Damage Status	Kim Sam-min	Editorial/Article
+16	150	Outlook for the New China, Foreign Investment in China	Compiled by Kim Tong-hwan	Editorial/Article
+16	160	Outlook for the New China, Representative Figures of Contemporary China	Chu Yo-han	Editorial/Article
+16	170	Outlook for the New China, Where China's Warlords Are Headed	Kim Chang-hwan	Editorial/Article
+16	180	Modern Chinese Literature	Guo Moruo	Editorial/Article
+16	190	Marching Song	Zheng Zhenduo	Poetry
+16	200	Travelogue of Suzhou and Hangzhou, Unsurpassed Scenery Under Heaven	Sim Hun	Travelogue
+16	210	Declaration	Chinese Left-Wing Writers' Alliance	Editorial/Article
+16	220	Peiping University Entrance Examination		Miscellaneous Writing
+16	230	Clues to the Discovery of Major Incidents, The Whirlwind of Arrests in the ML Party	Kim Tong-jin, Tong-A Ilbo Company	Memoir/Recollection
+16	240	Debate on the Propriety of Love Between Siblings and Consanguineous Marriage		Survey/Questionnaire
+16	250	Dr. Yi and President Song		Miscellaneous Writing
+16	260	Critique of Chosŏn Ilbo Editorials	Pak Chong-ŭn	Editorial/Article
+16	270	Unemployed Kyŏngsŏng	Yi Yang	Social Commentary
+16	280	Account of Visiting the Tomb of Admiral Yi Sun-sin	Pak Yun-sŏk	Travelogue
+16	290	Tragic Love Story of an Anarchist Woman in a Kŭmgangsan Hermitage, Having Finished Ewha Women's College and Suffered Unrequited Love, She Reaches Below Piro Peak in Kŭmgangsan and Lives Freely	Ch'osa	Literary Miscellany
+16	300	Company Notice		Notice/Editor's Postscript
+16	310	The Street Without Sun	By Tokunaga Sunao, Translated by Pak Myŏng-hwan	Novel/Fiction
+16	320	Reading Mr. Kang Yong-hŭl's Westen Hat [sic]	Hong Hyo-min	Literary Criticism
+16	330	Gratitude and Apology		Notice/Editor's Postscript
+17	001	△ A Respectful Notice to the People of China		Notice/Editor's Postscript
+17	002	○ Notice of Thanks to the Readers of Samch'ŏlli		Notice/Editor's Postscript
+17	010	Among Three People, How Many Are Happy?		Editorial/Article
+17	020	What Kind of Thing is the Council Organization?	Kim Myŏng-sik	Editorial/Article
+17	030	Partial Critique of Recent Politics	Yi Kwan-gu, Pae Sŏng-ryong	Editorial/Article
+17	040	Hŭngsadan, Study of Overseas Expression Groups... (Part 1)	Compiled by the Samch'ŏlli Investigation Department	News/Information
+17	050	Contemporary Female Thinkers (3), Protagonists of Red Love	Ch'osa	News/Information
+17	060	Transcript of the An Chung-gŭn Incident Public Trial, At the Lüshun District Court on February 7, Meiji 43		Memoir/Recollection
+17	070	Entrusted Words		Notice/Editor's Postscript
+17	080	General Review of Japanese Proletariat Parties	Im Wŏn-gŭn from Tokyo	Editorial/Article
+17	090	The Advance of the Mitsui Chaebol	Hong Sŏng-ha	Editorial/Article
+17	100	Smoking Room		Miscellaneous Writing
+17	110	Three Disappointments and Reflections on Them	An Chae-hong	Memoir/Recollection
+17	120	Salary		Miscellaneous Writing
+17	130	Newspaper Night Stories		News/Information
+17	140	Jokes		Miscellaneous Writing
+17	150	Yi Sun-sin and An To-san	Yi Kwang-su	Literary Miscellany
+17	160	Wife's Attitude When Her Husband Falls in Love with a Kisaeng or Waitress		Survey/Questionnaire
+17	170	The Climax of Proletarian Love, Class Nature Regarding Love	Chin Sang-ju from Tokyo	Editorial/Article
+17	180	India Special Feature, The Essence of the India Problem	Ham Sang-hun	Editorial/Article
+17	190	India Special Feature, Program of the Indian National Movement	Indian Parum Dutt	Editorial/Article
+17	200	India Special Feature, Scene of Indian Demonstration Movement in Shanghai	Kim Se-yong	Editorial/Article
+17	210	Recent Statistics on India	Compiled by Kim Tong-hwan	News/Information
+17	220	Britain's Education Policy Towards India	Indian Rash Behari Bose	Editorial/Article
+17	230	India's Anti-Religion Struggle	Indian Dodgiket	Editorial/Article
+17	240	British Imperialism and the Indian Movement	Science Research Institute	Editorial/Article
+17	250	The Relationship Between India and Russia	Yi Yŏ-sŏng	Editorial/Article
+17	260	India Travelogue	Kim Ch'u-gwan from Bombay	Travelogue
+17	270	Clues to the Discovery of Major Incidents, The Last Moments of Na Sŏk-chu	Kim Ŭl-han, M Newspaper	Memoir/Recollection
+17	280	Random Thoughts	P'ain	Literary Miscellany
+17	290	Intersection Point		News/Information
+17	300	Newspaper Reporters' Parade	Hanyang Hagin	News/Information
+17	310	Recollections of the Anarchist Bakunin, On the 54th Anniversary of His Death	Ch'up'ungnyŏng	Editorial/Article
+17	320	Have New Women Cooked Rice and Made Clothes for Their Husbands or Not?		Survey/Questionnaire
+17	330	The World's Proletariat Representatives		News/Information
+17	340	The Beggar	Kim Tong-in	Novel/Fiction
+17	350	Ten Tanka Poems	Yi Ŭng-su	Poetry
+17	360	Departure	Kim Ok-pong	Poetry
+17	370	Watering Cart	P'yŏnsŏkch'on	Poetry
+17	380	Tragic Love Story of a Nihilistic Woman in a Kŭmgangsan Hermitage (II), Having Lost Love, She Holds Her Dearest Newborn Child and Wanders from Mountain to Mountain, Where Will She Go?	Pak Ok-ryŏn	Memoir/Recollection
+17	390	Gratitude and Apology		Notice/Editor's Postscript
+18	001	Samch'ŏlli Assortment		Notice/Editor's Postscript
+18	002	Samch'ŏlli Assortment		Notice/Editor's Postscript
+18	010	Let's Focus Our Eyes and Ears on Manchuria and Mongolia.		Editorial/Article
+18	020	Three-Year Plan for Building a New Chosŏn Culture		Editorial/Article
+18	021	Company Notice		Notice/Editor's Postscript
+18	022	Samch'ŏlli "Wall Newspaper"		Miscellaneous Writing
+18	030	Samch'ŏlli "Wall Newspaper" No. 2, Korean Cadres within the Government-General		News/Information
+18	040	Study of Overseas Expression Groups (Part 2), Tongjihoe	Compiled by the Samch'ŏlli Investigation Department	News/Information
+18	050	Samch'ŏlli "Wall Newspaper" No. 3, Major Shareholders of Each Bank		News/Information
+18	060	Famous Beauties Active on the Political Stage, Kim Maria in America and Hwang Aesidŏk, Sin Ŭi-gyŏng, Kim Yŏng-sun, Yi He-gyŏng, Yu In-gyŏng, Chang Sŏn-hŭi, Yi Chŏng-suk, etc., Groups Active During the March 1st Movement, Secret History of the Ae(?) Women's Association		Memoir/Recollection
+18	070	Guiding Concepts and Driving Forces, Critique of Yi Kwang-su's "Theory of Leaders"	Kim Myŏng-sik	Editorial/Article
+18	080	Samch'ŏlli "Wall Newspaper" No. 4		News/Information
+18	090	Forgetting the Child		Miscellaneous Writing
+18	100	Class Conflict in the Indian Movement	Hong Yang-myŏng from Shanghai	Editorial/Article
+18	110	Samch'ŏlli "Wall Newspaper" No. 5		News/Information
+18	120	The Pros and Cons of Marriage with Different Ethnic Groups		Editorial/Article
+18	130	The Far East Situation and Compatriots in Manchuria, Tianjin, Inside the Pass		Editorial/Article
+18	140	Samch'ŏlli "Wall Newspaper" No. 8		News/Information
+18	150	Miscellaneous Talk on the Death Penalty	Former Prosecutor H. M.	Miscellaneous Writing
+18	160	Grave Crisis in the Chosŏn Women's Movement, Regarding the Disbandment of the Kŭn'uhoe	Kim Ch'u-san	Editorial/Article
+18	170	Samch'ŏlli "Wall Newspaper" No. 6		News/Information
+18	180	Clues to the Discovery of Major Incidents (Spring 20 Years Ago)	Yu Kwang-ryŏl	Memoir/Recollection
+18	190	Samch'ŏlli "Wall Newspaper" No. 7		News/Information
+18	200	The Tearful Prison Visiting Room		Memoir/Recollection
+18	220	Sŏdo Kisaeng Who Dance Well, Namdo Kisaeng Who Sing Well		News/Information
+18	230	Four Lines of Famous Talk		News/Information
+18	240	The Lineup of the Kwangtung Government	Kŏsan	News/Information
+18	250	Newspaper Night Stories		Memoir/Recollection
+18	260	Intersection Point		News/Information
+18	270	Leading Figures in China's Financial World	Yueyanglou Kŏsa from Shanghai	News/Information
+18	280	Seoul Decameron		Miscellaneous Writing
+18	290	Life Story of America's Great Crime King, "Capone," President of the "Night," Annual Income of 220 Million Won from Bootlegging and Illicit Sales		Miscellaneous Writing
+18	300	Ah, Hero of the Blue Sky Who Conquered the Pacific, "Lindbergh," What Kind of Person Was He Who Startled the Whole World?		News/Information
+18	310	Secret Record of US Decryption of Japanese Codes, 5,000 Pages During the Washington Conference, Japanese Government Greatly Shocked, Dissection of the US Cipher Room		News/Information
+18	320	Russia Special Feature		News/Information
+18	330	Above the Sky on an Autumn Night	Yŏsu	Poetry
+18	340	Ebb and Flow (and 1 other)	An-sŏ	Poetry
+18	350	Lonely Autumn (and 2 others)	P'ain	Poetry
+18	360	Literary Scene Miscellany		News/Information

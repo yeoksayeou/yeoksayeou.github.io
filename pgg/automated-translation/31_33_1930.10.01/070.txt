@@ -1,0 +1,31 @@
+잡지명	별건곤 第33號
+발행일	1930년 10월 01일
+기사제목	一問一答記(4) (Question and Answer Record (4))
+기사형태	설문 (Questionnaire)
+一問一答記(4)
+金炳魯
+
+Reporter: What kind of dreams do you often have?
+
+Kim: I don't dream much, but when I do, since my profession is a lawyer (辯護士), I frequently go in and out of the courtroom (法廷出入). Sometimes, when I defend someone and see them acquitted (無罪判決) in a criminal case (刑事事件), I feel so relieved that my mood is very good until the next day. <18>
+
+**Named Entities**
+
+金炳魯	Kim Pyŏng-no
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제33호
+발행일	1930년 10월 01일
+기사제목	一問一答記(4)
+기사형태	설문
+
+一問一答記(4)
+金炳魯
+
+記者, 당신은 꿈을 뀌면 무슨 꿈을 만히 뀜닛가.
+金, 나는 꿈이 별로 업지만은 뀐다면 職業이 辯護士이닛가 항상 法廷出入을 만히 하게 됨니다. 어떤 때에는 남의 辯護를 하다가 刑事事件가튼 대 無罪判決 밧는 것을 보면 속이 시원하야 그 이튼날까지 氣分이 퍽 좃슴니다.
+<18>

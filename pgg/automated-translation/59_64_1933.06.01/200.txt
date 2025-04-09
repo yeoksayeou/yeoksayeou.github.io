@@ -1,0 +1,42 @@
+별건곤 제64호
+1933년 06월 01일
+갑 헐한 놈은 (Cheapest One; Miscellaneous)
+잡저 (Miscellaneous)
+
+What is the cheapest one?
+
+Customer: How much is this coat hanger?
+Clerk: It's 50 jeon.
+
+Customer: And this one?
+Clerk: It's 30 jeon.
+
+Customer: Is there a cheaper one?
+Clerk: Yes, we have 5 jeon ones too.
+
+Customer: Even cheaper?
+Clerk: If you buy clothes and keep wearing them, you won't need to buy a coat hanger. <49>
+
+Named Entities
+
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제64호
+발행일	1933년 06월 01일
+기사제목	갑 헐한 놈은
+기사형태	잡저
+
+갑 헐한 놈은
+客 이 양복걸이는 얼마요?
+店員 네 50전입니다.
+客 또 이놈은
+店員 네 30전입니다.
+客 더 헐한 놈은 업소?
+店員 네 오전짜리도 잇습니다.
+客 더 헐한 놈은?
+店員 네 의복을 사다가 손님께서 늘 입고만 게시면 양복걸이를 사실 필요는 업습니다.＜49＞
+＜49＞

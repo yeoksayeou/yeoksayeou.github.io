@@ -1,0 +1,110 @@
+잡지명	別乾坤 第9號
+발행일	1927년 10월 01일
+기사제목	選後의 말 (Remarks After the Selection)
+필자	가람
+기사형태	문예평론 (Literary Criticism)
+
+Remarks After the Selection
+						Garam
+
+You can write poetry however you want as long as it becomes poetry, but if you are going to write a poem that has a fixed form, you have to follow that fixed form. If you don't follow the fixed form, you can't call it that. Therefore, even if the content is that of a sijo, if it does not have the form of a sijo, it cannot be called a sijo. For example:
+
+Ah – autumn
+A plaintive autumn has come again
+The rustling golden wind
+Runs at the tip of the leaves
+Like a sobbing sound
+Reddened autumn leaves
+Falling softly
+Tapping at the window
+The empty mountain night moon flows in the blue sky
+And has wet the earth that has flowed over like silver
+
+That kind of thing is not a sijo. There are ŏssijo (엇시조) and sasŏl sijo (사설시조) which are less strict in form than p’yŏng sijo (평시조), but there is no sijo with this kind of form. Usually, sijo refers to p’yŏng sijo, and the first requirement for the form of p’yŏng sijo is to meet the number of syllables.
+
+Number of Syllables in P’yŏng Sijo
+
+First Verse  6 - 9 (First phrase) 6 - 9 (Last phrase)
+
+Middle Verse 5 - 8 (First phrase) 6 - 9 (Last phrase)
+
+Last Verse 3 (First phrase) 5 - 8 (Second phrase)
+
+4 - 5 (Third phrase) 3 - 4 (Last phrase) <135>
+
+The number of syllables in p’yŏng sijo is as shown in the table above. In the first verse, each phrase should have at least 6 syllables and at most 9 syllables. In the middle verse, the first phrase should have at least 5 syllables and at most 8 syllables, and the last phrase should have at least 6 syllables and at most 9 syllables. In the last verse, the first phrase must have 3 syllables, the second phrase should have at least 5 syllables and at most 8 syllables, the third phrase usually has 4 or 5 syllables, and the last phrase has 3 or 4 syllables. And for a 5-syllable phrase, there are two-three rhythm, three-two rhythm, for a 6-syllable phrase there are two-four rhythm, three-three rhythm, four-two rhythm, for a 7-syllable phrase there are three-four rhythm, two-five rhythm, four-three rhythm, for an 8-syllable phrase there are three-five rhythm, four-four rhythm, five-three rhythm, and for a 9-syllable phrase there are four-five rhythm, five-four rhythm, three-six rhythm. Often, people match the number of syllables in the first and middle verses well, but fail to match the number of syllables in the last verse. In particular, there are many who make the second phrase of the last verse 5 syllables or less, like 4 syllables, and the third phrase 4 syllables or less, or 5 syllables or more. However, those who have composed and read sijo will know that this not only does not exist in traditional sijo but also does not fit the rhythm of sijo.
+
+However, some might think, what difference does it make if there is a syllable or two more or less? But in a strict sense, <114> these syllable counts must be matched.
+
+On the Ch’ilseok (칠석) of July, the magpies were not to be seen.
+After a while, the incessant rain fell like tears.
+Perhaps those magpies built a bridge over the Milky Way.
+
+At Ip’a (稻花處暑), tonight, the wild silkworms open on the ridges of the rice paddies.
+The autumn sounds of my homeland, those geese are coming again.
+Even the cold insects know that their clothes are thin, so they rub their legs.
+
+That kind of thing, whether it is good writing or not, I won't say, but in terms of its language, it is nothing more than cliché or Sino-Korean style (漢文式), which gives the reader a feeling of indigestion. We should use new words and new tones as much as possible, and accordingly, we should have new content.
+
+I was very disappointed that the number of sijo submitted this time was small, but I still enjoyed reading some meaningful and powerful works and I am even more pleased to have gained good comrades in this path of sijo. And I ask for the generous forgiveness of all the authors for my careless criticism.
+-(Nine, One Evening)- <115>
+<135, 114-115>
+
+**Named Entities**
+
+烏鵲	Ojak
+千里銀河	Ch'ŏlli Ŭnha
+稻花處暑	Dohwach'ŏsŏ
+衣裳薄	Ŭisangbak
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제9호
+발행일	1927년 10월 01일
+기사제목	選後의 말
+필자	가람
+기사형태	문예평론
+
+選後의 말
+						가람
+詩形은 작자의 마음대로 아모러케 쓰더라도 詩만 되엿스면 괜챤켓지마는 이미 일정한 형식이 잇는 詩 그것을 지으려하면 그 일정한 형식을 아니 밟을 수 업다. 만일 그 일정한 형식을 아니 밟는다하면 그건 그걸로 볼 수 업는 까닭이다. 그럼으로 시조의 내용은 가젓대도 시조의 형식을 가추지 못하면 시조로는 불 수 업다. 가령
+
+아 - 가을
+애닯은 가을이 다시 왓구나
+소슬한 금풍이
+나무닙끄테 달리는
+훌적이는 소리와 가티
+붉게 물든 단풍이
+부시부시 떨어지어
+창문을 때리고
+空山夜月은 푸르고 푸른 창공에 흐르고
+또 흘러온 대지를 은물 적시엇는데
+
+라 하는 따위는 시조는 아니다. 시조에도 엇시조, 사설시조 따위는 평시조처럼 그 형식이 좀 엄정치 못한 것도 잇기는 잇지마는 이와가튼 형식의 시조는 업다. 보통 시조라 함은 평시조를 니름인데 평시조의 형식에는 첫재 그 字數를 가추어야 한다.
+
+平時調의 字數
+初章   6 - 9 (첫句) 6 - 9 (끗句)
+
+中章   5 - 8 (첫句) 6 - 9 (끗句)
+
+終章   3 (첫句) 5 - 8 (둘재句)
+
+4 - 5 (셋잿句) 3 - 4 (끗句)＜135＞
+
+
+평시조의 字數는 右(위)의 표와 가티 초장에는 한 句가 적어도 6자이상, 만허도 9자이내, 중장에는 첫句가 5자 이상, 8자 이내, 끗句가 6자 이상, 9자 이내 종장에는 첫句 3자는 一定不變하고 둘재句가 5자 이상, 8자 이내, 셋재句가 보통 4자 혹은 5자, 끗句가 3자 혹은 4자다. 그리고 5자句에는 二三調, 三二調, 6字句에는 二四調, 三三調, 四二調, 7字句에는 三四調, 二五調, 四三調, 8字句에는 三五調, 四四調, 五三調, 9字句에는 四五調, 五四調, 三六調가 잇는데 흔히들 초장 중장의 字數는 잘 마추어도 종장의 字數를 못 마추는 일이 잇다. 그 중에도 종장의 둘재句를 5자 이내 곳 4자로 셋재句를 4자 이내나 5자 이상으로하는 이가 만타. 그러나 이런 때는 종래의 시조에는 업슬 뿐 아니라 시조의 음조에도 맛지 아니함을 시조를 지어보고 닑어본 이는 알 것이다.
+그런데 어찌 생각하면 그만한 한 두字 에누리야 잇기로손 어떠켓느냐 할 이도 잇겟스나 嚴正한 의미로 보아서＜114＞ 이런 字數를 꼭 마추어야 할 것이다.
+칠월이라 칠석날에 烏鵲이 안 뵈드니
+얼마후 구즌비라 눈물인 듯 나렷서라
+아마도 저 烏鵲이 千里銀河 다리논 듯
+
+稻花處暑 오날 밤에 논두렁에 野蠶開라
+故國의가을 소리 저 기럭이 다시 온다
+寒蟲도 衣裳薄알고 틀머리에
+라 하는 따위는 글이 되고 아니되고는 말을 아니하거니와 다만 그 造語로 말하면 套語式이나 漢文式에 지나지 못하여 독자로 하여곰 발우 염증을 나게 하는 늣김이 잇다. 우리는 될 수 일는대로 새론 말 새론 어조를 써야하며 딸아서 새론 내용을 가지게 하여야 할 것이다.
+이번 응모된 시조의 편수가 적음은 매우 섭섭히 녀겻스나 그래도 몃몃의 뜻잇고 힘 잇는 作을 자미잇게 보앗스며 또한 이 時調道에 대한 조흔 동지를 어덧슴은 더욱이 깃버한다. 그리고 함부로 평한 것은 작자여러분의 만흔 용서를 바란다.
+-( 九, 一夕 )-＜115＞
+＜135, 114-115＞

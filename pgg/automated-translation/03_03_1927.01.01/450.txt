@@ -1,0 +1,84 @@
+잡지명: 別乾坤 제3호
+발행일: 1927년 01월 01일
+기사제목: 가방노름 (Handbag Game)
+기사형태: 잡저 (Miscellany)
+
+Handbag Game
+
+A fashionable modern woman gets on the streetcar. Readers, pay attention!
+
+1. The woman chooses a seat and sits down.
+
+2. The conductor comes and asks for the fare.
+
+3. The woman takes off her gloves.
+
+4. She opens her handbag.
+
+5. She takes out her wallet.
+
+6. She closes her handbag.
+
+7. She opens her wallet.
+
+8. She takes out a ten-jeon silver coin.
+
+9. She closes her wallet.
+
+10. She opens her handbag and puts in the wallet.
+
+11. She closes her handbag.
+
+12. She gives the ten-jeon coin and receives five-jeon in change.
+
+13. She opens her handbag.
+
+14. She takes out her wallet.
+
+15. She closes her handbag.
+
+16. She opens her wallet and puts in the five-jeon.
+
+17. She opens her handbag and puts in the wallet.
+
+18. She closes her handbag.
+
+19. She puts her gloves back on.
+
+"Oh, we're already here, please let me off!" <123>
+
+Named Entities
+
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제3호
+발행일	1927년 01월 01일
+기사제목	가방노름
+기사형태	잡저
+
+가방노름
+모양 잘 낸 최신식 녀자 한 분이 뎐차에 올너 탓다. 독자여 정신차려 닑으시요.
+1, 녀자가 자리를 골나 안는다.
+2, 차장이 와서 표를 내란다.
+3, 녀자가 장갑을 벗는다.
+4, 손가방을 연다.
+5, 돈지갑을 끄낸다.
+6, 손가방을 닷는다.
+7, 지갑을 연다.
+8, 10전 짜리 은전을 집어 낸다.
+9, 지갑을 닷는다.
+10, 가방을 열고 지갑을 넛는다.
+11, 가방을 닷는다.
+12, 10전 짜리 주고 5전을 거슬러 밧는다.
+13, 가방을 연다.
+14, 지갑을 끄낸다.
+15, 가방을 닷는다.
+16, 지갑을 열고 5전을 넛는다.
+17, 가방을 열고 지갑을 넛는다.
+18, 가방을 닷는다.
+19, 장갑을 다시 낀다.
+『아이고 발서 다 왓스니 나려 주시요-』＜123＞

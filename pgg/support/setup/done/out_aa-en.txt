@@ -1,0 +1,300 @@
+01	010	Mr. Pak	Yi Ki-yŏng	Novel
+01	020	Song of the Earth's Black Spot (1925 Work)	Sanghwa	Poem
+01	030	All Night	Hoewŏl	Novel
+01	040	Sijo		Poem
+01	050	World Masterpiece: Society After 800,000 Years, A Scientific Great Discovery Traveling to the Future Society of Modern Man	Wells (Original), Yŏngju (Translator)	Novel
+01	060	Eight Inches Below the Nose		Miscellaneous Writing
+01	070	Interview with Women Activists	Yi Ik-sang	Interview/Discussion
+01	080	Koreans Chronic with the Symptom of Lacking Taste	Pyŏkt'a	Essay/Editorial
+01	090	The Great Universe and Taste	Yare	Essay/Editorial
+01	100	New Autumn Jottings	P'albong	Literary Miscellaneous
+01	110	Miscellaneous Observations and Thoughts During Travel Abroad	Chŏng Sŏk-t'ae	Travelogue
+01	120	Commentary on World Famous Music Pieces	Compiled by Yi Ak-ch'un	Miscellaneous Writing
+01	130	One Insect, One Word		Social Commentary
+01	140	Pilgrimage to Free Wedding Halls (Part 1), Various Hilarious Wedding Styles	Wetting T'ebŭl-saeng	Social Commentary
+01	150	Visiting the Bereaved Families of Famous People (Part 1), Seeking the Family of Teacher Chu Si-gyŏng Who Devoted His Life to Korean Language Research	A Reporter	News/Report
+01	151	Company Notice - Re-establishment of Kaebyŏk-sa Kangnŭng Branch		Announcement/Editorial Postscript
+01	160	Statistics Room		News/Report
+01	170	Biography: General Im Kyŏng-ŏp, Forever Loyal	Ch'a Sang-ch'an	Literary Miscellaneous
+01	180	Teacher Kim Ok-kyun's Boat Song	Kim Chin-gu	Literary Miscellaneous
+01	190	Dialogue: Nightingale Song in the Darkroom, A Day in the Life of the 'Yŏron' Magazine Editorial Office	Stenographer	Interview/Discussion
+01	200	Muhammad of Love	DTY	Literary Miscellaneous
+01	210	Is the Mermaid in the Ocean a Beautiful Woman or an Animal? From Beautiful Legends to Interesting Science	Kim Ch'ang-hae	Miscellaneous Writing
+01	220	The Swallow's Journey and the Wild Goose's Greeting	Pansongjak	Essay/Editorial
+01	230	Personal Affairs (Jottings), Trip to Tōkyō	Ch'oe Sŭng-il	Literary Miscellaneous
+01	240	Record of Visiting Chuwangsan Mountain	Chŏng Hyŏn-mo	Travelogue
+01	250	Concluding Remarks		Announcement/Editorial Postscript
+02	009	(Untitled - Kukp'yŏn)		Poem
+02	010	Difficult, Difficult, Difficult	Ch'angsŏk-saeng	Social Commentary
+02	020	Each Person, Each Color (Part 1), Yun Ch'i-ho		News/Report
+02	030	Story of Going to America as Envoy Wearing a Topknot and Kat, Dumb Diplomacy, Yet the Reputation Was Good.	Yi Sang-jae	Memoir/Reminiscence
+02	040	Notice of Thanks	Pyŏlgŏn'gon Editorial Department	Announcement/Editorial Postscript
+02	050	Company Notice	Kaebyŏk-sa Editorial Office	Announcement/Editorial Postscript
+02	060	All Reporters Mobilized: Kyŏngsŏng Daylight Undercover Report -- First Installment 'One Hour Social Exploration'		News/Report
+02	070	Master Mup'ung, A Strange Man of Modern Times	Kajapongin	Memoir/Reminiscence
+02	080	Each Person, Each Color (Part 2), Elder Yi Sang-jae!!		News/Report
+02	090	People on the Street		News/Report
+02	100	Tonggŭrangttaeng!	Hyosan	Literary Miscellaneous
+02	110	Seeking Rare Photographs		Announcement/Editorial Postscript
+02	112	China's Man of the Hour - Sun Wen, First Handshake with Huang Xing	Kim Chin-gu	Essay/Editorial
+02	130	Each Person, Each Color (Part 3)		News/Report
+02	140	Pilgrimage to Churches Without Carrying a Bible	YYY	News/Report
+02	150	Everything Seen is World-Class Wonder: Sightseeing in Paris, France - Miscellaneous Observations and Thoughts During Travel Abroad	Dr. Chŏng Sŏk-t'ae	Travelogue
+02	160	New Women's Marriage Trends, Standards for Grooms Also Change Like This		Social Commentary
+02	170	Beauty Troop Review		Miscellaneous Writing
+02	180	Seeking Student Cartoons		Announcement/Editorial Postscript
+02	190	Capital Guest and Country Bumpkin	Pak Tal-sŏng	Literary Miscellaneous
+02	200	Each Person, Each Color (Part 4)		News/Report
+02	210	Chosŏn Kinema Third Production 'P'ungun'a' (Man of the Hour) Complete Volume		Play/Scenario
+02	220	Smoking Room		Miscellaneous Writing
+02	230	Well-Regarded Female Teachers at Various Girls' Schools in Kyŏngsŏng	XYZ	News/Report
+02	240	Announcement		Announcement/Editorial Postscript
+02	250	Kyŏngsŏng's Famous Women: Tailing Bobbed-Hair Girls, The Hidden Side Revealed No Matter How Hidden	Pokmyŏnja	News/Report
+02	260	Each Person, Each Color (Part 5)		News/Report
+02	270	Western Wife's Korean Husband: Dr. Yi Sŏng-yong's Seoul Life, Love Budded in Germany = Settled Life in Seoul	A Reporter	News/Report
+02	280	Pilgrimage to Free Wedding Halls (Continued from Previous Issue), Tumultuous Modern Heterosexual Marriages	Wetting T'ebŭl-saeng	News/Report
+02	290	Local Color		Literary Miscellaneous
+02	300	Contributions Welcome		Announcement/Editorial Postscript
+02	301	Partial Preview of This Magazine's New Year Issue, Expected to be a Grand Spectacle at the Start of the New Year		Announcement/Editorial Postscript
+02	310	Story of Motion Pictures, The Modern Era is the Age of Motion Pictures, But When Did They First Arrive in Chosŏn?		Memoir/Reminiscence
+02	320	How Magazines, Newspapers, or Printed Materials Reach the Reader's Hands	Wŏn'goji (Manuscript Paper)	Miscellaneous Writing
+02	330	Story of the Contents of Prize-Attached Big Sales, Always Suspicious		News/Report
+02	340	Report on Exploring the Thousand Aspects of Farming Villages in Chosŏn's Eight Provinces	Ch'unp'a	Social Commentary
+02	350	Radio, Sports, Kinema	Sŭngil	News/Report
+02	360	Death Toll of Married vs. Single People, Interesting Survey from Sweden in Northern Europe, Deaths per Thousand People		Miscellaneous Writing
+02	370	Sŏwangmo (Queen Mother of the West)	Yare	Novel
+02	380	Customs Cartoon, New-Style Mother-in-Law and Old-Style Daughter-in-Law		Cartoon/Comic
+02	390	Customs Cartoon, New-Style Daughter-in-Law and Old-Style Mother-in-Law		Cartoon/Comic
+02	400	Secret Story		Miscellaneous Writing
+02	410	Great Science Fiction Novel, Society After 800,000 Years (Part 2)	Wells (Original), Yŏngju (Translator)	Novel
+02	420	Company Notice		Announcement/Editorial Postscript
+02	430	Three Chapters of Sighs	Kim Sŏk-song	Poem
+02	440	I Won't See You Again	Yi Ik-sang	Novel
+02	450	Auction	Ch'oe Sŭng-il	Novel
+02	460	Editorial Room Broadcast		Announcement/Editorial Postscript
+02	470	Whose Sin?	English Robadŭ Ma-gil (Original), Pukkŭksŏng (Translator)	Novel
+02	480	Eight-Sided Mirror		Miscellaneous Writing
+02	490	Koryŏ's Giant Spirit, Story of the Hunter Who Gained a Beautiful Wife and Great Wealth Simultaneously	Hyangnosanin	Literary Miscellaneous
+03	010	Reminiscence of the Kapsin Coup Incident in the Chosŏn Enlightenment Party, It's Already Been 44 Years	Yi Kyu-wan	Memoir/Reminiscence
+03	020	Confucius and Zilu		Miscellaneous Writing
+03	030	Sun Wen's Autobiography, Story of Sun Wen Escaping Death, At the Qing Legation During His Exile in Britain	Ilmun-saeng	Memoir/Reminiscence
+03	040	Staying Up All Night		Announcement/Editorial Postscript
+03	050	Two Million Laborers, Eight Million Won of People's Wealth: Kyŏngbokkung Palace Reaches its 60th Anniversary, Story of the Palace of People's Resentment and the Taewŏn'gun	Ch'ong'o-saeng	Literary Miscellaneous
+03	060	(Untitled - Kukp'yŏn)		Miscellaneous Writing
+03	070	Critique of Figures Active in Chosŏn After Returning from Overseas, Which Country Taught and Sent Them Back Best?	YYY	News/Report
+03	080	World's Rare Tragicomedy, Piano Duel		Miscellaneous Writing
+03	090	Hardship Stories of Newspaper Society Page Reporters, How Do They Gather News That Breaks Every Day?	Yu Kwang-nyŏl, Yu Chi-yŏng, Pak P'ar-yang, Ma Ho	Memoir/Reminiscence
+03	100	Hardship of Chasing After the 'Chariot Emperor'	Chŏng In-ik	Memoir/Reminiscence
+03	110	Wife-Brothel		Miscellaneous Writing
+03	120	People on the Street		News/Report
+03	130	Imagination and Impressions: Before Meeting and After Meeting		News/Report
+03	140	Paek T'o-san, Founder of the Peddlers Who Carried King Injo and Fled	Kajapongin	Literary Miscellaneous
+03	150	New Year Thoughts	Posŏng High School Ch'oe Myŏng-hwan	Miscellaneous Writing
+03	160	New Year Thoughts	Chosŏn Ilbo An Chae-hong	Miscellaneous Writing
+03	170	Exhibition of Rare Modern Occupations		Miscellaneous Writing
+03	180	Poverty is Difficult, Wealth is Also Difficult: Report on Exploring Farming Villages (Part 2)	Ch'unp'a	Social Commentary
+03	190	New Year Thoughts	Chosŏn Ilbo Han Ki-ak	Miscellaneous Writing
+03	200	Just Fifteen Chŏn		Announcement/Editorial Postscript
+03	210	Disguised Reporters' Undercover Night Investigation Report	Songjak-saeng, Sŏl'ung-saeng	Social Commentary
+03	220	New Year Thoughts	Chung'oe Ilbo Min T'ae-wŏn	Miscellaneous Writing
+03	230	New Year Thoughts	Posŏng High School Hwang Ŭi-don	Miscellaneous Writing
+03	240	Physiognomy Report of Famous Teachers in Kyŏngsŏng (Part 1)	Physiognomist	News/Report
+03	250	Who Were the Models for Characters in Novels like Mujŏng, Chaesaeng, Hwanhŭi, T'alch'um, etc.? Story of 'Models' in Widely Read Novels	Sim-saeng	Literary Criticism
+03	260	New Year Thoughts	Hwimun High School Kim Hyŏng-bae	Miscellaneous Writing
+03	261	Seeking Student Cartoons		Announcement/Editorial Postscript
+03	270	Smoking Room		Miscellaneous Writing
+03	280	Thoughts on Getting One Year Older as a Woman	Various Ladies	Survey/Questionnaire
+03	290	Exhibition of New Year's Customs in Chosŏn's Eight Provinces		Miscellaneous Writing
+03	300	New Year Thoughts	Tongdŏk Girls' High School Cho Tong-sik	Miscellaneous Writing
+03	310	Moonlit Night in a Monk's Room	Hyosan	Literary Miscellaneous
+03	320	Hilarious Candle Ghost	P'ayŏng	Literary Miscellaneous
+03	330	Windfall Money, Empty Wealth: Money Bonanza	Ssang S	Literary Miscellaneous
+03	340	Secret Stories of Gaffes by Famous People, Past and Present: Great Embarrassment	Songjak	Literary Miscellaneous
+03	350	Student Cartoon	An	Cartoon/Comic
+03	360	Marriage Stories of Female Teachers Hidden in Schools, This is What the World Says	XYZ	Miscellaneous Writing
+03	370	Letter to Uncle in the Moon Palace, From White Rabbit Behind Bars at the Zoo on the Morning of the First Day of Chŏngmyo Year		Literary Miscellaneous
+03	380	New Year Thoughts	Chosŏn Ilbo Kim Chun-yŏn	Miscellaneous Writing
+03	390	New Year Thoughts	Tong'a Ilbo Yi Kwang-su	Miscellaneous Writing
+03	400	Eyes of Modern Students (Prize Winner)		Cartoon/Comic
+03	410	Prize-Winning Cartoon		Cartoon/Comic
+03	420	(Satirical Essay) Women's New Year	Han'gang	Literary Miscellaneous
+03	430	Local Color		Literary Miscellaneous
+03	440	Kyŏngsŏng Store Signboard Critique Meeting	Reviewers Kim Pok-chin, An Sŏk-chu, A Reporter	Interview/Discussion
+03	450	Bag Gambling		Miscellaneous Writing
+03	460	Correcting Mirror		Social Commentary
+03	470	Rabbit Portrait		Literary Miscellaneous
+03	480	Things to Know, Common Sense is Needed Even When Riding a Train		Miscellaneous Writing
+03	490	New Year Thoughts	Tong'a Ilbo Ch'oe Wŏn-sun	Miscellaneous Writing
+03	500	Rare Science Talk		Literary Miscellaneous
+03	510	Editorial Room Broadcast		Announcement/Editorial Postscript
+03	511	An Even Grander February Issue		Announcement/Editorial Postscript
+03	520	(Creative Work) Bean Sprout Porridge and Novel	Ch'oe Sŭng-il	Novel
+03	530	Clever Wife		Miscellaneous Writing
+03	540	(Creative Work) Last Day of the Month	Yi Ik-sang	Novel
+04	010	Sijo		Poem
+04	020	First Step Towards Breaking Conventions and Creating a New Life: Things I Am Newly Practicing	Paek Nam-kyu et al.	Survey/Questionnaire
+04	030	Hardship Stories of the Managers of the Three Major Newspapers: What Are the Unspoken Difficulties of Newspaper Management?	Yi Sang-hyŏp, Sin Sŏk-u, Kim Sŏng-su	Survey/Questionnaire
+04	040	Startling Phrases		Miscellaneous Writing
+04	050	True Story of the Kapchin Reform: Story of Making the Taedong River the Police Headquarters and Issuing Orders from the People's Office	Na Yong-hwan	Memoir/Reminiscence
+04	060	Words Spoken Last Year		Miscellaneous Writing
+04	070	Critique of Female Figures Returned from America, China, and Japan: What Did They Learn Overseas and What Are They Doing After Returning?		Interview/Discussion
+04	080	All Reporters Mobilized, Great Kyŏngsŏng Daylight Undercover Report (Part 2), 'One Hour Social Exploration'	Songjak et al.	News/Report
+04	090	Egg Storage Method		Miscellaneous Writing
+04	100	People on the Street		News/Report
+04	110	Continuation of the Exhibition of Rare Occupations		Miscellaneous Writing
+04	120	Funny Story		Miscellaneous Writing
+04	130	Names of New Members of the Kaebyŏk-sa Expansion Support Association		News/Report
+04	140	Rare Talk: Fathers of Famous Men, Rich Man Yi and Rich Man Kim	Ch'unp'a	News/Report
+04	150	Seeking Student Cartoons		Announcement/Editorial Postscript
+04	160	Story of When I Received My First Income	Yi Sang-hyŏp, Min T'ae-wŏn, Hyŏn Chin-gŏn, Han Ki-ak	Memoir/Reminiscence
+04	170	Marriage Costs in Various Countries Around the World		Miscellaneous Writing
+04	180	Visiting Bazaars at Nine Girls' Schools	Ssang S, Tori	News/Report
+04	190	Interesting Statistics Room		Miscellaneous Writing
+04	200	Physiognomy Report of Famous Teachers in Various Kyŏngsŏng Schools (Part 2)		News/Report
+04	210	Prize Story Competition Article Between North and South Teams: Great Investigation Report on Murder Demon, Sashimi Ghost, Opium Den; Solo Adventure Investigation During Seven Days and Nights of Fierce Wind and Severe Cold	South Team Reporter Sŏkhwa-saeng	News/Report
+04	211	Unimaginably Bizarre! Preview of March Issue Miscellaneous Section!!		Announcement/Editorial Postscript
+04	212	Prize Contest Announcement		Announcement/Editorial Postscript
+04	220	Silver Fly		Social Commentary
+04	230	Taste of Marriage		Miscellaneous Writing
+04	240	Before and After Marriage: Accidental Marriage After Three Fantasies	Kim Sŏn, Wife of Mr. Yi Wŏn-sik	Memoir/Reminiscence
+04	241	Contributions Welcome		Announcement/Editorial Postscript
+04	250	Before and After Marriage: From Celibacy to Marriage	Hyŏn Tŏk-sin, Wife of Mr. Ch'oe Wŏn-sun	Memoir/Reminiscence
+04	260	Before and After Marriage: Before the Storm, After the Storm	Cho Paek-chu, Wife of Mr. Yi Sŏng-hwan	Memoir/Reminiscence
+04	270	Before and After Marriage: A Major Turning Point in Life	Yi So-san, Wife of Mr. Han Wi-gŏn	Memoir/Reminiscence
+04	280	Story of Visiting Cheju Island, the Southern Land Where Tangerines Ripen	Kang Che-hwan	Travelogue
+04	290	What Reason		Miscellaneous Writing
+04	300	'What Kind of Script', Addressing the Characteristics of Rural Plays to Elder Brothers of Local Youth Associations	Yi Kyŏng-son	Literary Miscellaneous
+04	310	Great Prize Article, Readers Please Judge and Vote		Announcement/Editorial Postscript
+04	320	Brief Comments on Impressions of Writers' Lectures	A Reporter	Cartoon/Comic
+04	330	Local Color	Chang To-ch'ŏn, Kim Cha-an	Literary Miscellaneous
+04	340	Contributions Welcome		Announcement/Editorial Postscript
+04	350	Grand Meeting of Kyŏngsŏng's Famous Men and Women in the New Spring Issue		Miscellaneous Writing
+04	360	Reading the Minutes of the Joint Review Meeting on Family Issues of Famous Women: Life Reform Theory in Impromptu Poetry, Marriage Views of Unmarried Virgins		Interview/Discussion
+04	361	New Year's Day is Also the Great Full Moon		Announcement/Editorial Postscript
+04	370	Report on Exploring Farming Villages, Difficult to Marry! Difficult to Get Married Off!	Ch'unp'a	Literary Miscellaneous
+04	380	Kyŏngsŏng Store Display Window Critique Meeting	Reviewers An Sŏk-chu, Kwŏn Ku-hyŏn	Interview/Discussion
+04	390	(Creative Work) Waste	Kwŏn Ku-hyŏn	Novel
+04	400	(Translation) 'Love' of the Snow Country	Yi Ryang	Novel
+04	410	Sŏwangmo (Queen Mother of the West)	Yare	Novel
+05	010	Mask (T'al)	Yi Pyŏng-gi	Poem
+05	020	Record of General Yi Kwal's Kapcha Rebellion Which Occupied Kyŏngsŏng with 30,000 Troops: Just 19 Days After Raising the Banner, Drove Out King Injo and Commanded the Entire Country	Ch'a Sang-ch'an	Essay/Editorial
+05	030	The Day Teacher Kim Ok-kyun Died, Shanghai Bund on March 28th	Kim Chin-gu	Memoir/Reminiscence
+05	040	One Person, One Story	Hanil Bank Manager Yi Hang-jong	Miscellaneous Writing
+05	050	People on the Street		News/Report
+05	060	Story of Korean Academic Circles Twenty Years Ago: When I Took the Entrance Exam, Middle School and Normal School, I Was the First to Receive Lunch Money to Attend School	Chang Ŭng-jin	Memoir/Reminiscence
+05	070	Story of Korean Academic Circles Twenty Years Ago: When I Took the Entrance Exam, Regret Dropping Out of Middle School, Failed Waseda University Entrance due to Lack of English	Yi Yun-ju	Memoir/Reminiscence
+05	080	Story of Korean Academic Circles Twenty Years Ago: When I Took the Entrance Exam, Never Attended Elementary or Middle School, Self-Studied for Ten Years Until Today	Ch'oe Kyu-dong	Memoir/Reminiscence
+05	090	Story of Korean Academic Circles Twenty Years Ago: When I Took the Entrance Exam, Admission Without Examination Was Common Then	Ch'oe Tu-sŏn	Memoir/Reminiscence
+05	100	Story of Korean Academic Circles Twenty Years Ago: When I Took the Entrance Exam, Plentiful Government-Sponsored Study Abroad Supplementary Exam, Translating Japanese into Pure Classical Chinese	Ch'oe Myŏng-hwan	Memoir/Reminiscence
+05	110	Essay/Editorial	Chung'oe Ilbo Yu Kwang-nyŏl	Essay/Editorial
+05	120	New Spring Night Talk, Story of China's New Figures Chiang Kai-shek and Chen Youren	A Reporter	Miscellaneous Writing
+05	130	Passing Through That Place After a Three-Hour Walk Around North and South Villages	U Ch'un Sanin	Literary Miscellaneous
+05	140	Record of Visiting the Underworld, Dedicated to Modern Korean Youth	From Hyŏnhwangdang Hall, Kim Ok-kyun	Literary Miscellaneous
+05	150	Record of Visiting the Underworld, The Press Circles We See Now	Chang Chi-yŏn, Yu Kŭn, Yi Chong-il	Literary Miscellaneous
+05	160	Record of Visiting the Underworld, To His Majesty King Sejong the Great Who Created the Correct Sounds (Hunminjŏngŭm)	Respectfully Recorded by Chŏng-saeng	Literary Miscellaneous
+05	170	One Person, One Story	Kŭnhwa Girls' School Kim Mirisa	Social Commentary
+05	180	Record of Visiting the Underworld, To Compatriots Crying Over Economic Difficulties	From Kangjinhaeu, Tasan Chŏng Yak-yong	Literary Miscellaneous
+05	190	Record of Visiting the Underworld, To Modern Monks Who Are Becoming Degenerate	Samyŏngdang Im Hyu-jŏng	Literary Miscellaneous
+05	200	Record of Visiting the Underworld, Dedicated to Modern Male and Female Musicians	From Changnŭng Ch'ung sindan, Pak Yŏn	Literary Miscellaneous
+05	210	Record of Visiting the Underworld, To the So-Called Rich and So-Called Poor Gentlemen	Mŏkchŏkkol Hŏ-saeng	Literary Miscellaneous
+05	220	Record of Visiting the Underworld, Dedicated to Modern Prostitutes and Courtesans	From Under Ch'oksŏngnu Pavilion, Non'gae	Literary Miscellaneous
+05	230	Physiognomy Report of Famous Teachers in Various Kyŏngsŏng Schools (Part 3)		News/Report
+05	240	Two Jokes		Miscellaneous Writing
+05	250	Interesting Statistics Room		Miscellaneous Writing
+05	260	From Graduation to Finding a Job: From T'owŏrhoe to Writing Manuscripts	Kim Ki-jin	Memoir/Reminiscence
+05	270	From Graduation to Finding a Job: I Even Visited Personnel Counseling Centers	Ch'oe Sŭng-il	Memoir/Reminiscence
+05	280	From Graduation to Finding a Job: Self-Sufficient in Matters Big and Small	Yun Sin-yŏng	Memoir/Reminiscence
+05	290	From Graduation to Finding a Job: Put in a Lot of Effort and Shed Quite a Few Tears	Ch'oe Nam	Memoir/Reminiscence
+05	300	Person with Loose Lips		Miscellaneous Writing
+05	310	Looking Back Twelve Years Ago, When I Finished Middle School	Pak Tal-sŏng	Memoir/Reminiscence
+05	320	Idle Talk from the Legal Circle		News/Report
+05	330	Crime of Crossing the River (and 1 other poem)	From the Tuman River Bank, Chŏngwŏl	Poem
+05	340	Critique of Korean Female Doctors Scattered Domestically and Abroad, Their Numbers Increase Yearly, Occasionally Active Overseas Too		News/Report
+05	350	One Person, One Story	Pak Yŏng-hŭi	Miscellaneous Writing
+05	351	Ever More Bizarre!! Preview of April Issue Miscellaneous Section		Announcement/Editorial Postscript
+05	352	Prize Contest Announcement		Announcement/Editorial Postscript
+05	360	Horrifying Great Den of Evil: Investigation Report on the Headquarters of the Girl Student Luring Gang, Their Vicious Hands Target Every Home! Every Family Should Read, School Authorities Should Also Read	North Team Reporter Ssang S	Social Commentary
+05	361	Reader Contributions Welcomed		Announcement/Editorial Postscript
+05	370	Story of Pawn Shops, the Poor People's Bank: Aspects of Life in Pukch'on Seen Through Pawned Items, Who Are the Customers, What Are the Items?	A Reporter	Miscellaneous Writing
+05	380	One Person, One Story	Yi Sŏng-hwan	Miscellaneous Writing
+05	390	Theater Ramblings		Literary Criticism
+05	400	Silver Fly		Novel
+05	410	Guide to Women's Occupations: How Many Jobs Are Available If One Cannot Study Abroad Due to Lack of Money?		Miscellaneous Writing
+05	411	○○○ Special Feature Section		Announcement/Editorial Postscript
+05	420	Idle Talk from the Business World	Kyŏngsŏng Reporting Corps	Miscellaneous Writing
+05	430	Seven Wonders of Recent Chosŏn!!		Miscellaneous Writing
+05	431	To Local Readers		Announcement/Editorial Postscript
+05	440	Biographies of Failed Marriages	Old Bachelor	Miscellaneous Writing
+05	441	TITLE NOT FOUND
+05	450	First Life in Berlin, Germany: From Paris to Berlin	Dr. Chŏng Sŏk-t'ae	Travelogue
+05	460	Letters from Writers		Literary Miscellaneous
+05	470	Report on Exploring Farming Villages, Difficult for the Old! Difficult for the Young!	Ch'unp'a	Essay/Editorial
+05	480	Local Color		Literary Miscellaneous
+05	490	Handsome Men and Beautiful Women Movement	Yi Kyŏng-son	Novel
+05	491	Great Prize		Announcement/Editorial Postscript
+05	500	Literary Circle Rumors		News/Report
+05	510	Social Satire		Cartoon/Comic
+05	520	Story of Plum Blossoms and Narcissus	Ch'unjŏng	Literary Miscellaneous
+05	530	One Person, One Story	Doctor Ch'oe Yŏng-jae	Miscellaneous Writing
+05	540	Four Seasons in the Countryside	Yi Ŭn-sang	Poem
+05	550	Sŏwangmo (Queen Mother of the West) (Continuation)	Yare	Novel
+05	560	Female Guest (Creative Work)	Yŏm Sang-sŏp	Novel
+05	561	Everlasting Shirt, Pride of Chosŏn, Five Person Partnership		Announcement/Editorial Postscript
+06	010	Secret History of the Independence Club, Chosŏn's First Private Political Party: Revealing the Truth of the Grand and Tragic Fact of Impeaching the Government and Fighting Bloody Battles with Peddlers	Ch'a Sang-ch'an	Essay/Editorial
+06	020	Story of Going to Russia as Ambassador Thirty-One Years Ago: Ambassadorial Delegation with Pine Needle Topknots and Kats, Yet Received Grand Treatment as State Guests	Yun Ch'i-ho	Memoir/Reminiscence
+06	030	Prophecy: What Will Chosŏn Be Like in Ten Years?		Essay/Editorial
+06	040	Record of Visiting the Underworld (Part 2)		Literary Miscellaneous
+06	050	Ŏkryong of Ch'ungju		Miscellaneous Writing
+06	060	Leaving the School Window......... If I Were to Do That Job		Survey/Questionnaire
+06	070	Countries Newly Risen After the Great European War	Oegwan-saeng	News/Report
+06	080	Chosŏn's Five Great Prides and Five Great Vices		Essay/Editorial
+06	090	Commuting to School by Train	Kim Pok-hŭi	Memoir/Reminiscence
+06	100	Things That Were Disagreeable During My Girl Student Days	Pak Chin-ju	Memoir/Reminiscence
+06	110	Unimaginably Bizarre and Brilliant: Record of Journeying To and From Heaven and Hell	Special Correspondents Kim Hak-po, Pak Tori	Literary Miscellaneous
+06	120	Interesting Statistics Room		Miscellaneous Writing
+06	130	Spring in the City and Spring in the Countryside	Ch'unp'a	Literary Miscellaneous
+06	140	Spring in P'yŏngyang	Chu Yo-han	Literary Miscellaneous
+06	150	How is the Spring News from Ch'unch'ŏn? To Brother Ch'un'gok	Ch'ong'o	Literary Miscellaneous
+06	160	Spring Scenery of Happ'o in the Southern Country	Yi Ŭn-sang	Literary Miscellaneous
+06	170	Spring in the Northern Country	Kim Tong-hwan	Literary Miscellaneous
+06	180	1-Page Joke		Miscellaneous Writing
+06	190	Local Color		News/Report
+06	200	Memoir of a Lay Believer	Lay Believer	Memoir/Reminiscence
+06	210	Beauty of Both Sexes and Its Rise and Fall, Especially Regarding Male Beauty	Kim Hae-ch'un	Essay/Editorial
+06	220	Theater Ramblings		Literary Criticism
+06	230	(Historical Talk) Wu Zixu, the Cheerful Man of Antiquity	Pak Tal-sŏng	Literary Miscellaneous
+06	240	To Our Readers!	From the Pyŏlgŏn'gon Editorial Department	Announcement/Editorial Postscript
+06	250	Oh! Where Have You Gone? Hearing of the Death of Miss Im Chŏm-dong of Inch'ŏn		Poem
+06	260	Secret Royal Inspector Pak Mun-su	Kajapongin	Literary Miscellaneous
+06	270	(Folk Tale Novel) Cold Tears, Hot Tears	Kim Un-jŏng	Novel
+06	280	Village House in Spring	Yi Pyŏng-gi	Poem
+06	290	Sŏwangmo (Queen Mother of the West) (Continuation)	Yare	Novel
+06	300	Person Who Sells Their Fate	*Nam	Novel
+06	301	To Those Who Donated Prizes		Announcement/Editorial Postscript
+06	310	Orders and Correspondence		Announcement/Editorial Postscript
+07	001	TITLE NOT FOUND
+07	002	Dawn Road	Yi Pyŏng-gi	Poem
+07	003	'If Only' Record!! If Things Had Been Done This Way Then, What Would Chosŏn Be Like Now? If Yulgok Had Been Alive During the Imjin War	Hong Sŭng-gu	Literary Miscellaneous
+07	004	'If Only' Record!! If Things Had Been Done This Way Then, What Would Chosŏn Be Like Now? If General Im Kyŏng-ŏp Had Been Trusted During the Pyŏngja Invasion	Ch'a Sang-ch'an	Essay/Editorial
+07	005	'If Only' Record!! If Things Had Been Done This Way Then, What Would Chosŏn Be Like Now? If the Taewŏn'gun Had Not Rejected Foreigners	Cho Kyu-su	Literary Miscellaneous
+07	006	Request for Return of March Issue		Announcement/Editorial Postscript
+07	007	'If Only' Record!! If Things Had Been Done This Way Then, What Would Chosŏn Be Like Now? If Teacher Kim Ok-kyun's Three-Day Reign Had Succeeded	Kim Chin-gu	Literary Miscellaneous
+07	010	'If Only' Record!! If Things Had Been Done This Way Then, What Would Chosŏn Be Like Now? If the Tonghak Party, Which Started the First Popular Movement, Had Only Had Political Training	Pak Tal-sŏng	Literary Miscellaneous
+07	020	If I Left My Profession After 10 Years of Diligent Service, What Would I Do If I Quit Being a Newspaper Reporter?	Maeil Sinbo Society Section Head Yi Sŏ-gu	Survey/Questionnaire
+07	030	If I Left My Profession After 10 Years of Diligent Service, If a Newspaper Advertising Department Member Left Their Position?	Chung'oe Ilbo Advertising Head Ha Hŭi-wŏn	Survey/Questionnaire
+07	040	If I Left My Profession After 10 Years of Diligent Service, If an Elementary School Teacher Left the School?	Kyesan Posŏng School Kim Hong-sik	Survey/Questionnaire
+07	050	If I Left My Profession After 10 Years of Diligent Service, I Consider Printing Proofreading My Calling.	Chung'oe Ilbo Copyediting Head Ch'oe Sŏng-u	Survey/Questionnaire
+07	060	World Astonishment!! True Identity of the Great Secret Society Paegŭidan (White Clothes Society) and America's KKK	X=X-saeng	News/Report
+07	061	Postcard Correspondence Welcome / Ugly Sight Contest		Announcement/Editorial Postscript
+07	070	After Visiting Twelve Countries East and West	Hŏ Hŏn	Travelogue
+07	080	Things That Most Astonished Us Abroad, Things We Want New Koreans to Emulate: Three Astonishments Seen in Germany	Chŏng T'ae-sŏk	Travelogue
+07	090	Things That Most Astonished Us Abroad = Things We Want New Koreans to Emulate =, Russia is a Country with Many Characteristics	Yi Ryang	Travelogue
+07	100	Things That Most Astonished Us Abroad, Things We Want New Koreans to Emulate: Four Great Astonishments in Britain	Pak Sŭng-ch'ŏl	Travelogue
+07	110	Things That Most Astonished Us Abroad, Things We Want New Koreans to Emulate: Three Astonishments Seen in China	Chu Yo-han	Travelogue
+07	120	Things That Most Astonished Us Abroad, Things We Want New Koreans to Emulate: Astonished by India While in America	Hyŏn Tong-wan	Travelogue
+07	130	Things That Most Astonished Us Abroad, Things We Want New Koreans to Emulate: Two Great Astonishments I Saw in France	Yi Chŏng-sŏp	Travelogue
+07	140	Miscellaneous Gathering, Temporary Great Cleanup		Social Commentary
+07	150	World Exhibition of Rare Human Races		Miscellaneous Writing
+07	160	After Killing My Beloved Wife Until I Turned Myself In (True Story)	U Ch'un Sanin	Memoir/Reminiscence
+07	170	For Two Months		Announcement/Editorial Postscript
+07	180	Secret Life Story: Dangerous Times for a Young Wife	Nobangch'o	Literary Miscellaneous

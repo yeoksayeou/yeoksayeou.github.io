@@ -1,0 +1,300 @@
+12	150	Things of Chosŏn I Wish to Boast Of - Health and Intelligence	An Chae-hong	Essay
+12	160	Things of Chosŏn I Wish to Boast Of - Figures and Landscapes	Chang Ŭng-jin	Essay
+12	170	Things of Chosŏn I Wish to Boast Of - National Morality	Pak Hŭi-do	Essay
+12	180	Things of Chosŏn I Wish to Boast Of - I, Ch'ŏndogyo	Chŏng Kwang-jo	Essay
+12	190	Things of Chosŏn I Wish to Boast Of - Pioneer of World Peace	Han Ki-ak	Essay
+12	200	Things of Chosŏn I Wish to Boast Of - Especially Rich in Affection	Pak Tong-wan	Essay
+12	210	Things of Chosŏn I Wish to Boast Of - Family System is a Model for the World	Ch'oe Sŏng-u	Essay
+12	220	Things of Chosŏn I Wish to Boast Of - Two Great Characteristics of Koreans	Sŏ Se-jung	Essay
+12	230	Things of Chosŏn I Wish to Boast Of - Three Boasts	Yŏm Sang-sŏp	Essay
+12	240	Things of Chosŏn I Wish to Boast Of - Special Gifts of Nature	Kuk Ki-ryŏl	Essay
+12	250	The Three Insights of Queen Sŏndŏk		Essay
+12	260	Things of Chosŏn I Wish to Boast Of - Han'gŭl, the King Among Scripts	Sin Myŏng-gyun	Essay
+12	270	Things of Chosŏn I Wish to Boast Of - Mother of Modern Civilization, Chosŏn is First in the Invention of Movable Type	Yi Yun-jae	Essay
+12	280	Things of Chosŏn I Wish to Boast Of - Kosanja's Taedong Yŏjido, Single-handedly Researched and Independently Created Seventy Years Ago	Yukttang Hagin	Essay
+12	290	Chosŏn's Points of Pride as Seen by Foreigners - Your Integrity and Uprightness	Professor H--n, Bacteriology, University of Berlin, Germany; Professor Prom, Chemistry, University of Vienna, Austria	Miscellaneous Writing
+12	300	Chosŏn's Points of Pride as Seen by Foreigners - Mountains and Rivers, Climate, Clothing	French Acting Consul Germain	Miscellaneous Writing
+12	310	Chosŏn's Points of Pride as Seen by Foreigners - Firstly, It's Peaceful and the Familism is Good	Mrs. Marie, Czechoslovakian	Miscellaneous Writing
+12	320	Chosŏn's Points of Pride as Seen by Foreigners - The Ancient Culture of the East Exists Only in Chosŏn	Former Peking University Professor Ku Hung-ming	Miscellaneous Writing
+12	330	Chosŏn's Points of Pride as Seen by Foreigners - Chosŏn Court Music (Aak) is World-Class	Tanabe Hisao	Miscellaneous Writing
+12	340	This and That Are All Wrong		Miscellaneous Writing
+12	350	Chosŏn's Points of Pride as Seen by Foreigners - Why I Sought Chosŏn = As Part of a Tour Program of the Orient =	Professor Hähnich, University of Leipzig, Germany	Miscellaneous Writing
+12	360	Buddhism and Chosŏn Culture	Yi Nŭng-hwa	Essay
+12	370	Kaebyŏk Publishing Company Mark Design Contest, Seeking Reader Submissions.		Notice/Editor's Postscript
+12	380	Great Eastern Philosophers to Boast of in Academia: Yi T'oegye and Yi Yulgok	Yi Pyŏng-do	Essay
+12	390	The Chosŏn Navy of Old That Commanded the Lands and Seas of East Asia	Il Kija (A Reporter)	Essay
+12	400	Feelings on the Salsu River	Igye Hong Yang-ho	Poem
+12	410	True Story of Winning Against Foreigners - Mr. Kang Nak-wŏn's Boxing Match That Astonished Foreigners	Son Pal	News/Report
+12	420	True Story of Winning Against Foreigners - Chosŏn's Football (Soccer) Matches That Are Not Shameful to the World	Kim Wŏn-t'ae, Captain of the Chosŏn Football Team	News/Report
+12	430	True Story of Winning Against Foreigners - The Praised "Saint Pretty" in America, Chosŏn Genius Pyŏn Hong-gyu	Pang In-gŭn	News/Report
+12	440	True Story of Winning Against Foreigners - The Full Story of the Ch'oe Nan-hŏn Incident: Burning the American Ship on the Taedong River	Ch'wiunsaeng	Miscellaneous Writing
+12	450	Chosŏn Literature Filled with the Chosŏn Heart	Hoam	Literary Criticism
+12	460	Even Though Old, Kwamun Sibu (Civil Service Exam Poetry) Holds High Value	Yi Kwang-jong	Essay
+12	470	Ch'ŏndogyo and Chosŏn	Kim Ki-jŏn	Essay
+12	480	The Beauty of Chosŏn Women as Seen by a Painter (II)	Yi Ch'ŏng-jŏn	Miscellaneous Writing
+12	490	Boasting of Chosŏn's Art (Especially Regarding Our National Treasures)	Hong Sun-hyŏk	Essay
+12	500	Koryŏ Dynasty Ceramics, More Excellent Than Modern Crafts	Ch'oe Chin-sun	Essay
+12	510	Manp'asikchŏk (Flute to Calm Ten Thousand Waves)		Miscellaneous Writing
+12	520	Chosŏn's Thirteen Great Painters to Boast of Globally	Ko Ŭi-dong	Essay
+12	530	The Stone Statue of Lord Ŭlchi and His Shrine		Miscellaneous Writing
+12	540	Fragments of Past Chosŏn Art (One or Two Things to Boast Of)	Ŏ Tŏk	Essay
+12	550	World Masterpieces: The Stele of Great Master Wŏn'gak and the Stupa	Kogosaeng (Archaeology Student/Scholar)	Essay
+12	560	Boasting of Landscapes - The Beauty of Our Mountains and Waters, =After Touring World Famous Scenic Spots=	Pak Sŏk-yun	Travelogue
+12	570	To Those Who Read This Book		Notice/Editor's Postscript
+12	580	Things of Chosŏn Remembered While Abroad - Food, Landscapes, Human Warmth	Pak Sŭng-ch'ŏl	Miscellaneous Writing
+12	590	Things of Chosŏn Remembered While Abroad - The Sky of the Homeland, Etc.	Sin Hyŏng-suk	Miscellaneous Writing
+12	600	Things of Chosŏn Remembered While Abroad - Only the Bright Climate	Ch'oe Tu-sŏn	Miscellaneous Writing
+12	610	Things of Chosŏn Remembered While Abroad - Symbol of Daily Sunday Peace	Yi Sŏng-yong	Miscellaneous Writing
+12	620	Things of Chosŏn Remembered While Abroad - Chosŏn as People, Chosŏn as Music	Pak Sŏk-yun	Miscellaneous Writing
+12	630	Things of Chosŏn Remembered While Abroad - Things Impossible to Forget No Matter What	Chŏng Sŏk-t'ae	Miscellaneous Writing
+12	640	Things of Chosŏn Remembered While Abroad - Chosŏn's Mountains and Rivers, Yearned For Even in Dreams	Yŏ Un-hong	Miscellaneous Writing
+12	650	Things of Chosŏn Remembered While Abroad - The Korean Language and Korean Clothes	Kim U-p'yŏng	Miscellaneous Writing
+12	660	Things of Chosŏn Remembered While Abroad - The Unforgettable Climate and Kimchi	Kim Chun-yŏn	Miscellaneous Writing
+12	670	Things of Chosŏn Remembered While Abroad - Clothing, Food, Shelter, and Mountains and Rivers	Yu Kyŏng	Miscellaneous Writing
+12	680	Things of Chosŏn Remembered While Abroad - Chosŏn's Moon and Flowers, Foods like Kimchi, Kalbi, Naengmyŏn Too	Yi Chŏng-sŏp	Miscellaneous Writing
+12	690	Things of Chosŏn Remembered While Abroad - Ondol and Kimchi	Yu Yŏng-jun	Miscellaneous Writing
+12	700	Chosŏn's Court Music (Aak) Admired by People of the World	An Cha-san	Essay
+12	701	Serial Storytelling: Morning		Literary Miscellaneous
+12	710	The Changes in Chosŏn Ancient Music and Famous Figures of Successive Music Circles	P'ungnyurang	Essay
+12	720	Chosŏn's Womanly Conduct and Wifely Virtues, Unsurpassed in the World of Secluded Chastity and Stillness; True Stories of Representative Great Women of the Inner Quarters 2, 3	P'alpandongin	Literary Miscellaneous
+12	730	Internationally Known Korean Figures	Such'un Hagin	Essay
+12	740	The Eyes of Tang Taizong and the Heart of Sui Yangdi		Miscellaneous Writing
+12	750	Boasting of Folk Songs - Peerless Treasure, Distinctive Art, Chosŏn is the Land of Menari	Nojak	Literary Criticism
+12	760	Boasting of Folk Songs - Praise of the Mugunghwa (Rose of Sharon)	Ch'a Sang-ch'an	Literary Criticism
+12	770	Boasting of Legends - The Unparalleled Legend of Kaeam	Son Chin-t'ae	Literary Criticism
+12	780	Boasting of Flora and Fauna - Flowers, Plants, and Animals Native to Chosŏn, Hard to See Elsewhere	Kim Tong-hyŏk	Essay
+12	790	Boasting of Flora and Fauna - World-Famous Specialty Product, Elixir of the World: Koryŏ Insam (Ginseng)	Samsinsanin	Essay
+12	791	Major Increase in Reporters!! Preview of Part of the Greatly Active June Issue		Notice/Editor's Postscript
+12	800	Praise of Ondol	Son Chin-t'ae	Essay
+12	810	Praise of Chosŏn Women's Clothing	Yu Kwang-ryŏl	Essay
+12	820	Beauty of Chosŏn Women as Seen by a Painter (II)	Hŏ Sim-san	Miscellaneous Writing
+12	830	Praise of Chosŏn Kimchi	Yu Ch'un-sŏp	Essay
+12	840	Twenty Thousand Reporters for This Magazine		Notice/Editor's Postscript
+12	850	Characteristics of Chosŏn Cuisine	An Sun-hwan, Owner of Siktowŏn	Essay
+12	860	Koreans and Foreigners Seen from Various Angles - =Korean Students Studying Abroad= Seen at a Tokyo Ryokan	Numata Kiyo, Proprietress of Dai-O-kan, Tokyo	Miscellaneous Writing
+12	870	Koreans and Foreigners Seen from Various Angles - =Korean Customers and Foreign Customers= Seen Inside an Automobile	Pak Il-tong, Nae-O Automobile Company	Miscellaneous Writing
+12	880	Koreans and Foreigners Seen from Various Angles - =Korean Customers and Foreign Customers= Seen on a Train	Kim O-hŭng, Kyŏngŭi Line Train	Miscellaneous Writing
+12	890	Koreans and Foreigners Seen from Various Angles - =Foreign Customers and Korean Customers= Seen in a Store	Pak Wŏl-sŏn, Hwa-O Trading Company	Miscellaneous Writing
+12	900	Koreans and Foreigners Seen from Various Angles - =Korean Customers and Foreign Customers= Seen in the Entertainment District (Hwaryugye)	Yi O-hong, Hansŏng Kwŏnbŏn (Gisaeng House)	Miscellaneous Writing
+12	910	Koreans and Foreigners Seen from Various Angles - =Korean Customers and Foreign Customers= Seen in a Restaurant	Kim Tŏk-sŏng, Boy at OO Restaurant	Miscellaneous Writing
+12	920	Trends/Fads		Miscellaneous Writing
+12	930	Our History of Five Thousand Years, Top to Bottom - Chosŏn's Pride Seen Vertically	Ch'adori	Essay
+12	940	The Beauty of Chosŏn Seen Horizontally, from Paektu Mountain to Halla Mountain	Tori	Miscellaneous Writing
+12	950	A Still Hidden Pride: The Newly Growing Chosŏn Film Industry	Sim Hun	Essay
+12	960	The Beauty of Chosŏn Women as Seen by a Painter (III)	Kim Kyu-t'aek	Miscellaneous Writing
+12	970	Record of the Great Debate at the World Product Exhibition		Miscellaneous Writing
+12	980	From the Editorial Office		Notice/Editor's Postscript
+12	990	Collection of Beautiful Stories of Chosŏn Human Warmth, Unparalleled East and West - A Small Fact from a Rural Village During the Pyŏngja Horan (Manchu Invasion), Beautiful Story of Filial Piety and Chastity: A Corpse on the Streets of Asan	Hyosan	Literary Miscellaneous
+12	991	Seeking Submissions of Beautiful Stories		Notice/Editor's Postscript
+13	010	Biographies of Traitors Through History: Yi Ching-ok, the 24-Year-Old Youth Who Called Himself Emperor of Great Jin	Such'un Hagin	Literary Miscellaneous
+13	020	Biographies of Traitors Through History: Im Kkŏk-chŏng, the Bandit Hero Who Shook Kyŏnggi and Hwanghae Provinces for Three Years	Ch'ŏng'o	Literary Miscellaneous
+13	030	Biographies of Traitors Through History: The Kapo Great Upheaval Arising from the Populace, Tonghak Army Generalissimo Chŏn Pong-jun	Kim Pyŏng-jun	Literary Miscellaneous
+13	040	Facing the Summer Season	Yi Kyŏng-ji, Women's Arts Center	Literary Miscellaneous
+13	050	New Lecture on Conduct and Self-Cultivation: We Are World-Class Koreans	Yu Kwang-ryŏl	Essay
+13	060	Sitting Inside the House	Housewife Ch'oe Yŏng-hŭi	Literary Miscellaneous
+13	070	From a Comrade to Comrades		Literary Miscellaneous
+13	080	Summer Atmosphere, Summer Mood		Literary Miscellaneous
+13	090	Special Prize Contest: Experimental Accounts of Bedbug Extermination, Urgent Call for Submissions, 50 Won Prize		Miscellaneous Writing
+13	100	The Five Great Difficulties of Life	Ch'angsŏk	Literary Miscellaneous
+13	110	Those Who Flounder	Kil Chŏng-hŭi, Female Doctor at Tongdaemun Hospital	Literary Miscellaneous
+13	120	More Than a Novel, More Than an Essay, The Reading Material Among Reading Materials!! Serial Storytelling: Morning, Starting from the August Issue, First Installment by Ch'oe Nam-sŏn		Notice/Editor's Postscript
+13	130	China's Self-Proclaimed Grand Marshal, Extraordinary Figure Zhang Zuolin, From Horse Bandit to Grand Marshal	Yanjing Kyoin (Korean Resident in Beijing)	Literary Miscellaneous
+13	140	Great Secrets Greatly Exposed: Exhibition of Modern Secret Occupations		Social Commentary
+13	150	Everyone's Problem: The Barber Shop Problem		Social Commentary
+13	160	One-Year Love Calendar		Cartoon/Comic
+13	170	Student Life in Various Countries of the World: Focusing on Substance Rather Than Pleasure, The Life of German Students	Yi Sŏng-yong	Memoir/Reminiscence
+13	171	(Untitled - National Compilation Committee)		Notice/Editor's Postscript
+13	180	Student Life in Various Countries of the World: All Actions Militarized, Student Life in France	Kim Pŏm-nin	Memoir/Reminiscence
+13	190	Student Life in Various Countries of the World: Utilizing Vacation for Travel and Labor, Summer Life of American Students	Hyŏn Tong-wan	Memoir/Reminiscence
+13	200	Student Life in Various Countries of the World: Silence First Even During Lecture Hours, Characteristics of Chinese Students	Chang Cha-il	Memoir/Reminiscence
+13	210	Student Life in Various Countries of the World: Fragmentary Thoughts on Life in Cambridge (England)	Pak Sŏk-yun	Memoir/Reminiscence
+13	220	Major Recruitment for Kaebyŏk Publishing Company Branch Offices		Notice/Editor's Postscript
+13	230	Modern Girl and the Old Man		Miscellaneous Writing
+13	240	One Hundred Idiocies of Modern Men and Women		Social Commentary
+13	250	Strange Men and Women		Miscellaneous Writing
+13	260	Great Reader Stinging Article: Great Keijō Mad Dance Song	Ssang S Saeng, Sŏkhwa Saeng	Notice/Editor's Postscript
+13	270	The 35-Chŏn Jacket	Ch'oe Ŭi-sun	Literary Miscellaneous
+13	280	Investigation into the Whereabouts of This Spring's Graduates from Each Keijō Girls' School; This Spring's Honors Graduates		Miscellaneous Writing
+13	290	Especially to Female Readers		Notice/Editor's Postscript
+13	300	Visiting the Wives of Keijō Middle School Principals		Interview/Discussion
+13	310	"Sinnyŏsŏng" (New Woman Magazine) Publication Suspended		Notice/Editor's Postscript
+13	320	If I Were to Marry a Bobbed-Hair Girl		Survey
+13	330	Prize Contest: Barber Shop Vote		Miscellaneous Writing
+13	340	Review of the All-Chosŏn Women's Tennis Tournament: Watching the Sixth Tournament	Yi Kil-yong	News/Report
+13	350	The Widower's Year of Great Misfortune		Miscellaneous Writing
+13	360	Virgin Reader Vol. 1, Lesson 1: Anguish of Virginity	Ch'oe Ŭi-sun	Literary Miscellaneous
+13	361	To All Readers		Notice/Editor's Postscript
+13	370	Virgin Reader Vol. 1: To the Virgin About to Marry, To My Niece Nearing Marriageable Age	KH Saeng	Literary Miscellaneous
+13	371	Three Major Prize Contests		Notice/Editor's Postscript
+13	380	Travelogue of a Group of Reporters on a Long Journey		Memoir/Reminiscence
+13	390	Magazine Courtroom: First Session		Literary Miscellaneous
+13	400	Kaebyŏk Publishing Company Mark Design Contest Deadline Extended		Miscellaneous Writing
+13	410	"Fan" and the Concubine	Songjak	Literary Miscellaneous
+13	420	"Korean Melon" Romance	Ch'ŏng'o	Literary Miscellaneous
+13	430	(Play) Amgwi (Secret Demon/Suspicion), One Act	Written by Yun Paeng-nam	Play/Scenario
+13	440	Pilgrimage of Legends from the Eight Provinces (Part 4): The Princess and Warrior of the Sabi River, Two Youths Who Died Helplessly Trying to Save Declining Paekche with Love	Kim Tong-hwan	Literary Miscellaneous
+13	450	Editorial Office		Notice/Editor's Postscript
+14	010	Folk Song: My Love's Boat	Yu To-sun	Poem
+14	020	Record of Chosŏn's Three Great Rebellions: Hanyang Dynasty's First Rebel Child, Kwambuk Hero Yi Si-ae's Rebellion	Such'un Hagin	Literary Miscellaneous
+14	030	Record of Chosŏn's Three Great Rebellions: P'yŏngsŏ Grand Marshal Hong Kyŏng-nae's Rebellion Against Regional Discrimination	Mun Il-p'yŏng	Literary Miscellaneous
+14	040	Record of Chosŏn's Three Great Rebellions: The June Great Upheaval! Memoir of the Imo Military Mutiny	Ch'a Sang-ch'an	Literary Miscellaneous
+14	050	Serial Storytelling - Morning, Part 1: Dream of the Continent	Ch'oe Nam-sŏn	Literary Miscellaneous
+14	051	Surprise		Notice/Editor's Postscript
+14	060	Story of Surviving a Near-Death Experience: Eyewitness Account of the Great Secret of a Horse Bandit Den	Kim Ki-jong	Memoir/Reminiscence
+14	061	Barber Shop Voting Slip		Notice/Editor's Postscript
+14	062	New Branch Office Establishment (Company Notice)		Notice/Editor's Postscript
+14	070	Secret Record of the Kapo Tonghak Rebellion Arising from the People's Movement	Ch'ŏng'o	Literary Miscellaneous
+14	080	Pastor's Confession: Before Going to the Revival Meeting	Kim O-sun	Memoir/Reminiscence
+14	090	A Special Request to All Readers.		Notice/Editor's Postscript
+14	100	Doctor's Confession: I Brace Myself for Hell	DTK	Memoir/Reminiscence
+14	110	Assistant Teacher's Confession: Daring to Commit Such a Sin	ESC	Memoir/Reminiscence
+14	120	Reporter's Confession: Learning to Write Was the Sin	Ku Kija (Former Reporter)	Memoir/Reminiscence
+14	121	Major Recruitment for Kaebyŏk Publishing Company Branch Offices		Notice/Editor's Postscript
+14	130	The Secret of Doctorate Degrees Coming Back from Abroad: Distinction of Doctorates, Are "Doctor" and "Ph.D." Really the Same?	Paek Kwan-ŭi	Essay
+14	140	Our Branch Reporters' Great Exploration of Five Major Cities at Night		News/Report
+14	150	The Seven Wonders of the World	Pulgasari	Miscellaneous Writing
+14	151	Welcoming Exploration Reports from Each City		Notice/Editor's Postscript
+14	160	Secret Method to Escape the Summer Heat for Only Twenty Chŏn: Competitive Article by All Reporters		Miscellaneous Writing
+14	170	The 20th Century Great Pandemonium: Secrets of Male and Female Superstition Dens Revealed, The Great Demon's Cave Deceiving the World and the People (Title Deleted)	Sach'ŏngch'al (Private Reconnaissance)	Miscellaneous Writing
+14	180	The Secret Inner Workings of the Rice and Bean Exchange	Madangkun	News/Report
+14	181	New Branch Office Establishment (Company Notice)		Notice/Editor's Postscript
+14	190	Great Investigation Report on the Secrets of Married Life	Nokkyŏngyŏng (Green Glasses)	Social Commentary
+14	200	A Hobby Impossible to Give Up: Kissing		Miscellaneous Writing
+14	210	Secret Story of a Male Teacher		Memoir/Reminiscence
+14	220	Secret Notes from a Newspaper Reporter's Notebook: Female Teacher's Secrets Revealed	Kangch'onsaeng	Memoir/Reminiscence
+14	230	Secret Notes from a Newspaper Reporter's Notebook: Biological Mother Becomes Mother-in-Law, Secret True Story of a Certain Rural Wealthy Family	Yu To-sun	Memoir/Reminiscence
+14	240	Secret Notes from a Newspaper Reporter's Notebook: A Female Student's Questionable Death (Secret of a Certain Hospital Admission Room)	Ko Yŏng-han	Memoir/Reminiscence
+14	250	Young Women and Secrets	Chŏn Yŏng-dŏk	Essay
+14	260	Cool Love, Scary Love: Marriage Melodrama of the Insect Kingdom	Ch'uin	Miscellaneous Writing
+14	270	Secret Sad Love Story of the Plant World That Knows Neither Kissing nor Embracing	Song Sŏn-saeng	Miscellaneous Writing
+14	280	Physiological Secrets of Virginity Kept Secret Even at Home and School	Yu Hong-jong	Essay
+14	281	Amazing Printing Technology		News/Report
+14	282	Mr. Pang Chŏng-hwan's Reader		News/Report
+14	290	Secrets of the Girls' School Dormitory Unknown to the Human World	Hŭintal (White Moon)	Miscellaneous Writing
+14	300	Secret Letters Between Old Maids Who Don't Marry	Yŏt'amjŏng (Female Detective)	Miscellaneous Writing
+14	310	The Two Great Dangerous Periods of Married Life: What is the Secret to Marital Harmony?		Social Commentary
+14	320	Secrets Everyone is Deceived by Daily, Secrets Everyone Should Know: Secret Inner Workings of Various Fields	T'ambogun (Reconnaissance Corps)	Social Commentary
+14	321	◇Note on Remittance		News/Report
+14	322	Regarding the September Issue of This Magazine		News/Report
+14	330	Postcard Correspondence		Miscellaneous Writing
+14	340	Secret Method for Creating Beauties Revealed		Miscellaneous Writing
+14	350	The Most Perfect Person; Misplaced Sympathy		Miscellaneous Writing
+14	360	Over Ten Years of Struggling with Bedbugs: Memoir of Conquering Bedbugs, the Enemy of Life; Damages to Keijō Residents Due to Bedbugs Amounting to 4 Million Won Annually	Yukwangyŏl	Miscellaneous Writing
+14	370	Partial Publication of Prize Contest Submissions: Methods for Bedbug Extermination		Miscellaneous Writing
+14	380	Barber Shop Vote Preliminary Results Announcement		Notice/Editor's Postscript
+14	390	The World's Great Temptation: Flowers That Bloom at Night; Secrets of Women's Lives in Various Countries		News/Report
+14	400	THE WING Nalgae (Wings)		Literary Miscellaneous
+15	010	Grand Prize Contest: One Sŏm of White Rice		Notice/Editor's Postscript
+15	020	Two Folk Songs	Yu To-sun	Literary Miscellaneous
+15	030	Factional Strife in Chosŏn	Ch'a Sang-ch'an	Essay
+15	040	Record of an Underworld Meeting Between Sun Yat-sen and Yuan Shikai (=From a Visit to the Yellow Springs=)	Kim Chin-gu	Literary Miscellaneous
+15	050	Discussion on Life Issues: The New Life Practiced by Four Million Members (-Provided for the Reference of Aspiring Comrades)	Kim Ki-jŏn	Essay
+15	060	Opinions of Prominent Figures on Current Issues: Proposals for Life Improvement Plans		Survey
+15	070	Life Improvement Proposals as Women		Survey
+15	071	Announcement of New Magazine Launch		News/Report
+15	080	Experiments in Living a New Life		Survey
+15	090	Secret Orders Welcome		Notice/Editor's Postscript
+15	100	Remodeling the Brain and Food: Eat Bones as Regular Food		News/Report
+15	110	How Is a Day's Time Spent? The Daily Lives of Prominent Figures in Various Fields; Different Lives Depending on Occupation		Survey
+15	120	Observation Car		Miscellaneous Writing
+15	130	Modern Men and Women and Life Improvement (=Total Assets 3 Won 80 Chŏn=)	Cho Chae-ho	Essay
+15	140	The First Request on the Wedding Night of Prominent Gentlemen and Ladies: What Was Said on the First Night?		Survey
+15	150	Survey of Terms Used by Couples in Prominent Families		News/Report
+15	160	The Best Thing Seen While Abroad, Something We Can Immediately Emulate	Kim Pŏm-nin	Survey
+15	170	The First Person to Do Something in Each Field and Aspect	Kwansangja (Physiognomist)	News/Report
+15	180	Saving Money, Time, and Headaches: A Couple's Joint Boarding House Life	Kim Kŭn-sil	Memoir/Reminiscence
+15	190	Story of Building a Less Expensive, New, and Convenient House	Cho Paek-chu	Memoir/Reminiscence
+15	200	Curious Income and Expenditure Statistics		News/Report
+15	210	Amazing Body		Miscellaneous Writing
+15	220	Magazine Discussion: In Present-Day Chosŏn, Are Women's School Graduates or Traditional Women Better as Housewives?!		News/Report
+15	230	Visiting the Wives of Gymnastics Teachers from Various Schools		News/Report
+15	240	Good Experiences, Stories of Failed New Experiments		Survey
+15	250	Undercover Report by a Female Reporter: Account of Disguising as a Woman Who Fled from the Village and Auditioning for Actresses; Curious Audition for Actress Selection	Recorded by Paek Sira	Memoir/Reminiscence
+15	260	As a Husband and Family Man, Is a Man Who Drinks Better or One Who Doesn't? Opinions of Wives of Various Social Figures Revealed		Survey
+15	261	Spectacular Again Spectacular!! Unprecedented Special Feature!! This Magazine's New Year Issue!!!		News/Report
+15	270	Modern Women, Modern Occupations: New Occupations for New Women		Survey
+15	280	Review of Housekeeping by Women from the Eight Provinces		Literary Miscellaneous
+15	290	Great Debate Between Men and Women: Should Parents Interfere in Children's Marriage or Leave It to Their Freedom?		Survey
+15	300	Serial Storytelling: Morning, Part 2: The Strange Mountain House	Song Chin-u	Novel
+15	310	New Trends! Strange Trends!		Social Commentary
+15	320	Aspects of Life for Koreans Abroad		Memoir/Reminiscence
+15	330	Matchmaker Under the Moon (Wolha Bingin)		Literary Miscellaneous
+15	340	Confessions of a Modern Girl		Memoir/Reminiscence
+15	350	Scribbles from the Editorial Office		Notice/Editor's Postscript
+16	009	(Untitled)		Poem
+16	010	Record of the 71 Kisa Years Full of Turmoil in Chosŏn History	Ch'a Sang-ch'an	Literary Miscellaneous
+16	020	The Sad History of Chang Hŭibin - Secret Story of the Royal Court During King Sukchong's Reign	Such'un Hagin	Literary Miscellaneous
+16	030	Born in Kisa Year and Died in Kisa Year: Biographies of Historical Figures	Kwŏn Tŏk-kyu	Literary Miscellaneous
+16	031	Notice of Apology/Thanks		Notice/Editor's Postscript
+16	040	Words Each Person from Each Field Wishes to Say in the New Year		Miscellaneous Writing
+16	050	New Year Petitions Between Related Parties of All Levels and Fields, Separated by a Sheet of White Paper		Literary Miscellaneous
+16	051	A Bundle of Deletions		Notice/Editor's Postscript
+16	060	Thoughts of Various Gentlemen Passing the Halfway Point of Life, the Hills of Thirty and Forty		Literary Miscellaneous
+16	061	Announcement of the Winner of the One Sŏm of White Rice Prize Contest		News/Report
+16	070	Story of Seeing China's New Capital, Nanjing	Chu Yo-han	Travelogue
+16	080	People Remembered During the New Year		Memoir/Reminiscence
+16	090	Interesting Science: Story of "Snakes"	Kim Tong-hyŏk	Essay
+16	100	The Most Memorable Event of Last Year for Newspaper Reporters		Memoir/Reminiscence
+16	101	Another World Entirely		Miscellaneous Writing
+16	102	Great Keijō Reminiscence Song		Literary Miscellaneous
+16	110	New Year Magazine Great Debate Between Men and Women: In Present-Day Chosŏn Families, Is It Possible for Mother-in-Law and Daughter-in-Law to Live Together in One House?		Essay
+16	111	Secret Orders Welcome		News/Report
+16	120	Public Magazine Exhibition: Grand Expo of Snakes of All Nations	Kwansangja (Physiognomist)	Miscellaneous Writing
+16	130	Great Keijō Mad Dance Song	Ssang S Saeng	Social Commentary
+16	140	Measures for Promoting the Chosŏn Literary World That I Think of While Greeting the New Year		Essay
+16	150	Serial Storytelling: Morning	Yi Ton-hwa	Literary Miscellaneous
+16	160	Trends! New Year New Trends! Desired Trends, Expected Trends		Survey
+16	170	More Than a Novel, More Than a Movie: Exhibition of Curious Love Affairs		Literary Miscellaneous
+16	180	Embarrassment Encountered After Writing a Novel: Things Novelists Experienced Because of Writing Novels		Memoir/Reminiscence
+16	190	Attention Lovers: The Crime of Love Letters		Miscellaneous Writing
+16	200	Men and Women Discussion: Is Women's Bobbed Hair Acceptable or Not?		Essay
+16	201	Welcoming Exploration Reports from Each City		Notice/Editor's Postscript
+16	210	New Year Magazine Grand Meeting: Great Evaluation Contest of Bushy Beards and Bald Heads, Admission Denied to Those Who Won't Laugh		Miscellaneous Writing
+16	220	Undercover Report by a Female Reporter (Part 2): Disguising as a Struggling Female Student and Visiting Student Boarding House Villages; Student Life During Exams	Paek Sira	News/Report
+16	221	Preview		Notice/Editor's Postscript
+16	222	Recruitment/Call for Submissions		Notice/Editor's Postscript
+16	230	Observation Car		Miscellaneous Writing
+16	240	Interesting Family Talk (Part 1): The Magic of Science, Story of Artificial Meat	Pitamin	Miscellaneous Writing
+16	250	Flavorful Family Talk (Part 2): The Frustrating Mother	Pang So-p'a	Literary Miscellaneous
+16	260	Constitution of Love		Miscellaneous Writing
+16	270	Bachelor's Heart: An Aspect of Society Awaiting the Bachelor's Judgment; A Passage of the Bachelor's Demands and Confession	Pak No-a	Literary Miscellaneous
+16	280	Bachelor's Heart: The Frustrating State of Mind, Confession of an Old Bachelor	Mamyŏnsaeng	Literary Miscellaneous
+16	290	Virgin at Twenty: What Comes to Mind?		Memoir/Reminiscence
+16	300	Humiliation!! Great Humiliation: The Incident Where I Suffered the Most Insult		Memoir/Reminiscence
+16	301	Second Grand Prize Contest: One Sŏm of White Rice		Notice/Editor's Postscript
+16	302	New Branch Office Establishment		Notice/Editor's Postscript
+16	310	Record of Facts Like Lies: Strange Tale of the World, Story of the Lovesick "Snake"	Pansongjak	Literary Miscellaneous
+16	320	Famous Movie: Convict Corps, Paper Premiere		Literary Miscellaneous
+16	330	Secret History of the Qing Palace: Sad Story of the Fragrant Concubine (Xiang Fei)	Yang Kŏn-sik	Literary Miscellaneous
+16	340	Paper Premiere: Beongeori Samnyong (Mute Samnyong) (1), Starring Na Un-gyu		Literary Miscellaneous
+16	350	Paper Premiere: Beongeori Samnyong (Mute Samnyong) (2), Starring Na Un-gyu		Literary Miscellaneous
+16	360	Paper Premiere: Beongeori Samnyong (Mute Samnyong) (3), Starring Na Un-gyu		Literary Miscellaneous
+16	370	Paper Premiere: Beongeori Samnyong (Mute Samnyong) (4), Starring Na Un-gyu		Literary Miscellaneous
+16	380	Paper Premiere: Beongeori Samnyong (Mute Samnyong) (5), Starring Na Un-gyu		Literary Miscellaneous
+16	390	Paper Premiere: Beongeori Samnyong (Mute Samnyong) (6), Starring Na Un-gyu		Literary Miscellaneous
+16	400	Editorial Office Scribbles		Notice/Editor's Postscript
+17	010	Plum Blossom (and 1 other)	Yi Pyŏng-gi	Poem
+17	020	The Incomparably Exciting Great Battle of P'yŏngyang by Li Rusong, February 17th, Kisa Year of King Sŏnjo's Reign	Such'un Hagin	Literary Miscellaneous
+17	030	Record of the Great Political Change of February, Pyŏngsin Year: Emperor Kojong's Refuge at the Russian Legation, February 11th, First Year of Kŏnyang	Ch'a Sang-ch'an	Literary Miscellaneous
+17	040	World-Famous Kisaeng Hwang Chin-i (Continuation of the Part Omitted from Page 63 of the Previous Issue)	Han Yong-un	Literary Miscellaneous
+17	050	The Proclamation of P'yŏngsŏ Grand Marshal Hong Kyŏng-nae That Aroused the Discontented of the World with a Single Document	Kyesanin	Literary Miscellaneous
+17	060	Poem by General Nami	Nami	Poem
+17	070	The Gender Problem: Historical Consideration of Male-Female Relations, From the Age of Promiscuity to the Age of Equality	Yang Myŏng	Essay
+17	080	Humanity's Great Problem: The Path to Solving the Male-Female Problem; Theory of Gender Differences	Ch'oe Chin-sun	Essay
+17	090	Anatomy of Gender Beauty: What Constitutes a Beautiful Person?	Translated by Songjak	Literary Miscellaneous
+17	100	The Way of Love	Ko Yŏng-hwan	Essay
+17	110	The Way of Husband and Wife	Cho Chae-ho	Essay
+17	120	Male Students and Female Students as Seen from the Lectern: How Are Males and Females Different from Their Student Days?		Essay
+17	130	Another World Entirely		Miscellaneous Writing
+17	140	How to Guide Young Men and Women's Social Interaction?		Essay
+17	150	Notice of Apology/Thanks		Notice/Editor's Postscript
+17	160	Urgent Problem for Schools and Homes: Measures for Implementing Sex Education		Essay
+17	170	Marriage Age for Men and Women: What Age is Suitable for Marriage for Men and Women?	Yi Kap-su, M.D.	Essay
+17	180	Old Maids and "Hysteria" Seen in the Doctor's Office: The Harm of Marrying Too Late		Literary Miscellaneous
+17	190	The Physiology and Psychology of Sexual Desire - The Sexual Suffering of Both Men and Women	Chŏng Sŏk-t'ae	Essay
+17	191	【Recruitment/Call for Submissions】		Notice/Editor's Postscript
+17	200	World's Latest Invention - Method to Determine the Sex of a Fetus in Thirty Minutes	Chu Yŏng-sŏn, Inje Hospital	Essay
+17	201	(Untitled - National Compilation Committee)		Miscellaneous Writing
+17	210	Women Who Need Special Attention and Celibate Life	Pak Ch'ang-hun, M.D.	Essay
+17	220	Curious Divorce Lawsuits of the World - The Problem of Distinguishing Virgins from Non-Virgins	Sin P'il-ho	Miscellaneous Writing
+17	230	The Reason Men Demand Chastity from Women: Monogamy to Keep the Bloodline Pure	LS Saeng	Essay

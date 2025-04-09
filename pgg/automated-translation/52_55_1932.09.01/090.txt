@@ -1,0 +1,71 @@
+잡지명	別乾坤 第55號
+발행일	1932년 09월 01일
+기사제목	虎列刺이야기 (Cholera Story)
+필자	社會管ㆍ中央實費診療院長 醫學博士 閔丙祺
+기사형태	논설 (Essay)
+
+Cholera Story
+						Social Affairs Manager, Director of the Central Free Clinic, Doctor of Medicine Min Pyŏng-gi
+
+"Cholera! Cholera! Cholera's southward advance will eventually invade Chosŏn (虎列刺南下 畢竟朝鮮侵入)!"
+Recently, newspapers are all in an uproar about this cholera scare. So, what exactly is cholera?
+
+◇The Reason for Contracting Cholera
+
+Of course, cholera is one of the infectious diseases. Therefore, cholera is a frighteningly contagious disease, and the reason for contracting this disease is due to the cholera bacillus. The cholera bacillus is a comma-shaped (「마」) bacterium called the "Koch" bacillus, discovered in 1883 by the famous German bacteriologist Dr. Koch after much research in Egypt and India, where it was then rampant. There is an interesting story about the discovery of this bacterium. --- At that time, Dr. Koch was famous for his bacteriology, but Dr. Pettenkofer, a senior colleague and famous for his hygiene studies, was also researching cholera separately from Dr. Koch, and they obtained different results. The Koch group insisted that the bacterium they discovered was indeed the cholera bacillus, while Dr. Pettenkofer argued that it was not, and they argued fiercely. However, at that time, there was no scholar who could judge whose words were correct. So, in the end, Dr. Pettenkofer, along with an assistant, thought that if they ate the bacterium discovered by Dr. Koch and contracted cholera, it would prove that it was indeed the cholera bacillus, and if they did not contract it, it would prove that it was not the cholera bacillus. When they ate the bacterium, Dr. Pettenkofer only had diarrhea once or twice, but the assistant finally contracted cholera. As a result of this life-risking experiment, it was proven that the comma-shaped bacterium discovered by Dr. Koch was indeed the cholera bacillus. At the same time, it was also proven that not everyone who is infected with this bacterium contracts cholera, but some people do and some do not, and not everyone who contracts it dies. --- How much benefit has this life-risking experiment brought to us?
+
+◇The Path of Cholera's Entry
+
+Cholera is not always present in our Chosŏn. In some years it is rampant, but in other years it is not even seen. As mentioned earlier, this disease originates in the India region, and shipowners or travelers coming from there may carry the bacteria, or they may come while infected with the disease themselves. Such people may come to Pusan or Inch’ŏn via Shanghai and Hong Kong, passing through Yokohama or Nagasaki in Japan, or they may come through the border, passing through Shandong and Manchuria. This year, it has arrived via the latter route. Occasionally, they may come to Inch’ŏn from Shanghai or Hong Kong. Generally, they enter between June and October, and as autumn sets in and the weather cools down, the disease neither enters nor, once it has entered, gradually decreases. This is because the cholera bacillus is very weak to cold, so it cannot develop, and, of course, the bacterium dies if it is very cold.
+
+◇Symptoms of Cholera
+
+The disease may break out in less than six hours after being infected with the cholera bacillus, but often the symptoms appear after a day and night, and sometimes the symptoms appear after seven or eight days. This is partly due to the different resistance of people, but also the strength of the toxicity (毒力) of the cholera bacillus itself is a big factor.
+
+The most easily recognizable symptom is sudden and severe vomiting, diarrhea, and abdominal pain, and what comes out first is usually food or diarrhea, but after a while, they vomit and excrete rice water-like (쌀물) things with a foul smell. These vomitus and excrement contain many cholera bacilli, which spread to other healthy people. In addition, if these vomitus and excrement are carelessly disposed of, they may flow into wells or sometimes into the sea, causing an epidemic, so these vomitus and excrement must be disinfected to kill the cholera bacilli.
+
+Patients with this disease become very weak after one or two episodes of vomiting and diarrhea, losing energy and collapsing. The fever usually does not rise, and sometimes it is lower than that of a healthy person, but the patient sweats coldly, the skin and mouth become dry, the throat becomes hoarse, and urine does not come out. In most cases, they die after one or two days with these symptoms, and sometimes these symptoms gradually disappear and they barely survive. However, in general, six to eight out of ten people who contract this disease die.
+
+◇Prevention Methods
+
+More than anything, it is more important to prevent the disease than to treat it after contracting it. Therefore, the best way is to prevent cholera from entering the region, so it is good to examine every entry point at ports and conduct health surveys on people crossing the border by land. If the disease starts to spread, be careful with food, do not eat raw fish or raw food, strictly prohibit traffic near where cholera has occurred, and, depending on the circumstances, it is, of course, perfect to get vaccinated. Once such patients appear, it is best to quickly get treatment from a doctor to cure the disease and prevent it from spreading to other places. <17>
+
+**Named Entities**
+
+Min Pyŏng-gi	閔丙祺
+Chosŏn	朝鮮
+Pusan	釜山
+Inch'ŏn	仁川
+Shanghai	上海
+Hong Kong	香港
+Yokohama	橫濱
+Nagasaki	長䗁
+Shandong	山東
+Manchuria	滿洲
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제55호
+발행일	1932년 09월 01일
+기사제목	虎列刺이야기
+필자	社會管ㆍ中央實費診療院長 醫學博士 閔丙祺
+기사형태	논설
+
+虎列刺이야기
+						社會管ㆍ中央實費診療院長 醫學博士 閔丙祺
+『호열자! 호열자! 호열자남하 필경 조선침입(虎列刺南下 畢竟朝鮮侵入)』
+근일신문은 모도가 이러한 호열자소동으로 야단이다 그러면 대체 호열자라는 것은 엇다한 병인가?
+◇호열자에걸니는리유
+물론 호열자도 전염병가운데 하나이다 그러무로 호열자 역무서웁게 전염성을 가진병이며 이병에 걸니는 리유는 호열자균으로 말미아마 걸니게 되는 것이다. 호열자균은 一八八三년세균학(細菌學)으로 유명한 독일코호박사가 그몹시 유행하든 애급(埃及)과 인도(印度)지방에서 천신만코로연구하야 발견한 「코호」균이라는 「마」ㅊ럼 생긴균이다 이균을 발견할 재미잇는 이야기가 잇다.―――당시 「코호」박사가 세균학으로 유명하엿지만 박사보다도 선배(先輩)요 위생학(衛生學)으로 유명학 「페텐펠」 박사 역 「코호」씨와 로 호열자를 연구하다가 서로 다른 결과를 엇게되여서 「코호」씨파는 자긔가 발견한균이 정말호열자균이라거니 「페텐펠」박사는 아니라거니해서 몹시 싸웟섯다. 그러나 그 누구나 다엇더한사람의 말이 올타고 판단을 나릴만한 학자가 엄섯다. 그래서 결국「페텐펠」박사는 조수(助手) 한사람과 가티 「코호」박사가발견한균을 먹어서 호열자에 결닐것가트면 이것이 정말 호열자균이오 알걸닐것가트면 호열자균이 아니라는 것이 증명되리라고 생각하고 이균을 먹엇드니 「페텐텔」박사는 한두번설사만하고 조수한사람은 드듸여호열자에 걸려주엇다. 이생명을 내노코실험한결과 「코호」박사가 발견한 「콤마」처럼 생긴균이 정말 호열자균이라는 것이 판명되는동시에 이균에 전염된다고 다호열자에 걸니는것이아니라 엇더한 사람은 걸니고 엇더한 사람은 아니걸니니 걸린다고 다 죽는 것이 아니라는 것마지 증명하게되엿다―――이처럼 자긔생명을 내여노코하는실험이 얼마나 우리에게 리익을 쳣는가?
+◇호열자가 드러오는길
+우리조선에는 호열자가 항상잇는것이아니다 엇더한해는 몹시유행하지만 엇더한해는 그림자조차 안보이는수도잇다. 이병이만키로는 전에써온 것과가티 인도지방인데 이곳으로 부터으는해운업자(海運業者) 혹은 려행하는사람이 균을 옴겨가지고 오는수도 잇고 는 자긔가 이병에 걸려가지고 오는수도잇다 이러한 사람이 상해(上海)향항(香港)으로부터 일본의 횡빈(橫濱)이나 장기(長䗁)를것처 부산이나 인천으로 드러오는수도잇고 는 산동과 만주지방을 도라서 국경(國境)으로 드러오는수도잇는데 금년에는 나종길을 발버드러온 것이다. 간혹 상해나 향항으로부터 인천으로드러오는수도 엄지안타 대개 조건에 드러오기는 六月로부터 十月사이며 가을철이드러서 선선해지면 병이드러오지도안고 일단 드러온병이라도 차차감헤지기시작한다 이리유는 호열자균을 취위에 대단히 약해서 발육이안되는 것은 물론 몹시 치우면 균이 죽어버리는 닭이다.
+◇호열자병의 증세
+호열자균이 전염된뒤 엿시간이못되여서 병이 발작되는수도 잇지만 흔이는 일주야지난다음 병중세가 이러나는수도잇고 엇더한는 七, 八일후에야 증세가 나타나는수도잇다. 이것은 사람에라서 저항력(抵抗力)이 다른것도 한원인이지만 다름방면으로 호열자균 그물건의 독력(毒力)의 강하고 약한것도큰 관게가잇다.
+병증세가운데 가장 알기쉬운 것은 별안간 못시토하고 설사를하며 복통이심한 것이 특증인데 그것도 맨처음 나온 것은 보통음식물이나 설사이지만얼마동안잇스면 쌀물가튼 냄새나는 물건을 토하고 사하게된다 이토사물가운데는 만흔호열자균이잇스며 이것으로말미아마 다른성한사람에게 전염되는 것이다 그 외에도 이토사물은 함부루내여버리면 이것이 움물이나 간혹 바다로흘너드러가서 유행의 원인이 되는수도잇슴으로 이토사물은 반듯이 소독해서 호열자균을 죽아지안으면 안된다.
+이병에 걸닌병자는 한두번의 토사를하면 몹시 쇠약헤저서 긔운이엄시아부러지며 열은 흔이는 올느지안코엇더한는 보통건강한 사람보다도 나즐가 잇지만 병자는 찬을 흘니며 피부와 입이마르고 목이쉬며 오즘이안나온다. 대개 이러한 증세로 하로이틀다가 죽어버리는 수가만코 혹엇더한 는 이러한 증세가 착차업서저서 간신이 사러나는수도 엄자안타 그러치만 대개 이병에 걸니면 열사람가운데 여섯내지 여덜사람은 죽고만다.
+◇예방하는방법
+무엇보다도 병에 걸닌뒤에 드는것보다 이병에 걸니지 안케하는 것이 제일 필요하다. 그러키문에 호열자를 그지방에 드러오지 못하겟하는 것이 제일 상책임으로 항구가튼데서는 드러오는 데를 일일이 검사하고 국경에서 륙지로 넘어오는 사람도 건강조사를하는것이조흐며 이병이 일단 유행하기 시작할것가트면 음식물에 주의해서 생선이나 날것은 먹지말며 호열자가 발생한근처에든 통행을 엄금하고  겨우에 라서 예방주사를 맛는 것이 완전할 것은 물론 일단 이러한 병자가 생기면 속히의사에게 치료를 바더서 병을 곳치고  일방 다른곳에 전염되지못하게 하는 것이 무엇보다 상책이다.＜17＞
+＜17＞

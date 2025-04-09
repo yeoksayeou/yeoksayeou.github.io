@@ -1,0 +1,300 @@
+43	030	What is the League of Nations, Its Intervention in the Current Sino-Japanese Conflict Incident	Sin Sik	Editorial
+43	040	Behind the Scenes of the Sino-Japanese Conflict Incident	Pak Sa-ch'ŏng	Editorial
+43	050	The Leading Figures Running China		News/Information
+43	060	Hopes, Criticism, and Impressions Regarding This Magazine		Notices/Editor's Postscript
+43	070	Why Does the Rice Price Rise and Fall? Farmers' Common Sense Lecture	S. Ch'. Saeng	Editorial
+43	080	On Behalf of Village Elders Facing the Harvest Season, Appealing Rural Conditions to Students: Sons! Daughters! Do You Know Our Situation or Not?	Sin Hyŏng-ch'ŏl	Literary/Misc.
+43	081	Unreserved Submissions Wanted from Students		Notices/Editor's Postscript
+43	090	The Pros and Cons of School Trips: Is There Really Any Benefit?	Chu Yo-sŏp	Editorial
+43	100	Theater's "Red Lips Song," Various Aspects of Actresses	Yi Sŏ-gu	News/Information
+43	110	Impressions of Two Department Stores in Keijō (Seoul) City: Hwasin Department Store and Dong-A Ladies' Store		News/Information
+43	120	Private Prosecutor's Office Great Investigation Record: What is the Chosŏn Education Association Doing?	Yu Tong-han	Editorial
+43	130	Literary Circle Gossip		News/Information
+43	140	Old Maid Exhibition (2nd), Sponsored by the Bachelor Party, Supported by the Non-Marriage Alliance		Miscellaneous Writings
+43	150	Academic World Chat		News/Information
+43	160	Nude Intrusion Experienced in Peiping (Beiping)	M.K. Saeng	Memoir/Recollection
+43	170	Secret Spy Story: The Female Spy Who Deceived German Emperor Kaiser - Hidden History of the World War Cessation	So Ch'ŏn-ho	Literary/Misc.
+43	180	Extra of the Extra		Social Commentary
+43	190	Kaleidoscope		Miscellaneous Writings
+43	200	Letter Received from an Unknown Man, This Kind of Letter from an Unexpected Person		Literary/Misc.
+43	210	The Naked Person's Assertion	O Su-san	Miscellaneous Writings
+43	220	Five Lines Leftover Ink		Notices/Editor's Postscript
+44	010	The Cleverest Person		Literary/Misc.
+44	020	Final Settlement of the 1931 World Situation	Pak Sa-ch'ŏng	News/Information
+44	030	Social Common Sense Lecture: Why Are Chosŏn's Rural Villages Stagnant?	Hanyang Scholar	Editorial
+44	040	Why Did Great Britain Suspend the Gold Standard?	Yi Hak-chung	Editorial
+44	050	Illiteracy Eradication Plan	Chu Yo-sŏp	Editorial
+44	060	Appealing to Middle School Teachers Based on Social Conditions and Student Thought: Daringly, I Ask You These Few Things	Sin Yŏng-ch'ŏl	Editorial
+44	070	World Record Breaking Marathon Runner Mr. Kim Ŭn-bae	O Su-san	Interview/Roundtable Talk
+44	080	Literary Circle Gossip		News/Information
+44	090	Private Prosecutor's Office Great Investigation Record: What Happened to the Singanhoe Kyŏnggi Branch Hall?	Chŏng T'ae-ch'ŏl	News/Information
+44	100	Kaleidoscope		Miscellaneous Writings
+44	110	Story of Famous Chinese Trials: Eight True Crime Stories	Im Pong-ju	Literary/Misc.
+44	120	Company Staff's Year-End Party on Paper		Interview/Roundtable Talk
+44	130	Heavy New Year's Gift	KK Saeng	Cartoon/Comic
+44	140	Year-End Scenes		Miscellaneous Writings
+44	150	The Singing Death Row Prisoner	Yang Sang-ho	Literary/Misc.
+44	160	Wedding Scenes: Russian Maiden Proposing to a Chosŏn Youth	Kim Nikolai	Travelogue
+44	170	Extra of the Extra		Social Commentary
+44	180	Ondol Room Night Story	Ch'unp'a	Social Commentary
+44	190	Editor's Leftover Ink		Notices/Editor's Postscript
+44	200	World Human Flesh Market Mad Dance Music: The South Seas Beauty I Had Trouble With	Chŏng EC	Miscellaneous Writings
+44	210	World Human Flesh Market Mad Dance Music: Observations on the American Human Flesh Market	O.T.S	Miscellaneous Writings
+44	220	World Human Flesh Market Mad Dance Music: Paris's Erotic Kaleidoscope	Sŏngbuk-dong Resident	Miscellaneous Writings
+44	230	World Human Flesh Market Mad Dance Music: Vladivostok's Bathhouse	Wŏn SH	Miscellaneous Writings
+44	240	World Human Flesh Market Mad Dance Music: China's Ero-guro	O In-ho	Miscellaneous Writings
+44	250	Figures Active in the Manchurian Incident		News/Information
+45	010	One Million Readers!		Notices/Editor's Postscript
+45	020	New Outlook on the World Situation	Hanyang Scholar	Editorial
+45	030	Expanding Sino-Japanese Conflict	Pak Sa-ch'ŏng	Editorial
+45	040	Why are Irrigation Cooperatives Failing? Rural Village Roundtable Talk	Chŏng In-kwan	Interview/Roundtable Talk
+45	050	Why Does War Occur?	Ŏ Ku-sŏn	Editorial
+45	060	What Kind of Person is Ma Zhanshan, Heroic Figure of North Manchuria?	Yang Sang-ho	News/Information
+45	070	Extra of the Extra		Social Commentary
+45	080	Shining in Chosŏn's Imjin War History: The Great Victory at Salsu River, Exhilarating Historical Talk on Annihilating a Million Sui Soldiers in One Stroke	Samsan In	Literary/Misc.
+45	090	Person I Think of on a Snowy Night: That Unforgettable Woman	Hoyŏndang In	Memoir/Recollection
+45	100	Person I Think of on a Snowy Night: Our Grandfather	Chŏn Mu-gil	Memoir/Recollection
+45	110	Person I Think of on a Snowy Night: Hidden Romance	Pak Roa	Memoir/Recollection
+45	120	Laughter Brings Ten Thousand Blessings (Continued)		Miscellaneous Writings
+45	130	Why Did I Become Like This? Why Am I a Bread Peddler?	Kim Wŏn-jin	Memoir/Recollection
+45	140	Why Did I Become Like This? Why Did He Become a Monk?	Han Yong-un	Memoir/Recollection
+45	150	Why Did I Become Like This? Why Did I Become a Waitress?	Kim Chŏng-suk	Memoir/Recollection
+45	160	Why Did I Become Like This? Why Did I Quit Drinking?	Pak Tal-sŏng	Memoir/Recollection
+45	170	Why Did I Become Like This? Why Did I Grow My Hair Long Again?	Chŏng Ch'il-sŏng	Memoir/Recollection
+45	180	Another World: A Disabled Person's View of Life: The World Seen by a Blind Person	Kim Sŏng-sil	Memoir/Recollection
+45	190	Another World: A Disabled Person's View of Life: Essay of a Madwoman	West Room 8 Person	Memoir/Recollection
+45	200	Another World: A Disabled Person's View of Life: What a Mute Person Wants to Say	Yu Min-su	Memoir/Recollection
+45	210	Another World: A Disabled Person's View of Life: Story of a Eunuch Getting Married	Han Kyu-jŏng	Memoir/Recollection
+45	220	Another World: A Disabled Person's View of Life: Rumors Heard by a Deaf Person	Ko Hŭi-ch'un	Memoir/Recollection
+45	230	Another World: A Disabled Person's View of Life: Story of a Cripple's Journey	Pak Nam-kyu	Memoir/Recollection
+45	240	Domestic and Foreign Literary Miscellany		News/Information
+45	250	Visiting West Room 8, the Land of the Mad: Who in this world is mentally ill?	A Reporter	News/Information
+45	251	Record of New Year Fortune Telling for Seven Keijō (Seoul) Notables	Yi Man-t'ae	Miscellaneous Writings
+45	260	Story of Gandhi Going to London	Kim Yun-mo	Memoir/Recollection
+45	270	One Year Field Report from the Great Keijō (Seoul) Underworld: Cafes, Mahjong, Theater, Flowers Blooming at Night	Yi Sŏ-gu	News/Information
+45	280	100% Ero-guro Persia, Land of Beauties: Unparalleled Strange Remarriage Customs	SS Saeng	Miscellaneous Writings
+45	290	Counterfeit Ch'unhyang Story: Was Ch'unhyang Really a Beauty? A Legend of Ugly Pass	P'ungnyurang	Literary/Misc.
+45	300	Academic World Chat		Miscellaneous Writings
+45	310	Great Satire! Great Humor! New Manufacturing Methods for Modern Chosŏn's Top 10 Inventions	Doctor of Invention, Teukheo Myeong University	Social Commentary
+45	320	Editor's Leftover Ink		Notices/Editor's Postscript
+45	330	(Serial Storytelling) Changhae Yŏksa (Mighty Man of the Blue Sea)	Wŏlmyŏng Sanin (Narrator), Kim Kyu-t'aek (Illustrator)	Literary/Misc.
+46	010	Look Down! Look Out!		Editorial
+46	020	What is a Disarmament Conference?	Hanyang Scholar	Editorial
+46	030	Story of China's Plainclothes Corps	Yang Sang-ho	News/Information
+46	040	Various Treaties Between Japan and China Regarding the Manchurian Problem		News/Information
+46	050	The Sino-Japanese Conflict as They Saw It: Chinese Mobile Roundtable Talk		Interview/Roundtable Talk
+46	060	Grand! Superb! New Year's Game Tug-of-War	Pak Roa	Literary/Misc.
+46	070	Kaleidoscope		Social Commentary
+46	071	Anyone, please send in your writing!!		Notices/Editor's Postscript
+46	080	Secret Home Visit Report: Disguised Reporter Becomes a Naengmyŏn Delivery Man	Yagwang Saeng	Social Commentary
+46	081	Strange Customs of Strange Peoples (1)		Miscellaneous Writings
+46	082	Strange Customs of Strange Peoples (2)		Miscellaneous Writings
+46	090	Bizarre! Goblins Dancing Wildly: Dunce Grand Exhibition (Free Admission)	Sponsored by Physiognomist	Social Commentary
+46	100	Medical Knowledge: How is Major Surgery Done?	University Hospital Surgery Dept. Kim Sŏng-jin	Miscellaneous Writings
+46	101	Strange Customs of Strange Peoples (3)		Miscellaneous Writings
+46	110	Literary Circle Gossip		News/Information
+46	120	Laughter Brings Ten Thousand Blessings		Miscellaneous Writings
+46	130	Rumors Surrounding the Star of the Chinese Film World, Miss Hu Die	Peiping (Beiping) Chŏng Nae-dong	Miscellaneous Writings
+46	140	Love's Romance, Love Scenes (1)	Ung Ch'o	Miscellaneous Writings
+46	150	Business World Comings and Goings		News/Information
+46	160	Erotic Disturbance in the Secret Country of Mongolia	Chang T'ao	Travelogue
+46	170	Serial Storytelling Changhae Yŏksa (Part 2)	Wŏlmyŏng Sanin (Narrator) Kim Kyu-t'aek (Illustrator)	Fiction/Novel
+46	171	Previous Month's Prize Contest Winner Announcement		Notices/Editor's Postscript
+46	180	Extra of the Extra		Social Commentary
+46	190	Editor's Leftover Ink		Notices/Editor's Postscript
+46	200	Grand Prize Contest for 100 People		Notices/Editor's Postscript
+47	010	March of Spring, Opening Article		Literary/Misc.
+47	020	True Story of the Sino-Japanese Conflict Shanghai Incident: Outbreak and Its Progress	Sin Sik	Editorial
+47	030	Common Sense Explanation: What is the Wrongful Conviction Compensation Law?	Yi In	Editorial
+47	040	Hygiene Lecture: Life and Water, Drink Cold Water, Urban Diseases and Cold Water	Imperial University Hospital Ŏ Ch'ŏl	Editorial
+47	050	Facing Graduation and Entrance Season: Warning to the Academic World	Sin Hyŏng-ch'ŏl	Editorial
+47	060	Students and Temptation: Memoir of a Delinquent Student, From the Countryside to Seoul	W.C.	Memoir/Recollection
+47	070	Love's Romance, Love Scenes	T'ae Ch'o	News/Information
+47	071	1-chōme 191-no-2 Kim Tae-gap		Notices/Editor's Postscript
+47	080	Rare Monster, Giant Paektu Mountain: More Exploration than Visit	A Reporter	News/Information
+47	090	Bizarre! Goblins Dancing Wildly: Dunce Exhibition (Continued)	Sponsored by Physiognomist	Social Commentary
+47	100	Collection of Western Strange Tales	Kang Pang-mun	Miscellaneous Writings
+47	101	200 Male & Female Patients Free Hospitalization: Modern Magazine University Hospital		Miscellaneous Writings
+47	110	Changhae Yŏksa (Part 3)	Wŏlmyŏng Sanin (Narrator), Kim Kyu-t'aek (Illustrator)	Literary/Misc.
+47	120	Extra of the Extra		Social Commentary
+47	130	Academic World Chat: Hwimun High Common School Edition		Miscellaneous Writings
+47	140	Nyŏngbyŏn School Atmosphere Chat, Readers' Column	A Nyŏngbyŏn Reader	Miscellaneous Writings
+47	150	Jokes, Readers' Column		Miscellaneous Writings
+47	160	From a Female Student to the Streetcar Conductor and Driver, Readers' Column	XX Girls' School Student △△ Sŏk	Social Commentary
+47	170	Literature/Arts, Readers' Column		Poem/Poetry
+47	180	Kaleidoscope		News/Information
+47	190	Editor's Leftover Ink		Notices/Editor's Postscript
+47	200	Grand Prize Contest for 100 People		Notices/Editor's Postscript
+48	001	Opening Article - Spring Has Come, But It's Not Like Spring		Literary/Misc.
+48	010	Spring Colors Over Three Thousand Ri	Hyosan, Ch'oe Yŏng-ju, Hong Sŏk-chu, Such'un Sanin, Yŏhyo	Literary/Misc.
+48	020	World Situation Over the Past Month	Hanyang Scholar	News/Information
+48	030	True Nature of the Recently Established New State of Manchuria (Manchukuo)	Ch'wiun Saeng	News/Information
+48	040	Kidnapping Incident of Madame Chiang Kai-shek (Song Meiling): Terrifying Shanghai Cheolbaek Party	Hoshang Sanin	News/Information
+48	050	Life at the Front of Cai Tingkai, Commander of the 19th Route Army		News/Information
+48	060	True Strange Story: Story of Being Captured by Bandits and Coming Back Married	An Sang-ch'ŏl	Memoir/Recollection
+48	070	Blockhead Country Student's First Look at Keijō (Seoul): First Diary in Keijō	T'ae Ch'o	Literary/Misc.
+48	080	Private Prosecutor's Office: True Nature of the Sŏnghwa Religion	Ku Chong-su	News/Information
+48	090	Folk Tale: Kŭmsan Tomb of the 700 Righteous Martyrs		Literary/Misc.
+48	100	Changhae Yŏksa (Part 4)	Wŏlmyŏng Sanin (Narrator), Kim Kyu-t'aek (Illustrator)	Literary/Misc.
+48	110	No. 6, Liberty March		Miscellaneous Writings
+48	120	Literary Circle Gossip		News/Information
+48	130	News Scrap, Topical News		Miscellaneous Writings
+48	140	Joke Broadcasting Station		Miscellaneous Writings
+48	150	Readers' Column, Jokes		Miscellaneous Writings
+48	160	Readers' Column, Literature/Arts		Poem/Poetry
+48	170	Extra of the Extra		Social Commentary
+48	180	Editor's Additional Remarks		Notices/Editor's Postscript
+49	010	Hungry Lesson, Opening Article		Editorial
+49	020	World Situation in March		News/Information
+49	030	Economics Lecture	Kim Il-sŏng	Editorial
+49	040	Enactment of the Tenancy Law and Tenant Farmers	Kim Tong-ch'ŏl	Editorial
+49	050	Why Did the Chungang Ilbo Expose the Chosun Ilbo Executives' Manchurian Compatriot Relief Fund Incident?	Yŏn An'gyŏng	News/Information
+49	060	Du Yuesheng, King of the Plainclothes Corps, Whom Even Chiang Kai-shek Bows To: Shanghai Incident and the Story of the Plainclothes Corps	Yang Sang-ho	News/Information
+49	070	Fake Suicide Commotion Record	Kyesan In	Miscellaneous Writings
+49	080	Let's Wish for Greater Happiness: When Meeting a Former Lover on the Street	Ch'oe Sang-dŏk	Literary/Misc.
+49	090	At the Crossroads of Love and Hate: When Meeting a Former Lover on the Street	Pak Roa	Literary/Misc.
+49	100	Perhaps Even a Gun Might Go Off: When Meeting a Former Lover on the Street	Kim Yun-suk	Literary/Misc.
+49	110	Great Keijō (Seoul)'s Seven Bags and Eight Bags: The One Who Gets Fooled is the "Fool"	Ung Ch'o	Miscellaneous Writings
+49	120	Economics of New Spring Pleasure for Modern Boys and Modern Girls	Yi Sŏ-gu	Literary/Misc.
+49	130	Kaleidoscope		Miscellaneous Writings
+49	140	Changhae Yŏksa (Part 5)	Wŏlmyŏng Sanin (Narrator), Kim Kyu-t'aek (Illustrator)	Literary/Misc.
+49	150	Academic World Chat		Miscellaneous Writings
+49	160	Folk Tale: Kŭmsan Tomb of the 700 Righteous Martyrs	Kim Chin-gu	Literary/Misc.
+49	170	Life Memoir of One Supporting a Family of Three on 3 Won Per Month, Readers' Column	Ŭisŏng Yun Sŏng-hak	Memoir/Recollection
+49	180	Two or Three Short Thoughts	No Yang-gŭn	Literary/Misc.
+49	181	Prize Contest Question		Notices/Editor's Postscript
+49	190	Editor's Leftover Ink		Notices/Editor's Postscript
+50	010	World Situation, Mid-April		News/Information
+50	020	If a Japan-US War Breaks Out?	Matsushita Yoshio	Editorial
+50	030	If You Just Throw Stones, the Colonel Gets Hit		Miscellaneous Writings
+50	040	Cause of Wife's Ill-Treatment is a Large Lump of Flesh in the Abdomen		Miscellaneous Writings
+50	050	Labor Lecture: Enterprise, Labor, and Tenant Farmers	Kim Tong-ch'ŏl	Editorial
+50	060	Where is the Chungang Ilbo Going?	Yŏhyo Saeng	Editorial
+50	070	Close Yet Far Distance	Kim Kyu-t'aek	Miscellaneous Writings
+50	080	Meter That Will Cause Big Trouble		Miscellaneous Writings
+50	090	Three Grooms Appear for One Bride		Miscellaneous Writings
+50	100	Mr. Pak Yŏng-do's Public Talk on the Secret of Beautiful Hair		Miscellaneous Writings
+50	110	Until He Became a Newspaper President		News/Information
+50	120	50 People with Limb Disabilities, Beggar Leader's Grave Completion Ceremony Held		Miscellaneous Writings
+50	130	Great Debut of the Chosŏn Moktak (Wooden Bell), as a Symphonic Instrument		Miscellaneous Writings
+50	140	Writing 7045 Characters on the Back of a Postage Stamp		Miscellaneous Writings
+50	150	The Policeman is Six Feet Tall		Miscellaneous Writings
+50	160	A Medal for the King of Crime?		Miscellaneous Writings
+50	170	Cartoon: Baby, Laugh!	Ung Ch'o	Cartoon/Comic
+50	180	Science Lecture: The Human Face Comes From Fish; Dr. Gregory's Strange Research		Editorial
+50	190	Ch'oe Yŏng-suk's Visit to the Underworld: Chasing the Train to Hades	Ung Ch'o	Literary/Misc.
+50	200	Boatman's Wife	Sŏ Tŏng-nyong	Poem/Poetry
+50	210	Chaplin, the Esperanto of Laughter	Kyŏnghwa	News/Information
+50	220	Roadside Speech of a Mentally Ill Person	Pak Chin	Miscellaneous Writings
+50	230	Playboy Wives On Parade	OYES	Social Commentary
+50	240	Great Physical Examination of Keijō (Seoul) Notables: Exposure of Men's and Women's Personal Secrets (First Installment)	Pseudo-Doctor	Miscellaneous Writings
+50	250	100% Erotic, Rape Experienced by a Man	Yoin	Miscellaneous Writings
+50	260	How to Catch Ducks	Yang Chae-dŏk	Miscellaneous Writings
+50	270	Extra of the Extra		Social Commentary
+50	280	Latest Wealth-Building Technique Anyone Can Do: New Plan to Become Rich	Ori Saeng	Miscellaneous Writings
+50	281	Apologies		Notices/Editor's Postscript
+50	290	Virgin Land Development	Kim Kyu-t'aek	Cartoon/Comic
+50	300	Incident of the Brutal Murder Commotion of Two Beauties at "Hotel Orient"	Yu To-sun	Memoir/Recollection
+50	310	Daughter-in-law Who Speaks Well	Kaep'ung Hyŏn Sŏk-ha	Miscellaneous Writings
+50	320	Recently Occurred Three Major World Assassination Incidents		Memoir/Recollection
+50	330	Detective Novel: Love and Revenge	Yubang	Fiction/Novel
+50	331	◇Safe Passage for the Blind	Kim Kyu-t'aek	Literary/Misc.
+50	340	Changhae Yŏksa (Part 6)	Wŏlmyŏng Sanin (Narrator), Kim Kyu-t'aek (Illustrator)	Literary/Misc.
+50	350	Revealing the Min Yŏng-hwi Family Father-Son Bankruptcy and the Lawsuit Against Mr. Yu Chin-t'ae Surrounding the Chosun Ilbo Issue	Pimun Saeng	News/Information
+50	351	Prize Contest Question		Notices/Editor's Postscript
+50	360	Worn-out Iron Pen		Notices/Editor's Postscript
+51	010	World Trends		News/Information
+51	020	True Story of the Great Chosun Ilbo Commotion	Chŏng T'ae-ch'ŏl	News/Information
+51	030	Story of How I Encountered Revolution	King Alfonso XIII of Spain	Memoir/Recollection
+51	040	North Manchuria's Problem Figure Ma Zhanshan's Qiqihar Escape Story: Five Days of Hardship Crossing the Greater Khingan Range Forest Zone	Yang Sang-ho	News/Information
+51	050	Heat and Thirst	Pukch'ŏng Saeng	Literary/Misc.
+51	060	Summer's Pleasure Spot: Ero-guro at the Beach	Yi Tong-wŏn	Literary/Misc.
+51	070	Rare Filial Son		Miscellaneous Writings
+51	080	Playboy Wives On Parade	OYES	Miscellaneous Writings
+51	090	Men's Pleasure Spot: Cafe Conquest Report	Female Reporter	Miscellaneous Writings
+51	100	Animals are All the Same		Miscellaneous Writings
+51	110	All Reporters Out: One Hour Night Street Exploration		News/Information
+51	120	Kaleidoscope		News/Information
+51	130	World's Secret Realms: Exploration of South American Cannibal Tribes	Oeyu Saeng	Miscellaneous Writings
+51	140	Great Physical Examination of Keijō (Seoul) Notables: Exposure of Men's and Women's Personal Secrets (Second Installment)	Pseudo-Doctor	Miscellaneous Writings
+51	150	Love Story of Mahjong's Origin	Sop'ae Saeng	Miscellaneous Writings
+51	160	Story of a Woman Becoming a Man After 28 Years		Miscellaneous Writings
+51	170	Humor Novel: Four O'Clock in the Afternoon	Hoam In	Fiction/Novel
+51	180	Serial Humorous Novel: Country Uncle's Seoul Sightseeing		Fiction/Novel
+51	190	Another Reason		Miscellaneous Writings
+51	200	Strange Tales of Spain: Warrior Monk Santa Cruz	O Su-san	Literary/Misc.
+51	210	Detective Novel: Person Met on the Train	Yubang	Fiction/Novel
+51	220	It's Painful/Troublesome		Miscellaneous Writings
+51	230	Serial Storytelling, Changhae Yŏksa (Part 7)	Wŏlmyŏng Sanin (Narrator), Kim Kyu-t'aek (Illustrator)	Fiction/Novel
+51	240	Posthumous Manuscript of Sopa: One Million Won Looking for its Owner	The Late Pang Chŏng-hwan	Literary/Misc.
+51	250	Having My Beloved Kisaeng Stolen	Ch'wiun Saeng	Memoir/Recollection
+51	260	Idle Talk After Illness: Hodgepodge Again	Ch'unp'a	Social Commentary
+51	270	Man with a Jewel Embedded in His Forehead	Nakt'a Sanin	Fiction/Novel
+51	280	Empirical Sharp-Tongued Philosophy Lecture: Ttŏk-ttŏk Baldy-ist		Social Commentary
+51	281	Prize Contest Question		Notices/Editor's Postscript
+51	290	Worn-out Iron Pen		Notices/Editor's Postscript
+52	010	World Trends		News/Information
+52	020	Did Ma Zhanshan, Who Escaped Qiqihar, Really Die? --His End Shrouded in Clouds of Doubt--	Yang Sang-ho	Literary/Misc.
+52	030	Manchukuo Recognition Issue: What Will the League of Nations Investigation Team Report?	Yun Yong-sik	News/Information
+52	040	Do Farmers Demand Relief? Rural Relief Problem	Chŏng Il-muk	Editorial
+52	050	Passing Aegi Mausoleum	Yun P'ung-dae	Poem/Poetry
+52	060	Kaleidoscope		Miscellaneous Writings
+52	070	Pros and Cons of the Enlightenment Movement	Hanyang Scholar	Editorial
+52	080	Humor		Miscellaneous Writings
+52	090	Story of Cholera	Social Center / Director of Chungang Actual Cost Clinic, Medical Doctor Min Pyŏng-gi	Editorial
+52	100	Medical Lecture: Male Breasts and Female Breasts	Yang Kŭm-gang	Editorial
+52	110	Today's Topic: What is the Olympic Games? --Its Origin and Overview of This Year's Games--	Kim Kŏn-sik	Editorial
+52	120	Chosun Ilbo After Turning to Terror, Using Gangs and Electrified Barbed Wire	Chŏng T'ae-ch'ŏl	News/Information
+52	130	Academic World Chat		News/Information
+52	140	What is Autumn Coming For?	Sin ■-ch'ŏl	Notices/Editor's Postscript
+52	150	Hae! Koe! Baron Yi In-yong Family's Marital Battle Revealed Under Broad Daylight --The Wild Dance of Corrupt Figures Entangled Therein--	A Reporter	News/Information
+52	160	Untitled	Kim P'o-baek	Poem/Poetry
+52	170	Red Light District Night Story: Shanghai of Love	So Ch'ŏn-ho	Literary/Misc.
+52	180	School Days Night Story: Escape to Tokyo	T'ae Ch'o	Memoir/Recollection
+52	190	New Discoveries in Agriculture		Miscellaneous Writings
+52	200	Newspaper Advertisements are Useless		Miscellaneous Writings
+52	210	School Days Night Story: Wound Caused by a Fake Love Letter; Don't Play Pointless Pranks	Yi Chong-ho	Memoir/Recollection
+52	220	Thousand Homes, Thousand Colors: Secret Investigation Record of Door Plates	Nok An'gyŏng	Literary/Misc.
+52	230	Short Song: Don't Cry	Chŏng So-p'a	Poem/Poetry
+52	240	Short Song: Farmhouse Wives	Ch'oe Kil-lyong	Poem/Poetry
+52	250	Cafe Night Story: Sighing Peacocks	O Su-san	Social Commentary
+52	260	Western Ghost Story: Flying Ghost Ship (Part 2)	Yubang	Literary/Misc.
+52	270	Serial Storytelling, Changhae Yŏksa (Part 8)	Wŏlmyŏng Sanin (Narrator), Kim Kyu-t'aek (Illustrator)	Literary/Misc.
+52	280	Beauty and Fabrication	Ch'oe Pyŏng-hwa	Fiction/Novel
+52	290	Divorcing a Newlywed Couple with Just One Joke	Suwŏn Saeng	Miscellaneous Writings
+52	300	Readers' Salon		Notices/Editor's Postscript
+52	310	World's Secret Realms (Part 3): Isolated Realm Beyond Heaven: Pamir Plateau	Nakt'a Sanin	Miscellaneous Writings
+52	320	Readers' Salon (Part 2)		Notices/Editor's Postscript
+52	330	Prize Contest Question		Notices/Editor's Postscript
+52	340	Worn-out Iron Pen		Notices/Editor's Postscript
+53	010	Looking Back Over 6 Years		Notices/Editor's Postscript
+53	020	Five Reporter Teams Dispatched (Date: October 25th): Exploring Great Keijō (Seoul) After Midnight		Miscellaneous Writings
+53	030	Sticker		Cartoon/Comic
+53	040	Divorce Ceremony		Cartoon/Comic
+53	050	Kaleidoscope		News/Information
+53	060	Theory of Inevitable War: Thus War Will Surely Break Out	Madal	Editorial
+53	070	Record of the Battle of Salsu River: Chosŏn's First Great War	Ch'ŏng'o	Editorial
+53	071	Department Store Field Trip		Literary/Misc.
+53	080	Sad Stories Appearing in Folk Songs (2): Sanyuhwa Song and Pak Hyang-nang	Ch'a Sang-ch'an	Literary Criticism
+53	090	Rice Price Problem: Nongch'ŏng Roundtable Talk		Interview/Roundtable Talk
+53	100	Unprecedented Great Tragedy		Cartoon/Comic
+53	110	Advertisements are Useless		Miscellaneous Writings
+53	120	Toothless Old Man		Miscellaneous Writings
+53	130	World Trends	Yi Tong-han	News/Information
+53	140	Student Column		Literary/Misc.
+53	150	To the Wealthy of Chosŏn	Kim Kwan-su	Editorial
+53	151	Money		Literary/Misc.
+53	160	Same Illness		Miscellaneous Writings
+53	170	Cafe Waitress On Parade	Nok An'gyŏng	Miscellaneous Writings
+53	180	Making a Fortune from Nothing: Story of a Nouveau Riche	O Su-san	Miscellaneous Writings
+53	190	Group of Women Taken by Love	Physiognomist	Memoir/Recollection
+53	200	Private Prosecutor's Office: Baron Yi Family's Marital Battle and the Great Dark Conspiracy Behind the Scenes	T'ambo Army	Miscellaneous Writings
+53	210	Kaesŏng Night Story: Report on Tailing a Kisaeng Tailer	Songak Sanin	Miscellaneous Writings
+53	220	Readers' Salon		Miscellaneous Writings
+53	230	Unni-dong Ghost Story: Virgin Ghost Who Attacked a Bachelor	Kim Kyu-wŏn	Miscellaneous Writings
+53	231	Manuscripts Regrettably Unable to Publish		Notices/Editor's Postscript
+53	240	Extra of the Extra		Social Commentary
+53	250	Detective Novel: The Innocent Death Row Prisoner	Hoffmann (Original Author), Yubang (Translator)	Fiction/Novel
+53	251	Serial Storytelling "Changhae Yŏksa"		Notices/Editor's Postscript
+53	252	Prize Contest Question		Notices/Editor's Postscript
+53	260	Worn-out Iron Pen		Notices/Editor's Postscript

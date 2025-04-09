@@ -1,0 +1,234 @@
+35	440	O West Sea, I Sang of the Bloom	Kim An-sŏ	Literary Miscellany
+35	450	Student Literary Scene		Poem
+35	460	Tonggwang Round Table Conference		Editorial/Article
+35	470	Urgent Telegram		Miscellany/Miscellaneous Writing
+35	480	To a Friend Who Came Soaked in Rain	Cho Un	Poem
+35	490	View of the Countryside, Scenery After Rain	Song Sun-il	Poem
+35	500	He Who Crosses the Hyŏnhaet'an	Kim Pong-je	Poem
+35	510	Drifters (and 1 other)	Yi Kyu-wŏn	Poem
+35	520	The Tent of the Arabians (2 Acts)	Lord Dunsany (Author), Yi Ha-yun (Translator)	Play/Scenario
+35	530	The Rebirth of Nongae (4), Chapter on Worldly Life (2)	Kim Tong-in	Novel
+35	540	Reading Room		Literary Criticism
+35	550	(Economics Section) The Gold Standard Devaluation Problem from the Korean Perspective, Summer University on Paper	Pae Sŏng-nyong	Editorial/Article
+35	560	(Politics Section) What is the Reparations Problem?, Summer University on Paper	Kim Chang-hwan	Editorial/Article
+35	570	(Literature Section) How to Write Poetry, Summer University on Paper	Kim An-sŏ	Editorial/Article
+35	580	(Hygiene Section) How to Use Hospitals Correctly, Summer University on Paper	Medical College Hospital Yu Sang-gyu	Editorial/Article
+35	590	(Home Economics Section) Improving Hygienic Life in Our Homes, Summer University on Paper	Keijō Imperial University Hospital Kim Sŏng-jin	Editorial/Article
+35	600	Section 6, Ill-Fated Literati		News/Information
+35	610	Section 6, Kim Tong-in's Life of Writing Manuscripts		News/Information
+35	620	Science Fragment, The Evolution of Clocks		Miscellany/Miscellaneous Writing
+35	630	Science Fragment, The Strong Wings of Birds		Miscellany/Miscellaneous Writing
+35	640	Science Fragment, The Character of Mr. Wright		Miscellany/Miscellaneous Writing
+35	650	Science Fragment, Lindbergh and the Airplane		Miscellany/Miscellaneous Writing
+35	660	Science Fragment, Seaweed Farming		Miscellany/Miscellaneous Writing
+35	670	Strange Tale: Ch'ŏn Nang	Yun Paeng-nam	Literary Miscellany
+35	680	Gold, Silver, and Treasures Hidden Underground, The Thousand-Year Secret Treasure Mountain of Mongolia, Relics Left by the Early People of Chosŏn, By Whose Hand Will the Secret Key Be Turned?	Wanderer from Shinkyō	Literary Miscellany
+35	690	(Historical Tale) Wealth and Honor? Or Love? The Chastity of Lady Tomi	Kim Yun-gyŏng	Literary Miscellany
+35	700	Prisoners and the French National Anthem	Nangnimsanin (Translator)	Literary Miscellany
+35	710	Urgent Telegram, Esperanto and Teacher Kim Ŏk		Miscellany/Miscellaneous Writing
+36	010	What Shall We Do?		Editorial/Article
+36	020	The Reactionary Nature of the Korean Tenant Farming Ordinance Draft, The Legalization of the Feudal System and the Position of Tenant Farmers	Pae Sŏng-nyong	Editorial/Article
+36	030	Monthly General Knowledge Test		Miscellany/Miscellaneous Writing
+36	040	News Old and New		News/Information
+36	050	Critique of the Tonga Ilbo's Relief Plan for the Poor	O Ik-ŭn	Editorial/Article
+36	060	The Agony of Dancing "Fascism", National Socialist German Workers' Party	Yu Ch'ŏl-su	Editorial/Article
+36	070	News Old and New		News/Information
+36	080	News Old and New, News from the Korean Student Community in America (Part 1)		News/Information
+36	090	News Old and New, News from the Korean Student Community in America (Part 2)		News/Information
+36	100	Hot Rhymes, Snowy Verses (Presented to the Person in the Book)	Pak Kŭm	Poem
+36	110	Is Abortion a Sin?	Unam Sanin	Editorial/Article
+36	120	Modern Science Page	O Chŏng-su	News/Information
+36	130	The Footprints and Characteristics of the Development of British Cooperatives	New York Han Sŭng-in	Editorial/Article
+36	140	News Old and New, Snippets of News from America		News/Information
+36	150	Confucius Says...		Editorial/Article
+36	160	Evaluation of the Role of the Chosun Ilbo Employees' Association	Tokyo Yang Chae-ha	Editorial/Article
+36	170	Secret History of 10 Years as a Reporter, The Early Days of Korean Newspapers	Yu Kwang-nyŏl	Memoir/Recollection
+36	180	Record of Meditation	Ch'unwŏn	Literary Miscellany
+36	190	Answers to the Monthly General Knowledge Test		News/Information
+36	200	The Eve of the Tonghak Rebellion, The Eve of Great Upheaval	Cho Yong-man	Literary Miscellany
+36	210	Russia Before and After the Russo-Japanese War, The Eve of Great Upheaval	Kim Kyŏng-jae	Literary Miscellany
+36	220	(Call for True Stories) A Mute Person Speaks Through a Pastor's Prayer?	Sinyang-ni Hoam Sŭngin	Miscellany/Miscellaneous Writing
+36	230	From Germany Where the Whirlwind Blows	To Yu-ho	Literary Miscellany
+36	240	(Overseas Forum) Great Discussion Topic: Affirmation or Negation of Capitalist Civilization?		Editorial/Article
+36	250	After 10 Years of Patience and Prudence, What's on the Minds of Senior Figures?		Interview/Roundtable Talk
+36	260	Debate on Paper Topic - Does the Salvation of Human Civilization Lie in Perfecting Machines or Smashing Machines?		Survey/Questionnaire
+36	270	Roundtable Discussion on Rural Relief		Interview/Roundtable Talk
+36	280	Bobbed Hair and Korean Women		Survey/Questionnaire
+36	290	Historical Study of Korean Script (15), Hangeul's Two Great Ordeals: The Tyranny of Yŏnsan-gun and Ch'oe Se-jin's Panjŏl	Kim Yun-gyŏng	Editorial/Article
+36	300	Keijō Past and Present, Song of the Tokkebi	Pyŏn Kwang-ho	Literary Miscellany
+36	310	(Short Story) The Original Story of "Strange Comrade", Sisaejŏn		Novel
+36	320	(Music Scene Talk) New and Old Figures in the Music World, Expectations for the Early Autumn Music Scene	Hong Chong-in	Literary Criticism
+36	330	A Hidden Genius Abroad, Musician Kim T'aeng-man	A Reporter	News/Information
+36	340	The Rebirth of Nongae, Reason for Discontinuation	Kim Tong-in	Literary Miscellany
+36	350	Humorist Paeksa Yi Hang-bok, Pilgrimage Record of Figures Past and Present	Kim Yun-gyŏng	Literary Miscellany
+36	360	Alas, Pang Chŏng-hwan, Marking the First Anniversary of His Death, Pilgrimage Record of Figures Past and Present	Yi Chŏng-ho	Literary Miscellany
+36	370	Student Literary Scene		Literary Miscellany
+36	380	Evaluation of Male and Female Athletes (Part 2)	Kim T'ae-ho	News/Information
+36	390	Student Life March		Survey/Questionnaire
+36	400	Song of August - A Poem Sent to the Sun	Hwang Sun-wŏn	Poem
+36	410	Household Affairs	Kim Ki-jin	Poem
+36	420	Don't Speak (Folk Song Style)	Yi Wŏl-am	Poem
+36	430	Lying on the Green Field	Yi Tae-yong	Poem
+36	440	Where Did the Master Go?	Cho Chong-hyŏn	Poem
+36	450	Blades of Grass and Dew	Uhyang	Poem
+36	460	Summer Rain	Anyang	Poem
+36	470	Folk Song: Washing Rice	Han Kil-lim	Poem
+36	480	Soothing Scene	O Ak-kyo	Poem
+36	490	Oh You Who Returned in Silence, There is Someone Who Mourns You-		Poem
+36	500	Pomegranate Flower	Ko Hŭi-hwan	Poem
+36	510	Lullaby	Kim Si-ch'ang	Poem
+36	520	Tonggwang Round Table Conference		Notice/Editor's Postscript
+36	530	Sad State of Farming Villages and 1 Other	Song Sun-il	Poem
+36	540	Sighs of a Summer Midday	Yi Ŭng-su	Poem
+36	550	Naked Image of Autumn	Kim Ki-rim	Literary Miscellany
+36	560	Modern China Special Feature (1), Wasp (Original title: "Yī zhī mǎfēng")	Ding Xilin (Original Author), Chŏng Nae-dong (Translator)	Play/Scenario
+36	570	Modern China Special Feature (2) The Shrew (1 Act)	China Ouyang Ziqian (Author), Yang Paek-hwa (Translator)	Play/Scenario
+36	580	Reading Room		Literary Criticism
+36	590	Remaining Words		Notice/Editor's Postscript
+37	010	The Morality of Accuracy		Editorial/Article
+37	020	The League of Nations General Assembly and the Manchurian Problem	Han Ch'ŏng-san	Editorial/Article
+37	030	Rural Relief Measures and the Interests of Koreans	Pae Sŏng-nyong	Editorial/Article
+37	040	Chungdong School Principal Ch'oe Kyu-dong		News/Information
+37	050	Manchuria and Mongolia Under Japanese Capitalism	Yi Hun-gu	Editorial/Article
+37	060	Yangjŏng High Common School Principal An Chong-wŏn		News/Information
+37	070	Ch'ŏndogyo Kyŏngdogwan Leader and Chidogwan Leader Yi Chong-nin		News/Information
+37	080	British Cooperatives (Continued), Cooperative Wholesale Society and Cooperative Union	New York Han Sŭng-in	Editorial/Article
+37	090	Pulgyosa Han Yong-un		News/Information
+37	100	Chairman of the Society for the Promotion of Korean Products Cho Man-sik		News/Information
+37	110	Secret History of 10 Years as a Reporter (2)	Yu Kwang-nyŏl	Memoir/Recollection
+37	120	Thoughts on Returning Home	Yi T'ak	Poem
+37	130	Poems from Wandering the North American Continent	In America Han Hŭg-gu	Poem
+37	140	Strange Comrade	Pyŏn Kwang-ho	Novel
+37	150	Christmas Morning	Kim Mun-guk	Novel
+37	160	Insult to Humanity (1 Act)	P'alk'ŭk	Play/Scenario
+37	170	Saint and Hero (1 Act)	Han Yi-jik	Play/Scenario
+37	180	Tonggwang Round Table Conference, The Essence of Christianity - After Reading "The Conflict Between Labor and Capital"..		Literary Miscellany
+37	190	Readers' Room		Literary Criticism
+37	200	Confucius Says...		Miscellany/Miscellaneous Writing
+37	210	Record of Meditation, Elixir of Immortality	Yi Kwang-su	Literary Miscellany
+37	220	The Reason Wang Jingwei Demanded Zhang Xueliang's Suicide, The Inner Side of Chinese Politics	Wang Zhongfang, China Weekly Review (English Organ of the Nationalist Government)	Editorial/Article
+37	230	Wang Jingwei's Resignation Diary		News/Information
+37	240	Economics of a Madman	Harold Callender, New York Times Magazine	Novel
+37	250	The Organization and Transition of China's Agricultural Economy, Rural Bankruptcy Here Too	O Nam-gi	Editorial/Article
+37	260	Historical Study of Korean Script (16), Turbulent Times at the End of the Chosŏn Dynasty and Hunminjŏngŭm	Kim Yun-gyŏng	Editorial/Article
+37	270	Human Scenery		Miscellany/Miscellaneous Writing
+37	280	(Early Autumn Reading) Chosŏn's Humorists, Osŏng Yi Hang-bok and Hanŭm Yi Tŏk-hyŏng	Kim Yun-gyŏng	Literary Miscellany
+37	290	Ch'ŏndogyo Leader Kwŏn Tong-jin		News/Information
+37	300	Olympic Episodes	Correspondent B.Y.K from Los Angeles	News/Information
+37	310	Science Fragment		News/Information
+37	320	Temptation of Autumn, Where are the Hidden Famous Spots I Go to in Autumn?		Literary Miscellany
+37	330	Continued Theory of the Uselessness of Medicine, What is Illness and How is it Treated?	Doctor Chŏng Tŏk-kŭn, Head of the Natural Healing Clinic	Editorial/Article
+37	340	Student Literary Scene		Poem
+37	350	Autumn and Nostalgia	Yi Sŏk-hun	Literary Miscellany
+37	360	Kando, Farewell.	Kang Kyŏng-ae	Literary Miscellany
+37	370	Call for True Stories		Literary Miscellany
+37	380	Summer Night in the Village	Chang Man-yŏng	Poem
+37	390	Early Autumn in the Marketplace	Kim Si-ch'ang	Poem
+37	400	Travelogue of Northern Kangwŏn	Yi Sŏk-san	Poem
+37	410	Dawn Sky	Son Chŏng-hwa	Poem
+37	420	Why Did I Say That?	Cho Chong-hyŏn	Poem
+37	430	The Train is Rolling	No Chae-hŏn	Poem
+37	440	Lingering Thoughts	Yi Yong-sik	Poem
+37	450	Duck	Kim Nu-gye	Poem
+37	460	In the Evening Sun	Uch'ŏn	Poem
+37	470	The Stagnation of the Current Literary World and Its Prospects, Literary Review	P'yŏnsŏkch'on	Literary Criticism
+37	480	Stroll Through the Entertainment World, Filming of "Hongyŏm" and Others	Sim Hun	Literary Criticism
+37	490	The Feel of Drizzle	Yi Ŭng-su	Poem
+37	500	Holding a Handful of Soil	Kim So-yŏp	Poem
+37	510	Summer Seems to Be Leaving, A Heart Longing for Autumn	Sŏl Chŏng-sik	Poem
+37	520	Sound of Water	Mo Yun-suk	Poem
+38	010	Extraordinary Person in Extraordinary Times	Yi Kwang-su	Editorial/Article
+38	020	War? Or Peace?, The Manchurian Problem and China's Policy Towards Japan	Shanghai Sin Ŏn-jun	Editorial/Article
+38	030	Review of the League of Nations Investigation Commission Report	Chu Yo-han	Editorial/Article
+38	040	Tonggwang General Knowledge Test		Miscellany/Miscellaneous Writing
+38	050	World War and the Life of the Masses	Mun Il-tong	Editorial/Article
+38	060	Cartoon, Scenes of the Latest Fashionable Clothes (Part 1)	Yi Ch'an-yŏng (Artist)	Cartoon
+38	070	The German Cooperative Movement, The World Cooperative Movement (5)	New York Han Sŭng-in	Editorial/Article
+38	080	"Confucius Says..."		Miscellany/Miscellaneous Writing
+38	090	Chungang High Common School Principal Hyŏn Sang-yun		News/Information
+38	100	Monthly Scene		News/Information
+38	110	Several Topics in Economic Commentary	Song Hyŏn-mun	Editorial/Article
+38	120	Ewha Womans College Professor Kim Sin-sil .		News/Information
+38	130	Ewha Womans College Professor Sŏ Ŭn-suk		News/Information
+38	140	Hyŏpsŏng Industrial School Principal Kim Yŏ-sik		News/Information
+38	150	Mr. Hŏ Hŏn's Personal Roundtable Talk		Interview/Roundtable Talk
+38	160	My Day	Ch'unwŏn	Miscellany/Miscellaneous Writing
+38	170	The Ideal Study Method Taught by Psychology	O Ch'ŏn-sŏk	Editorial/Article
+38	180	Science Fragment (Part 1)		Miscellany/Miscellaneous Writing
+38	190	Historical Study of Korean Script [17], The Development of Hangeul and the Contribution of Christianity	Kim Yun-gyŏng	Editorial/Article
+38	200	Hŏ Hŏn		News/Information
+38	210	Korean Puppet Play Kkoktukaksi	Kim Chae-ch'ŏl	Literary Criticism
+38	220	"Confucius Says..."		Miscellany/Miscellaneous Writing
+38	230	"Confucius Says..."		Miscellany/Miscellaneous Writing
+38	240	Complete Translation of the Three Principles of the People (1), Nationalism Lecture 1	Sun Wen (Sun Yat-sen) Original Work	Editorial/Article
+38	250	Exposure of Ignorant Newspaper Reporters	XYZ	Social Commentary
+38	260	Before Marriage and After Marriage		Survey/Questionnaire
+38	270	Ch'ŏndogyo Leader Chŏng Kwang-jo		News/Information
+38	280	Seeking the First Generation Korean Nun, Miss Yi XX	ABC	News/Information
+38	290	Children's Poem, The Twelve Tokkebi Brothers	Yun Sŏk-chung	Poem
+38	300	The Lively and Sociable Life of American Female Students	Ewha Womans College Professor Miss Pak Maria	News/Information
+38	310	Boys' School Review, Let's Become Diligent Students!	X-hwa School Pak Ŭn-sŏn	Social Commentary
+38	320	Review of the Girls' School Review	Ewha Womans College L.I.S	News/Information
+38	330	Science Fragment (Part 2)	O Chŏng-su	News/Information
+38	340	Student Literary Scene		Poem
+38	350	Booklet to Send to a Lover		Survey/Questionnaire
+38	360	Regarding the Novel "Paekhwa", After Reading the October Issue of "Yŏin" Magazine	Pak Hwa-sŏng	Literary Criticism
+38	370	Several Short Poems	Kim Kŏl-baek	Poem
+38	380	Song of the Boy Farmer	Kim T'ae-o	Poem
+38	390	My March That Lost Its Way	Yi Hyŏng-gyo	Poem
+38	400	Mocking the Optimist	Yu Un-gyŏng	Poem
+38	410	Life	Pak Yŏng-san	Poem
+38	420	An To-san's Boyhood, "Legends" Remaining in His Hometown	Chinnamp'o Haedang	Memoir/Recollection
+38	430	Mr. Yi Kyŏng-son of Shanghai as I Saw Him		Literary Miscellany
+38	440	Call for True Stories		Miscellany/Miscellaneous Writing
+38	450	Cartoon, Scenes of the Latest Fashionable Clothes (Part 2)	Yi Ch'an-yŏng (Artist)	Cartoon
+38	460	Masked Gentleman and Masked Lady	Yi Sŏ-gu	Social Commentary
+38	470	The Lives of Actors and Actresses Seen from the Inside	Na Ch'u-hyang	Miscellany/Miscellaneous Writing
+38	480	Acknowledgement		Notice/Editor's Postscript
+38	490	Golden Rain of Najin Bay	Yi Yun-jae	Travelogue
+38	500	Chosŏn's Humorists, Anecdotes of Osŏng and Hanŭm	Kim Yun-gyŏng	Literary Miscellany
+38	510	Film Review, "Shanghai Express" and "24 Hours"	Sŏ Kwang-je	Literary Criticism
+38	520	Film News, The Ownerless Ferryboat	Chu Yŏng-ha	Literary Criticism
+38	530	Correction		Notice/Editor's Postscript
+38	540	Victory of Character is True Victory, Contribution to the Korean Sports World	Yŏnhŭi College Coach Hyŏn Chŏng-ju	Editorial/Article
+38	550	Three Generations of the Bible and Five Others	Chang Sŏ-ŏn	Poem
+38	560	(Original Fiction) Strange Comrade (2)	Pyŏn Kwang-ho	Novel
+38	570	(Sijo) Autumn Entering the Countryside, Under the Autumn Sunlight	Cho Chong-hyŏn	Poem
+38	580	Tonggwang Round Table Conference		Miscellany/Miscellaneous Writing
+38	590	New Publications Introduction, Reading Room		Literary Criticism
+38	600	Editor's Postscript		Notice/Editor's Postscript
+39	010	Open Letter to Students on the New Year, Become a Hero	Yi Kwang-su	Literary Miscellany
+39	020	Declaration of Love	Kim Hae-gang	Poem
+39	030	The Japan-US Diplomatic Battle Surrounding the Manchurian Problem	Shanghai Sin Ŏn-jun	Editorial/Article
+39	040	The World Cooperative Movement (6), The German Cooperative Movement (2)	New York Han Sŭng-in	Editorial/Article
+39	050	Yŏ Un-hyŏng		News/Information
+39	060	President of the Korean Bar Association, Yi In		News/Information
+39	070	Tonga Ilbo Assistant Editor-in-Chief Sŏl Ŭi-sik		News/Information
+39	080	Chosun Ilbo Business Manager, Cho Pyŏng-ok		News/Information
+39	090	Pyŏn Kwang-ho		News/Information
+39	100	The Recent Hangeul Movement, Historical Study of Korean Script (18)	Kim Yun-gyŏng	Editorial/Article
+39	110	Impressions of Figures from Various Fields Encountered During My Time as a Newspaper Reporter	Yu Kwang-nyŏl	Memoir/Recollection
+39	120	Annual Events, January Edition: Various New Year Customs	Ch'ŏndaesanin	Literary Miscellany
+39	130	What Was Hwarangdo, the National Custom of Old Chosŏn?	Paek Nak-chun	Editorial/Article
+39	140	The End of Chosŏn's Humorists "Osŏng" and "Hanŭm"	Kim Yun-gyŏng	Literary Miscellany
+39	150	The Poetry of Kim Sakkat	Yi Ŭng-su	Literary Criticism
+39	160	An To-san's Time as Principal, A Student's Memorandum	Chinnamp'o Hong Ki-ju	Memoir/Recollection
+39	170	Student Literary Scene		Literary Miscellany
+39	180	The Current State of the Chinese Aviation World	Kim Yŏn-gi in Nanjing	News/Information
+39	190	Can Life Be Seen?, A Biologist's View of Life	Bachelor of Science Kim Ho-jik	Miscellany/Miscellaneous Writing
+39	200	Cancellation		Notice/Editor's Postscript
+39	210	Those Who Love Peace	Yi Tae-yong	Poem
+39	220	Don't You Want to Drift Aimlessly? (and 1 other)	Chang Man-yŏng	Poem
+39	230	Waiting (Folk Song), Words of a Country Farmhand	Min T'aek	Poem
+39	240	Youth (and 1 other)	Pak Yŏng-san	Poem
+39	250	Resentful Kangnam	Kim Man-jo	Poem
+39	260	Praying for Return	Kim Hyang-wŏn	Poem
+39	270	A Comprehensive View of Modern American Newspapers	Han Se-gwang in America	Editorial/Article
+39	280	Call for True Stories		Literary Miscellany
+39	290	Science Fragment, Sunspots and Radio	O Chŏng-su	News/Information
+39	300	Outlook for the Korean Literary World in 1933	Paek Ch'ŏl	Literary Criticism
+39	310	Strange Comrade (End)	Pyŏn Kwang-ho	Novel
+39	320	Acknowledgement		Notice/Editor's Postscript
+39	330	Board and Bed!	American Bruce Bliven (Author), Chu Yo-sŏp (Translator)	Novel
+39	340	Tonggwang Round Table Conference		Literary Miscellany
+39	350	New Publications Introduction, Reading Room		Literary Criticism

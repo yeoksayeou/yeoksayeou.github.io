@@ -1,0 +1,33 @@
+잡지명	別건곤 第33호
+발행일	1930년 10월 01일
+기사제목	一問一答記(8) (Question and Answer Record (8))
+기사형태	설문 (Questionnaire)
+朱요한
+
+Reporter: Have you ever gone to a place like a brothel (遊廓)?
+
+Chu: I have never been. When I was in China, I thought about going to see one, but I didn't.
+
+<22>
+
+**Named Entities**
+
+朱요한	Chu Yohan
+中國	Chungguk
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제33호
+발행일	1930년 10월 01일
+기사제목	一問一答記(8)
+기사형태	설문
+
+一問一答記(8)
+朱요한
+
+記者, 遊廓가튼 데 놀너 가신 일이 잇슴니까?
+朱, 한번도 업슴니다. 中國에 가서 잇슬 때에 한번 구경을 간다고 하면서도 못가고 말엇슴니다.
+<22>

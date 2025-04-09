@@ -1,0 +1,159 @@
+별건곤 제34호
+1930년 11월 01일
+뒤로 본 세상 社會의 裏面暴露(第一回), 新聞界의 內幕 (The World Seen From Behind - Exposing the Inside of Society (Part 1), The Inside Story of the Press)
+金乙漢 (Kim Eul-han)
+세태비평 (Social Criticism)
+
+It seems to be a common human emotion that even though something is very funny and ordinary when you actually do it yourself, you are always curious and think it is strange when someone else does it. Therefore, it seems that the general public has quite a few curiosities and questions about newspapers and newspaper companies, which claim to be public instruments of society, dealing with many readers.
+
+"How on earth does a newspaper company know so much gossip from all over the world and publish it in the newspaper?"
+
+"How can they have so much to say that they fill the pages day after day without a single gap?"
+
+"Do newspaper reporters just sit still and have news material come to them on its own? Or do reporters deliberately roam the streets to get material?"
+
+I hear these kinds of questions several times a day.
+
+In fact, for those who work in the newspaper business, there is nothing more ordinary and easy to understand than making a newspaper, but for those outside the industry, there is no more bizarre existence than a newspaper, in which all kinds of things are written on a single piece of paper. So, how are the current newspapers in Joseon produced, and what is the organization of a newspaper company? In this regard, I would like to briefly introduce the inside of the Joseon press under the title of newspaper exposé.
+
+In modern society, there is no business that is not specialized. Therefore, for the convenience of production and management, Joseon newspapers have three major separate organizations within a newspaper company: 1. Editorial Bureau (編輯局), 2. Engineering Bureau (工務局), and 3. Sales Bureau (營業局).
+<126>
+
+The Editorial Bureau literally refers to the place where news articles are collected and edited, the Engineering Bureau refers to the place where manuscripts produced by the Editorial Bureau are converted into letters and then sent to print for commercialization, and the Sales Bureau refers to the place that manages the newspaper company by widely selling newspapers commercialized by the Engineering Bureau and handling advertisements.
+
+However, the Editorial Bureau is the most important center in any newspaper company, and the Engineering Bureau and Sales Bureau are ultimately necessary after the Editorial Bureau exists, so here I would like to talk only about the Editorial Bureau, which directly produces the newspaper.
+
+The Editorial Bureau has a commander-in-chief called the Editor-in-Chief, followed by six department heads: Political Department Head, Social Department Head, Local Department Head, Economic Department Head, Academic and Arts Department Head, and Editing Department Head. After the department heads, there are about 22 or 23 staff members belonging to each department, and the people commonly referred to as newspaper reporters are often those people.
+
+And to explain the functions of the above six departments, the Political Department (including the Opinion Section) reports on all political situations in and out of the country and publicizes the claims and arguments of the newspaper, the Social Department mainly reports and criticizes social facts, the Management Department deals with economic matters, the Local Department deals with major and minor incidents occurring in the region, the Academic and Arts Department deals with general academics and entertainment (including Family and Children's sections), and the Editing Department is responsible for proofreading the articles from the above departments. Only when the articles from these six different departments are combined in one place can a newspaper be formed. (Therefore, someone even said that a newspaper is a comprehensive art like a play.) And there is absolutely no difference in the relative importance of the articles in the above six departments, but the political and social sections are always the center of attention and the focus of attention in terms of the importance of the departments they handle or the liveliness of the pages. Therefore, in foreign countries, the political department is considered the top agency of the newspaper, calling it "first political department, second social department," and it is said that the gateway to becoming a newspaper reporter is only this place, but in any case, it seems that the articles on the political page are the most authoritative. However, the social situation in our Joseon newspapers is so unique that there are one or two differences from foreign newspapers. First of all, the responsibility of the political department, which should be the most authoritative and lively, is limited to translating Japanese telegrams coming from the Tokyo area because there is no central political legislative body, and the social department monopolizes all the popularity and liveliness.
+<127> You can get a glimpse of the whole picture by just looking at that. Therefore, it can be said that the active stage of Joseon newspapers is only the social section (page 2 articles).
+
+(Reader) How many reporters are in the political department?
+(Reporter) Usually, there is one reporter who translates telegrams, one reporter who edits them (often the political department head), and two or three opinion section reporters.
+(Reader) When I read the newspaper, it says "Beijing Dispatch" (北平電), "Washington Dispatch" (華盛頓電), "Tokyo Dispatch" (東京電), and so on, and the political situation in each country is clearly written. Are those telegrams sent by special correspondents of each newspaper?
+(Reporter) No. In principle, it would be right to have special correspondents in each country to send telegrams, but first of all, how can we afford to have dozens of reporters in each country, and can we afford to pay thousands of won per telegram (the story that the Osaka Asahi Shimbun correspondent sent a telegram of "only 45 words" to the head office during the Washington Naval Conference, the fee was as much as 2,000 won, is too famous).
+(Reader) Then how do you get foreign telegrams in the political section?
+(Reporter) It is a translation of two communications from the Japanese Telegraphic Communication Company (日本電報通信社) and the Imperial Communication Company (帝國通信社) (recently, a new company called the United Communication (聯合通信) has been created) based in Tokyo. These communication companies provide news material to each newspaper company, deploy special correspondents in major cities around the world, and reprint telegrams from various places on a mimeograph and supply them to the relevant newspapers. In other words, hundreds or thousands of newspapers jointly cover the news at the cost of one special correspondent.
+(Reader) Then the cost will be much lower.
+(Reporter) Of course. It costs 1,000 to 2,000 won per month to use telegrams of major and minor facts that occurred in various countries around the world for 30 days, so if you think about the cost of 2,000 to 3,000 won per telegram, it is almost free.
+(Reader) Are there any newspapers that have special correspondents stationed directly in foreign countries?
+(Reporter) Among Japanese newspapers, Osaka Mainichi (大阪每日) or Osaka Asahi (大阪朝日), which have a publicly announced circulation of one million copies, seem to have some, but there don't seem to be many others. In that situation, it is out of the question for the current Joseon newspapers, which are still looking forward to a circulation of 100,000 copies. However, it seems that some have people with titles such as Correspondent in America (在米通信員) or Correspondent in England (在英通信員) by asking foreign students.
+(Reader) Then there must be a lot of inconveniences with only the telegrams from the communication company.
+(Reporter) Of course... First of all, the telegrams from each country do not come directly to the Seoul head office, but go to the communication company in Tokyo first, and then the branch office in Seoul sends the telegram to the branch office in Seoul. The branch office then prints the telegram on a mimeograph and distributes it to each newspaper company in the city. First of all, it takes a lot of time and is inconvenient, and secondly, sometimes it is difficult to trust the telegrams from the communication company. For example, the telegrams reporting the turmoil in China (中國), the country of the Romance of the Three Kingdoms (三國志), are too inconsistent. One day, Chiang Kai-shek (蔣介石) wins a great victory, and then, less than a day later, Yan Xishan (閻錫山) wins a victory, and if the Beijing dispatch (北平電) today reports Zhang Xueliang's (張學良) joining the north, the Nanjing dispatch (南京電) tomorrow reports Zhang Xueliang's support for the central government, and it is difficult to judge what is what and which is which. This is, of course, a reflection of the ever-changing political situation in China, but considering that the communication company is a for-profit organization and that the warlords in China know that propaganda using cash is the key to war rather than firing cannons and killing people, it is impossible to say that the telegram communication that changes in the morning and evening is only a reflection of the ever-changing Chinese political situation... Therefore, if you want to make confident reports, you must have your own special correspondent in the newspaper company.
+<128>
+
+(Reader) When I read the social section articles, there is no story that is missing. How do you get the news?
+(Reporter) There are two types of reporters in the social department: one is a field reporter, and the other is an office reporter. Field reporters collect news by touring government offices such as the Government-General (總督府), the Court (裁判所), the Gyeongseong Prefecture (京城府), the Railway Bureau (鐵道局), the Communications Bureau (遞信局), the Gyeonggi Province (京畿道), and the Lee Wang Jik (李王職), and major social organizations in the city, and office reporters organize or edit the manuscripts brought by the field reporters and publish them on the pages. Only after these two complement each other can the social section be established.
+(Reader) Are the articles in the social section announced by the government office, or are they collected by the field reporters through investigation?
+(Reporter) Sometimes they announce it, but most of them make articles by the newspaper reporters themselves. First of all, to take the example of the police station, what the police announce is mostly trivial things that are good to have or not, such as a person being hit by a train and suffering injuries requiring three weeks of treatment, or a pickpocket stealing a wallet containing 10 won in cash. It is no exaggeration to say that they absolutely remain silent and never announce relatively problematic incidents such as a bank employee embezzling and fleeing with tens of thousands of won, a threatening letter arriving at the house of a wealthy person, or the arrest of several OO group members. So, since they are trying to find out what others are secretly hiding, the skills and techniques of the field reporter are very necessary. This is where the field reporters of the social department are struggling.
+(Reader) Why is it that some newspapers report on major incidents that occur in the city in detail, while other newspapers don't report on them at all?
+(Reporter) The articles that other newspapers can't write are called "tokudane" (特種) (scoop), and whether or not you can write a scoop article depends entirely on the reporter's skill and activity. However, there are cases where they accidentally get a scoop. The only Japanese-language newspaper that first reported the outbreak of the Gongmyeongdan Incident (共鳴團事件), which once shook the world, as a scoop and achieved recognition was XX Newspaper (XX報). The real reason why this newspaper was the fastest to report the incident was that at around 2:30 p.m. on that day (the day the Gongmyeongdan group appeared on Manguri Hill (망우리 고개)), a reporter from the XX Newspaper's social department was talking with the director in the Gyeongseong Post Office Director's Office about something when suddenly a phone call came saying that a mail car loaded with a red bag (赤行囊) was attacked by a pistol squad on Manguri Hill. The director, whose face was turning as white as paper, said, "Yes! Yes! I'm the director... on Manguri Hill... a mail car was attacked... the red bag was taken away... the criminals... the three members of the pistol squad... disappeared into the mountains..." The reporter, hearing only the sound of answering the phone, already guessed the outbreak of a major incident and drove back to the company, reporting the outline of the incident in the evening edition that day and unexpectedly achieving great fame. These are very accidental things, but in any case, the number of scoop articles in the newspaper clearly shows whether the newspaper has good reporters or not.
+(Reader) When I read the newspaper, there are many local articles such as "Jeonju Telegram (全州電報)" and "Pyongyang Telephone (平壤電話)." Are these also articles coming from the communication company?
+(Reporter) That's not the case. Most of the current Joseon newspapers have 200 to 300 branch offices (支分局) scattered throughout Joseon. Ordinary ones come by mail as manuscripts, and urgent ones for larger incidents are reported to the head office by branch telegram or telephone. And it seems that some newspapers have special correspondents in relatively large cities such as Daegu (大邱), Pyongyang (平壤), and Sinuiju (新義州).
+(Reader) And when I look at the family section, it says "How to do makeup in the summer (녀름에 화장을 하는 법)" or "How to cure a child's indigestion (어린아해의 滯症은엇더케 곳치는가)," and all the necessary items for "housekeeping (家事)," "childcare (育兒)," "makeup (化粧)," and "hygiene (衛生)" are written down. How do the newspaper people know all that?
+(Reporter) I'm embarrassed if you praise me too much. Those articles are mostly shameful phenomena that are translated from Japanese women's magazines such as "Shufu no Tomo (主婦之友)" or "Fujin Koron (婦人公論)."
+<130> However, this is a temporary abnormal phenomenon in the transition period, so I think it will gradually improve.
+(Reader) Among the Joseon newspapers - Dong-A Ilbo (東亞日報), Chosun Ilbo (朝鮮日報), Joongoe Ilbo (中外日報), Maeil Shinbo (每日申報) - except for the official newspaper Maeil Shinbo (每申) and Dong-A Ilbo (東亞報), which is nominally a joint-stock company (株式會社), it seems that all of them are having difficulty in management. What is the cause of that?
+(Reporter) There are many reasons. First of all, the main reasons are that the income from advertisements, which is the driving force of newspaper management, is small, the number of readers is small, and the readers are poor Joseon people who do not pay their newspaper bills well.
+(Reader) Also, I hear that some newspaper companies are in extreme financial difficulty, so whether a person is good or bad, whether they have common sense or not, they will immediately make them a department head or director if they invest only 5,000 or 10,000 won. Is that possible?
+(Reporter) Well, I don't think they would give them a key position just because they invested money. And even if that happens, it shouldn't be the norm.
+(Reader) And of course, the person who invested a lot of money hopes to be in a key position himself. They even bring a large number of their own subordinates with them.
+(Reporter) That may be the case.
+(Reader) As a result, really good reporters with common sense and skills cannot stay for long, and outsiders who consider capitalists to be their only background act rudely.
+(Reporter) That's why there are newly hired reporters who translate Japanese telegrams and directly translate "tonikaku (兎ニ角)" as "rabbit horn," "saigo no dotanba (最後ノドタンバ)" as "last tin can," "wakai tsubame (若イ燕)" as "young swallow," and "omoide (思ヒ出)" as "thinking out," causing explosive laughter, isn't that right?
+(Reader) And among newspaper reporters, many have side income in addition to their regular income due to difficult living conditions. Is that true?
+(Reporter) That's not true. It is not true that there are no so-called malicious reporters who threaten (?) to report on other people's weaknesses and extort money to get side income, but there are some kinds of people among newspaper reporters other than Joseon people, but as far as I know, there are absolutely no such unjust elements among Joseon newspaper reporters. Even if they starve, they maintain their integrity - therefore, even though those people despise Joseon people, they always respect the almost incompetent but clean integrity of Joseon reporters.
+(Reader) One way or another, the first thing is that newspaper management is difficult, so the future is bleak....
+The current Joseon newspapers, which have developed abnormally in comparison to all kinds of other cultures, are certainly facing a crossroads of prosperity and decline. So, will Joseon's newspapers develop further than they are now? Or will they shrink below the current level? But I am sure and do not doubt that our newspapers will further increase their power in the future with the struggle of sound newspaper people and the support of the awakened Joseon masses.
+May there be glory forever in Joseon newspapers.
+<126-131>
+
+**Named Entities**
+
+蔣介石	Chiang Kai-shek
+閻錫山	Yŏm Sŏk-san
+張學良	Chang Hsueh-liang
+大阪每日	Ōsaka Mainichi
+大阪朝日	Ōsaka Asahi
+總督府	Ch'ongdokpu
+裁判所	Ch'aep'anso
+京城府	Kyŏngsŏng-bu
+鐵道局	Ch'ŏldo-guk
+遞信局	T'e'singuk
+京畿道	Kyŏnggi-do
+李王職	I Wang-jik
+北平	Pukp'yŏng
+華盛頓	Hwasŏngt'ŏn
+東京	Tōkyō
+南京	Nanjing
+全州	Chŏnju
+平壤	P'yŏngyang
+新義州	Sinŭiju
+大邱	Taegu
+共鳴團事件	Kongmyŏngdan Sakkŏn
+망우리 고개	Manguri Kogae
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제34호
+발행일	1930년 11월 01일
+기사제목	뒤로 본 세상 社會의 裏面暴露(第一回), 新聞界의 內幕
+필자	金乙漢
+기사형태	세태비평
+
+뒤로 본 세상 社會의 裏面暴露
+						金乙漢
+자기가 실지로 하여보면 아쥬 우수웁고 평범한 일이라도 남이 하는 일이면 번번히 궁금하고 이상히 생각되는 것이 사람의 常情인 것 갓슴니다. 따러서 만흔 독자를 상대로 하야 사회의 公器로 자임하는 新聞及新聞社에 대하야서도 일반이 적지 안흔 궁금중과 의문을 가지고 잇는 모양임니다.
+『대체 신문사에서는 엇더케 그러케 전세계의 소문을 잘 알어서 신문에 내임니까?』
+『무슨 할 말이 그러케 만킬내 허구한 날 한줄 빈틈업시 꼭꼭 지면을 채워냄니까??』
+『신문기자는 그저 가만히 안저 잇서도 기사재료가 제절로 생김니까? 또는 재료를 어드려 일부러 길거리로 기자가 쏘질러단님니까?』
+이 가튼 질문을 하로에도 몃 번식 듯슴니다.
+사실 신문업에 종사하는 사람들로서는 신문을 만드는 것처럼 평범하고 알기 쉬운 일은 업겟지마는 局外의 사람들이 생각할 때에는 조희한장에 百事萬事가 다 적혀 잇는 신문 이상의 괴이한 존재는 또다시 업슬 것임니다. 그러면 조선의 現下 신문은 엇더케하야 제작이 되며 또 신문사의 조직은 엇더한가? 이에 필자는 신문폭로라는 제명하에 조선 신문계의 이면을 잠간 소개하려 함니다.
+
+현대 사회의 온갓 사업은 어느 것이나 분업적이 안인 것이＜126＞ 업슴니다. 따러서 조선의 신문도 製作及經營의 편의상 한 신문사 안에 一. 編輯局, 二. 工務局, 三. 營業局의 3대 기관이 각각 분립되여 잇슴니다.
+편집국이라 함은 문자 그대로 기사를 取集하야 편집하는데를 가르킴이요, 공무국이라 함은 편집국에서 제작된 원고를 활자로 곳친 후 인쇄에 부치여 상품화하는 곳을 가르킴이요, 영업국이라 함은 공무국에서 상품화시킨 신문을 널니 판매하고 또 광고를 취급하야 신문사의 경영을 마터 보는 곳을 일커름임니다.
+그러나 신문사는 어느 곳이 다 편집국이 가장 중요한 중심으로 공무국이나 영업국은 결국 편집국이 잇슨 다음에 필요한 것임으로 여기에는 직접 신문을 제작하는 편집국에 대하야서만 말하고저 함니다.
+편집국에는 편집국장이라는 총사령관이 한사람 잇고 편집국장의 다음에는 정치부장, 사회부장, 지방부장, 경제부장, 학예부장, 정리부장의 6부장이 잇고, 부장의 다음에는 각부에 예속된 부원이 약 22, 3명 잇스니 세상 사람들이 신문기자라 함은 흔히 그들을 가르처 말하는것임니다.
+
+그리고 전기 6부의 기능을 말하자면 정치부(논설반을 포함함)은 내외각국의 정치에 대한 일체의 정세를 보도하는 이외에 해당 신문사의 주의주장을 선전발표하는 곳이요, 사회부는 주로 사회적 사실을 보도비판하는 곳이요, 경영부는 경제에 관한 것을 지방부는 지방에서 발생한 대소사건을 학예부는 일반학예 및 연예에 관한 것을(이 중에 家庭及兒童欄이 잇슴) 정리부는 전기 각부기사의 교정을 맛터 보는 곳으로 이 6부의 각기 달은 부문의 기사가 한곳에 종합된 후에 비로소 신문이라는 것이 형성되는 것임니다. (그러기에 누구는 신문은 연극과 가튼 종합예술이라고까지 말하엿다 함니다) 그리고 전기 6부 중에 어느 부분의 기사가 더 중요하고 어느 부분의 기사가 더 중요치 안타는 거기에 무슨 차별적 등급은 절대로 업겟지마는 그래도 그의 취급하는 부문의 중요성에 잇서서 또는 지면에 활기가 橫溢한 점에 잇서서 가장 인기의 중심이 되고 주목의 초점이 되는 것은 항상 정치면과 사회면의 기사임니다. 연고로 외국서는 제일 정치부 제이 사회부라고 정치부를 신문의 최고기관으로 녁이며 신문기자의 등용문은 오즉 이 곳뿐이라고까지 揚言하고 잇다함니다마는 엇쨋던 정치면의 기사가 가장 권위잇는 것인 것만은 틀님업는 사실일 것 갓슴니다. 그러나 우리 조선신문은 이곳의 모든 사회적 정세가 특수한 그만큼 외국의 신문과 판이한 점이 한두가지가 안이니 첫재 가장 권위가 잇고 활기를 띄워야 할 정치부의 책임이라는 것이 중앙에 정치적 입법기관이 업슴으로 말미아마 겨우 東京方面에서 오는 일본계통의 통신전보만 번역하는데 끗치여 온갓 인기와 활기를 사회부가＜127＞ 독점하고 잇는 것만 보아도 능히 그의 전반을 窺知할 슈�가 잇슬 줄 암니다. 그러닛까 조선신문의 活舞臺는 오즉 사회면(2면기사)이라 하겟슴니다.
+
+(독자) 정치부에는 몃사람의 기자가 잇슴니까.
+(기자) 보통으로 전보를 번역하는 기자 한사람과 그것을 편집하는 기자(흔히 정치부장)한사람과 논설반 기자가 두엇되지요.
+(독자) 신문을 보면 「北平電」이니 「華盛頓電」이니 「東京電」이니 하야 각국의 정세가 환하게 적혀 잇스니 그것을 각기 그 신문사의 특파원이 논 전보인가요.
+(기자) 안임니다. 원칙으로 말하자면 나라마다 특파원이 가 잇서서 전보를 하는 것이 올켓지마는 첫재 무슨 돈으로 수십명의 기자가 각국에 가 잇스며 또 한 장에 수천원식(지난번 華盛頓軍縮會議때에 大阪朝日新聞 특파원이 본사에 친 전보 「단 45語」한장의 요금이 무려 2천원이엿다는 것은 너무 유명한 이야기임니다)하는 전보를 우리의 형세로 칠 능력이 잇슴니까?
+(독자) 그러면 정치면에 나는 외국전보는 엇더케 해서 나는 것임니까?
+(기자) 그것은 東京에 본사를 둔 日本電報通信社와 帝國通信社(최근에는 聯合通信이란 것이 새로 생겻슴니다)의 두 통신을 번역하야 내는 것인데 이 통신사라는 것은 각 신문사에 기사재료를 제공하기 위하야 세계각국의 주요도시에 특파원을 배치하고 각지로부터 온 전보를 다시 등사판에 인쇄하야 관계 각 신문사에 공급하는 것이니 말하자면 특파원 한사람의 비용을 가지고 백이나 천의 신문사가 공동으로 취재를 하는 것임니다.
+(독자) 그러면 비용이 퍽 적게 나겟슴니다그려.
+(기자) 적게 나고 말고요. 세계각국에서 발생한 대소사실의 전보를 한달 30일 쓰고 천원 내지 2천원이면 되니 전보 한 장에 2, 3천식 드는 일을 생각하면 거의 공것이지요.
+(독자) 직접 외국에 특파원을 배치한 신문사는 업는가요.
+(기자) 일본신문 중에도 大阪每日이나 大阪朝日과가티 公稱發行部數가 백만이나 되는 곳은 더러 잇는 모양임니다마는 그 외는 별로 업는 듯함니다. 그러한 형편이니까 발행부수가 아직도 십만을 멀리 바라보고 잇는 현하의 조선신문은 도모지 문제가 안이됨니다. 그러나 외국유학생에게 부탁을 하야 在米通信員이라든가 在英通信員과 가튼 명칭의 것은 더러 잇는 모양임니다.
+(독자) 그럼 통신사의 전보만을 가지고는 퍽 불편한 일이 만흘터인데요.
+(기자) 만코말고...첫재는 각국에서 치는 전보가 직접＜128＞ 서울본사도 오는 것이 안이라 一日 동경에 잇는 통신사에 갓다가 거기서 다시 서울에 잇는 지사로 전보를 치면 지사에서는 그 전보를 등사판에 인쇄를 하야 시내 각신문사에 돌리이니 첫재 시간이 만이 걸리어 불편하고 둘째는 혹 엇던 때에는 도모지 통신사의 전보를 신용키 어려운 것이니 에를 들면 三國志의 나라 中國의 動亂을 報하는 전보가 너무나 不一한 것임니다. 오날의 蔣介石이가 크게 승리를 하엿는가하면 이번에는 또 채 하로도 못되여서 閻錫山이가 승리를 하고 또 금일의 北平電이 張學良의 北方加擔을 報하면 明日의 南京電은 張學良의 중앙옹호를 報하야 무엇이 무엇이고 어느 것이 어느 것인지를 도모지 판단키가 어렵슴니다. 이것은 물론 변화무쌍한 中國政情의 반영이라 하겟지마는 통신사라는 것이 영리기관임에 틀님이 업고 中國의 軍閥들이라는 것이 모조리 大砲를 노와 사람을 殺傷하는 것 보다도 오히려 현금을 이용하야 선전을 잘하는 것이 전쟁의 要訣로 알고 잇슴을 생각할 때에는 朝變夕改의 전보통신이 반다시 변화무쌍한 중국정정의 반영이라고만은 단언할 수 업슬 것임니다...그러기에 자신이 잇는 보도를 하려면 반다시 신문사 자신의 특파원이 잇서야 할 것임니다.
+
+(독자) 사회면 기사를 보면 무엇하나 업는 이야기가 업스니 그것은 대체 엇더케 해서 취재를 하는 것인지요.
+(기자) 사회부에는 두가지 종류의 기자가 잇스니 하나는 외근 기자이고, 또 하나는 내근 기자임니다. 외근 기자라 함은 總督府, 裁判所, 京城府, 鐵道局, 遞信局 京畿道 李王職과 밋 시내 각 경찰서 등의 관청과 유수한 사회단체를 순회하야 취재를 하고 내근 기자는 외근 기자가 활동하야 가저온 원고를 정리 또는 편집하야 지면에 게재하는 것이니 이 양자가 切長補短한 후에야 비로소 사회면이 성립되는 것임니다.
+(독자) 사회면에 나는 기사는 관청이면 관청에서 발표를 하는 것인가요, 또는 외근 기자들이 조사를 해서 취재를 하는 것인가요.
+(기자) 간혹 발표를 하는 것도 잇지마는 대부분은 신문기자 자신이 활동을 하야 기사를 만듬니다. 우선 경찰서의 예를 들어 보드래도 경찰에서 사건을 발표한다는 것은 거의 대개가 전차에 사람이 치이여서 전치 3주간의 부상을 당하엿다든가 소매치기가 현금 10원이 든 지갑을 窃取하엿다든가의 잇서도 좃코 업서도 조흘 시시한 것 뿐이오, 어느 은행원이 몇만원을 횡령도주하엿다든가 어떤 부호의 집에 협박장이 들어왓다든가 OO단원 몃명을 체포하엿다든가의 비교적 문제가 될만한 사건은 발표는커냥 절대로 緘口不言한다하여도 그리 과언이 안임니다. 그러니까 남이 비밀히 하야 숨기는＜129＞ 것을 노력하야 알어 내이려니까 외근 기자의 수완과 기술이 여간 필요한 것이 안임니다. 여기에 사회부 외근 기자의 고심이 잇슴니다.
+(독자) 시내에서 발생한 대사건을 어느 신문은 상세히 보도를 하엿건만 또 엇던 신문은 한줄도 도모지 보도를 못하는 때가 잇는 것은 원일임니까.
+(기자) 그와 가티 남의 신문에 못 쓰는 기사를 도꾸다네(특종)이라 하는데 특종기사를 쓰고 못 쓰는 것은 전혀 해당기자의 수완과 활동여하에 잇슴니다. 그러나 간혹 가다가 우연히 특종기사를 엇는 경우도 업지 안으니 일시세상을 진동시킨 共鳴團事件의 발단을 특종으로 먼저 보도하야 공명을 이룬 신문은 XX報라는 日本文新聞뿐이엿는데, 이 신문이 그 보도를 가장 신속히 하게 된 진정한 원인은 그날 오후 두시 반경에 (共鳴團의 일행이 망우리 고개에 출현하던 날) XX보 사회부 기자 한사람이 무슨 상의할 일이 잇서서 京城郵便局長室에서 국장과 회담을 하는 중에 갑작이 망우리 고개에서 赤行囊을 적재한 우편차가 拳銃隊에게 습격을 당하엿다는 전화가 와서 얼골이 점점 백지장가티 창백해지는 국장은 입으로부터 『네!네!내가 국장이요...망우리 고개에서...우편차가 습격을 당해서...赤行囊을 빼앗기여...범인인...권총단 3인은...산중으로 잠적...하...전화밧는 이 소리만을 듯고 그 기자는 벌서 대사건의 돌발을 짐작하고 자동차를 몰아 社로 돌아와서 그날 夕刊에 대략 그 사건을 보도하야 뜻밧게 큰 功名을 세웟다함니다. 이러한 것은 아주 우여난 일이지마는 엇쨋던 특종기사가 신문에 만히 나고 적게 나는 것은 그 신문사에 조흔 기자가 잇고 업는 것을 여실히 표시하는 것이라고 볼 수 잇슴니다.
+(독자) 신문을 보면 「全州電報」이니 「平壤電話」이니 하는 지방기사가 만흔데 이것도 역시 통신사에서 오는 기사인가요.
+(기자) 그것은 그러치안슴니다. 現今의 조선신문은 대개 2백 내지 3백개의 支分局이 전조선 각지에 산재해서 보통의 것은 우편으로 원고로 오며 좀 큰 사건으로 시급한 것은 지국전보 혹은 전화로 본사에 알리워 옴니다. 그리고 大邱나 平壤이나 新義州와 가티 비교적 큰 도시에는 더러 특파원을 둔 신문사도 잇는 모양임니다.
+(독자) 그리고 가정란을 보면 『녀름에 화장을 하는 법』이라든가 또는 『어린아해의 滯症은엇더케 곳치는가』 등의 「家事」「育兒」 化粧」「衛生」에 필요한 各項事項이 모조리 적혀 잇스니 대체 신문사 양반들은 엇더케해서 그런 것을 다 알고 잇슴니까.
+(기자) 너무 칭찬을 하시면 도리혀 미안함니다. 그러한 기사는 대개 「主婦之友」나 「婦人公論」과 가튼 日本文의 婦人雜誌에서 번역을 해서 내이고 잇는 남부끄러운 현상임니다.＜130＞그러나 이것은 과도기의 일시변태적 현상이니까 차차로 개선이 될 줄 암니다.
+(독자) 조선의 신문-東亞日報, 朝鮮日報, 中外日報, 每日申報 그 중의 기관지인 每申과 형식이나마 株式會社인 東亞報를 제외하고는 모다 경영이 곤란한 모양이니 어듸에 그 원인이 잇슬까요.
+(기자) 그야 여러 가지 잇지요. 첫재 신문경영의 원동력인 광고의 수입이 적고 독자가 소수인데다가 겸하야 독자가 빈약한 조선사람이기 때문에 신문대금을 잘 내이지 안는 등이 그의 주요원인이 되겟지요.
+(독자) 또 말을 들으면 엇던 신문사에서는 경영이 극도로 곤란해서 사람이야 잘낫거나 못낫거나 상식이야 잇던지 업던지 단 5천원이고 만원만 출자를 하여도 금방에 무슨 局長이나 理事를 시켜 준다니 그럴 수도 잇슴니까.
+(기자) 글세요. 그러치만 돈만 대인다고 무조건하고 要職을 줄 리는 업겟지요. 또 혹 그런 일이 잇다 하드래도 그것이 常道는 안일 터이니까요.
+(독자) 그리고 얼마이고 출자를 한 사람은 자신이 요직에 잇기를 희망하는 것은 물론이요. 다수한 자기계통의 부하까지 이끌고 들어 온다지요.
+(기자) 그럴 수도 잇지요.
+(독자) 그 까닭에 상식과 기술이 잇는 정말 조흔 기자는 오래 부지를 하지 못하고 資閥을 유일한 배경으로 아는 문외한들이 跋辱를 한다지요.
+(기자) 그러기에 일본서 온 전보를 번역하는데 도니가꾸(兎ニ角)를 토끼뿔, 사이고노도단바(最後ノドタンバ)를 최후의 양철통, 와까이쓰바메(若イ燕)를 젊은 제비, 오도히데(思ヒ出)를 思出이라고 그대로 직역한 抱腹絶倒한 신출기자 양반들도 더러 잇다고 하지 안슴니까.
+(독자) 그리고 신문기자들 중에는 생활이 어려운 관계로 일정한 소득 이외에 부수입이 만타하니 정말임니까.
+(기자) 그것은 잘 몰으는 소리임니다. 남의 약점을 보고 신문에 내인다고 위협(?)을 하고 금품을 强請하야 부수입을 엇는 소위 악덕기자가 아주 업는 것은 안이나 그것은 조선인 이외의 색달은 신문기자들 중에는 더러 고런 종류의 인간이 잇다합듸다마는 조선인 신문기자 중에는 내가 아는 한도에는 절대로 그러한 不義한 分子는 업는 것 갓슴니다. 비록 밥을 굶어도 淸節을 직힌다-그러기에 저 사람들은 조선사람이라고는 업수히 녀기기는 하면서도 조선기자들의 거의 무능에 갓가운 깨긋한 節操에만은 항상 敬服을 하는 모양임니다.
+(독자) 이러고 저러고 간에 첫재 신문경영이 곤란하다니 장래의 일이 딱함니다....
+온갓 달은 문화에 비하야 기형적으로 장족의 발달을 한 現下의 조선신문은 확실히 흥망의 기로에 직면해 잇다고 하겟슴니다. 그래서 조선의 신문은 현재 이상으로 더 발전이 될 것인가? 또는 현재 이하로 위축이 될 것인가? 그러나 건전한 신문인의 분투와 자각한 조선대중의 지지로 우리의 신문은 압흐로 더욱 그 세력이 증대될 것은 나는 확신하야 의심하지 안슴니다.
+조선신문에 길이 영광이 잇슬지어다.
+＜126-131＞

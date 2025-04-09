@@ -1,0 +1,33 @@
+Magazine Title	別건곤 제36호
+Publication Date	1931년 01월 01일
+Article Title	朱題 (Red Title)
+Author	하윤
+Article Type	시 (Poem)
+
+In the darkness-engulfed vacant house,
+A star twinkles faintly.
+You, who have bowed your head all day,
+Lift your feet and leave somewhere. <151>
+
+**Named Entities**
+
+하윤	Ha Yun
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제36호
+발행일	1931년 01월 01일
+기사제목	朱題
+필자	하윤
+기사형태	시
+
+朱題
+						하윤
+어둠에 휩싸히는 븨인들가에
+별하나 반반 빗낫슴니다
+온종일 머리숙여 서든나그대
+발을옴겨 어대론지 나갑니다＜151＞
+＜151＞

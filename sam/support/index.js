@@ -4,6 +4,15 @@ function getUrlParam(param) {
     return urlParams.get(param);
 }
 
+// Function to generate the site footer
+function generateFooter() {
+    return `
+        <footer class="site-footer">
+            <p><a href="../index.html">Project Home</a> - <a href="https://github.com/yeoksayeou/yeoksayeou.github.io">Project Repository</a> - <a href="https://db.history.go.kr/">국사편찬위원회</a></p>
+        </footer>
+    `;
+}
+
 function formatIssueForDisplay(issue) {
     // First replace underscores with spaces
     let displayIssue = issue.replace(/_/g, " ");
@@ -218,15 +227,18 @@ function displayIssueList() {
     
     issueListHTML += `</ul>`;
     
-    // Add footer with source information and last updated date
-    if (window.SITE_INFO) {
-        issueListHTML += `
-            <div class="site-footer">
-                <p>Source: <a href="${sourceLink}" target="_blank">${sourceName}</a></p>
-                <p>Last updated: ${lastUpdated}</p>
-            </div>
-        `;
-    }
+    // Add site info if available
+    // if (window.SITE_INFO) {
+    //     issueListHTML += `
+    //         <div class="info-footer">
+    //             <p>Source: <a href="${sourceLink}" target="_blank">${sourceName}</a></p>
+    //             <p>Last updated: ${lastUpdated}</p>
+    //         </div>
+    //     `;
+    // }
+
+// Add the new site footer
+issueListHTML += generateFooter();
     
     contentDiv.innerHTML = issueListHTML;
 }
@@ -300,6 +312,7 @@ function displayIssueArticles(issueName) {
             });
 
             allArticlesHTML += `<p><a href="${createUrl('index.html')}">&laquo; Back to all issues</a></p>`;
+            allArticlesHTML += generateFooter();
             contentDiv.innerHTML = allArticlesHTML;
         } else {
             let articleListHTML = `
@@ -347,6 +360,7 @@ function displayIssueArticles(issueName) {
                     </div>
                 </div>
             `;
+            articleListHTML += generateFooter();
             contentDiv.innerHTML = articleListHTML;
         }
     });

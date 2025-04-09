@@ -1,0 +1,52 @@
+잡지명	別乾坤 第69號
+발행일	1934년 01월 01일
+기사제목	궁금푸리 (Curiosity Solved)
+기사형태	잡저 (Miscellaneous Essay)
+
+Curiosity Solved
+
+Why is snow white?
+
+Snow—snow! Why is snow so white anyway? Isn't it a seemingly simple yet difficult question? If you pick up a single snowflake and look at it under a microscope, it contains things that look like candies and things that look like diamond fragments all gathered together. These are called snow crystals (結晶), and there are many gaps between these crystals. These gaps are filled with air, and the light that strikes the crystals scatters in all directions due to what is called random reflection (亂反射), making it appear white. For example, a block of ice originally appears transparent, but if you strike it with a nail or a lead hammer and break it, the ice block suddenly appears white because the cracks are filled with air, and light reflects off the many cracked surfaces, causing random reflection. The reason why snow appears white is the same reason.
+
+Cannons That Don't Hit Their Mark
+
+Why does a cannon miss its target even when aimed correctly? An interesting example of this is that when attacking the north with a cannon near the Earth's equator (赤道), if you aim at the target accurately, the projectile will not hit the target but will deviate to the east. An easier example of this is hunting wild animals—it's not a problem at close range when shooting at birds, boars, or deer, but it becomes an issue at longer distances.
+
+This is all because the rotational speed on the Earth's equator is the fastest, and it decreases as you move towards the poles. Therefore, a projectile fired from the equator has a large eastward velocity from the equator added to it, causing it to simply pass the target and fall to the east. That's why artillerymen actually take this into account and aim slightly west of the target for long-range shots.
+
+When Objects Fall?
+
+When an object falls from a very high place, it's easy for anyone to assume that it will not fall straight down but will deviate to the west because the Earth rotates from west to east. However, in reality, it deviates to the east, contrary to this. This strange reason is also due to the Earth's rotation, but as you gradually go higher and higher into the air, the rotational speed at that location increases.
+
+The reason is that, for example, an airship flying high in the sky and a house on the ground both rotate once a day. However, the circumference of the airship's rotation is naturally much longer than the circumference of the house's rotation on the ground. Therefore, the speed at which the airship travels in one second is somewhat faster.
+
+Therefore, if you drop an object from an airship, the object leaving the airship retains the airship's rotational speed. So, that speed is maintained until the object falls to the ground. As a result, it falls much further east than the house. <47>
+
+Named Entities
+
+赤道	Chŏkto
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제69호
+발행일	1934년 01월 01일
+기사제목	궁금푸리
+기사형태	잡저
+
+궁금푸리
+눈-빗은 왜 흰가?
+눈-눈! 눈은 대체 왜 그럿케 하얄까요. 싱거운 듯하면서 어려운 문제가 아닙니까? 눈을 한알만 집어서 현미경으로 드려다 보면 과자 가튼 것도 잇고 다이야몬드 가튼 것이 조각조각 모여서 된 것도 잇습니다. 이것을 눈의 결정(結晶)이라고 하는데 이 결정의 사이사이에는 또한 만흔 간격이 버러져 잇습니다. 이 틈에는 공긔가 끼워잇서 그 결정에 부닷치는 빗이 속에서 란반사(亂反射)라 하야 사면 팔방으로 흐터지는 고로 하얏케 보이는 것입니다. 레를 들면 어름의 한덩어리는 원래 투명해 보이나 이를 못이나 납 바눈로 처서 깨트리면 어름덩어리의 각각 금이 나서 돌연히 하얏케 보여 집니다. 이것은 그 갈라진 곳에 공긔가 들어가 금이 간 만흔 면에 광선이 빗최여 란반사가 되는 까닭입니다. 눈-이 하얏케 보이는 것도 이와 같튼 리유입니다.
+
+견양대로 맛지 안는 大砲
+견양이 바르사록 대포는 빗나간다니 이것이 웬 까닭이 겟습니까? 여기에 대해서 자미 잇는 것은 레를 들면 지구의 적도(赤道) 부근에서 북방을 대포로 공격할 때 목표를 정확히 견양하면 탄환은 명중되지 안코 동쪽으로 치우처 떠러지고 말것입니다. 더 쉬운 레로는 산양 할 때 새나 돗이나 사슴에 잇서서도 갓차운 거리면은 모르지만 조곰만 먼-거리면은 문제입니다.
+이런 것은 모다 이 지구상에서는 적도상의 회전속도가 가장 빠르고 량극으로 감에 따라 적어지는 까닭에 적도우에서 내 쏘은 탄환에는 적도의 동향의 큰 속도가 동시에 가헤저 잇는 고로 그냥 관역을 더 지나가 엽흐로 동쪽에 떠러지고 마는 것입니다. 그리기 때문에 실제로 포병들도 이 점을 고려하야 장거리 사격에 잇서서는 관역보다 서쪽으로 비스듬이 쏘는 것이 랍니다.
+
+물체가 떠러질 때엔?
+비상히 놉흔 곳에서 물체가 떠러질 때 누구나 지구는 서쪽에서 동쪽으로 도는 것인고로 똑바로 떠러지지 안코 서쪽으로 치우처 떠러지는 것으로 알기가 쉽지만 실재로는 이와 반대로 동쪽으로 치우처 떠러집니다. 이 이상한 리유도 물논 지구가 회전하는 까닭에 원인되는 것이나 따우에서 차차 공중으로 놉히 올너가면 올너갈수록 그 장소의 회전속도는 커지는 것입니다.
+왜 그러냐 하면 그한 레로 공중 놉히를 너간비행선도 그 지하의 가옥도 하로에 한 번도는 것이나 비행선이 한 번도는 그 주위의 거리는 물논 땅우의 집이 한 번 도는 주위의 거리보다는 퍽으나 기러지는 것이요. 따라서 일초간에 진행하는 속도는 비행선쪽이 좀더 커지는 것입니다.
+그럿키 때문에 비행선에서 물체를 떠러트릴 경우에 정히 비행선을 떠나려는 물체는 비행선의 회전속도를 그대로 가지고 잇습니다. 그래서 그 속도는 그 물체가 땅우에 떠러질 때까지 고대로 보지하게 되는 것입니다. 거기서 가옥보다는 뭇척 동쪽으로 치우처 떠러지는 것입니다.＜47＞
+＜47＞

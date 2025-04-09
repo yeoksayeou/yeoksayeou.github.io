@@ -1,3 +1,11 @@
+All the transcriptions of these historical magazine articles were done by the National Institute of Korean History and available online at: https://db.history.go.kr/modern/level.do?itemId=ma&types=o - all these works are assumed to be in the public domain.
+
+All the translations here are produced by large language models (Gemini 2.5 Experimental, and for Pyŏlgŏn'gon using Gemini 2.0 Flash) and they are assumed to be in the public domain. 
+
+All of the software was produced by Claude Sonnet 3.7 or ChatGPT 4o or Gemini 2.5 Experimental. No ownership over the code is claimed.
+
+
+
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or

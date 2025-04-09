@@ -1,0 +1,300 @@
+22	110	Fortunate or Unfortunate, Advantages and Disadvantages of Old and New Family Life	Ku O-hoe	Memoir/Reminiscence
+22	120	The Pain of Ignorance and a Sŏllŏngt'ang Existence, Advantages and Disadvantages of Old and New Family Life	Pak O-hŭi	Memoir/Reminiscence
+22	130	Guided by the Watchman's Clapper, All Reporters Mobilized, An Exploration of Great Kyŏngsŏng's Dark Night, From 12 AM on November 7th	First Team Songch'ak, Sŏkch'on	News/Report
+22	140	Guided by the Watchman's Clapper, All Reporters Mobilized, An Exploration of Great Kyŏngsŏng's Dark Night, From 12 AM on November 7th	Second Team, Pukkŭng, Namp'a, Sojŏ	News/Report
+22	150	Guided by the Watchman's Clapper, All Reporters Mobilized, An Exploration of Great Kyŏngsŏng's Dark Night, From 12 AM on November 7th	Third Team Manmulch'o	News/Report
+22	160	A Wild Goose Chase, Guided by the Watchman's Clapper, All Reporters Mobilized, An Exploration of Great Kyŏngsŏng's Dark Night, From 12 AM on November 7th	Fourth Team Miso, Ch'ŏngnyŏn, Samsŏk	News/Report
+22	170	Observation Car		Miscellaneous Writing
+22	180	Five Chŏn, One P'un, Three Copper Coins, Lamenting the Year-End Bonus	Iminsaeng	Memoir/Reminiscence
+22	190	The Bonus That Flew Away in a Dream, Lamenting the Year-End Bonus	Panwŏlsŏngin	Memoir/Reminiscence
+22	200	Year-End Joy and Sorrow Symphony	Hotang'a	Literary Miscellany
+22	210	Revealing the Secrets of Successful Year-End Sales Popular Around the World		Miscellaneous Writing
+22	220	Crossing the Pacific on a Steamboat, Dreams Dreams Dreams	Chŏng In-ik	Miscellaneous Writing
+22	221	Spring Dream	Kich'am	Poem
+22	230	Please Interpret My Dream, Dreams Dreams Dreams	Yŏm Sang-sŏp	Miscellaneous Writing
+22	240	Kiss's Thunderbolt, Dreams Dreams Dreams	Namk'asaeng	Miscellaneous Writing
+22	250	Great Fight with the Factory Supervisor, Dreams Dreams Dreams	Hwang Sin-dŏk	Miscellaneous Writing
+22	260	Became a King Then Only Got Beaten, Dreams Dreams Dreams	Yi Ryang	Miscellaneous Writing
+22	270	World-Shaking Event Extra Edition Published, Dreams Dreams Dreams	Sŏl Ŭi-sik	Miscellaneous Writing
+22	271	Composed by King Sukchong in a Dream		Poem
+22	280	Ice Skating Even in Dreams, Dreams Dreams Dreams	Yi Il	Miscellaneous Writing
+22	290	Realization of Building the Ideal School, Dreams Dreams Dreams	Chin Chang-sŏp	Miscellaneous Writing
+22	300	The Finest of Delicacies, Sinsŏllo, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Uposaeng	Literary Miscellany
+22	310	Chŏnju's Specialty T'akpaegiguk, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Tagajŏngin	Literary Miscellany
+22	320	Ch'ungch'ŏng Province's Specialty Chinch'ŏn Buckwheat Jelly, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Pak Ch'an-hŭi	Literary Miscellany
+22	330	Ch'ungch'ŏng Province's Specialty Chinch'ŏn Buckwheat Jelly, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Pibongsanin	Literary Miscellany
+22	340	Kyŏngsŏng Sŏllŏngt'ang Not to Be Slighted, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Uisaeng	Literary Miscellany
+22	350	World Delicacy Kaesŏng P'yŏnsu Dumplings, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Chin Hak-p'o	Literary Miscellany
+22	360	Taegu's Pride, Taegu's Taegu T'angban (Soup Rice), Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Talsŏngin	Literary Miscellany
+22	370	Rice Cake of Love, Rice Cake of Elegance, Yŏnbaek's Injŏlmi, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Changsusanin	Literary Miscellany
+22	380	Four Seasons' Specialty P'yŏngyang Cold Noodles, Masterpieces·Famous Goods·World Famous Foods: In Praise of Famous Foods of the Eight Provinces	Kim So-jŏ	Literary Miscellany
+22	381	Previous Issue Prize Announcement		Notice/Editorial Postscript
+22	390	People Who Come to Mind These Days	Tajŏngsaeng	News/Report
+22	400	The Fragrant Soul at Sword's Point, The Sad Tale of Consort Yu, Love Stories of the World's Three Beauties	Ch'osansaeng	Literary Miscellany
+22	410	Egyptian Queen, The Love Affairs of Cleopatra	Samsanin	Literary Miscellany
+22	420	Three Thousand Favors Concentrated in One Body, Emperor Ming of Tang's Yang Guifei - Explanation of the 'Song of Everlasting Sorrow' by the Sage of Poetry Bai Juyi (Paek Hyangsan) -	Ttottori	Literary Miscellany
+22	430	Autumn Night Moon over Kyemyŏng Mountain - Zhang Liang's (Chang Chabang) Elegant Tales	Sŏho Hagin	Literary Miscellany
+22	440	The Strange Habits of Artists		Miscellaneous Writing
+22	450	Overseas Affairs: The Conquest of North and South America by American Capitalism	Han Sŭng-jŏng (from America)	Editorial/Article
+22	460	An Overview of Manchuria, the Den of Bandits	Kim Il-lyŏl	News/Report
+22	470	Another Kind of World		Miscellaneous Writing
+22	480	Flower Wish		Miscellaneous Writing
+22	490	Two Jokes		Miscellaneous Writing
+22	500	Grand Year-End Party on Paper with All Men and Women of Kyŏngsŏng - Expulsion Order If You Don't Laugh		Dialogue/Roundtable Talk
+22	510	When Ordering Magazines		Notice/Editorial Postscript
+22	520	Creative Work: Sanjŏk (Skewers)	Ch'ae Man-sik	Novel/Fiction
+22	530	Ascending Ponghwangdae (Phoenix Terrace)	Roa	Poem
+22	540	"The Moon" and "Sentimentalism"		Poem
+22	550	Woman - Path of Groping Memories -	Kim Tong-in	Novel/Fiction
+22	560	Serial Storytelling: Morning, Part 7: A Refreshing Dream	Chŏng Tae-hyŏn	Literary Miscellany
+22	570	Scribbles from the Editorial Office		Notice/Editorial Postscript
+22	580	Master of Unconventional Ideas! Kwansŏ's Famous Kim Pong-i	Kim Chin-gu	Literary Miscellany
+22	590	Secret History of the Imperial Russian Court: The Life Story of the Mad Monk Rasputin	Ch'wiunsaeng	Literary Miscellany
+22	600	Postcard Correspondence		Miscellaneous Writing
+22	610	Master of Both Pen and Sword, Lord of Ten Thousand Households, Tanch'ŏn Hero Sim Hyŏpkok	Sim Ho-yŏn of Tanch'ŏn	Miscellaneous Writing
+22	620	The Conscious Construction of Daily Life	Kim Ki-jŏn	Miscellaneous Writing
+22	630	The Significance of Lifting the Gold Embargo	Sŏ Ch'un	Editorial/Article
+22	640	The Korean Language Dictionary and the Korean People	Yi Kŭng-no	Editorial/Article
+22	650	The Origin of Hangeul	Kim Yun-gyŏng	Editorial/Article
+22	660	The Charm of Korean Songs and Poetry	An Cha-san	Editorial/Article
+22	670	The Revival of the Nation and Physical Education	Sŏ Sang-ch'ŏn	Editorial/Article
+22	680	The Legal Status of Women	Yi In	Miscellaneous Writing
+22	690	Individual Life and Group Life	Yi Ton-hwa	Miscellaneous Writing
+22	700	Establishment of New Branch Office		Notice/Editorial Postscript
+22	710	Grand Prize Question Offering One Sŏm of White Rice		Notice/Editorial Postscript
+23	010	Tenth Anniversary of Founding Publication		Miscellaneous Writing
+23	020	Changes in Korea Over Ten Years		Editorial/Article
+23	030	New World Figures Who Became Topics of Conversation Over Ten Years		News/Report
+23	031	Establishment of New Branch Office		Notice/Editorial Postscript
+23	040	Secret Techniques for Ageless Longevity from All Times and Places		Miscellaneous Writing
+23	050	Drifting East and West, Falling Seven Times and Rising Eight, Records of Great People's Struggles,		Literary Miscellany
+23	060	Ten-Year Retrospectives by Various Figures from Various Fields,		Memoir/Reminiscence
+23	070	Russell's View on Marriage		Miscellaneous Writing
+23	080	Reforming Family Life: Things to Implement Starting from the New Year		Survey
+23	090	Acknowledgement/Apology Notice		Notice/Editorial Postscript
+23	100	Points for Men's Improvement as Seen by Women		Survey
+23	110	Points for Women's Improvement as Seen by Men		Survey
+23	111	Record of Kyŏng'o Years Over 4200 Years in World History		Miscellaneous Writing
+23	120	Stories Never Told to Anyone Until Now, Secret of Secrets,		Memoir/Reminiscence
+23	130	The Secret Story of the Horse-Headed Lady		Miscellaneous Writing
+23	140	Modern Lack-of-Common-Sense Bazaar/Festival	Songch'aksaeng	Miscellaneous Writing
+23	141	Korean History Diary Part 1: January Record	Ch'ŏng'osaeng	Miscellaneous Writing
+23	150	People Good to Befriend, People Bad to Befriend		Survey
+23	160	New Job Guide		Miscellaneous Writing
+23	170	Memoir of a Young Housewife	Kuk O-im	Memoir/Reminiscence
+23	171	Postcard Correspondence Welcome		Notice/Editorial Postscript
+23	180	Collection of Aphorisms by World Literary Masters (1)		Miscellaneous Writing
+23	190	Trends Ten Years Later	Pak No-a	Miscellaneous Writing
+23	191	Special Request to Our Readers		Notice/Editorial Postscript
+23	200	Another Kind of World		Miscellaneous Writing
+23	201	Kaebyŏk Publishing Company Tenth Anniversary Commemoration Plan		Notice/Editorial Postscript
+23	202	New Year Grand Prize Contest		Notice/Editorial Postscript
+23	210	Amazingly Changing Chinese Women	Kim So-jŏ	Editorial/Article
+23	220	New Year's Games in Sŏgando (West Jiandao)	Ryang Ch'ŏn (in Changbai County)	Literary Miscellany
+23	230	New Spring Horse Racing Tournament on Paper	Physiognomist	Literary Miscellany
+23	240	Anecdotes from the European and American Horse Racing World	Oeyusaeng	Miscellaneous Writing
+23	250	Horse Racing Story	Kim Tong-in	Literary Miscellany
+23	260	British Legal and Political History Stories, Kingdoms That Disappeared on the Guillotine		Literary Miscellany
+23	270	Mad Monk Rasputin (Part 2)	Ch'wiunsaeng	Literary Miscellany
+23	280	Modernism	Iminsaeng	Editorial/Article
+23	290	Modern Real Estate Agency		Miscellaneous Writing
+23	300	Grand Satire: The Secret Art of Social Success		Miscellaneous Writing
+23	310	Poksuni	Kim Hwa-san	Poem
+23	320	New Year's Eve (and 1 other piece)	Roa	Poem
+23	330	Woman (Continued), Path of Groping Memories	Kim Tong-in	Novel/Fiction
+23	340	Kisaeng Sanwŏl	Yi T'ae-jun	Novel/Fiction
+23	341	Acknowledgement/Apology Notice		Notice/Editorial Postscript
+23	350	After That	Ch'ae Man-sik	Novel/Fiction
+23	360	Postcard Correspondence		Miscellaneous Writing
+23	370	Scribbles from the Editorial Office		Notice/Editorial Postscript
+24	001	Sword Inscription	Yi Sun-sin (Ch'ungmugong)	Poem
+24	010	Let Us Also Know Tomorrow, A New Spring Message to the People	Yun Ch'i-ho	Editorial/Article
+24	020	Korean History Diary (Part 2) February Record		Miscellaneous Writing
+24	030	Collection of Aphorisms by World Literary Masters (2)		Miscellaneous Writing
+24	040	Life and Time, A New Spring Message to the People	Ch'oe Rin	Editorial/Article
+24	050	Cultivate the Spirit First, A New Spring Message to the People	Han Yong-un	Editorial/Article
+24	060	Through Education, A New Spring Message to the People	Kim Ryŏ-sik	Editorial/Article
+24	070	Tangible and Intangible Assets, A New Spring Message to the People	Yi Kŭng-no	Editorial/Article
+24	080	Modern Secret History: Yuan Shikai's Imperial Conspiracy, Secret Tales of the World's Three Great Conspiracies	A Reporter	Editorial/Article
+24	090	The Great Conspiracy of the Racial Secret Society, the 'Bright Nation' KKK, Secret Tales of the World's Three Great Conspiracies	A Reporter	Editorial/Article
+24	100	Mussolini's Ideal Village		Miscellaneous Writing
+24	110	The World War and the Pope of Rome, Secret Tales of the World's Three Great Conspiracies	A Reporter	Editorial/Article
+24	120	Hidden Workers (Part 1)	A Reporter	News/Report
+24	130	Skipping Four Meals and Living Like a Monk, Stories of Starvation	Ch'oe Hak-song	Memoir/Reminiscence
+24	140	Great Hunger in Taegu, Stories of Starvation	Pak No-a	Memoir/Reminiscence
+24	150	Deeply Impressive Kyerimjang Inn, Stories of Starvation	Kim Chin-gu	Memoir/Reminiscence
+24	160	Miryang's Female Hero Ko Wŏn-sŏp, An Impressive Woman Visited	Ch'a Sang-ch'an	News/Report
+24	170	Kim U-yŏng's Wife Na Hye-sŏk, An Impressive Woman Visited	Kim Ki-jŏn	News/Report
+24	180	Ch'oe Ŭi-sun and Kim Kŭn-sil, Impressive Women Visited	Pang Chŏng-hwan	News/Report
+24	190	Sim Hyŏng-p'il's Wife, An Impressive Woman Visited	Ch'oe Chin-sun	News/Report
+24	200	Unforgettable Words from Husbands		Survey
+24	210	Grand Satire: New Spring Roundtable Discussion on Paper	Attended by Various Dignitaries from Various Fields	Dialogue/Roundtable Talk
+24	220	If I Were in the World of Journalism		Survey
+24	230	Superstitions About Marriage		Editorial/Article
+24	240	Love Marriage Romance		Memoir/Reminiscence
+24	241	Previous Issue Prize Announcement		Notice/Editorial Postscript
+24	250	Record of Denunciation of Famous Men by an Anonymous Woman	P. M. S	Miscellaneous Writing
+24	260	Another Kind of World		Miscellaneous Writing
+24	270	Team Fight (P'yŏnssaum), Korean New Year's Games	Yun Paek —	Literary Miscellany
+24	280	Tug-of-War, Korean New Year's Games	Pak No-a	Literary Miscellany
+24	290	Ssireum (Korean Wrestling), Korean New Year's Games	Yi Kil-yong	Literary Miscellany
+24	300	Survey of Old Korean Customs: Lunar New Year Events		Miscellaneous Writing
+24	301	Establishment of New Branch Office		Notice/Editorial Postscript
+24	310	Organizing a Life Improvement League, Measures to Abolish Dual New Year Celebrations	Han Ki-ak	Editorial/Article
+24	320	Awaken the Housewives of Every Home, Measures to Abolish Dual New Year Celebrations	Sin Albert	Editorial/Article
+24	330	Korea with Many New Years! Korea without New Years!, Measures to Abolish Dual New Year Celebrations	Ch'unp'a	Editorial/Article
+24	340	Moving Lunar Ancestral Rites to the Solar Calendar, Measures to Abolish Dual New Year Celebrations	Song Chin-u	Editorial/Article
+24	350	Think Carefully and Act Earnestly, Measures to Abolish Dual New Year Celebrations	Pak Sŭng-bin	Editorial/Article
+24	360	Imaginary Couple's Grand Reception Banquet on Paper		Miscellaneous Writing
+24	370	My Writing is Time, That Work and That Time	Yi Ŭn-sang	Literary Miscellany
+24	380	Running When Going Out, Writing When Coming In, That Work and That Time	Kim Ŭrhan	Literary Miscellany
+24	390	Laying Out and Sorting, That Work and That Time	Sin Kyŏng-jŏng	Literary Miscellany
+24	400	Postcard Correspondence		Miscellaneous Writing
+24	410	Great Dictionary of New Words		Miscellaneous Writing
+24	420	Mothers of Great Men		Miscellaneous Writing
+24	430	Modern Real Estate Agency		Miscellaneous Writing
+24	440	Critical Review of the Three Newspapers' Roundtable Discussions	Wadamsaeng	Editorial/Article
+24	450	Getting Hair Branded in the Modern Wind, Stories of My Mistakes	Kong Pong-jae	Memoir/Reminiscence
+24	460	This Too Was a Mistake, Stories of My Mistakes,	Ch'ae Man-sik	Memoir/Reminiscence
+24	470	Visiting a Sick Friend and Bursting into Someone Else's Inner Courtyard, Stories of My Mistakes	Ch'a Sang-ch'an	Memoir/Reminiscence
+24	480	To Someone Else's Maiden Daughter, Stories of My Mistakes	Pang So-p'a	Memoir/Reminiscence
+24	481	Kaebyŏk Publishing Company Tenth Anniversary Commemoration Plan		Notice/Editorial Postscript
+24	490	Review of Various Shops' Calendars	A Reporter	Miscellaneous Writing
+24	500	My Wife	Kim Hwa-san	Poem
+24	510	Night Pilgrimage	Roa	Poem
+24	520	Pyŏngjo and Manbogi (1)	Ch'ae Man-sik	Novel/Fiction
+24	521	Grand Prize Question		Notice/Editorial Postscript
+24	530	Brother and Sister	Ch'oe In-a	Novel/Fiction
+24	540	New Spring	Kim Yŏng-p'al	Literary Miscellany
+24	550	Worry is Fate	Nokye	Literary Miscellany
+24	560	Laughter	Pang Ch'un-hae	Literary Miscellany
+24	570	Gleanings (Naksu)	Iminsaeng	Literary Miscellany
+24	580	New Year's Eve	Kim So-jŏ	Literary Miscellany
+24	590	Record of Traversing Great Manchuria	Kim Ŭi-sin	Travelogue
+24	600	Recent Korean History: Thirteen Lectures (1)	Kim Ki-jŏn	Editorial/Article
+24	610	The Measure of Korean Folk Songs	An Cha-san	Editorial/Article
+24	620	A Brief Study on Opium		Editorial/Article
+24	630	Hobby-Oriented Popular Electricity Common Sense Lecture	Yi Paek-kyu	Editorial/Article
+24	640	New Spring Horse Racing Tournament on Paper (Continued)		Editorial/Article
+24	641	Postcard Correspondence		Notice/Editorial Postscript
+24	650	The Golden Age of Automobiles		Miscellaneous Writing
+24	660	Scribbles from the Editorial Office		Notice/Editorial Postscript
+25	010	Great Men, Hardship, Effort: Son Pyŏng-hŭi (Ŭiam)'s Courage and Sincerity	Pak Tal-sŏng	Editorial/Article
+25	020	Great Men, Hardship, Effort: Napoleon and the Foundation of France	Paengnyŏng	Editorial/Article
+25	030	Great Men, Hardship, Effort: The Tale of Fan Sui Escaping the Latrine and Seeking Revenge	Wŏrhŏin	Editorial/Article
+25	040	Great Men, Hardship, Effort: King Zog I (Ahmet Zogu) of Albania	Ch'ŏng'osaeng	Editorial/Article
+25	050	Great Men, Hardship, Effort: The Hundred Years' War and Joan of Arc (Tchantak'ŭ)	Sojŏ	Editorial/Article
+25	060	1930 World Outlook, German Politics in 1930	Kim Chang-hwan	Editorial/Article
+25	070	1930 World Outlook, Politics in the Rising Nation of Turkey	Yi Yŏ-sŏng	Editorial/Article
+25	071	(Untitled)		Notice/Editorial Postscript
+25	080	Another Kind of World		News/Report
+25	090	One Person, One Text: Secretary Chang Doesn't Know	Yi T'ae-jun	Literary Criticism
+25	100	One Person, One Text: Forty Years Old	Ch'unwŏn	Literary Miscellany
+25	110	One Person, One Text: Trains, Streetcars, Automobiles	Im In	Literary Miscellany
+25	120	One Person, One Text: Erosion Control Works	Soch'un	Literary Miscellany
+25	130	One Person, One Text: The Origin of All Things	Mangjunghanin	Literary Miscellany
+25	140	One Person, One Text: Rubber Shoes	Yun Sŏng-sang	Literary Miscellany
+25	150	Secret Stories of the White House, The Inside Story of Past Presidents' Political Lives	Namp'a	Miscellaneous Writing
+25	160	The Origin of the Cocktail		Miscellaneous Writing
+25	161	Submissions Greatly Welcomed		Notice/Editorial Postscript
+25	170	National Characters of Various Countries Around the World	Inwangsanin	Editorial/Article
+25	180	Hidden Workers (Part 2)		News/Report
+25	181	Previous Issue Prize Announcement		Notice/Editorial Postscript
+25	190	Modern Real Estate Agency		Miscellaneous Writing
+25	200	Story of Being Tailed, Ended Up Being Indebted Instead	Pang So-p'a	Memoir/Reminiscence
+25	210	Korean History Diary		Miscellaneous Writing
+25	220	Story of Being Tailed, Due to a Coincidence	Yi Sŏng-hwan	Memoir/Reminiscence
+25	230	Story of Being Tailed, Pretending to Sleep at the Sports Field	Sŏ Ch'un	Memoir/Reminiscence
+25	240	Brilliant Idea / Famous Case		Miscellaneous Writing
+25	250	New Women of a Rising Nation, Turkish Women Active in the Dawn Era		Editorial/Article
+25	260	New Women of a Rising Nation, The Women's Paradise of New Russia		Editorial/Article
+25	270	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+25	280	Imaginary Account: Impressions Before and After Meeting		Literary Miscellany
+25	290	Carthage's Patriotic Hero Hannibal	Paengnyŏngsaeng	Literary Miscellany
+25	300	Diary of a Female Worker at a Silk Reeling Company	U Sun-ok	Literary Miscellany
+25	301	Diary of a Male Worker at a Certain Monopoly Bureau	Kim Il-su	Notice/Editorial Postscript
+25	310	Kyŏngsŏng Notables, A Collection of Plain Talk about Figures	Physiognomist	News/Report
+25	320	Postcard Correspondence		Miscellaneous Writing
+25	330	Something Unknowable / Mysterious Event		Literary Miscellany
+25	340	Legal Common Sense for Women		Editorial/Article
+25	350	Dictionary of New Words (2)		Miscellaneous Writing
+25	360	Britain's Opium Dens		Miscellaneous Writing
+25	370	What Made It Happen? Records of Life Born from Facts, Falling Flower? Flowing Water?	P'ayŏngsaeng	Literary Miscellany
+25	380	What Made It Happen? Records of Life Born from Facts, Light Pink Nude Body	Paengnyŏngsaeng	Literary Miscellany
+25	390	What Made It Happen? Records of Life Born from Facts, The 31-Year-Old Chaste Old Maid	Songch'aksaeng	Literary Miscellany
+25	400	What Made It Happen? Records of Life Born from Facts, Traces of Carnal Desire	Im In	Literary Miscellany
+25	410	Pyŏngjo and Yŏngbok (2)	Ch'ae Man-sik	Novel/Fiction
+25	420	The Laborer's Wife	Ch'oe In-a	Novel/Fiction
+25	430	Woman (3)	Kim Tong-in	Novel/Fiction
+25	431	Acknowledgement/Apology Notice		Notice/Editorial Postscript
+25	440	Welcoming Spring Essay: Greeting Ipch'un (First Day of Spring)	Ch'oe Hak-song	Literary Miscellany
+25	450	Welcoming Spring Essay: Spring is Coming! Spring!	Pak No-a	Literary Miscellany
+25	460	Welcoming Spring Essay: The Prophecy of "Spring"	Ch'oe Sŭng-il	Literary Miscellany
+25	470	Welcoming Spring Essay: Spring Day	Kim So-jŏ	Literary Miscellany
+25	480	Welcoming Spring Essay: Spring Comes, But It Doesn't Feel Like Spring	Im In	Literary Miscellany
+25	490	Spring Special Feature Appendix: Recent Korean History: Thirteen Lectures	Kim Ki-jŏn	Editorial/Article
+25	500	The Two White Horses of North and South Seen from National Defense, The Tears of Sŏng Sam-mun (Sŏngch'ung) and the Secret Plans of Im Kyŏng-ŏp	Yang Pang-hwan	Literary Miscellany
+25	510	Physiology Lecture: Determination of Male and Female Characteristics, Secondary Sexual Characteristics	Kim T'ae-hun	Editorial/Article
+25	520	University of Laughter		Literary Miscellany
+25	530	The Social Life of Termites	Kyŏnghwa	Editorial/Article
+25	540	Kleptomaniac Patient	Pak Chin	Play/Scenario
+25	550	Interlude Amidst Chaos		Miscellaneous Writing
+25	560	Home Emergency Treatment, Hospital on Paper		Editorial/Article
+25	561	Establishment of New Branch Office		Notice/Editorial Postscript
+25	562	New Prize Question		Notice/Editorial Postscript
+25	570	Editorial Scribbles		Notice/Editorial Postscript
+26	001	Sijo of the Flower Season		Poem
+26	010	Opinions of Notables on the Wedding Ceremony We Should Have		Editorial/Article
+26	020	Marriage Preparations for Young Men and Women	Pukkŭngsaeng	Editorial/Article
+26	030	Earnest Request to Unmarried Men and Women (From Married Men and Women)		Survey
+26	040	Marriage Ideals of Modern Men and Women Graduating This Spring		Literary Miscellany
+26	050	Modern Women's Ideals for Choosing Sons-in-Law and Daughters-in-Law		Survey
+26	060	Exhibition of Curious Foreign Wedding Customs	Oeyusaeng	Literary Miscellany
+26	070	Meredith's View on Marriage		Miscellaneous Writing
+26	080	The Cutting Edge of Marriage: The Story of Companionate Marriage		Literary Miscellany
+26	090	Debate on the Pros and Cons of Companionate Marriage	Namp'asaeng	Editorial/Article
+26	100	Another Kind of World		Miscellaneous Writing
+26	110	What Makes Them Live a Single Life?, Confessions of Lonely People		Literary Miscellany
+26	120	Strange Tales of Marriage of Great Figures Throughout History	Such'unsanin	Literary Miscellany
+26	130	MODERN COLLEGE Opening Lectures		Editorial/Article
+26	140	Various Sounds of Spring Birds (Part 1)		Miscellaneous Writing
+26	150	Me as I See Myself: Notables' Views of Self		Survey
+26	160	Needlessly Drawn/Painted		Miscellaneous Writing
+26	170	One Person, One Text		Literary Miscellany
+26	180	Humor and Satire: Spring Grand Cleaning	Janitor/Cleaner	Literary Miscellany
+26	190	What Made It Happen? Records of Life Born from Facts		Literary Miscellany
+26	200	Toothless Animals		Miscellaneous Writing
+26	210	Two Hundred and Nine Items		Miscellaneous Writing
+26	220	The Jazz Scene of Ch'anggyŏngwŏn's Night Cherry Blossoms Reflected in Drunken Eyes, A Cartoon Drawn with Words		Literary Miscellany
+26	230	Mobile Roundtable Discussion on Paper, The Real Situation Amidst Humor		Dialogue/Roundtable Talk
+26	240	Collection of Aphorisms by World Literary Masters		Miscellaneous Writing
+26	250	Imaginary Account: Impressions Before and After Meeting,		Memoir/Reminiscence
+26	260	Various Sounds of Spring Birds (Part 2)		Miscellaneous Writing
+26	270	Dictionary of New Words (3)		Miscellaneous Writing
+26	280	Advocating Adult Education	Yi Ton-hwa	Editorial/Article
+26	290	Opinions of Notables in This Field Regarding Adult Education		Editorial/Article
+26	300	Postcard Correspondence		Miscellaneous Writing
+26	310	The Current State of Adult Education in Various Countries Around the World	Wŏrhŏsaeng	Editorial/Article
+26	320	Modern Real Estate Agency		Social Commentary/Critique
+26	330	Came Here to Learn		Miscellaneous Writing
+26	340	Profile of Seoul Greeting Spring, Spring, Spring		Literary Miscellany
+26	350	Exhibition of Notables' Strange Habits	Physiognomist	Miscellaneous Writing
+26	360	Fragment / Epigram	Kim Hwa-san	Poem
+26	370	Fragments of 1930s Jazz-Style Films and the Young Poet	Kim Hwa-san	Poem
+26	380	The Poor Shepherd Boy on a Spring Day	Roa	Poem
+26	390	Six Folk Songs,		Poem
+26	400	Homecoming (Part 1)	Yu Chin-o	Novel/Fiction
+26	401	Acknowledgement/Apology Notice		Notice/Editorial Postscript
+26	410	Pyŏngjo and Yŏngbok (Complete)	Ch'ae Man-sik	Novel/Fiction
+26	420	April and the Death of Byron	Hong Ŭn-sŏng	Literary Miscellany
+26	430	Editorial Scribbles		Notice/Editorial Postscript
+26	440	Economic Common Sense: Industrial Rationalization	Sŏ Ch'un	Editorial/Article
+26	450	Home Sideline Businesses Using Applied Chemistry	Yun Chu-bok	Editorial/Article
+26	460	The Hidden History of the Injo Restoration (Coup)	Ch'a Sang-ch'an	Literary Miscellany
+26	470	Story of Experiencing the Kantō Army Disorder	Such'unsanin	Memoir/Reminiscence
+27	010	Recent Trends in World Politics	Kim Se-sŏng	News/Report
+27	011	Special Notice		Notice/Editorial Postscript
+27	020	Centered on Stalin, - Outlook for Russian Politics -	Yi Chŏng-sŏp	News/Report
+27	030	Results of the Disarmament Conference	Kim Chang-hwan	News/Report
+27	040	Postcard Correspondence		Miscellaneous Writing
+27	050	Random Talk on Current Affairs		Social Commentary/Critique

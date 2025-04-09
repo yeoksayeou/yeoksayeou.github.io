@@ -1,0 +1,300 @@
+33	150	Q&A Record (6)	Pak Ch'an-hŭi	Survey
+33	160	The Current Stage of Korean Industry (Continued)	Hong Sŏng-ha	Editorial/Article
+33	170	Q&A Record (7)	Yi T'ae-jun	Survey
+33	180	Chiang Kai-shek's Future Path	Chu Yo-han	Editorial/Article
+33	190	Traffic Survey Grand Prize Announcement		Announcement/Editorial Postscript
+33	200	The Issue of Currency Abolition in Red Russia	One Reporter	Editorial/Article
+33	210	The "Dumping" of Worker-Peasant Russia	Yi Chŏng-sŏp	Editorial/Article
+33	220	Random Talk on Current Affairs		Editorial/Article
+33	230	How Long Will the Depression Continue??, Grand Roundtable Discussion on Reviewing the Depression		Discussion/Roundtable
+33	240	Year-End Street Scenes of the Depression (1)	Yi Sŭng-man	Cartoon
+33	250	The "Raw" and "Cooked" Savages of Taiwan on the Brink of Rebellion, Their Lives and Future Destiny	Such'un Sanin	Editorial/Article
+33	260	The Three Great Rebellions of the World's Weak and Small Peoples: India's Mutiny (Sepoy Rebellion), -and the Early Stages of the Gandhi Movement-	Ch'ae Man-sik	Editorial/Article
+33	270	The Three Great Rebellions of the World's Weak and Small Peoples: The North China Incident, The Great Boxer Rebellion of Qing China	Ch'a Sang-ch'an	Editorial/Article
+33	280	The Three Great Rebellions of the World's Weak and Small Peoples: The Eternally Tragic History, Record of the Great Anti-War [Movement] in South Africa	Ch'oe Chin-sun	Editorial/Article
+33	290	An Account of Meeting Mr. Zhang Xueliang, King of Manchuria	Yi Kŭng-no	News/Report
+33	300	Year-End Street Scenes of the Depression (2)	Yi Sang-bŏm	Cartoon
+33	310	Year-End Street Scenes of the Depression (3)	Hyŏkp'a	Cartoon
+33	320	Traffic Survey (November Issue Prize Winner) Announcement		Announcement/Editorial Postscript
+33	330	Countermeasures After the Abolition of Exams in Various Higher Common Schools		Survey
+33	340	Groom Candidate Exhibition, Hosted by the Groom Qualification Screening Committee		Miscellaneous Writing
+33	350	Year-End Street Scenes of the Depression (4), (5)	Soje	Cartoon
+33	360	Account of a Home Visit to Mr. Kwŏn Tŏk-kyu	Soje	News/Report
+33	370	Smoking Room		News/Report
+33	380	The Faces of Korean Conscripted Laborers Seen Through Physiognomy (Part 4)	Pae Sang-ch'ŏl	Miscellaneous Writing
+33	390	Modern - Fortune Real Estate (Formerly Modern)		Social Commentary
+33	400	Critique of Students from Six Professional Schools		Editorial/Article
+33	410	Married People and Love Affairs		Miscellaneous Writing
+33	420	A World of Extraordinary Things		News/Report
+33	430	The True Identity of the Mysterious Beauty of Yŏngnam with a Dowry of 200,000 Yen, Traveling Thousands of Li Seeking a Groom		Miscellaneous Writing
+33	440	Postcard Correspondence, Kaebyŏk Publishing Company, Kyŏngun-dong, Keijō		News/Report
+33	450	Bonus Money = Bonus Money		Memoir/Recollection
+33	460	Rumor Mill		News/Report
+33	470	Fragmentary Thoughts on a Snowy Night	Noa	Literary Miscellany
+33	480	A Snowy Day	Kim Wŏn-ju	Literary Miscellany
+33	490	Snowscape	Pang In-gŭn	Literary Miscellany
+33	500	Twilight When Snow Falls		Literary Miscellany
+33	510	Special Announcement		Announcement/Editorial Postscript
+33	520	Our Song	Kim Hwa-san	Poetry
+33	530	Pandemonium of Seoul	Noa	Poetry
+33	540	The Goldsmith (and 3 others) (Rhymed)	Kim An-sŏ	Poetry
+33	550	Woman (8), The Path of Groping Memory	Kim Tong-in	Novel/Fiction
+33	560	Detective Novel: Secret of the Ill-fated House (Original Title... The Green Door)	H. Landon	Novel/Fiction
+33	570	Editorial Scribbles		Announcement/Editorial Postscript
+34	010	Foreword		Miscellaneous Writing
+34	020	Conclusion of 1930 and New Prospects for 1931 - World Issues, Far East Issues, Korea Issues -		Editorial/Article
+34	030	Battlefront Three Thousand Li!!		Miscellaneous Writing
+34	040	Smoking Room		Miscellaneous Writing
+34	050	Random Talk on Current Affairs		Literary Miscellany
+34	060	Total Korean Population Surpasses 22 Million, First Announcement of National Census Results		Editorial/Article
+34	070	The Ph.D. and the Collection of Theses		Editorial/Article
+34	080	Q&A Record 1		Discussion/Roundtable
+34	090	Q&A Record 2		Discussion/Roundtable
+34	100	Q&A Record 3,		Discussion/Roundtable
+34	110	Q&A Record 4		Discussion/Roundtable
+34	120	Q&A Record 5		Discussion/Roundtable
+34	130	Q&A Record 6,		Discussion/Roundtable
+34	140	Q&A Record 7,		Discussion/Roundtable
+34	150	Q&A Record 8		Discussion/Roundtable
+34	160	Q&A Record 9		Discussion/Roundtable
+34	170	New Year Thoughts from Various Dignitaries to Our Readers, In Order of Manuscript Arrival Instead of New Year's Cards		Miscellaneous Writing
+34	180	Pros and Cons of Worker-Peasant Russia's Currency Abolition, Addressed to "One Reporter"	Kim U-p'yŏng	Social Commentary
+34	190	The Sinmi Year (1931) and Korea	Such'un Sanin	Literary Miscellany
+34	200	The Self-Proclaimed King of Great Yan, Record of the Hong Kyŏng-nae Rebellion in the Sinmi Year, From the 18th Day of the 12th Month of Sinmi (1811) to the 18th Day of the 4th Month of Imsin (1812)	Ch'a Sang-ch'an	Literary Miscellany
+34	210	The Sinmi Yangyo (Western Disturbance of 1871)	Ch'wiun Saeng	Literary Miscellany
+34	220	The First Cry of the Kabo Tonghak Rebellion, The Rebellion of Yi P'il of Mun'gyŏng	Yi Ton-hwa	Literary Miscellany
+34	230	A New Year's Urgent Demand Letter Sent to Various Organizations, Fulfill Your Social Responsibilities Immediately		Editorial/Article
+34	240	An Honest Confession, My Repentance: Newspaper Reporter, Doctor, Magazine Person, Mahjong Addict		Literary Miscellany
+34	250	Editorial Postscript	Kaebyŏk Publishing	Announcement/Editorial Postscript
+34	260	Factory on Paper: Synthetic Gold, Artificial Silk	Yun Chu-bok	News/Report
+34	270	Kaebyŏk Publishing Company, Kyŏngun-dong, Keijō, Postcard Correspondence	A Newspaper Reader in the City	Miscellaneous Writing
+34	280	Great Year-End Nonsense, The Kim Sŏn-hak Incident and the Newspapers' Extra Edition War, Mountains Roar but Only a Mouse Appears	Nok An'gyŏng (Green Glasses)	Literary Miscellany
+34	290	Great Dictionary of New Words		Miscellaneous Writing
+34	300	The Fortunes of 1931 Seen Through I Ching Studies	Pae Sang-ch'ŏl	Literary Miscellany
+34	310	Record of Fifty-Eight Pairs of Twins in Keijō		Miscellaneous Writing
+34	320	Korea's First Great Suspicious Case, The Murder Incident on Chŏnsŏk Mountain = Who Killed Whom? A Great Sensation in Criminal Science =	Ch'oe Yong-hwan	Literary Miscellany
+34	321	Call for New Year Grand Prize Submissions		Announcement/Editorial Postscript
+34	330	Rumor Mill		Miscellaneous Writing
+34	340	Fashion Forecast for 1931		Literary Miscellany
+34	350	Figures to Be Released from Prison This Year		Miscellaneous Writing
+34	360	New Spring Grand Prize Announcement		Miscellaneous Writing
+34	370	Nonsense-Oriented, Untitled Roundtable Discussion, Among Our Company's Employees		Discussion/Roundtable
+34	380	Magazine Advisory Column		Announcement/Editorial Postscript
+34	390	A World of Extraordinary Things		Miscellaneous Writing
+34	391	Modern - Fortune Real Estate (Formerly Modern)		Social Commentary
+34	392	New Year Ode	Yu To-sun	Poetry
+34	393	Walking the Quiet Night Street	Ha Yun	Poetry
+34	394	Red Theme	Ha Yun	Poetry
+34	395	Moment	Ha Yun	Poetry
+34	396	Temptation of the Mist	Noa	Poetry
+34	400	Play: His Family Scene (One Act)	Ch'ae Man-sik	Play/Scenario
+34	410	Collection of Aphorisms from World Literary Masters		Miscellaneous Writing
+34	420	Detective Novel: Secret of the Ill-fated House (4), (Original Title... The Green Door)	H. Landon	Novel/Fiction
+34	430	Traffic Survey (December Issue Prize Winner) Announcement		Announcement/Editorial Postscript
+34	440	Editorial Scribbles		Announcement/Editorial Postscript
+35	010	Foreword		Announcement/Editorial Postscript
+35	020	Protesting to the Chinese Nationalist Government for the Million Compatriots in Manchuria	Yi Chŏng-sŏp	Editorial/Article
+35	030	The National Movement of the Philippines, Recently Reporting Independence Talks	Yi Yŏ-sŏng	Editorial/Article
+35	040	Debate on Whether to Dissolve the Sin'ganhoe		Survey
+35	050	Smoking Room		Social Commentary
+35	060	From Separation to Union: The Great Merger of Christian North-South Methodists and Ch'ŏndogyo New-Old Factions		Editorial/Article
+35	070	Review of the Kyŏngin (Seoul-Incheon) Merger Issue	Sin T'ae-ik	Editorial/Article
+35	080	Lifestyle Improvement and Our Extended Family System	Puk Ung-saeng	Editorial/Article
+35	090	Continuation of the Economic Panic and the Future of the Minseitō Cabinet	Ham Sang-hun	Editorial/Article
+35	100	My Face as I See It		Miscellaneous Writing
+35	110	Rumor Mill		News/Report
+35	120	Three Issues Carried Over While Forgotten		Editorial/Article
+35	121	New Year Issue Prize Winner Announcement		Announcement/Editorial Postscript
+35	130	Q&A Record		Survey
+35	140	Random Thoughts on Current Times		Social Commentary
+35	150	Magazine Advisory Column		Announcement/Editorial Postscript
+35	160	The Chinese Red Communist Army Threatening the World, Its Organization and Activities	Kim Se-yong	Editorial/Article
+35	170	Ebert and the German Revolution	Yi Kap-su	Editorial/Article
+35	180	Student Magazine Oratory Contest: Let's Take a Broad View of Reality	Yi Tong-gyu, Hwimun Higher Common School	Editorial/Article
+35	181	(Untitled - Kukp'yŏn)		Announcement/Editorial Postscript
+35	190	Student Magazine Oratory Contest: The True Meaning of Adversity	Yi Myŏng-sŏp, Chungang Higher Common School	Editorial/Article
+35	200	Factory on Paper (2): Coal, Enameled Ironware	Yun Chu-bok	Editorial/Article
+35	210	Abnormality on the Job Front!		Social Commentary
+35	220	Postcard Correspondence, Kaebyŏk Publishing Company, Kyŏngun-dong, Keijō		Miscellaneous Writing
+35	230	Two True Stories: The Million Yen Incident of the Im Family Whose Complaint Was Even Lost	Yu To-sun	Miscellaneous Writing
+35	240	Two True Stories: Until the Revenge Marriage with a Man in Between	Yi Tong-wŏn	Miscellaneous Writing
+35	250	Letter to Hanullim	Wŏnch'ŏna (Child Resenting Heaven)	Literary Miscellany
+35	260	Account of Meeting the Pope in Rome	Yi Kap-su	Travelogue
+35	261	Call for New Prize Submissions		Announcement/Editorial Postscript
+35	270	Secret History of the 18th Century Russian Court: Empress of Vengeance, Catherine	Kyŏng Hwa-saeng	Literary Miscellany
+35	271	New Prize Questions		Announcement/Editorial Postscript
+35	280	Great Dictionary of New Words		Miscellaneous Writing
+35	290	Contrast of Strengths and Weaknesses		Survey
+35	300	Strengths of People from Various Countries		Survey
+35	310	Account of Observing a Trial in the Kingdom of Yama (Hell)	Kim Chin-gu	Literary Miscellany
+35	320	Nonsense True Story Collection to Laugh and Talk About: A Female Student in the Valley (and 4 others)		Literary Miscellany
+35	330	A World of Extraordinary Things		Miscellaneous Writing
+35	340	Mysterious Country China: Legends of Immortality and Eternal Youth	Usŏk	Miscellaneous Writing
+35	350	Modern Fortune Real Estate (Formerly Modern)		Social Commentary
+35	360	(Play) Great Crash in Rice Prices (Act 1, Scene 2)	Ch'ae Man-sik	Play/Scenario
+35	361	Submissions Greatly Welcomed		Announcement/Editorial Postscript
+35	370	Detective Novel: Secret of the Ill-fated House (5) (Original Title... The Green Door)	H. Landon	Novel/Fiction
+35	380	Short Skit: The Hospitalized Woman	Son Yŏng-nyŏl (from P'yŏngyang)	Play/Scenario
+35	390	Departure	Kim Hwa-san	Poetry
+35	400	My Heart Like a Stovepipe Cannot Be Polished (and 1 other)	Ha Yun	Poetry
+35	410	I Mourn My Pale Heart	Noa	Poetry
+35	420	Four Pieces for Passing Time - Free Translation of Rhymed Chinese Poems	Kim An-sŏ	Poetry
+35	430	Editorial Scribbles		Announcement/Editorial Postscript
+36	010	Foreword	Editor	Announcement/Editorial Postscript
+36	020	What Will Happen to the Sin'ganhoe?	Kim Chun-mo	Editorial/Article
+36	030	Q&A Record		Survey
+36	040	What is the Cause of the Murderous Price Crash? The First Lesson in Essential Current Economic Knowledge for Everyone!!		Discussion/Roundtable
+36	050	Story of the Rapidly Changing World Situation	Hoyŏndang In	News/Report
+36	060	Viewing Great Buildings (Part 1) - Ch'ŏndogyo Central Church (Keijō)		News/Report
+36	070	Q&A		Survey
+36	080	To Our Readers		Announcement/Editorial Postscript
+36	090	Announcement of Prize Winners for the Previous February Issue		Announcement/Editorial Postscript
+36	100	I Won't Send My Daughter to School Even If I Have One: Proposing Reforms in Girls' School Education	Pang Chŏng-hwan	Editorial/Article
+36	110	Revealing the Details of Various Schools in Keijō to Answer Provincial Parents: Which School is Good to Send [Children] To?	Ch'a Sang-ch'an	News/Report
+36	120	A World Where Only Women Live, Part 1: Convent - Nun's Quarters - Girls' School Dormitory	Nok * Kyŏng	Miscellaneous Writing
+36	130	Is Mr. An Ch'ang-nam Really Alive?	One Reporter	News/Report
+36	140	This Fight and That Fight Within Korea	One Reporter	Social Commentary
+36	150	Wonders of the Body	Puk Pi-saeng	Miscellaneous Writing
+36	160	Story of Beginnings		Miscellaneous Writing
+36	170	How to Read More Cheaply		Announcement/Editorial Postscript
+36	180	Strange Cases, Clever Answers		Miscellaneous Writing
+36	190	Three Hundred Beauties in Naked Frenzied Dance: Look at This Fact That Angers Gods and Men!! OO Cult Followers Deep in the Mountains of Kangwŏn Province!!	Sŏk Nam-saeng	Social Commentary
+36	200	Rubber Balloon		Miscellaneous Writing
+36	210	Editorial Remarks		Announcement/Editorial Postscript
+36	220	Movie Star's Adventure Stunt Double: A Job Exchanged for Life	Ŭn'mak (Silver Screen)	News/Report
+36	230	Record of Warnings/Scandals		Miscellaneous Writing
+36	240	Sad Story of the Sixteen-Year-Old Beauty Kim Kŭm-sŏn: Wandering the Streets as a Star Circus Performer	Yi T'ae-un	Social Commentary
+36	250	Kaleidoscope		News/Report
+36	260	Scenes of a New 'Mobo/Moga' Family Seen by a Housemaid		Social Commentary
+36	270	Draft Talks on the Republic (Random Talk): Two or Three * Techniques	Yun Paeng-nam	Miscellaneous Writing
+36	280	Yadam (Unofficial History/Folktale): The Handsome Youth Who Murdered a Young Maiden	Kim Chin-gu	Literary Miscellany
+36	290	The Origin of the Hansik Festival		Literary Miscellany
+37	010	Grand Prize for 100 Winners		Announcement/Editorial Postscript
+37	020	What About the National Cooperative Front After the Dissolution of the Sin'ganhoe?	Kim Ch'i-ok	Editorial/Article
+37	030	How Will the World Change by 1940?	Kkedesŭ	Miscellaneous Writing
+37	040	Essential Current Economic Knowledge for Everyone, Second Lesson: Today's Problem - Why Are Koreans Becoming Poorer?	Sŏ Ch'un	Discussion/Roundtable
+37	050	Love Austerity	Aengdowŏn In (Person from Cherry Orchard)	Social Commentary
+37	060	Kaleidoscope		News/Report
+37	070	Viewing Great Buildings (Part 2): Central YMCA (Chongno, Keijō)		News/Report
+37	080	Land of the Mad: Infiltration Report of East Room No. 8, Over Forty Abnormal Men and Women		News/Report
+37	090	Our Common Knowledge Talk - What is a Cooperative Union?	Kim Kyŏng-jae	Editorial/Article
+37	100	It is Said... Miss Ch'oe Sŭng-hŭi Got Engaged.		Discussion/Roundtable
+37	110	Married Life Reader: A Strategy for Renewing Love?	Kim Yŏng-p'al	Miscellaneous Writing
+37	120	A Hundred Flowers in Full Bloom		Miscellaneous Writing
+37	130	What Will Happen to the Chungoe Ilbo, the Problem Among Problems?	Il Kiu Saeng (One Worrier)	Editorial/Article
+37	140	Tower of a Hundred Flowers		Miscellaneous Writing
+37	150	Miss Yi Chŏng-hŭi's Public Self-Statement	Yi Chŏng-hŭi	Memoir/Recollection
+37	160	Story of Beginnings (2)	Such'un Hagin	Miscellaneous Writing
+37	170	Protest to Father	Yua Cha (Wandering Son)	Literary Miscellany
+37	180	Happy News		Announcement/Editorial Postscript
+37	190	Great Circulation Increase		Announcement/Editorial Postscript
+37	200	Leap Forward Special Feature		Announcement/Editorial Postscript
+37	210	Grand Prize Questions		Announcement/Editorial Postscript
+37	220	The Secret to Ordering		Announcement/Editorial Postscript
+37	230	Story of the World Situation	Hanyang Hagin	News/Report
+37	240	Q&A Record		Survey
+37	250	Mourning Silch'ŏn Girls' School	One Reporter	Literary Miscellany
+37	260	The Honest Confession and Appeal of a Trampled Female Rice Mill Worker		Memoir/Recollection
+37	261	Apology Notice		Announcement/Editorial Postscript
+37	270	Special Issue True Story: The Extreme of Human Cruelty, The Massacre Incident of Forty-Eight Women, A Wonder in Modern Criminal History!!		News/Report
+37	280	Editorial Remarks		Announcement/Editorial Postscript
+38	010	To a New Country!	Lyrics by Yi Kwang-su	Poetry
+38	020	Today's Issue: Story of the Local Autonomy System	Kim Se-sŏng	Editorial/Article
+38	030	Essential Current Economic Knowledge for Everyone, Third Lesson!!: The Brutally Fallen Cocoon Price, This Year's Spring Cocoons are 1 Yen 80 Sen	Sŏ Ch'un	Discussion/Roundtable
+38	040	How Did the Movement to Dissolve the Hyŏngp'yŏngsa Turn Out?	Kwŏn Sŭng-dŏk	Editorial/Article
+38	050	Kaleidoscope		Miscellaneous Writing
+38	060	Story of the Rapidly Changing World Situation	Hanyang Hagin	News/Report
+38	070	Entrance Exam Fraud Occurring in the Office of a Certain School in Keijō	Hŏmgu Saeng (Sharp-tongued Person)	Social Commentary
+38	080	Statistics Room		News/Report
+38	090	Korea's World-Class Great Boxer, Mr. Hwang Ŭl-su		News/Report
+38	100	Why Did Those Women Commit Suicide by Train? The Aftermath of the Yŏngdŭngp'o Railway Suicide Incident of Miss Hong and Miss Kim	Pongmyŏna (Masked Child)	Social Commentary
+38	110	Couple's Reader: The Great Scripture of New Family Married Life	No Sinrang (Old Groom)	Miscellaneous Writing
+38	120	Cartoon: Before Marriage and After Marriage		Cartoon
+38	130	Seven Great Traps That Ruin Female Students	Mumyŏngch'o (Nameless Grass)	Social Commentary
+38	140	Problem of Problems: Let's Not Have Many Children	Kim Kwang-sŏk	Editorial/Article
+38	150	Investigation into the Content of a Meeting Whose Content is Unknown	T'ambo Saeng (Investigative Reporter)	News/Report
+38	160	A Hundred Flowers in Full Bloom		Miscellaneous Writing
+38	170	Editorial Postscript		Announcement/Editorial Postscript
+38	180	Miss Ch'oe Sŭng-hŭi Marries a Professional Artist, Will Devote Herself to Professional Dance in the Future		News/Report
+38	190	Record of Our Company's Female Reporter Apprehending Delinquent Gentlemen		Social Commentary
+38	200	Special Reading: Great Bizarre True Story ÷ Virgin Ghost! Virgin Ghost!	Sam Sanin	Miscellaneous Writing
+39	010	New Arirang	Hoyŏndang In	Poetry
+39	020	What Will Become of the Mass Movement After the Dissolution of the Sin'ganhoe?	Pak Kun-sik	Editorial/Article
+39	030	Modern Figures Photo Report (Part 11)		News/Report
+39	040	Essential Economic Knowledge for Everyone, Lesson 4!! Story of Money, Money, Money	Sŏ Ch'un	Discussion/Roundtable
+39	050	Story of the Rapidly Changing World Situation	Hanyang Hagin	News/Report
+39	060	Kaleidoscope		Miscellaneous Writing
+39	070	The World Seen Wearing a "Pangat" (Rain Hat) in Broad Daylight in Great Keijō	Yi Sŏ-gu	Memoir/Recollection
+39	080	Story of Jujutsu Master Mr. Kang Nak-wŏn Fighting and Winning Against a World-Class Boxer	Sam Sanin	Memoir/Recollection
+39	090	Statistics Room		News/Report
+39	100	Things I Desire		Survey
+39	110	Curious! Very Curious: The 8 Great Curious Occupations of Summertime	Songjak Saeng	Miscellaneous Writing
+39	120	Cool Talk Under the Blue Lamp (Ghost Stories/Weird Tales)		Miscellaneous Writing
+39	130	Cutting-Edge Tactics to Occupy the Classroom: The Allied School Strike Incident of Two Girls' Schools	Yi T'ae-un	News/Report
+39	140	Modern Figures Photo Report (Part 12)		News/Report
+39	141	Apology Notice		Announcement/Editorial Postscript
+39	150	Sad Story of Tano: Beauties and Loyal Subjects Buried in Fishes' Bellies	Ch'a Ch'ŏng-o	Literary Miscellany
+39	160	Great Strange Customs, Great Curious Habits: World's Most Uniquely Curious Marriages	Sin Ki (in Nanjing)	News/Report
+39	170	Editorial Leftovers/Jottings		Announcement/Editorial Postscript
+39	180	History of the Imjin War: Record of Admiral Yi Sun-sin's Three Great Victories	Ch'angsŏk Saeng	Editorial/Article
+39	190	Viewing Great Buildings (Part 4): Hwimun Higher Common School		News/Report
+39	200	Eternally Tragic: (Yadam) The Tomb of the Seven Hundred Righteous Martyrs of Kŭmsan	Kim Chin-gu	Literary Miscellany
+40	010	Song of the Haenyeo: Cheju Island Folk Song		Literary Miscellany
+40	020	The Truth of the Wanpaoshan Incident that Caused Unfortunate Events	Pak Sa-ch'ŏng	News/Report
+40	030	Today's World Problem: War Debts and Reparations, What is a Payment Moratorium?	Hoyŏndang In	Editorial/Article
+40	040	Recent New News: The Changing World Situation		News/Report
+40	050	Great Keijō's Full Mobilization of Ero, Gro, Terror, and Ugliness		Social Commentary
+40	060	Record of Dignitaries Encountering Misfortune		Miscellaneous Writing
+40	070	Great Curious Fact of Modern Times: Tibet's Love War	Paengnyŏng	Miscellaneous Writing
+40	071	Company Announcement		Announcement/Editorial Postscript
+40	080	Kaleidoscope		News/Report
+40	090	Story of a Chinese Cruiser Captured by a Korean Kisaeng	Yi T'ae-un	Miscellaneous Writing
+40	100	Statistics Room		News/Report
+40	110	Extra of Extras		News/Report
+40	120	Ko Ok-tan, Child Murder Suspect Acquitted and Released Under the Blue Sky and White Sun	Kim Il-gu	Social Commentary
+40	130	America's Coded Telegram Interception Incident That Startles the Eyes and Ears of Nations		News/Report
+40	140	Dictionary of Argot for "Screen Door Friends" (Lovers/Secret Friends)		Miscellaneous Writing
+40	150	Yadam: Eternally Tragic, The Tomb of the Seven Hundred Righteous Martyrs of Kŭmsan (Part 2)	Kim Chin-gu	Literary Miscellany
+40	160	Night Tales from a Summer Resort		Literary Miscellany
+40	170	100% Ero-Gro Corpse Wedding Ceremony: A Strange Tale from T'ongyŏng		Miscellaneous Writing
+40	180	China's Red Women's Army Threatening the Nationalist Government	Hosang Nangin (Wanderer on the Shanghai Coast)	News/Report
+40	190	Editorial Remarks		Announcement/Editorial Postscript
+41	010	Be at Peace	Yi T'ae-jun	Poetry
+41	020	The Issue of Manchuria-Mongolia, Kando, and Koreans Immediately After the Wanpaoshan Incident	Pak Sa-ch'ŏng	Editorial/Article
+41	030	To Twenty Thousand Students on the Occasion of the New Autumn Semester: Sending Sons Away on Behalf of Rural Parents	Sin Hyŏng-ch'ŏl	Literary Miscellany
+41	040	Story of the World Situation Everyone Should Know	Kim Kwang-u	News/Report
+41	050	Statistics Room		News/Report
+41	060	Popular Aviator Lindbergh Couple Who Received Marriage Proposals from Over 300,000 Women: 20th Century Heroes Greater Than Presidents	Oemun Saeng (Foreign News Reporter)	News/Report
+41	070	Story of Korea's Famous Holiday, Ch'usŏk		Literary Miscellany
+41	080	Korea's 20-Year-Old Youth, World-Class Boxing Champion Mr. Sŏ Chŏng-gwŏn		News/Report
+41	090	Kaleidoscope		Miscellaneous Writing
+41	100	If I Were to Marry, Should I Go to a New-Style Family? Or an Old-Style Family?		Survey
+41	110	If I Were to Get a Daughter-in-Law, Should I Get a New-Style One? Or an Old-Style One?		Survey
+41	120	Account of Ch'a Ch'ŏnja's Visit to the Dragon King	Ch'a Ch'ŏnja (Humble Person Ch'a)	Literary Miscellany
+41	130	Biographies of Famous Kisaeng Throughout Korean History	P'ungnyurang (Man of Taste/Elegance)	Literary Miscellany
+41	140	Hosted by Bachelor Party Headquarters: Old Maid Exhibition; Sponsored by Non-Marriage Alliance, Singles Friendship Association		Miscellaneous Writing
+41	150	Do You Know This Story? The Story of a Male Pastor Giving Birth	Ch'ŏnoe Saeng (Person from Beyond Heaven)	Miscellaneous Writing
+41	160	Eternally Tragic Yadam: The Tomb of the Seven Hundred Righteous Martyrs of Kŭmsan	Kim Chin-gu	Literary Miscellany
+41	170	Extra of Extras		Social Commentary
+41	180	Editorial Leftovers/Jottings		Announcement/Editorial Postscript
+42	010	Six Chapters in Old Style	Yi Wan et al.	Poetry
+42	020	Recollection of the Turbulent Sino-Japanese War in East Asian History	Ch'a Sang-ch'an	Memoir/Recollection
+42	030	Story of the World Situation	Hanyang Hagin	News/Report
+42	040	Social Issues Lecture: Characteristics of Modern Production	Chin Yŏng-ch'ŏl	Editorial/Article
+42	050	My Protest		Editorial/Article
+42	060	A New Interpretation of "Lamp Light is Good for Intimacy (with Books)" Addressed to Male and Female Students and Parents: Is It Really a Season to Sit Quietly and Just Read?	Sin Hyŏng-ch'ŏl	Editorial/Article
+42	070	Literary Circle Rumors		News/Report
+42	080	Editorial Leftovers/Jottings		Announcement/Editorial Postscript
+42	090	The Runaway Concubine, The Sighing Deposed Emperor: The Divorce Disturbance of Emperor Xuantong	Yang Sang-ho	Miscellaneous Writing
+42	100	Kaleidoscope		Miscellaneous Writing
+42	110	Nonsense Club		Miscellaneous Writing
+42	120	Random Talk on the Academic World		News/Report
+42	130	The Chosŏn Ilbo Company, Full of Problems Due to the Power Struggle Between New and Old Executives	Chŏng T'ae-ch'ŏl	News/Report
+42	140	Extra of Extras		Social Commentary
+42	150	Secret Record of Life After That (1): Account of a Home Visit to Madam Ch'oe Sŭng-hŭi	This Magazine's Reporter	News/Report
+42	160	Korea's First World-Class Ocean Child Sin Sŏng-mo: Captain of a Great British Steamship	O Su-san	News/Report
+42	170	True Crime Story: The Dead Beauty in the Suitcase	So Ch'ŏn-ho	Literary Miscellany
+42	180	World of Curious Tales	O·K·O	Miscellaneous Writing
+42	190	Details of the Japanese-Chinese Military Clash, the Manchurian Incident - From September 18th to 24th -	Reporter	Miscellaneous Writing
+43	010	Looking Back 5 Years		Memoir/Recollection
+43	020	The Sino-Japanese Incident and the Manchuria-Mongolia Independence Movement	Kim Kwang-u	Editorial/Article

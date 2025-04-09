@@ -1,0 +1,182 @@
+잡지명	별건곤 제27호
+발행일	1930년 03월 01일
+기사제목	生理講座 男女性徵의 決定, 第二次性
+필자	金泰壎
+기사형태	논설
+
+別乾坤 No. 27
+March 1, 1930
+Physiological Lecture: Determination of Male and Female Characteristics, Secondary Sex Characteristics (Physiological Lecture)
+Kim Tae-hun
+Essay
+
+Physiological Lecture: Determination of Male and Female Characteristics, Secondary Sex Characteristics
+Kim Tae-hun
+
+1.  Baek Rak-cheon (白樂天) disparaged women, saying, "Do not be born a woman; a hundred years of joy and sorrow depend on others." The Greek Hippocrates supposedly spouted a kind of absurd theory, saying, "Women cannot use both hands like men, and because men are full of heat and power inside, XXX protrudes, while women lack this, so it is concave," advocating for male supremacy. Eastern morality insists that women have the Seven Grounds for Divorce (七去之惡) and the Three Obediences (三從之道), historically treating women with contempt. Even the Jewish myth that Eve was made by taking one of Adam's left ribs shows that women have been despised as subordinate and lacking independence from ancient times. Not only that, but regardless of East or West, the saying that "if the hen crows, the house will perish" shows that women are not considered to have equal status with men. However, in modern times, is it right to always look down on women when we see figures like Mrs. Coultry, famous for economics, Mrs. Fawcett, the Norwegian female writer Sigrid Undset, who received the Nobel Prize some time ago, Ms. Kollontai, famous as a socialist, Ms. He Xiangning (河香凝) of China, famous as a politician, and Dr. Jeong Yuk-su (鄭毓秀)? Moreover, there are countless female politicians and scholars today.
+
+Although it is not appropriate to discuss the justification of devaluing women when the issue is the determination of sex, the fact remains that women have been treated as less than human in terms of social status, but now women are taking to the stage and achieving great things in various ways. As men, we should consider whether we can continue to despise women forever. We might find it interesting to consider it from a physiological perspective. <152>
+
+2. Then, let's return to the main topic and consider the relatively influential theories on the determination of sex.
+
+First, there's the nutrition theory (榮養說), which suggests that mothers who are obese and have sufficient nutrition are more likely to have daughters, and vice versa, with the high number of sons among the children of the poor being a prominent example.
+
+Second, there's the theory that the left and right ovaries produce different sexes, with Dawson of England claiming that the right ovary produces eggs with male characteristics and the left ovary produces eggs with female characteristics.
+
+Third, the sex is determined by the relative strength of the parents (兩親勢力如何), with the father's strong influence resulting in a son and the mother's strong influence resulting in a daughter.
+
+However, the above theories have been disproven as mere hypotheses based on criticism from various scholars who have conducted numerous experiments.
+
+For example, regarding the nutrition theory, recent experiments by various scholars, such as King's experiment on tadpoles—where various good nutrients were provided sufficiently, and the resulting offspring still showed roughly equal numbers of both sexes—clearly show that it is false. Furthermore, no one can believe that the two sexes are simply controlled by nutrition. Considering that the number of women is not particularly higher than the number of men in the imperial family or wealthy classes, it is hard not to think that such theories are flimsy.
+
+The theory that sex is determined by the strength of the parents is also without scientific basis. For example, regarding twins, there are two types: one where a single egg is fertilized by a single sperm and then divides into two, growing into separate individuals, and another where two eggs are fertilized separately, growing into two individuals. In the case of one egg and one sperm, the twins are always the same sex, while in the case of two eggs and two sperm, the twins can be the same sex or different sexes. There is no explanation for how children of different sexes can be born in the same womb. Therefore, it is clear that this is also a hypothesis without a sufficient basis for explanation.
+
+There are countless other theories besides those explained above, but we cannot believe any theory that is not based on accurate experiments with scientific evidence, at least in modern times.
+
+Some say that having intercourse on odd-numbered days after menstruation results in a son, while having intercourse on even-numbered days results in a daughter, and others say that sex is determined by the age difference between the man and woman. However, without empirical evidence, we cannot possibly believe these claims to be true.
+
+Then, is there no reliable theory? That is not the case. Let's examine a recent theory based on genetics below.
+
+3. First, we need to know that there are two types of cell division: the somatic cell division and the reproductive cell division, <153> which are different. Cells contain chromosomes, which vary depending on the type of organism. For example, pigeons have 16 and silkworms have 56. When somatic cells divide, if the number of chromosomes is 16, they divide equally into 16 each. However, when reproductive cells divide after reaching a certain stage of maturity, it is called meiosis, and the number of chromosomes is halved. That is, 16 becomes 8. After that, it divides several more times—without halving at this time—and then becomes a complete egg or sperm.
+
+In humans, it was discovered by Winiwarter in 1912 that men have 47 chromosomes and women have 48 (however, according to Carey's research on black people, men have 23 and women have 24). Therefore, we can see that men have an odd number of chromosomes and women have an even number. Naturally, this led to research on whether the number of chromosomes has any relationship to sex. This is the recent theory that I want to introduce, which is being vigorously promoted.
+
+Among the male reproductive cells, the 47 chromosomes will undergo meiosis, creating two types of sperm: one with 24 chromosomes and one with 23. When the 48 chromosomes in the female reproductive cells divide, both cells will become eggs with 24 chromosomes (it would be nice to explain this reproductive cell division in detail, but I will omit it due to space limitations). It is said that one egg among these matures specifically and divides several more times—not meiosis—and only one is produced. Among those 24 chromosomes, one is said to be particularly different from the other 23. Therefore, that one chromosome is thought to determine sex. Let's call that one X. Sperm will have two types: (23+X) and 23, while eggs will all have (23+X). Therefore, if a sperm with 23 chromosomes combines with an egg, it will produce a male, and if a sperm with (23+X) chromosomes combines with an egg, it will produce a female. In other words, (46+X), meaning when there is one chromosome X that determines sex, it becomes male, and (46+2X), meaning when there are two chromosomes X that determine sex, it becomes female.
+
+This is the most influential theory recently and is called the Drosophila type (果實蠅) - fruit fly. The Drosophila type refers to the experimental results obtained by crossbreeding the red-eyed and white-eyed varieties of fruit flies (亞米利加) produced in America and examining the inheritance pattern of their eye color. The first-generation hybrids produced between white-eyed males and red-eyed females all have red eyes, but the second-generation females produced by crossbreeding the first-generation hybrids are all red-eyed, while the males have an equal number of red-eyed and white-eyed individuals. Next, in the first-generation hybrids produced between red-eyed males and white-eyed females, the males are all white-eyed and the females are all red-eyed, showing a genetic phenomenon completely opposite to that of the parents, and in the second generation, the red-eyed and white-eyed males and females are born in roughly equal numbers. This is the experiment on eye color inheritance in Drosophila, which is exactly the same as the formation of color blindness inheritance in humans. <154> Then, let's consider human color blindness inheritance for easier understanding.
+
+4. In general, human eyes have the ability to sense various eye colors according to the different wavelengths of light waves, but color blindness is a congenital deficiency of that ability. The most common type is the inability to distinguish between red and green, with both appearing as gray. This type of color blindness is called red-green color blindness. What is particularly noteworthy is that this color blindness is more common in men and less common in women. Why is that? It is for the same reason as eye color inheritance in Drosophila.
+
+(1) A child born to a color-blind father and a healthy mother has healthy eyes, regardless of gender. However, some daughters carry the factor for inheriting color blindness.
+
+(2) A daughter with the factor for inheriting color blindness marries a man with healthy eyes, the daughters are all healthy-eyed, and half the sons are color-blind and half are healthy-eyed. <155> However, half of the daughters carry the factor for inheriting color blindness.
+
+Determination of Male and Female Characteristics
+
+(3) When a woman with the hereditary factor of color blindness (this means that she herself is not color-blind, but has the potential to inherit color blindness) marries a color-blind man, half of the children, male and female, will be color-blind.
+
+(4) Among the children born to a color-blind mother and a healthy father, all sons are color-blind and all daughters are healthy-eyed. However, the daughters all carry the potential to inherit color blindness.
+
+The above can be easily illustrated as follows. (See diagram) In the diagram, X is the sex-determining chromosome as mentioned earlier, and X' indicates the hereditary factor of color blindness. In women, both 2X chromosomes must have the color blindness factor for the woman to be color-blind.
+
+Then, we can understand the inheritance phenomenon of color blindness from the above explanation. This is what Mendel called sex-linked inheritance (伴性遺傳), which cannot be explained by any other method. In other words, the sex-determining X chromosome becomes odd or even, which causes the sex to be determined, and the factor that inherits color blindness also undergoes sex-linked inheritance with X, and there is no other way to prove it.
+
+Then, we can say that determining sex is related to the man's sperm and not related to the woman. Therefore, the sex of the child is determined at the moment of fertilization. If the sex of the child is determined by external conditions or various power relations after fertilization, as mentioned above, there would be countless problems that cannot be explained. For example, how can we explain the fact that men and women are born in roughly equal numbers all over the world? There is no other way to explain it. The spermatogonia undergo meiosis to produce an equal number of sperm with chromosomes (23+X) and sperm with 23 chromosomes, and the number of men and women born is almost equal.
+
+When we look at the above theory, we will realize one thing. That is, we should be very wary of divorcing or despising our wives because they only give birth to daughters and not sons. There is also no reason to take a concubine. Women should be aware of this principle and have no need to strongly oppose men.
+
+5. Let's stop talking about the determination of sex here. Of course, there are many other things, but the only reliable thing is what I said above. Next, let's briefly talk about secondary sexual characteristics.
+
+Why do the mind and body suddenly develop and physiological changes occur when men are 17 or 18 years old and women are 15 or 16 years old, which is called puberty? Is this because it is inherited when the sex is congenitally determined, or does it occur due to a certain impulse when a certain age is reached? Of course, there are congenital differences in form—for example, in the genitals—but those differences <156> can be considered very small. In other words, people do not recognize much difference between men and women before the age of 20, and the difference between the two sexes becomes clear only when a certain age is reached. Are all the mental and physical changes that develop after reaching this certain age also inherited congenitally? No, they are not. These are manifested as secondary sexual characteristics that develop after birth. It is clear that it is not congenital because men or women cannot express their sexual characteristics if they are castrated (testicles are cut off or women's ovaries are cut off). In men, castration at a young age increases subcutaneous fat, softens the skin, does not grow a beard, and becomes docile, gradually becoming closer to a woman, but they become a kind of neuter who does not know sexual desire. If a woman's ovaries are removed, it also causes abnormalities, making the skin stronger, more hairy, growing a beard, increasing both weight and height, not developing the uterus or breasts, and gradually becoming closer to a man. Of course, congenital or pathological atrophy of the ovaries or testicles or failure to function would be the same as castration.
+
+Then, why is that? According to recent research and announcements by various scholars, men have seminiferous tubules in the testicles that make sperm, and in those seminiferous tubules, there are interstitial cells (間細胞) along with spermatogonia—cells that will divide and become sperm in the future. These interstitial cells secrete a type of stimulant (刺戟素)—called a hormone—which causes the secondary sexual characteristics to develop, and women have interstitial cells in the cortex or medulla of the ovary along with the oocytes that make eggs, which secrete a type of stimulant, causing them to exhibit their unique female characteristics. Therefore, the curved beauty of women, their soft skin, gentle habits, and the beautiful development of breasts and other features are all gifts from the interstitial cells. In other words, it is a gift from the ovaries. Therefore, if the ovaries are removed from a woman, she will truly become a disabled person who cannot exhibit any value in terms of appearance or personality. Similarly, if men do not have testicles, which give them all their masculine characteristics, they will lose the meaning of life.
+
+The above is an extremely popular explanation, but in any case, one should be able to understand the outline of secondary sexual characteristics.
+
+6. Then, let's conclude by considering what kind of vocation each has from a physiological point of view.
+
+From a biological point of view, women have many more developed aspects than men. For example, the development of subcutaneous fat, the shape of the pelvis, the redness of the lips, and the thinness of the skin, making it more sensitive to stimuli, can all be seen as more developed than men. Moreover, the outer shape, which is round and has a curved beauty, is so perfect that it can be considered representative of humans, and it cannot be seen as less developed than men. That's why I saw someone say that if women were removed from the human world, all beauty would disappear. Also, from a biological point of view, a woman's menstruation can be seen as the most beautiful expression of female beauty, like the flowering season.
+
+However, can we really say that women are more developed than men based only on what I said above? Not at all. Men may be inferior to women in terms of the aesthetic standards of the body, but I don't think women can possibly match men in terms of brain development. Men are intellectual or creative to the end, while women are emotional and imitative, so I can't help but think that women are inferior to men. In addition, women may be quick in their movements, but they are not as active, and the fact that they physiologically give birth to children and move passively makes them seem unlikely to have a superior position to men. I don't know if this is because of the oppression they have received from men for many years, but in any case, they are in that state until now, so what can we do?
+
+Therefore, I think that women have many inherently affectionate and resentful qualities, so they have a talent in the arts, and because they are imitative, they have a talent for internal affairs. Men, on the other hand, should exert their vocation in politics and society because they are intellectual, and they have a longer history in science than women because they are creative. However, it is a pity that women's development, in other words, their potential for progress in the arts, is not showing such great achievements. Moreover, what can we say about Korean women? There is nothing to say about Korean men either. ... ... <158>
+<152-158>
+
+**Named Entities**
+
+Baek Rak-cheon	白樂天
+Hippokratesŭ	히포크라테쓰
+K'ŭtchŭri puin	쿳리부인
+P'osett'ŭ puin	포셋트부인
+Sigŭridŭ Unssett'ŭ puin	시그리드·운셋트부인
+K'ollont'ai ssi	코론타이씨
+Ha Hyang-nyŏng	河香凝
+Chŏng Yuksŭ	鄭毓秀
+To-son	도-손
+K'ing ssi	킹씨
+Winiwŏt'ŏ ssi	위니워터씨
+K'ŏiya ssi	커이야씨
+Mendŏl	멘덜
+Li Pa'in	李白
+Itō Hirobumi	伊藤博文
+Han Yong-un	韓龍雲
+Kim Ok-gyun	金玉均
+Pak Chŏng-hŭi	朴正熙
+Taehan Chekuk	大韓帝國
+Hamhŭng	咸興
+Kaesŏng	開城
+Kyŏngsŏng	京城
+P'yŏngyang	平壤
+Pusan	釜山
+Kwangju	光州
+Inch'ŏn	仁川
+Chŏnju	全州
+Kangwŏn-do	江原道
+Ch'ungch'ŏng-do	忠清道
+Chŏlla-do	全羅道
+Kyŏngsang-do	慶尚道
+Chosŏn	朝鮮
+亞米利加	America
+諾威	Norway
+希臘	Greece
+猶大	Judea
+中國	China
+英國	England
+肝臟	Liver
+膵臟	Pancreas
+</a>
+
+
+---------------------------
+
+
+잡지명	별건곤 제27호
+발행일	1930년 03월 01일
+기사제목	生理講座 男女性徵의 決定, 第二次性
+필자	金泰壎
+기사형태	논설
+
+生理講座 男女性徵의 決定, 第二次性
+						金泰壎
+1. 白樂天이 「出生莫爲女人身 百年苦樂依他人」이라고 하야 여인을 賤視하엿스며 希臘의 히포크라데쓰가 「부인은 雙手를 한글가티 사용할 수가 업스며 남자는 내부에 熱과 力이 충만하기 때문에 XXX가 凸隆하고 여자는 此를 缺하기 때문에 凹陷하엿다.」는 일종의 珍說을 吐하야 男尊女卑論을 주창하엿다한다. 동양 도덕에 여자는 七去之惡과 三從之道가 잇다는 것을 고집하야 여자를 古來로 천시하여 왓스며 아담의 왼펜갈비대(肋骨)를 하나 뽑아 이화를 맨드럿다는 유대의 신화를 보아도 여자는 古來로 從屬的 獨立自立性이 업는 것으로 천시를 하여 온 것이 명백하다. 이뿐안이라 동서양을 勿論하고 암닭이 울면 집이 망한다는 이야기가 잇는 것을 보아도 여자는 과연 남자와 동등의 지위를 갓지는 못할 것으로 밧게 생각되지를 안는다. 그러나 현대에 잇서서는 유명한 쿳리부인 경제학으로 일흠잇는 포셋트 부인 요전에 노벨賞金을 밧은 諾威閨秀作家 시그리드·운셋트부인이며 사회주의자로 일흠잇는 코론타이씨 정치가로 일흠이 잇는 중국의 河香凝여사 법학박사 鄭毓秀씨 이런 이들을 볼때에 여자는 언제든지 천시해야 되겟는지 이것이 또 의문이다. 더욱 現今에 잇서서 數만은 여자정치가 학자들이 잇슴에랴.
+문제를 性의 결정이라고 걸어 놋고 부인의 賤視可否論을 토론 할 바가 안이지만 하여간 종래로 여자를 천시하야 사회적 지위로 보아 인간이하의 대우를 하여와섯지만 現今에 와서는 여자도 남자와 가티 活舞臺에 나서서 여러가지로 功蹟을 낫타내고 잇는 것만은 사실이니 남자된 者 언제까지나 여자를 천시할 수 잇슬넌지 한번 연구하여 봄도 결코 閑事는 안일줄 안다. 그를 우리는 생리학적으로 고찰하야 봄도 또한 흥미 잇는 사실일 줄 안다.＜152＞
+
+2. 그러면 우리는 몬저 본론으로 도라가 성의 결정에 대하야 종래의 학설에 비교적 유력한 것을 들어보자.
+첫재 榮養說이니 母가 비만하고 營養이 충분하면 여아를 만이 낫코 또 그와 반대가 되면 남아를 만이 낫는다는 說이니 貧民의 자녀 가운데는 남아가 만타는 것이 그들이 유력하게 드는 例이다.
+둘재 좌우의 卵巢가 각각 성이 다른 난자를 낸다는 설이니 영국의 도-손 이른바 우측난소에서는 남성을 좌측난소에서는 여성을 가진 난자를 産出한다고 한 것이 그것이다.
+셋재 兩親勢力如何에 따라 성이 결정된다는 것이니 父의  세력이 강하면 男을 母의 세력이 강하면 女를 生한다는 說이다.
+그러나 以上 諸說은 근래에 만은 실험을 거듭한 諸家의 비판에 의하야 일종의 가설에 지나지 안는 것이 판명되엿다.
+가령 첫재 榮養說에 대하여는 근래 여러학자들이 실험해 본 결과 例하면 킹씨가 올챙이에 대한 실험 즉 여러가지 조흔 榮養을 충분히 주어 養育하야 그 중에서 나는 색기를 볼 적에 依然히 兩性의 數가 거히 반반이 된다는 것- 虛ªª인 것이 분명할 뿐 안이라 또 사실에 잇서서 雌雄兩性을 단순히 영양으로 지배한다고는 누구나 밋을 수 업는 것이다. 황족이나 부호계급에 여자의 수가 남자의 수보다 만치 안은 것을 보아도 그런 설은 根底가 薄弱한 것이라고 생각하지 안을 수 업다.
+셋재 부모의 勢力强弱에 의하야 성이 결정된다는 설도 역시 과학적 근거가 업는 말이다. 예하면 쌍생아를 낫는데 對하야 雙兒는 난자 1개가 정자 1개와 결합하야 二分裂한 후 각각 別個體로 성장하는 것과 2개의 난자가 각각 수정하야 二個體로 성장하는 두가지 형성이 잇는데 一卵一精으로 되는 것은 모-다 同性 二卵二精으로 되는 것은 同性도 잇고 異性도 잇다. 동일한 태중에 이성의 兒가 생기는 것은 설명할 길이 없다. 이로보아 이도 역시 충분한 설명의 根底를 차즐 수 업는 가설인 것이 분명하다.
+이상에 설명한 諸說以外에도 수만은 推說이 잇지만 적어도 현대에 잇서서는 과학적 근거가 잇는 정확한 실험을 토대로한 說이 안이면 우리는 밋을 수 업는 것이다.
+月經후 奇數되는 날에 交接하면 남자를 偶數되는 날에 交接하면 여자를 낫는다고도 하며 남녀의 연령관계로 성별이 생긴다고도 하나 그것도 實證이 업는 이상 우리는 도저히 그를 사실이라고 믿을 수는 업는 일이다.
+그러면 우리는 가장 신임할만한 학설이 업슬가. 그런 것은 안이다. 아래에 근래 유전학을 기초로한 학설을 하나 들어 檢討하야보자.
+
+3. 몬저 우리가 알어 둘 것은 세포의 분열에 두가지 형성이 잇다는 것이니 체세포분열의 형식과 생식세포분열의 형식이＜153＞ 다르다는 그것이다. 세포가운데에는 염색체라는 것이 잇는데 그것은 생물의 농류에 따라 다르다고 한다. 例하면 鳩는 16蠶은 56이라고 한는 것과 갓다. 그런데 체세포가 분열을 할 적에는 염색체수가 16이면 16式 均等하게 분열이 되지만 생식세포가 일정한 성숙기에 달한 후에 분열할 적엔 감수분열이라고하야 염색체의 수가 반감한다고 한다. 즉 16을 가젓던 것이 8이 된다는 말이다. 그리하야 그것이 數次 더 분열-물론 이때엔 반감되는 것은 안이다.-한 후 난자이면 난자 정자이면 정자가 완전히 된다고 한다.
+그런데 인간에 잇서서는 男이 47 女가 40의 염색체를 가젓다는 것이 1912년에 위니워터씨에 의하야 발견되엿다(但 흑인에 대하야는 커이야씨가 연구한 결과 男이 23 女가 24라고 한다.). 말미암아 우리는 남자는 奇數 여자는 偶數의 염색체를 가진 것을 알 수 잇다. 그러므로 이 염색체의 수가 성에 대하야 엇떤 관계를 가진 것이 아닌가를 의심하야 연구케된 것도 당연한 일일 것이다. 즉 이것이 나의 소개하려는 최근에 유력하게 선전되는 학설이다.
+남자의 생식세포 가운데 잇는 염색체 47이 감수분열을 하야 24를 가진 것과 23을 가진 二種의 정자가 생길 것이며 여자의 생식세포 가운데 잇는 염색체 48이 분열되면 兩細胞가 다시 24의 수를 가진 난자로 될 것이다(이 생식세포분열형식을 자세히 이야기하면 조켓지만 지면관계로 생략함). 이 난자 가운데에는 특별히 1개가 성숙하야 다시 수회분열하야-감수분열은 안이다-1개만이 産出된다고 한다. 한데 그 염색체 24 가운데에 1을 다른 23보다 특별히 다르다고 한다. 말미암아 그 1이 성을 결정하는 염색체라고 생각케되엿다. 그러면 그 1을 X라고 하자. 정자 가운데에는 (23+X)를 가진 것과 23을 가진 두가지가 생길 것이며 난자에는 모다 (23+X)를 갓게 될 것이다. 말미암아 정자중에 염색체 23을 가진 것이 난자와 결합하면 남성을 (23+X)를 가진 것이 난자와 결합하면 여성을 生케 할 것이다. 다시 말하면 (46+X) 즉 성을 결정하는 염색체 X가 하나일 적엔 남성이 되고 (46+2X) 즉 성을 결정하는 염색체 X가 둘이 될 적엔 여성이 된다고 한다.
+이것이 근래에 가장 유력한 학설인 동시에 이를 드로소필라(Drosophila)型 -果實蠅- 이라고 한다. 이 드로소필라型이란 즉 亞米利加에 産하는 果實蠅 중에 赤眼의 품종과 白眼의 품종을 雜交하야 그 眼色遺傳形式을 실험으로 엇은 것인데 白眼의 雄과 赤眼의 雌와 이 間에 生하는 第一代 잡종은 雌雄 共히 赤眼이지만 第一代 잡종을 互相交配하야 生하는 第二代 雌는 모다 赤眼 雄은 赤眼을 가진 것과 白眼을 가진 것의 수가 상반된다고 한다. 그 다음 赤眼의 雄과 白眼의 雌와의 間에 生하는 第一代 雜種에는 雄은 모다 白眼 雌는 모다 赤眼 즉 양친과 정반대의 유전현상이 생기고 第二代에는 赤眼과 白眼의 雌雄은 거이 同數로 生한다고 한다. 이것이 드로소필라의 眼色遺傳에 대한 실험인데 마치 사람의 색맹유전의 형성과 똑가티 된다고 한다.＜154＞ 그러면 우리는 더 알기 쉽게 인간의 색맹유전에 대하야 고찰하야 보자.
+
+4. 인간의 眼은 보통으로 말하면 光波의 波長이 다른데 따라서 각종의 眼色을 感할 수 잇는 능력을 가진 것인데 색맹은 선천적으로 그 능력이 결여하야 잇는 것이다. 그 중에 흔한 것은 赤과 綠色을 분간치 못하는 것인데 다-가티 회색으로 뵈인다고 한다. 이런 색맹을 소위 赤綠色盲이라고 한다. 그런데 특별히 주목되는 것은 이 색맹이 남자에게 만코 여자에게는 적다는 것이다. 엇지하야 그러케 되는가? 즉 이것이 드로소필라의 眼色遺傳과 가튼 까닭이다.
+(1) 색맹의 父와 건전한 母와 이 生하는 子는 남녀가 다 建眼을 갓는 것. 그러나 여아 중에는 색맹을 유전할만한 因子를 가지고 잇는 것.
+(2) 색맹을 유전할만한 因子를 갓고 잇는 女와 建眼의 남자와 결혼하야 生하는 子중에 여자는 모다 建眼 남자 반은 색맹 반은 建眼이 된다.＜155＞ 그러나 그 女兒 중에 반은 색맹을 유전할 因子를 갓고 잇는 것.
+
+남녀성징의 결정
+
+(3) 색맹이 유전인자를 가진 여자가 (이것은 그 자신은 색맹이 안이지만 색맹을 유전할만한 소질을 갓고 잇단 말) 색맹의 남자와 결혼을 하야 그에서 나는 자녀를 볼 적에 男女兒가 다 半數는 색맹이 된다는 것.
+(4) 색맹의 母와 건전한 父와의 間에 生하는 자녀 중에 男은 모다 색맹이고 女는 모다 建眼이다. 그러나 그 女兒 중에는 색맹을 유전할 소질을 갓고 잇는 것.
+이상을 알기 쉽게 圖解하면 다음과 갓다.(圖參照) 圖중에 X는 旣述한 배와 가티 性次決定 염색체이고 X은 색맹의 유전인자를 표시한 것이다. 여자에 잇서서는 2X가 다 색맹인자를 갓게 되여야 비로소 색맹이 되는 것이다.
+그러면 우리는 이상 설명한 바로 색맹의 유전현상을 알 수 잇다. 이것이 멘덜이 니른바 伴性遺傳 (Sex-linked In-heritance)이라고 하는 것인데 이를 다른 방법으로는 설명할 수가 업다. 즉 우에 말한 바 性을 결정하는 X염새체가 奇數와 偶數로 되는 까닭에 성별이 생김과 함께 이 색맹을 유전하는 인자도 X와 가티 반성유전을 하는 까닭이라고 밧게 다시 증명할 길이 업다.
+그러면 우리는 성을 결정하는 것은 남자의 정자에 관계되는 것이고 여자에게는 관계가 업다고 볼 수 잇다. 그럼으로 남녀의 성별을 수정하는 순간에 발서 결정되는 것이다. 만약 이상 말한 배와 가티 설명치 안코 수정후 외적조건이라던가 혹은 여러가지 세력관계로 성별이 생긴다면 설명치 못할 문제가 수업시 만을 것이다. 가령 남녀가 온 세계를 처놋코 거이 반반으로 생기는 이치는 엇떠케 설명할 수가 잇슬가. 다른 방법으로는 설명할 수가 업슬 것이다. 精原細胞가 감수분열을 하야 염색체(23+X)를 가진 정자와 23을 가진 정자의 수를 반반으로 내임이요 출산하는 남녀의 수도 거이 반반이 된다고 할 수 밧게 업다.
+이상 소개한 학설을 볼때 우리는 한가지 깨다를 것이다. 즉 자기의 처가 남아를 못낫코 여아만 낫는다고 이혼을 하거나 혹은 천대를 하거나 하는 것은 크게 警戒할 필요가 잇슬 줄 안다. 또 妾을 엇을 까닭도 업는 줄 안다. 여자된 者 더욱이 이치를 깨다라서 크게 남자에게 대항할 필요도 잇슬줄 안다.
+
+5. 성의 결정에 대하야는 그만큼만 이야기하기로 하자. 물론 그 외에도 여러가지 잇지만 신용할만한 것은 아직 우에 말한 것밧게 업스니 다음은 第二次性徵에 대하야 간단히 말해보자.
+남자가 17,8세 여자가 15,6세가 되면 소위 사춘기라고 하야 심신이 급작히 발달하며 생리상 변동이 생기는 것은 무슨 까닭일가. 이것이 선천적으로 성별이 생길적에 발서 유전하야 앗기 때문에 나타나는 것인지 혹은 후천적으로 일정한 연령에 달하면 엇떤 충동으로 말미암아 생기는 것인지. 물론 선천적으로 형태상-例하면 생식기 가튼 것에- 남녀의 차이가 생기는 것이지만 그러나 그런 것은＜156＞ 극히 적은 차이라고 볼 수 잇다. 말하자면 사람이 20세이전엔 별로 남녀의 차이를 인식치 못하는 것이니 일정한 연령에 달해야 비로소 兩性의 차이가 확실히 나타나는 것이다. 이 일정한 연령에 달한 후에 발달되는 모든 心身變動이 역시 선천적으로 유전하는 것인가하면 그러치 안타. 이것은 후천적으로 발달되는 말하자면 第二次性徵으로 나타나는 것이니 남자나 여자에게 去勢(睾丸을 잘나내거나 여자의 난소를 잘너내는 것)를 하면 각각 성적 특징을 발휘할 수 업는 것을 보아 그것이 선천적이 안인 것이 분명하다. 남자에 잇서서 연령이 어려슬적에 거세를 하면 피하에 지방이 만아지며 피부가 부드럽게 되고 鬚髥은 나지 안으며 성질이 온순하야지는 것을 보아 점점 여성으로 가까와지는 그러나 성욕을 모르는 일종의 중성인이 되며 여자의 난소를 切取하여 버리면 이 역시 變態를 이르키여 피부가 强靭하여지며 多毛하야 수염도 나게되고 체중 신장 共히 커지며 자궁이나 유방은 발달치 안코 점점 남성에 갓갑게 된다고 한다. 물론 선천적으로 혹은 병적으로 난소나 고환이 萎縮이 되거나 기능을 하지 못하게 된다하여도 거세한 것과 갓흘 것이다.
+그러면 엇지하야 그러케 되는가? 근래에 諸大家가 연구발표한 바에 의하면 남성에 잇서서는 고환 가운데 정자를 맨드는 曲精管이라는 것이 잇는데 그 曲精管 중에 精原細胞 -장차 분열하야 정자가 될 세포-와 함께 間細胞라는 것이 잇다고 한다. 그 間細胞라는 것이 일종의 刺戟素를 分泌-이라고 하야 分泌을 肝臟이나 膵臟과 가티 管으로 分泌하는 것이 안이고 혈관 내로 分泌하는 것을 이른 것-하야 그 刺戟素(이것을 호르몬(Hormone)이라고 한다.)가 第二次性徵을 갓게 하고 여성에는 난소의 皮質에나 혹은 髓質部에 난자를 맨들 卵原細胞와가티 間細胞가 존재하야 그것이 일종의 刺戟素를 分泌함으로 여성 고유의 성징을 발휘하게 된다고 한다. 그럼으로 여성의 곡선미라던가 柔軟한 피부라던가 여성답은 온유한 습성이라던가 유방 기타가 아름답게 발달하는 것은 이 間細胞의 선물이라고 한다. 다시말하면 난소의 선물일 것이다. 말미암아 여자에게서 난소를 빼면 그는 참말 外貌에 잇서서나 혹은 성질로 보아 아무런 가치를 발휘치 못하는 폐인이 되고 말 것이다. 남자도 역시 모든 남성적 특색을 갓게 하는 것은 睾丸이니까 만약 그것이 업다면 生의 意義를 일허버린 셈이 될 것이다.
+이상은 극히 통속적으로 설명한 바이지만 여하간 第二次性徵에 대한 대강을 斟酌할 줄 안다.
+
+6. 그러면 우리는 결론으로 드러가 과연 각각 생리학적으로보아 엇던 天職을 갓고 잇겟는가를 고찰하여 보기로 하자.
+여자는 생물상으로 보아 남자보다 발달된 점이 만이 잇다. 가령 피하지방이 발달한 것이라던가 골반이 形狀이라던가 口唇이 빨앗고 피부는 얿어 刺戟에 대한 감각이 예민한 것이라던가. 모다 남자보다 발달햇다고 볼 수 잇다. 더구나＜157＞ 인간의 대표로 세울만큼 외형이 완곡하야 곡선미가 나는 것은 참말로 남자보다 발달햇다고 안이 볼 수가 업다. 그러기에 엇떤 사람은 인간계에서 여자를 빼면 모든 미라는 것은 다 업서지고 말 것이라고 말한 것을 보앗다. 또 여자의 月經도 생물학상으로 보면 여성의 미를 가장 아름답게 발휘하는 꼿으로 말하면 개화기 가튼 시기라고 볼 수 잇다고 한다.
+그러나 우에 말한 것만으로 과연 여자가 남자보다 발달햇다고 할가? 결코 그러치는 안타. 남자는 신체의 미적 표준으로 보아 여성보다 떠러진배 잇지만 그러나 두뇌의 발달에 잇서서는 여자의 도저히 밋칠배 안이라고 생각한다. 남성은 어대까지던지 이지적으로 또는 창조적으로 된데 반하야 여성은 감정적으로 모방적으로 된 것을 보아 아무래도 여자가 남자보다 떠러젓다고 안이 볼 수 업다. 기타 여성은 동작이 機敏한 점은 잇지만 活潑치 못한 것이라던가 생리적으로 兒孩를 분만하게된 것이라던가 被動的으로 동작을 하게 된 것이 남자보다 우월한 지위를 갓지 못할 것갓다. 이것이 다년간의 남자에게서 밧은 압박때문에 그러케 되엿는지는 모르나 하여간 現今까지는 그런 상태에 잇스니 엇지하랴.
+그럼으로 나는 생각하기를 여자는 선천적으로 多情多恨한 성질을 만히 갓게 된 점으로 보아 예술방면에 장기를 가젓다고 볼 수 잇겟고 또 모방적임으로 내적 사무에 長한 배 잇슬 줄 안다. 남자는 어대로까지던지 이지적임으로 정치론 사회로 天職을 발휘해야겟고 창조덕임으로 과학적으로 여자보다 長한 배 잇슬 줄 안다. 그러나 유감인 것은 여자의 발달 다시 말하면 예술적으로는 얼마던지 진보할 가능성을 가진데도 불구하고 그러케 큰 공적을 나타내이지 못한 그것이다. 더구나 조선 여성에서야 말해 무엇하리. 조선의 남성에게도 말할 것도 업지만. ... ...＜158＞
+＜152-158＞

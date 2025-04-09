@@ -1,0 +1,300 @@
+25	090	New Development of Korean Proletarian Cultural Movement, New Thesis of the Current Stage Cultural Movement	Hong Hyomin	Essay/Editorial
+25	100	The Three Great Rivalries Drawing All Eyes: The Financial Battle Between Tongil Bank and Haedong Bank, The Entertainment Battle Between Chosŏn Theater and Tansŏngsa, The Culinary Battle Between Myŏngwŏlgwan and Sikto'wŏn		Essay/Editorial
+25	110	Critique of the Ch'oe Rin Course, Mr. Ch'oe Rin's Direction	Yi Chŏngsŏp	Essay/Editorial
+25	111	Urgent Notice		Apology/Editorial Note
+25	120	Proletarian Theory of Love	Yun Hyŏngsik	Essay/Editorial
+25	130	Disclosure of the Latest Therapy for Amenorrhea Gained from the Experience of a Medical Student	Memoir by Takahashi Ayako from Ōsaka	Miscellany
+25	140	The Tragedy of Infanticide, Korean Women Seen Through Crime	Yang Chaeha	Essay/Editorial
+25	150	The Current State of Russian Art	Yu Haesong	Essay/Editorial
+25	160	German Rural Villages as I Saw Them	Pak Indŏk	Essay/Editorial
+25	170	Crossroads		Miscellany
+25	180	An International Western School Educating Youth from Six Nations, A Visit to the Western School in Seoul Educating Youth from Six Countries: Britain, France, America, Russia, Canada, Australia		News
+25	190	If "Ch'unhyangga" is Made into an Opera, It Will Surpass La Traviata and Carmen, Speaking of the Revival of the Peninsula's Music Scene	Leader of the Women's Music Group, Miss Kim Chŏngsun	News
+25	200	Musings by Sup'yogyo Bridge	P'ain	Literary Miscellany
+25	210	Samch'ŏlli "Wall Newspaper"		News
+25	220	Life of a Painter in Paris, Models and Painter's Life in Paris	Na Hyesŏk in Tōkyō	Essay/Editorial
+25	230	The Martyrdom of the Seven Hundred Righteous Men	Yu Kwangnyŏl	Literary Miscellany
+25	240	My Romantic Era		Memoir/Reminiscence
+25	250	Express Train	Chu Yohan	Poem
+25	260	The Sea (and 2 others)	Kim Ansŏ	Poem
+25	270	A Heart Seeking Spring	Mo Yunsuk	Poem
+25	280	Sleep Pushes My Boat	Kim Kirim	Poem
+25	290	You and Solitude (and 5 others)	Kim Illyŏp	Poem
+25	300	Short Song of Spring	No Ch'unsŏng	Poem
+25	310	Spring Rain on the Naktong River (and 2 others)	Kwŏn Kuhyŏn	Poem
+25	320	Several Entries from Suam's Diary	Ch'unwŏn	Novel
+25	330	Avoiding Love and Desire	Kim Illyŏp	Novel
+25	340	Master Unfortunate	Yi T'aejun	Novel
+25	350	Farewell	Yu Chino	Novel
+25	360	Red Mountain, Memoir of a Certain Doctor	Kim Tongin	Novel
+25	370	Qin Shi Huang and Lady Meng Jiang, A Scene from a Sad Legend		Literary Miscellany
+25	371	(Untitled - National Compilation)		Apology/Editorial Note
+25	380	Sending Off the April Issue		Apology/Editorial Note
+25	390	Publishing Department Notice		Apology/Editorial Note
+26	010	Editor's Postscript		Apology/Editorial Note
+26	020	Among the Three Parties - Proletarian Party, Seiyūkai, Minseitō - Which Party Should We Be Interested In? (Various Views)		Survey/Questionnaire
+26	030	Will China Escape Territorial Division and Joint Management by the Great Powers?		Survey/Questionnaire
+26	040	Miscellaneous Observations on Speeches		Miscellany
+26	050	National Flowers of Various Countries		Miscellany
+26	060	Memoir from Prison by Yang Kŭnhwan, Handwritten Notes from Cell 52, 3rd Wing, Kosuge Prison, under Tōkyō Prefecture		Memoir/Reminiscence
+26	070	Spring Night Story		Social Critique
+26	080	Letter of Advice		Social Critique
+26	090	Jokes		Miscellany
+26	100	The Future of the Chinese Soviet Movement	Hong Yangmyŏng	Essay/Editorial
+26	110	Prospects for the Annam People's Movement	Haesong	Essay/Editorial
+26	120	Scattered Rumors		News
+26	130	(Joke) Reason for Remarriage		Miscellany
+26	140	Actresses Roundtable		Dialogue/Roundtable
+26	150	The Tragic Love of Miss Ch'oe Who Passed Away After Pledging Troth with an Indian Youth, The Life Story of Miss Ch'oe Yŏngsuk, Swedish Bachelor of Economics, Who Met an Indian Youth at a Swedish University, Pledged Troth, and Even Bore a Child		Miscellany
+26	160	Literary World Gossip		News
+26	170	Female Students, Bob Your Hair!		Survey/Questionnaire
+26	180	Female Students' Skirts Should Be Short		Survey/Questionnaire
+26	190	Female Students Should Wear Hats Too		Survey/Questionnaire
+26	200	Aftermath of a Major Incident: Investigation into the Life or Death of Ms. Yun Simdŏk by the Italian Consul General	Her Brother Yun Sŏngdŏk	Memoir/Reminiscence
+26	210	Aftermath of a Major Incident: The Kyŏngsŏng Electric Tram Overturn Incident Involving Chinmyŏng Girls' School, Receiving 40,000 Won in Compensation	Kim Pyŏngno	Memoir/Reminiscence
+26	220	Beauties Chronicle		News
+26	230	Musings by Sup'yogyo Bridge	P'ain	News
+26	240	Which Country Makes Divorce Easy?		News
+26	250	A Youth's Sad Song After Losing a Lover		Memoir/Reminiscence
+26	260	Modern American Black Poetry Collection	Kim T'aesŏn in Washington	Poem
+26	270	Pitiful Orphans		News
+26	280	The Last Face Seen Before Execution: Yi Suhung's Glance	San'oesanin	Memoir/Reminiscence
+26	290	Great Discovery of 'Brown Silver' That Radically Treats Gonorrhea	A Reporter	Miscellany
+26	300	Proletarian Theory of Love	Yun Hyŏngsik	Essay/Editorial
+26	310	Crossroads		Miscellany
+26	320	The Story After the Changhowŏn Pistol Youth Incident, Also Serving as a Diary from That Time	C Daily News Special Correspondent Hong Chongin	Memoir/Reminiscence
+26	330	Korean Literature and the Role of the Overseas Literature Faction, Repudiating Their Tepid Attitude	Hong Hyomin	Essay/Editorial
+26	340	The Current State of Russian Art (Continued)	Scholar Haesong	Essay/Editorial
+26	350	Folk Song Style Poems	Chŏng Chiyong	Poem
+26	360	"Man Hungry for a Wife" (Alias Bankruptcy) Complete One Act	Yun Paengnam	Play/Scenario
+26	370	Growing Sprout	Ch'oe Ŭisun	Novel
+26	380	[I saw scentless dried flowers in a forgotten book...]	A. S. Pushkin (Original), Somin (Translation)	Poem
+26	390	Dream (Complete 1 Act)	Kim Unjŏng	Play/Scenario
+26	400	Master Paekkyŏl	Ch'oe Munjin	Poem
+27	010	The US Great Fleet Concentrating in the Pacific and the Japan-US Storm Clouds		Essay/Editorial
+27	011	Company Notice		Apology/Editorial Note
+27	020	Critique of Two Figures in the Ideological World	Hwang Sŏgu	News
+27	030	Memoir of An Ch'angho	Yi Kwangsu, Kim Tongin	Memoir/Reminiscence
+27	031	Company Notice		Apology/Editorial Note
+27	040	What Will Happen to the Philippines? The Philippine Island Issue Suddenly Raised Before the Far East Storm Clouds		Essay/Editorial
+27	050	In Turbulent Kando	Kim Kyŏngjae	Travelogue
+27	060	Three Elements of the National Economic Movement	Sŏl T'aehŭi	Essay/Editorial
+27	061	Notice of Head Branch Office Establishment		Apology/Editorial Note
+27	070	Summer Day Night Story		News
+27	080	The Korean Problem Seen by Japanese (2), Korean Rule and the Irrigation Association Problem	Former Maeil Sinbo and Keijō Nippō President Matsuoka Masao	Essay/Editorial
+27	090	Writers' Roundtable Hosted by Samch'ŏlli Company		Dialogue/Roundtable
+27	100	Will You Go Dancing if Dance Halls Appear?		Survey/Questionnaire
+27	110	Let's Go to the Lakeside (and 1 other)	Sin Sŏkchŏng	Poem
+27	120	Jokes		Miscellany
+27	130	Musings by Sup'yogyo Bridge	P'ain	Literary Miscellany
+27	140	Beauties Chronicle		News
+27	150	Artists' View of Beauty		Survey/Questionnaire
+27	160	Jokes		Miscellany
+27	170	The Basis and Mission of the Overseas Literature Faction, On Korean Literature and Overseas Literature (Continued)	Hong Hyomin	Essay/Editorial
+27	180	The Tragedy of Intelligentsia Women: Why Did Those Women Become Kisaeng and Waitresses After Graduating from Girls' High School?	Son Churinae, Paek Hyeryŏn, Yi Hyesuk	Memoir/Reminiscence
+27	190	A Flag Flying over the Indian Ocean, A Voyage from Hawaii to the Indian Ocean	Hong Unbong at Saipan Port, South Seas	Travelogue
+27	200	Historical Anecdote (Yadam), Yi Wan and the Great Kantō Earthquake Massacre	Kim Chin'gu	Literary Miscellany
+27	210	The Martyrdom of the Seven Hundred Righteous Men	Yu Kwangnyŏl	Literary Miscellany
+27	220	Mystery of the Season	Yi Ŭngsu	Poem
+27	230	Ode to May	Nŭlsaem	Poem
+27	240	On the Road to P'aesŏng (P'yŏngyang)	Sin Pulch'ul	Poem
+27	250	Longing	Mo Yunsuk	Poem
+27	260	Funny Prank (One Act)	Kim Yŏngp'al	Play/Scenario
+27	270	Hyperbola on a Green Horizon	Ch'oe Chŏnghŭi	Novel
+27	280	The Current State of Russian Literature (Continued)	Scholar Haesong	Essay/Editorial
+27	290	Editorial Miscellany		Apology/Editorial Note
+28	010	If Our Movement Were Dictated by One Group	Hŏ Hŏn, Kim Kyŏngjae	Dialogue/Roundtable
+28	020	Men of the Hour in the East and West Hemispheres as I Saw Them	Ch'oe Rin, Hong Yangmyŏng, Hŏ Hŏn, Kim Yaksu, Im Wŏn'gŭn	Memoir/Reminiscence
+28	030	Crossroads		Miscellany
+28	040	Escape from Jilin Prison	Sin Illyong	Memoir/Reminiscence
+28	050	Beauties Chronicle		News
+28	060	The Problem of National Cooperation	Chin Yŏngch'ŏl	Essay/Editorial
+28	070	Direction of Reading While in Prison	Hŏ Hŏn et al.	Survey/Questionnaire
+28	080	Literary World Fragments		News
+28	090	Jokes		Miscellany
+28	100	Should We Embrace American Civilization or Russian Civilization?	Hong Yangmyŏng et al.	Survey/Questionnaire
+28	110	Whistle		Miscellany
+28	120	In Turbulent Kando	Kim Kyŏngjae	Travelogue
+28	121	(Untitled - National Compilation)		Miscellany
+28	130	One Night in an Italian Park	Yun Hyŏngsik	Memoir/Reminiscence
+28	140	Writers' Roundtable Hosted by Samch'ŏlli Company (Continued from previous issue)		Dialogue/Roundtable
+28	150	Mother	Sin Sŏkchŏng	Poem
+28	160	Samch'ŏlli Judgment Stand: A Tragedy That Shocked the World! Daughters Kill Mother, Calling Her a Spy		Essay/Editorial
+28	170	Samch'ŏlli Judgment Stand: Society's Sin or Parents' Sin?		Essay/Editorial
+28	180	Tangled Chastity at a Summer Resort		Memoir/Reminiscence
+28	190	A Siberian Sleeping Car, That Romantic Night	KELENS	Memoir/Reminiscence
+28	200	Popular Musicians Parade	Ch'ae Kyuyŏp	News
+28	210	Collection of Poems by Women Poets		Poem
+28	220	Tears of a Beauty Entangled in Mr. Yi Yongik's "900,000 Won Incident", Sad Story of the Late Mr. Yi Chongho's Widow		News
+28	230	A Glance at Korean Autonomy Theory		Essay/Editorial
+28	240	That Woman's Three-Stage Argument	Yi Chongmyŏng	Novel
+28	250	Apology Notice		Apology/Editorial Note
+28	260	Editor's Postscript		Apology/Editorial Note
+29	010	Voice of Water, Voice of Wind in Green Waters and Blue Mountains	Han Yongun, Yi Kwangsu	Poem
+29	020	Recent Situation in North Manchuria, In Turbulent Kando (Continued)	Kim Kyŏngjae	Travelogue
+29	030	Turbulent History of Ten Years as a Newspaper Reporter		Memoir/Reminiscence
+29	040	Beauties Chronicle		News
+29	050	Interview with Chaplin	Sŏ Kwangje from Kyōto	News
+29	060	Prisoners Who Will Become Free Men Within 3 Years		News
+29	070	Recent Russian Theater and Film	Haesong	Essay/Editorial
+29	080	Ordeal in the GPU Prison	O Sŏkchu	Memoir/Reminiscence
+29	090	The Spirit of the Men in White Participating in the International Olympic Games, Mr. Kwŏn T'aeha and Mr. Kim Ŭnbae		News
+29	100	If Prohibition is Implemented, What Will the Drinkers of the Capital Do?		Survey/Questionnaire
+29	110	Green Shade	Kim Sŭnghyŏn	Poem
+29	120	(Short Story) Old Kisaeng	T'ak Sangsu	Novel
+29	130	Overall Review of Western Painting at the Chosŏn Art Exhibition	Na Hyesŏk	Literary Criticism
+29	140	Seeing the All-Korea Young Children's Works Exhibition, A Piece of Feeling	Female Reporter	Literary Criticism
+29	150	Trip to Sŏgwang Temple, Mountains and Sea	Kim Tongin	Travelogue
+29	160	As the Producer of The Enlightenment Party	Na Un'gyu	Memoir/Reminiscence
+29	170	Women's Life in Worker-Peasant Russia	Yi Mong	Essay/Editorial
+29	180	To the Lover Who Abandoned Me		Literary Miscellany
+29	190	Ms. Pak Hojin, Recently Released from Prison, A Sketch of One Day		Dialogue/Roundtable
+29	191	Company Notice		Apology/Editorial Note
+29	200	Death of a Female Worker in White	Han Sŏngjun in Nagoya	Literary Miscellany
+29	210	Poem at Sŏgwang Temple	Yi Ŭngsu	Poem
+29	220	The Enlightenment Party	Director/Editor Ch'unsa Na Un'gyu	Play/Scenario
+29	230	Editor's Postscript		Apology/Editorial Note
+29	240	Strategy for the Farmers' Movement to Rescue 3 Million Farming Households Crying Under 500 Million Won Debt: Improvement of Tenancy Law and Rural Morale	Chŏng Kwangjo	Dialogue/Roundtable
+29	250	Strategy for the Farmers' Movement to Rescue 3 Million Farming Households Crying Under 500 Million Won Debt: 63 Million Won and the Farmers' Course	Sŏ Ch'un	Dialogue/Roundtable
+29	251	Urgent Notice to Readers		Apology/Editorial Note
+29	260	Miscellaneous Observations on Speeches		News
+29	270	A Korean Genius Aviator Active on the Chinese Revolutionary Front, Mr. Kim Yŏn'gi, Air Force Lieutenant Colonel of the Nationalist Government	Kim Yŏn'gi	Memoir/Reminiscence
+29	280	Search for Whereabouts	Layman Paegun	News
+29	290	Whistle		Social Critique
+29	300	Prospects for the Current Lineup of the Korean Movement		News
+29	310	Pros and Cons of Education for the Gifted	Various Contributors	Survey/Questionnaire
+29	320	Selected Translations of American Black Poetry	C. McKay (Original), Kim T'aesŏn in Chicago	Poem
+29	330	Youthful Ireland on the March		Essay/Editorial
+29	340	Mussolini's Yellow Peril Theory		Essay/Editorial
+29	350	Measures to Permanently and Completely Rescue the Chosŏn Ilbo and Chungang Ilbo	Various Contributors	Survey/Questionnaire
+29	360	The Sino-Japanese Incident and Pacific Storm Clouds	Wŏn Sehun	Essay/Editorial
+29	370	Recent Situation of Korean Compatriots in Far Eastern Russian Territory	Kim Tongsu	Essay/Editorial
+29	380	Yang Kŭnhwan, Soon to be Released from Prison		News
+30	010	Company Notice	Samch'ŏlli Company Representative Kim Tonghwan	Apology/Editorial Note
+30	020	Proposal to Dissolve Existing Organizations as a Premise for Forming a National Great Unification Party		Dialogue/Roundtable
+30	030	Demeanor of Prominent Contemporary Commentators		News
+30	040	Critiques by Foreign Critics	K. Wilson	Literary Criticism
+30	050	News of Patriots		News
+30	060	Alas, the Disaster of Regional Fever	Wŏn Sehun	Essay/Editorial
+30	070	Record of Ninety Korean Military Officers Killed in the Guangdong Incident, Memoir of Miss O Chisuk, Female Officer Graduated from Wuchang Women's Military Officer School	O Chisuk	Memoir/Reminiscence
+30	080	Two Figures Who Appeared	Yu Kwangnyŏl, Hwang Sŏgu	News
+30	090	Miscellaneous Observations on Speeches		Miscellany
+30	100	Ttarigetta		Miscellany
+30	101	Company Notice		Apology/Editorial Note
+30	110	The Millennia-Old Secret History of the Chŏnhyŏp Faction That Roamed Rampant Across the Three Thousand Li, The True Story of This Incident That Once Captured Public Attention is Revealed After Ten Years		Social Critique
+30	120	Recent Situation of Compatriots Abroad	L.C.H. in Longjing, Ch'oe Ch'iŏk in Fengtian, Kim Chagwang in Ōsaka	News
+30	130	One Night at the Imperial Hotel, Tōkyō — A Page from a Reporter's Diary	Yang Chaeha in Tōkyō	Literary Miscellany
+30	140	Inside Story of the Dong-A and Hwasin Department Store Merger — Its Details and Future Outlook	Sin T'aeik	News
+30	150	Correction		Apology/Editorial Note
+30	160	Memoir of a Russian Officer's Bloody Battle at Lüshun (Port Arthur)	Pederŭk'ŭ	Memoir/Reminiscence
+30	170	Kiss		Miscellany
+30	180	Double Difficulty		Miscellany
+30	190	Critique of Couples' Trial Separation (To Avoid Divorce)		Survey/Questionnaire
+30	200	Company Notice	Samch'ŏlli Company	Apology/Editorial Note
+30	210	The Three Athletes in White Who Will Defeat International Athletes and Win Great Victory (at the International Olympic Games)	Yi Kilyong	News
+30	220	Tragedy on the Great Ocean, Record of an Indian Youth's Burial at Sea in the Indian Ocean	Chŏng Sŏkt'ae	Travelogue
+30	230	Sorrow of Intelligentsia Women		Literary Miscellany
+30	240	Alas, the Death of Sŏhae, Memoir of Sŏhae		Literary Miscellany
+30	250	Recollection	Yi Pyŏnggi	Miscellany
+30	260	[Heartbreaking writings mourning the death of Sŏhae...]	Editor	Apology/Editorial Note
+30	270	Living as a Dependent	Sohyang Ch'oe Munjin	Poem
+30	280	Lonely Evening	Kim Tongin	Novel
+30	290	Literary World Gossip		Miscellany
+30	291	Editor's Postscript		Apology/Editorial Note
+31	010	Autumn Wind Song	Emperor Wu of Han	Poem
+31	020	Samch'ŏlli General Meeting, Pessimistic or Optimistic about Korea's Political Future? - Also Culturally and Economically - The Peninsula's Current Situation and Ten-Year Outlook		Survey/Questionnaire
+31	030	True State of US Preparations for Japan-US War — Combat Preparations Begin on the Entire Island of Hawaii —		News
+31	040	Critique of Newspaper Dictator Song Chinu	Yu Kwangnyŏl	News
+31	050	Chongno Crossroads		News
+31	060	Autobiography	Yŏ Unhyŏng	Memoir/Reminiscence
+31	070	Collapse of the World, Reconstruction of the World: Black Italy's Dictatorship on the Verge of a Storm, Crisis of British Imperialism, National Socialism's Germany, America Challenging the World Economy		News
+31	080	Appearance of the "Blue Shirts Society," a Chinese Fascist Organization Led by Chiang Kai-shek, Leading Bodyguards		News
+31	090	Interview with Miss Kim Maria, Head of the Former Patriotic Women's Association Returned After Ten Years	XYZ	News
+31	100	Namdaemun, The "Namdaemun" Column is Specially Established to Inform You About the Inner Workings of Seoul's Business World	Notes of Ch'obyŏngjŏng	News
+31	110	The Increasingly Serious Problem of Koreans in Japan	Yang Chaeha in Tōkyō	Essay/Editorial
+31	120	Secret Detective Bureau		News
+31	130	Marriage Law System of Modern Korea	Lawyer Yang Yunsik	News
+31	140	Russian Exile Village Raises Banner Against Bolshevik Government: Scene of a 60-Member Group Settlement in Chuŭl, North Hamgyŏng Province		Travelogue
+31	150	Beauties Chronicle		News
+31	160	Ms. Hŏ Chŏngsuk's Heliotherapy Clinic, Leading Female Activist Ms. Hŏ Advances into the Temple of Natural Science!	Female Reporter	Dialogue/Roundtable
+31	161	Urgent Notice		Apology/Editorial Note
+31	170	Account of a Visit to the 18-Year-Old Female Painter, Miss Chŏng Yonghŭi		Dialogue/Roundtable
+31	180	At What Age is Life Happiest?		Survey/Questionnaire
+31	190	Literary World Gossip		News
+31	200	Clear Autumn Poetry Recitation		Poem
+31	210	Travelogue of Kukto Island	Kim Sangik	Travelogue
+31	220	The Dire Situation of Refugees in Fengtian (Mukden)	Ch'oe Ch'iŏk in Fengtian	News
+31	230	Lament for the Taedong River	Pak Sŭnggŏl	Poem
+31	240	Soviet Russia's Prisons, Unique in the World		News
+31	250	Sad Story of Intelligentsia Waitresses: Why Did They Become Waitresses After Finishing Girls' High School? Cafe Crown, Cafe Angel, Cafe Paradise, Cafe Pacific		News
+31	251	Recruiting Branch Offices		Apology/Editorial Note
+31	260	The Future of the Korean Women's Movement: Who is a Woman's True Comrade?	Kim Ŭnhŭi	Essay/Editorial
+31	270	On Korean Proletarian Writers	Min Pyŏnghwi	Literary Criticism
+31	280	The Recent Russian Literary Scene	Scholar Haesong	Literary Criticism
+31	290	People Who Enjoy P'yeja(?)	Yi Ŭngsu	Poem
+31	300	A Letter Came from You	Kwak Chongsu	Poem
+31	310	One Apple	Kwak Chongsu	Poem
+31	320	Passerby	Lu Xun (Original)	Play/Scenario
+31	330	That Woman	Kang Kyŏngae	Novel
+31	340	Editor's Postscript		Apology/Editorial Note
+32	010	Holding "Peninsula's Tropical Zone", On the Occasion of the Fourth Anniversary of This Magazine's First Publication		Apology/Editorial Note
+32	020	To Mr. Sin Hŭngu: Please Go to America and Raise One Million Won, As Funds for the Peninsula's Cultural Enterprise		Literary Miscellany
+32	030	To Mr. Kim Sŏngsu: Please Establish a People's University, As the Greatest Enterprise of a Generation		Literary Miscellany
+32	040	To Yŏ Unhyŏng: Please Resume Activities Overseas, And Send Funds from Abroad Too		Literary Miscellany
+32	050	Record of an Audience with the Late King Kojong (Yi T'aewang), Fragmentary Thoughts as They Come	Principal of Paejae High School, Appenzeller	Memoir/Reminiscence
+32	060	Recent Situation and Mr. Ch'oe Rin	Yi Chŏngsŏp	News
+32	070	Brief Character Sketch: O Sangsun	Hwang Sŏgu	News
+32	080	My Shanghai Period, Autobiography Part 2	Yŏ Unhyŏng	Memoir/Reminiscence
+32	090	Various Movements Flowing in Japan	Kim Kyŏngjae	Essay/Editorial
+32	100	Ten Commandments for Young Students		News
+32	110	Romance of Life in Prison		Memoir/Reminiscence
+32	120	Theory of Preparation for the Second World War	Sŏ Pyŏngha	Essay/Editorial
+32	130	Significance and Mission of the Writers' Association, Dismissing the Arguments of Opponents	Pak Ilhyŏng	Essay/Editorial
+32	140	Brief Character Sketch: Wŏn Chongnin	Hwang Sŏgu	Memoir/Reminiscence
+32	150	Chongno Crossroads		Miscellany
+32	160	Beauties Chronicle		News
+32	170	Peninsula, Prosper! Presented to Korean Brothers Through "Samch'ŏlli"—	Dr. Schmidt, International Olympic Committee Member, Chairman of the Austrian Athletic Association	Memoir/Reminiscence
+32	180	Should the Korean Nation Advance South or North?		Social Critique
+32	190	Diplomacy and Culture of Old Korea	Emile Martel, Former Principal of the French Language School of Old Korea	Memoir/Reminiscence
+32	200	Biographies of Great Educators with Ten Thousand Disciples, Critique of Ch'oe Kyudong, Pillar of the Educational World	Scholar Sŏngsŏ	Memoir/Reminiscence
+32	210	Farmers and Literature/Arts	Kim T'aeo	Literary Criticism
+32	220	Russian GPU		News
+32	230	Account of Performances in Ōsaka	Pae Kuja from Ōsaka	Literary Miscellany
+32	240	Group of New Women Hoping to Become Movie Actresses, "From the Standpoint of a Korean Film Director"	Kim Yuyŏng	Literary Criticism
+32	250	Trip to Puyŏ	Kim Sŏlgang	Poem
+32	260	Factory Morning	Hwang Sŏgu	Literary Miscellany
+32	270	Farewell Poem	Chijae from Kimch'ŏn	Poem
+32	280	Climbing Chugam Pavilion	At Omisan, Andong	Poem
+32	290	Remembering Old Friends in Kyŏngsŏng (Seoul) on a Summer Night		Poem
+32	300	Again		Poem
+32	310	On the Way to the Capital (Seoul)		Poem
+32	320	Six Bends of Yamada/Mountain Fields		Poem
+32	330	Ttarigetta		Miscellany
+32	340	Because of That		Miscellany
+32	350	Elder Brother Sŏhae!	Ch'ae Kyuyŏp in Tōkyō	Memoir/Reminiscence
+32	360	Account of Escape from a Coal Mine	Han Sŏngjun in Nagoya	Memoir/Reminiscence
+32	370	History of Glory of Famous Kisaeng of the Capital (Seoul), Life Story of Famous Kisaeng Who Enjoyed Glory Riding a Golden Carriage		News
+32	380	Popular Songs of Korea	Yi Sŏgu	Literary Criticism
+32	390	Lonely Evening (2), Serialized	Kim Tongin	Novel
+32	391	Urgent Notice		Apology/Editorial Note
+32	400	Prospects for the Russian Poetry Scene	Demyan Bedny (Original), Somin (Translation)	Poem
+32	410	Literary World Gossip		News
+32	420	Nonsense	Sin Pulch'ul	Poem
+32	430	Dr. Ch'oe's Conscience	Yi Chongmyŏng	Novel
+32	440	Editor's Postscript		Apology/Editorial Note
+32	450	From the Publishing Department		Apology/Editorial Note
+32	451	Urgent Notice		Apology/Editorial Note
+33	010	Build a Nest on This Land	P'ain	Poem
+33	020	Samch'ŏlli News		News
+33	030	Recent Domestic and Foreign Guests to the Peninsula		News
+33	040	The Korean Problem in the Lytton Report Submitted to the League of Nations		News
+33	050	Remarkable Figures of the Financial World, Hong Chonghwa and Kim Kidŏk, Life Stories of Two Great Tycoons of Ten Million Won Who Suddenly Appeared	Scholar Hanyang	News
+33	060	Company Notice	Samch'ŏlli Company Editor-in-Chief	Apology/Editorial Note
+33	070	Record of the 6th All-Korea Lawyers' Conference	Sin T'aek'ak	News
+33	080	Representative Views of Foreign Newspapers	Yi Kwanyong	News
+33	090	Travelogue of Manchukuo	Im Wŏn'gŭn from Andong County	Travelogue
+33	100	Our Cherished Sentiments		Literary Miscellany
+33	110	Officers in White Active Overseas		News
+33	120	Our Cherished Sentiments		Literary Miscellany
+33	130	Suffrage and Students	Hŏ Hŏn	Social Critique
+33	140	Chongno Crossroads		News

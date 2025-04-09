@@ -1,0 +1,66 @@
+별건곤 第70號
+
+1934년 02월 01일
+
+米國弗平價切下!!, 이것은 무슨 말인가 (What is the Meaning of the US Dollar Devaluation?)
+
+申泰翊
+
+논설 (Essay)
+
+Dollar Devaluation!!, What Does This Mean?
+Shin Tae-ik
+
+The Issue of Dollar Devaluation
+
+The world is abuzz that the United States has devalued the dollar (弗貨). To put it another way, it can be said that they have lowered the value of the dollar, which is the American currency. However, with just this explanation, it's difficult to understand what dollar devaluation means, even with general common sense. Therefore, I will avoid delving into professional theories and detailed calculations, and I will try to explain as simply as possible what dollar devaluation is, only to the extent of giving a general explanation.
+
+When people think of money, they usually think of paper money (紙幣). Some might think that banks that can issue this paper money can simply print pieces of paper and call it money as much as they need. But things in the world don't work so absurdly. We call paper money "money," but in reality, gold (金) is the true money, and paper money is essentially a certificate (保管證) from the bank guaranteeing that they hold the amount of money written on the paper. In other words, if you look at the paper money issued by banks that can issue paper money—for example, the Bank of Chosŏn in Korea or the Bank of Japan in Japan—it states that they will exchange the amount written on the bill, such as one won or five won, for gold. Therefore, banks that can issue paper money cannot simply issue it indiscriminately; they must prepare a certain amount of gold coins (金貨) or gold bullion (金塊) before they can issue paper money. Considering this, we can see that although people call paper money "money," in reality, gold is what serves as money.
+
+As such, when paper money is issued by a bank, it is backed by a certain amount of gold reserves, but the exact amount of these reserves is vague. Therefore, the currency law (貨幣法) stipulates the value of the country's currency. For example, in Japan, one yen is equivalent to two pun (二分) of gold, and one monme (一匁目) of gold is legally fixed at five yen. (In reality, this is not the case in Japan today.) For this reason, one yen always has the value of two pun of gold, and five yen always have the value of one monme of gold. This is not unique to Japan; every country clearly defines this in its currency law. Therefore, the United States, which I will discuss here, undoubtedly has a set gold weight for its paper money.
+
+Just as the unit of Japanese money is the yen (圓), the unit of American money is the dollar (弗). How much does one dollar represent in terms of gold weight? Until this devaluation, one dollar was equivalent to 23.22 grains, with 480 grains being one ounce. In Japan, gold is bought and sold using the monme as a unit, and in the United States, gold is bought and sold using the ounce as a unit. One ounce is equivalent to 8.2944 monme in Japanese units. Therefore, the legal value of one ounce of gold was fixed at $20.60 (the "cent" is like the "jeon" below the "won" in Japanese currency, with the "dollar" as the unit in American currency and the "cent" below it). To reiterate, the value of one ounce of gold in the United States was always legally fixed at $20.67, without any changes.
+
+The reason why the word "dollar devaluation" has emerged is because the US President has amended this long-standing currency law. So, how did the US President amend the currency law? As mentioned above, the gold weight of one dollar, which was 23.22 grains, has now been changed to 13.714 grains, and therefore, one ounce of gold, which was previously worth $20.67, has changed to $35. This change represents a difference of 4 hal (割), 9 ri (厘), and 4 mo (毛). This is what is meant when people say that the United States has devalued its currency by 41.4%.
+
+Finally, I must mention the consequences of this devaluation in the United States. Firstly, this devaluation lowers the value of paper money (價値) and, conversely, raises the value of gold. What does this mean? Whether devaluation has occurred or not, one dollar is always one dollar. However, the amount of gold that one dollar represents is different before and after the devaluation. In other words, the gold weight of one dollar was 23.22 grains before the devaluation, but it decreased to 13.714 grains after the devaluation. Although one dollar is still one dollar, this difference means that the price of gold has increased by that amount, and conversely, the value of paper money has decreased by the amount that the gold weight has decreased. For banks that issue paper money, the gold reserve for one dollar has decreased by 41%, allowing them to issue 41% more paper money than before the devaluation without needing to increase their gold reserves.
+
+As a result, the price of goods rises, and the value of money falls. Why? Let's say you bought something for one dollar before the devaluation. The value of that item is 23.22 grains of gold. However, when you try to buy that same item after the devaluation, you need to provide paper money worth 23.22 grains of gold, which is no longer covered by one dollar. The main goal of devaluation is to make money (paper money) abundant and thereby raise the price of goods to prevent economic depression (經濟不況) in the country. I believe it would not be wrong to think so. <7>
+
+**Named Entities**
+
+朝鮮銀行	 Chosŏn Ŭnhaeng
+日本銀行	 Ilbon Ŭnhaeng
+李承晩	 I Sŭng-man
+伊藤博文	 Itō Hirobumi
+韓國	 Han'guk
+日本	 Ilbon
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제70호
+발행일	1934년 02월 01일
+기사제목	米國弗平價切下!!, 이것은 무슨 말인가
+필자	申泰翊
+기사형태	논설
+
+米國弗平價切下!!, 이것은 무슨 말인가
+						申泰翊
+弗平價切下問題
+미국에서는 불화(弗貨)의 평가(平價)를 절하(切下)하엿다고 세상에서는 떠든다. 이것을 다시 말한다면 미국의 돈인 불화의 갑어치(價値)를 떠러트렷다는 것이라고도 할 수 잇다. 그러나 이러케 말만하여 가지고는 불화의 평가절하란 것이 무슨 말인지 대체의 상식으로라도 알기가 어렵다. 그래서 나는 전문적 리론(理論)과 자세한 환산(換算)의 수자를 들지 안코 될 수 잇는대로 가장 알기 쉬웁게 대체 이러이러케 된 것을 불평가절하라고 하는 설명의 정도에 끄치랴고 한다.
+
+세상에서 돈이라고 하면 누구나 지페(紙幣)를 생각케 된다. 그러면 이 지페를 발행할 수 잇는 은행은 다만 필요에 따러서 얼마든지 종이 쪼각을 백여서 돈이라고 발행할 수 잇는 것으로 생각할 사람이 잇슬는지 모른다. 그러나 세상이 일은 그처럼 터문이 업시 되는 것이 아니다. 우리가 지페를 돈이라고 하지만 실상은 금(金)이 참말 돈으로 지페란 것은 은행에서 그 지페에 쓰인 금액만큼 맛터 가지고 잇다는 보관증(保管證)이라고 하여도 심한 말이 아니된다. 이것을 다시 말하면 지페를 발행할 수 잇는 은행 가령 조선에 잇서는 조선은행, 일본에 잇서는 일본은행에서 발해하는 지페를 보면 그 쓰인 금액이 일원이면 일원, 오원이면 오원만큼의 금과 밧구어 준다고 하엿다. 그럼으로 지페를 발행할 수 잇는 은행이라고 해서 무턱대이고 지페를 발행할 수 잇는 것이 아니라 지페를 발행함에 상당한 수량의 금돈(金貨)이나 금덩어리(金塊)를 준비하야 놋코서야 비로소 지페를 발행케 되는 것이다. 이것을 가지고 생각하면 세상에서 돈을 지페라고 하지만 실상은 금이 돈으로 되어 잇슴을 알게된다.
+
+이와 가티 지페가 은행으로부터 발행되여 나올 때에는 그만큼의 금 준비가 된다고 하지만 막연히 그만큼의 준비라는 것은 모호하다. 그래서 화페법(貨幣法)에다가 자기 나라의 돈, 다시 말하면 가령 일본에서는 금두푼증(二分)에 일원으로 하야 금한몸메(一匁目)는 오원으로 법률상 꽉-정해 노앗다.(오눌에 잇서 일본의 실상은 그러케 되어 잇지 안타) 이런 까닭에 언제든지 일원은 금두푼중의 갑어치를 가지고 잇스며 또 오원은 금한몸메의 갑어치를 가지고 잇는 것이다. 이것은 일본에서만 그런것이 아니라 어느 나라든지 모두 화페법에 분명히 정해 노앗다. 그럼으로 이곳에서 말하랴는 미국도 역시 이 나라의 지페에 대하야 금중량(重量)이 얼마이라고 정해 잇슬것은 물론이다.
+
+일본 돈은 원(圓)이 단위(單位)로 된 것과 가티 미국의 돈은 불(弗)이 단위로 되어 잇다. 그러면 이 한불은 금 중량의 얼마큼을 말하는 것인가 이번 평가절하가 되기 전까지는 한불의 금중량이 23.22『그례인』으로 4백80『그레인』이 한『온쓰』라고 되어잇다. 그런대 일본에서 금을 사고 팔때에 그 중량의 단위를 몸메로 하는 것과 가티 미국에서도 금을 사고 팔 때에 『온쓰』를 단위로 하여앗다. 이 『온쓰』를 일본의 몸메에 얼마가 되느냐고 하면 8몸메2944가 된다. 따러서 1『온쓰』의 금 중량은 20불60선(仙)으로 법률상 매여 노앗든 것이라(이 선이라고 함은 일본 돈의 원(圓)이 단위로 되고 이원 아래 전(錢)이 잇는 것과 가티 미국 돈의 불이 단위로 되어 잇고 그 아래 선이 잇는 것이다). 이것을 한번 다시 말하면 미국의 금 1온쓰 갑은 20불67선으로 어느 때든지 법률상 변동이 업섯다.
+
+이러케 되어 오든 화페법을 이번에 미국대통령이 고친 까닭에 불평가절하란 말이 생긴 것이다. 그러면 미국대통령은 화페법을 엇더케 고첫는가를 말케 된다. 위에서 말한 것과 가티 1불의 금 중량 23.22『그레인』이든 것으로 이번에 13.714『그레인』으로 고첫스며 따러서 전에는 금 1온쓰가 20불67선이 잇든 것이 35弗로 변하엿다. 이처럼 변동이 생긴 차(差)가 4활(割)9리(厘)4모(毛)이다. 이것을 가리켜서 이번 미국이 4활 일분의 평가절하를 하엿다고 말하는 것이다.
+
+끄트로 이와 가티 미국에서 평가를 절하한 결과는 엇더케 되는가를 말치 안흘 수 업다. 첫재로 이 평가절하란 것은 지페 갑어치(價値)를 떠러트리고 이것과 반대로 금갑을 올니게 된다. 이것이 무슨 말이냐고 하면 평가절하를 한때이나 안한 때이나 1불은 언제든지 1불대로 잇다. 그럿치만 그 1불이 말하고 잇는 금 중량은 평가절하를 안한 때와 평가절하를 한때와 달나젓다. 다시 말하면 평가절하를 안한 때에는 1불의 금 중량 23.22『그레인』이엇든 것이 평가절하를 한때에는 13.714『그레인』으로 금 중량이 줄어젓다. 1불은 1불이지만 이처럼 틀니는 것은 곳 그 틀니는 만큼 금 갑이 올느는 것을 말하는 것이 되며 이것과 반대로 지페는 그 ＜6＞ 금 중량이 줄어든 만큼 갑어치가 떠러진 것을 말하는 것이 된다. 그러고 지페를 발행하는 은행으로 잇서도 1불에 대한 금 중량이 4활1분이 줄어든 만큼 금 준비를 더 안하고서라도 평가절하를 안한 때보다 4활1분의 지페를 더 발행할 수가 잇게 된다.
+
+이 결과는 물건 갑은 올나가고 돈 갑어치는 떠러진다. 왜-그러냐고 하면 평가절하를 안 한때에 1불을 주고 엇더한 물건을 삿다고 하자. 그 물건의 갑은 1불의 금 중량 23.22『그레인』이다. 그러나 평가절하를 한 뒤에 그 물건을 사랴고 할 때에는 전과 가티 금 중량 23.22『그레인』 갑어치의 지페를 주어야 될 것임으로 1불을 가지고는 부족이 생긴다. 이와 가티 평가절하의 큰 목적은 돈(지페)를 흔케 하고 따러서 물건갑을 노피여 자기 나라의 경제불항(經濟不況)을 막으랴는데 잇다고 생각하면 큰 틀님이 업슬 줄로 생각한다.＜7＞
+＜6-7＞

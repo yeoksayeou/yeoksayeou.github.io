@@ -1,0 +1,84 @@
+別件坤 第43號
+1931년 09월 01일
+統計室 (Statistics Room)
+소식 (News)
+
+Statistics Room
+Criminal Cases Handled by Courts
+
+In 1929, the criminal cases handled by each court totaled 42,727 in the first instance, 1,982 in the second instance, and 185 in the third instance, totaling 44,894 cases. Compared to the previous year, there was an increase of 6,782 cases in the first instance and 305 cases in the second instance, and a decrease of 3 cases in the third instance, resulting in a total increase of 7,086 cases. The number of people tried was 47,479 in the first instance, 1,146 in the second instance, and 168 in the third instance, totaling 48,791, an increase of 6,894 compared to the previous year. Of these, 45,327 people were convicted (44,077 Koreans, 923 Japanese, 326 Chinese, and 1 American). Classified by crime, there were 15,933 people for criminal law offenses (刑法犯) and 29,394 for special law offenses (特別法犯). Listing the crime names, among the criminal law offenses, there were 5,267 for theft (竊盜), 3,504 for injury (傷害), 1,898 for gambling (賭博), and 1,295 for fraud (詐欺). Among the special law offenses, violations of the Joseon Tobacco Monopoly Ordinance (朝鮮煙草專賣令 違反) were the highest at 15,504, followed by violations of the Liquor Tax Law (酒稅令 違反) at 6,911, and violations of the Forest Law (森林令 違反) at 2,474. From this, we can infer how many people are punished under special laws.
+
+<8> Eight Hundred People on the Guillotine
+
+Looking at the execution records of the Governor-General's politics (總督政治) in Joseon for about 20 years from August 1911 (Meiji 44) to the end of 1929 (Showa 4), there were over 740 executions (死刑執行), and from January of this year alone, the statistics from the Gyeongseong Court (京城法院) exceed 20. If we add the statistics from last year, 1930 (Showa 5), the number of people who lost their lives on the gallows (絞首臺) after annexation, regardless of the crime, surpasses eight hundred. In many other countries, the death penalty abolition theory (死刑廢止論) is strongly emerging as they shift from retribution (應報刑) and punitive justice (懲罰主義) to reformation (敎化主義), but in Joseon, this is still a distant dream.
+
+Now, looking at the laws applied to death row inmates (死刑囚) in Joseon, there are treason (大逆罪), insurrection (內亂罪), foreign aggression (外患罪), arson murder (殺人放火), and special laws such as the Peace Preservation Law (治安維持法). Among the statistics mentioned above, the most common cases are robbery-murder (强盜殺人) and adultery where adulterers (姦夫姦婦) conspire to kill their husbands (本夫殺害). There were also the executions of Kang U-gyu (姜宇奎), who threw a bomb at Gyeongseong Station when Saitō (齋藤) took office as Governor-General, and Song Hak-seon (宋學先), famous for the Gim Homun (金虎門) incident during Sunjong's (純宗) funeral (因山). (Omitted - original text) It is said that among the 300 members of the Gando Communist Party (間島共産黨員) currently awaiting trial at the Gyeongseong Court, about 10% will face execution for crimes such as arson murder. The historical statistics are as follows:
+Meiji 44 (1911): 94
+Taisho 1 (1912): 73
+Taisho 2 (1913): 54
+Taisho 3 (1914): 54
+Taisho 4 (1915): 49
+Taisho 5 (1916): 53
+Taisho 6 (1917): 39
+Taisho 7 (1918): 47
+Taisho 8 (1919): 11
+Taisho 9 (1920): 36
+Taisho 10 (1921): 45
+Taisho 11 (1922): 27
+Taisho 13 (1924): 11 <9>
+
+Named Entities
+
+京城法院	Kyŏngsŏng Court
+齋藤總督	Saitō
+姜宇奎	Kang U-gyu
+金虎門	Kim Homun
+宋學先	Song Hak-seon
+純宗	Sunjong
+間島共産黨員	Kando Communist Party
+
+
+
+---------------------------
+
+
+잡지명	별건곤 제43호
+발행일	1931년 09월 01일
+기사제목	統計室
+기사형태	소식
+
+統計室
+裁判所 取扱 刑事事件
+昭和 4년 중 각 재판소에 취급한 형사사건은 第一審 4만 2,727건, 第二審 1,982건, 第三審 185건, 합계 4만 4,894건이다. 其年 전과 비교하면 一審에 6,782건, 二審에 305건 各增, 三審에 3건 滅, 합하야 7,086건의 증가이다. 재판 인원은 一審 4만 7,479人, 二審 1,146人, 三審 168人, 합계 4만 8,791人으로 其年 전과 비하면 6,894人의 증가이다. 이 중에서 유죄 판결이 확정된 者가 4만 5,327人(조선인 4만 4,077人, 일본인 923人, 중국인 326人, 미국인 1人), 罪別로 분류하면 刑法犯 1만 5,933人, 特別法犯 2만 9,394人인데 罪名을 摘記하면 刑法犯 중에 竊盜 5,267人, 傷害 3,504人, 賭博 1,898人, 詐欺 1,295人이오 特別法犯 중에는 朝鮮煙草專賣令 違反이 최고로 1만 5,504人, 酒稅令 違反이 6,911人, 森林令 違反이 2,474人이다. 이로써 特別法犯 때문에 刑罰 밧는 인민이 얼마나 만흔가를 窺測할 수 잇다.
+
+斷頭臺上에 八百人
+명치(明治) 44년 8월 이후로부터 소화(昭和) 4년말까지 약 20년간 조선 총독정치(總督政治)의 행형(行刑) 실적을 보면 사형집행(死刑執行)이 740여 人이며 금년 1월부터 경성법원(京城法院) 통게만 20여 명을 초과하얏다 한다. 작년 즉 昭和 5년의 통게를 합산하면 합병 후 죄명은＜8＞ 여하하얏든지 교수대(絞首臺)상의 원혼으로 생목숨을 끈혼 사람이 팔백 명을 통과한다. 다른 여러 나라에서는 응보형(應報刑)에 목적형(目的刑)으로 증벌주의(懲罰主義)에서 교화주의(敎化主義)에로 변천하기 위하야 사형페지론(死刑廢止論)이 성히 대두되고 잇스나 아직 조선에서는 꿈도 못 꾸는 일이다.
+
+이제 조선에서 사형수(死刑囚)에 적용되는 법률을 보면 대역죄(大逆罪)를 비롯하야 내란죄(內亂罪) 외환죄(外患罪) 살인방화 밧게 특별법으로 치안유지법(治安維持法) 등이 잇는 바 좌긔 통게 중에는 강도살인(强盜殺人)과 간부 간부(姦夫姦婦)가 공모하야 본부 살해(本夫殺害)한 것이 최다하며 재등총독(齋藤總督) 부임 당시에 경성역에 폭탄을 던진 강우규(姜宇奎)와 순종인산(純宗因山) 당시 김호문(金虎門) 사건으로 유명한 송학선(宋學先)의 사형 등 (中略 - 원문) 방금 경성법원에서 미결로 잇는 간도공산당원(間島共産黨員) 삼백 명 중에는 살인방화 등 죄명으로 사형의 집행을 바들 사람이 약 일할에 당한다 하며 력대의 통게는 다음과 갓다.
+明治 44년     94
+
+大正 元年     73
+
+同    2年     54
+
+同    3年     54
+
+同    4年     49
+
+同    5年     53
+
+同    6年     39
+
+同    7年     47
+
+同    8年     11
+
+同    9年     36
+
+同   10年     45
+
+同   11年     27
+
+同   13年     11 ＜9＞
+
+＜8-9＞
