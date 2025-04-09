@@ -20,6 +20,54 @@ function loadDataFile() {
   // Check if translations toggle is on
   const useTranslations = document.getElementById('translation-toggle').checked;
   
+  // Check if we're running locally (file://) or on a web server (http:// or https://)
+  const isLocalFile = window.location.protocol === 'file:';
+  
+  // If running locally, use direct script loading to avoid CORS issues
+  if (isLocalFile) {
+    console.log("Detected local file system. Using direct script loading method.");
+    loadScriptDirectly(useTranslations);
+  } else {
+    // For web servers, use the gzip approach
+    console.log("Detected web server. Using gzip decompression method.");
+    loadCompressedData(useTranslations);
+  }
+}
+
+// Function to load script directly (for local file:// usage)
+function loadScriptDirectly(useTranslations) {
+  const dataFilePath = useTranslations ? 'support/data_en.js' : 'support/data.js';
+  console.log(`Loading uncompressed data from: ${dataFilePath}`);
+  
+  const script = document.createElement('script');
+  script.id = 'data-script';
+  script.src = dataFilePath;
+  
+  // Handle load event
+  script.onload = function() {
+    console.log(`Loaded ${dataFilePath}`);
+    
+    // Now that we have the data, initialize filters
+    initializeFilters();
+    
+    // If search is active, re-run it with new data
+    if (document.querySelector('.results-header .results-per-page').style.display === 'block') {
+      performSearch();
+    }
+  };
+  
+  // Handle error
+  script.onerror = function() {
+    console.error(`Failed to load ${dataFilePath}`);
+    alert(`Error loading data file: ${dataFilePath}. Please refresh the page.`);
+  };
+  
+  // Add script to document
+  document.body.appendChild(script);
+}
+
+// Function to load and decompress gzipped data (for http/https usage)
+function loadCompressedData(useTranslations) {
   // Set source based on toggle state
   const dataFilePath = useTranslations ? 'support/data_en.js.gz' : 'support/data.js.gz';
   
@@ -84,33 +132,7 @@ function loadDataFile() {
       
       // Fallback to uncompressed version if compressed version fails
       console.log(`Falling back to uncompressed data file`);
-      
-      // Create new script element for uncompressed version
-      const fallbackScript = document.createElement('script');
-      fallbackScript.id = 'data-script';
-      fallbackScript.src = useTranslations ? 'support/data_en.js' : 'support/data.js';
-      
-      // Handle load event
-      fallbackScript.onload = function() {
-        console.log(`Loaded fallback ${fallbackScript.src}`);
-        
-        // Now that we have the data, initialize filters
-        initializeFilters();
-        
-        // If search is active, re-run it with new data
-        if (document.querySelector('.results-header .results-per-page').style.display === 'block') {
-          performSearch();
-        }
-      };
-      
-      // Handle error
-      fallbackScript.onerror = function() {
-        console.error(`Failed to load fallback ${fallbackScript.src}`);
-        alert(`Error loading data file: ${fallbackScript.src}. Please refresh the page.`);
-      };
-      
-      // Add script to document
-      document.body.appendChild(fallbackScript);
+      loadScriptDirectly(useTranslations);
     });
 }
 

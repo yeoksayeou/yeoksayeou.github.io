@@ -5,8 +5,6 @@ function getUrlParam(param) {
 }
 
 // Load appropriate data file based on translation toggle
-// Load appropriate data file based on translation toggle
-// Load appropriate data file based on translation toggle
 function loadDataFile() {
   // Remove any existing data script
   const existingScript = document.getElementById('data-script');
@@ -19,19 +17,35 @@ function loadDataFile() {
     window.ARTICLES = undefined;
   }
   
-  // Create new script element
-  const dataScript = document.createElement('script');
-  dataScript.id = 'data-script';
-  
   // Check if translations toggle is on
   const useTranslations = document.getElementById('translation-toggle').checked;
   
-  // Set source based on toggle state
-  dataScript.src = useTranslations ? 'support/data_en.js' : 'support/data.js';
+  // Check if we're running locally (file://) or on a web server (http:// or https://)
+  const isLocalFile = window.location.protocol === 'file:';
+  
+  // If running locally, use direct script loading to avoid CORS issues
+  if (isLocalFile) {
+    console.log("Detected local file system. Using direct script loading method.");
+    loadScriptDirectly(useTranslations);
+  } else {
+    // For web servers, use the gzip approach
+    console.log("Detected web server. Using gzip decompression method.");
+    loadCompressedData(useTranslations);
+  }
+}
+
+// Function to load script directly (for local file:// usage)
+function loadScriptDirectly(useTranslations) {
+  const dataFilePath = useTranslations ? 'support/data_en.js' : 'support/data.js';
+  console.log(`Loading uncompressed data from: ${dataFilePath}`);
+  
+  const script = document.createElement('script');
+  script.id = 'data-script';
+  script.src = dataFilePath;
   
   // Handle load event
-  dataScript.onload = function() {
-    console.log(`Loaded ${dataScript.src}`);
+  script.onload = function() {
+    console.log(`Loaded ${dataFilePath}`);
     
     // Now that we have the data, initialize filters
     initializeFilters();
@@ -43,13 +57,83 @@ function loadDataFile() {
   };
   
   // Handle error
-  dataScript.onerror = function() {
-    console.error(`Failed to load ${dataScript.src}`);
-    alert(`Error loading data file: ${dataScript.src}. Please refresh the page.`);
+  script.onerror = function() {
+    console.error(`Failed to load ${dataFilePath}`);
+    alert(`Error loading data file: ${dataFilePath}. Please refresh the page.`);
   };
   
   // Add script to document
-  document.body.appendChild(dataScript);
+  document.body.appendChild(script);
+}
+
+// Function to load and decompress gzipped data (for http/https usage)
+function loadCompressedData(useTranslations) {
+  // Set source based on toggle state
+  const dataFilePath = useTranslations ? 'support/data_en.js.gz' : 'support/data.js.gz';
+  
+  console.log(`Loading compressed data from: ${dataFilePath}`);
+  
+  // Show loading indicator (optional)
+  // statsDiv.innerHTML = `<div class="loading">${translations[currentLanguage].loading}</div>`;
+  
+  // Fetch the gzipped file
+  fetch(dataFilePath)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`Failed to fetch ${dataFilePath}: ${response.status} ${response.statusText}`);
+      }
+      return response.arrayBuffer();
+    })
+    .then(compressedData => {
+      // Decompress the gzipped data
+      return new Promise((resolve, reject) => {
+        try {
+          // Use DecompressionStream API (modern browsers)
+          const ds = new DecompressionStream('gzip');
+          const decompressedStream = new Blob([compressedData])
+            .stream()
+            .pipeThrough(ds);
+          
+          new Response(decompressedStream).text().then(text => {
+            resolve(text);
+          }).catch(err => {
+            reject(err);
+          });
+        } catch (err) {
+          reject(new Error(`Decompression failed: ${err.message}`));
+        }
+      });
+    })
+    .then(jsCode => {
+      // Execute the data.js code to define ARTICLES
+      try {
+        // Create a temporary script element to execute the code
+        const script = document.createElement('script');
+        script.id = 'data-script';
+        script.textContent = jsCode;
+        document.body.appendChild(script);
+        
+        console.log(`Successfully loaded and executed ${dataFilePath}`);
+        
+        // Now that we have the data, initialize filters
+        initializeFilters();
+        
+        // If search is active, re-run it with new data
+        if (document.querySelector('.results-header .results-per-page').style.display === 'block') {
+          performSearch();
+        }
+      } catch (err) {
+        console.error(`Error executing decompressed JavaScript: ${err.message}`);
+        alert(`Error loading data file: ${dataFilePath}. Please refresh the page.`);
+      }
+    })
+    .catch(err => {
+      console.error(`Error loading compressed data: ${err.message}`);
+      
+      // Fallback to uncompressed version if compressed version fails
+      console.log(`Falling back to uncompressed data file`);
+      loadScriptDirectly(useTranslations);
+    });
 }
 
 // Check if English language mode is active
@@ -147,6 +231,12 @@ function validateYearRange() {
 function initializeFilters() {
   const types = new Set();
   
+  // Make sure ARTICLES is defined before trying to access it
+  if (typeof ARTICLES === 'undefined' || !ARTICLES) {
+    console.error('ARTICLES not defined when initializing filters');
+    return;
+  }
+  
   // Get min and max years for the year range inputs
   let minYear = 3000;
   let maxYear = 1000;
@@ -178,6 +268,13 @@ function initializeFilters() {
 // Populate select dropdowns
 function populateSelect(id, options) {
   const select = document.getElementById(id);
+  
+  // Clear existing options (except the first one which is "All Types")
+  while (select.options.length > 1) {
+    select.remove(1);
+  }
+  
+  // Add new options
   options.forEach(option => {
     const optionElement = document.createElement('option');
     optionElement.value = option;
