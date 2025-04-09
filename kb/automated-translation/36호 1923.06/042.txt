@@ -1,0 +1,53 @@
+Magazine Title: 개벽
+Publication Date: 1923년 06월 01일
+Article Title: 正誤 (Errata/Corrections)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+In the supplement Gyeongnam Province issue attached to this magazine's April issue, page 32, second column, fourth line, 'Mr. Yi I-o' (李以吾氏) is an error for 'Mr. Chŏng I-o' (鄭以吾氏). Likewise, on page 33, upper column, second line, 'Yi I-o' (李以吾) is an error for 'Chŏng I-o' (鄭以吾).
+
+In this magazine's May issue, page 12, within the article titled 'What Kind of Month is May?' (五月은 어한 달인가), the statement that China's National Humiliation Memorial Day (國恥記念日) is the 4th is an error for the 7th.<31>
+
+**Summary**
+
+This brief article lists corrections for previous issues of the magazine *Kaebyŏk*. It rectifies a misspelling of a person's name, changing Yi I-o to Chŏng I-o in two places within the April issue's Gyeongnam Province supplement. It also corrects the date mentioned for China's National Humiliation Memorial Day in the May issue, stating it should be May 7th, not May 4th. The mention of China's National Humiliation Day (related to the Twenty-One Demands) indicates the magazine's and its readership's awareness of significant political events and anti-imperialist sentiment in neighboring East Asian countries during the Japanese colonial period.
+
+**Named Entities**
+
+李以吾	이이오	Yi I-o
+鄭以吾	정이오	Chŏng I-o
+慶南道	경남도	Kyŏngnam Province
+中國	중국	China
+
+**Glossary**
+
+正誤	정오	Correction/Errata
+本誌	본지	This magazine
+四月號	사월호	April issue
+附	부	Supplement/Attached
+慶南道號	경남도호	Gyeongnam Province Issue (A special supplement)
+二段	이단	Second column/section
+第四行	제사행	Fourth line
+誤	오	Error/Mistake
+同	동	Same/Likewise
+上段	상단	Upper column/section
+五月號	오월호	May issue
+어한	어떠한	What kind of (Older spelling of 어떠한)
+題	제	Title/Subject
+記事	기사	Article
+中國	중국	China
+國恥記念日	국치기념일	National Humiliation Memorial Day
+七日	칠일	7th day
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제36호
+발행일	1923년 06월 01일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+本誌 四月號 附 慶南道號 三二頁 二段 第四行 李以吾氏는 鄭以吾氏의 誤·同 三十三頁 上段 第二行 李以吾는 鄭以吾의 誤
+本誌 五月號 一二頁 『五月은 어한 달인가』란 題의 記事 中 中國의 國恥記念日이 四日이라 함은 七日의 誤＜31＞

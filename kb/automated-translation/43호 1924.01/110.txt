@@ -1,0 +1,89 @@
+Magazine Title: 개벽 제43호
+Publication Date: 1924년 01월 01일
+Article Title: 豆滿江岸의 定界碑文 (Inscription on the Boundary Monument on the Tumen River Bank)
+Author: 魚允中
+Article Type: 문예기타 (Literary Miscellaneous)
+
+The Tumen River flows southeast from Paektu Mountain, thereby defining the boundary between north and south. Reaching east of Hunyung Fortress in Kyŏngwŏn Prefecture, it passes through a gorge opening and frequently floods, causing trouble. It breaches our western boundary, forming an island several *li* square, which the local people call Ido (珥島). In the *kabin* year of Kangxi (1674), Prefectural Magistrate Yi Yu (李秞) blocked the branch stream, fixed the waterway, and erected three stone markers at the upper, middle, and lower parts of the island.
+
+In recent years, officials from Jilin have been recruiting people from Hunchun to cultivate the wasteland. People from Hunchun, seeing this land was arable, reported it to their officials and requested permission to cultivate it. They then referred to it as P'yŏnt'ong (片爾通), claimed our people's cultivation was illegal occupation (佔墾), and intended to annex the land. Our people strongly resisted, but the official case remained unresolved.
+
+In the *kyemi* year (1883), I, while serving as Northwest Circuit Inspector (經畧西北), visited Kyŏngwŏn to discuss trade inspection matters. Assistant Director P'eng Kuang-yü (彭光譽) arrived from Jilin to confer on commercial affairs. Under instructions from Minister O Ta-ch'eng (吳大澂) of Ningguta, [he] conducted an on-site survey nearby. Initially swayed by the Hunchun people's arguments, the waterway issue lost its substance. I dealt with it through official documents. [We] then crossed the river again, inspected the monument sites, searched for evidence, and presented the matter clearly to the higher authorities, thereby correcting the situation.
+
+For adjacent countries using a river as a boundary, the navigable channel is established as the demarcation line. The Hunchun people's desire to cross the river and encroach is utterly baseless. If not for Prefect Yi's erection of the stone markers and Assistant Director P'eng's impartial inspection, it nearly became a dispute like that of Yu and Rui (虞芮之爭). The middle marker was washed away by water, and the lower marker was destroyed by the Hunchun people. Therefore, I ordered craftsmen to cut stone, carve the inscription of the previous marker onto its face, briefly record the details of the discussions and inspection, and secure it firmly. All future guardians of this land should cultivate together and protect it.
+
+Erected on a day in the seventh month of the *kyemi* year, the ninth year of Guangxu (1883).
+Recorded by O Yun-jung (魚允中). <85>
+
+**Summary**
+
+This text is the inscription from a boundary marker re-erected in 1883 by O Yun-jung, a Joseon official. It details a border dispute concerning an island called Ido in the Tumen River, formed by the river changing course near Kyŏngwŏn. It recounts how earlier markers were placed in 1674 by Yi Yu, how people from Hunchun (Qing China) later attempted to claim the island for cultivation, calling it P'yŏnt'ong, and how O Yun-jung, along with Qing officials P'eng Kuang-yü and under the auspices of O Ta-ch'eng, investigated and reaffirmed the boundary based on the main river channel and historical markers, despite some being lost or destroyed. For historians, this inscription provides direct insight into late 19th-century Joseon-Qing border management, the specific diplomatic processes involved in resolving disputes (joint inspection, appeal to higher authorities), and the significance of physical markers and geographical features (like the main river channel) in defining the Tumen River boundary, a recurring theme in later Korean-Chinese relations, particularly concerning the Gando/Jiandao region.
+
+**Named Entities**
+
+豆滿江	두만강	Tumen River
+圖門江	도문강	Tumen River
+白山	백산	Paektu Mountain
+慶源府	경원부	Kyŏngwŏn Prefecture
+訓戎城	훈융성	Hunyung Fortress
+珥島	이도	Ido
+康熙	강희	Kangxi
+李秞	이유	Yi Yu
+吉林	길림	Jilin
+琿城	혼성	Hunchun
+片爾通	편이통	P'yŏnt'ong
+癸未	계미	Kyemi
+彭光譽	팽광예	P'eng Kuang-yü
+寗古塔	영고탑	Ningguta
+吳大澂	오대징	O Ta-ch'eng
+虞芮	우예	Yu and Rui
+光緖	광서	Guangxu
+魚允中	어윤중	O Yun-jung
+
+**Glossary**
+
+定界碑文	정계비문	Inscription on a boundary monument
+東南流	동남류	Flows southeast
+汎濫	범람	Flood, overflow
+爲洲	위주	Form an island
+土人	토인	Local people
+枝流	지류	Branch stream
+定水道	정수도	Fix the waterway/channel
+石標	석표	Stone marker
+墾荒	간황	Cultivate wasteland
+佔墾	점간	Illegal cultivation/occupation
+領地	영지	Territory
+力拒	역거	Strongly resist
+公案	공안	Official case/document
+經畧	경략	Circuit Inspector (official title)
+議勘	의감	Discuss and inspect
+踏勘	답감	On-site survey/inspection
+碑址	비지	Monument site
+上憲	상헌	Higher authorities
+得正	득정	Be corrected, rectified
+接國	접국	Adjacent countries
+船行之道	선행지도	Navigable channel
+侵佔	침점	Encroach, invade and occupy
+妄	망	Baseless, false
+立石	입석	Erect a stone
+公眼	공안	Impartial view/eye
+虞芮之爭	우예지쟁	Dispute of Yu and Rui (historical allusion)
+水蕩	수탕	Washed away by water
+伐石	벌석	Cut stone
+顚末	전말	The whole story, details
+守土	수토	Guard the land/territory
+護視	호시	Protect and watch over
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제43호
+발행일	1924년 01월 01일
+기사제목	豆滿江岸의 定界碑文
+기사형태	문예기타
+
+豆滿江岸의 定界碑文
+圖門江出白山東南流所以限南北也至慶源府訓戎城東乃過峽口汎濫爲患決我西界, 爲洲方十數里, 土人號爲珥島康熙甲寅府使李秞防枝流定水道立三石標于洲之上中下頃年自吉林說官琿城招民墾荒琿人覘此地之可耕告其官請墾之乃稱以片爾通謂我民之耕種爲佔墾將胥來領地我民力拒之猶公案未立歲癸未余經畧西北行部至慶源議勘通商事彭正郞光譽自吉林至會議商務受寗古塔大臣吳公大澂就近踏勘始入琿人言論水道失質余以書辦之乃再渡江察碑址搜雙宁呈明其上憲事乃得正接國之以江河爲界者以船行之道爲定琿人欲過江侵佔妄之甚矣若非李知府之立石爲標彭正郞之公眼來勘幾成虞芮之爭矣中標爲水所蕩下標爲琿人所破乃命工伐石面刻前標之銘粗記議勘顚末而堅之凡後之守土之人相墾而護視之
+光緖九年癸未七月 日立
+魚允中 記＜85＞

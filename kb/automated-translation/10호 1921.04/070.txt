@@ -1,0 +1,272 @@
+Magazine Title: 개벽 제10호
+Publication Date: 1921년 04월 01일
+Article Title: 社會現象槪觀, 農村經濟雜感 (Overview of Social Phenomena, Miscellaneous Thoughts on Rural Economy)
+Author: SWJ生
+Article Type: 소식 (News/Report)
+
+Overview of Social Phenomena, Miscellaneous Thoughts on Rural Economy
+						SWJ生
+The Influence of the Times and the Rural Village Problem
+This unnamed author previously spoke briefly about the exhausted state of the rural economy under the title "Rural Economy." To add further, concerning the influence of recent times and the recession in the financial world, it seems there is a tendency among rural farmers, isolated from the real state of society, regardless of how they thought about the future, to seek to permanently sell off their own land, or to seek collateralized loans from lawless high-interest lenders without questioning the interest rate. Because of this, among the Japanese, it is said that the time to buy land has arrived, and in some regions of Southern Korea (Namsŏn), a land fever has occurred. If this is a false rumor, so be it, but if it is indeed true, it is a worrying trend.
+
+Possible Degree of Increased Rice Production in Korea
+Eight or nine years ago, Korea's rice production yield was merely 10 million *sŏk* (섬/石, approx. 180 liters), but recently it has reached over 15 million *sŏk*, an increase of about 40%.<57> The reasons are undoubtedly land readjustment, seed improvement, and increased use of chemical fertilizers (金肥). However, comparing fertilizer application to Japan, while Japan averages 5 *wŏn* per *tanbo* (反, approx. 0.245 acres), Korea averages only 9 *chŏn* 2 or 3 *ri* (9錢 2,3里). The yield per *tanbo* is 1.8 *sŏk* in Japan, but only 1 *sŏk* in Korea. In terms of area, Japan's total cultivated land area is 6 million *chōbo* (町步, approx. 2.45 acres), while Korea's is over 4.3 million *chōbo*. The cost of fertilizer application is over 300 million *wŏn* annually in Japan, but merely 4 million *wŏn* in Korea. Therefore, it is said that if land improvement and increased fertilizer application are done like in Japan, an increase of 30 million *sŏk* would be easy.
+Year                Rice Harvest Yield
+
+Taishō 1 (1912)            8,982,000 *sŏk*
+
+Taishō 7 (1918)            15,119,265 *sŏk*
+
+Taishō 8 (1919)            12,647,780 *sŏk*
+
+Taishō 9 (1920) (Estimate)     14,869,413 *sŏk*
+
+
+Details of Cultivated Land Area
+The cultivated land area of all Korea, combining dry fields (田) and paddy fields (畓), corresponds to about 90% [translator's note: this seems incorrect, likely meant 9% of total land area, or 90% *of agricultural land*] of the total area, with dry fields being about 65% and paddy fields about 35%. Due to the development of water utilization projects and irrigation/reclamation projects, the cultivated land area appears to be increasing year by year. Furthermore, dividing the cultivated land area into state-owned and privately owned, private ownership is about 95% (9分 5厘), and state ownership is about 5% (5分). Regarding the total area, dividing it into taxed land and tax-exempt land, taxed land (private land) is about 90% (9分), and tax-exempt land (state-owned) is about 10% (1分).
+
+Tenant Farmer Problem
+According to recent local reports, the issue between landlords and tenant farmers seems to have formed an important social problem. This appears to be particularly severe in the Southern Korean region (Namsŏn), which is important for farmland, more so than in the Northern Korean region (Puksŏn). Initially, it arose from minor complaints against landlords, but recently, the resistance force against landlords has gradually become concrete. The landlord-tenant farmer problem did not arise recently, but recent factors such as (1) the breakdown of class ideology, (2) the expansion of landlord power, (3) rising land taxes, and (4) the economic difficulties of tenant farmers have become important causes for the emergence of the tenant farmer problem. If this cannot be resolved peacefully between landlords and tenants and gradually leads to mutual separation, antagonism, and escalating disputes, it will naturally affect the rural economy, and the direct impact will relate to the government's land tax issue.<58> Therefore, the authorities (當局) face a difficult situation where they cannot maintain a bystander's attitude. The tenant farmers' resistance movement against landlords seems to be gradually spreading from Village A to Village B, from County A to County B. The common goal of the tenant farmers' side in this resistance movement is to reduce tenant fees and have the landlords bear the entire land tax burden.
+As one example, looking at the content of a dispute that suddenly occurred in Kyŏngsang North Province (慶尙北道), the tenant farmers of that region (Talsŏng, Ch'ŏngdo, Koryŏng, Ch'ilgok, Yŏngch'ŏn - five counties) jointly organized a Tenant Farmers' Union (小作人 組合) and established the following two articles:
+1. The land tax, which tenant farmers have borne until now, shall not be borne from this year onwards.
+2. Should anyone violate this agreement, a fine of 10 *wŏn* shall be collected.
+They signed their names, and over ten thousand members, to forcefully achieve their goal, first completely refused to pay the land tax due by the end of last December 28th. Therefore, the authorities were greatly concerned and summoned 25 representatives of the tenant farmers from the five counties to Taegu (大邱) on January 18th last and earnestly persuaded them. Has it been resolved now?
+
+*Yŏktunt’o* Land Problem
+The total area of *yŏktunt’o* (驛屯土, land originally allocated to support post stations and military colonies) across Korea, which is to be sold off to tenant farmers starting this November, is 335,400,000 *p'yŏng* (坪, approx. 3.3 sq meters), consisting of 148,700,000 *p'yŏng* of dry fields (田), 119,770,000 *p'yŏng* of paddy fields (畓), 25,170,000 *p'yŏng* of fire-cleared fields (火田), and 15,350,000 *p'yŏng* of reed fields (芦田). Broken down by province, it is as follows:
+Kyŏnggi (京畿)   4,260,000
+
+Ch'ungbuk (忠北)    990,000
+
+Ch'ungnam (忠南)   1,390,000
+
+Chŏnbuk (全北)   1,357,000
+
+Chŏnnam (全南)   1,529,000
+
+Kyŏngbuk (慶北)   1,889,000
+
+P'yŏngnam (平南)   3,512,000
+
+P'yŏngbuk (平北)   3,989,000
+
+Kangwŏn (江原)   3,352,000
+
+Hamnam (咸南)   1,652,000
+
+Hambuk (咸北)   1,112,000
+
+The government's revenue from rental fees (貸付料, excluding tenant fees) for this land was 1,898,036 *wŏn* in Taishō 8 (1919). Starting this year, it has been decided to sell this land exclusively to the tenant farmers, and the estimated revenue for this fiscal year is budgeted at 3.5 million *wŏn*. The selling price was assessed based on the ratio of profit to invested capital and the lowest prices around Taishō 4-5 (1915-16). Compared to the legal land price (法定地價),<59> it corresponds to 180-190% for paddy fields, 130-140% for dry fields, and 130-140% for building sites (垈地). The investment profit ratio corresponds to over 8% up to about 10% based on current grain prices. Furthermore, considering the convenience of the purchasers of the compensation price, payment is allowed in 10-year installments (年賦). For financing, there is the convenience of obtaining a secured loan from the Bank of Chōsen (朝鮮殖産銀行) through the arrangement of the local government office under the joint liability of 20 people (limited to tenant farmers). Also, during the ten-year installment period, subleasing (轉貸), sales contracts, or transfer of rights (權利讓渡) are possible. Regarding the sale of *yŏktunt’o* land, it is said there is an anti-sale movement; such misunderstandings should be abandoned, and it is advantageous for the *yŏktunt’o* tenant farmers to use this opportunity to make the land they cultivate their permanent possession.
+
+Korea's *Sangp'yŏngch'ang* System
+The so-called *Jōsō Sōko* (常倉制度 - Ever-Normal Granary System) proposed in the Japanese Imperial Diet (日本帝國議會) to regulate the price of rice is a system used in Korea thousands of years ago. Originally, the purpose behind devising this system was for famine relief. Whether it was the *tiaodi* method (糶糴法) first proposed during the Zhou (周) Dynasty of China (中華) (as mentioned in the Treatise on Food and Money in the Book of Han, "The Zhou Rites mention the *tiaodi* method...") or the *Changpingcang* system (常平倉制 - Ever-Normal Granary System) devised by Keng Shou-ch'ang (耿壽昌) during the Han (漢) Dynasty, or the *Yicang* system (義倉法 - Righteous Granary Law) devised by Zhangsun Sheng (長孫晟) during the Sui (隨) Dynasty, these were famine relief institutions, facilities for dealing with crop failures for both rulers and commoners. According to history, a system identical to this existed in Korea over 1900 years ago. That is, there is the fact that a system called the *Chindae* Law (賑貸法 - Relief Loan Law) was implemented in the 15th year of King Namhae (南海大王) of Silla (新羅). "In the 15th year of King Namhae of Silla, there was drought and locusts, the people starved, [the king] opened the granaries to rescue them," says the *Munhŏn Pigo* (文獻備考). The content of the law was to collect surplus grain during abundant harvests to prepare for future droughts and famines, distribute it (賑給) to the poor, and then have them return the grain (還穀) during the next abundant harvest. This system was implemented through successive dynasties. In the 19th year of King T'arhae (脫解王) of the Silla Dynasty (AD 77) [Translator's note: source says 紀元18年, likely mistake for AD 77, T'arhae's 19th year], there was a great drought and famine, and it is said the granary grain (倉穀) was released to relieve the starving people. In the 16th year of King Kogukch'ŏn (故國川王) of the Koguryŏ (高句麗) Dynasty (AD 194), officials (有司) were ordered to issue government grain annually between the 3rd and 7th lunar months, providing relief loans (賑貸) according to the size of households, and to have the loaned grain returned (還納) starting from the 10th lunar month (this is the *tiaodi* method, 糶糴法). In the 5th year of King Sŏngjong (成宗) of the same dynasty (AD 986), he issued an edict saying, "Our Grand Founder (太祖) established the Black Granary (黑倉) to provide relief loans to the destitute, making this a standard practice. Recently, the population has gradually increased, and it is difficult to meet the need with a small amount of stored grain (儲穀)." Therefore, the stored rice was increased to 10,000 *sŏk*, and this was called the Righteous Granary (義倉). In the 12th year (AD 993), the Ever-Normal Granary (常平倉) was established, expanding the *tiaodi* method. Coming to the Yi Dynasty (李朝), there are facts of relief loans given to starving people in Kyŏngsang (慶尙道) and Ch'ungch'ŏng (忠淸道) Provinces in the 7th year of King T'aejo (太祖大王) and the 1st year of King Chŏngjong (定宗大王). According to the Veritable Records of King T'aejong (太宗大王實錄), in the 3rd month of the 5th year of T'aejong (太宗, 1405), the Ministry of Rites (禮曹) and the Six Ministries (六曹) were established [Translator's note: The Six Ministries already existed; perhaps re-organized?], and the affairs of relief loans (賑貸) and relief aid (賑恤) were managed by the Ministry of Revenue (戶曹, now 度支部 Takchibu). During the era of King Sejong (世宗大王), the Famine Relief Office (救荒廳) <60> was established to oversee all relief affairs nationwide, handling matters like distributing grain for porridge (耗穀發設粥) in the eight provinces. Later, the Sŏnhyech'ŏng (宣惠廳) was specially established to oversee the affairs of the Sangp'yŏngch'ŏng (常平廳) and the Chinhulch'ŏng (賑恤廳). Not only are there many records of the above facts in old books and histories, but the system's content and methods are also admirable. The outline of this system since the Yi Dynasty is that collected grain (歛穀) can be divided into two types: (1) for military rice and famine relief, and (2) the purely *tiaodi* method of regularly issuing in spring and returning in autumn. The former was under the jurisdiction of the Sangp'yŏngch'ŏng, and the latter under the jurisdiction of the Chinhulch'ŏng (both agencies later came under the jurisdiction of the Sŏnhyech'ŏng). Their content, organization, and purpose are identical to today's Ever-Normal Granary (*Sangp'yŏngch'ang*). The amount of grain returned (還穀) from each province in the 45th year of King Yŏngjo (英祖, over 150 years ago):
+*Sangp'yŏng* Rice (上平米): 1,698,895 *sŏk*
+*Chinhul* Rice (賑恤米): 1,200,312 *sŏk*
+Total returned rice (還米總石數) in the 12th year of King Chŏngjo (正祖) (Era when Sŏnhyech'ŏng unified):
+*Sang-Chin* Office Rice (常賑廳米): 3,227,259 *sŏk*
+The aforementioned *Sangp'yŏng* system continued until the time of King Yi T'aewang (李太王 - King Kojong after abdication), and its storage warehouse is the present-day market inside Namdaemun (南大門內 市場). It is said that calling this market *Ch'ang-an* (倉안 - inside the warehouse) is also due to this (Above from *Munhŏn Pigo*). <61>
+
+**Summary**
+
+The article discusses the difficult economic situation in rural Korea in 1921, noting a trend of farmers selling land, possibly to Japanese buyers, due to hardship. It contrasts Korea's lower rice yields and fertilizer use with Japan's, suggesting potential for increased production. Land ownership statistics are provided, followed by a detailed account of growing tenant farmer disputes, particularly in southern Korea, where tenants organized unions demanding reduced rents and landlord payment of taxes. The government's plan to sell *yŏkt'unt’o* (former state land) to tenant farmers on installment plans is described as an opportunity for ownership, despite some opposition. Finally, the article traces the history of Korea's *Sangp'yŏngch'ang* (Ever-Normal Granary) system back through the Chosŏn, Koryŏ, and Silla dynasties, comparing it favorably to similar systems in China and the contemporary proposal in Japan, emphasizing its long-standing role in famine relief and price stabilization.
+
+For historians, this article offers valuable insights into the socio-economic pressures in colonial Korea's countryside, including Japanese land acquisition concerns, the specifics of tenant farmer organization and demands (like the Kyŏngsangbuk-to union), and the colonial government's land policies (*yŏkt'unt’o* sale). The detailed historical tracing of the *Sangp'yŏngch'ang* system also reflects a nationalist sentiment, asserting Korean historical precedent and sophistication in governance even under colonial rule.
+
+**Named Entities**
+
+SWJ生	SWJ생	SWJ Saeng (Author)
+日本	일본	Japan
+南鮮	남선	Namsŏn (Southern Korea)
+朝鮮	조선	Chosŏn (Korea)
+大正	대정	Taishō (Japanese era name)
+北鮮	북선	Puksŏn (Northern Korea)
+慶尙北道	경상북도	Kyŏngsang Pukto (Kyŏngsang North Province)
+達城	달성	Talsŏng (County)
+淸道	청도	Ch'ŏngdo (County)
+高靈	고령	Koryŏng (County)
+漆谷	칠곡	Ch'ilgok (County)
+永川	영천	Yŏngch'ŏn (County)
+小作人 組合	소작인 조합	Sojagin Chohap (Tenant Farmers' Union)
+大邱	대구	Taegu (City)
+當局	당국	Tangguk (The Authorities)
+京畿	경기	Kyŏnggi (Province)
+忠北	충북	Ch'ungbuk (Ch'ungch'ŏng North Province)
+忠南	충남	Ch'ungnam (Ch'ungch'ŏng South Province)
+全北	전북	Chŏnbuk (Chŏlla North Province)
+全南	전남	Chŏnnam (Chŏlla South Province)
+慶北	경북	Kyŏngbuk (Kyŏngsang North Province)
+平南	평남	P'yŏngnam (P'yŏngan South Province)
+平北	평북	P'yŏngbuk (P'yŏngan North Province)
+江原	강원	Kangwŏn (Province)
+咸南	함남	Hamnam (Hamgyŏng South Province)
+咸北	함북	Hambuk (Hamgyŏng North Province)
+政府	정부	Chŏngbu (Government)
+朝鮮殖産銀行	조선식산은행	Chosŏn Chig’san Ŭnhaeng (Bank of Chōsen)
+日本帝國議會	일본제국의회	Ilbon Cheguk Ŭihoe (Japanese Imperial Diet)
+中華	중화	Chunghwa (China)
+周	주	Chu (Zhou Dynasty)
+漢	한	Han (Han Dynasty)
+耿壽昌	경수창	Keng Shou-ch'ang
+隨	수	Sui (Sui Dynasty)
+長孫晟	장손성	Zhangsun Sheng
+新羅	신라	Silla (Kingdom)
+南海大王	남해대왕	King Namhae
+文獻備考	문헌비고	Munhŏn Pigo (Reference Compilation of Documents)
+脫解王	탈해왕	King T'arhae
+高句麗	고구려	Koguryŏ (Kingdom)
+故國川王	고국천왕	King Kogukch'ŏn
+成宗	성종	King Sŏngjong (of Koryŏ)
+太祖	태조	T'aejo (Grand Founder - likely refers to Koryŏ T'aejo here)
+李朝	이조	Yi Cho (Yi Dynasty / Chosŏn Dynasty)
+太祖大王	태조대왕	King T'aejo (of Chosŏn)
+定宗大王	정종대왕	King Chŏngjong
+慶尙道	경상도	Kyŏngsang-do (Kyŏngsang Province)
+忠淸道	충청도	Ch'ungch'ŏng-do (Ch'ungch'ŏng Province)
+太宗大王實錄	태종대왕실록	T'aejong Taewang Sillok (Veritable Records of King T'aejong)
+太宗	태종	King T'aejong
+禮曹	예조	Yejo (Ministry of Rites)
+六曹	육조	Yukcho (Six Ministries)
+戶曹(度支部)	호조(탁지부)	Hojo (T'akchibu) (Ministry of Revenue)
+世宗大王	세종대왕	King Sejong
+救荒廳	구황청	Kuhwangch'ŏng (Famine Relief Office)
+宣惠廳	선혜청	Sŏnhyech'ŏng (Office of Tribute Grain)
+常平廳	상평청	Sangp'yŏngch'ŏng (Ever-Normal Granary Office)
+賑恤廳	진휼청	Chinhulch'ŏng (Relief Office)
+英祖	영조	King Yŏngjo
+正祖	정조	King Chŏngjo
+李太王	이태왕	Yi T'aewang (King Kojong after abdication)
+南大門內 市場	남대문내 시장	Namdaemunnae Sijang (Market inside Namdaemun)
+
+**Glossary**
+
+疲弊	피폐	Exhaustion; impoverishment
+疎隔	소격	Isolation; estrangement
+賣却	매각	Sale; selling off
+高利貸金者	고리대금자	High-interest lender; usurer
+增收	증수	Increase in harvest/revenue
+施肥料	시비료	Fertilizer application
+金肥	금비	Chemical fertilizer (lit. 'money fertilizer')
+每反	매반	Per *tanbo* (unit of land area, approx. 0.245 acres)
+町步	정보	*Chōbo* (unit of land area, approx. 2.45 acres, Japanese reading: *chōbu*)
+國有	국유	State-owned
+民有	민유	Privately owned
+有稅地	유세지	Taxed land
+無稅地	무세지	Tax-exempt land
+小作人	소작인	Tenant farmer
+地主	지주	Landlord
+尤甚	우심	Particularly severe; extreme
+騰貴	등귀	Soaring prices; sharp rise
+穩和的	온화적	Peaceful; amicable
+相離反目	상리반목	Mutual separation and antagonism
+紛糾	분규	Dispute; complication; tangle
+蔓延	만연	Spreading; rampant
+輕減	경감	Reduction; mitigation
+規約	규약	Agreement; regulations; pact
+懇喩	간유	Earnest persuasion; pleading
+驛屯土	역둔토	Land originally tied to post stations (*yŏk*) or military colonies (*tun*)
+賣拂	매불	Selling off (often government property)
+火田	화전	Slash-and-burn field; fire-cleared field
+芦田	노전	Reed field
+貸付料	대부료	Rental fee (esp. for state land/property)
+賣下	매하	Selling down (government property to private individuals)
+法定地價	법정지가	Legally determined land price
+年賦	연부	Annual installment payment
+償還	상환	Repayment; redemption
+轉貸	전대	Sublease; re-loan
+權利讓渡	권리양도	Transfer of rights
+常平倉	상평청	Ever-Normal Granary (system/institution for stabilizing grain prices and providing famine relief)
+糶糴法	조적법	Grain price regulation method (selling grain in lean years, buying in abundant years)
+義倉	의창	Righteous Granary (similar famine relief granary system)
+賑貸法	진대법	Relief Loan Law (Silla/Koguryŏ system of loaning grain to needy people)
+賑給	진급	To provide relief provisions; distribute aid
+還穀	환곡	Returning loaned grain (often with interest, later became notorious source of corruption); the grain itself
+倉穀	창곡	Granary grain
+有司	유사	Officials (archaic term)
+黑倉	흑창	Black Granary (Koryŏ relief granary)
+儲穀	저곡	Stored grain
+度支部	탁지부	*T'akchibu* (Finance Department in late Chosŏn/Korean Empire, replacing Hojo)
+耗穀	모곡	Grain lost to spoilage/pests; sometimes refers to grain for relief porridge
+發設粥	발설죽	Distributing/setting up porridge (for relief)
+宣惠廳	선혜청	Office of Tribute Grain (managed grain revenues and expenditures, including relief)
+말하엿다	말하였다	Said; spoke (Older spelling of 하였다)
+하야는	하여서는	As for; regarding (Older spelling/form of 하여서는)
+되엇다	되었다	Became (Older spelling of 되었다)
+이즐 수 업는	있을 수 없는	Cannot exist; unbearable (Older spelling/form of 있을 수 없는)
+잇섯다	있었다	There was; existed (Older spelling of 있었다)
+하얏던	하였던	Had done; which was (Older spelling of 하였던)
+하얏스며	하였으며	And did; while doing (Older spelling of 하였으며)
+하야스며	하였으며	And did; while doing (Older spelling variant)
+가티	같이	Like; as (Older spelling of 같이)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제10호
+발행일	1921년 04월 01일
+기사제목	社會現象槪觀, 農村經濟雜感
+필자	SWJ生
+기사형태	소식
+
+社會現象槪觀, 農村經濟雜感
+						SWJ生
+時局의 影響과 農村問題
+無名生은 저번에 「農村經濟」라는 題下에서 農村經濟의 疲弊狀況를 簡單히 말하엿다. 또다시 補添的으로 말하고저 하는 近來의 時局의 影響과 財界의 不況으로 社會 實情에 疎隔한 地方 農民은 將來를 어떠케 생각하엿던지 自己 所有 土地를 永遠 賣却코저 或은 無法한 高利貸金者에게 利子의 高低는 不問하고 擔保請債코저 하는 傾向이 有한 듯 하다. 이럼으로 日本人 中에서는 土地買收 時機가 到來하엿다고 南鮮 어떤 地方에서는 土地熱이 發生하엿다니 이것이 虛傳이면 已어니와 果然 事實이면 可憂할 傾向이다.
+
+朝鮮産米增收 可能程度
+8, 9年 前 朝鮮米生産收穫高는 1千萬石에 不過하더니 最近에 至하야는 1千5百餘萬石에 達하야 約 4割이나 增收되엇다.＜57＞ 그 原因은 耕地整理, 種子의 改良, 金肥의 使用增加일 것은 勿論이다. 그러나 施肥料를 日本에 比하면 日本에서는 每反 5圓 平均인대 朝鮮에는 9錢 2,3里 平均이오, 每反 收穫高는 日本은 1石 8斗, 朝鮮에는 1石에 不過하다. 面積은 日本은 總耕地面積 6百萬町步인데 朝鮮은 430餘萬町步이다. 施肥料價額은 日本은 年3億圓 以上인데 朝鮮은 僅히 4百萬圓에 不過하다. 그럼으로 日本과 가티 耕地改良, 施肥增加를 하면 3千萬石의 增收는 容易타 한다.
+年次                米收穫高
+
+大正元年            8,982,000石
+
+同  7年            15,119,265石
+
+同  8年            12,647,780石
+
+同  9年(豫想高)     14,869,413石
+
+
+耕作地面積內況
+朝鮮 全國의 耕地面積은 田畓 合하야 全面積의 約 9割에 相當하며 田이 6分 5厘, 沓이 3分 5厘 可量인데 水利事業, 灌漑開拓事業의 發達로 年年이 耕地面積이 增加되는 貌樣이다. 그리고 耕地面積의 國有와 民有를 別하면 民有가 9分 5厘, 國有가 5分 可量이다. 全面積에 對하야 有稅地, 無稅地를 別하면 有稅地(民地)가 約 9分, 無稅地(國有)가 約 1分 可量이다.
+
+小作人 問題
+近來 地方通信에 依하면 地主 對 小作人 問題는 重要한 社會 問題를 形成한 듯하다. 이것이 北鮮地方보다도 農地의 重要한 南鮮地方에 尤甚한 듯하다. 最初에는 地主에 對하야 小小의 不平으로 發하얏더니 近來에는 漸漸 地主에 對한 抵抗力이 具體化되엇다. 地主對 小作人 問題가 最近에 生한 것슨 아니되 近來 (1) 階級思想의 破壞 (2) 農主의 勢力의 膨脹 (3) 地稅騰貴 (4) 小作人 經濟困難 等은 小作人 問題 發生의 重要한 原因이 되엇다. 이것이 地主小作 間에서 穩和的으로 解決되지 못하고 漸漸 相離反目되어 紛糾에 紛糾를 加하는 境遇에는 農村經濟에 影響될 것은 勿論이고 直接 影響은 政府 地稅問題에 關係될＜58＞ 것이다. 故로 當局에서는 此에 對하야 傍觀的 態度로 이즐 수 업는 難境에 當하엿다. 地主에 對한 小作人 反抗運動은 甲面으로부터 乙面에, 甲郡으로부터 乙郡에 漸次 蔓延되는 貌樣인데 그 小作人側 反抗運動의 目的은 小作料는 輕減케 하고 地稅는 全部 地主의 負擔으로 하자는 것이 共通한 目的이다.
+一例로 慶尙北道에서 突發된 紛糾의 內容을 見한 즉, 同地方 小作人 等은 (達城, 淸道, 高靈, 漆谷, 永川 五郡) 各郡이 聯合하야 小作人 組合을 組織하야 左 2個 條約을
+1. 從來 小作人 等이 負擔하얏던 地稅는 本年으로부터 此를 負擔치 아늘 事
+2. 萬一 此 規約에 違反하는 者에게는 罰金 10圓을 徵收할 事
+制定하야 各自 署名하얏고 一萬餘名의 入會員은 그 目的을 極力盡遂키 爲하야 爲先 昨年 12月 28日 終期로 徵納할 地稅는 一切 拒絶하얏다. 그럼으로 當局은 대단히 憂慮하야 去 1月 18日 五郡의 小作人 代表者 25人을 大邱로 召集하야 十分 懇喩한 일이 잇섯다. 只今은 解決되엇는지?
+
+驛屯土 問題
+本年 11月부터 小作人에 賣拂할 全鮮 驛屯土 總面積은 335,400,000 坪인데 田이 148,700,000 坪, 畓이 119,770,000 坪, 火田이 25,170,000 坪, 芦田이 15,350,000 坪인데 此를 道別하면 左와 如하더라.
+京畿   4,260,000
+
+忠北    990,000
+
+忠南   1,390,000
+
+全北   1,357,000
+
+全南   1,529,000
+
+慶北   1,889,000
+
+平南   3,512,000
+
+平北   3,989,000
+
+江原   3,352,000
+
+咸南   1,652,000
+
+咸北   1,112,000
+
+此에 對한 政府의 貸付料(小作人料不含)의 收入額은 大正 8年도 1,898,036圓인데 此를 本年度부터는 小作人에게 限하야 賣下키로 하고 그 收入豫算도 本年度에 3百 5十萬圓을 計上하얏다. 그 賣下價格은 投資金에 對한 收利의 比例와 大正 4,5年 頃 最低 價格을 基礎로 하야 査定하엿는데 法定地價에 比하면＜59＞ 畓은 18,9割, 田은 13,4割, 垈地는 13,4割에 相當하고 投資利益比例는 現時勢穀價로 8分以上 1割 可量에 相當하다. 그리고 代價買收者의 便宜를 생각하야 10個年 年賦로 償還케하고 資金 調達 方法은 20人(但 小作人)連帶責任으로 地方官廳의 斡旋으로 朝鮮殖産銀行에서 擔保로 貸出할 便利가 有하다. 그리고 十年 年賦 期限中은 轉貸, 賣買契約, 或은 權利讓渡할 수도 有하다. 驛屯土 下賣에 對하야 非賣運動이 有하다하니 그러한 誤解를 버리고 此機會에 驛屯土 小作人은 自己가 耕作하듯 土地를 永久히 自己 所有로 하게 하는 것이 有利하다.
+
+朝鮮의 常平倉制度
+日本帝國議會에서 米價를 調節키 爲하야 除案한 所謂 常倉制度라는 것은 距今 數千年 前 朝鮮에서 쓰던 制度이다. 元來 此制度의 案出 目的은 饑民救濟의 意味로 生한 것이다. 中華 周時代에 初案된 糶糴法(漢食貸志에 云하되 周禮糶糴法云云)이라던지 漢時代 耿壽昌의 案出 常平倉制라던지 隨時代 長孫晟의 案出義倉法이라던지는 饑民救濟의 機關으로 爲政者나 庶民에 對한 荒政의 施設이다. 史에 依하면 朝鮮에는 距今 1900餘年 前에 此와 同一한 制度가 存在하얏던 것을 發見하겟다. 即 新羅南海 大王15年에 賑貸法이라는 制度가 施行된 事實이 有하다. 「新羅南海王十五年旱蝗民饑發昌稟救之」 云云 「文獻備考」. 法의 內容은 稔豐時에 餘穀을 欽收하야 將來 旱饑를 準備하얏다가 貧民에 賑給하고 다시 稔豐時에는 還穀하는 法인데 그 制度는 歷代로 施行되엇는데 新羅朝 脫解王 19年(紀元18年)에 大旱饑有하야 倉穀을 發하야 饑民에 賑給하얏다 하얏고 高句麗朝 故國川王 16年(紀元194年) 有司를 命하야 每年 3月로부터 秋7月 間에 官穀을 出하야 百姓의 家口의 多少에 依하야 賑貸하얏스며 冬10月부터 賑貸穀을 還納케 하얏다 하며(糶糴法) 同朝 成宗 5年 (紀元 986年)에 敎하냐 曰 我太祖 黑倉을 置하야 窮民에게 賑貸케 하야 此를 常式으로 行하더니 近時人口 漸漸 繁殖하야 少量의 儲穀으로는 此에 應키 難하다 하야 玆後 儲藏米를 1萬石으로 增加하얏스며 此를 稱하야, 義倉이라 하얏고 同12年에 常平倉을 置하야 糶糴法을 擴張하얏스며 李朝에 至하야는 太祖大王 7年 及 定宗大王 元年에 慶尙道 忠淸道의 饑民에게 賑貸한 事實이 有하면 太宗大王實錄에 依하면 太宗 5年 乙酉 3月에 禮曹 及 六曹를 置하야 賑貸賑恤의 事務를 戶曹(度支部)에서 管理케 하야스며 世宗大王 時代에 至하야는 救荒廳을＜60＞ 置하야 全國의 賑恤의 事務를 總轄하얏스며 八道의 耗穀發設粥의 事務를 處理하더니 其後 宣惠廳을 特設하야 常平廳, 賑恤廳의 事務를 總轄케 하얏는데 以上의 事實은 古書禮史에 記錄이 多할 뿐만 아니라 그 制度 內容 方法도 可矜할 만한 者인데 李朝 以來의 此制度의 大略은 歛穀을 二種에 分할 수 有한데 (1) 軍米用과 救荒 (2)는 定式으로 春出秋還하는 純然한 糶糴法인데 前者의 管轄은 常平廳에 屬하고 後者의 管轄은 賑恤廳에 屬하야(兩廳은 其後 宣惠廳 管轄에 屬함) 그 內容 組織 目的이 今日 常平倉과 同一하다. 英祖 四十五年(150餘年 前)各道로부터 還穀된 石數
+上平米 1,698,895石
+賑恤米 1,200,312石
+正祖 12年 還米總石數(宣惠廳統一時代)
+常賑廳米 3,227,259石
+如上한 常平制度가 李太王時代까지 繼續되엇고 그 保管倉庫는 現今 南大門內 市場인데 同市場을 倉안이라 稱함도 此로 因한 바라함(以上 文獻備考) ＜61＞
+＜57-61＞

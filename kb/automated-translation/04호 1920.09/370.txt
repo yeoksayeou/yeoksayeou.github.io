@@ -1,0 +1,72 @@
+Magazine Title: 개벽 제4호
+Publication Date: 1920년 09월 25일
+Article Title: 珍籍奇談 (Strange Tales of Rare Books)
+Author:
+Article Type: 소식 (News/Tidbit)
+
+Strange Tales of Rare Books
+
+The world's largest book is a map of Holland housed within the London Museum. Looking at its binding, it is made with leather and pure silver, and not only is its stitching exceptionally sturdy, but its height is 7 feet and its weight is approximately 800 *kŭn* (斤 - likely pounds). This book is said to have been presented in 1660, before Charles II had yet departed Holland.
+
+Conversely, right beside it, the world's smallest book is displayed, hardly larger than a person's thumbnail. Its length is 3/4 of an inch, and its width is merely 2/5 of an inch.
+
+This book, however, was authored in the early 17th century by a German artist residing in 'Nikolnikelburg' (니콜니베루크). It has roughly 208 pages, and the script style is extremely clear and neat (楷正하야), making it very easy to read through. <137>
+
+**Summary**
+
+This short news article describes the world's largest book, a massive Dutch map collection presented to Charles II and housed in the London Museum, and the world's smallest book, a tiny, meticulously crafted work by a 17th-century German artist. From a Korean colonial history perspective, this piece shows the kind of international trivia and general knowledge being circulated in Korea via magazines like *Kaebyŏk* (개벽). It highlights an awareness of and interest in the wider world, particularly European culture and achievements (Britain, Holland, Germany), beyond the immediate concerns of the colony or the Japanese Empire.
+
+**Named Entities**
+
+倫敦博物館	런던박물관	London Museum
+和蘭	화란	Holland
+쟈레쓰 2世	자레쓰 2세	Charles II
+니콜니베루크	니콜니베루크	Nikolnikelburg
+獨逸	독일	Germany
+
+**Glossary**
+
+珍籍奇談	진적기담	Strange Tales of Rare Books
+巨大한	거대한	Huge, enormous
+書籍	서적	Book(s)
+收藏한	소장한	Collected, housed
+裝潢	장황	Binding and mounting (of a book or scroll)
+皮革	피혁	Leather
+純銀	순은	Pure silver
+製綴	제철	Binding (bookbinding)
+堅固할	견고할	To be solid, sturdy
+高	고	Height
+呎	척	Foot (unit of measurement)
+重	중	Weight
+斤	근	Geun/Pound (unit of weight; context suggests pound)
+假量	가량	Approximately
+獻上한	헌상한	Presented (to a superior/monarch)
+反對로	반대로	On the contrary, conversely
+엽헤	옆에	Beside, next to (Older spelling of 옆에)
+陳列하엿는데	진열하였는데	Was displayed (Older spelling/form)
+吋	촌	Inch (unit of measurement)
+分之	분지	Fractional part (e.g., 4分之 3 = 3/4)
+不過하니라	불과하니라	Is merely, is only (Archaic sentence ending)
+居住하는	거주하는	Residing, living
+美術家	미술가	Artist
+著作한	저작한	Authored, wrote
+大略	대략	Approximately, roughly
+字體	자체	Font style, character form
+極히	극히	Extremely, very
+楷正하야	해서하여	Being in clear regular script (Older spelling/form)
+讀過하기에도	독과하기에도	Even for reading through
+容易타	용이타	Is easy (Older form/contraction of 용이하다)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제4호
+발행일	1920년 09월 25일
+기사제목	珍籍奇談
+기사형태	소식
+
+珍籍奇談
+世界 第一 巨大한 書籍은 倫敦博物館 內에 收藏한 和蘭의 地圖인데 그 裝潢한 것을 볼진대 皮革과 純銀으로 하야 製綴함이 非常히 堅固할 뿐더러 그 高는 7呎, 그 重이 800斤 假量이라. 그러한데 이 冊은 1660年, 「쟈레쓰」 2世가 아즉 和蘭을 떠나기 前에 獻上한 것이라 하고.
+이와 反對로 바루 그 엽헤 世界 最小의 冊子가 陳列하엿는데 마치 사람의 엄지 손톱에서 더 크지 못하다. 그 縱은 一吋의 4分之 3이고 그 橫은 一吋의 5分之 2에 不過하니라.
+그러한데 이 冊은 17世紀 初期에 『니콜니베루크』에 居住하는 獨逸 美術家가 著作한 것인데 大略 208頁로서 字體가 極히 楷正하야 讀過하기에도 가장 容易타 한다.＜137＞

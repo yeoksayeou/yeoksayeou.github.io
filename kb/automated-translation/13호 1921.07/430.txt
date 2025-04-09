@@ -1,0 +1,68 @@
+Magazine Title: 개벽 (開闢)
+Publication Date: 1921년 07월 01일
+Article Title: 編輯部啓事 (Editorial Department Notice)
+Author: 開闢編輯部
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Editorial Department Notice
+
+As a result of this Editorial Department announcing a call for submissions for a writing contest, an unprecedented response in both quantity and number has been received. How can this department express sufficient gratitude to all contributors? However, upon careful consideration and selection by the assigned judges, it is truly unexpected and quite regrettable that there were no first or second-place winners for essays (論文), no first or second-place winners for short pieces (小品文), no first-place winner for new poetry (新詩), and no first-place winner for novels (小說). Nevertheless, as the proverb goes, we do not expect to be full from the first spoonful. We believe the future is bright, depending on the efforts of everyone. Furthermore, while according to the contest rules, we would naturally present the designated modest prizes only to those selected in their respective ranks, our company is decidedly not focused solely on finances but prioritizes readers for the sake of our nation's culture. Therefore, we have decided to distribute the prize money designated for the first and second places in essays to the third-place and honorable mention winners; the prize money for the first and second places in short pieces to the third-place and honorable mention winners; the prize money for first place in new poetry among the second-place, third-place, and two honorable mention winners (a total of four individuals); and the prize money for first place in novels among the second-place, third-place, and honorable mention winners (a total of three individuals), divided equally in addition to their originally designated prize money. This is a cause for celebration for this department, shared with all the award recipients.
+
+Kaebyŏk Editorial Department <62>
+
+**Summary**
+
+This editorial notice from the magazine *Kaebyŏk* announces the results of a writing contest. While expressing gratitude for the large number of submissions, the editors note with regret that no submissions met the standard for first or second place in essays and short pieces, or for first place in new poetry and novels. Despite this, instead of keeping the prize money, the magazine decided to redistribute the funds allocated for the top prizes among the lower-ranked winners (third place and honorable mentions) in each category, emphasizing their commitment to fostering national culture over financial gain. For historians, this article offers insight into the perceived state of Korean literary and intellectual production in the early 1920s, suggesting a potential gap between the magazine's standards and the quality of submissions received, possibly reflecting the challenges faced under colonial rule. The magazine's explicit statement about prioritizing national culture and readers over finances is also noteworthy, highlighting the publication's role in the nationalist cultural movement.
+
+**Named Entities**
+
+開闢編輯部	개벽편집부	Kaebyŏk Editorial Department
+
+**Glossary**
+
+懸賞文	현상문	Writings submitted for a prize contest
+募集	모집	Recruitment; call for submissions
+未曾有	미증유	Unprecedented
+盛況	성황	Great success; thriving state
+呈하다	정하다	To present; show; exhibit (older usage)
+寄稿	기고	Submission of a manuscript; contribution
+諸位	제위	Everyone; all of you (honorific)
+當任	당임	Person(s) in charge; assigned judge(s)
+熟考精選	숙고정선	Careful consideration and selection
+論文	논문	Essay; thesis; paper
+小品文	소품문	Short piece; sketch; essay
+新詩	신시	New poetry (modern style)
+小雪	소설	Novel; story (likely typo for 小說 in original)
+意外	의외	Unexpected; surprising
+遺憾	유감	Regret; disappointment
+俗談	속담	Proverb; common saying
+前途	전도	The future; prospects
+洋洋하다	양양하다	To be bright; promising; vast (often used for future)
+規定	규정	Rule; regulation
+衣하다	의하다	To be based on; according to (older form of 의하다)
+勿論	물론	Of course; naturally
+當選	당선	Being selected; winning (a prize/election)
+所定	소정	Designated; prescribed; set
+薄賞	박상	Modest prize; small reward
+進呈하다	진정하다	To present; offer (formally)
+汲汲하다	급급하다	To be solely focused on; be absorbed in (often implies narrow interest, like finances)
+民族	민족	Nation; people; ethnic group
+文化	문화	Culture
+讀者	독자	Reader
+本位	본위	Standard; basis; principle (as in reader-centric)
+賞金	상금	Prize money
+選外當選	선외당선	Honorable mention (literally 'selected outside' the main ranks)
+平均하다	평균하다	To average; divide equally
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	編輯部啓事
+기사형태	사고·편집후기
+
+編輯部啓事
+本 編輯部에서 懸賞文 募集을 發表한 結果 그 量으로나 또 數로는 未曾有의 盛況을 呈하엿스니 本部에서는 寄稿諸位에게 무엇이라고 感謝를 表하엿스면 조흘는지요. 그러나 當任 諸氏의 熟考精選한 바에 依하면 論文에 1, 2等. 小品文에 1, 2等. 新詩에 1等. 小雪에 1等이 업는 것은 참 意外요 자못 遺憾이 만습니다. 그러나 우리는 俗談과 가티 첫술에 배부르기를 바라지 아니합니다. 諸位의 努力 如何에 딸아 前途가 洋洋한 줄 밋습니다. 그리고 縣賞募集 規定에만 衣하면 勿論 當選된 等에만 所定의 薄賞을 進呈하겟지마는 我社는 決코 經濟에 汲汲하는 것이 아니오 우리 民族의 文化를 爲하야 讀者를 本位로 하는 故로 論文에 所定한 1, 2等 賞金은 3等과 選外當選 兩氏에게로. 小品文의 1, 2等 賞金은 3等 選外 兩氏에게. 新詩의 1等 賞金은 2等 3等 選外 2人 合 四氏에게. 小說의 1等 賞金은 2等 3等 選外 三氏에게로 所定 本賞金 外에 平均하여 進呈하기로 하엿습니다. 이것이 本部에서는 受賞 諸位와 한가지 깃버하는 바이올시다.
+開闢編輯部 ＜62＞

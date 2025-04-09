@@ -1,0 +1,81 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1920년 09월 25일
+Article Title: 髥의 稅金 (Tax on Beards)
+Author: Not specified
+Article Type: 소식 (News/Information)
+
+**Body Text Translation:**
+Tax on Beards
+
+There have been cases in foreign countries where a tax on beards (髥) was imposed.
+
+□ In England, during the era of Queen Elizabeth (에리사베쓰), a tax of three shillings and four pence (三志四片) (Japanese currency: one yen sixty-seven sen - 日貨一圓六七錢) was levied on those who did not shave their beards within two weeks.
+
+□ In 1705, Peter the Great (彼得大帝) of Russia (露西亞) also established a beard tax system, collecting one hundred rubles (百留) from nobles (貴族) and one kopeck (一고바꾸) (Japanese currency: approximately one sen - 日貨 約 一錢) from commoners (普通人). Although this system suddenly provoked general antipathy (反感), it was nevertheless increasingly solidified by Azarin I (아자린 一世) in 1726, Peter II (彼得2世) in 1728, Empress Anna (皇后 안나) in 1731, and Empress Sari Ppŏssŭ (皇后 사리 뻐쓰) in 1734. Then, in 1762, during the time of Azarin II (아자린 二世), the beard tax was abolished (廢止).
+
+□ In France (佛蘭西), around 1500, there was an instance where a beard tax was imposed on monks (僧侶). This was based on a proposal (發案) by the famous Archbishop Teyuburat (大僧正 데유부랏). After an edict (諭告) from the Pope (法王) was issued stating that those in the clergy (敎職) should preferably shave their chins, taxes were collected annually by the power of law (法律). Because of this, poor monks (貧乏한 僧徒) shaved off (剃落) their beards all at once (一齊히).<62>
+
+**Summary**
+
+The article details historical instances of beard taxes implemented in England under Queen Elizabeth, Russia under Peter the Great and his successors, and France targeting monks around 1500. It describes the specific tax amounts, the public reaction (notably negative in Russia), the system's duration and eventual abolition in Russia, and the consequence for poor monks in France who shaved due to the tax. From a Korean colonial history perspective, the article is interesting as it appears in *Kaebyŏk*, a significant Korean magazine of the era, reflecting Korean intellectuals' engagement with Western history and societal practices. It might implicitly comment on arbitrary regulations or taxation by showcasing foreign examples, potentially resonating with readers under Japanese colonial rule, though no direct comparison is made.
+
+**Named Entities**
+
+英國	영국	England
+에리사베쓰	에리사베쓰	Elisabet'ŭ (Elizabeth)
+露西亞	노서아	Russia
+彼得大帝	피터대제	P'idŭk Taeje (Peter the Great)
+아자린 一世	아자린 일세	Ajarin Ilse (Azarin I / Likely Catherine I)
+彼得2世	피터 이세	P'idŭk Ise (Peter II)
+皇后 안나	황후 안나	Hwanghu Anna (Empress Anna)
+皇后 사리 뻐쓰	황후 사리 뻐쓰	Hwanghu Sari Ppŏssŭ (Empress Sari Ppŏssŭ / Likely Empress Elizabeth)
+아자린 二世	아자린 이세	Ajarin Ise (Azarin II / Likely Catherine II)
+佛蘭西	불란서	France
+데유부랏	데유부랏	Teyuburat
+
+**Glossary**
+
+髥	수염	Beard
+稅金	세금	Tax
+課	과하다	To impose (a tax or duty)
+잇섯다	있었다	There was/existed (older spelling of 있었다)
+剃치	깎지	Shave (older form/spelling potentially related to 깎지)
+賦課	부과	Imposition (of tax)
+日貨	일화	Japanese currency
+露西亞	노서아	Russia (older phonetic transcription)
+彼得大帝	피터대제	Peter the Great
+制度	제도	System
+設	설립하다	To establish
+取立	취립하다	To collect (taxes)
+惹起	야기하다	To cause, arouse, provoke
+不拘하고	불구하고	Despite, nevertheless
+依하야	의하여	According to (older spelling/form of 의하여)
+益益	익익	Increasingly
+基礎	기초	Foundation, basis
+堅固	견고	Solid, firm
+廢止	폐지	Abolition
+佛蘭西	불란서	France (older phonetic transcription)
+僧侶	승려	Buddhist monk; here used for Christian monks/clergy
+大僧正	대승정	Archbishop (used here in a Christian context)
+發案	발안	Proposal, plan, suggestion
+敎職	교직	Clergy, teaching position
+宜當하다	의당하다	To be proper, right, appropriate
+法王	법왕	Pope
+諭告	유고	Edict, proclamation, official notice
+剃落	체락하다	To shave off
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제4호
+발행일	1920년 09월 25일
+기사제목	髥의 稅金
+기사형태	소식
+
+髥의 稅金
+外國에서는 髥의 稅金을 課한 事가 잇섯다
+□ 英國의 女王 「에리사베쓰」의 時代에는 二週間 以內에 髥을 剃치 아니한 者에게 三志四片(日貨一圓六七錢)의 稅金을 賦課하엿고
+□ 1705年 露西亞 彼得大帝도 髥稅制度를 設하야 貴族은 百留, 普通人은 一고바꾸(日貨 約 一錢)씩 取立하엿다. 此 制度는 忽然히 一般의 反感을 惹起하엿스나 此를 不拘하고 1726年에는 「아자린」一世, 1728年에는 彼得2世, 又 1731年에는 皇后 「안나」, 1734年에는 皇后 「사리 뻐쓰」에 依하야 益益 그의 基礎를 堅固하엿다. 그리하다가 1762년 「아자린」二世 時에 髥稅를 廢止하엿고
+□ 佛蘭西에서는 1500年頃 僧侶에게 髥稅를 課한 事가 잇다. 이것은 有名한 大僧正「데유부랏」의 發案에 依한 者인데 敎職에 잇는 者는 아못조록 顎髥을 剃함이 宜當하다는 法王의 諭告가 出한 後 法律의 力에 依하야 每年 稅金을 取立하는 때문에 貧乏한 僧徒들은 一齊히 髥을 剃落하엿다.＜62＞

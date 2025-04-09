@@ -1,0 +1,47 @@
+Magazine Title: 개벽 제5호
+Publication Date:
+Article Title: [무제] (Untitled)
+Author: 李忠武公 作 (By Yi Chungmugong)
+Article Type: 시 (Poem)
+
+On a moonlit night on Hansan Island (閑山섬), sitting alone on the watchtower (戍樓),
+
+With a great sword buckled at my side, deep (깁흔) in sorrow (설음),
+
+From whence (어대서) comes the single sound of a barbarian flute (一聲胡笳), breaking my heart (斷我膓)?
+(By Yi Chungmugong) <120>
+
+**Summary**
+
+This short Sijo poem, attributed to the famed Admiral Yi Sunsin (Yi Chungmugong), depicts a moment of solitude and deep sorrow experienced by the admiral while on watch during the Imjin War. Sitting alone on a watchtower on Hansan Island, sword at his side, his grief is intensified by the distant, mournful sound of a flute. For historians, the publication of this poem in *Kaebyŏk*, a magazine known for its nationalist leanings during the Japanese colonial period, is significant. It represents a subtle yet potent invocation of Korean historical resistance against Japanese aggression, using a revered national hero figure to foster patriotism and potentially critique the contemporary colonial situation.
+
+**Named Entities**
+
+李忠武公	이충무공	Yi Chungmugong
+閑山섬	한산섬	Hansan Island
+
+**Glossary**
+
+閑山섬	한산섬	Hansan Island (lit. Hansan Isle); location of a major naval victory by Yi Sunsin.
+戍樓	수루	Watchtower; guard post on a fortress wall.
+안저	앉아	Sitting; older spelling/form of 앉아.
+깁흔	깊은	Deep; older spelling/form of 깊은.
+설음	서러움	Sorrow, grief; older form of 서러움.
+엽헤	옆에	Beside; at the side; older spelling/form of 옆에.
+어대서	어디서	From where; older spelling/form of 어디서.
+一聲胡笳	일성호가	One sound of a Hoga (a type of flute, often associated with northern 'barbarians' or evoking melancholy).
+斷我膓	단아장	Lit. "cuts my intestines"; idiomatically means "breaks my heart", expressing profound grief or sorrow.
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제5호
+발행일	
+기사제목	[무제]
+기사형태	시
+
+閑山섬 달 밝은 밤에 戍樓에 혼자 안저
+큰 칼 엽헤 차고 깁흔 설음 하는 차에
+어대서 一聲胡笳는 斷我膓을 하는고.
+(李忠武公 作)＜120＞

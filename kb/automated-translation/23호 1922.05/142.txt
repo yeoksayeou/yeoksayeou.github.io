@@ -1,0 +1,66 @@
+Magazine Title: 개벽 제23호
+Publication Date: 1922년 05월 01일
+Article Title: 陳謝 (Apology)
+Author: 開闢社 營業局
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+◎ 陳謝 (Apology)
+
+Due to the monthly surge in readers of this magazine (本誌 讀者), exceeding expectations (豫想 以上) by far, the planned print run (豫定部數) sells out (絶版) in just a few days. Consequently, while debating whether to print a special issue (臨時號) or do a reprint (再版), there have been many instances where the dispatch date (發送日時) is delayed, the order gets mixed up (前後 錯亂), or issues are not sent out at all. Particularly concerning the April issue, due to the company's circumstances (本社의 形便) and the number of requested copies beyond our budget (豫算外 請求部數) not reaching the minimum required for a reprint (再版 - at least 2,000 copies are needed for a reprint), we were unable to send it (一切 보내들이지 못하엿습니다) to those who requested it after April 10th. While the disappointment of those unable to read it must be considerable, the frustration of being unable to send what we wish to send is even greater. From now on (今後), please anticipate these circumstances (事情) in advance, and those intending to read the magazine are requested to place their orders (請求) before the 10th of each month (with prepayment (先金)).
+
+Kaeppyŏk Publishing Company Sales Department (開闢社 營業局) <43>
+
+**Summary**
+
+The Sales Department of the Kaebyŏk Publishing Company issues an apology for significant delays and failures in delivering the magazine, especially the April issue, due to an unexpected surge in readership causing rapid sell-outs. They explain that reprints require a minimum of 2,000 copies, a threshold not met for timely reprinting of the April issue due to company circumstances and budget constraints for requests made after April 10th. Readers are urged to order future issues with prepayment before the 10th of the month to help manage distribution. This notice is interesting to historians as it reflects the high demand for Korean-language publications like *Kaebyŏk* during the colonial era, indicating growing literacy and intellectual curiosity. It also sheds light on the operational and financial challenges faced by Korean publishers in meeting this demand under colonial conditions.
+
+**Named Entities**
+
+開闢社 營業局	개벽사 영업국	Kaebyŏksa Yŏngŏpkuk
+
+**Glossary**
+
+陳謝	진사	Formal apology
+本誌	본지	This magazine
+讀者	독자	Reader
+豫想	예상	Expectation, anticipation
+激增	격증	Sudden increase, surge
+因하야	인하야	Due to, because of (older form of 인하여)
+豫定部數	예정 부수	Planned print run/number of copies
+絶版	절판	Out of print
+문에	때문에	Because of (older spelling of 때문에)
+臨時號	임시호	Special issue, extra issue
+再版	재판	Reprint, second edition
+發送日時	발송 일시	Dispatch date and time
+느저지기도	늦어지기도	To be delayed sometimes (older spelling/form of 늦어지기도)
+錯亂	착란	Confusion, disorder, mix-up
+本社	본사	This company, our company (referring to 開闢社)
+形便	형편	Circumstances, situation
+豫算外	예산 외	Outside the budget, unbudgeted
+請求部數	청구 부수	Number of requested copies
+지에	까지에	Up to, until (older spelling of 까지에)
+이르지 못하야	이르지 못하여	Not reaching, failing to reach (older spelling of 못하여)
+一切	일절	Entirely, completely, all
+보내들이지 못하엿습니다	보내드리지 못하였습니다	We could not send (to you - honorific) (older spelling of 못하였습니다)
+섭섭하시겟지마는	섭섭하시겠지만은	Although you must be disappointed (honorific) (older spelling/form of 섭섭하시겠지만)
+십흔 것	싶은 것	The thing one wants to do (older spelling of 싶은 것)
+답답합니다	답답합니다	It is frustrating, stuffy
+今後	금후	From now on, hereafter
+事情	사정	Circumstances, situation
+짐작하시와	짐작하시어	Anticipate, guess (and) (older connective form of 짐작하시고/짐작하셔서)
+계신 이는	계신 이는	Those who are (planning to) (older form)
+請求	청구	Request, order
+先金	선금	Prepayment, payment in advance
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제23호
+발행일	1922년 05월 01일
+기사제목	陳謝
+기사형태	사고·편집후기
+
+◎ 陳謝
+本誌 讀者가 다달이 豫想 以上의 激增함을 因하야 豫定部數가 몃 날이 못되어 絶版이 되는 문에 臨時號를 하느니 再版을 하느니, 그러는 동안, 發送日時가 느저지기도 하고 前後 錯亂되는 일도 잇고 아조 못 보내는 일도 만습니다 더욱이 四月號에 이르러서는 本社의 形便과 豫算外 請求部數가 再版(적어도 二千部 以上이 되어야 再版함)하기지에 이르지 못하야 四月 十日 以後 請求하신 이에게는 一切 보내들이지 못하엿습니다 보시랴다가 보시지 못하시는 마음도 섭섭하시겟지마는 보내고 십흔 것을 보내지 못하는 마음은 더 답답합니다 今後부터는 이 事情을 미리 짐작하시와 보실 생각이 계신 이는 每月 十日 以前에 請求(先金으로)하여 주시기 바라나이다
+開闢社 營業局＜43＞

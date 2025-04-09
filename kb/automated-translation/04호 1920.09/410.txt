@@ -1,0 +1,67 @@
+Magazine Title: 開闢 제4호
+Publication Date: 1920년 09월 25일
+Article Title: 編輯社告 (Editorial Notice)
+Author: Not specified (Editorial Department)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation**
+
+Editorial Notice
+
+Our Kaebyŏk (開闢), possessing the vast majority of readers, is profoundly grateful as cosmic acclaim reaches its zenith with each passing month and progressing issue. Simultaneously, the editorial staff feels the weight of responsibility acutely, causing sweat to soak our backs. Therefore, our editorial department, never forgetting improvement and ceaselessly pursuing progress, has decided to delay the publication date, which was the 25th of each month, by 5 days, henceforth issuing on the 1st of each month. Accordingly, issue number 5, which would have been released on October 25th, will be published on November 1st. Subsequently, each issue will provide a new volume (新本) to our esteemed readers, who possess a new spirit (新精神), on the new day of the new month (新月 新日).<153>
+
+**Summary**
+
+This editorial notice from the magazine *Kaebyŏk* announces a change in its publication schedule. Citing overwhelming reader support and a corresponding sense of responsibility, the editors are moving the release date from the 25th of the month to the 1st of the following month, starting with the November 1st issue. This change is framed as a way to deliver a "new" issue reflecting a "new spirit" at the beginning of each new month. From a historical perspective, the notice highlights the existence and perceived popularity of a Korean-language cultural magazine in 1920, early in the colonial period. The editors' expressed sense of duty and the emphasis on "newness" and "progress" might subtly reflect the nationalist or modernizing aspirations prevalent among Korean intellectuals at the time, navigating the constraints of Japanese colonial rule.
+
+**Named Entities**
+
+None identified in the text.
+
+**Glossary**
+
+絶大多數	절대다수	Vast majority
+讀者	독자	Reader
+開闢	개벽	Kaebyŏk (Magazine Name: "Genesis" or "The Creation")
+閱하다	열하다	To pass (time, e.g., months); an older usage form.
+遂하다	수하다	To progress, to advance (e.g., issues)
+宇內	우내	The cosmos, the world (lit. 'within the universe')
+歡迎	환영	Welcome, acclaim
+焦點	초점	Focus, focal point
+達하다	달하다	To reach, to attain
+感謝 不已	감사 불이	Endless gratitude, cannot cease thanking
+同時	동시	Simultaneously
+編輯同人	편집동인	Editorial staff, members of the editorial team
+責任	책임	Responsibility
+重覺하다	중각하다	To feel heavily, to be acutely aware of
+汗	한	Sweat
+背	배	Back (of the body)
+沾하다	점하다	To be soaked, to be moistened (older usage)
+改善	개선	Improvement
+不忘하다	불망하다	To not forget
+進步	진보	Progress
+莫逆하다	막역하다	To not go against; here implies ceaseless pursuit
+編輯部	편집부	Editorial department
+每月	매월	Every month
+發行하다	발행하다	To publish, to issue
+日字	일자	Date
+延期하다	연기하다	To postpone, to delay
+以後	이후	Hereafter, subsequently
+新月	신월	New month
+新日	신일	New day
+新精神	신정신	New spirit
+讀者諸位	독자제위	Esteemed readers (honorific plural)
+新本	신본	New volume/issue
+提供하다	제공하다	To provide, to offer
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제4호
+발행일	1920년 09월 25일
+기사제목	編輯社告
+기사형태	사고·편집후기
+
+編輯社告
+絶大多數의 讀者를 가진 우리 開闢은 月을 閱하고 號를 遂할수록 宇內歡迎이 그 焦點에 達함은 感謝 不已하는 同時에 編輯同人의 責任을 重覺하니 汗이 背에 沾하는도다. 이에 改善을 不忘하고 進步를 莫逆하는 우리 編輯部에서는 每月 25日에 發行하는 日字를 5日을 더 延期하야 每月 1日에 發行하기로 하여 第 5號는 10月 25日인 것을 11月 1日에 發行하고 以後는 號마다 新月 新日에 新精神을 가진 讀者諸位에게 新本을 提供하겟습니다.＜153＞

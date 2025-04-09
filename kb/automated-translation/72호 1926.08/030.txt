@@ -1,0 +1,165 @@
+**Header Section**
+Magazine Title: 개벽 제72호
+Publication Date: 1926년 08월 01일
+Article Title: 朝鮮의 人口論(二), 第二編 動態人口 (Population Theory of Korea (2), Part 2: Dynamic Population)
+Author: 李順鐸
+Article Type: 논설 (Editorial/Article)
+
+**Body Text Translation**
+
+Population Theory of Korea
+						Yi Suntŏk
+
+Dynamic population refers to the observation of a society's population phenomena dynamically. The purpose of this dynamic observation is to understand how the population of Koreans changes due to social or natural causes. Social changes arise from migration relationships, and natural changes arise from birth and death relationships. Therefore, focusing on these two aspects, we intend to observe various related factors. Although the investigation of dynamic population in Korea began after the Japan-Korea Annexation in Meiji 43 (1910), for convenience, we will refer to survey data from Taishō 1 (1912) onwards.
+
+Chapter 1: Births and Deaths
+
+Looking at the birth and death status of Koreans since Taishō 1, it is as shown in the table to the left.
+
+According to the table on the right [Note: Refers to a table not included in the provided text], the average annual birth rate of 31.8 is second only to Japan's 33.6, the highest in the world. The stillbirth rate is extremely low, almost negligible compared to Japan's 2.5. The death rate is 21.6, which is also lower than Japan's. Consequently, we can see that the average natural increase rate for Koreans is 10.2 per 1,000 people, second only to the highest, Japan. For reference, we will record the average birth/death rates and natural increase rates of major countries below.
+
+Since there are differences in the number of years averaged for the rates of the countries above, they cannot be compared on exactly equal terms. However, as these countries have stable internal affairs, have conducted dynamic population surveys since early on, and have fully conducted national censuses several times, comparing them might not involve severe unfairness. But in Korea, the situation is different. It has only been slightly over ten<10> years since dynamic surveys began, and only a simple national census was conducted just once last year. Therefore, it is unavoidable that there is a large deviation between the surveyed numbers and the actual numbers, and consequently, comparison with other countries will likely be very unfair. Thus, below, we will again compare the situation in recent years, specifically Taishō 13 (1924), where the deviation is relatively small, with that of other countries in their recent years.
+
+Observing the table on the right [Note: Refers to a table not included in the provided text], the recent natural increase rate of Koreans is extremely high, showing a rate of 17.1, which is unseen in other countries.
+
+To summarize, the population of Koreans has shown a sharp increase rate over the past dozen years. On average, the population increased by 169,816 people annually, with an average rate of 10.2 per thousand. However, recently, the number has increased by over 300,000 to 350,000, and the rate has increased from 17.1 to 20.1 per thousand. Consequently, even if the Korean population increases only according to the average rate, the population at the end of Taishō 13 (1924) will double in about 63-64 years. If it increases according to the recent trend, it will double in about 35-36 years, and the density will exceed 2,500 people per square ri (里).
+
+Next, looking at births by month, it is as shown in the table to the left.<11>
+
+Next, looking at deaths by month and deaths by disease category, and then deaths by age, it is as follows.
+
+Next, the main causes of death among Koreans are listed as follows.
+
+Again, looking at deaths by age, it is as follows (Taishō 12, 13).
+
+Chapter 2: Marriage and Divorce
+
+Since the direct cause of childbirth is marriage, we will present a comparative table for the years since Taishō 1 regarding this.
+
+Next, looking at marriage by age, it is as follows (Taishō 1).
+
+According to the table on the right [Note: Refers to a table not included in the provided text], out of the total 121,993 marriages, the largest number involved wives aged 15 to under 20 and husbands aged under 20. Proportionally, wives aged 15 to 20 accounted for 50.4% of total marriages, and those under 15 accounted for 17.2%. For husbands, those under 20 accounted for 42.6%, and those aged 20 to 25 accounted for 28.5%. Next, what was the situation in Taishō 12 (1923)?<13>
+
+According to the table on the right [Note: Refers to a table not included in the provided text], out of the total 258,167 marriages in Taishō 12, the largest number involved wives aged 15 to under 20 and husbands aged 17 to under 20. Proportionally, wives aged 15 to 20 accounted for 54.4% of total marriages, those under 15 surprisingly dropped to 4.6%, and those aged 20 to under 25 took the next place at 25.5%. For husbands, those aged 17 to under 20 accounted for 32.2%, those under 17 were only 5.3%, those aged 20 to under 25 took the next place at 29.7%, followed by those aged 25 to under 30, and 30 to under 35 in that order. Thus, it is proven that in the ten-odd years since Taishō 1, the traditional Korean custom of early marriage has gradually declined (廢弛).
+
+Regarding divorce, as seen in the previous table, the rate is extremely minimal, not exceeding an average of 0.6 per thousand (天分之 0.6). That is, the rate for Japanese residing in Korea averages over 0.5, but compared to their marriage rate, it is much higher. In Japan, the marriage rate is similar to Korea, but the divorce rate averages over 1.0.
+
+Chapter 3: Population Increase
+
+Based on the statistical facts above, the state of natural increase among Koreans has become even more intense in recent years. That is, the average annual increase over a dozen years was 169,816, with a rate of 10.2 per thousand, but in Taishō 13 (1924), it showed a high rate of 17.1<14> per thousand with 302,049 people. So, where lies the cause of such a rapid population increase? There may be various reasons, but I have identified two main causes: 1. Socio-economic causes and 2. Technical causes. I intend to demonstrate each below.
+
+1. Socio-Economic Causes
+a. Population liberation and population increase In Europe and America (歐米洲), France (佛蘭西), where modern civilization developed earliest, saw its birth rate peak in the 1810s and gradually decrease from 33.0 per 1,000 people to 20.0 or even 18.0 in recent years. With the exception of France, advanced nations such as Austria (墺), Hungary (匃), Italy (伊), Spain (西), Switzerland (瑞西), Belgium (白), Netherlands (和), Sweden (瑞典), Norway (諾威), England (英), and America (米) mostly peaked around the 1870s, and their birth rates gradually declined until before the Great European War. During the war, it dropped sharply, but immediately after the war, it recovered to the pre-war state and is now showing a tendency of slow decline again.
+
+However, in Europe and America, in less developed countries where modern civilization emerged relatively late, such as Russia (露), Serbia (塞), Romania (羅), Portugal (葡), Mexico (墨), Brazil (伯), Chile (智利), the trend of birth rate decline only began to appear around 1910. In Japan too, influenced by the wartime nouveau riche (成金時代), the birth rate suddenly surged for a few years after Taishō 9 (1920), but generally, it peaked in Meiji 44 (1911) and has shown a gradual decline since then.
+
+So, what does this fact explain? Broadly speaking, in the advanced nations of Europe and America, largely influenced relatively early by the Industrial Revolution completed in England from the latter half of the 18th century to the first half of the 19th century, the feudalistic (봉건적) regional economy completely liberated land and population, rapidly advancing towards capitalism based on individualism and free competition. As a result, the general populace, which had suffered many constraints and bonds socially, economically, legally, and politically, gained freedom and equality in all aspects, at least nominally. This influence extended to the improvement of their lives and the consequent psychological desire for proliferation (번식욕), leading to a gradual population increase, which peaked by the 1870s, varying somewhat by country. However, this rapidly developing capitalism entered a phase of self-inflicted misfortune (自繩自縛), meaning the frequent arrival of severe economic downturns and the<15> accompanying intensification of livelihood difficulties made forming and maintaining households difficult. On one hand, the general populace's psychological desire for proliferation somewhat decreased. On the other hand, as the scope of occupations for women and young boys and girls expanded, physiological reproductive capacity also somewhat decreased. Therefore, in the later stages of capitalism, the birth rate conversely declined. In the less developed countries of Europe and America, because capitalism arrived relatively late, this phenomenon appeared later; it was not due to the operation of a different principle.
+
+Next, in Japan as well, being a latecomer, the influence was received late. That is, Japan fully liberated land and population only in Meiji 4 (1871), so the pre-Restoration isolationist agricultural state was abruptly opened up to capitalism. Consequently, similar to the advanced nations of Europe and America, the population surged along with the rapid development of capitalism. However, as mentioned earlier, upon entering the Taishō era, like other less developed countries in Europe and America, it began showing signs of gradual decline. Thus, we arrive at the discovery that the spread and development of modern capitalistic civilization leads to a gradual increase in the birth rate up to a certain point, but beyond that point, it shows a tendency to gradually decrease. Therefore, in Korea too, the population increase accompanying the rise in birth rate over the past 15 years does not require much effort to find its cause. That is, although the formal liberation of land and population in Korea can be said to date from Kŏnyang 1 (1896 AD) [Note: Kŏnyang was 1896, not 1893], due to frequent political changes until before the Yunghŭi era (1907-1910), the social state of Korea was almost anarchic, so its actual liberation can only be considered from the Yunghŭi era onwards. Consequently, the closed-off regional economy was completely opened up by foreign capitalism. Therefore, it is rather natural that the population increased further after the start of dynamic population surveys in Meiji 43 (1910), and thus the birth rate also surged. It is presumed that this state of gradual increase will be maintained for some time to come, accompanying the further penetration of capitalism to some extent. However, solely due to the special circumstances of being a colony (식민지적), it is also easy to predict that, compared to other countries, the birth rate will decline again before long.
+—(Unfinished)—<16>
+
+**Summary**
+
+This article analyzes Korea's "dynamic population" trends (births, deaths, marriage, divorce) from 1912 to 1924. The author, Yi Suntŏk, notes Korea's high birth rate (second only to Japan) and a remarkably high natural population increase rate, particularly accelerating by 1924 (Taishō 13) to 17.1 per thousand, projecting a doubling of the population in 35-36 years if sustained. The article also observes a decline in the traditional custom of early marriage between 1912 and 1923. The author attributes the rapid population growth primarily to socio-economic factors, specifically the "liberation" of land and people accompanying the shift towards capitalism, mirroring patterns seen earlier in Europe and Japan, where birth rates initially rose with modernization before eventually declining. The author suggests Korea is in the initial phase of this demographic transition but predicts an earlier decline due to its "colonial" situation.
+
+For historians, this article offers a valuable snapshot of colonial-era demographic thought in Korea. It reveals contemporary awareness of high population growth, comparisons drawn between Korea, Japan, and Western nations, changing social norms like marriage age, and an attempt to frame Korea's demographic shift within global theories of modernization and capitalism, albeit acknowledging the unique constraints of colonial rule (식민지적 특수한 사정). The high growth rate itself, presented alongside data comparing Korea favorably to Japan in some aspects (lower death rate, very low stillbirth rate initially), is historically significant, complicating simple narratives of colonial immiseration while simultaneously hinting at future pressures and the potential impact of the colonial structure on long-term trends.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+李順鐸	이순탁	Yi Suntŏk
+日本	일본	Ilbon
+大正	대정	Taishō
+歐米洲	구미주	Omijoo (Europe and America)
+佛蘭西	불란서	Pŭllansŏ (France)
+墺	오	O (Austria)
+匃	알	Kal (Hungary - Hanja likely incorrect/archaic, 匈 expected)
+伊	이	I (Italy)
+西	서	Sŏ (Spain)
+瑞西	서서	Sŏsŏ (Switzerland)
+白	백	Paek (Belgium - Hanja likely incorrect/archaic, 比 expected)
+和	화	Hwa (Netherlands - Hanja likely incorrect/archaic, 荷 expected)
+瑞典	서전	Sŏjŏn (Sweden)
+諾威	나위	Nakwi (Norway)
+英	영	Yŏng (England/UK)
+米	미	Mi (America/USA)
+露	로	Ro (Russia)
+塞	색	Saek (Serbia - Hanja likely incorrect/archaic)
+羅	라	Ra (Romania)
+葡	포	P’o (Portugal)
+墨	묵	Mŭk (Mexico)
+伯	백	Paek (Brazil - Hanja likely incorrect/archaic, 伯剌西爾 expected)
+智利	지리	Chili (Chile)
+明治	명치	Myŏngch’i (Meiji)
+建陽	건양	Kŏnyang
+隆熙	융희	Yunghŭi
+
+**Glossary**
+
+動態人口	동태인구	Dynamic population
+출산율	출산율	Birth rate
+사망률	사망률	Death rate
+자연증가율	자연증가율	Natural increase rate
+死産率	사산율	Stillbirth rate
+國勢調査	국세조사	National census
+조혼	조혼	Early marriage
+廢弛	폐이	Decline, become lax, fall into disuse
+해방	해방	Liberation, emancipation
+산업혁명	산업혁명	Industrial Revolution
+봉건적	봉건적	Feudalistic
+자본주의	자본주의	Capitalism
+번식욕	번식욕	Desire for proliferation/reproduction
+식민지적	식민지적	Colonial
+잇다	있다	To exist, to be (older spelling of 있다)
+갓다	같다	To be like, same as (older spelling of 같다)
+업스나	없으나	Although there is not (older spelling of 없으나)
+만흔	많은	Many, much (older spelling of 많은)
+하야	하여	Doing, as (older spelling/form of 하여)
+되엿다	되었다	Became (older spelling of 되었다)
+밧든	받던	Received, suffered (older spelling of 받던)
+늣게	늦게	Late, belatedly (older spelling of 늦게)
+가티	같이	Like, together with (older spelling of 같이)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제72호
+발행일	1926년 08월 01일
+기사제목	朝鮮의 人口論(二), 第二編 動態人口
+필자	李順鐸
+기사형태	논설
+
+朝鮮의 人口論
+						李順鐸
+動態人口라 함은 사회의 인구현상을 동적으로 관찰하는 것이다. 그러면 이 동적 관찰의 목적하는 바는 조선인의 인구가 사회적 又는 자연적 원인으로 如何히 변동하느냐 함에 잇다. 그레서 사회적 변동은 이주관계로 생기고 자연적 변동은 출생사망관계로 생김으로 이 두 가지를 중심삼고 그에 관련된 여러 가지를 관찰하려고 한다. 그런데 조선에 잇서서 動態人口를 조사하기는 明治 43년 日韓合倂 이래부터이나 편의상 이에는 大正元年부터의 조사재료를 참고하려고 한다.
+
+第一章 出産과 死亡
+大正元年 이래 조선인의 출산사망상태를 보면 左表와 갓다.
+右表에 의해서 보면 매년 평균출산율 31.8은 세계에 출산율 最高한 일본의 33.6의 次位에 잇고 死産率이 극히 低하야 일본의 2.5에 비하면 거의 문제가 되지 안는다. 그리고 사망률은 21.6인데 이 亦 일본보다는 低位에 잇다. 그러면 결국 조선인의 평균자연증가율은 매 1,000인에 대하야 10.2인데 最高한 일본의 次位에 잇다는 알 수가 잇다. 참고하기 위하야 다음에 주요각국의 평균출생사망률과 자연증가율을 기록해 보려고 한다.
+이상 각국의 평균율은 평균을 취한 年數에 差가 잇슴으로 곳 동등의 자격으로써 비교할 수는 업스나 각국은 내정이 정돈되고 動態人口의 조사도 일즉부터 행하고 國勢調査도 수삼차 이상 완전히 행하엿슴으로 서로 비교하여도 심한 불공평은 업갯지마는 조선에 잇서서는 사정이 그럿치 못하야 動態調査를 시작한 지가 僅僅 十有餘年에＜10＞ 불과하며 國勢調査도 그 簡易調査가 겨우 작년에 一次 행하게 된 데 지나지 못함으로 調査數와 實數와의 사이에는 만흔 편차가 잇슴 면치못하야 따라서 他國과 비교함에는 불공평이 심할 것임으로 이하에 다시 비교적 편차가 적은 최근년 즉 大正 13년의 상태를 가지고 각국의 최근년의 그것과 비교하려고 한다.
+右表에 의하야 관찰하면 최근 조선인의 자연증가율은 至高하야 실로 17.1이라 하는 다른 나라에서 볼 수 업는 高率을 呈한다.
+이를 요약하면 조선인의 인구는 과거 십수년이래로 증가율이 격렬하야 平均數로 보면 年 169,816인이 증가하고 평균율로 보면 10.2가 증가한다. 그러나 최근에는 數로 30만이상 35만 여가 증가하고 率로 보면 17.1 이상 20.1까지 증가한다. 따라서 조선인의 인구는 금후 매년 평균율대로만 증가하더라도 약 63-4년 이후에는 大正 13년말의 인구는 倍加할 것이오 최근의 경향대로 증가한다 하면 약 35-6년 후에는 倍加하야 밀도는 매 平方里 2,500인 이상이 될 것이다.
+다음에 出産月別을 보면 左表과 갓다.＜11＞
+다음에 死亡月別과 死亡病類別을 보고 다시 사망자연령별을 보면 如左하다.
+다음에 조선인의 사망의 病類의 주요한 者를 擧하면 如左하다.
+다시 사망자의 연령별을 보면 左하다.(大正 12,3년)
+
+第二章 結婚과 離婚
+출산의 직접원인은 결혼임으로 이에 관하야 大正元年 이래의 累年比較表를 揭하려 한다.
+
+다음에 혼인의 연령별을 보면 다음과 갓다.(大正元年)
+右表에 의하면 결혼총수 121,993 중 妻의 연령은 15세 이상 20세 미만 夫의 연령은 만 20세 미만의 결혼이 최다수를 점하얏다. 그러고 비례는 妻는 15세부터 20세까지가 결혼총수의 50.4를 점하고 15세 미만이 17.2를 점하엿는데 夫는 20세 미만이 42.6,  20세부터 25세까지가 28.5를 점하엿다. 다음에 大正 12년의 상태를 보면 如何하뇨.＜13＞
+右表에 의하면 大正 12년의 결혼총수 258,167중에 妻의 연령은 15세 이상 20세 미만 夫의 연령은 17세 이상 20세 미만이 최다수를 점하엿다. 그러고 그 비례는 妻는 15세 이상 20세까지가 결혼총수의 54.4를 점하고 15세 미만이 도리혀 4.6으로 떠러지고 20세 이상 25세 미만이 25.5로 次位를 점하엿고 夫는 17세 이상 20세 미만이 32.2, 17세 미만은 겨우 5.3에 불과하고 20세 이상 25세 미만이 29.7로 次位를 점하고 25세 이상 30세 미만, 30세 이상 35세 미만의 순서로 나렷다. 然則 大正元年 이래 십여년 간에 조선 古來의 조혼의 습관은 점점 廢弛해 간다는 것이 증명된다.
+이혼에 관하야는 前表에서 본 것과 가티 그 率이 심히 미미하야 평균 天分之 0.6을 넘지 못한다. 즉 조선내에 거주한 일본인의 率은 평균 0.5 이상이나 그 결혼율에 對比하면 遙高하고 일본에서는 혼인율은 조선과 가튼대 이혼율은 평균 1.0 이상이다.
+
+第三章 人口의 增加
+이상의 통계적 사실을 가지고 보면 조선인의 자연증가상태는 최근년에 이르러서 더욱 격렬하다. 즉 십수년간 평균증가수가 169,816이오 그 千分率은 10.2이나 大正 13년에는 302,049인에＜14＞ 17.1의 高率을 示하엿다. 그러면 이와가티 인구의 격증된 원인은 那邊에 잇느냐. 그 원인은 여러 가지가 잇겟지마는 나는 그 주요한 원인을 1. 사회적경제적 원인과 2. 기술적 원인의 두 가지를 발견하엿다. 이하에 각각 증명하고저 한다.
+
+1.社會的 經濟的 原因
+ㄱ. 인구의 해방과 인구증가    歐米洲에 잇서서 현대의 문명이 가장 일즉 발달한 佛蘭西는 1810년대를 절정삼고 출생율이 漸減하야 실로 매 인구 1,000에 대하야 33.0으로부터 근년에 이르러서는 20.0내지 18.0까지에 이르럿다. 이 佛蘭西의 한 예외를 제하고는 墺 匃 伊 西 瑞西 白 和 瑞典 諾威 英 米 등 先進諸國은 거의 다ㅡ 1870년대를 절정삼아서 歐洲大戰前까지는 출생율이 점점 감퇴하엿다. 그러다가 戰時중에는 격감하엿는데 전쟁직후에는 다시 戰前狀態로 회복하야 또다시 완만히 감퇴되는 형편이다.
+그런데 歐米洲에 잇서서도 현대의 문명이 비교적 늣게 발달하야 露 塞 羅 葡 墨 伯 智利 등 後進諸國은 1910년경으로부터 비로소 출생율 감퇴의 傾이 나타나는 형편이오 일본에 잇서서도 전쟁시 成金時代의 영향을 바다 大正 9년이후 수삼년간은 출생율이 俄然 격증은 하엿스나 대체로 明治 44년 즉 1911년을 절정삼어 이후 점점 감퇴하는 경향을 示하엿다.
+그러면 이 사실은 무엇을 설명하느냐. 그 대체를 말하면 歐米의 先進諸國에 잇서서는 대체로 18세기 후반으로부터 19세기 전반까지에 영국에서 완성한 산업혁명의 영향을 비교적 連히 바다서 봉건적 지방경제는 토지와 인구를 완전히 해방하야 개인주의와 자유경쟁에 입각한 자본주의로 급속히 진출하게 되엿다. 그래서 사회적 경제적 법률적 정치적으로 만흔 구애와 속박을 밧든 일반민중은 비로소 명목상으로는 모든 방면에 자유와 평등을 어덧슴으로 그 영향은 곳 彼等의 생활향상과 그로 좃차서 생기는 심리적 번식욕에까지 미처서 인구는 점점 증가하야 나라에 따라서 다소의 차이는 잇스나 1878년대까지에 최절정에 달한 것인데 이 급속도로 발달되여 오든 자본주의는 自繩自縛의 비운에 入하게 되여서 즉 때때로 도래하는 深酷한 불경기와 이에＜15＞ 伴한 생활난의 가중은 一便으로는 가계의 형성과 유지를 곤란케 하야 일반민중의 심리적 번식욕도 다소 감퇴될 뿐 아니라 他便으로는 부인 及 소년소녀의 직업의 범위가 확장되기 때문에 생리적 번식능력도 다소 저감된 까닭에 자본주의의 후기에 이르러서는 도리혀 출생율이 감퇴된 것이오 또 歐米洲의 後進諸國에 잇서서는 자본주의의 비교적 늣기때문에 이러한 현상이 늣게 발현됨에 불과한 것이오 결코 다른 理法의 작용을 바든 것이 아니다.
+다음에 일본에 잇서서도 후진국인 만큼 그 영향을 밧든 바이 늣다. 즉 일본은 明治 4년에 비로소 토지와 인구를 완전히 해방하엿슴으로 維新전의 쇄국적 농업상태는 돌진적으로 자본주의로 개방되엿다. 따라서 歐米先進諸國과 가티 자본주의의 급속도의 발전에 伴하야 인구도 격증하엿는데 前記한 바와 가티 大正年代에 入하야는 다른 歐米의 후진국들과 가티 점점 감퇴의 兆를 示하엿다. 그러면 우리는 이에 이르러서 현대자본주의적 문명의 보급과 발달이 어느 정도에 이르기까지는 출생율도 漸增하지마는 어느 정도를 넘어서는 그것이 漸減하는 경향을 示한다는 것을 발견하엿다. 따라서 조선에서도 과거 15년간에 출생율 증가에 伴한 인구의 증가는 그 원인을 찻기에 고심할 것이 업슬 것이다. 즉 조선에 잇서서는 토지와 인구의 형식적 해방은 建陽元年(西曆 1893년)부터이라고 할 수 잇스나 隆熙 이전까지는 頻頻한 정치적 변때문에 조선의 사회적 상태는 거의 무정부상태에 잇섯슴으로 그 실질적 해방은 隆熙 이후부터이라고 할 수 밧게 업다. 따라서 봉쇄적 지방경제는 외래의 자본주의 때문에 완전히 개방되엿슴으로 明治 43년 動態人口를 조사하기 시작한 이후부터 더욱 인구가 증가하고 따라서 출생율도 격증할 것은 寧히 당연한 일이다. 그래서 今後도 당분간은 어느 정도까지 자본주의의 더욱 浸潤하는 정도 여하에 伴하야 완만히 증가하는 상태를 保持하리라고 추측되나 오즉 식민지적 특수한 사정 때문에 다른 나라들과 비교하야 오래지 아니해서 다시 출생율이 역시 감퇴되리라고도 추측키 용이하다.
+ㅡ(未完)ㅡ＜16＞
+＜9-16＞

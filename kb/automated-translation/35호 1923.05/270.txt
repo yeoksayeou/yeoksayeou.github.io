@@ -1,0 +1,52 @@
+Magazine Title: 개벽 제35호
+Publication Date: 1923년 05월 01일
+Article Title: 謝告 (Apology Notice)
+Author: Editor/Publisher
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+謝告 (Apology Notice)
+
+Regarding Chapter 2, Section "4" (page 80) of the main topic in this magazine's previous issue, there were 7 or 8 lines remaining after "그리면" [geurimyeon - If so/Then] at the end, which depicted 그대로 [godaero - exactly as it is] the way the flame of love begins to burn. Due to constraints of page count and line count, we were unable to include them properly, creating something like tweezers with their tail cut off [i.e., an incomplete piece]. The printer extends apologies (未安한 말씀) to the author and readers for this and dares to hope for your forgiveness. <131>
+
+**Summary**
+
+This short notice is an apology from the publisher or printer of the magazine *Kaebyŏk* (개벽) to its readers and the author of a piece in the previous issue. Due to space limitations (page and line counts), the final few lines depicting the "start of the flame of love" in Chapter 2, Section 4 of the main article were omitted, leaving the piece incomplete. The publisher expresses regret and asks for forgiveness. For historians, this piece offers a small glimpse into the practical constraints and editorial processes of magazine publishing in 1920s colonial Korea. It highlights the negotiation between content length and physical printing limitations, and the direct communication style between publishers and their audience regarding editorial errors or omissions.
+
+**Named Entities**
+
+(No specific named people, places, or organizations mentioned in the text other than the magazine itself.)
+
+**Glossary**
+
+前號	전호	Previous issue (of a magazine)
+本題	본제	Main topic; main subject
+末端	말단	The very end; extremity
+그리면	그러면	If so; then (Older spelling/form of 그러면)
+고대로	고대로	Exactly as it is; unchanged (Older spelling/form of 그대로)
+그려내인	그려내인	Depicted; drawn (Older grammatical form, likely 그려낸)
+句節	구절	Phrase; passage
+頁數	혈수	Page count (Older pronunciation/reading likely influenced by Japanese reading of 頁)
+行數	행수	Line count
+마주	마주	Properly; facing (Here implies 'correctly included')
+꼬리 뗀 쪽집이	꼬리 뗀 쪽집게	Tweezers/pincers with the tail cut off (Idiomatic expression for something incomplete or truncated. 쪽집이 is an older form of 쪽집게)
+맨든	만든	Made; created (Older spelling/form of 만든)
+印刷者	인쇄자	Printer
+作者	작자	Author; writer
+讀者	독자	Reader
+對하야	대하여	Towards; regarding (Older spelling/form of 대하여)
+未安한 말씀	미안한 말씀	Words of apology; statement of regret (未安하다 means 'to be sorry/regretful'. §씀 likely represents 말씀)
+들이오며	드리며	Offering; giving (polite, older conjunctive form)
+敢히	감히	Daringly; venturing to
+바라나이다	바랍니다	Hope; wish (Older, formal/deferential sentence ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제35호
+발행일	1923년 05월 01일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+本誌 前號 本題 第2章 「4」 (80頁)의 末端 「그리면」 以下에도 사랑의 불꼿이 타기 始作하는 그 모양을 고대로 그려내인 句節´ 7,8 行 남아 잇는 것을 頁數의 關係와 行數의 關係로 마주 올리지 못하고 꼬리 뗀 쪽집이를 맨든 일은 印刷者로부터 作者와 또는 讀者에게 對하야 未安한 §씀을 들이오며 敢히 용서해주심을 바라나이다.＜131＞

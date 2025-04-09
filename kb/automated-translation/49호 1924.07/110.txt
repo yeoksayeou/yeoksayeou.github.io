@@ -1,0 +1,75 @@
+잡지명	개벽 제49호
+발행일	1924년 07월 01일
+기사제목	三百年前 石碑 發掘 (Discovery of a 300-Year-Old Stele)
+기사형태	잡저 (Miscellaneous Notes)
+
+Discovery of a 300-Year-Old Stele
+
+In early June, at the house of Kim Chun-mo (金俊模) at 34, 4-chōme, Old Yongsan Wŏnjŏng (舊龍山元町), while tearing out and repairing the ondol (underfloor heating), a massive stele (石碑) measuring 5 ch'ŏk 1 ch'on in length and 1 ch'ŏk 8 ch'on 7 pun in width was discovered beneath the heating flues (방고래). The stele was erected 300 years ago, in the 32nd year of the Chongzhen (崇禎) era [1659]. A partial transcription of the stele inscription follows:
+
+Record on the Back of the Tombstone Epitaph for Gentleman Yi (李公), Chŏllyŏkpuwi (展力副尉)
+
+(Previous text omitted)... Seeking out his hereditary virtues, the Yi (李) clan of Hamp'yŏng (咸平) originates from Yi Ŏn (彦), a Divine Martial Great General (神武大將軍) of Goryeo (高麗). From then on, the line of scholar-officials (士大夫) was unbroken. His great-grandfather was Posthumous Name Yun-u (諱允宇), a County Magistrate (縣監). His grandfather was Posthumous Name Yang (諱瑒), posthumously appointed Left State Councilor (贈左贊成). His father was Posthumous Name P'il-wŏn (諱弼元), holding the rank of Ŏmu[janggun?] (禦侮). He was commonly known in the world as Ku*gong (九*公). Ch'un-wŏn (春元) was his elder brother. (Middle part omitted)... Born in the Pyŏng'o year of the Wanli era (萬曆丙午) [1606], died on the 21st day of the second month in the Kyŏngjin year of the Chongzhen era (崇禎庚辰) [1640]. The tomb is in Kamch'ŏn-ni (甘川里), Kwangju (廣州)... (Remainder omitted) <51>
+
+**Summary**
+
+This article reports the discovery of a large, approximately 300-year-old stone stele (erected in 1659, Chongzhen era) during home renovations in the Yongsan district of Seoul (referred to by its colonial Japanese name, Wŏnjŏng/Motomachi). The stele is an epitaph for a man named Yi from the Hamp'yŏng Yi clan, holding the military rank Chŏllyŏkpuwi. The inscription details his lineage back to the Goryeo dynasty, listing ancestors' names and official positions, and gives his birth and death dates (1606-1640) and burial location in Kwangju. For historians of colonial Korea, the article is interesting as it documents the unearthing of a Joseon Dynasty artifact within a setting identified by its Japanese colonial place name (Yongsan Wŏnjŏng). This juxtaposition highlights the layering of history and the continuation of Korean cultural heritage discovery even under colonial rule, reported matter-of-factly in a Korean publication.
+
+**Named Entities**
+
+舊龍山元町	구용산원정	Ku Yongsan Wŏnjŏng
+金俊模	김준모	Kim Chun-mo
+崇禎	숭정	Sungjŏng (Chongzhen era)
+李公	이공	Yi Kong (Gentleman Yi)
+咸平	함평	Hamp'yŏng
+高麗	고려	Koryŏ
+彦	언	Ŏn (Yi Ŏn)
+允宇	윤우	Yun-u (Yi Yun-u)
+瑒	양	Yang (Yi Yang)
+弼元	필원	P'il-wŏn (Yi P'il-wŏn)
+九*公	구*공	Ku*gong
+春元	춘원	Ch'un-wŏn (Yi Ch'un-wŏn)
+萬曆	만력	Manlyŏk (Wanli era)
+廣州	광주	Kwangju
+甘川里	감천리	Kamch'ŏn-ni
+
+**Glossary**
+
+石碑	석비	Stone stele, monument
+發掘	발굴	Excavation, discovery
+온돌	온돌	Korean underfloor heating system
+뜨더	뜯어	To tear out, dismantle (older spelling of 뜯어)
+방고래	방고래	Hypocaust flue under the ondol floor
+밋해	밑에	Under, beneath (older spelling of 밑에)
+距今	거금	From now, counting back from the present
+碑文	비문	Stele inscription
+摘記	적기	To select and record, excerpt
+展力副尉	전력부위	A military rank in the Joseon Dynasty
+墓表	묘표	Tombstone epitaph marker
+陰記	음기	Inscription on the back (of a stele or monument)
+世德	세덕	Hereditary virtue, family reputation/lineage
+始自	시자	To originate from, start from
+士大夫	사대부	Scholar-official class (during Goryeo/Joseon)
+不絶	부절	Unbroken, continuous
+曾祖	증조	Great-grandfather
+諱	휘	Posthumous name (used before the given name of a deceased person)
+縣監	현감	County Magistrate (Joseon rank)
+祖	조	Grandfather
+贈	증	Posthumously appointed (rank/title)
+左贊成	좌찬성	Left State Councilor (High Joseon rank)
+禦侮	어모	Military title/rank (possibly 御侮將軍, Ŏmu Changgun)
+下略	하략	Remainder omitted, abbreviated below
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제49호
+발행일	1924년 07월 01일
+기사제목	三百年前 石碑 發掘
+기사형태	잡저
+
+三百年前 石碑 發掘
+6월초 舊龍山元町 4丁目 34번지 金俊模의 집에서 온돌을 뜨더 고치다가 방고래 밋해서 長이 5尺 1寸, 幅 1尺 8寸 7分이나 되는 거대한 石碑를 발견하엿다. 그 비석은 距今 300년 전(崇禎) 紀元 32년에 세운 碑인데 그 碑文 중 일부를 摘記하면
+展力副尉李公墓表陰記
+前略徵其世德則咸平之李始自高麗神武大將軍彦自是士大夫不絶曾祖諱允宇縣監祖諱瑒贈左贊成禦侮丈其諱弼元世所稱九*公春元其兄也中略-萬曆丙午生卒于崇禎庚辰二月卄一日墓在廣州甘川里下略＜51＞

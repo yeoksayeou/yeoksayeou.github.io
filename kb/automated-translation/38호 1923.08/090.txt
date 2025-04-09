@@ -1,0 +1,70 @@
+Magazine Title: 개벽 제38호
+Publication Date: 1923년 08월 01일
+Article Title: 正誤 (Corrigenda)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Corrigenda
+
+In the commemorative advertisement for the 3rd anniversary of the founding in the July issue of this magazine, the following are errors: Yang Yunkŭn (楊潤根) of Hamhŭng should be Yang Yunkŭn (楊閏根). Pak Sŏkha (朴錫夏) should be Pak Yongha (朴鎔夏). Ch'oe Kyusŏng (崔奎成) should be Ch'oe Kyusŏng (崔圭成). Kim Yŏngt'ae Lumber Store (金永泰 材木店) should be Kim Yŏngsu Lumber Store (金永壽 材木店). Kim Sŏkhyŏn (金錫鉉) should be Kim Sŏkhyŏn (金錫炫). Wŏn Sŭryŏp (元膝燁) should be Wŏn Tŭngyŏp (元滕曄).
+
+Also in the same advertisement, the name of the proprietor, Mr. Ch'a Myŏnggŏn (車明鍵), was omitted from the entry for the General Goods Trading Company Head (雜貨貿易商長) outside South Gate (南門 外), P'yŏngyang-bu (平壤府), Telephone 733, Postal Transfer Kyŏngsŏng 12,281. It is hereby corrected.<41>
+
+**Summary**
+
+This article is a list of corrections (errata) for mistakes made in a commemorative advertisement published in the previous month's (July 1923) issue of *Kaebyŏk* magazine, celebrating its third anniversary. The corrections mostly involve fixing miswritten Hanja characters in individuals' names and one business name, and adding the name of a proprietor that was accidentally omitted from an advertisement listing. From a historical perspective, this notice is interesting as it provides specific names of individuals and businesses (including their locations like Hamhŭng and P'yŏngyang and details like phone numbers) who supported or advertised in a prominent Korean nationalist magazine during the colonial period. It reflects the networks of support for such publications and offers glimpses into commercial activity and the importance of correctly representing personal and business identities.
+
+**Named Entities**
+
+楊潤根	양윤근	Yang Yunkŭn
+咸興	함흥	Hamhŭng
+楊閏根	양윤근	Yang Yunkŭn
+朴錫夏	박석하	Pak Sŏkha
+朴鎔夏	박용하	Pak Yongha
+崔奎成	최규성	Ch'oe Kyusŏng
+崔圭成	최규성	Ch'oe Kyusŏng
+金永泰 材木店	김영태 재목점	Kim Yŏngt'ae Lumber Store
+金永壽 材木店	김영수 재목점	Kim Yŏngsu Lumber Store
+金錫鉉	김석현	Kim Sŏkhyŏn
+金錫炫	김석현	Kim Sŏkhyŏn
+元膝燁	원슬엽	Wŏn Sŭryŏp
+元滕曄	원등엽	Wŏn Tŭngyŏp
+平壤府	평양부	P'yŏngyang-bu
+南門 外	남문 외	Nammun Oe (Outside South Gate)
+雜貨貿易商長	잡화무역상장	Chaphwa Muyŏk Sangjang (General Goods Trading Company Head)
+京城	경성	Kyŏngsŏng
+車明鍵	차명건	Ch'a Myŏnggŏn
+
+**Glossary**
+
+本誌	본지	This magazine
+月號	월호	Monthly issue
+創刊	창간	First publication, founding (of a magazine, etc.)
+周年	주년	Anniversary
+祝賀	축하	Celebration, congratulation
+紀念	기념	Commemoration
+廣告	광고	Advertisement
+中	중	Among, in, middle
+誤	오	Error, mistake
+材木店	재목점	Lumber store
+漏載되엿기	누재되었기	Because it was omitted (older spelling/form of 되었기)
+玆에	자에	Hereby, here (older literary form of 이에)
+訂正함	정정함	To correct, correction (noun form derived from verb stem +ㅁ)
+主	주	Proprietor, owner
+氏名	씨명	Full name (often used in formal contexts)
+電話	전화	Telephone
+振替	진체	Postal transfer (system for sending money)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제38호
+발행일	1923년 08월 01일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+本誌 7月號 創刊 3周年 祝賀 紀念廣告 中에 咸興의 楊潤根은 楊閏根. 朴錫夏는 朴鎔夏. 崔奎成은 崔圭成. 金永泰 材木店은 金永壽
+材木店. 金錫鉉은 金錫炫. 元膝燁은 元滕曄의 誤.
+同 廣告 中 平壤府 南門 外 雜貨貿易商長 電話 733番 振替 京城 12,281番에 主 車明鍵氏의 氏名이 漏載되엿기 玆에 訂正함.＜41＞

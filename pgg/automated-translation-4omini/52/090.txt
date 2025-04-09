@@ -1,0 +1,89 @@
+잡지명	별건곤  
+발행일	1932년 09월 01일  
+기사제목	虎列刺이야기 (A Story of Cholera)  
+필자	社會管ㆍ中央實費診療院長 醫學博士 閔丙祺  
+기사형태	논설 (Editorial)  
+
+A Story of Cholera  
+社會管ㆍ中央實費診療院長 醫學博士 閔丙祺  
+"Cholera! Cholera! Cholera is advancing southward, ultimately invading Korea." Recent newspapers have been buzzing about the Cholera commotion. So what kind of disease is cholera?
+
+◇Reasons for Cholera  
+Of course, cholera is one of the infectious diseases. Therefore, the cholera epidemic is a highly contagious disease, and the cause of this disease comes from the cholera bacillus. The cholera bacillus was discovered by a famous German bacteriologist, Robert Koch, in 1883 after extensive research in the heavily affected regions of Egypt and India. There is an interesting story about the discovery of this bacillus. Although Dr. Koch was renowned in bacteriology, he had a senior colleague, Dr. Pettenkofer, who was famous in hygiene. When they conducted research on cholera, they reached different conclusions, leading to a fierce argument. However, there were no scholars who could decisively arbitrate their claims. Ultimately, Dr. Pettenkofer, along with his assistant, decided to consume the bacillus that Dr. Koch had discovered to prove whether it was indeed the cholera bacillus. Dr. Pettenkofer experienced only mild diarrhea, while his assistant became severely ill with cholera. The outcome of this life-risking experiment proved that the bacillus shaped like a "comma" discovered by Dr. Koch was indeed the cholera bacillus. At the same time, it was also established that not everyone exposed to the cholera bacillus would contract the disease, and that not everyone who contracted it would die. This kind of life-risking experiment has immensely benefited us.
+
+◇How Cholera Emerges  
+In Korea, cholera is not always present. There are years when the disease spreads severely, and other years when not even a shadow of it appears. The origins of this disease can be traced back to the Indian region, from where sea merchants or travelers may bring in the bacillus. There are instances of individuals carrying the disease returning from places like Shanghai or Hong Kong, heading to ports such as Busan or Incheon, or arriving from Shandong and Manchuria via land borders. This year, its emergence came frighteningly late. There are rare cases where individuals traveling from Shanghai or Hong Kong arrive in Incheon, but typically the disease appears between June and October. As the autumn season approaches and the weather cools down, the disease begins to dwindle. This is largely due to the cholera bacillus being quite delicate and unable to thrive in specific conditions, especially in the cooler seasons.
+
+◇Symptoms of Cholera  
+After exposure to the cholera bacillus, symptoms may develop suddenly within a matter of six hours, but more commonly within one or two days. In some cases, symptoms may only surface after a week or more. This variation can be attributed to the differing immune responses of individuals, as well as the strength of the bacillus itself.
+
+The most recognizable symptoms include sudden severe diarrhea and intense abdominal pain, initially manifesting as ordinary food-related issues. However, after a while, individuals may begin to vomit a rice-water-like substance that carries countless cholera bacilli, which can then be transmitted to uninfected individuals. Moreover, this contaminated waste must be carefully disposed of, as improper disposal can lead to water contamination, potentially propagating the outbreak. Therefore, it is crucial to disinfect any such waste material to kill the cholera bacilli.
+
+Patients infected with cholera may experience only mild diarrhea but can become severely weakened and may exhibit a range of symptoms including fever, dry mouth, and dehydration. Often, six to eight out of every ten infected individuals end up succumbing to the disease.
+
+◇Methods of Prevention  
+Above all, it is most essential to prevent infection before it occurs, rather than trying to treat it afterward. Therefore, the primary strategy is to ensure cholera does not reach the area. Ports must provide thorough inspections for incoming vessels, and health checks should be conducted for individuals crossing land borders. When the disease becomes evident, it is crucial to exercise caution regarding food, avoiding consumption of raw foods and fish, while travel to affected areas should be strictly prohibited. Furthermore, vaccination is particularly effective, and once cases arise, prompt medical treatment should be sought to contain the disease and prevent further transmission, as this is the most effective approach.
+
+  
+
+**Summary**  
+
+This article discusses the cholera epidemic, its causes, symptoms, and necessary prevention methods during a time when Korea was under Japanese rule. The author references historical experiments that led to the understanding of cholera, illustrating the importance of scientific research in combating disease. Historians might find interesting insights into public health responses during the colonial era and the implications of foreign influence on medical practices in Korea at the time.
+
+**Named Entities**  
+
+虎列刺	Cholera  
+社會管	Sahoe-gwan  
+中央實費診療院	Central Private Medical Treatment Institute  
+閔丙祺	MIn Byŏng-ki  
+코흐	Robert Koch  
+페텐펠	Pettenkofer  
+埃及	Egypt  
+印度	India  
+上海	Shanghai  
+香港	Hong Kong  
+橫濱	Yokohama  
+長䗁	Zhangjiagang  
+부산	Busan  
+인천	Incheon  
+山東	Shandong  
+滿洲	Manchuria  
+
+**Glossary**  
+
+호열자	호열자	Cholera  
+전염병	전염병	Infectious disease  
+균	균	Bacillus  
+실험	실험	Experiment  
+증세	증세	Symptoms  
+예방	예방	Prevention  
+사망	사망	Mortality  
+소독	소독	Disinfection  
+의사	의사	Doctor  
+음식물	음식물	Food items  
+
+
+---------------------------
+
+
+잡지명	별건곤 제55호
+발행일	1932년 09월 01일
+기사제목	虎列刺이야기
+필자	社會管ㆍ中央實費診療院長 醫學博士 閔丙祺
+기사형태	논설
+
+虎列刺이야기
+						社會管ㆍ中央實費診療院長 醫學博士 閔丙祺
+『호열자! 호열자! 호열자남하 필경 조선침입(虎列刺南下 畢竟朝鮮侵入)』
+근일신문은 모도가 이러한 호열자소동으로 야단이다 그러면 대체 호열자라는 것은 엇다한 병인가?
+◇호열자에걸니는리유
+물론 호열자도 전염병가운데 하나이다 그러무로 호열자 역무서웁게 전염성을 가진병이며 이병에 걸니는 리유는 호열자균으로 말미아마 걸니게 되는 것이다. 호열자균은 一八八三년세균학(細菌學)으로 유명한 독일코호박사가 그몹시 유행하든 애급(埃及)과 인도(印度)지방에서 천신만코로연구하야 발견한 「코호」균이라는 「마」ㅊ럼 생긴균이다 이균을 발견할 재미잇는 이야기가 잇다.―――당시 「코호」박사가 세균학으로 유명하엿지만 박사보다도 선배(先輩)요 위생학(衛生學)으로 유명학 「페텐펠」 박사 역 「코호」씨와 로 호열자를 연구하다가 서로 다른 결과를 엇게되여서 「코호」씨파는 자긔가 발견한균이 정말호열자균이라거니 「페텐펠」박사는 아니라거니해서 몹시 싸웟섯다. 그러나 그 누구나 다엇더한사람의 말이 올타고 판단을 나릴만한 학자가 엄섯다. 그래서 결국「페텐펠」박사는 조수(助手) 한사람과 가티 「코호」박사가발견한균을 먹어서 호열자에 결닐것가트면 이것이 정말 호열자균이오 알걸닐것가트면 호열자균이 아니라는 것이 증명되리라고 생각하고 이균을 먹엇드니 「페텐텔」박사는 한두번설사만하고 조수한사람은 드듸여호열자에 걸려주엇다. 이생명을 내노코실험한결과 「코호」박사가 발견한 「콤마」처럼 생긴균이 정말 호열자균이라는 것이 판명되는동시에 이균에 전염된다고 다호열자에 걸니는것이아니라 엇더한 사람은 걸니고 엇더한 사람은 아니걸니니 걸린다고 다 죽는 것이 아니라는 것마지 증명하게되엿다―――이처럼 자긔생명을 내여노코하는실험이 얼마나 우리에게 리익을 쳣는가?
+◇호열자가 드러오는길
+우리조선에는 호열자가 항상잇는것이아니다 엇더한해는 몹시유행하지만 엇더한해는 그림자조차 안보이는수도잇다. 이병이만키로는 전에써온 것과가티 인도지방인데 이곳으로 부터으는해운업자(海運業者) 혹은 려행하는사람이 균을 옴겨가지고 오는수도 잇고 는 자긔가 이병에 걸려가지고 오는수도잇다 이러한 사람이 상해(上海)향항(香港)으로부터 일본의 횡빈(橫濱)이나 장기(長䗁)를것처 부산이나 인천으로 드러오는수도잇고 는 산동과 만주지방을 도라서 국경(國境)으로 드러오는수도잇는데 금년에는 나종길을 발버드러온 것이다. 간혹 상해나 향항으로부터 인천으로드러오는수도 엄지안타 대개 조건에 드러오기는 六月로부터 十月사이며 가을철이드러서 선선해지면 병이드러오지도안고 일단 드러온병이라도 차차감헤지기시작한다 이리유는 호열자균을 취위에 대단히 약해서 발육이안되는 것은 물론 몹시 치우면 균이 죽어버리는 닭이다.
+◇호열자병의 증세
+호열자균이 전염된뒤 엿시간이못되여서 병이 발작되는수도 잇지만 흔이는 일주야지난다음 병중세가 이러나는수도잇고 엇더한는 七, 八일후에야 증세가 나타나는수도잇다. 이것은 사람에라서 저항력(抵抗力)이 다른것도 한원인이지만 다름방면으로 호열자균 그물건의 독력(毒力)의 강하고 약한것도큰 관게가잇다.
+병증세가운데 가장 알기쉬운 것은 별안간 못시토하고 설사를하며 복통이심한 것이 특증인데 그것도 맨처음 나온 것은 보통음식물이나 설사이지만얼마동안잇스면 쌀물가튼 냄새나는 물건을 토하고 사하게된다 이토사물가운데는 만흔호열자균이잇스며 이것으로말미아마 다른성한사람에게 전염되는 것이다 그 외에도 이토사물은 함부루내여버리면 이것이 움물이나 간혹 바다로흘너드러가서 유행의 원인이 되는수도잇슴으로 이토사물은 반듯이 소독해서 호열자균을 죽아지안으면 안된다.
+이병에 걸닌병자는 한두번의 토사를하면 몹시 쇠약헤저서 긔운이엄시아부러지며 열은 흔이는 올느지안코엇더한는 보통건강한 사람보다도 나즐가 잇지만 병자는 찬을 흘니며 피부와 입이마르고 목이쉬며 오즘이안나온다. 대개 이러한 증세로 하로이틀다가 죽어버리는 수가만코 혹엇더한 는 이러한 증세가 착차업서저서 간신이 사러나는수도 엄자안타 그러치만 대개 이병에 걸니면 열사람가운데 여섯내지 여덜사람은 죽고만다.
+◇예방하는방법
+무엇보다도 병에 걸닌뒤에 드는것보다 이병에 걸니지 안케하는 것이 제일 필요하다. 그러키문에 호열자를 그지방에 드러오지 못하겟하는 것이 제일 상책임으로 항구가튼데서는 드러오는 데를 일일이 검사하고 국경에서 륙지로 넘어오는 사람도 건강조사를하는것이조흐며 이병이 일단 유행하기 시작할것가트면 음식물에 주의해서 생선이나 날것은 먹지말며 호열자가 발생한근처에든 통행을 엄금하고  겨우에 라서 예방주사를 맛는 것이 완전할 것은 물론 일단 이러한 병자가 생기면 속히의사에게 치료를 바더서 병을 곳치고  일방 다른곳에 전염되지못하게 하는 것이 무엇보다 상책이다.＜17＞
+＜17＞

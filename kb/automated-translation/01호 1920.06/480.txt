@@ -1,0 +1,828 @@
+Magazine Title: 개벽 제1호
+Publication Date: 1920년 06월 25일
+Article Title: 脚本 隔夜 五幕(無端興行을 禁함) (Script: On the Eve, Five Acts (Unauthorized Performance Prohibited))
+Author: 玄哲 (譯補) (Hyŏn Ch'ŏl (Translated and Supplemented))
+Article Type: 희곡·시나리오 (Play/Scenario)
+
+Script: On the Eve, Five Acts
+						Hyŏn Ch'ŏl (Translated and Supplemented)
+
+The script *Kyŏgya* (隔夜 - On the Eve) is an adaptation of one of the six major novels, a representative work, by Ivan Turgenev (1818-1883), one of Russia's three great novelists. It was adapted in the 4th year of Taishō (1915) as a performance script for the Geijutsu-za (藝術座) by Mr. Kusuyama Masao (楠山正雄), then a teacher at the Drama School (演劇學校). The original novel adapted for this script was published in 1859; the English translation is *On the Eve*. In Japan (日本), there was also a Japanese translation of the novel by Mr. Sōma Gyofū (相馬御風), also a teacher at the Drama School, titled *Sono Zen'ya* (其の前夜). Mr. Kusuyama also titled this script *Script: Sono Zen'ya* (脚本 其の前夜), and taking its meaning, I have given it the title *Script: Kyŏgya* (脚本 隔夜). I hope the readers will understand this intention.
+
+I will not record the inner meaning of the work in detail here, only that readers should be able to understand it if they read it carefully and savor it.
+
+Mr. Kusuyama wrote the following preface to the original script: "The difficulty of dramatizing a novel increases the richer the original work's artistic value and the deeper its flavor. Moreover, attempting to stage this particular work by Turgenev, enveloped in a uniquely pastoral and tender sentiment, might be a grand 'recklessness' never before attempted in any theater in the world..." Now, as I translate such a script in our Chosŏn (朝鮮), where there is not even the slightest understanding of what art or theater is, I realize something is silently stirring within my heart.
+
+Among the many representative plays of the world, the reason I specifically chose this script to undertake is that there are various points that resonate with us, and also because the current state of Russia (露西亞), geographically closest among many Western countries, does not leave my mind. I feel as though all the characters appearing in this script explain the Russia of today. The fact that the heroine Elena<151> is a pioneer, a type of active new revolutionary of 1850s Russia, her father's stubborn ideology, the young sculptor, philosopher, patriot—all these personalities seem to me to possess a value worth reading ten, even a hundred times. Moreover, even Tolstoy (톨스토이), who generally did not hold such favor towards Turgenev's art, did not spare words of praise for a character like the sculptor Shubin.
+
+The reason I have undertaken the translation of this script this time is indeed due to a request from a certain alumni association (校友會) with plans to stage it later, hence the prohibition of unauthorized performances. The original adapter of this script, Mr. Kusuyama, was not only a teacher from whom I personally received instruction while enrolled at the Geijutsu-za's affiliated Drama School, but at that time, the principal Shimamura Hōgetsu (島村抱月), Nakamura Kichizō (中村吉藏), Sōma Gyofū (相馬御風), Kusuyama Masao (楠山正雄), and Akita Ujaku (秋田雨雀), among other teachers, had especially given permission to me, a foreigner, to translate their works. Furthermore, Mr. Nakayama Shimpei (中山晋平), the music teacher at the time, composer of the song *Katyusha ga waiya* from *Resurrection* (復活 가튜샤가 와이야) and also the composer of several songs within this script, had given similar consent at that time. Obtaining such consent back then was in preparation for offering some help to our theater world upon returning home, but several years have passed with not a single translation completed, nor half a plan realized, greatly betraying the goodwill of these teachers. As I take up my pen to begin translating the script, I cannot suppress all feelings of shame. Since this script was performed at the Tokyo Imperial Theater (東京帝國劇場) when I was studying as a research student at the Geijutsu-za after graduating from the Drama School, I had many internal connections to it, and not only did I offer some assistance on stage, but I also personally heard a lecture on the original author by Mr. Nobori Shomu (昇曙夢), an expert in Russian literature. Therefore, I have some confidence in translating this script today. I especially thank the editorial staff of the *Kaebyŏk* Magazine (開闢 雜誌) for their kindness in allowing the publication of this translated script, and I intend to publish it sequentially with each subsequent issue.
+
+Characters
+Nikolai Artemyevich Stakhov (Retired Army Lieutenant. 47 years old)
+Anna Vasilyevna Stakhova<152> (Lieutenant's wife. 40 years old)
+Elena Nikolaevna Stakhova (Lieutenant's daughter. 20 years old)
+Uvar Ivanovich Stakhov (Nikolai's cousin. Retired Non-commissioned Officer. 60 years old)
+Pavel Yakovlevich Shubin (Anna's nephew, Sculptor. 26 years old)
+Andrei Petrovich Bersenev (Shubin's friend. University student. 24 years old)
+Dmitri Nikanorovich Insarov (Bersenev's friend. University student. Bulgarian. 26 years old)
+Yegor Andreyevich Kurnatovsky (First Secretary of the Senate)
+Rendich (Head of Dalmatian boatmen)
+Zoya Nikitishna Müller (Stakhov family's companion. German mixed-blood girl. 16 years old)
+Katya (Blind beggar girl. 13 years old)
+German workers
+Coachman Martin, Servants, etc.
+Innkeeper and his wife
+
+Place
+Moscow (모스크) and Venice (베네샤)
+
+Time
+From Summer 1853 to Spring 1854
+(Around the Crimean War)
+
+Scene
+Act 1: Lakeside at Tsaritsyno (쯔아리치나) outside Moscow
+(Afternoon in July, long sky, evening scenery)
+Act 2, Scene 1: Study in the Stakhov House outside Moscow
+Scene 2: Small Chapel by the Roadside on the Moscow Riverbank (모스크河岸)
+(Both 2 months after Act 1, September afternoon, thunderstorm)
+Act 3: Same as Act 2, Scene 1, Study in the Stakhov House
+(1 month after Act 2, October morning, rain)
+Act 4: Insarov's Lodgings outside Moscow
+(1 week after Act 3, November evening, snow)
+Act 5, Scene 1: Venice. Bank of the Grand Canal
+Scene 2: Same [location] Hotel Room<153>
+(Half a year after Act 4, late night in April of the following year to dawn the next day)
+
+Act One
+In the center, an ancient linden tree, large and lush, casting a dark shade. Beneath it, summer wildflowers bloom profusely, and there are 2 or 3 large and small discarded stones.
+The distant view shows a windless, blue-waved lake, forests of poplar and birch, and the ruined walls of an old castle.
+Evening scene in hot July, clear sky.
+Five or six German workers (獨逸 勞動者) dressed in factory work clothes pass by, all very drunk, singing loudly, some shouting, making noise.
+
+Song
+You folks are having a drink.
+We folks are having a drink too.
+Drink up, drink up, till it fills your throat
+Drink lots, till you drop dead drunk.
+
+When gambling, we play till the end
+Even without paying a single penny
+Let's do it, let's do it, keep doing it, all kinds of gambling
+Till our fists and bare bodies are stripped naked.
+(Insarov and Elena emerge from the thicket, talking. The workers pass in front of them, making various comical gestures, laughing, swearing, greeting, each chattering as they please, and exit.)
+Insarov: Quite noisy, aren't they?
+Elena: Those people? They're German workers. Lately, they've come to work in all sorts of factories.
+Insarov: What about your mother? She's quite late.
+Elena: She must be stopping at every point to admire the scenery. It’s her first outing in a long while, so she's making a big fuss. She'll probably be ill for ten days after this.
+Insarov: Bersenev seems to have fallen behind too.
+Elena: Oh dear, we were too absorbed in our conversation—
+Have you known Mr. Bersenev since long ago?
+Insarov: Yes, we were classmates at Moscow University. He was<154> in the Philosophy department, and I was in History.
+Elena: I heard he was quite talented.
+Insarov: That's right. He graduated third in his class, a brilliant student.
+Elena: Although what he says involves very difficult academic topics, somehow, when I listen to him talk, I feel an indescribable pleasantness, as if I'm walking the streets of some bright and beautiful foreign city.
+Insarov: He is a person with great, noble ideals. The new life for Russians will be pioneered by the hands of such people.
+Elena: I often heard a lot about you from Mr. Bersenev and sometimes wanted to meet you.
+Insarov: Bersenev is someone who always speaks highly of his friends.
+Elena: (As if reconnecting a conversation interrupted by the workers' noise) So, since that time, have you not known where those scoundrels went? (Sits down under the linden tree.)
+Insarov: (Standing) Yes? What was it? Those scoundrels, you mean?
+Elena: The Turkish officer you mentioned earlier—the one you called your mother's enemy—
+Insarov: (Interrupting) You mean that scoundrel? I don't know. I never tried looking for him again.
+Elena: So... asking this might be rude... but I heard from Mr. Bersenev that your family was ruined because of that officer—
+Insarov: That's correct. That scoundrel dishonored my mother. He killed my father. That Turkish pig—
+Elena: Oh—(Pause) Ah, please sit down. Sit down.
+Insarov: Yes, I will. (Sits down beside her.)
+Elena: (Still drawn by curiosity) How old were you then?
+Insarov: It was before I turned 18. I was eight years old. From then on—later, I followed my aunt to Russia. Russia is a homeland that is not my homeland.<155>
+Elena: Have you never been back to your home country since then?
+Insarov: No. I went to Bulgaria (불가리아) once when I was twenty.
+Elena: Did you return to Russia right after visiting?
+Insarov: Yes. I suddenly longed to see my homeland, so I went. I wandered around Bulgaria for two years, but... wherever I went, there were only things that offended the eye. A home country ruled by foreigners is truly harder to live in than a foreign land.
+Elena: During those two years, how did you not manage to find that enemy?
+Insarov: Miss Elena. Taking revenge is not a difficult task. But what occupies my mind right now is an issue much larger than a small family vendetta—the people's enemy... no, perhaps saying it like this might be misleading... That is, the question of whether the entire Bulgarian nation can gain freedom or not is immensely important. It's a big matter before which the small matter pales. If only that great goal is achieved, my small matter will resolve itself... Yes. It will resolve itself.
+Elena: (Softly, emotionally) Truly... you are a patriot who sincerely loves your country.
+Insarov: No. One cannot know that without facing it later. Only after laying down one's life for that country can one perhaps say that person loved their country.
+Elena: Then, if you were in a situation where you could not return to your homeland, would you consider living your whole life in Russia without concern?
+Insarov: Well... probably not... I hear distant shouting. (The sound of many people singing and shouting is heard from afar.)
+Elena: It must be those people again... (Pause) Your language... Bulgarian, is it very difficult? Somehow, I want to visit Bulgaria too.
+Insarov: What's difficult about it? There's nothing difficult at all. It's shameful for a fellow Slav, a Russian, not to know Bulgarian. You should learn it.<156> It's very easy. I'll lend you a couple of Bulgarian language books. Bulgarian songs are by no means inferior to Serbian (세루비아) ones. I'll translate one for you sometime. The sentiment of the song... Not just that, do you know the general outline of Bulgarian history?
+Elena: No, not at all.
+Insarov: Then a book that gives a general overview of the history... Anyway, here... listen to the song for a bit... Perhaps a book would be better. Read it sometime. You will surely come to think well of our people. After all, you are someone who loves those who cannot endure oppression... (Becoming suddenly agitated) Do you know? Do you know what kind of blessings the country called Bulgaria originally received? Such a country is now trampled under the hooves of foreigners, a sight cruel even to behold... Yes. Our people have been robbed of their land, religion, laws, everything passed down through generations from our ancestors. On top of that, those utterly ignorant Turkish scoundrels drag our compatriots around like cattle, kill them if they wish, fathers, sons, brothers... all scattered to the four winds...
+Elena: Look at me...
+Insarov: Forgive me. Whenever I talk about my homeland, I just speak mindlessly. You just told me that I truly love my country. To me, after God, there is nothing as certain and trustworthy as this...
+Elena: Ah, for you, there is such a trustworthy God, and a country, but for me...
+Insarov: Yes? Why is that...
+(The voices of Shubin and Bersenev are heard from the thicket.)
+Elena: Never mind... They're all coming. Let's go that way.
+Insarov: It sounds like Bersenev is coming. They must be looking for us.
+Elena: It doesn't matter. Even though Mr. Bersenev is nice, Mr. Shubin<157> will tease us if he comes. Let's go. Yes, let's take a walk over there. I still have many things to ask you...
+Insarov: (Stands up and offers his arm.)
+Elena: (Smiling brightly, takes the man's hand and stands up) Are you really not going to stay long in this country?
+(As the two, shoulder to shoulder, are about to head left, Shubin sees them and shouts.)
+Shubin: Hey! Elena! Where are you going...? I've been looking all over, wondering where you were buried.
+Elena: (Shrugging) Going where?
+(The four meet.)
+Insarov: (Explanatorily) Bersenev, what kept you? We were just talking about what you two might be doing... I was just telling Miss Elena a little about Bulgaria.
+Elena: (Goes to Bersenev, puts her hand on his shoulder, in a friendly tone) Mr. Bersenev, are you feeling unwell somewhere? You look very pale.
+Bersenev: (Forcing a smile) Perhaps the earlier seasickness hasn't worn off yet.
+Elena: So what will you do?... Mr. Bersenev, I heard various stories about Bulgaria from Mr. Insarov earlier.
+Bersenev: Insarov's stories are interesting, aren't they?
+Elena: Yes, they are all gripping stories.
+Shubin: Gentlemen! I don't know how pressing the Bulgarian issue is at this moment, but why must we stand here talking as if tied by a rope? Let's rest a little.
+Bersenev: Ah. (Saying this, he sits down with Elena under the linden tree in the center. Insarov also joins them, all three sitting with Elena in the middle.) What happened to those coming behind? (End of Act 1, incomplete)
+
+We had planned to publish one act of this script in each issue of our *Kaebyŏk* Magazine, but this time, due to the rush to print, we regrettably could not finish the end of Act 1, for which we feel truly sorry to our readers. However, in the second issue, we will continue the incomplete part of Act 1 and also complete the translation of Act 2, so we ask for your understanding... Translator.<158>
+<151-158>
+
+**Summary**
+
+This article presents the first installment of a Korean translation of a Japanese stage adaptation of Ivan Turgenev's novel *On the Eve*. The translator, Hyŏn Ch'ŏl, introduces the work, explaining its origins and his personal connection to the Japanese theater figures involved in the original adaptation. He highlights the perceived relevance of the play's themes—nationalism, foreign oppression (specifically Bulgarian suffering under Turkish rule), and revolutionary spirit (embodied by Elena)—to contemporary Russia and, implicitly, to colonial Korea. The article includes the character list, setting details, and the beginning of Act 1, featuring a conversation between Elena and the Bulgarian nationalist Insarov, interrupted by other characters. The translator apologizes for not being able to include the entire first act due to printing deadlines.
+
+For historians studying colonial Korea, this article is interesting because it shows a Korean intellectual engaging with foreign literature (Russian via Japanese adaptation) and explicitly drawing parallels between the struggles depicted (Bulgarian nationalism against Ottoman rule) and the perceived situation in Korea under Japanese rule, albeit subtly. Hyŏn Ch'ŏl's mention of needing permission from Japanese figures to translate and stage the play, his connections to the Tokyo-based Geijutsu-za, and his framing of the play's themes highlight the complex cultural interactions and the veiled expressions of nationalism possible within the colonial context of 1920. The choice of Turgenev's *On the Eve*, with its focus on a Bulgarian patriot seeking liberation, was likely deliberate and resonated with Korean aspirations for independence.
+
+**Named Entities**
+
+玄哲	현철	Hyŏn Ch'ŏl
+이완·툴게넵	이완·툴게네프	Ivan Turgenev
+楠山正雄	남산 정웅	Kusuyama Masao
+藝術座	예술좌	Geijutsu-za
+演劇學校	연극학교	Drama School
+日本	일본	Japan
+相馬御風	상마 어풍	Sōma Gyofū
+朝鮮	조선	Chosŏn
+露西亞	노서아	Russia
+톨스토이	톨스토이	Tolstoy
+校友會	교우회	Alumni Association
+島村抱月	도촌 포월	Shimamura Hōgetsu
+中村吉藏	중촌 길장	Nakamura Kichizō
+秋田雨雀	추전 우작	Akita Ujaku
+中山晋平	중산 진평	Nakayama Shimpei
+東京帝國劇場	동경 제국극장	Tokyo Imperial Theater
+昇曙夢	승서몽	Nobori Shomu
+開闢 雜誌	개벽 잡지	Kaebyŏk Magazine
+니콜라이 알뎀위치 스답홉웁	니콜라이 아르테미예비치 스타호프	Nikolai Artemyevich Stakhov
+안나 와시리이에우나 스담홉웁	안나 바실리예브나 스타호바	Anna Vasilyevna Stakhova
+에레나 니콜라이에우나 스담홉웁	엘레나 니콜라예브나 스타호바	Elena Nikolaevna Stakhova
+우왈 이외노위치 노인	우바르 이바노비치 스타호프	Uvar Ivanovich Stakhov
+빠위엘 야꼬우렛치 슈빈	파벨 야코블레비치 슈빈	Pavel Yakovlevich Shubin
+안드레이 베트로위치 벨세넵	안드레이 페트로비치 베르세네프	Andrei Petrovich Bersenev
+디미트리 니가노위치 인사롭	디미트리 니카노로비치 인사로프	Dmitri Nikanorovich Insarov
+에고오울 안드레위치 쿨라르위스키이	예고르 안드레예비치 쿠르나톱스키	Yegor Andreyevich Kurnatovsky
+렌치치	렌치치	Rendich
+소오야 니키디이슈나 미유루렐	조야 니키티슈나 뮐러	Zoya Nikitishna Müller
+가아챠	카차	Katya
+모스크	모스크바	Moscow
+베네샤	베네치아	Venice
+불가리아	불가리아	Bulgaria
+쯔아리치나	차리치노	Tsaritsyno
+모스크河岸	모스크바 강변	Moscow Riverbank
+土耳其	토이기	Turkey
+달마디아	달마티아	Dalmatia
+세루비아	세르비아	Serbia
+
+**Glossary**
+
+脚本	각본	Script; screenplay
+隔夜	격야	On the Eve (Title derived from Japanese adaptation title 其の前夜)
+譯補	역보	Translated and supplemented
+興行	흥행	Performance; show; entertainment business
+露西亞	노서아	Russia (Older transliteration)
+小說家	소설가	Novelist
+代表作	대표작	Representative work
+藝術座	예술좌	Geijutsu-za (Name of a Japanese theatre troupe)
+演劇學校	연극학교	Drama School
+脚色	각색	Adaptation (for stage or screen)
+原作	원작	Original work
+英譯	영역	English translation
+其の前夜	그 전야	On the Eve (Japanese title used for the novel and adaptation)
+意味	의미	Meaning; significance
+諒解	양해	Understanding; comprehension
+篇中	편중	Within the work/piece
+內意	내의	Inner meaning; intention
+詳細히	상세히	In detail
+記錄지 안이한다	기록지 아니한다	Does not record (Older negative verb ending)
+精讀	정독	Careful reading
+喫味	끽미	Savor; appreciate the taste/flavor
+可解할 것임으로	가해할 것임으로	Because it can be understood
+序文	서문	Preface; foreword
+劇化	극화	Dramatization
+困難	곤란	Difficulty
+藝術的 價値	예술적 가치	Artistic value
+豊富할사록	풍부할사록	The richer it is (Older form of -ㄹ수록 ending)
+濃厚한 感味	농후한 감미	Deep/rich flavor/feeling
+만코	많고	Many/much (and) (Older spelling of 많고)
+만흘사록	많을사록	The more there is (Older spelling/form of 많을수록)
+甚하다	심하다	Is severe; extreme
+特	특히	Especially; particularly
+牧歌的	목가적	Pastoral
+柔軟한 情趣	유연한 정취	Tender/soft sentiment/atmosphere
+싸인	싸인	Enveloped; wrapped in
+舞臺	무대	Stage
+試驗치 못한	시험치 못한	Untested; unattempted
+無謀	무모	Recklessness; rashness
+안인지 모르겟다	아닌지 모르겠다	Don't know if it isn't (i.e., perhaps it is)
+一毫半點	일호반점	Even the slightest bit
+理解	이해	Understanding
+업는	없는	Non-existent; lacking (Older spelling of 없는)
+우리 朝鮮	우리 조선	Our Chosŏn (Korea)
+譯出할 적에	역출할 적에	When translating
+가슴 가운대서	가슴 가운데서	In the middle of the heart/chest
+지꺼리는	지껄이는	Chattering; babbling (Also used for internal 'voice')
+깨다랏다	깨달았다	Realized (Older spelling of 깨달았다)
+戱曲	희곡	Play; drama
+選擇하야	선택하여	Having chosen
+着手한	착수한	Begun; started; undertaken
+共鳴되는 점	공명되는 점	Points that resonate
+地理的 關係	지리적 관계	Geographical relationship
+갓가운	가까운	Close; near (Older spelling of 가까운)
+狀態	상태	State; condition
+마음에 떠나지 안이하는 까닭이다	마음에 떠나지 아니하는 까닭이다	Is the reason it does not leave the mind
+人物	인물	Character; person
+說明하는 것 가튼 마음	설명하는 것 같은 마음	Feeling as if it explains
+키인다	커진다	Grows larger; increases (Older form)
+女主人公	여주인공	Heroine
+活動的 新革命	활동적 신혁명	Active new revolution
+先驅者임과	선구자임과	Being a pioneer and...
+父親	부친	Father (formal)
+頑固한 思想	완고한 사상	Stubborn ideology
+靑年	청년	Youth; young man
+彫刻家	조각가	Sculptor
+哲學家	철학가	Philosopher
+愛國者	애국자	Patriot
+性格	성격	Personality; character
+우리로 하야곰	우리로 하여금	Causing us to; making us
+十看百讀	십간백독	Read ten times, read a hundred times (i.e., read repeatedly)
+價値가 잇슬 줄	가치가 있을 줄	Think it will have value (잇슬 is older spelling of 있을)
+生覺한다	생각한다	Think
+平生에	평생에	In (one's) lifetime
+好意	호의	Goodwill; favor
+가지지 안이한	가지지 아니한	Did not possess/hold
+讚揚의 言辭	찬양의 언사	Words of praise
+아끼지 안이 하엿다	아끼지 아니하였다	Did not spare
+今番에	금번에	This time
+飜譯에 着手한 것은	번역에 착수한 것은	The reason for starting the translation is
+實로	실로	Truly; indeed
+엇더한 校友會	어떠한 교우회	A certain alumni association
+囑托을 바다	촉탁을 받아	Having received a request/commission
+後日	후일	Later day; in the future
+舞臺에 올리랴하는	무대에 올리려 하는	Planning to stage
+經營이 잇슴으로	경영이 있음으로	Because there is a plan/management (잇슴 is older spelling of 있음)
+無端興行을 禁한 것이라	무단흥행을 금한 것이라	It is that unauthorized performance is prohibited
+原 脚色者	원 각색자	Original adapter
+附屬	부속	Affiliated
+在學 當時에	재학 당시에	At the time when (I) was enrolled
+親히	친히	Personally
+授業한 先生	수업한 선생	Teacher from whom (I) received instruction
+뿐 안이라	뿐 아니라	Not only
+其 當時에	그 당시에	At that time
+校長	교장	Principal
+異國人인 余	이국인인 여	I, a foreigner (余 is archaic first-person pronoun)
+著作에 飜譯할 수 잇다는 許諾	저작에 번역할 수 있다는 허락	Permission to translate the works (잇다는 is older spelling of 있다는)
+然故이라	연고이라	Therefore; for that reason
+音樂敎師	음악교사	Music teacher
+作曲者	작곡자	Composer
+兼	겸	Concurrently; also
+唱歌	창가	Song (often used for school or popular songs)
+同樣의 承諾	동양의 승낙	Similar consent/approval
+當時에 잇섯다	당시에 있었다	Existed at that time (잇섯다 is older spelling of 있었다)
+어던 것은	얻은 것은	Having obtained (it) was (어던 is older spelling of 얻은)
+歸國始初에	귀국시초에	At the beginning, upon returning home
+劇界를 爲하여	극계를 위하여	For the sake of the theater world
+무슨 도음이 잇슬가하여	무슨 도움이 있을까 하여	Thinking there might be some help (잇슬가 is older spelling of 있을까)
+準備한 것이	준비한 것이	What was prepared
+遷延幾個星霜에	천연기개성상에	After the delay of several years (星霜 means years)
+一個 飜譯이 업고	일개 번역이 없고	Not even one translation (업고 is older spelling of 없고)
+半個의 成算이 업스니	반개의 성산이 없고	Not even half a prospect/calculation (업스니 is older spelling of 없으니)
+好意를 저바림이	호의를 저버림이	Betraying the goodwill
+만은지라	많은지라	Being much/many (Older form)
+붓을 들어	붓을 들어	Taking up the pen
+劈頭에	벽두에	At the very beginning
+스스로	스스로	Oneself; personally
+慚愧한 情緖	참괴한 정서	Feelings of shame/remorse
+禁치 못한다	금치 못한다	Cannot suppress/prohibit
+上演한 것임으로	상연한 것임으로	Because it was performed
+內部的 關係	내부적 관계	Internal connection/relationship
+만핫고	많았고	Was much/many (and) (Older spelling of 많았고)
+多少의	다소의	Some; a certain amount of
+助力도 한일이 이섯슬 뿐 안이라	조력도 한 일이 있었을 뿐 아니라	Not only was there work done assisting (이섯슬 is older spelling of 있었을)
+文學通	문학통	Expert/aficionado of literature
+講演	강연	Lecture
+親히 들엇는 故로	친히 들었는 고로	Because (I) personally heard (들엇는 is older spelling of 들었는)
+當하야	당하여	Facing; upon
+多少의 自信이 잇다	다소의 자신이 있다	Have some confidence (잇다 is older spelling of 있다)
+譯載를 特히 許諾하여 주는	역재를 특히 허락하여 주는	Specially permitting the publication of the translation
+編輯 同人	편집 동인	Editorial staff/colleagues
+諸氏	제씨	Messrs.; Gentlemen (plural honorific)
+謝禮하고	사례하고	Expressing thanks
+自此로	자차로	From this point on; henceforth
+號를 隨하야	호를 수하여	Following the issue number
+順次 揭載코자 하노라	순차 게재코자 하노라	Intend to publish sequentially (Older volitional ending)
+退職	퇴직	Retired
+陸軍 中尉	육군 중위	Army Lieutenant
+女息	여식	Daughter (formal/slightly archaic)
+從兄	종형	Older male cousin (father's side)
+下士官	하사관	Non-commissioned officer
+甥侄	생질	Nephew (sister's son)
+大學生	대학생	University student
+불가리아人	불가리아인	Bulgarian person
+元老院	원로원	Senate
+書記官	서기관	Secretary; clerk
+船人 頭	선인 두	Head boatman (船人 means boat person, 頭 means head)
+待女	대녀	Female companion; lady-in-waiting (here likely refers to Zoya)
+獨逸人	독일인	German person
+混血少女	혼혈소녀	Mixed-blood girl
+乞食少女	걸식소녀	Beggar girl
+勞動者	노동자	Worker; laborer
+馬車夫	마차부	Coachman
+下人	하인	Servant (male)
+旅館主人	여관주인	Innkeeper
+場所	장소	Place; location
+夏節	하절	Summer season
+春節	춘절	Spring season
+前後	전후	Around; before and after
+光景	광경	Scene; sight
+郊外	교외	Suburbs; outskirts
+湖畔	호반	Lakeside
+午後	오후	Afternoon
+景致	경치	Scenery; view
+書齋	서재	Study (room)
+河岸	하안	Riverbank
+路傍	노방	Roadside
+小禮拜堂	소예배당	Small chapel
+共히	공히	Both; together
+雷雨 時	뇌우 시	During a thunderstorm
+午前	오전	Morning
+雨	우	Rain
+主人집	주인집	Master's house; lodgings
+夕景	석경	Evening view/scene
+雪	설	Snow
+大運河	대운하	Grand Canal
+河岸	하안	Bank; shore
+曉晨	효신	Dawn; daybreak
+中央에	중앙에	In the center
+컴컴한 그늘	컴컴한 그늘	Dark shade
+茂盛한	무성한	Lush; thick; overgrown
+菩提樹	보리수	Linden tree (Bodhi tree is different, but often conflated/mistranslated)
+古木	고목	Old tree
+밋에는	밑에는	Underneath (Older spelling of 밑에는)
+雜花	잡화	Various flowers; wildflowers
+亂發하엿스며	난발하였으며	Blooming profusely/wildly (and) (하엿스며 is older spelling of 하였으며)
+捨石	사석	Discarded stone; riprap (here likely just decorative or natural large stones)
+遠景	원경	Distant view
+無風碧波	무풍벽파	Windless blue waves
+白楊白樺	백양백화	Poplar and birch
+森林	삼림	Forest
+古城 殘壁	고성 잔벽	Old castle ruins/walls
+暑節	서절	Hot season; summer
+晴天	청천	Clear sky; fine weather
+工場 職工	공장 직공	Factory worker
+職務服	직무복	Work clothes
+大醉하여	대취하여	Being very drunk
+大聲으로	대성으로	In a loud voice
+떠들기도 하면서	떠들기도 하면서	While making noise/clamor
+지내간다	지나간다	Pass by
+술잔	술잔	Liquor cup
+먹는 터이요	먹는 터이요	Are in the midst of drinking (터이다 is an older construction)
+목에 넘도록	목에 넘도록	Until it overflows the throat
+醉해서	취해서	Being drunk
+끗이 나도록	끝이 나도록	Until the end
+돈 한 푼	돈 한 푼	Even one penny/cent
+치른 일업서	치른 일 없어	Haven't paid (일업서 is older spelling of 일 없어)
+하자	하자	Let's do it
+자꾸	자꾸	Repeatedly; constantly
+왼갓 노름	온갖 노름	All kinds of gambling
+주먹	주먹	Fist
+빈 몸동이	빈 몸뚱이	Bare body
+빨가 벗도록	빨가벗도록	Until stripped naked
+叢林 間에서	총림 간에서	From amidst the thicket
+이약이 하면서	이야기하면서	While talking (이약이 is older spelling of 이야기)
+나온다	나온다	Come out; emerge
+兩人의 압흐로	두 사람의 앞으로	In front of the two people (압흐로 is older spelling of 앞으로)
+지나가면서	지나가면서	While passing by
+滑稽的 動作	골계적 동작	Comical/funny movements/gestures
+辱도 하고	욕도 하고	Swearing too
+人事도 하며	인사도 하며	Greeting too
+各各	각각	Each; respectively
+마음대로	마음대로	As one pleases
+지꺼리며	지껄이며	Chattering; babbling
+엇진 일인가요	어쩐 일인가요	What's the matter? Why is it? (Older form)
+퍽도 늣슴니다 그려	퍽도 늦습니다 그려	Are very late, indeed (늣슴니다 is older spelling of 늦습니다; 그려 adds mild emphasis/intimacy)
+一一이	일일이	One by one; at every single point
+求景하는 게지요	구경하는 게지요	Must be sightseeing/admiring the view (게지요 is informal supposition ending)
+못처럼만에	모처럼만에	For the first time in a while
+놀려 나오신 것	놀러 나오신 것	Coming out for leisure/fun (honorific 나오신)
+야단이야요	야단이어요	Making a fuss/scene (이야요 is older polite ending)
+저러면 인제	저러면 이제	If (she) does that, now...
+열흘식은 알치요	열흘씩은 앓지요	Will be sick for about ten days (알치요 older spelling/form of 앓지요)
+떠러졋습니다 그려	떨어졌습니다 그려	Has fallen behind, indeed (떠러졋습니다 is older spelling of 떨어졌습니다)
+에에	예	Yes (Polite, older form)
+넘어	너무	Too; excessively
+팔려서	팔려서	Being engrossed in; absorbed in (Lit. sold)
+本來부터	본래부터	Originally; from the beginning
+親하심닛가	친하십니까	Are you close/familiar? (Older polite interrogative ending)
+同窓이 올시다	동창이올시다	Are classmates (올시다 is older polite copula)
+哲學科	철학과	Philosophy Department
+歷史科	역사과	History Department
+才操가 잇섯다지요	재조가 있었다지요	I hear (he) was talented (잇섯다지요 older spelling/form)
+그럿슴니다	그렇습니다	That's right; yes (Older spelling)
+學校에서	학교에서	At school
+셋재로	셋째로	As the third
+卒業한	졸업한	Graduated
+秀才올시다	수재올시다	Is a brilliant student (Older polite copula)
+어려운 學問上 이약이지만은	어려운 학문상 이야기지만은	Although it's difficult academic talk (이약이 older spelling)
+엇재 그런지	어째 그런지	Somehow; for some reason
+무어시라고 말할 수 업는	무엇이라고 말할 수 없는	Indescribable (업는 older spelling)
+조흔 마음	좋은 마음	Pleasant/good feeling (조흔 older spelling)
+가운대	가운데	In the middle of; amidst
+醉해서	취해서	Being drunk/intoxicated (Figurative here)
+엇던	어떤	Some; certain
+밝고 아름다운	밝고 아름다운	Bright and beautiful
+外國都會地	외국도회지	Foreign city/metropolis
+단기는 것 가튼 마음	다니는 것 같은 마음	Feeling as if walking/going around (단기는 older spelling of 다니는; 가튼 older spelling of 같은)
+훌륭한 理想	훌륭한 이상	Splendid/noble ideal
+開拓이 될 것이올시다	개척이 될 것이올시다	Will be pioneered (Older polite future ending)
+퍽 만히 듯고	퍽 많이 듣고	Having heard very much (듯이 older spelling of 듣고)
+보고 십흔 때가 더러 잇섯서요	보고 싶은 때가 더러 있었어요	There were times I wanted to see (you) (십흔, 잇섯서요 older spellings)
+一生 親舊를 추어주는 사람	일생 친구를 추어주는 사람	Person who always speaks highly of friends
+떠드는 통에	떠드는 통에	Due to the noise/shouting
+中間이 떠러진 말	중간이 떨어진 말	Words that were interrupted
+다시 잇는 것 가티	다시 잇는 것 같이	As if reconnecting (잇는 older spelling; 가티 older spelling of 같이)
+그 놈들	그 놈들	Those scoundrels/bastards (놈 is derogatory)
+모름닛가	모릅니까	Don't you know? (Older polite interrogative)
+안지면서	앉으면서	While sitting down (Older spelling)
+선 채로	선 채로	While standing
+엇던가요	어떤가요	What was it?
+아까	아까	A little while ago
+말슴하시던	말씀하시던	Whom you were speaking of (honorific)
+土耳其 士官	토이기 사관	Turkish officer
+원수	원수	Enemy; foe
+내부듸치는 말	내부딪치는 말	Interrupting words; words that clash/strike
+모르겟서요	모르겠어요	I don't know (Older spelling)
+차자 본 일도 업섯슴니다	찾아 본 일도 없었습니다	Never tried looking for (업섯슴니다 older spelling)
+넘어 뭇는 것이	너무 묻는 것이	Asking too much
+失禮갓슴니다만은	실례 같습니다만은	It seems rude, but... (갓슴니다 older spelling)
+결단이 낫다지요	결단이 났다지요	I hear (it) was ruined/destroyed
+그랫슴니다	그랬습니다	That's right; It was so (Older spelling)
+辱보이엇슴니다	욕보이었습니다	Dishonored; violated (Older spelling/form)
+죽엿습니다	죽였습니다	Killed (Older spelling)
+도야지 가튼 놈	돼지 같은 놈	Pig-like scoundrel (도야지 older form of 돼지; 가튼 older spelling)
+저를	저를	Oh dear; expression of dismay
+안 안즈셔요 안즈십시요	안 앉으세요, 앉으십시오	Please sit down, please sit down (안즈셔요, 안즈십시요 older spellings/forms)
+안겟슴니다	앉겠습니다	I will sit (Older spelling)
+겨테	곁에	Beside; next to
+걸터안다	걸터앉다	Sit perched; sit on the edge
+好奇心에 끌려	호기심에 끌려	Drawn by curiosity
+몃 살적이던가요	몇 살 적이던가요	Around what age were you? (몃 older spelling)
+伯母님을 딸아	백모님을 따라	Following (my) aunt (father's older brother's wife) (딸아 older spelling of 따라)
+왓슴니다	왔습니다	Came (Older spelling)
+故鄕	고향	Hometown; native place
+안인	아닌	Not being
+그 後에	그 후에	After that
+도모지	도무지	Altogether; entirely (usually with negative)
+가신 일이 업슴닛가	가신 일이 없습니까	Have you not gone? (업슴닛가 older spelling/polite interrogative)
+안이요	아니요	No (Older polite form)
+스무살되던 해에	스무 살 되던 해에	In the year (I) turned twenty
+한 번	한 번	Once
+곳	곧	Immediately; right away
+돌아오셧슴닛가	돌아오셨습니까	Did you return? (honorific, older spelling)
+별안간에	별안간에	Suddenly
+보고 십허서	보고 싶어서	Wanting to see (십허서 older spelling)
+가 보앗슴니다	가 보았습니다	Went to see (Older spelling)
+國中에 돌아단여 보앗스나	국중에 돌아다녀 보았으나	Wandered around the country, but... (단여, 보앗스나 older spellings)
+어대로 가던지	어디로 가던지	Wherever (I) went
+눈에 거슬리는 일뿐이엿슴니다	눈에 거슬리는 일뿐이었습니다	There were only things that offended the eye (이엿슴니다 older spelling)
+支配되어 잇는	지배되어 있는	Being ruled/controlled (잇는 older spelling)
+본국이라고 하는 것은	본국이라고 하는 것은	One's home country (so-called)
+살 수가 업슴니다	살 수가 없습니다	Cannot live (업슴니다 older spelling)
+엇지해서	어찌해서	How; why
+원수를 갑는다는 것은	원수를 갚는다는 것은	Taking revenge
+어려운 일이 안이올시다	어려운 일이 아니올시다	Is not a difficult task (Older polite negative copula)
+時方	시방	Right now; at this moment (Archaic/dialectal)
+머리 가운대는	머리 가운데는	In (my) head/mind
+조고마한	조그마한	Small; tiny
+집안 원수보담도	집안 원수보다도	Than a family enemy
+國民의 원수	국민의 원수	Enemy of the people/nation
+語弊가 잇슬는지 모르겟슴니다	어폐가 있을는지 모르겠습니다	There might be misleading words (잇슬는지, 모르겟슴니다 older spellings)
+卽	즉	Namely; that is
+自由를 어들가 못 어들가 하는 問題	자유를 얻을까 못 얻을까 하는 문제	The question of whether (they) can gain freedom or not (어들가 older spelling)
+얼마나 큰 일인지 모름니다	얼마나 큰 일인지 모릅니다	Don't know how big a matter it is (모름니다 older spelling)
+큰 일압헤 적은 일이올시다	큰일 앞에 작은 일이올시다	It is a small matter before a big matter (Older polite copula)
+目的을 達하는 때에는	목적을 달하는 때에는	When the goal is achieved
+저절로 解決이 됨니다	저절로 해결이 됩니다	Is resolved by itself (됨니다 older spelling)
+보들아운 感情的으로	보드라운 감정적으로	Softly, emotionally (보들아운 older spelling)
+참 암	참 아암	Truly, ah yes...
+眞情으로	진정으로	Sincerely; truly
+愛國志士심니다	애국지사십니다	Are a patriot (심니다 older polite ending)
+안이요	아니요	No (Older polite form)
+뒤에 당해보지 안코는	뒤에 당해보지 않고는	Without facing it later
+알 수 업는 일임니다	알 수 없는 일입니다	It's something one cannot know (업는, 임니다 older spellings)
+목숨을 버린 뒤에라야	목숨을 버린 뒤에라야	Only after giving one's life
+비롯소	비로소	For the first time; only then
+사랑하엿다 할 수 잇겟지요	사랑하였다 할 수 있겠지요	Can perhaps say loved (하엿다, 잇겟지요 older spellings)
+萬若	만약	If; supposing
+돌아가시지 못할 경우에 이르럿다하면	돌아가시지 못할 경우에 이르렀다 하면	If it comes to a situation where you cannot return (이르럿다 older spelling)
+平生을	평생을	One's whole life
+사셔도	사셔도	Even if (you) live (honorific)
+관계치 안타고 生覺하심닛가	관계치 않다고 생각하십니까	Do you think it doesn't matter? (안타 is contraction of 아니하다; 하심닛가 older polite interrogative)
+글세요	글쎄요	Well...; Let me see...
+그러케 못될 걸이요	그렇게 못 될 걸이요	Probably won't be able to do that (걸이요 older ending)
+떠드는 소리가 멀리 들림니다 그려	떠드는 소리가 멀리 들립니다 그려	Shouting sounds are heard from afar, indeed (들림니다 older spelling)
+時方 그 者들인게지요	시방 그 자들인게지요	It must be those people from just now (者 means person/fellow, often neutral or slightly negative)
+당신 나라 말	당신 나라 말	Your country's language
+어렵지요	어렵지요	Is difficult, isn't it?
+엇젼지	어쩐지	Somehow; for some reason
+가보고 십허요	가보고 싶어요	Want to go and see (십허요 older spelling)
+무엇이 어려와요	무엇이 어려워요	What's difficult? (어려와요 older form of 어려워요)
+아모 것도	아무 것도	Anything at all
+어려울 것 업슴니다	어려울 것 없습니다	There is nothing difficult (업슴니다 older spelling)
+슬라부	슬라브	Slav
+모른다는 것은	모른다는 것은	Not knowing
+부끄러운 일이올시다	부끄러운 일이올시다	Is a shameful thing (Older polite copula)
+배우셔요	배우세요	Please learn (Older polite imperative form)
+두서너 券	두서너 권	Two or three volumes (books)
+빌려드리지요	빌려 드리지요	I'll lend (them) to you
+결코	결코	Never (with negative)
+세루비아 것보다 못하지 안슴니다	세르비아 것보다 못하지 않습니다	Is not inferior to Serbian ones (안슴니다 older spelling)
+飜譯 해드리지요	번역해 드리지요	I'll translate (it) for you
+趣意	취의	Sentiment; gist; meaning
+그것만 안이라	그것만 아니라	Not only that
+大綱 아심닛가	대강 아십니까	Do you know the general outline? (아심닛가 older polite interrogative)
+조금도	조금도	Not even a little
+大略이라도	대략이라도	Even just the outline/summary
+아실 만한 冊	아실 만한 책	Book worth knowing/reading
+그것은 그러코	그것은 그렇고	That being said; anyway
+자아	자	Well; now; here
+노래를 좀 들어보시요	노래를 좀 들어보시오	Please listen to the song a bit (Older polite imperative)
+冊이 조켓지요	책이 좋겠지요	A book would be good, right? (조켓지요 older spelling)
+언제던지	언제든지	Sometime; whenever
+읽어보시요	읽어보시오	Please try reading (it) (Older polite imperative)
+정녕코	정녕코	Surely; certainly
+우리나라 사람들	우리나라 사람들	Our country's people
+조케 生覺하시게 될 것임니다	좋게 생각하시게 될 것입니다	You will come to think well of (조케, 임니다 older spellings)
+엇잿던지	어쨌든지	Anyway; in any case
+壓制에 못견대는 사람들	압제에 못 견디는 사람들	People who cannot endure oppression (못견대는 older form of 못 견디는)
+사랑하는 당신이닛가	사랑하는 당신이니까	Because you are someone who loves... (이닛가 older form of 이니까)
+急히 興奮이 되어서	급히 흥분이 되어서	Becoming suddenly agitated/excited
+아심닛가	아십니까	Do you know? (Older polite interrogative)
+元來	원래	Originally
+엇더한 恩惠	어떠한 은혜	What kind of blessings/grace
+바다온 나라인 줄	받아온 나라인 줄	Know that it is a country that has received (바다온 older spelling of 받아온)
+그러한 나라이	그러한 나라가	Such a country (이 older subject marker)
+오늘날은	오늘날은	Nowadays
+보기에도 慘酷한	보기에도 참혹한	Cruel even to behold
+발굽미테	발굽 밑에	Under the hooves
+蹂躪이 되어서	유린이 되어서	Being trampled/violated
+우리들의 國民들은	우리들의 국민들은	Our people/nationals
+土地도	토지도	Land too
+宗敎도	종교도	Religion too
+法律도	법률도	Laws too
+祖先으로부터	조상으로부터	From (our) ancestors
+代代로	대대로	Generation after generation
+傳해 오던 모든 것을	전해 오던 모든 것을	Everything that had been passed down
+빼앗긴 우에	빼앗긴 위에	On top of being robbed/taken away
+그지독 無識한	그 지독 무식한	Those terribly ignorant
+同胞들을	동포들을	Compatriots; brethren
+牛馬와 가티	우마와 같이	Like cattle and horses (가티 older spelling)
+끄을고 단이며	끌고 다니며	Dragging around (끄을고, 단이며 older spellings)
+죽이고 십흐면 죽이고	죽이고 싶으면 죽이고	Killing if (they) want to kill (십흐면 older spelling)
+父子兄弟	부자형제	Father, son, brothers
+모도 散之四方으로	모두 산지사방으로	All scattered to the four directions
+날 보셔요	날 보세요	Look at me (Older polite imperative)
+용서하십시요	용서하십시오	Please forgive me (Older polite imperative)
+本國 이약이만 하면	본국 이야기만 하면	Whenever (I) talk about (my) home country (이약이 older spelling)
+그만 精神업시 떠듬니다	그만 정신없이 떠듭니다	Just talk mindlessly/excitedly (업시, 떠듬니다 older spellings)
+只今	지금	Now
+날더러	날더러	To me
+참으로	참으로	Truly
+하느님 다음에는	하느님 다음에는	After God
+確實하고	확실하고	Certain and...
+信賴할 만한 것	신뢰할 만한 것	Something trustworthy
+업슴니다	없습니다	There is not (Older spelling)
+아아	아아	Ah; Oh
+그러케	그렇게	Like that; so
+잇지요	있지요	There is, isn't there (Older spelling)
+그러치만은	그렇지만은	However; but (Older form)
+내에게는	나에게는	For me; to me
+엇재서요	어째서요	Why is that? (Older form)
+소리가 들린다	소리가 들린다	Sound is heard
+암말도	아무 말도	Not any word; nothing
+모도 옴니다	모두 옵니다	Everyone is coming (모도, 옴니다 older spellings)
+저 짝으로 갑시다	저 쪽으로 갑시다	Let's go that way (짝 older form of 쪽)
+오는 것 가튼대요	오는 것 같은데요	It seems (they) are coming (가튼대요 older spelling/form)
+찻는 게지요	찾는 게지요	Must be looking for (us) (게지요 informal supposition ending)
+관계치 안아요	관계치 않아요	It doesn't matter (안아요 older polite ending)
+조와도	좋아도	Even though (he) is nice/good (조와도 older spelling)
+놀려주지요	놀려주지요	Will tease (us)
+갑시다	갑시다	Let's go
+저쭉작으로	저쪽짝으로	Over that way (Older form)
+아즉도	아직도	Still; yet (Older spelling)
+무러 볼 말슴이	물어 볼 말씀이	Things to ask (무러 older spelling)
+만히 잇슴니다	많이 있습니다	There are many (만히, 잇슴니다 older spellings)
+일어나면서	일어나면서	While standing up
+팔을 내어민다	팔을 내민다	Extends (his) arm
+방긋이	방긋이	With a gentle smile
+손을 잡고	손을 잡고	Holding the hand
+이 나라에	이 나라에	In this country
+오래 게시지 안을 터임닛가	오래 계시지 않을 터입니까	You won't be staying long? (게시지 honorific; 안을 older spelling; 터임닛가 older polite interrogative)
+서로	서로	Each other
+어깨를 맞추고	어깨를 맞추고	Shoulder to shoulder
+左便으로 내려갈랴고 하는 양을	좌편으로 내려가려고 하는 양을	The appearance of being about to go down to the left (내려갈랴고 older volitional form; 양 means appearance/manner)
+소리를 질른다	소리를 지른다	Shouts (질른다 older spelling)
+이에	이예	Hey! (Interjection)
+어대로 가니	어디로 가니	Where are you going? (Informal)
+어대가 파무틴 줄 알고	어디가 파묻힌 줄 알고	Thinking where (you) were buried (파무틴 older spelling)
+차자단엿지	찾아다녔지	Was looking around for (차자단엿지 older spelling/form)
+어깨를 삐쭉하면서	어깨를 삐쭉하면서	Shrugging the shoulders
+가기는 어대로 가요	가기는 어디로 가요	Going where? (Emphatic)
+한 대	한데	Together; in one place
+辯明하는 意味	변명하는 의미	With an explanatory meaning
+무얼한다고	무얼 한다고	Doing what
+느졋나	늦었나	Were (you) late? (Informal)
+그러치 안해도	그렇지 않아도	Even without that; anyway
+그대들이	그대들이	You (plural, somewhat formal/poetic)
+무엇을 하나하고	무엇을 하나 하고	Wondering what (you) were doing
+잇섯네	있었네	Were (talking) (잇섯네 older spelling/informal retrospective ending)
+잠간	잠깐	For a moment
+어깨에 손을 언고	어깨에 손을 얹고	Placing a hand on the shoulder (언고 older spelling)
+정다운 語調로	정다운 어조로	In a friendly tone
+어대가 편챤으셔요	어디가 편찮으세요	Are you unwell somewhere? (편챤으셔요 older spelling/honorific form)
+얼골빗이	얼굴빛이	Complexion; facial color (얼골빗 older spelling)
+대단이 못함니다	대단히 못합니다	Is very bad/poor (대단이, 못함니다 older spellings)
+일부로	일부러	Intentionally; on purpose
+웃음을 지으면서	웃음을 지으면서	While smiling/laughing
+배멀미가	배멀미가	Seasickness
+아즉 풀리지 안핫겟지요	아직 풀리지 않았겠지요	Hasn't worn off yet, probably (아즉, 안핫겟지요 older spellings)
+엇더케 하시나요	어떻게 하시나요	What will you do? (엇더케 older spelling)
+여러 가지로	여러 가지로	In various ways
+아약이를 들엇셔요	이야기를 들었어요	Heard stories (아약이, 들엇셔요 older spellings)
+滋味잇지요	자미있지요	Is interesting/flavorful, isn't it? (Older form/spelling)
+깜찍깜찍한 이약이 뿐이야요	깜찍깜찍한 이야기뿐이어요	Only gripping/startling stories (이약이 older spelling; 뿐이야요 older polite ending)
+諸君	제군	Gentlemen; everyone
+이 자리에서	이 자리에서	In this place; here
+얼마나 切迫한	얼마나 절박한	How urgent/pressing
+문제인지는 모르겟스나	문제인지는 모르겠으나	Don't know if it's an issue, but... (모르겟스나 older spelling)
+새끼에 매인 듯이	새끼에 매인 듯이	As if tied by a rope
+서가지고	서 가지고	Standing (and)
+안이하면 안될 일이 무엇인가	아니하면 안 될 일이 무엇인가	What is it that must be done?
+쉬자	쉬자	Let's rest
+갓치	같이	Together (Older spelling)
+복판에 잇는	복판에 있는	Located in the center (잇는 older spelling)
+걸터 안고	걸터앉고	Sitting perched (and) (안고 older spelling)
+안는다	앉는다	Sits (Older spelling)
+뒤에 오는 이는	뒤에 오는 이는	Those coming behind
+엇더케 되엇나	어떻게 되었나	What happened to (them)? (엇더케, 되엇나 older spellings)
+未完	미완	Incomplete
+每號마다	매호마다	Every issue
+壹幕式을 記載할 豫定	일막씩을 기재할 예정	Plan to publish one act each
+압더니	앞서더니	Previously; before
+今番은	금번은	This time
+하도 印刷하기에 急急하여	하도 인쇄하기에 급급하여	Being so rushed to print
+不得已	부득이	Unavoidably; inevitably
+끗을 마치지 못하여	끝을 마치지 못하여	Unable to finish the end (끗 older spelling)
+讀者 諸彦에게	독자 제현에게	To the readers (諸彦 is honorific plural)
+未安한 일	미안한 일	Matter for which (I) feel sorry/apologetic
+참으로 만슴니다	참으로 많습니다	Is truly much/many (만슴니다 older spelling)
+第2號에는	제2호에는	In the second issue
+繼續 하고	계속하고	Continuing (and)
+兼하야	겸하여	Also; concurrently
+譯完하겟사오니	역완하겠사오니	Will complete the translation (Older humble future ending)
+海諒하시기 바람니다	해량하시기 바랍니다	Ask for your generous understanding (海諒 is Hanja for broad understanding; 바람니다 older spelling)
+譯者	역자	Translator
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제1호
+발행일	1920년 06월 25일
+기사제목	脚本 隔夜 五幕(無端興行을 禁함)
+필자	玄哲 (譯補)
+기사형태	희곡·시나리오
+
+脚本 隔夜 五幕
+						玄哲 (譯補)
+脚本 隔夜는 露西亞의 3大 小說家의 一人 이완·툴게넵(1813年-1818年)의 가장 代表作인 6大 小說 中의 一을 大正 4年度에 藝術座의 興行脚本으로 當時 演劇學校 先生 楠山正雄씨가 脚色한 것이다. 이것을 脚色한 原作小說은 1859年의 出版한 英譯- ON THE EVE- 요 日本서는 小說로 亦是 演劇學校 先生인 相馬御風씨의 日文 飜譯의 『其の前夜』가 이섯다. 楠山 先生도 亦是 이 脚本을 『脚本 其の前夜』라 한 것을 余는 그 意味를 取하야 『脚本 隔夜』라는 名稱을 주엇다. 讀者- 此 意를 諒解하기 바라며.
+余는 篇中의 內意를 詳細히 記錄지 안이한다. 다만 讀者 諸씨가 精讀 喫味하면 可解할 것임으로-.
+楠山 先生은 原作 脚本에 이런 序文을 말하엿다. 『小說을 劇化하는 困難은 原作이 藝術的 價値가 豊富할사록 濃厚한 感味가 만코 濃厚한 感味가 만흘사록 더욱 甚하다. 더구나 特殊한 牧歌的 柔軟한 情趣에 싸인 툴게넵의 此 作을 舞臺에 올린다고 하는 것은 或은 世界 어느 劇場에서던지 일즉이 試驗치 못한 一大 『無謀』가 안인지 모르겟다...』고 하엿다. 이제 藝術이 무엇인지 演劇이 무엇인지 一毫半點의 理解가 업는 우리 朝鮮에서 이러한 脚本을 譯出할 적에 나의 가슴 가운대서 소리업시 지꺼리는 그 무엇이 잇슴을 깨다랏다.
+世界 代表的 戱曲이 만흔 中에 特히 이 脚本을 選擇하야 着手한 것은 가장 여러 가지가 우리에게 共鳴되는 점도 잇고 또는 만흔 西洋 中에도 가장 地理的 關係가 갓가운 露西亞의 今日의 狀態가 마음에 떠나지 안이하는 까닭이다. 이 脚本에 나오는 모든 人物이 오늘날 露西亞를 說明하는 것 가튼 마음이 키인다. 女主人公 에레나가＜151＞ 1850年代의 露西亞의 活動的 新革命의 타입의 先驅者임과 그 父親의 頑固한 思想, 靑年의 彫刻家, 哲學家, 愛國者 모든 性格이 우리로 하야곰 十看百讀의 價値가 잇슬 줄 生覺한다. 더구나 彫刻家 슈빈의 性格과 가튼 것은 平生에 툴게넵의 藝術에 그 가티 好意를 가지지 안이한 톨스토이도 讚揚의 言辭를 아끼지 안이 하엿다.
+余가 今番에 脚本 飜譯에 着手한 것은 實로 엇더한 校友會의 囑托을 바다 後日 이를 舞臺에 올리랴하는 經營이 잇슴으로 無端興行을 禁한 것이라. 이 脚本의 原 脚色者 楠山 先生은 余가 藝術座 附屬 演劇學校 在學 當時에 親히 授業한 先生일 뿐 안이라 其 當時에 校長 島村抱月, 中村吉藏, 相馬御風, 楠山正雄, 秋田雨雀 諸 先生에게 特히 異國人인 余는 그 著作에 飜譯할 수 잇다는 許諾이 잇는 然故이라. 그 뿐 안이라 當時 音樂敎師 『復活 가튜샤가 와이야』하는 作曲者 兼 此 脚本 中에 잇는 唱歌 數3을 作曲한 中山晋平 先生에게도 同樣의 承諾이 當時에 잇섯다. 이러한 承諾을 當時에 어던 것은 歸國始初에 우리 劇界를 爲하여 무슨 도음이 잇슬가하여 準備한 것이 遷延幾個星霜에 一個 飜譯이 업고 半個의 成算이 업스니 諸 先生의 好意를 저바림이 만은지라. 붓을 들어 脚本을 飜譯하랴는 劈頭에 스스로 모든 慚愧한 情緖를 禁치 못한다. 이 脚本은 余가 演劇學校를 畢業하고 藝術座에 硏究生으로 在學할 當時에 東京帝國劇場에 上演한 것임으로 內部的 關係가 만핫고 또 多少의 舞臺上 助力도 한일이 이섯슬 뿐 안이라 露西亞 文學通 昇曙夢씨의 原作者에 對한 講演도 親히 들엇는 故로 今日 이 脚本을 飜譯함에 當하야 多少의 自信이 잇다. 이 脚本의 譯載를 特히 許諾하여 주는 開闢 雜誌 編輯 同人 諸씨의 好意를 特히 謝禮하고 自此로 號를 隨하야 順次 揭載코자 하노라.
+
+人物
+니콜라이 알뎀위치 스답홉웁(退職 陸軍 中尉. 47歲)
+안나 와시리이에우나 스담홉웁＜152＞(中尉妻. 40歲)
+에레나 니콜라이에우나 스담홉웁(中尉 女息. 20歲)
+우왈 이외노위치 노인(니콜라이의 從兄. 退職 下士官. 60歲)
+빠위엘 야꼬우렛치 슈빈(안나의 甥侄, 彫刻家. 26歲)
+안드레이 베트로위치 벨세넵(슈빈의 友人. 大學生. 24歲)
+디미트리 니가노위치 인사롭(벨세넵의 友人. 大學生. 불가리아人. 26歲)
+에고오울 안드레위치 쿨라르위스키이(元老院 一等書記官)
+렌치치(달마디아의 船人 頭)
+소오야 니키디이슈나 미유루렐(스담홉웁가 待女. 獨逸人 混血少女. 16歲)
+가아챠(당달장님의 乞食少女. 13歲)
+獨逸人의 勞動者
+馬車夫 馬丁 下人 等
+旅館主人 及 其 妻
+
+場所
+모스크 及 베네샤
+
+時
+1853年 夏節로부터 1854 春節까지
+(크리미야 戰爭 前後)
+
+光景
+第1幕 莫斯科郊 外 쯔아리치나 湖畔
+(7月의 午後 긴 하늘 저녁 景致)
+第2幕 第1場 莫斯科郊 外 스담홉웁 家 書齋
+第2場 莫斯科河岸 路傍의 小禮拜堂
+(共히 第1幕 보담 2個月 後 9月 午後 雷雨 時)
+第3幕 第2幕 1場과 同一한 스담홉웁 家 書齋
+(第2幕 보담 1個月 後 10月 午前 雨)
+第4幕 莫斯科郊 外 인사릅 主人집
+(第3幕 보담 1週間 後 11月 夕景 雪)
+第5幕 第1場 베네샤 町. 大運河의 河岸
+第2場 同(이하 한 자 생략) 호털의 1室＜153＞
+(第4幕 보담 半年 後 翌年 4月의 深夜부터 翌日 曉晨까지)
+
+第一幕
+中央에 컴컴한 그늘을 이루어 크게 茂盛한 菩提樹의 古木이 잇고 그 밋에는 夏節 雜花가 亂發하엿스며 2,3의 大小 捨石이 잇다.
+遠景은 無風碧波의 湖水 白楊白樺의 森林과 古城 殘壁.
+暑節 7月의 夕景 晴天.
+工場 職工의 職務服을 입은 獨逸 勞動者 5,6人 모다 大醉하여 大聲으로 노래도 하고 或은 떠들기도 하면서 지내간다.
+
+노래
+자네들도 술잔이나 먹는 터이요.
+우리들도 술잔 먹는 먹는 터이라.
+먹어라. 먹어라. 목에 넘도록
+醉해서 죽도록 만히 먹어라.
+
+노름을 하며는 끗이 나도록
+그래도 돈 한 푼 치른 일업서
+하자. 하자. 자꾸 하자. 왼갓 노름을
+두 주먹과 빈 몸동이 빨가 벗도록.
+인사롭과 에레나가 叢林 間에서 이약이 하면서 나온다. 職工 等이 兩人의 압흐로 지나가면서 여러 가지 滑稽的 動作을 하면서 웃기도 하며 辱도 하고 人事도 하며 各各 마음대로 지꺼리며 지나간다.
+인사롭. 경치지 떠드네
+에레나. 저것들이요. 獨逸 職工들이야요. 요새에 온갓 工場에 모도 와서 일들을 해요.
+인사롭. 어머니들은 엇진 일인가요. 퍽도 늣슴니다 그려.
+에레나. 一一이 서서 景致를 求景하는 게지요.
+못처럼만에 놀려 나오신 것이대서 야주 야단이야요. 저러면 인제 한 열흘식은 알치요.
+인사롭. 벨세넵도 떠러졋습니다 그려.
+에레나. 에에 우리들이 넘어 이약기에 팔려서-.
+당신은 벨세넵 氏하고 本來부터 親하심닛가.
+인사롭. 에에 모스크 大學의 同窓이 올시다. - 그 사람은＜154＞ 哲學科에 잇섯고 나는 歷史科에 잇섯슴니다.
+에레나. 그이가 퍽 才操가 잇섯다지요.
+인사롭. 그럿슴니다. 學校에서 셋재로 卒業한 秀才올시다.
+에레나. 그이의 하는 말은 퍽 어려운 學問上 이약이지만은 엇재 그런지 이약이를 들으면 무어시라고 말할 수 업는 조흔 마음 가운대 醉해서 엇던 밝고 아름다운 外國都會地 길을 단기는 것 가튼 마음이 들어요.
+인사롭. 크게 훌륭한 理想을 가진 人物이올시다. 露西亞사람의 새로운 生活은 그런 사람의 손에서 開拓이 될 것이올시다.
+에레나. 나는, 벨세넵 氏에게 당신의 이약이를 퍽 만히 듯고 당신을 보고 십흔 때가 더러 잇섯서요.
+인사롭. 벨세넵은 一生 親舊를 추어주는 사람이올시다.
+에레나. (職工들의 떠드는 통에 中間이 떠러진 말을 다시 잇는 것 가티) 그래, 그 때부터 그 놈들 간 곳을 모름닛가. (菩提樹 下에 안지면서)
+인사롭. (선 채로) 에에, 무엇이던가요. 그 놈들이라니.
+에레나. 아까 말슴하시던 土耳其 士官- 당신 어머니의 원수라고 하던-.
+인사롭. (내부듸치는 말) 그놈 말임닛가. 모르겟서요. 다시 차자 본 일도 업섯슴니다.
+에레나. 그래서... 이런 말슴을 넘어 뭇는 것이 失禮갓슴니다만은... 벨세넵 氏에게 말을 들으니 그 士官으로하여 당신댁이 결단이 낫다지요-.
+인사롭. 그랫슴니다. 그놈은 우리 어머니를 辱보이엇슴니다. 우리 아버지를 죽엿습니다. 土耳其의 도야지 가튼 놈이-.
+에레나. 저를-(間) 아, 안 안즈셔요 안즈십시요.
+인사롭. 에에, 안겟슴니다. (겨테 걸터안다.)
+에레나. (亦是 好奇心에 끌려) 그 때가 당신이 몃 살적이던가요.
+인사롭. 18歲 前이닛가. 여덟살적임니다. 그 때부터 게- 후에 잇는 伯母님을 딸아 露西亞에 왓슴니다. 露西亞는 나의게 故鄕이 안인 故鄕이올시다.＜155＞
+에레나. 그 後에 도모지 故國에 가신 일이 업슴닛가.
+인사롭. 안이요. 스무살되던 해에 한 번 불가리아에 간 일이잇슴니다.
+에레나. 가셧다가 곳 露西亞에 돌아오셧슴닛가.
+인사롭. 에에. 별안간에 故國이 보고 십허서 가 보앗슴니다. 두 해 동안이나 불가리아 國中에 돌아단여 보앗스나... 어대로 가던지 눈에 거슬리는 일뿐이엿슴니다. 外國사람에게 支配되어 잇는 본국이라고 하는 것은 정말 外國보다도 살 수가 업슴니다.
+에레나. 그 2年 동안에 엇지해서 그 원수를 만나지 못햇서요.
+인사롭. 에레나 氏. 원수를 갑는다는 것은 어려운 일이 안이올시다. 그러나 나의 時方 이 머리 가운대는 조고마한 한 집안 원수보담도 더 큰 國民의 원수... 안이 이러케 말하면 語弊가 잇슬는지 모르겟슴니다... 卽 불가리아의 全國民이 自由를 어들가 못 어들가 하는 問題가 얼마나 큰 일인지 모름니다. 큰 일압헤 적은 일이올시다. 그 큰 일만 目的을 達하는 때에는 나의 조고마한 일은 저절로 解決이 됨니다... 그럿슴니다. 저절로 解決이 됨니다.
+에레나. (보들아운 感情的으로) 참 암, 眞情으로 나라를 사랑하시는 愛國志士심니다.
+인사롭. 안이요. 그것은 뒤에 당해보지 안코는 알 수 업는 일임니다. 그 나라를 위해 목숨을 버린 뒤에라야 비롯소 그 사람이 나라를 사랑하엿다 할 수 잇겟지요.
+에레나. 그러면 萬若 당신이 故國에 돌아가시지 못할 경우에 이르럿다하면 平生을 露西亞에서 사셔도 관계치 안타고 生覺하심닛가.
+인사롭. 글세요... 아마 그러케 못될 걸이요... 떠드는 소리가 멀리 들님니다 그려. (遠景에서 衆人의 노래와 떠드는 소리가 들린다.)
+에레나. 時方 그 者들인게지요... (間) 당신 나라 말은... 불가리아 말은 매우 어렵지요. 엇젼지 나도 불가리아에 가보고 십허요.
+인사롭. 무엇이 어려와요. 아모 것도 어려울 것 업슴니다. 다 가튼 슬라부의 露西亞사람으로 불가리아의 말을 모른다는 것은 부끄러운 일이올시다. 배우셔요.＜156＞ 매우 쉽슴니다. 두서너 券 불가리아의 말책을 빌려드리지요. 불가리아 노래도 決코 세루비아 것보다 못하지 안슴니다. 한번 飜譯 해드리지요. 노래의 趣意는... 그것만 안이라 당신은 불가리아의 歷史를 大綱 아심닛가.
+에레나. 안이요 조금도.
+인사롭. 그러면 歷史의 大略이라도 아실 만한 冊을... 그것은 그러코, 자아... 노래를 좀 들어보시요... 아마도 冊이 조켓지요, 언제던지 한 번 읽어보시요. 정녕코 우리나라 사람들을 조케 生覺하시게 될 것임니다. 엇잿던지 壓制에 못견대는 사람들을 사랑하는 당신이닛가... (急히 興奮이 되어서) 당신은 아심닛가. 불가리아라는 나라이 元來 엇더한 恩惠를 바다온 나라인 줄 아심닛가. 그러한 나라이 오늘날은 보기에도 慘酷한 外國사람의 발굽미테 蹂躪이 되어서... 그럿슴니다. 우리들의 國民들은 土地도, 宗敎도, 法律도, 우리 祖先으로부터 代代로 傳해 오던 모든 것을 빼앗긴 우에, 그지독 無識한 土耳其 놈들은 우리의 同胞들을 牛馬와 가티 끄을고 단이며, 죽이고 십흐면 죽이고, 父子兄弟... 모도 散之四方으로...
+에레나. 날 보셔요...
+인사롭. 용서하십시요. 나는 本國 이약이만 하면 그만 精神업시 떠듬니다. 당신은 只今 날더러 참으로, 나라를 사랑한다고 하셧지요, 나에게는 하느님 다음에는 이와 가티 確實하고 信賴할 만한 것이 업슴니다...
+에레나. 아아, 당신에게는 그러케 信賴할 만한 하느님도 잇지요, 나라도 잇지요, 그러치만은, 내에게는...
+인사롭. 에에, 그건, 엇재서요...
+(叢林 中에서 슈빈과 벨세넵의 소리가 들린다.)
+에레나. 암말도..., 모도 옴니다. 우리는 저 짝으로 갑시다.
+인사롭. 벨세넵이 오는 것 가튼대요. 우리들을 아마 찻는 게지요.
+에레나. 관계치 안아요, 벨세넵 氏는 조와도, 또, 슈빈＜157＞ 先生이 오면 놀려주지요. 갑시다, 에에, 散步도 하고 저쭉작으로, 아즉도 무러 볼 말슴이 만히 잇슴니다...
+인사롭. (일어나면서 팔을 내어민다.)
+에레나. (방긋이 남자의 손을 잡고 일어나면서) 당신은 정말 이 나라에 오래 게시지 안을 터임닛가.
+(兩人은 서로 어깨를 맞추고 左便으로 내려갈랴고 하는 양을 슈빈이 보고 소리를 질른다.)
+슈빈. 이에. 에레나. 어대로 가니... 나는 어대가 파무틴 줄 알고 차자단엿지.
+에레나. (어깨를 삐쭉하면서) 가기는 어대로 가요.
+(4人과 한 대)
+인사롭. (辯明하는 意味) 벨세넵, 무얼한다고 느졋나. 그러치 안해도 그대들이 무엇을 하나하고 이약이를 하고 잇섯네... 나는 잠간 에레나 氏에게 불가리아 이약이를 조금식 하엿지.
+에레나. (벨세넵에게 가서 어깨에 손을 언고 정다운 語調로) 벨세넵 氏, 어대가 편챤으셔요. 얼골빗이 대단이 못함니다.
+벨세넵. (일부로 웃음을 지으면서) 아까 배멀미가 아즉 풀리지 안핫겟지요.
+에레나. 그래서 엇더케 하시나요... 벨세넵 氏 아까 인사롭 씨에게 여러 가지로 불가리아 아약이를 들엇셔요.
+벨세넵. 滋味잇지요, 인사롭의 이약기가.
+에레나. 네에, 모도 깜찍깜찍한 이약이 뿐이야요.
+슈빈. 諸君. 불가리야 이약이가 이 자리에서 얼마나 切迫한 큰 問題인지는 모르겟스나, 이런 곳에서 우리들이 새끼에 매인 듯이 서가지고 이약이를 안이하면 안될 일이 무엇인가. 조금식 우리 쉬자.
+벨세넵. 아아. (라고 하며 에레나와 갓치 복판에 잇는 菩提樹의 아래 걸터 안고. 인사롭도 가티 3人이 모다 에레나를 中心으로 안는다.) 뒤에 오는 이는 엇더케 되엇나. (第1幕 未完)
+
+우리 開闢雜誌에는 每號마다 이 脚本의 壹幕式을 記載할 豫定이 압더니 今番은 하도 印刷하기에 急急하여 不得已 第1幕의 끗을 마치지 못하여 讀者 諸彦에게 未安한 일 참으로 만슴니다. 그러나 第2號에는 第1幕의 未完을 繼續 하고 兼하야 第2幕까지 譯完하겟사오니 海諒하시기 바람니다... 譯者.＜158＞
+＜151-158＞

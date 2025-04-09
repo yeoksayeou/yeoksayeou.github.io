@@ -1,0 +1,62 @@
+**Header Section:**
+Magazine Title: 개벽 (開闢) 제2호
+Publication Date: 1920년 07월 25일
+Article Title: 社告 (Company Announcement)
+Author: None specified
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Body Text Translation:**
+Company Announcement
+
+For the convenience of readers in the provinces (地方讀者), this company (本社) is in the process of establishing Kaebyŏk distribution points (開闢分賣所) in various regions (各地方). The distribution points designated thus far according to internal regulations (分賣所內規) are as follows:
+
+● Corrections (正誤): In Issue No. 2 of this magazine (本誌), on page 2, delete the "一," before the title "Three Great Problems" (三大問題). On page 4, change the "二" before the title "Labor Problem" (勞動問題) to "一". On page 10, change the "三" before the title "Women's Problem" (婦人問題) to "二".<154>
+
+**Summary**
+
+This text is a company announcement from the magazine *Kaebyŏk* (開闢). It informs readers that the publisher is setting up distribution points in various regions to make the magazine more accessible outside the capital. It states that a list of currently designated locations follows (though the list itself is not included in this excerpt). The announcement also includes a list of corrections (errata) for the second issue, specifically fixing the numbering of three major article titles. For historians, this notice highlights the logistical challenges and expansion efforts of Korean nationalist publications during the early colonial period, attempting to reach a wider audience beyond Seoul. The errata section also subtly indicates the kinds of topics being discussed (major societal problems, labor, women's issues) and the basic editorial processes of the time.
+
+**Named Entities**
+
+本社	본사	Pon-sa (This company/Headquarters - referring to the Kaebyŏk publisher)
+開闢分賣所	개벽분매소	Kaebyŏk Punmaeso (Kaebyŏk Distribution Point)
+三大問題	삼대문제	Samdae Munje (Three Great Problems - Article/Section Title)
+勞動問題	노동문제	Nodong Munje (Labor Problem - Article/Section Title)
+婦人問題	부인문제	Puin Munje (Women's Problem - Article/Section Title)
+
+**Glossary**
+
+社告	사고	Company announcement
+本社	본사	This company; headquarters (referring to the publisher)
+地方	지방	Region(s), province(s), the countryside (as opposed to the capital)
+讀者	독자	Reader
+便宜	편의	Convenience
+爲하야	위하여	For the sake of (older spelling/form of 위하여)
+各地方	각지방	Various regions/provinces
+分賣所	분매소	Distribution point; sales outlet
+設置	설치	Establishment; installation
+中인바	중인바	In the process of...; while doing...
+今日지	오늘까지	Until today (지 is an older spelling of 까지)
+內規	내규	Internal regulations
+依하야	의하여	According to (older spelling/form of 의하여)
+指定	지정	Designation; appointment
+左와 如함	좌와 여함	As follows (below)
+正誤	정오	Correction(s); errata
+本誌	본지	This magazine
+題頭	제두	Title; heading
+削除	삭제	Deletion; removal
+同	동	Same; the aforementioned (used here preceding page numbers)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+本社에서는 地方讀者의 便宜를 爲하야 各地方에 開闢分賣所를 設置하는 中인바 今日지 分賣所內規에 依하야 指定한 分賣所는 左와 如함
+
+●正誤 本誌 第二號 第二頁中 三大問題의 題頭에 「一,」는 削除 同四頁中 勞動問題의 題頭에 二는一 同一○頁中 婦人問題의 題頭에 三은 二로＜154＞

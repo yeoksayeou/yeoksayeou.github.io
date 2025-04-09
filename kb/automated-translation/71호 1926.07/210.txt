@@ -1,0 +1,53 @@
+Magazine Title: 개벽 第71호
+Publication Date: 1926년 07월 01일
+Article Title: 社告 (Company Notice)
+Author:
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Company Notice
+
+It is truly delightful that the manuscripts for Mr. Kim Satkat's (金笠) poetry, prose, and other biographical materials, which our company's literary department began soliciting several months ago, have piled up like a mountain thanks to the ardent support of our readers. As submissions are still continuously arriving without cease, we are unavoidably extending the editing deadline by one month. We request that those who wish to submit please send their manuscripts promptly. <8>
+
+**Summary**
+
+This is a company notice from the magazine *Kaebyŏk* announcing an extension for submissions related to the poet Kim Sakkat (金笠). Due to the enthusiastic response from readers resulting in a large volume of manuscripts, the deadline has been pushed back by one month. For historians, this notice highlights the active public interest in traditional Korean literary figures during the colonial period, suggesting a desire to engage with and preserve national culture. The magazine's role in facilitating this cultural activity is also evident.
+
+**Named Entities**
+
+金笠	김삿갓	Kim Satkat
+
+**Glossary**
+
+社告	사고	Company notice
+수월 전브터	수월 전부터	From several months ago (older spelling '전브터')
+본사	본사	This company (referring to the magazine publisher)
+文藝部	문예부	Literary Department
+모집하여 오든	모집하여 오던	Have been collecting/soliciting (older verb ending '오든')
+詩文	시문	Poetry and prose
+傳記	전기	Biography
+諸氏	제씨	Gentlemen; Readers (polite plural)
+열렬한	열렬한	Ardent; enthusiastic
+후원	후원	Support; backing
+원고	원고	Manuscript(s)
+산과 가티	산과 같이	Like a mountain (older spelling '가티')
+싸이게	쌓이게	To be piled up (older spelling '싸이게')
+아즉까지도	아직까지도	Still; even now (older spelling '아즉')
+續續히	속속히	Continuously; one after another
+투고	투고	Submission (of manuscript)
+끈허지지 안음으로	끊어지지 않음으로	Because it does not cease (older spellings '끈허지지', '안음으로')
+부득이	부득이	Unavoidably; inevitably
+편집 종료 기일	편집 종료 기일	Editing closing date; deadline
+연기하오니	연기하오니	As we are postponing (polite ending)
+속히	속히	Quickly; promptly
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제71호
+발행일	1926년 07월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+수월 전브터 본사 문예부에서 모집하여 오든 金笠 선생의 詩文과 기타 傳記는 금일까지 독자 諸氏의 열렬한 후원 아래서 그 원고가 산과 가티 싸이게 된 것은 실로 즐거운 일이다. 아즉까지도 續續히 투고가 끈허지지 안음으로 부득이 편집 종료 기일을 1개월 간 연기하오니 투고하실 분은 속히 원고를 보내 주시면 하는 바이다. ＜8＞

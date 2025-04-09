@@ -1,0 +1,81 @@
+Magazine Title: 개벽 제49호
+Publication Date: 1924년 07월 01일
+Article Title: 至急社告 (Urgent Company Notice)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Announcement · Editorial Postscript)
+
+△Urgent Company Notice△
+
+Our company (弊社), which has hitherto striven diligently with a reader-first principle (讀者本位), has frequently and irregularly published enlarged issues (倍大號, 增大號) or temporary/special issues (臨時號, 特別號) whenever we managed to capture something, whether spatially or temporally. As a result, errors in the magazine fees (誌代) and postage (送料) sent daily by readers in various regions (各地方讀者) have become extremely numerous (夥甚), causing mutual confusion (互相間의 煩惑) layer upon layer. Truly, recognizing this as a tremendous obstacle (莫大한 障碍) to the improvement of the company's fortunes (社運向上), and simultaneously feeling the urgent necessity (至急히 必要) to rectify this, we are hereby decisively implementing (斷行) the revision of the magazine's fixed price (雜誌定價의 改正), a long-pending issue (多年懸案), as follows. Accordingly, we attach points of caution regarding remittances (送金에 對한 注意件). We sincerely hope (懇望) that our esteemed readers (愛讀者 諸賢) will pay special attention (特別用意) to this notice henceforth.
+
+(Kaebyŏk Fixed Price Revision Table)
+
+**Summary**
+
+This urgent notice from the Kaebyŏk magazine company addresses confusion among readers regarding subscription fees and postage. Due to the frequent publication of various special and enlarged issues, readers were making errors when sending money. The company states this confusion hinders its operations and announces a revision to the magazine's fixed price, urging readers to pay careful attention to the new pricing and remittance instructions. For historians, this article highlights the operational challenges faced by a prominent Korean nationalist magazine during the colonial period, particularly the logistical difficulties of irregular publishing schedules and managing finances with a geographically dispersed readership under constrained circumstances. It reflects both the magazine's ambition (frequent special issues) and the practical hurdles encountered.
+
+**Named Entities**
+
+開闢	개벽	Kaebyŏk
+
+**Glossary**
+
+至急社告	지급사고	Urgent company notice
+爾來	이래	Hitherto, since then (older form)
+讀者本位	독자본위	Reader-first principle
+懋實力行	무실역행	Striving diligently based on facts/substance
+弊社	폐사	Our company (humble term)
+空間的	공간적	Spatial
+時間的	시간적	Temporal
+捕捉	포착	To capture, grasp
+倍大號	배대호	Double-sized issue
+增大號	증대호	Enlarged issue
+臨時號	임시호	Temporary issue
+特別號	특별호	Special issue
+無常出刊	무상출간	Irregular publication
+濫行	남행	To carry out excessively or improperly
+結果	결과	Result, consequence
+各地方讀者	각지방독자	Readers in various regions
+逐日	축일	Daily
+送托	송탁	Entrusting for delivery (here context implies sending payment)
+誌代	지대	Magazine fee/price
+送料	송료	Postage, shipping fee
+誤錯	오착	Error, mistake
+夥甚	과심	Extremely numerous, excessive
+互相間	호상간	Mutual, between each other
+煩惑	번혹	Confusion, perplexity
+層生	층생	To arise layer upon layer, repeatedly
+社運	사운	Company's fortunes or destiny
+向上	향상	Improvement, progress
+莫大	막대	Tremendous, enormous
+障碍	장애	Obstacle, hindrance (older spelling/Hanja usage)
+矯捄	교구	To rectify, correct
+必要	필요	Necessity
+玆에	자에	Hereby, here (archaic particle)
+多年懸案	다년현안	Long-pending issue
+雜誌定價	잡지정가	Magazine fixed price
+改正	개정	Revision, amendment
+左와가티	좌와같이	As follows (left side, archaic spelling '가티' for 같이)
+斷行	단행	To carry out decisively
+送金	송금	Remittance, sending money
+注意件	주의건	Points of caution, items for attention
+添記	첨기	To add in writing, attach a note
+今後	금후	Henceforth, from now on
+愛讀者	애독자	Esteemed reader(s) (lit. loving reader)
+諸賢	제현	Esteemed sirs/ladies, everyone (honorific plural)
+特別用意	특별용의	Special attention/consideration
+懇望	간망	To earnestly hope/request
+하옴니다	합니다	(deferential verb ending, older form of 합니다 - 'do/be')
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제49호
+발행일	1924년 07월 01일
+기사제목	至急社告
+기사형태	사고·편집후기
+
+△至急社告△
+爾來 讀者本位로 懋實力行하는 弊社는 空間的으로나 時間的으로나 무엇을 捕捉하기만 하면 倍大號, 增大號 그러치 안으며 臨時號, 特別號, 이러케 無常出刊을 濫行한 結果는 드듸어 各地方讀者로부터 逐日送托하는 誌代 及 送料의 誤錯이 夥甚하야 互相間의 煩惑을 層生케 함은 實로 社運向上에 莫大한 障碍로 思하는 同時에 至急히 이것을 矯捄치 아니치 못할 必要로 玆에 多年懸案이던 雜誌定價의 改正을 左와가티 斷行하오며 라서 送金에 對한 注意件을 添記하오니 今後의 愛讀者 諸賢은 이 社告에 特別用意하야주심을 懇望하옴니다
+(開闢定價改正表)

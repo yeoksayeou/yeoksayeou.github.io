@@ -1,0 +1,178 @@
+잡지명	별건곤  
+발행일	1930년 08월 01일  
+기사제목	消費組合小論 (A Brief Discussion on Consumer Cooperatives)  
+필자	石南 (Seongnan)  
+기사형태	논설 (Essay)  
+
+A Brief Discussion on Consumer Cooperatives  
+Seongnan  
+
+Production cooperatives, purchasing cooperatives, sales cooperatives, and consumer cooperatives are all sectors of practical movements based on the theory of cooperatives. The cooperative movement in Korea has been taking place for a long time, and while there are some theorists involved in the movement centered around Gyeongseong (Seoul) with a 'new perspective,' the former have all faced failures, and the latter have shown no actual advancement into practical movements. However, in March of this year, the Gyeongseong Women's Consumer Cooperative was established, which is currently managing its business. I want to take this opportunity to provide a brief introduction to enhance public understanding of the aforementioned Gyeongseong Women's Consumer Cooperative and to outline what limits the cooperative movement inherently possesses. However, I disclose that I am unfamiliar with the theories of cooperatives and, due to my limited knowledge, I have relied heavily on the works of Mr. Sanmun Gyo, particularly his "Theory of Consumer Cooperatives."
+
+1. The Production and Exchange of Goods  
+Let us consider a person, referred to as A, who goes to a store and buys a bar of soap for 50 Jeon. How did this soap come to be exchanged for 50 Jeon? First, the store where A purchased the soap (the retailer) must have bought it from a wholesaler, who acquired it from an intermediary, and that intermediary purchased it from the producer, who made the soap using the raw materials, machinery, and labor of the workers. When this soap comes into A’s hands, how did the payment total 50 Jeon? The retailer, who sold the soap to A, had to add a profit margin when selling it, so that they likely paid the wholesaler about 47 Jeon for it. Then, the wholesaler must have made a profit too, so when selling it to the intermediary, they could not have paid more than about 44 Jeon. Similarly, if the intermediary bought the soap for 40 Jeon from the producer, they would also maintain that profit margin in their dealings. The producer, in turn, would spend about 10 Jeon on raw materials, another 10 Jeon on depreciation of fixed capital (wear and tear on the machinery), and pay about 10 Jeon for the labor of the workers, totaling 30 Jeon to manufacture the soap, thus selling it to the intermediary for a 10 Jeon profit at 40 Jeon. This outlines the formal structure of goods exchange within the modern capitalist production system.
+
+2. The Reality of Profits  
+(1) The raw materials purchased by the producer are, at any time, limited to the amount they physically possess, and they cannot produce more than that. Likewise, the machinery purchased by the producer has a fixed cost; if it was bought for 100 Won, it can only generate goods worth 100 Won and not more. Referring again to the previous example, if 10 Jeon was spent on raw materials such as oils and fragrances to make the soap, the producer is limited to producing a single bar of soap from that, as even a machine valued at 1,000 Won that could make 10,000 units will average 10 Jeon worth of machinery costs into each individual unit produced. Thus, to achieve a profit of 40 Jeon for the soap, they must inevitably cut into the labor costs of the workers. In other words, the soap, which costs 10 Jeon in raw materials, 10 Jeon in equipment depreciation, and 20 Jeon in labor, totals 40 Jeon. To maintain a profit, the producer cannot fully compensate the worker who contributed 20 Jeon in labor and must pay them only 10 Jeon, claiming the remaining 10 Jeon as their profit. This is how the capitalist producer exploits the surplus value created by the worker (taking half of the worker's monetary worth) to realize their profits.
+
+To put it even more clearly, the labor of the worker essentially becomes a commodity; thus when a worker sells their labor to the capitalist, they do not receive the full real worth but rather instrumentalize their existence in exchange for cash that equates to the time they work in the factory. If a producer employs a worker for a set amount of value, say, producing 20 bars of soap, collectively costing 8 Won, the producer subtracts 4 Won for raw materials and depreciation, as well as pay the workers a total of 1 Won or 80 Jeon, pocketing the remainder as profit.
+
+(2) Moreover, previously discussed examples show that the bar of soap reaching A for 50 Jeon involves the exploitation of the worker by the producer and is then also subject to exploitation by middlemen. Laborers, predominantly comprising this consumer class, are doubly exploited: first by the production stage from the producer and subsequently by the consumption stage from the middleman. Herein lies the foundation of class struggle; the working class exists under the exploitation enabled by capitalists, leading to class conflict. Within this class struggle, there are two distinct movements: one is the political socialist movement, which aims at constructing a society that eliminates profit and class structures while the other is the reformist movement, suggesting that laborers minimize the exploitation of surplus value, reclaiming their share to improve their living conditions. 
+
+Among the cooperative movements, two directions are present: one is the labor union movement aimed at reducing surplus value exploitation faced by laborers as producers, and the other is the consumer cooperative movement aimed at minimizing or even entirely eliminating the surplus value exploitation faced by laborers as consumers. Consequently, this consumer cooperative movement constitutes a part of the larger cooperative movement. Within the consumer cooperative movement, there are two types—temporary and permanent—for instance, movements aimed at lowering utility fees are temporary, as they seek to resolve an issue non-permanently. Only the organization that aims to be established indefinitely and expand improvements in the quality of life is the latter type we discuss here.
+
+3. The Purpose of Consumer Cooperatives  
+While the significance of the consumer cooperative movement has been briefly explained, what is the specific purpose of a consumer cooperative? A consumer cooperative is, by definition, an association of consumers. However, the concept of consumption carries two meanings; manufacturing workers producing textiles from cotton or metallurgical workers creating steel from raw materials are both forms of consumption, but they do not necessarily consume in terms of 'use value.' This sort of consumption does not chiefly satisfy direct personal needs as it is consumed for production purposes.
+
+In contrast, personal consumption—such as buying rice for making meals or purchasing fabric to sew clothing—fulfills immediate individual needs without being utilized for profit. The objective is not the realization of profit; rather it aims to (1) eliminate the profits earned by general capitalists—particularly intermediate sellers—by gathering a fund from cooperative members and purchasing goods directly from producers at cost and sharing them among themselves. This means eradicating the profits taken by intermediaries through transactions with producers and claiming these benefits for consumers.
+
+This is the primary purpose of consumer cooperatives. Next, once the cooperative itself is robust and the funds are plentiful, they aim to establish their production, meaning supplying necessary goods not purchasing from other producers but setting up their factories to meet demands through their own production.
+
+Thus, the first purpose is a passive means aiming to eliminate profits gained by middlemen, and the second is an active means seeking to abolish profits taken by producers.
+
+Yet, by reaching this point, contradictions arise within the consumer cooperative itself; if a cooperative establishes its industrial production, and if its aim is the 'elimination of profits,' does it not engage in the exploitation of surplus value of the laborers working in the cooperative's factory? This question will be addressed in a subsequent section, but first, let us look at the business and organization of consumer cooperatives.
+
+4. The Business and Organization of Consumer Cooperatives  
+Consumer cooperatives consist of a collective from the proletariat aiming to abolish profits taken by capitalists. Therefore, as long as the undertaking aligns with this aim, any type of business is suitable. Of course, starting off, they gather small amounts of funds and use these to purchase daily necessities en masse directly from producers, selling them to cooperative members at nearly cost.
+
+Is there any profit margin on those goods sold above cost? This question may arise; however, that slight profit serves to (1) cover the operational costs of the cooperative, (2) build foundational funds in preparation for self-production in the future, and (3) facilitate public service projects to the society through the cooperative, including door-to-door distribution among members.
+
+A problem arises regarding point (3)—members contribute funds, and how is any excess distributed? Some may wonder how this differs from a standard joint-stock company. Nevertheless, consumer cooperatives distribute benefits not based on the total funds subscribed, but rather according to how much each member utilizes the cooperative by purchasing from it.
+
+Accordingly, while establishing a solid foundation for the cooperative and broadening its operational range, they move to form a nationwide alliance to implement unified purchasing and concentrated production, where socially it will engage in political education, propaganda, and ultimately expand its activities internationally.
+
+5. The Social Activities of Consumer Cooperatives  
+Previously, consumer cooperatives maintained a stance of neutrality toward class movements. Their assertion is often that cooperatives are merely associations of consumers. Hence, regardless of the class to which members belong, anyone could join without the issue of exclusion. They have remained neutral towards politics, religions, and working-class movements generally.
+
+However, in reflecting on the historical developmental trajectory of consumer cooperatives, particularly the exemplary British model, it becomes clear that neutrality among cooperatives is no longer tenable. 
+
+What is the reason behind this?
+
+First, while consumer groups claim to encompass all consumers, it is impossible for the middle class and underclass to universally join; hence even if the consumer cooperative movement advances, as long as not all members of society—at least all of the working class—can join, the reality of capitalist profits remains intact, which may only improve some workers' living standards without altering the larger system.
+
+Second, even if cooperatives successfully manage their production, they remain small-scale and cannot compete against the increasingly monopolized and capitalized large-scale producer systems. Even if able to compete, they would need their factories, thus requiring laborers, leading to inherently similar exploitative relationships to those in capitalist production.
+
+Third, consumer cooperatives emerged as a phenomenon within capitalism, hence while there is potential for development early on, as capital markets move into decline, consumer cooperative movements do not develop smoothly but must adjust to shifting currents. Evidence of this can be seen in the changes in consumer cooperatives; while initial capitalist trajectories supported cooperative development, post-world war dynamics forced a reorientation toward active conflict rather than safe, neutral practices.
+
+Thus, contemporary reformist perspectives on cooperatives fail to bring forth any ultimate values.
+
+6. Regarding the Gyeongseong Women's Consumer Cooperative  
+The Gyeongseong Women's Consumer Cooperative is still in its initial establishment phase, so we reserve judgement on its performance at this point. It is hoped that, through the efforts of its central figures, it will grow successfully, but I wish to caution against repeating the mistakes of previous failed movements (similar to those of liberalist origins throughout history) or dreaming of safety while remaining within a neutral, undifferentiated space.
+
+Moreover, regarding the organization (and certainly there is ongoing effort here), I hope they will invite many factory-working women to join, rather than primarily relying on domestic servants from the intellectual or middle class as representatives. 
+
+In commerce, rather than starting off with the intention of owning their store from the outset, I believe it would be prudent to first adopt a special contract store system for the current time until the cooperative is properly established, and then later manage their own stores. Most importantly, I hope they will dedicate considerable effort to the 'social training' of members.
+
+Lastly, it is concerning to hear that the cooperative has decided to distribute surplus profits not based on purchasing amounts but instead based on subscribed amounts. 
+
+While such compromises in the early phases may not be wholly unexpected, avoiding impure participants is essential. Perhaps if more authentic laboring classes attended the founding assembly, the earlier suggested method (distributing surplus based on purchase amounts) could have been agreed upon rather than the current one. 
+
+In conclusion, the saying goes 'a tiger drawn badly becomes a dog.' It is regrettable if the effort to present these topics clearly has ended up looking like this. I encourage those interested in further information to consult the aforementioned work, "Theory of Consumer Cooperatives" by Sanmun Gyo.
+
+ 
+
+**Summary**  
+
+This article discusses the historical significance and purpose of consumer cooperatives, focusing particularly on the newly established Gyeongseong Women's Consumer Cooperative. The author highlights the cooperative movement as a tool for reducing exploitation of working-class consumers while noting the challenges and contradictions inherent in this structure. The article serves as an important critique of early cooperative movements, reflecting on past failures and encouraging a stronger foundation for future efforts. Historians may find interest in how these cooperative models intersected with broader labor issues and class struggles in colonial Korea, demonstrating the complexities of social change under imperial rule.
+
+**Named Entities**  
+
+京城		Gyeongseong  
+石南		Seongnan  
+
+**Glossary**  
+
+消費組合	소비조합	consumption cooperative  
+共同　　공동	cooperative  
+利益　　이익	profit  
+労働者	노동자	worker  
+資本家	자본가	capitalist  
+商品　　상품	goods  
+組合員	조합원	member  
+展開　　전개	development  
+中間商人	중간상인	middleman  
+
+
+---------------------------
+
+
+잡지명	별건곤 제31호
+발행일	1930년 08월 01일
+기사제목	消費組合小論
+필자	石南
+기사형태	논설
+
+消費組合小論
+						石南
+생산조합, 구매조합, 판매조합, 소비조합 등은 협동조합의 이론을 토대로 한 그 실제운동의 각 부문이다.
+이 협동조합운동이 朝鮮에 일어난 것은 이미 오랫고, 또 경성을 중심으로 하야 『新見解를 가진』同運動의 일파의 이론가가 더러 잇기는 하나 전자는 전부 실패에 도라갓고 후자도 아모런 실제 운동으로의 진출이 보이지 아니한다.
+한데 금년 3월중에 京城女子消費者組合이라는 것이 설립이 되엿고, 현재에 그 사업까지 경영하고 잇는 중이다.
+此를 기회로 하야 간단한 상식적 소개를 함으로써 上記의 京城女子消費者組合에 대한 일반의 이해를 주며 따러서 협동組合운동이라 하는 것은 그 자체가 엇더한 『限度』를 가진 것인가를 약술하려한다. 그러나 필자는 협동조합의 이론에 대하야 인연이 멀고 또 薄學한 관계로 山村喬씨의 『消費組合論』에 의하야 대부분 참고하엿슴을 부언하여 둔다.
+
+1.상품의 생산과 교환
+여긔 甲이라하는 한 사람이 어느 상점에 가서 가령 50전을 주고 비누 한 개를 삿다고 하자. 그러면 이 비누는 엇더한 경로를 밝어 50전이라는 돈으로 甲과 밧구게 되엿는가?
+爲先 甲이 그 비누를 산 상점(소매상)에서는 그 비누를 도매상에서 사왓고, 그 도매상은 그것을 중개상에서 사왓고 중개상은 그것을 생산업자에게서 사왓고, 생산업자는 사드린 원료와 기계와 사용인의 노동으로써 그 비누를 만들어 내인 것일 것이다.
+다음에 그 비누갑시 甲의 손에 들어올 때에 50전이라는 갑이 엇터케 하야 되엿는가?
+甲에게 50전을 밧고 비누를 팔은 소매상은 반드시 利문을 붓치어서 팔엇슬터이니까 그가 도매상에게서 사올 때에는 47전 가량 밧게는 더 쥬지 안니하엿슬 것이다.
+다음에 소매상에게 47전을 밧고 그 비누를 팔은 도매상은 그亦 利문을 남기고 팔엇슬 터이니까 그가 중개상에게서 사올 때에는 44전쯤 밧게는 더 쥬지 안하엿슬것이다.
+또 중개상이 도매상에게 40전을 밧고 그 비누를 팔엇다면 그는 생산업자에게서 그것을 사올 때에도 40전 밧게는 더 쥬지 아니하엿슬것이다.
+다시 생산업자는 10전쯤의 원료를 드리고 고정자본(기계에 대한 平均損料)를 10전쯤 치고 이 기계로 그 원료를 써서 비누를 직접 만들어 내인 노동자의 임금을 10전쯤＜46＞ 주고 그리하야 30전을 드리어 만들은 그 비누를 10전의 利문을 붓치어 40전에 중개상에게 팔게되는 것이다.
+이것이 현대 자본주의생산제도에 잇서서 상품이 교환 된는 형식이다.
+
+2.利潤의 現實
+(1) 생산업자가 사드리는 원료는 언제든지 제갑 만을 제가 가지고 잇슬 뿐이지 그 이상의 것을 만들어 내이지 못하다.
+또 생산업자가 공장에 설비한 기계에서도 그것이 기계인 이상 100원을 주고 산 것이면 100원갑, 1000원을 주엇스면 1000원 갑 밧게는 더하지 못한다.
+그러면 전의 례를 다시 들어보면 비누 한 개를 만드는데 드는 원료-기름이라든가 향료가튼것을 10전 엇치를 사드렷스면 그것을 가지고는 비누 한 개 밧게는 아모러한 것을 하더래도 더 만들지는 못하게되며 기계도 비누를 1만을 만들을 만한 수명을 가진 1000원짜리라 하면 비누 한개 만드는데 평균 10전의 기계가 꼭꼭 들어가지 그 기계의 수명을 2만개를 만들도록 느리지는 못하는 것이다.
+********(이하 2줄 판독불능 - 국편) 그래도 利문은 반듯이 먹어야할 터인데 또 물품 즉 비누는 꼭 40전 갑세 相當한 것을 만들어 노아야 하겟다면 불가불 노동자의 勞動力에 손을 대어야하게 되는 것이다.
+다시 말을 하면 비누 그 물건은 10전 엇치 원료와 10전 엇치 기계損料와 20전 엇치 勞動力이 합쳐서 40전 짜리가 된 것인데 생산업자는 20전 엇치의 노동을 한 노동자에게 20전을 다 주어서는 자기의 利문이 전연 엄슬 터이니까 노동자에게는 10전만 주고 원래는 노동자가 먹어야 할 10전을 자기의 利문으로 따지어 넛케 되는 것이다.
+이것이 즉 자본가인 생산업자가 노동자가 만들어낸 剩餘價値를 착취함으로써 (前記 노동자의 목 20전 중 10전)자기의 이윤을 현실하게 되는 것이다.
+이것을 죰더 분명히 말을 하면 노동자의 勞動力을 상품의 일종인데 노동자가 자기의 상품을 자본가에게 파는 것은 그 實價를 밧고 파는 것이 아니라 그적 공장에서 하로에 열시간이면 열시간 열두시간이면 열두시간의 일을 하여주고 그 삭스로 1원이면 1원, 80전이면 80전을 밧기로 하고 굀¸ 날 하로의 자기를 팔게 되는 것이다.
+이러한 노동자의 하로동안의 노동력을 산 생산업자는 노동자를 식히어 우에 들은 예의 40전짜리 비누를 20개를 만들엇다 하면 그 20개에 대한 총 가격은 8원인데 원료와 기계손료 4원을 제하고 노동자의 임금을 1원이면 1원,80전이면 80전을 제하고 그 남어지는 자기의＜47＞ 利문으로 집어넛케 되는 것이다.
+(2) 또 전에 들은 例中에 생산업자에게서 40전에 넘어온 비누가 甲의 손에 들어오기까지 10전이라는 발이부터 가지고 50전이 된 것은 前記의 것이 생산업자의 노동자에 대한 생산방면의 착취인데 대하야 이것은 일반 중간상인의 민중에 대한 소비방면의 착취이다
+그런데 만일 소비방면으로 착취를 당하는 사람이 역시 대부분은 노동자 계급이니 그러면 노동자 계급은 이중의 착취- 생산에 잇서서 생산업자에게, 섀Œ비에 잇서서 중간상인에게 두겹으로 착취를 당하는 것이다.
+여긔에 일반 자본가들의 착취에 의하여 그러한 착취를 목적으로 한 생산제도에XXXXXXX
+일어나는 것이 노동자 계급이요, 즉 계급투쟁이라는 것이다.
+그런데 이 계급투쟁가운데 두 가지 방향이 잇스니 하나는 이윤의 현실을 목적으로 한 자본가 생산(이문을 남겨 먹으려고 물품을 만들고 팔고 하는) 사회제도를 XX XXXX XXXXXXX이윤이나 계급이 업는 세상을 건설하려는 정치적 사회주의 운동이요, 또 하나는 잉여가치의 착취를 될 수 잇스면 적게 당하고 그만큼 그것을 자기의 목스로 당겨드려 그것으로 자기네의 현실생활을 개선하여 나아가랴는 改良主義運動의 組合운동이 그것이다.(정치투쟁을 한대서 반드시 前者에 속하는 것이 아니며-독일의 사회민주당이나 英國의 노동당내각갓치-조합運動行 한대서 반드시 개량주의에 속하는 것은 아니다-싼지카리*이나 .IWW갓치)
+다시 이 組合주의 운동 중에 두 가지 방향이 잇스니 하나는 생산자로서의 노동자가 생산업자에게 착취당하는 잉여가치를 적게 하려는 반항의 노동組合운동이요, 또 하나는 小生産나 소비자로서의 노동자가 중간상인에게 착취당하는 잉여가치를 적게 혹은 全然업새이기위한 운동이니 협동組合운동이 즉 그것이다, 그러고 협동組合이론의 실제운동의 일 부문이 消費組合運動이다.
+또 이 消費組合運動에도 다시 두 가지 종류(일시적의 것과 영구적의 것)이 잇스니 例를 들면 전등요금 감하운동 가튼 것이 그것인데 이것은 그 목적을 속성함으로써 소멸 되여 바리는 것이요, 하나는 조직화 영구화가 되는 동시에 일반생활의 개선을 끗까지 확대 관철하려는 原意의 消費組合運動이 그것이다. 여긔에서 압흐로 논하는 것은 후자에 속한다.
+
+3. 消費組合의 목적
+이상은 消費組合運動의 의의를 간단히 설명한 것이고, 다음에 消費組合의 목적은 무엇인가?
+消費組合이라는 것은 字義 그대로 소비하는 사람의 組合이다.
+그러나 소비라 하면 두 가지의 의미가 잇스니 방직업자가＜48＞ 면화로 포목을 짜내는 것도 소비는 소비요 제철업자가 그 원료를 사드려 철재를 만드는 것도 소비는 역시 소비다. 이러한 소비는 그 品物의 『사용가치』를 소모하는 것은 아니다. 직접생활의 욕망을 만족 식히기 위한 것이 아니라 그 물품을 드려서 한 달은 물품을 생산-만들어 내이기 위하야 소모 식히는 것임으로 원래의 의미의 소비가 되지 못한다.
+그러나 어느 한 개인의 직접 욕망을 위한-즉 밥을 지어먹기 위하야 쌀을 사드린다든가 옷감을 끈어서 옷을 지어 입는 것은 그 목적이 다만 소모에 근치엇지 달니 더 달은 것은 잇지안타.
+이 이윤의 현실을 위한 것이 아니라 그 반대로 (1) 일반 자본가 -특히 중간상인이 취득하는 이윤을 방지하고 자기네 조합원끼리 얼마간씩의 기금을 모아 그것으로써 자기네의 소비할 물품을 직접생산자에게서 사드려 가지고 원가에 갓가운 갑으로 나누어 쓰자는 것은 다시 말하면 중간상인들이 생산업자에게서 상품을 사다가 소비자에게 넘기면서 따먹는 리문을 업시하고 그 이익을 소비자 자신에 차지하려는 것이다.
+이것이 消費組合의 제1차적 목적이요, (2) 다음에 組合자체가 충실하고 기금이 만허지면 자기생산을 하게된다. 즉 자기네가 필요한 물품을 이번에는 달은 생산자에게서도 사지 안코 자기네의 공장을 설립하야 그곳에서 생산되는 것으로 수요를 채우자는 것이다.
+이리하야 前者 (1)은 중간 상인의 취득하는 이윤을 폐지하려는 소극적 수단이요 (2)는 생산업자의 이윤취득을 폐지하려는 적극적 수단이다.
+여긔까지에 오면 소비조합 자체에 모순이 발생되게 되나니 즉 (2)에 잇서서는 만일 소비조합이 자기 공업을 설립하고 생산을 한다면 소비조합의 목적이 『이윤의 폐지』에 잇는 것인데 역시 조합공장의 생산에 종사하는 노동자의 잉여가치를 착취하지 안느냐...는 것이다. 이것은 다음 절로 미루고 우선 소비조합의 사업과 조직을 보자.
+
+4. 소비조합의 사업과 조직
+소비조합은 일반 무산계급에 속한 소비자의 일단이 자본가에게 빼앗기는 이윤을 폐지하려는데 그 목적이 잇슴으로 이 목적에 적합한 것이면 어는 사업이든지 경영을 한다.
+물론 그네는 爲先 小許씩의 기금을 모아 가지고 그것으로써 직접 생산자에게서 일상생활의 필요품을 대량으로 사드려 가지고 그것을 다기 조합원에게 거의 원가에 각가운 갑으로 파는 것이다.
+웨 원가로 팔지 아니하고 원가에 각갑운 즉 조곰이라도 이익으 부치느냐? 하는 의문이 생기나 그것은 그 조고만 한 이익으로써 (1)조합의 常務費를 써 나가고＜49＞ (2)기본금을 적축하야 장차에 자기생산을 할 준비와 조합으로의 사회에 대한 공익사업을 경영하고 그리고 남어지는 (3)조합원간에 분배를 하는 것이다.
+여긔서 (3)에 대하야 문제가 생기는데 즉 조합원이 기금을 據出하여 가지고 그 남어지를 분배하게 되니 이 그것이 일반의 주식회사와 무엇이 달느냐...는 것이다.
+그러나 소비조합은 결코 據出한 기금의 액수에 딸어 분배를 하는 것이 아니라 개개의 조합원이 조합을 이용한 정도-즉 조합물품을 사 쓴 액수의 다소에 딸어 분배를 하게 되는 것임으로 자본본위의 보통조합이나 주식회사와는 다른 것이다.
+이리하야 조합자체의 기초가 잽히고 활동의 범위가 널버지면 다시 나아가서 전국적 연합회를 조직하여 통일된 공동구매와 집중적 생산을 경영하며 사회적으로는 교육선전 정치방면까지 활동을 하게되며 필경은 활동의 영역이 국제적으로 확대되게 되는 것이다.
+
+5. 소비조합의 사회적 활동
+在來의 소비조합은 계급운동에 대하야 중립을 직혀왓다.
+그들의 주장은 소비조합은 소비하는 사람이 모힌 조합이다. 그럼으로 가입자가 어느 계급에 속하엿건 관계치 안코 바더 드릴 수가 업다.
+그리하야 종교나 정치나 일반 노동자의 계급운동에 대하여서도 중립을 직혀왓다.
+그러나 소비조합 發達史上 전형이라 할 만한 英國의 소비조합운동이 재래의 중립성을 바리고 정치적 색채를 현져히 띄인 것으로 보드래도 압흐로는 소비조합이 그러한 중립의 무풍지대에서 서잇슬수 업시됨을 알 수가 잇다.
+그 이유는 어데 잇는가?
+第一 소비조합은 아모리 소비하는 사람이 모혀 만들은 것이라 하지만 중간 계급과 최하계급까지 전부 소비조합에 가입할 수는 업는 것이다. 즉 아모리 소비조합운동이 발달이 된다 하여도 全 사회의 -적어도 全 노동계급이 그에게 가입할 수 업는 이상 자본가의 이윤의 현실은 그대로 존속될 것이고 최고가 일부 노동자의 생활 개선에 넘어가지 못하게 될 것이다.
+第二 소비조합이 아모리 자기생산을 경영한다 하여도 그것은 결국 소규모의 것이매 현재 나날이 독점화 대자본화 하여가는 자본가적 생산과는 경쟁은 하여 나갈 수가 업슬 것이고 또 그리할 수가 잇다고 하더래도 자기생산에는 자기공장이 잇서야 하고 그러자면 역시 노동자를 사용하여야 하겟스니까 결국 노동자를 착취한다는 의미에 잇서서 자본제 생산과 달음이 업시될 것이다.
+第三 소비조합은 자본주의의 발전에 딸어 생겨난 것임으로＜50＞ 자본주의의 발전과정에 잇서서는 발전할 가능성이 잇스나 자본주의가 이미 발전의 과정에서 한거름 지나가 몰락기-독점적 금융자본주의시에 들어와서는 소비조합운동도 역시 순조의 발전을 하지 못하고 방향을 밧구어야 하게 되는 것이다.
+그 실례로는 白義耳는 본래 자본주의가 순조의 발전을 이루지 못하고 처음부터 계급대립이 심하엿든 만큼 소비조합운동도 그 정치적 색채가 현저하엿고 영국은 자본주의의 순조의 발전을 딸어 소비조합도 개량주의의 중립무풍지대에서 안전발전을 하다가 대전 후 英國의 자본주의가 압길이 맥히게 됨애 소비조합도 방향을 밧구어 중립지대로붓터 투쟁전선으로 진출하게 된 것이다.
+그럼으로 오늘날 개량주의의 진영에서 주장하는 협동조합의 본래의 이론으로는 아모러한 궁극적 가치도 발생치 못하게 된다는 것이다.
+
+6.京城女子消費組合에 대하야
+
+京城女子消費組合-즉 朝鮮의 소비조합운동은 인제 겨우 草創인만큼우리는 그것을 이러타 저러타 아닉 비평하기를 保留한다.
+압흐로 중심 인물들의 만흔 노력을 입어 잘 발전이 되기를 빌되 다만 在來에 남들이 실패한 전철을 다시 밟는다든가 (史上에 나타난 자유주의자들의 운동 그것과 가티) 중립무풍지대에서 안전을 꿈 꾼다든가 하지 아니하도록 바라는 바이다.
+또 조직에 잇서서도(물론 압흐로 그 방면에 노력이 잇겟지만) 일부 인털리겐챠나 중산계급의 가정부인이나를 중심으로 하는 것보담도 각 공장의 여공들을 만히 권유 가입토록 하기를 바란다.
+상업에 잇서서는 최초부터 자기상점을 가지는 것보담은 본의는 아니나 우선 特約店制를 당분간 採用하다가 좀 더 根地가 잽힌 뒤에 자기상점도 가지도록 할 것이며 또 무엇보담도 조합원의 『사회적 훈련』에 만흔 힘을 드리기를 바란다.
+끄트로 잉여금 분배에 잇서서 同소비조합은 조합원의 구매액수에 의하야 분배를 하지 아니하고 출금액수에 의하야 분배하기로 규약을 제정하엿다는 것은 매우 섭섭한 소식이다.
+물론 초창시대인 만큼 그러한 양보도 업지 못할 것이고 또 불순분자가 전연 업기를 바랄 수 도 업는 것이나 만일 총회 이전에 좀 더 노력을 하야 純正한 노동계급이 창립총회에 다수  출석하엿드라면 前記의 후자의 의견(구매액수에 의한 잉여금 분배설)이 그 반대설을 익이엿슬 것이 아닌가?
+끄트로 畵虎不成에 反爲狗子라는 말이 잇다. 좀 系統잇게 알기 쉽게 쓰랴든 것이 이따우로 되고 보니 미안하기 짝이 업다. 만일 자세한 참고를 하려는 사람은 우에 말한 山村喬氏의 『消費組合論』을 권하고 십다.＜51＞
+＜46-51＞

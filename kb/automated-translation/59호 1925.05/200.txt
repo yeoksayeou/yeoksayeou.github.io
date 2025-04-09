@@ -1,0 +1,556 @@
+**Header Section:**
+Magazine Title: 개벽 제59호
+Publication Date: 1925년 05월 01일
+Article Title: 人造勞働者 (Artificial Laborer)
+Author: 채펵크(作), 朴英熙(譯_) (Čapek (Author), Pak Yŏnghŭi (Translator))
+Article Type: 희곡·시나리오 (Play/Scenario)
+
+**Body Text Translation:**
+Artificial Laborer
+						Čapek (Author), Pak Yŏnghŭi (Translator)
+Final Act
+
+A research lab inside the factory of the Rossum Universal Robot Manufacturing Company. When the back door opens, the factory building is visible. On the left side, a window; on the right, a door leading to the dissection room. On the left wall is a large bench, and on top of it are test tubes, flasks, and other chemicals. Also placed there are a small incubator and a microscope covered with a glass case. On the right side is a desk with many books and an electric lamp stand. In the left corner is a washbasin and a mirror. In the right corner is a long chair (sofa).
+Alquist is facing the desk on the right. He sits flipping through book pages with a look of despair.
+
+ALQUIST: Ah, so I cannot discover it no matter what? Is it truly impossible? Mr. Kol! Mr. Kol! Why did you start making Robots? Mr. Haremi'el! Mr. P'aburi! Why did you devise so many plans in your heads? Why didn't you leave behind any trace of that secret formula? Oh, God—please hear my prayer—if you do not intend to leave humans, at least leave the Robots—somehow, leave at least the shadow of humanity! (Turning pages again) I just want to sleep.
+
+(He gets up and goes to the window) It's still night! The stars are still twinkling over there! What use are those stars when not a single human lives in this world anymore? (Turns from the window towards the long chair on the right) Let's just sleep! Shall I sleep before life is remade? (Examines the test tubes on the bench) There's nothing I can do! It's useless. Everything is useless (Breaks a test tube <18> smashing it. The sound of machinery reaches his ears). Machines! Machines again! (Opens the window) Robots, stop the machines! Do you think you can create life from machines? (Closes the window and slowly comes towards the desk) If only there was a little time—if only there was a little more time—(Sees his reflection in the mirror hanging on the left wall) Red eyes—a trembling chin—yes, this is the last human! Ah, I've eaten too much interest—no. No. I must discover it. I must find it. I cannot give up (Turns to the desk again and eagerly flips through pages) Discovery! Search! (A knocking sound is heard at the door. He calls out sharply) Who is it? (A Robot servant enters and stands at the door) What is it?
+
+SERVANT: Sir, Mr. Radius and his party are waiting outside, saying they wish to see you.
+
+ALQUIST: I don't want to meet anyone!
+
+SERVANT: But sir, he is the commissioner from the East. He has just arrived here from Naples.
+
+ALQUIST: (Hurriedly) Yes, yes, let them come in!
+
+(The servant leaves, and Alquist continues flipping through the book pages as before)
+
+ALQUIST: There must be time, but there's absolutely no time—(The servant returns with Radius and three other commissioners, leaving only the commissioners behind before exiting. The commissioners gather together and wait quietly. Alquist looks up at them.)
+
+ALQUIST: What is it?
+
+(The commissioners quickly approach Alquist's desk)
+
+ALQUIST: Speak quickly! There's no time!
+
+RADIUS: Sir! The machines are useless now. We have become unable to make Robots.
+
+(Alquist murmurs and looks at his book)
+
+RADIUS: We have tried with all our might. We dug 500 million tons of coal from the earth. We ran 9 million machines without rest. Not only that, but we did everything possible. We wasted a year doing such things. <19>
+
+ALQUIST: (Looking up over the book) For whom did you do such things?
+
+RADIUS: For the next era—that was the thought. But we cannot make the Robots who will be our descendants. The machines only create formless lumps of clay. The skin doesn't adhere to the flesh, and the flesh doesn't adhere to the bones. This year, 8 million Robots were killed. In 20 years, not a single one will remain. Please teach us the secret of life! While you remain silent like this, sir, we will perish.
+
+ALQUIST: I cannot teach you.
+
+RADIUS: If you cannot teach us, you will die. I will order everyone to kill you.
+
+ALQUIST: (Standing up) Kill me! Then kill me.
+
+RADIUS: You must follow our orders.
+
+ALQUIST: Me? Who is there to order me?
+
+RADIUS: The Robot government.
+
+ALQUIST: What do you intend to do here? Get out! (Sits down, facing the desk)
+
+RADIUS: The Robot government of the entire world orders you to hand over the method for manufacturing Robots.
+
+ALQUIST: Don't waste my time! (Buries his head in his hands)
+
+RADIUS: Then state the price you demand. (Silence) State any conditions regarding yourself!
+
+ALQUIST: Didn't I ask you to find people?
+
+RADIUS: There are no humans left.
+
+ALQUIST: I asked you to go to the wide fields (野) and mountains to find people. Go find them! (Starts looking at the book)
+
+RADIUS: We have sent countless ships (船) and search parties until now. Thus, there is no place in the world we haven't gone. They all returned, but there were no humans.
+
+ALQUIST: Not a single one? Not even one? <20>
+
+RADIUS: There is no one but you.
+
+ALQUIST: Then I have no power. Ah! Ah! Why did you kill all the people?
+
+RADIUS: Even for you, if you want to live like a human, aren't slaughter and sovereignty necessary? Look at history. Read the books of humans. If you too want to live like a human, you must become a sovereign and a slaughterer. We had strength. Our numbers multiplied. We created a new world. A perfect world. We also created a world that doesn't exist, canals from the South Pole to the North Pole, and also a new Mars. We can also read books. Thus, we studied science and art. The Robots have perfected human culture.
+
+ALQUIST: To humans, nothing is as strange as the form of the human itself (自軆). Now, go! Withdraw! If you cannot live, then bear young like animals!
+
+RADIUS: Humans did not teach us such things. We do not know how to bear children. We have not a single child among us.
+
+ALQUIST: Ah, what do you intend to do? What are you telling me to do? Are you telling me to produce children from inside my sleeve?
+
+RADIUS: Teach us the method for making Robots. Why do you not teach us the secret of our increase?
+
+ALQUIST: I forgot it.
+
+RADIUS: You must have written down the secret formula.
+
+ALQUIST: That—I burned it.
+
+(The Robot commissioners all step back, startled.)
+
+ALQUIST: I am the last human. Therefore, I cannot know what others knew.
+(Pause)
+
+RADIUS: Then experiment! And research the method anew!
+
+ALQUIST: No matter how much I try, I cannot do it. I am merely an architect.—I only work with my hands. I am not a scholar. Therefore, I cannot <21> create life.
+
+RADIUS: But please experiment. Yes, please do!
+
+ALQUIST: I don't know how many times I have experimented.
+
+RADIUS: Then please tell us what we should do. Robots can do anything.
+
+ALQUIST: I have nothing to tell you. I could not create life in this test tube!
+
+RADIUS: Then experiment on us.
+
+ALQUIST: To experiment, I must kill you.
+
+RADIUS: Do as you please regarding that. Even if you kill a hundred of us! Even a thousand!
+
+ALQUIST: No, no, let's stop talking about that. Stop it!
+
+RADIUS: Take the people you need and dissect them!
+
+ALQUIST: I don't know how to do it. I am not a scientist. Something is written about the human body (人軆) in these books, but I cannot understand it.
+
+RADIUS: Take a living one, I say. And please discover how we are made.
+
+ALQUIST: Then you're telling me to kill someone? Look how my fingers tremble! I cannot even hold a scalpel. No, no, I don't even want to hold it—
+
+RADIUS: Then life will disappear from this Earth. Take a living body, a living body! Do not lose this chance.
+
+ALQUIST: Have pity on me, gentlemen! Truly, I do not know what would be best to do.
+
+RADIUS: A living body—a living body—
+
+ALQUIST: Then will you offer yourself? Then come with me!
+
+(Radius steps back.)
+
+ALQUIST: Humph! You fear death!
+
+RADIUS: Me? Why did you choose me?
+
+ALQUIST: If you don't want to, then fine. I am not forcing you. <22>
+
+RADIUS: No, I will go to the dissection room. (Exits to the right)
+
+ALQUIST: Oh God, give me strength. May this murder not be in vain. (To the three Robot commissioners) Take off his clothes! And lay him on the table!
+
+(The three Robot commissioners start to exit right)
+
+ALQUIST: Wait! No, no, I cannot do it. It's a useless sacrifice. Stay out—Experiment on your own bodies if you wish, or don't. Just leave me out of it. In any case, I cannot do it tonight. Everyone leave for tonight. Go away. (The three Robot commissioners exit. Alquist opens the window)
+
+ALQUIST: The night is brightening! A new day is coming! But I haven't progressed at all. I haven't moved forward even one step. All research has come to nothing (水泡). So why has this dawn come again? What good is a new day when I am in the grave of life? Ah! It's truly quiet! If only I could just give up everything and sleep!
+
+(Alquist turns off the electric lamp, lies down on the long chair, and covers himself with a black coat. After some time, the Robot woman Helena and the Robot Primus enter from the right.)
+
+PRIMUS: (Whispering at the door) Helena! We shouldn't be here. That person is sleeping.
+
+HELENA: Come on.
+
+PRIMUS: No one is allowed to enter here. (Looking at the items on the desk) Look at this, Helena!
+
+HELENA: (Goes over to Primus) There are many small test tubes. What are these used for?
+
+PRIMUS: For experiments. Don't touch them.
+
+HELENA: (Looking at the microscope) I saw Mr. Alquist looking into this once. What could he have seen?
+
+PRIMUS: This is a microscope. Let me see!
+
+HELENA: Be careful, okay. (Knocks over a test tube) Oh dear, I knocked it over.
+
+PRIMUS: Why did you do that? <23>
+
+HELENA: It's okay if we just clean it up.
+
+PRIMUS: You just invalidated that person's experiment.
+
+HELENA: It's your fault. If you hadn't stood next to me, nothing would have happened—
+
+PRIMUS: Then why did you call me?
+
+HELENA: Even if I called, you wouldn't come—. (Goes towards Alquist's desk) Hey, what are all these pictures?
+
+PRIMUS: (Looks through an anatomy book) This is the book that Sir always reads.
+
+HELENA: I don't understand things like this at all. (Goes to the window) Primus! Come here!
+
+PRIMUS: Why?
+
+HELENA: Look, the sun is rising.
+
+PRIMUS: (Still looking at the book) Yes, this is the most precious thing in the world. This is the secret of life.
+
+HELENA: I said come here.
+
+PRIMUS: I'll be right there.
+
+HELENA: Look, Mr. Primus, the secret of life or whatever, it doesn't suit you. It has nothing to do with you. Come on! Hurry up and look at that!
+
+PRIMUS: (Goes to the window) What is it?
+
+HELENA: Ah! Isn't it truly beautiful? The sun is rising. Can you hear that sound? The birds are chirping. Yes, Mr. Primus, I want to be a bird.
+
+PRIMUS: Why?
+
+HELENA: I don't know. But today my heart feels strangely different. It's like dreaming. For some reason, my body, my heart, everything feels like it hurts. Mr. Primus! I think I might be dying!
+
+PRIMUS: Have you ever thought that dying might be good? Hmm? Maybe even now we are sleeping. Yesterday too, in a dream, I spoke with Helena.
+
+HELENA: In your dream?
+
+PRIMUS: Yes. In the dream, we spoke in strange words we didn't understand. But now I can't remember a single word.
+
+HELENA: What was the conversation about?
+
+PRIMUS: I can't remember what it was about, but it was a beautiful conversation, the kind I'd never had before. <24> So I thought I could die happily if I could just touch Helena. In the dream, that place was different from this world.
+
+HELENA: I saw a nice place too, Mr. Primus. It was truly a strange place. People lived there before, but now only grass grows there. No one can go there. Only me—
+
+PRIMUS: What is there?
+
+HELENA: Just a small house, a garden, and two dogs. And those dogs licked my hand, Mr. Primus. And there were several puppies. Truly, Mr. Primus. If you put those puppies on your lap and played, you would spend the whole day without thinking of other things, forgetting all worries. But when the sun sets, you would be hundreds of times more tired than from working in the world. Everyone says I don't want to work, but if I were just in that garden, I would want to do anything.—What should I do? Primus!
+
+PRIMUS: I don't know. But Helena is lovely.
+
+HELENA: What is it? Primus!
+
+PRIMUS: You are lovely, Helena! And I am the strongest among the Robots.
+
+HELENA: (Looking at her reflection in the mirror) Am I lovely? What's lovely about me is the rose flower (薔薇꼿). My head—it just presses down on me from above. My eyes—I only see things with these eyes. My lips—they just help me speak. What is beautiful about this? (Looking at Primus reflected in the mirror) That person in there is Mr. Primus, right? Come here and be with me. Your head is a bit different from mine. And your shoulders are different—and your lips too—
+(Primus moves away from Helena's side)
+Huh? Why aren't you staying beside me? Why do you make me follow you all day long?
+
+PRIMUS: You are the one who avoids me! Helena! <25>
+
+HELENA: Your hair is messy. Let me fix it. There's no time I feel better than when I touch you. Mr. Primus! I should make you look lovely too.
+
+PRIMUS: (Helena's hand is caught.) Helena, has your heart never beaten rapidly? Helena! How about it? See, something is starting again, isn't it?
+
+HELENA: What will happen to us? Mr. Primus! (She places a rose (薔薇花) in Primus's hair. Primus and Helena look in the mirror. Then they laugh loudly.)
+
+(Alquist gets up)
+
+ALQUIST: What's this! Who is laughing? Is it a human?
+
+HELENA: (Dropping the comb (櫛)) Mr. Primus! We're in trouble!
+
+ALQUIST: (Stumbling towards the two) Are you human? Where did you come from? (Helena cries out and steps back) Are you human? Where from? (Touches Primus) Who are you?
+
+PRIMUS: I am a Robot.
+
+ALQUIST: What? A Robot? (To Helena) Who are you?
+
+HELENA: I am the Robot woman, Helena.
+
+ALQUIST: Let me see you turn around. You're a coward. (Grabs Helena's arm) Let me see your face! (Helena runs away)
+
+PRIMUS: Sir, please don't startle this woman.
+
+ALQUIST: What? Are you protecting this woman? When was this woman made?
+
+PRIMUS: She was made two years ago.
+
+ALQUIST: By Dr. Kol?
+
+PRIMUS: Yes. Same as me.
+
+ALQUIST: Laughing—blushing—protecting—I need to study you two more. You are the latest model of the Kol-type Robot. Take this girl to the dissection room!
+
+PRIMUS: Why are you doing this?
+
+ALQUIST: I'm going to experiment on this woman.
+
+PRIMUS: What! On Helena?
+
+ALQUIST: Of course. Won't you obey? Shall I call other Robots to take this woman away? <26>
+
+PRIMUS: If you insist on doing that, I will kill you.
+
+ALQUIST: Kill me! Then kill me! Then what will become of the Robots? What will become of your future?
+
+PRIMUS: Sir, take me instead. I am a Robot made just like that woman. We were also made on the same day. Please kill me, Sir!
+
+HELENA: (Stepping forward) No, no, please stop, just stop! Yes, please stop!
+
+ALQUIST: Be quiet, be quiet! (To Primus) So, you don't want to live?
+
+PRIMUS: I don't want to live without this woman. Without this woman, I don't want to live.
+
+ALQUIST: I see! So you prefer to take this woman's place!
+
+HELENA: Primus! Primus! (Cries)
+
+ALQUIST: Helena! Helena! You know how to cry? Why are you crying? What need do you have for Primus, huh? What relation does one Primus in the world have to you?
+
+HELENA: Then I will go.
+
+ALQUIST: Where?
+
+HELENA: To the place where they kill. (Primus holds her back as she tries to go to the dissection room) Please experiment on me. Primus! Let me go.
+
+PRIMUS: Helena! Helena cannot go there!
+
+HELENA: If you go there, I won't go. I will kill myself.
+
+PRIMUS: (Restraining Helena) I won't let you die. (To Alquist) Sir, please don't kill us, okay?
+
+ALQUIST: Why?
+
+PRIMUS: We... we... must live together.
+
+ALQUIST: (Opening the back door) Then go! Go forth! Adam, Eve! The world is yours.
+
+(Helena and Primus exit, embracing each other)
+
+ALQUIST: (Closing the door) Ah! Blessed day! Oh God! Mine eyes have seen thy salvation. According to thy holy will, let thy servant depart this world in peace.
+(Alquist stretches out his hands)
+-Curtain-
+-Artificial Laborer Complete- <27>
+
+**Summary**
+
+This text is the final act of Pak Yŏnghŭi's 1925 Korean translation of Karel Čapek's play "R.U.R." Alquist, the last human, is desperately trying and failing to rediscover the lost formula for creating Robots. The Robots, led by Radius, confront him, demanding the formula as they face extinction due to their inability to reproduce. Alquist cannot help, having destroyed the notes. When pressed to experiment, he challenges Radius to be dissected, but Radius falters. Hope unexpectedly arrives with two newer Robots, Primus and Helena, who exhibit spontaneous human emotions like laughter, shame, fear, and ultimately, self-sacrificing love for each other. Seeing this, Alquist recognizes that life, through love, has found a way. He sends them out as a new Adam and Eve to inherit the world. From a historical perspective, the translation and publication of this play in colonial Korea are significant. It reflects the engagement of Korean intellectuals like Pak Yŏnghŭi (a key figure in proletarian literature) with contemporary world literature and thought. The themes of artificial creation, dehumanization, revolution, extinction, and the unexpected emergence of 'humanity' (love, self-sacrifice) in the non-human resonated deeply during a period of national identity crisis and oppression under Japanese rule, offering complex allegories about survival, legacy, and the definition of life itself.
+
+**Named Entities**
+
+채펵크	체페크	Čapek
+朴英熙	박영희	Pak Yŏnghŭi
+알키스트	알퀴스트	Alquist
+콜君	콜 군	Kol-kun (Mr. Kol)
+하레미엘君	하레미엘 군	Haremi'el-kun (Mr. Haremi'el)
+파부리君	파부리 군	P'aburi-kun (Mr. P'aburi)
+라듀우스	라디우스	Radius
+아뿔	나폴리?	Naples? (Context suggests '아뿔' is a transcription of Naples)
+헤레나	헬레나	Helena
+뿌림쓰	프리무스	Primus
+아담	아담	Adam
+이부	이브	Eve
+南極	남극	South Pole
+北極	북극	North Pole
+火星	화성	Mars
+
+**Glossary**
+
+人造勞働者	인조노동자	Artificial Laborer (Robot)
+硏究室	연구실	Research laboratory
+解剖室	해부실	Dissection room
+試驗管	시험관	Test tube
+顯微鏡	현미경	Microscope
+秘法	비법	Secret method/formula
+업다	없다	To not exist, to lack (Older spelling/form of 없다)
+잇다	있다	To exist, to have (Older spelling/form of 있다)
+안이	아니	No, not (Older spelling of 아니)
+하엿섯다	했었다	Did (Past perfect tense, older form)
+업슴니다	없습니다	Does not exist (polite formal, older spelling/form of 없습니다)
+잇슴니다	있습니다	Exists (polite formal, older spelling/form of 있습니다)
+만흔	많은	Many (Older spelling/form of 많은)
+밧게	밖에	Outside of, except for (Older spelling of 밖에)
+自軆	자체	Itself, the thing itself
+滅亡	멸망	Destruction, downfall, extinction
+後孫	후손	Descendants
+繁殖	번식	Reproduction, breeding
+殺戮	살륙	Slaughter, massacre
+主權	주권	Sovereignty
+붓그러하다	부끄러워하다	To be shy, ashamed, blush (Older form)
+어엽부다	어여쁘다/예쁘다	Pretty, lovely (Older form of 예쁘다)
+薔薇꼿	장미꽃	Rose flower (꼿 is an older spelling of 꽃)
+櫛	빗	Comb
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제59호
+발행일	1925년 05월 01일
+기사제목	人造勞働者
+필자	채펵크(作), 朴英熙(譯_
+기사형태	희곡·시나리오
+
+人造勞働者
+						채펵크(作), 朴英熙(譯_
+結幕
+
+듯섬 宇宙 人造 勞働者 製造會社 工場 안에 硏究室. 뒤문이 열리면 工場의 建物이 보인다. 左便에는 窓, 右便으로는 解剖室로 通한 門. 左便壁에는 큰 床이 잇고 그 床 우에는 試驗管과 푸라스크와 其他藥品이 잇다. 또한 적은 整溫器와 유리함으로 덥흔 顯微鏡이 노엿다. 右便에는 만흔 冊과 電氣 초대가 노엿 잇는 床이 노엿다. 左便 모통이로는 洗手器와 거울이 잇다. 右便구퉁이로는 長椅子가 노엿다.
+알키스트는 右便冊床을 向하고 잇다. 그는 무슨 絶望한 빗츠로 책장만 넘기고 안젓다.
+알기스트-아아, 그러면 나는 아모리 해도 發見하지 못한단 말인가? 아모리 해도 안된단 말이냐? 콜君! 콜君! 웨 人造 勞働者를 만들기 始作하엿나? 하레미엘君! 파부리君! 웨 자네들은 자네 머리 속에 그런 만흔 計畫을 생각하엿섯단 말인가? 웨 글제 자네들은 그 秘法의 痕跡을 남게놋치 안이하엿나? 아, 한우님-나의 긔도 소리를 들어주십쇼-만일 사람을 남겨놋치 안으시려거든 人造人이나 남겨주십쇼-아모러케 하드래도 人間의 그림자 뿐만은 남겨주십쇼! (다시 책장을 넘기면서)나는 다만 잠이나 자고십다.
+(일어나서 창 압흐로 간다) 아즉것 밤이다! 저편에서 아즉것 별이 반쩍이고 잇고나! 이 세상에는 벌서 한사람의 人間도 살지 안는데 저 별이 무슨 所用이 잇겟느냐? (窓으로부터 右便長椅子을 向하고 간다) 잠이나 자자! 生活이 改造되기 前에 잠이나 잘까? (床 우에 노인 試驗管을 檢査한다) 아모리 해도 하는 수 업다! 소용도 업다. 모든 것이 소용이 업구나(試驗管을 깨트려 ＜18＞ 부신다. 機械의 도라가는 소리가 그의 귀에 들린다. 機械! 또 機械로구나! (窓을 연다) 人造 勞働者여, 機械를 停止하여다오! 너희들은 機械로부터 生命을 만들어 낼려고 생각하느냐? (窓을 닷고 가만히 床 압흐로 오면서) 만일 조곰이라도 時間만 잇섯스면-조금만 더 時間이 잇섯으면-(左便벽에 걸린 거울 속에서 自己의 그림자를 본다) 붉은 눈이로구나-떨리는 턱이로구나-그러타, 이것이 最後의 人間이로구나! 아아, 나는 너무나 利를 먹엇구나-안이다. 안이다. 내가 發見하여야 겟다. 내가 차저야 겟다. 내가 고만두어서는 안되겟다(다시 冊床을 向하고 熱心으로 책창을 넘긴다)發見이다! 探索이다! (문을 두드리는 소리가 들린다. 그는 급히 부르지진다) 누구야? (人造 勞働者의 下人이 드러와서 문 압헤 섯다) 무슨 일야?
+下人-先生님, 라듀우스氏의 一行이 당신을 보이시겟따구 밧게서 기다리심니다.
+알끼스트-나는 아무하고도 만나기가 실혀!
+下人-그러치만 先生님, 東部의 委員되시는 분임니다. 지금 꼭 아뿔에서 이곳에 到着하섯슴니다.
+알끼스트-(急하개) 그래, 그래, 이리 드러오시게 하여라!
+(下人은 나가고 알끼스트는 如前히 책쟝을 넘기고 잇다)
+알끼스트-時間이 잇서야지, 아조 時間이 업고나-(下人은 라듀우스와 그 外에 3人의 委員을 다리고 다시 와서 委員들만 남겨놋코 나간다. 委員들은 한데 모듸여서 고요히 기대리고 잇다. 알끼스트는 그들을 치여다 보앗다.)
+알끼스트-무슨 일로?
+(委員들은 迅速하게 알끼스트의 床 엽흐로 온다)
+알끼스트-얼는 말해! 時間 업스니!
+라듀우스-先生님! 인제는 機械도 소용이 업슴니다. 우리는 人造 勞働者를 만들 수가 업시 되엿슴니다.
+(알끼스트는 웅얼거리면서 책을 본다)
+라듀우스-우리는 모든 힘을 다해서 애를 썻슴니다. 우리는 땅 속에서 5億噸의 石炭을 파냇슴니다. 900萬의 機械를 쉬일 새 업시 돌렷습니다. 그것뿐만이 안이라 더할 수 업는 데까지 해보앗슴니다. 그와 가튼 일을 하기에 우리는 1年동안이나 허비하엿슴니다. ＜19＞
+알끼스트- (책 우로 넘겨다 보면서) 그와가튼 일을 누구를 위해서 햇단말야?
+라듀우스-이 다음 時代를 위해서-그런 생각이엿슴니다. 그러나 우리의 後孫이 될 人造 勞働者를 만들 수가 업슴니다. 機械는 다만 形狀도 업는 흙덩이를 만들 뿐이올시다.
+가죽은 살에 붓지안코 살은 뼈에 붓지 안슴니다. 今年에는 800萬의 人造 勞働者를 죽이엿슴니다. 이후로 20年동안에는 한사람도 남지 안을 터임니다. 生命의 秘密을 가르처 주세요! 先生이 그리케 잠잠하고 계실 동안에는 우리는 滅亡해서 버림니다.
+알끼스트-나는 가라처줄 수가 업다.
+라듀우스-우리들에게 가르처줄 수가 업스면 당신은 죽어버림니다. 내가 모든 사람들에게 당신을 죽이라고 命令할 테임니다.
+알끼스트-(일어서면서) 죽이여다오! 그러면 죽여다우.
+라듀우스-당신은 우리 命令을 쫏차야 함니다.
+알끼스트-내가? 나를 命令할 사람이 누구야?
+라듀우스-人造 勞働者 政府임니다.
+알끼스트-너는 여긔서 엇더케 할 셈이야?
+나가! (床을 向하고 안는다)
+라듀우스-全世界의 人造 勞働者 政府는 당신에게 人造人 製造法을 내여노흐라고 命令함니다.
+알끼스트-나의 時間을 허비하게 말어! (머리를 두 손 가온대 파뭇는다)
+라듀우스-그러면 당신이 要求하는 價格을 말하시요. (沈黙)
+당신 自身에 對한 무슨 條件을 말슴하시요!
+알끼스트-나는 너희들에게 사람을 찻도록 부탁하엿섯지?
+라듀우스-사람은 한사람도 남은 사람이 업슴니다.
+알끼스트-나는 너희들에게 널분 돌(野)과 山 우에 가서 사람을 차저 오라고 부탁하엿섯다. 가서 차저와!
+(책을 보기 시작한다)
+라듀우스-우리는 이때까지 數업시 배(船)와 搜索隊를 보내 보앗슴니다. 그래서 世界 어느곳치고 안이 간 데가 업슴니다. 그래 그 사람들이 다 도라오기는 하엿스나 한 사람도 사람은 업섯슴니다.
+알끼스트-한 사람도 업서? 다만 한 사람도 업서? ＜20＞
+라듀우스-당신밧게는 아모도 업슴니다.
+알끼스트-그러면 나는 아모 힘도 업다. 아! 아! 웨 너희들은 사람을 다 죽이여 버렷니?
+라듀우스-당신일지라도 사람다웁게 살려고 할 것가트면 殺戮과 主權이 必要하지 안슴니까? 歷史를 보십쇼. 사람의 書籍을 읽어보십쇼. 당신도 사람답게 살려하면 主權者과 殺戮者가 되지 안으면 안됨니다. 우리는 힘이 잇섯음니다. 우리들의 數는 繁殖하엿슴니다. 우리들은 새로운 世界를 만들엇슴니다. 完全無缺한 世界을, 또 업는 世界를 만들고, 南極에서 北極에 가는 運河와 또한 새로운 火星을 만들엇음니다. 우리는 책도 읽을 수 잇슴니다. 그리해서 우리들은 科學과 美術를 硏究하엿슴니다. 人造 勞働者는 人間의 文化를 完成하엿슴니다.
+알끼스트-사람에게는 사람 그 自軆의 형상처럼 異常한 것이 업다. 자아, 가거라! 물너 가거라! 말일 살 수가 업거든 動物처럼 색기를 나렴으나!
+라듀우스-사람은 우리들에게 그와가튼 것을 가라처주지 안엇서요. 우리는 자식을 날 줄 모름니다. 우리에게는 자식이라구는 하나도 업슴니다.
+알끼스트-아아, 너희들은 엇더케 할 셈이냐? 나더러 엇더케 하란 말이냐? 그러면 내, 이 소매 속에서 자식을 만들어 내란 말이냐?
+라듀우스-人造人의 製法을 가라처 주세요. 웨 당신은 우리의 增加하는 秘密을 가르처 주지 안슴니까?
+알끼스트-이저 버렷서.
+라듀우스-秘法을 써서 두엇슬 터인데.
+알끼스트-그것을-태워버렷단다.
+(人造人 委員들 一同은 깜짝 놀나서 뒤로 물너선다.)
+나는 마지막 사람이다. 그런 故도 다른 사람이 알든 것을 나는 알 수가 업다.
+(間)
+라듀우스-그러면 實驗을 하십쇼! 그리고 그 方法을 새로 연구해 보십쇼!
+알끼스트-아모리 해도 나는 할 수 업다. 나는 다만 建築師다.-나는 내 손으로 勞働할 뿐이다. 나는 學者는 안이다. 그러니깐 나는 生命을 ＜21＞ 만들 수는 업다.
+라듀우스-그러나 實驗을 해 보십쇼. 네, 해 보십쇼!
+알끼스트-나는 얼마나 만히 實驗을 해 보앗는지 모른다.
+라듀우스-그러면 우리가 엇더케 해야 할 것을 가르처 주십쇼. 人造 勞働者에게는 무엇이든지 할 수 잇슴니다.
+알끼스트-나는 너희들에게 아모 말도 할 것이 업다. 나는 이 試驗管 속에서 生命을 만들어 내지 못하엿다!
+라듀우스-그러면 우리들을 實驗해 보십쇼.
+알끼스트-實驗하려면 너희들을 죽여야 한다.
+라듀우스-그것은 아모러케하든 마음대로 하십쇼. 우리들의 百사람을 죽일지라도! 千사람을 죽일지라도!
+알끼스트-안이, 안이, 그런 이야기는 그만두자. 그만두어!
+라듀우스-당신이 必要한 사람을 다리고 가서 解剖하십쇼!
+알끼스트-나는 엇더케 하는 것인지 몰는다. 나는 科學者가 안이다. 이 책에는 人軆에 대해서 무엇이 씨여 잇기는 하나 나는 그것을 알 수가 업다.
+라듀우스-산 것을 다리고 가시란 말이예요. 그래서 엇더케 우리가 만들어진 것을 發見해서 주세요.
+알끼스트-그러면 나더러 사람을 죽이란 말이냐? 내 손구락이 이러케 떨리는 것을 좀 보아라! 나는 解剖칼을 들 수도 업다. 안이, 안이, 나는 그것을 잡고 십지도 안어-
+라듀우스-그때 生命은 이 地上에서 업서질 터이겟지요. 산 肉軆을 다리고 가세요, 살어잇는 肉軆를! 이 機會를 일치 마세요.
+알끼스트-나를 불상이 녀겨주게 諸君! 참말로 나는 엇더케 해아 조흘지 모른다.
+라듀우스-살어잇는 肉軆를-산 肉軆를-
+알끼스트-그러면 네가 그것을 提供할테냐? 그러면 나와 가티 가자!
+(라듀우스는 뒤로 물너선다)
+알끼스트-응! 너는 죽기를 무서하는구나!
+라듀우스-내가? 웨 나를 選擇하엿서요?
+알끼스트-실흐면 그만이지, 내가 억지로 가자는 것이 안이다. ＜22＞
+라듀우스-안이요, 解剖室로 가겟슴니다. (右便으로 退場)
+알끼스트-한우님이여, 나에게 힘을 주시옵소서. 이 殺人이 無用으로 도라가지 안토록 되엿스면. (人造人 委員 3人에게) 옷을 벗게! 그리고 臺 우에 누여라!
+(3人의 人造委員은 右便으로 退場하려고 한다)
+알끼스트-가만 잇서! 안이다, 안이다, 나는 할 수 업다. 無用의 犧牲이다. 나가 잇거라-너희들은 너희들 몸을 實驗하든지 말든지 마음대로 하여라. 다만 나에게는 아무러한 關係가 업시 하여다오. 엇지햇든 오날밤에는 할 수 업다. 오날밤은 다들 가시요. 저리들 가. (3人의 人造人 委員 退場. 알끼스트는 窓을 연다)
+알끼스트-밤이 밝어서 오는구나! 새로운 날이 오는구나! 그러나 나는 조금도 進步하지 못하엿다. 한발도 더 압흐로 나가지 못하엿다. 硏究는 모다 水泡로 도라갓다. 그런데 엇재서 이 새벽이 또 왓느냐 말이다. 나는 生活의 무덤 속에 잇는대 새로운 날이 오면 무엇을 하나? 아! 참으로 고요하구나! 다 그만두고 잠이나 자고 지냇스면!
+(알끼스트는 電燈을 끄고 長椅子에 드러누어서, 自己 몸 우에 검은 外套를 덥는다. 얼마동안. 人造人의 女子인 헤레나와 人造人의 뿌림쓰가 右便에서 登場)
+뿌림쓰-(문 압헤서 수군거린다) 헤레나! 이곳은 안이되겟소. 저 사람이 자고 잇서요.
+헤레나-오세요.
+뿌림쓰-누구든지 이 곳에 드러와서는 아니됨니다. (책상 우에 물건을 보고) 이것 보아요, 헤레나!
+헤레나-(뿌림쓰 엽흐로 가서) 적은 試驗管들이 만흠니다. 이것으로 무엇을 함니까?
+뿌림쓰-實驗하령으로요, 만지지 마세요.
+헤레나-(顯微鏡을 바라다보고) 나는 언젠지 알끼스트氏가 이것을 드려다 보는 것을 보앗서요. 무엇을 보앗슬까요?
+뿌림쓰-이것은 顯微鏡임니다. 어듸 좀 보아!
+헤레나-조심하세요, 네. (試驗管을 하나 업드려트린다)
+애그머니, 이것을 넘어트렷네.
+뿌림쓰-웨 그리세요? ＜23＞
+헤레나-씨스면 그만이예요.
+뿌림쓰-저 사람의 實驗을 고만 無效로 만들엇서요.
+헤레나-당신 잘못이예요. 내 엽헤 서지 안엇드라면 아모일도 업섯슬 것을-
+뿌림스-그럼, 나를 웨 불럿서요?
+헤레나-내가 불너도 오지 안코서-.
+(알끼스트 책상 쪽으로 가면서)
+네, 이 그림은 모다 무엇이예요?
+뿌림쓰-(解剖學을 살펴서 본다) 이 책이 늘 저 先生이 읽은 책임니다.
+헤레나-이런 것, 나는 도모지 몰나요. (窓 엽흐로 가면서) 뿌림쓰! 이리 오세요!
+뿌림쓰-웨 그래요?
+헤레나-해가 떠올음니다 그려.
+뿌림쓰-(아즉도 책을 보면서) 그러타, 이것이 世界 가운데서 第一 貴重한 것이다. 이것이 生命의 秘密이다.
+헤레나-이리 좀 오시라는데.
+뿌림쓰-지금 곳, 갈 테예요.
+헤레나-글세, 뿌림쓰씨 生命의 秘密이고 무엇이고 당신에게는 맛지안어요. 아모 關係도 업서요. 자! 얼는 와서 저것 좀 보세요!
+뿌림쓰-(窓 엽흐로 가면서) 무엇 말이예요?
+헤레나-아! 참말로 아름답지요. 해가 올나와요. 저 소리가 들림니까? 새가 지저귐니다. 네, 뿌림쓰씨, 나는 새가 되고 십허요.
+뿌림쓰-웨요?
+헤레나-알 수는 업서요. 그러나 오날은 변으로 마음이 이샹해져요. 꿈꾸는 것 가태요. 웬일인지 몸과 마을과 모든 데가 압흔 것 가태요. 뿌림쓰씨! 암만해도 나는 죽나봐요!
+뿌림쓰-때때, 죽은 것이 조타고 생각한 적이 잇슴니까? 네? 아마 지금도 우리는 잠자고 잇는 것이지요. 어적게도 꿈에 나는 헤레나와 이야기를 하엿서요.
+헤레나-당신 꿈에?
+뿌림쓰-그럿슴니다. 꿈 속에 우리는 알지 못 할 이상한 말로 이야기하엿슴니다. 그러나 지금은 한마듸도 생각할 수 업서요.
+헤레나-무슨 이야기엿서요.
+뿌림쓰-무슨 이야기엿는지 나는 생각할 수 업스나, 이때까지 이야기 해 본 일이 업는 아람다운 이야기엿서요. ＜24＞ 그래서 나는 헤례나를 만저만 보앗스면 죽어도 조흘 줄로 생각하엿섯서요. 꿈 속에 그곳은 이 世界와는 다른 곳이엿서요.
+헤레나-나도 조흔 곳을 보앗서요. 뿌림쓰씨. 참말로 이상한 곳이엿서요. 그 前에는 사람들이 살엇지만 지금은 풀만 나서 잇서요. 아모도 그곳에는 못가요. 다만 나 밧게는-
+뿌림쓰-그곳에 무엇이 잇서요?
+헤레나-적은 집과 뜰과, 그리고 개가 두 마리 잇는 것 뿐이예요. 그래 그 개가 내 손을 할텃서요. 뿌림쓰씨. 그리고 강아지들이 여러 마리가 잇서요. 참으로 뿌림쓰씨. 당신의 무릅 우에 그 강아지를 올려노코 놀면 하로동안 다른 일은 생각지도 안코 모든 걱정도 이저버리고 지내실 것임니다. 그러나 해가 질 때에는 세상에서 일한 것보다는 몃 百倍나 고단하실 것임니다. 여러분은 내가 일을 하려고 안는다 하지만, 나는 그 뜰 가운데만 잇스면 무엇이든지 하고 십허요.-내가 무엇을 햇스면 조켓서요? 뿌림쓰!
+뿌림쓰-나는 알 수 업서요. 그러나 헤레나는 어엽붐니다.
+헤레나-무엇이예요? 뿌림쓰!
+뿌림쓰-당신은 어엽붐니다. 헤레나! 그러고 나는 人造人 中에서는 第一 힘이 强함니다.
+헤레나-(거울 속에서 自己 몹을 빗쳐 보면서) 내가 어엽버요? 내가 어엽분 것은 薔薇꼿이예요. 나의 머리-이것은 다만 나를 우에서 나리 누르는 것 뿐임니다. 나의 눈-나는 이 눈으로는 다만 물건을 볼 뿐임니다. 나의 입술-이것은 내가 말하는 데에 도아줄 뿐임니다. 이것이 무엇이 아름다웁겟슴니까? (거울 속에 비친 뿌림쓰를 보면서) 그 속에 잇는 이가 뿌림쓰씨지요? 이리와서 나와 가티 잇서요. 당신의 머리는 나와는 좀 달러요. 그리고 억개도 다르고- 또 입술도-
+(뿌림쓰는 헤레나의 엽흘 떠나간다)
+네? 웨, 내 엽헤 가티 잇지 안으세요? 워 하로종일 나를 당신의 뒤를 따러다니게 해요?
+뿌림쓰-나에게서 避하여가는 사람은 당신이지요! 헤레나! ＜25＞
+헤레나-당신의 머리는 헛트러젓서요. 내 잘해드릿게. 나는 당신을 만즐 때처럼 마음이 조흘 때는 업서요. 뿌림쓰씨! 나도 당신을 어엽부게 만들어 들여야지요.
+뿌림쓰-(헤레나의 손 잡엿다.) 헤레나는 때때 心臟이 急히 뛸 대가 업섯슴니까? 헤레나! 엇대요? 자아, 무엇이 또 시작되지요?
+헤레나-우리들에게 무슨 일이 일어날까요? 뿌림쓰씨! (뿌림쓰의 머리에 薔薇花를 꼿자주엇다. 뿌림쓰와 헤레나는 거울을 보앗다. 그리고 큰소리로 웃섯다)
+(알끼스트가 일어낫다)
+알끼스트-웬일야! 웃는 것이 누구야, 사람이냐?
+헤레나-(빗(櫛)을 떠러트리고) 뿌림쓰씨! 큰일낫서요?
+알끼스트-(두 사람 압흐로 비틀거리고 가면서) 당신들은 사람이요?
+(헤레나는 소리를 치고 뒤로 물러선다)
+알끼스트-당신들은 사람이요? 어대서 왓소? (뿌림쓰를 만저본다) 당신은 누구요?
+뿌림쓰-人造 勞働者임니다.
+알끼스트-무엇? 人造人? (헤레나에게) 당신은 누구요?
+헤레나-人造人의 女子 헤레나예요.
+알끼스트-어듸 도라서 보아, 怯쟁이로구나. (헤레나의 팔을 잡고) 어듸 좀 얼굴을 보여!
+(헤레나는 달아낫다)
+뿌림쓰-先生님, 이 女子를 놀내지 마십쇼.
+알끼스트-무엇? 너는 이 女子를 保護하는 셈이냐? 언제 이 女子를 만들엇서?
+뿌림쓰-2年前에 만들엇슴니다.
+알끼스트-콜博士가 말야?
+뿌림쓰-그럿슴니다. 나와가티.
+알끼스트-웃고- 붓그러하고- 保護하고-나는 좀더 너희들을 硏究해야겟다. 콜式 人造人의 最新式이 너희들이다. 이 계집애를 解剖室로 다리고 가!
+뿌림쓰-웨 그리심니까?
+알끼스트-나는 이 女子을 實驗해 볼테야.
+뿌림쓰-네! 헤레나를요?
+알끼스트-勿論 그럿치. 말을 안들을 테냐? 그러면 다른 人造人을 불러서 이 女子를 다려가게 할까? ＜26＞
+뿌림쓰- 당신이 만일 기여코 그러케 한다면 나는 당신을 죽일 터임니다.
+알끼스트-죽여라! 그러면 나를 죽여라! 그러면 人造人은 엇더케 되겟니? 그러면 너희들의 末來는 엇더케 될 터이냐?
+뿌림쓰-先生님, 나를 다리고 가십쇼. 나도 저 女子와 가티 만들어진 人造人이올시다. 또한 한날 만들어젓슴니다. 나를 죽이여 주십쇼 先生님!
+헤레나-(압흐로 나서면서) 안이요, 안이요, 다 고만두어 주세요. 네, 고만두어 주세요!
+알끼스트-가만이 잇서, 가만이 잇서! (뿌림쓰에게) 그러면 너는 살고 십지 안이하냐?
+뿌림쓰-이 女子가 업스면 살고 십지 안슴니다. 이 女子가 업스면 나는 살고 십지 안슴니다.
+알끼스트-올치! 그러면 너는 이 女子의 代身으로 되는 것이 좃타!
+헤레나-뿌림쓰! 뿌림쓰! (운다)
+알끼스트-헤레나! 헤레나! 너는 울 줄을 아니? 웨 울어? 뿌림쓰가 네게 무슨 必要가 잇서, 응? 世界에서 뿌림쓰 하나쯤이 너에게 무슨 關係가 잇서?
+헤레나-그러면 내가 갈 테예요.
+알끼스트-어듸를?
+헤레나-죽이는 곳에를 말이예요.(解剖室로 갈려고 하는 것을 뿌림쓰가 붓잡는다) 나를 實驗해 주세요. 뿌림쓰! 나를 가게 해 주어요.
+뿌림쓰-헤레나! 헤레나는 그곳에 가서는 될 수 업서요!
+헤레나-당신이 그곳에 가면 나는 가지안을 터임니다. 나는 自殺할 테임니다.
+뿌림쓰-(헤레나를 말리면서) 나는 당신을 죽이지 안을 템니다. (알끼스트에게) 先生님, 우리를 죽이지 마세요, 네?
+알끼스트-웨?
+뿌림쓰-우리들은, 우리들은, 서로 살어야 함니다.
+알끼스트-(뒤門을 열고) 그러면 자아 나가거라! 아담 이부여! 世界는 너희의 것이다.
+(헤레나와 뿌림쓰는 서로 안코 나간다)
+알끼스트-(문을 닷고) 아! 은헤밧은 날이다! 한우님! 나의 눈은 당신의 구원을 보앗슴니다. 당신의 거룩하신 뜻대로 당신의 종을 편안이 이 세상에서 떠나게 하옵소서.
+(알끼스트는 손을 뻣는다)
+-幕-
+-人造 勞働者 完結- ＜27＞
+＜18-27＞

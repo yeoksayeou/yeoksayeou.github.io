@@ -1,0 +1,298 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1935-03-01
+Article Title: 朝鮮總督府豫算案檢討 (Review of the Government-General of Korea's Budget Proposal)
+Author: 鄭秀日
+Article Type: 논설 (Editorial/Commentary)
+
+**Body Text Translation:**
+Review of the Government-General of Korea's Budget Proposal
+						Chŏng Su-il
+
+The outline of the Government-General's budget for the 10th fiscal year [Showa 10, 1935] was announced last year on September 12th, with a total budget amount of 291.5 million won. Its formal determination was unexpectedly delayed due to the Ministry of Finance's (大藏省) assessment coinciding with the convening of an extraordinary Diet session. It was finally decided in late last year [December], carried over the new year, and only formally presented to the cabinet meeting on the 8th of last month for final confirmation. The total budget amount confirmed was 288,348,000 won, a reduction of 3.51 million won from the initial request (291.5 million won). Compared to last year's budget, this is an expansion of 25,357,000 won, and compared to the settled accounts report amount of about 18 million won in Meiji 43 [1910], it is truly a 16-fold increase. This is said to be the formation of the most enormous budget since the beginning of the Government-General of Korea's administrative policies.
+
+However, the reason we put this budget on the table (俎上) for review is not just because the budget figures evoke numerical astonishment, but because this budget directly involves our interests, necessitating that we examine and review it with cool heads. Since this has only been formally decided by the cabinet meeting and the hurdle of Diet approval still remains, we cannot yet call it a completely finalized budget and offer a detailed critical review based on how it might conclude in the upcoming Diet session.
+
+First, regarding revenue (歲入), the total is 288,348,000 won. Of this, the Ordinary Section (經常部) is 240,463,000 won, an increase of 34,181,000 won compared to the 9th fiscal year's [1934] 206,282,000 won. The Extraordinary Section (臨時部) is 47,885,000 won, a decrease of 4,436,000 won compared to the 9th fiscal year's 52,321,000 won. Ultimately, looking at the change in the total revenue budget, it is an increase of 29,744,000 won compared to the 9th fiscal year's total revenue of 258,604,000 won.
+
+Next, moving to expenditure (歲出), the Ordinary Section is 209,645,000 won,<25> an increase of 25,545,000 won compared to the 9th fiscal year's Ordinary Section of 184,100,000 won. The Extraordinary Section is 78,703,000 won, an increase of 4,212,000 won compared to the 9th fiscal year's Extraordinary Section of 74,491,000 won. Consequently, looking at the change in the total expenditure budget, the 10th fiscal year's total expenditure shows an increase of 29,757,000 won compared to that of the 9th fiscal year. The general outline of the determined budget is roughly as follows (unit: thousand won):
+
+Revenue (歲入)
+Ordinary Section (經常部) 240,463
+Extraordinary Section (臨時部) 47,885
+  General Financial Resources (一般財源) 858
+  Public Bonds (公債) 24,000
+  Supplementary Funds (補充金) 12,826
+  Surplus Carried Forward (剩餘金繰入) 10,201
+Total (計) 288,348
+
+Expenditure (歲出)
+Ordinary Section (經常部) 209,645
+Extraordinary Section (臨時部) 78,703
+Total (計) 288,348
+
+Among the expenditures, the major new projects are as follows:
+(unit: thousand won)
+Manchukuo (滿洲國) Related Facilities 3,567
+Rural Development Facilities (農村振興施設) 244
+Third Pauper Relief Project (第三次窮民救濟事業) 209 (Total amount 8 million won)
+Erosion Control Project (砂防事業總額) (4.6 million won) 159
+Harbor Repair (港灣修築) (Inch'ŏn, Yŏsu, Pusan, Ch'ŏngjin) 1,500
+Additional Salt Field Expansion Cost (鹽田擴張費) 500
+Tenth Simple National Census (十年簡易國勢謂査) 153
+Government-run Rice Inspection (米檢査國營) 384 (*Corrected from 粗檢査國營*)
+Cotton Cultivation and Sheep Breeding Promotion Expenses (棉作及緬羊飼育獎勵費) 130
+Maritime Province (沿海州) Fishing Encouragement 153
+Salted Fish Shipment Encouragement (鹽魚出荷獎勵) 25
+Normal School New Establishment (師範學校新增設) 118
+25th Anniversary of Administration Commemorative Facilities (始政25年紀念施設) 180
+Mining Related Facilities (鑛業關係施設) 128
+Irrigation Association Countermeasures (水利組合對策) 1,901
+Implementation of Municipal System (府勢施行) (Taejŏn, Kwangju, Chŏnju) 39
+Agricultural Forest Land Designation (農用林地設定) 15
+Ch'up'ungnyŏng (秋風嶺) etc. Meteorological Observation Expenses 82
+New Construction of Juvenile Prison (少年刑務所新營) 100
+
+Regarding the above, the reason borrowings (차입금) are not appropriated in the 10th fiscal year budget is that the rice policy (미곡대책) is still under decision, so it seems it will be appropriated as needed in a supplementary budget next year. Although the surplus (잉여금) from the 9th fiscal year was about 17 million won, only about 8.4 million won is appropriated for the 10th fiscal year (an increase of 5.1 million won from the previous year). It is said this is because the majority of the remaining balance of 8.6 million won<26> was decided to be spent on emergency flood damage restoration costs due to the great floods in the Samnam region last summer, and the rest was kept as reserve funds (준비금) to prepare for unexpected incidents during the year.
+Also, the amount of public bonds (공채) shows a decrease of about 490,000 won compared to the 9th fiscal year. While this might indicate the authorities' efforts to add soundness (견실미) to the Government-General's finances as mentioned earlier, (20 characters unavoidably omitted here) the burden on the people (인민) due to the issuance of public bonds (the project bond issuance amount is 24 million won) will continue to increase. Therefore, looking at this budget outline overall, the assessment that it is an unprecedentedly enormous budget seems appropriate.
+
+Furthermore, looking at the reasons for the increases and decreases in the Ordinary and Extraordinary Sections, the increase in the Ordinary Section can be attributed to the natural increase in revenue resulting from the income from Type 3 income tax—personal income tax—and inheritance tax, following the tax system (세제) reorganization last year. Additionally, since revenue from government enterprises and government-owned property (官業及官有財産收入) has recently continued to show good results, the increase in that revenue can be said to have ultimately expanded the Ordinary Section's revenue. However, getting to the fundamental issue, as long as the land tax imposition (지세부과) holds the top position in tax revenue as before, the increase in Ordinary Section revenue by no means reduces the people's ability to bear the burden (부담력); it must be recognized by everyone that this cannot be called a budget formation that lessens the burden.
+
+Next, regarding expenditure, it showed an increase of 29,757,000 won. This might be considered an unavoidable increase due to the rise of erosion control and civil engineering projects (토목사업), which are direct causes related to the Samnam floods, the expansion of other new projects, and also the expansion of business due to the natural increase in revenue of business agencies, namely the expansion of railways, telegraph, telephone, salt fields, etc. However, besides this, police expenses (경찰비), which far exceed 20 million won, remain unchanged (變改), and new items like the 3.56 million won for Manchukuo-related expenses, the 5 million won for Higher Police (고등경찰) expansion (although this was reduced), and expenses for organizing irrigation associations (수리조합) were inserted. Among these, only a small amount is appropriated for improving normal school education, while other items like education supplementary funds (교육보비), social edification expenses (사회교화비), and social work (사회사업) remain insignificant, following the old ways (구태), which is an item worthy of attention. Although there are noteworthy new projects such as the pauper relief project, harbor repair project, and irrigation association relief funds, these too seem to have little direct major relevance to us, and depending on the method, disputes (시비) may arise.
+
+Extracting the "new projects" from the above expenditure budget and referencing their content and budget yields the following:
+
+Third Pauper Relief Project (第3次窮民救濟事業) = Budgeted at over 12 million won, of which the national treasury subsidy (국고보조) is 7,317,000 won. Wages (勞賃) are set to be distributed (撤布 - likely 살포 撒布, distribution) at 60% of the total budget, meaning 7.2 million won. The breakdown of project costs by type of construction is:
+(a) Road Construction (도로공사) = Carried out arbitrarily by each province, cost is over 4,448,000 won.
+(b) River Improvement Construction (하천개수공사) = 10 rivers directly controlled (직할하천) by the Government-General costing over 3.04 million won; 31 local rivers (지방하천) costing over 1.2 million won.
+(c) Fishing Port Improvement Construction (어항 개수공사) = 8 locations in total, costing 1,457,000 won.<27>
+(d) Water Supply Construction (상수도공사) = 7 locations in total, costing 877,000 won.
+(e) Sewage System and Urban Road Construction (下水道工事及市街道路工事 - *Corrected from 不水道*) = 13 locations in total, costing 976,000 won.
+Among these, major projects listed include Hamnam's (咸南) Namdaech'ŏn (南大川) at 970,000 won, Kyŏngbuk's (慶北) Kŭmhogang (琴湖江) at 530,000 won, P'yŏngnam's (平南) Pot'onggang (普通江) at 400,000 won, and the Directly Controlled River Improvement Project and Hwanghae Province's (黃海道) Yŏnp'yŏngdo (延坪島) Fishing Port Project at 350,000 won.
+
+Harbor Repair Project (港灣改修事業) = A 9-year continuing project with a total budget of 14.78 million won (original plan was 30 million won). It involves repairing various harbors like Inch'ŏn (仁川), Pusan (釜山), Yŏsu (麗水), and the Ch'ŏngjin (淸津) fishing port. The amount appropriated for this year is 1.7 million won. The plan details are:
+(1) Inch'ŏn Port (仁川港) Second Dock Construction (第2 船渠工事). 9.5 million won (Completion in Showa 18 [1943]) - Budget appropriated this year: 600,000 won.
+(2) Yŏsu Port (麗水港) Repair. 2.9 million won (Completion in Showa 13 [1938]) - Budget appropriated this year: 400,000 won.
+(3) Pusan Port (釜山港) Repair. 2 million won (Completion in Showa 13 [1938]) - Budget appropriated this year: 500,000 won.
+(4) Ch'ŏngjin Port (淸津港) Repair Construction. Details unknown (Completion in Showa 11 [1936]) - Budget appropriated this year: 200,000 won.
+
+Erosion Control Project (砂防工事事業). Under the slogan "Flood control (治水) lies in mountain management (治山)," it is set to be implemented starting this year. The total construction cost is over 60.76 million won, divided between the Naktonggang (洛東江) basin and other areas.
+The Naktonggang vicinity covers a construction area of 60,000 chōbo (町步) as a 10-year continuing project with a budget of 30 million won (*Note: text likely meant 30 million total, not 300k/yr as written - 30만원 error? Or maybe 300k initial? Needs check*). Other areas cover a construction area of 68,000 chōbo with a total construction cost of 30.7 million won. The budget appropriated for this year covers a construction area of 9,700 chōbo and amounts to 4.6 million won.
+
+Finally, let's look at what the top leadership (수뇌부) of the Government-General said immediately after announcing this budget outline.
+"The budget for the 10th fiscal year might exceed 300 million won if supplementary budgets are included later. This is an unprecedentedly large budget never before seen in Korea (朝鮮). The true value of a budget depends on its content, and although this budget formulation saw unexpected expenditures due to unforeseen natural disasters, its content is quite substantial. Also, the soundness (견실미) of the budget has been enhanced, such as by reducing the amount financed by public bonds (公債), albeit by a small amount."
+This is reported as the supplementary commentary expressing their assessment of the budget proposal formulation. Given the current financial state of Korea, the budget expands by tens of millions of won every year. While this signifies the growth of Korea's household affairs (살림사리), does the people's ability to bear the burden (부담능력) accompany it? Whenever the budget appears before our eyes (視界) with progressively larger numbers, what kind of concern do we feel (此間 10자 부득이 略 - 10 characters unavoidably omitted here)? Rather than talking about the numerical astonishment, since it directly involves our interests, we must examine its contents with clear reason (理智). (The following three lines unavoidably omitted) <28>
+
+**Summary**
+
+This 1935 editorial by Chŏng Su-il critically examines the proposed budget for the Government-General of Korea, noting its unprecedented size (nearly 290 million won, a 16-fold increase since 1910). The author details the increases in both revenue (partly due to tax changes and government enterprises) and expenditure (driven by new infrastructure projects like harbor repair, erosion control, and Manchukuo-related facilities, alongside large existing costs like police). While acknowledging some potentially beneficial projects like pauper relief and infrastructure, Chŏng questions whether the massive budget expansion truly benefits the Korean people, pointing out the continued heavy burden of land taxes, the unchanged high police spending, and the minimal allocation for education and social welfare compared to large-scale construction and control-related expenses. He urges readers to look beyond the large numbers and critically analyze the budget's implications for their lives.
+
+From a historical perspective, this article is significant as it provides a contemporary Korean critique (albeit likely censored, as indicated by omissions) of colonial fiscal policy during a period of increasing Japanese state control and expansionism (Manchukuo). It highlights the tension between the colonial government's focus on large-scale infrastructure (potentially serving Japanese strategic/economic interests like resource extraction and continental expansion) and control mechanisms (police state), versus the perceived lack of investment in direct social welfare or easing the tax burden on the Korean populace. Historians might find the detailed budget breakdown, the mention of specific projects (Manchukuo facilities, harbor expansions, Higher Police), and the author's critical tone regarding the people's burden and skewed priorities particularly revealing about the nature and impact of Japanese colonial rule in the mid-1930s.
+
+**Named Entities**
+
+朝鮮總督府	조선총독부	Government-General of Korea
+鄭秀日	정수일	Chŏng Su-il
+大藏省	대장성	Ministry of Finance (Japan)
+明治	명치	Meiji
+仁川	인천	Inch'ŏn
+麗水	여수	Yŏsu
+釜山	부산	Pusan
+淸津	청진	Ch'ŏngjin
+滿洲國	만주국	Manchukuo
+沿海州	연해주	Maritime Province
+大田	대전	Taejŏn
+光州	광주	Kwangju
+全州	전주	Chŏnju
+秋風嶺	추풍령	Ch'up'ungnyŏng
+三南	삼남	Samnam (region)
+咸南	함남	Hamnam (South Hamgyong Province)
+南大川	남대천	Namdaech'ŏn
+慶北	경북	Kyŏngbuk (North Gyeongsang Province)
+琴湖江	금호강	Kŭmhogang
+平南	평남	P'yŏngnam (South Pyongan Province)
+普通江	보통강	Pot'onggang
+黃海道	황해도	Hwanghae Province
+延坪島	연평도	Yŏnp'yŏngdo
+洛東江	낙동강	Naktonggang
+朝鮮	조선	Korea
+
+**Glossary**
+
+豫算案	예산안	Budget proposal
+槪計	개계	Outline, general plan
+객년	객년	Last year (older form of 작년)
+遲延	지연	Delay
+舊臘	구랍	Last December (older term)
+越年	월년	Pass into the new year
+각의	각의	Cabinet meeting
+사정	사정	Assessment, review (budget context)
+삭감	삭감	Reduction, cutback
+팽창	팽창	Expansion
+결산	결산	Settlement of accounts
+尤大	우대	Particularly large, enormous
+俎上	조상	On the chopping block, under scrutiny
+소이	소이	Reason, cause (older form)
+맷고	맺고	Forming, establishing (older spelling)
+음미	음미	Savor, carefully consider
+업다	없다	Not exist, be absent (older spelling)
+세입	세입	Revenue
+經常部	경상부	Ordinary Account Section
+臨時部	임시부	Extraordinary Account Section
+공채	공채	Public bonds
+補充金	보충금	Supplementary funds
+剩餘金繰入	잉여금繰入	Surplus carried forward (繰入 is Japanese usage)
+세출	세출	Expenditure
+示	시	To show, indicate (Hanja used as verb)
+如하다	여하다	Be like, as follows (older form)
+신규사업	신규사업	New projects/businesses
+窮民救濟	궁민구제	Pauper relief
+砂防事業	사방사업	Erosion control project
+港灣修築	항만수축	Harbor repair/construction
+鹽田	염전	Salt field
+國勢謂査	국세조사	National census (likely typo/older form of 국세조사)
+米檢査國營	미검사국영	Government-run rice inspection
+緬羊	면양	Sheep
+獎勵	장려	Encouragement, promotion
+師範學校	사범학교	Normal school (teacher training)
+始政	시정	Start of administration/rule
+鑛業	광업	Mining industry
+水利組合	수리조합	Irrigation association
+府勢	부제	Municipal system
+차입금	차입금	Borrowings, debt
+미곡대책	미곡대책	Rice policy/countermeasures
+잉여금	잉여금	Surplus funds
+계상되다	계상되다	Be appropriated, accounted for
+수해	수해	Flood damage
+복구비	복구비	Restoration cost
+견실미	견실미	Soundness, stability (financial)
+窺視	규시	To glimpse, discern
+인민	인민	The people
+부담	부담	Burden
+갓다	같다	Seems, appears to be (older spelling)
+세제	세제	Tax system
+官業	관업	Government enterprise
+官有財産	관유재산	Government-owned property
+지세	지세	Land tax
+수위	수위	Top position
+부담력	부담력	Ability to bear burden
+토목사업	토목사업	Civil engineering projects
+발흥	발흥	Rise, emergence
+경찰비	경찰비	Police expenses
+의연	의연	Still, as before
+變改	변개	Change, alteration
+고등경찰	고등경찰	Higher Police (Special Higher Police, Tokkō)
+삽입	삽입	Insertion
+교육보비	교육보비	Education supplementary expenses (likely 보조비)
+사회교화	사회교화	Social edification/guidance
+구태	구태	Old ways, status quo
+미미하다	미미하다	Trivial, insignificant
+괄목하다	괄목하다	To pay close attention
+돌이어	도리어	Rather, on the contrary (older spelling)
+시비	시비	Right and wrong, dispute
+추출	추출	Extraction
+국고보조	국고보조	National treasury subsidy
+勞賃	노임	Wages
+撤布	철포	Distribution (likely 살포 撒布, scattering/distribution)
+하천개수	하천개수	River improvement
+직할	직할	Direct control
+어항	어항	Fishing port
+상수도	상수도	Water supply system
+下水道	하수도	Sewage system (original had typo 不)
+船渠	선거	Dock, shipyard
+치수	치수	Flood control
+치산	치산	Mountain management, afforestation
+표어	표어	Slogan
+유역	유역	River basin
+町步	정보	Unit of area (approx. 9917 sq m)
+수뇌부	수뇌부	Top leadership
+披瀝	피력	To express, state (thoughts/feelings)
+살림사리	살림살이	Livelihood, household affairs
+누진	누진	Progressive increase
+視界	시계	Field of vision
+理智	이지	Reason, intellect
+고찰	고찰	Consideration, examination
+略	략	Omission (marker in text)
+잇서서	있어서	Regarding (older spelling)
+업는	없는	Non-existent (older spelling)
+보혓다	보였다	Showed (older spelling)
+하얏다	하였다	Did (older spelling)
+되엇다	되었다	Became (older spelling)
+달니다	달리다	Depends on (older spelling)
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	朝鮮總督府豫算案檢討
+필자	鄭秀日
+기사형태	논설
+
+朝鮮總督府豫算案檢討
+						鄭秀日
+10年 度總督府 豫算은 객년 9월 12일 그 槪計가 발표되엇섯는데 그 예산총액은 2억 9천 1백 50만원이엇섯다. 이것의 정식결정은 大藏省의 사정이 임시의회 개최 때문에 의외로 遲延되어 舊臘에 겨우 결정을 본 후 그대로 越年하야 지난 8일에 겨우 각의에 상정되어 정식으로 확정을 보앗는데 그 예산총액은 2억 8천 3십 4만 8천여원으로 최초요구액(2억 9천 1백 50만원)보다 351만원을 사정 삭감하엿다. 이것을 작년도 예산에 비하면 2천 5백 3십 5만 7천여원의 팽창이나 이것을 明治43년의 결산보고액 1,800여만원에 비하면 실로 16배에 해당하다. 이것은 朝鮮總督府 治政策 처음되는 尤大한 예산의 편성이라 한다.
+그런데 우리가 이 예산을 俎上에 올려노코 검토하랴고 하는 소이는 그 예산안이 數字적으로 경이를 늣낀다는 것보다도 이 예산이 우리에게 직접 이해관계를 맷고 잇는 까닭에 냉철한 두뇌로써 이것을 음미하고 검토할 필요가 잇는 까닭이다. 이것이 각의에서 정식으로 결정된 것 뿐이오 來 의회에서 여하한 귀결를 지을지 그 협찬이란 관문이 남어 잇는 이상 아조 확정된 예산이라고 하야 세밀한 검토비판을 내릴 수는 업다.
+
+먼저 세입에 잇서서는 총계 2억 8천 8백 3십 4만 8천원으로 그 중 經常部는 2억 4천 4십 6만 3천원으로 9년도 2억 6백 2십 8만 2천원에 비하면 3천 4백 1십 8만 천원이 증가되고 臨時部는 4천 7백 8십 8만 5천원으로 9년도 5천 2백 3십 2만 1천원에 비하면 4백 4십 3만 6천원의 감소인바 결국 세입예산총액의 증감을 보면 9년도 세입총액 2억 5천 8백 6십만 4천원에 비하야 2천 9백 7십 4만 4천원의 증가이다.
+다음으로 세출부에 들어가서 經常部는 2억 9백 6십 4만 5천원으로＜25＞ 9년도 經常部 1억 8천 4백 10만원에 비하면 2천 5백 5십 4만 5천원의 증가요 臨時部는 7천 8백 7십만 3천원으로 9년도 臨時部 7천 4백 4십 9만원에 비하야 4백 2십 1만 2천원이 증가된 바로 결국 세출예산총액의 증감을 보면 10년도 세출총액은 9년도 그것보다 2천 9백 7십 5만 7천원의 증가를 示하게 된 것이다. 이제 그 결정예산개계는 대요 좌와 여하다. (단위 천원)
+歲入
+經常部 240,463
+臨時部 47,885
+一般財源 858
+公債 24,000
+補充金 12,826
+剩餘金繰入 10,201
+計 288,348
+歲出
+經常部 209,645
+臨時部 78,703
+計 288,348
+그런대 세출중에 주요한 신규사업으로는 左와 如하다.
+(단위 천원)
+滿洲國關係施設 3,567
+農村振興施設 244
+第三次窮民救濟事業 209
+(총액800만원)
+砂防事業總額(460만원) 159
+港灣修築(仁川, 麗水, 釜山, 淸津) 1,500
+鹽田擴張費의 追加 500
+十年簡易國勢謂査 153
+粗檢査國營 384
+棉作及緬羊飼育獎勵費 130
+沿海州出漁獎勵 153
+鹽魚出荷獎勵 25
+師範學校新增設 118
+始政25年紀念施設 180
+鑛業關係施設 128
+水利組合對策 1,901
+府勢施行(大田, 光州, 全州) 39
+農用林地設定 15
+秋風嶺等氣象觀測經費 82
+少年刑務所新營 100
+이상에 잇서서 차입금이 10년도에 計上되지 안흔 것은 아직 미곡대책이 결정도중에 잇슴으로 이것은 명년도 추가 예산에 필요에 응하여 計上될 모양이오. 9년도 잉여금 약 1,700만원이나되는 것이 10년도에 약 840만원만 計上된 것은(전년보다는 510만원이 증가) 잔액 860만원의 대부분이＜26＞ 지난 여름 三南대수해로 말미암어 수해응급복구비로 지출키로 결정된 것과 연도내 돌발 사고에 비키 위하야 준비금으로 남겨둔 때문이라 한다.
+그리고 공채액은 9년도보다 49만여원의 감소를 보혓는바 이것은 전기한바 총독부재정의 견실미를 가하려는 당국의 노력이 窺視되는 바라고는 하나 (此間 20자 부득이 略함니다) 공채발행에 의한 인민의 부담 (사업공채발행액이 2천 4백만원)은 여전히 늘어갈 것이니 전체적으로 이 槪算을 보면 前古未曾有의 尤大한 예산임에 틀임업는 바라는 평이 타당할 것 갓다.
+그리고 經常部와 臨時部에 잇서서 그것의 증감유래를 보면 經常部는 작년도에 새로히 세제를 정리한 결과로 제 3종 소득세 ―개인소득세―의 수입과 상속세의 수입으로 인한 자연증수의 영향이라고 할 수 잇스며 그밧게 官業及官有財産收入이 최근 好성적을 지속하는 관계로 그 수입의 증가를 결국 경사부세입을 팽창케하엿다고 할 수 잇스나 근본문제로 들어가면 조세수입에 지세부과가 종래와 가치 수위를 차지하고 잇는 이상, 經常部의 세입증가란 결코 인민의 부담력을 감소케하는 것이 아니오. 따러 부담감의 편성이라고는 할 수 업는 것임은 누구나 인식할 바이다.
+그다음 세출에 잇서서 2천 9백 7십 5만 7천원의 증가를 보혓는데 이것은 三南수해에 직접원인인 사방사업, 토목사업의 발흥과 기타신규사업이 팽창되고 또 사업관청의 자연증수에 따러 사업의 확장 즉 철도, 전신, 전화, 염전등의 확충으로 말미암어 부득이한 증가라고 할지 몰으나 이외에 2천만원을 훨신 초과하는 경찰비가 의연 變改가 업고 356만원의 滿洲관계비, 거긔다가 5백만원의 고등경찰확장비(이것은 삭감되엇지만), 수리조합관계의 정리비등이 신규로 삽입된 까닭이오. 그 중 사범교육충실비로 약간 計上될 뿐, 기타 교육보비, 사회교화비. 사회사업등은 구태를 不見하고 미미한 것은 주목하여야 可할 세목인가 한다. 다만 궁민구제사업비, 항만개수사업비, 수리조합구제비등 신규사업으로서 괄목할 항목이 잇스나 이 역 그다지 우리에게 직접 큰 관계가 업슬 뿐, 돌이어 그 방법여하로는 시비가 업지 안흘 것 갓다.
+
+이상 세출예산중, 신규사업이라는 것을 따로 추출하야 그 사업의 내용과 예산을 참고로 지적하여 보면 다음과 갓다.
+第3次窮民救濟事業 = 예산으로는 1천 2백여만원을 計上하얏는데 그중 국고보조가 7백 3십 1만 7천원이다. 勞賃은 총예산의 6할 즉 720만원을 撤布하기로 되엇다 한다. 이것의 각종 공사별 사업비 내용인즉
+(가) 도로공사 = 각도가 임의로 행하는 것인데 공비는 4백 4십 4만 8천여원
+(나) 하천개수공사 = 총독부직할하천 10개소로 3백 4만여원, 지방하천 31개소를 1백 2십여만원
+(다) 어항 개수공사 = 전부 8개소로 1백 4십 5만 7천여원＜27＞
+(라) 상수도공사 = 전부 7개소로 8십 7만 7천원
+(마) 不水道工事及市街道路工事 = 전부 13개소로 9십 7만 6천원
+이라는 것인데 그 중에 주요한 공사로는 咸南 南大川이 97만원, 慶北 琴湖江이 53만원, 平南 普通江이 40만원 등이오, 直轄河川 改修工事 及 黃海道 延坪島 漁港工事가 35만원이라고 열거된다.
+港灣改修事業 = 9개년 계속사업으로 총예산 1천 4백 7십 8만원(원안은 3천만원)인데 仁川, 釜山, 麗水등 각 항과 淸津어항의 수축을 하기로 된 것이다-금년도 計上액은 170만원-그 계획 내용은
+(1) 仁川港 제2 船渠공사. 950만원 (昭和18년 완성)-금년도 計上 예산 60만원
+(2) 麗水港개수. 290만원 (昭和 13년 완성)-금년도 計上 예산액 40만원
+(3) 釜山港개수. 2백만원 (昭和 13년 완성)-금년도 計上 예산 50만원
+(4) 淸津港개수공사. 未詳 (昭和 11년 완성)-금년도 計上 예산액 20만원
+砂防工事事業. 「治水는 治山에 잇다」는 표어하에 금년도부터 실시하기로 되엇는바 총공비 6천 7십 6만여원으로 洛東江유역과 기타의 것을 양분하야 시행한다고 한다.
+洛東江연안은 공사면적 6만町步로 10개년 계속사업에 에산 30만원이오 기타의 것은 공사면적 6만 8천정보로 총공비는 3천 7십만인데 그 중에 금년도 計上된 예산액은 공사면적 9천 7백정보에 460만원이야한다.
+
+끗흐로 이 예산개계를 발표한 즉후 총독부 수뇌부에 말한것을 들추어 보자.
+「십년도예산은 금후추가예산까지 합한다면 3억원을 초과할지도 몰은다. 朝鮮에서는 처음보는 공전의 대예산인데 예산의 진가는 내용여하에 달닌것인데 이번 예산편성은 예기치 못한 천재로 의외의 지출을 보게 되엇스나 내용은 상당히 충실한 것이오 또 소액이나마 公債支辨額을 감소케한 등 예산의 견실미가 가하여 잇다」
+라는 예산평성안에 대한 보족적 감상담을 披瀝하엿다고 전한다. 現下朝鮮의 재정상태로 년년히 몃 천만원의 예산이 팽창된다. 이것이 조선의 살림사리가 커가는 것을 말하는 것이 되지만 그 반면에 인민의 부담능력이 수반될지? 예산이 우대한 수자로 누진되어 우리의 視界에 나타날 적마다 우리는 어떠한 관심을 갓게 되며 (此間 10자 부득이 略) 늣겻는가? 그 수자적 경이를 말한다는 것보다 우리로서의 직접 이해관계가 잇는만큼 투철한 理智로써 그 내용을 고찰하여야 한다. (이하 삼행 부득이 略)＜28＞
+＜25-28＞

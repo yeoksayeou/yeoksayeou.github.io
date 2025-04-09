@@ -1,0 +1,102 @@
+Magazine Title: 개벽 제64호
+Publication Date: 1925년 12월 01일
+Article Title: 任實小錄 (Imsil Brief Record)
+Author: Not specified
+Article Type: 소식 (News/Information)
+
+Imsil Brief Record
+Yi Sŏk-yong (李錫庸), a man from Imsil (任實), was magnanimous and upright, possessing the spirit and integrity of a true man. He was also skilled in poetry and prose. In the Eulsa year (乙巳, 1905), he raised a righteous army and operated widely throughout the Honam (湖南) region. Later, he fought disadvantageously against Japanese soldiers (日兵). Saying to himself that failing to achieve great merit while wrongly killing people was also not righteous, he disbanded his army and returned to the mountains. Afterwards, he raised troops again and, after repeated fierce battles, was finally defeated and captured. He subsequently died in Taegu (大邱) prison (at the age of 38). Three of his poems are introduced as follows:
+
+In Honam, the fourth month, pear blossoms fly,
+A scholar serving his country takes off his iron armor.
+Even the mountain birds seem to know the times are gone,
+All night they urge me, "Better to return home." (Composed when disbanding the army)
+
+Firm sincerity pierces the universe,
+Majestic righteous spirit fills mountains and rivers.
+You onlookers filling the city, do not laugh,
+A patriot's glory is abundant this day. (Composed when captured and entering Chŏnju (全州))
+
+Arriving at Wansan (完山), my parents' hometown,
+There is no road from which to gaze upon my old home.
+In prison, there is only an east-west gap,
+Through which the light of the Korean sky's (韓天) sun and moon filters in. (Composed in Chŏnju prison)
+<84>
+
+**Summary**
+
+This article briefly recounts the life of Yi Sŏk-yong, a righteous army leader from Imsil who fought against Japanese forces after 1905. Initially disbanding his troops out of concern for civilian casualties, he later resumed fighting, was captured, and died in Taegu prison at age 38. The article includes three poems written by Yi: one upon disbanding his army, another upon being paraded through Chŏnju after capture, and a third while imprisoned in Chŏnju, reflecting his patriotism and sorrow. For historians, this piece is valuable as it documents the activities and fate of a specific righteous army leader, illustrating the personal sacrifices made during the anti-Japanese resistance. The inclusion of Yi's poems provides a poignant, first-hand glimpse into the motivations, despair, and enduring patriotism of those involved in the armed struggle during the Korean colonial period.
+
+**Named Entities**
+
+李錫庸	이석용	Yi Sŏk-yong
+任實	임실	Imsil
+湖南	호남	Honam
+日兵	일병	Japanese soldiers
+大邱	대구	Taegu
+全州	전주	Chŏnju
+完山	완산	Wansan
+韓天	한천	Korean Sky
+
+**Glossary**
+
+任實小錄	임실소록	Brief record of Imsil.
+慷慨磊落	강개뇌락	Righteous and magnanimous; open-hearted.
+丈夫氣節	장부기절	The spirit and integrity of a true man.
+乙巳	을사	Eulsa year (1905).
+起義兵	기의병	To raise a righteous army.
+橫行	횡행	To operate widely; stride about freely.
+日兵	일병	Japanese soldier(s).
+解兵	해병	To disband an army.
+婁激戰	누격전	Repeated fierce battles.
+竟敗	경패	Finally defeated.
+被虜	피로	To be captured.
+獄中	옥중	In prison.
+時年	시년	Age at the time (of death).
+如左	여좌	As follows (lit. 'like the left'). Older writing convention.
+報國	보국	To serve one's country.
+書生	서생	Scholar; student.
+鐵衣	철의	Iron armor; military attire/duty.
+山雀	산작	Mountain sparrow/bunting/titmouse.
+時事	시사	Current affairs; the times.
+終宵	종소	All night long.
+不如歸	불여귀	Better to return (home); also the cuckoo's cry.
+斷斷	단단	Sincere; earnest; firm.
+誠心	성심	Sincerity; true heart.
+衝	충	To pierce; soar up to.
+宇宙	우주	Universe.
+堂堂	당당	Majestic; dignified.
+正氣	정기	Righteous spirit; integrity.
+掝	확	Fills; covers (based on context, likely meaning 遍 or 滿).
+山河	산하	Mountains and rivers; the land/country.
+滿城	만성	The whole city/town.
+觀者	관자	Onlooker; spectator.
+休相笑	휴상소	Do not laugh at me/each other.
+國士	국사	Patriot; man of national importance.
+榮光	영광	Glory; honor.
+此日	차일	This day.
+完山	완산	Wansan (old name for Chŏnju).
+父母鄕	부모향	Parents' hometown.
+故園	고원	Old home; native place.
+瞻望	첨망	To gaze at from a distance.
+東西隙	동서극	East-west gap/crack.
+漏入	누입	To leak in; filter in.
+韓天	한천	Korean sky.
+日月光	일월광	Sunlight and moonlight.
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제64호
+발행일	1925년 12월 01일
+기사제목	任實小錄
+기사형태	소식
+
+任實小錄
+李錫庸任實人, 爲人慷慨磊落有丈夫氣節, 又能詩文, 乙巳起義兵橫行湖南一帶, 後與日兵戰不利, 自謂不成大功而枉殺人民亦非義, 也乃解兵歸山其後再起兵婁激戰竟敗被虜遂
+死大邱獄中(時年三八)今紹介其詩三首如左
+湖南四月李花飛, 報國書生解鐵衣. 山雀亦知時事去, 終宵訴我不如歸.(解兵時作)
+斷斷誠心衝宇宙, 堂堂正氣掝山河. 滿城觀者休相笑, 國士榮光此日多.(被虜入全州時作)
+*到完山父母鄕, 故園無路可瞻望. 獄中惟有東西隙, 漏入韓天日月光.(全州獄中作)
+＜84＞

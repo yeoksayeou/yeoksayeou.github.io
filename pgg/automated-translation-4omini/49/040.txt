@@ -1,0 +1,151 @@
+잡지명	별건곤  
+발행일	1932년 05월 01일  
+기사제목	小作法의 制定과 小作人 (Establishment of Tenant Farming Law and Tenants)  
+필자	金東澈 (Kim Dong-cheol)  
+기사형태	논설 (Editorial)  
+
+Establishment of Tenant Farming Law and Tenants  
+						Kim Dong-cheol  
+
+I. Landlords and Tenants  
+
+Like a great tide (潮水) flowing forcefully, bursting a levee and inundating homes, capitalism's power is overtaking even small agricultural countries, commodifying all goods and concentrating the means of production—land, mines, factories, machinery, resources—in the hands of a few. As the laborer's strength is cheapened to sell, the previously self-sufficient economy is gradually disappearing, akin to the concentration of capital in the hands of a few in agriculture and industry. As a result, land is increasingly concentrated in the hands of a small number of landlords, with the number of tenants growing enormously. The following shows the relationship between landlords and tenants over the past ten years:
+
+Year	Landlords	Self-farmers	Half-tenants	Tenants	Half-firefield residents	Pure firefield residents	Total  
+1921	97,105	533,188	994,976	1,091,680	—	—	2,716,949  
+1922	99,063	534,907	971,877	1,106,598	—	—	2,712,465  
+1923	100,402	527,494	951,667	1,123,225	—	—	2,712,465  
+1924	102,183	525,689	934,208	1,142,192	—	—	2,704,273  
+1925	103,567	544,536	910,178	1,184,422	—	—	2,742,703  
+1926	104,614	525,474	895,721	1,193,099	—	34,316	2,753,497  
+1927	105,096	519,389	909,843	1,217,889	—	29,131	2,781,348  
+1928	104,601	501,983	894,381	1,255,954	—	33,269	2,799,188  
+1929	104,502	507,384	885,597	1,283,417	—	34,337	2,815,277  
+1930	104,004	504,009	890,291	1,334,139	96,508	37,514	2,869,957  
+
+This is clearly evident.
+
+II. Intensification of Tenant Disputes  
+
+Like workers who do not own factories, tenants do not own land and thus have no choice but to cultivate the landlord's land, risking their lives and laboring tirelessly. However, the income from their labor, come autumn, must be given more than half to the landlord, with whatever is left going to pay debts for seeds and fertilizer, and the basic living costs for the coming year, leaving them in a precarious state filled with worries and concerns. On top of this, when landlords face economic difficulties, they force higher rents and other burdens, leading to inevitable conflicts between landlords and tenants. The intensity of tenant disputes rises proportionally with the severity of the landlord's exploitation and the deep-rooted economic hardships of capitalism, ultimately pushing tenants toward wanting to seize land directly. The recent five-year period reflects the following statistics on tenant disputes and the number of participating tenants:
+
+Year	Number of Cases	Number of Participants	Average Participants per Case  
+1926	17 cases	1,218 people	125 people  
+1927	22 cases	3,285 people	149 people  
+1928	247 cases	3,874 people	16 people  
+1929	433 cases	5,400 people	12 people  
+1930	726 cases	12,152 people	17 people  
+
+The yearly increase in tenant disputes will escalate even further in response to the landlords' intensified aggression.
+
+III. Why Establish Tenant Laws?  
+
+With the escalation of disputes, authorities were forced to pay attention, and landlords realized they needed a convenient way to suppress these issues. Some landlords pretended to care for the tenants, showing kindness in order to temper their resentment. However, the tenants, fighting for their livelihoods, are becoming increasingly organized in their methods of resistance. In response, landlords have petitioned authorities to enact laws to curb disputes. As a result, authorities established tenant officials in the most conflict-driven areas to ensure disputes did not arise. Yet the situation necessitates stronger enforcement and thus the decision to draft tenant laws was made. Currently, two drafts are being prepared: one for tenant mediation (小作調停令) and one for tenant laws (小作令). The tenant mediation law aims to mediate tenant disputes, although the exact details are still under draft, with some elements taken from Japan's existing laws, which might serve as a partial reference.
+
+Main Points of Japan's Tenant Mediation Law  
+1. There exists a mediation body, a mediation committee. (This can be a court or appropriate individuals, but primarily consists of a committee). The committee is formed by a judge and several mediators appointed from a list selected in advance by local court heads.  
+
+2. Mediation is based on the parties involved. If there are multiple parties, representatives can be elected, also from among them.  
+
+3. Administrative bodies may participate in mediation. There is a tenant official tasked with investigating tenant relations to prevent disputes, and during mediation, they may provide opinions. The heads of counties, cities, towns, and villages can mediate and report on the incidents during mediation, though it might be evident that such individuals will favour one side over the other.  
+
+The tenant law in Japan has faced repeated failures in passing through their National Diet, and while discussing its contents would exceed the space here, the purpose of tenant laws, developed through the organization of tenant-tenant committees, is to ensure the liberation from the unreasonable and disadvantageous situations tenants find themselves in by establishing their farming rights. 
+
+IV. Tenant Laws and Tenants  
+Firstly, to establish farming rights.  
+1. Even if the land is sold, the farming rights must remain.  
+2. Acknowledgment of the opposing status regarding land ownership.  
+3. The term of farming rights should be set for over ten years.  
+4. Prohibition of seizure of farming profits.  
+5. In the case of landlords seizing land, they must provide fair compensation.  
+6. Assurance regarding contractual rights.  
+7. Abolishment of the "household reputation" system.  
+
+Secondly, to recognize collective bargaining rights.  
+1. Farmers' associations should not be restricted and should be allowed to participate in all agreements collectively.  
+
+Thirdly, to recognize the right to dispute.  
+
+**Summary**  
+
+This article discusses the establishment of tenant farming laws in the context of escalating conflicts between landlords and tenant farmers during the rise of capitalism in Korea. It highlights the increasing concentration of land ownership and the precarious living conditions of tenants, who often face exploitation at the hands of landlords. An important aspect is the systemic response from authorities, which included drafting laws intended to mediate disputes while reflecting a deeper struggle for farmers' rights. Historians may find it noteworthy that this document captures a critical moment in colonial history when Korean tenants were striving to assert their rights in a rapidly changing economic landscape dominated by Japanese capitalists.
+
+**Named Entities**  
+
+지주		ji-ju	Landlord  
+소작인		so-jak-in	Tenant  
+일본		ilbon	Japan  
+
+**Glossary**  
+
+경작권		gyeongjak-gwon	Farming rights  
+소작법		sojak-beob	Tenant law  
+단체협약권	danche-hyeob-yak-gwon Collective bargaining rights  
+쟁의권		jeng-ui-gwon	Right to dispute  
+착취		chak-chwi	Exploitation  
+불합리		bul-hapli	Irrationality  
+불리익		bulli-ik	Disadvantage  
+
+
+---------------------------
+
+
+잡지명	별건곤 제51호
+발행일	1932년 05월 01일
+기사제목	小作法의 制定과 小作人
+필자	金東澈
+기사형태	논설
+
+小作法의 制定과 小作人
+						金東澈
+一. 地主와 小作人
+큰 조수(潮水)가 아무 꺼리낌업시 도도한 물ㅅ결을 뿜으면서 제방(堤防)을 터트리고 인가(人家)를 엄습하고 전야(田野)를 물나라로 화하듯이 자본주의의 세력은 소농국(小農國)인 조서에도 뒤덥허서 모든 물건은 상품화하고 모든 생산 긔관(生産機關)〓토지(土地) 광산(鑛山) 공장(工場) 긔게(機械) 원료(原料)등은 소수자의게 독점되고 로동자의 힘은 헐한 갑스로 팔니게 되야 종래의 자작자급(自作自給) 경제는 차츰 그 자취를 감추고 농업에 잇서서 토지는 공업에 잇서서 자본이 소수자에게 집중(集中)되듯이 그와 마찬가지의 경로로 소수 지주의게 집중되야 토지겸병(土地兼倂)이 해마다 심해저 가고 소작인은 엄청난 숫자(數字)로 늘어나가는 것이다. 이제 최근 십년간에 이동된 地主와 小作人의 관게를 보면 다음과 갓다.
+
+年次        地主      自作      半小作      小作      半火田民     純火田民    計
+1921年  97,105     533,188   994,976      1,091,680        ―       ―   2,716,949
+1922年  99,063     534,907   971,877      1,106,598        ―       ―   2,712,465
+1923年  100,402    527,494   951,667      1,123,225        ―       ―   2,712,465
+1924年  102,183    525,689   934,208      1,142,192        ―       ―   2,704,273
+1925年  103,567    544,536   910,178      1,184,422        ―       ―   2,742,703
+1926年  104,614    525,474   895,721      1,193,099        ―    34,316   2,753,497
+1927年  105,096    519,389   909,843      1,217,889        ―    29,131   2,781,348
+1928年  104,601    501,983   894,381      1,255,954        ―    33,269   2,799,188
+1929年  104,502    507,384   885,597      1,283,417        ―    34,337   2,815,277
+1930年  104,004    504,009   890,291      1,334,139      96,508   37,514   2,869,957
+을 확실히 알 수 잇다.
+
+二. 小作爭議의 激化
+노동자가 공장을 가지지 못하엿슴과가티 소작인도 토지를 가지지 못하엿슴으로 지주의 토지를 경작하지 안을 수 업스니 조흐나 실흐나 거긔에 목숨을 걸고 피ㅅ땀을 흘니면서 일하는 것이다. 그러나 그 일한 소득은 가을에 가서 지주의게 절반 이상을 주고 그 남어지를 가지고 만주속 외상갑슬 물고 거름갑 외상을 물고 긔타 잡비에 쓴 묵은 빗을 물되 너푼ㅅ리자 오푼리자를 물고 나면 추수하는 그날부터 명년에 살아나갈 걱정과 근심을 하지 안으면 안되게 되는 불안한 상태에 빠지게 된다. 그 우에다가 지주는 불경긔가 되여서 지세 물기도 거북하는니 수리조합비를 부담하라느니 하야 소작료를 전보다 더 올님으로 필연적으로 리해가 충돌되야 지주와 소작인이 싸우게 되야 일으는 바 소작쟁의가 생기는 것이다. 소작쟁의는 지주의 착X가 심하면 심할사록 더 이러나는 것이요 자본주의의 불경긔가 심하면 심할사록 더 깁히 뿌리박혀서 결국 토지가 업시는 못사는 농민이 차차 토지를 직히려는 싸음까지 나가고야 말 것이다. 이제 최근 다섯해 동안의 소작쟁의 건수와 참가한 소작인 수를 보면 다음과 갓다.
+
+年次           件數        人員數    每件當平均人員
+一九二六年     17件        1,218人    125人
+一九二七年     22件        3,285人    149人
+一九二八年     247件       3,874人    16人
+一九二九年     433件       5,400人    12人
+一九三0年     726件       12,152人   17人
+
+이와가티 해마다 늘어가는 小作爭議는 지주의 공세(攻勢)가 날노 놉하감을 따라 더욱더 격화될 것이다.
+
+三. 小作法令은 왜 만드나?
+이와가티 소작쟁의가 격화하게 됨을 따라 당국은 크게 머리를 알케 되엿고 지주들은 간편하게 눌으는 방법이 잇서야 할 것을 깨달엇다. 그 중에도 엇던 지주는＜8＞ 소작인을 사랑하는 척 하고 따뜻한 정을 쓰는 척 하면서 소작인의 반감(反感)을 싯처 보랴는 수단을 쓰는 자도 잇다. 그러나 삶(生)을 위한 소작인들은 쟁의의 방법이 점점 조직적으로 되여간다. 지주들은 당국에 애원하야 쟁의를 막는 법령을 내도록 하엿다. 당국은 위선 소작관(小作官)을 두어 쟁의가 가장 심한 몃도(道)에 주재식혀서 쟁의가 못 니러나도록 하엿다. 그러나 대세는 엇절 수 업서서 좀 더 강제의힘이 잇는 법령이 아니면 안될 것이라고 생각하고 소작법령을 내기로 작정하고 위선 각지의 소작관행(小作官行)을 조사하야 두가지 법령 초안(草案)을 방금 기초(起草)중 이라는데 그 두가지 법령 중 하나는 소작조정령(小作調停令)이요 하나는 소작령(小作令)이다. 소작조정령이란 것은 글자 그대로 소작쟁의를 중재하자는 것인데 아즉 그 초안이 나오지 안엇슴으로 어떠타 말할 수는 업스나 일본에서 만들어 노흔 것을 그 골자 만들어 보면 (꼭 그와 갓다든지 그보다 못하면 못하엿지 낫다고는 할 수 업스나) 약간의 참고가 될 까 한다.
+日本小作調定法의 骨子
+一. 조정 긔관으로서 조정위원회가 잇다.(재판소만으로 할 수도 잇고 적당한 사람에게 식힐 수도 잇스나 주로 위원회가 한다) 위원회는 한 사람의 재판소 판사와 수명(數名)의 조정 위원(지방 재판소장이 미리 선택한 자 중으로 임명한다.)으로써 성립한다.
+二. 조정은 원측으로 당사자 본위로 한다. 당사자가 다수인 경우에는 소위 총대를 뽑을 수 잇는데 그것도 당사자 중에서 뽑는다.
+三. 행정긔관이 조정에 참여할 수 잇다. 조정법과 함께 소작관(小作官)이라는 것이 잇는데 이것은 평소에 소작 관게를 조사하야 쟁의가 일어나지 못하도록 힘쓰며 조정할 때는 의견을 진술하는 것이다. 그리고 郡·市·町·村長이 조정에 대한 알선을 하고 조정할 때는 사건의 경과를 보고하면 혹시는 의견을 진술하는데 그러한 지위에 잇는 사람들이 어느 쪽을 유리하게 알선할 까 하는 것은 스사로 판단되는 일이다.
+소작법은 아즉 일본앀서도 여러 차레 국회(國會)에 통과하려다가 못하고 말엇는데 그 내용을 전부 여긔에 긔록하자면 지면이 허하지 안음으로 다만 소작인측 즉 농민조합(農民組合)에서 소작법 위원회(小作法委員會)를 조직하고 「소작법의 골자」를 만드러 위원회에 보고할 때 그 「소작법의 골자」를 웨 만드럿느냐 하는 취지가 잇섯는데 이제 그것을 소개함에 끗치겟다.
+一. 前略 지주의 세력이 강대한 동안 만일 입법수단(立法手段)에 의하야 소작에 관한 특별법을 만든다고 하면 그것은 도로혀 지주의 미온한 양보를 인증하야 소작인의 투쟁력을 소멸케하고 조합의 단결적 활동을 구속하는 악법이 될 것은 명백한 일이다. 우리들은 지난 때의 노동조합법 소작 조정법(勞働組合法 小作調停法)에 의하야 눈압헤 황연히 그러한 것을 보앗다. 後略
+二. 소작법은 소작인의 불합리 불리익(不合理不利益)된 지위의 해방을 목적하는 것임으로써 경작권의 확립(耕作權確立)으로써 그 중심 안목(中心眼目)을 삼음(소작법의 골자는 지면관게로 略함)
+
+四. 小作法令과 小作人
+첫재 경작권을 확립(耕作權確立)할 것.
+1.토지를 팔더라도 경작권은 그대로 둘 것.
+2.토지소유권(土地所有權)에 대하야 대립적 지위를 인정할 것.
+3.경작권 기간을 십년 이상으로 할 것.
+4.립도차압(立稻差押)을 금지할 것.
+5.지주가 토지를 떼는 경우에는 반드시 상당한 배상(賠償)을 할 것.
+6.천변지재에 대한 보장을 할 것.
+7.사음(舍音)제도를 페지할 것.
+둘재 단체협약권(團體協約權)을 인정할 것.
+1.농민조합을 구속하지 말 것은 물논 단체적으로 모든 협약에 참여케 할 것.
+셋재 쟁의권(爭議權)을 인정할 것.＜9＞
+＜8-9＞

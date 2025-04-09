@@ -1,0 +1,56 @@
+Magazine Title: 개벽 제43호
+Publication Date: 1924년 01월 01일
+Article Title: 北關말 한마듸 (A Word of Pukkwan Dialect)
+Author: Author Not Specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+A Word of Pukkwan Dialect
+
+Question: Auntie, do you have any *pijitkae*?
+Answer: Yes, I do!
+Request: Give me one box. And give me the *sungch'ŏn*.
+Response: Here you go. The *sungch'ŏn* is ten *chŏn*.
+
+“Pijitkae” (비짓개) is “matches” (성냥) in Seoul dialect, written as “唐璜” in Hanja, and is a loanword from Russian (露語). “Sungch'ŏn” (숭쳔) is “change/balance money” (거스름돈) in Seoul dialect, and comes from the Chinese word Shengqian (勝錢).<187>
+
+**Summary**
+
+This short piece presents a brief dialogue in the Pukkwan (Hamgyŏng Province) dialect, illustrating the use of the words "pijitkae" (matches) and "sungch'ŏn" (change money). It then explains that "pijitkae" is derived from Russian and "sungch'ŏn" from Chinese, contrasting them with the standard Seoul equivalents. The article provides a glimpse into regional dialect variations and linguistic borrowing in early 20th-century Korea. For historians, it documents specific dialectal terms and highlights the cultural and linguistic influence of neighboring Russia and China on the northern regions of Korea during the colonial period.
+
+**Named Entities**
+
+北關	북관	Pukkwan
+서울	서울	Seoul
+中國	중국	China
+
+**Glossary**
+
+北關말	북관말	Pukkwan (Hamgyŏng Province) dialect
+아즈머이	아주머니	Auntie (Hamgyŏng dialect form of 아주머니)
+비지ㅅ개	비지개	Matches (Hamgyŏng dialect term, likely from Russian 'spichka'; the text uses an older spelling with ㅅ)
+잇슴둥	있습니까	Is there?/Do you have? (Hamgyŏng dialect interrogative ending)
+줍-세	주십시오/주세요	Please give (Hamgyŏng dialect request form)
+숭쳔	숭천	Change/Balance money (Hamgyŏng dialect term from Chinese 勝錢)
+닷돈	닷 돈	Five *ton* (Here used to mean 10 *chŏn* (錢), likely a colloquialism or specific usage; 1 *ton* = 10 *pun*, but *ton* could also refer to a larger unit or specific coin value contextually)
+성냥	성냥	Matches (Standard/Seoul term)
+唐璜	당황	Tanghwang (Hanja given for 'pijitkae'; likely a non-standard or erroneous transcription for matches)
+露語	노어	Russian language
+거스름돈	거스름돈	Change/Balance money (Standard/Seoul term)
+勝錢	승전	Shèngqián (Chinese origin cited for '숭천')
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제43호
+발행일	1924년 01월 01일
+기사제목	北關말 한마듸
+기사형태	잡저
+
+北關말 한마듸
+問 아즈머이 비지ㅅ개 잇슴둥?
+答 잇소꾸마!
+請 한통을 줍-세. 그리고 숭쳔을 줍-세.
+應 엣소꼬마. 숭쳔이닷돈(10錢)이라이-
+「비짓개」는 서울말로 「성냥」 漢字로 「唐璜」이니 露語 輸立이고 「숭쳔」은 서울말로 「거스름돈」이니 中國語의 勝錢이다.＜187＞
+＜187＞

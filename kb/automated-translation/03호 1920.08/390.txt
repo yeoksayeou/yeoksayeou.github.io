@@ -1,0 +1,54 @@
+Magazine Title: 개벽 제3호
+Publication Date: 1920년 08월 25일
+Article Title: [무제] ([Untitled])
+Article Type: 잡저 (Miscellaneous Writing)
+
+Labor
+Labor is Life, Thought is Light. (U-go)
+
+Old Age
+When I was young, I always spoke good words. But back then, no one paid attention to my words. Now I am an old man. And so, I always speak uninteresting words. But many people all pay attention to my words. (Samu'el)<129>
+
+**Summary**
+
+This short piece presents two aphorisms attributed to "U-go" (likely Hugo) and "Samu'el" (likely Samuel). The first equates labor with life and thought with light, emphasizing the fundamental importance of both physical work and intellectual activity. The second reflects on the irony of age: youth speaks valuable words ignored, while old age speaks uninteresting words that command attention. From a historical perspective, the emphasis on "Labor is Life" might reflect the social conditions and ideologies of the time, perhaps aligning with modernization efforts or nationalist sentiments emphasizing diligence. The reflection on age and authority offers insight into generational perspectives or societal respect for elders, even when their words lack youthful vitality, which could be particularly poignant in a rapidly changing colonial context.
+
+**Named Entities**
+
+우-고	우고	U-go
+삼우엘	사무엘	Samu'el
+
+**Glossary**
+
+勞働	노동	Labor
+生命	생명	Life
+思想	사상	Thought
+光明	광명	Light
+老年	노년	Old Age
+젊은	젊은	Young (Standard spelling of the time)
+恒常	항상	Always
+조흔	좋은	Good (Older spelling of 좋은)
+하엿다	하였다	Did (Older spelling/conjugation of 하다)
+아모도	아무도	Anyone, nobody (Older spelling of 아무도)
+말예	말에	To words (Older spelling/particle usage for 말에)
+只今	지금	Now (Hanja form common at the time)
+老人	노인	Old person
+그리하야	그리하여	And so, therefore (Older spelling of 그리하여)
+滋味업는	재미없는	Uninteresting, tasteless (Older form/spelling, lit. 'lacking flavor')
+여러	여러	Many, various
+모다	모두	All (Older spelling of 모두)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제3호
+발행일	1920년 08월 25일
+기사제목	[무제]
+기사형태	잡저
+
+勞働
+勞働은 生命이오, 思想은 光明이다. (우-고)
+
+老年
+내가 젊은 때에는, 恒常 조흔 말만 하엿다. 그러나 그때는, 아모도 내 말예 귀를 기울이지 아니 하엿다. 只今은 老人이다. 그리하야, 恒常 滋味업는 말만 한다. 그러나 여러 사람은, 내 말에 모다 귀를 기울인다. (삼우엘)＜129＞

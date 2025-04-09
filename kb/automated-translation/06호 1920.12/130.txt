@@ -1,0 +1,45 @@
+**Header Section**
+Magazine Title: 개벽 제6호
+Publication Date: 1920년 12월 01일
+Article Title: 學校及生徒(大正八年五月末日) (Schools and Students (As of the end of May, Taishō 8 [1919]))
+Author: Not specified
+Article Type: 소식 (News/Information)
+
+**Body Text Translation**
+Schools and Students
+Korean Education and Japanese Education
+<68>
+
+**Summary**
+
+This text serves as a title and subtitle, "Schools and Students (As of the end of May, Taishō 8 [1919])" and "Korean Education and Japanese Education," followed by a page number. It appears to be the heading for a news item or statistical report comparing the educational situation for Koreans and Japanese within colonial Korea as of late May 1919. The title itself, highlighting the distinct educational tracks and referencing a specific date shortly after the March 1st Movement, is significant for historians. It points towards the segregated nature of the colonial education system and likely prefaces data illustrating the disparities between the resources and opportunities available to the colonizers versus the colonized population during a period of heightened political tension and administrative review.
+
+**Named Entities**
+
+조선인	조선인	Koreans
+일본인	일본인	Japanese
+大正	대정	Taishō
+
+**Glossary**
+
+學校	학교	School
+生徒	생도	Student; Pupil (Older usage, sometimes implies specific school types or cadets)
+及	급	And; As well as (Used in Hanmun or formal writing)
+조선인	조선인	Korean person
+교육	교육	Education
+일본인	일본인	Japanese person
+末日	말일	Last day (of a month or period)
+大正	대정	Taishō (Japanese era, 1912-1926)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제6호
+발행일	1920년 12월 01일
+기사제목	學校及生徒(大正八年五月末日)
+기사형태	소식
+
+學校及生徒
+조선인 교육과 일본인 교육
+＜68＞

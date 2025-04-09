@@ -1,0 +1,74 @@
+Magazine Title: 개벽 제1호
+Publication Date: 1920년 06월 25일
+Article Title: [무제] ([Untitled])
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+Oh, Sir! If you had not lost this city, I would not have had the pleasure of recapturing it... I thank you.
+This is what Maksimasŭ (Maximus) said to Piyasŭ (Fabius?), who had previously lost said city (該都市), after recapturing a certain city (某 都市) from Hannibal. Indeed. If there is true pleasure in the world, it must be that of recapturing something already lost (旣失), at some unexpected future time (不期何日).
+
+Even if it be by the spears and guns (槍銃) of the enemy (仇讎), dying bravely in one breath is always superior to constantly fearing death (死) and seeking only to prolong life (生).
+This was Sija's (Caesar's) reply (答言) to his subordinates' (臣下) earnest plea (懇請), "Your Excellency (閣下), please strengthen your guard (警衛) more strictly." What can one possibly say to the likes (徒輩) of those who merely desire to live (生을 是欲하며) meekly and tremble in fear (戰戰히) of death (死를 是懼하는)?<63>
+
+**Summary**
+
+This short piece presents two anecdotes from Roman history. The first recounts Fabius Maximus's remark upon recapturing a city, highlighting the unique joy found in regaining what was lost. The second quotes Julius Caesar, who dismisses the need for heavy security, arguing that a brave death is preferable to a life lived in constant fear. From the perspective of Korean colonial history, these themes likely resonated deeply. The idea of recapturing something lost could be interpreted as a veiled reference to regaining national sovereignty, while Caesar's quote promotes courage and defiance against overwhelming power, potentially encouraging resistance or endurance under Japanese rule. Historians might find the use of classical Western examples to convey nationalist sentiments, likely as a way to circumvent censorship, particularly interesting.
+
+**Named Entities**
+
+막시마쓰	막시마스	Maksimasŭ
+한니발	한니발	Hannibal
+뷔야쓰	뷔야스	Piyasŭ
+시-자	시자	Sija
+
+**Glossary**
+
+都市	도시	City
+失치 안이하얏스면	잃지 아니하였으면	If (you) had not lost (Older grammatical form)
+奪回	탈회	Recapture, retake
+愉快	유쾌	Pleasure, joy
+不得하엿슬터이지	부득하였을 터이지	Would not have obtained/received (Older grammatical form)
+感謝하오	감사하오	I thank (you) (Older polite ending)
+奪還	탈환	Recapture, reclaim
+昔日	석일	Former days, old times
+該都市	해당 도시	Said city, the city in question
+見奪	견탈	To have something taken/lost (Passive-like structure using 見)
+果然하다	과연하다	Indeed, truly
+眞正한	진정한	True, genuine
+有하다	유하다	To exist, to have (Sino-Korean verb form)
+旣失	기실	Already lost
+不期何日	불기하일	At some unexpected future day/time
+仇讎	구수	Enemy, foe
+槍銃	창총	Spears and guns
+殞함	운함	To die, perish (殞 + 하다 nominalization)
+常히	상히	Always, constantly (Older spelling of '상(常)히')
+恐하며	공하며	Fearing (恐 + 하다 verb stem + connective)
+永續함	영속함	Continuing forever, perpetuating (永續 + 하다 nominalization)
+勝한	승한	Superior, better (勝 + 하다 + adjectival ending)
+閣下	각하	Your Excellency
+警衛	경위	Guard, security
+嚴重히	엄중히	Strictly, severely
+臣下	신하	Subordinate, vassal, subject
+懇請	간청	Earnest plea, request
+對한	대한	Regarding, concerning
+答言	답언	Reply, answer
+荀荀히	순순히	Meekly, obediently (often 순순히)
+是欲하며	시욕하며	Desiring this (life) (Classical Chinese influence: 是 as object pronoun)
+戰戰히	전전히	Tremblingly, fearfully
+是懼하는	시구하는	Fearing this (death) (Classical Chinese influence: 是 as object pronoun)
+徒輩	도배	Group of people, ilk (often negative)
+何事	하사	What matter, what thing
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제1호
+발행일	1920년 06월 25일
+기사제목	[무제]
+기사형태	잡저
+
+• 君이여 君이 만일 이 都市를 失치 안이하얏스면 子는 此를 奪回하는 愉快를 不得하엿슬터이지…… 나는 君에게 感謝하오.
+「막시마쓰」가 「한니발」로부터 某 都市를 奪還하고 昔日 該都市를 見奪한 「뷔야쓰」에게 일러준 말이 이말이라. 果然하다 世上에 眞正한 愉快가 有하다 하면 旣失한 것을 不期何日에 奪還하는 그것일 것이다.
+• 비록 仇讎의 槍銃이라 하라 오즉 一氣도 命을 殞함은 常히 死를 恐하며 生을 永續함에서 勝한 것이다.
+閣下시여 제발 警衛를 더 좀 嚴重히 하소서 하는 臣下의 懇請에 對한 「시-자」의 答言이다. 荀荀히 生을 是欲하며 戰戰히 死를 是懼하는 徒輩에게 족히 何事를 말하리요.＜63＞

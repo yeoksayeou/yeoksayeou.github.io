@@ -1,0 +1,43 @@
+Magazine Title: 개벽 第20호
+Publication Date: 1922년 02월 08일
+Article Title: 正誤 (Errata)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Errata
+For the January Issue:
+On page 121, 千思萬態 (Ch'ŏnsamant'ae) should be 千思萬度 (Ch'ŏnsamando).
+On page 122, 春堤의 暗黑 (Ch'unjeŭi amhŭk) should be 春堤의 暗黃 (Ch'unjeŭi amhwang).<83>
+
+**Summary**
+
+This brief article lists two corrections for the previous month's (January 1922) issue of the magazine *Gaebyeok*. It specifies word changes on pages 121 and 122. For historians, this notice offers a small glimpse into the editorial practices of a prominent Korean cultural magazine during the early colonial period, demonstrating a commitment to accuracy. The specific terms corrected (千思萬態 to 千思萬度, and 暗黑 to 暗黃 in the context of 春堤) might also be of minor linguistic interest regarding word usage at the time.
+
+**Named Entities**
+
+None identified.
+
+**Glossary**
+
+正誤	정오	Errata; Correction of errors
+一月號	일월호	January issue (Older way of writing 월)
+中	중	In; Within; Among
+千思萬態	천사만태	A thousand thoughts and myriad forms/states (Original incorrect term)
+千思萬度	천사만도	A thousand thoughts and myriad considerations/degrees (Corrected term)
+春堤	춘제	Spring embankment/dike
+暗黑	암흑	Darkness; Pitch black (Original incorrect term)
+暗黃	암황	Dark yellow; Dusky yellow (Corrected term)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제20호
+발행일	1922년 02월 08일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+一月號의
+121頁 中의 千思萬態는 千思萬度으로
+122頁 中의 春堤의 暗黑은 春堤의 暗黃으로＜83＞

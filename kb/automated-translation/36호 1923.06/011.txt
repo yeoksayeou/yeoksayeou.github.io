@@ -1,0 +1,79 @@
+Magazine Title: 개벽
+Publication Date: 1923년 06월 01일
+Article Title: 社告 (Company Announcement)
+Author: 開闢社
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Body**
+
+Company Announcement
+
+Our company's special dispatch investigators for the Kyŏngbuk trip, Ch'a Sangch'an and Yi Chaehyŏn, who departed Kyŏngsŏng at the end of last March, have now returned safely to the company at the end of this May. We thank the brothers of Kyŏngbuk who gave much support to their party during those sixty days.
+
+Pak Talsŏng, Han Chungch'ŏn, Cho Kigan, and their party are currently in the midst of investigating the P'yŏngbuk region. After finishing that work, they will immediately begin the investigation regarding Kangwŏn Province. However, concerning Kangwŏn Province, aside from the famous scenic spots such as Kŭmgangsan (Mount Kŭmgang) and the Kwandong P'algyŏng (Eight Scenic Views of Kwandong) being renowned, almost nothing else about its circumstances has been published. Therefore, our company will likewise see this task through from beginning to end with profound attention. We ask the personages of Kangwŏn to please show special understanding regarding this point.
+
+From Kaebyŏk Company <1>
+
+**Summary**
+
+The Kaebyŏk Company announces the safe return of its investigative team (Ch'a Sangch'an, Yi Chaehyŏn) from a 60-day survey of Kyŏngbuk Province, thanking locals for their support. It also reports that another team (Pak Talsŏng, Han Chungch'ŏn, Cho Kigan) is currently surveying P'yŏngbuk Province and will next investigate Kangwŏn Province. The company emphasizes the importance of the Kangwŏn survey, noting the lack of published information beyond famous tourist sites, and requests local cooperation. From a historical perspective, this announcement is interesting as it shows a Korean cultural magazine actively conducting and publicizing nation-wide surveys (踏査, t'apsa) during the Japanese colonial period. This signifies an effort to understand and represent Korea from a Korean viewpoint, potentially fostering national awareness and documenting regional realities beyond official colonial narratives or simple tourism, focusing on broader "circumstances" (事情).
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+慶北	경북	Kyŏngbuk
+車相瓚	차상찬	Ch'a Sangch'an
+李在賢	이재현	Yi Chaehyŏn
+朴達成	박달성	Pak Talsŏng
+韓重銓	한중전	Han Chungch'ŏn
+趙基栞	조기간	Cho Kigan
+平北地方	평북지방	P'yŏngbuk region
+江原道	강원도	Kangwŏn Province
+金剛山	금강산	Kŭmgangsan
+關東八景	관동팔경	Kwandong P'algyŏng
+開闢社	개벽사	Kaebyŏk Company
+
+**Glossary**
+
+社告	사고	Company announcement
+末日	말일	Last day (of the month)
+난	떠난	Left, departed (Older spelling of 떠난)
+本社	본사	This company, head office
+特派	특파	Special dispatch
+踏査員	답사원	Field investigator, surveyor
+歸社하엿슴니다	귀사하였습니다	Returned to the company (Older spelling and polite ending -슴니다 instead of -습니다)
+그間	그간	During that time, meanwhile
+爲하사	위하여	For the sake of, on behalf of (Older grammatical form)
+만흔	많은	Many, much (Older spelling)
+兄弟	형제	Brothers (here used figuratively for fellow countrymen/people)
+方今	방금	Currently, now
+踏査하는 中에 잇슴니다	답사하는 중에 있습니다	Is in the middle of investigating (Older spelling and polite ending)
+맛치고는	마치고는	After finishing (Older spelling)
+곳	곧	Immediately, soon (Older spelling)
+對한	대한	Regarding, concerning
+始作하겟슴니다	시작하겠습니다	Will begin (Older spelling and polite ending)
+喧傳되는	훤전되는	Being widely known, renowned, much talked about
+以外에	이외에	Besides, other than
+別로히	별로	Particularly, especially (Older adverbial form)
+發表된 바가 업슴으로	발표된 바가 없음으로	As nothing has been published (Older spelling and grammatical form)
+亦是	역시	Likewise, also
+甚深한	심심한	Profound, deep
+注意로써	주의로써	With attention
+終始하게 되엿사오니	종시하게 되었사오니	Will see it through from beginning to end, therefore... (Older spelling 되엿 and polite connective ending -사오니)
+人士	인사	Personages, figures, people (of a region)
+諒燭해주십시오	양촉해주십시오	Please understand, please give kind consideration (諒燭 is a formal term for understanding/scrutiny)
+白	백	Respectfully submitted by, From (Used at the end of letters/announcements)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제36호
+발행일	1923년 06월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+지난 三月 末日로써 京城을 난 慶北行의 本社 特派 踏査員 車相瓚 李在賢 一行은 今 五月 末로써 一路 無事히 歸社하엿슴니다. 그間 六十日에 그들의 一行을 爲하사 만흔 愛護를 주신 慶北의 兄弟에게 感謝함니다.
+朴達成 韓重銓 趙基栞 等 一行은 方今 平北地方을 踏査하는 中에 잇슴니다 그 일을 맛치고는 곳 江原道에 對한 踏査를 始作하겟슴니다. 그런대 江原道에 잇서는 金剛山, 關東八景 等의 名勝이 喧傳되는 以外에 다른 事情은 別로히 發表된 바가 업슴으로 本社- 亦是 甚深한 注意로써 이 일을 終始하게 되엿사오니 江原人士는 特히 이 點을 諒燭해주십시오.
+開闢社 白＜1＞

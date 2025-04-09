@@ -1,0 +1,73 @@
+**Header Section:**
+Magazine Title: 개벽 제5호
+Publication Date: [Not provided in text]
+Article Title: [무제] (Untitled)
+Author: [Unknown]
+Article Type: 잡저 (Miscellaneous writing / Essay)
+
+**Body Text Translation:**
+Japan's Marquis Ōkuma Shigenobu (大隈重信侯) once contributed planning to the Meiji Restoration (明治維新), and thereafter made many contributions to the political (政界) and academic (學界) worlds, becoming an important figure in today's Japan, a fact generally acknowledged. It is said that since his youth, he idealized greatness (大) in everything, leading him to where he is today. Previously, when a delegation of American congressmen (米國議員團) entered Japan, he welcomed the group at the great study hall (大書院) of his Waseda residence (早稻田邸) and delivered welcoming remarks. During that speech, he brought up his usual topic of the character "great" (大字問題), saying: "The American people like greatness (大). I also like greatness (大). Therefore, my surname is also Ōkuma (大隈)." And so, the magazine he is associated with is also named Taikan (大觀).<76>
+
+**Summary**
+
+This short piece discusses Ōkuma Shigenobu, a prominent Japanese figure known for his role in the Meiji Restoration and his contributions to politics and academia. It highlights his lifelong fascination with the concept and the character "大" (great/large), recounting an anecdote where he pointed out the character in his own surname (Ōkuma 大隈) and the name of his magazine (Taikan 大觀) while addressing American congressmen. From a historical perspective, the article's publication in the Korean magazine *Kaebyŏk* shows the awareness and interest among Korean intellectuals regarding influential Japanese figures during the colonial period. It reflects the flow of information about the colonizer's society and could be interpreted in various ways by historians studying Korean perspectives on Japanese leadership and culture at the time.
+
+**Named Entities**
+
+日本	일본	Japan
+大隈重信侯	대외 시게노부 후	Marquis Ōkuma Shigenobu
+明治維新	명치유신	Meiji Restoration
+米國議員團	미국 의원단	American Congressional Delegation
+早稻田邸	조도 전저 (or 와세다테이)	Waseda Residence
+大觀	대관 (or 타이칸)	Taikan (magazine name)
+
+**Glossary**
+
+일즉이	일찍이	Early on, once
+策함이 有하고	책함이 유하고	(He) had planning/strategizing (Older grammatical form: -함이 有하다 for -함이 있다/했다)
+其後	기후	Thereafter, afterwards
+尙	상	Still, furthermore
+政界	정계	Political world
+學界	학계	Academic world
+貢獻함이 多하야	공헌함이 많아서	Making many contributions (Older spelling/form: 多하야 -> 많아서/많아)
+今日	금일	Today
+重함이 된 것	중함이 된 것	The fact that (he) became important
+一般	일반	General public, generally
+認하는 것이다	인하는 것이다	Is acknowledged (Modern: 인정하는 것이다)
+自幼少時	자유소시	Since childhood
+무엇에던지	무엇에든지	In anything, regarding anything
+大를 理想하야	대를 이상하여	Idealizing greatness (大) (Older spelling: 하야 -> 하여)
+至하얏다	지하였다	Reached, arrived at (Older spelling: 하얏다 -> 하였다)
+先者	선자	Previously, the other day
+入하얏슬 時	입하였을 시	At the time when (they) entered (Older spelling: 하얏슬 -> 하였을)
+一行	일행	A group, a party, delegation
+早稻田邸	조도전저 (or 와세다테이)	Waseda Residence
+大書院	대서원	Great study hall
+迎하야	영하야	Welcoming (Older spelling: 하야 -> 하여)
+歡迎辭	환영사	Welcoming address/remarks
+述하얏는데	술하였는데	Delivered, stated (Older spelling: 하얏는데 -> 하였는데)
+演說	연설	Speech, address
+例의	예의	The usual, that particular
+大字問題	대자문제	The issue/topic of the character "大" (great)
+吐하얏스니	토하였으니	Expressed, uttered (lit. spat out) (Older spelling: 하얏스니 -> 하였으니)
+曰	왈	曰 (Classical Chinese character for "said")
+美國民	미국민	American people
+好하오	호하오	Like (Older form/spelling: 하오 is a polite ending)
+余	여	I, me (Formal pronoun, often used in classical contexts or by prominent figures)
+故로	고로	Therefore
+姓	성	Surname, family name
+이지오	이지요	It is (polite informal ending; older spelling)
+關係하는	관계하는	Related to, associated with
+雜誌	잡지	Magazine
+其名	기명	Its name
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제5호
+발행일	
+기사제목	[무제]
+기사형태	잡저
+
+日本의 大隈重信侯는 일즉이 明治維新에 策함이 有하고 其後 尙 政界 學界에 貢獻함이 多하야 今日의 日本에 重함이 된 것은 一般이 認하는 것이다. 그런데 그는 自幼少時로 무엇에던지 大를 理想하야 今日에 至하얏다. 先者 米國議員團 一行이 日本에 入하얏슬 時 그는 그 一行을 早稻田邸의 大書院으로 迎하야 歡迎辭를 述하얏는데 그 演說 中에도 例의 大字問題를 吐하얏스니 曰 「美國民은 大를 好하오. 余도 大를 好함니다. 故로 余의 姓도 大隈이지오.」하얏다. 그러니 말이지 그의 關係하는 雜誌도 其名이 大觀이다.＜76＞

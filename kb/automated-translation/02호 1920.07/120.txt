@@ -1,0 +1,56 @@
+Magazine Title: 개벽 제2호
+Publication Date: 1920년 07월 25일
+Article Title: 單線레일 汽車 (Single-line Rail Car)
+Author: (Not specified)
+Article Type: 소식 (News/Report)
+
+Single-line Rail Car
+
+There is a person who has devised a new plan to operate trains on a single-track railway by improving the double-track railway commonly used on railroads today, providing great convenience. Namely, Mr. Louis Brennan (루이, 뿌라난) of France (佛國) recently conducted the first test at the British (英國) Academy (學士院), and the results were excellent. As it was applied to practical use, the British Army Ministry (英國陸軍省) provided him with a subsidy. Thereafter, Mr. Brennan manufactured a 40-foot long passenger car in the town of Gillingham (커림콤町) on the banks of the Medway River (메도웨 河畔) and gradually made improvements while conducting operations. The results were extremely good. The expenses required for this are sufficient at approximately one-third the cost of ordinary double-track lines. In addition, it saves time and labor in construction, offering many economic benefits, while achieving a high speed of 120 miles per hour. It can truly be called an astonishing new invention. This was devised from the principle of a spinning top (回轉獨樂) that a magician makes spin completely on a single line. <42>
+
+**Summary**
+
+This news report from 1920 describes a new monorail system invented by Louis Brennan of France. Successfully tested in Britain and funded by the British Army, the system uses gyroscopic principles (like a spinning top) to run on a single track. It is touted as significantly cheaper (one-third the cost of double-track), faster (120 mph), and more efficient to build than conventional railways. For historians studying Korean colonial history, this article reveals an awareness of and interest in cutting-edge Western technology within Korea during the early colonial period. It highlights a focus on efficiency, cost reduction, and speed, potentially reflecting aspirations for modernization and progress amidst the constraints of colonial rule. The mention of military funding also subtly reflects the global context of technological development being intertwined with military interests.
+
+**Named Entities**
+
+佛國	불국	Pulguk (France)
+루이, 뿌라난	루이 브레넌	Rui Ppŭranan (Louis Brennan)
+英國	영국	Yŏngguk (Britain)
+學士院	학사원	Haksawŏn (Academy/Royal Society)
+英國陸軍省	영국 육군성	Yŏngguk Yukgunsŏng (British Army Ministry/War Office)
+메도웨 河畔	메드웨이 하반	Medowe Haban (Medway Riverbank)
+커림콤町	커림콤 정	K'ŏrimk'om-jŏng (Gillingham town)
+
+**Glossary**
+
+單線	단선	Single line
+雙線	쌍선	Double line
+軌道	궤도	Track, railway line
+改良	개량	Improvement, modification
+考出	고출	To devise, invent (Older term)
+便宣	편선	Convenience, benefit (Older term, now 편의/편리)
+學士院	학사원	Academy (of Sciences/Arts); Royal Society
+補助金	보조금	Subsidy, grant
+河畔	하반	Riverbank
+敷設	부설	Laying (of tracks, pipes, etc.), construction
+哩	마일	Mile (unit of distance)
+快速力	쾌속력	High speed
+回轉獨樂	회전독락	Spinning top, gyroscope
+하야	하여	Doing, making (Older spelling/form of 하여)
+하얏는데	하였는데	Did, but... (Older spelling/form of 하였는데)
+하얏스며	하였으며	Did, and... (Older spelling/form of 하였으며)
+謂하겟고	위하겠고	Will be called/said (Older form/spelling, now -이라 하겠고)
+-더라	-더라	(Sentence ending indicating recollection or reporting of a past fact)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	單線레일 汽車
+기사형태	소식
+
+單線레일 汽車
+今日 鐵道에 普通 使用하는 雙線 軌道를 改良하야 單線 軌道로 汽車를 運轉케 하는 新案을 考出하야 非常한 便宣를 與한 人이 有하니 卽 佛國 「루이, 뿌라난」氏는 最近 英國 學士院에서 첨으로 試驗한 結果에 成績이 良好하야 實用에 適用함으로 英國陸軍省에서는 氏에게 補助金을 與하얏는데 爾後 同氏는 『메도웨』 河畔 커림콤町에서 長 40呎의 客車를 製造하고 漸次 改良을 加하야 運轉을 行하얏는데 成績이 甚히 良好하얏스며 此에 要하는 經費는 普通 雙線의 約 三紛의 一 假量이면 足하고 其 外 敷設上 時間과 人工을 節約하야 經濟上 便益이 多한 中에 1時間 120哩의 快速力을 發함으로 實로 可驚할만한 新發明이라 謂하겟고 此는 奇術師의 行하는 一本 線上에 完全히 轉케하는 回轉獨樂팽이의 原理로부터 案出한 것이더라.＜42＞

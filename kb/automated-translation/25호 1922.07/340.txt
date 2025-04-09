@@ -1,0 +1,67 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1922년 07월 10일
+Article Title: 文藝篇 寄稿諸氏에게 (To Contributors to the Literary Section)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice / Editorial Postscript)
+
+**Body Text Translation:**
+To Contributors to the Literary Section
+
+We are truly grateful that our readers send us many writings. However, if the writing is difficult to decipher or sent in undecipherable cursive script (草書), we are utterly unable to read it piece by piece (一一).
+
+No matter how good the writing is, if we cannot read it, it inevitably becomes waste paper (休紙).
+
+In the future (日後), although it may be troublesome (手苦스러우실지라도), please write clearly (正書) on manuscript paper (原稿紙) and send it.
+
+Any manuscript paper is fine (關係치 아니하오나), but Kaebyŏk Publishing Company's (開闢社) Women's Store (婦人 買物所) also sells special Kaebyŏk (開闢) manuscript paper specifically for contributors (寄稿諸氏). The price (代金) is 50 chŏn (錢) per 100-sheet (100張) booklet (1冊), including postage (郵稅幷하여).<66>
+
+**Summary**
+
+This editorial notice thanks readers for their submissions to the literary section but politely requests that future contributions be written clearly on manuscript paper. The editors explain that illegible handwriting, especially cursive script, makes it impossible to evaluate submissions, leading to potentially good work being discarded. While any manuscript paper is acceptable, the notice also advertises that the Kaebyŏk Publishing Company sells its own branded manuscript paper for 50 chŏn per 100 sheets (including postage) through its "Women's Store." For historians, this piece offers insights into the practicalities of magazine publishing in early colonial Korea, highlighting the challenge of processing handwritten submissions and the move towards standardization using manuscript paper (原稿紙). The mention of a "Women's Store" (婦人 買物所) within the publishing house is intriguing, suggesting specific marketing or services, and the price provides a small economic data point for the era.
+
+**Named Entities**
+
+開闢社	개벽사	Kaebyŏk Publishing Company
+婦人 買物所	부인 매물소	Women's Store
+開闢	개벽	Kaebyŏk
+
+**Glossary**
+
+文藝篇	문예편	Literary Section
+寄稿	기고	Contribution, submission (of writing)
+諸氏	제씨	Gentlemen, Messrs., Everyone (here: contributors)
+讀者	독자	Reader
+만흔	많은	many (older spelling)
+感謝	감사	Gratitude, thanks
+草書	초서	Cursive script ("grass script")
+到底히	도저히	Utterly, by any means (usually with negatives)
+一一	일일	One by one, piece by piece
+업게	없게	(so as) not to exist/have (older spelling/form)
+아모리	아무리	No matter how (older spelling)
+조흔	좋은	good (older spelling)
+空然히	공연히	In vain, uselessly
+休紙	휴지	Waste paper
+日後	일후	In the future, henceforth
+手苦	수고	Trouble, effort
+原稿紙	원고지	Manuscript paper
+正書	정서	Clear handwriting, standard script
+關係치 아니하오나	관계치 아니하나	It doesn't matter, but... (older form)
+爲하야	위하여	For the sake of (older spelling/form)
+代金	대금	Price, cost
+張	장	Sheet (counter for paper)
+冊	책	Booklet, volume (counter)
+郵稅幷하여	우세병하여	Including postage
+錢	전	Chŏn (monetary unit)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제25호
+발행일	1922년 07월 10일
+기사제목	文藝篇 寄稿諸氏에게
+기사형태	사고·편집후기
+
+文藝篇 寄稿諸氏에게
+우리 讀者 여러분이 만흔 글을 보내 주심은 참 感謝합니다. 그러나 그 글이 잘 알아 보지 못하게 되거나 또는 알지 못할 草書로써 보내신 이에게는 到底히 그것을 一一이 볼 수가 업게 됩니다. 아모리 조흔 글이라도 보지 못하면 空然히 休紙로 돌아가고 맙니다. 日後는 手苦스러우실지라도 原稿紙에 正書하여 보내시기를 바랍니다. 原稿紙는 아모 原稿紙라도 關係치 아니하오나 開闢社 婦人 買物所에서도 特히 寄稿諸氏를 爲하야 開闢 原稿를 팝니다. 代金은 100張 1冊에 郵稅幷하여 50錢입니다.＜66＞

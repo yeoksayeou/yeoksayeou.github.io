@@ -1,0 +1,53 @@
+Magazine Title: 개벽
+Publication Date: 1920년 06월 25일
+Article Title: 옥가루 (Jade Powder)
+Author: Not specified
+Article Type: 시 (Poem)
+
+At sunset on Namsan (黃昏南山), revival's work, urging revival, it cries, "Revive! Revive! (復興復興)".
+
+On the late mountain in the twilight night (晩山暮夜), urging on the work with quick reading (?), it shouts, "Hurry! Hurry! Hurry! Hurry! (速速速速)".
+
+Frogs that met Kyŏngch'ip (驚蟄맛난 개구리) say they will do that work, crying, "All! All! All! All! (皆皆皆皆)".<37>
+
+**Summary**
+
+This short poem, titled "Jade Powder," uses imagery of nature and time (sunset on Namsan, frogs awakening at Kyŏngch'ip) coupled with repetitive Hanja characters (復興 'revival', 速 'hurry', 皆 'all') to convey a strong sense of urgency and collective action towards an unnamed "사업" (undertaking or work). The poem evokes sounds—the call for revival, the cry to hurry, the croaking of frogs—transforming them into a chorus demanding progress and unity. From the perspective of Korean colonial history, this poem, published in *Kaebyŏk* (often associated with nationalist and socialist ideas) shortly after the 1919 March 1st Movement, is significant. Historians might find its coded language and allegorical style interesting, reflecting how nationalist sentiments and calls for collective effort (likely towards independence or national strengthening) were expressed under Japanese censorship, using nature and repetitive sounds/characters to imply urgency and widespread participation.
+
+**Named Entities**
+
+南山	남산	Namsan
+
+**Glossary**
+
+개벽	개벽	Creation; The Beginning (Magazine Title)
+옥가루	옥가루	Jade Powder (Article Title)
+黃昏	황혼	Sunset; twilight
+南山	남산	Namsan (mountain in Seoul)
+부흥	부흥	Revival; restoration
+復興	부흥	Revival; restoration
+사업	사업	Work; project; undertaking
+晩山	만산	Late mountain (mountain in the late day/evening)
+暮夜	모야	Twilight night
+독촉	독촉	Urging; pressing
+速	속	Quick; fast; hurry
+웨이네	외치네	(it) shouts/cries out (older form/dialect)
+驚蟄	경칩	Kyŏngch'ip (Solar term: Awakening of Insects, early March)
+맛난	만난	Met; encountered (older spelling of 만난)
+개구리	개구리	Frog
+皆	개	All; everyone (also mimics frog sound 'kae')
+우놋다	운다	(it) cries/croaks (older grammatical form)
+
+
+---------------------------
+
+
+잡지명	개벽 제1호
+발행일	1920년 06월 25일
+기사제목	옥가루
+기사형태	시
+
+옥가루
+黃昏南山 부흥이 사업 부흥하라고 復興復興하누나.
+晩山暮夜 속독시 사업독촉 하여서 速速速速 웨이네.
+驚蟄맛난 개구리 사업 저다하겟다 皆皆皆皆 우놋다.＜37＞

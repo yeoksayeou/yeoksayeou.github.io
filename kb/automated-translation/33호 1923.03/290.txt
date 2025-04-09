@@ -1,0 +1,258 @@
+Magazine Title: 개벽 제33호
+Publication Date: 1923년 03월 01일
+Article Title: 管絃樂의 이약이 (Story of Orchestral Music)
+Author: 洪永厚
+Article Type: 논설 (Editorial/Essay)
+
+Story of Orchestral Music
+						Hong Yŏnghu
+
+Broadly classifying music by form, there are two types: vocal music and instrumental music. The orchestral music I intend to speak about now, of course, belongs to the latter. Looking at recent concert programs, one can occasionally find terms like "orchestral music" or "orchestral ensemble." However, what constitutes true orchestral music, or what necessary conditions exist to organize a complete orchestra, is considered quite a significant issue.
+
+When I wrote about opera previously, I cited the term "orchestral music" several times, but what exactly does orchestral music signify? Interpreting it literally and simply, it means the music of wind and string instruments. In fact, that is what it is. However, as there are numerous types of wind instruments, and truly diverse kinds of string instruments, it stands to reason that considerable effort is required to fuse and unify these various instruments with different timbres under a single melody. Not only that, but even among the same orchestral instruments, some are not used in orchestral ensembles, and there are times when instruments outside the scope of wind and strings (such as percussion instruments) are necessarily utilized. Thus, without knowing the nature of orchestral compositions or their arrangement methods, one would also not know what constitutes perfectly complete orchestral music.
+
+While music played in ensemble by mandolins, violins, pianos, or trumpet and flute types is not necessarily *not* a kind of small orchestra, orchestral music, being the most developed and most perfect music among all music, is not something so simple and inferior. Even speaking only of a simple orchestral ensemble, which is just a part of orchestral music, what a stark difference there is, both in form and content, between the music played by the band in a moving picture house and the music played by the Kyŏngsŏng Band! Considering this, one can well <8> infer how much difference in quality and quantity, as well as artistic value, exists between a 2-3 type orchestral ensemble and a complete, organized orchestra.
+
+Before discussing the arrangement method of an orchestra, I first intend to distinguish the types of orchestral instruments. Firstly, regarding the types of wind instruments:
+
+1. Flute Types: Flute (Transverse Flute), Piccolo (High-pitched Transverse Flute), etc.
+2. Reed Types: Oboe, Clarinet, Bassoon (파-콧트), etc.
+3. Brass Types: Horn, Cornet, Trumpet (트럼뻔), Trumpet (트럼뻿트), Tuba, etc.
+
+These are as listed above. Next, regarding the types of string instruments, percussion instruments, and keyboard instruments:
+
+String Instruments
+1. Plucked String Instruments: Harp, Mandolin, Guitar, Banjo, etc.
+2. Bowed Instruments: Violin, Viola, Cello, Double Bass, etc.
+
+Percussion Instruments
+1. Those based on rod vibration: Triangle, Xylophone, etc.
+2. Those based on plate vibration: Cymbals, Bells, etc.
+3. Those based on membrane vibration: Large & Small Drums, Timpani, etc.
+
+Keyboard Instruments
+1. Those using pipes: Pipe Organ (管風琴)
+2. Those using reeds: Harmonium, Reed Organ (commonly called pump organ)
+3. Those using strings: Piano
+
+They are roughly as shown above. However, I cannot explain each of these various instruments individually now, but I intend to speak briefly only about those instruments specifically used in orchestral music. (Things we often hear and see like the mandolin or pump organ are not used in orchestral music.) <9>
+
+Instruments Used for Orchestral Ensemble
+String Instruments - Violin, Viola, Cello, Double Bass (also called Contrabass).
+Wind Instruments - Woodwind Instruments Flute Types - Flute, Piccolo.
+Single Reed - Clarinet, Bass Clarinet.
+Double Reed - Oboe, English Horn, Bassoon, Contrabassoon.
+Brass Instruments French Horn, Trumpet, Trombone (트럼삔), Tuba.
+Percussion Instruments - Timpani, Snare Drum, Bass Drum, Cymbals (쎌), Triangle, Tambourine, etc.
+
+That is, an orchestral ensemble possesses the characteristic feature where a section of string instruments, a section of woodwind instruments, or a section of brass instruments stand opposite each other, each playing a distinct harmonic body. However, percussion instruments among them do not form an independent section but are merely used to strengthen the beat or embellish the melody. The three sections capable of playing a harmonic body are similar to the four-part chorus in vocal music; just as voices have high, middle, secondary middle, and low ranges, orchestral instruments also have these. Illustrating these respectively results in the table below.
+
+String Instrument Section (High part "Soprano") - 1st Violin
+(Middle part "Alto") - 2nd Violin
+(Secondary Middle part "Tenor") - Viola
+(Low part "Bass") - Cello
+(Lowest part "Contrabass") - Contrabass
+
+In this format, this section alone can independently perform a string ensemble; the string quartet commonly used in chamber music refers to an ensemble of four types of instruments: 1st and 2nd violins, viola, and cello.
+Incidentally, the person who first included the violin in orchestral music was Mr. Monteverdi (『몬테벨듸』씨), a composer from the city of Venice in the country of Italy during the mid-17th century. It is said that the viola (slightly larger in body than the violin) was used in orchestras even earlier than that. Also, although it is unknown which era or which musician began using the contrabass, it seems to have been widely used since the time of the greatest musical saint of Germany in the early 19th century, Beethoven (『벳토벤』). <10>
+
+Generally, the string instrument section, with its smooth and clear timbre, possesses qualities closest to the human voice. Furthermore, by means of playing techniques, it can produce diverse timbres, making the string section exclusively used when playing the central, most important part of orchestral music. A complex and skillful example of using the string instrument section as the core within orchestral music would be the overture to the opera Lohengrin (『로텡그린』) by the greatest German opera composer of the 19th century, Wagner (『왁네르』).
+Next, I intend to discuss the woodwind instrument section.
+
+Woodwind Orchestra (Highest part) - Piccolo
+(High part) - Flute, Oboe, Clarinet (in B♭)
+(Middle part) - Clarinet (in E♭), English Horn
+(Secondary Middle part) - Clarinet (in E♭ (Same as above)), French Horn (in F)
+(Low part) - Bass Clarinet (in B♭), Bassoon
+(Lowest part) - Contrabassoon
+
+Besides these, the French horn, belonging to the brass instruments, is customarily included in this section because its timbre is similar to that of woodwind instruments.
+Now, the instruments belonging to the high part among woodwind instruments each possess a unique timbre, so they are always mixed according to the content of the musical piece. That is, the flute is decorative and technical, whereas the oboe is lyrical and poetic, and the clarinet is suitable for dramatic expression.
+Additionally, the English horn, having essentially the same quality as the oboe, can be considered as an oboe altered to the middle range.
+Lastly, regarding the brass instruments:
+
+Brass Instruments (High part) - Cornet (in E♭), French Horn
+(Middle part) - Cornet (in B♭), Trumpet, Trombone (in E♭), French Horn
+(Secondary Middle part) - Trumpet, Trombone (in B♭), Tuba
+(Low part) - Bass Trombone (in G), Tuba <11>
+
+It is like this. Generally, the sound of brass instruments is grand and solemn, possessing power. Categorizing their timbres now: the French horn is sorrowful and solemn, the trumpet is brilliant and clear, the trombone is solemn and grand, and the tuba displays majesty. A good example of the most skillful application of the tuba in orchestral music is found in the "Torch Dance" (『炬火踊』) composed by the 19th-century German musician Meyerbeer (『마이어 뻬-어』).
+The types of instruments used in orchestral music are roughly as described. Considering this, if one were to organize a complete orchestra now, the number of members would need to be at least several tens. Although there is no fixed limit regarding the number of personnel specifically, large ones reach several hundreds, and even small ones usually range from 30-40 to 70-80 members. Then, assuming an orchestra is organized with 60 musicians, the allocation method and instrument assignment would generally follow the table below (though there might be minor differences based on the characteristics of the music piece and the conductor's opinion). To speak more precisely, the ratio would be: 1st and 2nd Violins - 12 members each, Viola and Cello - 6 members each, Contrabass - 4 members, Piccolo Flute - 1 member, Flute - 2 members, Oboe - 2 members, Clarinet - 2 members, Bassoon - 2 members, Contrabassoon - 1 member, French Horn - 2 members, Trumpet - 3 members, Trombone - 3 members, Percussion Instruments - 2 members. The Tokyo Music School (東京音樂學校) in Japan generally uses a similar deployment method, and I understand that other countries are almost largely the same.
+
+Orchestral Instrument Arrangement Method
+
+Also, the arrangement method for orchestra members is generally fixed. First, strings are placed at the front, winds at the back, the contrabass is placed at the very back, and percussion instruments are customarily placed on the rear right side. Among the string instruments, the 1st violin is placed <12> facing left, the 2nd violin to the right, the viola behind the 2nd violin, and the cello behind the 1st violin. Next, the score used by the conductor is called the Full Score (總譜表); the scores for each instrument are written on different staves and arranged vertically in sequence. This also follows a fixed format: woodwinds are placed at the very top, brass instruments below them, and string instruments at the very bottom. It is said that writing it this way is the easiest to read.
+Music Score Notation Method
+
+If piano or violin solos, or solo singing, chorus, etc., are added to the orchestra, their scores are usually inserted between the scores for percussion and string instruments.
+Lastly, one final word: orchestral music, with its complex organizational method and high value, is consequently the most perfect and most developed music among all music. Thus, there is no need to further discuss the value of orchestral music now, but regarding its use, besides accompanying lyrics (solo or chorus) in opera, it also holds the highest status when independently playing overtures, interludes, or march and dance music. Had orchestral music not existed in music, today's music would be insignificant, and today's opera would not even cast a shadow. Therefore, modern people possessing such perfect music cannot but be considered truly fortunate and blessed.
+However, looking back at our country's music scene, it is truly pathetic beyond measure. Look! Searching the entire country, not only are there few who possess the qualifications to be even a single musician in an orchestra, but aren't there many musicians who haven't even properly seen instruments other than those commonly popular? It is because there was no opportunity to hear and see. I fervently wish that genius musicians will emerge in great numbers in our country soon, so that we may possess perfect music comparable to others. With this, I conclude the "Story of Orchestral Music" and plan to briefly express my humble views next month under the title "Necessary Knowledge Regarding Music."
+Midnight, February 6, 1923 <13>
+
+**Summary**
+
+The article meticulously explains the concept of orchestral music (管絃樂), contrasting it with simpler ensembles. It details the categorization of instruments (woodwinds, brass, strings, percussion, keyboard), listing specific instruments used in standard orchestras and their typical roles and timbres. The author outlines the structure of an orchestra, including instrument sections (comparing strings to a four-part chorus), historical notes on instrument adoption (Monteverdi, Beethoven), examples of skillful orchestration (Wagner, Meyerbeer), typical orchestra size (60 members as an example), seating arrangement, and score layout (總譜表). The piece concludes by emphasizing the orchestra's paramount importance in Western music, particularly opera, and laments the underdeveloped state of orchestral music and musicianship in contemporary Korea, expressing a strong desire for future development.
+
+From a historical perspective, this 1923 article is fascinating. It showcases the adoption and explanation of Western classical music concepts in Korea during the Japanese colonial period. The author's detailed knowledge and admiration for European composers and orchestral structure highlight the cultural influences entering Korea. More revealing is the concluding lament about Korea's "pathetic" musical state and the lack of skilled musicians and even familiarity with instruments. This expresses a strong sense of cultural lag and nationalistic aspiration for Korea to achieve "perfect music" comparable to the West and Japan (mentioning the Tokyo Music School), reflecting the broader intellectual discourse of the era concerning modernization and cultural self-strengthening under colonial constraints.
+
+**Named Entities**
+
+洪永厚	홍영후	Hong Yŏnghu
+京城樂隊	경성악대	Kyŏngsŏng Band
+이태리국	이태리국	Italy
+베니스시	베니스시	Venice
+몬테벨듸	몬테베르디	Monteverdi
+독일	독일	Germany
+벳토벤	베토벤	Beethoven
+왁네르	바그너	Wagner
+로텡그린	로엔그린	Lohengrin
+마이어 뻬-어	마이어베어	Meyerbeer
+日本	일본	Japan
+東京音樂學校	동경음악학교	Tokyo Music School
+
+**Glossary**
+
+管絃樂	관현악	Orchestral music
+이약이	이야기	Story, talk (older spelling of 이야기)
+성악	성악	Vocal music
+기악	기악	Instrumental music
+가극	가극	Opera
+악기	악기	Musical instrument
+멜라듸	멜로디	Melody (loanword transcription)
+打擊樂器	타격악기	Percussion instrument
+편성법	편성법	Arrangement method, organization method
+플륫트	플루트	Flute (loanword transcription)
+픽코로	피콜로	Piccolo (loanword transcription)
+오-보	오보에	Oboe (loanword transcription)
+클라리넷트	클라리넷	Clarinet (loanword transcription)
+파-콧트	파곳	Bassoon (loanword transcription, likely from Italian 'fagotto')
+호른	호른	Horn (loanword transcription)
+코-넷트	코넷	Cornet (loanword transcription)
+트럼뻔	트럼본	Trombone (loanword transcription, likely 'trombone')
+트럼뻿트	트럼펫	Trumpet (loanword transcription)
+튜바	튜바	Tuba (loanword transcription)
+하입	하프	Harp (loanword transcription)
+만돌린	만돌린	Mandolin (loanword transcription)
+끼-타	기타	Guitar (loanword transcription)
+빤죠-	밴조	Banjo (loanword transcription)
+바이올린	바이올린	Violin (loanword transcription)
+비올라	비올라	Viola (loanword transcription)
+쎌로	첼로	Cello (loanword transcription)
+떠불빠-스	더블베이스	Double bass (loanword transcription)
+트라이앙글	트라이앵글	Triangle (loanword transcription)
+지로폰	실로폰	Xylophone (loanword transcription)
+신발	심벌즈	Cymbals (loanword transcription)
+뻴	벨	Bell (loanword transcription)
+大小鼓	대소고	Large and small drums
+짐파니	팀파니	Timpani (loanword transcription)
+파입프오일갠	파이프오르간	Pipe organ (loanword transcription)
+하-모니엄	하모늄	Harmonium (loanword transcription)
+풍금	풍금	Pump organ (reed organ)
+피아노	피아노	Piano (loanword transcription)
+현악4부합주	현악사부합주	String quartet
+樂家	악가	Musician, composer
+樂聖	악성	Great musical saint/virtuoso (referring to Beethoven)
+푸렌취호른	프렌치호른	French horn (loanword transcription)
+炬火踊	거화용	Torch Dance (title of a musical piece)
+관현악대원	관현악대원	Orchestra member
+배열방법	배열방법	Arrangement method, layout method
+總譜表	총보표	Full score (music)
+독주	독주	Solo (instrumental)
+독창	독창	Solo (vocal)
+합창	합창	Chorus
+반주	반주	Accompaniment
+서곡	서곡	Overture
+간주곡	간주곡	Interlude, Intermezzo
+行進舞踏曲	행진무도곡	March and Dance Music
+熱願	열원	Fervent wish, earnest desire
+업습니다	없습니다	Does not exist (older spelling of 없습니다)
+잇습니다	있습니다	Exists (older spelling of 있습니다)
+가티	같이	Like, as (older spelling of 같이)
+듯고	듣고	Hearing/Listening (older spelling of 듣고)
+만치	많지	Many (older spelling/form of 많지)
+안습닛가	않습니까	Isn't it? / Aren't there? (older spelling/dialectal form of 않습니까)
+끗맛추고	끝마치고	Finishing, concluding (older spelling of 끝마치고)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제33호
+발행일	1923년 03월 01일
+기사제목	管絃樂의 이약이
+필자	洪永厚
+기사형태	논설
+
+管絃樂의 이약이
+						洪永厚
+음악을 형식상으로 大別할 것 가트면 성악과 기악의 두 가지가 잇습니다. 지금 내가 말하랴는 관현악은 물론 후자에 속한 것임니다. 근래 음악회 순서지를 보면 각금각금 관현악이니 관현합주이니 하는 말을 발견할 수가 잇습니다. 그러나 어떠한 것이 진정한 관현악인지, 또는 완전한 관현악을 조직하랴 하면 어떠한 필요조건이 잇는지, 이것은 꽤 중대한 문제가 될 줄로 생각합니다.
+前回에 가극의 이약이를 쓸 때에도 여러번 관현악이란 문자를 인용햇습니다마는, 대체 관현악이라 하면 무엇을 의미한 것이겟습니까? 字意대로 쉬웁게 해석하면 관과 현의 음악이라 하겟습니다. 사실상 그러한 것입니다. 그러나 관으로 된 악기에도 그 종류가 不少하며, 현으로 된 악기도 실로 多樣多種임에 따라서, 이 각종의 음색이 다른 악기를 一條의 멜라듸 알에에 融合歸一케 함에는 多大한 노력이 들 것은 정한 이치입니다. 그 뿐만 아니라 동일한 관현악기 중에서라도 관현합주에 사용되지 안는 악기도 잇고, 또 관현의 범위를 버서난 악기(가령 打擊樂器와 如한 것)도 반듯이 유용되는 때가 잇슨즉, 관현악의 악곡의 성질이라던지, 그 편성법을 알지 못하고는, 어떠한 것이 완전무결한 관현악인지도 또한 모를 것입니다.
+만돌린이나 빠이올린이나 피아노나 또는 喇叭吹笛類로 합주하는 음악도 역시 일종의 소관현악이 아님은 아니지오마는, 관현악은 음악 중에도 가쟝 발달되고 가쟝 完美한 음악인 이상에, 그 가티 간단하고 열등한 것은 아닙니다. 관현악 중의 일부분되는 단순한 관현합주만으로 말할지라도, 활동사진관에서 吹奏하는 樂隊의 음악과, 京城樂隊에서 吹奏하는 음악이 그 얼마나 형식상으로나 내용상으로나 현격한 차이가 잇겟슴닛가? 그러고 보면 2, 3종의 관현합주와 완성한 조직적의 관현악이, 질과 양에나 또는 예술의 가치상에서도, 얼마나한 差等이 잇슬 것은 가히＜8＞ 推知할 수가 잇슬 것입니다.
+나는 지금 관현악의 편성법을 말하기 전에 먼저 관현악기의 종류를 구별해 보랴 함니다. 첫재로 관악기의 종류를 말할진대,
+1. 笛類  플륫트(橫笛)  픽코로(高音橫笛) 등
+2. 簧類  오-보, 클라리넷트, 파-콧트 등
+3. 喇叭類  호른, 코-넷트, 트럼뻔, 트럼뻿트, 튜바 등
+이상과 가트며, 다음에 현악기와 격악기와 건반악기의 종류를 말할진대,
+絃樂器
+1. 彈絃樂器  하입, 만돌린, 끼-타, 빤죠- 등
+2. 弓樂器  바이올린, 비올라, 쎌로, 떠불빠-스 등
+擊樂器
+1. 棒의 진동에 의한 者  트라이앙글, 지로폰 등
+2. 板의 진동에 의한 者  신발, 뻴 등
+3. 膜의 진동에 의한 者  大小鼓, 짐파니 등
+鍵盤樂器
+1. 管을 用한 者  파입프오일갠(管風琴)
+2. 簧을 用한 者  하-모니엄, 簧오-ㄹ갠(보통으로 풍금이라고 하는 것)
+3. 絃을 用한 者  피아노
+대략 이상에 示함과 가틈니다. 그러나 지금 이 여러 악기에 대하야 일일히 설명할 수는 업스나 그 중에서 특별히 관현악 중에 사용되는 악기에 한하여서 간단히 말하랴 합니다. (우리가 흔이 듯고 보는 만돌린이나 풍금 가튼 것은 관현악 중에는 사용되지 아니함)＜9＞
+
+관현악 합주용 악기류
+현악기ㅡ바이올린, 비올라, 쎌로, 떠블빠-스(일명 컨트라빠-스).
+관악기―목제관악기 笛類-플륫트, 픽코로.
+單簧-클라리넷트, 빠-스클라리넷트.
+馥簧-오-보, 잉글리쉬흐든, 파-곳트, 컨트라파-곳트.
+금속제관악기 프렌취흐른, 트럼뺏트, 트럼삔, 튜바.
+擊樂器-집파니 ,소태고 ,대태고 ,쎌 ,트라이앙글 ,탐버린등
+즉 관현합주라 하면 현악기의 一組와, 목제 관악기의 一組와, 또는 금속제 관악기의 一組가 互相對立하야, 각별한 和聲團軆를 奏하게 된 특질을 가젓습니다. 그러나 그 중에 打擊樂器로 말하면 독립한 一組를 형성함이 아니오, 다만 박자를 강하게 한다던지, 또는 곡절을 장식하는데 사용되는 것입니다. 和聲團軆를 秦할 수 잇는 3개의 組라 함은, 성악상의 4부 합창과 흡사한 것이니, 음성에 고음, 중음, 차중음, 저음이 잇슴과 가티, 관현악기에도 이것이 잇습니다. 지금 이것을 각각 圖示하면 下表와 가틈니다.
+
+絃樂器의 組   (高音部 「소프래노」)ㅡ제2 바이올린
+(中音部 「알토」)ㅡ 제2 바이올린
+(次中音部 「테-너」)ㅡ비올라
+(低音部 「빠-스」)ㅡ첼로
+(最低音部 「컨트라 빠-스)ㅡ컨트라빠-스
+
+이와 가튼 형식으로 이 一組만이 독립하야 현악합주를 할 수도 잇스니, 실내악으로 만히 사용하는 현악4부합주라는 것은, 제1, 제2 바이오린, 비올라, 셀로의 4종 악기의 합주를 말함임니다.
+그런데 바이올린을 처음으로 관현악 중에 가입한 것은, 17세기 중엽의 이태리국 베니스시의 작곡가 『몬테벨듸』씨이엿스며, 그보다도 비올라(바이올린보다 족음 軆大한 것)과 이전부터 관현악에 사용되엿다 합니다. 또 컨트라빠-스는 어느 시대의 어느 樂家가 사용하기 시작햇는지는 모르겟스나, 19세기 초에 독일의 최대 樂聖 『벳토벤』의 시대로부터 盛히 사용된 듯 합니다.＜10＞
+一軆로 현악기의 組는 그 음색이 원활하고 또 명료하야, 人聲에 제일 갓가운 성질을 가젓슬 뿐만 아니라, 奏法에 의하여서는 多種多樣의 음색을 發함으로써, 현악기조는 관현악 중의 중심이 될 만한 주요부분을 奏할 時에 전용됩니다. 관현악 중에 현악기의 組를 중심으로 하야 복잡하고도 교묘하게 사용한 일례는, 19세기의 독일의 최대 가극작자되는 『왁네르』의 가극 『로텡그린』의 서곡이겟습니다.
+다음에는 목제 관악기조에 就하야 말하랴 함니다.
+
+木製管絃樂 (최고음부)ㅡ픽코로
+(고음부)ㅡ플륫트, 오-보, 클라리넷트(變B調)
+(중음부)ㅡ클라리넷트(變E調), 잉글리쉬호른
+(차중음부)ㅡ클라리넷트(變E調 (同上(F調)
+(저음부)ㅡ빠-스클라리넷트(變B調), 파곳트
+(최저음부)ㅡ컨트라파-곳트
+
+이 외에 금속제 관악기 중에 속한 푸렌취호른은 그 음색이 목제 관악기류와 相似함으로써 특히 이 부문에 가입함이 상례입니다.
+그런데 목제 관악기 중에 고음부에 속한 악기는, 각각 독특한 음색을 가젓슴으로써, 항상 악곡의 내용을 따라서 이것들을 혼용하나니, 즉 플륫트는 장식적이오 技工的임에 반하야 오-보는 서정적이오 시적이며, 또 클라리넷트는 극적 표정에 적합합니다.
+그 외에 잉글리쉬 호른은, 오-보와 대체 동일한 성질을 가젓슴으로써 오-보를 중음부로 변화한 것으로 간주할 수도 잇습니다.
+끗흐로 금속제 관악기에 대하야 말할진대,
+
+金屬製 管樂器 (고음부)ㅡ코-넷트(變E調), 프렌취 호른
+(중음부)ㅡ코-넷트(變B調), 트럼뻿트, 트럼팬(變E調), 프렌취 호른
+(차중음부)ㅡ트럼뻿트, 트럼팬(變B調), 튜바
+(저음부)ㅡ빠-스 트럼뻔(G調), 투바＜11＞
+
+이와 갓습니다. 그런데 일반으로 금속제 관악기의 음은 웅대하고 장엄하야 위력이 잇스니, 이제 그 음색을 類別할진대, 프렌취 호른은 비애엄숙하며, 트럼뻿트는 光輝明快하고, 트럼뻔은 장엄웅대하며, 튜바는 위엄을 뵈이는 것입니다. 관현악 중에 튜바를 가쟝 교묘히 응용한 好例는, 19세기의 독일 樂家 『마이어 뻬-어』의 作 『炬火踊』 중에 잇습니다.
+관현악 중에 사용하는 악기의 종류는 대강 이러함니다. 그러고 보면 가령 지금 一團의 完美한 관현악을 편성하랴 할진대, 그 인원이 적어도 수십인 이상은 되여야 할 것임니다. 특별히 인원에 대하야는 일정한 제한이 업스나 大한 者는 수백인에 이르고 小한 者라도 3, 40 내지 7, 80명이 보통입니다. 그러면 가령 60인의 樂手를 가지고 관현악을 조직한다 가정하고, 그 편성방법과 악기의 할당을 배정할 시에는ㅡ(이것은 악곡의 특질과 지휘자의 의견에 의하야 小差가 잇겟지마는)ㅡ대체로 下表와 가타 함이 통례일 것입니다. 더 자세히 말하랴면, 제1 及 제2 바이올린 ° 12인, 비올라 及 셀로 각 6인, 컨트라 빠-스 4인, 픽코로플륫트 1인, 플륫트 2인, 오-보 2인, 클라리넷트 2인, 파-곳트 2인, 컨트라 파-곳트 1인, 프렌취 호른 2인, 트럼뻿트 3인, 트럼뻔 3인, 擊樂器 2인, 의 비례가 될 것입니다. 日本 東京音樂學校에서도 대체로 이와 가튼 배치법을 사용하며, 또 다른 나라에서도 거의 다 이와 大同小異한 줄로 암니다.
+
+관현악기 배열법
+
+또 관현악대원의 배열방법도 대체는 일정되여 잇습니다. 爲先 전방에는 현악을 두고, 후방에는 관악을 두며, 최후에 컨트라 빠-스를 두고, 擊樂器는 후방 우측면에 두는 것이 상례입니다. 그리고 현악기 중에도 제1 바이올린은＜12＞ 향하야 좌측 제2 바이올린은 우측, 비올라는 제2 바이올린의 후방, 쎌로는 제1 바이올린의 후방에 두게 됩니다. 그 다음에 지휘자가 사용하는 악보는 總譜表라 하는 者이니 각 악기의 악보를 各異한 五線上의 기재하야 순차로 상하 배열하엿습니다. 이것도 또한 일정한 방식이 잇스니 즉 목제 관악기를 최상부에 두고 그 알에로 금속제 관악기를 두며 최하부에 현악기를 두게 됨니다. 이 가티 기재함이 가쟝 알어보기 쉬웁다 합니다.
+樂譜記 載方法
+
+만일 관현악 중에 피아노, 바이올린의 독주나 혹은 독창, 합창 등을 加할 시에는, 그 악보는 擊樂器와 현악기의 악보 중간에 삽입함이 보통입니다.
+끗흐로 한 마듸 말슴할 것은 관현악이란 그 조직 방법이 이 가티 복잡하고 그 가치가 고상함에 따라서 음악 중에는 가쟝 完美하고 가쟝 발달된 음악인즉 지금 관현악의 가치여하를 更論할 필요는 업거니와 그 용도에 대하야 말할진대 관현악은 가극 중의 가사(독창 혹 합창)에 반주를 하는 이외에 따로히 독립하야 서곡이나 간주곡이나 行進舞踏曲 등을 奏함에도 그 지위가 가쟝 고상한 것입니다. 만일 음악 중에 관현악이 업섯던들 금일의 음악은 보잘 것이 업섯슬 것이며 금일의 가극이란 그 影子도 차저볼 수가 업섯슬 것입니다. 그럼으로써 이와 가티 完美한 음악을 가진 현대인은 실로 多幸多福하다고 아니할 수 업슴니다.
+그러나 우리 나라의 樂界를 한번 돌아보면 실로 한심하기 짝이 업습니다. 보십시오! 전국을 뒤터러도 관현악대 중의 一樂手가 될 만한 자격을 가진 이가 몃 사람이 되지 못할 뿐만 아니라 보통으로 유행되는 악기 이외에는 악기구경도 골고루 못한 樂家들이 만치 안습닛가! 듯고 볼만한 기회가 업섯던 까닭입니다. 우리나라에도 어서어서 천재의 樂家들이 衆出하야 남의 뒤지지 아느리만한 完美한 음악을 갓게 되기를 熱願하오며 이에 『管絃樂의 이약이』는 끗맛추고 다음달에는 『音樂上의 必要한 智識』이란 題下에서 管見을 약술해 보랴고 생각합니다.
+1923년 2월 6일 夜半＜13＞
+＜8-13＞

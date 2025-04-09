@@ -1,0 +1,128 @@
+Magazine Title: 개벽 第65호
+Publication Date: 1926년 01월 01일
+Article Title: 社告 (Company Announcement)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+Company Announcement / Branches (支社) and Sub-branches (分社) Newly Established or Reestablished in December
+◎ Ch'ungju (忠州) Branch Newly Established
+Location: Taejongch'ŏn (大手町), within Ch'ungju Town (忠州邑內)
+Area: The entire Ch'ungju County (忠州郡 一圓)
+=Staff=
+Branch Head: Ch'ae Ki-su (蔡基洙)
+Reporter: O Ŏn-yŏng (吳彦泳)
+Reporter: Yi Sŏn-gyu (李善圭)
+
+◎ Taegu (大邱) Branch Reestablished
+Location: 51 Kyŏngjŏng 2-ch'ome (京町 二丁目 五一), Taegu Prefecture (大邱府)
+Area: The entire Taegu Prefecture (大邱府 一圓) and its vicinity
+=Staff=
+Branch Head: Ko Pyŏng-gyo (高丙敎)
+General Affairs & Reporter: Kang Sin-uk (姜信旭)
+Reporter: Sin Ch'ang-ho (申昌浩)
+Reporter: Hwang Pong-il (黃奉日)
+Advisor: Chang Sang-ch'ŏl (張相轍)
+Advisor: Kim Wan-sŏp (金完燮)
+Clerk: Yi Wŏn-ho (李源浩)
+
+◎ Mun'ch'ŏn (文川) Sub-branch Newly Established
+Location: In front of Chŏnt'an Station (箭灘驛前), Hamgyŏng Line (咸鏡線)
+Area: The entire Mun'ch'ŏn County (文川郡 一圓)
+=Staff=
+Sub-branch Head: Son Hong-gwan (孫鴻寬)
+General Affairs: Chŏng Kun-hwa (鄭君和)
+Reporter & Bill Collector: Yi Pong-sun (李奉淳)
+Advisor: Son Sang-gyo (孫相敎)
+Advisor: Pak Chae-sŏn (朴載善)
+
+**Summary**
+
+This company announcement from the January 1, 1926 issue of *Kaebyŏk* magazine details the establishment or reestablishment of three branches/sub-branches in December 1925: a new branch in Ch'ungju, a reestablished branch in Taegu, and a new sub-branch in Mun'ch'ŏn. It lists the location, operational area, and staff (including roles like branch head, reporters, general affairs, advisors, clerks, and bill collectors) for each new office. For historians, this notice provides valuable insight into the organizational structure and expanding reach of a significant Korean magazine during the colonial period. It demonstrates the magazine's efforts to establish a formal distribution and reporting network across different regions of Korea, listing specific personnel and their roles, which helps map the media landscape and potential intellectual networks of the time.
+
+**Named Entities**
+
+忠州支社	충주지사	Ch'ungju Branch
+忠州邑內	충주읍내	Within Ch'ungju Town
+大手町	대수정	Taejongch'ŏn (Japanese-style name likely used during colonial period, now likely part of Chungju-si)
+忠州郡	충주군	Ch'ungju County
+蔡基洙	채기수	Ch'ae Ki-su
+吳彦泳	오언영	O Ŏn-yŏng
+李善圭	이선규	Yi Sŏn-gyu
+大邱支社	대구지사	Taegu Branch
+大邱府	대구부	Taegu Prefecture
+京町 二丁目	경정 이정목	Kyŏngjŏng 2-ch'ome (Japanese-style address in Taegu)
+高丙敎	고병교	Ko Pyŏng-gyo
+姜信旭	강신욱	Kang Sin-uk
+申昌浩	신창호	Sin Ch'ang-ho
+黃奉日	황봉일	Hwang Pong-il
+張相轍	장상철	Chang Sang-ch'ŏl
+金完燮	김완섭	Kim Wan-sŏp
+李源浩	이원호	Yi Wŏn-ho
+文川分社	문천분사	Mun'ch'ŏn Sub-branch
+咸鏡線	함경선	Hamgyŏng Line
+箭灘驛前	전탄역전	In front of Chŏnt'an Station
+文川郡	문천군	Mun'ch'ŏn County
+孫鴻寬	손홍관	Son Hong-gwan
+鄭君和	정군화	Chŏng Kun-hwa
+李奉淳	이봉순	Yi Pong-sun
+孫相敎	손상교	Son Sang-gyo
+朴載善	박재선	Pak Chae-sŏn
+
+**Glossary**
+
+社告	사고	Company Announcement
+新設	신설	Newly established
+復興	부흥	Reestablishment; Revival (Here used for re-opening a branch)
+支社	지사	Branch office
+分社	분사	Sub-branch office (smaller than a 支社)
+位置	위치	Location
+地域	지역	Area; Region
+一圓	일원	The entire area of; Throughout
+職員	직원	Staff; Employee(s)
+支社長	지사장	Branch Head/Manager
+記者	기자	Reporter
+總務	총무	General Affairs
+顧問	고문	Advisor; Consultant
+事務員	사무원	Clerk; Office worker
+集金員	집금원	Bill collector; Money collector
+邑內	읍내	Within the town (eup)
+驛前	역전	In front of the station
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제65호
+발행일	1926년 01월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告/十二月 中에 新設 又는 復興된 支社△分社
+◎忠州支社新設
+位置 忠州邑內 大手町
+地域 忠州郡 一圓
+=職員=
+支社長 蔡基洙
+記者 吳彦泳
+同 李善圭
+
+◎大邱支社復設
+位置 大邱府 京町 二丁目 五一
+地域 大邱府 一圓 及 其 附近
+=職員=
+支社長 高丙敎
+總務 兼 記者 姜信旭
+記者 申昌浩
+同 黃奉日
+顧問 張相轍
+同 金完燮
+事務員 李源浩
+
+◎文川分社新設
+位置 咸鏡線 箭灘驛前
+地域 文川郡 一圓
+=職員=
+分社長 孫鴻寬
+總務 鄭君和
+記者 兼 集金員 李奉淳
+顧問 孫相敎
+同 朴載善

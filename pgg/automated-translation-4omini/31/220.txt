@@ -1,0 +1,47 @@
+잡지명	별건곤  
+발행일	1930년 10월 01일  
+기사제목	謝告 (Apology)  
+기사형태	사고·편집후기 (Editorial Postscript)  
+
+謝告  
+The political situation in China is changing without parallel this autumn. This time, an article by Zhu Yohan titled "The Establishment of the Northern Government of China" has been published in this issue, but while proofreading, news arrived that the Northern Government has collapsed again. Therefore, the author Zhu Yohan requested to omit the entire article, but it seems that the political situation in China is unpredictable. Thus, although the article may be somewhat dated, it will at least serve as a reference to understand a process of internal chaos in China, and we are publishing it as is while expressing our gratitude to the author and the readers.
+
+Currently, regarding the serious issue of the massacre and expulsion of the compatriots of Chinese descent in Manchuria, we have been unable to publish articles with the insights and countermeasures from various esteemed individuals due to circumstances, and we apologize to the authors for this inconvenience. - Editor <55>
+
+**Summary**
+
+This editorial postscript reflects on the volatile political climate in China during the autumn of 1930, specifically addressing the rapid changes associated with the Northern Government's establishment and subsequent collapse. Furthermore, it touches upon the urgent issue of violence against Chinese people in Manchuria, highlighting the challenges related to the publication of critical commentary during such tumultuous times. Historians might find this article revealing in its context of colonial tensions and the plight of Chinese and Korean communities under colonial rule, illustrating the ripple effects of instability in China on neighboring regions.
+
+**Named Entities**
+
+朱요한		Zhu Yohan  
+中國		China  
+滿洲		Manchuria  
+
+**Glossary**
+
+政局		정국		political situation  
+變化		변화		change  
+成立		설립		establishment  
+瓦解		와해		collapse  
+內亂		내란		internal chaos  
+虐殺		학살		massacre  
+驅逐		추방		expulsion  
+同胞		동포		compatriot  
+名士		명사		esteemed individual  
+對策		대책		countermeasure  
+
+
+---------------------------
+
+
+잡지명	별건곤 제33호
+발행일	1930년 10월 01일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+中國의 政局은 가을 날가티 變化가 無雙함니다. 今番에도 中國의 北方政府가 成立된 데 대하야 朱요한氏의 玉稿 「中國北方政府의 成立」이라는 記事를 本號에 揭載하게 되엿는데 校正을 보는 中에 다시 北方政府가 瓦解되엿다는 外報가 왓슴니다. 그리하야 筆者 朱요한氏는 그 記事全部를 빼여 달나고 要求하엿스나 그러나 압흐로 中國政勢가 다시 엇덧케 뒤박뀌려는지 모를 뿐 안이라 該記事가 비록 때는 느젓슬지언정 中國內亂의 一過程을 보는데 만이라도 매우 參考가 되겟기에 그대로 실으면서 讀者와 밋 筆者에 謝하나이다.
+
+現下 大問題되는 中國人의 在滿同胞 虐殺驅逐事件에 관하야 各方面 名士 諸氏의 高見과 對策에 관한 記事는 事情에 의하야 揭載치 못하게 되엿삽기 筆者諸氏에게 未安을 謝함니다.-編輯者<55>
+<55>

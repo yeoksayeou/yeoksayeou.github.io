@@ -1,0 +1,84 @@
+**Header Section**
+Magazine Title: 개벽 제26호
+Publication Date: 1922년 08월 01일
+Article Title: 풀따기 (Picking Grass)
+Author: 素月
+Article Type: 시 (Poem)
+
+**Body Text Translation**
+Picking Grass
+						Sowŏl
+
+On the back hill behind our house, the grass is green,
+And below it, in the woods, on the white sandbank of the stream,
+Blue grass-shadows float and flow.
+
+Where might my beloved be?
+Thoughts of my beloved, blooming anew each day,
+Every day I sit alone on the back hill,
+Every day I pick blades of grass and toss them in the water.
+
+Following the flowing stream's water path,
+As the grass blades I threw float lightly away,
+The water currents gently, gently part my embrace.
+
+Where might my beloved be?
+With no place to put this boundless heart of mine,
+Every day I pick blades of grass and toss them in the water,
+And watch in my heart the floating blades of grass.<24>
+
+**Summary**
+
+This poem by Sowŏl expresses deep longing for an absent loved one ("우리님," uri nim). The speaker sits by a stream near their home, repeatedly picking blades of grass and throwing them into the water, watching them float away. This simple, repetitive action symbolizes the speaker's constant thoughts of the beloved and the feeling of helplessness or inability to bridge the distance separating them. The natural imagery of the green hill, stream, and floating grass reflects the speaker's melancholic mood. From a historical perspective, the poem, published in *Kaebyŏk* magazine during the colonial period, showcases Sowŏl's characteristic focus on personal emotion and lyricism, often intertwined with natural scenery, providing a contrast to more overtly political or nationalistic writings of the era. It highlights the persistence of individual sentiment and traditional poetic themes even amidst national turmoil.
+
+**Named Entities**
+
+素月	소월	Sowŏl
+
+**Glossary**
+
+풀따기	풀 따기	Picking grass
+뒷山	뒷산	Back hill (older spelling)
+프르고	푸르고	Is green (older spelling/dialectal form of 푸르다)
+알에	아래에	Below, under (older spelling)
+밧엔	밭에는 / 밭에는	In the field / On the sandbank (Here contextually 'sandbank', 밧 is an older form; modern standard is 밭 for field, but here likely refers to 모래밭 - sand field/bank)
+어대	어디에	Where (older spelling)
+게신고	계신고	Where are you? (honorific, interrogative, older form of 계시는고)
+안저서	앉아서	Sitting (older spelling)
+따선	따서는	Picking and then... (older spelling/contraction)
+딸하서	따라서	Following (older spelling)
+엿게	얇게/옅게	Thinly, lightly (older spelling, likely related to 옅다 - light/pale or 얇다 - thin)
+헤적헤적	헤적헤적	Gently parting/stirring (onomatopoeia/mimetic word)
+가업슨	가없는	Boundless, limitless (older spelling of 가없다)
+업서	없어	Without, lacking (older spelling)
+맘해	마음에	In the heart/mind (older spelling/contraction)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	풀따기
+필자	素月
+기사형태	시
+
+풀따기
+						素月
+우리집 뒷山에는 풀이 프르고,
+그 알에 수풀, 시냇물의 흰모래밧엔
+파란 풀그림자가 떠서 흘러요.
+
+그립은 우리님은 어대 게신고,
+날마다 피어나는 우리님 생각,
+날마다 뒷山에 홀로 안저서,
+날마다 풀을 따선 물에 던져요.
+
+흘러가는 시내의 물길을 딸하서
+내여던진 풀닙이 엿게 떠갈제
+물쌀이 헤적헤적 품을 헤쳐요.
+
+그립은 우리님은 어대 게신고.
+가업슨 이내 맘을 둘 곳이 업서
+날마다 풀을 따선 물에 던지고
+흘러가는 풀닙들을 맘해 보아요.＜24＞

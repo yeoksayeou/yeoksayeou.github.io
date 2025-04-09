@@ -1,0 +1,66 @@
+Magazine Title: 개벽 제20호
+Publication Date: 1922년 02월 08일
+Article Title: 正誤 (Errata)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Errata
+
+Previous issue, Novel 'The Fallen One', page 73, bottom section, 7th line: '自由' (Freedom) should be '有望' (Promising) (Printing Error).
+
+Page 75, top section, 13th line, last character '도' (to/also) and 14th line, first character '하' (ha/do) should be removed (Manuscript Error).
+
+Page 77, bottom section, 6th line: '羊' (Sheep) should be '乳' (Milk) (Printing Error).
+
+Page 80, bottom section, 13th line: '줄을 골라도' (even if choosing a line/rope) should be '줄도 골랏고' (also chose a line/rope and...) (Manuscript Error).
+
+Page 83, top section, from the 1st line to the 4th line should be deleted (Manuscript Error).
+
+Page 86, top section, 13th line: Regarding '를럿다' (was dragged) and '틀하엿다' (was tilted/lifted?) (Manuscript Error) [Implies correction needed].
+
+Page 86, top section, 21st line: '잠앗든 팔' (sleeping arm) should be '감앗든 팔' (wound arm) (Manuscript Error).
+
+Page 87, top section, 7th line: '깁흔 발길' (deep footsteps) should be '생각 깁흔 발길' (thoughtful/deep-in-thought footsteps) (Printing Error).
+
+Ibid., 11th line: '보들모들한 나의 목' (soft my neck) should be '보들보들한 두 팔이 나의 목' (soft two arms my neck [encircling my neck]) (Printing Error).＜30＞
+
+**Summary**
+
+This article is an errata list detailing corrections for the novel "墮落者" (T'arakcha - The Fallen One) published in the previous issue (No. 19) of the magazine *Kaebyŏk*. It specifies corrections on various pages, citing both printing errors and mistakes originating from the manuscript. The corrections range from single characters or words to the deletion of entire lines. For historians, this piece provides insight into the practical challenges and editorial processes of magazine publishing in 1920s colonial Korea. It also offers specific examples of language usage, including older Korean spellings (e.g., 깁흔, 잠앗든, 골랏고) and Hanja terms, reflecting the linguistic landscape of the period.
+
+**Named Entities**
+
+墮落者	타락자	T'arakcha (The Fallen One - Novel Title)
+
+**Glossary**
+
+正誤	정오	Errata, Correction(s)
+前號	전호	Previous issue
+小說	소설	Novel
+墮落者	타락자	The Fallen One (Novel Title)
+印刷	인쇄	Printing
+誤	오	Error, Mistake
+原稿	원고	Manuscript, Original draft
+除去	제거	Removal, Deletion
+羊	양	Sheep
+乳	유	Milk
+골랏고	골랐고	Chose and... (Older spelling of 골랐고)
+抹殺	말살	Deletion, Obliteration
+를럿다	끌렸다	Was dragged, Was pulled (Archaic/dialectal spelling of 끌렸다)
+잠앗든	잠들었던/잠자던	Sleeping, Who was asleep (Older spelling/form of 잠들었던 or 잠자던)
+감앗든	감았던	Wound, Which was wound (Older spelling/form of 감았던)
+깁흔	깊은	Deep (Older spelling of 깊은)
+仝	동	Ibid., The same as above
+보들모들한	보들보들한	Soft and smooth (Repetitive adjective for texture)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제20호
+발행일	1922년 02월 08일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+前號 小說 墮落者 七三頁 下段 第七行 「自由」는 「有望」(印刷의 誤), 七五頁 上段 第十三行 最下 「도」及 十四行 最上 「하」는 除去할 것(原稿의 誤) 七七頁 下段 第六行「羊」은 「乳」(印刷의 誤), 八○頁 下段 第十三行 「줄을 골라도」는 「줄도 골랏고」(原稿의 誤), 八三頁 上段 自 第一行 至 第四行은 抹殺할 것은(原稿의 誤), 八六頁 上段 第十三行 「를럿다」「틀하엿다」는(原稿의 誤), 八六頁 上段 第二十一行 「잠앗든 팔」은 「감앗든 팔」(原稿의 誤), 八七頁 上段 第七行 「깁흔 발길」은 「생각 깁흔 발길」(印刷의 誤), 仝 第十一行 「보들모들한 나의 목」은 「보들보들한 두 팔이 나의 목」(印刷의 誤)＜30＞

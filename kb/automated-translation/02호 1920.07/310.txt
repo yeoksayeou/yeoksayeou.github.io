@@ -1,0 +1,45 @@
+Magazine Title: 개벽 제2호
+Publication Date: 1920년 07월 25일
+Article Title: 질 항아리와 주석 항아리 (The Earthen Pot and the Tin Pot)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/essay)
+
+The Earthen Pot and the Tin Pot
+
+As the river flood overflowed (에강놀이 창일하야), an earthenware pot and a tin pot were floating away. The tin pot saw the earthenware pot and said, "Look here, elder brother (노형), since you and I are fellows in misfortune (同病相憐), let us go together." The earthenware pot replied, "Your words are kind, but your nature (성품) and mine are different. If we bump into each other, it will be the end of me (결단이니), so let's stay apart (따로 놉시다)."<109>
+
+**Summary**
+
+This short article retells a fable, likely Aesop's "The Earthen Pot and the Brass Pot" (using tin instead of brass here). During a flood, a sturdy tin pot suggests travelling together with a fragile earthenware pot due to their shared predicament. The earthenware pot wisely declines, recognizing that a collision between them would only result in its own destruction. For historians studying colonial Korea, this fable, published in *Kaebyŏk* magazine in 1920, could be interpreted allegorically. It might symbolize the perceived vulnerability of Korea (earthen pot) in relation to a stronger power like Japan (tin pot), cautioning against close association or alliances that could prove fatal to the weaker party, reflecting anxieties about cultural or political assimilation and unequal relationships during the colonial period.
+
+**Named Entities**
+
+(None found in the text)
+
+**Glossary**
+
+에강놀이	에 강 놀이	River playing/activity (Context suggests 강물이 불어 - river water rising/flooding)
+창일하야	창일하여	Overflowing (Older spelling/form of 하여)
+질 항아리	질항아리	Earthenware pot
+주석 항아리	주석 항아리	Tin pot
+떠나 갈새	떠나갈 때 / 떠나가니	As (they) were floating away / When floating away (Older conjunctive ending ~ㄹ새)
+노형	노형	Elder brother; respectful term for a male peer/friend
+同病相憐	동병상련	Mutual sympathy between fellow sufferers
+가티	같이	Together (Older spelling)
+말슴	말씀	Words, speech (Older spelling)
+고맙소마는	고맙소마는 / 고맙습니다만은	Thank you, but... (Older polite form)
+성품	성품	Nature, disposition, character
+결단이니	결딴이니	It will be the end of me; I will be destroyed/ruined (Colloquial, stronger than just 'decision')
+놉시다	놉시다	Let's stay apart / Let's go separately (Contextual meaning derived from 놀다 - play/be idle, here implying separation)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	질 항아리와 주석 항아리
+기사형태	잡저
+
+질 항아리와 주석 항아리
+에강놀이 창일하야 질 항아리와 주석 항아리가 떠나 갈새 주석항아리가 질 항아리를 보고 「여보 노형과 내가 同病相憐이니 우리 가티 갑시다」 질 항아리가 대답하되 「말슴은 고맙소마는 로형과 내 성품이 달라서 서로 마주치면 내가 결단이니 따로 놉시다」하더라.＜109＞

@@ -1,0 +1,59 @@
+Magazine Title: 開闢 제9호
+Publication Date: 1921년 03월 01일
+Article Title: 社告 (Company Announcement)
+Author: 開闢社
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Body Text Translation**
+
+Company Announcement
+
+The "Kaebyŏk" public trial case, which had been problematic, had been under deliberation at the Kyŏngsŏng District Court. The arguments concluded on February 17th, and the verdict was announced on the 24th of the same month. As was the case with the summary disposition by the Tongdaemun Police Station, it was said that a fine of fifty *wŏn* (圓) was imposed.
+
+Kaebyŏk Company<146>
+
+**Summary**
+
+This brief announcement from the Kaebyŏk Company states that the public trial concerning their magazine "Kaebyŏk," previously handled by the Kyŏngsŏng District Court, concluded on February 24th, 1921. The court upheld the earlier summary disposition by the Tongdaemun Police Station, imposing a fine of fifty *wŏn*. For historians, this article highlights the legal pressures and censorship faced by Korean publications like *Kaebyŏk* under Japanese colonial rule, documenting a specific instance of official action (a fine) taken against the magazine, likely for its content deemed problematic by authorities.
+
+**Named Entities**
+
+開闢	개벽	Kaebyŏk
+京城地方法院	경성지방법원	Kyŏngsŏng District Court
+東大門警察署	동대문경찰서	Tongdaemun Police Station
+開闢社	개벽사	Kaebyŏk Company
+
+**Glossary**
+
+問題	문제	Problem, issue
+잇든	있던	Which was (older spelling of 있던)
+公判	공판	Public trial
+事件	사건	Case, incident
+京城地方法院	경성지방법원	Kyŏngsŏng District Court (Kyŏngsŏng is the old name for Seoul)
+審理	심리	Deliberation, hearing
+오든 바	오던 바	Had been doing (older spelling/form)
+辯論	변론	Argument, pleading (in court)
+마츠고	마치고	Concluding, finishing (older spelling of 마치고)
+同	동	Same (used here to mean 'same month')
+言渡	언도	Pronouncement, verdict (legal term)
+亦是	역시	Also, as expected (older spelling/Hanja usage for 역시)
+卽決處分	즉결처분	Summary disposition, summary judgment
+가티	같이	Like, as (older spelling of 같이)
+罰金	벌금	Fine, penalty money
+圓	원	Won (currency unit, written with Hanja)
+處한다	처한다	To sentence, to dispose of (a case)
+함이다	함이다	It is said that... (older declarative sentence ending)
+社告	사고	Company announcement
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제9호
+발행일	1921년 03월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+問題 中에 잇든「開闢」公判事件은 京城地方法院에서 審理하여 오든 바 2月 17日에 辯論을 마츠고 同24日에 言渡하엿는데 亦是 東大門警察署의 卽決處分한 바와 가티 罰金 五十圓에 處한다 함이다.
+開闢社＜146＞

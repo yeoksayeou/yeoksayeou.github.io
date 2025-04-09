@@ -1,0 +1,105 @@
+**Header Section:**
+Magazine Title: 개벽 신간 제3호
+Publication Date: 1935-01-01
+Article Title: 統計室 (Statistics Room)
+Article Type: 잡저 (Miscellany)
+
+**Body Text Translation:**
+Statistics Room
+
+Cultivated Land Area of Korea
+
+As of the end of Showa 8 (1933), the cultivated land area of Korea is 4,489,200 *chŏngbo*. Of this, 1,681,800 *chŏngbo* are paddy fields (畓) (35.5% of the total area), and 2,807,400 *chŏngbo* are dry fields (田) (62.5%). Looking at the composition of paddy and dry fields by province, regions where paddy fields are relatively abundant compared to dry fields are Chŏlla North (全北), Ch'ungch'ŏng South (忠南), and Kyŏngsang South (慶南) (in that order). In Kyŏnggi (京畿), Ch'ungch'ŏng North (忠北), Chŏlla South (全南), and Kyŏngsang North (慶北), paddy and dry fields are roughly equal. In Hamgyŏng North (咸北), Hamgyŏng South (咸南), P'yŏngan South (平南), P'yŏngan North (平北), Hwanghae (黃海), and Kangwŏn (江原), over 70% of the cultivated land is dry fields; among these, in Hamgyŏng North, 92.2% of the cultivated land is dry fields.
+
+Also, looking at cultivated land by province, Hwanghae (黃海) has the most with 554,000 *chŏngbo*. The provinces of Chŏlla South (全南), Hamgyŏng South (咸南), P'yŏngan North (平北), P'yŏngan South (平南), Kyŏnggi (京畿), and Kyŏngsang North (慶北) are in the 400,000 *chŏngbo* range and belong to the regions with abundant cultivated land. Kangwŏn (江原) has over 300,000 *chŏngbo*. Kyŏngsang South (慶南), Ch'ungch'ŏng South (忠南), Chŏlla North (全北), and Hamgyŏng North (咸北) are in the 200,000 *chŏngbo* range. The smallest is Ch'ungch'ŏng North (忠北) with 160,000 *chŏngbo*. The ratio of cultivated land area to the total area of all Korea (全朝鮮) is 22% (二割二厘). Looking at this provincial ratio, Hwanghae's 32.8% (三割二分八厘) is the highest. Kyŏnggi, Ch'ungch'ŏng South, and Chŏlla South are in the 30% range (三割臺). Chŏlla North, P'yŏngan South, Kyŏngsang South, Ch'ungch'ŏng North, and Kyŏngsang North are in the 20% range (二割臺). P'yŏngan North, Kangwŏn, Hamgyŏng South, and Hamgyŏng North are in the 10% range (一割臺).
+
+Furthermore, within the total cultivated land area, owner-cultivated land (自作地) is 1,962,000 *chŏngbo* (43.7% of the total cultivated area), and tenant-farmed land (小作地) is 2,527,000 *chŏngbo* (56.3%). Looking at this by paddy and dry fields:
+1. Within the 1,682,000 *chŏngbo* of paddy fields (畓), owner-cultivated land is 32.5%, and tenant-farmed land is 67.5%. The only places where owner-cultivated land is more common than tenant land are the two provinces of Hamgyŏng North (咸北) and Hamgyŏng South (咸南). In all other provinces, tenant land is more common. Especially in the provinces of Chŏlla North (全北), Kyŏnggi (京畿), Ch'ungch'ŏng South (忠南), and Hwanghae (黃海), over 70% of the paddy fields are tenant-farmed.
+2. Within the 2,808,000 *chŏngbo* of dry fields (田), owner-cultivated land is 50.4%, and tenant-farmed land is 49.6%. Provinces where owner-cultivated land is more common than tenant land are the four provinces of Hamgyŏng North (咸北), Hamgyŏng South (咸南), Chŏlla South (全南), and Kangwŏn (江原). In all other provinces, tenant land is more common. Among these, in the provinces of Kyŏnggi (京畿), Ch'ungch'ŏng North (忠北), Ch'ungch'ŏng South (忠南), and Chŏlla North (全北), over 60% [of dry fields] are tenant-farmed.
+
+Number of Korean Agricultural Households
+
+Currently, the number of farm households in Korea (朝鮮) is 2,998,498 Korean households; combining with others totals 3,009,855 households. Among these, the number of full-time farming households (專業戶數) is 2,843,996 (94.5% of total households), and part-time farming households (兼業戶) number 165,859 (5.5%).
+
+By province, Chŏlla South (全南) has the most households at 380,000. Kyŏngsang North (慶北) has 360,000, Kyŏngsang South (慶南) has 290,000, and Kangwŏn (江原), Hwanghae (黃海), and Kyŏnggi (京畿) each have 240,000, following next. Chŏlla North (全北), Ch'ungch'ŏng South (忠南), Hamgyŏng South (咸南), and P'yŏngan South (平南) each have around 200,000 households. Ch'ungch'ŏng North (忠北) has 140,000 households, and Hamgyŏng North (咸北) has 80,000, the fewest in the country.
+
+Also, looking by farming category (營農의 移別): Tenant farmers (小作農) number 1,560,000 households (51.9% of total farm households). Owner-farmers also doing tenant farming (自作兼小作農) number 720,000 households (24.2%). Owner-farmers (自作農) number 550,000 households (18.1%). Households of agricultural laborers (被備者戶數) number 90,000 households (3.1%). Fire-field farmer (火田民) households number 80,000 households (2.7%).
+
+The ratio of farm households to total households is 76.2%. Looking at this by province, Kangwŏn's (江原) 89.7% is the highest rate. Ch'ungch'ŏng North (忠北), Chŏlla North (全北), Chŏlla South (全南), Hwanghae (黃海), and Kyŏngsang North (慶北) are in the 80% range. P'yŏngan North (平北), Hamgyŏng South (咸南), Kyŏngsang South (慶南), and P'yŏngan South (平南) are in the 70% range. Hamgyŏng North (咸北) is in the 60% range. Kyŏnggi's (京畿) 56.5% is the lowest rate.
+×＜104＞
+Prison Inmates-(As of the end of October last year)-
+＜105＞
+
+**Summary**
+
+This article presents agricultural statistics for Korea as of the end of 1933. It details the total cultivated land area, broken down into paddy (rice) fields and dry fields, showing significant regional variations. It quantifies land tenure, revealing that tenant farming (56.3%) was more common than owner-cultivation (43.7%), with tenancy rates particularly high for paddy fields (67.5%) and in specific provinces like Chŏlla North, Kyŏnggi, Ch'ungch'ŏng South, and Hwanghae. The article also provides data on farm households, indicating that over 3 million households engaged in farming (constituting 76.2% of all households), with the vast majority (94.5%) being full-time farmers. Over half of these farm households were purely tenant farmers (51.9%). This data is significant for historians studying Korea under Japanese rule, illustrating the structure of the colonial agricultural economy, the prevalence of tenancy (a major source of social and economic tension), regional disparities in land use and tenure, and the overwhelming agrarian nature of Korean society at the time. The high rate of tenancy, especially in rice-producing regions, reflects key aspects of colonial land policies and economic exploitation.
+
+**Named Entities**
+
+朝鮮	조선	Korea
+全北	전북	Chŏlla North (Chŏnbuk)
+忠南	충남	Ch'ungch'ŏng South (Ch'ungnam)
+慶南	경남	Kyŏngsang South (Kyŏngnam)
+京畿	경기	Kyŏnggi
+忠北	충북	Ch'ungch'ŏng North (Ch'ungbuk)
+全南	전남	Chŏlla South (Chŏnnam)
+慶北	경북	Kyŏngsang North (Kyŏngbuk)
+咸北	함북	Hamgyŏng North (Hambuk)
+咸南	함남	Hamgyŏng South (Hamnam)
+平南	평남	P'yŏngan South (P'yŏngnam)
+平北	평북	P'yŏngan North (P'yŏngbuk)
+黃海	황해	Hwanghae
+江原	강원	Kangwŏn
+
+**Glossary**
+
+耕地面積	경지 면적	Cultivated land area
+町步	정보	*Chŏngbo* (unit of area, approx. 2.45 acres or 9917 sq meters)
+畓	답	Paddy field (for wet-rice cultivation)
+田	전	Dry field (for other crops)
+道別	도별	By province
+自作地	자작지	Owner-cultivated land
+小作地	소작지	Tenant-farmed land
+現在	현재	Currently; As of (used with date)
+만흔	많은	Many; abundant (older spelling of 많은)
+이고	뿐이고	Only; merely (older spelling/form of 뿐이고)
+此	차	This (formal, literary pronoun)
+內外	내외	Around; approximately (used with numbers)
+臺	대	Range; level (e.g., 30% range)
+專業戶	전업호	Full-time farming household
+兼業戶	겸업호	Part-time farming household
+農家戶數	농가 호수	Number of farm households
+小作農	소작농	Tenant farmer
+自作兼小作農	자작 겸 소작농	Owner-farmer who also engages in tenant farming
+自作農	자작농	Owner-farmer
+被備者	피비자	Agricultural laborer (likely meaning farmhand or hired laborer; term is somewhat obscure)
+火田民	화전민	Fire-field farmer (slash-and-burn agriculture)
+割	할	Unit representing 10% (0.1)
+厘	리	Unit representing 1% (0.01) - *Note: In this text, sometimes 分 (푼) is also used for 1% alongside 厘.*
+分	푼	Unit representing 1% (0.01) - *See note for 厘.*
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제3호
+발행일	1935년 01월 01일
+기사제목	統計室
+기사형태	잡저
+
+統計室
+朝鮮의 耕地面積
+昭和八年末現在의 朝鮮耕地面積은 四百四十八萬九千二百町步나 그中 畓은 百六十八萬一千八百町步요(總面積의 三五 五%)田은 二百八十萬七千四百町步(六二, 五%)다 田畓의 構成態를 다시 道別로보면 田에 比하야 畓이 比較的만흔 地方은 全北, 忠南, 慶南이요(順次)京畿 忠北 全南 慶北은 田畓이 畧相等하고 咸北咸南, 平南, 平北, 黃海, 江原은 耕地의 七○%以上이 田이니 그中 咸北은 耕地의 九二, 二%가 田이다
+耕地를 道別로보면 黃海의 五十五萬四千町步가 最多하고 全南, 咸南, 平北, 平南, 京畿 慶北의 各道는 四十萬町步內로 耕地가 多한 地方에 屬하고 江原은 三十萬町步餘, 慶南, 忠南, 全北咸北은 二十萬町步요 最少는 忠北의 十六萬町步다 當히 全朝鮮總面積에 對한 耕地面積의 比例는 二割二厘니 此를다시 道別比例로보면 黃海의 三割二分八厘가 最多하고 京畿忠南全南, 은 三割臺, 全北, 平南, 慶南, 忠北, 慶北은 二割臺, 平北, 江原咸南咸北은 一割臺다.
+總耕地面積中 自作地는 百九十六萬二千町步(總耕地面積의 四三, 七%) 小作地는 二百五十二萬七千町步(五六, 三%) 다 此를 田畓別로보면
+一, 畓百六十八萬二千町步內自作地三二, 五%, 小作地六七 五%다 小作地에 對比하야 自作地가 만흔곳은 僅히 咸北咸南二道이고 其外他道는 全部小作地가 多하고 特히 全北, 京畿忠南黃海의 各道는 畓의 七○% 以上이 小作地다
+二, 田二百八十萬八千町步內自作地는 五○, 四%, 小作地는 四九六%, 이니 小作地에 對比하야 自作地의 多한 道는 咸北 咸南 全南 江原四道이고 그外各道는 全部小作地가 多하니 就中 京畿忠北忠南全北의 各道는 六○%以上이 小作地다
+朝鮮農業者戶數
+現在朝鮮農家戶數는 朝鮮人二, 九九八, 四九八戶로 其他를 總合하면 三, ○○九, 八五五戶니 그 中專業戶數는 二, 八四三, 九九六戶(總戶의 九四, 五%)兼業戶 一六五, 八五九戶(五, 五%)다
+道別의 戶數는 全南三十八萬戶가 最多하고 慶北의 三十六萬戶 慶南의 二十九萬戶, 江原, 黃海 京畿의 各二十四萬戶가 其次요 全北, 忠南, 咸南, 平南의 各道는 二十萬戶內外 忠北은 十四萬戶 咸北은 八萬戶니 全國中最少하다
+營農의 移別로보면 小作農 百五十六萬戶(總農家戶數의 五一, 九%)自作兼小作農七十二萬戶, 二四, 二%)自作農五十五萬戶(一八, 一%)被備者戶數 九萬戶(三, 一%)火田民戶數 八萬戶(二, 七%)다
+總戶數에 對한 農家戶數의 比例는 七六, 二戶니 此를 道別로하면 江原의 八九, 七戶가 最高率이요 忠北, 全北, 全南, 黃海, 慶北의 各道는 八○戶臺 平北, 咸南, 慶南, 平南은 七○戶臺, 咸北은 六○戶臺, 京畿의 五六, 五戶가 最低率이다
+×＜104＞
+監獄過歲人-(昨年十月末日現在)-
+＜105＞
+＜104-105＞

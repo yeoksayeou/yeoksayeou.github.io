@@ -1,0 +1,489 @@
+Magazine Title: 개벽 제38호
+Publication Date: 1923년 08월 01일
+Article Title: 新文學 建設과 한글 整理 (The Construction of New Literature and the Standardization of Hangeul)
+Author: 北京 梁明 (Yang Myŏng, Beijing)
+Article Type: 논설 (Editorial/Essay)
+
+The Construction of New Literature and the Standardization of Hangeul
+						Yang Myŏng, Beijing
+Our Speech and Our Script
+Dead Script and Living Literature
+New Literature and Old Literature
+My Six Conditions
+Concluding Remarks
+
+One.
+Over the past four years, I have received various unpleasant questions from foreigners regarding our circumstances. Among them, the one that troubled my heart the most was—
+“Does your country have its own inherent script? Can it fully express meaning without borrowing the power of Hanmun (Classical Chinese)?”
+Some among them even go so far as to ask—
+“Is your country’s language completely different from Japanese? Isn’t Japanese the language currently used among the people of your country?”
+It is certainly partly their fault that they do not know we possess a script more perfect than any other kind in the world. However, seeing the extremely indifferent attitude of our own people towards our script and our language, I cannot help but say that “at least a portion of this responsibility lies with our own nation.”
+In the past, our nation despised its own script, its own language, far too much.
+Various ancient records—*Taidong Unbu Kunok*, *Munhŏn Pigo*, *Yongbi Ŏch'ŏn'ga Chu*—explain that we had an inherent script before the import of Hanmun.
+The secret words of Sinji—*Kubyŏn Togyŏk*, *Un'gwan Pigi*—must have been recorded only if there was a script, and it is a clear fact that Hanmun had not been imported to us at that time <7>, so we can infer roughly that there must have been an inherent script. However, setting aside its form, we currently cannot even obtain materials to accurately prove its existence or non-existence.
+Sŏl Ch'ong's Idu script, being incomplete in itself, cannot be called a complete script of ours, so let's leave it aside. But how much contempt did Sejong's Hunminjŏng'ŭm (Correct Sounds for the Instruction of the People) receive from us?
+While calling China's Hanmun *chinsŏ* (眞書) - true script - they called our Chŏng'ŭm (Correct Sounds) *ŏnmun* (諺文)—vulgar script. Its sole task was to supplement the meaning of the true script, attached to true script texts like the Four Books and Three Classics or the *Komun Chinbo* (Treasury of Old Texts), and to become storybooks like "Once upon a time, Cho Ung, with a single horse and spear..." providing idle pastime for underlings in the servants' quarters or woodcutters in the countryside.
+Just as Sinji's ancient script lost even its existence due to the import of Hanmun, Sejong's Chŏng'ŭm suffered oppression even more severe than that of Black slaves in America before the North-South War, under the tyranny of Hanmun.
+This is not all. Those who treated their own script with contempt, calling it vulgar script, also despised their own language, calling it vulgar speech.
+Saying "nalssiga ttatŭt'ada" (the weather is warm) is vulgar speech, while "ilgi'ga onnan'hada" (日氣가 溫暖하다 - the weather is warm) is refined speech. Saying "heyŏjin ot" (worn-out clothes) is vulgar speech, while "namnuhan ŭibok" (襤褸한 衣服 - ragged clothes) is refined speech. Saying "saeparam" (east wind) or "maparam" (south wind) is vulgar speech, while "tongp'ung" (東風 - east wind) or "namp'ung" (南風 - south wind) is refined speech. Those who created strict classes like *yangban* (aristocrats) and *sangnom* (commoners), ignoring the common people's right to exist, abused their own language by designating terms as refined speech and vulgar speech.
+If the uneducated class, whom they called *sangnom*, had not existed, all of our inherent language would surely have been lost. Seen from one perspective, how can we say it is "not our responsibility" that we currently receive questions like the ones mentioned above from foreigners?
+
+Two.
+The fact that our nation, possessing extraordinary talent in the arts, has never once been able to build a literature worthy of the name—a living literature—over the past thousands of years is undoubtedly due to the poisonous influence of Hanmun <8>. How could valuable creation—living literature—be produced by our nation, whose era, customs, and habits are distinctly different, using the inconvenient Hanmun—Hanmun which one can only write after reading ten thousand volumes and only read after reading ten thousand volumes—especially the dead literary styles of the Spring and Autumn, Warring States, Qin, Han, Tang, and Song periods?
+A dead script can never produce living literature. Dead Hanmun—especially classical prose (古文, komun)—could not produce truly living, vital literature even in its place of origin, China. Among modern Chinese works, those considered to have the most value as new literature, such as *Honglou Meng*, *Shuihu Zhuan*, *Xiyou Ji*, *Rulin Waishi*, *Jinghua Yuan*..., are all written in Baihua (白話)—China's national vernacular. Hu Shih (胡適), a currently famous critic of new Chinese literature, asserted in his "On Constructive Literary Revolution" that "Among all Chinese literature, ancient and modern, any literature that has even a little value, even a little life, is all Baihua or close to Baihua. The rest are all lifeless antiques, no more than display items in a museum." This alone allows us to guess how incompatible dead script and living literature are.
+For English literature, French literature, and German literature to occupy the important positions they currently hold in the world's literary scene, their national language liberation movements were absolutely necessary. If their national languages had not been liberated around the 15th century, and literary giants like Shakespeare, Goethe (케데), Hugo... had ended up writing in dead Latin, they would never have been able to build living literature like *Hamlet*, *Faust* (푸아스터), *Les Misérables* (哀史)...
+Regardless of the nation or era, no one has ever produced living literature—valuable works—using a dead script that does not align at all with their daily language. Therefore, the first step in our current new literature construction movement lies in discarding all such dead scripts that do not conform to our present language and reviving our language, our script. Until our hidden literature emerges onto the world stage, a national language liberation movement is, above all, absolutely necessary. We must completely abandon not only the classical prose styles of Qin, Han, Tang, and Song, but also the so-called *kukhanmun* (國漢文) mixed script, parallel prose (騈文, pyŏnmun)-style writing, and classics where the character meaning (字意) and word meaning (語意) do not match—abstruse and obscure Chinese characters (漢字)—and build a complete national language script (國語文)—a living script (活文字)—based on our present language as the standard <9>.
+However, this alone is not enough.
+Our national script (國文, kungmun), which has become chaotic and disorderly due to centuries of careless use, must be organized with grammar, punctuation, and symbols. Taking a step further, our meager literature must strive for enrichment of content.
+Listing these few points as conditions, they are as follows:
+One. Write according to our present-day speech.
+Two. Limit the use of Chinese characters.
+Three. Write according to grammar.
+Four. Use punctuation and symbols.
+Five. Do not write for the sake of writing itself.
+Six. Treat translation as translation and creation as creation.
+Before explaining the content of these six conditions one by one, due to the necessity of order, I wish to first speak about the points of difference between new literature and old literature.
+
+Three.
+If one were to list all the points of difference between old literature and new literature, it seems there would be no end. However, due to space constraints here, I intend to mention only a few of the most prominent points among them.
+One. Old literature is aristocratic literature; new literature is social literature.
+Almost all authors of antiquity came from aristocratic society, and the readers were also mostly aristocrats. When authors lacking experience of living society wrote for readers from the minority aristocratic class, their materials naturally could not escape the narrow confines of beautiful women, talented men—officials, kisaeng (妓女)—and their literary style was also that of millennia-old antiques—dead styles. Just as paintings, calligraphy, or sculptures gain value with age, they considered literature valuable only if its style was archaic and, moreover, if it used as many obscure characters found in old books as possible. However, modern literature is the exact opposite. Besides its authors all being university graduates with experience of living society, they write for the whole of society—at least for the entire populace with reading ability. Consequently, officials, soldiers, scholars, farmers, workers, merchants, laborers, beggars... not a single one among all these social classes fails to be their material, and their literary style is made as easy as possible—as close as possible to everyday language. While it is <10> true that meticulous ideals supplement a lack of experience, there is no possibility of becoming a new literature author without any direct personal experience whatsoever.
+In short, old literature is aristocratic literature written by authors lacking experience of real society for the aristocratic society, a minority class; new literature is social literature written by authors who have sufficiently undergone the baptism of living society for the majority of society.
+Two. Old literature is formalistic literature; new literature is realistic literature.
+Old literature authors, besides mostly being aristocrats lacking social experience, used dead literary styles from millennia ago and classics where content and fact did not align, attempting to depict complex society and subtle human emotions within the narrow scope of "literature as a vehicle for the Way" (文以戴道, Mun i chae to) with the sole objective of "promoting good and punishing evil" (勸善懲惡, kwŏnsŏn ching'ak). Consequently, the result was either turning contemporary figures into dead scarecrows from millennia ago or telling lies that deceived oneself and others. If they visited someone and failed to meet them, they would invariably write "T'i pong i hoe" (題鳳而回 - inscribed [a poem about] a phoenix and returned); if they waited for someone, they would invariably write "Su k'u i mang" (首邱而望 - looked towards one's native hill). Whether they actually gave a calling card or drew a phoenix mattered not at all to them; whether they waited in a room or in a field was irrelevant. They even use lies like "Wang Ch'an tŭng nu" (王粲登樓 - Wang Can ascended the tower) or "Chung Sŏn chak pu" (仲宣作賦 - Zhongxuan composed a fu poem) when thinking of home. The virtuous Ch'unhyang must meet Yi Toryŏng, who has returned as a secret royal inspector, and the filial Sim Ch'ŏng must die, come back to life, become an empress, and meet her father.
+However, new literature is the opposite. They feel no pain of having to depict living people with dead styles, nor any need to deceive themselves and others. Furthermore, concepts like "literature as a vehicle for the Way" or "promoting good and punishing evil" hold no meaning for them. Possessing rich experience and meticulous ideals, they simply depict complex society, subtle human emotions... all problems of society and life as they actually are, using free forms and free ideals.
+If we compare the prose of the Eight Great Masters of the Tang and Song with the masterpieces of modern European and American literature, we can easily understand the difference between the old literature that prioritized form and the new literature that concentrates on content <11>.
+Three. Old literature is playful literature; new literature is life literature.
+Old literature was written by its authors with a playful attitude, and readers also read it as an idle pastime after drinking or meals. Its authors, when they failed to achieve their ambitions and spent idle years as commoners, wrote novels to mock those in power or forget their discontent; when enjoying fine wine and beautiful courtesans for fleeting pleasure, they wrote poetry to boast of their own gallantry. Their sole purpose, "When successful, benefit the world; when in poverty, cultivate personal integrity" (達則兼善天下 窮則獨善其身), was to become the prime minister of a nation and manage politics; producing masterpieces of literature was not something they desired as much. Consequently, the result was the worship of politics and the disdain of literature, so that purely literary works of antiquity are almost entirely either absurd lies, lewd books about beautiful women and talented men, or mere collections of classics scraped together from here and there to display one's erudition.
+However, new literature is different. Its authors all recognize literature as their sole calling and sacrifice everything for their works. Not only social honor and physical pleasure, but they even offer up their own bodies. Consequently, in their works, one can see a strong power and new spirit not found in old literature.
+In other words, old literature is playful literature written with an entertaining attitude by authors to mock those in power or advertise themselves; new literature is life literature written with all their strength and sincerity by authors who recognize literature as their calling.
+Let's conclude the differences between new and old literature here and next briefly state my opinions on my six conditions.
+
+Four.
+(One) Write according to our present-day speech.
+Just as the sole language of English literature is English and the sole language of French literature is French, our language is the sole language of our literature, and our contemporary language is the sole language of our contemporary literature.
+Words like "온" (on - hundred), "즘" (chŭm - thousand), "골" (kol - village), "잘" (chal - castle?), "가뭘" (kamwŏl - drought?), "검" (kŏm - god/spirit)... are words from our ancient language but have already fallen out of use <12>, so they cannot be widely used as the language of modern literature. Conversely, words like "뽈" (ppol - ball), "람프" (ramp'ŭ - lamp), "라겟" (raget - racket), "카스데라" (k'asŭdera - castella cake)... are foreign words but have become part of our current language, so they can certainly be used as the language of our literature. However, meaningless direct translations like "都合에 依하야" (tsugō ni yorite - according to convenience), "大層面白" (taisō omoshiroi - very interesting), "御中" (onchū - Messrs.), "殿" (tono - Mr./Lord), "樣" (sama - Mr./Ms.), "場合" (baai - case/situation)... cannot be used as the language of our literature, not only because the meaning does not communicate well, but also because we have excellent Korean equivalents like "事情으로 因하야" (sajŏng'ŭro inhaya - due to circumstances), "大端 滋味" (taedan chami - extremely interesting), "貴中" (kwijung - To [Company Name]), "座下" (chwaha - To [Respected Sir]), "兄" (hyŏng - older brother/Mr.), "境遇" (kyŏng'u - situation/case)...
+Where inherent Korean words exist, use Korean words; if none exist, try to coin new words as much as possible, but in unavoidable situations, foreign words may also be used. We have no need, like our ancient ancestors, to adopt refined foreign words by calling "our own words vulgar speech," nor do we need to extremely reject foreign words that have already become part of our own language.
+Here we can reach the conclusion that "our literature must be in our language, and our modern literature must be in our modern language," and consequently, we can assert that "all literary styles violating this principle have no value to exist even one day longer."
+The mixed script currently in vogue in our publishing world, called *kukhanmun* (國漢文), not only violates this principle but is also neither Hanmun nor Korean script—an unnatural style, like wearing a traditional topknot cap (丁字冠, chŏngjagwan) with a Western frock coat ("후로코트", hŭrok'ot'ŭ). Seeing those who burst into laughter if someone says "I가 Go to school 하다" (I ka go to school hada) but proudly write "我가 學校에 往하다" (A ka hakkyo e wanghada - I go to school) makes one feel that the power of habit is indeed great.
+Just as English is English and French is French, Korean script is Korean script and Hanmun is Hanmun; they must absolutely not be mixed. Believing that coloring the 3,000-year-old antique—dead Hanmun—with modern Korean words will create a new literary style is the exact same delusion as dressing a 4,000-year-old mummy in 20th-century clothes and boasting it's a living person.
+Furthermore, this is not all. Since new literature is social literature prioritizing plainness, we must completely discard classics where the character meaning and word meaning do not match, like <13> "ch'aesin chi u" (採薪之憂 - anxiety about gathering firewood [illness]), "t'i pong myŏn hoe" (題鳳面回 - inscribed [poem about] a phoenix and returned [failing to meet someone]), "k'o bun chi t'ong" (叩盆之痛 - grief of beating a basin [wife's death])... And since new literature is realistic literature prioritizing content, we must completely abandon parallel prose (騈文, pyŏnmun)-style writing that directly imitates the parallelism (對法, taebŏp) of Hanmun, such as "The weather is warm and the wind is calm, sparrows chirp and orioles sing..."
+In short, the first step of the new literature construction movement lies in completely discarding all literary styles that do not conform to our modern language—all difficult and unnatural styles—and constructing a new, easy, and natural literary style based on our current language as the standard.
+(Two) Limit the use of Chinese characters.
+When I think of the poisonous influence our past literature and past education suffered under the tyranny of Hanmun, I immediately want to write an "Argument for the Complete Abolition of Chinese Characters." However, habit is second nature. Completely abolishing Chinese characters used for thousands of years all at once is indeed an extremely difficult task, and besides, if commonly used Chinese characters were limited to a certain number, there likely wouldn't be much inconvenience, so there seems to be no need to abolish them completely.
+Here, I intend to briefly state a few opinions regarding the limitation of Chinese characters.
+(a) Limit commonly used Chinese characters to a fixed number. Around 1,000 characters.
+(b) Write all foreign words and proper nouns like personal names and place names entirely in Korean script, but add the Chinese characters below for Hanmun personal and place names.
+However, using Chinese characters within the scope of common usage exclusively for Hanmun proper nouns is ineffective (無效함, muhyoham - *likely meant 無妨함, mubangham - permissible*).
+(c) Create a dictionary containing only the commonly used characters.
+(d) Incorporate all commonly used characters into elementary school textbooks.
+If just these few points were fully implemented, it seems there would be no particular inconvenience even without completely abolishing Chinese characters. However, this is a problem that can only be fully implemented after a movement to limit Chinese characters arises among us and succeeds through the power of public opinion. Therefore, the task requiring our attention right now is for individuals to strive to use fewer Chinese characters—to avoid using obscure Chinese characters as much as possible.
+(Three) Write according to grammar.
+Our script, which was more orderly and regular than that of any nation in the world, has now become unspeakably tangled due to centuries of careless use <14>.
+A single word like *saram* (person)
+is written in eight ways: "사람, 살암, ,  / 사, 살, 람, 암".
+And a single particle "nŭn" (는) in "nanŭn" (나는 - I am/as for me)
+is written in three ways: "는, 난, ".
+That's not all. When writing the simple phrase "nanŭn hakkyo e kanda" (나는 學校에 간다 - I go to school),
+we write with arbitrary spacing like:
+"나는學校에간다."
+"나는學校에 간다."
+"나는 學校에간다."
+"나는 學校에 간다."
+"나는 學校 에 가 ㄴ 다"
+...each person spacing as they please. It is indeed incomprehensible that we, who are not careless about a single dot or stroke when writing Hanmun and do not mis-space a single letter when writing English, write carelessly—haphazardly—when writing our own script.
+Of course, it is also true that we currently lack even a standard dictionary and a completed grammar, making it difficult to know what to follow. However, works like *Kiptŏ Chosŏn Malbon* (Deepened Korean Grammar), *Marŭi Sori* (The Sound of Speech), *Hyŏn'gŭm Chosŏn Munjŏn* (Contemporary Korean Grammar)... are all great achievements in our meager publishing world, written with the lifelong devotion of their authors. While we cannot say "these are perfect," they seem sufficient as research material for us.
+In all worldly affairs, it is the rule that only after tens of millions of failures does one success emerge. Our grammar completion project must absolutely not be left solely to the few individuals like Chu Si-gyŏng, Kim Tu-bong, Yi Kyu-yŏng... Furthermore, while discovering hidden truths and hidden rules might be called the work of grammar specialists, popularizing these among the general public, especially unifying the writing method, requires the effort of literary figures more than anything else.
+What unified English spelling ("스펠", sŭp'el) was not the grammar books or dictionaries of English language specialists, but rather Shakespeare's plays.
+Regardless of the era or nation, people who learn the composition rules of their own script from dictionaries or grammar books are an extreme minority. The vast majority of the populace learns naturally while reading masterpieces of novels, plays, poetry, and essays <15>.
+Kim Tu-bong's *Kiptŏ Chosŏn Malbon* includes "Choŭn'gŭl" (Good Writing) and "Naljŏk" (Raw Trace?) as appendices, but our current situation, where the general populace writes "saram" in eight different ways, explains this more eloquently than anything.
+Therefore, our script unification project requires, on the one hand, the absolute necessity of grammar completion and dictionary publication, and on the other hand, the paramount need to print valuable works according to grammatical rules and introduce them to the general populace.
+From any perspective, future authors among us must have considerable research and understanding regarding grammar.
+(Four) Use Punctuation and Symbols.
+In the past, East Asian scripts did not regard punctuation and symbols as particularly important. However, just like the pitch and clarity of speech, punctuation and symbols in writing are absolutely necessary for any kind of script. Just as the same speech conveys different meanings depending on its pitch, the same writing can express different meanings depending on its symbols. Moreover, punctuation and symbols constantly supplement areas where script alone cannot express—the deficiencies of writing. For example:
+(a) Ŏdero kana! (Where are you going!)
+Ŏdero kana? (Where are you going?)
+(b) Meng-tzu, Meng-tzu (Mencius, Mencius - perhaps indicating emphasis or repetition)
+express different meanings. And things like:
+(a) San e kaja! Mur e kaja! (Let's go to the mountains! Let's go to the water!)
+Kŭrigo tto ŏdero...! (And then where else...!)
+(b) Ttaeng- ttaeng- ttaeng- sigye nŭn sŏk chŏm ŭl ch'inda. (Ding- ding- ding- the clock strikes three.)
+are all written using the power of symbols to express things difficult to convey with script alone. Below, I intend to explain the nine types I have considered for punctuation and symbols in our literature, giving examples for each.
+(a) . When a phrase is completely finished.
+Example: Kkŭllŭn kug e mat morŭnda. (You don't know the taste of boiling soup.)
+(b) , When separating two or more words or phrases used with the same value.
+Example: Uri marŭi kallae rŭl im, ŏt, um, kyŏt, it, maet, ŏn, ŏk, nok,- ahob e nanunani-ra. (Our language's branches are divided into nine: im, ŏt, um, kyŏt, it, maet, ŏn, ŏk, nok.)
+(c) ? To indicate a question.
+Example: Ne tam i animyŏn nae so ppur i purŏ chiŏtgennŭnya? <16> (If it wasn't your fence, would my cow's horn have broken?)
+(d) ! To indicate exclamation or command.
+Example: (ㄱ) Am! Kŭritk'o malgo! (Yes! Of course!)
+(ㄴ) Pit pojŭng hanŭn chasig ŭn nach'ido malla! (Don't even give birth to a child who guarantees debts!)
+(e) ...... (ㄱ) When abbreviating letters or phrases.
+Example: Kamwŏl, kŏm, ŭn, chŭm...... kat'ŭn kŏs ŭn uri ye mal-inira. (Words like kamwŏl, kŏm, ŭn, chŭm... are our old words.)
+(ㄴ) When the meaning is not completely finished.
+Example: Kŭrae! Ne ka himman ssŭmyŏn......! (Right! If only you put in the effort......!)
+(f) - (ㄱ) To indicate proper nouns like personal names and place names.
+Example: Sinji, Wŏnhyo, Hanyang
+(ㄴ) To indicate that what is above and below have the same meaning or same nature.
+Example: Ŭimun ŭi saram- renin-... (The man of doubt - Lenin-...)
+(ㄷ) When the thought suddenly changes.
+Example: Manil kŭ ka patchi annŭndamyŏn?- e- kŭrŏl nich'i ya ŏpkechi! (What if he doesn't receive it?- Eh- there's no way that would happen!)
+(ㄹ) To indicate discontinuous speech or sound.
+Example: (ㄱ) Kŭ- kŭjŏkke mŏn- sanpo rŭl kattetta. (Th- the day before yesterday, I went for a wa- walk.)
+(ㄴ) Ttaeng- ttaeng- ttaeng- sigye nŭn sŏkchŏm ŭl ch'inda. (Ding- ding- ding- the clock strikes three.)
+(g) 『 』 To indicate direct conversation.
+Example: Kŭ nŭn taedap hayŏtta.- 『Ŏjepam e chop nŭtke chasŏ...』rago. (He answered.- "Because I went to bed a bit late last night...".)
+(h) 「 」 To indicate quoted speech or writing.
+Example: Sŏyang e 「Roma nŭn haro e toen kŏsi anira」nŭn soktam i itta. (In the West, there is a proverb, "Rome wasn't built in a day.")
+(i) ~ To indicate book titles, chapter titles, song titles.
+Example: Marŭi Sori, Changja, Ch'ŏnhap'yŏn, Ch'up'ungok
+(Five) Do not write for the sake of writing itself.
+Rhetoric (修辭, susa) is absolutely necessary in literature. However, the true value of literature lies in its content. Before there is sufficient content of thought and emotion within, external cleverness is merely superficial decoration. Poetry without poetic thought, novels and plays that fail to depict human emotion and society, prose with insufficient material—all these, no matter how ingenious their rhetoric or beautiful their form, are merely lifeless idol-literature.
+We must absolutely not write poetry or novels with an entertaining attitude. We must take up the pen with the same sincerity as the founder of a religion preaching their doctrine to the populace—with the same psychology <17> as the composer of music performing their masterpiece to the public. Writing produced without oneself weeping cannot make others weep; words that do not cry out from one's own heart cannot move others. The reason Kongmyŏng's (Zhuge Liang) *Ch'ulsa P'yo* (Memorial on Launching a Campaign) and Wŏlsa's (Yi Chŏng-gwi) *Pyŏnmuso* (Petition to Clear False Charges) evoke special emotion in the reader is absolutely not because their rhetoric is so ingenious, but because they themselves wrote those pieces while shedding tears of blood in their hearts.
+In other words, literature is absolutely not entertainment. The true value of literature lies in its content. Therefore, just as we must not compose poetry or novels as an idle pastime, we must not produce works lacking sufficient internal content—thought, feeling. We should only take up the pen when we receive an uncontrollable internal impulse driven by emotion and thought.
+For our literature to evolve from the playful literature of the past to the life literature of the future, this principle—"Do not write for the sake of writing, but only take up the pen when receiving an uncontrollable creative impulse from thought and emotion"—is absolutely necessary.
+(Six) Treat translation as translation and creation as creation.
+Translation and creation are two tasks equally necessary for our new literature construction movement. It is a fact that among our old literature, there is a lack of valuable works whose content and form are sufficient to serve as models for new literature. Therefore, more than anything, we must first translate valuable foreign creations into our language to serve as our reference. And since the sole goal of our new literature construction movement lies in producing works greater than any literature in the world, we must, more than anything, respect creation as preparation for it. However, translation and creation differ entirely in their purpose and method. Translation is transferring great foreign works into one's own language to introduce them to one's own populace who lack proficiency in the foreign language. Therefore, its sole purpose lies in preserving the meaning of the original work as much as possible. In contrast, creation is depicting the subtle aspects of human emotion and society as well as one can oneself. Therefore, its value is determined by its content—the quality of its depiction.
+In our literary world, thanks to the efforts of various pioneers over the past few years, quite a few translations and creations have been produced. Even plays by Shakespeare, famous for being difficult to translate, have seen one volume translated <18>.
+However, unfortunately, in our translation circles, there are still many abridged translations (宿譯, sugyŏk - *likely meant 縮譯, ch'ugyŏk*) that shorten long works into short ones, and free translations (意譯, ŭiyŏk) that prioritize the translator's own ideas over the original work. And in our creation circles, there are many works that are mere imitations of foreign works. Some among them are even charlatans who modify works published abroad to suit their own taste and advertise them as "their own creation."
+For essays concerning scholarship or current affairs, abridged or free translations might not be much of an issue, but for purely literary works like novels and plays, this seems questionable. It is a fact that unless the translator possesses greater talent than the author, such translations cannot achieve sufficient effect. It is extremely regrettable that Tolstoy's long novel *Resurrection* became the short story *Haedanghwa* (Rose of Sharon/Hibiscus?) in Korean.
+Since the ideal of translation lies in preserving the meaning of the original work as much as possible, and the ideal of creation lies in depicting society and life as well as possible, we must absolutely not conflate these two. "Translation as translation—creation as creation..."—we must continue our two tasks with distinctly different spirits and methods, whatever the cost.
+
+Five.
+What I intended to write briefly has unexpectedly become long. As a writer lacking sufficient research and understanding of modern literature—especially our literary scene—writing hastily in a foreign land without even reference books, there are likely many insufficient points. However, since the construction of our new literature, like all other endeavors, is an essential task that must be carried out by the hands of our youth, discussion regarding its method is absolutely necessary for us.
+The purpose of this short essay lies in serving as a draft for such discussion—discussion regarding the method of constructing new literature. Therefore, whether its method is well-determined or poorly determined will depend less on the completeness or incompleteness of the draft and more on the revisions from various thoughtful minds.
+As I conclude this writing, I can only hope for the health and guidance of the various enlightened figures at home and abroad—especially the many teachers who possess much research or understanding regarding the construction of new literature.
+(End) (Morning, 1923.6.18.) <19>
+
+**Summary**
+
+This 1923 essay by "Yang Myŏng" argues passionately for the creation of a "New Literature" (新文學) in Korea. The author contends that Korea's literary potential has been stifled for centuries by reliance on "dead" Classical Chinese (Hanmun) and impractical mixed scripts (Kukhanmun), which he compares to trying to express modern life using ancient, foreign tools. He calls for a radical shift towards using contemporary spoken Korean, written purely in Hangeul (or with drastically limited Hanja), standardized through grammar and proper punctuation. He contrasts this envisioned "living literature"—socially relevant, realistic, and born from sincere artistic impulse—with the "old literature" (舊文學), which he characterizes as aristocratic, formalistic, superficial, and detached from real life. The author proposes six conditions for this new literary movement, emphasizing linguistic reform, grammatical consistency, meaningful content over mere form, and a clear distinction between translation and original creation.
+
+From a historical perspective, the article is highly significant. Written during the Japanese colonial period, it reflects a powerful surge of Korean linguistic nationalism and a desire for cultural self-assertion through literature. The explicit rejection of Hanmun (associated with the old elite and China) and the critique of Japanese linguistic influence (implied in the discussion of loanwords and direct translation) underscore the connection between language reform and national identity. The author's call for a Hangeul-centric, vernacular-based literature aligns with broader contemporary movements aimed at modernizing Korean society and resisting cultural assimilation. Historians would find the detailed linguistic arguments (orthography, spacing, punctuation), the comparison with Western and Chinese literary movements, and the sharp critique of past literary practices valuable for understanding the intellectual currents driving Korean modern literature and nationalism in the 1920s.
+
+**Named Entities**
+
+北京	베이징	Beijing
+梁明	양명	Yang Myŏng
+中國	중국	China
+大東韻府群玉	대동운부군옥	Taidong Unbu Kunok
+文獻備考	문헌비고	Munhŏn Pigo
+龍飛御天歌註	용비어천가주	Yongbi Ŏch'ŏn'ga Chu
+神誌	신지	Sinji
+薛聰	설총	Sŏl Ch'ong
+世宗	세종	Sejong
+美洲	미주	America (Miju)
+胡適	호적	Hu Shih
+英文學	영문학	English Literature
+佛文學	불문학	French Literature
+獨文學	독문학	German Literature
+섹스피어	섹스피어	Shakespeare
+케데	케데	Goethe (likely intended)
+유고	유고	Hugo
+함레트	함레트	Hamlet
+푸아스터	푸아스터	Faust (likely intended)
+哀史	애사	Les Misérables (likely intended)
+秦	진	Qin
+漢	한	Han
+唐	당	Tang
+宋	송	Song
+唐宋 八家文	당송 팔가문	Eight Great Prose Masters of the Tang and Song
+歐美	구미	Europe and America (Kumi)
+王粲	왕찬	Wang Can
+仲宣	중선	Zhongxuan (Wang Can's courtesy name)
+李道令	이도령	Yi Toryŏng
+春香	춘향	Ch'unhyang
+沈淸	심청	Sim Ch'ŏng
+孔明	공명	Kongmyŏng (Zhuge Liang)
+月沙	월사	Wŏlsa (Yi Chŏng-gwi)
+周時經	주시경	Chu Si-gyŏng
+金枓奉	김두봉	Kim Tu-bong
+李奎榮	이규영	Yi Kyu-yŏng
+西洋	서양	Western World (Sŏyang)
+로마	로마	Rome
+톨스토이	톨스토이	Tolstoy
+海棠花	해당화	Haedanghwa
+紅樓夢	홍루몽	Honglou Meng (Dream of the Red Chamber)
+水滸志	수호지	Shuihu Zhuan (Water Margin)
+西遊記	서유기	Xiyou Ji (Journey to the West)
+儒林外史	유림외사	Rulin Waishi (The Scholars)
+鏡花綠	경화록	Jinghua Yuan (Flowers in the Mirror)
+漢陽	한양	Hanyang (Old name for Seoul)
+元曉	원효	Wŏnhyo
+孟子	맹자	Mencius (Meng-tzu)
+莊子	장자	Zhuangzi (Changja)
+天下篇	천하편	Tianxia chapter (Ch'ŏnhap'yŏn)
+秋風曲	추풍곡	Autumn Wind Song (Ch'up'ungok)
+
+**Glossary**
+
+固有한 文字	고유한 문자	Inherent script
+漢文	한문	Classical Chinese writing (Hanmun)
+意思	의사	Meaning, intention
+言語	언어	Language, speech
+文字	문자	Script, writing system, characters
+民族	민족	Nation, people, ethnic group
+蔑視하엿다	멸시하였다	Despised (older past tense form of 蔑視하다)
+記錄	기록	Record, document
+吏讀文	이두문	Idu script (system using Hanja to transcribe Korean)
+訓民正音	훈민정음	Hunminjŏng'ŭm (Original name for Hangeul)
+賤待	천대	Contemptuous treatment, disdain
+眞書	진서	True script (referring to Hanja)
+諺文	언문	Vernacular script (derogatory term for Hangeul)
+常말	상말	Vulgar speech, common speech (older term)
+階級	계급	Social class
+學待 하엿다	학대하였다	Abused, mistreated (older past tense form of 학대하다)
+遺失되고	유실되고	Being lost, going missing
+藝術	예술	Art
+文學	문학	Literature
+建設	건설	Construction, building
+流毒	유독	Poisonous influence, harmful effect
+時代	시대	Era, age
+風俗	풍속	Customs
+習慣	습관	Habits
+價値	가치	Value, worth
+創作	창작	Creation (literary/artistic)
+産出될	산출될	To be produced, yielded
+死文字	사문자	Dead script/writing
+活文學	활문학	Living literature
+國語文	국어문	National language writing (vernacular script)
+批評家	비평가	Critic
+白話	백화	Baihua (Chinese vernacular language/writing)
+古菫	고근	Antique (used metaphorically for outdated literature)
+國語解放運動	국어해방운동	National language liberation movement
+著作	저작	Work, writing, book
+符合되지 안는	부합되지 않는	Not conforming to, not matching
+廢棄	폐기	Discard, abolish
+復活식히는	부활시키는	Reviving (older causative form)
+國漢文	국한문	Mixed Korean (Hangeul) and Chinese (Hanja) script
+混用文	혼용문	Mixed-use writing
+騈文式	병문식	Parallel prose style (pyŏnmun)
+古典	고전	Classic texts; here used pejoratively for obscure allusions
+窮僻한 漢字	궁벽한 한자	Obscure/difficult Chinese characters
+整理하여야겟고	정리하여야겠고	Must organize/standardize (older future conjectural form)
+文法	문법	Grammar
+句點	구점	Punctuation marks (specifically period-like marks)
+符號	부호	Symbols, marks (including punctuation)
+內容	내용	Content
+充實	충실	Fullness, richness, substance
+圖謀하여야 겟다	도모하여야 겠다	Must plan/strive for (older future conjectural form)
+條件	조건	Condition, requirement
+舊文學	구문학	Old literature
+新文學	신문학	New literature
+差異點	차이점	Point of difference
+顯著한	현저한	Prominent, conspicuous
+貴族文學	귀족문학	Aristocratic literature
+社會文學	사회문학	Social literature
+活社會	활사회	Living society
+經驗	경험	Experience
+讀者	독자	Reader
+材料	재료	Material, subject matter
+官吏	관리	Government official
+妓女	기녀	Kisaeng, female entertainer/courtesan
+文體	문체	Literary style
+古董	골동	Antique
+死亡體	사망체	Dead style
+現代	현대	Modern times, contemporary
+民衆	민중	The populace, the masses
+階級	계급	Class (social)
+理想	이상	Ideal
+補助하는	보조하는	Supplementing, assisting
+可能性	가능성	Possibility
+形式文學	형식문학	Formalistic literature
+寫實文學	사실문학	Realistic literature
+勸善懲惡	권선징악	Promoting good and punishing evil
+模寫하여야	모사하여야	Must depict/copy
+苦痛	고통	Pain, suffering
+實際	실제	Actuality, reality
+比較하야	비교하여	Comparing (older form of 비교하여)
+遊戱文學	유희문학	Playful literature, literature as amusement
+生命文學	생명문학	Life literature, literature with vitality
+態度	태도	Attitude
+目的	목적	Purpose, objective
+文藝	문예	Literature and art
+崇拜	숭배	Worship, adoration
+飜譯	번역	Translation
+制限할 것	제한할 것	To limit, restrict
+習慣	습관	Habit, custom
+辭典	사전	Dictionary
+統一케 함	통일케 함	Making unified, unifying (older causative form)
+傑作	걸작	Masterpiece
+紹介하는	소개하는	Introducing
+修辭	수사	Rhetoric
+虛飾	허식	Ostentation, empty forms
+感情	감정	Emotion, feeling
+衝動	충동	Impulse
+參考	참고	Reference
+宿譯	숙역	Abridged translation (*likely typo for 縮譯*)
+縮譯	축역	Abridged translation
+意譯	의역	Free translation (translating the meaning)
+模倣한	모방한	Imitated, copied
+論文	논문	Essay, thesis, paper
+繼續하여야 되겟다	계속하여야 되겠다	Must continue (older future conjectural form)
+討論	토론	Discussion, debate
+草案	초안	Draft, rough plan
+指導	지도	Guidance, leadership
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제38호
+발행일	1923년 08월 01일
+기사제목	新文學 建設과 한글 整理
+필자	北京 梁明
+기사형태	논설
+
+新文學 建設과 한글 整理
+						北京 梁明
+우리말과 우리 글
+死文字와 活文學
+新文學과 舊文學
+나의 여섯 가지 條件
+마지막 말
+
+一.
+過去-4年동안 나는 外國 사람에게서 우리 形便에 對한 여러 가지 不快한 質問을 바닷다. 그 中에도 第一 나의 맘을 괴롭게 한 것은-
+「貴國에도 固有한 文字가 잇느냐? 그것은 漢文의 힘을 빌리지 안코도 完全히 意思를 表示할 수 잇느냐?」
+는 것이엇다. 甚至於 그네들 中에는
+「貴國의 言語는 日語와 完全히 다르냐? 現在 貴國 사람 間에 通用되는 것이 日語가 아니냐?」
+고 뭇는 이까지 잇다.
+世界 어느 種類의 그것보다도 完美한 文字가 우리에게 잇는 것을 그네들이 알지 못한 것은 勿論 그네들에게 一部分의 過失이 잇다. 그러나 우리 글 우리 말에 對한 우리 民族 自身의 너머도 冷淡한 態度를 볼 때에 나는 「적어도 이 責任의 一部分이 우리 民族 自身에 잇다」고 하지 아니할 수 업다.
+過去 우리 民族은 自己의 文字, 自己의 言語를 너머도 蔑視하엿다.
+古代의 여러 記錄―大東韻府群玉, 文獻備考, 龍飛御天歌註―는 漢文 輸入前 우리에게 固有한 文字가 잇든 것을 說明한다.
+神誌의 秘詞―九變圖局, 雲觀秘記―는 文字가 잇고야 記錄되엇을 것이오 그때 우리에게＜7＞ 漢文이 輸入되지 아니하엿든 것은 明白한 事實이니 固有한 文字가 잇엇으리라는 것은 大綱 推測으로라도 알 수 잇는 바이다. 그러나 우리는 只今 그의 形體는 姑捨하고 그의 有無조차 正確하게 證明할만한 材料를 어들 수 업다.
+薛聰의 吏讀文은 그 自體가 不完全하고 完全한 우리 글이라 할 수 업으니 그만 둘려니와 世宗의 訓民正音은 우리에게 얼마나 賤待를 바덧는가?
+中國의 漢文은 眞書- 참글- 이뛀¼ 하면서 우리의 正音은 諺文―상말글―이라 하엿다. 四書三經이나 古文眞寶 가튼 眞書말에 달니어서 眞書의 意思를 補充하는 것과 「각설이 때 조웅이 필마단창으로 ...」라는 허황한 이악이 冊이 되어서 행낭 下人이나 시골 나무군의 심심 消日거리가 되는 것이 언문- 상말글-의 惟一한 任務이엇다.
+神誌의 古文字가 漢文의 輸入으로 그의 存在조차아 일케 되고 만 것 가티 世宗의 正音은 漢文의 專制미테서 南北戰爭 前 美洲의 黑奴보다도 더 甚한 壓制를 當하엿다.
+이 뿐 아니다. 自己의 글을 상말글이라 하야 賤待한 그네들은 自己의 말조차 상말이라 하야 멸시하엿다.
+「날씨가 따듯하다」는 것은 常말이오 「日氣가 溫暖하다.」는 것은 점잔을 말이다. 「헤여진 옷」이라는 것은 常말이오 「남누한 衣服」이라는 것은 점잔은 말이다. 「새바람」이며 「마바람」이며 하는 것은 常말이오 「東風」이며 「南風」이며 하는 것은 점잔은 말이다. 兩班, 常놈이라는 嚴한 階級을 만들어 平民의 生存權을 無視한 그네들은 점잔은 말, 常말이라는 名詞를 지어 自己네의 말을 학待 하엿다.
+萬一 그네들의 所謂 常놈이라는 無識階級이 업엇드면 우리 固有의 言語는 모다 遺失되고 말앗슬 것이니 우리가 現在 外國 사람에게서 上述한 바와 가튼 質問을 밧게 된 것이 一方面으로 보아 어찌 「우리의 責任 아니라」 할 수 잇으랴?
+
+二.
+藝術에 特異한 才能을 가진 우리 民族으로 過去 멧千年동안 하직 한번도 文學다운 文學- 生命잇는 文學은 建設하야 보지 못한 것은 勿論 漢文의＜8＞ 流毒이다. 不便하기 짝이 업는 漢文―萬卷書를 닑고야 쓸 수 잇고 萬卷書를 닑고야 볼 수 잇는 漢文―特히 春秋戰國, 泰 漢 唐 宋 의 죽은 文體로 時代가 다르고 風俗, 習慣이 判異한 우리 民族의 손에서 어찌 價値잇는 創作- 生命잇는 文學이 産出될 수 잇엇으랴!
+死文字는 決코 活文學을 産出치 못한다. 죽은 漢文―特히 古文―은 그의 原籍地인 中國에서도 참으로 生命잇는 活文學을 産出치 못 하엿다. 近世 中國의 著作 中 第一 新文學의 價値가 잇다하는 紅樓夢, 水滸志, 西遊記, 儒林外史, 鏡花綠... 가튼 것은 모두 白話―中國의 國語文―으로 된 것이다. 現今 中國의 新文學 批評家로 有名한 胡適君은 그의 「建設的 文學 革命論」  에서 「古今 中國의 文學 中 조곰이라도 價値잇고 조곰이라도 生命잇는 文學은 모두 白話거나 또는 白話에 가까운 것이다. 그박은 모두 生氣업는 古菫이니 博物院의 陳列品에 지내지 못한다.」고 斷言하엿다. 死文字와 活文學이 얼마나 兩立할 수 업는 것인지는 이것만으로도 짐작할 수 잇을 것이다.
+英文學, 佛文學, 獨文學이 世界의 文壇에서 現在와 가티 重要한 地位를 占領할 때까지에는 그네들의 國語解放運動이 絶對로 必要하엿다. 萬一 15世紀 前後에 그네들의 國語가 解放되지 못하고 섹스피어, 케데, 유고... 가튼 文豪들이 죽은 라던말로 著作하게 되엇다면 그네들은 決코 함레트, 푸아스터, 哀史... 가튼 生命잇는 文學을 建設하지 못하엿을 것이다.
+어느 民族 어느 時代를 勿論하고 그네들 日用의 言語와 도모지 符合되지 안는 죽은 文字로 生命잇는 文學-價値잇는 著作은 産出하지 못하엿다. 따라서 現在 우리의 新文學建設運動은 그의 第一步가 이와 가튼-우리 現在의 言語와 符合되지 안는 모든 死文字를 廢棄하고 우리의 言語 우리의 文字를 復活식히는 대에 잇다. 숨어 잇는 우리 文學이 世界의 文壇에 나타날 때까지에는 무엇보다도 國語解放運動이 絶對로 必要한 것이다. 秦漢唐宋體의 古文은 勿論이오 所謂 國漢文이라는 混用文, 騈文式의 文體, 字意와 語意가 符合되지 안는 古典―문자, 窮僻한 漢字―이 모든 것을 全部 버리고 우리 現在의 言語를 表準하야＜9＞ 完全한 國語文―活文字―를 建設하여야 겟다.
+그러나 이것만으로는 될 수 업다.
+멧 百年동안 함부로 使用한 所致로 亂雜- 無秩序하게 되고만 우리 國文은 文法과 句點, 符號로 整理하여야겟고 한 거름 더 나아가 貧弱한 우리 文學은 內容의 充實을 圖謀하여야 겟다.
+이 멧 가지를 條件으로 들면 아래와 갓다.
+一. 現在의 우리 말 대로 쓸 것.
+二. 漢字를 制限할 것.
+三. 文法에 마추어 쓸 것.
+四. 句點과 符號를 使用할 것.
+五. 글을 爲하야 글을 쓰지 말 것.
+六. 飜譯은 飜譯으로 創作은 創作으로 할 것.
+이 여섯가지에 對하야 일일히 內容을 說明하기 前에 順序上의 必要로 나는 新文學과 舊文學의 差異點부터 말하고저 한다.
+
+三.
+舊文學과 新文學의 差異되는 點을 모두 들어 말하자면 끗이 업슬 것 갓다. 그러나 여긔애는 篇幅의 關係로 다만 그 中 第一 顯著한 멧 가지만 들어 말할려 한다.
+一. 舊文學은 貴族文學이오 新文學은 社會文學이다.
+古代의 作者는 그의 거이 全部가 貴族社會의 出身이엇고 讀者도 大多數가 貴族이엇다. 活社會의 經驗이 不足한 作者가 社會의 少數階級인 貴族의 讀者를 爲하야 쓰자니 自然 그네들의 材料는 佳人, 才子-官吏, 妓女라는 좁은 範圍를 벗어나지 못하엿고 그의 文體도 멧 千年 前의 古董―死亡體―그것이엇다. 마치 書畵나 彫刻이 그의 年代가 오랠수록 價値가 잇는 것 가티 그네들은 그의 文體가 古式인 外에 되도록 古書 中에 잇는 窮僻한 文字를 만히 써야만 價値 잇는 文學이라 하엿다. 그러나 現代의 文學은 이와 正反對이다. 그의 作者가 모두 活 社會의 經驗 大學出身인 外에 그네들은 社會 全體- 적어도 讀書力잇는 民衆 全體를 爲하야 쓴다. 따라서 官吏, 軍人, 學者, 農夫, 工人, 商人, 人夫, 거어지... 이 社會上 모든 階級中 하나라도 그의 材料 아니 되는 것이 업고 그의 文體는 되도록 숩게- 日用의 言語와 되도록 가깝게 한다. 周密한 理想으로 經驗의 不足함을 補助하는 것은＜10＞ 勿論이나 조곰도 自身의 直接 經驗이 업시는 新文學家될 可能性은 업는 것이다.
+줄이어 말하면 舊文學은 實社會의 經驗이 不足한 作者가 社會의 少數階級인 貴族社會를 爲하야 쓴 貴族文學이오 新文學은 活社會의 붙洗禮를 充分히 바든 作者가 社會의 大多數를 爲하야 쓴 社會文學이다.
+二. 舊文學은 形式文學이오 新文學은 寫實文學이다.
+舊文學은 그의 作者가 거이 社會 經驗이 不足한 貴族 出身인 外에 멧 千年 前의 죽은 文體, 內容과 事實이 符合되지 안는 古典을 使用하야 「文以戴道」라는 좁은 範圍 안에서 「勸善懲惡」이라는 惟一한 目標로 複雜한 社會 微妙한 人情을 그리려 하엿다. 따라서 그의 結果는 現代의 人物을 멧 千年 前의 죽은 허수아비가 되게 하거나 또는 自己를 쏙이고 남을 쏙이는 거짓말을 하고 말앗다. 누구를 차자갓다가 만나지 못하고 돌아왓다면 그네들은 依例히 「題鳳而回」라 하고 누구를 기달엿다면 依例히 「首邱而望」이라 한다. 名함을 주엇다든지 鳳을 그리것은 그네들에게 조곰도 상관이 업고 房에서 기달엿다든지 들에서 기달인 것은 그의 무를 바가 아니다. 甚至於 그네들은 自己가 집 生覺 할 때라도 「王粲登樓」 「仲宣作賦」라는 거짓말을 쓴다. 烈女 春香은 반듯이 暗行御使로 出關한 李道令을 만나야 되고 孝女 沈淸은 죽엇다가 살아나서 皇后가 되고 自己의 父親을 만나야 된다.
+그러나 新文學은 이와 反對이다. 그네들에게는 죽은 文體로 산사람을 模寫하여야 할 苦痛도 업고 自己를 쏙이고 남을 쏙여야 할 必要도 업다. 더구나 「文以戴道」라든지 「勸善懲惡」 가튼 것은 그네들에게 아모 意味도 주지 못한다. 豊富한 經驗과 周密한 理想을 가진 그네들은 다만 自由한 形式, 自由한 理想으로 複雜한 社會 微妙한 人情...社會와 人生의 모든 問題를 實際 그대로 그릴 뿐이다.
+唐宋 八家文과 現代 歐美文學의 傑作을 比較하야 본다면 우리는 容易히 形式을 爲主하든 舊文學과 內容에 專力하는 新文學의 差異点을 알 수 잇을 것이다.＜11＞
+三. 舊文學은 遊戱文學이요 新文學은 生命文學이다.
+舊文學은 그의 作者가 遊戱的 態度로 썻고 讀者 亦是 酒後飯餘의 심심 消日거리로 닑엇다. 그네들의 作者는 뜻을 엇지 못하고 布衣로 閑散한 歲月을 보낼 때에 有權者를 嘲弄하거나 또는 不平을 잇기 爲하야 小說을 지엇고 美酒美妓로 片時의 快樂을 取할 때에 自己네의 豪俠함을 자랑하기 爲하야 詩를 썻다. 「達則兼善天下 窮則獨善其身」이라는 그네들의 惟一한 目的은 一國의 宰相이 되어 政治를 料理하는 것이엇고 文藝의 傑作을 내는 것은 그네들을 그처럼 願하는 바가 아니엇다. 딸아서 그의 結果는 政治를 崇拜하고 文藝를 賤待하야 古代의 純 文藝的 著作은 그의 거이 全部가 허황한 거짓말이거나 佳人, 才子의 淫書가 아니면 自己의 有識함을 表示하기 爲하야 東一句 西一句 줏어모운 古典의 集合體에 不過하다.
+그러나 新文學은 이와 다르다. 그네들의 作者는 모두 文學을 自己의 惟一한 天職으로 自覺하고 自己네의 著作을 爲하얀 모든 것을 犧牲한다. 社會의 名譽, 肉體의 快樂은 勿論이오 甚至於 그네들은 自己네의 몸까지 밧친다. 딸아서 그네들의 著作 中에는 舊文學에서 볼 수 업는 强한 힘과 새 精神을 볼 수 잇다.
+말하자면 舊文學은 그의 作者가 有權者를 嘲弄하거나 自己를 廣告하기 爲하야 娛樂的 態度로 쓴 遊戱文學이오 新文學은 그의 作者가 文學을 自己의 天職으로 自覺하고 힘과 精誠을 다하야 쓴 生命文學이다.
+新舊文學의 差異点은 이것으로 마치고 다음은 나의 여섯 가지 條件에 對하야 簡易히 나의 意見을 말할려 한다.
+
+四.
+(一) 現在의 우리말 대로 쓸 것.
+英文學의 惟一한 用語는 英語이고 佛文學의 惟一한 用語는 佛語인 것 가티 우리말은 우리 文學의 惟一한 用語이고 現代의 우리말은 現代 우리 文學의 唯一한 用語이다.
+「온」, 「즘」, 「골」, 「잘」, 「가뭘」, 「검」...가튼 것은 古代의 우리말이나 이미 넓어지고 만 것이니＜12＞ 現代文學의 用語로 넓이 쓸 수 업고 「뽈」, 「람프」, 「라겟」, 「카스데라」...가튼 것은 外國말이나 現在 우리말의 一部分이 되어 잇는 것이니 勿論 우리 文學의 用語로 쓸 수 잇다. 다만 「都合에 依하야」, 「大層面白」, 「御中」, 「殿」, 「樣」, 「場合」...가튼 無意味한 直譯은 우리 文學의 用語를 쓸 수 업나니 그것은 意味가 通치 못할 뿐 아니라 우리에게 「事情으로 因하야」 「大端 滋味」, 「貴中」, 「座下」, 「兄」, 「境遇」...가튼 훌늉한 우리말이 잇는 까닭이다.
+固有한 우리말이 잇는 것은 우리말로 쓰고 萬一 업다면 되도록 새 말을 지으되 不得己한 境遇에는 外國말도 쓸 것이다. 우리는 古代의 우리 祖先과 가티 「自己말을 常말이라」하야 점잔은 남의 말을 取할 必要도 업는 同時에 이미 自己말의 一部分이 되어 잇는 外國말을 極端으로 排斥할 必要도 업다.
+여기에 우리는 「우리 文學은 우리말로 現代의 우리 文學은 現代의 우리말로」라는 決論을 어들 수 잇고 따라서 「이 原則에 違反되는 모든 文體는 하로라도 더- 存在할 價値가 업다」는 斷言을 할 수 잇다.
+所謂 國漢文이라 하야 現在의 우리 出版界에 大流行을 하고 잇는 混用文은 非但 이 原則에 違反될 뿐 아니라 漢文도 아니오 國文도 아닌- 말하자면 「후로코트」에 丁字冠 쓴 것 가티 不自然한 文體이다. 「I가 Go to school 하다」하면 大笑絶唱을 하는 그네들이 「我가 學校에 往하다」라도 써 노코 得意揚揚 하는 것을 보면 習慣의 힘이란 亦是 偉大한 것 갓다.
+英文은 英文이오 佛文은 佛文인 것 가티 國文은 國文이오 漢文은 漢文이니 決코 混用하여서는 아니 된다. 3천年 前의 古董- 죽은 漢文- 을 現代의 우리말로 綵色식히어 新文體가 되리라고 밋는 것은 4천年 前의 木乃伊에 20世紀의 옷을 입히어 살 사람이라고 자랑하는 것과 꼭 가튼 妄想이다.
+또 이 뿐 아니다. 新文學은 平易를 爲主하는 社會文學인 以上 우리는 「採薪之憂」, 「題鳳面回」, 「叩盆之痛」...가튼 字意와 語意가 符合되지만는 古典을 一切 使用치 아니하여야겟고 新文學은 內容을 爲主하는 寫實文學인 以上 우리는＜13＞ 「날씨는 따뜻하고 바람은 고요한대 참새는 지저우고 꾀고리 노래하니...」가튼 漢文의 對法 그대로를 모방한 騈文式의 文體는 全部 廢棄하여야 겟다.
+줄이어 말하면 新文學建設運動의 第一步는 우리 現代의 言語와 符合되지 만은 모든 文體- 難解, 不自然한 모든 文體를 全部 廢棄하고 우리 現在의 言語를 表準하야 쉽고도 自然한 새 文體를 建設하는 대에 잇다.
+(二) 漢字를 制限할 것.
+過去의 우리 文學 過去의 우리 敎育이 漢文의 專制미톄서 바든 流毒을 生覺할 때에 나는 卽刻으로 「漢字全廢論」을 쓰고 십다. 그러나 習慣이란 第二의 天性이다. 멧 千年동안 使用하야 오든 漢字를 一時에 全廢하고 마는 것은 亦是 極難한 일일 뿐 아니라 通用하는 漢字를 一定한 字數에만 制限하엿으면 別 不便은 업을 것 가트니 구태어 全廢하여야 할 必要도 업을 것 갓다.
+여긔에 나는 漢字 制限에 對한 멧 가지 意見을 簡短히 말할려 한다.
+(가) 通用하는 漢字를 一定한 字數에 制限할 것. 1천字 內外에
+(나) 外來語와 人名 地名의 固有 名詞는 全部 國文으로 쓰되 漢文의 人名, 地名에는 漢字를 미테 쓸 것.
+但 漢文의 固有名詞에만 限하야 通用되는 範圍안의 漢字를 使用함은 無效함.
+(다) 通用字만으로 字典을 만들 것.
+(라) 普通學校의 敎科書에 通用字 全部를 編入식힐 것.
+이 멧 가지만 完全히 實行되엇으면 漢字를 全廢하지 아니 하드라도 別 不便함이 업을 것 갓다. 그러나 이것은 적어도 우리에게 漢字 制限 運動이 일어나고 그것이 輿論의 힘을 어더 成功된 後라야만 完全히 實行할 수 잇는 問題이니 우리의 只今 注意할 일은 亦是 個人 個人끼리 되도록 漢字를 적게 쓰도록- 되도록 窮僻한 漢字를 아니 쓰도록 努力하는 것이다.
+(三) 文法에 마추어 쓸 것.
+世界 어느 民族의 그것보다도 秩序的이오 規則的이든 우리 文字는 過去 멧 百年동안 함부로 쓴 所致로 只今은 말 못하게 흥클어지고 말앗다.＜14＞
+사람이라는 한나티 말을
+「사람, 살암, , 
+사, 살, 람, 암」
+의 여들 가지로 쓰고 「나는」이라는 「는」 한토를
+「는, 난, 」
+의 세 가지로 쓴다.
+그 뿐 아니다. 우리는 「나는 學校에 간다」는 한마디를 쓸 때에
+「나는學校에간다.」
+「나는學校에 간다.」
+「나는 學校에간다.」
+「나는 學校에 간다.」
+「나는 學校 에 가 ㄴ 다」
+...가티 제 各기 제 맘대로 띠어 쓴다. 漢文을 쓸 때에 1點 1획을 輕忽히 하지 아니하고 英文을 쓸 때에 한글字를 잘못 띠지 아니하는 우리가 自己글을 쓸 때에는 함부로- 되는대로 쓰는 것은 亦是 알 수 업는 일이다.
+勿論 우리에게는 아직까지 表準할 만한 辭典하나 업고 完成된 文法조차 업는 現狀이니 어는 것을 조차아야 조을는지 알기 힘든 것도 事實이다. 그러나 「깁더 朝鮮말본」 「말의 소리」 「現今 朝鮮文典」...가튼 것은 모두 그의 作者가 一生의 誠力을 다하야 쓴 貧弱한 우리 出版界의 큰 수확이다. 「이것이 完全하다」고는 할 수 업스려니와 우리의 硏究 材料됨에는 不足함이 업을 것 갓다.
+世上萬事란 무엇이든지 千萬의 失敗者가 잇고야만 하나의 成功者가 生기는 法이다. 우리의 文法完成事業도 決코 周時經, 金枓奉, 李奎榮...멧 분에게만 맛기어서는 아니 된다. 더구나 숨엇던 眞理 숨엇던 規則을 發見하는 것은 文法 專門家의 事業이라 할려니와 이것을 一般에게 普及식히는 것 特히 쓰는 方法을 統一케 함에는 文學家의 努力이 무엇보다도 必要한 것이다.
+英語의 「스펠」을 統一식힌 것은 英語 言語 專門家의 文法冊이나 辭典이 아니고 돌이어 섹스피어의 劇本이다.
+어느 時代 어느 民族을 勿論하고 自己글의 작문법을 辭典이나 文法에서 배우는 사람은 極少數에 지내지 못한다. 大多數의 民衆은 小說, 劇本, 詩, 論文의 傑作을 닑는 中에 自然 배우게 되는 것이다.＜15＞
+金枓奉氏의 「깁더조선말본」에는 「좋을글」 「날적」을 附錄으로 내고 잇는대 一般 民衆은 如何히 여들 가지의 「사람」을 쓰고 잇는 우리 現狀이 무엇보다도 雄辯으로 이것을 說明한다.
+따라서 우리의 文字統一事業은 一方面으로 文法의 完成과 辭典의 出版이 絶對로 必要한 同時에 一方面으로 價値잇는 著作을 文法의 規則대로 印刷하야 一般 民衆에게 紹介하는 것이 무엇보다도 必要한 것이다.
+어느 方面으로 보든지 今後의 우리 作者는 文法에 對하야 相當한 硏究와 相當한 理解가 잇어야겟다.
+(四) 句點과 符號를 使用할 것.
+過去 東洋의 文字는 句點과 符號를 그처럼 重要視하지 안이 하엿다. 그러나 말의 高低, 淸濁과 가티 글의 句點 符號는 어느 種類의 文字에라도 絶對로 必要한 것이다. 가튼 말이 그의 高低에 따라 다른 意味를 주는 것처럼 가튼 글이 그의 符號 如何로 다른 意味를 表示할 뿐 아니라 句點과 符號는 恒常 文字만으로 表示할 수 업는 곳- 글의 不足한 곳을 補充하야 준다. 例를 들어 말하면
+(가) 어대로 가나!
+어대로 가나?
+(나) 孟子, 孟子
+가 다른 意味를 表示하고
+(가) 山에 가자! 물에 가자!
+그리고 또 어대로...!
+(나) 땡- 땡- 땡- 時計는 석 點을 친다.
+가튼 것은 모두 文字만으로 表示하기 힘든 곳을 符號의 힘을 빌니어 쓴 것이다. 나는 아래에 우리 文學의 句點과 符號로 나의 生覺한 아홉 가지에 對하야 一一히 例를 들어 말할려 한다.
+(가) . 한 글귀가 完全히 마칠 때.
+例- 끌는 국에 맛 모른다.
+(나) , 가튼 갑스로 쓰이는 둘 以上의 낯말 또는 글귀를 나눌 때.
+例- 우리말의 갈래를 임, 얻, 움, 겻, 잇, 맺, 언, 억, 녹,- 아홉에 나누나니라.
+(다) ? 무름을 表示할 때.
+例- 네 담이 아니면 내 소 뿔이 불어 지엇겟느냐?＜16＞
+(라) ! 感嘆이나 命令을 表示할 때.
+例- (ㄱ) 암! 그릿코 말고!
+(ㄴ) 빗 保證하는 子息은 낫치도 말라!
+(마)......(ㄱ) 글字나 또는 글귀를 줄어엇을 때.
+例- 가뭘, 검, 은, 즘......가튼 것은 우리의 옛말이니라.
+(ㄴ) 意味가 다 맛치지 아니할 때.
+例- 그래! 네가 힘만 쓰면......!
+(바) - (ㄱ) 人名, 地名의 固有 名詞를 表示할 때.
+例- 神誌, 元曉, 漢陽
+(ㄴ) 우와 아래가 가튼 意味거나 또는 가튼 性質임을 表示할 때.
+例- 疑問의 사람- 레닌-...
+(ㄷ) 意思가 갑작이 바꾸일 때.
+例- 萬一 그가 밧지 안는다면?- 에- 그럴 니치야 업겟지!
+(ㄹ) 連續되지 안는 말이나 소리를 表示할 때.
+例- (ㄱ) 그- 그저께 먼- 散步를 갓댓다.
+(ㄴ) 땡- 땡- 땡- 時計는 석點을 친다.
+(사) 『 』 直接의 會話를 表示할 때.
+例- 그는 對答하엿다.- 『어제밤에 좁 늣게 자서...』라고.
+(아) 「 」 引用한 말이나 글을 表示할 때.
+例- 西洋에 「로마는 하로에 된 것이 아니라」는 俗談이 잇다.
+(자) ~ 冊名, 篇名, 曲名을 表示할 때.
+例- 말의 소리, 莊子, 天下篇, 秋風曲
+(五) 글을 爲하야 글을 쓰지 말 것.
+文學에는 修辭가 絶對로 必要하다. 그러나 文學의 眞正한 價値는 그이 內容 如何에 잇다. 그의 內部에 思想, 感情의 充分한 內容이 잇기 前에 外部의 巧妙는 모두 虛飾에 不過한 것이다. 詩想이 업는 詩, 人情과 社會를 그리지 못한 小說과 劇本, 材料가 不充分한 散文- 이 모든 것은 그의 修辭가 엇더케 妙하고 그의 體裁가 엇더케 아름답더라도 亦是 生命업는 偶像文學에 지내지 못한다.
+우리는 決코 娛樂的 態度로 詩를 쓰고 小說을 지어서는 아니 된다. 宗敎의 創設者가 自己의 敎理를 民衆에게 說敎할 때와 가튼 熱誠- 音樂의 作曲者가 自己의 傑作을 一般에게 演奏할 때와＜17＞ 가튼 心理로 붓을 들어야 한다. 自己가 울지 아니하고 쓴 글은 남을 울니지 못하고 自己의 心中에서 울어 나오지 아니한 말은 남을 感動식히지 못한다. 孔明의 出師表와 月沙의 辨誣訴가 닑는 사람에게 特別한 感動을 주는 것은 決코 그리 修辭가 妙하여 그러함이 아니오 그네들 自身이 맘속으로 피 눈물을 흘니면서 그 글을 쓴 까닭이다.
+말하자면 文學이란 決코 娛樂이 아니다. 文學의 眞正한 價値는 그의 內容如何에 잇는 것이다. 따라서 우리는 심심 消日거리로 詩나 小說을 지어서는 아니되는 同時에 內部에 充分한 內容―思想, 感―이 업는 作品을 내어서는 아니 된다. 感情, 思想으로 禁할 수 업는 內部의 衝動을 바들 때에만 붓을 잡아야 한다.
+우리의 文學이 過去의 娛樂文學에서 將來의 生命文學으로 進化하기까지에는 이- 「글을 爲하야 글을 쓰지 아니하고 오즉 思想, 感情으로 禁할 수 업는 創作의 衝動을 바들 때에만 붓을 잡는다」는 主義가 絶對로 必要한 것이다.
+(六) 飜譯은 飜譯으로 創作은 創作으로 할 것.
+飜譯과 創作은 우리의 新文學建設運動에 꼭가티 必要한 두 事業이다. 우리의 古文學 中 그의 內容, 그의 體裁가 足히 新文學의 模範될만한 價値잇는 著作이 不足한 것은 事實이니 우리는 무엇보다도 몬저 外國의 價値잇는 創作을 우리말로 飜譯하야 우리의 參考를 삼아야 되겟고 우리 新文學建設運動의 惟一한 目標가 世界의 어느 文學보다도 偉大한 作品을 내는 대에 잇는 以上 우리는 그의 準備로 무엇보다도 創作을 尊重하여야 되겟다. 그러나 飜譯과 創作은 그의 目的, 그의 方法이 全然히 다르다. 飜譯이란 外國말이 不足한 自己의 民衆에게 外國의 偉大한 作品을 紹介하기 爲하야 그것을 自己말로 옴기는 것이다. 따라셔 그의 惟一한 目的은 되도록 原作의 意思를 읽지 아니함에 잇다. 이와 反對로 創作이란 人情과 社會의 微妙한 골을 自己가 되도록 잘 模寫하는 것이다. 따라셔 그의 價値는 그의 內容- 그의 模寫의 方法如何로 決定되는 것이다.
+우리의 文壇에는 過去 멧 해 동안 여러 先進의 努力으로 적지 안은 飜譯과 創作을 내엇다. 難譯으로 有名한 섹스피어의 劇까지 한 卷 飜譯되엇다.＜18＞
+그러나 不幸히 우리의 飜譯界에는 아직까지 長篇을 短篇으로 줄이는 宿譯과 原作보다 自己의 意思를 尊重하는 意譯이 적지 안고 우리의 創作界에는 外國의 作品 그대로를 模倣한 作品이 만다. 甚至於 그네들 中에는 外國에서 出版된 作品을 自己의 맘에 맛도록 고치어서 「自己의 創作이라」고 廣告하는 詐欺漢까지 잇다.
+學術이나 時事에 關한 論文은 縮譯, 意譯이 別로 問題되지 아니 할 것 가트나 小說, 劇本...가튼 純文藝的 著作은 이것이 亦是 疑問될 것 같다. 譯者가 作者보다 더- 偉大한 才能을 가지기 前에 이러한 飜譯이 充分한 效果를 어들 수 업슬 것은 事實이다. 톨스토이의 長篇 復活이 우리말로 短篇 海棠花가 되고 만 것은 大端 아까운 일이다.
+飜譯의 理想은 原作의 意思를 되도록 잇지 아니 하는 대에 잇고 創作의 理想은 社會와 人生을 되도룩 잘 그러는 대에 잇는 以上 우리는 決코 이 두 가지를 混用하여서는 아니 된다. 「飜譯은 飜譯으로- 創作은 創作으로...」- 우리는 어대까지든지 딴 精神과 다른 方法으로 우리의 두 가지 工作을 繼續하여야 되겟다.
+
+五.
+조곰만 쓸려든 것이 意外에 길어 지엇다. 現代의 文學- 特히 우리의 文壇에 對하야 硏究와 理解가 不足한 記者가 參考할 冊조차 업는 客地에서 홀홀히 쓴 것이니 아마 不充分한 点이 만흘 것 갓다. 그러나 우리의 新文學建設이 다른 모든 事業과 가티 우리 靑年의 손으로 하지 아니하여서는 아니 될 必需의 事業인 以上 우리에게는 그의 方法에 對한 討論이 絶對로 必要한 것이다.
+이 짜른 論文의 目的은 그와 가튼 討論- 新文學建設의 方法에 對한 討論의 草案이 됨에 잇다. 따라서 그의 方法이 잘 決定되고 잘못 決定됨은 草案의 完全, 不完全보다도 여러 生覺의 修正如何에 잇을 것이다.
+이 글을 마칠 때에 記者는 다만 海內海外의 여러 先覺- 特히 新文學建設에 對하야 만흔 硏究나 理解가 게시는 여러 先生님의 健康과 指導를 바랄 뿐이다.
+(끗) (1923.6.18. 아츰)＜19＞
+＜7-19＞

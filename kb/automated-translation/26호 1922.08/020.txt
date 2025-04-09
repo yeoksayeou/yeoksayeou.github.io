@@ -1,0 +1,213 @@
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	朝鮮土地兼倂의 原因 及 現狀 (Causes and Current Status of Land Consolidation in Korea)
+필자	妙香山人
+기사형태	논설 (Editorial/Argumentative Essay)
+
+朝鮮土地兼倂의 原因 及 現狀
+						妙香山人
+序言
+The social problems (mainly material) of foreign lands, which seemed like fires on the opposite shore, now feel like they are becoming our problems too. The doctrine of reforming the material status quo, propagated through various methods, provides the theoretical basis for this issue. Korea's inherent agricultural labor problem, especially the issue of land consolidation (土地兼倂) by various propertied families which forms the root of the agricultural labor problem, provides the sole material for social problems.
+However, when we discuss even one social problem, we should not do so lightly based on long-held resentments or temporary excitement arising from foreign propaganda. Instead, we must first consider and investigate our actual circumstances regarding the problem we wish to discuss. This point is precisely what we currently wish to focus on, and the study of the land consolidation problem discussed in this topic is merely an expression of one aspect of this objective.
+
+Since the completion of the land survey (土地調査), various systems related to land have been organized and reformed. Not only has government financial revenue increased, but the sale and purchase of land have become easier and more convenient. Additionally, land economy, such as the expansion of arable land, irrigation, and paddy field projects, has developed significantly following the development of transportation, finance, and other economic institutions. Among these, the sale and purchase of land have become prevalent among capitalists and landlords due to the implementation of the land survey and the recent continuous rise in rice prices (米價), which increased land income. Furthermore, speculative buying and selling (投機賣買) are rampant, naturally promoting the tendency towards land consolidation. <14>
+This essay aims to statistically explain the causes and facts of this unsavory trend and briefly outline preventive measures at the end, serving as data for research on land policy concerning Korea. Also, the land that is the main subject of research pertains only to cultivated land outside urban areas, and the explanations and statistics mainly adopt those of the Government-General (總督府).
+
+1. 諸原因 (Various Causes) of Land Consolidation
+a. 土地調査와 그 反面的 影響 (Land Survey and its Reverse Impact)
+Land possesses a locational characteristic distinct from other goods. That is, unlike ordinary items, it cannot be moved from place to place. Therefore, when land is bought and sold, the transaction cannot be completed merely through face-to-face discussion between the seller and buyer. The prospective buyer, following the seller's intention, must either personally visit the location of the target land or have an agent investigate in person the actual area, soil fertility (地味), soil quality (地質), location, and all other matters related to land rights before the price agreement and sales contract can be concluded. Therefore, if the distance between the contracting parties and the land's location is great, this locational limitation makes it difficult for the parties' intentions to align easily, thus greatly restricting land sales. However, when a land survey is conducted fairly and accurately under government management, and the actual area, fertility, quality, shape, price, and other rights indications for various types of land across the country are clearly displayed in the land register (土地臺帳), and when one can ascertain all important matters concerning the land at a glance by inspecting the land register, the locational limitations between land buyers and sellers are significantly reduced, making land sales simple. That is, today in Korea, after the land survey is completed and the land registers prepared, when landlords and capitalists purchase land, they do not feel the inconvenience of directly investigating the area, fertility, quality, price, and rights of the target land. It is a fact that they can easily and immediately ascertain the general condition of the land by inspecting the land register kept in the pu, kun, or myŏn offices and conclude the sales contract without the slightest doubt (疑訝). In effect, the result of the Korean land survey has fueled speculative land sales. The fact that Korean land was primarily bought and sold only among those near the land's location, making the scope of sales local, is already a thing of the past. <15>
+If it is an undeniable fact that land sales have become convenient and prosperous as a result of the land survey, then to what extent has land actually been bought and sold since the survey? This can be adequately proven by the following statistics. Comparing the statistics of real estate rights transfer registrations at all courts nationwide at the end of Taishō 9 (1920) – specifically "Acquisition of Ownership Rights through Land Purchase" – in terms of the number of cases, number of properties, and registration tax, with those before the land registers were prepared, i.e., the end of Taishō 6 (1917), reveals a dramatic increase over just three years: cases increased by 160% (16割), properties by 160% (16割), registration tax by 380% (38割), and purchase price by 420% (42割), as shown below.
+Acquisition of Land Ownership through Purchase
+
+[Table data missing in the source text, but description implies a table was present]
+
+The prevalence of land sales signifies the development of the land economy, so viewed from one angle, it is an extremely positive phenomenon. Especially in Korea, centered on agriculture, the result of prevalent land sales could, on one hand, stimulate demand for real estate funds and develop rural finance. On the other hand, land owned by large landlords unenthusiastic about cultivation could be bought and farmed by small tenant farmers (小作人), and land owned by those lacking agricultural knowledge could be acquired and utilized by those with superior farming techniques. Consequently, arable land would be evenly distributed, and harvests would increase, making the result truly commendable socially and economically. However, such an observation is a superficial (皮相的) one that looks only at the surface of land sales. It is not an observation that clarifies the result after examining the inner details (內實) of the sales.
+The fact that Korean land is actively bought and sold as a result of the land survey is confirmed by the figures presented earlier. If so, what are the contents and consequences of these sales? Speculative sales are numerous, and the result has been the manifestation of the negative outcome of land consolidation. <16>
+
+b. 米價騰貴와 地主의 收益 (Rice Price Hikes and Landlord Profits)
+Recently, along with the enormous expansion of commercial economy in urban areas in our Korea, rice prices have continuously surged. The economic power of rural farmers has also expanded significantly, and the purchasing power of local people has increased to a truly surprising extent. However, the rise in rice prices seems to have mostly benefited a certain special class among local people and did not provide great benefits to general small farmers (小農民) and tenant farmers (小作人). Why is this? Among rural farmers, for agricultural laborers, the rise in rice prices and the rise in wages would generally offset (相殺) each other. For tenant farmers and small-scale owner-farmers, although they could sell rice at a high price, they also had to purchase various consumer goods at high prices to sustain their livelihood. Therefore, those who truly profited from the rise in rice prices were the landlord class (地主階級), and the larger their landholdings, the greater their profits became. Originally, as general prices rise accompanying the surge in rice prices, the production cost of rice should also increase, and the living expenses of the landlords themselves would also be higher. However, there is a certain limit to the increase in these expenses, so they definitely cannot keep pace with the fierce momentum of the rice price surge. If this is true, the rice price surge ultimately benefited the landlord class, especially the minority landlord class, while the majority of agricultural laborers, owner-farmers, and tenant farmers likely suffered from hardship in living, to the extent that the rice price increase did not match the rate (割合) of price increases for other consumer goods. This increase in profits received by landlords from the rice price surge naturally became a cause for enhancing the landlords' land investment mindset – "buy up land if there is a surplus (餘裕)" – and this, along with the following various causes, seems to have promoted land consolidation.
+Investment Returns on Land: Various economic factors resulting from the influence of the war led various businesses to prosperity, doubling the profits from business operations. Along with this, the investment return (投資利廻) on land was by no means meager (尠少하지 아니하엿섯다) due to the continuous rise in rice prices. Although rice prices temporarily fell recently along with the slump in general business, as long as the food supply problem is not fundamentally resolved, and the demand for rice increases while production is limited, the drop in rice prices cannot but be seen as temporary. Moreover, Korean land is still virgin land (處女地) and has not yet reached the so-called stage of diminishing returns (報酬減). Therefore, as rice prices are maintained in the future, and as cultivation methods improve and fertilizers used are enhanced, the rice harvest will increase, meaning that income from land will increase now and in the future, with no reason to decrease. This also serves as a contributing factor to land consolidation in Korea. Regarding this, there is a specific investigation into investment return relationships, but for now, only this much is noted. <17>
+
+c. 地主의 投資觀念과 習慣 (Landlords' Investment Concepts and Habits)
+Even if the profit ratio for an investment project is favorable, if the investor lacks clear knowledge about the business due to experience or habit, their investment intention often turns towards businesses they are familiar with; this is a generally recognized fact.
+Recently in Korea, too, since the war, business plans for industries in various fields have been expressed in various forms and methods accompanying the economic boom. Therefore, even among our people whose business management skills are not yet sufficient, new businesses, excluding those requiring special management skills, were continuously planned, leading to considerable development in our entrepreneurial knowledge and business investment spirit.
+At this juncture, if the severe blow (打擊) to the financial world (財界) like the recent one had not struck, that investment and entrepreneurial fever would likely have erupted beyond expectations. Whether the results of the businesses would all have been successful is a separate issue, but business management would have spread across various fields and unfolded a stage of development over a broader scope than currently exists. Accordingly, the income derived from land by large landlords residing in the provinces would also have gradually shifted, following their changing investment tastes, away from land and towards utilization in other business ventures. However, the unprecedented (未曾有) economic fluctuation has suppressed (打迫) the nascent new trend, causing a reversal to the original state. That is, our propertied individuals and landlords, lacking experience and discernment (識量) in businesses other than land real estate, during the past 4-5 years of economic boom, were perhaps moved by entrepreneurs' explanations or captivated by the temporary economic conditions. They were in the process of allocating a portion of the income derived from land to invest in stocks of newly established companies. Unfortunately, the sudden change in the financial world caused many new businesses to end unsuccessfully, bringing immense disappointment to investors. Having undergone such experiences, they halted their attempts to expand into new business fields and came to distrust not only the businesses themselves but also the entrepreneurs. Consequently, the investment concept towards land was revived among these large landlords. That is, the amount invested in land by local propertied individuals and landlords seems to have become even stronger after the financial changes than before. The main reasons why investment in land is becoming increasingly strong can be summarized as follows:
+1. Landlord income is increasing more and more due to the rise in rice prices. <18>
+2. There are few alternative uses for landlord income.
+3. Originally, Korean propertied individuals have comparatively more developed experience and discernment regarding land than anything else, and the financial fluctuations hindered their emerging investment interest in other businesses.
+4. The property concept of local landlords emphasizes land real estate over rights-based assets like securities (有價證券).
+5. Just like other enterprises, land also has a relationship where profits increase as the scale of management grows, meaning capitalism is being applied to land as well.
+
+d. 日本人의 土地 買收 (Land Acquisition by Japanese)
+Regarding the impact of Japanese acquisition of Korean land on Korea's agricultural economy, opinions will differ depending on the viewpoint. If Japanese capitalists, abundant in funds and advanced in land utilization techniques, acquire Korean land and apply the most advanced farming methods to realize the ideal of increased rice production (産米增殖), then from a policy perspective, one cannot oppose Japanese land acquisition; rather, such an outcome would be anticipated. However, from the Korean side, when Korean land is acquired by Japanese, who are superior to Koreans in both financial power and agricultural techniques, and Japanese penetrate even rural villages as landlords, a major crisis in livelihood will befall Korean farmers, 80% of whose population engages in agriculture and sustains their entire lives through it. From the standpoint of protecting the safety of Korean agricultural life, Japanese acquisition of Korean land would be deemed unacceptable. However, regardless of the line of argument, many conditions would need to be added to its content to make it a practical discussion. In any case, since this discussion primarily concerns land consolidation, it is undesirable for a small number of people, whether local Koreans or immigrant Japanese, to acquire and own large amounts of land.
+According to statistics, Korean land has been similarly acquired and consolidated by both Japanese and Koreans. However, regarding the details, more land has been acquired and consolidated by Japanese than Koreans, and it can be seen that the largest landowners are more numerous on the Japanese side.
+The land tax burden per person increases or decreases based on the size of the land owned by each individual. Therefore, an increase in the land tax burden per person allows one to know the vastness of the land area owned by each person. <19> Looking at the number of large Japanese landlords based on the per-person land tax (地稅) burden (in land tax enforced areas), the number of Japanese paying over 500 yen in land tax per year was 99 at the end of Taishō 1 (1912). By the end of Taishō 9 (1920), this number increased to 363, approximately a 4-fold increase. For Koreans paying the same amount, the number was 32, increasing to 319, approximately a 10-fold increase. Although the increase rate is higher for Koreans than Japanese, the number of large landlords is greater on the Japanese side than the Korean side.
+Of course, the increase in the land tax rate is a major reason for the increase in the number of people per land tax payment bracket. However, considering the actual land tax, the collected amount increased from 6.69 million yen in Taishō 1 to 11.59 million yen in Taishō 9, an increase rate of 172% (17割 2分). In contrast, the number of people paying over 500 yen in land tax saw an average increase of 563% (56割 3分) for Japanese. This shows that during these past 9 years, much land was acquired by a small number of people, indicating a clear trend of land consolidation. According to a recent Government-General survey, the total cultivated land area in all provinces of Korea is: Fields 2,778,333 chōbo (町步), Paddy 1,543,701 chōbo, Total 4,322,034 chōbo. Within this, the privately owned land area breakdown by nationality is as follows:
+
+[Table data likely followed here but is missing/incomplete in the provided text snippet]
+
+As of the end of Taishō 8 (1919), the Japanese population that immigrated into Korea for agricultural purposes included 14,981 individuals through the Oriental Development Company (東洋拓殖株式會社) and 52,832 individuals independently, totaling 67,813 people. The breakdown by province is as follows: <20>
+
+[Table data likely followed here but is missing/incomplete in the provided text snippet]
+
+5. 土地 兼倂을 助長케하는 小農民 側의 自發的原因 (Self-Generated Causes on the Small Farmer Side Promoting Land Consolidation)
+Even if landlords and the propertied class do not intend to monopolize land, there are cases where small farmers facing difficulties voluntarily approach the propertied class proposing the purchase of their own land. That is, situations where small farmers are forced to sell their own land occur when (1) their burden (負擔) accumulates, and they must either transfer their mortgaged real estate to the creditor to offset the debt, or sell it to another party and use the proceeds to repay the secured loan – either way, they cannot repay the debt without disposing of their real estate. The second situation (2) is when, due to the rampancy (跋扈) of large landlords and the assault of livelihood difficulties (生活難), they plan to emigrate abroad after liquidating their assets. In the former case, because rice prices have risen recently, although the income of small farmers has not increased to the level of landlord income, these small farmers can at least sell their self-cultivated rice at high prices and repay a portion of past debts or interest. Therefore, cases where their own farmland is seized by creditors as collateral disposal due to their debts seem fewer today. However – this temporary phenomenon of high rice prices can by no means guarantee the future of these small farmers permanently.
+Generally, the debts of small farmers do not arise for the purpose of using funds for their business operations. More often, they arise out of the necessity to supplement living expenses to temporarily evade the livelihood difficulties that beset them. Therefore, when they incur debt (起債) to escape a livelihood crisis or for some necessity, their financial standing and personal credit are naturally weak. Even if there are financial institutions for farmers, they cannot receive low-interest credit loans from them. It is common practice to inevitably mortgage their cultivated land and borrow at high interest from the landlord class.
+Financial Cooperatives (金融組合) exist as financial institutions for local farmers scattered throughout the counties nationwide, but in reality, those who join the cooperatives and benefit from them are mostly middle-class farmers or higher, often the landlord class. Small farmers and tenant farmers do not partake in any benefits; this is the current situation today. If their crops – the sole means of maintaining their livelihood and also the source from which they could repay debts – unfortunately suffer reduced yields due to natural disasters (天災에 罹하야), not only does debt repayment become impossible, but the family's annual sustenance is immediately endangered. Furthermore, if special misfortunes such as illness of oneself or a family member occur, they demand additional loans equal to or exceeding the value of the already pledged collateral land (of course, real estate). Therefore, their debt only increases further, and repayment ultimately becomes impossible. This results in the dual negative consequences of owner-farmed land turning into tenant land, and land becoming increasingly consolidated.
+Next is the emigration (移住) of small farmers. Among our compatriots emigrating or seeking work in the Kando (間島), Manchuria (滿洲), and Russian territory (露領) areas, the vast majority are small farmers and agricultural laborers. Depending on the region, there seem to be a considerable number of owner-farmers who sell all their property and emigrate outside the country's borders. <22> According to the Ministry of Foreign Affairs' survey of Japanese nationals residing overseas as of the end of June, Taishō 10 (1921) (based on reports from overseas legations and consulates), the number of Koreans residing overseas who emigrated to various parts of Kando, Manchuria, and Russian territory totals over 340,000 men and women. That the vast majority are farmers accompanied by their families is clear from the breakdown by emigrant occupation in the same survey. Kando, Manchuria, and Russian territory are the regions accounting for the largest number of Korean emigrants. The breakdown by region is as follows:
+[Table data likely followed here but is missing/incomplete in the provided text snippet]
+The reasons for emigration include political factors like anti-Japanese sentiment (排日) partly, but the main reason is being driven out by the difficulty of maintaining a livelihood within Korea. Based on actual evidence, it seems that emigrants increase and fluctuate during times of poor harvests within Korea. Moreover, when these self-reliant farmers plan to emigrate outside the country's borders, they often take their families and liquidate their household assets before emigrating. <23> Therefore, it is natural that their owned land is bought up by neighboring landlords. Of course, there is concern that Korea's farmland might become desolate due to the emigration of agricultural laborers abroad, but it is a clear fact that the number of Korean farming households is rather stagnant (停滯的) compared to the area of farmland. That is, while the farmland area has increased more than three-fold in the 10 years since Taishō 1 (1912) until today, the number of farming households (Korean people) shows an increase of merely 11% (1分 1厘), as indicated by the statistics below. Internally, it is easy to imagine that the majority of the increased arable land area is becoming the property of a small number of landlords and capitalists.
+Comparison of Cultivated Land Area Increase and Farming Household Increase (Koreans)
+[Table data likely followed here but is missing/incomplete in the provided text snippet]
+Among the reasons for the stagnation and lack of progress in the number of farming households, besides farmers emigrating abroad, the change of occupation among domestic farmers is also likely an important factor. However, even this undoubtedly serves as a factor promoting land consolidation.
+Comparison of Korean Farming Household Increase by Region (◉ indicates regions with low increase rates)
+
+[Table data likely followed here but is missing/incomplete in the provided text snippet]
+
+Number of Emigrated Koreans by Region (As of end of Taishō 8 [1919], Manchuria & Siberia)
+Hamgyŏng Pukto 89,724 / P'yŏngan Pukto 41,266 / Kyŏngsang Pukto 25,567 / Hamgyŏng Namdo 14,440 / Kyŏngsang Namdo 11,070 / P'yŏngan Namdo 9,136 / Kangwŏn-do 2,439 / Hwanghae-do 3,596 / Kyŏnggi-do 1,438 / Ch'ungch'ŏng Pukto 926 / Chŏlla Namdo 338 / Ch'ungch'ŏng Namdo 115 / Chŏlla Pukto 15 / Total 205,634
+附記 (Postscript) Here, we have limited ourselves to describing the causes and facts of land consolidation. We hope there will be general research into preventive measures (防止策) for this, and we may also present our opinions when the opportunity arises. <25>
+<14-25>
+
+**Summary**
+
+This 1922 article by Myohyang Sanin analyzes the increasing consolidation of land ownership in colonial Korea. The author argues that the Japanese-led land survey (1910-1918), while intended to modernize land registry, ironically facilitated easier land sales and speculation, contributing to consolidation. Other key factors identified are persistently rising rice prices enriching landlords (who then bought more land), the landlords' traditional preference for land investment over other uncertain ventures (especially after recent economic instability), and significant land acquisition by Japanese individuals and companies like the Oriental Development Company. The article also notes that small farmers were often forced to sell their land due to crippling debt (often for subsistence, not investment) or chose to emigrate, particularly to Manchuria and Siberia, due to economic hardship and political factors, further concentrating land in fewer hands. The author uses Government-General statistics to support these claims, highlighting the disparity between the growth in cultivated land area and the stagnant number of farming households. For historians, this article is valuable as a contemporary Korean perspective on the socio-economic impacts of Japanese colonial policies. It details the mechanisms (land survey, market forces, finance access disparity, emigration) driving dispossession and concentration of wealth, statistically linking Japanese immigration and investment to land consolidation, and reflecting Korean concerns about livelihood security and the changing rural landscape under colonial rule. The mention of emigration driven by both economic hardship and "anti-Japanese sentiment" (排日) is also noteworthy.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+妙香山人	묘향산인	Myohyang Sanin
+總督府	총독부	Ch'ongdokpu (Government-General)
+大正	대정	Taishō
+日本人	일본인	Ilbonin (Japanese people)
+東洋拓殖株式會社	동양척식주식회사	Tongyang Ch'ŏk'sik Chusik Hoesa (Oriental Development Company)
+間島	간도	Kando
+滿洲	만주	Manju (Manchuria)
+露領	노령	Noryŏng (Russian territory/Maritime Province)
+西伯利亞	서백리아	Sŏbaekria (Siberia)
+咸鏡北道	함경북도	Hamgyŏng Pukto
+平安北道	평안북도	P'yŏngan Pukto
+慶尙北道	경상북도	Kyŏngsang Pukto
+咸鏡南道	함경남도	Hamgyŏng Namdo
+慶尙南道	경상남도	Kyŏngsang Namdo
+平安南道	평안남도	P'yŏngan Namdo
+江原道	강원도	Kangwŏn-do
+黃海道	황해도	Hwanghae-do
+京畿道	경기도	Kyŏnggi-do
+忠淸北道	충청북도	Ch'ungch'ŏng Pukto
+全羅南道	전라남도	Chŏlla Namdo
+忠淸南道	충청남도	Ch'ungch'ŏng Namdo
+全羅北道	전라북도	Chŏlla Pukto
+
+**Glossary**
+
+土地兼倂	토지 겸병	Land consolidation; engrossment of land
+唯物現狀	유물 현상	Material conditions; current material state
+夙素	숙소	Long-held; pre-existing
+怨情	원정	Grievance; resentment
+情實	정실	Actual circumstances; the real situation; facts
+土地調査	토지 조사	Land survey (specifically the cadastral survey 1910-1918)
+革新	혁신	Reform; innovation
+灌漑	관개	Irrigation
+騰貴	등귀	Price surge; sharp price increase
+投機賣買	투기 매매	Speculative buying and selling
+滋味스럽지 못한	자미스럽지 못한	Unpleasant; unsavory (older figurative use, modern equivalent might be '바람직하지 못한')
+防止策	방지책	Preventive measures; countermeasures
+耕作地	경작지	Cultivated land; arable land
+地味	지미	Soil fertility
+土地臺帳	토지 대장	Land register; land ledger
+閱覽	열람	Inspection; perusal (of documents)
+簡捷	간첩	Simple; expedient; straightforward
+疑訝	의아	Doubt; suspicion (older form, modern form 의아함)
+登錄	등록	Registration
+皮相的	피상적	Superficial
+內實	내실	Inner substance; actual content; reality (behind appearances)
+米價騰貴	미가 등귀	Rise in rice prices
+小農民	소농민	Small farmer
+小作人	소작인	Tenant farmer
+相殺	상쇄	To offset; cancel out
+割合	비율	Ratio; proportion (Japanese loanword 'wari-ai' used instead of Korean 비율 'piyul')
+餘裕	여유	Surplus; reserve; leeway
+投資利廻	투자 이회	Investment return; yield on investment
+尠少하다	선소하다	To be few; scarce; scanty (less common Hanja-based word)
+處女地	처녀지	Virgin land
+報酬減	보수 체감	Diminishing returns (lit. reward reduction)
+識量	식량	Discernment; judgment; knowledge and capacity
+財界	재계	Financial world; economic circles
+打擊	타격	A blow; impact; shock
+未曾有	미증유	Unprecedented
+打迫	압박	Pressure; coercion (likely typo or older form for 압박 appak)
+有價證券	유가 증권	Securities; negotiable instruments
+跋扈	발호	Rampancy; arrogance; domineering behavior
+移住	이주	Emigration; migration
+起債	기채	To incur debt; borrow money
+抵當	저당	Mortgage; collateral
+罹災	이재	To suffer from a disaster
+排日	배일	Anti-Japanese (sentiment, movement)
+停滯的	정체적	Stagnant; sluggish
+附記	부기	Postscript; additional note
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	朝鮮土地兼倂의 原因 及 現狀
+필자	妙香山人
+기사형태	논설
+
+朝鮮土地兼倂의 原因 及 現狀
+						妙香山人
+序言
+對岸의 火災가티 보여지던 外地의 社會問題(主로 物的)도 이제는 우리의 問題가 되어오는 感이 업지 못하다. 여러 가지의 方法으로 宣傳되는 唯物現狀의 改造主義는 이 問題의 理論的 根據를 지으며 잇고 朝鮮 固有의 農業勞働問題, 特히 農業勞働問題의 根源을 成하는 諸 有産家의 土地兼倂問題와 如함은 社會問題의 唯一한 資料를 提供하며 잇다.
+그러나 우리가 적어도 한가지의 社會問題를 論議함에 當하야는 가벼웁게 夙素의 怨情이나 外來의 宣傳에 基因한 一時的의 興奮으로써 할 것이 아니오 먼저 論議코저하는 그 問題에 關한 우리의 情實을 考察, 査究하지 아니치 못할지니 이 點이 곳 目下의 우리로서 注念코저하는 바이며 本題에서 論議할 土地兼倂問題의 考究는 爲先 이와가튼 主旨의 一端을 表現함에 不過한 것이라.
+
+土地調査가 完了된 後로 土地에 關한 여러 가지 制度는 整理 革新되어 政府의 財政 收入이 增加할 뿐 아니라 土地의 賣買는 容易 便利하게 되고 其他 耕地의 擴張, 灌漑, 水田事業과 如한 土地經濟도 交通經濟, 金融經濟, 其他의 經濟機關의 發達을 딸하 非常히 發達되엇다. 그中 土地의 賣買는 土地調査 施行과 近年 米價가 連續的으로 騰貴하야 土地 收入을 增加케한 原因으로 因하야 資本家 地主間에 盛行되며 且 投機賣買가 旺盛하야 自然 土地兼倂의 傾向을＜14＞ 助長한다.
+本論은 滋味스럽지 못한 傾向의 原因 及 事實을 統計的으로 說明하고 最終에 그 防止策을 略述하야 朝鮮에 對한 土地政策 硏究의 一資料를 삼으려고 한다. 또한 硏究의 主題되는 土地는 市街地 以外의 耕作地에 뿐 關한 것이며 說明 及 統計는 主로 總督府의 統計를 採用한 것이다.
+
+1. 土地兼倂의 諸原因
+가. 土地調査와 그 反面的 影響
+土地는 他物과는 相異한 場所的 特性을 固有한 것이다. 即 普通物品과 如히 場所를 바꾸어 移轉할 수가 無한 고로 土地가 賣買됨에는 單히 賣方과 買方과의 對面 相談만으로는 賣買가 成立치 못하는 것이다. 即 願買者는 願賣의 意嚮에 딸하 目的한 土地의 所在地까지 自己가 親往하든가 或은 代理人으로 하여곰 土地의 實面積, 地味, 地質, 位置 其他 土地의 權利에 關한 一切를 失地 調査한 後가 아니면 價格 協定과 賣買 契約이 締結되지 못할 것이다. 故로 賣買 當事者와 土地 所在地의 間이 隔遠할 時에는 이 場所的 制限으로 因하야 當事者間의 意志의 合致는 容易히 成立될 수 無하며 從하야 土地의 賣買는 크게 制限될 것이다. 그러나 官府의 經營으로 土地 調査가 公平 且 正確히 되며 全國 各地에 對한 各種 土地의 實面積, 地味, 地質, 形狀, 價格, 其他 權利의 表示가 土地 臺帳에 明確히 表示되며 土地臺帳 閱覽에 依하야 一目瞭然하게 그 土地에 關한 諸 重要事項을 測知하게 되는 時에는 土地 賣買者間의 場所的 制限은 大히 除減되어 土地 賣買는 簡捷하게 될 것이다. 即 朝鮮의 土地 調査가 完了되고 土地臺帳이 調製된 今日에 地主와 資本主가 土地를 買收할 時에는 目的하는 土地의 面積, 地味, 地質, 價格, 權利를 直接 調査할 不便을 感치안코 府郡面에 存備하는 土地臺帳을 閱覽하고 容易 且 卽時에 그 土地 一般狀況을 確知할 수 有하며 少許도 疑訝업시 賣買契約을 締結함은 事實이다. 即 朝鮮 土地調査의 結果는 土地의 投機 賣買를 盛行케 한 바 朝鮮土地가 主로 土地 所在地 附近者 間에서 뿐 賣買되어 賣買 範圍가 地方的이엇던 것은 이미 過去의 事이다.＜15＞
+土地調査의 結果 土地 賣買가 便利 且 隆盛하게 된 것은 가리울 수 업는 事實이라고 하면 實際 土地調査 以後 如何한 程度까지 土地가 賣買되엇는가. 이는 다음의 統計로써 能히 證明할 수가 有하다. 旣 大正 9年度 末의 全國 各 裁判所에서 不動産 權利 移轉 登錄의 統計 中 「土地의 賣買에 依한 所有權의 取得」의 件數, 個數, 登錄稅를 土地臺帳 調製 前 即 大正 6年度 末에 比하면 僅僅 3個年 間에 件數로는 16割, 個數로 16割, 登錄稅로 38割, 賣買 價格으로 42割의 激增을 呈하얏스니 即 次에 揭한 바와 如하다.
+賣買에 依한 土地의 所有權의 取得
+
+土地의 賣買가 盛行됨은 土地 經濟의 發達을 意味함인 고로 一面으로 見하야 至極히 조흔 現像이다. 特히 農業을 中心으로 한 朝鮮에서는 土地 賣買가 盛行된 結果 一面에서는 不動産 財金의 需要를 喚起하야 農村金融을 發達시킬 수 有할 것이고 他面으로는 土地 耕作 利用에 不熱心한 大地主의 所有土地가 小農인 小作人에게 買行耕作되며 又는 農業 知識의 缺乏한 者의 所有土地가 農業技術 優良한 者에게 買得 利用되어서 耕地는 平均하게 分配되며 收穫이 增加하게 되는 고로 그 結果는 社會的으로나 經濟的으로나 實로 可賀할 事이다. 然이나 如此한 觀察은 土地賣買를 表面으르 見한 皮相的 觀察이오. 裏面으로 그 賣買의 內實을 檢索하야서 그 結果를 明瞭히 한 觀察은 아니다.
+朝鮮의 土地가 土地調査의 結果 盛히 賣買되는 事實은 前揭한 數字에 依하야 確認한 것이다. 果然 하면 그 賣買의 內容 及 結果가 如何할가 賣買에는 投機賣買가 多하고 結果로는 土地兼倂의 惡果를 表現케 함이 되엇다.＜16＞
+
+나. 米價騰貴와 地主의 收益
+近來로 우리 朝鮮에도 都會地의 商業經濟가 莫大히 膨脹됨과 共히 米價가 連續的으로 騰貴한 바 地方 農民의 經濟力도 非常히 膨脹하야 地方人의 購買力은 實로 놀랄만치 增大되엇다. 然이나 米價의 騰貴는 地方人의 어떤 特殊階級에게 利益을 與함이 多하고 一般 小農民, 小作人에게 對하여서는 큰 利益을 주지 못한 것 갓다. 何故인가 하면 地方 農民 中 農業 勞働者에 至하야는 米價騰貴와 賃金騰貴는 大體로 相殺될 것이고 小作人과 小規模의 自作農에 至하야는 비록 高貴한 價格으로 米를 賣할지라도 亦是 高價의 各種 消費品을 購入하야 生活을 營치 안흘 수 無한 故로 米價騰貴에 依하야 眞實한 利益을 占하는 者는 地方 地主階級인바 그 所有한 土地가 廣大할스록 彼等의 利益은 增加하엿섯다. 元來 米價騰貴에 伴하야 一般物價가 騰貴하는 以上에는 米의 生産費도 增加될 것이고 彼等 地主 自信의 生活費도 多할 것이나 是等 費用의 增加에는 一定한 限度가 有한 것임으로 決코 米價騰貴의 猛烈한 勢力에는 追隨치 못하는 것이다. 이것이 事實이라 하면 米價騰貴는 結局 地主階級 特히 少數 地主階級에 利益을 與하고 多數 農業勞働者, 自作農民, 小作農民은 米價騰貴가 他 消費品 價格騰貴 割合에 不及하는 限에서 反히 生活의 苦痛을 受하엿슬 것이다. 此 米價騰貴로부터 地主가 受한 收益의 增加는 自然 地主로 하여금 「餘裕가 有하면 土地를 買占」한다는 土地 投資心 增大의 原因이 되어 是가 次의 諸 原因과 共히 土地兼倂을 助長한 것 갓다.
+土地의 投資利廻 戰爭의 影響에 由한 經濟的 諸 原因은 各種 事業을 繁榮에 導하야 事業 經營의 利益을 倍加케 하얏다. 此와 共히 土地에 對한 投資利廻도 米價가 連續的으로 騰貴한 故로 決코 尠少하지 아니하엿섯다. 近來 一般事業의 不振에 伴하야 米價가 一時 下落하엿스나 食糧品 供給問題가 根本的으로 解決되지 못하고 米의 需要는 增加하고 生産은 制限되어 잇슬 동안은 米價 低落은 一時的으로 보지 안흘 수 無하고 뿐만 아니라 朝鮮의 土地는 아즉 處女地대로 所謂 報酬減의 地境에 達치 안흔 고로 今後 米價가 維持됨과 共히 耕作 方法이 進步되고 使用 肥料가 改良되는 때에는 米의 收穫量이 增加하야 土地로의 收益은 現在 及 未來에 增加는 할지언정 減退될 理는 無할지니 是가 亦 朝鮮에 對한 土地兼倂의 一助가 된다. 이에 對하야는 投資利迴 關係에 對한 具體的 調査가 有하나 爲先 이 뿐을 記한다.＜17＞
+
+다. 地主의 投資觀念과 習慣
+投資事業에 對한 收益의 比率이 設令 有利한 事業이라 할지라도 投資者가 그 事業에 對하야 經驗的으로 또는 習慣的으로 그에 對한 知識이 明瞭치 못한 境遇에는 彼等의 投資意思는 彼等이 能知하는 事業에 轉向되고 마는 것은 一般으로 認定되는 事實이다.
+最近 朝鮮에서도 戰爭以來 各種 方面의 産業에 對한 企業 計劃이 經濟界의 好況에 伴하야 各種 形式과 方法으로 表現된 故로 其中에는 事業에 經營技能이 아즉 充分치 못한 우리 사람의 間에서도 그 經營에 特殊한 技能을 要하는 事業을 除하고는 新事業이 繼續的으로 計劃되는 故로 우리의 企業知識과 事業投資心도 相當히 發達되엇다.
+此際에 若 今回와 如한 苛酷한 財界의 打擊이 襲來치 안핫다고 할 것 가트면 그 投資企業熱은 豫期 以上으로 勃發하야 事業의 成績 結果가 總히 善果를 得하는 與否는 別問題라 할지라도 左右間 事業 經營이 各 方面에 瓦하야 現在 以上의 廣範한 範圍에서 發達의 階段을 展開하엿슬 것이다. 딸하서 地方에 在한 大地主의 土地로부터 收得하던 收入도 彼等의 投資趣味가 漸次로 變遷됨에 딸하 듸디어 土地로부터 轉하야 다른 事業의 便으로 移轉 利用되엇슬 것이다. 그런데 今昔 未曾有의 經濟的 變動은 모처럼 발아되든 新傾向을 打迫하야 原狀으로 逆轉케 하엿다. 即 土地不動産 以外의 事業에 對하야 經驗과 識量이 乏한 우리의 財産家와 地主는 財界 好況인 過去 4,5年 間에서 或은 企業者의 說明에 動心되며 或은 一時의 景氣에 憧憬되어 어대까지 土地로부터 得한 收入의 一部를 割하야 新設事業인 會社의 株式에 投入하기로 하던 中 不幸하다 財界의 突變은 新事業의 多數를 不結果에 終하게 하고 投資者에게 非常한 失望을 與한 바 如許한 經驗을 備嘗한 彼等은 모처럼 新事業 方面에 發展하려 하던 試驗을 中止케 하고 나아가 事業 그것과 또는 企業者까지 信用치 아니하게 되엇다. 於是乎 그들 大地主는 다시 土地에 對한 投資觀念이 復興하게 되엇다. 即 地方財産家 地主의 土地 投資額은 財變 前 보다도 財變 後에 一層 强盛하게 된 것가티 思惟된다. 土地에 對한 投資額이 益益 强盛케 될 主되는 原因을 略述하면
+1. 地主의 收入은 米價의 騰貴에 依하야 益益增加하는 事＜18＞
+2. 地主의 收入은 他에 轉用될 바가 少한 事
+3. 元來 朝鮮人 財産家는 다른 어떠한 곳에 보다도 土地에 對한 經驗과 識量이 比較的 發達하엿슴과 共히 財界 變動이 新起한 彼等의 他 事業에 對한 投資趣味를 阻防한 事
+4. 地方 地主의 財産觀念은 有價證券과 如한 權利 財産보다도 土地不動産을 重視하는 事
+5. 土地도 他 企業과 同樣으로 그 經營의 規模를 크게 함을 딸하 그 收益이 增加하는 關係가 有함으로써 土地에 對하여도 資本主義가 施行되는 事
+
+라. 日本人의 土地 買收
+日本人이 朝鮮의 土地를 買收하는 境遇에 朝鮮의 農事經濟에 如何한 影響을 與할가 함에 對하여서는 見地에 依하야 議論이 不合致할 것이다. 資金이 豊富하고, 土地利用 技術이 進步된 日本人 資本家가 朝鮮 土地를 買收하야 最進步한 農作法을 適用하야 現在 以上의 收穫으로써 所謂 産米增殖의 理想을 實現케 한다 하면 日本이 朝鮮 土地를 買收함에는 政策上으로 見하야 反對할 수 無하며 反히 이가티 됨을 期待할 것이다. 然이나 朝鮮人側에는 朝鮮 土地가 資力에나 農業技術에나 朝鮮人보다 優秀한 日本人에게 買收되어 日本人이 地主의 資格으로 農村에까지 侵入할 때에는 全 人口의 8割의 人口가 農業에 從事하고 農業에 依하야 生活의 全部를 維持하는 朝鮮 農民에게는 生活上 一大 危機가 襲來하리라는 口實 即 朝鮮人의 農業 生活 安全 保護라는 見地로부터 日本人의 朝鮮 土地 買收는 不可라고 할 것이다. 그러나 如何한 論法으로써 할지라도 이것을 實論으로 함에는 그 內容에서보다 만흔 條件이 附加되지 안흘 수 업슬 것이다. 如何間 여긔에는 土地兼倂을 主로 論할인 고로 地方民인 朝鮮人이거나 移入民인 日本人이거나 어느 篇이던지 少數의 人이 만흔 土地를 買收 所有함은 不可타하는 바이다.
+統計에 依하면 朝鮮의 土地는 日本人 及 朝鮮人 어느 便에 依하야서든지 가티 買收 倂合되엇는데 內容에 至하야서는 朝鮮人보다도 日本人에게 買收 倂合됨이 多하며 最大面積을 所有한 大地主는 日本人 側에 多함을 볼 수가 잇다.
+人別 地稅負擔額은 各 個人의 所有土地 面積 大小에 依하야 增減하는 故로 人別 地稅負擔額의 增大에 依하야 各 人의＜19＞ 所有土地 面積의 廣大를 知할 수 能하다. 即 人別 地稅(地稅 施行地) 負擔額으로부터 日本人 大地主의 數를 見하면 大正 元年 末에 日本人으로 1個年 地稅 500圓 以上 納付하는 者 99人이엇던 것이 大正 9年 末에는 363人 即 約 4倍에 增加하고 朝鮮人으로 同額을 納付하는 者 32人 이엇던 것이 319人 即 約 10倍에 增加하야 日本人보다도 朝鮮人 便에 增加 數는 多하다 하지마는 大地主 數는 朝鮮人 側보다, 日本人 側에 多함을 見하겟다.
+勿論 地稅의 增率은 地稅 納額別 人員을 增加케 하는 主되는 原因이나 實際 地稅에 對하여서는 大正 元年 地稅 收納額 669萬圓이엇던 것이 9年度에는 1,159萬圓에 增加하야 그 增加할 合 17割 2分인데 對하야 地稅 五百圓 以上 納付 人員은 日本人 平均數 56割 3分 增加함을 見하면 此 旣往 9個年 間에 만흔 土地가 少數人에게 買收되어 土地兼倂의 傾向이 顯著함을 알 것이다. 最近 總督 調査에 依하면 朝鮮 全道에 對한 耕地 面積은 田 277萬 8,333町步 沓 1,543,701町步 計 4,322,034町步 內 私有地 各國人 所有 面積別은 如左
+
+大正 8年末 現在 農業을 目的으로 하고 鮮內에 移入한 日本人口數는 東洋拓殖株式會社의 移民에 依한 者 14,981, 自動에 依한 者 52,832, 計 67,813口인데 此를 道別로 하면 如左＜20＞
+
+5. 土地 兼倂을 助長케하는 小農民 側의 自發的原因
+地主 及 有産階級이 土地의 買占을 本意로 하지아흐나 或 事情에 依하야 困難을 當하는 小農民이 自進하야 自己의 所有土地의 買上을 有産階級者에게 申出하는 境遇가 有하니 即 小農民이 自己의 所有土地를 自賣치 안흘 수 업는 境遇의＜21＞ (1)은 彼等의 負擔이 積重되어 그의 所有 不動産을 擔保한 채로 債主에게 讓渡하야 債務를 相殺하던가 或은 他人에게 賣渡하야 그 代金으로 擔保를 還償하던가 이러케하던지 저러케하던지 그 所有 不動産을 處分치 안흐면 負債를 還償할 수 無한 境遇 그 (2)는 大地主의 跋扈와 生活難의 襲擊으로 因하야 家産을 整理하여 가지고 國外로 移住를 計劃하는 境遇인데 前者의 境遇에는 近來 米價가 騰貴한 故로 小農民의 收入이 地主의 收入 程度까지는 增加되지 아니하엿지마는 少하여도 彼等 小農民은 自作米를 高價로 放賣하여 가지고 前日의 債務의 一部 又는 利息은 償還할 수 有한 故로 彼等의 自農地가 彼等의 債務로 因하야 債主에게 擔保 處分으로 差押되는 것은 今日에는 적은 것 가트나 그러나 ­ 此一時的 現像의 米價 騰貴는 決코 彼等 小農民의 將來를 永久히 保障할 수는 無한 것이다.
+大槪 小農民의 負擔은 彼等의 經營에 關한 事業에 使用할 目的上으로 起함이 아니다. 彼等에게 襲來하는 生活難을 一時的으로라도 迴避하기 爲하야 生活費 補充의 必要로 起하는 時가 多한 故로 彼等이 生活의 危急을 逃避하기 爲하야 又는 或 必要로 爲하야 起債할 時에 彼等의 財産的 活用 及 對人信用은 勿論 薄弱한 故로 農民金融機關이 有하여도 그로부터 低利의 信用 貸附를 受할 수가 無하야 必히 所有 作地를 抵當으로 하고 地主階級으로부터 高利를 借用함이 常例이다.
+地方 農民의 金融機關으로 金融組合이 全國 各 郡에 散在하지마는 事實로 組合에 加入하야 그를 利用하야 便利를 得하는 者는 中農者 以上 反히 地主階級의 便이 多數이고 小農民 小作人은 何等의 便宜에 未叅하는 것이 今日의 現狀이다. 生活을 維持함에 唯一의 方便이고 또 그로 借金도 償還함을 得할 것인 彼等의 農作物이 若 不幸히 天災에 罹하야 減收할 時에는 債金償還은 不可能할 뿐 아니라 一家族 年計에 危難이 先하는 것이다. 뿐만 아니라 自己 又는 家族 身體에 患疾과 如한 特殊의 不幸이 起할 時에는 旣히 差入된 擔保 土地(勿論 不動産)의 價格과 同等 或은 以上의 增債를 要求하는 고로 彼等의 負債는 益益 增加할 뿐이요 償還은 到底 不可能에 終하고 만다. 即 自作地는 小作地로 變하고 土地는 益益 兼倂되는 兩面의 惡果를 生한다.
+다음에는 小農民의 移住인데 間島 滿洲 露領 方面에 移住 出稼하는 同胞 中에는 大槪 小農民 農業勞働者가 多大數를 占하는데 地方에 依하여서는 自作農者가 自己의 財産의 全部를 팔아가지고 國境 外에 移住하는 者도 相當히 엇는＜22＞ 것 갓다. 大正 10年 6月末 現在 外務省의 海外 在留 邦人의 人口 調査에 依하면(海外 公使館 領事館에 報告에 依함) 海外 在留 朝鮮人 中 間島 滿洲 各地 露領 各地에 移住하여 잇는 朝鮮人口數는 男女 合하야 34萬餘인데 그 多大數가 家族 同伴한 農業者인 것은 同調査의 移民 職業別에 依하야 明確한 것이다. 그러고 間島 滿洲 露領 各地는 朝鮮人 移住民의 最大 口數를 占한 地方인데 이것을 地方別로 보면 如左하다.
+그 移住의 原因은 排日이라는 政治的 原因이 一部 原因이 되는 同時에 朝鮮 內地에서는 生活 維持의 困難으로부터 驅逐을 受함이 主原因인데 事實上에 徵하야 보아도 朝鮮 內에서 農况이 不好한 時節에 移住民이 增加 動搖되는 것 갓다. 그러고 彼等 自作力 農民이 國慶 外에 移住를 計劃할 時에는 흔히 家族을 引率하고 家産을 整理하여 가지고 移住하는＜23＞ 故로 彼等의 所有土地가 附近 地主階級에게 買收되는 것은 當然한 일이다. 勿論 今日 朝鮮의 農作地가 農業勞働者의 國外 移住로 因하야 荒廢하게 될 念慮는 無하지마는 朝鮮人民 農業者 戶數가 農作地 面積에 比하야 反히 停滯的 狀態에 在함은 明確한 事實이다. 即 農作地 面積은 大正 元年으로부터 10個年 後의 今日에까지 3倍 以上 增加함에 對하야 農業者(朝鮮人民) 戶數는 僅히 1分 1層의 增加를 示함에 不過함은 左의 統計가 示하는 바이며 그 內面에서는 耕地 增加 面積의 大部分의 少數 地主資本家의 所有로 되어 가는 것은 像想키 容易한 일이다.
+耕作地 面積 增加와 農業者 戶數 增加와의 比較 (朝鮮人)
+農業者 戶數가 停滯 不進하는 原因에는 農民의 外國 移住 以外에 國內의 農業者가 職業을 박구는 關係도 重要한 것의 하나이 되겟지마는 이것일지라도 土地兼倂을 助勢하는 一資가 됨은 勿論일 것이다.
+地方別 朝鮮人 農業者 戶數 增加 比較 (◉은 增加 割合 少한 地方)
+
+各 地方別 移住 朝鮮人口數 (大正 8年末 現在 滿洲 及 西伯利亞)
+咸鏡北道 89,724 / 平安北道 41,266 / 慶尙北道 25,567 / 咸鏡南道 14,440 / 慶尙南道 11,070 / 平安南道 9,136 / 江原道 2,439 / 黃海道 3,596 / 京畿道 1,438 / 忠淸北道 926 / 全羅南道 338 / 忠淸南道 115 / 全羅北道 15 / 계 205,634
+附記 여긔에는 單히 土地兼倂의 原因 及 事實을 그대로 敍述함에 止하엿스며 此의 防止策에 對하야는 一般으로 硏究함이 잇기를 바라며 機會를 보아 우리로부터 그 意見을 發表할 수도 有하리라.＜25＞
+＜14-25＞

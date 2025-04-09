@@ -1,0 +1,82 @@
+**Header Section:**
+Magazine Title: 개벽 제22호
+Publication Date: 1922년 04월 01일
+Article Title: 버들동산 (W. B. Yeats) (Willow Garden (W. B. Yeats))
+Author: 億生
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Down by the willow garden
+I met my love,
+My love passed through the willow garden
+With little feet white as snow.
+Like the leaves budding on the tree,
+My love said love is easy to fade,
+But I was young and foolish,
+And thus, did not listen to my love's words.
+
+In the field lying by the riverbank
+I stood with my love,
+My love placed her hand, white as snow,
+Upon my bowed shoulder.
+Like the grass growing on the bank,
+My love said life is easy to fade,
+And thus, now tears of remembrance flow from my eyes. <37>
+
+**Summary**
+
+This article is a Korean translation of W. B. Yeats' poem "Down by the Salley Gardens," translated by "Oksaeng" (億生). The poem recounts a speaker's memories of a past love, marked by youthful foolishness and regret for not heeding the lover's warnings about the transience of love and life, leading to present sorrow. For historians, the publication of a translation of an Irish poet's work in a prominent Korean cultural magazine like *Kaebyŏk* (개벽) during the early Japanese colonial period (1922) is significant. It demonstrates continued Korean engagement with Western literature and culture, and the choice of Yeats, from a nation with its own history of struggle against a larger power, might have resonated subtly with Korean intellectuals navigating their own colonial reality.
+
+**Named Entities**
+
+W. B. Yeats	-	W. B. Yeats
+億生	억생	Oksaeng
+
+**Glossary**
+
+동산	동산	Garden or hill
+맛나엿노라	만났노라	Met (older poetic/narrative form of 만나다)
+하이한	하얀	White (older spelling/form)
+적은	작은	Small, little (older spelling)
+갓서라	갔어라	Went, passed (older spelling/form of 가다 + narrative ending)
+도다나는	돋아나는	Budding, sprouting (older spelling)
+닙과도	잎과도	With the leaves (older spelling of 잎)
+슬어지기	스러지기	To fade away, disappear, wither (older form/spelling of 스러지다)
+어리석엇노라	어리석었노라	Was foolish (older spelling/form + narrative ending)
+듯지 안핫노라	듣지 않았노라	Did not listen (older spelling/form + negative + narrative ending)
+누엇는	누운	Lying down (older spelling/form of 눕다)
+섯섯노라	섰었노라	Stood (older spelling/form of 서다 + past tense + narrative ending)
+억개	어깨	Shoulder (older spelling)
+언젓서라	얹었어라	Placed upon (older spelling/form of 얹다 + narrative ending)
+목슴	목숨	Life (older spelling)
+只今	지금	Now
+追懷	추회	Remembrance, reminiscence, nostalgia
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제22호
+발행일	1922년 04월 01일
+기사제목	버들동산 (W. B. Yeats)
+필자	億生
+기사형태	시
+
+버들동산 (W. B. Yeats)
+						億生
+버드나무의 동산가에서
+나는 내 님과 맛나엿노라,
+내 님은 눈인 듯 하이한 적은 발로
+버드나무동산을 지내 갓서라,
+나무에 도다나는 닙과도가티
+사랑은 슬어지기 쉽다고 내 님은 말하여라,
+그러나, 나는 어리고 어리석엇노라,
+이리하야 내 님의 말을 듯지 안핫노라.
+
+江물가에 누엇는 벌판에
+나는 내 님과 섯섯노라,
+내 님은 눈인 듯 하이한 그 손을
+나의 숙인 억개에 언젓서라,
+언덕가에 자라는 풀과도가티
+목슴은 슬어지기 쉽다고 내 님은 말하여라,
+이리하야 只今 내 눈에는 追懷의 눈물이, 흘러라.＜37＞

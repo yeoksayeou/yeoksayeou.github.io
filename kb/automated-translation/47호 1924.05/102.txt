@@ -1,0 +1,85 @@
+Magazine Title: 開闢
+Publication Date: 1924년 05월 01일
+Article Title: 注意事項 (Important Notices)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation**
+
+Important Notices
+
+一 Subscription fees and postage must all be paid in advance. If the advance payment runs out, dispatch will be stopped.
+However, if a shortage in the advance payment occurs due to an enlarged issue or other changes in the fixed price, dispatch will await further payment.
+
+一 Please be sure to use the postal transfer account number (振替貯金口座番號).
+
+一 Substitution with postage stamps is refused.
+However, limited to remote areas (僻地) where transport is inconvenient, substitution is specially permitted with a 10% surcharge (一割增).
+
+一 Cash on delivery and parcel post handling are absolutely refused.
+However, when requesting shipment to Japan (日本), the fixed price plus shipping fees must be paid in advance.
+
+一 When remitting payment combining the costs for Kaebyŏk (開闢), New Woman (新女性), Children (어린이), and other publications, please itemize each publication and write down the amount for each.
+
+一 For requests for receipts, return postage (返信料) is required. For requests for refunds (代金反戾), return shipping fees (返送料) must be demanded.
+
+一 When changing your address, you must notify the main office and be sure to clearly state your old address (舊住所).<72>
+
+**Summary**
+
+This article is an administrative notice outlining the subscription and payment policies for Kaebyŏk magazine and related publications in 1924. It mandates advance payment for subscriptions and postage, details procedures for handling payment shortages, specifies the use of postal transfer accounts, prohibits payment via stamps (except with a surcharge in remote areas), refuses cash-on-delivery or parcel post, requires itemized payments for multiple publications, and stipulates requirements for receipts, refunds, and address changes. From a historical perspective, the notice reveals the operational details of a Korean publishing house during the colonial period, including its reliance on the Japanese postal system (postal transfers, handling of mail to Japan proper), the challenges of reaching subscribers in remote areas, and the specific financial mechanisms used. The strict policies on payment methods might reflect economic conditions or attempts to manage business efficiently under colonial constraints.
+
+**Named Entities**
+
+日本	일본	Japan
+新女性	신여성	New Woman (Publication Name)
+어린이	어린이	Children (Publication Name)
+
+**Glossary**
+
+誌代	지대	Subscription fee (for a magazine)
+郵稅	우세	Postage fee (Older term for 우편 요금)
+一切	일절	All; entirely; absolutely
+先金	선금	Advance payment
+拂込	불입	Payment; remittance (often used for installments or fees)
+振替貯金口座番號	진체저금구좌번호	Postal transfer account number (Referring to the Japanese system used in colonial Korea)
+郵票	우표	Postage stamp
+代用	대용	Substitution; use as a substitute
+謝絶	사절	Refusal; rejection; decline
+僻地	벽지	Remote area; secluded place
+一割增	일할증	10% increase; surcharge of 10%
+代金引換	대금인환	Cash on delivery (COD)
+小包	소포	Parcel; small package (postal)
+取扱	취급	Handling; dealing with
+送料	송료	Shipping fee; postage cost
+出版物	출판물	Publication; published material
+細別	세별	Itemize; classify in detail
+領收證	영수증	Receipt
+返信料	반신료	Return postage fee
+代金反戾	대금반려	Refund; return of payment (Older/formal term)
+返送料	반송료	Return shipping fee
+變更	변경	Change; alteration
+本社	본사	Main office; headquarters
+舊住所	구주소	Old address; former address
+明記	명기	Clearly state; specify
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제47호
+발행일	1924년 05월 01일
+기사제목	注意事項
+기사형태	사고·편집후기
+
+注意事項
+一 誌代, 郵稅는 一切先金으로하되 萬一先金이 盡하는 時는 發送을 停止함
+但增大號其他定價變更에 依한 先金拂込의 不足이 生할 時는 다시 拂込을 待하야 發送함
+一 振替貯金口座番號를 期於히 利用하시오
+一 郵票代用은 謝絶함
+但交通不便한 僻地에 限하야는 特히 一割增으로 代用하시오
+一 代金引換과 小包의 取扱은 一切謝絶함
+但日本을 請求할 時는 定價대로 送料竝先金을 要함
+一 開闢新女性及어린이 其他出版物의 代金을 總合하야 拂込하는 時는 各種을 細別하야 金額을 記入하시오
+一 領收證請求에는 返信料를, 代金反戾要求에는 返送料를 반다시 要求함
+一, 住所를 變更할 時에는 반듯이 本社에 通知하시되 舊住所를 明記하여주시요＜72＞

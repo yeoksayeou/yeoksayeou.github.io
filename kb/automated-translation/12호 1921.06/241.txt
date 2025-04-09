@@ -1,0 +1,51 @@
+Magazine Title: 개벽 (Kaebyŏk)
+Publication Date: 1921년 06월 01일 (June 1, 1921)
+Article Title: 社告 (Company Announcement)
+Author: 開闢社 編輯部 (Kaebyŏk Publishing Company Editorial Department)
+Article Type: 사고·편집후기 (Announcement/Postscript)
+
+▲Company Announcement▲
+
+It is regrettable, but in this issue, we cannot continue the serialization of the "Hamlet" (하믈레트) script from the previous issue. This is due to reporter Mr. Hyŏn Ch'ŏl's (玄哲 氏) failure to recover his health, so we hope for everyone's forgiveness, understanding the circumstances (事情).
+Kaebyŏk Publishing Company (開闢社) Editorial Department (編輯部) Paek <149>
+
+**Summary**
+
+The Editorial Department of Kaebyŏk Publishing Company announces that the serialization of the "Hamlet" script is suspended for the current issue (No. 12, June 1, 1921) because the reporter responsible, Mr. Hyŏn Ch'ŏl, has not recovered from health problems. They apologize to the readers and ask for their understanding. From a historical perspective, this notice is interesting as it documents the early engagement with and dissemination of Western literature (specifically Shakespeare) in colonial Korea through popular magazines. It also highlights the practical challenges faced by publications, such as reliance on individual contributors like Hyŏn Ch'ŏl, whose health could impact content delivery.
+
+**Named Entities**
+
+玄哲	현철	Hyŏn Ch'ŏl
+開闢社	개벽사	Kaebyŏk Publishing Company
+編輯部	편집부	Editorial Department
+
+**Glossary**
+
+社告	사고	Company Announcement
+遺憾	유감	Regret
+今號	금호	This issue (of a magazine)
+前號	전호	Previous issue (of a magazine)
+하믈레트	하믈레트	Hamlet (Older transliteration)
+脚本	각본	Script
+連載	연재	Serialization
+記者	기자	Reporter, journalist
+健康	건강	Health
+不回復	불회복	Non-recovery, failure to recover
+因함이오니	인함이오니	Being due to; because of (Slightly archaic form using -오니)
+事情	사정	Circumstances, situation
+容恕	용서	Forgiveness
+하야주심을	하여주심을	Asking for (someone to do something, here 'forgive'); (Older spelling '하야' for '하여')
+바라노이다	바라나이다	We hope/wish (Archaic polite ending '-노이다')
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제12호
+발행일	1921년 06월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+▲社告▲
+遺憾이오나 今號에는 前號의 「하믈레트」脚本을 連載치 못하나이다 이것은 記者 玄哲 氏의 健康 不回復으로 因함이오니 여러분은 事情으로써 容恕하야주심을 바라노이다
+開闢社 編輯部 白＜149＞

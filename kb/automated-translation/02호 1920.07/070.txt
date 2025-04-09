@@ -1,0 +1,74 @@
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	文明的 農事는 電氣로 한다. (Civilized Farming is Done with Electricity.)
+기사형태	소식 (News/Report)
+
+文明的 農事는 電氣로 한다.
+
+米國의 農村에서는 近來 農事上 電力을 利用함이 盛行하는데 就中 칸사쓰州 等地에서는 多數하더라. 電氣會社가 競爭하야 該村의 耕地上에 電線을 設備하야 打穀 又는 作物의 運搬 害蟲救濟 等 一切를 此 全力을 利用케 하야 農民에게 多大한 便利를 與한다는대 此 電力을 利用하는 時는 蒸氣力을 使用함보다 至極 便利할 뿐 안이라 費用이 低廉함으로 農民에게 大歡迎을 受하는 바인대 그 地方의 統計에 依하건대 21日間 電力을 使用하야 8,814 「뿌ㅅ쇠ㄹ」의 小麥八을 打穀한 經費가 僅히 361弗인대 1「뿌ㅅ쇠ㄹ」에 約 41「셋트」에 該當하고 蒸氣力을 利用할 時는 1「뿌ㅅ쇠ㄹ」에 12乃至 20「세ㅅ트」에 達하는 故로 此에 比하면 費用이 約 4分之 1에 不過하다더라.＜36＞
+
+Civilized Farming is Done with Electricity.
+
+In the rural villages of America (米國), the use of electric power in farming has recently become prevalent, especially in places like Kansas (칸사쓰) State, where it is numerous. Electric companies compete to install power lines over the farmland of these villages, enabling the use of this electric power for everything from threshing (打穀) and crop transportation (作物의 運搬) to pest control (害蟲救濟), providing great convenience to the farmers. When using this electric power, it is not only extremely convenient compared to using steam power (蒸氣力), but also the cost (費用) is low, making it greatly welcomed by farmers. According to statistics from that region, the expense (經費) of threshing 8,814 bushels (「뿌ㅅ쇠ㄹ」) of wheat (小麥) using electric power for 21 days was merely $361, which corresponds to about 4.1 cents (「셋트」) per bushel. When using steam power, it reaches 12 to 20 cents (「세ㅅ트」) per bushel, so compared to this, the cost is merely about one-fourth (4分之 1). <36>
+
+**Summary**
+
+This news report from a 1920 Korean magazine describes the increasing use of electricity in American farming, particularly in Kansas. It highlights how electric companies installed power lines, enabling farmers to use electricity for various tasks like threshing, transporting crops, and pest control. The article emphasizes the advantages of electricity over steam power, noting its greater convenience and significantly lower cost, citing statistics showing electric threshing costs to be roughly a quarter of steam-powered threshing. For historians, this article reveals Korean awareness of and interest in Western technological advancements like rural electrification during the early colonial period. It reflects a potential aspiration for modernization and efficiency, contrasting with the likely conditions in colonial Korea, and shows the type of information about global progress being disseminated to the Korean public at the time.
+
+**Named Entities**
+
+米國	미국	Miguk (America/USA)
+칸사쓰州	캔자스주	K'ansassŭ State (Kansas State)
+
+**Glossary**
+
+文明的	문명적	Civilized; Modern
+農事	농사	Farming; Agriculture
+電氣	전기	Electricity
+電力	전력	Electric power
+盛行	성행	Prevalence; Being popular
+就中	취중	Among them; Especially
+多數하더라	다수하더라	Are numerous (older conjugation/spelling)
+競爭	경쟁	Competition
+設備하야	설비하여	Installing (older spelling/form of 하여)
+打穀	타곡	Threshing (grain)
+作物	작물	Crops
+運搬	운반	Transportation; Carrying
+害蟲救濟	해충구제	Pest control; Pest relief
+一切	일체	Everything; All
+此	차	This (Hanja character used for 'this')
+利用케 하야	이용케 하여	Making use of (older spelling/form of 하여)
+與한다는데	여한다는데	Reportedly gives/provides (older verb form + reported speech ending)
+蒸氣力	증기력	Steam power
+使用함	사용함	Using (noun form, older style)
+至極	지극	Extremely; Utmost
+費用	비용	Cost; Expense
+低廉함으로	저렴함으로	Because it is inexpensive (older spelling of 저렴)
+大歡迎	대환영	Great welcome; Enthusiastic reception
+受하는 바인대	수하는 바인데	Is receiving (older spelling/form of 수하다 + connective ending)
+統計	통계	Statistics
+依하건대	의하건대	According to (older form of 의하면)
+日間	일간	During [number] days; Per day
+「뿌ㅅ쇠ㄹ」	부셸	Bushel (transliteration using older ㅅ notation)
+小麥八	소맥을	Wheat (을 particle likely written as 八)
+經費	경비	Expense; Cost
+僅히	근히	Merely; Only (older spelling)
+弗	불	Dollar (older Hanja representation)
+「셋트」	센트	Cent (transliteration using older ㅅ notation)
+該當하고	해당하고	Corresponds to; Is equivalent to
+乃至	내지	Or; To (indicating a range)
+達하는 故로	달하는 고로	Because it reaches/amounts to
+比하면	비하면	Compared to
+不過하다더라	불과하다더라	Is merely; Is no more than (older verb ending + reported speech ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	文明的 農事는 電氣로 한다.
+기사형태	소식
+
+文明的 農事는 電氣로 한다.
+米國의 農村에서는 近來 農事上 電力을 利用함이 盛行하는데 就中 칸사쓰州 等地에서는 多數하더라. 電氣會社가 競爭하야 該村의 耕地上에 電線을 設備하야 打穀 又는 作物의 運搬 害蟲救濟 等 一切를 此 全力을 利用케 하야 農民에게 多大한 便利를 與한다는대 此 電力을 利用하는 時는 蒸氣力을 使用함보다 至極 便利할 뿐 안이라 費用이 低廉함으로 農民에게 大歡迎을 受하는 바인대 그 地方의 統計에 依하건대 21日間 電力을 使用하야 8,814 「뿌ㅅ쇠ㄹ」의 小麥八을 打穀한 經費가 僅히 361弗인대 1「뿌ㅅ쇠ㄹ」에 約 41「셋트」에 該當하고 蒸氣力을 利用할 時는 1「뿌ㅅ쇠ㄹ」에 12乃至 20「세ㅅ트」에 達하는 故로 此에 比하면 費用이 約 4分之 1에 不過하다더라.＜36＞

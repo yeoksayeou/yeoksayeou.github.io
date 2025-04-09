@@ -1,0 +1,45 @@
+Magazine Title: 개벽 제4호
+Publication Date: 1920년 09월 25일
+Article Title: 天國 (Heaven)
+Author: 쇼-
+Article Type: 잡저 (Miscellaneous writing)
+
+Heaven
+
+English people say that if you give property to the destitute (貧塞), you will go to Heaven, but nobody practices this. However, African natives say that if you kill many people, you will go to Heaven, and so they kill people as casually as eating cold rice for lunch. (Shaw-)＜66＞
+
+**Summary**
+
+The article contrasts two beliefs about attaining Heaven: the English belief that giving wealth to the poor is the way, though unpracticed, and the belief attributed to African natives that killing many people is the way, which is supposedly practiced frequently and casually. This short piece, attributed to "Shaw" (likely G.B. Shaw), uses a stark comparison. For historians, the text reflects common Western, possibly colonial-era, stereotypes about "primitive" African cultures contrasted with the perceived hypocrisy of "civilized" Christian societies. Its appearance in a Korean magazine like *Kaebyŏk* could indicate the circulation of such ideas or critiques within colonial Korea.
+
+**Named Entities**
+
+英國	영국	England
+亞弗利加	아프리카	Africa
+쇼-	쇼	Shaw
+
+**Glossary**
+
+天國	천국	Heaven
+英國	영국	England, Britain
+財産	재산	Property, wealth
+貧塞	빈색	Poor, destitute (Archaic or less common term)
+아모도	아무도	Nobody, anybody (Older spelling of 아무도)
+實行	실행	To practice, implement, carry out
+亞弗利加	아프리카	Africa (Hanja phonetic transcription)
+土人	토인	Native, indigenous person (Can be derogatory)
+만히	많이	Many, much (Older spelling of 많이)
+찬밥 點心하듯	찬밥 점심하듯	Lit. "like eating cold rice for lunch"; idiomatically means to do something frequently, casually, or with disregard. (點心 is used for 점심 - lunch)
+잡저	잡저	Miscellaneous writing, essays, miscellany
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제4호
+발행일	1920년 09월 25일
+기사제목	天國
+기사형태	잡저
+
+天國
+英國 사람은 財産을 貧塞한 사람에게 주면 天國에 간다고 하나 아모도 이것을 實行하지 아니한다. 그러나 亞弗利加土人은 사람을 만히 죽이면 天國에 간다고 하야 사람 죽이기를 찬밥 點心하듯 한다. (쇼-)＜66＞

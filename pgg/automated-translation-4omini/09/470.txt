@@ -1,0 +1,129 @@
+잡지명	별건곤  
+발행일	1927년 10월 01일  
+기사제목	選後의 말 (Post-Election Remarks)  
+필자	가람 (Garam)  
+기사형태	문예평론 (Literary Criticism)  
+
+Post-Election Remarks  
+
+Poetic form can be freely written by the author as long as it is recognized as poetry. However, if one attempts to compose poetry that has a specific established format, they cannot deviate from that set structure. If they do not adhere to the set format, it cannot be considered as such. Therefore, the content of a sijo (traditional Korean poetic form) must indeed be meaningful, but if it does not comply with the formal structure of sijo, it cannot be classified as a sijo at all. For instance:
+
+Ah - Autumn  
+Oh, the sorrowful autumn has returned  
+The gentle golden breeze  
+Rushing through the trees  
+With a rustling sound  
+The red-hued leaves  
+Fall and hit the window  
+The empty mountain night moon  
+Flows into the blue expanse above  
+And also covers the earth with silver dew.  
+
+This kind of composition does not constitute a sijo. There are variations within sijo, such as the simple sijo and the narrative sijo, which are somewhat less stringent in form than general sijo; however, there is no form resembling the example given. Generally, when we refer to sijo, we are talking about simple sijo, which must conform to specific character counts.
+
+Character Count in Simple Sijo  
+First Stanza   6 - 9 (first line) 6 - 9 (last line)  
+
+Second Stanza   5 - 8 (first line) 6 - 9 (last line)  
+
+Third Stanza   3 (first line) 5 - 8 (second line)  
+
+4 - 5 (third line) 3 - 4 (last line)<135>  
+
+The character count for simple sijo is as shown above; the first line of the first stanza must contain at least six characters and at most nine characters. The first line of the second stanza must contain at least five characters and at most eight characters, while the last line must contain six characters and at most nine characters. For the third stanza, the first line remains unchanging at three characters, the second line must contain at least five and at most eight characters, the third line typically has four or five characters, and the last line must have three or four characters. Furthermore, for five-character lines, there are various patterns such as 二三調, 三二調; for six-character lines, patterns like 二四調, 三三調, 四二調; for seven-character lines, patterns such as 三四調, 二五調, 四三調; for eight-character lines, patterns like 三五調, 四四調, 五三調; and for nine-character lines, patterns such as 四五調, 五四調, 三六調 exist. Often, while the character counts of the first and second stanzas are correctly matched, the third stanza's character counts are neglected. Among these, there are many who write four characters for the second line of the third stanza and four or five for the third line. However, if this happens, it not only deviates from traditional sijo but also does not conform to the rhythmic quality of sijo; those who have tried writing and revising will understand.
+
+Now, some might wonder how significant a one or two-character deviation might be. Nonetheless, strictly speaking, following these character counts is essential.  
+
+On the seventh month, on the day of Chuseok, when the magpies were not visible,  
+
+After a while, the gentle rain fell, as if tears were shed.  
+
+Perhaps those magpies are crossing the Milky Way bridge.  
+
+“On the day of the autumn harvest, on this night in the field, the wild silkworm opens.  
+
+The sounds of autumn from the motherland return.  
+
+Even the cold insects understand the thin clothes on the head.”  
+
+Instances such as these are not only concerned with whether the words make sense but, in terms of word composition, they merely turn into formulaic expressions that create reader fatigue. We must strive to use fresh language and approach so as to impart new content.  
+
+While the number of submitted sijo was disappointingly low, I still believe that there were a few meaningful and powerful works. Furthermore, I hope that our comrades in the realm of this poetic form become more vigorous. I also ask for the authors' understanding for any hasty assessments I may have made.  
+
+-( 九, 一夕 )-<115>  
+<135, 114-115>  
+
+**Summary**  
+
+In this article, Garam discusses the importance of adhering to the formal structure of sijo poetry, emphasizing that deviation from designated character counts renders the work non-compliant with traditional forms. Garam stresses the need for originality in expression while encouraging poets to create with new language and content. This article reflects the artistic challenges within the colonial context of Korea, where cultural identity and the preservation of traditional arts held particular significance amidst external pressures and influences.
+
+**Named Entities**  
+
+None  
+
+**Glossary**  
+
+詩形	시형	poetic form  
+詩	시	poetry  
+작자	작자	author  
+형식	형식	format  
+소리	소리	sound  
+단풍	단풍	autumn leaves  
+창문	창문	window  
+대지	대지	earth  
+中章	중장	second stanza  
+初章	초장	first stanza  
+終章	종장	third stanza  
+良	양	proper, good  
+表示	표시	display/indicate
+
+
+---------------------------
+
+
+잡지명	별건곤 제9호
+발행일	1927년 10월 01일
+기사제목	選後의 말
+필자	가람
+기사형태	문예평론
+
+選後의 말
+						가람
+詩形은 작자의 마음대로 아모러케 쓰더라도 詩만 되엿스면 괜챤켓지마는 이미 일정한 형식이 잇는 詩 그것을 지으려하면 그 일정한 형식을 아니 밟을 수 업다. 만일 그 일정한 형식을 아니 밟는다하면 그건 그걸로 볼 수 업는 까닭이다. 그럼으로 시조의 내용은 가젓대도 시조의 형식을 가추지 못하면 시조로는 불 수 업다. 가령
+
+아 - 가을
+애닯은 가을이 다시 왓구나
+소슬한 금풍이
+나무닙끄테 달리는
+훌적이는 소리와 가티
+붉게 물든 단풍이
+부시부시 떨어지어
+창문을 때리고
+空山夜月은 푸르고 푸른 창공에 흐르고
+또 흘러온 대지를 은물 적시엇는데
+
+라 하는 따위는 시조는 아니다. 시조에도 엇시조, 사설시조 따위는 평시조처럼 그 형식이 좀 엄정치 못한 것도 잇기는 잇지마는 이와가튼 형식의 시조는 업다. 보통 시조라 함은 평시조를 니름인데 평시조의 형식에는 첫재 그 字數를 가추어야 한다.
+
+平時調의 字數
+初章   6 - 9 (첫句) 6 - 9 (끗句)
+
+中章   5 - 8 (첫句) 6 - 9 (끗句)
+
+終章   3 (첫句) 5 - 8 (둘재句)
+
+4 - 5 (셋잿句) 3 - 4 (끗句)＜135＞
+
+
+평시조의 字數는 右(위)의 표와 가티 초장에는 한 句가 적어도 6자이상, 만허도 9자이내, 중장에는 첫句가 5자 이상, 8자 이내, 끗句가 6자 이상, 9자 이내 종장에는 첫句 3자는 一定不變하고 둘재句가 5자 이상, 8자 이내, 셋재句가 보통 4자 혹은 5자, 끗句가 3자 혹은 4자다. 그리고 5자句에는 二三調, 三二調, 6字句에는 二四調, 三三調, 四二調, 7字句에는 三四調, 二五調, 四三調, 8字句에는 三五調, 四四調, 五三調, 9字句에는 四五調, 五四調, 三六調가 잇는데 흔히들 초장 중장의 字數는 잘 마추어도 종장의 字數를 못 마추는 일이 잇다. 그 중에도 종장의 둘재句를 5자 이내 곳 4자로 셋재句를 4자 이내나 5자 이상으로하는 이가 만타. 그러나 이런 때는 종래의 시조에는 업슬 뿐 아니라 시조의 음조에도 맛지 아니함을 시조를 지어보고 닑어본 이는 알 것이다.
+그런데 어찌 생각하면 그만한 한 두字 에누리야 잇기로손 어떠켓느냐 할 이도 잇겟스나 嚴正한 의미로 보아서＜114＞ 이런 字數를 꼭 마추어야 할 것이다.
+칠월이라 칠석날에 烏鵲이 안 뵈드니
+얼마후 구즌비라 눈물인 듯 나렷서라
+아마도 저 烏鵲이 千里銀河 다리논 듯
+
+稻花處暑 오날 밤에 논두렁에 野蠶開라
+故國의가을 소리 저 기럭이 다시 온다
+寒蟲도 衣裳薄알고 틀머리에
+라 하는 따위는 글이 되고 아니되고는 말을 아니하거니와 다만 그 造語로 말하면 套語式이나 漢文式에 지나지 못하여 독자로 하여곰 발우 염증을 나게 하는 늣김이 잇다. 우리는 될 수 일는대로 새론 말 새론 어조를 써야하며 딸아서 새론 내용을 가지게 하여야 할 것이다.
+이번 응모된 시조의 편수가 적음은 매우 섭섭히 녀겻스나 그래도 몃몃의 뜻잇고 힘 잇는 作을 자미잇게 보앗스며 또한 이 時調道에 대한 조흔 동지를 어덧슴은 더욱이 깃버한다. 그리고 함부로 평한 것은 작자여러분의 만흔 용서를 바란다.
+-( 九, 一夕 )-＜115＞
+＜135, 114-115＞

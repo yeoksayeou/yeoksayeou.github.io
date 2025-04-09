@@ -1,0 +1,75 @@
+**Header Section:**
+Magazine Title: 개벽 제1호
+Publication Date: 1920년 06월 25일
+Article Title: 平濟塔은 어떠한 것인가 (What Kind of Thing is the P'yŏngje Tower?)
+Author: Unknown
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+**Body Text Translation:**
+What Kind of Thing is the P'yŏngje Tower?
+
+Anyone who goes to Puyo admires the Eight Views of Puyo, and among the Eight Views, they especially cherish and praise the P'yŏngje Tower. However, people do not know well the story concerning the P'yŏngje Tower. Indeed, the P'yŏngje Tower [story goes that] the T'ang dynasty, having suffered trampling by the Chosŏn race, always sought to wash away even a fraction of its shame. Lying awake day and night, wondering how to set foot on Chosŏn's territory, they found Silla, unable to withstand the pressure from Koryŏ [likely Koguryŏ] and Paekche. Silla, with the mindset of a cornered dog, completely abandoned the concept of kinship and, calculating that it only needed to avenge its immediate resentment, secretly communicated with T'ang, bringing in their T'ang neighbor under the condition of jointly attacking Koryŏ [Koguryŏ] and Paekche to share the benefits.
+
+Setting other matters aside, in the eyes of the T'ang people, who had not even a bit of an eye for art, the thought suddenly arose to write down even a little of their deeds in their imperfect script on the five-story pagoda erected in the front courtyard of Hŭngwangsa Temple, which was founded in the time of King Mu, the father of King Ŭija. Thus, 25 days after the pacification of Paekche, that is, on August 15th, they inscribed the characters 'Ta T'ang P'yŏng Paekche Kuk Pimyŏng' (Great Tang Stele Inscription Commemorating the Pacification of Paekche) in the calligraphy of Kwŏn Hwiso, characters unique since their history began.
+
+Therefore, although everyone might think that the P'yŏngje Tower was made by the hands of those T'ang fellows, the actual situation is not so. Firstly, the site is the Hŭngwangsa Temple site. Secondly, the stone Buddha that was in the Dharma Hall behind the pagoda is still there. Thirdly, the commemorating characters were inscribed on a stele, but this [inscription] is only *on* the pagoda [not the pagoda itself]. Fourthly, the P'yŏngje Tower was made by the hands of the Paekche people's own ancestors; the stele of Yu Inwŏn, who was So Chŏngbang's subordinate general, is a mark of shame after the fall of the nation, so even if the Yu Stele is smashed, the pagoda alone is preserved. Fifthly, there is a discrepancy in the date; not only would it have been impossible for them [T'ang] to build such a colossal structure with their own hands right after the war, but the people of the ruined Paekche would certainly not have built it for them. Sixthly, one can know this by looking at the passage in the P'yŏngje Tower stele inscription which says, 'The jeweled hall floats in the sky, sparse bells clang at night, clear Buddhist chants resonate at dawn, carving the tortoise [base] (刋龜囗囗), to record the special merit.'
+
+With these six proofs, even Han Chinese or deceived Sinophiles will know that it is not so.<138>
+
+**Summary**
+
+This article argues that the P'yŏngje Tower (平濟塔) in Puyo, commonly believed to be built by the Tang Dynasty to commemorate their conquest of Paekche, is actually a pre-existing five-story pagoda from Hŭngwangsa Temple, built by Paekche's King Mu. The author contends that the Tang merely inscribed a stele on the existing Paekche structure shortly after the conquest. Six points of evidence are offered: the site's identity as Hŭngwangsa, the presence of the original Stone Buddha, the fact that the inscription is on a stele attached to the tower, the claim that the tower itself is Paekche work unlike the shameful Tang-related stele of Yu Inwŏn, the logistical impossibility of Tang building such a structure immediately post-war, and evidence within the inscription text itself suggesting a pre-existing temple complex. From a historical perspective, this article is interesting as an example of early 20th-century Korean nationalist historiography, seeking to reclaim Korean heritage and downplay foreign (Chinese) influence or dominance, reframing historical narratives during a period of Japanese colonization. Historians might find the specific arguments and the strong anti-Tang (and implicitly anti-foreign domination) tone reflective of the intellectual climate of the time.
+
+**Named Entities**
+
+扶餘	부여	Puyo
+平濟塔	평제탑	P'yŏngje Tower (P'yŏngje T'ap)
+唐	당	T'ang (Dynasty)
+朝鮮	조선	Chosŏn
+句麗	구려	Koryŏ (Used in text, likely referring to Koguryŏ)
+百濟	백제	Paekche
+新羅	신라	Silla
+義慈王	의자왕	King Ŭija
+武王	무왕	King Mu
+興王寺	흥왕사	Hŭngwangsa (Hŭngwang Temple)
+權懷素	권회소	Kwŏn Hwiso
+大唐平百濟國碑銘	대당평백제국비명	Ta T'ang P'yŏng Paekche Kuk Pimyŏng (Great Tang Stele Inscription Commemorating the Pacification of Paekche)
+蘇定方	소정방	So Chŏngbang
+劉仁願	유인원	Yu Inwŏn
+漢人	한인	Han Chinese
+
+**Glossary**
+
+개벽	개벽	Beginning; dawn of a new era (Magazine name)
+잡저	잡저	Miscellaneous writing; essay
+어떠한	어떠한	What kind of; how
+기리더라	기리더라	To praise; to commemorate (Older grammatical ending)
+발ㅅ길	발길	Footsteps; path (Older spelling, 사이시옷 used)
+들여놋나	들여놓나	To set foot in; to place inside (Older spelling/form)
+옥셈	억셈	Calculation; reckoning (Possibly dialectal or older form of 셈 with emphasis)
+暗通	암통	Secret communication; collusion
+且置	차치	Setting aside; leaving aside for now (Hanja term)
+족음	조금	A little; slightly (Older spelling)
+업는	없는	Not having; lacking (Older spelling)
+십흔	싶은	Wanting to (Older spelling of 싶-)
+불현듯이	불현듯이	Suddenly; unexpectedly
+書	서	Writing; calligraphy (Hanja term)
+놈	놈	Fellow; guy (Derogatory term)
+實狀	실상	Actual situation; reality (Hanja term)
+그러치 아니한	그렇지 아니한	Not being so; incorrect (Older spelling/phrasing)
+첫재	첫째	Firstly; the first (Older spelling)
+깨털여도	깨뜨려도	Even if smashed; even if broken (Older spelling/form of 깨뜨리다)
+거위된	거짓된	False; deceitful (Likely a typo or older form for 거짓된)
+慕華者	모화자	Sinophile; admirer of Chinese culture (Hanja term)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제1호
+발행일	1920년 06월 25일
+기사제목	平濟塔은 어떠한 것인가
+기사형태	잡저
+
+平濟塔은 어떠한 것인가
+누구던지 扶餘에 가는 이는 扶餘八景을 구경하며 八景의 가운대에 더욱 平濟塔을 아끼어 기리더라. 그러나 平濟塔에 當한 記事는 잘 모르나니 곳 平濟塔은 唐나라가 朝鮮族의 蹂躪을 바다 언제던지 저의 羞恥를 萬一이라도 씻으려 할새 畵宵坐臥에 어찌하면 朝鮮의 地境에 저의 발ㅅ길을 들여놋나하다가 句麗, 百濟의 迫逐을 못이기는 新羅가 窮狗의 생각으로 同族의 觀念은 專滅하고 目前의 憤만 雪하면 그만이라는 옥셈으로 唐을 暗通하야 麗濟를 同伐하야 利益을 共享하자는 條件으로 唐隣을 끌어 들엿더라. 다른 말은 且置하고 藝術의 눈이란 족음도 업는 唐人의 눈에 義慈王의 父王인 武王의 時에 創建한 興王寺의 前場에 建置한 五層塔에 不完全한 저의 文字로라도 저의 事行을 족음 적고 십흔 생각이 불현듯이 나서 平濟後 25日 곳 8月15日에 權懷素의 書로 大唐平百濟國碑銘이라고 저의 歷史以後 創有의 文字를 적엇더라. 한 然後에는 平濟塔이란 唐나라 놈의 손으로 된 것인줄도 다 알지마는 實狀은 그러치 아니한 것이 잇나니 첫재는 그곳이 興王寺터임이요, 둘재는 塔 뒤 法堂에 잇던 石佛이 그저 잇슴이요, 셋재는 記蹟하는 文字를 碑에 적는데 이것이 오즉 塔에 임이요, 넷재는 平濟塔은 百濟人의 自己네의 祖上의 손으로 된것이요 蘇定方의 亞將이던 劉仁願의 碑는 國亡後의 羞恥의 것이매 劉碑는 깨털여도 塔은 오즉 保存함이요, 다섯재는 年月의 틀림이니 戰爭의 뒤에 그만한 巨物을 저의 손으로 할 수 업슬 뿐아니라 亡濟人이 하야줄리도 업는 것이요, 여섯재는 平濟塔碑文中에 「貝殿浮空, 疎鍾夜鏗, 淸梵晨通, 刋龜囗囗, 用紀殊功」이라 한 것을 보아 알지라. 이 六個의 証明을 가지면 아모리 漢人이 거위된 慕華者라도 그 그러치 아님을 알지니라＜138＞

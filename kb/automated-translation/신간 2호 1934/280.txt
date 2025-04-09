@@ -1,0 +1,94 @@
+**Header Section**
+Magazine Title: 개벽 신간 제2호
+Publication Date: 1934년 12월 01일
+Article Title: 우편물과 貨幣의 恐怖症 (Phobia of Mail and Currency)
+Author: XYZ
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation**
+Phobia of Mail and Currency
+						XYZ
+
+It is said that the countries most developed in public hygiene are the United States (米國) and Germany (獨逸). Among them, the United States' public hygiene has an unusually new trend. For example, research delves into questions like: what effect do red "dresses," "grey" "dresses," and black "dresses" have on the body? Or the relationship between streetlights (街燈), light rays (光線), decorative lights (飾光), and automobile accidents (自動車 事故)? Or how much bacteria in milk multiply (殖) each hour? From things like these to "pavements" and noise, and also noise and digestive function – research into all these things seems to have the characteristic of being one step more oriented towards the masses.
+
+Director "Phon" (『폰-』국장) of the U.S. Public Health Service (米國公衆衛生局) is a famous figure who, for a long time at the "Dockefeller?" (『독페라-』) Research Institute, authored works on the public hygiene of the five senses (五官) – namely, the ears (耳), nose (鼻), eyes (眼), and mouth (口). As soon as he entered the Public Health Service, he devised (案出) one difficult hygiene problem (衛生問題) and ordered (命) all bureau members (局員 一同) to conduct research and investigation (硏究調査) into it.
+
+This difficult problem (難問題) discussed how necessary mail and currency (貨幣) are in our daily lives (日常生活), and at the same time (同時), how many diseases (病) are spread (傳播) because of them (因). Therefore, to prevent (防止) or eliminate (除去) this lack of hygiene (非衛生), it was necessary to create various records (種種의 記錄) of the causes (原因), and they were made to investigate this area (方面) in as much detail (細) as possible (可能). As a result (結果), the following record (紀錄) was obtained.
+
+1.  Among postal workers (郵便局員), insurance bureau (保險局) staff, and those in other various government offices (其他 各官廳) who handle 30 to 100 pieces of mail (郵便物) per person (一人), about 0.5 percent are said to be suffering from lung (肺) disease. Among those who handle 100 to 150 pieces, about 1 percent are said to be tuberculosis patients (肺病患者).
+The total number of postal workers (郵便局員 全員) in the entire United States (全米國) alone is 78,000, of which 15,000 work in mail handling (郵便物取扱係). It was revealed that about 3 percent of them suffer from lung disease. Their age (年齡) is generally (大槪) 20, and among the young people under 30, as many as 7 percent suffer (苦生) from this tuberculosis bacterium (結核菌).
+
+2.  We sometimes hear (듯는 소리) that currency is also unhygienic, but among them, silver coins (銀貨) and copper coins (銅貨) are not as bad compared (比較) to paper money (紙幣). This is said to be because metal (金屬) has sterilizing power (殺菌力). Indeed (實際), according to experiments (實驗) by the Public Health Service, even if coins and paper money are issued identically (發行), the degree of contamination (汚染程度) of coins is only (밧게 안된다) one-third (三分一) compared to the contamination level of paper money. However, among these,<88> the highest level of contamination is about 350,000 bacteria (細菌) per square * (一平方*), and paper money is said to have well over three to four times (三*四倍) that amount. The types (種類) of bacteria attached (付着) to these coins and paper money are mostly cocci (球菌), with bacilli being relatively few (少).
+Thus, tremendous effort (非常한 苦心) has been made to remove the problematic tuberculosis bacteria from this paper money and coins, but success has not yet (아즉까지) been achieved. Because of this, seeing that 0.5 percent of bank tellers (銀行員), who constantly (常時) handle money (金錢), develop lung disease (肺患者) each year (每年), it seems to be a fact (事實인 모양) that it is certainly (確實히) transmitted (傳染) from this. The above is a recent report (最近 報告) from the United States.
+
+In Germany (獨逸), during the Great European War (歐羅巴 大戰 當時), "Gasphran?" (『가스프란』) and *** disease (***병) were extremely prevalent (非常히 流行), causing considerable difficulty (困難) at one time (一時). "Gasphran" is also called ** disease (일명 **병), a type of ** disease (**병에 한 것), where germs (病菌) enter through **, causing the body (몸둥이) to swell up like a balloon (風船) and leading to death (死亡).
+However, this was determined (判明) to be transmitted (傳染) through mail (郵便物) sent back and forth (往復) from the battlefield (戰場), and for a time (一時), a disinfection bureau (消毒局) was even established (생겻다). Thus, recently in the United States, under the banner of disseminating nutritional knowledge (營養知識의 普及), they are using nutritional glue (營養풀) instead of "Seontong" glue (善通풀 - possibly 'good communication glue') on the back of postage stamps (郵便切手 後背), researching a method where it causes no harm (何런 弊害 업시) even if licked, but rather can be nutritious (營養이 될 수 잇는), earning great acclaim (大評判). In Germany, however, they are said to be researching (硏究 中이라 한다) a glue that can disinfect (消毒) by itself (제절로) when licked. <89>
+<88-89>
+
+**Summary**
+
+This 1934 article discusses the perceived dangers of disease transmission, particularly tuberculosis, through everyday handling of mail and currency, citing contemporary public health concerns and research primarily from the United States and Germany. It highlights US studies quantifying the risk for postal workers and bank tellers, noting the higher bacterial load on paper money compared to coins due to metal's sterilizing properties. The article also mentions German experiences during World War I with diseases (including a censored one likely related to gas gangrene) spreading via mail, leading to disinfection efforts. Finally, it contrasts recent US innovations in using nutritional glue for postage stamps with ongoing German research into self-disinfecting stamp glue. From a historical perspective, the article reveals the penetration of Western public health discourse and scientific anxieties into colonial Korea. It reflects a fascination with modern scientific methods applied to daily life and a significant concern about tuberculosis, a major health issue at the time, while also potentially hinting at comparisons between Western advancements and the situation under Japanese rule through its focus on US and German examples. The mention of censored wartime diseases adds another layer of interest regarding information control or sensitivity.
+
+**Named Entities**
+
+米國	미국	Miguk
+獨逸	독일	Togil
+米國公衆衛生局	미국공중위생국	Miguk Kongjung Wisaengguk
+『폰-』국장	『폰-』국장	Director "Phon" (Transcription, specific person uncertain)
+『독페라-』연구소	『독페라-』연구소	"Dockefeller?" Research Institute (Transcription, likely Rockefeller Institute)
+歐羅巴	구라파/유럽	Europa
+
+**Glossary**
+
+우편물	우편물	Mail items
+貨幣	화폐	Currency, money
+恐怖症	공포증	Phobia
+如何	여하	How, what kind of (Hanja term)
+잇서	있어	To be, exist (Older spelling of 있어)
+어덧다	얻었다	Obtained, got (Older spelling of 얻었다)
+듯는	듣는	Hearing (Older spelling of 듣는)
+잇기	있기	Being, existing (Older spelling of 있기)
+밧게	밖에	Only; outside of (Older spelling of 밖에)
+만코	많고	Being many/much (Older spelling of 많고)
+아즉까지	아직까지	Until now, still (Older spelling of 아직까지)
+잇는 중	있는 중	In the middle of being/doing (Slightly older phrasing)
+업시	없이	Without (Older spelling of 없이)
+제절로	저절로	By itself, automatically (Older spelling/form of 저절로)
+公衆衛生	공중위생	Public hygiene/health
+細菌	세균	Bacteria, germ
+結核菌	결핵균	Tuberculosis bacterium
+非衛生	비위생	Lack of hygiene, unsanitary condition
+官廳	관청	Government office
+紙幣	지폐	Paper money
+汚染	오염	Contamination, pollution
+消毒	소독	Disinfection, sterilization
+切手	절수	Postage stamp (Likely borrowed Japanese term or older Korean term; 우표 is standard now)
+營養풀	영양풀	Nutritional glue
+善通풀	선통풀	"Seontong" glue (Possibly a brand name or descriptive term: 'Good Communication Glue')
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제2호
+발행일	1934년 12월 01일
+기사제목	우편물과 貨幣의 恐怖症
+필자	XYZ
+기사형태	논설
+
+우편물과 貨幣의 恐怖症
+						XYZ
+세계에서 공중위생으로 가장 발달된 나라는 米國과 獨逸이라고 한다. 그 중에도 米國은 공중위생은 비상히 새로운 경향을 가진 것으로 예를 들면 적색『도레스』와 『그리-』『도레스』와 검은 『도레스』가 신체에 如何한 영향을 주는가?라든지 街燈과 광선과 飾광과 자동차 사고라든지 우유속에 세균이 한시간마다 얼마큼씩이나 붓(殖)는 다든지-이런 것으로부터 『페-브멘트』와 소음이라든지 또 소음과 소화기능이라든지 이-모든 것의 연구가 한 층 더 대중적인데 특색이 잇서 보인다.
+米國公衆衛生局의 『폰-』국장은 오래동안 『독페라-』연구소에서 五官-즉 耳·鼻·眼·口 등의 공중위생학을 저술한 유명한 인물로 공중위생국에 들어가든마다 그는 한 가지 어려운 위생문제를 案出해 가지고 국원 일동에게 이에 대한 연구조사를 命하엿다.
+이 난문제라고 하는 것은 우편물과 화폐가 우리를 일상생활에 잇서 如何히 필요한 것이라는 것과 동시에 이것으로 인하야 如何히 만흔 병이 전파되고 잇다는 것을 論한 것이다.
+그래서 此等의 비위생을 방지 又는 제거하기 위해서는 그 원인이 되는 種種의 記錄을 작성하지 안으면 안되다는 것으로 될 수 잇는 한에서 細하게 이 방면을 조사해 오게 하엿다. 그리하야 그 결과로 다음과 가튼 紀錄을 어덧다.
+
+1. 郵便局員 及 保險局 기타 各관청에 잇서 우편물을 한 사람이 30통이상 百通까지 취급하는 사람은 그의 약 0.5『퍼-센트』가 폐를 알코 잇다 하며 100통 이상 50통까지 취급하는 사람은 그의 약 1『퍼-센트』가 폐병환자라 한다.
+우편국원의 전원은 全米國에만 78,000인으로 그 중 15,000인이 우편물취급계의 일을 보는데 그의 약 3『퍼-센트』가 폐를 알는 것이 들어낫스면 연령은 대개 20세로 30세 이하의 젊은이로 7『퍼-센트』나 이 결핵균으로 고생을 한다는 것이다.
+
+2. 화폐의 비위생물인 것도 각금 우리가 듯는 소리지만 그 중 銀貨 銅貨는 지폐에 비하면 그닥지 심한 편은 아니다. 이것은 금속이 살균력을 가지고 잇기 때문이라 한다. 실제로 공중위생국의 실험에 의하면 화폐와 지폐를 똑갓치 발행하엿드라도 화폐의 오염정도는 지폐의 오염정도에 비하야 三分一밧게 안된다 한다. 그러나 그 중에도＜88＞ 가장 오염 정도가 높은 것은 一平方*에 약 35만의 세균이 잇고 지폐는 그의 약 三*四배가 훨신 넘는다고 한다. 그리고 이 화폐와 지폐에 부착하여 잇는 세균의 종류는 球菌이 만코 球菌은 비교적 적은 것이다.
+그리하야 이 지폐와 화폐에서 문제의 결핵균을 제거하려고 비상한 고심을 하엿스나 아즉까지 성공치 못하고 잇는 중 이 때문에 항상 돈을 취급하는 은행원은 매년 0.5퍼-센트의 폐환자가 생기는 것으로 보아 이는 확실히 이것에서 전염되는 것이 사실인 모양이다. 이상은 米國의 최근 보고이다.
+
+獨逸에서는 歐羅巴 大戰 당시 『가스프란』과 ***병이 비상히 유행해서 한 때는 여간 곤난치 안엇다 한다. 『가스프란」이란 일명 **병이라고 하며 **병에 한 것으로 **로 병균이 들어가서 몸둥이가 풍선처럼 부프러 올라서 죽는 병이다.
+그런데 이것은 전장에서 왕복되는 우편물에서 전염되는 것으로 판명되야 일시는 소독국까지 생겻다. 그리하야 최근 米國에서는 영양지식의 보급이라 하고 郵便切手 뒷등에 善通풀을 쓰지 안코 영양풀을 사용하야 입에 대여도 아모런 페해가 업시 도리혀 영양이 될 수 잇는 방법을 연구해내서 大評判이지만 獨逸에서는 입에 대여서 제절로 消毒이 될 수 잇는 풀을 연구 중이라 한다. ＜89＞
+＜88-89＞

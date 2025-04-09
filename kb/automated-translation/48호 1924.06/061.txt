@@ -1,0 +1,60 @@
+Magazine Title: 개벽 제48호
+Publication Date: 1924년 06월 01일
+Article Title: 京城 開川 石築의 始 (The Beginning of the Stone Embankment Construction for Kyŏngsŏng's Kaech'ŏn)
+Author: Not specified
+Article Type: 논설 (Editorial/Article)
+
+The Beginning of the Stone Embankment Construction for Kyŏngsŏng's Kaech'ŏn
+
+For over 300 years after the capital was established, Kyŏngsŏng's Kaech'ŏn (開川) had not been dredged (濬川). Consequently, every year during the time of heavy rains (潦霖), floods would overflow (汎濫), and the people within the capital area (道內 人民) could not avoid unexpected hardship (不虞의 患). In the 3rd month of the Kyŏngjin (庚辰) year, the 39th year of King Yŏngjo's reign [1760], the work of dredging the stream was begun for the first time, and it was completed in the 4th month of the same year. However, as there were no stone embankments (石築) on either side, and only willows (柳) had been planted (種하얏슴으로), they collapsed (崩潰) every year, and repairing this (修補하기에) incurred considerable national expenditure (國費가 不少). In the Kyesa (癸巳) year, the 52nd year of King Yŏngjo's reign (152 years ago from now [as of 1924, thus 1773]), Commander (守禦使) Mr. Yi Kyŏngu (李景祐), a man from Yongin (龍仁人), reported to the throne (上奏) proposing that the various military divisions (諸軍門) be assigned sections to build stone embankments. This was the very beginning (嚆矢) of the stone embankment construction for Kyŏngsŏng's Kaech'ŏn. <55>
+
+**Summary**
+
+This article recounts the history of managing the Kaech'ŏn (Cheonggyecheon) stream in Kyŏngsŏng (Seoul) during the Joseon Dynasty. It notes that despite centuries of neglect leading to annual flooding, King Yŏngjo initiated dredging in 1760. However, the initial planting of willows proved insufficient, leading to costly repairs. The true beginning of durable stone embankments came in 1773, proposed by Commander Yi Kyŏngu and executed by assigning sections to different military units. For historians of the colonial period, this article is interesting as it highlights significant pre-colonial Joseon-era public works and urban infrastructure projects within Seoul. It implicitly counters narratives suggesting Korean incapacity or lack of modernization efforts before Japanese influence, showcasing indigenous solutions to urban problems like flood control.
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+開川	개천	Kaech'ŏn
+英祖	영조	King Yŏngjo
+李景祐	이경우	Yi Kyŏngu
+龍仁人	용인인	Person from Yongin
+
+**Glossary**
+
+開川	개천	Open Stream (refers to Cheonggyecheon in Seoul)
+石築	석축	Stone embankment/revetment
+設都	설도	Establishing the capital
+濬川	준천	Dredging a stream/river
+안이하야	아니하여	Not doing (older grammatical form)
+潦霖	요림/노림	Heavy rain, prolonged rain spell, monsoon rain
+汎濫	범람	Flooding, overflowing
+不虞	불우	Unexpected, unforeseen
+患	환	Hardship, disaster, calamity
+仝	동	Same (used as abbreviation for 同)
+완료하얏다	완료하였다	Completed (older spelling/conjugation)
+업고	없고	Without, lacking (older spelling)
+但히	단히	Only, merely (older form, now usually 다만 or 단지)
+種하얏슴으로	종하였으므로	Because (willows) were planted (older grammatical form/spelling)
+崩潰	붕괴	Collapse
+修補	수보	Repair, mend
+國費	국비	National expenditure
+不少	불소	Not few, considerable
+距今	거금	Ago from the present time
+守禦使	수어사	Commander of the Suŏch'ŏng (Joseon Capital Garrison Command)
+上奏	상주	To report to the throne, memorialize the king
+諸軍門	제군문	Various military camps/divisions (of the Joseon era)
+嚆矢	효시	Origin, the very beginning (lit. 'whistling arrow')
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제48호
+발행일	1924년 06월 01일
+기사제목	京城 開川 石築의 始
+기사형태	논설
+
+京城 開川 石築의 始
+京城의 開川은 設都 후 300여 년이 되도록 濬川을 안이하야 매년 潦霖의 時에는 홍수가 汎濫하야 道內 人民이 不虞의 患을 면치 못하던 바 英祖39년 庚辰3월에 비로소 濬川의 役을 始하야 仝4월에 완료하얏다. 그러나 좌우에 石築이 업고 但히 柳를 種하얏슴으로 매년 崩潰하야 此를 修補하기에 國費가 不少하더니 英祖52년 癸巳(距今152년 전)에 守禦使 李景祐 씨 龍仁人가 上奏하야 諸軍門으로 구역을 정하야 石築을 하니 此가 京城 開川 石築의 嚆矢다.＜55＞
+＜55＞

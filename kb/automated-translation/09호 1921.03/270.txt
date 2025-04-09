@@ -1,0 +1,53 @@
+Magazine Title: 개벽 제9호
+Publication Date: 1921년 03월 01일
+Article Title: 現行郵便表 (Current Postal Rates Table)
+Author: None specified
+Article Type: 소식 (News/Information)
+
+Current Postal Rates Table
+Current Postal Rates Table
+
+As the scale of our livelihoods grows, so does the amount of mail, thus we should also have common knowledge regarding postal matters. Even if one trusts the Postal Law, the postal handlers cannot be trusted. The number of undelivered mail items is countless, and even for mail that is delivered, there are cases where Third-Class Mail is handled as Fourth-Class (even in Kyŏngsŏng), and cases where Third-Class Mail is handled as Parcel Post (in various regions). When encountering such situations, we think we must also have common knowledge about postal matters.<131>
+
+**Summary**
+
+This short piece from 1921 argues that Koreans need to be knowledgeable about postal regulations because postal workers are unreliable. It cites instances of mail being lost or misclassified (resulting in incorrect charges) in both the capital (Kyŏngsŏng) and other regions. From a historical perspective, the article offers a glimpse into the everyday frustrations and distrust citizens felt towards the colonial-era postal service, highlighting perceived incompetence or potentially discriminatory practices within a basic state function.
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+地方各處	지방각처	Various regions/localities
+
+**Glossary**
+
+現行郵便表	현행우편표	Current postal rates table
+살림	살림	Livelihood, household affairs
+程度	정도	Degree, extent
+郵便物	우편물	Mail, postal matter
+常識	상식	Common sense, general knowledge
+잇서야	있어야	(Older spelling) Should exist, must have
+郵便法	우편법	Postal Law
+미들지언정	믿을지언정	(Older form/spelling) Even if one trusts
+郵便取扱者	우편취급자	Postal handler, postal worker
+미들 수 업다	믿을 수 없다	(Older spelling) Cannot trust
+配達	배달	Delivery
+數가 업고	수가 없고	(Older spelling) Innumerable, countless (lit. 'the number is non-existent')
+第3種 郵便物	제삼종 우편물	Third-class mail
+第4種	제사종	Fourth-class
+取扱	취급	Handling, treatment
+小包	소포	Parcel post
+境遇	경우	Situation, circumstance
+當하는	당하는	Encountering, facing
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제9호
+발행일	1921년 03월 01일
+기사제목	現行郵便表
+기사형태	소식
+
+現行郵便表
+現行郵便表
+우리의 살림이 늘어가는 程度만큼 郵便物도 만하지니까 郵便物에 對한 常識도 잇서야 할 것이다 郵便法은 미들지언정 郵便取扱者는 미들 수 업다 郵便物이 配達 안되는 것이 數가 업고 配達되는 郵便物일지라도 第3種 郵便物을 第4種으로 取扱한 일도 잇고 (京城에서도) 第3種郵便物을 小包로 取扱한 일도 잇다(地方各處) 이러한 境遇를 當하는 우리도 郵便物에 對한 常識이 잇서야 하겟다고 생각한다＜131＞

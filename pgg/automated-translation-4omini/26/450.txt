@@ -1,0 +1,314 @@
+잡지명	별건곤 제28호  
+발행일	1930년 05월 01일  
+기사제목	化學應用의 家庭副業 (Chemical Applications in Household Side Businesses)  
+필자	尹柱福  
+기사형태	논설 (Essay)  
+
+Chemical Applications in Household Side Businesses  
+Yun Ju-bok  
+
+When we think of the success of artificial manufacturing, it is not mere dream talk that we have nearly reached the line of completion of artificial humans.  
+
+Observing this, we must acknowledge that in order to survive in an era that celebrates modern cultural life, we can hardly manage without a general understanding of chemistry.  
+
+2. The History of Chemistry  
+To briefly discuss the history of chemistry, in ancient times, during the extremely primitive periods when human spiritual life was very rudimentary, the scope of knowledge was quite limited, and comparative study of objects was virtually impossible. People believed that the myriad of nature was the creation of gods, personifying natural phenomena, and as human intellect developed, they began to recognize themselves and elucidate the relationship between nature and themselves, leading to a desire to explain nature with their own reason. This became the root of scientific development.  
+
+Even around 4000 BC, while there were scientific explanations concerning physical phenomena that had been developed over the past 6000 years, research on chemical phenomena remained very rudimentary. The reason for this is that chemical phenomena, which are dynamic, are much more intricate and complex than static physical phenomena, making it incredibly difficult to organize these scientifically, and they also require rigorous experimentation.  
+
+The beginnings of chemistry developed out of the necessity for practical applications, particularly metallurgy, which blossomed around 30 BC in the time of Menes in Egypt with the invention of methods for mining copper, silver, and tin. Simultaneously in China, ancient mirrors were also produced around the same time.  
+
+Later, as philosophical ideas emerged, including the Four Elements Theory positing that all phenomena in nature are constituted by varying combinations of earth, water, fire, and air, alongside Plato’s idealism and Aristotle’s evolutionism, the notion surfaced that one could produce noble metals like gold from base metals like lead. This belief became widely popular in Egypt, spurring many scholars, especially after Alexander, into research that produced the well-known alchemy.  
+
+However, shortly thereafter, Rome declined due to various pressures including barbarian invasions, the spread of Christianity, the establishment of feudal systems, and the Crusades. Continuous battles among powerful popes and emperors, alongside frequent looting and massacres, resulted in not only the fall of the Roman Empire but also a devastating impact on the academic and artistic center of free cities that had birthed knowledge and technology, leading to the eclipse of past brilliant scholarly pursuits.  
+
+During this time, as the influence of Christianity prevailed, existing knowledge was severely rejected, and only those who believed that divine revelations encompassed life retained prominence, spurning the rational and mechanical worldviews of thinkers like Democritus and Epicurus.  
+
+The struggle between religion and scholarship became relentless; as religious power grew, so did the brutality of its suppressive actions. Not only were scholarly theories met with stiff resistance, but the hand of oppression extended to the precious repositories of knowledge; religious leaders, viewed as embodiments of love, perpetrated extreme actions reminiscent of the tyrannical Qin Shi Huang, dismissing even proponents of the spherical earth theory as heretics, replacing rational medical practices with prayer and asceticism alone as the means for healing.  
+
+By the time Christianity dominated spiritual life, not only had this created a climate where scholarship was drastically repressed, but the ruling power and material life were similarly antagonistic toward scholarship as barbarian tribes were only engaged in destruction and pillaging. The period from the 14th century onward marked a significant dark age for scholarship, creating an atmosphere of fear and inhibiting any hope for the advancement of chemistry.  
+
+However, from the late 14th century, a gradual dawn of enlightenment emerged. Copernicus (1543) purportedly challenged the previously held geocentric view of the vast universe and advocated for a heliocentric theory. Similarly, within the field of chemistry, Paracelsus (1541) heralded an era of renewal, declaring that the purpose of chemistry was not the production of gold from lead, but rather the true mission lay in the refinement of medicines. He introduced sublimation and distillation methods, greatly facilitating the research of his successors. Subsequently, prominent figures such as Helmont (1644) with his gas inventions, Crookes (1664) with the discovery of sulfuric and hydrochloric acids, Boyle (1695) with gas laws and analytical methods, and Lavoisier (1774) greatly progressed chemistry until today.  
+
+3. Foundations of Chemistry  
+As previously mentioned, chemistry is the study of changes in matter, which can generally be classified into two types: physical changes and chemical changes. A physical change refers to alterations in the form of a substance while its properties remain unchanged; for example, water freezing into ice and subsequently becoming vapor retains the essential characteristics of water regardless of its form. In contrast, a chemical change signifies a complete alteration in the properties of a substance, as seen when alcohol (酒) transforms into vinegar (酢) or wood combusts into ash.  
+
+Among chemical changes, there are four methods: combination, decomposition, displacement (substitution), and double decomposition. Combination occurs when A and B unite to form an entirely new substance, P, that is neither A nor B. Decomposition involves P breaking down into A and B. Displacement refers to A and B combining to interact with P and C, leading to the replacement of A or B, whereas double decomposition entails A and B reacting with Q and C and subsequently forming new combinations, A and C, and B and D.  
+
+The subjects of these changes are elements, and despite the diversity of forms and properties present in the universe, fundamentally, they consist of merely about 80 elements, conjoined and separated. An element designates the most minimal form of a substance that retains its properties regardless of division. Two or more elements combined form a compound. For instance, hydrogen (水素) and oxygen (酸素) are elements, and when they combine, produce water (水), categorized as a compound. Conversely, mixing fine sand and sugar does not constitute a compound, as both retain their respective properties; hence, this is labeled a mixture.  
+
+In chemical changes, there are certain laws: the law of conservation of mass, the law of constant proportions, and the law of multiple proportions. The law of conservation of mass states that no matter the chemical change a substance undergoes, the total mass of the originating materials does not increase or decrease. For example, when a tree grows, while its mass may appear to increase significantly, this is merely the result of nutrients from the soil and air being assimilated.  
+
+The law of constant proportions insists that the ratio of the components in a compound remains fixed; for example, water comprises three parts hydrogen to sixteen parts oxygen, and this ratio holds true whether in a single drop or a thousand tons.  
+
+The law of multiple proportions states that when two elements combine, the amount of one element that combines with a fixed amount of the other will always be in simple whole number ratios; for instance, in the case of carbon and oxygen, they may form carbon monoxide and carbon dioxide, which have combining ratios of 12:16 and 12:32, indicating that for carbon, the proportions of oxygen are in ratios of 1 and 2.  
+
+4. Branches of Chemistry  
+Chemistry arose from humanity’s curiosity about natural phenomena, with initial forays into why certain changes occur and how to anticipate or expedite them. As the complexity of human life and needs evolved, this understanding transitioned from purely theoretical chemistry to applications of chemical science.  
+
+The realm of theoretical chemistry encompasses a broad engagement with chemistry but is intricately intertwined with physics, leading to the establishment of physical chemistry. Through the engagement of electrical activities, electrochemistry was organized, and as chemical changes were found to be very closely related to light, spectrochemistry took shape, emphasizing analysis of the composition of natural phenomena.  
+
+Initially, the field of applied chemistry was quite narrow, limited to ancient practices such as paper and ceramics production, but as human life grew increasingly complicated, an understanding of inorganic and organic chemistry emerged. The synthesis of organic compounds became impossible via natural means, yet the production of inorganic substances became fervently pursued, thus sharpening the focus on mineral chemistry and marine chemistry.  
+
+More recently, with breakthroughs in the synthesis of urea and protein, human capability in producing organic compounds has dramatically advanced, while simultaneously providing deep insights into natural products and enabling their synthesis. Furthermore, the agricultural sector has seen the emergence of agricultural chemistry, aimed at optimizing the utilization of crop products and increasing yield.  
+
+Today, the branches of chemistry have proliferated to such an extent that detailing all would be overwhelming, with specialized areas continuously diverging and deepening. Examples of industries that apply chemistry include glass, ceramics, cement, enamel, salt, soda ash, caustic soda, powdered bleach, pharmaceuticals, oil, hardened oils, chemicals, paints, pigments, laundering, petroleum, synthetic fibers, starch, sugar, brewing, sulfuric acid, synthetic fertilizers, coal, bone meal, tar, dye, ink, and rubber manufacturing, among many others. A straightforward discussion on the materials of daily products can elucidate some aspects.  
+
+Glass: sand, soda, water  
+Caustic Soda: salt, water, and lime  
+Soap: fat, coconut oil, caustic soda, flavoring, and water  
+Bleaching Powder: calcium hypochlorite, calcium sulfate, sodium bicarbonate, and water  
+Powdered Talc: cerussite, starch, talc, and zinc stearate  
+Tooth Powder: tamarind acid, lactose, diatomaceous earth, and various additional ingredients  
+Hair Perfume: Bayrum oil, various chemical compounds, and others  
+Others include secrets of ink formulations, shaving creams, and waterproofing methods among household and cosmetic products.  
+
+5. The Artificial Creation of Natural Products  
+Artificial creation! The advancement of chemistry has demonstrated that man’s artificial capabilities are limitless. How blasphemous this is to the omniscient God! All things in the universe have been created solely by God, thus human effort cannot compare. Therefore, we should place our hope in prayers and blessings. This notion is promoted by the adherents of religion.  
+
+However, some people believe that with the development of intellect, there is far more that humanity can influence through effort and struggle. A long historical standoff has existed between religion and science, each declaring victory at times. There have been periods of ceasefire and attempts at compromise, but lasting peace has yet to arrive. Recently, there has been a notable trend among some religious leaders towards compromise and handshake gestures.  
+
+Looking at the publishing trends of both Eastern and Western literature, it is apparent that many sophisticated theologians promote amicable relationships between religion and science and even advocate for the scientific framing of religious belief. The advancements in science signify the development of artificial manufacturing. The belief that the myriad of nature is solely the work of God is currently challenged by the many instances of successful human-made products.  
+
+Examples of this include synthetic dyes produced from coal tar overtaking natural dyes, synthetic silk, synthetic tortoiseshell, synthetic jade, synthetic rubber, synthetic perfume, synthetic leather, synthetic oil, synthetic wine, synthetic stones, synthetic gems, synthetic wool, synthetic ivory, synthetic honey, and synthetic camphor. This progress has made human ingenuity evident to the point where even the pursuit of creating life itself has become a reality.  
+
+6. A Few Simple Chemical Techniques  
+At the request of the editor, I will introduce some methods for producing simple household items. However, these are meant to highlight easily achievable recipes at home, albeit their appearance may not match that of commercial products, yet the quality may indeed exceed.  
+
+Of course, there may be one or two failures, but failure is a valuable experience, and through repeated trials, satisfactory products can be achieved.  
+
+1. Non-leaking Cosmetics  
+Cosmetic ingredients: 0.2 g  
+Carbonate: 2.3 g  
+Copper serine: 10.0 g  
+Alcohol: 11.0 g  
+
+2. Milky White Facial Lotion  
+Boric acid: 7.0 g  
+Casein: 5.5 g  
+Copper serine: 13.0 g  
+Alcohol: 4.3 g  
+Fragrance: 0.2 g  
+
+3. Non-theatrical White Powder  
+Zinc white: 2.0 g  
+Carmine: 13.0 g  
+Coconut oil: 5.0 g  
+Alcohol: 4.9 g  
+Fragrance: 0.1 g  
+
+4. Dead Skin Extract Powder  
+Ammonium chloride: 1.0 g  
+Copper serine: 4.0 g  
+Alcohol: 10.0 g  
+Rose water: 84.5 g  
+Amber liquid: 0.5 g  
+
+5. Powder  
+Zinc white: 55.0 g  
+Starch: 15.0 g  
+Talc: 27.0 g  
+Zinc stearate: 3.0 g  
+
+6. Tooth Powder  
+Tartaric acid: 30.0 g  
+Lactose: 30.0 g  
+Diatomaceous earth: 39.0 g  
+Cinnamon oil: 0.02 g  
+Charcoal oil: 0.28 g  
+
+7. Hair Perfume Bayrum  
+Bay oil: 0.15 g  
+Charcoal oil: 0.05 g  
+Alcohol: 60.0 g  
+Coconut oil: 10.0 g  
+Water: 30.0 g  
+
+8. Hair Conditioning Perfume  
+Quinine hydrochloride: 0.3 g  
+Pyrrolidine hydrochloride: 0.1 g  
+Copper serine: 2.0 g  
+Rose water: 77.6 g  
+Lavender water: 20.0 g  
+
+9. Pomade (direct product)  
+Beeswax: 86.0 g  
+Wood wax: 10.0 g  
+Fragrance: a small amount  
+Vanillin: 1.0 g  
+
+10. Copper Polish (cream)  
+Liquid paraffin: 56.5 g  
+Beeswax: 17.2 g  
+Nystatin: 5.0 g  
+Boric acid: 0.8 g  
+Water: 20.0 g  
+Rose oil: 0.2 g  
+Benzoin: 0.4 g  
+
+11. Method to Silver Plate Copper Utensils  
+Dissolve 40 g of quartz, 14 g of tartaric acid in water and add 50 g of hydrochloric acid, 125 g of tin powder, and 30 g of antimonium powder. Dip the copper utensils for thirty minutes.  
+
+12. Method to Turn Silver Yellow  
+Dissolve 0.3 g of barium sulfide in 150 ml of water, and when soaking silver utensils, they initially appear bluish-white, gradually turning golden yellow.  
+
+13. Ink (Blue-black)  
+Soak 1 dose of gallnuts in 2.5 liters of boiling water for a day, then add 5.5 oz of ferrous sulfide and 3 oz of gum arabic followed by a few drops of creosote.  
+
+14. Invisible Ink  
+Dissolve an equal amount of ammonium chloride and copper sulfate in water and write with it; after drying, it appears invisible, but upon exposure to heat, it becomes visible.  
+
+15. Hair Removal Cream  
+Mix sulfide with water and apply to remove hair.  
+
+16. Shoe Polish (Black)  
+Melt and mix 45 parts stearic acid and 15 parts beeswax, then add 100 parts powder from burnt silkworms, 30 parts gallnut, 15 parts ferrous sulfate, and 20 parts copper serine. Stir and let it simmer over low heat for about an hour before cooling into a solid shoe polish.  
+
+ 
+
+**Summary**  
+
+This article discusses the history and developments in chemistry, emphasizing its applications in modern life and household products. It narrates the evolution of chemical understanding from ancient times through the dark ages of scholarship to significant breakthroughs in the field, reflecting on the growing complexity and utility of chemistry in daily human affairs. The mention of synthetic products underscores the tension between religion and science, evidencing the clash of spiritual beliefs with emerging scientific discoveries. For historians, this article provides insight into the era's mindset reflecting the struggles of knowledge dissemination in colonial Korea and how technological advancements presented new avenues against prevailing religious doctrines.  
+
+**Named Entities**  
+
+Egypt	태국	 Egypt  
+Plato	플라톤	Plato  
+Aristotle	아리스토텔레스	Aristotle  
+Democritus	데모크리토스	Democritus  
+Epicurus	에피쿠로스	Epicurus  
+Copernicus	코페르니쿠스	Copernicus  
+Paracelsus	파라켈수스	Paracelsus  
+Helmont	헬몬드	Helmont  
+Crookes	크로벨스	Crookes  
+Lavoisier	라부아지에	Lavoisier  
+
+**Glossary**  
+
+化學	화학	Chemistry  
+應用	응용	Application  
+家庭	가정	Household  
+副業	부업	Side business  
+自然界	자연계	Nature  
+元素	원소	Element  
+化合物	화합물	Compound  
+混合物	혼합물	Mixture  
+質量不變律	질량불변율	Law of conservation of mass  
+定比例律	정비례율	Law of constant proportions  
+倍數比例律	배수비례율	Law of multiple proportions  
+製造	제조	Manufacture  
+成功	성공	Success  
+秘訣	비결	Secret technique  
+
+
+---------------------------
+
+
+잡지명	별건곤 제28호
+발행일	1930년 05월 01일
+기사제목	化學應用의 家庭副業
+필자	尹柱福
+기사형태	논설
+
+化學應用의 家庭副業
+						尹柱福
+(160면 원본 낙장 - 국편)
+
+人工的 製造成功 등을 連想할 때에 이제는 人造人間의 竣成線에 육박한 것도 결코 夢想論者의 妄說이라 할 수 업슬 것이다.
+이와가치 관찰할진대 現代 文化生活을 謳歌하는 우리는 化學 전반의 일반적 상식을 갓지 못하고는 도저히 文明人과 伍列하야 生存競爭을 감당치 못할 것이다.
+
+2. 化學의 歷史
+이제 化學의 歷史를 간단히 말할진대 古代에 잇서서 인간의 精神生活이 극히 유치한 原始時代에 잇서서는 그 知識의 範圍는 매우 單純하야 사물의 比較 攻究는 도저히 불가능하엿스며 오직 大自然의 萬家을 人格化하야 이것을 神의 造化로 妄信하엿스나 점차 人智가 발달되자 自我를 인식하게 되며 自然과 自己와의 관계를 밝히며 自己의 理性으로써 自然을 설명하고자 하는 慾望이 勃起되자 이것이 科學 대두의 근원을 이루게 되여 紀元前 4천년경에 잇서서도 自然界에 이러난 바 物理的 現象에 대하야는 6천년을 經過한 今日에 잇서서도 오히려 놀낼만한 정도까지 과학적 설명이 충분히 발달되엿스나 화학적 現象에 대한 연구는 매우 유치하엿스니 그 원인은 靜的 現象인 物理的 現象보다도 動的인 化學的 現象은 오히려 緻密複雜하야 이것을 學術的으로 조직하기는 至難한 일이며 또한 確乎不拔한 實驗을 要求하는 까닭에 잇섯슬 것도 능히 想像된다.
+化學의 始初는 그 實用上 필요한 關係로 鑛物冶金術이 最初에 發達되엿스니 紀元前 30년頃에 埃及의 메네스 時代에 임의 銅 銀 錫등의 採鑛法과 冶金術이 발명되엿스며 中國에 잇서서도 거의 同時代에 古鏡이 製造되엿섯다. 其後 哲學者들의 四原素說 즉 自然界의 森羅萬象은 모도가 地 水 火 風의 四原素의 加減構成된 것이라는 관념과 푸라톤의 理想主義 아리스토텔레스의 進化主義等의 哲學思想이 결합하게 되면서부터 廉賤한 卑金屬인 鉛등으로 高貴한 金屬인 黃金을 製造할 수 잇다는 신념이 당시 埃及天下에 풍미되자 알렉싼더 이후에 허다한 學者들이 硏究에 몰두한 것이 유명한 鍊金術이엿다.
+그러나 未久에 羅馬는 老衰하고 겔만族의 南侵을 비릇하야 基督敎의 傳播 封建制度의 설립 아라비아人의 勃起 十字軍의 遠征등이 연속하여 이러나며 法王과 帝王의 싸움이 계속되고 掠奪과 殺伐이 不絶하야 羅馬帝國뿐 아니라 學術과 技藝의 産母인 自由 都市까지 荒廢하니 過去의 찬란하든 학예의 정화는 일조일석에 無理解하고 無智兇暴한 北夷人의 鐵靴에 蹂躪되고 人文의 존보는 무참히도 파양되는 동시에 이 廢瘧에는 基督의 敎意가 充溢되면서 在來의 學術은 極端으로 배척되고 오직 신의 계시가 인생을 빗취고 잇다고 信仰하는 그들에게는 데모크리트스 에피쿠로-스등의 理智的 機械的 世界觀은 餘地업시 唾棄되고 마럿다.
+宗敎와 學術의 鬪爭이 不絶하고 宗敎가 得勢하면 할수록＜161＞ 그 彈壓行動은 露骨化하야 단지 學術의 理論的 反駁뿐 아니라 그 魔手는 귀중한 寶庫에까지 밋치게 되여 愛의 權化일 宗敎家는 暴君 秦始皇의 亂行을 자행하야 심지어 지구의 球形論者까지 異端者視하야 배척되며 合理的 醫療術이 전폐된 대신에 祈禱와 禁慾이 오직 神怒를 풀 수 잇는 求癒之道가 되고 마럿다.
+精神生活의 지배자인 基督敎뿐 아니라 그때에 政權把握者이며 物質生活의 支配者인 케루만族도 또한 學術을 극도로 배척하고 다만 破壤와 掠奪로만 成事하엿스니 이후 14세기頃까지는 學術계의 일대 암흑시대이엿스며 恐怖時代라 하겟스니 化學인들 발달을 엇지 바랄 수 잇섯스리요.
+14세기말부터 점차 광명한 서광이 現出되여 코페닐스(1543)가 廣大無邊한 우주 문제에 관하야 在來의 天動說을 餘地업시 排擊하고 地動說을 주장하는 그 당시에 化學界에 잇서서는 파랏첼스(1541)가 過去의 誤謬와 狹見을 파양하고 一新紀元을 획립하엿스니 化學의 목적은 鉛으로 金을 제조함에 잇지 아니하고 藥品精製에 참된 使命이 잇다고 절규하야 昇華蒸溜 炭火등의 수단을 案出하야 후배의 연구에 다대한 편의를 주엇고 그 후 헬몬드(1644)의 瓦斯發明 크로벨(1664)의 硫酸 鹽酸製造發明 뽀일(1695)의 瓦斯法則確立과 分析法發明 메여(1679)의 酸素硏究등 화학계의 中興時代를 이루엇섯다.
+이어서 라보제(1774)의 燃燒說 카펜듸쉬(1781)의 水의 組成硏究 아부끄들로(一八一一)의 瓦斯法則 멘델레푸(1782)의 週期律 알렌뉴스(1887)의 電離說 큐리(一八九八)의 라듐 發見 에밀핏샤(1906)의 蛋白質 集成 성공등이 계속하여 발표되면서 化學은 今日까지 長足으로 進步되엿다.
+
+3.化學의 基礎
+化學은 物質의 變化를 연구하는 학문이라고 前述하엿거니와 대개 變化에는 二種이 잇스니 物質的 變化와 化學的 變化의 두가지라 물질적 변화라 함은 物質自體의 性質은 不變한 채로 오직 형태가 변한 것을 말함이니 물이 겨울에 어름이 되고 끄러서 水蒸氣가 된 것가흔 것은 물이나 어름이나 水蒸氣나 그 自體가 물의 성질을 변치 아니하고 다만 形狀만 혹은 固體 혹은 液體 혹은 氣體가 되엿슬 뿐이니 이러한 것을 物理的 變化라 하며 화학적 변화라 함은 物質의 性質이 전연히 변화됨을 이루나니 술(酒)이 초(醋)가 되거나 나무가 숫이 된 것가흔 것을 가르침이라.
+化學的 변화에는 그 변화하는 방법이 네가지 잇스니 化合分解 置換(代入) 複分解라 化合이라 함은 A와 B가 합하야 A도 아니요 B도 아닌 전연 다른 물질인 P로 변화한 것을 이름이요 分解라 함은 A와 B로써 化合된 P가 다시 A와 B로 난호인 것을 이름이며 置換이라 함은 A와 B가 化合퓀˜야 된 P와 C가 함게 작용하야 P중의 A나 혹은 B 代身에 C가 代入되고＜162＞ A나 혹은 B가 外部로 逐出된 것을 이름이며 複分解라 함은 A와 B가 化合한 P와 C와 D가 化合한 Q의 二物質이 다시 작용하야 A와 C B와 D가 서로 化合한 것을 말함이다.
+變化의 主體는 元素로 始作될지니 우주에 허다한 천태만상이 형상과 성질이 各殊各異하나 이것을 근본적으로 분석하여 볼진대 80여개에 불과하는 元素의 合同分離로 인하야 形成된 것이다.
+元素라 함은 어느 물질이나 세세히 粉碎하야 최후까지 성질을 변하지 아니한 極少의 形態를 이름이며 2개이상의 元素가 化合한 것을 化合物이라 한다.
+즉 水素와 酸素는 元素인데 이 元素인 水素와 酸素가 化合하면 물이 되나니 이 물을 화합물이라 한다. 그러나 假令 細砂와 雪糖을 석거 노앗다 하면 이것은 化合物이라 못할지니 그 理由는 細砂는 細砂대로 雪糖은 雪糖대로 何等의 性質의 變化를 이르키지 아니한 까닭이다. 이러한 것을 혼합물이라 칭한다.
+化學變化를 이르킴에는 일정한 법칙이 잇스니 質量不變律 正比例律 倍數比例律의 三則이 基本이라.
+質量不變律이라 함은 물질이 엇더한 화학변화를 이르킨다 할지라도 근원되는 물질의 질량의 總和에는 增減이 업슴을 이름이니 例하건대 樹木이 생장하면 樹木自體의 重量이 激增된 것은 사실이나 이 반면에 土壤中의 양분과 공기중에 양분이 섭취된 만큼 重量이 增加되엿슴에 불과하다.
+定比例律 化合物의 각 성분의 比는 一定不變함을 이름이니 예컨대 물은 水素三와 酸素一六의 重量比로 成立된 것임으로 한방울의 물이나 千石의 물이나 其成分 組成比는 二對一六의 比에 變함이 업다.
+倍數比例律은 二種의 元素가 화합하는 경우에는 甲元素의 일정량에 대한 乙元素의 化合量은 항상 간단한 整數比로 화합됨을 가르침이니 예컨대 炭素와 酸素가 화합할 경우에는 酸化炭素도 될 수 잇고 炭酸瓦斯도 될 수 잇스니 酸化炭素는 炭素와 酸素의 화합된 重量比가 12 :16이며 炭酸瓦斯는 12:32인 즉 이것의 比는 탄소12에 대하야 산소는 1과 2의 比이다.
+
+4. 化學의 分科
+化學은 우리 人間이 理智를 가지고 自然現象을 대할 때의 그 변화함에 호기심을 가지게 됨으로부터 처음에는 다소 원인을 알게 되자 장래의 변화를 예기하고 이것을 방어하랴고도 하여보고 이것을 촉진식히랴고도 노력하는 중에 학문이 인간생활의 점차 복잡하여지고 慾求의 進化됨을 따러 自己滿足을 엇는데 크게 要한 것을 깨닷게 되자 처음에는 純碎한 理論化學이엿든 것이 應用化學의 分科를 짓게 되엿다.
+理論化學 自體에 잇서„ 화학의 活動舞臺는 化學에만 한하지 아니하고 물리학과 크게 관계가 잇는 것을 알자 물리화학이＜163＞ 成立되엿고 電氣的 활동을 빌게 되여 電氣化學이 組織되고 化學變化가 光線과 非常히 密接한 關係가 잇는 것을 알 때에 分光化學이 成立되엿스며 森羅萬象의 組織을 分析하야 其組成을 討究하게 되니 分析化學이 발전되엿다.
+應用好學에 잇서도 처음에는 其分野가 狹小하야 上古에 잇서서는 紙類製造 食器製造등에 불과하엿스나 인간생활이 복잡하게 되자 無機化學과 有機化學을 난호게 되고 오직 有機物의 製造는 人工으로는 불가능하고 無機物의 製造에 열중하며 化學工業에 원료가 無機物에 限하엿든만큼 鑛物化學이 발달하엿고 海産化學이 발달되엿다.
+그후 尿素 合成 蛋白質 集成등의 성공으로 인하야 人力으로 不及視하든 有機物 製造에 突進하야 한편으로는 자연물을 분석하여 조성과 구조를 탐색한 후에는 이것을 모방하야 합성하랴는 합성화학이 성립되엿다.
+또 한편으로 農業分野에 침입하야 農産物의 利用及 增收를 획책하기 위하야 農藝化學의 分科가 생겻다.
+오늘에 잇서 化學의 分科는 일일히 들기에는 넘무나 다수로 난호여 잇서 각각 專門方面이 압흐로도 分岐되며 深奧하게 될 것이다.
+화학을 應用하는 工業의 種題를 들면 유리工業 陶磁器工業 세멘트工業 琺瑯鐵器工業 食鹽工業 曹達灰工業 苛性曹達(양재물) 及 晒粉工業 製藥工業 製油工業 硬化油工業 石*工業 塗料 及 顔料工業 漆工業 石油工業 석냥工業 팔푸工業 製紙工業 세투로이드工業 人造絹工業 澱粉工業 砂糖工業 釀造工業 硫酸工業 人造肥料工業 石炭工業 骸骨工業 타루工業 染料工業 잉크工業 乾溜工業 고무工業 樟腦工業 薄荷工業 香料工業 化粧品工業 液化工業 皮革工業 製鐵工業 貨幣工業 輕金屬工業 調味料工業 製菓工業 製乳工業 人造酒工業 淸凉飮料工業 寫眞工業 印刷工業 合金工業 카본工業 카바이드工業 電池工業 火藥工業 兵器工業등이로 헤일 수 업시 만흐며 이들에 대한 常識的 解說도 紙數의 關係로 용이한 일이 아니니 다음에 우리 생활에 가장 접촉이 만흔 물건의 製造原料나 몃가지 적기로 하자.
+유리 모래 소다 물깜
+양재물 소금 물 전긔 石灰
+비누 쇠기름 椰子油 양재물 香料와 물깜
+석냥 赤燐 鹽素酸加里 重크롬酸加里 二酸化만간 송진 황 硝子粉 아교
+洋紙 넉마 나무 냥재물 糊 亞硫酸
+세루로이드 넉마 양재물 混酸 樟腦 酒精
+人造絹 팔푸 넉마 양재물 二硫化炭素 硫酸 硫酸소다 그루코스 硫酸苦土
+사이다 雪糖水 重曹 枸櫞酸
+고무 고무진액 진흙 炭麻 炭酸石灰 황＜164＞
+
+5. 天然物의 人造
+人造! 화학의 발전은 드듸여 이 세상의 人工的 능력이 무한한 것을 聲名하게 되엿다. 이 얼마나 全知全能한 神을 冒瀆함인가. 天下萬物은 오직 神의 創造로 된 것이다. 고로 人力으로는 이것을 엇지 할 수 업다. 오직 神에게 祈禱하며 祝願함으로써만 우리의 소망을 달할 수 잇다. 이것은 宗敎家의 主唱이다.
+그러나 일부의 사람은 이것을 信仰하기에는 넘우나 理智가 발달되엿섯다. 그들은 아니다. 天下萬物은 오직 우리 人類의 努力과 奮鬪로 얼마든지 左右할 수 잇다고 絶叫하야 宗敎와 科學은 최후통첩과 선전포고를 한지가 임의 오래엿다. 그동안에는 或勝或敗하엿스며 休戰時代도 잇섯고 妥協講和時代도 잇섯다. 그러나 결코 平和時代는 오지 아니하엿다. 그러는 중에 과학의 捷報가 屢屢히 보도되는 근래에 잇서서는 宗敎家중에 타협과 악수를 提請하는 기분이 濃厚하여간다. 보라 東西 書籍發刊類目을 보면 가장 현명한 宗敎家들은 宗敎와 科學의 親睦을 主唱하며 심지어 宗敎의 科學化를 역설하기까지 되엿다. 과학의 捷報는 무엇인가. 人造術의 발달이다. 삼라만상과 우주만물은 神의 창조임으로 人工的製造는 불가능하다는 종교가의 信條를 여지업시 깨트렷다. 근래에 와서 얼마나 人造物이 簇生되엿는가.
+染料가 石炭타루에서 人造되여 天然産 染料를 凌駕하게 된 것을 비롯하야 人造絹 人造玳瑁 人造翡翠 人造고무 人造香料 人造石油 人造革 人造酒 人造石 人造寶石 人造羊毛 人造象牙 人造果蜜 人造尿素 人造樟腦 人造蜜華 人造角 人造漆등의 성공은 벌서 과거에 일이요 지금은 天下의 靈物이며 하나님의 자녀인 인간을 人造하기에 着手하엿스니 화학의 진보는 自然을 정복하엿스며 자연의 힘에 의지하지 아니하고는 創造되지 못한다든 것을 人工的으로 製造하게 되엿고 더구나 그 중에는 自然의 힘 造物主의 힘으로 창조된 것보다도 精巧하고 廉價한 물건을 人造하게 되어서 창조의 神으로 顔色을 불키게 되엿다.
+
+6. 簡單한 化學工藝 몃가지
+編輯者의 요구도 잇고하야 몃가지 간단한 일용품의 製法을 소개할까 한다. 그러나 이것은 家庭에서 容易히 될 수 잇는 것을 쓰랴하지만은 상점에서 판매하는 물품가치 外觀은 좃케되지 못할 것이나 其品質에 잇서서는 오히려 나흔 것이 될 것이다.
+물론 1,2차의 실패가 잇슬 줄 아나 실패는 귀중한 경험인 것을 깨닷고 數次 反覆하면 상당한 製品이 되리라.
+
+1. 살터지지 아니하는 化粧水
+化粧加里0.2 炭酸加里2.3 구리세린10.0 氷七4.0 酒精11.0
+
+2. 乳白色美顔水
+硼砂7.0 카세인5.5 구리세린13.0 氷七4.3 香料0.2
+
+3. 햇빗에 껄니지 안는 水白粉
+亞鉛華2.0 카라민13.0 오리쓰根丁幾5.0 구리세린5.0 水七4.9 香料0.1＜165＞
+
+4. 죽은께 뽑는 粉水
+鹽化암모늄1.0 구리세린4.0 酒精10.0 薔薇水84.5 암바리퀴드0.5
+
+5. 가루粉
+亞鉛華55.0 澱粉15.0 滑石27.0 스톄아린酸亞鉛3.0
+
+6. 齒磨粉
+重酒石酸加里30.0 乳糖30.0 硅藻土39.0 시네울0.02 丁字油0.7 가라에油0.28
+
+7. 頭髮香水베이럼
+베이油0.15 丁字油0.05 酒精60.0 기라이丁幾10.0 水30.0
+
+8. 養毛香水
+鹽酸키니네0.3 鹽酸피로칼핀0.1 구리세린2.0 薔薇水77.6 라벤더水20.0
+
+9. 포마-드(직구)
+皮麻子油86.0 木蠟10.0 香料少量 와니린1.0
+
+10. 구리무(크림)
+流動파라핀56.5 白蠟17.2 노라린5.0 硼砂0.8 水20.0 薔薇옷트0.2 벤쏘인0.4
+
+11. 鍮器를 銀色내이는 法
+砂器에 酒石英40 瓦吐酒石14 瓦을 水千瓦에 溶解한 후 鹽酸50 瓦錫粉125 瓦及 안치몬粉30 瓦을 加하야 끄린데다가 鍮器를 넛코 三十分 담그라.
+
+12. 銀器를 黃色내이는 法
+硫化바륨0.3을 水 150에 溶解한 후에 銀器를 담그면 처음에는 靑白色이 나다가 점차 黃金色으로 變함.
+
+13. 잉크(靑黑)
+粉末沒食子 一封度를 沸湯二升五合에 一晝夜 담근 後 걸는 물에 硫化鐵 5.5온쓰 아라비야 고무 3온쓰 크레오소-트 數滴을 加하라.
+
+14. 秘密잉크
+鹽化암모늄과 硫酸銅을 同量을 물에 溶解한 물로 글씨를 쓴 후 말니면 아모 것도 아니 뵈이나 불에 쪼이면 낫타난다.
+
+15. 脫毛藥
+硫化스토론을 물에 푸러서 발느면 脫毛된다.
+
+16. 구두약(黑色)
+스톄아린 45分과 蜜蠟 15分을 加熱溶解한 후 蠶蛹을 黑燒한 가루 100分 五倍子 30分 第一硫酸鐵 15分 구리세린 20分을 반죽한 후 서서히 불에 끄리기를 一時間쯤 하야 식히면 단단한 구두약이 된다.＜166＞
+＜160-166＞

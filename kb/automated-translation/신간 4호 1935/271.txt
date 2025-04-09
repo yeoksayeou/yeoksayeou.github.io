@@ -1,0 +1,73 @@
+**Header Section:**
+Magazine Title: 개벽 신간 제4호
+Publication Date: 1935년 03월 01일
+Article Title: 白色과 赤色艦隊 (White and Red Fleets)
+Author: Unknown
+Article Type: 소식 (News/Report)
+
+**Body Text Translation:**
+White and Red Fleets
+
+It is reported that Priboi (뿌리보이), who occupies a unique position in the Soviet literary world having published works based on "Tsushima" (對馬), "The Rout" (敗走), and the Battle of the Sea of Japan (日本海海戰), is again preparing to publish [missing text]. At this time, Priboi has published his motives for writing "Tsushima" in the Pravda (프라우다) newspaper, roughly as follows, showing that Soviet [sentiment] towards Japan is still far from ordinary. Quoting a certain news report (某■通信):
+
+"In my life, I could not remain silent as a seaman and as a writer during such an [intense] period. Before my very eyes, the [fleet] (浮■) of thirty-eight ships carrying 12,000 crew members, unprecedented in world history, was annihilated. With the October Revolution, my wandering life (■■浪生活) came to an end, and I entered this life as a writer.
+
+The artistic task of "Tsushima," so to speak, is to depict the [conditions] (■■ 모양) of the Baltic Fleet (빨틱 艦隊), which were entirely different from the life within the Red Fleet (赤色艦隊). Of course, I also have the [intention] (■■) to depict the Red Fleet, but even without me, there are plenty of people suitable for that task, and any Soviet writer (쏘비엣트 作家■) can understand the Red Fleet. However, the fleet life of the Tsarist era (帝政時代) is not so easily understood. The manuscript for the second edition of "Tsushima" was completed a few days ago and is currently being printed (印■中)."
+
+**Summary**
+
+This news report from 1935 discusses Soviet author Aleksey Novikov-Priboy, famous for his novel "Tsushima" about the Russo-Japanese War. It quotes Priboy (via Pravda) explaining his motivation: to document the disastrous Tsushima battle he witnessed as a sailor and contrast the inept Tsarist-era Baltic Fleet's conditions with the (implied superior) Soviet Red Fleet. Priboy notes that while others can write about the Red Fleet, understanding the Tsarist navy requires firsthand experience like his. He mentions a second edition of "Tsushima" is being printed. For Korean colonial history, this article is interesting as it appears in a Korean magazine ("Kaebyŏk"), reflecting Korean awareness of international affairs, particularly Soviet-Japanese tensions. It highlights the Soviet perspective on the Russo-Japanese War (a pivotal event influencing Korea's annexation) and subtly underscores the ongoing geopolitical friction between the USSR and Japan in the 1930s, a dynamic keenly observed in colonized Korea.
+
+**Named Entities**
+
+對馬	대마	Tsushima
+日本海海戰	일본해해전	Sea of Japan Naval Battle (Battle of Tsushima)
+蘇聯	소련	Ssoryŏn (Soviet Union)
+뿌리보이	뿌리보이	Ppuriboi (Aleksey Novikov-Priboy)
+日本	일본	Nihon (Japan)
+프라우다 紙	프라우다 지	P’ŭrauda chi (Pravda Newspaper)
+赤色艦隊	적색함대	Chŏksaek Hamdae (Red Fleet)
+빨틱 艦隊	빨틱 함대	Ppalt’ik Hamdae (Baltic Fleet)
+쏘비엣트	소비에트	Ssowiett’ŭ (Soviet)
+帝政時代	제정시대	Chejŏng Sidae (Tsarist Era)
+
+**Glossary**
+
+艦隊	함대	Fleet
+發表	발표	Publication, announcement
+占한	점한	Occupied, held (a position) (Older form of 점한)
+잇다고	있다고	It is said that there is/he is (Older spelling of 있다고)
+關하야	관하여	Regarding, concerning (Older form of 관하여)
+如히	여히	As, like (Older form of 여전히 or 같이)
+普通이 아닌	보통이 아닌	Not ordinary, extraordinary
+通信	통신	News report, communication
+沈黙할 수 없엇다	침묵할 수 없었다	Could not remain silent (Older spelling of 없었다)
+眼前에	안전에	Before one's eyes
+未曾有	미증유	Unprecedented
+兵員	병원	Military personnel, crew members
+壞滅하엿든 것이다	궤멸하였던 것이다	Was annihilated (Older spelling/form of 궤멸했던 것이다)
+革命	혁명	Revolution
+依하야	의하여	According to, due to (Older form of 의하여)
+描寫하는 것이다	묘사하는 것이다	Is to depict
+勿論	물론	Of course
+適當한	적당한	Suitable, appropriate
+얼마든지	얼마든지	Any number of, plenty
+帝政時代	제정시대	Tsarist era
+그러치는 못하다	그러지는 못하다	Is not like that, cannot be so (Older form of 그러지는 못하다)
+版	판	Edition
+數日前	수일전	A few days ago
+終畢	종필	To finish writing (a manuscript)
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	白色과 赤色艦隊
+기사형태	소식
+
+白色과 赤色艦隊
+『對馬』『敗走』와 日本海海戰에 取材한 作品을 發表하■ 蘇聯文壇에 特異한 地位를 占한 「뿌리보이」는 다시 ■■發表의 準備를 하고 잇다고 傳해지는데 이지음에 「뿌리보이」는 「對馬」의 創作動機에 關하야 大略 下와 如히 프라우다 紙上에 發表하야 依然이 日本에 對한 蘇聯의 ■■이 普通이 아닌 것을 보이고 잇다. 某■通信 그대로 적는다면
+『나의 一生에 잇서서 이와 같이 ■烈한 時期를 海■으로 또 文學者로서 沈黙할 수 없엇다 나의 眼前에 世界史上 未曾有의 一千二百人?의 兵員을 태운 三十八隻의 ■■의 浮■이 壞滅하엿든 것이다 十月革命에 依하야 나의 ■■浪生活은 끝을 막고 이 作家生活■ 드러오게 된 것이다
+「對馬」가 가지고 잇는 藝術的 任務라고 할 수 있는 것은 赤色艦隊의 艦內生活과는 全然 判異한 빨틱 艦隊의 ■■ 모양을 描寫하는 것이다. 勿論 赤色艦도 描寫하랴는 ■■도 가지고는 잇스나 이것은 내가 아니라도 그 任에 適當한 사람은 얼마든지 잇고 또 赤色艦隊는 쏘비엣트 作家■ 누구나 다 알 수가 잇스나 帝政時代의 艦隊生活은 그러치는 못하다. 「對馬」의 第二版은 數日前에 稿를 終畢 印■中이다.』

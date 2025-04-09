@@ -1,0 +1,89 @@
+잡지명	별건곤  
+발행일	1929년 04월 01일  
+기사제목	電氣文明의 一大驚異(科學講座 其一) - 電送寫眞의 解說 (A Great Wonder of Electric Civilization (Scientific Lecture Part 1) - Explanation of Electric Transmission Photographs)  
+필자	工學士 李栢圭  
+기사형태	논설 (Essay)  
+
+Electric transmission photography (電送寫眞) was first researched by the American "Bain" in 1842. At that time, it was only capable of roughly expressing characters since the modern rapid photography machine had not yet been invented. Following this, research by American "Beckwell" in 1847 and by fellow countryman "Armstrong" in 1893 occurred; however, at that time, these methods were so rudimentary compared to today that they could barely be considered part of the history of photograph transmission. Subsequently, methods from German "Golng" and French "Belang" emerged about a decade and several years ago, allowing for some practical application of this technology. However, these methods were fraught with many inadequacies and immaturities due to the production methods of the original photographs being sent or the qualities of the transmitted images. Recently, astonishing progress in physics has seen revolutionary advancements in this technology, resulting in unique methods being introduced from American "Bell Telephone Laboratories," and from German companies "Telefunken" and "Siemens" among others, within the last two to three years.
+
+When considering the fact that sending characters or paintings directly at high speeds to a distant location is undeniably a very difficult task, it is evident that the fundamental principles and various methodologies are complex; whether they involve electricity, chemistry, or photography, more practical applications have not been realized. However, there is one common aspect among the various principles of electric transmission photography, which is the transformation of the original image into electricity and light through segmentation. Therefore, it is necessary to synchronize the speeds of the sending and receiving images. Moreover, achieving perfect accuracy regarding this synchronization and transformation into electricity and light has proven elusive. Today, however, special inks are employed in methods such as the "Furton," "A.T.T." type systems, "Weston," "Electric" systems, and other older chemical "Belang" methods, allowing for more refined inventions.
+
+All of these methods utilize electrical and mechanical actions within the reception apparatus, thereby encountering considerable difficulties when attempting to quicken the sending speed, preventing complete processing of the original images. Thus, the German company "Siemens" or "Telefunken" devised a method for directly sending original images using reflected light, while simultaneously applying the optical and electrical reception methods by cleverly utilizing the invention of "Dr. Kardus," known as "Kerasel," to create a complete photo transmission device.
+
+Now, let me introduce a few modern electric transmission photography methods.
+
+(1) "NE Type" Electric Transmission Photography (日本電氣式 전송사진)  
+This system is a relatively simple and complete latest style of electric transmission photography. It involves placing the original photograph (픨님) and the receiving photograph (生 "픨님") on a cylinder that rotates at the same speed at both the transmission and reception points. The density of the transmitted photograph is converted into the size of the electric current at the transmission point, allowing for appropriate photographic exposure on the original photograph.
+
+This system consists of three parts: the transmitting device, the receiving device, and the synchronizing device. The transmitting device directs light onto the photograph to be sent, whereupon the light passing through it activates a photoelectric cell, generating current in a vacuum tube. The generated electricity varies according to the light passing through the photograph based on its density. The cylinder, wrapped with the photograph to be sent, is rotated steadily forward like an old-fashioned wax cylinder phonograph. By doing so, the entire area of the photograph is decomposed into fine lines, and the density of each line is converted into the strength of the transmitted current.
+
+At the receiving device, the current variation is transformed back into light density using a wire with a strong magnetic field and a minuscule mirror known as a vibrating element. When current flows, the vibrating element oscillates, and the extent of this oscillation corresponds proportionally to the magnitude of the current. By projecting light onto this mirror, the range of light reflected will vary due to the oscillation's scale. By placing an opaque screen or similar object in this light path, obstructing some parts of the light, and concentrating the remaining light onto the receiving photograph, it effectively means that when the oscillation is small, light is fully blocked by the screen, and so it cannot reach the receiving photograph. Conversely, as the oscillation increases, the volume of light surpasses a threshold, providing a strong exposure to the receiving photograph. This system's characteristic is the ability to alter the form of the screen and the light cutoff's contour, thus allowing adjustments to the photograph's contrast, as well as converting negative images into positive images and vice versa.
+
+The synchronizing device employs a small-sized synchronous motor with a constant rotation speed based on the frequency of the supplied current. A frequency of 100 creates alternating current from the sending point, causing the cylinder wrapped with the photograph to spin, simultaneously transmitting through the electric wire to rotate the cylinder at the receiving point. Here, direct current motors are directly connected to supply the majority of the power.
+
+The above describes the "NE Type" electric transmission photography system developed by Nippon Electric Company, which possesses distinctive points diverging from other transmission photography methods. It can be used for both wired and wireless transmissions. For the wired method, it can be used through aerial telegraph and telephone wires. For the wireless method, it can be utilized directly with wireless telephone devices, enabling remote photo transmissions and broadcasts. The transmission time for a "Cabinet plate" is approximately six minutes, but this can be shortened up to one-half or one-third merely by altering the machinery's design. Furthermore, written text and images can be sent directly on appropriate scraps of paper.
+
+(2) "Siemens, Carolus, Telefunken Type" Electric Transmission Photography  
+This electric transmission photography, also among the latest methods, is produced by the German company "Siemens". The transmitting apparatus transforms the reflections from the image complexities into electric current intensity according to their brightness. That is, wrapping the intended image onto a cylindrical apparatus rotating at a fixed speed, a specially designed annular photoelectric cell processes the image using a thin light beam. The reflections from the image induce the photoelectric cell, altering this into strong and weak electric currents based on the brightness. By traversing these thin light rays at a suitable speed, the image's surface generates a spiral pattern over time, altering the electric current according to the brightness levels alongside.
+
+In this technology, while each part's current can change simultaneously, processing all at once remains challenging, so the current varies from one end based on the intensity of individual segments in a sequential manner. Once the image is transformed electrified, this electricity may be sent to desired locations through the ether (aerial medium) or through nearby circuits connected via electric wires.  
+
+<110> <113>  
+
+**Summary**  
+
+This article explains the development and technical details of electric transmission photography, a revolutionary technology during the late 19th and early 20th centuries. It highlights the various methods developed to improve the transmission quality and speed of images, showcasing innovations primarily from American and German research. From the perspective of Korean colonial history, this article reflects early integration of cutting-edge technology in Korea and sheds light on the advancements and adaptations made under colonial rule. Historians may find it interesting as it illustrates how such developments were perceived and explained amidst the broader context of technological progress in Korea during the colonial period.  
+
+**Named Entities**  
+
+Bain		Bain  
+Beckwell		Beckwell  
+Armstrong		Armstrong  
+Golng		Golng  
+Belang		Belang  
+Kardus		Kardus  
+Kerasel		Kerasel  
+Nippon Electric Company		Nihon Denki Kabushiki Kaisha  
+Siemens		Siemens  
+Telefunken		Telefunken  
+
+**Glossary**  
+
+電送寫眞		전송사진		Electric transmission photography  
+光電池		광전지		Photoelectric cell  
+濃淡		농담		Density  
+反射鏡		반사경		Reflecting mirror  
+感光		감광		Sensitization  
+陰畵		음화		Negative image  
+陽畵		양화		Positive image  
+主動機		주동기		Driving machine  
+供給		공급		Supply  
+特殊한		특수한		Special
+
+
+---------------------------
+
+
+잡지명	별건곤 제20호
+발행일	1929년 04월 01일
+기사제목	電氣文明의 一大驚異(科學講座 其一) - 電送寫眞의 解說
+필자	工學士 李栢圭
+기사형태	논설
+
+電氣文明의 一大驚異(科學講座 其一) - 電送寫眞의 解說
+						工學士 李栢圭
+電送寫眞은 西曆 1842년에 미국인 「베인」으로부터 연구를 시작하엿스나 此時는 今日의 速取寫眞機가 발명되기 전임으로 다만 字形을 겨우 표현함에 불과하엿스며, 其後 1847년 미국인 「베꾸웰」 同 1893년 同國人「암스트롱」 등의 연구가 잇섯스나 現今에 비하야 너무나 유치하야 다못 사진전송의 역사라는 명목에 불과하며 其後 距今 십수년 전에 독일인 「고-릉」의 방식, 佛國人 「베-랑」의 방식 등이 現出하야 다소간 此 기술이 실용화하게 되엿다. 그러나 此等의 방식은 보내려는 사진 原版의 제작법 또는 전송한 사진의 성질 등에 의하야 多大의 不充不完과 未熟의 점이 막대하엿섯다. 그러나 최근의 물리학의 경이할 진보는 此 技術에도 혁명적 대진전을 보게 되여 지금으로 2,3년전에 미국에서는 「베루 電話硏究所」 독일에서는 「텔레흥겡」 또한 「씨-멘스」회사 등으로부터 연구의 결과로 各各 獨特의 방식을 발표하게 되엿다.
+대체 사람이 직접으로 쓴 字體 又는 畵體를 그대로 高速度에 의하야 遠隔地에 보낸다 함은 사실상 누구가 생각한다 하여도 難事의 難事임은 물론일 것이다. 其 연구원리인 기초방법은 種種이 有하야 혹은 전기, 화학, 또는 사진술 등에 의하나 此를 실제적으로 응용함에는 용이하게 목적을 달하지 못하엿다. 그러나 此 電送寫眞의 각종 원리 중 일치한 점은 보내려는 原畵를 전기로 변케하며 光으로 변케하기 위하야 분할하는 것이다. 그럼으로 보내려는 書畵의 속도와 상대편에서 此를 受하는 書畵의 속도를 동일히 함이 필요할지나. 그러나 此 속도를 동일케 하며 전기와 光으로 변케함에 대하야 목적한 바와 가티 완전 정확한 것을 어찌 못하엿섯다. 그러나 금일에 와서는 특수한 잉크를 발는 「후르톤」식 또는 寫眞的 所置와 如한 「에이. 틔-틔 式」 또는 「웨스탄, 엘넥트릭크 式」 또는 「日本電氣式」 기타 舊式으로 화학적인 「베랑式」과 如한 자가 발명되게<110>되엿다.
+此等 방법은 擧皆 全部 受信機에 就하야 전기적 기계적 작용을 사용하고 잇슴으로 보내려는 속도를 급속히 할 때에 막대한 곤란을 感함으로 原畵를 처리함에 완전한 방법이 못되엿섯다. 그럼으로 독일의 「씨엔쓰」 또는 「텔레흥켕」회사에서는 原畵를 그대로 보내기 위하야 反射光線을 이용하는 방법을 고안하며 一方으로  「카르두스 博士」의 발명인 「께루셀」이라는 현상을 교묘히 이용하야 광학적 전기적으로 受畵方法을 응용하야 완전한 전송사진기를 작성하게 되엿다.
+玆에 2, 3의 최신식 전송사진의 내용을 소개하면
+(1) 「엔. 이 式」전송사진(日本電氣式 전송사진)
+이 전송사진은 최신식 비교적 간단 완전한 방식인데 보내려는 原寫眞의 「픨님」과 밧으려는 生「픨님」을 각각 송신소와 수신소에 두고 廻轉하여 잇는 원통에 감은 다음에 이것을 동일한 속도로 회전케 하는 것이다. 그러케 하야 발송할 사진의 濃淡을 송신소에서 전류의 大小가 다시 光의 濃淡으로 박귀게 되여 「픨님」우에다 此에 상당한 感光을 식히는 것이다.
+이 방식에는 送信裝置 受信裝置 同期裝置 의 3부분으로 성립되여 잇다.
+「送信裝置」는 전송하려는 사진의 픨님에 光을 빗최게 하야 그 투과한 것을 光電池로 끄을면 光電池는 光을 受함에 전류를 발생하는 진공관과 갓흔 자로 그 발생한 전류가 밧는 光의 양에 비례하는 성질을 가지고 잇슴으로 사진 「픨님」의 光線 透過率이 「픨님」의 濃淡에 의하야 변하게 됨을 딸아서 光電池로부터 발생하는 전류도  「픨님」의 濃淡을 쪼차 변하는 것이다. 그래서 보내려는 사진 「픨님」을 원통에 감고 원통을 돌니면서 찬찬이 축의 방향으로 이전케 한다. 즉 舊式 蠟管蓄音機와 갓흔 것이다. 이러케 하면 사진의 全面은 細少한 선으로 분해되여 各 線의 濃淡이 光電池로 인하야 전류의 大小로 변하야 轉送하는 것이다.
+「受信裝置」 수신소에서는 전류의 대소를 光의 濃淡으로 변케하는데는 강한 磁場을 가진 전선에다 극히 적은 反射鏡 즉, 振動子를 쓰는 것이다. 전류가 흘너드어가면 진동자는 진동하나 그러나 이때의 진동의 大小는 전류의 大小의 比例함으로 이 反射鏡에다 光을 빗최게 하면 이로부터 반사되는 光의 운동의 범위는 진동의 대소를 딸아서 달을 것이다. 이 光의 통로에다 불투명한 병풍과 가튼 것을 노코 光의 일부분을 막은 다음에 그 남어지를 「렌쓰」로 집합케 하야 生「필님」에다 投하게 하면 진동이 小할 時는 光은 전부 병풍으로 인하야 막어지고 生「필님」에는 達치 못할 것이고 진동이 클 때에는 병풍에서 넘어오는 光의 양이 점점 커저서 「필님」우에 강한 感光을 줄 것이다. 이러케하야 전류의 大小를 재차 光의 양으로 변하게 하는 것이다. 이 장치가 이 「엔이式」의 특징이라 할 수 잇는 것이다. 즉 병풍과 가튼 자의 형상과 光의 절단면의 影體를 種種으로 변케함을 딸아서 사진의 對比(콘트라스트)를 조절할 수 잇겟고 또 陰畵를<111> 陽畵로  陽畵를 陰畵로 용이하게 밧을 수가 잇는 것이다.
+「同期裝置」 는 공급되는 전류의 주파수에 응한 一定不變한 회전속도를 가진 小型인 同期電動機를 사용하며 송신소로부터 주파수 100에 상당한 교류를 작성하야 송신소의 「필님」을 감은 원통을 회전함과 동시에 電線路를 통하야 전송하야 수신소의 원통을 회전케하는 것이다. 여기에는 직류의 전동기를 直結하야 대부분 동력을 공급한다.
+이상이 日本電氣株式會社製作 「엔이式」 전송사진기의 내용으로 달은 전송사진의 방식보도 相違된 독특한 점이 만타. 이것은 유선 무선 양편으로 쓸 수가 잇는데 유선으로는 架空의 電信電話線路, 전화케-블 등에 의하야 사용할 수 잇고, 무선으로는 그냥 그대로 무선전화장치에 이용하야 무선으로 사진을 전송할 수도 잇고 방송할 수도 잇는 것이다. 전송하는 시간은 「캬비네版」이 6분 가량 걸니는데 이것은 기계의 설계를 변케 하야 2분지 1 또는 3분지 1 이하 假令으로 단축할 수도 잇는 것이다. 이것은 書畵, 文字 등도 적당한 紙片에  써서 직접으로 전송할 수도 잇다.
+(2) 「씨-멘쓰, 카로르스, 텔레흥켄 式」 전송사진
+이 전송사진도 최신식의 독일 「씨-멘쓰, 은트함으스케 會社」의 제작으로 발신기 또는 송신기는 書畵의 濃淡에 응하야 이것을 전류의 강약으로 변하게 하는 기계이다. 즉 寸分遲速업시  일정 속도로 회전하는 圓筒上에 전송하려는 書畵를 감으면 其上을 특수한 방법으로 조직된 輪狀의 感光電池 중에<112> 투입하여 잇는 일종의 細少한 광선으로 照하야서 此 書畵의 濃淡에 의한 反射光線이 感光電池에 감응되여 强弱의 전류로 변하게 되는 것이다. 이때에 細少한 광선을 적당한 속도로 이동케하면 同筒上의 書畵는 螺旋을 그리는 것 가티 빗치면서 其 濃淡에 응한 전류로 변하게 된다. 물론 此는 照하여 잇는 광선의 反射로부터 직접으로 감광전지에 의하야 전기의 세력으로 변하는 것이다.
+此 변화는 극도의 速한 속도로 불규칙함이 업시 간단명확하게 계속되여 잇슴으로 적당히 설계함에 의하야 비상히 細少하며 강한 광선으로 圓筒上의 原畵 各部에 완전히 照하야 書畵 明暗 一切의 상황을 추호도 相違함 업시  전류의 강약으로 변케함을 得하는 것이다. 更言하면 此 전송사진으로 논하면 한 번에 原畵 各部分에 응한 전류는 변케하나 일시에 此를 처리함은 곤란함으로 일편으로부터 각부분의 전류로 변하야 차차로 순서잇게 처리하는 것이다. 연후에 書畵가 전류로 변하게 되면 전기의 응용으로 혹은 空中의 精氣(에-텔) 혹은 전선의 근방의 精氣 또는 전선에 의하야 자기의 想像 목적한 바의 遠處로 此 전기를 보낼 수 잇는 것이다. (끗)<113>
+<110-113>

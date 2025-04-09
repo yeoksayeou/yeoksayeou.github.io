@@ -1,0 +1,61 @@
+Magazine Title: 개벽 제26호
+Publication Date: 1922년 08월 01일
+Article Title: 가을 (Autumn)
+Author: 素月
+Article Type: 시 (Poem)
+
+Autumn
+						Sowŏl
+
+The long vines, frost-stricken with black thorns,
+Above the bent branches of the lacquer tree,
+Withered and stretching even to the gray honeycomb holes,
+The aching autumn has come more bitterly.
+
+Oh, sorrowful, imprinted heart of ours!
+Outwardly, beneath the feet of love's dream,
+Ah! At my beautiful red waterside,
+May only the new tide wash and surge forth. <26>
+
+**Summary**
+
+This poem by Sowŏl (Kim Sowol) depicts the arrival of a harsh, sorrowful autumn, symbolized by frostbitten, withered vines and bent branches. The speaker expresses a deep-seated sorrow ("imprinted heart") hidden beneath outward appearances ("beneath the feet of love's dream"). However, there's a final plea for renewal, hoping for a "new tide" to wash over the "beautiful red waterside," suggesting a desire for cleansing and a fresh start despite the bleakness. From a historical perspective, the poem, published in the influential magazine *Kaebyŏk* during the Japanese colonial period, resonates with the prevalent sense of national sorrow and suppressed longing. The imagery of a bitter autumn and the hidden pain could reflect the harsh realities of colonial life, while the faint hope for a "new tide" might hint at aspirations for liberation or change.
+
+**Named Entities**
+
+素月	소월	Sowŏl
+
+**Glossary**
+
+서리마즌	서리 맞은	Frost-stricken (older spelling/form of 맞은)
+꿉을어진	구부러진	Bent, crooked (older spelling/form)
+버더말라서	뻗어 말라서	Having stretched out and withered (older spelling/form)
+압히는	아픈	Aching, painful (likely older form or dialectal spelling of 아픈)
+더쓰리게	더 쓰리게	More painfully, more bitterly (older spelling/form of 쓰리다)
+왓서라	왔어라	Has come (older spelling/poetic form of 왔다)
+서러라	서러워라	Be sorrowful (older poetic/exclamatory form of 서럽다)
+거츠로	겉으로	Outwardly, on the surface (older spelling/form)
+발알에	발 아래에	Beneath the feet (possible older form or poetic rendering of 발 아래)
+시처가며	씻겨가며	Washing away (older spelling/form of 씻기며 or 씻겨 가며)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	가을
+필자	素月
+기사형태	시
+
+가을
+						素月
+검은가시의 서리마즌 긴 덩굴들은
+시닥나무의 꿉을어진 가지 우에,
+灰色인 蜜蜂의구멍에도 버더말라서
+압히는 가을은 더쓰리게 왓서라.
+
+서러라, 印눌린 우리의 가슴아!
+거츠로는 사랑의 꿈의 발알에
+아! 나의 아름다운 붉은 물가의,
+새롭은 밀물만 시처가며 밀려와라.＜26＞

@@ -1,0 +1,49 @@
+Magazine Title: 開闢 제51호
+Publication Date: 1924년 09월 01일
+Article Title: 謹告 (Announcement)
+Author: 開闢社
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Announcement
+
+Simultaneously with elevating the Kanggye Branch Office (江界分社), which is developing day by day, to the Kanggye Branch (江界支社), we have newly employed Mr. Pak Taeyong (朴大用) as a reporter for the aforementioned branch.
+
+Kaebyŏk Company <122>
+
+**Summary**
+
+This brief notice announces the administrative upgrade of the Kanggye office of the Kaebyok Company from a 'Branch Office' (分社 - Punsa) to a 'Branch' (支社 - Chisa), indicating growth or reorganization. Concurrently, it announces the hiring of Mr. Pak Taeyong as a reporter specifically for this upgraded Kanggye branch. From a historical perspective, this text shows the organizational expansion of a prominent Korean cultural and publishing entity (Kaebyok) into the provinces during the colonial period. The establishment of regional branches with dedicated reporters suggests an effort to broaden its network and potentially its news-gathering or distribution capabilities, reflecting the activities and development of Korean civil society institutions under Japanese rule.
+
+**Named Entities**
+
+江界分社	강계분사	Kanggye Branch Office
+江界支社	강계지사	Kanggye Branch
+朴大用	박대용	Pak Taeyong
+開闢社	개벽사	Kaebyŏk Company
+
+**Glossary**
+
+謹告	근고	Announcement (Formal notice)
+發展되여가는	발전되어 가는	Developing (Older spelling '되여')
+分社	분사	Branch Office (Implies a smaller scale or lower status than 支社)
+支社	지사	Branch (Implies a larger scale or higher status than 分社)
+昇格	승격	Elevation / Promotion (in status)
+同時에	동시에	At the same time / Simultaneously
+氏	씨	Mr. / Ms. (Suffix attached to names)
+右	우	The aforementioned / The above (Used in formal writing to refer to something just mentioned)
+記者	기자	Reporter / Journalist
+採用	채용	Employment / Hiring
+하얏나이다	하였습니다 / 했습니다	Did / Have done (Archaic/formal verb ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제51호
+발행일	1924년 09월 01일
+기사제목	謹告
+기사형태	사고·편집후기
+
+謹告
+나날이 發展되여가는 江界分社를 江界支社로 昇格하는 同時에 朴大用 氏를 새로 右 支社의 記者로 採用하얏나이다
+開闢社＜122＞

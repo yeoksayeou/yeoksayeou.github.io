@@ -1,0 +1,133 @@
+Magazine Title: 개벽 (開闢)
+Publication Date: 1925년 12월 01일
+Article Title: 社告 (Company Notice)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Company Notice / Branch and Sub-branch Offices Newly Established or Moved in November
+
+⊙ P'yŏnggang Sub-branch Newly Established
+Location: In front of Pokkye Station
+Area: All of P'yŏnggang County
+Staff:
+Sub-branch Head: Kwŏn Tae-wan
+General Affairs: Chu P'yo
+Accounting: Ch'oe Tong-ik
+Secretary: Chŏng Yŏng-kyu
+Advisor: Chŏng Ŭi-sik
+Advisor: Chŏn Tŏk-sam
+
+⊙ Wŏnsan Branch Re-established
+Location: 2 Kwangsŏk-dong, Wŏnsan Prefecture
+Area: Wŏnsan Prefecture, Tŏgwŏn County, Anbyŏn County – Each in its entirety
+Staff:
+Branch Head: Chang Ki-uk
+General Affairs: Yi Kye-sim
+Reporter: Kim Chong-kuk
+Advisor: Kang Ki-dŏk
+Advisor: Cho Pyŏng-ch'ŏl
+
+⊙ Yŏngdong Sub-branch Changed
+Location: Kyesan-ri, Yŏngdong Township, Yŏngdong County
+Area: Yŏngdong County and its vicinity
+Staff:
+Sub-branch Head & Reporter: Yi Sang-ha
+Reporter: Kwŏn Yong-muk
+Reporter & Collector: Hŏ Wŏn-jo
+Clerk: Chŏng To-wŏn
+
+**Summary**
+
+This company notice from the December 1, 1925 issue of *Kaebyŏk* magazine details organizational changes in its branch network during November 1925. It announces the establishment of a new sub-branch in P'yŏnggang, the re-establishment of the Wŏnsan branch, and changes to the Yŏngdong sub-branch, listing the locations, coverage areas, and key personnel (including advisors) for each. For historians, this notice offers insights into the organizational structure and geographical reach of a significant Korean magazine during the colonial period. The listing of specific individuals, including local figures serving as advisors, hints at the magazine's efforts to build networks and integrate with local communities or elites across different regions of Korea.
+
+**Named Entities**
+
+平康分社	평강분사	P'yŏnggang Punsa (P'yŏnggang Sub-branch)
+福溪驛	복계역	Pokkye Station
+平康郡	평강군	P'yŏnggang County
+權大完	권대완	Kwŏn Tae-wan
+朱彪	주표	Chu P'yo
+崔東翊	최동익	Ch'oe Tong-ik
+鄭永奎	정영규	Chŏng Yŏng-kyu
+鄭宜植	정의식	Chŏng Ŭi-sik
+全德三	전덕삼	Chŏn Tŏk-sam
+元山支社	원산지사	Wŏnsan Chisa (Wŏnsan Branch)
+元山府	원산부	Wŏnsan Prefecture
+廣石洞	광석동	Kwangsŏk-tong
+德源郡	덕원군	Tŏgwŏn County
+安邊郡	안변군	Anbyŏn County
+張基郁	장기욱	Chang Ki-uk
+李啓心	이계심	Yi Kye-sim
+金鍾國	김종국	Kim Chong-kuk
+康基德	강기덕	Kang Ki-dŏk
+趙炳喆	조병철	Cho Pyŏng-ch'ŏl
+永同分社	영동분사	Yŏngdong Punsa (Yŏngdong Sub-branch)
+永同郡	영동군	Yŏngdong County
+永同面	영동면	Yŏngdong Township
+稽山里	계산리	Kyesan-ri
+李相夏	이상하	Yi Sang-ha
+權容默	권용묵	Kwŏn Yong-muk
+許元祚	허원조	Hŏ Wŏn-jo
+鄭道源	정도원	Chŏng To-wŏn
+
+**Glossary**
+
+社告	사고	Company notice, announcement
+新設	신설	Newly established
+異動	이동	Change, move, transfer
+支社	지사	Branch office
+分社	분사	Sub-branch office (smaller than a 支社)
+位置	위치	Location
+地域	지역	Area, region (covered by the branch)
+職員	직원	Staff, personnel
+分社長	분사장	Head of a sub-branch office
+總務	총무	General Affairs (manager/staff)
+會計	회계	Accounting (staff)
+書記	서기	Secretary, clerk
+顧問	고문	Advisor
+復設	복설	Re-established, re-opened
+記者	기자	Reporter
+變更	변경	Change, modification
+集金員	집금원	Bill collector, money collector
+事務員	사무원	Clerk, office worker
+一圓	일원	The whole area of, entire district
+附近	부근	Vicinity, nearby area
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제64호
+발행일	1925년 12월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告/十一月 中에 新設 又는 異動된 支社·分社
+⊙平康分社新設
+位置 福溪驛前
+地域 平康郡 一圓
+職員
+分社長 權大完
+總務 朱彪
+會計 崔東翊
+書記 鄭永奎
+顧問 鄭宜植
+同 全德三
+
+⊙元山支社復設
+位置 元山府 廣石洞 二番地
+地域 元山府, 德源郡, 安邊郡 各 一圓
+職員
+支社長 張基郁
+總務 李啓心
+記者 金鍾國
+顧問 康基德
+同 趙炳喆
+
+⊙永同分社變更
+位置 永同郡 永同面 稽山里
+地域 永同郡 及 其 附近
+職員
+分社長 兼 記者 李相夏
+記者 權容默
+記者 兼 集金員 許元祚
+事務員 鄭道源

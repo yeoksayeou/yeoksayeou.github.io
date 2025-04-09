@@ -1,0 +1,51 @@
+Magazine Title: 개벽 신간 제4호
+Publication Date: 1935년 03월 01일
+Article Title: 急告 (Urgent Notice)
+Article Type: 사고·편집후기 (Apology/Editorial Postscript)
+
+Urgent Notice
+
+The 500 Won Grand Prize Contest commemorating the continued publication of this magazine (本誌), announced in the previous December issue (十二月號), could not be announced in this month's issue. This is because the February issue (二月號) could not be published on time due to unavoidable circumstances (不得한 事情) and came out as a combined February-March issue (二三月號). Consequently, the announcement has been postponed to the April issue (四月號). We respectfully inform all applicants (應募 諸氏) and beloved readers (愛讀 者러분) of this and express our deepest apologies (深謝).
+
+-Editorial Department (編輯局)-<69>
+
+**Summary**
+
+This brief notice from the Editorial Department announces the postponement of the results for a 500 Won prize contest, originally scheduled for the current issue. The delay is attributed to unavoidable circumstances that prevented the timely publication of the February issue, necessitating a combined February-March issue. The announcement is rescheduled for the April issue, and the editors apologize to applicants and readers. For historians, this notice reflects the operational challenges (publication delays cited as "unavoidable circumstances") faced by Korean publications like *Kaebyŏk* under Japanese colonial rule. The mention of a significant 500 Won prize also points to efforts by the magazine to engage readers and potentially indicates its scale or ambition despite the difficult environment.
+
+**Named Entities**
+
+編輯局	편집국	Editorial Department
+
+**Glossary**
+
+急告	급고	Urgent notice
+本誌	본지	This magazine
+續刊	속간	Continued publication
+紀念	기념	Commemoration
+圓	원	Won (Korean currency unit)
+懸賞	현상	Prize contest/reward
+不得	부득	Unavoidable; cannot get
+事情	사정	Circumstances, situation
+發行	발행	Publication, issue
+關係 上	관계 상	Due to the relationship/circumstances
+發表치 못하고	발표치 못하고	Unable to announce (Older negative construction: V-치 못하다)
+미루게 되엿습니다	미루게 되었습니다	Has been postponed (Older spelling of 되었습니다)
+應募	응모	Application, entry (for a contest/recruitment)
+諸氏	제씨	Gentlemen, Messrs., Everyone (polite, somewhat archaic plural suffix)
+愛讀	애독	Loving readership; reading with fondness
+者러분	여러분	Everyone, you all (Combines 者 [person] with the plural suffix 여러분, archaic form)
+深謝	심사	Deep apology, profound gratitude
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	急告
+기사형태	사고·편집후기
+
+急告
+지난 十二月號에 發表한 本誌續刊紀念 五百圓大懸賞은 二月號가 不得한 事情으로 제때에 發行이 되지 못하고 二三月號로 나오게 된 關係 上 이달號에 發表치 못하고 四月號로 미루게 되엿습니다 이 뜻을 삼가 應募 諸氏와 愛讀 여者러분께 알려드리는 同時에 深謝하는 바입니다.
+-編輯局-＜69＞

@@ -1,0 +1,61 @@
+Magazine Title: 개벽 제4호
+Publication Date: 1920년 09월 25일
+Article Title: 베곤의 古書 (Bacon's Old Book)
+Article Type: 잡저 (Miscellaneous Article)
+
+베곤의 古書 (Bacon's Old Book)
+
+歸納法 論理의 創唱者로 當時의 稀代의 天才라 하던 후란시쓰, 베곤氏의 最後의 著作으로 하야 西紀 1621年(291年 前)에 出版 上梓한 論集 原版本 中 著者로부터 「밧긴안」 公끠 獻上한 一冊은 5月 30日 倫敦에서 競賣에 附하엿는데 代價 15,000圓으로 米國 富豪 「디요루디, 데-, 스미쓰」 氏에게 落札되다. ＜104＞
+
+A first edition volume of the *Essays*, published and printed in the Western year 1621 (291 years ago), which was the final work of Mr. Francis Bacon (후란시쓰, 베곤氏), known as the originator of inductive logic (歸納法 論理) and a rare genius (稀代의 天才) of his time, specifically a copy presented (獻上) by the author (著者) to the Duke of Buckingham (「밧긴안」 公끠), was put up for auction (競賣) in London (倫敦) on May 30th, fetching a price (代價) of 15,000 Won (圓), sold to the American millionaire (米國 富豪) Mr. George D. Smith (「디요루디, 데-, 스미쓰」 氏). <104>
+
+**Summary**
+
+This short article reports on the auction of a rare book in London: a first edition copy of Francis Bacon's *Essays* (1621), inscribed by Bacon himself to the Duke of Buckingham. The book was sold for a remarkable price of 15,000 Won (equivalent to Japanese Yen at the time) to the American collector George D. Smith. For historians of colonial Korea, this piece is interesting as it shows Korean awareness of Western intellectual figures like Bacon and participation (albeit as observers reporting news) in the international market for rare cultural artifacts. The mention of the high price paid by an American highlights the flow of cultural capital and wealth towards the United States, even as reported in a Korean magazine under Japanese rule.
+
+**Named Entities**
+
+후란시쓰, 베곤氏	후란시쓰 베곤씨	Huran'sisŭ Pegon Ssi (Mr. Francis Bacon)
+밧긴안 公	밧긴안 공	Patkinan Kong (Duke of Buckingham)
+倫敦	런던	London
+米國	미국	Miguk (United States)
+디요루디, 데-, 스미쓰 氏	디요루디 데 스미쓰 씨	Tiyorudi, Te-, Sŭmit'ŭ Ssi (Mr. George D. Smith)
+
+**Glossary**
+
+古書	고서	Old book; rare book
+歸納法	귀납법	Inductive method
+論理	논리	Logic
+創唱者	창창자	Originator; founder
+當時	당시	At that time; contemporary
+稀代	희대	Rare; exceptional; unparalleled
+天才	천재	Genius
+最後	최후	Last; final
+著作	저작	Work; writing; book
+西紀	서기	Western calendar year; A.D.
+出版	출판	Publication
+上梓	상재	Printing; publishing (older term)
+論集	논집	Collection of essays/treatises
+原版本	원본판	Original edition; first edition
+著者	저자	Author
+끠	께	To (honorific particle, older form of 께)
+獻上	헌상	To present (to a superior); dedicate
+一冊	일책	One volume; one book
+競賣	경매	Auction
+附하엿는데	부하였는데	Was put up for; was attached to (older conjugation of 부하다 + -는데)
+代價	대가	Price; cost; value
+圓	원	Won (Korean currency, equivalent to Yen at the time)
+富豪	부호	Wealthy person; millionaire
+落札되다	낙찰되다	To be sold (at auction); to win a bid
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제4호
+발행일	1920년 09월 25일
+기사제목	베곤의 古書
+기사형태	잡저
+
+베곤의 古書
+歸納法 論理의 創唱者로 當時의 稀代의 天才라 하던 후란시쓰, 베곤氏의 最後의 著作으로 하야 西紀 1621年(291年 前)에 出版 上梓한 論集 原版本 中 著者로부터 「밧긴안」 公끠 獻上한 一冊은 5月 30日 倫敦에서 競賣에 附하엿는데 代價 15,000圓으로 米國 富豪 「디요루디, 데-, 스미쓰」 氏에게 落札되다. ＜104＞

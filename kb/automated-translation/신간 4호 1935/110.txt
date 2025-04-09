@@ -1,0 +1,124 @@
+Magazine Title: 개벽 신간 제4호
+Publication Date: 1935년 03월 01일
+Article Title: 新聞과 醫學 (Newspapers and Medicine)
+Article Type: 논설 (Editorial/Opinion Piece)
+
+Newspapers and Medicine
+
+It is thought that the recent increase in medical articles in daily newspapers stems from the public's thirst for knowledge, particularly the gradually improving attention towards hygiene and disease.
+
+However, from our perspective (as medical scholars), various shortcomings and harmful effects are associated with this, which we consider most regrettable. Through these pages, we wish to express several regrets concerning the medical articles appearing in daily newspapers and urge reflection from both the newspapers and the general public.
+
+First, sensational and exaggerated headlines (表題의 珍奇, 誇大). Lately, for some reason, newspapers frequently attach sensational and exaggerated headlines. Perhaps this could also be called a trend, if trends are what they are. Be that as it may, this tendency is not a very pleasing phenomenon. Judging by the headlines, they seem to deal with very significant issues, but in reality, when you delve into the content, it is often exceedingly mundane, blander than the taste of cold water. Recently, a certain "Newspaper" <88> carried a story about beriberi (脚氣) in pregnant women (姙婦). Perhaps to explain the devastating effects of infant beriberi, I discovered writing stating that the main causes of infant mortality are beriberi, syphilis (鰴毒), and tuberculosis (結核), and I could not help but be astonished. In reality, infants dying from causes like infant beriberi, hereditary syphilis, or tuberculosis are not that numerous. I do not know for what reason nutritional disorders (榮養上의 障碍) (e.g., indigestion, etc.), which account for 50-60% of infant mortality causes, were excluded.
+
+Second, premature reporting of incomplete new research (未成品 新硏究의 速報). This is also occasionally found in newspapers. When there is research done within a laboratory, some "friends" immediately publish it in regular newspapers. There also seem to be reporters striving to detect such things and publish them in their own newspaper even one bit faster, but neither practice is particularly welcome. The announcement of new medical research should first be published in specialized medical journals, receive rigorous critique from medical scholars, and only then be publicly announced to general society; this would be the proper sequence. Since there is much nonsense among new research and discoveries, carelessly publicizing them <89> can have a significant impact on general society. Furthermore, concerning these nonsensical new research and discoveries, occasionally a small number of people surrounding the researcher view them through colored glasses, so there is undeniably a concern of losing fairness.
+
+Ordinary people, lacking medical knowledge, do not have the ability to judge the truth or falsehood of something just because it appears in large print in a regular newspaper. Consequently, they tend to swallow it whole, so its influence is also great. If the research were entirely flawless, it wouldn't matter, but if there is even a slight error, there could be nothing more perilous. "New discoveries" and "new research" intended to save people could instead end up harming [lit. XX-ing] people. Therefore, scholars or researchers must carefully consider this point and adopt a cautious attitude. And newspapers, which have a close relationship with society, should also consider their mission carefully and refrain from careless reporting, which we sincerely hope for.
+
+Third, promotion of new therapies lacking a solid academic basis (學術的 根據의 불확실한 新療法의 宣傳). This also appears frequently in newspapers. <90> Among these, some tend to use the names of so-called great figures (大家) and celebrities (名士) as signboards (看板), busily promoting them. We find it difficult to understand their motives (心事). Or rather, it is also extremely difficult (極難) to understand the intentions (意中) of those "great figures" and "celebrities."
+
+Fifth,記載 of drug dosages or prescriptions (藥物의 用量 乃至 處方의 記載). Prescriptions listing drug quantities are often published in regular newspapers. It might be acceptable for common medicines, but informing people unfamiliar with the quantities of highly toxic drugs (劇毒藥) is difficult to understand, for whatever reason. For mild drugs commonly found in ordinary households, like sodium bicarbonate (重曹), castor oil (萞麻油), glycerin (그리세린), or aspirin (아스피린), getting the quantity slightly wrong doesn't pose a great danger. However, for potent drugs (劇藥) (e.g., antipyrine (안치피린), pyramidon (피라미돈), cocaine (코카인), santonin (산도닝), etc.) or poisonous drugs (毒藥) (e.g., mercuric chloride (昇汞), morphine (모르히네), atropine (아토로핑), etc.), if there is even a slight difference in quantity, a bloody tragedy could occur in an instant. To give one example, for santonin (산토닝), used to expel roundworms (蛔蟲), the usual adult dose is around 0.05 (i.e., 5 centigrams [센치 瓦]) per dose. But if the decimal point is misplaced, writing 0.5 (i.e., 5 decigrams [엔치 瓦]), it far exceeds the maximum dose (極量), risking santonin <91> poisoning (中毒). Furthermore, these roundworms are particularly common in children (小兒), and when using santonin for children, the dosage must be changed according to their age (齡), such as one-tenth or one-fifth of the adult dose.
+
+For this reason, when using highly toxic drugs, extreme caution must be paid to the dosage, or danger will be courted (招來). Therefore, informing the general layperson (素人), who lacks knowledge of pharmacology or prescription writing, about the dosages of highly toxic drugs and prescriptions containing such drug components is a matter that newspaper companies should consider very carefully. There must be sharp self-criticism (辛辣한 자기비판) and self-restraint (自重) regarding this. <92>
+
+**Summary**
+
+The author, likely a medical professional writing in 1935, criticizes the way Korean daily newspapers report on medical matters. The main complaints are: using sensational headlines that misrepresent content, prematurely reporting unverified research without peer review, promoting scientifically unfounded therapies often endorsed by prominent figures, and irresponsibly publishing specific dosages for potent and dangerous drugs, risking public harm due to potential errors or misuse by laypeople lacking medical knowledge. The article highlights a tension between growing public interest in health, the media's role in disseminating information, and the need for journalistic responsibility and accuracy in medical reporting, particularly concerning potentially dangerous substances and unproven claims. From a historical perspective, the article reveals concerns within the colonial Korean medical community about maintaining professional standards and protecting the public from misinformation spread through the increasingly influential popular press. It reflects the challenges of communicating specialized knowledge to a broader audience in an era of developing media and public health awareness.
+
+**Named Entities**
+
+(No specific people, places, or organizations mentioned in the text)
+
+**Glossary**
+
+新聞	신문	Newspaper
+醫學	의학	Medicine
+記載事項	기재사항	Items described/written down
+知識慾	지식욕	Thirst for knowledge
+위생	위생	Hygiene
+향상	향상	Improvement, advancement
+缺陷	결함	Defect, shortcoming
+弊害	폐해	Harmful effect, evil consequence
+催促	최촉	Urge, press for
+表題	표제	Headline, title
+珍奇	진기	Curious, novel, sensational
+誇大	과대	Exaggerated
+取扱	취급	Handle, deal with
+其實	기실	In reality, actually
+平凡	평범	Ordinary, commonplace
+姙婦	임부	Pregnant woman
+脚氣	각기	Beriberi
+乳兒	유아	Infant
+暴威	폭위	Ferocity, devastating power (older term)
+鰴毒	매독	Syphilis
+結核	결핵	Tuberculosis
+榮養上의 障碍	영양상의 장애	Nutritional disorder
+未成品	미成品	Unfinished product, incomplete item
+速報	속보	Prompt report, news bulletin
+探知	탐지	Detect, discover
+揭載	게재	Publish, print (in a publication)
+嚴正	엄정	Strict, rigorous
+비판	비판	Criticism, critique
+公表	공표	Public announcement
+엉터리	엉터리	Nonsense, sham, fake
+색안경	색안경	Colored glasses (metaphor for biased view)
+公正	공정	Fairness, impartiality
+缺乏	결핍	Lack, deficiency
+虛實	허실	Truth or falsehood
+통채로	통째로	Wholly, entirely (older spelling)
+完全無缺	완전무결	Perfect, flawless
+誤謬	오류	Error, mistake
+危險千萬	위험천만	Extremely dangerous
+學術的	학술적	Academic, scholarly
+根據	근거	Basis, grounds
+新療法	신료법	New therapy/treatment
+宣傳	선전	Propaganda, publicity, promotion
+大家	대가	Great figure, master, expert
+名士	명사	Celebrity, prominent figure
+看板	간판	Signboard (used metaphorically)
+心事	심사	Motives, inner thoughts (less common today)
+意中	의중	Intention, mind
+極難	극난	Extremely difficult
+藥物	약물	Drug, medicine
+用量	용량	Dosage
+乃至	내지	Or, up to (used similarly to 'and/or')
+處方	처방	Prescription
+劇毒藥	극독약	Highly toxic drug
+重曹	중조	Sodium bicarbonate (baking soda)
+萞麻油	피마유	Castor oil (older Hanja)
+劇藥	극약	Potent drug
+毒藥	독약	Poisonous drug
+昇汞	승홍	Mercuric chloride
+蛔蟲	회충	Roundworm
+驅除	구제	Expel, eradicate
+大人	대인	Adult
+極量	극량	Maximum dose
+초과	초과	Exceed
+中毒	중독	Poisoning, addiction
+小兒	소아	Child (medical term)
+齡	령	Age (often used for age in classifications)
+分之	분지	Fraction (e.g., 10分之 1 = 1/10)
+招來	초래	Bring about, cause, incur
+素人	소인	Layperson, amateur
+辛辣	신랄	Sharp, biting, scathing
+自重	자중	Self-restraint, prudence
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	新聞과 醫學
+기사형태	논설
+
+新聞과 醫學
+요사이 日刊新聞등에 醫學的 記載事項이 많어진 것은 일반 대중의 知識慾 其중에도 특히 위생 질병에 대한 注意가 점차로 향상되고 잇는 까닭이라고 生覺한다.
+그러나 우리들(醫學者)의 눈으로 보면 여러 가지의 缺陷, 弊害가 여긔에 부속되어 잇서 우리들은 이것을 최대의 유감으로 생각하는 바이다. 이 誌面을 통하야 日刊新聞에 나타난 醫學的 記載事項에 대한 멧 가지의 유감을 말하고 신문 及 일반 대중의 반성을 催促하는 바이다.
+第一. 表題의 珍奇, 誇大. 최근엔 왜 그런지 툭하면 진기하고도 과대적인 표제를 붓친다. 아마 이것도 소위 유행이라면 유행이라고도 할 수 잇슬 것이다. 그건 그러타 하고 좌우간에 이런 경향은 그리 자미롭지 못한 현상이다. 표제로써 미루어 보면 아주 큰 문제를 取扱해 논 것가티 보이지만 其實 그 내용으로 드러가보면 아주 平平凡凡 냉수 맛보다도 더 싱거운 것이 많다. 요전 어느 「新聞」에＜88＞ 姙婦의 脚氣이야기가 揭載되어 잇섯는데 乳兒脚氣의 暴威를 설명하기 위하야서인지 乳兒死亡原因의 대부분을 脚氣, 鰴毒 及 結核라는 글ㅅ발을 발견하고 나는 아니 놀낼 수 업섯다. 사실에 잇서서 乳兒脚氣라든지 遺傳鰴毒이라든지 또는 結核 가튼 것으로 사망하는 乳兒는 그러케 만치 안다. 乳兒死亡原因의 5, 6割을 차지하고 잇는 榮養上의 障碍(예를 들면, 소화불량 기타)를 제외한 것은 또 무슨 이유로서인지 나는 모르겟다.
+第二. 未成品 新硏究의 速報=이것도 간혹 新聞紙上에서 더러 발견하는 터인데 연구실 내에서 된 연구 사항이 잇스면 그것을 곳 普通新聞에 내는 「친구」가 더러 잇다. 또 그런 것을 엇더케 探知해서 1割이라도 빠르게 자기 신문에다 揭載하려고 노력하는 기자도 잇는 모양인데 둘다 그리 환영할 만한 일이라고는 할 수 없다. 의학적 新연구의 발표는 위선 전문의 醫學雜誌에 내여서 醫學者들의 嚴正한 비판을 받은 연후에 비로소 일반 사회에 公表하는 것이 정당한 순서일 것이다. 新硏究, 신발견 중에도 엉터리가 많으니까 함부로 떠들다간＜89＞ 일반 사회에 밋치는 영향이 그리 적은 것이 아니다. 그리고 그 엉터리 新硏究 신발견을 간혹가다 그 연구자를 싸고도는 소수의 사람들이 그것에 대하야 색안경을 사용하는 일이 잇스니까 암만해도 公正을 잃어버리는 염려가 없지 안어 잇다.
+전문가가 아닌 보통사람들은 의학적 지식이 缺乏한 까닭에 普通新聞에 큰 活字라도 나와 잇스면 그 虛實을 판단할 능력이 없다. 따라서 이것을 곳 통채로 생켜버리다십히 하니가 其  영향도 역시 크다. 만약 其 연구 사항이 完全無缺이라면 모르겟스나 다소라도 誤謬가 잇는 경우엔 이것가티 危險千萬의 일은 없을 것이다. 사람을 살니기 위한 「신발견」「신연구」가 도리혀 사람을 XX케 하는 셈이 될 것이니 학자 혹은 연구가들은 이 점을 잘 고려하야 愼重한 태도를 취하야만 될 것이다. 그리고 이 사회와 밀접한 관계가 잇는 신문에서도 其 使命을 잘 생각해서 경솔한 報道를 하지 말기를 진심으로 바란다.
+第三. 學術的 根據의 불확실한 新療法의 宣傳=이것도 역시 신문에 잘 나오는＜90＞ 일인데 기중 엇던 것은 소위 大家 名士 등의 일흠을 看板삼고 그 宣傳에 급급하는 경향이 잇다. 우리는 그 心事를 이해키 어렵다. 아니 그것보다도 其 「大家」 「名士」의 意中을 역시 이해키 極難하다.
+第五. 藥物의 用量 乃至 處方의 記載=普通新聞에 藥物의 분량을 쓴 處方이 揭載되는 일이 만타. 그것도 보통약이면 모르나 劇毒藥의 분량을 모르는 사람들에게 알니는 것은 如何한 이유로서인지 이해키 어렵다. 보통 일반 가정에 흔이 잇는 重曹, 萞麻油, 「그리세린」, 「아스피린」 갓흔 약한 藥物은 其 분량을 좀 그릇트려도 그리 큰 위험은 업지만 劇藥(예를 들면 「안치피린」, 「피라미돈」, 「코카인」, 「산도닝」 등의 類) 또는 毒藥(예를 들면 昇汞, 「모르히네」. 「아토로핑」 등의 類) 갓흔 것은 조곰이라도 그 분량에 차이가 잇는 날엔 그야말로 피석긴 비극이 순식간에 생길 것이다. 예를 하나 드러보면 蛔蟲을 驅除할 목적으로 사용하는 「산토닝」갓흔 것도 보통 大人은 1회 0.05(즉 5「센치」瓦) 전후를 쓰고 잇스나 其 點을 잘못 부처서 0.5(즉 5「엔치」瓦)을 쓰면 極量을 훨신 초과함으로 「산토닝」＜91＞ 중독을 이르킬 위험이 잇다. 또 이 蛔蟲은 특히 小兒들에게 만은 것인데 아해들에게 「산토닝」을 사용하는 경우에는 其 齡에 따라서 大人用量의 10分之 1이라든지 5分之 1이라든지 이렇게 其 분량을 박구어 쓰지 안흐면 안 된다.
+이런 까닭으로 劇毒藥을 쓸 때는 그 용량에 대하야 非常한 注意를 쏫지 안흐면 위험을 招來하게 되니까 藥物學 또는 處方學에 지식이 업는 一般 素人들에게 劇毒의 용량과 그런 藥分이 석긴 處方 등을 알리는 것은 신문사로서는 좀 愼重이 고려할 문제이니 여긔에는 辛辣한 자기비판과 自重이 잇서야만 될것이다. ＜92＞
+＜88-92＞

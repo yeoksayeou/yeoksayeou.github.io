@@ -1,0 +1,47 @@
+Magazine Title: 개벽
+Publication Date: 1924년 07월 01일
+Article Title: 謹告 (Announcement)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+An Announcement
+
+Issue No. 49 of this magazine, scheduled for publication on July 1st, was subjected to a sales ban due to incurring the displeasure (忌諱) of the authorities. Therefore, we are publishing and distributing a special temporary issue instead.
+
+Kaebyŏk Company <99>
+
+**Summary**
+
+This is a notice from the Kaebyŏk Company announcing that the July 1st, 1924 issue (No. 49) of their magazine *Kaebyŏk* has been banned from sale by the authorities. As a result, they are issuing a temporary replacement issue. This brief announcement is historically significant as it directly documents the censorship practices of the Japanese colonial government against Korean publications, highlighting the suppression of expression during that period. Historians would find it useful as primary evidence of the operational challenges and political pressures faced by Korean publishers under colonial rule.
+
+**Named Entities**
+
+當局	당국	The Authorities
+開闢社	개벽사	Kaebyŏk Company
+
+**Glossary**
+
+謹告	근고	Respectful Announcement
+發行	발행	Publication, Issuance
+本誌	본지	This magazine
+當局	당국	The Authorities (referring to Japanese colonial government)
+忌諱	기휘	Taboo; displeasure; offense (often used in context of censorship)
+걸리여	걸리어	To be caught in; to incur; to be subjected to (older spelling/form of 걸리어)
+發賣禁止	발매금지	Sales Ban
+當하엿삽기	당하였기에	Because it was subjected to (older spelling and grammar; 당하다 + -았/었- + -삽/옵- + -기)
+臨時號	임시호	Special Issue, Temporary Issue
+刊行	간행	Publication
+頒布	반포	Distribution, Promulgation
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제49호
+발행일	1924년 07월 01일
+기사제목	謹告
+기사형태	사고·편집후기
+
+謹告
+七月 一日 發行의 本誌 第四十九號는 當局의 忌諱에 걸리여 發賣禁止를 當하엿삽기, 다시 臨時號를 刊行頒布합니다
+開闢社＜99＞

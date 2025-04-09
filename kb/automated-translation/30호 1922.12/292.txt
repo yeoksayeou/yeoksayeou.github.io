@@ -1,0 +1,64 @@
+Magazine Title: 개벽
+Publication Date: 1922년 12월 01일
+Article Title: 緊急社告 (Urgent Company Notice)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+◁Urgent Company Notice▷/-To Readers in the Incheon Branch Area-
+
+Mr. Cho Ri-hwan (曹利煥), the Incheon Branch Manager, has resigned due to circumstances (事情), and we are currently in the process of selecting (銓衡 中) his successor. In the meantime, all business pertaining to that branch will be handled directly by the Main Office (本社). Until a successor is determined sooner or later (早晩間), please conduct all matters, such as magazine requests (雜誌請求) and advertising commissions (廣告信託), directly with the Main Office, and let us further strengthen our connection as devoted readers (愛讀의 緣).
+
+**Summary**
+
+This is an urgent notice from the main office of *Kaebyŏk* magazine informing readers in the Incheon area that the local branch manager, Cho Ri-hwan, has resigned. While a replacement is being sought, all business previously handled by the Incheon branch, including subscriptions and advertising, should be directed to the main office. The notice encourages readers to maintain their relationship with the magazine during this transition. From a historical perspective, this brief notice illustrates the organizational structure of a prominent Korean publication during the colonial era, including its use of regional branches. It also sheds light on the practical challenges of personnel changes and maintaining business continuity under such circumstances, showing direct engagement between the publisher and its readership.
+
+**Named Entities**
+
+仁川支社	인천지사	Inch'ŏn Branch
+曹利煥	조리환	Cho Ri-hwan
+本社	본사	Main Office
+
+**Glossary**
+
+緊急	긴급	Urgent
+社告	사고	Company notice, announcement
+支社	지사	Branch office
+管內	관내	Within the jurisdiction of
+讀者	독자	Reader
+事情	사정	Circumstances, reasons
+依하야	의하여	According to, due to (Older spelling/form of 의하여)
+辭任	사임	Resignation
+方今	방금	Currently, now (Archaic/formal term)
+後任者	후임자	Successor
+銓衡	전형	Selection, screening (especially for personnel)
+一時	일시	Temporarily, for a time
+該	해	That, the said (Used like '해당')
+在한	재한	Existing in, located at (Older grammatical form)
+一切	일체	All, everything
+事務	사무	Affairs, business, work
+本社	본사	Main office, headquarters
+直接	직접	Directly
+取扱	취급	Handling, dealing with
+되얏사오니	되었사오니	Has become, so... (Older polite spelling/form of 되었으니)
+早晩間	조만간	Sooner or later
+確定되기지는	확정되기까지는	Until it is decided/confirmed (Older spelling of 까지는 using ㅺ)
+雜誌請求	잡지 청구	Magazine request (Subscription request)
+及	급	And (Used like 와/과 or 및)
+廣告信託	광고 신탁	Advertising commission, entrusting advertisements
+等	등	Etc., and so on
+交涉하시와	교섭하시어	Negotiate, liaise (Older polite connective form)
+愛讀	애독	Devoted reading
+緣	연	Connection, tie, relationship
+緊密케	긴밀케	Closely, tightly (Making something close/tight)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제30호
+발행일	1922년 12월 01일
+기사제목	緊急社告
+기사형태	사고·편집후기
+
+◁緊急社告▷/-仁川支社管內 讀者에게-
+仁川支社長 曹利煥氏는 事情에 依하야 辭任된 後 方今 그 後任者를 銓衡 中이온바 一時 該 支社에 在한 一切事務를 本社로부터 直接 取扱하게 되얏사오니 早晩間 後任者가 確定되기지는 雜誌請求 及 廣告信託 等 모든 일을 本社로 直接 交涉하시와 愛讀의 緣을 더욱 緊密케 하야 봅시다

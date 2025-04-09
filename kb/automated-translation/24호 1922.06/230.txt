@@ -1,0 +1,52 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1922년 06월 01일
+Article Title: [무제] (Untitled)
+Author: Not specified
+Article Type: 소식 (News/Briefs)
+
+**Body Text Translation:**
+Recently, Kyŏngsŏng's Population: As of April 1st, the Kyŏngsŏng Prefecture household count is 57,029 households, with 136,069 males and 125,629 females, totaling 261,698 people. Compared to the end of last December, this is an increase of 503 households, 1,216 males, and 1,029 females, for a total increase of 2,245 people. Broken down in detail: Japanese: 17,376 households, 36,501 males, 32,273 females, totaling 69,774 people, an increase of 256 households and 1,076 people. Koreans: 39,121 households, 96,880 males, 91,768 females, totaling 188,648 people, an increase of 235 households and 1,126 people. Chinese: 644 households, 2,449 males, 380 females, totaling 2,829 people, an increase of 12 households and 43 people. Other Foreigners: 144 households, 239 males, 208 females. (There was no increase or decrease among foreigners).
+
+Number of Blind and Mute Persons in All Korea: The number of blind and mute persons in all of Chosŏn is 8,792 blind persons and 6,817 mute persons. Among Japanese residing in Chosŏn, there are said to be 93 blind persons and 58 mute persons. <38>
+
+**Summary**
+
+This news brief reports demographic statistics for Kyŏngsŏng (colonial Seoul) as of April 1, 1922, detailing population increases since late 1921 and providing breakdowns by nationality (Japanese, Korean, Chinese, Other Foreigners). It also gives the total number of blind and mute individuals across Korea (Chosŏn), separately noting the figures for Japanese residents. From a colonial history perspective, the meticulous categorization of the Kyŏngsŏng population by nationality highlights the administrative practices of the Japanese Government-General in distinguishing and tracking different ethnic groups within the capital. The separate count for Japanese individuals with disabilities further underscores the distinct status accorded to Japanese residents compared to the Korean populace.
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+最近	최근	Recently
+京城	경성	Kyŏngsŏng (Colonial-era name for Seoul)
+戶口	호구	Household registration; census
+現在	현재	Current; present time
+比하야	비하여	Compared to (Older form of 비교하여)
+增하얏스며	증하였으며	Increased and... (Older spelling/inflection of 증가하였으며)
+細別하면	세별하면	If broken down in detail
+日本人	일본인	Japanese person/people
+朝鮮人	조선인	Korean person/people
+中國人	중국인	Chinese person/people
+外國人	외국인	Foreigner
+이더라	이더라	(Sentence ending indicating reported information)
+全鮮	전선	All of Korea (Abbreviation of 全朝鮮)
+盲啞者	맹아자	Blind and mute people
+盲者	맹자	Blind person
+啞者	아자	Mute person
+在한	재한	Residing in (Hanja usage, similar to ~에 있는)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제24호
+발행일	1922년 06월 01일
+기사제목	[무제]
+기사형태	소식
+
+最近 京城의 戶口 4月 1日 現在 京城府 戶口는 57,029戶이며 男 136,069人 女 125,629人 合計 261,698人인데 昨年 12月末 現在에 比하야 503戶 男 1,216人 女 1,029人 計 2,245人이 增하얏스며 細別하면 日本人 17,376戶 男 36,501人 女 32,273人 計 69,774人, 256戶 1,076人이 增하고 朝鮮人 39,121戶 男 96,880人 女 91,768人 計 188,648人, 235戶 1,126人이 增하고 中國人 644戶 男 2,449人 女 380人 計 2,829人 12戶 43人이 增하고 其他 外國人 144戶 男 239人 女 208人이더라 (外國人은 增減 無)
+全鮮盲啞者數 全朝鮮의 盲啞者數는 盲者 8,792人 啞者 6,817人인바 朝鮮에 在한 日本人의 盲者는 93人 啞者는 58이라 한다. ＜38＞

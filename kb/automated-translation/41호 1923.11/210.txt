@@ -1,0 +1,98 @@
+Magazine Title: 개벽 (開闢)
+Publication Date: 1923년 11월 01일
+Article Title: 社告 (Company Notice)
+Author: Not Specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation**
+
+Company Notice
+
+Amidst the new trend of organizing local affairs currently underway, Mr. Yu Hang-jun (兪恒濬), the general manager of the Kanggye Branch, has been dismissed. For the Chinju Branch, Mr. Chŏng Chae-hwa (鄭載華) has been newly selected as the successor branch manager. Furthermore, an outpost has been newly established in Nyŏngbyŏn, and Mr. Pak T'ae-bong (朴泰鳳) has been appointed as the chief for that location, while Mr. Myŏng Che-yŏng (明濟英) has been appointed as the reporter for the same location.
+
+New Branch Established in Ch'ŏrwŏn
+
+1.  Name: Kaebyŏk Kwandong Branch (開闢關東支社)
+2.  Area: Ch'ŏrwŏn County (鐵原郡) and its nearby regions
+3.  Location: Within Ch'ŏrwŏn Town (鐵原邑內)
+4.  Officers are as follows:
+    Branch Manager: Yi Yong-sun (李龍洵)
+    General Manager: Kim Wan-ho (金完鎬)
+    Advisor: Yi Pong-ha (李鳳夏)
+    Reporter: O Sang-gŭn (吳相根)
+    External Affairs: Yi Ch'ŏn-yŏng (李天榮) <103>
+
+**Summary**
+
+This company notice from the magazine *Kaebyŏk* announces several personnel changes and organizational updates in November 1923. It reports the dismissal of the Kanggye branch manager, the appointment of a new manager for the Chinju branch, the creation of a new outpost in Nyŏngbyŏn with appointed staff, and the establishment of an entirely new branch, the Kwandong Branch, located in Ch'ŏrwŏn, along with a list of its officers. For historians, this notice provides concrete evidence of the organizational structure and expansion efforts of a significant Korean cultural magazine during the Japanese colonial period. It reveals the names of individuals involved in regional intellectual and publishing networks, the geographical reach of the magazine (Kanggye, Chinju, Nyŏngbyŏn, Ch'ŏrwŏn), and the formal structure (roles like Branch Manager, General Manager, Advisor, Reporter, External Affairs) adopted by such Korean enterprises at the time.
+
+**Named Entities**
+
+江界支社	강계지사	Kanggye Branch
+兪恒濬	유항준	Yu Hang-jun
+晋州支社	진주지사	Chinju Branch
+鄭載華	정재화	Chŏng Chae-hwa
+寧邊	영변	Nyŏngbyŏn
+朴泰鳳	박태봉	Pak T'ae-bong
+明濟英	명제영	Myŏng Che-yŏng
+鐵原	철원	Ch'ŏrwŏn
+開闢關東支社	개벽관동지사	Kaebyŏk Kwandong Branch
+鐵原郡	철원군	Ch'ŏrwŏn County
+鐵原邑內	철원읍내	Ch'ŏrwŏn Town Center
+李龍洵	이용순	Yi Yong-sun
+金完鎬	김완호	Kim Wan-ho
+李鳳夏	이봉하	Yi Pong-ha
+吳相根	오상근	O Sang-gŭn
+李天榮	이천영	Yi Ch'ŏn-yŏng
+
+**Glossary**
+
+社告	사고	Company notice, announcement
+현하	현하	Currently, at present (formal/older term)
+地方事務	지방사무	Local affairs, regional matters
+정리되야오는	정리되어오는	Becoming organized/arranged (older spelling of 되어오는)
+신기운	신기운	New atmosphere, new trend
+際하야	제하여	On the occasion of, facing (older grammatical form based on 際 + -하여)
+支社	지사	Branch office
+총무	총무	General manager, secretary-general
+해직되고	해직되고	Being dismissed from office
+후임	후임	Successor
+改選되얏사오며	개선되었사오며	Was re-elected/re-selected (older spelling/formality of 개선되었으며)
+출장소	출장소	Field office, outpost
+신설하고	신설하고	Newly establishing
+同所	동소	The same place, said location (Sino-Korean term)
+주임	주임	Chief, head official
+선임되얏슴니다	선임되었습니다	Were appointed (older spelling/formality of 선임되었습니다)
+區域	구역	Area, district, zone
+及	급	And (Sino-Korean conjunction, like 와/과)
+同附近地方	동부근지방	Nearby areas, vicinity (同 = same/said, 附近 = vicinity, 地方 = region)
+位置	위치	Location
+邑內	읍내	Within the town, town center
+任員	임원	Officer, executive staff
+如左	여좌	As follows (archaic Sino-Korean phrase meaning 'like the left')
+고문	고문	Advisor
+外務	외무	External affairs, outreach
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제41호
+발행일	1923년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+현하 地方事務의 정리되야오는 신기운을 際하야 江界支社 총무 兪恒濬씨는 해직되고 晋州支社의 후임 지사장은 鄭載華씨로 改選되얏사오며 다시 寧邊에 출장소를 신설하고 同所 주임은 朴泰鳳씨로 同所 기자는 明濟英씨로 각각 선임되얏슴니다.
+
+鐵原에 지사 신설
+
+一. 名稱  開闢關東支社
+一. 區域  鐵原郡 及 同附近地方
+一. 位置  鐵原邑內
+一. 任員은 如左
+支社長 李龍洵
+총 무  金完鎬
+고 문  李鳳夏
+기 자  吳相根
+外 務  李天榮＜103＞

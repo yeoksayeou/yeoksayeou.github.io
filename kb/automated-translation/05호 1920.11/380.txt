@@ -1,0 +1,95 @@
+Magazine Title: 개벽 제5호
+Publication Date: N/A
+Article Title: 文藝의 目的 (The Purpose of Literature)
+Author: N/A
+Article Type: 문예평론 (Literary Criticism)
+
+The Purpose of Literature (文藝의 目的)
+
+The purpose of literature constantly oscillates between two extremes: one is pleasure (快樂), and the other is possessing practical significance (實際的 意義). However, to speak comprehensively, the ultimate destination of literature is solely Beauty (美). That is, whether called pleasure or practical significance, these ultimately enter literature as components of Beauty. Therefore, if there were a work outstanding solely for its practical significance, separated from such a unified purpose, it would have not even the slightest value as literature. A work explaining morality would become a book on ethics (修身書), and one stating doctrines would, of course, end up as a collection of sermons (說敎集). Conversely, if a work only contains pleasure, it is no different from the pleasure derived from witty talk (才談), humor (戱諧), storytelling (講談), food and drink (飮食), and the like. For this reason, literature necessarily requires the coexistence of these two elements.
+
+However, one cannot call it art simply because these two naturally reside together; pleasure should come from the realm of witty talk, humor, storytelling, and play (遊戱), while practical significance should come from books on ethics and collections of sermons. Yet, such things are often seen in what is called applied literature (應用文學), and cannot be called high-value works of literature. Therefore, it must be a pleasure formed from a misunderstood unity of the two. Nevertheless, this must differ from other pleasures in that it embraces a kind of significance. Furthermore, that significance must be practical significance. Consequently, it cannot help but become that very pleasure, a sentiment difficult to forget. Such a realm, we can broadly call Beauty.
+
+Drama (戱曲, Drama) is also called dramatic poetry (劇詩). It is a long poem fundamentally intended for performance as a play (劇), forming one of the three major genres of poetry along with epic poetry (敍事詩) and lyric poetry (抒情詩). Its objective depiction (客觀的 描寫) of characters (人物) and events (事件) is like that of epic poetry. However, from the perspective that the author (著者) identifies with each character in the work (作中), penetrates their hearts (胸中), and speaks as if from within them, the entire piece can be seen as a series of subjective (主觀的) lyric poems. Combining the epic with the lyric, and the objective with the subjective, can be said to be the true nature (本領) of drama. <124>
+
+**Summary**
+
+The article argues that the true purpose of literature is the pursuit of Beauty, which is achieved through the essential integration of pleasure and practical significance. Works focusing solely on pleasure are trivial, like jokes or food, while those solely focused on practical significance are merely didactic texts like ethics books or sermons, not true literature. Applied literature might combine these elements superficially, but true literature achieves a deeper, unified state where practical meaning itself becomes an unforgettable pleasure – this state is Beauty. The author then defines drama as a prime example, uniquely blending the objective, narrative aspects of epic poetry with the subjective, emotional depth of lyric poetry through the author's empathetic portrayal of characters. From a historical perspective, this essay from *Kaebyŏk*, a prominent intellectual magazine of the 1920s, reflects the ongoing debate among Korean intellectuals during the colonial period about the role and nature of art and literature. Defining literature's purpose as the pursuit of an intrinsic "Beauty" integrating pleasure and meaning, rather than solely didacticism or entertainment, could be seen as an attempt to assert the autonomy and value of Korean culture and aesthetics amidst colonial pressures and the influx of Western literary theories.
+
+**Named Entities**
+
+N/A
+
+**Glossary**
+
+文藝	문예	Literature and art; belles-lettres
+目的	목적	Purpose; objective
+恒常	항상	Always; constantly (Older form of 항상)
+極致	극치	Extreme; the ultimate point
+互相	호상	Mutually; each other
+動搖	동요	Shaking; wavering; oscillation
+快樂	쾌락	Pleasure; enjoyment
+實際的	실제적	Practical; actual
+意義	의의	Significance; meaning
+歸趣	귀취	Ultimate destination; final goal; purport
+美	미	Beauty
+成分	성분	Component; ingredient
+統一目的	통일 목적	Unified purpose
+分離	분리	Separation; isolation
+傑出	걸출	Outstanding; preeminent
+毫末	호말	Slightest bit; tiny amount
+價値	가치	Value; worth (Often written 가치 today)
+道德	도덕	Morality; ethics
+修身書	수신서	Book on ethics/moral self-cultivation
+敎義	교의	Doctrine; dogma
+陳述	진술	Statement; declaration
+說敎集	설교집	Collection of sermons
+才談	재담	Witty talk; amusing story
+戱諧	희해	Humor; jokes; pleasantry
+講談	강담	Storytelling; narrative (often historical or entertaining)
+飮食	음식	Food and drink
+幷存	병존	Coexistence
+要할 것이다	요할 것이다	Will require; needs (Older grammatical form)
+應用文學	응용 문학	Applied literature
+高價	고가	High value; high price
+誤解된 一個	오해된 일개	A misunderstood unity/one thing
+抱含	포함	Inclusion; embracing (Modern Korean usually uses 포함하다)
+境界	경계	Boundary; realm; state
+戱曲	희곡	Drama; play (theatrical)
+劇詩	극시	Dramatic poetry
+行演	행연	To perform (a play)
+本念	본념	Original intention; fundamental idea
+長篇詩	장편시	Long poem
+敍事詩	서사시	Epic poetry
+抒情詩	서정시	Lyric poetry
+三大門	삼대문	Three main gates; three major genres/divisions
+人物	인물	Character (in a story); person
+事件	사건	Event; incident
+客觀的	객관적	Objective
+描寫	묘사	Description; depiction
+著者	저자	Author
+作中	작중	Within the work (story, play)
+同化	동화	Assimilation; identification
+胸中	흉중	In one's heart/mind; bosom
+潛入	잠입	Infiltration; penetration
+全篇	전편	The entire work/piece
+主觀的	주관적	Subjective
+連續	연속	Continuation; series
+本領	본령	True nature; essence; forte
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제5호
+발행일	
+기사제목	文藝의 目的
+기사형태	문예평론
+
+文藝의 目的
+文藝의 目的은 恒常 두 가지 極致가 互相 動搖하고 잇는 것이니 一은 快樂이요. 一은 實際的 意義를 가지고 잇는 것이다. 그러나 이것을 總括하야 말하면 文藝의 歸趣는 오즉 美뿐이다. 卽 快樂이라고 하던지 實際的 意義라고 하는 것은 畢竟 美의 成分으로 文藝에 들어올 것이다. 그러면 萬一에 如斯한 統一目的으로부터 分離하야 實際的 意義로만 傑出된 作品이 잇다고 하면 이는 文藝로는 毫末도 價値도 업는 것이다. 道德을 說明한 것은 修身書가 될 것이요. 敎義를 陳述한 것이면 說敎集이 되고 말 것은 勿論이다. 此와 反하야 快樂만 잇는 作品이면 才談, 戱諧, 
+講談, 飮食 等의 快樂과 또한 다를 것이 업다. 이러함으로 文藝란 반듯이 이 두 가지가 
+幷存을 要할 것이다. 그러타고 이 兩者가 自然 同居함으로만 藝術이라고 할 수 업스니 快樂은 才談, 戱諧, 
+講談, 遊戱 方面에서 오고 實際的 意義는 修身書, 說敎集에서 와야 할 것이다. 그러나 如斯한 것은 往往 이 所謂 應用文學이라고 하는 것에서 볼 수 잇는 것이요 文藝로서는 高價의 作品이라고 할 수 업다. 그러면 兩者가 아모래도 誤解된 一個로 造成된 快樂이라야 하겟다. 그러치마는 이것이 다른 快樂과 달라 一種의 意義를 抱含한 것이라야 하겟다. 또 그 意義가 實際的 義意라야 하겟다. 그리하야 그것이 곳 快樂이 되고 잇기(忘) 어려운 所懷가 되지 안한 수 업는 것이다. 이러한 境界를 吾人은 크게 말하야 美라고 할 수 잇다.
+戱曲(Drama)은 또 劇詩라고도 한다. 劇으로 行演하기를 本念으로 한 長篇詩이니 敍事詩, 
+抒情詩와 가티 詩의 三大門을 이루은 것이다. 人物 及 事件을 客觀的으로 描寫한 것은 敍事詩와 가트나 著者가 一一이 作中의 人物과 同化하야 그 胸中에 潛入하여 말을 하는 것과 가튼 點으로 보면 全篇이 主觀的인 抒情詩의 連續이라고 볼 수 잇다. 敍事에 抒情을 兼하고 客觀에 主觀을 兼한 것이 戱曲의 本領이라고 할 수 잇는 것이다.＜124＞

@@ -1,0 +1,116 @@
+Magazine Title: 개벽 제72호
+Publication Date: 1926년 08월 01일
+Article Title: 着目할 日本의 移民政策 (Japan's Noteworthy Emigration Policy)
+Author: 小春 (Soch'un)
+Article Type: 논설 (Editorial/Article)
+
+Japan's Noteworthy Emigration Policy
+
+According to the National Census conducted on October 1st of last year, the current total population of mainland Japan is 59,736,822. Compared to the census five years prior, this is an increase of 3,773,769 people, showing an astonishing figure of an average annual increase rate of 750,000 individuals. At the same time, it possesses a density of 2,417 people per square ri (里), a level almost unparalleled in the world.
+
+If Japan's population continues at this pace, it will become a large population of 85 million in 30 years. Calculating based on the current domestic food situation, which already sees a shortage of 6.7 million koku (石) of rice and 4 million koku of barley/wheat, in 30 years, there will be a shortage of 35 million koku of rice and 10 million koku of barley/wheat. So, what truly should be done about this? This is where Japan's so-called population problem becomes a topic of clamor, and it has become an even greater issue since last year's National Census was conducted.
+
+Although we have no way of knowing the detailed schemes of their authorities regarding this, just looking at what is reported in the newspapers reveals statements such as: "As a solution to this emigration problem, the government intends to establish a large emigration company. However, since doing so would not look good externally (對外所聞), they will continue the conventional indirect policy while coordinating with private emigration groups and providing fixed subsidies nationwide. The 15 emigration companies and groups currently scattered in various regions are expected to actively pursue emigration measures."
+
+And, "The Ministry of Home Affairs, Social Affairs Bureau (內務省社會局) dispatched its first inspection team on May 30th to conduct preliminary investigations for emigration plans concerning Korea and Manchuria." Furthermore, it is said, "The government, while encouraging overseas emigration, will also follow the example of the former German Empire <17> and implement large-scale migration domestically from densely populated regions to sparsely populated regions. In the budget for the 15th year [Taishō 15, 1926], emigration incentive funds are to be granted for both Korea and Hokkaidō (to entities like Tōtaku (東拓), Fuji Kōgyō Kaisha (不二興業會社), etc.)."
+
+It is also said, "The Government-General of Korea (朝鮮總督府), as a continuing project for the next 12 years, plans to invest approximately 300 million yen to newly create 350,000 chōbu (町步) of good paddy fields (良畓), aiming to achieve an annual increase of about 8.5 million koku in rice production. Starting this fiscal year, it will first procure 8.5 million yen in low-interest funds from the Ministry of Finance, Deposit Bureau (大藏省預金部) and have companies like the Tōyō Takushoku Kaisha (東洋拓殖會社) and Land Improvement Companies (土地改良會社) carry out the construction work. This is entirely for the execution of Japan's food policy and the implementation of domestic emigration [from Japan to Korea]."
+
+Why should we need to wait for such news to know? What to do about the annual increase of 750,000 people is the sole matter of great concern (腐心事) for the current Japanese authorities, and it is a fact that they are primarily seeking the solution to this problem in the direction of Korea and Manchuria. If the Japanese population problem is to be resolved in this manner, what will ultimately become of the Korean population problem? In other words, where is the place for Koreans to live?
+
+Even according to the authorities' investigation, among the Korean compatriots who had previously migrated to the Manchurian region, those who returned to North P'yŏngan Province (平安北道) in the single year of last year alone numbered 838 households with 3,084 individuals. This trend has intensified further entering this year, with 733 households and 3,009 individuals returning to North P'yŏngan Province from January to June this year, almost matching the number for the entire previous year.
+
+While the reasons for this return are certainly not uniform, it is due to the fact that last July, an agreement for the crackdown on Korean OO groups (朝鮮OO團取締協定) was concluded and implemented between the Government-General of Korea (朝鮮總督府) and Zhang Zuolin (張作霖) of Fengtian (奉天). Under the pretext of cracking down on these OO groups, Chinese officials oppressed the general compatriots who had migrated there, and even Chinese landlords used this opportunity to oppress our peasant migrants, making it utterly impossible to sustain a living (聊生). The anxiety of our compatriots living in South and North Manchuria seems to be growing more severe day by day. So, what path indeed should the Korean propertyless masses (無産民) take? * (Soch'un 小春) <18>
+
+**Summary**
+
+This 1926 article from the Korean magazine *Kaebyŏk* discusses Japan's pressing population problem, citing census data showing rapid growth and forecasting severe food shortages. It highlights Japan's explicit policy to address this through emigration, primarily targeting Korea and Manchuria. The author details Japanese government plans, including indirect support for emigration companies, subsidies, surveys, and large-scale land development projects in Korea (funded by Japanese ministries and executed by companies like the Tōyō Takushoku Kaisha) explicitly intended to settle Japanese migrants and secure food supplies for Japan. The article contrasts this with the increasing hardship faced by Korean migrants already in Manchuria, who are returning to Korea in growing numbers due to oppression stemming from a Sino-Japanese agreement targeting Korean groups, leaving the author to question the future prospects for the Korean populace, especially the propertyless class. For historians, the article is valuable as it explicitly documents, from a contemporary Korean perspective, Japan's colonial emigration and resource extraction policies aimed at Korea and Manchuria, linking them directly to Japan's domestic issues. It also highlights the early negative consequences for Korean settlers in Manchuria resulting from Japanese geopolitical maneuvering with Chinese warlords, foreshadowing later conflicts and hardships.
+
+**Named Entities**
+
+日本	일본	Nihon (Japan)
+朝鮮	조선	Chosŏn (Korea)
+만주	만주	Manju (Manchuria)
+內務省社會局	내무성 사회국	Naimushō Shakaikyoku (Ministry of Home Affairs, Social Affairs Bureau)
+北海道	홋카이도	Hokkaidō
+東拓	동척	Tōtaku (Abbr. for Tōyō Takushoku Kaisha)
+不二興業會社	부지 흥업회사	Fuji Kōgyō Kaisha
+朝鮮總督府	조선총독부	Chosŏn Ch'ongdokpu (Government-General of Korea)
+大藏省預金部	대장성 예금부	Ōkurashō Yokinbu (Ministry of Finance, Deposit Bureau)
+東洋拓殖會社	동양척식회사	Tōyō Takushoku Kaisha
+土地改良會社	토지개량회사	T'oji Kaeryang Hoesa (Land Improvement Company)
+平安北道	평안북도	P'yŏngan Pukto (North P'yŏngan Province)
+奉天	봉천	Bongcheon (Fengtian)
+張作霖	장작림	Chang Chak-rim (Zhang Zuolin)
+中國	중국	Chungguk (China)
+
+**Glossary**
+
+國勢調査	국세조사	National Census
+可驚할	가경할	Surprising, astonishing (Older form of 놀랄 만한)
+平方里	평방리	Square ri (traditional unit of area/distance)
+유례업는	유례없는	Unprecedented (Older spelling of 없는)
+가젓다	가졌다	Had, possessed (Older spelling of 가졌다)
+잇서	있어	Being, existing (Older spelling of 있어)
+됴흘가	좋을까	Would it be good? (Older spelling/pronunciation of 좋을까)
+詳知할	상지할	To know in detail
+업스나	없으나	Although there isn't (Older spelling of 없으나)
+對外所聞	대외소문	External reputation, how things look to the outside world
+됴티	좋지	Not good (Older spelling/pronunciation of 좋지)
+취하야	취하여	Taking, adopting (Older spelling of 취하여)
+교부하기로	교부하기로	To decide to grant/provide
+산재한	산재한	Scattered
+파송하야	파송하여	Dispatching (Older spelling of 파송하여)
+及	및	And
+勵行함과	여행함과	Encouraging and implementing
+共히	공히	Together, jointly (Older spelling of 공히)
+隨하야	수하여	Following, according to (Older form of 따라)
+大行할	대행할	To carry out on a large scale
+繼續事業	계속사업	Continuing project/enterprise
+町步	정보	Chōbu (Unit of area, approx. 2.45 acres or 9917 sq meters)
+良畓	양답	Good paddy fields
+新作해서	신작해서	Newly creating/developing
+年額	연액	Annual amount
+米增收	미증수	Increase in rice harvest
+어드려고	얻으려고	Intending to obtain (Older spelling of 얻으려고)
+爲先	우선	First of all, for now
+조달식혀	조달시켜	Making arrange/procure (Older spelling of 조달시켜)
+全혀	전혀	Completely, entirely (Older spelling of 전혀)
+如何히	여하히	How (Older form, now 어찌, 어떻게)
+腐心事	부심사	Matter of great concern or anxiety
+일즉	일찍	Early, previously
+귀환한	귀환한	Returned (home)
+者	자	Person, people (Hanja used for person marker)
+격심하야	격심하여	Becoming severe/intense (Older spelling of 격심하여)
+필적하엿다	필적하였다	Equalled, matched (Older spelling of 필적하였다)
+一樣이	일양이	The same, uniform
+取締	단속	Crackdown, control, regulation (Japanese borrowing read in Korean)
+協定	협정	Agreement, pact
+爲名한	위명한	In the name of, under the pretext of
+聊生할	요생할	To sustain life, make a living (literary/older term)
+업슴에	없음에	Due to the lack of (Older spelling of 없음에)
+因함인	인함인	Being due to (Older form of 인함이다)
+尤甚하는	우심하는	Becoming more severe (literary/older term)
+無産民	무산민	Proletariat, propertyless people
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제72호
+발행일	1926년 08월 01일
+기사제목	着目할 日本의 移民政策
+기사형태	논설
+
+着目할 日本의 移民政策
+작년 10월 1일에 시행된 國勢調査에 의하면 日本內地의 현재 총인구는 59,736,822명으로서 이를 5년전의 조사 당시에 비하면 3,773,769명의 증가인 바 1년간 평균증가율이 750,000인이라는 可驚할 數字를 示하는 동시에 1平方里에 2,417名名이라는 거의 세계에 유례업는 밀도를 가젓다.
+일본의 인구가 이 형세로써 진행되면 이제로부터 30년후에는 8,500만이라는 대인구가 되는 동시에 지금부터 국내의 식량품에 잇서 米 6700만석, 麥 400만석의 부족을 보는 이 셈으로써 계산하면 30년 후의 그 때에는 米 3500만석, 麥 1000만석의 부족을 보게 될 것이다. 그러면 이 일을 과연 엇지하면 됴흘가. 여긔에서 소위 일본의 인구문제라는 것이 떠들게 되는 것이며 작년 國勢調査가 시행된 이후로 한층 더 문제가 되여 잇는 오늘이다.
+이에 대한 그들 당국자의 음모를 우리가 詳知할 길이 업스나 다못 신문지상에 전하는 것만을 본다 할지라도 『이 移民問題의 解決方으로 정부에서는 一大移民會社를 設하려 하나 그리 함은 對外所聞이 됴티 못함으로 종래의 간접정책을 그대로 지속하되 민간에 移民團体와 연락을 취하야 전국적으로 일정한 보조금을 교부하기로 하는 바 현재 각지에 산재한 15의 移民會社團体는 적극적으로 移民策을 취하게 될 것이라』 하며
+『內務省社會局에서는 지난 5월 30일에 제 1회의 視察員을 파송하야 조선 及 만주에 대한 이민계획의 예비조사를 행한다』하며 또 가로되 『정부는 해외이민을 勵行함과 共히 舊獨逸帝國의 範을 隨하야 국내에서도＜17＞ 인구조밀한 지방으로부터 인구희박한 지방에 이민을 大行할 방침인대 15년도 예산에서도 조선 北海道 兩地에 대야 이민장려금을 교부(東拓, 不二興業會社 등에)하게 되엿다』하며.
+
+또 가로되 『朝鮮總督府에서는 今後 12개년의 계속사업으로서 약 3억여원의 자금을 投하야 35만町步의 良畓을 新作해서 年額 약 850만석의 米增收를 어드려고 금년도부터 爲先 850만원의 低利資金을 大藏省 預金部로부터 조달식혀 東洋拓殖會社, 土地改良會社 등으로 하여금 공사을 대행케 하는대 이것은 全혀 일본의 식량정책수행과 국내이민의 실시를 위함이라』고 한다.
+
+엇지 이러저러한 소식을 기다려 알을 일이리요만 年 75만의 증가인구를 如何히 할가 하는 것은 현 일본당국자로서의 유일한 腐心事인 동시에 그 문제의 해결을 주로 조선, 만주방면에 구하고 잇는 것이 사실이다. 일본인의 인구문제가 이런 식으로 해결될 형편이라 하면 결국 조선인구문제는 엇지 될 것인가. 다시 말하면 조선사람이 살을 곳은 어대일가.
+당국의 조사에 의한다 할지라도 일즉 만주방면에 이주하엿던 조선동포로서 작년 1개년 중으로서 平安北道에 귀환한 者만이 838호에 3,084인이며, 이 형세는 本年에 들면서 일층 격심하야 本年 1월로부터 6월까지 平北道內로 귀환한 者가 733호 3,009인에 달하야 거희 작년 1개년간의 수에 필적하엿다.
+이 귀환의 원인은 물론 一樣이 아니나 작년 7월, 朝鮮總督府와 奉天 張作霖 간에 朝鮮OO團取締協定이 성립, 실시되며 OO團取締를 爲名한 중국관헌이 그 땅에 이주한 일반동포를 압박하고 또 중국지주들까지도 이 기회를 이용하야 그곳에 이주하는 우리사람 농민을 압박하야 도저히 聊生할 수 업슴에 인함인 바 南北滿洲에 사는 우리동포의 불안은 날이 갈수록 尤甚하는 모양이다. 그러면 조선 無産民의 취할 길은 과연 무엇일고. * (小春) ＜18＞
+＜17-18＞

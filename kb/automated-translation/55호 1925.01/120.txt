@@ -1,0 +1,47 @@
+Magazine Title: 개벽 제55호
+Publication Date: 1925년 01월 01일
+Article Title: 나는 조선력사를 연구하엿슴니다. (I Have Studied Korean History.)
+Author: 米國 푸렌, 에이, 돌푸
+Article Type: 논설 (Editorial/Discourse)
+
+나는 조선력사를 연구하엿슴니다.
+						米國 푸렌, 에이, 돌푸
+
+本題 全文-70面부터 71面까지 削除
+(Main Text - Full text from page 70 to page 71 deleted)
+＜70-71＞
+
+**Summary**
+
+This entry refers to an article titled "I Have Studied Korean History" by an American, Furen A. Dolph, published in the January 1925 issue of the magazine *Kaebyŏk*. However, the main body of the article, originally spanning pages 70 to 71, is noted as having been deleted from the available source. Thus, only the title and author information remain. For historians, the mere existence of an article by an American discussing their study of Korean history in a Korean magazine during the colonial period (1925) is noteworthy, suggesting international interest and engagement with Korean identity and past, despite Japanese rule. The deletion itself raises questions about potential censorship or preservation issues.
+
+**Named Entities**
+
+米國	미국	Miguk
+푸렌, 에이, 돌푸	푸렌, 에이, 돌푸	P'uren, Ei, Tolp'u
+조선	조선	Chosŏn
+
+**Glossary**
+
+력사	역사	history (older spelling of 역사)
+연구하엿슴니다	연구했습니다	have studied (older spelling/form of 연구했습니다)
+논설	논설	editorial, discourse, essay
+本題	본제	main topic/subject
+全文	전문	full text
+削除	삭제	deletion, removal
+面	면	page (counter)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제55호
+발행일	1925년 01월 01일
+기사제목	나는 조선력사를 연구하엿슴니다.
+필자	米國 푸렌, 에이, 돌푸
+기사형태	논설
+
+나는 조선력사를 연구하엿슴니다.
+						米國 푸렌, 에이, 돌푸
+本題 全文-70面부터 71面까지 削除
+＜70-71＞

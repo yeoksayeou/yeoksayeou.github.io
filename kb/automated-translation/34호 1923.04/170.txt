@@ -1,0 +1,964 @@
+**Header Section**
+Magazine Title: 개벽 제34호 (開闢 第34號)
+Publication Date: 1923년 04월 01일 (April 1, 1923)
+Article Title: 朝鮮文化의 基本調査 - 一部發表 (Basic Survey of Korean Culture - Partial Publication)
+Article Type: 소식 (News/Report)
+
+**Body Text Translation**
+
+Basic Survey of Korean Culture - Partial Publication
+First, let us speak about the general situation of Kyŏngnam (South Kyŏngsang Province)
+
+Map of South Kyŏngsang Province [Implied, not shown in text]
+
+1. Location and Topography. This province is located at the southeastern tip of the Korean peninsula. To the west, it borders North and South Chŏlla Provinces, to the north, it adjoins North Kyŏngsang Province, and to the east and south, it faces the sea. Mountain ranges run crisscross within its territory, resulting in varied topography, but generally, the northwest is elevated, and the southeast is low-lying. The Naktong River flows through the center of the province, and the plains along its basin have fertile soil, making agricultural production abundant. The southern coastline is indented and winding, with numerous bays and harbors. Many islands are scattered like stars in the sea, suitable for fish habitats, making the fishing industry the province's major industry after agriculture.
+Youth Groups in Kyŏngnam (Surveyed February, Taishō 12 [1923])
+Chinju 5, Masan 2, Pusan 4, Yangsan 4, Ulsan 6, Tongnae 3, Kimhae 8, Ch’angwŏn 6, Sanch’ŏng 2, Hamyang 2
+Ŭiryŏng 3, Miryang 5, T’ongyŏng 4, Kosŏng 1, Sach’ŏn 4, Namhae 3, Kŏch’ang 1, Hapch’ŏn 3, Hadong 1, Total 67
+
+2. History. This province was the territory of the ancient Pyŏnhan confederacy. Later, the Five Kaya states divided and occupied it until they were destroyed by Silla. After Koryŏ unified the territory, in the 14th year of King Sŏngjong, the area under Kimju jurisdiction was called Yŏngdong-do, and the area under Chinju jurisdiction was called Sannam-do. In the first year of King Myŏngjong, it was renamed Chinhapchu-do. In the first year of King Ch’ungsuk<3>, it was combined and called Kyŏngsang-do. The Yi Dynasty (Chosŏn) continued this name. In the 14th year of King Chungjong, it was divided into Left and Right provinces, using the Naktong River as the boundary, but this was soon abolished. In the 25th year of King Sŏnjo, it was again divided into Left and Right provinces, reunified the following year, divided again in the 28th year, and reunified again the following year. A military headquarters (營) was established in Taegu (initially established in Sŏngju). It was moved in the 31st year, moved back to Taegu four years later. In the 32nd year of Emperor Kojong, it was divided into North and South provinces, with the provincial office (道廳) placed in Chinju, where it remains to this day.
+
+3. Administrative Districts, Households, and Population. The area of this province is 790.783 square *ri* (方里). This is divided into 2 *pu* (府 - urban prefectures), 19 *kun* (郡 - counties), and 257 *myŏn* (面 - townships). The average area of a county is 37.909 square *ri*, and the average area of a township is 3.104 square *ri*. The households number 339,055 Korean, 17,308 Japanese, and 204 foreign, totaling 356,567 households. The population is 1,738,049 Koreans, 69,750 Japanese, and 765 foreigners, totaling 1,808,561 people. Per square *ri*, the ratio is 447 households and 2,266.9 people, making the population density the highest among all provinces. (Surveyed end of December, Taishō 10 [1921])
+
+4. Climate. Korea's climate is continental, so the difference between heat and cold is distinct. However, the climate of this province, except for the northwestern mountainous region, is moderated by the ocean and is mild compared to the rest of the peninsula, with relatively small temperature differences. The annual average temperature ranges from a high of 32 degrees Celsius to a low of minus 5.3 degrees Celsius. Furthermore, sunny days are frequent, and the air is dry, making it most suitable for residence.
+
+Facts are Facts
+"The spread of education and the promotion of industry, and the cultivation of practical strength resulting from these! This will surely be the only way to open the future path for the Korean race. At least, we believed so, or tried to believe so.
+But no. It's all wrong. There is nothing but to fight. Nothing but to fight until we become relentless devils."
+The Japanese authorities, or even gentlemen belonging to certain classes who are not authorities, will of course call this an unsound ideology. However, that is a separate issue; it is a fact that the psychology of the most influential youth in the Kyŏngnam region today has become like this. Thinking about it, this is probably not just the psychology of the youth there.<4>
+
+Comparison of Korean Education and Japanese Education
+
+1. Elementary Education
+According to the survey as of the end of November, Taishō 11 (1922), the year-by-year comparison between Public Common Schools (公立普通學校) educating Korean children and Public Elementary Schools (公立小學校) educating Japanese children is as follows.
+Public Common Schools and Public Elementary Schools [Table implied, data discussed below]
+
+Among the 93 Public Common Schools (besides these, 3 schools are under construction and not yet open), 26 have extended their curriculum to 6 years. Among the 76 Public Elementary Schools, 56 are Ordinary Elementary Schools (尋常小學校), and 20 have both Ordinary and Higher Elementary (尋常高等) levels combined. Classified by the number of classes, 48 are single-class elementary schools, and 28 have two or more classes. However, most school-aged Japanese children in the entire Kyŏngnam province attend school, and those who cannot attend due to transportation difficulties, illness, poverty, or other reasons number only 75. Korean school-aged children (ages 6 to 12), as shown in the table below, number 249,688. Compared to the current number of students in Public Common Schools, 26,399, this means that 9.5 times as many children are unable to attend school.<5>
+Survey Table of Korean School-Aged Children [Table implied, data discussed above]
+
+2. Secondary Education
+Secondary level schools established by the Government-General of Chosŏn (朝鮮總督府) are only two: Pusan Middle School (釜山中學校) and Tongnae Higher Common School (東萊高等普通學校). The former was founded in Taishō 2 (1913) and exclusively educates Japanese. The latter was barely founded in Taishō 11 (1922) to educate Koreans. Their status is as follows. [Table implied]
+
+3. Vocational Education
+There are 4 vocational schools for Korean education: Hamyang's is managed by school fees, and the other 3 are managed by local funds. The overview is as follows.<6> [Table implied]
+Vocational schools for Japanese education are 2: Pusan and Chinhae. The overview is as follows. [Table implied]
+
+Among the two schools above, the Pusan Public Commercial School (釜山公立商業學校), previously managed by a school association, is to be directly managed by the Provincial Office (道廳) starting this fiscal year. Additionally, there are plans for the province to establish one Fisheries School (水産學校) (in T’ongyŏng), one Industrial Supplementary School (工業補習學校) (in Pusan), and one Agricultural Supplementary School (農業補習學校) (location undecided) this fiscal year. It is still uncertain whether these will primarily target Koreans or Japanese.<7>
+
+4. Girls' Education
+While there is not a single Higher Girls' School (高等女學校) for Koreans, there are two for Japanese in Pusan and Masan. Furthermore, there is a plan to establish another one in Chinhae in the fiscal year of Taishō 12 (1923), which is said to have already received approval from the authorities. The current status is as follows. [Table implied]
+
+5. Teacher Training Education
+For teacher training, a temporary teacher training center has been established within the Chinju Agricultural School (晉州農業學校), training common school teachers through a one-year accelerated program. Its capacity is merely 60 students. There is a plan to establish one normal school in Chinju this fiscal year to train both Korean and Japanese teachers, but it is said that whether it will actually be realized is still unknown. (Besides this, the province sometimes holds temporary Teacher Training Sessions (敎員講習會) and Teacher Research Meetings (敎員硏究會)).
+
+6. Kindergartens
+A kindergarten for Japanese was established in Pusan in Taishō 4 (1915). Currently, there are 3 classes, 3 caregivers (保姆), and 83 children. There are none for Koreans. The above is the overview of official public schools.
+
+What is the situation of Private Schools, Sŏdang (書堂), and Lecture Centers (講習會)?<8>
+
+1. Private Schools and Kindergartens for Japanese Education
+There are two private schools: Private Pusan Practical Girls' School (私立釜山實習女學校) and Private Pusan Commercial Night School (私立釜山商業夜學校), with 20 teachers and 354 students. There are 4 kindergartens: 1 in Pusan, 1 in Chinhae, and 2 in T’ongyŏng, totaling 13 classes, 13 caregivers, and 326 children.
+
+2. Private Schools, Lecture Centers, and Sŏdang for Korean Education
+The total number of private schools in the entire province is 30. Among these, Tongnae Higher Common School (東萊高等普通學校) was founded in Taishō 5 (1916), but since the establishment of the Government Higher Common School in Taishō 11 (1922), it has been affected, making student recruitment difficult. Therefore, it is scheduled to merge with the government school this fiscal year (Taishō 12 [1923]). Furthermore, through the initiative of Kyŏngnam's influential figures (有志), there is a plan to establish Ilsin Higher Common School (一新高等普通學校) in Chinju after accumulating a foundation fund of 500,000 won. Besides this, there are 4 Private Common Schools, 25 miscellaneous schools (雜種學校) (including 8 religiously affiliated schools: 3 established by Koreans, 5 by foreigners), approximately 300 Private Lecture Centers (私設講習所) (day and night combined), and 1,567 Sŏdang. The overview is as follows.<9>
+
+Trend of Private Schools Since Annexation (Surveyed end of May, Taishō 11 [1922]) [Table implied]
+Overview of Lecture Centers (Surveyed end of May, Taishō 11 [1922]) [Table implied]
+
+Overview of Sŏdang (Surveyed end of March, Taishō 11 [1922])
+Number of Sŏdang / Number of Teachers / Number of Students
+
+1,567 / 1,592 / 19,274 (Including 141 Females)
+
+Also, the province aims to encourage self-study and research by providing children with appropriate reading materials and establishes children's libraries (아동문고), subsidizing 70 won per school annually from local funds. However, among 76 Japanese elementary schools, only 24 have these, while among 93 Korean common schools, only 16 do.<10>
+
+Overview of Religion in this Province
+Kyŏngnam was originally a center (淵藪) of Confucianism, so it goes without saying that there are many believers, i.e., scholars. However, adhering rigidly to old customs and falling behind the times, it faces rejection from the general public and is gradually declining. Buddhism temporarily flourished during the Silla and Koryŏ periods, and even today, many temples built during that time are truly astonishing in their grandeur and magnificence. But as a result of the Yi Dynasty's policy of promoting Confucianism and suppressing Buddhism (崇儒斥佛), it declined severely and remains stagnant to this day. Recently, religions founded in Korea such as Ch’ŏndogyo (天道敎), Taejonggyo (大宗敎), T’aeŭlgyo (太乙敎) (number of followers for the latter two unknown), and Christianity introduced from abroad have become quite prevalent. Additionally, many Japanese residents adhere to Shinto (神道). The overview is as follows.
+
+1. Ch’ŏndogyo (Surveyed March, Taishō 12 [1923])
+
+Number of Parishes (敎區數) 7, Number of Mission Rooms (傳敎室數) 4, Number of Believers (信徒數) 16,434
+
+2. Buddhism (Surveyed end of December, Taishō 10 [1921]) [Table implied]
+
+3. Christianity [Table implied]
+
+4. Shinto [Table implied]
+
+Agriculture, Fisheries, Industry - The Three Major Industries of this Province
+The Three Major Industries of this Province
+□ Agriculture: 15 million won to 73 million won
+□ Industry: 6 million won to 21 million won
+□ Fisheries: 3.5 million won to 23 million won
+Among the provinces of Chosŏn, this province, like South Chŏlla Province, has a mild climate suitable for cultivating temperate plants in agriculture and forestry. Particularly, the coastline extends over 1,200 *ri* (海里 - nautical miles?), making the production of fish and algae abundant. Furthermore, historically and geographically, it has a close relationship with Japan, and the industrial significance arising from maritime transport is especially great. Now, we wish to introduce the industrial situation by sector to draw the attention of our brethren in Kyŏngnam and the general compatriots.
+
+Agriculture
+Agriculture in this province, along with fisheries, constitutes the mainstay of industry. As of the end of Taishō 10 (1921), there were over 160,257 *chŏngbo* (町步) of paddy fields (沓) and over 116,164 *chŏngbo* of dry fields (田), totaling over 276,322 *chŏngbo*. The number of farming households was 277,163, with a population of 1,466,026, accounting for about 80% of the total households. The arable land area per farming household is 5 *tan* 8 *myo* (反畝) of paddy field and 4 *tan* 2 *myo* of dry field, equivalent to 1 *chŏngbo* in total.
+Among agricultural products, rice, barley, and beans are famous. The average annual production of rice reaches 1.7 million *sŏk* (石), barley also 1.67 million *sŏk*, and soybeans about 400,000 *sŏk*. Of these, about 400,000 *sŏk* of rice and about 100,000 *sŏk* of soybeans are exported annually.
+Among special agricultural products, upland cotton (陸地綿), ramie (苧麻), paper mulberry (楮), and rush grass (莞草) are renowned for both quality and quantity. Among fruits, persimmons (柿) and apples (苹果) are also notable.
+This province has numerous islands and has been famous for livestock farming since ancient times. The fine horses of Yokchido (欲知島), presented by Kyŏn Hwŏn (甄萱) to Wang Kŏn Taejo (王建太祖), are specially recorded in history, but they are now gone. There is only the raising of cattle, pigs, sheep, etc., by farming households.<14>
+
+Forestry
+The total forest area in this province is about 881,000 *chŏngbo*. Of this, about 160,000 *chŏngbo* has been established forest for some time, about 480,000 *chŏngbo* is land with young trees, and the remaining 210,000 *chŏngbo* is unforested land. The provincial authorities have endeavored in afforestation for over ten years, and by Taishō 10 (1921), more than a quarter of the unforested land had been planted. For reference, the actual state of afforestation is shown below:
+
+1. Provincial Forests (道有林): According to regulations, up to about 500 *chŏngbo* of national forest land can be transferred. This province has received transfers exceeding this limit and has already completed afforestation. The situation is as follows. [Table implied]
+
+2. Township Forests (面有林): To cultivate financial resources for the townships, each township is allowed to manage 50 to 300 *chŏngbo* of township forest. The land allocated for this includes Type 1 unnecessary national forest land transferred or leased, village forests within the township consolidated into the township forest, and privately owned forest land requiring special facilities like erosion control works, which were transferred to the township. The township forests in this province already amount to 28,024 *chŏngbo* (average over 100 *chŏngbo* per township).
+
+3. School Forests (學校林): Schools of common level are permitted transfers of up to 20 *chŏngbo* of national forest land, and secondary level schools up to 40 *chŏngbo*. Based on this, 66 schools have established school forests, covering a forest area of 760 *chŏngbo*.
+
+4. National Leased Forests (國有貸付林): Of the approximately 67,000 *chŏngbo* of Type 1 unnecessary national forest land in this province, over 60,200 *chŏngbo* has already been leased. Excluding the portions mentioned in (1), (2), and (3) above, the rest is leased to organizations and individuals aiming for forest management. Furthermore, as of the end of Taishō 10 (1921), about 6,500 *chŏngbo* of national forest land remained undisposed, but it is said that this too is scheduled to be leased sooner or later.
+
+How the bald mountains (禿山) of Kyŏngsang Province shock people passing through on the Kyŏngbu Line is generally acknowledged, but now, young trees are seen sprouting almost all over the mountain faces, truly giving them a new look. The authorities often boast about the good results of afforestation. Furthermore, the provincial authorities formulated a 20-year afforestation plan in Taishō 8 (1919), aiming to complete afforestation of the entire province by Taishō 27 (1938), and are proceeding with it today. The forest survey, ongoing since Taishō 6 (1917), is set to be completed by Taishō 13 (1924), clarifying forest ownership rights. Concurrently, starting with the counties where this assessment is finished, a basic forest survey will be gradually conducted to ascertain the supply and demand relationship for timber and firewood, and along with designating conservation forests (保安林), a concrete plan <15> for promoting afforestation is planned.
+
+Fisheries
+Among the 2 *pu* and 19 *kun* of this province, 2 *pu* and 9 *kun* border the sea, meaning more than half of the administrative area is deeply related to fisheries. The number of affiliated islands is 278, and the coastline length is 2,310 *ri* for the mainland and 3,390 *ri* for the islands, totaling 5,700 *ri*. The coast is indented and winding, with capes, bays, and coves linked together. Numerous islands are scattered like Go stones. The water depth is generally around 50 *chim* (尋 - fathoms?). Situated at the confluence of cold and warm currents, various aquatic species are abundant, including warm-current fish like sardines (鰮), mackerel (鯖), and Spanish mackerel (鰆), and cold-current fish like cod (鱈) and herring (鰊). The climate is particularly mild, suitable for year-round operations.
+Sardines, mackerel, and cod are referred to as the province's three major fisheries. Among them, the sardine fishery holds the top position, with an annual production value of around 4 million won, accounting for about one-third of the province's total catch value. Its success or failure has a truly significant impact on the province's economy. The mackerel fishery, due to the rise of fixed net fishing methods in recent years, extended fishing seasons, and development of transportation infrastructure, has an annual production value of 2.5 to 3 million won, with much exported fresh to Japan. The cod fishery mainly belongs to Korean fishermen, with an annual production value of 1 to 1.5 million won.
+
+Look at the Murai Farm in Chinsu
+When one speaks of Japanese farms in Korea, one immediately thinks of the Tōyō Takushoku (東洋拓殖), operating with a huge capital of 50 million won, followed by the Chōsen Kōgyō (朝鮮興業) and Mori Farm (森農場) in Hwangju, Tōsan Farm (東山農場) in Suwŏn, Ukon Farm (右近農場) in Mokp’o, Murai Farm (村井農場) in Ch’angwŏn, Kumamoto Farm (態本農場?) in Chŏngŭp, Ishikawa Prefecture Agricultural Stock Company (石川縣農業株式) in Kimje, Hosokawa Farm (細川農場) in Iksan, Saitō Farm (齊藤農場) in Chinnamp’o, and Nichikai Kōgyō Stock Company Branch Office (日海興業株式出張所) in Sariwŏn. Looking at the recent situation of one of these, the Murai Farm in Chinsu, Ch’angwŏn County: the farm was established in January, Meiji 41 (1908), engaging in both ordinary farming and fruit cultivation. The land it occupies spans from Ch’angwŏn to part of Kimhae, covering an area of about 3,000 *chŏngbo*. The tenant farmers associated with it are 100 Japanese households and 1,300 Korean households. The total harvest the year before last was 27,000 *sŏk* of rice paddy, 1,700 *sŏk* of barley, and 1,000 *sŏk* of soybeans. Its owned arable land consists of 1,500 *chŏngbo* of paddy fields, 500 *chŏngbo* of dry fields, and 600 *chŏngbo* of other miscellaneous land. Additionally, there is some amount of forest land. Indeed, they are doing quite well for themselves.
+
+Industry
+The industry of this province was traditionally a subsidiary occupation for farming households and not much to look at. In recent years, due to enthusiastic investment by Japanese, large-scale enterprises such as the Chōsen Bōseki Stock Company (朝鮮紡績株式) in Pusan<16>, the Nippon Kōshitsu Tōki Stock Company Branch (日本硬質陶器株式支店) in Mokto (牧島), and the Chōsen Sen'i Kōgyō Stock Company (朝鮮纖維工業株式) in Kup’o (龜浦) have emerged.
+Taking a look at the province's industrial production value for a recent one-year period, the total production value was over 21,769,000 won. Among this, textiles accounted for over 1,992,000 won, paper and paper products for over 958,000 won, lacquerware (漆器) for over 54,000 won, and straw mats (莚席) for over 455,000 won, these being the main items. Besides these, the brewing industry (釀造業) managed by Japanese is particularly prosperous.
+The weaving industry (機業): The seven counties of Hapch’ŏn, Kŏch’ang, Hamyang, Sanch’ŏng, Namhae, Sach’ŏn, and Kosŏng have long been famous production centers for hemp cloth (麻布) or ramie cloth (苧布). In Taishō 10 (1921), they produced a large amount of 892,000 *p’il* (反 - bolts) of fabric, valued at over 1,956,000 won.
+The paper industry (製紙業) is also prominent in this province, with an annual production value reaching 400,000 to 600,000 won. Each year, 150,000 to 350,000 *kŭn* (斤 - catties) of paper are exported from Korea to China, and over 80% of this is produced in this province.
+The lacquerware of T’ongyŏng (統營) has been famous since ancient times, but in the interim, a trend of crude and excessive production occurred, greatly damaging its reputation. The annual production value is calculated at about 50,000 won.
+
+Commerce
+Geographically, this province is close to Japan, resulting in frequent maritime traffic. The three ports of Pusan, Masan, and Chinhae typically handle about 25% of the total export-import trade volume of all of Korea. Among them, Pusan port serves as the gateway to Korea. Major import items include cotton piece goods (金巾類), petroleum, coal, sugar, timber planks, cotton textiles, paper products, ropes and straw bags (繩叺). Major export items include rice, soybeans, fish, live cattle, cocoons, fertilizer, raw hides, raw cotton, and seaweed.
+There are 122 regular markets (시장) held every five days within the province, among which Hadong Market and Chinju Market are well-known. There are also 16 special markets, such as fish markets, belonging to individual or company management, and 1 exchange (取引所), totaling 139 locations.<17>
+
+Bundle of Local Specialties from Various Regions
+Chinju: Cotton cloth (Chinju *mok* - 晉州木) and cabbage. Cotton manufacturing households approx. 19,000 (Total households approx. 21,600), production value approx. 150,000 won.
+Sach’ŏn: Oysters (石花) and Rice. The plains of Sach’ŏn are about 1,500 *chŏngbo* of fertile land, and the rice produced here is particularly famous for its good quality. However, the major part of that fertile land has long been occupied by Tōyō Takushoku and Hakama Bōtarō (迫間房太郞).
+Hadong: Seaweed (*haeŭi* - 海衣, gim/laver) and Tobacco and Perch (鱸魚). The seaweed (짐 - gim) of this county must surely be famous throughout Korea. Until recently, it was a source of profit for Japanese merchants in Osaka. The tobacco is produced entirely at the foot of Chirisan (智異山) in the county, and its flavor is particularly fragrant, but due to farmers' dissatisfaction with the tobacco monopoly system (煙草專賣制), there is concern that its cultivation might cease altogether from now on. The perch (鱸魚) from the Sŏmjin River (蟾津江) is said to have a very agreeable taste because it feeds on the *ch’o* grass (草?) at the river bottom.
+Namhae: Mussels (홍합) and Southern Ramie (南苧).
+T’ongyŏng: Sardines (*melchi* - 鰮魚) and Lacquerware and Spinach (시금菜). The spinach here, along with Chinju's cabbage, is renowned and stays green year-round (四時長靑).
+Kimhae: Reed mats (芦席). Kimhae is located along the lowermost reaches of the Naktong River, and the reed fields (芦田) on its banks are truly boundless.
+Yŏngsan: Tobacco (annual export 200,000 won), Peanuts (洛花生) (annual amount 6,000 won), Water celery (水芹).
+Ch’ogye: Grain (殼物) (annual export 200,000 *sŏk*) and Straw mats (草席).
+Ŭiryŏng: Sinban paper (新反紙) (Pungnim-myŏn, annual amount 200,000 won), T’ogok hemp cloth (土谷廢風?) (Kungnyu-myŏn, annual amount over 3,000 won).
+Miryang: Sweetfish (銀魚) (annual export amount 25,000 won) and Turbid rice wine (濁酒) (Taste extremely good).
+Tansŏng (Sanch’ŏng combined county): Myŏng cotton (明綿) of Muksil, Chestnuts (栗), and Porcelain (磁器) of Ch’ŏnggye and Pottery (陶器) of Paegun, Green onions (靑葱) of Sŏngnae-ri and Whetstones (礪石) of Mundae, Fans (扇子) of Sonam.
+Hamyang: Dried persimmons (白柿) and Korean paper (朝鮮紙).
+Kŏch’ang: Hemp cloth (麻布) (annual export amount 35,000 won).
+Ch’irwŏn: *P’ot’a* (*萄?) (Its taste is like chestnut but the body is large) <18>
+
+Min Yŏngjik (閔泳直), a Man of Diligence in Sanch’ŏng Porcelain Research
+Mr. Min was originally a technician (技手) at the Land Survey Bureau (土地調査局). During his time in Kyŏngsŏng (Seoul), he visited the Central Laboratory (中央試驗所), observed porcelain manufacturing and its raw materials, and developed a boundless interest. After returning home, he inspected various regions to discover raw material sites for porcelain himself. He found a raw material site of about 3 square *ri* near his home (currently T’ŭk-ri, Kŭmsŏ-myŏn, Sanch’ŏng County). Initially, utilizing existing pottery workshops, he experimented diligently for about five years, obtaining over 2,000 test pieces through 24 trials. As the results were particularly good, he took them to the Central Laboratory in Kyŏngsŏng for evaluation. The verdict was that the raw material was the best among those found in Korea and also abundant. After the Central Laboratory conducted an on-site inspection, Mr. Min requested support for this manufacturing business from the Provincial Office. The Provincial Office, as part of its local industry development policy, established a Ceramics Cooperative (窯業組合) at the Sanch’ŏng County Office, dispatched a specialized technician, and provided a subsidy of about 7,000 won to install a 12-chamber climbing kiln (登窯). Although 7 chambers were already completed, construction has now stopped due to lack of capital. Mr. Min exhausted his entire family fortune on this porcelain manufacturing research, sacrificing about 5,000 won. Later, together with supporters (有志), he initiated the Sanch’ŏng Porcelain Stock Company (山淸磁器株式會社), but due to the poor economic climate, this also failed to materialize. As a result of agonizing day and night, he fell ill, even becoming deaf, and is still sick today. According to Mr. Min, the kaolin clay (高嶺土), the raw material for Sanch’ŏng porcelain, covers about three or four square *ri*. Not only is the quantity the largest in Korea, but its quality is also not inferior to the famous Hadong Ch’ŏngsong product. Other materials like silica stone (硅石), feldspar (長石), and clay (粘土) are also abundant. Fireclay (耐火土), essential for porcelain manufacturing, is plentiful in Hamgyŏng Province, but transportation is inconvenient, so it is currently imported from Japan at a high cost of about 5 won per *kwe* (簣 - basket/container?). However, this region also has abundant fireclay, reducing this difficulty. Also, with Chirisan nearby, fuel is plentiful. Thus, from any perspective, the Sanch’ŏng porcelain manufacturing industry is not only promising for the future, but also, a prime section of about 40,000 *p’yŏng*, which had been licensed by the Tōkyō Jiki Stock Company (東京磁器株式會社), has now been relinquished due to circumstances. Therefore, if any capitalist among us Koreans were to pay attention to this, there would be great benefits for the future industrial world, he says.<19>
+
+Endangered Eggs Under a Fallen Nest - The Decline of Korean Industry in Kyŏngnam
+How could there be reason for endangered eggs under a fallen nest (覆巢危卵)? The land of Kyŏngnam has already become a hunting ground for outsiders. Moreover, Kyŏngnam, because (1) the climate is mild and good for living, (2) the land is fertile and harbors are good, making products abundant, (3) it is close to Japan, making transportation convenient, and (4) the people's hearts are simple, making it easy for foreign races to approach, has attracted foreign labor more severely than any other province in Korea.
+Among the industries of this province, the prominent ones currently are agriculture, industry, and fisheries, and the promising one for the future is forestry. However, witnessing how feeble Korean efforts are and how vigorous Japanese efforts are in managing these four major industries, our hearts cannot help but feel a renewed chill.
+
+First, looking at agriculture:
+Even according to the statistics of Taishō 9 (1920), among the total 277,681 farming households, Japanese farming households numbered 1,932, and Chinese farming households numbered 6. Looking at the numbers, it doesn't seem particularly significant. However, among Korean farming households, about 80% are tenant farmers (小作農戶) who have no choice. It goes without saying that they cannot exert any conscious effort towards farm management. Even owner-farmers (自作農戶) or large landowners mostly practice conventional, stopgap farming (姑息的 營農). In contrast, those Japanese farmers not only exert much conscious effort themselves but also generally have the constant support of individuals or society behind them. Compared to Koreans, they are truly advancing today with the force of one against a hundred.
+The land management of the aforementioned Tōyō Takushoku Company (東拓會社), for example, concentrates its efforts heavily in this province. The Tōtaku Pusan Branch (東拓釜山支店), established in Pusan's Sōsei-chō Gochōme (相生町五丁目 - Aioi-chō 5-chome?), currently employs 42 staff members and is busy with land management, immigration projects, and procuring colonization funds (拓植資金) in Kyŏngnam. The branch's current land holdings span 2 *pu* and 18 *kun*, reaching a total area of over 8,656 *chŏngbo*. The amount of colonization funds provided <20> also exceeds 3,760,000 won, and the prosperity of its business shows marked growth year after year, it is said.
+Distribution Status of Tōtaku Immigrants (As of Taishō 10 [1921]) [Table implied]
+
+Besides the management of such companies, there are quite a few individual farm managements of considerable scale. For example, the Murai Farm (村井農場) in Chinyŏng (進永), Ch’angwŏn County of this province, started its business way back in Meiji 41 (1908), and by around Taishō 4 (1915), it was already managing over 2,850 *chŏngbo* of land, continuing to this day. Furthermore, the southern coast of this province has deep tidal influence, and there is much state-owned unreclaimed tidal flat land (國有未墾地의 干潟地). The sharp-eyed and well-funded Japanese build dikes (防築) to create new paddy and dry fields, receiving leases or grants. During my recent visit to the southern coast, I often saw commemorative steles erected praising these dike-building Japanese along the roadsides, sufficient to gauge their painstaking efforts in land management.
+Despite the vigorous efforts of the Japanese in land management, all aspects related to this on the Korean side are conspicuously silent. Many tenant farmers struggle for daily meals and wander abroad as an annual event. The few landowners are solely preoccupied with how to extract even one more *sŏk* of rent, having no other concerns, seemingly awaiting a day of mutual collapse between rich and poor, which is truly lamentable beyond words.
+That's roughly the situation in agriculture.
+
+Now, let's glance at the fisheries sector.<21>
+
+How is it?
+Fishery management differs greatly in nature from land management. Simply catching the natural fish resources makes them one's property. Compared to agriculture, industry, or any other business, it yields greater returns with less effort. The approximately 200,000 brethren residing on the Korean peninsula, surrounded by sea on three sides, centering on the 43,950 *ri* coastline (combining mainland and islands), have actually lived a more comfortable life than any other brethren. The various marine products derived from it have been transported domestically and abroad, supplying the delicacies of the sea (海錯).
+Climbing even to the peak of Paektu Mountain (白頭山), searching even the streams of the Yalu River (鴨綠江), trying to scoop up even fallen grains of rice – this is the economic management policy of Japan and the Japanese towards Korea. How could their black hands neglect such a field as fisheries? Do not be surprised. Their hands and feet have already encircled the coastline like a spider's web. Now, let's briefly describe the power dynamics between Japanese and Koreans regarding fisheries in this province.
+At the end of Taishō 10 (1921), the total number of fishery operators residing in the province was 15,019 households, with 13,151 being Korean and 1,868 Japanese. In terms of households and population count, the Korean side always wins overwhelmingly. But what use is that? Just as the entire Korean nation, with a population of over 17 million, lost all political and economic real power to a mere 300,000 Japanese (residing within Korea), the over 13,000 native fishing households of Kyŏngnam are trampled by just 1,800 foreign fishermen. That is, looking at the catch value for Taishō 10 (1921), out of a total value of 17.53 million won, the Japanese catch value reached 12.29 million won, while the Korean catch was merely 5.24 million won. Thus, among the province's three major fisheries – sardines, mackerel, and cod – only in the cod (大口魚 - large-mouth fish?) catch do Koreans hold the main role. The catch of sardines and mackerel, with annual productions reaching 3 million and 1 million won respectively, largely falls into Japanese hands. Now, showing the catch of items with an annual production value over 300,000 won in this province, separated by Japanese and Korean, is as follows: <22> [Table implied]
+According to the table above, the quantity and value of fish caught by Koreans are only slightly more than one-third of that caught by Japanese. There is no other reason for this than: (1) Japanese fishermen generally form fishing villages (漁村), supported by prefectural authorities in their home country or by private capitalists or companies, possessing abundant capital, whereas Koreans lack this; (2) Korean fishermen continue their unconscious fishing operations using traditional methods and gear, whereas Japanese fishermen use some scientific techniques or modern fishing gear; (3) Japanese fishermen receive protection from the current authorities, reflecting national policy, whereas Koreans lack this protection.
+Thus, the Japanese fishery in this province grows stronger daily. Besides conducting coastal fishing, they pursue fish schools far out into offshore fisheries (冲合漁業). In recent years, they have started using motorized boats (發動機船) for fishing, achieving considerable results, it is said.
+Their catch is transported to mainland Japan. Seeing that the motorized boats engaged in this transport number no less than 300 <23> allows one to infer how prosperous their fishing industry is. Now, for reference, the general situation regarding Japanese fishing villages in this province is shown as follows: <24>
+Current Status of Japanese Engaged in Fisheries in South Kyŏngsang Province [Table implied]
+
+Regarding such fishing villages, the provincial authorities generally grant fishing grounds within a certain area, prohibiting free fishing by nearby Koreans. As a result, traditional fishermen suffer enormous blows to their fishing activities, and conflicts frequently arise between Korean and Japanese fishermen, but the outcome is inevitably the defeat of the Koreans.
+Furthermore, looking at marine products, the total product value in Taishō 10 (1921) was 10.59 million won, of which the Japanese share reached 6.63 million won, again showing superiority. Moreover, looking at aquaculture (魚類養殖業), there is nothing noteworthy under Korean management, while Japanese endeavors like the eel farming (鰻養殖) by Nippon Shokusan Stock Company (日本殖産株式) manage an aquaculture farm of about 50,000 *p'yŏng* on the banks of the Naktong River.
+
+The province's industry, as briefly mentioned in a separate section, still hasn't escaped the primitive handicraft era for traditional industries. Meanwhile, Japanese-managed enterprises like the Chōsen Bōseki in Pusan and the Kōshitsu Tōki Company in Mokto are newly emerging today. The Japanese-run brewing industry centered in Pusan is also famous in this province.<25>
+
+Commerce is centered around Pusan.
+For a time around Taishō 8-9 (1919-1920), commercial institutions of individuals or companies like Paeksan Trading (白山貿易) and Chuil Company (周一商會) emerged rapidly, presenting a prosperous scene attracting many customers (萬客其來). However, since the summer of Taishō 9 (1920), along with the financial crunch, everything collapsed, and now there is nothing much to see. Although on a small scale, the Korean commercial sector in Masan seems to be achieving rather steady development.
+In short, just as the Korean commercial sector in Kyŏngsŏng revolves around the Japanese in Nihyŏn (泥峴 - mud hill?), the Korean commercial sector in Kyŏngnam also revolves around the Japanese in Pusan. They are like the warp of a net (網) or the collar of a garment (領). For example, individuals like Katori Gentarō (香推源太郞?), Hakama Bōtarō (迫問房太郞), and Ōike Chūsuke (大池忠助) residing in Pusan are all millionaires (*paengman changja* - 百萬의 長者), and the economic power they possess is not necessarily confined to the Kyŏngnam region alone.
+
+At Japan's Farmers' Convention (農民大會),
+an agenda for land nationalization was recently passed, and they decided to campaign for its implementation. This was because if it happened, it would bring equal welfare to the general populace. However, in present-day Korea, whether it's fields, paddies, or forest land, if it becomes state-owned (國有), 99% of it ends up being utilized, no, granted (讓受), exclusively to the Japanese side. There are, of course, various reasons for this. Issues of capital and technology certainly exist. But among them, the unique reason is that it is done as a matter of national policy from the perspective of Japan and the Japanese. Looking primarily at the state-owned unreclaimed land (國有未墾地) in this province, by the end of Taishō 9 (1920), over 3,000 *chŏngbo* of wilderness, grassland, wasteland, tidal flats, and marshland had been leased. This leased land is used for paddy fields, dry fields, afforestation, orchards, forest gardens, and other miscellaneous purposes, with over 2,600 *chŏngbo* reclaimed as paddy fields. Whether paddy fields, dry fields, or horticultural plots, these leased areas were naturally granted exclusively to Japanese. Since this phenomenon has continued rapidly after the end of Taishō 9 (1920), the power gained by the Japanese through the reclamation of state-owned unreclaimed land must be truly immense.
+Also, looking at forest land: the total forest area in this province as of Taishō 10 (1921) was over 881,000 *chŏngbo*. By the same year, over 108,000 *chŏngbo* had been leased. Thus, it must be assumed that much of this has also entered the sphere of influence of the Japanese side. Given the particular negligence of the Korean side regarding forestry, the power of foreigners over forest land must also be immense. To think that at one time, they mindlessly turned those mountains into bald mountains, and now, they are again mindlessly entrusting those bald mountains to foreigners, leaves one speechless.<26>
+
+To speak of the power of foreigners in terms of industry, there are still various aspects, but it's impossible to cover everything. One final point to make concerns the power of the Japanese in this province's transportation and communication industry. Generally, when an immigrant group with different customs, clothing, manners, and language intends to move into another region, the first priority is the opening of transportation and communication facilities. Without them, neither a single individual nor a multitude of people can transport the goods from their home country needed for clothing, food, and shelter. Look! Once the Kyŏngbu Line (京釜線) was opened, major areas along the line, starting with Pusan and Taejŏn, were occupied by those Japanese overnight. After the March First Movement (萬歲運動) erupted in Taishō 8 (1919), they immediately focused on the economic occupation of Korea. The primary focus of this plan was first the completion of a railway network covering all of Korea. As the first step, private railway companies (私鐵會社) were initiated in various places, and the authorities strongly encouraged their completion. This truly shows they grasped the knack of colonization (拓植). Looking at Kyŏngnam Province, the Nansen Tetsudō Stock Company (南鮮鐵道株式), with a nominal capital of 10 million won and paid-in capital of 1.5 million won, has its head office in Masan and is steadily proceeding with its business. This company plans to build a light railway (輕鐵) starting from Masan, passing through Chinju, Hadong, Kurye, Koksŏng, Sunch’ang, and Kwangju to Songjŏng-ri, and also from Wŏnch'on in Namwŏn to Chŏnju in North Chŏlla, thus traversing the southern part of Korea. They expect to see the opening of the section in Puk-myŏn, Masan County around October of this year. Once these lines are opened, the face of southern Korea will surely be renewed, and with that renewal, we will see a corresponding development of Japanese power.<27>
+
+Chirisan University Forest, the Object of Kyŏngnam People's Resentment (怨府)
+Chirisan (智異山) is called the treasure house (寶庫) of southern Korea because its land is fertile and its products are abundant. The people living nearby have farmed here, pastured animals here, hunted pheasants and rabbits here, and also made and sold woodenware, charcoal, bamboo items, etc., for thousands of years, living a free and contented life. Therefore, people of the world all called this Chirisan an ideal land (理想の鄕) or a mystical den (神秘の窟), envying it and singing its praises. If the people nearby were to lose their rights to Chirisan, it would be like fish losing water or living beings losing air – such is the vital connection. In other words, Chirisan is the lifeblood of the people nearby. However, their lifeblood was already stolen by others over ten years ago. That is, the Government-General of Chosŏn (朝鮮總督府), under the name of a so-called University Practice Forest (大學演習林), leased Chirisan free of charge for a long term of 80 years to Japan's Kyōto and Kyūshū Universities, effective December 12, Taishō 1 (1912). Looking at the content of the lease directive now, it is as follows:
+I. Location and Area
+Kyŏngnam Hamyang County 11,754 *chŏngbo*
+
+Sanch’ŏng County 3,012 *chŏngbo*
+
+Total 14,766 *chŏngbo*
+
+Above for Kyōto Imperial University (京都帝國大學)
+I.
+Sanch’ŏng County 13,899 *chŏngbo*
+
+Hadong County 14,905 *chŏngbo*
+
+Total 28,804 *chŏngbo*
+
+Above for Kyūshū Imperial University (九州帝國大學)
+I. Purpose: University Practice Forest business
+I. Lease Period: From December, Taishō 1 (1912) to November, Taishō 81 (2002) (80 years)
+I. Lease Fee: None
+I. Forest Products: Forest products accompanying the practice forest business operations are transferred free of charge.
+This huge tract of land, 43,570 *chŏngbo*, is <28> of course state-owned (國有) from a legal perspective, and the Government-General can freely dispose of this state-owned land by leasing or selling it to others. However, in reality, not all of it is state-owned; below the middle peak (中峯), that is, more than two-thirds, is privately owned (民有). Originally, when the Government-General surveyed the land, it notified the people to prove their ownership rights within a certain period. But how could the ignorant mountain people know what rights were, or what state ownership was? While they were peacefully sleeping, the merciless deadline quickly passed, and the paradise (樂土) pioneered by the sweat and blood of their ancestors was lost overnight. The heavens are silent (蒼天無語), the mountain spirits are indifferent (山靈無心), so even if the people lament and grieve, who can possibly understand? Moreover, the resident Japanese, who suck the blood and scrape the bones of Koreans, saw this as an opportunity. Ostensibly claiming to utilize forest products and promote the common interests of the residents, they organized so-called Common Benefit Cooperatives (共益組合). They demand payment of a certain amount, and if one does not become a member, they do not issue an entry permit (入山證), preventing the making of woodenware, charcoal, etc. Furthermore, the University designates a so-called raw timber price (原木代金) (This price is not a certain amount per tree, but a few *sen* (錢) per piece of woodenware). The cooperative collects the designated price; for example, if a pair of wooden clogs (木履) has a market price of 40 *sen* and the university-designated price is 10 *sen*, the cooperative collects 20 *sen*, giving 10 *sen* to the university as revenue and keeping 10 *sen* as cooperative revenue. Ultimately, the maker has to pay out about 50% of the actual product price. Also, charcoal makers are not allowed to produce charcoal under their own management; they must produce it under the name of the cooperative, receiving only a small wage (質金?) for producing a certain number of *sŏk* of charcoal. When this cooperative was first established, Koreans were also members, but due to the power of money and politics, they were naturally pressured, and all Koreans lost their membership qualifications, making it the exclusive domain of a few Japanese. (Regarding this, there was much popular discontent, so last year in Sanch’ŏng, the county office intervened, allowing woodenware makers to directly organize a Woodworkers' Cooperative (木工組合), supervised by the township head (面長), and severing ties with the former Common Benefit Cooperative. The burden on makers was reduced by about 5 *po* (步?), but charcoal production is still directly managed by the Common Benefit Cooperative.) Besides this, the University also forces the residents at the foot of the mountain to form so-called Forest Protection Cooperatives (山林保護組合), collects cooperative fees, and prevents anyone who is not a member from gathering even a single blade of grass (including mountain vegetables and medicinal herbs) or a piece of wood. Even this Protection Cooperative is not freely organized by the people; the township organizes it, the township head must be the cooperative head, and the permit application must go through the county office to the University Practice Forest Management Office (大學演習林管理事務所) in Hadong County. This office then reports to the University to obtain permission. Because such useless procedures are complicated, <29> time naturally drags on, and the people often miss the timing for cutting even the firewood essential for their livelihood, causing immense hardship. What is also alarming here are the so-called brokers (紹介業者) and moneylenders (高利貸金業者). Rootless vagrants (無賴漢) who have wandered into these mountains from various places, lacking fixed assets, collude with the so-called Common Benefit Cooperative, acting as brokers or patrons for woodenware makers, greedily demanding unreasonable commissions (口文) and food and drink. The Japanese members of the Common Benefit Cooperative, on the other hand, also engage in usury, sucking dry the blood of the woodenware makers. In places like Tŏksan (德山) (Sigak-myŏn (矢川面?), Sanch’ŏng County), there was a case where a Japanese member of the Common Benefit Cooperative lent 2 won to a Korean and received 60 won back after three years. There was also a case where someone who borrowed 20 won, after repaying 15 won, had compound interest charged on the remaining 5 won, and after three years, even after selling household goods and furniture (家庄什物), paid 100 won but still could not clear the debt. As seen above, since Chirisan was leased as a so-called University Practice Forest, the residents at its foot have been deprived of their interests in various ways, naturally leading to hardship in their lives. The result is the commission of appalling criminal acts such as robbery, theft, and gambling. Looking at the crime statistics for all of Kyŏngnam, Sanch’ŏng County has the most robberies and thefts, and within that county's statistics, the areas near Chirisan, namely Samjang (三莊) and Sigak (矢川) townships, have the most. Ah, whose fault is this truly? Though all under heaven is the king's land (普天之下 莫非王土), why do the people at the foot of Chirisan particularly suffer this tragic calamity? The Chŏng Kam Nok (鄭堪錄) said Chirisan is one of the Ten Victory Sites (十勝之地), but this turned out wrong; only the phrase "Who is killing me? The small-headed, footless one" (殺我者誰 小頭無足) proved correct. That is, they are fated to die by the hands of shaven-headed foreigners (外人). What was the intention of the Government-General when it initially leased this Chirisan to the two universities? And what was the meaning behind the two universities accepting the lease? There is no need to further discuss the underlying details, but ostensibly, the purpose was to protect the forest, supply materials needed for academic research, and consequently set an example for Koreans. However, since leasing it, what kind of facilities have the two universities actually established to set an example for the general public? They merely cut down the existing forests, collect the raw timber fees, and, as a token gesture (塞責上), transplant a few black pine seedlings onto about 1.5 *chŏngbo* (1町 5反) of poor soil, calling it the Practice Forest of such-and-such University. Is this truly the original intent of the Government-General in leasing it, and the original intent of the two universities in managing the practice forest? However, these two universities also merely drain the lifeblood (膏澤) of the residents to fill the private pockets (私腹) of the Common Benefit Cooperative, gaining no actual benefit for their own universities. Looking at the recent annual income for the 16,991 *chŏngbo* of practice forest in Sanch’ŏng County belonging to the two universities, it was 686 Won 64 Chŏn 2 Ri (from April, Taishō 10 to March, Taishō 11), <30> with the highest annual amount being 151 Won 51 Chŏn. Calculating proportionally for the entire practice forest area of 43,570 *chŏngbo*, it comes to about 20,000 won annually. However, after deducting the salaries of the managing staff and guards and other expenses, there is not only no profit, but it is said that when personnel are dispatched from the universities for so-called inspections or whatever each year, the university's expenses are covered instead. Then, what need do the universities have to persistently hold onto this lease right? And why does the Government-General calmly overlook actions contrary to the original purpose of the lease and not cancel it? Whether it benefits the universities or not is not our concern, but in this era professing cultural rule (文化政治), if industry or education is to be centered on Koreans, why lease Chirisan, the treasure house of Korea, to Japan's Kyūshū University or Kyōto University, located tens of thousands of *ri* away and having no connection whatsoever? Britain annexed India, but we have not heard that the Governor-General of India leased the Himalayas (雪山) to London University or Cambridge University (釰橋大學?). France made Annam its territory, but we have not heard that it leased the Cloud Range (雲嶺?) to Paris University (巴里大學). We can only fervently hope that the Government-General, for the sake of the happiness of the people of the various counties at the foot of Chirisan and considering the discontent of the general Korean populace, will realize the unreasonableness and inconsistency of this past action and cancel the lease right as soon as possible, leasing it instead to operators of Korean educational projects.
+(There are many such University Practice Forests in various parts of Korea, but since this issue of the magazine is the Kyŏngnam Province issue, we specifically discuss only Chirisan.)
+
+Wooden Clog Seller's Cold Spell (木屐商寒)
+The cold spell on the 22nd day of the 12th lunar month (臘月 22日) is called the "wooden clog seller's cold spell" (나무신 장사 치우) in Chinju. According to folk tales, a certain person in Chinju Castle wanted to kill someone he hated. He sent a letter from places like Tŏksan, instructing, "Kill this person as soon as he arrives," and entrusted the letter to that person. As that person was carrying the letter, he happened to give it to a wooden clog seller. The wooden clog seller delivered the letter and was unjustly killed. Therefore, it is said that it definitely gets cold on that day. This is close to fiction, but it is similar to how the cold spell on the 20th day of the 10th lunar month near Kyŏnggi province is called the Son Sŏk Hang (孫石項 - Sondolmok) cold spell.<31>
+
+**Summary**
+
+This 1923 article from *Kaebyŏk* magazine provides a detailed socio-economic survey of Kyŏngsangnam-do under Japanese colonial rule. It covers geography, history, demographics, climate, and extensively details the stark disparities in education, favoring Japanese residents overwhelmingly in terms of school access, funding, and types of institutions available. The report analyzes the province's major industries—agriculture, forestry, fisheries, manufacturing, and commerce—highlighting the region's natural wealth but emphasizing the systemic marginalization of Koreans and the aggressive economic penetration by Japanese individuals and corporations like the Tōyō Takushoku and Murai Farm, who dominate land ownership, resource extraction (especially fisheries and forestry), and emerging industries. The article expresses deep resentment towards colonial policies, exemplified by the controversial leasing of vast tracts of Chirisan (Mt. Jiri) to Japanese universities, which dispossessed local Koreans and facilitated exploitation through intermediary organizations, leading to social distress and crime.
+
+For historians, this article is valuable as a contemporary Korean perspective offering rich statistical data (though sometimes incomplete or presented narratively) and qualitative descriptions of colonial realities in a specific region just a few years after the 1919 March First Movement. It vividly documents the mechanisms of economic colonization, the stark educational inequalities fueling resentment, the environmental impact of resource exploitation (both deforestation and reforestation efforts under Japanese control), and the palpable sense of loss and anger among Koreans, particularly regarding land alienation and the Chirisan University Forests, offering insights into the socio-economic roots of anti-colonial sentiment.
+
+**Named Entities**
+
+開闢 제34호	개벽 제34호	Kaebyŏk No. 34
+慶南 (慶尙南道)	경남 (경상남도)	Kyŏngnam (Kyŏngsangnam-do / South Kyŏngsang Province)
+朝鮮	조선	Chosŏn (Korea)
+全羅南北二道	전라남북도	North and South Chŏlla Provinces
+慶尙北道	경상북도	North Kyŏngsang Province
+洛東江	낙동강	Naktong River (Naktonggang)
+大正	대정	Taishō (Japanese era, 1912-1926)
+晉州	진주	Chinju
+馬山	마산	Masan
+釜山	부산	Pusan
+梁山	양산	Yangsan
+蔚山	울산	Ulsan
+東萊	동래	Tongnae
+金海	김해	Kimhae
+昌原	창원	Ch’angwŏn
+山淸	산청	Sanch’ŏng
+咸陽	함양	Hamyang
+宜寧	의령	Ŭiryŏng
+密陽	밀양	Miryang
+統營	통영	T’ongyŏng
+固城	고성	Kosŏng
+泗川	사천	Sach’ŏn
+南海	남해	Namhae
+居昌	거창	Kŏch’ang
+陜川	합천	Hapch’ŏn
+河東	하동	Hadong
+弁韓	변한	Pyŏnhan
+伽倻國	가야국	Kaya States
+新羅	신라	Silla
+高麗	고려	Koryŏ
+成宗	성종	King Sŏngjong
+金州	금주	Kimju
+嶺東道	영동도	Yŏngdong-do
+山南道	산남도	Sannam-do
+明宗	명종	King Myŏngjong
+晉陜州道	진합주도	Chinhapchu-do
+忠肅	충숙	King Ch’ungsuk
+慶尙道	경상도	Kyŏngsang-do
+李朝	이조	Yi Dynasty (Chosŏn Dynasty)
+中宗	중종	King Chungjong
+宣朝 (宣祖)	선조	King Sŏnjo
+大邱	대구	Taegu
+星州	성주	Sŏngju
+高宗太皇帝	고종태황제	Emperor Kojong
+日本	일본	Ilbon (Japan)
+朝鮮總督府	조선총독부	Chōsen Sōtokufu (Government-General of Chosŏn)
+釜山中學校	부산중학교	Pusan Middle School
+東萊高等普通學校	동래고등보통학교	Tongnae Higher Common School
+咸陽	함양	Hamyang (location of school)
+晉州農業學校	진주농업학교	Chinju Agricultural School
+釜山公立商業學校	부산공립상업학교	Pusan Public Commercial School
+鎭海	진해	Chinhae
+私立釜山實習女學校	사립부산실습여학교	Private Pusan Practical Girls' School
+私立釜山商業夜學校	사립부산상업야학교	Private Pusan Commercial Night School
+一新高等普通學校	일신고등보통학교	Ilsin Higher Common School
+天道敎	천도교	Ch’ŏndogyo
+大宗敎	대종교	Taejonggyo
+太乙敎	태을교	T’aeŭlgyo
+神道	신도	Shinto
+全羅南道	전라남도	South Chŏlla Province
+欲知島	욕지도	Yokchido
+甄萱	견훤	Kyŏn Hwŏn
+王建太祖	왕건태조	Wang Kŏn T’aejo (Founder of Koryŏ)
+京釜線	경부선	Kyŏngbu Line (Seoul-Pusan railway)
+東洋拓殖 (東拓)	동양척식 (동척)	Tōyō Takushoku (Tōtaku, Oriental Development Company)
+朝鮮興業	조선흥업	Chōsen Kōgyō
+森農場	삼농장 (?)	Mori Farm (Romanization based on likely Japanese reading)
+東山農場	동산농장	Tōsan Farm (Romanization based on likely Japanese reading)
+右近農場	우근농장 (?)	Ukon Farm (Romanization based on likely Japanese reading)
+村井農場	촌정농장 / 무라이 노조	Murai Farm (Murai Nōjō)
+態本農場	태본농장 (?)	Kumamoto Farm (?) (Reading uncertain, possibly relates to Kumamoto prefecture)
+石川縣農業株式	석천현농업주식 (?)	Ishikawa Prefecture Agricultural Stock Company (Reading based on Japanese)
+細川農場	세천농장 (?)	Hosokawa Farm (Romanization based on likely Japanese reading)
+齊藤農場	제등농장 (?)	Saitō Farm (Romanization based on likely Japanese reading)
+日海興業株式出張所	일해흥업주식출장소 (?)	Nichikai Kōgyō Stock Company Branch Office (Reading based on Japanese)
+黃州	황주	Hwangju
+水原	수원	Suwŏn
+木浦	목포	Mokp'o
+井邑	정읍	Chŏngŭp
+金堤	김제	Kimje
+益山	익산	Iksan
+鎭南浦	진남포	Chinnamp'o
+沙里院	사리원	Sariwŏn
+日本硬質陶器株式支店	일본경질도기주식지점	Nippon Kōshitsu Tōki Stock Company Branch
+朝鮮纖維工業株式	조선섬유공업주식	Chōsen Sen'i Kōgyō Stock Company
+龜浦	구포	Kup’o
+牧島	목도	Mokto (island)
+大阪	대판	Osaka
+蟾津江	섬진강	Sŏmjin River (Sŏmjingang)
+靈山	영산	Yŏngsan
+草溪	초계	Ch’ogye
+新反紙	신반지	Sinban paper
+富林面	부림면	Purim-myŏn
+土谷廢風	토곡폐풍 (?)	T'ogok p'yep'ung (Unclear product, possibly a type of cloth)
+宮柳面	궁류면	Kungnyu-myŏn
+銀魚	은어	Ŭnŏ (Sweetfish)
+濁酒	탁주	T'akchu (Turbid rice wine)
+丹城	단성	Tansŏng
+黙室	묵실	Muksil
+明綿	명면	Myŏngmyŏn (type of cotton)
+淸溪	청계	Ch'ŏnggye
+白雲	백운	Paegun
+城內里	성내리	Sŏngnae-ri
+文臺	문대	Mundae
+召南	소남	Sonam
+漆原	칠원	Ch'irwŏn
+閔泳直	민영직	Min Yŏngjik
+土地調査局	토지조사국	T’oji Chosaguk (Land Survey Bureau)
+京城	경성	Kyŏngsŏng (Colonial name for Seoul)
+中央試驗所	중앙시험소	Chungang Sihŏmso (Central Laboratory)
+今西面	금서면	Kŭmsŏ-myŏn
+特里	특리	T'ŭk-ri
+窯業組合	요업조합	Yoŏp Chohap (Ceramics Cooperative)
+山淸磁器株式會社	산청자기주식회사	Sanch’ŏng Chagi Chusikhoesa (Sanch’ŏng Porcelain Stock Co.)
+東京磁器株式會社	동경자기주식회사	Tōkyō Jiki Stock Company (Tokyo Porcelain Stock Co.)
+高嶺土	고령토	Koryŏngt'o (Kaolin clay)
+硅石	규석	Kyusŏk (Silica stone)
+長石	장석	Changsŏk (Feldspar)
+粘土	점토	Chŏmt'o (Clay)
+耐火土	내화토	Naehwat'o (Fireclay)
+咸鏡道	함경도	Hamgyŏng Province
+白頭山	백두산	Paektu Mountain (Paektusan)
+鴨綠江	압록강	Amnokkang (Yalu River)
+日本殖産株式	일본식산주식	Nippon Shokusan Stock Company
+白山貿易	백산무역	Paeksan Muyŏk (Paeksan Trading)
+周一商會	주일상회	Chuil Sanghoe (Chuil Company)
+泥峴	니현	Nihyŏn
+香推源太郞	향추원태랑 (?)	Katori Gentarō (?) (Name reading uncertain)
+迫間房太郞	박간방태랑 (?)	Hakama Bōtarō (?) (Name reading uncertain)
+大池忠助	대지충조 (?)	Ōike Chūsuke (?) (Name reading uncertain)
+南鮮鐵道株式	남선철도주식	Nansen Tetsudō Stock Company (South Chosŏn Railway Co.)
+求禮	구례	Kurye
+谷城	곡성	Koksŏng
+淳昌	순창	Sunch’ang
+光州	광주	Kwangju
+松汀里	송정리	Songjŏng-ni
+南原	남원	Namwŏn
+院村	원촌	Wŏnch'on
+全北 (全羅北道)	전북 (전라북도)	Chŏnbuk (North Chŏlla Province)
+全州	전주	Chŏnju
+智異山	지리산	Chirisan (Mt. Jiri)
+京都帝國大學	경도제국대학	Kyōto Imperial University
+九州帝國大學	구주제국대학	Kyūshū Imperial University
+共益組合	공익조합	Kongik Chohap (Common Benefit Cooperative)
+木工組合	목공조합	Mokkong Chohap (Woodworkers' Cooperative)
+山林保護組合	산림보호조합	Sallim Poho Chohap (Forest Protection Cooperative)
+大學演習林管理事務所	대학연습림관리사무소	Taehak Yŏnsŭprim Kwalli Samuso (University Practice Forest Management Office)
+德山	덕산	Tŏksan
+矢川面	시천면	Sich'ŏn-myŏn (likely intended by 矢川面)
+三莊面	삼장면	Samjang-myŏn
+鄭堪錄	정감록	Chŏng Kam Nok
+京畿	경기	Kyŏnggi Province
+孫石項 (손돌목)	손석항 (손돌목)	Son Sŏk Hang (Sondolmok)
+
+**Glossary**
+
+本道	본도	This province (referring to Kyŏngsangnam-do)
+在하니	재하니	Being located at/in (older form of 있다/계시다 + -하니)
+隣하고	린하고	Bordering (older form, now 인접하고)
+瀕하얏다	빈하얏다	Faced/bordered (the sea) (older form of 접해 있다/면해 있다)
+亙함으로	긍함으로	Stretching across, spanning (older form)
+低下하며	저하하며	Being low-lying
+貫流하야	관류하야	Flowing through (older form of 관류하여)
+其	기	Its, their (Hanja pronoun)
+叅差屈曲	참차굴곡	Indented and winding, irregular
+巷布星列	항포성렬	Scattered like streets and lined up like stars (describing islands)
+次한	차한	Next to, following (used like 다음가는)
+되나니라	되나니라	Becomes (older narrative ending)
+沿革	연혁	History, historical development
+稱하다가	칭하다가	Was called, named (older form of 칭했다가)
+仍稱하고	잉칭하고	Continued to be called (older form)
+作하얏다가	작하얏다가	Made, established (older form of 만들었다가)
+罷하고	파하고	Abolished (older form of 폐지하고)
+翌年	익년	The following year
+復合	복합	Reunified
+設營	설영	Established a military headquarters
+置한	치한	Placed, established (older form of 둔)
+至하니라	지하니라	Reaches to, continues to (older narrative ending)
+方里	방리	Square *ri* (unit of area, approx. 0.154 sq km per *ri* squared)
+此	차	This (Hanja pronoun)
+分하얏스니	분하얏스니	Is divided into (older form of 나누었으니)
+달하며	달하며	Reaches, amounts to
+如하다	여하다	Is as follows (older form)
+如左	여좌	As follows (lit. 'like left', common in older texts to refer to info below/following)
+屢年	누년	Year after year, consecutive years
+此外	차외	Besides this, in addition
+有함	유함	There is/are (older nominalized form of 있다)
+倂置	병치	Established together, combined
+然而	연이	However, but (older conjunction)
+就學	취학	School attendance
+至	지	To, until (used like 까지)
+如	여	Like, as
+無함	무함	There is not/are none (older nominalized form of 없다)
+有하며	유하며	Having, possessing (older form of 있으며)
+得하얏다	득하얏다	Obtained, received (older form of 얻었다)
+云한다	운한다	It is said (older form)
+官公立	관공립	Official public (schools)
+如何한가	여하한가	How is it? What is the situation? (older interrogative)
+其中	기중	Among them/which
+影響	영향	Influence, effect
+受하야	수하야	Receiving (older form of 받아서)
+有志	유지	Influential/interested individuals, volunteers
+此外	차외	Besides this
+幷	병	Including, combined
+與하야	여하야	Giving (older form of 주어서)
+淵藪	연수	Fount, source, center (esp. of learning/thought)
+膠守	교수	Adhere rigidly to
+受함으로	수함으로	Receiving (older form of 받으므로)
+盛旺	성왕	Flourishing, prosperous
+萎靡不振	위미부진	Stagnant, listless, depressed
+至하야는	지하여는	Reaching, arriving at (older form)
+頗	파	Quite, considerably
+栽植	재식	Planting, cultivation
+適好하며	적호하며	Being suitable, favorable
+달하야	달하야	Reaching (older form of 달하여)
+藻類	조류	Algae, seaweed
+促함이	촉함이	Urging, prompting (older nominalized form)
+잇고져	있고져	Wishing to have/be (older desiderative form of 있다)
+아울너	아울러	Together with, along with
+일우엇다	이루었다	Formed, constituted (older spelling)
+町步	정보	*Chŏngbo* (unit of area, approx. 1 hectare)
+戶數	호수	Number of households
+當할	당할	Corresponding to, per
+反	반	*Tan* (unit of area, 1/10 of a *chŏngbo*)
+畝	묘	*Myo* (unit of area, 1/10 of a *tan*)
+計	계	Total
+石	석	*Sŏk* (unit of volume, approx. 180 liters)
+亦	역	Also
+年輸移出	연수이출	Annual export
+特用作物	특용작물	Special crops, cash crops
+陸地綿	육지면	Upland cotton
+苧麻	저마	Ramie
+楮	저	Paper mulberry
+莞草	완초	Rush grass (for weaving mats)
+柿	시	Persimmon
+苹果	빈과	Apple (older term)
+甚多하야	심다하야	Being very numerous (older form of 아주 많아서)
+古來	고래	Since ancient times
+飼畜	사축	Livestock raising
+업스며	없으며	Not having, lacking (older spelling)
+다못	다만	Only, merely (older spelling)
+잇슬 뿐이다	있을 뿐이다	There are only (older spelling)
+임야	임야	Forest land
+일즉브터	일찍부터	From early on (older spelling)
+남아지	나머지	The remainder (older spelling)
+無林木地	무림목지	Unforested land
+브터	부터	From (older spelling)
+了하엿스니	료하엿스니	Completed (older form of 완료하였으니)
+財源涵養	재원함양	Cultivation of financial resources
+要할	요할	Requiring, needing
+旣히	기히	Already (older spelling)
+許하는대	허하는대	Permitting, allowing (older spelling)
+尙又	상우	Furthermore, moreover
+喫驚케	끽경케	To shock, startle
+亙하야	긍하야	Spanning, covering (older form)
+되야	되어	Becoming (older spelling)
+自誇하난	자과하난	Boasting (older spelling/form)
+是亦	시역	This also
+擧皆	거개	Altogether, entirely
+瀕한	빈한	Bordering (the sea)
+나리는고로	나리는고로	Because it extends down to (?) (Meaning related to geography, possibly 'reaches')
+至하며	지하며	Reaches
+岬角灣澳	갑각만오	Capes, bays, and coves
+碁布	기포	Scattered like Go stones
+尋	심	*Chim* (fathom, unit of depth)
+際하야	제하야	Bordering, at the junction of (older form)
+鰮	원	Sardine (Hanja)
+鯖	청	Mackerel (Hanja)
+鰆	춘	Spanish mackerel (Hanja)
+鱈	설	Cod (Hanja)
+鰊	련	Herring (Hanja)
+稱되며	칭되며	Being called/referred to as
+上하야	상하야	Amounting to, reaching (older form)
+及하는	급하는	Affecting, reaching
+巨資	거자	Huge capital
+跨在하야	과재하야	Spanning across, straddling
+稻租	도조	Rice paddy (as rent/tax)
+幾何	기하	Some amount, how much
+可觀	가관	Worth seeing, remarkable
+宏大하다	굉대하다	Is vast, large-scale
+試하야	시하야	Trying, attempting (older form of 시험하여)
+工産額	공산액	Industrial production value
+漆器	칠기	Lacquerware
+莚席	연석	Straw mats (woven)
+此外	차외	Besides this
+釀造業	양조업	Brewing industry
+機業	기업	Weaving industry
+麻布	마포	Hemp cloth
+苧布	저포	Ramie cloth
+反	반	*P’il* (bolt, unit for cloth)
+價額	가액	Value, price
+産하여섯다	산하여섯다	Produced (older past tense form)
+製紙業	제지업	Paper manufacturing industry
+斤	근	*Kŭn* (catty, unit of weight, approx. 600g)
+至하는	지하는	Reaching
+粗製濫製	조제남제	Crude and excessive production
+算한다	산한다	Is calculated at
+近하야	근하야	Being close (older form of 가까워서)
+輸移出入	수이출입	Export and import
+金巾類	금건류	Cotton piece goods (calico, etc.)
+繩叺	승합	Ropes and straw bags (*kamasu*)
+繭	견	Cocoon
+生皮	생피	Rawhide
+海藻	해조	Seaweed
+處	처	Place, location
+ 저명하며	저명하며	Being famous, well-known
+取引所	거래소	Exchange (market)
+一束	일속	A bundle, a collection
+石花	석화	Oysters (lit. stone flower)
+沃野	옥야	Fertile field/plain
+大部	대부	Large part, major portion
+海衣 (짐)	해의 (짐)	Seaweed (Gim/Laver) (lit. sea clothes)
+想必	상필	Surely, undoubtedly
+獲利	획리	Profit-making
+資	자	Resource, means
+煙草專賣制	연초전매제	Tobacco monopoly system
+虞	우	Concern, worry
+鱸魚	노어	Perch, sea bass
+江底	강저	River bottom
+甚適하다	심적하다	Is very suitable/agreeable
+홍합	홍합	Mussels
+南苧	남저	Southern Ramie
+멜치	멜치	*Melchi* (Anchovy/Sardine - colloquial term for 鰮魚)
+시금菜	시금채	Spinach (older spelling '채')
+四時長靑	사시장청	Green year-round (lit. four seasons long green)
+芦席	노석	Reed mat
+芦田	노전	Reed field
+無際	무제	Boundless, limitless
+洛花生	낙화생	Peanuts (older term)
+水芹	수근	Water celery
+殼物	각물	Grain (general term)
+草席	초석	Straw mat
+新反紙	신반지	Sinban paper (type of paper)
+廢風	폐풍 (?)	Possibly P'aep'o (hemp cloth) (風 is likely phonetic rendering or error for 布)
+磁器	자기	Porcelain
+陶器	도기	Pottery, earthenware
+靑葱	청총	Green onion, scallion
+礪石	여석	Whetstone
+扇子	선자	Fan (folding)
+白柿	백시	Dried persimmon (white surface)
+朝鮮紙	조선지	Korean paper (Hanji)
+*萄	포 (?)	*P'ot'a* (unknown fruit, possibly archaic or local name. Description: 'taste like chestnut, body large')
+技手	기수	Technician, engineer (older job title)
+苦心人	고심인	Person who labored hard/agonized
+星霜	성상	Years (lit. stars and frost)
+試片	시편	Test piece, sample shard
+補助	보조	Subsidy, assistance
+登窯	등요	Climbing kiln
+全傾	전경	Exhausted entirely (fortune)
+株式會社	주식회사	Stock company, corporation
+財界不況	재계불황	Economic recession
+成病	성병	Became ill
+不下하며	불하하며	Not being inferior to
+簣	궤	Basket, container (unit of measure?)
+覆巢危卵	복소위란	Endangered eggs under a fallen nest (idiom for precarious situation)
+獲場	획장	Hunting ground, place of acquisition/exploitation
+肥하고	비하고	Being fertile
+良하야	양하야	Being good (older form of 좋아서)
+富하고	부하고	Being abundant, rich
+外人	외인	Foreigner, outsider
+勞力	노력	Labor, effort (here context implies exploitation of resources/opportunities)
+如何히	여하히	How, in what way (older spelling)
+빈약하며	빈약하며	Being poor, meager, weak
+왕성한	왕성한	Being vigorous, prosperous
+心膽	심담	Heart and gallbladder (metaphor for courage/spirit)
+서늘해짐을	서늘해짐을	Becoming cool/chilled (metaphor for fear/dread)
+업섯다	없었다	Was not, did not exist (older spelling)
+몬져	먼저	First (older spelling)
+小作農戶	소작농호	Tenant farmer household
+姑息的	고식적	Stopgap, makeshift, conventional (negative nuance)
+營農	영농	Farming, farm management
+彼	피	That, those (Hanja pronoun, referring to Japanese)
+背景	배경	Background, backing, support
+有하야	유하야	Having (older form of 있어서)
+一當百	일당백	One against a hundred (idiom for overwhelming force)
+致하야	치하야	Devoting, applying (efforts)
+亙하야	긍하야	Spanning, covering
+融通額	융통액	Amount financed/loaned
+如許히	여허히	Like this, to such an extent
+寥寥無聞	요요무문	Scarce and unheard of, negligible
+加取할가	가취할가	Whether to take more/increase (rent)
+餘念	여념	Other thoughts/concerns
+共倒	공도	Mutual collapse
+寒心不己	한심불기	Endlessly lamentable/pitiful
+如斯하다	여사하다	Is like this
+一瞥한다	일별한다	To glance at
+魚物	어물	Fish products
+獲取	획취	To capture, obtain
+圍한	위한	Surrounding (older form of 둘러싼)
+海錯	해착	Delicacies from the sea
+긔여올으고	기어오르고	Crawling up (older spelling)
+차자드러가	찾아들어가	Searching into (older spelling)
+떠러진	떨어진	Fallen (older spelling)
+죄다	죄다	All, entirely
+쥐여담으려	쥐어담으려	Trying to scoop up/gather (older spelling)
+閑却	한각	Neglect, leave idle
+놀나지	놀라지	Being surprised (older spelling)
+거무줄	거미줄	Spider web (older spelling)
+가티	같이	Like, as (older spelling)
+沿線	연선	Along the line (coastline)
+에워싸고	에워싸고	Surrounding
+人頭數	인두수	Headcount, population number
+언제던지	언제든지	Always, whenever
+頭數	두수	Headcount
+불과	불과	Merely, only
+政權	정권	Political power
+實權	실권	Real power, actual authority
+유린된다	유린된다	Is trampled upon, violated
+大口魚	대구어	Large-mouth fish (likely referring to cod, 鱈)
+歸한다	귀한다	Reverts to, belongs to
+數量	수량	Quantity
+價額	가액	Value
+是는 無他라	시는 무타라	This is none other than, the reason is simply
+漁村	어촌	Fishing village
+繼續함	계속함	Continuing (older nominalized form)
+漁具	어구	Fishing gear
+意味한	의미한	Meaning, implying
+故이다	고이다	Is the reason (older form of 까닭이다)
+逐日	축일	Day by day
+逐하야	축하야	Chasing, pursuing (older form)
+冲合漁業	충합어업	Offshore fishing
+發動機船	발동기선	Motorized boat
+可觀할 者	가관할 자	Something remarkable/worth seeing
+推知하겟다	추지하겠다	Can infer/surmise (older spelling)
+讓與	양여	Grant, transfer
+如한	여한	Like, such as (older form)
+打擊	타격	Blow, impact
+受하며	수하며	Receiving (older form)
+製品	제품	Manufactured product
+優勢	우세	Superiority, dominance
+示하엿스며	시하엿스며	Showed (older form)
+更히	갱히	Furthermore, again
+魚類養殖業	어류양식업	Fish farming, aquaculture
+鰻養殖	만양식	Eel farming
+未免하고	미면하고	Not yet escaped/avoided
+手工業	수공업	Handicraft industry
+簇出하야	족출하야	Emerging in clusters/swarms
+萬客其來	만객기래	Ten thousand customers come (idiom for prosperity)
+呈하여 섯스나	정하여 섯스나	Presented, showed (older past tense form)
+窘塞	군색	Straitened circumstances, financial difficulty
+左折되고	좌절되고	Being frustrated, collapsed
+십헛다	싶었다	Seemed, appeared (older spelling)
+運轉되는	운전되는	Revolving, operating
+갓고	같고	Being like (older spelling)
+領과	영과	Collar (of a garment)
+長者	장자	Wealthy person, elder
+반다시	반드시	Necessarily, certainly (older spelling)
+팽배한	팽배한	Pervading, widespread
+國有	국유	State-owned, nationalized
+讓受	양수	Receiving by transfer/grant
+밧게 업스며	밖에 없으며	There is nothing but (older spelling)
+疏昧	소매	Negligence, ignorance
+맨글고	만들고	Making (older spelling)
+위임케	위임케	Entrusting
+怨府	원부	Object/source of resentment
+膏沃	고옥	Fertile (land)
+物産	물산	Products, resources
+蒭牧	추목	Gathering fodder and pasturing animals
+雉兎	치토	Hunting pheasants and rabbits
+理想の鄕	이상향	Ideal land, utopia (Japanese phrasing included)
+神秘の窟	신비굴	Mystical den/cave
+失한다	실한다	Loses
+被奪되얏다	피탈되얏다	Was plundered/stolen (older passive form)
+演習林	연습림	Practice forest
+無償	무상	Free of charge, without compensation
+貸付	대부	Lease, loan
+中峯	중봉	Middle peak
+民有	민유	Privately owned (by the people)
+蒙昧한	몽매한	Ignorant, unenlightened
+蒼天	창천	Blue sky, heavens
+山靈	산령	Mountain spirit
+血	혈	Blood
+骨	골	Bone
+括하는	괄하는	Scraping
+居留	거류	Resident
+圖한다	도한다	Aims to, plans to
+入山證	입산증	Mountain entry permit
+配付치	배부치	Not distributing
+原木代金	원목대금	Raw timber price/fee
+木履	목리	Wooden clogs
+徵收	징수	Collect (fees, taxes)
+實物價格	실물가격	Actual price of the item
+質金	질금	Wage, payment (possibly advance payment or piece-rate wage)
+專業	전업	Exclusive business/domain
+末	말	End (of month/year)
+步	보	*Po* or *Bu* (unit, meaning unclear here, possibly percentage points or monetary unit)
+柴木	시목	Firewood
+採伐	채벌	Cutting down, felling (trees)
+可驚	가경	Alarming, shocking
+紹介業者	소개업자	Broker, introducer
+高利貸金業者	고리대금업자	Usurer, loan shark
+無賴漢	무뢰한	Vagrant, ruffian, scoundrel
+口文	구문	Commission, brokerage fee (oral agreement?)
+貪貪하며	탐탐하며	Greedily coveting
+家庄什物	가장십물	Household goods and furniture
+매却하야	매각하야	Selling off (older form)
+淸帳	청장	Clearing a debt/account
+强窃盜	강절도	Robbery and theft
+誰	수	Who (Hanja interrogative pronoun)
+莫非王土	막비왕토	There is no land that is not the king's (idiom for sovereign territory)
+禍	화	Calamity, disaster
+十勝之地	십승지지	Ten Victory Sites (prophesied safe havens)
+殺我者誰小頭無足	살아자수소두무족	Who is killing me? The small-headed, footless one (prophetic phrase)
+삭발한	삭발한	Shaven-headed (referring to Japanese men's hairstyle)
+心事	심사	Intention, thought, mind
+塞責上	새책상	As a token gesture, perfunctorily (lit. 'for blocking criticism')
+苗木	묘목	Seedling
+本意	본의	Original intention, true motive
+空然이	공연히	Needlessly, futilely
+膏澤	고택	Fertility, bounty (metaphor for people's wealth/livelihood)
+浚하야	준하야	Dredging, exploiting (older form)
+私腹	사복	Private pockets, personal gain
+充케	충케	Filling, satisfying
+鑑하야	감하야	Considering, taking into account (older form)
+覺悟하고	각오하고	Realizing, awakening to
+熱望	열망	Fervent hope, longing
+臘月	납월	Twelfth lunar month
+나무신	나막신	Wooden clogs (older spelling)
+虛誕	허탄	Fiction, falsehood
+孫石項 (손돌목)	손석항 (손돌목)	Sondolmok (place name associated with a cold spell)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제34호
+발행일	1923년 04월 01일
+기사제목	朝鮮文化의 基本調査 - 一部發表
+기사형태	소식
+
+朝鮮文化의 基本調査 - 一部發表
+먼저 慶南의 大體로부터 說去하면
+
+경상남도 관내도
+
+1. 位置 及 地勢.  本道는 조선반도의 東南端에 在하니 西는 全羅南北二道를 접하고 北은 慶尙北道를 隣하고 東南二方은 海에 瀕하얏다. 海內에 산맥이 종횡으로 亙함으로 지세가 不一하나 대개 北西가 융기하고 東南이 低下하며 洛東江은 道의 중앙을 貫流하야 其流域에 沿한 평야는 地味가 비옥함으로 농산이 풍부하고 남방일대의 해안은 叅差屈曲하야 항만이 파다하며 다수의 島嶼는 海中에 巷布星列하야 魚族의 서식에 適한 고로 수산업은 농업에 次한 本道 주요의 산업이 되나니라.
+경남의 청년단체(대정 12년 2월 調)
+진주 5, 마산 2, 부산 4, 양산 4, 울산 6, 동래 3, 김해 8, 창원 6, 산청 2 함양 2
+의령 3, 밀양 5, 통영 4, 고성 1, 사천 4, 남해 3, 거창 1, 합천 3, 하동 1, 계 67
+
+2. 沿革.  本道는 古弁韓의 地니 후에 五伽倻國이 分據하얏다가 신라의 멸한 바 되고 고려가 통합한 후 成宗 14년에 金州 소관으로 嶺東道라 하고 晉州 소관으로 山南道라 칭하다가 明宗 元年에 晉陜州道라 개칭하고 忠肅 元年에＜3＞ 慶尙道라 合稱하야 李朝에서 仍稱하고 中宗 14년에 左右道로 分하야 洛東江으로 界를 作하얏다가 즉 罷하고 宣朝 25년에 又 左右道로 分하얏다가 翌年에 復合하고 28년에 又 分하얏다가 翌年에 復合하야 大邱에 設營(初設於星州)하고 31년에 移營하얏다가 4년에 大邱에 復移하고 高宗太皇帝 32년에 南北道로 分하야 道廳을 晉州에 置한 후 今에까지 至하니라.
+
+3. 管區 及 戶口人口.  本道의 면적은 790方里 783이라. 此를 2府 19郡 257面에 分하얏스니 1郡의 평균면적은 37方里 909, 1面 평균면적은 3方里 104에 달하며 戶口는 조선인 339,055戶, 일본인 17,308戶, 외국인 204戶, 계 356,567戶, 인구는 조선인 1,738,049인, 일본인 69,750인, 외국인 765인 계 1,808,561인이니 1方里에 대하야 戶數 447戶, 인구 2,266人 九의 비례가 되는 고로 人戶口가 各道中 제일 조밀하니라.(大正 10년 12월 말 調)
+
+4. 氣候.  조선의 기후는 대륙적인고로 寒暑의 차가 현저하나 本道의 기후는 西北의 산간부를 除한 외에는 해양의 조절관계로 반도 중 온화하야 最溫度가 비교적 차이가 少하니 연중평균온도는 최고 섭씨 32도, 최저 영하 5도 3이오 且晴天이 多하고 공기가 건조하야 거주에 最適宜하니라.
+
+事實은 事實
+『교육의 보급과 산업의 진작 이로써 조차되는 실력의 양성! 이것은 확실히 朝鮮人族의 前程을 열어놋는 유일한 방책이 되리라. 적어도 우리는 그러케 미덧스며 또는 미드려 하엿다.
+그러나 아니다. 다ㅡ 아니다. 오즉 싸울 것뿐이다. 지독한 놈이 되기까지 싸울 것뿐이다.』
+일본당국 또는 당국이 아닐지라도 엇더한 계급에 속한 양반들은 물론 이로써 불건전한 사상이라 할 것이다. 그러나 그것은 별문제이오 금일의 慶南地方에 잇서 가장 힘잇는 청년급의 심리가 그러케 된 것까지는 사실이다. 생각컨대 이것이 반듯이 그곳 청년의 심리뿐은 아니겟지.＜4＞
+
+朝鮮人敎育과 日本人敎育의 比較
+1. 初等敎育
+大正 11년 11월말 현재 조사에 의하면 조선인아동을 교육하는 公立普通學校와 일본인 아동을 교육하는 公立小學校의 屢年比較는 左와 如하다.
+공립보통학교와 공립소학교
+
+右公立普通學校는 93교(此外 校舍 건축 중에 在하야 개교치 안이한 者 ㅡ 3교가 有함) 중에는 수업연한을 연장(6학년)하야 실시한 者가 26교오 公立小學校 76교 중에는 尋常小學校가 56, 尋常高等을 倂置한 者가 20교인데 학급수에 의하야 분류하면 單級小學校가 48, 2학급 이상되는 者가 28교다. 然而 慶南全道에 在한 일본인의 학령아동은 대부분 취학을 하고 교통의 불편과 질병, 빈곤, 기타 사고로 인하야 취학치 못한 者ㅡ 僅히 75인이오 조선인 학령아동은 (六歲로 至十二歲) 左表와 如히 249,688인데 현재 公立普通學校學兒童數 26,399인에 비하면 9배 반이나 취학치 못하얏다.＜5＞
+조선인 학령학동 조사표
+
+2. 中等敎育
+조선총독부에서 설립한 중등정도의 학교는 釜山中學校 及 東萊高等普通學校 2교에 불과한데 전자는 大正 2년에 창립하야 專혀 일본인을 교육하고 후자는 大正 11년에 僅히 창립하야 조선인을 교육하는데 其狀況은 左여 如하다.
+
+3. 實業敎育
+조선인교육 실업학교는 4교가 有하야 咸陽은 學校費로 경영하고 타3교는 地方費로 경영하는데 其槪況은 如左＜6＞
+일본인 교육의 실업학교는 釜山, 鎭海 2교인데 其槪況은 如左
+
+右2교 중 釜山公立商業學校는 自來學校組合에서 경영하던 바 본년도부터 道廳에서 직접 경영하기로 하고 此外에 水産學校 1(統營), 工業補習學校 1(釜山), 農業補習學校(설치지 미정) 1교를 금년도에 道에서 증설할 예정인데 此는 조선인을 중심으로 할지 일본인을 중심으로 할지 아즉 의문이다.＜7＞
+
+4. 女子敎育
+조선인의 高等女學校는 1교도 無함에 불구하고 일본인의 高等女學校는 釜山, 馬山에 2교가 有하며 且大正 12년도에 更히 鎭海에 1교를 설립 계획 중인데 旣히 당국의 인가까지 得하얏다 한다. 현존한 槪況은 如左
+
+5. 師範敎育
+사범교육은 晉州農業學校내에 임시교원양성소를 설립하고 1개년 속성으로 보통학교교원을 양성하는데 其定員은 僅히 60명에 불과하고 본년도에 1개의 사범학교를 晋州에 설립하야 조선인과 일본인의 교원을 양성하랴고 계획 중이나 其實現될 여부는 아즉 知치 못한다 云한다.(此外에 道의 주재로 敎員講習會, 敎員硏究會를 임시개최하는 事가 有함)
+
+6. 幼稚園
+일본인의 유치원은 大正 4년에 부산에 설립되야 현재 組數 3, 보모수 3, 아동수 83이나 조선인은 無하다. 이상은 官公立學校에 대한 槪況이어니와
+
+私立學校, 書堂講習會의 狀況은 如何한가＜8＞
+
+1.日本人敎育의 私立學校 及 幼稚園
+사립학교는 私立釜山實習女學校 及 私立釜山商業夜學校 2교가 有하니 교원수 20, 생도수 354인이오 유치원은 釜山 1, 鎭海 1, 統營 2 합 4개소인데 組數 13, 보모수 13, 아동수가 326인이다.
+
+2. 朝鮮人敎育의 私立學校 及 講習所, 書堂
+全道內 사립학교는 총수 30교이니 其中 東萊高等普通學校는 大正 5년에 창립되얏스나 大正 11년에 官立高等普通學校가 설립된 이후로 其影響을 受하야 생도모집이 곤란함으로 본년도(大正 12년)에 官立과 병합할 예정이오 且 慶南有志의 발기로 기본금 50만원을 적립하고 晋州에 一新高等普通學校를 설립계획 중이며 此外에 私立普通學校가 4, 雜種學校 25(內 종교관계학교가 8교인데 조선인설립 3, 외국인설립 5)가 有하고 私設講習所(晝夜幷)가 약 300개소, 서당이 1567당인데 其槪況은 左와 如하다.＜9＞
+
+병합 이래 사립학교의 消長 개황(대정 11년 5월말일 調)
+강습소 개황(대정 11년 5월말일 調)
+
+서당 개황(대정 11년 3월말 調)
+서당수 / 교원수 / 학동수
+
+1,567 / 1,592 / 19,274(內 女 141)
+
+
+又道에서는 아동의게 적당한 讀物을 與하야 自學硏究를 장려할 목적으로 아동문고를 설치케 하고 地方費로 1교에 대하야 매년 70원식을 보조하는데 일본인소학교에는 76교 중 24교. 조선인보통학교는 93교에 僅히 16교뿐이다.＜10＞
+
+本道宗敎의 槪況
+慶南은 원래 유교의 淵藪인 고로 其信徒 즉 학자가 다수됨은 물론이나 舊習을 膠守하고 시대에 낙오되야 일반인의 배척을 受함으로 점차 쇠퇴의 경향이 有하며 불교는 신라, 고려시대에 일시 盛旺하야 今에도 당시 건축한 사찰 등을 見하면 其壯大雄傑함이 실로 可驚할 者가 多하나 李朝에서 崇儒斥佛한 결과로 극히 쇠퇴하야 當今까지 萎靡不振의 상태에 在하고 근래에 至하야는 조선에서 창설된 天道敎, 大宗敎, 太乙(兩敎 敎徒數 未詳) 등과 외국에서 유입한 기독교가 頗히 성행하며 且日本人間에 神道를 신앙하는 자가 多하니 其槪況은 左와 如하다.
+
+1. 천도교(대정 12년 3월 調)
+
+敎區數 7, 傳敎室數 4, 信徒數 16,434
+
+2. 佛敎(대정 10년 12월말일 調)
+
+3. 기독교
+
+4. 神道
+
+農産, 水産, 工産ㅡ本道의 三大産業
+本道의 3대산업
+□ 농업이 1,500만원 내지 7,300만원
+□ 공업이 600만원 내지 2,100만원
+□ 수업이 350만원 내지 2,300만원
+本道는 朝鮮諸道의 중에 全羅南道와 同樣으로 기후가 온화하야 農林業上으로 온난대의 식물을 栽植하기에 適好하며 특히 해안선의 延長이 1,200여 해리에 달하야 魚族 及 藻類의 출산이 풍부하며 특히 역사적, 지리적으로 일본과 밀접한 관계가 잇서 해상교통으로부터 오는 산업상의 의의는 別로 중대함이 잇나니 이제 방면을 分하야 산업형편을 소개하야써 慶南의 형제 또는 일반동포의 주의를 促함이 잇고져 한다.
+
+農業
+本道의 농업은 어업과 아울너 산업의 大宗을 일우엇다. 大正 10년말의 현재로 沓이 160,257町步餘, 田이 116,164町步餘, 합계 276,322町步餘로서 농업자 戶數 277,163호, 인구 1,466,026인인 바 총호수에 대하야 약 8할을 점하엿스며 농가 1호에 當할 경지면적은 沓이 5反8畝, 田이 4反2畝, 計1町步에 상당한다.
+농산물은 米, 麥, 豆類가 유명한대 米는 平年産額 170만석, 麥이 亦 167만석, 大豆가 약 40만석에 달하는 중 米는 매년 약 40만석, 大豆는 약 10만석이 年輸移出을 행하게 된다.
+농산품 중의 특용작물인 陸地綿, 苧麻, 楮, 莞草와 가튼 것은 其質與量에서 共히 有數한 것이며 果物 중의 柿와 苹果가 亦然하다.
+本道에는 島嶼가 甚多하야 古來로 목축업에 유명하야 甄萱으로브터 王建太祖에게 헌상한 欲知島의 良馬는 역사상에 特記된 바이나 이제는 업스며 다못 농가의 牛, 羔, 羊, 등의 飼畜이 잇슬 뿐이다.＜14＞
+
+林業
+本道의 임야총면적은 약 881,000町步인 중 일즉브터 成林된 地가 160,000여町步, 稚樹 등 生地가 480,000여町步이며 남아지 210,000町步는 無林木地인대 道當局으로브터 其間 十有餘年間 造林에 노력하야 大正 10년까지 無林木地의 4분의 1이상의 植林을 행하얏다. 이제 참고로써 造林의 實況을 示하면,
+
+1. 道有林은 약 500町步까지 국유임야의 讓與를 受하는 規例인대 本道에서는 該 제한면적 이상의 讓與를 受하야 旣히 造林을 了하엿스니 其狀況이 如左
+
+2. 面有林은 面의 財源涵養으로 一面에 50町步 내지 300町步의 面有林을 경영케 하는대 此에 충당하는 임야는 第一種不要存國有林野를 양도 又는 대부한 者와 面內의 각 部落林을 面에 통일한 者가 잇스며 또는 사유임야 중 砂防工事와 如한 특수시설을 要할 者를 面에 양도케 한 者 등이 잇는 바 本道의 面有林은 旣히 28,024町步(一面 평균 100町이상)에 달하엿다.
+
+3. 學校林은 보통 정도에 학교에는 20町步, 중등 정도의 학교에는 40町步까지 國有林里의 讓與를 許하는대 此에 의하야 學校林을 설치한 자가 66교에 임야면적 760町步에 달하엿다.
+
+4. 國有貸付林.  本道內의 第一種不要存國有林野 약 67,000町步 중에 旣히 貸付한 것 60,200여町步인대 其中 前記의 (1) (2) (3) (4)의 分을 除한 외에는 營林을 목적하는 단체 及 개인에게 대부한 것이며 尙又 大正 10년말까지 처분 아니한 국유임야가 약 6,500町步가 有하엿난대 是亦 조만간에 擧皆 貸付할 예정이라 한다.
+
+慶尙道의 禿山이 如何히 경부선 통과의 人人을 喫驚케 하는가함은 일반이 認하는 바이나 지금은 거히 산악의 全面을 亙하야 稚樹의 발생을 見하게 되야 사실로 면목을 一新하게 된 바 당국에서는 動輒造林成績의 양호를 自誇하난 바이라. 尙又 本道當局에서는 大正 8년에 造林業 20년계획을 成하야 大正 27년까지 道內全部의 造林을 완료할 계획으로써 진행하는 今日이며 大正 6년브터 행해오는 임야조사도 大正 13년으로써 완료케하야 산림의 권리관계를 명료케 하는 동시에 此의 査定이 종료된 郡으로브터는 점차 삼림의 기본조사를 행하야 木材及薪炭의 수급관계를 분명케 함과 共히 保安林編入 기타 植林促進의＜15＞ 구체안을 수립할 방침이라 한다.
+
+水産
+本道 2府 19郡 중 海에 瀕한 것이 2府 9郡이나 나리는고로 管內의 半分 이상은 수산에 관계가 深하며 所屬島嶼의 수가 278로서 해안선의 연장은 本陸이 2,310里, 島嶼가 3,390리, 계 5,700리에 至하며 해안은 叅差届曲, 岬角灣澳가 相連하고 다수의 島嶼가 碁布한 중 수심은 대개 50尋 내외로 寒暖 兩海流의 유역에 際하야 난류성의 鰮, 鯖, 鰆 한류성의 鱈, 鰊 등 각종 水族의 분포가 풍부하며 특히 기후가 온화하야 四時의 操業에 適하다.
+鰮, 鯖, 鱈은 道의 3대 어업으로 지칭되며 중에도 鰮漁業은 本道 어업의 首位를 점하야 年産額이 4백만원 내외에 달하야 本道總漁獲高의 약 3분의 1에 上하야 此의 풍흉이 本道 경제계에 及하는 영향은 실로 지대한 것이며 鯖漁業은 近年 중 着網漁法의 발흥, 漁期의 연장 及 수송기관의 발달에 의하야 年産額 250만원 내지 300만원에 上하야 生鮮 그대로 일본에 수출됨이 多하며 鱈漁業은 주로 조선인 어업에 속한 것인대 年産額 100만원 내지 150만원에 上한다.
+
+보라 進水의 村井農場
+조선 안에 일본인의 농장이라 하면 문득 5,000만원의 巨資로써 활동하는 東洋拓殖을 始하야 黃州의 朝鮮興業과 森農場, 水原의 東山農場, 木浦의 右近農場, 昌原의 村井農場, 井邑의 態本農場, 金堤의 石川縣農業株式, 益山의 細川農場, 鎭南浦의 齊藤農場, 沙里院의 日海興業株式出張所 등을 연상할 것이다. 그런대 이 중의 하나되는 昌原郡 進水의 村井農場의 근황을 見하면, 該農場은 明治 41년 1월에 창립되야 보통농사와 과수재배를 兼營하는대 그의 점유한 토지는 昌原으로부터 金海의 일부에 跨在하야 약3,000町步의 면적을 취하엿스며 此에 관계하는 소작인은 일본인이 100호, 조선인이 1,300호이며 재작년 중의 收穫全高는 稻租가 27,000석, 麥이 1,700석, 大豆 1,000석이며 소유의 경지는 沓 1,500町步, 田 500町步, 기타 雜種地가 600町步이며 이외에 幾何의 임야가 잇다. 과연 잘들 해먹는다.
+
+工業
+本道의 공업은 일종 농가의 부업에 속하야 可觀할 것이 無하던 중 近年 일본인의 열심투자로 釜山의＜16＞ 紡績株式, 牧島의 日本硬質陶器株式支店, 龜浦의 朝鮮纖維工業株式 등이 有하야 규모가 宏大하다.
+試하야 최근 1개년 간의 本道 工産額을 見하면 總産額이 21,769,000여원인 중 직물 1,992,000여원 紙及製造品 958,000여원, 漆器 54,000여원, 莚席 455,000여원이 其主要한 者이며 此外에 別로 일본인 경영의 釀造業이 왕성함이 잇다.
+機業은 道內의 陜川, 居昌, 咸陽, 山淸, 南海, 泗川, 固城의 7郡이 古來로 麻布 又는 苧布의 산지로 유명하야 大正 10년도에는 직물 892,000反, 價額 1,956,000여원의 多額을 産하여섯다.
+제지업은 역시 本道에 有數한 것이니 年産額이 40만 내지 60만원에 달하며 매년 조선에서 중국에 수출되는 것이 15만 내지 35만근에 至하는 중 8할 이상이 本道産이다.
+統營의 漆器는 古來로 유명한 것이나 중간에 粗製濫製의 風이 행하야 만히 신용을 失하엿스며 年産額 약 5만원을 算한다.
+
+商業
+本道는 지리상 일본과 近하야 해상교통이 빈번한 중 釜山, 馬山, 鎭海의 3항은 輸移出入貿易은 조선 전貿易高의 약 2할 5분을 점함이 보통이다. 그 중에도 부산항은 조선의 관문으로서 수입품 중의 주요한 것은 金巾類, 석유, 석탄, 사탕, 목재판, 棉織物, 紙類繩叺 등이오 수출품 중 주요한 것은 米, 大豆, 魚類, 生牛, 繭, 비료, 生皮, 綿花, 海藻 등 류이다.
+道內의 시장은 5일 5일을 격하야 보통 시장이 122處인 중 河東市場, 晉州市場 가튼 것이 저명하며 기타의 개인 혹은 회사의 경영에 속한 어시장 가튼 특별시장이 16處 取引所가 1處 계 139개소이다.＜17＞
+
+各地의 特産一束
+晉州의 무명(晉州木)과 배추. 무명 製造戶數 약19,000호(總戶數 약21,600호)에 생산액 약     150,000원.
+泗川의 石花와 米. 泗川의 평야는 약1,500町步의 沃野로서 此地의 産米는 質의 良好에서 특  히 저명한 것이다. 그러나 그 沃野의 大部는 東洋拓殖, 迫間房太郞의 점유가 된지 오래      다.
+河東의 海衣와 煙草와 鱸魚. 本郡의 海衣(짐)는 想必 朝鮮全道를 통하야써 유명할 것이다.   최근까지 在大阪일본상인의 獲利의 資가 되엿스며 煙草는 全群智異山麓의 産으로 其味      가 特香한대 煙草專賣制에 대한 경작자의 불평으로 自今 全廢될 虞가 잇고 蟾津江의 鱸     魚는 그 江底의 *草를 먹고 재래인 관계로 其味ㅡ甚適하다는 말이다.
+南海의 홍합과 南苧.
+統營의 鰮魚(멜치)와 漆器와 시금菜. 이곳의 시금채는 晉州의 白菜와 아울너 名高한대 四時  長靑이다.
+金海의 芦席. 金海는 洛東江의 最下流에 沿在한 바 그 江岸의 芦田은 실로 一望無際이다.
+靈山의 煙草(年輸出 200,000원), 洛花生(年額 6,000원), 水芹.
+草溪의 殼物(연 200,000석 수출)과 草席.
+宜寧의 新反紙(富林面年額 200,000원) 土谷廢風(宮柳面 年額3,000여원).
+密陽의 銀魚(輸出年額 25,000여원)와 濁酒(味極好).
+丹城(山淸合群) 黙室의 明綿, 栗과 淸溪의 磁器와 白雲의 陶器, 城內里靑葱과 文臺의 礪石,   召南의 扇子.
+咸陽의 白柿와 朝鮮紙.
+居昌의 麻布(年額輸出 35,000원).
+漆原의 *萄(其味如栗而軆大)＜18＞
+
+山淸磁器硏究의 苦心人 閔泳直君
+氏는 원래 土地調査局 技手엿다. 其時 在京 중에 中央試驗所에 가서 도자기제조하는 것과 其原料品을 見하고 무한의 취미를 持하야 귀가한 후로 자기가 도자기의 원료소재지를 발견하랴고 각지를 시찰하다가 自家부근 산(山淸郡 今 西面特里)에서 약 3方哩되는 原料地를 발견하고 최초에 재래에 在하던 陶器店을 이용하야 약 五個星霜을 苦心으로 시험한 결과 24회에 凡 2,000여片의 試片을 得하얏는데 其成績이 특히 양호함으로 此를 持하고 京城央試驗所에 往하야 看品을 試한즉 원료가 조선에 在한 者 중 제일이오 且多量이엿다. 中央試驗所에서 실지답사한 후 氏는 此製造事業에 대하야 道廳에 其補助를 청한 바 道廳에서도 지방산업발전책으로 山淸郡廳에 窯業組合을 置하고 專門技手를 파견하야 약7,000여원의 보조로 12간의 登窯를 설비하는 중 旣히 7간을 준하얏스나 자본부족으로 今에 其工事를 중지하얏다. 氏는 此磁器製造硏究로 가산을 全傾하야 약5,000여원의 금액을 희생에 供하고 其後 유지와 共히 山淸磁器株式會社를 발기하얏스나 財界不況으로 此도 성립치 못하야 盡宵苦心한 결과로 成病하야 귀까지 먹고 지금에도 병중에 잇다. 氏의 言에 의하면 山淸의 자기원료인 고령토는 약 三,四方里가 되는데 분량도 조선에서 제일 多하고 품질도 조선에서 유명한 河東靑松産에 불하하며 기타 硅石, 長石, 粘土 등이 多하고 此磁器製造에 제일 필요한 耐火土는 咸鏡道가 多하나 교통이 불편함으로 현재에는 일본에서 수입하는데 1簣에 약 5원의 가격이  되야 비용이 太多하나 此地方은 耐火土가 亦多하야 此困難이 少無하며 又 지리산이 不遠하야 연료가 풍부한즉 何地方面으로 見하던지 山淸磁器製造業은 장래 유망할 뿐 안이라 東 京磁器株式會社에서 認許를 得하얏던 最良한 부분 약40,000여평을 사정에 의하야 今에 포기 하얏슨즉 何人이던지 我朝鮮人 중 자본가가 此에 유의하얏스면 장래 산업계에 대이익이 잇겟다 한다.＜19＞
+
+覆巢下의 危卵 ㅡ 慶南에 在한 朝鮮人産業의 沒落
+覆巢危卵이 엇지 其理가 잇스리오, 慶南의 천지도 벌서 外人의 獲場이 되고 말엇도다. 더욱 慶南은 (1)기후가 온화하야 사람 살기에 됴코, (2)토지가 肥하고 海港이 良하야 産物이 富하고, (3)일본과 근접하야 교통이 편하고, (4)인심이 순박하야 외래의 족속이 來接하기에 무방한 등 事는 조선의 엇더한 道보다도 더 심하게 外人의 勞力을 초래함이 되여섯다.
+本道의 산업 중 현재에 유수한 것은 農, 工, 漁의 三業이 될지며 장래에 유망한 것은 林業일지라. 그러나 이 4대의 산업경영에 在하야 조선인의 努力이 如何히 빈약하며 일본인의 努力이 如何히 왕성한 것을 목격할 때에 우리의 心膽은 새로히 서늘해짐을 느끼지 아늘 수 업섯다.
+
+몬져 農業에 나가보면
+大正 9년의 통계로써 말할지라도 농업자 總戶數 277,681호 중에 일본인 農戶가 1,932호, 中國農戶가 6호인 바 數字로써 볼 때에는 별로 대단치 아는 듯 하다. 조선인 農戶 중에 할 수할 수 업는 小作農戶가 약 8할을 점유한 바 그들이 농업의 경영에 대한 하등의 의식적 노력을 행하지 못함은 물론 自作農戶 又는 대지주까지라도 오즉 재래의 姑息的 營農을 하고 잇슴에 반하야 彼日本人과 가튼 농업자는 其自身이 다수의 의식적 노력을 행할 뿐 아니라 그들의 배경에는 대개로 개인이나 또는 사회의 부단한 응원을 有하야 조선인에 비하면 사실 一當百의 형세로써 돌진하는 금일이라.
+예의 東拓會社의 토지경영과 如함은 거히 本道에 주력을 致하야 釜山相生町五丁目에 설치된 東拓釜山支店은 現에 42명의 점원을 임용하야 慶南에 在한 토지경영, 이민사업, 拓植資金의 조달에 분주하는 금일이니 該店 현재의 소유지는 2府 18郡에 亙하야 其總面積이 8,656町步여에 달하며 拓植資金의 融通額도＜20＞ 3,760,000여원에 上하야 업무의 번영이 逐年 현저하다는 말이다.
+東拓移民 분포상황(대정 10년도 현재)
+
+이러한 회사의 경영을 제한 이외의 개인농장경영도 규모의 宏大한 자가 不少하니 예컨대 本道 昌原郡 進永의 村井農場과 如함은 멀니 明治 41년에 其業을 始하야 大正 4년경에 일즉히 2,850여町步의 토지를 경영하야 금일에 至하얏스며 尙又 本道의 남해안은 해수의 출입이 深함과 共히 國有未墾地의 干潟地가 多한 바 예의 눈발고 資金만흔 일본인은 此를 防築하야 전답을 신설하고 貸付 又는 양여를 受하는 바 이번에 필자가 남해안을 歷訪하는 際에도 此等防築日本人에게 대한 송덕기념비까지 수립한 것을 왕왕 路傍에서 見한 바 그들의 토지경영에 대한 苦心努力을 窺知하기에 족하엿다.
+일본인의 토지경영에 대한 노력이 如許히 왕성함에 불구하고 조선인측의 此에 대한 諸般이라고는 寥寥無聞하야 多大의 소작인은 日日의 식사에 궁하야 境外에 流離함이 연중의 행사오 소수의 지주는 다못 如何히 하면 소작료를 한 석이라도 加取할가 하는 이외에 여념이 更無하야 貧富共倒의 1일을 기대함과 如함은 실로 寒心不己할 者이라.
+농업의 편은 대개 如斯하다 하고.
+
+다시 漁業의 便을 一瞥한다 하면＜21＞
+
+如何한가.
+어업의 경영은 토지의 경영과도 성질이 大異하야 천연의 魚物을 그대로 獲取만 하면 곳 자기의 재산이 되는 바 其業됨이 농업이나 공업 또는 기타의 엇더한 業보다도 젹은 노력으로써 만은 보수를 엇는 것이라. 3면이 海로써 圍한 조선반도에 거주하는 약20만의 형제는 43,950리의 해안선(本土와 島嶼를 합함)을 중심삼고 다른 엇더한 형제보다도 기실 안락한 생활을 계속하야 왓스며 그로 從生하는 諸水産物은 국내, 국외에 이송되야 海錯의 珍味를 供하여 와섯다.
+白頭山꼭댁이까지 긔여올으고 鴨綠江물줄기까지 차자드러가 떠러진 밥알까지라도 죄다 쥐여담으려 하는 것이 일본 及 일본인의 대조선 경제적 경영책이라. 그들의 黑手가 엇지 이러틋한 어업의 방면을 閑却하엿스리오. 놀나지 마라. 그들의 손이며 발은 벌서 거무줄 가티 해안의 沿線을 에워싸고 잇도다. 이제 本道의 어업에 대한 일본인 及 조선인의 세력관계을 약술하면,
+大正 10년 말의 道內居住水産業者는 총계15,019호에 조선인이 13,151호이오 일본인이 1,868호인대 戶數와 人頭數로써 見하면 조선인의 편이 언제던지 百勝한다. 그러나 그것이 무슨 用이 잇스리요 1,700만여의 頭數를 有한 전 조선족이 불과 30만의 일본인(조선내에 거주하는 자)에게 정치상 경제상의 실권을 전부 상실함과 가티 13,000여호의 慶南본토의 어민은 단 1,800호의 외래어부에게 유린된다. 즉 大正 10년도의 漁獲高를 見하면 총액 1,753만원에 대하야 일본인의 漁獲高가 1,229만원에 달하고 조선인의 것은 524만원에 불과하며 이러한지라 本道의 3대 어업이라는 鰮, 鯖, 鱈의 3者 중에 오즉 鱈(大口魚)의 어획에뿐 조선인이 주력이 되고 기타의 年産 300만원, 100만원에 달하는 鰮, 鯖의 어획은 其大部分에서 일본인의 획득에 歸한다. 이제 本道의 어획물 중 年産額 30만원 이상의 것을 일본인 及 조선인별로 示하면 如左 ＜22＞
+右表에 의하야 조선인의 獲取한 漁物의 數量 及 價額은 일본인의 그것에 비하면 약 3분지 1强에 불과하니 是는 無他라. (1)일본인의 어민은 대개로 어촌을 成하야 본국의 縣當局 혹은 개인자본가 또는 회사에서 그를 원조하야 資力이 풍부함에 반하야 조선인에게는 그것이 업스며 (2)조선인 어민은 재래의 漁獲方과 漁獲具 그대로써 무의식적의 어업을 계속함에 반하야 일본인 어업자는 다소의 과학적 기술 또는 현대식의 漁具로써 하며 (3)일본어민은 국가정책을 意味한 현 당국의 보호를 受함에 반하야 조선인에게는 그것의 업는 故이다.
+이와가티 本道에 在한 일본인의 어업은 逐日 왕성하야 연안어업을 행하는 외에 魚을 逐하야 멀니 冲合漁業까지 행하며 近年브터는 다시 發動機船을 이용하야 어업을 행하야 성적이 可觀할 者ㅡ有하다 한다.
+그들의 어획물은 일본내지로 수송하는 바 此의 수송에 종사하는 發動機船이 300艘를 불하함을 見할지라도 그들의＜23＞ 어업이 如何히 왕성함을 推知하겟다. 이제 참고로써 本道 중 일본인의 어촌에 관한 일반을 示하면 如左＜24＞
+경상남도내 일본인 어업 종사자 현황
+
+右와 가튼 어촌에 대하야는 대개 道當局으로브터 일정한 구역 내의 어장을 讓與하야 부근 조선인의 自由出漁를 금지하게 하는 결과 재래의 어민은 어업상 막대한 타격을 受하며 왕왕 조선어민 대 일본인 간의 충돌이 起하나 其結果는 역시 조선인의 敗北이 되고 만다.
+尙又 수산제품을 見하면 大正 10년도의 製品總價額은 1,059만원인대 일본인의 分이 663만원에 달하야 역시 우세를 示하엿스며 更히 어류양식업을 見하면 조선인의 경영에 속한 것은 하나로 지목할 것이 업고 日本殖産株式의 鰻養殖과 如함은 洛東江岸에 약 5만평의 양식장을 경영하며 잇다.
+
+本道의 공업은 別項에서도 약술함과 如히 재래의 공업은 오히려 원시적의 手工時代를 未免하고 釜山의 朝鮮紡織, 牧島의 硬質陶器會社 등 역시 일본인의 경영이 새로히 대두고져 하는 금일이며 釜山을 중심한 일본인의 양조업은 역시 本道에 유명한 것이다.＜25＞
+
+商業은 釜山을 中心삼아
+경영되는 것인대 大正 8,9년 경의 一時는 白山貿易, 周一商會 등의 개인 또는 회사의 상업기관이 簇出하야 萬客其來의 성황을 呈하여 섯스나 大正 9년 夏 以降 금융의 窘塞과 共히 일절 좌절되고 지금은 별로 불 것이 업스며 비록 소규모일망졍 馬山의 조선인측 상업계가 자못 착실한 발전을 어드며 잇는 듯 십헛다.
+요컨대 京城의 조선인상업계가 泥峴 일본인을 중심삼아 運轉되는 것과 가치 慶南의 조선인상업계도 역시 釜山의 日人을 중심삼아 運轉된다. 그들은 마치 網의 網과 갓고 衣의 領과 갓다. 例하면 釜山 거주의 香推源太郞, 迫問房太郞, 大池忠助와 如한 人은 모다 百萬의 長者로서 그들의 소유한 경제력은 반다시 慶南一圓에 팽배한 것뿐이 아니라.
+
+日本의 農民大會에서는
+先者土地國有案을 가결하고 그것의 실행을 운동키로 하엿다. 그것은 그러케 되면 일반인민에게 대한 균등이 복리가 될 것인 故이엿다. 그런대 現下 조선에서는 전답이고 임야이고 할 것 업시 국유지만 되면 그것의 100분의 99는 專혀 일본인 측의 이용, 아니 讓受가 되고 만다. 그 이유는 물론 여러가지일 것이다. 資金, 技術의 관계도 물론 잇슬 것이다. 그러나 其中에도 유일한 이유는 일본 及 일본인으로 본 국가정책상으로서 그리하는 그것이다. 제일로 本道의 國有未墾地로써 보면 大正 9년 말까지 貸付된 것이 原野, 草生地, 荒蕪地, 干潟地, 沼澤地 등 3,000여町步이며 貸付된 그것은 田, 沓, 植林, 果樹園, 森園, 기타의 雜用으로 이용되는 중 沓으로 개간된 것이 2,600여町式이라. 田, 沓이니 園藝圃이니 할 것 업시 이와 가티 貸付된 지역은 물론 일본인에 한하야 讓受되엿슬 것이며 大正 9년 말 이후에 이와 가튼 현상은 속출하엿슬 것인즉 國有未墾地의 개척으로써 엇어지는 일본인의 세력은 실로 굉장할 것이라.
+또 임야로써 보면 本道의 大正 10년도 본임야 총면적이 881,000여町步인대 同年度까지 貸付된 것이 108,000여町步이라한즉 그것이 만히는 역시 일본인 측의 세력권 내에 入하얏다 볼 수 밧게 업스며 임업에 대한 조선인측의 踈昧는 別로 심함이 잇슨즉 임야에 대한 外人의 세력은 역시 굉장할 것이라. 어느 때에는 정신업시 그 산을 禿山으로 맨글고 이제는 또 정신업시 그 禿山을 外人에게 위임케 되는 것을 생각하면 무엇이라 형용할 말이 업도다.＜26＞
+
+산업상으로 본 外人의 세력은 말할내면 방면이 오히려 여러가지 일지나 가추 말할 수가 업고 최종에 一言할 것은 本道의 運輸交通業上으로 본 일본인의 세력이다. 大盖 습성, 의복, 풍속, 언어가 다른 이민족이 엇더한 타지방에 移入코져 하면 몬져 교통운수기관의 개통을 其第一義로 하나니 그것이 업시는 第一한 개인도 아니오 數多의 족속이 衣食하고 住居할 자국의 물질을 이송할 수가 업는 故이라. 보라. 京釜線이 한번 개통되며 釜山, 大田을 위시한 沿線의 주요지역은 一朝에 그들 일본인의 점유한 바가 되고 마럿다. 大正 8년 萬歲運動이 動發한 후 그들은 곳 조선의 경제적 점유에 着目하는 중 그 目論의 제일로는 몬져 조선 전면에 대한 철도망의 期成으로써 하고 그것의 第一着으로 각지의 私鐵會社가 發起되고 당국으로브터 극력 此의 期成을 조장하나니 이實 拓植의 요령을 得한 자이라 할 바라. 慶南道로써 본다할지라도 南鮮鐵道株式과 如함은 公稱資金 1,000만원 拂入 150만원으로서 本店을 馬山에 置하고 착착 사업을 진행하는 중인대 同社는 馬山을 기점으로 하고 晋州. 河東. 求禮, 谷城, 淳昌, 光州를 經하야 松汀里에 至하는 間, 並南原의 院村으로브터 全北 全州에 至하는 間의 輕鐵을 부설하야 남조선 일대를 橫貫하되 몬져 금년 10월경으로써 馬山郡 北面의 개통을 見하리라는 바 爲先 右의 諸線路가 개통되면 남조선의 面目은 역시 一新할 것이며 一新하면 그만큼 일본인의 세력발전을 見할 것이다.＜27＞
+
+慶南人民의 怨府인 智異山大學林
+智異山은 토지가 膏沃하고 물산이 풍부함으로 自來南鮮의 寶庫라 한다. 그 부근의 인민은 幾千年 간을 此에서 경작하고 此에서 蒭牧하고 此에서 雉兎하고 又 木器木炭, 竹物 등을 제조판매하야 자유로운 낙천의 생활을 하얏다. 그럼으로 세상의 人은 다 이 智異山을 理想의 鄕이니 신비의 窟이니 하야 此를 羨望하여 此를 구가하얏다. 만일 그 부근의 인민으로 하야금 智異山에 대한 권리를 失한다 하면 魚類가 水를 失하고 생물이 공기를 失함과 如한 절실의 관계가 잇다. 즉 智異山은 그 부근 인민의 생명이다. 그러나 그의 생명은 벌서 10여년 전에 타인에게 被奪되얏다. 즉 朝鮮總督府에서는 大正 元年 12월 12일부로 智異山을 소위 大學演習林이라는 명의 하에 일본에 京都, 九州 양 대학에 무상으로 80개년 長期貸付를 하얏다. 今에 其貸付한 지령의 내용을 見하면 左와 如하다.
+一. 所在地 及 面積
+慶南  咸陽郡   11,754町步
+
+山淸郡    3,012町步
+
+計       14,766町步
+
+이상 京都帝國大學
+一.
+山淸郡   13,899町步
+
+河東郡   14,905町步
+
+計       28,804町步
+
+이상 九州帝國大學
+一. 用途 大學演習林의 事業
+一. 貸付其間 自大正 元年 12월 至大正 81년 11월(80개년)
+一. 貸付料 無
+一. 森林産物  演習事業經營에 伴한 森林産物은 無償讓渡함
+此 43,570町步의 大地段은 법률상으로 見하면＜28＞ 물론 국유지요 總督府에서도 此 국유지에 대하야는 타인에게 貸付하던지 매각하던지 자유로 처분할 수가 잇는 것이다. 그러나 사실상은 전부가 국유가 안이오 中峯 이하 즉 3분지 2이상은 民有다. 원래 總督府에서 토지를 조사할 시에 인민에게 자기의 소유는 일정한 기간 이내에 그의 권리를 증명하라 告示하얏스나 지식아 몽매한 산간인민이 엇지 권리가 무엇인지 국유가 무엇인지 알엇슬리오 태연히 睡眠하는 중에 무정한 기한은 조속히 도래하야 그의 祖先이 汗과 血로 개척한 樂土는 一朝에 白失하고 말엇다. 蒼天이 無語하고 山靈이 무심하니 그 인민이 비록 哀號하고 통탄한들 誰가 능히 察知하리오 況 又 조선인의 血을 吸하고 骨을 括하는 居留의 일본인은 此를 기화로 思하야 표면상 산물을 이용하고 주민의 공동이익을 圖한다 칭하고 소위 共益組合이라는 것을 조직하야 일정한 금액을 지출하고 조합원이 되지 안이하면 入山證을 배부치 안이하야 木器, 木炭 등의 제조를 하지 못하게 하며 且 大學에서는 소위 原木代金(此 原木代金은 一株木에 幾何의 代金을 受하는 것이 안이라 木器 1개에 幾何錢을 受함이라)을 지정하고 조합에서는 其指定價額을 징수하야 가령 木履 1개 時價 40전에 大學指定代金이 10錢이면 조합에서는 구20錢을 징수하야 10錢은 대학의 수입으로 하고 10錢은 조합의 수입으로 하니 결국 제조자는 그 실물가격의 약 5할 가량을 지출치 안이치 못하게 되고 又 木炭은 제조자가 직접 경영으로 제조함을 不得하고 조합의 名으로 제조하야 幾石의 炭을 제조하면 僅히 소액의 質金을 受할 뿐이다. 최초 此 組合이 성립될 시에는 조선인도 조합원이 되얏섯스나 金錢의 세 력과 정치의 세력관계로 자연 압박을 당하야 조선인은 전부 조합원의 자격을 상실하고 幾個 일본인의 專業이 되고 말엇다. (此에 대하야 인민의 불평이 多함으로 작년分에 山淸에서는 군청에서 此를 간섭하야 木物製造者로 직접 木工組合을 조직케 하고 面長이 其組合을 감독하는 동시에 前日 共益組合과는 관계를 단절케 하얏는데 제조자의 부담이 약 5步가 감소되얏스나 木炭製造는 의연히 共益組合에서 직접경영함) 其外에 大學에서는 또 山下주민으로 소위 山林保護組合을 성립케하야 組合金을 징수하고 此組合員이 안이면 一草(山菜藥材까지)一木이라도 채취치 못하게 한다. 그나마 保護組合도 또한 인민이 자유로 조직하는 것이 안이라 面에서 조직하야 面長이 반듯시 組合長이 되고 此 許可願은 군청을 경유하야 河東郡에 在한 大學演習林管理事務所에 제출하면 同事務所에서는 또 大學에 보고하야 其許可를 得하게 되얏다. 如斯히 無用의 수속이 복잡함으로＜29＞ 자연 시일이 遷延되야 인민은 其生活에 필요불가결한 柴木까지라도 採伐할 시기를 失하야 곤란이 막대하다. 此에 又 可驚할 자는 소위 소개업자와 고리대금업자니 일정한 자산이 無하고 각지에서 流離하야 此山에 入한 無賴漢들은 소위 共益組合을 결탁하야 木物製造者에게 소개를 하는니 興成을 부치느니 하고 無理의 口文과 酒食을 貪貪하며 共益組合員인 일본인은 일방으로 고리대금업을 병행하야 木物製造業者의 血을 盡吸한다. 德山(山淸郡 矢川面)과 如한 지방에서 共益組合員인 일본인이 조선인에게 원금 2원을 대여하고 3년만에 60원을 受한 事가 有하고 又 원금 20원을 대여한 자가 원금 15원을 受한 후 잔금 5원에 利上加利를 하야 3년 만에 家庄什物까지 매갊�하야 100원을 受하고도 아즉 淸帳을 못한 事가 잇다. 이상과 如히 智異山이 소위 大學演習林으로 貸付된 이후로는 其山下의 주민이 각 방면으로 이권을 被奪되매 자연 생활이 곤란하야 其 結果는 강도, 절도, 도박 등의 가공한 범죄의 행위를 감행한다. 慶南全道의 범죄자 통계를 見하면 强窃盜가 山淸郡이 最多하고 同郡의 통계로 見하면 智異山 부근 즉 三莊, 矢川 兩面이 最多하다. 아ㅡ 此가 과연 誰의 죄인가? 普天의 下가 莫非王土언만은 엇지 智異山下의 인민이 특히 此悲慘한 禍를 당하는가. 鄭堪錄에 智異山은 十勝之地라 하더니 이것은 맛지 못하고 「殺我者誰小頭無足」이란 것만 마젓다. 즉 삭발한 外人에게 死하게 되얏다. 당초 總督府에서 此智異山을 兩大學에 貸付한 것은 何如한 心事이며 또 兩大學이 貸付한 것은 何意味인가. 내용의 如何는 更論할 필요가 無하거니와 표면으로는 산림을 보호하야 학술연구에 필요한 자료를 공급하고 따라서 조선인에게 모범을 示코자 함이다. 그러나 兩大學이 此를 貸付한 후로 과연 何等의 시설을 하야 일반인에게 모범을 示하얏는가. 不過是在來의 삼림을 斫伐하야 原木代金만 수취하고 塞責上으로 약 1町 5反되는 惡土에 黑松苗木幾株를 移植하야 놋코 此를 某大學演習林이라고 칭할 뿐이다. 此가 과연 總督府에서 貸付한 本意며 兩大學에서 演習林을 경영하는 本意ㅡ인가. 그러나 此 兩大學도 空然이 주민의 膏澤을 浚하야 共益組合의 私腹을 充케 할 뿐이오 실제상 자기 대학에서는 하등의 이익도 업다. 今에 山淸郡에 在한 兩大學의 演習林 16,991町步에 대한 최근의 年수입을 見하면 686圓 64錢 2里오 (自 大正 10년 4월로 至 同 11년 3월) 年最高額이 151圓 51錢이다. 此 比例로 演習林 全面犩�43,570町步를 打算하면 매년 약 20,000여원이 되나 此를 관리하는 사무원 간수 등의＜30＞ 봉급과 기타비용을 제하면 별로 이득이 無할 뿐 안이라 매년 소위 시찰이니 무엇이니 하고 大學에서 인원을 파견할 시는 反히 其大學經費로 충당한다 云한다. 그러면 其大學은 무슨 필요로 此貸付權을 依然 保持하며 總督府에서는 其貸付한 本旨에 위반되는 事를 恬然 看過하고 此를 취소치 안이하는가. 大學의 이익이 되는 與否은 吾人의 관할 바가 안이나 소위 文化政治를 표방하는 금일에 산업이던지 교육이던지 조선인을 중심으로 한다 하면 조선의 寶庫인 智異山을 엇지 皮肉도 상관이 無한 陸幾萬里外에 在한 일본의 九州大學이나 京都大學에 貸付하는가. 영국이 인도를 병합하얏스되 인도총독부에서 雪山을 倫敦大學이나 釰橋大學에 貸付하얏다는 言을 聞치 못하얏고 불란서가 安南을 領地로 삼엇스되 雲嶺을 巴里대학에 貸付하얏다는 事를 聞치 못하얏다. 吾人은 總督府에서 智異山下 諸郡人民의 행복을 위하고 일반 조선인의 불평을 鑑하야 此 不合理하고 不徹底한 과거의 事를 覺悟하고 其 貸付權을 1일이라도 조속히 취소하야 조선인 교육사업경영자에 貸付하기를 열망할 뿐이다.
+(조선 각지에 此와 如한 大學演習林이 多하나 本誌는 慶南道號인 고로 특히 智異山만 논함)
+
+木屐商寒
+臘月 22일의 치우를 晋州에서는 소위 「나무신 장사 치우」라 하는데 이것은 속설에 엇던 晉州城內 사람이 자기의 미워하는 사람을 죽이랴고 德山 등지에서 편지를 하되 이 사람이 가거던 곳 죽이라고 하고 편지 한 장을 그 사람에 부치엿더니 그 사람이 편지를 가지고 가다가 마참, 나무신 장사를 주엇더니 나무신 장사가 이 편지를 전하다가 寃死한 고로 其日이면 꼭 치워진다 한다. 이것은 虛誕에 近하나 京畿 부근에서 10월 20일 치우를 孫石項(손돌목) 치우라 하는 것과 갓다.＜31＞
+＜1-31＞

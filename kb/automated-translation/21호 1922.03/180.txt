@@ -1,0 +1,47 @@
+잡지명	개벽
+발행일	1922년 03월 01일
+기사제목	京城府의 總人口 (Total Population of Kyŏngsŏng Prefecture)
+기사형태	소식 (News/Item)
+
+Total Population of Kyŏngsŏng Prefecture
+
+Counting the Kyŏngsŏng population at the end of Taishō 10 (1921), Koreans numbered 188,640 in 39,121 households, and Japanese numbered 69,273 in 17,120 households; the total population including foreigners was 261,698 people. Comparing this to the 9th year (1920), households increased by 2,419 and the population increased by 11,490. <30>
+
+**Summary**
+
+This news item reports the population statistics for Kyŏngsŏng Prefecture (colonial Seoul) at the end of 1921 (Taishō 10). It breaks down the population by Koreans (188,640) and Japanese (69,273), noting the number of households for each group, and gives the total population as 261,698. It also notes an increase of 2,419 households and 11,490 people compared to the previous year (1920). For historians, this provides specific demographic data illustrating the colonial composition of Seoul, showing a significant Japanese population alongside the Korean majority and indicating urban growth during this period. The figures quantify the Japanese presence and overall population change early in the colonial era.
+
+**Named Entities**
+
+京城府	경성부	Kyŏngsŏng-bu
+朝鮮人	조선인	Chosŏnin
+日本人	일본인	Ilbonin
+外國人	외국인	Oegugin
+大正	대정	Taishō
+
+**Glossary**
+
+京城府	경성부	Kyŏngsŏng Prefecture (Colonial name for Seoul)
+總人口	총인구	Total population
+大正	대정	Taishō era (Japanese imperial era, 1912-1926)
+計하다	계하다	To count, calculate
+朝鮮人	조선인	Korean person/people
+戶	호	Household (counter)
+日本人	일본인	Japanese person/people
+外國人	외국인	Foreigner(s)
+總히	총히	In total, altogether (Older spelling/form of 총계로 or 합계)
+年度	연도	Year (often administrative or fiscal)
+比하다	비하다	To compare
+增하다	증하다	To increase
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제21호
+발행일	1922년 03월 01일
+기사제목	京城府의 總人口
+기사형태	소식
+
+京城府의 總人口
+大正 10年末의 京城人口를 計하면 朝鮮人 39,121戶에 人口 188,640이며 日本人 17,120戶에 人口 69,273人이며 外國人은 總히 261,698人인데 此를 9年度에 比하면 戶數 2,419戶와 人口 11,490人이 增하다.＜30＞

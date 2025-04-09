@@ -1,0 +1,74 @@
+**Header Section:**
+Magazine Title: 개벽 제13호
+Publication Date: 1921년 07월 01일
+Article Title: 저녁, 懸賞文發表 新詩 等外 (Evening, Prize Contest Announcement: New Poetry, Honorable Mention)
+Author: 靈巖 朴判宗 (Yŏngam Pak P'anjong)
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Evening, Prize Contest Announcement: New Poetry, Honorable Mention
+						Yŏngam Pak P'anjong
+
+Boundlessly wide green field
+I stand in its very center
+In the pale red western sky
+A single lark flutters about
+A purplish wave rises in the barley field
+On its leaves shines the tender pink sunlight...
+Ah! Now it is evening.
+
+Critique: The feeling of "Evening" comes across directly. However, it is regrettable that the refinement (推敲) is too lacking. As the title chosen by the author would have killed the meaning of the whole piece, although it may be too arbitrary (獨斷的), I unavoidably changed the title, so please understand. <23>
+
+**Summary**
+
+This entry presents a short pastoral poem titled "Evening" by Pak P'anjong, depicting a tranquil scene in a field at sunset. It is followed by a brief critique, likely from the magazine's editor, praising the poem's atmosphere but lamenting its lack of polish. The critique also notes that the editor changed the poem's original title because the author's choice supposedly detracted from the overall meaning. This piece is interesting for colonial Korean history as it shows the early development of modern Korean poetry (新詩) published in influential magazines like *Gaebyeok*. The editor's critique and unilateral title change offer a glimpse into the editorial practices and potential power dynamics within the literary scene of the time, possibly reflecting constraints or aesthetic judgments prevalent in the colonial period.
+
+**Named Entities**
+
+靈巖 朴判宗	영암 박판종	Yŏngam Pak P'anjong
+靈巖	영암	Yŏngam
+
+**Glossary**
+
+가업시	가없이	Boundlessly, endlessly (Older form of 가없이)
+밧	밭	Field (Older spelling)
+한가온대	한가운데	In the very middle/center (Older spelling)
+서잇다	서 있다	To be standing (Older spelling/form)
+淡紅色	담홍색	Pale red color
+종달세	종달새	Lark (Older spelling)
+바테	밭에	In the field (Older spelling and particle use)
+자저빗	자줏빛	Purple color, purplish (Likely older or dialectal form of 자줏빛)
+입사귀	잎사귀	Leaf
+嫩粉紅	눈분홍	Tender pink
+해ㅅ발	햇발	Ray of sunlight (Older spelling using 사이시옷 'ㅅ')
+只今	지금	Now
+推敲	추고	Refinement, careful revision (of writing)
+넘우	너무	Too, very (Older spelling)
+遺憾	유감	Regret, regrettable
+全軆	전체	The whole, entirety (Older Hanja form of 전체)
+意味	의미	Meaning
+獨斷的	독단적	Arbitrary, dogmatic
+不得已	부득이	Unavoidably, inevitably
+짐작하시오	짐작하시오	Please understand, Please guess/infer (Polite imperative)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	저녁, 懸賞文發表 新詩 等外
+필자	靈巖 朴判宗
+기사형태	시
+
+저녁, 懸賞文發表 新詩 等外
+						靈巖 朴判宗
+가업시 넓은 푸른 밧
+나는 그 한가온대에 서잇다
+淡紅色의 西天엔
+종달세 한 마리가 나불나불
+보리 바테 이는 자저빗 물결
+그 입사귀에 빗나는 嫩粉紅 해ㅅ발...
+아! 只今은 저녁이다.
+
+評 「저녁」이라는 느낌이 바로 날듯하오, 그러나 推敲가 넘우 부족한 것이 遺憾이오, 作者의 題目으로는 全軆의 意味가 죽게 되겟기로 넘우 獨斷的이지마는 不得已 題目을 고치엇스니 짐작하시오.＜23＞

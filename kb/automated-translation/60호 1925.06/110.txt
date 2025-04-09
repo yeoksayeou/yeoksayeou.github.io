@@ -1,0 +1,101 @@
+Magazine Title: 개벽 제60호
+Publication Date: 1925년 06월 01일
+Article Title: 可驚할 黃海道內의 日本人勢力, 農業·林業·鑛業·漁業·商業·金融業·기타에 대하야 (Regarding the Alarming Power of Japanese within Hwanghae Province, Concerning Agriculture, Forestry, Mining, Fishing, Commerce, Finance, and Others)
+Author: Not specified
+Article Type: 소식 (News/Report)
+
+Japanese people, having obtained a Chosŏn like an owl's nest (부헝이집), have seized political power and even economic power, like eating the pheasant and its eggs, encroaching upon the majority of Chosŏn people's rights and interests in just a few years after annexation. Especially Hwanghae Province, whether fortunately or unfortunately, due to its fertile land (膏沃) and abundant products (物産), has suffered this violation more than other regions in Northern Chosŏn.
+
+Everyone can guess that there can be no whole eggs under a broken nest (破巢의 下에 完卵이 업슬 것), but observing the actual situation, one cannot help but feel a sorrowful sentiment arise and one's startled heart pound. Without dwelling on various other matters, I will merely investigate the extent of their power and offer it to the general readership.
+
+First, regarding Japanese agricultural managers, those possessing 30 *chōbo* (町步) or more are as follows: <82>
+
+Next, listing forestry managers with 1,000 *chōbo* or more, it is again like this (as of January, Taishō 14 [1925]).
+
+And what about the mines (鑛山)? (Mines include even Westerners) <84>
+
+Furthermore, investigating the situation of Japanese fishermen within the province reveals the following table: <85>
+
+<82-86>
+
+**Summary**
+
+This article from 1925 highlights the significant and concerning expansion of Japanese economic control across various sectors in Hwanghae Province, Korea, shortly after the Japanese annexation. It notes the province's rich resources as a key factor attracting Japanese interests in agriculture, forestry, mining, fishing, commerce, and finance, leading to the displacement of Korean economic power. The author expresses alarm at the extent of this Japanese dominance, framing it as an inevitable consequence of Korea's weakened state ("broken nest") and intends to present factual data (referenced by page numbers pointing to lists/tables not included in the excerpt) to illustrate the situation. For historians, this piece offers valuable contemporary insight into the scale and nature of Japanese economic colonization in a specific, resource-rich region of Korea during the 1920s. It reflects Korean anxieties about economic disenfranchisement and provides context for understanding the socio-economic impact of Japanese rule.
+
+**Named Entities**
+
+黃海道	황해도	Hwanghae-do
+日本	일본	Ilbon (Japan)
+朝鮮	조선	Chosŏn (Korea)
+서양인	서양인	Sŏyangin (Westerners)
+
+**Glossary**
+
+可驚할	가경할	Alarming, shocking
+勢力	세력	Power, influence
+農業	농업	Agriculture
+林業	임업	Forestry
+鑛業	광업	Mining industry
+漁業	어업	Fishing industry
+商業	상업	Commerce, trade
+金融業	금융업	Finance industry
+부헝이집	부엉이집	Owl's nest (used metaphorically)
+차지하야	차지하여	(Older form of 차지하여) Occupying, seizing
+병합후	병합 후	After annexation
+幾年	기년	A few years
+벌서	벌써	(Older spelling of 벌써) Already
+利權	이권	Rights and interests
+침식하얏다	침식하였다	(Older form of 침식하였다) Encroached upon, eroded
+膏沃하고	고옥하고	Being fertile (land)
+物産	물산	Products, produce
+北部 朝鮮	북부 조선	Northern Korea
+유린을 당하얏다	유린을 당하였다	(Older form of 유린을 당하였다) Suffered violation/trampling
+破巢	파소	Broken nest
+完卵	완란	Whole egg
+업슬	없을	(Older spelling of 없을) Will not be, there are no
+짐작할	짐작할	To guess, to surmise
+實地	실지	Actual place, reality
+애차러운	애처러운	(Older spelling of 애처러운) Pitiful, sorrowful
+소사나고	솟아나고	(Older form of 솟아나고) Arising, springing up
+놀나운	놀라운	(Older spelling of 놀라운) Surprising, startling
+안이치 못한다	않지 못한다	(Older form of 않지 못한다) Cannot help but...
+새삼스러이	새삼스레	(Older form of 새삼스레) Anew, once again
+여하	여하	How it is, the state/extent of
+조사하야	조사하여	(Older form of 조사하여) Investigating
+供할	공할	To provide, to offer
+爲先	우선	First of all
+町步	정보	*Chōbo* (unit of area, approx. 2.45 acres)
+其次	기차	Next, secondly
+임업경영자	임업 경영자	Forestry manager
+擧하면	거하면	If one lists/mentions
+鑛山	광산	Mine
+엇더한가	어떠한가	(Older spelling of 어떠한가) How is it? What about...?
+尙又	상우	Furthermore, moreover
+어업자	어업자	Fisherman, person in the fishing industry
+狀況	상황	Situation, condition
+調하면	조하면	If one investigates
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제60호
+발행일	1925년 06월 01일
+기사제목	可驚할 黃海道內의 日本人勢力, 農業·林業·鑛業·漁業·商業·金融業·기타에 대하야
+기사형태	소식
+
+可驚할 黃海道內의 日本人勢力, 農業·林業·鑛業·漁業·商業·金融業·기타에 대하야
+부헝이집 가튼 朝鮮을 어든 日本 사람들은 꿩먹고 알먹는 격으로 정치의 세력을 차지하고 또 경제의 세력까지 차지하야 병합후 불과 幾年에 벌서 朝鮮人 利權의 대부분을 침식하얏다. 특히 黃海道는 행인지 불행인지 토지가 膏沃하고 物産이 풍부한 까닭에 北部 朝鮮에 잇서서 다른 지방보다도 더욱 그 유린을 당하얏다.
+원래 破巢의 下에 完卵이 업슬 것은 누구나 다 짐작할 것이지만은 實地로 그 현황을 보면 스스로 애차러운 생각이 소사나고 놀나운 가슴이 뛰지 안이치 못한다. 나는 새삼스러이 여러 가지의 말을 하지안코 다만 그들의 세력 여하를 조사하야 일반 독자에 供할 뿐이다.
+爲先 日本人의 농업경영자로 말하면 30 町步 이상를 소유한 자만도 左와 갓다.＜82＞
+
+
+其次에 1,000町步이상의 임업경영자를 擧하면 또 이러하다.(大正14년 1월 현재)
+
+
+鑛山을 또한 엇더한가(광산은 서양인까지도 포함)＜84＞
+
+
+尙又道內의 日本人어업자의 狀況을 調하면 左表와 갓다.＜85＞
+
+＜82-86＞

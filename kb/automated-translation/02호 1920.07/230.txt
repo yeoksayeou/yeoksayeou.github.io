@@ -1,0 +1,78 @@
+**Header Section:**
+Magazine Title: 개벽 (開闢) 제2호
+Publication Date: 1920년 07월 25일
+Article Title: [무제] ([Untitled])
+Author: [Not Specified]
+Article Type: 잡저 (雜著) (Miscellaneous Writing)
+
+**Body Text Translation:**
+A monk (僧) is merely a beggar child (乞丐兒). Born into troubled times (亂世), how could a true man be content with learning beggary?
+These are the words Japan's Toyotomi Hideyoshi cried out as he left the gate of Kōmyō-ji (光明寺), where he had relied upon in his youth. That's right. Not just a man, but a woman too would feel the same.
+
+Should not a man of spirit (丈夫) be shattered like jade rather than remain whole like an earthenware tile (瓦甎)?
+These are the words left by Saigō Takamori, hailed as a great king of character for his great achievements in Japan's Restoration (維新). If any person possesses even a fragment (一片) of spirit (精神), even if they are merely what remains after much suffering, they would naturally feel this way. In our Korean words, it is said, "Even if freezing to death, one does not warm oneself by a dog's fire (계ㅅ불)." This is truly the same tune in a different key (同曲異調).
+
+When Duke Ai of Lu (魯袁公 - likely intended 魯哀公) in China (支那) said to Confucius (孔子), "There was a very forgetful person (健忘症人) who, while moving house (家를 移하면서), forgot (妄하얏다) his wife," Confucius immediately replied, saying, "There is one who is even worse (尤甚한 者) than that. Did not Jie and Zhou (桀紂) forget their very selves (그身)? "<87>
+
+**Summary**
+
+This short piece compiles three anecdotes emphasizing ambition, integrity, and self-awareness. It quotes Toyotomi Hideyoshi rejecting a passive monastic life for action, Saigō Takamori advocating for noble failure over base survival (likened to a Korean proverb about self-respect), and Confucius pointing out that forgetting one's own self and responsibilities (like the tyrants Jie and Zhou) is far worse than forgetting one's possessions or even family. From a historical perspective, the article is interesting for its use of prominent Japanese figures (Hideyoshi, Saigō) as positive examples of ambition and integrity, alongside Chinese classical references and a Korean proverb. This eclectic mix, published in a Korean nationalist magazine like *Kaebyŏk* during the colonial period, might reflect an attempt to inspire Koreans by drawing on diverse sources of strong character and spirit, even from the colonizing power, perhaps focusing on the universal virtues these figures represented rather than their national context.
+
+**Named Entities**
+日本	일본	Japan
+豐臣秀吉	풍신수길	Toyotomi Hideyoshi
+光明寺	광명사	Kōmyō-ji
+西鄕隆盛	서향륭성	Saigō Takamori
+支那	지나	China
+魯袁公	노원공	Duke Yuan of Lu (Likely error for 魯哀公, Duke Ai of Lu)
+孔子	공자	Confucius
+桀紂	걸주	Jie and Zhou
+
+**Glossary**
+僧	승	Monk
+乞丐兒	걸개아	Beggar child (older term)
+亂世	난세	Troubled times, age of chaos
+엇지	어찌	How, why (older spelling)
+學함으로	학함으로	By learning (older grammatical form)
+足할 수 잇스리요	족할 수 있으리오	Would it be enough? (older spelling and form)
+그러타	그렇다	That's right (older spelling/form)
+丈夫	장부	A great man, man of spirit, hero
+붓을 어질지언정	부서질지언정	Even if (it) shatters (older verb form/spelling for 부서지다)
+瓦甎	와전	Earthenware tile (used metaphorically for mediocrity/commonness)
+完全할 줄이 잇슬가 보냐	완전할 줄이 있겠는가	How could one expect to remain whole/complete? (older spelling and phrasing)
+維新	유신	Restoration (referring to Meiji Restoration)
+偉勳	위훈	Great achievement, distinguished service
+人格	인격	Character, personality
+一片	일편	A piece, a fragment
+精神	정신	Spirit, mind, consciousness
+有하면	유하면	If there is/are (older form of 있으면)
+依例히	의례히	As a rule, customarily, naturally (older spelling)
+계ㅅ불	갯불	Dog's fire (contemptible/lowly source of warmth; older spelling with genitive ㅅ)
+안이 쪼인다	아니 쬔다	Does not warm oneself by (fire) (older negative form and spelling of 쬐다)
+하얏다	하였다	Said; did (older spelling of 하였다)
+다려	다려	To (a person); towards (archaic particle, similar to 에게/한테)
+健忘症人	건망증인	Forgetful person
+移하면서	이하면서	While moving (older form, modern 옮기면서)
+妄하얏다	망하였다	Forgot (older form/usage, modern 잊었다)
+한즉	한즉	When (he) said (conjunctive ending, modern 하니)
+尤甚한 者	우심한 자	One who is even worse/more extreme
+잇지오	있지오	There is (polite, slightly archaic form of 있지요/있습니다)
+그身	그 신	That body; oneself (older usage, modern 그 몸/자신)
+忘하지 안이하얏소	잊하지 아니하였소	Did (they) not forget? (rhetorical question using older negative conjugation and politeness level)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	[무제]
+기사형태	잡저
+
+僧은 乞丐兒일뿐, 男兒-亂世에 生하야 엇지 乞丐를 學함으로 足할 수 잇스리요.
+日本 豐臣秀吉이 幼時에 依托하던 光明寺의 門을 나서며 絶叫한 말이다. 그러타. 男兒 말고 女子라도 그럴 것이다.
+
+丈夫 玉이 되어 붓을 어질지언정 瓦甎이 되어 完全할 줄이 잇슬가 보냐.
+日本 維新의 偉勳으로 人格의 大王이라는 西鄕隆盛의 남긴 말이다. 사람이란 다이 울다가 남은 것이나마 一片의 精神이 有하면 依例히 그러할 것이다. 우리 말에 「얼어죽어도 계ㅅ불에는 안이 쪼인다」하얏다. 正히 同曲異調이다.
+
+支那 魯袁公이 孔子다려 「一 健忘症人이 有하야 家를 移하면서 그 妻를 妄하얏다」 한즉 孔子-문득 對하야 曰 그보다 尤甚한 者가 잇지오. 桀紂는 그身을 忘하지 안이하얏소.＜87＞

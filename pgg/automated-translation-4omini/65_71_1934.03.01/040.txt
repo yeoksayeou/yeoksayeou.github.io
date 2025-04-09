@@ -1,0 +1,66 @@
+잡지명	별건곤  
+발행일	1934년 03월 01일  
+기사제목	朝鮮4郡時代의 郡縣數 及 戶口數 (The Number of Counties and Households in the Four Commanderies of Korea)  
+기사형태	잡저 (Essay)  
+
+The Number of Counties and Households in the Four Commanderies of Korea  
+
+County Name       Former Han      Later Han      Western Jin  
+Lelang         Number of Counties        25        18        6  
+Number of Households    62,812    61,492    3,700  
+Population   406,748   257,050     Unknown  
+
+Daifang         Number of Counties         -        -        7  
+Number of Households         -        -    4,900  
+Population         -        -        -  
+
+Hyeonconf         Number of Counties         3         6        3  
+Number of Households    45,006     1,594    3,200  
+Population   221,845    43,163        -  
+
+Liaodong         Number of Counties        18        11        8  
+Number of Households    55,972    64,158    5,400  
+Population   272,539    81,714        -  
+
+**Summary**  
+
+This article provides a detailed account of the number of counties and households in the Four Commanderies of Korea during the Former Han, Later Han, and Western Jin dynasties. It notably discusses the significant population decline in Lelang from 406,748 to 257,050 between the Former and Later Han periods, highlighting the demographic changes that occurred during these times. Historians may find this data revealing as it reflects the shifts in governance and the impacts of historical events on the population during Korea’s late ancient history.
+
+**Named Entities**  
+
+樂浪		Lelang  
+帶方		Daifang  
+玄菟		Hyeonconf  
+遼東		Liaodong  
+
+**Glossary**  
+
+郡縣數		군현수		Number of counties  
+戶口數		호구수		Number of households  
+人口		인구		Population  
+未詳		미상		Unknown  
+
+
+---------------------------
+
+
+잡지명	별건곤 제71호
+발행일	1934년 03월 01일
+기사제목	朝鮮4郡時代의 郡縣數 及 戶口數
+기사형태	잡저
+
+朝鮮4郡時代의 郡縣數 及 戶口數
+郡名       前漢      後漢      西晉
+樂浪 縣數        25        18        6
+戶數    62,812    61,492    3,700
+人口   406,748   257,050     未詳
+帶方 縣數         -        -        7
+戶數         -        -    4,900
+人口         -        -        -
+玄菟 縣數         3         6        3
+戶數    45,006     1,594    3,200
+人口   221,845    43,163        -
+遼東 縣數        18        11        8
+戶數    55,972    64,158    5,400
+人口   272,539    81,714        -＜10＞
+＜10＞

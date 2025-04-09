@@ -1,0 +1,52 @@
+Magazine Title: 개벽 제46호
+Publication Date: 1924년 04월 01일
+Article Title: 社告 (Company Announcement)
+Author: None specified
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Company Announcement**
+
+Publication of the Kyŏnggi-do Issue
+
+The Kyŏnggi-do issue, previously announced in the last issue as intended for publication as an enlarged issue on May 1st, has been changed. It will now be published as regular issues, dividing Kyŏngsŏng and the provinces separately. The provincial section will be published in the May issue, and the Kyŏngsŏng section will be published in the June issue; this revision has been decided.
+
+**Summary**
+
+This brief announcement informs readers of the magazine *Kaeppyŏk* about a change in publication plans for its special issue focusing on Kyŏnggi Province (Kyŏnggi-do). Originally planned as a single, enlarged issue for May 1st, it will now be split into two regular-sized issues: one covering the provincial areas in May and another covering the capital city, Kyŏngsŏng (Seoul), in June. For historians, this notice provides insight into the editorial decisions and potential production constraints faced by Korean magazines during the colonial period. The division between the capital (Kyŏngsŏng) and the rest of the province (地方) highlights the perceived distinction and perhaps the volume of content related to each, reflecting the capital's significance.
+
+**Named Entities**
+
+京畿道	경기도	Kyŏnggi-do
+京城	경성	Kyŏngsŏng
+
+**Glossary**
+
+社告	사고	Company announcement
+京畿道號	경기도호	Kyŏnggi Province Issue (special issue title)
+發行	발행	Publication, issuance
+前號	전호	Previous issue
+임의	이미	Already (older spelling of 이미)
+發表	발표	Announcement, publication
+增大號	증대호	Enlarged issue
+하랴든	하려던	Which was intended to be (older grammatical form)
+普通號	보통호	Regular issue
+京城	경성	Kyŏngsŏng (Colonial name for Seoul)
+地方	지방	Region(s), provinces, local areas (outside the capital)
+別分하야	별분하여	Dividing separately (older spelling/form)
+地方部	지방부	Provincial section/part
+京城部	경성부	Kyŏngsŏng (capital) section/part
+改定	개정	Revision, change
+하얏슴니다	하였습니다	Did, has done (older polite verb ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제46호
+발행일	1924년 04월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+京畿道號 發行
+前號에 임의 發表된 五月 一日 增大號로 發行하랴든 京畿道號는 다시 普通號로 京城과 地方을 別分하야 地方部는 五月號에 京城部는 六月號에 發表하기로 改定하얏슴니다

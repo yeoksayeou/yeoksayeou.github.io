@@ -1,0 +1,126 @@
+**Header Section:**
+Magazine Title: 개벽 제9호
+Publication Date: 1921년 03월 01일
+Article Title: 漢詩 (Hansi - Classical Chinese Poetry)
+Author: 偶丁 (Ujŏng)
+Article Type: 시 (Shi - Poetry)
+
+**Body Text Translation:**
+
+漢詩
+						偶丁
+
+殘冬 (Late Winter)
+How many days remain of late winter?
+Wind and snow fill the window lattice.
+Having a room, it merely grows white.
+Having no books to pass the time ("kill the green").
+In my chest, the "Discussion on Making All Things Equal" (齊物論).
+On the desk, the "Scripture of Human Salvation" (度人經).
+Wishing to speak, whom can I rely on to tell?
+Idly calling the frozen sparrows to listen.
+
+歲除 (New Year's Eve)
+On the left, arranged plum blossoms and stone narcissus.
+In the center, for a moment, I shrug my poetry-reciting shoulders.
+On New Year's Eve, I personally calculate the passing time.
+Again, another year has passed amidst poetry.
+
+元旦 (New Year's Day)
+Bright, bright morning sun marks the New Year's beginning.
+Gradually, I perceive the scenery of the New Year is fresh.
+Plum blossoms that endured the year are still in bud.
+Leaning by the gate, willows naturally lie spread out.
+Snowy white, the three-room house. (*Character before 然 missing/illegible*)
+The East Wind arranges spring across the four seas.
+Before congratulating guests tomorrow, I first congratulate myself—
+On my parent in the high hall, seventy-seven years of age.
+
+春風 (Spring Wind)
+The spring wind is like an honored guest.
+Once it arrives, flourishing beauty immediately follows.
+It comes to sweep away the snow of a thousand mountains.
+It departs, leaving behind the flowers of myriad lands.
+Affectionately, the silk curtains are rolled up.
+Powerlessly, the paper kite slants.
+It is accustomed to sending news of the plum blossoms
+To the home of the recluse on Gushan (孤山).
+
+尋春 (Seeking Spring)
+In the New Year, there's no way to console this aging man.
+On a spring day, seeking spring in the small garden.
+I try asking for news of the plum blossoms beyond the pass—
+How many times has the wind blown until now?
+
+梅 (Plum Blossom)
+In the first month, the east wind blows, willows not yet budded.
+In the courtyard, plum shadows slant across the snow.
+Why is its character so esteemed?
+Simply because it can bloom in a cold place.<92>
+＜91-92＞
+
+**Summary**
+
+This collection of six classical Chinese poems (Hansi) by Ujŏng (偶丁), published in the March 1921 issue of *Kaebyŏk* magazine, follows traditional themes associated with the transition from winter to spring. The poems reflect on the passage of time ("New Year's Eve"), the solitude and contemplation of late winter ("Late Winter"), the freshness of the New Year ("New Year's Day"), the arrival of spring ("Spring Wind," "Seeking Spring"), and the admired resilience of the plum blossom ("Plum Blossom"). The author blends personal feelings, such as contemplation of aging and celebrating a parent's longevity, with observations of nature and references to classical Chinese philosophy (Zhuangzi) and Daoism (Scripture of Human Salvation). For historians studying colonial Korea, these poems are interesting as they demonstrate the continued practice and appreciation of classical Chinese literary forms and themes among Korean intellectuals in the early 1920s, even amidst burgeoning modern Korean literature and nationalist movements. The poems offer insight into the private sentiments and cultural grounding of individuals within the context of Japanese rule, showcasing a connection to East Asian literati traditions.
+
+**Named Entities**
+
+偶丁	우정	Ujŏng
+孤山	고산	Kosan
+
+**Glossary**
+
+殘冬	잔동	Late winter
+風雪	풍설	Wind and snow
+窓櫺	창령	Window lattice (or window frame)
+齊物論	제물론	Zhuangzi's chapter "Discussion on Making All Things Equal"
+度人經	도인경	A Daoist scripture, "Scripture of Human Salvation"
+凍雀	동작	Frozen sparrow(s)
+歲除	세제	New Year's Eve
+梅花	매화	Plum blossom
+水仙	수선	Narcissus
+光陰	광음	Time (lit. light and shadow)
+元旦	원단	New Year's Day
+朝旭	조욱	Morning sun
+蓓蕾	배뢰	Flower bud
+楊柳	양류	Willow tree
+橫陳	횡진	To lie across, spread out horizontally
+東風	동풍	East wind (symbolic of spring)
+貴客	귀객	Honored guest
+繁華	번화	Flourishing, bustling, prosperous
+紙鳶	지연	Paper kite
+處士	처사	Recluse scholar; often refers to Lin Bu (林逋), famed poet associated with plum blossoms and Gushan (孤山).
+尋春	심춘	Seeking spring
+衰翁	쇠옹	Aging man
+品格	품격	Character, dignity, quality
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제9호
+발행일	1921년 03월 01일
+기사제목	漢詩
+필자	偶丁
+기사형태	시
+
+漢詩
+						偶丁
+殘冬
+殘冬餘幾日 風雪滿窓櫺 有室徒生白 無書可殺靑 胸中齊物論 案上度人經 欲語憑誰告 閒呼凍雀廳
+
+歲除
+左揷梅花石水仙 當中一臾聳吟肩 歲除自把光陰筭 又在詩中過一年
+
+元旦
+暉暉朝旭表元辰 轉覺新年物色新 經歲梅花猶蓓蕾 倚門楊柳自橫陳 *然白雪三間屋 料理東風四海春 未賀賓明先賀我 高堂七十七齡親
+
+春風
+春風如貴客 一到便繁華 來掃千山雪 歸留萬國花 有情羅幔捲 無力紙鳶斜 慣送梅消息 孤山處士家
+
+尋春
+新年無計慰衰翁 春日尋春小苑中 試向塞梅消息 如今吹到幾番風
+
+梅
+正月東風柳未芽 一庭梅影雪橫斜 重他品格緣何事 只爲能開冷處花＜92＞
+＜91-92＞

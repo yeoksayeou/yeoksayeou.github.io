@@ -1,0 +1,673 @@
+잡지명	개벽 제3호
+발행일	1920년 08월 25일
+기사제목	脚本 隔夜 (第二幕 一場) (Script: Overnight (Act 2, Scene 1))
+필자	玄哲 (譯補) (Hyŏn Ch'ŏl (Translator/Adaptor))
+기사형태	희곡·시나리오 (Play/Scenario)
+
+Script: Overnight
+						Hyŏn Ch'ŏl (Translator/Adaptor)
+-From the Author to the Reader- It was planned to finish up to the Second Act of this script in Kaebyŏk No. 2, but unfortunately, I was struck by illness at that time, and it is deeply regrettable that I could not proceed as planned according to my wishes. In this Third Issue, I intend to complete up to the First Scene of the Second Act. Also, the song "Lorelei" (로오레라이) in the First Act has a melody and lyrics famous throughout the world. The musical score for that song is published in this issue. Let me briefly tell you the origin of that song. -As some of you may know, there is a legend passed down from old times on the banks of the Rhine River (萊因河邊) in Germany (獨逸國). "Lorelei" is the name of a cliff near the town of Sankt Goar (센트 코-아 町) in that country. Long ago, a bewitchingly beautiful woman of unrivaled beauty sat on this rock, combing her disheveled golden hair while singing in a beautiful voice that captivated people's hearts. Boatmen (船人) and passengers (船客) passing carefully through the swift currents winding by the rock were enchanted by the beautiful maiden's (處女) appearance (姿態) and song, gazing only at the rock. Unknowingly (不覺中), their boats (船體) were gradually swept into the rapid current (急流), struck the Lorelei rock wall (石壁), and finally, boat and people together became vengeful spirits (怨魂) of the Rhine River. Since ancient times (自古), German poets (獨逸詩人) who have put this legend into poetry are not just one or two, but among them, Heine's (하이네) poem is the most famous (有名), and the melody (曲調) by Friedrich Silcher (후리-드릿히질헤룸) is said to be the best. (By custom, the musical score should be inserted here, but due to unavoidable printing circumstances (印刷上 不得已한 事情), it could not be inserted. Readers, please forgive (恕諒) this.) <137>
+
+Somehow, though I don't know why, it pierces my heart,
+The tale passed down from old times soaks my body.
+The Rhine River flows quietly,
+The setting (入) sun, wrapped in evening glow, shines beautifully.
+
+A lovely maiden's (處女) body stands upon the rock,
+Holding a golden comb (梳) in hand, her loosened hair
+She combs while singing, her song's voice
+Strange and wondrous, my soul takes flight.
+
+The passing boat passenger (船客) is captivated by the song,
+Not seeing the rock cliffs, looking only upwards,
+Engulfed in the waves, boat and person.
+Strange is the witch's song, Lorelei.
+
+Please excuse any mistranslations (誤譯). With the author's humble talent (才操), I cannot translate it any better (善譯) than this. As briefly mentioned in the first issue of our magazine (雜志), I obtained approval (承認) for the translation rights (譯權) from the original playwright (原脚色者), Mr. Kusuyama (楠山先生), while I was a student (在學當時). However, a long time (長久한 時日) passed, and I didn't know what had become of the matter. When I started the translation, Mr. Kusuyama's address was unknown (住所不明), so I sent a letter (書面) to Mr. Akita (秋田先生), explaining the reason for the translation and entrusting (付託) him with conveying the message to Mr. Kusuyama. At the end of last month (去月 晦間), I received a reply (回報) from Mr. Akita stating that Mr. Kusuyama had gladly consented (喜諾). The translator expresses his gratitude (謝意) to Mr. Kusuyama Masao (楠山正雄) and Mr. Akita Ujaku (秋田雨雀).
+
+Second Act
+First Scene: Moscow (모즈코). Stakhov's (스담홉읍) House
+A study decorated in an old-fashioned (古風) Russian style (露西亞軆).
+On the right side (右便) towards the audience (觀客席), a room door (房門) leading to the outer door (外門). On the inner right side (內橫側), the dining room door (食堂門). The interior decoration (內部의 裝飾) is visible. On the left side (左便), a large wooden door (板門) leading to the parlor (客室). The stage front (舞臺正面) has large glass doors (琉璃門). Beyond them is a veranda. Following its steps down leads to a vast flower garden (花園) with dense trees (樹木이 鬱蒼). Windows (窓) are on the left and right (左右) of the front.
+Indoors (室內): A round table (圓机), a flower vase stand (花投机), a writing desk (寫字机) and chairs (椅子), a sofa, a Turkish chair (土耳其椅子), a piano, a book table (書卓), sculptures (彫刻像), oil paintings (油畵像), a full-length mirror (體鏡?), etc. <138>
+The overall decoration (全體) reflects an old-fashioned military taste (軍人的嗜好) and an imitation (模倣) of Paris style (파리스타일).
+A hot and clear (晴明) day, around afternoon (午後頃).
+Elena. (With a cheerful expression (快活한 表情), puts down the book (冊) she was reading and, mixing sighs and yawns (합폐음?), speaks) Ahh, I'm tired. They say Bulgarian is originally the same as Russian, but it's still quite difficult. He just says it's easy for no reason; he's quite a liar too. (Takes out her pocket watch (懷中時計) and smiles brightly) It's already half-past one. It's time for him to arrive. I still don't know anything, what should I do? The teacher (先生님) must be worried now. Why would he do that? Mr. Insarov (인사롭 先生님). (Takes out a photograph (寫眞) from the desk drawer (冊箱) and kisses (接物?) it) Still playing innocent (시치미 뚝 낫고 잇다눔). How hateful. (Puts the photograph in the desk drawer (冊床설합)) - But still, it's strange. For the past few days, I've just been talking with that Madonna in the painting. (Goes to the oil painting (油畵)) Ah, you are always there alone, looking so stifled. As for me, I haven't been bored lately. Dimitri Insarov—that's right. I have a wonderful friend named Dimitri Insarov. I can always be alone. No friends, no siblings (兄弟). How have I, your dutiful child, survived all this time? Bersenev (벨세넵) and Shubin (슈빈) are good people, but still, they're not as good as him. Ah! I think he's coming. I hear footsteps. Maybe he's here. What should I do? If I stay hunched over like this, he'll come in, right? (Goes before the Madonna painting and bows silently (黙禮))
+(Old Man Uval (우왈老人), smoking a long pipe, opens the door and enters. Seeing Elena's back, he looks surprised and makes a comical gesture, stepping back.)
+Elena. You've come. Do you know where I am? (Raises her head and sees the Old Man) I thought it was someone else, Uncle (아제시).
+Old Man Uval. Hmm? It's Uncle.
+Elena. Why did you come? I was completely fooled. (Rushes over and pushes the Old Man's swaying body into the Turkish chair (土耳其椅子).)
+Old Man Uval. Playing tricks again.
+Elena. So what? It doesn't matter, does it? Uncle, I did this for you, right? (Rubs her head against him) Let me kiss you here. Your bald patch is showing nicely. (Kisses the back of his head.)
+Old Man Uval. Hmph! (Waves both hands strangely) What is this behavior? <139>
+Elena. (In an increasingly soft tone) Um. Uncle? Were you nicely bald like this when you were young too?
+Old Man Uval. What, young? When I was a Second Lieutenant in the Army, participating in the Napoleonic (나파륜) War—
+Elena. Your bearing (態度) was manly, and your dancing (舞蹈) was superb. I've heard it often. But your hair, then and now—
+Uval. One needs a bald forehead to fall in love (戀愛).
+Elena. What? Uncle, have you ever been in love?
+Uval. Of course, I have! That's why I know the look in the eyes of a woman in love.
+Elena. They say roses (薔薇꼿) bloom in the eyes of a woman in love.
+Uval. That's right! And that's why roses have bloomed in your eyes too.
+Elena. You're just lying for no reason— I'm not in love or anything like that.— I just feel happy in my heart for no reason. Everything makes me so happy I can hardly bear it. I don't know if I've gone mad.
+Old Man Uval. Why wouldn't you be?
+Elena. Think whatever you want. La la la, la la la. (Taps her foot to the rhythm (拍子).)
+(Shubin opens the parlor door and looks out.)
+Elena. (Seeing Shubin) Ah! Pavel (바벨). I have something to tell you.
+Shubin. It's someone different. (Shrugs his shoulders and goes back inside.)
+Elena. Why is he angry? (Makes a pouting face.)
+(Looks at the hanging clock (걸닌 時計).)
+Elena. (Suddenly tense) Oh my, it's already two o'clock. What's happened to him? Maybe he's not coming after all. But there's no reason (理) for that. After making such a promise (約條). He's not the kind of gentleman who would break a promise.— Oh dear. Did something happen? Yesterday when I saw him, his face looked strange somehow. I hope nothing bad happened. It seemed like he was deliberately hiding feeling unwell. I hope he hasn't fallen ill.— I'm so worried I can't stand it. Should I go now? What if I miss him on the way? I can't go, what should I do? (Goes towards the door with an anxious attitude.)
+(Laughter and talking sounds are heard from outside the door.)
+Elena. (Stops suddenly, thinking something is strange.) <140>
+(Stakhov (스담호웁), in First Lieutenant's (中尉) uniform (軍服), ushers in Secretary (書記官) Klutovsky (클라트우스키이).)
+Stakhov (스담호든). (Seeing Elena) Elena. A guest has arrived. - First Secretary (一等書記官), this is my daughter (女息). Please, make yourself acquainted.—
+Klutovsky (클나트위스키이). It's a pleasure to meet you for the first time. I am Klutovsky, First Secretary of the Senate (元老院 一等書記官). (Offers his hand.)
+Elena. (With a stiff, reluctant expression. Wordlessly offers her hand.)
+Stakhov (스담호들). Where did your mother go?
+Elena. I don't know (알 수 업세요).
+Stakhov (스담호들). What do you mean, you don't know? Hmm?
+Elena. I said I don't know because I don't know.— Please excuse me for a moment (잠간 失禮합니다). (Starts to leave.)
+Stakhov (스담호든). (Roars like a tiger) Stay still! Where are you going? Where? We have a guest. Where are you going—
+Elena. My apologies. I thought there was nothing important to do.
+Stakhov (스담호듯). Show the guest into the parlor (客室).— What are you all doing? (Bustles (紛走이) back and forth, shouting loudly (大聲으로)) Anna! Uval! (The Old Man, who was dozing in the Turkish chair with his pipe in his mouth, is startled by the noise and comes forward. Stakhov spots him. He stands stiffly with a strange attitude. Stakhov just continues shouting) Pavel (바위엘)! Zoia (소오아)! Vasily (빠시리)! Minna Petrovna (민나삐요틀)! Masha (마아샤)!
+(Responding to the call, Anna (안나) leads the way as six or seven men and women enter from various doors, whispering among themselves and lining up (整列).)
+All. (Almost simultaneously (同時에)) Yes, we're here.
+Stakhov. (Frowning (양미간을 쩝푸리고)) First Secretary, this is my wife (室人). (Introduces Anna.)
+Anna. Welcome.
+Klutovsky. Madam (貴婦人), I am First Secretary Klutovsky. (Shakes hands (握手).)
+Stakhov. Elena, guide (引導) him in.
+Elena. (Shows a pained, agonized (苦悶的) expression during this) Yes.
+(With a reluctant (不得已한) attitude, leads the way into the parlor.)
+(The Secretary follows behind.)
+(Anna and the others start to leave gradually.)
+Stakhov. Anna, wait a moment. It's alright if you don't go. (Stands apart.)
+(The others have gone into the parlor or out the outer door.) <141>
+Anna. (Sitting in a chair) What is it? Who is this guest who just arrived? (Gestures towards the parlor.)
+Stakhov. (Striding back and forth with large steps) That's it. That's why I told you to stay. (Hurries over to his wife's side and speaks in a low voice) As I mentioned earlier, that gentleman's name is Egor Andreevich Klutovsky (에고오울 안트레위치 클라트 위스키)—he's the First Secretary (一等書記官) of the Senate (元老院)—
+Anna. I knew that already. But why is that gentleman at our house—
+Stakhov. Just listen without saying anything. There's an order to things when speaking. The reason I've started socializing (交際) with such a gentleman is this: even now, there isn't a single moment (一時 一刻) when I don't think (生覺) about family matters— Why are you looking down on people? You think I just wander around playing all my life without caring for the household, just saying things like this. It's not like I enjoyed dance parties or women's gatherings from the moment I was born. When I come home, my wife (녀편네) just complains she's sick with a pale face, devoid of a drop of blood as if her heart has burst—
+Anna. So what am I saying? Just do as you please.
+Stakhov. Well, let's not talk about that kind of thing. Whether what I'm doing is right or wrong, time (時日) itself will naturally judge (判斷), so there's no need to argue this or that. But one thing to remember (記憶) is that I am a person who not only knows my duty (義務) in any situation (境遇), but also knows what must be done as the head of the household (一家의 家長). (Gradually shifts to a speech-like tone) So, the matter to consider right now (目前) is Elena. Isn't it time to find her a match—that is, I think she must get married. How old is she now?
+Anna. She's twenty.
+Stakhov. So, what's a twenty-year-old girl doing? Acting like some great philanthropist (慈善家), loving stray dog-like beggar children (子息), sleeping with beggar girls, and not only that, but lately, talking about philosophy (哲學) or literature (文學) she doesn't even understand, flipping through difficult books (冊張) distractedly (精神업시), chasing after artists (美術家) or some philosopher (哲學者). And is that all? Hanging around day and night with some foreign fellow from Montenegro (몬대네그로) or whatever, whose seed (種子) he is I don't even know, just causing trouble— So, if she keeps this up, will nothing happen? In my opinion (生覺), if she doesn't start acting a bit more like a human being, eventually this Stakhov house will be ruined. <142>
+Anna. Don't say such things.
+Stakhov. Just listen to me for a bit. But let's not get sidetracked. To put it simply. I'm thinking of deciding on that gentleman over there (저기 잇는) (pointing to the parlor) as our son-in-law, and therefore, I intend to cultivate a close relationship (親密이 交際) with him. I don't know what you think, wife (마누라), but in my opinion (生覺), such a position is not easy to come by, and it doesn't seem like a rash act either. That man is probably thirty-three this year. You can't say he's young (졈-다고), but you certainly can't say he's old. Not only that, he graduated from the highest law school, his manners (禮義) and behavior (行動) are dignified, he's a First Secretary, a council member of the university, and he even received the Order of St. Stanislav (스다니스라 頸章).— However, let me make one thing clear: I'm not blinded by his position (地位) or decorations (動章). I'm definitely not like other common parents who don't look at the person involved but only consider the family background, wealth (財産), or status. As you always say, wife, Elena likes men who are active (活動) in real society (實社會), so I think (生覺) there couldn't be a more ideal (理想的) husband than Mr. Klutovsky, who has wide connections (交際가 널고) and is well-versed in real society. Not only that, Elena likes charity (慈善), right? Mr. Klutovsky too, limiting himself to what doesn't hinder (障碍되지 안이하는대 限해서) his own living (生活) from his income (收入). Do you understand? Understand? After securing enough for his living, he plans to distribute (分配) the entire (全部) inheritance (財産) from his father to his siblings (兄弟). Isn't he a splendid philanthropist?
+Anna. Really? By the way, what does his father do...
+Stakhov. His father, you ask? This gentleman is also a splendid man. He's a moralist (道德家) with a stern (嚴肅), stoic nature. That spirit (氣象) has been passed down (傳해 왓지) to his son. Originally a retired Major (退職少佐)—
+Anna. But now—
+Stakhov. Now, you mean? Now he resides as the general manager (總營理人) managing (營理) the estate (領地) of Count Ssky (스키이 伯爵) in the countryside—
+Anna. Heh. <143>
+Stakhov. What 'heh'? After I went to the trouble of explaining—
+Anna. Who said anything?
+Stakhov. What do you mean you didn't say anything? Well, never mind that. Anyway, just know that my intention is such. By the way, have you prepared something for entertaining (待接) him? You must pay special (特別) attention (注意) not to be negligent (疎忽하지 안토록). This guest is different from the one who rolled in from Montenegro (몬데네구로).
+Anna. (Looking into the dining room) It's already prepared. I told the cook (料理하는 반가) to make it French style (佛蘭西세).
+Stakhov. I don't know about such things.— Anyway, I've been too rude (失禮) leaving the guest with Elena or Pavel (바우엘). I should go see him myself.
+(Suddenly makes the sound of his sword (佩劍) clanking absurdly and strides into the parlor.)
+Anna. (With a dumbfounded look, watches him go for a moment, sighs, looking worried, stands up, looks into the dining room, says something, then comes back out, looks around the room, straightens chairs and furniture (什器갓튼 것), and also enters the parlor. From the parlor, laughter has been heard occasionally (間間이), and gradually the conversation (談活) picks up. As Anna enters, laughter is heard, and then Secretary Klutovsky, Lieutenant Stakhov, and Anna emerge, walking in a line. Behind them, Shubin and Old Man Uval, and Zoia (괴쇼오야? typo for 소오아/Zoia) also come out.)
+Anna. Please come into the dining room.
+Klutovsky. I'm imposing too much— (Turns his head and looks at the framed oil painting (油繪額面)) Haha, Great Ancestor Konstantin (큰스단 太公?), splendidly painted.
+Stakhov. Are you speaking of that? To me, I don't know what art (美術) is, but I know it's splendidly painted.
+Klutovsky. I feel the same way. Things like art— (Glancing disdainfully at Shubin) I mean, for people like us who are absorbed (沒頭) in practical affairs (實務), it's truly a pitiful object (物件). Hahaha.
+(A servant (給仕) in white clothes opens the dining room door. Klutovsky goes first, followed by the others.)
+(Shubin shrugs his shoulders, mimicking Klutovsky's attitude (態度) making Zoia laugh. Old Man Uval follows behind with strange gestures.) <144>
+(The scattered sounds of everyone taking their seats (着席), the clinking of glasses (琉璃그럭) and silverware (쇠 그것), and the laughter of many people create an elegant rhythm (閑雅한 리슴) with a lonely (寂寥) mood (氣分).)
+(The stage is empty (空虛) for a brief moment (暫間동안).)
+Voice of a slender (細) girl. (Comes from among the garden trees (庭園樹木裡).)
+
+Song
+Where is the blind (압못보는) dove going?
+Leaving its former (以前) home, where is it going?
+If that aimless (定處업는) heart just flies on,
+Is there an end to that path covered in snow (눈)? (Or 'eyes'?)
+
+Where is the blind dove going?
+Crossing mountains, crossing fields, just going on,
+Does it think there's another unknown world (世界)?
+Does it think there's a high (놉고도) and clear sky?
+
+Miss, miss. Miss Elena (에레나 아가씨).
+(From the garden trees (庭園樹林), a blind (盲目) girl, Kaja (가아쟈), emerges. She climbs the terraced steps (層層臺), wanders here and there, calling sensitively (銳敏하게) in a low voice.)
+Miss, miss. Miss Elena (에레나 아가끼 - typo for 아가씨). (Receiving no answer no matter how she calls, she loses heart and goes back down the steps. She disappears into the trees along that path.)
+(Shortly after, the dining room door opens, and Elena appears, looking around as if avoiding someone's eyes.)
+Elena. (Towards the garden, in a low voice) Kaja (가야쟈), Kaja. Kaja (가아쟈). Where did she go? She must have gone back already. Without Kaja— Really, Mr. Insarov (인사롭氏) isn't coming. (Smacks her lips and goes out onto the veranda.)
+(Collides with Bersenev (벨세엡) coming up onto the veranda.)
+Elena. Ah, Andrei Petrovich (안드레이베트로위치), where are you going?
+Bersenev. Where are you going?
+Elena. Nowhere. I'm not going anywhere. Just now, Kaja came by singing the song she always sings, but I can't see where she went.
+Bersenev. Yes, you mean the beggar girl. I just met her on the street. She probably left because no one was here. You must have guests today. It seems very busy (紛雜).
+Elena. What guest? Just a passing visitor came. <145>
+Bersenev. Then I'll come again. (Makes to leave quickly.)
+Elena. (Hurriedly grabs Bersenev's hand and pulls him inside.)
+No. It's alright. It doesn't matter. They're busy eating right now— Here, sit down. (Forces him into the Turkish chair and sits beside him.)
+Elena. (Sitting beside him, tightly grips his hands and speaks forcefully) I have something to ask you. Andrei Petrovich, you came because you had something to tell me, didn't you?
+Bersenev. Yes,— How did you know that?
+Elena. You don't need to know that. Just tell me. No, I roughly know already. That you came because you had urgent news. From the moment you arrived—
+Bersenev. Is that so?— Then I'll tell you. It's nothing else but this, Miss Elena. Did Insarov come here today?
+Elena. No. He promised (約束) to come today, but—
+Bersenev. Insarov is leaving on a trip (旅行) today. Right away, leaving this land. Leaving my master (主人).
+Elena. (Convulsively (痙攣的으로)) What? Dimitri Nikarovitch (지미도리, 니가로윗티?) is going on a trip?— Today? Right away, leaving this land— Without even coming to say goodbye.— What is this? Why is that? For what reason (까닭)? (Stands up and paces back and forth, unsure what to do.)
+Bersenev. As you know. That man doesn't talk about this or that when he does something. But in my opinion. Come and sit here. Why does your face look so pale? But in my opinion, deciding to go on a trip so suddenly must mean there's some reason—
+Elena. Yes? What reason? Did something happen? What is it? (Sits beside him, grips Bersenev's hand tightly, looking thoughtful) Ah! Previously, didn't Dimitri Nikarovitch once go somewhere without a word of coming or going, and was gone for quite a while?
+Bersenev. That's right. But at that time, there were two people who went with him.
+Elena. That's right. They were also Bulgarians, weren't they? Dimitri himself mentioned they weren't such good-looking people, and something funny happened. They were comrades (同志) too, weren't they.— At that time, a conflict (衝突) arose among the comrades <146> and he went to mediate (仲裁).
+Bersenev. That's what he said.
+Elena. Yes. And also about planning (計劃) a great movement (大運動) with his comrades. Saying it makes it sound simple, but it's truly a spine-chilling (肝膽이 서늘할) matter.— But that time, though he left suddenly, he came back after three days. Maybe this time too, he'll come back after three or four days.
+Bersenev. I wish it were so, but— perhaps it won't be like that.— This time, there's no one else, he's alone. Not only that, recently, no Bulgarians have come, and other than visiting your house daily and reading Bulgarian books, he has been spending peaceful and uneventful (平穩無事) days (歲月).
+Elena. (Her face changes (變), speaks listlessly (氣脉업는)) Then it must be so.— Who can know?
+Bersenev. (Smiling sorrowfully (愁心)) Should I say 'unfortunately'?— There's this story. It's already past, it was this spring. When I first got to know Insarov, one evening, I went with Insarov to my relative's house. At that time, there was a young lady in the relative's house who was quite a beauty (美人). Even the iron-willed (鐵石) Insarov seemed captivated by this maiden's beautiful appearance, so I asked him about it once. Insarov just smiled and said, 'Your thoughts are mistaken.' He added, 'As you think, my heart hasn't been drawn yet, but if it really were to become like that, I would have no choice but to immediately leave the danger zone (危險地帶).' When asked why, he said it was because he couldn't sacrifice (犧牲) the work (事業) for the nation (國民) to which he had dedicated his life for the sake of his own private pleasure (私事快樂) and happiness (幸福). He then continued, adding, 『There is not the slightest (毫末도) reason (理由) for a Bulgarian youth to love a Russian girl,』 thus concluding his remarks.
+Elena. But— what does that incident have to do with me—
+Bersenev. Are you saying it has no connection (關係)? Why is that? I think that what happened then might really be happening this time—
+Elena. But... that's... to me... what... Please don't tell me such things.
+Bersenev. Is that so? Truly. Insarov has now fallen in love with a Russian girl. Therefore <147> I think he has probably decided (決心) to leave this land immediately, intending to keep the oath (盟誓) he has spoken of all his life.
+Elena. Ah, Andrei Petrovich—
+(Suddenly, the laughter of three or four people comes from the dining room, sounding like people are emerging.)
+Bersenev. (Quickly grabbing his hat) Ah, right, the guests are here. I must be going. Let's meet again then. (Leaves.)
+Elena. (Hurriedly follows, grabbing his hand) Mr. Bersenev! You are wrong about many things. You are truly a good person, like an angel.— (Moves her lips as if finding it hard to speak) But... but... will he not come even once more?
+Bersenev. (In a grave tone) He might want to come.— But if he does come, all his resolve will vanish.— Miss Elena, do you care for Mr. Insarov that much?
+Elena. (In a tearful voice) Yes. Mr. Bersenev— Please forgive (容恕) me.
+Bersenev. There is nothing to forgive. —But speaking truly (眞情), I now feel as if I've fallen into a deep, dark pit, and I can't bear it. —Elena— I loved you too. But—but. That was just a dream. A dream. Let's meet again. (Leaves quickly.)
+Elena. Mr. Bersenev! Look at me. Look— Is it really true that Mr. Insarov won't come even once more? (Dejectedly, her body sways, and she collapses onto the long chair.)
+(Noise comes from the dining room, sounding like people are getting up from their seats. Simultaneously, Elena collects herself, stands up, goes into the parlor, puts on her hat, and, still wearing her summer coat, slips out into the garden. Clouds lower gradually, the sky darkens, and the roaring sound of wind and distant thunder (雷聲) are heard.)
+(As Elena leaves, the dining room door opens immediately, and everyone comes out talking about something.)
+Klutovsky. (Walking out alongside Stakhov) That's right. The primary weakness (缺點) of us Russians is always the idea (思想) of acting under some definite principle (確實한 主義). The idea of discarding all pretense (虛飾) and acting with one's own strength as capital (資本) <148> is it. Generally, the great flaw (흠) of Russians is being drawn to such vast empty fantasies (浩濶空想) as scholarship (學問) or art (藝術).
+Stakhov. People who babble about art or whatever are often fellows with no principles (主義) or anything for today, right?
+Klutovsky. That's right. Overall, art (藝術) is a poison (毒物) that leads the nation (國民) to extravagance (浮華). It's only because the state (國家) somehow manages to govern that such useless things (物件) remain.
+Shubin. But artists, no matter how useless you say they are, don't take many bribes (賂物), whereas useless officials (官員) do take bribes.
+Klutovsky. (Overbearingly) Taking bribes doesn't necessarily make one a criminal (罪人). There can be unavoidable circumstances (境遇) for that too.
+Shubin. Oh? So bribes are also taken based on principle (主義)?
+Klutovsky. Where did such talk come from? I just meant that even in taking bribes, there can be sympathetic (同情) circumstances. No matter the circumstances (事情), once discovered (發覺), one receives punishment without pardon (容赦), that's what I meant.
+Shubin. So you mean punishing someone who hasn't sinned?
+Klutovsky. That's right too. That's also because of principle (主義).
+Shubin. This might be rude (失禮), but could you perhaps explain (說明) that principle (主義) clearly?
+Klutovsky. (Mumbling) That's nothing other than— no, there's really no need to explain.
+Stakhov. Of course (勿論)! Of course, no need for explanation, it's obvious.— Anyway, where did Elena go? I haven't seen her for a while. How can she be so rude (失禮) to a guest?
+Anna. She's probably in her room. She said her head hurt, maybe it's quite bad. Shubin, go check on her.
+(Shubin, Uval, Zoia (소오아) all understand and exit.)
+(The wind grows stronger, and large raindrops fall.)
+Stakhov. What's wrong with the weather? You won't be leaving right away, will you? Ah, right, Mr. Klutovsky, there's something I absolutely must get your critique (批評) on. I acquired it from America recently. (Hurries towards the parlor, looking at his wife) Anna, tell them to bring some tea— (Exits.)
+Anna. (Nods politely to the guest and exits towards the dining room.) <149>
+(Klutovsky sits alone in a chair and yawns (합흠). Just then, the dining room door opens, and Zoia pokes her head in.)
+Zoia. (Showing only half her body (半身)) Miss Elena isn't here. (Notices the guest is alone) Oh— Excuse me (失禮햇슴니다). (Starts to leave.)
+Klutovsky. Look here. Look here. (Calls her.)
+Zoia. (Hesitates, then assumes an attentive tone) Is something wrong?
+Klutovsky. Come here, come here.
+Zoia. Yes. (Comes closer.)
+Klutovsky. Here, this way. (Quickly grabs the girl's hand and seats her beside him) What's your name?
+Zoia. Zoia Nikitishna Müller (소오아, 니키디이수나, 미유루럴).
+Klutovsky. Oh. So your hometown is Germany (獨의)?
+Zoia. No. My father is German.
+Klutovsky. I see. Then you must be good at music. Let me see your hands. (Takes Zoia's hand firmly in both of his.)
+Your hands are pretty. You probably play well. (Kisses her hand.)
+Zoia. Eek. Why are you doing this?
+Klutovsky. It's not 'why are you doing this'. It's true. (Stands up, holding the girl's hand) I like you. Why is the young lady of this house such a prude?— Let's play together. (Forces Zoia to the piano, opens the keyboard lid, and spreads out the sheet music (譜表).)
+Zoia. (With a happy expression (喜色)) What should I play?
+Klutovsky. Anything. Play your best piece (第一 長技) for me.
+Zoia. Then... Pe... Pēpē? Or should I play Beethoven (베에트벤)? (Presses the piano keys to test the sound.)
+Klutovsky. Pēpē or Beethoven, whatever. I prefer S— (Suddenly (突然), a powerful (强大) clap of thunder (雷聲) sounds. Zoia, startled, cries out and stands up. Klutovsky puts his arm around her neck, presses his face against hers, and kisses her. At that moment, the dining room door opens, and a boy (뽀이) brings in tea. Klutovsky hastily (荒急히) releases the girl's neck he was holding and stands there dispiritedly (無聊이). Thunder and lightning (電光) continue.) ... Curtain (幕) <150>
+<137-150>
+
+**Summary**
+
+This excerpt is Act 2, Scene 1 of the play "Overnight," translated/adapted by Hyŏn Ch'ŏl for the Korean magazine *Kaebyŏk* in 1920. It includes a preface discussing the Lorelei legend and acknowledging the original Japanese playwright Kusuyama Masao. The scene, set in the Stakhov house in Moscow, depicts Elena anxiously awaiting the Bulgarian nationalist Insarov. Her father, Stakhov, introduces a potential suitor, the pompous official Klutovsky. Elena learns from Bersenev (who secretly loves her) that Insarov plans to leave suddenly, likely because he has fallen for Elena but prioritizes his national cause. Distraught, Elena leaves as a storm begins. Klutovsky, left alone briefly, makes unwanted advances on the young German-Russian woman Zoia just as thunder crashes.
+
+From a historical perspective, the publication in *Kaebyŏk*, a prominent nationalist and intellectual magazine during the Japanese colonial period, is significant. The translation itself reflects efforts towards cultural modernization and engagement with foreign literature (possibly Russian via Japanese adaptation). The play's themes, particularly Insarov's conflict between personal love (for Elena, a Russian) and national duty (for Bulgaria), could resonate with Korean intellectuals grappling with similar dilemmas under colonial rule. Klutovsky's character, representing arrogant and possibly corrupt officialdom, might also offer a veiled critique applicable to the colonial context.
+
+**Named Entities**
+
+玄哲	현철	Hyŏn Ch'ŏl
+獨逸國	독일국	Germany
+萊因河	라인하	Rhine River
+센트 코-아 町	센트 코아 정	Sankt Goar Town
+하이네	하이네	Heine
+후리-드릿히질헤룸	프리드리히 질허	Friedrich Silcher
+楠山正雄	남산정웅 (일본어: くすやままさお)	Kusuyama Masao
+秋田雨雀	추전우작 (일본어: あきたうじゃく)	Akita Ujaku
+모즈코	모즈코 (모스크바)	Moscow (Mosŭk'o)
+스담홉읍/스담호웁/스담호들/스담호듯	스탐호프	Stakhov (Sŭdamhoŭp/Sŭdamhodŭl/Sŭdamhodŭt)
+에레나	엘레나	Elena
+우왈 老人	우발 노인	Old Man Uval
+로오레라이	로렐라이	Lorelei
+나파륜	나폴레옹	Napoleon
+슈빈	슈빈	Shubin
+바벨	파벨	Pavel (Bab-el)
+인사롭	인사로프	Insarov
+클라트우스키이/클나트위스키이	클루톱스키	Klutovsky (K'ŭllat'uusŭk'ii / K'ŭllat'ŭwisŭk'ii)
+안나	안나	Anna
+소오아	조야	Zoia (Sooa)
+빠시리	바실리	Vasily (Ppasiri)
+민나삐요틀	민나 표도로브나?	Minna Petrovna? (Minnappiyot'ŭl)
+마아샤	마샤	Masha (Maasya)
+元老院	원로원	Senate
+에고오울 안트레위치	예고르 안드레예비치	Egor Andreevich (Egooul Ant'ŭrewich'i)
+스다니스라 頸章	스타니슬라프 훈장	Order of St. Stanislav (Sŭdanisŭra Kyŏngjang)
+스키이 伯爵	스키 백작	Count Ssky (Sŭk'ii Paekchak)
+佛蘭西	불란서	France (Pullan-sŏ)
+큰스단 太公	콘스탄틴 태공?	Great Ancestor Konstantin? (K'ŭnsŭdan T'aegong)
+가야쟈	카탸	Katya (Kaaja / Kaya-jya)
+안드레이베트로위치	안드레이 페트로비치	Andrei Petrovich (Andŭreibet'ŭrowich'i)
+불가리아	불가리아	Bulgaria
+니키디이수나 미유루럴	니키티시나 뮐러	Nikitishna Müller (Nik'idiisuna Miyururŏl)
+베에트벤	베토벤	Beethoven (Peet'ŭben)
+아메리카	아메리카	America
+
+**Glossary**
+
+脚本	각본	Script; Play
+隔夜	격야	Overnight
+譯補	역보	Translation and Adaptation/Supplementation
+筆者	필자	Writer; Author (refers to the translator here)
+讀者	독자	Reader
+開闢	개벽	Creation; The Dawn (Magazine Name)
+作定	작정	Plan; Intention (Older form/usage)
+病魔	병마	Demon of illness; Serious illness
+如意	여의	As one wishes; According to one's desire
+豫定	예정	Plan; Schedule
+未安	미안	Sorry; Regretful (Formal/older nuance)
+譜表	보표	Musical score
+登載	등재	Publish; List; Include
+出處	출처	Origin; Source
+傳說	전설	Legend
+斷崖	단애	Cliff
+妖艶	요염	Bewitching; Seductively beautiful
+絶世	절세	Unrivaled in the world
+姿態	자태	Figure; Appearance; Demeanor
+不覺中	불각중	Unknowingly; Unconsciously
+船體	선체	Hull (of a boat/ship)
+急流	급류	Rapid current
+石壁	석벽	Stone wall
+怨魂	원혼	Vengeful spirit; Grudge-filled soul
+曲調	곡조	Melody; Tune
+印刷上	인쇄상	Regarding printing
+不得已	부득이	Unavoidable; Inevitable
+恕諒	서량	Forgive and understand (Older/literary term)
+誤譯	오역	Mistranslation
+才操	재조	Talent; Skill (Older term)
+善譯	선역	Good translation
+雜志	잡지	Magazine
+原脚色者	원각색자	Original playwright/scriptwriter
+承認	승인	Approval; Consent; Permission
+住所不明	주소불명	Address unknown
+書面	서면	Letter; Document
+付託	부탁	Entrust with; Request
+回報	회보	Reply; Response
+喜諾	희낙	Gladly consent; Joyful approval
+謝意	사의	Gratitude; Thanks
+表하다	표하다	To express; To show
+書齊	서재	Study (room)
+觀客席	관객석	Audience seats
+食堂	식당	Dining room
+客室	객실	Guest room; Parlor
+琉璃門	유리문	Glass door
+花園	화원	Flower garden
+鬱蒼하다	울창하다	To be dense; luxuriant (of forests, trees)
+圓机	원기	Round table (机 is an older character for 책상/table)
+寫字机	사자기	Writing desk
+彫刻像	조각상	Sculpture; Statue
+油畵像	유화상	Oil painting portrait
+軍人的	군인적	Military-style
+嗜好	기호	Taste; Preference
+模倣	모방	Imitation; Copying
+晴明하다	청명하다	To be clear and bright (weather)
+快活	쾌활	Cheerful; Lively
+합폐음	하품	Yawn (likely typo or archaic form)
+懷中時計	회중시계	Pocket watch
+先生님	선생님	Teacher; Mr.; Sir (Respectful term)
+寫眞	사진	Photograph
+接物	접물	Kiss (likely refers to 接吻, older/uncommon term)
+冊床	책상	Desk (床 can mean 'bed' but here combined with 冊 means desk)
+설합	서랍	Drawer (Older spelling)
+兄弟	형제	Siblings; Brothers
+亦是	역시	Also; As expected (Hanja form of 역시)
+態度	태도	Attitude; Manner; Bearing
+舞蹈	무도	Dance
+戀愛	연애	Love; Romance
+薔薇	장미	Rose
+게집	계집	Woman; Girl (Older, potentially derogatory term)
+拍子	박자	Rhythm; Beat; Tempo
+約條	약조	Promise; Agreement (Older term)
+道理	도리	Reason; Logic; Way (Can also mean duty/moral principles)
+中尉	중위	First Lieutenant
+書記官	서기관	Secretary; Clerk (Official title)
+女息	여식	Daughter (息 is used for 자식/child)
+元老院	원로원	Senate
+失禮	실례	Rudeness; Discourtesy; "Excuse me"
+紛走	분주	Busy; Bustling
+大聲	대성	Loud voice
+室人	실인	Wife (Formal/older term)
+貴婦人	귀부인	Madam; Lady (Respectful term for married woman)
+握手	악수	Handshake
+引導	인도	Guidance; Leading the way
+苦悶的	고민적	Agonized; Anguished
+不得已	부득이	Unavoidably; Having no choice
+交際	교제	Socializing; Relations; Association
+時刻	시각	Moment; Time
+生覺	생각	Thought; Opinion (Older spelling/Hanja use)
+녀편네	여편네	Wife; Woman (Older, potentially derogatory term)
+境遇	경우	Circumstances; Situation
+義務	의무	Duty; Obligation
+家長	가장	Head of the household
+判斷	판단	Judgment; Decision
+記憶	기억	Memory; Remembrance
+目前	목전	Right before one's eyes; The present moment
+活動	활동	Activity; Action; Being active
+理想的	이상적	Ideal
+慈善	자선	Charity; Philanthropy
+收入	수입	Income
+生活	생활	Life; Living
+障碍	장애	Obstacle; Hindrance
+財産	재산	Property; Wealth; Assets
+分配	분배	Distribution; Allocation
+嚴肅	엄숙	Stern; Solemn; Grave
+道德家	도덕가	Moralist
+氣象	기상	Demeanor; Spirit; Disposition
+傳하다	전하다	To transmit; Pass down; Convey
+退職	퇴직	Retirement
+少佐	소좌	Major (Military rank)
+領地	영지	Territory; Fief; Domain
+營理	영리	Management (esp. of property/business)
+待接	대접	Reception; Treatment; Hospitality
+特別	특별	Special
+注意	주의	Attention; Caution; Care
+疎忽	소홀	Negligence; Carelessness
+料理	요리	Cooking; Cuisine
+佛蘭西	불란서	France; French (Older phonetic transcription)
+佩劍	패검	Sword worn at the side
+什器	십기	Furniture; Utensils; Furnishings (Collective term)
+談活	담활	Conversation; Talk (活 instead of 話)
+額面	액면	Framed picture; Face value
+太公	태공	Great Ancestor; Grandfather (Respectful term for elder/ancestor)
+實務	실무	Practical affairs; Actual business
+沒頭	몰두	To be absorbed in; engrossed in
+物件	물건	Object; Thing; Article
+給仕	급사	Servant; Waiter/Waitress; Attendant (Older term)
+着席	착석	Taking a seat; Being seated
+琉璃	유리	Glass
+閑雅	한아	Elegant; Refined; Quietly graceful
+寂寥	적료	Lonely; Desolate; Solitary
+暫間	잠깐	Brief moment; For a short while
+空虛	공허	Empty; Vacant; Hollow
+細	세	Thin; Slender; Fine
+庭園	정원	Garden
+樹木	수목	Trees; Woods
+以前	이전	Before; Previously
+定處	정처	Fixed place; Definite abode
+世界	세계	World
+層層臺	층층대	Tiered platform; Terrace; Steps
+銳敏	예민	Sharp; Keen; Sensitive
+盲目	맹목	Blindness; Blind
+約束	약속	Promise; Appointment
+旅行	여행	Travel; Trip
+主人	주인	Master; Owner; Landlord
+痙攣的	경련적	Convulsive; Spasmodic
+까닭	까닭	Reason; Cause
+衝突	충돌	Conflict; Clash; Collision
+仲裁	중재	Mediation; Arbitration
+同志者	동지자	Comrade; Fellow member
+大運動	대운동	Great movement; Large-scale campaign
+計劃	계획	Plan; Project
+肝膽	간담	Liver and gallbladder (Fig. courage; innermost feelings)
+서늘하다	서늘하다	To be cool; chilly (Here: chilling)
+平穩無事	평온무사	Peaceful and uneventful
+歲月	세월	Time; Years; Days
+氣脉	기맥	Energy; Vigor; Spirit (Often 기맥이 없다 = listless)
+變하다	변하다	To change
+愁心	수심	Sorrow; Grief; Melancholy
+美人	미인	Beautiful woman
+鐵石	철석	Iron and stone (Fig. firm; resolute; hard-hearted)
+萬一	만일	If by chance; Should it happen that
+危險地帶	위험지대	Danger zone
+私事	사사	Private matter; Personal affair
+快樂	쾌락	Pleasure; Enjoyment
+幸福	행복	Happiness; Well-being
+國民	국민	People of a nation; Citizenry
+事業	사업	Work; Undertaking; Enterprise; Business
+犧牲	희생	Sacrifice
+理由	이유	Reason
+毫末	호말	Slightest bit; Tiny amount
+關係	관계	Relation; Connection; Relevance
+盟誓	맹세	Oath; Vow; Pledge
+決心	결심	Determination; Resolve
+容恕	용서	Forgiveness; Pardon
+眞情	진정	True feelings; Sincerity
+雷聲	뇌성	Thunderclap; Sound of thunder
+電光	전광	Lightning flash
+缺點	결점	Weakness; Flaw; Shortcoming
+確實	확실	Certain; Definite; Sure
+主義	주의	Principle; Doctrine; -ism
+思想	사상	Thought; Idea; Ideology
+虛飾	허식	Pretense; Affectation; Vanity; Empty formalities
+資本	자본	Capital (economic)
+學問	학문	Learning; Scholarship; Study
+藝術	예술	Art
+浩濶空想	호활공상	Vast and empty fantasy; Grandiose delusion
+浮華	부화	Extravagance; Frivolity; Superficial luxury
+引導	인도	Guidance; Leading
+毒物	독물	Poison; Toxic substance
+國家	국가	Nation; State; Country
+官員	관원	Official; Government employee (Older term)
+賂物	뇌물	Bribe
+罪人	죄인	Sinner; Criminal
+同情	동정	Sympathy; Compassion
+發覺	발각	Discovery; Exposure (of something hidden)
+容赦	용서	Pardon; Forgiveness; Leniency
+說明	설명	Explanation
+勿論	물론	Of course; Needless to say
+批評	비평	Criticism; Review; Critique
+半身	반신	Half of the body
+長技	장기	Specialty; Forte; Strong point
+突然	돌연	Suddenly; Abruptly
+强大	강대	Powerful; Mighty; Strong
+無聊	무료	Boredom; Tedium; Dispiritedness
+幕	막	Curtain (End of an act/play)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제3호
+발행일	1920년 08월 25일
+기사제목	脚本 隔夜 (第二幕 一場)
+필자	玄哲 (譯補)
+기사형태	희곡·시나리오
+
+脚本 隔夜
+						玄哲 (譯補)
+-筆者로브터 讀者에게- 開闢第二號에는 이 脚本第二幕까지 맛칠 作定이더니 不幸이 그때 病魔에 걸여 如意히 豫定대로 대지 못한 것은 未安한 일이 자못 만슴니다. 第三號에는 第二幕 一場까지 맛치랴고 함이다. 그리고 第一幕에 잇는 노래 『로오레라이』는 曲調와 歌文이 世界에 일홈난 것임니다. 그 노래의 譜表를 이번 號에 登載합니다. 그 노래의 出處를 잠간 말슴하겟슴니다. -여러분 중에도 아시느니는 아시는 것과 가티 獨逸國萊因河邊에 예로브터 傳해 오는 傳說이 잇음이다. 『로오레라이』은 同國 센트 코-아 町 近處에 잇는 斷崖의 일홈이 올시다. 녯날엇던 妖艶한 絶世의 美女가 이 바위우에서 黃金삣 헛터러진 머리를 빗질하면서 사람이 마음을 홀니게 하는 고운 목소리로 소리를 불느고 잇섯슴니다. 그 바위엽으로 구비처 흘너가는 急한 물결을 操心하고 지내가던 船人과 船客이 이 곱고도 아름다운 處女의 姿態와 노래소리에 홀여 바위우만 보고 가다가 不覺中에 船體는 漸漸 急流에 싸여드러 로오레라이 石壁에 부더처 드대여 배와 사람이 한 가지로 라인河의 怨魂이 되엿다고 함니다. 自古로 獨逸詩人이 이 傳說을 詩로 올여 소리한 이가 한둘이 안이 것만은 그 中에도 하이네의 詩가 가장 有名하고 曲調는 후리-드릿히질헤룸의 것이 第一 좃타고 함니다. (此間에 依例히 曲譜가 揷入할 터인대 印刷上 不得已한 事情의 有하야 揷入치 못하엿 사오니 讀者는 恕諒하시요) ＜137＞
+
+엇전지 모러만 마음에 키여
+예로브터 傳한 말이 몸에 져젓내
+라인河는 고요이 흘너가는대
+드는(入) 해는 놀에 싸여 곱게 빗첫다
+
+어엿뿐 處女몸이 바위에 서서
+黃金빗을(梳) 손에 들고 풀닌 머리를
+빗으면서 부러는 노래소리에
+이상하고 야릇하지 魂이 다 떳다
+
+지내는(過) 배손님이(船客) 노래에 흘여
+바위돌도 보지 안코 우만 보다가
+물결에 파뭇첫내 배와 사람이
+奇異하다 魔女노래 로오래라이
+
+誤譯은 多謝함니다. 筆者의 才操로는 이박게 더 善譯할 수 업슴니다. 우리 雜志 第一號에도 暫間 말슴하엿거니와 原脚色者楠山先生에게 在學當時에 譯權의 承認은 엇엇으나 其間長久한 時日에 엇지 된지 몰나 始譯 同時에 楠山先生의 住所不明으로 秋田先生에게 書面을 보내여 譯出하는 事由를 말하고 楠山先生에게 傳言을 付託하엿더니 去月 晦間에 秋田先生으로부터 楠山氏가 喜諾하엿다는 回報가 왓슴니다. 譯者는 楠山正雄 秋田雨雀雨先生에게 謝意를 表하나이다.
+
+第二幕
+第一場 모즈코. 스담홉읍家
+古風인 露西亞軆의 裝餘을 한 書齊.
+右便觀客席쪽으로 外門에 通하는 房門. 右便內橫側으로 食堂門. 內部의 裝飾이 보인다. 左便에는 큰 板門. 客室에 通해 잇다. 舞臺正面은 큰 琉璃門. 젓짝으로 베렌다. 그 칭칭대로 나려가면 樹木이 鬱蒼한 廣大의 花園으로 내려가게 되엇다. 正面의 左右에는 窓.
+室內에는 圓机, 花投机, 寫字机와 椅子, 소파아 土耳其椅子, 피아노, 書卓, 彫刻像, 油畵像 體鏡等. ＜138＞
+全體가 古風으로 된 軍人的嗜好와 파리스타일의 模倣으로 된 裝飾.
+무덥고 晴明한 날 午後頃.
+에레나. (快活한 表情으로 읽던 冊을 노코 한숨반 합폐음반썩겨하면서) 아아 困하다. 불가리아말은 本來 露西亞말과 갓다는대 그래도 퍽 어려워. 공연이 쉽다고만 하지 그이도 퍽 그진말장이야. (懷中時計를 내여보면서 빵끗하면서) 벌서 한時半이로군. 그이의 오실때가 되엇에. 아즉도 아모러겟는대 이를 엇자면 조와. 先生님이 인제 걱졍을 하시겟지. 머을 그러랴고. 인사롭 先生님(冊箱에서 寫眞을 끄어내여 接物하면서) 아즉 시치미 뚝 낫고 잇다눔. 얄밉게. (寫眞을 冊床설합에 넛고)-그러치 마는 이상스러워. 요멧칠 前부터 저 그림의 마돈나와 이약이나 하고 잇섯다니(油畵의 압헤 가서) 아아 언제던지 저럿케 혼자 답답이 게세요. 나는요 요새 심심치는 안이해요. 지미도리 인사롭-그럿치요. 지미도리 인사롭이라고 하는 훌융한 친구가 잇세요. 언제던지 혼자 잇슬 수 잇세요. 친구도 업고 兄弟도 업고 그동안에 엇더케 내 효자 사라잇섯는지 벨세넵이나 슈빈도 사람은 조치만는 그래도 역시 그이만 못해. 아!오시는가바. 신소리가 나내. 오션는지 모러지. 엇지 하면 조와. 이럭케 벌고 잇스면 그이가 드러오시겟지. (마돈나像의 압해가서 黙禮를 하고 잇다)
+(우왈老人 긴 파이푸를 물고 門을 열고 드러온다. 에레나의 뒷人態를 보고 이상스러운 얼골노 滑稽的 몸짓을 하면서 뒤로 물너간다)
+에레나. 오섯세요. 나 어대 잇는 줄 아시겟세요. (고깨를 들어 老人을 보더니) 나는 누구라고 아제시에요.
+우왈老人. 으응 아저씨다.
+에레나. 우에 오섯세요. 나는 꼭 속앗지. (달겨드러 老人의 헌들헌들하는 몸을 눌여 土耳其椅子예 안친다)
+우왈老人. 또 作亂이엇다.
+에레나. 그러면 엇대요. 패인찬치요. 아저씨 이럿케 해조치요. (머리를 부빈다) 여기 입 좀 마추고요. 보기좃케 번서젓는글요. (뒤머리진대다가 입을 맛춘다)
+우왈老人. 우음! (兩手를 異狀스롭게 흔들며) 이게 무슨 짓시야. ＜139＞
+에레나. (漸漸 보더라운 語調로) 저어. 아제시? 전 멀때도 이럿케 좃케 버서젓지요.
+우왈老人. 머이엇제. 내가 陸軍少尉로 잇슬때 나파륜전쟁에 出戰할 긋때-
+에레나. 態度도 男子답고 舞蹈가 훌융하섯고. 각금 드럿지요. 그러나 머리만 긋때다 只今이나-
+우왈. 이마가 버서지고야 戀愛를 해겟내.
+에레나. 엇제요. 아제시도 戀愛를 해보신 일이 잇세요.
+우왈. 잇다 뿐이겟니. 그래서 나도 戀愛를 하는 게집의 눈이라는 것을 안다.
+에레나. 戀愛를 하는 게집의 눈에는 薔薇꼿치 핀다지요.
+우하. 그럿타 뿐이겟니. 그래서 네 눈에도 薔薇꼿치 피엿다.
+에레나. 공연이 그짓말만- 나는 戀愛가튼 것은 안이해요.-엇전지 까닭업시 마음에 깁버요. 온갓기 다 깁버서 견댈 수 업서요. 밋젓는지 모르겟세요.
+우왈老人. 우웨 안그럿겟니.
+에레나. 生覺대로 하세요. 라라라, 라라라, (발노다 拍子를 치고 잇다)
+(슈빈이 客室의 門을 열고 내다본다.
+에레나. (슈빈을 보고) 아아! 바벨. 당신의게 무슨 할 이약이가 잇세요.
+슈빈. 사람이 달으지요. (억개를 치술만고 드러간다)
+에레나. 저이가 우에 성이나서. (뺏죽하는 모약을 한다)
+(걸닌 時計를 보더니)
+에레나. (急히 緊張한 態度로) 에그 벌서 두點이 되엇네. 이이가 엇진 일이야. 암아 안오시는지도 몰나. 그를 理가 업는대. 그처름 約條를 하고서. 약조를 어기거나 그를 양반은 안인대.-저어. 무슨 일이 生겻나. 어적게 볼 적에 엇전지 얼골밧치 이상하더니 무슨 탈이나 안낫는지. 몸이 불편한 것을 일부로 감추는 것 갓더니 病이나 나지 안이하엿는지.-걱정이 되어 견댈 수 업는대. 只今 거볼가. 만일 가다가 길일 어깃나면 엇지해. 갈 수도 업고 엇더케 할가. (不安한 態度로 門잇는 대로 간다.
+(門박게서 우슴소리. 이약하는 소리가 들인다)
+에레나. (이상이 이 生覺하고 딱 선다) ＜140＞
+(스담호웁 中尉軍服, 書記官, 클라트우스키이를 案內하여 드러온다)
+스담호든. (에레나를 보고 )이 에레나야. 손님이 오섯다. - 一等書記官, 이것이 女息이 올시다. 아모쪼록.-
+클나트위스키이. 처음 뵈옵니다. 나는 元老院 一等書記官클나트위스키이 올시다. (손을 낸다)
+에레나. (딱 구차는 표정으로. 아모 말업시 손을 내민다)
+스담호들. 어머니는 어대 가섯니.
+에레나. 알 수 업세요.
+스담호들. 알 수 업세요란 말이 어대 잇니. 으응.
+에레나. 알 수 업스닛가 업대지요.-잠간 失禮합니다. (간다)
+스담호든. (호랭이가티 소리를 질는다) 가만이 잇서. 어대로 가 어대. 손님이 기신대. 어대로 가-
+에레나. 잘못되엇세요. 別로 일이 업는 것 가태서요.
+스담호듯. 손님을 客室에 案內해 드려.- 다 무을 하고 잇서. (紛走이 왓다 갓다 하면서 大聲으로) 안나. 우아. (老人 土耳其椅子에서 파입푸를 입에 문 채로 조을고 잇다가 이 소래에 놀나서 압으로 나온다. 스담호움 눈에 들켜. 이상한 態度를 하면서 딱 선다. 스담호러은 그저 큰소리로) 바위엘, 소오아, 빠시리, 민나삐요틀, 마아샤,
+(소리에 應하여 안나를 先頭로 불는 男女 六七人이 各門으로 들어 오면서 서로 수군거리며 整列한다)
+一同. (거의 同時에) 네에 왓습니다.
+스담호. (양미간을 쩝푸리고) 一等書記官 이것이 나의 室人이 올시다.(안나에게 소개를 한다)
+안나. 잘 오섯습니다.
+클나트 위스키. 貴婦人 一等書記官클나트위스키올시다.(握手)
+스담호. 에레나 引導해 드려라.
+에레나. (이 사이에 굿차는 苦悶的 表情을 보인다) 네.
+(不得已한 態度로 먼저 서서 客室로 드러간다)
+(書記官도 뒤로 따라간다)
+(안나로부터 一同이 차차 갈야고 한다)
+스담호웁. 안나 좀 잇서. 안가도 괘인차나. (떠러저 잇다)
+(一同은 客室로 外門으로 갓다) ＜141＞
+안나. (椅子에 안지면서) 무슨 일이 잇세요. 지금 오신 손님은 엇던 사람인가요. (客室을 가러친다)
+스담호웁. (다리를 크게 띄고 왓다 갓다 하면서) 그 말이다. 그 말 그 땀으내 잇시란 것이야. (急히 妻의 엽으로 오더니 底聲으로) 악가 말한 것과 가티 그 양반의 이름은 에고오울 안트레위치 클라트 위스키-元老院의 一等書記官으로 잇는-
+안나. 그것은 악가부터 아라세요. 그런대 그 양반이 우에 우리집에-
+스담호웁. 암말도 말고 듯기만 해. 말이라고 하는 것은 順序라고 하는 것이 잇는게야. 그래서 우에 내가 그런 양반하고 交際를 텃는고 하니 이테도 내가 집안일에 對해서는 한時 一刻을 生覺안이하는 때가 업는 것-우에 사람을 깔보는 눈짓을 해. 집안은 돌보잔코 일생도라단이며 놀기만 하면서 이런 말만한다고 그러지. 무슨 나도 배속에서 떠러지면서 舞蹈會나 녀편네모인 곳을 조와하는 것은 안이야. 집구석이라고 오면는 녀편네가 心臟이 터저서 피한졈 업는 핼슥한 얼골노 압흐다고 골골하기만 하고-
+안나. 그러니가 내가 머어라고 해요. 당신하고 십픈 대로 하면서.
+스담호웁. 마아 그 가짓 것은 말할 것 업고 내가 하고 잇는 일이 조흔지 그른지 그것은 時日이 自然이 判斷해 줄 것이니 른이 저른이 말할 것 업지만은 다맛 한가지 記憶해 둘 것은 내란 사람은 이래도 如何한 境遇이던지 自己의 義務라고 하는 것을 알 뿐만 안이라 또 一家의 家長으로써 엇더한 일은 하지 안으면 안이 되겟다고 하는 것도 아는 것이야. (漸漸 演說語調로 간다) 그래써 目前에 하나 生覺할 일은 에레나말이다. 그것을 인제는 짝을 맛차야할 때가 되지 안이핸나-즉 시집을 보내지 안이하면 안이되것다고 생각을 한다. 시방 그것이 나이 얼마나 되엇나.
+안나. 스무살이에요.
+스담호웁. 그래 나이 이십이나 된 기집아히가 그게 무엇이야. 무슨 큰 慈善家나 되는 것 가티 개색기가튼 거지 子息들을 사랑하기도 하고 어더먹는 기집아히와 잠도 것치 자고 그긋만 그른냐하면 近來에는 哲學이 엇더니 文學이 엇더니 알지도 못하는 것이 어려운 冊張만 넹기면서 精神업시 美術家니 무슨 哲學者니 그 뿐인가 몬대네그로 엿셕인지 무엇인지 ＜142＞ 엇던 놈의 種子인지 알지도 못하는 外國연석하고 밤나 댕기면서 作亂이나 하고-그래 그러고만 잇스면 아모 일도 업나. 내 生覺갓태서는 조금더 사람다운짓을 안이하다가는 必境에 이스담호웁의 집까지 결단이 날것이야.
+안나. 그런 말슴은.
+스담호웁. 내 말 조금 들어러보오. 그런대 말이 딴 길노 가지 안치 簡單이 하자면. 저기 잇는 (客室을 가리치면서) 저 紳士를 우리집 싸위로 定하랴고 生覺하기 때으내일성 親密이 交際를 해 가랴고 하고 잇소. 마누라는 엇더케 生覺을 하는지 멀느지만은 내 生覺갓태서는 그만 자리도 쉽지 안이하고 또한 輕率한 짓도 안인것 갓소. 저 사람의 나이 아마 올해 서른셋이지. 졈-다고는 할 수 업서도 決코 늙것다고 할 수는 업소. 그 뿐 안이라 最高等의 法律學校를 卒業하엿고 禮義라던지 行動이 점잔하고 一等書記官으로 大學校의 評議員이고 또 스다니스라 頸章까지 탄 사람이요.-그러나 한마듸 打破할 것은 내가 무슨 地位라던 動章에 눈이 어더워서 그런 것은 안이야. 흔이 잇는 남의 父母와 가티 當者라는 사람은 안이 보고 집안이 엇더하니 財産이 엇더하니 地位가 어더니 하는 그런 것은 결코 안이야. 마누라도 일생하는 말과 가티 에레나는 實社會에 活動하는 人物을 조와한다 하기에 이클나트위스키이氏와 가티 交際가 널고 또 實社會에 빠지는대 업는 理想的 남편이 업슬 줄노 生覺한다 그것만 그를 뿐 안이라. 에레나는 慈善을 조와한다지. 이클나트위스키이氏도 自己의 收入이 生活에 障碍되지 안이하는대 限해서. 알겟서 아라. 生活을 할만치 두고 그 남의지 自己父親의게서 탈 財産을 全部 그 兄弟의게 分配하겟다고 엇데 휼융한 慈善家가 안이야.
+안나. 그레요, 그런데 그 아버지는 무엇을 하세요...
+스담호웁. 그 아버지 말가 이 양반이 또 휼융한 양반이지. 性質이 嚴肅한 스토익이라고할 만한 道德家이지. 그 氣象이 그 아드님의게 傳해 왓지. 本來가 退職少佐니가-
+안나. 그런대 只今은-
+스담호웁. 只今 말이야. 只今은 시고을 스키이 伯爵家의 領地를 營理하는 總營理人으로 기시다나-
+안나. 헤에. ＜143＞
+스담호웁. 머어 헤에다. 남이 일것 힘드려 하는 말을-
+안나. 누가 머어라고 해세요.
+스담호웁. 머어라고 안한것이 머어야. 마아 긋까짓 말은 할 것 업고 엇째던 지내뜻이 그러한 줄만 알고 잇서. 그런데 무슨 待接할 것은 만드러 두어서. 特別이 注意하여 疎忽하지 안토록히여야지. 몬데네구로에서 구을너온 손님보다는 손님이 달느니가.
+안나. (食堂을 드러다 보며) 벌서 다 되엿지요. 料理하는 반가의게 일너서 佛蘭西세라고 햇지요.
+스담호웁. 그른 일은 나는 몰나. -여제던지 손님을 에레나나 바우엘의게 런겨 두어서 넘어 失禮하엿다. 내가 가 보와야지 내가.
+(眼間에 荒唐이 佩劍의 소래를 내며 客室로 간사다)
+안나. (기가 맥키는 眼色으로 한참동안 가는 樣을 보라가 한숨을 쉬면서 걱졍되는 모양으로 이러나더니 食堂을 듸려다 보고 무슨 발을 일러더니 도로 나와 방을 돌아보며 椅子와 什器갓튼 것을 바르게 노으며 亦是 客室로 드러갓다. 客室에서는 前브터 間間이 우슴소래가 나더니 漸漸 談活가 버러진다. 안나가 드러가자 우슴소래가 나더니 書記官클나트위스키이, 스담호웁中尉, 안나 一字로 느러서서 나온다. 그 뒤로 슈빈과 우왈노인 괴쇼오야도 나온다)
+안나. 이 食堂으로 드러가시지요.
+클나트위스키이. 넘어 페를 낏처서 - (고게를 둘러 油繪額面를 보더니) 하하 큰스단 太公, 휼융이 그렷슴니다.
+스담호웁. 그것 말슴임니가. 내게는 美術이라고 하는 것이 엇던 것인지 모르깨으나 그리기는 훌융이 그린 것으로 암니다.
+클나트위스키이. 나 亦是 그럿치요. 美術이라고 하는 긋까짓 것은-(슈빈을 깔보며) 안이 우리가티 實務에 沒頭하는 사람의게는 참 불상한 物件이지요. 하하하하.
+(힌 옷 입은 給仕가 食堂의 門을 연다. 클나트위스키이가 압서고 그 다음에 여어시 다아 드어 간다)
+(슈빈은 억개를 엿죽거리며 클나트위스키이의 態度를 호흥내 내여 소오야를 웃기고. 우왈 老人이 이상스러운 몸짓을 하면서 뒤를 까아드러간다) ＜144＞
+(一同이 着席하는 분산한 소리와 琉璃그럭과 쇠 그것이 서로 마주치는 소리와. 여려시 웃음소리가 閑雅한 리슴으로 寂寥한 氣分이 잇다)
+(舞臺는 暫間동안 空虛하다)
+가는(細) 少女의 소리. (庭園樹木裡에서 난다)
+
+노래
+압못보는 져 비둘기 어대로 가나
+以前 집을 버리로 어대로 가나
+定處업는 져 마음이 날나만 가면
+눈에 싸인 저 길이 끗치 잇는냐
+
+압못보는 져 비둘기 어대로 가나
+山넘고 들넘어서 가기만 하면
+남모르는 딴 世界가 잇슬 줄 아나
+놉고도 맑은 한울 잇슬 줄 아나.
+
+아가씨, 아가씨. 에레나 아가씨.
+(庭園樹林중에서 盲目의 少女가아쟈가 나온다. 層層臺를 올나 이리 저러 단이며. 나진 목소래로 銳敏하게)
+아가씨, 아가씨. 에레나 아가끼.(아모리 불너도 答이 업시니 풀이 죽어서 도로 層層臺로 내려간다. 그 길노 樹林속으로 가서 몸이 보이지 안는다)
+(얼마 안이 되어 食堂門이 열니더니 에레나가 남의 눈을 기이는 것가티 이리 저리 찻는다)
+에레나. (庭園을 向하여 小聲으로) 가야쟈, 가야쟈. 가아쟈. 가어데 갓나. 임아 도로 간는기로군. 가야쟈가업시-정말 인사롭氏은 아니오는게로군.(입맛을 다시고 에란다로 나간다)
+(에란다로 올나오는 벨세엡과 마주친다)
+에레나. 아아, 안드레이베트로위치, 어대로 가심니가.
+벨세넵. 어대로 이리 가시오.
+에레나. 안이요. 아모대도 가잔에요. 只今 가아자가 일생붙너는 노래를 불너고 왓는대 어대로 갓는지 보이잔에요.
+벨세엡. 예에, 어더 먹는 기집아해 말이지요. 只今 길에서 만낫지요. 아마 사람이 업시니 간 것이지요. 오늘 손님이 오신게구려. 大端이 紛雜하신 모양이대요.
+에레나. 머올요. 지내가는 손님이 왓다오. ＜145＞
+벨세넵. 그러면 또 오지요. (急히 나가랴고 한다)
+에레나. (황당이 벨세넵의 손을 잡으면서 끄어러 드린다)
+안이에요. 괴인찬에요. 相關업세요. 只今 밥먹는다고 부산해요-자 안지세요. 無理히 土耳其椅子에 안치면서 自己도 엽헤 안는다)
+에레나. (엡헤부터 안지면서 사나이 두 손을 꼭 잡더니 힘잇는 語調로) 무러 볼 말슴이 잇슴니다. 안드레이뻬트로위치, 당신은 재게 무슨 할 말이 잇서서 오섯지요.
+벨세넵. 여에,-그것은 엇지 그러케.
+에레나. 그런 일은 아실것 업고. 말슴이나 하세요. 안이 나도 대강 압니다. 당신이 急한 이약이가 잇서. 오신 줄은 오실 그때브터-
+벨세넵. 그럿슴니가.-그러면 하지요. 다른 일이 안이라 에레나氏 인사롭이 오늘 여기 왓습듸가.
+에레나. 안이요. 오늘 오시기로 約束은 하엿으나-
+벨세넵. 인사롭은 오늘 旅行을 간대요. 곳 이 땅을. 내 主人에게서 떠나 간대요.
+에레나. (痙攣的으로) 예에, 지미도리, 니가로윗티가 旅行을 가요.-오늘 곳, 이 땅을 떠나서-간다고 말도 하러오잔코.-그것은 무슨 일이에요. 우에 그럿태요. 무신 까닭으로. (이러서더니 엇잘줄친 나왓다 갓다 한다)
+벨세넵. 아시는 바와 가티. 그 사람은 무슨 일을 하던지 그런이, 저런이, 이약이를 하지 안는 사람이 올시다. 그러나 내 생각에는. 이리와 안지시요. 우에 얼골비치 저리 핼슥하시요. 그러나 내 생각에는 瞥眼間에 旅行을 간다고 하는 것은 무슨 까닭이 잇는 줄-
+에레나. 네에 무슨 까닭이요? 무슨 일이 생겻슴니가. 무슨 일인가요(하면서 엽해 안지며 벨세넵의 손을 꼭 쥐고 무엇을 생각할 것가티) 아아! 요전에도 언젠가 미도리, 니가로윗치가 온다 간다 말업시 어대로 가고 디만젹이 잇셧지요.
+벨세넵. 그랫지요. 그러나 긋때에는 기티간 사람이 둘이나 잇섯지요.
+에레나. 그럿치요. 亦是 불가리야사람이라지요. 그처럼 신수조은 사람은 안이라고 디미로리自己가 그런 이약이를 하고 우슨 일이 잇섯지요. 역시 同志들이라지요.-그때는 가튼 同志者間에 衝突이 生겨서 ＜146＞ 그것을 仲裁하러 갓다지요.
+벨세넵. 그 사람이 그럿케 말을 합듸다.
+에레나. 네에. 그리고 또 여러 가지 自己 내 同志者끼리 大運動을 計劃하는 일도요. 말이니가 그럿치 만은 참으로 肝膽이 서늘할 일 뿐이에요.-그런대 그때는 瞥眼間 떠낫지만은 사흘지나고 도로 왓지요. 이번에도 한 사나흘 지나면 오겟지요.
+벨세넵. 그럿케 되엇으면 좃켓지만은-아마 그럿케는 안이 되지요.-이번에는 아모도 업고 혼자에요. 그뿐만 안이라 近者에는 불가리사람도 오지 안코 每日 당신집은 訪問하는 것과 불가리아말 책을 읽는 外에는 아모 일도 업는 平穩無事한 歲月을 보내고 잇섯슴니다.
+에레나. (얼골비치 變하더니 氣脉업는 말노) 그러면 그럿차내요.-누가 알 수 잇슴니가.
+벨세넵. (愁心으로 우스면서) 온누어라고 해서 조흘넌지.-이른 이약이가 잇슴니다. 이미 지냰 일이나 올 봄이 올시다. 내가 처음 인사롭과 알게 되엇을 때에 엇던 날 저녁 우리일가 집에 인사롭과 가치 간 일이 잇슴니다. 그때에 일가집 處女가 하나 잇는대 썩 美人이엇슴니다. 이 處女의 고운 姿態에는 鐵石가튼 이사롭도 홀인것 갓기에 내가 한번 인사롭에게 무러본 일이 잇섯슴니다. 그런즉 인사롭은 다만 옷기만 하고. 자내의 생각이 맛치지 못햇다고 그리고 자내가 생각하는 것과 가티 아즉 내 마음이 끄을이지는 안이 햇으나 그러나 萬一 정말 그럿케 될 것 가트면 卽時 危險地帶를 버서 나지 안을 수 업다고. 우에 그려냐하니가 自己의 一個 私事快樂과 幸福을 바라서 一生을 밧친 國民을 爲하여 할 일과 事業을 犧牲할 수는 업스니가. 라고 하고 그 뒤를 이어서 『一個의 불가리아 靑年이 露西亞少女를 사랑할 理由가 毫末도 업다고』 끗을 맛칩때다.
+에레나. 그럿치만- 그 일이 무슨 내게-
+벨세넵. 關係가 업다고 하는 말슴임니가 우에 그래요. 나는 긋데 그 일이 이번에는 졍말이 안인가고 생각함니다-
+에레나. 그럿치 만은... 그것이 내게... 무슨... 그른 말슴은 내게 들여쥬지 마셉요.
+벨세넵. 그럿슴니가 졍말이지요. 인사롭은 只今 一個의 露西亞少女를 사랑하게 되엇슴니다. 그름으로 ＜147＞ 일생 말해 오던 盟誓를 직키랴고 암아 곳 이 땅을 떠날랴고 決心한 줄노 생각함니다.
+에레나. 아아 안도레이 빼트로윗치-
+(空然이 食堂에서 三四人의 笑聲이 나더니 사람이 나오는 것 갓다)
+벨세넵. (急히 손으로 帽子를 쥐면서) 아아 참 손님이 기시지요. 나는 가야하겟슴니다. 그러면 또 뵈옵시다.(간다)
+에레나. (荒唐이 따아나서며 사나이 손을 잡고) 벨세엡氏 당신에게는 모든 잘못된 일이 만습니다. 당신은 참으로 天使가튼 조흔 사람임니다.-(입을 움적이면서 말하기 어려운 것가티) 그럿치 만은 그럿치 만은... 그이는 한번더 안이 오겟세요.
+벨세넵. (沈重한 語調로) 오고는 십지 만요.-그러나 오기만한 하면 그 사람의 決心은 모도 업서지고 맘니다.-에레氏 당신은 그처름 인사롭氏를 생각하고 잇음니가.
+에레나. (우는 소래로) 예에. 벨세넵氏-容恕해 주세요.
+벨세넵. 容恕할 것은 아모것도 업지요. -그러나 眞情으로 말하면 나는 只今 깁고 어두운 구렁이에 빠진 것가튼 마음이 나서 견댈 수 업슴니다. -에레나-나도 당신을 사랑햇슴니다. 그러나-그러나. 그것은 한때 꿈이 올시다. 꿈이 올시다. 또다시 만납시다. (急히 나간다)
+에레나. 벨세넵氏 나 좀 보세요. 나 좀-정말 그이는 인사롭氏는 한번더 안이 오시라는지. (풀이 죽어 몸이 헌들헌들하며 長椅子우에 업더러다정)
+(食堂에서는 떠더는 소리가 나더니. 자리에서 이러서는 것 갓다. 에레나 그 소리와 가티 精神을 가다듬어 이러나더니 客室에 가서 帽子를 쓰고. 여름 外套를 입은 채 빠저나가는 것가티 庭園으로 나간다. 구름은 졈졈 나자지고 하늘은 어더두며 쏴아쏴아 하는 바람소리 우려치는 소리 멀리 들닌다)
+(에레나가 나가자 곳 食堂門이 열니더니 一同은 무슨 이야기를 하면서 나온다)
+클나트위스키이. (스담호과간름이 거러나오면서) 그럿슴니다. 언제던지 우리 露西亞사람의 第一 缺點은 엇던 確實한 主義밋태서 活動하는 思想이 올시다. 모던 虛飾을 버리고 빈몸동이의 自己의 힘으로 資本을 ＜148＞ 삼아 活動한다는 思想이 올시다. 大體 露西亞사람은 學問이니 藝術이니 그런 浩濶空想에 끄을리는 것이 큰 흠이 올시다.
+스담호웁. 藝術이니 무엇이니 짓거리는 사람은 當日主義도 아모 것도 업는 연석들이 만치요.
+클나트위키이. 그럿슴니다. 全體 藝術이라고 하는 것은 國民을 浮華에 引導하는 毒物이 올시다. 國家가 그래도 다스려 가니가. 그런 슬대업는 物件이 남아잇는 것이 올시다.
+슈빈. 그러나 藝術家는 아모리 슬대업다고 하지 만은 賂物은 만이 밧지마은 쓸대업는 官員은 賂物을 밧지요.
+클나트위스키이. (高壓的으로) 賂物을 밧는 것이 반듯이 罪人이라고 할 수 업지. 그것도 엇잘 수 업는 境遇가 잇스니가.
+수빈. 어엉. 賂物도 主義에 의지하여 밧는단 말이지.
+클나트위스키이. 그른 말이 어듸 잇서. 다못 賂物을 밧는 대도 同情할 만한 일이엇다는 말이지. 如何한 事情은 엇지 되엇던지 한번 發覺만 되면 容赦업시 罪를 밧는다는 말이지요.
+슈빈. 그러면 罪어는 사람을 罪를 준단 말이로구려.
+클나트위스키이. 亦是 그 말이지요. 그것도 主義때문이니가.
+슈빈. 이것은 失禮말슴갓슴니다만은 그 主義라고 하는 것을 좀 分明이 說明하여 주실 수 업슬가요.
+클나트위스키이. (우물우물하면서) 그것은 다른 것이-안이 구지 說明할 것도 업지.
+스담호웁. 勿論이지 勿論 說明할 것 업시 알일이지. -그것은 거렷커니와 에레나는 어대 갓나. 악가부터 보이자느니. 손님을 두고 이런 失禮가 어듸잇서.
+안나. 아마 제 방에 잇는 것이지요. 머리가 압흐다더니 암아 大端한 것이지요. 슈빈 너 좀 가보와라.
+(슈빈 우왈 소오아 모다 아라서 나간다)
+(바람은 漸漸 甚하고 큰비방울이 떠어진다)
+스담호웁. 이 날이 웬일이야. 只今 곳 가시지는 안이 할거시니가. 아아 참, 클나트위스키이氏에게 꼭 한번 批評을 밧을 物件이 잇슴니다. 요前에 아메리카에서 求해 온 것임니다. (急히 客室로 가면서 妻를 보고) 안나, 차를 좀 해 오라고-(나간다)
+안나. (손에게 눈으로 禮하고 食堂으로 나간다) ＜149＞
+(클나트위스키이 혼자 椅子에 안자 합흠을 한다. 그때에 食堂門이 열리더니 소오아 얼골을 내여밀고)
+소오아. (半身만 보이며) 에레나氏가 업서요.(라고 하며 客의 혼자 잇는 것을 보더니) 아아-失禮햇슴니다. (나가랴고 하는 것을)
+클나트위스키이. 나 좀 보오. 나 좀. (불는다)
+소오아. (우늡서더니 精神채리는 語調로) 무슨 일이 잇서요.
+클나트위스키이. 이리와 이리.
+소오아. 네에. (엽해 온다)
+클나트위스키이. 자아 이쪽으로 (急히 少女의 손을 잡고 엽헤 안친다) 이름이 무어야.
+소오아. 소오아, 니키디이수나, 미유루럴.
+정나트위스키이. 어엉. 그러면 故鄕이 獨의이로군.
+소오아. 안이야요. 아버지가 獨逸사람이야요.
+共나트위스키이. 그래에. 그러면 音樂은 잘하겟군. 어듸 손을 좀 보와. (소오아의 손 꼭 두 손으로 붓잡고)
+손이 입쁜대. 잘 타겟는걸(손에다 입을 맛춘다)
+소오아. 에그. 웨 이르서요.
+클나트위스키이. 웨 이려는 것이 안이야. 정말이야. (少女의 손잡고 이러서더니) 나는 네가 마음에 든다. 이 집 시약씨는 엇지 그리 새침득이야.-두리 타자.(無理히 소오아를 피아노 압헤다 안치고 鍵盤도 열어주고 譜表도 펴 준다)
+소오아. (喜色으로) 무엇을 타요.
+클나트위스키이. 아모 것이나. 第一 長技를 한아 들러주어.
+소오아. 그러면. 뻬에빼. 그것 안이면 베에트벤을 탈가요. (피아노의 鍵盤을 눌리서 音色을 본다)
+클나트위스키이. 뻬에뻬이나. 베트벤이나 아모 기나 나는 그것보다도 스의- (잇 突然이 强大한 雷聲소리에 소오야 깜작 놀라 소리를 질느며 이러선다. 그 목을 안고 클나트위스키이가 얼골을 대이고 입을 맛춘다. 이르때에 食堂門이 열리더니 뽀이가 茶를 가지고 온다. 아나트위스키이 荒急히 안앗던 少女의 목을 노코 無聊이 섯다. 雷聲과 電光은 그저) ... 幕 ＜150＞
+＜137-150＞

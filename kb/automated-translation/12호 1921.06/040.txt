@@ -1,0 +1,74 @@
+Magazine Title: 개벽 제12호
+Publication Date: 1921년 06월 01일
+Article Title: 古人의 본 八道人心 (The Hearts/Character of the Eight Provinces as Seen by the Ancients)
+Author: Unknown
+Article Type: 잡저 (Miscellaneous writing)
+
+The Hearts/Character of the Eight Provinces as Seen by the Ancients
+
+Kyŏnggi-do: Beauty in a Mirror (鏡中美人)
+
+Ch'ungch'ŏng-do: Clear Wind, Bright Moon (淸風明月)
+
+Chŏlla-do: Thin Willow in the Wind (風前細柳)
+
+Kyŏngsang-do: Great Mountain, Tall Timber (泰山喬嶽)
+
+Hwanghae-do: Stone Thrown into Clear Waves (淸波投石)
+
+P'yŏngan-do: Fierce Tiger on a Green Mountain (靑山猛虎)
+
+Kangwŏn-do: Old Buddha Under a Precipice (嚴下老佛)
+
+Hamgyŏng-do: Fighting Dog in a Mud Field (泥田鬪狗) <22>
+
+**Summary**
+
+This short piece lists traditional metaphorical descriptions for the character or "heart" (人心) of the people from each of Korea's Eight Provinces (八道), as attributed to "ancients" (古人). Each province is associated with a evocative phrase, such as "Beauty in a Mirror" for Kyŏnggi-do or "Fighting Dog in a Mud Field" for Hamgyŏng-do, reflecting regional stereotypes. From a historical perspective, the article is interesting as it records these long-standing regional characterizations within the context of early colonial Korea, published in a notable intellectual magazine. Historians might find it useful for studying the persistence and nature of regional identities and stereotypes during a period of significant social and political change.
+
+**Named Entities**
+
+京畿道	경기도	Kyŏnggi-do
+忠淸道	충청도	Ch'ungch'ŏng-do
+全羅道	전라도	Chŏlla-do
+慶尙道	경상도	Kyŏngsang-do
+黃海道	황해도	Hwanghae-do
+平安道	평안도	P'yŏngan-do
+江原道	강원도	Kangwŏn-do
+咸鏡道	함경도	Hamgyŏng-do
+八道	팔도	Eight Provinces (of Korea)
+
+**Glossary**
+
+古人	고인	Ancients; people of old times
+八道	팔도	The traditional Eight Provinces of Korea
+人心	인심	People's hearts; disposition; character; public sentiment
+鏡中美人	경중미인	Beauty in a mirror (metaphor)
+淸風明月	청풍명월	Clear wind and bright moon (metaphor associated with integrity, leisure, refinement)
+風前細柳	풍전세류	Thin willow in the wind (metaphor suggesting resilience, perhaps elegance or fragility)
+泰山喬嶽	태산교악	Mount Tai and high peaks (metaphor suggesting steadfastness, grandeur, perhaps stubbornness)
+淸波投石	청파투석	Throwing a stone into clear waves (metaphor suggesting causing a disturbance or having an impact)
+靑山猛虎	청산맹호	Fierce tiger on a green mountain (metaphor suggesting strength, fierceness)
+嚴下老佛	엄하노불	Old Buddha under a precipice (metaphor suggesting endurance, patience, steadfastness)
+泥田鬪狗	이전투구	Fighting dog(s) in a mud field (metaphor suggesting tenacity, fierce struggle in difficult conditions)
+잡저	잡저	Miscellaneous writing; miscellany
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제12호
+발행일	1921년 06월 01일
+기사제목	古人의 본 八道人心
+기사형태	잡저
+
+古人의 본 八道人心
+京畿道 鏡中美人
+忠淸道 淸風明月
+全羅道 風前細柳
+慶尙道 泰山喬嶽
+黃海道 淸波投石
+平安道 靑山猛虎
+江原道 嚴下老佛
+咸鏡道 泥田鬪狗＜22＞
+＜22＞

@@ -1,0 +1,71 @@
+잡지명	개벽 제1호
+발행일	1920년 06월 25일
+기사제목	金言 (Golden Sayings)
+Author	Not specified
+기사형태	잡저 (Miscellaneous Writing)
+
+遠水는 近火를 救치 못하나니라.
+Distant water cannot save a nearby fire.
+
+病은 口로 入하고 禍는 口로 出하나니라.
+Sickness enters through the mouth, and misfortune exits through the mouth.
+
+鹿을 逐하는 狗는 兎를 원치 아니하나니라.
+A dog chasing a deer does not desire a rabbit.
+
+巧한 僞는 拙한 誠만 갓지 못하니라.
+Skillful deceit is not as good as clumsy sincerity.
+
+千羊의 皮는 一狐의 腋만 갓지 못하니라.＜121＞
+The skins of a thousand sheep are not worth the armpit fur of a single fox.<121>
+
+**Summary**
+
+This short piece presents five traditional East Asian proverbs, referred to as "Golden Sayings." These maxims offer moral and practical wisdom, touching upon the importance of timeliness and practicality (distant water/nearby fire), caution in consumption and speech (sickness/misfortune via the mouth), maintaining focus on primary goals (dog/deer/rabbit), valuing sincerity over clever deception, and recognizing that quality or rarity holds more value than mere quantity (sheepskin/fox fur). From the perspective of Korean colonial history, the inclusion of these common proverbs in *Kaebyŏk*, a significant early modern Korean magazine, demonstrates the persistence of traditional ethical frameworks during a period of immense social change and foreign rule. Historians might find it noteworthy as it reflects an effort to provide moral grounding through familiar cultural wisdom amidst the challenges of Japanese colonialism.
+
+**Named Entities**
+
+None identified in the text.
+
+**Glossary**
+
+金言	금언	Golden saying, maxim, aphorism.
+遠水	원수	Distant water.
+近火	근화	Nearby fire.
+救치 못하나니라	구하지 못하느니라	Cannot save/rescue (Older grammatical form: -치 used for -지, ending -나니라).
+病	병	Sickness, illness.
+口	구	Mouth.
+入하고	입하고	Enters and...
+禍	화	Misfortune, disaster.
+出하나니라	출하느니라	Exits, comes out (Older grammatical ending -나니라).
+鹿	록	Deer.
+逐하는	축하는	Chasing (Modern Korean often uses 좇는).
+狗	구	Dog.
+兎	토	Rabbit.
+원치 아니하나니라	원하지 아니하느니라	Does not desire/want (Older grammatical form: -치 아니하다, ending -나니라).
+巧한	교한	Skillful, clever.
+僞	위	Deceit, falsehood.
+拙한	졸한	Clumsy, unskilled.
+誠	성	Sincerity, honesty.
+갓지 못하니라	같지 못하니라	Is not as good as, cannot compare to (Older spelling: 갓지 for 같지).
+千羊	천양	A thousand sheep.
+皮	피	Skin, hide.
+一狐	일호	One fox.
+腋	액	Armpit (specifically referring to the valuable fur from under a fox's forelegs).
+잡저	잡저	Miscellaneous writing, miscellany.
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제1호
+발행일	1920년 06월 25일
+기사제목	金言
+기사형태	잡저
+
+金言
+遠水는 近火를 救치 못하나니라.
+病은 口로 入하고 禍는 口로 出하나니라.
+鹿을 逐하는 狗는 兎를 원치 아니하나니라.
+巧한 僞는 拙한 誠만 갓지 못하니라.
+千羊의 皮는 一狐의 腋만 갓지 못하니라.＜121＞

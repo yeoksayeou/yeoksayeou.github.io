@@ -1,0 +1,137 @@
+Magazine Title: 개벽 제41호
+Publication Date: 1923년 11월 01일
+Article Title: 朝鮮 안에 사는 각 인종의 勢力消長 (The Waxing and Waning of the Power of Each Race Living within Chosŏn)
+Article Type: 논설 (Editorial/Argumentative Essay)
+
+The Waxing and Waning of the Power of Each Race Living within Chosŏn
+For every one Korean added, four and a half Japanese are added.
+Looking at the current resident population of Chosŏn as of the end of Taishō 11 (1922):
+Koreans: 17,208,239
+Japanese: 386,493
+Other Foreigners: 32,129
+Total: 17,620,761 people. This calculates to Koreans being about 46 times the number of Japanese. However, one astonishing thing here is that according to the survey at the end of Taishō 6 (1917), the Japanese population was merely 332,456, but just five years later, at the end of last year, it suddenly increased to 386,493. That is, the population increase over five years truly reached 54,037 people, which calculates to seeing an influx of over ten thousand people each year. If the Korean population increased at the same rate as the Japanese population within Chosŏn is increasing, given that the total population of Chosŏn at the end of Taishō 6 (1917) was 16,617,431 <59> people, then five years later, as of the end of last year, it should have increased by at least 2,700,977 or 8 people. However, the population that actually increased over five years did not exceed 590,608 people, which does not even amount to one-fourth of the Japanese proliferation rate. In other words, it calculates that while the number of Japanese people within our land of Chosŏn increased by four and a half people, only one Korean person increased. Thinking upon this, who could refrain from renewed astonishment? Moreover, regarding the figure of 590,608 said to have increased in the recent five years, it is likely that the main reason is an increase in the numbers due to the yearly improvement in the detail of the population survey, rather than the Korean population actually increasing by that much.
+
+Note
+Population within Chosŏn at the end of Taishō 6 (1917)
+Koreans: 16,861,431 (*Note: This number differs slightly from the 16,617,431 mentioned earlier in the text*)
+Japanese: 332,456
+Other Foreigners: 19,110
+Total: 16,968,997 people
+
+Are there more men or women?
+
+-How many men are there per woman?
+Among the total population, there are 9,088,684 men and 8,538,077 women, meaning there are 550,607 more men than women. In other words, for every 100 women, there are 106 and a half men. To record it a bit more precisely, for every 100 women, there are 106 Korean men, 113 and a half Japanese men, and slightly over 734 men among other foreigners. Thus, among the races within Chosŏn, men are more numerous in every group, but for foreigners other than Japanese, it works out to seven men for every one woman. Is it that women are inherently scarce in the current situation?
+
+Distribution of the Japanese race within the land of Chosŏn
+
+What is the distribution area of the Japanese race, which has a proliferation rate almost five times that of the native Korean people, numbering over 386,000? Due to the presence of Kyŏngsŏng City (Seoul), those living in Kyŏnggi-do are the most numerous, accounting for about 26 percent of the total. Next is Kyŏngsang-namdo, while Ch'ungch'ŏng-pukto and Kangwŏn-do have the fewest. Looking at their origins by place of family registration (本籍別, Honseki-betsu), those from Yamaguchi Prefecture (山口縣) are the most numerous, their number reaching over 35,000. Next are Fukuoka (福岡), Nagasaki (長崎), and Hiroshima (廣島) with over 20,000 each. Places with over 10,000 include Kumamoto (態本 - *likely typo for 熊本*), Ōita (大分), Saga (佐賀), Okayama (岡山), Kagoshima (鹿兒島), Ehime (愛媛), and Tōkyō (東京). Among places with fewer than 10,000, Okinawa Prefecture (冲繩縣) has the fewest with 253 people. Grouping this more broadly, those from the Kyūshū region (九州區) are the most numerous, followed by the Chūgoku region (中國區).<60>
+
+**Summary**
+
+This 1923 editorial expresses alarm over the demographic trends in colonial Korea between 1917 and 1922. It highlights the significantly faster growth rate of the Japanese population compared to the Korean population (a ratio of 4.5 Japanese added for every 1 Korean). The author attributes the Japanese increase primarily to immigration and questions whether the recorded Korean population growth is accurate, suggesting it might reflect improved census methods rather than actual births. The article also notes a gender imbalance favouring males across all populations, particularly extreme among non-Japanese foreigners, and details the geographical distribution and origins of the Japanese settlers, who were concentrated in Kyŏnggi-do (around Seoul) and Kyŏngsang-namdo and mostly originated from western Japan (Kyūshū and Chūgoku regions). For historians, this article is valuable as it quantifies (from a contemporary perspective) the scale of Japanese migration into Korea, reveals Korean anxieties about demographic displacement under colonial rule, and provides data on the distribution and origins of the Japanese colonial population, reflecting settlement patterns encouraged by Japanese policy.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+日本	일본	Ilbon / Nihon (Japan)
+大正	대정	Taishō (Japanese era name, 1912-1926)
+京畿道	경기도	Kyŏnggi-do
+慶尙南道	경상남도	Kyŏngsang-namdo
+忠淸北道	충청북도	Ch'ungch'ŏng-pukto
+江原道	강원도	Kangwŏn-do
+京城市	경성시	Kyŏngsŏng-si (Colonial name for Seoul)
+山口縣	야마구치현	Yamaguchi-ken
+福岡	후쿠오카	Fukuoka
+長崎	나가사키	Nagasaki
+廣島	히로시마	Hiroshima
+態本	구마모토	Kumamoto (*Likely typo for 熊本*)
+大分	오이타	Ōita
+佐賀	사가	Saga
+岡山	오카야마	Okayama
+鹿兒島	가고시마	Kagoshima
+愛媛	에히메	Ehime
+東京	도쿄	Tōkyō
+冲繩縣	오키나와현	Okinawa-ken
+九州區	규슈구	Kyūshū-ku (Kyūshū region)
+中國區	주코쿠구	Chūgoku-ku (Chūgoku region)
+
+**Glossary**
+
+인종	인종	Race; ethnic group
+세력소장	세력소장	Waxing and waning of power/influence (Hanja term)
+현재	현재	The present time; current
+현주인구	현주인구	Currently resident population
+계산	계산	Calculation; count
+경악	경악	Astonishment; shock
+불과	불과	Merely; only; just
+증가	증가	Increase; growth
+달한 바	달한 바	Reached; amounted to (Older grammatical form)
+매년	매년	Every year
+만유여인식	만유여인씩	Over ten thousand people each (Older phrasing/spelling)
+이래	이래	Influx; coming
+이와가티	이와 같이	Like this; in this way (Older spelling of 이와 같이)
+잇는	있는	Being in/at; existing (Older spelling of 있는)
+비례	비례	Proportion; ratio
+소하야도	적어도	At least (Older form related to 적다 'to be few/little')
+내지	내지	To; or (Used between numbers)
+지내지 못하는바	지나지 못하는 바	Does not exceed; is no more than
+증식률	증식률	Proliferation rate; rate of increase
+당티 못하는	당하지 못하는	Does not match; cannot compare to (Older spelling/form)
+숫자상	숫자상	Numerical; in terms of numbers
+원인	원인	Cause; reason
+주	주	Main; primary
+함이리요	함이리요	Likely means; probably is (Archaic rhetorical ending)
+만흔가	많은가	Are there many? (Older spelling of 많은가)
+몃 식	몇씩	How many each (Older spelling/form of 몇씩)
+념는	넘는	Exceeding; over (Older spelling of 넘는)
+귀한	귀한	Precious; rare; scarce
+분포	분포	Distribution
+본토	본토	Mainland; native land
+거진	거의	Almost; nearly (Older form/colloquial)
+구역	구역	Area; zone; district
+관계상	관계상	Due to the connection/relation
+최다	최다	The most numerous; largest number
+점하얏고	점하였고	Occupied; accounted for (Older spelling/form of 점령하였고 or 차지하였고)
+셈이다	셈이다	It counts as; it works out to be
+제일	제일	The most; number one
+본적별	본적별	By place of family registration (本籍, honseki)
+기수	기수	Its number
+기외	그 외	Besides that; other than that
+최소	최소	The fewest; minimum
+구획하면	구획하면	If divided into sections/zones
+차	차	Next; following
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제41호
+발행일	1923년 11월 01일
+기사제목	朝鮮 안에 사는 각 인종의 勢力消長
+기사형태	논설
+
+朝鮮 안에 사는 각 인종의 勢力消長
+朝鮮사람이 하나가 늘면 日本사람은 넷 반이나 는다.
+大正十一年末 현재의 朝鮮 現住인구를 보면
+朝鮮사람이      一七, 二O八, 二三九人
+日本사람이       三八六, 四九三人
+기타 外國人이    三二,一二九人
+총계 一千七百六十二萬七百六十一人인 바, 朝鮮人은 日本人의 약 四十六倍가 되는 계산이라. 그런대 여기에 한 가지 驚愕할 것은, 大正六年末 조사로 日本人이 三十三萬二千四百五十六人에 불과하던 것이, 불과 五年後의 昨年末에는 일약 三十八萬六千四百九十三人으로 증가된 것이라, 즉 五年間의 증가인구수가 실로 五萬四千三十七人에 달한 바, 매년에 萬有餘人式의 移來를 見한 계산인대, 이와가티 朝鮮 안에잇는 日本人 인구의 증가하는 비례대로 朝鮮人이 증가한다하면, 大正 六年 末의 현재의 朝鮮 총인구는 一六,六一七,四三一人이엿는 바,＜59＞ 五年 이후인 작년 말 현재로는, 少하야도 二百七十萬九百七十七 내지 八人은 증가하여야될 계산이라, 그런대 실지로 五年間에 증가된 인구는 五十九萬六百八人에 지내지 못하는바, 日本人 增殖率의 四分의 一도 當티 못하는 그것이다. 다시 말하면 우리 朝鮮의 땅 안에 日本사람의 수가 四名半이 증가될 때에, 朝鮮사람이 겨우 한 명이 증가된 계산이라, 생각하야 이에 이르매 누가 새삼스러운 驚愕을 금할 者이랴. 而况 최근의 五年間에 증가되엿다는 五十九萬六百八人이란 그 數字도, 朝鮮人이 실지로 그만큼 증가되엿다함 보다, 인구조사의 逐年詳密에서 생긴 數字上의 증가가 그 원인의 주가 된다함이리요.
+
+備考
+大正 六年末의 朝鮮內 인구는
+朝鮮人이         一六八,六一七,四三一
+日本人이         三三二,四五六
+기타 외국인이    一九,一一O
+총계             一六,九六八,九九七人
+
+남자가 만흔가 여자가 만흔가
+
+-여자 하나에 남자는 몃 식이나 도라가나
+총인구 중에 남자는 九百八萬八千六百八十四人, 여자는 八百五十三萬八千七十七人인 바, 남자는 여자보다 만키가 五十五萬六百七人이 된다. 즉 여자 百人에 대하야 남자는 百六人半이나 되는 셈이다. 좀 더 자세히 기록하면, 여자 百人에 대하야 남자가, 朝鮮人은 百六人 日本人은 百十三人半, 기타 외국인은 七百三十四人 좀 념는 계산이다. 이와가티 朝鮮 안에 잇는 인종은 어느 편이나 남자가 만흔대, 日本人을 제한 기타 외국인은 남 七人에 여 一人이 도라가는 셈이다, 지금 형편으로는 여자란 원체로 귀한 것인가.
+
+朝鮮 땅 안에 잇는 日本種의 분포
+
+본토의 朝鮮사람보다도 거진 五倍나 되는 增殖率을 가진 日本種族, 즉 三十八萬六千餘人인 그들의 분포구역은 엇더한가, 京城市를 有한 관계상 京畿道에 사는 자가 最多인 바, 총수의 약 二割六分을 占하얏고, 그 다음이 慶尙南道이오, 忠淸北道와 江原道가 제일 적은 셈이다. 그리고 그들의 移來한 本籍別을 보면, 山口縣者가 最多하니 其 數-三萬五千餘人이나 되고, 그 다음은 二萬 이상 되는 곳이 福岡, 長崎, 廣島, 一萬 이상 되는 곳이 態本大分, 佐賀, 岡山, 鹿兒島, 愛媛, 東京이며 其外 一萬人 이하의 곳으로는 冲繩縣의 二百五十三人이 最少하다. 이것을 더좀 크게 區劃하면 九州區의 者가 최다하고 中國區가 그 次이라 한다.＜60＞
+＜56-60＞

@@ -1,0 +1,79 @@
+**Header Section:**
+Magazine Title: 개벽 (開闢)
+Publication Date: 1921년 05월 01일
+Article Title: 社告 (Company Notice)
+Author: None
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation:**
+Company Notice
+
+It seems that local distribution centers are not fully aware of the postage for sending this magazine. Our *Kaebyŏk* can be sent and received not only within the Korean mainland (朝鮮 內地) but also to Japan or even China for a postage of one *chŏn* (壹錢) per copy. This is because we have obtained permission for Third-Class Mail (三種郵便物). Therefore, even if a clerk at a local post office is unaware and says something different (말), please explain clearly so they understand that it is Third-Class Mail (第三種郵種).
+
+The postage rates for Third-Class Mail are as follows (如左):
+Periodicals published at least once a month (每月 一回 以上 刊行의 定期刊行物)
+Weight: Five *rin* (金五厘) per 20 *momme* (二十匁) or fraction thereof.
+Japan-China Mail (日支郵便): Five *rin* (金五厘) per 13 *momme* (十三匁).
+(Note) Periodicals classified as Third-Class Mail are limited to those approved by the competent authority (主務官署) (First-Class Post Office - 一等 郵便局).
+
+If you affix postage stamps according to this weight, there will be no mistake. <65>
+
+**Summary**
+
+This notice from the magazine *Kaebyŏk* instructs its local distributors on the correct, cheaper postage rate applicable to the magazine. It clarifies that *Kaebyŏk* has secured Third-Class Mail status, allowing it to be mailed within Korea and to Japan and China for a low price (one *chŏn*). The notice details the specific weight-based rates and advises distributors on how to inform postal clerks who might be unaware of this classification. For historians, this article provides insight into the practical challenges of publishing and distributing a Korean magazine during the colonial period, specifically highlighting the interaction with the Japanese-controlled postal system and the economic considerations involved in utilizing specific mail classifications like the Third-Class Mail system, which required official approval.
+
+**Named Entities**
+朝鮮 內地	조선 내지	Korean mainland (Chosŏn Naeji)
+日本	일본	Japan (Ilbon)
+中國	중국	China (Chungguk)
+一等 郵便局	일등 우편국	First-Class Post Office (Iltŭng Up'yŏnguk)
+
+**Glossary**
+社告	사고	Company notice
+地方分賣所	지방분매소	Local distribution center
+郵稅	우세	Postage
+仔細히	자세히	In detail, carefully (older spelling)
+갓습니다	같습니다	Seems like, is like (older spelling)
+內地	내지	Mainland, domestic territory (here referring to Korea)
+勿論	물론	Of course, needless to say
+지도	까지도	Even to (older spelling)
+壹錢	일전	One chŏn (a unit of currency)
+잇습니다	있습니다	Is, exists (older spelling)
+三種郵便物	삼종우편물	Third-Class Mail
+닭	까닭	Reason, cause (older spelling)
+或時	혹시	Perhaps, by chance (older spelling/usage)
+말	딴말	Different words, different story (older spelling)
+알아듯도록	알아듣도록	So that (they) understand (older spelling)
+說明	설명	Explanation
+如左	여좌	As follows (written below) (Sino-Korean reading, less common now)
+每月	매월	Every month
+刊行	간행	Publication
+定期刊行物	정기간행물	Periodical publication
+重量	중량	Weight
+匁	몬	Momme (Japanese unit of weight, approx. 3.75g)
+端	단	Fraction thereof
+金五厘	금오리	Five rin (a unit of currency, 1/10 of a sen/chŏn)
+日支郵便	일지우편	Japan-China Mail (支 was a common term for China)
+十三匁	십삼몬	Thirteen momme
+主務官署	주무관서	Competent authority/office
+認可	인가	Approval, permission
+添付	첨부	Attach, affix
+틀림업습니다	틀림없습니다	There is no mistake, it is correct (older spelling)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제11호
+발행일	1921년 05월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+地方分賣所에서는 本 雜誌送達에 對하야 郵稅를 仔細히 모르는 것 갓습니다. 우리 開闢은 朝鮮 內地는 勿論이고 日本이나 中國지도 一冊에 壹錢 郵稅이면 갈 수도 잇고 올 수도 잇습니다. 그것은 三種郵便物의 許可를 어든 닭이오니 或時 地方郵便所에서 事務員이 알지를 못하고 말을 하더라도 第三種郵種이라는 말을 알아듯도록 說明하여 주시오
+第三種郵便物의 郵稅는 如左합니다
+每月 一回 以上 刊行의 定期刊行物
+重量 二十匁 又는 其端마다 金五厘
+日支郵便은 十三匁마다 金五厘
+(注意)第三種郵便物이라고 할 定期刊行物은 主務官署(一等 郵便局)의 認可를 得한 것에 限함.
+이 重量에 依하야 郵票를 添付하시면 틀림업습니다.＜65＞

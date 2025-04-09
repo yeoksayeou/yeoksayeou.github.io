@@ -1,0 +1,44 @@
+Magazine Title: 개벽 신간 제4호
+Publication Date: 1935년 03월 01일
+Article Title: 謹告 (Notice)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Note)
+
+The March issue, the continuation of "Ŏrini" (『어린이』), was unfortunately seized by the authorities (當局).
+
+Therefore, we unavoidably cannot publish the March issue and will instead publish it as the April issue. We hereby respectfully announce this.<107>
+
+**Summary**
+
+This brief notice from the magazine "Kaebyŏk Sin'gan" informs readers that the March issue of the children's magazine "Ŏrini" was confiscated by the authorities. Consequently, the March issue will not be published, and its contents will be included in the April issue instead. This notice is historically significant as it explicitly records an instance of Japanese colonial censorship targeting a Korean publication, specifically a magazine aimed at children. For historians, it exemplifies the control and suppression exerted by the colonial authorities over Korean media and cultural expression during the 1930s.
+
+**Named Entities**
+
+『어린이』	어린이	Ŏrini
+當局	당국	Authorities
+
+**Glossary**
+
+續刊	속간	Continuation (of publication), continued issue
+不幸히	불행히	Unfortunately
+當局	당국	The authorities
+押收	압수	Seizure, confiscation
+當하엿습니다	당하였습니다	Was subjected to, suffered (Older spelling/conjugation of 당하다)
+不得已	부득이	Unavoidably, inevitably
+發行치	발행치	(Will) not publish (Older contraction of 발행하지)
+出刊되겟삽기	출간되겠삽기	Because it will be published (Older spelling/polite suffix -삽-)
+玆에	자에	Hereby, herewith (Archaic)
+謹告합니다	근고합니다	Respectfully announce/inform
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	謹告
+기사형태	사고·편집후기
+
+謹告
+『어린이』 續刊 三月號는 不幸히 當局에 押收를 當하엿습니다
+그래서 不得已 三月號는 發行치 못하고 四月號로 出刊되겟삽기 玆에 謹告합니다＜107＞

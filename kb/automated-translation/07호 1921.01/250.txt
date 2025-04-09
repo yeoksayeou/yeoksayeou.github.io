@@ -1,0 +1,74 @@
+잡지명	개벽 제7호
+발행일	(Not specified in text)
+기사제목	東洋의 安心과 西洋의 希望 (The East's Peace of Mind and the West's Hope)
+기사형태	잡저 (Miscellaneous writing/Essay)
+
+東洋의 安心과 西洋의 希望 (The East's Peace of Mind and the West's Hope)
+
+In the East, the theory of cause and effect (因果說) has traditionally prevailed, emphasizing peace of mind (安心), while in the West, the theory of original sin (原罪說) has traditionally prevailed, valuing hope (希望). However, peace of mind finds satisfaction in the present state, whereas hope finds satisfaction by idealizing the future. Furthermore, the path of peace of mind seeks God only amidst misfortune, finding satisfaction if misfortune is averted, while the path of hope seeks blessings within blessings, becoming increasingly insufficient day by day. Therefore, for peace of mind, doing well means maintaining the status quo (現狀維持); if things go poorly, it results in sheer regression (退嬰). Conversely, for hope, even if things go poorly, it means maintaining the status quo; if things merely proceed steadily, it is progress (進步). Thus, it can be said that the reason Eastern civilization, possessing the most ancient and brilliant history, has come to be shamefully bowing its head beneath Western civilization today originates from such factors. <107>
+
+**Summary**
+
+This article contrasts Eastern and Western philosophical outlooks, arguing that the East's focus on "peace of mind" (安心) through causality leads to contentment with the status quo or regression, while the West's focus on "hope" (希望) driven by a sense of original sin fuels a constant desire for future improvement and progress. The author posits this fundamental difference as the root cause of Eastern civilization's perceived stagnation compared to the West, despite the East's long history. From the perspective of Korean colonial history, this piece reflects a common intellectual discourse of the time, grappling with notions of modernization, progress, and the perceived shortcomings of traditional Eastern thought in the face of Western (and implicitly, Japanese) power and development. It highlights a self-critical view prevalent among some Korean intellectuals seeking reasons for Korea's diminished status and looking towards models of "progress."
+
+**Named Entities**
+
+東洋	동양	East (Referring to Eastern civilization/region)
+西洋	서양	West (Referring to Western civilization/region)
+
+**Glossary**
+
+東洋	동양	The East; Orient
+安心	안심	Peace of mind; relief; security
+西洋	서양	The West; Occident
+希望	희망	Hope; wish
+從來	종래	Traditionally; conventionally; up to now
+因果說	인과설	Theory of cause and effect; causality
+行하야	행하여	(Older form of 행하여) To be practiced; to prevail; to act
+主	주	Main emphasis; focus
+原罪說	원죄설	Doctrine of original sin
+重히 여기엇다	중히 여기었다	(Older spelling/form of 중히 여겼다) Valued; regarded as important
+現狀	현상	Present state; status quo
+滿足	만족	Satisfaction; contentment
+將來	장래	The future
+理想	이상	Ideal
+進路	진로	Path; course
+唯	유	Only; merely
+禍	화	Misfortune; disaster; calamity
+神	신	God; spirit
+求하야	구하여	(Older form of 구하여) Seeking; searching for
+免하면	면하면	If one avoids; if one escapes
+福	복	Blessing; fortune; happiness
+日로	날로	Day by day; increasingly
+不足	부족	Insufficiency; lack; shortage
+故로	고로	(Older form, often same as 그러므로) Therefore; hence
+前에는	전에는	Before; in front of; in the case of
+잘되는 것	잘되는 것	Doing well; succeeding
+現狀維持	현상 유지	Maintaining the status quo
+못된다 하면	못된다 하면	If things go poorly; if it fails
+아조	아주	(Older spelling of 아주) Very; completely; utterly
+退嬰	퇴영	Regression; degeneration; retrogression
+위연만 하면	(Unclear, possibly dialectal or archaic for 'steadily' or 'as usual' - context suggests progress even with just steady effort)	If only proceeding steadily/as usual
+進步	진보	Progress; advancement
+最古	최고	Oldest; most ancient
+燦然한	찬란한	(Used 燦然 Hanja, often read as 찬란한) Brilliant; radiant; splendid
+歷史	역사	History
+今日	금일	Today; nowadays (formal/older term for 오늘)
+미테	밑에	(Older spelling of 밑에) Under; beneath
+부끄러우나	부끄러우나	Although shameful/embarrassing
+頭	두	Head
+乘하게 된 것	(Unclear phrase, possibly 숙이게 된 것 meaning 'bowing/lowering the head' based on context)	Came to lower the head (idiomatic for being subservient or overshadowed)
+其源	기원	Its origin; its source
+잇다	있다	(Older spelling of 있다) To be; to exist
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제7호
+발행일	
+기사제목	東洋의 安心과 西洋의 希望
+기사형태	잡저
+
+東洋의 安心과 西洋의 希望
+東洋에는 從來로 因果說이 行하야 安心을 主로 하고 西洋에는 從來로 原罪說이 行하야 希望을 重히 여기엇다. 그런데 安心은 現狀에 滿足하나 希望은 將來를 理想하고 滿足함이며 또 安心의 進路는 唯禍中에 神을 求하야 禍을 免하면 滿足하나 希望의 進路는 福中에 福을 求하야 日로 不足하는 것이다. 故로 安心의 前에는 잘되는 것이 現狀維持이오. 못된다 하면 아조 退嬰이나 希望의 前에는 못된다 하야도 現狀維持이며 위연만 하면 進步이니 最古의 燦然한 歷史를 가진 東洋文明으로서 今日의 西洋文明 미테 부끄러우나 頭를 乘하게 된 것은 其源이 이러한 곳에 잇다고 할 수가 잇다.＜107＞

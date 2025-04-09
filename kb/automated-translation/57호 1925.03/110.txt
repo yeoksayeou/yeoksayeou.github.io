@@ -1,0 +1,60 @@
+Magazine Title: 開闢
+Publication Date: 1925년 03월 01일
+Article Title: 交通機關과 拓殖的 意義 (Transportation Infrastructure and Its Colonial Significance)
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+Transportation infrastructure—especially the 整備 (improvement/development) of transportation infrastructure for colonies—what is its main purpose? First, it is to plot the economic development for the advancement of the mother country's people (at least, centered on the interests of the mother country) regarding that colony. Second, it is to allow freedom of movement for the military, police, and other authorities (執權者) who are there to guarantee the execution of that task. Look first at the phenomenon (現像) in Chosŏn. Wherever transportation infrastructure opens up, Japanese people follow; where Japanese people are, there is colonization (拓殖) by Japanese people; and where there is colonization by Japanese people, do not the military and police follow?<58>
+
+**Summary**
+
+The article argues that the development of transportation infrastructure in colonies, particularly in Korea (Chosŏn), primarily serves two purposes for the colonizing power (Japan): facilitating economic exploitation and development beneficial to the mother country and its people, and enabling the easy deployment and movement of military and police forces to maintain control. It observes a direct correlation in Korea between the expansion of transport networks, the influx of Japanese settlers engaging in colonization (拓殖), and the subsequent increase in military/police presence. For historians, this piece offers a contemporary Korean perspective from 1925, explicitly linking infrastructure development not to modernization for the colony's benefit, but directly to the mechanisms of colonial economic extraction and political/military control. It clearly articulates the perceived process of colonization facilitated by infrastructure.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+日本	일본	Japan
+
+**Glossary**
+
+交通機關	교통기관	Transportation infrastructure/Means of transport
+拓殖的	척식적	Colonial (related to colonization/settlement)
+意義	의의	Significance/Meaning
+植民地	식민지	Colony
+對한	대한	Regarding/Concerning (Older spelling of 대한)
+整備	정비	Improvement/Development/Maintenance
+主作用	주작용	Main function/Principal effect
+母國人	모국인	People of the mother country
+發展	발전	Development/Advancement
+利益	이익	Interest/Benefit/Profit
+本位	본위	Basis/Standard (as in '-centered')
+圖하기 爲함	도하기 위함	Intending to plot/plan for (Slightly older grammatical form for 도모하기 위함)
+其一	기일	The first/Firstly
+任務	임무	Task/Duty/Mission
+遂行	수행	Execution/Performance (of a task)
+保障키 爲하야	보장키 위하야	In order to guarantee (Older spelling/form of 보장하기 위하여)
+軍隊	군대	Military/Army
+警察	경찰	Police
+其他	기타	Other/Etc.
+執權者	집권자	Person(s) in power/Authorities
+出動	출동	Mobilization/Deployment/Turning out
+自由롭게	자유롭게	Freely
+其二	기이	The second/Secondly
+朝鮮	조선	Korea (Joseon Dynasty name, used for Korea during this period)
+現像	현상	Phenomenon (Now typically written 현상)
+열니는	열리는	Opens up (Older spelling of 열리는)
+따르고	따르고	Follows
+잇는	있는	Is/Are/Exists (Older spelling of 있는)
+拓殖	척식	Colonization/Settlement (by settlers)
+안느냐	않느냐	Is it not?/Does it not? (Older spelling/form of 않느냐)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제57호
+발행일	1925년 03월 01일
+기사제목	交通機關과 拓殖的 意義
+기사형태	잡저
+
+交通機關과 拓殖的 意義
+交通機關-特히 植民地에 對한 交通機關의 整備는 그 主作用이 무엇에 잇는 것일가. 그 植民地에 對한 母國人發展 (적어도 母國의 利益을 本位로 한)의 經濟的 發展을 圖하기 爲함이 其一이오 그 任務의 遂行을 保障키 爲하야 잇는 軍隊, 警察, 其他 執權者의 出動을 自由롭게 하기 爲함이 其二이다. 第一 朝鮮의 現像으로써 보아라. 交通機關이 열니는 곳에 日本人이 따르고, 日本人이 잇는 곳에 日本人으로의 拓殖이 잇고 日本으로의 拓殖이 잇는 곳에 軍隊 警察이 따르지 안느냐.＜58＞

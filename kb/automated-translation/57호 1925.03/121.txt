@@ -1,0 +1,103 @@
+Magazine Title: 개벽 제57호
+Publication Date: 1925년 03월 01일
+Article Title: 7年前後 總督府 歲出入 比較 (Comparison of Government-General Revenue and Expenditure Around 7 Years Ago)
+Author: N/A
+Article Type: 소식 (News/Report)
+
+The fiscal relationship between Chosŏn and Japan began in October of Meiji 37 (1904) with the installation of a Japanese financial advisor in the Korean government.
+
+As a result of the Japan-Korea annexation in Meiji 40 (1907) - from the Japanese government, aside from lending 19,682,623 *wŏn* interest-free and indefinitely over the 6 years until Meiji 45 (1912) for various facility funds for the administration of Chosŏn, it granted 12,350,000 *wŏn* as subsidies for emergency facilities from Meiji 44 (1911) onwards. Starting from Taishō 2 (1913), it was decided to reduce this supplementary funding by 2,350,000 *wŏn*. Then, for the 5 years from Taishō 3 (1914) onwards, although the independence of Chosŏn's finances was planned as much as possible, it did not come to fruition. Subsidies were received: 10,000,000 *wŏn* in Taishō 9 (1920), 15,000,000 *wŏn* in Taishō 10 (1921), over 15,900,000 *wŏn* in Taishō 11 (1922), over 15,120,000 *wŏn* in Taishō 12 (1923), and over 15,120,000 *wŏn* in Taishō 13 (1924), meaning the same subsidy as in year 12 was received.
+
+Comparison Table of Government-General Revenue and Expenditure for Taishō 7 (1918) and Taishō 13 (1924)
+
+In the 7 years from year 7 (1918) to year 13 (1924), the increase in revenue and expenditure was over 76,320,000 *wŏn*. Now, looking at the detailed items of revenue and expenditure:
+
+Recent Population of Chosŏn by Category
+
+According to the survey at the end of Taishō 12 (1923), the total number of households was 3,404,181, of which 3,282,792 were Korean households, 110,439 were Japanese households, and 10,950 were foreigner households. The total population was 17,884,163, of which 17,446,913 were Koreans, 403,011 were Japanese, and 35,039 were foreigners. Now, comparing this with the end of Meiji 43 (1910) and the end of Taishō 6 (1917) to see the increase or decrease:
+
+Area and Current Population of Each Province
+
+Population Increase/Decrease Table for Each City in Chosŏn (Population figures for 1917 are unknown)
+
+Changes in Chosŏn Security Before and After the Kimi Year (March First Movement, 1919) (Comparison of Security in 1918 and 1924) <68>
+
+<59-68>
+
+**Summary**
+
+This article from 1925 outlines the financial relationship between colonial Korea (Chosŏn) and Japan starting from 1904, detailing loans and subsidies provided by Japan to the Government-General of Chosŏn, especially after the 1907 annexation. It highlights a significant increase (over 76 million *wŏn*) in the Government-General's budget between 1918 (Taishō 7) and 1924 (Taishō 13). The article also provides population statistics for late 1923, breaking down households and individuals by Korean, Japanese, and foreign categories, and mentions plans to compare these figures with 1910 and 1917 data. Additionally, it points towards further sections detailing provincial areas/populations, urban population changes, and a comparison of security/policing levels before and after the 1919 March First Movement (Kimi Year). For historians, the article offers valuable contemporary data on the colonial administration's finances, revealing increasing Japanese financial control and expenditure in Korea. The demographic breakdown showing the growing Japanese population and the specific mention of comparing security costs around the time of the March First Movement are particularly revealing about the tightening colonial grip and response to Korean resistance.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+日本	일본	Japan
+韓國政府	한국정부	Korean government
+日本人	일본인	Japanese person/people
+日本政府	일본정부	Japanese government
+總督府	총독부	Government-General
+朝鮮人	조선인	Korean person/people
+外國人	외국인	Foreigner(s)
+己未	기미	Kimi (Year 1919, referring to March First Movement)
+
+**Glossary**
+
+財政關係	재정관계	Fiscal relationship
+財政顧問	재정고문	Financial advisor
+設置	설치	Establishment, installation
+始作되엇다	시작되었다	Began (Older spelling/form)
+日韓合倂	일한합병	Japan-Korea Annexation
+諸般施設金	제반시설금	Various facility funds
+貸與	대여	Loan, lending
+補助金	보조금	Subsidy, grant
+與하얏고	여하였고/주었고	Granted, gave (Older form/Hanja verb)
+補充金	보충금	Supplementary funds
+减하기로	감하기로	Decided to reduce (Older verb form)
+可及的	가급적	As much as possible
+獨立	독립	Independence
+計하얏다가	계하였다가	Planned, but... (Older form/Hanja verb)
+不果	불과	Did not come to fruition, unsuccessful
+年度	연도	Fiscal year, year
+同樣	동양	The same as
+밧어왓다	받아왔다	Have been receiving (Older spelling)
+歲出入	세출입	Revenue and expenditure
+增加	증가	Increase
+細目	세목	Detailed items, breakdown
+調査	조사	Survey, investigation
+依하면	의하면	According to
+總戶數	총호수	Total number of households
+人口總數	인구총수	Total population
+增减如何	증감여하	Increase/decrease status
+比較	비교	Comparison
+各道	각도	Each province
+未詳	미상	Unknown, details unclear
+前後	전후	Before and after
+警備	경비	Security, policing, guards
+消長	소장	Changes, fluctuations (rise and fall)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제57호
+발행일	1925년 03월 01일
+기사제목	7年前後 總督府 歲出入 比較
+기사형태	소식
+
+7年前後 總督府 歲出入 比較
+朝鮮과 日本의 財政關係는 明治 37年 10月 韓國政府에 日本人 財政顧問 設置로써 始作되엇다. 明治 40年 日韓合倂의 結果-日本政府로부터는 仝45年까지 6個年間 朝鮮行政의 諸般施設金으로 19,682,623圓을 無利子 無期限으로 貸與한 外에 44年 以後 應急施設에 對한 補助金으로 1,235萬圓을 與하얏고 大正 2年부터는 仝補充金 中으로부터 235萬圓을 减하기로 하고 다시 大正 3年 以後 5個年間은 可及的 朝鮮財政의 獨立을 計하얏다가 不果하고 大正 9年度에 1,000萬圓 10年度에 1,500萬圓 11年度에 1,590餘萬圓 12年度에 1,512萬餘圓 13年度에 1,512萬餘圓 卽 12年 同樣의 補助를 밧어왓다.
+
+大正7年 及 13年度의 總督府 歲出入 比較表
+
+7年度로부터 13年度까지 7個年間에 歲出入 增加가 7,632萬餘 圓이다. 이제 그 歲出入의 細目을 보면
+
+最近朝鮮의 人口別
+大正 12年 末 調査에 依하면 總戶數 3,404,181戶인데 中에 朝鮮人이 3,282,792戶요 日本人이 110,439戶요 外國人이 10,950戶이라, 人口總數로는 17,884,163人 中 朝鮮人이 17,446,913人이요 日本人이 403,011人이요 外國人이 35,039人이라. 이제 이것을 明治 43年 末과 大正 6年 末로써 增减如何를 比較해 본다하면
+
+各道面積과 現 人口
+
+朝鮮各都市의 人口增减表     (1917年度 人口數 未詳)
+
+己未 前後 朝鮮警備消長如何     (1918年中과 1924年中의 警備比較) ＜68＞
+
+＜59-68＞

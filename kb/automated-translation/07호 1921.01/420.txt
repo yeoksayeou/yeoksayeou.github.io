@@ -1,0 +1,102 @@
+Magazine Title: 개벽 제7호
+Publication Date: Taishō Year Month Day (Note: Kaebyŏk Issue 7 was published December 1920)
+Article Title: 月刊雜誌 『開闢』分賣所 規約 (Monthly Magazine "Kaebyŏk" Distribution Center Regulations)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Regulations for Monthly Magazine 『Kaebyŏk』 Distribution Centers
+
+Article 1. For the convenience of this magazine's readers, distribution centers may be established in pivotal locations in various regions.
+
+Article 2. Those wishing to establish a distribution center must obtain approval from the Main Office according to the format specified in the attached table.
+
+Article 3. The income for a distribution center shall be six chon per copy of the magazine sold.
+
+Article 4. The rights and duties of a distribution center shall include the sale and delivery of requested magazines, handling advertisements, receiving payments, and commissioning articles. However, regarding advertisements handled, thirty percent of the transaction amount shall be the profit of the distribution center.
+
+Article 5. Upon concluding the contract, the distribution center shall deposit with the Main Office a security deposit of one won for each copy requested. However, if two or more joint guarantors approved by the Main Office are provided, the security deposit is not required, and the joint guarantors shall bear the same responsibility towards the Main Office as the distribution center.
+
+Article 6. The Main Office shall pay annual interest of twenty percent on the security deposit.
+
+Article 7. When a distribution center terminates the distribution contract, any remaining balance shall be returned after settling accounts with the Main Office.
+
+Article 8. The distribution center shall remit the payment for the magazines to the Main Office by the end of that month; if payment is delayed, it shall be deducted from the security deposit. However, if payment is delayed for two months or more, it shall be considered a breach of contract, and the Main Office may proceed with immediate settlement, to which the distribution center shall have no objection.
+
+Article 9. Any remaining copies of that month's magazine that the distribution center could not sell must be returned to the Main Office by the 20th of that month; if this deadline passes, the Main Office shall consider them sold. However, postage for dispatch from the Main Office shall be borne by the Main Office, and postage for dispatch from the distribution center shall be borne by the distribution center.
+
+Article 10. This contract shall take effect from the day of its conclusion.
+
+Taishō Year Month Day <204>
+
+**Summary**
+
+These regulations outline the terms for establishing and operating local distribution centers (分賣所) for the monthly magazine *Kaebyŏk* (開闢). They detail the application process, commission structure (6 chon per copy, 30% for ads), responsibilities (sales, delivery, payments, etc.), the requirement of a security deposit (1 won per copy) or joint guarantors, interest paid on deposits, payment deadlines, penalties for late payment (deduction from deposit, contract termination), and procedures for returning unsold copies. Historically, this document provides insight into the business operations and distribution network of a prominent Korean nationalist magazine during the Japanese colonial period (likely 1920). It reveals the financial arrangements, risk management (security deposits, guarantors), and logistical considerations necessary to circulate such a publication widely, showing a degree of formalized business practice within the constraints of the era.
+
+**Named Entities**
+
+本社	본사	Main Office/Headquarters (referring to the Kaebyŏk publishing company)
+
+**Glossary**
+
+分賣所	분매소	Distribution center; Sales outlet (older term)
+規約	규약	Regulations; Rules; Bylaws
+本社	본사	Main Office; Headquarters
+承認	승인	Approval; Recognition
+所得	소득	Income; Earnings
+金六錢式	금육전식	Six chon each (錢 'chon' was a unit of currency, 1/100 of a Won 圓)
+權利	권리	Rights
+義務	의무	Duties; Obligations
+配達	배달	Delivery
+廣告取扱	광고취급	Handling advertisements
+金錢受納	금전수납	Receiving money/payments
+記事委托	기사위탁	Commissioning articles
+利得	이득	Profit; Gain
+契約締結	계약체결	Conclusion of a contract
+保証金	보증금	Security deposit
+一圓式	일원식	One won each (圓 'won' was the main currency unit)
+連帶 保証人	연대 보증인	Joint guarantor
+支拂	지불	Payment (older Hanja spelling for 지불)
+解除	해제	Termination; Cancellation (of a contract)
+會計	회계	Accounting; Accounts
+淸算	청산	Settlement (of accounts); Liquidation
+殘金	잔금	Remaining balance; Residual amount
+還附	환부	Return; Refund
+代金	대금	Payment; Price; Cost (for goods)
+滯納	체납	Delinquency (in payment); Arrears
+控除	공제	Deduction
+解約	해약	Cancellation of a contract
+看做	간주	To regard as; To consider as
+斷行	단행	To carry out decisively; To enforce
+異議	이의	Objection; Dissent
+殘部	잔부	Remaining copies; Unsold portion
+還附	환부	Return (of goods)
+經過	경과	To pass (of time); Elapse
+郵稅	우세	Postage; Postal charges
+負擔	부담	Burden; Responsibility (often financial)
+效力	효력	Effectiveness; Validity (of a contract)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제7호
+발행일	
+기사제목	月刊雜誌 『開闢』分賣所 規約
+기사형태	사고·편집후기
+
+月刊雜誌 『開闢』分賣所 規約
+第一條. 本誌讀者의 便利를 爲하야 各地方 樞要地에 分賣所의 設置함을 得함
+第二條. 分賣所를 設置코자 하는 이는 左記別表의 樣式에 依하야 本社에 承認을 得할 事
+第三條. 分賣所의 所得은 雜誌 每部販賣에 對하야 金六錢式으로 함
+第四條. 分賣所의 權利 及 義務는 所要잡지의 販賣 及 配達과 廣告取扱 金錢受納 記事委托          等으로 함
+但 廣告는 取扱金高에 對하야 三割式을 分賣所의 利得으로 함
+第五條. 分賣所에서는 本社에 對하야 契約締結 同時에 請求誌 部數대로 每部에 對하야 保証          金 一圓式 本社에 納入함
+但 本社에서 承認하는 二名 以上의 連帶 保証人을 立할 時는 保証金을 不要하고 連          帶人은 分賣所와 同一한 責任을 本社에 對하야 負擔함
+第六條. 本社에서는 保証金에 對하야 年二割의 利子를 支拂함
+第七條. 分賣所에서 分賣契約을 解除하는 時는 本社와 會計를 淸算한 後에 殘金은 還附함
+第八條. 分賣所에서는 雜誌代金을 其月 月終에 本社로 交附하되 滯納時는 保証金 中으로 控          除함
+但 貳 個月 以上 代金을 滯納하는 時는 解約으로 看做하고 卽時 淸筭을 斷行하여도          分賣所에서는 異議가 無함
+第九條. 分賣所에서 其月分 잡誌를 販賣치 못한 殘部는 其月 二十日 內로 本社에 還附하되          此期日이 經過한 時는 本社에서는 販賣한 줄로 看做함
+但 本社에서 發送하는 郵稅는 本社에서 負擔하고 分賣所에서 發送하는 郵稅는 分賣所에서 負擔함
+第十條. 本契約은 契約締結 當日로 效力을 生함
+大正 年 月 日 ＜204＞

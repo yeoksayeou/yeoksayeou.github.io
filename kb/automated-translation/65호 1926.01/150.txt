@@ -1,0 +1,52 @@
+Magazine Title: 개벽 제65호
+Publication Date: 1926년 01월 01일
+Article Title: 共産黨員二百萬 (Two Million Communist Party Members)
+Author: None explicitly mentioned
+Article Type: 소식 (News Report)
+
+Two Million Communist Party Members
+
+The Worker-Peasant Russian Communist Party (勞農露國共産黨) has announced its party membership numbers as follows.
+
+The total population, which was about 180 million before the war, has now decreased to 165 million. The number of Communist Party members is 2,161,403, within which there are 815,720 male Communist Party members, 114,950 female Communist Party members, 764,636 male candidate members (준공산당원), 50,077 female candidate members, 351,067 male membership applicants (가맹지원자), and 64,913 female membership applicants. <91>
+
+**Summary**
+
+This short news report provides statistics on the membership of the Communist Party in Soviet Russia (referred to as "Worker-Peasant Russia") as of late 1925 or early 1926. It details the total number of members (over 2.1 million), broken down by gender and membership status (full members, candidate members, and applicants), and contrasts this with the country's total population, noting a decrease since before the war (presumably WWI/Russian Revolution/Civil War). For historians studying colonial Korea, this article reflects the keen interest among Korean intellectuals and activists in the developments within the Soviet Union, particularly the structure and scale of the Communist Party, during a period when socialist and communist ideas were gaining traction as potential paths to national liberation and social change. The detailed breakdown suggests access to official Soviet reports or news transmitted internationally.
+
+**Named Entities**
+
+勞農露國共産黨	노농로국공산당	Worker-Peasant Russian Communist Party (Soviet Communist Party)
+勞農露國	노농로국	Worker-Peasant Russia (Soviet Russia/USSR)
+共産黨	공산당	Communist Party
+
+**Glossary**
+
+共産黨員	공산당원	Communist Party member
+勞農露國	노농로국	Worker-Peasant Russia (term for Soviet Russia/USSR)
+發表	발표	Announcement, publication
+總人口	총인구	Total population
+戰前	전전	Pre-war
+現在	현재	Currently, present time
+減少되엿스니	감소되었으니	Having decreased (Older spelling/form of 감소되었으니)
+명	명	Person (counter)
+내	내	Inside, within
+男	남	Male
+女	여	Female
+준공산당원	준공산당원	Candidate Communist Party member (lit. quasi-communist party member)
+가맹지원자	가맹지원자	Membership applicant (lit. affiliation supporter/applicant)
+이라고	이라고	It is said that... (Quotation particle)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제65호
+발행일	1926년 01월 01일
+기사제목	共産黨員二百萬
+기사형태	소식
+
+共産黨員二百萬
+勞農露國共産黨은 其 당원수를 左와 如히 발표하엿다.
+총인구는 戰前 약 1억 8천만이던 것이 현재 1억 6천 5백만으로 감소되엿스니 공산당원은 2,161,403명으로서 그 내에 공산당원 男 815,720인, 女 114,950인, 준공산당원 男 764,636인, 女 50,077인, 가맹지원자 男 351,067인, 女 64,913인이라고. ＜91＞
+＜91＞

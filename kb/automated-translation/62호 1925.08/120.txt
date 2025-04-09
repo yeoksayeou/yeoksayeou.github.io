@@ -1,0 +1,72 @@
+Magazine Title:	개벽 제62호
+Publication Date:	1925년 08월 01일
+Article Title:	中國의 好漢 - 胡漢民 氏 (China's Hero - Mr. Hu Hanmin)
+Author:	
+Article Type:	소식 (News/Report)
+
+China's Hero - Mr. Hu Hanmin
+
+On July 3rd, the day just before the establishment of the Nationalist Government of Guangdong (廣東國民政府) in China, Mr. Hu Hanmin (胡漢民) and Mr. Hsü Ch'ung-chih (許崇智), leaders of the left wing of the Nationalist Party (國民黨), were shot at by subordinates of the former Yunnan Army (雲南軍) Commander-in-Chief Yang Hsi-min (楊希閔). Both men sustained minor injuries.
+
+Mr. Hu, the leader of the same party after Sun Wen's (孫文) death, served as Acting Generalissimo until the reorganization into the Guangdong Nationalist Government on July 4th, whereupon he became a Standing Committee Member and Foreign Minister. He is a representative figure of the anti-Beijing government and also a representative figure among Chinese Communists. Mr. Hsü is the Army Minister of the Guangdong Nationalist Government and recently rendered distinguished service by defeating the two armies of the anti-communist faction, Yang Hsi-min (楊希閔) and Liu Chen (劉震), thereby establishing a new foundation for the Guangdong Government.<63>
+
+**Summary**
+
+This news report from August 1925 describes an assassination attempt on Hu Hanmin and Hsü Ch'ung-chih, key figures in the Kuomintang's left wing and the newly forming Guangdong Nationalist Government. It highlights Hu Hanmin's role following Sun Yat-sen's death, his positions in the new government, and his association with both the anti-Beijing movement and Chinese Communism (a contemporary perspective that conflated the KMT left with Communists). Hsü Ch'ung-chih is credited with recent military victories against anti-communist forces, solidifying the Guangdong government's base. From a Korean colonial history perspective, the article is interesting as it shows Korean interest in the turbulent political and military developments in neighboring China, particularly the rise of nationalist and revolutionary forces challenging established powers, which could resonate with Korean aspirations for independence. The identification of Hu Hanmin, a KMT leader, as a representative of "Chinese Communists" also reflects the complex and sometimes poorly understood relationship between the KMT and CCP during this period, as viewed from Korea.
+
+**Named Entities**
+
+中國	중국	Chungguk (China)
+胡漢民	호한민	Ho Hanmin (Hu Hanmin)
+廣東國民政府	광동국민정부	Kwangdong Kungmin Chŏngbu (Guangdong Nationalist Government)
+國民黨	국민당	Kungmindang (Nationalist Party / Kuomintang)
+許崇智	허숭지	Hŏ Sungji (Hsü Ch'ung-chih)
+雲南軍	운남군	Unnamgun (Yunnan Army)
+楊希閔	양희민	Yang Hŭimin (Yang Hsi-min)
+孫文	손문	Son Mun (Sun Wen / Sun Yat-sen)
+北京	북경	Peigyŏng (Beijing)
+中國共産主義者	중국공산주의자	Chungguk Kongsanjuŭija (Chinese Communists)
+劉震	유진	Yu Chin (Liu Chen)
+廣東政府	광동정부	Kwangdong Chŏngbu (Guangdong Government)
+
+**Glossary**
+
+好漢	호한	Hero; strong man; man of prowess
+수립	수립	Establishment; founding
+전일	전일	The day before
+좌파	좌파	Left wing (political)
+수령	수령	Leader; chief
+저격되야	저격되어	To be shot at; be sniped at (older spelling/form of 되어)
+兩씨	양씨	Both men/persons (using 兩 for 'both')
+공히	공히	Both; together; alike
+경미한	경미한	Minor; slight
+死去	사거	Death (formal term)
+同黨	동당	Same party
+統率者	통솔자	Leader; commander
+대원사 대리	대원수 대리	Acting Generalissimo (likely referring to Sun Yat-sen's title)
+개조되며	개조되며	Being reorganized; upon reorganization
+상무위원	상무위원	Standing Committee Member
+외교부장	외교부장	Foreign Minister
+反北京 정부	반북경 정부	Anti-Beijing Government
+대표적 인물	대표적 인물	Representative figure
+육군부장	육군부장	Army Minister
+최근에	최근에	Recently
+반공산파	반공산파	Anti-communist faction
+破하고	파하고	Defeating; crushing (older spelling/form of 파하고)
+신기초	신기초	New foundation; new basis
+動功者	공로자	Person who rendered distinguished service (likely means 공로자)
+하엿다	하였다	Did; was (older spelling of 하였다)
+되엿는대	되었는데	Became; was (older spelling of 되었는데)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제62호
+발행일	1925년 08월 01일
+기사제목	中國의 好漢 - 胡漢民 氏
+기사형태	소식
+
+中國의 好漢 - 胡漢民 氏
+中國의 廣東國民政府가 수립되기 바로 전일인 7월 3일, 국민당 좌파의 수령인 胡漢民 許崇智 兩씨는 전 雲南軍 총사령 楊希閔 부하에게 저격되야 兩씨가 공히 경미한 부상을 당하엿다.
+胡씨는 孫文 死去 후의 同黨統 率者로서 대원사 대리를 보다가 7월 4일 廣東國民政府로 개조되며 상무위원 겸 외교부장이 되엿는대 反北京 정부의 대표적 인물인 동시에 中國共産主義者의 대표적 인물이다. 許씨는 廣東國民政府의 육군부장으로서 최근에 반공산파인 楊希閔 劉震 2군을 破하고 廣東政府의 신기초를 세운 動功者이다.＜63＞

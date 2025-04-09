@@ -1,0 +1,441 @@
+잡지명	개벽 제32호
+발행일	1923년 02월 01일
+기사제목	歌劇의 起源과 그 發達, (前號 「歌劇」의 이약이의 繼續으로 本號에 完結햇다.) (The Origin and Development of Opera, (Continued from the previous issue's discussion of "Opera", concluding in this issue.))
+필자	洪蘭坡
+기사형태	문예평론 (Literary Criticism/Arts Review)
+
+The Origin and Development of Opera,
+						Hong Nanp'a
+II. The Origin and Development of Opera
+Last month, I spoke about what opera generally is. Next, I intend to briefly talk about the origin and development of opera.
+Fundamentally, since humans are emotional animals, whenever we feel something, we want to cry, laugh, sing, or dance. This is precisely human instinct, and opera can also be called the voice of human instinct.
+Viewed under the strict interpretation of modern people, whether it can be called opera or not is questionable, but in any case, music in ancient Greece was a synthesis of poetry, music, and dance. Thus, one person composed the lyrics, sang the lyrics, and also danced. Looking at it this way, Greek music can be called primitive opera. Also, in the Middle Ages, there were instances where music was added to mystery plays, but because the method was not harmony but rather a mixture, far from aiding the effect of the drama, it actually reached the point of ruining it. Then, in the 16th century, as the Renaissance movement arose and all kinds of scholarship and art were about to be reformed, music also sought to return to the Greek era and create a pure fusion under the classical spirit. Thus, the first cry for musical innovation erupted in Italy.
+The new movement at this time was guided by the principle that "music must aid poetry." In other words, it meant that music must assist the emotions expressed by the lyrics.<9>
+Opera is truly the flower of the Renaissance. A musician named Caccini studied Greek tragedy, which included chorus, added the form of the medieval mystery play to it, and created something close to opera. Not only that, but it was also this person who devised a type of aria (咏嘆調). At that time, in the city of Florence, a composer named Peri emerged and, based on the libretto by a person named Rinuccini, composed "Euridice," after which the name "opera" was first attached to it. From that time, the form where the chorus was for many people, the aria for one person, and the recitative (宣敘調) for dialogue first emerged as opera.
+After that, great opera composers like Monteverdi and also Scarlatti emerged one after another, and finally, around the 17th century, opera seria (正歌劇) developed greatly, reaching a stage almost identical to what exists today. Thus, in the 18th century, Italy held supremacy in opera, but even then, comic opera (喜歌劇) had not developed much and did not reach an independent stage, merely being performed during intermissions.
+However, opera began to be exported from Italy abroad around the end of the 17th century, starting with Germany. Then it spread to France, England, and other countries, gradually becoming a shared property of the world. Meanwhile, in late 17th-century Germany, opera flourished in places like Hamburg, blossoming beautifully as stage art, and types of comic opera also followed suit and became popular. However, until the end of the 18th century, the various states of Germany merely welcomed the splendor of opera and emphasized only the technique of melody, without producing anything that could be called a masterpiece.
+However, the most remarkable phenomenon in the development of opera in the 17th century can be said to be the appearance of the aria. Although the recitative is musical, it is ultimately not far from the tone of ordinary conversation, so the possibility of exhibiting genuine musical effect was slight. In contrast, the aria allowed the musical effect of opera to be fully displayed. For that reason, the history of opera development before the appearance of the aria inevitably had the appearance of a history of recitative development.
+In other words, music before Gluck was, in its form, still incapable of expressing dramatic changes, making it difficult to form a close relationship with drama. But when the sonata form—(I will speak of musical forms later)—emerged during Gluck's time, this new form gave<10> new life to opera, and the overtures of his operas were generally composed in a simple sonata form.
+After the national literature movement by figures like Lessing arose in Germany, a great master emerged in opera as well, abandoning the splendid Italian-style music and completely renewing its face, striving for genuine dramatic expression.
+These two people were Gluck and Mozart. Gluck, making Paris his base for reform, rejected flamboyant Italian music while simultaneously initiating expressive opera that was truthful, pure, and simple. His masterpiece, the three-act "Orfeo ed Euridice" (오포이스), blew fresh air into the music scene of the time with its melodic simplicity and natural recitative. He stated, "Just as shadow aids color, music must aid poetry," and realized this spirit in his musical compositions. Furthermore, Mozart, influenced by Gluck, released works with much more dramatic content compared to the conventional Italian-style opera, but unlike Gluck, he was not as poetic and was even more musical. Mozart's escape from the scope of national music, making the music of various countries his own to create world-class opera, truly proves his greatness. His music of love and beauty eventually caused German music to lose the natural form like Gluck's and run to the extreme of technique.
+After that, in the early 19th century in Germany, a musician named Weber emerged and composed fresh opera that embraced the Romantic ideas of the time. Weber's opera selected easy-to-understand material, contained fervent emotion, and was expressed with melodies like folk songs and the powerful force of instruments, making it a kind of popular opera.
+However, when these influences entered Italy, they instead produced dreadful adverse results. The development of Mozart's vocal forms provided Italian opera composers with a golden opportunity to display the singers' abilities. Thus, in order to please the singers, and even more so to attract the favor of the audience, they were preoccupied with achieving effects purely as music—especially vocal music—rather than aiming for the effects of opera as drama. Consequently, their arias merely boasted technical difficulty in singing, giving the impression that the entire opera was nothing more than a succession of numerous large vocal pieces. In other words, it became vocal gymnastics for the singers. Rossini's work "The Barber of Seville" (세비리아의 이발사) is a good example of this.
+This detrimental trend held considerable<11> sway not only in Italy but also in Germany. Thus, for some time after Mozart, artistic development in opera could not be seen either in Italy or Germany. Fortunately, however, in France, Italian-style opera was not welcomed, and efforts were focused solely on achieving dramatic effect. As a result, even a composer like Rossini was greatly influenced by this during his stay in France, leading him to produce relatively dramatic works.
+If one were to look for Mozart's successor in France, one cannot fail to mention Cherubini. Although his name is almost forgotten today, he could be called the sole master of the French music scene at that time.
+Along with the aforementioned Weber, the one who gave great influence to the early Wagner can be said to be Meyerbeer; he was a musician who inherited Rossini's musical style and perfected the French grand opera style. On the one hand, embodying the spirit of Romanticism, he used meaningful narratives as material, while on the other hand, adopting the rich musical style of Italian opera, he displayed his musical talent freely in vocal music, orchestral music, and even in dance, which is a formal element of grand opera. However, overconfident in his musical talent and hasty in seeking fame, his works merely exerted effort on enthusiastic choruses and large-scale stage aspects. It could be said that Meyerbeer's opera was the fruit obtained when the spirit of Romanticism and the form of Italian opera, two incompatible things, achieved a superficial compromise.
+As mentioned above, the European music scene was preoccupied with pursuing mere formal splendor until a great master named Wagner emerged, upon which Germany became the monarch of the entire European music scene.
+
+III. The Creation of New Music Drama and Modern Opera
+Wagner's birth marked a new epoch in the world of opera. Born in 1813, the opera revolutionary Wagner combined the paths of Gluck and Weber, seeking to return opera to its instinctive status and create the highest ideal, the "art of the future." The fact that he referred to his own works not as opera but as "music drama" (樂劇), that is, "Musikdrama," is profoundly significant. He intended to use music as the "underline" for poetry. That is, he intended to place the foundation in the libretto (script) and use music as its auxiliary organ.
+His thinking, so to speak, was based on the spirit of Gluck,<12> aiming to fundamentally create a new, genuine opera. In other words, it was an attempt to return to the spirit of the Renaissance, that is, the spirit of Greece, and once again restore opera to nature. Therefore, he sought materials from myths and legends himself, intending to construct extremely grand stage art.
+With this thought, he attempted a new style of organization in the music drama "Tristan und Isolde" (트리스탄과 이솔떼), and by the time of "Der Ring des Nibelungen" (니뻬르겐의 指環), he made his stance even clearer. However, viewed with an impartial eye, Wagner's ideals were not entirely realized in his music dramas. His method of musical expression, while certainly systematic, cannot help but feel excessively rule-bound.
+Wagner himself strove to ground the empty music of the time, return it to nature, and forge a deep connection with the fundamental spirit of life, but the lifeblood of his work lies in the symphony used in the orchestra, not in the poetry. Nor does it lie in the point where poetry and music connect. In other words, although he based it on the libretto and added music to it, the librettos he wrote are difficult to claim as having the highest value as poetry.
+Strictly speaking, rather than calling him a person who marked a new era, it would be more appropriate to call him a person who, in the mid-19th century, gave the final brilliance to the Romantic musical style.
+Wagner's influence, irrespective of domestic or foreign boundaries, was immense. Thus, after his death, only operas imitating him were produced in Germany. However, the only one who followed in his footsteps yet still displayed original talent after his death was Strauss. The opera "Salome" (사로메) may be called his representative work.
+Among Wagner's famous operas are "Tannhäuser" (탄호이제르), "Lohengrin" (로헹그린), "Tristan und Isolde" (트리스탄과 이솔떼), and among the works of composers influenced by him, Verdi's (베르듸) "Rigoletto" (리고레트), "Aida" (아이다), Gounod's (꾸-노) "Faust" (파우스트), Bizet's (삐제) "Carmen" (카멘), and Strauss's (슈트라우스) "Salome" (사로메) are the most renowned.
+As for later composers, their number is countless, a host of talents (濟濟多士). However, even listing just the names of composers who held the most important positions, possessed great musical talent, and cannot be omitted from the history of opera would leave no time (不遑). But when speaking of modern opera, one absolutely cannot leave out the following three great masters; they are people who walked into territories of original creation and created new worlds of brilliance. Introducing<13> their works, among the most famous are:
+Debussy (떼쀼시) Works:
+"Pelléas et Mélisande" (뻬레아와 메리산드)
+"Le Martyre de saint Sébastien" (성세바스틔안의 순교)
+Strauss (슈트라우스) Works:
+"Salome" (사로메)
+"Elektra" (엘렉트라)
+Puccini (푸치니) Works:
+"La Bohème" (라, 뽀엠)
+"Tosca" (토스카)
+"Madama Butterfly" (胡蝶美人)
+This is roughly the list. To say a word about the works of these three great composers: Debussy's music treads territory previously unopened by predecessors; unconstrained by form, it possesses entirely impressionistic and poetic characteristics. And Strauss, in contrast to Debussy's complete originality, displayed his own genius as Wagner's successor. However, his music, while revolutionary, deserves special mention (特筆) for its achievement in developing "program music" (表題樂)—(I will speak of this again later)—to its peak. Next, Puccini's opera, though not introverted like Debussy's, nor stimulating like Strauss's, is rich in elements of beautiful novelty, which conversely makes it welcomed by more people than the former two. There is nothing particularly novel about the style of his opera, but his melodies possess an original magic, and he also strove greatly to display dramatic mood.
+The seven great works by the three composers listed above can be called the masterpiece operas of the modern world. If a person studying opera first compares and studies the content and form of these seven pieces to discover the characteristics of each composer, I believe they will surely gain some understanding.
+
+IV. For the Student of Opera
+Next, I would like to say a word for the person studying opera. The study of opera naturally divides into two directions: one is production, meaning composition and libretto writing, and the other is appreciation (賞翫), meaning the savoring of existing works. However, I will now briefly discuss only the method for studying the latter.
+There are the following three methods for studying opera. First is the study of the libretto; second is the study of the musical score; third is the study of the stage. The study of the libretto means examining what<14> content the grand work possesses, what kind of libretto it is composed of, and what the author strove to express; to consider these things, one cannot but dissect the libretto. However, studying aspects such as what the opera's overture (序樂) is like, what methods are employed for solos and choruses, and what the organization of the orchestra (관현악) is like requires direct examination of the musical score itself. Next, one realizes that even for the same musical piece, the feeling is very different when looking at the score, when singing it alone, or when hearing it performed on stage. Needless to say, when the stage is splendid, the sentiment obtained there is intense. Therefore, in addition to dissecting and examining the libretto and musical score, one must directly observe the opera's stage aspects and gain profound impressions from the various phenomena performed there.
+Viewed from this reasoning, there has yet to be an opera worthy of the name in our country, and even if one wants to study opera, the materials cannot be obtained. When I think that this miserable situation cannot but continue for several more years, I cannot help but feel my heart ache and my spirits sink. However, even though practical study regarding the stage is difficult, I firmly believe there is definitely a need for us to at least acquire preliminary knowledge about opera, such as historical study of opera, biographical study of composers, or its relationship with other sister arts.
+Finally, for readers interested in music, I would like to mention books necessary for the study of opera.
+A. Regarding General Music
+Grove's (끄로브) "Dictionary of Music and Musicians," 5 volumes (English)
+Krehbiel's (끄레빌) "How to Listen to Music" (English)
+Tanabe Hisao's (田邊尙雄) "Lectures on Western Music" (西洋音樂講話) (Japanese)
+Tōgi Tetteki's (東儀鐵笛) "Comprehensive Guide to Music" (音樂通解) (Japanese)
+Komatsu Hosuke's (小松輔耕) "Knowledge of Western Music" (西洋音樂の知識) (Japanese)
+Maeda Mitsuo's (前田三男) "Common Sense of Music" (音樂の常識) (Japanese)
+B. Opera History and Criticism Books
+Elson's (엘슨) "A Critical History of Opera" (歌劇史) (English)<15>
+Apthorp's (앱솔프) "The Opera Past and Present" (過去 及 現在의 歌劇) (English)
+Gilman's (낄만) "Aspects of Modern Opera" (近代歌劇瞥見) (English)
+Ōtaguro Motoo's (太田黑元雄) "Grand View of Opera" (歌劇大觀) (Japanese)
+Shibata Tamaki (柴田環) (Presently Ms. Miura Tamaki (三浦環女史))'s "Opera of the World" (sekai no opera 世界のオペラ) (Japanese)
+Gilman's (낄만) "Music of To-morrow" (明日의 音樂) (English)
+Carter's (카-타) "The New Spirit in Drama and Art" (戱曲 及 藝術에 대한 新精神) (English)
+
+The reason I came to write this article is less for specialists—(though I also lack specialized research)—and more to disseminate common knowledge about music to ordinary people. Thus, although it doesn't necessarily have to be just opera, the first topic I started discussing is this "Story of Opera." I tried to write as popularly as possible, but looking back after writing, there is an undeniable feeling that it is too complicated and leans towards the specialized. I also mention to the readers that I referred heavily to Mr. Kobayashi Aiyu's (小林愛雄) "Modern Opera" (현대의 가극) when writing this article. Starting next issue, I plan to begin the "Story of Orchestral Music," so I conclude the story of opera here and wash my brush¤.
+-(Night of January 8, 1923)-<16>
+<9-16>
+
+**Summary**
+
+Hong Nanp'a provides a history of Western opera, tracing its origins from ancient Greek synthesized art forms and medieval mystery plays through the Renaissance innovations in Italy (Caccini, Peri, Monteverdi, Scarlatti). He discusses the development of aria and recitative, the rise of opera seria and comic opera, its spread to Germany, France, and England, and key figures like Gluck (emphasizing music serving drama), Mozart (elevating musicality), Weber (Romantic German opera), Rossini (vocal virtuosity), Meyerbeer (French grand opera), and culminating in Wagner's revolutionary "music drama" concept. The article concludes by mentioning post-Wagnerian composers like Strauss, Debussy, and Puccini as modern masters and offers advice and reading materials for aspiring opera students in Korea, lamenting the lack of local opera performances and resources. From a historical perspective, this article is significant as it reflects the efforts of Korean intellectuals like Hong Nanp'a during the colonial period to introduce and educate the public on Western high culture. His concluding lament about the absence of opera stages and study materials in Korea underscores the cultural limitations and aspirations under Japanese rule.
+
+**Named Entities**
+
+洪蘭坡	홍난파	Hong Nanp'a
+희랍	희랍	Greece
+이태리	이태리	Italy
+카치니	카치니	Caccini
+피렌체	피렌체	Florence
+페리	페리	Peri
+리느치니	리누치니	Rinuccini
+유리띄체	유리디체	Euridice (Opera title)
+몬트벨듸	몬테베르디	Monteverdi
+스칼라틔	스칼라티	Scarlatti
+독일	독일	Germany
+불, 영 諸國	불영 제국	France, England, and other countries
+함부륵그	함부르크	Hamburg
+끌룩크	글루크	Gluck
+모싸트	모차르트	Mozart
+렛싱	레싱	Lessing
+파리	파리	Paris
+오포이스	오르페오	Orfeo (Opera title, refers likely to Gluck's Orfeo ed Euridice)
+웹베르	베버	Weber
+로시니	로시니	Rossini
+세비리아의 이발사	세비야의 이발사	The Barber of Seville (Opera title)
+불란서	프랑스	France
+케루삐니	케루비니	Cherubini
+왁네르	바그너	Wagner
+마이어뻬-어	마이어베어	Meyerbeer
+歐洲樂壇	구주악단	European music scene
+트리스탄과 이솔떼	트리스탄과 이졸데	Tristan und Isolde (Opera title)
+니뻬르겐의 指環	니벨룽의 반지	Der Ring des Nibelungen (Opera title)
+슈트라우스	슈트라우스	Strauss
+사로메	살로메	Salome (Opera title)
+탄호이제르	탄호이저	Tannhäuser (Opera title)
+로헹그린	로엔그린	Lohengrin (Opera title)
+베르듸	베르디	Verdi
+리고레트	리골레토	Rigoletto (Opera title)
+아이다	아이다	Aida (Opera title)
+꾸-노	구노	Gounod
+파우스트	파우스트	Faust (Opera title)
+삐제	비제	Bizet
+카멘	카르멘	Carmen (Opera title)
+떼쀼시	드뷔시	Debussy
+뻬레아와 메리산드	펠레아스와 멜리장드	Pelléas et Mélisande (Opera title)
+성세바스틔안의 순교	성 세바스티아누스의 순교	Le Martyre de saint Sébastien (Work title)
+엘렉트라	엘렉트라	Elektra (Opera title)
+푸치니	푸치니	Puccini
+라, 뽀엠	라 보엠	La Bohème (Opera title)
+토스카	토스카	Tosca (Opera title)
+胡蝶美人	호접미인	Madama Butterfly (Opera title, lit. Butterfly Beauty)
+끄로브	그로브	Grove
+끄레빌	크레빌	Krehbiel
+田邊尙雄	다나베 히사오	Tanabe Hisao
+東儀鐵笛	도기 데쓰테키	Tōgi Tetteki
+小松輔耕	고마쓰 호스케	Komatsu Hōsuke
+前田三男	마에다 미쓰오	Maeda Mitsuo
+엘슨	엘슨	Elson
+앱솔프	압소프	Apthorp
+낄만	길먼	Gilman
+太田黑元雄	오타구로 모토오	Ōtaguro Motoo
+柴田環	시바타 다마키	Shibata Tamaki
+三浦環女史	미우라 다마키 여사	Ms. Miura Tamaki
+카-타	카터	Carter
+小林愛雄	고바야시 아이유	Kobayashi Aiyu
+
+**Glossary**
+
+歌劇	가극	Opera
+起源	기원	Origin
+發達	발달	Development
+이약이	이야기	Story, talk (Older spelling of 이야기)
+繼續	계속	Continuation
+本號	본호	This issue (of a magazine)
+完結	완결	Conclusion
+前月	전월	Last month
+밋	및	And, as well as (Older spelling/form of 및)
+본시	본시	Originally, fundamentally
+십고	싶고	Wanting to (do) (Older spelling of 싶고)
+-외다	-ㅂ니다/-습니다	Polite declarative sentence ending (Older form)
+往昔	왕석	Ancient times, old days
+희랍	희랍	Greece (Older phonetic transcription)
+總括物	총괄물	Synthesis, aggregate
+作하다	작하다	To compose, make
+唱하다	창하다	To sing
+中世	중세	Middle Ages
+神祕劇	신비극	Mystery play
+加하다	가하다	To add
+效果	효과	Effect
+助하다	조하다	To help, aid (Older usage, now more often 돕다)
+돌이어	도리어	Rather, instead (Older spelling of 도리어)
+壤하다	파괴하다	To destroy, ruin (Using 壤 for 파괴)
+즈음	즈음	Around the time when
+歸復하다	귀복하다	To return to, revert
+純一	순일	Pure, unmixed
+融合	융합	Fusion, merging
+作出하다	작출하다	To create, produce
+如斯히	여사히	Thus, like this (Archaic form)
+革新	혁신	Innovation, reform
+發發하다	발발하다	To break out, erupt
+방침	방침	Policy, principle, course of action
+助力하다	조력하다	To assist, aid
+咏嘆調	영탄조	Aria (lit. 'lamenting tune')
+編出하다	편출하다	To devise, create, compile
+비롯오	비로소	For the first time, only then (Older spelling of 비로소)
+宣敘調	선서조	Recitative (lit. 'declaratory narrative tune')
+속출하다	속출하다	To emerge one after another
+드듸어	드디어	Finally, eventually (Older spelling of 드디어)
+正歌劇	정가극	Opera Seria (lit. 'proper opera')
+경지	경지	Stage, level, state
+패권	패권	Supremacy, hegemony
+喜歌劇	희가극	Comic opera, Opera Buffa (lit. 'joyful opera')
+幕間	막간	Intermission, between acts
+연출되다	연출되다	To be performed, staged
+盛하다	성하다	To flourish, be prosperous
+接踵하다	접종하다	To follow one after another
+華美	화미	Splendor, magnificence
+선율	선율	Melody
+기교	기교	Technique, skill
+대작	대작	Masterpiece, great work
+현저한	현저한	Remarkable, noticeable, distinct
+相距	상거	Distance between
+근소함	근소함	Being small, slightness
+恰然히	흡연히	Just like, as if (Archaic form)
+觀	관	View, appearance
+不無하다	불무하다	Not without, to have some
+樂式	악식	Musical form
+至하다	지하다	To reach, arrive at
+與하다	여하다	To give, bestow (Archaic form, 주다)
+序曲	서곡	Overture
+總히	총히	Generally, wholly (Older form of 총)
+棄하다	기하다	To abandon, discard
+면목을 일신하다	면목을 일신하다	To completely change face, renew appearance
+表情的	표정적	Expressive
+순일한	순일한	Pure, unmixed
+간소함	간소함	Simplicity
+악단	악단	Music world, musical circles
+大吹하다	대취하다	To blow greatly, strongly promote
+음영	음영	Shadow, shading
+악곡	악곡	Musical piece, composition
+自家	자가	One's own
+맨들어서	만들어서	Making (Older spelling of 만들어서)
+이윽고	이윽고	Soon, before long
+失하다	실하다	To lose
+走하다	주하다	To run towards, incline towards
+樂家	악가	Musician, composer
+포용하다	포용하다	To embrace, contain
+열렬한	열렬한	Ardent, fervent
+정감	정감	Emotion, feeling
+민요	민요	Folk song
+力强한	역강한	Powerful, strong
+釀出하다	양출하다	To brew, bring about, cause (often negative results)
+惡結果	악결과	Bad result, adverse consequence
+능력	능력	Ability, capability
+발양하다	발양하다	To display, demonstrate
+惹引하다	야인하다	To attract, draw
+급급하다	급급하다	To be preoccupied with, absorbed in
+딸하서	따라서	Consequently, therefore (Older spelling of 따라서)
+창법	창법	Singing technique
+連續하다	연속하다	To connect, link in succession
+노핫슴	놓았음	Having placed/arranged (Older spelling/form)
+軆操	체조	Gymnastics, exercises
+惡風調	악풍조	Bad trend, detrimental tendency
+점유하다	점유하다	To occupy, possess
+滯佛	체불	Staying in France
+劃하다	획하다	To mark (an epoch), delimit
+行方	행방	Direction, path taken
+歸復케 하다	귀복케 하다	To cause to return to
+未來藝術	미래예술	Art of the future
+樂劇	악극	Music drama (Wagner's term)
+Under Line	언더라인	Underline (English loanword used as is)
+補助機關	보조기관	Auxiliary organ/body
+逆上하다	역상하다	To go back against the current, trace back
+樣式	양식	Style, mode, form
+旗色	기색	Stance, position (lit. flag color)
+鮮明히	선명히	Clearly, distinctly
+組織的	조직적	Systematic
+넘우나	너무나	Excessively, too (Older spelling of 너무나)
+規則的	규칙적	Regular, rule-bound
+늣기다	느끼다	To feel (Older spelling of 느끼다)
+空虛	공허	Emptiness, hollowness
+地面上	지면상	On the ground surface
+附하다	부하다	To attach, affix
+深切한	심절한	Deep, profound, earnest
+交涉	교섭	Connection, relation, negotiation
+맷기	맺기	Forming, establishing (a relationship) (Older spelling of 맺기)
+詩歌	시가	Poetry and song, verse
+歿後	몰후	After death
+獨創的	독창적	Original, creative
+才能	재능	Talent, ability
+오즉	오직	Only, merely (Older spelling of 오직)
+影響	영향	Influence
+名高한	명고한	Famous, renowned
+헤아리다	헤아리다	To count, reckon
+濟濟多士	제제다사	A host of talents, many talented people (Idiom)
+빼여 노흘 수 업는	빼어 놓을 수 없는	Cannot be omitted/excluded (Older spelling/form)
+不遑하다	불황하다	To have no time/leisure for (Archaic)
+下記	하기	The following (lit. below-written)
+大家	대가	Great master, authority
+光輝	광휘	Brilliance, radiance
+前人未開	전인미개	Unexplored/untouched by predecessors
+境域	경역	Territory, realm, domain
+步하다	보하다	To walk, tread
+拘束되다	구속되다	To be bound, restricted
+全然	전연	Completely, entirely (Older spelling of 전혀)
+印象的	인상적	Impressionistic
+詩歌的	시가적	Poetic
+特質	특질	Special quality, characteristic
+有하다	유하다	To possess, have
+後繼者	후계자	Successor
+天才	천재	Genius
+發揮하다	발휘하다	To display, exhibit
+革命的	혁명적	Revolutionary
+表題樂	표제악	Program music
+絕頂	절정	Peak, climax
+功績	공적	Achievement, merit
+特筆하다	특필하다	To make special mention of
+內面的	내면적	Introverted, internal
+刺戟的	자극적	Stimulating, provocative
+美麗한	미려한	Beautiful, graceful
+新趣	신취	Novelty, new interest/charm
+要素	요소	Element, factor
+豊富한	풍부한	Abundant, rich
+電子	전자	The former
+萬人	만인	All people, everyone
+歡迎되다	환영되다	To be welcomed
+別로이	별로이	Particularly, specially (Older form of 별로)
+新奇하다	신기하다	Novel, strange, marvelous
+魔力	마력	Magic power, charm
+氣分	기분	Mood, feeling, atmosphere
+爲先	위선	First of all, primarily
+깨닷는	깨닫는	Realizing, perceiving (Older spelling of 깨닫는)
+밋습니다	믿습니다	Believe (Older spelling of 믿습니다)
+硏究者	연구자	Researcher, student
+爲하야	위하여	For the sake of (Older spelling of 위하여)
+方向	방향	Direction
+區別되다	구별되다	To be distinguished, differentiated
+製作	제작	Production, manufacturing, composition
+作曲作歌	작곡작가	Composition and libretto writing
+賞翫	상완	Appreciation, enjoyment (of art)
+旣成品	기성품	Ready-made goods, existing works
+吟味	음미	Savoring, appreciating
+後者	후자	The latter
+就하야서만	취하여서만	Only concerning, only regarding (Older form)
+方法	방법	Method
+樂曲	악곡	Musical composition, piece of music
+무대	무대	Stage
+解剖하다	해부하다	To dissect, analyze
+構成되다	구성되다	To be composed, constituted
+考察하다	고찰하다	To consider, examine
+不可不	불가불	Cannot but, inevitably
+獨唱	독창	Solo singing
+合唱	합창	Chorus, choral singing
+場合	경우	Case, occasion
+方式	방식	Method, way, style
+此物	기물	Itself, the thing itself
+口唱하다	구창하다	To sing aloud
+相違되다	상위되다	To differ, be different
+强烈한	강렬한	Intense, strong
+諸般	제반	Various, all sorts of
+現象	현상	Phenomenon
+理由	이유	Reason
+비참한	비참한	Miserable, wretched
+繼續하다	계속하다	To continue
+맥맥하다	맥맥하다	To be desolate, feel heavy-hearted
+實地	실지	Actual place, practice
+豫備知識	예비지식	Preliminary knowledge
+歷史的	역사적	Historical
+人物的	인물적	Biographical
+諸他	제타	Various others
+姉妹藝術	자매예술	Sister arts
+關係	관계	Relation, connection
+確實히	확실히	Certainly, surely
+最後	최후	Last, final
+專門家	전문가	Specialist, expert
+普通人	보통인	Ordinary person
+常識	상식	Common sense, general knowledge
+普及하다	보급하다	To disseminate, spread
+第一着手	제일착수	First step, first undertaking
+通俗的	통속적	Popular, common
+及其	급기	And others (Older phrase)
+써노코 보니	써놓고 보니	Looking back after writing
+煩雜하다	번잡하다	Complicated, troublesome
+不無합니다	불무합니다	Not without, there is some (Polite form)
+參照하다	참조하다	To refer to, consult
+아울러	아울러	Additionally, at the same time
+붓을 씻다	붓을 씻다	To wash one's brush (Idiom for finishing writing)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제32호
+발행일	1923년 02월 01일
+기사제목	歌劇의 起源과 그 發達, (前號 「歌劇」의 이약이의 繼續으로 本號에 完結햇다.)
+필자	洪蘭坡
+기사형태	문예평론
+
+歌劇의 起源과 그 發達,
+						洪蘭坡
+二. 歌劇의 起源과 밋 발달
+前月에 가극이란 대체로 어떠한 것임을 말하엿습니다. 다음으로는 가극의 기원과 밋 그 발달에 대하야 간단히 말하랴 합니다.
+본시 인간이란 것은 감정동물이 된 이상에는 무엇에던지 느낌이 잇는 때는 울고도 십고 웃고도 십고, 또는 노래하고도 십고 춤추고도 십흔 것이외다. 이것은 곳 인간의 본능인 동시에 가극이란 인간 본능의 聲이라고도 할 것이외다.
+현대인의 엄중한 해석 하에서 볼진대, 가극이라 할는지 아니할는지는 의문이지마는 하여간 往昔 희랍의 음악이란 것은 시가와 음악과 무도의 총괄물이엇습니다. 그리하야 한 사람이 가사를 作하고 가사를 唱하고 또는 무용하엿섯습니다. 그리고 보면 희랍의 음악은 곳 원시적 가극이라고 할 것이외다. 또 중세에도 신비극 중에 음악을 加한 일이 잇섯지마는 그 방법이 화합이 아니오, 혼합이엇던 까닭에 극의 효과를 助하기는 고사하고 돌이어 坡壤하기에 이르럿던 것이외다. 그리다가 16세기에 이르러서 문예부흥운동이 일어나매 온갓 학문과 예술이 개조되랴 할 즈음에 음악도 역시 희랍시대로 歸復하야 고전적 정신하에 純一한 융합물을 作出하랴는  운동이 일어낫섯습니다. 如斯히 하야 음악 혁신의 第一聲은 이태리에서 발발하얏습니다.
+이 때의 신운동은 곳 「음악은 시가를 助하는 것이 아니되면 아니된다.」는 방침이엇습니다. 다시 말하면 가사가＜9＞ 표현하는 정서를 음악이 조력하지 아흐면 아니되겟다는 말이엇습니다.
+가극은 실로 문예부흥의 花이외다. 「카치니」란 樂人은 합창을 附한 희랍의 비극을 연구하야 거긔다다 중세의 신비극의 형식을 가미하야 가극에 近似한 것을 作出햇습니다. 그뿐 아니라 일종의 咏嘆調를 編出한 것도 역시 이 사람이외다. 그 때에 「피렌체」시에는 「페리」라는 작곡가가 나서 「리느치니」란 사람의 가사에 의하야 「유리띄체」라는 것을 作한 후 그것에다가 비롯오 「오페라」라는 이름을 부텻습니다. 그때부터 비롯하야 다수인에게는 합창, 一人에게는 咏嘆調, 대화에는 宣敘調란 형식으로 처음으로 가극이 생긴 것이외다.
+그 후에 가극작가로 위대한 「몬트벨듸」와 또 「스칼라틔」라는 작곡가가 속출하야 드듸어 17세기경에는 正歌劇이 非常히 발달되어 금일에 현존되어 잇는 것과 거의 동일한 경지에까지 이르럿습니다. 이가티 하야 18세기에는 이태리가 가극의 패권을 장악하얏스나 그때까지도 喜歌劇이란 것은 그다지 발달되지 못하야 독립한 경지에는 이르지 못하고 다만 幕間에 연출됨에 불과하얏습니다.
+그런데 가극이 이태리로부터 국외에 수출되기 시작한 것은 17세기 말경의 독일이엇습니다.그러고는 불, 영 諸國에 傳布되야 점차로 세계공유의 物이 되엇습니다. 그런데 17세기 말의 독일에는 「함부륵그」 등지에 가극이 盛하어 무대예술로서의 美花를 피게 햇스며 또 喜歌劇의 類도 接踵하야 성행되엇습니다. 그러나 18세기 말에 이르기까지 독일의 各 州는 다못 가극의 華美만 환영하고 선율의 기교만 중시햇슬 뿐이오 대작이라 할만한 것은 하나도 나지 안핫습니다.
+그러나 17세기에 在하야 가극 발달의 가장 현저한 현상은 咏嘆調의 출현이라 하겟습니다. 宣敘調가 비록 음악적이라 하지마는 필경은 보통 대화의 調子와 相距가 멀지 아니한 까닭으로 진정한 음악적 효과를 발휘할 가능성이 근소함에 반하야 咏嘆調는 가극의 음악적 효과를 충분히 발휘하게 되엇습니다. 그 까닭에 咏嘆調가 출현하기 전의 가극의 발달사는 恰然히 宣敘調 발달사의 觀이 不無하얏습니다.
+말하자면 「끌룩크」 이전의 음악은 그 형식상 아즉 극적 변화를 표현하기 불가능하얏슴으로 연극과 밀접한 관계를 形作하기가 곤란햇지마는 마츰 「끌룩크」시대에 至하야 「쏘나타」-(후일에 樂式 이약이할 때에 말하랴 합니다.)ㅡ형식이 생기게 되자 이 신형식은 가극상에＜10＞ 신생명을 與하야 그의 가극의 서곡은 總히 단순한 「쏘나타」형식으로 작성되엇습니다.
+독일에는 「렛싱」 등의 국민문학운동이 일어난 후로부터 가극에도」 1人의 대가가 出하야 이태리풍의 華美한 음악을 棄하고 全然히 면목을 일신하야 진정한 극적 표현을 하기에 노력햇습니다.
+그 2人이람은 「끌룩크」와 「모싸트」이외다. 「끌룩크」는 파리를 改新의 根城으로 하야 浮華한 이태리樂을 배척하는 一方으로 진실한. 순일한, 간소한 表情的의 가극을 일으켯스니 그의 대작 「오포이스」 3막은 선율의 간소함과 宣敘調의 자연함으로 당시의 악단에 淸新한 공기를 大吹하얏습니다. 그는 「음영이 색채를 助함과 가티 음악은 시가를 助하지 안흐면 아니된다.」고 하야 이 정신을 악곡상에 실현햇습니다. 그리고 또 「모싸트」는 「끌룩크」의 영향을 바다서 종래의 이태리식 가극에 비하야 극적 내용을 만히 가진 작품을 발표하얏스나 「끌룩크」와 가티 시가적이 아니오 又 일층 음악적이엇습니다. 「모싸트」가 국민적 음악의 범위를 탈출하야 각 국의 음악을 自家의 소유로 맨들어서 세계적 가극을 작성한 것은 실로 그의 위대함을 증명하는 바이외다. 그의 愛와 美의 음악은 이윽고 독일음악으로 하야곰 「끌룩크」와 가튼 자연적 형식을 失하고 기교의 극단으로 走하게 햇습니다.
+그 후 19세기 초에 독일에는 「웹베르」라는 樂家가 出하야 당시의 「로만틱」한 사상을 포용한 淸新한 가극을 作하얏습니다. 「웹베르」의 가극은 알기 쉬운 재료를 택하야 열렬한 정감을 盛하고 민요와 가튼 선율과 力强한 악기의 힘으로 표현한 일종의 민중가극이외다.
+그러나 此等의 영향이 이태리에 入하자 그것은 돌이어 가공할 惡結果를 釀出하얏스니 「모싸트」의 성악형식의 발달은 이태리 歌劇作者에게 대하야서는 唱歌者의 능력을 발양케 할 만한 절호의 기회를 與하얏습니다. 이가티 하야 그들은 唱歌者에게 호감을 주기 위하야 그보다도 청중의 호감을 惹引하기 위하야 극으로서의 가극의 효과를 득하럅 보다도 한갓 음악ㅡ특히 성악으로서의 효과를 收하기에 급급하얏습니다. 딸하서 그 咏嘆調는 한갓 창법의 곤란함을 자랑하게 되매 가극 전체는 성악의 大曲을 數多히 연속해 노핫슴에 불과한 감이 잇게 되엇습니다. 다시 말하자면 唱歌者의 聲의 軆操가 되어 버렷습니다. 「로시니」의 작품 「세비리아의 이발사」와 가튼 것은 그의 好例일 것이외다.
+이 惡풍조는 이태리 뿐만 아니라 독일에서도 非常히＜11＞ 세력을 점유햇섯습니다. 그리하야 「모싸트」 이후의 가극의 예술적 발달은 이태리에서나 독일에서나 얼마동안은 볼 수가 업게 되엿습니다. 그러나 다행히 불란서에는 이태리풍의 가극은 환영되지 아니하고 오로지 극적 효과를 收得함에 노력하얏슴으로써 그 결과 「로시니」 가튼 작가로서도 그의 滯佛 중에는 이 영향을 만히 바다서 비교적 극적 작품을 作出하기에 이르럿습니다.
+「모싸트」의 후계자를 佛蘭西에서 차지랴 할진대 「케루삐니」를 말하지 안흘 수 업습니다. 그의 이름은 금일에는 거의 忘失되엇지마는 그 당시의 불란서 악단에는 유일의 거장이라고도 할 것이외다.
+상술한 「웹베르」와 共히 초기의 「왁네르」에게 대영향을 준 이는 「마이어뻬-어」라 할 수 잇스니 그는 「로시니」의 악풍을 계승하야 불란서풍의 대가극을 완성한 樂家이외다. 그는 一方으론 낭만주의의 정신을 軆하야 의미잇는 대사를 재료로 하는 동시에 他方으론 이태리 가극의 豊麗한 악풍을 採하야 성악에나 관현악에나 將又 「끄란드오페라」의 형식적 요소되는 무용에나, 종횡으로 그의 樂才를 발휘하얏습니다. 그러나 그는 자기의 樂才를 과신하고 또는 名을 구하기에 급히한 결과, 그의 작품은 徒然히 열광적 합창이나 대규모의 무대면에만 用力햇슬 뿐이엇습니다. 낭만주의의 정신과 이태리가극의 형식이 兩者의 不相容하는 것이 표면적 타협을 遂하야 그 果實로 획득한 것이 곳 「마이어뻬-어」의 가극이라할 것이외다.
+상술한 바와 가티 歐洲樂壇은 한갓 형식적 華美를 취하기에 급급히 지내엇더니 「왁네르」라는 대가가 出함에 至하야 독일은 全歐樂壇의 군주가 되엇습니다.
+
+三. 新樂劇의 創造와 現代의 歌劇
+「왁네르」의 출생은 가극계에 一新紀元을 劃하얏습니다. 1813년에 가극의 혁명아 「왁네르」가 탄생하자 그는 「끌룩크」와 「웹베르」의 2인의 행방을 합하야 가극을 그의 본능의 지위로 歸復케 하야 최고이상인 「미래예술」을 창조코저 하얏습니다. 그가 자기의 작품을 말할 때에 가극이라 하지 안코 「樂劇」 곳 「뮤식뜨라마」라 한 것은 의미심장한 말이외다. 그는 음악을 詩歌의 「언더라인」(Under Line)으로 사용코저 하얏습니다. 즉 근본을 歌詞(각본)에 置하고 음악을 그 보조기관으로 사용코저 하얏습니다.
+그의 사고는 말하자면 「끌룩크」의 정신에 기초를 두고＜12＞ 다시 근본적으로 新眞한 가극을 作出코저 함이외다. 다시 말하면 문예부흥의 정신 즉 희랍의 정신에 逆上하야 다시 한번 가극이란 것을 자연에 歸復케 하랴 함이외다. 그래서 그는 스스로 신화나 전설에서 재료를 구하야 극히 장대한 무대예술을 건설하랴 하얏습니다.
+이와 가튼 생각으로 그는 악극 「트리스탄과 이솔떼」에 新樣式의 조직을 試하고 「니뻬르겐의 指環」에 至하야서는 더욱더욱 그 旗色을 선명히 한 것이외다. 그러나 공평한 눈으로 볼진대 「왁네르」의 이상은 그 전부가 악극 중에 실현된 것은 아니외다. 그의 음악의 표현법은 물론 조직적이지마는 넘우나 규칙적임을 늣기지 안흘 수 업습니다.
+「왁네르」 자신은 當地의 공허한 음악을 地面上에 附하고 자연에 歸케 하야써 인생의 근본정신과 深切한 교섭을 맷기에 힘썻지마는 그의 생명은 관현악에 用한 「씸포니-」에 잇고 詩歌에는 업습니다. 또 詩歌와 음악을 접촉시킨 그 곳에도 잇지 안습니다. 말하자면 그는 가사를 근본으로 하고 거긔에 음악을 부가하얏지마는 그가 지은 바 가사는 詩로서의 최고가치가 잇다고 하기는 어렵습니다.
+엄정하게 말하자면 그는 신시대를 劃한 人이람 보다도, 차라리 19세기 중경에 在하야 「로만틱」악풍에 최후의 광명을 與한 人이라 함이 적당할 것이외다.
+「왁네르」의 영향은 국내와 국외를 불문하고 그 세력이 지대하얏습니다. 그리하야 그의 사후에 독일에는 그를 모방하는 가극만 作出되엇습니다. 그러나 그의 後跡을 밟으면서도 오히려 독창적 재능을 발휘한 이는 그의 歿後에 오즉 「슈트라우스」 1인이 잇슬 뿐이외다. 가극 「사로메」는 그의 대표작이라 하겟지오.
+「왁네르」의 가극 중에 유명한 것은 「탄호이제르」 「로헹그린」 「트리스탄과 이솔떼」 등이 잇고 또 그의 영향을 바든 작가로서의 작품 중에는 「베르듸」의 「리고레트」 「아이다」와, 「꾸-노」의 「파우스트」와, 「삐제」의 「카멘」과, 「슈트라우스」의 「사로메」 등이 가장 名高한 것이외다.
+그 후의 작가들로 말하면 그 수를 헤아리기 어려울 만치 濟濟多士입니다마는 가장 중요한 지위에 잇섯고 위대한 樂才를 가젓던 가극사상에 빼여 노흘 수 업는 작가만으로도 그 이름만 열거키에도 不遑합니다. 그러나 현대의 가극을 말하랴 하면 반듯이 下記한 3大家를 내여 노흘 수 업스니 그들은 곳 독창의 천지로 거러다니면서 새로운 光輝의 세계를 창조한 사람들이외다. 그들의＜13＞ 작품을 소개하면 그 중에도 유명한 것은
+떼쀼시 作
+「뻬레아와 메리산드」
+「성세바스틔안의 순교」
+슈트라우스 作
+「사로메」
+「엘렉트라」
+푸치니 作
+「라, 뽀엠」
+「토스카」
+「胡蝶美人」
+대강 이와 갓습니다. 지금 이 3대 樂家의 작품에 대하야 一言할진대 「떼쀼시」의 음악은  前人未開의 境域을 步한 者니 그는 형식에 구속됨이 업시 전혀 인상적, 시가적의 특질을 有하얏습니다. 그러고 「슈트라우스」는 「떼쀼사」가 全然 독창적임에 반하야 그는 「왁네르」의 후계자로써 자기의 천재를 발휘하얏습니다. 그러나 그의 음악은 혁명적인 동시에 「表題樂」ㅡ(후일에 다시 말하랴 합니다.)ㅡ을 절정까지 발달시킨 공적은 特筆할 가치가 잇습니다. 다음에 「푸치니」의 가극은 「떼쀼시와 가티 내면적이 아니오, 또 「슈트라우스」와 가티 자극적이 아니지마는 美麗한 新趣의 요소에 풍부한 점이 돌이어 전자보다도 만인에게 환영됩니다. 그의 가극의 양식에는 別로이 신기할 것이 업지마는 그의 선율에는 독창적의 마력이 잇고 또 그는 극적 기분을 발휘하기에 극히 노력하얏습니다.
+이상에 擧한 3인의 작가의 대작 7곡은 현대세계의 걸작가극이라 말할 수가 잇스니 가극을 연구하는 人이 爲先 이 7곡의 내용과 형식에 就하야 비교연구하야 각 작가의 특징을 발견할진대 반듯이 깨닷는 것이 잇슬 줄로 밋습니다,
+
+四. 歌劇硏究者를 爲하야
+그 다음에는 가극을 연구하는 人를 위하야 一言하랴 합니다. 가극연구라 하면 자연히 2개의 방향으로 구별될 것이니 1은 제작 즉 作曲作歌를 말함이오. 1은 賞翫 즉 기성품의 음미를 의미함이외다. 그러나 나는 지금 후자에 취하야서만 간단히 그 연구방법을 말하랴 합니다.
+가극을 연구함에는 다음의 세가지 방법이 잇습니다. 첫재는 가사상의 연구요 둘재는 악곡의 연구요 셋재는 무대의 연구이외다. 가사상의 연구라 함은 대곡이 어떠한＜14＞ 내용을 가젓는지 어떠한 가사로 구성되엇는지 작자는 무엇을 표현하랴고 노력하얏는지 이러한 것을 고찰하랴면 불가불 가사를 해부해 보지 안흘 수 업습니다. 그러나 가극의 序樂이 어떠한지 독창과 합장의 경우에 어떠한 방식을 취하얏는지 관현악의 조직이 어떠한지 이러한 방면의 연구는 직접으로 樂曲其物을 고찰해야 할 것이외다. 그 다음에 말할 것은 비록 동일한 악곡이라도 악보를 볼 때와 혼자서 口唱해 볼 때와 또는 무대 상에서 연주됨을 들을 때는 非常히 相違되는 감을 깨닷는 것이외다. 두말할 것 업시 무대가 훌륭할 때는 거긔서 엇는 정취는 강렬한 것이외다. 그럼으로 가사와 악곡을 해부 고찰하는 이외에 직접으로 가극의 무대면을 보고 거긔서 연출되는 諸般현상으로부터 深切한 인상을 엇지 안흐면 아니 될 것이외다.
+이러한 理由 하에서 볼진대 우리나라에는 아즉까지 가극다운 가극이 업섯고 또 가극을 연구하랴 하여도 그 자료를 어들 수가 업섯습니다. 이와 가튼 비참한 현상이 이후 몃해 동안을 계속하지 안흘 수 업슴을 생각할 때에, 나는 가슴이 쓰리고 기분이 맥맥해짐을 늣길 밧게 업습니다. 그러나 비록 무대에 대한 실지연구는 하기가 어렵다 하더라도 적어도 우리는 가극에 대한 예비지식으로 가극의 역사적 연구라던지 작가의 인물적 연구라던지 또는 諸他의 자매예술과의 관계만이라도 알아둘 필요는 확실이 잇다고 생각합니다.
+마지막으로 나는 음악에 흥미를 가진 독자를 위하야 가극 연구상에 필요한 서적을 말해두고저 합니다.
+가, 일반음악에 관한 者
+「끄로브」씨의 「音樂 及 音樂家辭典」 5권 (英文)
+「끄레빌」씨의 「音樂은 如何히 聽할가?」 英文
+「田邊尙雄」씨의 「西洋音樂講話」 (日文)
+「東儀鐵笛」씨의 「音樂通解」 (日文)
+「小松輔耕」씨의 「西洋音樂의 知識」(日文)
+「前田三男」씨의 「音樂의 常識」 (日文)
+나, 歌劇史 及 評論書
+「엘슨」씨의 「歌劇史」 (英文)＜15＞
+「앱솔프」씨의 「過去 及 現在의 歌劇」 (英文)
+「낄만씨의 「近代歌劇瞥見」(英文)
+「太田黑元雄」씨의 「歌劇大觀」 (日文)
+「柴田環」 (現時의 三浦環女史)의 「세계의 오페라」 (日文)
+「낄만」씨의 「明日의 音樂」 (英文)
+「카-타」씨의 「戱曲 及 藝術에 대한 新精神」(英文)
+
+내가 이 글을 쓰게 된 이유는 전문가를 위함보다도-(나도 역시 전문적 연구가 업지마는)-보통인에게 음악에 대한 상식을 보급케 하기 위함에 잇습니다. 그리하야 하필 가극 뿐이 아니겟지마는 第一着手로 말하게 된 것이 지금 이 「가극의 이약이」가 된 것이외다. 나는 될 수 잇는 대까지는 통속적으로 쓰랴고 하얏스나 及 其他 써노코 보니 넘우 번잡하고 전문적으로 치우친 듯한 감이 不無합니다. 또 이 글을 쓸 때에 「小林愛雄」씨의 현대의 가극을 만히 「참조햇슴도 아을러 독자께 말씀해 둡니다. 다음 호부터는 「관현악의 이약이」를 시작할 예정임으로 가극에 대한 이약이는 이에 끗을 마치고 붓을 씻습니뉀¤.
+-(1923년 1월 8일 夜)-＜16＞
+＜9-16＞

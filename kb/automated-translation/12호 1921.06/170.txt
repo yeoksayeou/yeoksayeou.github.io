@@ -1,0 +1,281 @@
+Magazine Title: 개벽 제12호
+Publication Date: 1921년 06월 01일
+Article Title: 點句法 (Punctuation Method)
+Author: 在上海 金永昌 (Kim Yŏngch'ang, in Shanghai)
+Article Type: 논설 (Editorial/Essay)
+
+Punctuation Method
+						Kim Yŏngch'ang, in Shanghai
+
+Although it may seem presumptuous at first glance for someone of my humble learning and shallow views (蔑學淺見) to dare take up the pen under the title 'Punctuation Method,' knowing nothing, I trust that you, readers, will overlook this with your generous hearts and offer corrections. Though it may be incomplete, I hereby express my beliefs as follows.
+
+1. Punctuation Method (點句法)
+The Punctuation Method refers to the places where we pause occasionally in the middle when we speak. If we are to express our language in writing, these points of pause must necessarily be indicated with symbols. We call the indication of these pauses (頓挫) with appropriate symbols the Punctuation Method.
+Commonly used symbols are as follows:
+1. 『.』 Circle (圈): Used at the place of the longest pause.
+2. 『,』 Comma (逗點): Indicates the shortest pause.
+3. 『:』 Branch Point (支點): Divides a sentence into several parts, placing one Branch Point after each part.
+4. 『;』 Semi-Branch Point (半支點): Indicates a pause shorter than a Branch Point but longer than a Comma.
+5. 『?』 Question Mark (問號): Indicates a question.
+6. 『!』 Exclamation Mark (感歎號): Used for phrases expressing exclamation, surprise.
+7. 『『』』 Quotation Marks (引號): Enclose quoted phrases with quotation marks.
+8. 『()』 Parentheses (括號): Used to enclose words or phrases when those words or phrases are unrelated to other parts of the sentence.
+9. 『-』 Vertical Line (竪線): Used where the meaning is suddenly interrupted.
+10. 『_』 Connecting Line (連結線): This is drawn next to a noun to indicate it is a noun.
+11. 『...』 Empty Dots (虛點): Indicates infinite meaning.
+
+2. Circle (圈)
+The Circle indicates the conclusion of a complete sentence—provided that the sentence is neither a question nor an exclamation.
+For example: My son is reading a book over there. Every day, many small birds fly into my garden and let me hear their fine melodies.
+
+3. Comma (逗點)
+The Comma should be placed wherever there is even the slightest <91> pause (頓挫) within a phrase, excluding places where words are closely connected in meaning.
+For example: If it rains today, I won't be able to go to school. The function of books, simply put, can be called the symbols of the thoughts and actions of ancient people.
+When two or more words of the same type are together in one place and are not connected by conjunctions (like 와, 과, 하고, 하며, 而, 和, ...etc.), they should be separated one by one with commas.
+For example: Sŏji, Sŏryŏn are sisters. China, Japan, Siam are all in Asia. Rural life is truly fresh, clean, free. His character is humble, amiable, sincere, and also diligent.
+When a sentence speaks of two paired matters that are entirely opposite, they should be separated in the middle with a comma.
+For example: You do the work, he runs the horse. In the world, sages and worthies are few, while treacherous retainers and villainous sons are many.
+In the case of using several pairs of contrasting words consecutively, a comma is usually placed after each pair.
+For example: Cold and damp, hunger and thirst, are circumstances difficult for people to endure. Whoever the person, man or woman, old or young, propertied or unpropertied, all who come here will enjoy equal happiness.
+Besides these, there are cases where it is used within long sentences, after appellations, and before quoted words, etc., but as these are not particularly necessary, explanations regarding them are omitted.
+
+4. Branch Point (支點)
+(Omitted)
+
+5. Semi-Branch Point (半支點)
+(Omitted)
+
+6. Question Mark (問號)
+The Question Mark should be placed at the end point of an interrogative sentence.
+For example: Who are you? What did you come here for?
+
+7. Exclamation Mark (感歎號)
+The Exclamation Mark expresses a kind of 'anger,' 'fear,' 'surprise,' 'praise,' or other intense emotion when we speak.
+For example: Ah- it's raining so much! Ah- the joys and sorrows of life!
+
+8. Quotation Marks (引號)
+Quotation marks are used to indicate that the phrase enclosed within the symbols has been borrowed from elsewhere. A pair should be made both before and after the quoted phrase.
+For example: The ancients said, 『Woman's lack of talent is in itself a virtue,』 this buries the character of women not insignificantly. What we should certainly know is 『Ideals are the mother of facts,』 so one should always cherish a lofty ideal in one's heart. <92>
+Even if the quoted words consist of only one or two characters and do not form a complete phrase, quotation marks are still used as before.
+For example: In the conversation between Mr. Chang and Mr. Yi, the two words 『friendship (親善)』 were never uttered, and in reality, it rather became the 『opposite ratio (反比例)』.
+If there is a quotation within a quotation, single-line quotation marks and double-line quotation marks should be used to distinguish them.
+For example: A child, speaking to his mother, said, 『Mother, earlier father told me, 「Tomorrow, don't go out, I'll buy you a ball to play with,」 so I'm very happy.』
+
+9. Parentheses (括弧)
+Parentheses are used to enclose characters, phrases, clauses, or sentences; the enclosed characters or phrases have no close relationship with the adjacent characters or phrases.
+For example: Poktong (i.e., my beloved child) held a Western zither (洋琴) in his hand. I (the writer referring to himself) strongly agree with the issue of 『Women's Liberation (婦女解放)』.
+Note: Dashes (竪線) are sometimes used where parentheses would be appropriate (Refer to Section 10, Paragraph 4).
+
+10. Vertical Line (竪線)
+A Vertical Line is used where the meaning or construction of a sentence suddenly changes.
+For example: Look here.-it certainly won't be there. If I had no work today, I would have come- ah- I forgot! Didn't Mr. Chang ask me to come yesterday?
+The Vertical Line is also used to indicate a hesitant tone.
+For example: Th-at's a- thief. A beggar, coming from the crossroads into a narrow alley, muttering to himself... 『I should go back and eat- I certainly need to eat- but what should I eat?』
+Note: Empty Dots (虛點) can also be placed where the tone is hesitant (Refer to Section 12, Empty Dots).
+For example: A lost child, hesitating there, seemed to say... 『Where should I go... where... where should I go?』
+The Vertical Line should also be placed where repetition or restatement is used for greater clarity.
+For example: He related his experiences to me.-his experiences studying abroad in America <93> and then gaining practical training in a factory after graduation.
+When a sentence or phrase is inserted into another sentence, Vertical Lines are usually placed before and after the inserted phrase.
+For example: The hat that person bought-the one made of fur-was very cheap. The head of the old family is like a monarch inside the house, -therefore he is called a monarch. -his imposing air is enough to make people afraid.
+
+11. Connecting Line (連結線)
+The Connecting Line connects several characters to indicate a single noun or a single proper noun - often used for names such as country names, mountain names, river names, personal names, eras, historical events, buildings, books, chapters, sections, sciences, companies, ideologies, astronomical phenomena, holidays, schools, shops, factories, official positions, etc.
+For example: Russo-Japanese War, (Historical event) Kwanjŏ (關雎), Chunam (周南), (Section, chapter names) Great Wall of China, Pyramids, (Buildings) First Month First Day, Christmas, (Holidays) Tan'gun, Kija, Samhan, (Eras) Democracy (떼모크라시), (Ideology) Material Immortality (物質不滅), (Scientific definition)... etc.
+Note: The Connecting Line is placed vertically beside the characters and is entirely different from the Vertical Line mentioned in Section 10.
+For nouns such as books, chapters, sections, sciences, ideologies, etc., sometimes * is used, but this is merely a type of Connecting Line; though different in form, its usage is the same.
+
+12. Empty Dots (虛點)
+Empty Dots are sometimes placed for hesitant or interrupted speech.
+For example: Should I do it this way... or should I do it that way...? A pitiful student pleaded with a cruel teacher... 『I won't... won't... won't do it again, so spare... spare... spare me.』 Even after finishing these words, his teeth still chattered.
+When one cannot mention many things at once, or when listing them one by one would be too cumbersome, Empty Dots are used to indicate the unexpressed meaning.
+For example: Manmulch'o, Yujŏmsa, Manp'oktong, ... depict the famous sights of Kŭmgangsan! It is now the 3rd year since our nation's spirit awakened. I hope that for 4 years, 5 years, 6 years, ... for tens of thousands of years, we will forever be an honorable nation in the eyes of the world. <94>
+When stating or quoting a passage of fact that is too lengthy, some characters or phrases at the beginning, end, or middle may be omitted, and Empty Dots are used to indicate the omitted part.
+For example: In the Theory of Education written by Mr. So-and-so, it says... Korean education must be reformed...』 - this phrase is not wrong in the slightest. 『Swallows flying... weeping like rain (燕燕于飛...泣涕如雨),』 this poem well describes the psychology of Chuang Chiang (莊姜).
+When one stops suddenly without finishing what one was saying, or when interrupted by another person's words, Empty Dots are used to indicate the unfinished tone.
+For example: When a baby sleeps in the cradle, its eyes drowsy, mumbling in a low voice from its mouth... 『Ajæ ajæ』, then the voice gradually becomes faint, and it falls completely asleep. When Napoleon was crossing the Alps in one day to attack Italy, the soldiers were all afraid. Napoleon asked... 『Can you cross that mountain?』 to which one general replied... 『We can cross, but...』 Napoleon, without time to listen to his words, shouted the order 『Forward』 and immediately proceeded up the mountain. <95>
+
+**Summary**
+
+This 1921 article by Kim Yŏngch'ang, writing from Shanghai, provides a detailed guide to Korean punctuation (點句法). It introduces eleven punctuation marks—including the period (圈), comma (逗點), question mark (問號), quotation marks (引號), parentheses (括號), dash (竪線), ellipsis (虛點), and a unique underline-like mark (連結線) for proper nouns—explaining their specific functions with examples. The article aims to standardize written Korean communication by clarifying the usage of these symbols to represent pauses, questions, emotions, quotations, interruptions, and omissions found in spoken language. From a historical perspective, this article is significant as an early effort to codify punctuation rules for the Korean language during a period of nascent modernization and national consciousness under colonial rule. It reflects the intellectual endeavors to refine and standardize the written language, borrowing and adapting concepts (like the unique 'Connecting Line' for nouns) possibly influenced by both traditional East Asian practices and Western conventions, offering insight into linguistic developments and the challenges of representing spoken Korean in writing at the time.
+
+**Named Entities**
+
+金永昌	김영창	Kim Yŏngch'ang
+上海	상해	Shanghai
+中國	중국	China
+日本	일본	Japan
+暹羅	섬라	Siam (Thailand)
+瑞芝	서지	Sŏji
+瑞蓮	서련	Sŏryŏn
+張君	장군	Mr. Chang
+李君	이군	Mr. Yi
+福童	복동	Poktong
+美國	미국	America (USA)
+日露戰役	일로전역	Russo-Japanese War
+關雎	관저	Kwanjŏ (section/chapter name, from Book of Odes)
+周南	주남	Chunam (section/chapter name, from Book of Odes)
+萬里長城	만리장성	Great Wall of China
+金字塔	금자탑	Pyramids
+檀君	단군	Tan'gun
+箕子	기자	Kija
+三韓	삼한	Samhan
+萬物肖	만물초	Manmulch'o (place name, likely in Kŭmgangsan)
+楡站寺	유점사	Yujŏmsa (temple name, likely in Kŭmgangsan)
+萬瀑洞	만폭동	Manp'oktong (place name, likely in Kŭmgangsan)
+金剛山	금강산	Kŭmgangsan (Mt. Kŭmgang)
+朝鮮	조선	Korea (Chosŏn)
+燕燕于飛...泣涕如雨	연연우비...읍체여우	Swallows flying... weeping like rain (Quote from Book of Odes)
+莊姜	장강	Chuang Chiang (Historical figure)
+拿破崙	나파륜	Napoleon
+意太利	의태리	Italy
+알프쓰산	알프스산	Alps Mountains
+
+**Glossary**
+
+點句法	점구법	Punctuation method
+蔑學淺見	멸학천견	Humble learning and shallow views (self-deprecating term)
+敢히	감히	Daringly, presumptuously (Older spelling: 敢히)
+寬厚하신	관후하신	Generous, magnanimous (Polite form)
+具備치	구비치	Not be equipped, incomplete (Older form of 구비하지)
+所信	소신	Belief, conviction
+披瀝하나이다	피력하나이다	To express, state (Humble/formal ending: -나이다)
+停頓	정돈	Pause, halt
+所在	소재	Location, whereabouts
+頓挫	돈좌	Pause, setback; refers to pauses in speech/writing here
+如左함	여좌함	To be as follows (Literary/Hanja style)
+終了	종료	End, conclusion
+許多	허다	Many, numerous
+花園	화원	Flower garden
+緊接	긴접	Closely connected
+極少	극소	Minimal, extremely small
+同類	동류	Same kind, same type
+連接字	연접자	Conjunction (connecting word)
+分離	분리	Separate, divide
+相反	상반	Opposite, contrary
+成對的	성대적	Paired, corresponding
+稱謂的	칭위적	Appellative, term of address
+引用語的	인용어적	Quoted words/phrase (Older adjectival form)
+畧함	약함	To omit (Older form/spelling)
+包在	포재	Enclosed, contained within
+不相關	불상관	Unrelated
+突然	돌연	Suddenly, abruptly
+躕躇	주저	Hesitation
+復述	복술	Repetition, restatement
+重言	중언	Saying again, repeating
+揷入	삽입	Insertion
+連結	연결	Connection, linking
+專有名詞	전유명사	Proper noun
+傍邊	방변	Beside, vicinity
+不過	불과	Merely, only, nothing more than
+斷續	단속	Intermittent, interrupted
+哀乞	애걸	Pleading, begging
+繁雜	번잡	Complicated, troublesome
+不盡	부진	Not exhaustive, incomplete
+張皇	장황	Lengthy, verbose, exaggerated
+若干	약간	Some, several
+略去	약거	Omission, leaving out
+搖籃	요람	Cradle
+몽농하며	몽롱하며	Being drowsy, hazy (Older spelling/form)
+細微하야지며	세미하여지며	Becoming faint/small (Older spelling/form)
+餘暇	여가	Leisure, spare time
+進行	진행	Advance, proceed
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제12호
+발행일	1921년 06월 01일
+기사제목	點句法
+필자	在上海 金永昌
+기사형태	논설
+
+點句法
+						在上海 金永昌
+余의 蔑學淺見이 무엇을 아노라 敢히『點句法』이니하고 붓대를 들믄 一見 唐突한 듯 하나 이는 讀者 여러분의 寬厚하신 마음으로 눌러 보시고 고처 주실 줄 밋삽고 비록 具備치 못하나마 알에와 가티 余의 所信한 바를 披瀝하나이다.
+
+1. 點句法
+點句法이란 吾人의 說話할 時間에 中間에 가끔 가끔 停頓할 곳이 잇나니 만일 文字로써 吾人의 語言을 發表할진대 이러한 停頓의 所在엔 반듯이 記號로써 表示하야만 될 것이다. 吾人이 適當한 記號로써 이러한 頓挫를 表示함을 點句法이라 稱함
+常用的 記號는 如左함
+1. 『.』 圈 이는 停頓의 最長한 곳에 用함
+2. 『,』 逗點 이는 最短한 停頓을 表示함
+3. 『:』 支點 一句話를 幾部分에다 分作하고 一部의 後에 一個支點을 둠
+4. 『;』 半支點 이는 支點보다 短하고 逗點보다 長한 停頓을 表示함
+5. 『?』 問號 疑問을 表示함
+6. 『!』 感歎號 感歎, 驚異한 語句에 用함
+7. 『『』』 引號 引用한 語句에 引號로써 包括함
+8. 『()』 括號 字句를 包括함에 그 字句가 句中 他部와 不相關한 곳에 用함
+9. 『-』 竪線 意義가 突然 中斷한 곳에 用함
+10. 『_』 連結線 이는 名詞를 表示키 爲하야 名詞엽헤다 긋는 것임
+11. 『...』 虛點 無窮한 意思를 表示함
+
+2. 圈
+圈은 一句語의 終了한 意思를 表示함이니-그 句話가 問語가 아니고 또 感歎語가 아님을 要함
+例컨대 나의 아들이 져긔서 글을 읽는다. 날마다 許多한 작은 새가, 나의 花園으로 날아와서, 조흔 曲調를 내게 들려준다.
+
+3. 逗點
+逗點이란 語句 내에 字義緊接한 곳을 除하고는 무릇＜91＞ 極少한 頓挫이 有하면 고칠 것이다.
+例컨대 오늘 만일 비가 오면, 學校에 못가겟다. 書籍의 作用은, 簡單히 말하면, 古人의 思想行爲의 符號라 할만하다.
+兩個 또는 兩個 以上 同類인 字語가 한 곳에 잇고 中間에 連接字(와, 과, 하고, 하며, 而, 和, ...等字) 로써 連接치 아니하면 逗點으로써 一一이 分離할지니
+例컨대 瑞芝, 瑞蓮은 姉妹니라. 中國, 日本, 暹羅는 모다 亞洲에 잇다. 農村生活은, 참으로 新鮮, 潔淨, 自由이다. 彼의 品性이 謙恭, 和愛, 誠實 또 勤勉하다.
+一句話가 兩伴事를 말하매 全혀 相反한 境遇이면 中間에다 逗點으로써 分離할지니
+例컨대 너는 일을 하고, 彼는 말을 달린다. 世上에 聖賢이 적고, 亂臣賊子가 만하다.
+成對的 字語에 連續히 몃가지 對語를 쓰는 境遇이면 每對下面에 항용 一個逗點을 칠지니
+例컨대 冷과 濕, 飢와 渴은, 사람의 참기 어려운 事情이다. 어떠한 사람이던지, 男子나 女子나, 늙은이나 젊은이나, 有産者나 無産者나, 모다 여긔 오면, 同等의 幸福을 누릴 것이다.
+이 外에도 長句裡面, 稱謂的 後面 及 引用語的 前面 等에 쓰는 일도 잇스나 別로히 必要가 업겟기에 이에 對한 說明을 畧함
+
+4. 支點
+(畧)
+
+5. 半支點
+(畧)
+
+6. 問號
+問號는 問句終點에 칠지니
+例컨대 當身은 누구시요? 무엇하러 오셧소?
+
+7. 感歎號
+感歎號는 吾人이 說話함에 一種 『憤怒』 『恐怖』 『驚奇』 『贊美』 혹은 別種 劇烈한 情感을 表示함
+例컨대 아- 비도 만히 온다! 아- 人生의 苦樂이어!
+
+8. 引號
+記號內에 包在한 語句가 딴 곳에서 빌어옴을 表示함에 引號를 쓰나니 引用的 語句 前後에 다 一對를 作할 것이라.
+例컨대 古人이 말하되 『女子無才便是德, 』 이라 함은, 女子 人格을 埋沒함이 적지 안토다. 우리가 맛당히 알아 둘 것은 『理想爲事實之母, 』 라니, 恒常一個高尙한 理想을 心中에 품을＜92＞ 것이다.
+引用語에 또 12個 字가 잇고 完全한 語句가 되지 못한 境遇이라도 引號는 依前히 쓰나니
+例컨대 張君과 李君 間 說話함에, 도모지 『親善』 2字는 입 밧게 내지 안코, 實際上 돌이어 『反比例』가 된다.
+引用語 內에 거듭 引用語가 有하면 單線引號와 複線引號로써 區別할지니
+例컨대 한 아이가 저의 母親을 對하야 말하되 『어머니, 아까 아버지가 나더러, 「來日은 나가지 말고 놀라고 공을 사다준다,」 하시니, 매우 깃버요.』
+
+9. 括弧
+括弧는 字, 仂語, 子句, 或 句를 包括함에 用하나니 包括한 字, 句가 그 엽헤 잇는 字, 句와는 아무 緊接한 關係가 無함
+例컨대 福童(卽 나의 사랑하는 아이)의 손에 洋琴一張을 들엇다. 나(記者自稱)는 『婦女解放』이란 問題에, 매우 贊成한다.
+注意 括號 쓸 곳에 有時乎竪線을 用함 (第 10節 第 4段을 參照하라.)
+
+10. 竪線
+一句話의 意思 或 作法이 突然히 變換한 곳에 一個 竪線을 用함
+例컨대 當身 보시요.-만 一定코 업슬 것이요. 오늘 일이 업스면 올터인데- 아- 내가 이젓군! 어제 張先生이 나를 오라하지 안핫섯는가?
+躕躇하는 語氣를 表示함에도 竪線을 用함.
+例컨대 저-ㄴ한- 賊漢이다. 一個乞兒가 十字 街路로부터, 어떠한 좁은 골목으로 들어가며, 입 속으로 중얼중얼하되… 『돌아가서 먹어야지-먹기는 먹어야 할 터 인데- 하나 무엇을 먹을가?』
+注意 語氣 躕躇한 곳엔 또한 虛點을 칠 수 잇나니 (第 12節 虛點을 參照하라.)
+例컨대 한 길 일흔 어린 아이가, 거긔서 躕躇하며, 彷彿히 하는 말이... 『어대로 갈가... 어대로... 어대로 가어야 조흘가? 』
+復述 或은 重言으로 一層 明白히 하는 곳에도 竪線을 칠지니
+例컨대 그가 그의 經歷을 내게 돌려준다.-그가 美國에＜93＞ 留學하고 또 畢業한 後 工場에서 實習한 經歷을,
+一句話 또는 一個字句가 一句 內에 揷入할 時는 그 揷入한 語句 前後에 恒用 竪線을 칠지니
+例컨대 그 사람이 산 帽子-털로 맨든 것-갑이 매우 싸다. 舊家庭의 家長은, 집 안에서는 君主와 彷彿하다, -그럼으로 君主라 한 것이다. -그의 氣焰은, 사람으로 하여곰 겁에 나게 할만하다.
+
+11. 連結線
+連結線은 幾個字를 連結함에 一個 名詞나 一個 專有名詞를 表示함- 國名, 山名, 河名, 人名, 時代, 歷史, 要事, 建築物, 書籍, 章, 篇, 科學, 會社, 主義, 星象, 節日, 學校, 商店, 工廠, 官職, 等 名稱에 多用함
+例컨대 日露戰役, (歷史要事) 關雎, 周南, (篇,章名) 萬里長城, 金字塔, (建築物) 元月 元旦, 耶穌誕, (節日) 檀君, 箕子, 三韓, (時代) 떼모크라시, (主義) 物質不滅, (科學定義)... 等이니라.
+注意 連結線은 字의 傍邊에 竪하는 것이고 第 10節에 말한 바 竪線과는 全혀 不同함
+書籍, 章, 篇, 科學, 主義, 等 名詞에, 有時乎*케도 하나, 이도 連結線의 一種에 不過하나니, 形式上으로 갓지 안흐나, 그 使用方法은 一般임.
+
+12. 虛點
+虛點은 躕躇 或 斷續한 語氣에 有時乎虛點을 치나니
+例컨대 내가 이러케 하여야만... 조흘가, 저러케 하여야만... 조흘가? 一個 可憐한 學生이 一個 殘忍한 敎師에게 哀乞하되... 『내가 다시는 아니... 아니... 아니할 터이니, 살려... 살려... 살려 주셔오.』 이 말을 마치고도, 齒牙가 오히려 덜덜 한다.
+許多 事物을 一時에 다 말할 수 업다던지 또 一一이 列擧할 수 잇스나 넘우 繁雜할 듯 할 때에는 虛點으로써 不盡한 意思를 表示할지니
+例컨대 萬物肖, 楡站寺, 萬瀑洞, ...은 金剛山 名勝을 그려 내엇도다! 우리 民族의 精神 차린지가 只今 3年째이다. 나는 4年, 5年, 6年, …몃 萬年이 가도록, 永永 世界에 對한 榮譽的 民族이 되기를 바란다.＜94＞
+陳述 或 引用 一段 事實이 넘우 張皇한 境遇이면 首尾 或 中間에 若干 字句를 略去하고 그 略去한 部分에 虛點으로써 表示할지니
+例컨대 某君의 지은 바 敎育論에 말하엿스되... 朝鮮의 敎育은, 更改치 아니하면 不可하다...』는 句語는, 족음도 틀리지 안는다. 『燕燕于飛...泣涕如雨, 』 這首詩는 莊姜의 心理를 잘 形容하엿도다.
+하던 말을 채 마치지 못하고 忽然 中止 하거나 或은 傍人의 말에 中斷한 배 되면 虛點으로써 그의 마치 못한 語氣를 表示할지니
+例컨대 어린 아이가 搖籃에서 잘때에, 두 눈이 몽농하며, 입속에 너흔 나즌 목소리로... 『아재 아재』 하더니, 차차 聲音이 細微하야지며, 아조 잠이 들고 만다. 拿破崙이가 意太利를 치랴고 하루 사이에 알프쓰산을 넘을 때, 軍士-모다 怯내는지라. 拿翁이 뭇되... 『너의들이 저 산을 可히 넘겟느냐?』 함에, 한 將官이 답하되... 『넘겟나이다, 만...』 拿翁은 그의 말을 들을 餘暇업시, 『前進』 號令을 부르며, 卽刻에 山上으로 進行하니라.＜95＞
+＜91-95＞

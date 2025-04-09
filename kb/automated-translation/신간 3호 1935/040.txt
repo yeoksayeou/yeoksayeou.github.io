@@ -1,0 +1,292 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1935-01-01
+Article Title: 1935년의 世界政局 展望 (Outlook for World Politics in 1935)
+Author: 咸尙勳
+Article Type: 소식 (News/Report)
+
+**Body Text Translation:**
+
+Outlook for World Politics in 1935
+						Ham Sanghun
+
+1. The Illusion of Disarmament
+
+1935 is the year preceding 1936, when the Washington Treaty and the London Treaty expire, and the year designated by the London Treaty for holding a Disarmament Conference. As of the day this is being written (December 14, Showa 9 [1934]), the preliminary talks for holding the Disarmament Conference have not proceeded smoothly, and the American delegation has even bought their return ship tickets. Furthermore, Britain held a cabinet meeting and decided on a recess, but since a tentative Anglo-Japanese experts' compromise plan was established, they decided to seek instructions from their home government and, if approved, resume the talks. Therefore, not only the date and place of the main conference but even the date for resuming the preliminary talks remain undetermined. If the preliminary talks break down and Japan notifies its withdrawal from the Washington and London Treaties, we will return to a state without treaties, allowing for unlimited arms expansion and competition, leading to an unknown future. Even if the preliminary disarmament talks reach some abstract conclusion and the main conference is held, the difficulties are numerous. Let's assume the current (as of this writing) tentative Anglo-Japanese experts' compromise plan gains the approval of the governments of Japan, Britain, and the US and becomes the basis for the main conference. Then, in how many years will Japan achieve naval parity with Britain and the US? Britain is thinking of five years, but will Japan accept that? Won't the US consider five years too soon? Also, if the US approves the tentative Anglo-Japanese experts' compromise plan to that extent, Japan should be willing to agree to a tentative Anglo-American compromise plan (assuming one could be established). But suppose Britain and the US submit a compromise plan where Britain accepts a policy of building many small ships and the US accepts a policy of building many large ships. Will Japan really approve this? It is extremely difficult to find a point of compromise among the three nations with differing interests. Let's first consider Japan's position.
+
+2. Conflict of Interests
+
+"Since the Manchurian Incident, the independence of Manchukuo, and the establishment of the Japan-Manchukuo Protocol, Japan has felt the absolute necessity of armaments for the Far East. On the continent, it prepares against the threat of the Soviet Union, and in the Western Pacific <18> it seeks to secure complete command of the sea (制海權) to leave no room for American and British interference in the Far East. In return, the United States, holding the spear of the Open Door and Equal Opportunity it has consistently advocated since the World War in its right hand, and the shield of the Kellogg-Briand Pact and the Nine-Power Treaty in its left, advances bravely towards the Far East. Japan's doctrine of supremacy in the Western Pacific and America's plan for long-range voyages to the Far East cannot avoid collision. Britain's position needs no further explanation. If India, the Malay Peninsula, Hong Kong, and Australia remain under the current level of military preparedness, they cannot but feel uneasy under the threat of Japan, which holds naval supremacy in the Western Pacific. How much more so now, when Britain is struggling desperately (四苦八憫) to recover its trade with China, which is declining year by year?
+
+3. The General Trend of Arms Expansion
+
+This contradiction is already manifesting itself at the disarmament conference. With the Japan-Britain-US disarmament conference as the focal point, driven by interests in the Far East, they are planning maximum arms expansion and competition. Particularly for Japan, the Washington and London Treaties, concluded in 1922 and 1930, have become shackles (桎梏) on its expansionist ambitions, leading to its firm decision to abrogate them, now creating major waves in the Far East. How surprised Britain and the US were by Japan's demand to abolish the 5:5:3 and 10:10:7 ratios and assert the principle of equality! Let's examine the intentions of the country demanding equality and those opposing it by showing the current naval strengths of the three nations (as of September 1933).
+
+Ship Tonnage            Japan           UK           US
+Capital Ships  No.                 9             15             12
+Tonnage            272,070         455,400        368,640
+Cruisers  Type A No.            12             10             19
+Tonnage        107,800          92,650         183,396
+Type B No.            19              10             35
+Tonnage         90,255           70,500 (?)         158,015  *(Translator note: UK Type B tonnage '705,00' seems incorrect/typo in original, likely missing digits. Compared to other B types, it should perhaps be ~70,500 or higher)*
+Destroyers  No.               105              248            159
+Tonnage            125,091           264,030         180,724
+Submarines  No.                59               81              57
+Tonnage             69,154            67,000          54,264
+Aircraft Carriers No.                4                3                6
+Tonnage            68,370            77,500          115,350
+5,650 *(Translator note: The '5,650' appears isolated, possibly another typo or misplaced data in the original table.)*
+
+Thus, disarmament has turned into an illusion, and arms expansion and competition have become openly apparent. This naval race in the Far East among the three great naval powers—Japan, Britain, and the US—naturally compels China, the emerging nation of the Far East, to arm itself, and forces the Soviet Union to strengthen its military preparations along its borders. Looking at the Five-Year Aviation Plan of the Chinese Nationalist Government <19> or the fact that the majority of the Soviet Union's Second Five-Year Plan focuses on heavy industry, doesn't it show how desperately the countries of the Far East are rushing to expand their armaments?
+
+4. Europe's Black Spot
+
+1935 is the year the Disarmament Conference is held. It is also the year a plebiscite will be held regarding the jurisdiction of the Saar region, currently under the administration of the League of Nations. If the former is a major issue centered around the Far East, the latter is an issue centered around Europe, especially Germany and France. According to the Treaty of Versailles of 1920, the Saar region was placed under League of Nations administration until January 15, 1935, after which a plebiscite would determine its affiliation: Germany, France, or the League. Therefore, if the result of this Saar plebiscite favors either Germany or France, the other country cannot help but feel extreme apprehension. The extremity of resentment might lead to unforeseen actions. Suppose the region returns to Germany. Will France meekly hand it over to Germany? If France, trusting its military strength, refuses to let it return to Germany, Hitler's Germany will not tolerate it. Even without this, Germany considers France an irreconcilable enemy (不俱載天의 讐). Wasn't it because of France that Germany lost tens of thousands of square kilometers of territory in the peace treaty, was subjected to extreme military limitations (an army of 100,000, a navy of 120,000? *(Translator note: The naval figure seems high/incorrect; the Treaty of Versailles severely limited the German navy, not to 120,000 personnel but to specific ship types and numbers, totaling far less tonnage than major powers)*), and was forced to pay astronomical reparations amounting to 65 billion Yen (圓), although this is now mostly resolved? The German government, especially Hitler's government, attributes all this responsibility to France and is filled with anti-French fervor. If the Saar returns to Germany, they might try to recover it even by force; if it goes to France, they might refuse to return it. The Saar issue is a potential fuse for a major conflict between France and Germany.
+Knowing Germany's resentment, France is even more wary of Germany. At the General Disarmament Conference in 1934, when Germany demanded arms equality, France insisted on arms supervision. Seeing Germany drawing closer to Poland, France pulled in the Soviet Union, formed a military alliance, and brought the Soviet Union into the League of Nations when Germany withdrew. It orchestrated the formation of the Little Entente along the Danube River (따늅 江岸의 3國協商), becoming its manipulator and a defensive ally against Germany. What will be the next measure to discipline Germany?
+It seems the world has many enemies for the defiant. Austria (國墺太利), whose Heimwehr (하임베러, 祖國防衛團) crushed the German Nazis trying to forcibly achieve the German-Austrian Anschluss (獨墺合倂), and Hungary, riding on the coattails (秋波) of the black-shirted Prime Minister Mussolini, traveled to Rome, concluded economic agreements, and entered into increasingly friendly relations. Even Mussolini, who had shown favor during Hitler's rise to power and even devised policies for establishing independent states within the Soviet Union, now stands in an anti-German position after receiving tribute from Austria following the assassination of the Austrian Chancellor.
+Only Britain, crossing the Dover Strait (도바 海峽), boasting the honor of isolation and pursuing its traditional policy of trying to undermine rising great powers in Europe, seeks to use Germany to check French power and curb the westward advance of the Soviet Union.<20> Should this be considered Germany's sole supporting force?
+
+5. Inflation and Dictatorship
+
+The driving force underlying and expanding these international tensions, and also the reactionary force, is domestic fiscal expansion and dictatorial politics. In Japan, after the September 18th Incident (9.18 사건) occurred in Showa 7 (1932), the Saitō (齊藤) emergency cabinet emerged the following May. After this cabinet fell in Showa 9 (1934), a semi-military, semi-bureaucratic cabinet headed by Admiral Okada (岡田) was formed, rejecting party politics and implementing an unprecedented inflationary policy (인풀레 정책), bringing vitality to the munitions industry. Britain also, after forming the National Government in 1931, despite temporary cabinet reshuffles, remains a National Government, discarding its honor as the birthplace of party politics like worn-out shoes (弊履). After prohibiting gold exports, it implemented an inflationary policy and is gradually succeeding in economic and fiscal recovery.
+After the fall of the National Union government in France, the Doumergue government was established, but it too is employing extraordinary policies (常政策 - *Translator Note: This seems counterintuitive, perhaps meaning 'emergency policies' or 'non-standard policies' in context of overcoming the Gold Standard crisis*) to overcome the crisis of the Gold Standard. Germany, Italy, Yugoslavia, Poland, Spain, etc., are representative countries implementing extreme dictatorial rule.
+Yankee America, under President Roosevelt since his inauguration, has assumed extensive dictatorial powers and is implementing a massive inflationary policy. Given America's deep involvement in global politics and economics, this is a major focus of attention.
+The Soviet Union, occupying one-sixth of the world's land area and population and standing tall in the northern part of the Eastern Hemisphere with its unique political and economic system, although different in form, is also under a powerful dictatorship, which cannot be exempted as an example of dictatorial rule.
+The fact that Asian nations such as Turkey, China, Siam (遲羅), etc., are under strong dictatorial rule, and that South American, Central American, and various other countries (諾國) are also in a state of semi-rebellion and dictatorship, is perhaps because the bulwarks (提坊) against the wave of global dictatorship are weak?
+(Following 50 lines regretfully omitted - original text)<21>
+<18-21>
+
+**Summary**
+
+This 1935 article by Ham Sanghun predicts a year of rising international tensions, dismissing hopes for disarmament. It highlights the breakdown of naval limitation talks due to Japan's demand for parity with the US and UK, driven by its expansionist goals in Manchuria and the Western Pacific, clashing directly with US/UK interests (Open Door policy, colonial security). The piece foresees a naval arms race in the Far East involving Japan, the US, UK, China, and the Soviet Union. It also points to European instability centered on the Franco-German rivalry, exacerbated by the upcoming Saar plebiscite and Germany's resentment over the Versailles Treaty. Finally, the author observes a global trend towards inflationary economic policies and the rise of dictatorial regimes (Japan, UK's National Gov't, US's New Deal, Germany, Italy, USSR, China, etc.) as both a cause and effect of the tense international climate. From a Korean colonial history perspective, the article is revealing as it presents a contemporary analysis (likely reflecting or influenced by Japanese viewpoints prevalent in colonial Korea) of Japan's assertive foreign policy and militarization as a central factor in East Asian instability. It situates Japan's actions, including the creation of Manchukuo, within a global context of failing international cooperation and rising authoritarianism, offering insight into how regional events were perceived and framed at the time.
+
+**Named Entities**
+
+咸尙勳	함상훈	Ham Sanghun
+華府條約	화부조약	Washington Treaty
+倫敦條約	륜돈조약	London Treaty
+華府	화부	Washington
+倫敦	륜돈	London
+米國	미국	United States (America)
+英國	영국	United Kingdom (Britain)
+日本	일본	Japan
+滿洲事變	만주사변	Manchurian Incident
+滿洲國	만주국	Manchukuo
+日滿議定書	일만의정서	Japan-Manchukuo Protocol
+蘇聯	소련	Soviet Union
+西太平洋	서태평양	Western Pacific
+極東	극동	Far East
+켈록條約	켈록조약	Kellogg-Briand Pact
+9個國條約	9개국조약	Nine-Power Treaty
+印度	인도	India
+馬來半島	마래반도	Malay Peninsula
+香港	향항	Hong Kong
+濠洲	호주	Australia
+中國	중국	China
+國民府	국민부	Nationalist Government (China)
+歐洲	구주	Europe (Older reading 'Kuju' sometimes used, but 'Yurŏp' is standard)
+獨佛	독불	Germany-France
+잘 지방	잘 지방	Saar region
+國聯	국련	League of Nations
+베르사이유 講和條約	베르사이유 강화조약	Treaty of Versailles
+獨逸	독일	Germany
+佛國	불국	France
+히틀러	히틀러	Hitler
+波蘭	파란	Poland
+따늅 江岸	따늅 강안	Danube Riverbank (area)
+3國協商	3국협상	Triple Entente / Three-Power Pact (likely referring to Rome Protocols contextually)
+獨墺合倂	독오합병	German-Austrian Anschluss
+나치스	나치스	Nazis
+하임베러	하임베러	Heimwehr
+祖國防衛團	조국방위단	Fatherland Defense Group (Heimwehr)
+國墺太利	국오태리	Austria (older/alternative name form)
+墺國	오국	Austria
+匈牙利	흉아리	Hungary
+뭇솔리니	뭇솔리니	Mussolini
+羅馬	라마	Rome
+墺首相	오수상	Austrian Chancellor
+도바 海峽	도바 해협	Dover Strait
+齊藤	제등	Saitō (Japanese PM)
+岡田	강전	Okada (Japanese PM)
+伊太利	이태리	Italy
+유고슬라보	유고슬라보	Yugoslavia
+西班牙	서반아	Spain
+루즈벨트	루즈벨트	Roosevelt
+土耳其	토이기	Turkey (Older reading 'T'oigi')
+遲羅	지라	Siam (Thailand)
+亞細亞	아세아	Asia
+南米	남미	South America
+中米	중미	Central America
+諾國	각국	Various countries (Context suggests this interpretation over Norway)
+
+**Glossary**
+
+世界政局	세계정국	World political situation
+展望	전망	Outlook, prospect
+軍縮	군축	Disarmament, arms reduction
+幻影	환영	Illusion, phantom
+條約	조약	Treaty
+豫備會商	예비회상	Preliminary talks/negotiations
+開催	개최	Holding (an event), convening
+歸國	귀국	Returning to one's country
+閣議	각의	Cabinet meeting
+請訓	청훈	Seeking instructions (from superiors/home government)
+繼續	계속	Continuation, resuming
+決裂	결렬	Breakdown, rupture (of negotiations)
+廢棄	폐기	Abrogation, abolition, disposal
+無條約	무조약	Without treaty, treaty-less
+狀態	상태	State, condition
+抽象的	추상적	Abstract
+基礎	기초	Basis, foundation
+假定	가정	Assumption, hypothesis
+今後	금후	Hereafter, from now on
+平等	평등	Equality
+容認	용인	Acceptance, tolerance
+專門家	전문가	Expert, specialist
+是認	시인	Approval, recognition
+互相	호상	Mutually
+利害關係	이해관계	Interests, stakes
+發見	발견	Discovery, finding
+必要	필요	Necessity
+늣겻스니	느꼈으니	(Older spelling) Because (one) felt/perceived
+大陸	대륙	Continent
+脅威	위협	Threat, menace
+制海權	제해권	Command of the sea, naval supremacy
+張握	장악	Grasping, seizing control
+間隙	간극	Gap, opening, loophole
+門戶開放	문호개방	Open Door (policy)
+機會均等	기회균등	Equal opportunity
+勇進	용진	Advancing bravely
+制覇主義	제패주의	Hegemonism, doctrine of supremacy
+遠洋渡航	원양도항	Long-range sea voyage, ocean navigation
+衝突	충돌	Collision, conflict
+現下	현하	Currently, at present
+頹勢	퇴세	Declining trend, downturn
+挽回	만회	Recovery, retrieval
+四苦八憫	사고팔민	Struggling desperately, going through great pains
+發露	발로	Manifestation, revelation
+膨大	팽대	Swelling, expansion, huge
+桎梏	질곡	Shackles, fetters
+破棄	파기	Abrogation, tearing up (a treaty)
+比率	비율	Ratio, proportion
+要求	요구	Demand, request
+心懷	심회	Inner thoughts, mind, intention
+主力艦	주력함	Capital ship, battleship
+巡洋艦	순양함	Cruiser
+驅逐艦	구축함	Destroyer
+潛水艦	잠수함	Submarine
+航空母艦	항공모함	Aircraft carrier
+武裝	무장	Armament, being armed
+充實	충실	Strengthening, enrichment, substance
+急急	급급	Being busy with, rushing
+貴屬	귀속	Belonging to, jurisdiction
+人民投票	인민투표	Plebiscite, popular vote
+獨佛	독불	German-French
+管理下	관리하	Under the administration/management of
+威感	위감	Apprehension, sense of threat (likely short for 위협감)
+反感	반감	Antipathy, resentment
+手段	수단	Means, measure, way
+唯唯諾諾	유유낙낙	Meekly, submissively, saying 'yes, yes'
+軍備	군비	Military preparations, armaments
+不俱載天의 讐	불구대천지수	Irreconcilable enemy (lit. enemy with whom one cannot live under the same sky)
+累10萬	수십만	Hundreds of thousands
+制限	제한	Limitation, restriction
+最小限度	최소한도	Minimum limit
+賠償金	배상금	Reparations, indemnity
+歸する	귀하다	(Japanese verb 'kisu(ru)' used) To attribute to
+滿身	만신	Whole body, filled with
+囘收	회수	Recovery, collection
+警戒	경계	Vigilance, caution, wariness
+管督權	감독권	Right of supervision/control
+同盟	동맹	Alliance
+脫退	탈퇴	Withdrawal, secession
+政權	정권	Political power, regime
+牽制	견제	Check, restraint, curb
+後援軍	후원군	Supporting force, reinforcements
+財政膨脹	재정팽창	Fiscal expansion
+獨裁	독재	Dictatorship, autocracy
+非常時	비상시	Emergency period
+出現	출현	Appearance, emergence
+首班	수반	Head (of cabinet), premier
+官僚	관료	Bureaucrat
+政黨政治	정당정치	Party politics
+排戰	배격	(likely typo for 排擊) Rejection, denunciation
+未曾有	미증유	Unprecedented
+인풀레	인플레이션	Inflation (loanword adaptation)
+軍需工業	군수공업	Munitions industry, arms industry
+活氣	활기	Vitality, liveliness
+呈する	정하다	(Japanese verb 'teisu(ru)' used) To present, show, exhibit
+國民內閣	국민내각	National Government/Cabinet
+弊履	폐리	Worn-out shoes (used figuratively for discarding something)
+恢復	회복	Recovery, restoration
+倒壞	도괴	Collapse, downfall
+金本位	금본위	Gold standard
+危機	위기	Crisis
+克服	극복	Overcoming
+實行	실행	Implementation, execution
+廣汎	광범	Wide-ranging, extensive
+尨大	방대	Vast, enormous
+的	적	Target, object (of attention)
+聳立	용립	Standing tall, towering
+獨特	독특	Unique, peculiar
+組織	조직	Organization, system
+免할 수 없다	면할 수 없다	Cannot avoid, cannot be exempted from
+提坊	제방	Embankment, levee (used figuratively for defense/bulwark)
+脆弱	취약	Weak, vulnerable
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제3호
+발행일	1935년 01월 01일
+기사제목	1935년의 世界政局 展望
+필자	咸尙勳
+기사형태	소식
+
+1935년의 世界政局 展望
+						咸尙勳
+1. 軍縮에의 幻影
+
+1935년은 華府條約 及 倫敦條約의 만기되는 1936년의 前年이오 倫敦條約에 의하야 軍縮會議를 개최하는 當年이다. 이 글을 쓰는 날까지(昭和 9년 12월 14일) 軍縮會議를 개최키 위한 豫備會商이 원만히 진행되지 못하야 米國代表 일행은 歸國船票까지 사노앗다. 물르고 英國은 閣議를 열고 休會를 결정햇다가 日英전문가 和協試案이란 것이 성립되엿스므로 本國政府에 請訓해 보앗다가 승인되면 다시 會商을 계속하기로 되엿스므로 本會議의 개최 시일 장소는 말할 것도 없고 再開 豫備會商의 시일조차 정하지 못하고 잇는 판이다. 만일 豫備會商은 결렬되고 日本의 華府條約 及 倫敦條約의 폐기는 通告되면 無條約 狀態로 歸하야 軍備의 확장 及 경쟁은 마음대로 되야 그 갈 바를 알지 못하겟거니와 군축 豫備會商이 어느 抽象的 결론에 이르러 본회의를 개최한다 하드래도 난관은 하나 둘이 아니다. 假使 現今(이 글 쓰는 날)日英 專門家和協試案이란 것이 日英米 3국정부의 승인을 얻어 본회의에의 기초가 된다 가정하자. 그러타면 日本은 今後 幾年後에 英米와 평등한 軍備를 가질 것이냐 英國 5個年을 생각하고 잇지만 日本은 그것을 용인할가. 米國은 5個年쯤으로 일르다하지 않을가. 또 日英 專門家和協試案을 米國이 승인할 정도면 英米의 和協試案(假使 성립될 수 잇다하고 假定)에 日本이 동의할 용의가 잇어야할 것이다. 그런데 만일 英米가 영국은 小艦多建主義를 米國은 大艦多建主義를 승인한 和協案을 제출한다하자. 日本은 과연 이것을 是認할 것인가. 互相利害關係를 달리한 3個國間의 타협점을 발견하기에는 극히 곤란한 점이 잇다. 먼저 日本에 입장부터 생각해보자.
+
+2. 利害衝突
+
+「日本은 滿洲事變 滿洲國獨立 日滿議定書 성립이후 極東에 대한 軍備의 절대 필요를 늣겻스니 대륙에 잇서서는 蘇聯의 脅威에 備하고 西太平洋에 잇서서는 완전한＜18＞制海權을 장악하야 米國과 英國의 極東에 대한 間隙을 주지 않으려한다. 그 대신 米國은 世界大戰 以來 항상 주장해 내려온 門戶開放 機會均等의 창을 바른 손에 들고 켈록條約 9個國條約의 방패를 왼 손에 들고 極東을 향하야 勇進한다. 日本의 西太平洋 制覇主義와 米國의 極東 遠洋渡航計劃과는 충돌되지 않을 수 없다. 英國의 입장은 더 말할 것도 없다. 印度와 馬來半島와 香港과 濠洲를 現下와 가튼 軍備밑에 둔다면 西太平洋에 制海權을 가진 日本의 위협하에 만족하지 않을 수 없다. 况 年年 頹勢에 잇는 對中 貿易을 挽回코저 四苦八憫하는 現下이랴.
+
+3. 軍擴의 大勢
+
+이 모순은 발서 軍備會議에서 發露된다. 日, 英, 米 軍縮會議를 중간에 노코 極東의 이해관계로 軍備의 최대한 확장 及 경쟁을 꾀하고 잇다. 특히 1922년과 1930년에 체결한 華府 倫敦의 兩 條約은 膨大하려는 日本의 桎梏이 되야 단연 破棄하기로 결정된 日本은 지금 極東에 일대 파문을 그리고 잇다. 5, 5, 3과 10, 10, 7의 비율을 폐기하고 평등의 원칙을 주장하는 日本의 요구에 英米는 얼마나 놀랏든가. 3國 海軍現勢力을 示하야 평등을 요구하는 나라와 평등을 반대하는 나라의 心懷를 엿보기로 하자.(1933, 9월 현재)
+隻噸數            日本           英國           米國
+主力艦  隻數                 9             15             12
+噸數            272,070         455,400        368,640
+巡洋艦  A型 隻數            12             10             19
+噸數        107,800          92,650         183,396
+B型 隻數            19              10             35
+噸數         90,255           705,00         158,015
+驅逐艦  隻數               105              248            159
+噸數            125,091           264,030         180,724
+潛水艦  隻數                59               81              57
+噸數             69,154            67,000          54,264
+航空母艦 隻數                4                3                6
+
+噸數            68,370            77,500          115,350
+5,650
+이리하야 軍縮은 환영으로 변하고 軍擴軍備競爭이 노골로 발현하게 되엿다. 이 日英米 3大海軍國의 極東에 잇섯서의 해군경쟁은 자연 極東의 신흥국 中國으로 하야금 武裝치 아니치 못하게 하고 蘇聯으로 하야금 국경방면에 軍備의 充質을 꾀하지 않을 수 없게 한다. 中國 國民府의 航空5個年計劃이라든지＜19＞ 蘇聯 第25個年計劃의 대부분이 중공업이라는 점을 보면 極東 각국이 여하히 軍備 擴充에 급급한 것을 알 수 잇지 않은가.
+
+4. 歐洲의 黑點
+
+1935년은 軍縮會議의 개최되는 해다. 또 國際聯盟 관할하에 잇는 잘 지방의 귀속문제로써 人民投票가 行하는 해도 된다. 前者가 極東을 중심하고 움즉이는 큰 문제라면 後者는 歐洲 특히 獨佛을 중심하고 움즉이는 문제다. 잘 지방은 1920년 베르사이유 講和條約에 의하야 1935년 1월 15일까지 國聯管理下에 두엇다가 日日 人民投票에 附하야 獨逸이냐 佛國이냐 혹은 國聯이냐에 귀속시키기로 하얏다. 그러므로 만일 이 잘 人民投票 결과가 佛獨 어느나라에로 도라가거나 딴 한 나라는 극도의 威感을 가지지 않을 수 없다. 反感의 極度는 또 어떤 수단으로 나갈지도 모른다. 假使 이 지방이 獨逸로 도라간다고 하자. 그러하면 佛國은 唯唯諾諾하야 獨逸에 돌려줄가. 만일 자기의 軍備를 믿고 獨逸에게 귀속시키지 않으다면 히틀러獨逸의 참을 바 못 될 것이다. 그러치 않어도 獨逸은 佛國에 대하야 不俱載天의 讐로 여기고 잇다. 獨逸은 佛國 때문에 講和條約에 잇서서 累10萬平方粁의 영토를 잃고 육군 10만, 해군 12만이란 극도의 最小限度의 軍備制限을 받고 지금은 거이 해결되엇지만 650억 圓이란 천문학적 수자의 배상금을 내게 되지 않엇는가. 이것을 전부 佛國의 책임에 歸하는 獨逸 정부 그 중에도 히틀러 政府는 滿身反獨熱로 찻다. 잘이 獨逸에 귀속되면 무력으로써라도 回收하랴고 佛國에 歸게되면 반환하지 않으랴 잘 문제는 獨佛간에의 일대충돌의 도화선이다.
+獨逸의 반감을 알기 때문에 佛國는 일층 獨逸을 경계한다. 1934년 一般軍縮會議에서 獨逸이 軍備平等權을 주장하면 佛國는 軍備管督權을 주장하얏고 獨逸이 波蘭과 가까히 하는 것을 보고는 佛國는 蘇聯을 당기어 軍事同盟을 맺고 獨逸이 聯盟을 탈퇴하면 蘇聯을 끌어 넣엇다. 따늅 江岸의 3國協商을 맺게하야 그의 조종자가 되고 獨逸에 대한 防衛同盟者가 되엇다. 요다음은 무엇으로 獨逸을 응징할가.
+세상은 반항자에게 적이 많은 모양이다. 獨墺合倂을 강제로 실력하랴하는 獨逸 나치스를 一掃한 하임베러(祖國防衛團)의 國墺太利와 匈牙利는 黑衣首相 뭇솔리니의 秋波를 타고 羅馬에 건너가 經濟協定을 맺고 日益親善關係에 드러가며 히틀러 집정당시인 好意를 표하야 蘇聯邦 內에 독립제국 건설까지 制策하든 뭇솔리니도 墺首相 橫死後 墺國의 貢納을 받어 反獨 관계에 잇다.
+오즉 도바 海峽을 건너 고립의 명예를 자랑하고 항상 歐洲에 新興 大勢力을 부시랴는 전통적 정책을 쓰는 英國만이 獨逸을 이용하야 佛國의 勢力牽制 蘇聯의 西漸을＜20＞ 타도하랴 하나니 이것으로 獨逸 유일의 後援軍이라 할가.
+
+5. 인프레와 獨裁
+
+이러한 국제적 緊張關係를 기초짓고 확장할 원동력이 되고 또 반동력이 되는 것은 국내의 財政膨脹과 독재정치다. 日本은 昭和 7년  9.18 사건이 이러나자 翌年 5월 齊藤非常時 內閣이 출현하고 昭和 9년 同 內閣이 실각한 후는 岡田海軍大將을 首班으로 한 半軍閥, 半群僚內閣이 성립하야 政黨政治에 排戰하고 미증유의 인풀레 정책을 써서 軍需工業에 활기를 呈하게 하얏다. 英國도 1931년 國民內閣을 組織後 일시적 內閣改造가 잇섯스나 역시 國民內閣으로서 政黨政治의 본원지인 榮譽를 弊履같이 버리고 金輸出 禁止後 인풀레 정책을 써서 점차 經濟財政의 회복에 성공하고 잇다.
+佛國이 國民內閣의 倒壞後 프랑당 內閣이 수립되엇스나 金本位例의 위기를 극복코저 역시 常政策을 쓰고 獨逸, 伊太利, 유고슬라보, 波蘭, 西班牙 等은 극도의 독재정치를 實行하는 대표적 국가다.
+양키의 米國이 루즈벨트 대통령 新任後 광범한 독재권을 장악하고 尨大한 인풀레 政策을 쓰고 잇는 것은 米國이 세계적으로 정치, 경제에 관계를 깊이 가진 것만큼 주시의 的이 되어 잇다.
+세계의 6分의 1의 면적과 인구를 가지고 東半球北部에 聳立하야 독특한 정치, 경제조직을 가진 蘇聯이 형식은 다르나 强大한 獨裁政治下에 잇는 것도 독재정치의 일례임을 免할 수 없다.
+土耳其, 中國, 遲羅 等의 亞細亞 諸國이 강대한 獨裁政治下에 잇고 南米, 中米, 諾國이 또한 半反亂 及 독재상태에 잇는 것은 世界獨裁政治의 波濤를 방지 즉 提坊이 脆弱한 때문이 아닐가.
+(以下 50행 不得己 略-원문)＜21＞
+＜18-21＞

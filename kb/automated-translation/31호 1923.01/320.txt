@@ -1,0 +1,98 @@
+Magazine Title: 개벽
+Publication Date: 1923년 01월 01일
+Article Title: 餘談 (Idle Talk/Postscript)
+Author: Editor
+Article Type: 사고·편집후기 (Notices/Editor's Postscript)
+
+餘談 (Idle Talk/Postscript)
+
+The initial plans for the New Year's issue were changed significantly. This happened naturally due to page count constraints. The first thought was that it would be good to make it a double-sized issue, but we did not do so. It is also true that the saying "one sŏm of rice costs 6 Wŏn" moved the editor's heart.
+
+The prize contest for children's stories was a great success. It is regrettable to the selected winners and the readers who were anticipating them that we could only announce the names of the selected individuals in this issue. However, they will be published in order starting from the next issue.
+
+In the new year, intending to work a bit more diligently, we have decided to publish regional issues starting from March 1st of the coming spring, investigating the social conditions in each region as they are. This will rely more on the assistance of influential figures in those regions than on our own efforts. This is because without such help, success cannot possibly be expected.
+
+We do not wish to repeat stories from the past year here, but we absolutely want to say just this one thing. That is, the most notable phenomenon during last year was that, while Koreans within Chosŏn focused their thoughts on economic problems and became involved in social movements, Japanese people within Chosŏn began to engage in the field of cultural enlightenment (敎化 事業) projects. There are many people involved, but individuals like Hosoi Hajime (細井肇), Itabashi Kikumatsu (板橋菊松), and Yanagi Muneyoshi (柳宗悅) are among them. This is the best-conceived thing among the activities they undertake. Fundamentally, it concerns what to do about the Korea problem. How will this movement unfold in the new year, Kyehae (癸亥)? We surely cannot watch idly. <117>
+
+**Summary**
+
+This editor's postscript discusses changes to the New Year's issue of *Kaebyŏk* magazine due to page limits and economic hardship (high rice prices). It announces the success of a children's story contest, plans for future regional issues requiring local support, and reflects on the past year. The editor notes a key trend: Koreans focusing on economic issues and social movements, while certain Japanese figures initiated "cultural enlightenment" projects in Korea, a development the editor views with cautious observation. For historians, the article offers insights into the practical challenges faced by Korean publishers (economic constraints), their engagement strategies (contests, regional focus), and, most significantly, a contemporary Korean perspective on the burgeoning Japanese cultural activities within the colony, framing them explicitly as related to the "Korea problem" and warranting careful scrutiny.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+細井肇	세이 하지메	Hosoi Hajime
+板橋菊松	이타바시 기쿠마쓰	Itabashi Kikumatsu
+柳宗悅	야나기 무네요시	Yanagi Muneyoshi
+癸亥	계해	Kyehae
+
+**Glossary**
+
+餘談	여담	Idle talk, postscript, digression
+新年號	신년호	New Year's issue (of a publication)
+만히	많이	Many, much (older spelling)
+되엇다	되었다	Became (older spelling)
+그러케	그렇게	Like that, so (older spelling)
+倍大號	배대호	Double-sized issue
+조켓다	좋겠다	Would be good (older spelling)
+나락	나락	Unhulled rice, paddy
+움즉인	움직인	Moved (older spelling)
+懸賞	현상	Offering a prize, prize contest
+童話	동화	Children's story, fairy tale
+募集	모집	Recruitment, collection, call for entries
+다못	다만	Only, merely, just (older form/spelling)
+氏名	씨명	Full name
+發布	발포	Announcement, proclamation
+當者	당자	The person concerned, the said party
+暗期	암기	To anticipate secretly, look forward to
+來號	내호	Next issue (of a publication)
+딸하	따라	According to, following (older spelling)
+잇서	있어	In, at (preposition, older spelling of 에서 or particle usage)
+하야	하여	Doing, as (connective verb ending, older form)
+陽春	양춘	Warm spring
+비롯하야	비롯하여	Beginning with, starting from (older spelling)
+현상	현상	Phenomenon, current state
+내이기로써	내기로서	As (deciding) to publish (older grammatical form)
+유지	유지	Influential person, person of renown
+원조을	원조를	Aid, support, assistance (older object marker)
+그러치	그렇지	Like that, so (older spelling/form)
+期하다	기하다	To expect, anticipate, look forward to
+업는	없는	Non-existent, without (older spelling)
+이약이	이야기	Story, talk (older spelling)
+여긔에	여기에	Here (older spelling)
+십지	싶지	To not want to (negative desire auxiliary verb, older spelling)
+마듸	마디	Word, phrase, joint (older spelling)
+반듯이	반드시	Surely, certainly, without fail (older spelling)
+最著	최저	Most notable, most conspicuous
+現象	현상	Phenomenon
+경제문제	경제문제	Economic problem/issue
+적신	적신	Soaked, drenched; here: involved in, dabbled in
+동시에	동시에	At the same time
+일본인	일본인	Japanese person
+敎化 事業	교화 사업	Cultural enlightenment project/work (term used in colonial context)
+방면	방면	Direction, field, area
+대이기	대기	To touch, apply, start (older spelling)
+잇스나	있으나	Although there is/are (older spelling)
+가튼	같은	Like, such as (older spelling)
+근본적	근본적	Fundamental, basic
+펴져	펴져	To spread out, unfold
+恬然히	염연히	Calmly, indifferently, nonchalantly
+업겟지	없겠지	Will probably not be, likely not exist (older spelling)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제31호
+발행일	1923년 01월 01일
+기사제목	餘談
+기사형태	사고·편집후기
+
+餘談
+新年號 처음 계획은 만히 변경되엇다. 그것은 頁數의 관계에 스스로 그러케 됨이다. 倍大號를 하엿스면 조켓다 한 것이 처음 생각이엇스나 그러케 아니하엿다. 나락 한 섬에 6圓한다는 말이 編者의 마음을 움즉인 것도 사실이다.
+
+懸賞의 童話募集은 훌륭히 성공하엿다. 이번 호에 다못 選된 이의 氏名 뿐을 發布하기에 그친 것이 入選된 當者 또는 그것을 暗期하던 독자에게 미안하다. 그러나 그것은 來號로부터 順을 딸하 발표될 것이다.
+
+우리는 새해에 잇서 더 좀 똑똑하게 일하리라 하야 陽春 3월의 1일로 비롯하야 각 지방에 잇는 사회의 현상을 그대로 조사하야써 지방호를 내이기로써 하엿다. 이것은 우리 노력 보다 그 지방에 잇는 유지의 원조을 빌게 될 것이다. 그러치 아니하고는 도저히 성공을 期할 수 업는 故이다.
+
+지난 해의 이약이를 여긔에 또 하고 십지는 아니하나 이 한마듸 뿐은 반듯이 하고 십다. 다른 말이 아니라 작년 중의 最著現像은 朝鮮 안에 잇는 朝鮮人으로 경제문제에 생각이 모이고 사회운동에 손을 적신 일이 잇는 동시에 朝鮮 안에 잇는 일본인이 敎化 事業의 방면에 손을 대이기 시작한 그것이다. 거긔에 여러 사람이 잇스나 細井肇, 板橋菊松, 柳宗悅 가튼 사람은 그 중의 一人일 것이다. 이것이 그들의 하는 일로서는 가장 잘 생각한 일이다. 근본적으로 조선문제를 어떠케 하자는 말이다. 이 운동이 新年인 癸亥에 잇서는 어떠케 펴져 갈는지. 우리로서 恬然히 볼 수는 업겟지.＜117＞

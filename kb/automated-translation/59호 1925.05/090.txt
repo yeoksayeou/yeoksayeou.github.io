@@ -1,0 +1,69 @@
+Magazine Title: 개벽
+Publication Date: 1925년 05월 01일
+Article Title: 新刊紹介 (New Publication Introduction)
+Author: Not specified
+Article Type: 소식 (News/Announcement)
+
+New Publication Introduction
+
+*Kim Kongjak ŭi Aesang* (The Sorrowful Thoughts of Kim Kongjak) - This is a collection of beautiful writings solely by the women of Chosŏn (朝鮮); it is the first attempt in Chosŏn and also an interesting harvest. Price: 1 Wŏn 20 Chŏn. Publisher: Ch'ŏngjosa (靑鳥社), 123 Kwanhun-dong, Kyŏngsŏng-bu.
+
+*Saengmyŏng ŭi Kwasil* (The Fruit of Life) - This is a work by Ms. Kim Myŏngsun (金明淳), regarded as Chosŏn's only female writer, who has received much expectation from many people. As the protagonist of many issues, this is a collection of creative works depicting her life and contemplation with subtle sentences and a meticulous writing style; besides poetry and fiction, there are also several beautiful elegant prose pieces (想華). Price: 70 Chŏn. Publisher: Hansŏng Toso Chusikhoesa (漢城圖書株式會社), 32 Kyŏnji-dong. Postal Transfer Account: Kyŏngsŏng 6760. <55>
+
+**Summary**
+
+This article introduces two newly published books in May 1925. The first, "Kim Kongjak ŭi Aesang," is highlighted as a pioneering collection composed entirely of writings by Korean women. The second, "Saengmyŏng ŭi Kwasil," is a collection of creative works (poetry, fiction, essays) by Kim Myŏngsun, described emphatically as Korea's sole female writer, reflecting her life and thoughts. Historians might find this article interesting as it documents the early efforts to publish works by Korean women during the colonial period, highlighting both the emergence of female authors like Kim Myŏngsun and the establishment of Korean publishing houses (Ch'ŏngjosa, Hansŏng Toso). The description of Kim Myŏngsun as the "only" female writer, while possibly an overstatement, underscores the perceived rarity and significance of female literary voices at the time.
+
+**Named Entities**
+
+金孔雀	김공작	Kim Kongjak
+朝鮮	조선	Chosŏn
+京城府	경성부	Kyŏngsŏng-bu
+寬勳洞	관훈동	Kwanhun-dong
+靑鳥社	청조사	Ch'ŏngjosa
+金明淳	김명순	Kim Myŏngsun
+堅志洞	견지동	Kyŏnji-dong
+漢城圖書株式會社	한성도서주식회사	Hansŏng Toso Chusikhoesa
+京城	경성	Kyŏngsŏng
+
+**Glossary**
+
+新刊紹介	신간소개	New Publication Introduction
+哀想	애상	Sorrowful thoughts; Elegy
+女子	여자	Woman; Female
+試驗	시험	Attempt; Trial; Experiment
+자미로운	재미로운	Interesting; Amusing (Older spelling of 재미있는/재미로운)
+收穫	수확	Harvest; Achievement
+定價	정가	Fixed Price
+壹圓貳拾錢	일원 이십 전	One Won Twenty Chŏn (Uses older Hanja numerals 壹 for 1, 貳 for 2)
+發行所	발행소	Publishing Place; Publisher
+唯一한	유일한	Only; Sole
+女流作家	여류작가	Female Writer
+期待	기대	Expectation
+밧든	받던	Received; Who received (Older spelling/conjugation of 받다)
+만흔	많은	Many; Much (Older spelling of 많은)
+主人公	주인공	Protagonist; Main Figure
+生活	생활	Life; Living
+思索	사색	Contemplation; Thought
+微妙한	미묘한	Subtle; Delicate
+緻密한	치밀한	Meticulous; Detailed; Dense
+筆致	필치	Writing style; Brushwork
+創作集	창작집	Collection of Creative Works
+小說	소설	Novel; Fiction
+外에도	외에도	Besides; In addition to
+想華	상화	Elegant prose pieces; Literary sketches (lit. thought-flower)
+株式會社	주식회사	Stock Company; Corporation
+振替口座	진체구좌	Postal Transfer Account
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제59호
+발행일	1925년 05월 01일
+기사제목	新刊紹介
+기사형태	소식
+
+新刊紹介
+金孔雀의 哀想  朝鮮의 女子들 뿐의 아름다운 글을 모아논 것이 이것이니 朝鮮에 잇서서 첫 試驗이며 또한 자미로운 收穫이다. 定價 壹圓貳拾錢 發行所 京城府 寬勳洞 一二三番地 靑鳥社
+生命의 果實  朝鮮의 唯一한 女流作家로 여러 사람의 만흔 期待를 밧든 金明淳女史의 저서이다. 만흔 문제의 主人公으로써 그의 生活과 思索을 미묘한 문장과 치밀한 필치로 그린 創作集이니 詩와 小說은 물론이고 그 外에도 수편의 아름다운 想華도 잇다. 定價 70錢 發行所 堅志洞 32番地 漢城圖書株式會社 振替口座 京城6760番 ＜55＞

@@ -1,0 +1,75 @@
+**Header Section:**
+Magazine Title: 개벽 제5호
+Publication Date: Not specified
+Article Title: 各民族成年人의 平均身丈 (Average Height of Adult Males of Various Peoples)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation:**
+Average Height of Adult Males of Various Peoples
+
+Patagonian people: 5 feet 9 inches
+Negro: 5 feet 7 inches
+British people: 5 feet 6 inches
+German people: 5 feet 5 inches
+French people: 5 feet 4 inches
+Korean people: 5 feet 4 inches
+Lapp people: 5 feet
+Japanese people: 5 feet 3 inches
+Bushman people: 4 feet 6 inches <76>
+
+**Summary**
+
+This short article lists the supposed average heights of adult males from various ethnic groups around the world, using feet and inches. It ranks Patagonians as the tallest and Bushmen as the shortest. From a Korean colonial history perspective, it's interesting that Koreans (朝鮮人) are listed with the same height as the French (佛國人) and taller than the Japanese (日本人). This subtly challenges the common colonial-era racial hierarchies promoted by Japan which often depicted Koreans as physically inferior, presenting Koreans instead as comparable in stature to a major European nation and taller than their colonizers.
+
+**Named Entities**
+
+파타꼬니야人	파타고니아인	Patagonian people
+네꾸로	네그로	Negro
+英國人	영국인	British people
+께루만人	게르만인	German people
+佛國人	불국인	French people
+朝鮮人	조선인	Korean people
+랏푸	라프	Lapp people
+日本人	일본인	Japanese people
+붓시만	부시맨	Bushman people
+
+**Glossary**
+
+잡지명	잡지명	Magazine title
+발행일	발행일	Publication date
+기사제목	기사제목	Article title
+기사형태	기사형태	Article type
+잡저	잡저	Miscellaneous writing; feature article
+各民族	각민족	Each ethnic group/people
+成年人	성년인	Adult person
+平均身丈	평균 신장	Average height
+~人	~인	Person/people (suffix for ethnicity/nationality)
+尺	척	Ch'ŏk (Unit of length, likely used as 'foot' here)
+寸	촌	Ch'on (Unit of length, likely used as 'inch' here)
+께루만人	게르만인	German people (Older transliteration)
+佛國人	불국인	French people (佛國 = France, an older term)
+朝鮮人	조선인	Korean people
+랏푸	라프	Lapp people (Older transliteration)
+붓시만	부시맨	Bushman people (Older transliteration)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제5호
+발행일	
+기사제목	各民族成年人의 平均身丈
+기사형태	잡저
+
+各民族成年人의 平均身丈
+파타꼬니야人 5尺 9寸
+네꾸로       5尺 7寸
+英國人       5尺 6寸
+께루만人     5尺 5寸
+佛國人       5尺 4寸
+朝鮮人       5尺 4寸
+랏푸         5尺
+日本人       5尺 3寸
+붓시
+만       4尺 6寸 ＜76＞

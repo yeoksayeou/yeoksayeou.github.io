@@ -1,0 +1,384 @@
+Magazine Title: 개벽 제46호
+Publication Date: 1924년 04월 01일
+Article Title: 地球星 (Earth Star)
+Author: Not specified
+Article Type: 소식 (News/Information)
+
+Earth Star
+
+Size of the Earth
+
+Area Land Area (陰地) 56,255,000 square miles
+Water Surface 141,295,000 square miles
+Total 196,940,000 square miles
+Equatorial Circumference 24,872.4 miles
+Earth Volume 259,944,035,515 cubic miles
+Note: 1 mile (마일) corresponds to 14 chō (町), 45 kan (間), 1 ch'ŏk (尺) in Japanese ri (里) units.
+
+Living Expenses of Workers in Various Countries
+
+Income Average Expenses
+Rent Fuel Food Other
+USA 657.39 (Dollars) 76.03 26.67 350.62 302.00
+UK 502.76 47.21 20.47 232.61 202.00
+France 413.80 32.99 13.44 182.11 185.00
+Belgium 833.23 25.93 15.99 200.64 187.00
+Germany 320.02 27.07 10.59 168.82 123.00
+Switzerland 358.56 25.44 22.48 179.28 130.00
+
+Number of Newspapers in Major World Cities
+
+City Population (Unit: Thousands) Type Number
+Greater London 7,419 Daily, Weekly 44,715
+New York 5,621 Daily & Weekly 92
+Paris 2,888 Daily & Weekly 43
+Tokyo 2,173 Daily 32
+Moscow 1,121 ― 28
+Vienna 2,150 Daily & Weekly 45
+Berlin 2,000 Daily & Weekly 63
+Beijing 1,000 Daily 35
+
+Women's Suffrage Rights
+
+(Countries around the world that have granted suffrage to women and the year it was first granted are as follows)
+England 1918 Austria 1918
+Australian Federation 1902 Germany 1918
+Canada 1918 Hungary 1918
+Norway 1913 Poland 1918
+Denmark 1915 France 1919
+Netherlands 1917 Spain 1919 <48>
+Russia 1917 USA 1920
+Sweden 1918
+
+Military Situation of World Major Powers
+
+Troop Strength Service Term Military Expense Burden per Citizen Cost per Soldier
+Russia 1,000,000 Conscription 2 years 30,000 (Yen) 4.00 (Yen) 425 (Yen)
+Volunteer
+UK 378,000 Volunteer 7+ years 530,000 11.30 2,052
+USA 352,000 Volunteer 3.5+ years 510,000 3.20 3,500
+France 690,000 Conscription 1.5 years 680,000 18.00 970
+Italy 250,000 Conscription 8 months 240,000 6.50 790
+Japan 236,000 Conscription 2 years 210,000 4.50 280
+Germany 28,000 Volunteer 12 years 41,000 .70 134
+
+Telephones in Major World Cities
+
+City Name Tel. Count Per Person City Name Tel. Count Per Person City Name Tel. Count Per Person
+San Francisco 153,477 29.4 Toronto 25,686 17.1 Paris 95,033 3.2
+Los Angeles 145,002 21.3 Hamburg 85,748 7.4 Leningrad 62,927 3.0
+Chicago 575,840 20.5 Sydney 57,957 7.0 Brussels 23,809 3.5
+Washington 88,810 20.2 Munich 42,174 6.7 Glasgow 40,965 3.3
+Boston 294,678 18.6 Melbourne 48,034 6.5 Liverpool 38,493 3.3
+New York 892,198 15.6 London 212,350 4.3 Rome 12,701 3.1
+St. Louis 137,368 14.8 Vienna 79,858 4.3 Tokyo 49,900 2.0
+Copenhagen 90,625 13.9 Amsterdam 28,157 4.3 Beijing 8,500
+Philadelphia 250,982 13.6 Moscow 57,358 3.2 Kyŏngsŏng 3,472
+Berlin 199,555 10.5 Rio de Janeiro 27,478 2.4
+
+Appendix: "Los Angeles" is in California, USA, population approx. 500,000. "Boston" is in the eastern USA, America's second-best port, shipbuilding is most prosperous. "Toronto" is the second city of the Canadian Federation, population 250,000. "St. Louis" is a city in the central USA, population approx. 690,000. "Philadelphia" is commonly called Philly (費府), a city in the eastern USA, population approx. 1,550,000. "Sydney" is Australia's first city, population approx. 500,000. "Glasgow" is in Scotland, UK, Britain's second city, world's number one in shipbuilding, population approx. 780,000. "Liverpool" is on the west coast of England, the country's second trading port, railways and canals radiate in all directions, transportation is extremely convenient, starting point for American routes.
+
+Unionized Workers in Various Countries
+
+Country Name 1913 1918 1919
+UK 4,192,000 6,645,000 8,024,000
+USA 2,722,000 4,000,000 5,607,000
+France 1,027,000 2,000,000 2,500,000 <49>
+Italy 973,000 ― 1,800,000
+Germany 5,572,000 5,801,000 9,000,000
+Japan 1,308,000 2,033,000 2,149,000
+Austria 252,000 295,000 772,000
+Hungary 107,000 500,000 500,000
+Belgium 203,000 450,000 750,000
+Netherlands 220,000 456,000 625,000
+Denmark 154,000 316,000 360,000
+Sweden 136,000 302,000 339,000
+Norway 64,000 108,000 144,000 (Note: seems like a typo in original, maybe 142,000 or 144,000?)
+Switzerland 89,000 177,000 224,000
+Finland 28,000 21,000 41,000
+Spain 128,000 150,000 211,000
+Czechoslovakia 107,000 161,000 657,000
+Canada 176,000 249,000 378,000
+Australia 498,000 582,000 628,000
+
+Area and Population of Each Continent
+
+Continent Area (sq mi) Population (Unit: thousand) Pop. per sq mi
+Asia 17,206,000 921,000 53.5
+Africa 11,622,619 142,000 12.00
+Europe 3,872,561 476,000 112.9
+North America 8,589,257 136,000 15.8
+South America 7,570,015 64,000 8.4
+Oceania 3,312,613 9,000 2.7
+Polar Regions 5,081,935
+Total 57,255,000 1,747,000 50.5
+
+Lower House Member Election Qualifications in Various Countries
+
+Country Name Age Qualification Other Qualifications
+Sweden 24 years or older
+Netherlands 25 years or older Direct national tax payer
+Denmark 25 years or older Resident for 1 year or more
+Norway 25 years or older Resident for 5 years or more
+Portugal 21 years or older Must be literate
+USA 21 years or older Resident for 2 years or more
+UK 21 years or older Resident for 6 months or more
+France 21 years or older Resident for 6 months or more
+Italy 21 years or older Limited to those 30 years or older who are literate
+Spain 25 years or older Resident for 2 years or more
+Japan 25 years or older National taxpayer of 3 Yen or more
+Belgium 25 years or older Resident for 1 year or more <50>
+
+**Summary**
+
+This article from the April 1924 issue of *Kaebyŏk* presents a compilation of global statistics under the title "Earth Star." It covers diverse topics including Earth's physical dimensions, comparative living costs for workers in Western nations, newspaper counts in major cities, the status of women's suffrage, military strengths and expenditures of major powers, telephone penetration in cities worldwide, the growth of unionized labor, continental areas and populations, and lower house election qualifications across various countries. For colonial Korean historians, this piece is interesting as it reflects an outward-looking perspective, providing Koreans with comparative data about the world beyond the peninsula and the Japanese empire during a period of restricted information flow. The inclusion of data on Japan alongside Western powers, Russia, and China, as well as the specific listing of Kyŏngsŏng (Seoul) in the telephone statistics (showing significantly lower penetration than Tokyo or major Western cities), subtly highlights Korea's position within the global and imperial context of the time. The criteria for suffrage and military comparisons might also have implicitly informed contemporary Korean discussions about modernity, national strength, and political rights.
+
+**Named Entities**
+
+地球	지구	Earth
+米國	미국	USA (America)
+英國	영국	UK (England)
+佛蘭西	불란서	France
+白耳義	벨기에	Belgium
+獨逸	독일	Germany
+瑞西	스위스	Switzerland
+大倫敦	대륜돈	Greater London
+紐育	뉴욕	New York
+巴里	파리	Paris
+東京	동경	Tokyo
+모스코바	모스크바	Moscow
+維也納	유연나	Vienna
+伯林	백림	Berlin
+北京	북경	Beijing
+英吉利	영길리	England
+墺太利	오태리	Austria
+濠洲聯邦	호주련방	Australian Federation
+加奈佗	가나타	Canada
+諾威	노르웨이	Norway
+丁抹	정말	Denmark
+和蘭	화란	Netherlands
+露西亞	로씨아	Russia
+瑞典	서전	Sweden
+洪牙利	홍아리	Hungary
+波蘭	파란	Poland
+西班牙	서반아	Spain
+佛國	불국	France
+伊太利	이태리	Italy
+日本	일본	Japan
+獨逸	독일	Germany
+桑港	상항	San Francisco
+로스안젤	로스앤젤레스	Los Angeles
+市俄古	시카고	Chicago
+華盛頓	화성돈	Washington
+보스톤	보스톤	Boston
+센트루이스	센트루이스	St. Louis
+코펜하겐	코펜하겐	Copenhagen
+필나뗄퓌아	필라델피아	Philadelphia
+토론토	토론토	Toronto
+漢堡	함부르크	Hamburg
+시뜨니	시드니	Sydney
+문헨	뮌헨	Munich
+멜뽀룬	멜버른	Melbourne
+倫敦	륜돈	London
+암스터-땀	암스테르담	Amsterdam
+리오때쟈네이로	리오데자네이로	Rio de Janeiro
+레닌그라드	레닌그라드	Leningrad
+부랏셀	브뤼셀	Brussels
+끌나스고	글래스고	Glasgow
+리바-푸ㄹ	리버풀	Liverpool
+로-마	로마	Rome
+京城	경성	Kyŏngsŏng (Seoul)
+칼니포니아州	캘리포니아주	California State
+加奈佗聯邦	가나타련방	Canadian Federation
+濠洲	호주	Australia
+蘇格蘭	소격란	Scotland
+亞米利加	아메리카	America
+墺太利	오태리	Austria
+匈牙利	헝가리	Hungary
+후인란드	핀란드	Finland
+첵크슬라박	체크슬로박	Czechoslovakia
+오스트라리야	오스트랄리아	Australia
+亞細亞	아세아	Asia
+亞弗利加	아프리카	Africa
+歐羅巴	구라파	Europe
+北亞米利加	북아메리카	North America
+南亞米利加	남아메리카	South America
+大洋洲	대양주	Oceania
+極地	극지	Polar Regions
+葡萄牙	포도아	Portugal
+
+**Glossary**
+
+地球星	지구성	Earth Star (Title)
+面積	면적	Area
+陰地	음지	Land Area (lit. shaded land, used here for non-water surface)
+水面	수면	Water Surface
+赤道周圍	적도주위	Equatorial Circumference
+軆積	체적	Volume (older form of 체적)
+備考	비고	Note/Remarks
+勞動者	로동자	Worker (older spelling/pronunciation often used)
+生活費	생활비	Living Expenses
+家貸	가대	Rent (lit. house loan/rent)
+燃料	연료	Fuel
+食料	식료	Foodstuffs
+其他	기타	Other
+新聞紙數	신문지수	Number of Newspapers
+種數	종수	Number of Kinds/Types
+參政權	참정권	Suffrage Rights
+陸軍形勢	륙군형세	Land Army Situation/Strength (older spelling/pronunciation often used for 륙)
+在營年限	재영년한	Years of Active Service
+軍費	군비	Military Expense
+國民1人의 負擔	국민일인의 부담	Burden per Citizen
+兵員1人의 費用	병원일인의 비용	Cost per Soldier
+電話數	전화수	Number of Telephones
+1人當	일인당	Per Person
+附記	부기	Appendix/Additional Note
+組合勞動者	조합로동자	Unionized Workers (older spelling/pronunciation often used for 로동자)
+大陸	대륙	Continent
+1方哩當 人口	일방리당 인구	Population per square mile
+下院議院	하원의원	Member of the Lower House
+選擧資格	선거자격	Election Qualification
+年齡資格	년령자격	Age Qualification (older spelling 년령)
+居住者	거주자	Resident
+納付者	납부자	Payer (Taxpayer)
+讀書能力	독서능력	Literacy (lit. reading ability)
+잇는대	있는데	Which is located in (older spelling)
+잇는	있는	Which has/is (older spelling)
+最盛	최성	Most prosperous/thriving
+國稅	국세	National Tax
+圓	엔	Yen (Japanese currency unit)
+弗	불	Dollar (currency unit)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제46호
+발행일	1924년 04월 01일
+기사제목	地球星
+기사형태	소식
+
+地球星
+地球의 大
+
+面積  陰地         56,255,000方哩
+水面        141,295,000方哩
+合計        196,940,000方哩
+赤道周圍                                          24,872哩四
+地球軆積         2599,44,035,515立方哩
+備考  1哩(마일은 日本里數의 14町 45間 1尺에 相當함)
+
+各國 勞動者의 生活費
+
+收入                    平         均         費           用
+家貸       燃料       食料         其他
+米國   657.39(弗)              76.03       26.67      350.62        302.00
+英國   502.76                  47.21       20.47      232.61       202.00
+佛蘭西 413.80                  32.99       13.44      182.11        185.00
+白耳義 833.23                 25.93       15.99      200.64        187.00
+獨逸   320.02                  27.07       10.59      168.82        123.00
+瑞西   358.56                  25.44       22.48     179.28        130.00
+
+世界主要都市의 新聞紙數
+
+都市                 人口(單位 千人)              種數           新聞數
+大倫敦                    7.419                 日刊, 週刊       44, 715
+紐育                      5.621                 日刊及週刊           92
+巴里                      2.888                 日刊及週刊           43
+東京                      2.173                    日刊              32
+모스코바                  1.121                     ―               28
+維也納                    2.150                  日刊及週刊          45
+伯林                      2.000                  日刊及週刊          63
+北京                      1.000                     日刊             35
+
+婦人參政權
+
+(世界各國中 婦人에 參政權을 與한 國과 또 처음으로 與한 年數가 如左)
+英吉刊              1918                   墺太利              1918
+濠洲聯邦            1902                    獨逸               1918
+加奈佗              1918                   洪牙利              1918
+諾威                1913                    波蘭               1918
+丁抹                1915                   佛蘭西              1919
+和蘭                1917                   西班牙              1919     ＜48＞
+露西亞              1917                    米國               1920
+瑞典                1918
+
+世界主要國 陸軍形勢
+
+兵力       在營年限        軍費      國民1人의 負擔   兵員1人의 費用
+露國  1,000,000     徵兵制  2年      30,000(円)        4.00(円)          425(円)
+志願制
+英國   378,000     志願制 7年以上    530,000          11.30             2,052
+米國   352,000     志願制 3年以上半  510,000           3.20             3,500
+佛國   690,000     徵兵制 1年半      680,000          18.00              970
+伊太利 250,000     徵兵制 8個月      240,000           6.50              790
+日本   236,000     徵兵制   2年      210,000           4.50              280
+獨逸    28,000     至願制 12年        41,000            .70              134
+
+世界主要都市의 電話
+
+都市名    電話數   1人當    都市名    電話數   1人當   都市名   電話數   1人當
+桑港      153,477    29.4    토론토     25,686    17.1    巴里    95,033      3.2
+로스안젤  145,002    21.3     漢堡      85,748     7.4  레닌그라드 62,927     3.0
+市俄古    575,840    20.5    시뜨니     57,957     7.0    부랏셀   23,809      3.5
+華盛頓     88,810     20.2     문헨      42,174     6.7   끌나스고  40,965     3.3
+보스톤    294,678     18.6    멜뽀룬     48,034     6.5   리바-푸ㄹ 38,493     3.3
+紐育      892,198     15.6     倫敦     212,350     4.3     로-마   12,701     3.1
+센트루이스137,368     14.8    維也納      79,858    4.3     東京    49,900     2.0
+코펜하겐   90,625     13.9   암스터-땀    28,157    4.3     北京     8,500
+필나뗄퓌아250,982     13.6    모스코바    57,358    3.2     京城     3,472
+伯林      199,555     10.5 리오때쟈네이로 27,478    2.4
+
+附記「로스안젤」은 米國 칼니포니아州에 잇는대, 人口 約 50萬,「뽀스톤」은 米의 東에 잇는 米國 第2良港으로서 造船業이 最盛「토론토」는 加奈佗聯邦 第2의 都會로서 人口 25萬 센트루이스는 米國 中部의 都會로서 人口 約 69萬「퓔나뗄퓌아」는 通稱 費府이니, 米의 東部의 都會로서, 人口 約 155萬「시뜨니」는 濠洲 第1의 都市, 人口 約 50萬「끌나스꼬」는 英國의 蘇格蘭에 잇는 英國의 第2의 都會로서, 造船業이 世界 第1이오 人口 約 78萬「리바-푸-ㄹ」은 英國 西岸에 잇는 同國 第2의 貿易港으로서 鐵道運河가 四通八達, 交通至便, 亞米利加 航路이 起占處.
+
+各國의 組合勞動者
+
+國名                1913年            1918年           8919年
+英國              4,192,000          6,645,000          8,024,000
+米國              2,722,000          4,000,000          5,607,000
+佛國              1,027,000          2,000,000          2,500,000           ＜49＞
+伊太利             973,000              ―             1,800,000
+獨逸              5,572,000          5,801,000           9,000,000
+日本              1,308,000          2,033,000           2,149,000
+墺太利             252,000            295,000             772,000
+匈牙利             107,000            500,000             500,000
+白耳義             203,000            450,000             750,000
+和蘭               220,000            456,000             625,000
+丁抹               154,000            316,000             360,000
+瑞典               136,000            302,000             339,000
+諾威                64,000            108,000            1442,000
+瑞西                89,000            177,000             224,000
+후인란드            28,000             21,000              41,000
+西班牙             128,000            150,000             211,000
+첵크슬라박         107,000            161,000             657,000
+加奈太             176,000            249,000             378,000
+오스트라리야       498,000            582,000             628,000
+
+各大陸의 面積과 人口
+
+大陸            面積(方哩)          人口(單位千)        1方哩當 人口
+亞細亞         17,206,000             921,000              53.5
+亞弗利加       11,622,619             142,000              12.00
+歐羅巴          3,872,561             476,000              112.9
+北亞米利加      8,589,257             136,000               15.8
+南亞米利加      7,570,015              64,000                8.4
+大洋洲          3,312,613               9,000                2.7
+極地            5,081,935
+合計           57,255,000            1,747,000                50.5
+
+各國下院議院 選擧資格
+
+國名                 年齡資格                其他資格
+瑞典                 24歲 以上
+和蘭                 25歲 以上           直接 國稅 納付者
+丁抹                 25歲 以上           1箇年 以上 居住者
+諾威                 25歲 以上           5箇年 以上 居住者
+葡萄牙               21歲 以上           讀書能力이 잇는者
+米國                 21歲 以上           2箇年 以上 居住者
+英國                 21歲 以上           6箇月 以上 居住者
+佛國                 21歲 以上           6箇月 以上 居住者
+伊太利               21歲 以上           30歲 以上의 人으로 讀書能力이 잇는 者에 限함
+西班牙               25歲 以上           2箇年 以上 居住者
+日本                 25歲 以上            國稅 3圓 以上 納付者
+白耳義               25歲 以上            1箇年 以上 居住者               ＜50＞
+＜48-50＞

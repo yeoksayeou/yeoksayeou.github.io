@@ -1,0 +1,244 @@
+Magazine Title: 개벽
+Publication Date: 1934년 11월 01일
+Article Title: 迷路線上의 朝鮮米 (Korean Rice on a Lost Path)
+Author: 朝鮮日報 徐椿 (Chosŏn Ilbo, Sŏ Ch'un)
+Article Type: 논설 (Editorial/Opinion Piece)
+
+Korean Rice on a Lost Path
+						Chosŏn Ilbo, Sŏ Ch'un
+
+I. The Trend of Korean Rice
+
+Viewed from a broad perspective, Korean rice can be seen as destined to move from an era of laissez-faire to an era of control, and from an era of control to an era of monopoly (尊賣時代).
+Comparing this to the course taken so far, the period up to January of Shōwa 3 (1928) belongs to the era of laissez-faire, and from February of the same year, with the implementation of Article 2 of the Rice Law (米穀法) in Korea, it entered the era of control. We now see it as a time when control has passed its initial stage and reached about the mid-stage.
+Rice control means "creating a system so that the state can easily bring about the desired state of rice in terms of quantity and price." Therefore, control first has a standard. What then is the objective in the case of rice control? (1) In terms of quantity, it is to ensure that the supply and demand of rice within Japan proper perfectly match (simply put, to eliminate surplus or shortage between production and consumption). (2) In terms of price, it is to stabilize the rice price within Japan proper at a level that can at least cover the rice production costs of Japanese farmers. Consequently, control secondly requires state intervention. It is utterly impossible to control the quantity to the state's desired amount and the price to the state's desired price by leaving the rice situation to its natural course (自然의 趨移). There must necessarily be state intervention aligned with that objective. Therefore, control presupposes state intervention.
+So, what means and methods are there for the state to control rice according to certain objectives? (1) Controlling the import/export and transfer (輸移出入) of rice would be one method. (2) Controlling rice production would be another method. (3) Controlling rice inspection would be another method. (4) Controlling the storage (貯藏) of rice and the release (解除) of stored rice would also be one method. What these several methods signify will become naturally understood by reading the following sections.
+
+II. Korean Rice is Passive <12>
+
+The fact that the objective of rice control is, in terms of quantity, to match supply and demand within Japan proper, and in terms of price, to prevent the harms of excessively high or low rice prices within Japan proper, is a point deserving special attention. Because of this, the position of Korean rice cannot escape being passive at any time. To elaborate, (1) for the sake of maintaining the balance of rice supply and demand within Japan proper, there is no alternative even if a supply surplus occurs in Korea, and (2) for the sake of maintaining the rice price within Japan proper, there can be cases where the rice price within Korea must fall, with no alternative.
+
+III. Existing Control Plans for Korean Rice
+
+(A) Restriction on Foreign Rice Imports into Korea
+During the era of laissez-faire for Korean rice, Korea transferred (移出) the maximum possible amount of its produced rice to the mainland (內地 - Japan), and in return, to supplement the resulting food shortage, Korea imported foreign rice (外米), often called "Annam rice" (安南米 - Vietnamese rice), and also Manchurian millet (滿洲粟) as substitute food.
+However, due to the great harvest throughout Japan and Korea in Shōwa 2 (1927), which led to a supply surplus and a sharp drop in rice prices within the mainland's rice supply-demand situation, the government, as a countermeasure, implemented Article 2 of the Rice Law in Korea in February of Shōwa 3 (1928), restricting the import of foreign rice into Korea through two methods.
+Rice Law Article 2: When the government deems it particularly necessary to adjust the supply and demand of rice, it may, by Imperial Ordinance, designate a period to increase, decrease, or exempt import duties on rice, or restrict its import.
+As indicated in the above article, the two methods are, firstly, increasing, decreasing, or exempting import duties, and secondly, implementing a permit system for imports or exports.
+Article 2 of the said old Rice Law was separated into two articles, Article 2 and Article 3, in the revised Rice Law of March, Shōwa 6 (1931).
+Article 2: When the government deems it necessary to adjust the quantity or market price of rice, it may, by Imperial Ordinance, designate a period to increase, decrease, or exempt import duties on rice. Article 3: The import or export of rice may not be undertaken without receiving government permission, except in cases where separate provisions exist in an Imperial Ordinance. This, in turn, changed in the Rice Control Law (米穀統制法) implemented in November last year, where Article 3 became Article 7 and Article 2 became Article 9, but the content of the articles remained exactly the same.
+
+(B) Restriction on Imports of Millet, Sorghum, and Proso Millet.
+This initially began with the restriction of millet (粟) and, with the implementation of the Rice Control Law, expanded its scope to include sorghum (高粱 - susu) and proso millet (黍 - kijang).
+Following the June 15th Incident (六一五事件) of Shōwa 7 (1932), the 63rd Diet session was held from late August to early September of the same year for emergency relief measures for agricultural villages (農村非常時局匡救). A part of the Rice Law was revised and implemented from October <13> 4th, Shōwa 7 (1932). It was in supplementary provision Article 4 of this revised Rice Law that the provision regarding the restriction on millet imports was first inserted. That is, "For the time being, when the government deems it necessary to adjust the quantity or market price of rice, it may, by Imperial Ordinance, designate a period to increase, decrease, or exempt import duties on millet."
+This was proposed and passed in the 64th Diet session in Shōwa 8 (1933), and with the Rice Control Law implemented from November 1st of the same year, the scope expanded to include sorghum and proso millet. Simultaneously, for these miscellaneous grains (雜穀), in addition to (1) the provision for increasing, decreasing, or exempting import duties, (2) an import/export permit system (輸出入要許可制) was also adopted.
+Rice Control Law Article 8 = When the government deems it particularly necessary for planning rice control, it may designate a period to restrict the import of millet, sorghum, or proso millet.
+Rice Control Law Article 9 = When the government deems it necessary for planning rice control, it may, by Imperial Ordinance, designate a period to increase, decrease, or exempt import duties on rice, millet, sorghum, or proso millet.
+Although not explicitly stated in the Rice Control Law, it is clear that these two articles, except for the rice import duty in Article 9 which also relates to Japan, primarily targeted miscellaneous grains imported into Korea.
+The restriction on foreign rice imports and the restriction on millet, sorghum, and proso millet imports mentioned above are based on the logic that "If the inflow of foreign rice and miscellaneous grains imported into Korea is reduced, the consumption of Korean rice within Korea will increase by that amount, and if the consumption of rice within Korea increases, the amount of Korean rice transferred to the mainland will decrease by that increased amount." This logic needs no further elaborate explanation (鰲言).
+
+(C) Seasonal Adjustment Purchase of Korean Rice
+This also originated from supplementary provision Article 5 of the revised Rice Law, amended during the 63rd Diet session in August-September of Shōwa 7 (1932) and implemented on October 4th of the same year. It became an established system simultaneously with the implementation of the Rice Control Law in Shōwa 8 (1933).
+Revised Rice Law Supplementary Provision Article 5 = For the time being, in order to make the monthly transfer quantity of Korean and Taiwanese rice to the mainland average out, the government may purchase, process, or store Korean and Taiwanese rice. The purchase or selling price in this case shall be determined based on the market price.
+This provision was transformed in the Rice Control Law as follows: Rice Control Law Article 4 = In order to make the monthly quantity of rice transferred from prefectures (道府縣) to outside the region, or from Korea or Taiwan to the mainland, average out, the government may, as prescribed by Imperial Ordinance, purchase rice during the out-shipment period (出廻期) and sell rice after the out-shipment period. The purchase or price in the preceding paragraph shall be determined based on the market price.
+
+(D) Policy Encouraging Long-Term Storage of Unhulled Rice (正租)
+This is the policy encouraging long-term storage of unhulled rice, which involves subsidizing <14> part of the facility, freight, and other miscellaneous costs (諸失費) for storage, and in cases where funds are borrowed using the stored unhulled rice as collateral, increasing the loan value (貸付價額) and offering significantly lower interest rates than usual. In exchange, the stored unhulled rice cannot be released at the discretion of the storage client until the specified release date.
+And both this seasonal adjustment purchase of Korean rice and the long-term storage of unhulled rice were devised based on the logic that "If Korean rice is kept within Korea, either as unhulled rice or after being milled into brown rice (玄米), the quantity transferred to Japan will be reduced accordingly." This also requires no elaborate explanation (鰲言).
+
+(E) Implementation of the Korean Grain Inspection Association (朝鮮穀物檢査會) Regulations
+This decree was announced as Governor-General Order No. 2 on September 24, Shōwa 7 (1932) and implemented from October 1st of the same year. Because this decree was stricter than the old Grain Inspection Rules (舊穀物檢査規則) which were abolished simultaneously with its implementation, the quantity of rice that passed inspection and could be exported or transferred became smaller compared to before.
+
+(F) Suspension of the Rice Production Increase Plan (産米增殖計劃)
+Because the Government-General of Korea (朝鮮總督府) declared the suspension of this plan this year, there will be no increase in rice production through land improvement in Korea, at least for the time being.
+
+(G) Temporary Rice Transfer Adjustment Law (臨時米穀移入調節法)
+This law passed the 65th Diet session last spring but has not yet been implemented. However, its eventual realization is self-evident given the nature of this law.
+Article 1: To adjust the quantity of Korean and Taiwanese rice transferred (移入) to the mainland, the government may purchase Korean and Taiwanese rice until March 11, Shōwa 10 (1935).
+Article 2: The price of rice purchased according to the realization of the preceding article shall be determined based on the market price within a certain price range specified by Imperial Ordinance.
+(Articles 3 and below omitted. Total 5 articles)
+Furthermore, the rice purchased under this Temporary Transfer Adjustment Law is different in nature from the seasonal adjustment purchase under Article 4 of the current Rice Control Law; this point should be noted.
+Let's briefly explain the differences between the two here. They differ in the following two points:
+(1) In the seasonal adjustment purchase of Korean rice under Article 4 of the Rice Control Law, purchases can only be made during the new crop out-shipment period (新穀出廻期) (e.g., the 4-month period from November to February of the following year). However, the purchase of Korean rice under the Temporary Rice Transfer Adjustment Law can be carried out not only during the new crop out-shipment period but at any time throughout the entire rice year (一米穀年度 - November to October of the following year).
+(2) Rice purchased under Article 4 of the Rice Control Law must be sold back within the same rice year. In contrast, rice purchased under the Temporary Rice Transfer Adjustment Law does not need to be sold within the rice year it was purchased and can be carried over to the following year. <15>
+To reiterate the above, the difference from the seasonal adjustment purchase under Article 4 of the Rice Control Law is that under the Temporary Rice Transfer Adjustment Law, Korean rice can be purchased whenever necessary, and there is no issue even if the purchased rice is not sold within the year and carried over.
+From the implementation of Article 2 of the Rice Law in Korea in February of Shōwa 3 (1928) until now, over these 7 years, the systems and facilities devised and implemented to control the transfer (移出) of Korean rice to the mainland are mostly covered by the seven items listed above.
+
+IV. The Future of Korean Rice
+
+Looking at the countermeasures for Korean rice spanning the aforementioned 7 items, it becomes naturally clear that from the perspective of mainland farmers, these existing measures against the transfer of Korean rice undoubtedly feel like scratching an itch through one's boot (隔靴搔痒). Why? Because, with such
+(1) feeble (微微) measures as preventing the import of foreign rice, millet, sorghum, proso millet, etc., into Korea, (2) keeping brown rice and unhulled rice confined within Korea, and (3) suspending the rice production increase plan within the mainland and Korea, there is no way to prevent the torrential inflow (滔滔한 유입의 勢) of Korean rice towards the mainland, and consequently, for the mainland rice market, there seems to be no way to fend off the sharp drop in rice prices caused by the inflow of Korean rice.
+Then, from the mainland's perspective, what would be the most effective and appropriate countermeasure for Korean rice? It goes without saying that it would be (1) implementing a permit system for the transfer of Korean rice and (2) imposing taxes on transferred Korean rice. As introduced earlier, this permit system and taxation system are already being implemented for foreign rice, millet, sorghum, proso millet, etc. Therefore, if this system were simply transferred and adopted for the transfer of Korean rice into the mainland, the mainland side could largely achieve the desired effect regarding the Korean rice countermeasure.
+To elaborate, if provisions restricting the transfer of Korean and Taiwanese rice were established within the articles of the Rice Control Law, stating:
+1. The transfer in (移入) or transfer out (移出) of rice may not be undertaken without receiving government permission, or
+2. When the government deems it necessary for planning rice control, it may, as prescribed by Imperial Ordinance, designate a period to restrict the transfer in of rice, and simultaneously, in parallel with this:
+3. When the government deems it particularly necessary for planning rice control, it may, by Imperial Ordinance, designate a period to increase or exempt the transfer-in tax (移入稅) on rice,
+inserting regulations to tax Korean and Taiwanese rice into the Rice Control Law and implementing them would allow the mainland side to avoid the blow received from the transfer of Korean and Taiwanese rice.
+Therefore, adopting a restriction system and a taxation system for the transfer of Korean and Taiwanese rice would be <16> an effective fundamental countermeasure from the mainland's perspective.
+For this reason, for the past 3-4 years, there have been quite a few people on the mainland side advocating for the adoption of a transfer restriction system and taxation system for Korean rice. In fact, besides the Ministry of Agriculture and Forestry's (農林府案) proposal (regarding countermeasures for Korean and Taiwanese rice) that almost got submitted to the 65th Diet session last spring before being withdrawn, there was content that strongly included this coloration. However, thus far, it has not been implemented for two reasons:
+1. Implementing restriction and taxation systems for Korean rice would constitute discriminatory treatment, which is unpalatable (滋味가 없다) for the governance of Korea (期鮮統治上).
+2. Furthermore, having implemented the Rice Production Increase Plan in Korea to solve the mainland's population and food problem, restricting the transfer of the resulting increased Korean rice would affect trust and face (信義와 體面).
+However, if bumper crops continue to outnumber poor harvests across the three regions (mainland, Korea, Taiwan), surplus rice continues to pile up with no means of disposal, and new outlets for rice are not developed, then it seems highly likely that, before long, Korean rice will inevitably face the implementation of a transfer restriction system and a transfer tax system.
+To elaborate, as yet, there are no legal restrictions based on a limitation system or taxation system. Therefore, despite the existence of the 7 aforementioned countermeasures for Korean rice, legally speaking, the export (유출 - outflow/transfer) of Korean rice to Japan is still free. Consequently, even if there is a purchase system, one can choose not to comply with the purchase and transfer rice to the mainland; even if there is a long-term storage system, one can choose not to comply with storage and transfer rice to the mainland. However, once a restriction system becomes law, this freedom of transfer will completely disappear.
+As briefly mentioned before, the Ministry of Agriculture and Forestry's proposal intended for submission to the 65th Diet session last spring contained a transfer restriction system. However, due to the political reasons mentioned earlier, it was not even proposed to the Diet. Instead, what was submitted to and passed by the Diet was the aforementioned "Temporary Rice Transfer Adjustment Law." But since this still recognized the freedom of transfer for Korean rice, it caused considerable dissatisfaction among mainland farmers. For this reason, while passing it, the 65th Diet attached a supplementary resolution (附帶決意) indicating that such feeble measures were insufficient and requested the government's reconsideration. That supplementary resolution was:
+"In view of the unpreparedness and lack of thoroughness of the current system for adjusting the quantity and price of rice, the government should promptly establish an appropriate control plan covering the entire mainland and external territories (內外地) and convene an extraordinary Diet session to submit it."
+Although the resolution ends with "covering the entire mainland and external territories," its real target was solely Korean and Taiwanese rice. Furthermore, the mention of an extraordinary <17> Diet session (臨時議會云云) implies that the rice situation was so urgent that there was no time to wait until the opening of the regular Diet session. In any case, judging from the content of this resolution, it can be inferred that stronger measures against Korean rice will be devised and implemented before long. Also, considering that the aforementioned Temporary Rice Transfer Adjustment Law is a temporary measure effective only until March 31, Shōwa 10 (1935), it can be inferred that stronger countermeasures for Korean rice will inevitably emerge before long.
+Viewed this way, unless there is some drastic change in the rice situation across the three regions, it is feared that Korean rice might lose its freedom of transfer within the next half year, or by March of next year at the latest. In other words, it is feared that Korean rice might face the parallel adoption of a transfer restriction system and a taxation system, or the adoption of a similar *** Korean Rice Management System (朝鮮米 管理制), resulting in Korean rice no longer being freely transferable as it is today.
+And extrapolating the future based on the current various circumstances, it is speculated that the final path Korean rice will tread might be a Korean Rice Monopoly System (朝鮮米專賣制).
+-(July 4, 1934)-<5>
+<12-17>
+
+**Summary**
+
+This 1934 editorial by Sŏ Ch'un details the progressive tightening of Japanese control over Korean rice exports to mainland Japan. It traces the shift from laissez-faire policies before 1928 to increasingly restrictive measures under the Rice Law and Rice Control Law, including import restrictions on foreign grains into Korea, seasonal government purchases, storage incentives, stricter inspections, and the suspension of Korea's rice production increase plan. The author argues these measures are insufficient from Japan's perspective to protect its own farmers from falling prices caused by Korean rice imports. He predicts the imminent implementation of stricter controls, likely a permit system and taxes on Korean rice transfers, or even a state monopoly, effectively ending Korea's already passive role and free export capability. For historians, the article offers a detailed contemporary account of colonial economic policy, explicitly stating the rationale for controlling Korean rice (protecting Japanese farmers/prices) and documenting the specific legal and administrative tools used. It clearly illustrates the subordinate economic position of Korea within the Japanese empire and the step-by-step erosion of its market autonomy.
+
+**Named Entities**
+
+開闢	개벽	Kaebyŏk
+朝鮮日報	조선일보	Chosŏn Ilbo
+徐椿	서춘	Sŏ Ch'un
+朝鮮	조선	Chosŏn
+日本	일본	Ilbon (Japan)
+內地	내지	Naeji (Mainland Japan)
+安南	안남	Annam (Vietnam)
+滿洲	만주	Manju (Manchuria)
+臺灣	대만	Taeman (Taiwan)
+朝鮮總督府	조선총독부	Chosŏn Ch'ongdokpu (Government-General of Korea)
+農林府	농림부	Nongnimbu (Ministry of Agriculture and Forestry [Japan])
+
+**Glossary**
+
+迷路線上	미로선상	On a lost path/astray
+趨移	추이	Trend, drift, course (older usage)
+自由放任	자유방임	Laissez-faire
+統制	통제	Control, regulation
+尊賣	존매	Monopoly sale (likely state monopoly)
+米穀法	미곡법	Rice Law
+過不足	과부족	Surplus or shortage, excess or deficiency
+輸移出入	수이출입	Collective term for export, transfer out, import, transfer in
+受動的	수동적	Passive
+外米	외미	Foreign rice
+移出	이출	Transfer out (specifically from colony like Korea/Taiwan to Japan)
+內地	내지	Mainland Japan (often referred to as 'homeland' in colonial context)
+粟	속	Millet
+高粱	고량	Sorghum
+黍	서	Proso Millet
+匡救	광구	Relief, rescue, aid
+雜穀	잡곡	Miscellaneous grains, coarse grains
+出廻期	출회기	Out-shipment period, period when goods come to market
+正租	정조	Unhulled rice, paddy rice
+玄米	현미	Brown rice
+貯藏	저장	Storage
+獎勵	장려	Encouragement, promotion
+穀物檢査	곡물검사	Grain inspection
+産米增殖計劃	산미증식계획	Rice Production Increase Plan
+移入	이입	Transfer in (specifically to Japan from colony like Korea/Taiwan)
+隔靴搔痒	격화소양	Scratching an itch through the boot (idiom: indirect and ineffective action)
+滔滔	도도	Torrrential, surging, flowing abundantly
+滋味	자미	Taste, flavor; (here) palatability, acceptability (often used in negative: 滋味가 없다 - unpalatable, unacceptable)
+體面	체면	Face, honor, dignity
+附帶決意	부대결의	Supplementary resolution, rider
+專賣制	전매제	Monopoly system
+잇다	있다	To exist, to be (older spelling)
+업다	없다	To not exist, to not be (older spelling)
+하야	하여	Doing, as (older spelling/form of 하여)
+밧다	받다	To receive (older spelling)
+만치	만큼	As much as, to the extent that (older spelling/form)
+만타	많다	To be many, much (older spelling)
+업도록	없도록	So that there is not (older spelling)
+갓다	같다	To be the same, like (older spelling)
+밧는	받는	Receiving (older spelling)
+식키면서도	시키면서도	While making/letting it happen (older spelling/form of 시키면서도)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 신간 제1호
+발행일	1934년 11월 01일
+기사제목	迷路線上의 朝鮮米
+필자	朝鮮日報 徐椿
+기사형태	논설
+
+迷路線上의 朝鮮米
+						朝鮮日報 徐椿
+一. 朝鮮米의 趨移
+
+넓은 안목으로 보면 朝鮮米는 자유방임시대로부터 통제시대에 통제시대로부터 尊賣時代로 옮아갈 운명을 가지고 잇다고 볼 것이다.
+이것을 지금까지의 경과에 빗치워 보면 昭和 3년 1월까지는 자유방임시대에 속하고 동년 2월 米穀法 第二條의 朝鮮實施로부터는 통제시대에 드러온 것으로 본 것이다. 그러고 지금은 통제가 이미 초기를 지나서 중기쯤에 달한 시대로 본 것이다.
+米穀統制하는 것은 『米穀을 수량과 가격에 잇어서 국가가 희망하는 상태로 용이히 現出할 수 잇도록 제도를 만드러 놋는 것이다』 그럼으로 통제에는 첫재 표준이 잇다. 그런데 미곡통제의 경우에 잇서서의 목표는 무엇이냐하면 (1) 수량에 잇어서는 日本內의 미곡의 수요와 공급이 꼭 마저 떠러지게 하는데 잇으며 (간단히 말하면 생산량과 소비량과 사이에 過不足이 없이 하는데 잇으며) (2) 가격에 잇서서는 日本內 米價가 적어도 日本農民의 米穀生産費를 補足할 수 잇는 정도로 안정되여 잇게 하고저 하는데 잇다. 따라서 통제에는 둘재로 국가의 간섭이라는 것이 필요하다. 수량도 국가의 희망하는 수량만치 가격도 국가의 희망하는 가격만치 통제해가는데는 미곡사정을 자연의 趨移에 放任하는 것으로는 도저히 안 될 것이다. 반드시 거기는 그 목표에 마추도룩 국가의 간섭이 잇서야 될 것이다. 그럼으로 통제는 국가의 간섭을 전제로 하는 것이다.
+그러면 미곡을 어떤 목표에 마추어 국가가 통제해 가는데는 멫 가지 수단방법이 잇겟느냐 하면 (1) 미곡의 輸移出入을 통제하는 것도 그 방법의 하나일 것이요 (2) 미곡의 생산을 통제하는 것도 그 방법의 하나일 것이오 (3) 미곡조사를 통제하는 것도 그 방법의 하나일 것이요 (4) 미곡의 貯藏及 貯藏米의 解除를 통제하는 것도 그 방법의 하니일 것이다. 이 멫 가지 방법의 무엇을 의미하는가는 後述을 보면 자연 알어질 것으로 생각한다.
+
+二. 朝鮮米는 受動的＜12＞
+
+미곡통제의 목표가 수량에 잇서서는 日本內 수급을 마추는데 잇고, 가격에 잇서서는 日本內의 米價를 過高過低의 폐해가 없이 하는데 잇다는 一事는 특히 유의할 점이다. 그러기 때문으로 朝鮮米의 입장은 어느 때든지 수동적임을 면치 못하는 것이다. 詳言하면 (1) 日本內의 미곡의 수급의 평형을 保하기 위하야는 朝鮮에서는 공급과잉이 생기여도 별 수가 없고, (2) 日本內의 米價를 유지하기 위해서는 朝鮮內의 米價는 低落되여도 별 수가 없는 경우가 잇게 되는 것이다.
+
+三. 朝鮮米에 대한 旣存統制案
+
+(甲) 外米朝輸入 制限
+朝鮮米의 자유방임시대에 잇어서는 朝鮮은 그 생산한 미곡을 가능한 최대한도로 내지에 移出하는 그 대신 이로 인하야 生한 식량부족을 보충하기 위해서는 朝鮮에서는 『安南米』라는 稱을 듯는 外米(外國米)와 또는 滿洲粟을 수입하야 대용식량을 삼아 왓던 것이다.
+그러던 것이 昭和2년의 日本及朝鮮을 통한 대농작으로 인하야 內地內의 미곡수급사정에 잇서서 공급과잉과 밋 米價폭락을 연출하자 정부는 그 대책으로 그 翌年인 昭和 3년 2월에 米穀法 第2條를 朝鮮에 實施하야 두 가지 방법으로 外米의 朝鮮內 輸入을 제한햇다.
+米穀法 第2條 정부는 미곡의 수급을 조절하기 위하야 특히 필요잇다고 인하는 時는 勅令으로써 기간을 지정하아 미곡의 수입세를 增減 혹은 면제하며 又는 輸入 혹은 제한함을 得함.
+右條文에 나타난 거와 가티 두 가지 방법이라는 것은 첫재는 수입세를 증감 혹은 면제하는 것이요, 둘재는 수입 혹은 수출에 대하야 許可制를 쓰는 것이다.
+右舊米穀法의 第2條가 昭和 6년 3월의 改正米穀法에 잇서서는 第2條와 第3條와의 兩個條로 분리되엿다.
+第2條 정부는 미곡의 수량 又는 市價를 조절하기 위하야 필요잇다고 인하는 時는 勅令으로써 기간을 지정하야 미곡의 수입세를 증감 又는 면제함을 得함. 第三條 미곡의 수입 又는 수출은 勅令에 別段의 규정이 잇는 경우를 제한 외에는 정부의 허가를 受하지 아니하면 이것을 위함을 不得함. 再轉하야 이것이 去年 11월 실시의 미곡통제법에 와서는 제3조가 제7조로 제2조가 제9조로 조문이 박구이엇스나 그 조문의 내용은 꼭 가트다.
+
+(乙) 粟, 高粱, 黍의 수입제한.
+이것은 처음에는 粟의 제한으로부터 시작하야 미곡통제법의 실시와 가치 高粱(수수) 黍(기장이)의 제한에까지 범위가 확대된 것이다.
+昭和 7년 六一五事件의 후를 承하야 同年 8월말부터 9월초에 亙하야 農村非常時局匡救를 위하야 제63回 회의를 열어가지고 미곡법의 일부를 개정하야 昭和 7년＜13＞ 10월 4일부터 실시햇는데 이 개정미곡법의 부칙 제4항에 粟輸제한에 관한 조문이 처음으로 삽입되엇다. 즉, 『정부는 당분간 미곡의 수량 又는 市價를 조절하기 위햐야 필요잇다고 認하는 時는 勅令으로써 기간을 지정하야 粟의 수입세를 증감 又는 면제함을 得함』
+이것이 昭和 8년 제64의회에 제안 통과되여, 同年11월 1일부터 실시된 미곡통제법에 와서는 범위가 高粱, 黍에까지 확대되는 동시에 此等 잡곡에 대하야 (1) 수입세의 증감면제규정외에, (2) 輸出入要許可制까지 채용하게 된 것이다.
+미곡통제법 제8조=정부는 미곡의 통제를 圖하기 위하야 특히 필요잇다고 認하는 時는 기간을 지정하야 粟·高粱 又는 黍의 수입 제한함을 得함.
+미곡통제법 제9조= 정부는 미곡의 통제를 圖하기 위하야 특히 필요잇다고 인하는 시는 칙령으로써 기간을 지정하야 米穀, 栗, 高粱 又는 黍의 수입세를 증감 又는 면제함을 得함.
+미곡통제법에는 명문으로 밝힌 말은 없지마는 이 兩個條는 전혀 但 제9조의 미곡수입세는 日本에도 관계되지마는 朝鮮內에 수입되는 잡곡을 목표로 한 것은 물론이다.
+이상 外米의 수입제한과 粟, 高粱, 黍의 수입제한은 『朝鮮內에 수입되는 外米 及 잡곡의 유입을 감축시키면 그만치 朝鮮內에서의 朝鮮米의 소비가 증가할 것이오, 米의 朝鮮內 소비가 증가하면 그 증가하니만치 반대로 朝鮮米의 내지이출량이 감소할 것이다. 라는 논리에 의한 대책인 것은 다시 경鰲言을 요할 바 아니다.
+
+(丙) 朝鮮米의 季節調節買上
+이것도 역시 昭和 7년 8, 9 양월의 제60의회에서 개정되며 同年 10월 4일에 실시된 개정미곡법의 부칙 제3항에서 그 萌芽를 발하야 昭和 8년에 미곡통제법을 실시와 동시에 확립된 제도다.
+개정미곡법의 부칙 제5항=정부는 당분간 朝鮮 及 臺灣米의 內地移入수량을 월별 평균적이 되게 하기 위하야 朝鮮米 及 臺灣米의 매입 가공 又는 저장을 함을 得함. 이 경우의 매입 又는 매도가격을 시가에 준하야 이를 정함.
+이 규정이 미곡통제법에 와서는 爲左히 변형되엿다. 미곡통제법 제4조=정부는 道府縣으로부터 該地域外에 又는 朝鮮 혹은 臺灣으로부터 내지에 移出되는 미곡의 수량을 월별 평균적이 되게 하기 위하야 勅令의 정하는 바에 의하야 出廻期에 잇어서 미곡의 매입을 하엿다가 出廻期 후에 잇서서 미곡의 매도를 위함을 得함. 前項에 매입 又는 가격은 시가에 준하야 이를 정함.
+
+(丁) 正租의 長期貯藏獎勵策
+저장에 대하야 설비 及, 운임 그 他의 諸失費의 일부를＜14＞ 보조하며 저장된 正租를 단보로 하야 자금을 융통하는 경우에 잇서서는 貸付價額을 만히 하며 금리를 보통보다 훨신 싸게 하는 대신에 그 교환조건으로 일단 저장된 正租는 내놀 기한까지는 저장의뢰자의 임의로 출고할 수 업도록 하는 제도가 즉 正租의 장기저장장려책이라는 것이다.
+그러고 이 朝鮮米의 계절적 調節買上과 또 正租의 장기저장은 『朝鮮米를 正租 그대로 又는 玄米가 된 다음에는 이것을 朝鮮內에 가두어 노으면 그만치 日本으로 移出되는 수량에 적을 것이다』라는 논리에 의하야 案出된 대책인 것도 또한 鰲言을 不要하는 바이다.
+
+(戊) 朝鮮穀物檢査會의 실시
+이 법령은 昭和 7년 9월 24일 制令 제2호로 발표되여 동년 10월 1일부터 실시되엿는데 이것이 이 법령 실시와 동시에 廢止된 舊穀物檢査規則보다 嚴酷하기 때문으로 검사에 합격되여 수출 又는 移出할 수 잇는 쌀의 수량이 전에 비하야 적게 되엿다.
+
+(巳) 産米增殖計劃의 中止
+금년에 와서 朝鮮總督府가 이 계획의 중심을 선언하기 때문으로 적어도 당분간 朝鮮은 토지개량에 의한 미곡의 생산증가는 업도록 되엿다.
+
+(庚) 臨時米穀移入調節法
+이 법률은 去春에 제65의회를 통과햇스나 아직 실시되지 못하고 잇다. 그러나 不遠에 실현될 것은 이 법률의 성질상으로 보아도 자명의 일이다.
+제1조 정부는 朝鮮 及 臺灣米의 內地移入數量을 조절하기 위하야 昭和 10년 3월 11일까지 朝鮮米 及 臺灣米의 매입을 행함을 得함.
+제2조 전조의 현실에 의하야 매입하는 미곡의 가격은 칙령의 정하는 일정가격 이내에서 시가에 준거하야 이를 정함.
+(제3조 이하는 此를 생략함. 全文五條)
+그러고 이 臨時移入調節法에 의한 買上米 현행 미곡통제법 제4조에 의한 계절적 조절 매상과는 그 성질이 다른 것이니 이것을 주의할 점이다.
+여기 잠간 양자에 相異点을 설명해보면 左記 二点에 잇서서 兩者을 相異하다.즉
+(1) 미곡통제법 제4조에 의한 朝鮮米의 계절적 調節買上에 잇서서는 매입은 新穀出廻期(例하면 11월부터 翌年2월까지의 4개월간)에만 행할 수 잇는 것이나 임시미곡이입調節法에 의한 朝鮮米의 買上은 비단 新穀出廻期뿐만이 아니라 一米穀年度 11월부터 翌年 10월까지)를 통하야 어느 때나 행할 수가 잇다.
+(2) 미곡통제법 제4조에 의한 買上米는 當該 미곡년도내에 도로 팔어야 되는데 반하야 임시미곡이입조절법에 의한 買上米는 이것을 매상한 미곡년도내에 팔지 안코 그 翌年으로 넘기어도 관게치 안타.＜15＞ 右를 언하면 임시미곡조절법에 잇어서는 필요만 잇으면 朝鮮米를 어느때나 매상할 수 잇고 또 그 매상미를 당년에 팔지안코 해를 넘기어도 관계치 안타는 것이 미곡통제법 제4조의 계절적 조절매상과 다른 점이다.
+昭和 3년 2월 미곡법 제2조의 朝鮮實施로부터 爾來 7년간에 朝鮮米의 內地로의 移出을 통제하기 위하야 講究 실시한 제도와 시설은 대개 이상 일곱가지로 盡할 것이다.
+
+四. 朝鮮米의 前途
+
+前記 7개 항목에 亙한 朝鮮米 對策을 보면 자연히 알 일이어니와 朝鮮米移入에 대한 旣設對策은 이것을 內地內 농민측으로 보면 실로 隔靴搔痒의 憾이 없지 못할 것이다. 何故오하면, 如干
+(1) 外米, 粟, 高粱, 黍등의 朝鮮內 수입을 防遏하여 (2) 현미 及 正租를 朝鮮에 가두어 두며 (3) 內鮮內에 産米增額計劃을 중심하는 등등의 微微한 수단을 가지고는 朝鮮米의 內地으로 향하야 滔滔한 유입의 勢는 이것을 방지할 도리가 없고 따라서 內地內米市場으로 말하면 朝鮮米 유입으로 인한 米價폭락의 勢를 막어낼 도리가 없겠기 때문이다.
+그러면 內地側으로 보아 朝鮮米 대책으로 가장 유효적절한 대책은 무엇이겟느냐하면 그것은 말할 것도 없시 (1) 朝鮮米 移入에 대햐야 허가제를 쓰며 (2) 移入朝鮮米에 대하야 과세를 하는 것이다. 이 허가제와 과세제는 전술로 이에 소개한 바와 가티 外米, 粟, 高粱, 黍 등에 대해서는 이미 실시하고 잇는 것이다. 그럼으로 이 제도를 그냥 옴기어서 朝鮮米의 內地內로희 이입에 대하야 채용케 되면 內地側으로는 朝鮮米 對策은 거의 소기의 효과를 내일 수가 잇슬 것이다.
+詳言하면 미곡통제법의 조문 가운데
+1. 미곡의 移入 又는 移出은 정부의 허가를 受치 아니하고는 此를 爲함을 不得함. 이라고 하미나 또는
+2. 정부는 미곡의 통제를 圖하기 위하야 필요잇다고 認하는 時는 칙령의 정하는 바에 의하야 기간을 지정하야 미곡의 이입을 제한함을 得함이라고 하야 조선미 及 대만미의 이입을 제한하는 규정을 設하고 동시에 이와 병행하야
+3. 정부는 미곡의 통제를 圖하기 위하야 특히 필요잇다고 認하는 칙령으로써 기간을 지정하야 미곡의 이입세를 증액 又는 면제함을 得함.
+이라하야 조선미 及 대만미에 대하야 과세하는 규정을 條文化 하야 미곡통제법내에 揷入하야 이것을 실시하게되면 內地側으로서는 朝鮮米 及 臺灣米의 이입으로 인하야 밧는 타격은 이것을 안밧을 수가 잇다.
+따러서 期朝鮮 及 臺灣米의 이입에 대하야 제한제도를 채용하며 과세제를 쓰는 것은 이것을 內地側으로 보면＜16＞ 효과적 근본대책이라고 할 것이다.
+그러기 때문으로 乃至側에서는 3, 4년 전부터 朝鮮米에 대한 이입제한제와 과세제와의 채용을 주장하는 이가 상당히 만타. 사실은 去春 제65의회에 제출될 뻔 하다가 말게된 農林府案 (期鮮米臺灣米對策에 관한) 외에도 이 색채를 다분으로 포함함 내용이 잇섯다. 그러나 아직까지는
+1. 朝鮮米에 대하야 제한제와 과세제를 쓰게 되면 차별대우가 되니까 期鮮統治上, 滋味가 없다.
+2. 또한 內地의 인구식량문제를 해결하기 위하야 朝鮮에 産米增殖 계획을 실시해 노코서 그 결과로 증가된 朝鮮米의 이입을 제한한다면 이것은 신의와 체면에도 관계된다.
+의 두 가지 이유로 아직은 실시되지 못한고 잇다.
+그러나 금후로 여전히 內地 朝鮮 臺灣의 三地를 통하야 흉작보다 풍작의 度數가 만코 過剩米가 여전히 산적하야 처분할 도리가 없고 또 米의 신용도가 개척되지 아니한다고 하면 不遠에 필경 朝鮮米는 이입제한제와 이입과세제의 실시를 보고야 말 경향이 농후하다고 볼 수 박게 없다.
+詳言하면 아직까지는 제한제 又는 과세제의 법률적 제한은 없다. 따러서 前記 7개 항목의 朝鮮米對策이 잇슴에도 불구하고 법률상으로 보면 아직까지는 朝鮮米의 日本 유출은 자유다. 따라서 四面 비록 매상제가 잇다고 할지라도 그 買上에 응치 안코, 內地으로 이출할 수가 잇으며 비록 장기저장제가 잇다고 할지라도 그 저장에 응치 아니하고 內地으로 이출할 수가 잇다. 그러나 一旦 제한제가 법률화 하는 날이면 이출자유는 아조 없어지고 말 것이다.
+전에도 暫術한 바어니와 去春 제65의회에 제출하려고 農林府案은 이입제한제를 내용으로 햇든 것이다. 그러나 이것은 전술한 정치적 이유에 의하야 의회에 제안도 안되고 말엇다. 그 대신에 의회에 제출하야 통과된 것이 즉 전술한 『임시미곡이입 조절법안』이엇다. 그러나 이것은 朝鮮米의 이출자유를 여전히 인정한 것인고로 內地農民側으로 보아서는 불만이 여간이 아니엇다. 그러기 때문으로 제65의회는 이것을 통과식키면서도 이러한 微微한 대책만으로는 안된다는 표로 한가저 附帶決意를 첨부하야 정부의 再考慮를 제의하엿다. 그 附帶決意는
+『미곡의 수량 及 가격조절에 대한 현행제 及의 不備不徹底한 현상에 鑑하야 정부는 속히 內外地 전부에 통하야 적절한 통제계획을 수립하고 임시의회를 소집하야 이것을 제출하라.』
+이러한 것이다. 결의 끗에는 『內外地를 통하야』하고 잇지마는 그 실은 朝鮮米 臺灣米만을 목표로 한 것이다. 또한 臨時 (-第二의 5頁로 續-)＜17＞ 議會云云의 말은 통상 의회의 개회기까지 기다릴 時間餘裕가 없스리만치 米穀사정이 급박하다는 뜻이다. 하여간 이 결의문의 내용을 보아는 不遼에 朝鮮米의 대하야 좀더 강도의 대책이 강구실시될것이 추측되거니와 전술 臨時米穀 移民調節法에 昭和10年3月31日까지의 잠정적 임시적 법률인 점으로 보아서도 朝鮮米에 대해서는 不遠에 좀더 강도의 대책이 現出하고야 말것이 추측된다.
+이러케 보앗스면 朝鮮米는 三地를 통한 米穀事情에 급격한 무슨 변화가 없는 한까지는 금후반년이내에 느추잡어도 명년 3월이내에 利出自由를 일케되지 아니할가 念慮되는 바이다. 換言하면 이출에 대한 제한제와 課稅制외의 병행 採用에 逢着하거나 又는 그와 비슷한 *** 朝鮮米 管理制가 채용되거나 하는 결과로 朝鮮米는 금일과가치 자유로 이출 할 수 없게 되지 아니할까 염려되는 바이다.
+그러고 현재의 제반**를 가지고 장래를 추측해 보면 조선미가 거러갈 마즈막 길은 조선미전매제가 아닐까고 추측된다.
+-(1934年7月4日)-＜5＞
+＜12-17＞

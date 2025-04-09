@@ -1,0 +1,80 @@
+**Header Section:**
+Magazine Title: 개벽 (開闢)
+Publication Date: 1923년 05월 01일
+Article Title: 開城의 綠波會 (The Nokp'a-hoe of Kaesŏng)
+Author: Not specified
+Article Type: 소식 (News/Announcement)
+
+**Body Text Translation:**
+The Nokp'a-hoe of Kaesŏng
+
+Seven comrades registered in Kaesŏng—Kim Yŏng-bo, Yi Ki-se, Ch'oe Sŏn-ik, Ko Han-sŭng, Chin Chang-sŏp, Cho Suk-kyŏng, and Ma Hae-song—formed the Nokp'a-hoe (綠波會) on April 1st. Its nature will likely be similar to the Munin-hoe (文人會 - Literary Person Association) in Kyŏngsŏng. From April 17th to the 23rd, they plan to publicly display all the literary books owned by the members within the Koryŏ Youth Hall (고려청년회관), allowing general viewing by the people of Kaesŏng. Furthermore, starting May 1st, they intend to publish a small yet neat booklet called "P'ungp'an" (風帆 - Sailing Ship) for circulation among the members. It would be good if this small but fresh gathering and plan, whenever facing the approaching tomorrow, is supported by a spirit of daily renewal upon daily renewal (日新又日新), becoming beneficial to themselves and, moreover, advantageous to the general public around them. <77>
+
+**Summary**
+
+This news item announces the formation of a literary society called Nokp'a-hoe (Green Wave Society) in Kaesŏng on April 1, 1923, by seven individuals: Kim Yŏng-bo, Yi Ki-se, Ch'oe Sŏn-ik, Ko Han-sŭng, Chin Chang-sŏp, Cho Suk-kyŏng, and Ma Hae-song. The group planned a public exhibition of members' literary books at the Koryŏ Youth Hall and intended to publish an internal periodical named "P'ungp'an" (Sailing Ship). The article expresses hope that the group will thrive and benefit its members and the local community. For historians, this piece is interesting as it documents the establishment of a local cultural and literary group in Kaesŏng during the early Japanese colonial period. It highlights efforts by Koreans to engage in modern literary activities and foster intellectual exchange, even on a small scale, reflecting a burgeoning cultural consciousness despite the restrictive colonial environment. The mention of specific names and planned activities provides concrete details about cultural life outside the capital, Kyŏngsŏng.
+
+**Named Entities**
+
+開城	개성	Kaesŏng
+金泳俌	김영보	Kim Yŏng-bo
+李基世	이기세	Yi Ki-se
+崔善益	최선익	Ch'oe Sŏn-ik
+高漢承	고한승	Ko Han-sŭng
+秦長燮	진장섭	Chin Chang-sŏp
+趙淑景	조숙경	Cho Suk-kyŏng
+馬海松	마해송	Ma Hae-song
+綠波會	녹파회	Nokp'a-hoe
+京城	경성	Kyŏngsŏng
+文人會	문인회	Munin-hoe (Literary Person Association)
+고려청년회관	고려청년회관	Koryŏ Ch'ŏngnyŏn-hoe-kwan (Koryŏ Youth Hall)
+風帆	풍범	P'ungp'an
+
+**Glossary**
+
+籍	적	Register; legal domicile
+닐곱	일곱	Seven (older spelling)
+동무	동무	Comrade; friend (common term in this era, later associated more with North Korea)
+조직하엿다	조직하였다	Organized; formed (older conjugation)
+其	기	Its; their (Sino-Korean character used for possessive)
+성질	성질	Nature; character; disposition
+가틀	같을	Similar to; like (older spelling)
+브터	부터	From (older spelling)
+仝	동	Same (as above); the aforementioned (Sino-Korean character used for abbreviation)
+회원	회원	Member
+간직한	간직한	Kept; cherished; owned
+문예도서	문예도서	Literary books; books on literature and arts
+전부	전부	All; entire collection
+공개하야	공개하여	To make public; to display openly (older conjugation)
+일반	일반	General public
+열람	열람	Viewing; reading; inspection
+허한다	허한다	Permits; allows
+회람	회람	Circulation (of documents among members)
+供할	공할	To provide for; to supply for
+젹고도	작고도	Small and (older spelling)
+얌전한	얌전한	Neat; modest; gentle
+간행하리라	간행하리라	Intends to publish; will publish
+生新한	생신한	Fresh; new; novel
+회합	회합	Meeting; gathering
+닥쳐오는	닥쳐오는	Approaching; impending
+明日	명일	Tomorrow (Sino-Korean term)
+마즐 때마다	맞을 때마다	Whenever meeting; whenever facing (older spelling)
+日新又日新	일신우일신	Daily renewal upon daily renewal (Classical Chinese idiom emphasizing continuous improvement)
+기분	기분	Spirit; mood; feeling
+지지되야	지지되어	Being supported; being backed (older spelling/conjugation)
+유익하고	유익하고	Being beneficial; being useful
+주위	주위	Surroundings; vicinity
+잇는	있는	Being in/at; existing (older spelling)
+유리한	유리한	Advantageous; favorable
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제35호
+발행일	1923년 05월 01일
+기사제목	開城의 綠波會
+기사형태	소식
+
+開城의 綠波會
+開城에 籍을 둔 金泳俌, 李基世, 崔善益, 高漢承, 秦長燮, 趙淑景, 馬海松의 닐곱 동무는 지난 4월 1일로써 綠波會를 조직하엿다. 其 성질은 대개 京城의 文人會와 가틀 것이다. 4월 17일브터 仝23일까지 仝會員이 간직한 문예도서의 전부를 고려청년회관 안에 공개하야 開城사람 일반의 열람을 허한다 하며 5월 1일부터는 회원간의 회람에 供할 「風帆」이란 젹고도 얌전한 책을 간행하리라 한다. 크지 아니하나 生新한 이 회합이 이 계획이 늘 닥쳐오는 明日을 마즐 때마다 日新又日新의 기분에 지지되야 그들 자신에 유익하고 다시 그들의 주위에 잇는 일반에게 유리한 것이 되엿스면 조켓다. ＜77＞

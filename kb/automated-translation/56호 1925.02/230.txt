@@ -1,0 +1,1104 @@
+Magazine Title: 개벽 제56호
+Publication Date: 1925년 02월 01일
+Article Title: 人造勞働者(全4幕) (Artificial Laborer (Complete 4 Acts))
+Author: 채퍽크(作), 朴英熙(譯) (Čapek (Writer), Pak Yŏnghŭi (Translator))
+Article Type: 희곡·시나리오 (Play/Scenario)
+
+Artificial Laborer
+						Čapek (Writer), Pak Yŏnghŭi (Translator)
+The original title of this play is "R.U.R," which is the name of the artificial laborer manufacturing company, "Rossum's Universal Robots." "Robot" means "laborer" or "unpaid laborer," and Mr. MacCoan interprets it as "a laborer given life by being made by machines." This word is Bohemian.
+The great physiologist Mr. Rossum departed for a remote island in the South Seas in 1920 to study marine animals. During his research, he gained confidence in chemically producing something similar to protoplasm, and in 1950, he artificially created a human. However, it died after three days, resulting in his failure. It was his son who finally succeeded in creating a complete human and used these artificial humans as substitute laborers. But these artificial laborers, lacking souls and sensations, could work without wages. Consequently, countries ordered tens of thousands of artificial humans, and governments planned military expansion using them, eventually leading to a global revolution. It is a great masterpiece depicting the end of human society developed by machine civilization in a future isolated island. It is said that countries competed to stage it.
+
+Characters
+Hari Tŏmin - General Manager of Rossum's Universal Robots Manufacturing Company
+P'aburi - Chief Engineer
+Dr. K'al - Head of Physiology Department
+Dr. Haremiël - Head of Psychology Department
+Alk'isŭt'ŭ - Factory Manager, Architect
+Ppasŭk'al - Sales Department Manager of the company
+Helena K'urori - Daughter of the President
+Nana - K'urori's Maid <56>
+Radyuusŭ - Artificial Man
+Ppurimasŭ - Artificial Man
+Sŭra - Artificial Woman
+Helena - Artificial Woman
+Servants
+First Artificial Man
+Second Artificial Man
+Third Artificial Man
+
+Scene
+Act One. Headquarters of the Rossum's Universal Robots Company Factory.
+Act Two. Helena's Reception Room, one morning five years later.
+Act Three. Same as above (Afternoon of the same day).
+Act Four. (Epilogue) Research Lab (1 Year Later).
+Place - An isolated island.
+Time - The Future.
+
+Act One
+Inside the sales headquarters of the Rossum's Universal Robots factory.
+An entrance at the rear right. On the front wall, a window showing the factory buildings. To the left, several office doors. Tŏmin sits in a swivel chair before a large desk. On the desk are an electric lamp, telephone, letter scale, and various other items. On the left wall hang a railway network map, a large calendar, and a clock showing a few minutes past noon. Also, several posters are attached. They bear slogans such as:
+"Cheap Labor"
+"Rossum-style Workers"
+"Tropical Worker 30 Pounds"
+"Get Your Workers."
+"Get Rossum-style Workers to cut your production costs."
+In contrast to these tasteless decorations, a brilliant Turkish carpet covers the floor. To the right, a round table, a sofa, leather-covered armchairs, and a bookshelf displaying liquor bottles instead of books. To the left, a cashier's counter. Tŏmin sits beside the desk, and Sŭra is typing on a typewriter.
+Tŏmin - (Dictating) Ready?
+Sŭra - Yes.
+Tŏmin - To E.M. MacVicar Company, Southampton, England.
+"This company does not guarantee against damage to goods during transport. This company only warned your captain that the vessel was unsuitable for transporting artificial humans when loading the cargo. This company bears no responsibility for damage to the cargo. Rossum's Universal Robots Company."
+(Sŭra, sitting motionless during dictation, types it swiftly on the typewriter in a few moments.)
+Tŏmin - Finished?
+Sŭra - Yes. <57>
+Tŏmin - Another one. "To E.P. Hyson Agency, New York City, U.S.A." "We acknowledge receipt of your order for 5,000 artificial laborers. When your ship returns, please send coking coal for our use, and kindly credit the cost of said coal as part of our payment. Rossum's Universal Robots Company."
+(Sŭra types swiftly.)
+Tŏmin - Finished?
+Sŭra - Yes.
+Tŏmin - Another one. "To Friedrichswerke Factory, Hamburg, Germany." "We acknowledge receipt of your order for 15,000 artificial laborers."
+(The telephone rings.)
+Tŏmin - Hello! This is the main office. Yes, definitely... Send the telegram... Never mind.
+(Hangs up the phone.)
+Where did I leave off?
+Sŭra - At "We acknowledge receipt of your order for 15,000 artificial laborers."
+Tŏmin - 15,000 artificial laborers. 15,000!
+(Mariyusŭ enters.)
+Tŏmin - Yes, what is it?
+Mariyusŭ - Sir, a lady wishes to see you.
+Tŏmin - A lady? Who is she?
+Mariyusŭ - I don't know who she is, sir, but she brought this introduction card.
+Tŏmin - (Looking at the card) Hmm. Introduced by President K'urori. Show her in.
+Mariyusŭ - (At the door) Please come this way.
+(Helena K'urori enters. Mariyusŭ exits.)
+Helena - How do you do?
+Tŏmin - How do you do. (Standing up) What brings you here?
+Helena - Are you General Manager Tŏmin?
+Tŏmin - I am.
+Helena - I am—
+Tŏmin - You brought President K'urori's card. Yes, that's fine.
+Helena - President K'urori is my father.
+Tŏmin - His Excellency's daughter! It is a great honor for our company to welcome the President's daughter. But—
+Helena - But you won't turn me away, will you?
+Tŏmin - Please, sit down. Sŭra, you may go over there! <58>
+(Sŭra exits.)
+Tŏmin - (Sitting down) If there is something you wish to say, please speak freely.
+Helena - I came because—
+Tŏmin - You must have come to see our famous factory where we make people? Just like other visitors, I understand. I will not refuse.
+Helena - I came expecting you might refuse.—
+Tŏmin - You mean entering the factory? Oh, that is certainly refused. Others also bring letters of introduction, but...
+Helena - So you must have shown it to everyone?
+Tŏmin - We only show a part of it. Because there are secret methods in making artificial laborers—.
+Helena - Then for me—
+Tŏmin - You mean will I show you? No, all of Europe is talking only about this factory right now.
+Helena - Why do you keep interrupting me?
+Tŏmin - My apologies. So, you have something else you wish to say?
+Helena - What I want to say is—
+Tŏmin - Yes, then as special treatment for you, madam, I will show you the factory.
+Helena - How do you know so well what I want?
+Tŏmin - Because everyone who comes here has the same wish. But for you, madam, I will specially show you things not shown to others.
+Helena - Thank you.
+Tŏmin - But you must ensure the secret is absolutely not leaked.
+Helena - (Standing and extending her hand) Yes, absolutely not.
+Tŏmin - Thank you. How about taking off that veil—?
+Helena - That's easy enough. You want to see if I'm a spy or not, is that it? Excuse me.
+Tŏmin - What? (Suddenly taking Helena's hand)
+Helena - Please let go of my hand. <59>
+Tŏmin - (Letting go) Ah, please forgive me.
+Helena - (Removing her veil) You are very cautious, aren't you?
+Tŏmin - (Looking at Helena with great interest) Yes, of course, we— uh—
+Helena - Uh what? What were you going to say?
+Tŏmin - We are very pleased. Was your voyage safe?
+Helena - Yes.
+Tŏmin - Were there any troubles?
+Helena - Why do you ask?
+Tŏmin - No, I just mean because you are so young, madam.
+Helena - Can't we see the factory soon?
+Tŏmin - Yes, understood. You must be around twenty-two.
+Helena - What do you mean, twenty-two?
+Tŏmin - Your age, madam.
+Helena - I'm twenty-one. But why do you ask such a thing?
+Tŏmin - Why?— (Earnestly) Will you be staying here long? What do you think?
+Helena - I plan to decide after I finish seeing the factory.
+Tŏmin - Let's stop talking about the factory now. No, no. I'll show you everything. I'll show you absolutely everything. How about that? Please sit down.
+Helena - (Goes to the sofa and sits) Thank you.
+Tŏmin - But first, would you like to hear the story of how artificial laborers were invented?
+Helena - Yes, please tell me.
+Tŏmin - (Glancing at Helena in fascination, suddenly begins to chatter.) It was in 1920 when the famous physiologist Mr. Rossum came to this desolate, remote island with the purpose of studying marine animals. At that time, he was a very young scientist. While here, he began to chemically create a living thing called protoplasm. Thus, he discovered something exactly like a living organism but different from chemical composition. That discovery was in 1932, exactly 400 years after the discovery of America. <60>
+Helena - Then why are you laughing about that discovery?
+Tŏmin - Yes, because biology is not my specialty. Shall I continue the story?
+Helena - Yes, please tell me.
+Tŏmin - So, Mr. Rossum wrote this among his chemical samples: "Nature has only one way of making living things. But that there might be another, simpler, faster way at will, Nature surely never dreamed. The second method, showing the progress of human life, has been discovered by me today." That's what it says. Look at this. Think about Mr. Rossum, who wrote such astonishing words about colloidal waste that even a dog wouldn't look back at. Think about Mr. Rossum, sitting before a test tube, absorbed in seeing how the entire tree of life lived within that test tube, or how all animals, from beetle-like things to humans—though humans of a different substance than us, of course—developed within that test tube. The time when he was researching like this was truly an astonishing time.
+Helena - What is?
+Tŏmin - So, the question now is how life arises in this test tube, how it evolves to form a heart, skeleton, and nerves, and how the contacts of enzymes and conjugates were discovered—do you understand?
+Helena - I can't understand it well, but...
+Tŏmin - Please be patient and listen. Anyway, just think that Mr. Rossum could make whatever he wanted to make. Whether it was the brain of Socrates, a monster like Medusa, or a worm 50 yards long, there was nothing he couldn't make. Putting aside idle talk, he first planned to make vertebrates, specifically humans. And so, this artificial creature was something that longed for life and consequently dreamed and destroyed things, without any thought. Therefore, it could not be made from nature's proteins. <61> So he thought about it.
+Helena - What is it?
+Tŏmin - I mean imitating nature. First, he tried to artificially create a dog. But after struggling for several days, what he made turned into a calf. Even that died after a few days. I'll show it to you now in the museum. And after that, he started making humans.
+Helena - Is it okay to tell this story to others?
+Tŏmin - Please keep it absolutely secret from others.
+Helena - But isn't that sort of thing in school textbooks in Europe or America?
+Tŏmin - Yes. But do you know the facts beyond the textbooks? The fact is, Mr. Rossum was mad. You must know that an old madman brilliantly created humans.
+Helena - But you can make humans too, can't you?
+Tŏmin - Regardless, Mr. Rossum truly made a wonderful human.
+He tried to become a scientific substitute for God. And he was an extreme materialist. That's why he did such things. His aim was merely to establish proof that God was now unnecessary. Do you have knowledge of anatomy, madam?
+Helena - Just a little.
+Tŏmin - I'm the same way, but... Anyway, he was determined to make something exactly like a human.
+I'll show you the failed samples he struggled with for 10 years. Because the thing he made, calling it human, could only live for three days. But then his son, who was working as an engineer, appeared. His son is also a very capable man. So, seeing the human his father made incorrectly, the son said this: "It's foolish to take 10 years to make one human. If it can't be done faster than nature, it's much better <62> to quit." That's what he said. So the son immersed himself again in the study of anatomy.
+Helena - There's no mention of that in the school textbooks.
+Tŏmin - Textbooks only record what advertising fees have been paid for, so the writing there is just bland. And the textbooks say Mr. Rossum and his son worked together, but that's like a children's story. Father and son always cursed each other. Mr. Rossum had no thought for industrial needs, but his son threw himself into the laboratory for industrial purposes and researched with truly astonishing energy. So eventually, from the position of an engineer, he intended to do business. Mr. Rossum cursed himself. He even said he would take two lives before he died. Then one day, while the two were researching, he died. That's all the story about him.
+Helena - So what did the son do?
+Tŏmin - Then let me tell you about that person too. Anyone who has seen the dissection of a human body would think that humans are too complex, and some famous engineer would try to make it much simpler. Therefore, Mr. Rossum's son began to revise anatomy. That is, he tried to simplify it by omitting things. For example—but isn't this too tedious?
+Helena - No, not at all. Please continue the story. It's really interesting.
+Tŏmin - So he said this: "Man is an animal that tries to do anything unnecessary, like knowing happiness, playing the piano, or taking a walk."
+Helena - Really.
+Tŏmin - Such things are not needed when weaving fabric or calculating. Madam, can you play the piano?
+Helena - Yes.
+Tŏmin - Good. But a labor machine must not be able to play the piano. It must not know happiness. Nor must it demand anything else. <63> There's no use decorating a gasoline motor with alcohol. So, making an artificial laborer is the same as making a gasoline motor. The method of making it must be the simplest and, from a practical standpoint, the best product possible. If it's a practical laborer, what kind of laborer do you think would be best, madam?
+Helena - What?
+Tŏmin - From a practical standpoint, what kind of laborer do you think is best, madam?
+Helena - Really, someone honest and hardworking, perhaps?
+Tŏmin - No. It means the cheapest one. The person who requires the least. So Mr. Rossum's son invented the laborer who required the least. He simplified the laborer. Thus, he threw away everything unnecessary for advancing labor. That is, he threw away the human and created the Artificial Laborer. Madam! The artificial laborer is not human. To be precise, the artificial laborer is far more perfect than we humans. Artificial laborers all possess highly advanced intelligence. But they do not have souls.
+Helena - How do you know artificial laborers don't have souls?
+Tŏmin - Have you ever seen the inside of an artificial laborer, madam?
+Helena - No.
+Tŏmin - The inside is truly simple. It's truly a magnificent creation. There is nothing unnecessary, and everything maintains its order perfectly. An engineer's creation is far more mechanically perfect than nature's creation.
+Helena - But humans are said to be God's creation?
+Tŏmin - That's why they're imperfect. God knows nothing about modern mechanics. Do you believe Mr. Rossum's son worked in place of God, madam?
+Helena - What? <64>
+Tŏmin - He started making special-order artificial laborers. Yes, they were all giants of the same height, twelve feet tall. But that was a failure, as you must know, madam?
+Helena - A failure?
+Tŏmin - Yes. Their hands and feet broke too easily. Certainly, this earth of ours is too small for giants. Therefore, this company now only makes laborers of the first-class civilized type.
+Helena - I have seen first-class artificial laborers in my country. Because the provincial government official bought artificial laborers.
+Tŏmin - Bought artificial laborers? That's right. Those laborers are bought and sold.
+Those laborers were bought as street sweepers. So I saw those people sweeping the streets. It was truly strange and dignified.
+Tŏmin - Rossum's Universal Robots Company doesn't just make one type of person. We make various types, from high-grade to low-grade. The highest quality artificial humans live for about 20 years.
+(Rings an electric bell to summon Mariyusŭ.)
+Helena - Then after that, the artificial laborer dies?
+Tŏmin - Yes. It can no longer be used.
+(Mariyusŭ enters.)
+Tŏmin - Mariyusŭ, bring two samples of manual labor artificial laborers!
+(Mariyusŭ exits.)
+I'll show you the standard and low-grade products. The first-class ones are relatively cheap and can be produced in large quantities.
+(Mariyusŭ enters with two artificial men.)
+Yes, you are the strong ones. And insured models with average intelligence. You may go now?
+(Mariyusŭ exits with the two.)
+Helena - Seeing them makes me feel strange.
+Tŏmin - And have you seen my typist? (Rings the electric bell to summon Sŭra.)
+Helena - I haven't seen her.
+(Sŭra enters.)
+Tŏmin - Sŭra! Have you met President K'urori's daughter?
+Helena - (Standing up) I am very pleased to meet you. <65> You must be quite unhappy being in a place like this?
+Sŭra - N-no. I don't feel anything at all.
+Helena - Where did you come from?
+Sŭra - I came from the factory.
+Helena - You were born in this factory?
+Sŭra - I was made here.
+Helena - What?
+Tŏmin - (Laughing) Sŭra is an artificial human. A first-class model.
+Helena - (To Sŭra) Excuse me.
+Tŏmin - Sŭra doesn't know how to get angry. Madam! Please take a look at this skin we made.
+(Touching Sŭra's face) Touch it.
+Helena - No. Please don't.
+Tŏmin - Don't you know this woman is made of different material than us? Sŭra! Turn around a bit!
+(Sŭra starts to turn.)
+Helena - (To Sŭra) Stop it. That's enough.
+(Sŭra stops.)
+Tŏmin - Sŭra, talk a little with the lady!
+Sŭra - Please sit down.
+(Helena sits on a chair.)
+Sŭra - Did you have a pleasant journey on the ship?
+Helena - Yes, it was very enjoyable.
+Sŭra - When you return, please don't take the ship America. The barometer dropped suddenly, so take the next ship, the Pennsylvania. That ship is large and good.
+Tŏmin - Speed?
+Sŭra - 20 knots. 50,000 tons, a recently built ship.
+Helena - Thank you.
+Sŭra - And the crew numbers 1,500. The captain is Mr. Happy, and there are eight boilers.
+Tŏmin - That's enough, now speak some French!
+Helena - Do you know French?
+Sŭra - I know four languages. I can also write. "Dear Sir. Quel temps fait-il? Il monsieur señor."
+Helena - (Jumping up) This is ridiculous! Sŭra is not an artificial human! <66> Sŭra is a woman like me. I don't like this. Why did you deceive me?
+Sŭra - I am an artificial woman.
+Helena - No. No. You're lying. I know everything. You're doing this for advertising. Hey, you're human like me, aren't you? Right?
+Tŏmin - I'm sorry, but Sŭra is an artificial laborer.
+Helena - Liar!
+Tŏmin - What? (Rings the bell to summon Mariyusŭ) Then I'll show you proof, madam.
+(Mariyusŭ enters.)
+Tŏmin - Mariyusŭ! Take Sŭra to the dissection room and tell them to dissect her!
+Helena - Where?
+Tŏmin - To the dissection room. After the dissector has dissected the girl, please go in and take a close look.
+Helena - No! You can't!
+Tŏmin - No, madam. It's because you said it was a lie.
+Helena - How can you cut this person up?
+Tŏmin - Can you cut up a machine, madam?
+Helena - Sŭra! Don't worry. I won't let them send you away. Does everyone treat you so cruelly like this? Don't endure such cruel treatment. Okay?
+Sŭra - I am an artificial woman laborer.
+Helena - Whatever you are! Even if you're artificial, you're like me. Hey! You shouldn't break the body into pieces.
+Sŭra - It doesn't matter if it's broken.
+Helena - Really! Then aren't you afraid of dying?
+Sŭra - I say nothing.
+Helena - If they cut up your body, what do you think will happen to you?
+Sŭra - I just won't be able to move.
+Helena - Oh dear, how scary!
+Tŏmin - Mariyusŭ, you talk about anything with this lady!
+Mariyusŭ - I am an artificial human named Mariyusŭ.
+Tŏmin - Will you take Sŭra to the dissection room? <67>
+Mariyusŭ - Yes.
+Tŏmin - Do you feel sorry for Sŭra?
+Mariyusŭ - I have nothing to say.
+Tŏmin - What will happen to Sŭra?
+Mariyusŭ - She won't be able to move. The factory people will throw Sŭra into the crusher.
+Tŏmin - Mariyusŭ! That is death. Aren't you afraid of dying?
+Mariyusŭ - I don't know.
+Tŏmin - Yes, madam! Artificial humans have no interest in life. They don't know pleasure. You could say they are like grass.
+Helena - Please stop now. Send these people away too.
+Tŏmin - Mariyusŭ! Sŭra! You may go!
+(Sŭra and Mariyusŭ exit.)
+Helena - How terrifying! What you are doing is truly cruel.
+Tŏmin - Why?
+Helena - I don't know exactly, but anyway, it's cruel. Why do you call that woman Sŭra?
+Tŏmin - Isn't that a rather nice name?
+Helena - But it's a man's name. Sulla was a Roman general.
+Tŏmin - Weren't Marius and Sulla lovers?
+Helena - Marius and Sulla were both generals, and they always fought each other.— I've forgotten the details.
+Tŏmin - Come over to the window and take a look.
+Helena - What?
+Tŏmin - Please come here. What do you see?
+Helena - There's a brick maker.
+Tŏmin - An artificial laborer. Everyone working here is an artificial human. What do you see down there?
+Helena - It looks like an office.
+Tŏmin - It's the accounting office. And in the middle—.
+Helena - There must be many clerks?
+Tŏmin - They are artificial humans. All the clerks here are artificial laborers. If you go to the factory now— (The factory whistle blows.)
+Tŏmin - Noon bell. The company decided to blow a whistle. <68> It's because the artificial humans somehow don't know the time to rest—. In two hours, I'll show you the kneading trough (揑槽).
+Helena - The kneading trough?
+Tŏmin - There's a pestle (杵) for kneading the dough. Each person mixes the seeds (種子 - likely referring to the base material) and makes 1,000 individuals at once. And there's also a vat for making livers and brains (腦髓). There's also a factory for making skeletons. And then I'll show you the spinning mill.
+Helena - The spinning mill?
+Tŏmin - Yes. It's where nerves and blood vessels are woven. Even long intestines, tens of miles long, are produced at once.
+Helena - Please talk about something else. Yes.
+Tŏmin - Alright. Among the 10,000 artificial humans here, there are only a few humans. Among them, there isn't a single human woman. And we talk about nothing but the factory from morning till night. Like some cursed life, you know.
+Helena - I'm very sorry for saying you were lying earlier.
+Tŏmin - Come in!
+(P'aburi, Dr. K'al, Dr. Haremiël, Alk'isŭt'ŭ, etc., enter.)
+Dr. K'al - Excuse me. Pardon me.
+Tŏmin - Come in! Oh— Madam! Allow me to introduce Mr. Alk'isŭt'ŭ, Mr. P'aburi, Dr. K'al, Dr. Haremiël. And this lady is the daughter of President K'urori.
+Helena - (Standing up) How do you do?
+P'aburi - Welcome.
+Dr. K'al - We are pleased you came.
+Alk'isŭt'ŭ - How do you do.
+(Ppasŭk'al enters from the right.)
+Ppasŭk'al - What's all this?
+Tŏmin - Mr. Ppasŭk'al! Come in. Oh, this is Mr. Ppasŭk'al. This lady is President K'urori's daughter.
+Helena - Pleased to meet you.
+Ppasŭk'al - Is this true! Madam! Shall I send a telegram to the newspapers announcing your arrival? <69>
+Helena - No. Please don't do that.
+Tŏmin - Madam! Please sit down.
+(Helena sits down.)
+Ppasŭk'al - Excuse me.
+Dr. K'al - Please sit.—
+P'aburi - Excuse me.
+(Everyone sits down.)
+Alk'isŭt'ŭ - How was your voyage?
+Dr. K'al - Will you be staying long?
+P'aburi - What are your impressions of this factory?
+Haremiël - Did you arrive on the ship America?
+Tŏmin - Quiet.— Madam, please speak.
+Helena - (To Tŏmin) What should I say?
+Tŏmin - Say whatever you like.
+Helena - Yes. May I speak about what's on my mind?
+Tŏmin - Of course. Certainly—.
+Helena - (Gesturing and resolving to speak) How painful must it be for you all, receiving such abuse?
+P'aburi - May I ask, who are we being abused by?
+Helena - By anyone.
+(Everyone looks at each other in surprise.)
+Alk'isŭt'ŭ - What do you mean by abuse?
+Dr. K'al - What on earth is she talking about?
+Haremiël - Abuse?
+Ppasŭk'al - This is astonishing news.
+Helena - Don't you all want to live a better life?
+Dr. K'al - Well, if only there were a better life—.
+Helena - This place is truly terrifying. (Standing up) In Europe, the issue of your treatment is being discussed. I came here to confirm it. And now that I'm here, it's a thousand times worse than I thought. Are you still going to endure it and live like this?
+Alk'isŭt'ŭ - Endure what, madam?
+Helena - This is truly maddening! You are living beings just like us, aren't you? Like Europeans, like all humanity. Isn't it a disgrace that you have no choice but to live like this?
+Ppasŭk'al - Thank you. <70>
+P'aburi - What the lady says is not entirely wrong. We are living here just like natives.
+Helena - It's worse than natives. Everyone! May I call you brothers?
+Ppasŭk'al - It wouldn't be impossible.
+Helena - Brothers, I did not come here as the President's daughter. I came with a mission from the Humanity League (人道同盟會). Brothers, the Humanity League currently has over two hundred thousand members. Those two hundred thousand people are with you and want to help you.
+Ppasŭk'al - That's quite a number. No, it's not harmful.
+P'aburi - That's why I always told you guys there's no one as grateful as the Europeans. Humph! They definitely won't forget us. They say they will rescue us.
+Dr. K'al - What kind of rescue? Like a theater, perhaps?
+Haremiël - An orchestra, you mean?
+Helena - It's more than that.
+Alk'isŭt'ŭ - Then you mean ladies like yourself, madam?
+Helena - Don't worry about tomorrow. I will stay here as long as you need me.
+Ppasŭk'al - Wow! This is truly appreciated!
+Alk'isŭt'ŭ - Tŏmin— We'll prepare the best room for the lady.
+Tŏmin - Hold on. The lady is speaking under the assumption that you are all artificial humans.
+Helena - Of course.
+Tŏmin - I'm sorry, but these men are all humans like us.
+Helena - Then you are not artificial laborers?
+Ppasŭk'al - (Laughing loudly) Not a chance!
+Dr. K'al - (Laughing) No, madam. Really—
+Helena - But—
+P'aburi - Madam! Truly, we are human.
+Helena - (To Tŏmin) Then why did you tell me earlier that all the clerks in this factory were only artificial laborers? <71>
+Tŏmin - No, madam. All the clerks are artificial humans, but the executives are different. Madam, please don't misunderstand. Let me introduce them again. This is Mr. P'aburi, the Chief Engineer of Rossum's Universal Robots Manufacturing Company. And Dr. K'al, Head of the Physiology Department. And Dr. Haremiël, Head of the Psychology Department, Mr. Ppasŭk'al, Head of the Sales Department, and next is Mr. Alk'isŭt'ŭ, Factory Manager and Architect.
+Alk'isŭt'ŭ - I am the Architect Mr. Tŏmin just mentioned.
+Helena - Gentlemen, please forgive me. I am terribly sorry.
+Alk'isŭt'ŭ - Not at all, madam. Please, sit down.
+Helena - (Sitting down) I am a foolish woman. Please let me leave on the next ship.
+Dr. K'al - How could that be? Why must you return?
+Helena - Because you already know I came to incite the artificial laborers—
+Tŏmin - Madam! We have met about a hundred rescuers and preparatory figures here. Two or three come with every ship. Missionaries have come. Anarchists have come. The Salvation Army has come. All sorts of people come. I am truly amazed that there are so many churches and foolish people in the world.
+Helena - So, did you let those people see the artificial humans?
+Tŏmin - Of course, we showed them. The artificial humans know everything well. But that's all; there's nothing else special. Those artificial humans don't even know how to laugh when people tell funny stories. It's truly incomprehensible. Madam! If you wish, I can show you the artificial human warehouse. There are about three hundred thousand of them.
+Ppasŭk'al - Four hundred forty-seven thousand.
+Tŏmin - Is that so. Madam! Please say whatever you wish. Read the Bible or recite the multiplication tables, as you please. Or preach about human rights, it doesn't matter at all.
+Helena - Truly, I thought you had at least a little love for the artificial humans—
+P'aburi - Using the word 'love' is impossible. There is nothing as unpleasant to look at as an artificial human. <72>
+Helena - Then for what reason do you make artificial humans?
+Ppasŭk'al - Hahaha, that's an interesting question. You ask why we make artificial humans?
+P'aburi - We make them to make them work. Because one artificial human does the work of two laborers. And looking at it, the human machine is quite imperfect. The human machine will disappear sooner or later.
+Ppasŭk'al - Because the human machine is utterly uneconomical.
+P'aburi - And yet, firstly, its effectiveness is poor. The human machine is already inadequate for the demands of modern mechanics. Nature does not try to keep pace with modern labor. For example, from an industrial perspective, childhood is utterly absurd. It just wastes time needlessly. And also—
+Helena - No. That's not true!
+P'aburi - Please don't misunderstand. What can be done? Please tell us a bit about the true purpose of your League... uh, the Humanity League.
+Helena - The true purpose of the Humanity League is—to protect artificial humans and... to ensure they are treated well.
+P'aburi - In any case, that purpose isn't bad. Machines must be handled well. I personally agree. I dislike seeing goods broken. How about letting us join the Humanity League, perhaps as contributing members, regular members, or even founding members?
+Helena - No, madam. You misunderstand. What I want is the liberation of artificial humans.
+Haremiël - How do you propose to liberate them?
+Helena - They must be treated like humans.
+Haremiël - Haha, you mean giving artificial humans the right to vote? Letting them drink beer? Letting them command us?
+Helena - Can't artificial humans drink beer?
+Haremiël - And you mean paying them wages for their labor?
+Helena - Of course, they must be paid.
+Haremiël - Well, just think about it! What on earth <73> would they do if they received wages (삭)?
+Helena - Artificial humans might have things they want to buy. They might have things they want to possess.
+Haremiël - It would be nice if they had things they wanted to possess. But they have nothing they want to possess. So what would they buy? You mean we should nurture them with pineapples or straw (藁 - likely a typo or misunderstanding for something else, maybe 'food'?) or other things? Yes. But doing such things is useless. They have no appetite. And they have no interests. Therefore, artificial humans have nothing to smile about.
+Helena - Why didn't you make the artificial humans happier?
+Haremiël - It cannot be done that way. Because artificial humans are only laborers.
+Helena - Oh dear, but don't artificial humans have intelligence?
+Haremiël - Yes. But they have nothing else. Artificial humans have no will of their own. No soul.
+Helena - Don't they have love?
+Haremiël - Love? Of course. Artificial laborers don't know love. They don't even know how to love themselves.
+Helena - Don't they have rebellious spirit?
+Haremiël - Rebellious spirit? Well, perhaps. Sometimes there might be occasions.
+Helena - What?
+Haremiël - No, madam. It's nothing worth specifically mentioning. Occasionally, they have seizures. We call it "robot's cramp." At that time, they suddenly throw away whatever they were holding and grind their teeth—then they go into the crusher. That, of course, is a defect in the machine's structure.
+Tŏmin - Such things are useless.
+Helena - No— no. That is precisely the soul! <74>
+P'aburi - Then does the soul first grind its teeth?
+Helena - Grinding teeth is precisely their rebellion. It's a sign of the suffering within their hearts. Yes, can't you improve them somehow?
+Tŏmin - Absolutely. Dr. K'al is currently researching it.
+Dr. K'al - Tŏmin! What I am researching is not that. I am currently creating pain nerves.
+Helena - Pain nerves, you say?
+Dr. K'al - Yes. Artificial humans cannot perceive physical pain. What Mr. Rossum's son created limited the nervous system too much. Therefore, we must make them aware of pain.
+Helena - Why is pain necessary for artificial humans too?
+Dr. K'al - From an industrial principle perspective, madam. Because artificial humans don't know pain, they break themselves. They put their hands into machines, break their fingers, bash their heads, and feel nothing. So we must make them feel pain. That will be an automatic protection against damage.
+Helena - If they become aware of pain, artificial humans will surely become happier.
+Dr. K'al - No, madam. On the contrary, they will become unhappy. Only from an industrial perspective will they become more perfect artificial humans.
+Helena - Why don't you create souls for the artificial humans?
+Dr. K'al - It is beyond our power.
+P'aburi - Because they have no interest in such things.
+Ppasŭk'al - The production cost is too high. In short, our company makes artificial humans cheaply. Including clothes, one artificial human costs about 15 pounds. Fifteen years ago, it cost 100 pounds. That was because things like clothes were bought elsewhere back then. But now, our company has a textile mill, and we export woolen cloth (羅紗) five times cheaper than others. Madam, how much did you pay per yard for woolen cloth?
+Helena - I don't know. I've forgotten. <75>
+Ppasŭk'al - You don't know? And yet you organized the Humanity League. Madam, woolen fabric can now be bought for one-third of the previous price. Nowadays, the price of everything has dropped by one-third compared to before. Prices are now gradually starting to fall.
+Helena - Why is that?
+Ppasŭk'al - Why, you ask? Yes, it's because laborers' wages have become cheaper. For one artificial laborer, including food and all other expenses, it costs only three-quarters of a penny per hour. This is a significant issue. If any factory doesn't use artificial humans, that factory will soon go bankrupt.
+Helena - Then human laborers will become unnecessary?
+Ppasŭk'al - Of course, yes. In any case, our company sent 500,000 tropical artificial humans to cultivate grain on the Irosin Plain (이루샌진野原). Do you know how much one pound of bread (팡 - from French 'pain' or similar) costs?
+Helena - I don't know.
+Ppasŭk'al - Then let me tell you. In Europe, it now costs two pence. One pound of bread for two pence. And the Humanity League knows nothing. Yes. Madam, have you had no thoughts about such valuable things? Within five years, surely—
+Helena - What?
+Ppasŭk'al - All prices will become one-fifth of what they are now. Why, you ask? Because within five years, there will be more than enough rice and everything else to eat, with plenty left over.
+Alk'isŭt'ŭ - Yes. And all the laborers in the world will be laid off.
+Tŏmin - That's right, Alk'isŭt'ŭ! Exactly. So within ten years, Rossum-style artificial humans will produce vast amounts of grain, woolen cloth, and everything else. Thus, prices will become very cheap. Then, needy people will disappear. All work will be done by living machines. Consequently, all human suffering will also disappear. And liberation from the degradation of labor can be obtained. Everyone will be able to live solely to perfect themselves. <76>
+Helena - Including the artificial humans, you mean?
+Tŏmin - Of course. It's impossible now, but when that time comes, there will be no more humans employing humans, nor humans submitting to material things. Of course, there might be fearful things at first. That's unavoidable. But only when that time comes, no one will struggle to obtain bread as objects of life and hatred. Artificial humans too will escape their beggar-like state and live comfortably in their own homes.
+Alk'isŭt'ŭ - Tŏmin, Tŏmin! Aren't you talking just like it's paradise? But isn't service a good thing, and isn't humility also admirable? Isn't there value in toil and fatigue?
+Tŏmin - That may be so. But there's no use thinking again about what we lost when we remodeled the world. When that time comes, humans will be free and superior. Humans will have no purpose other than self-perfection, no toil, no worries. Humans will not submit to other humans or to material things. Humans will not be production machines, nor means to an end. Humans will become the gods of creation.
+Ppasŭk'al - A very thankful thing.
+P'aburi - That's right.
+Helena - I feel as if I've been completely charmed. I wish it could really be like that.
+Dr. K'al - Madam! Since you are younger than us, you will live long enough to see it.
+Haremiël - Absolutely. Madam, what will you do? How about having lunch with us?
+Dr. K'al - Please do so. Yes? Tŏmin! Ask her on our behalf!
+Tŏmin - Madam! Will you accept?
+Helena - If you knew why I came here—
+P'aburi - For the Humanity League?
+Helena - Therefore—
+P'aburi - Alright. Excuse us for five minutes.
+(Everyone stands up.)
+Dr. K'al - I'll also be excused for a moment.
+Ppasŭk'al - I'll be right back. <77>
+Haremiël - We are very pleased you came, madam.
+Ppasŭk'al - I'll definitely be back in five minutes.
+(Everyone exits, leaving only Tŏmin and Helena.)
+Helena - Why did everyone leave?
+Tŏmin - To prepare the food.
+Helena - What food?
+Tŏmin - Lunch. Artificial humans make our meals, but they have no sense of taste.— Haremiël makes good stews, Dr. K'al makes sauces, Ppasŭk'al makes excellent omelets.
+Helena - Oh my, what a grand feast. That gentleman—the Architect—what is he good at?
+Tŏmin - You mean Alk'isŭt'ŭ? That fellow doesn't know how to cook. He just sets the table. And P'aburi gathers the fruit. The cuisine here is quite extraordinary.
+Helena - I have something I'd like to ask you.—
+Tŏmin - I also have something I'd like to ask you. (Looking at his watch) Five minutes!
+Helena - What do you want to ask?
+Tŏmin - No, you ask first!
+Helena - It might sound foolish, but why did you make female artificial humans? Uh—
+Tŏmin - You mean, is gender meaningless to artificial women?
+Helena - No.
+Tŏmin - There is still a need for them. Because the world uses female artificial humans as maids, female clerks, stenographers, and the like—.
+Helena - But still, why is it that male and female artificial humans don't— uh—
+Tŏmin - They have no thoughts about it. They possess absolutely no affection.
+Helena - Oh dear! How shocking!
+Tŏmin - Why?
+Helena - But isn't that too unnatural? I can't quite understand it. Whether it's better to love or hate, or—
+Tŏmin - Or whether it's better to feel sorry for them, you mean?
+Helena - It's more than that. And what was it you wanted <78> to ask me?
+Tŏmin - How about it, madam? How about marrying me?
+Helena - What did you say?
+Tŏmin - Won't you become my wife?
+Helena - I haven't really thought about such a thing.
+Tŏmin - (Looking at his watch) Three minutes left. If you don't marry me, you must definitely marry one of the five of us.
+Helena - Why is that?
+Tŏmin - Because they will all propose marriage in turn.
+Helena - Why do you all do such things?
+Tŏmin - They all love you.
+Helena - Please tell them not to do that. I— I'm leaving soon.
+Tŏmin - Miss Helena! Are you rejecting me?
+Helena - But— but I can't marry six men.
+Tŏmin - That's not it. Just one among them. If you dislike me, will you marry Mr. P'aburi?
+Helena - No. I don't want to.
+Tŏmin - Then Dr. K'al?
+Helena - I dislike them all.
+Tŏmin - (Looking at his watch) Only two minutes now.
+Helena - Haven't you married any of the ladies who came here?
+Tŏmin - Many have come, but—.
+Helena - Young women?
+Tŏmin - Yes.
+Helena - Then why didn't you marry them?
+Tŏmin - There wasn't a woman whose appearance charmed me enough. Until today. But from the moment you removed the veil from your face—
+(Helena looks around.)
+Tŏmin - Only one minute left now.
+Helena - But I really don't want to marry you.
+Tŏmin - (Placing both hands on Helena's shoulders) One minute left! Now sit up straight and say "No" solemnly. Then I will leave this spot. <79> But otherwise—
+Helena - (Looks at Tŏmin, but quickly turns back) You are quite persistent.
+Tŏmin - What can I do then? Every man is persistent. That's what men do.
+Helena - Are you mad?
+Tŏmin - Every man is a little bit mad. That's the good thing about men.
+Helena - (Turning back again) Hey! You're going too far.
+Tŏmin - Did you understand what I said? Is it alright?
+Helena - No. No. Go away. You're bothering me!
+Tŏmin - Helena! Is that really your answer?
+Helena - (As if retracting) When I get to know you better— No, really, what should I do— I'm going over there.
+Tŏmin - This is the last chance now. Helena! Otherwise—
+Helena - But, but—
+(Tŏmin hugs Helena and kisses her. A sound of the door opening.)
+Tŏmin - (Releasing Helena) Come in!
+(Ppasŭk'al, Dr. K'al, Haremiël, etc., enter wearing aprons.)
+Tŏmin - Gentlemen, is your work done?
+Ppasŭk'al - It's done.
+Tŏmin - Ours is done too.—
+(For a moment, everyone is unsure what happened, but soon understand the meaning of Tŏmin's words and come forward congratulating Helena and Tŏmin.) -Curtain-
+-Unfinished-
+
+Act 1 is more like a prologue, and starting from Act 2, through Acts 3 and 4, there is truly the rebellious great activity of the artificial humans and satire of humanity. <80>
+
+**Summary**
+
+This text provides an introduction and the complete first act of Pak Yŏnghŭi's 1925 Korean translation of Karel Čapek's play "R.U.R." The introduction explains the play's premise: the invention of artificial laborers ("Robots") by the Rossums, their soulless efficiency leading to global adoption and societal upheaval. Act One introduces Helena Glory, daughter of a president, visiting the isolated island factory of Rossum's Universal Robots. She meets the general manager, Domin, and other senior staff (all human men), initially mistaking them for Robots due to her mission from the Humanity League to advocate for the Robots' rights. The act explores the creation, nature, and purpose of the Robots through dialogue, highlighting their lack of feeling, soul, and pain (though pain is being developed for practical reasons), contrasting this with the efficiency and economic benefits they bring. It ends with Domin impulsively proposing to Helena, revealing the other managers also intend to, and securing her ambiguous acceptance just as the others return.
+
+From the perspective of Korean colonial history, this article is interesting as an early example of modern Western literature being translated and consumed in Korea during the Japanese colonial period. The themes of industrialization, dehumanization of labor, class struggle, and the potential dangers of technology, while universal, might have resonated differently in a colonized nation experiencing forced modernization and exploitation. The translation itself, using contemporary Korean spellings and vocabulary (including loanwords like 'Robot'), reflects the linguistic landscape of the 1920s. Publishing a play discussing revolution and the overthrow of humanity, even in a fictional context, in a censored environment like colonial Korea is also noteworthy.
+
+**Named Entities**
+
+채퍽크	채페크	Ch'aep'ŏk'ŭ (Čapek)
+朴英熙	박영희	Pak Yŏnghŭi
+R.U.R	R.U.R	R.U.R
+롯섬宇宙人造人間製造會社	롯섬 우주 인조인간 제조회사	Rossŏm Universal Robots Manufacturing Company
+롯심氏	롯심 씨	Mr. Rossim (Rossum)
+南洋	남양	South Seas
+보헴미아	보헤미아	Bohemia
+하-리·떠민	하리 떠민	Hari Tŏmin (Domin)
+파부리	파부리	P'aburi (Fabry)
+칼博士	칼 박사	Dr. K'al (Dr. Gall)
+하레미엘博士	하레미엘 박사	Dr. Haremiël (Dr. Hallemeier)
+알끼스트	알키스트	Alk'isŭt'ŭ (Alquist)
+빠스깔	파스칼	Ppasŭk'al (Busman)
+헤레나·구로리	헬레나 구로리	Helena K'urori (Helena Glory)
+나나	나나	Nana
+라듀우스	라디우스	Radyuusŭ (Radius)
+뿌리마스	프리마스	Ppurimasŭ (Primus)
+스라	술라	Sŭra (Sulla)
+헤레나	헬레나	Helena (Robot Helena)
+마리우스	마리우스	Mariyusŭ (Marius)
+英國	영국	England
+소삼푸돈市	사우샘프턴 시	Southampton City
+이-엠 막비카 회사	이엠 막비카 회사	E.M. MacVicar Company
+米國	미국	America
+育紐市	뉴욕 시	New York City (using Hanja characters for phonetic transcription)
+이 삐 하이손 대리점	이 피 하이손 대리점	E.P. Hyson Agency
+獨逸	독일	Germany
+함뿌룩크市	함부르크 시	Hamburg City
+후리도리쓰히 공장	프리드리히스 공장	Friedrichswerke Factory
+구로리 대통령	구로리 대통령	President K'urori (President Glory)
+구라파	구라파	Europe (older term)
+歐羅巴	유럽	Europe (Hanja transcription)
+소크라데스	소크라테스	Socrates
+메데유사	메두사	Medusa
+벤실베니야 號	펜실베이니아 호	SS Pennsylvania
+佛蘭西	프랑스	France (Hanja transcription)
+羅馬	로마	Rome
+人道同盟會	인도동맹회	Humanity League
+이루샌진野原	이루샌진 야원	Irosin Plain (Location unclear, possibly fictional or specific to translation)
+
+**Glossary**
+
+人造勞働者	인조노동자	Artificial Laborer (Robot)
+개벽	개벽	Creation; Name of the magazine, meaning "Dawn" or "New Era"
+희곡	희곡	Play (drama)
+로뽀트	로보트	Robot (older transcription)
+업고	없고	Without; lacking (older spelling of 없고)
+잇섯다	있었다	Was; existed (older spelling of 있었다)
+맨들다	만들다	To make; to create (older form of 만들다)
+녀자	여자	Woman (older spelling/pronunciation of 여자)
+안젓다	앉았다	Sat (older spelling of 앉았다)
+갑싼	값싼	Cheap (older spelling of 값싼)
+지전	지전	Carpet (likely 紙氈 - paper carpet, but used here for Turkish carpet)
+뵈이다	보이다	To be seen; to meet (honorific/older form)
+각하	각하	Your Excellency (honorific title)
+쫏차내다	쫓아내다	To chase out; to expel (older spelling of 쫓아내다)
+염여말고	염려 말고	Without worry (older spelling/form of 염려 말고)
+년치	연치	Age (older term for 나이)
+드르시다	들으시다	To hear; to listen (honorific, older spelling of 들으시다)
+시험관	시험관	Test tube
+척추동물	척추동물	Vertebrate animal
+관계찬다	괜찮다	To be okay; alright (older spelling/form of 괜찮다)
+밋치괭이	미치광이	Madman; lunatic (older spelling of 미치광이)
+그럿치만	그렇지만	But; however (older spelling of 그렇지만)
+엇지햇든	어쨌든	Anyway; regardless (older spelling of 어쨌든)
+엇재서	어째서	Why; for what reason (older spelling of 어째서)
+로농자	노동자	Laborer; worker (older spelling/pronunciation of 노동자)
+일홈	이름	Name (older spelling/pronunciation of 이름)
+이저버리다	잊어버리다	To forget (older spelling of 잊어버리다)
+동맹회	동맹회	League; Alliance Association
+삭	삯	Wages; pay (native Korean word)
+압흔	아픈	Painful; sore (older spelling/form of 아픈)
+반죽하는 통 (揑槽)	반죽하는 통 (날조)	Kneading trough (Hanja 揑槽 appears specific, meaning 'kneading trough')
+공이 (杵)	공이 (저)	Pestle (Hanja 杵 means pestle)
+뇌수	뇌수	Brain (substance)
+방적공장	방적공장	Spinning mill
+라사 (羅紗)	라사	Woolen cloth; thick woolen fabric (loanword, likely from Portuguese 'raxa' or Japanese 'rasha')
+편쓰	펜스	Pence (British currency unit)
+압치마	앞치마	Apron
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제56호
+발행일	1925년 02월 01일
+기사제목	人造勞働者(全4幕)
+필자	채퍽크(作), 朴英熙(譯)
+기사형태	희곡·시나리오
+
+人造勞働者
+						채퍽크(作), 朴英熙(譯)
+이 극의 원명은 「R.U.R」이니 즉 인조노동자 제조회사의 일흠인 「ossom's Universal Robots」이다. 「로뽀트」는 「노동자」 혹은 「무임노동자」란 말이며 또 막코안氏는 「기계가 만들어서 생명을 주는 노동자」라고 해석한다. 이 말은 보헴미아語다.
+大生理學者인 롯심氏는 1920년 南洋孤島로 출발해서 해양동물을 연구하는 중에 원형질과 유사한 물건으로 화학적으로 제작할 확신을 가지고 1950년에 인공적으로 인간을 제작하엿다. 그러나 3일만에 죽어서 그는 실패를 하고 그의 아들이 비로소 완전한 인간을 제작하여 가지고 그 인조인을 노동인으로 代用하엿다. 그러나 영혼이 업고 감각이 업는 인조노동자는 무임으로 노동할 수 잇섯다. 그리함으로 각국에서 수만 명의 인조인을 주문하며 또한 각 정부에서는 이것으로 군비확장을 계획해서 종말에는 세계적 혁명이 비롯되며 또한 기계문명의 발달된 인류사회의 말세를 보이는 未來孤의 일대 걸작이다. 각국에서는 닷투어 가면서 상연하엿다 한다.
+
+人物
+하-리·떠민. -롯섬宇宙人造人間製造會社 總支配人
+파부리. - 技師長.
+칼博士. - 生理部長.
+하레미엘博士. - 心理部長.
+알끼스트. - 工場長, 建築家.
+빠스깔. - 同會社 營業部支配人.
+헤레나·구로리. -大統領의 令孃.
+나나. - 구로리의 女下人.＜56＞
+라듀우스. - 人造男.
+뿌리마스. - 人造男.
+스라. - 人造女.
+헤레나. - 人造女.
+從僕等
+第一造男.
+第二造男.
+第三造男.
+
+場面
+第一幕. 롯섬 宇宙人造人會社 工場의 本部.
+第二幕. 5年後에 엇던 아참 헤레나의 應接室
+第三幕. 同上 (同日午後)
+第四幕. (에피록) 硏究室 (1年 後)
+場所- 한 孤島.
+時 - 未來.
+
+第一幕
+롯섬 우주 인조인 제조회사 공장 내 영업본부.
+右便 後部에는 입구. 정면 벽에는 공장의 건축물이 보이는 창. 左便으로는 수 개의 사무실. 떠민은 큰 책상 압헤 회전의자에 걸타안젓다. 책상 우에는 전기스탠드, 전화, 편지다는 저울 등 여러 가지 물건이 노엿다. 左便 벽에는 철도기반의 교통지도, 큰 日歷, 正午 후 數分이 지내고 잇는 시계가 걸렷다. 또한 몃 장의 포스터가 붓텃다. 거긔는 이러한 말을 써서 잇섯다.
+「갑싼 노동자」
+「롯섬식 노동자」
+「열대 노동자 30磅」
+「귀하의 노동자를 구하시요.」
+「귀하의 생산비를 절감하기 위해서 룻섬식 노동자를 구하시요」
+이와 가튼 무취미한 장식과는 조화되지 안케 마루 우에는 찬란한 土耳其製의 紙氈을 깔엇다. 右便으로 원형테불, 쏘파, 가죽으로 싼 肱掛椅子, 책 대신으로 酒甁을 벌려 논 冊棚. 左便에는 금전출납의 床. 떠민은 책상 엽헤 안졋고 스라는 타입으라터 (寫字本)을 누르고 잇다.
+떠민-(書取를 시키면서) 자아?
+스라-네.
+떠민-英國 소삼푸돈市 이-엠 막비카 회사 御中.
+『本 회사는 운송 중에 파손한 물품에 대해서는 보증하지 안슴니다. 本 회사는 화물을 선적할 때에 그 기선이 인조인을 수송함에 부적당하다는 것만을 귀하의 선장에게 주의만을 식히고. 本 회사는 荷物 파손에 대해서는 아모 책임도 업슴니다. 롯섬 우주 인조인 회사』
+(書取할 때에 꼼짝업시 안젓든 스라는 멧 분 동안에 신속하게 타입으라이터로 박이엿다)
+떠민-다 되엿니?
+스라-네.＜57＞
+떠민-또 하나. 「米國 育紐市 이 삐 하이손 대리점 御中」 『귀사에서 인조노동자 5,000인의 주문하신 것은 拜受하엿슴니다. 귀사 기선이 다시 올 때에는 본사용 경연탄을 보내주시면 前記 석탄대금은 本 회사의 지불액의 일부로 기입하여 주시요. 롯섬 우주 인조인 회사』
+(스라는 신속히 박이엿다.)
+떠민-다 되엿니?
+스라-네.
+떠민-또 하나. 「獨逸 함뿌룩크市 후리도리쓰히 공장 御中.」 『귀사에서 주문하신 인조노동자 15,000인의 주문은 拜受하엿슴니다.」
+(전화가 왓다.)
+떠민-여보시요! 여긔는 본부요. 그래 꼭 음 전보를 노아라 그만두자.
+(전화를 끗첫다.)
+어듸서 끗첫지?
+스라-『인조노동자 15,000인의 주문은 拜受하엿슴니다.』에서요.
+떠민- 인조노동자 15,000인. 15,000인!
+(마리우스가 드러왓다.)
+떠민-응 무슨 일야?
+마리우스-네 엇더한 부인께서 뵈이시겟다구요.
+떠민-부인? 누구야?
+마리우스-누구신지는 모르겟슴니다마는 이 소개장을 가지고 오섯서요.
+떠민-(명함을 보고서) 응. 구로리 대통령의 소개로군. 드러 오시라구 해라.
+마리우스-(문에서) 이리 드러오십쇼.
+헤레나, 구로리 등장. 마리우스 退去)
+헤레나-안영하심니까?
+떠민-네 안영하심니까. (일어서면서) 무슨일로 오섯는지요?
+헤레나-당신이 총지배인 떠민氏심니까?
+떠민-그럿슴니다.
+헤레나-나는-
+떠민-구로리 대통령 각하의 명함을 가지고 오섯지요. 네 좃슴니다.
+헤레나-구로리 대통영은 나˜ 아버지가 되심니다.
+떠민-각하의 따님! 우리가 대통영 각하의 따님을 맛게된 것은 본 회사로서는 대단한 영광이올시다. 그러나-
+헤레나-그러나 나를 쫏차내지는 안을 터이지요?
+떠민-자 안즈십쇼. 스라야 너는 저리 가거라!＜58＞
+(스라 退去)
+떠민-(걸터안즈면서) 말슴하시고 십흔 것이 게시거든 염여말고 하세요.
+헤레나-내가 온 것은-
+떠민-사람을 맨드는 우리들의 유명한 공장을 구경하시려고 오섯슬 터이지요? 다른 손님들처럼 알엇슴니다. 거절은 안이하겟슴니다.
+헤레나-나는 거절하실 줄 알고도 왓슴니다.-
+떠민-공장예 드러가는 것 말슴임니까? 에 그것은 물론 거절임니다. 다른 사람들도 다 누구의 소개짱을 가지고 오기는 하지만.
+헤레나-그래 여러분에게 다 보이여 드리엇을 터이지요?
+떠민-다만 한 부분뿐만 보여 드림니다. 인조노동자를 맨드는 데는 비밀한 방법이 잇기 때문에-.
+헤레나-그러면 나에게는-
+떠민-보여주겟느랸 말슴이지요. 안이 구라파 전체가 지금 이 공장 이야기뿐만 한대요.
+헤레나-당신은 웨 남의 말을 꼭 잘너서 말슴을 하심니까?
+떠민-실례햇슴니다. 그러면 다른 말슴이 하실 것이 계시단 말슴임니까?
+헤레나-내가 말슴하고 십흔 것은-
+떠민-네 그러면 부인께는 특별한 대우로 공장까지 보여 들이지요.
+헤레나-엇더케 당신은 내가 원하는 것을 그리도 잘 아심니까?
+떠민-여긔 오시는 이는 누구든지 가튼 소원이 잇스니깐요. 그러나 부인께는 특별이 다른 사람에게 안이 보이는 것을 보여들이지요.
+헤레나-고맙슴니다.
+떠민-그러나 그 비밀은 절대로 루설되지 안토록요.
+헤레나-(일어나면서 손을 내밀고) 네 그것은 결단코.
+떠민-고맙슴니다. 그 베일(面紗)를 좀 버스시는 것이 엇더하실까요-?
+헤레나-그것은 쉬운 일이지요. 내가 탐정이나 안인가 하고 그것을 알으시 량으로 그러시지요. 용서하세요.
+떠민-무엇이요? (별안간 헤레나의 손을 잡으면서)
+헤레나-손을 좀 노아주세요.＜59＞
+떠민-(손을 노코) 아 용서하십쇼.
+헤레나-(面紗를 버스면서) 당신은 매우 주의를 하심니다 그려 그럿치요?
+떠민-(매우 만흔 흥미를 가지고 헤레나를 보면서) 네 물론 우리들은-그-
+헤레나-그 무엇이예요? 무슨 말슴을 하시려다가?
+떠민-우리들은 매우 즐겁게 생각함니다. 배에서는 무사하섯슴니까?
+헤레나-네.
+떠민-무슨 괴로우섯든 일은 업섯슴니까?
+헤레나-웨 그리세요?
+떠민-안이 나는 다만 부인께서 저러케 젊으시니깐 말슴예요.
+헤레나-곳 좀 공장을 볼 수 업슬까요?
+떠민-네 알엇슴니다. 스물둘 가령은 되엿겟지.
+헤레나-무엇이 스물들이란 말슴예요?
+떠민-부인의 년치가 말슴예요.
+헤레나-스물한 살이예요. 그런데 엇재서 그런 것을 물어보심니까?
+떠민-엇재서요.-(열심으로) 오래동안 이곳에 게시겟슴니까? 엇더심니까?
+헤레나-구경할 공장이 끗나는 대로 결정하려고 하는데요.
+떠민-인저 공장 이야기는 그만 두시지요. 안이 안이올시다. 모조리 구경시켜 들이지요. 모조리 보여 들이겟슴니다. 엇더심니까? 안즈시지요.
+헤레나-(長椅子 압헤 가서 안즈면서) 고맙슴니다.
+떠민-그런데 맨 먼저로 인조노동자를 발명하든 이야기를 좀 드르시렴니까?
+헤레나-네 들여주세요.
+떠민-(황홀한 모양으로 헤레나를 흘깃거리면서 별안간 짓거리기 시작한다.) 유명한 생리학자이엿든 롯섬씨가 해양동물 연구를 목적하고 이 절해의 외로운 섬으로 오게 되엿든 때는 1920년이엿슴니다. 씨가 그때에는 매우 젊은 과학자이엿슴니다. 그러는 중에 씨는 원형질이라고 하는 생물을 화학적으로 맨들기를 시작하엿슴니다. 그래서 그여히 발견된 것이 化學上 조직과는 틀린 생물과 꼭 가튼 것을 발견하엿슴니다. 그 발견은 1932연의 일인데 그때가 꼭 아메리카 발견한지 400년이＜60＞ 됨니다.
+헤레나-그러면 당신은 그 발견한 것을 왜 우슴니까?
+떠민-네 생물학은 나의 전문이 안이니깐요. 그리고 또 이야기를 계속 할까요?
+헤레나-네 들려주세요.
+떠민-그래서 롯섬씨는 화학상의 표본 가운대 이러한 것을 써노앗서요. 『자연이 생물을 맨드는 법은 다만 하나 밧게는 업다. 그러나 그보다 더 간단하게 뜻대로 더 신속하게 되는 다른 방법이 잇슬 줄이야. 자연은 꿈에도 생각지 못하엿스리라. 인생의 진보를 보이는 제2의 방법은 오날 나로써 발견되엿다.』 이러케 써 잇서요. 이것 보세요. 개(犬)까지도 도라다 보지도 안튼 膠質의 雜物에 대해서 이러케 놀나울 말을 써노은 氏를 좀 생각해보세요. 시험관 압헤 안저서 모든 생명의 나무가 그 시험관 속에서 엇더케 살게되며 또는 甲虫과 가튼 물건에서 사람에게까지-물론 우리와는 다른 물질의 사람이지만-그 모든 동물이 그 시험관 속에서 엇더케 되여 가는 것을 몰두해서 보고 잇섯든 롯섬氏를 생각해 보십쇼. 그가 이러케 연구하엿든 그때야말로 참으로 놀날 만할 시간이엿슴니다.
+헤레나-무엇이요?
+떠민-그래서 인제 문제라는 것은 이 시험관에서 엇더케 생명이 생기며 또한 진화해서 심장과 골격과 신경이 생기며 또는 효소와 접합소들의 접촉물이 엇더케 발견되엿느냐는 것이지요-아시겟슴니까?
+헤레나-잘 알 수는 업슴니다마는.
+떠민-좀 참으시고 들으십쇼. 엇지햇든 롯섬氏가 맨들여고 하엿든 것은 무엇이든지 할 수 잇섯다구만 생각하세요. 소크라데스의 두뇌나 메데유사와 가튼 怪物이나 50야드나 되는 長虫이나 무엇이든지 그가 맨들지 못하든 것은 하나도 업섯서요. 잡담은 그만두고 그는 위선 脊椎動物 더욱이 사람을 맨들려고 게획햇슴니다. 그래서 이 인공적 생물은 생활을 열망하는 것이며 또한 따라서 꾸매기도 하게되며 깨트러 부시기도 하게되는 것을 아모러케도 생각하지 안은 물건이엿슴니다. 그런 故로 자연의 단백질로 만들 수는 업슴니다.＜61＞ 그래서 그가 생각을 하게 되엿음니다.
+헤레나-무엇 이예요?
+떠민-자연을 모방한단 말이예요. 위선 처음으로 氏는 인공적으로 개(犬)를 만들려고 하엿슴니다. 그러나 몃 칠 동안 애쓰고 만든 것은 고만 송아지가 되고 말엇슴니다. 그나마 나달후에 죽엇슴니다. 그것을 지금 박물관에 가서 보여들이지요. 그리고 그 후로 그는 사람을 만들기 시작햇슴니다.
+헤레나-이런 이야기를 남에게 말해도 관게찬슴니까?
+떠민-염체 남에게는 아조 비밀로 하세요.
+헤레나-그러나 그까진 것은 歐羅巴나 米國이나 학교 교과서에도 잇지 안슴니까?
+떠민-그럿슴니다. 그러나 그 교과서 이외에 사실을 아심니까? 롯심氏는 정신이 미첫다는 것이예요. 늙은 밋치괭이가 훌륭하게 사람을 만들엇다는 것을 꼭 아세야 함니다.
+헤레나-그러나 당신도 사람을 만드실 줄 아시겟지요.
+떠민-그것은 엇지햇든 롯섬氏는 참으로 훌륭한 사람을 만들엇슴니다.
+그는 신의 과학적 대용물이 되려고 하엿든 것임니다. 그리고 氏는 극단에 물질주의자이엿서요. 그래서 그런 일을 한 것임니다. 그가 목적한 것은 신이라는 것은 인제는 불필요하다는 것의 증거를 세우려고 한 것에 불과한 것이지요. 부인은 해부학의 지식이 게심니까?
+헤레나-그저 조금쯤은 잇슴니다.
+떠민-나 역시 그러키는 함니다마는. 엇지햇든 氏는 무엇이든지 사람과 가튼 것을 만들려고 결심하엿슴니다.
+그가 10년 동안이나 애쓰고 만들다가 잘못된 견본을 보여들이지요. 사람이라고 만들어 논 것이 단 사흘동안 밧게는 더 살지 못하여섯든 까닭에요. 그런데 기사노릇을 하고 잇든 그의 아들이 나타낫지요. 그의 아들도 매우 장한 사람이예요. 그래서 그 아들 되는 이가 그의 아버지가 잘못 만든 사람을 보고는 이러케 말하엿슴니다. 『사람 하나를 만드는데 10년식이나 걸린다는 것은 어리석은 일이예요. 자연보다 더 빨리 못될 것이면 그만두는 것이＜62＞ 훨신 남니다.』라는 말이엿서요. 그래서 그 아들이 다시 해부학 연구에 몰두하엿슴니다.
+헤레나-학교 교과서에는 그런 말이 업는데요.
+떠민-교과서라는 것은 광고요금 낸 것만 기재하는 것이니깐 그곳에 잇는 글이란 무미한 것뿐이지요. 그리고 교과서에는 롯섬氏의 부자가 협력해서 일을 하엿다고 하엿지만 그런 말은 아해들 이야기와 가튼 것이지요. 부자는 늘 서로 욕을 하엿서요. 롯섬氏는 공업상에 대한 필요는 조금도 생각하지 안엇스나 그 아들은 공업상 목적으로 연구소에 드러업대여서 참으로 놀랄만한 정력으로 연구햇슴니다. 그래서 나종에는 기사이라는 처지에서 商賣를 하려 하엿슴니다. 롯섬氏는 자기를 저주하엿슴니다. 자긔가 죽기 전에 두 사람의 생명을 업새겟다고까지 하엿슴니다. 그런 후 어느 날 두 사람이 연구하든 중에 그는 죽어버렷슴니다. 그에 대한 이야기는 이것뿐임니다.
+헤레나-그래 그 아들 되는 이는 엇더케 햇슴니까?
+떠민-그러면 그 사람이야기를 또 하지요. 사람의 몸을 해부하는 것을 본 사람은 사람은 너무 복잡해서 엇던 유명한 기사는 그것을 훨신 간단하게 하려고 할 것을 생각할 터이지요. 그런고로 롯섬氏의 아들 되는 이가 해부학을 수정하기 시작햇지요. 그러니깐 그것을 생략해서 가장 간단하게 하려고 햇서요. 가령 말하면-그러나 너무 지리하지 안슴니까?
+헤레나-아니요 조금도. 어서 이야기나 계속하세요. 참 자미잇슴니다.
+떠민-그래서 그는 이러케 말햇음니다. 『사람이 행복을 알게 되며 피안오를 타게 되며 혹은 산보를 하는 모든 필요치 안은 것을 무엇이든지 하려고 하는 동물이라』고요.
+헤레나-참말로.
+떠민-그런 것은 필육을 짜는 때나 혹은 계산할 때에는 필요치 안슴니다. 부인께서는 피안오를 타실 줄 아심니까.
+헤레나-네.
+떠민-좃슴니다. 그러나 노동기계가 피안오를 타게 되여서는 안됨니다. 행복을 알게 되여서도 아니됨니다. 또한 그 외에 다른 것을 요구하게＜63＞ 되여서는 아니됨니다. 까소린 모터를 술로 장식을 한대도 아모 소용이 업슴니다. 그래서 인공적 노동자를 맨드는 데는 까소린 모터를 맨드는 것이 가튼 것임니다. 만드는 법은 제일 간단하고 또한 실제적이라는 점에서 제일 좃케 만든 물품이라야 할 것임니다. 실제적 노동자라면 부인께서는 엇던 종류의 로농자가 제일 조흘 줄 아심니까?
+헤레나-무엇이예요.
+떠민-실제라는 점에서 부인께서는 엇던 종류의 로동자를 제일 조흔 줄 아시느냐는 말슴이예요?
+헤레나-참말로 정직하고 또 일 잘하는 사람일 터이지요?
+떠민-그러치 안슴니다. 제일 갑싼 것이란 말이예요. 요구하는 것이 적은 사람이예요. 그래서 롯섬氏의 아들 되는 이는 요구가 가장 적은 로동자를 발명하엿슴니다. 로동자를 단순하게 하엿슴니다. 그래서 그는 로동을 진보하게 하는 데에 소용업는 몰건은 다 내여버리고 말엇슴니다. 즉 그는 사람을 내여 버리고 人造勞働者를 만드럿슴니다. 부인! 인조로동자는 사람은 안임니다. 확실이 말슴하면 인조로동자는 우리 사람보다는 훨신 완전한 것임니다. 인조로동자는 모도가 매우 진보된 智力을 가지고 잇슴니다. 그러나 영혼을 갓지 안햇슴니다.
+헤레나-인조로동자에게 령혼이 업는 것을 엇더케 아심니까?
+떠민-부인께서는 인조로동자의 내부를 구경하신 일이 잇슴니까?
+헤레나-아니요.
+떠민-내부는 참으로 간단함니다. 참으로 훌륭한 제작품임니다. 소용업는 것이 하나도 업고 또한 모든 것이 완전히 그 질서를 보전하고 잇슴니다. 한 기사의 제작품은 자연의 제작품보다는 훨신 기계적으로 완젼함니다.
+헤레나-그러나 사람은 한우님의 제작물이라지요?
+떠민-그러니깐 불완전하단 말이예요. 한우님은 근대의 긔게학에는 아모 것도 모르니깐요. 부인께서는 롯섬씨의 아들이 한우님 대신으로 일을 한 줄로 미드심니까?
+헤레나-무엇을요?＜64＞
+떠민-그는 특제의 인조노동자를 만들기 시작햇슴니다. 그래 그것은 다 가튼 키에 거인들이엿는데 키는 열두자나 되여요. 그러나 그것이 실패이엿든 것은 부인도 아실 터이겟지요?
+헤레나-실패라니요?
+떠민-그럿슴니다. 아모리해도 손과 발이 부러지기가 쉬워요. 확실이 우리가 사는 이 지구는 거인에게는 너무도 좁아요. 그런고로 지금 이 회사에서는 제1류의 문명인 종류의 로동자 뿐을 만듬니다.
+헤레나-우리 나라에서 1등품의 인조로동자를 본 일이 잇슴니다. 府廳사람이 인조로동자를 사 가지고온 까닭에.
+떠민-인조로동자를 사 가저 왓서요? 그러치요. 그 로동자는 매매하는 것임니다.
+그 로동자는 길쓰는 사람으로 사왓서요. 그래서 나는 그 사람들이 길을 쓰는 것도 보앗슴니다. 참 이상하고 또 점잔어요.
+떠민-롯섬 우주 인조노동자 회사에서는 한 종류의 사람뿐만을 만들지 안슴니다. 상등에서 하등까지 여러 가지를 만듬니다. 최상품 인조인은 한 20년 동안을 삼니다.
+(마리우스를 부르령으로 電鍾을 친다.)
+헤레나-그러면 그 후엔 그 인조로동자는 죽어버림니까?
+떠민-그럿슴니다. 더 부릴 수가 업슴니다.
+(마리우스가 드러왓다.)
+떠민-마리우스 손(手)일만 하는 인조로동자의 견본 두 사람만 다리고 오나라!
+(마리우스 退去)
+상품과 하품을 보여드리지요. 1등품은 비교뎍 갑도 싸고 또 만히 만들 수 잇슴니다.
+(마리우스 2인의 인조인과 갓치 등장)
+응 너희들은 힘센 것이다. 그리고 보통 智力을 가젓다는 보험품이다. 그만 가거라?
+(마리우스 2인과 가티 退去)
+헤레나-그것을 보고는 내 마음이 이상해저요.
+떠민-그리고 내 타입이스트(寫字人)를 보섯겟슴니까? (스라를 부르령으로 電鍾을 친다.)
+헤레나-나는 못 보앗서요.
+(스라가 드러왓다.)
+떠민-스라! 구로리 각하의 따님을 보엿니?
+헤레나-(일어서면서) 당신을 보니깐 매우 반갑슴니다.＜65＞ 이런 곳에 게시니깐 마음도 퍽 불쾌하시지요?
+스라-아-니요. 조금도 모르겟서요.
+헤레나-당신은 어듸서 오섯서요?
+스라-공장에서 왓슴니다.
+헤레나-이 공장에서 나섯서요?
+스라-이곳에서 만드러젓담니다.
+헤레나-무엇이예요?
+떠민-(웃스면서) 스라는 인조인이예요. 1등품엣 것이예요.
+헤레나-(스라에게) 실례햇슴니다.
+떠민-스라는 성낼 줄을 모름니다. 부인! 우리가 만든 이 피부를 좀 구경하세요.
+스라의 얼골을 만지면서 만저 보십소.
+헤레나-안이요. 염체.
+떠민-이 녀자는 우리와는 다른 재료로 된 것을 부인께서는 모르심니까? 스라! 어듸 맴 좀 돌아보아라!
+(스라는 돌기를 시작한다.)
+헤레나-(스라에게) 고만두어요. 고만해요.
+(스라는 뎡지하엿다.)
+떠민-스라 부인하고 이야기 좀 해보아라!
+스라-안즈십쇼.
+(헤레나 교의에 안젓다.)
+스라-배에서는 자미나 잇시 오섯슴니까?
+헤레나-네 퍽 즐거웟서요.
+스라-도라가실 때엘랑 아메리카 號의 배를 타시지 말으세요. 晴雨計가 별안간에 나리엿스니 이 다음 벤실베니야 號로 가십소. 그 배는 크고도 좃슴니다.
+떠민-속력은?
+스라-20놋트예요. 50,000톤이고 최근에 된 뱀니다.
+헤레나-고맙슴니다.
+스라-그러고 선원은 1,500인임니다. 선장은 하삐氏고 汽罐은 여덜개가 잇슴니다.
+떠민-그만하고 이번에는 佛蘭西말을 좀 해보아라!
+헤레나-불란서 말을 아심니까?
+스라-네 나라 말을 암니다. 쓸 줄도 암니다. 「띄여 써-ㄹ 뭇슈. 게루테루·헤루. 이 뭇스루 세니요루.」
+헤레나-(뛰여 닐어나면서 참 우스운 일이군! 스라는 인조인이＜66＞ 안인데. 스라는 나와 가튼 녀자예요. 라나는 실여요. 웨 나를 속이엿서요?
+스라-나는 인조녀올시다.
+헤레나-안이요. 안이요. 당신은 거짓말이예요. 나는 다 알고 잇슴니다. 당신은 광고하기 위해서 이런 짓을 하지요. 여보 당신도 나와 가튼 사람이지요. 그럿치요?
+떠민-미안함니다마는 스라는 인조노동자입니다.
+헤레나-거짓말!
+떠민-무엇이요? (마리우스를 부르령으로 종을 친다) 그러면 부인에게 증거를 보여들이지요.
+(마리우스가 드러온다.)
+떠민-마리우스! 스라를 해부실로 다리고 가서 해부스키라고 해라!
+헤레나-어듸로요?
+떠민-해부실로요. 해부자가 그 게집을  해부해 놋커든 드러가서 자세히 보십소.
+헤레나-안이예요. 안되여요.
+떠민-아니올시다. 거짓말이라고 하시니깐 말이예요.
+헤레나-당신 엇더케 이 양반을 자르겟단 말이예요.
+떠민-부인께서는 긔게를 자를 수 잇슴니까?
+헤레나-스라! 걱정마세요. 내가 당신을 보내지는 안을 터이니. 모든 사람들은 모두 당신을 이러케 참혹한 대위를 함니까? 그러한 참혹한 대위를 참고 견대지 말어요. 네?
+스라-나는 인조로동녀예요.
+헤레나-당신이 무엇이든지 말이예요. 인조인이래도 나와 가틈니다. 여보세요. 몸을 조각조각 깨트려서 안이됨니다.
+스라-깨트려도 괸계업슴니다.
+헤레나-참말로! 그러면 당신은 죽는 것을 두려워하지 안슴니까?
+스라-나는 아모말도 안이함니다.
+헤레나-만일 몸을 잘으게되면 당신은 엇더케 될 줄로 아심니까?
+스라-움즉이지만 못하게 됨니다.
+헤레나-아이고 참 무서!
+떠민-마리우스 너는 무엇이든지 이 부인하고 이야기를 해보아라!
+마리우스-나는 마리우스라는 인조인이올시다.
+떠민-너는 스라를 해부실로 다리고 갈테냐?＜67＞
+마리우스-네.
+떠민-스라를 불상이 생각하니?
+마리우스-아모말도 할 말이 업슴니다.
+떠민-스라는 쟝차 엇더케 되겟니?
+마리우스-움즉이지 못함니다. 공쟝사람들은 스라를 분쇄기에 던저버림니다.
+떠민-마리우스! 그것이 죽엄이라는 것이다. 너는 죽는 것이 무섭지 안으냐?
+마리우스-몰라요.
+떠민-네 부인! 인조인들은 생활이라는 것에 흥미를 갓지 안햇슴니다. 이것들은 즐거움을 모름니다. 말하면 풀과 가튼 것이지요.
+헤레나-인제 고만 좀 두세요. 이 사람들도 저리 치여주세요.
+떠민-마리우스! 스라! 가도 조와!
+(스라와 마리우스 退去)
+헤레나-참 무섭다! 당신이 하시는 일은 참으로 참혹함니다.
+떠민-엇재서요?
+헤레나-나는 잘 모르겟스나 엇잿든 참혹해요. 당신은 웨 그 녀자를 스라라고 부름니까?
+떠민-그것 좀 조흔 일홈임니까?
+헤레나-그러나 사나히의 일홈이예요. 스라라는 사람은 羅馬의 장군이엿서요.
+떠민-꼭 마리우스와 스라는 애인끼리엿지요?
+헤레나-마리우스와 스라는 다 가튼 장군이엿고 늘 서로 싸홈만 햇지요.-자세한 것은 이저²„렷스나.
+떠민-창 엽흐로 와서 좀 보세요.
+헤레나-무엇요?
+떠민-이리 좀 오세요. 무엇이 보임니다.
+헤레나-벽돌 만드는 사람이 잇서요.
+떠민-인조노동자예요. 이곳에서 일하는 사람은 모도가 인조인임니다. 저-아래에서 무엇이 보이지 안슴‹ˆ까?
+헤레나-사무실 가튼데요.
+떠민-회계실임니다. 그 가온데가-.
+헤레나-사무원은 만히 잇슬 터이겟지요?
+떠민-인조인들 임니다. 이곳에 사무원은 모도 다 인조노동자임니다. 지금 공쟝에 가시면-(공장의 기적이 분다)
+떠민-午鍾임니다. 회사에서 기적을 불기로 햇슴니다.＜68＞ 그것은 인조인들은 엇재 쉬이는지 시간을 모르는 까닭에-. 두 시간 후에는 반죽하는 통(揑槽)을 보여들이지요.
+헤레나-반죽하는 통요?
+떠민-가루를 반죽하는 공이(杵)가 잇슴니다. 한 사람마다 種子를 석거 가지고 한거번에 1,000명식을 만듬니다. 그리고 또 肝臟과 腦髓들을 만드는 통이 잇슴니다. 또 골격 만드는 공장도 잇슴니다. 그리고는 방적공장을 구경시켜드리지요.
+헤레나-방적공장을요.
+떠민-그럿슴니다. 신경과 혈관을 짜는 곳임니다. 멧 십리식 되는 길고 긴 膓子도 한번에 만드러냄니다.
+헤레나-무슨 다른 이야기나 하시지요. 네.
+떠민-좃슴니다. 이곳에는 10,000인이나 되는 인조인 가운데 사람은 몃치 업슴니다. 그런 중에도 사람의 녀자는 한 사람도 업슴니다. 그리고 우리는 아츰부터 져녁까지 공장 이외엣 것은 말하지 안슴니다. 무슨 저주바든 생활과 가티 말슴예요.
+헤레나-악가는 당신더러 거짓말한다고 해서 매우 미안함니다.
+떠민-드러오시요!
+(파부리, 칼 博士, 하레미엘 박사, 알끼스트 등 입장)
+칼 博士-용서하십쇼. 실레햇슴니다.
+떠민-드러오게! 어-부인! 소개함니다. 알끼스트, 파부리, 칼 박사, 하레미엘 諸氏임니다. 또 이펀은 구로리 대통령의 따님일세.
+헤레나-(일어서면서 안영하심니까?
+파부리-오섯슴니까.
+칼 博士-잘 오섯슴니다.
+알끼스트-안령하심니까.
+(빠스만 右便으로 입장)
+빠스만-웬일들야?
+떠민-빠스만君! 드러오게. 어, 이 사람은 빠스만이라는 사람임니다. 이 편은 구로리 대통령의 따님일세.
+헤레나-처음 뵈옵슴니다.
+빠스만-이것은 참말로! 부인! 부인 오섯따는 것을 신문사에 뎐보를 놀까요?＜69＞
+헤레나-아니요. 그런 것은 제발 말으세요.
+떠민-부인! 안즈십쇼.
+(헤레나는 걸터안젓다.)
+빠스만-실레함니다.
+칼 博士-안즈시요.-
+파부리 실레함니다.
+(일동은 걸터안젓다.)
+알끼스트-항해에는 엇더섯슴니까?
+칼 博士-오래동안 머무르시겟슴니까?
+파부리-이 공장에 대해서 감상은 엇더하심니까?
+하레미엘-배는 아메리카號로 오섯슴니까?
+떠민-고요해.-부인 말슴 하시게.
+헤레나-(떠민에게) 무슨 말을 할까요?
+떠민-마음대로 하세요.
+헤레나-네. 내 마음속에 먹엇든 이야기를 해도 조켓슴니까?
+떠민-좃코 말구요. 물론-.
+헤레나-(몸짓을 하고 말할 결심을 하면서) 여러분은 이처럼 학대를 바더서 얼마나 괴로우심니까?
+파부리-엿주어 보겟슴니다. 누구에게 학대를 밧는단 말슴입니까?
+헤레나-누구에게든지요.
+(일동은 놀나서 서로 치여다보앗다)
+알끼스트-학대라고 말슴하는 뜻은?
+칼 博士-대체 무슨 소릴까?
+하레미엘-학대라니요?
+빠스만-이것이야말로 놀나울 말이다.
+헤레나-여러분은 좀 조흔 생활을 하고 십흐시지 안슴니까?
+칼 博士-그것이야 더 조흔 생활이 잇기만 할말누면-.
+헤레나-이곳은 참으로 무서운 뎀니다.(일어나면서 歐羅巴에서는 여러분의 취급상에 대한 일을 문제로 함니다. 내가 이곳에 온 것은 그것을 확정하려고 왓슴니다. 그런데 이곳에 와 보니깐 내가 생각하든 것보다는 1,000배나 낫붐니다. 그래도 여러분은 참고 사시렴니까?
+알끼스트-무엇을 참는단 말슴임니까?
+헤레나-참 기막히는군! 당신들도 우리와 가티 생물이지요? 歐羅巴 사람들과 가티 또한 전인류와 가티. 그런데 이러케 살지 안으면 되지 안는다하면 그것은 치욕이 아님니까?
+빠스민-고맙슴니다.＜70＞
+파부리-부인 말슴하신 것이 과이 틀리지는 안는다. 우리는 이곳에서 꼭 토인과 가튼 생활을 하고 잇스니깐.
+헤레나-토인보다도 더 낫붑니다. 여러분! 내가 여러분을 형제라고 블너도 조흘까요?
+빠스만-안되지는 안슴니다.
+헤레나-형제분이여 나는 대통령의 딸로서 이곳에 온 것은 안임니다. 나는 人道同盟會의 사명을 가지고 왓슴니다. 형제여 人道同盟은 지금 이십만人 이상의 회원을 가지고 잇슴니다. 그 이십만人은 여러분과 한 가지로 여러분을 도아 드릴려고 함니다.
+빠스만-매우 적지 안은 수임니다. 안이 해롭지는 안슴니다.
+파부리-그런고로 내가 늘 자네들에게 歐羅巴 사람처럼 고마운 사람이 업다고 그랫지. 웅! 그들은 우리를 결단코 이저버리지는 안는단 말야. 그들은 우리를 구조하엿딴다고 한다.
+칼 博士-엇더한 구조를? 가령 극장가튼 것?
+하레미엘-오케스튜라(관현악)말야?
+헤레나-그 이상의 것이예요.
+알끼스트-그러면 부인가튼 부인 말슴임니까?
+헤레나-내일을 걱징마세요. 나는 여러분이 소용 계시다면 언제까지든지 이곳에 잇슬 터임니다.
+빠스만-이야! 이것이야 참말로 고맙슴니다!
+알끼스트-떠민- 우리는 부인 계실 방을 최상등으로 만들세.
+떠민-가만 잇게. 지금 부인이 말슴하는 것은 자네들을 인조인으로만 알고 하시는 말슴일세.
+헤레나-물론이지요.
+떠민-미안함니다마는 이 사람들은 다 우리와 가튼 사람임니다.
+헤레나-그러면 여러분은 인조로동자가 안이심니까?
+빠스만-(大笑하면서) 당치도 안는!
+칼 博士-(우스면서) 안이올시다. 참-
+헤레나-그러나-
+파부리-부인! 참말로 우리는 사람임니다.
+헤레나-(떠민에게) 그러면 당신은 악가 웨 날더러 이 공장에 잇는 사무원은 모다 인조노동자뿐이라고＜71＞ 햇슴니까?
+떠민-안이올시다. 사무원은 모다 인조인이지만 중역은 다름니다. 부인 엇지 생각 마십쇼. 다시 소개함니다. 이 사람은 롯섬 우주 인조인 제조회사의 技師長인 파부리임니다. 그리고 生理部長의 칼 박사임니다. 그리고 心理部長 하레미엘 박사, 營業部長 빠스만 그 다음에는 工場長 겸 建築家인 알끼스트임니다.
+알끼스트-나는 지금 떠민君이 말슴한 建築師임니다.
+헤레나-여러분 용서하십쇼. 대단히 미안함니다.
+알끼스트-천만에 말슴이올시다. 자아 안즈십쇼.
+헤레나-(안즈면서) 나는 못난 녀자예요. 다음 배에 가게 해주서요.
+칼 博士-엇더케 그러케 되겟슴니까? 웨 도라가시지 안으면 안됨니까?
+헤레나-내가 인조노동자를 선동시키려 온 줄을 여러분이 임이 아섯스니깐-
+떠민-부인! 우리는 이곳에서 100사람이나 되는 구조자와 예비자를 맛낫슴니다. 뱨가 을 때마다 두 세 사람식은 옴니다. 전도사도 왓슴니다. 무정부주의자도 옴니다. 구세군도 옴니다. 별별 사람이 다 옴니다. 세상에 교회와 못난이가 이처럼 만흔 줄은 참말로 놀낫슴니다.
+헤레나-그래 그 사람들에게 인조인들을 구경식히엿슴니까?
+떠민-물론 구경식히고 말고. 인조인들은 다 잘 암니다. 그러나 그뿐이고 별로 다른 것은 업슴니다. 그 인조인들은 사람이 우스운 소리를 해도 웃을 줄도 모름니다. 참 알 수 업는 것임니다. 부인! 만일 원하시면 인조인 창고를 보여 들이지요. 한 삼십만 명은 잇슴니다.
+빠스만-사십사만칠천人임니다.
+떠민-그런가. 부인! 무슨 말슴이든지 마음대로 이야기하세요. 성서를 읽으시든지 九九表를 외오시든지 마음대로 하세요. 혹은 인권에 대해서 설교를 하시든지 족음도 관계 업슴니다.
+헤레나-참으로 나는 여러분이 인조인에게 대해서 족음만치라도 사랑이 잇는 줄로 알엇드니만-
+파부리-사랑이라는 말을 *는 것은 될 수 업는 일임니다. 인조인처럼 보기시른 것은 업슴니다.＜72＞
+헤레나-그러면 무슨 까닭으로 인조인을 만드심니까?
+빠스만-하하하 자미잇는 말임니다. 웨 인조인을 만드느냐는 말슴이지요?
+파부리-일 식히기 위해서 만듬니다. 인조인 한 사람은 노동자 두 사람 목이나 일을 하는 까닭에. 그리고 본즉 인간의 機械는 아조 불완전함니다. 사람의 긔계라는 것은 조만간 업서지고 말 터이지요.
+빠스만-도모지 사람의 긔계는 不經濟니깐요.
+파부리-그런데도 첫재로는 효과가 조치 못함니다. 인간의 기계는 벌서 근대의 기계학의 요구에는 부적당함니다. 자연은 근대의 노동과 보조를 가티 하려구는 안이함니다. 가령 공업이란 점에서 볼 것 가트면 아동시대라는 것은 아모 불합리함니다. 쓸대업시 시간만 허비함니다. 그리고 또-
+헤레나-안이요. 그것은 그러치 안어요!
+파부리-무엇 엇더케 생각 마십쇼. 어더켓슴니까? 부인의 同盟... 에 그 人道同盟의 참된 목적에 대해서 이야기나 좀 들려주시지요.
+헤레나-人道同盟의 참된 목적은-인조인을 보호하고 그리고... 인조인을 위해서 대접을 잘하는 것임니다.
+파부리-엇잿든 그 목적은 낫부지는 안슴니다. 기계라는 것은 취급을 잘해야하는 법임니다. 내 개인으로는 찬성함니다. 나는 물품이 깨지는 것을 시려함니다. 어떠케 그 우리들도 人道同盟會에 찬조원이든지 혹 정회원이든지 그러치 안으면 기본회원이라도 좀 들게 해주시지 안으렴니까?
+헤레나-안이올시다. 당신은 오해하엿슴니다. 내가 원하는 것은 인조인을 해방하는 일임니다.
+하레미엘-엇더케 해방하겟단 말슴임니까?
+헤레나-사람과 가튼 대우를 해야 함니다.
+하레미엘-하하 인조인에게도 선거권을 주자는 말슴임니까? 삐루를 마시게 하고요? 우리를 명령도 할 수 잇게 하시겟단 말임니까?
+헤레나-인조인은 삐루를 마시지 못합니까?
+하레미엘-그리고 그들에게 로동에 대한 임금을 주자는 말슴이지요?
+헤레나-물론 주어야지요.
+하레미엘-글세 생각을 좀 해보세요! 그것들이＜73＞ 삭(임금)을 바드면 무엇을 할 터임니까? 대체.
+하레나-인조인들은 사고십흔 것도 잇슬 터이겟지요. 가지고 십흔 것도 잇슬 터이지요.
+하레미엘-만일 그것들에게 갓고십흔 것이 잇기만 햇스면 좃켓슴니다. 그러나 그것들에게는 아모 것도 갓고십흔 것이 업슴니다. 그러니 그것들이 무엇을 사느냐 말이예요? 파인애풀로나 혹은 집(藁)흐로나 그 외에 다른 물건으로 그것을 양육하라시는 말슴이지요. 을슴니다. 그러나 그런 짓을 해야 소용업슴니다. 그들에게는 식욕이라구는 업슴니다. 그리고 또 아모 흥미를 갓지 안햇슴니다. 그럼으로 말하면 인조인은 웃음 웃는 것이 하나도 업슴니다.
+헤레나-엇재서 좀더 행복스러웁게 인조인을 만들지 안이햇슴니까?
+하헤미엘-그러케는 안됨니다. 인조인은 다만 노동자일 뿐이니깐.
+헤레나-애그 참 그러나 인조인은 智力이 잇지 안슴니까?
+하레미엘-그럿슴니다. 그러나 그 외에는 아모 것도 가진 것이 업슴니다. 인조인에게는 자긔의 의지라는 것이 업슴니다. 영혼도 업습니다.
+헤레나-사랑도 업슬까요?
+하레미엘-사랑? 물론이지요. 인조노동자에게는 사랑도 모름니다. 자긔 몸도 사랑할 줄 모름니다.
+헤레나-반항심도 업슴니까?
+하헤미엘-반항심? 글세 올시다. 어느 때는 혹 잇는 때도 잇슬 터이지요.
+헤레나-무엇이요?
+하레미엘-안이올시다. 특별이 이야기까지 할 것은 못되고요. 혹간 가다가 간질하는 일이 잇슴니다. 우리들은 「인조인의 경련」이라고 하는 일이 잇슴니다. 그때에는 별안간 가젓든 물건을 무엇이든지 내여버리고는 이를 갈면서-그러면 그때 그것은 분쇄기에 드러감니다. 그것은 물론 기계의 구조가 잘못된 것임니다.
+떠민-그러한 것은 소용업는 것임니다.
+헤레나-아-니요. 아-니요. 그것이야말로 영혼이＜74＞ 올시다.
+파부리-그러면 먼저 영혼은 이를 가나요?
+헤레나-이가는 것은 그것이 즉 반항하는 것임니다. 즉 마음속에 잇는 괴로움의 표임니다. 네 엇더케 좀 개량해서 못 만들까요?
+떠민-하고 말구요. 칼 박사가 지금 연구 중임니다.
+칼 博士-떠민君! 내가 연구하는 것은 그것이 안일세. 나는 지금 고통의 신경을 만드는 중일세.
+헤레나-고통신경 말슴예요?
+칼 博士-그럿슴니다. 인조인은 육체적 고통도 깨닷지 못함니다. 롯섬氏의 아들이 만든 것은 너무도 신경계통을 제한하엿서요. 그런 故로 우리들은 고통을 알리게 하지 안으면 안됨니다.
+헤레나-웨 인조인에도 고통이 필요함니까?
+칼 博士-공업상의 원칙으로 말슴예요. 인조인은 압흔 것을 모르는 까닭에 자기 몸을 깨트림니다. 기계에다가 제 손을 넛키도 하고 손구락을 분질르기도 하고 머리를 부시기도 하면서 아므런 줄을 모름니다. 그러니깐 우리는 고통을 알게 하지 안으면 안됨니다. 그것이 파손에 대한 자동적 보호가 될 것임니다.
+헤레나-고통을 알게되면 인조인은 더욱 행복하게 될 터이겟지.
+칼 博士-안이올시다. 도로혀 불행하게될 것임니다. 다만 공업상으로 보아서 한충 더 완전한 인조인이 될 뿐이올시다.
+헤레나-웨 인조인에게 영혼을 만들어주지 안슴니까?
+칼 博士-우리의 힘으로는 될 수 업슴니다.
+파부리-그들에게는 아모 흥미도 업스니깐.
+빠스만-製産費가 너무 만히 듬니다. 말하면 우리 회사는 갑시 싸게 인조인을 맨듬니다. 옷까지 껴서 인조인 1인에 15파온드 가령 들어야 함니다. 15년 전에는 100파온드가 들어섯슴니다. 그것은 그때에 옷갓흔 것은 다른데서 사오기 때문에 그랫슴니다. 그러나 지금은 우리회사에 방직공장이 잇서서 다른데 것보다 5배나 싸게 羅紗를 수출하게 되엿슴니다. 부인는 羅紗 한 야드에 얼마식에 사섯슴니까?
+헤레나-잘 모르겟슴니다. 이저버렷서요.＜75＞
+빠스만-그것을 모르세요? 그리구도 人道同盟을 조직하섯슴니다그려. 부인 羅紗감은 지금은 이전에 3분의 1의 갑스로 살 수 잇슴니다. 요새 물가는 무엇이든지 전보다는 3분의 1이 떠러젓슴니다. 인제 졈졈 싸지기 시작함니다.
+헤레나-엇재서 그럴까요?
+빠스만-웨 그러냐고요? 네 그것은 노동자의 임금이 싸지게 된 까닭이지요. 인조노동자 한 사람 압헤 식료와 그 외 모든 경비 합해서 한 시간에 한 편쓰의 4분의 3 박게는 안이듬니다. 이것은 중대한 문제임니다. 만일 모든 공장에서든지 인조인을 쓰지 안이하면 그 공장은 곳 망하고 말 것임니다.
+헤레나-그러면 노동자는 소용업시 되겟지요?
+빠스만-물론 그럿슴니다. 그것은 엇지햇든 우리 회사에서는 이루샌진野原에 곡물을 재배하기 위해서 500,000인의 열대인조인을 보냇슴니다. 팡 한 파온드에 얼마 하는지 아심니까?
+헤레나-몰음니다.
+빠스만-그러면 말슴하지요. 歐羅巴에서는 지금 두 편쓰식 함니다. 두 편쓰에 팡이 한 파온드 그런데 人道同盟에서는 아모 것도 모른다. 네. 부인은 이러케 갑진 물건에 대해서 아모 생각도 업섯슴니까? 5년 안에는 반드시-
+헤레나-무엇이예요?
+빠스만-모든 물가는 지금의 5분의 1이 될 것임니다. 웨 그러냐고 5년 안에는 쌀이고 무엇이고 먹고도 넘처서 남을 것이니깐요.
+알끼스트-그럿슴니다. 그리고 세계에 잇는 노동자는 모도 해고를 당할 것임니다.
+떠민-그럿치 알끼스트君 꼭 그러이. 그래서 10년 동안에는 롯섬식 인조인은 곡물이고 罹紗고 무엇이고 할 것 업시 만히 만들 것임니다. 그래서 갑슨 아조 싸게 됨니다. 그러면 구차한 사람은 업서짐니다. 모든 일이란 일은 다 살어잇는 기계로 만듬니다. 따러서 모든 사람의 고민도 업서짐니다. 또한 노동의 타락에서 해방을 어들 수도 잇슴니다. 누구든지 자기를 완전히 하게 하기 위해서만 살 수가 잇슴니다.＜76＞
+헤레나-인조인도 말슴임니까?
+떠민-물론이지요. 지금은 할 수 업는 일이지만 그려나 그때만 되면 사람이 사람을 부리는 것이나 혹은 사람이 물질에게 굴복하는 일도 업시 됨니다. 물론 처음에는 두려울 일도 잇겟지만. 그것은 엇지 할 수 업는 겟이지요. 다만 그때만 되면 누구든지 생명과 미움의 대상으로 고생하면서 팡을 어드려고는 안을 터임니다. 인조인도 거지의 상태를 버서나서 자기집이서 편안히 살게도 될 터이겟지요.
+알끼스트-떠민, 떠민君! 자네는 꼭 낙원이야기를 하지 안나? 그러나 봉사하는 일은 조흔 일이며 겸손하는 것도 훌륭한 일이 안인가? 노고와 피로에는 갑시 잇슬 터이지?
+떠민-그것은 그럴는지 모르겟네. 그러나 우리가 세계를 개조할 때에 일어버린 것을 또다시 생각해야 소용이 업네. 그때가 되면 사람은 자유로 되고 우월한 것이 될 것일세. 사람은 자기를 완성하는 것 외에는 아모 목적도 업고 아모 노고도 업고 아모 걱정도 업시 되네. 사람은 사람에게고 물질에게도 굴복하지도 안케 되네. 사람은 製産의 기계도 안이고 수단도 안인 것이 될 것일세. 사람은 창조의 신이 된단 말일세.
+빠스만-대단이 고마운 일이다.
+파부리-그것은 그럿치.
+헤레나-나는 무엇에 고만 홀린 것 가틈니다 그려. 그러케 되기만 햇으면 좃켓슴니다.
+칼 博士-부인! 당신은 우리보다는 젊으시니깐 오래동안 사세서 그것을 보시겟지요.
+하레미엘-꼭 그럿슴니다. 부인*에 엇더 하실까요. 우리와 가티 점심을 잡수시는 것이?
+칼 博士-그러케 하세요. 네? 떠민君 우리의 대신으로 자네가 엿주어 보게!
+떠민-부인! 승낙하시지요?
+헤레나-무슨 일로 내가 이곳에 온 것을 알으신다면-
+파부리-人道同盟을 위해서요?
+헤레나-그러니깐-
+파부리-좃슴니다. 한 5분 동안 실례하겟슴니다.
+(일동이 일어낫다.)
+칼 博士-나도 잠간 실례하겟슴니다.
+빠스만-곳 단여 올 터이니깐.＜77＞
+하레미엘-우리는 부인이 오신 것을 매우 즐거워함니다.
+빠스만-5분 후에는 꼭 오겟슴니다.
+(떠민과 헤레나만 남겨두고 일동 퇴장)
+헤레나-여러분들은 웨 모두 나가섯서요?
+떠민-요리를 차리령으로요.
+헤레나-무슨 요리예요?
+떠민-점심임니다. 인조인이 우리들의 요리를 만들기는 하나 그것들은 미각이 업슴으로.-하레미엘은 지지기를 잘하고 칼 박사는 쏘-스 類를 만들고 빠스만은 옴렛트를 잘함니다.
+헤레나-어이구 굉장한 잔치임니다 그려. 그 냥반-그 建築師는 무엇을 잘하심니까?
+떠민-알끼스트 말슴임니까? 그 者는 요리는 할 줄 모름니다. 다만 테불이나 벌여 놋는 것뿐에요. 그리고 파부리는 과실을 모흠니다. 이곳 요리는 매우 별탁함니다.
+헤레나-좀 엿주어 볼 말슴이 잇는데요.-
+떠민-나도 엿주어 볼 말슴이 잇슴니다. (자기의 시계를 보면서) 5분 동안이다!
+헤레나-무엇을 무러보세요?
+떠민-안이 먼저 물어보십쇼!
+헤레나-못난 말 갓기는 하지만 당신은 엇지해서 녀자의 인조인을 만드섯슴니까? 저-
+떠민-性이 인조녀에게는 무의미하냐 말슴임니까?
+헤레나-안이요.
+떠민-역시 필요한 점이 잇슴니다. 하인 여사무원 속기자 가튼 것에 세상에서는 여자인조인을 쓰니깐요-.
+헤레나-그러치만 그래도 대체 엇지해서 사나희와 녀자의 인조인이 서로-저-
+떠민-아모 생각도 업슴니다. 그것들은 애정이라는 것을 조금도 갓지 안햇슴니다.
+헤레나-아구참! 망측해라!
+떠민-엇재서요?
+헤레나-그러치만 그것은 너무도 부자연하지 안슴니까? 나는 잘 알 수는 업지만. 사랑해야 조흘는지 미워해야 조흘는지 그러치 안으면-
+떠민-그러치 안으면 불상하게 생각해야 조흘는지 말슴이지요?
+헤레나-그 이상임니다. 그리고 당신이 나에게 물어본다든＜78＞ 말은 무엇임니까?
+떠민-엇덜까요. 부인 나하고 결혼하시는 것이 말슴예요?
+헤레나-무어라구요?
+떠민-내 안해가 되여주시지 안으시렴니까?
+헤레나-나는 별로 그런 생각은 하지 안슴니다.
+떠민-(시계를 보고) 3분 남엇다. 만일 나하고 결혼하지 안으면 우리 다섯 사람 즁에서 누구하고던지 꼭 결혼을 해야됨니다.
+헤레나-엇재서 그래요?
+떠민-인제 모도 차례차례로 결혼을 청할 터이니깐요.
+헤레나-웨 여러분은 그런 일을 하심니까?
+떠민-그들은 모다 당신을 사랑함니다.
+헤레나-그것을랑 제발 여러분끠 마시라구 말슴해주세요. 나는 나는 곳 갈 터이예요.
+떠민-헤레나씨! 당신은 나를 거졀하심니까?
+헤레나-그러나 그러나 나는 여섯 사람하고 결혼할 수는 업서요.
+떠민-그런 것이 안이라. 그 즁에 한 사람뿐 말이예요. 내가 실으면 파부리君과 결혼하시겟슴니까?
+헤레나-안이요. 실여요.
+떠민-그러면 칼 박사는?
+헤레나-다 실혀요.
+떠민-(시계를 보고) 인제는 2분 동안이다.
+헤레나-당신은 여긔 온 부인들 즁에 아모하고도 결혼하지 안엇슴니까?
+떠민-오기는 만히들 왓섯스나-.
+헤레나-졂은 녀자예요?
+떠민-그럿슴니다.
+헤레나-그러면 웨 그들하고 결혼을 안이 하섯슴니까?
+떠민-내가 홀릴 만큼 생긴 녀자는 업섯슴니다. 오날까지도. 그러나 당신이 얼굴에서 베일을 버슬 때부터-
+(헤레나는 도라다본다.)
+떠민-인제는 1분 남엇다.
+헤레나-그러나 참말로 당신하고 결혼하고 십지는 안슴니다.
+떠민-(헤레나의 억개 우에 두 손을 언고) 1분 남엇서요! 자아 바로 안저서 『실타』고 엄숙하게 말슴을 해요. 그러면 나는 이 자리에서 떠나가겟슴니다.＜79＞ 그러나 그러치 안코-
+헤레나-(떠민을 본다. 그러나 곳 다시 도라안저서) 당신은 퍽도 추군추군함니다.
+떠민-그럼 엇더케 함니까? 사나희는 누구든지 추근거림니다. 그것이 사나희가 하는 일임니다.
+헤레나-당신은 밋첫슴니까?
+떠민-사나희는 누구든지 조금쯤은 밋침니다. 그것이 사나희의 조흔 점이올시다.
+헤레나-(다시 돌아 안저서) 여보세요! 당신은 너무 그리심니다.
+떠민-내가 한말을 알으섯지요? 좃슴니까?
+헤레나-안되여요. 안돼요. 저리가세요. 당신은 나를 괴롭게 함니다 그려!
+떠민-헤레나! 그것이 기껀 대답이란말요?
+헤레나-(취소하는 듯시) 언제든지 당신을 더 자서히 알게될 때에-안이 참 엇더케 하나-나는 저리 갈테예요.
+떠민-인제는 마지막 기회임니다. 헤레나! 그럿치만-
+헤레나-그럿치만 그리치만-
+(떠민은 헤레나를 안고 키쓰한다. 문 열라는 소리가 난다.
+떠민-(헤레나를 노코) 드러오게!
+(빠스만 칼 박사 하레미엘 등 압치마 「애푸론」을 두르고 등장)
+떠민-諸君의 일은 다 되엿소?
+빠스만-다 되엿네.
+떠민-우리도 다 되엿네.-
+(잠간 일동은 웬일인지 몰낫스나 곳 떠민의 말의 의미를 알고서 헤레나와 떠민올 축하하면서 나온다)-幕-
+-未完-
+
+1막은 한 서극이나 다름이 업고 2막으로 시작해서 3幕 4막에는 참으로 인조인의 반항적 대활동과 인류의 풍자가 잇는 것이다.＜80＞
+＜56-80＞

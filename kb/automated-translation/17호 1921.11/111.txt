@@ -1,0 +1,76 @@
+Magazine Title: 개벽
+Publication Date: 1921년 11월 01일
+Article Title: 社告 (Company Notice)
+Author: 開闢社 販賣部 (Kaebyŏksa Sales Department)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Company Notice
+
+One, Please send payment for this magazine and postage in advance (for three months, six months, or one year). We cannot send the magazine without advance payment.
+
+One, When sending money from each district, please send it directly via postal transfer account Kyŏngsŏng 8106 under the name of the account holder, Kaebyŏksa. If you indirectly send it via postal transfer account Kyŏngsŏng 1363 under the name of the account holder, No Hŏnyong, it may not be processed at the expected time, and discrepancies may arise.
+
+One, When sending money via postal transfer, please be sure to clearly write the reason for the remittance in the communication column on the back of the postal transfer form, specifically stating "X Won X Chŏn is payment and postage for Kaebyŏk from issue number X to issue number Y, for Z copies." If there is no information in the communication column, it creates significant difficulty in processing the payment.
+
+One, When corresponding with our company, whether by postcard or sealed letter, please be sure to write clearly and send the sender's full name and exact address, including Province, County, Township, Village, and House Number. If the address is unclear, there is no way for us to send replies to your inquiries or the items you requested.
+
+Kaebyŏksa Sales Department<85>
+
+**Summary**
+
+This company notice from Kaebyŏksa outlines subscription payment and correspondence procedures for the magazine *Kaebyŏk*. It emphasizes the need for advance payment, specifies the correct postal transfer account (Kaebyŏksa's direct account, not No Hŏnyong's), requests detailed information on remittance forms, and stresses the importance of providing a complete and accurate sender address for all communications. From a historical perspective, the notice highlights the logistical challenges of publishing and distribution in colonial Korea, particularly the reliance on the postal transfer system for payments and the need for meticulous record-keeping and clear communication to avoid errors, perhaps reflecting potential disruptions or inefficiencies in communications infrastructure or financial transactions during that period. The mention of a specific individual's account (No Hŏnyong) as a potential point of confusion suggests complexities in the company's financial or administrative setup.
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+開闢社	개벽사	Kaebyŏksa
+盧憲容	노헌용	No Hŏnyong
+
+**Glossary**
+
+本誌	본지	This magazine
+代金	대금	Price, payment, cost
+郵稅	우세	Postage (older term/Hanja usage)
+先金	선금	Advance payment
+送金	송금	Remittance, sending money
+	때	When, time (older Hangul spelling)
+振替口座	진체구좌	Postal transfer account
+名義	명의	Name (under someone's name, account holder name)
+直接	직접	Directly
+間接	간접	Indirectly
+受理	수리	Acceptance, processing
+相違	상위	Discrepancy, difference
+업지 아니합니다	없지 아니합니다	There are (lit. are not non-existent) (older negative construction)
+반듯이	반드시	Certainly, without fail (older spelling)
+裏面	이면	Reverse side, back
+通信欄	통신란	Communication column/section
+事由	사유	Reason, cause
+即	즉	Namely, that is
+昭詳히	상세히	Clearly, in detail (older adverb form based on 昭詳)
+記入	기입	Filling in, writing down
+記事	기사	Entry, note, record
+處理	처리	Handling, processing
+困難	곤란	Difficulty
+葉書	엽서	Postcard (Hapcha/Hanja form)
+封緘	봉함	Sealed letter
+勿論하고	물론하고	Regardless of, not to mention
+發信人	발신인	Sender
+氏名	씨명	Full name (formal term)
+住所	주소	Address
+道理	도리	Way, means, method; reason
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제17호
+발행일	1921년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+一, 本誌代金 及 郵稅를 先金(三個月分·六個月分·一個年分)으로 보내주시오 先金이 아니면 책을 보낼 수 업습니다
+一, 各 敎區에서 送金하실 에는 振替口座 京城 八一○六 加入者 開闢社 名義로 直接 보내주시오 萬一 振替口座 京城 一三六三 加入者 盧憲容 名義로 間接 보내시면 受理할 時間에 受理치 못하야 相違되는 點도 업지 아니합니다
+一, 振替로 送金하실 에는 반듯이 振替用紙 裏面 通信欄에 送金하는 事由 即 一金 圓 錢은 開闢自 號至 號 幾冊代金 及 郵稅라고 昭詳히 記入하여 주시오 通信欄에 아모런 記事가 업스면 金錢 處理上에 大端히 困難합니다
+一, 本社에 通信하실 에는 葉書와 封緘을 勿論하고 반듯이 發信人의 氏名과 住所 道 郡 面 里 番地를 正確히 記送하여 주시오 住所가 不分明하면 무르신 事件의 答書와 請求하신 物件의 送品을 할 道理가 업습니다
+開闢社 販賣部＜85＞

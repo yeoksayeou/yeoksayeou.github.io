@@ -1,0 +1,92 @@
+Magazine Title: 개벽 제13호
+Publication Date: 1921년 07월 01일
+Article Title: 社告 (Company Announcement)
+Author: 開闢社 經理部 (Kaebyŏk Publishing Company Accounting Department)
+Article Type: 사고·편집후기 (Announcement/Editorial Note)
+
+Company Announcement
+Especially to the Managers of Local Distribution Points and our Dear Readers
+
+One, Please send payment for this magazine and postage in advance (for three months, six months, or one year). We cannot send the magazine without advance payment.
+
+Two, When sending money from each parish (敎區), please send it directly using the postal transfer account Kyŏngsŏng 8106 under the name of Kaebyŏk Publishing Company (開闢社). If you indirectly send it using the postal transfer account Kyŏngsŏng 1363 under the name No Hŏn-yong (盧憲容), there may be discrepancies as it might not be received at the expected time.
+
+Three, When sending money via postal transfer, please be sure to clearly write the reason for the remittance in the communication section on the back of the postal transfer form, stating specifically, for example, "Payment of X Won X Chŏn for Kaebyŏk from issue X to issue X (Y copies) and postage." If there is no information in the communication section, it causes great difficulty in processing the payment.
+
+Four, When corresponding with our company, whether by postcard or sealed letter, please be sure to accurately write the sender's full name and address (Province, County, Township, Village, House Number). If the address is unclear, there is no way for us to send replies to your inquiries or the items you requested.
+
+Kaebyŏk Publishing Company Accounting Department＜46＞
+
+**Summary**
+
+This is an administrative announcement from the accounting department of Kaebyŏk magazine, published in July 1921. It instructs distributors and readers on subscription payment procedures, emphasizing the need for advance payment and providing specific details for using postal money transfer accounts. It requests payments be sent directly to the company's account (Kyŏngsŏng 8106) rather than an individual's account (No Hŏn-yong, Kyŏngsŏng 1363) to avoid processing delays. Furthermore, it stresses the importance of clearly stating the purpose of payment on the transfer form and providing a full, accurate sender address on all correspondence to ensure proper handling of replies and requested items. For historians, this notice offers insights into the practical business operations of a Korean magazine under Japanese rule, including its reliance on the Japanese postal transfer system (振替口座), its distribution network (mentioning 分賣所 and potentially 敎區 linked to Ch'ŏndogyo), and the administrative challenges of managing subscriptions and communication with readers across colonial Korea, reflected in the detailed address requirements. The differentiation between the company and an individual's account might also suggest aspects of the magazine's financial management or organization.
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+開闢社	개벽사	Kaebyŏk Publishing Company
+盧憲容	노헌용	No Hŏn-yong
+
+**Glossary**
+
+社告	사고	Company announcement
+分賣所	분매소	Distribution point, branch sales office
+當務者	당무자	Person in charge, manager
+열어분	여러분	Dear readers (older spelling)
+本誌	본지	This magazine
+代金	대금	Payment, price
+郵稅	우세	Postage
+先金	선금	Advance payment
+업습니다	없습니다	Cannot; not exist (older spelling/form of 없습니다)
+敎區	교구	Parish; possibly distribution district (contextually)
+送金	송금	Remittance, sending money
+에는	때에는	When (older spelling/form of 때에는)
+振替口座	진체구좌	Postal transfer account (Japanese system term)
+名義	명의	Name (under the name of)
+受理	수리	Receipt, acceptance
+相違	상이	Discrepancy, difference
+裏面	이면	Back side, reverse side
+通信欄	통신란	Communication column/section
+事由	사유	Reason
+昭詳히	소상히	Clearly, in detail
+記入	기입	To fill in, write down
+金錢	금전	Money
+處理	처리	Processing, handling
+困難	곤란	Difficulty
+本社	본사	Head office, our company
+葉書	엽서	Postcard
+封緘	봉함	Sealed letter
+반듯이	반드시	Surely, certainly (older spelling/form of 반드시)
+發信人	발신인	Sender
+氏名	씨명/성명	Full name
+住所	주소	Address
+道	도	Province
+郡	군	County
+面	면	Township
+里	리	Village
+番地	번지	House number, lot number
+記送	기송	To write and send
+不分明	불분명	Unclear
+答書	답서	Reply letter, answer
+請求	청구	Request
+物件	물건	Item, goods
+送品	송품	Sending goods, delivery
+道理	도리	Way, means
+經理部	경리부	Accounting Department
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+特別히 各地 分賣所 當務者와 열어분 讀者에게
+一, 本誌代金 及 郵稅를 先金(三個月分·六個月分·一個年分)으로 보내주시오 先金이 아니면 책을 보낼 수 업습니다
+一, 各 敎區에서 送金하실 에는 振替口座 京城 八一○六 加入者 開闢社 名義로 直接 보내주시오 萬一 振替口座 京城 一三六三 加入者 盧憲容 名義로 間接 보내시면 受理할 時間에 受理치 못하야 相違되는 點도 업지 아니합니다
+一, 振替로 送金하실 반듯이 振替用紙 裏面 通信欄에 送金하는 事由 即 一金 圓 錢은 開闢自 號至 號 幾冊代金 及 郵稅라고 昭詳히 記入하여 주시오 通信欄에 아모런 記事가 업스면 金錢 處理上에 대단이 困難합니다
+一, 本社에 通信하실 에는 葉書와 封緘을 勿論하고 반듯이 發信人의 氏名과 住所 道 郡 面 里 番地를 正確히 記送하여 주시오 住所가 不分明하면 무르신 事件의 答書와 請求하신 物件의 送品을 할 道理가 업습니다
+開闢社 經理部＜46＞

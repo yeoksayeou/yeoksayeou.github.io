@@ -1,0 +1,101 @@
+Magazine Title: 開闢 제29호
+Publication Date: 1922년 11월 01일
+Article Title: 社告 (Company Announcement)
+Author: 开闢社
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+社告/支社位置 及 職員變動
+(Company Announcement / Branch Office Locations and Staff Changes)
+
+開城支社 (Kaesŏng Branch)
+舊位置 開城 北本町 一○六
+(Old Location: Kaesŏng, Pukpon-chō 106)
+新位置 開城 北本町 一一二 文化舘
+(New Location: Kaesŏng, Pukpon-chō 112, Munhwa-gwan)
+支社長 朴致玳 氏는 事情에 依하여 辭免한 代에 河奎杭 氏가 그 後任에 就하다
+(Branch Manager Mr. Pak Ch'idae, due to circumstances, has resigned, and Mr. Ha Kyuhang has succeeded him.)
+
+平壤支社 (P'yŏngyang Branch)
+舊位置 平壤府 薛岩里 一二五 以文堂
+(Old Location: P'yŏngyang Prefecture, Sŏram-ri 125, Imun-dang)
+新位置 平壤 西門通 基督書院
+(New Location: P'yŏngyang, Sŏmun-t'ong, Kidok Sŏwŏn [Christian Bookstore])
+支社長 金潤璿 氏는 形便에 依하야 辭任한 后 새로 就任된 職員 如左
+(Branch Manager Mr. Kim Yunsŏn, due to circumstances, has resigned, after which the newly appointed staff are as follows:)
+支社長 李晟煥
+(Branch Manager: Yi Sŏnghwan)
+總務 丁東奎
+(General Affairs: Chŏng Tonggyu)
+記者 李成三
+(Reporter: Yi Sŏngsam)
+開闢社＜124＞
+(Kaebyŏk-sa <124>)
+
+**Summary**
+
+This company announcement from Kaebyŏk magazine details changes in its branch offices in Kaesŏng and P'yŏngyang. The Kaesŏng branch relocated within the same district (Pukpon-chō) and appointed Ha Kyuhang as the new branch manager following Pak Ch'idae's resignation. The P'yŏngyang branch also moved, from Sŏram-ri to Sŏmun-t'ong (specifically to the Christian Bookstore building), and following the resignation of manager Kim Yunsŏn, appointed Yi Sŏnghwan as the new manager, along with Chŏng Tonggyu for general affairs and Yi Sŏngsam as a reporter. For historians, this notice offers concrete details about the organizational structure, geographic reach (indicating active branches in major cities like Kaesŏng and P'yŏngyang), and personnel management of a significant Korean cultural magazine during the Japanese colonial period. The relocation details and specific staff roles provide insight into the magazine's operational aspects in 1922.
+
+**Named Entities**
+
+開城	개성	Kaesŏng
+北本町	북본정	Pukpon-chō
+文化舘	문화관	Munhwa-gwan
+朴致玳	박치대	Pak Ch'idae
+河奎杭	하규항	Ha Kyuhang
+平壤	평양	P'yŏngyang
+薛岩里	설암리	Sŏram-ri
+以文堂	이문당	Imun-dang
+西門通	서문통	Sŏmun-t'ong
+基督書院	기독서원	Kidok Sŏwŏn (Christian Bookstore)
+金潤璿	김윤선	Kim Yunsŏn
+李晟煥	이성환	Yi Sŏnghwan
+丁東奎	정동규	Chŏng Tonggyu
+李成三	이성삼	Yi Sŏngsam
+開闢社	개벽사	Kaebyŏk-sa
+
+**Glossary**
+
+社告	사고	Company announcement
+支社	지사	Branch office
+位置	위치	Location
+職員	직원	Staff member, employee
+變動	변동	Change, fluctuation
+舊	구	Old, former
+新	신	New
+事情	사정	Circumstances, situation
+依하여	의하여	Due to, according to (Older spelling/Hanja form of -에 의하여)
+辭免	사면	Resignation, dismissal
+代	대	Replacement, stead
+後任	후임	Successor
+就하다	취하다	To take up (a position), assume (office)
+形便	형편	Circumstances, situation (Similar to 事情)
+后	후	After (Older usage, now typically 후)
+새로	새로	Newly
+就任된	취임된	Appointed, inaugurated
+如左	여좌	As follows (Literally 'as left', archaic Sino-Korean expression)
+總務	총무	General affairs
+記者	기자	Reporter, journalist
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제29호
+발행일	1922년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告/支社位置 及 職員變動
+開城支社
+舊位置 開城 北本町 一○六
+新位置 開城 北本町 一一二 文化舘
+支社長 朴致玳 氏는 事情에 依하여 辭免한 代에 河奎杭 氏가 그 後任에 就하다
+
+平壤支社
+舊位置 平壤府 薛岩里 一二五 以文堂
+新位置 平壤 西門通 基督書院
+支社長 金潤璿 氏는 形便에 依하야 辭任한 后 새로 就任된 職員 如左
+支社長 李晟煥
+總務 丁東奎
+記者 李成三
+開闢社＜124＞

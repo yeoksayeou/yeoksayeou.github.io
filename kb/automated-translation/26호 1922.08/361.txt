@@ -1,0 +1,49 @@
+Magazine Title: 개벽
+Publication Date: 1922년 08월 01일
+Article Title: 謹告 (Notice)
+Author: N/A
+Article Type: 사고·편집후기 (Apology/Editorial Note)
+
+謹告
+Notice
+
+「湖水의 女王」은 本號에 完結하기로 豫定하엿삽던바 공교히 譯者의 事情으로 因하야 本號에 登載치 못하고 來號에는 登載하기로 미리 準備합니다＜54＞
+"Queen of the Lake" (湖水의 女王) was scheduled to conclude in this issue, but unfortunately, due to the translator's circumstances, we were unable to publish it in this issue. We are preparing in advance to publish it in the next issue. <54>
+
+**Summary**
+
+This short notice from the editors of *Kaebyŏk* magazine informs readers that the final installment of the serialized work "Queen of the Lake" (湖水의 女王), originally planned for this August 1922 issue, has been postponed. The delay is attributed to unspecified "circumstances" of the translator. The editors apologize and assure readers that the conclusion will appear in the next issue. From a historical perspective, this notice highlights the practical difficulties faced by Korean publications during the colonial period, including reliance on translators and the potential for disruptions in content delivery. It underscores the logistical challenges involved in maintaining a regular publishing schedule for serialized fiction, especially translated works.
+
+**Named Entities**
+
+N/A
+
+**Glossary**
+
+謹告	근고	Respectful Notice; Announcement (often used for apologies or important information)
+湖水의 女王	호수의 여왕	Queen of the Lake (Title of a work)
+本號	본호	This issue (of the magazine)
+完結	완결	Conclusion; Completion
+豫定	예정	Schedule; Plan
+하엿삽던바	하였었던바	Had been scheduled/planned (Older polite verb ending)
+공교히	공교히	Unfortunately; As ill luck would have it
+譯者	역자	Translator
+事情	사정	Circumstances; Situation
+因하야	인하여	Due to; Because of (Older spelling/form of 인하여)
+登載	등재	Publish;載 Carry (in a publication)
+登載치 못하고	등재치 못하고	Could not publish (Older negative form of 등재하지 못하고)
+來號	내호	Next issue
+準備	준비	Preparation
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	謹告
+기사형태	사고·편집후기
+
+謹告
+「湖水의 女王」은 本號에 完結하기로 豫定하엿삽던바 공교히 譯者의 事情으로 因하야 本號에 登載치 못하고 來號에는 登載하기로 미리 準備합니다＜54＞
+＜51-54＞

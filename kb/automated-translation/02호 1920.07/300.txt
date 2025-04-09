@@ -1,0 +1,53 @@
+Magazine Title: 개벽 제2호
+Publication Date: 1920년 07월 25일
+Article Title: 나무ㅅ군과 부처님 (The Woodcutters and the Buddha)
+Author: Not Specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+The Woodcutters and the Buddha
+
+Two woodcutters went up a mountain to cut wood. One lad lost his axe and couldn't find it, so he went to the nearby temple to pray to the Buddha and ask him to find it for him. Several lads were heading towards that temple when, midway, they encountered several monks from that temple coming down. The woodcutters asked where they were going. The monks replied, "Last night, a thief entered the temple and we lost the Buddhist ritual vessels (佛器), so we are going to the magistrate (원님) to ask him to find them."
+
+Hearing this, the woodcutter who had lost his axe said, "How could a Buddha who cannot even find the vessels lost from his own temple find someone else's axe?" And they parted ways and went on.＜109＞
+
+**Summary**
+
+This short anecdote tells of woodcutters who encounter monks reporting a theft from their temple to the magistrate. One woodcutter, who was initially going to pray to Buddha to find his lost axe, realizes the irony and expresses skepticism about Buddha's power, concluding that if Buddha couldn't prevent his own temple's valuables from being stolen or find them, he certainly couldn't help find a lost axe. From a historical perspective, this piece subtly reflects folk skepticism towards religious or established institutions during the colonial period. It might hint at a questioning of traditional authority or beliefs, possibly resonating with the broader social changes and questioning spirit fostered by publications like *Kaebyŏk* itself, presented in the vernacular language with older spellings characteristic of the era.
+
+**Named Entities**
+
+부처님	부처님	Buddha
+원님	원님	Magistrate (title)
+
+**Glossary**
+
+나무ㅅ군	나무꾼	Woodcutter (older spelling with ㅅ)
+일코	잃고	Losing (older spelling)
+찻지 못하매	찾지 못하매	As he could not find (older spelling of 찾다)
+부처님끠	부처님께	To the Buddha (older particle form)
+차자 달라하야	찾아 달라고 하여	Asking to find (older spelling/form)
+중로	중로	Midway; on the way (途中)
+몃치	몇이	Several people (older spelling)
+나려오거늘	내려오거늘	As they were coming down (older spelling)
+어대	어디	Where (older spelling)
+물은대	물은데	Asked, and then... / When asked (older connective ending)
+불기	불기	Buddhist ritual implements/vessels (佛器)
+일허바리고	잃어버리고	Having lost (older spelling/form)
+원님끠로	원님께로	To the magistrate (older particle form)
+정하러	정하러	To report/request/petition (context implies reporting theft and requesting investigation)
+일흔	잃은	Lost (older spelling)
+잇겟나	있겠는가	Is it likely?/Could it be possible? (older interrogative form)
+허여져가더	헤어져 가더라	Parted ways and went (older spelling/contracted form)
+잡저	잡저	Miscellaneous writing; essays; sketches (雜著)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	나무ㅅ군과 부처님
+기사형태	잡저
+
+나무ㅅ군과 부처님
+나무ㅅ군 둘이 산에 올라가 나무를 하다가 한 아이가 도끼를 일코 찻지 못하매 그 근처 절에 가서 부처님끠 빌고 차자 달라하야 여러 아이들이 그 절을 향하야 가다가 중로에서 그 절중 몃치 나려오거늘 나무ㅅ군이 어대 가느냐 물은대 중의 대답이 「어제밤에 절에 도적이 들어 佛器를 일허바리고 원님끠로 차자 달라고 정하러 간다」하는 지라. 도끼 일흔 나무ㅅ군이 말하되 「제 절에서 일흔 그릇도 찻지 못하는 부처가 남의 도끼 차자 줄 수 잇겟나」하고 허여져가더.＜109＞

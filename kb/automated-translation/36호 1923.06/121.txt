@@ -1,0 +1,51 @@
+Magazine Title: 개벽
+Publication Date: 1923년 06월 01일
+Article Title: 社告 (Company Announcement)
+Author: 開闢社 編輯局 (Gaebyeok Company Editorial Department)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+Company Announcement
+
+The articles regarding the Gyeongbuk Province Special Issue were intended to be completed in this issue, but due to page count circumstances, we unavoidably must publish them in the next issue.
+
+Gaebyeok Company Editorial Department <63>
+
+**Summary**
+
+This is a brief notice from the Gaebyeok magazine's editorial department informing readers that the concluding articles for the special issue focused on Gyeongsangbuk-do (Gyeongbuk Province) could not be included in the current issue (No. 36) due to space limitations. The remaining articles will be published in the subsequent issue. For historians, this notice highlights the practical publishing constraints faced during the colonial era and the magazine's engagement with regional topics through special issues, potentially reflecting efforts to represent diverse parts of Korea under colonial rule.
+
+**Named Entities**
+
+慶北道	경북도	Gyeongsangbuk-do Province
+開闢社 編輯局	개벽사 편집국	Gaebyeok Company Editorial Department
+
+**Glossary**
+
+社告	사고	Company announcement
+慶北道號	경북도호	Gyeongbuk Province Special Issue (of the magazine)
+關한	관한	Regarding, concerning (older form)
+記事	기사	Article(s)
+本號	본호	This issue (of the magazine)
+完篇	완편	Completion (of articles)
+것이오나	것이나	Although it was intended (older grammatical ending)
+頁數	페이지 수/면수	Page count
+形便	형편	Circumstances, situation
+不得已	부득이	Unavoidably
+來號	내호/다음 호	Next issue (of the magazine)
+記載케	기재하게	To be published (older causative form)
+되엿슴니다	되었습니다	Has become (older spelling and polite ending)
+開闢社	개벽사	Gaebyeok Company
+編輯局	편집국	Editorial Department
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제36호
+발행일	1923년 06월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+慶北道號에 關한 記事는 本號에 完篇될 것이오나 頁數의 形便으로 不得已 來號에 記載케 되엿슴니다
+開闢社 編輯局＜63＞

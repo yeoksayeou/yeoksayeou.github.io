@@ -1,0 +1,612 @@
+Magazine Title: 개벽 제71호
+Publication Date: 1926년 07월 01일
+Article Title: 士禍와 黨爭 (Scholar Purges and Factional Strife)
+Author: 靑吾 (Ch'ŏngo)
+Article Type: 논설 (Editorial/Essay)
+
+士禍와 黨爭
+						靑吾
+緖言-士禍-戊午士禍-甲子士禍-己卯士禍-己巳士禍-黨爭-黨爭의 原因-各黨爭의 盛衰 及上關係-黨爭의 社會化에 及한 影響-黨派의 特色과 地方的 分布狀況-附 黨派一覽表 (靑吾)
+
+**Introduction**
+
+Recently, the famous scholar of Chinese Classics, Ningjae Yi Kŏnch'ang (寧齋 李建昌), authored the *Tangŭi T'ongnyak* (黨議通略), intensely lamenting the factional strife (*tangjaeng*) inherent in Chosŏn history, stating, "Although the Eastern Han, Tang, and Song dynasties all had cliques and factions (*pungdang*), for an entire nation to be engrossed in this, spanning several hundred years such that the righteousness and wickedness, the loyal and the rebellious, remain unclear, is unique to our dynasty alone. This is the greatest, most intractable, and most enduring factionalism of all time." As his words suggest, Chosŏn's factional strife was indeed the greatest, most intractable, and most enduring in history, without parallel. Of the 519 years the dynasty lasted, roughly 300 years were entirely filled with this factional strife (including scholar purges*), covering the entire pages of history. It is no exaggeration to say that the history of the Yi Dynasty (李朝), viewed from one perspective, is the history of this factional strife. Political power was swayed by this factional strife, royal authority waxed and waned due to it, and even institutions, customs, and culture – none were untouched by the dominance of factional strife. Worthy men and gentlemen, revered by their generation, could, due to factional connections, instantly receive the disgraceful name of traitor or rebel, becoming exiles on lonely islands or remote seas, or perhaps vengeful ghosts slain by cruel swords or poison. Those who committed great treason and disloyalty, whose corpses were displayed and mutilated, could also instantly become loyal subjects and righteous martyrs, receiving posthumous honors and titles. Furthermore, no matter how great a figure, if not belonging to a faction, they could not advance in government service; conversely, no matter how inferior a person, if they had the backing of a faction, they could gather honors and titles as easily as picking up mustard seeds. <55> Thus, ruler and subject suspected each other, scholars and commoners ostracized and killed each other, and within the three thousand *ri* territory, the sounds of lamentation and the blood of the unjustly oppressed never ceased. Before factional strife, there was no state, no monarch, no nation, no relatives, no teachers or students. Satisfaction came only from pushing through one's own faction's principles and assertions. How could this be anything but the root of a ruined people and a lost nation? King Sŏnjo (宣祖大王), during his flight to Ŭiju (義州), composed a poem and showed it to his officials, saying, "Tears soak the Kwan Mountain moon, sorrow fills the Yalu River autumn. O court officials, after today, will you still split East and West? (First two lines omitted - original text)." Although the poem consists of only a few simple lines, how sorrowful it is, and how keenly it warns the officials against factional strife! However, the officials of that time showed not the slightest remorse. Just a few days after the Imjin War (壬亂), the division between Southerners (南人) and Northerners (北人) arose, followed by intense strife between the Greater and Lesser Northerners, and the Westerners (西人) and Southerners, until the Qing invasion during the Pyŏngja year (丙子) of King Injo (仁祖). There was no strategy for defense, and the ruler and officials suffered the humiliation of surrender beneath the castle walls. Even this was not enough; generation after generation pursued factional strife as their main business, ultimately leading to the tragic fate of the nation's decline and fall. How can this not be lamented? Discussing this now feels somewhat like discussing a prescription after the funeral clothes have been donned, yet how can we know if it might not serve as a stone from another mountain [a lesson from others' failures]?
+
+**I. Scholar Purges (士禍)**
+
+Scholar purges (*sahwa*) were惨劇s (tragic dramas) among the scholar-officials (*sarim*), staged as a kind of factional strife (scholar purges are also a type of factional strife, but their nature is not perpetual). Viewed broadly, they are ultimately nothing more than internal discord among court officials, a struggle common to any era. However, viewed narrowly and specifically, they must be described as clashes between a newly rising school of Confucianism (儒學) since the early Yi Dynasty and the non-Confucian factions surrounding it.
+Originally, Confucianism (儒敎) in Chosŏn was first introduced towards the end of the Koryŏ Dynasty (麗朝末葉) by An Mun Sŏnggong Yu (安文成公裕). Thereafter, Yi Chehyŏn (李齊賢), Yi Saek (李穡), Chŏng Mongju (鄭夢周), Kil Chae (吉再), and other worthies transmitted this learning. Among them, Kil Chae (courtesy name Yaŭn 冶隱) was a scholar who could be called the paramount figure of the Cheng-Zhu school (程朱學). After Koryŏ fell, he secluded himself under Kŭmosan (金烏山) mountain in Sŏnsan (善山), Kyŏngsangbuk-do (慶北), refusing government service and dedicating himself entirely to educating later generations. He gained excellent disciples like Kim Sukcha (金叔滋). Sukcha's son, Chŏmp'ilchae Kim Chongjik (佔畢齋 金宗直), was also a renowned scholar who transmitted his lineage to Chŏng Yŏch'ang (鄭汝昌), Kim Koengp'il (金宏弼), and others. For a time, famous scholars emerged, and their scholarly style gradually infiltrated from the provinces into the capital. By the time of Yŏnsan-gun (燕山), they had already come to occupy a position of influence within the government. However, this school of thought, while naturally inheriting the teachings of Cheng-Zhu, made the practical application of the *Lesser Learning* (小學) and the refinement of poetry and prose its ultimate <56> goal. Simultaneously, they regarded their own principles and ideas as the most lofty and superior, rejecting those who did not conform to their faction as if they were a different species, refusing to associate with them. Consequently, they incurred the ill will of those around them, fostering the so-called scholar purges. These purges began in the 4th year of the deposed King Yŏnsan-gun (廢主燕山君), the year Muo (戊午), and spanned about 70 years until the end of King Myŏngjong's (明宗) reign, enacting numerous tragedies. These events undoubtedly involved struggles for political power, eventually transforming into conflicts among royal relatives by marriage (外戚), and subsequently, during the reign of King Sŏnjo, opened the way for the factional strife (*pungdang punjaeng*) that became a chronic disease of the Yi Dynasty. Now, let's list the major scholar purges as follows (Some consider all factional struggles after King Tanjong's 遜位 (abdication) as scholar purges, referring to them collectively as the 12 Scholar Purges).
+
+**A. Muosahwa (戊午士禍 - Scholar Purge of 1498, Yŏnsan-gun's 4th year)**
+
+This was the first scholar purge to occur in Chosŏn. Initially, Yu Chagwang (柳子光), the illegitimate son of Prefect Yu Kyu (柳規), possessed extraordinary courage and strength, receiving the favor of King Sejo (世祖). He also frequented the circle of the renowned scholar of the time, Kim Chongjik (金宗直). In the early years of King Yejong (睿宗), Yu Chagwang was enfeoffed as Prince Muryŏng (武靈君) for falsely accusing General Nami (南怡) of treason (Nami was the son of Prince Consort Ŭisan Nam Hwi 宜山尉 南輝 and the maternal grandson of King T'aejong 太宗). Kim Chongjik always regarded Yu Chagwang as treacherous and villainous and treated him with extreme disdain. When Kim Chongjik happened to become the magistrate of Hamyang County (咸陽郡守), he saw a plaque (懸板) bearing Yu Chagwang's name in the county office and declared, "How can a person like Chagwang have a plaque here?" ordering its immediate removal. (Previously, Chagwang had toured Hamyang and asked the magistrate to hang a plaque with his poem). Hearing of this, Chagwang was greatly resentful and secretly sought revenge, colluding with the powerful official of the time, Yi Kŭkton (李克墩), Prince Kwangyang (廣陽君), and watched for an opportunity. Just then, Kim Chongjik's disciple, Kim Ilson (金馹孫), became a historiographer (*sagwan*). He had previously written frankly about Yi Kŭkton, during his time as governor of Chŏlla Province (全羅監司), taking *kisaeng* (妓女 - female entertainers) with him when traveling to the capital to offer incense upon the death of the previous king. Kim Ilson, now an inspector (獻納), also submitted a memorial discussing how Yi Kŭkton and Sŏng Chun (成俊) (who became prime minister during Yŏnsan's reign) were at odds with each other and factions were about to arise. Yi Kŭkton was greatly enraged and finally joined forces with Yu Chagwang, plotting to eradicate Kim Chongjik's faction. Then, in the 4th year of Yŏnsan-gun's reign, when the *Veritable Records of King Sŏngjong* (成宗實錄) were being compiled and the historical office (*saguk*) was opened, Yi Kŭkton discovered Kim Chongjik's "Lament for Emperor Yi" (吊義帝文) within Kim Ilson's draft history (*sach'o*). Believing this was a rare chance to avenge his lifelong grudge, he met Yu Chagwang, fabricated accusations, and instructed him, saying, "Kim Chongjik's writing satirizes King Sejo." Yu Chagwang, also secretly pleased, conspired with No Sachin (廬思愼), Prince Consort Sŏngsŏng (宣城府院君), and Yun P'ilsang (尹弼商), Prince P'ap'yŏng (坡平府院君), and submitted a memorial to the king, stating, "Kim Chongjik's defamation of King Sejo constitutes high treason and should be punished as such. Furthermore, his writings must be completely burned so they do not circulate in the world." <57> Yŏnsan-gun, who originally disliked scholarship and particularly detested the Confucian scholars of Kim Chongjik's faction, upon seeing the memorial from Yu Chagwang and others, immediately followed it blindly without investigating the facts or right and wrong. He ordered Yu Chagwang to interrogate Kim Ilson and others. Yu Chagwang, seeking to vent his long-held resentment all at once, rounded up not only Kim Chongjik's disciples but also anyone associated with them, executing some and banishing others. Kim Chongjik, already deceased at the time, had his coffin broken open, his corpse decapitated (*pugwan ch'amsi*), enacting an unprecedentedly horrific tragedy. (Those affected at the time included Kim Ilson, Kwŏn Kyŏngyu, Kwŏn Obok, Yi Mok, Hŏ Pan, Kang Kyŏm, P'yo Yŏnsu, Hong Han, Chŏng Yŏch'ang, Kang Kyŏngsŏ, Yi Sukong, Chŏng Hŭiryang, Chŏng Sŭngjo, Yi Chongjun, Ch'oe Pu, Yi *, Kim Koengp'il, Cho Wi, Pak Hanju, Im Hŭijae, Kang Paekchin, Yu Chŏngsu, Yi Kyemaeng, Kang Hon, etc.) Since this incident occurred in the 7th month of Muo (戊午), the 4th year of the reign of the deposed 10th king of the Yi Dynasty, Yŏnsan-gun, later generations called it the Muo Sahwa (戊午史禍). Because its origin lay in the draft histories (*sach'o*), it is also simply called *Sahwa* (史禍 - Historiography Purge).
+
+**B. Kapchasahwa (甲子士禍 - Scholar Purge of 1504, Yŏnsan's 10th year)**
+
+Six years after the tragedy of Muo, in the 10th year of Yŏnsan-gun's reign, Kapcha (甲子), another great calamity befell the scholar-officials (*sarim*). This is the famous Kapcha Sahwa. Regarding the background of this purge, initially, Yŏnsan-gun's biological mother, Queen Yun (尹妣), was deposed and later forced to commit suicide by poison (*sasa*). At the time, Yŏnsan was still young and completely unaware of the facts. As he gradually matured and learned the truth, he deeply mourned his mother's untimely death, considering it the greatest regret of his life. In the 4th month of the 10th year of his reign, he sought to posthumously elevate Lady Yun to Queen (王后) and enshrine her tablet in King Sŏngjong's (成宗) ancestral shrine (**코자 하니 - typo, likely 祔廟코자 하니, 'enshrine together'). Most court officials agreed with this proposal, with no particular dissent. However, only Censor Kwŏn Talsu (權達手) and Yi Haeng (李荇) voiced opposition. Yŏnsan became furious, killed Kwŏn Talsu, and banished Yi Haeng. Yet, his anger was still not appeased, and the intention arose to retrospectively punish all those who had supported Lady Yun's deposition and death. At that time, among the court officials, many resented the high reputation of the contemporary scholar-officials. Seizing this opportunity, they falsely accused the *sarim* of "slandering state affairs." Yŏnsan-gun, who already harbored a strong dislike for the *sarim*, listened to this and initiated a tragic purge (*ŭiok* - treason case). He banished or executed court officials connected to the deposed queen's case and those belonging to Kim Chongjik's school of thought all at once. For those already deceased, the calamity reached even their graves; their bones were crushed, their heads cut off, some scattered to the wind, others thrown into water. This purge was even more cruel than the Muo Sahwa and can be considered the era of greatest terror for the scholar-officials. (Yun P'ilsang, Yi Kŭkkyun, Sŏng Chun, Yi Sejwa, Kwŏn Chu, Kim Koengp'il, Yi Wi, and dozens more were killed. Han Ch'ihyŏng, Han Myŏnghoe, Chŏng Ch'angson, Ŏ Sech'ŏm, Sim Hoe, Yi P'a, Chŏng Yŏch'ang, Nam Hyoon, being already dead, had their coffins exhumed and corpses decapitated (*pugwan ch'amsi*), and their sons, younger brothers, and relatives were also banished.)
+
+**C. Kimyosahwa (己卯士禍 - Scholar Purge of 1519, Chungjong's 14th year)**
+
+This purge occurred in the 14th year of King Chungjong's (中宗) reign. The causes of this purge can be seen as both direct and indirect. <58> The direct cause was the radical reforms pushed by Cho Kwangjo (趙光祖, courtesy name Chŏngam 靜菴) and his faction. The indirect cause was the issue of reinstating King Chungjong's deposed Queen Sin (愼氏). Initially, after Chungjong ascended the throne, he enfeoffed his wife, Lady Sin, as queen. Lady Sin was the daughter of Sin Sukŭn (愼守勤). Previously, Sukŭn had wielded power arbitrarily and behaved arrogantly. During the coup (*panjŏng*) that brought Chungjong to power, Pak Wŏnjong (朴元宗) killed Sukŭn. Fearing that if Lady Sin became queen, misfortune might befall him, Pak Wŏnjong consulted with Chief State Councilor Yu Sun (柳洵) and Right State Councilor Kim Sudoŋ (金壽童). They petitioned the king, arguing, "To execute the father for his crimes and make his daughter the queen might cause apprehension in the hearts of the people and pose a danger to the state altars (社稷). It is advisable to depose Lady Sin." Gaining approval, she was deposed just eight days after becoming queen. The daughter of Yun Yŏp'il (尹汝弼), Prince P'awŏn (坡原府院君), was installed instead; this was Queen Changgyŏng (章敬王后), and Yun Yŏp'il was Pak Wŏnjong's wife's elder brother. However, in the 3rd month of Chungjong's 10th year, Queen Yun gave birth to the crown prince (元子 - later King Injong 仁宗) but passed away merely seven days later. Among the officials, arguments arose for Queen Sin's reinstatement, reopening the way for factional disputes. At that time, Kim Chŏng (金淨), magistrate of Sunch'ang County (淳昌郡守), and Pak Sang (朴祥), magistrate of Tamyang Prefecture (潭陽府使), petitioned for Queen Sin's reinstatement. Simultaneously, they argued that Pak Wŏnjong had coerced the king and expelled the queen mother, and thus his crime should be swiftly punished to demonstrate the great principles of righteousness (大義名分) to the world and future generations. Chief Censor Kwŏn Minsu (權敏手) and Second Censor Yi Haeng (李荇) called Kim Chŏng's petition perverse (*saron*) and sought to arrest and interrogate the two, sentencing them to death. However, Left State Councilor Chŏng Kwangp'il (鄭光弼) strongly argued against it, so they barely escaped death and were banished to provincial post stations (*oe'yŏk*). At this, Inspector Cho Kwangjo (趙光祖) impeached Yi Haeng and others, stating that punishing scholars who discussed current affairs, supposedly as officials responsible for remonstrance (*ŏn'gwan*), was leading the ruler towards rejecting counsel. He strongly argued for the dismissal of Yi Haeng and others. The king eventually dismissed Yi Haeng and Kwŏn Minsu, appointing Yi Changgon (李長坤) as Chief Censor and Kim An'guk (金安國) as Second Censor. From this point, Yi Changgon and Kim An'guk supported Cho Kwangjo, while Rectifier Yu Pak (柳博) and Kim Hŭisu (金希壽) sided with Kwŏn and Yi. Junior Academician Kim Allo (金安老) proposed a view supporting both sides (saying Kwangjo was for freedom of speech, while Haeng and Minsu were for the royal house), thus initiating the debate among court officials. Although this dispute was not the direct cause of the Kimyo Sahwa, it undoubtedly contributed indirectly by weakening Cho Kwangjo's faction and leading them to suffer calamity. Prior to this, King Chungjong, seeking to reform the misrule of Yŏnsan-gun and pursue the path of restoration (*chunghŭng*), trusted Cho Kwangjo, the leader of the contemporary scholar-officials. He established a special examination category called *hyŏllyanggwa* (賢良科 - Examination for the Wise and Good) and promoted scholars of Cho's faction – Kim Sik (金湜), An Ch'ŏgon (安處恭), Pak Hun (朴薰), Pak Sang (朴祥), Yi Cha (李耔), Kim Ku (金絿) – appointing them all to important posts at once. Cho Kwangjo advanced from Junior Academician (副提學) to Chief Censor (大司憲), and his influence seemed like the rising sun. However, the young and zealous scholars led by Cho Kwangjo, full of confidence and ambition, sought to realize their ideals with the precipitate force of establishing the rule of the Three Dynasties (三代之治) instantly, regardless of whether the timing was advantageous or the situation feasible, merely charging forward recklessly. They often spoke and acted towards the king in ways bordering on coercion, ultimately failing to gain goodwill from those around them and frequently incurring the king's aversion and displeasure. Consequently, their opponents <59> seized upon their weaknesses and initiated clandestine movements to oust them. At that time, Minister of Rites Nam Kon (南袞), who considered himself a scholar of reputation and integrity, always hoped to associate with the *sarim*. However, scholars of Kwangjo's faction pointed at Nam, calling him a petty man (*soin*), and tended to criticize him whenever they met. Thus, Nam harbored resentment and watched for an opportunity for revenge. Furthermore, after Cho Kwangjo became Chief Censor, he once encountered Chancellor Ko Hyŏngsan (高荊山) on the road but passed by silently without showing proper courtesy. Hearing of this, Ko's faction grew even more resentful towards Cho Kwangjo. As such incidents piled up, resentment and jealousy from court officials converged on Kwangjo like hedgehog quills, creating a critical situation where a backlash could erupt at any opportunity. Amidst this, in the 10th month of Chungjong's 14th year, Cho Kwangjo, along with Second Censor Yi Sŏngdoŋ (李成童), prostrated themselves before the palace gate (*pokhap*), again requesting the removal of improperly listed merit subjects (靖國功臣). These merit subjects were those who had participated in the plot (丙寅) to depose Yŏnsan-gun and enthrone Chungjong, and whose merits were recorded early in Chungjong's reign. Since there were undoubtedly many unsuitable individuals among them, Kwangjo and others requested their purging for the sake of clarification. This proposal was generally supported by the high ministers (*taesin*) and the Six Ministries (*yukkyŏng*) at the time. However, King Chungjong argued that once merits had been decided and rewards recorded at the Royal Court (*myodang*), subsequent rescission was not easy in terms of prestige or sentiment (*chŏngsil*). Initially, he refused permission. But as the Censorate (兩司 - *yangsa*, referring to Sahŏnbu and Saganwŏn) insisted strongly, even threatening resignation, Chungjong had no choice but to comply. He struck off a total of 76 individuals – those deemed improperly listed in the second and third ranks, plus the entire fourth rank. Hearing this, great alarm arose among the various merit subjects, and collective resentment focused on Kwangjo's faction. Consequently, those who had long detested Cho – Hong Kyŏngju (洪景舟), Prince Namyang (南陽君); Minister of Works Kim Chŏn (金銓); Minister of Rites Nam Kon (南袞); Minister of War Yi Changgon (李長坤); Minister of Taxation Ko Hyŏngsan (高荊山); Commander-in-Chief Sim Chŏng (沈貞); Assistant Director Sŏng Un (成雲) – conspired together. On the evening of the 15th day of the 11th month, they gathered secretly outside Sinmumun Gate (神武門), conferred, and then Hong Kyŏngju, Nam Kon, and others presented a written accusation to Chungjong, falsely claiming, "Political power and the people's hearts have all gone to Cho Kwangjo. Furthermore, Kwangjo and his associates band together, promoting those who adhere to them and rejecting those who oppose them, causing the state's fortunes to be overturned and court administration to decline daily... (Omitted - original text) It is proper to hand them over to the authorities (*yusa*) and punish their crimes." At that time, Chungjong also disliked the excessively zealous and dogmatic words and actions of Kwangjo's faction, which seemed threatening. He readily accepted their words and ordered the authorities to arrest Vice Chancellor Yi Cha (李耔), Minister of Punishments Kim Chŏng (金淨), Chief Censor Cho Kwangjo (趙光祖), Headmaster of Sŏnggyun'gwan Kim Sik (金湜), and Junior Academician Kim Ku (金絿). They were brought bound to the palace gate, and the intention was immediate execution. However, Chief State Councilor <0xC584> Kwangp'il (鄭光弼) and Left State Councilor An Tang (安塘) vehemently remonstrated, so Cho Kwangjo was sent to the state prison (*chook*), while the others were merely banished. (According to one theory, Nam Kon plotted many insidious schemes to harm Cho Chŏngam. Hearing that Hong Kyŏngju, while serving as Chancellor, had been impeached by Kwangjo and harbored discontent <60>, Nam colluded with him and planned a conspiracy. Just then, earthquakes occurred in the capital and provinces, causing public anxiety, and the king was also uneasy. Seizing this opportunity, Nam had Kyŏngju's daughter, Hong Hŭi*yang (洪熙*양 - name unclear/possibly typo), spread rumors within the palace that "the people's hearts have turned to Cho Kwangjo." He also wrote the four characters "走肖爲王" (Chu Ch'o wi wang - implying the Cho clan will become king) on leaves in the palace garden using honey water, allowing insects to eat them. He then showed the traces of the letters to the king, greatly alarming him. Et cetera.) At that time, about a thousand students from the National Academy (館學儒生), hearing of Kwangjo's imprisonment, gathered outside Kwanghwamun Gate (光化門), submitted memorials defending Kwangjo's innocence, and even entered the palace courtyard, weeping and wailing loudly. This angered the king, who ordered their arrest and imprisonment. The students vied to be the first taken to prison, filling it to capacity with no room left. Seeing this, the treacherous officials again falsely accused Kwangjo to Chungjong, saying that if Kwangjo was not swiftly executed, public sentiment would become even more unstable, and great disaster would soon follow. Chungjong believed this and, on the 21st day of the 11th month, finally determined Kwangjo's crime, announced it publicly, banished him to Nŭngju (綾州) in Chŏllanam-do (全南), and subsequently ordered him to commit suicide by poison (at age 38). Dozens of his faction members were also banished. As this occurred in the year Kimyo (己卯), the 14th year of Chungjong's reign, later people called it the Kimyo Sahwa (己卯士禍). (Major figures affected at the time were Yun Chaim, Pak Sehŭi, Pak Hun, Ki Chun, Yi Changgon, Kim An'guk, Kim Chŏngguk, Han Ch'ung, Ku Subok, Kim Sep'il, Yu Un, Yu Yonggŭn, Ch'oe Suksŏng, Sin Kwang, Kim Chŏng, Kim Sik, Kim Ku, etc.)
+
+**D. Ŭlsasahwa (乙巳士禍 - Scholar Purge of 1545)**
+
+Previous scholar purges, as described above, arose from conflicts between the *sarim* and their surrounding environment, with the *sarim* naturally being central. However, purges after Kimyo centered on internal strife among the royal relatives by marriage (*oech'ŏk*), with the *sarim* merely getting caught in the vortex. Therefore, the Ŭlsa Sahwa, which will be described here, is more accurately termed a consequence of the power struggle among royal relatives, in which the *sarim* were swept up and suffered misfortune. *Initially, King Chungjong's first queen, Queen Tangyŏng Sin (端敬王后愼氏), was deposed because she was the daughter of Sin Sukŭn (愼守勤), who was executed during the deposition of Yŏnsan-gun (see Kimyo Sahwa). His successor queen, Queen Changgyŏng Yun (章敬王后尹氏), was brought in, gave birth to the crown prince (later King Injong 仁宗), and then also passed away. Chungjong then welcomed his next successor queen, Queen Munjŏng Yun (文定王后尹氏), who gave birth to the second son, Prince Kyŏngwŏn (慶原大君, later King Myŏngjong 明宗). At this time, Queen Changgyŏng had a brother named Yun Im (尹任), and Queen Munjŏng had a younger brother named Yun Wŏnhyŏng (尹元衡). They competed intensely for power, creating significant friction. Later, Wŏnhyŏng and his elder brother Wŏllo (元老) were ousted by Kim Allo (金安老) and temporarily lost influence. However, in the 32nd year of Chungjong's reign, Kim Allo also fell from power, and Wŏnhyŏng was reappointed. Opportunists quickly attached themselves to him, forming two factions: the Greater Yun (大尹 - *Tae Yun*) and the Lesser Yun (小尹 - *So Yun*). The Greater Yun was led by Yun Im, and the Lesser Yun by Yun Wŏnhyŏng. Subsequently, in the 39th year, Chungjong passed away, and Injong ascended the throne. His maternal uncle, Yun Im, suddenly gained power, and his faction temporarily held great authority. Renowned scholar-officials of the time, such as Yu Kwan (柳灌) and Yi Ŏnjŏk (李彦迪), were appointed to high positions. Minister of Personnel Yu Insuk (柳仁淑) particularly drew in scholars from his faction, leading to a slight resurgence of the <61> *sarim*, which had been in decline since the Kimyo Sahwa. However, on the other hand, those out of favor at the time naturally flocked to Yun Wŏnhyŏng, forming another faction. Unfortunately, King Injong passed away after only 8 months on the throne. Myŏngjong ascended at the young age of 13, and the Queen Dowager Munjŏng (文定王后) ruled from behind a screen (*yŏm*). Consequently, Yun Im's faction naturally lost power, and Yun Wŏnhyŏng's faction suddenly rose to prominence. At that time, Yun Wŏnhyŏng's brother, Wŏllo, was Vice Director of the Armory Office (軍器寺僉正). Being treacherous and dangerous, Chief State Councilor Yun Ingyŏng (尹仁鏡) and Left State Councilor Yu Kwan (柳灌) impeached him for his crimes, leading to his banishment to Haenam (海南). Prior to this, when Yun Wŏnhyŏng was Vice Minister of Rites (禮參), he sought to eliminate Yun Im's faction. Learning that Assistant Director of the Royal Secretariat Chŏng Sunmyŏng (鄭順明), Minister of War Yi Ki (李芭), Minister of Taxation Im Paengnyŏng (林百齡), and Minister of Works Hŏ Cha (許磁) originally had conflicts with Yun Im, he eventually colluded with these four, watching for an opportunity. Now, they falsely accused, "On the day King Injong was gravely ill, Yun Im, seeking self-preservation, refused to support Myŏngjong's ascension and intended to enthrone either Prince Kyerim Yu (桂林君 瑠 - adopted son of Prince Kyesŏng Sun 桂城君 恂, King Sŏngjong's third son) or Prince Pongsŏng Wan (鳳城君 岏 - King Chungjong's eighth son), and Yu Insuk, Yu Kwan, and others all supported this." Queen Dowager Munjŏng believed this false accusation and secretly ordered Wŏnhyŏng to have the Censorate (兩司) denounce the crimes of Yun Im and others. However, disagreement arose within the Censorate, and a decision was not easily reached. Therefore, Wŏnhyŏng met secretly at night with Chŏng Sunbung (鄭順朋 - likely same as Sunmyŏng), Yi Ki, Im Paengnyŏng, and Hŏ Cha outside Kwanghwamun Gate. The next morning, they went to the Royal Secretariat (*Chŏngwŏn*) and urgently reported the false accusation, "Yun Im's faction has colluded to cause a major state incident." The King and Queen Dowager were greatly alarmed, banished and ordered the execution by poison of Yun Im, Yu Kwan, Yu Insuk, and dozens of others. Furthermore, due to a secret report from Kyŏngsang Governor Kim Myŏngyun (金明胤), Princes Pongsŏng and Kyerim were also killed. However, this purge (*okhwa*) did not stop there. In the 9th month of Myŏngjong's 2nd year, Junior Academician Chŏng Ŏn'gak (鄭彦慤) discovered graffiti written in red ink on the wall of Yangjae Station (良才驛) in Chŏlla Province: "The Queen rules above, treacherous officials Yi Ki and others wield power below, the country's ruin can be expected any moment, how chilling!" He, along with Sunbung, reported to the throne that this must be the work of those involved in the Ŭlsa purge, and that the roots of the disaster should be completely eradicated. The Queen Dowager again believed this and initiated another major purge, killing Song Insu (宋麟壽), Yi Yaksu (李若水), and others, and banishing Kwŏn Pal (權撥), Yi Ŏnjŏk (李彦迪), Paek In'gŏl (白仁傑), Chŏng Hŭidŭng (鄭希登), Pak Kwang'u (朴光佑), Song Hŭigyu (宋希奎), Yu Hŭich'un (柳希春), No Susin (盧守愼), and dozens more. As this calamity began in the year Ŭlsa (乙巳) of Myŏngjong's reign, it is commonly referred to as the Ŭlsa Sahwa (乙巳士禍).
+
+**II. Factional Strife (黨爭)**
+
+**A. Causes of Factional Strife**
+
+There are various theories regarding the causes of factional strife. Some attribute it to the flaws of the private academies (*sŏwŏn*) (e.g., Pak Chehyŏng's *Chosŏn Chŏnggam* 朝鮮政鑑). Others point to eight major causes: excessive emphasis on Neo-Confucian morality (*tohak*), overly strict adherence to nominal righteousness (*myŏngŭi*), overly complex literary style (*munsa*), overly secretive criminal investigations (*hyŏngok*), excessive power of the Censorate (*taegak*), overly pure standards for official appointments (*hwanjik*), excessive power of established families (*pŏllyŏl*), <62> and excessively long periods of peace (*sŭngp'yŏng*) (e.g., Yi Kŏnch'ang's *Tangŭi T'ongnyak* 黨議通畧). Still others describe it as an emotional conflict arising during the transition between old and new generations (e.g., Dr. Shidehara Taira's *Kankoku Seisōshi* 韓國政爭志). And some simply attribute it to the mutual antagonism and jealousy between Sim Ŭigyŏm (沈義謙) and Kim Hyowŏn (金孝元). However, broadly classifying these, there are both remote causes (*wŏnin*) and proximate causes (*kŭnin*). The remote causes are (1) Scholar Purges and strife among royal relatives (*ch'ŏk*) and (2) flaws in the institutional system. The proximate causes are (1) discord between old and new elements among the scholar class (*saryu*) at the time and (2) the mutual antagonism and jealousy between Sim Ŭigyŏm and Kim Hyowŏn. That the Scholar Purges and strife among royal relatives were major causes of factional strife is as described above, so we will not discuss it further here. However, it must be said that the Yi Dynasty's *Chŏllang* (銓郞) system also nurtured this factional strife. Traditionally, Chosŏn's official system included the Three High Councillors (三公 - Chief, Left, and Right State Councilors) and the Six Ministers (六卿 - Ministers of the Six Boards). However, appointments to official positions, both internal and external, were not made by the Three High Councillors but belonged entirely to the Ministry of Personnel (吏曹). Furthermore, fearing the concentration of power in the Ministry of Personnel, the selection for the most important posts of the time, the Three Offices (三司 - Office of the Inspector General 司憲府, Office of the Censor General 司諫院, Office of Special Advisors 弘文館), was exclusively handled by the Senior (*Chŏngnang*) and Junior (*Chwarang*) Secretaries under the Minister of Personnel (*Ijo P'ansŏ*), with the Minister himself having no involvement. This position was the so-called *Chŏllang*, whose actual power was quite significant. Consequently, this *Chŏllang* position was filled by specially selecting individuals of reputation and virtue from among the Three Offices. Moreover, the *Chŏllang* was permitted to recommend his successor, remaining completely independent of the Minister. Therefore, promotions in rank often involved first rising to *Chŏllang* and then moving to other offices. Once one had served as *Chŏllang*, unless there was a major issue, one could expect a smooth path to becoming a high councillor or minister (*konggyŏng*). Although the State Council (議政府), formed by the consensus of the Three High Councillors, was the head of the central government, since the 15th year of Myŏngjong's reign, it had become largely nominal. The Border Defense Council (備邊司 - *Pibyŏnsa*, also known as *Piguk* 備局 or *Chuguk* 籌局), composed of high-ranking civil and military officials, became the de facto supreme decision-making body for state affairs. Thus, the organization of the Yi Dynasty's central government was quite irregular, and among its features, the *Chŏllang* position represented an irregularity within an irregularity, naturally fostering the formation of factions. The antagonism between Sim Ŭigyŏm and Kim Hyowŏn, discussed below, actually stemmed from personal grudges related to the *Chŏllang* position.
+
+Next, the proximate cause lies, first, in the discord between old and new elements among the scholar class (*saryu*) at the time. Naturally, factions existed among the scholars after the Ŭlsa Sahwa, but by the early reign of King Sŏnjo, the friction between old and new had intensified. This requires no lengthy explanation; the situation can be glimpsed simply by examining the farewell memorial (*yuch'al*) of Yi Chun'gyŏng (李浚慶), courtesy name Tonggo (東皐), who was Chief State Councilor at the time, and the opposition it provoked. Yi Chun'gyŏng succeeded Yun Wŏnhyŏng as Chief State Councilor, received King Myŏngjong's deathbed instructions (*komyŏng*), welcomed King Sŏnjo to the throne, and served as Chief State Councilor until the 4th year of Sŏnjo's reign – a pillar of the state. When he passed away in the 7th month of Sŏnjo's 5th year while holding the title of Chief of the Royal Secretariat (領中樞府使), he submitted the following memorial to Sŏnjo:
+"People nowadays, even if they have committed no personal transgression and their actions violate no rules, <63> if a single word disagrees with them, they immediately reject and refuse to tolerate them. They do not cultivate proper conduct, nor do they strive in their studies. Instead, they engage in lofty talk and grand pronouncements, forming cliques and alliances, considering this high refinement, thus creating a climate of falsehood. (Remainder omitted - original text)"
+This clearly describes the situation three years before the East-West partisan split occurred in Sŏnjo's 8th year, showing how corrupted the thinking of the scholar-officials (*sarim*) had become at the time. However, the young Confucian scholars of that era, upon seeing Tonggo's memorial, declared that he was "confusing the king's judgment and seeking to bring misfortune upon the younger generation," vehemently opposing it. Among them, even someone like Yulgok Yi I (栗谷 李珥) went so far as to make the biased argument, "It is said, 'When a bird is about to die, its cry is mournful; when a man is about to die, his words are good.' But as Chun'gyŏng is about to die, his words are evil." This was also because Tonggo was a 74-year-old state elder, while Sim Ŭigyŏm, Yi I, and others were younger men of a later generation. However, considering that the East-West split occurred due to the antagonism between Sim and Kim just a few years after Tonggo's death, Tonggo's memorial must be recognized as insightful foresight, having accurately perceived the mood of the *sarim* at the time.
+
+Furthermore, the second proximate cause, as mentioned earlier, is the mutual antagonism and jealousy between Sim Ŭigyŏm and Kim Hyowŏn. This conflict between Sim and Kim truly formed the starting point of the East-West partisan split. However, to explain the reason for their antagonism, it is first necessary to understand their relationship and characters.
+Originally, Sim Ŭigyŏm (courtesy name Yangam 良庵) was the son of Sim Tong (沈銅), Prince Consort Ch'ŏngsong (靑松府院君), and the younger brother of King Myŏngjong's queen consort. Minister of Personnel Yi Ryang (李樑) was also Sim Ŭigyŏm's father Sim Tong's maternal uncle. King Myŏngjong had promoted Yi Ryang to curb the autocratic power of his maternal uncle, Yun Wŏnhyŏng. However, while serving as Minister of Personnel, Yi Ryang also relied on royal favor and acted excessively, constantly persecuting the *sarim*, raising fears that another scholar purge might occur. Sim Ŭigyŏm, despite being a close relative of Yi Ryang, associated with the *sarim*. Seeing the extreme arrogance of Yi Ryang's faction and the resulting peril for the court and country, he, along with Junior Academician Ki Taehŭng (奇大恒), jointly impeached Yi Ryang, forcing his dismissal. This earned Sim the trust of senior *sarim* members, leading to his promotion to the key post of Chief Censor (大司憲) (at age 39). Meanwhile, Kim Hyowŏn (courtesy name Sŏngam 省庵) (7 years younger than Sim) was a disciple of Kim Kŭngong (金謹恭) from the Kim Chongjik school, renowned for his literary talent among the promising young scholars of the time. One day, Sim Ŭigyŏm, on official business, sent an attendant to the house of the powerful royal relative Yun Wŏnhyŏng. There, the attendant found Kim Hyowŏn's bedding, as Kim was lodging at Yun's house. Sim concluded that Kim was not a principled scholar (*kaesa*) and inwardly looked down on him, often treating him with contempt. (Originally, Hyowŏn's father-in-law was the nephew of Chŏng Yungyŏm 鄭允謙, who was Yun Wŏnhyŏng's concubine's father, which is why Hyowŏn stayed at the Yun residence). However, since this happened before Hyowŏn passed the state examination (*tŭngkwa*), there was no direct issue between them. (Commonly, this incident is considered the direct cause of their antagonism.) Later, after Hyowŏn passed the examination with top honors and his talent and fame grew daily, the *Chŏllang* O Kŏn (吳健) recommended Kim <64> to succeed him. Sim Ŭigyŏm blocked this appointment. Then, six or seven years later, when Hyowŏn himself became *Chŏllang*, he promoted many rising young scholars. However, when Sim Ŭigyŏm's younger brother, Ch'ungyŏm (忠謙), was recommended for the *Chŏllang* position, Kim Hyowŏn refused, stating that the "heavenly office" (*ch'ŏn'gwan* - i.e., Ministry of Personnel) was not a place for royal relatives by marriage. Consequently, the antagonism between the two gradually became overt.
+At that time, the mindset of the *sarim*, as described above, had deteriorated to an extreme. As the conflict between Sim and Kim intensified daily, the so-called senior scholars (*sŏnbae*), due to personal connections and sentiment (*chŏngsil*), naturally supported Sim. The younger generation (*hubae*) supported Kim. Kim's faction pointed to Ŭigyŏm as someone harming righteousness (*chŏng*), while Sim's faction pointed to Hyowŏn as someone seeking personal revenge. Eventually, the beginnings of partisan division appeared. Kim Hyowŏn's house was located in Kŏnch'ŏndong (乾川洞, near present-day Naksan 落山) in the eastern part of the capital, while Ŭigyŏm's house was in Chŏngnŭngdong (貞陵洞, present-day Chŏngdong 貞洞) in the western part. Therefore, those affiliated with Kim were called Easterners (東人 - *Tongin*), and those affiliated with Sim were called Westerners (西人 - *Sŏin*). The names of the Eastern and Western factions (*Tongsŏ P'ungdang*) originated here. This occurred in the year Ŭrhae (乙亥), the 8th year of King Sŏnjo's reign, and is thus also called the Ŭrhae Division (乙亥分黨). (At that time, Second Censor Hŏ Yŏp 許曄, though a senior figure, endorsed Hyowŏn, becoming a leader of the Easterners. Right State Councilor Pak Sun 朴淳, possessing a clear reputation and high prestige, and also being a senior figure, became a leader of the Westerners.)
+
+**B. Rise and Fall of Various Factions and Their Political Relationships**
+
+From the time of the East-West split in the 8th year of King Sŏnjo's reign until the end of the Yi Dynasty, a period spanning roughly 330 years, the history is truly one of factional strife (*tangjaeng*), and this is no exaggeration. Consequently, the impact on politics, both direct and indirect, was immense, and the course of the strife was also complex and convoluted, making it difficult to describe thoroughly in limited space. However, for convenience, I will divide this into six periods and discuss the general outline.
+
+**1. Period of Easterner Dominance and the Split into Southerners and Northerners**
+
+This period covers roughly 50 years, from the 8th year of King Sŏnjo to the 15th year of King Kwanghaegun (光海君). At the time of the East-West split in Sŏnjo's 8th year, Yulgok Yi I (栗谷 李珥) was serving as Junior Academician and strongly attempted mediation. Failing to see results, he temporarily resigned (*kwan'gwan* - hung up his official's hat). Later, he returned to court, serving in the important positions of Second Censor, Minister of War, and Minister of Personnel. Although he was a mediator of the factional split, his disciples were Westerners, so naturally, the Westerners' influence grew significantly. However, in the 17th year of Sŏnjo's reign, Yulgok died of illness. Succeeding him, Yi Sanhae (李山海) became Minister of Personnel, No Susin (盧守愼) became Chief State Councilor, and Yu Sŏngnyong (柳成龍) became Minister of Rites. These three were all prominent Easterners. Consequently, the Westerners' power gradually diminished, while the Easterners' influence became further consolidated, reaching a position difficult to challenge. <65>
+Later, in the 24th year of Sŏnjo's reign, the Easterners split again into Southern (南) and Northern (北) factions. The reason for this split was essentially the difference in approach – hard-line versus moderate – towards the opposing Westerner faction. The hard-liners became the Northerners, and the moderates became the Southerners. The leader of the hard-liners was Yi Pal (李潑), instigated by Yi Sanhae. The leader of the moderates was U Sŏngjŏn (禹性傳), supported by Yu Sŏngnyong. Since Yi Pal's house was located below Pukaksan mountain (北岳山), his faction was called Northerners (*Pugin*). Since U Sŏngjŏn's house was at the foot of Namsan mountain (南山麓), his faction was called Southerners (*Namin*). This was the origin of the Southern-Northern factional strife. However, during the Imjin War (壬亂), the Southern leader Yu Sŏngnyong held political power for many years. As the nation faced a critical moment of survival, there was little factional strife. But as the war gradually subsided, the embers reignited. The Northerner Nam Igong (南以恭) impeached Sŏae (西厓 - Yu Sŏngnyong's pen name) for advocating peace, leading to his dismissal from office. The Southerners consequently lost power, and the Northerners took control in their place (late Sŏnjo period). However, the Northerners soon experienced internal strife again, splitting into Greater Northerners (*Taebuk*) and Lesser Northerners (*Sobuk*). The Greater Northerners further divided into Chungbuk (中北), Yukpuk (肉北), and Kolbuk (骨北). In the final years of Sŏnjo's reign, the Lesser Northerner leader Yu Yŏnggyŏng (柳永慶) became Chief State Councilor, wielding considerable influence.
+
+**The Strife Between Greater and Lesser Northerners:** The conflict between the Greater and Lesser Northerners serves as a prime example of how partisans treated the so-called ancestral succession (*chojong ŭi myŏnggi* - the succession issue) as a plaything. This revolved around the issue of King Sŏnjo's heir apparent. Initially, Sŏnjo's principal consort, Queen Pak (朴氏), was childless, and no crown prince had been designated. When the Imjin War broke out and Sŏnjo had to flee, he reluctantly appointed his illegitimate son, Prince Kwanghae (光海君), as crown prince. Later, Queen Pak passed away, and Kim Chenam's (金悌男) daughter, Queen Inmok (仁穆大妃), became the successor queen and gave birth to Grand Prince Yŏngch'ang (永昌大君) Ŭi (㦤). The issue of changing the crown prince suddenly arose among the court officials (also related to relations with Ming China, but omitted here). Yu Yŏnggyŏng's Lesser Northerner faction sought to support the Grand Prince, while Yi Ich'ŏm's (李爾瞻) Greater Northerner faction defended Prince Kwanghae, leading to a major dispute. However, Sŏnjo passed away, and Kwanghae ascended the throne, appointing Yi Ich'ŏm. (Previously, Ich'ŏm had forcefully requested the transfer of the throne, was banished, but before reaching his place of exile, Sŏnjo became gravely ill and summoned him back). Ich'ŏm fabricated treason cases (*ŭiok*), killing Yu Yŏnggyŏng, the Queen's father Kim Chenam, his three sons, and one son-in-law. Grand Prince Yŏngch'ang, then only 8 years old, was secretly steamed to death (*yŏlsal*) in Kanghwa Island (江華). The Grand Prince's mother, Queen Dowager Inmok, was deposed and confined to the West Palace (西宮). Additionally, Prince Imhae Chin (臨海君 珒) and Prince Chŏngwŏn Po (定遠君 琈) were also killed. This tragic event stands as a major calamity in the history of Yi Dynasty factional strife. Although the Lesser Northerners opposed the deposition of the Queen Mother, their arguments were inconsistent, leading to further splits into Pure Lesser Northerners (*Ch'ŏngsobuk*) and Turbid Lesser Northerners (*T'aksobuk*), suffering a complete defeat at the hands of the Greater Northerners. This entire reign of Kwanghaegun can be considered the era of the Greater Northerners.
+
+**2. Period of the Greater Northerners' Annihilation and the Westerner-Southerner Conflict**
+
+The roughly 50 years from the first year of King Injo (仁祖) to the 15th year of King Hyŏnjong (顯宗) can be called the period of the annihilation <66> of the Greater Northerners and the conflict between Westerners and Southerners. In the 3rd month of the 15th year of Kwanghae's reign, Westerners Yi Kwi (李貴), Kim Chadŏm (金自點), Kim Ryu (金瑬), Yi Kwal (李适), and others raised the flag of a coup (*panjŏng*), deposed Kwanghaegun, and enthroned Injo. Simultaneously, they restored the titles of Grand Prince Yŏngch'ang, Prince Imhae, and Kim Chenam. They executed Yi Ich'ŏm, Chŏng Inhong (鄭仁弘), and dozens of other Greater Northerner partisans, and banished several hundred more from their faction. This period marks the annihilation of the Greater Northerners. However, among the Westerners who eradicated the Greater Northerners and seized power, Yi Kwi, Kim Ryu, and others, having contributed meritorious service, were called Meritorious Westerners (*Kong Sŏ* 功西 or *Hun Sŏ* 勳西), while Kim Sanghŏn (金尙憲), being part of the out-of-power group (*chaeya tang*), was called Pure Westerner (*Ch'ŏng Sŏ* 淸西), leading to another split. This, like the earlier Southern-Northern split, was essentially due to differences (hard-line vs. moderate) towards the opposing party. Furthermore, even within the ruling Meritorious Westerners, there were Old Westerner (*No Sŏ*) and Young Westerner (*So Sŏ*) factions. The Old Westerners sought to maintain compromise with the Southerners (moderate faction led by Kim Ryu, etc.), while the Young Westerners opposed this (hard-line faction led by Yi Kwi, etc.). Later, towards the end of Injo's reign, further divisions occurred: the Meritorious Westerners split into the Original Party (*Wŏndang*) and the Nak Party (*Naktang*, Kim Chadŏm's faction), while the Pure Westerners split into the Mountain Party (*Sandang*) and the Han Party (*Handang*). Among these, the Mountain Party centered around Kim Chip (金集, courtesy name Sindokchae 愼獨齋), son of the scholar Kim Changsaeng (金長生, courtesy name Sagye 沙溪) from Yŏnsan (連山) in Ch'ungch'ŏngnam-do, encompassing the *sarim* of Yŏnsan and Hoedŏk (懷德). Sagye's disciples Song Chun'gil (宋浚吉) and Song Siyŏl (宋時烈) also joined the Mountain Party. Thus, although the Westerners experienced numerous splits, during Injo's reign, the Meritorious Westerner faction held sway (*u'i rŭl chiphada* - held the bull's ear, i.e., dominated). Then, during the reign of King Hyojong (孝宗), Kim Chadŏm of the Nak Party was executed. As Song Siyŏl, proponent of the Northern Expedition theory (*pukpŏllon*), became Left State Councilor and Song Chun'gil became Minister of Personnel, the influence of the Mountain Party also grew considerably.
+
+**The Conflict Between Southerners and Westerners:** However, one point must be made here regarding the position of the Southerners. After Yu Sŏngnyong, the Southerners failed to hold political power. Following the Injo Restoration (*Injo Panjŏng*), Yi Wŏnik (李元翼), courtesy name Ori (梧里), became the first Southern Chief State Councilor, and one or two other Southerners held key positions, allowing them merely to retain latent influence. But during King Hyŏnjong's reign, the disputes between Westerners and Southerners became highly noteworthy. First, early in Hyŏnjong's reign, regarding the mourning period for King Hyojong to be observed by Queen Dowager Chaŭi (慈懿大妃, King Injo's second queen, Lady Cho 趙氏), Song Siyŏl and others advocated the one-year theory (*kinyŏnsŏl*), while Southerners Yun Hyu (尹鑴, courtesy name Paekho 白湖) and Hŏ Mok (許穆, courtesy name Misu 眉叟) advocated the three-year theory. Second, towards the end of Hyŏnjong's reign, regarding the mourning period for Queen Insŏn (仁宣大妃, King Hyojong's queen consort, Lady Chang 張氏), who had passed away, Song argued for the *taegong* period (9 months), while Yun argued for the one-year period (*kinyŏnsŏl*). As the dispute between these two views intensified, Hyŏnjong adopted Yun's theory. Consequently, the Westerners' influence diminished, and the Southerners' influence rose. By the end of Hyŏnjong's reign, the Southerner Hŏ Chŏk (許積) became Chief State Councilor. Subsequently, early in King Sukchong's (肅宗) reign, Southerners Kwŏn Taeun (權大運) and Hŏ Mok became Left and Right State Councilors, respectively. Their power grew increasingly stronger, leading to major attacks on Song Siyŏl. As a result, Song Siyŏl, who once wielded imposing influence, was stripped of his rank and title and fell into the tragic fate of being banished to Changgi County (長鬐郡). <67> Also at this time, within the Southern faction, based on their hard-line or moderate stance towards the Westerners, the Pure Southerners (*Ch'ŏngnam*, led by Hŏ Chŏk) and Turbid Southerners (*T'angnam*, led by Kwŏn Taeun) factions emerged.
+As described above, the rise and fall of factions fluctuated considerably, creating a rather complex situation. However, in summary, during the roughly one hundred years from the factional split in Sŏnjo's 8th year to the end of Hyŏnjong's reign, the Easterners held sway for the first 50 years, and the Westerners dominated for the latter 50 years.
+
+**3. Period of Southern Loss of Power and the Old Doctrine-New Doctrine Conflict**
+
+This period of factional strife covers about 20 years, from the first year of King Sukchong's reign to his 20th year. Initially, the Southern leader Hŏ Chŏk, having received King Hyŏnjong's deathbed instructions, assisted the young King Sukchong. At the time, Sukchong was only 14 years old, frequently ill, and there were many members of the royal clan plotting rebellion. Hŏ Chŏk's son, Hŏ Kyŏn (許堅), colluded with these elements and plotted a coup (conspiring with Prince Pokch'ang Chŏng 福昌君 楨 and Prince Poksŏn Mae 福善君 柟, sons of Prince Inp'yŏng 麟坪大君). This plot was exposed by Minister of War Kim Sŏkchu (金錫胄). Consequently, Hŏ Chŏk, his son, Yun Hyu (尹鐫 - likely a typo for 尹鑴, Yun Hyu), and dozens of others were executed, and over a hundred Southerners were ousted. This is the Kŏngsin Purge (庚申大獄) of Sukchong's 6th year. After the Southerners were thus decimated, Kim Sŏkchu and Kim Ikhun (金益勳, grandson of Kim Changsaeng) had their contributions recorded. Ikhun became Commander of the Royal Guard (*Ŏyŏng Taejang*), Kim Suhang (金壽恒) became Chief State Councilor, Min Chŏngjung (閔鼎重) became Left State Councilor, and Kim Sŏkchu became Right State Councilor. Furthermore, Song Siyŏl was recalled and entered the court, his reputation overwhelming the era, leading to a great resurgence of Westerner power.
+However, among the younger and more vigorous Westerners, many opposed Kim Sŏkchu's actions, eventually leading to another split into Old Doctrine (*Noron*) and New Doctrine (*Soron*) factions. Those supporting Kim Sŏkchu and Kim Ikhun were the Noron, while the faction opposing them, led by Han T'aedoŋ (韓泰東) and Cho Chigyŏm (趙持謙), was the so-called Soron. In Sukchong's 9th year, a dispute over ritual issues (*yeron*) arose again between Song Siyŏl and Yun Chŭng (尹拯, courtesy name Myŏngjae 明齋) and Pak Sech'ae (朴世采). Song sided with the Noron, and Yun sided with the Soron, leading to the famous Hoeni Conflict (懷尼戰 - named after Hoedŏk 懷德 and Nisan 尼山, also known as Nosŏng 魯城), after which the conflict between Noron and Soron became increasingly fierce. (In Sukchong's 9th year, Song Siyŏl proposed issues related to King Hyojong's study and the conferral of a posthumous title for King T'aejo on the nearly 200th anniversary of his turning back from Wihwa Island. Yun Chŭng opposed this, triggering the intense Noron-Soron dispute.) Later, in Sukchong's 15th year, a major clash occurred between Southerners and Westerners over the issue of appointing the crown prince. Southerners Mok Naesŏn (睦來善), Kim Tŏgwŏn (金德遠), Min Am (閔黯), and others gained key positions (Kim and Mok became Left and Right State Councilors). The Westerner Song Siyŏl, due to memorials submitted by Southerners Yi Hyŏn'gi (李玄紀), Nam Ch'ihun (南致薰), and Yun Pin (尹彬), was banished to Cheju Island (濟州) at the old age of 83, then moved to Chŏngŭp (井邑) and forced to commit suicide by poison. O Toil (吳道一), Hong Ch'ihyang (洪致祥), Kim Ikhun, and others were either dismissed or banished, and Kim Suhang was also forced to commit suicide. This is the so-called Kisa Hwan'guk (己巳換局 - Political Turnover of 1689). (Initially, Sukchong's principal queen, Queen Min 閔氏, had no heir, while Royal Concubine Chang 張氏 gave birth to Prince Kyun 均. Sukchong intended to depose Queen Min and install Prince Kyun as crown prince. The Westerner Song Siyŏl opposed this, while Southerners Mok Naesŏn and others supported it, <68> leading to another dispute.) However, in the 4th month of Sukchong's 20th year, the king again regretted his previous actions and began to distance himself from the Southerners. The Westerners seized this opportunity, ousted the Southerners holding office, and Nam Kuman (南九萬) became Chief State Councilor, restoring the Westerner cabinet once again. Song Siyŏl's title was also restored.
+
+**4. Period of Major Noron-Soron Conflict**
+
+After the Southerners lost power in Sukchong's 20th year and political authority returned to the Westerners (error in original, likely meant returned *from* the Southerners *to* the Westerners, specifically the Noron/Soron factions), the situation changed again, becoming a battle between the Noron and Soron factions. The roughly 30 years from Sukchong's 20th year to the 4th year of King Kyŏngjong's (景宗) reign can be called the peak period of Noron-Soron conflict. King Kyŏngjong was sickly, had no hope of producing an heir, and was unable to govern effectively. In the 8th month of his first year, the Noron faction submitted a memorial requesting that the king's younger brother (世弟 - later King Yŏngjo 英宗) act as regent (*taeri ch'ŏngjŏng*). Chief State Councilor Kim Ch'angjip (金昌集), Chief of the Royal Secretariat Yi Imyŏng (李頤命), Head of the Royal Secretariat Cho T'aech'ae (趙泰采), and Yi Kŏnmyŏng (李健命) (the so-called Four Noron Ministers - 老論四大臣), all major Noron leaders, supported this. However, due to fierce opposition from Cho T'aegu (趙泰耈) and other Soron members, the Noron faction was defeated. The Four Ministers and others of their faction were all banished, and Cho T'aegu's Soron faction gained power. T'aegu became Chief State Councilor, and Ch'oe Kyusŏ (崔奎瑞) and Ch'oe Sŏkhaeng (崔錫恒 - likely typo, should be 崔錫) became Left and Right State Councilors, turning the political landscape into a Soron domain once again. However, radical elements within the Soron, such as Kim Ilgyŏng (金一鏡, Royal Secretary 承旨) and his followers, conspired with eunuchs Pak Sang'gŏm (朴尚儉) and Mun Yudo (文有道), and palace maids Sŏngnyŏl (石烈) and P'iljŏng (必貞), intending to harm the Crown Prince (東宮 - referring to the future King Yŏngjo). The plot was discovered, and Pak, Mun, and others were executed. The following year, Kim Ilgyŏng conspired again with Mok Horyong (睦虎龍), falsely accusing the Noron faction of plotting against the Crown Prince. As a result, Kim Ch'angjip and the other three ministers, along with dozens more, were executed. Paengman (白望), Chŏng Injŭng (鄭麟重), Kim Yongt'aek (金龍澤), Yi Ch'ŏn'gi (李天紀), and others were also implicated. This is the so-called Sinim Treason Case (辛壬誣獄). (It spanned the years Sinch'uk 辛丑 and Imin 壬寅, hence *Sinim*; sometimes also called the Imin Treason Incident 壬寅獄事.)
+
+**5. Period of Noron Reappointment and Implementation of Harmony Policy**
+
+The roughly 180 years (error in original calculation, should be closer to 76 years) from the first year of King Yŏngjo (英宗) to the 24th year of King Chŏngjo (正祖) is the period of the implementation of the so-called Noron-Soron Harmony Policy (*t'angp'yŏng* 蕩平). As is widely known, Yŏngjo and Chŏngjo were wise rulers (*yŏngju*) of the late Yi Dynasty. Early in his reign, Yŏngjo issued an edict on *t'angp'yŏng* (impartiality), showing it to officials inside and outside the capital and the common people, lamenting deeply the evils of factional strife, and adopting a policy of Noron-Soron harmony. Early in his reign, the Soron faction held key positions. However, when the truth of the Imin Treason Case was revealed, Kim Ilgyŏng, Mok Horyong, and others were executed, and Yu Ponghwi (柳鳳輝), Yi Kwangjwa (李光佐), Cho T'aeŏk (趙泰億), and other Soron members were banished. The positions of those implicated in the Imin injustice were restored. Furthermore, the rebellion led by Yi Injwa (李麟佐), a remnant of Kim Ilgyŏng's faction, was suppressed. For a time, the presence of the Soron faction vanished from the court, and the Noron were reappointed. However, Yŏngjo, wishing to implement the harmony policy, <69> knew it was unacceptable to entrust political power permanently to one faction. Therefore, while appointing the Noron Hong Ch'ijung (洪致中) as Chief State Councilor, he simultaneously appointed the Soron Cho Munmyŏng (趙文命) as Right State Councilor. He abolished the regulations concerning the *Chŏllang* position, which had been a source of factional strife for 300 years. He also had the Noron Song Siyŏl and the Soron Pak Sech'ae enshrined together in the National Confucian Shrine (文廟). This too was a realization of the *t'angp'yŏng* policy. Following him, King Chŏngjo also inscribed "Tangtang P'yŏngp'yŏngsil" (蕩蕩平平室 - Room of Broad Impartiality) in his palace chamber and constantly strove for the *t'angp'yŏng* policy. Consequently, the intense factional strife of previous days gradually subsided.
+
+**6. Period of Noron Ascendancy and Factional Abolition**
+
+After Yŏngjo and Chŏngjo, factional strife generally eased, but the Noron faction's influence remained strong. During the reigns of Sunjo (純), Hŏnjong (憲), and Ch'ŏlchong (哲), royal relatives by marriage belonging to the Noron faction controlled political power. Although the horrific tragedies of the past were not repeated, other factions were excluded from state affairs. Until the early years of King Kojong (李太王 - referring to Emperor Kojong), it felt very much like a Noron world. Then, after the Taewŏn'gun (大院君) became regent, he took bold measures, broke down the Four Factions (*sasaek*), appointed officials impartially, and also began employing people from outside the traditional factions. Thus, the factional strife that had lasted hundreds of years finally came to an end. However, it is true that the Noron remained influential even up to the time of annexation (合倂). This can also be seen from the fact that among the so-called 76 nobles (貴族) created [at the time of annexation], only 7 were Soron and 1 was Pugin, with almost all the rest being Noron.
+
+**C. Social Impact of Factional Strife**
+
+The detrimental political effects of factional strife in each period are as described above, but the impact on society was also immense. Briefly discussing these:
+1.  **Impact on General Public Sentiment:** Factional strife naturally had a negative impact on the general populace. Among the notable effects: First, it caused mutual alienation among various social classes, nurturing the lack of unity (*tanhap sim*) seen among Koreans today. Second, due to the intense focus on defending one's own faction, standards for judging a person's goodness or wickedness, loyalty or treachery, were lost. Third, it destroyed ethical relationships (*yun sang*) (e.g., brothers or uncles and nephews belonging to different factions).
+2.  **Impact on Scholarship:** Factional strife ultimately resulted in the victory of the Noron/Soron over other factions. Among these, the Noron always held greater power than the Soron. Regardless of scholarly attainment or personal character, obtaining prominent positions was as easy as picking up mustard seeds for them. However, the Southerners and Northerners, once ousted, had no further influence in the political world. Naturally, they turned their attention elsewhere. Notably, many Southerners devoted themselves not only to poetry, prose, and calligraphy but also to research in politics and economics. This led to famous works such as Yu Hyŏngwŏn's (柳馨遠) *Pan'gye Surok* (磻溪隨錄), Yi Ik's (李瀷) *Sŏngho Saesŏl* (星湖僿說), Chŏng Yagyong's (丁若鏞) *Mongmin Simsŏ* (牧民心書), Yi Chunghwan's (李重煥) *P'aryokchi* (八域志), and other scholarly masterpieces. Furthermore, the emergence of liberal writers and scholars <70> resulted in the free study of Buddhism and Daoism, which were officially rejected at the time. It is particularly noteworthy that Catholicism (*Ch'ŏnjugyo*) was introduced through the hands of Southerners, and Tonghak (東學 - Eastern Learning), which newly arose in Chosŏn, originated from this Southern lineage. This can ultimately be attributed to the fact that Confucian studies became almost entirely a Noron monopoly, and the path to officialdom was virtually closed to those outside the Noron faction.
+3.  **Impact on Marriage:** It was customary even among *yangban* (aristocrats) not to marry outside their own faction (*tongsaek*). If one unavoidably married into a different faction (*isaek*), it was regarded similarly to a marriage between *yangban* and commoners (*pan-sang*) or between legitimate and illegitimate offspring (*chŏk-sŏ*). People would comment, "So-and-so family has married down (*nakhon*)" or "lost their factional color (*silsaek*)," leading to mutual ostracism. This custom still persists today, and among the elderly, there is often a tendency to reject marriages between different factions.
+
+**D. Characteristics and Regional Distribution of Each Faction**
+
+According to the *Tongso Mallok* (桐巢漫錄) written by the Southerner Nam Hajŏng (南夏正), the Four Factions (*sasaek*) each had distinct characteristics. That is, the Noron tended towards rigidity and severity (*kangnye*), the Soron lacked sincerity (*chinsil*), the Lesser Northerners (小北) favored ostentation (*saekt'ae*), and the Easterners (referring to Southerners) were gentle and virtuous (*yusŏn*) but perhaps somewhat like <?> (*함과 如하나 - unclear character/word*), yet did not lose the fundamental character of Eastern scholars. Whether this is accurate is unknown, but because the Four Factions differed in etiquette, marriage customs, and other aspects of life, it is true that their language, behavior, and personalities would also differ. Moreover, until the Kabo Reforms (甲午) [1894], the factions had distinct regional bases. The capital, Kyŏngsŏng (京城), naturally had all four factions gathered. Kyŏngsang Province (慶尙道), being the cradle of the *sarim* and home to Yu Sŏae (成龍 - Yu Sŏngnyong), a Southern giant who followed Yi T'oegye (李退溪) as his master, was centered around Andong (安東) and Yean (禮安). Thus, the entire Kyŏngsang region felt somewhat like Southern territory. In Ch'ungch'ŏng Province (忠淸道), the Westerner Kim Changsaeng (金長生), a disciple of Yulgok, was in Yŏnsan (連山), and his scholarly successors Song Siyŏl (宋時烈) and Song Chun'gil (宋浚吉) were in Hoedŏk (懷德). Therefore, the Yŏnsan, Hoedŏk, and Taejŏn (太田) area had many Westerners among their descendants and followers. Nonsan (論山, formerly Nosŏng 魯城) was the hometown of Myŏngjae Yun Chŭng (尹明齋), so there were many Soron in the vicinity. Kyŏnggi (京畿) and Kangwŏn (江原) provinces had a mix of Noron, Soron, and Namin residents. In Hwanghae Province (黃海道), the Haeju (海州) area had some Westerners, descendants of Yi Yulgok and his followers. As for Hamgyŏng (咸) and P'yŏngan (平) provinces, there were few *yangban* in the past, so the Four Factions were not particularly distinct there. Chŏlla Province (全羅道) produced few high officials after the middle Yi Dynasty, and had few scholar-official families, so apart from a few Westerner families like those of Chŏng Songgang (鄭松江), Kim Hasŏ (金河西), and Ki Kobong (奇高峰), there were no particularly notable households. (This references the *P'alsŏngji* 八城志 - likely P'aryokchi 八域志 - written by the Southerner Yi Chunghwan). <71>
+**Faction Chart**
+<72>
+<55-72>
+
+**Summary**
+
+This 1926 article by "Ch'ŏngo" provides a detailed historical overview of scholar purges (*sahwa*) and factional strife (*tangjaeng*) during Korea's Chosŏn Dynasty. It argues that this internal conflict, spanning roughly 300 years, dominated Chosŏn politics and society, influencing everything from appointments and royal power to culture and personal relationships. The author outlines the four major scholar purges (Muo, Kapcha, Kimyo, Ŭlsa) and traces the evolution of factionalism from the initial East-West split through the Southern-Northern division, the Greater/Lesser Northern conflicts, and the protracted Noron-Soron rivalry, noting periods of dominance and key events like the Kisa Hwan'guk and Sinim Treason Case. The article concludes by discussing the negative social impacts (disunity, blurred ethics, marriage restrictions, skewed scholarly development) and the regional distribution of the major factions, lamenting the strife as a primary cause of national decline. For historians of colonial Korea, the article is interesting because it explicitly frames historical factionalism as a root cause of national weakness and eventual ruin ("敗族亡國"). Written under Japanese rule, this reflects a common nationalist discourse of the time, using history to diagnose past failures and implicitly call for unity in the present colonial context. The author's lament about discussing remedies after the "funeral" (loss of sovereignty) powerfully conveys this sentiment.
+
+**Named Entities**
+
+寧齋 李建昌	영재 이건창	Ningjae Yi Kŏnch'ang
+黨議通略	당의통략	Tangŭi T'ongnyak
+東漢	동한	Eastern Han
+唐	당	Tang
+宋	송	Song
+朝鮮	조선	Chosŏn
+李朝	이조	Yi Dynasty
+宣朝大王	선조대왕	King Sŏnjo
+義州	의주	Ŭiju
+鴨水	압수	Yalu River (Amnok River)
+壬亂	임란	Imjin War (Japanese Invasions of 1592-1598)
+南北人	남북인	Southerners and Northerners
+大小北	대소북	Greater and Lesser Northerners
+西南人	서남인	Westerners and Southerners
+仁祖	인조	King Injo
+丙子	병자	Pyŏngja year (1636)
+淸寇	청구	Qing invaders
+士林	사림	Sarim (Scholar-officials/Literati)
+麗朝末葉	여조말엽	End of the Koryŏ Dynasty
+安文成公裕	안문성공 유	An Mun Sŏnggong Yu
+李齊賢	이제현	Yi Chehyŏn
+李穡	이색	Yi Saek
+鄭夢周	정몽주	Chŏng Mongju
+吉再	길재	Kil Chae
+冶隱	야은	Yaŭn (Kil Chae's courtesy name)
+程朱學	정주학	Cheng-Zhu School (Neo-Confucianism)
+慶北 善山	경북 선산	Sŏnsan, Kyŏngsangbuk-do
+金烏山	금오산	Kŭmosan
+金叔滋	김숙자	Kim Sukcha
+佔畢齋 金宗直	점필재 김종직	Chŏmp'ilchae Kim Chongjik
+鄭汝昌	정여창	Chŏng Yŏch'ang
+金宏弼	김굉필	Kim Koengp'il
+燕山	연산	Yŏnsan-gun
+燕山君	연산군	Yŏnsan-gun
+明宗	명종	Myŏngjong
+端宗	단종	Tanjong
+戊午	무오	Muo year (1498)
+柳規	유규	Yu Kyu
+柳子光	유자광	Yu Chagwang
+世祖	세조	Sejo
+睿宗	예종	Yejong
+南怡	남이	Nami
+宜山尉 南輝	의산위 남휘	Prince Consort Ŭisan Nam Hwi
+太宗	태종	T'aejong
+咸陽郡	함양군	Hamyang County
+廣陽君 李克墩	광양군 이극돈	Yi Kŭkton, Prince Kwangyang
+金馹孫	김일손	Kim Ilson
+全羅監司	전라감사	Governor of Chŏlla Province
+成俊	성준	Sŏng Chun
+成宗實錄	성종실록	Veritable Records of King Sŏngjong
+吊義帝文	조의제문	Lament for Emperor Yi
+廬思愼	노사신	No Sachin
+宣城府院君	선성부원군	Prince Consort Sŏngsŏng
+坡平府院君 尹弼商	파평부원군 윤필상	Yun P'ilsang, Prince P'ap'yŏng
+權景裕	권경유	Kwŏn Kyŏngyu
+權五福	권오복	Kwŏn Obok
+李穆	이목	Yi Mok
+許磐	허반	Hŏ Pan
+姜謙	강겸	Kang Kyŏm
+表沿洙	표연수	P'yo Yŏnsu
+洪翰	홍한	Hong Han
+姜景叙	강경서	Kang Kyŏngsŏ
+李守恭	이수공	Yi Sukong
+鄭希良	정희량	Chŏng Hŭiryang
+鄭承祖	정승조	Chŏng Sŭngjo
+李宗準	이종준	Yi Chongjun
+崔溥	최부	Ch'oe Pu
+李*	이*	Yi * (name incomplete)
+曹偉	조위	Cho Wi
+朴漢柱	박한주	Pak Hanju
+任熙載	임희재	Im Hŭijae
+康伯珍	강백진	Kang Paekchin
+柳廷秀	유정수	Yu Chŏngsu
+李繼孟	이계맹	Yi Kyemaeng
+姜渾	강혼	Kang Hon
+甲子	갑자	Kapcha year (1504)
+尹妣	윤비	Queen Yun
+成宗	성종	Sŏngjong
+權達手	권달수	Kwŏn Talsu
+李荇	이행	Yi Haeng
+李克均	이극균	Yi Kŭkkyun
+李世佐	이세좌	Yi Sejwa
+權柱	권주	Kwŏn Chu
+李胃	이위	Yi Wi
+韓致亨	한치형	Han Ch'ihyŏng
+韓明澮	한명회	Han Myŏnghoe
+鄭昌孫	정창손	Chŏng Ch'angson
+魚世謙	어세겸	Ŏ Sech'ŏm
+沈澮	심회	Sim Hoe
+李坡	이파	Yi P'a
+南孝溫	남효온	Nam Hyoon
+己卯	기묘	Kimyo year (1519)
+中宗	중종	Chungjong
+趙光祖	조광조	Cho Kwangjo
+靜菴	정암	Chŏngam (Cho Kwangjo's courtesy name)
+愼氏	신씨	Lady Sin
+愼守勤	신수근	Sin Sukŭn
+朴元宗	박원종	Pak Wŏnjong
+柳洵	유순	Yu Sun
+金壽童	김수동	Kim Sudoŋ
+坡原府院君 尹汝弼	파원부원군 윤여필	Yun Yŏp'il, Prince P'awŏn
+章敬王后	장경왕후	Queen Changgyŏng
+仁宗	인종	Injong
+淳昌郡守 金淨	순창군수 김정	Kim Chŏng, Magistrate of Sunch'ang County
+潭陽府使 朴祥	담양부사 박상	Pak Sang, Magistrate of Tamyang Prefecture
+權敏手	권민수	Kwŏn Minsu
+大司諫 李荇	대사간 이행	Second Censor Yi Haeng
+左議政 鄭光弼	좌의정 정광필	Left State Councilor Chŏng Kwangp'il
+趙光祖	조광조	Cho Kwangjo
+李長坤	이장곤	Yi Changgon
+金安國	김안국	Kim An'guk
+柳博	유박	Yu Pak
+金希壽	김희수	Kim Hŭisu
+金安老	김안로	Kim Allo
+賢良科	현량과	Hyŏllyanggwa (Examination for the Wise and Good)
+金湜	김식	Kim Sik
+安處恭	안처공	An Ch'ŏgon
+朴薰	박훈	Pak Hun
+李耔	이자	Yi Cha
+金絿	김구	Kim Ku
+南袞	남곤	Nam Kon
+高荊山	고형산	Ko Hyŏngsan
+李成童	이성동	Yi Sŏngdoŋ
+靖國功臣	정국공臣	Merit Subjects of 1506 Coup
+丙寅	병인	Pyŏngin year (1506)
+洪景舟	홍경주	Hong Kyŏngju
+南陽君	남양군	Prince Namyang
+金銓	김전	Kim Chŏn
+沈貞	심정	Sim Chŏng
+成雲	성운	Sŏng Un
+神武門	신무문	Sinmumun Gate
+安塘	안당	An Tang
+洪熙*양	홍희*양	Hong Hŭi*yang (name unclear)
+走肖爲王	주초위왕	Chu Ch'o wi wang (Characters implying Cho clan will become king)
+光化門	광화문	Kwanghwamun Gate
+全南 綾州	전남 능주	Nŭngju, Chŏllanam-do
+尹自任	윤자임	Yun Chaim
+朴世熹	박세희	Pak Sehŭi
+奇遵	기준	Ki Chun
+韓忠	한충	Han Ch'ung
+具壽福	구수복	Ku Subok
+金世弼	김세필	Kim Sep'il
+柳雲	유운	Yu Un
+柳庸謹	유용근	Yu Yonggŭn
+崔淑生	최숙생	Ch'oe Suksŏng
+申鏛	신광	Sin Kwang
+乙巳	을사	Ŭlsa year (1545)
+端敬王后愼氏	단경왕후 신씨	Queen Tangyŏng Sin
+文定王后尹氏	문정왕후 윤씨	Queen Munjŏng Yun
+慶原大君	경원대군	Prince Kyŏngwŏn (later King Myŏngjong)
+尹任	윤임	Yun Im
+尹元衡	윤원형	Yun Wŏnhyŏng
+元老	원로	Wŏllo (Yun Wŏnhyŏng's brother)
+大尹	대윤	Tae Yun (Greater Yun faction)
+小尹	소윤	So Yun (Lesser Yun faction)
+柳灌	유관	Yu Kwan
+李彦迪	이언적	Yi Ŏnjŏk
+柳仁淑	유인숙	Yu Insuk
+桂林君 瑠	계림군 유	Prince Kyerim Yu
+桂城君 恂	계성군 순	Prince Kyesŏng Sun
+鳳城君 岏	봉성군 완	Prince Pongsŏng Wan
+尹仁鏡	윤인경	Yun Ingyŏng
+海南	해남	Haenam
+禮參	예참	Vice Minister of Rites
+鄭順明	정순명	Chŏng Sunmyŏng
+李芭	이바	Yi Ki
+林百齡	임백령	Im Paengnyŏng
+許磁	허자	Hŏ Cha
+鄭順朋	정순붕	Chŏng Sunbung (likely same as Chŏng Sunmyŏng)
+京伯 金明胤	경백 김명윤	Kyŏngsang Governor Kim Myŏngyun
+鄭彦慤	정언각	Chŏng Ŏn'gak
+全羅道 良才驛	전라도 양재역	Yangjae Station, Chŏlla Province
+宋麟壽	송인수	Song Insu
+李若水	이약수	Yi Yaksu
+權撥	권발	Kwŏn Pal
+白仁傑	백인걸	Paek In'gŏl
+鄭希登	정희등	Chŏng Hŭidŭng
+朴光佑	박광우	Pak Kwang'u
+宋希奎	송희규	Song Hŭigyu
+柳希春	유희춘	Yu Hŭich'un
+盧守愼	노수신	No Susin
+朴齊炯	박제형	Pak Chehyŏng
+朝鮮政鑑	조선정감	Chosŏn Chŏnggam
+李建昌	이건창	Yi Kŏnch'ang
+黨議通畧	당의통략	Tangŭi T'ongnyak
+幣原坦	폐원탄	Shidehara Taira
+韓國政爭志	한국정쟁지	Kankoku Seisōshi (History of Korean Political Strife)
+沈義謙	심의겸	Sim Ŭigyŏm
+金孝元	김효원	Kim Hyowŏn
+吏曹	이조	Ministry of Personnel
+司憲府	사헌부	Office of the Inspector General
+司諫院	사간원	Office of the Censor General
+弘文館	홍문관	Office of Special Advisors
+議政府	의정부	State Council
+備邊司	비변사	Border Defense Council (Pibyŏnsa)
+備局	비국	Piguk (alt. name for Pibyŏnsa)
+籌局	주국	Chuguk (alt. name for Pibyŏnsa)
+東皐 李浚慶	동고 이준경	Yi Chun'gyŏng (courtesy name Tonggo)
+栗谷 李珥	율곡 이이	Yi I (courtesy name Yulgok)
+良庵	양암	Yangam (Sim Ŭigyŏm's courtesy name)
+靑松府院君 沈銅	청송부원군 심동	Sim Tong, Prince Consort Ch'ŏngsong
+李樑	이량	Yi Ryang
+奇大恒	기대항	Ki Taehŭng
+省庵	성암	Sŏngam (Kim Hyowŏn's courtesy name)
+金謹恭	김근공	Kim Kŭngong
+鄭允謙	정윤겸	Chŏng Yungyŏm
+吳健	오건	O Kŏn
+忠謙	충겸	Ch'ungyŏm (Sim Ŭigyŏm's brother)
+乾川洞	건천동	Kŏnch'ŏndong
+駱山	낙산	Naksan
+貞陵洞	정릉동	Chŏngnŭngdong
+貞洞	정동	Chŏngdong
+東人	동인	Tongin (Easterners)
+西人	서인	Sŏin (Westerners)
+乙亥	을해	Ŭrhae year (1575)
+許曄	허엽	Hŏ Yŏp
+朴淳	박순	Pak Sun
+光海君	광해군	Kwanghaegun
+李山海	이산해	Yi Sanhae
+柳成龍	유성룡	Yu Sŏngnyong
+李潑	이발	Yi Pal
+禹性傳	우성전	U Sŏngjŏn
+北岳山	북악산	Pukaksan
+南山麓	남산록	Foot of Namsan Mountain
+南人	남인	Namin (Southerners)
+北人	북인	Pugin (Northerners)
+南以恭	남이공	Nam Igong
+西厓	서애	Sŏae (Yu Sŏngnyong's pen name)
+大北	대북	Taebuk (Greater Northerners)
+小北	소북	Sobuk (Lesser Northerners)
+中北	중북	Chungbuk (Middle Northerners)
+肉北	육북	Yukpuk (Flesh Northerners)
+骨北	골북	Kolbuk (Bone Northerners)
+柳永慶	유영경	Yu Yŏnggyŏng
+朴氏	박씨	Lady Pak (Queen Uiin)
+金悌男	김제남	Kim Chenam
+仁穆大妃	인목대비	Queen Dowager Inmok
+永昌大君 㦤	영창대군 의	Grand Prince Yŏngch'ang Ŭi
+李爾瞻	이이첨	Yi Ich'ŏm
+江華	강화	Kanghwa Island
+臨海君 珒	임해군 진	Prince Imhae Chin
+定遠君 琈	정원군 보	Prince Chŏngwŏn Po
+淸小北	청소북	Ch'ŏngsobuk (Pure Lesser Northerners)
+濁小北	탁소북	T'aksobuk (Turbid Lesser Northerners)
+顯宗	현종	Hyŏnjong
+李貴	이귀	Yi Kwi
+金自點	김자점	Kim Chadŏm
+金瑬	김류	Kim Ryu
+李适	이괄	Yi Kwal
+鄭仁弘	정인홍	Chŏng Inhong
+功西	공서	Kong Sŏ (Meritorious Westerners)
+勳西	훈서	Hun Sŏ (Meritorious Westerners)
+金尙憲	김상헌	Kim Sanghŏn
+淸西	청서	Ch'ŏng Sŏ (Pure Westerners)
+老西	노서	No Sŏ (Old Westerners)
+少西	소서	So Sŏ (Young Westerners)
+原黨	원당	Wŏndang (Original Party)
+洛黨	낙당	Naktang (Nak Party, Kim Chadŏm's faction)
+山黨	산당	Sandang (Mountain Party)
+漢黨	한당	Handang (Han Party)
+忠南 連山	충남 연산	Yŏnsan, Ch'ungch'ŏngnam-do
+金長生	김장생	Kim Changsaeng
+沙溪	사계	Sagye (Kim Changsaeng's courtesy name)
+金集	김집	Kim Chip
+愼獨齋	신독재	Sindokchae (Kim Chip's courtesy name)
+懷德	회덕	Hoedŏk
+宋浚吉	송준길	Song Chun'gil
+宋時烈	송시열	Song Siyŏl
+孝宗	효종	Hyojong
+李元翼	이원익	Yi Wŏnik
+梧里	오리	Ori (Yi Wŏnik's courtesy name)
+慈懿大妃	자의대비	Queen Dowager Chaŭi
+趙氏	조씨	Lady Cho
+尹鑴	윤휴	Yun Hyu
+白湖	백호	Paekho (Yun Hyu's courtesy name)
+許穆	허목	Hŏ Mok
+眉叟	미수	Misu (Hŏ Mok's courtesy name)
+仁宣大妃	인선대비	Queen Insŏn
+張氏	장씨	Lady Chang
+許積	허적	Hŏ Chŏk
+肅宗	숙종	Sukchong
+權大運	권대운	Kwŏn Taeun
+長鬐郡	장기군	Changgi County
+淸南	청남	Ch'ŏngnam (Pure Southerners)
+濁南	탁남	T'angnam (Turbid Southerners)
+許堅	허견	Hŏ Kyŏn
+麟坪大君	인평대군	Prince Inp'yŏng
+福昌君 楨	복창군 정	Prince Pokch'ang Chŏng
+福善君 柟	복선군 남	Prince Poksŏn Nam
+金錫胄	김석주	Kim Sŏkchu
+金益勳	김익훈	Kim Ikhun
+金壽恒	김수항	Kim Suhang
+閔鼎重	민정중	Min Chŏngjung
+老論	노론	Noron (Old Doctrine)
+少論	소론	Soron (New Doctrine)
+韓泰東	한태동	Han T'aedoŋ
+趙持謙	조지겸	Cho Chigyŏm
+尹拯	윤증	Yun Chŭng
+明齋	명재	Myŏngjae (Yun Chŭng's courtesy name)
+朴世采	박세채	Pak Sech'ae
+懷尼	회니	Hoeni (Hoedŏk and Nisan)
+尼山	니산	Nisan (also Nosŏng)
+魯城	노성	Nosŏng (also Nisan)
+太祖	태조	T'aejo
+威化島	위화도	Wihwa Island
+睦來善	목래선	Mok Naesŏn
+金德遠	김덕원	Kim Tŏgwŏn
+閔黯	민암	Min Am
+李玄紀	이현기	Yi Hyŏn'gi
+南致薰	남치훈	Nam Ch'ihun
+尹彬	윤빈	Yun Pin
+濟州	제주	Cheju Island
+井邑	정읍	Chŏngŭp
+吳道一	오도일	O Toil
+洪致祥	홍치상	Hong Ch'ihyang
+己巳換局	기사환국	Kisa Hwan'guk (Political Turnover of 1689)
+閔氏	민씨	Lady Min (Queen Inhyŏn)
+熙嬪 張氏	희빈 장씨	Royal Concubine Hŭi, Lady Chang
+王子 均	왕자 균	Prince Kyun (later King Kyŏngjong)
+南九萬	남구만	Nam Kuman
+景宗	경종	Kyŏngjong
+英宗	영종	Yŏngjong
+金昌集	김창집	Kim Ch'angjip
+李頤命	이이명	Yi Imyŏng
+趙泰采	조태채	Cho T'aech'ae
+李健命	이건명	Yi Kŏnmyŏng
+趙泰耈	조태구	Cho T'aegu
+崔奎瑞	최규서	Ch'oe Kyusŏ
+崔錫恒	최석항	Ch'oe Sŏkhaeng (likely Ch'oe Sŏk 崔錫)
+金一鏡	김일경	Kim Ilgyŏng
+朴尚儉	박상검	Pak Sang'gŏm
+文有道	문유도	Mun Yudo
+石烈	석렬	Sŏngnyŏl (palace maid)
+必貞	필정	P'iljŏng (palace maid)
+睦虎龍	목호룡	Mok Horyong
+白望	백망	Paengman
+鄭麟重	정인중	Chŏng Injŭng
+金龍澤	김용택	Kim Yongt'aek
+李天紀	이천기	Yi Ch'ŏn'gi
+辛壬誣獄	신임무옥	Sinim Treason Case (1721-1722)
+辛丑	신축	Sinch'uk year (1721)
+壬寅	임인	Imin year (1722)
+正祖	정조	Chŏngjo
+柳鳳輝	유봉휘	Yu Ponghwi
+李光佐	이광좌	Yi Kwangjwa
+趙泰億	조태억	Cho T'aeŏk
+李麟佐	이인좌	Yi Injwa
+洪致中	홍치중	Hong Ch'ijung
+趙文命	조문명	Cho Munmyŏng
+蕩蕩平平室	탕탕평평실	Tangtang P'yŏngp'yŏngsil (Room of Broad Impartiality)
+純	순	Sunjo
+憲	헌	Hŏnjong
+哲	철	Ch'ŏlchong
+李太王	이태왕	Yi T'aewang (Emperor Kojong)
+大院君	대원군	Taewŏn'gun (Prince Regent)
+南夏正	남하정	Nam Hajŏng
+桐巢漫錄	동소만록	Tongso Mallok
+京城	경성	Kyŏngsŏng (Seoul)
+慶尙道	경상도	Kyŏngsang Province
+李退溪	이퇴계	Yi T'oegye
+安東	안동	Andong
+禮安	예안	Yean
+忠淸道	충청도	Ch'ungch'ŏng Province
+論山	논산	Nonsan
+京畿	경기	Kyŏnggi Province
+江原	강원	Kangwŏn Province
+黃海道	황해도	Hwanghae Province
+海州	해주	Haeju
+咸平兩道	함평양도	Hamgyŏng and P'yŏngan Provinces
+全羅道	전라도	Chŏlla Province
+鄭松江	정송강	Chŏng Songgang (Chŏng Ch'ŏl)
+金河西	김하서	Kim Hasŏ (Kim Inhu)
+奇高峰	기고봉	Ki Kobong (Ki Tae-sŭng)
+李重煥	이중환	Yi Chunghwan
+八域志	팔역지	P'aryokchi (Geography of the Eight Provinces)
+柳馨遠	유형원	Yu Hyŏngwŏn
+磻溪隨錄	반계수록	Pan'gye Surok
+李瀷	이익	Yi Ik
+星湖僿說	성호사설	Sŏngho Saesŏl
+丁若鏞	정약용	Chŏng Yagyong
+牧民心書	목민심서	Mongmin Simsŏ
+天主敎	천주교	Catholicism
+東學	동학	Tonghak (Eastern Learning)
+
+**Glossary**
+
+士禍	사화	Scholar Purge; Purge targeting scholar-officials (sarim).
+黨爭	당쟁	Factional Strife; Political infighting between factions.
+朋黨	붕당	Clique; Faction (often with negative connotation).
+밧다	받다	To receive; Older spelling of 받다.
+업다	없다	To not exist; To lack; Older spelling of 없다.
+갓티	같이	Like; As; Older spelling of 같이.
+안이하다	아니하다	To not be; Older spelling/form of 아니다/아니하다.
+닛다	있다	To exist; To be; Older spelling of 있다.
+되다	되다	To become; To happen; Often appears as 되매, 되야 in older texts.
+녀기다	여기다	To consider; To regard as; Older spelling of 여기다.
+듯다	듣다	To hear; Older spelling of 듣다.
+마츰	마침	Just then; At that time; Older spelling of 마침.
+儒敎	유교	Confucianism (as a religion/system of thought).
+儒學	유학	Confucianism (as learning/scholarship).
+程朱學	정주학	Cheng-Zhu School; Dominant school of Neo-Confucianism in Chosŏn.
+士林	사림	Scholar-officials; Literati class, often associated with Neo-Confucian ideals and rural bases.
+外戚	외척	Royal relatives by marriage; Powerful maternal relatives of the king or queen.
+孽子	얼자	Son of a concubine (specifically, of a yangban father and a commoner or lowborn mother).
+史官	사관	Historiographer; Official responsible for recording historical events.
+實錄	실록	Veritable Records; Official annals of a king's reign.
+史草	사초	Draft History; The raw notes and preliminary drafts compiled by historiographers.
+誣告	무고	False accusation; Calumny.
+部棺斬尸	부관참시	Exhumation and decapitation of a corpse (a severe posthumous punishment).
+廢位	폐위	Deposition (of a king or queen).
+賜死	사사	Bestowal of death; Royal order for suicide (usually by poison).
+反正	반정	Rectification of wrongs; Term for a coup d'état overthrowing a perceived illegitimate ruler.
+社稷	사직	Altars of Land and Grain; Symbolizing the state itself.
+賢良科	현량과	Examination for the Wise and Good; Special exam to recruit talented scholars based on recommendation.
+詮郞	전랑	Jeollang; Key personnel posts (Senior and Junior Secretary) within the Ministry of Personnel, holding significant power over appointments, especially to the Three Offices.
+備邊司	비변사	Border Defense Council; De facto supreme state council during mid-to-late Chosŏn.
+蕩平	탕평	Impartiality; Policy aimed at balancing power among factions, notably under Kings Yŏngjo and Chŏngjo.
+東西	동서	East-West (referring to Tongin and Sŏin factions).
+南北	남북	South-North (referring to Namin and Pugin factions).
+老少	노소	Old-New (referring to Noron and Soron factions).
+換局	환국	Political turnover; Sudden shift in political power between factions.
+誣獄	무옥	Treason case based on false accusations.
+班常	반상	Yangban and Commoners; The hierarchical division of traditional Korean society.
+嫡庶	적서	Legitimate vs. Illegitimate offspring.
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제71호
+발행일	1926년 07월 01일
+기사제목	士禍와 黨爭
+필자	靑吾
+기사형태	논설
+
+士禍와 黨爭
+						靑吾
+緖言-士禍-戊午士禍-甲子士禍-己卯士禍-己巳士禍-黨爭-黨爭의 原因-各黨爭의 盛衰 及上關係-黨爭의 社會化에 及한 影響-黨派의 特色과 地方的 分布狀況-附 黨派一覽表 (靑吾)
+
+緖言
+近來 漢學者로 유명한 寧齋 李建昌先生은 일즉이 「黨議通略」을 著하야 朝鮮 由來의 黨爭을 痛論하되 「東漢唐宋이 擧皆朋黨이 잇섯스나 一國을 擧하야 此에 몰두하고 수백년을 亙하야 其 邪正順逆이 명백치 못한 것은 유독 我朝뿐으로 此는 古今 朋黨의 至大, 至難, 至久한 者라」 云하얏다. 그의 말과 가티 朝鮮의 黨爭이야말로 참 古今에 至大至難하고 또 至久하야 其比가 無한 者이다. 享國 519年間에 약 300여 년은 전혀 이 黨爭(士禍*)으로 歷史의 全頁를 充하얏다. 李朝의 歷史는 一方으로 보면 이 黨爭의 歷史라 云하야도 과언이 안이다. 政權도 이 黨爭으로 좌우되고 王權도 이 黨爭으로 消長되고 乃至 制度, 風俗, 文物 그 모든 것이 黨爭의 지배를 밧지 안은 것이 업다. 賢人君子로 一世의 推仰을 밧던 者도 이 黨爭의 관계로 一朝에 亂臣賊子의 陋名을 입어 孤島絶海의 流客이 되거나 혹은 凶釰毒藥의 寃鬼가 되고 大逆不道로 行尸顯戮을 당한 者도 일시에 또 忠臣烈士가 되야 敍勳封爵을 하며 또 如何한 위대의 인물이라도 黨派가 안이면 朝路에 進치 못하고 如何한 열등의 인물이라도 派黨의 배경이 잇스면 榮爵을 拾芥와 如히 취하엿다.＜55＞ 그리하야 君臣이 서로 疑懼하고 士民이 서로 排斥, 殺戮하야 三千里 權域의 내에는 哀號의 聲과 冤抑의 血이 그칠 날이 업섯다. 黨爭의 전에는 國家도 君主도 民族도 親戚도 師弟도 다 업섯다. 다만 自黨의 主義 主張만 貫徹하면 만족할 뿐이엇다. 이것이 엇지 敗族亡國의 本이 안이고 무엇이랴. 宣朝大王은 義州에 播越하얏슬 時에 一詩를 作하야 君臣에게 示하되 「痛哭關山月, 傷心鴨水秋, 朝臣今日後, 寧復各西東이(上二句略-원문)」이라 하얏다. 그 詩가 비록 간단한 數句에 불ꊳ�하나 그 얼마나 비통하며 또 君臣의 黨爭을 戒함이 얼마나 激切하냐. 그러나 당시의 朝臣은 小毫도 改省이 無하야 壬亂 후 불과 幾日에 南北人의 分爭이 生하고 또 繼하야 大小北의 黨爭과 西南人의 黨爭이 激甚하다가 仁祖 丙子에 淸寇가 一至하매 防禦의 策이 無하고 君臣이 城下의 굴욕을 당하얏스며 그리고도 尙 又 부족하야 世世黨爭을 是事하다가 최후에는 국가가 衰亡하는 悲運에까지 至하얏스니 此가 엇지 통탄할 事가 안이랴. 이제 와서 此를 論하는 것은 마치 成服後藥方文을 論함과 如한 感이 업지 안이하나 또한 엇지 他山의 石이 되지 안을는지 알 수 잇스랴.
+
+一. 士禍
+士禍는 일종 朋黨의 爭으로 연출한 士林의 慘劇이니(士禍도 黨爭의 일종이나 但히 성질이 永續的이 안이다.) 此를 일반적 廣意로 보면 필경 朝臣間 內訌에 不外하야 엇더한 시대에던지 흔히 잇는 鬪爭이라 할지나 限定的 狹意로 보면 李朝초로부터 新히 勃興한 儒學의 一派와 그 주위의 非儒學派와의 충돌이라 云치 안이치 못하겠다.
+원래 朝鮮의 儒敎는 麗朝末葉에 安文成公裕가 비로소 輸入한 이래로 李齊賢, 李穡, 鄭夢周, 吉再 등 諸賢이 其學을 전한 바 其中 吉再(冶隱)는 程朱學의 泰頭라 可謂할 學者로 高麗가 망한 후에 慶北 善山의 金烏山 下에 隱節不仕하고 後生을 敎養함에 전력하야 金叔滋와 如한 高弟를 得하고 叔滋의 子 佔畢齋 金宗直은 또한 저명한 학자로 其 系統을 鄭汝昌, 金宏弼 등에게 傳授하야 一時 名士가 배출하매 其 學風이 점차 지방으로부터 도회에까지 침입하야 燕山 당시에는 벌서 政府 部內의 一勢力을 점함에 至하엿섯다. 然而 此 學派는 전혀 程朱의 學을 계승함은 물론이오. 小學의 실천, 詩文의 연마로 究竟의＜56＞ 목적을 삼는 동시에 自家의 主義 思想을 가장 高尙優越한 者로 자처하고 其 派에 合치 안이하는 者는 異類와 가티 排斥하야 相伍하기를 厭忌함으로 遂히 그 周圍의 惡感을 買하야 소위 士禍를 양성하얏다. 此 士禍는 廢主燕山君 4년 戊午에 始하야 明宗 末年까지 약 70여년 간을 亙하야 屢度의 참극을 演한 바 그 중에는 無論政權의 쟁탈전이 포함되고 終에는 外戚의 抗爭으로 化하얏스며 繼하야 후일 宣朝時에 至하야는 李朝의 一大 痼疾인 朋黨分爭의 端을 啓하얏다. 今에는 其 士禍의 중요한 者를 擧하면 左와 如하다.(端宗遜位以後 歷代黨爭을 다 士禍로 認하야 通稱 12士禍라고도 한다)
+
+甲. 戊午士禍(燕山君 四年)
+이 士禍는 朝鮮에서 최초로 니러난 士禍엿다. 처음에 府尹 柳規의 孽子 柳子光은 勇力이 絶人함으로 世祖의 眷顧를 受하고 또 당시 저명한 學者 金宗直의 門下에 출입하얏섯는데 睿宗 초에 南怡將軍의 謀反을 誣告한 공으로 武靈君의 封爵을 受하게 되매(南怡는 宜山尉 南輝의 子요 太宗의 外孫이다) 宗直이 항상 奸凶으로 지목하고 甚히 卑賤하게 녀기더니 宗直이 마츰 咸陽郡守가 되매 그 郡衙에 柳子光의 懸板이 잇는 것을 보고 子光과 가튼 자가 엇지 懸板이 잇스리오 하고 즉시 철거케 하엿더니(先是에 子光이 咸陽에 유람하엿다가 郡守에게 囑하야 자기의 詩板을 揭하얏다) 子光이 그 소문을 듯고 크게 憤恨하야 한번 보복을 하랴고 暗히 당시 權臣 廣陽君 李克墩과 결탁하고 기회를 覗하엿섯다. 그러자 마츰 그때에 宗直의 文人 金馹孫이 史官이 되야 전일에 李克墩이 全羅監司時에 先王의 喪을 당하야 京城으로 進香할 際에 妓女를 載行한 事를 直筆하고 또 헌납이 되어 克墩과 成俊(燕山時 爲相)이 互相反目하야 朋黨이 將起할 事를 䟽論하엿더니 克墩이 크게 분노하야 遂히 子光과 相結하고 其히 宗直의 一派의 撲滅策을 企圖하엿섯다. 然而 燕山 4년에 成宗實錄을 纂輯하게 되야 史局을 開하매 克墩이 馹孫의 史草 중에서 其師 金宗直의 「吊義帝文」이 잇는 것을 발견하고 此는 평생의 怨恨을 報하는 難遇의 好機會라 思하고 柳子光을 見하고 構誣敎囑하야 言하되 「金宗直의 文은 世祖를 譏刺한 것이라」하니 子光이 또한 심중에 暗喜하고 이에 宣城府院君 廬思愼 坡平府院君 尹弼商등과 相謀하고 上啓하야 曰 「宗直이 世祖大王을 詆毁함은 大逆不道로 論함이 可하고 且 其文은 盡히 燒毁하야 世에 流傳치 안케 하지 안으면 붊�가하다」 하며 원래 학문을 不好하고 특히 宗直派의 儒學者를 忌惡하던＜57＞ 燕山君은 柳子光 등의 上言을 一見하매 사실 여하와 是非曲直도 불문하고 즉시 盲從하야 子光으로 하야금 馹孫 등을 推鞫케 하니 子光은 평소의 원한을 일시에 報코자 하야 宗直의 門人은 물론이고 其關係者까지 일망타진하야 혹은 刑殺 혹은 流竄하고 당시에 己死한 宗直은 관을 剖하고 尸를 斬하야 前古末曾有의 一大慘劇을 演하엿다.(당시 被禍者는 金馹孫, 權景裕, 權五福, 李穆, 許磐, 姜謙, 表沿洙, 洪翰, 鄭汝昌, 姜景叙, 李守恭, 鄭希良, 鄭承祖, 李宗準, 崔溥, 李*, 金宏弼, 曹偉, 朴漢柱, 任熙載, 康伯珍, 柳廷秀, 李繼孟, 姜渾 等) 此 事件이 起하기는 李朝 제10대의 王廢主 燕山君 4년 戊午 7월인 고로 후세에 此를 稱하야 戊午史禍라 하고 또 그 단서가 史草에서 發하엿슴으로 但히 史禍라고 稱한다.
+
+乙. 甲子士禍(燕山十年)
+戊午의 慘禍를 經한 후 6년 즉 燕山 10년 甲子에 士林에 일대 慘禍가 또 니러낫스니 이것은 즉 유명한 甲子士禍다. 이 士禍의 전말로 말하면 처음에 燕山君의 生母 尹妣가 廢位되고 次하야 賜死되엿스되 당시 燕山은 아즉 幻沖하야 그 사실을 전연 不知하더니 점차 장성함을 따라서 그 사실을 知하게 되매 其母의 非命을 크게 悲慟하고 평생의 大遺恨으로 思하던 중 燕山 10년 4월에 尹氏를 追崇하야 王后를 삼고 成宗의 廟에 **코자 하니 廷臣 등은 대개 其議를 찬성하고 異論이 別無하얏스나 但히 應敎 權達手, 李荇 兩人이 반대를 主唱함으로 燕山이 大怒하야 權達手를 殺하고 李荇을 流配하얏섯다. 그러나 그 憤怒가 尙히 未盡하야 遂히 尹妣의 廢死 당시, 其議를 찬성하던 者 一流까지 追罰할 意가 生하엿섯다. 然而 其時 朝臣 중에는 당시 士林의 명성이 著高함을 忌惡하는 輩가 多한 중 此機를 乘하야 「士林이 國事를 비방한다」 誣告하니 원래 士林을 大嫌하는 燕山은 또한 此를 聽從하고 悲慘한 일대 疑獄을 起하야 朝臣 中 廢妣에 關係가 有한 者와 金宗直學派를 일시에 流配 혹은 誅戮하고 旣死한 者는 泉壤에까지 禍를 及케 하야 其骨을 碎하고 其首를 斬하야 或風에도 飄灑하고 혹 水中에 投入하니 此 士禍는 戊午史禍보다도 일층 慘酷한 者로 士林의 最恐怖時代라 可謂하겟다.(尹弼商, 李克均, 成俊, 李世佐, 權柱, 金宏弼, 李胃 등 數十人은 被死하고 韓致亨, 韓明澮, 鄭昌孫, 魚世謙, 沈澮, 李坡, 鄭汝昌, 南孝溫은 己死 고로 部棺斬尸하고 其子弟親戚도 亦被流竄)
+
+丙. 己卯士禍(中宗 十四年)
+이 士禍는 中宗 14년에 니러난 士禍엿다. 이 士禍의 起因은 直接 間接 두 가지로 볼 수가 잇스니 즉 直接은＜58＞ 趙光祖(靜菴) 一派의 急進改革이오. 間接은 中宗大王廢后 愼氏의 復位問題다. 처음에 中宗이 즉위한 후 夫人 愼氏을 封하야 后를 삼으니 愼氏는 곳 愼守勤의 女이엿다. 前者에 守勤이 權勢를 恣하고 驕縱함으로 反正시에 朴元宗이 守勤을 殺한 바 愼氏가 만일 이 王后가 되면 자신에 禍가 及할가 염려하야 領相 柳洵과 右相 金壽童과 상의하고 王께 奏하되 「其父를 罪殺하고 其女로 王妃를 삼는 것은 천하인심에 疑懼를 與하야 社稷에 虞가 有할 듯하니 愼氏를 폐함이 可하다」하고 允許를 得하야 后位에 在한지 8일만에 廢하고 坡原府院君 尹汝弼의 女를 冊立하니 此는 즉 章敬王后요 尹汝弼은 朴元宗의 妻兄이엿다. 然而 中宗 10년 3월에 尹妃가 元子 仁宗을 탄생한 후 僅히 7일에 昇遐하니 諸臣 중에 愼氏復位論이 起하야 朝臣分爭의 端이 復開하얏다. 즉 당시 淳昌郡守 金淨과 潭陽府使 朴祥 兩人은 愼氏復位를 請하는 동시에 向者 朴元宗이 君父를 억제하야 國母를 放逐하얏슨즉 속히 其罪를 治하야 천하후세에 大義名分를 示하자고 上啓하고 大司憲 權敏手 大司諫 李荇은 金淨 등의 上啓를 邪論이라 稱하고 二人을 拿鞠하야 死罪에 처형코자 하다가 左議政 鄭光弼이 不可를 極主하야 僅히 死를 면하고 外驛에 流配하게 되니 正言 趙光祖는 이에 李荇 등을 彈劾하되 소위 言官으로서 時事를 論한 士人을 罪함은 人主를 拒諫에 導함이라 云하고 仍하야 荇등의 職을 罷함을 極論하니 上이 遂히 李荇 權敏手 兩人의 職을 罷하고 李長坤으로 大司憲을 삼고 金安國으로 大司諫을 삼으니 이로부터 李長坤, 金安國은 趙光祖를 찬성하곊� 掌令 柳博, 金希壽 등은 權 李 兩人을 右하며 直提學 金安老는 兩是說(光祖는 言路를 爲하고 荇 及 敏手는 宗社를 爲함으로 云)을 發하야 朝臣의 爭論이 啓發하얏다. 此 分爭은 己卯士禍의 직접 원인은 되지 안엇스나 趙光祖一派로 하야금 其勢를 失케 한 外 慘禍를 被하게 하는 간접의 원인이 됨은 無疑하다. 此에 先하야 中宗이 燕山의 秕政을 개혁하고 中興의 道를 講하매 당시 士林의 領袖 趙光祖를 신임하야 賢良科를 說하고 其派의 學士 金湜, 安處恭, 朴薰 , 朴祥, 李耔, 金絿 등을 다 일시 擢用하야 要職에 就케 하고 光祖는 副提學으로 大司憲에 進하니 其勢가 자못 旭日昇天의 觀이 잇섯다. 然而 趙光祖를 領袖로 한 諸士中年少氣銳의 人은 氣滿意揚하야 三代의 治를 立而可致할 急激의 勢로 자기의 의견을 실현코자 함에는 時의 利 不利와 勢의 可 不可를 不願하고 猪突前進할 뿐 外라. 君上에 대하야도 强迫에 近한 言動이 多함으로 필경 四圍의 好感을 得치 못하고 王의 忌厭도 招하는 경우가 多함으로 其反對派는 其虛機를＜59＞ 乘하야 비밀리에서 排斥運動을 起케 하얏다. 즉 其時에 禮判 南袞은 자칭 名節의 士로 항상 士林의 間에 伍할 事를 희망하얏스나 光祖派의 學者들은 南을 指目하야 小人이라 하고 맛나면 반듯이 此를 詆詬하는 風이 有함으로 袞은 心中에 常히 恨을 抱하야 그 報復의 機會를 窺하고 又 趙光祖가 大司憲이 된 후에 엇던 날 途中에서 贊成 高荊山을 만낫섯는데 趙光祖가 禮를 하지 안코 묵과하얏슴으로 此를 聞知한 其一派는 더욱 趙光祖를 怨恨하얏섯다. 이와 가튼 사실이 중첩하매 光祖의 身邊에는 朝臣의 怨恨嫉視가 蝟毛와 如히 集中하야 무슨 機會만 잇스면 反動이 일시 폭발할 위기에 잇섯다. 그런 중슗� 中宗 14년 10월에 趙光祖는 大司諫 李成童과 伏閤하야 靖國功臣의 濫錄者를 追削하기를 또 請하얏다. 此 靖亂功臣은 즉 向者 丙寅에 燕山君을 廢하고 中宗을 擁立할 際에 其謀議에 참여한 者를 中宗卽位初에 靖亂功臣으로 하야 其 勳을 錄하얏던 者인 바 其中에는 물론 不當不適의 인물이 多함으로 光祖 등은 此를 廓淸하기 위하야 其 追削을 請함이엿다. 此 主張은 당시의 大臣 六卿 등도 또한 대개 찬성하얏스나 中宗大王은 一次 廟堂에서 勳을 정하고 功을 錄한 이상에는 추후 다시 削奪하는 것은 위신상이나 情實上이나 容易한 事가 안이라 하고 初에 容許치 안이하다가 兩司(大司諫)가 强硬히 주장하야 甚至 辭職까지 함으로 中宗도 부득이 聽從하고 功臣 중 二三等의 濫錄이라 可稱할 者와 四等 全部 都合 76인을 일시에 抄削하니 此를 聞한 諸勳臣間에는 아연히 大恐惶이 起하고 衆怨이 光祖 등 일파에 簇集하게 되엿다. 그리하야 평소에 趙를 疾視하던 南陽君 洪景舟 工判 金銓, 禮判 南袞, 兵判 李長坤, 戶判 高荊山 都摠管 沈貞, 參知 成雲 등이 相謀하고 11월 15일 初昏에 神武門 外에 會集密議한 후 洪景舟 南袞 등이 書狀을 持하고 中宗에게 讒啓하되 「政權과 人心이 다 趙光祖에게 歸하고 또 光祖 등이 互相朋比하야 附己하는 者를 進하고 違己하는 者를 배척하야 國勢가 顚倒하고 朝政이 日非하니(中略-원문) 彼 등을 有司에 付하야 其罪를 治함이 可하다」 하니 때에 中宗은 역시 光祖一派의 道學的 言行이 너무 熱烈過激하야 威脅의 態가 有함을 嫌忌하던 터인 고로 直히 其言을 納하고 有司를 命하야 參贊 李耔, 刑判 金淨, 大司憲 趙光祖, 大司成 金湜, 副提學 金絿 등을 체포하야 闕門에 拿致하고 즉시 行戮코자 하다가 領相 銄�光弼과 左相 安塘 등이 極諫하야 光祖는 詔獄에 下하고 其外 諸人은 流竄에 止하얏다.(일설에 南袞이 趙靜菴을 해코자 하야 許多의 奸計를 計劃하던 중 洪景舟가 찬성으로 在하다가 光祖에게 彈劾되야 불평을 胞한＜60＞事를 聞하고 此를 결탁하야 음모를 企하다가 마츰 京外에 地震이 起하야 인심이 疑懼하고 上이 또한 불안 중에 在함을 知하고 其機를 乘하야 景舟의 女 洪熙*양으로 하야금 禁中에 流言하되 「민심이 趙光祖에게 歸하얏다」하고 또 禁苑木葉에 蜜汁으로 「走肖爲王」4字를 書하야 虫類로 食하게 하고 其 字痕을 王에게 示하야 大히 宸心을 動케 하얏다. 云云) 때에 館學儒生 천여명이 光祖의 하옥함을 聞하고 光化門 外에 聚集하야 光祖의 무죄를 辯䟽하고 또 闕庭에 入하야 痛哭號泣까지 하다가 上에게 觸怒되야 어명으로 拿捕下獄하니 諸生이 先을 爭하야 獄에 就함매 獄中이 충만하야 수용할 여지가 업섯다. 그러한 것을 본 權奸 등은 또 中宗에게 讒誣하되 光祖를 速殺치 안이하면 인심이 더욱 불안하야 大禍가 將至하리라 하니 中宗이 此를 信聽하고 11월 21일에 遂히 光祖의 죄를 정하야 中外에 頒示하고 全南 綾州 竄逐하얏다가 仍히 賜死하고(時年 38) 其派 수십인을 다 流竄하니 時는 즉 中宗 14년 己卯인 고로 후인이 己卯士禍라 稱한다.(당시 被禍한 중요인물은 尹自任, 朴世熹, 朴薰, 奇遵, 李長坤, 金安國, 金正國, 韓忠, 具壽福, 金世弼, 柳雲, 柳庸謹, 崔淑生, 申鏛, 金淨, 金湜, 金絿 등)
+
+丁. 乙巳士禍
+종래의 諸士禍는 상술함과 如히 士林과 其 周圍의 충돌로 인하야 起한 고로 士林이 중심이 되엿슴은 물론이나 己卯 以後의 士禍는 外戚의 內訌이 중심이 되고 士林은 但히 其 渦中에 捲入함에 불과함으로 此에 述코자 하는 乙巳士禍도 또한 外戚爭權의 결과로 士林이 其盤渦中에 捲入하야 禍를 被한 者라 云함이 타당할 것이다. *초에 中宗의 妃 端敬王后愼氏는 燕山君 廢位의 際에 被誅한 愼守勤의 女인 관계로 廢位되고(己卯士禍 參照) 繼妃 章敬王后尹氏를 迎入하야 元子 仁宗을 탄생한 후 또한 昇遐하매 中宗은 다시 次繼妃 文定王后尹氏를 迎하야 第二子 慶原大君(즉 明宗)을 탄생하엿섯다. 時에 章敬王后의 兄에는 尹任이라는 이가 잇고 文定王后의 弟에는 尹元衡이라 하는 이가 잇서서 互相 權力을 쟁탈함으로 알력이 太甚하다가 元衡과 及 其兄 元老가 金安老에게 被斥하야 일시 세력을 失하잇더니 中宗 32년에 至하야 金安老가 또한 失脚하고 元衡이 다시 擢用되니 趨勢의 輩가 일시 附隨하야 大尹 小尹 兩黨으로 分立하니 大尹은 즉 尹任이오, 小尹은 즉 尹元衡이엿다. 其後 39년에 中宗이 昇遐하고 仁宗이 즉위하니 其外叔인 尹任이 홀연이 勢를 得하야 其派가 일시 大權를 執하고 당시 士林의 名士인 柳灌 李彦迪 등이 擢用되야 다 大官이 되고 吏判 柳仁淑은 특히 其派의 士類를 援引하야 己卯 以後 衰微에 濱하엿던＜61＞ 士林이 稍稍擡頭하는 觀이 有하엿섯다. 그러나 그는 반면에는 당시 志를 得지 못한 일파가 또한 靡然히 尹元衡에게 附隨하야 일당을 형성하엿섯다. 然而 仁宗이 在位한지 8월에 불행히 昇遐하고 明宗이 13세의 幼齡으로 卽位하야 大妃 文定王后가 簾을 垂하고 政을 聽하게 되니 尹任派는 자연 其勢를 失하고 尹兊�衡派가 俄然히 擡頭케 되엿섯다. 그때에 尹元衡의 兄 元老는 軍器寺僉正으로 爲人이 姦險함으로 領相 尹仁鏡, 左相 柳灌 등이 其罪를 彈하여 海南에 竄하고 또 是에 先하야 尹元衡이 禮參으로 在할 時에 尹任一派를 배제코자 하던 차 마츰 知中樞 鄭順明, 兵判 李芭, 戶判 林百齡, 工判 許磁 등이 본래 尹任과 隙이 有함을 知하고 遂히 四人과 결탁하야 其機를 覗하더니 此에 至하야 誣告하되 「仁宗大漸의 日에 尹任은 자기 保全을 위하야 明宗의 推戴를 不肯하고 桂林君 瑠(成宗 第三子 桂城君 恂의 養子)와 鳳城君 岏(中宗 第八子) 兩人 中에 一人을 立하랴고 하고 柳仁淑, 柳灌 등이 다 此를 援助하얏다.」 하니 文定王后는 此 誣告를 信하고 密旨를 元衡에게 下하야 兩司로 하야금 尹任 등의 죄를 論케 하얏스나 兩司에 紛議가 生하여 容易히 歸決되지 안음으로 元衡은 直夜에 鄭順朋, 李芭 林百齡, 許磁 등 4人과 光化門 외에서 회의하고 翌朝에 政院에 詣하야 급히 誣告하되 「尹任一派가 결탁하야 國家大事件을 야기하랴 한다.」 하니 王 及 王妃가 大驚하야 尹任, 柳灌, 柳仁淑 등 수십 인을 遠竄賜死하고 또 京伯 金明胤의 密啓로 인하야 鳳城, 桂林 兩君을 殺하얏다. 然而 此 獄禍는 但히 此에만 止치 안이하고 明宗 2년 9월에 副提學 鄭彦慤이 全羅道 良士驛 壁上에서 「女王이 執政干上, 姦臣李芭等弄權於下, 國亡可以立待豈不寒心」云云의 朱書를 발견하고 順朋과 공히 上啓하되 乙巳獄에 관계가 有한 者의 所爲인즉 其 禍根을 絶滅함이 可하다 하니 王后가 또한 信聽하고 다시 大獄을 起하야 宋麟壽, 李若水 등을 殺하고 權撥, 李彦迪, 白仁傑, 鄭希登, 朴光佑, 宋希奎, 柳希春, 盧守愼 등외 수십 인을 竄謫하니 此禍가 明宊� 乙巳로부터 始하얏슴으로 보통 乙巳士禍라 通稱한다.
+
+二. 黨爭
+甲. 黨爭의 原因
+黨爭의 원인은 種種의 說이 有하야 혹은 書院의 弊에 잇다 하고(例如朴齊炯朝鮮政鑑) 혹은 道學太重, 名義太嚴, 文詞太繁, 刑獄太密, 臺閣太峻, 宦職太淸, 閥閱太盛,＜62＞ 昇平太久 등 八大原因에 잇다고 하고(例如李建昌黨議通畧) 혹은 新舊交代의 際에 起한 감정의 충돌이라 하고(例如日本文學博士幣原坦韓國政爭志) 又 혹은 단순히 沈義謙과 金孝元의 反目疾視에서 起因하얏다 한다. 그러나 此를 大別하면 遠因 及 近因 兩者가 有하니 즉 遠因은 (一). 士禍 及 戚의 分爭과 (二). 제도상 결함이오 近因은 (一). 당시 士類間의 新舊不知와 (二). 沈義謙 及 金孝元의 反目疾視다. 然而 士禍 及 外戚의 분쟁이 黨爭의 주요 원인이 됨은 上述함과 如함으로 茲에 更論치 안커니와 李朝의 銓郞制度는 또한 此 黨爭을 馴致하얏다 云치 안이치 못하겟다. 由來 朝鮮의 官制에는 三公(領議政 左 右議政) 六卿(六曹 判書)을 置하얏스나 內外官職의 除拜는 三公이 하지 안코 전혀 吏曹에 속하고 又 吏曹의 權이 偏重함을 慮하야 當時에 最重職인 三司(司憲府, 司諫院, 弘文館)의 任選은 吏判의 下에 在한 正郞, 佐郞으로 專行케 하고 判書는 관여치 안케 하얏스니 此가 즉 소위 銓郞으로 其 實權이 자못 위대하고 從하야 此 銓郞은 三司 중에 名德이 有한 者로 特選하야 此를 임명하고 又 銓郞은 其 後任을 自薦함을 許하되 결코 長官에 속지 안이하엿섯다. 그럼으로 品階의 昇進과 如한 것도 먼저 銓郞에 陞하고 후에 他司에 及하며 일차 詮郞을 經하면 별로 大故가 無한 한에는 平步로 公卿에 上함을 可得하엿다. 그리고 중앙정부의 首腦는 三公의 合議制로 成한 議政府가 有하얏스나 明宗 15년 이래로 此는 유명무실하케 되고 文武의 重臣으롊� 成한 備邊司(備局 又는 籌局)가 사실상의 최고기관이 되야 국가의 政務를 決하얏다. 如斯히 李朝의 중앙정부의 조직은 頗히 變態의 조직인 동시에 就中銓郞과 如한 者는 變態 중 더욱 變態의 狀을 呈하야 자연 黨派를 양성케 하얏스니 下에 論코자 하는 沈議謙과 金孝元의 反目疾視도 실은 詮郞에 관한 私怨에 기인한 者이다.
+
+次에 近因은 第一 當時士類間의 新舊不和에 在하니 向者 乙巳士禍 이후로 士類간에도 자연 黨派가 有함은 물론이어니와 宣祖初에 至하야는 新舊의 불화가 더욱 심하얏스니 此는 重言을 不要하고 당시 領相으로 在하던 東皐 李浚慶의 遺剳과 또 此를 반대하던 一事를 見하야도 其 情勢를 可窺할 것이다. 이 李浚慶은 尹元衡의 후를 繼한 領相으로 明宗의 顧命을 受하야 宣祖를 迎立하고 同王 4년까지 領相의 職에 在한 柱石의 重臣이엿다. 그는 領中樞府使로 宣祖 5년 7월에 卒逝할 때에 宣祖에게 이러한 遺剳을 上하얏다.
+「今世의 人은 或 身에 過擧가 無하고 事에 違則이 無할지라도＜63＞ 一言이 不合하면 곳 배척하야 容치 안이하고 行檢을 事치 안이하며 독서를 務치 안이하고 但히 高談大言과 朋比結束으로써 高致를 삼아 허위의 風을 成한다(下略-원문)」
+此는 즉 東西分黨이 起하던 宣祖 8년으로부터 3년 전의 정세를 明言한 바로 당시 士林의 思想이 如何히 악화한 것을 可知하겟다. 然而 其時 年少의 儒者들은 東皐의 此 遺剳을 見하고 「君聽을 현혹하며 後進을 禍코자 함이라 하고 大히 반대하얏다. 其中에도 栗谷 李珥와 가튼 이는 심지어 鳥之將死에 其鳴也-哀하고 人之將死에 其言也-善이라 더니 浚慶之將死에 其言이 惡이라」는 偏頗의 論까지 發하얏다. 此는 역시 東皐는 其時 74세인 國家元老요 沈義謙, 李珥 등은 年少後輩인 까닭이다. 그러나 東皐의 死後 수년을 過하야 沈金 兩人의 反目으로 東西가 분당된 것을 보면 東皐의 遺剳은 당시 士林의 氣勢를 洞察한 明見이라 云치 안이치 못하겟다.
+
+尙 又 第二의 近因은 상시한 바와 如히 즉 沈義謙과 金孝元의 反目疾視니 此 沈金 兩人의 반목은 실로 東西分黨의 발단을 成한 最近因이다. 然而 其 兩人의 반목한 이유를 說하랴면 先히 其 兩人의 關係 及 爲人如何를 知할 필요가 잇다.
+원래 沈義謙(良庵)은 靑松府院君 沈銅의 子로 明宗王妃의 親弟가 되고 吏判 李樑은 또 義謙의 父 沈銅의 母弟엿다. 明宗은 其 外叔 尹元衡의 전횡을 억제하기 위하야 李樑을 擢用하엿더니 李樑이 吏判에 在하야 또한 寵을 持하고 橫肆가 심하야 士林을 항상 排斥함으로 士禍가 將起할 虞가 有한 中 沈義謙은 樑의 近戚됨에 불구하고 士林과 交遊하며 樑黨의 발호가 極하야 朝野가 危懼함을 見하고 또한 副提學 奇大恒과 공히 樑을 탄핵하야 퇴출함으로 士林先輩間에 신망을 得하야 大司憲의 요직에 陞하고(時年39세) 又 金孝元(省庵)은(沈보다 7세가 少함) 金宗直學派의 金謹恭 門人으로 당시 少年秀才 중 文名이 자자하엿섯는데 義謙이 一日은 公用으로 舍人을 遣하야 당시 權戚 尹元衡의 家에 往하얏다가 其家에서 기숙하는 金孝元의 침구를 발견하고 金를 介士가 안이라 하야 심중에 卑劣하게 생각하고 常히 侮視하얏섯다.(원래 孝元의 妻父가 尹元衡의 妾父 鄭允謙의 侄인 고로 孝元이 尹家에 기숙하얏다.) 그러나 此는 孝元의 登科 이전의 事인 고로 피차에 직접 別問題는 업섯다.(보통은 此 사실을 직접 反目의 원인으로 知한다) 그러다가 其後 孝元이 魁科에 登하야 才名이 日盛하매 詮郞 吳健이 金을 薦하야＜64＞ 자신을 代코자 하엿더니 義謙이 此를 저지하고 또 其後 6,7년을 經하야 孝元이 詮郞이 되엿슬 때에는 다수의 新進名士를 인용하되 義謙의 弟 忠謙은 詮郞으로 人이 薦하야도 天官이 外戚의 할 바가 안이라 하고 孝元이 불허함으로 兩人의 반목이 점차 露骨로 化하얏다.
+然而 當時 士林의 思想은 상술함과 如히 극단으로 악화한 중에서 此 沈金의 반목이 日甚하매 士類 중 소위 先輩는 情實 관계상 자연 沈을 推崇하고 또 후배는 金을 推崇하야 金派는 義謙을 지목하되 正을 害하는 人이라 하고 沈派는 孝元을 지목하되 私怨을 보복하는 人이라 하야 終에 分黨의 단서를 見하게 된 바 당시 金孝元의 家는 京城의 東部 乾川洞(今 駱山下 부근)에 在하고 義謙의 家는 西部 貞陵洞(今 貞洞)에 在한 고로 金에 가담한 者를 東人이라 하고 沈에 가담한 자를 西人이라 하야 東西朋黨의 名稱이 茲에 始하고 時는 宣祖 8년 乙亥인 고로 또한 乙亥分黨이라 稱한다.(당시 大司諫 許曄은 前輩나 孝元을 推許함으로 東人의 領袖가 되고 右議政 朴淳은 淸名重望이 有하고 또 前輩인 고로 西人의 領袖가 되엿다.)
+
+乙. 各黨派의 盛衰와 及 其政治上 關係
+宣祖 8년 東西分黨의 시기로부터 李朝 末葉에 至하기까지 凡 330여년 간의 역사는 실로 黨爭의 역사라 云하야도 과언이 안이다. 따라서 직접 간접으로 정치상에 及한 영향이 다대함은 물론이고 其 分爭의 경과도 또한 區區複雜하야 간단한 지면으로는 도저히 상술하기 곤란하다. 그러나 나는 편리상 此를 六時期로 分하야 其大槪를 論코자 한다.
+
+一. 東人得勢와 南北人의 分派時期
+此時期는 宣祖 8년으로부터 光海君 15년까지 至하는 約 50여년 간의 시기니 宣朝 8년 東西分黨의 際에 栗谷 李珥가 副提學으로 在하야 此를 극력 조정하다가 其效를 見치 못하고 일시 冠을 掛하더니 其後에 다시 入朝하야 大司諫으로 兵判 及 吏判의 重職에 임하니 그는 비록 分黨의 조정자이나 그 門人이 西人인 고로 자연 西人의 세력이 大하얏섯다. 그러나 宣朝 17년에 栗谷이 病卒하고 其後를 承하야 李山海가 吏判이 되고 또 盧守愼은 領相, 柳成龍은 禮判이 되니 此三人은 다 東人의 쟁쟁한 者인 고로 西人의 세력이 점차 일소되고 東人의 勢力은 일층 공고하야 容易難拔의 位에 至하얏다.＜65＞
+其後 宣祖 24년에 東人이 다시 分하야 南北 兩派로 分하얏스니 此分裂의 원인은 其反對派되는 西人에 대한 硬軟의 차별에 不外한 바 즉 硬派는 北人이요 軟派는 南人이다. 硬派의 領袖는 李潑로서 李山海가 此를 조장하고, 軟派의 領袖는 禹性傳으로서 柳成龍이 此를 右袒한 바 李潑의 家는 北岳山下에 在한 고로 其派를 北人이라 하고 禹性傳의 家는 南山麓에 在한 고로 其派를 南人이라 指하얏스니 是가 즉 南人 北人의 分派爭이다. 然而 壬亂을 際하야 南人 領袖 柳成龍이 多年政權을 執할 時에는 마참 國家危急存亡의 秋를 임한 고로 별로 黨爭이 업섯스나 亂이 漸平하매 熄火가 再燃하야 北人 南以恭이 西崖의 主和한 것을 彈劾하야 官爵을 奪하게 되니 南人이 遂히 失脚하고 北人이 其代로 정권을 執하얏다.(宣祖末年期) 그러나 北人은 未久에 또 分爭이 生하야 大北 小北으로 分하고 大北은 또 中北 肉北 骨北으로 分한 바 宣祖 末年에는 小北領袖 柳永慶이 領相이 되야 其勢가 亦大하얏다.
+大小北의 爭 大小北人의 爭은 黨人의 소위 祖宗의 名器를 玩弄物로 視한다는 好適例라 云하야도 可하니 此는 즉 宣祖의 世子立承問題다. 初에 宣祖의 元妃 朴氏가 無嗣하고 또한 世子도 아즉 定치 못하얏섯는데 마참 壬亂이 起하야 宣祖가 播遷을 하게 되매 부득이 庶子 光海君으로 世子를 책봉하얏더니 其後 朴妃가 昇遐하고 金悌男의 女 仁穆大妃가 繼后가 되야 永昌大君 의를 生하매 朝臣간에 世子變冊問題가 突起하야(明國과의 관계도 有하나 略함) 柳永慶의 小北一派는 大君을 擁立하랴 하고 李膽의 大北一派는 光海君을 擁護하야 茲에 大爭論이 起하얏다. 然而 宣朝가 昇遐하고 光海君이 卽位하야 李爾瞻을 登用하매(先是爾瞻强請傳位被流配未及配所宣朝*篤召喚) 爾瞻이 疑獄을 起하야 柳永慶國舅金悌男及其三子一婿를 皆殺하고 당시 僅히 8세인 永昌大君은 江華密室에서 熱殺하고 大君의 生母 仁穆大妃는 廢하야 西宮에 幽閉하고 其外 臨海君 珒과 定遠君 琈도 다 被害하니 此 慘變은 李朝黨爭史上 일대 참변이라 云치 안이치 못하겟다. 然而 此時 小北은 비록 廢母를 반대하얏스나 爭論이 不一하야 또한 淸小北 濁小北으로 分하고 大北에게 여지업는 참패를 당하얏스니 此光海君一代의 間은 大北의 천하라 可謂하겟다.
+
+二. 大北의 全滅과 西南人의 抗爭時期
+仁祖 元年으로부터 顯宗 15년까지 약 50년 간은 六北의＜66＞ 전멸과 西人 及 南人의 抗爭時期라 可謂하겟다. 즉 光海朝 15년 3월에 西人 李貴, 金自點, 金瑬, 李适 등이 反正의 旗를 擧하야 光海君을 폐하고 仁祖를 옹립하는 동시에 永昌, 任海 兩大君과 金悌男의 爵을 復하고 李爾瞻, 鄭仁弘 등 大北徒黨 수십 인을 살해하고 또 其派 數百人을 竄逐하니 此 時期는 大北의 全滅時期다 然而 大北을 撲滅하고 정권을 掌한 西人 中에 李貴, 金瑬 등은 功勳이 有함으로 功西 又는 勳西의 稱이 잇고 金尙憲 在野黨인 고로 淸西라 稱하야 또한 分裂이 生하얏스니 此는 向者 南北人의 分裂과 如히 反對黨에 대한 硬軟의 차별이 有함에 不過함은 물론이고 又 在朝黨 즉 功西 中에도 老西 少西 二派가 有하야 老西派는 南人과 타협(金瑬 등 軟派)을 保持하랴 하고 少西派는 此를 반대하얏스며 (李貴 등 硬派 其後 仁祖 末年에는 更히 分裂하야 功西는 原黨, 洛黨(金自點 一派)이 有하고 淸西는 山黨 漢黨이 生하얏스니 其 中 山黨은 忠南 連山의 學者 金長生(沙溪)의 子 金集(愼獨齋)을 주로 하야 連山 懷德의 士林을 다 망라한바 沙溪의 門弟 宋浚吉 宋時烈 등이 또한 山黨에 參하얏다. 如斯히 西人은 數多의 분파가 生하얏스나 仁祖 一代의 間에는 勳西 一派가 牛耳를 執하얏다 云치 안이치 못하겟고 또 孝宗朝에 至하야는 洛黨 金自點이 被誅하고 北伐論者 宋時烈이 左議政이 되고 宋浚吉이 吏判됨을 따라 山黨의 세력이 또한 多大하얏다.
+
+南人과 西人의 爭 然而 茲에 一言을 안이치 못할 것은 南人의 지위니 南人은 柳成龍 이후로 정권을 執치 못하다가 仁祖反正후에 梧里 李元翼이 비를소 領相이 되고 또1,2의 南人이 요직에 在함으로 僅히 潛勢力을 보유할 뿐이엿다. 그러나 顯宗朝에 至하야 西南人의 爭論은 大히 注意할 바이엿다. 즉 제1차는 顯宗 初年에 慈懿大妃(仁祖繼妃 趙氏)의 服할 孝宗喪期에 대하야 宋時烈 등은 朞年說을 主唱하고 南人 尹鎬(白湖) 許穆(眉叟) 등은 三年說을 主唱하얏스며 제2차에는 顯宗 末年에 昇遐한 仁宣大妃(孝宗妃 張氏)의 喪에 대하야 宋은 大功說(9개월), 尹은 朞年說을 각자 주장하얏다. 如斯히 兩論의 분쟁이 심하다가 顯宗은 尹說을 채용하니 결국 西人의 勢가 축소되고 南人의 勢가 대두되야 同王 末年에는 南人 許積이 領相이 되고 繼하야 肅宗 初에는 南人 權大運, 許穆이 左右相이 되니 其勢力이 益益旺盛하야 宋時烈을 크게 공격함으로 일시 堂堂의 세력이 有하던 宋時烈도 그만 官爵을 被奪하고 長鬐郡으로 流配되는＜67＞ 悲運에 陷하고 又 당시 南人 中에는 西人에 대한 태도와 硬軟에 의하야 又 淸南(許積) 濁南(權大運)의 兩派가 生하얏다.
+이상과 如히 黨派의 盛衰는 一仆一起하야 頗히 복잡하얏스나 摠而言之하면 宣祖 8년의 分黨으로 顯宗 末까지 약 백년간에 최초 50년은 東人이 得勢하고 후 50년은 西人이 牛耳를 執하얏다.
+
+三. 南人失脚과 老少分爭時期
+此 黨爭은 肅宗 元年으로부터 同 20년까지 至하는 약 20년 간의 黨爭이니 初에 南人의 領袖許積이 顯宗의 顧命을 受하야 肅宗을 보필하던 바 당시 肅宗은 僅히 14세의 弱齡으로 질병이 多하고 且宗室中反軌者가 多함으로 許積의 子 許堅이 此等과 결탁하여 反正을 謀하다가 (麟坪大君의 子 福昌君 楨, 福善君 梅과 同謀) 兵判 金錫胄의 적발로 인하야 許積의 父子 及 尹鐫 외 수십인이 被誅하고 南人 백여인이 다 被斥하니 此가 즉 肅宗 6년 庚申大獄이다. 如斯히 南人이 일망타진된 후 金錫胄, 金益勳(金長生 孫)은 其功을 錄하게 되야 益勳은 御營大將, 金壽恒은 領相, 閔鼎重은 左相 金錫胄은 右相이 되고 又 宋時烈은 다시 소환되야 朝에 入하니 명망이 一世를 傾하고 따라서 西人의 勢力이 大振하얏다.
+그러나 西人 중 少壯者는 金錫胄의 行事를 반대하는 者가 多하야 遂히 老少二派로 또 分裂되얏스니 즉 金錫胄, 金益勳을 右하는 者는 老論이오 此를 반대하는 韓泰東 趙持謙 등 一派는 소위 少論인 바 肅宗 9년에는 다시 禮論問題로 宋時烈과 尹拯(明齋)及 朴世采 간에 爭論이 起하야 宋은 老論과 一派가 되고 尹은 少論과 一派가 되야 有名한 懷尼(즉 懷德과 尼山(魯城)의 戰을 成한 후로 老少의 分爭이 益益熾烈하게 되얏다.(肅宗 9년에 宋時烈이 孝宗의 書室問題와 太祖의 威化島回軍 近二百年紀念 上諡問題를 건의하얏다가 尹拯이 반대하야 遂히 老少爭論이 激起하얏다) 其後 肅宗 15년에는 世子冊封問題로 南人과 西人에 大衝突이 生하야 南人의 睦來善, 金德遠, 閔黯 등이 樞要의 지위를 得하고(金, 睦爲左右相) 西人의 宋時烈은 南人 李玄紀, 南致薰 尹彬 등의 上䟽에 인하야 83세의 노령으로 濟州에 流配되얏다가 井邑에 移하야 賜死하고 吳道一 洪致祥 金益勳 등은 或罷或竄하며 金壽恒도 또 賜死하얏스니 此가 즉 소위 己巳換局이다. (초에 肅宗正妃閔氏가 嗣子가 無하고 熙嬪 張氏가 王子 均을 生하얏는데 肅宗이 正妃 閔氏를 廢하고 王子 均으로 世子를 冊封코자 하얏더니 西人 宋時烈은 반대하고 南人 睦來善 등은 찬성하야＜68＞ 爭論이 又起함) 그러나 肅宗 20년 4월에 至하야 王은 다시 前非를 후회하고 南人을 疏待하니 西人이 此機를 乘하야 南人의 在官者를 黜斥하고 南九萬이 領相이 되야 재차 西人의 內閣을 회복하고 宋時烈도 또한 復爵되얏다.
+
+四. 老少大衝突의 時期
+肅宗 20년에 南人이 失勢하고 政權이 南人이 歸한 후 局面은 다시 一變하여 老少 兩黨의 爭戰이 되얏스니 肅宗 20년으로부터 景宗 4년까지 약 30년 간은 老少衝突의 全盛時期라 可謂하겟다. 景宗은 病弱하야 王子를 生誕할 희망이 無하고 또한 聽政하기 不能함으로 元年 8월에 老論派에서 世弟 英宗으로 代理聽政케 할 事를 䟽請하야 領相 金昌集, 領府事 李頣命, 判府事 趙泰釆, 李健命 등(소위 老論四大臣)이 老論巨首가 다 此를 찬동하얏더니 趙泰耈등 少論의 극렬한 반대로 老論이 遂히 패배하고 四大臣外其一派가 다 竄逐을 당하고 趙泰耈등 少論一派가 得勢하야 泰耈은 領相 崔奎瑞, 崔錫은 左右相이 되니 政局은 다시 少論의 천하가 되엿다. 然而 少論中 急激派 金一鏡(承旨)의 徒는 宦者 朴尙儉, 文有道, 宮婢石烈, 必貞등과 음모하고 東宮을 害코자 하다가 발각되야 朴文輩가 다 被誅되고 其翌年에는 一鏡이 또 睦虎龍과 음모하고 老論一派가 東宮을 謀害한다 誣告하야 金昌集 등 4大臣외 수십인이 被誅하고 白望, 鄭麟重, 金龍澤, 李天紀 등도 또한 被罪하니 此가 즉 辛壬誣獄이다.(辛丑, 壬寅 兩年을 亙한 고로 辛壬이라 하고 又 혹은 壬寅獄事라도 한다.)
+
+五. 老論의 登用과 調和主義의 實行時期
+英宗元年으로부터 正祖 24년까지의 약 180년 간은 소위 老少調和主義의 實行時期다. 世人이 皆知하는 바와 如히 英宗과 正宗은 李朝末期의 英主이엿다. 英宗은 卽位초에 蕩平의 敎諭를 下하야 內外臣民에 示하고 黨爭의 弊禍를 통절히 論하고 老少調和主義를 取하얏다. 卽位초에는 少論派가 要路에 당하얏스나 壬寅誣獄의 진상이 탄로되매 金一鏡, 睦虎龍 등을 誅하고 柳鳳輝, 李光佐 趙泰億 등 少論一派를 竄逐하며 壬寅寃獄에 관련된 諸人의 官을 復하고 또 金一鏡의 餘黨 李麟佐의 亂을 平하니 일시 宮內에 少論派의 形影이 絶하고 老論이 다시 登用되얏다. 그러나 調和主義를 실행코자하는＜69＞ 英宗은 一黨에게 永久히 정권을 委함이 不可함을 知하는 고로 老論 洪致中으로 領相을 삼는 동시에 少論 趙文命으로 右相을 삼고 300년래 黨爭의 일원인이 되던 詮郞의 규제를 폐지하고 또 老論 宋時烈과 少論 朴世釆을 동시 文廟에 從祀케 하니 이것도 蕩平主義 한 實現이다. 其後를 繼하야 正宗은 또한 宮中寢室에 題하되 「蕩蕩平平室」이라 하고 常히 蕩平主義에 노력하니 前日에 激烈하던 黨爭은 점차 浸息에 至하얏다.
+
+六. 老論의 全盛과 黨派打破時期
+英正이후에 黨爭은 대개 緩和되얏스나 老論의 勢力이 依然이 강대한 中純, 憲, 哲諸時代에 至하야는 外戚의 老論이 정권을 좌우하야 비록 전일과 如한 慘劇은 見치 못하얏스나 他派가 政事를 간여치 못하야 李太王初年까지는 恰然히 老論의 천하와 如한 感이 잇섯다가 大院君이 攝政한 후로 일대 勇刀을 下하야 四色을 打破하고 공평이 登用하며 또 黨派 이외의 人도 역시 採用하게 되니 수백년간의 黨爭은 遂히 終幕을 고하게 되엿다. 그러나 合倂時期까지도 依然히 老論이 有勢한 것은 사실이니 佊所謂 76人의 貴族중에 少論이 僅히 7人 北人이 1人이고 其外는 그의 老論인 것을 見하야 또 可知할 것이다.
+
+丙. 黨爭의 社會上에 及한 影響
+각 시기의 黨爭이 政治에 如何한 악영향을 與한 것은 상술함과 如하거니와 사회 상에 及한 영향도 또한 다대하니 茲에 略論하면
+一. 一般 인심에 及한 영향  黨爭이 一般 人心에 악영향을 與함은 물론인 바 其中 현저한 事는 第一 社會 各階級을 互相離背케 하야 금일 一般 朝鮮人의 團合心의 缺乏을 馴致하고 第二, 自己黨派를 옹호함에만 열중한 고로 人物의 善惡, 忠逆의 標準 如何를 失하고 第三은 倫常을 파멸하얏스며(例如兄弟叔侄이 異色으로 分한 것)
+二. 學術 上에 及한 영향  黨爭은 결국 老少의 勝利로 歸한 중 老論은 少論보다 항상 勢力이 多하야 학식의 여하와 인물 여하를 불구하고 顯職을 取함이 拾芥와 如히 용이하얏스나 南人 北人은 일차 실각한 후로 다시 정계에 세력이 無함으로 자연 他方面으로 傾注하얏스니 就中 南人은 詩文, 書法 이외에 政治 經濟의 學術硏究에 전력하는 者가 多하야 柳馨遠의 磻溪隨錄, 李瀷의 星湖僿說, 丁若鏞의 牧民心書, 李重煥의 八域志, 其他 諸 學者의 명저가 有하게 되고 또 自由派의 文人學者가＜70＞ 배출한 결과로 당시 배척하던 佛敎, 道敎 등을 自由硏究하게 되엿스니 其中 天主敎가 南人의 手를 經하야 輸入되고 또 朝鮮에서 新興한 東學이 이 南人의 계통에서 起한 것은 大히 주목할 일이다. 此는 결국 儒學이 전혀 老論의 독점이 되고 仕寰의 진로가 老論이외에는 殆히 閉塞된 결과라 云할 것이다.
+三. 婚姻에 及한 영향  동일한 양반이라도 同色이 안이면 결혼치 안은 것은 常例이엿고 또 따라서 부득이 異色과 한다 하면 마치 班常이 相婚한 것이나 嫡庶가 相婚한 것과 如히 思하야 曰 某家는 落婚을 하얏느니 失色을 하얏느니 하고 互相排斥하얏다. 此風은 今에도 아즉까지 잔존하야 古老間에는 異色婚을 배척하는 風이 종종 잇다.
+
+丁. 各黨派의 特色과 及 地方的 分布
+南人 南夏正의 著한 桐巢漫錄에 의하면 四色은 각각 특색이 잇스니 즉 老論은 剛厲가 多하고 少論은 眞實이 少하고 小北은 色態를 好하고 東人(南人을 指함)은 柔善하고도 *함과 如하나 東士의 본색을 失치 안이 한다 하얏다. 이것이 과연 적합할지 不知하거니와 四色은 禮節 婚姻, 기타 생활의 환경이 各異한 까닭에 言語, 行動, 性格 등도 相異할 것은 사실이다. 그리고 甲午 이전까지는 黨派의 지방적 근거지가 各異하얏스니 즉 京城은 원래 首都인 까닭에 四色이 皆聚하얏고 慶尙道는 士林의 淵藪인 동시에 李退溪를 宗으로 한 柳西厓(成龍)가 南人巨頭로 安東에 잇는 까닭에 安東, 禮安을 중심으로 하야 慶尙一帶가 殆히 南人의 鄕과 如한 感이 잇고 忠淸道는 栗谷의 門人 西人 金長生이 連山에 잇섯고 其學派 宋時烈 宋浚吉이 懷德에 잇섯슴으로 連山, 懷德, 太田一帶는 其子孫 及 門徒의 西人이 만코, 論山(舊魯城)은 尹明齋의 本鄕인 고로 其附近에 少論이 多하고 京畿江原은 老少南人이 互居하고 黃海道 海州一帶는 李栗谷의 子孫과 其派의 西人이 多少잇섯다. 그리고 咸平兩道는 과거에 兩班이 稀少함으로  四色이 또한 別無하고 全羅道는 李朝中葉以後로 大官이 別無하고 士大夫家가 少함으로 鄭松江 金河西, 奇高峰 등 西人幾家외에는 별로 이럿타 할 집이 업섯다.(此는 南人 李重煥의 著한 八城志를 **함)⾀ˆ71＞
+黨派一覽
+＜72＞
+＜55-72＞

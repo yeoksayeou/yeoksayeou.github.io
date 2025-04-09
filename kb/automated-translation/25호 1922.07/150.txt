@@ -1,0 +1,68 @@
+**Header Section**
+Magazine Title: 개벽 제25호
+Publication Date: 1922년 07월 10일
+Article Title: 新嘉坡의 日本人 (Japanese People in Singapore)
+Author: 개벽사
+Article Type: 소식 (News/Dispatch)
+
+**Body Text Translation**
+Japanese People in Singapore
+						Kaebyŏk Publishing Company
+
+In Singapore (新嘉坡), there is a hospital run by Mr. Chin Wangch'ang (陈往昌氏) purely as a social enterprise. This hospital admits all patients free of charge, and it is said that quite a few Japanese people also benefit from this kindness. However, starting several years ago, as the rubber tree (護謨樹) cultivation business there was deemed quite promising, many Japanese capitalists invested, and along with this, the number of Japanese laborers surged, leading to a sharp increase in Japanese patients admitted to the Chin Hospital. Because of this, the hospital felt the need to expand its treatment facilities and solicited donations, but not a single Japanese person responded. As a result, it is said that Japanese people at that hospital now receive the lowest level of treatment, just like the native Malay people (馬來 土人). A certain Japanese person lamented the lack of public spirit among his compatriots. <103>
+
+**Summary**
+
+This news brief reports on the situation of Japanese nationals in Singapore in 1922. A hospital founded by Mr. Chin Wangch'ang provides free medical care to all, including a growing number of Japanese laborers and investors drawn by the rubber industry boom. Despite benefiting significantly from the hospital's charity, when it sought donations for expansion due to the influx of Japanese patients, not a single Japanese individual contributed. Consequently, Japanese patients began receiving the lowest standard of care, comparable to native Malays, prompting one Japanese individual to lament their community's lack of civic virtue. From a historical perspective, this article is interesting as it provides a Korean viewpoint (published in *Kaebyŏk*, a prominent Korean cultural magazine during the colonial period) on Japanese conduct overseas. It portrays the Japanese community in Singapore negatively, highlighting a perceived lack of gratitude and public morality, which contrasts sharply with Japan's imperial-era projection of itself as a modern and benevolent leader in Asia. Historians might find this useful for understanding inter-Asian perceptions during the colonial era and Korean critiques of Japanese character and behavior circulating at the time.
+
+**Named Entities**
+新嘉坡	신가파	Singapore
+陈往昌氏	진왕창씨	Mr. Chin Wangch'ang
+日本人	일본인	Japanese person/people
+日本	일본	Japan
+馬來 土人	마래 토인	Malay natives
+
+**Glossary**
+純然히	순전히	Purely, entirely
+社會事業	사회사업	Social enterprise, social work
+經營	경영	Management, operation
+一切	일체	All, everything (older form of 일절)
+患者	환자	Patient
+無料	무료	Free of charge
+收容	수용	Accommodation, admission
+恩	은	Kindness, grace, favor
+浴하다	욕하다	To bathe in, to receive (grace, favor)
+不少하다	불소하다	Not few, quite a number (less common now)
+護謨樹	호모수	Rubber tree (Gomu-su; archaic term using Hanja)
+栽培事業	재배사업	Cultivation business
+有望하다	유망하다	To be promising
+資産家	자산가	Capitalist, person of wealth
+投資	투자	Investment
+勞働者	노동자	Laborer (older spelling of 노동자)
+激增	격증	Sharp increase, surge
+治療	치료	Treatment, medical care
+擴張	확장	Expansion
+必要	필요	Need, necessity
+寄附金	기부금	Donation(s), contribution(s)
+募集	모집	Recruitment, collection (of funds)
+應하다	응하다	To respond, to comply
+結果	결과	Result, consequence
+最下級	최하급	Lowest rank/class
+待遇	대우	Treatment, reception
+同胞	동포	Compatriot, fellow countryman
+無公德心	무공덕심	Lack of public spirit/civic virtue
+哀嘆	애탄	Lamentation, grieving
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제25호
+발행일	1922년 07월 10일
+기사제목	新嘉坡의 日本人
+필자	개벽사
+기사형태	소식
+
+新嘉坡의 日本人
+						개벽사
+新嘉坡에는 純然히 社會事業으로 經營하는 陳往昌氏의 病院이 잇서 그 病院에서는 一切의 患者를 無料로 收容하는 中 日本人도 그 恩에 浴하는 者- 不少하다 한다. 그런데 數年 前부터 그곳의 護謨樹 栽培事業이 퍽 有望하다하야 日本의 資産家로서 投資하는 者가 多함과 共히 日本의 勞働者가 激增하며 陳病院에 收容되는 日人 患者가 激增하얏다. 該病院에서는 此를 因하야 病院의 治療를 擴張할 必要를 感하야 寄附金을 募集하얏는데 日人으로서 應한 者는 1名도 無하엿다. 그 結果로 該病院에서는 日人이라 하면 스스로 馬來 土人과 꼭가튼 最下級의 待遇를 受한다고 日人 某氏는 自己 同胞의 無公德心을 哀嘆.＜103＞

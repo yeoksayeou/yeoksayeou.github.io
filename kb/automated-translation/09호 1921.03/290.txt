@@ -1,0 +1,49 @@
+Magazine Title: 개벽 (開闢)
+Publication Date: 1921년 03월 01일
+Article Title: 正誤 (Correction)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Errata
+
+In the previous issue, page 100, within the second section of the piece titled 'The Beauty of Death,' the text "몃 사람의 부르지즘은 옛사람의 부르지즘," (Some people's bourgeoisism is the old people's bourgeoisism,), and at the end of the ninth section, the text "아! 1920年 10月 25日-" (Ah! October 25, 1920-), should be placed at the beginning of the tenth section, before the phrase 'to eliminate the noun 「弱者」(Weakling)'. <133>
+
+**Summary**
+
+This article is an errata notice correcting the placement of two text fragments within an article titled "The Beauty of Death" published in the previous issue (No. 8) of the *Kaebyŏk* magazine. It specifies that text mentioning "bourgeoisism" from section two and a date from the end of section nine should actually appear at the start of section ten. For historians, this notice provides a glimpse into the editorial practices and potential printing challenges of Korean magazines under Japanese rule. The specific content being corrected (mentioning 'bourgeoisism', 'weakling', and a date) might subtly indicate the sensitivity of certain topics or simply reflect common typesetting errors.
+
+**Named Entities**
+
+None identified
+
+**Glossary**
+
+正誤	정오	Correction, Errata
+前號	전호	Previous issue (of a magazine)
+頁	페이지	Page (Used with Sino-Korean numerals)
+題	제	Title, Subject
+節	절	Section, Clause, Verse
+몃	몇	Some, Several (Older spelling of 몇)
+부르지즘	부르주아즘	Bourgeoisism (Likely loanword transcription)
+末	말	End
+年	년	Year
+月	월	Month
+日	일	Day
+首	수	Beginning, Head, Start
+名詞	명사	Noun
+업시하고자의	없이하고자 하는 것의	Of the attempt to eliminate/get rid of (Older spelling/phrasing)
+先	선	Before, Prior to
+잇슬 것	있을 것	Should be, Will be (Older spelling of 있을 것)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제9호
+발행일	1921년 03월 01일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+前號 100頁 죽음의 美란 題의 二節 중 몃 사람의 부르지즘은 옛사람의 부르지즘, 九節末
+아! 1920年 10月 25日-은 十節의 首 「弱者」라는 名詞를 업시하고자의 先에 잇슬 것＜133＞

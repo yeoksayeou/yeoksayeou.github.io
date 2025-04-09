@@ -1,0 +1,53 @@
+Magazine Title: 개벽 제13호
+Publication Date: 1921년 07월 01일
+Article Title: 正誤 (Correction)
+Author: 黃錫禹
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Correction
+						Hwang Sŏk-u
+
+Regarding the text addressed to Hyŏn-gun of Saeng (生의 玄君) in the New Year issue, on page 113, top section, line 2, "Ueda" (上田) was a miswriting of "Inoue" (井上), and "Yabe" (矢部) was a miswriting of "Yatabe" (矢田部). We hereby correct this. <67>
+
+**Summary**
+
+This article is a brief correction notice written by Hwang Sŏk-u for the July 1921 issue of the magazine *Kaebyŏk*. It points out and rectifies transcription errors concerning two Japanese names (Inoue and Yatabe, mistakenly written as Ueda and Yabe) that appeared in a previous article from the New Year's issue, which was addressed to "Hyŏn-gun of Saeng". From the perspective of Korean colonial history, this notice highlights the intellectual engagement with Japanese figures or sources requiring accurate naming, even amidst the colonial context. It also underscores the editorial standards and attention to detail maintained by prominent Korean publications like *Kaebyŏk* during this period.
+
+**Named Entities**
+
+黃錫禹	황석우	Hwang Sŏk-u
+生	생	Saeng
+玄君	현군	Hyŏn-gun
+上田	うえだ	Ueda
+井上	いのうえ	Inoue
+矢部	やべ	Yabe
+矢田部	やたべ	Yatabe
+
+**Glossary**
+
+正誤	정오	Correction; Errata
+新年號	신년호	New Year Issue (of a publication)
+生	생	Life; Raw; Pen name used here
+玄君	현군	Mr. Hyŏn (term of address)
+與하다	여하다	To give; To provide; To address (older form, now 주다)
+가운대	가운데	Among; In the middle of (older spelling)
+頁	페이지	Page
+上段	상단	Upper section; Top part
+行	행	Line (of text)
+誤書	오서	Miswriting; Transcription error
+玆에	자에	Hereby; Herein (archaic/Hanja-based form of '이에')
+正誤함	정오함	We correct; Correction is made (formal statement ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	正誤
+필자	黃錫禹
+기사형태	사고·편집후기
+
+正誤
+						黃錫禹
+新年號에 生의 玄君에게 與한 글 가운대 113頁의 上段2行 「上田」은 井上 「矢部」는 矢田部라는 것의 誤書이기 玆에 正誤함.＜67＞

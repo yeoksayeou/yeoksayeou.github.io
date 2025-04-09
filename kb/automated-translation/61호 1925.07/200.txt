@@ -1,0 +1,59 @@
+Magazine Title: 개벽 제61호
+Publication Date: 1925년 07월 01일
+Article Title: 世界의 國家數와 其國軆 (The World's Number of Nations and Their Forms of Government)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+世界의 國家數와 其國軆
+(The World's Number of Nations and Their Forms of Government)
+
+Today on Earth, the total number of countries existing as independent nations or possessing elements equivalent to nations is 57. Among these, there are 3 autocratic monarchies, 16 constitutional monarchies, 2 constitutional grand duchies, 1 free city, 34 democratic republics, and 1 socialist communist state.
+
+From this, one can surmise that the forms of state (國軆) or forms of government (政軆) of the various countries and peoples living on this Earth are gradually progressing and renewing themselves, passing through the path from the primitive era (草昧時代) of autocratic monarchy to constitutionalism and republicanism. <86>
+
+**Summary**
+
+This 1925 article counts 57 independent or quasi-independent nations globally, categorizing them by government type: 3 autocratic monarchies, 16 constitutional monarchies, 2 grand duchies, 1 free city, 34 democratic republics, and 1 socialist state (likely the USSR). The author observes a clear historical progression from autocratic rule towards constitutional and republican forms of government. For historians studying Korean colonial history, this article is interesting as it reflects a Korean intellectual's awareness of global political trends and implicitly frames political development in terms of stages progressing towards democracy/republicanism, a potentially subtle commentary on Korea's own lack of sovereignty under Japanese rule.
+
+**Named Entities**
+
+地球	지구	Earth
+
+**Glossary**
+
+世界	세계	World
+國家數	국가수	Number of nations
+其國軆	기국체	Their forms of state (國軆 - *gukche*, system/nature of the state)
+地球	지구	Earth
+우에	위에	On; upon (Older spelling/form of 위에)
+獨立	독립	Independence
+國家	국가	Nation; Country
+要素	요소	Element; Factor
+總計	총계	Total count
+專制君主國	전제군주국	Autocratic monarchy
+立憲君主國	입헌군주국	Constitutional monarchy
+立憲大公國	입헌대공국	Constitutional grand duchy
+自由市	자유시	Free city
+民主主義共和國	민주주의공화국	Democratic republic
+社會主義共産國	사회주의공산국	Socialist communist state
+國軆	국체	Form/System/Nature of the state (Older term)
+政軆	정체	Form of government (Older term, now more common than 國軆 for this meaning)
+草昧時代	초매시대	Primitive era; Early stage of development
+立憲	입헌	Constitutionalism
+共和	공화	Republic; Republicanism
+道程	도정	Path; Course; Journey
+지내여	지내어	Passing through; Spending time (Older spelling/form of 지내어)
+새로워 나아가는	새로워 나아가는	Becoming new and advancing; Progressing and renewing (Slightly older phrasing)
+斟酌	짐작	Surmise; Infer; Guess
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제61호
+발행일	1925년 07월 01일
+기사제목	世界의 國家數와 其國軆
+기사형태	잡저
+
+世界의 國家數와 其國軆
+오늘 地球 우에 獨立으로 國家 또는 國家에 準할 要素를 形成하고 잇는 나라는 總計 57인대, 그 中에는 專制君主國이 3, 立憲君主國이 16, 立憲大公國이 2, 自由市가 1, 民主主義共和國이 34, 社會主義共産國이 1이다. 이로써 볼 지라도 이 地球 우에 사는 各國 各民族의 國軆 또는 政軆는 專制君主의 草昧時代로보터 立憲, 共和의 道程을 지내여, 그냥그냥 새로워 나아가는 것을 斟酌할 수 잇다. ＜86＞

@@ -1,0 +1,77 @@
+Magazine Title: 開闢 제1호
+Publication Date: 1920년 06월 25일
+Article Title: 謝告 (Apology Notice)
+Author: 開闢編輯室
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Apology Notice (謝告)
+
+In this inaugural issue of Kaebyŏk (本 開闢 創刊號), due to the aversion (忌諱) of the authorities (當局), the phrase "gold rice evil, jade powder" (금쌀악, 옥가루) at the end of the title [section] 'Force Omnipotence-ism' (力萬能主義), the last two lines of the 'Legend of Tan'gun' (檀君神話), the maxim following that in 'Maxims' (막시마쓰), the response to the earnest plea of the subject in 'The Lion' (사―자), the Chinese poem by Ch'ŏng'o-gun (靑吾君), the four lines following "Everyone is spring" (모도가 봄이다) in the novel 'Flowing Sail' (流帆), and the last two lines at the end of the 'Novel Summary' (小說槪要) title resulted in the inaugural issue being subjected to a ban on sale and distribution (發賣頒布의 禁止). Inevitably, after deleting the points of aversion (忌諱點), it came to be published as an extra issue (號外), naturally causing a delay (自然 時日이 遷延이 되엇사오니). Readers (讀者여러분), please forgive (恕諒하여 주옵소서) this situation.
+
+Kaebyŏk Editorial Office (開闢編輯室)
+
+Errata (正誤)
+
+In this extra issue, page 138 (本號外 一三八頁), in the 'Article on the P'yŏngje Pagoda' (平濟塔記事中), Hŭngwangsa (興王寺) should be Wanghŭngsa (王興寺).
+
+**Summary**
+
+This article is an apology notice from the editorial office of Kaebyŏk magazine to its readers. It explains that the inaugural issue faced censorship by "the authorities" (presumably the Japanese Government-General of Korea) due to several specific phrases and passages in different articles and sections. Consequently, the sale and distribution of the original first issue were banned. The magazine had to delete the offending content and release the issue as a delayed "extra issue" (號外). The notice lists the specific items that were censored, ranging from phrases in articles to lines from poetry, mythology, and fiction summaries. It concludes by asking for the readers' understanding regarding the delay and modifications. Historically, this notice is significant as direct evidence of Japanese colonial censorship practices targeting Korean publications in 1920. The detailed list of censored items offers valuable insight into what the colonial authorities considered sensitive or subversive, likely related to Korean nationalism (Tan'gun myth), potentially anti-authoritarian ideas ('Force Omnipotence-ism'), or specific literary expressions.
+
+**Named Entities**
+
+檀君神話	단군신화	Legend of Tan'gun
+靑吾君	청오군	Ch'ŏng'o-gun
+興王寺	흥왕사	Hŭngwangsa
+王興寺	왕흥사	Wanghŭngsa
+平濟塔	평제탑	P'yŏngje Pagoda
+當局	당국	The Authorities
+
+**Glossary**
+
+開闢	개벽	Kaebyŏk (Magazine name: "The Creation" or "The Dawn of a New World")
+謝告	사고	Apology Notice
+創刊號	창간호	Inaugural issue
+題末	제말	End of a title/heading section
+末段	말단	Final part/section
+格言	격언	Maxim, aphorism
+臣下	신하	Subject, retainer
+懇請	간청	Earnest plea, supplication
+漢詩	한시	Poem written in Chinese characters
+小說	소설	Novel
+槪要	개요	Summary, outline
+當局	당국	The authorities (often refers to the government)
+忌諱	기휘	Aversion, taboo, something disliked or forbidden (by authorities)
+因하야	인하여	Due to, because of (Older spelling of 인하여)
+發賣頒布	발매반포	Sale and distribution
+禁止	금지	Ban, prohibition
+當하고	당하고	To be subjected to, to face (often negative)
+할 수 업시	할 수 없이	Inevitably, unavoidably (Older spelling of 없이)
+削除	삭제	Deletion, removal
+號外	호외	Extra issue (of a publication)
+發行	발행	Publication, issuance
+時日	시일	Time, date, days
+遷延	천연	Delay, postponement
+되엇사오니	되었사오니	Because it became/happened (Older polite verb ending -사오-)
+讀者	독자	Reader
+事情	사정	Situation, circumstances
+恕諒	서량	Forgiveness, understanding (polite term)
+주옵소서	주옵소서	Please give/do (Older honorific/polite ending -옵소서)
+編輯室	편집실	Editorial office
+正誤	정오	Errata, correction
+記事	기사	Article
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제1호
+발행일	1920년 06월 25일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+本 開闢 創刊號 中力萬能主義의 題末에 「금쌀악, 옥가루」와 檀君神話의 末段 二行과 그 다음 「막시마쓰」의 格言과 「사―자」의 臣下의 懇請에 對한 答言과 靑吾君의 漢詩와 小說 流帆 中 「모도가 봄이다」의 다음 四行과 小說槪要 題末의 二行은 當局의 忌諱로 因하야 創刊號는 發賣頒布의 禁止를 當하고 할 수 업시 忌諱點을 削除하고 이를 號外로 發行하게되어 自然 時日이 遷延이 되엇사오니 讀者여러분은 이 事情을 恕諒하여 주옵소서.
+開闢編輯室
+正誤
+本號外 一三八頁 「平濟塔記事中」興王寺는 王興寺로.

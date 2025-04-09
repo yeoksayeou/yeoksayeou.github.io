@@ -1,0 +1,78 @@
+**Header Section:**
+Magazine Title: 개벽 제12호
+Publication Date: 1921년 06월 01일
+Article Title: 이런 훌륭한 이도 잇도다. (Such a Great Person Also Exists.)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation:**
+Such a Great Person Also Exists.
+
+It is generally known that the prosperity (隆盛) of ancient Greek (古代 希臘) Sparta (스파타) was based entirely (專혀) on King Lycurgus's (王族 리커꺼쓰) diligent enforcement (法則勵行) of the laws. According to tradition (傳), Lycurgus, about to implement (方場實行코저 하는) the laws he intended, promulgated them, summoned the people (國人), and explained, "Although this law (此法) is quite (자못) strict (嚴勵하야) and may be difficult to practice (行키 難할지나), I (余) will now travel around various countries (諸國을 巡歷하야) and inspect (視察한 後) their legal systems (法制). Upon my return (歸國하야), I will immediately (곳) revise it. Though it may be difficult (어려운대로), just observe (遵守) and do not violate (勿犯) this (此) until the time of my return (余의 歸國하는 때까지만)." Then, he finally (디듸어) hid himself (身을 隱하야) and never appeared again (다시 出現치 아니하얏다).
+
+His thought was that if the laws were implemented (實行하면), the nation (國家) would surely (반듯이) become strong and prosperous (强盛할 터인데). Worrying (慮하야) that the people (人民) might oppose (反對할가) before it could be fully established (成行하기도 前에), he used this strategy (此策을 用하고). It is said that he himself (自己는) alone (혼자) entered the mountains (山中에 入하야) and starved to death (餓死하얏다 한다). Indeed (果然), what a noble deed it is! (어떠케 거룩한 일인가.)<27>
+
+**Summary**
+
+This article recounts the story of Lycurgus, the legendary lawgiver of ancient Sparta. To ensure his strict laws, which he believed essential for Sparta's prosperity, would be followed without immediate opposition, Lycurgus made his people promise to obey them until his return from a journey. He then deliberately disappeared and starved himself to death, sacrificing his life so the laws would remain in effect permanently, thereby guaranteeing Sparta's strength. From the perspective of Korean colonial history, this article is interesting as it presents a foreign historical anecdote emphasizing extreme self-sacrifice for the perceived good of the state or collective. Historians might find it noteworthy as an example of the moralistic or didactic narratives prevalent in publications of the era, potentially used implicitly to inspire dedication or sacrifice among Koreans for a greater cause, albeit framed through a classical Western example rather than a Korean one.
+
+**Named Entities**
+
+希臘	그리스	Greece
+스파타	스파타	Sparta
+리커꺼쓰	리커거스	Lycurgus
+
+**Glossary**
+
+隆盛	융성	Prosperity, flourishing
+專혀	전혀	Entirely, completely (older spelling of 전혀)
+法則	법칙	Law, rule
+勵行	역행	Diligent practice, enforcement
+基함	기함	Being based on (older grammatical form)
+一般	일반	General public, common
+知하는 바이라	아는 바이다	What is known (older grammatical form and spelling)
+傳	전	Tradition, legend
+依하면	의하면	According to (older form)
+法令	법령	Law, decree
+頒布하여	반포하여	Promulgate and (older spelling/form of 하여)
+國人	국인	People of the country, citizens
+召하야	소환하여	Summon and (older spelling/form of 하여)
+說明하되	설명하되	Explain that... (connective form)
+此法	차법	This law (using Hanja 此 for 'this')
+자못	자못	Quite, very, considerably
+嚴勵하야	엄려하여	Being strict/severe (older spelling/form of 하여)
+行키	행하기	To practice, to implement (older nominalizing suffix 키 instead of 기)
+難할지나	난할지나	Although difficult (older form)
+余	여	I, me (archaic, formal pronoun)
+自今	자금	From now on
+諸國	제국	Various countries
+巡歷하야	순력하여	Travel around and (older spelling/form of 하여)
+視察한 後	시찰한 후	After inspecting
+歸國하야	귀국하여	Return to the country and (older spelling/form of 하여)
+곳	곧	Immediately, soon (older spelling of 곧)
+改正할 것이니	개정할 것이니	Will revise it, so...
+遵守勿犯하라	준수물범하라	Observe and do not violate
+디듸어	드디어	Finally, eventually (older spelling of 드디어)
+身을 隱하야	몸을 은하여	Hide oneself and (隱 = hide; older spelling/form of 하여)
+出現치 아니하얏다	출현치 아니하였다	Did not appear (older negative verb ending)
+반듯이	반드시	Surely, certainly (older spelling of 반드시)
+强盛할 터인데	강성할 터인데	Would become strong and prosperous, but...
+人民	인민	The people
+反對할가	반대할까	Might oppose (older spelling of ㄹ까 ending)
+慮하야	여하여	Worrying, being concerned (older spelling/form of 하여)
+此策	차책	This plan/strategy (using Hanja 此 for 'this')
+餓死하얏다 한다	아사하였다 한다	It is said that (he) starved to death (older past tense form)
+어떠케	어떻게	How (older spelling of 어떻게)
+거룩한	거룩한	Holy, sacred, noble
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제12호
+발행일	1921년 06월 01일
+기사제목	이런 훌륭한 이도 잇도다.
+기사형태	잡저
+
+이런 훌륭한 이도 잇도다.
+古代 希臘 「스파타」의 隆盛이 專혀 王族 「리커꺼쓰」의 法則勵行에 基함인 것은 一般이 知하는 바이라. 그런데 傳에 依하면 「리커꺼쓰」는 方場實行코저 하는 그 法令을 頒布하여 國人을 召하야 說明하되 此法이 자못 嚴勵하야 行키 難할지나 余가 自今諸國을 巡歷하야 諸國의 法制를 視察한 後 歸國하야 곳 改正할 것이니 어려운대로 余의 歸國하는 때까지만 此를 遵守勿犯하라 하고 그는 디듸어 身을 隱하야 다시 出現치 아니하얏다. 그의 생각에는 그 法則을 實行하면 國家는 반듯이 强盛할 터인데 成行하기도 前에 人民이 反對할가 慮하야 此策을 用하고 自己는 혼자 山中에 入하야 餓死하얏다 한다. 果然 어떠케 거룩한 일인가.＜27＞

@@ -1,0 +1,128 @@
+**Header Section:**
+Magazine Title: 개벽 第69號
+Publication Date: 1926년 05월 01일
+Article Title: 國際雜信 (International News Snippets)
+Author: Not specified
+Article Type: 소식 (News/Updates)
+
+**Body Text Translation:**
+International News Snippets
+
+The Recent Red Army
+The number of Red Army soldiers currently serving in Russia is 562,000, and reserves number 960,000, making the total deployable force in wartime 1,500,000.
+
+Disposal of the Former Russian Empress's Property
+The 20,000 acres of land in the Nizhny Novgorod (늬지늬-노보고로들란드) region formerly owned by the former Russian Empress became the property of the Soviet government after the revolution. This spring, it was publicly distributed to the local farmers, and a villa in the region belonging to a former Duke has been converted for use as an old people's home for farmers.
+
+Russia Becoming a Nation of Women
+According to a recent Russian census, the total population of European Russia is 95 million, among which the number of women exceeds the number of men by 5 million. The causes are said to be the effects of the Great European War,<79> the civil war, and the great famine of previous years. Also, the marriage rate is 80 per 10,000 people. What is particularly noteworthy is that the rate of remarriage is higher than the rate of first marriage, and marriages occur more often in autumn and winter than in spring and summer.
+
+Germany's Unemployment Relief
+The German Parliament has passed a bill to increase the relief funds provided to the unemployed from the current 40 million Marks to 200 million Marks, and subsidies for various industries and others aimed at relieving these unemployed from 60 million Marks to 100 million Marks. At the same time, it approved the expenditure of 1 million Marks for investigation costs to prevent accidents in mines. Recently, the number of unemployed in Germany is said to reach 2.2 million.
+
+America's Air Force Expansion
+Recently, in order to greatly expand its air force, the United States' House Military Affairs Committee passed a major Army aviation expansion bill. Over the next five years, the number of airplanes will be doubled to 2,200 (currently 1,030). Also, a dedicated Assistant Secretary of the Army will be appointed for aviation military administration, and 3 new aviation brigades, 400 aviation officers, and 6,000 aviation soldiers will be added. It is said that if this is implemented, the United States will become the world's sole leading air power nation.
+
+Astonishing Number of Korean Laborers Residing in Japan
+The number of Korean laborers who have gone to Japan reaches about 60,000 to 70,000 in the vicinity of Osaka City alone. According to a recent investigation by the Government-General, there are 110,200 males and 23,419 females, totaling 133,710 people. Among these, those residing as established households number 11,030 households, comprising 24,599 males and 11,349 females, totaling 35,948 people. Those not forming a household but residing in the same city, town, or village for three months or more number 54,800 males and 9,100 females, totaling 60,900 people. Others number 30,900 males and 2,800 females, totaling 33,700 people. Is this not astonishing? Does the fact that Korean laborers have increased that much in Japan not signify that Korean peasants have suffered bankruptcy to that extent? <80>
+<79-80>
+
+**Summary**
+
+This article presents several international news items from early 1926, covering the Soviet military size, redistribution of Tsarist property, demographic shifts in Russia due to war and famine, German unemployment relief measures, and American plans for air force expansion. The final, most detailed section focuses on the significant number of Korean laborers living in Japan (over 133,000 according to a Government-General survey), broken down by household status. The author expresses astonishment at this number, directly linking the migration of Korean laborers to Japan with the widespread bankruptcy of peasants in colonial Korea. For historians, the final section provides specific (though potentially official) figures on Korean migration to Japan during this period and explicitly voices the contemporary Korean perspective linking this labor migration directly to economic distress and dispossession within Korea under Japanese rule. The detailed breakdown of residency status (households vs. temporary) also offers insight into the nature of this migration.
+
+**Named Entities**
+
+赤衛軍	적위군	Red Army
+露西亞	노서아	Russia
+쏘베트政府	소베트 정부	Soviet Government
+늬지늬-노보고로들란드	늬지늬-노보고로들란드	Nizhny Novgorod
+歐羅巴露西亞	구라파노서아	European Russia
+獨逸	독일	Germany
+獨逸國會	독일 국회	German Parliament
+米國	미국	United States
+下院軍事委員會	하원 군사 위원회	House Military Affairs Committee
+日本	일본	Japan
+朝鮮	조선	Korea
+大阪市	오사카시	Osaka City
+總督府	총독부	Government-General
+
+**Glossary**
+
+雜信	잡신	Miscellaneous news; news snippets
+赤衛軍	적위군	Red Army
+現務	현무	Current situation; current service
+豫備兵	예비병	Reserve soldiers
+都合	도합	In total; altogether
+皇后	황후	Empress
+財産處分	재산 처분	Disposal of property
+所有	소유	Ownership
+되엿더니	되었더니	Became (older spelling/form of 되었다가)
+公配	공배	Public distribution
+別墅	별서	Villa; country house
+養老院	양로원	Nursing home; old people's home
+國勢調査	국세 조사	National census
+依하면	의하면	According to
+總人口	총인구	Total population
+多하다	다하다	To be many; numerous (older form, modern 많다)
+內亂	내란	Civil war
+飢饉	기근	Famine
+結婚率	결혼율	Marriage rate
+比例	비례	Ratio; proportion
+再婚	재혼	Remarriage
+初婚	초혼	First marriage
+失業者	실업자	Unemployed person
+救濟	구제	Relief; aid
+增額	증액	Increase in amount
+可決	가결	Passage; approval (of a bill)
+鑛山	광산	Mine
+防止	방지	Prevention
+調査費	조사비	Investigation cost
+支出	지출	Expenditure
+空軍	공군	Air force
+擴張	확장	Expansion
+下院	하원	Lower House (of parliament/congress)
+軍事委員會	군사 위원회	Military Affairs Committee
+倍加	배가	Doubling
+航空軍政	항공 군정	Aviation military administration
+專任	전임	Full-time; dedicated
+次官	차관	Vice-minister
+旅團	여단	Brigade
+將校	장교	(Military) Officer
+卒	졸	Soldier; private
+在留	재류	Residing; staying
+勞働者	노동자	Laborer (older spelling of 노동자)
+總督府	총독부	Government-General (of Korea under Japan)
+構成	구성	To constitute; form; compose
+居住	거주	Residence; residing
+同一市町村	동일 시정촌	Same city, town, or village
+破産	파산	Bankruptcy
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제69호
+발행일	1926년 05월 01일
+기사제목	國際雜信
+기사형태	소식
+
+國際雜信
+最近의 赤衛軍
+露西亞現務中에 잇는 赤衛軍數는 562,000人이요 豫備兵은 960,000인데 都合 戰時出征勢力이 1,500,000人이라고.
+
+舊俄皇后의 財産處分
+늬지늬-노보고로들란드 地方에 잇는 舊俄皇后의 所有이든 土地 2萬애커는 革命後에 쏘베트政府의 所有가 되엿더니 今春에 至하야 그 地方農民에게 公配하고 또 地方에 잇는 舊公爵의 別墅는 農夫의 養老院으로 使用하게 되엿다고.
+
+女國化한 露西亞
+最近 露西亞의 國勢調査에 依하면 歐羅巴露西亞의 總人口는 9,500萬인 中 女子의 數는 男子의 數보다 500萬名이 多하다는데 그 原因은 歐洲大戰과＜79＞ 內亂 及 往年의 大飢饉의 影響이라 하며 又 結婚率은 人口 1萬에 대하야 80의 比例가 되는 바 特히 注意할 것은 再婚의 率이 初婚率보다 多하고 結婚의 時期는 春夏보다 秋冬이 多한 것이다.
+
+獨逸의 失業者 救濟
+獨逸國會에서는 失業者에게 與하는 救濟資金은 現在 4千萬馬克을 2億馬克에 同失業者들 救濟하기 爲하는 諸工業 及 其他의 補助는 6千馬克을 1億馬克에 增額할 案을 可決하고 又 鑛山에는 事故를 防止하기 爲하야 調査費目으로 100萬馬克의 支出을 同時可決하얏는뎨 最近 獨逸의 失業者數는 220萬에 達한다 云한다.
+
+米國의 空軍擴張
+最近의 米國은 空軍을 大擴張하기 爲하야 그 下院軍事委員會에서 陸軍航空大擴張案을 可決하고 今後 5年間에 飛行機를 倍加하야 2,200臺(現地 1,030臺)로 하고 又 航空軍政을 爲하야 專任陸軍次官을 任命하야 新히 3個所의 飛行旅團, 飛行將校 400名, 飛行卒 6千名을 增加한다고 하는데 그것이 實行되면 米國은 世界에 唯一한 空軍國이 되리라고 한다.
+
+可驚할 日本에 在留하는 朝鮮勞働者 數
+日本에 가서 잇는 朝鮮人 勞働者는 大阪市 附近 만하야도 約 6,7萬人에 達한다는데 最近 總督府의 調査한 바에 依하면 男이 11萬200名, 女 2萬3,419名, 合計 13萬3,710名인데 其中 1戶를 構成하고 居住하는 者가 1萬1,030戶에 男 2萬4,599名 女 1萬1,349名, 計 3萬5,948名이고 1戶를 構成치 안코 三個月 以上 同一市町村에 居住하는 者가 男 5萬4,800名, 女 9,100名 計 6萬900名, 其他가 男 3萬900名, 女 2,800名 計3萬3,700名이라 한다. 이것이 엇지 놀납지 안이하냐. 朝鮮勞働者가 日本에 그만치 增加된 것은 朝鮮의 農民이 그만치 破産을 當한 것을 말함이 안이고 무엇이냐.＜80＞
+＜79-80＞

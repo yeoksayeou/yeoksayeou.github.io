@@ -1,0 +1,60 @@
+Magazine Title: 개벽
+Publication Date: 1935년 01월 01일
+Article Title: 特別社告 (Special Company Announcement)
+Author: 開闢社 編輯局 (Kaebyŏk Publishing Company Editorial Department)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Special Company Announcement**
+
+Our company, which publishes many publications each month, has intended for some time to unify the writing system according to the "Hangul Unification Plan" (「한글」統一案), but this too did not happen quickly, for which we felt sorry towards our readers. Now, since the publication of the *Kaebyŏk* (開闢) journal, preparations have reached a certain degree, and we already began implementation starting from the previous month's issue. Henceforth, we will make special efforts regarding the spelling rules, and we especially hope that all contributors and submitters will particularly understand this point and write according to the "Hangul Unification."
+
+Kaebyŏk Publishing Company Editorial Department <11>
+
+**Summary**
+
+This announcement from the Kaebyŏk Publishing Company informs readers that, after some delay, the company has begun implementing the standardized Hangul orthography ("Hangul Unification Plan") in its publications, starting with the previous issue of *Kaebyŏk* magazine. They apologize for the delay, pledge further effort in adhering to the new spelling rules, and request that contributors also adopt the unified system. For historians, this notice is interesting as it reflects the active efforts towards language standardization and modernization of written Korean under Japanese colonial rule, specifically the adoption of the 1933 Hangul Unified Orthography Plan (한글 마춤법 통일안), even by private publishers. It highlights the practical challenges and the gradual process of implementing such linguistic reforms.
+
+**Named Entities**
+
+開闢社	개벽사	Kaebyŏk Publishing Company
+編輯局	편집국	Editorial Department
+
+**Glossary**
+
+特別社告	특별사고	Special Company Announcement
+刊行	간행	Publication
+關하야	관하여	Regarding (Older spelling/form of 관하여)
+한글	한글	Hangul (Korean alphabet)
+統一案	통일안	Unification plan/proposal (Refers here to the Hangul Orthography Unification Plan of 1933)
+依하야	의하여	According to (Older spelling/form of 의하여)
+亦	역	Also
+速히	속히	Quickly (Older spelling of 속히)
+讀者 諸氏	독자 제씨	Readers (Honorific plural, older form)
+未安하였드니	미안하였더니	Was sorry (Older spelling/conjugation)
+以後로	이후로	Hereafter; From now on
+程度	정도	Degree; Extent
+準備	준비	Preparation
+前月號붙어	전월호부터	From the previous month's issue (Older spelling/particle usage of 전월호부터)
+임이	이미	Already (Older spelling of 이미)
+實行	실행	Implementation; Execution
+着手	착수	Commencement; Starting
+今後	금후	Hereafter; From now on
+綴字法	철자법	Orthography; Spelling rules
+寄稿	기고	Contribution (of manuscript)
+投稿	투고	Submission (of manuscript)
+諸位	제위	All of you (Honorific plural)
+諒解	양해	Understanding; Comprehension
+執筆	집필	Writing (a manuscript)
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제3호
+발행일	1935년 01월 01일
+기사제목	特別社告
+기사형태	사고·편집후기
+
+特別社告
+每月 많은 出版物을 刊行하는 本社는 그동안 文字에 關하야 「한글」統一案에 依하야 統一코자 하였으나 이 亦 速히 되지 않어서 讀者 諸氏에게 未安하였드니 이제 「開闢」誌를 刊行한 以後로 어느 程度까지 準備가 되여서 前月號붙어 임이 實行에 着手하였습니다. 今後로는 더욱 綴字法에 特別 努力하겠으며 特히 바라는 바는 寄稿 及 投稿하시는 諸位께서도 特히 이 點을 諒解하시고 「한글」統一에 依하야 執筆하여 주심을 바랍니다.
+開闢社 編輯局＜11＞

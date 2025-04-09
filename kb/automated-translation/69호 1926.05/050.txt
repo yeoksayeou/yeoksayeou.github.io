@@ -1,0 +1,147 @@
+**Header Section:**
+Magazine Title: 개벽 第六十九號
+Publication Date: 1926년 05월 01일
+Article Title: 最近赤露의 經濟狀態 (The Recent Economic State of Red Russia)
+Author: 金鐵山
+Article Type: 소식 (News/Report)
+
+**Body Text Translation:**
+The Recent Economic State of Red Russia
+						Kim Ch'ŏl-san
+
+In the middle of last month, a certain issue of the Chosŏn Ilbo carried a report stating, "...They are pessimistic about the economic situation of Red Russia." To be "pessimistic" about something implies its decline, destruction, and lack of prospects for development; it certainly does not imply prosperity. Of course, if one compares the current situation to before the war, it is true that there are still considerable differences. However, given that the world knows how much the global economy (not just Russia's) was destroyed from the outbreak of the Great European War until 1919-20, and furthermore, the extent to which the Red-White Civil War until 1921, the great famine, and the Allied blockade affected the Russian economy, the report claiming "pessimism" means that Russia's economic situation has regressed compared to the previous year or the year before that (1923) requires no further proof.
+
+Here, I intend to resolve the doubts of those asking, "Could that be true?" by presenting figures that provide the clearest evidence above all else.
+
+Agriculture. Comparing the total grain production over the past year to the pre-war level (1913), it reaches approximately 71%. Calculating this in monetary terms, it was 12 billion rubles at pre-war prices in 1913, and last year it was 9 billion rubles. As seen, it is significantly lower than before the war. However, compared to 1923, although the difference is small, the figures have somehow increased (in 1923, it was about 64%). According to the plans of various state planning bodies, it is expected to reach 87-88% in the new year.
+
+Industry. The total value of products from the entire industrial sector in 1913 was equivalent to 7 billion rubles. Last year, it was 5 billion rubles, which is 71% compared to the pre-war level. This year, it is projected to reach 6.5 billion rubles, or 95%. Considering it was 25% in 1922 and 53% in 1924, development here is relatively faster than in agriculture.
+
+Among this, private industry accounted for 24% of total industry in 1924 and 21% last year (in 1923, it was over 60%). As can be seen, the development of private industry lags significantly behind state industry. This, more than anything, shows the strengthening internal stability of the proletarian state.
+
+Labor wages had already reached an average of 50 won (compare to 95 won pre-war) last September.<26>
+
+Commerce. [Internal Trade] If the total flow of national commerce reached 20 billion rubles before the war, last year it was 14 billion, meaning it reached 71%. In 1923, it did not even reach 20%, and in 1924, it reached 50%. Here, private commerce, which accounted for 66% of all commerce in 1923, barely reached 35% in 1924 and 25% in 1925.
+
+[External Trade] Foreign trade is monopolized by the state. Taking 1913 as 100%, it reached 21% in 1924 and 26% last year (it was 14% in 1923).
+
+△ State Treasury. It has now been just two years since the highly volatile paper currency was withdrawn and new currency was issued (when the currency reform began). At the beginning of the reform implementation (April 1924), the total amount circulating nationwide was 293 million rubles, but by December last year, it had reached 1.269 billion rubles.
+
+To understand how much the ruble has hardened, comparing it to the dollar, initially 1 dollar was equivalent to 2 rubles and 20 kopecks, and now it is equivalent to 1 ruble and 94 kopecks.
+
+The economic situation of Red Russia up to last year is generally as described above. Although there may be differences in speed, the fact that the whole is developing is undeniable, and anyone would acknowledge that it has already arrived not far from the pre-war situation. Now, to finally resolve the issue regarding "pessimism," I will introduce the newly compiled state budget proposal for this year as a conclusion.
+
+This budget proposal, reaching nearly 4 billion, is almost the same as the pre-war one and has grown two and a half times compared to three years ago. Moreover, it is the first time since the revolution that it has been compiled without a deficit. This is, of course, because the state economy has progressed significantly and has almost reached the pre-war situation.<27>
+<26-27>
+
+**Summary**
+
+The article by Kim Ch'ŏl-san refutes reports pessimistic about the Soviet Union's ("Red Russia") economic situation in 1926. Using statistics from 1923-1925 compared to pre-war (1913) levels, the author argues that despite not fully reaching pre-war figures, the Soviet economy shows clear signs of recovery and growth in agriculture, industry, trade, and currency stability. The author highlights the faster growth of state-controlled industry and trade compared to the diminishing private sector as evidence of the proletarian state's strengthening, concluding that the economy is approaching pre-war levels and the latest budget shows significant progress. For historians of colonial Korea, this article is interesting as it reflects a Korean intellectual's positive assessment and detailed reporting on the Soviet economic model during a period of Japanese colonial rule. It shows an alternative ideological and economic system being actively discussed and presented favorably within the Korean press, potentially indicating socialist sympathies or interest among certain segments of the Korean population.
+
+**Named Entities**
+
+赤露	적로	Red Russia (Soviet Union)
+朝鮮日報	조선일보	Chosŏn Ilbo
+金鐵山	김철산	Kim Ch'ŏl-san
+歐洲	구주	Europe
+聯合國	연합국	Allied Nations
+딸나	달러	Dollar
+
+**Glossary**
+
+最近	최근	Recent; Lately
+赤露	적로	Red Russia (term for the early Soviet Union)
+經濟狀態	경제상태	Economic condition/state
+悲觀	비관	Pessimism
+衰退	쇠퇴	Decline; Decay
+餘望	여망	Prospect; Hope (Older term)
+興盛	흥성	Prosperity; Flourishing
+形便	형편	Situation; Circumstances (Older form of 형편)
+破壤	파양	Destruction; Ruin (Likely intended to be 파괴 破壞)
+大凶年	대흉년	Great famine year
+云云	운운	Quoting; Saying such and such; And so on
+證明	증명	Proof; Evidence
+要치 안는 것임니다	요치 않는 것입니다	Does not require (Older grammatical structure/spelling)
+證據	증거	Evidence; Proof
+疑惑	의혹	Doubt; Suspicion
+풀어 드리려 할니다	풀어 드리려 합니다	Intend to resolve/explain (Older grammatical ending)
+穀物	곡물	Grains; Cereals
+總額	총액	Total amount; Sum total
+略	략	Approximately; Roughly
+何如間	하여간	Anyway; In any case (Older spelling/form)
+數字	수자	Figure; Number (Older pronunciation/spelling, now 숫자)
+만하젓슴니다	많아졌습니다	Has increased; Became many (Older spelling/form)
+豫定	예정	Plan; Schedule
+達하리라	달하리라	Will reach; Expected to reach
+工業	공업	Industry
+業界	업계	Industrial world; Business sector
+生産品	생산품	Products; Manufactured goods
+가타엿슴니다	같았습니다	Was the same as; Was like (Older spelling/form)
+達하리라 할니다	달하리라 합니다	It is said it will reach (Older grammatical ending)
+짐작하면	짐작하면	Considering; Guessing; Judging from
+比較的	비교적	Relatively; Comparatively
+私有	사유	Private ownership
+占有	점유	Occupy; Possess; Account for
+프로레타리아	프롤레타리아	Proletariat
+內部	내부	Interior; Inside
+堅實	견실	Solid; Stable; Sound
+勞働賃金	노동임금	Labor wages (Older form, now 노동 임금)
+平均	평균	Average
+商業	상업	Commerce; Trade
+流動	유동	Flow; Circulation
+不及	불급	Not reaching; Falling short of
+私商	사상	Private merchants; Private trade
+貿易	무역	Trade (Foreign)
+獨占	독점	Monopoly
+國帑	국고	National treasury; State coffers
+動搖	동요	Shaking; Fluctuation; Instability
+紙幣	지폐	Paper money; Banknotes
+貨幣	화폐	Currency; Coinage
+改革	개혁	Reform
+實施	실시	Implementation; Enforcement
+通行	통행	Circulation (of currency)
+金額	금액	Amount of money
+구더진	굳어진	Hardened; Solidified (Older spelling/form)
+갓타여 젓솜니다	같아졌습니다	Became the same as; Became like (Older spelling/form)
+遲	지	Slow
+速	속	Fast
+分別	분별	Distinction; Difference
+何如間	하여간	Anyway; In any case (Older spelling/form)
+倒着	도착	Arrival (Older form of 도착 到着)
+是認	시인	Acknowledgement; Recognition
+마자	마저	Finally; As well; To the last
+解決	해결	Solution; Resolution
+編成	편성	Compilation; Formation (of a budget)
+收支豫算案	수지예산안	Revenue and expenditure budget proposal
+結論	결론	Conclusion
+紹介	소개	Introduction
+갓게 되엿스며	같게 되었으며	Became the same as; Became similar to (Older spelling/form)
+不足額	부족액	Deficit; Shortfall
+進步	진보	Progress; Advance
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제69호
+발행일	1926년 05월 01일
+기사제목	最近赤露의 經濟狀態
+필자	金鐵山
+기사형태	소식
+
+最近赤露의 經濟狀態
+						金鐵山
+지난달 中旬, 朝鮮日報 어느 號에 『...赤露經濟狀況을 悲觀한다더라.』는 報道가 잇섯슴니다. 무엇에 대하나 「悲觀」이라 함은 그의 衰退破壤와 또한 發展될 餘望이 업슴을 이름이오 決코 興盛을 이름은 안일 것임니다. 勿論, 至今 形便을 戰前과 比較하여 본다면 아즉도 差異가 不少하게 잇는 것은 事實임니다. 그러나 歐洲大戰이 일어난 後로 1919-20年까지에 世界經濟(非但 로시아)가 얼마나 破壤된 것과 더욱 21年까지의 赤白戰爭과 大凶年 及 聯合國封鎖가 얼마나 로시아 經濟에 影響을 주엇는 것을 世上이 다 아는 바인 以上, 「悲觀」한다는 云云의 報道가 로시아 經濟形便이 年前이나 23年 前보다 退步하엿다는 意味의 報道임은 더 證明을 要치 안는 것임니다.
+이에 무엇보다도 가장 明確히 證據를 서주는 數字를 들어 「그것이 事實일가?」하시는 이들의 疑惑을 풀어 드리려 할니다.
+農業. 지난 1年間에 生産된 穀物總額을 戰前(1913年)에 比하여 보면 略 71%가 됨니다. 金錢으로 이것을 計算하면 1913年에는 戰前價格으로 120億 루불이 되엿고 昨年에는 90億 루불이 되엿슴니다. 보는 바 戰前보다는 매우 못함니다. 그러나 1923年에 比하면 差異가 적으나마 何如間(23年에는 64%가량)數字가 만하젓슴니다. 國家 各 計劃相關의 豫定에 依하면 新年에는 87, 8%에 達하리라 함니다.
+工業. 1913年 工業界全體의 生産品總額은 70억루불과 가타엿슴니다. 昨年에는 50억 루불 卽 戰前에 比하면 71%가 되엿슴니다. 今年에는 65億 루불 즉 95%에 達하리라 할니다. 1922年에 25%, 1924年에 53%가 되엿던 것을 짐작하면 여긔에는 發展이 農業보다 比較的 速함니다.
+이 中에서 私有工業은 1924年에 工業全體의 24% 昨年에는 21%를 占有하엿슴니다. (1923年에는 60% 以上이엇슴) 보는 바 私有工業은 發展이 國家工業보다 매우 떨어짐니다. 이것이 무엇보다도 가장 프로레타리아 國家 內部가 堅實하여감을 보이는 것임니다.
+勞働賃金은 지난 9月에 벌서 平均 50원(比戰 前 95원)에 達하엿슴니다.＜26＞
+商業. 〔內商〕戰前에 全國商業의 流動이 200億 루불에 達하엿다면 昨年에는 140億 이엇스니 卽 71%가 되엿슴니다. 23年에는 20%에도 不及하엿고 24年에는 50%에 達하엿섯슴니다. 여긔에셔 私商은 23年에는 商業 全部의 66%를 占有하엿던 것이 24年에는 35%, 25年에는 25%가 겨우 되엿슴니다.
+外商 外國과의 貿易은 國家에서 獨占하엿슴니다. 1913을 100%로 잡으면 24年에는 21%, 昨年에는 26%, (23年에는 14이엇슴)에 達하엿슴니다.
+△ 國帑. 動搖가 甚하던 紙幣는 거두고 새로 貨幣를 내인지 (貨幣改革을 始作한) 이제 겨우 2年이 되엿슴니다. 改革實施初(24年 4月)에는 全國에 通行되는 金額이 2億 9,300萬 루불이던 것이 昨年 12月에 와서는 12億 6,900萬 루불에 達하엿슴니다.
+루불이 얼마나 구더진 것을 알기 爲하여 딸나와 比較하여 보면 처음에는 1딸나가 2루불 20꼬뻬크와 가타엿고 至今에는 1루불 94꼬뻬크와 갓타여 젓솜니다.
+
+지난해까지의 赤露經濟形便은 大略 우와 갓슴니다. 遲와 速의 分別은 잇스려니와 何如間 全體로 發展되는 것은 事實이며 벌서 戰前形便에 不遠하게 倒着하엿슴도 누구나 다 是認할 것임니다. 이제 「悲觀」에 대한 問題를 마자 解決하기 위하여 今年에 새로 編成된 國家收支豫算案을 結論代로 紹介하려 함니다.
+이 가티 近 40억에 達하는 豫算案은 戰前의 것과 거의 갓게 되엿스며 3年 前보다는 2倍 半이나 자랏슴니다. 그러고 革命 後 처음으로 不足額이 업시 編成되엿슴니다. 이것은 勿論 國家經濟가 매우 進步되며 거의 戰前形便에 達하게 되엿는 까닭임니다.＜27＞
+＜26-27＞

@@ -1,0 +1,41 @@
+Magazine Title: 개벽 제62호
+Publication Date: 1925년 08월 01일
+Article Title: 만화 (Cartoon)
+Author: None specified
+Article Type: 만화 (Cartoon)
+
+No body text provided for translation. The entry indicates a cartoon spanning pages 112-114.
+
+**Summary**
+
+This entry refers to a cartoon published in issue 62 of the magazine *Kaebyŏk* on August 1, 1925. The content of the cartoon, which appeared on pages 112-114, is not provided in the input text. Without the visual and textual content of the cartoon, its specific subject matter and message cannot be determined. However, cartoons in *Kaebyŏk* during this period often contained social or political commentary, sometimes subtly critiquing colonial conditions or depicting aspects of modern life and change in Korea. Historians might find the *existence* of this cartoon notable as part of the visual culture and public discourse represented in *Kaebyŏk*, a significant intellectual and cultural magazine of the 1920s in colonial Korea. Accessing the actual cartoon would be necessary for further analysis.
+
+**Named Entities**
+
+None found in the provided text.
+
+**Glossary**
+
+잡지명	잡지명	Magazine title
+개벽	개벽	Kaebyŏk (Name of the magazine, meaning "Genesis" or "The Opening of the World")
+제	제	Prefix for ordinal numbers (e.g., 제62호 - Issue No. 62)
+호	호	Issue (of a magazine or newspaper)
+발행일	발행일	Publication date
+년	년	Year
+월	월	Month
+일	일	Day
+기사제목	기사 제목	Article title
+기사형태	기사 형태	Article type
+만화	만화	Cartoon, Manhwa
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제62호
+발행일	1925년 08월 01일
+기사제목	만화
+기사형태	만화
+
+만화
+＜112-114＞

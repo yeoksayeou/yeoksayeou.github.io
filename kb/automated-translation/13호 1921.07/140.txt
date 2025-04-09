@@ -1,0 +1,335 @@
+Magazine Title: 개벽 제13호
+Publication Date: 1921년 07월 01일
+Article Title: 點句法 (Punctuation Method)
+Author: 在上海 金永昌 (Kim Yŏngch'ang in Shanghai)
+Article Type: 논설 (Editorial/Essay)
+
+點句法
+						在上海 金永昌
+Though my humble learning and shallow views might make it seem presumptuous to dare take up the brush under the title "Punctuation Method" (點句法), I trust in the generous hearts of you, the readers, to overlook this and offer corrections. Though it may not be fully comprehensive, I wish to frankly state my beliefs as follows.
+
+I. Punctuation Method (點句法)
+
+The Punctuation Method refers to the places where we often pause when speaking. If we are to express our speech through writing, the location of such pauses must necessarily be indicated with symbols. We call the act of indicating these pauses (頓挫) with appropriate symbols the Punctuation Method.
+Commonly used symbols are as follows:
+1. 『。』 Circle (圈) - Used at the longest pause.
+2. 『’』 Comma (逗點) - Indicates the shortest pause.
+3. 『：』 Colon (支點) - Divides a sentence into several parts, placing one colon after each part.
+4. 『；』 Semicolon (半支點) - Indicates a pause shorter than a colon but longer than a comma.
+5. 『?』 Question Mark (問號) - Indicates a question.
+6. 『!』 Exclamation Mark (感歎號) - Used for exclamatory or surprising phrases.
+7. 『『』』 Quotation Marks (引號) - Encloses quoted phrases.
+8. 『()』 Parentheses (括號) - Used to enclose words or phrases that are not related to other parts of the sentence.
+9. 『-』 Dash (竪線) - Used where the meaning is suddenly interrupted.
+10. 『―』 Linking Line (連結線) - This is drawn next to a noun to indicate it is a noun.
+11. 『…』 Ellipsis (虛點) - Indicates endless thought.
+
+II. Circle (。)
+
+The Circle indicates the completion of a sentence's meaning—provided the sentence is not a question or an exclamation.
+Example: My son is reading over there. Every day, many small birds fly to my garden and let me hear their lovely tunes.
+
+III. Comma (’)
+
+The comma should be used wherever there is even the slightest pause <85> within a phrase, except where the meaning of words is closely connected.
+Example: If it rains today, I cannot go to school. The function of books, simply put, can be called the symbols of the thoughts and actions of ancient people.
+When two or more words of the same type are together and not connected by conjunctions (like 와, 과, 하고, 하며, 而, 和,...etc.), they should be separated by commas.
+Example: Sŏji, Sŏryŏn are sisters. China, Japan, Seora (西羅) are all in Asia. Rural life is truly fresh, clean, free. His character is humble, harmonious, sincere, and diligent.
+If a sentence speaks of two matters that are entirely opposite, they should be separated by a comma in the middle.
+Example: You work, and he rides the horse. In the world, sages are few, and rebellious subjects and treasonous sons are many.
+When writing several pairs of contrasting words consecutively, a comma is usually placed after each pair.
+Example: Cold and damp, hunger and thirst, are conditions hard for people to bear. Whoever it may be, man or woman, old or young, propertied or proletarian, all who come here will enjoy equal happiness.
+Besides these, commas are also used within long sentences, after terms of address, and before quoted words, etc., but as these are not particularly necessary, explanations are omitted here.
+
+IV. Colon (略) [Omitted]
+
+V. Semicolon (略) [Omitted]
+
+VI. Question Mark (?)
+
+The Question Mark should be placed at the end of an interrogative sentence.
+Example: Who are you? What did you come here for?
+
+VII. Exclamation Mark (!)
+
+The Exclamation Mark expresses a certain strong emotion when we speak, such as 'Anger', 'Fear', 'Surprise', 'Admiration', or other intense feelings.
+Example: Ah—it's raining so much! Ah—the joys and sorrows of life!
+
+VIII. Quotation Marks (『』)
+
+Quotation Marks are used to indicate that the phrase enclosed within the marks is borrowed from elsewhere; a pair should be placed before and after the quoted phrase.
+Example: The ancient saying, 『For women, lack of talent is virtue,』 did much to bury the personhood of women. What we must know is, 『Ideals are the mother of reality,』 so we should always <86> harbor a noble ideal in our hearts.
+Even if the quoted material consists of only one or two characters and does not form a complete phrase, quotation marks are still used.
+Example: In the conversation between Mr. Chang and Mr. Yi, the two words 『friendship (親善)』 were never uttered, and in reality, it became the 『opposite (反比例)』.
+If there is a quote within a quote, single and double quotation marks should be used to distinguish them.
+Example: A child said to their mother, 『Mother, earlier Father told me, 「Tomorrow, don't go out; I'll buy you a ball to play with,」 so I'm very happy.』
+
+IX. Parentheses (())
+
+Parentheses are used to enclose characters, phrases, clauses, or sentences; the enclosed words or phrases have no close connection (聚接한 關係) to the adjacent words or phrases.
+Example: Poktong (namely my beloved child) held a Western harp (洋琴) in his hand. I (the writer referring to himself) strongly agree with the issue of 『Women's Liberation (婦女解放)』.
+Note: Sometimes dashes are used where parentheses would be appropriate. (Refer to Section 10, Paragraph 4)
+
+X. Dash (-) [lit. Vertical Line 竪線]
+
+A dash is used where the meaning or structure (作法) of a sentence suddenly changes.
+Example: Look here—but it surely won't be there. If I had no work today, I would come—ah, I forgot! Didn't Mr. Chang ask me to come yesterday?
+A dash is also used to indicate hesitant speech.
+Example: That—is a—a—thief. A beggar entered a narrow alley from the crossroads, muttering to himself... 『I must go in and eat—I have to eat—but what should I eat?』
+Note: Ellipses can also be used for hesitant speech. (Refer to Section 12, Ellipsis)
+Example: A child lost on the road hesitated there, saying vaguely...『Where should I go... where... where should I go?』
+A dash should also be used where repetition or restatement is used for clarification.
+Example: He tells me of his experiences—his experiences studying abroad in America <87> and then gaining practical experience in a factory after graduation.
+When a sentence or phrase is inserted into another sentence, dashes are usually placed before and after the inserted phrase.
+Example: The hat that person bought—the one made of fur—was very cheap. The head of an old-style family is like a monarch within the house—hence called a monarch.—His imposing air is enough to make people afraid.
+
+XI. Linking Line (―)
+
+The Linking Line connects several characters to indicate a noun or a proper noun—often used for names such as countries, mountains, rivers, people, eras, historical events, buildings, books, chapters, sections, sciences, companies, ideologies, constellations, holidays, schools, shops, factories, government offices, etc.
+Example: Russo-Japanese War (日露戰役, historical event), Kuan Chü (關雎), Chou Nan (周南, section/chapter names), Great Wall (萬里長城), Pyramid (金字培[sic], building), First Day of the First Month (元月元旦), Christmas (耶穌誕, holiday), Tan'gun (檀君), Kija (箕子), Samhan (三韓, eras), Democracy (떼모크라시, ideology), Indestructibility of Matter (物質不滅, scientific definition)...etc.
+Note: The Linking Line is placed vertically beside the characters and is entirely different from the Dash (竪線) mentioned in Section 10.
+For nouns like books, chapters, sections, sciences, ideologies, etc., sometimes `-` is used, but this is just one type of Linking Line; though the form is different, the usage method is the same.
+
+XII. Ellipsis (…) [lit. Empty Dots 虛點]
+
+Ellipses are sometimes used for hesitant or intermittent speech.
+Example: Should I do it this way... or should I do it that way...? A pitiful student pleaded with a cruel teacher... 『I won't... won't... won't do it again, so please spare... spare... spare me.』 Even after saying this, his teeth were still chattering.
+When unable to mention many things at once, or when listing everything would be too cumbersome, ellipses are used to indicate the unstated meaning.
+Example: Manmulch'o (萬物肖), Yujŏmsa Temple (楡站寺), Manp'oktong Valley (萬瀑洞), ... depict the scenic beauty of Kŭmgang Mountain! It has now been 3 years since our nation's spirit awakened. I hope that for 4 years, 5 years, 6 years, ... for tens of thousands of years, we will forever be an honorable nation respected by the world. <88>
+When stating or quoting a fact that is too lengthy, some words or phrases at the beginning, end, or middle may be omitted, and ellipses are used to indicate the omitted part.
+Example: In the treatise on education written by a certain gentleman, the phrase 『... Education in Chosŏn must be reformed... 』 is not the least bit wrong. 『"The swallows fly about..." (燕燕于飛...) "...Tears fall like rain." (泣涕如雨,)』 This poem aptly describes the psychology of Chuang Chiang (莊姜).
+When speech stops abruptly before completion, or is interrupted by another person, ellipses are used to indicate the unfinished tone.
+Example: When a baby is sleeping in its cradle, its eyes are drowsy, and with a low, muffled (너흔) voice from within its mouth, it says "Ajae ajae," then gradually the sound becomes fainter, and it falls completely asleep. When Napoleon was crossing the Alps in one day to attack Italy, the soldiers were all afraid. Napoleon asked, 『Can you cross that mountain?』 A general replied, 『We can cross it, but... 』 Napoleon, without time to listen to his words, shouted the command 『Forward』 and immediately advanced up the mountain. <89>
+
+**Summary**
+
+This 1921 article by Kim Yŏngch'ang, writing from Shanghai, provides a systematic guide to using various punctuation marks in Korean writing. It introduces marks like the period (圈), comma (逗點), colon (支點), semicolon (半支點), question mark (問號), exclamation mark (感歎號), quotation marks (引號), parentheses (括號), dash (竪線), a unique "linking line" (連結線) for proper nouns, and the ellipsis (虛點), explaining the function and usage of each with examples. The article reflects an early effort during the colonial period to standardize written Korean by adopting and adapting punctuation conventions, likely influenced by Western and possibly Chinese practices, to enhance clarity and expressiveness in the written language. Historians might find it interesting for its documentation of the specific terminology and rules being proposed for Korean punctuation at this time, the author's location in Shanghai (suggesting influences from the expatriate intellectual community), and the explicit differentiation between a dash and a separate mark (連結線) used specifically for highlighting proper nouns, a practice less common today.
+
+**Named Entities**
+
+上海	상해	Sanghae
+金永昌	김영창	Kim Yŏngch'ang
+中國	중국	Chung'guk (China)
+日本	일본	Ilbon (Japan)
+西羅	서라	Seora (Likely intended as Silla (新羅))
+亞洲	아주	Aju (Asia)
+美國	미국	Miguk (America/USA)
+張君	장군	Mr. Chang
+李君	이군	Mr. Yi
+福童	복동	Poktong
+拿破崙	나폴레옹	Nap'oryun (Napoleon)
+意太利	이태리	It'aeri (Italy)
+알프쓰山	알프스산	Alp'ŭssŭ San (Alps Mountains)
+金剛山	금강산	Kŭmgang San (Kumgang Mountain)
+萬物肖	만물초	Manmulch'o
+楡站寺	유점사	Yujŏmsa
+萬瀑洞	만폭동	Manp'oktong
+朝鮮	조선	Chosŏn (Korea)
+燕燕于飛	연연우비	Yŏnyŏn Ubi (Quote from Chinese classic)
+泣涕如雨	읍체여우	Ŭpche Yŏu (Quote from Chinese classic)
+莊姜	장강	Chang Kang
+日露戰役	일로전역	Illo Chŏnyaek (Russo-Japanese War)
+關雎	관저	Kwanjŏ (Section/poem from Book of Odes)
+周南	주남	Chunam (Section/poem from Book of Odes)
+萬里長城	만리장성	Manri Changsŏng (Great Wall of China)
+金字塔	금자탑	Kŭmjat'ap (Pyramid - Note: Original uses 培 instead of 塔)
+元月元旦	원월원단	Wŏnwŏl Wŏndan (New Year's Day)
+耶穌誕	예수탄	Yesutan (Christmas)
+檀君	단군	Tan'gun
+箕子	기자	Kija
+三韓	삼한	Samhan
+떼모크라시	떼모크라시	Ttemok'ŭrasi (Democracy)
+物質不滅	물질불멸	Mulchil Pulmyŏl (Indestructibility of Matter)
+
+**Glossary**
+
+點句法	점구법	Punctuation method
+蔑學淺見	멸학천견	My humble learning and shallow views (Polite self-deprecation)
+敢히	감히	Daringly, presumptuously
+讀者	독자	Reader
+所信	소신	Belief, conviction
+披瀝	피력	To express frankly, state candidly
+停頓	정돈	Pause, stop
+記號	기호	Symbol, mark
+頓挫	돈좌	Pause, setback (here, referring to pauses in speech)
+圈	권	Circle (Used for period mark 。)
+逗點	두점	Comma (Used for comma mark ’)
+支點	지점	Colon (Used for colon mark :)
+半支點	반지점	Semicolon (Used for semicolon mark ;)
+問號	문호	Question mark (?)
+感歎號	감탄호	Exclamation mark (!)
+引號	인호	Quotation marks (『』)
+括號	괄호	Parentheses (())
+竪線	수선	Vertical line (Used for dash mark -)
+連結線	연결선	Linking line (Used to mark proper nouns ―)
+虛點	허점	Empty dots (Used for ellipsis …)
+終了	종료	End, completion
+許多	허다	Many, numerous
+緊接	긴접	Closely connected
+連接字	연결자	Conjunction
+姊妹	자매	Sisters
+品性	품성	Character, personality
+謙恭	겸공	Humble and respectful
+和愛	화애	Harmony and love, amicable
+勤勉	근면	Diligent, industrious
+相反	상반	Opposite, contrary
+亂臣賊子	난신적자	Rebellious subjects and treasonous sons
+成對的	성대적	Paired, corresponding
+稱謂的	칭위적	Of address (terms of address)
+包括	포괄	To include, encompass
+突然	돌연	Suddenly, abruptly
+中斷	중단	Interruption, suspension
+無窮	무궁	Endless, infinite
+憤怒	분노	Anger, rage
+恐怖	공포	Fear, terror
+驚奇	경기	Surprise, amazement
+讚美	찬미	Praise, admiration
+埋沒	매몰	To bury, suppress
+恒常	항상	Always, constantly
+高尙	고상	Noble, lofty
+母親	모친	Mother
+來日	내일	Tomorrow
+聚接	취접	Close connection (Possibly archaic or specific usage for 'connection')
+作法	작법	Method, style, structure
+變換	변환	Change, transformation
+躕躇	주저	Hesitation
+語氣	어기	Tone of speech
+彷彿	방불	Vaguely, seemingly
+復述	복술	Repetition, restatement
+經歷	경력	Experience
+留學	유학	Studying abroad
+卒業	졸업	Graduation
+實習	실습	Practical training, internship
+揷入	삽입	Insertion
+君主	군주	Monarch
+氣焰	기염	Imposing air, domineering presence
+專有名詞	전유명사	Proper noun
+傍邊	방변	Side, beside
+竪	수	Vertical
+斷續	단속	Intermittent
+哀乞	애걸	Pleading, begging
+殘忍	잔인	Cruel
+齒牙	치아	Teeth
+煩雜	번잡	Complicated, troublesome
+不盡	부진	Endless, unstated
+民族	민족	Nation, people, ethnic group
+榮譽的	영예적	Honorable
+陳述	진술	Statement, narration
+張皇	장황	Lengthy, exaggerated
+首尾	수미	Beginning and end
+略去	약거	Omission
+心理	심리	Psychology, state of mind
+形容	형용	To describe, depict
+搖籃	요람	Cradle
+몽농하며	몽롱하며	Being drowsy/blurry (Older verb form)
+너흔	넣은/낮은?	Muffled/low (Context suggests low or muffled voice; archaic/unclear form)
+細微	세미	Faint, minute
+餘暇	여가	Leisure, spare time
+號令	호령	Command, order
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	點句法
+필자	在上海 金永昌
+기사형태	논설
+
+點句法
+						在上海 金永昌
+余의 蔑學淺見이 무엇을 아노라 敢히 『點句法』이니 하고 붓대를 들믄 一見 唐突한 듯하나 이는 讀者 여러분의 寬厚하신 마음으로 눌러 보시고 또 고처 주실 줄 밋삽고 비록 具備치 못하나마  알에와 가티 余의 所信한 바를 披瀝하나이다.
+
+一. 點句法
+點句法이란 吾人의 說話할 時間에 中間에 가끔가끔 停頓할 곳이 잇나니 만일 文字로써 吾人의 語言을 發表할진대 이러한 停頓의 所在엔 반듯이 記號로써 表示하야만 될 것이다. 吾人이 適當한 記號로써 이러한 頓挫를 表示함을 點句法이라 稱함.
+商用的 記號는 如左함.
+1. 『。』 圈     이는 停頓의 最長한 곳에 用함.
+2. 『’』 逗點   이는 最短한 停頓을 표시함.
+3. 『：』 支點   一句話를 幾部分에다 分作하고 一部의 後에 一個 支點을 둠.
+4. 『；』 半支點 이는 支點보다 短하고 逗點보다 長한 停頓을 표시퓀¨.
+5. 『?』 問號   疑問을 表示함.
+6. 『!』 感歎號 感歎, 驚異한 語句에 用함.
+7. 『『』』 引號   引用한 語句에 引號로써 包括함.
+8. 『()』 括號  字句를 包括함에 그 字句가 句中 他部와 不相關한 곳에 用함.
+9. 『-』 竪線   意義가 突然 中斷한 곳에 用함.
+10. 『―』 連結線 이는 名詞를 表示키 爲하야 名詞 엽헤다 긋는 것임.
+11. 『…』 虛點   無窮한 意思를 表示함.
+
+二. 圈
+
+圈은 一句話의 終了한 意思를 表示함이니-그 句話가 問語가 아니고 또 感歎語가 아님을 要함.
+例컨대 나의 아들이 저긔서 글을 읽는다. 날마다 許多한 작은 새가, 나의 花園으로 날아와서, 조흔 曲調를 내게 들려준다.
+
+三. 逗點
+
+逗點이란 語句內에 字義緊接한 곳을 除하고는 무릇＜85＞ 極少한 頓挫가 有하면 고칠 것이다.
+例컨대 오늘 만일 비가 오면, 學校에 못가겟다. 書籍의 作用은, 簡單히 말하면, 古人의 思想 行爲의 符號라 할만하다.
+兩個 또는 兩個이상 同類인 字語가 한곳에 잇고 中間에 連接字(와, 과, 하고, 하며, 而, 和,...等字)로써 連接치 아니하면 逗點으로써 一一이 분리할지니
+例컨대 瑞芝, 瑞蓮은 姊妹니라. 中國, 日本,  *羅는 모다 亞洲에 잇다. 農村生活은, 참으로 新鮮, 潔淨, 自由이다. 彼의 品性이 謙恭, 和愛, 誠實 또 勤勉하다.
+一句話가 兩件事를 말하매 全혀 相反한 境遇이면 中間에다 逗點으로써 分離할지니
+例컨대 너는 일을 하고, 彼는 말을 달린다. 世上에 聖賢이 적고, 亂臣賊子가 만하다.
+成對的 字語에 連續히 몃가지 對話를 쓰는 境遇이면 每對下面에 항용 一個 逗點을 칠지니
+例컨대 冷과 濕, 飢와 渴은, 사람의 참기 어려운 事情이다. 어떠한 사람이던지, 男子나 女子나, 늙은이나 젊은 이나, 有産者나 無産者나, 모다 여긔 오면, 同等의 幸福을 누릴 것이다.
+이외에도 長句 裡面, 稱謂的 後面 及 引用語的 前面 等에 쓰는 일도 잇스나 別로이 必要가 업겟기에 이에 對한 說明을 略함.
+
+四. 支點(略)
+
+五. 半支點(略)
+
+六. 問號
+
+問號는 問句 終點에 칠지니
+例컨대 當身 누구시요? 무엇하러 오셧소?
+
+七. 感歎號
+
+感歎號는 吾人이 說話함에 一種 『憤怒』『恐怖』『驚奇』『讚美』 或은 別種 極烈한 情感을 表示함.
+例컨대 아-비도 만히 온다! 아-人生의 苦樂이어!
+
+八. 引號
+
+記記號內에 包在한 語句가 딴 곳에서 빌어옴을 表示함에 引號를 쓰나니 引用的 語句 前後에다 一對를 作할 것이라.
+例컨대 古人이 말하되 『女子無才便是德,』이라 함은, 女子人格을 埋沒함이 적지 안토다. 우리가 맛당히 알아 둘 것은. 『理想爲事實之母,』라니, 恒常 一個 高尙한 理想을 心中에 ＜86＞품을 것이다.
+引用語에 또 1, 2個字가 잇고 完全한 語句가 되지 못한 境遇이라도 引號는 依前히 쓰나니
+例컨대 張君과 李君間 說話함에, 도모지 『親善』 2字는 입밧게 내지안코, 實際상 돌이어『反比例』가 된다.
+引用語內에 거듭 引用語가 有하면 單線引號와 複線引號로써 區別할지니
+例컨대 한 아이가 저의 母親을 對하야 말하되 『어머니, 아까 아버지가 나더러, 「來日은 나가지 말고 놀라고 공을 사다 준다,」하시니, 매우 깃버요.』
+
+九. 括弧
+
+括弧는 字, 仂語, 子句, 或 句를 包括함에 用하나니 包括한 字, 句가 그 엽헤 잇는 字, 句와는 아무 聚接한 關係가 無함.
+例컨대 福童(即 나의 사랑하는 아이)의 손에 洋琴 一張을 들엇다. 나(記者自稱)는 『婦女解放』이란 問題에, 매우 贊成한다.
+注意  括弧 쓸 곳에 有時乎竪線을 用함.(第10節 第4段을 參照하라)
+
+十. 竪線
+
+一句話의 意思 或 作法이 突然히 變換한 곳에 一個 竪線을 用함.
+例컨대 當身 보시요―만一定코 업슬 것이요. 오늘 일이 업스면 올 터인데―아-내가 이젓군! 어제 張先生이 나를 오라하지 안핫섯는가?
+躕躇하는 語氣를 表示함에도 竪線을 用함.
+例컨대 저-ㄴ 한―한―賊漢이다. 一個乞兒가 十字街路로부터, 어떠한 좁은 골목으로 들어가며, 입 속으로 중얼중얼하되.. 『들어가서 먹어야지―먹기는 먹어야 할 터인데―하나 무엇을 먹을가?』
+注意  語氣 躕躇한 곳엔 또한 虛點을 칠 수 잇나니(第12節 虛點을 參照하라)
+例컨대 한길 일흔 어린아이가, 거긔서 躊躇하며, 彷彿히 하는 말이..『어대로 갈가... 어대로... 어대로 가어야 조흘가?』
+復述 或은 重言으로 一層 明白히 하는 곳에도 竪線을 칠지니
+例컨대 그가 그의 經歷을 내게 들려준다.――그가 美國에＜87＞ 留學하고, 또 畢業한 後 工場에서 實習한 經歷을,
+一句話 또는 一個字句가 一句內에 揷入할 時는 그 揷入한 語句前後에 항용 竪線을 칠지니
+例컨대 그 사람이 산 帽子―털로 맨든 것―갑이 매우 싸다. 舊家庭의 家長은, 집안에서는 君主와 彷彿하다,―그럼으로 君主라 한 것이다.―그의 氣焰은, 사람으로 하여곰 겁이 나게 할만 하다.
+
+十一. 連結線
+
+連結線은 幾個字를 連結함에 一個 名詞나 一個 專有名詞를 表示함.―國名, 山名, 河名, 人名, 時代, 歷史, 要事, 建築物, 書籍, 章, 篇, 科學, 會社, 主義, 星象, 節日, 學校, 商店, 工廠, 官職, 等 名稱에 多用함.
+例컨대 日露戰役,(歷史要事) 關雎, 周南,(篇, 章名) 萬里長城, 金字培,(建築物) 元月元旦, 耶穌誕,(節日) 檀君, 箕子, 三韓,(時代) 떼모크라시,(主義) 物質不滅,(科學定義)...等이니라.
+注意  連結線은 字의 傍邊에 竪하는 것이고 第10節에 말한 바 竪線과는 全혀 不同함.
+書籍, 章, 篇, 科學, 主義, 等 名詞에, 有時乎-케도 하나, 이도 連結線의 一種에 不過하나니, 形式上으로 갓지 안흐나, 그 使用方法은 一般임.
+
+十二. 虛點
+
+虛點은 躕躇 或 斷續한 語氣에 有時乎 虛點을 치나니
+例컨대 내가 이러케 하여야만... 조흘가, 저러테 하여야만 ...조흘가? 一個 可憐한 學生이 一個 殘忍한 敎師에게 哀乞하되.. 『내가 다시는 아니... 아니... 아니할 터이니, 살려... 살려... 살려 주셔오.』 이 말을 마치고도, 齒牙가 오히려 덜덜한다.
+許多事物을 一時에 다 말할 수 업다던지 또 一一이 列擧할 수 잇스나 넘우 煩雜할 듯할 때에는 虛點으로써 不盡한 意思를 表示할지니
+例컨대 萬物肖, 楡站寺, 萬瀑洞, ... 은 金剛山 名勝을 그려 내엇도다! 우리 民族의 精神 차린지가 至今 3年째이다. 나는 4年, 5年, 6年, ... 몃萬年이 가도록, 永永 世界에 對한 榮譽的 民族이 되기를 바란다.＜88＞
+陳述 或 引用 一段事實이 넘우 張皇한 境遇이면 首尾 或 中間에 若干 字句를 略去하고 그 略去한 部分에 虛點으로써 表示할지니
+例컨대 某君의 지은 바 敎育論에 말하엿스되..『...  朝鮮의 敎育은, 更改치 아니하면 不可하다...  』는 句語는, 족음도 틀리지 안는다. 『燕燕于飛...  泣涕如雨,』 這首詩는 莊姜의 心理를 잘 形容하엿도다.
+하던 말을 채 마치지 못하고 忽然 中止하거나 或은 傍人의 말에 中斷한배 되면 虛點으로써 그의 마치지 못한 語氣를 表示할지니
+例컨대 어린아이가 搖籃에서 잘 때에, 두눈이 몽농하며, 입속에 너흔 나즌 목소리로 『아재아재』하더니, 차차 聲音이 細微하야지며, 아조 잠이 들고 만다. 拿破崙이가 意太利를 치랴고 하루사이에 알프쓰山을 넘을 때, 軍士-모다 겁내는지라, 拿翁이 뭇되..『너의들이 저 산을 可히 넘겟느냐?』함에, 한 將官이 答하되..『넘겟나이다, 만...  』 拿翁은 그의 말을 들을 餘暇업시, 『前進』 號令을 부르며, 卽刻에 山上으로 進行하니라.＜89＞
+＜85-89＞

@@ -1,0 +1,67 @@
+Magazine Title: 개벽 제8호
+Publication Date:
+Article Title: 이것보시요(坤) (Look at This (Kŏn))
+Author:
+Article Type: 잡저 (Miscellaneous Article)
+
+Look at This (Kŏn)
+
+Looking at the notable items among the goods exported from our Chosŏn to foreign countries (based on export amounts for Taishō 7 [1918]):
+
+The export value of rice was 61,541,651 Wŏn
+
+The export value of fish products was over 57,153,000 Wŏn
+
+The export value of gallnuts was 10,603 Wŏn
+
+The amount exported as cattle (combining live cattle, hides, fat, fertilizer) was 4,207,161 Wŏn
+
+The export value of beans was 4,790,904 Wŏn<19>
+
+**Summary**
+
+This short article lists the monetary value of major export goods from Chosŏn (Korea) in the year Taishō 7 (1918). It highlights rice and fish products as the dominant exports by value, followed by beans and cattle products, with gallnuts being a minor export. For historians, this provides specific quantitative data on the colonial Korean economy's export structure early in the Japanese occupation, showing reliance on primary agricultural and marine products directed primarily towards Japan or its empire. The use of the term "우리 朝鮮" (our Chosŏn) is also notable within a colonial context publication.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+大正	대정	Taishō
+
+**Glossary**
+
+이것보시요	이것 보시오	Look at this (imperative, slightly archaic/formal)
+朝鮮	조선	Korea (older name)
+向하야	향하여	Towards (older spelling/form of -하여)
+輸出	수출	Export
+物品	물품	Goods, articles, items
+눈에 띄우는 것	눈에 띄는 것	Things that stand out, noticeable things (띄우는 is an older causative form used where the standard modern form would be 띄는)
+보히면	보이면	If shown; if one looks at (older causative spelling of 보이다)
+大正 七年	대정 칠 년	Taishō 7 (Year 7 of the Japanese Taishō era, corresponding to 1918)
+輸出高	수출고	Export amount/volume/value
+圓	원	Won (Korean currency unit, equivalent to Japanese Yen at the time)
+魚類	어류	Fish products, marine life
+五倍子	오배자	Gallnut (used in traditional medicine and tanning)
+牛	우	Cow, cattle
+生牛	생우	Live cattle
+皮	피	Skin, hide, leather
+脂	지	Fat, grease, tallow
+肥料	비료	Fertilizer
+合함	합함	Combined total (older form/spelling)
+豆類	두류	Beans, legumes
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제8호
+발행일	
+기사제목	이것보시요(坤)
+기사형태	잡저
+
+이것보시요(坤)
+우리 朝鮮으로서 外國에 向하야 輸出하는 物品 中에 눈에 띄우는 것을 보히면(大正 七年 輸出高에 의함)
+米의 輸出額이 61541651圓
+魚類의 輸出額이 57153000餘圓
+五倍子의 輸出額이 10603圓
+牛로 輸出하는 金額이 (生牛, 皮, 脂, 肥料를 合함) 4207161圓
+豆類의 輸出額이 4790904圓＜19＞

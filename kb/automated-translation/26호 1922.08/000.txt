@@ -1,0 +1,37 @@
+Magazine Title: 개벽
+Publication Date: 1922년 08월 01일
+Article Title: 백두산 병사봉에서 천지의 전경을 망함 (Viewing the Entire Scene of Cheonji from Byeongsabong Peak, Baekdu Mountain)
+Author: None
+Article Type: 잡저 (Miscellaneous writing)
+
+Viewing the entire scene of Ch'ŏnji from the slope of Pyŏngsabong, the highest peak of Paektusan.
+
+**Summary**
+
+This text is a brief caption accompanying a photograph or illustration in the magazine *Gaebyeok*. It describes the view of Cheonji (Heaven Lake) as seen from the slope of Byeongsabong, identified as the highest peak of Baekdu Mountain. The text emphasizes the panoramic nature ("全景" - full view) of the scene. From a historical perspective, its publication in *Gaebyeok*, a prominent Korean cultural and nationalist magazine during the Japanese colonial period, is significant. Featuring Baekdu Mountain, a potent symbol of Korean national identity, served as a subtle form of cultural assertion and preservation of national consciousness when overt political expression was suppressed. Historians might note its role in reinforcing national symbolism through visual and descriptive media during colonial times.
+
+**Named Entities**
+
+白頭山	백두산	Paektusan
+兵使峯	병사봉	Pyŏngsabong
+天池	천지	Ch'ŏnji
+
+**Glossary**
+
+最高峰	최고봉	Highest peak
+兵使峯	병사봉	Byeongsabong (Peak Name)
+斜面	사면	Slope, incline
+天池	천지	Cheonji (Heaven Lake)
+全景	전경	Full view, panorama
+望함	망함	Viewing, looking out over (Older nominal verb ending form of 바라보다/망보다 - 'to view')
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	백두산 병사봉에서 천지의 전경을 망함
+기사형태	잡저
+
+白頭山의 最高峰인 兵使峯의 斜面으로부터 天池의 全景을 望함

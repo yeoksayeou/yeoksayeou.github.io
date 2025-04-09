@@ -1,0 +1,37 @@
+Magazine Title: 별건곤  
+Publication Date: 1929년 04월 01일  
+Article Title: 이상한 診斷 (Strange Diagnosis)  
+Author: Not specified  
+Article Type: 잡저 (Magazine Article)  
+
+Strange Diagnosis  
+Judge: "What do you think about the injuries of the victim?"  
+Doctor: "Well... two of the wounds are fatal, but with proper treatment, the other one might recover in about three months." <153>  
+
+**Summary**  
+
+This article presents a brief exchange between a judge and a doctor concerning the injuries of a victim. The doctor describes the severity of the injuries, indicating that while two are fatal, there is hope for recovery for another wound. This dialogue offers insight into the medical assessments made during the period, reflecting on the societal conditions of colonial Korea where issues of health and mortality were closely intertwined with justice. Historians might find the implications of medical knowledge and its authority in legal contexts particularly interesting, revealing how colonial governance influenced perceptions of health and justice.
+
+**Named Entities**  
+
+None  
+
+**Glossary**  
+
+診斷	진단	Diagnosis  
+負傷者	부상자	Victim or injured person  
+治療	치료	Treatment  
+恢復	회복	Recovery  
+
+
+---------------------------
+
+
+잡지명	별건곤 제20호
+발행일	1929년 04월 01일
+기사제목	이상한 診斷
+기사형태	잡저
+
+이상한 診斷
+판사 『저 負傷者의 상처에 대해서 엇더케 생각하심닛가?』
+의사 『네... 상처중에 두 곳은 치명상이나 다른 한 곳은 잘하면 3개월 쯤 치료하면 恢復회겟지요.』<153>

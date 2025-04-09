@@ -1,0 +1,66 @@
+**Header Section:**
+Magazine Title: 개벽 (開闢)
+Publication Date: 1922년 02월 08일
+Article Title: 廣告正誤 (Advertisement Correction)
+Author: 開闢社 廣告部 (Gaebyeoksa Advertising Department)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation:**
+◀Advertisement Correction▶
+
+Regarding the advertisement for Susan Pharmacy (壽山藥房) at Kyŏngsŏng, Chongno 2-ch'ŏmoku, 5-bŏnchi, published in the New Year enlarged issue: the transfer account number "振替 京城 七三四一番" (Transfer Kyŏngsŏng 7341) should be corrected to "振替 京城 七六四一番" (Transfer Kyŏngsŏng 7641). Regarding the New Year greeting advertisement from U Chŏng-mu (禹鼎舞) of Sipcha Hospital in Anju-gun Ŭpnae, and Yi Ki-hong (李基弘) of Kŏnin-ni, Anju-gun Ŭpnae: "U Chŏng-mu" (禹鼎舞) should be corrected to "U P'il-mu" (禹弼舞), and "Yi Ki-hong" (李基弘) should be corrected to "Yi Ki-hong" (李基泓). We hereby make these corrections.
+
+Gaebyeoksa Advertising Department
+
+**Summary**
+
+This is a correction notice published by the Gaebyeoksa Advertising Department in the February 1922 issue of *Gaebyeok* magazine. It rectifies errors found in advertisements from the previous New Year's enlarged issue. Specifically, it corrects a bank transfer number for Susan Pharmacy located in Chongno, Kyŏngsŏng (Seoul), and corrects the Hanja characters used for the names of two individuals, U P'il-mu of Sipcha Hospital and Yi Ki-hong, both from Anju-gun, who had placed a joint New Year greeting advertisement. For historians, this small notice provides valuable micro-details about early 1920s colonial Korea: the specific addresses and names of businesses (pharmacy, hospital) and individuals, the prevalence of Hanja in daily use (including nuanced corrections), the existence of regional advertisers using a major Kyŏngsŏng-based magazine, and the use of financial systems like bank/postal transfers (振替).
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+鐘路 二丁目 五番地	종로 이정목 오번지	Chongno 2-ch'ŏmoku, 5-bŏnchi
+壽山藥房	수산약방	Susan Yakpang
+安州郡	안주군	Anju-gun
+邑內	읍내	Ŭpnae
+十字醫院	십자병원	Sipcha Pyŏngwŏn
+禹鼎舞	우정무	U Chŏng-mu
+建仁里	건인리	Kŏnin-ni
+李基弘	이기홍	Yi Ki-hong
+禹弼舞	우필무	U P'il-mu
+李基泓	이기홍	Yi Ki-hong
+開闢社 廣告部	개벽사 광고부	Gaebyeoksa Advertising Department
+
+**Glossary**
+
+廣告正誤	광고정오	Advertisement correction
+新年	신년	New Year
+增大號	증대호	Enlarged issue (of a magazine)
+揭載	게재	Publication; carrying (an article/ad)
+京城	경성	Kyŏngsŏng (Colonial name for Seoul)
+鐘路	종로	Chongno (District in Seoul)
+丁目	정목	Chōme (Japanese address unit, used in colonial Korea)
+番地	번지	Banchi (Lot number in Japanese/colonial address system)
+藥房	약방	Pharmacy (Older term)
+營業	영업	Business; operations
+振替	진체	Transfer (Likely refers to the Japanese 'furikae' postal transfer system)
+安州郡	안주군	Anju County
+邑內	읍내	Inside the town walls; town center
+年賀廣告	연하광고	New Year greeting advertisement
+玆에	자에	Hereby; Herein (Archaic connector)
+正誤하나이다	정오하나이다	We correct (Polite, somewhat archaic verb ending '-하나이다')
+開闢社	개벽사	Gaebyeoksa (Publisher name, meaning 'Creation' or 'Dawn of a New Era')
+廣告部	광고부	Advertising Department
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제20호
+발행일	1922년 02월 08일
+기사제목	廣告正誤
+기사형태	사고·편집후기
+
+◀廣告正誤▶
+新年 增大號에 揭載된 京城 鐘路 二丁目 五番地 壽山藥房 營業의 廣告 中『振替 京城 七三四一番』은 『振替 京城 七六四一番』으로 『安州郡 邑內 十字醫院 禹鼎舞, 安州郡 邑內 建仁里 李基弘의 年賀廣告 中 『禹鼎舞』은 『禹弼舞』으로 『李基弘』은『李基泓』으로 玆에 正誤하나이다』
+開闢社 廣告部

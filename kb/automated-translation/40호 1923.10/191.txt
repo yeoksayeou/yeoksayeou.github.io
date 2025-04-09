@@ -1,0 +1,47 @@
+Magazine Title: 개벽 제40호
+Publication Date: 1923년 10월 01일
+Article Title: 訂正廣告 (Correction Notice)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+In the congratulatory advertisement for the third anniversary of this magazine's founding in the July issue, "Asil Yanghaeng (朝日洋行) of Sangbu, Hamhŭng-ŭp" should be corrected to "Chowŏl Yanghaeng (朝月洋行)," and "Chief Ch'oe K'yusŏng (崔奎成)" should be corrected to "Ch'oe Kyusŏng (崔圭成)." <112>
+<108-112>
+
+**Summary**
+
+This brief notice corrects two errors that appeared in a congratulatory advertisement published in the July issue of the magazine "Kaebyŏk" (개벽) commemorating its third anniversary. Specifically, it corrects the name of a business in Hamhŭng from "Asil Yanghaeng" (朝日洋行) to "Chowŏl Yanghaeng" (朝月洋行) and corrects the name of the chief/manager from Ch'oe K'yusŏng (崔奎成) to Ch'oe Kyusŏng (崔圭成). From a historical perspective, this article provides specific names of a business (Yanghaeng - 洋行, an older term for a trading company) and an individual in Hamhŭng in 1923. The correction itself, particularly the change from 朝日 (often associated with Japan) to 朝月 (using the Korean 'moon' character), might subtly reflect naming preferences or corrections related to identity during the colonial period. It also shows the magazine's practice of publishing corrections.
+
+**Named Entities**
+
+咸興邑上府朝日洋行	함흥읍 상부 아실양행	Asil Yanghaeng of Sangbu, Hamhŭng-ŭp
+朝月洋行	조월양행	Chowŏl Yanghaeng
+咸興邑	함흥읍	Hamhŭng-ŭp
+崔奎成	최규성	Ch'oe K'yusŏng
+崔圭成	최규성	Ch'oe Kyusŏng
+
+**Glossary**
+
+本誌	본지	This magazine
+七月號	칠월호	July issue
+創刊	창간	First publication, founding (of a magazine/newspaper)
+週年	주년	Anniversary (Modern Korean often uses 주년)
+紀念	기념	Commemoration, anniversary
+視賀廣告	시하광고	Congratulatory advertisement (視賀 is an older/less common term for congratulations, 축하 祝賀 is standard)
+中에	중에	Among, in (Older particle form)
+洋行	양행	Trading company, foreign goods store (Older term common in East Asia)
+主任	주임	Chief, manager, person in charge
+訂正	정정	Correction
+홈	함	To do, making (Nominalizing verb ending; older form of -함)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제40호
+발행일	1923년 10월 01일
+기사제목	訂正廣告
+기사형태	사고·편집후기
+
+訂正廣告
+本誌七月號創刊第三週年紀念視賀廣告中에 咸興邑上府朝日洋行은 朝月洋行으로 㒰主任崔奎成은 崔圭成으로 訂正홈＜112＞
+＜108-112＞

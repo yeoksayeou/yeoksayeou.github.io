@@ -1,0 +1,70 @@
+Magazine Title: 개벽 제8호
+Publication Date:
+Article Title: 노이도적 (Rope Thief)
+Author:
+Article Type: 잡저 (Miscellaneous Writing)
+
+Rope Thief
+
+In a certain prison (監獄), a criminal, let's call him A, was newly incarcerated. Prisoner B, who was in the same cell, asked him:
+
+B: For what crime did you end up like this?
+
+A: Eh—I was just guilty of stealing one rope (노이).
+
+B: Hey, that's truly excessive! What kind of rope?
+
+A: A three-ply rope made of straw (藁草).
+
+B: Hey you, isn't that a lie? Just for a worthless straw rope like that...
+
+A: No, it's not. When I looked next, at the end of that rope, there happened to be one head of cattle (牛) attached.
+
+Even a thief feels a bit ashamed for others to know their own wrongdoing. <21>
+
+**Summary**
+
+A new prisoner claims he was jailed merely for stealing a worthless straw rope. When pressed by his cellmate who finds the punishment excessive for such a minor item, the prisoner reveals that a cow happened to be attached to the end of the rope. The piece is a short, humorous anecdote illustrating how people tend to minimize their faults. For historians, this brief text offers a glimpse into the everyday language (including older spellings like '노이', '업는', '맨든', '끄테', '달렷습디다') and humor present in colonial Korea, potentially reflecting subtle social commentary on crime or justification within the context of imprisonment during that era.
+
+**Named Entities**
+
+*(None identified in the text)*
+
+**Glossary**
+
+監獄	감옥	Prison
+罪囚	죄수	Prisoner, convict
+入監	입감	Entering prison, being incarcerated
+同監	동감	Being in the same prison cell
+노이	노끈	Rope (older form/dialectal for 노끈 or 줄)
+흠치다	훔치다	To steal (older spelling of 훔치다)
+過하다	과하다	To be excessive, too much
+藁草	고초	Straw (specifically rice straw)
+맨든	만든	Made (older spelling/form of 만든, from 만들다)
+거즛말	거짓말	Lie (older spelling of 거짓말)
+갑	값	Price, value (older spelling of 값)
+업는	없는	Without, non-existent (older spelling of 없는)
+끄테	끝에	At the end (older spelling/form of 끝에)
+소	소	Cow, cattle (牛)
+달렷습디다	달렸습니다	Was attached (older, possibly dialectal, polite ending form of 달리다)
+도적놈	도적놈	Thief (slightly derogatory)
+부끄럽다	부끄럽다	To be shy, ashamed, embarrassed
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제8호
+발행일	
+기사제목	노이도적
+기사형태	잡저
+
+노이도적
+어떤 監獄에 罪囚 某甲이 새로 入監을 하엿다. 그와 同監되는 某乙이
+乙. 당신은 무슨 罪로 이러케 되엇소?
+甲. 에- 나는 그저 노이(繩) 하나 흠친 罪라오.
+乙. 여보 그것 참 過하이그려. 노이는 무슨 노이?
+甲. 집(藁草)흐로 맨든 세 겹 노이지.
+乙. 여보 당신, 거즛말 아니요. 그따위 갑 업는 집노이 하나만으로야.
+甲. 아니야요, 그 다음 보니까 그 노이 끄테 소(牛)가 한 머리 달렷습디다.
+도적놈도 제 잘못은 남 알기에 좀 부끄러운 게이지.＜21＞

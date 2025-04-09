@@ -1,0 +1,194 @@
+Magazine Title: 개벽 제29호
+Publication Date: 1922년 11월 01일
+Article Title: 中華民國의 新學制 (The New Educational System of the Republic of China)
+Author: 一記者 抄 (Excerpted by One Reporter)
+Article Type: 소식 (News/Dispatch)
+
+The New Educational System of the Republic of China
+						Excerpted by One Reporter
+
+On September 20th of this year, the Ministry of Education summoned education representatives from each province and other renowned figures from the academic world to open an Educational System Conference. Various proposals regarding the educational system from the Ministry of Education and representatives of each province were submitted. The first item discussed was the School System Reform Plan, along with the Provincial District Educational Administrative Organ Establishment Advisory Council Plan. The School System Reform Plan proposed by the Ministry of Education was passed, establishing a total 24-system structure.
+
+1. School System Reform Plan
+(Ministry of Education Proposal)
+
+The current school system is that which resulted from the resolution of the Provisional Education Conference in the first year of the Republic (1912). Since its adoption and implementation by this ministry, ten years have already passed. As times have changed, there are inevitably aspects requiring modification. Therefore, based on the standards listed below, the School System Reform Plan is proposed as follows.
+
+1. Standards
+1. To plan for the development of education by basing it on educational principles and conforming to world trends.
+2. To make education easily widespread by adapting it to the actual circumstances of the regions.
+3. To leave much room for flexibility so that each region can implement it酌量 (considering their circumstances).
+4. To make reforms easy to undertake by taking the old system into consideration (顧及).
+
+2. School Levels and Explanations
+1. The duration of study for elementary school shall be limited to 6 years, divided into higher and lower levels. The lower level duration shall be 4 years, and the higher level duration shall be 2 years.
+However, depending on local circumstances, establishing only the lower level is permitted.
+2. The compulsory education period shall be set at 6 years, but depending on local circumstances, temporarily using the lower level duration as the compulsory education period is also permitted.
+3. Elementary schools, considering local circumstances, may add education for vocational preparation for lower-level graduates.
+4. Elementary schools may also establish supplementary courses (補習科) of 1 or 2 years to cater to the supplementary studies of higher-level graduates.
+5. Kindergartens (*養園, likely 幼稚園) shall be appropriately established (酌設) in regions to accommodate children aged 3 to 6 years old.
+6. The subjects and duration of vocational schools shall be revised as needed, considering the actual needs and circumstances of each region. (Existing Type B Industrial Schools (乙種 實業學校) are to be renamed Vocational Schools.)
+7. The duration of study for middle school shall be set at 6 years, divided into a 4-year lower level and a 2-year higher level.
+8. Depending on local circumstances, middle schools may establish only the lower level, and the first 2 years may be affiliated with an elementary school.
+9. Higher middle schools should be established jointly with lower middle schools, but if unavoidable, they may be established independently.
+10. Lower middle schools shall provide general education (普遍敎育), while higher middle schools, in addition to offering a general course, may establish separate departments for Agriculture, Engineering, Commerce, Normal training, and Home Economics.
+11. Higher middle schools may establish only one specialization or concurrently establish several departments.
+Existing Type A Industrial Schools (甲種實業學校) are to be changed into Agriculture, Engineering, and Commerce departments within higher middle schools.
+12. The duration of study for normal schools shall be set at 6 years, adopting a specialization system from the 4th year onwards.
+13. The duration of study for professional schools (專門學校) shall be set at 4 or 5 years, admitting graduates of lower middle schools.
+14. The duration of study for higher normal schools shall be set at 4 years, admitting graduates of lower middle schools.
+15. The duration of study for universities shall be set at 4 or 5 years.
+16. Universities may establish several departments or a single department.
+However, those establishing only one department shall be called 'X Department University'. When professional schools raise their standards (程度를 提高하야) to admit higher middle school graduates, the duration of study shall be set at 4 or 5 years and they shall be renamed single-department universities. When higher normal schools raise their standards to admit higher middle school graduates, their duration of study shall be set at 4 years and they shall be renamed normal universities (師範大學?). [Translator's note: The text says 師範入學, which seems incomplete or possibly a typo for 師範大學].
+17. Professional schools, single-department universities, and higher normal schools may all be established jointly within one institution.
+18. Graduate schools are research institutes for university graduates and those holding equivalent qualifications; the duration is undetermined. <75>
+
+**Summary**
+
+This article reports on the Republic of China's Ministry of Education proposing a new educational system structure in September 1922. The reform aimed to modernize education based on educational principles, global trends, local needs, flexibility, and continuity with the previous system established in 1912. It detailed a 6-year primary (4+2), 6-year middle (4+2), vocational, normal, professional (4-5 years), higher normal (4 years), and university (4-5 years) system, including provisions for kindergartens, supplementary courses, and graduate schools, with specific pathways for upgrading professional and higher normal schools to university status.
+
+From the perspective of Korean colonial history, this article is interesting because it details educational reforms in a neighboring country undergoing modernization, contrasting sharply with the often restrictive and assimilationist educational policies imposed by Japan in Korea during the same period. The emphasis on adapting to local needs, flexibility, and expanding access (including vocational and potentially higher education pathways) in the Chinese system might have been noted by Korean intellectuals reading *Kaebyŏk*, potentially highlighting the limitations they faced or offering alternative models for a future independent Korea's education system.
+
+**Named Entities**
+
+中華民國	중화민국	Republic of China
+敎育部	교육부	Ministry of Education
+各 省	각 성	Various Provinces
+
+**Glossary**
+
+學制	학제	Educational system
+一記者	일기자	One reporter
+抄	초	Excerpt; Selection
+召集하야	소집하여	Summoning (older form of 하여)
+學制會議	학제회의	Educational System Conference
+提出되어	제출되어	Submitted
+第一着	제일착	First step; Priority
+通過되엇는데	통과되었는데	Passed (older spelling of 되었는데)
+摠히	총히	In total; Generally (older spelling/usage, modern 총(總)히)
+現行	현행	Current; Existing
+係한 者	계한 자	Related to; Pertaining to (modern 관련된 것)
+以來로	이래로	Since then
+經過한 바	경과한 바	Having passed
+隨하야	수하여	Following; According to (older form of 하여)
+修改	수개	Revision; Modification
+업지	없지	Not without (older spelling of 없지)
+玆에	자에	Here; Hereupon (archaic Hanja term)
+標準	표준	Standard; Criterion
+依하야	의하여	According to (older form of 하여)
+擬定함	의정함	Propose; Draft
+根據하고	근거하고	Based on
+趨勢	추세	Trend
+順應하야써	순응하여서	Conforming to (older form of 하여서)
+圖할 事	도할 사	To aim to achieve (older grammatical form)
+實際情形	실제정형	Actual situation; Circumstances
+適應케 하야	적응케 하여	To adapt (older form of 하게 하여)
+易히	이히	Easily (older spelling, modern 용이(容易)히 or 쉽게)
+普及케 할 事	보급케 할 사	To disseminate; Popularize (older grammatical form)
+伸縮	신축	Flexibility; Elasticity
+餘地	여지	Room; Margin
+만히	많이	Much; Many (older spelling of 많이)
+酌量하야	작량하여	Considering; Taking into account (older form of 하여)
+顧及하야	고급하여	Taking into consideration (older form of 하여)
+容易히	용이히	Easily
+着手케 할 事	착수케 할 사	To embark on; Start (older grammatical form)
+修業年限	수업연한	Duration of study; School years
+限하고	한하고	Limited to
+分하야	분하여	Dividing (older form of 하여)
+單設함을 得함	단설함을 득함	Can be established independently (older grammatical form, modern 단설할 수 있음)
+義務敎育	의무교육	Compulsory education
+定하되	정하되	Set; Determined (older form of 정하되)
+暫히	잠히	Temporarily (older spelling of 잠시)
+함도 得함	함도 득함	Can also do (older grammatical form, modern ~할 수도 있음)
+斟酌하야	짐작하여	Considering; Judging (older form of 하여)
+爲하야	위하여	For the sake of (older form of 위하여)
+增置함을 得함	증치함을 득함	Can be additionally established (older grammatical form)
+補習科	보습과	Supplementary course
+兼設하야써	겸설하여서	Also establishing (older form of 하여서)
+應함	응함	Respond to; Cater to
+養園	양원	Kindergarten (likely refers to 幼稚園, 유치원)
+酌設하야	작설하여	Establishing appropriately (older form of 하여)
+收容할 事	수용할 사	To accommodate; Admit (older grammatical form)
+職業學校	직업학교	Vocational school
+限期	한기	Time limit; Duration
+參酌하야	참작하여	Taking into consideration (older form of 하여)
+隨時	수시	At any time; As needed
+訂正할 事	정정할 사	To revise; Correct (older grammatical form)
+改함	개함	To change; Rename
+幷設함을 得함	병설함을 득함	Can be established jointly/affiliated (older grammatical form)
+不得已한 時	부득이한 시	When unavoidable
+單獨으로	단독으로	Independently; Singly
+普遍敎育	보편교육	General education
+施與하고	시여하고	Provide; Bestow
+以外에	이외에	Besides; In addition to
+分設함을 得함	분설함을 득함	Can be established as separate divisions (older grammatical form)
+兼設함을 得함	겸설함을 득함	Can establish several concurrently (older grammatical form)
+改할 事	개할 사	To change/rename (older grammatical form)
+採用할 事	채용할 사	To adopt (older grammatical form)
+專門學校	전문학교	Professional school; College
+入學케할 事	입학케 할 사	To admit; Allow entry (older grammatical form)
+高等師範學校	고등사범학교	Higher normal school
+大學校	대학교	University
+均可함	균가함	Both are acceptable
+稱함	칭함	To be called; Named
+程度를 提高하야	정도를 제고하여	Raising the level/standard (older form of 하여)
+改收하는 時	개수하는 시	When changing admission requirements
+同等程度 保有者	동등정도 보유자	Those holding equivalent qualifications
+硏究所	연구소	Research institute
+無定임	무정임	Undetermined; No set limit
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제29호
+발행일	1922년 11월 01일
+기사제목	中華民國의 新學制
+필자	一記者 抄
+기사형태	소식
+
+中華民國의 新學制
+						一記者 抄
+本年 9月 20日에 敎育部에서 各 省 敎育代表 及 其他 學界 名流를 召集하야 學制會議를 開하고 敎育部 及 各 省 代表의 學制에 對한 諸案이 提出되어 第一着 學校系統改革案 及 其他 省區 敎育行政機關設立參議會案을 討議케 된 바 敎育部 提出의 學校系統改革案이 通過되엇는데 摠히 二四制로 成立되엇슴.
+
+1. 學制系統 改革案
+(敎育部提案)
+
+現行의 學校系統은 곳 民國元年 臨時 敎育會議의 議決에 係한 者이라. 本部의 採擇을 經하야 施行한 以來로 이미 十載를 經過한 바 時代의 變遷에 隨하야 修改의 處가 업지 아니한 故로 玆에 下列의 標準에 依하야 學校系統改革案을 左와 如히 擬定함.
+
+1. 標準
+1. 敎育의 原理에 根據하고 世界의 趨勢에 順應하야써 敎育의 發展을 圖할 事.
+2. 地方의 實際情形에 適應케 하야 敎育을 易히 普及케 할 事.
+3. 伸縮의 餘地를 만히 남기어 各 地方이 酌量하야 施行케 할 事.
+4. 舊制에 顧及하야 改革에 容易히 着手케 할 事.
+
+2. 學校의 系級 及 說明
+1. 小學校 修業限은 6年으로 限하고 高初 兩級에 分하야 初級修業年限은 4年으로 하고 高級修
+業 年限은 2年으로 할 事.
+但 地方의 情形에 依하야 初級을 單設함을 得함.
+2. 義務敎育 年限을 6年으로 定하되 단 地方의 情形에 依하야 暫히 初級修業 年限으로써 義務
+敎育 年限으로 함도 得함.
+3. 小學校는 地方의 情形을 斟酌하야 初級畢業生을 爲하야 職業準備의 敎育을 增置함을 得함.
+4. 小學校에 1年 或 2年의 補習科를 兼設하야써 高級 卒業生의 補習에 應함.
+5. 地方에 *養園(幼稚園)을 酌設하야 滿 3勢 以上 6歲의 兒童을 收容할 事.
+6. 職業學校의 學科 及 限期은 各 地方의 實際 需要情形에 參酌하야 隨時 訂正할 事. (現有의
+乙種 實業學校를 職業學校로 改함.)
+7. 中學校의 修業年限을 6年으로 定하야 初級 4年 高級 2年으로 함.
+8. 中學校는 地方의 情形에 依하야 初級만 單設함을 得하고 그前 2學年은 小學校에 幷設함을
+得함.
+9. 高級中學은 應히 初級中學과 幷設하되 不得已한 時는 單獨으로 設立함을 得함.
+10. 初級中學에는 普遍敎育을 施與하고 高級中學에는 普通科를 設한 以外에 農, 工, 商師範 及
+家事諸科를 分設함을 得함.
+11. 高級中學에는 一種만 單設하든지 或은 數科를 兼設함을 得함.
+現有의 甲種實業學校를 高級中學에 農工商科로 改할 事.
+12. 師範學校 修業年限을 6年으로 定하야 그 4年級 以上은 分科制를 採用할 事.
+13. 專門學校 修業年限은 4年 或 5年으로 定하야 初級中學 卒業生으로써 入學케할 事.
+14. 高等師範學校 修業年限은 4年으로 定하야 初級中學 畢業生오로써 入學케할 事.
+15. 大學校 修業年限은 4年 或 5年으로 定할 事.
+16. 大學校에는 數科 或 單科를 設함이 均可함.
+但 一科만 單設한 者는 某科大學校라 稱함. 專門學校에서 程度를 提高하야 高級中學 卒業生을
+改收하는 時는 修業年限을 4年 或 5年으로 定하야 單科大學으로 改할 事. 高等師範學校에서
+程度를 提高하야 高級中學 卒業生을 改收하는 時는 그 修業年限은 4年으로 定하야 師範入學으
+로 改할 事.
+17. 專門學校, 單科大學 及 高等師範學校는 均히 一校內에 幷設할 事.
+18. 大學院은 大學卒業生 及 同等程度 保有者의 硏究所이라 年限은 無定임.＜75＞

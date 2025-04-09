@@ -1,0 +1,79 @@
+Magazine Title: 개벽 第48호
+Publication Date: 1924년 06월 01일
+Article Title: 各道各人 (People from Each Province)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+People from Each Province
+
+Traditionally in Kyŏngsŏng, people from each province have been assessed as follows: Hwanghae-do, basket peddlers (because many women were merchants of distilled spirits (燒酒), oil (油), and pickled clams); P'yŏngan-do, kisaeng; Kangwŏn-do, outer servants; Hamgyŏng-do, water sellers; Ch'ungch'ŏng-do, yangban; Kyŏngsang-do, scholars; Chŏlla-do, entertainers; from Kyŏnggi, Kwach'ŏn wood sellers, Ogang boatmen, Kwangju wild vegetable sellers, Suwŏn stewards (쳥직이), Yangju grooms (말군), Koyang A-frame carriers, Yŏju and Ich'ŏn rice sellers. However, with the changing times, these assessments have also changed, and today it is said: Kyŏngsang-do prostitutes, Chŏlla-do vagrants (浮浪者), Kangwŏn-do firewood sellers, Ch'ungch'ŏng-do land speculators (땅흥정군). <115>
+
+**Summary**
+
+This short piece outlines traditional stereotypes associated with people from various Korean provinces as perceived in Kyŏngsŏng (Seoul). It lists occupations or social roles historically linked to each region, such as scholars from Kyŏngsang-do or entertainers from Chŏlla-do. The article then contrasts these older views with contemporary (1924) stereotypes, noting a significant shift, often towards more negative or economically marginal roles like prostitutes (Kyŏngsang-do), vagrants (Chŏlla-do), and land speculators (Ch'ungch'ŏng-do). From a historical perspective, this article is interesting as it documents shifting social perceptions and regional biases during the Japanese colonial period. The drastic change in stereotypes, particularly the negative turn for regions like Kyŏngsang-do and Chŏlla-do, could reflect socio-economic disruptions, migration patterns, or evolving prejudices influenced by colonial policies and modernization, offering historians insight into colonial-era social commentary and regional tensions.
+
+**Named Entities**
+
+京城	경성	Kyŏngsŏng
+黃海道	황해도	Hwanghae-do
+平安道	평안도	P'yŏngan-do
+江原道	강원도	Kangwŏn-do
+咸鏡道	함경도	Hamgyŏng-do
+忠淸道	충청도	Ch'ungch'ŏng-do
+慶尙道	경상도	Kyŏngsang-do
+全羅道	전라도	Chŏlla-do
+京畿	경기	Kyŏnggi
+果川	과천	Kwach'ŏn
+五江	오강	Ogang
+廣州	광주	Kwangju
+水原	수원	Suwŏn
+楊州	양주	Yangju
+高陽	고양	Koyang
+驪州	여주	Yŏju
+利川	이천	Ich'ŏn
+
+**Glossary**
+
+各道	각도	Each province
+各人	각인	Each person
+自來	자래	Traditionally, since the beginning
+京城	경성	Kyŏngsŏng (former name for Seoul)
+評하다	평하다	To evaluate, assess, critique
+광주리 장사	광주리 장수	Basket peddler/merchant
+燒酒	소주	Soju (distilled spirit)
+油	유	Oil
+조개젓	조개젓	Pickled clams
+商	상	Merchant, trade
+多한 故	다한 고	Because many were... (older grammatical form)
+기생	기생	Kisaeng (female entertainer)
+행랑살이	행랑살이	Living in the outer quarters; outer servant
+물장사	물장수	Water seller/merchant
+양반	양반	Yangban (traditional ruling class/gentry)
+學者	학자	Scholar
+광대	광대	Entertainer, clown, performer
+나무 장사	나무 장수	Wood seller/merchant
+배사공	뱃사공	Boatman
+산나물 장사	산나물 장수	Wild vegetable seller/merchant
+쳥직이	청지기	Steward, servant (older spelling)
+말군	마부	Groom, stableman (older term)
+통지게 장사	통지게 장수	Carrier with a large A-frame pack (t'ongjige)
+쌀장사	쌀장수	Rice seller/merchant
+하얏다	하였다	Did, said (older spelling/form)
+변천	변천	Change, transition
+今日	금일	Today
+娼妓	창기	Prostitute
+浮浪者	부랑자	Vagrant, drifter
+장작장사	장작장수	Firewood seller/merchant
+땅흥정군	땅 흥정꾼	Land speculator/dealer
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제48호
+발행일	1924년 06월 01일
+기사제목	各道各人
+기사형태	잡저
+
+各道各人
+自來 京城에서 各道人을 評하기를 黃海道 광주리 장사(여자의 燒酒, 油, 조개젓 商이 多한 故) 平安道 기생, 江原道 행랑살이, 咸鏡道 물장사, 忠淸道 양반, 慶尙道 學者, 全羅道 광대, 京畿로는 果川 나무 장사, 五江 배사공, 廣州 산나물 장사, 水原 쳥직이, 楊州 말군, 高陽 통지게 장사, 驪州 利川 쌀장사라 하얏다. 그러나 시대의 변천으로 그 評도 변해서 今日에는 慶尙道 娼妓 全羅道 浮浪者 江原道 장작장사 忠淸道 땅흥정군이라 한다. ＜115＞

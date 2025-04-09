@@ -1,0 +1,309 @@
+Magazine Title: 개벽 第18호
+Publication Date: 1921년 12월 01일
+Article Title: 하물레트 (Hamlet)
+Author: 쉑스피아(原作), 玄哲(譯述) (Shakespeare (Original Author), Hyŏn Ch'ŏl (Translator/Adapter))
+Article Type: 희곡·시나리오 (Play/Scenario)
+
+Hamlet
+						Shakespeare (Original Author), Hyŏn Ch'ŏl (Translator/Adapter)
+Summary of Previous Acts
+
+Act 1
+Scene 1
+On the high platform before Elsinore Castle, the soldier Francisco is standing guard. It was already the middle of the night. At that time, Captain Bernardo came for the changing of the guard. Not only that, but the young scholar Horatio and also the officer Marcellus came to stand guard together. This was because, for the past few days, a ghost had been appearing near the castle, and there were rumors it looked like the late King Hamlet; therefore, the scholar Horatio came to test whether this was true or false. Indeed, just as said, when it became the stroke of one, the spirit appeared, and its attire and appearance were exactly like the late King's. Horatio tried to speak to this spirit, but it disappeared without saying anything. Thus, while they were discussing the matter of the spirit and the recent situation in Denmark, the spirit appeared again. However, they could not speak with the spirit and only saw it disappear without a word.
+
+Scene 2
+The setting was the Great Hall within Elsinore Castle. With the sound of trumpets, King Claudius entered first, followed by Queen Gertrude, Prince Hamlet, Lord Chamberlain Polonius, his son Laertes, courtiers Voltimand and Cornelius, and many other nobles and attendants. The King addressed his relatives and vassals, speaking of the death of his brother the King, how due to the state of the nation he had no choice but to assume the throne, and also how, due to circumstances, he married his sister-in-law and former Queen, Gertrude. Thus, displaying abundant signs of joy in various ways, he stated that the reason for gathering the nobles here today was concerning Fortinbras, nephew of the King of Norway <154>, who, despite the fact that his kingdom's lands were offered to Denmark through a written contract between the late King Hamlet and his own uncle, was taking advantage of his uncle's illness and old age to harbor hostile intentions towards Denmark. Having inquired into this, he decided to send messengers to the King of Norway and dispatched the courtiers Voltimand and Cornelius. After that, he asked the Lord Chamberlain's son, Laertes, to state his wish, saying there was an inseparable bond between his uncle (Polonius) and this throne, and granted Laertes' wish to return to France. Then, the King also addressed Hamlet with various words of admonition, requesting that since his father the King had passed away, he should serve him (Claudius) as he would his own father. Previously, Hamlet had been studying at Wittenberg University (*Note: Original says 빅*빠아크대학 'Pik*ppaak'ŭ Taehak'*) when he heard the tragic news of his father and returned home. Although he should naturally have returned to the university, the newly crowned uncle King and his mother the Queen prevented him from going, and Hamlet too, harboring suspicions about his father's death, decided not to go. Thus, the more Hamlet doubted the circumstances of his father's death, the more his unsettled mental state produced wavering words. Then, the King exited with the Queen and all the attendants, leaving only Hamlet alone in the hall. Hamlet, alone, delivered a soliloquy filled with doubt about the cause of his father's death and resentment that, less than a day after the funeral rites for his father were completed, his mother married his uncle, an act against humanity. At that moment, Horatio, Marcellus, and Bernardo entered and told him about seeing the ghost with their own eyes, reporting that its appearance was no different from the deceased late King. Hearing this, Hamlet, though half-believing and half-doubting, became even more suspicious and resolved to go and see for himself that very night, whatever the circumstances.
+
+Scene 3
+The setting was a room in the house of Lord Chamberlain Polonius. His son Laertes and his younger sister Ophelia entered, performing a farewell scene as he was set to return to France, having obtained the King's permission in Scene 2. He gave his sister admonitions, telling her of the dangers of love and warning her not to engage carelessly in love with Hamlet. During this, their father Polonius entered, urged him to hurry, saying the preparations for departure were complete and people were waiting at the pier, sent his son off, and then also admonished his daughter, instructing her that a love affair between Hamlet and her was inappropriate.
+
+Scene 4
+The setting was the same as Act 1, Scene 1. Hamlet entered, followed by Horatio and Marcellus. First, there were words about the bitterly cold night, and then dramatic dialogue criticizing the excessive drinking in the palace as a bad habit. Just then, the spirit appeared. Hamlet spoke dramatically, expressing his heartfelt wish to the spirit and asking it to state the reason for its appearance. However, the spirit said nothing, only beckoning Hamlet with its hand. Hamlet intended to follow this spirit. The two men with him said it was dangerous and told him not to go, but Hamlet ignored them and followed.
+
+Scene 5
+The setting was another part of the same high platform. Hamlet and the spirit spoke alone together. The spirit revealed that it was Hamlet's father and recounted in detail the circumstances of how his own brother, the current King, conspired with the Queen to poison him, and the details of his suffering fiery torments in purgatory (地獄 - Chiyok, lit. hell). It entrusted Hamlet with seeking revenge, yet <155> instructed him not to lay hands on his mother but to let her die from the torment of her conscience. Then the spirit disappeared. Meanwhile, Horatio and Marcellus, worried that something might have happened to Hamlet after he followed the spirit, had been searching for him and met Hamlet at this time, asking what the spirit had said. However, Hamlet found it difficult to speak freely and, after receiving an oath from the two men that they would keep it secret, told them the gist of it and made them swear an oath to assist in his revenge. This concludes Act 1 up to Scene 5.
+
+Act 2
+Scene 1
+The setting was, like Act 1, Scene 3, a room in Polonius's house. Polonius gave money and a letter to his servant Reynaldo, telling him to take these to his son Laertes in France. He also instructed him, before meeting Laertes, to inquire into his son's conduct and gave him various instructions on how to make these inquiries. After sending Reynaldo off, his daughter Ophelia entered with a frightened face and told her father how Prince Hamlet had gone mad and come to her, acting madly. Her father, suspecting this might be madness caused by love, worried in various ways. Then, deciding he could not fail to report these facts to the King, the scene closed.
+
+Act 2
+Scene 2
+A Room in the Castle
+With the sound of trumpets, the King, Queen, Courtiers Rosencrantz, Guildenstern, and several Attendants enter.
+King: Ah, welcome, Rosencrantz, Guildenstern! Besides having wanted to see you for some time, there is also a matter I wish to entrust to you. You may have heard the rumors, but recently Hamlet has become mad, so much so that in his appearance and inner thoughts, not a trace of his former self can be seen. What else besides his father's passing could have caused him to lose his reason like this, I cannot even dream. This is the matter I entrust to you. Since you grew up together from childhood, you likely know his heart well. Stay here for some time, keep him close company, soothe him with comforting words, and if you can discover what troubles him, which I do not yet know, there might be a way to cure him. Please find out, if you have the chance, the cause of his distress.
+Queen: Oh, gentlemen, seeing how Hamlet speaks of you from time to time without forgetting, it seems there are no two people in this world whose hearts match the Prince's as yours do. If you stay in the palace for a long time <156> and accomplish what we desire, treating him with courtesy and sincerity, this visit will surely earn you a reward commensurate with the King's gratitude.
+Ros.: Your Majesties, reigning over us subjects with supreme authority, could rightly issue stern commands according to your will, but to entrust us with this task is overwhelmingly gracious.
+Guil.: Though we are unworthy, we two subjects accept the charge and will devote our humble selves and exert all our efforts so that there will be no fault in carrying out Your Majesty's heavenly will.
+King: I express my gratitude to you, sirs. Rosencrantz, Guildenstern.
+Queen: Kind words. Guildenstern, Rosencrantz. Then, please go see the endlessly changed Prince even now. Well then— someone escort these gentlemen to Hamlet.
+Guil.: O God, grant that our presence and loyal service may be pleasing to His Highness the Prince and become an aid in his recovery.
+Queen: Ah, God grant it.
+Rosencrantz, Guildenstern exit, followed by several attendants.
+Polonius enters.
+Pol.: I report to Your Majesty. The ambassadors have returned from Norway bearing good news.
+King: Sir, you are always an old man who brings good news.
+Pol.: Are these my words? Though I tremble, I swear by the gods, my devotion to the gods, my loyalty offered to Your Majesty, and the faithfulness with which I keep my office are no different from how I guard my soul. For that reason, I believe I have discovered it... Otherwise, this brain of mine would no longer be able to sniff out the scent of stratagems as it does now... No, I have surely discovered the reason for Prince Hamlet's madness.
+King: Ah! Tell me quickly. I have long waited to hear it.
+Pol.: First, please grant an audience to the ambassadors. What I intend to report is like the dessert fruit that comes after a great feast.
+King: Then you arrange all the procedures and summon the ambassadors here. <157>
+Polonius exits.
+[King to Queen] It seems he knows all the causes of the Prince's madness.
+Queen: Perhaps. I am doubtful. Even if it's the old man's word, surely his father's death or perhaps our hasty marriage is likely the main reason.
+King: Hmm! We must look into whether it is so or not.
+Polonius enters, bringing the two men, Voltimand and Cornelius.
+Have you returned safely, sirs? Voltimand, what then was the reply from the King of Norway?
+Vol.: A courteous reply. Upon our first audience, he immediately sent orders to halt his nephew's military preparations. Thinking it was only intended for conquering Poland, after various inquiries, he realized it involved hostile intent towards Your Majesty, was greatly surprised, lamented that his old age and illness prevented him freedom of action, and immediately dispatched messengers to arrest Prince Fortinbras. The Prince obeyed the command, received the King's reprimand, and consequently swore before his uncle that he would never again take up arms against Your Majesty. The old King, delighted by this, granted him an annual sum of 3,000 crowns and gave permission to use the previously raised troops for the conquest of Poland. His request regarding this is detailed in this document (presents a document), asking that Your Majesty grant permission for peaceful passage through your territory for this plan, ensuring safety along the way, as written in the state letter.
+King: That is most agreeable to my wishes. When I have time, after reading it carefully, I will consider it deeply and give my reply. You two may withdraw and rest. You have completed an important task successfully. When evening comes, let us drink together. I rejoice in your safe return.
+Voltimand and Cornelius withdraw.
+Pol.: This great matter has also been concluded successfully. Now, Your Majesty, Your Highness. To discuss what the authority of a monarch is, what the duty of a subject is, or why day is day and night is night, or time is time, is merely <158> to waste day, night, and time in vain. Therefore, since brevity is the soul of wit, and tediousness the limbs and outward flourishes, I will report this matter very briefly. His Highness the Prince's madness is indeed madness, I must report. Because, attempting to define madness beforehand is ultimately an act akin to madness itself. But let that be...
+Queen: Rather than adorning your words with color, the necessary facts.
+Pol.: Your Highness the Queen, why would your humble servant speak falsehoods and empty words? It is true that the Prince is mad. Truly a pitiful matter. That it is pitiful is true. No, dull embellishment. Let's leave that aside, setting aside adornment now. First, assuming he is mad, what remains for us is to discover the cause of that effect... or rather, perhaps it is more fitting to say the cause of that defect. If you command me to explain why, such a defective result surely could not arise without a cause. This is what remains to be reported (奏). The remaining condition is thus. Please give your particular wise consideration... I have a daughter... This was when she was under my care... With a dutiful heart, she... please listen. She showed this letter to me. I pray you, perceive it clearly.
+(Takes out a love letter and reads.)
+‘To the celestial, and my soul’s idol, the most beautified Ophelia,’... This is ill-phrased. Turbid. A turbid phrase. ‘Beautified’ is a turbid word. But listen to what follows. It is thus.
+(Reads again.)
+‘In her excellent white bosom, these, etcetera etcetera’
+Queen: Is that from Hamlet to Ophelia?
+Pol.: Your Majesty, just a moment. I will report exactly as it is. <159>
+(Reads again.)
+‘Doubt thou the stars are fire;
+Doubt that the sun doth move;
+Doubt truth to be a liar;
+But never doubt I love.
+O dear Ophelia, I am ill at these numbers; I have not art to reckon my groans; but that I love thee best, O most best, believe it. Adieu.’
+‘Thine evermore, most dear lady, whilst this machine is to him, HAMLET.’ This letter, my daughter, according to my command, showed to me. Not only that, but I know everything about what words were spoken, at what time, and in what place.
+King: And Ophelia's actions in response to that?
+Pol.: What kind of person do you perceive me to be?
+King: As a man faithful and honourable.
+Pol.: I wish to be so. But how do you perceive it? ...When I saw the wings of this fierce love... This I should have reported beforehand... Especially since I saw such behavior before hearing it from my daughter... How might Your Majesty or Her Highness the Queen perceive it? At that time, if I had been like a desk drawer or an account book, had merely blinked my eyes shut and watched silently... what would Your Majesties think? No, I took action immediately. I told my daughter these words: ‘Lord Hamlet is a prince, out of thy star; This must not be.’ And I instructed her to lock herself from his resort, admit no messengers, receive no tokens. As a result, my daughter followed my words and kept them faithfully. Consequently, the Prince, being repulsed... to put it simply... fell into a sadness, then followed fasting, then sleeplessness, then weakness, thereupon also heartbreak, and by this declension, into the madness wherein now he raves, and all we mourn for. <160>
+King: (Looking at the Queen) Do you think so too?
+Queen: It truly seems possible.
+Pol.: If there has ever been even one time when something I proactively reported as ‘thus’ later turned out not to be so, please let me hear of it.
+King: I cannot recall such an instance.
+Pol.: (Pointing to his head and shoulders) If I am mistaken, take this from this. If there is but a way to find it, I will find where truth is hid, though it were hid indeed within the centre of the earth, and show it to you.
+King: In that case, we must somehow test the truth of it.
+Pol.: As you know, His Highness sometimes walks for hours together here in the lobby.
+Queen: Indeed, he does walk so.
+Pol.: At such a time, let us send my daughter before the Prince. Then Your Majesty and I shall hide behind the arras and observe their encounter. If he does not love her and his mind has not become disordered on account of her, then I will resign from this office and go to the countryside to become a farmer.
+King: Let us indeed try the test.
+Queen: But look, see where the poor wretch comes reading sadly.
+Pol.: Let us withdraw. Let us question him presently.
+King, Queen, Attendants, etc., exit.
+Ah, forgive me. Greetings, Prince Hamlet.
+-Act 2, Scene 2 - Unfinished
+(Due to limitations of space) <161>
+
+**Summary**
+
+This article from the December 1921 issue of *Kaebyŏk* magazine presents a Korean translation and adaptation of Shakespeare's *Hamlet* by Hyŏn Ch'ŏl. It begins with a detailed summary of Act 1, covering the appearance of the Ghost, Claudius's ascension and marriage, Hamlet's grief and suspicion, Laertes' departure, Polonius's warnings to Ophelia, Hamlet's encounter with the Ghost, and the Ghost's revelation of murder and demand for revenge. The article then translates the beginning of Act 2, Scene 2, where Claudius and Gertrude welcome Rosencrantz and Guildenstern, asking them to discover the cause of Hamlet's madness. Polonius enters, announces the return of ambassadors from Norway with news about Fortinbras, and then claims to have found the true cause of Hamlet's madness – his rejected love for Ophelia – offering her letters as proof and proposing a plan to eavesdrop on Hamlet and Ophelia. The translation cuts off as Polonius prepares to greet the approaching Hamlet.
+
+From the perspective of Korean colonial history, this article is significant as an early example of introducing canonical Western literature, specifically Shakespearean drama, to a Korean audience through translation. It demonstrates the efforts to engage with global culture and adapt the Korean language (using mixed Hanja-Hangul script and contemporary, albeit older, orthography) for modern literary forms during a period of Japanese rule. The choice of *Hamlet*, with its themes of usurpation, revenge, madness, and political intrigue, might have held subtle resonances, though presented here primarily as a literary work. Historians might find interest in the translation choices, the specific orthography and vocabulary reflecting the language of the 1920s, and the role of magazines like *Kaebyŏk* in cultural transmission during the colonial era.
+
+**Named Entities**
+
+개벽	개벽	Kaebyŏk
+하물레트	하물레트	Hamlet
+쉑스피아	쉑스피아	Shakespeare
+玄哲	현철	Hyŏn Ch'ŏl
+엘시노아	엘시노아	Elsinore
+후란시스코오	후란시스코오	Francisco
+빠아나아	빠아나아	Bernardo
+호레에시오	호레에시오	Horatio
+마아제라스	마아제라스	Marcellus
+하믈레트 (先王)	하믈레트 (선왕)	Hamlet (Late King)
+덴마아크	덴마아크	Denmark
+크로오데이야스	크로오데이야스	Claudius
+카아즈루우드	카아즈루우드	Gertrude
+하믈레트 (王子)	하믈레트 (왕자)	Hamlet (Prince)
+뽀로오니야스	뽀로오니야스	Polonius
+레에야아터앗쓰	레에야아터앗쓰	Laertes (Act 1 form)
+모을디민드	모을디민드	Voltimand (Act 1 form)
+고오네리야스	고오네리야스	Cornelius (Act 1 form)
+노오루웨에	노오루웨에	Norway (form 1)
+푸오린뿌리스	푸오린뿌리스	Fortinbras
+노루웟에	노루웟에	Norway (form 2)
+뽈라만드	뽈라만드	Voltimand? (Likely typo for 볼틴만드 - Poltimand/Voltimand)
+佛蘭西	불란서	France
+빅*빠아크대학	빅빠아크대학	Wittenberg University (Pik*ppaak'ŭ Taehak - Literal rendering, likely Wittenberg)
+오휘리야	오휘리야	Ophelia
+레에날드어	레에날드어	Reynaldo
+레에야치이쓰	레에야치이쓰	Laertes (Act 2 form)
+로오쩬크란쯔	로오쩬크란쯔	Rosencrantz
+킬덴스타안	킬덴스타안	Guildenstern
+노을웨에	노을웨에	Norway (form 3)
+볼틴만드	볼틴만드	Voltimand (Act 2 form)
+
+**Glossary**
+
+守直	수직	Standing guard duty (Older term/Hanja usage)
+交代	교대	Change (of guard), alternation
+鬼神	귀신	Ghost, spirit
+亡靈	망령	Departed spirit, ghost
+近况	근황	Recent situation, current state of affairs
+崩御	붕어	Death of a king or emperor
+君臨	군림	Reign, rule
+兄嫂	형수	Older brother's wife
+訓誡	훈계	Admonition, instruction
+付託	부탁	Request, entrustment
+凶事	흉사	Tragic event, unfortunate incident (here, father's death)
+宜當	의당	Naturally, properly (Older adverb form)
+懷疑	회의	Doubt, suspicion
+心理	심리	Psychology, mental state
+動撓	동요	Agitation, wavering, disturbance
+獨白	독백	Soliloquy, monologue
+容態	용태	Appearance, condition
+半信半疑	반신반의	Half-believing, half-doubting
+作定	작정	Decision, determination
+邸宅	저택	Mansion, residence
+催促	최촉	Urging, pressing
+訓諭	훈유	Instruct, admonish (formal)
+至毒히	지독히	Severely, bitterly (Older adverbial form)
+亂飮	난음	Disorderly drinking, carousing
+劇白	극백	Dramatic dialogue/speech (Likely coined term for 'dramatic lines' or 'dialogue')
+顚末	전말	The whole story, full details
+苛責	가책	Torment, pangs (of conscience)
+盟誓	맹세	Oath, pledge
+助力	조력	Help, assistance
+門客	문객	Retainer, dependent living in a house
+探知	탐지	Detect, find out, inquire into
+奏達	주달	Report to the king/throne
+朕	짐	'I' or 'We' used by a sovereign
+慰勞	위로	Comfort, consolation
+報酬	보수	Reward, compensation
+臣等	신등	'We subjects' (Humble plural form used when addressing royalty)
+惶恐無地	황공무지	Overwhelmed with gratitude/awe (Formal expression)
+賤軀	천구	My humble body (Self-deprecating term)
+誠力	성력	Sincerity and effort
+吉報	길보	Good news
+神明	신명	Gods, deities
+衷心	충심	Loyalty, devotion
+頭腦	두뇌	Brain
+計策	계책	Plan, stratagem, scheme
+痕跡	흔적	Trace, mark, vestige
+謁見	알현	Audience (with royalty)
+處分	처분	Order, instruction, disposition (used respectfully towards royalty)
+姪王	질왕	Nephew king/prince
+訊議	신의	Inquire and discuss
+譴責	견책	Reprimand, rebuke
+干戈	간과	Weapons, arms (metaphor for war/conflict)
+年額	연액	Annual amount
+下賜	하사	Bestow, grant (from a superior)
+御領內	어령내	Within your territory (honorific)
+簡潔	간결	Brevity, conciseness
+心髓	심수	Marrow, essence, core
+張皇	장황	Exaggeration, grandiloquence, wordiness
+虛飾	허식	Ostentation, affectation, empty forms
+鈍한	둔한	Dull, slow-witted
+文飾	문식	Embellishment (of writing)
+除例	제례	Setting aside as an exception, disregarding
+假定	가정	Assumption, hypothesis
+賢察	현찰	Wise judgment/consideration (honorific)
+洞燭	동촉	Perceive clearly, see through
+艶書	염서	Love letter
+形軆	형체	Body, form (Older form of 형체)
+女息	여식	Daughter (Formal/older term)
+背反	배반	Betrayal, turning against
+悒鬱	읍울	Melancholy, depression
+愁嘆	수탄	Grief, lamentation
+垂帳	수장	Curtain, hanging screen (Arras)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제18호
+발행일	1921년 12월 01일
+기사제목	하물레트
+필자	쉑스피아(原作), 玄哲(譯述)
+기사형태	희곡·시나리오
+
+하물레트
+						쉑스피아(原作), 玄哲(譯述)
+前幕槪要
+第1幕
+第1場
+엘시노아 宮城高臺前에서 兵卒 후란시스코오가 守直을 하고 잇다. 이때는 이미 밤중이엇다. 그때에 隊長 빠아나아가 들어와 交代할 때이엇다. 그뿐만 아니라 젊은 學者 호레에시오와 또 將校인 마아제라스가 한 가지 守直하게 되엇다. 그것은 이 數日內에 宮城近處에서 鬼神이 나타나는데 그것이 先王 하믈레트와 갓다는 말이엇섯는 故로 그것이 참말인지 거진 말인지 試驗하기 爲하야 學者인 호레엣시오가 온 것이다. 果然 말과 가티 새로한 點이 되자 亡靈이 나타낫는데 그 服裝과 外貌가 先王과 꼭 가탓다. 호레에시오는 이 亡靈에게 말을 하랴고 하여도 아무 말이 업시 그냥 사라지고 말앗다. 그리하여 亡靈에 對한 일과 덴마아크의 近况을 이악이하고 잇는 中 또 亡靈이 나타낫다. 그러나 亡靈과 말은 못하고 그냥 사라지고
+마는 것만 보앗다.
+
+第2場
+背景은 엘시노오아의 王城, 城內 큰 殿閣이엇다. 羅叭소리가 나면서 國王 크로오데이야스가 압서고 뒤로 王妃 카아즈루우드와 王子 하믈레트며 侍從長 뽀로오니야스, 그 아들 레에야아터앗쓰, 朝臣 모을디민드 고오네리야스 其他 公卿侍者等 多數가 들어왓다. 國王이 近親과 諸臣에게 兄王이 崩御한 일과 國家形便上 어찌할 수 업서 自己가 君臨된 일과 또 形便上 兄嫂이요 前王妃인 카아즈루우드와 結婚한 것을 말하엿다. 그리하야 여러 가지로 十二分의 喜色을 나타내어 보이고 오늘 이곳 公卿을 모이게 한 것은 노오루웨에 王의 족하＜154＞ 푸오린뿌리스가 往昔에 兄王 하믈레트와 自己의 叔王과 明文上 契約으로 그 王土를 덴마아크에 提供함을 不拘하고 叔王의 病老함을 奇貨로 하여 덴마아크에 對하야 異心을 둔다는 것을 朝問하여 使者을 노루웟에王에게 보내 決定하랴고 朝臣 뽈라만드와 고오네리야스를 보내게 되엇다. 그 뒤에는 侍從長의 아들 레에야아디이쓰에게 무러 그 所願을 말하라하며 叔父와 이 王座는 떠나지 못할 交情이 잇다하며 레에야아디이쓰의 所願대로 佛蘭西에 다시 가기를 許하엿다. 그리고 國王은 또 하믈레트를 對하야 여러 가지 訓誡의 말이 잇고 이미 父王이 돌아가섯스니 나를 父王과 다름업시 섬기라고 付託을 하엿다. 先是에 하믈레트가 빅*빠아크대학에 在學하다가 父王의 凶事를 듯고 歸國하엿는데 宜當이 다시 그 大學으로 갈 것이나 새로 君臨한 叔王과 그 母后가 못가게 하엿고 하믈레트도 父王의 死에 懷疑하고 아니가기로 하엿다. 그리하여 하믈레트는 그 父王의 崩御한데 對하여 疑心이 甚할스록 그 心理의 定着이 되지못한 動撓의 言辭가 잇섯다. 그리고 國王은 王妃 及 모든 近臣을 다리고 나갓 고 오즉 하믈레트 혼자 殿閣에 남아잇섯다. 하믈레트 혼자 父王의 崩御한 原因에 疑點과 父王이 崩御한 後因山을 마치고 하루가 멀다고 그 母后가 叔父와 結婚한 것이 人道上 못할 짓이라는 怨望의 獨白이 잇섯다. 그리할때에 호레에시오와 마아세라스며 빠나아드가 들어와 自己의 눈으로 亡靈본 이악이를 하고 그 容態가 崩御하신 先王과 다름이 업다는 것을 告하얏다. 이 말을 들은 하믈레트는 半信半疑하면서도 더욱 疑心을 품게되어 어찌하엿던지 오늘밤을 期約하여 가보기로 作定하엿다.
+
+第3場
+背景은 侍從長 뽀로오니아스邸宅 一室이다. 그 아들 레에야아티이쓰와 그 누의동생 오휘리야가 들어와서 第2場에 國王의 許諾을 어더 다시 佛蘭西에 가게 된 離別劇白이엇섯다. 그 누의에게 訓誡하여 戀愛의 危險한 것을 이르고 하믈레트와 함부로 戀愛를 말라는 말이 잇섯다. 그리할 동안에 父親 뽀로오니야스가 들어와 出船의 準備가 다 되엇고 또 여러 사람들이 埠頭에서 기다리니 어서 가라고 催促하며 그 아들을 보내고 그 딸다려 또 하믈레트와 너와 戀愛하는 것은 相當치 못하다고 訓諭하엿다.
+
+第4場
+背景은 第1幕 第1場과 갓다. 하믈레트와 호레에시오와 마아세라스가 딸아 들어온다. 먼저 至毒히 치운 밤이라는 말이 잇고 宮庭에서 亂飮하는 것이 惡習慣이라는 나무람에 劇白이엇섯다. 그리자 亡靈이 나타낫다. 하믈레트는 그 亡靈에게 心願하는 劇白과 또 그 出現되는 理由를 말하라고 하엿다. 그러나 亡靈은 말이 업고 오즉 손짓으로 하믈레트를 부르기만 하엿섯다. 하믈레트는 이 亡靈을 딸아가랴고 하엿다. 가티잇는 두사람은 危險하니 가지말라고 하엿스나 하믈레트는 믓지아니하고 딸아갓다.
+
+第5場
+背景은 亦是 高臺인 他一部分이다. 하믈레트와 亡靈 단 두리 말하게 되엇다. 그 亡靈이 하믈레트의 父王인 것 말하고 現王인 自己의 아우가 그 王妃와 結托하여 自己를 毒殺한 顚末과 自己가 地獄에서 毒刑맛는 事綠을 一一히 말하고 復讐하기를 付托하면서도＜155＞ 그 어미에게 손을 대지말고 그 良心의 苛責으로 죽게하라고 하엿다. 그리고 亡靈은 사라젓다. 이와 먼저하여 호레에시오와 마아세라스는 하믈레트가 亡靈을 딸아가서 무슨 탈이나 날가 하여 차자단이다가 이때에 하믈레트를 만나 亡靈의 하던 말을 무럿다. 그러나  하믈레트는 함브로 말하기가 어려워 이 두사람에게 秘密을 직키겟다는 盟誓를 밧고 그 大約을 말한 後 復讎의 助力을 하여 달나고 盟誓를 바닷다. 이 5場까지 1幕의 끗이다.
+
+第2幕
+第1場
+背景은 第1幕 第3場과 가티 뽀로오니야스邸의 一室이엇다. 뽀로오니야스가 門客 레에날드어에게 金錢과 書信을 주면서 이것을 佛蘭西에 가잇는 自己아들 레에야치이쓰에게 갓다주라고 하엿다. 그리고 레에야치이쓰를 만나기 前에 그 아들의 擧動을 探知하여오라하며 그 探問하는 方法을 여러 가지로 일너 주엇다. 그리하여 레에날드어를 보낸 後에 그 딸 오휘리야가 놀난 얼굴로 들어오더니 글 父親에게 하믈레트殿下가 狂症이 나서 自己에게 와서 狂症부리던 것을 말하얏다. 그 父親은 이것이 암아 戀愛의 發狂인가 하야 여러 가지로 적정하엿다. 그리고 이러한 事實을 國王엔게 奏達치 아니할 수가 업다고 作定하는 것으로 이 幕은 닷첫다.
+
+第2幕
+第2場
+城中의 一室
+羅叭소리와 한가지 國王, 王妃廷臣 로오쩬크란쯔 킬덴스타안 及 侍臣若干이 나온다.
+國王·  아아, 잘왓다. 로오쩬크란쓰, 킬덴스타안! 以前부터 좀 볼야고도 하엿거니와 그 外에 付托할 말도 잇섯는 까닭이다. 암아 所聞을 들어서도 알겟지만, 近來 하믈레트가 發狂을 하여서 그 外貌와 內心이 以前가튼 㾗跡은 족음도 볼 수가 업다. 이와가티 自己의 理智를 일케된 것은 그 父王의 돌아가 以外에는 무엇이 또 잇는지 내가 夢想에도 알 길이 업다. 너이들에게 付托하는 것은 곳 이 일이다. 어릴 적부터 거치 자라낫으니 그애의 心情도 잘 알것이다. 얼마동안 여기에 머물너 가까이 相從을 하여, 慰勞하는 말노 그 애를 달내어 朕이 아즉 알지 못하는 것을 알게하면 治療할 方便도 업지 아니할 것이다. 그 애의 苦悶하는 原因을, 틈이 잇거던 探知하여다고.
+王妃·  오오, 그대들, 그대들을 하믈레트가 때때로 잇지 안코 이악이하는 것을 보니까 그대들과 가티 王子와 마음이 맛는 사람은 이 세상에서 둘도 업는 것갓다. 오래동안 宮中에 머무러 우리들의＜156＞ 바라는 바를 成就케 하여 禮儀와 精誠을 다하면 이번 叅內는 國王의 感謝에 相當한 報酬를 밧게 하리라.
+로오·  兩陛下께옵서는 臣等의 우에 臨하시사 無上의 大權으로써, 御意에 잇사오면 嚴命의 處分을 내리오시는 것이 可하옵시거늘 付托이라는 處分은 惶恐無地이옵나이다.
+킬덴·  惶恐하오나 臣等兩人이 處分을 밧자와 賤軀를 바치고 誠力을 다하와 陛下의 天意에 구김이 업도록 하겟삽나이다.
+國王·  朕은 卿等에게 感謝의 뜻을 表하는 바이다. 로오쩬크란쯔, 킬덴스다안.
+王妃· 고마운 말이다. 킬덴스아안, 로오쩬크란쯔, 그러면 只今이라도 變한 그몸이 끗업는 王子를 가보아다고. 자아- 누구던지 이내들을 하믈레트에게 案內해드리라.
+킬덴· 한우님요, 願큰대 우리들로 하여곰 參進과 忠勤이 王子殿下의 嘉納이 되어 復本의 一助가 되게하여 주옵소서.
+王妃· 아아, 한우님요.
+로오쩬란크쯔, 칼덴스다안 數名의 侍臣을 딸아 들어간다.
+뽀로오니야쓰 들어온다.
+뽀로·  아뢰옵내다. 陛下께. 使臣이 吉報를 담아 노을웨이로부터 歸國하엿습니다.
+國王·  卿은 언제던지 吉報만 傳하는 늙은이다.
+뽀로·  臣의 말슴이오니까? 惶悚하오나 神明에 盟誓코 臣은 神明에 對한 本心이나 陛下께 바치는 本意이나 그 職分을 지키는 衷心은 靈魂을 지키는 것과 족음도 틀림이 업습니다. 그런 까닭에 探問해 낼 것 가틉니다... 그러치 아니면 臣의 이 頭腦는 벌서 只今과 가티 計策의 痕跡을 마(嗅)타낼 수가 업게 되엇습니다. ... 아니 確實히 하믈레트殿下의 氣狂하신 理由를 發見하엿습니다.
+國王·  아아! 速히 일러다고. 그것을 들으랴고 기다린지 오래이다.
+뽀로·  먼저 使臣을 謁見하는 處分을 내리옵소서. 臣이 奏達하랴고 하는 것은 큰 잔채뒤에 나오는 입가슴의 果實과 가튼 것입니다.
+國王·  그러면 卿이 모든 節次를 차려 使臣을 이리 불러오게 하여라.＜157＞
+뽀로오니야쓰 들어간다.
+카아쯔루우드 王子의 亂心의 源因을 모다 안 것가티.
+王妃·  글세오니까. 疑心스럽습니다. 老翁의 말이라도 정녕코 그 父王의 崩御하신 것이라던지 또는 우리들의 急히 結婚한 까닭이라고 하는 것이 아마 큰 理由겟지요.
+國王·  으음! 그런지 저런지 두루 보아야지.
+뽀로오니야쓰, 뽈틴만드, 고오네리야쓰의 두사람을 다리고 들어온다.
+卿等은 無事히 歸還하엿나. 볼틴만드야, 그래서 저 노을웨에 王의 回答이 무어라고 하던가?뽀올·  鄭重하신 回答, 처음 陛見에 곳 便臣을 보내시사 姪王의 出軍準備를 中止케 하셧습니다. 그것은 포오란드를 征伐하랴는 줄만 생각하셧던지 여러 가지로 訊議하신 結果 陛下께 反意를 가진 것인 줄 아시고 크게 놀라시며 老病이 自由가 업는 까닭이라고 歎息하시며, 곳 포오틴풀라스殿下를 逮捕하라고 使臣을 差遣하셧습니다. 殿下는 그 命令에 伏從하여 王의 譴責을 바드시고 그 結果 陛下께 對하와는 以後로 決코 干戈를 動치 아니하랴고 叔王前에 盟誓를 하엿습니다. 老王은 그것을 喜悅하시사 年額3000크라운을 下賜하시고 그 前에 募集한 軍隊는 포오란드 征伐에 쓰라고 許可를 내리엇습니다. 거긔에 對한 願望은 仔細한 것이 이 書面에 잇사오나 (書面을 들인다) 아모쪼록 이 計劃을 爲하여 御領內를 平和로이 通過할 許可를 내리시사, 途中에서 完全을 엇도록 國書에 씨어잇습니다.
+國王·  그것은 가장 나의 뜻에 可合한 말이다. 틈이 잇스면, 仔細이 읽은 後에, 깁히 생각하여 回答은 하겟다. 卿等 둘은 물러가 쉬여라. 大事를 無事히 마첫스니. 밤이 들거던 한가지 술이나 먹자. 無事히 돌아왓슴을 깃버한다.
+볼틴만드, 고오네리야쓰 물너간다.
+뽀로·  이번 大事도 無事히 마첫습니다. 그런데 國王陛下, 皇后陛下. 君王의 權威라고 하는 것이 무엇인지, 臣下의 義務라고 하는 것이 무엇인지 또는 무슨 까닭으로 낫은 낫이며 밤은 밤인지, 때는 때인지 하는 것을 論議함은 다맛 낫이나 밤이나＜158＞ 때를 空然이 虛費하는데 지나지 안는 것이 올시다. 그러함으로 簡潔이라고 하는 것은 智慧의 心髓요, 張皇이라고 하는 것은 手足 또는 外形을 虛飾하는 것이라고 할 수가 잇습니다. 그러함으로 臣은 極히 簡潔하게 이 말슴을 奏達하랴고 합니다. 王子殿下의 御 狂氣는 果然 狂氣라고 말슴을 올리지 안흘 수가 업습니다. 웨 그러냐하오면 미리 狂氣의 定義를 내리랴고 하는 것은 畢竟 狂氣와 가튼 行動이라고 하지 안흘 수가 업습니다. 그러나 그것은 그것이라도 ... .
+王后·  아니 말의 色彩를 꾸미는 것보다도. 必要한 事實을.
+뽀로·  皇后陛下 웨 小臣이 虛辭와 空言을 아뢰오리까. 王子가 氣狂하신 것도 事實입니다. 眞情으로 가엽슨 일입니다. 가엽다는 것이 事實입니다. 아니 鈍한 文飾. 그것은 그만두고라도 인제는 꾸민다는 것은 除例하옵고. 第1 氣狂하셧다고 假定하고, 남아잇는 우리들이 그 結果의 原因을 發明한 그 끗 ... 이라고 하는 것보다도 或은 그 缺陷의 原因이라고 하는 것이 當然이라고 하올는지요. 何故이냐고 處分을 내리시면 그가튼 缺陷만흔 結果는 果然 因原이 업고는 날 것이 아니올시다. 이러한 것이 곳 아뢰(奏)고 남은 것으로. 곳 남아지의 한 條件은 이러하옵내다. 特히 御賢察하옵소서. ... 臣에게 한 딸 子息이 잇습니다. ... 그것은 手中에 잇슬 때의 일... 그년이 孝順의 마음으로. 들어주시옵기를. 이 글을 臣에게 보이엇습니다. 바라옵건대 洞燭하옵소서.
+라고 艶書를 내여 읽는다.
+『天使와 가티 생각하는 나의 魂靈의 偶像 우업시 艶麗한 오휘리야요』... 이것은 凶惡하다. 濁하다. 濁한 文句다. 『艶麗한』이라고 한 것은 탁한 글귀다. 何如큰 그 뒤를 들어보십시요. 이러합니다.
+라고 또 읽는다.
+『그대의 보들어운 힌 가슴에 이가튼 노래를 如斯如斯히』
+王妃·  그것이 저어 하믈레트가 오휘리야에게?
+뽀로·  陛下 暫間만. 잇는 그대로 아뢰(奏)겟습니다.＜159＞
+라고 또 읽는다.
+별에 빗업다고 생각은 하여도
+해는 멈은다고 생각은 하여도
+참을 거짓이라 생각은 하여도
+내게 慈愛업다 생각지 말아라
+可히 어여쁘고 잇지못할 오휘리야야. 나는 글字를 모으는데 才操가 업고 字數를 채워 노래 부르는데 長技가 업다. 그러나 그대를 사랑하는 마음이야말로 깁고 깁고  우업시 깁흔 줄을 미더다고 그러면」
+『이치지 못하는 나의 사랑에게 이 形軆가 잇슬 동안에는 永遠히 그 몸에 잇슬 하믈레트』이글을 女息이 命令대로 臣에게 보이엇습니다. 그뿐만 아니라 어떠한 때에 어떤 곳에서 어떠한 말을 한 것까지 죄다 알고 잇습니다.
+國王·  그래 거긔에 對하여 오휘리야의 行動은?
+뽀로·  臣을 어떠한 人物로 洞燭하시는 지요?
+國王·  誠忠이 兩全한 名譽잇는 男兒로.
+뽀로·  그러케 되고 십습니다. 그러타고 어떠케 洞燭을 하옵시는 지요. ...臣이 激烈한 戀愛의 날애(翼)를 볼 때에... 이것은 미리 奏達치 아니하면 아니될 것이나... 女息에게 듯기前에 特히 그러한 擧動을 보기는 하엿사오나... 어떠케 洞燭하실는지 陛下께서나 皇后陛下께옵서. 그럴 때에 臣이 冊箱설합이나 帳簿와 가티 萬一에 눈을 넌짓이 감고 아모 말 업시 보고만 잇섯더면... 어떠케 兩陛下께옵서는 생각하시겟삽니까? 아니 臣은 곳 着手하엿습니다. 이러한 말을 女息에게 일럿습니다. 『하믈레트』殿下는 王子이시다. 너하고는 身分이 다르신 이다. 그런 일이 잇서서는 못될 일이다』라고 일러 듯기고 殿下가 出入하시는 곳에는 몸을 避하고 使喚을 멀리하며 下賜品을 밧지말라고 일는 結果 女息은 그 말을 딸아 어김업시 지켜왓습니다. 그래서 殿下는 背反을 當하고... 簡單히 아뢰오면... 悒鬱에 빠졋섯고 딸아서 斷食, 또는 不眠, 딸아서 衰弱, 거긔에다 또 傷心을 하신 까닭에 自然의 形勢로 漸漸 그것이 더하여 只今 이러한 狂亂의 地境까지 이르러서 上下一同의 愁嘆의 꺼리가 된 것이옵니다.＜160＞
+國王·  (妃를 보고) 거긔도 그러케 생각하나요?
+王妃·  정말 그런 듯도 생각이 듬니다.
+뽀로·  臣이 自進하여 어떠한 일이던지「이럿타고」奏達한 것에 그 뒤에라도 그러치 아니 한때가 한번이라도 잇고만 보면 그것을 들려주시게 합소서.
+國王·  그것은 나도 記憶치 못하겟는데.
+뽀로·  (自己의 머리와 어깨를 가리치며) 萬一 틀림이 잇삽거던 이것을 取하십시요. 차질만한 方法만 잇삽거던 어대에 眞理가 숨어잇는지, 비록 地球中央에 잇더래도 차자내셔서 보이어 드리겟습니다.
+國王·  그런 以上에는 어찌하엿던지 眞否를 試驗하여 보지 아니할 수가 업다.
+뽀로·  아시는 바와 가티 殿下께서는 때때로 여러 時間을 거니십니다.
+王妃·  정말 그러케 단입니다.
+뽀로·  그럴 때에 女息을 殿下압흐로 보내옵시다. 그래서 陛下와 臣은 垂帳뒤에 숨어서 맛나는 模樣을 보십시요. 萬一에 女息과 戀愛를 하지 아니하시고 또 글로 因하여 그 마음이 어지러이 되지 아니하셧스면 臣은 이 職官을 辭免하고 農村에 들어가 百姓이라도 되겟습니다.
+國王·  如何 큰 試驗을 해보지.
+王妃·  그런데 보십시요. 저긔에 불상한 本人이 해쓱한 形軆로 무슨 冊을 보면서 옵니다.
+뽀로·  저쪽으로 나십시요. 곳 말을 무러 보십시다.
+國王, 王后, 從者 等 들어간다.
+아아 容恕하십시요. 하믈레트殿下 問安을 들입니다.
+-第2幕 第2場- 未完
+(紙面의 關係로)＜161＞
+＜154-161＞

@@ -1,0 +1,70 @@
+**Header Section**
+Magazine Title: 개벽 제9호
+Publication Date: 1921년 03월 01일
+Article Title: [무제] ([Untitled])
+Article Type: 잡저 (Miscellaneous Writing)
+
+**Body Text Translation**
+The secret of education lies in discovering the method to spend time wisely and cleverly, and the purpose of education is to make children become individuals of self-respect and self-governance.
+Herbert Spencer
+
+Do you consider merely eating and sleeping the way of a gentleman and lady? Do you think that one who eats, then sleeps, and upon waking sits idly, has a more pleasant heart than one who works steadily? I ask again. What benefit do comfort and laziness give us? Is it beneficial for maintaining health? Is it beneficial for achieving wealth? Is it beneficial for preserving the family? Or is it beneficial for success in academics? If examined closely, are there not a hundred losses and not a single gain?
+The Greek Sage Socrates<100>
+
+**Summary**
+
+The article presents two short passages, attributed to Herbert Spencer and Socrates, emphasizing the value of productive use of time and diligence over idleness. Spencer's quote focuses on education's role in fostering self-reliance and wise time management. The second passage, attributed to Socrates, directly questions the value of a leisurely life of eating and sleeping, arguing it brings no benefit compared to steady work, whether for health, wealth, family, or learning. From a Korean colonial history perspective, this article is interesting as it reflects the promotion of Western enlightenment ideals (self-reliance, diligence, education) in early 1920s Korea. Publishing such content in *Kaebyŏk*, a prominent intellectual magazine, suggests an effort to inspire Koreans towards self-improvement and modernization, possibly as a form of cultural resistance or nation-building under restrictive colonial conditions.
+
+**Named Entities**
+
+하바-드·스펜사	하버드 스펜서	Habatŭ-dŭ Sŭp'ensŏ
+希臘聖人 소크라테쓰	희랍성인 소크라테스	Hirap Sŏngin Sok'ŭrat'essŭ
+
+**Glossary**
+
+敎育	교육	Education
+秘訣	비결	Secret; key; knack
+賢妙히	현묘히	Wisely and cleverly (older adverbial form)
+時間	시간	Time
+費하다	비하다	To spend; expend (older form, now usually 소비하다 or 쓰다)
+方法	방법	Method; way
+發見하다	발견하다	To discover
+目的	목적	Purpose; aim; goal
+兒童	아동	Children
+自重自治	자중자치	Self-respect and self-governance
+人物	인물	Person; figure; character
+從食徒眠	종식도면	Merely eating and sleeping; living only to eat and sleep
+紳士淑女	신사숙녀	Gentleman and lady
+思惟하다	사유하다	To think; consider (older form, now usually 생각하다)
+閑坐하다	한좌하다	To sit idly
+着着히	착착히	Steadily; step-by-step
+胸中	흉중	In one's heart; mind
+愉快하다	유쾌하다	Pleasant; cheerful
+安逸	안일	Ease; comfort; idleness
+怠惰	태타	Laziness; sloth; indolence
+利益	이익	Benefit; profit; gain
+健康	건강	Health
+保하다	보하다	To preserve; maintain (older form, now usually 보호하다 or 지키다)
+富	부	Wealth; riches
+致하다	치하다	To attain; achieve; reach
+家	가	Family; household
+學業	학업	Studies; academic work
+成功	성공	Success
+精査하다	정사하다	To examine closely; scrutinize
+百失	백실	A hundred losses; numerous disadvantages
+一得	일득	A single gain; one advantage
+希臘聖人	희랍성인	Greek Sage
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제9호
+발행일	1921년 03월 01일
+기사제목	[무제]
+기사형태	잡저
+
+敎育의 秘訣은 賢妙히 時間을 費하는 方法을 發見함에 잇스며 敎育의 目的은 兒童으로 하야금 自重自治의 人物이 되게 함에 잇는 것이다.
+하바-드·스펜사
+汝는 從食徒眠으로써 紳士淑女의 道로 思惟하는가, 먹고는 자고 깨며는 閑坐하는 者로써 着着히 일하는 者보다도 그 胸中이 愉快하리라. 思惟하는가 다시 뭇노라. 安逸과 怠惰가 우리에게 무슨 利益을 주는가. 健康을 保함에 益한가 富를 致함에 益한가 家를 保함에 益한가 抑學業의 成功에 益한가. 精査하야 보면 百失이 有하고 一得이 無하지 안흔가.
+希臘聖人 소크라테쓰＜100＞

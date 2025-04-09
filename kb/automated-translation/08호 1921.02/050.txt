@@ -1,0 +1,64 @@
+잡지명	개벽 제8호
+발행일	Not provided in snippet
+기사제목	이것보시요(乾) (Look at This (Part 1))
+기사형태	잡저 (Miscellaneous Writing)
+
+Look at This (Part 1)
+
+Among the many goods we import from foreign countries (外國) and use, in just one year (Taishō 7 [1918]):
+The amount of money flowing out for the import of envelopes (封套) is 130,793 Yen (圓)
+The money escaping for the import of pencils (鉛筆) is 56,285 Yen
+The import value of Western-style umbrellas (박쥐洋傘) is 207,470 Yen
+The amount of money escaping for matchboxes (셩냥갑) is 311,842 Yen
+The money escaping for Western paper (洋紙) is 1,889,775 Yen
+The money flowing out for the import of fruits (果實類) is 1,163,195 Yen
+The import value of alcoholic beverages (酒類) is 1,999,022 Yen<18>
+
+**Summary**
+
+This article highlights the significant amount of money leaving Korea due to the import of common consumer goods from foreign countries in the year 1918 (Taishō 7). It lists specific figures in Yen for items like envelopes, pencils, umbrellas, matches, paper, fruit, and alcohol, emphasizing the economic drain associated with relying on these imported products. For historians, this provides a snapshot of Korea's consumption patterns and economic dependency during the early colonial period, quantifying the outflow of capital for everyday items and reflecting concerns about national economic self-sufficiency.
+
+**Named Entities**
+
+None identified in the text.
+
+**Glossary**
+
+外國	외국	Foreign country
+브터	부터	From (older spelling of 부터)
+幾多	기다	Many; numerous
+物品	물품	Goods; articles
+輸入	수입	Import
+하야	하여	Doing; via (older spelling/form of 하여)
+單一年間	단일년간	During a single year
+大正 七年	대정 칠년	Taishō 7 (Year 1918 in the Japanese era name)
+封套	봉투	Envelope
+빠저나가는	빠져나가는	Escaping; flowing out
+金額	금액	Amount of money
+鉛筆	연필	Pencil
+다라나는	달아나는	Escaping; running away (older spelling of 달아나는)
+박쥐洋傘	박쥐양산	Western-style umbrella (lit. bat umbrella)
+셩냥갑	성냥갑	Matchbox (셩냥 is an older spelling of 성냥)
+洋紙	양지	Western paper
+果實類	과실류	Fruits (category)
+酒類	주류	Alcoholic beverages (category)
+圓	엔	Yen (Japanese currency unit)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제8호
+발행일	
+기사제목	이것보시요(乾)
+기사형태	잡저
+
+이것보시요(乾)
+우리가 外國으로브터 幾多 物品은 輸入하야 쓰는 中 單一年間(大正 七年)에
+封套의 輸入으로 빠저나가는 金額이 130793圓
+鉛筆의 輸入으로 다라나는 돈이 56285圓
+박쥐洋傘의 輸入額이 207470圓
+셩냥갑으로 다라나는 金額이 311842圓
+洋紙로 다라나는 돈이 1889775圓
+果實類의 輸入으로 빠저나가는 돈이 1163195圓
+酒類의 輸入額이 1999022圓＜18＞

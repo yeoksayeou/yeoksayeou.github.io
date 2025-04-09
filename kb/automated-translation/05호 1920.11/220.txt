@@ -1,0 +1,57 @@
+Magazine Title: 개벽 제5호
+Publication Date: [Not Provided]
+Article Title: [무제] (Untitled)
+Author: [Not Provided]
+Article Type: 문예평론 (Literary Criticism)
+
+What is poetry (詩)?
+
+Poetry (詩) refers to verse (韻文). Its characteristics are possessing a melody (音調) suitable for singing, having a tightly structured form (形式), and being inverted compared to ordinary writing (文章). If it possesses even one of these three qualities (性質), it can be called poetry. Kasa (歌詞) and Sijo (詩調) are the traditional poetry of Korea (朝鮮); recent New Style Poetry (新體詩) imitates Western poetry (西洋詩). Chinese poetry (漢詩) is the poetry of China (支那).<94>
+
+**Summary**
+
+This short piece defines poetry as verse characterized by musicality, a tightly structured form, or linguistic inversion compared to standard prose. It categorizes Kasa and Sijo as traditional Korean poetic forms, identifies the emerging Sinch'esi (New Style Poetry) as an imitation of Western models, and acknowledges Hansi (Chinese poetry) as the distinct poetic tradition of China. From a historical perspective, the article is interesting for its clear classification of poetic forms prevalent or recognized in colonial Korea, drawing distinctions between native traditions, foreign influences (Western and Chinese), and the emergence of modern forms. The use of the term 支那 for China is also characteristic of the period.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+支那	지나	China (支那)
+
+**Glossary**
+
+詩	시	Poetry
+韻文	운문	Verse; rhymed composition
+特色	특색	Characteristic; special feature
+音調	음조	Melody; tone; rhythm
+形式	형식	Form; structure
+緊張한	긴장한	Tightly structured; tense (here, referring to form)
+普通	보통	Ordinary; common
+文章	문장	Writing; prose; sentence
+比較	비교	Comparison
+轉倒되어	전도되어	Being inverted; being turned upside down
+잇는	있는	To have; to possess (older spelling of 있다)
+以上	이상	The aforementioned; above
+性質	성질	Quality; characteristic; nature
+具有한	구유한	Possessing; having
+歌詞	가사	Kasa (a traditional Korean verse form); lyrics
+詩調	시조	Sijo (a traditional Korean verse form)
+朝鮮	조선	Joseon; Korea
+古來	고래	Since ancient times; traditional
+近者	근자	Recently; recent times
+新體詩	신체시	New Style Poetry (influenced by Western forms)
+西洋詩	서양시	Western poetry
+模倣한	모방한	Imitated; copied
+漢詩	한시	Chinese poetry (poetry written in Classical Chinese)
+支那	지나	China (older term, potentially derogatory)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제5호
+발행일	
+기사제목	[무제]
+기사형태	문예평론
+
+詩라고 하는 것은 무엇인가.
+詩라고 하는 것은 韻文을 가르쳐 말한 것이니 그 特色은 노래로 부를 만한 音調를 가진 것과 또 形式이 緊張한 것과 普通의 文章과 比較하여 轉倒되어 잇는 것이나 以上 3種의 性質 中 어떠한 것이던지 1種만 具有한 것이면 詩라고 할 수 잇는 것이다. 歌詞와 詩調는 朝鮮 古來의 詩요 近者 新體詩는 西洋詩를 模倣한 것이요. 漢詩는 支那의 詩이다.＜94＞

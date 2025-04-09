@@ -1,0 +1,91 @@
+Magazine Title: 개벽 제47호
+Publication Date: 1924년 05월 01일
+Article Title: 至急社告 (Urgent Company Notice)
+Author: N/A
+Article Type: 사고·편집후기 (Notice/Editorial Note)
+
+△Urgent Company Notice△
+
+Our company (弊社), which has hitherto striven for substance and put into practice (懋實力行) a reader-oriented (讀者本位) approach, has frequently and irregularly published double-sized issues (倍大號), enlarged issues (增大號), or otherwise temporary (臨時號) or special issues (特別號) whenever we captured something significant, whether spatially or temporally.
+
+As a result of this excessive practice (濫行) of irregular publishing (無常出判), errors (誤錯) in the magazine fees (誌代) and shipping costs (送料) entrusted for sending (送托) daily by readers from various regions (各地方) have finally become extremely numerous and severe (夥甚). This repeatedly causes mutual trouble (互相間의 煩惑을 層生케함), which we truly believe is an enormous obstacle (莫大한 障碍) to the improvement of the company's fortunes (社運向上).
+
+At the same time, out of urgent necessity (必要上) to rectify (矯捄) this situation without delay, we hereby decisively implement (斷行) the revision of the magazine's fixed price (雜誌定價의 改正), a long-pending issue (多年懸案), as follows. Accordingly (라서), we also append notes (主義件) regarding sending money (送金). We earnestly request (懇望) that all our esteemed readers (愛讀者諸賢) pay special attention (特別用意) to this company notice (社告) from now on.
+
+(Kaebyŏk Fixed Price Revision Table) (開闢定價改正表)
+
+**Summary**
+
+The publisher of *Kaebyŏk* magazine announces an urgent revision to its pricing structure. They explain that their frequent practice of publishing various enlarged or special issues, while intended to serve readers by capturing timely content, has led to widespread errors and confusion regarding subscription fees and shipping costs sent by readers across different regions. This situation has become a major hindrance to the company's operations. Therefore, they are implementing a new, fixed pricing system (details presumably followed in a table not included in the source) and provide new instructions for sending payments, urging readers to take careful note.
+
+This notice offers insight into the practical business challenges faced by a Korean publication during the colonial period. The effort to publish special issues responsive to events ("空間的으로나 時間的으로나 무엇을 捕捉하기만하면") suggests journalistic ambition, but the resulting financial and logistical complexity highlights the difficulties of managing distribution and payments ("誌代及送料의 誤錯이 夥甚") across regions under potentially underdeveloped or restrictive colonial infrastructure. Historians might find the specific mention of these operational difficulties and the formal appeal to readers useful for understanding the publishing environment and reader relations of the time.
+
+**Named Entities**
+
+None
+
+**Glossary**
+
+至急社告	지급사고	Urgent Company Notice
+爾來	이래	Since then, hitherto
+讀者	독자	Reader
+本位	본위	Standard, basis (e.g., 讀者本位 reader-oriented)
+懋實力行	무실역행	Strive for substance and put into practice (Emphasizing practical effort)
+弊社	폐사	Our company (Humble form)
+捕捉	포착	Capture, grasp, seize (opportunity or content)
+倍大號	배대호	Double-sized issue
+增大號	증대호	Enlarged issue
+臨時號	임시호	Temporary/Extra issue
+特別號	특별호	Special issue
+無常出判	무상출판	Irregular publishing (publishing not at fixed intervals/sizes)
+濫行	남행	Excessive practice, abuse (of irregular publishing)
+드듸여	드디어	Finally (Older spelling of 드디어)
+各地方	각지방	Various regions
+逐日	축일	Daily
+送托	송탁	Entrusting for delivery/sending (likely referring to payments/orders)
+誌代	지대	Magazine fee/price
+送料	송료	Shipping cost
+誤錯	오착	Error, mistake
+夥甚	과심	Numerous and severe; very large amount (Less common in modern Korean)
+互相間	호상간	Mutually, between each other
+煩惑	번혹	Trouble, annoyance, perplexity (Less common in modern Korean)
+層生	층생	Occur repeatedly, pile up
+實로	실로	Truly, indeed
+社運	사운	Company's fortunes/progress
+向上	향상	Improvement, progress
+莫大	막대	Huge, enormous
+障碍	장애	Obstacle, hindrance
+同時	동시	At the same time
+至急히	지급히	Urgently
+矯捄	교구	Rectify, correct (Older Hanja usage, modern 교정)
+必要上	필요상	Out of necessity
+玆에	자에	Hereby, here (Archaic particle)
+多年懸案	다년현안	Long-pending issue
+雜誌定價	잡지정가	Magazine fixed price
+改正	개정	Revision, amendment
+左와가티	좌와같이	As follows (lit. 'like the left') (Older spelling/construction)
+斷行	단행	Decisively implement/carry out
+라서	따라서	Therefore, accordingly (Older spelling using 아래아 (ㆍ))
+送金	송금	Sending money, remittance
+對한	대한	Regarding, concerning
+主義件	주의건	Points of attention, notes (Older term)
+添記	첨기	Add in writing, append
+今後	금후	From now on, hereafter
+愛讀者	애독자	Esteemed reader(s) (lit. 'loving reader')
+諸賢	제현	All you wise people; esteemed sirs/madams (Polite collective address)
+社告	사고	Company notice
+特別用意	특별용의	Special attention/care
+懇望	간망	Earnest request, hope earnestly
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제47호
+발행일	1924년 05월 01일
+기사제목	至急社告
+기사형태	사고·편집후기
+
+△至急社告△
+爾來讀者本位로 懋實力行하는 弊社는 空間的으로나 時間的으로나 무엇을 捕捉하기만하면 倍大號, 增大號 그러치안으면 臨時號, 特別號, 이러케 無常出判을 濫行한 結果는 드듸여 各地方讀者로부터 逐日送托하는 誌代及送料의 誤錯이 夥甚하야 互相間의 煩惑을 層生케함은 實로 社運向上에 莫大한 障碍로 思하는 同時에 至急히 이것을 矯捄치아니치못할 必要上玆에 多年懸案이던 雜誌定價의 改正을 左와가티 斷行하오며 라서 送金에 對한 主義件을 添記하오니 今後의 愛讀者諸賢은 이 社告에 特別用意하야 주심을 懇望하옵니다
+(開闢定價改正表)

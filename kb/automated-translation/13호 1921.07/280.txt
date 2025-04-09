@@ -1,0 +1,97 @@
+Magazine Title: 개벽
+Publication Date: 1921년 07월 01일
+Article Title: 偉人投票發表 (Announcement of Great Men Poll Results)
+Author: Not specified
+Article Type: 설문 (Survey/Poll)
+
+Announcement of Great Men Poll Results
+
+The Great Men Poll announced in the May issue of this magazine greatly aroused the interest of readers both inside and outside [Korea], obtaining results beyond expectations. Now, the great men who received the most points and the next highest are announced as follows (However, those with fewer than 100 points are omitted here):
+
+Ten Selected Great Men
+
+Thought……Yi Hwang
+Religion……Ch'oe Che-u
+Politics……Yi I
+Science……Sŏ Kyŏng-dŏk
+Military……Yi Sun-sin
+Industry……Mun Ik-chŏm
+Literature……Ch'oe Ch'i-wŏn
+Education……Ch'oe Ch'ung
+Art……Sol Kŏ
+Social Improvement……Yu Kil-chun <148>
+
+**Summary**
+
+This article announces the results of a reader poll conducted by the magazine *Kaebyŏk* to select the ten greatest figures in Korean history across different fields like thought, religion, politics, science, military, industry, literature, education, art, and social improvement. The list reflects prominent historical figures recognized by the readership in 1921. From the perspective of Korean colonial history, this poll is interesting as it reflects a contemporary (1921) Korean assessment of national heroes and important figures across various domains during a period of Japanese rule. It shows an effort to define and celebrate Korean identity and achievement through its historical figures, potentially as a subtle form of cultural nationalism or resistance. The inclusion of figures like Ch'oe Che-u (founder of Tonghak) and Yu Kil-chun (an enlightenment thinker) alongside more traditional figures is also noteworthy.
+
+**Named Entities**
+
+李滉	이황	Yi Hwang
+崔濟愚	최제우	Ch'oe Che-u
+李珥	이이	Yi I
+徐敬德	서경덕	Sŏ Kyŏng-dŏk
+李舜臣	이순신	Yi Sun-sin
+文益漸	문익점	Mun Ik-chŏm
+崔致遠	최치원	Ch'oe Ch'i-wŏn
+崔沖	최충	Ch'oe Ch'ung
+率居	솔거	Sol Kŏ
+兪吉濬	유길준	Yu Kil-chun
+
+**Glossary**
+
+本誌	본지	This magazine
+發表	발표	Announcement; Publication
+偉人	위인	Great person; Hero
+投票	투표	Vote; Poll
+甚히	심히	Greatly; Severely (Older adverbial form of 심하다)
+內外	내외	Inside and outside; Domestic and foreign
+讀者	독자	Reader
+興味	흥미	Interest
+惹起	야기	Arouse; Cause; Provoke
+豫想	예상	Expectation; Anticipation
+以上	이상	Above; More than
+成績	성적	Result; Performance
+博得	박득	Obtain; Gain; Win
+多點	다점	Most points
+次點	차점	Next highest points; Runner-up
+當하다	당하다	To correspond to; To be selected as (here used for 当選)
+如下	여하	As follows
+但	단	However; But
+未滿	미만	Less than; Below
+略하다	략하다	To omit; To abbreviate (Older spelling/Hanja usage for 약하다)
+當選	당선	Selected; Elected
+思想	사상	Thought; Ideology
+宗敎	종교	Religion
+政治	정치	Politics
+科學	과학	Science
+軍事	군사	Military Affairs
+產業	산업	Industry
+文學	문학	Literature
+敎育	교육	Education
+美術	미술	Art
+社會改善	사회개선	Social Improvement
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	偉人投票發表
+기사형태	설문
+
+偉人投票發表
+本誌 5月號에 發表한 偉人投票는 甚히 內外讀者의 興味를 惹起하야 豫想 以上의 成績을 博得하얏다. 이제 多點과 次點에 當한 偉人을 發表하면 如下(但 100点未滿의 次點은 此에 略함)
+
+當選十大偉人
+思 想……李滉
+宗 敎……崔濟愚
+政 治……李珥
+科 學……徐敬德
+軍 事……李舜臣
+産 業……文益漸
+文 學……崔致遠
+敎 育……崔沖
+美 術……率居
+社會改善……兪吉濬 ＜148＞

@@ -1,0 +1,58 @@
+잡지명	별건곤  
+발행일	1934년 04월 01일  
+기사제목	懸賞問題 (Prize Problem)  
+기사형태	사고·편집후기 (Commentary and Editorial Review)  
+
+Prize Problem
+
+Visualize a layout where cards numbered from 1 to 9 are sequentially laid out from the right. The task is to arrange them such that the sum of six squares, designated as big, medium, and small, is equal to the sum of the four triangles on the outside. The six squares are composed of one square from "1793", one from "2486", and four squares from "1254", "63", "4785", and "5896". The four outside triangles consist of triangles from "124", "478", "896", and "632".
+
+Notes for Prize Submissions  
+★ All submissions must arrive at our headquarters by May 20.  
+
+★ Responses should be briefly noted on a postcard-sized paper, clearly stating the sender's address and name.  
+
+★ A reader's certificate found on this page must be attached to the answer sheet. Failure to do so will result in disqualification.  
+
+★ On the envelope, write "京城開闢社別乾坤懸賞係" (Kyŏngsŏng Kaep'yŏksa Byeol Kanjŏn Huibank Kye) and denote "原稿在中" (Manuscript Inside) in bold ink, sealing it with two won stamps. Not marking it with "原稿在中" will incur a penalty (deficiency). <64>
+
+  
+
+**Summary**  
+
+The article presents a mathematical puzzle involving the arrangement of numbered cards and squares in a particular format, with emphasis on submissions for a prize. It highlights the intellectual culture of the 1930s in Korea under Japanese rule, where such puzzles served both as entertainment and a means to engage the readership. Historians might find it interesting how the publication fostered a sense of community and intellectual engagement among Koreans during a time of colonial oppression.
+
+  
+**Named Entities**  
+
+京城開闢社		Kyŏngsŏng Kaep'yŏksa  
+
+**Glossary**  
+
+懸賞問題		경상문제		Prize problem  
+正方形		직사각형		Square  
+和		합계		Sum  
+三角形		삼각형		Triangle  
+注意		주의		Notice  
+엽서		엽서		Postcard  
+증		증명서		Certificate  
+反회		이름		Name
+
+
+---------------------------
+
+
+잡지명	별건곤 제72호
+발행일	1934년 04월 01일
+기사제목	懸賞問題
+기사형태	사고·편집후기
+
+懸賞問題
+
+그림으로보시다십히 1로부터9지의 「카-드」가 오른에서부터 순차로 벌려잇습니다. 그런데 지금 이것을 大ㆍ中ㆍ小 여섯 개의 正方形의 和가 각각갓게되고 한 外側의 네 개의 三角形의 和도 각각갓게 되도록 엇밧구어노으려면 엇더케해야 되겟습니? 但-大ㆍ中ㆍ小 여섯 개의 正方形은 「1793」의 正方形한개와 「2486」의 正方形고 밋 「1254」ㆍ「63」ㆍ「4785」ㆍ「5896」의 네 개의 正方形을 지층함이요 外側의 三角形은 「124」ㆍ「478」ㆍ「896」ㆍ「632」의 三角形을 지층합임니다.
+懸賞보낼의 注意할일
+★오는五月二十日지 본사에 와닷도록되여야합니다.
+★엽서만한 조회에다 대답을 간단히 적어보내되 반듯이자긔주소와 성명을 이써야합니니다.
+★이페지(頁)한해잇는 독자증을 답안용지에다 반듯이 부처야합니다. 안부치면 무효입니다.
+★피봉에는 반듯이 『京城開闢社別乾坤懸賞係』라쓰고 엽헤다 『原稿在中』이라고 간잉크로쓰고 한주둥이를 고 二錢우표붓처보내주십시오. 原稿在中이라고 안쓰면 벌금(不足)을 물게됩니다.＜64＞
+＜64＞

@@ -1,0 +1,121 @@
+Magazine Title: 개벽 제41호
+Publication Date: 1923년 11월 01일
+Article Title: 각 停車場들의 品位 (Grade of Each Train Station)
+Author: N/A
+Article Type: 소식 (News/Update)
+
+Grade of Each Train Station
+
+The Keijō Management Bureau of the South Manchuria Railway recently revised the grades of each station, considering factors such as station duties (驛務) and personnel capacity (定員), as follows.
+
+First Class Stations: Kyŏngsŏng, P'yŏngyang, Yongsan, Pusan
+
+Second Class Stations: Taejŏn, Taegu, Sinŭiju, Inch'ŏn, Chinnamp'o, Wŏnsan
+
+Third Class Stations: Kunsan, Iri, Ch'ŏngjin, Hoeryŏng, Mokp'o, Sinmak, Chŏngju, Pokkye, Yŏngdŭngp'o, Ch'oryang
+
+Fourth Class Stations: Songjŏngni, Choch'iwŏn, Hamhŭng, Masan, Ch'ŏnan, Kimch'ŏn, Samnangjin, Sariwŏn, Suwŏn, Kaesŏng, Sinanju, Ch'uhyŏn, Hwangju, Nanam
+
+Fifth Class Stations: Pusanjin, Kup'o, Ku Masan, Miryang, Kyŏngsan, Waegwan, Ch'up'ungnyŏng, Nonsan, Kanggyŏng, Kimje, Chŏngŭp, Sŏnghwan, P'yŏngt'aek, Ch'ŏngnyangni, Ch'ŏrwŏn, Kosan, Kyŏmip'o, Sŏnch'ŏn, Sŭnghori, Sŏn'gyori
+
+Sixth Class Stations: All stations other than those listed in the above classes.
+
+Seventh Class Stations: Each signal station, each simple station.<59>
+
+**Summary**
+
+The Keijō (Seoul) Management Bureau of the South Manchuria Railway has reclassified train stations throughout Korea into seven grades based on operational duties and staffing levels. Major cities like Kyŏngsŏng (Seoul), P'yŏngyang, Yongsan, and Pusan are designated First Class, with progressively smaller towns and facilities categorized into lower grades, down to signal and simple stations in the Seventh Class. This article provides historians with a snapshot of the hierarchical structure of the colonial railway network in 1923, reflecting the administrative priorities and perceived importance of different locations under Japanese control via the South Manchuria Railway Company. The specific listing reveals the extent of the railway network and the systematic classification imposed by the colonial authorities.
+
+**Named Entities**
+
+滿鐵京城管理局	만철경성관리국	Keijō Management Bureau of the South Manchuria Railway
+京城	경성	Kyŏngsŏng
+平壤	평양	P'yŏngyang
+龍山	용산	Yongsan
+釜山	부산	Pusan
+大田	대전	Taejŏn
+大邱	대구	Taegu
+新義州	신의주	Sinŭiju
+仁川	인천	Inch'ŏn
+鎭南浦	진남포	Chinnamp'o
+元山	원산	Wŏnsan
+群山	군산	Kunsan
+裡里	이리	Iri
+淸津	청진	Ch'ŏngjin
+會寧	회녕	Hoeryŏng
+木浦	목포	Mokp'o
+新幕	신막	Sinmak
+定州	정주	Chŏngju
+福溪	복계	Pokkye
+永登浦	영등포	Yŏngdŭngp'o
+草梁	초량	Ch'oryang
+松汀里	송정리	Songjŏngni
+鳥致院	조치원	Choch'iwŏn
+咸興	함흥	Hamhŭng
+馬山	마산	Masan
+天安	천안	Ch'ŏnan
+金泉	김천	Kimch'ŏn
+三浪津	삼랑진	Samnangjin
+沙里院	사리원	Sariwŏn
+水原	수원	Suwŏn
+開城	개성	Kaesŏng
+新安州	신안주	Sinanju
+杻峴	추현	Ch'uhyŏn
+黃州	황주	Hwangju
+羅南	나남	Nanam
+釜山鎭	부산진	Pusanjin
+龜浦	구포	Kup'o
+舊馬山	구마산	Ku Masan
+密陽	밀양	Miryang
+慶山	경산	Kyŏngsan
+倭館	왜관	Waegwan
+秋風嶺	추풍령	Ch'up'ungnyŏng
+論山	논산	Nonsan
+江景	강경	Kanggyŏng
+金堤	김제	Kimje
+井邑	정읍	Chŏngŭp
+成歡	성환	Sŏnghwan
+平澤	평택	P'yŏngt'aek
+淸凉里	청량리	Ch'ŏngnyangni
+鐵原	철원	Ch'ŏrwŏn
+高山	고산	Kosan
+兼二浦	겸이포	Kyŏmip'o
+宣川	선천	Sŏnch'ŏn
+勝湖里	승호리	Sŭnghori
+船橋里	선교리	Sŏn'gyori
+
+**Glossary**
+
+停車場	정차장	Train station (lit. stopping place)
+品位	품위	Grade, rank, class
+滿鐵京城管理局	만철경성관리국	Keijō (Seoul) Management Bureau of the South Manchuria Railway
+驛務	역무	Station duties/affairs
+定員	정원	Fixed number of personnel, personnel capacity
+고려하야	고려하여	Considering (Older spelling/form of 하여)
+아레와 가티	아래와 같이	As below (Older spelling/form of 아래와 같이)
+개정햇다	개정했다	Revised, amended (Older spelling/form of 했다)
+各等	각등	Each grade/class
+記載	기재	Record, listing, description
+이외의	이외의	Other than, besides
+各驛	각역	Each station
+信號所	신호소	Signal box/station
+簡易驛	간이역	Simple station, flag stop
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제41호
+발행일	1923년 11월 01일
+기사제목	각 停車場들의 品位
+기사형태	소식
+
+각 停車場들의 品位
+滿鐵京城管理局에서는 최근에 각 역의 驛務 及 定員 등을 고려하야 역의 등급을 아레와 가티 개정햇다.
+一等驛  京城, 平壤, 龍山, 釜山
+二等驛  大田, 大邱, 新義州, 仁川, 鎭南浦, 元山,
+三等驛  群山, 裡里, 淸津, 會寧, 木浦, 新幕, 定州, 福溪, 永登浦, 草梁,
+四等驛  松汀里, 鳥致院, 咸興, 馬山, 天安, 金泉, 三浪津, 沙里院, 水原, 開城, 新安州, 杻峴,           黃州, 羅南,
+五等驛  釜山鎭, 龜浦, 舊馬山, 密陽, 慶山, 倭館, 秋風嶺, 論山, 江景, 金堤, 井邑, 成歡, 平澤,          淸凉里, 鐵原, 高山, 兼二浦, 宣川, 勝湖里, 船橋里
+六等驛  이상 各等 記載 이외의 各驛
+七等驛  각 信號所, 각 簡易驛.＜59＞

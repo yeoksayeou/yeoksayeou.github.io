@@ -1,0 +1,388 @@
+Magazine Title:	개벽
+Publication Date:	1935-03-01
+Article Title:	朝鮮 民間新聞界 總評 (General Review of the Korean Private Newspaper World)
+Author:	黃泰旭 (Hwang T'ae-uk)
+Article Type:	논설 (Editorial/Commentary)
+
+General Review of the Korean Private Newspaper World
+						Hwang T'ae-uk
+
+This month's issue of *Kaebyŏk* tasked me with writing some sort of critique regarding newspapers. However, as the author is a layman concerning newspapers, I intend only to provide a general overview of the Korean-language newspaper world.
+
+A Glimpse of Korean Newspaper Companies
+It is uncertain when newspapers first emerged in Korea. In the past, when civil disturbances (民擾) occurred in Korea, "sabal t'ongmun" (사발통문, circular notices written in a round-robin fashion to hide the leader's identity) were circulated; could these be considered newspapers? Also, during the second year of Queen Chinsŏng (眞聖女王) of Silla:
+"Flatterers indulged their whims, bribery was rampant, rewards and punishments were unfair, and discipline collapsed. At that time, an anonymous person composed a text and posted it on the main road (朝路). The Queen searched but could not find them. Someone told the Queen, 'This must be the work of a literary man who failed to achieve his ambitions; perhaps it is the hermit Kŏin (巨仁) of Taeya-ju (大耶州).' The Queen had Kŏin arrested and imprisoned. Kŏin, enraged, wrote on the prison wall:
+'Master Yu wailed for three years, causing a drought; / Tsou Yen harbored grief, bringing frost in May. / Now my hidden sorrow resembles the ancients; / Imperial Heaven is silent, merely azure.'
+That night, clouds and fog formed greatly, and thunder and rain seemed to overturn heaven and earth. The Queen, frightened, released him."
+So, should this anonymous posting on the main road also be called a newspaper? It could perhaps be seen as equivalent to today's wall newspapers (壁新聞).
+Also, during the reign of King Sŏnjo (宣祖大王) of the Yi Dynasty, when Songgang Chŏng Ch'ŏl (松江 鄭撤) was dismissed, the King proclaimed, "In ancient times, when a great minister was dismissed, it was announced (榜) at the Royal Court (朝堂), thereby clearly showing his crimes to the eyes and ears of the nation's people (國人) and serving as a lesson for future generations."
+Thus, following ancient precedent, it was posted at the Royal Court. Seeing this as a way to broadly show Chŏng Ch'ŏl's crimes to the people, it can also be called a type of wall newspaper. Furthermore, during the time of King Kwanghae (光海君), Hŏ Kyun (許均) had his subordinates post an anonymous letter on Namdaemun (South Gate) and suffered disaster as a result; this too can be seen as a type of newspaper. During the Imjin War (壬辰亂), when King Sŏnjo fled (播越) to P'yŏngyang, there was debate about abandoning P'yŏngyang <13> versus defending it. Hearing this, the citizens became agitated. Yi Yu-chŭng (李惟澄) wrote the two characters "停行" (Stop Marching) in large script, climbed onto a roof, and showed it around (環示), calming the tens of thousands in the crowd. This too could be viewed as a type of newspaper. However, none of these possessed the form of a newspaper. It wasn't until 50 years ago, in the Kye-mi year of King Kojong's reign, that Kang Wi (姜瑋) and Pak Yŏng-sŏn (朴永善), along with Inoue Kakugorō (井上角五郞), began publishing the *Hansŏng Sunbo* (漢城旬報). This was the first to somewhat have the form of a newspaper, but since it was published by the government-established Pangmun'guk (博文局), it was a type of official gazette (官報) and cannot be considered a true newspaper.
+After that, 40 years ago from now, on April 7th of the Pyŏng-sin year, the first year of King Kojong's Kŏnyang (建陽) era, Mr. Sŏ Chae-p'il (徐載弼) started publishing the *Tongnip Sinmun* (獨立新聞) every other day (隔日) in both Korean and English. A year later, Mr. Yun Ch'i-ho (尹致昊) took over and made it a daily, which marks the beginning of daily newspapers. Subsequently, the *Hwangsŏng Sinmun* (皇城新聞), *Cheguk Sinmun* (帝國新聞), *Hansŏng Sinbo* (漢城新報), *Taehan Maeil Sinbo* (大韓每日申報), *Mansebo* (萬歲報), *Kungmin Sinbo* (國民新報), *Taehan Minbo* (大韓民報), *Taehan Sinmun* (大韓新聞), and *Sisa Sinmun* (時事新聞) followed one after another. The proliferation of these newspapers reflected the state of affairs at the time, and their content was magnificent, filled (滿紙淋漓) with indignant writing. Then, with the Japanese annexation of Korea (日韓倂合), the Governor-General of the time, Terauchi (寺內總督), banned or bought out all of them, leaving only the *Taehan Maeil Sinbo*, which was renamed simply *Maeil Sinbo* (每日申報) and made into an organ of the Government-General. All other private operations were uniformly prohibited. The roughly ten-year period from Governor-General Terauchi to Governor-General Hasegawa (長谷川總督) can only be called a "Black Age" (뿔랙에이지 - Black Age). After the March First Movement (己未運動), Governor-General Saitō (齋藤總督), upon taking office, announced a shift towards "cultural rule" (文化政治) and allowed a certain degree of freedom of speech, which had been suppressed for ten years, leading to the birth of the three private newspapers.
+
+The Birth of the Three Private Newspapers and Their Path
+At that time, nationalist sentiment was generally running high. Governor-General Saitō, ostensibly to hear equally from various perspectives, granted permission for the *Tonga Ilbo* (東亞日報) to Yi Sang-hyŏp (李相協) representing the nationalist side, the *Sisa Sinmun* (時事新聞) to the pro-Japanese Min Wŏn-sik (閔元植), and the *Chosŏn Ilbo* (朝鮮日報) to Ye Chong-sŏk (芮宗錫) of the Taejŏng Ch'inmokhoe (大正親睦會), a group then promoting Japan-Korea assimilation (日鮮同化), intending to watch them develop and grow correspondingly. However, given the circumstances of the time, *Chosŏn* and *Sisa* felt completely overwhelmed by *Tonga*. Furthermore, *Sisa Sinmun* lasted only a few months before folding due to lack of public support externally and financial difficulties internally. Subsequently, *Chosŏn Ilbo* also temporarily fell into management difficulties. However, *Tonga Ilbo*, despite its high reputation (聲勢) since its founding, did not have smooth management either. The polemics (論鋒) vigorously wielded by young, spirited writers centered around *Tonga Ilbo* often conflicted with the fundamental policies of the Government-General, eventually leading to the misfortune of suspension (정간). Shortly after the suspension was lifted, Kim Sŏng-su (金性洙) became central figure, a joint-stock company was formed, and Song Chin-u (宋鎭禹) took office as the first president. During this time, *Chosŏn Ilbo* passed from the hands of the Taejŏng Ch'inmokhoe to Song Pyŏng-jun (宋秉畯), who held the position of president, though the actual management was carried out by Mr. Namgung Hun (南宮薰). Compared to the rising stars at *Tonga*, Mr. Namgung felt like an old veteran in the field, but nevertheless, the influence (聲勢) of *Chosŏn Ilbo* at that time seemed <14> inferior to *Tonga*. Mr. Namgung was working on establishing a company during this period. Meanwhile, in place of the defunct *Sisa Sinmun*, Ch'oe Nam-sŏn's (崔南善) *Sidae Ilbo* (時代日報) was launched and briefly showed enough vigor to potentially rival *Tonga*, but financial issues hampered it. Then, Yi Sang-hyŏp and others who had left *Tonga*, along with Messrs. Sin Sŏk-u (申錫雨) and Hong Chŭng-sik (洪璔植), nominated (推) the popular giant Elder Yi Sang-jae (李商在) as president (*장 - should be 사장, president) and waged a fierce battle for supremacy (쟁패전) against *Tonga Ilbo*. While *Tonga Ilbo* adhered to nationalism, *Chosŏn Ilbo* adapted to the socialist trend surging like a raging tide at the time, achieving momentum like a "heavenly horse soaring through the sky" (天馬騰空). However, after a year of competing with *Tonga*, an order for suspension came from the Government-General, and coupled with internal disunity, Yi Sang-hyŏp, Hong Chŭng-sik, and others eventually resigned. Sin Sŏk-u took over management. The resigned Mr. Hong Chŭng-sik ended up imprisoned (囹圄) due to the Communist Party incident, and Yi Sang-hyŏp founded the *Chungoe Ilbo* (中外日報) but suffered numerous hardships (辛酸) due to financial difficulties. An Hŭi-jae (安熙濟), a high-minded (고답적) figure from the Yŏngnam region, became president, managing it as a joint-stock company. However, it also temporarily ceased publication due to financial struggles. Amidst this, only *Tonga Ilbo* maintained stable management, completed its second capital call-up, built a splendid office building on Kwanghwamun Street, and saw its fortunes steadily rise. *Chosŏn Ilbo*, allied with the Singanhoe (新幹會) movement, briefly gained influence but suffered financial difficulties, becoming a shadow of its former self. During this time, Sin Sŏk-u resigned, and An Chae-hong (安在鴻) and Yi Sŭng-bok (李昇馥) managed it, but through seven hardships and eight difficulties (7苦8難), both eventually ended up behind bars due to a certain incident. Afterwards, the suddenly appearing Im Kyŏng-nae (林景來) took over the publishing rights, causing unprecedented chaos. Then, Cho Pyŏng-ok (趙炳玉) and Cho Man-sik (曺晩植) took over management, until Pang Ŭng-mo (方應模), who appeared like a comet with gold mine donations, took charge. *Chungoe Ilbo*, after passing through numerous storms under the equally sudden No Chŏng-il (盧正一), came under the management of Yŏ Un-hyŏng (呂運亨) as president, with Ch'oe Sŏn-ik (崔善益) and Yun Hŭi-jung (尹希重) managing it as a joint-stock company. Thus, the Korean newspaper world, which had long suffered from management difficulties, seemed to pass through a long hibernation and experience the spring light of returning yang (一陽來復), or perhaps it was like seeing the sky again after clouds opened up following endless gloomy rain (陰雨)?
+
+Capital and Management Methods
+The three newspapers, *Chungang Ilbo* (Central Daily News - successor to *Chungoe Ilbo*), *Chosŏn Ilbo*, and *Tonga Ilbo*, now stand like a tripod (鼎立), competing for dominance (鹿 - deer, symbolizing power/the realm). *Chungang Ilbo* is a joint-stock company with 300,000 won; financially backed by Yun Hŭi-jung and Ch'oe Ik-sŏn (崔益善 - likely typo for 崔善益 Ch'oe Sŏn-ik mentioned earlier), it also has the outstanding figure Yŏ Un-hyŏng externally and the talented (才腕) Hong Chŭng-sik internally, managing with diligence (刻苦勉勵) and sincerity. In terms of capital, it has 50,000 won less than *Tonga* and 200,000 won less than *Chosŏn*. Naturally, while the aforementioned two papers battle fiercely, sparking fire, *Chungang* quietly watches for its opportunity, positioning itself as second-tier, a medium-sized newspaper. However, this is by no means a permanent second-tier or medium-sized status. It is crouching to rise, accumulating to fight. In page count, while *Tonga* and *Chosŏn* both have 10 pages, *Chungang* only has 8. This alone invites the external assessment of being second-tier. <15>
+"Is the small state of T'eng caught between Ch'i and Ch'u?" (滕小國也, 間於齊楚?)
+No, that's just a joke. Rather, by offering a lower price of 80 chŏn per month compared to other papers' 1 won, it aims to capture the largest number of readers. Once it enters this 'groove' (꼴), it seems poised (自期) to shatter Ch'ing and Russia like Far Eastern Japan and seize hegemony.
+*Chosŏn Ilbo* boasts the highest capital among Korean-language private papers. Compared to *Tonga*, it has 150,000 won more. Considering that much of *Tonga*'s second capital call-up is tied up in its current building, and realizing that *Chosŏn*'s building is funded by Pang Ŭng-mo's private wealth beyond the 500,000 won capital, the difference seems more like 200,000 won, and 300,000 won more than *Chungang*. Such superior capital (尤大) is undeniably a weapon in the modern era. Scowling at the *Tonga* building, once proud of its magnificence (宏麗) upon construction, *Chosŏn* is building a grand 5-story edifice on Kwanghwamun Street. This building alone is said to cost 130,000 won, compared to *Tonga*'s 80,000 won, boasting its greater scale even in this regard.
+*Tonga Ilbo* has not suffered a single fatal disturbance in the 15 years since its founding. This is because the Honam chaebŏl Kim Sŏng-su holds its management rights like an Immovable Wisdom King (不動明王). While other papers wavered unstably, it diligently (孜孜) pursued business-like management for 15 long years. The president himself went to Tokyo and Osaka several times to court advertisers, urging the hundred-plus employees towards single-minded (一路邁進) profit-seeking. It was this company that spent tens of thousands of won to treat Tokyo and Osaka advertisers to a Kŭmgangsan tour. It is also this company that, if a branch office's payment is overdue, resolutely cuts off newspaper supply and, regardless of friendship or justice, files lawsuits for enforcement. And it's this company that is said to have uniquely accumulated tens of thousands in savings while other papers struggled financially. In any case, its proud boast is that it has built such a foundation that advertisers in Tokyo and Osaka looking to place ads seek out *Tonga Ilbo* first. If Islam is said to hold the scripture in one hand and a sword in the other (回回敎), then *Tonga Ilbo*—nay, all Korean newspapers—go forth holding the "Korean People" (朝鮮民族) in one hand and goods from Tokyo and Osaka in the other. It's just that *Tonga Ilbo* has achieved the greatest success in this magic. To sell newspapers, they must sell the "Korean People"; to earn advertising revenue, they must sell goods from places like Tokyo and Osaka—this is the dilemma (듸레마 - dilemma) of the Korean newspaper world. But isn't this more than natural? Since Korean newspapers are also commodities, there is nothing beyond naked self-interest and heartless cash accounting (現今 勘定); won't emotion and sanctity inevitably sink into the cold ice of selfish calculation? It's just that the term "Korean People," stripped of its halo, has become the magic incantation (注文의 術語) of their sorcery. Does money seek a master? Does profit differentiate peoples? Vying fiercely against this success of *Tonga Ilbo* are the latecomers *Chosŏn* and *Chungang*. *Chosŏn* has adopted "Chosŏn's First" (朝鮮第一) as its incantation for everything. <16>
+Most capital - Chosŏn's First; Most readers - Chosŏn's First; Largest building - Chosŏn's First; Best company car facilities - Chosŏn's Best; Airplane facilities - Chosŏn's Best; Popular support - Chosŏn's First (?)
+Unfortunately, this last one proves elusive, causing distress. Indeed, to claim "Popular support - Chosŏn's First," last year during the great flood disaster in Southern Korea (南鮮), *Chosŏn* and *Tonga* competed desperately (혈안) for donations (義捐金). *Chosŏn* ultimately won decisively, raising 40,000 won to *Tonga*'s 30,000 won, seizing supremacy (패권). This, of course, quickly became promotional material used to tell Tokyo and Osaka advertisers that *Chosŏn Ilbo* had the most popular support in Korea. This is how one must sell the Korean people and obtain advertisements from Tokyo and Osaka to act like a president and gain the(?) crown of leadership.
+Shall I tell you the one thing readers are most curious about? That is the newspapers' circulation figures (發行 部數). This is kept top secret even within the newspaper companies, and while all three claim they distribute the most, they are actually neck-and-neck (伯仲之間). Generally, circulation fluctuates around 33,000-34,000 copies. The highest circulation is said to have been *Tonga Ilbo*'s brief peak of over 40,000 when it dominated the market. Readers might then ask, if *Tonga* alone had 40,000, how can the three papers combined not reach 90,000? However, most Korean readers do not see newspapers as essential daily items but rather subscribe because they are pestered (졸려서) by branch managers. Therefore, when available, they read all three; if unavailable, they simply go without. Thus, dividing among three papers increases the total, while having only one reduces it. A simple analogy might be: if there is one kisaeng in a small section, she might earn only 150 won per month (5 hours of entertainment (遊興) per night x 1 won/hour average). But if there are three kisaeng, they might earn 360 won per month combined (4 hours each x 3 kisaeng = 12 hours total/night). This comparison is likely not far off (大差 없을 것이다).
+
+Brief Character Assessments of the Three Newspaper Presidents
+Now let's look at the personnel arrangement of the three newspapers, starting with the presidents. Among the three companies, the president of *Chungang Ilbo*, which has the least capital, paradoxically shines the brightest. If *Chungang Ilbo* has anything to boast about, it would be its president. President Yŏ Un-hyŏng is truly a figure who stands head and shoulders (頭角) above others in Korea. After the Great European War, when national self-determination arose, he was the one who sought out the US Far East envoy in Shanghai and delivered a lengthy speech (長廣舌). He was the one who, after the [Russian] revolution, visited Vladimir Ilyich Ulyanov (볼라지밀 리잇치 울리야놉 - Vladimir Ilyich Ulyanov) in Russia and discussed Far Eastern affairs thoroughly (通論). He was the one who, pushing aside all the radical polemicists in Shanghai, argued for the need to negotiate directly with the Tokyo political establishment first, engaging in a wrestling match of debate (論戰) face-to-face with Prime Minister Hara Takashi (原敬) and military titan Tanaka Giichi (田中義一). He was the one who gathered sharp-witted newspaper reporters from across the country at the Imperial Hotel and delivered a stirring speech on Korean O O [Independence?], shaking (聳動) Korea.
+Eventually, realizing the difficulty <17> for a weak nation to confront a series of imperialist powers, he went to Singapore and gave anti-British (排英) speeches, and to the Philippines to give anti-American (排米) speeches. Being met with cold stares (白眼冷視) everywhere became a reason he was finally arrested by British police, brought to Korea, and became a man behind bars for three years. Looking at the presidents of the other two papers, *Chosŏn* and *Tonga*, Song Chin-u was merely imprisoned (入獄) as an educator during the March First Movement. Pang Ŭng-mo studied Chinese classics at home and, in middle age, served as the *Tonga Ilbo* Chŏngju branch manager, apparently in a position where he served (섬기든) the then-head office president Song Chin-u. However, having succeeded in gold mining and suddenly grasping gold worth 1 million won, he could now light up a cigarette facing *Tonga*'s President Song, whom he once looked up to from his branch manager days. When comparing "The heroes of the realm are you, my lord, and I" (天下의 英雄은 使君과 吾爾로세 - quote attributed to Cao Cao towards Liu Bei), Mr. Pang and Mr. Song must have had quite different feelings. One, as a frontman (압잡이) for a Honam chaebŏl; the other, a comet-like nouveau riche (成金) from gold mining. While they ride around haughtily in frock coats (후룩코트 - frock coat) and automobiles, *Chungang*'s Yŏ Un-hyŏng walks briskly along the main avenues of the capital in a modest suit and worn-out hat. It is said that when reporters and staff from *Tonga* and *Chosŏn* approach their respective presidents, Song Chin-u or Pang Ŭng-mo, they put on their suit jackets, adjust their ties, bow deeply (鞠躬), stand with hands clasped respectfully (拱手), wait with utmost reverence (황공하야) for any word from his mouth, and then withdraw. In contrast, Mr. Yŏ at *Chungang* reportedly jumps, plays, and argues with his staff in his shirtsleeves, treating them completely as colleagues. However, this isn't necessarily because Mr. Yŏ is a greater figure and Messrs. Song and Pang lesser ones. Mr. Song, a poor scholar (寒士) from Tamyang who cut off his topknot, went to Tokyo, returned hand-in-hand with his close friend Kim Sŏng-su, and somehow became president of *Tonga Ilbo*. When half-drunk, he reportedly grabs a friend and says, "The insignificant student who came from Tokyo 20 years ago has now become the president of the great *Tonga Ilbo*, the organ of the 20 million people, commanding the realm!" This shows how much glory he perceives in his position as newspaper president. Pang Ŭng-mo, at the beginning of his tenure when the Suyang Tonguhoe (修養同友會) tried to seize control of *Chosŏn Ilbo* and an opposing faction fought back, causing turmoil within the company, gathered all employees and gave a 'baby speech' (애긔연설): "Everyone, *Chosŏn Ilbo* is not run by others; it is run by Pang Ŭng-mo. It is not the organ of one party or faction, but the organ of the 20 million people." This also indicates he considers it quite glorious. Isn't this notion of glory satisfying their desire to treat all scholars and newspapermen as their employees and display authority? In other words, their pasts have led them to feel such self-importance (自高自滿). Yŏ Un-hyŏng of *Chungang*, having interacted on grand international stages and with world figures, perhaps regards the current presidency of *Chungang Ilbo* as insignificant as a worn-out shoe (廢履), with self-importance not even entering his dreams? <18>
+The differing environments of the three men have produced differences in their ways of conducting themselves (處世術). However, this speaks only to a portion of their conduct and so-called careers; it is not an assessment of their entire personalities. Why? Because judging human superiority or inferiority is not easily done. Mr. Song's self-appointment as a politician, his impressive demeanor (축운축운한 감동 - meaning unclear, perhaps 'imposing presence' or 'stirring emotion'?), his stomach for bowing his head before profit-and-loss as if ready to eat raw fish (膾), and his unique perspective on Korea's past might be distinctive traits absent in Yŏ Un-hyŏng. Pang Ŭng-mo's feat of earning 1 million won from scratch in one lifetime and immediately spending it to become a newspaper president to satisfy his ambition for fame (功名慾) indeed gives others a certain sense of awe (傑然感). It's just that if you take away Kim Sŏng-su's money from Song Chin-u and Pang Ŭng-mo's 1 million won, it's questionable whether they would enjoy their current prestige. In contrast, Yŏ Un-hyŏng would likely retain his considerable prestige among readers even if the funds from Yun and Ch'oe were completely removed from his role as *Chungang Ilbo* president.
+
+Lineup, Strengths, and Weaknesses
+Let's briefly look at the personnel in the editorial and business departments that make up the newspaper companies. *Chungang*'s Kim Tong-sŏng (金東成) is a gentle (穩籍) English scholar; although he reportedly finished a newspaper course in America, he cannot be highly recommended (推獎) as a newspaper technician. *Tonga*'s Kim Chun-yŏn (金俊淵), with his erudition (博學), likely stands out among the three papers. However, he is not a newspaper technician. *Chosŏn*'s Kim Hyŏng-wŏn (金炯元) truly grew up eating newspaper company rice since he was a snot-nosed kid, progressing from field reporter through editorial department head to bureau chief; he has weathered all storms (山戰水戰) in newspaper technique, but in terms of academic knowledge, he probably yields (讓) a step to the aforementioned two Kims. Instead, he is practical. However, *Tonga* has Sŏl Ŭi-sik (薛義植) assisting Kim Chun-yŏn. He too reportedly spent several years in Tokyo specializing in newspapers, making him a unique talent (一異彩) comparable to *Chosŏn*'s Kim Hyŏng-wŏn. In business, *Tonga* has Yang Wŏn-mo (梁源模), nicknamed "treasury official" (meaning steadfast). *Chosŏn* and *Chungang* have the brilliant (才氣渙發) Kim Ki-bŏm (金基範) and Hong Chŭng-sik. Mr. Hong, even apart from his role as *Chungang*'s business manager, is renowned - [14 characters necessarily omitted here] - a famous person. It's uncertain how much real ability he has in finance and business, but regardless, he leads *Chungang*, which is in the most difficult situation, calmly proceeding with his secret plans. Scowling at the two newspapers that shout with the power of money (金力), he has the air of Banzuiin Chōbei (幡隨院長兵衛) sitting atop the cutting board, ready to receive the Shogunate retainer's sword. Kim Ki-bŏm spent over 10 years as *Tonga*'s Osaka branch manager and is said to be the foremost expert within the company on advertising and newspaper management. Surveying (鳥瞰) the rest of the staff, there are strengths and weaknesses. *Tonga*'s staff largely consists of veteran reporters over 30, boasting maturity, while *Chosŏn* and *Chungang* have many young reporters in their 20s, boasting fresh energy (新銳). This is directly reflected on the pages: *Chosŏn* and *Chungang* show vigor (霸氣), while *Tonga* appears generally <19> lethargic (無氣力). Looking at reporters on the street (街頭), *Chosŏn* and *Chungang* reporters rush east and west, while *Tonga*'s are often seen strolling leisurely like company employees, carrying large briefcases. *Tonga* tends to rely more on writing from their desks. Does this mean *Chosŏn* and *Chungang* only have reporters who write without thinking? No, that's not it. They think considerably, but they run around on their feet while thinking and writing. The common perception (世評) is that *Tonga*'s reporters are comparatively inactive. Taking an example from the New Year's editions: *Chosŏn* sent reporters running to Manchuria and coal mines to write firsthand investigative reports, while *Tonga* mumbled through (어물어물하다) Government-General announcements. When the Government-General budget was announced, *Chosŏn* immediately published criticisms and analyses over consecutive days, while *Tonga* just presented the material and left it at that. To put it simply, *Tonga*'s reporters are now well-fed. They feel it's enough to rest on their past foundation and live contentedly (安分樂道). *Chungang*, lacking financially, sometimes tackles subjects others avoid, surprising the world. Its courage to write directly (直書) even before powerful authorities is commendable, but it's regrettable that excessive handling and inappropriateness (失當) often lead to results where merits and demerits are balanced (相半). *Chosŏn*'s society page editing is extremely crude (粗雜). As is common with novices, they overuse oversized headline type (初號) indiscriminately and try to employ techniques clumsily, often messing things up instead. Once, when scandals erupted repeatedly at the Kyŏngsŏng (Seoul) City Hall, a headline read:
+"Waterworks Incident, step aside!
+Treasury Incident, here I come!"
+What vulgar (野卑) language, like that of a marketplace storyteller! Also, regarding the rebuilding of stations across Korea (全鮮):
+"Major Surgery (大手術) for All Stations Across Korea"
+They used oversized type for this. Surgery (手術) leaves the whole intact while operating on a localized part; this term would fit if station histories were being repaired, but it's utterly nonsensical (얼토당토 아니한) for rebuilding. Such mistakes are not found, at least on the society page, in *Tonga*. *Chungang*'s society page is usually perhaps too staid (穩籍)? This is in a different sense from *Tonga*... ... .
+
+What Do the Twenty Million People Have to Do with Newspapers?
+With this, the general review of the three private newspapers is roughly concluded. Newspaper companies often pull out the phrase "Our company does X for the sake of the 20 million people" as easily as taking a cigarette (담배) from a pocket. A newspaper company is a place that makes a commodity called a newspaper, just like a shop (商店) that sells it for profit. <20> If they are truly "for" someone, it's the capitalists (資本家) who invested money in the newspaper business or the employees (社員) who receive wages (賃金). Why would they be "for" the 20 million people? Furthermore, if *Chosŏn*, *Tonga*, and *Chungang* are all "for" the 20 million people, then ultimately, whose 20 million people are they? *Chungang*'s? *Tonga*'s? *Chosŏn*'s? If not, will the three companies divide them into three parts? If they divide them, aren't they working for one-third of 20 million, which is 6.3 million compatriots? Seeing this, the *Maeil Sinbo* also wanted a piece of the action, writing in its editorial, "For the twenty million compatriots (二千萬 同胞)..." Does this mean the 20 million are divided into four, with each getting 5 million? Reader, forgive me. Allow this humble writer a brief digression (閑談)! Let me tell a story.
+"A certain rich man (富豪) took several wives, had many children, and died. Afterwards, all the children rose up, each fighting (爭奪) to take possession of their father's corpse (屍體). Why would they covet a stinking, rotting corpse? Are they such devotedly filial children (孝子)? No! No! It's because they think that if they possess the father's corpse, the inheritance (遺産) of millions of won will become theirs. As they fought over the corpse, arguing 'He's my father!' 'No, my father!', one child went into the kitchen, brought out a kitchen knife (食刀), and said, 'Alright! Enough of this, let's cut the corpse in half!' Astute reader, they thought that by halving the corpse, they would get half the inheritance. But then another big problem arose. Two more men appeared, claiming to be the legitimate sons of the rich man. Eventually, the father's corpse had to be divided into four parts.
+(True story after the death of a certain rich man in Chŏlla Namdo province)"
+This perfectly parallels (好一對) the psychology of Korea's three newspapers fighting over the "20 million people." It's a technique (術法) to make a large profit by selling the name "20 million people" and enjoy the wealth of the present age.
+However, the 20 million populace is not a lifeless, rotting corpse. Astute and great, they will coldly look askance (冷然 白眼視) at this sorcery and stride forward magnificently (壯然) and righteously on their own path. (End) <21>
+
+**Summary**
+
+This 1935 editorial by Hwang T'ae-uk critiques the Korean private newspaper landscape, dominated by the *Tonga Ilbo*, *Chosŏn Ilbo*, and *Chungang Ilbo*. It traces the history of Korean newspapers from rudimentary forms to the modern press, highlighting the suppression under Japanese rule and the post-1919 emergence of these three papers. Hwang analyzes their fierce competition, financial backing (linking *Tonga* to Kim Sŏng-su, *Chosŏn* to Pang Ŭng-mo's gold mine wealth, and *Chungang* having less capital but strong leadership under Yŏ Un-hyŏng), management styles, personnel, and editorial tendencies. He cynically dismisses their claims of serving the "20 million Korean people," arguing they are capitalist enterprises using nationalism as a commodity to attract readers and lucrative advertising from Japan, likening their rivalry to heirs fighting over a corpse for inheritance.
+
+From a historical perspective, the article offers a valuable contemporary insider's (though claimed layman's) view of the colonial Korean press's complex dynamics. Historians might find the detailed accounts of ownership changes, financial struggles, competition tactics (like donation drives), the explicit mention of dependency on Japanese advertising, and the candid, often critical, personality sketches of key figures like Yŏ Un-hyŏng, Song Chin-u, and Pang Ŭng-mo particularly interesting. The author's sharp critique of the commodification of nationalism within the colonial context provides a nuanced perspective beyond simple narratives of resistance or collaboration.
+
+**Named Entities**
+
+開闢	개벽	Kaebyŏk
+朝鮮	조선	Chosŏn (Korea)
+黃泰旭	황태욱	Hwang T'ae-uk
+新羅	신라	Silla
+眞聖女王	진성여왕	Queen Chinsŏng
+大耶州	대야주	Taeya-ju
+巨仁	거인	Kŏin
+于公	우공	Master Yu (Chinese historical figure)
+鄒衍	추연	Tsou Yen (Chinese historical figure)
+李朝	이조	Yi Dynasty
+宣祖大王	선조대왕	King Sŏnjo
+松江 鄭撤	송강 정철	Songgang Chŏng Ch'ŏl
+光海君	광해군	King Kwanghae
+許均	허균	Hŏ Kyun
+南大門	남대문	Namdaemun
+壬辰亂	임진란	Imjin War (Japanese Invasions of 1592-1598)
+平壤	평양	P'yŏngyang
+李惟澄	이유징	Yi Yu-chŭng
+高宗	고종	King Kojong
+姜瑋	강위	Kang Wi
+朴永善	박영선	Pak Yŏng-sŏn
+井上角五郞	이노우에 가쿠고로	Inoue Kakugorō
+漢城旬報	한성순보	Hansŏng Sunbo
+博文局	박문국	Pangmun'guk
+建陽	건양	Kŏnyang (era name)
+徐載弼	서재필	Sŏ Chae-p'il
+獨立新聞	독립신문	Tongnip Sinmun
+尹致昊	윤치호	Yun Ch'i-ho
+皇城新聞	황성신문	Hwangsŏng Sinmun
+帝國新聞	제국신문	Cheguk Sinmun
+漢城新報	한성신보	Hansŏng Sinbo
+大韓每日申報	대한매일신보	Taehan Maeil Sinbo
+萬歲報	만세보	Mansebo
+國民新報	국민신보	Kungmin Sinbo
+大韓民報	대한민보	Taehan Minbo
+大韓新聞	대한신문	Taehan Sinmun
+時事新聞	시사신문	Sisa Sinmun
+日韓倂合	일한병합	Japanese Annexation of Korea
+寺內總督	데라우치 총독	Governor-General Terauchi
+每日申報	매일신보	Maeil Sinbo
+長谷川總督	하세가와 총독	Governor-General Hasegawa
+己未運動	기미운동	March First Movement
+齋藤總督	사이토 총독	Governor-General Saitō
+李相協	이상협	Yi Sang-hyŏp
+東亞日報	동아일보	Tonga Ilbo
+閔元植	민원식	Min Wŏn-sik
+大正親睦會	대정친목회	Taejŏng Ch'inmokhoe
+芮宗錫	예종석	Ye Chong-sŏk
+朝鮮日報	조선일보	Chosŏn Ilbo
+金性洙	김성수	Kim Sŏng-su
+宋鎭禹	송진우	Song Chin-u
+宋秉畯	송병준	Song Pyŏng-jun
+南宮薰	남궁훈	Namgung Hun
+崔南善	최남선	Ch'oe Nam-sŏn
+時代日報	시대일보	Sidae Ilbo
+申錫雨	신석우	Sin Sŏk-u
+洪璔植	홍증식	Hong Chŭng-sik
+李商在	이상재	Yi Sang-jae
+共産黨事件	공산당사건	Communist Party Incident
+中外日報	중외일보	Chungoe Ilbo
+安熙濟	안희제	An Hŭi-jae
+嶺南	영남	Yŏngnam (region)
+安在鴻	안재홍	An Chae-hong
+李昇馥	이승복	Yi Sŭng-bok
+林景來	임경래	Im Kyŏng-nae
+趙炳玉	조병옥	Cho Pyŏng-ok
+曺晩植	조만식	Cho Man-sik
+方應模	방응모	Pang Ŭng-mo
+盧正一	노정일	No Chŏng-il
+呂運亨	여운형	Yŏ Un-hyŏng
+崔善益	최선익	Ch'oe Sŏn-ik
+尹希重	윤희중	Yun Hŭi-jung
+中央日報	중앙일보	Chungang Ilbo
+崔益善	최익선	Ch'oe Ik-sŏn (likely typo for Ch'oe Sŏn-ik)
+東京	도쿄	Tokyo
+大阪	오사카	Osaka
+金剛山	금강산	Kŭmgangsan (Diamond Mountains)
+回回敎	회회교	Islam (older term)
+南鮮	남선	Southern Korea
+京城府	경성부	Kyŏngsŏng Prefecture (Colonial Seoul)
+全鮮	전선	All of Korea
+全南	전남	Chŏlla Namdo (South Chŏlla Province)
+上海	상하이	Shanghai
+米國	미국	United States
+露國	노국	Russia (older term)
+볼라지밀 리잇치 울리야놉	블라디미르 일리치 울리야노프	Vladimir Ilyich Ulyanov (Lenin)
+原敬	하라 다카시	Hara Takashi
+田中義一	다나카 기이치	Tanaka Giichi
+帝國호텔	제국호텔	Imperial Hotel (Tokyo)
+新嘉坡	싱가포르	Singapore
+比律賓	필리핀	Philippines
+英警	영경	British Police
+定州	정주	Chŏngju
+湖南	호남	Honam (region)
+潭陽	담양	Tamyang
+修養同友會	수양동우회	Suyang Tonguhoe
+金東成	김동성	Kim Tong-sŏng
+金俊淵	김준연	Kim Chun-yŏn
+金炯元	김형원	Kim Hyŏng-wŏn
+薛義植	설의식	Sŏl Ŭi-sik
+梁源模	양원모	Yang Wŏn-mo
+金基範	김기범	Kim Ki-bŏm
+幡隨院長兵衛	반즈이인 조베에	Banzuiin Chōbei
+
+**Glossary**
+
+民間	민간	Private/Civilian
+總評	총평	General review, overall critique
+文外漢	문외한	Layman, outsider
+一瞥	일별	A glance, a glimpse
+民擾	민요	Civil disturbance, popular unrest
+사발통문	사발통문	Circular notice (written round-robin style)
+侫倖	영행	Flatterers, sycophants
+肆志	사지	To indulge one's whims
+貨賂	화뢰	Bribery
+公行	공행	To be done openly, rampant
+壤弛	양이	Collapsed, deteriorated
+榜	방	To post publicly, announce
+罷黜	파출	Dismissal from office
+昭示	소시	To show clearly
+所以	소이	Reason, cause; means by which
+播越	파월	To flee, become a refugee (esp. royalty)
+環示	환시	To show around (to a group)
+稍히	초히	Somewhat, slightly (older form of 초)
+官設	관설	Government-established
+官報	관보	Official gazette
+隔日	격일	Every other day
+繼承	계승	To inherit, succeed
+時局	시국	State of affairs, current situation
+反映	반영	Reflection
+滿紙淋漓	만지임리	Filling the whole page profusely (with writing/emotion)
+倂合	병합	Annexation, merger
+機關紙	기관지	Organ (publication of an organization)
+一律	일률	Uniformly, without exception
+己未運動	기미운동	March First Movement (1919)
+文化政治	문화정치	Cultural Rule (policy name)
+表榜	표방	To advocate, profess
+容許	용허	To permit, allow (older form of 용허하다)
+高潮되엇든	고조되었던	Had reached a high tide, was heightened (older past tense form)
+均等히	균등히	Equally
+各 各	각각	Each, respectively
+相應	상응	Correspondingly
+壓倒	압도	Overwhelm
+廢刊	폐간	Discontinuation of publication
+創刊	창간	Founding/Launching (of a publication)
+聲勢	성세	Influence, reputation, momentum
+年少氣壯	연소기장	Young and vigorous/spirited
+論客	논객	Polemicist, debater
+論鋒	논봉	Point of argument, polemical edge
+抵觸	저촉	Conflict, clash; violation
+畢竟	필경	After all, eventually
+停刊	정간	Suspension of publication
+解禁	해금	Lifting of a ban
+不幾月	불개월	Within a few months
+新銳	신예	New talent, rising star; fresh and sharp
+斯界	사계	This field, this world (e.g., of journalism)
+老將	노장	Old general, veteran
+彌及	미급	To reach, match (used with negative: 미급하다 - to fall short of)
+伯仲	백중	Being evenly matched, neck-and-neck
+推하다	추하다	To nominate, recommend (modern: 추천하다)
+爭霸戰	쟁패전	Struggle for supremacy/hegemony
+怒濤	노도	Angry waves, raging tide
+激流	격류	Raging current, torrent
+順應	순응	Adaptation, conformity
+天馬騰空	천마등공	Heavenly horse soaring through the sky (idiom for great momentum)
+社內	사내	Within the company
+不統一	불통일	Disunity, lack of unification
+退社	퇴사	Resignation from a company
+囹圄	영어	Imprisonment, prison
+辛酸	신산	Hardships, bitterness
+備嘗	비상	To experience fully, taste all kinds
+高踏的	고답적	High-minded, detached from reality; pedantic
+不入	불입	Payment (esp. of shares)
+社屋	사옥	Company building
+社運	사운	Company's fortune/destiny
+向上	향상	Improvement, advancement
+合流	합류	To join forces, merge
+鼎立	정립	Standing like a tripod (three-way confrontation)
+共逐	공축	To pursue together (esp. power/dominance)
+鹿	록	Deer (symbolizing the throne or power)
+才腕	재완	Talent, ability, skill
+刻苦勉勵	각고면려	Diligent effort, assiduous work
+自期	자기	To expect of oneself, be poised to
+尤大	우대	Particularly large, superior in size
+宏麗	굉려	Magnificent, grand and beautiful
+不動明王	부동명왕	Acala (immovable wisdom king in Buddhism)
+孜孜	자자	Diligently, assiduously
+邁進	매진	To strive forward, press ahead
+回回敎	회회교	Islam (older term, sometimes derogatory)
+듸레마	딜레마	Dilemma (loan word, older spelling)
+呪文	주문	Incantation, magic spell
+術語	술어	Technical term; jargon; spell word
+血眼	혈안	Bloodshot eyes (idiom for being desperate or frantic)
+義捐金	의연금	Donation money, contribution
+制勝	제승	To win decisively
+霸權	패권	Hegemony, supremacy
+發行 部數	발행 부수	Circulation figures, number of copies issued
+졸려서	졸려서	Being pestered, nagged (colloquial)
+遊興	유흥	Entertainment, amusement (often associated with nightlife)
+大差	대차	Great difference (used in negative: 대차없다 - not much difference)
+頭角	두각	Head and shoulders (above others); prominence
+長廣舌	장광설	Long-winded speech
+通論	통론	To discuss thoroughly
+論戰	논전	Debate battle, polemical fight
+聳動	용동	To stir up, agitate, shock
+排英	배영	Anti-British
+排米	배미	Anti-American
+白眼冷視	백안냉시	Looking askance with cold eyes; disdainful look
+入獄	입옥	Imprisonment
+섬기든	섬기던	Used to serve (older form)
+金鑛	금광	Gold mine
+成金	성금	Nouveau riche (from Japanese 'narikin')
+使君	사군	My lord, Your Excellency (archaic term of address)
+吾爾	오이	I and you (archaic)
+압잡이	앞잡이	Frontman, agent, puppet
+후룩코트	프록코트	Frock coat (loan word, older spelling)
+鞠躬	국궁	Bowing deeply
+拱手	공수	Clasping hands respectfully (gesture of politeness/submission)
+惶恐하야	황공하여	Being awestruck, reverent (older form)
+廢履	폐리	Worn-out shoe (symbolizing something worthless)
+處世術	처세술	Art of dealing with people, social skills
+穩籍	온적	Gentle, calm, composed (less common Hanja)
+推獎	추장	To recommend, praise highly
+博學	박학	Erudition, extensive learning
+山戰水戰	산전수전	Battles on mountains and water (idiom for vast experience, having seen it all)
+讓하다	양하다	To yield, concede
+輔佐	보좌	Assistance, support
+才氣渙發	재기환발	Brilliant talent shining forth
+幡隨院長兵衛	반즈이인 조베에	Banzuiin Chōbei (legendary Edo 'chivalrous commoner')
+鳥瞰	조감	Bird's-eye view, overview
+老記者	노기자	Veteran reporter
+新銳	신예	Fresh energy, new and sharp
+霸氣	패기	Vigor, spirit, ambition
+無氣力	무기력	Lethargy, listlessness
+街頭	가두	On the street
+어물어물하다	어물어물하다	To mumble, act vaguely or indecisively
+安分樂道	안분낙도	Being content with one's lot and finding joy in the Way
+擇	택	To choose, select
+直書	직서	Writing directly/frankly
+失當	실당	Inappropriateness, impropriety
+相半	상반	Being half and half, balanced (often merits and demerits)
+粗雜	조잡	Crude, coarse, rough
+初號	초호	Largest type size (in printing)
+技巧	기교	Technique, skill (sometimes implies superficiality)
+野卑	야비	Vulgar, base, coarse
+얼토당토 아니하다	얼토당토 아니하다	To be utterly nonsensical, absurd
+끄내 내듯이	꺼내 내듯이	As if pulling out (older spelling)
+담배	담배	Cigarette, tobacco
+商店	상점	Shop, store
+資本家	자본가	Capitalist
+賃金	임금	Wages
+閑談	한담	Idle chat, digression
+富豪	부호	Wealthy person, magnate
+屍體	시체	Corpse, dead body
+爭奪	쟁탈	Struggle, fight (over possession)
+孝心	효심	Filial piety, devotion to parents
+遺産	유산	Inheritance, legacy
+食刀	식도	Kitchen knife
+賢明하다	현명하다	To be wise, astute
+冷然	냉연	Coldly, indifferently
+白眼視	백안시	Looking askance, viewing with disdain
+壯然	장연	Magnificently, grandly
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	朝鮮 民間新聞界 總評
+필자	黃泰旭
+기사형태	논설
+
+朝鮮 民間新聞界 總評
+						黃泰旭
+開闢의 금월호는 무엇이나 신문에 관한 비평을 쓰게 되엇다. 그러나 필자는 신문에 대하야 문외한임으로 대략 朝鮮文 新聞界의 개관을 쓰는데 그치려 한다.
+
+朝鮮新聞社의 一瞥
+朝鮮의 신문이 언제부터 생기엇는가는 의문이다. 이전에 朝鮮에서 民擾가 날때에면 『사발통문』을 돌린 일이 잇스니 이것을 신문으로 볼 수 잇슬 것인가? 또 新羅 眞聖女王 2년에
+侫倖이 肆志하고 貨賂가 公行하며 상벌이 불공하고 기강이 壤弛하엿다. 時에 無名子가 잇서 辭를 構하야 朝路에 榜하기 때문에 왕이 수색하야 모차지니 혹이 왕에게 말하기를 이것이 文人으로 不得志한 사람의 소위인데 大耶州 隱者 巨仁의 소위인가 보다 하엿더니 왕이 巨仁을 잡아다 가두니 巨仁이 분노하야 옥벽에 쓰기를
+于公慟哭三年旱 鄒衍含悲五月霜 今我幽愁還似古 皇天無語但蒼蒼
+이라 하엿더니 그날 밤에 雲霧가 大作하고 뇌우가 천지를 뒤집는 듯하매 왕이 두려워서 노아 주엇다』
+하엿다. 그러면 이런 無名子가 朝路에 榜示한 것도 역시 신문이라 할 것인가? 지금의 벽신문과 가튼 정도로도 볼 수 잇슬 것이다.
+또 李朝 宣祖大王 때에 松江 鄭撤이 罷黜을 당하니 왕이 傳曰 古者에 大臣을 罷黜하면 朝堂에 榜하나니 죄상을 國人의 이목에 昭示하야 후인을 徵하는 所以이라』
+하야 古事에 의하야 祖堂에 榜示하엿다 하니 이것도 鄭撤의 죄상을 널리 國人에게 보인 것으로 보아 일종의 壁新聞이라 할 수 잇다. 또 光海君 때에 許均은 부하를 식여 익명서를 南大門에 걸엇다가 화를 입엇는데 이것도 일종의 신문으로 볼 수 잇다. 壬辰亂 때에 宣祖大王이 平壤에 播越하야 平壤을 버리고＜13＞ 가자는 議論이 잇섯고 그대로 직히자는 의론이 잇섯는데 이 말을 듯고 시민이 騷動하니 李惟澄이 『停行』 2자를 大書하야 집웅에 올라서서 環示하야 수만 군중을 慰撫하엿다 하니 이것으로써 일종의 신문이라고 볼 수도 잇다. 그러나 이것이 모다 신문지로서 형식을 가춘 것은 아니요 50년 전 高宗朝 癸未에 姜瑋
+朴永善 등이 井上角五郞과 漢城旬報를 발행하게되니 이것이 稍히 형식을 가춘 신문지이나 이것이 官設 博文局에서 발행한 것임으로 일종 官報이요 신문이라고 볼 수는 없다.
+그 후 지금으로부터 40년전 高宗 建陽 元年 丙申 4월 7일 徐載弼씨가 朝鮮文과 英文 두 가지로 獨立新聞을 隔日하야  발행하다가 1년 뒤에 尹致昊씨가 계승하야 일간을 만드니 이것이 일간 신문의 시초이다. 그 후로 皇城新聞 帝國新聞 漢城新報 大韓每日申報 萬歲報 國民新報 大韓民報 大韓新聞 時事新聞 등이 뒤를 니어서 나니 이것은 그때의 시국의 반영으로 이러케 신문이 만히 난 것이오 또 내용도 비분한 문자로 滿紙淋漓의 장관이엇다. 그리다가 日韓倂合이 되니 당시 寺內總督이 모다 금지 또는 매수하고 大韓每日申報 하나만 남겨서 單히 每日申報라는 일홈으로 총독부 기관지를 삼엇고 기타 민간의 경영은 일률로 금하엿으니 寺內總督으로부터 長谷川總督까지 약 10년간을 『뿔랙에이지』라고 할 수 밧게 없다. 己未運動 후에 齋藤總督은 부임하자 곳 문화정치를 표방하는 성명을 발표하고 10년동안 막엇든 언론의 자유를 어느 정도까지 용허하게 되어 탄생한 것이 민간의 3신문이다.
+
+民間 三新聞의 誕生과 其 經路
+그때는 일반적으로 민족주의의 사상이 고조되엇든 때임으로 齋藤總督은 당시 각 방면의 말을 균등히 듣는다는 의미로 민족주의 편으로 李相協에게 東亞日報 親日本主義 閔元植에게 時事新聞, 당시 日鮮同化에 힘쓰는 단체라는 大正親睦會
+芮宗錫에게 朝鮮日報를 허가하야 각각 상응 발달을 하며 성장하는 것을 보려 하엿다. 그러나 당시의 정세로는 朝鮮과 시사는 완전히 東亞에게 압도된 감이 잇섯고 더욱 時事新聞만은 몃 달 못되어 外로 민중의 지지가 없고 안으로 재정난이 잇서 폐간되고 그 후로 朝鮮日報도 일시 경영난에 빠지게 되엇섯다. 그러나 東亞日報도 창간이래 聲勢만 놉핫슬 뿐이지 경영이 순조로운 것은 아니엇다. 年少氣壯한 논객들이 東亞日報를 중심으로 盛히두르는 論鋒은 총독부의 근본 방침에 저촉된 바- 만아 필경 정간의 액을 당하엿섯고 그것이 해금되는 동시에 不幾月에 金性洙가 중심으로 주식회사가 완성하야 제1대 사장으로 宋鎭禹가 취임하엿다. 이 동안에 朝鮮日報는 大正親睦會의 손에서 宋秉畯에게로 넘어가서 그가 사장의 지위에 잇섯스나 실제의 사장은 南宮薰씨가 대행하엿섯다. 南宮씨는 東亞의 신예에 비하야 斯界의 노장인 감이 잇섯스나 아모래도 그때의 朝鮮日報＜14＞ 聲勢는 東亞에 미급한 점이 잇서 보엿다. 南宮씨는 이 중에 회사 성립에 노력하고 잇섯다. 그러자 일변 時事新聞이 폐간된 代에 崔南善의 時代日報가 창간되어 하마트면 東亞와 백중을 다톨만콤 기세를 올리다가 재정관계로 여의치 못하고 東亞에서 나온 李相協 등이 申錫雨 洪璔植 등 諸氏와 함께 민중적 거인 李商在옹을 *장에 推하고 東亞日報와 장렬한 쟁패전을 하는데 東亞日報가 민족주의를 고수함에 反하야 朝鮮日報는 당시 노도와 가치 격류하는 사회주의 사조를 순응하야 天馬騰空의 세이엇으나 東亞와 쟁패전 1년에 총독부로부터 정간의 명이 내리고 일변 社內의 불통일이 잇서 필경 李相協, 洪璔植 등이 퇴사하고 申錫雨가 경영케 되엿스며 퇴사한 洪璔植씨는 共産黨事件으로 囹圄의 身이 되고 李相協은 다시 中外日報를 창간하엿스나 재정 곤란으로 幾多의 辛酸을 備嘗하고 嶺南의 고답적 인물 安熙濟가 사장이 되어 주식회사로 경영하엿다. 그러나 역시 재정난으로 일시 폐간되엇다. 이 중에 東亞日報만이 견실한 경영으로 제2회 불입을 하야 光化門通에 화려한 사옥을 짓고 사운이 향상의 一路이엇다. 朝鮮日報는 新幹會 運動과 합류하야 일시 聲勢를 어덧스나 재정이 곤란하야 다시 昔日의 影이 없이 되엇다. 이 중에 申錫雨가 퇴사하고 安在鴻, 李昇馥 등이 경영하다가 7苦8難 중에 필경 양인이 모다 某사건으로 철창에 들어가고 그 후 돌출의 林景來가 판권을 마타서 미증유의 혼란을 이르키고 趙炳玉, 曺晩植 등이 인수 경영하다가 광산 성금으로 혜성과 가치 나타난 方應模가 경영을 맛게 되고 中外日報는 역시 돌출의 盧正一이 마타서 幾多의 풍파를 지나고 呂運亨을 사장으로 崔善益
+尹希重 등이 주식회사로 경영케 되니 오래동안 경영난이든 朝鮮의 신문계는 오래인 동면기를 지내고 一陽來復의 春光이 왓다할가 陰雨가 霏霏하다가 一朝雲開復見天의 慨가 잇다 할가?
+
+資本과 經營方法
+中央日報, 朝鮮日報, 東亞日報 3신문이 이제 鼎立의 勢로 천하의 鹿을 共逐하는 격이다. 中央日報는 30만원의 주식회사이니 재정은 尹希重, 崔益善이 담당하엿거니와 밧그로는 인걸 呂運亨이가 잇고 안으로 才腕 洪璔植이가 잇서 刻苦勉勵- 성의로 경영중이다. 자본금에 잇서 東亞에 비하야 5만원이 적고 조선에 비하야 20만원이 적으니 자연 前記 兩 신문이 火花를 날리며 싸호는 중에 고요히 그 機를 엿보며 제2류로 자처하며 中新聞으로서 걸어나간다. 그러나 이것은 결코 영원한 제2류, 영원한 中新聞은 아니다. 일어나기 위하야 업드림이요 싸호기 위하야 축적이다. 지면에 잇서서 東亞, 朝鮮이 모다 10면인데 中央만은 8면이다. 이것만이라도 제2류의 평을 외형만으로라도 듯지 안을 수 없는＜15＞ 것이다.
+滕小國也, 間於齊楚?
+아니다. 농담이로다. 도로혀 他 신문 월 1원에 대하야 80전이라는 저렴으로 독자의 최다수를 점하려한다. 이 『꼴』에만 들어가면 극동의 일본과 가치 淸露를 부수고 패권을 잡으리라고 自期하는 모양이다.
+朝鮮日報는 그 자본부터 朝鮮文 민간紙의 최고봉이다. 東亞에 그것에 비하야 15만원이 만타 만일 東亞의 2회 불입이 현재 사옥에 만이 고정된 것을 고려하고 朝鮮의 사옥이 50만원 자본 외에 方應模의 사재임을 想到하면 20만원은 더 만흔 세음이요. 中央보다는 30만원이 더 만흔 세음이니 자본의 尤大가 현대에 잇서 한 무기라고 아니할 수 없다. 건축 당시의 宏麗를 자랑하든 東亞의 사옥을 눈흘겨 보며 光化門通의 5층의 宏大한 사옥을 짓는 중이니 이 사옥부터 東亞의 80,000원에 비하야 이는 13만원의 공비가 든다 하니 이것만도 東亞보다 더 큼을 자랑함이다.
+東亞日報는 창간이래 15년에 아즉 1度의 치명적 동요를 밧지 아니하엿다. 그것은 湖南의 재벌 金性洙가 不動明王으로 그 경영권을 쥐이고 잇기 때문이다. 他紙가 搖搖不定하는 사이에 15년이라는 긴 세월을 오즉 기업적 경영에 孜孜하엿다. 東京 大阪의 광고를 위하야 사장 자신이 몃 번씩 가서 잔을 들이고 백 여명 사원을 독려하야 一路邁進의 이윤의 추구이다 수만원을 들여서 東京, 大阪 광고주에게 金剛山 구경을 식인 것도 이 社이요 지국의 대금이 체납되면 단연 신문을 끈코 교분과 정의는 돌볼 것 없이 소송을 걸어서 집행을 한다는 것도 이 社이다. 또 다른 신문이 경영난일 때에 독보적 축적한 것이 수만원 저금을 이루엇다는 것도 이 社이다. 하여간 東京, 大阪의 광고주가 광고를 내이려면 먼저 東亞日報를 차질만큼 지반을 다저 노앗다는 것이 그 社의 자랑이다. 한 손에 경전을 들고 한 손에 칼을 든 것이 回回敎라 하면 한 손에 朝鮮民族을 들고 한 손에 東京, 大阪의 상품을 들고 나가는 것이 東亞日報 아니 朝鮮의 諸신문이다. 다만 그 마술에 가장 잘 성취한 것이 東亞日報이다. 신문지의 판매를 위하야는 朝鮮民族을 팔아야겟고 광고의 수입을 위하야는 東京, 大阪 등지의 상품을 팔아야하는 것이 朝鮮新聞界의 듸레마이다. 그러나 이것은 당연 이상의 당연이 아니냐. 朝鮮의 신문도 상품인 이상 노골한 이해관계, 무정한 현금 勘定 이외에 아모것도 없는 것이며 감격과 신성은 이기적 타산의 冷氷 중에 침몰치 아니할 것이냐. 다만 후광을 벗기인 朝鮮民族이란 말이 그들의 요술의 주문의 술어화하얏슬 뿐이다. 화폐가 주인을 찻드냐 이윤이 민족을 가리드냐. 이 東亞日報의 성공에 대하야 악을 쓰고 덤비는 것이 後馳의 朝鮮과 中央이다. 朝鮮은 무엇이나 『朝鮮第一』이라는 말로 주문의 술어를 삼엇다.＜16＞
+자본 만키도 朝鮮 제일, 독자 만키도 朝鮮 제일, 사옥 크기도 朝鮮 제일 社用 자동차 설비도 朝鮮의 최선 비행기 설비도 朝鮮의 최선 민중의 지지도 朝鮮의 제일(?)
+불행히 이 최후의 것이 여의치 못하야 고민이다. 과연 이 최후의 『民衆支持를 朝鮮 제일』이라하기 위하야 작년 南鮮 大수재에 의연금 쟁탈에 朝鮮과 東亞는 혈안으로 경쟁한 결과 필경 완전히 制勝하야 東亞 30,000원 朝鮮 40,000원으로 패권을 잡엇다. 이것이 不幾日에 東京, 大阪 광고주에게 朝鮮 민중 지지가 朝鮮日報가 제일이라는 말을 하는 선전 재료가 된 것은 물론이다. 이러케 朝鮮 민중을 팔고 東京, 大阪의 공고를 어더와야 사장이 사장 노릇도 하고 지도자의(?) 榮冠도 어들 수 잇는 것이다.
+독자가 제일 궁금히 아는 것 하나를 말하여 줄가. 그것은 신문의 발행 부수이다. 이것은 신문사 내에서도 극비밀에 부치며 3신문이 각각 자기네 신문이 제일 만히 나간다 하나 실상 백중간이다. 대체로 3만 3,4천에서 오르고 내리는 중에 잇다 하겟다. 東亞日報가 독보할 때에 일시 40,000여매를 발행하엿다 함이 최고 부수이다. 그러면 독자 중에는 東亞 독보시 40,000이라면 3신문 90,000이 어찌 되느냐고 물을 이가 잇을 것이나 朝鮮의 독자는 신문을 생활 필수품으로 보지 안코 지국 경영자에게 졸려서 보는 것이 대부분임으로 볼 때는 3신문을 다보고 없으면 안보고 지내는 것이다. 그럼으로 3신문으로 나누면 만하지고 하나이면 줄어진다. 이것을 비근한 예로 대이면 한 소부분에 기생 1인이 잇스면 하로밤에 유흥 5시간 식 1시간 평균 1원 1개월 평균 150원 밧게 안될 것이나 기생 3인이 잇다면 하로밤에 유흥 4시간씩 3인 합 12시간 1개월 평균 360원이 되는 것과 갓다고 보면 大差가 없을 것이다.
+
+三新聞 社長의 人物槪評
+이제는 3신문의 인물 배치를 보자. 첫재 사장부터 본다면 3社 중 자금으로 제일 적은 中央日報의 사장이 도로혀 제일 빗난다. 中央日報에 만일 자랑이 잇다면 사장일 것이다. 사장 呂運亨은 실상 朝鮮에서 단연 두각을 들이 내인 인물이다. 歐洲大戰 후 민족 자결주의가 이러남에 上海에서 米國의 극동 사절을 차저 보고 그 장광설을 늘어 노흔 이도 그 분이요 혁명 후 露國의 『볼라지밀 리잇치 울리야놉』을 차저 보고 극동정세를 통론한 이도 그이요 上海의 모든 급진 논객을 뒤로 미루고 먼저 정면으로 東京政局에 교섭할 필요가 잇다고 原敬 總理大臣과 군부 거두 田中義一과 마주 안저 한판 씨름의 논전을 한 분도 그이요 제국호텔에 전국에 날고 기는 신문기자들을 모아 노코 朝鮮OO의 도도한 연설을 토하야 朝鮮을 聳動한 분도 그이다.
+그리다가 필경 그는 약소민족으로서 일련의＜17＞ 제국주의와 상대됨을 늣기고 新嘉坡에 가서는 排英연설, 比律賓에 가서는 排米연설을 하야 모든 곳에서 白眼冷視를 바든 것이 원인이 되어 마츰내 英警의 손에 잡히어 朝鮮에 오게 되어 3년 동안 철장의 人이 되엇섯다. 다른 朝鮮 東亞의 兩社 사장을 돌아보건대 宋鎭禹는 己未運動에 1교육자로서 入獄하엿슬 뿐이며 方應模는 가정에서 한문을 배우고 중년에는 東亞日報 定州 지국장으로 당시 宋眞禹를 본사 사장으로 섬기든 처지이엇다 한다. 그러나 금광 성공으로 일약 100만원의 황금을 쥐고 昔日 지국 시대에 본사 사장으로 울얼어 보든 東亞의 宋사장과 맛담배를 부치며 『천하의 영웅은 使君과 吾爾로세』 할 때에 方씨와 宋씨는 각각 색달은 감회가 잇섯슬 것이다. 하나는 湖南財閥의 압잡이로 하나는 金鑛 成金의 혜성으로 『후룩코트』에 자동차에 코가 놉하다니는 중에 검소한 양복에 해여진 모자를 쓰고 長安大道上에 성큼성큼 걸어다니는 것이 中央의 呂運亨이다. 東亞, 朝鮮의 기자와 사원이 각각 그들의 사장인 宋鎭禹이나 方應模 압헤 나갈 때에는 양복 웃저고리를 입고 넥타이를 다시 만지고 鞠躬하며 압헤 나가서 머리를 숙이어 최경례를 하고 拱手하고 서 잇다가 한 번 그의 입에서 무슨 말이나 나올 때는 황공하야 물러 나온다 하나 中央의 呂씨는 가튼 동저고리 바람으로 뛰고 놀고 다트고 완연한 동료로써 대한다 한다. 그러나 이것은 반듯이 呂씨가 인물이 크고 宋씨나 方씨가 인물이 적어서만 그런 것이 아니라 宋씨는 潭陽의―寒士로 상투를 자르고 東京에 건너가서 막역인 金性洙와 손의 손을 잡고 돌 아온 후 그럭저럭 東亞日報 사장까지 된 것이니 그는 술이 半醉하면 친구를 붓들고 『20년전 東京서 올 때에 眇小한 一서생이 이제는 2,000만 민중의 기관인 大東亞日報의 사장으로 천하를 호령하게 되엇구나』
+하엿다는 것으로 보아 얼마나 자기의 신문 사장의 지위를 영광으로 아는지 알 수 잇고 方應模는 속간 초에 朝鮮日報의 패권을 修養同友會가 잡으려 할 때에 非修養同友會의 일파가 항쟁을 하야 社內가 물끌듯 하는 때에 전 사원을 모아 노코
+『여러분 朝鮮日報는 다른 이가 하는 것이 아니요 方應模가 하는 것이며 일당일파의 기관이 아니라 2,000만 민족의 기관입니다.』
+하는 『애긔연설』을 하엿다는 것으로 보아 역시 상당히 영광으로 알며 이 영광이란 관념은 모든 학자나 신문인을 자기의 고용자로서 대하고 위엄을 보이는 것에 만족을 늣기는 것이 아닌가. 밧구어 말하면 그들의 과거가 그것으로 그만한 自高自滿을 늣기게 한 것이요 中央의 呂運亨은 크나큰 국제무대와 세계적 인물과 접촉함으로 현재 中央日報 사장쯤은 廢履와 가치 적고 적은 것으로 알어서 自滿自高는 꿈에도 없는 것이나 아닌가＜18＞
+3인의 환경의 상이는 3인의 처세술의 상이를 내인 것이다. 그러나 이것은 일부분 처세술의 상이와 밋 그의 소위 경력을 말함이요 전 인격을 평정함은 아니다. 웨-그러냐하면 사람의 우열은 용이히 평정할 수 없음으로써이다. 宋씨가 스사로 정치가로 자임하고 축운축운한 감동이라든지 노락이라도 膾를 처먹을 듯한 비위로 이해의 압헤에 머리를 숙이는 特長이라든지 朝鮮의 과거에 대한 일가견 등은 呂運亨에게 없는 특색일른지 모르며 方應模가 비인 주먹으로 일대에 100만원을 벌어서 당장에 헤처 신문 사장으로 그 功名慾을 해보는 것 가튼 것은 남에게 일종 傑然감을 주는 것은 사실이다. 다만 宋鎭禹에게 金性洙의 돈을 떼이고 方應模에게 100만원을 떼어 노코 보아도 현재와 가튼 聲望을 누릴른지 의문인데 반하야 呂運亨은 中央日報 사장이니 尹 崔 兩人의 금전을 뚝 떼노아도 훌륭이 그 독자의 聲望을 가질 것이다.
+
+陣容과 優劣의 長短
+신문사를 구성한 편집 영업 兩局의 인물을 一瞥하여 보자 中央의 金東成은 穩籍한 英學者이니 氏가 米國에서 신문과를 마치고 왓다하나 신문 기술자로는 그리 推獎할 수 없고 東亞의 金俊淵은 그 박학인 점에서 3신문 중의 一頭를 들어 내일 것이다. 다만 신문의 기술자는 아니다. 朝鮮의 金炯元이야말로 코흘릴 때부터 신문사 밥을 먹고 외근기자로부터 편집부장을 지나서 국장이 되니만콤 신문기술에는 산전수전을 격것스나 그 학식에 잇서서는 전기 兩金씨에게 1보를 讓할 것으로 본다. 그 대신 실제에 밝다. 다만 東亞에는 金俊淵을 보좌하는 薛義植이 잇다. 그 亦 東京에 가서 신문전공을 수년이나 하엿다니 一異彩이며 朝鮮의 金炯元과 백중을 다툴만하다. 영업을 東亞에는 금고직이(견실의 뜻)이라는 별명을 듯는 梁源模가 잇고 朝鮮과 中央에는 才氣渙發한 金基範, 洪璔植 등이 잇다. 洪씨는 中央의 영업국장을 떼어 노아도 그 聲名은 - (此間 14字 부득이 略) - 유명한 분이다. 이재와 영업에 얼마나한 실력이 잇는지 의문이나 여하간 제일 苦境에 들어 잇는 中央을 잇글고 그 가슴에 비책을 픔은대로 고요히 나간다. 金力으로 소리를 지르는 양 신문을 눈흘겨 보며 幡隨院長兵衛로 도마 우에 올라 안저서 旗本의 칼을 밧는 감이 잇다. 金基範은 東亞의 大阪 지국장으로서 10여년이나 잇서서 광고를 알고 신문 경영을 알기로 同사내의 제1인자라 한다. 그 외의 사원에 대하야 조감하면 역시 일장일단이 잇스나 東亞의 사원은 모다 30이상의 老기자가 만어서 성숙을 자랑함에 反하야 朝鮮과 中央은 20대의 청년기자가 만어서 신예를 자랑한다. 이것이 그대로 지면 에 반영되어 朝鮮과 中央은 지면에 패기가 보이고 東亞는 전체로＜19＞ 무기력하여 보인다. 가두에 다니는 기자를 보아도 朝鮮과 中央은 동분서주하는데 東亞는 큰 가방을 끼고 유유히 一회사원으로 것는 것이 눈에 띄인다. 東亞는 안저서 머리로 쓰는 편이 만타. 그러타 하야 朝鮮과 中央 머리 없이 쓰는 기자만이 잇는데냐고 물으면 그것은 아니다. 상당히 머리를 쓰지만 다리로 뛰어 다니며 머리를 써서 쓰는데 東亞의 기자들은 비교적 비활동적이라는 것을 가르치는 世評이다. 신년호에서 일례를 보면 朝鮮은 滿洲와 炭坑에 기자가 뛰어가서 실지 답사기를 썻는데 東亞는 총독부 발표문서를 어물어물하엿다. 총독부 예산이 발표되자 朝鮮은 즉시 비판과 해부를 하야 연일 기재하엿는데 東亞는 소재를 내노코 말엇다. 이것을 비근한 말로 하자면 東亞의 기자는 이제 배가 불럿다. 그러케 아니하여도 과거의 지반으로 安分樂道나 하면 고만이라 한다. 재정으로 부족한 中央은 때때로 남이 取擇지 아니하는 재료를 취급하야 일세를 놀래는 일이 잇스니 어떠한 권세 압헤도 직서하엿다는 용기만은 사줄만 하나 그 취급의 과도와 失當으로 공과 相半인 것은 유감이다. 朝鮮은 사회면 편집이 몹시 조잡하다. 서투른 이의 常例로 함부로 初號를 만히 쓰고 기교를 서투르게 부리려다가 도로혀 잡는 일이 만타. 언제인가 京城府의 疑獄이 疊出할 때에
+水道事件 너 빗켜라
+金庫事件 내 나온다.
+는 제목이 잇섯다. 얼마나 장타령군의 야비한 문자이냐 또 全鮮의 역을 개축하는데 대하야
+全鮮 各驛 大手術
+이라고 初號르 썻다. 수술은 전체를 그대로 두고 국소에만 수술하는 것이니 역사를 수선한다면 이 문자가 맛지만 개축에는 얼토당토 아니한 술어이다. 東亞에는 이러한 실수가 사회면 만에서는 어더 볼 수 없다. 中央의 사회면은 평소에는 너무 穩籍하지 안을가? 이것은 東亞와 다른 의미로... ... .
+
+二千萬 民族이 新聞과 何關인가
+이로써 대략 민간 3신문의 총평이 끗낫다. 신문사에서 흔히 내놋는 것이 호주머니에서 담배 끄내 내듯이 우리 社는 2,000만 민족을 위하야 운운의 말을 한다. 신문사는 신문이라는 상품을 만드는 곳이요 그것을 팔아 이윤을 보는 상점과＜20＞ 일반이니 바로 위한다면 신문 경영에 돈내인 자본가나 임금을 밧는 사원을 위하는 것이지 어째서 2,000만 민족을 위하는 것인가. 또 朝鮮이나 東亞나 中央이 모다 2,000만 민족을 위한다면 결국 2,000만 민족은 누구의 것인가. 中央의 것인가 東亞의 것인가 朝鮮의 것인가. 만일 그러치 안타면 3社가 3분할 것인가? 3분할 것이라면 2,000만의 3분인 630만 동포를 위하는 것이 아닌가? 이것을 본 每日申報도 역시 한목 끼겟다고 그 사설에 『二千萬 同胞를 爲하야』 운운의 말을 썻다. 이리되면 2,000만을 4분하야 500만씩 차레가 가는 것인가? 독자여 용서하라. 자필에게 잠시 한담을 許하라! 이약이 하나를 하리라.
+『어떤 부호가 게집을 몃씩 어더서 자식을 여럿을 나코 죽엇다. 그 후 그 자식들이 모다 들고 이러나서 각기 그 애비 시체를 가저가려고 쟁탈한다. 구린내 나고 썩은내 나는 시체를 무엇이 고와서 그러케 차지하려는가? 효심이 지극한 효자들인가? 아니다! 아니다! 그것은 그 애비의 시체를 마트면 수백만원 유산이 제것이 되리라고 생각한 때문이다. 이러케 네애비이니 내애비이니 하고 시체를 가운데 노코 다투다가 한 자식이 부억에 들어가 식도를 들고 나오면서 자- 그럴것 없이 시체를 반씩 가르자! 현명한 독자여 시체를 반식 가르면 제게 재산의 반분 차례가 올 줄 안 것이다. 그러나 또 큰 일이 낫다. 그 부호의 아들이라는 것이 또 두 명이 적자라고 나타낫다. 필경 이 애비의 시체는 4분하지 안으면 안되게 되엇다.
+(全南 某 부호가의 사후 실화)
+이것은 꼭 朝鮮의 3신문이 2,000만 민족을 쟁탈하는 심리와 好一對이다. 이 2,000만 민족이란 일홈을 팔어서 利를 만히 보아 현세의 부를 한 번 누려보자는 술법이다.
+그러나 2,000만 민중은 생명이 끈허진 썩은 시체는 아니다. 현명하고 위대한 그들은 요술을 冷然 白眼視하며 자기의 갈 길을 壯然 且 정당히 거러 갈 것이다. (끗)＜21＞
+＜13-21＞

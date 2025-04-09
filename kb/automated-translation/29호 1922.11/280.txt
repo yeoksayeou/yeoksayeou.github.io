@@ -1,0 +1,53 @@
+Magazine Title: 開闢 제29호
+Publication Date: 1922년 11월 01일
+Article Title: 社告 (Company Announcement)
+Author: 開闢社 (Kaebyŏk Company)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+Company Announcement
+
+Mr. Pak Pong-ŭi (朴鳳儀), the Kyŏngnam Branch Manager of Kaebyŏk, has resigned due to circumstances (事勢), and Mr. Chŏng Chae-hwa (鄭載華) has been newly appointed. General affairs have been further expanded (擴張).
+
+Therefore, we ask the esteemed readers (愛讀者位) within the jurisdiction (管內) to please understand (洞亮하시옵).
+
+Kaebyŏk Company <36>
+
+**Summary**
+
+This is a company announcement from Kaebyŏk Company informing readers that the Kyŏngnam (South Kyŏngsang Province) Branch Manager, Pak Pong-ŭi, has resigned and been replaced by Chŏng Chae-hwa. It also states that the branch's general affairs have been expanded and asks for the readers' understanding. For historians, this notice provides insight into the organizational structure (regional branches) of a major Korean cultural magazine during the colonial period, personnel changes, and the company's direct communication with its readership in specific regions.
+
+**Named Entities**
+
+慶南	경남	Kyŏngnam
+朴鳳儀	박봉의	Pak Pong-ŭi
+鄭載華	정재화	Chŏng Chae-hwa
+開闢社	개벽사	Kaebyŏk Company
+
+**Glossary**
+
+社告	사고	Company Announcement
+慶南	경남	South Kyŏngsang Province (Abbreviation)
+支社長	지사장	Branch Manager
+事勢	사세	Circumstances, situation
+依하야	의하야	According to, due to (Older form of 의하여)
+辭免하옵고	사면하옵고	Has resigned (Humble/polite, older form of 사면하고)
+任命되어	임명되어	Being appointed
+一般事務	일반사무	General affairs
+一層	일층	Further, even more, one layer
+擴張하얏사오니	확장하였사오니	Have expanded (Polite, older spelling/form of 확장하였으니)
+管內	관내	Within the jurisdiction/area
+愛讀者位	애독자위	Esteemed readers (位 adds politeness)
+洞亮하시옵	동량하시옵	Please understand/acknowledge (Polite, older command form)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제29호
+발행일	1922년 11월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+開闢 慶南 支社長 朴鳳儀氏는 事勢에 依하야 辭免하옵고 새로 鄭載華씨가 任命되어 一般事務를 一層 擴張하얏사오니 管內 愛讀者位는 洞亮하시옵
+開闢社＜36＞

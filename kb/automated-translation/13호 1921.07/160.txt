@@ -1,0 +1,83 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1921년 07월 01일
+Article Title: 여쭐 말슴 잇습니다 (Words I Wish to Ask)
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+**Body Text Translation:**
+Words I Wish to Ask
+
+To the Elders (父老) residing in the Homeland (本國), I know that you are actively engaged in many fields (方面) to newly construct the culture (文化) of our society. I also know that your desire to see much of foreign civilization (外國文明) as a reference (參考) for this cultural construction (建設) is earnest. I know this from seeing many sightseeing groups (觀光團) coming here. However, I earnestly wish to ask you this. Isn't Japan (日本) also a foreign country? Being guests from abroad, why are your clothes and appearance (衣表) so slovenly (麤率)? Why display our lack of vigor (無氣力) so much even to foreigners? Please, I wish you would cut off your topknots (상투), take off your *kat* (갓), and adopt the world style, modern style, common style. The sight (景况) of so-called distinguished guests from Chosŏn (朝鮮) on Japan's premier Ginza street (銀座通) or in Suda-chō (須田町), wearing a topknot, *mang'gŏn* (網巾; headband), and black *kat* (黑笠), clad in an out-of-season white ramie *turumagi* (白紵두루막; overcoat), wearing convenient shoes (便利靴), walking hesitantly with hands clasped behind their backs (뒤짐 지고 어릿어릿하시는) completely devoid of vigor (氣力)—it is truly uncomfortable (未安스럽더이다) to behold. If it was this unpleasant for a child (子弟) of Chosŏn to see the elders (父老) of Chosŏn, how much more must the people of another country (異國) have ridiculed them? Koreans traversing all nations (萬國) in Chosŏn's traditional attire (固有의 衣表)—of course, that is a fine thing. However, it reveals too much of an appearance (態) of poverty and weakness (貧弱). Being guests from abroad, yet appearing not to have even 10 yen's worth (値) on their person... Please, cut off the topknots (샹투) and take off the black *kat* (黑笠). This is truly what I earnestly wish for. Also, after you sightsee, please make what you have seen our own, but never be intimidated or discouraged (落心); this I earnestly desire. One more thing I wish is that if you intend to see the sights and customs (風物) of foreign countries, please refrain from participating in group tours (團體的 觀光) as much as possible. Although there are convenient aspects to joining a group, there are more inconveniences.
+That is, it is restrictive (不自由) and incomplete (不完全). The travel expenses (路費) do not differ much. Please, by all means, come as individuals (個人) so you can freely, at your own pace, thoroughly (充分히), and meticulously (細密히) see things. Here too, we have nearly 2,000 of our brethren (兄弟), so if elders (父老) from the homeland (故國) come, they will, as is customary (依例), guide (引導) you well. By all means, I hope you will aim for individual sightseeing (個人的 觀光) over group tours (團體的 觀光).<100>
+
+**Summary**
+
+The author, likely a Korean resident or student in Japan, pleads with Korean elders visiting Japan to modernize their appearance by cutting their topknots and abandoning traditional attire like the *kat* and *turumagi* in favor of Western-style clothing. The author argues that the traditional appearance looks slovenly, weak, and poor, causing embarrassment and inviting ridicule from the Japanese. The author also advises against group tours, suggesting individual travel allows for a more thorough, free, and meaningful experience, assuring potential visitors that fellow Koreans in Japan can offer assistance. This article provides insight into the internal debates among Koreans during the colonial period regarding cultural identity, modernization, and how they were perceived internationally, particularly by their colonizers. Historians might find the direct critique of traditional symbols and the advocacy for adopting "world style" dress and independent travel revealing about the pressures and desires for change and self-representation felt by some Koreans under Japanese rule.
+
+**Named Entities**
+
+本國	본국	Ponguk (Korea, lit. 'homeland')
+日本	일본	Ilbon (Japan)
+銀座通	긴자통	Ginza-dōri (Ginza street)
+須田町	수다정	Suda-chō
+朝鮮	조선	Chosŏn (Korea)
+萬國	만국	Man'guk (All nations/the world)
+故國	고국	Koguk (Homeland)
+
+**Glossary**
+
+父老	부로	Elders; senior respected men
+文化	문화	Culture
+建設	건설	Construction; building
+方面	방면	Field; aspect; area
+活動	활동	Activity; engagement
+參考	참고	Reference
+外國文明	외국문명	Foreign civilization
+觀光團	관광단	Sightseeing group; tour group
+衣表	의표	Clothing and appearance; outward attire
+麤率	추솔	Slovenly; coarse; careless (older term, now usually 조잡하다 or 허술하다)
+無氣力	무기력	Lethargy; lack of vigor; listlessness
+상투	상투	Topknot (traditional Korean male hairstyle)
+網巾	망건	*Mang'gŏn* (traditional Korean headband worn under the *kat* to hold the topknot)
+黑笠	흑립	Black *kat* (traditional Korean hat, often made of horsehair)
+白紵두루막	백저두루막	White ramie *turumagi* (a traditional Korean overcoat made of ramie fabric)
+便利靴	편리화	Convenient shoes (likely referring to simple, perhaps Western-style or modified traditional shoes easy to wear)
+뒤짐 지고	뒷짐 지고	With hands clasped behind the back (modern spelling)
+景况	경황	Situation; circumstances; sight (older term, now usually 광경 or 상황)
+未安	미안	Feeling sorry; feeling uncomfortable; uneasy (used here expressing discomfort at witnessing the sight)
+子弟	자제	Sons and younger brothers; children; younger generation
+異國	이국	Another country; foreign land
+民族	민족	People; ethnic group; nation
+固有	고유	Inherent; innate; traditional
+橫行	횡행	To walk sideways; to stride; to swagger; here implies traversing or moving about freely
+貧弱	빈약	Poor and weak; meager
+態	태	Appearance; state; condition
+國外	국외	Abroad; outside the country
+値	치	Value; worth (older usage for 가치)
+落心	낙심	To be discouraged; to lose heart
+風物	풍물	Natural scenery and local products; sights and customs
+團體的	단체적	Group-based; collective
+不自由	부자유	Restrictive; not free; inconvenient
+不完全	불완전	Incomplete; imperfect
+路費	노비	Travel expenses
+個人	개인	Individual
+充分히	충분히	Sufficiently; thoroughly; fully
+細密히	세밀히	Meticulously; in detail
+兄弟	형제	Brethren; brothers; compatriots
+依例	의례	As is customary; according to precedent; usually
+引導	인도	Guidance; leading
+圖하다	도하다	To plan; to seek; to aim for (older usage, now usually 도모하다)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	여쭐 말슴 잇습니다
+기사형태	잡저
+
+여쭐 말슴 잇습니다
+本國계신 父老 여러분, 여러분께서 우리社會의 文化를 새로 建設하시기 爲하야 모든 方面으로 活動 만히 하심을 아나이다. 이 文化建設의 參考로써 外國文明을 만히 보시려는 생각이 간절하신 줄도 알앗나이다. 觀光團이 만히 오심을 보아서 알앗나이다. 그런데 간절히 여쭙나이다. 日本도 亦是 國外가 아닙니까. 國外의 손이 되면서 衣表가 어쪄면 그리 麤率할가요. 우리의 無氣力을 왜 그다지 外國人에게까지 表示할가요. 제발 상투 좀 잘라버리시고 갓 좀 벗어버리시고 世界式 現代式 普通式으로 하셧스면 조켓습니다. 日本 惟一의 銀座通이나 須田町에서 所謂 朝鮮의 貴客으로서 상투 틀고 網巾 쓰고 黑笠 쓰고 철아닌 白紵두루막 입고 便利靴 신고 아모 氣力업시 뒤짐 지고 어릿어릿하시는 景况-實로 보기에 未安스럽더이다. 朝鮮의 子弟로서 朝鮮의 父老를 對할 때 이와가티 不快하엿거던 況且 異國의 民族이야 如干 비웃엇겟나이까. 朝鮮人으로 朝鮮 固有의 衣表로써 萬國에 橫行함-毋論 조흔 것입니다. 그러나 넘우 貧弱의 態가 들어 납디다. 國外의 손이 되면서 몸에 10圓의  値가 업서 보이니... 제발 샹투 좀 베고 黑笠 좀 벗어 주셔요. 이 實로 간절히 願하는 바 올시다. 그리고 觀光하시고 觀光한대로 우리의 것을 만들지언정 決코 무서워 마시고 落心 마르시기 간절히 願합니다. 또 한가지 더 바라는 것은 外國의 風物을 보시려거든 될 수 잇는 대로 團體的 觀光에 參加치 마르십시요. 勿論 團體에 參加함이 便利한 點도 잇스나 不便한 것이 더 만습니다.
+即 不自由하고 不完全합니다. 路費가 얼마 相關되지 안습니다. 아모쪼록 個人으로 오셔서 自由로 마음대로 充分히 細密히 보시도록 하십시요. 이곳에도 우리의 兄弟가 近 2,000名이나 잇스니까 故國의 父老께서 오시면 依例로 引導 잘 해들일 것이외다. 아모쪼록 團體的 觀光으로 個人的 觀光을 圖하시기 바라나이다.＜100＞
+＜100＞

@@ -1,0 +1,53 @@
+Magazine Title: 개벽 제71호
+Publication Date: 1926년 07월 01일
+Article Title: 廣告訂正 (Advertisement Correction)
+Author: 개벽사광고부白 (From the Gaebyeok Company Advertising Department)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Advertisement Correction
+						From the Gaebyeok Company Advertising Department
+
+Regarding the congratulations for development published in the May issue (No. 69) of this magazine, the name of Mr. "Pak Kwan-ch'ae" (朴琯釆) of Sambong-dong, Nam-myŏn, Sŏnch'ŏn-gun was mistakenly printed as "Pak Kwan-ch'ae" (朴琯采). We hereby correct this and offer our apologies.
+
+From the Gaebyeok Company Advertising Department <78>
+
+**Summary**
+
+This article is a brief notice from the advertising department of *Gaebyeok* magazine correcting a misprint in a previous issue (No. 69, May 1926). The name of Mr. Pak Kwan-ch'ae from Sŏnch'ŏn-gun was printed with an incorrect Hanja character (采 instead of 釆), and the magazine apologizes for the error. For historians, this notice, though mundane, confirms the publication details of *Gaebyeok*, illustrates standard publishing practices like issuing corrections, and provides a specific name and location (Sŏnch'ŏn-gun) linked to the magazine's readership or contributors in 1926, potentially offering a small data point for social or regional history during the colonial period. The attention paid to correcting even a subtle Hanja difference in a name might also be noted.
+
+**Named Entities**
+
+개벽사광고부	개벽사 광고부	Gaebyeok Company Advertising Department
+宣川郡	선천군	Sŏnch'ŏn-gun
+南面	남면	Nam-myŏn
+三峯洞	삼봉동	Sambong-dong
+朴琯釆	박관채	Pak Kwan-ch'ae
+朴琯采	박관채	Pak Kwan-ch'ae
+
+**Glossary**
+
+廣告	광고	Advertisement
+訂正	정정	Correction
+白	백	From, respectfully stated by (suffix used after name/dept)
+本誌	본지	This magazine
+게재된	게재된	Published, appeared in (Older spelling '게재되얏-')
+발전축하	발전 축하	Congratulations for development
+誤植	오식	Misprint, typographical error
+되얏삽기	되었기에	Because it was (older polite grammatical form for 되었기에/되었으므로)
+玆에	자에	Hereby, herein (Archaic form, Modern: 이에)
+仰謝함니다	앙사합니다	To offer apologies (respectful, older form of 사과드립니다)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제71호
+발행일	1926년 07월 01일
+기사제목	廣告訂正
+필자	개벽사광고부白
+기사형태	사고·편집후기
+
+廣告訂正
+						개벽사광고부白
+本誌 5월호(제69호)에 게재된 발전축하 중 「宣川郡 南面 三峯洞 「朴琯釆」씨는 朴琯釆」로 誤植되얏삽기 玆에 訂正 仰謝함니다.
+개벽사광고부 白 ＜78＞

@@ -1,0 +1,63 @@
+Magazine Title: 개벽
+Publication Date: 1920년 09월 25일
+Article Title: 經理社告 (Accounting Department Notice)
+Author: Not specified (likely 經理部/Accounting Department)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+經理社告
+自 創刊 臨時號 以後로 近萬의 讀者가 每日 增加함은 우리 經理部 一同이 感佩不忘하는 바올시다. 그러나 우리는 近萬의 讀者로만 滿足自止함이 아니요. 進而又進하고 展而又展하야 滿天下 同志로 無一人不覽하시기를 希望하고 理想합니다. 이 希望과 理想을 成就케 하는 것은 오즉 讀者諸位의 愛護가 안이면 可望할 수 업사오니 이러한 哀情을 深諒하시고 10月 中에는 雜誌代金의 未納諸位에게 郵便으로 集金을 開始하겟습니다. 그리 아시요.＜153＞
+
+Accounting Department Notice
+
+Since the inaugural special issue (創刊 臨時號), the fact that nearly ten thousand readers have been increasing daily is something we in the Accounting Department (經理部) all deeply appreciate and will not forget. However, we are not content to stop at nearly ten thousand readers. We hope and aspire to advance further and further (進而又進), expand more and more (展而又展), so that among comrades throughout the world (滿天下 同志), there is not a single person who does not read [our magazine] (無一人不覽). Achieving this hope and aspiration cannot be expected without the patronage (愛護) of you, our readers (讀者諸位). We ask for your deep understanding (深諒) of this earnest sentiment (哀情), and please be advised that during October, we will begin collecting payments by mail (郵便) from those esteemed individuals who have outstanding magazine subscription fees (雜誌代金의 未納諸位). Please be aware of this. <153>
+
+**Summary**
+
+This notice from the *Kaebyŏk* magazine's accounting department thanks the rapidly growing readership (approaching 10,000) since its first special issue. It expresses ambition for nationwide readership ("comrades throughout the world") and states that achieving this depends on reader support. Finally, it informs subscribers with unpaid fees that mail collection will begin in October. From a historical perspective, the notice highlights the significant early success and ambitious reach of *Kaebyŏk*, a major cultural and intellectual magazine during the Japanese colonial period, despite the challenging environment. It also offers a glimpse into the practical business operations, including subscription management and finances, of such a publication.
+
+**Named Entities**
+
+經理部	경리부	Kyŏngnibu
+
+**Glossary**
+
+經理社告	경리사고	Accounting department notice
+創刊	창간	First publication; inauguration (of a magazine)
+臨時號	임시호	Special issue; temporary issue
+讀者	독자	Reader
+增加	증가	Increase; growth
+經理部	경리부	Accounting department
+一同	일동	All members; everyone together
+感佩不忘	감패불망	Deeply grateful and unforgettable
+滿足自止	만족자지	To be satisfied and stop there
+進而又進	진이우진	To advance further and further (Hanja phrase)
+展而又展	전이우전	To expand more and more (Hanja phrase)
+滿天下	만천하	All under heaven; the whole world/country
+同志	동지	Comrade; like-minded person
+無一人不覽	무일인불람	Not a single person who does not read (Hanja phrase)
+希望	희망	Hope; wish
+理想	이상	Ideal
+成就	성취	Achievement; accomplishment
+愛護	애호	Patronage; loving protection; support
+可望	가망	To be expected; prospect; possibility (older usage/Hanja term)
+업사오니	없사오니	As there is not; because there is not (older spelling/form of 없으니/없으므로)
+哀情	애정	Earnest sentiment; deep feeling (often of pleading or sorrow)
+深諒	심량	Deep understanding; thoughtful consideration
+雜誌代金	잡지대금	Magazine price; subscription fee
+未納	미납	Unpaid; outstanding payment
+郵便	우편	Mail; postal service
+集金	집금	Collecting money; payment collection
+開始	개시	Start; beginning; commencement
+하겟습니다	하겠습니다	Will do (older spelling of 하겠습니다)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제4호
+발행일	1920년 09월 25일
+기사제목	經理社告
+기사형태	사고·편집후기
+
+經理社告
+自 創刊 臨時號 以後로 近萬의 讀者가 每日 增加함은 우리 經理部 一同이 感佩不忘하는 바올시다. 그러나 우리는 近萬의 讀者로만 滿足自止함이 아니요. 進而又進하고 展而又展하야 滿天下 同志로 無一人不覽하시기를 希望하고 理想합니다. 이 希望과 理想을 成就케 하는 것은 오즉 讀者諸位의 愛護가 안이면 可望할 수 업사오니 이러한 哀情을 深諒하시고 10月 中에는 雜誌代金의 未納諸位에게 郵便으로 集金을 開始하겟습니다. 그리 아시요.＜153＞

@@ -1,0 +1,71 @@
+**Header Section:**
+Magazine Title: 개벽 第六十八號
+Publication Date: 1926년 04월 01일 (April 1, 1926)
+Article Title: 本誌三月號記事中 (社會運動團體의 現況에 對하야) (Regarding an Article in This Magazine's March Issue (Concerning the Current State of Social Movement Organizations))
+Author: 編者 (Editor)
+Article Type: 소식 (Notice)
+
+**Body Text Translation:**
+Regarding an Article in This Magazine's March Issue
+
+For the March 1st issue of this magazine—a date meaningful to us Korean people—we thought it would be best, above all, to show the historical necessity of the development of the Chosŏn social movement since the Kimyŏn [1919] year, or the current state of that movement. Accordingly, while publishing articles related to this as much as possible, the record titled "Current State of Social Movement Organizations" was also included as one of them. However, unfortunately, due to circumstances related to the editing schedule, that article resulted in incompleteness of content, and consequently, it evoked a sense of being biased towards one side. This was not our intention, and at the same time, we consider this article as unpublished. Following this, we intend to investigate the actual conditions of the social movement both domestically and internationally and announce it appropriately at a suitable time. Therefore, readers, we ask for your particular understanding of this intention. We once again feel regret for causing unintended discord (齟齬). From the Editorial Office, The Editor. <73>
+
+**Summary**
+
+This article is an editorial notice from the magazine *Kaebyŏk* retracting an article titled "Current State of Social Movement Organizations" published in their previous March 1926 issue. The editors apologize, stating that editorial time constraints led to an incomplete and potentially biased piece, which was not their intention. They declare the article effectively unpublished and promise a more thorough report on the social movement situation in Korea and abroad in the future. For historians, this notice is interesting as it highlights the difficulties and sensitivities involved in reporting on Korean social and political movements under Japanese colonial rule. The need to retract an article on such a topic suggests potential external pressure, internal disagreements, or simply the challenges of accurately representing complex and potentially factionalized movements within the constraints of colonial censorship and tight publication deadlines.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+本誌	본지	This magazine
+三月號	삼월호	March issue
+記事	기사	Article
+社會運動團體	사회운동단체	Social movement organization(s)
+現況	현황	Current state/situation
+對하야	대하여	Regarding; Concerning (older form of 대하여)
+意義	의의	Meaning; Significance
+己未	기미	Kimyŏn (1919, year of the March 1st Movement)
+展開	전개	Development; Unfolding
+보히는	보이는	Showing (older spelling of 보이는)
+조켓다	좋겠다	Would be good (older spelling of 좋겠다)
+싯는	싣는	Publishing; Loading (older spelling of 싣는)
+編入	편입	Inclusion; Incorporation
+되엿다	되었다	Became; Resulted in (older spelling of 되었다)
+編輯	편집	Editing
+時日	시일	Time; Days (here, referring to schedule/time constraints)
+關係	관계	Relation; Connection; Circumstance
+不備	불비	Incompleteness; inadequacy
+馴致	순치	To lead to; Result in (less common word)
+偏頗	편파	Bias; Partiality
+가튼 感	같은 감	A feeling like; A sense of
+니르키게	일으키게	To cause; To evoke (older spelling of 일으키게)
+本意	본의	True intention
+아조	아주	Completely; Very (older spelling of 아주)
+돌너고	돌리고	To consider as; To turn back (older spelling of 돌리고)
+니여써	이어서	Following this; Subsequently (older spelling of 이어서)
+國內國外	국내국외	Domestic and international; Inside and outside the country
+實況	실황	Actual conditions; Real situation
+適宜	적의	Suitable; Appropriate
+發表	발표	Announcement; Publication
+讀者讀賢	독자독현	Readers (an honorific way of addressing readers)
+此意	차의	This intention; This meaning
+諒하라	양해하라	Please understand (imperative form, older style)
+齟齬	저어	Discord; Inconsistency; Disagreement
+미안하게	미안하게	Regretfully; Apologetically
+編輯室	편집실	Editorial office
+編者	편집자	Editor
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제68호
+발행일	1926년 04월 01일
+기사제목	本誌三月號記事中 (社會運動團體의 現況에 對하야)
+기사형태	소식
+
+本誌三月號記事中
+우리는 우리 朝鮮사람에게 意義잇는 3월 1일- 그 날로써 발행되는 本誌에 무엇보다도 己未 이후 朝鮮社會運動이 展開된 그 역사적 필연성 또는 그 운동의 現況을 보히는 것이 조켓다 하야 할 수 잇는 대로 그에 관한 글을 싯는 중 「社會運動團體의 現況」이란 記錄이 역시 그 중의 하나로 編入되엿다. 그런데 그 記事가 불행히 編輯時日 관계상 내용의 不備를 馴致하야 그 결과가 스스로 어느 한 편에 偏頗함과 가튼 感을 니르키게 한 것은 우리의 본의가 아닌 동시에 우리는 아조 이 글을 싯지 아니한 것으로 돌러고 니여써 국내국외에 대한 社會運動의 實況을 조사하야 適宜한 기회에 適宜히 발표코저 하나니 讀者讀賢은 특히 此意를 諒하라. 본의 아닌 齟齬를 니르킨 것을 다시금 미안하게 생각하면서 編輯室에서 編者.＜73＞

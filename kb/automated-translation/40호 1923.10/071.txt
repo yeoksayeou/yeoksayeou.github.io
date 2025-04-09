@@ -1,0 +1,52 @@
+Magazine Title: 개벽 제40호
+Publication Date: 1923년 10월 01일
+Article Title: 社告 (Company Announcement)
+Author: 開闢社 編輯局
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+The October issue has been confiscated again. We dislike saying this or that about it. After deleting all of "To Our Japanese Brothers [日本人 諸兄에게]," "Before Us Lie Two Paths [우리의 압헤는 두 갈내의 길이 잇슴니다]," "Escaping Quake-stricken Tokyo [震亂의 東京을 脫出하야]," and a portion of "Japan and the Japanese Amidst the Quake Chaos [震亂 中의 日本 及 日本人]," we are publishing a special issue [臨時號]. We are not without the thought of wanting to insert several new articles, but due to time constraints [日時의 關係], we cannot do that either.
+Kaebyŏk Company Editorial Department [開闢社 編輯局] White<82>
+
+**Summary**
+
+The editorial department of Kaebyŏk magazine announces that their October 1923 issue (No. 40) has been confiscated by authorities. They state their reluctance to elaborate further. Due to the confiscation, they were forced to remove several articles entirely—"To Our Japanese Brothers," "Before Us Lie Two Paths," "Escaping Quake-stricken Tokyo"—and part of another article, "Japan and the Japanese Amidst the Quake Chaos." A special, temporary issue is being published with the remaining content, as time constraints prevent adding new material. This notice highlights the strict censorship faced by Korean publications under Japanese colonial rule, particularly concerning sensitive topics like relations with Japanese people, potential Korean responses to their situation, and critical accounts of Japan, especially in the immediate aftermath of the Great Kantō Earthquake (implied by "Quake-stricken Tokyo" and "Quake Chaos"). Historians would find this interesting as direct evidence of censorship practices, the specific topics deemed dangerous by the colonial government in late 1923, and the publishers' constrained response.
+
+**Named Entities**
+
+日本人	일본인	Japanese people
+東京	도쿄	Tōkyō
+日本	일본	Japan
+開闢社 編輯局	개벽사 편집국	Kaebyŏk Company Editorial Department
+
+**Glossary**
+
+社告	사고	Company Announcement
+押收	압수	Confiscation; Seizure
+되여섯슴니다	되었습니다	Was/became (polite ending; older spelling/form of 되었습니다)
+실슴니다	싫습니다	Dislike; Unpleasant (polite ending; older spelling/form of 싫습니다)
+압헤	앞에	In front of; Before (older spelling/form of 앞에)
+갈내	갈래	Path; Way; Branch (older spelling/form of 갈래)
+잇슴니다	있습니다	There is/are (polite ending; older spelling/form of 있습니다)
+脫出하야	탈출하여	Escaping and... (older spelling/form of 탈출하여)
+震亂	진란	Earthquake chaos; Disturbance caused by earthquake
+削除	삭제	Deletion; Removal; Elimination
+臨時號	임시호	Special issue; Temporary issue (of a publication)
+刊行	간행	Publication; Issuance
+녀혓스면	넣었으면	If (we) had put in/inserted (older spelling/form of 넣었으면)
+日時	일시	Time; Date; Time constraints
+關係	관계	Relation; Connection; Due to
+못함니다	못합니다	Cannot do (polite ending; older spelling/form of 못합니다)
+編輯局	편집국	Editorial department; Editorial bureau
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제40호
+발행일	1923년 10월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+十月號가  押收되여섯슴니다. 이러니져러니 말하기가 실슴니다. 「日本人 諸兄에게」, 「우리의 압헤는 두 갈내의 길이 잇슴니다」, 「震亂의 東京을 脫出하야」 等의 全部와 震亂 中의 日本 及 日本人」中의 一部를 削除하고, 臨時號를 刊行함니다. 새로운 記事를 몃 問題 녀혓스면 하는 생각이 업지 아니하오나, 日時의 關係로 그도 못함니다.
+開闢社 編輯局 白＜82＞

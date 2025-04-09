@@ -1,0 +1,46 @@
+Magazine Title: 개벽 第57호
+Publication Date: 1925년 03월 01일
+Article Title: 正誤 (Errata)
+Author: None specified (Editorial)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Errata
+
+In the list of esteemed contributors (芳名錄) in the literary section (文藝欄) of this magazine's (本誌) February issue, Mr. Chu Yohan's (朱耀翰氏) age, 28, was a misprint (誤植) for 26, and Mr. Chu Yosŏp's (朱耀爕氏) age, 26, was a misprint for 24. Also, we mention that Mr. Ubo Min (**氏) was omitted (漏落) from the same list of esteemed contributors. <62>
+
+**Summary**
+
+This brief editorial notice corrects errors published in the previous month's (February 1925) issue of the magazine *Kaebyŏk*. Specifically, it rectifies the incorrectly printed ages of contributors Chu Yohan and Chu Yosŏp and notes the accidental omission of another contributor, identified as "Ubo Min **ssi**," from the contributors' list. For historians, this small correction provides precise biographical data (ages) for prominent literary figures Chu Yohan and Chu Yosŏp as of early 1925. It also sheds light on the editorial practices of *Kaebyŏk* and mentions another contemporary figure, "Ubo Min **ssi**," potentially aiding in identifying contributors from that era.
+
+**Named Entities**
+
+朱耀翰氏	주요한 씨	Chu Yohan ssi
+朱耀爕氏	주요섭 씨	Chu Yosŏp ssi
+牛步 閔**氏	우보 민모씨	Ubo Min **ssi**
+
+**Glossary**
+
+正誤	정오	Errata, correction of errors
+本誌	본지	This magazine
+文藝欄	문예란	Literary section/column
+寄稿	기고	Contribution (of an article/writing)
+諸氏	제씨	Messrs., various sirs/gentlemen (honorific plural)
+芳名錄	방명록	List of esteemed names (here, list of contributors)
+年齡	연령	Age
+誤植	오식	Misprint, typo
+同	동	Same, the aforementioned
+漏落	누락	Omission, left out
+되얏슴	되었음	Became, was (older spelling/form of 되었음)
+말슴	말씀	Mention, words (older spelling/form of 말씀)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제57호
+발행일	1925년 03월 01일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+2月號의 本誌文藝欄 寄稿諸氏의 芳名錄 中 朱耀翰氏의 年齡 28은 26의 誤植이고 朱耀爕氏의 年齡 26은 24의 誤植이외다. 그리고 同芳名錄 中 牛步 閔**氏가 漏落되얏슴을 말슴해둠니다.＜62＞

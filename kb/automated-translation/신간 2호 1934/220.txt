@@ -1,0 +1,65 @@
+Magazine Title: 개벽 신간 제2호
+Publication Date: 1934년 12월 01일
+Article Title: 스파이 삽화 (Spy Anecdote)
+Author: None specified
+Article Type: 잡저 (Miscellaneous writing)
+
+Spy Anecdote
+
+This is a short story that appeared in some foreign magazine, a tale about Gandhi (깐듸), who clarified [something ****]. The police, calling [something **], employed a native (土人) as a 'spy' and ordered him to investigate where Gandhi's (깐듸) movement funds were coming from.
+
+A few days later, the 'spy' returned with the findings of his investigation, which were as follows:
+'After finishing a speech anywhere, Gandhi (깐듸) calls several women from the crowd he investigated forward [to his front? 압*로]. Wondering what he was doing, I watched closely, and he asked, "You are wearing expensive earrings; why on earth do you go around wearing those?" At this, the women [somehow **], one by one, blushed and turned away to remove them [도라가 바리는데]. Later [나*에], looking into it [일어보닛가], Gandhi (깐듸) uses this as a means of [something **]; he sends the women away behind him and earns money by holding a hidden [가*?] auction (競賣). That's how he creates his movement funds.'
+
+Hearing such [a thing? *은], the police officer was left speechless, his mouth agape. Thus, it was written that because Indian (印度) society is like this, there is still no possibility of revolution. I don't know if this is true, but whatever [何如*] the [case? ****기예], it's such a dumbfounding story that I introduce it here. <84>
+
+**Summary**
+
+This short article recounts an anecdote, allegedly from a foreign magazine, about how Mahatma Gandhi supposedly raised funds for his movement. A police spy reported that Gandhi would publicly question women about their expensive earrings after speeches, shaming them into removing them. He would then allegedly collect these earrings and sell them secretly via auction to fund his activities. The article concludes by citing the source's opinion that such methods indicate Indian society is not yet ready for revolution, while expressing disbelief about the story's veracity. From a historical perspective, the article is interesting as it reflects a cynical or perhaps propagandistic view of Gandhi's movement circulating internationally (and reported in colonial Korea), potentially aiming to undermine his moral authority by portraying his fundraising methods as manipulative and his followers as easily swayed. It also shows Korean periodicals' engagement with international affairs, albeit through second-hand, possibly unreliable accounts.
+
+**Named Entities**
+
+깐듸	깐듸	Kkandyŭ (Gandhi)
+印度	인도	Indo (India)
+
+**Glossary**
+
+낫든	났던	Appeared in, was published in (older spelling of 났던, from 나다)
+究明	구명	Investigation, clarification
+깐듸	깐듸	Gandhi (phonetic transcription)
+土人	토인	Native, indigenous person (potentially derogatory term)
+探偵	탐정	Detective work, investigation; a detective/spy
+끗나면	끝나면	When (it) finishes/ends (older spelling of 끝나면)
+몃사람	몇 사람	A few people (older spelling of 몇 사람)
+압*로	앞으로	Forward, to the front (likely intended word, partially obscured)
+뭇는다	묻는다	Asks (older spelling/form of 묻는다)
+그러닛가	그러니까	Therefore, so, at this (older spelling of 그러니까)
+얼골	얼굴	Face (older spelling of 얼굴)
+도라가 바리는데	돌아가 버리는데	Turn away and discard/remove (combination of 돌다 + 가다 + 버리다 in older spelling/form)
+나*에	나중에	Later (likely intended word, partially obscured)
+일어보닛가	알아보니까	Upon investigating/looking into it (likely intended meaning, possibly combining 알다/일으키다 + 보다 in older spelling/form)
+그럿케	그렇게	Like that, in that way (older spelling of 그렇게)
+競賣	경매	Auction
+갓다	같다	Is like, is as follows (older spelling of 같다)
+담을지	다물지	Close (one's mouth) (older spelling/form of 다물지)
+이닛가	이니까	Because it is (older spelling of 이니까)
+업다고	없다고	That there isn't/aren't (older spelling of 없다고)
+적엇다	적었다	Wrote, recorded (older spelling of 적었다)
+모르겟스나	모르겠으나	Although I don't know (older spelling of 모르겠으나)
+何如*	하여튼	Anyway, whatever the case (likely intended word, Hanja + obscured Hangul)
+氣막히는	기막히는	Dumbfounding, breathtaking, shocking
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제2호
+발행일	1934년 12월 01일
+기사제목	스파이 삽화
+기사형태	잡저
+
+스파이 삽화
+이것은 어느 외국잡지에 낫든 토막이야기인데 ****를 究明한 『깐듸』의 이야기다. **라하며 警察에서 土人하나를 『스파이』로 사용하야 『깐듸』의 운동 자금이 어데서 생기는지 이것을 探偵해오라고 명령하엿다.
+몃칠후 『스파이』씨가 탐정 해가지고 온 이야기는 아래와 갓다.
+『깐듸』는 어떤 곳에서나 연설이 끗나면 富*로 그 探偵한 군중 속에서 몃사람의 여자를 자긔 압*로 부른다. 그래 무엇을 하는가? 하고 자세히 보노란즉 『당신들은 갑빗싼 귀고리들을 하고단이니 대체 무엇 때문에 그것을 뀌고 단이는 것이요』하고 뭇는다. 그러닛가 그 여자들은 **하나둘씩 얼골을 붉히며 도라가 바리는데 나*에 일어보닛가 『깐듸』는 그럿케 하는 것이 **의 수단으로 그 여자들을 뒤로 따돌려가지고 가* 競賣를 하야 돈버리를 한다. 그래서 그 돈으로 自己運動資金을 만든다』
+이같은 *은 警官은 입을 닥 벌린채 담을지를 못하엿다. 이리하야 印度의 社會는 이런 정도이닛가 아즉 革命될 가능성이 업다고 적엇다. 이것이 참말인지는 모르겟스나 何如* ****기예는 너무도 氣막히는 이야기에 여기에 소개한다. ＜84＞

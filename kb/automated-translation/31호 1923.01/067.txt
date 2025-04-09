@@ -1,0 +1,101 @@
+**Header Section**
+Magazine Title: 개벽
+Publication Date: 1923년 01월 01일
+Article Title: 伯林短信 (Letter from Berlin)
+Author: 朴勝喆 (Pak Sŭngch'ŏl)
+Article Type: 잡저 (Miscellaneous Writing)
+
+**Body Text Translation**
+Letter from Berlin
+
+I received your gracious letter (惠函) dated the 15th and learned that you, esteemed elder brother, are well (錦安) and that all friends are also well (一安). As for myself, the feeling of being away from home (客味) remains as before (如前), and recently, due to the drastic fall (暴落) of the German Mark (德貨), things are uneasy left and right (左右가 不安). In May of this year, one British Pound (英貨一磅) was about 1,500 or 1,600 Marks, but since August, it has fallen precipitously (下絶히 落價), reaching 35,000 Marks per British Pound just the other day. One British Pound is roughly 9 Won (圓) 80 Chŏn (錢); what has happened? Are there still people in our home country (本國) wanting to buy German Marks these days? Please give me some advice. Also, regarding the matter you entrusted (付託) to me, the timing is now too late, so I cannot comply (不應). Mr. Yi Kwan'yong (李灌鎔氏) departed on the 4th of this month on his way back home via America (米國). He is the first fruit (果實) of the students studying abroad in Europe (歐洲). That is all.
+
+November 17th
+Your younger brother (弟), Pak Sŭngch'ŏl (朴勝喆), respectfully bows again (再拜)
+
+To Mr. Kim Kich'ŏn (金起遷 大兄)
+c/o Kaebyŏk Publishing Company (開闢社內)
+88 Kyŏngun-dong (慶雲洞八十八番)
+Kyŏngsŏng-bu (京城府), Chosŏn (朝鮮) <80>
+
+**Summary**
+
+This short letter, sent from Berlin by Pak Sŭngch'ŏl to Kim Kich'ŏn at the Kaebyŏk Publishing Company in Seoul, describes the severe hyperinflation of the German Mark in late 1922, with its value plummeting against the British Pound. Pak asks for advice on whether there is still interest in buying Marks back in Korea. He also mentions being unable to fulfill a previous request due to timing and reports that Yi Kwan'yong, heralded as the "first fruit" among Koreans studying in Europe, has begun his journey home via the United States. For historians, the letter provides a valuable first-hand Korean perspective on the economic chaos of Weimar Germany, illustrates the practical concerns (currency exchange) faced by early Korean students abroad, and highlights the nascent trend of Koreans pursuing higher education in Europe during the colonial period, framing Yi Kwan'yong's return as a significant milestone.
+
+**Named Entities**
+
+伯林	베를린	Pŏllim (Berlin)
+德	독	Tŏk (Germany - used in 德貨/German Mark)
+英	영	Yŏng (Britain - used in 英貨/British Pound)
+本國	본국	Pon'guk (Home country, i.e., Korea)
+李灌鎔	이관용	Yi Kwan'yong
+米國	미국	Miguk (America/USA)
+歐洲	유주	Yurŏp'a (Europe)
+朴勝喆	박승철	Pak Sŭngch'ŏl
+朝鮮	조선	Chosŏn (Korea)
+京城府	경성부	Kyŏngsŏng-bu (Seoul City, colonial era name)
+慶雲洞	경운동	Kyŏngun-dong (A neighborhood in Seoul)
+開闢社	개벽사	Kaebyŏk-sa (Kaebyŏk Publishing Company)
+金起遷	김기천	Kim Kich'ŏn
+
+**Glossary**
+
+惠函	혜함	Gracious letter (honorific term)
+바다서	받아서	Having received (Older spelling/form of 받아서)
+兄體	형체	Your body (honorific referring to the recipient, 'you')
+錦安	금안	Being well, in good health (formal/literary)
+諸友	제우	All friends
+一安	일안	All well, everyone fine
+알엇나이다	알았습니다	I learned/found out (Older spelling and polite ending -나이다)
+弟	제	Younger brother (humble term for 'I' when writing to an elder male)
+客味	객미	The feeling/experience of being away from home, sojourning
+如前	여전	As before, unchanged
+하오며	하며	And (Older polite connective form)
+近	근	Near, recent (Used in 近日 - recently)
+德貨	덕화	German currency/Mark
+暴落	폭락	Drastic fall, sharp decline, crash (in value)
+左右	좌우	Left and right; circumstances, situation
+不安	불안	Uneasy, anxious, unstable
+英貨	영화	British currency/Pound
+磅	파운드	Pound (unit of currency)
+馬克	마르크	Mark (German currency unit)
+以來	이래	Since, after
+下絶히	하절히	Extremely, precipitously, drastically (Archaic adverb)
+落價	낙가	Fall in price/value
+지	까지	To, until, up to (Older spelling of 까지)
+되엇나이다	되었습니다	Became, reached (Older spelling and polite ending -나이다)
+圓	원	Won (Korean currency unit)
+錢	전	Chŏn (Korean currency sub-unit, 1/100 Won)
+假量	가량	Approximately, roughly
+어	어찌	How, why (Older spelling of 어찌)
+잇나이	있습니까	Is there? / Are there? (Older spelling and interrogative ending -나이까)
+忠告	충고	Advice, counsel
+付託	부탁	Request, entrustment
+이제	이제	Now
+時期	시기	Time, period, opportunity
+느저서	늦어서	Being late (Older spelling of 늦어서)
+不應	불응	Non-compliance, inability to meet (a request)
+하오며	하며	And (Older polite connective form)
+氏	씨	Mr./Ms. (Suffix)
+歸國	귀국	Returning to one's home country
+途	도	Way, road, journey (used in 途에 登하다 - to set out on a journey)
+登하얏나이다	등했습니다	Boarded, set out on (Older spelling/form of 등했습니다)
+果實	과실	Fruit; result, outcome
+再拜	재배	Bowing twice (sign of respect in letters)
+大兄	대형	Elder brother (polite term of address)
+社內	사내	Care of (company name), within the company
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제31호
+발행일	1923년 01월 01일
+기사제목	伯林短信
+기사형태	잡저
+
+伯林短信
+十五日付惠函은 바다서 伊來에 兄體가 錦安하시고 諸友가 一安한줄알엇나이다 弟는 客味가 如前하오며 近日德貨의 暴落으로 左右가 不安하외다. 今年五月에 英貨一磅에 一千五六百馬克이더니 八月以來下絶히 落價되어 日前지도 英貨一磅에 三萬五千馬克지 되엇나이다. 英貨一磅은 九圓八十錢假量되는데 어되엇습니 近日에도 本國서 德貨願買者가 잇나이 忠告좀하시오. 그러고 吾兄이 付託하신 것은 이제 時期가느저서 不應하오며 李灌鎔氏는 本月四日米國經由歸國의 途에 登하얏나이다. 歐洲留學生의 처음 果實이외다. 이만.
+十一月十七日 弟 朴勝喆 再拜
+朝鮮京城府慶雲洞八十八番開闢社內
+金起遷 大兄＜80＞

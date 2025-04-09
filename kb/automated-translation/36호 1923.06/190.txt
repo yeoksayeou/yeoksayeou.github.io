@@ -1,0 +1,83 @@
+Magazine Title: 개벽 제36호
+Publication Date: 1923년 06월 01일
+Article Title: 士匪問題와 孫文 (The Bandit Problem and Sun Yat-sen)
+Author: Not specified
+Article Type: 소식 (News/Dispatch)
+
+The Bandit Problem and Sun Yat-sen
+
+According to dispatches from Guangdong, due to the recent Lincheng County Bandit Incident (臨城縣 土匪事件), the Beijing Government has increasingly lost credibility, and talk of Sun Yat-sen (孫文) becoming President, centered around Guangdong, is emerging, reportedly with British and American approval as well.
+
+Indeed, the trend of the Chinese populace distrusting the current government, which solely relies on the power of financial cliques (chaebŏl; 財閥) and warlords (kunbŏl; 軍閥), or the magnates associated with it, has been present for some time, and in recent years it was in the process of clearly becoming reality. Thus, due to this incident, the benefits from the Washington Conference (華府會議), which had been touted as a great success for the Beijing Government over the years, have completely come to naught (水疱로 歸하고). Should the power of the Diplomatic Corps (外交團), composed of representatives from various nations, effectively demonstrate a situation of managing China, and the day comes when the credibility and authority (信威) of the current government are utterly defeated (一敗塗地), a major revolutionary movement based on the awakened populace of China might perhaps break out (勃業될지도 모르겟다). Situations can change rapidly if they are to change rapidly, so what will be the outcome of this issue going forward (借向)?<60>
+
+**Summary**
+
+This news article reports on the political fallout in China following the Lincheng Incident of 1923. It notes that the incident severely damaged the credibility of the Beijing government, which was already distrusted for relying on financial and military cliques. Consequently, support for Sun Yat-sen, based in Guangdong, is rising, allegedly even among the British and Americans. The article speculates that the incident nullified gains from the Washington Conference and might lead to foreign powers exerting more control or even provoke a popular revolution if the Beijing government's authority collapses completely. From the perspective of Korean colonial history, this article is interesting as it reflects Korean observation of and potential hope placed in Chinese political instability. The weakening of a major regional power's central government and the possibility of revolution in China could have been seen by Koreans under Japanese rule as potentially influencing their own situation or offering opportunities for Korean independence activists operating in China.
+
+**Named Entities**
+
+臨城縣	임성현	Limsŏnghyŏn (Lincheng County)
+北京政府	북경정부	Pukkyŏng Chŏngbu (Beijing Government)
+廣東	광동	Kwangdong (Guangdong)
+孫文	손문	Son Mun (Sun Yat-sen)
+英米人	영미인	Yŏngmiin (British and Americans)
+中國	중국	Chung'guk (China)
+華府會議	화부회의	Hwapu Hoeŭi (Washington Conference)
+外交團	외교단	Oegyodan (Diplomatic Corps)
+
+**Glossary**
+
+士匪問題	사비문제	The problem of scholar-bandits (or more generally, just 'bandits' in this context)
+來電	내전	Telegram; dispatch (from)
+今回	금회	This time; the recent instance (Older form of 금번)
+土匪事件	토비사건	Bandit incident
+인하야	인하여	Due to; because of (Older spelling/form of 인하여)
+益益	익익	More and more; increasingly
+失信케 된 바	실신케 된 바	Having lost trust/credibility
+大統領說	대통령설	Talk/theory/advocacy of someone becoming President
+대두되며	대두되며	Emerging; coming to the fore
+此에	차에	To this; regarding this (Older form, now 이(것)에)
+盖	개	Generally speaking; indeed (Used as an introductory particle, similar to 대개)
+민중	민중	The populace; the masses
+재벌	재벌	Financial clique; conglomerate (Used here for powerful economic groups)
+군벌	군벌	Warlord; military clique
+근거로 한	근거로 한	Based on; founded upon
+現政府	현정부	The current government
+巨頭輩	거두배	Magnates; bigwigs; leading figures (輩 adds a sense of 'group' or 'ilk')
+신임치 아니하는 것	신임치 아니하는 것	The act of not trusting (Older negative form, 치 is an old emphatic particle often used with 않다)
+近年	근년	Recent years
+사실화하려는 중인즉	사실화하려는 중인즉	Being in the process of becoming reality
+今番	금번	This time (Another form for 'this instance')
+年來	연래	For years; over the years
+華府會議	화부회의	Washington Conference (華府 is an older name for Washington D.C.)
+利得	이득	Benefit; profit; gain
+完然히	완연히	Completely; entirely; perfectly (Archaic adverb)
+水疱로 歸하고	수포로 귀하고	To come to naught; return to bubbles (idiomatic expression for becoming futile)
+列國	열국	Various nations; the Powers
+成한	성한	Composed of; formed by (Older form of 이룬 or 구성된)
+外交團	외교단	Diplomatic Corps
+事實上으로	사실상으로	In effect; virtually; de facto
+管理할 形勢	관리할 형세	A situation/outlook of managing/controlling
+示하야	시하여	Showing; demonstrating (Older form of 시사하여 or 보여)
+信威	신위	Credibility and authority/prestige
+一敗塗地하는	일패도지하는	Being utterly defeated; suffering a crushing defeat (Idiomatic expression)
+자각잇는	자각있는	Awakened; self-aware (잇는 is an older spelling of 있는)
+勃業될지도	발업될지도	Might break out; might arise suddenly (勃業 is an uncommon term, likely meaning sudden rise/outbreak)
+모르겟다	모르겠다	Do not know; perhaps (Slightly older spelling/form)
+局面	국면	Situation; phase; aspect
+急轉되려면	급전되려면	If it is to change rapidly
+借向	차향	Henceforth; going forward; direction (Less common term)
+何如	하여	How will it be?; What will become of it? (Classical Chinese interrogative)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제36호
+발행일	1923년 06월 01일
+기사제목	士匪問題와 孫文
+기사형태	소식
+
+士匪問題와 孫文
+廣東來電에 의하면 今回 臨城縣의 土匪事件으로 인하야 北京政府는 益益 失信케 된 바 廣東을 중심으로 한 孫文大統領說이 대두되며 英米人도 역시 此에 찬성한다고 전한다.
+盖 中國의 민중이 재벌 군벌의 세력을 유일의 근거로 한 現政府 또는 그에 관련한 巨頭輩를 신임치 아니하는 것은 언제부터의 경향으로서 近年에 와서는 그것이 확실히 사실화하려는 중인즉 今番의 사건으로 인하야 北京政府의 年來의 대성공이라 하던 華府會議의 利得이 完然히 水疱로 歸하고 其 中 列國의 대표자로 成한 外交團의 세력이 사실상으로 中國을 管理할 형세를 示하야 現政府의 信威가 一敗塗地하는 그날에는 中國의 자각잇는 민중을 기초로 한 一大 혁명운동이 勃業될지도 모르겟다. 局面은 急轉되려면 急轉도 되는 것이라 借向이 문제의 結局이 何如.＜60＞

@@ -1,0 +1,390 @@
+**Header Section:**
+Magazine Title: 개벽 신간 제4호
+Publication Date: 1935년 03월 01일
+Article Title: 朝鮮新聞 發達史 (History of the Development of Korean Newspapers)
+Author: 車相瓚
+Article Type: 논설 (Editorial/Article)
+
+**Body Text Translation:**
+History of the Development of Korean Newspapers
+						Cha Sang-ch’an
+I. The Origin of Korean Newspapers
+To speak of the origin of Korean newspapers, it is first necessary to briefly mention the origin of world newspapers. In the West, what could be called the ancestor of newspapers was the official gazette called *Acta Senatus* and *Acta Diurna Populi Romani*, established by Rome's famous hero Caesar during his first consulship (around 60 BC). Both primarily reported brief records of the Senate meetings and decisions at that time, articles from the popular assemblies, and other public matters. The method of announcing the content of this official gazette was by writing characters on a board coated with plaster (石膏) and publicly displaying it to the general citizenry, similar to today's bulletin boards. Furthermore, for provincial residents, numerous scribes would copy this by hand and send it to those who requested it.
+
+Western newspaper historians call this Roman official gazette the ancestor of world newspapers, but among East Asian countries, particularly China, a primitive official gazette called *Ch'unch'iu* (春秋, Spring and Autumn Annals) was published about 500-600 years earlier than the two types of Roman official gazettes mentioned above, so it could be said this was the first official gazette. Later, during the time of Emperor Xuanzong of Tang (唐 玄宗) (about 800 years after the Roman official gazette era), there was also the famous *Dibao* (邸報). This *Dibao* was published from the residences of the 16 military governors (節度使) in the Tang capital Chang'an (長安) at the time, reporting to their respective jurisdictions. Its content included imperial court activities, edicts, memorials to the throne (章奏), appointments and dismissals of officials, audiences, rewards and condolences, court meetings (廟堂會議), and other private communications. It is of the same nature but different name as the *Gongmenchao* (宮門抄) of the Ming (明) dynasty and the *Jingbao* (京報) of the Qing (淸) dynasty. However, the so-called modern newspaper format was first realized with the *Baihua Aiguobao* (白話愛國報), published immediately after the so-called Boxer Rebellion (義和團事件) that occurred in the 26th year of Guangxu (光緖) (1900 AD). This is the ancestor of Chinese newspapers. Next was the *Jinghua Ribao* (京話日報), founded in the 30th year of Guangxu (1904 AD), and <2> next was the *Beijing Ribao* (北京日報), founded in the 35th year (1909 AD). Among the various newspapers, this *Beijing Ribao* had relatively complete content and format.
+
+After the historically famous Rome collapsed and the barbarian Germanic tribes (게루만) came to dominate all of Europe, the brilliant ancient culture was utterly destroyed. As the new barbarian culture had not yet developed, forming the so-called Dark Ages, the general level of culture and social systems could not even dream of things like newspaper publication. It was only in the 12th to 13th centuries that the sending of reports (報告) and letters (信書) began, limited to monasteries, universities, and other clergy. By the 14th-15th centuries, communication institutions similar to postal services emerged for the exchange of letters related to commerce and city official positions, and the term "newspaper" (新聞紙) also appeared around this time. That is, in major commercial cities and transportation hubs, various reports coming from different regions were collected, organized, and sent to various areas as letters or appendices. This was the so-called *Zeitung* (쓰아이쓴구) or *Neue Zeitung* (노이에쓰아이쓴구). The content of these letter-newspapers was mainly political reports, and the material for the articles was generally gathered from oral or written reports from acquaintances, traveling merchants, soldiers on campaign, foreigners traveling abroad, students studying abroad, messengers dispatched from courts, secretaries of nobles, and others. However, the so-called newspaper began to be managed commercially, like the modern style, starting in 1566 AD in Venice, Italy (伊太利), with the launch of the *Notizie scritte* (노데잇이에, 스쿠릿데). The term "gazette" (카제트), commonly used as one of the names for newspapers, is said to have originated from the small coin "gazetta" (카제트) used at the time as payment for a copy of that newspaper. At that time, Venice was the intermediary for East-West traffic and the seat of government that controlled diplomatic communications and political reporting, where important news from all over the world gathered. Thus, the emergence of this commercial newspaper was inevitable or natural.
+
+Regarding the origin of daily newspapers, there are various theories, but the generally accepted one is the *Leipziger Zeitung* (라이푸지가, 쓰아이쓴구) founded in Germany (獨逸) in 1660. Next is the *Daily Courant* (데이리, 구-란드) founded in England (英國) in 1702, and the *Journal de Paris* (쥬-나-루, 도, 파러) published in France (佛國) in 1777. In America (米國), the *Pennsylvania Packet, and Daily Advertiser* (펜실바니아, 빠겟트, 앤드, 데이리 아드바-라이싸) was published in 1784. Japan (日本) followed much later, in December of the 3rd year of Meiji (庚午, 7th year of King Ch'ŏlchong's reign), with the *Yokohama Mainichi Shimbun* (橫濱每日新聞) published as the first daily newspaper.
+
+As mentioned above, if the official gazette is considered the ancestor of newspapers, then in our Korea (朝鮮), the so-called *Kibyŏlji* (기별紙), a type of official gazette, would be the ancestor of newspapers. Among the common people, things like popular tales (野談) and unofficial histories (野史) can also be seen as a kind of newspaper. However, concerning the year it began, detailed records have not yet been found. According to the History of Silla (新羅史), in the 12th year of King Sinmun (神文王), Imjin (壬辰) (682 AD = 1253 years ago), Sŏl Ch'ong (薛聰) created the Idu (이두) script and used it for official documents (官府文札). Thus, we can sufficiently guess that something like the *Kibyŏlji* was already in practice from that time. Also, around the 11th year of King Sŏnjo (宣祖) (1578), unemployed relatives of bureaucratic factions <3> published something called the *Chobo* (朝報) to make a living, but this incurred King Sŏnjo's wrath, leading to its prohibition and their exile. The *Annals of King Sŏnjo* (宣祖實錄) state: "Idle fellows (遊手輩), having obtained permission from the State Council (政府), printed and distributed the *Chobo*, selling it for their livelihood. After several months, the King became enraged and exiled them." Although there are no documents today to ascertain the content of that *Chobo*, it is a fact that it was a type of official gazette, in other words, a type of newspaper.
+
+II. The Founding Era of Korean Newspapers (Around 1883-1888)
+However, the newspaper that emerged with the form of a so-called modern newspaper was the *Hansŏng Sunbo* (漢城旬報), founded in August of the 20th year of King Kojong (李太王), Kyemi (癸未) (1883 AD - 52 years ago). At that time in Korea, following the Imo Incident (壬午軍亂) of the previous year, troops of the Qing general Wu Changqing (吳長慶) came and stationed, and the power of the pro-China faction (事大黨) in the political world grew stronger. However, the latent power of the Enlightenment Party (開化黨) that arose as a reaction was also not insignificant, exerting pressure both overtly and covertly on the Korean enlightenment movement. Even the stubbornly conservative government of that time realized it could not block the trend of new foreign ideologies and changed the existing system somewhat, newly establishing the General Office for Negotiation and Trade Affairs (總理交涉通商衙門) and founding the Machinery Bureau (機器局), the Mint Bureau (典圜局), and the Bureau of Culture and Information (博文局). Through the recommendation of Min Yŏng-ik (閔泳翊), Inoue Kakugorō (井上角五郞) was hired as a consultant (촉탁) (some say it was by the recommendation of Kim Yun-sik (金允植) and Pak Yŏng-hyo (朴泳孝), but actually Min recommended him to Kim). The *Hansŏng Sunbo* was published as a project of the Pagmun'guk. (Newspaper editing was by Kang Wi (姜瑋) (pen name Ch'ugŭm 秋琴), Pak Yŏng-sŏn (朴永善), etc.) The location of the Pagmun'guk was at the site of the current dormitory attached to the Kyŏngun-dong (慶雲洞) Girls' High School Normal School. The newspaper, as its name suggests, was published every ten days (旬刊). Its format used purely Korean paper (朝鮮紙) and old-style cast type (鑄字), with a purely classical Chinese (漢文) writing style, giving the impression at first glance of an ancient literary collection. Regarding the content of the articles, it included court records (宮廷錄事), movements of domestic and foreign officials, diplomatic treaties, and besides that, city exploration reports (市區探報) (equivalent to today's economic section), articles on various organizations (political section), and miscellaneous news (聞) (so-called page 3 articles). A passage from its founding statement, the *Sunbo Preface* (旬報序), reads: "Now the climate is gradually opening up, wisdom and skill grow daily, steamships speed around the globe, telegraph lines connect the four lands, the court opens bureaus and establishes offices, widely translates foreign reports, and also records domestic affairs, promulgating them within the country..." Looking at phrases like this, one can sufficiently guess the nature of the article content and writing style at that time.
+Although the *Hansŏng Sunbo* was nominally a newspaper, its proprietors were all government-related figures, its readers were limited to government officials, and its content mostly concerned government affairs, so it did not exceed the scope of a kind of official gazette. Then, three years after its founding, in January 1886 (23rd year of King Kojong, Pyŏngsul 丙戌), the *Sunbo* (ten-day report) was changed to a *Chubo* (週報, weekly report), the writing style used a mix of vernacular script (正音, i.e., Han'gŭl) and classical Chinese (at the initiative of Kim Yun-sik and Inoue Kakugorō), the content's scope was somewhat broadened, and readership was also permitted to the general public. Compared to the previous *Sunbo*, it was relatively more popular, and it was the first newspaper to use a mixed script of Han'gŭl and Hanja.
+
+III. The Era of American-Influenced Newspapers (1896-1898) (*Tongnip Sinmun*, *Kyŏngsŏng Sinmun*, *Maeil Sinmun*)
+
+However, in October of Kapsin (甲申, 1884), the year after this newspaper was founded, the reform movement of Kim Ok-kyun's (金玉均) faction failed, and the figures of the Enlightenment Party all fled into hiding or exile. <4> As Japan's influence over Korea diminished and Qing China's influence grew stronger, the pro-China faction, i.e., the conservative party (守舊黨), became even more rampant. The so-called institutions of new civilization established earlier were swept away without a trace. By 1888, the 25th year of King Kojong (Musul 戊子), even the Pagmun'guk was abolished, and the *Chubo* also met the fate of discontinuation. From then until the time of the Sino-Japanese War (甲午 日淸戰爭), for about 6 or 7 years, not even a shadow of a Korean newspaper could be seen.
+Then, in the year Ŭlmi (乙未) (April 17, Meiji 28), the Treaty of Shimonoseki (馬關條約) between Japan and Qing was concluded, *Korea's independence was proclaimed to the world*, and the following year, Pyŏngsin (丙申), the era name was changed to Kŏnyang (建陽), the order for topknot cutting (삭발) and other new systems were promulgated. The charges against Sŏ Chae-p'il (徐載弼), who had defected to America (米國) during the Kapsin Coup (甲申政變), were cleared (蕩斥), and he was made an advisor (고문) to the government. Immediately after returning to Korea, he advocated the principles of liberalism, independence, and populism learned over many years in America. He expanded and reorganized the Kŏnyang Association (建陽協會) (initially located in Kye-dong 桂洞), a quasi-political party organized previously by Yi Sang-jae (李商在), Namgung Ŏk (南宮檍), Yu Maeng (劉猛), and other emerging figures under the banner of "Protecting Civil Rights and Promoting Political Improvement," establishing the Independence Club (獨立協會), Korea's first private political party. On April 7th of the same year, he published a newspaper as the organ of that association; this was the famous *Tongnip Sinmun* (獨立新聞, The Independent). This newspaper was the first private newspaper. Although its format was merely 4 pages of medium size, flatbed printed (평판 중형 4頁), and published every other day until Yun Ch'i-ho (尹致昊) succeeded Sŏ a year later as editor-in-chief, its content, featuring passionate arguments advocating civil rights ideology and the ideas of independence and freedom, was unparalleled by any subsequent newspaper. However, the following year, Chŏngyu (丁酉), 1897, the Russian minister (露國公使) who arrived, Speyer (스페에르?), secretly negotiated with the Korean government to lease Masan Port (馬山港) as a naval base for his country. This plan was preemptively exposed in the newspaper's pages, and the Independence Club strongly opposed it, causing the Russian minister's plot to fail. <5> Due to this incident, the Russian minister's insidious maneuvers extended even to Sŏ's country of naturalization, America, forcing him to resign his advisory position and return to America after only a year. The newspaper was then published daily with the American Mr. Appenzeller (아펜설라씨) as publisher and Yun Ch'i-ho as editor-in-chief. However, on November 27, 1898 (Musul 戊戌), key figures of the Independence Club were imprisoned due to the schemes of the Hwan'guk Association (皇國協會) and the government's disfavor. Simultaneously, the Club was ordered to dissolve, and consequently, the newspaper could no longer be published. (The activities of the Independence Club are omitted here as they are too lengthy.)
+Around the same time as the *Tongnip Sinmun*, the *Kyŏngsŏng Sinmun* (京城新聞) and *Maeil Sinmun* (每日新聞) (these are, of course, different from the Kyŏngsŏng and Maeil newspapers of today) were born. The former was founded on March 8, 1898 (Kwangmu 光武 2, Musul 戊戌) by the brothers Yun Ch'i-so (尹致昭), cousins of Yun Ch'i-ho who was knowledgeable about America, with a small capital of less than 100 won; the size of its page was barely larger than the palm of a hand. The latter was founded about several months after the aforementioned *Kyŏngsŏng Sinmun* by Yang Hong-muk (梁弘黙) of Paejae Haktang (培材學堂), which was run by an American mission (米團人). To sum up, the characteristics of the three newspapers of this time were that they were all purely in Korean script (朝鮮文), their lineage was American, they had a strong Christian flavor in addition to politics, and they advocated the abolition of class distinctions, the emancipation of slaves, freedom, and equality.
+
+IV. The Era of Coexistence of *Hwangsŏng* and *Cheguk* Newspapers
+The approximately 8 years from the discontinuation of the *Tongnip Sinmun* until the time of the Ŭlsa Protectorate Treaty (乙巳保護條約) (1905) can be called the era of coexistence of the *Hwangsŏng* (皇城) and *Cheguk* (帝國) newspapers.
+The *Hwangsŏng Sinmun* = In September of Kwangmu 2, Musul (1898), Namgung Ŏk (南宮檍), Na Su-yŏn (羅壽淵), and several others among the members of the Independence Club took over the *Kyŏngsŏng Sinmun* previously managed by Yun Ch'i-so and changed its name to *Hwangsŏng Sinmun*. Funding was through shares (股金制). Its initial location was set at Chwasunyŏng (左巡營) (Hwangt'ohyŏn 黃土峴 Memorial Pavilion site = current Kwanghwamun-tong 光化門通), later moved behind Paengmokchŏn (白木廛) in Chongno (鍾路) (current site behind Ch'oe Sang-in's 崔相仁 shop). It changed from weekly to daily publication. The format was like the *Tongnip Sinmun*, medium size, 4 pages, 8 columns, flatbed printing. Its writing style used a mix of Korean and Chinese script (朝漢文 交用). Its editorial stance was largely the same as the *Tongnip Sinmun*, always criticizing and attacking the government of the time with indignant and lamenting editorials (비분강개), and promoting ideas like people's freedom, equality, and xenophobia (배타사상). Successive presidents included Namgung Ŏk, Chang Chi-yŏn (張志淵), Namgung Hun (南宮薰), Kim Sang-ch'ŏn (金相天), and Yu Kŭn (柳槿). Notable editorial writers over time included Chang Chi-yŏn, Yu Kŭn, Sin Ch'ae-ho (申采浩), and Pak Ŭn-sik (朴殷植). At the time of the Protectorate Treaty on November 17, 1905, the two editorials "Today, We Weep Loudly" (是日夜放聲大哭) and "Throwing Down the Brush, Crying Out Loud" (擲筆大呼) were famous essays that stirred the passionate blood of the general populace at the time and are still talked about by everyone. <6> Due to this writing (筆禍), the author suffered the humiliation of imprisonment (縷絏), and the newspaper was ordered to suspend publication. After two months, the ban was lifted, and publication continued until it met the unfortunate fate of closure at the time of the annexation in the Kyŏngsul (庚戌) year (1910).
+The *Cheguk Sinmun* = This was founded on August 8th of the same year the *Hwangsŏng Sinmun* was launched, when Yi Chong-il (李鍾一), Sim Sang-ik (沈相翊), Yŏm Sin-mo (廉伸模), Chang Hyo-gŭn (張孝根), etc., took over the *Maeil Sinmun* previously managed by Yang Hong-muk and renamed it *Cheguk Sinmun*. Its location was in Hanyang-dong (漢陽洞) (now Tonŭi-dong 敦義洞). Its writing style was purely Korean script. In contrast to the *Hwangsŏng Sinmun*, which targeted the upper class readers, a distinctive feature of the *Cheguk Sinmun* was that it targeted the middle and lower classes and women. However, its editorial stance was largely the same as the *Hwangsŏng*. One year, during the Emperor's Birthday celebrations (萬壽聖節 - King Kojong's Birthday), when writing the congratulatory message, the character 'man' (萬) in 'manse' (萬歲, long live) was mistakenly typeset as 'mang' (亡, ruin) due to a proofreading error. This became an issue even within the palace, and the president Yi Chong-il was temporarily detained for lèse-majesté (不敬罪). This incident remains a story told in these circles to this day.
+Due to financial difficulties, this newspaper temporarily suspended publication on September 21, 1907 (Chŏngmi 丁未). On October 3 of the same year, Chŏng Un-bok (鄭雲復) became president, and publication resumed, only to meet the fate of closure like other newspapers at the time of the Kyŏngsul Annexation.
+
+V. The Golden Age and the Dark Age
+After the Ŭlsa Protectorate Treaty, Korean assembly and speech faced countless restrictions. However, the veteran politician, the new Resident-General Itō Hirobumi (伊藤博文), employed his usual cunning high-level policy to appease public sentiment both domestically and internationally. Also, to consult public opinion himself, he permitted freedom of speech to some extent. Thus, the approximately 6 years from the Ŭlsa year (1905) to the Kyŏngsul Annexation (1910) can be called the golden age since the birth of newspapers in Korea. Introducing the important Korean-language newspapers of that time, besides the aforementioned *Hwangsŏng* and *Cheguk* newspapers, there were the *Taehan Maeil Sinbo* (大韓每日申報), *Mansebo* (萬歲報), *Taehan Minbo* (大韓民報), and also the Ilchinhoe's (一進會) organ, the *Kungmin Sinbo* (國民新報), among others.
+*Taehan Maeil Sinbo* = Founded on August 11, 1905, with Yang Ki-t'ak (梁起鐸) as editor-in-chief and the Englishman Ernest T. Bethell (裵說) as founder. Bethell, relying on the privilege of being subject to British consular jurisdiction (영사재판), advocated extreme anti-Japanese views, greatly winning the favor of the general Korean populace at the time. Consequently, its circulation was the highest among all papers. In the summer of Kwangmu 11 (1907), it published the famous Hague Secret Emissary Affair (海牙 밀사사건), startling observers both at home and abroad. Due to this incident, Bethell even received a criminal sentence of 3 months imprisonment, something everyone still remembers. In 1909, the Englishman Alfred W. Marnham (萬咸) succeeded Bethell and continued publication. Later, it was changed again to be under the name of Yi Chang-hun (李章薰). <7> At the time of the annexation, the Residency-General (統監府) purchased it, made it its official organ, and changed the name to *Maeil Sinbo* (每日申報). This is the *Maeil Sinbo* of today.
+*Mansebo* = This newspaper was published by the Ch'ŏndogyo (天道敎) religion in June of Kwangmu 9 (1905). Its location was (now Asahi-machi 1-chōme 旭町 1丁目). The president was O Se-ch'ang (吳世昌), and the editor-in-chief was Yi In-jik (李人稙). They were all figures of the new generation. Especially Mr. Yi, having stayed in Tokyo (東京) for many years, had considerable knowledge about newspapers. He completely revamped the format and content compared to existing Korean newspapers, changing the traditional 8 columns to 10 for the first time, using ruby-type (루비식 활자) characters—a first in Korea—and serializing new novels (신소설) like *Kwiŭi Sŏng* (鬼의 聲, Voice of the Demon) and *Hyŏllu* (血淚, Tears of Blood) for the first time. The author, Kukch'o (菊初) Yi In-jik, was the pioneer of Korean new novel writers, and that newspaper was a revolution in the Korean newspaper world. However, due to financial difficulties, three years later, in the autumn of the Chŏngmi year (丁未), it was transferred to become the organ of Yi Wan-yong's (李完用) cabinet, and the title was changed to *Taehan Sinmun* (大韓新聞). It continued publication until it was also closed down at the time of annexation.
+*Taehan Minbo* = This newspaper was founded on July 8, 1909 (Yunghŭi 隆熙 3, Kiyu 己酉) as the organ of the Taehan Association (大韓協會), the last political party in Korea, which emerged through the planning of Ch'ŏndogyo to counter the Ilchinhoe of Yi Yong-gu (李容九) and Song Pyŏng-jun (宋秉畯) and the Kuksi Yusŏldan (國是遊說團, National Policy Persuasion Group) of Chŏng Ŭng-sŏl (鄭應卨) and Ko Hŭi-jun (高羲駿). It became a sister paper to the *Hwangsŏng* and *Cheguk* newspapers, different in name but similar in argument (異名同論), featuring strong editorials that encouraged public sentiment and criticized/attacked the government, thus receiving a warm welcome from the public. The satirical cartoons (풍자만화) by Kwanjae (貫齋) Yi To-yŏng (李道榮) were the first to be published in a Korean newspaper and attracted much interest from many people.
+Its office location was Susong-dong (壽松洞) (current site of Chongno 鍾路 Elementary School). The president was O Se-ch'ang, who also served as the president of the Taehan Association. It was also closed down at the time of annexation.
+Besides these, Japanese-language newspapers (和文新聞) included Kikuchi Kenjō's (?) *Hansŏng Sinbo* (漢城新報, Keijō Shinpō), Hagiya Kazuō's (?) *Taehan Ilbo* (大韓日報, Daikan Nippō?), Arō Jūrō's (?) *Taedong Sinbo* (大東新報, Daitō Shinpō?), the *Chosŏn Sinmun* (朝鮮新聞, Chōsen Shimbun?) in Inch'ŏn (仁川), and branches of the *Hōchi* (報知), *Jiji* (時事), *Kokumin* (國民), *Yorozu Chōhō* (萬朝), *Ōsaka Asahi* (大朝?), *Ōsaka Mainichi* (大每?) were established. For a time, Kyŏngsŏng (京城, Seoul) had almost as many newspaper signboards as private school signboards.
+And at that time, there was another Korean newspaper that received treatment similar to Min Wŏn-sik's (閔元植) *Sisa Sinmun* (時事新聞) after Ŭlmi (1895); that was the so-called *Kungmin Sinbo*, the organ of the Ilchinhoe. Its location was Mi-dong (美洞) (now Kogane-chō 黃金町). The editor-in-chief was Maeha (梅下) Ch'oe Yŏng-nyŏn (崔永年). Its publication of the annexation petition (합방건백서) on its pages and its grandiloquent editorials are still vivid in our memory. Conducting reader polls (紙上 투표모집) was also first done by this paper.
+Then, on August 29, Kyŏngsul (1910), the Japan-Korea Annexation occurred, and Governor-General Terauchi (寺內總督), a representative figure of arbitrary military rule (무단무치), came to rule Korea. The Korean press was ruthlessly obliterated under his sword. Except for the so-called government mouthpiece *Maeil Sinbo* (每申), all Korean-language newspapers failed to preserve even their remaining lives. The roughly 10 years from then until the Kimi year (己未年, 1919) can be called the dark age of the Korean newspaper world.
+
+VI. The Era of the Three Newspapers' Tripod Standing
+Then, on March 1, Kimi year (1919), the sound of "Manse!" erupted. Governor-General Hasegawa (長谷川總督) packed his bags and went across to Tokyo, and Governor-General Saitō (齋藤總督) succeeded him. Upon arriving, he proclaimed the implementation of cultural administration (문화정치) in Korea <8> and simultaneously allowed some freedom of speech, permitting several newspapers and magazines. Among newspapers, the *Tong-a Ilbo* (東亞日報), *Chosŏn Ilbo* (朝鮮日報), and the Kungmin Hyŏphoe's (國民協會) organ *Sisa Sinmun* emerged. Among magazines, *Kaebyŏk* (開闢) was representative. Below is a brief description:
+*Tong-a Ilbo* = The *Tong-a Ilbo* was founded on April 1, Taishō (大正) 9 (1920), centered around Pak Yŏng-hyo (朴泳孝), the company's first president, and shareholder representatives Kim Sŏng-su (金性洙), Yu Kŭn (柳槿), Yi Sang-hyŏp (李相協), Chang Tŏk-chun (張德俊), etc. At that time, nationalist ideology was at its peak. Appearing before the world with the three principles: "1. We profess to be the organ of expression for the Korean populace. 2. We support democracy. 3. We advocate culturalism," the *Tong-a Ilbo* of that time cost 60 chŏn (錢) per month, was flatbed printed, and had only 4 pages. From the first issue, due to financial deficits and frequent suspensions of sale (발매금지), the newspaper management suffered huge blows. To overcome this difficult situation, in July of the same year, they bought a rotary press (윤전기) and raised the price to 80 chŏn. Towards the end of the publication period, due to an article by Kwŏn Tŏk-kyu (權悳奎) titled "A Blow Upon the Head of the Pretended Clarifier" (假明人頭上에 一棒), which incurred the antipathy of Confucian scholars (儒林), Pak Yŏng-hyo had to leave the president's chair. On September 25th of the same year, with an editorial "Three Kinds of Sacred Treasures" (三種의 神器) as the immediate cause and Pak Yŏng-hyo's resignation as the remote cause, it faced its first suspension (정간) for allegedly seditious articles. 170 days later, on January 10th of the following year, the suspension was lifted (解停).
+Publication resumed on February 21, Taishō 10 (1921). In September of the same year, the Tong-a Ilbo Co., Ltd. (주식회사 東亞日報) was established with a nominal capital of 700,000 won, and simultaneously Song Chin-u (宋鎭禹) assumed the presidency. In May of Taishō 13 (1924), Yi Sŭng-hun (李昇薰) assumed the presidency. In October of the same year, Yi Sŭng-hun resigned, and Kim Sŏng-su assumed the presidency. In Taishō 14 (1925), a folding rotary press (절첩식 윤전기) was added, and on August 1st of the same year, the page count was expanded to 6 pages, and the price was increased to 1 won. However, <9> on March 5, Taishō 15 (1926), the publication of a congratulatory message sent from the International Peasants' Council (國際農民組合?) to the Korean nation became the reason for a second suspension order from March 5th to April 19th. On December 11th of the same year, it moved to the current office building on Kwanghwamun-tong (光化門通). On September 20, Shōwa (昭和) 4 (1929), the page count was again expanded to 8 pages, celebrating its 10th anniversary. Then on April 16, Shōwa 5 (1930), it faced a third suspension, which was lifted on August 31st. From Shōwa 8 (1933), the page count was expanded to 10 pages, reaching the present day.
+*Chosŏn Ilbo* = The *Chosŏn Ilbo* was founded on March 6, Taishō 9 (1920) as the organ of the Taishō Chinmokhoe (大正親睦會, Taishō Friendship Society?), centered around Cho Chin-t'ae (趙鎭泰), Song Pyŏng-jun (宋秉畯), Ye Chong-sŏk (芮宗錫), Ch'oe Kang (崔崗), etc. The paper initially came out as the organ of the Taishō Chinmokhoe, billing itself as a business newspaper (실업신문). However, because its editorial tone was always deemed subversive (不穩), it suffered many confiscations (압수). In October of the same year, due to an article titled "Star-Hatted Thief" (星帽賊), it faced its first suspension. Publication resumed immediately after one month. However, due to financial difficulties, in Taishō 12 (1923), it passed from the Taishō Chinmokhoe into the personal hands of Song Pyŏng-jun. The office moved from Sankaku-chō (?) (三角町) to Sup'yo-chō (?) (水標町). The successor president to Cho Chin-t'ae, Yu Mun-hwan (劉文煥), resigned, and Mr. Song became president directly. Later, Namgung Hun (南宮薰) became president. In Taishō 13 (1924), the faction of Sin Sŏk-u (申錫雨) and Ch'oe Sŏn-ik (崔善益) bought it from Mr. Song, made the venerable Yi Sang-jae (李商在) president, simultaneously carried out a major renovation of the paper's content, and marched forward with the slogan "The Newspaper of the Korean Populace" (朝鮮民衆의 新聞) as its goal. Around Taishō 14 (1925), the *Chosŏn Ilbo* developed a strong socialist color, showing momentum that temporarily overwhelmed the *Tong-a Ilbo*, which was branded as nationalist. In September of Taishō 14, due to an editorial titled "Soviet Russia and Korea's Political Relationship" (勞農露國과 朝鮮의 政治的 關係), it faced its second suspension. The author, Mr. Sin Il-yong (辛日鎔), went into hiding, the publisher received a prison sentence (體刑), and the rotary press was confiscated. 40 days after the suspension, all red (socialist) reporters were dismissed, and the ban was lifted in October. In July of Taishō 15 (1926), it moved to a newly built office in Kyŏnji-dong (堅志洞). In February of Shōwa 2 (1927), President Yi Sang-jae passed away, and Sin Sŏk-u took his place as president. On May 9, Shōwa 3 (1928), due to an editorial titled "Observe the Jinan Dispatch from the Sidelines" (濟南出兵壁上觀), it faced its third suspension. After 133 days, on September 19th, the ban was lifted, and publication resumed. In March of Shōwa 6 (1931), due to financial difficulties, Mr. Sin Sŏk-u resigned, and An Chae-hong (安在鴻) assumed the presidency. However, still plagued by ongoing financial trouble, on March 3, Shōwa 7 (1932), President An Chae-hong and Business Manager Yi Sŭng-bok (李昇馥) were imprisoned over an issue concerning the expenditure of relief funds (救濟金 消費問題 事件), and Yu Chin-t'ae (兪鎭泰) newly assumed the presidency. On May 28th of the same year, due to financial difficulties, the publishing rights went to Im Kyŏng-nae (林景來). The existing employees staged a strike (스트라익), asserting that Im's character disqualified him from managing the *Chosŏn Ilbo*. Therefore, Im, holding the publishing rights, moved to Meiji-chō 2-chōme (明治町 2丁目) and published a 4-page newspaper, but was inevitably forced to suspend publication on July 29th of the same year. <10>
+On November 21st of the same year, Cho Man-sik (曺晩植), Chu Yo-han (朱耀翰), Cho Pyŏng-ok (趙炳玉), etc., took it over and resumed publication from the Kyŏnji-dong office. Due to a dispute over publishing rights, Im Kyŏng-nae's faction caused trouble, leading to a temporary suspension. On March 23, Shōwa 8 (1933), Cho Man-sik became president, and Pang Ŭng-mo (方應模) became publisher, resuming publication from Yŏn'gŏn-dong (蓮建洞). On June 23rd of the same year, a joint-stock company with 300,000 Won (paid in lump sum) was organized. On July 18th of the same year, Cho Man-sik resigned the presidency, and Pang Ŭng-mo assumed the presidency. On August 28th of the same year, the page count was expanded to 10 pages, while capital was increased by 200,000 won, and a new office building is under construction in Taihei-dōri 1-chōme (太平通 1丁目). And this year, it boasts and promotes from the start of the new year that it purchased the first company airplane in the Korean newspaper world.
+*Chosŏn Chungang Ilbo* = To talk about the current *Chosŏn Chungang Ilbo* (朝鮮中央日報), one must first trace back from the era of its predecessor's predecessor, the *Sidae Ilbo* (時代日報). The *Sidae Ilbo* was the successor to the weekly magazine *Tongmyŏng* (東明) (founded Sept. Taishō 11 - closed June 3, Taishō 12), edited by Ch'oe Nam-sŏn (崔南善), and was published in Taishō 12 (1923). Due to financial difficulties, amidst great turmoil, it was handed over to the Poch'ŏn'gyo (普天敎) faction. Then, in June of Taishō 14 (1925), Hong Myŏng-hŭi (洪明憙) became president, and the lineup was rearranged again. However, this too eventually closed its doors due to financial difficulties.
+*Chungoe Ilbo* (中外日報). Just before the publishing rights of the *Sidae Ilbo* were revoked, on September 18, Taishō 14 (1925), Yi Sang-hyŏp (李相協) took over from the *Sidae Ilbo*, changed the title, and obtained publishing permission; this was the *Chungoe Ilbo*. On November 15, Taishō 15 (1926), the company's structure was changed to a joint-stock company, and the first issue was published. At that time, the price was 60 chŏn, and it aimed for a great leap as the "Best and Cheapest" (最良最廉) newspaper, but this too fell into severe difficulties due to financial hardship. In December of Shōwa 3 (1928), it suffered an indefinite suspension, which was lifted in mid-February of the following year.
+In September of Shōwa 4 (1929), publication continued centered around President An Hŭi-je (安熙濟) and Yi U-sik (李祐植). <11> Simultaneously, the page count was expanded to 8 pages, surpassing *Tong-a* and *Chosŏn*. After that, again due to financial difficulties, it finally applied for suspension on October 15, Shōwa 5 (1930), and had no choice but to continue the suspension until February 10th of the following year. Afterwards, the *Chungoe Ilbo* continued publication through the active efforts of Kim Hyŏng-wŏn (金炯元) and one or two other reporters, but finally met the unfortunate fate of dissolution on September 2nd.
+After the *Chungoe Ilbo* dissolved, No Chŏng-il (盧正一) and Kim Ch'an-sŏng (金贊成) obtained publishing permission again and simultaneously changed the title to *Chungang Ilbo* (中央日報). However, this too, due to financial difficulties and internal disunity, suspended publication on May 25, Shōwa 7 (1932). Later, Ch'oe Sŏn-ik (崔善益) and Yun Hŭi-jung (尹希重) took it over and resumed publication again from October 31st of the same year. In February of Shōwa 8 (1933), Yŏ Un-hyŏng (呂運亨) assumed the presidency. In March of the same year, the title was changed to *Chosŏn Chungang Ilbo*. In July of the same year, the page count, which had been 4 pages, was expanded to 6 pages. In July of Shōwa 9 (1934), it became a joint-stock company with 300,000 won capital. From the 16th of the same month, it expanded to 8 pages with morning and evening editions (조 석간), and raised the price to 80 chŏn, continuing to the present day.
+(End) <12>
+
+**Summary**
+
+This 1935 article by Cha Sang-ch’an traces the history of Korean newspapers, beginning with ancient precursors like the Silla *Kibyŏlji* and Chosŏn *Chobo*. It details the first modern newspaper, the government-run *Hansŏng Sunbo* (1883), its transition to the mixed-script *Hansŏng Chubo*, the emergence of private, US-influenced papers like the *Tongnip Sinmun* (1896) promoting enlightenment ideals, and the subsequent era dominated by the *Hwangsŏng Sinmun* and *Cheguk Sinmun*. The period after the 1905 Protectorate Treaty is described as a 'golden age' with papers like the *Taehan Maeil Sinbo* (notable for using British extraterritoriality for anti-Japanese content) and *Mansebo* (pioneering new formats and serialized fiction), followed by a 'dark age' of suppression after the 1910 annexation. The final section covers the post-1919 'Cultural Rule' period, focusing on the establishment and turbulent histories (including suspensions, ownership changes, financial struggles, and political shifts) of the three major newspapers of the time: *Tong-a Ilbo*, *Chosŏn Ilbo*, and the lineage leading to *Chosŏn Chungang Ilbo* (via *Sidae Ilbo* and *Chungoe Ilbo*).
+
+For historians, the article provides a valuable contemporary perspective on the development of the Korean press under Japanese rule. It highlights the direct link between political events (Imo Incident, Kapsin Coup, treaties, annexation, March 1st Movement) and the fortunes of newspapers. The explicit discussion of foreign influence (Chinese, Roman, American, British, Japanese), censorship (suspensions, confiscations), financial instability, evolving journalistic practices (script use, layout, content like fiction and cartoons), and the political alignments of various newspapers offers rich detail on colonial media dynamics and the struggle for expression. The chronicle of the frequent ownership changes and ideological shifts within the major dailies of the 1920s and 30s is particularly revealing about the pressures faced by the Korean press.
+
+**Named Entities**
+
+씨사	씨사	Caesar
+羅馬	로마	Rome
+中國	중국	China
+唐 玄宗	당 현종	Tang Xuanzong
+長安	장안	Chang'an
+明	명	Ming Dynasty
+淸	청	Qing Dynasty
+光緖	광서	Guangxu Emperor
+義和團事件	의화단사건	Boxer Rebellion
+北京	북경	Beijing
+歐羅巴	구라파	Europe
+게루만	게르만	Germanic peoples
+伊太利	이태리	Italy
+베니스	베니스	Venice
+獨逸	독일	Germany
+英國	영국	United Kingdom
+佛國	불국	France
+米國	미국	United States
+日本	일본	Japan
+橫濱	횡빈	Yokohama
+朝鮮	조선	Korea
+新羅	신라	Silla
+神文王	신문왕	King Sinmun
+薛聰	설총	Sŏl Ch'ong
+宣祖	선조	King Sŏnjo
+李太王	이태왕	King Kojong/Emperor Kwangmu
+吳長慶	오장경	Wu Changqing
+事大黨	사대당	Sadaedang (Pro-China Faction)
+開化黨	개화당	Kaehwadang (Enlightenment Party)
+閔泳翊	민영익	Min Yŏng-ik
+井上角五郞	정상각오랑	Inoue Kakugorō
+金允植	김윤식	Kim Yun-sik
+朴泳孝	박영효	Pak Yŏng-hyo
+博文局	박문국	Pagmun'guk (Bureau of Culture and Information)
+姜瑋(秋琴)	강위(추금)	Kang Wi (Ch'ugŭm)
+朴永善	박영선	Pak Yŏng-sŏn
+慶雲洞	경운동	Kyŏngun-dong
+甲申	갑신	Kapsin Year (1884)
+金玉均	김옥균	Kim Ok-kyun
+乙未年	을미년	Ŭlmi Year (1895)
+馬關條約	마관조약	Treaty of Shimonoseki
+建陽	건양	Kŏnyang Era
+徐載弼	서재필	Sŏ Chae-p'il
+李商在	이상재	Yi Sang-jae
+南宮檍	남궁억	Namgung Ŏk
+劉猛	유맹	Yu Maeng
+建陽協會	건양협회	Kŏnyang Hyŏphoe
+桂洞	계동	Kye-dong
+獨立協會	독립협회	Tongnip Hyŏphoe (Independence Club)
+尹致昊	윤치호	Yun Ch'i-ho
+丁酉	정유	Chŏngyu Year (1897)
+露國公使	노국공사	Russian Minister
+스페에르	스페에르	Speyer (?)
+馬山港	마산항	Masan Port
+아펜설라	아펜설라	Appenzeller (?)
+戊戌	무술	Musul Year (1898)
+皇國協會	황국협회	Hwan'guk Hyŏphoe
+尹致昭	윤치소	Yun Ch'i-so
+培材學堂	배재학당	Paejae Haktang
+梁弘黙	양홍묵	Yang Hong-muk
+皇城新聞	황성신문	Hwangsŏng Sinmun
+帝國新聞	제국신문	Cheguk Sinmun
+羅壽淵	나수연	Na Su-yŏn
+左巡營	좌순영	Chwasunyŏng
+黃土峴	황토현	Hwangt'ohyŏn
+光化門通	광화문통	Kwanghwamun-tong
+鍾路	종로	Chongno
+白木廛	백목전	Paengmokchŏn
+崔相仁	최상인	Ch'oe Sang-in
+張志淵	장지연	Chang Chi-yŏn
+南宮薰	남궁훈	Namgung Hun
+金相天	김상천	Kim Sang-ch'ŏn
+柳槿	유근	Yu Kŭn
+申采浩	신채호	Sin Ch'ae-ho
+朴殷植	박은식	Pak Ŭn-sik
+李鍾一	이종일	Yi Chong-il
+沈相翊	심상익	Sim Sang-ik
+廉伸模	염신모	Yŏm Sin-mo
+張孝根	장효근	Chang Hyo-gŭn
+漢陽洞	한양동	Hanyang-dong
+敦義洞	돈의동	Tonŭi-dong
+萬壽聖節	만수성절	Mansusŏngjŏl (Emperor's Birthday)
+丁未	정미	Chŏngmi Year (1907)
+鄭雲復	정운복	Chŏng Un-bok
+乙巳保護條約	을사보호조약	Ŭlsa Protectorate Treaty (1905)
+伊藤博文	이등박문	Itō Hirobumi
+庚戌合倂	경술합병	Kyŏngsul Hapbyŏng (Annexation of 1910)
+大韓每日申報	대한매일신보	Taehan Maeil Sinbo
+萬歲報	만세보	Mansebo
+大韓民報	대한민보	Taehan Minbo
+一進會	일진회	Ilchinhoe
+國民新報	국민신보	Kungmin Sinbo
+梁起鐸	양기탁	Yang Ki-t'ak
+裵說	배설	Ernest T. Bethell
+海牙	해아	The Hague
+萬咸	만함	Alfred W. Marnham
+李章薰	이장훈	Yi Chang-hun
+統監府	통감부	Residency-General
+每日申報	매일신보	Maeil Sinbo
+天道敎	천도교	Ch'ŏndogyo
+旭町 1丁目	욱정 1정목	Asahi-machi 1-chōme
+吳世昌	오세창	O Se-ch'ang
+李人稙	이인직	Yi In-jik
+菊初	국초	Kukch'o (Yi In-jik's pen name)
+李完用	이완용	Yi Wan-yong
+大韓新聞	대한신문	Taehan Sinmun
+李容九	이용구	Yi Yong-gu
+宋秉畯	송병준	Song Pyŏng-jun
+鄭應卨	정응설	Chŏng Ŭng-sŏl
+高羲駿	고희준	Ko Hŭi-jun
+國是遊說團	국시유설단	Kuksi Yusŏldan
+大韓協會	대한협회	Taehan Hyŏphoe
+隆熙	융희	Yunghŭi Era
+己酉	기유	Kiyu Year (1909)
+貫齋 李道榮	관재 이도영	Kwanjae Yi To-yŏng
+壽松洞	수송동	Susong-dong
+鍾路 소학교	종로 소학교	Chongno Elementary School
+菊池謙謙	국지겸겸	Kikuchi Kenjō (?)
+漢城新報	한성신보	Hansŏng Sinbo (Keijō Shinpō)
+萩谷籌夫	추곡주부	Hagiya Kazuō (?)
+大韓日報	대한일보	Taehan Ilbo (Daikan Nippō?)
+蟻生十郞	의생십랑	Arō Jūrō (?)
+大東新報	대동신보	Taedong Sinbo (Daitō Shinpō?)
+仁川	인천	Inch'ŏn
+朝鮮新聞	조선신문	Chosŏn Sinmun (Chōsen Shimbun?)
+報知	보지	Hōchi Shimbun (?)
+時事	시사	Jiji Shimpō (?)
+國民	국민	Kokumin Shimbun (?)
+萬朝	만조	Yorozu Chōhō (?)
+大朝	대조	Dai-Asahi (?)
+大每	대매	Ōsaka Mainichi (?)
+閔元植	민원식	Min Wŏn-sik
+時事新聞	시사신문	Sisa Sinmun
+美洞	미동	Mi-dong
+黃金町	황금정	Kogane-chō
+梅下 崔永年	매하 최영년	Maeha Ch'oe Yŏng-nyŏn
+寺內總督	사내총독	Governor-General Terauchi
+己未年	기미년	Kimi Year (1919)
+長谷川總督	장곡천총독	Governor-General Hasegawa
+東京	동경	Tokyo
+齋藤總督	재등총독	Governor-General Saitō
+東亞日報	동아일보	Tong-a Ilbo
+朝鮮日報	조선일보	Chosŏn Ilbo
+國民協會	국민협회	Kungmin Hyŏphoe
+開闢	개벽	Kaebyŏk (magazine name, excluded from list as per instructions, but listed here for context)
+大正	대정	Taishō Era
+朴泳孝	박영효	Pak Yŏng-hyo
+金性洙	김성수	Kim Sŏng-su
+柳槿	유근	Yu Kŭn
+李相協	이상협	Yi Sang-hyŏp
+張德俊	장덕준	Chang Tŏk-chun
+權悳奎	권덕규	Kwŏn Tŏk-kyu
+儒林	유림	Yurim (Confucian scholars)
+宋鎭禹	송진우	Song Chin-u
+李昇薰	이승훈	Yi Sŭng-hun
+昭和	소화	Shōwa Era
+國際農民組合	국제농민조합	International Peasants' Council (?)
+光化門通	광화문통	Kwanghwamun-tong
+大正親睦會	대정친목회	Taishō Chinmokhoe (Taishō Friendship Society?)
+趙鎭泰	조진태	Cho Chin-t'ae
+芮宗錫	예종석	Ye Chong-sŏk
+崔崗	최강	Ch'oe Kang
+星帽賊	성모적	Sŏngmojaek (Star-hatted thief?)
+三角町	삼각정	Sankaku-chō (?)
+水標町	수표정	Sup'yo-chō (?)
+劉文煥	유문환	Yu Mun-hwan
+南宮薰	남궁훈	Namgung Hun
+申錫雨	신석우	Sin Sŏk-u
+崔善益	최선익	Ch'oe Sŏn-ik
+李商在	이상재	Yi Sang-jae
+辛日鎔	신일용	Sin Il-yong
+堅志洞	견지동	Kyŏnji-dong
+濟南出兵	제남출병	Jinan Incident (?)
+安在鴻	안재홍	An Chae-hong
+李昇馥	이승복	Yi Sŭng-bok
+兪鎭泰	유진태	Yu Chin-t'ae
+林景來	임경래	Im Kyŏng-nae
+明治町 2丁目	명치정 2정목	Meiji-chō 2-chōme
+曺晩植	조만식	Cho Man-sik
+朱耀翰	주요한	Chu Yo-han
+趙炳玉	조병옥	Cho Pyŏng-ok
+方應模	방응모	Pang Ŭng-mo
+蓮建洞	연건동	Yŏn'gŏn-dong
+太平通 1丁目	태평통 1정목	Taihei-dōri 1-chōme
+朝鮮中央日報	조선중앙일보	Chosŏn Chungang Ilbo
+時代日報	시대일보	Sidae Ilbo
+崔南善	최남선	Ch'oe Nam-sŏn
+東明	동명	Tongmyŏng (magazine name)
+普天敎	보천교	Poch'ŏn'gyo
+洪明憙	홍명희	Hong Myŏng-hŭi
+中外日報	중외일보	Chungoe Ilbo
+李相協	이상협	Yi Sang-hyŏp
+安熙濟	안희제	An Hŭi-je
+李祐植	이우식	Yi U-sik
+金炯元	김형원	Kim Hyŏng-wŏn
+盧正一	노정일	No Chŏng-il
+金贊成	김찬성	Kim Ch'an-sŏng
+中央日報	중앙일보	Chungang Ilbo
+尹希重	윤희중	Yun Hŭi-jung
+呂運亨	여운형	Yŏ Un-hyŏng
+
+**Glossary**
+
+官報	관보	Official gazette
+石膏	석고	Plaster, gypsum
+필사	필사	Hand-copying, transcription
+邸報	저보	Dibao (Tang dynasty official report)
+章奏	장주	Memorials to the throne
+廟堂	묘당	Royal court, government council
+白話愛國報	백화애국보	Baihua Aiguobao (newspaper name)
+京話日報	경화일보	Jinghua Ribao (newspaper name)
+北京日報	북경일보	Beijing Ribao (newspaper name)
+信書	신서	Letter, correspondence
+쓰아이쓴구	차이퉁	Zeitung (German for newspaper, transliterated)
+카제트	가제트	Gazette (transliterated) / Gazetta (Italian coin)
+기별紙	기별지	Kibyŏlji (Chosŏn dynasty news bulletin, older term)
+野談	야담	Popular tales, anecdotes
+野史	야사	Unofficial history
+이두(音두)	이두	Idu script (archaic writing system using Hanja phonetically/semantically for Korean)
+朝報	조보	Chobo (Chosŏn dynasty government bulletin/newsletter)
+觸怒	촉노	To incur anger/wrath
+旬刊	순간	Published every ten days
+鑄字	주자	Cast metal type
+正音	정음	Vernacular script (here refers to Han'gŭl)
+삭발	삭발	Hair cutting (specifically, cutting off the traditional topknot)
+蕩斥	탕척	To clear charges, exonerate
+고문	고문	Advisor
+민권사상	민권사상	Civil rights ideology/thought
+皇國協會	황국협회	Hwan'guk Hyŏphoe (organization name)
+股金制	고금제	Share-based funding system
+白木廛	백목전	Marketplace for white cotton cloth
+朝漢文 交用	조한문 교용	Mixed use of Korean (Han'gŭl) and Hanja script
+비분강개	비분강개	Indignation and lamentation
+배타사상	배타사상	Exclusionist/xenophobic thought
+縷絏	누설	Imprisonment, being bound (archaic/literary term)
+萬壽聖節	만수성절	The Emperor's/King's birthday celebration
+교정	교정	Proofreading
+保護條約	보호조약	Protectorate Treaty (specifically the 1905 treaty)
+통감	통감	Resident-General (Japanese official overseeing Korea 1906-1910)
+영사재판	영사재판	Consular jurisdiction/trial
+海牙 밀사사건	해아 밀사사건	Hague Secret Emissary Affair
+루비식 활자	루비식 활자	Ruby type (small phonetic gloss characters, often furigana in Japanese context, adopted here)
+신소설	신소설	"New novel" genre in early 20th C. Korea
+國是遊說團	국시유설단	Kuksi Yusŏldan (organization name)
+貫齋	관재	Kwanjae (pen name of Yi To-yŏng)
+풍자만화	풍자만화	Satirical cartoon
+和文新聞	화문신문	Japanese-language newspaper
+합방건백서	합방건백서	Annexation petition/proposal
+紙上 투표모집	지상 투표모집	Poll conducted via newspaper pages
+무단무치	무단무치	Arbitrary military rule (lit. 'military stage, no governance')
+어용지	어용지	Government-patronized newspaper, mouthpiece
+문화정치	문화정치	"Cultural Rule" (policy shift by Saitō administration after 1919)
+강령	강령	Manifesto, platform principles
+정간	정간	Suspension of publication (by authorities)
+윤전기	윤전기	Rotary printing press
+절첩식 윤전기	절첩식 윤전기	Folding rotary press
+압수	압수	Confiscation, seizure
+적색 기자	적색 기자	"Red" reporter (i.e., socialist/communist leaning)
+속간	속간	Resumption of publication
+普天敎	보천교	Poch'ŏn'gyo (a religious group)
+最良最廉	최량최렴	Best and cheapest
+스트라익	스트라이크	Strike (labor action, transliterated)
+조 석간	조석간	Morning and evening editions
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	朝鮮新聞 發達史
+필자	車相瓚
+기사형태	논설
+
+朝鮮新聞 發達史
+						車相瓚
+一. 朝鮮新聞의 起源
+朝鮮新聞의 기원을 말하자면 먼저 세계신문의 기원을 잠간 말할 필요가 있다. 서양에 잇서 신문의 원조라 할만한 것은 羅馬의 유명한 英傑 『씨사』가 제1집정관시대에 창설한 『아구타, 쎄나토우스』와 『아구타, 데웰나, 포푸리, 로마니』라 칭하든 官報니 (서기 전 60년경) 兩者는 주로 그때 원로원의 회의 及 其 결정에 관한 간단한 기록과 국민의회의 기사 及 기타 공공적 기사를 보도하였었다. 그 官報의 내용을 발표하는 방법은 石膏를 塗한 板上에 문자를 써서 일반시민에게 공시하였으니 즉 금일의 게시와 비슷하였고 旦 지방주민을 위하야는 다수의 서기로 此를 필사하야 요구자에게 발송하얏섯다.
+서양의 신문 史家들은 이 羅馬의 官報로써 세계신문의 원조라 칭하나 동양 諸國 중 특히 中國에서는 『春秋』라 칭하는 원시적 官報가 상술한 羅馬의 2종 官報보다 약 5,600년을 훨신 압서서 발행되였은 즉 官報로는 이것이 최초의 것이라 하겟다. 그 후 唐 玄宗때 (羅馬 官報時代보다 약 800년 후)에 이르러 또 저명한 邸報가 있었으니 이 邸報는 당시 唐의 國都 長安에 잇는 16절도사의 사저에서 발행하야 각기 소관 지방으로 통보하는 것으로서 그 내용은 황실의 동정, 조칙, 章奏, 관리의 서임, 사령, 朝謁, 賞恤, 廟堂의 회의 及 기타 私事통신 등을 기재하였으니 明代의 『宮門抄』, 淸代의 京報와 同質異名의 것이다. 그러나 소위 근대의 신문형식을 具한 신문은 光緖 26년(서기 1900년)에 이러난 소위 義和團事件 직후에 발행한 白話愛國報니 此는 中國新聞의 원조요 其次는 光緖 30년(서기 1904년)에 창간된 京話日報, 又＜2＞ 其次는 同 35년(서기 1909년)에 창간된 北京日報니 이 北京日報는 諸 신문 중 내용과 체재가 비교적 완비하엿섯다.
+歐羅巴는 저 역사상 유명한 羅馬가 멸망하고 게루만의 蠻族이 全 歐洲를 지배하게된 뒤로 그 찬란한 녯 문화가 여지없이 파멸되고 蠻族 新문화가 아즉 발전이 되지안어 소위 암흑시대를 형성하였을 때에는 일반문화의 정도라든지 사회의 제도가 도저히 신문의 발행가튼 것은 꿈도 뀌지 못하다가 제12세기 내지 13세기에 이르러 겨우 사원, 대학, 기타 승려간에 한하야 보고 及 信書 송달이 개시되였고 제14세기-15세기에 이르러서는 상업 及 도시 관직에 관한 信書 교통을 위하야 우편과 유사한 통신기관이 생기고 신문지라는 말도 이때에 비로소 생기였다. 즉 大상업도시 교통 중심점이 되는 지방에서는 각지로부터 오는 여러 보고를 수집 편성하야 서신 또는 부록으로 此를 각 방면에 송달하였으니 此가 즉 소위 『쓰아이쓴구』 또는 『노이에쓰아이쓴구』라 하는 것이였다. 此 서간 신문지의 내용은 주로 정치적 보도이였고 그 기사의 재료는 대개 親知人의 구두 또는 편지의 보도 외에 행상인, 출정군인, 漫遊外人, 유학생, 기타 궁정에서 파견한 使者, 귀족의 서기 등에게서 채취하였섯다. 그러나 소위 신문지가 근대식과 같이 영리적으로 경영하게 되기는 서기 1566년에 伊太利의 『베니스에서 창간된 『노데잇이에, 스쿠릿데』가 효시니 신문 명칭의 한아로 일반이 사용하는 소위 『카제트』라 하는 것은 당시 그 신문의 일부의 대가로 사용하든 小화폐 『카제트』에서 생긴 말이라 한다. 당시 『베니스』는 동서교통의 매개자요 또는 근래 외교통신 及 정치적 통보 사무를 장악한 정부의 소재지로서 세계 각국으로부터 오는 중요한 소식이 모도 이곳에 집적되였은 즉 이 영리적 신문의 발생은 필연 또는 당연의 일이라 할 것이다.
+그리고 일간신문의 창시에 관하야는 諸說이 구구하나 일반으로 인정하는 것은 1660년에 獨逸에서 창간된 『라이푸지가, 쓰아이쓴구』요 其次는 1702년에 英國에서 창간된 『데이리, 구-란드』와 1777년에 佛國에서 발행한 『쥬-나-루, 도, 파러』요 米國에는 1784년에 『펜실바니아, 빠겟트, 앤드, 데이리 아드바-라이싸』가 발행되고 日本은 그보다 훨신 후 明治 3년 12월(哲宗 7년 庚午)에 橫濱每日新聞이 최초 일간신문으로 발행되였다한다.
+
+상술함과 같이 官報를 신문의 원조라 할 것 같으면 우리 朝鮮에 잇서서는 官報의 일종인 소위 『기별』紙가 신문의 원조라 하겟고 민간에 잇서서는 야담, 야사 가튼 것도 또한 일종의 신문으로 볼 수 잇다. 然而 그 시초된 년대에 잇서서는 아즉 상세한 기록을 발견치 못하얏으나 新羅史에 의하면 神文王 12년 壬辰(서기 682 = 距今 1253년 전)에 薛聰이 이두(音두)문을 지여서 官府文札에 사용하였다 하였은즉 그때부터 기별紙 가튼 것이 벌서 시행되였던 것을 족히 짐작하겟고 또 宣祖 11년(1578)경에는 관료파 족친의 無職人들이＜3＞ 소위 朝報라는 것을 발행하야 자생하다가 宣祖에게 觸怒되야 금지 유형된 事가 잇섯다.- 宣祖實錄에 云하되 遊手輩, 得政府許, 印行朝報, 賣以資生, 行之數月, 上震怒流之- 그때 그 朝報의 내용이 어떠하엿던 것은 지금에 足徵할 문헌이 없으나 역시 官報의 일종, 다시 말하면 신문의 일종이였던 것은 사실이다.
+
+二. 朝鮮新聞의 創設時代(1883년-1888년 경)
+그러나 소위 근대식의 신문이 형체를 가추어 가지고 나온 신문은 李太王 20년 癸未(서기 1883- 距今 52년전) 8월에 창간된 漢城旬報니 당시 朝鮮은 그 전 해 壬午軍亂 직후에 淸將 吳長慶의 군대가 와서 주둔하며 정계에는 事大黨의 세력이 더욱 강대하게 되였으나 그 반동으로 이러난 開化黨의 잠세력도 또한 적지 안어 음적 양적으로 朝鮮 개화운동에 주력하니 아모리 頑迷한 그 당시의 정부라„ 또한 외래 신사조의 대세를 막을 수 없음을 깨닷고 재래제도를 다소 변경하야 총리교섭통상아문을 신설하고 機器局 典圜局(造幣局) 博文局을 설립하며 閔泳翊의 추천으로 井上角五郞을 촉탁으로 雇聘하고 (혹은 金允植, 朴泳孝의 추천이라 하나 실은 閔이 金에게 薦한 것이다.) 博文局 사업으로 漢城旬報를 발행하게 되였다. (신문 편집은 姜瑋(秋琴) 朴永善 등) 博文局의 위치는 지금 慶雲洞 女高附屬 師範寄宿舍 址에 있엇고 신문은 그 명칭과 같이 旬刊이며 그 양식은 순 朝鮮紙에 구식 鑄字를 그대로 쓰고 문체도 순 漢文이어서 일견하면 고대 문집과 비슷한 감이 있었다. 기사의 내용에 있어서는 宮廷錄事, 내외 관리의 이동, 외교 조약, 其外 市區探報(지금으로 치면 경제면 기사) 각 단체기사(정치면) 잡기 聞(소위 3면 기사) 등이엿으니 그 창간사라 할만한 『旬報序』의 1절에- 今風氣漸闢, 智巧日長, 輪船馳駛環瀛, 電線聯絡四土, 朝廷開局設官, 廣譯外報, 幷載內事, 頒示國中... 』 운운의 문구가 잇는 것을 보면 그 당시 기사 내용의 如何와 문체 如何를 족히 짐작할 것이다.
+이 漢城旬報는 명색 신문이나 그 주재자가 모도 관변 인물이요 독자도 官公吏에 한하고 내용도 대개가 관변의 일이엿기 때문에 일종 官報의 영역을 넘지 못하다가 창간 후 3년 즉 1886년(李太王 23년 丙戌) 1월에 旬報를 週報로 변하며 문체도 正音과 漢文 혼체를 쓰고 (金允植과 井上角五郞의 발의) 내용도 범위를 다소 넓히며 독자도 또한 일반에 許하였으니 전날 旬報보다는 비교적 대중적이요 신문으로서 正漢文 交用의 신문체를 쓰기도 이것이 효시엿다.
+
+三. 米國系 新聞時代(1896년-1898년) 『獨立新聞, 京城新聞, 每日新聞』
+
+그러나 이 신문이 창간되던 익년 甲申 10월에 金玉均 일파의 개혁운동이 실패되야 開化黨 인물이 모도 逃竄亡命하고＜4＞ 日本의 對 朝鮮세력이 감축되며 淸國세력이 일층 강대하야 짐을 따러서 事大黨 즉 守舊黨이 猶益跋扈하게되니 전일에 시설하엿던 소위 新문명의 기관은 一掃無餘하게되야 1888년 즉 李太王 25년(戊子)에 至하야는 博文局까지 폐지하고 그 週報도 또한 폐간의 운명을 당하니 그때로붙어 甲午 日淸戰爭 시기까지 약 6,7년동안은 朝鮮의 신문은 그 影字도 볼 수 없게 되였다.
+그러다가 乙未年(明治 28년 4월 17일)에 日淸 馬關條約이 성립되며 *朝鮮의 독립을 세계에 선포하고 그 익년 丙申에는 연호를 建陽이라 하고 삭발의 令과 기타 신제도를 발포하며 往者 甲申政變때 米國으로 망명한 徐載弼의 죄를 蕩斥하고 정부의 고문을 삼으니 그는 귀국하는 직후 다년간 米國에서 訓習한 자유독립주의와 평민주의를 고창하야 그 전날에 李商在, 南宮檍, 劉猛, 기타 신진인물로 『民權擁護와 政治改善의 促進』이란 표방 하에 조직되엿던 유사 정당의 建陽協會(此 會의 위치는 처음에 桂洞에 있었다)를 확장개변하야 朝鮮 최초의 민간 정당인獨立協會를 창립하고 동년 4월 7일에 그 會의 기관지로 신문을 발행하였으니 此가 즉 유명한 獨立新聞이다. 이 신문은 최초의 민간신문으로 그 체재는 비록 평판 중형 4頁에 불과하고 1년 후 徐씨의 後를 繼하야 尹致昊씨가 주간하기 전까지는 격일 간행한 대 불과 하였으나 그 내용에 잇서서 민권사상의 고취와 독립자유의 사상을 주장한 격론열說은 그 뒤 어떠한 신문에서던지 其比를 見치 못할만 하엿다. 그러나 그 익년 丁酉 즉 1897년에 露國公使로 온 『스페에르』가 朝鮮政府와 비밀교섭하야 馬山港을 自國 해군의 근거지로 조차하랴던 계획을 그 지상에 미리 폭로하고 獨立協會에서 그것을 극력 반대하야 露使의 음모가 실패된＜5＞ 관계로 露使의 음흉한 책동은 徐씨의 입적국인 米國에까지 교섭하야 그로 하야금 고문의 職을 辭하고 1년만에 부득이 渡米하게되니 그 신문은 다시 米人 아펜설라씨를 발행인, 尹致昊씨를 주필하야 일간으로 발행하다가 1898년 즉 戊戌 11월 27일에 獨立協會의 주요 인물이 皇國協會의 책동과 정부의 미움을 바더 入獄되는 동시 會는 해산의 명을 당하고 따러서 신문도 또 발행치 못하게 되엿다. (獨立協會의 활약하는 사실은 너무 장황하기에 此에 약함)
+이 獨立新聞과 시대를 가티하야 京城 及 每日 兩 신문 (지금 京城, 每日 신문은 물론 딴것이다)이 탄생하였으니 전자는 米國通인 尹致昊씨의 從弟 尹致昭형제의 경영으르 100원 미만의 소자본을 가지고 1898년(光武 2년 戊戌) 3월 8일에 창간된 것이니 지면의 大가 불과 솟바닥만 하엿섯고 후자는 米團人 경영인 培材學堂의 梁弘黙씨가 前記 京城新聞보다 약 수개월 후 창간한 것이다. 摠而言之하면 이때의 3신문 특색은 전부가 순 朝鮮文인 것과 계통이 米國계통인 것과 정치 이외에 기독교의 냄새가 만흔 것과 계급타파, 노예해방, 자유평등을 주창한 것이였다.
+
+四. 皇, 帝 兩 新聞 倂立時代
+獨立新聞이 폐간된 후 乙巳(1905년)保護條約 시기까지 약 8년간은 皇城, 帝國 兩신문의 병립시대라 可謂할지니
+皇城新聞=은 光武 2년 戊戌 9월(1898년)에 獨立協會 회원 중 南宮檍, 羅壽淵 외 某某씨가 전날 尹致昭씨의 경영하던 京城新聞을 讓受하야 명칭을 皇城新聞으로 변경한 것이니 자금은 股金制로 하고 처음의 위치는 左巡營(黃土峴 紀念碑閣址 = 현 光化門通)으로 정하얏다가 뒤에 鍾路 白木廛뒤 (현 崔相仁 상점 後址)로 이전하고 주간을 일간으로 변하며 체재는 獨立新聞과 같이 중형 4頁, 단수는 8단, 평판 인쇄, 그 문체는 朝漢文 交用이엿고 또 논조는 獨立新聞과 대동소이하야 항상 비분강개의 사설로 당시 정부를 비난 공격하고 인민의 자유평등과 배타사상 등을 고취하였으니 역대 사장으로는 南宮檍, 張志淵, 南宮薰, 金相天, 柳槿 등이요. 또 역대 명 논설기자로는 張志淵, 柳槿, 申采浩, 朴殷植 등이였으니 1905년 11월 17일 保護條約 당시 『是日夜放聲大哭』과 『擲筆大呼』의 兩논설은 당시 일반민중의 열혈을 약동케한 名 논문으로 지금까지 누구나 회자하고 또＜6＞ 그 필화로 인하야 필자는 縷絏의 욕을 당하고 신문은 발행정지의 처분을 당하엿다가 2개월 후 다시 해금이 되야 계속 발행하다가 庚戌年 합병시에 폐간의 비운을 만낫다.
+帝國新聞=은 皇城新聞을 발행하던 동년 8월 8일에 李鍾一, 沈相翊, 廉伸模, 張孝根 등이 전날 梁弘黙씨의 경영하던 每日新聞을 인수하야 帝國新聞으로 개칭한 것이니 위치를 漢陽洞(금 敦義洞)에 두엇고 문체는 순 朝鮮文으로하야 彼 皇城新聞이 독자를 상류계급을 대상으로한데 反하야 이 帝國新聞은 중류 이하 계급과 부인층을 대상으로 한것이 한 특색이엿다. 그러나 그 논조에 잇서서는 皇城과 대동소이하였고 어느 해 萬壽聖節(李太王 誕辰) 때에 그 축사를 쓰는데 『만세』란 만짜(萬字)를 교정이 잘못되여 『망세』로 발표하엿다가 그것이 宮內에까지 문제가 되여 사장 李鍾一이 불경죄로 일시 구금을 당한 일은 지금까지 斯界에 한 이약이거리가 되였다.
+이 신문은 재정의 곤란으로 1907년(丁未) 9월 21일에 임시 휴간하엿다가 동년 10월 3일에 鄭雲復이 사장이 되야 다시 계속 발행하다가 庚戌合倂시에 다른 신문과 같이 폐간의 운을 당하고 말엇다.
+
+五. 全盛期와 暗黑期
+乙巳保護條約 이후로 朝鮮人의 집회, 언론은 말할 수 없이 만흔 제한을 바덧지 만은 彼 노장 정치가인 新 통감 伊藤博文은 예의 노회한 고등정책을 써서 내외 인심을 완화식히고 또한 자기도 일반여론을 참고하기 위하야 어느 정도까지 언론 자유를 용인하였으니 乙巳年으로부터 庚戌合倂 시기까지 약 6년간은 朝鮮에 신문이 탄생 후 전성의 시기라 可謂하겟다. 그때 朝鮮文의 중요한 신문을 소개한다면 상술한 皇城, 帝國 兩 신문 외에 大韓每日, 萬歲報, 大韓民報 등이 있었고 또 一進會 기관지 國民新報 등이 잇섰으니
+大韓每日申報=는 1905년 8월11일에 梁起鐸을 주필로 하고 英人 裵說이 창간한 것이니 裵說은 영사재판을 밧는 특권이 잇는 것을 밋고 극단히 排日論을 주창하야 당시 일반 朝鮮사람의 환심을 크게 사고 따러서 부수도 各紙 중 최고의 부수를 가졌으며 光武 11년(1907년) 여름에는 彼 유명한 海牙 밀사사건을 발표하야 내외인의 이목을 聳動식히고 그 사실로 말미암아 裵說은 금고 3개월의 형사 처분까지 바든 일은 누구나 아즉 기억에 남어 잇고 1909년에는 裵說을 代하야 英人 萬咸이 계속 발행하다가 다시 李章薰의 명의로＜7＞ 변경되며 합병 당시에는 統監府에서 매수하야 그 기관지를 삼고 每日申報로 명칭을 변경하였으니 즉 금일의 每日申報가 그것이엿다.
+萬歲報= 이 신문은 光武 9년 6월에 천도교에서 발간한 것이니 위치는 (今 旭町 1丁目) 사장은 吳世昌, 주필은 李人稙이엿다. 그들은 다 신진 인물인 중 특히 李씨는 다년간 東京에 체류하는 중 신문에 관한 지식이 상당히 잇는 이만치 재래 朝鮮에 잇던 신문보다 체재 내용을 모도 일신케 하야 단수도 재래 8단이던 것을 처음으로 10단으로 하고 활자도 朝鮮 초유의 루비식 활자를 쓰며 『鬼의 聲』 『血淚』 등 신소설을 처음으로 게재하엿으니 그 필자 菊初 李人稙은 朝鮮 신소설 작가의 선구자요 그 신문은 朝鮮 신문계의 혁명이엿다. 그러나 재정의 곤란으로 3년 후 丁未년 秋期에  李完用 내각의 기관지로 양도되고 제호를 大韓新聞으로 변하야 계속 발행하다가 합병 당시에 또한 폐간되였다.
+大韓民報= 이 신문은 李容九, 宋秉畯 일파의 一進會와 鄭應卨, 高羲駿 일파의 國是遊說團을 대항하기 위하야 天道敎의 획책으로 이러난 朝鮮 최후의 정당 大韓協會의 기관지로 1909년(隆熙 3년 己酉) 7월 8일에 창간되였으니 皇城 帝國의 兩 신문과 異名同論의 자매지 격이 되여 인심의 고무와 정부를 비난 공격하는 당당한 언론이 만었음으로 일반의 환영을 바덧섯고 貫齋 李道榮의 풍자만화는 朝鮮 신문에서 최초 게재한 것으로 여러 사람의 흥미를 만히 끌었섯다.
+그 社 위치는 壽松洞(금 鍾路 소학교 址)이엿고 사장은 大韓協會長 吳世昌이 겸임하엿다가 합병 당시 또한 폐간되였다.
+이 외에 和文新聞으로는 菊池謙謙의 漢城新報, 萩谷籌夫의 大韓日報, 蟻生十郞의 大東新報, 仁川의 朝鮮新聞과 報知 時事, 國民, 萬朝, 大朝, 大每 등 支局이 설치되여 일시 京城에는 신문 간판이 사립학교 간판과 백중을 다툴만치 만었섯다.
+그리고 당시 朝鮮新聞으로 乙未 후 閔元植의 時事新聞과 비슷한 대우를 밧던 신문이 또 있었으니 그것은 一進會의 기관지인 소위 國民新報다. 그 위치는 美洞,(今 黃金町) 주필은 梅下 崔永年으로 합방건백서를 그 지면에 발포하고 張遑 論說한 것은 아즉것 우리의 기억에 살어지지 안코 독자에게 紙上 투표모집을 하기도 此報가 처음이엿다.
+그러다가 庚戌 8월 29일에 日韓合倂의 되고 무단무치의 대표인물인 寺內總督이 朝鮮을 통치하게되니 朝鮮의 언론계는 그의 一刀之下에 여지없이 말살되야 소위 어용지 每申, 이외 朝鮮文 신문은 모도 殘命조차 보존을 못하게 되였으니 그때로붙어 己未年까지 약 10년간은 朝鮮新聞界의 암흑시기라 可謂하겟다.
+
+六. 三新聞 鼎立時代
+그러자 己未年 3월 1일에 만세의 소리가 터지며 長谷川總督이 봇짐을 싸가지고 東京으로 건너가고 齋藤總督이 繼任하게 되니 그는 도임 벽두에 朝鮮에 문화정치를 施할 것을 포고하는＜8＞ 동시 언론의 자유도 다소 용인하여 몃 개의 신문과 잡지를 許하게 되였으니 신문으로는 東亞, 朝鮮 외 國民協會의 기관지 時事新聞이 생기고 잡지로는 開闢이 그 대표적이엿다. 이하에 略記하면
+東亞日報= 東亞日報는 大正 9년 4월 1일에 그 社의 최초 사장이던 朴泳孝, 주주대표 金性洙, 柳槿, 李相協, 張德俊씨 등을 중심으로 창간된 것이니 그 당시는 민족주의 사상이 최고조에 달하엿든 때라 『朝鮮民衆의 표현 기관으로 자임함. 2. 민주주의를 지지함. 3. 문화주의를 제창함』 등의 세 가지 강령을 가지고 세상에 나온 그때의 東亞日報는 정가 月額 60전 평판인쇄 4면에 불과하엿다. 그리고 제1보로부터 수지의 불합과 頻頻히 당하는 발매금지의 액운으로 인하야 신문경영에 막대한 타격을 받엇슴으로 이 難境을 개척하기 위하야 동년 7월에는 윤전기를 사드리고 정가를 80전으로 올리드니 발간 말기에 權悳奎씨의 『假明人頭上에 一棒』이라는 논문 때문에 儒林의 반감을 사서 朴泳孝씨는 그만 사장의 의자를 떠나고 동년 9월25일에는 사설 중 「三種의 神器」가 近因이 되고 朴泳孝를 사직케한 것이 遠因이 되어 기사 불온한 이유로 여긔에 제1차 정간을 당하야 170일 후 즉 익년 1월 10일에야 解停되엇다.
+大正 10년 2월 21일에 다시 속간하야 동년 9월에는 公稱 자본금 70만원의 주식회사 東亞日報가 성립되는 동시 宋鎭禹씨가 사장으로 취임하고 大正 13년 5월에는 李昇薰씨가 사장으로 취임. 동 10월에는 李昇薰씨가 사장을 그만두고 金性洙씨가 사장으로 취임하엿다. 大正 14년엔 절첩식 윤전기를 증설하엿고 동년 8월 1일에 지면을 6頁으로 확장하는 동시 정가를 1원으로 인상하엿다. 그러나＜9＞ 大正 15년 3월 5일, 國際農民組合에서 朝鮮民族에게로 보낸 축전을 게재한 것이 이유가 되어서 3월 5일부터 4월 19일까지 제2차 정간 처분을 받엇다. 동년 12월 11일에는 光化門通 현 사옥으로 이전하고 昭和 4년 9월 20일에는 지면을 다시 8頁로 확장하고 10주년을 마지하더니 昭和 5년 4월 16일에 다시 제3차의 정간을 당하엿다가 동 8월 31일에 解停되고 昭和 8년부터는 지면을 10頁로 확장하야 금일에 이른다.
+朝鮮日報= 朝鮮日報는 大正 9년 3월 6일에 大正親睦會의 기관지로 趙鎭泰, 宋秉畯, 芮宗錫, 崔崗 등이 중심이 되여 창간되얏다. 同紙는 최초 大正親睦會 기관지로 실업신문을 표방하고 나왓스나 논조가 항상 불온한 까닭에 압수를 만히 당하다가 동년 10월에 『星帽賊』이라는 기사로 인하야 제1차 정간을 당하고 1개월 후 즉시 속간되엿다. 그러나 재정의 곤란으로 大正 12년에 大正親睦會에서 宋秉畯 개인의 손으로 넘어가서 사옥을 三角町으로붙어 水標町으로 이전하고 趙鎭泰 후계 사장 劉文煥이 사임하고 宋씨가 직접 사장이 되였다가 후에 南宮薰이 사장이 되고 大正 13년에는 申錫雨
+崔善益 일파가 宋씨로부터 매수하야 李商在옹을 사장을 삼는 동시에 지면의 대혁신을 단행하고 『朝鮮民衆의 新聞』이란 표어를 목표로 一路邁進하엿다. 大正 14년경에는 朝鮮日報는 사회주의적 색채가 농후하야져서 민족주의의 낙인을 받은 東亞日報를 일시 압도하는 기세를 보이드니 大正 14년 9월에 『勞農露國과 朝鮮의 政治的 關係』라는 사설로 인하야 제2차의 정간을 당하엿스며 필자 辛日鎔씨는 피신을 하고 발행인은 체형을 당하고 윤전기는 압수되엇다. 정간된지 40일 후 적색 기자를 일절 면직식히고 동 10월에 해금. 大正 15년 7월, 堅志洞 신축 사옥으로 이전. 昭和 2년 2월에 사장 李商在씨가 별세하야 申錫雨씨가 그 대신 사장으로 취임. 昭和 3년 5월 9일 『濟南出兵壁上觀』하라는 사설로 인하야 제3차의 정간을 당하고 133일만의 9월 19일에 도루 해금 속간 되엇다. 昭和 6년 3월에 재정난으로 인하야 申錫雨씨가 퇴사하고 安在鴻씨가 사장으로 취임하엿다. 그러나 역시 여전이 속속되는 재정난 때문에 昭和 7년 3월 3일 救濟金 消費問題 事件으로 사장 安在鴻씨와 영업국장 李昇馥씨가 수감되고 새로이 兪鎭泰씨가 사장으로 취임하엿다. 동년 5월 28일 재정 곤란으로 발행권이 林景來씨에게로 가게되매 在社 사원들은 林씨는 그 인물됨이 朝鮮日報 경영자될 자격이 없다고 스트라익을 결행하얏기 때문에 林씨는 발행권을 손아귀에 쥐고 明治町 2丁目으로 옴겨가서 4頁新聞을 발행하다가 동 7월 29일에 부득불 휴간할 수 밧게 없엇다.＜10＞
+동년 11월 21일에 曺晩植씨와 朱耀翰, 趙炳玉씨 등이 인수하야 다시 堅志洞 사옥에서 속간 중 판권 문제로 林景來 일파가 문제를 이르켜 일시 휴간, 昭和 8년 3월 23일에는 曺晩植씨가 사장이 되고 方應模씨가 발행인이 되어 蓮建洞에서 속간되엇다. 同 6월 23일에는 30萬圓(일시불) 주식회사가 조직되엇고 동년 7월 18일 曺晩植씨가 사장을 사퇴하고 方應模씨가 사장으로 취임하엿다. 동 8월 28일에 지면을 10면으로 확장하는 동시 자본금 20만원을 증가하고 太平通 1丁目에 사옥을 신축하는 중이요 그리고 금년에는 朝鮮新聞계에서 최초로 社用 비행기를 구입하엿다고 신년 벽두붙어 자랑 선전.
+朝鮮中央日報= 현재의 朝鮮 中央日報를 말할나면 먼저 그 전신의 전신인 時代日報 시대부터 훌터 내려와야되겟다 時代日報는 崔南善씨가 주간하든 주간 잡지 東明(大正 11년 9월 창간- 12년 6월 3일 폐간)의 후신으로 大正 12년 발행된 것이다. 재정난으로 인하야 일대풍파를 이르키면서 普天敎 일파에게로 넘어가 버리드니 다시 大正 14년 6월에 洪明憙씨가 사장이 되어 다시 진영을 갓추엇다. 그러나 이것도 결국은 재정난으로 인하야 그만 문을 다더 버렷다.
+中外日報, 時代日報 발행권이 취소된 직전 大正 14년 9월 18일에 李相協씨가 時代日報의 뒤를 이어 제호를 곳치고 발행인가를 얻은 것이 곳 中外日報다. 大正 15년 11월 15일에 社의 조직을 주식회사로 하고 창간 제1호를 , 발행하엿스니 그때의 정가는 60전이엇고 「最良最廉」의 신문으로 일대 비약을 꾀하엿스나 이것도 역시 재정난으로 막대한 곤란상태에 빠젓섯다. 昭和 3년 12월에 무기 정간을 당하고 익년 2월 중순에 解停.
+昭和 4년 9월에는 사장 安熙濟씨와 李祐植씨 중심으로 발행을 계속하는＜11＞ 동시에 지면을 8頁로 확장하야 東亞, 朝鮮의 기를 先하드니 그 뒤 이번 역시 재정난으로 드듸어 昭和 5년 10월 15일에 휴간을 신청하고 익년 2월 10일까지 휴간을 계속하지 않으면 아니되엇다. 그 뒤 中外日報는 金炯元씨 외 1,2 기자의 적극적 노력으로 발행을 게속하드니 마츰내 9월 2일에 해산의 비운을 당한 것이엇다.
+中外日報가 해산된 후 盧正一, 金贊成씨가 발행 허가를 다시 얻은 동시에 제호를 곳처 中央日報로 하엿다. 그러나 이 亦 재정난과 社內 不統一로 인하야 昭和 7년 5월 25일 휴간하엿다. 그 후 崔善益, 尹希重씨가 인계하야 동년 10월 31일부터 또다시 속간하게 되엇다. 昭和 8년 2월에 呂運亨씨가 사장으로 취임하고 동년 3월에 제호를 朝鮮 中央日報로 곳치고 동년 7월에는 4頁이든 지면을 6頁으로 확장하고 昭和 9년 7월에 30만원의 주식회사가 되며 동월 16일부터 조 석간 8頁로 확장하고 정가를 80전으로 인상하야 금일에 이르럿다.
+(끗)＜12＞
+＜2-12＞

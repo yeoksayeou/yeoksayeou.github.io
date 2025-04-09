@@ -1,0 +1,81 @@
+Magazine Title: 開闢 제49호
+Publication Date: 1924년 07월 01일
+Article Title: 社告 (Company Announcement)
+Author: 開闢社 (Kaebyŏk Company)
+Article Type: 사고·편집후기 (Announcement/Editorial Note)
+
+**Body Text Translation**
+
+Company Announcement
+
+For the convenience of readers residing in areas such as Ch'osan (楚山), Pyŏktong (碧潼), and Wiwŏn (渭原), we have now established the Ch'osan Branch Office. From now on, please direct all magazine requests, advertising submissions, and other matters to this branch office.
+
+Location: Sŏngsŏ-dong (城西洞), within Ch'osan Town (楚山邑內)
+Area: Ch'osan (楚山), Wiwŏn (渭原), Pyŏktong (碧潼)
+Staff: Branch Manager Kim Munhyŏk (金文爀); Reporter Chang Ch'ŏnsŭng (張天承); Advisors Yi Hŏn'guk (李憲國), Pak Obong (朴梧鳳)
+
+Kaebyŏk Company <75>
+
+**Summary**
+
+This is a company announcement from Kaebyŏk Magazine informing readers of the establishment of a new branch office in Ch'osan. The announcement provides the location, the geographical area covered (Ch'osan, Wiwŏn, Pyŏktong), and the names of the key staff members assigned to the branch, including the manager, a reporter, and advisors. It instructs readers in those areas to direct all future correspondence, subscriptions, and advertising requests to the new branch.
+
+For historians, this announcement illustrates the organizational expansion and logistical efforts of a major Korean cultural magazine during the colonial period. Establishing a branch in Ch'osan, a town in North P'yŏngan province near the Yalu River border with China, demonstrates *Kaebyŏk*'s attempt to reach readers in relatively remote northern regions, highlighting the magazine's reach and distribution network development in the 1920s.
+
+**Named Entities**
+
+楚山	초산	Ch'osan
+碧潼	벽동	Pyŏktong
+渭原	위원	Wiwŏn
+楚山分社	초산분사	Ch'osan Branch Office
+楚山邑內	초산읍내	Ch'osan Town Interior
+城西洞	성서동	Sŏngsŏ-dong
+金文爀	김문혁	Kim Munhyŏk
+張天承	장천승	Chang Ch'ŏnsŭng
+李憲國	이헌국	Yi Hŏn'guk
+朴梧鳳	박오봉	Pak Obong
+開闢社	개벽사	Kaebyŏk Company
+
+**Glossary**
+
+社告	사고	Company announcement
+等地	등지	Areas such as, places like
+게신	계신	(Honorific) Who are in/residing in (Older form of 계시는)
+讀者	독자	Reader
+便宜	편의	Convenience
+爲하야	위하여	For the sake of (Older spelling/form of 위하여)
+分社	분사	Branch office
+設置	설치	Establishment, installation
+하엿나이다	하였습니다	(Formal/deferential) Have done (Older form of 하였습니다)
+今後	금후	From now on, henceforth
+雜誌請求	잡지 청구	Magazine request/subscription inquiry
+廣告申託	광고 신탁	Advertising request/commission
+其他	기타	Other, the rest
+一切	일체	All, everything
+該分社	해분사	The said/aforementioned branch office
+位置	위치	Location
+邑內	읍내	Within the town (eup)
+區域	구역	Area, district, zone
+職員	직원	Staff, employee
+分社長	분사장	Branch manager
+記者	기자	Reporter
+顧問	고문	Advisor
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제49호
+발행일	1924년 07월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+이제 楚山, 碧潼, 渭原 等地에 게신 讀者의 便宜를 爲하야 楚山分社를 設置하엿나이다 今後부터 雜誌請求, 廣告申託, 其他 一切를 該分社에로 하시옵소서
+位置 楚山邑內 城西洞
+區域 楚山, 渭原, 碧潼
+職員 分社長 金文爀
+記者 張天承
+顧問 李憲國
+朴梧鳳
+開闢社＜75＞

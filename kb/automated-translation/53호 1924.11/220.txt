@@ -1,0 +1,105 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1924년 11월 01일
+Article Title: 餘言 (Closing Remarks/Epilogue)
+Author: Editor
+Article Type: 사고·편집후기 (Notice/Editor's Postscript)
+
+**Body Text Translation:**
+餘言
+The phrase from the classics, *'The plants yellow and wither, the wild geese fly south; Ah, crying out in old age, whose fault is this?'* (草木黃沈兮鴈南飛 鳴乎老矣是誰之愆), also passes by. They say it is snowing [*雪*] in North Hamgyŏng (北鮮), and ice is forming (結氷) in Kyŏngsŏng (京城). Yet, our *Kaebyŏk* (開闢) is already preparing the year-end issue (送年號). The problematic year of Kapcha (甲子年) is about to pass, leaving issues unresolved (未決).
+
+I recall the phrase by Qian Yin (淸 乾隱) of Qing: *'Doing, doing things for the world; doing, doing until nothing is left undone. Doing, doing after people leave, people come again and resume doing, doing.'* (爲爲天下事 爲爲盡不爲 爲爲人去後人來復爲爲). The passing, passing, passing years go by, and yet more remains. The work done, done, done is done, and yet more remains. Ah, this is the impartiality (公道) of the universe. We cannot escape this impartiality year after year, age after age.
+
+The August issue was unsatisfactory (不滿), the September issue was unsatisfactory, the October issue was unsatisfactory, and the November issue too passes with dissatisfaction. Is dissatisfaction also the impartiality (公道) of the universe? This is not just the editor's strained excuse. One cannot say that dissatisfaction is not impartiality. This has been the way of the world's affairs since antiquity, and it is said to be difficult to guarantee satisfaction in the world's affairs of the future as well.
+
+The year of Kapcha (甲子年) and the world seem generally placid (平平), but unfortunately, Chosŏn (朝鮮) comes to weep with iron [*鐵*], and even more unfortunately, China (中國) is weeping amid armed conflict (兵亂). In Europe (歐洲), there was the usual international conference (國際會議), but it seems like the drunken talk (酒後開談) of incorrigible high-class vagrants (高等浮浪者). Ah, how will Chosŏn cross the pass of [**의]? And how will China overcome the disastrous alley (禍巷) of armed conflict? These are all equally concerning questions.
+
+Mr. Ch'unp'a (春坡君), who took responsibility for the survey trip (踏査) to Hamnam (咸南) and wandered far to the national border (國境), was fortunate to receive the warm affection (厚愛) of the brethren (兄弟) there, visited all his destinations (目的地), and returned to the company (歸社) on October 8th. Since what he heard and saw (所聞所見) will be published, please do not spare your esteemed criticism (高評). And how about giving the same sympathy (同情) to Mr. Ch'ŏng'o (靑吾君) who is wandering east and west south of Hamnam? Mr. Ch'ŏng'o's travelogue (踏査記) will be published in the December issue.
+
+Trying to fit this and that, and even include the issue number (道號), in the limited space (적은 紙面) is truly cumbersome (거북한 일). When we are unable to publish manuscripts sent with great effort, we express our apologies (未安의 人事) to the writers (筆者). This happens with every issue (號). One might call it the *usual routine* [*常한 套*].<167>
+
+**Summary**
+
+The editor reflects on the passing of 1924 (Gapjanyeon), expressing chronic dissatisfaction with the magazine's quality despite continuous effort, likening this persistence to a cosmic principle. The piece laments the grim situation in Korea, suffering under harsh conditions (symbolized by "iron"), and in China, engulfed in civil war, while dismissing European international conferences as ineffective. It provides updates on two reporters, Ch'unp'a and Ch'ŏng'o, currently undertaking survey trips in Hamgyŏng province, and concludes with an apology for rejected manuscripts due to space limitations, calling it a regrettable but common occurrence.
+
+For historians, this editorial offers insight into the mood of Korean intellectuals under Japanese rule in the mid-1920s, revealing a pervasive sense of dissatisfaction, helplessness regarding Korea's plight ("iron chains," the implied censored hardship), and concern over regional instability (China). The critique of international diplomacy and the logistical challenges of publishing (space constraints, manuscript rejection) under likely censorship further illuminate the operational realities and critical perspective of the Korean press during the colonial period. The asterisked words hint at censorship or self-censorship regarding sensitive topics like colonial oppression.
+
+**Named Entities**
+
+北鮮	북선	Pukch'ŏn (North Hamgyŏng province)
+京城	경성	Kyŏngsŏng (Seoul)
+開闢	개벽	Kaebyŏk
+甲子年	갑자년	Kapcha Year (1924)
+淸 乾隱	청 건은	Qian Yin of Qing
+朝鮮	조선	Chosŏn (Korea)
+中國	중국	Chungguk (China)
+歐洲	유주	Yuch'u (Europe)
+咸南	함남	Hamnam (South Hamgyŏng province)
+春坡君	춘파군	Mr. Ch'unp'a
+國境	국경	Kukkyŏng (National Border)
+靑吾君	청오군	Mr. Ch'ŏng'o
+
+**Glossary**
+
+餘言	여언	Closing remarks; epilogue
+草木黃沈兮鴈南飛	초목황침혜안남비	"Plants yellow and wither, the wild geese fly south" (Classical Chinese phrase)
+鳴乎老矣是誰之愆	명호노의시수지건	"Ah, crying out in old age, whose fault is this?" (Classical Chinese phrase)
+北鮮	북선	North Hamgyŏng Province (Older term)
+結氷	결빙	Freezing; ice formation
+送年號	송년호	Year-end issue (of a magazine)
+甲子年	갑자년	The year Gapja (1924 in the sexagenary cycle)
+未決	미결	Unresolved; undecided
+乾隱	건은	Qian Yin (Person's name, likely Chinese)
+為為天下事...	위위천하사...	"Doing, doing things for the world..." (Classical Chinese quote)
+公道	공도	Impartiality; fairness; justice (often cosmic)
+不滿	불만	Dissatisfaction; discontent
+鐵*	철*	Iron [*鐵*] (Symbolizing hardship/oppression, asterisk in original likely indicating censorship/emphasis)
+兵亂	병란	Armed conflict; chaos of war; civil war
+國際會議	국제회의	International conference
+高等浮浪者	고등부랑자	High-class vagrants/idlers (derogatory)
+酒後開談	주후개담	Drunken talk; irresponsible chatter after drinking
+**의	**의	[**의] (Missing/censored word, likely related to hardship/oppression)
+禍巷	화항	Disastrous alley; place of calamity
+踏査	답사	Field survey; investigation trip
+國境	국경	National border
+當地兄弟	당지형제	Brethren/compatriots of that place
+厚愛	후애	Warm affection; kindness
+目的地	목적지	Destination
+歸社	귀사	Return to the company/office
+所聞所見	소문소견	What one has heard and seen
+高評	고평	Esteemed criticism; high evaluation
+同情	동정	Sympathy; compassion
+紙面	지면	Page space (in a publication)
+道號	도호	Issue number (Older term for 號 number)
+附	부	To attach; to append
+實로	실로	Truly; really (Older spelling of 실로)
+原稿	원고	Manuscript
+未安	미안	Feeling sorry; apologetic
+人事	인사	Greeting; expression (here, of apology)
+表해	표해	To express; show (Slightly older form)
+號마다	호마다	Every issue
+*常한 套*	*상한 투*	*Usual routine*; *cliché* [*常한 套*] (Asterisks in original)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제53호
+발행일	1924년 11월 01일
+기사제목	餘言
+기사형태	사고·편집후기
+
+餘言
+『草木黃沈兮鴈南飛 鳴乎老矣是誰之愆』고의 句도 또 지내간다. 北鮮에는 *雪이라 하며 京城에는 結氷이라 한다. 그런데 우리 開闢은 발서 送年號를 準備하는고나. 問題의 甲子年도 未決을 그대로 두고 또 넘어가려 한다.
+
+淸 乾隱의 「爲爲天下事 爲爲盡不爲 爲爲人去後人來復爲爲」의 句가 생각냔다. 가고가고 가는 歲月은 가고 가고도 또 남음이 잇는대 하고하고 하는 일은 하고 하고도 또 남는도다. 아- 이것이 宇宙의 公道라. 吾人은 年年歲歲此公道란 밧하지 못하겟구나.
+
+八月號도 不滿 九月號도 不滿 十月號도 不滿이엿는데 十一月號 亦 不滿으로 넘어가는구나. 不滿도 亦 宇宙의 公道란 말가. 編者의 窮한 말이 안이라. 不滿이 公道안이다 할 수도 업다. 由來의 世上事가 그라햇고 將來의 世上事도 滿足을 保障키는 難한 것이라 한다.
+
+甲子年九李와 世界上은 두루 平平한 모양인데 不幸 朝鮮은 鐵*으로 올게 되고 또 不幸할 中國은 兵亂으로 울고 잇다. 歐洲에는 例의 國際會議가 잇서스나 逆 高等浮浪者의 酒後 開談格인 듯 하다. 아- 朝鮮은 엇더케 **의 고개를 넘겟스며 中國은 엇더케 兵亂의 禍巷을 넘어서랴는가 다가티 궁금한 問題이다.
+
+咸南踏査의 責任을 지고 멀리 國境까지 해매든 春坡君은 幸히 當地兄弟의 厚愛를 입어 目的地를 다 단녀 10월 8일로써 歸社하얏다. 君의 所聞所見이 發表되는 터이니 누구든지 악기지 말고 高評을 내려주랴. 그리고 咸南以南에서 之東之西하고 잇는 靑吾君에게도 가튼 同情을 주심이 엇더할가. 靑吾君의 踏査記는 12월호에 발표되겟다.
+
+적은 紙面에 이것싯고 저것싯고 또 道號까지 附하랴니까 實로 거북한 일이 만타. 애써 보내주신 原稿를 못싯게 되는 때에 筆者에게 未安의 人事라도 表해 둔다.
+이것이 號마다 當하는 일이다. *常한 套*라고도 하겟지.＜167＞

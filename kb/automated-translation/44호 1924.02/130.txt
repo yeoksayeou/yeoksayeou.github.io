@@ -1,0 +1,39 @@
+Magazine Title: 개벽 (開闢) 제44호
+Publication Date: 1924년 02월 01일
+Article Title: 正誤 (Correction)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Note)
+
+Correction
+In issue 43 of this magazine, on page 169, line 14, 车淳荣 (Ch'a Sun-yŏng) is corrected to 车荣淳 (Ch'a Yŏng-sun), and 曹百云 (Cho Paek-un) is corrected to 池百云 (Chi Paek-un).<72>
+
+**Summary**
+
+This brief notice serves as an erratum for the previous issue (No. 43) of the magazine *Kaebyŏk*. It corrects two names that were misspelled on page 169: Ch'a Sun-yŏng should be Ch'a Yŏng-sun, and Cho Paek-un should be Chi Paek-un. For historians, this small correction notice provides insight into the editorial practices of a major Korean magazine during the colonial period. The specific names corrected might also be significant if these individuals were notable figures, offering a data point about their activities or mentions in the press at the time. The use of older spelling conventions ('함니다' instead of '합니다') is also noteworthy for linguistic studies of the period.
+
+**Named Entities**
+
+車淳榮	차순영	Ch'a Sun-yŏng
+車榮淳	차영순	Ch'a Yŏng-sun
+曹百雲	조백운	Cho Paek-un
+池百雲	지백운	Chi Paek-un
+
+**Glossary**
+
+正誤	정오	Correction; Erratum
+本誌	본지	This magazine
+頁	페이지	Page (older way of writing page number marker, read as p'yeiji or 쪽)
+行	행	Line (of text)
+正誤함니다	정오합니다	(We) correct; This is a correction (Older spelling/form of 정오합니다)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제44호
+발행일	1924년 02월 01일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+本誌 第43號 169頁 14行에 車淳榮은 車榮淳으로 曹百雲은 池百雲으로 正誤함니다.＜72＞

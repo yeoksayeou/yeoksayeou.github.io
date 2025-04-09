@@ -1,0 +1,43 @@
+Magazine Title: 개벽 第18號
+Publication Date: 1921년 12월 01일
+Article Title: 正誤 (Errata/Correction)
+Author: 개벽사
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Errata
+						Kaebyŏk Publishing Company
+
+In the Business Introduction section on page 125 of the previous issue, Im U-sik (林友植) was an error for Pak U-sik (朴友植). <161>
+
+**Summary**
+
+This short article is an errata notice issued by the Kaebyŏk Publishing Company. It corrects a name that appeared in the "Business Introduction" section of the previous issue (No. 17, p. 125), stating that "Im U-sik" should have been printed as "Pak U-sik". For historians, this brief notice illustrates the standard practice of corrections in early Korean periodicals during the colonial period. It underscores the importance placed on accuracy, even in potentially commercial sections, and offers a glimpse into the editorial process of correcting errors related to personal names.
+
+**Named Entities**
+
+林友植	임우식	Im U-sik
+朴友植	박우식	Pak U-sik
+개벽사	개벽사	Kaebyŏk Publishing Company
+
+**Glossary**
+
+正誤	정오	Errata, Correction
+前號	전호	Previous issue
+頁	페이지 / 쪽	Page (Hanja character for page)
+商業紹介欄	상업소개란	Business Introduction Section/Column
+中	중	In, Among, Middle (Used here as 'in')
+誤	오	Error, Mistake
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제18호
+발행일	1921년 12월 01일
+기사제목	正誤
+필자	개벽사
+기사형태	사고·편집후기
+
+正誤
+						개벽사
+前號 125頁 商業紹介欄 中 林友植은 朴友植의 誤＜161＞

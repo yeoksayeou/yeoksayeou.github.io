@@ -1,0 +1,90 @@
+Magazine Title: 개벽 제29호
+Publication Date: 1922년 11월 01일
+Article Title: 漢詩, 追和車靑吾秋日往牛耳洞拜 孫義庵先生墓詩 (Hanja Poem, Following the Rhyme of Cha Ch'ŏngo's Poem on Visiting the Tomb of Teacher Son Ŭiam in Uidong on an Autumn Day)
+Author: 閔泳純 (Min Yŏngsun)
+Article Type: 시 (Poem)
+
+Lush green on four mountains converges on the high tomb;
+To the left, Tobong Peak is greeted, to the right, Paegun[dae].
+The winding stream seems joyful;
+Travelers arriving here listen attentively.
+
+Within Ponghwanggak, the autumn wind rises;
+Human affairs are impermanent, what can be done about the sorrow?
+This place of cultivation from decades past,
+Carefree woodcutters and shepherds pass by singing loudly.
+
+Human feelings change monthly, cold like autumn;
+The fickle waves of the world turn and flow swiftly.
+In the end, it caused the Teacher to pass away harboring resentment;
+The people of Qi (齊人) have not yet released the oxen that fled to Yan (燕).
+
+Water cannot sink it, fire cannot turn it to ash;
+The sacred soul forever grieves for all living beings.
+When the rain and wind have passed, on peaceful spring days,
+One flower a day will bloom, opening every day.
+
+Righteousness and morality, magnificent and bright as the sun and moon;
+A great figure in turbulent times, beyond description.
+Before death, he already settled his worldly debts;
+Rest well in the green mountains, far from the city walls. <48>
+
+**Summary**
+
+This Hanja poem by Min Yŏngsun is an elegy written after visiting the tomb of Son Pyŏnghŭi (Son Ŭiam), the revered leader of Ch'ŏndogyo, located in Uidong amidst mountains like Tobong and Paegun. The poet reflects on the natural beauty surrounding the tomb, contrasts it with the impermanence and sorrows of human life, and praises Son's enduring spirit and righteousness. A poignant line suggests Son died harboring resentment, possibly alluding to unfulfilled national aspirations or internal conflicts, using a classical Chinese metaphor ("The people of Qi have not yet released the oxen that fled to Yan"). Despite the sorrow, the poem ends on a hopeful note, envisioning a future renewal and celebrating Son's transcendence. For historians, the poem offers insight into the mourning and reverence for Son Pyŏnghŭi shortly after his death, reflecting the mood among nationalists and Ch'ŏndogyo followers in the early 1920s. The allusion to Son's resentment and the unresolved situation ("奔燕牛") provides a glimpse into the frustrations and complexities faced by the independence movement under Japanese colonial rule.
+
+**Named Entities**
+
+車靑吾	차청오	Cha Ch'ŏngo
+牛耳洞	우이동	Uidong
+孫義庵先生	손의암 선생	Teacher Son Ŭiam
+閔泳純	민영순	Min Yŏngsun
+道峰	도봉	Tobong Peak
+白雲	백운	Paegun[dae]
+鳳凰閣	봉황각	Ponghwanggak
+齊人	제인	People of Qi
+燕	연	Yan
+
+**Glossary**
+
+漢詩	한시	Hanja poem (Classical Chinese poetry)
+追和	추화	Following the rhyme (of another poem)
+蒼翠	창취	Lush green, verdant
+高墳	고분	High tomb, grave mound
+溪流	계류	Mountain stream
+行人	행인	Traveler, passerby
+鳳凰閣	봉황각	Phoenix Pavilion (A building historically associated with Son Pyŏnghŭi in Uidong)
+人事	인사	Human affairs, worldly matters
+無常	무상	Impermanence
+修煉	수련	Cultivation, training, spiritual discipline
+樵牧	초목	Woodcutters and shepherds
+人情	인정	Human feelings, human nature
+飜覆	번복	Overturning, fickle, changeable
+世波	세파	Waves of the world, vicissitudes of life
+懷恨	회한	Harbor resentment, bear a grudge
+聖靈	성령	Sacred spirit, holy soul
+衆生	중생	All living beings, sentient beings
+道義	도의	Morality and righteousness
+堂堂	당당	Magnificent, imposing, grand
+風雲	풍운	Wind and clouds (metaphor for turbulent times)
+大手	대수	Great hand (metaphor for a great person or capability)
+人間債	인간채	Human debts, worldly obligations
+市城	시성	City walls, the mundane world
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제29호
+발행일	1922년 11월 01일
+기사제목	漢詩, 追和車靑吾秋日往牛耳洞拜 孫義庵先生墓詩
+필자	閔泳純
+기사형태	시
+
+漢詩, 追和車靑吾秋日往牛耳洞拜 孫義庵先生墓詩
+						閔泳純
+四山蒼翠赴高墳, 左挹道峰右白雲. 曲曲溪流如有訢, 行人到此注心聞.
+鳳凰閣裏秋風起, 人事無常恨奈何. 多十當年修煉地, 無心樵牧放歌過.
+人情月變冷如秋, 飜覆世波急轉流. 竟使先生懷恨去, 齊人未放奔燕牛.
+水不能沉火不灰, 聖靈長爲衆生哀. 雨風過盡春和日, 一日一花日日開.
+道義堂堂日月明, 風雲大手不能名. 生前已了人間債, 好臥靑山遠市城.＜48＞

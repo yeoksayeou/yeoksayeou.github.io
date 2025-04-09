@@ -1,0 +1,866 @@
+잡지명	개벽 제31호
+발행일	1923년 01월 01일
+기사제목	最近百年間의 發見과 發明 (Recent Discoveries and Inventions of the Past Hundred Years)
+필자	朱耀翰
+기사형태	문예기타 (Literary Miscellaneous)
+
+Recent Discoveries and Inventions of the Past Hundred Years
+						Chu Yohan
+
+The 19th century and its material civilization—never before has the world praised an era so much, nor has there been an era so cursed. The science, machinery, human intellect, and the utilization of that great natural power of the 19th century are, of course, objects of amazement and study for both those who curse and those who praise it. Considering the scope encompassed by that study itself, the range of related topics, the extension of the era, and moreover, the faster progress starting from the early 20th century, it is impossible to cover even a general outline with several tens of days of time and several tens of pages of paper. However, the request from the editors of Kaebyŏk imposes upon this writer the responsibility of making this impossible task possible to the extent feasible.
+
+Discovery and Invention
+
+Looking at the dictionary definitions, the two words 'discovery' and 'invention' are quite distinctly differentiated. Creating a method that did not exist before is invention, and finding something hidden in nature is discovery. That Columbus did not invent the New World is just as clear as Edison not discovering the phonograph. However, scientific inventions have such a close relationship with discovery that it is difficult to label a single event as either invention or discovery. Without discovering the great power of steam, the steam engine could not have been invented. Einstein's theory of relativity would be called a discovery, but it's not impossible to also call it an invention (since a theory is a method created to explain nature). Therefore, a history of invention that does not include the history of discovery would be incomplete. However, due to limitations of space and time here, the section concerning academic discoveries and progress of the past century had to be mercilessly excluded. Although the medical developments and chemical progress during that period, along with the expansion of their application scope, occupy a very important position whether viewed culturally or industrially, almost all of it has to be omitted here.
+
+Inventions Before the 19th Century
+
+Professor Tyndall said that human physiological evolution stopped at the same time as its psychological<67> evolution accelerated. Whether human form will evolve further in the future cannot be asserted, but one thing that can be asserted is that the invention of primitive machinery is one of the great stages of human evolution. The use of primitive machinery—namely axes, knives, arrowheads, etc.—and the utilization of fire began in the prehistoric era that history cannot remember; today's historians divide ancient times into the Stone Age, Bronze Age, etc., based on this. We can imagine that history began with the invention of writing. Among the various peoples of the world today, less than ten percent have historical records from ancient times. In this context, the investigation of our country's ancient sites gradually revealing our people's ancient culture is, in a certain sense, something we can be proud of.
+
+Coming down further to the inventions of the Middle Ages, our people's originality was demonstrated through inventions like cannons, movable type, and ironclad ships (鐵甲船). Furthermore, evidence occasionally emerges showing that the development of architecture and artistic crafts was not inferior to others, which we find greatly pleasing. However, in the East, the history of invention had to stop there. Not only our people but also our western neighbors, the Chinese people, not only failed to further develop the inventions passed down by their ancestors but gradually lost them. While these protectionists lost their old ways, the progressive Western peoples not only did not lose their old ways but added ten or a hundredfold to them, building today's civilization.
+
+Before entering the 19th century, we see that various important inventions already existed. Gutenberg and his printing press, Galileo's telescope, Arkwright's loom, and Palissy's porcelain are already famous stories. Besides these, many inventions from the 17th and 18th centuries still serve as instruments of civilization today. For example, the barometer, thermometer, pump, electric battery, piano, clock, gas lamp, lighthouse, etc.
+
+Overview of the 19th Century
+
+Thus, gradually developing material civilization reached its highest speed in the 19th century. To trace the cause of this material progress, one must go back as far as the Renaissance of the 15th century. Within the Renaissance, it wasn't the revived ancient scholarship that was important, but rather the adventurous, exploratory spirit of the Renaissance itself that laid the foundation for the scientific progress of later ages. As this flourishing of scientific research spread throughout Europe over the centuries, it was a natural outcome that the practical fruits of that science would appear as various mechanical inventions. However, if scientific progress had not met the urgent<68> needs of the times, it would not have produced such great inventions. Just at this time, as the medieval feudal system met its end and centralized power and capitalist imperialism began to sprout, the demand for mechanical inventions grew daily. Invention followed invention, which in turn dominated the state of production, requiring even more inventions. Thus, within that one century, unprecedented inventions, and consequently, an unprecedented revolution in life, were achieved. Thus, the steam engine emerged, followed by the gas engine, aircraft, and the development of warships and artillery. Thus, this century we live in is about to acquire the nickname "Age of Electricity."
+
+Utilization of Steam (Watt, Parsons)
+
+No one can deny that the invention of the steam engine was a turning point in modern civilization. Since its invention, methods of production and trade have undergone a great revolution. However, the utilization of steam by no means began in modern times. There is a historical fact that in 130 BCE, Hero of Alexandria used a machine to draw water by utilizing the vacuum caused by the condensation of steam. Later, in the 17th century, della Porta reused this principle, and in the early 18th century, Papin and Newcomen invented machines that derived motion of a piston (活塞子) from steam condensation.
+
+However, the development of the steam engine to the point where it could revolutionize industry is entirely credited to James Watt. James Watt was born in 1736, learned how to make mathematical instruments in London, and spent his life in his hometown of Scotland. Everyone knows the story of him being scolded by his mother as a child for playing with the steam coming out of a kettle. He began to pay attention to the steam engine when, while working as an engineer at the University of Glasgow, a Newcomen engine was damaged and came into his hands for repair. As a result of studying that engine, he realized its defect lay in the imperfection of the cylinder arrangement, causing four-fifths of the steam's latent heat to be wasted. So, he separated the condenser from the pump. This was truly a great advance for the steam engine. Due to the separated condenser, a large portion of the previously wasted steam power could be utilized, making it a major prime mover in industry. However, comparing Watt's initial machine with today's perfected machines reveals a significant difference in the degree of perfection. Bringing it to its perfection required the brains and energy of many people. But in terms of the fundamental principle, there is no difference between Watt's engine and today's engine. <69>
+
+However, the steam engine awaited another great revolution. In 1884, Parsons invented the steam turbine. A turbine refers to a type of engine where the pressure of steam is directed onto a series of blades, like wind turning a windmill, to rotate a wheel. The superiority of this engine was confirmed by tests conducted by the British and German naval ministries before the Great War. Today, the majority of ships afloat are of the turbine type. The Lusitania, which sank years ago, was one of the largest turbine-type ships.
+
+Fulton's Steamboat
+
+Comparing today's Pacific liners or super-dreadnought battleships to Fulton's first steamboat reveals a world of difference, but it cannot be denied that his one-mile-per-hour "Clermont" is the ancestor of today's various steamships. Robert Fulton was originally an American who had worked as a painter in London and had also researched torpedo boats at the request of the French government. In 1803, he experimented with a model steamboat propelled by paddle wheels in Paris. In 1806, he bought a British steam engine and returned to America, where he began building his first ship, the "Clermont." This ship was completed on August 9, 1807, and made its maiden voyage on the Hudson River on the 17th of the same month. That maiden voyage was a complete success, but it also generated various comedies. It is said that many people who saw the ship moving prostrated themselves on the ground and prayed to the monster for salvation. Even today, a century later, the fact that powerful nations ensnared by the iron claws of the Clermont's countless descendants gathered in Washington to puzzle over how to deal with that monster will surely remain in your memory.
+
+Stephenson's Locomotive
+
+The day the young engineer of the Killingworth Colliery, George Stephenson, test-ran his first locomotive was July 25, 1814. This locomotive took about ten months to build and had the power to pull a weight of thirty tons at a speed of over ten ri (approx. 4 miles) per hour. The cost of operating the locomotive was no different from the cost of horse power, and its speed did not exceed that of a walking horse. For this "primitive" locomotive to transform into today's engine capable of one hundred miles per hour, the energy of countless people and over a hundred years of time were required.
+
+Invention and Development of the Internal Combustion Engine
+
+An internal combustion engine refers to an engine that uses air as the motive power and operates through the explosion of gas. If this invention had not existed, the <70> development of airplanes today would not have been so great. There is a record of an engine using turpentine as fuel being registered in England in 1794. However, the internal combustion engine attracted public attention starting from Lenoir's invention in 1860 and when Otto and Langen presented a gas engine at the Paris Exhibition in 1867. Engines using heavy or light oil as fuel were invented later. In 1885, Daimler of France utilized this engine to invent the automobile. In 1894, the first automobile race from Paris to Rouen was held, and thereafter, similar competitions began almost annually in various countries, becoming a major stimulus for automobile development. In the last thirty years, Americans took the French invention and rapidly improved it, earning the title of the country with the most automobiles today.
+
+The Wright Brothers' Airplane
+
+However, the person who made the great historical invention utilizing the internal combustion engine is, needless to say, the Wright brothers. Their first flight took place on December 17, 1903, at Kitty
+Hawk. Before this, in Germany, Lilienthal studied bird wings and attempted flight, discovering its principles. But the most difficult problem was maintaining balance in the air. Both Lilienthal and his disciple Pilcher (Englishman) lost balance in the air, fell, and died. Simultaneously, in America, Professor Langley, starting in 1891, flew metal plates at various angles in the air and built his first model airplane, flying it about one mile. At this time, the ones who studied the problem of aerial balance and discovered the principle of the biplane were the Wright brothers, automobile merchants from Dayton city. They installed the then-developed gas engine (스긔관) in this biplane and, after many failures, succeeded in their historic adventure in 1903. Until this time, the Wright brothers had not informed the public about this experiment. However, once the news spread, the U.S. War Department immediately supported them, and on May 10, 1908, a test flight of the aircraft purchased by the U.S. government from the Wright brothers took place with great success. The records set at this time were one hour, twelve minutes, and forty seconds for endurance, and forty-two miles per hour for speed. Today's airplanes crossing the Atlantic at a speed of one hundred twenty miles per hour are the accumulation of countless efforts and sacrifices, but their principle is no different from the Wrights' biplane. Curtiss's monoplane and Zeppelin's airship were invented later. Today, sophisticated airplanes are used even in China's civil wars, and regular flights between Paris and London are just one example among many routes <71> in Europe and America. Among our people who have learned aviation skills, there are only Mr. An Ch'angnam (安昌男), who recently made a homeland visit flight, and six individuals who obtained degrees as international aviation engineers in California, USA.
+
+Manufacturing Industry and Others
+
+Economists say that the development of production tools determines the socioeconomic structure, and the development of production tools was faster in the 19th century than any previous era, and the 20th century seems poised to be even more intense than the 19th. The invention of the loom is often mentioned because it was a direct cause of the British Industrial Revolution, and the development of other weapons, etc., amazes people with their great destructive power. It's impossible to list all the details now, so here is a simple table listing important or curious items with their invention time and inventor.
+
+Automatic Spinning Machine 1769 Arkwright (Eng)
+Automatic Cotton Gin 1793 Whitney (USA)
+Sewing Machine Needle 1846 Howe (USA)
+Piano 1717 (Dresden region, Ger)
+Clock 1742 Harrison (Eng)
+Gas Lamp 1792 Murdoch (Eng)
+Thermometer Late 18th C. Fahrenheit (Neth)
+X-rays Early 19th C. Roentgen (Ger)
+Tunnel (Thames Tunnel) 1826-1843 Brunel (Eng)
+Photography 1802 Wedgwood (Eng)
+Blood Serum Injection 1880s (?) Pasteur (Fra)
+Machine Gun 1866 Raffaëlli? (Fra)
+Artificial Dyes 1856 Perkin (Ger?) [Note: Perkin was English]
+Guncotton 1846 Schönbein & Böttger (Ger)
+Dynamite 1862 Nobel (Swe)
+Bicycle 1854 Fischer (USA?) [Note: German Karl Drais invented Laufmaschine earlier, Fischer might refer to Pierre Lallement's pedal bicycle patent in US 1866, or Philipp Moritz Fischer's 1853 claim]
+Elevator 1852 Otis (USA)
+Typewriter 1843 Thurber? (USA) [Note: Charles Thurber patented one in 1843]
+Reaper 1831 McCormick (USA)
+Ice Machine 1860 Carré (USA?) [Note: Ferdinand Carré was French]
+Submarine 1775 Bushnell (Eng?) [Note: Bushnell was American]
+1858 Brun (USA?) [Note: Likely refers to French submarine Plongeur by Bourgeois and Brun, launched 1863]
+
+Telegraph, Telephone, Electric Light, Wireless
+
+The 20th century is called the Age of Electricity. The true Age of Electricity might still be for our descendants, but inventions utilizing electricity are something the 20th <72> century can be proud of. Among the great electrical inventions of the 20th century are Morse's telegraph, Dr. Bell's telephone, Edison's electric light, and Marconi's wireless. Among these four, apart from Marconi (Italian), all are Americans.
+
+Samuel Morse began with the study of electromagnetism and arrived at the invention of the telegraph. Graham Bell started from the study of acoustics and worked backward to electromagnetism to invent the telephone. Morse's telegraph first connected Washington and Baltimore in 1844, and Bell's telephone transmitted a human voice for the first time on April 10, 1876 [Note: March 10, 1876 is often cited]. His telephone was exhibited at the Philadelphia Centennial Exposition the following year and received a great welcome, but people still regarded it as merely a kind of toy. However, through Dr. Bell's subsequent decade-long court battles over patent rights and his unceasing efforts to popularize the telephone, he eventually achieved today's prosperity.
+
+Edison's first important invention was the telegraph repeater he made while working as a telegraph operator. Because of this repeater, telegrams that previously required over ten intermediate relays could be automatically connected. Next, he invented an automatic voting machine and took it to Congress, only to be rejected. At that time, the Speaker of the House reportedly said, "The machine is certainly not imperfect, but it is not needed in this Congress. Because voting in Congress is done amidst disorder and confusion, sometimes bad legislation can be prevented." Among his electrical inventions, besides his
+Simplex Quadruplex Telegraph
+Harmonic Multiplex Telegraph
+Transmitter
+and others, there is no story more interesting than that of his invention of the electric light. After discovering the principle of making a high-resistance metal wire glow, there were several months of sleepless experiments until he learned that carbon in a vacuum has a high boiling point. However, even after discovering that carbon, specifically carbonized bamboo, was the best, it is said he spent $100,000 just researching types of bamboo. On the day his carbon filament first emitted light, October 21, 1879, he and his assistants reportedly waited for forty hours without sleep for the light to go out. For the carbon filament to change to a tungsten filament, another ten-odd years of effort were required.
+
+Marconi obtained the patent for his first wireless telegraph device when he was twenty-one. The first person to notice the action of electric waves was Edison. In 1883,<73> he observed that his incandescent lamp could transmit electric power through a vacuum. Scientists Hertz and Maxwell explained this phenomenon mathematically and established the theory of electromagnetic waves. However, the person who utilized these waves to send the world's first wireless message must be counted as the aforementioned young Italian, Marconi. In 1896, he succeeded in transmitting signals over three miles by radio waves in England. From then, it took only four years to cross the Atlantic. In 1908, communication between Italy and Sicily over three hundred miles was successful, and in 1912, wireless telephony between Nauen, Germany, and Vienna, Austria, over three hundred fifty miles succeeded. In 1916, a telephone call originating from Washington reached Tokyo. Today, wireless telephony has become a great tool for the business world and, at the same time, a source of entertainment for the home. If wireless did not exist, the dangers of sea navigation could not have been reduced as they are today.
+
+Finally, inseparable from Edison's name are the phonograph and motion pictures. This old inventor is still healthy and pouring his energy into improving his numerous inventions and creating new ones. What he will produce in the future, we cannot predict beforehand.
+
+Conclusion
+
+When we look back at the history of invention, two things make the strongest impression.
+
+First is the infinite effort inventors put into making a single invention. Unfortunate ones sacrificed property, time, and even life for their inventions. If inventors are called geniuses, that genius comes from painstaking effort. And even if they fortunately avoided misfortune, it generally required a long time for their inventions to gain public recognition.
+
+Second is that for an inventor to invent one thing, they first had to build upon the results left by the struggles of their predecessors. And for that invention to reach perfection, countless brains, arms, and lives were consumed again. For a single airplane, a single submarine to come into existence, at least several hundred people expended the energy of their entire lives.
+
+Such infinite human energy brought about the development of the past century. What will this great energy produce in the next hundred years? No one can answer this. However, it is a fact that the attention of scientists and inventors is concentrating on the problems of fuel and food. Perhaps among us living now, there might be people who will directly heat their homes with solar rays and eat breakfast made from artificial white rice manufactured in factories. <74>
+
+**Summary**
+
+The article reflects on the explosion of scientific discovery and technological invention in the 19th century, tracing its roots to the Renaissance spirit and driven by societal needs like industrialization and imperialism. It highlights key inventions such as the steam engine (Watt, Parsons), steamboat (Fulton), locomotive (Stephenson), internal combustion engine (leading to automobiles and airplanes by the Wright Brothers), and various electrical innovations (telegraph by Morse, telephone by Bell, light bulb and phonograph by Edison, wireless by Marconi). The author emphasizes the immense effort, sacrifice, and cumulative nature of invention, concluding by speculating on future advancements focused on fuel and food. From the perspective of Korean colonial history, the article is revealing. Written by a prominent Korean intellectual, Chu Yohan, it contrasts Western dynamism with perceived East Asian stagnation (including Korea and China), expresses pride in Korea's past inventions (movable type, ironclad ships), and notes contemporary Korean engagement with technology (like aviator An Ch'angnam). This reflects a complex mix of admiration for Western progress, national pride in historical achievements, and perhaps an underlying aspiration for Korea to regain innovative momentum during a period of subjugation.
+
+**Named Entities**
+
+朱耀翰	주요한	Chu Yohan
+에듸슨	에디슨	Edison
+아인스타인	아인슈타인	Einstein
+러믄드 敎授	틴들 교수	Professor Tyndall
+구텐벨 그	구텐베르크	Gutenberg
+갈릴네오	갈릴레오	Galileo
+아크라이트	아크라이트	Arkwright
+팔릿시	팔리시	Palissy
+알렉산드리아	알렉산드리아	Alexandria
+헤로	헤론	Hero
+멜라풀타	델라포르타	della Porta
+파핀	파팽	Papin
+뉴컴멘	뉴커먼	Newcomen
+젬스와트	제임스 와트	James Watt
+倫敦	런던	London
+스코틀랜드	스코틀랜드	Scotland
+글래스고 大學	글래스고 대학	University of Glasgow
+팔슨스	파슨스	Parsons
+英	영국	England/Britain
+德	독일	Germany
+루시타니아	루시타니아	Lusitania
+풀톤	풀턴	Fulton
+美國	미국	USA
+法國政府	프랑스 정부	French Government
+巴里	파리	Paris
+클럴몬트	클러몬트	Clermont
+허드슨 江	허드슨 강	Hudson River
+華盛頓	워싱턴	Washington
+킴팅월트 炭礦	킬링워스 탄광	Killingworth Colliery
+졸지, 스티분슨	조지 스티븐슨	George Stephenson
+에르노아	르누아르	Lenoir
+오토	오토	Otto
+랭톤	랑겐	Langen
+델테	다임러	Daimler
+루안	루앙	Rouen
+라이트 兄弟	라이트 형제	Wright Brothers
+키티 흑	키티호크	Kitty Hawk
+팀러엔탈	릴리엔탈	Lilienthal
+피처	필처	Pilcher
+랑글레 敎授	랭글리 교수	Professor Langley
+데이튼 市	데이턴 시	Dayton City
+美陸軍省	미 육군성	U.S. War Department
+美國政府	미국 정부	U.S. Government
+커틔스	커티스	Curtiss
+쳅펠린	체펠린	Zeppelin
+中國	중국	China
+安昌男 君	안창남 군	Mr. An Ch'angnam
+加洲	가주	California
+화이트니	휘트니	Whitney
+하우	하우	Howe
+獨逸드레스덴地方	독일 드레스덴 지방	Dresden region, Germany
+해리슨	해리슨	Harrison
+물독	머독	Murdoch
+파렌하잇	파렌하이트	Fahrenheit
+荷蘭	화란	Netherlands
+렌트겐	뢴트겐	Roentgen
+부루넬	브루넬	Brunel
+웻지웃	웨지우드	Wedgwood
+파스터르	파스퇴르	Pasteur
+라파예	라파엘리?	Raffaëlli?
+페르킨	퍼킨	Perkin
+쇤비엔	쇤바인	Schönbein
+보트게르	뵈트거	Böttger
+노벨	노벨	Nobel
+瑞典	서전	Sweden
+피셔	피셔	Fischer
+오티스	오티스	Otis
+털버르	설버	Thurber
+매코믹	매코믹	McCormick
+카레	카레	Carré
+부쉬넬	부시넬	Bushnell
+부런	브룅	Brun
+몰스	모스	Morse
+벨 博士	벨 박사	Dr. Bell
+마르코니	마르코니	Marconi
+伊太利	이태리	Italy
+발티모어	볼티모어	Baltimore
+費府博覽會	비부 박람회	Philadelphia Centennial Exposition
+헬츠	헤르츠	Hertz
+맥스웰	맥스웰	Maxwell
+시실리	시칠리아	Sicily
+나웬	나우엔	Nauen
+奧國	오국	Austria
+위엔나	비엔나	Vienna
+東京	동경	Tokyo
+
+**Glossary**
+
+最近	최근	Recent(ly)
+百年間	백년간	Hundred years period
+發見	발견	Discovery
+發明	발명	Invention
+필자	필자	Author/Writer
+문예기타	문예기타	Literary miscellaneous (article type)
+物質文明	물질문명	Material civilization
+讚揚	찬양	Praise, admiration
+咀呪	저주	Curse
+驚嘆	경탄	Amazement, admiration
+範圍	범위	Scope, range
+包含	포함	Inclusion, containing
+關連	관련	Relation, connection
+時代	시대	Era, period
+延長	연장	Extension
+進步	진보	Progress, advancement
+紙面	지면	Paper space
+字典的	자전적	According to the dictionary
+區別	구별	Distinction, differentiation
+업던	없던	(Which) did not exist (older spelling of 없던)
+새로	새로	Newly
+지어내는 것	지어내는 것	Thing that is created/made up
+숨어잇던	숨어있던	(Which) was hidden (older spelling of 숨어있던)
+차저내는 것	찾아내는 것	Thing that is found/discovered (older spelling of 찾아내는 것)
+新大陸	신대륙	New World/Continent
+明燎	명료	Clear, distinct
+科學上	과학상	Scientifically, in terms of science
+密接	밀접	Close, intimate (relationship)
+命名	명명	Naming
+蒸氣	증기	Steam
+機關	기관	Engine, machine
+相對論	상대론	Theory of relativity
+學說	학설	Theory, doctrine
+說明	설명	Explanation
+위하야	위하여	For the sake of (older spelling of 위하여)
+그런고로	그런고로	Therefore (older form of 그러므로/그래서)
+歷史	역사	History
+不完全	불완전	Incomplete
+學術的	학술적	Academic, scholarly
+容赦	용사	Mercy, pardon (here: mercilessly)
+除外	제외	Exclusion
+안되게되엇습니다	안되게되었습니다	Became unavoidable (older spelling)
+醫學上	의학상	Medically, in terms of medicine
+發達	발달	Development, progress
+化學	화학	Chemistry
+應用	응용	Application
+擴張	확장	Expansion
+文化史上	문화사상	Culturally, in terms of cultural history
+産業的	산업적	Industrially
+地位	지위	Position, status
+省略	생략	Omission
+生理的進化	생리적진화	Physiological evolution
+心理的進化	심리적진화	Psychological evolution
+中止	중지	Stoppage, cessation
+形象	형상	Form, shape
+將來	장래	Future
+斷言	단언	Assertion, definite statement
+原始的機械	원시적기계	Primitive machinery
+階段	계단	Stage, step
+卽	즉	Namely, i.e.
+使用	사용	Use
+利用	이용	Utilization
+前史時代	전사시대	Prehistoric era
+始作	시작	Beginning, start
+今日	금일	Today
+史家	사가	Historian
+石器時代	석기시대	Stone Age
+靑銅器時代	청동기시대	Bronze Age
+區分	구분	Division, classification
+依支	의지	Reliance, dependence (older form of 의지)
+文字	문자	Writing, script
+想像	상상	Imagination
+時方	시방	Currently, now (dialectal/older form)
+世界各民族	세계각민족	Various peoples of the world
+上古時代	상고시대	Ancient times
+記錄	기록	Record
+우리나라	우리나라	Our country (Korea)
+古蹟調査	고적조사	Investigation of ancient sites
+民族	민족	People, nation, ethnic group
+漸次	점차	Gradually
+밝히는 것	밝히는 것	Act of revealing/clarifying
+意味	의미	Meaning, sense
+자랑	자랑	Pride, boast
+中古時代	중고시대	Middle Ages
+獨創	독창	Original creation, originality
+彈砲	탄포	Cannon
+活字	활자	Movable type
+鐵甲船	철갑선	Ironclad ship
+建築	건축	Architecture
+美術工藝	미술공예	Arts and crafts
+證據	증거	Evidence, proof
+로	때로	Sometimes, occasionally (older spelling of 때로)
+愉快	유쾌	Pleasant, delightful
+東洋	동양	The East, Orient
+西隣	서린	Western neighbor (China)
+中國民族	중국민족	Chinese people
+祖先	조선	Ancestor
+傳한	전한	Transmitted, passed down
+發展	발전	Development
+일허버렷습니다	잃어버렸습니다	Lost (older spelling of 잃어버렸습니다)
+守護主義者	수호주의자	Protectionist, conservative
+舊	구	Old things, tradition
+進取主義者	진취주의자	Progressive person
+西洋民族	서양민족	Western peoples
+싸핫습니다	쌓았습니다	Built up, accumulated (older spelling of 쌓았습니다)
+重要	중요	Important
+印刷機	인쇄기	Printing press
+天文鏡	천문경	Telescope
+織造機	직조기	Loom, weaving machine
+磁器	자기	Porcelain
+有名	유명	Famous
+文明	문명	Civilization
+利器	이기	Useful tool/instrument
+職	직	Duty, role
+晴雨計	청우계	Barometer
+寒暖計	한난계	Thermometer
+電池	전지	Electric battery
+時計	시계	Clock
+瓦斯燈	가스등	Gas lamp
+燈臺	등대	Lighthouse
+槪觀	개관	Overview
+最高速度	최고속도	Maximum speed
+達	달	Reach, attain
+原因	원인	Cause
+文藝復興	문예부흥	Renaissance
+古代學術	고대학술	Ancient scholarship/learning
+冒險的	모험적	Adventurous
+探索的精神	탐색적정신	Exploratory spirit
+基礎	기초	Foundation, basis
+科學的硏究	과학적연구	Scientific research
+隆興	융흥	Flourishing, rise
+全歐	전구	All of Europe
+實利的結實	실리적결실	Practical fruition/result
+各種機械	각종기계	Various kinds of machinery
+自然한 理致	자연한 이치	Natural logic/reason
+萬一	만일	If by chance, supposing
+切實	절실	Urgent, keen
+要求	요구	Demand, requirement
+中古封建制	중고봉건제	Medieval feudal system
+終	종	End
+中央集權	중앙집권	Centralization of power
+資本的帝國主義	자본적제국주의	Capitalist imperialism
+芽萌	아맹	Sprouting, budding
+繼한	계한	Following, succeeding
+生産狀態	생산상태	State of production
+支配	지배	Control, domination
+要하게됨으로	요하게됨으로	As it came to be required
+空前	공전	Unprecedented
+生活革命	생활혁명	Revolution in life
+航空器	항공기	Aircraft
+戰艦	전함	Warship
+火砲	화포	Artillery, cannon
+吾人	오인	We, us (formal/literary)
+世紀	세기	Century
+別名	별명	Nickname, alias
+轉機	전기	Turning point
+否認	부인	Denial
+生産	생산	Production
+交易	교역	Trade, commerce
+方法	방법	Method
+一大革命	일대혁명	A great revolution
+決코	결코	Never, by no means
+西曆紀元前	서력기원전	BCE (Before Common Era)
+凝結	응결	Condensation
+因한	인한	Caused by, due to
+眞空	진공	Vacuum
+물푸는 機械	물푸는 기계	Machine for drawing water (pump)
+事實	사실	Fact
+歷史上	역사상	Historically
+原理	원리	Principle
+再用	재용	Reuse
+活塞子	활새자	Piston
+運動	운동	Movement, motion
+工業	공업	Industry
+全혀	전혀	Entirely, completely (older spelling of 전혀)
+功	공	Merit, achievement
+數學器具	수학기구	Mathematical instruments
+故鄕	고향	Hometown
+어럿슬 에	어렸을 때에	When one was young (older spelling)
+물주전자	물주전자	Kettle
+작란하다가	장난하다가	While playing/mischief-making (older spelling)
+지람	꾸지람	Scolding, rebuke (older spelling)
+注意	주의	Attention
+技師	기사	Engineer
+破損	파손	Damage, breakage
+修繕	수선	Repair
+缺點	결점	Defect, flaw
+氣筩裝置	기통장치	Cylinder arrangement/device
+不完全	불완전	Imperfection
+內濳熱	내잠열	Latent heat (內潛熱)
+浪費	낭비	Waste
+달앗습니다	깨달았습니다	Realized (older spelling)
+凝結筩	응결통	Condenser (tube/cylinder)
+分離	분리	Separation
+虛費	허비	Waste, squander
+多部分	대부분	Most part, majority
+原動力	원동력	Prime mover, driving force
+긔계	기계	Machine (older spelling)
+今日	금일	Today
+完全	완전	Complete, perfect
+比較	비교	Comparison
+程度	정도	Degree, extent
+틀림	틀림	Difference, error
+根本理致	근본이치	Fundamental principle
+긔관	기관	Engine (older spelling)
+革命	혁명	Revolution
+터빈	터빈	Turbine
+壓力	압력	Pressure
+風車	풍차	Windmill
+돌리는	돌리는	Turning, rotating
+바람가티	바람같이	Like the wind
+一列	일렬	A row, a line
+板上	판상	On a plate/board
+불게하야	불게하여	By making it blow
+輪	륜	Wheel
+種類	종류	Kind, type
+優勝	우승	Superiority, victory
+海軍部	해군부	Naval Department
+試驗	시험	Test, experiment
+結果	결과	Result
+確定	확정	Confirmation, settlement
+海上	해상	On the sea
+새배	선박/배	Ship (older spelling/form of 선박/배)
+型	형	Type, model
+年前	년전	Years ago
+沈沒	침몰	Sinking
+太平洋航路客船	태평양항로객선	Pacific route passenger ship
+超弩級戰艦	초노급전함	Super-dreadnought battleship
+맨첨	맨 처음	Very first
+汽船	기선	Steamboat
+天壤	천양	Heaven and earth (vast difference)
+差	차	Difference
+一時間	일시간	One hour
+一哩速	일리속	Speed of one mile
+祖上	조상	Ancestor
+本是	본시	Originally
+환장	화공/화가?	Painter? (meaning uncertain in context, possibly 画匠)
+노릇	노릇	Role, job
+水雷艇	수뢰정	Torpedo boat
+硏究	연구	Research, study
+輪形	윤형	Wheel-shaped
+적개	노/패들?	Oar/paddle? (젓개 likely intended)
+저어가는	저어가는	Rowing, paddling
+模型	모형	Model
+實驗	실험	Experiment
+處女航海	처녀항해	Maiden voyage
+成功	성공	Success
+同時	동시	Simultaneously
+喜劇	희극	Comedy
+업듸여	엎드려	Prostrating (older spelling)
+怪物	괴물	Monster
+救援	구원	Salvation, rescue
+祈禱	기도	Prayer
+子孫	자손	Descendant
+鉄爪	철조	Iron claws
+사로잡힌	사로잡힌	Captured, ensnared
+强國	강국	Powerful nation
+處置	처치	Handling, disposal
+腦	뇌	Brain
+썩이고잇던것	썩이고있던것	Thing that was causing trouble/worry
+印象	인상	Impression
+아즉	아직	Still, yet (older spelling)
+남아잇슬줄압니다	남아있을줄압니다	Believe it still remains
+汽車	기차	Train (locomotive)
+젊은	젊은	Young
+技師	기사	Engineer
+試運轉	시운전	Test run
+긔관車	기관차	Locomotive (older spelling)
+맨들기	만들기	Making, building (older spelling)
+가량	가량	Approximately
+重量	중량	Weight
+모을고	모으고/몰고	Gathering/Driving (older spelling/form)
+十餘里	십여리	Over ten ri (approx. 4 km)
+動力	동력	Power
+費用	비용	Cost, expense
+馬力	마력	Horsepower
+다름업고	다름없고	No different from
+速度	속도	Speed
+것는말	걷는말	Walking horse
+지나지못하엿습니다	지나지못하였습니다	Did not exceed (older spelling)
+原始的	원시적	Primitive
+變하기지	변하기까지	Until changing (older spelling)
+無數	무수	Countless
+精力	정력	Energy, vitality
+時間	시간	Time
+內燃機關	내연기관	Internal combustion engine
+空氣	공기	Air
+動力	동력	Motive power
+瓦斯	가스	Gas
+爆發	폭발	Explosion
+飛行機	비행기	Airplane
+텀펜타인	터펜타인	Turpentine
+燃料	연료	Fuel
+登錄	등록	Registration
+記錄	기록	Record
+世人	세인	The public, people of the world
+提出	제출	Presentation, submission
+重輕油	중경유	Heavy/light oil
+늣게야	늦게야	Only later (older spelling)
+自働車	자동차	Automobile
+競走	경주	Race, competition
+施行	시행	Implementation, holding (an event)
+年年	연년	Yearly, annually
+競技	경기	Competition, match
+動機	동기	Motive, stimulus
+最近	최근	Recent(ly)
+三十年	삼십년	Thirty years
+法人	법인	French person (法人)
+가저다가	가져다가	Taking (older spelling)
+신속	신속	Rapid, swift
+改良	개량	Improvement
+第一	제일	Number one, first
+稱	칭	Title, name
+歷史上	역사상	Historically
+大發明	대발명	Great invention
+最初	최초	The very first
+飛行	비행	Flight
+擧行	거행	Holding (an event), carrying out
+새	새	Bird
+날개	날개	Wing
+試하야	시하여	Attempting (older spelling of 시험하여)
+難問題	난문제	Difficult problem
+空中	공중	In the air
+平衡	평형	Balance, equilibrium
+일치 안는 것	잃지 않는 것	Not losing (older spelling)
+弟子	제자	Disciple, student
+英人	영인	English person
+어저	떨어져	Falling (older spelling)
+죽엇습니다	죽었습니다	Died (older spelling)
+同時	동시	Simultaneously
+金屬板	금속판	Metal plate
+角度	각도	Angle
+날려보고	날려보고	Trying to fly
+模型飛行機	모형비행기	Model airplane
+맨들어	만들어	Making (older spelling)
+約一英里	약일영리	About one mile (英里)
+날럿습니다	날렸습니다	Flew (older spelling)
+雙葉飛行機	쌍엽비행기	Biplane (雙葉 - double leaf/wing)
+原則	원칙	Principle
+自働車商	자동차상	Automobile merchant
+當時	당시	At that time
+스긔관	가스기관	Gas engine (older spelling)
+中裝置	중장치	Central installation/device
+歷史的冒險	역사적모험	Historic adventure
+失敗	실패	Failure
+成功	성공	Success
+實驗	실험	Experiment
+알리지 안핫습니다	알리지 않았습니다	Did not inform (older spelling)
+所聞	소문	News, rumor
+퍼지자	퍼지자	As it spread
+援助	원조	Aid, support
+航空器	항공기	Aircraft
+試運轉	시운전	Test flight/run
+記錄	기록	Record
+持久	지구	Endurance
+速度	속도	Speed
+橫斷	횡단	Crossing, traversing
+犧牲	희생	Sacrifice
+ᄊᆞ힘이나	쌓임이나	Accumulation (older spelling of 쌓임이나)
+單葉飛行機	단엽비행기	Monoplane (單葉 - single leaf/wing)
+飛行船	비행선	Airship
+至於	지어	Even to the extent of
+內亂	내란	Civil war
+精銳	정예	Elite, sophisticated
+定期飛行	정기비행	Regular flight
+歐美各地	구미각지	Various places in Europe and America
+航路	항로	Route (air/sea)
+不過	불과	Merely, only
+技術	기술	Skill, technique
+故國訪問飛行	고국방문비행	Homeland visit flight
+萬國航空技師	만국항공기사	International aviation engineer
+學位	학위	(Academic) degree
+어든	얻은	Obtained (older spelling)
+製造工業	제조공업	Manufacturing industry
+其他	기타	Others, miscellaneous
+生産器具	생산기구	Tools of production
+社會經濟組織	사회경제조직	Socioeconomic structure
+決定	결정	Determination, decision
+經濟家	경제학자	Economist
+甚하려합니다	심하려합니다	Is likely to be severe/intense
+産業革命	산업혁명	Industrial Revolution
+近因	근인	Proximate cause, direct cause
+武器	무기	Weapon
+破壞力	파괴력	Destructive power
+偉大	위대	Greatness
+詳細	상세	Details
+重要	중요	Important
+珍奇	진기	Curious, rare
+表	표	Table, list
+自動紡績機	자동방적기	Automatic spinning machine
+自動綿彈機	자동면탄기	Automatic cotton gin
+裁縫針	재봉침	Sewing machine needle (or needle itself)
+血精注射	혈청주사	Blood serum injection
+機關銃	기관총	Machine gun
+人造染料	인조염료	Artificial dyes
+線火藥	선화약	Guncotton (綿火藥 - cotton powder)
+이나마이트	다이너마이트	Dynamite (older phonetic spelling)
+自轉車	자전거	Bicycle
+昇降機	승강기	Elevator (lift)
+打字機	타자기	Typewriter
+收穫機	수확기	Reaper, harvesting machine
+製氷機	제빙기	Ice machine
+潛水艦	잠수함	Submarine
+電信	전신	Telegraph
+電話	전화	Telephone
+電燈	전등	Electric light
+無線電	무선전	Wireless (radio/telegraphy)
+電氣時代	전기시대	Age of Electricity
+子孫代	자손대	Descendants' generation
+電氣利用	전기이용	Utilization of electricity
+電磁力	전자기력	Electromagnetic force
+聲學	성학	Acoustics
+逆行	역행	Moving backward, retrogressing
+電報	전보	Telegram
+通하엿고	통하였고	Connected, passed through (older spelling)
+목소리	목소리	Voice
+傳하엿습니다	전하였습니다	Transmitted (older spelling)
+翌年	익년	The following year
+出品	출품	Exhibition (of items)
+大歡迎	대환영	Great welcome
+바덧스나	받았으나	Received, but (older spelling)
+작난감	장난감	Toy (older spelling)
+밧게	밖에	Only, nothing but (older spelling)
+後	후	After
+約	약	Approximately
+十年間	십년간	Ten-year period
+發明權	발명권	Patent rights
+裁判	재판	Trial, court case
+普及	보급	Popularization, dissemination
+中斷	중단	Interruption, cessation
+努力	노력	Effort
+終來	종래	Eventually, in the end
+盛況	성황	Prosperity, thriving state
+電信技手	전신기수	Telegraph operator
+接續機	접속기	Repeater, connector
+十餘次	십여차	Over ten times
+中間連絡	중간연락	Intermediate relay/connection
+自働的	자동적	Automatically
+投票機	투표기	Voting machine
+國會	국회	National Assembly, Congress
+退却	퇴각	Retreat, rejection
+當하엿습니다	당하였습니다	Suffered, underwent (older spelling)
+國會議長	국회의장	Speaker of the National Assembly/House
+所用	소용	Use, need
+無秩序	무질서	Disorder, chaos
+混亂	혼란	Confusion
+不良	불량	Bad, poor
+立法	입법	Legislation
+防止	방지	Prevention
+單線四信電	단선사신전	Simplex Quadruplex Telegraph? (unclear term)
+調和複信電	조화복신전	Harmonic Multiplex Telegraph? (unclear term)
+送話機	송화기	Transmitter (telephone)
+滋味	자미	Interest, flavor (here: interesting)
+高低抗	고저항	High/Low resistance
+金屬線	금속선	Metal wire
+發光	발광	Emitting light, glowing
+原理	원리	Principle
+眞空中	진공중	In a vacuum
+炭素	탄소	Carbon
+高度	고도	High degree
+沸點	비점	Boiling point
+가지다	가지다	To possess, have
+알기지	알기까지	Until knowing (older spelling)
+數個月	수개월	Several months
+實驗	실험	Experiment
+참대	참대	Bamboo (specifically, true bamboo species)
+타친 것	태운 것	Burned thing, carbonized thing (older form of 태운 것)
+種類	종류	Kind, type
+硏究	연구	Research
+十萬弗	십만불	One hundred thousand dollars (弗 = dollar)
+허비하엿다합니다	허비하였다합니다	It is said that (he) wasted/spent (older spelling)
+炭素線	탄소선	Carbon filament
+光	광	Light
+助手	조수	Assistant
+時間동안	시간동안	During the time
+잠자지 아니하고	잠자지 아니하고	Without sleeping
+꺼지기를	꺼지기를	(For it) to go out/turn off
+긔둘럿다합니다	기다렸다합니다	It is said that (they) waited (older spelling)
+텅스텐 線	텅스텐 선	Tungsten filament
+必要	필요	Necessary
+登錄	등록	Registration (patent)
+어든 것	얻은 것	Thing that was obtained (older spelling)
+二十一歲	이십일세	Twenty-one years old
+되든 	되던 때	Time when (he) became (older spelling)
+電波	전파	Electric wave, radio wave
+作用	작용	Action, effect
+白熱燈	백열등	Incandescent lamp
+電力	전력	Electric power
+보내는 것을	보내는 것을	Act of sending
+觀察	관찰	Observation
+數學的	수학적	Mathematically
+說明	설명	Explanation
+세웟습니다	세웠습니다	Established (older spelling)
+곱을 수 밧게 업습니다	꼽을 수 밖에 없습니다	Cannot but count/point out (older spelling)
+送信	송신	Transmission (of signal)
+大西洋	대서양	Atlantic Ocean
+橫斷	횡단	Crossing
+겨우	겨우	Barely, only
+時日	시일	Time, days
+要하엿습니다	요하였습니다	Required (older spelling)
+三百英里	삼백영리	Three hundred miles
+無線電話	무선전화	Wireless telephone (radio telephone)
+三百五十英里	삼백오십영리	Three hundred fifty miles
+達하엿습니다	달하였습니다	Reached (older spelling)
+商業界	상업계	Business world
+利器	이기	Useful tool
+同時	동시	Simultaneously
+家庭	가정	Home, household
+娛樂物	오락물	Entertainment item
+航海	항해	Sea navigation
+危險	위험	Danger
+적어질 수	적어질 수	Can become less
+업섯슬 것외이다	없었을 것입니다	Would not have been (older spelling)
+마즈막으로	마지막으로	Finally, lastly (older spelling)
+잇지 못할 것	잊지 못할 것	Unforgettable thing (older spelling)
+留聲機	유성기	Phonograph
+活動寫眞	활동사진	Motion picture, movie
+老發明家	노발명가	Old inventor
+康健	강건	Healthy, robust
+數多	수다	Numerous, many
+發明品	발명품	Invented item
+改善	개선	Improvement
+新發明	신발명	New invention
+傾	경	Lean, devote (here: 기울이다)
+將次	장차	In the future
+무엇을	무엇을	What
+나흘지	낳을지	Will produce/give birth to (older spelling)
+推測	추측	Guess, speculation
+못됩니다	못됩니다	Cannot be done
+結束	결속	Conclusion (here: concluding remarks)
+돌아볼 에	돌아볼 때에	When looking back (older spelling)
+第一强하게	제일강하게	Most strongly
+印象	인상	Impression
+첫재	첫째	Firstly (older spelling)
+功力	공력	Effort, exertion
+無限	무한	Infinite, limitless
+不幸	불행	Unfortunate
+財産	재산	Property, wealth
+生命	생명	Life
+지	까지	Even, up to (older spelling)
+犧牲	희생	Sacrifice
+天才	천재	Genius
+刻苦勉勵	각고면려	Painstaking effort, assiduousness
+나온	나온	Came out from
+多幸	다행	Fortunately
+不運	불운	Misfortune
+아니 當하더라도	아니 당하더라도	Even if not encountering
+認定	인정	Recognition, acknowledgment
+밧기지는	받기까지는	Until receiving (older spelling)
+大槪	대개	Generally, mostly
+오랜 時間	오랜 시간	Long time
+둘재	둘째	Secondly (older spelling)
+物件	물건	Object, thing
+前代	전대	Previous generation
+애쓰고 남은	애쓰고 남은	Left after striving/effort
+結果	결과	Result
+가지고야하엿고	가지고야하였고	Had to have/use first (older spelling)
+無數	무수	Countless
+팔	팔	Arm
+消耗	소모	Consumption, expenditure
+潛航艇	잠항정	Submarine (潛航艇)
+생기려고	생기려고	In order for... to come into being
+적어도	적어도	At least
+數百	수백	Several hundred
+一生	일생	Entire life
+虛費	허비	Waste, vain expenditure
+이와가튼	이와같은	Like this, such (older spelling)
+일웟거니와	이루었거니와	Achieved, but also (older spelling)
+이알에 잇는	이 아래에 있는	Below this, following
+果然	과연	Indeed, sure enough
+나켓습니	낳겠습니까	Will produce/birth? (older spelling)
+對答	대답	Answer
+아모도	아무도	Nobody, anybody (older spelling)
+科學者	과학자	Scientist
+發明家	발명가	Inventor
+燃料問題	연료문제	Fuel problem
+食料問題	식료문제	Food problem
+集中	집중	Concentration
+살아잇는	살아있는	Living (older spelling)
+가운데는	가운데는	Among
+或	혹	Perhaps, maybe
+太陽光線	태양광선	Sunlight, solar rays
+直接	직접	Directly
+暖爐	난로	Stove, heater
+노코	놓고	Placing, setting up (older spelling)
+工廠	공장	Factory
+製造	제조	Manufacture
+人造白米	인조백미	Artificial white rice
+아츰	아침	Morning (older spelling)
+지어먹을	지어먹을	Will cook and eat
+사람이 잇슬는지도	사람이 있을는지도	Whether there might be people (older spelling)
+모를 것이올시다	모를 것입니다	Will not know (polite, older ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제31호
+발행일	1923년 01월 01일
+기사제목	最近百年間의 發見과 發明
+필자	朱耀翰
+기사형태	문예기타
+
+最近百年間의 發見과 發明
+						朱耀翰
+十九世紀와 그 物質文明, 그처럼 世界가 讚揚한것도 다시업섯스며,  그처럼 咀呪한 時代도 다시 업는 十九世紀의 科學, 機械, 人智, 그 偉大한 自然力의 利用, 이것은 勿論咀呪하는 이에게나 讚揚하는 이에게나 가티 驚嘆거리며  硏究거리외다. 그 硏究自身이 包含하는 範圍와 거긔 關連되는 題目의 範圍와 時代의 延長, 더구나 二十世紀初로 始하는 더 速한 進步를 생각하면, 몃 十日의 時間과 몃 十頁의 紙面으로 能히 이를 大略이라도다할수업습니다. 그러나 開闢子의 要求는 이 不可能한 일을 可能한대지하는 것으로 記者의 責任을 지웁니다.
+發見과 發見
+發見과 發明두말이 字典的으로볼는아조똑똑히 區別됩니다. 前에 업던 方法을 새로지어내는 것이 發明이오, 自然속에 숨어잇던 것을 차저내는 것이 發見이겟습니다. 콜럼버스가 新大陸을 發明치 아는 것은 에듸슨이 留聲機를 發見치 아는 것과 꼭가티 明燎합니다. 그러나 科學上의 發明을 發見과 넘우 密接한 한 關係가 잇기 문에 한가지 事件을 들어 發明이라 發見이라 命名하기가 힘듭니다. 蒸氣의 偉大한 힘을 發見치 못하고는 蒸氣機關을 發明할 수 업섯스며, 아인스타인의 相對論은 發見이라 하겟지마는  發明이라고도 못할 것이 아닙니다. (學說이란 것은 自然을 說明하기 위하야 지어내는 方法이라하니.)그런고로 發見이 歷史를 包含치 안는 發明의 歷史는 不完全할것이외다. 그러나 이 자리에서는 紙面과 時間의 關係로 지나간 一世紀의 學術的發見·進步에 關한 部分을 容赦업시 除外하지아흐면 안되게되엇습니다. 그 間의 醫學上發達及化學의 進步와 그 應用範圍의 擴張이 文化史上으로 보던지 産業的으로던지 매우 重要한 地位를 占하지마는 여긔는 거의 다 省略할 수 밧게 업습니다
+十九世紀前의 發明
+러믄드 敎授는 말하기를 사람의 生理的進化는 그 心＜67＞理的進化가 加速하는 同時에 中止되엇다하엿습니다. 사람의 形象이 將來에 더 進化가 될는지 아니될는지 斷言할 수는 업스나, 한가지 斷言할 수 엇는 것은 原始的機械의 發明이 人類進化의 큰 階段의 하나이라하는 것이외다 原始的機械 卽독기, 칼, 활촉 等의 使用과 불의 利用等은 歷史가 能히 記憶치 못하는 前史時代에 始作하엿스니, 今日史家가 太古時代를 石器時代, 靑銅器時代等으로 區分함은 이것에 依支함입니다. 文字의 發明이잇자 歷史가 始作되엇슬 것은 우리가 想像하야 알 수 잇습니다. 時方世界各民族中에 上古時代의 歷史的記錄이 잇는 것이 열에 차지를 못하는 가온대, 우리나라의 古蹟調査가 우리 民族의 上古文化를 漸次로 밝히는 것은 어떤 意味로 보아는 우리의 자랑이라고도 하겟습니다.
+다시나려와 中古時代의 發明으로 보더라도 우리 民族의 獨創이 彈砲, 活字, 鐵甲船等의 發明으로 나타낫고,  建築과 美術工藝의 發達이 남에게 지지안핫든 證據가 로 들어남은 우리의 大段히 愉快히 아는 바입니다, 그러나 東洋에 잇서서는 發明의 歷史가 이에 그칠수밧게 업습니다. 우리 民族 아니라 西隣의 中國民族도 꼭 가티 그 祖先의 傳한 發明을 더 發展하지 못할  아니라 이를 漸次로 일허버렷습니다. 이와가티 守護主義者가 그 舊를 일허버리는 동안에 進取主義者인 西洋民族은 그 舊를 일치안흘 아니라 거긔 十百을 加하야 今日의 文明을 싸핫습니다.
+十九世紀에 들어오기 전에 벌서 여러 가지 重要한 發明이 잇는 것을 봅니다 구텐벨 그의 印刷機, 갈릴네오의 天文鏡, 아크라이트의 織造機, 팔릿시의 磁器가튼 것은 이미 有名한 이약이 거리가 된 것이오, 그밧게도 十七, 十八兩世紀의 發明으로 今日지 文明의 利器인 職을 다하는 것이 만습니다. 例를 들자면, 晴雨計, 寒暖計, 폼푸, 電池, 피아노, 時計, 瓦斯燈 燈臺等等
+十九世紀槪觀
+이와가티 漸次로 發達되면 物質文明은 十九世紀에 이르러 그 最高速度에 達하엿습니다. 이 物質的進步의 原因을 캐자면 멀리 十五世紀의 文藝復興으로 올라가지안흘수 업습니다. 文藝復興中에도 그 復興된 古代學術이 重要한 것이 아니라 復興의 一種冒險的, 探索的精神 그것이 後代의 科學進步의 基礎를 세운 것입니다. 이 科學的硏究의 隆興이 世紀를 딸하 全歐에 피지는 同時의 그 科學의 實利的結實이 各種機械의 發明으로 나타날 것은 自然한 理致외다. 그러나 萬一科學의 進步가 時代의 切實＜68＞한 要求를 가지지 안핫던들 그 偉大한 發明을 나치 못하엿슬것입니다. 마츰 이 에 中古封建制가 그 終을 告하고 中央集權과 資本的帝國主義가 그 芽萌함에 機械的發明에 對한 要求가 날로 더하고, 發明을 繼한 發明이 다시 그 生産狀態를 支配하야 더 만흔 發明을 要하게됨으로 그 한 世紀동안에 空前의 發明, 딸하서 空前의 生活革命을 일우엇습니다. 이리하야 蒸氣機關이 생기고, 瓦斯機關, 航空器, 戰艦, 火砲의 發達이 잇슨 것입니다. 이리하야 吾人의 生한 이 世紀는 다시 電氣世代의 別名을 가지게 되려 합니다.
+蒸氣의利用(와트·팔슨스)
+蒸氣機關의 發明이 現代文明의 轉機인 것은 누구나 否認하지 못할 것입니다. 그것이 發明된 後로 生産, 交易의 方法이 一大革命을 일우엇습니다. 그러나 蒸氣의 利用은 決코 現代에 始作된 것이 아닙니다. 西曆紀元前一三○年에 알렉산드리아의 헤로라는 사람이 水蒸氣의 凝結로 因한 眞空을 利用하야 물푸는 機械를 부린 事實이 歷史上에 잇습니다. 다시 나려와 十七世紀에 멜라풀타가 이 原理를 再用하엿고, 十八世紀初에 파핀과 뉴컴멘이 活塞子(피스톤)의 運動을 水蒸氣凝結로부터는 機械를 發明하엿습니다.
+그러나 蒸氣機關이 工業의 革命을 이르킬만하게 發達된 것은 全혀 젬스와트의 功이라하겟습니다. 젬스와트는 一七三六年에 나서 倫敦서 數學器具만드는 法을 배화가지고 一生을 自己故鄕스코틀랜드에서 지낫습니다, 그가 어럿슬 에 물주전자에서 나오는 蒸氣를 가지고 작란하다가 그 어머니에게 지람 당한 이약이는 누구나 압니다. 그가 蒸氣機關에 注意하게 되기는, 글래스고 大學技師로 잇슬 에 뉴코멘 機關이 破損되어 修繕하기 위하야 그의 손에 왓슬 부터입니다. 그는 그 機關을 硏究한 結果 그 缺點이 氣筩裝置의 不完全으로 蒸氣의 內濳熱의 五分之四가 浪費되는데 잇슴을 달앗습니다. 그래 그는 凝結筩을 폼푸에서 分離하엿습니다. 이것이 實로 蒸氣機關의 큰 進步이엇습니다. 그 分離된 凝結筩으로 因하야 前에 虛費되던 蒸氣力의 多部分을 利用할 수 잇게 되어 工業上의 大原動力이 되엇습니다. 그러나 와트의 처음 긔계와 오늘날 完全한 긔계를 비교하면 그 完全한 程度에 큰 틀림을 發見할 것입니다. 그것을 그 完美한데 이르게 하기지는 여러 사람의 腦와 精力이 消費된 것입니다. 그러나 그 根本理致에 들어서는, 와트의 긔관과 今日의 긔관이 다를 것이 업습니다, ＜69＞
+그러나 蒸氣긔관은 다시 큰 革命을 기다리고 잇섯습니다. 一八八四年에 팔슨스가 蒸氣터빈을 發明하엿습니다. 터빈이라 함은 水蒸氣의 壓力을 風車를 돌리는 바람가티 一列의 板上에 불게하야 輪을 돌리는 種類의 긔관을 가르키는 것입니다. 그 긔관의 優勝함은 大戰前에 英德各國海軍部에서 試驗한 結果로 確定되엇습니다. 今日海上에뜬새배의 大分은 터빈 型입니다. 年前에 沈沒한 루시타니아는 터빈 型船의 가장 큰 者의 하나입니다.
+톤의 蒸氣船
+今日의 太平洋航路客船이나, 超弩級戰艦을 풀톤의 맨첨汽船에비기면天壤에差아니나그의一時間一哩速의「클럼몬트 號가今日各色汽船의祖上임은否認할수업습니다. 라벗, 풀톤은本是美國사람으로倫敦에서환장노릇도한일이잇고法國政府의請으로水雷艇의硏究를한일도잇습니다. 그는一八○三年에巴里에서이미輪形적개로저어가는汽船의模型을實驗하엿습니다. 一八○六年에그는英國蒸氣긔관을사가지고美國으로돌아와그의처음배「클럴몬트」를짓기시작하엿습니다. 이배는一八○七年八月九日에落成되어同十七에「허드슨」江에서그處女航海를하엿습니다. 그處女航海는完全한成功인同時에여러가지喜劇이가티생겻습니다. 그배의가는것을보고땅에업듸여저怪物에게救援해달라고祈禱한사람이만핫다합니다. 一世紀가지난오늘에도 클릴몬트 의수업슨子孫의鉄爪에사로잡힌强國들이華盛頓에모여서그怪物處置에腦를썩이고잇던것은여러분印象에아즉남아잇슬줄압니다
+스티분의 汽車
+킴팅월트炭礦의젊은技師졸지, 스티분슨이그의첫번긔관車를試運轉한날이一八一四年七月二十五日입니다 이긔관車는맨들기에열달가량들엇고三十톤의重量을모을고한시간에十餘里를가는動力을가젓습니다. 그車使用에드는費用은馬力에드는費用이나다름업고 그速度도것는말의 速度에지나지못하엿습니다 이「原始的」긔관 車가 今日의한시간百哩가는긔관으로變하기지는  無數한 사람의 精力과 百餘年에 시간이 들엇습니다.
+內燃機關의 發明과 發達
+內燃긔관이라 함은 空氣를 動力삼아 瓦斯의 爆發로 運動하는 긔관을 가르칩니다. 만일이 發明이 업섯던들 오＜70＞늘날 飛行機의 발달이 저가티 크지 못하엿슬 것입니다 텀펜타인을 燃料로 하는 긔관이 一七九四年에 英國서 登錄된 記錄이 잇습니다. 그러나 內燃機關이 世人의 눈을 끌게 된 것은 一八六○年 에르노아의 發明과 一八六七年巴里展覽會에 오토, 랭톤 兩人이 스긔관을 提出한 부터 입니다. 重輕油를 燃料로 하는 긔관은 더 늣게야 發明되엇습니다. 一八八五年에는 法國의 델테가 이 긔관을 利用하야 自働車를 發明하엿습니다. 一八九四年에 巴里에 서루안지 自働車競走가 처음 施行되고, 그 뒤로 거의 年年이 各國에 이런 競技가 시작되어 自働車發達의 큰 動機가 되엇습니다. 最近三十年에 와서 美國사람이 法人의 發明을 가저다가 신속한 改良을 加하야 오늘날 自働車第一만흔 나라의 稱을 가지게 되엇습니다.
+라이트兄弟의 飛行機
+그러나 內燃機關을 利用하야 歷史上의 大發明을 한 사람은 다시 말할 것 업시 라이트 兄弟이겟습니다. 그들의 最初의 飛行은 一九○三年十二月十七日에 키티
+흑에서 擧行되엇습니다. 이보다 먼저 德國에서는 팀러엔탈이 새의 날개를 硏究하야 飛行을 試하야 그 原理를 發見하엿습니다. 그러나 第一難問題는 空中에 올라가 平衡을 일치 안는 것이엇습니다. 팀러엔탈과 그의 弟子피처(英人)는 둘다 空中에서 平衡을 일허 어저 죽엇습니다 이와 同時에 美國서는 랑글레 敎授가 一八九一年에 金屬板을 여러 가지 角度로 空中에 날려보고 그의 最初의 模型飛行機를 맨들어 約一英里를 날럿습니다. 이 에 空中平衡의 問題를 硏究하야 雙葉飛行機의 原則을 發見한이가곳데이튼 市自働車商 라이트 兄弟입니다. 그들은 이 雙葉機에다 當時發達이 스긔관을 中裝置하고 一九○三年에 그 歷史的冒險을 여러번 失敗後에 成功하엿습니다. 이지 라이트 兄弟는 이 實驗을 世人에게 알리지 안핫습니다. 그러나 한번 이 所聞이 퍼지자 美國陸軍省은 곳 그들을 援助하야 一九○八年五月十日에 美國政府가 라이트 兄弟에게 산 航空器의 試運轉이 잇서 크게 成功하엿습니다. 이에 지는 記錄이 持久로 한시간 十二分四十秒이오, 速度로는 一時間四十二英里이엇습니다. 今日大西洋을 一時間百二十英里의 速度로 橫斷하는 飛行機는 無數한 精力과 犧牲의 ᄊᆞ힘이나 그 原理에 이르러서는 라이트의 雙葉과 다를 것이 업습니다. 커틔스의 單葉飛行機와 쳅펠린의 飛行船은 더 늣게 發明되엇습니다. 今日은 至於中國의 內亂에지 精銳한 飛行機가 使用되고, 巴里倫敦間의 定期飛行은 歐美各地에 만흔＜71＞ 航路의 一例에 不過합니다. 우리 사람으로 飛行術을 배운 이는 近者에 故國訪問飛行을 하는 安昌男君과 美國加洲에서 萬國航空技師의 學位를 어든 六人이 잇슬입니다.
+製造工業其他
+生産器具의 發達이 社會經濟組織을 決定한다함은 經濟家의 말이어니와, 生産器具의 發達은 十九世紀만큼 빠른 時代가 前에 업섯고 二十世紀는 十九世紀보다도 더 甚하려합니다. 織造機의 發明은 그것이 英國産業革命의 近因이 되기 문에 世人에 입에 늘 오르며 其他武器의 發達가튼 것은 그 破壞力의 偉大함으로 世人의 驚嘆을 삼니다. 이제 그 詳細를 다들 수 업고 重要한 者或은 珍奇한 것을 들어 그 發明한 와 사람을 合하야 簡單한 表를 만들엇습니다.
+自動紡績機 一七六九年 아크라잇(英)
+自動綿彈機 一七九三年 화이트니(美)
+裁縫針 一八四六年 하우(美)
+피아노 一七一七年 (德國드레스덴地方)
+時計 一七四二年 해리슨(英)
+瓦斯燈 一七九二年 물독(英)
+寒暖計 十八世紀末 파렌하잇(荷蘭)
+엑스光線 十九世紀初 렌트겐(德)
+隧道(템소털넬) 一八二六-一八四三年 부루넬(英)
+寫眞術 一八○二年 웻지웃(英)
+血精注射 一八八○年(?) 파스터르(法)
+機關銃 一八六六年 라파예(法)
+人造染料 一八五六年 페르킨(德)
+線火藥 一八四六年 쇤비엔·보트게르(德)
+이나마이트 一八六二年 노벨(瑞典)
+自轉車 一八五四年 피셔(美)
+昇降機 一八五二年 오티스(美)
+打字機 一八四三年 털버르(美)
+收穫機 一八三一年 매코믹(美)
+製氷機 一八六○年 카레(美)
+潛水艦 一七七五年 부쉬넬(英)
+一八五八年 부런(美)
+電信·電話·電燈·無線電
+二十世紀는 電氣時代이라합니다. 참 電氣時代는 아즉 우리 子孫代의 일이려니와 電氣利用의 發明은 二十世＜72＞紀가 能히 자랑할만합니다. 二十世紀電氣發明中에 큰 것은 몰스의 電信機 벨 博士의 電話機 에듸슨의 電燈, 마르코니의 無線電等입니다. 네사람 中에 마르코니(伊太利) 하나 내노코는 다 美國人입니다.
+電磁力의 硏究로 始하야 電信의 發明에 이른 이는 샘유엘, 몰스이오, 聲學의 硏究로부터 電磁力으로 逆行하야 電話를 發明한 이는 그테함, 벨입니다. 몰스의 電報는 一八四四年에 華盛頓, 발티모어 間에 첨으로 通하엿고, 벨의 電話는 一八七六年四月十日에 처음으로 사람의 목소리를 傳하엿습니다. 그의 電話機는 翌年費府博覽會에 出品되어 大歡迎을 바덧스나 世人은 그냥 이 電話機를 一種의 작난감으로 밧게 보지 안핫습니다. 그러나 벨 博士의 그 後約十年間發明權에 對한 裁判과 電話普及에 對한 中斷업는 努力으로 終來는 今日의 盛況을 일우엇습니다.
+에듸슨의 最初의 重要한 發明은 그가 電信技手로 잇슬네 한 電信接續機입니다. 이 接續機가 잇기 문에 前에 十餘次나 中間連絡을 하여야 되던 電報가 自働的으로 接續되게 되엇습니다. 그 다음에 그는 自働投票機를 發明하야 國會에 가저갓다가 退却을 當하엿습니다. 그 에 國會議長이 말하기를「그 긔계가 勿論完全치 안흔 것은 아니나. 이 國會에는 所用이 업다. 國會의 投票는 無秩序하고 混亂한 가운데서 하기 문에 로 不良한 立法을 防止할 수 잇다」하엿다합니다. 그의 電氣에 對한 發明中에는 그의
+單線四信電
+調和複信電
+送話機
+其他만치마는 그 中 가장 滋味잇는 이약이는 그의 電燈의 發明外에 업슬것입니다. 그가 高低抗의 金屬線으로 發光케 하는 原理를 發見한 뒤로 眞空中의 炭素가 高度의 沸點을 가진 것을 알기지 數個月의 잠못자는 實驗이 잇섯습니다. 그러나 炭素, 炭素中에도 참대를 타친 것이 第一인 것을 알린 뒤에도 참대의 種類를 硏究하는데만 十萬弗의 돈을 허비하엿다합니다. 그의 炭素線이 처음으로 光을 發한날 一八七九年十月二十一日 그와 그의 助手는 四十時間동안을 잠자지 아니하고 그 光線의 꺼지기를 긔둘럿다합니다. 炭素線이 텅스텐 線으로 變하기지는  十數年의 努力이 必要하엿습니다.
+마르코니가 그 最初의 無線電信器의 登錄을 어든 것이 그의 二十一歲되든 입니다. 電波의 作用을 처음으로 注意한 이는 에듸슨이엇습니다. 그는 一八八三年의 그＜73＞의 白熱燈이 能히 眞空을 通하야 電力을 보내는 것을 觀察하엿습니다. 헬츠 及맥스웰두 科學者가 이 作用을 數學的으로 說明하야 電波說을 세웟습니다. 그러나 이 電波를 利用하야 世界最初의 無線電을 보낸 이는 이제 말한 伊太利靑年르코니를 곱을 수 밧게 업습니다. 그는 一八九六年에 英國서 三英里를 電波로 送信하는데 成功하엿습니다 그부터 大西洋을 橫斷하기지 겨우 四年의 時日을 要하엿습니다. 一九〇八年에는 伊太利시실리 間三百英里를 成功하고, 一九一二年에는 德國 나웬과 奧國 위엔나 間三百五十英里의 無線電話가 成功하엿습니다 一九一六年에는 華盛頓서 發한 電話가 東京에 達하엿습니다. 今日레는 無線電話가 商業界의 큰 利器가 되는 同時에 家庭의 娛樂物이 되엇습니다. 만일 無線電이 업섯던들 航海의 危險이 今日가티 적어질 수 업섯슬 것외이다
+마즈막으로 에듸슨의 이름과 가티 잇지 못할 것은 留聲機活動寫眞이겟습니다. 이 老發明家는 아즉도 康健하야 그 數多한 發明品의 改善과 新發明에 精力을 기울이고 잇습니다. 그가 將次 무엇을 나흘지는 우리가 미리 推測할 바 못됩니다.
+結束
+우리가 發明의 歷史를 돌아볼 에 第一强하게 印象되는 것이 두가지 잇습니다.
+첫재는 發明家가 한가지 發明을 하는데 쓰는 功力의 無限한 것입니다. 不幸한 이는 發明을 위하야 財産·時間·生命지 犧牲하엿습니다. 發明家를 天才라 하면 그 天才는 刻苦勉勵하는데서 나온 天才입니다.  多幸히 不運을 아니 當하더라도 그 發明이 世人의 바튼 認定을 밧기지는 大槪오랜 時間을 要求하엿습니다.
+둘재는 發明家가 한가지 物件을 發明하는데 먼저 그 前代의 애쓰고 남은 結果를 가지고야하엿고,  그 發明이 完全한데 이르기지에는 다시 無數한 腦와 팔과 生命이 消耗되엇습이외다. 一個의 飛行機, 一個의 潛航艇이 생기려고 적어도 數百의 사람이 그 一生의 精力을 虛費한 것입니다.
+이와가튼 無限한 人類의 精力이 지나간 一世紀의 發達을 일웟거니와 이알에 잇는 百年에는 다시 그 偉大한 精力이 果然무엇을 나켓습니. 이를 對答할 사람은 아모도 업습니다. 그러나 科學者와 發明家의 注意가, 燃料問題, 食料問題에 集中되는 것은 事實입니다. 지금 살아잇는 우리 가운데는 或太陽光線으로 直接暖爐를 노코 工廠에서 製造한 人造白米로 아츰을 지어먹을 사람이 잇슬른지도 모를 것이올시다. ＜74＞
+＜67-74＞

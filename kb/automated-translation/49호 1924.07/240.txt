@@ -1,0 +1,48 @@
+Magazine Title: 개벽 제49호
+Publication Date: 1924년 07월 01일
+Article Title: 在京新聞雜誌 差押回數 (Number of Seizures of Newspapers and Magazines in the Capital)
+Author: Not Specified
+Article Type: 잡저 (Miscellaneous writing)
+
+Number of Seizures of Newspapers and Magazines in the Capital
+The above figures are limited to the period from Taishō 11 (1922) to May of Taishō 13 (1924); besides these, the suppression incidents (筆禍事件) involving *Sinsaenghwal* and *Sinch'ŏnji* still remain in the public's memory (世人).
+＜106＞
+
+**Summary**
+
+This short piece notes the period (1922 to May 1924) for which seizure counts of Seoul-based newspapers and magazines were compiled (though the counts themselves aren't given here). It explicitly mentions the well-remembered suppression incidents involving the magazines *Sinsaenghwal* and *Sinch'ŏnji* as additional examples beyond the statistics. The article serves as a brief reference to the ongoing censorship and suppression faced by the Korean press under Japanese colonial rule. Historians might find it useful as contemporary evidence acknowledging the climate of censorship and specifically naming publications known to have faced suppression (筆禍事件).
+
+**Named Entities**
+
+在京	재경	In the Capital (referring to Seoul)
+대정	대정	Taishō
+新生活	신생활	Sinsaenghwal
+新天地	신천지	Sinch'ŏnji
+世人	세인	The public
+
+**Glossary**
+
+在京	재경	In the capital (Seoul)
+新聞雜誌	신문잡지	Newspapers and magazines
+差押回數	차압회수	Number of seizures/confiscations
+대정	대정	Taishō (Japanese era name, 1912-1926)
+限한	한한	Limited to (Older grammatical form of 제한한)
+此外에	차외에	Besides this; In addition to this
+筆禍事件	필화사건	"Writing calamity incident"; censorship incident or trouble caused by published writing
+世人	세인	The public; people of the world
+아즉까지	아직까지	Still; until now (Older spelling)
+잔존하얏다	잔존하였다	Remained; persisted (Older spelling/conjugation)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제49호
+발행일	1924년 07월 01일
+기사제목	在京新聞雜誌 差押回數
+기사형태	잡저
+
+在京新聞雜誌 差押回數
+在京新聞雜誌 差押回數
+이상은 대정 11년부터 동 13년 5월까지에 限한 것이어니와 此外에 新生活, 新天地의 筆禍事件은 世人의 기억이 아즉까지 잔존하얏다.
+＜106＞

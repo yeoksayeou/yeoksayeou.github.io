@@ -1,0 +1,854 @@
+Magazine Title 개벽 第64호
+Publication Date 1925년 12월 01일
+Article Title 全羅北道踏査記 (Field Survey Report of North Chŏlla Province)
+Author 特派員 車相瓚 (Special Correspondent Ch'a Sangch'an)
+Article Type 기행문 (Travelogue)
+
+全羅北道踏査記
+						特派員 車相瓚
+A Comprehensive View of North Chŏlla Province, Comprising One Prefecture and Fourteen Counties
+A Long History of Over 3,000 Years
+
+This province, originally the ancient land of Pyŏn Han and Ma Han, was integrated by Paekche, which established Wansan-ju, Mujin-ju, and 99 other prefectures, counties, and districts. In the 59th year of King Ŭija, it was conquered by King Muyŏl of Silla and Tang Gaozong, temporarily falling under the jurisdiction of the Protectorate-General. Soon after, it completely reverted to Silla, and in the 16th year of King Kyŏngdŏk, it was divided into Chŏnju and 102 other prefectures, counties, and districts. Furthermore, in the 5th year of Queen Chinsŏng, Kyŏnhwŏn reclaimed the former territory of Paekche, called it Hubaekche, and established the capital in Chŏnju. However, during the reign of his son Sin'gŏm, it was eventually conquered by Koryŏ T'aejo. Later, in the 14th year of King Sŏngjong, it was divided into two provinces: the prefectures and districts such as Chŏnju, Yŏngju, Sunju, and Maju were called Kangnam-do, while the prefectures and districts such as Naju, Kwangju, Chŏngju, Sŭngju, T'aekchu, and Nangju were called Haeyang-do. In the 9th year of King Hyŏnjŏng, they were merged again and first named Chŏlla-do. During the reign of King Injo of the Yi Dynasty, it was divided into Chŏllam-do and Kwangnam-do, but soon reverted to Chŏlla-do. In the 4th year of King Yŏngjo, it was temporarily renamed Chŏlgwang-do, but restored to its old name in the 14th year of the same reign. The provincial governor's office was established in Chŏnju, governing 1 prefecture, 4 districts (牧), 6 protectorates (都護府), 11 counties, and 34 districts (縣). In the 32nd year of Emperor Kojong, Chŏnju, Namwŏn, Naju, and Cheju were promoted to prefectures (府), and governors were appointed. However, this system was soon abolished, and the province was divided into North and South Chŏlla Provinces. For this province (North Chŏlla), the governor was stationed in Chŏnju, governing 26 counties. In September of the 10th year of Kwangmu, Kurye County was incorporated into North Chŏlla Province, and Pŏlchang, Hŭngdŏk, and Koch'ang three counties were transferred to this province. In the same year, Okku County was changed to a prefecture (府). Then, as a result of the Japan-Korea annexation on August 29, Meiji 43 (1910), the official system was changed again, placing a director (長官) in charge of the province. In the 3rd year of Taishō (1914), during the county consolidation, Ch'ungch'ŏng Namdo was changed, and the provincial director was renamed Governor (知事), leading to the present day.
+Kunsan (Prefecture), Chŏnju, Chinan, Changsu, Kŭmsan, Muju, Imshil, Namwŏn, Sunch'ang, Chŏngŭp, Koch'ang, Puan, Kimje, Okku, Iksan,
+
+North and South Chŏlla Provinces
+
+Location, Boundaries, Topography <86>
+
+This province is located in the southwestern part of our Korean peninsula (longitude 125° 50' - 127° 54' East, latitude 35° 10' - 36° 16' North), extending 60 Japanese *ri* east-west and 49 Japanese *ri* north-south, with an area of 553 square *ri*. It borders Ch'ungch'ŏng North and South Provinces to the north, Kyŏngsang North and South Provinces to the east, and Chŏlla South Province to the south. The northern area largely faces a part of Ch'ungch'ŏng South Province across the Kŭm River, while the rest is generally demarcated by mountains (山缶 - likely 山脊 meaning mountain ridges). The western area controls the Man'gyŏng and Tongjin Rivers and faces the Yellow Sea.
+Regarding topography, the main mountain range of the peninsula runs southwest from the eastern border of this province with Kyŏngsang North and South Provinces. Its branch becomes Tŏgyu Mountain (southern branch of Songni Mountain) in Changsu County. Its southern range diverges, running northwest, then splits into two systems again southeast of Chŏnju. One becomes the Moak Mountain range, connecting south to the Noryŏng Pass, and the other runs north into Ch'ungch'ŏng North and South Provinces. Therefore, the eastern part has overlapping mountains, including high peaks such as Panyabong, Manbokbong, Hwanbong (part of the Chiri Mountain system, located in Namwŏn), Tŏgyu, Chang'an (Changsu County), Taedŏk, Hŭngdŏk, Minjuji (Muju County) (elevation 4,000 to 5,700 feet). Tributaries of major rivers like the Kŭm, Sŏmjin, and Naktong all originate here, meandering and winding, making the terrain extremely rugged. The main rivers are the Kŭm River, Man'gyŏng River, and Tongjin River. (1) The Kŭm River collects streams from the northeastern part of this province and the southern plains of Ch'ungch'ŏng North Province, flows through the center of Ch'ungch'ŏng South Province, reaches the border of this province, and enters the sea to the southwest. Within its 1,020-*ri* length, 330 *ri* are navigable. On the south bank of its estuary lies the famous Kunsan Port. (2) The Man'gyŏng River originates in Hwasan-myŏn, Chŏnju, flows through the fertile plains of Chŏnju, Iksan, and Kimje, and empties into the West Sea. Its course is 250 *ri* long, and the 120-*ri* stretch near the estuary is navigable. (3) The Tongjin River originates in San'oe-myŏn, Chŏngŭp County, extends over 110 *ri*, flows through the three counties of Kimje, Chŏngŭp, and Puan, and enters the sea to the west.
+As described above, due to the mountain ranges and rivers of this province, the eastern and southern halves have many high peaks and steep ridges, but the western part gradually slopes down, forming a vast plain (沃地) extending 120 *ri* east-west and 200 *ri* north-south. This is the Chŏnju Plain, the main rice-producing area of Korea, traditionally called the greatest treasure trove (寶庫) of the three southern provinces (三南). Next, the coastline stretches from south of Kunsan Port to Sangha-myŏn in Koch'ang County, extending for 241 *ri* (along the coasts of Kunsan, Kimje, Puan, and Koch'ang Counties). It has many indentations with long sandy beaches and curved inlets. In the nearby sea, there are 61 islands and islets, including Yŏndo, Ŏch'ŏngdo, Kogunsan Archipelago, Kaeyado, Wŏlmyŏngdo (筨篒?), Kyehwado, and Piŭngdo, forming excellent fishing grounds. Therefore, the entire coastal area has long been famous for its abundant fish and salt resources.
+
+What about the climate? <87>
+
+The climate differs somewhat between the mountainous areas and the plains. It is generally mild, with an average temperature of 12.2°C, a maximum of 35.3°C, and a minimum of -15.3°C. The temperatures in Kunsan and Chŏnju are not significantly different from Taegu. Rainfall and snowfall amounts are also not vastly different from Kyŏngsŏng, Wŏnsan, Kangnŭng, and the entire southern coastal region, but seem generally higher compared to other regions. Comparing this to Tōkyō, Japan, Chŏnju receives about 270mm less precipitation. The evaporation rate is 1287mm; Chŏnju and Kunsan have about 580mm more evaporation than Tōkyō. The first frost usually occurs in mid-to-late October, and the last frost in mid-to-late April. In summary (摠而言之), the climate of this province is very favorable, suitable for the growth of various agricultural and forest products, and conducive to human and animal life.
+
+Total Households and Population within the Province
+According to the household survey at the end of Taishō 12 (1923), the total number of households in the province is 248,281. Among these, Koreans account for 241,330 households, Japanese for 6,466 households, and other foreigners for 485 households. The total population is 1,251,173. Among Koreans, there are 635,762 males and 589,844 females, totaling 1,225,606. Among Japanese, there are 12,619 males and 11,475 females, totaling 24,094. Among foreigners, there are 1,354 males and 119 females, totaling 1,473. This averages to 448 households and 2,262 people per square *ri*. A detailed breakdown by prefecture and county is shown in the table below. [Table not included in provided text]
+
+Korean Education and Japanese Education
+Educational institutions for Koreans in the province consist of three types: common education, vocational education, and teacher training education. For common education, there are a total of 101 public common schools (38 with a 6-year curriculum, the rest with a 4-year curriculum), currently accommodating 25,717 students in 440 classes (with 467 teachers, both Korean and Japanese). Comparing this to the total school-age population of 208,282, the enrollment rate is merely 12 percent. Compared to the so-called "one school per *myŏn*" system, there is only one school for every 8 *po* 6 *ri* of a *myŏn* (面 - administrative unit). There is one public higher common school in Chŏnju, established in Taishō 8 (1919) with a private donation of 30,000 won. It has a 5-year curriculum, 290 students, and 22 teachers. Next, for vocational education, there are two public agricultural schools (joint Korean-Japanese education) in Chŏnju and Chŏngŭp, the Iri Public Agricultural and Forestry School (formerly official, with both agricultural and forestry departments, offering joint Korean-Japanese education, but currently with more Japanese students), the Kunsan Public Fisheries School, and the Chŏnju Public Supplementary School, each admitting one class [ unclear meaning - likely 'each being one school']. Furthermore, there is only one normal school in Chŏnju. Private schools include one common school, three general schools (Kunsan Youth Night School, Nam'i School, Chŏnju Hoyŏng School), 13 religious schools (including Chŏnju Sinjŏn, Kijŏn, and Kunsan Yŏngmyŏng, Eribbo Elden School, which are considered complete), and the private Koch'ang Higher Common School. This school was founded by Mr. Masutomi Yasusaemon (桝富安左衛門) from Moji City, Fukuoka Prefecture (a farmer). In Taishō 12 (1923), local Korean <90> prominent figures collaborated to establish it as an incorporated foundation. It is the only private higher common school in the province (excluding *sŏdang* [village schools] and cram schools, etc.).
+Additionally, Japanese educational institutions began in May, Meiji 32 (1899), when Kunsan opened as a port. The wife of Mr. Asayama, the head of the consulate branch, accommodated and educated 5 Japanese children. Since then, with the rapid increase of immigrants, education has made significant progress. Currently, there are 34 public elementary schools, 12 of which have attached higher elementary courses. Among these, the elementary schools in Chŏnju (13 classes), Kunsan (24 classes), Iri (9 classes), and Kimje (8 classes) are very large-scale and well-equipped. There are three higher girls' schools in Kunsan, Chŏnju, and Iri, also with complete school buildings and other facilities. Besides these, Kunsan has one public middle school, one public commercial supplementary school, and one private kindergarten.
+The general situation of education for Koreans and Japanese within the province is as described above. However, when viewed in proportion to the Korean and Japanese populations, the difference in facilities is starkly evident (霄壤之判 - difference between sky and earth). Particularly concerning girls' education, despite Japanese having three higher girls' schools, there is still not a single one for Koreans in the entire province. This sufficiently indicates how neglectfully both the authorities and the people view girls' education. This is a matter that the people of North Chŏlla should especially pay attention to.
+Regarding the religious situation in the province, all religions are generally in a state of decline. Buddhism and Confucianism are hardly worth mentioning. Christianity includes the Japanese Christian Church (Nihon Kumiai Kirisuto-ha) associated with Japanese missionary work, and the Southern Presbyterian Church, Catholicism, and the Salvation Army associated with Western missionary work, but their followers number only slightly over 15,000 (among which the Southern Presbyterian Church is influential). Ch'ŏndogyo (Religion of the Heavenly Way) was extremely prosperous during the Kapo Peasant War (甲午亂), and for a time, the entire province seemed to be dominated by Ch'ŏndogyo. However, due to the lingering effects of defeat in the war, its strength has not yet recovered, though its total followers reach over 10,000 (most concentrated in Chŏnju, Chŏngŭp, and Imshil).
+
+North Chŏlla Province from an Industrial Perspective
+This province, together with South Chŏlla Province, is a major treasure trove (寶庫) of Korea. On land, the vast Chŏnju fertile plain (所謂 平野部 - so-called plain area), known as the granary (穀倉) of southern Korea, stretches for hundreds of *ri*. The coastline extends for over 240 *ri*, and the nearby sea is dotted (星羅碁布) with over 60 islands, teeming with fish. Within its borders lie famous high mountains such as Chiri, Tŏgyu, and Pyŏnsan, containing vast forests untouched by axes for ages (千古斧斤不入) and inexhaustible mineral resources. The three major rivers, Man'gyŏng, Kimje (also known as Tongjin River), and Kŭm, flow through it, providing long-standing benefits for irrigation and navigation (舟楫). In addition, the Honam Railway and Chŏnbuk Railway traverse the province, <91> and Kunsan Port, one of Korea's leading trading ports, fosters brisk commerce. Furthermore, the mild climate provides abundant natural blessings and human advantages, resulting in noteworthy developments in various industries. A general overview is as follows.
+◇ Agriculture. The eastern part of the province, comprising the seven so-called mountainous counties of Chinan, Kŭmsan, Muju, Changsu, Namwŏn, Sunch'ang, and Imshil, has limited arable land. However, the western part, consisting of the one prefecture and seven counties known as the plains area – Kunsan, Chŏnju, Iksan, Kimje, Chŏngŭp, Okku, and Puan – has much newly developed land (collectively called the Chŏnju Plain), extending roughly 120 *ri* east-west and 200 *ri* north-south. The Man'gyŏng and Tongjin Rivers flow through this area, making the soil extremely fertile, one of Korea's premier rice-producing regions. Currently, the total cultivated area in both parts is 233,434 *chŏngbo* 5 *tanbo* (町 5反步 - *chō* and *tan*, Japanese land units) (27% of the province's total area). Of this, 71%, or 168,900 *chŏngbo*, is paddy field (沓), and 29%, or 67,767 *chŏngbo*, is dry field (田). The total number of farming households in the province is 248,281, of which 202,081 are Korean, 1,349 are Japanese, and 66 are Chinese. Regarding land ownership, landlords constitute 1.3% (千分之 13 - 13 per thousand), owner-farmers 6.0%, tenant farmers who also own some land 26.8%, and pure tenant farmers 65.8%. Furthermore, Japanese landlords, starting with the Oriental Development Company (東拓), number 9 individuals owning over 1,000 *chŏngbo* each, totaling 38,549 *chŏngbo* (detailed in another article). The main agricultural products include grains, cotton, and hemp. The average annual harvest over the recent past is: Rice 1,830,130 *sŏk* (石 - unit of volume), Barley/Wheat 460,556 *sŏk*, Beans 185,448 *sŏk*, Cotton 84,394,33 *kŭn* (斤 - catty), Hemp 277,25 *kwan* (貫 - unit of weight), Ramie 38,449 *kwan*. The total estimated annual value is 63,396,002 won. The value of silk cocoons is about 978,162 won, and livestock products amount to 10,729,389 won.
+◇ Industry. Industry, along with agriculture, is a mainstay of the province's economy. Korean industrial output reaches over 7,950,000 won, with many sectors showing potential for future development. Among these, papermaking (製紙), ceramics (窯業), stone crafting (石器), rush matting (莞草莚), fan making (扇子), and ramie fabric (苧麻布) are the most important. (1) Papermaking spans 10 counties and originated about 200 years ago. Raw materials are extremely abundant (楮皮 - paper mulberry bark, about 230,000 *kwan*), and the paper quality is excellent, renowned both domestically and internationally, with annual production valued at about 350,000 won. (2) Ceramics production is valued at about 230,000 won annually and occurs in every county; Koch'ang porcelain (高敞 磁器) is of excellent quality, resembling (彷佛) Koryŏ celadon. (3) Stone crafting is a specialty of Changsu County, producing various items; among them, mortars (鋿 - likely 臼) and braziers (火鉢) are extremely durable and of good quality, but due to transportation difficulties, production is only about 2,000 won. (4) Rush matting is produced throughout the province, with annual production around 90,000 won (there is a rush matting company factory in Chŏnju). (5) Folding fans (扇子) and round fans (團扇) are primarily made in Chŏnju, famous products of the province, <92> with annual production value reaching over 70,000 won. (6) Ramie (苧麻) is a specialty of Chŏngŭp and Koch'ang; its quality is superior, and it is exported (about 400,000 won) to Sŏch'ŏn, Hansan, etc. in Ch'ungch'ŏng South Province (the source of Ch'ungch'ŏng ramie raw materials is mostly North Chŏlla), a famous ramie fabric production area. Ramie fabric (苧布) production is also valued at about 140,000 won. (7) Cotton cloth (錦布 - likely 綿布 'myŏnpo') production is about 300,000 won. Japanese industry has an output of around 3,920,000 won, with major sectors including rice milling (精米), brewing (釀造), ironworking (鐵工), brick making (煉瓦), electricity (電氣), and printing (印刷). Among these, the Asahi Rice Mill (朝日精米工場) in Kunsan is extremely large-scale and famous throughout southern Korea.
+◇ Forestry. Forestry ranks third among the province's industries. Forest land covers about 560,000 *chŏngbo*, accounting for 65% of the total area. The geology is mostly composed of gneiss (片麻巖), interspersed with Mesozoic strata and granite, with porphyry (斑巖) and porphyrite (珍巖 - likely 玢巖 'pinam') exposed in various places. However, observing the forest vegetation zones, while there are some warm temperate and cold temperate zones, most belong to the temperate zone. The variety of plant species is abundant. If encouraged and protected, it has the potential to become one of Korea's foremost forested regions. However, due to years of poor forest management, about four-fifths of the forest area, excluding established forests and areas with young tree growth, has become treeless land or shifting sand dunes, presenting a desolate and barren scene (滿目 荒凉의 慘景). Currently, the total value of forest products amounts to only about 3,925,799 won.
+◇ Fisheries. The coastal area of this province connects the four counties of Okku, Kimje, Puan, and Koch'ang, with a coastline of about 240 *ri*. The three rivers, Kŭm, Tongjin, and Man'gyŏng, flow through it, and the nearby sea has over 60 islands, forming naturally excellent fishing grounds. Both warm and cold currents converge here, supporting a diverse population of fish and algae. Croaker (石首魚), sea bream (鯛), Spanish mackerel (鰆), cutlassfish (大刀魚), whale (鯨), cod (鱈), herring (鱋 - likely 青魚 'ch'ŏngŏ'), mullet (鱲 - likely 숭어 'sungŏ'), and shrimp (鰕) are important catches, with an annual production value of 1,529,522 won (including processed marine products).
+◇ Mining. Minerals are also scattered throughout the province, including gold, silver, copper, lead, zinc, molybdenum (水鉛 - suyuŏn), graphite (黑鉛), and silicon (硅素). Among these, the three *myŏn* of [illegible character]chŏn (*田), Urim, and Unjŏn in Chŏnju County; the four *myŏn* of Chuch'ŏn, Tonghyang, Maryŏng, and Anch'ŏn in Chinan County; the four *myŏn* of Poksu, Ch'ubu, Nam'i, and Chinsan in Kŭmsan County; the three *myŏn* of Muju, Chŏksang, and Mup'ung in Muju County; the two *myŏn* of Ch'ŏnch'ŏn and Kyenae in Changsu County; the three *myŏn* of Namwŏn, Samch'i, and Taesan in Namwŏn County; the four *myŏn* of Yŏngwŏn, Tŏkch'ŏn, Kobu, and Sosŏng in Chŏngŭp County; the two *myŏn* of Suryu and Kŭmgu in Kimje County; the three *myŏn* of Taehya, Imp'a, and Sŏsu in Okku County; and T'aep'o-myŏn in Iksan County are renowned mining areas within the province. The total number of mining claims is 40, covering an area of 14,622 *p'yŏng* (坪 - unit of area). Of these, Japanese management accounts for 28 claims covering 8,831 *p'yŏng*, while Korean management accounts for only 12 claims covering 5,780 *p'yŏng* (Production figures as per separate table).
+◇ Commerce. Due to the abundance of products, convenient transportation, and dense population, commerce is also thriving in this province. There are 51 companies (including banks) <93> and 64 markets, with annual sales reaching 4,893,286 won. Trade is entirely centered around Kunsan, with exports totaling 32,815,010 won and imports 8,638,582 won, resulting in a total trade volume of 41.45 million won. Major export items include grains (Rice 1.41 million *sŏk*), cowhides, and cotton. Major import items include cotton cloth, sugar, salt, coal, matches (燃寸 - likely 성냥 'sŏngnyang'), chestnuts (栗), and soybean cake (豆粕). The main commercial centers are Kunsan, Chŏnju, Iri, Chŏngŭp, Kimje, and Namwŏn, largely dominated by Japanese and Chinese influence.
+However, the general state of industry in the province is as described above. A more detailed breakdown by sector is shown in the table below. [Table not included in provided text]
+
+North Chŏlla's Land Completely Devoured by the Japanese
+Where the bushes are thick, vipers gather; where the pool is deep, crayfish swarm. North Chŏlla Province is Korea's treasure trove and rice basket. Because the land is fertile, the climate mild, and transportation by land and water convenient, Japanese encroachment (侵略) has been more severe here than elsewhere. Forestry, mining, fishing, etc., all follow the same pattern, so let's not even mention them; even the land, the sole lifeline of Koreans, has almost entirely fallen into their hands. Especially in the plains area—the yolk of the egg, so to speak—Kimje, Man'gyŏng, Iksan, Okku, Chŏngŭp, Chŏnju, Koch'ang, etc., their power has been established to an astonishing degree. Through farms, rice mills, and irrigation associations (水利組合), they have trampled (蹂躪) every nook and cranny, seizing (侵奪) the entire livelihood of Koreans. Last year's large landowner becomes this year's owner-farmer (自作農), and today's owner-farmer becomes tomorrow's tenant farmer, like giving away the boat and then begging for passage in it. The treasure trove and granary of the past already belong to others, and Koreans, possessing only their labor, have become mere appendages, serfs living day by day, weeping in hunger and cold, scattering (離散) to the northwest Kando region or Ōsaka, Tōkyō (even that is not easy now). To speak now of this situation is like discussing the illness of a dead person. However, there is a need to know and remember the details. First, let's list the Japanese large landowners in North Chŏlla Province who own 50 *chŏngbo* or more. They are terrifyingly numerous, impossible to name in one breath. See the table below. <95> [Table not included in provided text]
+
+Examining the table above, the Oriental Development Company (東拓) is at the top with 8,851 *chŏngbo*, followed by [name unclear - 態本利平 Taehon Rip'yŏng?] with 2,952 *chŏngbo*. Is that all? The leasing of state-owned unreclaimed land (國有未墾地貸付) also goes entirely to Japanese. The situation of this leased land is shown in the table below. Status of large leases (over 50 *chŏngbo*) and leases of unreclaimed land to Japanese within the province <97> [Table not included in provided text]
+
+The above shows the land they own and lease. Furthermore, with large capital, they annually undertake irrigation projects (灌漑事業), organizing large-scale irrigation associations (水利組合), and using either financial power or official influence to intimidate (威嚇) small Korean landowners. Statistically, across the province, the establishment of irrigation associations certainly increases the irrigated area and consequently boosts rice production each year. However, for small Korean landowners, the burden of association fees is immediately difficult, causing them to constantly sell their land. As a result, the land of many Koreans is naturally consolidated (兼倂) by a few large Japanese capitalists. Although nominally called "water benefit associations" (水利組合), for Koreans, they are effectively "water harm associations" (水害組合) (though not entirely, of course). In any case, North Chŏlla's irrigation associations were the first and most developed in Korea. An overview is shown in the table below.
+
+Overview of Irrigation Associations in the Province
+
+1. Established Irrigation Associations with Completed Construction
+
+[Table data not included in provided text]
+
+2. Associations Currently Under Construction
+
+[Table data not included in provided text]
+
+3. Associations Planned or Projected
+
+[Table data not included in provided text]
+
+However, the already established irrigation associations in the province, as shown in the table above, span 7 counties: Okku, Iksan, Chŏnju, Chŏngŭp, Koch'ang, Puan, and Sunch'ang, totaling 8 locations <98> with a benefited area of 34,526 *chŏngbo*. Among these, the Yongjin Irrigation Association and Chŏksŏng Irrigation Association are still under construction and expected to be completed soon. Also, for the Tongjin Irrigation Association, the Japanese company Ōbayashi Gumi (大林組) won the bid for 775,000 won on October 14th this year, and construction is said to be starting soon.
+Looking at just these few examples presented above, one can understand the extent of Japanese power in agriculture in North Chŏlla. Now, considering the total cultivated land area of the province is 233,434 *chŏngbo* 5 *tanbo*, subtract the mountainous area's 30,374 *chŏngbo* of dry fields and 48,433 *chŏngbo* of paddy fields, totaling 78,807 *chŏngbo*. This leaves the plains area with approximately 118,505 *chŏngbo* of paddy fields and 37,393 *chŏngbo* of dry fields, totaling 155,898 *chŏngbo*. From this plains area, subtract the land owned and leased by Japanese, and calculate how much is actually left for Korean ownership. Isn't it truly shocking and pathetic? <99>
+
+Overview of Important Counties in North Chŏlla - One Prefecture and Seven Counties in the Plains, Seven Counties in the Mountains
+Geographically, this province can be divided into two parts: the plains area and the mountainous area. The plains area consists of one prefecture and seven counties: Kunsan, Chŏnju, Okku, Iksan, Kimje, Chŏngŭp, Puan, and Koch'ang. The mountainous area consists of seven counties: Namwŏn, Imshil, Sunch'ang, Chinan, Changsu, Muju, and Kŭmsan. An overview of each is listed below (details included in other articles are omitted).
+□ Kunsan Prefecture. Known as the port of rice (米穀之港), Kunsan Prefecture is located on the west coast of the province, embracing the estuary of the Kŭm River, one of Korea's six major rivers, and facing Sŏch'ŏn in Ch'ungch'ŏng South Province across the river. Originally a desolate fishing village, it was opened as a port in the 3rd year of Kwangmu (Meiji 32, 1899) and has made rapid progress, now ranking third among all Korean ports in trade volume (41,450,000 won). The Kunsan branch line (14 *ri*) of the Honam Railway connects to the main line at Iri, and scheduled ships call at the port, making transportation extremely convenient. Commerce and industry (especially rice milling) flourish within the port. During the autumn rice export season, wealthy individuals and major merchants gather from all regions, suddenly creating crowds like mountains and seas of people, and the number of laborers engaged in this work is particularly high compared to other ports. Various urban facilities such as government offices, schools, hospitals, companies, and banks are also well-established. However, the harbor depth is only 3 fathoms, and there are many hidden reefs and sandbanks in the estuary, making it difficult for ships over 300 tons to enter. Furthermore, the large tidal range (around 20 feet) makes navigation difficult. Recently, the issue of harbor construction has arisen and been proposed multiple times, even to the Japanese Diet. If this is resolved, Kunsan will undergo a complete transformation.
+□ Chŏnju County. This county is the ancient capital of Hubaekche and the seat of the provincial government, the largest city in the Honam region. It faces the clear stream of the Taga River to the west, is backed by Kodŏk Peak to the east and Kŏnji Mountain to the south. The seven peaks of Wansan stand opposite across the water like a folding screen. To the northwest lies the so-called Chŏnju Plain, forming a naturally fortified location (天府金湯之地). The Chŏnbuk Railway runs through the county, connecting to the Iri main line, and class 1, 2, and 3 roads radiate in all directions, making it the center of the Honam transportation network. Moreover, it has long been the political, economic, and cultural center of Honam, and also the birthplace of the Yi Dynasty, hence its fame is widespread. Amidst its scenic beauty (山明水紫), there are numerous famous sites and historical relics such as pavilions, fortress walls, temples, etc., offering a glimpse into its prosperous past. <100> However, the county's special products include Pongdong ginger, Kosan dried persimmons, paper goods, early red persimmons (August persimmons), seedless persimmons (水柿), Goji berries, and fans, which are renowned.
+□ Iksan County. Iksan County is located in the northwestern corner of the province. To the southeast, across the Man'gyŏng River, lies the vast Chŏnju Plain; to the southwest, the Imok Plain; to the northwest, the Kŭm River borders Sŏch'ŏn in Ch'ungch'ŏng South Province; and to the north, the Kanggyŏng Plain borders Nonsan. This county was the ancient capital of Ma Han (so-called Kŭmma County). In Taishō 3 (1914), the three counties of Yŏlsan, Yŏsan, and Yong'an were merged. The county seat, Iri, is a key station on the Honam Line, the junction point for the Kunsan Line, and the starting point of the Chŏnbuk Light Railway (輕鐵), situated at a railway crossroads. Consequently, commerce thrives, and the city streets are densely packed (櫛比). However, due to the presence of many Japanese farms, starting with the Oriental Development Company (which has a branch office), and numerous irrigation associations (details in a separate account), apart from a few wealthy individuals like Pae In-gi (owner of Hwasŏng Farm) and Pak Ki-sun, Koreans have virtually no economic influence.
+□ Kimje County. Few would not know of the Kimje and Man'gyŏng "paetti" (一夜味 - overnight taste?) fields. This county lies in the basin of the Tongjin and Man'gyŏng Rivers. To the east stands the Moak Mountain range, but to the west, south, and north, plains spread out, forming the so-called Tongjin Plain. The land is extremely fertile, Korea's premier agricultural land. However, Japanese began buying land and starting agriculture more than 10 years ago. Besides the two large farms of Ishikawa and Abe, there are currently 7-8 other farms. They own 53,841 *chŏngbo* of paddy fields and 4,491 *chŏngbo* of dry fields. Koreans are left holding empty husks. The people of this formerly prosperous land, who were said to "eat ribs under borrowed umbrellas," are now reduced to holding begging bowls and scavenging discarded bones in the rain. This is truly tragic. Once the Koreans' lifeline, the land, is completely lost, what else is there to talk about? Commerce, industry? Indeed. As a meager consolation, perhaps boast about the historical sites of Kŭmsan Temple and Pyŏkkol Dyke (details in a separate account), and the convenience of transportation provided by the Kimje and Puyong stations. Special local products worth boasting about include Man'gyŏng's *mang'gŏn* (headbands), fine cotton cloth, Wŏnp'yŏng pears, and *Tong's water shield (*東의 蓴菜 - *sunch'ae*). However, the prevalence of gamblers in the county <101> and even elementary school students injecting morphine (도루히네 - *toruhine*) are major social ills (大弊風). We hope the initiated middle school establishment fundraising committee proceeds soundly and achieves its goal.
+□ Chŏngŭp County. Formerly a remote small town in a secluded valley (僻阪), it suddenly became a large county due to the opening of the railway and county consolidation (merging Kobu and T'aein). Currently, its streets, industry, transportation, and other facilities are comparable to other large counties. However, this county has long been famous within the province for its scenic beauty (山明水紫). Naejang Mountain, mentioned separately, is a great pride of Chŏngŭp. Also, streams (溪流) are channeled into every house, presenting a scene where "water enters the east house and flows to the west house," making the name Chŏngŭp (Well Town) fitting. Furthermore, ramie fabric (苧布) is produced in large quantities, and even Ch'ungch'ŏng South Province's ramie fabric largely relies on raw materials supplied from this county (It is also famous as the place where Song Si-yŏl [尤庵] died in exile).
+□ Namwŏn County. Famous for Ch'unhyang, and infamous for the high casualties during the Imjin War (Ming General Yang Won defeated here, approx. 5,000 deaths, now has Palch'ung Shrine and Man'in Tomb) and the Tonghak Rebellion, Namwŏn County is the largest city in the southern part of the province. In the past, it served as a provincial governor's seat (觀察府) along with Chŏnju and Naju. Even earlier, during the Three Kingdoms period, it was the seat of the Daifang Commandery (帶方都督府), hence it has the most historical sites and relics in the province. Geographically, it is located at a crossroads (要衝) connecting Chŏnju and Imshil to the north, Kurye to the south, Unbong to the northeast, and Koksŏng and Sunch'ang to the southwest, making it a historically important military and commercial point. The city streets show signs of decline (凋殘) from having suffered through wars, but commerce thrives, and the population is large, deserving the title of a major mountainous county (산간 大郡). (Electric lights will be installed from December).
+□ Kŭmsan County. This county is also a large town in the mountains, located about 80 *ri* from Taejŏn. As automobiles operate here, transportation is relatively convenient, goods converge, and the town is quite prosperous (殷富). This county is famous as a battleground from the Imjin War, where Cho Hŏn (趙重峯) and 700 righteous soldiers died fighting (now has the Tomb of the Righteous Soldiers - 義士塚). It is also nationally renowned as a ginseng production area.
+Besides these, Sunch'ang (famous for paper goods and *koch'ujang* [red pepper paste]), Changsu (birthplace of the righteous *kisaeng* Nongae, stone craft production center), Puan (abundant timber from Pyŏnsan Mountain), Koch'ang, Chinan, and Imshil are omitted here and left for a future occasion.
+
+Famous Scenic Spots and Historical Sites of this Land
+North Chŏlla Province is a central region of Korea. Thousands of years ago, Ma Han was established here, followed by the brilliant cultures of Silla and Paekche (including Hubaekche). Within its territory, the three major rivers—Kŭm, Tongjin, and Man'gyŏng—and the great mountains—Chiri, Naejang, Mai, Chŏksang, Tŏgyu—wind and meander, creating numerous scenic spots and historical sites everywhere. However, incessant warfare over thousands of years (e.g., the Imjin War, Tonghak Rebellion) has ruthlessly destroyed historical artifacts and natural scenery, leaving many sites whose forms are difficult to ascertain today. Nevertheless, a brief account of the remaining sites, however regrettable, is as follows.
+
+◇ Kwanghallu Pavilion (廣寒樓). Anyone who knows the name Ch'unhyang also knows Kwanghallu, the famous pavilion of Namwŏn. This Kwanghallu is located outside the South Gate of Namwŏn County. It was initially built (經始) by the famous prime minister from Namwŏn, Hwang Hŭi (黃喜, posthumous name Ikseonggong), in the early Yi Dynasty (originally named Kwangwŏnru, later renamed Kwanghallu by Chŏng Inji - 鄭麟趾). It served as a venue for banquets for successive prefects and county magistrates and underwent numerous reconstructions. To its west is Kyoryong Mountain Fortress, to the south is Kŭmhak Mountain, and to the east is Chiri Mountain. In front of the pavilion, the lower stream of the Yoch'ŏn River, originating from Chiri Mountain, meanders to form a small lake. Within the lake, three small islands were created, named Yŏngju, Pangjang, and Pongnae. On Pongnae Island, a small pavilion named Yŏngjugak was built. Beautiful trees and rare plants abound on the islands, filling the air with fragrance throughout the four seasons. A stone bridge spans the lake, featuring four arched gates (虹腰門), crafted with considerable skill; this is the Ojakkyo Bridge (烏鵲橋), known to all (located west of the pavilion). The currently existing pavilion dates back about 300 years, structurally similar to Kyŏnghoe Pavilion in Kyŏngbok Palace, truly a renowned pavilion of the southern region. However, it currently houses the Namwŏn branch of the District Court, becoming the exclusive domain of officials.
+◇ Kyoryong Mountain Fortress (蛟龍山城). Located 20 *chŏng* (町 - unit of distance, approx. 2.2 km) west of Namwŏn town, the mountain features the two peaks, Mildŏk and Pokdŏk, whose imposing presence seems to pierce the heavens. It has long been called the sole strategic point (要害地) in the Honam region. The stone fortress wall has a circumference of 5,717 *ch'ŏk* (尺 - foot) and a height of 10 *ch'ŏk*, undulating along the mountainside. At first glance, it evokes the feeling of seeing the Great Wall of China (固有 99井, 16軍倉 - It originally had 99 wells and 16 military granaries). This fortress was built by the Tang envoy Liu Renyuan (劉仁軓) during the Daifang Commandery era. Later, during the Imjin War, Commander-in-Chief Kwŏn Yul (權慄) had the righteous monk-general Ch'ŏyŏng (處英) repair it. However, the Ming general Yang Won (楊元), in the year Chŏngyu (1597), failed to defend this fortress, choosing instead to fight on flat ground, resulting in a major defeat and the sacrifice of 5,000 Ming and Korean soldiers, earning the ridicule of later generations. An example is the poem by Prefect Chŏng Sŏkho (鄭錫湖): "Yang Won, timid and ignorant of warfare, / Did not defend Kyoryong, but defended this castle (referring to Namwŏn town castle), / A hundred thousand Han soldiers died simultaneously, / Their怨恨 enters the sound of [illegible character] (*聲), crying day and night." However, according to fortress research experts Dr. Sekino (關野 博士) and Literary Scholar Hirota (廣田 文學士), this fortress employs a marvelous construction method unparalleled in Chinese or Korean fortress building, especially the double wall at the entrance, a technique rarely seen in the world (境內又有善國寺水石淸幽 - Within the area is also Sŏn'guk Temple, noted for its clear water and stones). <103>
+◇ Hwangsan Great Victory Monument (荒山大捷碑). This large stone monument (碑 高1丈, 幅5尺, 臺龜 高4尺, 幅2間 - Stele height 1 *chang* [approx. 3m], width 5 *ch'ŏk*; Turtle base height 4 *ch'ŏk*, width 2 *kan* [space between pillars]) is located in the plain at the foot of Hwangsan Mountain, Hwasu-ri, 16 *ri* east of the old Unbong town center in Namwŏn County. It commemorates the victory where Yi T'aejo (李太祖 - founder of Chosŏn Dynasty) defeated the Japanese chieftain Agibaldo (阿只拔都) during the late Koryŏ period. It was erected in the 10th year of Sŏnjo's reign by Pak Kwangok (朴光玉), the magistrate of Unbong County, under royal command (Inscription composed by Kim Kwi-yŏng [金貴英], calligraphy by Yŏsŏnggun Song In [礪城君宋寅], seal script by Nam Ŭng-un [南應雲]).
+◇ Naejang Mountain (內藏山). About 30 *ri* southeast of Chŏngŭp Station, striking peaks (突兀한 奇峰) rise sharply into the clouds (雲際에 瓚出) – this is Naejang Mountain, a famous mountain in Honam. As its name suggests (內藏 - inner storage), the mountain is deeply folded (含蓄) with many twists and turns (屈曲), truly forming nine-bend sheep intestines (九曲之羊腸). The valleys are described as "one stream after another, and within the streams, more streams" (一溪又一溪 溪中 更*溪), offering a sense of seclusion (幽邃) and tranquility (閑寂), feeling like a different world (別有天地). The mountain slopes on both sides are almost vertical, often resembling rows of bamboo shoots (竹筍之列立). The entire mountain is densely covered with pine, cypress, maple, elm, and torreya trees. However, because the geology is mostly basalt (玄武岩), the trees are generally short and stunted, many appearing extremely ancient and peculiar (古奇). Maple trees (楓樹) are particularly abundant. In autumn, the crimson leaves covering the entire mountain resemble a spread brocade tapestry (錦帳), earning it the nickname "Kŭmgang of Honam" (湖南 金剛). Naejangsa Temple (內藏寺) at the foot of the mountain, also known as Yŏng'ŭnsa (靈隱寺), was founded in the 38th year of King Mu of Paekche (Tang Zhenguan 11th year - 637 AD), a famous temple in Honam with many historical relics.
+◇ Mirŭk Pagoda (彌勒塔). Located in Soyang-ri, Kŭmma-myŏn, Iksan County, at the foot of Mirŭk Mountain. Today, only the flagpole supports (刹竿支柱) (height 13 *ch'ŏk* 5 *ch'on*), a nine-story stone pagoda (base width 27 *ch'ŏk*), a stone water basin from a well (井戶石槽), and foundation stones (礎石) remain. According to tradition, these structures are relics from Mirŭk Temple (彌勒寺). King Mu (武康王) of Ma Han and his queen, Lady Sŏnhwa (善花), were visiting Saja Hermitage when they saw three Mirŭk Buddhas emerge from a large pond below Yonghwa Mountain. Considering it an auspicious sign (奇瑞), the queen reported (奏) it to the king, who had a certain monk (某法僧) build Mirŭk Temple on that spot and sculpt the three Mirŭk figures. However, this pagoda was damaged by lightning (電災) in the 9th month of the 18th year of King Sŏngdŏk of Silla (719 AD). It lay buried in weeds for over 1,000 years until it was repaired by the Government-General in Taishō 4 (1915).
+◇ Wanggung Pagoda (王宮塔). This is also located in Iksan County, Wanggung-myŏn, Wanggung-ri, at the southern end of a high ground called Wangji (王址 - Palace Site). It is a five-story granite pagoda. There are two theories <104> about its origin: one claims it stood in the southern courtyard of King Mu (武康王) of Ma Han's palace, and the other attributes its construction to the Silla monk Tosŏn (道詵).
+◇ Podŏk Castle Site (報德城址) (Ogeum Mountain Fortress - 五金山城). This site is also in Sŏgodo-ri, Kŭmma-myŏn, Iksan County. In the 3rd year of King Munmu of Silla (1216 years ago from 1925, i.e., 663 AD), the king enfeoffed An Sŭng (安勝), a prince of Koguryŏ, as King Podŏk and had this fortress built for him to occupy.
+◇ Kŭmsan Temple (金山寺). Kŭmsan Temple in Kimje County is located in Kŭmsan-ri, Suryu-myŏn, on Moak Mountain (40 *ri* southeast of the town). It was founded by King Pŏp of Paekche (法王) (1st year of his reign, 319 years before 1925? - Error: King Pŏp reigned 599-600 AD; 1925-600 = 1325 years ago). In the 2nd year of Queen Sŏndŏk of Silla (633 AD), Master Chasang (慈藏法師), under royal command (勅命), went to Tang China, brought back (持來) genuine relics (眞身舍利) of Sakyamuni Buddha, enshrined (奉安) them, and built a pagoda. This is the currently famous Songdae Stone Bell Pagoda (松臺 石鐘塔). Later, in the 23rd year of King Kyŏngdŏk (764 AD), Vinaya Master Chin P'yo (律師 眞表) built a three-story hall (寶殿) and enshrined the Mirŭk Buddha (彌勒佛). Also, the historical fact that Kyŏnhwŏn (甄萱) of Hubaekche was imprisoned (幽閉) in this temple by his son Sin'gŏm (神劍), escaped to Naju, and surrendered to Koryŏ T'aejo (麗太祖) is clearly recorded (昭然) in history. The temple's peak period was during the Paekche era. According to old legends, at that time, there were over a thousand monks and several hundred buildings, ranking first among Chŏlla temples and overseeing all other temples. However, this ancient temple was burned down (燒盡) during the Imjin War. It was later rebuilt in the 3rd month of Sinyu year, the 13th year of Kwanghaegun's reign (1621). This is the currently existing structure. Its three-story Mirŭk Hall (彌勒殿) was a famous large wooden building of its time, with a structure (結構) that is extremely grand and magnificent, a rare ancient building (稀有) in the country. The current Government-General has designated this temple as a Specially Protected Structure (特別保護建造物), provided subsidies for its renovation in Taishō 11 (1922), and ordered the special preservation of its artifacts. Important items include the Relic Pagoda (舍利塔), Seven-Story Pagoda (七重塔), Thirteen-Story Pagoda (十三重塔), Stone Lotus Pedestal (石蓮), Flagpole Supports (刹竿支柱), Large Iron Cauldron (大鐵釜) (two, capacity 30 *sŏk*), Mirŭk Buddha statue, 500 Arhats (羅漢), Mirŭk Hall, Bronze Bell (銅鐘), Taejŏkkwang Hall (大寂光殿), Simwŏn Hermitage (深源菴), Ch'ilsŏng Pavilion (七星閣), and stone steles (石碑).
+◇ Pyŏkkol Dyke (碧骨堤). In Puryang-myŏn, about 10 *ri* southwest of Kimje County seat, lies the ancient embankment (古堤) of a former reservoir (貯水池), named Pyŏkkolje. This dyke was constructed over 1180 years ago, in the 21st year of King T'arhae of Silla (48 AD - Error: T'arhae reigned 57-80 AD; 1925-1180 = 745 AD, around King Kyŏngdŏk's reign, closer matches Chin P'yo's activities at Kŭmsansa). At that time, the water source had three streams (two originating from Kimje's Moak Mountain, one from T'aein's Sangdu Mountain), extended for over 1800 *kan* (間) (about 30 *chŏng* - approx. 3.3 km), had a catchment area (주위 - likely 受益面積 'suik myŏnjŏk' or 集水區域 'chipsu kuyŏk') of 16,400 *chŏngbo* (unlikely, maybe *p'yŏng*? or irrigated area?), and its irrigated area spanned several counties. It later gradually fell into disrepair (황폐). It was expanded and repaired during the reign of King Wŏnsŏng of Silla (785-798 AD), and repaired several times during the Koryŏ reigns of Hyŏnjŏng (1009-1031) and Injong (1122-1146). During the reign of King T'aejong of the Yi Dynasty (1400-1418), Inspector Pak Ch'o (朴礎) of Chŏlla-do and Governor Pak Sŭp (朴習) of Chŏlla-do, under royal command, mobilized 10,000 people from the benefited area (蒙利區城 留民) for major reconstruction. However, due to subsequent political corruption (政弊), this dyke also fell into ruin. Today, only the sluice gates (水門) and stone steles built at that time remain, allowing us to imagine the great achievement of the past. However, this dyke, along with Kobu's Nŭlche (訥堤) and Iksan's Hwangdŭngje (黃登堤), were collectively called the Three Lakes (三湖). The naming of Chŏlla Province as Honam (湖南 - South of the Lake) originated (基因) from this. <105>
+□ Man'gyŏngdae Pavilion (萬景臺) "A stone path winds across the thousand-*gil* peak / Climbing it fills me with emotion / Green mountains faintly outline Puyŏ kingdom / Yellow leaves flutter over Paekche fortress (lower two lines omitted)" This is Chŏng P'oŭn (鄭圃隱) [Chŏng Mongju]'s poem about Man'gyŏngdae. This Man'gyŏngdae is located within Namgo Mountain Fortress on the northern foot of Kodŏk Mountain, which stands tall south of Chŏnju County. The stone peak is strikingly beautiful, resembling layered clouds (層雲). On top, there is space for several people to sit. The view is expansive (眺望이 遙遠), clearly showing the plains of Kanggyŏng and Nonsan, and the islands of Kunsan.
+□ Tŏkchin Pond (德津池) Located about ten *ri* north of Chŏnju city (behind Tŏkchin Station on the Chŏnbuk Railway), it is backed by a dense pine forest. Ten *ri* of green waves (碧波) spread out vast and calm (溶溶漫漫), just like a mirror surface. Lotus flowers abound in the pond; when they are in full bloom in summer, the myriad flowers resemble three thousand beauties standing together, enhancing the refined pleasure (淸興) of poets and scholars. On the pond's edge are two famous pavilions, Ch'wihyang (翠香) and Pullo (不老), where the sounds of visitors' staffs and string music (笻音絃聲) never cease throughout the year. And the lines from the P'ungwŏljŏng poem, "A vast expanse reflects the azure sky / Since ancient times, how many dug this pond? / Village smoke drifts through the autumn moon for miles / A fisherman's flute cuts across the evening wind," are famous lines long recited (膾煑).
+□ Taga Mountain (多佳山) Located west of Chŏnju city, it faces the clear stream of the so-called Taga River. At its northern foot, amidst dense old trees, stands Taga Pavilion (多佳亭), suitable for viewing. Climbing it reveals the entire panorama of Chŏnju below (now Taga Park).
+□ Omoktae (梧木臺), Kyŏnggi Hall (慶基殿), Chogyŏng Shrine (肇慶廟) Chŏnju is the place where the Yi Dynasty originated, hence it has many related relics. Among the most famous are Omoktae, Kyŏnggi Hall, and Chogyŏng Shrine. Chogyŏng Shrine enshrines the spirit tablet of the Yi clan's progenitor, Sagonggong (司空公), and his mother, Lady Kim of Kyŏngju (慶州金氏) (located east of Chŏnju city). It was founded in the Sinmyo year of King Yŏngjo's reign (1771). In front of the shrine is Kyŏnggi Hall, the shrine (祀宇) for Yi T'aejo (李太祖). It was founded in the Kyŏngin year of King T'aejong's reign (1410) and rebuilt by Governor Yi Kyŏngjŏn (李慶全) in the Kabin year of Kwanghaegun's reign (1614). Its architecture is grand and splendid (宏大華麗), and the grounds are spacious (境內廣濶). Part of it is said to be opened as a future park. Furthermore, Omoktae is a high hill southeast of Chŏnju city. In late Koryŏ, Yi T'aejo, after defeating Japanese pirates (倭寇) at Unbong, stopped (駐驆) here on his return journey, held a clan gathering, and feasted (今有太祖駐驆碑 - There is now a stele commemorating T'aejo's stop).
+□ Sŏnun Temple (禪雲寺) Located in Asan-myŏn, Koch'ang County (20 *ri* north of the old Mujang town), it is also an ancient temple from the Silla period. Its original name was Kŭmae Temple (金愛寺), also known as Yongmun Temple (龍門寺). The temple complex (伽藍) is grand and magnificent (雄大壯麗). Additionally, there are many scenic wonders like the gate pine (門松) of Tosol Hermitage (兜率庵), the caves of Yongmun (龍門), Pongdu Rock (鳳頭巖), and Sŏnsa Rock (仙寫岩). The Maitreya Buddha carved into the cliff (巖劑彌勒佛) is incomparably large (壯大無比) and also worth seeing.
+However, besides these, famous mountains include Chiri in Namwŏn (details omitted as covered in the Kyŏngnam issue), Pyŏnsan in Puan, Mai and Yamagye (耶馬溪 - Japanese place name used metaphorically?) in Chinan, and Chŏksang in Muju, but they are omitted here. <106>
+
+Youth Movement and Labor Movement in North Chŏlla
+The youth movement in North Chŏlla Province, just like in other provinces, arose like swarming bees (부얼 - 벌떼) in each county after the March First Movement (己未以後), making great efforts in either youth education or local enlightenment movements. However, until a few years ago, that movement was merely emotional. But in recent years, it has gradually become organized and conscious. First, by changing its platforms, principles, and objectives, and simultaneously reorganizing its membership (e.g., age limits, purging government officials and other grey elements), it has taken on a completely new look today. The places where the movement is most active are Chŏnju, Iksan (Iri), Kimje, and Kunsan. The Kimje Youth Association (金堤靑年會), formerly the Kimje Youth Club, changed its name in Taishō 9 (1920) and merged with the Kimje Proletarian Youth Association (金堤無産靑年會) and the Kimje Sinhŭng Youth Association (金堤新興靑年會) in June this year. It currently has about 150 members, with Messrs. Cho Chae-sul, Yi Pong-gil, Cho Chu-an, Cho Ri-ch'ŏl, Pak Yŏn, etc., at its core. The Iri Youth Association (裏里靑年會) has about 96 members, centered around Messrs. Im Hyŏk-kŭn, Kim Kap-ki, Pae Hŏn, Im P'yo, Yang Sang-gyŏng, etc. The Chŏnju Youth Association (全州靑年會) is centered around Messrs. Im T'aek-ryong, Song Chu-sang, Yi P'yŏng-gwŏn, Pak T'ae-hwa, Kim Kyun, Song T'ae-yong, Kim Tong-su, etc. And the Kunsan Youth Association (群山靑年會) is also centered around Mr. Kim Yŏng-hŭi, Cho Yong-gwan, and others. Furthermore, this year, centering on these youth associations, the North Chŏlla Youth League (全北靑年聯盟) was organized to start a new movement.
+(Participating organizations: Chŏnju Youth Association, Chŏnju Women's Youth Association, Chŏnju Hyŏngp'yŏng Youth Alliance, Iri Youth Association, Iri Labor-Farmer Youth Association, Kunsan Youth Association, Kunsan Labor Youth, Kunsan Hyŏngp'yŏng, Kŭmsan Youth Association, Okku X Youth Association, Ch'wisan Youth Association, Kimje Youth Association. Headquarters in Chŏnju). Also, in several places in North Chŏlla like Kunsan, Iri, Kimje, and Chŏnju, due to long-standing convenient transportation and development of commerce and industry (regardless of who the owners are), the number of laborers is higher than in any other province in Korea. Consequently, the labor movement has also shown considerable vitality recently. Namely, in Iri, there are the Free Workers' Alliance (自由勞働者同盟), Deliverymen's Union (配達人組合), Shop Clerks' Friendship Society (店員親睦會), Ox-Cart Union (牛馬車組合), and Chasŏng Union (自成組合) (Railway Transport Workers). In Kimje, there is the Labor-Farmer Alliance (勞農同盟) (about 600 members). In Kunsan, there are the Labor Mutual Aid Society (勞働共濟會) (Maritime Transport Workers), Kunsan Labor Association (群山勞働會) (same), Kunsan Labor Youth Association (群山勞働靑年會), and over ten other labor unions including those for rice milling, railway, barbers, ironworkers/carpenters, printing workers, ox-cart drivers, deliverymen, etc. Among these, the Labor Youth Association is the backbone of the Kunsan labor movement. Also in Chŏnju, various labor organizations exist just like in other counties, of course. However, in the labor movements of the above counties, the central figures of the aforementioned youth movements generally provide leadership. What is particularly noteworthy is that among the leaders of the youth and labor movements in North Chŏlla, there are many Ch'ŏndogyo youth. In summary (摠而言之), Kunsan, Chŏnju, Iri, and Kimje can be said to be the centers of the youth and labor movements in North Chŏlla. Also, compared to South Chŏlla, the tenant farmer movement is very weak, but the labor movement is strong. Besides these, the ideological movement,少年運動 (boy scout/children's movement), and Hyŏngp'yŏng movement (movement for butchers' rights) are also centered in these three counties and one prefecture. In Iri, there is also a Mass Movement Participants' Rally (民衆運動者大會) covering the entire North Chŏlla region. <107>
+
+A Glimpse of Honam
+By Ch'ŏng'o (靑吾)
+
+A Thousand-Mile Horse Among Horses (千里馬)
+Even for a whirlwind tour (走馬看山 - viewing mountains from a running horse), I've never done a survey as rushed as this North Chŏlla trip. Including departure and return Sundays, I visited over 10 major prefectures and counties in just 14 days. It was truly a thousand-mile dash (千里走馬). Given that, how well could I have surveyed, and what interesting articles could there be? However, it's much better than nothing, and since I actually saw things, even if fleetingly, it's probably slightly better than someone critiquing based on maps or motion pictures. Just as I console myself this way, I hope readers will also understand and read it as it is.
+
+World's Rarest Iron Donkey
+Trains are often called "iron horses" (鐵馬), but the Chŏnju train (全州車 - referring to the Chŏnbuk Light Railway) is so small it has the nickname "iron donkey" (鐵驢). Indeed, it is small. Even my height, discounted by half from 10 *ch'ŏk* [hyperbole, meaning very tall], can barely stand up inside. And since there's no space for a proper stove (煖爐), they always just put a brazier (火爐). Even that often gets knocked over due to the shaking. It's a jingling iron donkey among iron donkeys. This must not only be a famous item of North Chŏlla but also a rare curiosity (珍品) in the world.
+
+County Magistrate Not Minding the County (郡守 不守郡)
+Literally, a *kunsu* (郡守) seems to be an official who guards (守) the county (not night duty, of course). But on this trip through about 10 counties in North Chŏlla, I didn't see a single county magistrate. They surely have duties, but since the year-end is near, they probably need to spend the remaining budget somehow, even forcibly, so they seem to go on business trips frequently for any minor reason. They say it's fine to spend the cheap Government-General money however they like, but the lower-ranking officials complain amongst themselves that they don't even get the benefit of travel expenses.
+
+*Myŏn* Head or Monument Head? (面長이냐 碑長이냐)
+In South Chŏlla, there were many monuments praising the virtues (頌德碑) of wealthy people. In North Chŏlla, monuments praising *myŏn* heads (面長 - sub-county administrators) and farm supervisors of the Oriental Development Company (東拓 農監) are particularly numerous. Looking at the inscriptions, they mostly mention things like advancing tax payments, alleviating road repair labor burdens through negotiation (斡旋), or mediating for reductions in Oriental Development Company tenant fees. This shows how heavy the burden of taxes and road construction is on the people of North Chŏlla, and also how much land the Oriental Development Company owns. Pitiful poor people (貧窮民)! People who erect monuments <108> for a single cent (1分錢) or a bowl of rice (1器飯)! Isn't there any other solution besides this?
+
+Six Inferiors, Four Rascals (六不如. 四망나니)
+"For land, none compares to Sunch'ŏn; for people, none compares to Namwŏn (meaning it's crowded); for knots, none compares to Naju; for grain, none compares to Kwangju; for late tobacco, it's Changsu tobacco; for rotten friends, it's Chinan friends" - this is a common saying in Chŏlla Province. But I want to add to this: for morphine (모루히네), none compares to Chŏnju (said to be about 800 users in town); for small towns, none compares to Imshil; for poor county offices, it's Iksan County Office (no reference materials, Japanese officials very unfriendly); for bad *kisaeng* (female entertainers), it's Namwŏn *kisaeng* (excluding the historical Ch'unhyang and the recent famous singer Hwajungson).
+
+Money-for-Begging Inns (給錢 乞食의 旅館)
+Paying money to beg for food is particularly severe in Chŏlla Province, especially the North. Those running the so-called inn business, perhaps still greasy from rice meals, are incredibly unfriendly to guests. Whichever inn you go to, the owner never says "come in," but stands stiffly like a branch holding a long pipe (長竹), asking "Where are you from?" or "Who are you looking for?" And they always make the guest fill out the lodging register (宿泊簿). What kind of business practice is this? Yet the lodging fee is typically a steep 1 won 50 *chŏn* (food is ordinary, bedding [衾具] is unclean).
+
+Pitiful Farmers Lamenting a Good Harvest
+Anyone would surely be surprised to hear farmers lamenting (稱怨) a good harvest. But the farmers of North Chŏlla actually do lament a good harvest. Last year was a major famine due to combined flood and drought (旱災), but landlord rents and state taxes were reduced, debt collectors (債鬼) didn't demand payment, and there was relief money from various places, allowing them to barely survive. This year, however, because it's a good harvest, not only is there no relief money, but taxes, rents, and old debts are demanded with the urgency of wildfire. Even though it's a good harvest, they have less to eat than during last year's famine. Everywhere I went, my ears hurt from the farmers' laments. Pitiful Korean farmers! Especially the farmers of North Chŏlla! When will the food problem be completely solved?
+
+Strange Same-Sex Farewell (可怪한 同性의 離別)
+There has long been a reputation that men in the South are prone to same-sex love (同性愛), but I actually witnessed it during my recent trip to North Chŏlla. It was right at Chŏngŭp Station. I went to the platform to catch the train for Kimje, and saw a crowd of dozens surrounding a laborer in a fur hat (털풍헌) and a shaggy-haired young man. Curious, I went to see what was happening. The laborer was clutching the young man's wrist, rough like a bear's paw (북두 갈구랑이 - Ursa Major dipper?), begging him not to leave, or if he had to go, to please stay just one more night. I already guessed they were a same-sex couple. <109> Still curious, I called the laborer over and asked what was going on. Without hesitation, the laborer said, "That boy is my *midong* (美童 - beautiful boy/catamite). We've been together for three years, and now he's leaving for another place, so I came to say goodbye." I couldn't help but chuckle, speechless. I thought to myself, "There are truly many strange things (可怪) in the world." Then I reconsidered: it's truly pitiful that this poor laborer, nearly 40, unable to savor the scent of beautiful *kisaeng* or concubines like the rich, instead yearns even for the [body odor?] (x냄새) of a young male companion. How could this be limited to just him? Poor Korean laborers, especially hired farmhands (雇用農軍), often go through life without experiencing heterosexual love (異性愛) even once, attaching their affections to such things instead. Truly, this world is unfair. Comparing the rich man with eight or nine fairy-like concubines to that poor farmer, what a difference indeed!
+
+The So-Called Five Major Pending Issues (五大懸案)
+The Man'gyŏng River Improvement (萬頃江 改修), Tongjin Irrigation Association (東津水利組合), Sŏmjin River Utilization Unam Hydroelectric Power Project (섬진강 이용 雲巖수력전기공사), Kunsan Port Construction (群山 築港), and Railway Improvement (鐵道改善) are the so-called Five Major Pending Issues of North Chŏlla. The Tongjin Irrigation Association and Man'gyŏng River Improvement issues are already resolved and work is underway (看 手中 - likely 착수중 'ch'aksujung'). The others are also expected to be gradually resolved. Of course, these are all good things. But in resolving these issues, how much benefit will the powerless and moneyless (無錢無勢) Koreans actually receive? If they are not careful (깻댁 잘못 정신차리면 - colloquial, 'if they misstep'), even their current livelihoods could easily be plundered (奪掠) by outsiders. Just be careful.
+
+Namwŏn County Magistrate, Reincarnation of Yi Toryŏng? (李道令 後身)
+This happened when I was in Chŏnju. I was staying at an inn during the time when the Forestry Products Exhibition was being held. All sorts of county magistrates (군수 나부랭이 - derogatory), *myŏn* heads (面長 부스럭이 - derogatory), loafers (날탕패), vagrants (부랑자 等屬), etc., had gathered, so the inns, bars, restaurants, and *kisaeng* houses in Chŏnju seemed to be doing quite well. At my inn too, someone, completely drunk, was wandering around in his underwear, shouting all night, calling this person "Sanok-a!" and that person "Sanok-a!" I found out it was the Namwŏn County Magistrate. I wonder if the ghost of Yi Toryŏng [the romantic hero of Ch'unhyang] hadn't possessed him.
+
+Man-Eating Pine Caterpillars Who Even Devoured the Land (땅까지 파먹은 人松虫)
+Namwŏn's bare mountains (秀山 - likely 민둥산 'mindungsan' or similar, used ironically?) are a famous feature of North Chŏlla. No, even nationwide, apart from Sŏnsan in North Kyŏngsang, there's no parallel. Recently, the authorities have done some afforestation, but the entire mountain is still stark naked (赤裸裸), a truly cruel (慘酷) sight. When I inquired about the cause, I heard it was the aftermath <110> of County Magistrate Kwŏn Chik-sang (權直相) embezzling public funds 15 years ago and then clear-cutting (伐採) everything, regardless of whether it was state-owned or private land, to cover it up. Oh, that vicious county magistrate pine caterpillar (郡守 松虫)! He ate public funds, ate the pines, and now it seems he's eaten the land itself (since landslides [沙汰] occurred). Though a bit late, it would be nice if the people of Namwŏn erected a "Monument to Never Forget the Deeds of Acting County Magistrate Kwŏn Chik-sang" (行郡守構公萬世不忘塚碑 - sarcasm intended). (The rest censored)
+
+Reminiscing about Namwŏn (南原懷古)
+Recalling the blood-rain flying in the lone castle long ago, / A scholar powerless to break the heavy siege, / Today, relics lie vacant midst autumn grass, / Tears soak the traveler's clothes in the slanting sun.
+Ten Thousand Tears Before the Ten Thousand Tomb (萬人塚前 萬人淚)
+The tragic defeat (慘敗) of Ming General Yang Won at Namwŏn Castle during the second invasion in the Chŏngyu year of Sŏnjo (1597) still makes one's teeth chatter even thinking about it now. At that time, Defense Commander O Ŭng-jŏng (吳應井), Kurye Magistrate Yi Wŏn-ch'un (李元春), Central Army Commander Yi Sin-bang (李新芳), Special Commander Sin Ho (申灝), Assistant Defense Commander Kim Kyŏng-no (金敬老), Prefect Im Hyŏn (任鉉), Provincial Army Commander Yi Pok-nam (李福男), and Reception Envoy Chŏng Ki-wŏn (鄭期遠) all died upholding their duty (節死) at once (Today, inside Namwŏn Castle, behind Yongseong Hall [龍城舘], stands the Ch'ungnyŏl Shrine [忠烈祠] for the Eight Loyal Ministers [八忠臣]). Also, the number of Ming and Korean people who died at that time reached five thousand, leaving behind a large tomb called Man'in Tomb (萬人塚 - Ten Thousand Tomb, also known as Ch'ungnyŏl Tomb [忠烈墓]; East-West 4 *kan*, North-South 6 *kan*, round stone mound) in the paddy fields inside the North Gate. Furthermore, outside Kŭmsan Castle, there is the tomb of Cho Hŏn (趙重峯) and his 700 righteous soldiers (700義士塚). However, both tombs are now untended, left desolate (荒凉) amidst sorrowful winds and rain under autumn grass. Even after a thousand years, how can any Korean suppress their resentment or hold back tears? <111>
+
+**Summary**
+
+This 1925 travelogue by Ch'a Sangch'an provides a detailed overview of North Chŏlla Province (Chŏlla Pukto) during the Japanese colonial period. It covers the province's history, geography, climate, demographics, education system (highlighting disparities between Korean and Japanese facilities), religious landscape, and various industries including agriculture, forestry, fishing, mining, and commerce. A significant portion focuses on the agricultural sector, detailing the fertility of the Chŏnju Plain but lamenting the extensive Japanese acquisition of Korean land through large farms and irrigation associations (suṛi choap), which often burdened Korean farmers financially. The article profiles key cities and counties like Kunsan, Chŏnju, Iksan, Kimje, Chŏngŭp, and Namwŏn, listing their specialties and historical sites (Kwanghallu, Kŭmsan Temple, Pyŏkkol Dyke, etc.). It also touches upon the burgeoning youth and labor movements, noting their concentration in urban centers and the significant role of Ch'ŏndogyo youth. The author concludes with personal, often critical and satirical, observations about the conditions encountered, such as the inadequate railway, absent officials, prevalence of monuments to officials and Japanese supervisors, social issues like morphine use and poverty-driven same-sex relationships, the plight of farmers despite good harvests, and the historical scars of past wars like the Imjin War evident in places like Namwŏn.
+
+From a historical perspective, the article is particularly revealing about the socio-economic impact of Japanese colonialism on rural Korea. The detailed account of land alienation, the critique of the suṛi choap system as beneficial primarily to Japanese capitalists despite increasing overall production, and the description of Korean farmers becoming tenant laborers on their former lands offer valuable ground-level insights into colonial exploitation. The stark contrast drawn between Korean and Japanese educational opportunities, especially for women, underscores the discriminatory nature of colonial policy. Furthermore, the mention of nascent youth, labor, and Hyŏngp'yŏng movements indicates the growing social consciousness and resistance among Koreans. The author's candid, sometimes sarcastic, tone and his focus on the hardships faced by ordinary Koreans provide a poignant counter-narrative to official colonial reports, making this piece valuable for historians studying the lived experiences and social dynamics of the period.
+
+**Named Entities**
+
+全羅北道	전라북도	Chŏlla Pukto
+特派員 車相瓚	특파원 차상찬	Special Correspondent Ch'a Sangch'an
+卞韓	변한	Pyŏn Han
+馬韓	마한	Ma Han
+百濟	백제	Paekche
+完山州	완산주	Wansan-ju
+武珍州	무진주	Mujin-ju
+義慈王	의자왕	King Ŭija
+新羅	신라	Silla
+武烈王	무열왕	King Muyŏl
+唐高宗	당고종	Tang Gaozong
+都督府	도독부	Protectorate-General
+景德王	경덕왕	King Kyŏngdŏk
+全州	전주	Chŏnju
+眞盛女王	진성여왕	Queen Chinsŏng
+견훤	견훤	Kyŏnhwŏn
+후백제	후백제	Hubaekche
+神釰	신검	Sin'gŏm
+麗太祖	고려 태조	Koryŏ T'aejo
+瀛州	영주	Yŏngju
+淳州	순주	Sunju
+馬州	마주	Maju
+江南道	강남도	Kangnam-do
+羅州	나주	Naju
+光州	광주	Kwangju
+靜州	정주	Chŏngju
+昇州	승주	Sŭngju
+澤州	택주	T'aekchu
+朗州	낭주	Nangju
+海陽道	해양도	Haeyang-do
+顯宗	현종	King Hyŏnjŏng (Koryŏ)
+전라도	전라도	Chŏlla-do
+李朝	이조	Yi Dynasty (Chosŏn)
+仁祖	인조	King Injo
+全南道	전남도	Chŏllam-do
+光南道	광남도	Kwangnam-do
+英祖	영조	King Yŏngjo
+全光道	전광도	Chŏlgwang-do
+觀察使	관찰사	Provincial Governor
+南原	남원	Namwŏn
+濟州	제주	Cheju
+高宗 太皇帝	고종 태황제	Emperor Kojong
+全羅南北 兩道	전라남북도	North and South Chŏlla Provinces
+光武	광무	Kwangmu (era name, Emperor Kojong)
+求禮郡	구례군	Kurye County
+筏長	벌장	Pŏlchang
+興德	흥덕	Hŭngdŏk
+高敞	고창	Koch'ang
+沃溝郡	옥구군	Okku County
+明治	명치	Meiji (era name, Japan)
+日韓倂合	일한병합	Japan-Korea Annexation
+大正	대정	Taishō (era name, Japan)
+忠淸南道	충청남도	Ch'ungch'ŏng Namdo
+知事	지사	Governor
+群山(府)	군산(부)	Kunsan (Prefecture)
+鎭安	진안	Chinan
+長水	장수	Changsu
+錦山	금산	Kŭmsan
+茂朱	무주	Muju
+任實	임실	Imshil
+淳昌	순창	Sunch'ang
+井邑	정읍	Chŏngŭp
+扶安	부안	Puan
+金提	김제	Kimje
+益山	익산	Iksan
+조선반도	조선반도	Korean Peninsula
+忠淸北道	충청북도	Ch'ungch'ŏng Pukto
+경상남도	경상남도	Kyŏngsang Namdo
+경상북도	경상북도	Kyŏngsang Pukto
+전라남도	전라남도	Chŏlla Namdo
+錦江	금강	Kŭm River
+萬頃江	만경강	Man'gyŏng River
+東津江	동진강	Tongjin River
+黃海	황해	Yellow Sea
+德裕山	덕유산	Tŏgyu Mountain
+俗離山	속리산	Songni Mountain
+母岳山	모악산	Moak Mountain
+노령	노령	Noryŏng Pass
+盤若	반약	Panyabong (Peak)
+萬福	만복	Manbokbong (Peak)
+環峯	환봉	Hwanbong (Peak)
+智異山	지리산	Chiri Mountain
+長安	장안	Chang'an (Peak)
+大德	대덕	Taedŏk (Mountain)
+岷周之	민주지	Minjuji (Mountain)
+섬진	섬진	Sŏmjin (River)
+落東	낙동	Naktong (River)
+全州평야	전주평야	Chŏnju Plain
+烟島	연도	Yŏndo Island
+於靑	어청	Ŏch'ŏngdo Island
+古群山群島	고군산군도	Kogunsan Archipelago
+開也	개야	Kaeyado Island
+筨篒	(unknown)	(Unidentified island, maybe Wŏlmyŏngdo?)
+桂花	계화	Kyehwado Island
+飛應	비응	Piŭngdo Island
+大邱	대구	Taegu
+京城	경성	Kyŏngsŏng (Seoul)
+元山	원산	Wŏnsan
+江陵	강릉	Kangnŭng
+日本	일본	Japan
+東京	동경	Tōkyō
+裡里	이리	Iri
+桝富安左衛門	마스토미 야스자에몬	Masutomi Yasusaemon
+福岡縣 門司市	후쿠오카현 모지시	Moji City, Fukuoka Prefecture
+高敞高等普通學校	고창고등보통학교	Koch'ang Higher Common School
+淺山	아사야마	Asayama
+群山청년야학회	군산청년야학회	Kunsan Youth Night School
+南二學校	남이학교	Nam'i School
+全州湖英학교	전주호영학교	Chŏnju Hoyŏng School
+全州新典	전주신전	Chŏnju Sinjŏn (School)
+紀全	기전	Kijŏn (School)
+群山 永明	군산 영명	Kunsan Yŏngmyŏng (School)
+에리뽀 엘덴校	에리뽀 엘덴 교	Eribbo Elden School
+書堂	서당	Sŏdang
+강습소	강습소	Kangsŭpso (Cram school/Short course institute)
+日本基督敎日本組合基督派	일본기독교일본조합기독파	Japanese Christian Church (Nihon Kumiai Kirisuto-ha)
+南長老派	남장로파	Southern Presbyterian Church
+天主	천주	Catholicism
+救世軍	구세군	Salvation Army
+天道敎	천도교	Ch'ŏndogyo
+甲午亂	갑오란	Kapo Peasant War (Tonghak Rebellion)
+邊山	변산	Pyŏnsan (Mountain)
+湖南철도	호남철도	Honam Railway
+全北철도	전북철도	Chŏnbuk Railway
+東拓	동척	Oriental Development Company (Tōyō Takushoku Kaisha)
+華星 농장	화성 농장	Hwasŏng Farm
+白寅基	백인기	Pae In-gi (likely transcription error for 배인기 Bae Ingi)
+朴基順	박기순	Pak Ki-sun
+金傘寺	금산사	Kŭmsan Temple
+碧骨提	벽골제	Pyŏkkol Dyke
+舒川	서천	Sŏch'ŏn
+大林組	오바야시구미	Ōbayashi Gumi
+龍進水利組合	용진수리조합	Yongjin Irrigation Association
+赤城수리조합	적성수리조합	Chŏksŏng Irrigation Association
+東津水利組合	동진수리조합	Tongjin Irrigation Association
+金馬郡	금마군	Kŭmma County (Old name for Iksan area)
+石川	이시카와	Ishikawa (Farm name?)
+阿部	아베	Abe (Farm name?)
+芙蓉驛	부용역	Puyong Station
+萬頃	만경	Man'gyŏng
+院坪	원평	Wŏnp'yŏng
+*東	동	*Tong (Place name?)
+宋尤庵	송우암	Song Uam (Song Si-yŏl)
+春香	춘향	Ch'unhyang
+壬辰倭亂	임진왜란	Imjin War (Japanese Invasions of 1592-1598)
+明將 楊元	명장 양원	Ming General Yang Won
+八忠祠	팔충사	Palch'ung Shrine
+萬人塚	만인총	Man'in Tomb (Tomb of Ten Thousand)
+東學亂	동학란	Tonghak Rebellion
+帶方都督府	대방도독부	Daifang Commandery
+雲峰	운봉	Unbong
+谷城	곡성	Koksŏng
+大田	대전	Taejŏn
+趙重峯	조중봉	Cho Chungbong (Cho Hŏn)
+義士塚	의사총	Tomb of the Righteous Soldiers
+論介	논개	Nongae
+內藏山	내장산	Naejang Mountain
+馬耳	마이	Mai (Mountain)
+赤裳	적상	Chŏksang (Mountain)
+廣寒樓	광한루	Kwanghallu Pavilion
+黃喜	황희	Hwang Hŭi
+翼成公	익성공	Ikseonggong (Hwang Hŭi's posthumous title)
+鄭麟趾	정인지	Chŏng Inji
+蛟龍山城	교룡산성	Kyoryong Mountain Fortress
+金鶴山	금학산	Kŭmhak Mountain
+蓼天	요천	Yoch'ŏn River
+瀛洲	영주	Yŏngju (Mythical island)
+方丈	방장	Pangjang (Mythical island)
+蓬萊	봉래	Pongnae (Mythical island)
+瀛洲閣	영주각	Yŏngjugak Pavilion
+烏鵲橋	오작교	Ojakkyo Bridge
+景福宮	경복궁	Kyŏngbok Palace
+慶會樓	경회루	Kyŏnghoe Pavilion
+密德	밀덕	Mildŏk (Peak)
+福德	복덕	Pokdŏk (Peak)
+劉仁軓	유인원	Liu Renyuan (Tang Envoy) - Note: 軓 is rare, likely 軌 (Gui) or 願 (Yuan). Text has 軓.
+權慄	권율	Kwŏn Yul
+處英	처영	Ch'ŏyŏng (Monk-General)
+丁酉年	정유년	Chŏngyu Year (1597)
+鄭錫湖	정석호	Chŏng Sŏkho
+關野 博士	세키노 박사	Dr. Sekino (Tadashi)
+廣田 文學士	히로타 문학사	Literary Scholar Hirota
+善國寺	선국사	Sŏn'guk Temple
+荒山大捷碑	황산대첩비	Hwangsan Great Victory Monument
+花水리	화수리	Hwasu-ri
+荒山	황산	Hwangsan Mountain
+李太祖	이태조	Yi T'aejo (Yi Sŏnggye)
+阿只拔都	아지발도	Agibaldo (Agi Batu - Japanese commander)
+宣祖	선조	King Sŏnjo
+朴光玉	박광옥	Pak Kwangok
+金貴英	김귀영	Kim Kwi-yŏng
+礪城君 宋寅	여성군 송인	Yŏsŏnggun Song In
+南應雲	남응운	Nam Ŭng-un
+內藏寺	내장사	Naejangsa Temple
+靈隱寺	영은사	Yŏng'ŭnsa Temple
+武王	무왕	King Mu (Paekche)
+唐 貞觀	당 정관	Tang Zhenguan (era name)
+彌勒塔	미륵탑	Mirŭk Pagoda (Maitreya Pagoda)
+金馬面	금마면	Kŭmma-myŏn
+笑陽리	소양리	Soyang-ri
+彌勒山	미륵산	Mirŭk Mountain
+刹竿支柱	찰간지주	Flagpole Supports (Ch'algan chiju)
+井戶石槽	정호석조	Well Stone Trough
+礎石	초석	Foundation Stone
+武康王	무강왕	King Mugang (of Ma Han? - likely King Mu of Paekche)
+善花	선화	Sŏnhwa (Queen/Lady)
+龍華山	용화산	Yonghwa Mountain
+某法僧	모법승	A certain monk
+彌勒寺	미륵사	Mirŭk Temple
+聖德王	성덕왕	King Sŏngdŏk (Silla)
+總督府	총독부	Government-General
+王宮塔	왕궁탑	Wanggung Pagoda (Palace Pagoda)
+王宮面	왕궁면	Wanggung-myŏn
+王宮리	왕궁리	Wanggung-ri
+王址	왕지	Wangji (Palace Site)
+道詵	도선	Tosŏn (Monk)
+報德城址	보덕성지	Podŏk Castle Site
+五金山城	오금산성	Ogeum Mountain Fortress
+西古都里	서고도리	Sŏgodo-ri
+文武王	문무왕	King Munmu (Silla)
+安勝	안승	An Sŭng (Koguryŏ Prince)
+報德王	보덕왕	King Podŏk
+金山寺	금산사	Kŭmsan Temple
+水流面	수류면	Suryu-myŏn
+金山里	금산리	Kŭmsan-ri
+法王	법왕	King Pŏp (Paekche)
+善德王	선덕왕	Queen Sŏndŏk (Silla)
+慈藏法師	자장법사	Master Chasang
+釋迦世尊	석가세존	Sakyamuni Buddha
+眞身舍利	진신사리	Genuine Relics (Śarīra)
+松臺 石鐘塔	송대 석종탑	Songdae Stone Bell Pagoda
+律師 眞表	율사 진표	Vinaya Master Chin P'yo
+寶殿	보전	Treasure Hall
+彌勒佛	미륵불	Mirŭk Buddha (Maitreya Buddha)
+甄萱	견훤	Kyŏnhwŏn
+神劍	신검	Sin'gŏm (Kyonhwon's son) - Note: Text has 神釰
+麗太祖	이태조	Koryŏ T'aejo (Yi Sŏnggye) - Error in text context: should be Koryŏ T'aejo (Wang Kŏn)
+光海君	광해군	Kwanghaegun (King)
+辛酉	신유	Sinyu year (1621)
+彌勒殿	미륵전	Mirŭk Hall
+舍利塔	사리탑	Relic Pagoda (Stupa)
+七重塔	칠중탑	Seven-Story Pagoda
+十三重塔	십삼중탑	Thirteen-Story Pagoda
+石蓮	석련	Stone Lotus Pedestal
+大鐵釜	대철부	Large Iron Cauldron
+羅漢	나한	Arhat
+大寂光殿	대적광전	Taejŏkkwang Hall (Hall of Great Tranquil Light)
+深源菴	심원암	Simwŏn Hermitage
+七星閣	칠성각	Ch'ilsŏng Pavilion (Seven Stars Shrine)
+石碑	석비	Stone Stele
+碧骨堤	벽골제	Pyŏkkol Dyke
+扶梁面	부량면	Puryang-myŏn
+脫解王	탈해왕	King T'arhae (Silla)
+泰仁	태인	T'aein
+象頭山	상두산	Sangdu Mountain
+元聖王	원성왕	King Wŏnsŏng (Silla)
+顯宗	현종	King Hyŏnjŏng (Koryŏ)
+仁宗	인종	King Injong (Koryŏ)
+太宗	태종	King T'aejong (Chosŏn)
+朴礎	박초	Pak Ch'o
+朴習	박습	Pak Sŭp
+訥堤	눌제	Nŭlche Dyke
+黃登堤	황등제	Hwangdŭngje Dyke
+三湖	삼호	Three Lakes
+湖南	호남	Honam (Region)
+萬景臺	만경대	Man'gyŏngdae Pavilion
+鄭圃隱	정포은	Chŏng P'oŭn (Chŏng Mongju)
+扶餘國	부여국	Puyŏ Kingdom
+百濟城	백제성	Paekche Fortress
+高德山	고덕산	Kodŏk Mountain
+南固山城	남고산성	Namgo Mountain Fortress
+江景	강경	Kanggyŏng
+論山	논산	Nonsan
+群山諸島	군산제도	Kunsan Islands
+德津池	덕진지	Tŏkchin Pond
+全北鐵道	전북철도	Chŏnbuk Railway
+德津驛	덕진역	Tŏkchin Station
+翠香	취향	Ch'wihyang (Pavilion Name)
+不老	불로	Pullo (Pavilion Name)
+風月亭	풍월정	P'ungwŏljŏng (Pavilion Name)
+多佳山	다가산	Taga Mountain
+多佳川	다가천	Taga River
+多佳亭	다가정	Taga Pavilion
+多佳公園	다가공원	Taga Park
+梧木臺	오목대	Omoktae Pavilion
+慶基殿	경기전	Kyŏnggi Hall
+肇慶廟	조경묘	Chogyŏng Shrine
+司空公	사공공	Sagonggong (Yi Han)
+慶州金氏	경주김씨	Lady Kim of Kyŏngju
+英宗	영종	King Yŏngjo - Note: Text has 英宗, standard is 英祖
+李慶全	이경전	Yi Kyŏngjŏn
+禪雲寺	선운사	Sŏnun Temple
+高敞郡	고창군	Koch'ang County
+雅山面	아산면	Asan-myŏn
+茂長邑	무장읍	Mujang Town
+金愛寺	금애사	Kŭmae Temple
+龍門寺	용문사	Yongmun Temple
+兜率庵	도솔암	Tosol Hermitage
+龍門	용문	Yongmun (Dragon Gate)
+鳳頭巖	봉두암	Pongdu Rock (Phoenix Head Rock)
+仙寫岩	선사암	Sŏnsa Rock (Immortal Copied Rock)
+巖劑彌勒佛	암제미륵불	Cliff-carved Maitreya Buddha
+耶馬溪	야마케이	Yabakei (Famous scenic valley in Japan, used metaphorically)
+己未	기미	Kimi Year (1919, March First Movement)
+全北靑年聯盟	전북청년연맹	Chŏnbuk Youth League
+金堤靑年會	김제청년회	Kimje Youth Association
+金堤靑年俱樂部	김제청년구락부	Kimje Youth Club
+金堤無産靑年會	김제무산청년회	Kimje Proletarian Youth Association
+金堤新興靑年會	김제신흥청년회	Kimje Sinhŭng Youth Association
+趙在述	조재술	Cho Chae-sul
+李奉吉	이봉길	Yi Pong-gil
+趙周安	조주안	Cho Chu-an
+趙履喆	조리철	Cho Ri-ch'ŏl
+朴淵	박연	Pak Yŏn
+裏里靑年會	이리청년회	Iri Youth Association
+林赫根	임혁근	Im Hyŏk-kŭn
+金甲基	김갑기	Kim Kap-ki
+裴憲	배헌	Pae Hŏn
+林豹	임표	Im P'yo
+梁相卿	양상경	Yang Sang-gyŏng
+全州靑年會	전주청년회	Chŏnju Youth Association
+林澤龍	임택룡	Im T'aek-ryong
+宋柱祥	송주상	Song Chu-sang
+李平權	이평권	Yi P'yŏng-gwŏn
+朴泰和	박태화	Pak T'ae-hwa
+金均	김균	Kim Kyun
+宋泰鏞	송태용	Song T'ae-yong
+金東樹	김동수	Kim Tong-su
+群山靑年會	군산청년회	Kunsan Youth Association
+金永暉	김영휘	Kim Yŏng-hŭi
+趙容寬	조용관	Cho Yong-gwan
+全州女子靑年會	전주여자청년회	Chŏnju Women's Youth Association
+全州衡平靑年同盟	전주형평청년동맹	Chŏnju Hyŏngp'yŏng Youth Alliance
+裏里勞農靑年會	이리노농청년회	Iri Labor-Farmer Youth Association
+群山勞靑	군산노청	Kunsan Labor Youth
+群山衡靑	군산형청	Kunsan Hyŏngp'yŏng
+錦山靑年會	금산청년회	Kŭmsan Youth Association
+沃溝엑쓰靑年會	옥구엑스청년회	Okku X Youth Association
+鷲山靑年會	취산청년회	Ch'wisan Youth Association
+自由勞働者同盟	자유노동자동맹	Free Workers' Alliance
+配達人組合	배달인조합	Deliverymen's Union
+店員親睦會	점원친목회	Shop Clerks' Friendship Society
+牛馬車組合	우마차조합	Ox-Cart Union
+自成組合	자성조합	Chasŏng Union
+勞農同盟	노농동맹	Labor-Farmer Alliance
+勞働共濟會	노동공제회	Labor Mutual Aid Society
+群山勞働會	군산노동회	Kunsan Labor Association
+群山勞働靑年會	군산노동청년회	Kunsan Labor Youth Association
+民衆運動者大會	민중운동자대회	Mass Movement Participants' Rally
+靑吾	청오	Ch'ŏng'o (Author's pen name)
+大阪	오사카	Ōsaka
+善山	선산	Sŏnsan
+花中仙	화중선	Hwajungson (Kisaeng name)
+李道令	이도령	Yi Toryŏng (Character from Ch'unhyang)
+山玉	산옥	Sanok (Name)
+權直相	권직상	Kwŏn Chik-sang (Former County Magistrate)
+吳應井	오응정	O Ŭng-jŏng
+李元春	이원춘	Yi Wŏn-ch'un
+李新芳	이신방	Yi Sin-bang
+申灝	신호	Sin Ho
+金敬老	김경로	Kim Kyŏng-no
+任鉉	임현	Im Hyŏn
+李福男	이복남	Yi Pok-nam
+鄭期遠	정기원	Chŏng Ki-wŏn
+龍城舘	용성관	Yongsŏng Hall
+忠烈祠	충렬사	Ch'ungnyŏl Shrine
+
+**Glossary**
+
+踏査記	답사기	Field survey report; travelogue
+特派員	특파원	Special correspondent
+沿革	연혁	History; development
+古地	고지	Ancient land; old territory
+統合	통합	Integration; unification
+置하다	두다	To establish; to place (older usage for 설치하다)
+攻滅	공멸	To attack and destroy; conquer
+所管	소관	Jurisdiction
+舊地	구지	Former territory
+反據	반거	To occupy again; reclaim
+始稱	시칭	To be first called; first named
+府	부	Prefecture (administrative unit)
+觀察使	관찰사	Provincial Governor (Chosŏn Dynasty title)
+倂合	병합	Annexation; merger
+官制	관제	Official system; government organization
+知事	지사	Governor (colonial/modern term)
+位하다	위하다	To be located (older form of 위치하다)
+境界	경계	Boundary; border
+劃하다	획하다	To demarcate; draw a line
+控하다	공하다	To command; overlook; control (a strategic position)
+背梁	배량	Spine; main ridge (of mountains)
+走하다	주하다	To run; flow (used for mountain ranges, rivers)
+分岐	분기	Branching; divergence
+駛走	사주	To run swiftly; gallop (used metaphorically for mountain ranges)
+重疊	중첩	Overlapping; piled up
+發하다	발하다	To originate; start from
+汚回 屈曲	오회 굴곡	Meandering and winding
+貫流	관류	To flow through
+著名	저명	Famous; renowned
+亘하다	긍하다	To stretch across; span
+島嶼	도서	Islands and islets
+好個	호개	Excellent; fine; good
+氣侯	기후	Climate (older spelling)
+大差	대차	Significant difference
+步合	보합	Ratio; percentage (older term)
+修業年限	수업연한	Duration of study; course term
+布敎	포교	Missionary work; proselytizing
+熾盛	치성	Flourishing; prosperous; intense
+餘禍	여화	Aftermath of disaster; lingering misfortune
+寶庫	보고	Treasure trove; repository
+穀倉	곡창	Granary
+平坦	평탄	Flat and level (likely intended meaning of 平閛)
+星羅碁布	성라기포	Scattered like stars and Go stones; dotted about
+斧斤	부근	Axe (representing logging)
+無盡藏	무진장	Inexhaustible supply; boundless store
+灌漑	관개	Irrigation
+舟楫	주즙	Boats and oars; navigation
+加之	가지	Furthermore; in addition
+可觀	가관	Worth seeing; noteworthy
+耕地	경지	Cultivated land; arable land
+町步	정보	Chōbo (Japanese unit of area, approx. 0.99 ha)
+反步	반보	Tanbo (Japanese unit of area, 1/10 of a chōbo)
+蠶繭額	잠견액	Value of silk cocoons
+製紙	제지	Papermaking
+窯業	요업	Ceramics industry; pottery
+莞草莚	완초연	Rush matting
+扇子	선자	Folding fan
+苧麻布	저마포	Ramie fabric
+豐備	풍비	Abundant; plentifully equipped
+彷佛	방불	To resemble; be similar to
+搬出	반출	Transporting out; shipping out
+團扇	단선	Round fan
+優良	우량	Superior; excellent quality
+輸出	수출	Export
+精米	정미	Rice milling
+釀造	양조	Brewing
+鐵工	철공	Ironworking
+煉瓦	연와	Brick (making)
+片麻巖	편마암	Gneiss
+獎勵	장려	Encouragement; promotion
+慘景	참경	Tragic scene; miserable sight
+未立木地	미립목지	Treeless land; deforested area
+魚族	어족	Fish species; fish stock
+藻類	조류	Algae
+硅素	규소	Silicon
+經營	경영	Management; operation
+賣揚高	매양고	Sales volume; turnover
+侵略	침략	Invasion; encroachment; aggression
+蹂躪	유린	Trampling; violation; ravaging
+侵奪	침탈	Seizure; usurpation; encroachment
+自作農	자작농	Owner-farmer
+離散	이산	Scattering; dispersal
+灌漑事業	관개사업	Irrigation project
+水利組合	수리조합	Irrigation association
+威嚇	위협	Intimidation; threat
+兼倂	겸병	Annexation; merger; consolidation (of land)
+樞要驛	추요역	Key station; important railway station
+輕鐵	경철	Light railway
+櫛比	즐비	Standing close together like teeth of a comb; densely packed
+僻阪	벽판	Remote slope/pass (likely intended 僻坂)
+溪流	계류	Mountain stream
+貫入	관입	Penetration; flowing into
+帶方	대방	Daifang (ancient Chinese commandery)
+要衝	요충	Strategic point; important junction
+殷富	은부	Prosperous; wealthy
+雲際	운제	Among the clouds; high up
+瓚出	찬출	To jut out sharply; emerge prominently
+含蓄	함축	Implication; connotation; (geographically) folding/complexity
+幽邃	유수	Deep and secluded; profound
+閑寂	한적	Quiet and secluded; tranquil
+玄武岩	현무암	Basalt
+古奇	고기	Ancient and strange; archaic and peculiar
+錦帳	금장	Brocade curtain/tapestry
+靈隱寺	영은사	Yŏng'ŭnsa Temple (alternative name for Naejangsa)
+刹竿支柱	찰간지주	Flagpole supports (at a temple)
+石槽	석조	Stone trough/basin
+礎石	초석	Foundation stone; cornerstone
+奇瑞	기서	Auspicious sign; marvel
+奏하다	주하다	To report to the king; memorialize the throne
+電災	전재	Disaster by lightning/electricity
+勅命	칙명	Royal command; imperial edict
+持來	지래	To bring; carry here
+奉安	봉안	To enshrine respectfully
+律師	율사	Vinaya Master (Buddhist title)
+寶殿	보전	Treasure Hall (main hall in a temple)
+彌勒佛	미륵불	Maitreya Buddha
+幽閉	유폐	Confinement; imprisonment
+昭然	소연	Clear; evident; obvious
+羅漢	나한	Arhat (Buddhist saint)
+燒盡	소진	To be burned down completely
+結構	결구	Structure; composition; framework
+稀有	희유	Rare; uncommon
+特別保護建造物	특별보호건조물	Specially Protected Structure/Building
+貯水池	저수지	Reservoir
+基因	기인	To originate from; be caused by
+層雲	층운	Layered clouds; stratus
+碧波	벽파	Green waves; blue waters
+溶溶漫漫	용용만만	Vast and flowing; brimming over
+粉黛	분대	Face powder and eyebrow paint; beautiful women
+笻音絃聲	공음현성	Sound of walking staffs and string instruments; sounds of visitors
+膾炙	회자	To be on everyone's lips; be widely talked about (original has 膾煑)
+司空公	사공공	Lord of Works (title); refers to Yi Han
+祀宇	사우	Shrine
+駐驆	주필	(Royal) stopover; temporary stay
+伽藍	가람	Buddhist temple complex (Sangharama)
+兜率庵	도솔암	Tosol Hermitage (Tushita Heaven Hermitage)
+門松	문송	Gate pine tree
+壯大無比	장대무비	Imcomparably large and grand
+蜂起	봉기	To rise up like bees; swarm (original has 부얼모양 - 벌떼모양)
+啓蒙	계몽	Enlightenment
+綱領	강령	Platform; principles; outline
+淘汰	도태	Purging; elimination; weeding out
+衡平	형평	Equality; fairness (used for Paekchŏng rights movement)
+網羅	망라	To cover comprehensively; encompass
+民衆	민중	The masses; the populace
+走馬看山	주마간산	Viewing mountains from a running horse; cursory glance
+雄州	웅주	Great prefecture/province
+巨郡	거군	Large county
+鐵驢	철려	Iron donkey (nickname for small train)
+煖爐	난로	Stove (for heating)
+火爐	화로	Brazier
+不守郡	불수군	Not guarding/minding the county (pun)
+斡旋	알선	Mediation; good offices; arrangement
+貧窮民	빈궁민	Poor people; destitute populace
+頌德碑	송덕비	Monument praising virtues
+모루히네	모르히네	Morphine (older phonetic transcription)
+弊風	폐풍	Bad custom; evil practice
+給錢乞食	급전걸식	Paying money to beg for food; poor service for payment
+衾具	침구	Bedding
+稱怨	칭원	To express resentment; lament; complain
+旱災	한재	Drought damage
+債鬼	채귀	Debt collector (lit. debt demon)
+可怪	가괴	Strange; odd; queer
+同性愛	동성애	Same-sex love; homosexuality
+美童	미동	Beautiful boy; catamite
+哀乞伏乞	애걸복걸	To beg pitifully; implore earnestly
+雇用農軍	고용농군	Hired farm laborer
+異性愛	이성애	Heterosexual love
+懸案	현안	Pending issue; outstanding question
+改修	개수	Repair; improvement; renovation
+着手	착수	To start work; commence (original has 看 手中)
+無錢無勢	무전무세	Without money and power
+奪掠	탈략	Plundering; looting; seizure
+羅列	나열	Listing; enumeration (used derogatorily: 나부랭이)
+不逞	불령	Lawless; rebellious (used derogatorily: 부스럭이?)
+輩屬	배속	Group; ilk; hangers-on (used derogatorily: 부랑자 등속)
+秀山	수산	Beautiful mountain (used ironically for bare mountain)
+赤裸裸	적나라	Naked; bare
+慘酷	참혹	Cruel; brutal; ghastly
+伐採	벌채	Logging; felling trees
+沙汰	사태	Situation; state of affairs; (here) landslide
+萬世不忘塚碑	만세불망총비	Tombstone never to be forgotten for generations (sarcastic)
+孤城	고성	Isolated castle
+血雨	혈우	Rain of blood; bloody battle
+重圍	중위	Heavy siege; encirclement
+遺跡	유적	Remains; ruins; historical site
+斜陽	사양	Setting sun
+慘敗	참패	Crushing defeat; disastrous loss
+節死	절사	To die upholding one's principles/loyalty
+愁雨	수우	Sorrowful rain
+荒凉	황량	Desolate; bleak; dreary
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제64호
+발행일	1925년 12월 01일
+기사제목	全羅北道踏査記
+필자	特派員 車相瓚
+기사형태	기행문
+
+全羅北道踏査記
+						特派員 車相瓚
+一府十四郡인 全羅北道의 縱橫觀
+三千餘年의 長遠한 沿革
+本道는 元卞馬 兩韓의 古地로 百濟가 통합하야 完山州, 武珍州 外 99州, 郡, 縣을 置하엿더니 義慈王59년에 新羅 武烈王 及 唐高宗에게 攻滅한 바 되야 一時 都督府의 所管이 되고 未久에 新羅에 盡歸하야 景德王16년에는 全州 외 102州郡縣에 분하얏스며 또 眞盛女王5년에는 견훤이 百濟의 舊地를 反據하야 후백제라 칭하고 도성을 전주에 置하더니 其子 神釰의 대에 지하야 遂히 麗太祖의 공멸한 바 되고 其후 성종14년에 양도로 분하야 전주, 瀛州, 淳州, 馬州등의 州縣을 江南道라 칭하고 羅州, 光州, 靜州, 昇州, 澤州, 朗州 등의 州縣을 海陽道라 칭하다가 顯宗9년에 다시 합하야 전라도라 始稱하얏다. 또 李朝 仁祖時에 至하야는 全南道 及 光南道로 分하엿다가 未久에 전라도로 복호하고 英祖4년에는 일시 全光道라 改 하얏다가 同14년에 古號로 復하고 觀察使營을 全州에 置하야 1府, 4牧, 6都護府 11군 34현을 治하다가 高宗 太皇帝32년에 全州, 南原, 羅州, 濟州를 府로 승하고 觀察使를 置하더니 未久에 또 此를 廢하고 全羅南北 兩道에 分하야 本道는 관찰사를 전주에 置하고 26군을 治하다가 光武10년 9월에 求禮郡을 全羅北道에 편입하고 筏長, 興德, 高敞 三군을 本道에 移하며 且 同年에 沃溝郡을 府로 改하더니 明治43년 8월 29일 日韓倂合의 결과로 官制가 또한 변경되야 道에 장관을 置하고 大正3년 郡廢合의 際에 忠淸南道가 변경되야 道장관을 知事로 改하야 今日에 至하얏다.
+群山(府), 全州, 鎭安, 長水, 錦山, 茂朱, 任實, 南原, 淳昌, 井邑, 高敞, 扶安, 金提, 沃溝 益山,
+
+전라남북도
+
+位置, 境界, 地勢 ＜86＞
+
+本道는 我 조선반도의 서남부에 位하야 (동경 125도 50분- 127도 54分, 북위 35도 10분- 36도 16분) 延長 東西60리, 南北49리(日里)로 면적 553方里에 달하니 北은 忠淸南北道, 동은 경상남북도, 남은 전라남도와 인접하야 북방일대는 錦江으로 忠南의 일부와 상대한 외에 대개 山缶으로 경계를 劃하고 서방 일대는 萬頃, 東津 兩江을 控하야 黃海에 임 하얏다.
+地勢는 半島의 背梁 산맥이 本道의 동방, 경상남북도의 境界에서 西南으로 走하야 其 支系가 長水군 德裕山(俗離山 南支)이 되고 其南脈이 分岐하야 서북으로 駛走하다가 全州의 東南에서 更히 2系로 分하야 一은 母岳山脈이 되야 남으로 노령에 連하고 一은 北走하야 忠淸南北道에 入한 고로 동부는 산악이 중첩하야 盤若, 萬福, 環峯(智異山 系在 南原), 德裕, 長安(長水郡), 大德, 興德, 岷周之(茂朱郡) 등의 高峯(해발 4000척 내지 5700척)이 有하고 錦江, 섬진, 落東, 諸大江의 支流가 皆此에서 발하야 汚回 屈曲함으로 地勢가 극히 조잡하다. 하천의 主되는 자는 錦江, 萬頃江, 東津江이니 (1) 錦江은 本道의 동북부 及 忠淸北道 남부 평야의 諸流를 呑하야 충남의 중앙을 관통한 후 本道의 境界에 至하야 서남으로 海에 入하니 水流 연장 1,020리 내에 舟楫의 便이 有한 자 330리로 其 河口 南岸에는 유명한 群山港이 잇고 (2) 萬頃江은 源을 全州 華山面에서 발하야 全州, 益山, 金提 등 諸沃野를 貫流한 후 서해에 注하니 流路 250리에 江口 120리 間을 可히 航行하고 (3) 東津江은 源을 井邑郡 산외면에서 발하야 연장 110여里로 金提, 井邑, 扶安 3군을 貫流하야 西으로 海에 入한다.
+本道의 山脈 及 하류는 상술함과 如함으로 東 及 南半部는 高峰峻嶺이 多하나 서부는 점차 경사하야 廣茫한 대평야를 成하야 沃地 동서120리 남북200리에 及하니 古來 3南의 최대 寶庫라 칭하는 조선 주요의 米産地 全州평야가 즉 是다. 次에 해안선은 群山港 이남으로 高敞군 上下面까지 亘하야 연장 241리에 至하니, (群山, 金提, 扶安, 高敞郡 연안) 長汀曲浦의 굴곡이 多하고 近海에는 烟島, 於靑, 古群山群島, 開也, 筨篒, 桂花, 飛應 등 61 島嶼가 有하야 好個의 어장을 형성한 고로 其沿岸일대는 自來 魚鹽의 利가 多하기로 著名하엿다.
+
+그 다음의 氣候는 또 어더 한가＜87＞
+
+氣侯는 山間部와 平野部가 다소 차이가 有하다. 대개 온화하야 평균氣溫 攝氏 12도2, 최고 35도3, 최저 영하 15도3이니 群山과 全州의 기온은 大邱와 大差가 無하며 雨雪量은 京城, 元山, 江陵 及 南海岸地方一帶와 또한 大差가 無하나 기타 지방에 비하면 대개 다량인듯한 바 此를 일본의 동경에 比較하면 全州는 約 270粍가 少하고 又 蒸發量은 1287粍니 全州, 群山은 동경보다 約 580粍가 多하며 初霜은 보통 10월중하순 約霜은 4월중하순이다. 摠而言之하면 本道의 氣侯는 매우 양호하야 農産, 林産 등 각종 발육에 適宜하고 人畜의 생활에 적합하다.
+
+道內總戶數와 總人口
+大正12년 말 현재 戶口조사에 의하면 本道내 총戶數는 248,281戶로 其中 조선인은 241,330호, 일본인은 6,466호, 기타 외국인은 485호요, 총인구는 1,251,173人중 조선인은 남 635,762 여 589,844 計 12,25,606人, 일본인은 男 12,619 여 11,475, 計 24,094人, 외국인은 남 1,354, 여 119, 計 1,473人이니 一方里 평균 448호, 2,262人에 달하는 바 此를 各 府郡으로 상세히 구별하면 左表와 如하다.
+
+朝鮮人敎育과 日本人敎育
+道內 조선의 교육기관은 보통교육, 實業교육, 師範교육 3종이 有하니 보통교육은 공립보통학교 總計 101校(內 6학년制 38校, 기타 4학년制)로 현재 학급 수 440에 生徒 25,717 人을 수용하는 바(敎員 朝日人 幷 467人) 此를 全道 學齡아동 208,282명에 比照하면 취학 步合이 僅이 百分之 十二에 불과하고 소위 一面 一校제에 비하면 一面 8步 6里에 대하야 一校의 割이되며 공립고등보통학교는 全州에 一校가 有하니 此는 大正8년에 창립한 자로(민간 기부금 3만원) 修業年限 5개년, 生徒數 290人, 敎員 22人이 有하고 次에 實業교육은 全州 及 井邑의 兩個 공립농업학교(朝日人합동교육)와 裡里공립農林학교(元官으로 농업 及 임업 양과가 有하야 朝日人을 합동교육하는데 현에 日人이 多함), 群山公立水産學校, 全州公立補習學校 各 入客 一校가 有하며 且 師範학교는 全州에 一校가 有할 뿐이고 私立학교는 보통학교 一,  일반학교 3(群山청년야학회, 南二學校, 全州湖英학교), 종교학교 13(全州新典, 紀全 及 群山 永明, 에리뽀 엘덴校 其中 完全) 外에 사립高敞高等普通학교가 有한 바 此는 福岡縣 門司市 출신 桝富安左衛門씨(영농자)의 창립한 자로 大正12년에 當地 朝鮮人＜90＞ 有志가 협력하야 財團法人이 되엿스니 道內 유일한 사립고등보통학교다(此外 書堂 及 강습소 등은 略함).
+尙 又 日本人의 교육기관은 明治32년 5월 群山開港당시에 영사관分館 淺山主任夫人이 일본인 아동 5人을 수용, 교육함으로 爲始하야 伊來 이주민의 급격 증가와 동시에 長足 진전되야 현재 공립소학교는 34校 중 高等科를 倂置한 자가 12校에 至하니 其中 全州(13학급), 群山(24학급), 裡里(9학급), 金提(8학급) 등 諸 小學校는 기규모가 매우 宏大 完備하고 고등여학교는 群山, 全州 及 裡里에 3校가 有하야 校舍 及 기타 설비가 또한 완전하니 此外에 群山에는 공립중학교, 공립상업補習학교, 사립유치원 각 1개소가 잇다.
+道內 朝鮮人의 교육과 日本人의 교육 개황은 이상과 如하거니와 此를 朝鮮人과 日本人의 人口비례로 見하면 其設備의 차이가 霄壤의 判이 有함은 물론이고 특히 여자교육에 至하야는 일본인은 3개의 고등여학교가 有함에 不拘하고 조선인은 全道內에 尙히 一校도 無하니 당국이나 人民이 여자의 교육을 如何히 等閒視하는지 족히 推知할 것이다. 此는 全北人士의 특히 留意할 일이다.
+道內 종교상황은 擧皆 不振의 상태에 在한 中 불교, 유교는 尙矣莫論이고 기독교는 일본인 布敎에 係한 일본기독교일본組合基督派와 서양인포교에 係한 南長老派, 天主, 救世軍 등이 有하나 其數 15,000餘에 불과하고(其中 南長老派가 유력함) 天道敎는 甲午亂時에 극히 熾盛하야 一時는 全道가 天道敎의 천하인 觀이 有하더니 戰敗의 餘禍로 氣力이 尙振치 못하나 총수 萬餘에 至한다(其中 全州, 井邑, 任實이 最多함).
+
+産業上으로 본 全羅北道
+本道는 全羅南道와 共히 조선의 一大寶庫다. 陸에는 南鮮의 穀倉이라 칭하는 수백리의 全州沃野(所謂 平野部)가 平閛 하고 해안선은 240여리에 달하는 中近海에 60여 島嶼가 星羅碁布하야 魚類의 棲息이 繁盛하며 日境內에는 유명한 地異, 德裕, 邊山 등 諸高山이 有하야 千古斧斤이 不入한 大森林과 無盡藏의 광물을 有하고 萬頃, 金提(일명 東津江), 錦江의 3 大河가 貫流하야 自來 灌漑舟楫의 편이 有한 外에 湖南철도, 全北철도가 道內를 관통하며＜91＞ 全鮮屈指의 무역항인 群山港이 有하야 상업이 또한 왕성하고 加之 기후온화하야 天惠人功이 特多함으로 각종의 산업이 또한 가관할 자가 多하니 今其 槪況을 擧하면 左와 如하다.
+◇ 農業.  本道의 동부인 鎭安, 錦山, 茂朱, 長水, 南原, 淳昌, 任實 등 7군의 소위 山間군는 경지가 少하나 서부인 群山, 全州, 益山, 金提, 井邑, 沃溝, 扶安 등 1府7군의 소위 平野部는 新地가 多하야(통칭 全州平野) 東西 凡120里, 南北 凡200리에 달하고 萬頃, 東津 兩江이 其 問을 貫流하야 地味가 극히 비옥하니 全鮮有數의 米産地다. 현재 兩部 耕地의 總면적은 233,434町 5反步로(道전면적의 2할 7분) 其 7할 1부 즉 168,900정보는 답이오, 2할 9분 즉 67,767정보는 田이며 道內 農家 摠戶數는 248,281戶니 其中 조선인이 202,081호, 日本人 1,349호, 중국인 66호오, 又 토지소유자의 상황은 지주수는 千分之 13, 自作은 千分之 60, 소작인 겸 自作은 千分之 268, 소작인은 千分之 658에 至하며 且 日本人의 地主는 東拓을 爲始하야 千町步이상을 有한 자만 9人으로 합계 38,549정보에 달한다(他記事祥載). 연이 농산물의 주요한 자로 곡물, 錦類, 麻類 등이니 최근 1-개년간 평균 수확고는 米 1,830,130石, 麥類 460,556石, 豆類 185,448石, 錦類 84,394,33斤, 大魔 277,25貫, 苧麻 38,449貫으로 1개년 총槪算額이 63,396,002圓이오, 又 蠶繭額은 약978,162원, 畜産額은 10,729,389원이다.
+◇ 工業.  工業은 농업과 共히 本道 산업의 主宗되는 자니 조선인의 공업은 其産額이 7,950,000圓餘에 달하야 장래 발전의 素質을 有한 자가 多한 바 就中 製紙, 窯業, 石器, 莞草莚, 扇子, 苧麻布 등이 最주요하니 (1) 製紙는 산지 10郡에 跨하야 其기원이 約200여년에 至하얏는대 원료가 극히 豐備하고(楮皮 약23만貫) 紙品이 또한 極好하야 自來로 內外國에 저명한 바 年産 약35만원이오, (2) 窯業은 年産 약23만원으로 각郡에서 皆産하는 바 高敞 磁器는 품질이 極好하야 高麗磁器와 彷佛하며, (3) 石器는 長水郡 특산으로 각종의 제작품이 有한 中鋿, 火鉢 등은 견고無比하고 품질이 好하나 但 搬出의 불편으로 産高가 僅히 2천여원에 止하고, (4) 莞草莚은 管內 到處에 産하야 年産 약9만원이오(全州 有 莞草莚회사공장), (5) 扇子, 團扇은 主로 全州에서 제작하는데 본道持産品으로 世에 저명하야＜92＞ 年産額 7만여원에 至하며, (6) 苧麻는 井邑, 高敞의 특산으로 其품질이 優良하야 苧布의 명산지인 忠南의 서천, 韓山 등지(忠苧 원료 皆出 全北)로 輸出되고(약40만원) 又 苧布도 약14만원의 생산이 有하며, (7) 苧布는 약26만원 錦布는 약30만원이다. 又 일본인의 공업은 産高 약392만원 내외로 其주요한 자는 精米, 釀造, 鐵工, 煉瓦, 電氣, 인쇄 등이니 其中 群山의 朝日精米공장은 규모가 극히 宏大하야 南鮮에 유명한 자이다.
+◇ 林業.   林業은 本道산업의 제3위에 居하는 자니 임야 면적 약56만町步로 총면적의 6할 5분을 占하야 其地質의 대부분이 片麻巖으로 구성되고 其間에 中生層 及 花崗岩이 交在하야 斑巖, 珍巖이 도처에 노출되엿다. 然而 삼림 植物帶上으로 觀하면 일부 暖帶 及 寒帶가 有하나 대부분이 溫帶지역에 속하고 식물의 종류가 甚多하야 此를 獎勵保護하면 全鮮 有數의 森林國이 될 소질이 有하나 多年 林政不振의 결과로 임야면적의 약 5分之 4를 점유한 成林地 及 稚樹 發生地를 除한 외에는 擧皆 未立木地 又는 流沙地가 되야 滿目 荒凉의 慘景을 未免하는 바 현재 임산총액은 약3,925,799원에 止한다.
+◇ 수산업.   本道의 沿海는 沃溝, 金提, 扶安, 高敞의 4郡이 相連하야 해안선 약240여里에 달하고 錦江, 東津, 萬頃의 3江이 貫流하는 외에 近海에는 60餘의 島嶼가 有하야 천연의 好個 어장을 成하고 且 暖流, 寒流가 交流하야 어족, 藻類의 棲息이 多하니 石首魚, 鯛, 鰆, 大刀魚, 鯨, 鱈, 鱋, 鱲, 鰕 등은 魚産의 중요한 자로 年産額 1,529,522원(수산 製造高 幷)에 至한다.
+◇ 광업.   광물은 亦 도처에 산재 하야 금, 은, 동, 鉛, 아연, 水鉛, 黑鉛, 硅素 등이 皆産하니 就中 全州군의 *田, 雨林, 雲仙의 3면, 鎭安군의 朱川, 銅鄕, 馬靈, 顔川의 4면, 錦山郡의 福壽, 秋富, 南二, 珍山의 4면, 茂朱郡의 茂朱, 赤裳, 茂豊의 3面, 長水郡의 天川, 溪內의 2面, 南原郡의 南原, 三峙, 大山의 3面, 井邑僅의 永元, 德川, 古阜, 所聲, 金提郡의 水流, 金溝, 沃溝郡의 大野, 臨坡, 瑞橞, 益山郡의 態浦面 등은 道內 鑛産의 저명지로 총區數 40, 면적 14,622평이니 其中 일본인의 경영은 鑛區數 28, 면적 8,831평이오 조선인의 경영은 僅히 12, 鑛區, 5,780평에 止한다(産額如別表).
+◇ 商業.   本道는 物産의 풍부, 교통의 편리, 인구의 조밀한 관계상 상업이 또한 성행하니 道內 회사수 51에 至하고＜93＞ (銀行竝) 시장수는 64로 1개년 賣揚高 4,893,286원이오 무역은 전혀 群山을 중심으로 하야 輸移出 32,815,010원, 輸移入 8,638,582원, 총 貿易高 4,145만원에 달하니 輸移出品의 중요한 자는 穀物(米 141만石), 牛皮, 棉類 등이오, 輸移入의 중요한 자는 棉布, 砂糖, 食鹽, 석탄, 燃寸, 栗, 豆粕 등이며, 又 상업 중추요지는 군산, 전주, 이리, 정읍, 김제, 남원 등지니 대개 일본인과 지나인의 세력이 多하다.
+然而 本道의 산업개황은 이상과 如 하거니와 此를 다시 각 부분 별로 상세히 구분하면 즉 左表와 如하다.
+
+日本人에게 全滅된 全北의 土地
+숩풀이 조흐면 독깁이가 꾀고 움덩이가 깁흐면 작아사리가 끌는 법이다. 全羅北道는 조선 寶庫요 米庫이다. 토지가 비옥하고 기후가 온화한며 水陸의 교통이 또한 편리한 까닭에 일본인의 침략이 다른 곳 보다도 더 격심하얏다. 임업, 광업, 어업 등은 餘皆 倣此이닛가 말도 말고 조선인의 유일한 생명인 토지까지도 모도 다 그 사람의 손으로 드러가고 말엇다. 其中에도 平野部―鷄卵으로 치면 노른자가튼 金提, 萬頃, 益山 沃溝, 井邑, 全州, 高敞 등은 그들의 세력이 더욱 놀날만하게 扶植되엿다. 농장으로, 精米공장으로, 水利조합으로 방방곡곡이 蹂躪을 당하야 조선인의 全생활을 侵奪하엿다. 작년의 大地主는 금년에 自作農이 되고 今日의 자작농은 明日에 소작인이 되여 배주고 뱃속 비러먹는 격이 되엿다. 과거의 寶庫와 米倉은 벌서 남의 것이 되고 조선인은 僅히 노력을 가지고 부속적 農奴가 되야 그날그날을 지나며 飢寒에 悲泣하고 西北間島 혹은 大阪, 東京으로 離散한다(그것도 지금은 如意치 못한다). 이제 새삼스럽게 그 상황을 드러말하는 것은 마치 死人의 병세를 論하는 것과 다름이 업다. 그러나 자서이 알어나 둘 필요는 잇다. 爲先 全北道內에 일본인의 50町步 이상의 대지주를 들어 보자-. 그들은 끔직하게도 수효가 만하서 一言으로 지칭할 수가 업다. 즉 左表와 갓다.＜95＞
+
+右表를 고찰하면, 東拓 8,851町步가 최상이오 其次는 態本利平의 2,952町이다. 그뿐이냐. 國有未墾地貸付도 전부 일본인이다. 이제 그 貸付한 토지의 상황을 示하면 또한 左表와 갓다.    도내 일본인의 50정보 이상 대부 及 미간지 대부상황＜97＞
+
+이상은 그들의 소유한 토지 及 貸付地를 示한 것이어니와 그들은 또 大資本으로 年年히 灌漑事業에 착수하야 대규모의 水利조합을 조직하고 혹은 金力 혹은 官力으로 小地主인 조선인을 威嚇한다. 全道의 통계상으로 보면 물론 水利조합이 생기는 동시에 灌漑區域이 늘고 따라서 産米가 매년 증가된다. 그러나 小地主의 조선인은 그 이익보다 당장 그 조합 부담금이 곤란하야 작구 토지를 파는 까닭에 다수 조선인의 토지는 자연 少數 일본인 대자본가에게 兼倂되고 만다. 水利組合은 명칭상 水利조합이나 朝鮮人에 在하야는 사실 水害組合(전부는 물론 안이다)이다. 엇잿던 全北의 水利조합은 조선중에 最先, 最大로 발달되엿다. 이제 그 개황을 示하면 左表와 갓다.
+
+도내 수리조합 개황
+
+1. 기설 수리조합으로 공사완료된 자
+
+2. 공사중에 係한 자
+
+3. 同계획 예정자
+
+然而 道內 旣히 설립된 水利조합은 右表와 如히 沃溝, 益山, 全州, 井邑, 高敞, 扶安, 淳昌 등 7郡에 亘하야 凡 8개소로＜98＞ 蒙利面積 34,526町步에 달하는 데 就中 龍進水利組合 及 赤城수리조합은 尙今 工事중에 在한 즉 未久 完成될 것이고 또 東津水利조합은 금년 10월 14일에 일본인 大林組가 775,000원에 入札하야 近近 공사에 착수한다 云한다.
+이상에 示한 몃 가지만 보와도 全北의 일본인의 농업상의 세력이 엇더한 것을 알려니와 이제 全道 경지 총면적 233,434町 5反步에서 山間部 田 30,374町沓 48,433町 計 78,807町을 除하면 平野部가 약 沓 118,505町, 田 37,393町, 計 155,898町인데 此평야부에서 일본인의 소유 及 貸付한 것을 除하면 조선인의 소유가 과연 얼마나 되나 계산하야 보라. 참으로 놀납고 한심치 안이하냐. ＜99＞
+
+全北의 重要列郡槪況 - 平野部 一府 七郡과 山間部 七郡
+本道는 地形上 平野部 及 山間部 2者로 구분함을 可得할지니 평야부는 즉 群山, 全州, 沃溝, 益山, 金堤, 井邑, 扶安, 高敞 등 1府 7郡이오 山間部는 南原, 任實, 淳昌, 鎭安, 長水, 茂朱, 錦山 등 7郡이니 이제 그 개황을 列記하면 左와 如하다(但 他기사에 入한 者는 畧함).
+□ 群山府.  所謂 미곡의 港 群山府는 本道 서해안에 在하야 조선 6대강의 1인 錦江의 하구를 擁하고 강을 隔하야 忠南의 舒川과 相對하엿다. 此地는 원래 적막한 一어촌으로 光武3년 明治32) 己亥에 開港되야 長足의 진보한 결과 今에는 일약하야 貿易額이(41,450,000원) 全鮮 諸港 중 제3위에 거한다. 湖南철도 群山支線(14리)이 裏里의 幹線과 連絡되고 水路 定期의 선박이 寄港되야 교통히 극히 편리하며 港內에 상공업(특히 精米業)이 성행하는 中秋李미곡 수출기에는 각지 富豪, 巨商이 雲集하야 俄然이 人山人海를 成하고 旦此에 종사하는 노동자가 他항구보다 特多하다. 그리고 各 官公廳, 학교, 병원, 회사, 은행 등의 각종 도시적 시설도 완비하엿다. 然而 本港은 수심이 3尋에 불과하고 하구에 暗礁, 堆砂가 多하야 3백頓이상의 기선이 入港키 難하고 又 潮汐의 차가 심하야 (20尺 내외) 航行이 곤란함으로 근래 築港문제가 起하야 屢次 일본의회에까지 提案이 되엿는데 此가 만일 해결된다 하면 群山은 面目을 一新할 것이다.
+□ 全州郡.  本郡은 후백제의 古都오 本道 도청소재지니 湖南 제일 大都會다. 서는 多佳川의 淸流에 임하고 동은 高德峯 남은 坤止山을 負하며 完山 7峯은 完然이 屛風과 如히 水를 隔하야 相對하고 서북은 所謂 全州평야가 전개되야 天府金湯의 地를 형성하엿다. 此地는 郡內에 전북철도가 개통되야 裡里幹線과 連接하고 且 1, 2, 3 등 도로가 四通八達하야 호남교통선의 중심이 되고 또 自㚓 湖南의 정치, 경제 及 문화의 중심지가 될뿐 안이라 又 李朝의 發祥之地인 고로 其名이 世에 著하고 山明水紫의 裏에 樓臺, 城池, 寺刹 등 명소고적이 多하야 往古의 殷富한＜100＞ 것을 족히 推想할만 하다. 然이 本郡의 특산은 鳳東生薑, 高山蹲柿, 紙物, 早紅(八月柿), 水柿(無核), 구기자, 扇子 등이 저명한다.
+□ 益山郡.  益山郡은 本道 서북 隅에 在하니 동남은 萬頃江을 隔하야 茫茫한 全州평야를 접하고 서남은 臨沃평야, 서북은 錦江으로 忠南 서천, 北은 江景평야로 論山과 隣하얏다. 本郡은 元馬韓의 古都로(소위 金馬郡) 大正3년에 成悅, 礪山, 龍安 3군을 합병하엿스니 군청 소재지 裏里는 湖南線 樞要驛으로 군산선의 分岐點이 되는 동시에 전북輕鐵의 기점이 되야 철도십자가로에 臨한 고로 상업이 번성하고 市街가 櫛比하나 東拓을 위시한 (有支店) 일본인의 각 농장이 多하고 水利조합이 多한 까닭에(詳細在別記) 白寅基(有華星 농장), 朴基順 幾個 부호를 除한 외에는 조선인은 경제상 何等 세력이 업다.
+□ 金提郡.  金提, 萬頃의 배띠(一夜味)뜰이라면 모를 사람이 별로 업슬 것이다. 이 郡은 東津, 萬頃 兩江의 유역에 在하니 東方에는 母岳山脈이 屹立하얏스나 서남북으로 평야가 전개되야 소위 東津평야를 成하얏스니 토지가 극히 비옥하야 조선 유일의 好農業地지다. 然而 일본인은 10여년전에부터 벌서 토지를 매수하고 농업에 착수하야 石川, 阿部 兩大 농장 외에도 현재 7-8개의 농장이 잇고 소유경지 沓 53,841町, 田 4,491町에 달하야 조선인은 빈 깍지만 가지고 잇는 바 前日 소위 兩傘 밧고 갈비 먹는다던 樂地의 人이 擧皆 박아지를 들고 雨中에 棄骨을 拾食할 境에 당하얏다. 이것은 참으로 비참한 일이다. 조선인의 생명인 토지가 全滅된 이상에야 다시 무슨 말 할 것이 잇스랴. 상업, 공업이다. 그럿다. 아수운대로 金傘寺, 碧骨提 古蹟의 자랑과(詳細在 別記) 金提, 芙蓉 兩驛이 잇서서 교통편리의 자랑이나 할가. 도특산으로 萬頃의 網巾, 細棉布, 院坪의 生梨, *東의 蓴菜도 자랑할 만하다. 그러나 郡內에 賭博軍만코 보통＜101＞學校生徒까지 도루히네注射者가 잇는 것은 弊風中 大弊風이다. 그리고 發起한 중학期成會가 건전히 잘듸야 목적에 도달하기를 바란다.
+□ 井邑郡은 從來 1僻阪의 小邑으로 철도개통 及 郡廢合의 결과에(古阜 及 泰仁 合郡) 一躍 大郡이 되야 現今에는 市街, 산업, 교통, 기타 모든 시설 등이 타大郡과 손색이 少無하다. 然而 本郡은 自來 山明水紫하기로 道內에 저명하니 別記한 內裝山은 井邑의 一大 자랑거리요 또 家家에 溪流를 灌入하야 소위 東家水入西家水의 狀을 呈하니 井邑이라 名함이 당연하며 叉 苧布가 多産하는 바 忠南 苧布도 擧皆 此郡에서 원료를 공급한다(又 宋尤庵謫死地로 유명하다).
+□ 南原郡.  春香으로 이름 나고 壬辰倭亂(明將 楊元 敗此 略5천人 사망, 今有 八忠祠 及 萬人塚), 東學亂에 사람 만히 죽기로 유명한 南原郡은 道內 남방의 제일 大都會地다. 往昔에 全州, 羅州와 其히 觀察府가 되고, 또 그 이전 三國時에 帶方都督府가 된 까닭에 명소고적이 全道중 最多하며, 地形으로는 北에 全州, 任實, 南에 求禮, 東北에 雲峰, 西南에 谷城, 淳昌을 통행하는 四通八達의 要衝에 當한 고로 古來 군사상, 상업상 중요지점이 되얏다. 市街는 兵火를 廢經하야, 凋殘와 觀이 不無하나, 상업이 성행하고, 인물이 繁多하야 산간 大郡의 稱을 엇기 可하다(12월부터 전등도 가설).
+□ 錦山郡.  本郡은 亦 山間大邑이니 大田에서 약80리許에 在하야 자동차가 통행하는고로 비교적 교통이 편리하고 物貨가 交集하야 市街 자못 殷富하다. 本郡은 往昔 壬辰亂시에 趙重峰이 700義士와 節死한 곳인 고로 戰地로 저명하고(今有 義士塚) 또 인삼산지로 전국에 有數하다.
+此外에 淳昌(紙物 及 고초장 名地), 長水(義妓 論介 出生地, 石器産地), 扶安(邊山木材 多産), 高敞, 鎭安, 任實 등은 후일에 讓하고 略한다.
+
+이 땅의 名勝과 古蹟
+전라북도는 조선의 中樞之地다. 수천년이전에 벌서 馬韓이 건국하고 其後 新羅, 百濟의 燦爛한 문화가 잇섯스며(後百濟包含), 또 域內에는 금강, 東津, 萬頃의 3대강과 지리, 내장, 馬耳, 亦裳, 덕유의 諸大山이 屈曲汚回하야 到處에 勝地古蹟이 許多하나 屢千年間의 不絶한 兵火는(例如 壬亂, 東學亂) 역사적 遠物과 자연의 경치를 무참히 파멸하야 今에 其形影도 可考키 難한 者가 多하다. 그러나 아순대로 잇는 것만을 대강 기록하면 下와 갓다.
+
+◇ 廣寒樓.  春香의 이름을 아는 사람은 또한 南原의 名樓 廣寒樓를 다 알 것이다. 이 廣寒樓는 南原群 南門 外에 잇스니 李朝초에 彼 유명한 재상 南原 출신 黃喜(翼成公)의 經始한 바로(創建時 樓名廣遠而 其後 鄭麟趾 改名 廣寒) 歷代 府使, 郡守 등의 遊宴場이 되야 屢度의 修築을 가하얏다. 其 서에는 蛟龍山城, 남에는 金鶴山, 동에는 智異山이 잇고 樓前에는 智異山에서 발하는 蓼天의 下流가 汚回하야 小湖를 成하고 湖중에는 3개의 小島를 設하야 瀛洲, 方丈, 蓬萊라 칭하며 蓬萊島에는 또 小閣을 建하야 瀛洲閣이라 칭하고 島中에는 佳樹奇木이 多하야 四時 芳香이 不絶하며 湖上에는 석교를 가설하야 4개 虹腰門이 有한대 技工이 頗히 교묘하니 즉 世人이 皆知하는 烏鵲橋다(在樓西). 현존의 樓臺는 약300년전 건물로 景福宮내의 慶會樓와 대개 구조가 相同하니 참으로 南國의 名樓다. 然而 현재에는 南原지방법원支廳이 되야 관리의 獨占物이 되고 말엇다.
+◇ 蛟龍山城.  南原邑 서 20町되는 거리에 在한 데 基山은 密德, 福德 兩峰이 有하야 氣勢 天을 穿함과 如하니 고래 湖南 유일한 要害地라 칭하고 城石築은 주위 5,717척, 高 10척으로 山의 中腹에 완연히 起伏하야 一見하면 支那의 萬里長城을 見함과 如한 感이 잇다(固有 99井, 16軍倉). 此城은 往昔 帶方都督시대에 唐칙사 劉仁軓 所築으로 其後 壬亂시에 都元師 權慄이 義僧將 處英으로 修築한 바 인데 明將 楊元이 丁酉年에 此城을 能守치 못하고 평지에서 戰하다가 大敗하야 明 及 조선인 5천의 희생을 生케 하고 後人의 嘲笑를 受하얏스니 즉 府使 鄭錫湖 詩에 楊元無膽不知兵, 不守蛟龍守此城(指南原邑城), 漢師十萬同時死 怨入*聲 日夜鳴 云云의 句가 그 한 예이다. 然而 築城연구大家 關野 博士와 廣田 文學士의 설에 의하면 此城은 支那, 朝鮮의 築城法에는 其例가 無한 妙法으로 특히 입구의 2중벽은 世에 극히 不見한 築城法이라 云하얏다(境內又有善國寺水石淸幽).＜103＞
+◇ 荒山大捷碑.  南原郡 舊 雲峰邑 동 16리 花水리 荒山麓 평야 중에 在한 大石碑는(碑 高1丈, 幅5尺, 臺龜 高4尺, 幅2間) 麗季에 李太祖가 倭酋阿只拔都를 격파한 勝捷碑니 宣祖10년에 雲峰縣監 朴光玉이 朝命에 의하야 創建하얏다(金貴英撰文礪城君宋寅書南應雲篆).
+◇ 內藏山.  井邑驛 동남 約30리許에 突兀한 奇峰이 雲際에 瓚出한 자는 湖南 名山 內藏山 이다. 此山은 其名과 如히 含蓄이 극심하고 굴곡 特多하야 실로 九曲의 羊腸을 成하고 계곡은 소위 一溪又一溪 溪中 更*溪로 되야 幽* 閑寂의 趣가 別有天地의 감이 잇고 左右의 山脚은 殆히 垂直狀을 成하야 往往히 竹筍의 列立과 如하고 全山에 松柏, 楓, 楡, 榧의 수목이 繁茂하나 地質이 대개 玄武岩인 고로 樹身이 다 矮短하야 극히 古奇한 자가 多한 중 楓樹가 특히 多하야  秋季에 至하면 滿山의 紅葉이 錦帳을 布함과 如함으로 湖南 金剛의 명칭이 잇다. 山麓의 內藏寺는 일명 靈隱寺니 百濟 武王38년(唐 貞觀11년)에 창건한 湖南 名刹로 古蹟이 또한 多하다.
+◇ 彌勒塔.  益山郡 金馬면 笑陽리 彌勒산 하에 잇스니 今에 刹竿支柱(高 13尺 5寸), 石造9층탑(初層塔身 幅 27尺), 井戶石槽 及 礎石이 殘存할 뿐이다. 此等 건물은 馬韓 武康王妃 善花부인이 王과 사자암에 幸行하다가 龍華山下 大池중에서 3體의 彌勒이 現出하는 겟을 보고 奇瑞로 생각하고 왕게 奏하야 某法僧으로 其地에 彌勒寺을 창건하고 3개 미륵을 축조하엿는대  此가 즉 그 유물이라 傳言한다. 然而 此塔은 신라 聖德王18년 9월에 電災로 파괴되야 爾來 1000여間年을 荒草에 매몰되엿다가 大正4년에 總督府에서 修理하얏다.
+◇ 王宮塔.  此는 역시 益山군 王宮面 王宮리 王址라 칭하는 高地의 南端에 잇스니 화강암의 5층석탑으로 其 由來는＜104＞ 2說이 有하니 1은 馬韓 武康왕궁 南庭에 在하던 자라 하고 一은 신라 僧 道詵의 창건한 바라 전한다.
+◇ 報德城址(五金山城).  그것도 또한 益山郡 金馬面 西古都里에 잇스니 신라 文武王3년(距今 1216년전)에 왕이 고구려의 왕자 安勝을 封하야 報德王을 삼고 此城을 築하야 占據케 한 것이다.
+◇ 金山寺.  金提郡 金山寺는 水流面 金山里 母岳山里 岳山에 잇스니(距邑 동남40里) 백제 法王의 창건한 자(법왕 원년, 距今 319년 전)로 신라 善德王2년에 慈藏法師가 칙명으로 唐에 入하야 釋迦世尊의 眞身舍利를 持來 奉安하고 탑을 建하얏스니 현재 유명한 松臺 石鐘塔이 是요, 其後 景德王23년에 律師 眞表가 3층 寶殿을 建하야 彌勒佛을 奉安하엿고 또 후백제 甄萱이 其子 神劍에게 此寺에 유폐되엿다가 羅州로 逃하야 麗太祖에게 降한 事는 역사에 昭然한 바이다. 當寺의 전성시기는 백제의 시대니 古傳에 의하면 당시 승려가 천有餘, 堂宇 수백餘間으로 全羅 사찰 중 제일班에 居하야 諸사찰을 統轄하얏다한다. 然而 此 古刹은 壬辰의 兵火에 燒盡하고 其後 光海君13년 辛酉3월에 重建하얏스니 此가 즉 현존의 건물인 바 기 3층의 彌勒殿은 당시 유명한 목조대건물로 結構가 심히 웅대 화려하야 전국내 稀有의 古건물이다. 現 總督府는 此寺를 특별보호建造物에 編入하야 大正11년에 보조금으로 一新 수리하고 尙且 그 寺 造物을 특별 보관케 하엿스니 其 중요한 자는 舍利塔, 七重塔, 十三重塔, 石蓮, 刹竿支柱, 大鐵釜(有2개, 容積 30石), 미륵불, 5백羅漢, 彌勒殿, 銅鐘, 大寂光殿, 深源菴, 七星閣 及 石碑 등이다.
+◇ 碧骨堤.  金提郡 서남 10리餘 扶梁面에는 往古 貯水池의 古堤가 잇스니 그 이름은 碧骨堤다. 此堤는 距今 1180여년전 즉 신라 脫解王21년에 축조하얏스니 당시의 水源은 3流가 有하고 (二流 發 金提 母岳山, 一流 發 泰仁象頭山) 延長 1800여 間 (약 30町) 주위 16400 町步, 灌漑 면적이 數郡에 亘하얏다 云한다. 其後 점차 황폐에 歸하얏다가 신라 元聖王時에 증축 수리하고 또 고려의 顯宗 及 仁宗시에도 수차 修補하얏스며 李朝 太宗時에는 전라도 검사 朴礎 及 全羅道 觀察使 朴習이 朝命으로 蒙利區城 留民 1만人을 發하야, 大修築을 하얏스나 其後 政弊의 결과로 此堤도 역시 황폐에 歸하고 今에는 但히 당시 건설한 水門 及 石碑만 殘存하야 昔時의 偉業을 추상케 할 뿐이다. 然而 此堤는 古阜 訥堤와 益山 黃登堤와 共히 三湖라 칭하얏스니 전라도를 湖南이라 칭 함이 此에 基因 하얏다. ＜105＞
+□ 萬景臺  「千仞岡頭石逕橫, 登臨使我不勝情, 靑山隱約扶餘國, 黃葉繽紛百濟城(下二句略)은 鄭圃隱先生의 萬景臺詩엿다 此萬景臺는 全州郡 南方에 屹立한 高德山의 北麓南固山城內에 잇스니 石峰이 奇秀하야 完然이 層雲의 狀을 呈하고 其上에는 數人이 可坐할 만한 데 眺望이 遙遠하야 江景論山의 平野와 群山諸島를 歷歷히 指顧한다
+□ 德津池  全州市外北方約十里許에(全北鐵道德津驛後) 잇스니 背後에 鬱蒼한 松林이 잇고 十里의 碧波가 溶溶漫漫하야 恰然이 鏡面과 如하며 池中에는 蓮花가 多하야 夏季盛開時에는 萬朶의 花가 完然이 三千粉黛의 擁立함과 如하야 詩人墨客의 淸興을 助하며 池畔에는 翠香, 不老의 兩名亭이 有하야 四時遊人의 笻音絃聲이 不絶한다 그리고 風月亭詩의 「一望深淵暎翠空, 古來開鑿幾人功. 村煙數里籠秋月, 漁笛一聲橫晩風」은 古來名詩로 膾煑한다
+□ 多佳山  全州市街의 西方에 잇스니 所謂多佳川의 淸流에 臨하고 其北麓에는 老樹鬱蒼한 間에 多佳亭이 有하야 眺望에 適宜한 바 其上에 登하면 全州의 全景이 一眸의 下에 入한다(今爲多佳公園)
+□ 梧木臺·慶基殿·肇慶廟  全州는 李朝發祥의 地인 故로 其遺蹟이 한 만흐니 就中著名한 者는 梧木臺, 慶基殿 肇慶廟다 肇慶廟는 李氏의 始祖司空公神位와 其妣慶州金氏의 神位를 奉安한 處니(全州市東) 英宗辛卯에 創建하얏고 其廟前에 慶基殿은 李太祖의 祀宇니 太宗十年庚寅에 創建하야 光海甲寅에 觀察使 李慶全이 重修하얏스니 其建築이 宏大華麗하고 境內廣濶하야 其一部는 未來公園地로 開放한다 云하며 且梧木臺는 全州市街南東方에 在한 高丘니 麗末에 李太祖가 雲峰에서 倭寇를 破滅하고 歸路에 此에 駐驆하야 宗族會를 開하고 遊宴한 곳이다(今有太祖駐驆碑)
+□ 禪雲寺  高敞郡雅山面에 在하니(舊茂長邑北二十里) 亦新羅時古刹로 本名은 金愛寺 又 一名은 龍門寺니 伽藍이 雄大壯麗하고  兜率庵의 門松 龍門의 洞窟과 鳳頭巖, 仙寫岩의 奇景이 多하며 巖劑彌勒佛은 壯大無比하야 亦是 一觀의 價値가 잇다
+然而 此外에 名山으로는 南原의 智異(智異는 慶南道號에 詳載故로 略), 扶安의 邊山, 鎭安의 馬耳, 耶馬溪, 茂朱의 赤裳 等이 有하나 玆에 略한다＜106＞
+
+全北의 靑年運動과 勞働運動
+全羅北道의 靑年運動은 他道의 靑年運動과 맛찬가지로 己未以後에 各郡이 부얼(蜂群)모양으로 이러나서 或은 靑年敎養 或은 地方啓蒙運動에 만흔 努力을 하엿섯다 그러나 몃해전지도 그 運動이 아즉 氣分的運動에 不過하더니 數年以來로 漸次組織化, 意識化하야 몬저 그 綱領과 主義目的을 變更하는 同時에 會員을 亦是整理(例如年齡制限, 官公署員其他灰邑分子淘汰)하야 今日에는 面目이 一新케 되얏스니 其中 運動이 活氣잇는 곳은 全州, 益山(裏里) 金堤, 群山인 바 金堤靑年會는 元 金堤靑年俱樂部後身으로 大正九年에 會名을 變更하고 今年六月에 金堤無産靑年會, 金堤新興靑年會와 合同하엿는데 現在會員約一五○人으로 趙在述, 李奉吉, 趙周安, 趙履喆 朴淵 等 諸氏가 中心이 되고 裏里靑年會는 會員約九十六人으로 林赫根, 金甲基, 裴憲, 林豹, 梁相卿 諸氏가 中心이 되고 全州靑年會는 林澤龍, 宋柱祥, 李平權, 朴泰和, 金均, 宋泰鏞, 金東樹 諸氏가 中心이 되고  群山靑年會는 金永暉, 趙容寬外 諸氏가 한 中心이 되얏다 그런데 今年에는 다시 以上諸靑年會를 中心으로 하야 全北靑年聯盟을 組織하고 새 運動을 開始한다
+(全州靑年會, 全州女子靑年會, 全州衡平靑年同盟, 裏里靑年會. 裏里勞農靑年會, 群山靑年會, 群山勞靑, 群山衡靑, 錦山靑年會, 沃溝엑쓰靑年會, 鷲山靑年會, 金堤靑年會叅加會舘在全州) 그리고 全北의 群山, 裏里, 金堤, 全州 等 몃곳는 自來交通便利, 商工業(主人은 누구던지) 發展된 關係上 勞働者數가 全鮮 어느 道보다도 多하고 러서 近來勞働運動도 相當한 活氣가 잇다 卽 裏里에는 自由勞働者同盟, 配達人組合, 店員親睦會, 牛馬車組合, 自成組合(鐵運勞働者)이 잇고 金堤에는 勞農同盟(會員約六百人) 群山에는 勞働共濟會(海運輸業者) 群山勞働會(仝上)群山勞働靑年會外에 精米, 鐵道, 理髮, 鐵木工, 印刷職工, 牛馬車夫, 配達夫 等, 十餘의 勞働者組合이 잇스니 其中勞働靑年會는 群山勞働運動의 中堅이 되여 잇고  全州에도 他郡과 가티 各種의 勞働團軆가 잇슴은 勿論이다 然而 以上 各郡의 勞働運動에는 亦是 上記한 靑年運動의 中心人物이 대개 指導를 하는데 特히 注目할 것은 全北의 靑年運動과 勞働運動指導者中에는 天道敎靑年이 多數로 잇는 것이다 摠而言之하면 全北의 靑年運動과 勞動運動은 群山, 全州, 裏里, 金堤가 中心地라 하겟고  全南에 比하면 小作運動이 매우 微弱하나 勞働運動이 强烈하다 하겟다 其外 思想運動, 少年運動, 衡平運動도 亦是 이 三郡一府가 中心이다. 裏里에는  全北一帶를 網羅한 民衆運動者大會가 잇다＜107＞
+
+湖南을 一瞥하고
+靑吾
+
+馬 中 千里馬
+走馬看山! 走馬看山 하야도 이번 전북답사처럼 走馬看山 격으로 답사해 본 적은 업섯다. 출발일, 귀경일 兩 일요일을 幷하야 겨우 14일 간에 적어도 雄州, 巨郡 10여 곳을 다 돌앗다. 走馬 중에도 千里走馬다. 그러고 보니 무슨 답사를 잘 하얏스며 記事인들 무슨 흥미잇는 것이 잇스랴. 그러나 안이한 것 보다는 헐신 나흘 것이오 또 지도나 활동사진을 보고 무슨 비평을 하는 이 보다는 그뜀˜도 실지로 본 것이닛가 조곰 나흘 줄로 안다. 나도 이럿게 自慰하거니와 독자도 역시 이러한 양해를 하고 그대로 읽어 주기만 바란다.
+
+世界 稀有의 쇠 당나귀
+기차를 흔이 鐵馬라 하지만은 全州車는 엇지도 적은지 鐵驢라는 별명이 잇다. 과연 적기는 적다. 10尺에 半割引한 내 키에도 車內에 잘 설 수가 업다. 그러고 煖爐를 놀 곳 까지도 업는 까닭에 항상 火爐만 놋는다. 其中에도 흔들녀서 각금 업허지기가 일수다. 쇠당나귀 중에도 방울 쇠당나귀다. 이것은 全北의 名物일 뿐 아니라 세계의 稀有의 珍品일 것이다.
+
+郡守 不守郡
+글자로 보면 郡守는 郡을 직히는 관리인 듯 하다. (물론 事務床守直은 아니지만) 그런데 이 번 全北은 10여 郡을 단녓스나 군수는 한 사람도 못 보왓다. 그들은 물론 사무도 잇지만은 연말이 갓차우닛가 남은 예산을 억지로라도 소비하야 될 터인 까닭에 웬만한 일에도 작구 출장을 하는 모양이다. 갑싼 總督府 돈은 아모럿케 먹어도 조치마는 下級관리들은 출장비 恩澤도 잘 입지 못한다고 혼자 呼怨만 한다.
+
+面長이냐 碑長이냐
+全南에는 富豪의 頌德碑가 만터니 全北에는 面長, 東拓 農監의 頌德碑가 특히 만타. 그런데 그 碑文을 보면 대개 稅金先當 또는 도로수리부역경감 斡旋, 東拓소작료경감교섭 등이다. 이것을 보면 全北의 인민이 세금, 도로 修築에 얼마나 부담이 만흐며 또 東拓의 토지가 얼마나 만흔 것을 알 수 잇다. 가련한 貧窮民! 1分錢 1器飯에 ＜108＞ 頌德碑를 해세우는 貧民! 그 이상 외 다른 해결 방법이 다 업슬가.
+
+六不如. 四망나니
+地不知順天, 人不知南原(人多故云), 結不如羅州, 穀不如光州, 담배 늣된 것은 長水 담때, 친구 망나니는 鎭安친구라는 말은 全羅道의 유행어다. 그런데 나는 이 것을 다시 增補하야 모루히네不如全州, (읍내만 약 800인 云)邑小不如任實, 郡廳 못된 것은 益山郡廳(참고서류도 한아 업고 일본인 관리가 大 不친절하다), 기생 못된 것은 남원 기생(다만 前日 春香과 近來 名唱 花中仙은 제외)이라 하고 십다.
+
+給錢 乞食의 旅館
+돈을 주고 밥을 비러 먹는 데는 全羅道라 특히 北道가 尤甚하다. 소위 여관업을 하는 자 들이 아즉까지 쌀밥에 기름이 져서 그러한지 손에 대해서 너무도 불친절하다. 엇던 여관이던지 차저가면 주인이라는 자가 드러오라는 말은 업고 긴 長竹물고 장나무가지 모양으로 뻣뻣이 서서 「어듸서 왓느냐」 하던지 누구를 찻너냐고 하며 또 宿泊簿는 의례 손 더러 하라 한다. 이것이 다 무슨 영업자의 버릇이냐. 그래도 숙박비는 보통 1원 50전식 또박또박(음식도 보통이고 衾具도 불결하다).
+
+豊年을 稱怨하는 가련한 농민
+농민이 풍년을 稱怨한다면 누구나 물론 놀랄 일이다. 그런데 全北의 농민들은 실제 풍년을 稱怨한다. 작년에는 수해, 旱災를 겸한 大흉년이나 地主의 소작료와 國稅도 경감하고 債鬼도 빗바지를 아니하며 각지의 구제금도 잇서서 그래도 殘命을 보존하얏지만 今年은 풍년인 까닭에 구제금이 업슨 것은 물론이고 세금, 소작료 묵은 부채를 星火가티 독촉하야 비록 풍년이라도 작년 흉년보다 더 먹을 것이 업게 되엿다. 간 곳 마다 농민의 歎怨聲에 귀가 압혓다. 가련한 조선의 농민! 특히 전북의 농민! 언제나 식량문제를 완전 해결 할고.
+
+可怪한 同性의 離別
+南道 男子들이 同性愛를 잘 한다는 평이 自來로 잇지마는 나는 금번 전북에 가슬때에 실지로 본 일이 잇다. 바로 井邑驛이다. 金提行 차를 타랴고 정차장으로 갓섯는데 엇던 털풍헌의 노동자와 더벙머리 총각 두 사람을 수십 인이 에워싸고 섯다. 나도 역시 무엇인가 하고 보닛가 그 노동자는 총각의 북두 갈구랑이 가튼 손목을 쥐고서 그저 가지를 말나고 哀乞伏乞하며 또 갈터이거던 제발 하루 밤만 더 놀다가라고 한다. 나는 벌서 그 두 친구가 同性愛하는＜109＞ 사람으로 짐작하엿다. 그러면서도 호기심으로 그 노동자를 불너서 왜 그러더냐고 무르닛가 그 노동자는 또 서슴지 안코 말하되 저 아희가 나의 美童인데 3년을 가티 지내다가 지금 타향으로 간다해서 작별하러 온 길이라 한다. 나는 구만 우슴이 나서 아모 말도 못하고 혼자 생각에 참 可怪한 일도 만타 하다가 다시 貧窮한 노동자가 年近 40여에 부자놈처럼 佳妓, 美妾의 향내는 못 맛틀지언뎡 총각 친구의 x냄새나마 그리워하는 것은 참 불상한 일이라 생각하엿다. 이런 일이 엇지 그 사람 뿐이랴. 조선의 貧窮한 노동자 특히 남의 집 雇用農軍은 일생에 異性愛를 한 번도 잘 못하고 그저 그런데에나 愛를 부친다. 참으로 이 세상은 不公平하다. 八仙女 九仙女의 愛妾을 둔 富豪 놈과 그 貧農民을 비해 볼 때에 과연 엇더한 차별이 잇는가.
+
+所謂 五大懸案
+萬頃江 改修, 東津水利組合, 섬진강 이용 雲巖수력전기공사, 群山 築港, 철도改善은 소위 全北의 五大 懸案으로 東津수리조합과 萬頃江改修문제는 이미 해결되야 공사에 看 手中이오 기타도 점차 해결될 가망이 잇다 한다. 물론 다 조흔 일이다. 그러나 그 문제를 해결하는데 無錢無勢한 朝鮮人이 과연 얼마나 이익을 바들가. 깻댁 잘못 정신차리면 현재생활까지도 外人에게 奪掠되기 쉴 것이다. 주의만 하여라.
+
+李道令 後身의 南原郡守
+全州에 갓슬 때이다. 엇던 여관에서 자는 데 그 때는 마침 林産物品評會가 열인 때이라. 各郡의 군수 나부랭이, 面長 부스럭이, 날탕패, 부랑자 等屬이 다 모혀드러 全州의 여관집, 술집, 요리집, 妓生집은 경기가 꽤 조흔 모양이엿다. 나 잇는 여관에도 엇던 사람이 술이 잔득 취해서 속옷바람으로 도라다니며 밤새도록 소리를 치며 이 사람을 보고도 山玉아! 저사람을 보고도 山玉아 한다. 그런데 알고 보니 南原군수영감이란다. 아마 李道令 죽은 귀신이 덥치지나 안엇는지 의문이다.
+
+땅까지 파먹은 人松虫
+南原의 秀山은 全北의 명물이다. 아니 전국중에도 경북 善山을 除하고는 其例가 업는 秀山이다. 근래 當局에서 다소 植林을 하얏지마는 아즉까지 全山이 赤裸裸하야 보기에 아주 慘酷하다. 그런데 그 원인을 들어보닛가 距今 15년전에 군수 權直相이가 공금을 도적질해먹고는 그것을 보충하기 위하야 國有, 民有 할 것 업시 전부 伐採한＜110＞ 餘禍라 한다. 아이고 지독한 그놈의 郡守 松虫이 공금먹고 솔먹고 지금 보면 땅까지 다 파먹엇은 셈이로구나(沙汰가 낫스닛가). 조곰 느젓지만은 南原人民들이 「行郡守構公萬世不忘塚碑」나 한개 세워 주엇스면 조켓지. (이하 검열 삭제)
+
+南原懷古
+憶昔孤城血雨飛, 書生無力破重圍, 至今遺跡空秋草, 淚入斜陽濕客衣
+萬人塚前 萬人淚
+宣祖 丁酉再亂時에 明將 楊元의 南原城 慘敗는 지금 생각하야도 치가 떨닌다. 其時에는 防禦使 吳應井, 구례현감 李元春, 總中軍 李新芳, 別將 申灝, 助防將 金敬老, 府使 任鉉, 兵使 李福男, 接待使 鄭期遠 諸公이 일시 節死하고(今 南原城內龍城舘後 有八忠臣忠烈祠) 또 明 及 朝鮮 兩國人의 一時死者가 五千에 달하야 지금까지 北門內 沓중애 萬人塚(일명 忠烈墓, 東西4間, 南北6間, 원형 石築)이라는 大塚이 잇고 또 錦山城외에는 趙重峯憲의 700義士塚은 잇다. 그런데 지금 그 양총은 다 수호하는 사람이 업고 다만 悲風愁雨에 秋草가 荒凉할 뿐이니 비록 千載 하에 잇슬지라도 우리 조선사람 된 자가 엇지 그 한이 꺼지며 눈물이 업슬소냐. ＜111＞
+＜85-111＞

@@ -1,0 +1,85 @@
+Magazine Title: 개벽 (開闢)
+Publication Date: 1925년 02월 01일
+Article Title: 日本移住同胞 約 8萬3千人 (Approximately 83,000 Korean Compatriots Residing in Japan)
+Author:
+Article Type: 소식 (News/Report)
+
+Approximately 83,000 Korean Compatriots Residing in Japan
+
+According to an investigation by the authorities, the number of Koreans residing in Japan as of the end of December, year 12 (1923), was 67,336 males and 12,281 females, totaling 80,617 people. From January 1st to the end of December, year 13 (1924), those who traveled to Japan numbered 12,895, and those who returned [to Korea] numbered 10,073. These numbers of arrivals and returnees represent the cumulative total of individuals, including those persons who may have traveled multiple times. Therefore, considering the difference of 2,822 between arrivals and returnees as the net increase of those remaining in Japan might not be entirely accurate. However, since returning multiple times involves special circumstances and the number of such cases is extremely small, viewed broadly, the number of residents increased by about 2,500 to 2,600 last year, bringing the current actual number to approximately 83,000. Among these, about 12,300 to 12,400 were women.
+
+Looking at the distribution of these compatriots, Ōsaka has the most with 23,635 people, followed by Fukuoka with 10,377, Hyōgo with 5,564, Tōkyō with 3,347, Kyōto with 4,144, and Yamaguchi with 5,131. Aichi, Hiroshima, and Hokkaidō each count over 2,700 people. The fewest are in Okinawa with 8 people and Fukui with 20. Prefectures with fewer than 100 people include Aomori, Tochigi, Chiba, Yamagata, and Miyagi.
+
+Furthermore, looking at these individuals by occupation, there are 39 officials/managers (有史), 5 soldiers, 1,155 male students, 130 female students, 4,504 unemployed males, and 3,421 unemployed females. The rest are involved in fishing/marine industries (鮮業), various types of labor, commerce, miscellaneous jobs, etc. The number of those imprisoned (在監者) was 83 the year before last, but reportedly reached over 100 by the end of last year.<57>
+
+**Summary**
+
+This 1925 news report details the Korean population residing in Japan, estimated at approximately 83,000 by the end of 1924. It notes a net increase of around 2,600 from the previous year, based on arrival and return figures, while acknowledging potential inaccuracies due to multiple trips by individuals. The article highlights the geographical distribution, with Ōsaka having the largest concentration, followed by Fukuoka, Hyōgo, Yamaguchi, Kyōto, and Tōkyō. It also provides a partial breakdown by occupation, listing small numbers of officials, soldiers, and students, a significant number of unemployed individuals, and others in labor, commerce, and fishing/marine industries. The number of imprisoned Koreans is also noted to have increased.
+
+For historians, this article provides valuable quantitative data on early Korean migration to Japan during the colonial period. The specific numbers, geographical distribution (showing concentration in industrial centers), and occupational breakdown (revealing large numbers in labor or unemployed categories) offer insights into the socio-economic conditions and patterns of movement of Koreans seeking opportunities or pushed out of Korea. The mention of imprisoned individuals also hints at social issues and potential discrimination faced by the Korean population in Japan.
+
+**Named Entities**
+
+日本	일본	Japan
+朝鮮人	조선인	Koreans
+大阪	오사카	Ōsaka
+福岡	후쿠오카	Fukuoka
+兵庫	효고	Hyōgo
+東京	도쿄	Tōkyō
+京都	교토	Kyōto
+山口	야마구치	Yamaguchi
+愛知	아이치	Aichi
+廣島	히로시마	Hiroshima
+北海道	홋카이도	Hokkaidō
+沖繩	오키나와	Okinawa
+福井	후쿠이	Fukui
+靑森	아오모리	Aomori
+栃木	도치기	Tochigi
+千葉	치바	Chiba
+山形	야마가타	Yamagata
+宮城	미야기	Miyagi
+
+**Glossary**
+
+移住	이주	Migration; Moving residence
+同胞	동포	Compatriots; Fellow countrymen
+當局	당국	The authorities
+현재	현재	The present time; Currently
+渡航	도항	Traveling overseas (specifically, to Japan in this context)
+귀환	귀환	Returning home (specifically, to Korea in this context)
+歸渡航者	귀도항자	Those who return and those who travel overseas (arrivals and returnees)
+示	시	To show; Indicate
+其中	기중	Among them; Therein
+亘	긍	Across; Spanning (used here as 수회에 亘한 者 - person who spanned multiple times)
+差數	차수	Difference (numerical)
+잔류자	잔류자	Person who remains; Resident
+大軆觀	대체관	Overall view; Broadly speaking (Older form/usage for 대체로 보면)
+實數	실수	Actual number; Real count
+석기엿다	섞이었다	Were mixed; Were included (Older spelling of 섞였다)
+分布	분포	Distribution
+최다	최다	The most numerous
+算	산	To calculate; Count
+最小	최소	The fewest; Minimum
+有史	유사	Officials/Managers (Ambiguous term in context, potentially 有司 or similar)
+無職	무직	Unemployed; Without occupation
+기타	기타	Others; The rest
+鮮業	선업	Fishing/Marine-related industry (Likely refers to industries involving fish or marine products)
+各種	각종	Various kinds
+勞働	노동	Labor (Older spelling/Hanja for 노동)
+商業	상업	Commerce; Business
+雜業	잡업	Miscellaneous jobs; Sundry occupations
+在監者	재감자	Prisoner; Inmate
+재작년	재작년	The year before last
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제56호
+발행일	1925년 02월 01일
+기사제목	日本移住同胞 約 8萬3千人
+기사형태	소식
+
+日本移住同胞 約 8萬3千人
+당국의 조사에 의하면 日本 이주 조선인수는 12년 12월 말일 현재에 남 67,336인여 12,281인 합계 80,617인인 바 13년 1월 1일부터 동 12월 말일까지 渡航한 者가 12,895인오 귀환한 者가 10,073인이다. 이 歸渡航者는 연 인원을 示한 者이니 其中에는 1人이 渡航 수회에 亘한 者도 포함되엿스니 前記 渡歸者數의 差數 2,822인을 日本 잔류자로 간주하는 것은 정확하지 못한 듯 하나 1인이 수차 귀항하는 것은 특수한 사정이 잇고 其 수도 극히 소수인 고로 大軆觀으로는 작년 중에 2천 5,6백명의 이주자를 증가하야 현재 實數는 약 83,000인 정도에 달할 것이다. 其中 여자가 1만 2천 3,4백명이 석기엿다. 此等 동포의 분포상태를 보면 大阪이 23,635인 福岡 10,377인 兵庫 5,564인 東京 3,347인 京都 4,144인 山口 5,131인 등이 최다요 愛知, 廣島, 北海道 등은 모도 다 2,700이상을 算하야 최소는 沖繩 8인 福井이 20인 등이니 100명 이하는 靑森, 栃木, 千葉, 山形, 宮城의 諸縣이다. 更히 此等을 직업별로 보면 有史 39명 군인 5명 학생 남 1,155명 여 130명 무직이 남 4,504명 여 3,421명이니 기타는 鮮業과 각종 노동 상업 雜業 등이오 在監者는 재작년 來 83명인 바 작년 말에는 100여명에 달하엿다더라.＜57＞
+＜57＞

@@ -1,0 +1,46 @@
+Magazine Title: 개벽 제52호
+Publication Date: 1924-10-01
+Article Title: 正誤表 (Errata)
+Author: N/A
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Errata
+In this issue, page 76, regarding the "Situation of Korean Students Studying in China": Shanghai's male students "Five Hundred" is an error for "Five Hundred Sixty"; Nanjing's female students "Seventeen" is an error for "Fifteen"; Beijing's female students "Thirty" is an error for "One Hundred Twenty-One"; the total male students "One Thousand Three Hundred Ninety" is an error for "One Thousand Four Hundred Fifty"; the total female students "One Hundred Twenty" is an error for "Two Hundred Nine".<50>
+
+**Summary**
+
+This brief notice corrects numerical errors published on page 76 of the same issue concerning the number of Korean students (Chosŏnin) studying in major Chinese cities (Shanghai, Nanjing, Beijing) in 1924. It adjusts the figures for male and female students in specific cities and revises the overall totals for both genders. For historians, this errata provides specific, albeit corrected, data points on the Korean student population in China during the colonial period. It underscores the significant presence of Koreans pursuing education abroad, particularly in China, reflecting intellectual and nationalist movements, and offers quantifiable insight into their distribution across key urban centers.
+
+**Named Entities**
+
+朝鮮人	조선인	Chosŏnin (Korean people)
+中國	중국	China
+上海	상해	Shanghai
+南京	남경	Nanjing
+北京	북경	Beijing
+
+**Glossary**
+
+正誤表	정오표	Errata, list of corrections
+本號	본호	This issue (of the magazine)
+頁	페이지/쪽	Page (Used Hanja for page number)
+朝鮮人	조선인	Korean person/people
+中國	중국	China
+留學生	유학생	Student studying abroad
+狀況	상황	Situation, status
+男	남	Male
+女	여	Female
+計	계	Total, sum
+誤	오	Error, mistake
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제52호
+발행일	1924년 10월 01일
+기사제목	正誤表
+기사형태	사고·편집후기
+
+正誤表
+本號 七六頁 朝鮮人 中國 留學生 狀況 中 上海의 男 五百人은 五百六十人, 南京의 女 十七人은 十五人, 北京의 女 三十人은 百二十一人, 計의 男 一千三百九十人은 一千四百五十人, 女 百二十人은 二百九人의 誤＜50＞

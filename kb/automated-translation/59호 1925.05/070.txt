@@ -1,0 +1,64 @@
+**Header Section:**
+Magazine Title: 개벽 제59호 (開闢 第五十九號)
+Publication Date: 1925년 05월 01일
+Article Title: 朝鮮의 東學黨과 中國의 國民黨 (Korea's Donghak Party and China's Nationalist Party)
+Author: Not Specified (筆者 - Pilja, "The Writer")
+Article Type: 논설 (Nonsŏl - Editorial/Essay)
+
+**Body Text Translation:**
+As the writer translates Sun Wen's biography and the principles and spirit of the Nationalist Party (Kuomintang) of China, what comes to mind concerns Korea's Donghak Party (Tonghakdang, now Cheondogyo). Thinking about it in any way, it seems that in the modern Eastern world, the groups that harbor the great cause of revolutionizing the nation and society and continue to struggle persistently are the Nationalist Party in China and the Donghak Party in Korea. Furthermore, when reflecting on the progress of these two parties, what is felt is that China's Nationalist Party first saw its formation take shape only in the autumn of the Ŭlsa year [1905], 20 years ago from now, and even tracing its system further back, it cannot go beyond the establishment of the Revive China Society (Hŭngjunghoe) in the Kapo year [1894]. In contrast, Korea's Donghak Party took shape much earlier, in the Kyŏngsin year [1860], and by the time China's Revive China Society was formed, it had already carried out a major revolutionary movement, the Kapo Donghak Uprising [1894]. Another point is that when thinking of China's Nationalist Party, one naturally thinks of Mr. Sun Wen, the party's progenitor and nurturer, and when thinking of Korea's Donghak Party, one thinks of Mr. Ch'oe Cheu (pen name Suun), the founder of Donghak and a martyr of the uprising. However, Sun Chungshan [Sun Yat-sen], if alive now, would be 60 years old, while Ch'oe Suun, if alive now, would be 102 years old. According to Sun Chungshan's autobiography, "It was in the year of defeat in the Sino-French War, the Ŭlyu year [1885], that I first resolved to overthrow the Qing court and establish the Republic" (予自乙酉中法戰敗之年, 始決傾覆淸廷, 創建民國之志), his revolutionary determination was formed 40 years ago from now, when he was 20 years old. In contrast, according to the *Tonggyŏng Taejŏn* authored by Ch'oe Suun, 86 years ago from now, in the Kihae year [1839] when he was 16, he bitterly denounced that "the king is not kingly, the subject not subjectly, the father not fatherly, the son not sonly" (君不君, 臣不臣 父不父 子不子) and left home. Then, 66 years ago from now, in Kyŏngsin [1860], he advocated Donghak for "protecting the nation and securing the people, spreading virtue throughout the world, widely saving the masses, and opening a new later heaven" (保國安民, 布德天下 廣濟蒼生, 後天開闢). I do not wish to elaborate tediously with this or that word, but anyway, as people of Korea, as people of the East, I believe there is a need to fundamentally understand and perceive these points with sympathy. <48>
+
+**Summary**
+
+The article draws parallels between Korea's Donghak movement (later Cheondogyo) and China's Nationalist Party (Kuomintang), presenting them as the primary revolutionary forces in modern East Asia. The author compares their origins, founders (Choe Je-u and Sun Yat-sen), and timelines, emphasizing that Donghak predates the formal organization of the Kuomintang and even the earlier Revive China Society. Highlighting the earlier revolutionary consciousness of Choe Je-u compared to Sun Yat-sen, the author urges Koreans and East Asians to deeply consider the significance of these two movements. For historians, the article is interesting as it reflects a Korean nationalist perspective during the colonial period, seeking to assert the historical depth and precedence of Korean revolutionary movements relative to China's, thereby bolstering national pride and consciousness by framing Donghak as an early and significant indigenous force for change in East Asia.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+東學黨	동학당	Tonghakdang
+中國	중국	Chungguk
+國民黨	국민당	Kungmindang (Nationalist Party/Kuomintang)
+天道敎	천도교	Ch'ŏndogyo
+孫文	손문	Sonmun (Sun Wen/Sun Yat-sen)
+興中會	흥중회	Hŭngjunghoe (Revive China Society/Xingzhonghui)
+崔濟愚	최제우	Ch'oe Cheu
+水雲	수운	Suun
+孫中山	손중산	Son Chungsan (Sun Zhongshan/Sun Yat-sen)
+淸廷	청정	Ch'ŏngjŏng (Qing Court)
+民國	민국	Minguk (Republic of China)
+東經大全	동경대전	Tonggyŏng Taejŏn
+
+**Glossary**
+
+밋	및	and (older spelling)
+그냥그냥	그냥저냥	persistently, somehow (emphasizes continuation despite difficulties; older reduplicative form)
+십다	싶다	seems, appears likely (older spelling)
+늣겨지는	느껴지는	being felt (older spelling)
+업슴에	없음에	in the absence of; contrary to (older spelling/form)
+벌서	벌써	already (older spelling)
+되든	되던	which became/was (older retrospective modifier form)
+産母	산모	birth mother
+元祖	원조	founder, originator
+殉亂者	순란자	martyr (in turmoil/rebellion)
+살앗스면	살았으면	if (one) were alive (older spelling)
+距今	거금	ago, from the present time
+在하엿슴에	재하였음에	was in, existed at (older spelling/grammatical form)
+痛罵하며	통매하며	denouncing bitterly
+家를 出하야	가를 출하여	leaving home (older particle usage/phrasing)
+제창한	제창한	advocated, proposed
+煩設	번설	tedious explanation, excessive talk
+엇지햇던	어찌했던	anyway, regardless (older spelling)
+뎨	데	point, matter, place (older spelling)
+諒察할	양찰할	to understand sympathetically, perceive clearly
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제59호
+발행일	1925년 05월 01일
+기사제목	朝鮮의 東學黨과 中國의 國民黨
+기사형태	논설
+
+朝鮮의 東學黨과 中國의 國民黨
+筆者가 中國의 孫文傳과 밋 國民黨의 主義精神을 抄譯하며 생각나는 것은 朝鮮의 東學黨(今之天道敎)에 관한 것이다. 아무러케 생각하여도 近世의 東洋 天地에 잇서 국가 사회를 혁신할 大義를 품고 그냥그냥 奮鬪를 계속하는 집단으로는 中國에 國民黨이 잇고 朝鮮에 東學黨이 잇는 듯 십다. 더욱히 이 두 黨의 경과를 돌볼 때에 늣겨지는 바는 中國의 國民黨은 自今 20년 전의 乙巳秋로써 비로소 具形의 성립을 보앗스며 여긔에서 한층 올러켜 체계를 찻는대야 甲午의 興中會를 조성한 거긔에 지낼 수 업슴에 反하야 朝鮮의 東學黨은 멀리 庚申年으로써 其形을 具하야 中國의 興中會가 조성되든 그때에는 벌서 甲午 東學擧事라는 一大革新運動으로 遂行한 그것이며 또 한가지는 中國의 民黨을 생각할 때에는 스스로 그 黨의 産母이오 또 양육자인 孫文선생을 생각하게 되며 朝鮮의 東學黨을 생각할 때에 東學의 元祖이오 또 殉亂者인 崔濟愚(號는 水雲)선생을 생각하게 된다. 그런대 孫中山은 지금 살앗스면 60세이오 崔水雲은 지금 살앗스면 102세이다. 孫中山 自敍傳에 의하면 「予自乙酉中法戰敗之年, 始決傾覆淸廷, 創建民國之志」라 한 바 그의 혁명적 입지는 距今 40년 전 그의 20세 時에 在하엿슴에 反하야 崔水雲著의 東經大全에 의하면 그는 距今 86년 전 己亥 16세 時에 「君不君, 臣不臣 父不父 子不子」를 痛罵하며 家를 出하야 距今 66년 전 庚申에 다시 「保國安民,布德天下廣濟蒼生, 後天開闢」의 東學을 제창한 그것이다. 이런 말 저런 말 煩設하고자 안커니와 엇지햇던 朝鮮 사람 된 者, 東洋 사람된 者, 이러한 뎨에 대해서 근본적으로 諒察할 필요가 잇슬가한다. ＜48＞

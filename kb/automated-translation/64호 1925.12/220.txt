@@ -1,0 +1,64 @@
+Magazine Title: 개벽 제64호
+Publication Date: 1925년 12월 01일
+Article Title: 廣寒樓 (Gwanghallu Pavilion)
+Author: 姜希孟
+Article Type: 시 (Poem)
+
+廣寒樓
+						姜希孟
+知名南國廣寒樓,
+六月登臨骨欲秋.
+桂影忽來天宇靜,
+朱闌過牽牛.＜33＞
+
+Gwanghallu Pavilion
+						Kang Hŭimeng
+Known far and wide in the Southern Country is Gwanghallu Pavilion,
+In the sixth month, ascending it, my bones feel the chill of autumn.
+The shadow of the cassia tree suddenly arrives, the celestial sphere is tranquil,
+The red railing passes by the Cowherd star (Altair).<33>
+
+**Summary**
+
+This article presents a classical Chinese poem titled "Gwanghallu" by the early Joseon scholar-official Kang Hŭimeng (1418-1481). The poem praises the beauty and atmosphere of Gwanghallu Pavilion in Namwon, evoking a sense of cool tranquility even in summer and connecting the earthly pavilion with celestial imagery like the moon (implied by the cassia tree) and stars (Altair). The republication of this classic poem in a 1925 issue of *Kaebyŏk* magazine during the Japanese colonial period is significant. It reflects a continued appreciation for and assertion of traditional Korean literary heritage (written in Hanmun) amidst colonial pressures and burgeoning modernity. Historians might find it interesting as an example of cultural continuity and subtle nationalism expressed through reverence for classical literature and famous Korean landmarks.
+
+**Named Entities**
+
+廣寒樓	광한루	Gwanghallu Pavilion
+南國	남국	Southern Country (Refers to Namwon/Jeolla Province region)
+姜希孟	강희맹	Kang Hŭimeng
+牽牛	견우	Gyeonu (Cowherd Star / Altair)
+
+**Glossary**
+
+知名	지명	Widely known; Famous
+南國	남국	Southern Country (Often referring to the Jeolla Province area in Korean context)
+廣寒樓	광한루	Gwanghallu (Name of a famous pavilion in Namwon, Korea; Lit. "Pavilion of Broad Cold," referencing a mythical moon palace)
+六月	유월	Sixth month (Typically summer)
+登臨	등림	To ascend and look out from a high place
+骨	골	Bones
+欲	욕	To wish; To feel like; About to
+秋	추	Autumn; Fall
+桂影	계영	Shadow of the cassia tree (Often associated with the moon)
+忽來	홀래	Suddenly comes/arrives
+天宇	천우	The heavens; Celestial sphere; Sky
+靜	정	Quiet; Tranquil; Still
+朱闌	주란	Red railing; Vermilion balustrade (Assumed reading based on context, original shows朱*曲*)
+過	과	To pass by; To exceed
+牽牛	견우	Cowherd Star (Altair)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제64호
+발행일	1925년 12월 01일
+기사제목	廣寒樓
+필자	姜希孟
+기사형태	시
+
+廣寒樓
+						姜希孟
+知名南國廣寒樓, 六月登臨骨欲秋.
+桂影忽來天宇靜, 朱*曲*過牽牛.＜33＞
+＜33＞

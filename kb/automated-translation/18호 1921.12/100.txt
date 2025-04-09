@@ -1,0 +1,54 @@
+Magazine Title: 개벽 제18호
+Publication Date: 1921년 12월 01일
+Article Title: 李白沙의 詼謔 (Yi Paeksa's Wit)
+Author: None stated (Sourced from 奇齋雜記)
+Article Type: 잡저 (Miscellaneous Writing)
+
+Yi Paeksa (Yi Hang-bok)'s wit (詼謔) is famously well-regarded by general consensus (一般의 定評), as is self-evident (自有하거니와). One day, a certain person remarked, "The East-West conflict (東西의 戰) [the factional strife between the Tongin (東人) and Sŏin (西人) parties (黨爭)] finally brought about (致하얏다) the Japanese invasions (倭寇)." Paeksa immediately retorted (應口輒對하되), "If that is so (그러탓). If the Easterners and Westerners fought so well (善戰하얏스면), why did the Royal Court (朝廷) not use those fellows (그 輩) to defend (禦하지 아니 하얏는가) against the enemy (賊)?" (From Kijae Chapki (奇齋雜記))<83>
+
+**Summary**
+
+This short piece recounts a witty anecdote attributed to the Joseon Dynasty official Yi Paeksa (Yi Hang-bok). When someone blamed the factional strife between the Easterners (Tongin) and Westerners (Sŏin) for causing the Japanese invasions (Imjin War), Yi Paeksa cleverly turned the statement around. He questioned why, if these factions were so adept at "fighting" each other, the Royal Court didn't employ their supposed fighting skills to repel the actual Japanese invaders. The article highlights Yi Paeksa's renowned wit and subtly touches upon the theme of internal division weakening the nation. For historians, this piece shows the continued relevance of Joseon-era anecdotes and historical figures in early colonial Korean periodicals, reflecting ongoing discourse about historical causes of national weakness (like factionalism) even under Japanese rule.
+
+**Named Entities**
+
+李白沙	이백사	Yi Paeksa
+恒福	항복	Hang-bok
+東人	동인	Tongin
+西人	서인	Sŏin
+倭寇	왜구	Waegu
+朝廷	조정	Chojŏng
+奇齋雜記	기재잡기	Kijae Chapki
+
+**Glossary**
+
+詼謔	회학	Wit, humor, jest
+名高하다	명고하다	To be famous, renowned
+定評	정평	Established reputation, consensus
+自有하다	자유하다	To be self-evident, naturally possess
+或	혹	A certain, some (used before a noun)
+東西	동서	East-West (referring to political factions Tongin and Sŏin)
+黨爭	당쟁	Factional strife, party conflict
+마츰내	마침내	Finally, eventually (older spelling of 마침내)
+致하다	치하다	To cause, bring about, incur
+하얏다	하였다	Did, had done (older past tense verb ending for 하다)
+應口輒對하다	응구첩대하다	To retort immediately, reply readily
+그러탓	그러하다면	If that is so (contraction/older form)
+善戰하다	선전하다	To fight well
+하얏스면	하였으면	If (someone) had done (older conditional verb ending for 하다)
+輩	배	Group, fellows, sort (of people)
+賊	적	Thief, bandit, rebel, enemy (here referring to the Japanese invaders)
+禦하다	어하다	To defend against, repel, resist
+아니 하얏는가	아니 하였는가	Did not...? Why did (subject) not...? (older negative interrogative verb ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제18호
+발행일	1921년 12월 01일
+기사제목	李白沙의 詼謔
+기사형태	잡저
+
+李白沙의 詼謔
+李白沙 (恒福) 의 詼謔이 如何히 名高한 것은 一般의 定評이 自有하거니와 어떤 날 或 사람이 말하되 「東西의 戰 (東人과 西人의 黨爭) 이 마츰내 倭寇를 致하얏다.」한즉 白沙는 應口輒對하되 東西人이 그러탓. 善戰하얏스면 朝廷에서는 어찌 그 輩로써 賊을 禦하지 아니 하얏는가. (奇齋雜記에서)＜83＞

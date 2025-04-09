@@ -1,0 +1,43 @@
+Magazine Title: 개벽
+Publication Date: 1925년 05월 01일
+Article Title: 社告 (Company Announcement)
+Author: None specified (likely editorial staff)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+Company Announcement
+
+Mr. Kim Hyŏnggŭn (金亨根), reporter for the Kaesŏng Branch Office (開城支社), has resigned due to circumstances. We hereby respectfully announce this. Kaebyŏksa<68>
+
+**Summary**
+
+This short notice announces the resignation of Kim Hyŏnggŭn, a reporter for the Kaesŏng branch of the magazine *Kaebyŏk*. The reason cited is simply "circumstances." From a colonial history perspective, such announcements, while seemingly mundane, can be of interest. They document personnel changes within significant Korean cultural publications like *Kaebyŏk*, which operated under Japanese rule. The vague reason "circumstances" might sometimes mask underlying political pressures, economic difficulties, or internal disagreements faced by Korean intellectuals and organizations during this period, offering a small window into the operational challenges of maintaining a Korean voice.
+
+**Named Entities**
+
+開城支社	개성지사	Kaesŏng Branch Office
+金亨根	김형근	Kim Hyŏnggŭn
+開闢社	개벽사	Kaebyŏksa (Kaebyŏk Company/Publisher)
+
+**Glossary**
+
+社告	사고	Company announcement, official notice from a company/organization.
+開城支社	개성지사	Kaesŏng Branch Office (Kaesŏng is a city).
+記者	기자	Reporter, journalist.
+형편	형편	Circumstances, situation, condition.
+의하야	의하여	Due to, according to. (Older spelling/form of '의하여').
+사임하엿삽기	사임하였기에	Because (he) has resigned. (Older spelling/form and humble suffix, combines 사임하다 'resign' + -았/었- past tense + -삽- humble marker + -기 때문에 'because').
+玆에	자애	Here, hereby, at this point. (Hanja 玆 means 'this' or 'here'. '玆에' is an older/formal way to say '이에').
+謹告하나이다	근고하나이다	Respectfully announce. (Combines 謹告 'respectful announcement' + 하다 'to do' + -나이다 older humble declarative ending).
+開闢社	개벽사	Kaebyŏksa (The publishing company of *Kaebyŏk* magazine).
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제59호
+발행일	1925년 05월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+開城支社 記者 金亨根氏는 형편에 의하야 사임하엿삽기 玆에 謹告하나이다. 開闢社＜68＞

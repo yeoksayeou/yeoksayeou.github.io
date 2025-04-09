@@ -1,0 +1,59 @@
+Magazine Title: 개벽
+Publication Date: 1923년 06월 01일
+Article Title: 開闢宣川支社 設置 (Establishment of the Kaebyŏk Sŏnch'ŏn Branch Office)
+Author: None listed
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Establishment of the Kaebyŏk Sŏnch'ŏn Branch Office
+
+Location: Sŏnch'ŏn Town Center
+Area Covered: Sŏnch'ŏn, Ch'ŏlsan, Yongch'ŏn
+Branch Manager: Kim Sanggyŏm
+Advisor: Kim Hŭich'ak
+Advisor: Yi Ch'angsŏk
+External Affairs and Reporter: Wŏn Sangnim
+
+**Summary**
+
+This brief notice announces the establishment of a new branch office for the *Kaebyŏk* magazine in Sŏnch'ŏn (宣川). It details the office's location within the town center, its geographical area of responsibility covering Sŏnch'ŏn, Ch'ŏlsan, and Yongch'ŏn counties, and lists the key personnel appointed: Kim Sanggyŏm as Branch Manager, Kim Hŭich'ak and Yi Ch'angsŏk as Advisors, and Wŏn Sangnim handling External Affairs and reporting. For historians, this notice illustrates the organizational expansion and regional network of influential Korean nationalist publications like *Kaebyŏk* during the Japanese colonial period, showing efforts to disseminate ideas and maintain a presence despite colonial constraints. The listed personnel might also be figures of local or national importance worth further investigation.
+
+**Named Entities**
+
+開闢宣川支社	개벽선천지사	Kaebyŏk Sŏnch'ŏn Branch Office
+宣川 邑內	선천 읍내	Sŏnch'ŏn Town Center
+宣川	선천	Sŏnch'ŏn
+鐵山	철산	Ch'ŏlsan
+龍川	용천	Yongch'ŏn
+金尙謙	김상겸	Kim Sanggyŏm
+金熙綽	김희작	Kim Hŭich'ak
+李昌錫	이창석	Yi Ch'angsŏk
+元常林	원상림	Wŏn Sangnim
+
+**Glossary**
+
+支社	지사	Branch office
+設置	설치	Establishment, setting up
+位置	위치	Location
+區域	구역	Area, district, zone
+支社長	지사장	Branch Manager
+顧問	고문	Advisor
+外交	외교	External Affairs (here likely meaning outreach, public relations)
+記者	기자	Reporter, journalist
+邑內	읍내	Inside the town, town center
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제36호
+발행일	1923년 06월 01일
+기사제목	開闢宣川支社 設置
+기사형태	사고·편집후기
+
+開闢宣川支社 設置
+位置  宣川 邑內
+區域  宣川, 鐵山, 龍川
+支社長  金尙謙
+顧問  金熙綽
+同  李昌錫
+外交 兼 記者  元常林

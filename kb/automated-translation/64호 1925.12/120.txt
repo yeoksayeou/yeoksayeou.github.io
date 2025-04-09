@@ -1,0 +1,62 @@
+Magazine Title: 개벽 제64호
+Publication Date: 1925년 12월 01일
+Article Title: 獒樹驛의 유래 (The Origin of Osu Station)
+Author: Unknown (implied by Article Type)
+Article Type: 잡저 (Miscellaneous Writing)
+
+On the thoroughfare connecting Imsil and Namwŏn, there is Osu Station (獒樹驛) (Currently Imsil County - original text). Though its date is unknown, there was a man from Kŏnyŏng (居寧) county (Old name for Imsil - original text) named Kim Kaein (金盖仁) who had a beloved dog. One day, after going to the market, he became drunk and fell asleep on the way home. Just then, a wildfire approached, and Kaein was on the verge (還) of burning to death. His dog went to the stream, fetched water with its tail fur (尾毛), and prevented the fire, but died from exhaustion. After Kaein awoke and learned the facts, he was moved by the dog's righteousness (義), gave it a lavish burial, and planted his staff (杖) there as a marker. Strangely, buds and leaves (芽葉) grew from the staff, and thus it was named Osu (獒樹 - Mastiff Tree). From then on, the station there was also named Osu Station (獒樹驛). In Sŏ Saga's (徐四佳) poem about the Yŏnjallu (鷰子樓) Pavilion in Sunch'ŏn (順天), the line "Beyond Ch'agwŏllyŏng (鵲兒嶺), a single Osu (一獒樹)" refers precisely to this. (There is currently a monument; the story is the same as the Righteous Dog Mound (義狗塚) of Sŏnsan (善山)). ＜73＞
+
+**Summary**
+
+This article recounts the legend behind the name of Osu Station (Osuyŏk), located between Imsil and Namwŏn. A man named Kim Kaein was saved from a wildfire by his loyal dog, which repeatedly soaked its tail in a stream to douse the flames around its drunken master, eventually dying of exhaustion. In gratitude, Kim Kaein buried the dog and planted his staff at the grave. The staff miraculously sprouted leaves, becoming the "Osu" (Mastiff Tree), which gave the area and the later station its name. The article notes a similar story exists in Sŏnsan, known as the Righteous Dog Mound. For historians, this piece is interesting as it documents local folklore and place name origins during the Japanese colonial period, reflecting the preservation of Korean cultural narratives. The comparison to a similar tale in Sŏnsan and the reference to a classical poem by Sŏ Kŏjŏng (Sŏ Saga) highlight the story's cultural resonance and potential roots in older traditions.
+
+**Named Entities**
+
+獒樹驛	오수역	Osuyŏk
+任實	임실	Imsil
+南原	남원	Namwŏn
+居寧	거녕	Kŏnyŏng
+金盖仁	김개인	Kim Kaein
+徐四佳	서거정	Sŏ Saga (Seo Geojeong)
+順天	순천	Sunch'ŏn
+鷰子樓	연자루	Yŏnjallu
+鵲兒嶺	작아령	Ch'agwŏllyŏng
+善山	선산	Sŏnsan
+義狗塚	의구총	Ŭiguch'ong
+
+**Glossary**
+
+잇스니	있으니	There is/being (Older spelling of 있으니)
+街道	가도	Thoroughfare, main road
+未詳	미상	Unknown, uncertain
+愛犬	애견	Beloved dog
+갓다가	갔다가	After going (Older spelling of 갔다가)
+歸路	귀로	Way back, return path
+醉臥	취와	To lie down drunk
+마참	마침	Just then, coincidentally (Older spelling/form of 마침)
+襲來	습래	To attack, raid, approach suddenly
+燒死	소사	To burn to death
+還	환	Point, verge, situation (Used here to mean 'on the verge of')
+霑來	점래	To moisten and bring (沾濕하여 가져오다)
+氣盡	기진	To be exhausted
+醒覺	성각	To wake up, become sober
+厚葬	후장	Lavish burial
+杖	장	Staff, walking stick
+植	식	To plant
+標	표	Marker, sign
+芽葉	아엽	Buds and leaves
+遂히	수히	Finally, consequently (Older form of 드디어, 마침내)
+驛	역	Station
+卽 是다	즉 시다	Is precisely this, is exactly that (Older grammatical form combining 卽 'precisely' and 是 'this/to be')
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제64호
+발행일	1925년 12월 01일
+기사제목	獒樹驛의 유래
+기사형태	잡저
+
+獒樹驛의 유래
+任實과 南原 통행 街道에 獒樹驛이 잇스니 (今 任實郡-원문) 其 年代는 未詳하나 居寧 (任實古號-원문) 縣人 金盖仁이 愛犬이 잇섯는데 一日에 시장에 갓다가 歸路에 도중에 醉臥하얏더니 마참 山火가 襲來하야 盖仁이 燒死할 還에 至한 바 其犬이 川에 往하야 尾毛로 水를 霑來하야 火를 防하고 氣盡하야 死하얏다. 盖仁이 醒覺한 후 其 사실을 知하고 義에 感하야 犬을 厚葬하고 杖을 植하야 標하얏더니 異常이도 其 杖이 芽葉이 生하야 遂히 獒樹라 名하고 自此로 其驛도 亦 獒樹驛이라 名하얏스니 徐四佳順天鷰子樓 詩에 鵲兒嶺 外 一獒樹가 卽 是다. (今有碑事與善山義狗塚同) ＜73＞

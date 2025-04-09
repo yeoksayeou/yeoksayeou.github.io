@@ -1,0 +1,56 @@
+Magazine Title: 개벽 제2호
+Publication Date: 1920년 07월 25일
+Article Title: [무제] (Untitled)
+Author: Unknown
+Article Type: 잡저 (Miscellaneous Writing)
+
+A handful of earth (一抔) is not yet dry (未乾), yet where has the three-foot orphan (三尺의 孤) gone... Try looking upon the capital city (城中) today. Whose world (天下) will it eventually become?
+
+This is a passage (一節) from the declaration (檄文) by Yŏnggong I Kyŏngŏp (英公李敬業) denouncing Empress Wu (武后) when, after Emperor Kojong (高宗) of China's T'ang (支那唐) dynasty passed away (崩) and his burial mound's earth (陵土) was not yet dry (未乾), his empress consort (皇后), Empress Wu, killed many (多殺) of the T'ang imperial family (宗室) and sought to persecute (迫) his orphaned son (遺子).<97>
+
+**Summary**
+
+This short piece presents a quote from a historical Chinese declaration written by Li Jingye against Empress Wu Zetian. The quote laments the usurpation of power and persecution of the rightful heir immediately following the death of Emperor Gaozong, questioning whose rule the land now falls under. In the context of 1920 Korea under Japanese rule, this historical quote serves as a powerful, albeit veiled, critique of the colonial situation. Historians might find it interesting as an example of indirect political commentary and resistance through historical allegory, common in censored publications during the colonial period. It reflects a sense of loss, injustice, and questioning of the legitimacy of the ruling power.
+
+**Named Entities**
+
+支那唐	지나당	China Tang
+高宗	고종	Kojong
+武后	무후	Muhu
+唐	당	T'ang
+英公李敬業	영공이경업	Yŏnggong I Kyŏngŏp
+
+**Glossary**
+
+一抔	일부	A handful (of earth); used here referring to a grave.
+未乾	미건	Not yet dry.
+하얏거늘	하였거늘	(Older spelling) Although/Even though (it) was/did.
+三尺	삼척	Three ch'ŏk (a unit of length, approx. 30.3 cm); refers metaphorically to a young child/orphan.
+孤	고	Orphan.
+어대	어데	(Older spelling/dialectal) Where.
+試하야	시험하여	(Older spelling/form) Try to...; attempt to...
+마츰내	마침내	(Older spelling) Finally; eventually.
+誰家	수가	Whose house; whose family; whose.
+天下	천하	The world; the realm; rule under heaven.
+崩	붕	To pass away (used for an emperor).
+陵土	능토	Earth of a tomb/mausoleum.
+皇后	황후	Empress consort.
+宗室	종실	Imperial clan; members of the royal family.
+多殺	다살	To kill many.
+遺子	유자	Orphaned child; surviving son.
+迫코저 함에	박하고자 함에	(Older spelling/form) In seeking to persecute/oppress.
+討	토	To attack; to subjugate; to denounce.
+檄文	격문	Declaration; manifesto (often calling to arms or denouncing someone).
+一節	일절	One passage; one section.
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	[무제]
+기사형태	잡저
+
+一抔의 土가 오히려 未乾하얏거늘 三尺의 孤는 간 곳이 어대... 試하야 今日의 城中을 觀하라. 마츰내 誰家의 天下인가.
+支那唐의 高宗이 崩하야 陵土가 未乾에 그 皇后이던 武后가 唐의 宗室을 多殺하고 그 遺子를 迫코저 함에 英公李敬業이 武后를 討한 檄文 中의 一節이다.＜97＞

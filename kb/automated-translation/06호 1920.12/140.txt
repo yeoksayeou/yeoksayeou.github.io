@@ -1,0 +1,130 @@
+Magazine Title	개벽 제6호
+Publication Date	1920년 12월 01일
+Article Title	玄堂獨吠, 第四號 戱曲의 槪要 (續) (Hyeondang Dokpye, Outline of the Fourth Play (Continued))
+Author	曉鍾生
+Article Type	문예평론 (Literary Criticism)
+
+Hyŏndang Tokp'ye, Outline of the Fourth Play
+						Hyojongsaeng
+
+The Principle of a Play's Structure
+What was briefly explained in the fifth issue concerned the points of difference in composition between the novel and the play, but now let's speak generally about the principle of the structure upon which a play is organized. For any play to arise, there must invariably be some kind of conflict as its cause. To give an example, conflicts between individuals, conflicts between emotions, conflicts between interests, etc.—due to the cause of such conflicts, a single piece (of work) comes into being. Thus, from the origin of this conflict, as the event gradually becomes misunderstood and reaches a certain state, the resolution of the conflict is settled; this is the principle of a play's structure. However, the path from this occurrence to the resolution must be constructed in a way that provides flavor (滋味) to the viewer under certain conditions. In short, the arrangement of a play must necessarily be made (作) to clearly reveal the progression of this conflict. As such, the journey from the beginning of the event to the end is not made of just one part; naturally,
+
+All the Constituent Parts of a Play's Structure
+will exist. In other words, there will be a plot line (劇線), akin to a single thread, from the emergence of a certain conflict to its resolution, and it goes without saying that this plot line will also have threads of different colors. That is to say, there will be a part explaining the initial event where the conflict arises. Next, there will be a part where the colors gradually intensify, and the progression of the event reaches an extreme. And then, there must also be a part where the event that reached the extreme gradually resolves and finally returns to a normal state; this is the part that can be called the final conclusion (團結) where the event is summarized. As the parts of the plot line differ in this way, it is certain that there will naturally be several distinct stages. Therefore,
+
+The Form of a Play Has Five Stages and Variations in Length
+The plot line from beginning to end is generally <69> established in 5 parts, hence the form of the play is also commonly established in 5 acts (段). However, these 5 acts are not necessarily divided regularly into 5 parts. In other words, it's not like Act 1 is 50 pages, Act 2 is 50 pages, Act 3 is 50 pages, arranged strictly according to a rule of 50 pages each. Act 1 might be a bit shorter, and Act 2 might be a bit longer. In short, if the form of these 5 acts is present within one play, it can be said that the play has no defects. Furthermore, calculating by the number of acts (幕), suppose there is a continuous play of 7 acts. It's certainly possible that the first act corresponds to the 1st stage, the next act corresponds to the 2nd stage, the following two acts correspond to the 3rd and 4th stages respectively, and the final act fits the 5th stage. In essence, regardless of the number of acts, whether long or short, the form established by the 5 stages of a play must invariably be present.
+However, considering that a play typically arises from some sort of complication (葛藤), that is, conflict, there must inevitably be some underlying cause before that conflict emerges. Therefore, when we write (書) a play, before writing the 1st stage, there must necessarily be an explanation of the part that becomes the cause of the conflict. For this reason, combining the part explaining the cause of the play's conflict with the formal structure of the play, we can say the whole is established in 6 parts. If we represent this graphically, let's say 'ga' is the 1st stage, 'na' is the 2nd stage, 'da' is the 3rd stage, 'ra' is the 4th stage, 'ma' is the 5th stage, and 'ba' is the 6th stage. Then, the 1st stage part is
+
+The Play's Prologue (序幕)
+This is what it is called; in English, it is called Exposition. Generally, those who watch a play first want to know what characters appear in the entire play, what relationships exist between the characters, and what event's conflict occurs. Explaining this and making it clearly understood is the major task of the prologue. Therefore, this part is an important gateway that those intending to write a play must never treat carelessly. If the method of arrangement is uneven or messy, it will have a significantly detrimental effect on the entire play, so those studying <70> dramatic literature should pay close attention. Now, there are various means and methods used for this prologue's explanation. When we watch Japanese theatre (日本 演劇), often a light yellow curtain (淺黃幕) is drawn, and in front of it, several characters, not closely related to the play's protagonist, appear and explain the occurrence of the event through their dialogue; this is also one type of this method. In any case, the major conditions for the prologue are: first, it must be described clearly; second, it must be written concisely without being lengthy; third, it must be woven very deeply with the 2nd stage. It should not seem like something deliberately attached separately. That is, it must be joined most naturally. That's enough about the prologue, and next, let's talk a bit about
+
+The Play's Second Stage
+As mentioned before, the former is called the prologue, and this 2nd stage is called the first act; the English are said to call it introduction. It is in this stage that the conflict of the event begins to arise. Thus, there isn't any separate division between the already mentioned prologue and the 2nd stage we are about to discuss; they must mutually fuse (融合) so that the seam connecting them continues naturally without gaps. In other words, showing the path where conflict begins to arise and enters a state of activity, based on the characters and events explained in the prologue, is the task of this stage. Enough of that, next
+
+The Play's Third Stage
+Let's talk about this. Listen closely. This 3rd stage is the section (叚) that describes the place where the conflict that arose in the 1st act gradually intensifies (濃厚) and becomes even more difficult and complex (複襍); in English, it is called Rising action. Describing the path by which the conflict arising in the 1st act gradually becomes complex, in a way that seems most plausible to the viewer, is the important task of this stage. Therefore, the cause leading the conflict to its peak (絶頂) must be depicted most vividly. To give an example, if the conflict arose between characters, the characters' personalities must be described in this stage so they can be understood. Also, if the conflict originated solely from the mental action of one character, the path of how that character's mental state changes from what state to what state must be clearly depicted. Therefore, in this act, describing new characters with minimal relevance or trivial events should not be done. Why? Because there is a concern of unnecessarily leading the path of the conflict's progression into obscurity. Let's stop chattering about the play's 3rd stage <71> and now, let's talk a bit about
+
+The Play's Fourth Stage
+As mentioned before, if any event or the force of any character cannot coexist, conflict must inevitably arise between them. If these two things could coexist, then a play would ultimately be difficult to establish. Therefore, the result of the conflict between the two will lose balance, and superiority/inferiority will emerge. That is, the event will undergo a transition (轉換). Depicting such a gateway is the task of the 4th stage. This stage is called Climax in English, and also Turning Point, they say. This stage can be considered the peak (絶頂) of the conflict for the entire play; it is the most intense focal point of the conflict that determines which of the two will win or lose. The indispensable nature of this stage is to make the characters, events, and circumstances that arose from the previous stage reach this peak most naturally. It is to make the audience understand the ascent to the peak most logically and rationally. Therefore, it is a part that especially requires the skill (手腕) of the playwright. Also, for tragedy, it is the scene where sorrow (愁嘆) is most profound. Let's leave the 4th stage of the play at this and, changing the line again,
+
+The Play's Fifth Stage
+What kind of thing is this? In all human affairs, regardless of the situation or fact, when the extreme is reached, there is invariably a reversal (逆轉). That is, the play's event, having become entangled and reached its peak, passes the peak and then gradually unravels, approaching resolution. Describing such a situation is the task of the 5th stage, and it is called Fall in English. The nature of this stage is the place where judgment is made between tragedy and comedy—whether the play will end happily or sadly. If the play is likely a comedy, in this stage, all obstacles (障害) and various misunderstandings are naturally removed, and everything proceeds smoothly for the protagonist. If the play is likely to become a tragedy, conversely, the path where disaster (災殃) and sorrow (悲愁) were intensifying is gradually removed, and simultaneously, as a result, only the tragic form naturally sharpens its teeth (其牙を研磨), and the protagonist falls further into dire straits (窮境). In any case, whether it's called tragedy or comedy, describing the path where the cause of the conflict, having reached its peak as mentioned in the previous stage, newly arises in some direction * is undertaken in this stage. Also, from the perspective of the reader or viewer, up until the 4th stage of the play they have been watching, the viewer's <73> psychological state has been watching with a kind of anxious notion about how the play will develop. Upon reaching this point, that point of doubt (疑點) begins to be removed, and with a bright and upright heart, full-hearted enthusiasm and sympathy are expressed towards the protagonist within the play. This gateway also demands extraordinary effort and skill (手腕) from the author. What is the reason? Because by the time the audience has watched the play up to this point, they have already gauged more than half of the content's circumstances, and thus they come to anticipate what the result will be. Therefore, the author cannot help but pull the audience, situated at this position, to the very end without letting their interest cease or weariness (厭症) arise. The author's greatest pains are taken in this stage due to this reason. Truly, unless the author has real ability, it is difficult to sustain the reader or viewer without causing weariness, even if this stage is drawn out long. Looking at plays of old, the tendency to often draw out the climax of the 4th stage and shorten from the 5th stage onwards exists entirely for this reason. If this stage fails, the ending becomes utterly worthless; conversely, if this stage succeeds, the play will be endlessly interesting until the end. Often, authors, in order to make this stage flavorful, insert new facts or narrate humorous (滑稽) events to make the viewers laugh. Using such devices obstructs the progression of the event nearing its resolution, causing the viewer to feel anxious and thus arousing curiosity (好奇心) with suspicion about whether the anticipated ending will be reached. In comedy, circumstances obstructing the protagonist's advance towards happiness are described, and in tragedy, the protagonist is made to seemingly gain a lease on life from nine deaths, making the already determined fate appear temporarily recovered (回復). This stage, containing such difficult problems, can be called a touchstone (試金石) testing the superiority or inferiority of the author's skill (技倆). Writing this much, separately,
+
+The Play's Sixth Stage
+Let's record a little about this. The 6th stage of the play is the very final stage; it is the concluding part that satisfies the path the viewer has been awaiting. This is called Catastrophe in English. However, some authors, especially among modern writers, sometimes use a so-called conclusionless conclusion (A Conclusion in which nothing is conclusion). A conclusionless conclusion means that the play announces its end without a conclusion that can be called a conclusion. Among modern writers, there were many cases of using this method, particularly among writers of extreme realism (極端寫實主義). <73> Their view is that plays or novels must, of course, be truthful to life. Well then, life never has anything like a conclusion. Unbroken (連綿不盡) events mutually connect, becoming causes and effects, and as long as life itself does not conclude, events will not conclude; events ceaselessly generate events. Because a play faithfully depicts such a life, there is no reason for a conclusion to exist in one part of its arrangement, they say, and concluding arbitrarily at a point where a conclusion cannot be determined is the truthful play and true literature. Under such a view, the conclusionless conclusion is used.
+This argument is certainly not without some reason, nor does it deviate from logic. However, I wonder if it isn't just looking vertically at one aspect. Originally, life indeed has neither beginning nor end. But it is an undeniable fact that within the continuous stream of boundless life, upon reaching certain junctures, a single mass is formed having both a beginning and an end, connected part by part. It is a fact that from within this infinite life, a small scale, that is, a part that can be called a microcosm of life, is extracted (捉取). Humans think about the problem of life and come to realize, "Life is like this," which also means that it is possible to grasp a finite small scale sufficient to survey this infinite life. Extracting this small-scale life, this part of life that can be seen as a microcosm of the larger life, is precisely art (藝術) and literature. Therefore, it goes without saying that in literature, that is, in a play, there must also be a part that can be seen as the result of one segment. Due to this, we should consider the existence of the 6th stage of a play with a conclusion to be rational (合理). Next... Unfinished...<74>
+<69-74>
+
+**Summary**
+
+This article by Hyojongsaeng (曉鍾生) in the December 1920 issue of *Kaebyŏk* discusses the fundamental structure of a play. It argues that plays arise from conflict and outlines a six-part structure for dramatic progression: 1. Prologue/Exposition (introducing characters, setting, conflict basis), 2. Introduction (the conflict begins), 3. Rising Action (conflict intensifies and complicates), 4. Climax/Turning Point (peak of conflict, turning point), 5. Falling Action (conflict unravels towards resolution, determining comedy/tragedy), and 6. Catastrophe/Conclusion (the final resolution). The author emphasizes the importance of natural transitions and skillful writing, especially in the later stages, to maintain audience interest. It also briefly discusses and critiques the modern realist trend of the "conclusionless conclusion," arguing for the validity of conventional endings as reflecting graspable segments of life's continuum. From a historical perspective, the article is interesting as it shows Korean intellectuals in 1920 actively engaging with and adapting Western literary theory (explicitly using English terms like Exposition, Climax, Catastrophe) to analyze and define dramatic structure for a Korean audience. This reflects the broader effort during the colonial period to modernize Korean arts and letters, incorporating international ideas while debating their application within their own cultural and philosophical context, even touching on realist aesthetics versus traditional narrative closure.
+
+**Named Entities**
+
+曉鍾生	효종생	Hyojongsaeng
+日本	일본	Japan
+英國	영국	England/Britain
+
+**Glossary**
+
+戱曲	희곡	Play; drama
+搆造	구조	Structure; composition (older spelling/Hanja usage)
+衝突	충돌	Conflict; clash
+落着	낙착	Settlement; resolution; conclusion
+滋味	자미	Flavor; interest; taste (used metaphorically for artistic appeal)
+劇線	극선	Plot line; dramatic line
+序幕	서막	Prologue; exposition (Act 1)
+淺黃幕	천황막	Light yellow curtain (specific term, likely from Japanese Kabuki theatre context)
+融合	융합	Fusion; merging
+濃厚	농후	Dense; rich; intense
+複襍	복잡	Complex; complicated (older Hanja form for 雜)
+敘述	서술	Describe; narrate
+絶頂	절정	Peak; climax
+轉換	전환	Transition; turning; conversion
+愁嘆	수탄	Sorrow; lamentation; grief
+逆轉	역전	Reversal; turnaround
+障害	장해	Obstacle; barrier (older Hanja form for 障礙)
+災殃	재앙	Disaster; calamity
+窮境	궁경	Dire straits; predicament
+陷落	함락	Fall into; sink into
+疑點	의점	Point of doubt; suspicion
+厭症	염증	Weariness; boredom; ennui (lit. symptom of disgust)
+滑稽	골계	Humor; comicality; funniness
+喚起	환기	Arouse; evoke; awaken
+沮害	저해	Obstruct; hinder; impede
+回復	회복	Recovery; restoration (older Hanja form for 回復)
+技倆	기량	Skill; ability; craft
+試金石	시금석	Touchstone; acid test
+結末	결말	Conclusion; ending; finale
+極端寫實主義	극단사실주의	Extreme Realism
+連綿不盡	연면부진	Continuous and unending; unbroken
+捉取	착취	Grasp; capture; seize (here meaning 'extract' or 'select')
+合理	합리	Rational; reasonable; logical
+업지 아니치 못할 것이다	없지 아니치 못할 것이다	Must exist; invariably exists (emphatic double negative, older form)
+잇슬	있을	Will be; exist (older spelling of 있을)
+맛참내	마침내	Finally; at last (older spelling of 마침내)
+가티	같이	Like; as; together (older spelling of 같이)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제6호
+발행일	1920년 12월 01일
+기사제목	玄堂獨吠, 第四號 戱曲의 槪要 (續)
+필자	曉鍾生
+기사형태	문예평론
+
+玄堂獨吠, 第四號 戱曲의 槪要
+						曉鍾生
+戱曲의 搆造된 原理
+第5號에 畧說한 바는 小說과 戱曲의 成分 上 相違한 點을 말한 것이나 이제는 戱曲의 組成된 搆造의 原理를 一班的으로 말해보자. 모든 戱曲이 생기는 것은 그 原因으로 어떠한 衝突이 업지 아니치 못할 것이다. 一例를 들면 個人과 個人끼리의 衝突, 情과 情의 衝突, 利害와 利害의 衝突 등 이러한 衝突의 原因으로 一篇의 마련이 發生되는 것이다. 그러면 이 衝突의 起因으로부터 事件이 漸漸 誤解되다가 어떠한 地境에 이르러서 衝突의 解結이 落着되는 것이 戱曲 搆造의 原理이다. 그러나 이러케 發生에서 解結에 이르기까지의 經路가 보는 사람으로 하여금 어떠한 條件下에서 滋味가 잇도록 하지 안할 수 업는 것이니 要컨대 戱曲의 마련은 가장 明白히 이러한 衝突의 經過를 알리게 짓(作)지 안할 수 업는 것이다. 이와 가티 事件의 始初로부터 終末까지는 한 가지 部分으로만 된 것이 아니니 勿論
+
+戱曲의 搆造된 모든 部分
+이 잇슬 것이다. 다시 말하면 어떠한 衝突이 이러나서 落着되기까지의 一絲線이라고도 할만한 劇線이 잇슬 것이요 그 劇線에도 각각 相違한 色線이 잇슬 것은 勿論이다. 다시 말하면 그 衝突이 일어나는 바 最初의 事件을 說明하는 部分이 잇슬 것이요. 그 다음에는 次第로 色彩가 濃厚하여 事件의 進行이 極端에 이르는 部分이 잇슬 것이며. 또 그 다음에는 極端에 達한 事件이 次次 解結되어 맛참내 常態로 돌아가는 部分도 업지 아니치 못할 것이니 이것이 곳 最後의 事件의 綜結되는 團結이라고 할만한 部分이다. 이와 가티 劇線의 部分이 다름으로 自然히 幾段의 區別이 잇슬 것은 定한 일이다. 이럼으로
+
+劇의 形式에 五段의 部分과 長短
+이 잇는 것이니 劇線이 始初로부터 終末까지 大槪는＜69＞ 5部分에 成立되어 잇는 것인 故로 딸아서 劇의 形式도 또한 5段으로 成立되는 것이 普通이다. 그러나 이 5段이라고 하는 것이 반듯이 5部分에 規則잇게 區分되어 잇는 것은 아니다. 다시 말하면 第1段이 50頁, 第2段이 50頁, 第3段이 50頁이라듯이 꼭 50頁式 規律잇게 分排되어 잇는 것은 아니다. 第1段이 좀 짤으기도 하고 第2段이 좀 길기도 하는 수가 잇는 것이니 얼른 말하면 一部의 劇 中에 이 5段의 形式이 具備하여 잇스면 劇으로써는 缺點이 업다고 할 수 잇다. 또 그뿐만 아니라 幕數로 計筭하여 假令 7部의 連續된 劇이 잇다고 하면 처음의 1幕이 第1段에 相當하고 다음의 1幕이 第2段에 相當하며 그 다음 2幕式이 第3段과 4段에 相當하며 最後의 1幕이 第 5段에 適合하게 되는 것도 勿論 잇는 것이니 要컨대 幕數의 寡多에 不關하고 다못 기나 짤으나 劇의 5段으로 成立되는 形式은 具備치 아니치 못할 것이다.
+그러나 생각건대 劇이라고 하는 것은 반듯이 何等의 葛藤 卽 衝突로써 생기는 것이 常例이니 그 衝突이 생기기까지는 그 以前에 어떠한 原因이 잠겨잇지 아니치 못할 것이다. 그러면 우리가 劇을 쓸(書)때에 第1段을 쓰기 前에 그 衝突의 原因되는 部分의 說明이 업지 아니치 못할 것이다. 이럼으로 劇의 衝突되는 原因을 說明하는 一部分을 劇의 形式과 合하야 全體가 6部로 成立되엇다고 할 수 잇다. 이것을 圖形으로 表示하면 가가 第1段, 나가 第2段, 다가 第3段, 라가 第4段, 마가 第5段, 바가 第6段이라고 하겟다. 그러면 第1段의 部分을
+
+劇의 序幕
+이라고 이름하는 것이니 이것을 英語로는 Exposition이라 한다. 大槪 劇을 보는 사람은 全體 이 劇에서 어떠한 人物이 나오는지 또 人物의 互相間에는 어떠한 關係를 맷고 잇는지 어떠한 事件의 衝突이 發生되는지 첫재 이것을 알리랴고 하는 것이다. 이것을 說明하고 이것을 明白히 알게 하도록 하는 것이 序幕의 큰 任務이다. 그러면 이 部分은 劇을 作코자 하는 이에게는 決코 疎忽이 取扱치 못할 重要한 대문이다. 그 整齊하는 方法이 고르지 못하거나 亂雜하게 된 것은 劇의 全體上에 크게 조치 못한 影響을 주는 것이니 적어도 劇文學을 硏究하는 이는＜70＞ 크게 注意할 것이다. 그러면 이 序幕의 說明에 쓰는 手段과 方法은 여러 가지가 잇는 것이니 우리가 日本 演劇을 볼 때에 往往히 淺黃幕을 치고 그 압헤서 劇의 主人公과는 그처럼 關係가 업는 人物 數名이 나와 그 對話로써 事件의 發生을 說明하는 것이 亦是 이 方法의 一種이다. 如何튼 序幕의 큰 條件은 第1은 明白하게 記述치 아니치 못할 것이요. 第2는 張皇치안케 簡單이 쓰지 아니치 못할 것이요. 第3은 第2段과 關係가 가장 깁게 織成되지 아니치 못할 것이다. 일부러 따로 부틴 것 가타서는 되지 아니할 것이다. 卽 가장 天然的으로 結合되도록 하여야 할 것이다. 序幕의 말은 이만하고 그 다음에는
+
+劇의 第二段
+의 이야기를 좀 하여보자. 이미 말한 바 前者를 序幕이라고 하고 이에 이 第 2段을 1幕재라고 하나니 英國 사람은 introduction이라고 한다고 한다. 이 段에서 비롯오 事件의 衝突이 일어나기를 始作하는 것이다. 그러면 이미 말한 序幕과 이제 말하고자 하는 第2段은 그 사이에 따로 무슨 區劃이 잇는 것이 아니라 서로 融合하여 그 이은 짬이 틈이 업시 自然으로 繼續되게 하지 아니치 못할 것이다. 다시 말하면 序幕에서 說明한 人物과 事件의 우에서 비롯으 衝突이 일어나 活動의 狀態로 들어가는 經路를 보이는 것이 此段의 할 일이다. 그만하고 다음에는
+
+劇의 第三段
+을 말할 것이니 들어보소. 이 第3段이라고 하는 것은 第1幕에서 일어난 衝突이 점차 濃厚하여 一層 더 어렵고 複襍한 곳을 敘述하는 叚이니 英語로는 Rising action이라고 한다. 第1幕에서 일어나는 衝突이 次第로 複襍해지는 經路를 觀覽者로 하여금 가장 그럴듯하게 보도록 記述하는 것이 이 段에 重要한 任務이다. 이럼으로 衝突을 絶頂으로 引導하는 原因이 가장 鮮明하게 描寫치 아니할 수 업다. 一例를 擧하면 그 衝突이 或 人物과 人物 사이에 일어난 것이라고 하면 그 人物의 性格을 理解하도록 이 段에 記述치 아니치 못할 것이요. 또 衝突이 오즉 한 人物의 心的 作用으로 起因되엇다고 하면 그 人物의 心的 狀態가 如何한 狀態에서 如何한 狀態로 變遷하여 가는지 이 經路를 明確하게 描寫치 아니치 못할 것이다. 이럼으로 이 幕에서는 可及的 關係가 적은 새 人物이나 또는 대수롭지 못한 事件을 敘述하여서는 되지 안한 일이다. 何故냐 하면 衝突의 進行하는 經路를 空然히 不明한 곳으로 빠치일 念慮가 잇는 까닭이다. 劇의 第3段의＜71＞ 말은 그만 짓거리고 이제는
+
+劇의 第四段
+의 이악이를 좀 하여보자. 이미 말한 바와 가티 어떠한 事件이나 어떠한 人物의 勢力이 서로 相立치 못한다 하면 그 사이에는 반듯이 衝突이 생기지 아니치 못할 것이니 이 두 일이 倂立할 수 잇다고 하면 듸디어 劇이라는 것은 成立되기 어려운 것이다. 이럼으로 兩者의 衝突된 結果가 平均을 일코 優劣이 생길 것이다. 卽 事件이 轉換될 것이다. 이러한 대문을 描寫하는 것이 第 4段의 임무이다. 이 段을 英語로는 Climax라고도 하고 또 Turning Point라 한다나. 이 段은 劇의 全體로 보아 衝突의 絶頂이라고 할 수 잇는 것이니 兩者의 어떠한 것이 이기나 지나 하는 結末되는 衝突의 가장 劇烈한 焦點이라. 이 段의 빼지 못할 性質은 前段에서 일어난 人物과 事件과 事情이 가장 自然으로 이 絶頂에 到達하도록 하는 것이다. 가장 順理로 가장 論理的으로 絶頂에 올라가는 것을 觀客에게 理解하도록 하는 것이다. 이럼으로 劇을 作하는 者 特히 手腕을 要하는 部分이요. 또 悲劇으로써는 愁嘆이 가장 深切한 場面이다. 劇의 4段을 요마만 하여 두고 다시 줄을 고쳐
+
+劇의 第五段
+이라고 하는 것은 어떠한 것인가. 우리 人事의 萬般에는 어떠한 境遇와 어떠한 事實을 勿論하고 그 極端에 達하면 반듯이 逆轉하는 것이니 卽 劇의 事件이 매쳐서 絶頂에 達하얏다가 그 絶頂을 지나면 다시 漸次로 事件이 풀리어 解結에 갓가와지는 것이니 이러한 情境을 敘述하는 것이 第5段의 任務이요 英語로는 Fall이라고 불는다. 이 段의 性質은 劇을 질겁게 매즐른지 슬프게 마칠른지 하는 卽 悲劇과 喜劇을 判斷하는 場所이다. 萬一 劇이 喜劇일 것 가트면 이 段에서 모든 障害와 여러 가지 誤解가 自然이 除去되어 萬事가 主人公으로 하여금 順調로 處理되는 것이요. 萬一 劇이 悲劇으로 되엇슬 것 가트면 이와 反對로 災殃과 悲愁가 緊張해 오던 經路가 次第로 除去된 同時에 그 結果로 오즉 悲慘한 形塊가 自然히 其牙를 硏磨하야 主人公은 더욱이 窮境에 陷落하게 되는 것이다. 如何튼 悲劇이라고 하던지 喜劇이라고 하는 것이 이미 前段에도 말한 衝突의 原因이 絶頂이 되엇다가 그것이 엇더한 方面 *로 새로이 이러나는 經路를 敘述하는 것을 이 段에다 베푸는 것이다. 또 讀者나 觀覽者 便으로 말하면 從來에 보아오던 劇의 4段까지는 觀覽者의＜73＞ 心理狀態가 어떠케 劇이 發展되어 가는지 一種의 不安한 觀念으로 보와 오다가 이 대문에 이르러 비롯오 그 疑點이 除去되어지고 光明正大한 마음으로 作中 主人公에게 滿腔의 熱誠으로 同情을 表하여지는 것이니 이 대문이 또한 作者의 非常한 努力과 手腕을 要求할 緊要한 段이라고 할 수 잇다. 무슨 까닭이냐 하면 觀覽人이 예까지 劇을 보아오면 그 內容의 形便을 半數以上이나 斟酌하는 까닭에 그 結果가 어찌될 줄도 이미 豫知하게 됨으로 이 位置에 잇는 觀覽人으로 하여금 興味가 끄치지 아니하고 厭症이 나지 아니하도록 最後까지 끄을고 가지 아니할 수 업는 고로 作者의 가장 苦心하는 것이 이 段에 이러한 理由가 잇슴을 말매암음이라. 참으로 實力잇는 作者가 아니면 이 段을 길게 끄을어도 厭症이 나지 아니하게 讀者나 觀覽者를 持久하기 어려운 것이니 古來의 劇을 보면 흔히 第4段의 絶頂까지를 길게 끄을고 第5段으로부터를 짤으게 하랴 하는 傾向이 잇는 것은 全혀 이러한 理由가 잇는 까닭이다. 萬一 이 段을 실패하면 結末이 가장 못쓰게 되는 것이요. 이와 반대로 이 段을 成功하면 劇이 끗까지 興味無盡한 劇이 될 것이다. 每樣 作家들이 이 段을 滋味스럽게 하기 위하야 新伴의 事實을 揷入하는 일도 잇고 或은 滑稽의 事件을 陳述하야 보는 者로 하여금 웃도록 하는 일도 잇는 것이니 如斯한 手段을 使用함은 解結에 갓가운 事件의 進行을 妨害하야 觀覽者로 하여곰 不安의 생각이 나게 하며 딸아서 豫想의 結末에 到達할는지 하는 疑心으로 好奇心을 喚起하는 것이다. 喜劇에는 主人公의 幸福의 進運을 沮害하는 事端을 敘述하고 또 悲劇에서는 主人公으로 하여곰 九死에 一生을 엇게 하여 이미 判定된 運命을 暫間 回復되는 것 가티 보이게 하는 것이다. 이러한 어려운 問題를 包含한 이 段은 作者 技倆의 優劣을 試驗하는 試金石이라고 할 수 잇다. 이만 쓰고 따로
+
+劇의 第六段
+을 족음 記錄하여 보자. 劇의 第6段은 가장 最後의 段이니 보는 사람으로 하여곰 이미 기다리고 잇는 進路에 滿足을 주는 結末의 末段이다. 이를 英語로는 Catarrtrophe이라고 한다. 그러나 어떤 作者, 特히 近代의 作家 中에는 所謂 結末 업는 結末(A Conclurion in which nothing is conclurion)을 使用하는 일이 잇다. 結末 업는 結末이라고 하는 것은 結末이라고 할만한 結末이 업고 시 劇이 終結을 告하는 것이니 近代作家 中에도 오로지 極端寫實主義의 作家 中에 이 方法을 쓰는 일이 만핫다.＜73＞ 그들의 主見은 劇이라던지 小說이라고 하는 것이 勿論 人生에 眞實한 것이 아니면 아니될 것이다. 그러면 人生이라고 하는 것은 決코 終結이라고 하는 것이 잇슬 것은 아니다. 連綿不盡하는 事件은 互相 結連하야 原因이 되고 結果가 되어 人生이라고 하는 것이 終結되지 아니하는 以上에는 事件이 終結되지 아니할 것이니 事件은 不絶히 事件을 發生하는 것이다. 이러한 人生을 忠實이 寫出하는 劇으로써 그 一部의 마련에 終結이 잇슬 까닭이 업다고 하야 終結을 定할 수 업는 그 곳에서 隨意로 終結하는 것이 眞實한 劇이요 眞正한 文學이라고 한다. 이러한 主見 下에서 結末 업는 結末을 使用하는 것이다.
+이 말이 決코 一理 업는 것이 아니요 道理에 벗어나는 것은 아니다. 그러나 오즉 縱으로 그 一面만 보고 하는 말이 아닌가 한다. 元來 人生이라고 하는 것은 果然 始初도 업고 終末도 업는 것이다. 그러나 限업는 生의 連續 한가운대는 어떠한 節節에 이르러 始初도 잇고 終末도 잇는 한 團塊를 이루어 一部分式 接續되어 잇는 것은 가리우지 못할 事實이다. 無窮한 이 人生의 가운대도 一小規模되는 卽 人生의 縮圖라고 할만한 一部分을 取出하는 것은 事實이다. 人間이 人生問題를 생각하야 人生이라고 하는 것은 이러한 것이다라고 깨닷게 하는 것은 亦是 이 無窮한 人生을 大觀할 만한 有限한 小規模를 捉取할 수가 잇지 아니한가. 이 小規模의 人生으로 大人生의 縮圖라고도 볼만한 人生의 一部分을 捉出하는 것이 이 곳 藝術이요 文學이다. 그러면 文學에는 즉 劇에는 또한 一部의 結果로 볼만한 部分이 잇슬 것은 다시 말할 것이 업는 바이다. 이로 因하야 우리는 結末 잇는 劇의 第6段이 잇슴을 合理로 생각할 것이다. 다음에는... 未完...＜74＞
+＜69-74＞

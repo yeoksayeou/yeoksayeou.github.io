@@ -1,0 +1,53 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1922년 08월 01일
+Article Title: 7月 初의 淸津 人口 (Population of Ch'ŏngjin at the Beginning of July)
+Author: None specified
+Article Type: 소식 (News/Report)
+
+**Body Text Translation:**
+Population of Ch'ŏngjin at the Beginning of July
+
+Koreans 1,861 households, 10,774 people
+Japanese 1,021 households, 4,949 people
+Chinese approx. 300 people
+Russians 5 people
+Total 16,000 people<74>
+
+**Summary**
+
+This short report provides population statistics for the city of Ch'ŏngjin as of early July 1922, broken down by nationality. It lists the number of households and individuals for Koreans and Japanese, and the approximate number of individuals for Chinese and Russians, summing to a total of 16,000 people. For historians, this data offers a snapshot of the demographic makeup of a significant northern port city during the Japanese colonial period, clearly illustrating the substantial Korean majority alongside a large Japanese settler population and smaller Chinese and Russian communities, reflecting colonial administration and regional migration patterns.
+
+**Named Entities**
+淸津	청진	Ch'ŏngjin
+朝鮮	조선	Chosŏn (Korea)
+日本	일본	Ilbon (Japan)
+中國	중국	Chungguk (China)
+露國	노국	Roguk (Russia)
+
+**Glossary**
+人口	인구	Population
+戶	호	Household (counter)
+人	인	Person/People (counter)
+朝鮮人	조선인	Korean(s)
+日本人	일본인	Japanese (person/people)
+中國人	중국인	Chinese (person/people)
+露國人	노국인	Russian(s) (露國 is an older term for Russia)
+餘人	여인	Approximately X people; remaining people (here used as 'approximately')
+계	계	Total; sum
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	7月 初의 淸津 人口
+기사형태	소식
+
+7月 初의 淸津 人口
+朝鮮人 1,861戶에 10,774人
+日本人 1,021戶에 4,949人
+中國人 300餘人
+露國人 5人
+계 16,000人＜74＞

@@ -1,0 +1,54 @@
+Magazine Title: 개벽 제34호
+Publication Date: 1923년 04월 01일
+Article Title: 慶南東拓所有地 (Land Owned by the Oriental Development Company in South Kyŏngsang Province)
+Author:
+Article Type: 소식 (News/Information)
+
+Land Owned by the Oriental Development Company in South Kyŏngsang Province
+(Taishō Year 10 / 1921)
+
+Dry Fields: 1751 chŏng, 8 tan, 6 se
+Paddy Fields: 5210 chŏng, 0 tan, 3 se
+Forest Land: 342 chŏng, 0 tan, 1 se
+Building Sites: 176 chŏng, 0 tan, 6 se
+Miscellaneous Land: 24 chŏng, 0 tan, 3 se
+Other: 138 chŏng<38>
+
+**Summary**
+
+This brief news item lists the land holdings of the Oriental Development Company (often abbreviated as Tōtaku or Tongt'ak) in South Kyŏngsang Province (Kyŏngnam) for the year 1921 (Taishō 10). It details the area of different land types: dry fields, paddy fields, forest land, building sites, miscellaneous land, and other categories, measured in *chŏng* and *tan*. The figures reveal substantial land ownership by the Japanese colonial enterprise, particularly in paddy fields, which were crucial for agricultural production. For historians, this data provides a quantifiable snapshot of the extent of colonial land accumulation by the Oriental Development Company in a specific region, highlighting a key mechanism of economic control and exploitation during the Japanese colonial period.
+
+**Named Entities**
+
+慶南	경남	Kyŏngnam
+東拓	동척	Tongt'ak (Oriental Development Company)
+
+**Glossary**
+
+所有地	소유지	Owned land
+田	전	Dry field (non-irrigated farmland)
+町	정	Chŏng (unit of area, approx. 0.99 ha or 2.45 acres)
+段	단	Tan (unit of area, 1/10 of a chŏng)
+畓	답	Paddy field (irrigated rice field)
+山林	산림	Forest land; mountain forest
+垈	대	Building site; lot
+雜種地	잡종지	Miscellaneous land
+其他	기타	Other; the rest
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제34호
+발행일	1923년 04월 01일
+기사제목	慶南東拓所有地
+기사형태	소식
+
+慶南東拓所有地
+(大正 十年度)
+田  一七五一町 八六段
+畓  五二一○町 三段
+山林  三四二町 一段
+垈  一七六町 六段
+雜種地  二四町 三段
+其他  一三八町＜38＞

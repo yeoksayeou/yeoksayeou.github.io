@@ -1,0 +1,65 @@
+**Header Section:**
+Magazine Title: 개벽 (開闢)
+Publication Date: 1921년 04월 01일 (April 1, 1921)
+Article Title: 新判紹介 (New Publication Introduction)
+Author: Unknown
+Article Type: 잡저 (Miscellaneous writing/review)
+
+**Body Text Translation:**
+New Publication Introduction
+Poetry Collection: Dance of Anguish (懊惱의 舞蹈)
+
+Our literary scene is too quiet, and there are too few literary books in our society. Where does the cause of this lie? We can only say it is because the literary world still lacks vitality and promotional power. If there are people with passionate hearts and true sincerity, their earnest wish, above all else, would be for many literary books to be published in our script. In this regard, one piece of welcome news is the publication of the translated poetry collection, "Dance of Anguish" (懊惱의 舞臺 - *Note: The title appears as 懊惱의 舞蹈 in the heading and 懊惱의 舞臺 in the body text. Assuming 舞蹈 'Dance' is correct based on the heading and common knowledge about this work.*). The translator, Mr. Kim Ŏk (金億), has deep expertise in poetry. This collection gathers over 8,000 lines (*8000여 수 probably refers to 80-odd poems, not 8000 lines or poems*) of famous poems from Europe and America; the exquisite charm of his translation is sufficient to be true to the original poems, and the beautiful resonance of their rhythm seems capable of intoxicating the reader. Among these, the cover design by Mr. Kim Yubang (金維邦) can be called exceptionally brilliant. We recommend that anyone with an interest in literature read it at least once. The fixed price is One Won (壹圓), and the publisher is said to be Kwangik Sŏgwan (廣益書館). <137>
+<124-137>
+
+**Summary**
+
+This article from the magazine *Kaebyŏk* (개벽) reviews the newly published translated poetry collection "Onoe ŭi Mudo" (懊惱의 舞蹈 - Dance of Anguish), translated by Kim Ŏk (金億) and designed by Kim Yubang (金維邦). The reviewer laments the scarcity of Korean literary works and praises this collection as a welcome addition, highlighting the translator's skill and the designer's artistry. It encourages those interested in literature to read the book, published by Kwangik Sŏgwan (廣益書館) for one Won. From a historical perspective, the article is significant as it reflects the nascent efforts to build a modern Korean literary tradition using the Korean script during the early Japanese colonial period. It underscores the cultural anxieties about the lack of native publications and celebrates the emergence of translated Western literature as a means to stimulate the domestic literary scene, revealing the intellectual climate and publishing activities of the time.
+
+**Named Entities**
+
+金億	김억	Kim Ŏk
+金維邦	김유방	Kim Yubang
+廣益書館	광익서관	Kwangik Sŏgwan
+
+**Glossary**
+
+文壇	문단	Literary world, literary scene
+寂寞하다	적막하다	To be desolate, quiet, lonely (older spelling: 젹막하다)
+文藝書類	문예서류	Literary books/documents
+업다	없다	To not exist, to lack (older spelling of 없다)
+活氣	활기	Vitality, energy, liveliness
+宣傳力	선전력	Promotional power, advertising power
+精誠	정성	Sincerity, earnestness
+出來하다	출래하다	To come out, be published (older form, now usually 나오다 or 출판되다)
+譯시집	역시집	Translated poetry collection
+譯者	역자	Translator
+造詣	조예	Attainments, knowledge, expertise (Here written as 造諸, likely a typo or older usage for 조예 造詣)
+譯筆	역필	Translation style/skill (literally 'translation brush')
+妙趣	묘취	Exquisite charm, subtle beauty
+足히	족히	Sufficiently, enough
+音調	음조	Tone, rhythm, tune
+佳響	가향	Beautiful sound, resonance
+醉케 하다	취하게 하다	To intoxicate, make drunk (older form)
+裝冊圖案	장책도안	Book cover design, book design
+異彩	이채	Exceptional brilliance, remarkable feature
+趣味	취미	Interest, hobby, taste
+勸告하다	권고하다	To recommend, advise
+定價	정가	Fixed price
+壹圓	일원	One Won (currency)
+發行所	발행소	Publishing house, publisher
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제10호
+발행일	1921년 04월 01일
+기사제목	新判紹介
+기사형태	잡저
+
+新判紹介
+詩集 懊惱의 舞蹈
+
+우리의 文壇도 넘우 寂寞하지마는 우리社會에 文藝書類도 넘우 업다. 이것은 그 原因이 어대 잇는가. 아즉도 文壇에 活氣가 업고 宣傳力이 적은 까닭이라고 할 수 밧게는 업다. 萬一에 뜨거운 마음과 참스러운 精誠을 가진 사람이 잇다 하면 무엇보다도 우리글로 文藝書類의 만히 出來하기를 바람이 간절할 것이다. 이에 한가지 반가운 消息은 譯시집『懊惱의 舞臺』가 出來한 것이니 譯者 金億君은 詩에 造諸가 만흔 터이라. 歐米의 名詩를 모음이 8000여 수요, 그 譯筆의 妙趣가 足히 原詩에 어김이 업고 그 音調의 佳響이 能히 讀者를 *醉케 할 것 갓다. 그 中에도 金維邦君의 裝冊圖案은 異彩中 異彩라고 할 수가잇다. 文學의 趣味를 가지신 이는 누구나 다 한번 일기를 勸告합니다. 定價는 壹圓이요, 發行所는 廣益書館이라 합니다.＜137＞
+＜124-137＞

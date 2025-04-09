@@ -1,0 +1,97 @@
+Magazine Title: 開闢 제61호
+Publication Date: 1925년 07월 01일
+Article Title: 送金注意 (Remittance Notice)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Remittance Notice
+
+One, When remitting the total payment for *Kaebyŏk*, *Sin Yŏsŏng*, *Ŏrini*, and other publications all at once, please itemize each publication (各種을 細別하야) in the communication column (通信欄).
+
+One, When sending money, be sure to make the payment via postal transfer (振替) to Kyŏngsŏng (京城) 8106. However, stamps or revenue stamps are absolutely refused.
+
+One, Subscription fees (誌代) must be paid entirely in advance. If the advance payment runs out (盡할 時), delivery of the magazine will be stopped.
+
+One, Requesting magazines via cash on delivery (代金引換) or collection mail (集金郵便) is absolutely refused.
+
+One, For the address, be sure to note the County (郡), Township (面), Village (里), and street number (番地).
+
+One, When changing your address, be sure to clearly state both the old address (舊住所) and the new address (新住所).
+
+One, Especially for readers in the China region (中國지방), if you do not clearly state your address (down to the small place name; 小地名까지) and full name (氏名) when remitting money, we cannot send the publications.<28>
+
+**Summary**
+
+This article provides detailed instructions for readers sending payments to the publisher for subscriptions to *Kaebyŏk* and other affiliated magazines like *Sin Yŏsŏng* and *Ŏrini*. It specifies that payments must be itemized if multiple subscriptions are paid together, sent via postal transfer to a specific account in Kyŏngsŏng (Seoul), and paid entirely in advance. The notice explicitly refuses payment by stamps, cash on delivery, or collection mail, and warns that delivery will stop if advance payment runs out. It also stresses the need for complete addresses, including administrative divisions (County, Township, Village, Number), and requires both old and new addresses for changes. A special instruction is given for readers in China to provide very detailed addresses and full names. From a historical perspective, this notice reveals the logistical operations of a major Korean publishing house during the colonial era, including its reliance on the Japanese postal transfer system (振替), the specific administrative geography used (郡, 面, 里), and its subscriber base extending to China. The strict payment terms and methods reflect the challenges of managing subscriptions and distribution during that period.
+
+**Named Entities**
+
+新女性	신여성	Sin Yŏsŏng
+어린이	어린이	Ŏrini
+京城	경성	Kyŏngsŏng
+中國	중국	China
+
+**Glossary**
+
+送金	송금	Remittance, sending money
+기타	기타	Other, etc.
+출판물	출판물	Publication
+대금	대금	Payment, cost
+총합하야	총합하여	Combining, totaling up (older spelling)
+일시	일시	At one time
+송금할 시	송금할 때	When remitting money (older grammar)
+각종	각종	Each kind, various types
+細別하야	세별하여	Itemizing, listing separately (older spelling)
+通信欄	통신란	Communication column (of a form)
+기입하여 주시요	기입하여 주십시오	Please fill in/write down (older polite ending)
+반듯이	반드시	Surely, certainly (older spelling)
+振替	진체	Postal transfer
+拂込하여 주시요	불입하여 주십시오	Please pay in (older polite ending)
+우표	우표	Postage stamp
+인지	인지	Revenue stamp
+일체	일체	Entirely, absolutely
+사절함	사절함	(We) refuse/decline (older verb ending)
+誌代	지대	Magazine fee, subscription cost
+선금	선금	Advance payment
+盡할 時	진할 시	When it runs out (older grammar/expression)
+送本	송본	Sending the copy (of the magazine)
+정지함	정지함	(We) stop/cease (older verb ending)
+代金引換	대금인환	Cash on delivery (COD)
+集金郵便	집금우편	Collection mail
+講求함	강구함	Seeking, requesting (older verb ending)
+郡	군	County (administrative division)
+面	면	Township (administrative division)
+里	리	Village (administrative division)
+番地	번지	Street number, lot number
+상기하시요	상기하십시오	Please note/write down clearly (older polite ending)
+변경할 시	변경할 때	When changing (older grammar)
+舊住所	구주소	Old address
+新住所	신주소	New address
+明記하시요	명기하십시오	Please state clearly (older polite ending)
+中國지방	중국 지방	China region
+限하야	한하여	Limited to (older spelling)
+小地名	소지명	Small place name (specific local address detail)
+氏名	씨명	Full name
+明記치 아니하면	명기하지 아니하면	If not clearly stated (older negative form)
+간행물	간행물	Publication
+발송치 못함	발송하지 못함	Cannot send/dispatch (older negative form)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제61호
+발행일	1925년 07월 01일
+기사제목	送金注意
+기사형태	사고·편집후기
+
+送金注意
+一, 開闢, 新女性, 어린이 기타 출판물의 대금을 총합하야 일시에 송금할 시는 각종을 細別하야 通信欄에 기입하여 주시요.
+一, 送金할 時에는 반듯이 振替 京城 8106番으로 拂込하여 주시요.
+단, 우표나 인지는 일체 사절함.
+一, 誌代는 일체 선금으로 하되 만일 선금이 盡할 時는 送本을 정지함.
+一, 代金引換, 集金郵便으로 잡지를 講求함은 일체 사절함.
+一, 주소는 반듯이 郡, 面, 里, 番地를 상기하시요.
+一, 주소를 변경할 時는 반듯이 舊住所와 新住所를 明記하시요.
+一, 특히 中國지방 독자에 限하야 송금하실 時는 주소(小地名까지) 氏名을 明記치 아니하면 간행물을 발송치 못함.＜28＞
+＜28＞

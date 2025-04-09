@@ -1,0 +1,280 @@
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	하믈레트 (Hamlet)
+필자	쉑스피아(原作), 玄哲(譯述)
+기사형태	희곡·시나리오 (Play/Scenario)
+
+Hamlet
+						Shakespeare (Original), Hyŏn Ch'ŏl (Translation/Adaptation)
+Act 1
+Scene 2
+The same. Elsinore Castle. A large hall within the castle.
+Trumpets sound. King Claudius enters first, followed by Queen Gertrude, then Prince Hamlet, Lord Chamberlain Polonius, his son Laertes, courtiers Voltemand and Cornelius, and many other nobles and attendants.
+
+King. Though the passing of King Hamlet (國王「하믈레트」王), my brother bound by flesh and blood (骨肉), occurred not yet a full month ago, it is deeply fitting for us to be immersed in profound sorrow (悲歎), and for the entire nation (擧國) to wear brows furrowed with grief (愁眉). This is naturally right according to reason (事理). However, since the great change (大變) has already occurred, merely spending time in empty sorrow (空然히 悲哀로만 歲月을 보내는 것) cannot be called such virtuous conduct. Therefore, suppressing our feelings with reason, battling against human sentiment, while deeply mourning (슯허하면서도) the late King (故王), I also cannot forget my duty (本分) as the sovereign (國主). In other words, enduring unbearable sorrow (悲歎), sharing joys and sorrows (悲喜哀歡), with one eye weeping and the other holding back a smile, we have respectfully completed the funeral rites (因山) and, clearing away tears, performed the wedding ceremony (新婚의 式). As you lords (卿等) know, establishing the former King's Queen, my sister-in-law (兄嫂), Gertrude (「카아쭐우드」), now again as Queen, and sharing the sovereignty (主權) of this Denmark (「덴마아크」), was done after consulting with wise lords like yourselves and fully following the counsel of the court (朝議), which I consider deeply satisfying... However, there is one more thing to say, which you lords likely already know. Young Fortinbras (年少輕薄者 「포오틴풀라쓰」), perhaps thinking me an inept ruler (庸主), or perhaps hearing of my brother King's (兄皇) death and speculating (臆測) that the country<149> is in turmoil, believing in some dreamlike fancy, troublesomely sends messengers (使者), babbling about recovering the territories (領土) his father, Fortinbras (其父 「포오틴풀라쓰」), ceded years ago (年前) to our valiant brother King based on the clear terms (明文) of a contract (契約). Be that as it may... the reason I have gathered you all here today is this: Fortinbras's uncle (叔父), the King of Norway (「놀웨이」王), is severely afflicted (沈重) by old age and illness (老病) in recent years and confined to his bed. Not only is he unaware of such schemes (陰謀), but also, since those mobilized (徵募) and levied (賦役) for this current effort are all his own subjects (部下), he likely lacks the power to stop them. The reasons for this are recorded (記錄) here... Lords Cornelius (「고오네리야쓰」) and Voltemand (「볼올티만드」), you shall serve as messengers (使者) on this matter to old Norway (老「놀웨이」). The authority (權利) entrusted (委任) to you extends only to the details (細目) recorded in this letter; no other power is granted. Please return swiftly (速히 復命) and show your loyal hearts (忠勤의 直心).
+Cor. Whatever the stern command (嚴命), I shall strive to fulfill it with loyalty (忠勤).
+Vol.
+King. I trust in that as well. May your journey be safe (無事).
+Cornelius and Voltemand exit.
+Now, Laertes (「레에야아티이쓰」), what is it you wish to say? What request (所願) do you have? If it is a request that accords with reason (道理에 合當한 所願), is there any reason (理致) why the King of Denmark (「덴마아크」人君) would not hear it? Laertes, if it is something you ask (請), I shall grant your wish even before you ask. The bond (情分) between your father and this Danish throne (「덴마아크」王座) is closer than head (頭) and heart (心), more intimate (密接) than hand (手) and mouth (口). Laertes, what is your wish?
+Laer. Your Majesty (惶悚하오나), I humbly request your royal permission (勅許) to return again to France (佛蘭西國). I returned joyfully to celebrate (奉祝) Your Majesty's coronation (卽位大典), but now that the grand ceremony (盛典) has passed smoothly and my official duties (公務) as a humble servant (小臣) are completed, I wish to go again to France. I humbly beg (伏乞) that you perceive (洞察) my sincere feelings (衷情).
+King. Have you then received your father's permission (父命)? What are Lord Polonius's (「뽀로오니냐쓰」卿) thoughts (意向)?
+Pol. Your Majesty (惶恐하오나), after much discussion (問答) regarding my son's earnest desire (懇切한 願望), I inevitably<150> consented (承諾) to his return. I humbly hope (伏望) Your Majesty will grant the royal command (勅敎) according to his wish.
+King. Laertes (「레야아티이쓰」), then choose an auspicious day (吉日) and depart. Time (時日) is yours (卿의 物件이다). May you spend your days fruitfully (滋味잇는 歲月). ...But now, Hamlet (「하믈레트」), 'nephew-prince' (姪王) was what I called you before. Now, my son...
+Ham. (Aside) A little more than kin (親戚 以上) outwardly (外面), but less than kind (親戚 以下) inwardly (內心).
+King. Is there discontent (不平) in your heart? Why do the clouds of worry never lift from your brow (眉間)?
+Ham. Far from clouds of worry, Your Majesty, I am too much i' the sun (넘우 볏이 들어 견디기 어려울 地境이옵니다).
+Queen. Nay, Hamlet (「하믈레트」), cast off (거더버리고) the clouds of worry hidden in your brow and serve His present Majesty (今上陛下), who is so affectionate (多情), with sincerity (精誠). What use is there in forever mourning (思慕) your father (父君) who rests in the underworld (冥府)? Is it not so that where there is life, there is death? People pass through this world to the eternal future (永劫의 未來). Isn't this the common way (常事) of this fleeting world (浮世)?
+Ham. Ay, madam (어머니), it is common (常事).
+Queen. If it be, why seems it so particular with thee?
+Ham. Seems, madam! Nay, it *is* (『그런것』이올시다). I know not 'seems' (『보인다』고 하시는 것은 알 수 업지요). Truly, what I hold within my heart (마음 가운대 먹음고 잇는 것을) cannot be expressed (發表) by this inky cloak (잉크빗의 外套), nor this customary suit of solemn black (定例의 喪服), nor windy suspiration of forced breath (일부러 품어내는 한숨), no, nor the fruitful river in the eye (샘(泉)가티 흘러내리는 눈물), nor the dejected 'havior of the visage (이마에 줄음을 짓고 눈귀를 첫더리며 입을 비쭉어리는 것)—nay, all the forms (儀式), modes (禮節), shows (外容) of grief in the whole world (온 世上). These indeed seem, for they are actions that a man might play (보이는 것이요 또 누구라도 흉내낼 수 잇는 것이지마는). But I have that within which passeth show (눈에 보이지 아니하는 것이 잇습니다); these but the trappings (形式) and the suits (衣服) of woe.
+King. Hamlet (「하믈레트야」), it is sweet and commendable in your nature to give these mourning duties to your deceased father (父王). It shows a son's utmost filial piety (孝子의 至極한 情理). But you must consider (생각해볼 것은) that your father lost (失) his father, that father lost<151> his. It is a natural duty (當然한 情義) for a son (子息) to show sorrow (哀悼) with due rites (禮節). But to persevere in obstinate condolence (넘우 지나서 哀傷으로만 歲月을 보낸다면) is, first, impious stubbornness (神明에게 不敬한 것); 'tis unmanly grief (男子답지못한 愁嘆); it shows a will most incorrect to heaven (한울에 對한 非禮), a heart unfortified (마음에 信心업는 証據), a mind impatient (短慮), an understanding simple and unschooled (無智, 愚味한 表示). For what we know must be (죽음은 이 必然으로 돌아오는 일이요), and is as common as any the most vulgar thing to sense (五官으로서 깨달을만한 一般의 常事인줄 알면서도), why should we in our peevish opposition take it to heart (마음을 거슬리고 가슴에 새겨서 이를 嘆息만 하는가)? Fie! 'tis a fault to heaven (가장 穩當치 못한 일이다. 이와가튼 일은 한울을 거스르는 것이고), fault against the dead (죽은 사람을 배반하는 것이며), fault to nature (自然을 어기며), to reason most absurd (道理를 어그러지게 하는 것이다), whose common theme is death of fathers (어버이가 먼저 죽는 것은 道理에 가장 普通의 일이요), and who still hath cried, from the first corse till he that died to-day, 'This must be so' (또한 『이것이 必然의 事』이라고 부르짓는 것이다). Hamlet (「하믈레트」), I pray thee, throw to earth this unprevailing woe (無益의 悲嘆), and think of me as of a father (나를 참으로 나흔 아비로 알아라). For let the world take note, you are the most immediate to our throne (나의 가장 直接되는 王座의 繼續者이요), and with no less nobility of love than that which dearest father bears his son do I impart toward you (내가 慈父와 다르지 아니하는 恩愛로써 너를 撫育하는 줄 알아라). For your intent in going back to school in Wittenberg (「빅덴빠아크」의 大學에 다시 가랴고 하는 것은), it is most retrograde to our desire (나의 가장 깃거하지안는 바이다). And we beseech you, bend you to remain here in the cheer and comfort of our eye, our chiefest courtier (近親), cousin (重臣), and our son (나의 사랑으로써 나의 面前에 머물기를 바란다).
+Queen. Let not thy mother lose her prayers, Hamlet (「하믈레트」야 어미의 바라는 마음을 저버리지 말아라). I pray thee, stay with us (으응, 여긔 잇고); go not to Wittenberg (「빅덴빠아크」에는 가지를 말아라).
+Ham. I shall in all my best obey you, madam (抑制하여 말슴대로 하지요).
+King. Why, 'tis a loving and a fair reply (그것은 참 奇特한 對答이다). Be as ourself in Denmark (이 「던마아크」에 머물러 우리들과 한가지 歲月을 보내자). ...Madam, come; this gentle and unforced accord of Hamlet (「하믈레트」의 柔順한 對答은) sits smiling to my heart (나의 마음으로 울어나오는 깃붐을 참지 못하겟다). In grace whereof, no jocund health that Denmark drinks to-day (只今으로부터 祝賀하는 잔치를 열고), but the great cannon to the clouds shall tell (同時에 祝砲를 구룸에 向하면), and the king's rouse the heaven shall bruit again, re-speaking earthly thunder (한울도 또한 王家의 萬歲를 깃버하여 地上의 霹靂과 서로 應하겟지). Come away (자아 저리로)...
+All exit except Hamlet. (Trumpets sound again at this time)
+Ham. O, that this too too solid flesh (여물고 단단한 이 고기덩이) would melt, thaw and resolve itself into<152> a dew (이슬과 가티 되엇스면)! Or that the Everlasting (한우님) had not fix'd His canon 'gainst self-slaughter (自殺을 큰 罪라고 하지나 아니하엿스면)! O God (한우님)! God! How weary, stale, flat and unprofitable (無聊하고도 空虛하며 平凡과 無益으로만) seem to me all the uses of this world (이 世上의 萬가지의 營造)! Fie on't! ah fie! 'tis an unweeded garden (열매를 매지랴고 하는 毒한 풀이 茂盛한 거츤 뜰(荒庭)) that grows to seed; things rank and gross in nature (내음새 나고 더러운 물건) possess it merely. That it should come to this! But two months dead (돌아가신지 오즉 두달)...nay, not so much, not two (아니 두달도 다 못되어서). So excellent a king (類에 드믄 國君)! that was, to this, Hyperion to a satyr (太陽의 神明과 獸羊의 怪物); so loving to my mother (母后) that he might not beteem the winds of heaven visit her face (面上) too roughly (거츤 바람 한번 쏘이지 아니하랴고 하시던 父皇). Heaven and earth (天地)! Must I remember (생각지 아니하면 아니될 것가)? Why, she would hang on him, as if increase of appetite had grown by what it fed on (사랑하시면 사랑하실스록 사랑과 貞操로써 縋從하랴고 하던 母后가). And yet, within a month (한달이 겨우 지날지 말지 하여)... Let me not think on't (아아, 그런 일은 생각을 마라야지 생각을)...Frailty (弱한 물건아), thy name is woman (계집이라고 하는 것이 너의 별명이다)! A little month (겨우 한달), or ere those shoes were old with which she follow'd my poor father's body, like Niobe (「니오베」와 가티), all tears (눈물을 흘리고 靈樞를 딸튼 그 신의 몬지도 털기 前에)...she, even she (母后가, 母后까지도)... O God! a beast (五倫을 모르는 禽獸), that wants discourse of reason, would have mourn'd longer (아즉동안은 슯헐 할 것인데)...married with my uncle (叔父되는 사람과 또 婚姻을 하다니), my father's brother (父皇의 親同氣하고), but no more like my father than I to Hercules (이 「하믈레트」가 「하아기유리이쯔」에 가튼 것만치도 갓지 아니한 아우와). Within a month (한달도 지나지 아니한 사이에)? Ere yet the salt of most unrighteous tears (거짓말 눈물이라도) had left the flushing in her galled eyes (눈시울에 시치어 붉은 자리가 업서지기도 前). O, most wicked speed (無慚! 非道!), to post with such dexterity to incestuous sheets (姦邪하고 淫蕩한 자리에서 기다리고 잇섯던 것가티 그처럼 急히)! It is not nor it cannot come to good (이것이 반듯이 조흔 兆朕은 아니다. 必然코 凶惡한 일의 前兆이다). But break, my heart (으응, 이 가슴이 터질대로); for I must hold my tongue (누가 오는 것갓다)!
+Horatio (「호레에시오」), Marcellus (「마아세라쓰」), and Bernardo (「빠아나아드어」) enter.
+Hor. Hail to your lordship's well-being (殿下의 康寧을 비옵나이다).
+Ham. I am glad to see you well (그대도 無事한가. 맛나니 반가웨). Horatio (「호레에시오」)—or I do forget myself (아마 「호레에시오」가튼데 或 내가 잘못보앗나).
+Hor. The same, my lord (틀님업시 臣 「호레에시오」이옵니다), and your poor servant ever.
+Ham. Sir, my good friend (아아 나의 兄아); I'll change that name with you (나는 그대의 불으는 이름을 바꾼다). And what make you from Wittenberg (「빅덴빠아크」), Horatio? ...Marcellus (「마아세라쓰」)!
+Mar. My good lord (殿下께옵서는)...<153>
+Ham. I am very glad to see you. (To Bernardo) Good even, sir (아아 너도 또한...). But what, in faith, make you from Wittenberg (「빅덴빠아크」)?
+Hor. A truant disposition (懶惰한 性質), good my lord.
+Ham. I would not hear your enemy (怨誰) say so (그러한 險談은 그대의 怨誰가 하더래도 고지 들리지 아니한다), nor shall you do mine ear that violence, to make it truster of your own report against yourself (하물며 自身이 말하는 그것을 고지 들을 듯 한가). I know you are no truant (그대가 어찌 계을느다고 하나). But what is your affair in Elsinore (「엘시노오아」)? We'll teach you to drink deep ere you depart (잘못한다는 逗留할 동안에 暴飮을 배우기 쉬울걸).
+Hor. My lord, I came to see your father's funeral (實相은 先皇陛下의 因山에 參拜하랴고 왓읍니다).
+Ham. I pray thee, do not mock me, fellow-student (거짓말이지); I think it was to see my mother's wedding (아마도 母后의 婚禮式을 보러온 것이지).
+Hor. Indeed, my lord, it follow'd hard upon (그러타고 하시면 이어서 큰 慶事).
+Ham. Thrift (經濟)! Thrift (節險), Horatio! the funeral baked meats (靈前에 쓴던 구은 고기) did coldly furnish forth the marriage tables (婚姻床에다 벌여놋는 冷淡한 饗應이다). Would I had met my dearest foe (不共戴天之讎) in heaven (天國) ere I had ever seen that day (그러한 슯흔 날을 當하는 것 가트면 차라리 不共戴天之讎와 天國에서 맛나는 것이 낫겟다)!...Horatio (「호레에시오」)? Methinks I see my father (先皇陛下가...아버지의 얼굴이 보이는 것갓다).
+Hor. Where, my lord (에에, 어대 계신가요)?
+Ham. In my mind's eye (나의 마음 눈에).
+Hor. I saw him once (臣도 일즉이 謁見한 일이 잇삽거니와); he was a goodly king (참으로 莊嚴하옵신 그 英姿).
+Ham. He was a man, take him for all in all (어떠한 곳에서 아모리 調査를 하여도 다시 볼 수 업는 그 氣質), I shall not look upon his like again.
+Hor. My lord (殿下)? I think I saw him yesternight (어제밤에 先皇陛下를 謁見한 듯 합니다).
+Ham. Saw? who (謁見을 하다니 누구에게)?
+Hor. My lord, the king your father (先父皇陛下께).
+Ham. The king my father (父皇陛下께)!
+Hor. Season your admiration for a while with an attent ear (놀라지 마시고 마음을 姑定하셔서 들으기를 바랍니다), till I may deliver, upon the witness of these gentlemen (그 證人은 여긔 잇는 이 두 사람 이올시다), this marvel to you (近來에 업는 不可思議의 한 條件).
+Ham. For God's love, let me hear (어대 좀 仔細히 들어보자).
+Hor. Two nights together (이틀밤이나 連이어서) had these gentlemen (여긔 잇는 이 두 士官), Marcellus (「마아세라쓰」) and Bernardo (「빠아나아드어가」), on their watch (守直을 하고 잇슬 그때), in the dead vast and middle of the night (草木도 한가지 잠든 正밤中), been thus encounter'd. A figure like your father (世上에도 異狀한 容姿를 보앗습니다), armed at point exactly, cap-a-pe (그 形軆가 머리끗으로부터 발톱끗까지 甲冑투구를 한 것이 족음도 틀림업시 先皇陛下의 玉軆로 나타나서), appears before them, and with solemn march (凜然한<154>步調로) goes slow and stately by them (徐徐이 지나가십디다): thrice he walk'd by their oppress'd and fear-surprised eyes (두 사람의 압으로 두서너자나 사이를 隔하여), within his truncheon's length (戰戰兢兢하는); whilst they, distilled almost to jelly with the act of fear (놀란 남아지에 肝膽이 떨어저서), stand dumb and speak not to him (입을 다물고 선 채로 한마디 말도 못햇다고 벌벌 떨면서 그런 말을 합디다). This to me in dreadful secrecy impart they did (臣이 이 두 士官으로 더불어); and I with them the third night kept the watch (第3日 밤에 守直을 해본즉): where, as they had deliver'd, both in time, form of the thing (들은 바와 틀림업시 時刻과 形軆가), each word made true and good, the apparition comes (털끗마치도 어김이 업시 나타나는 怪異한 幻影). I knew your father (先皇陛下의 玉軆와 갓기는 姑捨하고); these hands are not more like (두 손까지 갓지안흠이 업습디다).
+Ham. But where was this (그래서 그곳은)?
+Mar. My lord, upon the platform where we watch (저이들 守直하고 잇는 高臺이옵니다).
+Ham. Did you not speak to it (무슨 말을 못해보앗나)?
+Hor. My lord, I did (말은 해 보앗지마는); but answer made it none (답은 하지 안흐시고): yet once methought it lifted up its head and did address itself to motion, like as it would speak (그래도 한번은 머리를 드시고 무슨 말슴을 하시랴고 하실 지음에); but even then the morning cock crew loud (때마츰 울어나는 닭(鷄)의 소리에), and at the sound it shrunk in haste away, and vanish'd from our sight (소스러처 사라저 업습디다).
+Ham. 'Tis very strange (참으로 怪異하군).
+Hor. As I do live, my honour'd lord, 'tis true (이 일이 한울로 盟誓하여 틀림이 업습니다); and we did think it writ down in our duty to let you know of it (잇는 그대로 본 그대로 奏達하는 것이 臣下의 本務인줄 아옵니다).
+Ham. Indeed, indeed, sirs, but this troubles me (그러타 뿐이겟나. 그러타 뿐이겟나. 마음에 꺼리끼는 異常한 일이다). Hold you the watch to-night (오늘 저녁에도 守直을 할 터인가)?
+Mar. We do, my lord (하겟습니다).
+Ber.
+Ham. Arm'd, say you (甲冑투구를 하셧다지)?
+Mar. Arm'd, my lord (그리셧습니다).
+Ber.
+Ham. From top to toe (머리끗에서 발톱끗까지)?
+Mar. My lord, from head to foot (틀림업시 머리로부터 발끗까지).
+Ber.
+Ham. Then saw you not his face (그러면 얼굴은 보이쟌햇겟지)?
+Hor. O, yes, my lord; he wore his beaver up (아니요, 얼굴이 보입디다. 遮面이 들려서잇습디다).
+Ham. What, look'd he frowningly (성나신 얼굴이던가)?
+Hor. A countenance more in sorrow than in anger (성나신 것 보담도 슯허하시는 얼굴입디다).
+Ham. Pale or red (얼굴이 해쓱하신던가 또는 붉으시던가)?
+Hor. Nay, very pale (丁寧코 해쓱한 얼굴로).
+Ham. And fix'd his eyes upon you (그대들 흘겨보시더라고 햇지)?
+Hor. Most constantly (한참동안을).
+Ham. I would I had been there (나도 그때 잇더면).
+Hor. It would have much amazed you (그랫스면 퍽 놀라셧겟지요).
+Ham. Very like, very like (그랫슬터이지. 그랫슬터이지). Stay'd it long (그래서 오래 멈으르시던가)?<155>
+Hor. While one with moderate haste might tell a hundred (相當한 間隔으로 100이나 헤아릴 동안).
+Mar. Longer, longer (아니요 아니요 그보담도 더 오랫동안).
+Ber.
+Hor. Not when I saw't (내가 볼 때에는 그밧게 되지 아니하엿다).
+Ham. His beard was grizzled (鬚髥은 灰色이던가)?... no (그러치 아니하던가)?
+Hor. It was, as I have seen it in his life, a sable silver'd (在世하옵셔 계실 때 뵈옵던 것과 가티 검은 가운대도 銀빗이 석겨 계십디다).
+Ham. I will watch to-night (나도 오늘 저녁에 가티 守直을 해보자); perchance 'twill walk again (아마 또 나타나시겟지).
+Hor. I warrant it will (아마 또 남시겟지요).
+Ham. If it assume my noble father's person (父皇의 玉軆로 나타난 以上에는), I'll speak to it, though hell itself should gape (비록 地獄의 길이 발바닥 미테 열려서) and bid me hold my peace (말을 말라고 禁止를 하더래도 나는 盟誓코 말을 해보겟다). I pray you all (아니 그대들에게 付托할 것이 잇다), if you have hitherto conceal'd this sight (오늘까지 난 이 일을 秘密로 무더둔 以上에는), let it be tenable in your silence still (此後에도 입을 다물고); and whatsoever else shall hap to-night (오늘밤에 如何한 일이 생기던지), give it an understanding, but no tongue (가슴 가운대만 두고 決코 입밧게 내지를 말아라). I will requite your loves (그대들의 誠意에는 早晩間 갑흘 때가 잇을 것이니). So, fare you well: upon the platform, 'twixt eleven and twelve (열한시나 열두시 사이에 守直하는 자리에서 맛낫날 터이니), I'll visit you.
+All three. Our duty to your honour (삼가 이 말슴대로 奉行하오리다).
+Ham. Your loves, as mine to you (서로들 誠意를 다하여). Farewell (잇다 맛나세).
+All three exit, leaving Hamlet behind.
+My father's spirit (父皇의 魂靈) in arms (甲冑투구로서)! All is not well (不祥의 前兆다); I doubt some foul play (아마도 숨은 惡行이 잇는 게로군). Would the night were come (아아 오는 밤을 기다리기가 멀다)!... Till then sit still, my soul (그때까지 鎭靜을 해다고 내 마음아): foul deeds will rise (惡行은 얼마 아니가 나타나겟지), though all the earth o'erwhelm them, to men's eyes (아모리 天地로써 사람의 눈을 가리랴고 하여도).
+(Hamlet exits)
+-(Curtain)-
+(End of Act 1, Scene 2...)<156>
+<149-156>
+
+**Summary**
+
+This text is a Korean translation of William Shakespeare's *Hamlet*, Act 1, Scene 2, published in the magazine *Kaebyŏk* (개벽) in July 1921. The scene depicts King Claudius addressing his court at Elsinore, justifying his recent marriage to Queen Gertrude, his brother's widow, and addressing the political threat from young Fortinbras of Norway. Laertes requests and receives permission to return to France. Claudius and Gertrude urge Hamlet to cease his prolonged mourning for his father. Left alone, Hamlet delivers his famous "O, that this too too solid flesh would melt" soliloquy, expressing despair and disgust at his mother's hasty remarriage. Finally, Horatio, Marcellus, and Bernardo arrive and tell Hamlet about the ghost of his father they have seen on the battlements, prompting Hamlet to resolve to see it himself.
+
+From a Korean colonial history perspective, this translation is significant. The publication of a major Western literary work like *Hamlet* in Korean, complete with Korean transliterations for names and places, demonstrates an effort to engage with world culture and maintain Korean linguistic and cultural identity during a period of intense Japanese assimilation pressure. *Kaebyŏk* magazine itself was a prominent intellectual and cultural journal associated with the Ch'ŏndogyo religion, often pushing nationalist and enlightenment themes within the constraints of colonial censorship. Translating and disseminating such a complex work indicates a sophisticated readership and a desire among Korean intellectuals like the translator, Hyŏn Ch'ŏl (玄哲), to modernize Korean literature and thought by introducing foreign classics.
+
+**Named Entities**
+
+쉑스피아	쉑스피아	Syek'sŭp'ia (Shakespeare)
+玄哲	현철	Hyŏn Ch'ŏl
+엘시노오아	엘시노아	Elsinora (Elsinore)
+크로오데이야쓰	크로오데이야쓰	K'ŭroodeiyassŭ (Claudius)
+카아쭐우드	카아쭐우드	K'aajjurudŭ (Gertrude)
+하믈레트	하믈레트	Hamŭllet'ŭ (Hamlet)
+뽀로오니야쓰	뽀로오니야쓰	Pporooniyassŭ (Polonius)
+레에야티쓰	레에야티쓰	Reeyat'issŭ (Laertes)
+보을타만트	보을타만트	Pourt'amant'ŭ (Voltemand)
+고으네리야즈	고으네리야즈	Koŭneriyajŭ (Cornelius)
+덴마아크	덴마아크	Tenmaak'ŭ (Denmark)
+포오틴풀라쓰	포오틴풀라쓰	P'oot'inpullassŭ (Fortinbras)
+놀웨이	놀웨이	Norwei (Norway)
+고오네리야쓰	고오네리야쓰	Kooneriyassŭ (Cornelius)
+볼올티만드	볼올티만드	Porolt'imandŭ (Voltemand)
+佛蘭西國	불란서국	Puranŏguk (France)
+빅덴빠아크	빅덴빠아크	Pikt'enppaak'ŭ (Wittenberg)
+니오베	니오베	Niobe
+하아기유리이쯔	하아기유리이쯔	Haagiyuriijjŭ (Hercules)
+호레에시오	호레에시오	Horeesio (Horatio)
+마아세라쓰	마아세라쓰	Maaserassŭ (Marcellus)
+빠아나아드어	빠아나아드어	Ppaanaadŭŏ (Bernardo)
+
+**Glossary**
+
+崩御	붕어	Passing of a king or emperor
+卿等	경등	You lords/ministers (archaic plural)
+兄嫂	형수	Older brother's wife; sister-in-law
+臆測	억측	Speculation; conjecture
+勅許	칙허	Royal permission; imperial sanction
+冥府	명부	The underworld; realm of the dead
+鬚髥	수염	Beard (using Hanja for 'beard')
+甲冑	갑주	Armor and helmet
+魂靈	혼령	Spirit; soul (of the dead)
+업슨즉	없는즉	Since there is not; because it is not (Older spelling of 없는즉)
+이즐 수 업는	잊을 수 없는	Cannot forget (Older spelling/phrasing)
+맛기지아느니	맡기지 않으니	Does not entrust (Older spelling/phrasing)
+안흘	않을	Will not (Older spelling)
+맷고	맺고	Forming/tying (a relationship) (Older spelling of 맺고)
+바닷나	받았나	Did you receive? (Older spelling/dialectal form of 받았나?)
+마틈을	맡음을	Taking charge of; being responsible for (Older spelling of 맡음을)
+가티	같이	Like; as (Older spelling of 같이)
+넘우	너무	Too; excessively (Older spelling of 너무)
+볏이 들어	볕이 들어	To be in the sun; (here fig.) to receive too much favor (Older spelling of 볕)
+거더버리고	걷어버리고	To cast off; clear away (Older spelling)
+잇스면	있으면	If there is (Older spelling)
+그러켓지요	그렇겠지요	It would be so; I suppose so (Older spelling)
+먹음고	머금고	Holding (in one's heart/mouth); containing (Older spelling of 머금고)
+아입니다	아닙니다	Is not (Older, slightly formal/deferential form of 아닙니다)
+잇습니다	있습니다	There is; exists (Older spelling)
+못하얏스니	못하였으니	Because (he) could not; since (he) did not (Older spelling)
+안흘 수 업는	않을 수 없는	Cannot but; must (Older spelling/phrasing)
+웨 그러냐 하면	왜 그러냐 하면	The reason why is...; Because... (Older spelling of 왜)
+울어나오는	우러나오는	Coming from (the heart); welling up (Older spelling)
+맛나는	만나는	Meeting (Older spelling of 만나는)
+업습디다	없습디다	There was not (Older deferential/narrative past tense)
+잇더면	있었더라면	If I had been there (Older conditional form)
+갑흘	갚을	To repay (Older spelling of 갚을)
+맛낫날	만날	To meet (Older spelling/phrasing for 'the day to meet')
+해다고	해다오	Please do (Older request form, -다오)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제13호
+발행일	1921년 07월 01일
+기사제목	하믈레트
+필자	쉑스피아(原作), 玄哲(譯述)
+기사형태	희곡·시나리오
+
+하믈레트
+						쉑스피아(原作), 玄哲(譯述)
+第1幕
+第2塲
+同一한 「엘시노오아」王城. 城內의 큰 殿閣.
+囉叭소리가 나며 國王「크로오데이야쓰」 먼저 섯고 뒤로 王妃「카아쭐우드」 딸아서 王子「하믈레트」 侍從長「뽀로오니야쓰」 그 아들「레에야티쓰」 廷臣「보을타만트」「고으네리야즈」 其他 公卿 侍者 多數 入來.
+
+國王. 骨肉을 相分한 親兄 「하믈레트」王이 崩御하신지 아즉도 달을 가시지 못하얏스니 우리들은 깁히 悲歎에 저저 擧國이 한가지 愁眉를 펴지 아니하는 것이 事理에 當然한 것이나 大變은 이미 當한 일 空然히 悲哀로만 歲月을 보내는 것도 그처럼 어진 行動이라고 할 수 업슨즉 우리들은 事情으로써 抑制하여 人情과 다투어 깁히 故王을 슯허하면서도 또한 國主된 이 몸의 本分도 이즐 수 업는 것이다. 다시 말하면 참기 어려운 悲歎을 참고 悲喜哀歡을 서로 난후어 한눈으로는 눈물을 흘리고 또 한눈으로는 웃음을 먹음어 禮를 가추어 因山을 지나고 눈물을 비저 新婚의 式을 치른 것이다. 卿等도 아는 바와 가티 先皇의 皇后 卽 朕의 兄嫂인 「카아쭐우드」를 이제 다시 皇后로 定하여 이 「덴마아크의 主權을 난후게 된 것은 일즉이 聰明한 卿등과 가티 꾀하여 充分히 朝議를 밟은 것이 깁히 滿足함으로 생각하는 바이다...그러나 이제 다시 한마디 할 말은 卿等도 이미 알것니라. 年少輕薄者 「포오틴풀라쓰」 朕을 一個 庸主로 알고 그리는지 또는 兄皇의 崩御하심을 듯고 國內가＜149＞ 어지러운 줄 臆測하여 꿈가튼 일을 밋고서 구챤케 使者를 보내어 年前 其父 「포오틴풀라쓰」가 契約한 明文에 依支하야 우리 勇敢하신 兄皇에게 바친 領土를 回復하랴고 잠고대를 하는 모양이다. 그것은 그러하거니와...오늘 一同을 여긔 모이게 한 것은 이 「포오틴풀라쓰」의 叔父 「놀웨이」王이야말로 근년 老病이 沈重하여 자리에 일지 못함으로 이와가튼 陰謀가 잇는 줄은 알지 못할뿐 아니라 또한 이번 徵募에 應하여 賦役하는 물이들은 모다 그 部下인 까닭에 이를 막을 힘이 應當 업슬 것이다. 여긔에 그 理由를 記錄하여 둔 것이다...「고오네리야쓰」「볼올티만드」의 兩卿은 이번 이 일에 使者가 되어 老「놀웨이」에게 단여올지어다. 오즉 卿들에게 委任하는 바는 다만 이 글 가운대 記錄한 細目外에는 다른 權利를 맛기지아느니 아모쪼록 速히 復命하여 忠勤의 直心을 보일지어다.
+고오. 如何한 嚴命일지라도 忠勤을 다할가 하옵니다.
+보을.
+國王. 朕도 또한 그것을 밋는 바이다. 아모쪼록 無事이.
+「고오네리야쓰」「보올티만드」나간다.
+그런데 「레에야아티이쓰」야 네가 하고자 하는 말은 무슨 말인가? 무슨 所願이 잇다지? 道理에 合當한 所願이면 이 「덴마아크」人君이 듯지 안흘 理致가 잇겟나? 「레에야아티이쓰」야 네가 請하는 일이면 請하기 前에 朕이 먼저 너의 願대로 할 것이다. 너 아비와 이 「덴마아크」王座와는 그 情分이 머리(頭)와 마음보다도 가깝고 손과 입보다 더 密接한 關係를 맷고 잇는 터이다. 「레에야티이쓰」야 너의 願하는 바이 무엇인가?
+레에. 惶悚하오나 佛蘭西國에 다시 가는 勅許를 무르고자 하옵니다. 陛下의 卽位大典을 奉祝하기 爲하와 깃거움을 품고 돌아 왓사오나 인제는 盛典도 거침업시 지내옵삽고 小臣의 公務도 이미 마틈을 다하온 以上에는 이제 다시 佛蘭西國에 가고자하오니 臣의 이 衷情을 洞察하옵시기를 伏乞하옵니다.
+國王. 그러면 卿의 父命은 바닷나? 「뽀로오니냐쓰」卿의 意向은?
+뽀로. 惶恐하오나 子息놈의 懇切한 願望 여러가지로＜150＞問答을 마친 結果 하는 수 업시 다시 가기를 承諾하얏사오니 伏望 陛下는 제 所願대로 勅敎를 내리시게 하옵소서.
+國王. 「레야아티이쓰」 그러면 吉日을 擇하여 떠나게 하라. 時日은 卿의 物件이다. 아모쪼록 滋味잇는 歲月을 보내게 하라...그런데 「하믈레트」야 姪王이라고 한 것은 前日에 불럿던 말. 只今은 나의 아들...
+하믈. (엽흘 보며)外面으로 親戚 以上이지마는 內心으로는 親戚 以下이다.
+國王. 마음에 不平이 잇는지 眉間에 근심구룸이 필날이 업시니 무슨 까닭인고?
+하믈. 근신구룸은 커녕 넘우 볏이 들어 견디기 어려울 地境이옵니다.
+王后. 아니 「하믈레트」야 네 眉間에 감춘 근심구룸을 거더버리고 多情하신 今上陛下를 精誠으로 섬겨라. 어느 때까지 冥府에 계신 父君만 思慕하면 쓸 때 잇는 일이냐. 삶이 잇스면 죽음이 잇는 것이 아닌가. 사람은 이 世上을 지나서 永劫의 未來로 가는 것이다. 이것이 浮世의 常事가 아닌가.
+하믈. 그러켓지요 어머니. 그거시 常事이올시다.
+王后. 그러면 무슨 일로 네 눈에 常事롭지 못한 氣色이 보이는가?
+하믈. 氣色이 보인다고요? 어머니. 아니야요. 事實上 『그런것』이올시다. 그러케 『보인다』고 하시는 것은 알 수 업지요. 眞實로 이 몸이 마음 가운대 먹음고 잇는 것을 發表할 것은 이 잉크빗의 外套도 아니요 이 定例의 喪服도 아니며 일부러 품어내는 한숨도 아니고 샘(泉)가티 흘러내리는 눈물도 아니며 이마에 줄음을 짓고 눈귀를 첫더리며 입을 비쭉어리는 것, 아니 온 世上에 모든 愁嘆의 儀式, 禮節, 外容도 아입니다. 다만 그것은 보이는 것이요 또 누구라도 흉내낼 수 잇는 것이지마는 이 가슴 가운대는 눈에 보이지 아니하는 것이 잇습니다. 只今 이것은 오즉 悲哀의 形式과 衣服에 지나지 못하는 것입니다.
+國王. 「하믈레트야」 그와 가티 돌아가신 父王을 생각하고 悲嘆하는 것은 孝子의 至極한 情理인줄 알겟스나 그러나 한번 事理를 생각해볼 것은 父王도 일즉이 그 父王을 일헛(失)고 그 父王도＜151＞ 또 그 父王을 일헛스니 다만 子息된 道理로 禮節을 가추어 哀悼를 表하는 것은 當然한 情義이지마는 그러타고 넘우 지나서 哀傷으로만 歲月을 보낸다면 이것은 첫재 神明에게 不敬한 것이요 둘재는 男子답지못한 愁嘆이며 한울에 對한 非禮이요 마음에 信心업는 証據니 短慮, 無智, 愚味한 表示라고 안흘 수 업는 것이다. 웨 그러냐 하면 죽음은 이 必然으로 돌아오는 일이요 또 五官으로서 깨달을만한 一般의 常事인줄 알면서도 무슨 까닭으로 마음을 거슬리고 가슴에 새겨서 이를 嘆息만 하는가. 가장 穩當치 못한 일이다. 이와가튼 일은 한울을 거스르는 것이고 죽은 사람을 배반하는 것이며 自然을 어기며 道理를 어그러지게 하는 것이다. 어버이가 먼저 죽는 것은 道理에 가장 普通의 일이요 또한 『이것이 必然의 事』이라고 부르짓는 것이다. 「하믈레트」야 내가 願하는 바이다. 아모쪼록 그러한 無益의 悲嘆은 모다 쓸어버리고 나를 참으로 나흔 아비로 알아라. 그것은 온 世界로 하여곰 네가 나의 가장 直接되는 王座의 繼續者이요 또 내가 慈父와 다르지 아니하는 恩愛로써 너를 撫育하는 줄 알아라. 그리고 그 「빅덴빠아크」의 大學에 다시 가랴고 하는 것은 나의 가장 깃거하지안는 바이다. 願컨대 近親으로나 重臣으로나 나의 사랑으로써 나의 面前에 머물기를 바란다.
+王后. 「하믈레트」야 어미의 바라는 마음을 저버리지 말아라. 으응, 여긔 잇고 「빅덴빠아크」에는 가지를 말아라.
+하믈. 抑制하여 말슴대로 하지요.
+國王. 그것은 참 奇特한 對答이다. 그러면 이 「던마아크」에 머물러 우리들과 한가지 歲月을 보내자...王后 안으로 「하믈레트」의 柔順한 對答은 나의 마음으로 울어나오는 깃붐을 참지 못하겟다. 그 깃붐을 祝賀하기 爲하야 只今으로부터 祝賀하는 잔치를 열고 同時에 祝砲를 구룸에 向하면, 한울도 또한 王家의 萬歲를 깃버하여 地上의 霹靂과 서로 應하겟지. 자아 저리로...
+「하믈레트」만 떨어지고 그 남아지 사람은 다 들어간다(이때에 또 喇叭소리가 난다)
+하믈. 아아, 여물고 단단한 이 고기덩이가 녹고 풀어저서＜152＞ 이슬과 가티 되엇스면! 그러치 안커든 차라리 한우님이 自殺을 큰 罪라고 하지나 아니하엿스면! 아아! 한우님! 무슨 일로 모든 이 世上의 萬가지의 營造가 無聊하고도 空虛하며 平凡과 無益으로만 보이는지! 아아, 虛無한 일도 만타! 열매를 매지랴고 하는 毒한 풀이 茂盛한 거츤 뜰(荒庭)에 내음새 나고 더러운 물건이 가득 차 잇다. 이가티 될 줄은! 돌아가신지 오즉 두달...아니 두달도 다 못되어서. 그와 가티 類에 드믄 國君을! 거긔와 여긔를 比較하면 太陽의 神明과 獸羊의 怪物, 母后의 面上에 거츤 바람 한번 쏘이지 아니하랴고 하시던 父皇, 그가티 사랑하시던 父皇. 거긔서 天地가 變할가. 아아 생각지 아니하면 아니될 것가? 사랑하시면 사랑하실스록 사랑과 貞操로써 縋從하랴고 하던 母后가 무슨 일로 한달이 겨우 지날지 말지 하여...아아, 그런 일은 생각을 마라야지 생각을...弱한 물건아, 계집이라고 하는 것이 너의 별명이다. 겨우 한달...「니오베」와 가티  눈물을 흘리고 靈樞를 딸튼 그 신의 몬지도 털기 前에...母后가, 母后까지도...아아!...五倫을 모르는 禽獸일지라도 아즉동안은 슯헐 할 것인데...叔父되는 사람과 또 婚姻을 하다니...父皇의 親同氣하고...이 「하믈레트」가 「하아기유리이쯔」에 가튼 것만치도 갓지 아니한 아우와. 한달도 지나지 아니한 사이에? 거짓말 눈물이라도 눈시울에 시치어 붉은 자리가 업서지기도 前. 아아, 無慚! 非道! 姦邪하고 淫蕩한 자리에서 기다리고 잇섯던 것가티 그처럼 急히! 이것이 반듯이 조흔 兆朕은 아니다. 必然코 凶惡한 일의 前兆이다...아! 누가 오는 것갓다. 으응, 이 가슴이 터질대로!
+「호레에시오」「마아세라쓰」「빠아나아드어」 들어온다
+호레. 殿下의 康寧을 비옵나이다.
+하믈. 그대도 無事한가. 맛나니 반가웨. 아마 「호레에시오」가튼데 或 내가 잘못보앗나.
+호레. 틀님업시 臣 「호레에시오」이옵니다.
+하믈. 아아 나의 兄아, 나는 그대의 불으는 이름을 바꾼다. 그런데 어떠케 「빅덴빠아크」에서 예까지는?...아아 「마아세라쓰」가!
+마아. 殿下께옵서는...＜153＞
+하믈. 잘왓다.(빠아나아드어에게 대하야) 아아 너도 또한...(호레에시오에게) 어찌한 일로 「빅덴빠아크」에서 멀리예까?
+호레. 懶惰한 性質이 되어서 그러합니다.
+하믈. 그러한 險談은 그대의 怨誰가 하더래도 고지 들리지 아니한다. 하물며 自身이 말하는 그것을 고지 들을 듯 한가. 그대가 어찌 계을느다고 하나. 그러나 이 「엘시노오아」에 온 일은? 잘못한다는 逗留할 동안에 暴飮을 배우기 쉬울걸.
+호레. 實相은 先皇陛下의 因山에 參拜하랴고 왓읍니다.
+하믈. 거짓말이지. 아마도 母后의 婚禮式을 보러온 것이지.
+호레. 그러타고 하시면 이어서 큰 慶事.
+하믈. 그것이! 經濟! 節險이라고 할는지! 靈前에 쓴던 구은 고기를 婚姻床에다 벌여놋는 冷淡한 饗應이다. 그러한 슯흔 날을 當하는 것 가트면 차라리 不共戴天之讎와 天國에서 맛나는 것이 낫겟다!...「호레에시오」? 先皇陛下가...아버지의 얼굴이 보이는 것갓다.
+호레. 에에, 어대 계신가요?
+하믈. 나의 마음 눈에.
+호레. 臣도 일즉이 謁見한 일이 잇삽거니와 참으로 莊嚴하옵신 그 英姿.
+하믈. 어떠한 곳에서 아모리 調査를 하여도 다시 볼 수 업는 그 氣質.
+호레. 殿下? 어제밤에 先皇陛下를 謁見한 듯 합니다.
+하믈. 謁見을 하다니 누구에게?
+호레. 先父皇陛下께.
+하믈. 父皇陛下께!
+호레. 놀라지 마시고 마음을 姑定하셔서 들으시기를 바랍니다. 只今 말슴할야고 하는 것은 近來에 업는 不可思議의 한 條件 그 證人은 여긔 잇는 이 두 사람 이올시다.
+하믈. 어대 좀 仔細히 들어보자.
+호레. 이틀밤이나 連이어서 여긔 잇는 이 두 士官 「마아세라쓰」「빠아나아드어가」 守直을 하고 잇슬 그때 草木도 한가지 잠든 正밤中 世上에도 異狀한 容姿를 보앗습니다. 그 形軆가 머리끗으로부터 발톱끗까지 甲冑투구를 한 것이 족음도 틀림업시 先皇陛下의 玉軆로 나타나서 凜然한＜154＞步調로 戰戰兢兢하는 두 사람의 압으로 두서너자나 사이를 隔하여 徐徐이 지나가십디다. 두 士官은 놀란 남아지에 肝膽이 떨어저서 입을 다물고 선 채로 한마디 말도 못햇다고 벌벌 떨면서 그런 말을 합디다. 臣이 이 두 士官으로 더불어 第3日 밤에 守直을 해본즉 들은 바와 틀림업시 時刻과 形軆가 털끗마치도 어김이 업시 나타나는 怪異한 幻影, 先皇陛下의 玉軆와 갓기는 姑捨하고 두 손까지 갓지안흠이 업습디다.
+하믈. 그래서 그곳은?
+마아. 저이들 守直하고 잇는 高臺이옵니다.
+하믈. 무슨 말을 못해보앗나?
+호레. 말은 해 보앗지마는 답은 하지 안흐시고 그래도 한번은 머리를 드시고 무슨 말슴을 하시랴고 하실 지음에 때마츰 울어나는 닭의 소리에 소스러처 사라저 업습디다.
+하믈. 참으로 怪異하군.
+호레. 이 일이 한울로 盟誓하여 틀림이 업습니다. 잇는 그대로 본 그대로 奏達하는 것이 臣下의 本務인줄 아옵니다.
+하믈. 그러타 뿐이겟나. 그러타 뿐이겟나. 마음에 꺼리끼는 異常한 일이다. 오늘 저녁에도 守直을 할 터인가?
+마아. 하겟습니다.
+빠아.
+하믈. 甲冑투구를 하셧다지?
+마아. 그리셧습니다.
+빠아.
+하믈. 머리끗에서 발톱끗까지?
+마아. 틀림업시 머리로부터 발끗까지.
+빠아.
+하믈. 그러면 얼굴은 보이쟌햇겟지?
+호레. 아니요, 얼굴이 보입디다. 遮面이 들려서잇습디다.
+하믈. 성나신 얼굴이던가?
+호레. 성나신 것 보담도 슯허하시는 얼굴입디다.
+하믈. 얼굴이 해쓱하신던가 또는 붉으시던가?
+호레. 丁寧코 해쓱한 얼굴로.
+하믈. 그대들 흘겨보시더라고 햇지?
+호레. 한참동안을.
+하믈. 나도 그때 잇더면.
+호레. 그랫스면 퍽 놀라셧겟지요.
+하믈. 그랫슬터이지. 그랫슬터이지. 그래서 오래 멈으르시던가?＜155＞
+호레. 相當한 間隔으로 100이나 헤아릴 동안.
+마아. 아니요 아니요 그보담도 더 오랫동안.
+빠아.
+호레. 내가 볼 때에는 그밧게 되지 아니하엿다.
+하믈. 鬚髥은 灰色이던가?... 그러치 아니하던가.
+호레. 在世하옵셔 계실 때 뵈옵던 것과 가티 검은 가운대도 銀빗이 석겨 계십디다.
+하믈. 나도 오늘 저녁에 가티 守直을 해보자. 아마 또 나타나시겟지.
+호레. 아마 또 남시겟지요.
+하믈. 父皇의 玉軆로 나타난 以上에는 비록 地獄의 길이 발바닥 미테 열려서 말을 말라고 禁止를 하더래도 나는 盟誓코 말을 해보겟다. 아니 그대들에게 付托할 것이 잇다. 오늘까지 난 이 일을 秘密로 무더둔 以上에는 此後에도 입을 다물고 오늘밤에 如何한 일이 생기던지 가슴 가운대만 두고 決코 입밧게 내지를 말아라. 그대들의 誠意에는 早晩間 갑흘 때가 잇을 것이니. 그러면 열한시나 열두시 사이에 守直하는 자리에서 맛낫날 터이니.
+三人. 삼가 이 말슴대로 奉行하오리다.
+하△. 서로들 誠意를 다하여. 잇다 맛나세.
+「하믈레트」만 처저잇고 三人은 다 들어간다」
+父皇의 魂靈이 甲冑투구로서! 不祥의 前兆다. 아마도 숨은 惡行이 잇는 게로군. 아아 오는 밤을 기다리기가 멀다!... 그때까지 鎭靜을 해다고 내 마음아, ... 惡行은 얼마 아니가 나타나겟지. 아모리 天地로써 사람의 눈을 가리랴고 하여도.
+(「하믈레트 들어간다」)
+-(幕)-
+(第1幕 2場終...)＜156＞
+＜149-156＞

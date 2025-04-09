@@ -1,0 +1,60 @@
+Magazine Title: 개벽
+Publication Date: 1922년 08월 01일
+Article Title: 時調 (Sijo - Traditional Korean Poem)
+Author: 李相定
+Article Type: 시 (Poem)
+
+The moon shining in the guest window pointlessly comes and goes,
+Endless spring and autumn dreams regretlessly come and go.
+Among these, is the only one I cannot see my beloved?
+
+Floating a boat on the P'aegang River, going up Ch'ŏngnyubyŏk,
+Modanbong Peak and Pubyŏngnu Pavilion's shadows dance in the midstream.
+Ah, the scenic spot of Kwansŏ is P'yŏngyang on the river! <36>
+
+**Summary**
+
+This article presents two Sijo poems by Yi Sangjŏng. The first poem expresses a sense of longing and solitude, contrasting the constant movement of the moon and dreams with the absence of the beloved. The second poem depicts the scenic beauty of P'yŏngyang as viewed from the Taedong River (P'aegang), mentioning famous landmarks like Modanbong Peak and Pubyŏngnu Pavilion. For historians, these poems demonstrate the continuation of traditional Korean literary forms like the Sijo during the colonial period. The second poem's appreciation of a specific Korean landscape (P'yŏngyang) could be interpreted as a subtle assertion of Korean cultural identity and pride in the nation's heritage, published within a prominent intellectual journal of the time. The use of older Hangul orthography is also noteworthy.
+
+**Named Entities**
+
+李相定	이상정	Yi Sangjŏng
+浿江	패강	P'aegang
+淸流壁	청류벽	Ch'ŏngnyubyŏk
+牡丹峯	모란봉	Modanbong
+浮碧樓	부벽루	Pubyŏngnu
+關西	관서	Kwansŏ
+平壤	평양	P'yŏngyang
+
+**Glossary**
+
+客窓	객창	Guest room window
+부지럽시	부질없이	Pointlessly, uselessly (older spelling of 부질없이)
+드락나락	들락날락	Coming in and going out, entering and exiting (older spelling/form of 들락날락)
+綿綿한	면면한	Continuous, unbroken, endless
+春秋夢	춘추몽	Spring and autumn dreams; dreams spanning a long time, life's dreams
+恨	한	Regret, sorrow, resentment
+업시	없이	Without (older spelling of 없이)
+님	님	Beloved, lord, dear one
+띄워	띄워	Floating (base form 띄우다)
+올라갈제	올라갈 때	When going up (older grammatical form '-ㄹ제' for '-ㄹ 때')
+中流	중류	Midstream
+影婆娑라	영파사라	Shadows dance/sway beautifully (poetic expression)
+勝地	승지	Scenic spot, place of great beauty
+江上之平壤인저	강상지평양인저	P'yŏngyang on the river (poetic/literary expression using Hanja structure; 인저 is an archaic ending)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제26호
+발행일	1922년 08월 01일
+기사제목	時調
+필자	李相定
+기사형태	시
+
+時調
+						李相定
+客窓에 비친달은 부지럽시 드락나락 綿綿한 春秋夢은 恨이업시 오락가락 이中에 못보는 이는 님뿐인가 하노라.
+
+浿江에 배를 띄워 淸流壁 올라갈제 牡丹峯 浮碧樓가 中流에 影婆娑라. 아마도 關西勝地는 江上之平壤인저.＜36＞

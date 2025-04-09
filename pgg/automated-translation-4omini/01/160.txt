@@ -1,0 +1,54 @@
+잡지명	별건곤  
+발행일	1926년 11월 01일  
+기사제목	統計室 (Statistics Room)  
+기사형태	소식 (News)  
+
+統計室  
+As of the end of last year, the cultivated land area in Korea is 1,563,736 chō for rice paddies (畓) and 2,784,618 chō for fields (田), totaling 4,348,354 chō. When distinguishing between self-cultivated land and rented land, there are 548,208 chō of self-cultivated rice paddies and 1,015,527 chō of rented rice paddies, while in fields there are 1,601,417 chō of self-cultivated and 1,183,200 chō of rented land. This means that in fields that produce poor quality crops, self-cultivated and rented land are roughly equal; however, in the rice paddies that yield the best quality rice, about two-thirds of the land belongs to landlords.
+
+As is generally known, the total area of Korea is 143,124 square ri (it should be understood that one square ri refers to a square 1 ri). This is divided into 13 administrative divisions, which vary in size. For example, the North Hamgyeong Province occupies 2,073 square ri as a single province, whereas South Chungcheong Province is only 481 square ri. Currently, there are 12 districts (府), 2 islands (島), 218 counties (郡), 2,504 townships (面), and 28,300 villages (洞 and 里) in all of Korea. However, the exact number of villages is unknown, but it is important to remember the number of districts and counties.
+
+In terms of land composition regarding Korea's total area of 14,312 square ri, forestry occupies 15,883,000 chō, cultivated land is 4,348,344 chō, and the area of miscellaneous land is 2,053,000 chō. Uncultivated land comprises approximately 70,000 chō. In comparison to the total area, forests account for about 91.4%, rice paddies 7% (i.e., 7/100), fields 12.4%, and miscellaneous land 9.2%. The cultivated area per farming household is 1 chō 6 dan, which is 5 dan more than Japan's 1 chō 1 dan. However, considering the current agricultural situation, as of the end of last year, out of the 2,693,241 farming households in Korea, 1,135,244 households are impoverished tenant farmers who do not even own a pole to plant.
+
+So, what is the agricultural condition in Korea? According to the number of farming households, there are 2,731,177 households of Koreans with a population of 14,601,269, while 9,483 households belong to non-Koreans with a population of 39,560. In terms of self-cultivated and rented land: there are 103,567 landlord households, 544,536 self-cultivating households, 910,178 households that both self-cultivate and rent, and 1,184,422 tenant farming households. This indicates that there are nearly 40,000 non-Korean farmers in Korea, and it is evident that tenancy is most prevalent.
+
+  
+**Summary**  
+
+This article presents statistical data regarding agricultural land distribution and farming households in Korea as of the end of the previous year, highlighting the disparities between self-cultivated and rented land. A significant portion of the farmers are tenants struggling to make a living, which showcases the pressing difficulties faced by the rural population under Japanese colonial rule. Historians may find the ratio of tenant farmers compared to landlords particularly revealing of the socio-economic conditions during this period, indicating a significant level of exploitation.
+
+  
+**Named Entities**  
+
+조선\tChosŏn\tKorea  
+임야\timya\tForested area  
+경지\tgyeongji\tCultivated land  
+농가\tnongga\tFarming household  
+
+**Glossary**  
+
+경지면적\tgyeongjimeonjeok\tCultivated land area  
+자작지\tjajakji\tSelf-cultivated land  
+소작지\tsojakji\tRented land  
+부\tbu\tDistrict  
+도\tdo\tProvince  
+郡\tgun\tCounty  
+면\tmyeon\tTownship  
+洞\tdong\tVillage  
+里\tri\tVillage
+
+
+---------------------------
+
+
+잡지명	별건곤 제1호
+발행일	1926년 11월 01일
+기사제목	統計室
+기사형태	소식
+
+統計室
+작년말 현재의 조선 경지면적은 畓이 1,563,736町이요 田이 2,784,618町으로서 합계4,348,354町이며 이것을 다시 자작지와 소작지로써 분간하면 畓에 자작이 548,208町 소작이 1,015,527町이며 田에 자작이 1,601,417정 소작이 1,183,200町步인 바 말하면 변변치 못한 곡식을 내이는 田에는 자작 소작이 대략 반部 반部인 셈이나 제일 조흔 쌀을 내는 畓에는 지주의 소유가 약 3분의 2를 占持한 것이다.
+일반이 아는 바와 가티 조선의 총면적은 143,12萬4里(1方里라 함은 물론 四方1里를 指함이다)로서 이것을 13의 행정구획으로 논핫는데 그 분획이 大小不一하야 咸北 가튼 道는 1道로 2,073方里를 점함에 不拘하고 忠南은 單 481方里에 불과하며 그리고 오늘 현재의 전 朝鮮府郡 등의 행정 區城으로는 府가 12, 島가 2, 郡이 218, 面이 2,504 洞과 里가 28,300이다. 洞里 수까지는 모르지만 府郡面의 수까지는 우리의 상식으로 기억해 둘 필요가 잇다.
+조선 총면적 14,312方里에 대하야 다시 토지에 組成別을 보면 임야가 15,883,000町 경지가 4,348,344町 雜地가 2,053,000町 未墾地에 속한 면적이 약 7萬町步인데 이를 총면적에 대비하면 임야가 9할 1분 4리 畓이 7분(즉 百分之七) 田이 1할 2분 4리 雜地가 9분 2리이며 농가 1戶당 경지면적은 1町 6段으로서 일본의 1町 1段에 비하면 5段이 多하다. 그러나 오늘의 농가 실황을 보면 작년 말 현재로 조선인 농업자 戶數 2,693,241戶 중 1,135,244戶는 1町 1段步는 고사하고 송곳세울 땅도 갓지 못한 소작농이요 窮農이다.
+그러면 조선의 농업 형편은 엇던가. 쳣쟤 농업자 戶數를 보면 조선인이 2,731,177戶에 인구가 14,601,269人이오 非조선인이 9,483戶에 인구가 39,560人이며 둘재 자작 及 소작의 면으로 보면 지주가 103,567戶 자작농이 544,536戶 자작 겸 소작농이 910,178戶 소작농이 1,184,422戶이다. 이로보면 조선 안에 잇는 농업자 중에는 非조선인이 近 4萬人이 잇는 것과 무엇보다도 소작이 제일 만타는 것을 직감할 수가 잇다.＜92＞
+＜92＞

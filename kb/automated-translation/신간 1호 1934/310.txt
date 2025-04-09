@@ -1,0 +1,382 @@
+**Header Section:**
+Magazine Title: 개벽 신간 제1호
+Publication Date: 1934 November 01
+Article Title: 統計室 (Statistics Room)
+Author: (係) ([Editorial] Staff)
+Article Type: 소식 (News/Information)
+
+**Body Text Translation:**
+Statistics Room
+
+We have created this page to comprehensively publish related statistics. We will primarily feature statistics obtained from Chosŏn, and as space permits, we will also include comparative statistics from various foreign countries. (Staff)
+
+◇ Chosŏn Population 1
+The current population and number of households in Chosŏn, according to the survey at the end of last year, are as follows.
+
+A. Population
+Total: 20,791,321
+Male: 10,581,541
+Female: 10,209,780
+(103.6 males per 100 females).
+
+B. Number of Households
+Total: 3,952,049
+(Population per household [is] 5.3 people)
+Among these, the number of Chosŏn people's households is
+3,805,684
+Looking at this by occupation:
+Agriculture: 2,894,115
+Fishing: 51,089
+Industry: 89,195
+Commerce: 258,413
+Public Service & Liberal Professions: 125,815
+[Other Occupations/Unspecified]: 292,[?]97
+[Unemployed and Unreported]: 9[?],56[?]
+Total: 3,805,684
+
+◇ Chosŏn Population 2
+According to the National Census (國勢調査) of Shōwa 5 (1930), the total population was
+21,058,305 people.
+Among them, regarding the physique and age distribution of the 20,438,108 Chosŏn people, it is as follows.
+Total Chosŏn People
+20,438,108
+Male: 10,398,889
+Female: 10,039,219
+That is, the number of males is greater than females, with a ratio of 103.6 males per 100 females. Looking at age distribution:
+0 years old to 14 years old
+Total: 8,159,822
+Male: 4,176,473
+Female: 3,983,349
+15 years old to 59 years old
+Total: [11],006,864
+Male: 5,630,692
+Female: 5,376,172
+60 years old and above
+Total: 1,271,422
+Male: 591,724
+Female: 679,698
+
+◇ Chosŏn Urban Population
+The recent population figures for major cities in Chosŏn are as follows.
+Kyŏngsŏng: 382,491
+Pusan: 156,429
+P'yŏngyang: 150,771
+Taegu: 105,797
+Inch'ŏn: 72,861
+Mokp'o: 53,165
+Wŏnsan: 52,563
+Kaesŏng: 52,526
+Sinŭiju: 49,839
+Chinnamp'o: 43,844
+Hamhŭng: 42,198
+Ch'ŏngjin: 37,030
+Kunsan: 35,999
+Masan: 27,470
+
+◇ Alcohol and Chosŏn
+Last year, the volume of alcoholic beverages manufactured in Chosŏn was 1,754,855 sŏk (石), which averages out to slightly over 1 to (斗) 6 sŭng (升) per person. The alcohol tax alone amounted to over 11.7 million Wŏn (圓), and if imported liquors are added to this, the figure would be even more astonishing.
+Among these are 130 sŏk of Chosŏn-made whiskey and 283 sŏk of wine. Makgeolli (막걸리) accounts for over 1,286,000 sŏk, making up more than 70% of the total manufactured volume.
+
+◇ Chosŏn's [Medical Personnel]
+Hospitals: 134
+Physicians (Employed): 593
+Physicians (Private Practice): 1497
+Medical Practitioners (Ŭisaeng): 4267
+Limited License Practitioners: 307
+Dentists (Employed): 31
+Dentists (Private Practice): 570
+Dental Technicians: 190
+Midwives: 1545
+Limited License Midwives: 41
+Nurses: 1586
+Masseurs: 744
+Judo Therapists: 36
+Acupuncturists: 867
+Moxibustion Practitioners: 638
+Vaccinators: 208
+(As of the end of Shōwa 8 [1933])
+
+◇ Number of Mining Claims in Chosŏn
+Looking at the changes in mining claims last year, which can be seen as one aspect of the Chosŏn gold mining industry (朝鮮金鑛業) in numbers, it is as follows:
+The total number of mining claims as of January 1st last year was 3,714. During last year, the number of newly established claims was 733, and the number of extinguished claims was 709. Thus, there was a net increase of 624 claims, making the total number of mining claims as of January 1st this year 3,338 claims. <120>
+Approximately 86%, or 630, of the 733 newly established mining claims were for gold and silver mines. Placer gold (砂金) was next with 70 claims, while others accounted for only 33 claims, it is said.
+
+◇ Marriage and Divorce
+The number of marriages performed in Chosŏn last year was 126,644, averaging 347 per day. Among these, the number of marriages involving Chosŏn people was 124,480. Compared to previous years, this represents a considerable sharp decrease; compared to the 197,563 marriages among Chosŏn people in Shōwa 5 (1930), it is truly a decrease of over 40%.
+Marriage ages for males are:
+Under 17: 17,441 (14%)
+Under 19: 39,382 (31%)
+Under 24: 41,248 (33%)
+Under 29: 16,267 (13%)
+Under 34: 5,227 (4%)
+Under 39: 2,395 (2%)
+Under 49: 2,360 (2%)
+60 and over: 170 ([<1%])
+For females:
+Under 15: 12,310 (9%)
+Under 19: [85,018?] (68%) (Note: Original number 8518 seems too low for 68%, likely a typo, maybe 85180?)
+Under 24: 19,685 (15%)
+Under 29: 4,433 (3%)
+Under 39: 2,214 (2%)
+Under 59: [1],630 ([<1%])
+60 and over: 25 ([<1%])
+Regarding age combinations (組合), the highest is males under 19 and females under 19 at 25%, followed by males under 24 and females under 19 at 23%. The fact that there were 7 cases of females under 59 marrying males 50 and over, and 20 cases of females under [19?] marrying males 60 and over stands out (눈에 띈다).
+Divorces last year numbered 5,87[?] cases. [Among these, Korean cases were] [?,]757 cases, averaging 16 cases per day. Both the number and rate are said to have decreased compared to previous years. By age, the peak for males is 20-29 years old, accounting for 52% of the total, and for females, it is 15-24 years old, accounting for over 55% of the total. Notably, there were 47 cases involving males aged 60 and over, and 18 cases involving females aged 60 and over.
+
+◇ Number of Students Studying in Tōkyō
+The number of students studying abroad in Tōkyō is 2,615 males and 167 females. Among them, university students number 316 males and 19 females. The number scattered in regions outside Tōkyō is 1,220 males and 85 females, making the grand total 4,087 students.
+
+◇ Number of Sŏdang in Chosŏn
+Although the number of Sŏdang (書堂, traditional village schools) in Chosŏn is decreasing each year with the increase in Common Schools and other various schools (各等學校), according to the survey at the end of March this year:
+Number of Sŏdang: 7,529 locations
+Number of Teachers: 7,964 persons
+Number of Students: [9]8,105 persons
+Comparing this with the statistics from 10 years ago, Taishō 13 (1924):
+Number of Sŏdang: 12,084 locations
+Number of Teachers: 13,321 persons
+Number of Students: 108,7[?]1 persons
+shows a decrease. (For reference, at the end of March last year, the number of Common School students was 561,292. The survey figure from the end of Taishō 12 [1923], 10 years prior, was 317,661, showing an increase of approximately 243,000 students.)
+
+◇ Libraries in Chosŏn
+Total Number of Libraries: 52
+Among which: Government-Established Libraries: 2
+Publicly Established Libraries: 1[7?]
+[Association/Guild] Libraries: 24
+Privately Established Libraries: 9
+Total Collection: 407,976 [volumes?]
+Total Annual Open Days: 12,757 days
+Total Visitors: 1,230,397 persons
+Revenue: 23,293 Wŏn (圓)
+Maintenance Expenses: 150,308 Wŏn (圓)
+(Survey at the end of Shōwa 8 [1933])
+
+◇ Unemployed in Chosŏn
+According to the Government-General's survey (調査) as of the end of June last year, the number of unemployed in Chosŏn among the 1,367,443 persons surveyed was 134,378, putting the unemployment rate (失業率) at [9].8%. This is said to be a decrease of 1.93% compared to the year before last. (Here, the surveyed population refers to salaried workers and laborers, excluding students, other (其他) unemployed persons, [unclear], self-employed persons, salaried workers earning 200 Wŏn (圓) or more per month, foreigners (外國人), and women. Unemployment is defined and surveyed as those who have the ability and intention to work but cannot find employment opportunities.)
+
+We will diligently collect and present information for this section in the future, so it might be good to tear these out separately and make a statistics collection. If there are times when our thoughts do not reach far enough, if you yourselves request something specific and it is within our power to obtain (求) it, we will endeavor to publish (실어) it for you. (Staff) <121>
+
+**Summary**
+
+This 1934 article from the magazine "Kaebyŏk Sin'gan" presents a statistical overview of colonial Korea. It covers demographics (total population, households, occupational breakdown, age distribution, urban populations), economic indicators (alcohol production and tax, mining claims focusing on gold), social statistics (medical personnel, marriage and divorce rates, students studying in Japan, the decline of traditional Sŏdang schools versus modern schools, libraries), and unemployment figures. The data compares figures from the early 1930s, highlighting changes like a significant decrease in marriages and Sŏdang, alongside increases in modern schooling and gold mining activity. For historians, this article provides valuable quantitative data reflecting social, economic, and demographic conditions and transformations in Korea under Japanese rule, such as urbanization, shifts in education, the impact of economic conditions (implied by decreased marriage rates), and resource exploitation (gold mining boom). The specific categorization of occupations, medical roles, and the definition used for unemployment also offer insights into the colonial administration's framework for understanding Korean society.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+京城	경성	Kyŏngsŏng
+釜山	부산	Pusan
+平壤	평양	P'yŏngyang
+大邱	대구	Taegu
+仁川	인천	Inch'ŏn
+木浦	목포	Mokp'o
+元山	원산	Wŏnsan
+開城	개성	Kaesŏng
+新義州	신의주	Sinŭiju
+鎭南浦	진남포	Chinnamp'o
+咸興	함흥	Hamhŭng
+淸津	청진	Ch'ŏngjin
+群山	군산	Kunsan
+馬山	마산	Masan
+昭和	쇼와	Shōwa
+東京	도쿄	Tōkyō
+總督府	총독부	Government-General
+大正	다이쇼	Taishō
+
+**Glossary**
+
+統計室	통계실	Statistics Room
+갓다	같다	Is like, is as follows (older spelling of 같다)
+戶口數	호구수	Number of households
+職業別	직업별	By occupation
+公務	공무	Public service, official business
+自由業	자유업	Liberal profession
+國勢調査	국세조사	National Census
+體性	체성	Physique, physical characteristics (less common term)
+年齡別	연령별	By age
+지	까지	Until, up to (older spelling)
+主要都市	주요도시	Major cities
+酒類	주류	Alcoholic beverages
+石數	석수	Quantity in 'seok' (石, a unit of volume, approx. 180L)
+每人 當	매인 당	Per person
+小斗	소두	Small 'du' (斗, a unit of volume, approx. 18L)
+升	승	'Seung' (升, a unit of volume, approx. 1.8L)
+酒稅	주세	Alcohol tax
+餘圓	여원	Over... yen/won
+막걸리	막걸리	Makgeolli (Korean rice wine)
+醜造數	주조수	Likely a typo for 製造數 (제조수, manufactured quantity)
+醫師	의사	Physician, doctor
+醫生	의생	Medical practitioner (lower rank/qualification than 醫師 in colonial system)
+限地醫業者	한지의업자	Medical practitioner licensed for a limited area
+齒科醫	치과의	Dentist
+入齒業者	입치업자	Dental technician (lit. tooth-inserting professional)
+産婆	산파	Midwife
+看護婦	간호부	Nurse (older term, often female specific)
+按摩業者	안마업자	Masseur
+鍼術業者	침술업자	Acupuncturist
+炙術業者	구술업자	Moxibustion practitioner (炙=뜸 'tteum')
+種痘施術生	종두시술생	Vaccinator (specifically for smallpox)
+鑛區	광구	Mining claim/district
+新規	신규	Newly established
+消滅	소멸	Extinction, disappearance
+金銀鑛山	금은광산	Gold and silver mine
+砂金	사금	Placer gold (gold dust/nuggets found in sand/gravel)
+婚姻	혼인	Marriage
+離婚	이혼	Divorce
+激減	격감	Sharp decrease
+未滿	미만	Under, less than
+留學生	유학생	Student studying abroad
+書堂	서당	Traditional village school teaching classical Chinese
+普通學校	보통학교	Common School (colonial elementary school)
+生徒	생도	Student, pupil (older term)
+圖書館	도서관	Library
+官設	관설	Government-established
+公設	공설	Publicly established (e.g., by local government)
+私設	사설	Privately established
+維持經費	유지경비	Maintenance expenses
+失業者	실업자	Unemployed person
+勞働者	노동자	Laborer, worker
+給料生活者	급료생활자	Salaried worker
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제1호
+발행일	1934년 11월 01일
+기사제목	統計室
+기사형태	소식
+
+統計室
+■■잇는 統計를 全般的으로 실어보고저 이 페이지를 만들엇슴니다. 主로 朝鮮에서 얻은 統■를 실코 紙面잇는대로 諸 外國의 統計도 對照記載하겟슴니다. (係)
+◇朝鮮人口1
+朝鮮 現在人口와 戶口數는 昨年度 末 調査에 依하면 다음과 갓다.
+A, 人口數
+總數 二◯,七九一,三二一人
+男 一◯,五八一,五四一人
+女 一◯,二◯九,七八◯人
+(女 百人當 男子 一◯三,六人)이다.
+B, 戶口數
+總數 三,九五二,◯四九
+(一戶當 人口■ 五,三人)
+그 中에 朝鮮人 戶口數는
+三,八◯五,六八四
+이며 이것을 職業別로 보면
+農業 二,八九四,一一五
+漁業 五一,◯八九
+工業 八九,一九五
+商業 二五八,四一三
+公務 及 自由業 一二五,八一五
+■■■■ 二九二,■九七
+無■ 及 無申告 九■,五六■
+計 三,八◯五,六八四
+◇朝鮮人口2
+지난 昭和 五年 國■調査에 依한 人口總數는
+二一,◯五八,三◯五人
+으로 그중 朝鮮사람 二◯四三八一◯八名에 대한 體性과 年齡別을 보면 다음과 갓다.
+朝鮮人 總數
+二◯,四三八,一◯八
+男子 一◯,三九八,八八九
+女子 一◯,◯三九,二一九
+卽 男子의 數가 女子보다 만하서 女子 百名에 對하야 男子의 數는 一百◯三名 六의 比例로 되여엿다. 年齡別로 보면
+◯歲로―十四歲지
+總數 八,一五九,八二二
+男子 四,一七六,四七三
+女子 三,九八三,三四九
+十五歲로―五十九歲지
+總數 ――,◯◯六,八六四
+男子 五,六三◯,六九二
+女子 五,三七六,一七二
+六十歲 以上―
+總數 一,二七一,四二二
+男子 五九一,七二四
+女子 六七九,六九八
+◇朝鮮都市人口
+朝鮮 主要都市의 最近 人口數는 다음과 갓다.
+京城 三八二,四九一
+釜山 一五六,四二九
+平壤 一五◯,七七一
+大邱 一◯五,七九七
+仁川 七二,八六一
+木浦 五三,一六五
+元山 五二,五六三
+開城 五二,五二六
+新義州 四九,八三九
+鎭南浦 四三,八四四
+咸興 四二,一九八
+淸津 三七,◯三◯
+群山 三五,九九九
+馬山 二七,四七◯
+◇술과 朝鮮
+昨年度 朝鮮의 酒類製造石數는 一百七十五萬四千八百五十五石으로 人口 每人 當 小斗 一斗六升强의 配當으로 그 酒稅만 一千一百七十萬餘圓이며 여긔에 外來酒類지 加算허면 더 놀라울 數字가 될 것이다.
+이중에는 朝鮮製 휘스키― 一百三十石 葡萄酒 二百八十三石도 잇스며 막걸리는 一百二十八萬六千餘石으로 全 醜造數의 七割强을 차지하고 잇다.
+◇朝鮮의 ■■■■
+病院■ 一三四
+醫師■奉■醫 五九三
+閉業醫 一四九七
+醫生 四二六七
+限地醫業者 三◯七
+齒科醫 奉■醫 三一
+開業醫 五七◯
+入齒業者 一九◯
+産婆 一五四五
+限地産婆 四一
+看護婦 一五八六
+按摩業者 七四四
+柔道整復業者 三六
+鍼術業者 八六七
+炙術業者 六三八
+種痘施術生 二◯八
+(昭和 八年 末 現在)
+◇朝鮮의 鑛區數
+數字로 본 朝鮮金鑛■의 一面相이라고 할 수 잇는 昨年 中의 鑛區變動으로 보면 다음과 갓다
+昨年 一月一日 現在의 鑛區 總數는 三千七百十四鑛區엿든바 昨年 中에 新規로 設定된 鑛區數가 七百三十三鑛區요 消滅된 鑛區數는 ■百九鑛區로 實數에 잇서 六百二十四鑛區가 增加되여 今年 一月一日 現在 鑛區數는 三千三百三十八鑛區이다.＜120＞
+新規設定된 鑛區 七百三十三鑛區의 約 八割六分 六百■十鑛區는 金銀鑛山이 차지하엿고 ■金은 다음으로 七十鑛區며 其他는 겨우 三十三鑛밧게 되지 않는다고 한다.
+◇婚姻과 離婚
+朝鮮에서 昨年 中 擧行된 結婚 數는 十二萬六千六百四十四件으로 一日 平均 三百四十七件이며 그중 朝鮮사람의 婚姻 數는 十二萬四千四百八十件으로 例年에 依하면 相當한 激減으로 昭和 五年度의 朝鮮人 婚姻 數 十九萬七千五百六十三에 比하면 實로 四割强의 減少이다.
+婚姻年齡은 男子에 잇■서
+十七歲 未滿 一七四四一(一割四分)
+十九歲 未滿 三九三八二(三割一分)
+廿四歲 未滿 四一二四八(三割三分)
+廿九歲 未滿 一六二六七(一割三分)
+卅四歲 未滿 五二二七(四分)
+卅九歲 未滿 二三九五(二分)
+四九歲 未滿 二三六◯(二分)
+六◯歲 以上 一七◯(■)
+女子에 잇서는
+十五歲 未滿 一二三一◯(九分)
+十九歲 未滿 八五一八(六割八分)
+廿四歲 未滿 一九六八五(一割五分)
+廿九歲 未滿 四四三三(三分)
+卅九歲 未滿 二二一四(二分)
+五九歲 未滿 ■六三◯(■)
+六◯歲 以上 二五(■)
+으로 年齡 ■合은 男 十九 未滿과 女 十九 未滿의 二割五分을 最高로 男 廿四 未滿과 女 十九 未滿의 二割三分이 次位며 女 五九 未滿과 男 五◯ 以上의 ■合이 七件이나 잇는 것과 女 九 未滿과 男女 各 六◯ 以上의 結婚이 二十件이나 되는 ■이 눈에 ■■다.
+離婚은 昨年 中에 五千八百七十■件으로 ■■■■사 ■■■千七百五十七件이며 每日 平均 十六件의 比例로 그 件數와 比率은 이것으로 例年보다 減少되엿다 하는바 그 年齡은 男子 二十-二十九歲가 最高로 全數의 五割二分요 女子는 十五-二十四歲가 最高로 全數의 五割五分强이며 六十歲 以上 男子가 四十七件 女子가 十八件이나 되는 것이 有表하게 눈에 워진다.
+◇東京留學生數
+東京에 가 잇는 留學生 數는 男子 二千六百十五名 女子 一百六十七名으로 그중 大學에 잇는 學生이 男子 三百十六名 女子 十九名이요 東京 以外 地方에 散在하■ 잇는 數는 男子 一千二百二十名 女子 八十五名으로 總合計 四千◯八十七名이라 한다.
+◇朝鮮의 書堂數
+朝鮮의 書堂 數는 普通學校와 그 外 ■等學校의 增加에 라 ■年이 減少하는 中이나 今年 三月 末 調査에 依하면
+書堂 數 七千五百二十九個所
+敎師 數 七千九百六十四人
+生徒 數 ■萬八千一百◯五人
+으로 十年前 大正 十三年度의 統計와 對照하야보면
+書堂 數 一萬二千八十四個所
+敎師 數 一萬三千三百二十一人
+生徒 數 十萬八千七百■十一人
+의 減少를 보히고 잇다. (參考로 昨年 三月 末 普通學校 生徒는 五十六萬一千二百九十二名이며 十年前 大正 十二年 末 調査 數는 三一七六六一名으로 約 二十四萬三千名의 增加를 보히고 잇다)
+◇朝鮮의 圖書館
+圖書館 總數 五十二館
+■內 官設圖書館 二館
+公設圖書館 十■館
+■■圖書館 二十四館
+私設圖書館 九館
+■ 總數 四◯七,九七六■
+■館延日數 一二,七五七日
+閱覽人員 一,二三◯,三九七人
+收入金額 二三,二九三圓
+維持經費 一五◯(三◯八圓
+(昭和 八年度 末 調査)
+◇朝鮮의 失業者
+昨年 六月 末 現在의 總督府에서 ■査한 朝鮮의 失業者 數는 調査人員 數 一百三十六萬七千四百四十三人 中 十三萬四千三百七十八名으로 ■■業■■八%로 再昨年보다 一■九三의 減率이라고 한다(여긔 調査 人員數라는 것은 給料生活者와 勞働者를 가리친 것으로 學生 其■ 無職者 ■■ 自營業者 月收 二百圓 以上의 給料生活者와 外國■ 女子를 除外한 人員으로 就業의 能力 及 意思를 가젓슴에 不拘하고 就業의 機會를 엇지 못한 者를 失業이라고 하야 調査한 것이다)
+
+이 欄은 압흐로 精誠것 모아서 드릴 것이니 이것만 로 여서 아조 統計集을 만드서도 조흘 것이 입니다. 우리들의 생각이 밋처 밋치지 못하는 가 잇스면 여러분 自身이 어한 것을 要求하여도 우■ 힘으로 될 수 잇는 것이면 ■해서 ■여드리겟슴니다. (係)＜121＞
+＜120-121＞

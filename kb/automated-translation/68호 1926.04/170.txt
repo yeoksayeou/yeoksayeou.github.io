@@ -1,0 +1,88 @@
+Magazine Title: 개벽 제68호
+Publication Date: 1926년 04월 01일
+Article Title: 實證美學의 基礎 (一) -生命과 觀念에 對하야- (The Foundation of Positivist Aesthetics (1) -Regarding Life and Concepts-)
+Author: 르나촤르스키 著, 朴英熙 譯 (Written by Lunacharsky, Translated by Pak Yŏnghŭi)
+Article Type: 논설 (Essay/Article)
+
+The Foundation of Positivist Aesthetics
+						Written by Lunacharsky, Translated by Pak Yŏnghŭi
+
+What is life? What is a living organism? An organism is a collection of bodies possessing various physiological or chemical characteristics, always in a state of mutual relation that is both fixed and fluid. The diverse organs within this collection constitute such an organism through their interactions with each other and with the surrounding environment, without losing their formal characteristics. Even if the elements of the body change, as long as the organism somehow maintains its formal immutability to some extent – in other words, as long as the organism possesses the ability to restore its original equilibrium after being disrupted by physical action – we call that organism "life." A dead organism passively succumbs to mechanical, thermal, chemical, and other physical actions and decomposes into its constituent elements. Therefore, life is the ability for self-preservation, or more precisely – it is the very process of an organism's self-preservation. We can infer that the more complete and vital an organism is, the more extensive its self-preservation ability will be in proportion. If we always observe an organism within its environment, we will understand that some kind of equilibrium process occurs between the organism and the environment, and the organism continually repeats advantageous reactions to the environment's actions. When faced with transformative actions from the environment, the organism either perishes or else adapts, achieving new reactions that reach its constitutional structure. The transformation of an organism's constitutional structure occurring under the influence of external actions during the process of adaptation to the environment is called evolution.<100> In a relatively unchanging state, an organism is created that is somewhat ideal for the given environment – in other words, an organism with the ability to most conveniently adapt to the given conditions. However, such an organism has one major drawback. This is because the more its organs possess a regular adaptability suited to specific actions, the weaker the organism becomes when conditions change. In such cases, new actions can place the very existence of the uniformly conservative organs in a perilous state, potentially leading to their presence or absence.
+
+Since environments exhibiting immutability or regular change in nature do not necessarily represent a universal norm for long periods, organisms, in order to secure their survival, not only need to react against nature but also need to select and choose according to the characteristics of external actions.
+
+Therefore, the most vital and ideally complete organism must be able to preserve life in all conditions and also be able to handle a diversity of reactions.
+
+Considering this, a changing environment is thought of as a condition that cultivates the organism. Within the entire range of reactions the environment elicits from life, methods of self-defense, decline, and various other forms of reception are ultimately richly perfected through selection or direct adaptation. The organism inevitably employs ingenuity (機略) in its struggle with the environment. Therefore, ingenuity and adaptation are merely two different expressions used to describe the same characteristic of a highly developed organism.
+
+From this, the following theory becomes clear: the more variable the environment in which an organism exists, the more reactions are achieved in the process of adaptation, and the more resourceful (機略的) it becomes when facing all dangers. This is because ingenuity or adaptation is merely acquired as a result of experience. (To be continued)<101>
+<100-101>
+
+**Summary**
+
+This article, a translation of a work by Lunacharsky, defines life as the process of self-preservation inherent in an organism, characterized by its ability to maintain equilibrium despite environmental changes. It argues that adaptation to the environment leads to evolution. While adaptation to stable environments can create 'ideal' organisms for those conditions, they become vulnerable to change. Truly vital organisms develop through interaction with *changing* environments, fostering a diversity of reactions and 'ingenuity' (機略), which is presented as synonymous with adaptation acquired through experience. From a colonial history perspective, this article is interesting as it showcases the introduction of Soviet Marxist/materialist thought (via Lunacharsky, a key Bolshevik figure) into 1920s Korea through translation by Pak Yŏnghŭi, a prominent figure in the Korean proletarian literature movement. It reflects the intellectual engagement with Western scientific and philosophical ideas, particularly those related to biology, evolution, and materialism, within the context of searching for new frameworks to understand life and society.
+
+**Named Entities**
+
+르나촤르스키	르나차르스키	Rŭnach'warŭsŭk'i (Lunacharsky)
+朴英熙	박영희	Pak Yŏnghŭi
+
+**Glossary**
+
+實證美學	실증미학	Positivist Aesthetics
+有機體	유기체	Organism
+生理的	생리적	Physiological
+化學的	화학적	Chemical
+相互關係	상호관계	Mutual relationship
+固定的	고정적	Fixed; static
+流動的	유동적	Fluid; dynamic
+集合體	집합체	Aggregate; collection; assembly
+器官	기관	Organ (biological)
+喪失치	상실치	(Older form) Not losing; without losing (Standard: 상실하지)
+不變性	불변성	Immutability; unchangeableness
+保持하고	보지하고	(Older spelling/form) Maintaining; preserving (Standard: 보존하고 or 유지하고)
+物理作用	물리작용	Physical action/effect
+均等	균등	Equilibrium; equality
+受動的	수동적	Passive
+分解한다	분해한다	Decomposes
+自己保存	자기보존	Self-preservation
+細密하게	세밀하게	Minutely; precisely; in detail
+環境	환경	Environment
+均等作用	균등작용	Equilibration process; balancing action
+不絶히	부절히	(Older form/Hanja reading) Incessantly; constantly (Commonly: 끊임없이)
+反動	반동	Reaction
+諒解할	양해할	(Will) understand; comprehend
+變換作用	변환작용	Transformation process/action
+構成體	구성체	Constitutional structure; constitution
+適應作用	적응작용	Adaptation process
+進化	진화	Evolution
+賦與된	부여된	Given; endowed
+馴致하는	순치하는	Adapting to; acclimating; taming
+微力	미력	Weak; powerless
+保守的	보수적	Conservative
+普遍的	보편적	Universal
+規範	규범	Norm; standard
+取捨撰擇	취사선택	Selection; choosing (what to take and what to discard)
+爭鬪	쟁투	Struggle; conflict
+機略	기략	Ingenuity; resourcefulness; stratagem
+同ㅡ特質	동일특질	Same characteristic
+獲得되는	획득되는	Is acquired; is obtained
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제68호
+발행일	1926년 04월 01일
+기사제목	實證美學의 基礎 (一) -生命과 觀念에 對하야-
+필자	르나촤르스키 著, 朴英熙 譯
+기사형태	논설
+
+實證美學의 基礎
+						르나촤르스키 著, 朴英熙 譯
+생명이란 무엇인가? 생명적 有機體라는 것은 무엇인가? 有機體라는 것은 여러 가지의 生理的 또는 化學的 特質을 갓고. 항상 相互關係에 잇서서 固定的이며 流動的인 육체의 集合體인 것이다. 이 集合體 가운데 잇는 多種多樣의 器官은, 그것들의 相互間, 또는 四圍의 환경과 한가지 그러한 有機體를 구성하는 것이며 그 형식상의 특성을 喪失치 안는 것이다. 가령 그 육체의 要素를 改變한다고는 할 지라도 어떠햇든지 有機體가 다소간이라도 그 형식의 不變性을 保持하고 잇는 동안 - 換言하면 有機體가 物理作用으로 해서 破壞함에 이르러서 본래의 均等을 회복할 수 잇는 능력을 소유하고 잇는 이상 우리는 그 有機體를 가르처서 「生命」이라고 일홈한다. 죽은 有機體는 機械的 熱的 化學的 기타 物理作用에 대해서 受動的으로 屈服하고 자체 스스로의 構成要素로 分解한다. 따라서 생명이라는 것은 자기 보존의 능력이며 더 細密하게 말하면 - 有機體의 자기보존과정 그것인 것이다. 우리는 有機體가 완전하고 생명적이면 그럴수록 그 자기보존능력도 또한 그와 비례해서 광대하다고 推定할 수 잇는 것이다. 말일 우리가 有機體를 항상 환경 속에서 관찰할 것 가트면 有機軆와 환경과의 새이에는 엇더한 종류의 均等作用이 니러나며 有機體는 不絶히 환경의 작용에 대해서 유리한 反動을 重複하며 잇는 것을 諒解할 것이다. 有機體에 대해서 일으키는 환경의 變換作用에 이르러서 有機軆는 파멸하든지 그러치 안으면 變換해서 構成體에까지 反應하는 새로운 反動을 성취하든지 엇더한 것이든지 하는 것이다. 환경으로의 適應作用의 과정 중에서 외적 작용의 영향 하에서 이러나는 有機軆 構成體의 變換은 그것을 進化라고＜100＞ 일홈튕�다. 비교적 불변화상태에 잇서서는 賦與된 환경에 대해서 좀 理想的인 換言하면 그 賦與된 상태를 가쟝 편리하게 馴致하는 능력이 잇는 有機軆가 작성되는 것이다. 그러나 이와 가튼 有機體는 한 개의 가쟝 큰 결점을 가지고 잇다. 웨 그런고 하니 그 器官이 일정한 동작에 따러서 규칙적인 適應性을 가지고 잇스면 가주고 잇는 그 만큼 有機軆는 상태의 변화에 잇서서는 微力인 까닭이다. 이러한 경우에 新作用은 一樣으로써 갓는 保守的 기관의 존재 그것을 잇게 하든지 업게 하든지 하는 위험상태에 잇슬 수가 잇는 것이다.
+자연 가운데에는 不變性의 것과 또는 규칙적인 변화를 經營하여 잇는 환경이 반드시 普遍的 規範을 오래 동안 대표하지 못할 것인 고로 有機軆는 그 생존을 保有케 하기 위해서는 자연에 대해서 反動을 행할 뿐만이 안이라 외부작용의 특성에 응해서 取捨撰擇할 필요가 잇다.
+그런 고로 자쟝 생명적이며 이상적으로는 완성한 有機軆라는 것은 모든 상태에 잇서서 생명을 보존할 수 잇스며 또한 反動의 多樣性을 처리할 수 잇지 안으면 안이 될 것이다.
+이러케 생각해서 본죽 변화적인 환경은 有機体를 培養하는 조건과 가티 생각된다. 환경이 생명에 대해서 반응하는 그 反動의 全域 내로부터 결국 선택이라든지 直接適應의 방법이라는 데에 따러서 自衛沒落과 기타 多種의 受容法이 풍부하게 완성되여 가는 것이다. 有機軆는 환경과의 爭鬪에 잇서서 그여코 機略을 戱弄하게 된다. 그런 고로 機略과 적응과는 - 다만 고도로 발달한 有機軆의 同一特質을 부르기 위해서 사용된 2개의 별다른 표현에 불과한다.
+이걸로써 다음의 이론이 明瞭하게 된다. 즉 有機軆의 생존해서 잇는 환경이 변화적이면 그럴수록 적응의 과정에 잇서서 보담 더 만흔 反動이 성취되며 모든 위험에 當面해서 더 機略的으로 되는 것이다. 그것은 機略이라든지 적응이라는 것은 경험의 결과 獲得되는 것에 불과한 까닭인 것이다. (未完)＜101＞
+＜100-101＞

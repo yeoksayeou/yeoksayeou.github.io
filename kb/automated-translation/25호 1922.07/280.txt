@@ -1,0 +1,133 @@
+**Header Section:**
+Magazine Title: 개벽
+Publication Date: 1922년 07월 10일
+Article Title: 하믈레트 (Hamlet)
+Author: 쉑스피아 (原作) 玄哲 (譯述) (Shakespeare (Original Author), Hyŏn Ch'ŏl (Translator/Adapter))
+Article Type: 희곡·시나리오 (Play/Scenario)
+
+**Body Text Translation:**
+
+Hamlet
+						Shakespeare (Original Author) Hyŏn Ch'ŏl (Translator/Adapter)
+Fourth Act
+
+First Scene
+(A Room in the Castle)
+(The KING enters first, followed by the QUEEN, ROSENCRANTZ, and GUILDENSTERN)
+KING. These sighs are no ordinary matter. What are the detailed circumstances? Please tell me the situation. Where is the Prince now?
+QUEEN. Sirs, leave this place for a moment.
+(ROSENCRANTZ and GUILDENSTERN exit)
+Ah, I have witnessed a truly cruel event.
+KING. What! What is it!! What has Hamlet done?
+QUEEN. Like a fierce wind and rough waves battling, maddened and running wild, he saw something stirring behind the arras, drew his sword, chased after it, and as the words "A rat! A rat!" fell from his lips, in his confused state, without any distinction, he stabbed and killed the old man hidden in the shadow of the arras.
+KING. Ah! A detestable evil deed! Had I been there, I would have suffered the same fate. Leaving that boy unchecked poses a danger to many people, to your person, to my person, indeed to anyone. A perilous matter, perilous. How can we inform <151> the people of such an event? It is the responsibility of a father to restrain a madman who has not reached the age [of reason] beforehand and prevent him from mixing with people, and I shall inevitably face criticism. Like one afflicted with a vile disease who hates others knowing and misses the time for treatment, thus needlessly losing their life, we, engrossed in people [perhaps meaning 'in our affection for him'?], seem to have failed to do what we should have done. But where did he go?
+QUEEN. He wrapped up the corpse and went somewhere. Just as veins of gold glimmer even in worthless rock crevices, though mad, he seems to deeply regret the killing.
+KING. Come, Gertrude, quickly, inside! As soon as morning climbs the mountain, let's send the boy away by ship. And this evening's evil deed must be skillfully covered up by my authority and wisdom... Come! Come! Guildenstern!
+(ROSENCRANTZ and GUILDENSTERN enter)
+Call everyone here. Hamlet, in his severe madness, has slain Polonius and gone somewhere from the inner palace. Find where he went, speak to him gently, and have Polonius's body placed in the chapel. Do this immediately.
+(ROSENCRANTZ and GUILDENSTERN exit again)
+Come, Gertrude, let us gather those skilled in counsel, tell them of this incident, and explain our intentions. Public slander, comparatively, is like a flint arrow, echoing from one end to the other is the norm, but if we plan ahead like this, the mark will miss our name, and the poisoned shot will hit empty air. Come, let's go that way! My heart is drawn by shock and utterly disordered.
+(KING and QUEEN exit)
+End of Act 4, Scene 1 <152>
+<151-152>
+
+**Summary**
+
+This text is an early Korean translation of Act 4, Scene 1 of Shakespeare's Hamlet. Queen Gertrude informs King Claudius that Hamlet, in a fit of madness, has killed Polonius, mistaking him for someone else behind the arras. Claudius expresses shock and fear for his own safety, lamenting that he didn't restrain Hamlet sooner. He resolves to send Hamlet away to England immediately and instructs Rosencrantz and Guildenstern to find Hamlet and locate Polonius's body. Claudius worries about managing public perception and plans to use his authority to control the narrative.
+
+From the perspective of Korean colonial history, this article is significant as it demonstrates the active reception and translation of Western literary classics into Korean during the 1920s, published in *Kaebyŏk*, a major intellectual magazine of the era known for promoting cultural enlightenment. The translation style, orthography (mixing Hanja and Hangul with older spellings), and vocabulary choices reflect the linguistic landscape of Korea under Japanese rule, showing efforts to modernize the Korean language and engage with global culture despite colonial constraints. Historians might find the specific choices made in translating concepts and names (e.g., "Kugwang" for King, the transliteration of names) indicative of cultural mediation processes during this period.
+
+**Named Entities**
+
+하믈레트	하믈레트	Hamlet
+쉑스피아	쉑스피아	Shakespeare
+玄哲	현철	Hyŏn Ch'ŏl
+國王	국왕	King (Claudius)
+王妃	왕비	Queen (Gertrude)
+로오쩬크란쯔	로오쩬크란쯔	Rosencrantz
+킬덴스다안	킬덴스다안	Guildenstern
+王子	왕자	Prince (Hamlet)
+老人	노인	Old Man (Polonius)
+뽀로오니야스	뽀로오니야스	Polonius
+카아쯔루우드	카아쯔루우드	Gertrude
+
+**Glossary**
+
+歎息	탄식	Sigh; lamentation
+仔細하다	자세하다	To be detailed; circumstances
+어대	어데	Where (older form of 어디)
+暫間	잠간	A short while; for a moment
+慘酷하다	참혹하다	To be cruel; atrocious; tragic
+굿센	굳센	Strong; stout; firm (older form of 굳센)
+帳幕	장막	Tent; curtain; arras
+움적이다	움직이다	To stir; move (older form of 움직이다)
+쫏차가다	쫓아가다	To chase after (older form of 쫓아가다)
+分揀	분간	Distinction; discernment
+可憎하다	가증하다	To be detestable; abominable
+惡行	악행	Evil deed; wicked act
+當하다	당하다	To encounter; suffer; meet with
+危殆하다	위태하다	To be dangerous; perilous
+取締하다	취체하다	To control; restrain; manage (often used for police control)
+非難	비난	Criticism; blame
+밧다	받다	To receive (older spelling of 받다)
+일어서	잃어서	Losing; having lost (older form of 잃어서)
+갑흡니다	같습니다	Seems like; is like (older, formal form of 같습니다)
+尸體	시체	Corpse; dead body
+價値	가치	Value; worth
+礦脈	광맥	Ore vein; mineral vein
+뻣적거리다	뻣적거리다	To glimmer; glitter (onomatopoeic/mimetic)
+밋첫지만은	미쳤지만은	Though mad; although insane (older spelling)
+後悔하다	후회하다	To regret
+곳	곧	Immediately; at once (older spelling)
+權威	권위	Authority
+智慧	지혜	Wisdom
+穩和하다	온화하다	To be gentle; mild; peaceful
+禮拜堂	예배당	Chapel; church
+안치하다	안치하다	To enshrine; place (a body) respectfully
+至急히	지급히	Urgently; immediately
+謀略	모략	Stratagem; plot; counsel
+所懷	소회	One's thoughts; feelings; intentions
+誹謗	비방	Slander; defamation
+살대	화살대	Arrow shaft (used figuratively here)
+雷同하다	뇌동하다	To echo blindly; follow suit without independent judgment
+設計하다	설계하다	To plan; design
+標準	표준	Mark; target; standard
+버서나다	벗어나다	To escape; get out of; miss (a target) (older spelling)
+毒彈	독탄	Poisoned bullet/shot
+空中	공중	The air; empty space
+마치다	맞히다	To hit (a target) (older usage/spelling, modern means 'to finish')
+끄을여	끌려	Being dragged; drawn; pulled (older spelling of 끌려)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제25호
+발행일	1922년 07월 10일
+기사제목	하믈레트
+필자	쉑스피아 (原作) 玄哲 (譯述)
+기사형태	희곡·시나리오
+
+하믈레트
+						쉑스피아 (原作) 玄哲 (譯述)
+第四幕
+
+第一場
+(城內의 一室)
+(國王이 압서고 그 다음 王妃, 로오쩬크란쯔, 킬덴스다안 딸 아들이 온다)
+國王. 그 歎息은 例事일이 아니다. 仔細한 事情이 어떠하던가? 그 事情을 말좀 하오. 王子는 只今 어대?.
+王妃. 卿들은 暫間동안 이 자리를.
+(로오쩬크란쯔와 킬덴스다안 들어간다)
+아아참 慘酷한 일을 보앗습니다.
+國王. 아니! 무슨 일이!! 하믈레트가 어떠켓다고?
+王妃. 모진 바람과 굿센 물결이 싸우는 것과 가티 미처서 날뛰는 남어지 힘으로 帳幕 뒤에 무슨 物件이 움적이는 것을 보더니 칼을 빼여들고 쫏차가서 쥐(鼠)다 쥐(鼠)다 하는 말이 입에서 떠러지자 散亂한 마음은 아모 分揀업시 帳幕 그늘에 숨어 잇는 老人을 찔너 죽엿습니다.
+國王. 아아! 可憎한 惡行! 내가 萬一 거기에 잇섯더면 한가지 그러한 變을 當햇겟지. 그 애를 그양 두다가는 여러 사람의 身上에 그대의 몸에나 나의 몸에도 아니 어떠한 사람의 몸에라도 危殆한 일이야 危殆한 일. 가사 이러한 일을 어찌하면＜151＞ 國民에게 알게할가?  나(齡)이 차지 아니한 狂人은 미리 取締하여 사람들과 한가지 석기지 안케하는 것이 父君되는 者의 責任인데 내가 非難을 밧지 아니하지 못하게 되엇다. 惡한 病에 결린 者가 남이 아는 것을 실여하여 治療할 時期를 일어서 空然히 목숨을 버이는 것과 가티 사람에 빠저서 우리들이 할 일을 하지 아니한 갑흡니다. 그런대 어로가서?
+王妃. 尸體를 훌싸서 어대인지. 아모 價値업는 바위 틈에도 黃金의 礦脈이 뻣적거리는 것과 가티 밋첫지마는 죽인 일을 甚히 後悔하는 것 갓태요.
+國王. 자아, 카아쯔루우드, 어서 안으로! 아츰 날이 山 우에 오르거던 곳 배(船)로 그 애를 보내자. 그리고 오늘 저녁 惡行은 나의 權威와 智慧로써 잘 꾸며대지 아니하면 안될 것이다... 자아! 자아! 킬덴스다안!
+(로오쩬크란쯔와 킬덴스다안 들어온다)
+여러 사람을 모도 이리 불너 오너라. 하믈레트의 甚한 미친 病은 뽀로오니야스를 殺害하고 內殿에서 어대로 가버렷다. 어대로 갓는지 차자서 말을 穩和하게 하고 뽀로오니야스의 尸體는 禮拜堂에 안치하도록 하여다고. 이 길로 至急히
+(로오쩬크란쯔와 킬덴스다안 또 들어간다)
+자아, 카아쯔루우드, 謀略이 잇는 무리(輩)들을 모와서 이러한 變事를 말도 하고 우리의 所懷도 들이자. 世上의 誹謗은 比較하면 火石의 살대(矢)와 가티 이쪽 끗으로부터 젓쪽 끗까지 雷同을 하는 것이 常例이지마는 이러케 먼저 設計를 해두면 標準은 우리의 일홈을 버서나서 毒彈은 빈 空中을 마치고 말 것이다. 자아 저리로! 마음이 놀남에 끄을여 어지러이 되고 만다.
+(國王과 王妃 들어간다)
+第4幕 第1場 完了＜152＞
+＜151-152＞

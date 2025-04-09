@@ -1,0 +1,36 @@
+**Header Section:**
+Magazine Title: 개벽 신간 제3호
+Publication Date: 1935년 01월 01일
+Article Title: 아담슨 漫畵集 (Adamson Comic Collection)
+Author: None specified
+Article Type: 만화 (Comic/Cartoon)
+
+**Body Text Translation:**
+★Adamson Comic Collection / A Clever Plan Fails Too?
+＜111＞
+
+**Summary**
+
+This entry provides metadata for a comic strip titled "Adamson Comic Collection" published in the January 1, 1935 issue (New Issue No. 3) of the magazine *Kaebyŏk*. The specific strip featured seems to be captioned "A Clever Plan Fails Too?". The presence of the internationally syndicated Swedish comic strip "Adamson" in a Korean magazine from 1935 is noteworthy for historians studying cultural consumption and international influences in colonial Korea. It indicates the circulation of Western popular culture within the peninsula during this period.
+
+**Named Entities**
+아담슨	아담슨	Adamson
+
+**Glossary**
+개벽	개벽	Name of the magazine, meaning "Genesis" or "The Creation".
+신간	신간	New issue/publication.
+漫畵集	만화집	Comic collection/anthology.
+妙案	묘안	Clever plan, ingenious idea.
+失敗	실패	Failure.
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제3호
+발행일	1935년 01월 01일
+기사제목	아담슨 漫畵集
+기사형태	만화
+
+★아담슨 漫畵集/妙案도 失敗?
+＜111＞

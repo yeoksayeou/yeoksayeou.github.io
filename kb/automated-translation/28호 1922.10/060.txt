@@ -1,0 +1,56 @@
+Magazine Title: 개벽
+Publication Date: 1922년 10월 01일
+Article Title: 社告 (Company Announcement)
+Author: N/A
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+▲Company Announcement▲/To the People of Chŏlla Namdo (全南人士)
+
+The original intention (本意) in establishing the Kaebyŏk Chŏnnam Branch Office (開闢全南支社) was solely to provide every convenience for the people of Chŏlla Namdo in subscribing to this magazine (本誌). However, due to unavoidable circumstances (事情) during this time (這間), we have instead caused much inconvenience (不便) to our readers (讀者諸位). Although this was not our intention, the Main Office (本社) considers this deeply regrettable (遺憾). Until such time (時機) as the organization (機關) of the branch office in your region (貴地) is fully equipped (完備), the Main Office will directly execute (執行) business matters (業務) such as sending copies (送本), collecting payments (集金), etc. Therefore, from now on, please direct magazine requests (雜誌請求) and payment procedures (送金節次) directly to the Main Office (本社).<60>
+
+**Summary**
+
+This is an announcement from the publisher of *Kaebyŏk* magazine to its readers in Chŏlla Namdo province. It informs them that due to unspecified "unavoidable circumstances," the recently established Chŏnnam Branch Office cannot currently provide services effectively. Consequently, the main office in Seoul will handle subscriptions, distribution, and payments directly until the branch office is fully operational. For historians, this announcement sheds light on the practical difficulties faced by Korean cultural enterprises like magazines during the colonial period. The vague mention of "unavoidable circumstances" could hint at financial troubles, logistical issues, or possibly even pressure from colonial authorities, reflecting the challenging environment for nationalist or culturally significant publications.
+
+**Named Entities**
+
+全南	전남	Chŏlla Namdo
+開闢全南支社	개벽전남지사	Kaebyŏk Chŏnnam Branch Office
+本社	본사	Main Office (Publisher)
+
+**Glossary**
+
+社告	사고	Company announcement
+全南人士	전남인사	People of Chŏlla Namdo (South Chŏlla Province)
+本意	본의	Original intention
+這間	저간	During this time; recently
+事情	사정	Circumstances; situation
+讀者諸位	독자제위	Readers (honorific plural)
+不便	불편	Inconvenience
+치게함	끼치게 함	Causing (older spelling of 끼치게 함)
+遺憾	유감	Regret
+貴地	귀지	Your region (honorific)
+機關	기관	Organization; agency; facility
+完備	완비	Being fully equipped; complete
+時機	시기	Time; opportunity; moment
+本社	본사	Main office; headquarters (here, the publisher)
+直接	직접	Directly
+送本	송본	Sending copies (of books/magazines)
+集金	집금	Collecting money/payments
+業務	업무	Business; duties; operations
+執行	집행	Execution; carrying out
+雜誌請求	잡지청구	Magazine request; subscription request
+送金節次	송금절차	Remittance procedure; payment process
+하시옵소서	하십시오	Please do (deferential imperative, older form)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제28호(1부)
+발행일	1922년 10월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+▲社告▲/全南人士에게
+開闢全南支社를 置한 本意는 全南人士의 本誌購讀上萬一의 便宜를 圖할가함이러니 這間에 말할수업는 事情으로 因하야 讀者諸位에게 돌이어만흔 不便을 치게함은 비록 本意는 아니나 本社로서는 대단한 遺憾으로 생각하와 貴地의 支社의 機關이 完備하는 時機지는 本社에서 直接送本集金等業務를 執行하겟사오니 今後부터 雜誌請求와 送金節次를 直接本社에로하시옵소서＜60＞

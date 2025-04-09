@@ -1,0 +1,44 @@
+Magazine Title: 개벽 제5호
+Publication Date:
+Article Title: [무제] (Untitled)
+Author: 文貞公 孟思誠
+Article Type: 시 (Poem)
+
+As autumn sets into the rivers and lakes, every fish is plump.
+Loading a net onto a small boat, I let it drift and float along.
+That this body can pass the time thus is also due to the King's grace.
+(By Munjŏnggong Maeng Sasŏng)＜120＞
+
+**Summary**
+
+This short entry presents a classic Korean sijo poem attributed to Maeng Sasŏng, a respected Joseon Dynasty scholar-official. The poem depicts the idyllic and peaceful scene of enjoying nature in autumn – plump fish, a small boat drifting – and attributes the ability to enjoy such leisure to the grace of the king. For historians studying the colonial period, the inclusion of such a traditional poem by a revered historical figure in a magazine like *Gaebyeok* (known for its nationalist leanings) is significant. It represents an effort to preserve and celebrate Korean cultural heritage and history amidst Japanese assimilation policies, subtly reinforcing national identity through classical literature.
+
+**Named Entities**
+
+文貞公 孟思誠	문정공 맹사성	Munjŏnggong Maeng Sasŏng
+
+**Glossary**
+
+江湖	강호	Rivers and lakes; the countryside, retirement from worldly affairs
+살저 잇다	살쪄 있다	Is fat, is plump (older spelling/form)
+小艇	소정	Small boat
+싯고	싣고	Loading (older spelling)
+흘리때 여더저 두고	흘리띄워 내버려 두고	Letting it drift and float along (interpretation of older phrasing)
+消日해옴도	소일함도	The act of passing the time (older form)
+亦	역	Also, too
+君恩	군은	King's grace, royal favor
+이삿다	이셨다	Is (honorific past/declarative, older form)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제5호
+발행일	
+기사제목	[무제]
+기사형태	시
+
+江湖에 가을이 드니 고기마다 살저 잇다.
+小艇에 그물 싯고 흘리때 여더저 두고
+이 몸이 消日해옴도 亦 君恩이삿다.
+(文貞公 孟思誠 作)＜120＞

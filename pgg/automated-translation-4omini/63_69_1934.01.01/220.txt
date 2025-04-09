@@ -1,0 +1,64 @@
+잡지명	별건곤  
+발행일	1934년 01월 01일  
+기사제목	궁금푸리 (Curiosity)  
+기사형태	잡저 (Essay)  
+
+Curiosity  
+
+Why is snow white?  
+
+Why is snow so white? This seems like an unsophisticated yet difficult question, doesn't it? If you pick up a snowflake and look at it through a microscope, you'll find things similar to candies and also bits that resemble diamonds grouped together. This is what we call the crystalline structure of snow. Between these structures, there are also tiny gaps filled with air, and the light that hits these crystals is scattered in all directions due to a phenomenon called diffuse reflection, which is why it looks white. For example, a chunk of ice appears clear, but if you break it with a metal or lead pipe, the fractures create surfaces that suddenly appear white. This is because air enters the cracks, causing the light to reflect in various directions on those newly exposed surfaces. The whiteness of snow is due to the same reason.
+
+Why does aim not match with artillery?  
+
+The straighter you aim, the more likely the artillery will miss; what might be the reason for this? To illustrate, consider an example: when targeting to shoot from near the equator towards the north, if you aim correctly, the projectile does not hit the target but veers off to the east. A simpler example is when hunting birds or deer; if you are at a short distance, you may hit your target, but as the distance increases, problems arise. This occurs because on Earth, the rotation speed is fastest at the equator, decreasing as you move towards the poles. Consequently, a projectile fired from the equator carries the significant eastward speed of the equatorial rotation along with it, and thus it overshoots the target, landing east of where it was aimed. For this reason, actual artillerymen consider this and aim slightly westward when shooting at long distances.
+
+What happens when an object falls?  
+
+When an object falls from a high place, one might easily believe that it will deviate to the west because the Earth rotates from west to east; however, it actually deviates to the east. This strange reason also arises from the rotation of the Earth. As you ascend into the air, the speed of rotation at that location increases. This is because, similarly, the area the airship covers while in flight is indeed greater than that of the ground beneath it. Therefore, the speed at which the airship moves is greater than the speed of the ground beneath it.
+
+Consequently, when an object is dropped from an airship, the object retains the rotational speed of the airship as it departs. Therefore, the speed remains consistent until the object reaches the ground. As a result, it falls slightly eastward compared to the ground beneath it.  
+
+**Summary**  
+
+This article discusses the nature of snow and the physics behind why snow appears white, the phenomenon of artillery misfires, and how objects dropped from moving vehicles behave due to Earth's rotation. Particularly interesting for historians is the examination of scientific explanations within the context of Korean colonization, reflecting a growing engagement with modern scientific discourse during the 1930s.
+
+**Named Entities**  
+
+None  
+
+**Glossary**  
+
+눈	이제		snow  
+결정	결정		crystal  
+란반사	난반사		diffuse reflection  
+지구	지구		Earth  
+적도	적도		equator  
+서쪽	서쪽		west  
+동쪽	동쪽		east  
+물체	물체		object  
+비행선	비행선	airship  
+회전속도	회전속도		rotational speed  
+
+
+---------------------------
+
+
+잡지명	별건곤 제69호
+발행일	1934년 01월 01일
+기사제목	궁금푸리
+기사형태	잡저
+
+궁금푸리
+눈-빗은 왜 흰가?
+눈-눈! 눈은 대체 왜 그럿케 하얄까요. 싱거운 듯하면서 어려운 문제가 아닙니까? 눈을 한알만 집어서 현미경으로 드려다 보면 과자 가튼 것도 잇고 다이야몬드 가튼 것이 조각조각 모여서 된 것도 잇습니다. 이것을 눈의 결정(結晶)이라고 하는데 이 결정의 사이사이에는 또한 만흔 간격이 버러져 잇습니다. 이 틈에는 공긔가 끼워잇서 그 결정에 부닷치는 빗이 속에서 란반사(亂反射)라 하야 사면 팔방으로 흐터지는 고로 하얏케 보이는 것입니다. 레를 들면 어름의 한덩어리는 원래 투명해 보이나 이를 못이나 납 바눈로 처서 깨트리면 어름덩어리의 각각 금이 나서 돌연히 하얏케 보여 집니다. 이것은 그 갈라진 곳에 공긔가 들어가 금이 간 만흔 면에 광선이 빗최여 란반사가 되는 까닭입니다. 눈-이 하얏케 보이는 것도 이와 같튼 리유입니다.
+
+견양대로 맛지 안는 大砲
+견양이 바르사록 대포는 빗나간다니 이것이 웬 까닭이 겟습니까? 여기에 대해서 자미 잇는 것은 레를 들면 지구의 적도(赤道) 부근에서 북방을 대포로 공격할 때 목표를 정확히 견양하면 탄환은 명중되지 안코 동쪽으로 치우처 떠러지고 말것입니다. 더 쉬운 레로는 산양 할 때 새나 돗이나 사슴에 잇서서도 갓차운 거리면은 모르지만 조곰만 먼-거리면은 문제입니다.
+이런 것은 모다 이 지구상에서는 적도상의 회전속도가 가장 빠르고 량극으로 감에 따라 적어지는 까닭에 적도우에서 내 쏘은 탄환에는 적도의 동향의 큰 속도가 동시에 가헤저 잇는 고로 그냥 관역을 더 지나가 엽흐로 동쪽에 떠러지고 마는 것입니다. 그리기 때문에 실제로 포병들도 이 점을 고려하야 장거리 사격에 잇서서는 관역보다 서쪽으로 비스듬이 쏘는 것이 랍니다.
+
+물체가 떠러질 때엔?
+비상히 놉흔 곳에서 물체가 떠러질 때 누구나 지구는 서쪽에서 동쪽으로 도는 것인고로 똑바로 떠러지지 안코 서쪽으로 치우처 떠러지는 것으로 알기가 쉽지만 실재로는 이와 반대로 동쪽으로 치우처 떠러집니다. 이 이상한 리유도 물논 지구가 회전하는 까닭에 원인되는 것이나 따우에서 차차 공중으로 놉히 올너가면 올너갈수록 그 장소의 회전속도는 커지는 것입니다.
+왜 그러냐 하면 그한 레로 공중 놉히를 너간비행선도 그 지하의 가옥도 하로에 한 번도는 것이나 비행선이 한 번도는 그 주위의 거리는 물논 땅우의 집이 한 번 도는 주위의 거리보다는 퍽으나 기러지는 것이요. 따라서 일초간에 진행하는 속도는 비행선쪽이 좀더 커지는 것입니다.
+그럿키 때문에 비행선에서 물체를 떠러트릴 경우에 정히 비행선을 떠나려는 물체는 비행선의 회전속도를 그대로 가지고 잇습니다. 그래서 그 속도는 그 물체가 땅우에 떠러질 때까지 고대로 보지하게 되는 것입니다. 거기서 가옥보다는 뭇척 동쪽으로 치우처 떠러지는 것입니다.＜47＞
+＜47＞

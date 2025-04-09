@@ -1,0 +1,38 @@
+Magazine Title: 개벽 제3호
+Publication Date: 1920년 08월 25일
+Article Title: 正義 (Justice)
+Author: 푸라쓰
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+Where Justice goes, there is no adversary. Justice is the Living God (산한울님). (P'ŭrassŭ) <100>
+
+**Summary**
+
+This brief entry is an aphorism asserting the supreme power of Justice (正義), stating it faces no opposition and equating it with the concept of "산한울님" (Living God), a term central to Cheondoism. The attribution to "P'ŭrassŭ" (likely Plato) lends philosophical weight. For historians, this piece, despite its brevity, is interesting as it reflects the idealistic and perhaps implicitly nationalistic sentiments prevalent in early colonial Korea, published in *Kaebyŏk*, a magazine known for its cultural and nationalist leanings. The equation of Justice with a native religious concept like "산한울님" is particularly noteworthy.
+
+**Named Entities**
+
+푸라쓰	푸라쓰	P'ŭrassŭ
+
+**Glossary**
+
+正義	정의	Justice
+가는	가는	Goes (form of 가다)
+곳	곳	Place
+아모	아무	Any, no (older spelling of 아무)
+對敵	대적	Adversary, enemy
+업다	없다	To not exist, to not have (older spelling of 없다)
+산한울님	산하눌님	Living God (term often used in Cheondoism; standard modern spelling might vary slightly, often 산울님 or 하느님/하늘님 variants, but this form emphasizes 'living')
+잡저	잡저	Miscellaneous writing, essay
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제3호
+발행일	1920년 08월 25일
+기사제목	正義
+기사형태	잡저
+
+正義
+正義가 가는 곳에는, 아모 對敵도 업다. 正義는 「산한울님」이니라. (푸라쓰) ＜100＞

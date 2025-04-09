@@ -1,0 +1,64 @@
+**Header Section**
+Magazine Title: 개벽 (開闢) 제38호
+Publication Date: 1923년 08월 01일
+Article Title: 禍가 有할진뎌 現一 (May There Be Misfortune, Hyŏn'il (Ambiguous title, possibly criticizing the status quo or a specific entity named Hyŏn'il))
+Author: N/A
+Article Type: 소식 (News/Tidings)
+
+**Body Text Translation**
+May There Be Misfortune, Hyŏn'il
+
+Some time ago, there was the special act of Mr. Kang T'aekchin (姜宅鎭), a young man of earnest purpose, who donated all of his own land to the Tenant Farmers' Union (小作人組合) and obtained a single servant's quarters room (行廊房) in Kyŏngsŏng (京城) to become an ice cream vendor. This time, Mr. Ch'oe Sŏksu (崔錫洙) of Kwangju (光州) has donated all his land and houses to the Labor Mutual Aid Society (勞働共濟會) there, contributing to the promotion of the labor movement.
+
+Seeing such new instances of property abandonment (財産 抛棄) frequently occurring, the fundamental transformation (根本的 改造) of Chosŏn (朝鮮) appears perhaps close at hand. <53>
+
+**Summary**
+
+This news brief reports on two recent philanthropic acts in colonial Korea: Kang T'aekchin donating his land to a tenant farmers' union and becoming an ice cream seller in Seoul, and Ch'oe Sŏksu donating his land and houses to a labor mutual aid society in Kwangju. The author interprets these donations as encouraging signs pointing towards a potential fundamental social transformation in Korea. For historians, this article is interesting as it highlights early instances of wealth redistribution motivated by social consciousness or nascent socialist/cooperative ideals during the colonial period. It reflects growing awareness of labor and tenant issues and suggests that some members of the propertied class were sympathetic to movements aiming for social change, seeing these acts as steps towards a "fundamental transformation" of Korean society.
+
+**Named Entities**
+
+姜宅鎭	강택진	Kang T'aekchin
+小作人組合	소작인조합	Tenant Farmers' Union
+京城	경성	Kyŏngsŏng
+光州	광주	Kwangju
+崔錫洙	최석수	Ch'oe Sŏksu
+勞働共濟會	노동공제회	Labor Mutual Aid Society
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+篤志	독지	Earnest purpose; sincere aspiration
+自己	자기	Oneself; one's own
+全部	전부	All; entire amount
+寄贈	기증	Donation; presentation (of gift)
+行廊房	행랑방	Servant's quarters room, typically near the main gate
+어더	얻어	To obtain; to get (Older spelling of 얻어)
+아이스크림	아이스크림	Ice cream
+쟝사	장사	Business; trade; selling (Older spelling of 장사)
+特擧	특거	Special act; remarkable deed
+家屋	가옥	House; dwelling
+贈寄	증기	To donate and send; contribute (variant of 기증)
+勞働運動	노동운동	Labor movement
+促進	촉진	Promotion; acceleration
+資케	자케	To contribute to; be useful for (archaic causative form from 資하다)
+가튼	같은	Same; like; such (Older spelling of 같은)
+財産	재산	Property; assets; wealth
+抛棄	포기	Abandonment; renunciation
+發生함으로	발생함으로	As it occurs/happens
+보면	보면	If one looks; seeing that
+根本的	근본적	Fundamental; basic
+改造	개조	Transformation; reorganization; remodeling
+其庶幾乎	기서기호	Perhaps it is close; it seems likely (Archaic Hanmun phrase indicating probability)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제38호
+발행일	1923년 08월 01일
+기사제목	禍가 有할진뎌 現一
+기사형태	소식
+
+禍가 有할진뎌 現一
+얼마 前에는 靑年篤志 姜宅鎭氏가 自己의 土地 全部를 小作人組合에 寄贈하고 京城의 行廊房 한 間을 어더 아이스크림 쟝사를 하는 特擧가 잇더니 이번에는 光州의 崔錫洙씨가 土地 家屋 全部를 그곳 勞働共濟會에 贈寄하야 勞働運動의 促進에 資케 하엿다. 이와 가튼 財産 抛棄의 새 事實이 種種히 發生함으로써 보면 朝鮮의 根本的 改造도 其庶幾乎.＜53＞

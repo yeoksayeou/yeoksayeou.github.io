@@ -1,0 +1,78 @@
+잡지명	개벽 신간 제3호
+발행일	1935년 01월 01일
+기사제목	露國의 古典文學硏究熱 (Russia's Enthusiasm for Studying Classic Literature)
+기사형태	문예평론 (Literary Criticism)
+
+As the Third Five-Year Plan progresses in Russia, the lives of the masses gain more leisure, and their cultural demands are becoming significantly higher and more complex. The American Publishing House [likely refers to a major Soviet state publisher] has long focused its main efforts on the translation and introduction of foreign classic literature, but to meet this general trend, it recently announced its publication plan for the coming year. This includes a total of 130 foreign literature titles, starting with Britain's Shakespearean plays, Milton's *Paradise Lost*, and novels by Swift, Fielding, Scott, Dickens, etc.; from Germany and France, representative works of Voltaire, Schiller, Maupassant, France, etc.; and also classics from Italy and Spain.
+
+For Greek literature, there will be eleven volumes, including Homer's *Iliad*, Sophocles' tragedies, and other lyric poetry collections. It also appears that the final volume of the *Arabian Nights* will be published this year. Furthermore, an Eastern Literature Series (東洋文學叢書) is planned, and work is reportedly set to begin on translating Persian, Chinese, and Japanese literature. Additionally, within Russia itself, the centennial anniversary of Pushkin is expected to be an occasion for the publication of many studies on Pushkin. <102>
+
+**Summary**
+
+This 1935 article from the magazine *Kaebyŏk Sin'gan* reports on the Soviet Union's vigorous efforts to translate and publish world classic literature as part of its cultural development alongside the Third Five-Year Plan. The plan includes numerous works from Europe (British, German, French, Italian, Spanish), Greek classics, the *Arabian Nights*, and notably, a new series dedicated to Eastern literature (Persian, Chinese, Japanese), alongside a burgeoning interest in Russian classics like Pushkin. For historians studying colonial Korea, this article is interesting as it highlights the cultural dynamism and international scope (including Asia) promoted by the Soviet state, offering a potential point of comparison or contrast with the cultural policies and limitations within colonized Korea under Japanese rule during the same period. The explicit mention of translating Japanese and Chinese literature alongside Western classics might have particularly resonated with Korean intellectuals interested in global cultural trends and Korea's place within them.
+
+**Named Entities**
+
+露國	로국	Russia
+露西亞	로서아	Russia
+아메리카	아메리카	America
+英國	영국	Britain
+쉑스피어	쉑스피어	Shakespeare
+밀톤	밀톤	Milton
+스레트	스레트	Swift
+필딩	필딩	Fielding
+스코트	스코트	Scott
+디겐스	디겐스	Dickens
+獨逸	독일	Germany
+佛蘭西	불란서	France
+볼테르	볼테르	Voltaire
+쉐르제르	쉐르제르	Schiller
+모파상	모파상	Maupassant
+란스	프랑스	France (Anatole France)
+伊太利	이태리	Italy
+西班牙	서반아	Spain
+希臘	희랍	Greece
+호머	호머	Homer
+소포클제스	소포클레스	Sophocles
+東洋	동양	The East/Orient
+波斯	파사	Persia
+支那	지나	China
+日本	일본	Japan
+푸쉬킨	푸시킨	Pushkin
+
+**Glossary**
+
+露國	로국	Russia (Older term using Hanja)
+進捗	진척	Progress, advancement
+餘裕	여유	Leisure, room, surplus
+文化的要求	문화적 요구	Cultural demand/requirements
+非常이	굉장히/매우	Very, extremely (Older adverbial form using 이)
+主力	주력	Main effort, focus
+大勢	대세	General trend, prevailing situation
+應하기	응하기	To respond to, to meet (a demand)
+來年度	내년도	Next year's
+總計	총계	Total sum, grand total
+等	등	Etc., and so on
+代表的	대표적	Representative
+著作	저작	Writings, works, book
+抒掃詩集	서정시집	Lyric poetry collection (Likely typo for 抒情詩集, but presented as original. 抒掃 literally means 'lyric sweeping')
+終刊	종간	Final volume/issue (of a series or publication)
+叢書	총서	Series (of books)
+計劃	계획	Plan
+着手	착수	To start, begin, commence
+自國	자국	One's own country
+百年祭	백년제	Centennial festival/anniversary
+機會	기회	Opportunity, chance
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제3호
+발행일	1935년 01월 01일
+기사제목	露國의 古典文學硏究熱
+기사형태	문예평론
+
+露國의 古典文學硏究熱
+第三次 五個年計劃이 進捗됨을 따러 露西亞에는 民衆生活에 餘裕가 생기여 그 文化的要求도 非常이 높아가고 또 複雜化되어간다. 아메리카 出阪所에서는 일즉부터도 外國古典文學의 飜譯紹介에 主力을 부어왓지마는 이 大勢에 應하기 위하야 最近에 來年度出版計劃을 發表하엿는데 그것은 外國文學書類 總計百三十種으로 우선 英國의 쉑스피어劇밀톤의 失樂園 스레트 필딩 스코트 디겐스等의 小說 獨逸佛蘭西에서는(볼테르쉐르제르 모파상 란스 等의 代表的著作 그리고 伊太利西班牙의 古典 等이다.
+希臘文學에는 十一冊인데 호머의 『일야드』소포클제스의 悲劇其他 抒掃詩集等 그리고 『안라비안나이트』도 今年에 그 終刊이 나올모양이다. 또 東洋文學叢書를 計劃하야 波斯 支那 日本文學等의 飜譯에 着手하리라고 한다. 그리고 自國에서도 푸쉬킨 百年祭를 機會로 푸쉬킨 硏究書가 많이 나올 모양이라고 한다.＜102＞

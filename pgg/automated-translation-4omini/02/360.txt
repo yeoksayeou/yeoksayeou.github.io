@@ -1,0 +1,54 @@
+잡지명	별건곤  
+발행일	1926년 12월 01일  
+기사제목	夫婦者와 獨身者 死亡數 (Death Rates of Married and Single Persons)  
+저자	없음  
+기사형태	잡저 (Article)
+
+Death Rates of Married and Single Persons, Interesting Survey of Sweden, Death Rates per Thousand  
+
+Age Group 30  
+Single - Male 9.2, Female 6.4, Married - Male 4.9, Female 6.3, Unmarried and Widowed - Male 8.9, Female 10.2  
+
+Age Group 40  
+Single - Male 14.7, Female 8.1, Married - Male 7.4, Female 7.9, Unmarried and Widowed - Male 12.9, Female 9.5  
+
+Age Group 50  
+Single - Male 22.7, Female 12.2, Married - Male 11.7, Female 9.0, Unmarried and Widowed - Male 17.3, Female 11.9  
+
+Age Group 60  
+Single - Male 37.2, Female 23.2, Married - Male 22.1, Female 17.2, Unmarried and Widowed - Male 29.5, Female 21.2 <109>
+
+**Summary**  
+
+The article presents statistics on death rates among different demographics in Sweden, particularly comparing married individuals to singles and those who are unmarried or widowed across various age groups. This analysis provides insight into how marital status may impact mortality rates. Historians might find this article revealing as it reflects social attitudes and health trends during the Japanese colonial period in Korea and the impact of similar societal conditions.
+
+**Named Entities**  
+
+스웨덴	Sweden  
+
+**Glossary**  
+
+夫婦者	부부자	Married person  
+獨身者	독신자	Single person  
+死亡數	사망수	Death rate  
+難婚者	난혼자	Unmarried person  
+鯄寡者	미망인	Widowed person  
+
+
+---------------------------
+
+
+잡지명	별건곤 제2호
+발행일	1926년 12월 01일
+기사제목	夫婦者와 獨身者 死亡數, 北歐瑞典 나라의 興味 잇는 調査, 각 千人의 死亡數
+기사형태	잡저
+
+夫婦者와 獨身者 死亡數, 北歐瑞典 나라의 興味 잇는 調査, 각 千人의 死亡數
+30세 연령계급
+독신자-남 9.2인, 여 6.4인, 결혼자-남 4.9인, 여 6.3인, 難婚者 鯄寡者-남 8.9인, 여 10.2인
+40세 연령계급
+독신자-남 14.7인, 여 8.1인, 결혼자-남 7.4인, 여 7.9인, 難婚者 鯄寡者-남 12.9인, 여 9.5인
+50세 연령계급
+독신자-남 22.7인, 여 12.2인, 결혼자-남 11.7인, 여 9.0인, 難婚者 鯄寡者-남 17.3인, 여 11.9인
+60세 연령계급
+독신자-남 37.2인, 여 23.2인, 결혼자-남 22.1인, 여 17.2인, 難婚者 鯄寡者-남 29.5인, 여 21.2인＜109＞

@@ -1,0 +1,52 @@
+잡지명	개벽 第6호
+발행일	1920년 12월 01일
+기사제목	江原道 奧地의 野話 (A Folk Tale from the Backcountry of Kangwŏn Province)
+기사형태	소식 (News/Dispatch)
+
+江原道 奧地의 野話 (A Folk Tale from the Backcountry of Kangwŏn Province)
+
+This story is quite amusing, but if misunderstood, it might incur the antipathy of the brethren from that region. However, it is actually nothing more than a kind of joke (笑話), and since it is a saying prevalent in that area, I present it here. It's not a long story, but a very simple one. Namely, it's the saying that "In the backcountry of Kangwŏn Province (江原道 奧地), one must have three sons (千息 3兄弟) for just one to become the parents' share (*디)." Why is that? Because one is taken by the tiger (범(虎)) (as it's mountainous terrain with many tigers), and another is taken by the monk (중(僧)) (as Kŭmgangsan (金剛山), which could be called the stronghold (本據地) of Chosŏn (朝鮮) monks, is located there. Among the mountains there, the four great temples (4大寺刹) such as Changan (長安), P'yohun (表訓), Yujŏm (惀岾), and [missing name] all possess enormous [missing text] and monks [missing text] and their influence is grand; the temples [...] the local populace [百姓] [...]) leaving the remaining son to [...] This [...]. However, this is an old saying (녯말). Nowadays (只今), there is likely no such *reason* [missing text] for it. <59>
+
+**Summary**
+
+This short piece recounts a folk saying from the remote areas of Kangwŏn Province in 1920. The saying claims that parents need three sons because one will be taken by tigers (due to the mountainous terrain) and another by Buddhist monks (due to the strong presence and influence of major temples like those in Kŭmgangsan), leaving only one for the parents. The author presents it as an amusing anecdote but notes it's an old saying, implying it might not reflect contemporary reality. For historians, this snippet offers insight into local beliefs and perceived realities of early colonial Korea, reflecting the dangers of wildlife and the significant socio-economic presence and influence (perhaps perceived negatively as 'taking' sons) of large Buddhist institutions like those in Kŭmgangsan in rural areas.
+
+**Named Entities**
+
+江原道	강원도	Kangwŏn Province
+金剛山	금강산	Kŭmgangsan
+朝鮮	조선	Chosŏn
+長安	장안	Changan
+表訓	표훈	P'yohun
+惀岾	유점	Yujŏm
+
+**Glossary**
+
+奧地	오지	Remote area, backcountry
+野話	야화	Folk tale, local story, anecdote
+誤解	오해	Misunderstanding
+反感	반감	Antipathy, hostility
+笑話	소화	Joke, funny story
+流行	유행	Prevalent, popular, in vogue
+千息	천식	Child, offspring (appears to be an older or specific term for 자식, used here in the context of 'sons')
+차지	차지	Share, portion; being taken by
+범(虎)	범(호)	Tiger
+중(僧)	중(승)	Buddhist monk
+本據地	본거지	Stronghold, headquarters, base
+寺刹	사찰	Buddhist temple
+宏壯	굉장	Magnificent, grand, vast
+百姓	백성	Common people, populace, peasants (older term)
+녯말	옛말	Old saying, old story (older spelling of 옛말)
+只今	지금	Now, currently (older spelling/Hanja representation of 지금)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제6호
+발행일	1920년 12월 01일
+기사제목	江原道 奧地의 野話
+기사형태	소식
+
+江原道 奧地의 野話
+이 말은 퍽 우수은 말인데 엇더케 誤解하면 그 地方 兄弟의 反感을 買할지도 모르겟다. 그러나 實은 一種 笑話에 不過하며 事實 그 地方에 流行하는 말임으로 玆에 發表한다. 그런데 別말이 아니라 아조 簡單한 말이다. 即 「江原道 奧地에서는 千息 3兄弟를 두어야 겨우 한 사람이 父母의 차지가 *디」는 말이다. 웨 그러케 되느냐 하면 하나는 범(虎)이 차지하고(山谷이라 범이 만흐니까) 또 하나는 중(僧)이 차지(朝鮮僧侶의 本據地라 할 만한 金剛山이 有한 中該山中의 長安, 表訓, 惀岾, **의 4大寺刹와 如함은 皆巨大한 **과 僧侶*를 有하야 그 勢가 宏壯한 바 사찰은 그 地方 百姓********)하고 남아지 한 子息이 *** *아오게 되는 最故이라 한다. 이 ***. 그러나 이것은 녯말이오. 只今은 그기 *理가 업* 것이다.＜59＞

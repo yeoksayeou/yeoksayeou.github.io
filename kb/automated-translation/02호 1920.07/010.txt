@@ -1,0 +1,62 @@
+Magazine Title: 개벽
+Publication Date: 1920년 07월 25일
+Article Title: 권두시 (Opening Poem)
+Author: Unknown
+Article Type: 시 (Poem)
+
+Opening Poem
+
+Until death, everyone
+Always seeks something, day and night.
+
+It is not perfect and infallible philosophy (哲).
+It is not peerless, celebrated fame (譽).
+It is not wealth (富) as huge as a mountain.
+It is not the power of a tempting smile.
+
+It is none of these, only being human.
+Only seeking to become human.<1>
+
+**Summary**
+
+This short poem argues that the fundamental human quest, pursued throughout life, is not for abstract ideals like philosophy, nor for worldly gains like fame, wealth, or superficial charm. Instead, the ultimate goal is simply to become a true human being. For historians, this poem from the early colonial period might be interesting as it reflects a turn towards humanism and introspection among Korean intellectuals. Amidst national suppression, the focus shifts from external achievements, possibly unattainable or devalued under colonial rule, to the internal cultivation of the self and essential humanity.
+
+**Named Entities**
+
+(None)
+
+**Glossary**
+
+늘밤낫	늘 밤낮	Always day and night (older spelling)
+求함이잇다	구함이 있다	There is seeking (older spelling/spacing)
+圓滿코	원만하고	Being perfect/complete and (Hanja + older grammatical ending)
+無謬한	무오한	Infallible, without error (Hanja form)
+哲	철(학)	Philosophy (used as abbreviation)
+위업시	위없이	Peerless, without comparison (older spelling)
+譽	명예	Fame, honor (Hanja form)
+山가티	산같이	Like a mountain (older spelling)
+富	부	Wealth (Hanja form)
+꾀이는	꾀는	Tempting, luring (older spelling)
+오즉	오직	Only, solely (older spelling)
+求할뿐	구할 뿐	Only seek (older spelling/spacing)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제2호
+발행일	1920년 07월 25일
+기사제목	권두시
+기사형태	시
+
+권두시
+사람은 누구나 죽을때까지
+무언지 늘밤낫 求함이잇다.
+
+圓滿코 無謬한 哲도아니요.
+위업시 뛰노는 譽도아니요.
+山가티 크나큰 富도아니요.
+꾀이는 웃음의 힘도아니다.
+
+모도다 아니라 오즉사람뿐
+사람이 되기를 오즉求할뿐.＜1＞

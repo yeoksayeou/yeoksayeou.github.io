@@ -1,0 +1,37 @@
+Magazine Title: 개벽 第20號
+Publication Date: 1922년 02월 08일
+Article Title: [무제] (Untitled)
+Author: 
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+The continued manuscript of the novel 『The Turkey』 (七面鳥) could not be published in this issue due to the author's circumstances.<70>
+
+**Summary**
+
+This brief editorial note explains that the next installment of the serialized novel "The Turkey" (七面鳥) was omitted from issue number 20 due to the author's "circumstances" (事故, sago). Such notices were common in periodicals, reflecting the challenges of serialized publication. For historians, the term "사고" (sago - circumstances/incident) is interesting; while it could mean a genuine personal issue for the author, it was also sometimes used as a euphemism for delays caused by censorship or other external pressures common during the colonial period.
+
+**Named Entities**
+
+七面鳥	칠면조	The Turkey (Novel Title)
+
+**Glossary**
+
+小說	소설	Novel
+七面鳥	칠면조	Turkey (Title of a serialized novel)
+續稿	속고	Continued manuscript; next installment
+作者	작자	Author
+事故	사고	Circumstances, incident, accident (often used euphemistically for various reasons for delay/non-publication)
+因하야	인하여	Due to (Older spelling/form of 인하여)
+本號	본호	This issue (of the magazine)
+揭載치 못하엿나이다	게재치 못하였나이다	Could not publish (Combination of 揭載하다 'to publish' + older negative suffix -치 + older polite ending 못하였나이다)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제20호
+발행일	1922년 02월 08일
+기사제목	[무제]
+기사형태	사고·편집후기
+
+小說 「七面鳥」의 續稿는 作者의 事故로 因하야 本號에 揭載치 못하엿나이다＜70＞

@@ -1,0 +1,65 @@
+**Header Section:**
+Magazine Title: 개벽 제3호
+Publication Date: 1920년 08월 25일
+Article Title: 落望 (Despair)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+**Body Text Translation:**
+Despair
+
+"It cannot be done" are words found only in the dictionary of the weak. (Napoleon)
+
+People live by hope. Even today's suffering (苦痛) and destitution (貧寒) are endured by thinking of tomorrow's (明日) joy (快樂) and success (成功). However, the day hope (希望) fades from me is the day my life (生命) fades away. (Emerson)
+
+Never despair!! If only you have a burning will (意志) in your heart (가삼), there is a way (方法) to carry that will (意志) through (貫徹). (Johnson)<100>
+
+**Summary**
+
+This short piece compiles three quotes emphasizing the importance of hope and willpower in overcoming adversity. Citing Napoleon, Emerson, and Johnson, it argues that despair is a sign of weakness, hope is essential for life, and a strong will can always find a way to succeed. Published in 1920 under Japanese rule, the article's message of resilience against despair and suffering likely aimed to encourage Koreans enduring colonial oppression. Historians might find it significant as an example of morale-boosting literature promoting inner strength and perseverance within the constraints of colonial censorship.
+
+**Named Entities**
+
+라폴레온	나폴레옹	Napoleon
+에-마손	에머슨	Emerson
+죤손	존슨	Johnson
+
+**Glossary**
+
+落望	낙망	Despair, disappointment
+할 수 업다	할 수 없다	Cannot do; older spelling of 없다 (eopta).
+弱한 者	약한 자	The weak person/one who is weak.
+辭典	사전	Dictionary.
+잇는	있는	Exist; older spelling of 있다 (itta).
+希望	희망	Hope.
+오날	오늘	Today; older spelling.
+苦痛	고통	Suffering, pain.
+貧寒	빈한	Poverty and cold; destitution.
+明日	명일	Tomorrow (more formal/literary than 내일).
+快樂	쾌락	Joy, pleasure.
+成功	성공	Success.
+슬어지는	스러지는	Fades away, collapses; older spelling/form of 스러지다 (seureojida).
+生命	생명	Life.
+決코	결코	Never, by no means.
+말나	마라/말라	Do not; older imperative form.
+네의	너의	Your; older possessive form.
+가삼	가슴	Chest, heart; older spelling.
+意志	의지	Will, volition.
+貫徹할	관철할	To carry through, accomplish.
+方法	방법	Method, way.
+잇나니라	있나니라	There is; older literary declarative form.
+잡저	잡저	Miscellaneous writing; essays, jottings.
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제3호
+발행일	1920년 08월 25일
+기사제목	落望
+기사형태	잡저
+
+落望
+『할 수 업다』는 말은, 弱한 者의 辭典에만 잇는 말이다. (라폴레온)
+사람은 希望으로 산다. 오날의 苦痛과 貧寒도, 明日의 快樂과 成功을 생각하고, 참는 것이다. 그러나, 내게서 希望이 슬어지는 날이면, 곳 나의 生命이 슬어지는 날이다. (에-마손)
+決코 落望하지 말나!! 네의 가삼에 뜨거운 意志만 잇스면, 그 意志를 貫徹할 方法이 잇나니라. (죤손)＜100＞

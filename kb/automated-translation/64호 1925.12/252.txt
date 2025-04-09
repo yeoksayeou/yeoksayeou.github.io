@@ -1,0 +1,91 @@
+Magazine Title:	개벽
+Publication Date:	1925년 12월 01일
+Article Title:	-送金注意- (Attention Regarding Remittances)
+Author:	
+Article Type:	사고·편집후기 (Notice/Editorial Postscript)
+
+-Attention Regarding Remittances-
+
+One, When sending a combined payment for *Kaebyŏk*, *Sin Yŏsŏng*, *Ŏrini*, and other publications at one time, please itemize each publication in the correspondence section.
+
+One, When sending money, please be sure to pay via postal transfer to Kyŏngsŏng Account No. 8106. However, postage stamps or revenue stamps are absolutely refused.
+
+One, Payments must be made entirely in advance; if the advance payment runs out, sending of the publication will be stopped.
+
+One, Requesting magazines via cash-on-delivery or collection mail is absolutely refused.
+
+One, For the address, be sure to write down the County (郡), Township (面), Village (里), and Street Number (番地) in detail.
+
+One, When changing your address, be sure to clearly state the old address and the new address.
+
+One, Especially limited to readers in the China region, if you do not clearly state your address (down to the small place name, 小地名지) and name when sending money, the publication cannot be sent.<55>
+
+**Summary**
+
+This article is a notice from the publisher of *Kaebyŏk* magazine detailing the required procedures for sending subscription payments in 1925. It specifies acceptable payment methods (postal transfer only), emphasizes prepayment, requires detailed address information, and outlines how to handle combined payments and address changes. It explicitly forbids payment with stamps or through cash-on-delivery/collection mail and includes a special note for subscribers residing in China. From a historical perspective, this notice reveals the practicalities of publishing and distribution networks in colonial Korea, including the reliance on the postal transfer system centered in Kyŏngsŏng (Seoul). The rejection of certain payment methods might hint at logistical challenges or attempts to prevent fraud. The mention of readers in China underscores the magazine's circulation beyond the Korean peninsula.
+
+**Named Entities**
+
+新女性	신여성	Sin Yŏsŏng
+어린이	어린이	Ŏrini
+京城	경성	Kyŏngsŏng
+中國地方	중국지방	China region
+
+**Glossary**
+
+送金	송금	Remittance; sending money
+其他	기타	Other; the rest
+出版物	출판물	Publication
+代金	대금	Payment; price; cost
+總合	총합	Sum total; aggregate
+一時	일시	One time; simultaneously
+細別	세별	Itemize; classify in detail
+通信欄	통신란	Correspondence column/section
+記入	기입	Fill in; write down
+振替	진체	Postal transfer (Giro)
+拂込	불입	Payment; paying in
+但	단	However; but
+郵票	우표	Postage stamp
+印紙	인지	Revenue stamp
+一切	일체	Absolutely; entirely; all
+謝絶	사절	Refuse; decline
+先金	선금	Advance payment
+盡할 時	진할 시	When it runs out (older grammatical form)
+送本	송본	Sending of the publication/book
+停止	정지	Stop; cease; suspend
+代金引換	대금인환	Cash on delivery (COD)
+集金郵便	집금우편	Collection mail (mail where payment is collected upon delivery)
+雜誌	잡지	Magazine
+請求	청구	Request; claim
+郡	군	County
+面	면	Township
+里	리	Village
+番地	번지	Street number; house number
+詳記	상기	Write in detail; record fully
+變更할 時	변경할 시	When changing (older grammatical form)
+舊所	구소	Old place; old address
+新住所	신주소	New address
+明記	명기	Clearly state; specify
+特히	특히	Especially; particularly
+讀者	독자	Reader
+限하야	한하여	Limited to (older grammatical form: -하야 instead of -하여)
+刊行物	간행물	Publication; periodical
+發送	발송	Send; dispatch
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제64호
+발행일	1925년 12월 01일
+기사제목	-送金注意-
+기사형태	사고·편집후기
+
+-送金注意-
+一, 開闢, 新女性, 어린이 其他 出版物의 代金을 總合하야 一時에 送金할 時는 各種을 細別하야 通信欄에 記入하여 주시요
+一, 送金할 時는 반듯이 振替 京城 八一○六番으로 拂込하여 주시요 但 郵票나 印紙는 一切 謝絶함
+一, 代金은 一切 先金으로 하되 萬一 先金이 盡할 時는 送本을 停止함
+一, 代金引換, 集金郵便으로 雜誌를 請求함은 一切 謝絶함
+一, 住所는 반듯이 郡, 面, 里, 番地를 詳記하시요
+一, 住所를 變更할 時는 반듯이 舊所와 新住所를 明記하시요
+一, 特히 中國地方讀者에 限하야 送金할 時는 住所(小地名지)와 氏名을 明記치 아니하면 刊行物을 發送치 못함＜55＞

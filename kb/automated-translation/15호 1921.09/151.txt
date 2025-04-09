@@ -1,0 +1,47 @@
+Magazine Title: 개벽 제15호
+Publication Date: 1921년 09월 01일
+Article Title: 正誤 (Errata/Corrections)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Corrections
+
+In the previous issue's publication of "Novel: The Green Frog in the Specimen Room":
+
+The following are printing errors: On page 121, line 2, '列車에서는' (in the train) should be '列에서' (from the row/line). On page 128, line 9, '숨에 弱은' (weak in breath) should be '술의 弱' (weakness of alcohol).
+
+The following are errors from the original manuscript: On page 121, line 14, 'C君' should be 'Y君'. Similarly, on line 18, 'C君' should be 'Y君'. On page 138, line 9, 'X君' should be 'A君'.<137>
+
+**Summary**
+
+This article is an errata notice for the previous issue (No. 14) of the magazine *Kaebyŏk*. It lists corrections for the serialized novel "The Green Frog in the Specimen Room" (標本室의 靑개고리). The corrections include typographical errors (changing specific phrases) and errors originating from the manuscript itself (changing character designations like C君 to Y君 and X君 to A君). For historians, this brief notice offers a glimpse into the editorial practices of a major Korean cultural magazine during the colonial period. It highlights the types of errors common in printing and potentially reflects authorial revisions or sensitivities regarding character representation, indicated by the changes in pseudonyms (君).
+
+**Named Entities**
+
+Y君	Y군	Y Kun
+A君	A군	A Kun
+
+**Glossary**
+
+正誤	정오	Correction; Errata
+前號	전호	Previous issue (of a publication)
+所載	소재	Published; Carried (in a publication)
+小說	소설	Novel; Fiction
+標本室	표본실	Specimen room
+靑개고리	청개구리	Green frog (Note: 개고리 is an older/dialectal form of 개구리)
+印刷	인쇄	Printing
+誤	오	Error; Mistake
+原稿	원고	Manuscript; Original draft
+同	동	Same; Ditto (used here to indicate the same page number)
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제15호
+발행일	1921년 09월 01일
+기사제목	正誤
+기사형태	사고·편집후기
+
+正誤
+前號 所載 「小說 標本室의 靑개고리」 中 『一二一頁 二行 列車에서는 列에서, 一二八頁 九行 숨에 弱은 술의 弱』은 印刷의 誤. 『一二一頁 十四行 C君은 Y君, 同 十八行 C君은 Y君, 三八頁 九行 X君은 A君』은 原稿의 誤＜137＞

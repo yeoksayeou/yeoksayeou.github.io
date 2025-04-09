@@ -1,0 +1,55 @@
+Magazine Title: 개벽 신간 제4호
+Publication Date: 1935년 03월 01일
+Article Title: 시카고 揷話 (Chicago Anecdote)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+Recently, according to U.S. government statistical reports, they are quite boastful that the number of criminal cases in the city of Chicago has decreased. Specifically, comparing the period from January to September 1933 with the same period in 1934, they boast that car thefts decreased by over 11,000 units, robbery incidents by 1,600 cases, and murders by 25 cases, which is truly rather baffling.
+
+The population of the same city is 3.4 million people, and it is said that murders during the same period in 1933 were 285 cases, and in 1934, the so-called decrease was "25 cases," resulting in 260 cases. Comparing this to London, which has a population of 8 million, and its 21 cases last year, one cannot help but be astonished at the immense difference.
+
+**Summary**
+
+This short article from 1935 discusses recent crime statistics from Chicago, USA. While the US government boasts about a reduction in crime rates, including car theft, robbery, and murder, between 1933 and 1934, the author finds the high number of murders (260 in nine months for a city of 3.4 million) baffling, especially when compared to London's significantly lower rate (21 murders in a year for a city of 8 million). For historians studying the Korean colonial period, this piece offers a glimpse into Korean perceptions of the West, specifically highlighting American societal issues like high crime rates, contrasting it with the situation in London (representing the British Empire). It reflects an awareness of international affairs and a critical perspective on American society, even amidst Korea's own colonial struggles.
+
+**Named Entities**
+
+米國政府	미국정부	Miguk Chŏngbu (US Government)
+시카고 市	시카고 시	Sik'ago Si (Chicago City)
+倫敦	윤돈	Yundon (London)
+
+**Glossary**
+
+揷話	삽화	Anecdote, episode
+最近	최근	Recently
+統計書	통계서	Statistics book/report
+犯罪件數	범죄 건수	Number of criminal cases
+減少햇다고	감소했다고	Said it decreased (Older spelling: 햇다 instead of 했다)
+웃둑들한다	으쓱들한다	(They) are proud, boast (Older form/spelling)
+卽	즉	Namely, that is
+지	까지	Until (Older spelling: ᅘ -> ㄲ)
+比較	비교	Comparison
+自動車	자동차	Automobile
+盜難	도난	Theft
+强盜事件	강도 사건	Robbery incident
+殺人	살인	Murder
+주럿다고	줄었다고	Said it decreased (Older spelling: 주럿다 instead of 줄었다)
+자랑하고 잇스니	자랑하고 있으니	Since (they) are boasting (Older spelling: 잇스니 instead of 있으니)
+기가 맥힌다	기가 막힌다	To be baffling, dumbfounding, stifling (Older spelling: 맥힌다 instead of 막힌다)
+人口	인구	Population
+所謂	소위	So-called
+昨年	작년	Last year
+差	차	Difference
+놀낼수 업슬	놀랄 수 없을	Cannot help but be surprised (Older spelling: 놀낼 instead of 놀랄; 업슬 instead of 없을)
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	시카고 揷話
+기사형태	잡저
+
+시카고 揷話
+最近 米國政府와 統計書를 보면 시카고 市의 犯罪件數가 減少햇다고 아주 웃둑들한다. 卽 一九三三年의 一月부터 九月지의 것과 一九三四年의 同期의 것을 比較해보면 自動車 盜難이 一萬一千臺  强盜事件이 一千六百件 殺人이 二十■件이나 주럿다고 자랑하고 잇스니 아닌게아니라 좀 기가 맥힌다. 同市의 人口는 三百四十萬人인데 一九三三年의 同期의 殺人이 二八五件 三四年은 所謂 「二五件」이 주러서 二六○件이엇다고 한다. 이것을 八百萬의 人口를 가진 倫敦의 昨年의 二十一件에 比較해보면 그 差의 너무나 큼에 아니 놀낼수 업슬 것이다.

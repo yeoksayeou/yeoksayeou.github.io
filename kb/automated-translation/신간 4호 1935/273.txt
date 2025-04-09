@@ -1,0 +1,269 @@
+Magazine Title: 개벽
+Publication Date: 1935년 03월 01일
+Article Title: 統計室 (Statistics Room)
+Author: Not specified
+Article Type: 소식 (News Briefs)
+
+Statistics Room
+
+Smoking Statistics
+Total manufactured tobacco sales by the Monopoly Bureau in the first ten days of January amounted to 1,507,983 *wŏn*, an increase of 140,202 *wŏn* compared to the same period last year. Broken down by regional bureau, Kyŏngsŏng recorded 39,0X1,175 *wŏn* [obscured digit], Chŏnju 252,663 *wŏn*, Taegu 184,252 *wŏn*, and P'yŏngyang 221,893 *wŏn*.
+
+Gold Front Report
+The number of applications submitted to the Mining Division, Bureau of Industry, Government-General during last year reached 9,454 cases, a sharp increase of 4,244 cases compared to the 5,210 cases during the previous year (Shōwa 8 [1933]).
+Additionally, the number of procedures related to mining, such as ledger inspections, was a sharp increase of 144 cases. [Translator's Note: There seems to be a repetition or slight contradiction here regarding the 144 increase figure, the main increase is stated as 4,244].
+Furthermore, the number of related procedures, including inspections of mining ledgers and maps, reached nearly 40,000 cases as follows:
+Application Cases: 9,454 cases
+Ledger Inspections: 13,655
+Area Increases & Area Increase/Decrease Adjustments: 502
+Area Decreases & Other: 845
+Name Changes: 1,344
+Withdrawals: 337
+[Obscured Section]: [Obscured number]
+Permit [Obscured] Area Increase/Decrease: 304
+Mergers & Div[isions]: 11
+[Obscured] Land Surveys: 31
+Type Changes: 36
+Land Use & Other: 7
+
+Third Relief Project Funds
+The total amount for the third poverty relief project reached the large sum of 8 million *wŏn*. Looking at the details, 2.1 million *wŏn* was allocated for direct(-control) river improvement projects, 912,000 *wŏn* for local rivers, 589,000 *wŏn* for water supply works, and 694,000 *wŏn* for urban construction projects. The detailed breakdown is as follows:
+Direct(-Control) Rivers
+Kobuch'ŏn Lower Reaches: 50,000
+Yŏngsan'gang: 100,000
+Tamyang: 20,000
+Kŭmhogang: 530,000
+Andong (Naktonggang Upper Reaches): 200,000
+Taedonggang: 100,000
+[Obscured]dae River ([Obscured Location]): 590,000
+Local Rivers: 912,000
+Fishing Port Construction
+Sŏhojin: 180,000
+P'ohang: 208,000
+Water Supply Works
+Pusan Jan'gyo [Pier]: 50,000
+Sŏch'ŏn: 10,000
+Unggi: 300,000
+Urban Roads
+Kwangju: 50,000
+Taegu: 100,000
+T'ongyŏng: 123,000
+P'yŏngyang: 110,000
+Chinnamp'o: 50,000
+Sinŭiju: 110,000
+Hamhŭng: 100,000
+Najin: 50,000
+
+Student Conduct Final Tally
+Deviant behaviors among middle school and elementary school students during December totaled 1,212 cases, showing a trend of gradual increase<78>, a noteworthy phenomenon at a time when the issue of student conduct has become a topic of discussion.
+The most frequent offense was entering motion picture theaters, with 550 cases (elementary school 98, middle school 452). Next was improper attire with 398 cases, all involving male middle school students.
+There were 43 cases of tardiness, also mostly middle school students (38 cases), including some female middle school students.
+Next were 22 cases of entering cafes, restaurants, and teahouses, which included 6 female students. Eating street food accounted for 30 cases, skipping meals for 12 cases, and incidents of insulting women or beating younger students. Broken down by elementary/middle school and gender:
+Elementary School: 261 cases
+Male 2[X]9 [obscured digit], Female 33
+Middle School: 951 cases
+Male 939, Female 12
+Total: 1,212 cases [Translator's Note: 261 + 951 = 1212, but the male elementary breakdown 2X9 + 33 doesn't perfectly equal 261 unless the digit is 2, i.e. 229+33=262. There might be a typo in the original.]
+
+Provincial Illiteracy Rates
+[Translator's Note: The section title exists, but the data for this section is missing in the provided text.]
+
+Recent Film Censorship Status
+During last year, the total number of motion picture films censored in Chosŏn reached 2X,734 cases [obscured digit], 13X,877 volumes [obscured digit], and 3,087,069 meters, an increase of 1,811,840 meters compared to the previous year. While it is a natural trend for the number of film censorship cases to increase annually, such a rapid increase is said to be due to the implementation of film controls since August of last year.
+Censorship Cases by Production Company
+Cases Volumes Meters
+[Shō]chiku (?) 263 2,119 515,398
+[Nik]katsu (?) 296 3,361 552,0X9 [obscured digit]
+Shinkō 132 1,XXX [obscured digits] 266,777
+Dai[?] 12X [obscured digit] X17 [obscured digit] 174,944
+Other 539 3,356 464,860
+Total 1,358 8,925 1,971,024
+[Translator's Note: The total cases (1,358) seem low compared to the overall 2X,734 cases mentioned earlier. This table might only represent feature films or a specific category/period.]
+
+Entertainment Film Genres Censored Last Year
+Cases Volumes Meters
+Romance 241 1,968 457,930
+Human Interest/Melodrama (?) 386 3,037 X00,4X5 [obscured digits]
+Action 606 4,XXX [obscured digits] 963,073
+[Comedy?] X3 [obscured digit] X93 [obscured digit] 2X,XX4 [obscured digits]
+Social XXX [obscured digits] X26 [obscured digit] X,077 [obscured digits]
+Family 4X [obscured digit] X96 [obscured digit] 66,515
+Horror/Weird (?) 8X [obscured digit] 51 11,4XX [obscured digits]
+Biographical 88 4X [obscured digit] 8,83X [obscured digit]
+Children's Story 4 24 5,86X [obscured digit]
+Other 24 18 45,332
+Total 1,X36 [obscured digit] 1X,904 [obscured digits] 2,288,140<79>
+[Translator's Note: The totals here also seem inconsistent or incomplete compared to the overall figures mentioned earlier (3,087,069 meters). This breakdown likely refers to a specific subset, perhaps entertainment films excluding newsreels or documentaries, or there are errors/omissions in the data transcription.]
+
+**Summary**
+
+This article from the March 1935 issue of *Kaebyŏk* presents various statistics related to colonial Korea. It covers January tobacco sales figures by region, a significant increase in mining applications in 1934 compared to 1933, the allocation of 8 million *wŏn* for the third poverty relief project detailing specific public works, a breakdown of student misconduct cases in December (with movie-going and improper attire being most common), and extensive data on film censorship in 1934, including figures by production company and genre, noting a sharp rise attributed to new film control measures. The section on provincial illiteracy rates is mentioned but lacks data. From a historical perspective, the article offers valuable quantitative insights into the colonial economy (resource extraction via mining, state monopolies like tobacco), social control mechanisms (student discipline monitoring, extensive film censorship under new regulations), and state-led infrastructure development presented as "relief." The detailed breakdown of relief funds and the specific categories of student offenses and censored film genres provide concrete data points reflecting the administration's priorities and societal trends during this period.
+
+**Named Entities**
+
+전매국	전매국	Monopoly Bureau
+경성	경성	Kyŏngsŏng
+전주	전주	Chŏnju
+대구	대구	Taegu
+평양	평양	P'yŏngyang
+총독부 식산국 광무과	총독부 식산국 광무과	Government-General Bureau of Industry, Mining Division
+소화	소화	Shōwa (Japanese era name)
+고부천	고부천	Kobuch'ŏn (River)
+영산강	영산강	Yŏngsan'gang (River)
+담양	담양	Tamyang
+금호강	금호강	Kŭmhogang (River)
+안동	안동	Andong
+낙동강	낙동강	Naktonggang (River)
+대동강	대동강	Taedonggang (River)
+서호진	서호진	Sŏhojin
+포항	포항	P'ohang
+부산잔교	부산잔교	Pusan Jan'gyo (Pusan Pier)
+서천	서천	Sŏch'ŏn
+웅기	웅기	Unggi
+광주	광주	Kwangju
+통영	통영	T'ongyŏng
+진남포	진남포	Chinnamp'o
+신의주	신의주	Sinŭiju
+함흥	함흥	Hamhŭng
+나진	나진	Najin
+조선	조선	Chosŏn (Korea)
+■竹	■죽	[Shō]chiku (Likely Japanese film company, name partially obscured)
+■活	■활	[Nik]katsu (Likely Japanese film company, name partially obscured)
+新興	신흥	Shinkō (Likely Shinkō Kinema, Japanese film company)
+大■	대■	Dai[?] (Likely Japanese film company, name partially obscured)
+
+**Glossary**
+
+統計室	통계실	Statistics Room
+전매국	전매국	Monopoly Bureau
+매도고	매도고	Sales amount/volume
+증가	증가	Increase
+식산국	식산국	Bureau of Industry (part of Government-General)
+광무과	광무과	Mining Division
+출원	출원	Application (submission)
+격증	격증	Sharp increase
+대장	대장	Ledger; register
+열람	열람	Inspection; viewing
+구궁사업	구궁사업	Poverty relief project (older term for 구휼사업)
+개수공사	개수공사	Repair/improvement construction work
+직할하천	직할하천	Directly controlled river (managed directly by central authority)
+지방하천	지방하천	Local river
+어항수축	어항수축	Fishing port construction/repair
+상수도	상수도	Water supply system
+풍기	풍기	Public morals; discipline; conduct
+탈선적	탈선적	Deviant; delinquent (lit. derailed)
+잇스며	있으며	Being; while having (Older spelling of 있으며)
+만흔	많은	Many; numerous (Older spelling of 많은)
+불양	불량	Badness; delinquency; inferiority (here: improper attire)
+지각	지각	Tardiness; being late
+잇고	있고	Being; and (Older spelling of 있고)
+문맹수	문맹수	Number of illiterate people
+검열	검열	Censorship; inspection
+필름	필름	Film (loanword)
+총계	총계	Grand total
+권	권	Volume; reel (counter for films/books)
+미돌	미터	Meter (unit of length, older transliteration/spelling)
+재작년도	재작년도	The year before last
+축년	축년	Year by year; annually
+추세	추세	Trend; tendency
+실시	실시	Implementation; enforcement
+제작회사	제작회사	Production company
+연애	연애	Romance; love
+인정	인정	Human interest; human feelings (likely genre: melodrama)
+활극	활극	Action drama; swashbuckler film
+가정	가정	Family; home (likely genre: family drama)
+괴기	괴기	Bizarre; grotesque; weird (likely genre: horror/fantasy)
+전기	전기	Biography
+동화	동화	Children's story; fairy tale
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제4호
+발행일	1935년 03월 01일
+기사제목	統計室
+기사형태	소식
+
+統計室
+吸煙統計
+전매국 一월 상순의 제조연초 매도고는 합게 一백五十만 七천九백 八十三원으로 전년 동기에 비해서 十四만 二백 二원의 증가를 보이고 잇는데 이것을 각 지국별로 보면 경성 三천九만 ■천一백七十五원 전주(全州)가 二十五만 二천六백 六十三원 대구(大邱)가 十八만 四천二백 五十二원 평양(平壤) 二十二만 一천八백 九十三원의 성적이다
+黃金戰線레포
+작년 중에 총독부 식산국 광무과에 출원 건수는 九천四백五十四건에 달하야 전년(소화 八년) 중 五천二백十건에 비하야 四천二백四十四건의 격증이엇다.
+그리고 대장 열람 등 광산에 관한 모든 수속 건수는 백四十四건의 격증이엇다
+그리고 광산의 대장과 도면열람 등 그의 관게수속 건수는 다음과 같이 근 四만건에 달하엿다.
+出願件數  九,四五四件
+臺帳閱覽  一三,六五五
+增區及增減區  五○二
+減區及其他  八四五
+名義變更  一,三四四
+脫退  三三七
+■■■■■■  ■■
+許可■■增減區  三○四
+合倂及分■  一一
+■地調査  三一
+變種變更  三六
+土地使用其他  七
+第三次 救窮事業費
+제三차 궁민구제사업의 총액은 八백만원의 다액에 달하엿는데 이제 그 내용을 본다하면 직할하천(直割河川) 개수공사비로 二백十만원이오 지방(地方河川)에 九十一만二천원 상수도 공사에 五十八만九천원 시가지공사 六十九만四천원 등으로 그 자세한 부분은 다음과 같다.
+直割河川
+古阜川 下流 五○,○○○
+榮山江 一○○,○○○
+潭陽 二○,○○○
+琴湖江 五三○,○○○
+安東(洛東江 上流) 二○○,○○○
+大同江 一○○,○○○
+■大江(■■) 五九○,○○○
+地方河川 九一二,○○○
+漁港修築
+西湖津 一八○,○○○
+浦項 二○八,○○○
+上水道工事
+釜山棧橋 五○,○○○
+瑞川 一○,○○○
+雄基 三○○,○○○
+市街道路
+光州 五○,○○○
+大邱 一○○,○○○
+統營 一二三,○○○
+平壤 一一○,○○○
+鎭南浦 五○,○○○
+新義州 一一○,○○○
+咸興 一○○,○○○
+羅津 五○,○○○
+學生風紀總決算
+十二월 중 중학생과 초등학생들의 탈선적 행동은 다음과 같이 총건수 一천二백十二건으로 점차 증가의 경향을 보＜78＞이고 잇스며 학생 풍기문제가 화제에 오른 이때에 주목되는 현상이다.
+제一 만흔 것이 활동사진관 출입으로 五백五十건인데 초등학교 九十八, 중등학교 四백五十二건인데 다음으로는 복장불양에 三백九十八건인바 이것은 전부 중학교 남학생에 관한 것이다.
+지각으로는 四十三건이오 역시 중학생이 다수로 三十八건이오 그중에는 여자 중등학생도 섞이어 잇다.
+다음으로는 카페 식당, 객차점 출입이 二十二건인데 여기에는 여학생 六건도 섞이어 잇고 노상음식이 三十건 결식이 十二건이며, 부녀자를 욕하는 일, 하급생 구타한 일 등인데 이것을 초등학교 중등학교 각 남녀별로 보면
+初等學校 二六一件
+男 二■九, 女 三三
+中等學校 九五一件
+男 九三九, 女 一二
+合計 二백十二건
+道別文盲數
+
+最近映畵檢閱狀況
+昨年 中에 朝鮮에서 檢閱된 活動寫眞 필름은 總計 二■七三四件 一三■八七七卷, 三○八七○六九 米突에 達하야 再昨年度에 比較하면 一八一,一八四○ 米突의 增加라 한다. 映畵의 檢閱件數가 逐年 增加함은 當然한 趨勢이지마는 이같이 急激히 增加한 것은 昨年 八月 以來로 映畵統制가 實施된 까닭이라 하겟다.
+製作會社別 檢閱件數
+件數 卷數 米數
+■竹 二六三 二,一一九 五一五,三九八
+■活 二九六 三,三六一 五五二,○■九
+新興 一三二 一,■■■ 二六六,七七七
+大■ 一二■ ■一七 一七四,九四四
+其他 五三九 三,三五六 四六四,八六○
+計 一,三五八 八,九二五 一,九七一,○二四
+昨年中娛樂劇中劇種別
+件數 卷數 米數
+戀愛 二四一 一,九六八 四五七,九三○
+人■ 三八六 三,○三七 ■○○,四■五
+活劇 六○六 四,■■八 九六三,○七三
+■■ ■三 ■九三 二■,■■四
+社會 ■■■ ■二六 ■,○七七
+家庭 四■ ■九六 六六,五一五
+怪奇 八■ 五一 一一,四■■
+傳記 八八 四■ 八,八三■
+童話 四 二四 五,八六■
+其他 二四 一八 四五,三三二
+計 一,■三六 一,九○四 二,二八八,一四○＜79＞
+＜78-79＞

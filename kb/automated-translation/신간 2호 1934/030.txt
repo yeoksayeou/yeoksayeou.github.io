@@ -1,0 +1,68 @@
+Magazine Title: 개벽
+Publication Date: 1934년 12월 01일
+Article Title: 特別社告 (Special Company Announcement)
+Author: 開闢社編輯局 (Kaebyŏksa Editorial Department)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+Special Company Announcement
+
+Our company (本社), which publishes many publications (出版物) each month, has intended for some time to unify the orthography according to the "Hangŭl Unification Proposal" (한글 統一案) regarding characters (文字), but as this was not promptly achieved, we felt regret towards our esteemed readers (讀者 諸氏). Now, since publishing the *Kaebyŏk* (開闢) magazine, preparations have been made to a certain extent, and we have already begun implementation starting with this month's issue (今月號). Henceforth, we will make special efforts regarding the spelling system (綴字法), and we especially hope that esteemed contributors and submitters (寄稿 及 投稿하시는 諸位) will particularly understand this point and write according to the Hangŭl unification.
+
+Kaebyŏksa Editorial Department<13>
+
+**Summary**
+
+This brief announcement from the Kaebyŏksa Editorial Department informs readers that, starting with the December 1934 issue of *Kaebyŏk* magazine, the publisher will adopt the "Hangŭl Unification Proposal" (likely the 1933 standard) for its publications. They apologize for the delay in implementation and request contributors to also adhere to this new standard. From a historical perspective, this notice is significant as it reflects the active efforts towards standardizing the Korean language orthography during the colonial period, amidst Japanese assimilation policies. It shows a private publishing house participating in the nationalist linguistic movement spearheaded by organizations like the Korean Language Society.
+
+**Named Entities**
+
+本社	본사	Ponsa (Our Company - referring to Kaebyŏksa)
+開闢社	개벽사	Kaebyŏksa
+
+**Glossary**
+
+特別社告	특별사고	Special company announcement
+出版物	출판물	Publications
+本社	본사	Our company (referring to the publisher)
+文字	문자	Characters; script
+관하야	관하여	Regarding; concerning (older form of 관하여)
+한글	한글	Hangul (the Korean script)
+統一案	통일안	Unification proposal/plan
+의하야	의하여	According to; by (older form of 의하여)
+통일코자하였으나	통일하고자 하였으나	Intended to unify, but... (older form/spelling)
+亦	역	Also; too (Hanja character used for 역)
+속히	속히	Promptly; quickly
+되지 않어서	되지 않아서	Was not achieved, so... (older spelling of 않아서)
+讀者	독자	Reader
+諸氏	제씨	Esteemed sirs; Messrs. (formal address)
+미안하였드니	미안하였더니	Felt regret/sorry (older conjugation/spelling)
+開闢	개벽	Kaebyŏk (magazine name, literally 'creation' or 'dawn of a new era')
+誌	지	Magazine (suffix)
+이후로	이후로	Since; after
+今月號	금월호	This month's issue
+붙어	부터	From; starting from (older spelling of 부터)
+임이	이미	Already (older spelling of 이미)
+실행	실행	Implementation; execution
+착수하였읍니다	착수하였습니다	Have commenced; have begun (older polite ending -읍니다 instead of -습니다)
+금후로	금후로	Henceforth; from now on
+더욱	더욱	More; further
+綴字法	철자법	Spelling system; orthography
+노력하겠으며	노력하겠으며	Will endeavor/strive, and... (older connective form)
+寄稿	기고	Contribution (of a manuscript)
+投稿	투고	Submission (of a manuscript)
+諸位	제위	Esteemed individuals; everyone (formal address)
+諒解	양해	Understanding; comprehension
+집필하여	집필하여	Write; author
+
+
+---------------------------
+
+
+잡지명	개벽 신간 제2호
+발행일	1934년 12월 01일
+기사제목	特別社告
+기사형태	사고·편집후기
+
+特別社告
+매월 많은 出版物을 간행하는 本社는 그동안 文字에 관하야 「한글」 統一案에 의하야 통일코자하였으나 이 亦 속히 되지 않어서 讀者 諸氏에게 미안하였드니 이제 「–‹開闢」誌를 간행한 이후로 어느 정도까지 준비가 되어서 今月號붙어 임이 실행에 착수하였읍니다. 금후로는 더욱 綴字法에 특별 노력하겠으며 특히 바라는 바는 寄稿 及 投稿하시는 諸位께서도 특히 이 점을 諒解하시고 「한글」 통일에 의하야 집필하여 주심을 바랍니다.
+開闢社編輯局＜13＞

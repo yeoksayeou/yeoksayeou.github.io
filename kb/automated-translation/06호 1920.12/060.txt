@@ -1,0 +1,66 @@
+Magazine Title: 개벽 第六號
+Publication Date: 1920년 12월 01일
+Article Title: 海州의 人多, 言多, 石多 (Haeju's Many People, Many Words, Many Stones)
+Author: Not Specified
+Article Type: 잡저 (Miscellaneous Writings/Essay)
+
+Haeju in Hwanghae-do, as the capital of the same province, reaches a population of over 3,000 households, and its citizens are particularly frugal and intelligent. The commerce managed by their hands rivals that of the business world of Kaesŏng in Kyŏnggi Province, and its reputation has been renowned since ancient times. The inksticks and purple dye produced there, though small in quantity, were precious items among Chosŏn's products. However, there is a motto for that place, which says: "Many People, Many Words, Many Stones" (人多, 言多, 石多). That is, "Many People" (人多) refers to the fact that many good people have emerged since ancient times; although a full list of examples cannot be given, starting with the brothers Soryŏn (少連) and Taeryŏn (大連), who were featured early on in China's Chu Hsi's (朱熹) *Xiaoxue* (小學 - Elementary Learning) for their outstanding filial piety, people like Righteous Man An (安義士) and Dr. Yi (李博士) are all people from Haeju. "Many Words" (言多) means that there is much talk of commentary and critique; it means that whenever any issue arises there, it immediately comes to the mouths of the general populace and becomes a type of public opinion. "Many Stones" (石多) means that there are many quarry stones (磚石) there; these are peerless materials for construction, and the famous buildings in that area mostly used these stones. Furthermore, the scenery of water and stones there is truly excellent, and the entire area of Kwangsŏkch'ŏn (廣石川) is indeed not lacking in being one of Chosŏn's beautiful landscapes. <44>
+
+**Summary**
+
+This article describes Haeju, the capital of Hwanghae-do, in 1920. It highlights the city's population, the industrious and intelligent nature of its people, comparing their commercial acumen to that of Kaesŏng merchants. It mentions local products like ink and dye. The core of the article explains Haeju's motto: "Many People, Many Words, Many Stones." "Many People" refers to notable figures from Haeju, including ancient exemplars of filial piety (Soryŏn, Taeryŏn) and contemporary figures like "Righteous Man An" (An Chunggŭn) and "Dr. Yi" (Syngman Rhee). "Many Words" signifies a strong culture of public discourse and opinion. "Many Stones" refers to the abundance of construction stones and the scenic beauty of areas like Kwangsŏkch'ŏn. From a historical perspective, the article is interesting for its portrayal of local pride and identity in early colonial Korea. The explicit, positive mention of nationalist figures like An Chunggŭn (An ŭisa) and Syngman Rhee (Yi Paksa) in a publicly circulated magazine like *Kaebyŏk* in 1920 is particularly noteworthy, reflecting a period before censorship became extremely severe, and showcasing contemporary recognition of these individuals. The comparison with Kaesŏng and the reference to Chinese classics also situate Haeju within broader Korean and East Asian contexts.
+
+**Named Entities**
+
+海州	해주	Haeju
+黃海道	황해도	Hwanghae-do
+京畿開城	경기개성	Kyŏnggi Kaesŏng
+朝鮮	조선	Chosŏn
+支那	지나	China
+朱熹	주희	Chu Hsi
+小學	소학	Sohak (Xiaoxue)
+少連	소련	Soryŏn
+大連	대련	Taeryŏn
+安義士	안의사	An ŭisa (Righteous Man An / An Chunggŭn)
+李博士	이박사	Yi Paksa (Dr. Yi / Syngman Rhee)
+廣石川	광석천	Kwangsŏkch'ŏn
+
+**Glossary**
+
+首府	수부	Provincial capital
+質儉聰明	질검총명	Frugal and intelligent
+伯仲	백중	Being evenly matched, rivaling
+喧籍	훤적	Noisy, renowned, famous
+産物	산물	Product, produce
+標語	표어	Motto, slogan
+曰	왈	To say (classical particle)
+從古	종고	Since ancient times
+多出	다출	To emerge in large numbers
+出天大孝	출천대효	Outstanding filial piety (lit. heaven-emerging great filial piety)
+夙히	숙히	Early on, long ago
+現한	현한	Appeared, featured (Older form of 나타난)
+論評	논평	Commentary, critique, review
+一般	일반	General public, populace
+口에 上하야	구에 상하여	To come up in conversation, be talked about (lit. rise to the mouth)
+與論	여론	Public opinion
+磚石	전석	Quarry stone, ashlar, building stone
+無雙	무쌍	Peerless, unmatched
+好資	호자	Good material/resource
+大槪	대개	Mostly, generally
+用하얏스며	용하였으며	Used (Older spelling/form of 사용하였으며)
+水石	수석	Scenery of water and stones
+大佳	대가	Very beautiful, excellent
+麗景	여경	Beautiful scenery
+不失한다	불실한다	Does not lose, is not lacking in
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제6호
+발행일	1920년 12월 01일
+기사제목	海州의 人多, 言多, 石多
+기사형태	잡저
+
+海州의 人多, 言多, 石多
+黃海道의 海州는 同道의 首府로서 人口 3千餘戶에 達하며 그 市民은 特히 質儉聰明하야 그네의 手로 經營하는 商業은 京畿開城의 商界와 더불어 伯仲하야 從古로 그 稱이 喧籍하며 그 곳의 産하는 墨과 紫染料는 少하나마 朝鮮産物界의 珍品이엇다. 그런데 그 곳의 標語가 잇스니 曰 「人多, 言多, 石多」이다. 卽 「人多」다 함은 조흔 사람이 從古多出을 指함이니 充分한 例를 들 수 업스나 出天大孝로서 夙히 支那 朱熹著小學에 現한 少連大連兄弟를 始하야 安義士, 李博士와 如한 人은 皆 海州人이며 「言多」라 함은 論評의 말이 만타 함이니 그 곳에는 무슨 問題가 생기면 곳 一般의 口에 上하야 一種 與論이 된다 함이며 「石多」라 함은 그 곳에는 磚石이 多한 바 是는 建築用에 無雙好資로서 同地의 著名 建築은 大槪 此石을 用하얏스며 그리고 그 곳은 水石이 大佳하야 廣石川 一帶는 實로 朝鮮麗景의 一됨을 不失한다 합니다.＜44＞

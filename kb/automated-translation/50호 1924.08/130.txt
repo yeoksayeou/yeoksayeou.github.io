@@ -1,0 +1,57 @@
+**Header Section:**
+Magazine Title: 개벽 (開闢)
+Publication Date: 1924년 08월 01일
+Article Title: 謹告 (Kind Notice/Announcement)
+Author: 개벽사 영업국 (Gaebyeoksa Sales Department)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation:**
+Kind Notice
+
+Since the beginning of the Gapja Year [甲子年, 1924], our magazine, Gaebyeok (開闢), has faced monthly confiscations (押收). As soon as they were confiscated, we published temporary issues (臨時號); as soon as temporary issues went out of print (絶版), we reprinted (增刷); and despite repeated reprints, we have been utterly unable to meet (酬應) the requests (請求) that exceeded our expectations (豫想以上). Consequently, although we preemptively printed several thousand additional copies of the July issue, our 4th-anniversary special, it still went out of print about 10 days after publication. Therefore, for requests received after the 15th, we have no choice but to send the upcoming August issue as a substitute (代送). We ask all our readers (독자제위) for your understanding (용허) of our company's situation.
+
+Gaebyeoksa Sales Department <68>
+
+**Summary**
+
+This notice from the Gaebyeoksa Sales Department explains that due to repeated confiscations (押收) by authorities since the start of 1924 (甲子年), followed by unexpectedly high demand that led to rapid sell-outs (絶版) even after reprints (增刷), they were unable to fulfill all orders for the July 4th-anniversary issue. Readers who ordered after July 15th will receive the August issue instead. The article is significant for colonial history as it directly references the censorship and suppression (confiscation) faced by Korean publications under Japanese rule. It simultaneously highlights the resilience of the publisher and the strong public demand for the magazine, suggesting its importance as a likely vehicle for Korean cultural or nationalist discourse despite official pressure.
+
+**Named Entities**
+
+개벽사 영업국	개벽사 영업국	Gaebyeoksa Sales Department
+개벽사	개벽사	Gaebyeoksa
+
+**Glossary**
+
+謹告	근고	Kind Notice/Announcement
+甲子年頭	갑자년두	Beginning of the Gapja year (1924)
+다달이	달달이 / 매달	Every month (Older spelling/form)
+押收	압수	Confiscation
+臨時號	임시호	Temporary/Special Issue
+絶版	절판	Sold out / Out of print
+增刷	증쇄	Additional printing / Reprinting
+豫想以上	예상이상	More than expected
+請求	청구	Request / Order / Demand
+酬應	수응	Respond / Fulfill (a request)
+하엿스나	하였으나	Did, but... (Older spelling)
+되여서	되어서	Became, so... (Older spelling)
+代送	대송	Send as a substitute
+하엿사오니	하였사오니	Have done so, therefore... (Older polite verbal ending)
+독자제위	독자 제위	Esteemed readers (Honorific plural)
+본사	본사	Our company (referring to Gaebyeoksa)
+용허	용서	Forgiveness / Understanding (Older form/usage, now typically 용서)
+바라나이다	바랍니다	Hope / Wish (Older polite ending)
+영업국	영업국	Sales Department
+-e 
+
+---------------------------
+
+
+잡지명	개벽 제50호
+발행일	1924년 08월 01일
+기사제목	謹告
+기사형태	사고·편집후기
+
+謹告
+본지 開闢은 甲子年頭부터 다달이 押收, 압수되는대로 臨時號, 임시호 나는대로 絶版, 절판되는대로 增刷, 증쇄에 증쇄를 하여도 豫想以上 請求에는 일우다 酬應을 못하게 되나이다. 그래서 7월호 4주년기념호는 미리 일약 수천부를 증쇄하엿스나 역시 발간 10여일에 절판되여서 15일 이후 청구는 하는수 업시 來8월호로 代送하기로 하엿사오니 독자제위께서는 본사의 이러한 사정을 용허하여 주시기 바라나이다.
+개벽사 영업국 ＜68＞
