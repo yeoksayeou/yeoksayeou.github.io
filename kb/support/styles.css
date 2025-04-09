@@ -268,13 +268,17 @@ button:hover {
   padding: 2em;
   color: #666;
 }
+
+/* Updated header styles to fix mobile layout */
 .header-links {
-  position: absolute;
-  top: 20px;
-  right: 20px;
+  position: relative; /* Changed from absolute to relative */
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  margin-bottom: 20px;
+  width: 100%;
 }
+
 .language-toggle {
   display: flex;
 }
@@ -418,17 +422,6 @@ button:hover {
   font-size: 0.9em;
 }
 
-@media (max-width: 768px) {
-  .results-header {
-    flex-direction: column;
-  }
-  
-  .results-per-page {
-    margin-top: 10px;
-    text-align: left;
-  }
-}
-
 .result-number {
   font-weight: bold;
   color: #555;
@@ -443,11 +436,13 @@ button:hover {
   display: none; /* Hide by default until search is performed */
 }
 
+/* Main title spacing */
+h1 {
+  margin-top: 15px;
+  clear: both; /* Ensure title is below the header */
+}
 
 /* Mobile-friendly CSS additions for search.html */
-/* Add these to your existing CSS file (support/styles.css) */
-
-/* Basic responsive container */
 @media screen and (max-width: 768px) {
   .search-container, .results-header, .results-footer {
     width: 95%;
@@ -461,12 +456,24 @@ button:hover {
   
   /* Optimize header links */
   .header-links {
-    flex-direction: column;
-    align-items: center;
+    flex-direction: row; /* Changed from column to row */
+    justify-content: space-between;
+    margin-bottom: 15px;
   }
   
   .language-toggle {
-    margin-top: 10px;
+    margin-top: 0; /* Remove the top margin */
+  }
+  
+  .toc-link {
+    margin-right: 5px; /* Reduced margin */
+    padding: 5px 8px; /* Reduced padding */
+    font-size: 0.85em; /* Smaller font size */
+  }
+  
+  .language-toggle button {
+    padding: 5px 8px; /* Reduced padding */
+    font-size: 0.85em; /* Smaller font size */
   }
   
   /* Make the search box and button full width on mobile */
@@ -544,6 +551,14 @@ button:hover {
 
 /* Extra small devices */
 @media screen and (max-width: 480px) {
+  .header-links {
+    flex-wrap: wrap; /* Allow wrapping if needed */
+  }
+  
+  .toc-link {
+    margin-bottom: 5px; /* Add space if it wraps */
+  }
+  
   .language-toggle button {
     padding: 6px 10px;
     font-size: 0.9rem;

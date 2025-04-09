@@ -268,13 +268,17 @@ button:hover {
   padding: 2em;
   color: #666;
 }
+
+/* Updated header styles to fix mobile layout */
 .header-links {
-  position: absolute;
-  top: 20px;
-  right: 20px;
+  position: relative; /* Changed from absolute to relative */
   display: flex;
+  justify-content: space-between;
   align-items: center;
+  margin-bottom: 20px;
+  width: 100%;
 }
+
 .language-toggle {
   display: flex;
 }
@@ -418,17 +422,6 @@ button:hover {
   font-size: 0.9em;
 }
 
-@media (max-width: 768px) {
-  .results-header {
-    flex-direction: column;
-  }
-  
-  .results-per-page {
-    margin-top: 10px;
-    text-align: left;
-  }
-}
-
 .result-number {
   font-weight: bold;
   color: #555;
@@ -441,4 +434,183 @@ button:hover {
 .results-header .results-per-page,
 .results-footer {
   display: none; /* Hide by default until search is performed */
+}
+
+/* Main title spacing */
+h1 {
+  margin-top: 15px;
+  clear: both; /* Ensure title is below the header */
+}
+
+/* Mobile-friendly CSS additions for search.html */
+@media screen and (max-width: 768px) {
+  .search-container, .results-header, .results-footer {
+    width: 95%;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  /* Optimize header links */
+  .header-links {
+    flex-direction: row; /* Changed from column to row */
+    justify-content: space-between;
+    margin-bottom: 15px;
+  }
+  
+  .language-toggle {
+    margin-top: 0; /* Remove the top margin */
+  }
+  
+  .toc-link {
+    margin-right: 5px; /* Reduced margin */
+    padding: 5px 8px; /* Reduced padding */
+    font-size: 0.85em; /* Smaller font size */
+  }
+  
+  .language-toggle button {
+    padding: 5px 8px; /* Reduced padding */
+    font-size: 0.85em; /* Smaller font size */
+  }
+  
+  /* Make the search box and button full width on mobile */
+  #searchBox {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  #searchButton, #advancedSearchButton {
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  /* Adjust filter layout for mobile */
+  .filter-row {
+    flex-direction: column;
+  }
+  
+  .filter-field {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  
+  /* Year range inputs on mobile */
+  .year-range {
+    flex-wrap: wrap;
+  }
+  
+  #startYearFilter, #endYearFilter {
+    width: 45%;
+  }
+  
+  /* Multi-term search adjustments */
+  .term-input {
+    width: 70%;
+  }
+  
+  .operator-select {
+    width: 28%;
+  }
+  
+  /* Results display adjustments */
+  .results-header, .results-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .results-per-page {
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  /* Results styling */
+  .result-item {
+    padding: 10px;
+  }
+  
+  .highlight {
+    font-size: 0.9em;
+  }
+  
+  /* Pagination adjustments */
+  .pagination {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .pagination button {
+    margin: 2px;
+    min-width: 35px;
+  }
+}
+
+/* Extra small devices */
+@media screen and (max-width: 480px) {
+  .header-links {
+    flex-wrap: wrap; /* Allow wrapping if needed */
+  }
+  
+  .toc-link {
+    margin-bottom: 5px; /* Add space if it wraps */
+  }
+  
+  .language-toggle button {
+    padding: 6px 10px;
+    font-size: 0.9rem;
+  }
+  
+  #searchBox, #titleFilter, #authorFilter {
+    font-size: 16px; /* Prevents iOS zoom on focus */
+    padding: 8px;
+  }
+  
+  .term-input {
+    width: 65%;
+  }
+  
+  .operator-select {
+    width: 33%;
+  }
+  
+  /* Make sure buttons are big enough to tap */
+  button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  /* Improve pagination on tiny screens */
+  .pagination button {
+    font-size: 0.9rem;
+    padding: 6px;
+    margin: 1px;
+  }
+}
+
+/* Improve the toggle switch for better tap targets */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 24px;
+}
+
+/* Increase result spacing for better readability on mobile */
+#results {
+  line-height: 1.5;
+}
+
+/* Disable horizontal scrolling */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Ensure form elements are properly sized */
+input, select, button {
+  box-sizing: border-box;
 }
