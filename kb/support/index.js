@@ -6,9 +6,21 @@ function getUrlParam(param) {
 
 // Function to generate the site footer
 function generateFooter() {
+    // Use site info if available
+    let lastUpdated = "";
+    let sourceLink = "https://db.history.go.kr/modern/";
+    let sourceName = "국사편찬위원회";
+    
+    if (window.SITE_INFO) {
+        lastUpdated = window.SITE_INFO.lastUpdated || "";
+        sourceLink = window.SITE_INFO.sourceLink || sourceLink;
+        sourceName = window.SITE_INFO.sourceName || sourceName;
+    }
+    
     return `
         <footer class="site-footer">
-            <p><a href="../index.html">Project Home</a> - <a href="https://github.com/yeoksayeou/yeoksayeou.github.io">Project Repository</a> - <a href="https://db.history.go.kr/">국사편찬위원회</a></p>
+            <p><a href="../index.html">Project Home</a> - <a href="https://github.com/yeoksayeou/yeoksayeou.github.io">Project Repository</a></p>
+            <p>${lastUpdated ? `Last updated: ${lastUpdated}` : ''} ${lastUpdated ? ' | ' : ''}Source: <a href="${sourceLink}" target="_blank">${sourceName}</a></p>
         </footer>
     `;
 }
