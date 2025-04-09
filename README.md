@@ -10,11 +10,13 @@ The [Database of Korean History: Modern Korea](https://db.history.go.kr/modern/)
 
 This website does not fully reproduce the rich functionality of the original website, which often includes links to images of the original files, but this site makes it easy to download a local collection of these files for those who want to explore them quickly on your own computer during research. To do this, download the [repository](https://github.com/yeoksayeou/yeoksayeou.github.io) for this website and open the webpage locally on your own machine. 
 
-Another aspect of this project is the addition of LLM English-translated versions of the articles to make these journals more accessible for students who do not know Korean, who are learning Korean but may still be early on their journey to learning hanja, or who may know Korean but find reading these Sino-Korean and Japanese language texts troublesome enough that it is helpful to have a rough English translation to refer to while scanning over the issues.
+**Notes on the Translations**
+
+Another aspect of this project is an experiment: the addition of LLM English-translated versions of the articles to make these journals more accessible for students who do not know Korean, who are learning Korean but may still be early on their journey to learning hanja, or who may know Korean but find reading these Sino-Korean and Japanese language texts troublesome enough that it is helpful to have a rough English translation to refer to while scanning over the issues. 
+
+*Does their usefulness outweigh problems with the translations? How bad or good are they? What do they struggle with and what do they do well? These are questions I hope that students and researchers will consider as they explore the translations included here.*
 
 For some of the translations here, the LLM was asked to extract a list of named entitites, a glossary of vocabulary, and a short summary. The LLM used was Gemini 2.5 for three of the journals, and Gemini 2.0 for *Pyŏlgŏn'gon*, which produced poorer quality translations.
-
-**Notes on the Translations**
 
 The LLM translation exhibit all the usual problems of large language models. Be on the look out for hallucinations as well as a host of mistakes based on its incorrect translation of words from the Korean colonial context. These translations should not be quoted without first checking their accuracy and correcting them accordingly.
 
