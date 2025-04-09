@@ -442,3 +442,160 @@ button:hover {
 .results-footer {
   display: none; /* Hide by default until search is performed */
 }
+
+
+/* Mobile-friendly CSS additions for search.html */
+/* Add these to your existing CSS file (support/styles.css) */
+
+/* Basic responsive container */
+@media screen and (max-width: 768px) {
+  .search-container, .results-header, .results-footer {
+    width: 95%;
+    margin: 0 auto;
+  }
+  
+  h1 {
+    font-size: 1.5rem;
+    text-align: center;
+  }
+  
+  /* Optimize header links */
+  .header-links {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .language-toggle {
+    margin-top: 10px;
+  }
+  
+  /* Make the search box and button full width on mobile */
+  #searchBox {
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+  }
+  
+  #searchButton, #advancedSearchButton {
+    width: 100%;
+    margin-top: 5px;
+  }
+  
+  /* Adjust filter layout for mobile */
+  .filter-row {
+    flex-direction: column;
+  }
+  
+  .filter-field {
+    width: 100%;
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+  
+  /* Year range inputs on mobile */
+  .year-range {
+    flex-wrap: wrap;
+  }
+  
+  #startYearFilter, #endYearFilter {
+    width: 45%;
+  }
+  
+  /* Multi-term search adjustments */
+  .term-input {
+    width: 70%;
+  }
+  
+  .operator-select {
+    width: 28%;
+  }
+  
+  /* Results display adjustments */
+  .results-header, .results-footer {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .results-per-page {
+    margin-top: 10px;
+    width: 100%;
+  }
+  
+  /* Results styling */
+  .result-item {
+    padding: 10px;
+  }
+  
+  .highlight {
+    font-size: 0.9em;
+  }
+  
+  /* Pagination adjustments */
+  .pagination {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .pagination button {
+    margin: 2px;
+    min-width: 35px;
+  }
+}
+
+/* Extra small devices */
+@media screen and (max-width: 480px) {
+  .language-toggle button {
+    padding: 6px 10px;
+    font-size: 0.9rem;
+  }
+  
+  #searchBox, #titleFilter, #authorFilter {
+    font-size: 16px; /* Prevents iOS zoom on focus */
+    padding: 8px;
+  }
+  
+  .term-input {
+    width: 65%;
+  }
+  
+  .operator-select {
+    width: 33%;
+  }
+  
+  /* Make sure buttons are big enough to tap */
+  button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+  
+  /* Improve pagination on tiny screens */
+  .pagination button {
+    font-size: 0.9rem;
+    padding: 6px;
+    margin: 1px;
+  }
+}
+
+/* Improve the toggle switch for better tap targets */
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 50px;
+  height: 24px;
+}
+
+/* Increase result spacing for better readability on mobile */
+#results {
+  line-height: 1.5;
+}
+
+/* Disable horizontal scrolling */
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+/* Ensure form elements are properly sized */
+input, select, button {
+  box-sizing: border-box;
+}

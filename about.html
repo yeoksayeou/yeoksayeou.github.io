@@ -4,24 +4,28 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Colonial Korea Periodicals Archive</title>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=Noto+Sans:wght@400;500;700&display=swap" rel="stylesheet">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.3.0/marked.min.js"></script>
+    <link href="support/fonts/noto-sans.css" rel="stylesheet">
     <style>
         body {
             font-family: 'Noto Sans KR', 'Noto Sans', -apple-system, BlinkMacSystemFont, sans-serif;
             line-height: 1.6;
-            color: #333;
+            color: #111;
             max-width: 1000px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f9f9f9;
+            background-color: #f8f8f8;
         }
         a {
-            color: #2c3e50;
-            text-decoration: none;
+            color: #0066cc;
+            text-decoration: underline;
+            font-weight: 500;
         }
         a:hover {
+            color: #004499;
             text-decoration: underline;
+        }
+        a:visited {
+            color: #551A8B;
         }
         code {
             font-family: Consolas, Monaco, 'Andale Mono', monospace;
@@ -30,10 +34,13 @@
             border-radius: 3px;
         }
         blockquote {
-            border-left: 4px solid #ddd;
+            border-left: 4px solid #0066cc;
             padding-left: 16px;
-            color: #666;
+            color: #333;
             margin-left: 0;
+            background-color: #f2f7ff;
+            padding: 10px 16px;
+            border-radius: 0 4px 4px 0;
         }
         hr {
             height: 0.25em;
@@ -45,7 +52,7 @@
             margin-bottom: 16px;
             font-weight: 600;
             line-height: 1.25;
-            color: #2c3e50;
+            color: #111;
         }
         h1 {
             font-size: 2.4rem;
@@ -71,10 +78,11 @@
             flex-direction: column;
         }
         .content {
-            background-color: #fff;
+            background-color: #ffffff;
             border-radius: 8px;
             padding: 30px;
-            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+            border: 1px solid #e0e0e0;
         }
         .raw-markdown {
             display: none;
@@ -84,14 +92,20 @@
         }
         em {
             font-style: italic;
+            color: #555;
         }
         footer {
             margin-top: 60px;
             text-align: center;
             font-size: 0.9rem;
-            color: #7f8c8d;
+            color: #444;
             padding-top: 20px;
-            border-top: 1px solid #ddd;
+            border-top: 1px solid #ccc;
+        }
+        
+        footer a {
+            color: #0066cc;
+            margin: 0 5px;
         }
     </style>
 </head>
@@ -112,17 +126,15 @@
 
 This is a [site](https://yeoksayeou.github.io/) created mostly for students of history to easily browse articles of several Korean colonial period journals. 
 
-The original journals are assumed to be in the public domain. This site only possible thanks to the transcription work of the [National Institute of Korean History](https://db.history.go.kr/) (국사편찬위원회). Their incredible work has provided an immensely important contribution to the study of Korean history. 
+The original journals are assumed to be in the public domain. This site only possible thanks to the transcription work of the [National Institute of Korean History](https://db.history.go.kr/) (국사편찬위원회). Their incredible work has provided an immensely important contribution to the study of Korean history. This site has no connection to the institute but has assembled and reproduced its transcriptions for these journals here. 
 
-The [Database of Korean History: Modern Korea](https://db.history.go.kr/modern/) contains a huge array of important historical materials related modern Korea, including the transcriptions of articles for a number of journals, including those reposted here.
-
-This website does not fully reproduce the rich functionality of the original website, which often includes links to images of the original files, but this site makes it easy to download a local collection of these files for those who want to explore them quickly on your own computer during research. To do this, download the [repository](https://github.com/yeoksayeou/yeoksayeou.github.io) for this website and open the webpage locally on your own machine. 
+The institute's [Database of Korean History: Modern Korea](https://db.history.go.kr/modern/) contains a huge array of important historical materials related modern Korean history, including transcriptions of articles for a number of journals such as those reassembled here. This website does not fully reproduce the rich functionality of the original database, which often includes links to images of the original files and allows convenience saerch across all of its holdings, but this site makes it easy to download a local collection of these specific files for those who want to explore them quickly on their own computer for purposes of study and research. To do this, download the [repository](https://github.com/yeoksayeou/yeoksayeou.github.io) for this website and open the webpage locally on your own machine. Open the "index.html" file and you should see this same content and things will run much faster. Also note that each journal has, in its footer, a link to the specific journal home page on the 국사편찬위원회. Warm thanks to them for making their materials open and accessible to researchers everywhere.
 
 **Notes on the Translations**
 
-Another aspect of this project is an experiment: the addition of LLM English-translated versions of the articles to make these journals more accessible for students who do not know Korean, who are learning Korean but may still be early on their journey to learning hanja, or who may know Korean but find reading these Sino-Korean and Japanese language texts troublesome enough that it is helpful to have a rough English translation to refer to while scanning over the issues. 
+Another aspect of this project is an experiment: translations. Large language model English-translated versions of the articles have been added to make these journals more accessible for students who do not know Korean, who are learning Korean but may still be early on their journey to learning hanja, or who may know Korean but find reading these Sino-Korean and Japanese language texts troublesome enough that it is helpful to have a rough English translation to refer to while scanning over the issues. 
 
-*Does their usefulness outweigh problems with the translations? How bad or good are they? What do they struggle with and what do they do well? These are questions I hope that students and researchers will consider as they explore the translations included here.*
+*Does the usefulness of these translations outweigh problems they pose? How bad or good are they? What do they struggle with and what do they do well? These are questions I hope that students and researchers will consider as they explore the translations included here.*
 
 For some of the translations here, the LLM was asked to extract a list of named entitites, a glossary of vocabulary, and a short summary. The LLM used was Gemini 2.5 for three of the journals, and Gemini 2.0 for *Pyŏlgŏn'gon*, which produced poorer quality translations.
 
@@ -136,7 +148,7 @@ The LLM translation exhibit all the usual problems of large language models. Be 
 
 *Example Four:* The summary section, when present, was asked to speculate about the importance of the article for someone studying Korean history. This was as an experiment and sometimes it produces correct, but largely obvious observations. In other cases, however, it may make claims based on interpretations of the text that do not hold up. 
 
-There are many other kinds of translation issues and it would be useful to have more examples posted in the "Issues" for the repository. This was an experiment to see how functional the full translation of these transcribed journals might be for careful and limited use in a teaching or research context. In the latter, especially, they definitely need to be used in close coordination with the originals (Even the original transcriptions this depends on have their own issues do not always match the original files, an issue is explored in detail in this article: Fremery, Wayne de, and Sang Hun Kim. ‘Remodeling “Creation”: The July 1922 Issue of “Kaebyŏk” Magazine’. *The Journal of Korean Studies (1979-)* 20, no. 2 (2015): 415–57. [JSTOR]( https://www.jstor.org/stable/43919327)) 
+There are many other kinds of translation issues and it would be useful to have more examples posted in the "Issues" for the repository. This was an experiment to see how functional the full translation of these transcribed journals might be for careful and limited use in a teaching or research context. In the latter, especially, they definitely need to be used in close coordination with the originals (Even the original transcriptions this depends on have their own issues do not always match the original files, an issue is explored in detail in this article: Fremery, Wayne de, and Sang Hun Kim. 'Remodeling "Creation": The July 1922 Issue of "Kaebyŏk" Magazine'. *The Journal of Korean Studies (1979-)* 20, no. 2 (2015): 415–57. [JSTOR]( https://www.jstor.org/stable/43919327)) 
 
 In conclusion: the translations provided here have not been reviewed for accuracy and need to be viewed with the kind of critical distance and distrust these algorithmically produced texts always deserve.
 
@@ -149,16 +161,53 @@ You may browse the raw files online here via the [site](https://yeoksayeou.githu
 The search script loads the entire collection of articles from a journal into memory, while the browsing page loads whole issues into memory. Be patient before your first search as this may take a few seconds to load. This goes relatively fast offline, but is slower when hosted remotely. 
 
 There is no reason this can't be easily transformed into a far faster database driven version. Anyone is of course free to make a more efficient version and fork this repository. All the scripts here were written by Claude Sonnet 3.7, with some ChatGPT 4o and Gemini 2.5.
-        </div>
+    </div>
 
     <script>
+        // Function to render basic markdown without external libraries
+        function renderBasicMarkdown(text) {
+            if (!text) return '';
+            
+            // Process headings (# Heading)
+            text = text.replace(/^(#{1,6})\s+(.+)$/gm, function(match, hashes, content) {
+                const level = hashes.length;
+                return `<h${level}>${content.trim()}</h${level}>`;
+            });
+            
+            // Process bold (**text**)
+            text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+            
+            // Process italic (*text*)
+            text = text.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            
+            // Process links ([text](url))
+            text = text.replace(/\[(.*?)\]\((.*?)\)/g, '<a href="$2">$1</a>');
+            
+            // Process blockquotes
+            text = text.replace(/^>\s+(.+)$/gm, '<blockquote>$1</blockquote>');
+            
+            // Process horizontal rules
+            text = text.replace(/^-{3,}$/gm, '<hr>');
+            
+            // Process paragraphs - split by newlines and wrap content
+            const paragraphs = text.split(/\n\n+/);
+            return paragraphs.map(p => {
+                p = p.trim();
+                // Don't wrap content that's already an HTML tag
+                if (p.startsWith('<h') || p.startsWith('<blockquote') || p.startsWith('<hr')) {
+                    return p;
+                }
+                return `<p>${p}</p>`;
+            }).join('\n');
+        }
+
         // Function to render the markdown
         function renderMarkdown() {
             // Get the raw markdown
             const rawMarkdown = document.getElementById('raw-markdown').textContent;
             
-            // Render the markdown to HTML
-            const renderedHtml = marked.parse(rawMarkdown);
+            // Render the markdown to HTML using our custom function
+            const renderedHtml = renderBasicMarkdown(rawMarkdown);
             
             // Update the content div with the rendered HTML
             document.getElementById('rendered-content').innerHTML = renderedHtml;
