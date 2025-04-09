@@ -1,0 +1,139 @@
+Magazine Title: 동광 제8호
+Publication Date: 1926년 12월 01일
+Article Title: 독물(毒物)의 작용 (The Action of Poisons)
+Author: 세브란스醫專 白泰星 (Paek T'aesŏng, Severance Medical College)
+Article Type: 논설 (Essay/Article)
+
+Poisons
+						Paek T'aesŏng, Severance Medical College
+
+Humans must maintain a state of equilibrium (中和) with all things in their surroundings. However, if any substance acts chemically or physically upon a living organism, causing impairment to the organism's body or function (機能), this substance is referred to as a poison (毒物), and the resulting state is called poisoning (中毒). According to this definition, all substances can be called poisons. The reason is that even substances we normally consider non-poisonous can cause illness and even death if consumed in amounts greater than necessary or if consumed through unusual routes. Therefore, we avoid interpreting poison in such a broad sense and limit it to substances that cause significant illness even in relatively small quantities. The types of poisons are extremely numerous, encompassing mineral, plant, or animal organic substances.
+
+Routes of Entry for Poisons into the Body
+The toxic action of a poison is closely related to its chemical structure. It is necessary to have a general understanding, even based on common sense, of the routes through which poisons invade the living body. The most common routes are the skin, the digestive system, and the respiratory system. However, doctors may also inject poisons under the skin, into muscles, into blood vessels, or through the reproductive organs for the purpose of treating illness.
+
+The human body has certain defense mechanisms against poisons. Poisons entering through the mouth may be diluted by digestive fluids, broken down, or combined with proteins to become non-toxic. Alternatively, they may be expelled from the body through vomiting or diarrhea before being absorbed from the stomach and intestines. Detoxification (解毒) mechanisms within the body include oxidation (酸化), neutralization (中和), reduction (還元), hydrolysis (加水分解), synthesis (合成), and precipitation within the body (軆內沈澱). Poisons absorbed into the body exit through various pathways. The main routes of exit are the stomach/intestines, kidneys, lungs, sweat pores, mammary glands, and salivary glands.
+
+Symptoms and Consequences of Poisoning
+Illness caused by poisons occurs in two ways: one is when poison enters the body from the outside, and the other is when poison is generated within the body due to illness. The former is further divided into two types: acute poisoning, where a large amount of poison capable of harming the body enters at once, and chronic poisoning, where small amounts enter over time without causing immediate harm.
+Examples of poisoning we commonly see include:
+1. Acute carbon monoxide (酸化炭素) poisoning
+2. Acute phosphorus (燐) poisoning
+3. Chronic lead (鉛) poisoning
+4. Chronic alcohol (알콜) poisoning
+5. Chronic nicotine (니코틴) poisoning <49>
+6. Chronic morphine poisoning
+among others. Besides these, there is dietary poisoning (食餌性中毒), which is particularly important regarding the health of our Korean children, caused by impaired metabolic function within the body due to food. An example is diabetic coma (糖尿病昏睡).
+When I think of the deaths of several children I actually witnessed, most infants who die during the nursing period die from this poisoning.
+
+Generation of Poison within the Body
+The causes of auto-intoxication (自己中毒) are: (1) Toxic substances produced during normal metabolism accumulate in body fluids because they cannot be excreted due to some reason. (2) The physiological production of toxic substances exceeds normal levels. (3) Toxic metabolic substances fail to be broken down into harmless substances as they normally would. (4) Changes or cessation in the function of certain organs prevent incoming toxins from being neutralized. The symptoms of poisoning include vomiting, headache, dizziness, fainting, palpitations, and heart dilation.
+If the functions of the kidneys and lungs are insufficient and their waste products cannot be expelled, uremia (뇨독증) or an excess of carbonic acid gas (炭酸까스過剩) in the blood occurs, leading to poisoning symptoms.
+
+How to Avoid Poisoning
+The only way to avoid poisoning is to continually maintain our bodies in a healthy state.
+Next, I will talk about what is called parasitic poisoning (寄生中毒). When mosquitoes (모긔), fleas (벼록), or bedbugs suck blood, toxins mixed in their saliva (춤) are released, causing inflammation and itching at the site. Tapeworms (조충) and hookworms (십이지장충) cause anemia (貧血). Furthermore, intestinal parasites (腸內의 긔생충) can cause neurological disorders; convulsions (痙攣) in young children are an example of this, which are extremely common among children in our farming villages, so attention must be paid. <50>
+
+**Summary**
+
+This 1926 article by Paek T'aesŏng of Severance Medical College defines poisons and poisoning, outlining routes of entry (skin, digestive, respiratory), the body's detoxification mechanisms, and routes of excretion. It distinguishes between acute and chronic poisoning from external sources (giving examples like CO, phosphorus, lead, alcohol, nicotine, morphine) and auto-intoxication arising from metabolic issues or organ failure. The article specifically highlights dietary poisoning as a major cause of infant mortality in Korea and discusses parasitic poisoning (from insects and worms) leading to conditions like anemia and convulsions in children, particularly in rural areas. From a historical perspective, the article is interesting as it shows the dissemination of Western medical concepts (toxicology, metabolism, specific poison types) in colonial Korea through institutions like Severance. The focus on specific public health issues like high infant mortality potentially linked to diet, and the prevalence of parasitic diseases in rural children, reflects the health challenges faced in Korea during that period.
+
+**Named Entities**
+
+세브란스醫專	세브란스 의전	Severance Medical College
+白泰星	백태성	Paek T'aesŏng
+조선	조선	Korea
+
+**Glossary**
+
+독물(毒物)	독물	Poison
+중화(中和)	중화	Equilibrium; Neutralization
+긔능(機能)	기능	Function (older spelling/form of 기능)
+중독(中毒)	중독	Poisoning
+업다는	없다는	That there is no... (older spelling/form of 없다는)
+잇슴니다	있습니다	There is/are (older spelling/form of 있습니다)
+만하	많아	Numerous; Many (older spelling/form of 많아)
+소화긔	소화기	Digestive system/organs (older spelling/form of 소화기)
+호흡긔	호흡기	Respiratory system/organs (older spelling/form of 호흡기)
+미트로나	밑으로나	Underneath or... (older spelling/form of 밑으로나)
+핏줄속	핏줄 속	Inside blood vessels
+밧그로	밖으로	To the outside (older spelling/form of 밖으로)
+해독(解毒)	해독	Detoxification
+산화(酸化)	산화	Oxidation
+환원(還元)	환원	Reduction
+가수분해(加水分解)	가수분해	Hydrolysis
+합성(合成)	합성	Synthesis
+체내침전(軆內沈澱)	체내 침전	Precipitation within the body (軆 is an older form of 體)
+신장	신장	Kidney
+페장	폐장	Lungs (older spelling/form of 폐)
+젓	젖	Milk (breast milk)
+춤구멍	침구멍	Salivary glands/ducts (lit. saliva hole; 춤 is older form of 침)
+급성	급성	Acute
+만성	만성	Chronic
+산화탄소(酸化炭素)	산화탄소	Carbon Monoxide
+린(燐)	인	Phosphorus (older reading/usage for 燐 as 린)
+연(鉛)	연	Lead
+식이성(食餌性)	식이성	Dietary
+탕뇨병혼수(糖尿病昏睡)	당뇨병 혼수	Diabetic coma
+자라	자라	Instance; case; thing (older usage, similar to 것)
+멧	몇	Several; some (older spelling/form of 몇)
+자긔(自己)	자기	Self; oneself
+을마가서	옮아가서	Moving to; spreading to (older form/spelling)
+엇질한 것	어지러운 것	Dizziness (older spelling/form of 어지러운)
+실신	실신	Fainting; syncope
+뇨독증	요독증	Uremia (older spelling/form of 요독증)
+탄산까스	탄산가스	Carbonic acid gas (CO2)
+과잉(過剩)	과잉	Excess
+게속하는	계속하는	Continuing (older spelling/form of 계속하는)
+긔생(寄生)	기생	Parasitic
+모긔	모기	Mosquito (older spelling/form of 모기)
+벼록	벼룩	Flea (older spelling/form of 벼룩)
+빈대	빈대	Bedbug
+춤	침	Saliva (older form)
+석겨서	섞여서	Mixed with (older spelling/form of 섞여서)
+조충(絛虫)	조충	Tapeworm
+십이지장충	십이지장충	Hookworm (lit. duodenal worm)
+빈혈(貧血)	빈혈	Anemia
+긔의	그의	Its; their (likely possessive pronoun '그의' with older spelling)
+장내	장내	Intestinal
+경련(痙攣)	경련	Convulsion; spasm
+만흐니	많으니	Are many; because there are many (older spelling/form of 많으니)
+
+
+---------------------------
+
+
+잡지명	동광 제8호
+발행일	1926년 12월 01일
+기사제목	독물(毒物)의 작용
+필자	세브란스醫專 白泰星
+기사형태	논설
+
+독물
+						세브란스醫專 白泰星
+사람은 주위의 모든 물건과 중화(中和)상태를 취하여야 된다. 그러나 무슨 물건이던지 생물에 대하여 화학적이나 물리학적으로 작용하여 생물의 몸이나 긔능(機能)에 장애를 이르키면 이 물건을 가르키어 독물(毒物)이라 하고 그 상태를 중독(中毒)이라 한다. 이 정의에 의지하면 모든 물질은 다 독물이라 할 수 잇스니 그 리유는 보통 우리가 독이 업다는 물건이라도 필요한 이상을 먹거나 또는 이상한 부분으로부터 먹을 것 가트면 몸에 병을 이르키어 죽는 일도 잇슴니다. 그런 고로 우리는 독물을 그 가티 넓은 뜻으로 해석하기를 피하고 비교적 적은 분량으로도 현저히 병을 발하게 하는 물질에 한한다. 독물의 종류는 심히 만하 광물, 식물, 혹은 동물질 유긔체로 된다.
+
+독물이 몸에 들어가는 문
+독물의 독작용은 그 화학적 구조와 밀접한 관게가 잇다. 생물체에 대하여 독물이 침입하는 문을 상식상으로라도 대강 알아 둘 필요가 잇다. 가장 보통으로는 피부, 소화긔, 호흡긔 세 가지다. 그러나 의사가 병치료하기 위하여 독물을 피부 미트로나 근육속, 핏줄속, 혹은 생식긔로부터 주입하는 일도 잇다.
+사람의 신체에는 독물에 대하여 일정한 방어작용이 잇다. 입으로 들어오는 독물은 소화액으로 묽게 타거나 분해 혹은 단백질과 결함하여 무독물이 되고 또는 게우거나 설사하여 위장에서 빨아들리기 전에 몸 밧그로 내어 보낸다. 몸 안에서 되는 해독(解毒)작용에는 산화(酸化) 중화(中和) 환원(還元) 가수분해(加水分解) 합성(合成) 체내침전(軆內沈澱) 등이 잇다. 몸에 흡수된 독물은 여러 가지의 길을 지나 몸 밧그로 나간다. 나가는 길의 주요한 것은 위장, 신장, 페장과 땀구멍, 젓, 피부선, 춤구멍으로도 된다.
+
+중독증세와 그 결과
+독물로 인하여 병이 생기는 것은 두 가지가 잇스니 하나는 외부에서 독물이 몸 안에 들어가는 것이요 하나는 병으로 인하여 몸 안에서 독물이 생기는 것인데 전자는 다시 두 가지로 난우어 하나는 일시에 몸을 해할만한 독물이 만히 들어오는 것을 급성 중독이라 하고 하나는 일시에 해가 오지 안케 적은 분량이 들어오는 것을 만성중독이라 한다.
+우리가 일상 보는 바 중독 중의 예를 들건대
+1. 급성 산화탄소(酸化炭素) 중독
+2. 급성 린(燐) 중독
+3. 만성 연(鉛) 중독
+4. 만성 「알콜」 중독
+5. 만성 「니코틴」 중독＜49＞
+6. 만성 모핀 중독
+등이라. 그 밧게 우리 조선 아동 위생상 가장 주요하게 볼만한 음식으로 인하여 몸안에 신진대사 긔능이 장애되어 생기는 식이성(食餌性) 중독이 잇스니 례하면 탕뇨병혼수(糖尿病昏睡)와 가튼 자라.
+내가 실찌로 목도한 멧 아이의 죽은 것을 생각하건대 젓 먹는 시긔에 죽는 아이의 대부분은 이 중독증이다.
+
+몸 안에서 독이 발생되는 것
+자긔(自己) 중독의 원인은 (1) 신진대사의 통상성분으로 그 산출하는 시긔에 생기는 독물이 어떤 원인으로 배설이 되지 못함으로 몸 안에 잇는 액체로 을마가서 싸이는 것 (2) 독물의 생리적 산출이 보통 때보다 만히 되는 것 (3) 신진대사에 독물성 물질이 보통이면 해업는 물건으로 분해할 것이 그러케 못되는 것 (4) 일정한 긔관긔능이 변화 정지됨으로 인하여 독물이 되어 들어가 중화되지 못하는 것 등이다. 중독의 증세는 토하는 것, 두통, 엇질한 것, 실신하는 것, 가슴 뛰는 것, 심장이 늘이어지는 것 등이다.
+신장과 페의 긔능이 불충분하여 그 배설물을 내어보내지 못하면 뇨독증, 혹은 혈액중 탄산까스 과잉(過剩)이 되어 증독중을 이르킨다.
+
+중독을 면하려면
+중독을 면하는 방법은 우리 몸을 건강한 상태에 늘 게속하는 것 뿐이다.
+다음에 말할 것은 긔생(寄生) 중독이라 하는 것이니 모긔, 벼록, 빈대 등이 피를 빨아 먹을 때에 그 춤에 석겨서 독소가 나와 그 자리에 염증이 생기며 가려워지는 것이며 조충(*虫), 십이지장충으로 빈혈(貧血)을 생기게 하는 것이다. 긔의 장내의 긔생충으로 인하여 신경장해도 잇스니 어린 아이의 경련(痙攣)이 이것인데 우리 농가 아이들에게 심히 만흐니 주의할 것이다.＜50＞
+＜49-50＞

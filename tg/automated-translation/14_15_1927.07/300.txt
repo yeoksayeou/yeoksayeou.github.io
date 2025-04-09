@@ -1,0 +1,142 @@
+Magazine Title:	東光 제15호
+Publication Date:	1927년 07월 05일
+Article Title:	東光의 한글ㅅ用例를 보고, 한글토론(7) (Seeing Donggwang's Usage Examples of Hangul 'ㅅ', a Hangul Discussion (7))
+Author:	李鐸 (I T'ak)
+Article Type:	논설 (Editorial/Opinion Piece)
+
+Seeing Donggwang's Usage Examples of Hangul 'ㅅ', a Hangul Discussion
+						I T'ak
+
+It is a most welcome development that the Donggwang (東光) magazine company, for the sake of organizing and unifying our Hangul, has defied the ingrained habits of the world and, through the hands of various specialists, is practically applying the corrected grammar established thus far in its publication, setting an example for the generation. As our script is not yet completely organized, it is unavoidable that the grammar adopted by the magazine may contain some errors, and it is also certain that individual opinions may not align with it. Therefore, it goes without saying that we must point out these errors to aid in organization and state our opinions to strive for unification. The author also has some points he wishes to critique regarding the grammar adopted by the magazine, but as the matter pertains to the fundamental principles of phonology, the discussion would become excessively<50> lengthy and rambling, so I will avoid it here and instead first mention a few points that come to mind fragmentarily.
+
+One. Regarding the usage examples of Hanja sounds.
+I too think it is good to write *isang* (理想 ideal) as 이상 and *ch'ŏnji* (天地 heaven and earth) as 천지 (Reasons omitted). However, I think writing *illyu* (人類 humanity) as 일류 is incorrect. Why is that? Because the 'in' (人) in *illyu*, like the 'in' in *indo* (人道 humanity's path) or *insim* (人心 human heart), and the 'ch'ŏn' (千) in *ch'ŏlli* (千里 thousand ri) or the 'man' (萬) in *malli* (萬里 ten thousand ri), like the 'ch'ŏn' and 'man' in *ch'ŏnhae* (千海 thousand seas) or *manhae* (萬海 ten thousand seas), each independently possesses a definite meaning. Furthermore, even if written as *illyu*, *ch'ŏlli*, *malli*, there is a habit of pronouncing them as 인류 (illyu), 철리 (ch'ŏlli), 말리 (malli) following euphonic changes (音便), so there would be no inconvenience. However, if written as 일 (il), 철 (ch'ŏl), 말 (mal), the meaning cannot be understood, and it would be easy to misunderstand (for example, mistaking 人 for 一 one).
+
+Similarly, writing *tongnip* (獨立 independence) as 독닙 (tongnip): if one speaks according to the process, it would be more correct to write it as 동닙 (tongnip) rather than 독닙 (toknip). If written that way, the 'tong' (동) would not be associated with the 'tok' (獨) in *tokcha* (獨子 only son), *toktan* (獨斷 arbitrary decision), *tantok* (單獨 alone), and the 'nip' (닙) would not be associated with the 'rip' (立) in *charip* (自立 self-reliance), *korip* (孤立 isolation), *pullip* (分立 separation), just as mentioned regarding *illyu*.<51> Therefore, I argue that it is better to write these intermediate sounds as they are. To state the reason once more: first, the original sound (本音) has a definite meaning, but if changed and written, it is not associated with the original sound, making the meaning unintelligible or easily misunderstood. Second, even when written with the original sound, the habit of euphonic change exists, so it does not differ at all from the national pronunciation (國音).
+
+Two. Words beginning with the initial sound ㅇ (null consonant) before ㅣ, ㅑ, ㅕ, ㅛ, ㅠ.
+For example, writing *i* (齒 tooth), *il* (事 matter), *irŭm* (名 name), *yŏrŭm* (夏 summer) by changing them to the ㄴ series (ㄴ行) as 니 (ni), 닐 (nil), 니름 (nirŭm), 녀름 (nyŏrŭm), seems to be based on the reasoning that the ㄴ sound remains from when these words originated from some root word, but I think this is incorrect. Why? Because when two words combine, if pronounced according to their sounds, due to the natural tendency (理勢) of phonological principles (音理), one word may change completely differently from when it stands alone, making its root (밋몸) unrecognizable. In such cases, to make the roots of both words apparent, the sound of one word is changed to the closest possible sound. For example:
+*sot an-et pap* (솥안엣 밥 cauldron-inside-GENITIVE particle rice) pronounced as 솓안엣 밥 (sot anet pap) <52>
+*ip arae* (잎아래 leaf-under) as 입아래 (ip arae)
+*kkot wi* (꽃위 flower-on) as 꼳위 (kkot wi)
+*kaps ani chugo* (값아니 주고 price-not give) as 갑아니 주고 (kap ani chugo)
+*chalmot algo* (잘못 알고 wrongly know) as 잘몯 알고 (chalmot algo)
+*pŏt hani* (벗하니 friend-do) as 벋하니 (pŏt hani).
+If these words (만들 - sic, should be 말들) were pronounced as they are written, they would become *sot'an*, *ip'arae*, *kkoch'wi*, *kapsini*, *chalmosal*, *pŏssin*, making the meaning of each individual word (單語) unintelligible, and consequently, the meaning of the newly formed whole phrase would be lost. Similarly, if *i*, *il*, *irŭm*, *yŏrŭm* are pronounced as they are when following another word, either the word itself or the preceding word changes due to the natural tendency of phonological principles, becoming unrecognizable. For example:
+*ap i* (앞이 front-tooth) is pronounced as 아피 (ap'i)
+*saram irŭm i* (사람이름이 person-name-SUBJECT particle) as 사라미름이 (saramirŭmi)
+*han il i* (한 일이 done-matter-SUBJECT particle) as 하닐이 (haniri).
+Therefore, to prevent this, the ㅇ series (ㅇ行) is pronounced by changing it to the ㄴ series (ㄴ行). This happens especially before ㅣ because the articulatory organs for 니 (ni) and 이 (i) are very close (when producing 이, the tongue tip is raised almost touching the inner upper alveolar ridge; when producing 니, the tongue tip is raised slightly higher to touch the same place while simultaneously nasalizing), resulting in no significant distortion of the sound. This can be seen just by observing how beginners in Korean writing (國文) confuse 이, 니, and 리, distinguishing between the 이 of the ㄹ series (라行) <53> and the 이 of the ㅇ series (아行 - sic, should be ㅇ行). Furthermore, if these words truly belonged to the ㄴ series, why is the ㄴ sound not produced under a determiner (冠詞), such that *sin ch'i* (新齒 new tooth) is pronounced *sae i* (새이), *p'i myŏng* (彼名 that name) as *chŏ irŭm* (저 이름), *ch'a sa* (此事 this matter) as *i il* (이일)? And why is it also the case when combined with nouns ending in a vowel, such that *kŭm ch'i* (金齒 gold tooth) is pronounced *soe i* (쇠이) and *mok myŏng* (木名 tree name) as *namu irŭm* (나무이름)? (Cases like pronouncing *mogyŏp* (木葉 tree leaf) as *namuㅅnip* (나무ㅅ닢) are not simple combinations of *namu* and *ip*, but involve the linking particle ㅅ). Therefore, I argue that judging a word beginning with the ㅇ initial sound before ㅣ as an ㄴ-initial word just because it produces an ㄴ sound after certain words is incorrect. However, this does not mean that there are absolutely no ㄴ-initial words (before ㅣ). *Nim* (님 lover), *nyŏn* (년 derogatory term for woman), *nyamnyam* (냠냠 yummy sound) clearly have an ㄴ initial sound no matter how you match them (Although *yŏrŭm* is pronounced as 녀름 (nyŏrŭm) in some regions, it is appropriate for us to take the majority as the standard).
+
+Three. Writing ㄱ, ㄷ, ㅂ, ㅈ, ㅅ under the same ㄹ and sometimes pronouncing them normally, and other times changing them to ㄲ, ㄸ, ㅃ, ㅉ is illogical. For example, in words like *sŏl ko* (설고 undercooked), *sil tŏra* (실더라 extinguished), *pul chi* (불지 blows), they are pronounced normally, but in words like *sŏl ko* (설고 sad), *sil tŏra* (실더라 loaded), *pul chi* (불지 envious), they are <54> changed to tense sounds (硬音), i.e., doubled consonants (雙合子音). In my opinion, for the latter cases, ㅎ should be added, resulting in 섫, 싫, 붏. Besides these, *nat* (낳 superior), *it* (잏 connects), *chit* (짛 makes), *put* (봏 pours in), *chŏt* (젛 stirs liquid), *chat* (잫 makes cotton thread) should be written like this. (These words are pronounced 낫, 잇, 짓, 붓, 젓, 잣 in the Yŏngnam (嶺南) region, but there is clear evidence that this is a later change, not the original form, and since those who pronounce them this way are a minority, it cannot be the standard). I argue that the future tense ending ㄹ should be written as ㅭ. The reason is difficult to explain briefly before I present my views on phonology concretely, but simply put: if we consider the guttural consonant (喉子音) ㅇ as the plain sound (普通音), ㆆ as the tense sound (硬音), and ㅎ as the aspirated sound (激音), then ㄱ, ㄷ, ㅂ, ㅈ, ㅅ are the plain sounds of their respective places of articulation, ㄲ, ㄸ, ㅃ, ㅉ, ㅆ are the tense sounds, and ㅋ, ㅌ, ㅍ, ㅊ are the aspirated sounds. Since the larynx (喉頭) and other articulatory organs are interconnected, when another plain sound meets a laryngeal tense sound (喉硬音) or laryngeal aspirated sound (喉激音), due to the chain reaction of the speech organs (this is not imagination but can be confirmed through experimentation), it is immediately pronounced as a tense or aspirated sound. To put it in the terms of Professor Chu Sigyŏng's (周時經先生) phonology, just as ㅋ, ㅌ, ㅍ, ㅊ are <55> mixed sounds of ㄱ, ㄷ, ㅂ, ㅈ and ㅎ, ㄲ, ㄸ, ㅃ, ㅉ, ㅆ could be said to be mixtures of ㄱ, ㄷ, ㅂ, ㅈ, ㅅ and ㆆ.
+
+Four. Adding 'hi' (히) when using Hanja-derived words adverbially, for example, *wanjŏnhi* (완전히 completely), *yŏngwŏnhi* (영원히 eternally) - this seems to be done because when using Hanja-derived words adjectivally, 'ha' (하) is added, like *wanjŏnha* (완전하 complete), *yŏngwŏnha* (영원하 eternal), so it is thought to be derived from 'ha' even when used adverbially, despite the mismatch between speech and writing (言文). However, I think this is incorrect. Why? Because even with pure Korean words like *nŏngnŏk* (넉넉 ample), *pandŭt* (반듯 straight), *ttokttok* (똑똑 clear), isn't 'ha' added when used adjectivally, and 'i' (이) attached when used adverbially? In our language, 'ha' can be called the basic morpheme for verbs and adjectives, and 'i' the basic morpheme for adverbs. Therefore, I think it is correct to always attach 'i' when using Hanja-derived words adverbially.
+
+Five. Regarding individual words, speaking about each one would be endless, but I will mention a few first.
+First is about the object case particle (客格吐) *ŭl*, *rŭl* (을, 를) (as in *marŭl*, *sorŭl* 말을, 소를), the auxiliary particle (補助吐) *ŭn*, *nŭn* (은, 는) (as in *marŭn*, *sonŭn* 말은, 소는), the present tense ending (現在吐) *nŭn*, *nŭnya*, *nŏnira* (는, 느냐, 너니라), and the past tense ending (過去吐) *tŭn* (든) (as in *odŭn kadŭn* 오든 가든), *tŭni* (드니).<56> For the sake of the numerous learners of the present and future who are uneducated, it would be good to write these according to speech-writing unity (言文一致) as 얼 (ŏl), 럴 (rŏl), 언 (ŏn), 넌 (nŏn), 넌 (nŏn), 너냐 (nŏnya), 너니라 (nŏnira), 던 (tŏn), 더니 (tŏni). However, doing so would cause considerable inconvenience to those who have already learned, so it cannot be done that way. But at least, excluding the object case particle *ŭl/rŭl* and the auxiliary particle *ŭn/nŭn*, it would be good if all the others were written like the spoken forms: 넌 (nŏn), 너냐 (nŏnya), 던 (tŏn), 더니 (tŏni). Doing so would cause no inconvenience even to those already learned, and it would also be good because there would be a distinction between the auxiliary particle 는 (nŭn) and the present tense ending 넌 (nŏn).
+
+Second, regarding 'middle' (中), which in actual Korean speech is pronounced *kaunt'* (가운ㅌ) or *kaund*' (가운ㄷ). If *kaunde* (가운데) is considered the Korean word for 中, it not only differs from speech but also, if the relative pronoun *tae* (대) is attached, it becomes *kaunde-tae* (가운대대), diverging even further from speech. If *kaun* (가운) means 中 and *tae* (대) is the attached relative pronoun, why is it that in identical situations, *tae* is not attached to words like *wi* (위 up) or *arae* (아래 down), but only attached to *kaun*? (For example, one says *mul wie* (물위에 on the water), *mul araee* (물아래에 under the water), but *mul kaunde* (물가운데 in the middle of the water)). Therefore, I suggest it seems good to establish the form of the Korean word for 中 as *kaunt'* (가운ㅌ) or *kiunt'* (기운ㅌ - sic, likely a typo for 가운ㅌ).<57>
+
+Six. Finally, one thing I wish to say concerns the method of determining grammar rules (文法). When the [Donggwang] company published the comprehensive statistics of responses from various specialists regarding examples of Korean script notation in its New Year issue, it stated that this was not intended to make final judgments on grammar. However, the tendency of the magazine's subsequent grammar rules to seem based on that standard is not, I think, a perfect method. Didn't the heliocentric theory, denied by the whole world and advocated solely by one person, Copernicus (코펠릭스), become truth today? Objective rightness or wrongness never depends on the number of people. Therefore, our grammar should also not be decided merely by parliamentary style (議會式); rather, it would be better for specialists to engage in logical debate (辯爭) with each other and decide based on the ultimate theory. (This is not, of course, to suppress all clamorous shouting (衆口亂放) and careless chatter). Thus, I hope for the appearance of a specialized weekly journal for this discussion. Daily newspapers provide too short a period to prepare materials for discussion, and monthly magazines are too slow; therefore, I think a weekly journal is appropriate.)<58>
+
+**Summary**
+
+The author, I T'ak, critiques specific Hangul orthography and grammar choices promoted by the magazine *Donggwang* in its 1927 standardization efforts. He argues for preserving original Hanja pronunciations in certain contexts, questions the insertion of 'ㄴ' before initial 'ㅇ' vowels in compounds, proposes using 'ㅎ' endings to represent certain tense consonants following 'ㄹ', advocates for '이' as the standard adverbial suffix for Hanja-derived words, suggests aligning certain grammatical endings more closely with spoken forms, and debates the correct native Korean word for "middle." Finally, he criticizes determining grammar rules by consensus or majority opinion, advocating instead for decisions based on logical debate among experts, ideally facilitated by a dedicated weekly journal.
+
+From a historical perspective, this article is valuable as it provides a direct window into the intense debates surrounding Korean language standardization during the Japanese colonial period. It shows the practical challenges faced when trying to unify spelling and grammar based on varying theoretical approaches (phonology, etymology, speech-writing unity) and regional dialects (mention of Yŏngnam pronunciation). The reference to Chu Sigyŏng indicates the influence of early Korean linguists, while the call for logical debate over mere consensus reflects the intellectual ferment and desire for a systematic, rational basis for the modern Korean language, undertaken by Koreans themselves despite the colonial context.
+
+**Named Entities**
+
+李鐸	이탁	I T'ak
+周時經先生	주 시경 선생	Professor Chu Sigyŏng
+코펠릭스	코펠릭스	K'op'ellik'ŭsŭ (Copernicus)
+嶺南	영남	Yŏngnam
+
+**Glossary**
+
+한글ㅅ用例	한글 사용례	Hangul usage examples (older orthography with ㅅ)
+어긔고	어기고	violating, going against (older spelling)
+專門家	전문가	specialist, expert
+바루 잡은	바로잡은	corrected (older spelling)
+아즉	아직	yet, still (older spelling)
+딸어	따라	following, according to (older spelling)
+同誌	동지	said magazine
+다소간	다소간	somewhat, to some extent
+넘우	너무	too, excessively (older spelling)
+張遑하므로	장황하므로	because it is lengthy/rambling
+위선	우선	first of all, for now (older spelling)
+漢字音	한자음	Sino-Korean pronunciation (sound of Hanja characters)
+理想	이상	ideal
+天地	천지	heaven and earth
+人類	인류	humanity
+音便	음변	euphonic change
+本音	본음	original sound (of a Hanja character)
+國音	국음	national pronunciation; standard Korean pronunciation
+밋몸	밑몸	root form/etymology (likely intended meaning, older form/spelling)
+理勢	이세	natural force/tendency (likely intended meaning based on context)
+單語	단어	word, vocabulary item
+윗말	윗말	preceding word
+發音機關	발음 기관	speech organs
+라行	라행	'r/l' series (in phonology/alphabet charts)
+아行	아행	'ah' series (likely intended ㅇ initial null consonant series)
+冠詞	관사	determiner, article (linguistics)
+맞후어	맞추어	matching, fitting (older spelling)
+硬音	경음	tense sound (e.g., ㄲ, ㄸ, ㅃ)
+雙合子音	쌍합자음	double consonants (another term for tense consonants)
+喉子音	후자음	guttural consonant
+普通音	보통음	plain sound (e.g., ㄱ, ㄷ, ㅂ)
+激音	격음	aspirated sound (e.g., ㅋ, ㅌ, ㅍ)
+周時經先生	주 시경 선생	Professor Chu Sigyŏng (pioneer linguist)
+言文이 일치되지 않음	언문이 일치되지 않음	speech and writing do not match
+純朝鮮말	순조선말	pure Korean word (native Korean word)
+形容詞格	형용사격	adjectival usage/form
+副詞格	부사격	adverbial usage/form
+客格吐	객격토	object case particle (토 't'o' used for particle/ending)
+補助吐	보조토	auxiliary particle
+現在吐	현재토	present tense ending/particle
+過去吐	과거토	past tense ending/particle
+言文一致	언문일치	unification of speech and writing
+歸定하는	규정하는	regulating, stipulating
+可否	가부	pros and cons; approval or disapproval
+議會式	의회식	parliamentary style/method
+辯爭	변쟁	debate, dispute
+衆口亂放	중구난방	clamorous shouting, conflicting opinions
+
+
+---------------------------
+
+
+잡지명	동광 제15호
+발행일	1927년 07월 05일
+기사제목	東光의 한글ㅅ用例를 보고, 한글토론(7)
+필자	李鐸
+기사형태	논설
+
+東光의 한글ㅅ用例를 보고, 한글토론
+						李鐸
+雜誌 東光社에서 우리 한글의 정리와 통일을 위하여 왼 世上의 굳은 버릇을 어긔고 여러 專門家의 손으로 지금까지의 바루 잡은 文法을 同誌에 실용하여 일세에 모범을 보임은 가장 반갑은 일이다. 우리 글이 아즉 완전히 정리되지 않음에 딸어 동지의 採用하는 文法이 다소간 差誤가 있을것도 면치 못할 일이요. 또는 各人의 의견이 여긔에 일치하지 않을 것도 정한 일일 것이다. 그렇므로 우리는 이 差誤를 지적하여 정리를 돕으며 의견을 말하여 통일을 꾀하여야 할 것은 두말 할 필요도 없다. 筆者도 同誌의 채용하는 문법에 대하여 다소간 論難코자 함이 없지 않으나 일이 音學의 근본적 立論에 있어 말이 넘우＜50＞ 張遑하므로 여긔에는 말함을 피하고 위선 斷片的으로 생각나는 몇가지를 말하랴 한다.
+
+一. 漢字音用例에 대하여
+리상(理想)을 이상으로 턴디(天地)를 천지로 쓰는 따위는 나도 좋은 줄로 생각한다.(이유는 略함) 그렇나 인류(人類)를 일류로 쓰는 따위는 옳지 않다고 생각한다. 왜 그렇냐 하면 인류의 인은 인도(人道) 인심의 인처럼 천리(千里)의 천과 만리의 만은 천해 만해의 천과 만처럼 각각 독립한 일정한 뜻을 가지고 있을 뿐만 아니라 인류 천리 만리로 쓰더라도 音便을 좇아서 인류 철리 말리로 발음하는 버릇이 있으니 아모러한 불편이 없을 것이다. 그런데 만일 일 철 말로 쓸것 같으면 그 뜻을 알어 볼 수 없고 또는 잘못 알기(例하면 人을 一로) 쉽을 것이며
+독립(獨立)을 독닙으로 쓰는 따위는 만일 그 경위대로 말하면 독닙으로 씀보다 동닙으로 쓰어야 옳을 것이니 만일 그와 같이 쓰면 동이 독자(獨子) 독단(獨斷) 단독(單獨)들의 독과 닙이 자립(自立) 고립(孤立) 분립(分立)들의 립과 서루 연상되지 않음이 맞히 인류에서 말함과＜51＞ 같을 것이다. 그렇므로 이러한 중간에 끼인 音은 다 제대로 씀이 좋다고 주장하노니 그 이유를 다시 한번 말하면 첫째 本音은 일정한 뜻이 있는데 만일 변하여 쓰면 本音대로 쓸 때와 연상되지 않어서 그 뜻을 알수 없거나 잘못 알기 쉽고
+둘째 本音대로 쓰어도 音便의 버릇이 있어서 國音과 조곰도 틀리지 않는 것이다.
+二. ㅣ ㅑ ㅕ ㅛ ㅠ의 위의 ㅇ頭音으로 된 말.
+例하면 이(齒) 일(事) 이름(名) 여름(夏) 들을 ㄴ行으로 변하여 니 닐 니름 녀름들로 씀은 아마 이 말들이 어느 말밑에서 날 때에는 ㄴ音이 남을 이유삼는 듯하나 이것은 잘못이라고 생각한다. 왜 그렇냐 하면 어떤 두 말이 서루 어울릴 적에 제 음대로 내자면 音理上 자연의 理勢로 어느 한 말이 저 홀로 날 때와는 아주 딴판으로 변하여 밋몸을 알 수 없게 됨이 있으니 이런 경우에는 두 말의 밋몸이 다 나타나도록 어느 한 말의 音을 가장 가깝게 변하여 냄이 있다. 例하면
+솥안엣 밥을 솓안엣 밥으로＜52＞
+잎아래를 입아래로
+꽃위를 꼳위로
+값아니 주고를 갑아니 주고로
+잘못 알고를 잘몯 알고로
+벗하니를 벋하니로
+발음하는 따위다. 이 만들을 만일 제대로 발음하면 소탄 이파래 꼬취 갑시니 잘모살 버씬으로 발음되여 각 單語의 뜻을 알수 없고 딸어서 새루 조직된 말의 全體의 뜻을 알 수 없을 것이다. 이 일 이름 여름들도 만일 어느 말 아래에서 낼 때에 제대로 내면 제 몸이나 윗말이 音理上 자연의 理勢로 알어 볼 수 없게 변하여 例하면
+앞이가 아피로
+사람이름이 사라미름으로
+한 일이 하닐로
+발음된다. 그렇므로 이것을 막기 위하여 ㅇ行을 ㄴ行으로 변하여 발음함인데 특히 ㅣ위에서 그러함은 니와 이의 發音機關이 가장 서루 가깝어서(이를 낼 때는 舌端을 內上齒齦에 거의 닿게 올리며 니를 낼 때는 舌端을 조곰 더 올려서 同處에 닿게 하는 동시에 코를 울림) 音의 큰 틀림이 없는 까닭이니 國文初學者가 이, 니, 리를 混同하여 라行의 이나＜53＞ 行의 이로 구별함만 보아도 알 것이다. 그렇고 만일 이 말들이 ㄴ行의 그것일진댄 어찌하여 冠詞 아래서는 ㄴ音을 내지 안하여 新齒는 새이로 彼名은 저 이름으로 此事는 이일로 발음되며 또는 末音이 母音으로 된 名詞와 어울릴 때도 그러하여 金齒를 쇠이로 木名을 나무이름으로 발음하는가(木葉을 나무ㅅ닢으로 발음하는 따위는 단순한 나무와 잎의 어우름이 아니라 引接詞 ㅅ이 있는 까닭) 그렇므로 나는 ㅣ위의 ㅇ行頭音으로 된 말이 어떤 말 아래에서 ㄴ音을 낸다 하여 곳 ㄴ頭音의 말로 판정함은 옳지 않다고 한다. 그렇나 ㄴ頭音의 말이(ㅣ위의) 아주 없다는 것은 아니다. 님(愛人) 년(女의 賤稱) 냠냠들은 아무렇게 맞후어 보아도 ㄴ頭音이 분명하다(여름도 어느 지방에서는 녀름으로 낸다 하나 우리는 다수를 표준잡음이 可함)
+三. 같은 ㄹ아래에 ㄱ, ㄷ, ㅂ, ㅈ, ㅅ들을 쓰어 놓고 어떤 때는 제대로 내고 어떤 때는 ㄲ, ㄸ, ㅃ, ㅉ들로 변하여 내여 例하면 설(未熟) 고 실(消)더라 불(吹)지 하는 말에는 제대로 내고 설(哀)고 실(載)더라 불(羡)지 하는 말에는＜54＞ 硬音 즉 雙合子音으로 변하여 냄은 條理없는 일이다. 그런데 나의 생각에는 뒤ㅅ것은  을 더하여 섫 싫 붏로, 그밝에 낳(優勝) 잏(連) 짛(作) 봏(注入) 젛(液體를 攪搖하는 것) 잫(製綿絲)들은 이렇게, (이말들을 嶺南에서는 낫 잇 짓 붓 젓 잣으로 말하나 이것은 이 말이 본래 그렇던 것이 아니라 뒤에 변하여 된 證跡이 분명이 있고 또는 그렇게 말하는 이는 소수므로 표준할 수 없음) 未來吐의 ㄹ은 ㅭ로 씀이 옳다고 주장한다. 그 이유는 나의 音學에 대한 의견을 구체적으로 발표하기 전에는 얼른 말하기 어렵으나 간단히 말하면 喉子音 ㅇ을 普通音, ㆆ을 硬音, ㅎ을 激音이라 할 것 같으면 ㄱ, ㄷ, ㅂ, ㅈ, ㅅ들은 각기 제 자리의 普通音, ㄲ, ㄸ, ㅃ, ㅉ, ㅆ들은 硬音, ㅋ, ㅌ, ㅍ, ㅊ, 들은 激音이라고 하겠다. 그런데 喉頭와 다른 발음기관과 가 서루 연결되였으므로 다른 普通音이 喉硬音이나 喉激音을 맞날 때는 發音機의 連鎖作用으로 인하여(이것은 상상이 아니라 실험하여 보면 꼭 그러함) 곳 硬音이나 激音으로 발하는 까닭이다. 이것을 周時經先生音學의 論法대로 말하자면 ㅋ, ㅌ, ㅍ, ㅊ, 이 ㄱ, ㄷ, ㅂ, ㅈ과 ㅎ와의＜55＞ 混合音임과 같이 ㄲ, ㄸ, ㅃ, ㅉ, ㅆ은 ㄱ, ㄷ, ㅂ, ㅈ, ㅅ, 과 ㆆ와의 혼합이라고 하겠다.
+四. 漢字로 된 말을 副詞格으로 쓸 때에 히를 더하여 예하면 완전히 영원히- 이렇게 쓰는 것은 아마 한자로 된 말을 형용사격으로 쓸 때에 하를 더하여 완전하 영원하 - 이렇게 쓰니까 副詞格으로 쓸 때도 하에서 변한 것으로 생각하여 言文이 일치되지 않음에도 불구하고 히를 더하는 것 같으나 이것은 옳지 않다고 생각한다. 왜 그렇냐 하면 純朝鮮말인 넉넉 반듯 똑똑 들에도 形容詞格으로 쓸 때에는 하를 더하고 副詞格으로 쓸 때에는 이를 붙이지 않는가. 우리말에 하는 動詞와 形容詞의 基本語요. 이는 副詞의 基本語라고 할 수 있다. 그렇므로 나는 漢字로 된 말을 副詞格으로 쓸 때에는 꼭 이를 붙임이 옳다고 생각한다.
+五. 낱말에 대하여 낱낱이 말하자면 끝이 없을 것이나 위션 몇가지 말하랴 한다.
+첫째 客格吐에 을, 를(말을 소를의 그것)과 補助吐에 은, 는(말은 소는의 그것)과 現在吐에 는, 느냐, 너니라와 過去吐에 든, (오든 가든의 그것)드니들에＜56＞ 대하여서다. 이것을 현재나 미래의 다수인 배우지 못한 이를 위하여서는 言文一致로 얼 럴 언 넌 넌 너냐 너니라던 더니로 쓰었으면 좋겠으나 이렇게 하자면 이미 배운이에게 적지 않은 불편이 있겠으니 그리는 못하나마 客格吐의 을 를과 補助吐의 은 는은 빼고 그밝의 모든 것은 다 말과 같이 넌 너냐 던더니로 쓰었으면 좋을 줄로 생각한다. 그리하면 여긔에는 이미 배운이에게도 아모 불편을 느낄 것이 없고 또는 補助吐의 는과 現在吐의 넌에 구별이 있게 되여서 좋을 것이다.
+둘째 中을 우리 말로 실제에 가운ㅌ 혹 가운ㄷ으로 말하는데 만일 가운대를 中의 우리말이라 하면 말과 틀릴 뿐 아니라 關係代名詞 대를 붙이면 가운대대가 될지니 더욱 말과 틀릴 것이요. 만일 가운이 中의 뜻이요. 대는 關係代名詞를 붙인 것이라 하면 어찌하여 똑같은 경우에도 위나 아래란 말에는 대를 붙이지 않고 가운에만 대를 붙이는가(例하면 물위에 물아래에 하면서 물가운데라 하는 것) 그렇므로 中의 우리말은 가운ㅌ 혹 기운ㅌ으로 몸을 정함이 좋을 듯 하다고 한다.＜57＞
+六. 끝으로 한마디 말하고자 하는 것은 文法을 歸定하는 방법에 대하여서다. 同社에서 우리 글의 表記例를 각 전문가에게 물어서 그 可否의 綜合統計를 同誌新年號에 발표할 적에 한 말이 그것으로 文法上 斷案을 네리랴 함은 아니라 하였으나 그 뒤의 同誌의 문법이 그것을 표준잡는 듯한 경향이 있음은 완전한 방법이 아니라고 생각한다. 왼 세상이 부인하고 오즉 코펠릭스 한 사람이 주장하든 地動說이 지금에 이르어서는 진리가 되지 않었는가. 客觀的 可否는 결코 사람의 다소에 있지 않다. 그렇므로 우리 文法도 다만 議會式으로 결정치 말고 각 전문가가 論理的으로 서루 辯爭하여 최후의 理論으로 결정함이 좋을 줄로 생각한다.(衆口亂放으로 함부루 떠들는 것을 다 탄하자는 것은 물론 아님) 그래서 이 討議에 쓸 專門의 주간 잡지가 하나 나타나기를 바란다. 日刊新聞은 討議의 材料를 맹글 기간이 넘우 短促하고 월간 잡지는 넘우 늘인 까닭에 주간 잡지가 적당하다고 생각함)＜58＞
+＜50-58＞

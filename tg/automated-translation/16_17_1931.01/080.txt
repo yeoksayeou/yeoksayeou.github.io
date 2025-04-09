@@ -1,0 +1,255 @@
+Magazine Title: 동광 제17호
+Publication Date: 1931년 01월 01일
+Article Title: 朝鮮文字의 歷史的 考察(序篇) (A Historical Study of Korean Writing (Introduction))
+Author: 金允經
+Article Type: 논설 (Essay/Article)
+
+A Historical Study of Korean Writing
+						Kim Yunkyŏng
+
+Preface
+The author was asked by the editor to write something under the title "Han'gŭl." However, the scope encompassed by this is quite broad; viewed vertically, there are the history of writing and the history of linguistic change, and viewed horizontally, there are fields like comparative linguistics, phonetics, word formation (線法), and various aspects of sentence structure. Thus, without prior preparation, I was at a loss as to what to write on the spur of the moment. While searching my bookshelves, I discovered a brief study (小考) regarding the history of our writing in a corner. Therefore, I intend to first use this material as a basis and write roughly in the following order.
+
+Part 1: Introduction
+1. Methods of Expressing Intention
+2. Classification of Language
+(1) Genealogical Classification
+(2) Morphological Classification
+3. Characteristics of the Ural-Altaic Language Family
+(1) Vowel Harmony Rule
+(2) Consonant Rules
+(3) Rules for Initial Sounds (頭音)
+(4) Rules for Final Sounds (末音)
+(5) Sentence Construction Method
+4. Scope of the Korean Language (朝鮮語)
+5. Origin of Writing
+6. Types of Writing
+
+Part 2: Main Body
+1. Writing Systems Before the Creation of Hunminjŏngŭm
+(1) Non-extant Writing Systems
+1. Samhwang Naemun (三皇內文)
+2. Sinji Pisa Mun (神誌秘詞文)
+3. Wangmun Munja (王文文字)
+4. Kakmok Mun (刻木文)
+5. P'yŏnmok Sŏmun (片木書文)
+6. Paekche Writing (百濟文字)
+7. Hyangch'al (鄕札)
+8. Parhae Writing (渤海文字)
+9. Koryŏ Writing (高麗文字)
+(2) Extant Writing Systems
+1. Idu (吏讀)
+2. Kugyŏl (T'o) (口訣(吐))
+2. Hunminjŏngŭm (訓民正音)
+(1) Name
+(2) Reason for Creation
+(3) Creation through Diligent Effort (苦心)
+(4) Promulgation and Implementation
+(5) Structure and Nature
+(6) Various Theories on Genealogical and Symbolic Origins
+(7) Outline of Changes Since Promulgation
+1. King Sejong's Encouragement of Implementation
+2. King Sejo and Successive Reigns' Encouragement of Implementation <19>
+3. Tyrannical Suppression by Prince Yŏnsan
+4. Panchŏl and Hunmong Chahoe Rye (訓蒙字會例)
+5. Sinjŏng Kungmun (新訂國文)
+6. Chu Sigyŏng's Research and Achievements
+7. Contribution of Christianity to the Development of Hunminjŏngŭm
+8. Government-General's Spelling Regulations
+9. Recent Han'gŭl Movement
+(8) Bibliographical Resources for Hunminjŏngŭm Research
+(9) Concluding Remarks                 (End)
+
+However, this brief study (小考) is not so much the author's own special research but merely a compilation of the discussions of various seniors. Even so, it is merely an incomplete, unfinished product, and I feel embarrassed to publish it. Nevertheless, the reason for publishing it is not so much to benefit the readers but rather for the author to receive instruction (敎示) from the senior experts in this field. Therefore, in cases where materials could not be obtained, or where materials were obtained but their sources are unclear (未祥), or where errors may have arisen due to indirect citation (i.e., not relying on the original text) instead of direct citation, I sincerely hope you will not spare the effort to provide earnest (懇篤) guidance, whether by letter or in person. This would not only be appreciated by the author personally but would also be a great fortune (至幸) for junior scholars in general.
+(1930. 11. 4.)
+
+First Part: Introduction
+1. Methods of Expressing Intention
+It can be seen that humans generally have three methods for expressing their intentions. These are speech (language), writing (script), and gestures (actions). Each of these three methods of expressing intention has its own distinct strengths and weaknesses.
+
+First, speech:
+(a) Expresses intention through sound.
+(b) Is understood through hearing (auditory sense).
+(c) Can only be used with those present at the same time and place.
+(d) Is imperfect for conveying messages to those at different times or places, as it relies solely on memory.
+(e) Can evoke emotions like joy, anger, sorrow, and pleasure through intonation (音調).
+(f) Can be used even in dark places.
+(g) Spoken sounds (語音) are prone to changing easily according to time and place.
+
+Second, writing:
+(a) Expresses intention through certain fixed symbols.
+(b) Is understood through sight (visual sense).
+(c) Can be used without limitations of time (시간) or distance (공간).
+(d) Not only has no limitations in conveying messages to different times and places but can also convey them most accurately.
+(e) However, lacking the equivalent intonation (音調) of speech, it is easily misunderstood and lacks emotional impact.
+(f) Cannot be used in dark places.
+(g) Being more fixed and conservative than speech (언어), it changes more slowly than speech, leading to differences like classical vs. modern writing, literary vs. colloquial styles, or historical orthography (記音法/綴法) vs. phonetic orthography.
+
+Third, gestures (꼴):
+(a) Merely serve to assist speech.
+(b) Cannot fully express intentions on their own (although one might say the mute express intentions solely through gestures (몸ㅅ짓), it is incomplete).
+(To be continued in the next issue) <20>
+<19-20>
+
+**Summary**
+
+This article serves as the introduction (序篇) to a planned series by Kim Yunkyŏng on the history of Korean writing (朝鮮文字). Kim outlines the scope, acknowledging the breadth of related fields like linguistics and phonetics, and presents the planned structure, covering pre-Hunminjŏngŭm writing systems, the creation and development of Hunminjŏngŭm, and related historical events and figures up to the contemporary Han'gŭl movement. He humbly presents his work as a compilation seeking feedback from senior scholars. The introduction itself discusses the three primary methods of human communication – speech, writing, and gestures – detailing their characteristics, advantages, and limitations. From a colonial history perspective, the article is interesting as it represents a Korean intellectual's effort in 1931 to systematically study and present the history of the national script, Hunminjŏngŭm (referred to as Han'gŭl in the preface but discussed under its original name), thereby asserting a distinct Korean linguistic and cultural identity during Japanese rule. The explicit mention of the Government-General's spelling regulations and the "recent Han'gŭl movement" situates the study within the contemporary context of language policy and national consciousness under colonialism.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yunkyŏng
+三皇內文	삼황내문	Samhwang Naemun
+神誌秘詞文	신지비사문	Sinji Pisa Mun
+王文文字	왕문문자	Wangmun Munja
+刻木文	각목문	Kakmok Mun
+片木書文	편목서문	P'yŏnmok Sŏmun
+百濟	백제	Paekche
+鄕札	향찰	Hyangch'al
+渤海	발해	Parhae
+高麗	고려	Koryŏ
+吏讀	이두	Idu
+口訣(吐)	구결(토)	Kugyŏl (T'o)
+訓民正音	훈민정음	Hunminjŏngŭm
+世宗	세종	Sejong
+世祖	세조	Sejo
+燕山主	연산주	Yŏnsan-ju (Prince Yŏnsan)
+訓蒙字會	훈몽자회	Hunmong Chahoe
+周時經	주시경	Chu Sigyŏng
+기독교	기독교	Christianity
+총독부	총독부	Government-General
+朝鮮	조선	Chosŏn (Korea)
+Ural-Altaic	우랄알타이	Ural-Altaic
+
+**Glossary**
+
+머리ㅅ말	머리말	Preface (Older spelling with ㅅ)
+밧앗습니다	받았습니다	Received (Older spelling/transcription)
+잇겟고	있겠고	There would be (Older spelling)
+퍽	꽤	Quite, rather
+하야	하여	Doing so, thus, as (Older spelling/form of 하여)
+잇겟음으로	있겠으므로	Because there would be (Older spelling)
+졸지에	졸지에	Suddenly, unexpectedly
+하얏습니다	하였습니다	Did (Older spelling/transcription)
+爲先	우선	First of all
+쓰려합니다	쓰려고 합니다	Intend to write (Older form)
+小考	소고	Brief study, short paper
+잇다는	있다는	That exists (Older spelling)
+외다	입니다	Is/am/are (Older polite sentence ending particle)
+그러하나	그러나	However, but
+敎示	교시	Instruction, guidance, teaching
+받고저	받고자	Wishing to receive (Older form)
+함이외다	함입니다	It is the act of doing (Noun + older polite ending)
+그러한 고로	그러므로	Therefore (Older form)
+未祥한	미상한	Unclear, unknown (source)
+잇다든지	있다든지	Whether there is... (Older spelling)
+懇篤한	간독한	Earnest, sincere
+애끼지	아끼지	Not to spare
+주시기를	주시기를	That (you) give (request form)
+바라는 바 외다	바라는 바입니다	It is what I hope for (Older polite ending)
+至幸	지행	Great fortune, utmost blessing
+보겟음니다	보겠습니다	Will see/consider (Older spelling/transcription)
+잇읍니다	있습니다	There is/are (Older spelling)
+깨닷게	깨닫게	To make realize (Older spelling)
+잇는	있는	Existing (Older spelling)
+고로	고로	Therefore, because (Connective particle, often from Hanja 故)
+하고저	하고자	Wishing to do (Older form)
+인할	인할	To be due to, caused by
+音調	음조	Intonation, tone
+語音	어음	Spoken sound, speech sound
+記音法	기음법	System of recording sounds; orthography
+綴法	철법	Spelling method; orthography
+꼴	꼴	Appearance; here used for 'gesture'
+몸ㅅ짓	몸짓	Gesture, body movement (Older spelling with ㅅ)
+
+
+---------------------------
+
+
+잡지명	동광 제17호
+발행일	1931년 01월 01일
+기사제목	朝鮮文字의 歷史的 考察(序篇)
+필자	金允經
+기사형태	논설
+
+朝鮮文字의 歷史的 考察
+						金允經
+머리ㅅ말
+필자는 편집자에게 「한글」이란 제목으로 무엇이든지 쓰라는 부탁을 받앗습니다. 그러한데 이 범위에 포함될 만한 방면도 퍽 광범하야 縱으로 보아 文字史, 언어변천사가 잇겟고 橫으로 보아 비교언어학적 방면이라든지 발음학적 방면이라든지 단어의 線法이라든지 문장 조직에 관한 여러 가지가 잇겟음으로 졸지에 준비없이 무엇을 쓸까 막연하얏습니다. 그리하야 서가를 뒤지다가 한 귀퉁이에서 우리 文字史에 관한 小考를 발견하엿습니다. 그리하야 爲先 이 자료를 근거삼아 대략 左記順序로 쓰려합니다.
+
+第1 緖篇
+1. 의사표시의 방법
+2. 언어의 분류
+(1) 계통적 분류
+(2) 형태적 분류
+3. 우랄알타이어족의 특질
+(1) 모음의 조화법칙
+(2) 자음의 법칙
+(3) 頭音의 규칙
+(4) 末音의 규칙
+(5) 문장의 구성법
+4. 朝鮮語의 범위
+5. 문자의 발생
+6. 문자의 종류
+
+第2 本論
+1. 훈민정음 창작이전의 문자
+(1) 전하지 못한 문자
+1. 三皇內文
+2. 神誌秘詞文
+3. 王文文字
+4. 刻木文
+5. 片木書文
+6. 百濟文字
+7. 鄕札
+8. 渤海文字
+9. 高麗文字
+(2) 전한 문자
+1. 吏讀
+2. 口訣(吐)
+2. 훈민정음
+(1) 명칭
+(2) 제정의 이유
+(3) 苦心의 제정
+(4) 發布實行
+(5) 조직 及 성질
+(6) 계통적, 상징적 起源 諸說
+(7) 發布 이래의 변천의 개요
+1. 世宗의 실행장려
+2. 世祖와 역대의 실행장려＜19＞
+3. 燕山主의 暴壓
+4. 反切과 訓蒙字會例
+5. 新訂國文
+6. 周時經氏의 연구와 공적
+7. 훈민정음 발전에 대한 기독교의 공헌
+8. 총독부의 철자법 규정
+9. 최근의 한글운동
+(8) 훈민정음 연구자료의 문헌
+(9) 餘論                         (이상)
+
+그러한데 이 小考는 필자의 무슨 특별한 연구가 잇다는 것보다 여러 선배의 所論을 집성함에 불과한 것이외다. 그러하나 그나마도 불완전한 未成品에 불과함으로 發布하기는 부끄럽게 여기는 바외다. 그러하나 발포하는 것은 독자에게 유익 주겟다는 것보다도 필자가 斯界의 先輩大家에게 敎示를 받고저 함이외다. 그러한 고로 재료를 얻지 못한 것이라든지 재료는 얻엇어도 출처가 未祥한 것이라든지 혹은 직접인용이 못 되고 간접인용(즉 原書에 의하지 못한 것)이 됨으로 말미암아 생긴 誤錯이 잇다든지 할 경우에는 반듯이 서신으로나 面對하야서나 懇篤한 교시를 주시는 수고를 애끼지 말아 주시기를 충심으로 바라는 바 외다. 이는 필자 개인에게만 고마울 뿐 아니라 일반 後進들에게 至幸이 될까 하는 바 외다.
+(1930. 11. 4.)
+
+第一篇 緖論
+1. 의사표시의 방법
+사람이 그 의사를 표시함에는 대개 세 가지 방법이 잇다고 보겟음니다. 즉 말(언어), 글(문자), 짓(동작)이 그것이외다. 이 세 가지 의사표시법에는 각각 長短의 특색이 잇읍니다.
+첫째 말은
+(ㄱ) 소리로 의사를 표시하는 것
+(ㄴ) 들음(청각)으로 깨닷게 하는 것
+(ㄷ) 같은 때 같은 곳에 잇는 자에게만 사용할 수 잇는 것
+(ㄹ) 다른 때 다른 곳에 잇는 이에게 전하고저 함에는 기억에 인할 뿐인 고로 불완전한   것
+(ㅁ) 音調의 억양으로 인하야 희노애락의 감정을 일으킬 수 잇는 것
+(ㅂ) 어두운 곳에서도 사용할 수 잇는 것
+(ㅅ) 늘 語音이 때와 곳을 따라 변하기 쉬운 것
+둘째 글은
+(ㄱ) 무슨 일정한 부호로 의사를 표시하는 것
+(ㄴ) 봄(시각)으로 인하여 깨닷게 하는 것
+(ㄷ) 때(시간) 거리(공간)의 제한이 없이 사용할 수 잇는 것
+(ㄹ) 다른 때 다른 곳에 전하기에 제한이 없을 뿐 아니라 가장 정확하게 전할 수 잇는 것
+(ㅁ) 그러하나 말에 대한 音調의 억양이 같은 것이 없는 때문에 오해되기 쉽고 또 감동력이 없는 것
+(ㅂ) 어두운 곳에는 사용할 수 없는 일
+(ㅅ) 말(언어)보다는 고정적, 보수적이어서 말보다 변화가 더딘 고로 古文, 今文의 차이, 혹은 문장체, 구어체, 혹은 역사적 記音法(綴法), 表音的 記音法들의 차별이 생기는 일
+셋째 짓(꼴)은
+(ㄱ) 말을 돕는 일에 불과하는 일
+(ㄴ) 이것만으로는 완전히 의사를 발표할 수가 없는 일(혹 벙어리는 몸ㅅ짓으로만 의사를 표하는 것이라 할 수 잇으나 불완전한 것임)
+(以下次號)＜20＞
+＜19-20＞

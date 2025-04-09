@@ -1,0 +1,92 @@
+Magazine Title: 동광 제7호
+Publication Date: 1926년 11월 01일
+Article Title: 添削部新設 (Establishment of a Correction Department)
+Author: None specified
+Article Type: 소식 (News/Announcement)
+
+Establishment of a Correction Department
+
+Many submissions arrive from readers. Reviewing them one by one takes time, but leaving them unattended feels apologetic to those who wrote with sincerity. Therefore, we have established a Correction Department with the following regulations.
+
+Correction Department Regulations
+
+1.  Write the manuscript on one side only, leave ample margins, and mark "Correction" (添削) in red on the envelope (皮封).
+2.  Write your address and name at the end of the manuscript.
+3.  Enclose 10 *chŏn* (十錢) (by postage stamp (郵票) or money order (爲替)) per manuscript page (20 characters x 10 lines). (This covers the correction fee (添削料) and return postage (返送費)).
+4.  Manuscripts will be corrected, critiqued (批評), and returned within 30 days of arrival.
+5.  If registered mail is required for return, attach an additional 10 *chŏn* for the registration fee (登記料).
+6.  The company (本社) does not take responsibility for loss due to mail (郵便) or natural disasters (天災).
+7.  Outstanding works (佳作) among the submissions may be published in this magazine (本誌).
+
+Selectors: Yi Kwangsu (李光洙), Chu Yohan (朱耀翰)
+<55>
+
+**Summary**
+
+This announcement from *Donggwang* magazine establishes a new manuscript correction service for reader submissions. It outlines the procedures, including manuscript preparation, a fee of 10 *chŏn* per 200-character page for correction and return postage (payable via stamps or money order), a 30-day turnaround time, an option for registered return mail, a disclaimer for lost mail, and the possibility of publication for excellent submissions. The selectors for this service are noted as the prominent literary figures Yi Kwangsu and Chu Yohan. For historians, this article offers insight into the practical operations of a colonial-era Korean magazine, its interaction with aspiring writers, the cost and methods of payment for services, and the active role played by established writers like Yi and Chu in cultivating new literary talent within the constraints of the period. It reflects the development of a public literary sphere and the mechanisms for feedback and potential publication available to readers.
+
+**Named Entities**
+
+李光洙	이광수	Yi Kwangsu
+朱耀翰	주요한	Chu Yohan
+
+**Glossary**
+
+添削部	첨삭부	Correction Department
+讀者	독자	Reader
+投書	투서	Submitted writing, contribution
+精誠	정성	Sincerity, devotion
+未安	미안	Feeling sorry/apologetic (Older form/Hanja rendering of 미안)
+規定	규정	Regulations
+原稿	원고	Manuscript
+皮封	피봉	Envelope (Older term)
+朱書	주서	Writing in red ink
+郵票	우표	Postage stamp
+爲替	위체	Money order, exchange (Often pronounced/read as 'kawase' based on Japanese usage in the period, but 위체 is the Korean reading)
+添削料	첨삭료	Correction fee
+返送費	반송비	Return postage fee
+充	충	To cover, fill (used here for costs)
+到着	도착	Arrival
+批評	비평	Critique, review
+返送	반송	Return (mail)
+登記	등기	Registered mail
+登記料	등기료	Registration fee
+添附	첨부	Attach, append
+郵便	우편	Mail, postal service
+天災	천재	Natural disaster
+遺失	유실	Loss, misplacement
+本社	본사	This company, head office
+佳作	가작	Outstanding work
+本誌	본지	This magazine
+揭載	게재	Publication (in a journal/magazine)
+得함	득함	Can obtain/achieve (Older verb ending style, '-ㅁ을 얻다')
+選者	선자	Selector, judge
+만흔	많은	Many (Older spelling)
+드러옴니다	들어옵니다	Arrives, comes in (Older spelling/formality)
+업고	없고	Without, lacking (Older spelling)
+아레와가튼	아래와 같은	Like the following (Older spelling)
+되엇슴니다	되었습니다	Became, has become (Older spelling/formality)
+지지안음	지지 않음	Does not bear/take (responsibility) (Older negative verb ending)
+잇슬 는	있을 때는	When there is (Older spelling with 아래아 'ㆍ')
+
+
+---------------------------
+
+
+잡지명	동광 제7호
+발행일	1926년 11월 01일
+기사제목	添削部新設
+기사형태	소식
+
+添削部新設
+讀者에게서 만흔 投書가 드러옴니다. 그것을 一一히보자하니 時間이업고 그냥두자니 精誠드려 쓰신분에게 未安함니다. 그래서 아레와가튼 規定으로 添削部를 두게되엇슴니다.
+添削部規定
+一, 原稿는 一面에만 쓰고 餘日을 만히 남기고 皮封에 「添削」이라 朱書할 것.
+二, 住所姓名을 原稿末에 記入할 것.
+三, 原稿一枚(二十字十行)에 對하야 十錢式(郵票或爲替)을 同封 할 것.(이것은 添削料)及返送費로 充함)
+四, 原稿는 到着日부터 三十日內에 添削批評하야 返送함.
+五, 返送時에 登記를 要하면 登記料十錢을 添附할 것.
+六, 郵便及天災로 因한 遺失은 本社에서 責任을 지지안음.
+七, 投稿中佳作이잇슬 는 本誌上에 揭載함을 得함.
+選者 李光洙 朱耀翰
+＜55＞

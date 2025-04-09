@@ -1,0 +1,143 @@
+Magazine Title:	동광 제21호
+Publication Date:	1931년 05월 01일
+Article Title:	銀의 過去及將來 (Silver's Past and Future)
+Author:	徐椿
+Article Type:	논설 (Editorial/Article)
+
+Silver's Past and Future
+						Seo Ch'un (徐椿)
+
+I. Introduction
+
+The silver problem has become a serious global issue since last year when the price of silver experienced a major crash. Simply put, the reason is that the collapse of silver prices has truly enormous effects, firstly, on silver-producing countries, secondly, on silver-standard countries, and thirdly, on gold-standard countries that export large amounts of goods to silver-standard countries. As the fall in silver prices affects various levels and countries in this way, it has simultaneously become one of the significant causes that have further deepened the worldwide panic since last year. Here, we intend to describe somewhat the four issues: (1) What is silver? (2) Why is the price of silver falling? (3) To what extent and how does the impact of the decline affect various countries? And (4) Are there effective countermeasures against the decline in silver prices?
+
+II. What is Silver? A History from Emperor to Commoner
+
+To understand the fundamental reason why the price of silver is falling, one must first know what silver was historically.
+
+There was an era when silver served as the standard currency (本位貨幣) of major countries worldwide, and thus did not itself see price fluctuations (騰落). This was just like today's gold, which serves as the standard currency of various countries around the world and does not itself experience price fluctuations.
+
+Saying this might raise a question: "Why doesn't the material itself see price fluctuations when it becomes the material for the standard currency?" The answer to this question is as follows.
+
+The counterpart to standard currency is subsidiary currency (補助貨). Taking Japan's currency system as an example, since Japan has a gold standard system (金本位制), gold coins are the standard currency, while other silver coins, nickel coins, copper coins, etc., are all subsidiary currency. Now, a standard currency, like a 10-yen gold coin, fully contains 10 yen worth of value within the coin itself. In contrast, subsidiary currency, like a 10-sen nickel coin, does not contain the full 10 sen of value within itself; its intrinsic value is always much lower than 10 sen. This is the fundamental difference between the two. That is, the characteristic of a standard currency is that its intrinsic value (實價値) matches its face value (額面價格), while the characteristic of subsidiary currency is that its intrinsic value is much lower than its face value. Therefore, a standard currency, say under a gold standard system, will be accepted at its face value of 10 yen in any other country with the same gold standard system. However, subsidiary currency cannot be used at its face value in other countries. Hence, what is called standard currency is truly "money," while subsidiary currency is not truly "money."
+
+Now, there are three major elements to a standard currency system: (1) Free coinage (鑄造自由), (2) Free melting (鑄潰自由), and (3) Free export (輸出自由).
+
+For example, let's assume there is a country with a silver standard system (銀本位制) that makes silver coins from four *ch'ong* (匆重) of silver and gives them the name "1 Won" for circulation. Then, the price of 1 *ch'ong* of silver is 25 *chŏn*. (Note: For the price of 1 *ch'ong* of silver to be 25 *chŏn*, the London silver bullion market price would be about 51.2 pence.)＜2＞
+
+At this time, if the price of silver bullion (銀地金 - silver not yet made into currency) happens to fall to 20 *chŏn* per *ch'ong*, then because of "free coinage," holders of silver bullion will take it to the country's mint and ask to have 4 *ch'ong* made into a 1 Won silver coin. Therefore, as long as this free coinage exists, the price of silver is not allowed to fall below 25 *chŏn* per *ch'ong*. Conversely, if the price of silver bullion rises to 30 *chŏn* per *ch'ong*, then those who need silver, instead of buying bullion, will exercise the right of "free melting," melting down the 1 Won silver coins (made of 4 *ch'ong*) to obtain silver bullion for use. Therefore, as long as this "free melting" exists, the price of silver bullion is not allowed to rise above 25 *chŏn* per *ch'ong*.
+
+Thus, when a metal becomes the material for a standard currency, due to the two great freedoms of coinage and melting, the metal used as the standard currency material neither falls below nor rises above the price set by that country's currency law. That is, "it itself experiences no price fluctuations."
+
+Currently, Japan has a gold standard system, and according to the Japanese Currency Law, 1 *ch'ong* of gold is 5 Yen. Consequently, as long as Japan maintains its current currency law, the price of gold bullion will only see minor fluctuations of about 10 *sen* around the center of 5 Yen per *ch'ong*.
+
+Furthermore, since a standard currency system includes free export, if a country has an excess of the metal serving as its standard currency material, it can be freely exported to reduce the quantity. Conversely, if there is a shortage, it can be imported from abroad to remedy the deficiency, indirectly preventing price fluctuations.
+
+(1) For these reasons, during the approximately 220 years from around 1650 AD (mid-17th century) until 1871, when Germany (獨逸) became the second country after Great Britain (英國) to adopt the gold standard, the price of silver remained relatively stable because the prominent European (歐洲) nations of the time used a silver standard for their currency. That is, this period was the era of silver as standard currency, and the price of silver merely fluctuated between 60 and 65 pence on the London silver bullion market. The gold-silver ratio at this time was 1:15.
+
+(2) In 1871, after Germany defeated France (佛國) in the Franco-Prussian War (普佛戰爭) and received reparations of 5 billion gold francs (金「프랑」), it became the second country after Great Britain to adopt the gold standard. Subsequently, over the approximately 45 years until 1915, the world's leading nations abandoned the silver standard and adopted the gold standard. Here, silver lost its throne as the standard currency to gold and was relegated to being merely a commodity. That is, it fell from the glorious position of an emperor to that of a commoner. Consequently, silver began its decline from this time. During these 45 years, silver plummeted惨落 from the 60 pence range to a record low of 21 pence. The reasons for the fall were not only losing its status as standard currency but also the fact that silver production actually increased while its use for currency, unlike before, decreased. Therefore, these 45 years were a sorrowful era for silver, having yielded its position to gold and become a mere commodity; in terms of price, it was an era of gradual decline (漸落時代) for silver.
+
+(3) However, during the five years from 1916 to 1920, due to the influence of the World War, a temporary period of sharp rise (暴騰時代) for silver emerged. The main reasons were: (1) a sharp decrease in silver production due to the impact of the Great War and the civil war in Mexico (墨西哥), the largest silver-producing country; (2) a surge in demand for silver for currency minting as the European belligerent nations needed to mint large amounts of silver subsidiary coins for soldiers' pay and other necessities; (3) a significant increase in the demand for silver nitrate for manufacturing motion picture film, thus greatly increasing the industrial demand for silver during this period; (4) Great Britain imposed an export ban on silver to the Scandinavian countries (스칸디나비아 諸國), the United States (米國) to Southeast Asian countries (東南洋諸國), and Japan (日本) to the entire world; (5) exports from silver-standard Southeast Asian countries to the United States surged, consequently increasing the US demand for silver to pay for these imports.＜3＞ These were the main reasons, causing the price of silver to soar during this period, reaching a high of 89.5 pence. Therefore, these five years were an era of sharp rise for silver.
+
+(4) From 1921, silver began to fall again (反落). The reason was not only that most of the aforementioned factors causing the silver price rebound in (III) disappeared with the end of the war, but also that world silver production surged. During the Great War, the annual production was only 170-180 million ounces (온쓰), but after the war, it surged to exceed 250 million ounces.
+
+(5) Although it began to fall again from 1921, the pace of decline was gradual, maintaining a trend of slow decrease (漸落的). However, finally, during the past year [1930], it truly experienced crash after crash (慘落). The significant causes to point out, besides the worldwide surge in silver production, are (II) Japan's implementation of the lifting of the gold embargo (金解禁), finally returning to a complete gold standard system, and also (III) the two major facts that India (印度) reformed its currency system and exported large quantities of surplus silver to places like Shanghai, China (中國 上海).
+
+Moreover, India's disposal of surplus silver is a major issue that will deal a fatal blow to the future of silver prices. India, the largest consumer of silver, is said to have private hoards amounting to about 3.7 billion ounces, equivalent to about 15 years of global annual silver production, and government holdings of about 700 million ounces, equivalent to about 3 years of global annual production. The fact that this huge amount of silver seeks opportunities to enter the global silver market and suppress prices is the biggest cause of the silver price crash.
+
+III. There is Only Sorrow in Silver's Future
+
+Although the above is very brief, I believe it provides a rough understanding of what silver was, why its price is falling, and what its future might hold. In any case, the crucial reason for silver's disastrous fall (慘落) is that it has lost its position for monetary use, coupled with the fact of its surging production. In recent years, the fact that India, which held the top position among the two major silver-consuming nations, finally abolished the silver standard, and that French Indochina (佛領印度支那) also followed India's lead in abandoning the silver standard, is a fatal blow (致命傷) to silver prices. Thinking this way, there seems to be only sorrow (悲哀) in silver's future. Due to space limitations, I cannot elaborate, but there seems to be no particularly effective countermeasure for silver prices. Looking at past history, there has not been a single successful measure regarding silver prices. (January 29, 1931, Pen laid down 擱筆)＜4＞
+
+**Summary**
+
+This 1931 article by Seo Ch'un analyzes the historical trajectory and recent dramatic fall of silver prices. It explains how silver transitioned from being a stable standard currency in many nations (like gold is today) to a mere commodity subject to market fluctuations after major powers like Germany, followed by others including Japan and India, adopted the gold standard. The author attributes the price collapse to silver losing its monetary role, increased global production, and large-scale sales of surplus silver by countries like India moving off the silver standard. Seo concludes pessimistically that due to these factors, particularly the loss of monetary demand and India's massive overhang, silver's future looks bleak with no effective countermeasures in sight. From a Korean colonial history perspective, the article is interesting as it shows a Korean intellectual analyzing complex global economic issues (gold/silver standards, commodity prices, international trade impacts) during the Great Depression under Japanese rule. It reflects awareness of international events like India's currency reform and Japan's return to the gold standard, demonstrating engagement with global economic shifts impacting the colonized Korean economy, albeit framed within the dominant monetary theories of the time.
+
+**Named Entities**
+
+徐椿	서춘	Seo Ch'un
+日本	일본	Ilbon
+英國	영국	Yŏngguk
+獨逸	독일	Togil
+歐洲	유럽	Yurop
+普佛戰爭	보불전쟁	Po-Pul Chŏnjaeng
+佛國	불국	Pulguk
+墨西哥	멕시코	Meksik'o
+米國	미국	Miguk
+東南洋諸國	동남양제국	Tongnamyang Cheguk
+印度	인도	Indo
+中國 上海	중국 상하이	Chungguk Sanghae
+佛領印度支那	불령인도지나	Pullyŏng Indojina
+倫敦	런던	Rŏndŏn
+스칸디나비아 諸國	스칸디나비아 제국	Sŭk'andinabia Cheguk
+
+**Glossary**
+
+銀	은	Silver
+過去	과거	Past
+將來	장래	Future
+暴落	폭락	Sharp fall, crash (price)
+本位貨幣	본위화폐	Standard currency (monetary base)
+金本位制	금본위제	Gold standard system
+銀本位制	은본위제	Silver standard system
+騰落	등락	Fluctuation (rise and fall)
+補助貨	보조화	Subsidiary currency/coinage
+實價値	실가치	Real value, intrinsic value
+額面價格	액면가격	Face value, nominal price
+鑄造自由	주조자유	Free coinage
+鑄潰自由	주궤자유	Free melting (of coins)
+輸出自由	수출자유	Free export
+地金	지금	Bullion, unworked metal
+匆	총	Ch'ong (An old unit of weight, approx. 3.75g)
+片	편	P'yŏn (Likely referring to Pence, the British currency unit, used for London silver price)
+온쓰	온스	Ounce
+普佛戰爭	보불전쟁	Franco-Prussian War
+慘落	참락	Disastrous fall, plummet
+漸落	점락	Gradual fall/decline
+暴騰	폭등	Sharp rise, surge (price)
+金解禁	금해금	Lifting of the gold embargo (specifically Japan's 1930 action)
+擱筆	각필	To lay down one's pen (indicating the writing date)
+잇다	있다	To be, to exist (older spelling)
+하야	하여	Doing, via (older spelling/form of 하여)
+떠러지나	떨어지나	Does it fall? (older spelling)
+씨우든	쓰이던	Was used (older spelling/form of 쓰이던)
+갓든	갔던	Went (older spelling/form of 갔던)
+안코	않고	Not doing (older spelling/form of 않고)
+
+
+---------------------------
+
+
+잡지명	동광 제21호
+발행일	1931년 05월 01일
+기사제목	銀의 過去及將來
+필자	徐椿
+기사형태	논설
+
+銀의 過去及將來
+						徐椿
+一. 머리말
+銀問題는 銀價가 一大暴落을 演出하든 昨年부터 世界的으로 重大한 問題가 되어 가지고 잇다. 그 까닭을 簡單히 말하면 銀價의 暴落이 첫째, 銀産國에, 둘째, 銀本位國에, 셋째, 銀本位國을 相對로 巨額의 商品을 輸出하고 잇는 金本位國에 各各 미치는 영향이 實로 莫大한 바가 잇기 때문이다. 銀價의 暴落은 이와 같이 여러벌로 또는 여러 나라에 영향을 미치는 것인고로 銀價의 暴落은 同時에 昨年以來의 世界的恐慌을 更一層 深刻하게 한 重大한 原因의 하나가 되어 가지고 잇다. 여기서 우리는 (一) 銀은 무엇이냐, (二) 銀價는 왜 떠러지나, (三) 低落의 영향이 各 나라에 어떠한 程度로 어떠케 미치나, 또는 (四) 銀價低落에 有效한 對策이 잇나 等等 이 네 가지 問題에 對해서 若干 叙述하는 바가 잇고저 한다.
+
+二. 銀은 무엇이냐? 帝王으로부터 平民에의 歷史
+銀값이 떠러지는 根本理由를 알고저 하면, 먼저 銀의 歷史로 보아 銀이 무엇이엇든가를 알아야 한다.
+銀은 일즉 世界이 主要한 各國의 本位貨幣로서 그 自身은 價格의 騰落을 보지 아니하든 時代가 잇엇든 것이다. 마치 今日의 金이 世界各國의 本位貨幣로서 그 自體는 價格의 騰落을 보지 아니하는 것과 마찬가지엇다.
+이러케 말하면 여기서 한가지 疑問이 생길 것이다. 卽 「本位貨幣의 材料가 되면 어찌하야 그 自身은 價格의 騰落을 보지 아니 하느냐?」 이러한 疑問이 생길 것인데 그 疑問에 對한 解答은 이러하다.
+本位貨에 對한 말은 補助貨라는 것인데 지금 日本의 貨幣制度를 例로 들어 말하면 日本은 金本位制기 때문에 金貨가 本位貨요, 其他 銀貨, 白銅貨, 銅貨等은 다 補助貨다. 그런데 本位貨는 10圓짜리 金貨하면 그 金貨 自體에 10圓의 價値를 完全히 가지고 잇는데 補助貨는 이와 反對로 10錢짜리 白銅貨하면 그 自體에 10錢의 價値를 다 가지지 못하고 恒常 10錢 價値보다 훨신 以下의 價値 밖에 못가지엇다는 것이 兩者間에 根本的으로 相異한 點이다. 卽 本位貨는 그 實價値가 額面價格과 一致한다는 것이 그 特徵이요, 補助貨는 그 實價値가 額面價格보다 훨신 以下라는 것이 그 特徵이다. 따라서 本位貨는 假令 金本位制라면, 같은 金本位制의 어느 나라에 가지고가든지 그 額面價格 10圓이면 10圓으로 通用이 되지마는 補助貨는 그것이 다른 나라에 가서는 額面價格대로 씨우지는 못하는 것이다. 故로 本位貨의 稱을 듣는 것이 정말 「돈」이요, 補助貨는 그것이 정말 「돈」이 아니다.
+그런데 本位貨制에는 三大要素가 잇다. 卽 (一) 鑄造自由, (二) 鑄潰自由, (三) 輸出自由는 그 三大要素이다.
+假令 例하면 銀四匆重으로 銀貨를 만들어 가지고 여기다가 1圓이라는 名稱을 붙여 가지고 此를 通用하는 銀本位制의 나라가 잇다고 하자. 그러면 銀1匆이 價格이 25錢이다. (註 銀1匆價格이 25錢이 되려면 倫敦銀塊時勢로는 約 51,2片이＜2＞ 된다.)
+이때 銀地金(貨幣로 되지 안코 잇는 銀)의 價格이 1匆에 20錢으로 떠러지는 境遇가 잇다고 하면 그제는 「鑄造自由」가 잇기 때문으로 銀地金의 所持者는 이것을 그 나라의 造幣局으로 가지고 가서 4匆重을 1圓으로 쓰는 銀貨弊로 만들어 달라고 한다. 그러기 때문으로 此 鑄造自由가 잇는 限까지는 銀價는 1匆 25錢 以下로 低落됨을 許치 아니한다. 또한 이와 反對로 銀地金의 價格이 올라가서 1匆에 30錢으로 올라가는 境遇가 잇다고 하면 그제는 銀을 쓸 사람들은 銀地金을 사는 대신에 「鑄潰自由」의 權을 行使하야 4重에 1圓하는 銀貨弊를 녹이어서 銀地金으로 만들어 가지고 使用하게 된다. 故로 此 「鑄潰自由」가 잇는 限까지 銀地金의 價格은 1匆에 25錢 以上으로 騰貴함을 許치 아니 한다.
+如斯히 어떤 金屬이 本位貨幣의 材料가 되면 鑄造 及 鑄潰의 兩大自由가 잇기 때문으로 그 本位貨幣의 材料가 되는 金屬은 그 나라 貨幣法으로 定한 價格보다 떠러지지도 안코 올라가지도 안는다. 卽 「그 自體에는 價格의 騰落이 없다」
+지금 日本은 金本位制요, 또한 日本貨幣法의 定한 바에 依하면 金 1匆가 5圓이다. 따라서 金1匆는 日本이 現在의 貨幣法을 그냥 쓰고 잇는 날까지는 金地金의 價格은 1匆 5圓을 中心으로하야 10錢內外하는 僅少한 變動을 볼 따름이다.
+또한 本位貨幣制에는 輸出自由가 잇기 때문으로 1國에 그 本位貨幣의 이 材料가 되는 金屬이 過多하면 此를 任意로 輸出하야 그 量을 줄이고 또한 過少하면 此를 外國으로부터 輸入하야 그 不足의 弊를 救하야 間接으로 그 價格의 變動을 防止하는 것이다.
+(一) 何如間 이러한 理致가 잇기 때문으로 일즉 西曆 1650年傾(17世紀 中葉)으로부터 獨逸이 英國에 次하야 第2位로 金本位制를 採用하든 1871年에 至하는 約 220年間은 當時의 有數한 歐洲諸國이 貨幣에 銀本位制를 採用하엿기 때문으로 銀價에는 別로 變動이 없엇다. 卽 이 期間은 銀의 本位貨幣 時代로서 銀價는 다만 倫敦銀塊 時勢로 말하면 60片 乃至 65片의 間을 往來하엿을 따름이다. 이때의 金銀比率은 金1對 銀15의 比이엇섯다.
+(二)  曆 1871年에 獨逸이 普佛戰爭에 佛國을 이기고 나서 받은 賠償金 50億金「프랑」을 基礎로 하야 英國에 次하야 第2位로 金本位制를 採用하게 되자 그後 1915年에 至하는 約 45年間에 世界의 有數한 列國은 다 銀本位制를 廢棄하고 金本位制를 採用하게 되엇다. 여기서 銀은 金한데 本位貨라는 王座를 빼앗기고 單純한 一商品으로 떠러져 버렷다. 卽 帝王의 榮位로부터 一平民으로 떠러졋다. 따라서 銀은 이때부터 低落을 開始하엿다. 그리하야 이 45年 間에 銀은 60片臺로부터 最低 21片까지 慘落한 記錄이 잇엇다. 떠러진 原因은 本位貨인 地位를 잃은 데도 잇거니와, 또 하나는 銀産額은 도리어 增加햇는데 前같으면 貨幣用으로 씨우든 것이 못씨우는 데도 잇엇다. 故로 이 45年間은 銀이 金한테 그 位를 讓渡하고 單純한 商品으로 化해버린 悲哀의 時代로서 價格을 標準으로 말하면 銀이 漸落時代이엇다.
+
+(三) 그러든 것이 1916年으로부터 同 20年까지의 5年間에는 世界大戰의 영향으로 銀의 一時的 暴落時代를 現出하엿섯는데 그 主要한 原因을 말해보면 (1) 大戰 영향과 및 銀의 最大 産出國인 墨西哥의 內亂으로 銀産額이 激減한 것, (2) 歐洲 叅戰各國이 軍隊의 月給支出用과 및 그他의 必要로 銀補助貨를 많이 만들게 되엇섯기 때문으로 貨幣鑄造用으로서의 銀需要가 激增한 것, (3) 活動寫眞 「퓌-름」製造用 硝酸銀의 수요가 激增한 故로 이 기간 中에는 工藝用으로서의 銀의 수요도 大히 증가하엿든 것, (4) 英國은 「스칸디나비아」 諸國에 對하야, 米國은 東南諸國에 對하야, 日本은 全世界에 對하야 銀의 國外輸出을 금지해 버렷든 것, (5) 銀本位國인 東南洋諸國이 對米國 輸出이 激增하엿든 고로 따라서 米國은 輸入品의 代價支拂用으로서의 銀需要가 격증하엿든＜3＞ 것 等等이 主要한 原因이 되어서, 이 기간에는 銀價가 暴騰을 개시하야 최고 89片 2分1까지 올라 갓든 것이다. 故로 이 5년간은 銀의 暴騰時代다.
+(四) 1921년부터 다시 銀은 反落을 개시하엿다. 그 이유는 前記 (三)에서 본 銀價反騰의 諸 原因의 대부분이 戰爭의 終熄과 함께 소멸되엇을 뿐만이 아니라, 세계의 銀産額이 격증한 까닭이다. 大戰 기간 중의 年産額은 1억 7,8천만 「온쓰」밖에 더 안되엇는데 戰後에는 격증하야 2억 5천만 「온쓰」를 초과할 지경이엇다.
+(五) 如斯히 1921년부터 反落을 개시햇으나 그 低落의 程度는 완만하야 漸落的 보조를 취해 오든 바 드디어 昨年 1년간은 실로 慘落에 慘落을 거듭햇다. 그 중대 원인으로 곱을 것은, (1) 세계적으로 銀産額이 격증햇다는 원인 이외에, (二) 日本이 金解禁을 단행하야 드디어 완전한 金本位制로 도라갓다는 것과 또한, (三) 印度가 幣制를 개혁하고 多量의 不用銀을 中國 上海 등지로 수출하엿다는 二大事實이 잇다.
+그러고 印度의 不用銀 처분이라는 것은 銀價의 장래에 치명적 타격을 줄 큰 문제 거리다. 印度는 銀의 最大需要國으로서 民間 貯藏額이 약 15개년의 銀의 세계적 年産額에 상당하는 37억「온쓰」가 잇고 政府 소유가 약 3개년의 世界年産額에 상당하는 7억「온쓰」가 잇다고 한다. 이 巨額의 銀이 기회잇는 때마다 세계적 銀市場으로 진출하야 銀價를 압박하려고 하는 것이 銀價를 폭락시키는 最大原因이 되어 가지고 잇다.
+
+三. 銀의 前途에는 다만 悲哀가 잇을 뿐이다
+上述이 甚히 소략하나 此에 依하야 銀은 어떠한 물건이든가 또는 銀價는 왜 떠러지나, 그러고 銀의 장래는 어떠할가 하는 諸問題에 대해서 어렴풋하나마 大槪 짐작이 잇을 것으로 믿는다. 하여간 銀이 慘落하는 重大原因은 銀이 貨幣用으로서의 지위를 잃엇다는 것이, 저 銀의 生産額激增의 사실과 아울러서 중대한 원인이 되어 가지고 잇다. 近年에 와서는 銀의 二大需要國 가운데서도 第一位를 점하고 잇는 印度가 드디어 銀本位制를 폐기하고, 또한 佛領印度支那도 印度의 뒤를 뒀°라서 銀本位制를 폐기하엿다는 사실이 銀價에 대해서는 致命傷이다. 이러케 생각하면 銀價의 장래에는 다만 悲哀가 잇을 따름이다. 紙面關係로 昭詳한 말은 못하나 銀價에는 별로 효과가 잇을 만한 대책이 없다. 과거의 역사를 보아도 銀價에 대한 대책으로 成功한 것이라고는 하나도 없다.(1931, 1월 29일 擱筆)＜4＞
+＜2-4＞

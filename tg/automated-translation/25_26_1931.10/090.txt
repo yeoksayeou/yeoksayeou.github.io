@@ -1,0 +1,554 @@
+Magazine Title: 동광 제26호
+Publication Date: 1931년 10월 04일
+Article Title: 訓民正音의 創定, 조선문자의 역사적 고찰(8) (The Creation of Hunminjŏngŭm, A Historical Study of Korean Script (8))
+Author: 金允經
+Article Type: 논설 (Editorial/Article)
+
+The Creation of Hunminjŏngŭm, A Historical Study of Korean Script
+						Kim Yun'gyŏng
+
+II. Hunminjŏngŭm
+
+1. Names
+
+The Korean script currently in use was promulgated under the name "Hunminjŏngŭm" (訓民正音) at the time of its announcement. Chŏng Inji's (鄭麟趾) preface clearly states, "It was named Hunminjŏngŭm." Its meaning was stated as "The correct sounds for teaching the populace (百 姓셩 치시는 正졍 소리라)." Although the name "Ŏnmun" (諺文) often appears in the Sillok (Veritable Records) and other documents and language, this is merely the habitual term used by rotten Confucian scholars and officials poisoned by the Sadae ideology (事大思想) towards China (支那), a name looking down on the native script compared to Chinese characters. It is the same as calling the Japanese script "Kana" (假名). Also, in the preface of the "Hunmongjahoe" (訓蒙字會) compiled by Ch'oe Sejin (崔世珍) in the 22nd year of King Chungjong (丁亥, 1527 AD), it is written "commonly called Panch'ŏl" (俗謂 反切), indicating it was also called Panch'ŏl. The original meaning of Panch'ŏl is to combine the sounds of two characters to create one sound. This was invented by Sun Yan (孫炎) in the late Han Dynasty of China (東漢 獻帝 24th year, around 219 AD), and later, from the Eastern Jin (東晉) period, it was changed to "ch'ŏl" (切), hence the combined term "Panch'ŏl." For instance, when indicating the pronunciation of a Chinese character, saying "Kun po pan" (君步反) or "Kun po ch'ŏl" (君步切) means combining the initial consonant of "Kun" (君, like ㄱ) and the medial vowel of "Po" (步, like ㅗ) to produce a sound like "Ko" (高, 고). However, it is difficult to know why "Panch'ŏl," with this meaning, came to be used as a nickname for Hunminjŏngŭm. Perhaps because Hunminjŏngŭm is a phonetic script, the distinction between initial, medial, and final sounds is clearly visible in the script itself at a glance. Therefore, Panch'ŏl, which was a progressive pronunciation marking method for Chinese characters, might have been adopted as a common name for Hunminjŏngŭm, which has the richest pronunciation system. It is also called "Kagya" (가갸), which takes the first two syllables from the arrangement order in the Hunmongjahoe preface to name the whole system, similar to how the Western alphabet is named "alphabet" from its first two letters, alpha and beta. Since the late Han (韓末) periods of Kwangmu (光武) and Yung Hŭi (隆熙), Chu Sigyŏng (周時經), the progenitor of grammar scholars, used the new name "Han'gŭl" (한글). Several years ago, when the 8th sexagenary cycle (i.e., the 481st year) of the promulgation of Hunminjŏngŭm occurred, the general society, centered around Korean language researchers, observed the first commemoration, adopted "Han'gŭl" as the name for the Korean script. Since Hunminjŏngŭm was promulgated in the 9th lunar month, the last day of this month, the 29th, was designated as the commemoration day for Hunminjŏngŭm and called "Kagya Nal" (가갸날). Thus, "Han'gŭl" has now come into general use. (Four lines omitted - original text)
+
+2. Reasons for Creation
+
+Despite the flourishing of Chinese characters (Hanja) and the existence of ancient scripts, Idu (吏讀), and Kugyŏl (口訣) during the reign of the fourth king of the Yi Dynasty (李朝), Sejong (世宗) (1419-1450 AD), why was Hunminjŏngŭm newly created? <28> While various reasons can be given, King Sejong not only brought about the golden age of modern Korean thought but was also a monarch who made brilliant contributions worthy of a section in world cultural history. In a word, it can be called the expression of his creative desire. However, as this is too vague an answer, let's be more specific: the reason is clearly stated in the royal edict (詔勅) which serves as the preface to Hunminjŏngŭm. That is, "The sounds of our country's language are different from those of China (中國), and do not correspond with the written characters. Therefore, among the ignorant populace (愚民), there are many who, having something they wish to say, are ultimately unable to express their feelings. I, lamenting this, have newly created twenty-eight letters, wishing to enable every person to learn them easily and use them conveniently for daily life (欲使人人 易習便於日用耳)." Based on documented sources, the reasons for the creation of Hunminjŏngŭm can be summarized into the following four points:
+
+First, the sense of shame that Chinese characters, a foreign script, had become the official script – a motivation of nationalism (國家主義). The Tongguk Munhŏn Pigo (東國文獻備考,乐考训民正音条) states, "The King believed that while various countries each created scripts to record their national dialects, our country alone lacked one, and thus created the 28 letters (遂製子母二十八字)," clearly evidencing this.
+
+Second, Chinese characters were not only foreign but also extremely difficult for practical use, preventing the ignorant populace (愚民) from freely expressing their will – a motivation of populism (民衆主義), i.e., equal opportunity-ism (기회균등주의). King Sejong deeply loved the people, observed the situation where "among the ignorant populace, there are many who, having something they wish to say, are ultimately unable to express their feelings," and lamented, "I lament this (予爲此憫然)." His unbearable compassion finally led him to create a script so that anyone could freely express their thoughts, making it a script for the masses.
+
+Third, the motivation of culturalism (文化主義) to promote culture. King Sejong, having diligently studied Chinese characters since his time as Crown Prince, experienced their difficulty and lack of easy comprehension. He realized that if even he, a noble person unconstrained by time, resources, or power, could not easily master them, how could the commoners (庶民) and the poor (窮民) ever find the time or means to learn them for practical use and cultural development? Chŏng Inji's preface to Hunminjŏngŭm also states, "However, the local dialects and colloquialisms are not the same, and those learning writing suffer from the difficulty of understanding the meaning... Our Majesty created the 28 letters of the correct sounds... By using this to interpret writings, one can understand their meaning (以是解書, 可以知其義)."
+
+Fourth, the motivation of fairness in judicial matters (司法의 공평주의). Phrases in the royal edict like "among the ignorant populace, there are many who, having something they wish to say, are ultimately unable to express their feelings," or in Chŏng Inji's preface, "those administering justice are troubled by the difficulty of conveying the intricacies... By using this to hear lawsuits, one can ascertain the true circumstances (以是聽訟, 可以得其情)," suggest that the difficulty of using complex, unintelligible Chinese characters in legal administration, making it hard to thoroughly understand the situation of the ignorant populace and adjudicate fairly, was one of the motivations for creating an easy script for the common people and the masses.
+
+3. The Hardship of Creation
+
+Considering the scientific and systematic structure of Hunminjŏngŭm, it seems impossible even for a genius to create it in a short period. According to the entry in the Sejong Sillok (世宗實錄) for the 12th month of the 25th year (癸亥), "This month, the King personally created the 28 letters of Ŏnmun. The letters imitated ancient seal script (古篆), divided into initial, medial, and final sounds, which are combined to form characters. All characters and the country's vernacular language can be written. Though the letters are simple and concise, their transformations are endless. This is called Hunminjŏngŭm," we know Hunminjŏngŭm was established in the 12th month of the 25th year of Sejong's reign (癸亥). However, it is regrettable that there is no way to know the full story of the arduous research involved. Nevertheless, a passage from the petition submitted by Vice Director of the Chiphyŏnjŏn (集賢殿, Hall of Worthies, later 弘文舘) Ch'oe Malli (崔萬理) and others, who opposed this great undertaking, provides a glimpse of this hardship: "Regarding the royal visit to Ch'ŏngju's Ch'osu mineral spring (淸州椒水之幸), out of special concern for the year's harvest, all affairs related to the royal retinue were simplified. Even official reports were delegated to the State Council. As for Ŏnmun, it is not an urgent matter of state necessity. Why engage in it so diligently while away from the palace, burdening the sacred body during a time meant for recuperation (以煩聖躬調燮之時乎)?" This hints at the intense effort. That is, the King worked so hard day and night on creating the Correct Sounds that he developed an eye ailment, requiring annual trips to medicinal springs like those in Onyang (溫陽) or Ch'ŏngju's Ch'ojŏng (椒井) for treatment. Concerned about the burden on the people, he reduced the royal retinue (扈從) and provisions (供奉則節) by 80-90%. He even had to delegate general state affairs and public duties to the State Council. Yet, even in such circumstances, he did not cease his efforts, bringing the work on the Correct Sounds research even to the temporary residence (行在所) and devoting himself daily to research with the Crown Prince (later King Munjong, 文宗), despite the harm to his eye recuperation. Thus, Hunminjŏngŭm, created with such hardship, was completed in the 12th month of the 25th year (癸亥), but less than two months later, strong opposition arose. <29> However, a person who disregarded his own illness was unlikely to yield to any other difficulty. The opposition eventually manifested in concrete action: the lengthy petition in six articles submitted on the 20th day of the 2nd month of the 26th year (甲子) by Chiphyŏnjŏn Vice Director Ch'oe Malli and others (Note 24). The gist of the petition is as follows:
+
+First, since the founding ancestors of our dynasty, we have served the great (事大, China) with utmost sincerity, uniformly following Chinese institutions (華制). Now, at a time when we should achieve uniformity in writing and standards (同文同軌), you have created Ŏnmun, startling the royal ear. And although it is said that the letter forms of Ŏnmun imitated ancient seal script (篆文), their use of sounds and combination of letters all oppose ancient practices (古實) and are entirely without foundation. If this spreads to China and someone criticizes it, would it not betray the spirit of serving the great and admiring China (事大慕華)?
+
+Second, since ancient times, within the Nine Provinces (九州, i.e., China), although customs might differ, separate scripts have not been created due to dialects. Only the Mongols (蒙古), Xixia (西夏), Jurchens (女眞), [Two characters omitted - original text] Tibetans/Western Barbarians (西蕃), etc., each have their own scripts, but these are the doings of barbarians (夷狄) and not worth mentioning. China throughout its history has taught that our country possesses the enduring customs of Kija (箕子). Our civilization, rites, and music are comparable to China's (中華). Now, by creating a separate Ŏnmun, you intend to abandon China and become like the barbarians yourself. This is akin to discarding Sumatran camphor (蘇合之香) and choosing mantis dung pills (螳螂之丸). Is this not a great stain on civilization?
+
+Third, the Idu script created by Sŏl Ch'ong (薛聰) of Silla (新羅), although called vulgar (鄙俚), borrowed characters commonly used in China (中國) and applied them to auxiliary words and particles, so it is inherently inseparable from Chinese characters. Therefore, even lowly clerks (胥吏) and servants (僕隷), if they truly wish to learn it, must first read several books to gain a basic knowledge of characters before they can easily use Idu. Using Idu allows one to convey meaning through characters, thus many come to know characters through Idu. Therefore, it also aids in promoting learning (興學). If our country had been ignorant of writing from the beginning, like a society communicating through knotted cords (結繩), then borrowing Ŏnmun for temporary use might be acceptable. However, those who uphold righteousness would surely say, "Rather than spreading Ŏnmun as a stopgap measure (姑息之手段), it is better to learn the characters used throughout China (中國) as a long-term plan (長久之計策)." Moreover, Idu has been used for thousands of years without any inconvenience in official documents (簿書), appointments (期會), etc. Why is there a need now to discard a long-used script with no drawbacks and create a separate, vulgar, useless script (鄙諺無益之文)? If Ŏnmun is implemented, clerks (吏) will learn only Ŏnmun and neglect scholarship, separating officials from literacy (文字). If indeed officials (吏員) can establish themselves using Ŏnmun, then future generations will all follow suit. If one can establish oneself in the world with just 27 Ŏnmun letters, why would people need to exert themselves in difficult scholarly inquiry? If this happens, after several decades, those who know characters will gradually decrease. Even if they know some, without understanding the writings of the sages, they will be like facing a wall (面牆), unable to distinguish right from wrong. What use is there in merely being proficient in Ŏnmun? Our country's accumulated ancient culture (古文化) will probably be swept away entirely. Idu, though a form of writing, is looked down upon even by the educated, who intend to use it only for clerical documents (吏文). How much more so for Ŏnmun, which has no connection to real writing (文字) and is entirely used for vulgar street language (委巷之俚語)? Even if Ŏnmun had existed since the previous dynasty, would anyone still use it habitually in today's civilized rule? It is clear that arguments for its abolition would arise. Disliking the old and favoring the new is a common affliction of all ages (古今之通患). Now, this Ŏnmun is merely a novel skill (新奇之一藝), harmful to learning (學) and unbeneficial to governance (治). Thinking it over repeatedly, we cannot see its correctness.
+
+Fourth, some might say that if criminal confessions (刑殺獄辭) are written in Idu script, ignorant people (愚民) unfamiliar with literary style might easily suffer wrongful conviction (寃罪) due to a single mistaken character. However, if Ŏnmun is now used to record their words exactly as spoken and read back to them, even the most ignorant person could easily understand, thus preventing wrongful convictions. But even in China, where speech and writing match, wrongful judgments (寃枉) in lawsuits are extremely common. Taking our country's example, even if a prisoner knows Idu and reads his own confession, understanding its errors, many still confess falsely under torture (捶楚). This clearly shows that wrongful convictions are not due to ignorance of the confession's meaning. If this is the case, how would using Ŏnmun be any different? Ultimately, the fairness (平) or unfairness (不平) of criminal justice lies in the quality of the judicial clerks (獄吏), not in whether speech and writing correspond. Regarding the attempt to simplify legal proceedings with Ŏnmun, we subjects fail to see its correctness. <30>
+
+Fifth, generally, in establishing achievements (事功), immediate results (近速) are not valued. However, the state's recent measures all seem to strive for quick completion (速成). This is likely not the path of good governance. Even if implementing Ŏnmun is unavoidable, this is a major event that changes customs (風俗), so it should first be discussed with the Chief State Councilor (宰相) and all officials (群臣). Even if all officials and the people deem it acceptable, it should be reconsidered repeatedly, questioned against the examples of past sage kings, considered in relation to China without shame, and verified against the judgment of sages for generations to come (百世聖人) without doubt, only then should it be implemented. But now, without broadly consulting public opinion (群議), you gather a dozen or so clerks (吏輩) to learn it. You also lightly alter the already established 'Dragon Script' (龍書) of ancient predecessors to accommodate the baseless Ŏnmun, gather a dozen or so artisans (工匠) to carve blocks and widely disseminate it. What will the public opinion of the world and future generations be? Also, regarding the current royal visit to Ch'ŏngju's Ch'osu spring (淸州 椒水之幸), out of special concern for the year's poor harvest (手歉), all affairs related to the royal retinue were extremely simplified, reduced by 80-90% compared to before, and most official reporting duties were delegated to the State Council. Things like Ŏnmun are not urgent matters of state necessity (國家 緩急). Why pursue it so hastily even while away at a temporary residence (行在所), troubling the care and nourishment (攝養) of the royal body?
+
+Sixth, the ancient scholars said, "All diverting amusements distract the will (凡百 玩好는 다 의지를 빼앗는다)." Even things like calligraphy (書札), though a pursuit of scholars (儒者), if one becomes too attached, one loses focus. Now, the Crown Prince (東宮), although his virtue is accomplished, should still be concentrating his mind fully on sagely learning (聖學), seeking out areas where he is still lacking. This [Ŏnmun] is merely one of the literary arts (文士文藝). How much more so when it offers no benefit to the myriad ways of governance, wastes energy (精力), passes the entire day, and harms scholarship? We subjects, serving by virtue of our minor skills in writing (文墨之末技), feel compelled by what is in our hearts and dare not remain silent (含嘿), humbly revealing our innermost thoughts (肺腑) and offending the royal virtue (聖德).
+
+While a great enlightened ruler like Sejong appeared, simultaneously, obtuse and corrupt simpletons like this Ch'oe Malli also emerged. It can only be seen as the ugly behavior of a "pseudo-enlightened person" (假明人) poisoned by the "Admire China pill" (慕華丸), but it is pitiable for him that he left behind a page of shame in history that can never be washed away. However, one wonders if such symptoms are not still prevalent today through inheritance. Whatever the content, because such a petition was submitted, King Sejong addressed Malli and the others:
+
+"You say that Ŏnmun's use of sounds and combination of letters all oppose ancient practices, but isn't Sŏl Ch'ong's Idu also based on different sounds? Moreover, the original intention of creating Idu was to make things convenient for the people. If it was to make things convenient for the people, isn't the current Ŏnmun also intended to make things convenient for the people? Why do you deem Sŏl Ch'ong right and your own sovereign wrong? Also, do you know rhyme books (韻書)? Do you know the seven initial sounds (七音) and phonetic radicals (字母) of the Siddham script (西聲)? If I do not correct the rhyme books, who will? Furthermore, the petition mentions 'a novel skill.' I, in my old age and boredom, merely take writing as a companion. Why would I dislike the 'old' and favor the 'new' to create this? This is not like hunting (田獵) or falconry (放鷹). Your words border on presumption (僭越). Also, as I am aged, the Crown Prince manages all state affairs (庶務), participating in decisions even on minor matters (細事). He has particularly participated in decisions regarding Ŏnmun. If the Crown Prince were always kept in the Eastern Palace, how could the eunuchs manage affairs? You, as attendant officials, clearly know my intentions, yet you say such things. Is this truly right?"
+
+He asked责问 them, showing considerable anger. Ch'oe Malli and the others responded:
+
+"Sŏl Ch'ong's Idu, although using different sounds, follows the sounds and meanings and is inherently inseparable from the context of auxiliary words and characters. Now, Ŏnmun combines all letters written side-by-side, and the way its sounds and interpretations change cannot be called proper character form (字形). Also, when we subjects mentioned 'a novel skill,' we were speaking specifically in the context of literary arts (文藝), without any ulterior motive. The Crown Prince must participate in decisions on all public matters, even minor ones. But for non-urgent matters, why is there a need to spend the entire day thinking about them?"
+
+they replied respectfully. Sejong responded again:
+
+"Previously, Kim Mun (金汶) submitted that creating Ŏnmun was not particularly unacceptable, but now he reverses himself and says it is unacceptable. Also, Chŏng Ch'angson (鄭昌孫) said that after promulgating the 'Illustrated Conduct of the Three Bonds' (三綱行實), we have yet to see an outpouring of loyal subjects, filial sons, and virtuous women; whether people act virtuously or not depends solely on their innate disposition (資質), so why must it be translated into Ŏnmun for people to emulate? How can these be the words of Confucian scholars (儒者) who understand principles (識理)? They are extremely useless vulgar Confucians (俗儒)." <31>
+
+The King then instructed again:
+
+"I called you initially not to punish you, but merely to inquire about one or two points in your petition. You disregard reason and answer evasively. Your crimes are difficult to pardon."
+
+He then ordered Vice Director Ch'oe Malli, Directorial Secretary Sin Sokcho (辛碩祖), Directorial Attendant Kim Mun, Expositor-in-waiting Chŏng Ch'angson, Vice-Compiler Ha Wiji (河緯地), Vice-Redactor Song Ch'ŏok (宋處億), and Draftsman Cho Kŭn (趙瑾) to be sent to the State Tribunal (義禁府), but had them released the next day. Only Chŏng Ch'angson was dismissed from office, and Kim Mun was ordered to report the reasons for changing his statement. Thus, the vigorous opposition subsided.
+
+Another trace of the hardship in creating Hunminjŏngŭm can be seen in the Tongguk Munhŏn Pigo (東國文獻備考, 乐考训民正音条): "The Ming dynasty (明朝) Hanlin scholar Huang Zan (黃瓚), at the time exiled to Liaodong (遼東), [the King] ordered Sŏng Sammun (成三問) and others to meet Zan and inquire about phonology (音韻), traveling back and forth to Liaodong a total of thirteen times." This concerns the research and investigation in the field of phonology. As with any script, but especially for a phonetic one, the richness and clarity of phonology can be called its lifeblood. Sŏng Sammun was a genius scholar renowned for his mastery of Chinese writing, the Chinese language, and other fields, and made significant contributions to the creation of the Correct Sounds. Above all, as a royal envoy, his thirteen trips back and forth to Huang Zan's place of exile in Liaodong made a great contribution to the phonological system of Hunminjŏngŭm.
+
+Indeed, such efforts were not in vain, and the phonology of the Correct Sounds achieved a scientific organization that is among the most advanced of world scripts. Its phonology is also rich; its vowel system can be said to hold the first rank among the world's phonetic scripts. Therefore, Chŏng Inji's preface also states: "Sounds harmonize according to pronunciation (因聲而音叶), the principles of the seven modes and three poles (七調三極之義), the mysteries of the two cosmic forces (二氣之妙) are all encompassed. With twenty-eight letters, transformations are endless; simple yet essential, precise yet comprehensive... In character rhymes (字韻), clarity and turbidity can be distinguished; in musical songs (樂歌), pitches (律呂) can be perfectly matched. There is nothing for which it cannot be used, nowhere it cannot reach. Even the sound of wind, the cry of cranes, the calls of roosters, and the barking of dogs (雖風聲鶴唳雞鳴狗吠) can all be written." Yi Kyugyŏng (李圭景) also commented, "Elaborated and extended, it is sufficient to express all writings under heaven (足以盡天下之文)," which is an apt assessment. This aspect of phonology is the most praiseworthy feature of Hunminjŏngŭm and, I believe, what gives Hunminjŏngŭm its value.
+
+In addition, there are signs of considerable effort regarding the design of the letter shapes (字形). Phrases like Chŏng Inji's preface stating "modeled on shapes, the characters follow ancient seal script (象形而字古篆)"; Sŏng Hyŏn's (成俔) comment, "The character forms are based on Sanskrit letters (梵字), enabling communication of native and foreign languages and sounds where other scripts fail, without hindrance (悉通無礙)" (Note 25); Yi Ik's (李瀷) statement, "During the reign of Kublai Khan (元世祖) of the Yuan dynasty, Phagspa ('Phags-pa, 巴思八) received Buddhist teachings (佛氏遺敎) and created the Mongol script (蒙古字)... Chinese characters are primarily based on shape (形)... Mongol script is primarily based on sound (聲)... Now, Ŏnmun is completely different from Chinese characters, what could Zan [Huang Zan] have contributed? At that time, only 79 years had passed since the fall of the Yuan; its affairs must not have completely vanished. What Zan transmitted to us could be nothing other than this... Since Phagspa's transmission is said to be Buddhist teaching, and it was promulgated during the Yuan dynasty, what else could the script created by the princess [referring to Phagspa?] be but this? Then, are the current Ŏnmun letters merely different in shape but the same in concept?... Then, Phagspa's residual influence can also be imagined" (Note 26); the Tongguk Munhŏn Pigo (Note 27) stating, "Your humble servant respectfully notes that the Hunminjŏngŭm of King Sejong's reign, embodying the sounds of lips, teeth, throat, and tongue, exhausting the modes of Gong (宮), Shang (商), Jiao (角), Zhi (徵), expressing the variations of clear and turbid, high and low sounds, all derived from the principles of music creation to embellish the local dialect, is thus related to music though not music itself, hence appended after the section on music (樂考)"; Hong Yangho's (洪良浩) comment, "Our Great King Sejong created the 28 letters of Hunminjŏngŭm corresponding to the number of constellations (列宿), with letter shapes resembling the roundness of Kui (奎) and Bi (璧) constellations, strokes following the styles of small seal (小篆) and clerical (分隷) scripts, clear and simple, enabling even children and women to know them; elaborated and extended, sufficient to express all writings under heaven" (Note 28); and a passage possibly from the Sŏngni Taejŏn Chahakp'yŏn (性理大典字學編?), "Among the writings of the various southern barbarians (南海諸蕃書), some are quite good, with powerful strokes like ancient bronze inscriptions (古鍾鼎). Each country's script is different. In the early days of civilization, such things existed everywhere; China was not the only originator"—these accounts hint at how various aspects were considered and how much effort went into contemplating the letter shapes. That is, modeling them on the shape of speech organs, basing them on ancient seal script, relying on Sanskrit letters, referencing Mongol script, comparing them with the five tones or the clear/turbid, high/low distinctions of Chinese characters, corresponding them to the 28 constellations, imitating the round shapes of Kui and Bi, mimicking the styles of small seal and clerical scripts, or even referencing the scripts of southern barbarians (南海蕃書)—all these suggest the immense effort put into considering the letter shapes.
+
+Even if brilliant ideas emerged from the various painstaking research efforts described above, it is clear from the history of many scientists and inventors that they easily revert to mere fantasy if not applied in practice. However, the wise and sagacious King Sejong was attentive even to this point. For three years (from the 12th month of the 25th year to the 9th month of the 28th year), he established an Ŏnmun Office (諺文廳) within the palace (禁中) and gathered all the renowned scholars of the time. They translated the Yunhui (韻會, Rhyme Dictionary), composed the Yongbiŏch'ŏn'ga (龍飛御天歌, Songs of Flying Dragons), held various discussions, and thus thoroughly applied and tested the script before its promulgation. The Sillok (entry for Pyŏngsin day, 2nd month, 26th year 甲子) states: "Ordered Chiphyŏnjŏn Compiler Ch'oe Hang (崔恒), <32> Vice-Compiler Pak P'aengnyŏn (朴彭年), Vice-Redactor Sin Sukchu (申叔舟), Yi Sŏllo (李善老), Yi Kae (李塏), and Tonnyŏngbu Registrar Kang Hŭian (姜希顔), etc., to meet at the Deliberation Hall (議事廳) to translate the Yunhui using Ŏnmun. The Crown Prince (東宮, Munjong) along with Grand Prince Chinyang (晉陽大君, later Sejo, 環) and Grand Prince Anp'yŏng (安平大君, 瑢) supervised the matter, receiving royal decisions (睿斷)." Additionally, records in the Tonggak Chapki (東閣雜記), Tongguk Munhŏn Pigo, Yongje Ch'onghwa (慵齋叢話), and Sagajip (四佳集) collectively indicate that the King personally created the 28 letters and established the Ŏnmun Office in the palace, having Sin Sukchu, Sŏng Sammun, Ch'oe Hang, and others compose the Hunminjŏngŭm explanations. This shows that Sejong, after painstakingly creating the 28 letters (12th month, 25th year), did not immediately promulgate them but established a research institute within the palace, tasking various scholars with their practical application (through translation of the Yunhui, etc.) and explanation. Although the exact date of the Ŏnmun Office's establishment is not clearly shown, it is thought that the "Deliberation Hall" (議事廳) mentioned in the entry for the 2nd month, 26th year (甲子), refers to the Ŏnmun Office. It was likely established either immediately after the creation of the 28 letters in the 12th month of the 25th year (癸亥), or at least before the Pyŏngsin day of the 2nd month, 26th year. It seems to have continued for 62 or 63 years until it was abolished, as indicated by the phrase "abolished the Ŏnmun Office" (革諺文廳) on the 3rd day (庚申) of the 9th month of the first year of King Chungjong (丙寅) (Chungjong Sillok, 1st year entry). Furthermore, on the Mu-sin day (戊申) of the 1st day (甲辰朔) of the 4th month, 27th year (乙丑), Kwŏn Che (權踶), Chŏng Inji (鄭麟趾), An Chi (安止), and others presented the Yongbiŏch'ŏn'ga in 10 volumes and 125 cantos. This work used Correct Sounds script (正音文) for the verses, forming the main text (綱), with Chinese character translations underneath as interpretations (解詩). Following this, it collected the virtuous deeds and achievements of T'aejo (太祖) and T'aejong (太宗), the distant origins established by preceding ancestors (列祖), the difficulties of founding the dynasty, praises from the populace, and first described the historical deeds of ancient kings, adding detailed annotations (註釋). Using the Correct Sounds as the main text (綱, i.e., 原大文) and Hanmun for interpretation is a format unique to the Yongbiŏch'ŏn'ga. The Sillok entry for winter, 28th year states: "On the 8th day (壬申) of the 11th month (乙丑朔), ordered the Veritable Records of T'aejo (太祖實錄) to be brought into the inner palace, established the Ŏnmun Office there, consulted historical records, and added them to the Yongbi poems (龍飛詩). The Office of Annals (春秋官) reported, 'The Veritable Records may not be seen by non-historians. Moreover, the Ŏnmun Office is exposed, with outsiders coming and going irregularly. We subjects find this deeply inappropriate.'" This refers to consulting T'aejo's historical records to add interpretations and annotations to the previously mentioned songs.
+
+As seen above, the creation of Hunminjŏngŭm was the most important and greatest undertaking among King Sejong's numerous projects. Therefore, while delegating all other general public duties to the State Council, he never neglected this research even for a moment, exerting all his efforts. Among Sejong's achievements are many research writings and inventions such as court music (雅樂, commissioned Pak Yŏn (朴堧) to compose), astronomical charts (天文圖), large and small simplified armillary spheres (大小簡儀, observation instruments), armillary spheres (渾儀, celestial globes), rain gauges (測雨器), sundials (日咎, 日時計), striking water clocks (自擊漏, 水時計), the Hŭmgyŏnggak armillary sphere clock (欽敬閣渾象,玉漏機輪, incorporating the Four Gods (四神), 12 zodiacal gods (十二神), drumming figures (鼓人), and time-announcing jade maidens (司辰玉女)—many of these machines operated automatically without human power, commissioned by ordering the famous artisan Chang Yŏngsil (蔣英實) to build them), as well as brilliant civil and military accomplishments like border expansion (國疆開拓) and suppression of foreign invaders (外寇討平). However, his eternal, world-class achievement that will last ten thousand ages is the creation of this script, Hunminjŏngŭm.
+(Note 24) Sejong Sillok, 26th year, Kapcha, 2nd month, 20th day entry.
+(Note 25) Sŏng Hyŏn (成俔), author of 『Yongje Ch'onghwa』 (慵齋叢話), active during King Sŏngjong's reign.
+(Note 26) Yi Ik (李瀷), author of 『Sŏngho Sasŏl』 (星湖僿說), active during King Sukchong's reign.
+(Note 27) 『Tongguk Munhŏn Pigo』 (東國文獻備考).
+Compiled by Hong Ponghan (洪鳳漢) et al. under royal command in the 46th year of King Yŏngjo (英祖), 13 sections (考).
+Supplemented by Yi Mallyŏn (李萬運) under royal command during King Chŏngjo's (正祖) reign, adding 7 sections for a total of 20.
+Revised and abridged to 16 sections by Pak Yongdae (朴容大) under royal command during King Kojong's (高宗) reign.
+(Note 28) Hong Yangho (洪良浩), author of 『Kyŏngse Yundo Sŏl』 (經世韻圖說). <33>
+<28-33>
+
+**Summary**
+
+This 1931 article by Kim Yun'gyŏng details the creation of Hunminjŏngŭm (later Han'gŭl), the Korean alphabet. It discusses the script's original name and other appellations like Ŏnmun and Panch'ŏl, tracing the origin of "Han'gŭl" to Chu Sigyŏng. The author highlights King Sejong's motivations: nationalism (creating a native script distinct from Chinese), populism (enabling commoners to express themselves), cultural advancement (overcoming the difficulty of Hanja), and judicial fairness. It emphasizes the immense effort and hardship Sejong endured, including personal health sacrifices and overcoming staunch opposition from Sadaejuŭi scholars like Ch'oe Malli, whose petition is quoted extensively. The article praises the script's scientific design, particularly its sophisticated phonology developed with extensive research (including missions to consult Huang Zan in Liaodong) and its unique letter shapes drawing inspiration from various sources. It also mentions the establishment of the Ŏnmun Office for practical testing and refinement before promulgation, citing the Yongbiŏch'ŏn'ga as a key early application.
+
+From the perspective of Korean colonial history, this article is significant. Written under Japanese rule, it strongly emphasizes Korean cultural uniqueness and ingenuity through the story of Han'gŭl's creation, implicitly fostering national pride. The detailed critique of Ch'oe Malli and the Sadaejuŭi ideology (subservience to China) serves as a coded criticism of collaborationist or subservient attitudes in the contemporary colonial context. Highlighting Sejong's populist motives and the script's accessibility contrasts with the often elitist and difficult nature of the colonial administration's systems, subtly promoting Korean identity and resilience against assimilation policies. Historians might find the framing of Sejong's motivations, the detailed account of the opposition, and the specific references used (like Chu Sigyŏng and 'Kagya Nal') valuable for understanding nationalist historical narratives during the colonial period.
+
+**Named Entities**
+
+鄭麟趾	정인지	Chŏng Inji
+支那	지나	China
+日本	일본	Japan
+中宗	중종	Chungjong
+崔世珍	최세진	Ch'oe Sejin
+訓蒙字會	훈몽자회	Hunmongjahoe
+孫炎	손염	Sun Yan
+東漢	동한	Eastern Han
+獻帝	헌제	Emperor Xian
+東晉	동진	Eastern Jin
+周時經	주시경	Chu Sigyŏng
+光武	광무	Kwangmu (era name/Emperor Kojong)
+隆熙	융희	Yung Hŭi (era name/Emperor Sunjong)
+李朝	이조	Yi Dynasty
+世宗	세종	Sejong
+中國	중국	Chungguk (China)
+東國文獻備考	동국문헌비고	Tongguk Munhŏn Pigo
+集賢殿	집현전	Chiphyŏnjŏn (Hall of Worthies)
+弘文舘	홍문관	Hongmun'gwan
+崔萬理	최만리	Ch'oe Malli
+淸州	청주	Ch'ŏngju
+椒水	초수	Ch'osu (mineral spring)
+溫陽	온양	Onyang
+文宗	문종	Munjong
+蒙古	몽고	Mongol
+西夏	서하	Sŏha (Xixia)
+女眞	여진	Yŏjin (Jurchen)
+西蕃	서번	Sŏbŏn (Tibet/Western Barbarians)
+箕子	기자	Kija
+中華	중화	Chunghwa (China)
+新羅	신라	Silla
+薛聰	설총	Sŏl Ch'ong
+金汶	김문	Kim Mun
+鄭昌孫	정창손	Chŏng Ch'angson
+三綱行實	삼강행실	Samgang Haengsil (Illustrated Conduct of the Three Bonds)
+辛碩祖	신석조	Sin Sokcho
+河緯地	하위지	Ha Wiji
+宋處億	송처억	Song Ch'ŏok
+趙瑾	조근	Cho Kŭn
+義禁府	의금부	Ŭigŭmbu (State Tribunal)
+明朝	명조	Ming Dynasty
+翰林學士	한림학사	Hallim Haksa (Hanlin Academician)
+黃瓚	황찬	Hwang Ch'an
+遼東	요동	Liaodong
+成三問	성삼문	Sŏng Sammun
+李圭景	이규경	Yi Kyugyŏng
+成俔	성현	Sŏng Hyŏn
+梵字	범자	Pŏmja (Sanskrit letters)
+李瀷	이익	Yi Ik
+元世祖	원세조	Wŏn Sejo (Kublai Khan)
+巴思八	파사팔	P'asŭp'a ('Phags-pa)
+蒙古字	몽고자	Monggoja (Mongol Script)
+洪良浩	홍양호	Hong Yangho
+奎	규	Kyu (constellation)
+璧	벽	Pyŏk (constellation)
+小篆	소전	Sojŏn (Small Seal Script)
+分隷	분례	Pullye (Clerical Script variant)
+南海	남해	Namhae (South Sea/Southern regions)
+諸蕃	제번	Chebŏn (Various Barbarians/Foreigners)
+諺文廳	언문청	Ŏnmun Ch'ŏng (Vernacular Script Office)
+韻會	운회	Unhoe (Rhyme Dictionary)
+龍飛御天歌	용비어천가	Yongbiŏch'ŏn'ga
+崔恒	최항	Ch'oe Hang
+朴彭年	박팽년	Pak P'aengnyŏn
+申叔舟	신숙주	Sin Sukchu
+李善老	이선로	Yi Sŏllo
+李塏	이개	Yi Kae
+敦寧府	돈녕부	Tonnyŏngbu
+姜希顔	강희안	Kang Hŭian
+議事廳	의사청	Ŭisach'ŏng (Deliberation Hall)
+東閣雜記	동각잡기	Tonggak Chapki
+慵齋叢話	용재총화	Yongje Ch'onghwa
+四佳集	사가집	Sagajip
+權踶	권제	Kwŏn Che
+安止	안지	An Chi
+太祖	태조	T'aejo
+太宗	태종	T'aejong
+春秋官	춘추관	Ch'unch'ugwan (Office of Annals)
+朴堧	박연	Pak Yŏn
+蔣英實	장영실	Chang Yŏngsil
+欽敬閣	흠경각	Hŭmgyŏnggak
+肅宗	숙종	Sukchong
+星湖僿說	성호사설	Sŏngho Sasŏl
+英祖	영조	Yŏngjo
+洪鳳漢	홍봉한	Hong Ponghan
+正祖	정조	Chŏngjo
+李萬運	이만운	Yi Manun (Corrected name spelling based on usual historical figures, text has 李萬連)
+高宗	고종	Kojong
+朴容大	박용대	Pak Yongdae
+經世韻圖說	경세운도설	Kyŏngse Yundo Sŏl
+
+**Glossary**
+
+訓民正音	훈민정음	Hunminjŏngŭm ("Correct Sounds for Instructing the People"), the original name for the Korean alphabet.
+創定	창정	Creation, establishment.
+조선문자	조선문자	Korean script/letters.
+고찰	고찰	Study, examination, consideration.
+발포	발포	Promulgation, announcement.
+序文	서문	Preface, foreword.
+百姓셩	백성	The populace, common people (older spelling/form: , 셩).
+치시는	가르치시는	Teaching (older spelling/form).
+正졍 소리	정한 소리	Correct sound (older spelling/form: 졍).
+실록	실록	Veritable Records (official annals of a dynasty).
+문헌상	문헌상	In documents, according to literature.
+언어상	언어상	In language, linguistically.
+諺文	언문	Ŏnmun ("Vulgar script"), a common, sometimes derogatory, term for Hunminjŏngŭm.
+사대사상	사대사상	Sadae ideology ("serving the great"), referring to historical deference to China.
+儒家	유가	Confucian scholars, Confucianism.
+官吏	관리	Government officials.
+입버릇	입버릇	Habitual saying, manner of speaking.
+자국	자국	One's own country.
+낮보는	낮보는	Looking down on, despising.
+假名	가명	Kana (Japanese syllabary). Used here for comparison.
+反切	반절	Panch'ŏl, a method of indicating Chinese character pronunciation using two other characters; also used as a name for Hunminjŏngŭm.
+창시	창시	To invent, create for the first time.
+고로	고로	Therefore, consequently (older form of 그러므로).
+초성	초성	Initial consonant sound.
+중성	중성	Medial vowel sound.
+가갸	가갸	Kagya, an early name for Hangul based on the first characters learned (가, 갸). Also used for 'Kagya Day'.
+알파뻬타	알파베타	Alphabet (loanword).
+韓末	한말	Late Joseon Dynasty/Korean Empire period.
+한글	한글	Han'gŭl ("Great Script" or "Korean Script"), the modern name for the Korean alphabet, popularized by Chu Sigyŏng.
+回甲	회갑	Sexagenary cycle (60 years).
+가갸날	가갸날	"Kagya Day," the original name for Han'gŭl Day.
+吏讀	이두	Idu, a system using Hanja to transcribe Korean phonetically or grammatically.
+口訣	구결	Kugyŏl, a system using simplified Hanja or symbols to aid in reading Chinese texts in Korean.
+제정	제정	Establishment, enactment.
+까닭	까닭	Reason, cause.
+황금시대	황금시대	Golden Age.
+현출	현출	To bring about, manifest.
+貢獻	공헌	Contribution.
+창조욕	창조욕	Creative desire/drive.
+發揮	발휘	Display, demonstration, expression.
+구체적	구체적	Concrete, specific.
+詔勅	조칙	Royal edict, decree.
+國之語音	국지어음	The sounds of the country's language (Hanja phrase).
+異乎中國	이호중국	Different from China (Hanja phrase).
+與文字不相流通	여문자불상유통	Does not flow/correspond with the written characters (Hanja phrase).
+愚民	우민	Ignorant populace/people (often used humbly by rulers).
+有所欲言	유소욕언	Having something one wishes to say (Hanja phrase).
+終不得伸其情者多矣	종부득신기정자다의	Ultimately unable to express their feelings, many such people exist (Hanja phrase).
+予爲此憫然	여위차민연	I, because of this, lament (Hanja phrase).
+新制二十八字	신제이십팔자	Newly created twenty-eight letters (Hanja phrase).
+欲使人人易習便於日用耳	욕사인인이습편어일용이	Wishing to enable every person to learn easily and use conveniently for daily life (Hanja phrase).
+치욕감	치욕감	Sense of shame/humiliation.
+국가주의	국가주의	Nationalism.
+동기	동기	Motive, motivation.
+민중주의	민중주의	Populism, democracy.
+기회균등주의	기회균등주의	Equal opportunity-ism.
+자비심	자비심	Compassion, mercy.
+문화주의	문화주의	Culturalism.
+동궁시대	동궁시대	Time as Crown Prince.
+체험	체험	Personal experience.
+고귀한	고귀한	Noble, high-ranking.
+신분	신분	Social status, rank.
+서민	서민	Commoners, ordinary people.
+궁민	궁민	Poor people, destitute populace.
+旨趣	지취	Meaning, gist, purport.
+曉	효	To understand, dawn (used here for understanding).
+創制	창제	To create, invent (esp. for scripts, systems).
+解書	해서	To interpret writings/books.
+知其義	지기의	To know its meaning (Hanja phrase).
+司法	사법	Judicial administration, justice.
+공평주의	공평주의	Principle of fairness/impartiality.
+治獄	치옥	To administer justice, handle lawsuits.
+曲折	곡절	Intricacies, complications.
+難通	난통	Difficult to communicate/understand.
+聽訟	청송	To hear lawsuits/legal cases.
+得其情	득기정	To ascertain the true circumstances/feelings (Hanja phrase).
+고심	고심	Hardship, great effort, painstaking work.
+구조	구조	Structure, organization.
+천재	천재	Genius.
+顚末	전말	The whole story, full details from beginning to end.
+倣古篆	방고전	Imitated ancient seal script (Hanja phrase).
+初中終聲	초중종성	Initial, medial, final sounds.
+俚語	이어	Vernacular language, colloquial speech.
+轉換無窮	전환무궁	Transformations are endless (Hanja phrase).
+상소문	상소문	Petition, memorial to the throne.
+年歛	연렴	Year's harvest.
+扈從	호종	Royal retinue/escort.
+從簡約	종간약	To follow simplicity and economy.
+啓達	계달	To report (to the throne).
+委	위	To entrust, delegate.
+政府	정부	State Council (of Joseon).
+緩急	완급	Urgency (lit. slow and fast).
+不得己	부득기	Unavoidable, necessary.
+及期	급기	Urgent, pressing.
+行在	행재	Temporary royal residence (while traveling).
+汲汲	급급	Eagerly, diligently, hastily.
+聖躬	성궁	Sacred body (referring to the King).
+調燮	조섭	To recuperate, regulate and harmonize.
+眼疾	안질	Eye disease/ailment.
+供奉	공봉	Provisions, offerings (for the royal household).
+則節	즉절	To economize, be frugal.
+政事	정사	State affairs, administration.
+일임	일임	To entrust completely.
+말지 않으신	말지 않으신	Did not stop/cease (older negative form).
+病患	병환	Illness, disease.
+굴할 리가 만무	굴할 리가 만무	Impossible to yield/submit.
+大意	대의	Gist, main point, summary.
+我朝	아조	Our dynasty.
+祖宗	조종	Ancestors (royal).
+事大	사대	Serving the great (China).
+華制	화제	Chinese institutions/system.
+同文同軌	동문동궤	Uniformity in writing and standards (like China).
+親聽	친청	Royal ear (lit. personally hear).
+字形	자형	Character form/shape.
+古實	고실	Ancient practices/facts.
+근거	근거	Basis, grounds, foundation.
+事大慕華	사대모화	Serving the great and admiring China.
+배타됨	배타됨	Betrayal, violation.
+九州	구주	Nine Provinces (classical term for China).
+풍토	풍토	Natural features and climate; local customs.
+방언	방언	Dialect.
+夷狄	이적	Barbarians (term used by historical Chinese/Koreans for surrounding peoples).
+유풍	유풍	Enduring customs/traditions.
+문물	문물	Civilization and material culture.
+禮樂	예악	Rites and music.
+蘇合之香	소합지향	Fragrance of Storax/Sumatran camphor (valuable item).
+螳螂之丸	당랑지환	Mantis dung pill (worthless item).
+大累	대루	Great stain, major flaw.
+鄙俚	비리	Vulgar, base.
+通行	통행	Commonly used, current.
+어조	어조	Auxiliary words, particles.
+胥吏	서리	Petty clerks, functionaries.
+僕隷	복례	Servants, slaves.
+數書	수서	Several books.
+興學	흥학	Promoting learning/education.
+結繩	결승	Knotted cords (for record-keeping before writing).
+資賴	자뢰	To rely on, depend on.
+姑息	고식	Stopgap measure, temporary fix.
+計策	계책	Plan, strategy.
+簿書	부서	Official documents, ledgers.
+期會	기회	Appointments, meetings.
+鄙諺無益	비언무익	Vulgar, colloquial, and useless.
+學問	학문	Scholarship, learning.
+吏員	이원	Clerical official.
+後進	후진	Later generations, successors.
+궁리	궁리	Deep thought, inquiry.
+성현	성현	Sages and worthies.
+面牆	면장	Facing a wall (idiom for being ignorant).
+是非	시비	Right and wrong.
+솊�용	소용	Use, utility (likely typo for 소용).
+積累	적루	Accumulated.
+古文化	고문화	Ancient culture.
+一掃	일소	To sweep away entirely.
+유식자	유식자	Educated person, intellectual.
+吏文	이문	Clerical writing/documents.
+하물며	하물며	Moreover, let alone, not to mention.
+干涉	간섭	Connection, relation; interference.
+委巷	위항	Back alleys, streets (representing common folk).
+俚語	이어	Vulgar speech, slang, colloquialism.
+襲用	습용	To follow habitually, continue using.
+廢止	폐지	Abolition, repeal.
+議論	의론	Argument, discussion.
+通患	통환	Common affliction/problem.
+新奇	신기	Novelty, new and strange.
+一藝	일예	A skill, an art.
+損	손	Harm, loss, damage.
+益	익	Benefit, profit, advantage.
+刑殺	형살	Punishment and execution.
+獄辭	옥사	Legal deposition, confession in court.
+文理	문리	Literary style, context; logic.
+寃罪	원죄	Wrongful conviction/accusation.
+寃枉	원왕	Wrongful judgment, injustice.
+招辭	초사	Written confession/deposition.
+捶楚	추초	Beating with rods, torture.
+枉服	왕복	To confess falsely (under duress).
+平	평	Fair, just, level.
+不平	불평	Unfair, unjust.
+獄吏	옥리	Judicial clerk, prison official.
+如何	여하	How it is; quality, condition.
+事功	사공	Achievements, accomplishments.
+近速	근속	Near and fast; immediate results.
+速成	속성	Quick completion, rapid achievement.
+變易	변역	Change, alteration.
+宰相	재상	Chief State Councilor.
+群臣	군신	All officials.
+百僚	백료	All officials.
+國人	국인	People of the nation.
+群議	군의	Public opinion, collective discussion.
+吏輩	이배	Clerks, petty officials (often derogatory).
+輕輕히	경경히	Lightly, without due consideration.
+己成	기성	Already established/completed.
+龍書	용서	Dragon Script (possibly referring to prestigious forms of Hanja or earlier scripts).
+無稽	무계	Baseless, unfounded.
+附會	부회	To force an interpretation, stretch a point; accommodate.
+工匠	공장	Artisan, craftsman.
+박아서	박아서	To carve (woodblocks for printing).
+공포	공포	To promulgate, announce publicly.
+手歉	수검	Poor harvest (written 手歉, likely same meaning as 歉).
+攝養	섭양	Nourishment, care (for health).
+煩惱	번뇌	To trouble, worry, annoy.
+玩好	완호	Amusements, hobbies, things cherished for pleasure.
+書札	서찰	Calligraphy; letters.
+儒者	유자	Confucian scholar.
+卑近	비근	Lowly and common.
+愛着	애착	Attachment, fondness.
+聖學	성학	Sagely learning (Confucian studies).
+文士文藝	문사문예	Literary arts and skills.
+治道	치도	Way of governance.
+一利	일리	One benefit.
+精力	정력	Energy, vitality.
+虛費	허비	To waste.
+臣等	신등	We subjects/officials (humble plural).
+文墨	문묵	Writing and ink; literary pursuits.
+末技	말기	Minor skill.
+侍從	시종	To attend upon (the King).
+所懷	소회	What one holds in one's mind; thoughts, feelings.
+含嘿	함묵	To remain silent.
+肺腑	폐부	Innermost feelings (lit. lungs and bowels).
+聖德	성덕	Royal virtue.
+固陋	고루	Obtuse, narrow-minded, rustic.
+腐敗	부패	Corrupt, decadent.
+저능아	저능아	Simpleton, person of low ability (strong insult).
+慕華丸	모화환	"Admire China Pill" (metaphor for Sadae ideology).
+假明人	가명인	"Pseudo-enlightened person" (insult).
+醜態	추태	Ugly behavior, disgraceful conduct.
+폐지	폐지	Page (of paper); here, a disgraceful page in history.
+遺傳	유전	Heredity, inheritance.
+韻書	운서	Rhyme book/dictionary (for Chinese characters).
+西聲	서성	Sounds from the West (often referring to Sanskrit/Siddham script sounds).
+七音	칠음	Seven initial sounds (phonological term).
+字母	자모	Phonetic radicals/letters (esp. in Siddham/Sanskrit).
+老來	노래	In old age.
+無聊	무료	Boredom, ennui.
+田獵	전렵	Hunting.
+放鷹	방응	Falconry.
+僭越	참월	Presumption, audacity, exceeding one's authority.
+庶務	서무	General affairs, miscellaneous duties.
+主掌	주장	To manage, supervise.
+細事	세사	Minor matters, details.
+參決	참결	To participate in decisions.
+宦官	환관	Eunuch.
+奉答	봉답	To reply respectfully (to the King).
+音釋	음석	Sound and interpretation/meaning.
+識理	식리	To understand principles/reason.
+俗儒	속유	Vulgar Confucian, pedant.
+敎示	교시	To instruct, teach, decree.
+사리	사리	Reason, principle, logic.
+변하여	변하여	To change (one's story); make excuses.
+면직	면직	Dismissal from office.
+上聞	상문	To report to the throne.
+진정되게	진정되게	To be calmed down, subside.
+자취	자취	Trace, vestige, mark.
+音韻學	음운학	Phonology.
+方面	방면	Aspect, field, area.
+豊富	풍부	Richness, abundance.
+明白	명백	Clarity, distinctness.
+律呂	율려	Pitch pipes; musical temperament/pitch.
+克諧	극해	To be in perfect harmony.
+不備	불비	Not provided for, lacking.
+不達	부달	Cannot reach/achieve.
+雖風聲鶴唳雞鳴狗吠	수풍성학려계명구폐	Even the sound of wind, cry of cranes, crowing of roosters, barking of dogs (idiom for any sound).
+適功	적공	Apt, appropriate achievement/assessment.
+象形	상형	Pictographic principle; modeling on shapes.
+依	의	According to, based on.
+悉通無礙	실통무애	Completely penetrates without hindrance; universally applicable.
+佛氏遺敎	불씨유교	Buddhist teachings/legacy.
+賁飾	분식	To adorn, embellish.
+方言	방언	Local dialect.
+非樂而樂	비악이악	Not music, yet related to music.
+列宿	열수	Constellations (the 28 lunar mansions).
+圓曲	원곡	Roundness and curvature.
+點劃	점획	Dots and strokes (of a character).
+童婦人	동부인	Children and women.
+鍾鼎	종정	Bronze bells and tripods (representing ancient inscriptions).
+疑識	의식	Ancient forms/styles (?). Text has 疑識, possibly referring to archaic scripts found on artifacts.
+風氣	풍기	Spirit of the time, atmosphere; customs.
+繙譯	번역	Translation (older form: 번역).
+討議	토의	Discussion, debate.
+闕內	궐내	Within the palace walls.
+廢	폐	To abolish, discontinue.
+撰進	찬진	To compile and present (to the throne).
+歌詠	가영	Song, chant, poem.
+綱	강	Main text, outline, guiding principle.
+解詩	해시	Interpretive poem/verse; explanation in verse.
+肇基	조기	To found, begin, lay the foundation.
+宏遠	굉원	Vast and far-reaching.
+艱難	간난	Difficulties, hardships.
+稱頌	칭송	Praise, eulogy.
+採集	채집	To collect, gather.
+古昔	고석	Ancient times.
+註釋	주석	Annotation, commentary.
+類例	유례	Similar instance, precedent.
+史官	사관	Historian, official chronicler.
+淺露	천로	Shallow and exposed; lacking depth/security.
+허다한	허다한	Numerous, many.
+雅樂	아악	Elegant court music.
+天文圖	천문도	Astronomical chart.
+大小簡儀	대소간의	Large and small simplified armillary spheres (observational instruments).
+渾儀	혼의	Armillary sphere (celestial globe model).
+測雨器	측우기	Rain gauge.
+日咎	일구	Sundial (咎 likely a variant/error for 晷).
+自擊漏	자격루	Striking water clock.
+渾象	혼상	Armillary sphere clock/model.
+玉漏機輪	옥루기륜	Jade water clock mechanism wheel.
+四神	사신	Four guardian deities (Blue Dragon, White Tiger, Vermilion Bird, Black Tortoise).
+十二神	십이신	Twelve zodiacal animal deities/figures.
+鼓人	고인	Drumming figure (automaton).
+司辰玉女	사신옥녀	Time-announcing jade maiden (automaton).
+國疆開拓	국강개척	Expansion of national borders.
+外寇討平	외구토평	Suppression/pacification of foreign invaders (esp. Japanese pirates).
+爀爀	혁혁	Brilliant, glorious.
+文武	문무	Civil and military affairs.
+功蹟	공적	Achievements, exploits.
+萬歲不朽	만세불후	Eternal and imperishable for ten thousand ages.
+위업	위업	Great achievement, exploit.
+
+
+---------------------------
+
+
+잡지명	동광 제26호
+발행일	1931년 10월 04일
+기사제목	訓民正音의 創定, 조선문자의 역사적 고찰(8)
+필자	金允經
+기사형태	논설
+
+訓民正音의 創定, 조선문자의 역사적 고찰
+						金允經
+二. 訓民正音
+一. 명칭
+이제 쓰는 조선문자는 발포 당시에 『訓民正音』이라는 이름으로 발포된 것입니다. 鄭麟趾의 序文에도 밝히 『名曰 訓民正音이라』 하엿읍니다. 그 뜻은 『百 姓셩 치시는 正졍 소리라』고 하엿습니다. 실록이라던가 기타 문헌상, 언어상에 『諺文』이라는 이름도 종종 나타나지마는 이는 支那에 대한 사대사상에 중독된 썩은 儒家와 官吏의 입버릇으로 支那 문자보다 자국 문자를 낮보는 이름에 불과하는 것입니다. 마치 일본문을 『假名』이라 함과 마찬가지외다. 또 中宗 22년 丁刻(西曆 1527)에 崔世珍의 지은 『訓蒙字會』 凡例에 『俗謂 反切』이라 한 대로 反切이라고도 부름이 잇습니다. 反切의 원 뜻은 두 자의 음을 끊어서 한 음을 만듦을 이름인데 이는 支那 漢末(東漢 獻帝 24년, 西曆 219頃)에 孫炎이 반음을 창시하엿던바 나종 東晉 때붙어 『切』이라 고친 고로 이것을 합하여 『反切』이라 하게 된 것이외다. 가령 한자의 발음을 달은 경우에 『君步反』이라던가 『君步切』이라 하면 이는 『君』의 초성(ㄱ같은)과 『步』의 중성(ㅗ와 같은)을 합하여 『高』(고)같은 음을 냄을 이름이외다. 그러하나 이러한 뜻의 『反切』을 웨 訓民正音의 별명으로 쓰게 되엇는지 알기 어렵습니다. 아마 訓民正音이 표음문자인 때문에 初 中 終聲의 구별이 문자상에도 한번 보아 명백히 알게 된 고로 한문으로서는 진보적 발음 표시법인 反切을 가지어다가 가장 발음이 풍부한 訓民正音의 俗名을 삼은 것이라고 생각됩니다. 『가갸』라고도 하나 이는 訓蒙字會 凡例의 배열 순의 처음 두 음자를 취하여 그 전체의 명칭을 삼은 것인데 이는 마치 歐文의 처음 두 자의 명칭인 『알파뻬타』로써 그 전체의 명칭을 삼는 것과 같은 일입니다.  韓末의 光武 隆熙 이래로 문법학자의 원조인 周時經씨는 『한글』이란 새 명칭을 사용하엿음니다. 수년 전 內寅은 訓民正音 발포의 제8回甲(즉 481년째)에 당함으로 조선어 연구자를 중심으로 한 일반 사회에서는 제1回의 기념을 지킬 때에 『한글』로써 조선문의 이름을 삼고 또 訓民正音이 舊曆 9월중에 발포된 고로 이 달의 끝인 9월 29일로 訓民正音의 기념일로 정하여 이를 『가갸날』이라 하엿습니다. 그리하여 『한글』이 이제는 일반적으로 쓰이게 되엇습니다. (四行略-원문)
+
+二. 製定의 이유
+李朝 第四世 世宗(西曆 1419-1450)때에는 한문이 성행하엿을뿐 아니라 고대 문자, 吏讀, 口訣 따위가 잇음에도 불구하고 다시 새로 訓民正音을 제정한 것은 무슨 까닭인가 함에 대하여는＜28＞ 여러 가지로 말할 수 잇으나 世宗은 조선 근세 사상 황금시대를 현출하게 한이만치 가장 위대한 군주엿을 뿐 아니라 세계 문화사 상에서도 그 한 부분을 꾸밀 만한 혁혁한 貢獻을 한 군주엿는 고로 한마디로 다한다면 그의 창조욕의 發揮라 할 수 잇습니다. 그러하나 이는 너무 막연한 대답이 되겟는 고로 좀 더 구체적으로 말한다 하면 訓民正音, 序文되는 詔勅에 밝히 나타낫다고 하겟습니다. 즉 『國之語音, 異乎中國, 與文字不相流通, 故愚民有所欲言, 而終不得伸其情者多矣, 予爲此憫然, 新制二十八字, 欲使人人 易習便於日用耳』함이 그것이외다. 訓民正音 제정의 이유로서 文獻에 들어난 바를 들어본다면 다음의 네 가지라 하겟습니다.
+第一은 외국의 문자인 한문이 공용문으로 되엇다는 치욕감 즉 국가주의의 동기이외다. 東國文獻備考 (樂考訓民正音條)에 『上以爲諸國各製文字, 以記其國之方言, 獨我國無之, 遂製子母二十八字』라 함은 이것을 밝히 證據하는 것입니다.
+第二는 한문은 외국문일 뿐 아니라 실용상에 심히 난해인 고로 愚民은 의지를 자유로 발표할 수 없겟다는 민중주의 즉 기회균등주의의 동기외다. 世宗은 인민을 매우 사랑하신 때문에 『愚民有所欲言而終不得伸其情者多矣』라는 사정을 살피시고 『予爲此憫然』이라고 탄식하여 견딜 수 없는 자비심은 마침내 문자를 만들어 누구던지 자유로 의사를 발표할 수 잇을 만한 민중적 문자가 되게 하신 것이외다.
+第三은 문화를 促進하려는 문화주의의 동기외다. 世宗은 東宮時代부터 열심으로 한문을 닦앗으나 매우 어렵은 문자기 때문에 잘 이해할 수 없던 체험이 잇기 때문에 자기는 시간으로나 물질로나 권력으로나 무엇으로던지 구애될 점이 없는 고귀한 신분이엇지마는 그것을 容易히 성공할 수 없다 하면 일반 庶民, 窮民이야 어느 겨를에 어떻게 이를 실용할 수 잇도록 배우어서 문화가 발전 되겟느냐 하는 것을 살피신 것이외다. 鄭麟趾의 訓民正音에 대한 서문에도 『但方言俚語不與之同, 學書者患其旨趣之難曉... 我殿下創制正音二十八字... 以是解書, 可以知其義』라 하엿습니다.
+第四는 司法의 공평주의가 그 동기가 된 것이외다. 詔勅 중에 『愚民有所欲言而終不得伸其情者多矣』라 함이던가 鄭麟趾 서문 중에 『治獄者病其曲折之難通... 以是聽訟, 可以得其情』이라함을 보면 治獄, 聽訟에 난해, 不通의 한문을 사용하기 때문에 愚民의 실정을 자세히 살피어 공평히 처결하기가 어렵다는 것이 평민적, 민중적의 쉽은 문자를 창제한 동기의 하나로 살피어지는 바외다.
+
+三. 製定의 고심
+訓民正音의 구조가 과학적, 조직적인 점으로 밀우어 보면 아무리 천재라도 짜른 시일에는 도저히 되기 어렵을만 합니다. 世宗實錄 25년 癸亥 12월 條에 『是月, 上, 親製諺文二十八字, 其字倣古篆, 分爲初中終聲, 合之然後乃成字, 凡于文字及本國俚語, 皆可得而書, 字雖簡要, 轉換無窮, 是謂訓民正音』이라 한 기사에 의하여 訓民正音이 世宗 25년 癸亥 12월에 제정됨을 알 수 잇으나 그 고심 연구의 顚末에 대하여는 알아볼 길이 없음이 유감이외다. 그러하나 이 대사업을 반대한 集賢殿(弘文舘) 副提學 崔萬理들의 상소문 중에 『淸州椒水之幸, 特慮年歛, 扈從諸事務, 從簡約, 至於啓達公務, 亦委政府, 若夫諺文, 非國家緩急, 不得己及期之事, 何獨於行在而汲汲爲之, 以煩聖躬調燮之時乎』라 한 것은 그 고심 연구의 한 끝을 보이는 것이라 하겟습니다. 즉 大王은 正音 제작을 인하여 밤낮을 가리지 않고 넘우 노력하신 때문에 眼疾이 생김으로 치료하기 위하여 온양의 온천이라던가 청주의 椒井같은 약수에 매년 거동하지 않을 수 없이 되매 민폐가 적지 않을 것을 염려하시어 扈從이며 供奉則節의 10의 8, 9를 減하게 하시엇습니다. 또 一般政事 공무까지도 정부에 일임하지 않을 수 없엇던 것이의다. 그러하나 이 같은 경우에라도 正音 연구의 일만은 行在所에까지 가지고 와서 眼疾의 調攝에 害잇음에도 불구하고 東宮(나종의 文宗)을 더리고 매일 연구에 전심 노력하기를 말지 않으신 것이외다. 이같이 고심하게 제정된 訓民正音이 25년 癸亥 12월에 완성되엇으나 두 달도 되기 전에 반대의 여론이 높게 된 것이외다. ＜29＞그러하나 자신의 病患도 돌아보지 않으신 어른이 다른 어떠한 곤란에야 굴할 리가 만무한 것입니다. 그 반대의 여론은 마침 내 구체적 사실로 들어나게 되엇습니다. 이는 26년 甲子 2월 20일 集賢殿 副提學 崔萬理들의 6개조의 장문 上梳 (註24)가 그것입니다. 그 上疏의 大意를 소개하면 다음과 같읍니다.
+
+第一, 我朝 祖宗 이래로 지성으로 큰이를 섬기어(事大) 한갈 같이 華制에 쫓앗습니다. 이제 同文同軌될 만한 때에 언문을 창작하여 親聽을 놀라게 하십니다. 그리고 諺文의 字形이 옛적의 篆文을 본받앗다고는 하엿으나 用音 合字가 다 古實에 반대되어 전혀 근거가 없습니다. 만일 이것이 중국에 전하여 이를 비난하는 자 잇으면 事大慕華의 정신에 배타됨이 없겟습니까.
+第二, 自古로 九州의 안에서 비록 풍토가 다를지라도 방언으로 인하여 문자를 따로 만듦이없습니다. 오직 蒙古, 西夏, 女眞, (二字略-원문) 西蕃의 따위가 각각 문자가 잇기는 하나 이는 다 夷狄의 짓이며 족히 말할 가치가 없는 바외다. 역대의 중국은 다 우리나라를 가르치어 箕子의 유풍이 잇다고 하엿습니다. 문물과 禮樂이 中華에 비길 만한 것이 잇습니다. 이제 따로 諺文을 지어 중국을 버리고 스스로 夷狄과 같이 되려 하시니 이는 이른바 蘇合의 香을 버리고 螳螂의 丸을 취하는 따위의 일이외다. 어찌 문명의 大累가 아니겟습니까.
+第三, 新羅의 薛聰이 지은 吏讀는 鄙俚라고는 하지마는 다 中國, 通行의 문자를 빌어서 어조와 문자에 베풀어 쓴 것인 고로 원래 한자와 서로 떠날 수 없는 것입니다. 그런고로 胥吏 僕隷의 무리라도 진실로 이것을 배우고저 하면 먼저 數書를 읽어서 대강 문자를 안 연후에야 容易히 吏讀를 쓸 수 잇는 것입니다. 吏讀를 쓴 것은 문자로 인하여 뜻을 달할 수 잇는 것인 고로 吏讀로 인하여 문자를 알게 되는 자가 많습니다. 그러함으로 이도 興學의 한 도음이 되는 것입니다. 만일 우리나라가 처음부터 문자를 모르고 結繩으로 의사를 통함과 같은 세상이엇다면 아직 諺文을 빌어 일시의 用에 資賴함도 좋을 것입니다. 그러하나 정의를 잡는 자는 반듯이 「諺文을 세상에 펴어 姑息의 수단을 취함보다는 차라리 中國 通用의 문자를 배우어 長久의 計策을 삼음만 같지 못하다」고 할 것입니다. 하물며 吏讀란 것은 수천 년 간 행하여서 簿書 期會 等事에 아무 불편함이 없는데 이제 무슨 까닭으로 오래 행하여 폐가 없는 글을 버리고 따로 鄙諺無益의 글을 창작할 필요가 잇겟습니까. 만일 諺文을 실행한다면 吏가 되는 자는 전혀 諺文만 배우고 학문을 돌아보지 아니하여 문자를 吏員과 갈라놓게 될 것입니다. 참말로 吏員된 자가 諺文으로써 몸을 세울 수 잇다고 하면 後進은 누구던지 다 이를 본받게 될 것입니다.  27자의 諺文으로써 몸을 세상에 세울 수 잇다고 하면 사람이 왜 괴롭게 생각을 궁리의 學에 쓸 필요가 잇겟습니까. 만일 이같이 되면 수십 년 후에는 문자를 알 자가 점점 減하여질 것이고 설령 안다 할지라도 성현의 문자를 알지 못하면 담(墻)에 낯(面)함과 같이 사리의 是非를 분별하지 못할 것입니다. 한갓 언문에 능통한들 무슨 솊�용이 잇겟습니까. 우리나라의 積累의 古文化는 아마 一掃 됨에 이를 것이외다. 吏讀란 것은 문자지마는 유식자는 오히려 이를 낮보아 吏文에만 쓰려고 합니다. 하물며 諺文과 같은 것은 문자와 하등의 干涉이 없고 전혀 委巷의 俚語에 쓰이는 것임에 대하여서 겟습니까. 가령 諺文이 前朝부터 잇던 것이라 한들 오늘날 문명의 다스림에 오히려 이를 襲用하는 자가 잇겟습니까. 이것을 廢止하려고 하는 議論이 일어날 것은 명백한 일입니다. 옛것을 싫어하고 새것을 좋아함은 고금의 通患이외다. 이제 이 諺文은 新奇의 一藝에 불과하는 것으로서 學에 損이 잇고 治에 益이 없습니다. 거푸 거푸 이를 생각하여 보더라도 그 옳은 것을 알지 못하는 바외다.
+第四, 刑殺獄辭와 같은 것을 吏讀문자로 적는다면 文理를 알지 못하는 愚民은 그 한 字의 틀림으로 或은 寃罪를 얻기 쉽습니다. 그러한데 이제 諺文으로써 그 말을 그대로 적어서 읽어 들린다면 지극히 어리석은 사람이라도 알아듣기 쉽기 때문에 寃罪에 울게 됨과 같은 일이 없이 되리라 할 자가 잇을는지도 모르겟습니다. 그러하나 중국에서는 말과 글이 일치할지라도 獄訟에 寃枉이 심히 많습니다. 가령 우리나라의 예를 들어 말하면 獄囚가 吏讀를 알아서 친히 招辭를 읽고 그 그릇됨을 안다 할지라도 捶楚에 이기지 못하여 枉服하는 자가 많습니다. 이는 招辭의 文意를 알지 못하여서 寃罪를 입은 것이 아님은 명백합니다. 만일 이와 같다 하면 諺文을 쓴들 이와 다름이 무엇이 잇겟습니까. 필경 刑獄의 平, 不平은 獄吏의 如何에 잇는 것이요 말과 글이 같고 아니 같음에 잇는 것은 아니외다. 諺文으로써 獄辭를 平易히 하려 하심에 대하여 臣은 그 옳음을 알지 못하는 바외다. ＜30＞
+第五, 대개 事功을 세움에는 近速을 귀히 여기지 않습니다. 그러한데 국가의 근래의 조치는 다 速成을 힘쓰는 것같이 생각됩니다. 이것이 아마 다스림의 길은 아닐 것이외다. 가령 諺文을 不得已 실행한다 하더라도 이것은 풍속을 變易하는 중대한 사건인 고로 반듯이 먼저 宰相 以下 群臣에게 문의할 지며 설혹 百僚와 國人이 다 可하다 할지라도 다시 생각을 거듭하여서 이것을 모든 제왕에게 물어 어글어지지 않고 이를 中國에 대하여 생각하되 부끄럼이 없고 百世聖人을 기다리어 惑함이 없는 연후에 비로소 실행할 것입니다. 그런데 이제 널리 群議를 들어보지 않고 吏輩 십여 인을 모아 익히게 하며 또 輕輕히 古人己成의 龍書를 고치어 無稽의 諺文을 附會하고 工匠 십 수인을 모아 이것을 박아서 널리 이를 공포하려 하십니다. 천하 후세에 公議 과연 어떠하겟습니까. 또 이제 淸州 椒水의 幸이 잇으시매 특히 手歉을 걱정하시어 扈從의 모든 일을 극히 簡約히 하여 전일의 그것에 비하면 10중 8, 9를 減하시며 啓達 공무도 대부분은 정부에 위임하신 터외다. 諺文과 같은 것은 국가 緩急에 부득이한 일이 아니어늘 어찌 行在所에서까지 汲汲히 하여 無躬의 攝養을 煩惱케 하시겟습니까.
+第六, 先儒가 이르기를 「凡百 玩好는 다 의지를 빼앗는다」하엿습니다. 書札같은 儒者의 일 같은 것도 가장 卑近한 일이기는 하나 한갓 愛着하면 스스로 뜻을 잃어버리게 되는 것입니다. 이제 東宮은 덕성이 成就하엿다 할지라도 아직도 오히려 마음을 聖學에 온전히 모아대어서 더욱 더 未及한 점을 찾아 구할 때라 생각합니다. 특히 文士文藝의 하나에 不過하는 것입니다. 하물며 만가지 治道에 一利가 없는데 정력을 虛費하고 종일 시간을 보내어 학문에 損이 잇음에 대하여서겟습니까. 臣等은 함께 文墨의 末技로써 죄를 侍從에 기다립니다. 마음에 所懷가 잇어 감히 含嘿하지 못하고 삼가 肺腑를 *하여 聖德을 드럽힙니다.
+
+世宗과 같은 가장 위대한 明君이 출현한 한편에는 이 崔萬理 따위와 같은 固陋하고 腐敗한 저능아도 출현되엇던 것입니다. 「慕華丸」에 중독된 「假明人」의 醜態라고 보아 넘길 밖에 없는 일이지마는 역사상에 영구히 씻어 버릴 수 없는 치욕의 한 「폐지」를 끼치어 놓게 됨은 그를 위하여 가엾은 일이라 하겟습니다. 그러하나 그와 같은 病症은 이제도 오히려 遺傳됨이 많지 않은가 생각됩니다. 내용은 어떠 하엿던지 이 같은 上疏가 제출된 고로 世宗大王은 萬理들에 대하여
+『너이들이 諺文은 用音 合字가 다 古實에 反하엿다 하나 薛聰의 吏讀도 또한 다른 음이 아닌가. 또 吏讀 제작의 본의는 백성을 편케 하려 함이다. 만일 백성을 편케 하려고 함이라면 이제 諺文도 백성을 편케 하려 함이 아니냐. 너이는 薛聰을 옳다 하고 자기의 君上은 그르다 하니 무손 까닭이냐. 또 너이들이 韻書를 알며 西聲 七音 字母를 아느냐. 만일 내가 그 韻書를 바르게 함이 아니면 누구나 그것을 바르게 하겟느냐. 또 疏 中에 新奇의 一藝라 한 말이 잇으나 나는 老來에 無聊하여서 글로써 벗을 삼을 뿐이다. 어찌 「예」를 싫어하고 「새」를 좋아하여 이것을 만들겟느냐. 이것은 田獵 放鷹의 예는 아니다. 너이의 말이 자못 僭越의 嫌이 잇다. 또 나는 연로함으로 국가의 庶務는 세자가 전혀 主掌하여 細事라도 다 參決한다. 諺文에 대하여도 특히 參決하지 아님이 없다. 만일 세자로 하여금 늘 東宮에 잇게 하면 환관이 어떠케 일을 맡을 수 잇겟느냐. 너이는 侍從의 臣으로서 밝히 나의 뜻을 알면서 이러한 말을 하는 것은 과연 옳은 일이라 할까』
+라고 責하여 물으심에 매우 憤怒의 빛이 보입니다. 崔萬理들은 이에 대하여
+『薛聰의 吏讀는 異音이기는 하나 音과 해석에 좇아서 어조와 문자의 사이에 본디부터서는 떠날 수가 없습니다. 이제 諺文은 모든 字를 합하여 並書하고 그 音釋을 변하는 일들이 字形이라 이를 수 없습니다. 또 신들의 新奇一藝라 한 것은 특히 文藝에 因하여 이 말을 한 것이고 별로 뜻이 잇어 그리 말한 것은 아니올시다. 東宮은 公事에 대하여 細事라도 다 參決하지 않을 수 없습니다. 마는 급하지 않은 일이야 어찌 종일 생각을 쓰실 필요가 잇겟습니까』
+하고 奉答을 하엿습니다. 世宗은 다시
+『요전에 金汶은 말을 들이기를 諺文을 짓는 것은 별로 不可할 것은 없다 하더니 이제는 도리어 不可하다고 하며 또 鄭昌孫은 이르되 三綱行實을 반포한 뒤에 아직 忠臣 孝子 烈女의 배출을 보지 못하엿거니와 사람의 행하고 아니함은 오직 사람의 자질 여하에 잇을 뿐이지 어찌 반듯이 諺文으로 이를 번역한 뒤라야 사람이 다 이에 본받겟느냐고 하니 이것들이 어찌 儒者의 識理의 말이라 하겟느냐. 심히 無用의 俗儒들이다』 ＜31＞
+하시고 왕은 다시 敎示하시기를
+『내가 너들을 부른 것은 처음부터 罪주려 한 것이 아니고 다만 疎 中의 한두 가지의 말을 물어 보려 할 뿐이엇다. 너들은 사리를 돌아보지 않고 말을 변하여 대답하는 고나. 너들의 죄는 면하기 어렵다』
+하시엇습니다. 그리고 副提學 崔萬理, 直提學 辛碩祖, 直殿 金汶, 應敎 鄭昌孫, 副校理 河緯地, 副修撰 宋處億, 著作郞 趙瑾들을 義禁府에 나리엇다가 그 이튼날 풀어 주게 하엿습니다. 그 중에 다만 鄭昌孫은 면직되고 金汶은 前後辭를 變한 事由를 上聞하게 하엿습니다. 이같이 氣盛하던 반대의 여론도 이에 진정되게 되엇습니다.
+또 한가지 訓民正音 창제의 고심한 자취라고 볼만한 것은 東國文獻備考 (樂考 訓民正音條)에 『明朝翰林學士黃瓚, 時謫遼東, 命三問等見瓚, 質問音韻, 凡往來遼東十三度』라고 보임과 같이 音韻學的 方面의 조사 연구외다. 어떠한 문자던지 그러하겟지 마는 더욱이 표음문자에 잇어서는 音韻의 豊富와 明白이 그 생명이라 할 만한 것입니다. 成三問은 한문, 한어와 기타 학문에 고명한 천재의 학자로서 正音의 창작에도 큰 공헌이 잇는 이외다. 무엇보다도 王命의 使臣으로서 13次까지나 遼東에 잇는 黃瓚의 謫所에 왕래하면서 訓民正音은 音韻 組織에 끼친 공적이 큰 것이외다.
+과연 이 같은 노력은 虛되지 아니하여서 正音의 音韻은 세계 문자 중 가장 진보한 과학적 조직을 가지게 된 것입니다. 또 音韻도 풍부하여서 모음은 세계 표음문자 중 제 1위를 차지하엿다. 할 만합니다. 그러한 고로 鄭麟趾 서문에도 『因聲而音叶, 七調三極之義二氣之妙莫不該括以二十八字而轉換無窮, 簡而要精而通... 字韻則淸濁之能辨, 樂歌則律呂之克詣, 無所用而不備, 無所往而不達, 雖風聲鶴唳鶴鳴狗吠 皆可得而書焉』이라 하엿고 李圭景도 『引而伸之, 足以盡天下之文』이라 한 것은 適功한 비평이라 할 것입니다. 이 音韻 방면은 訓民正音의 가장 자랑할 만한 점이며 訓民正音으로 하여금 訓民正音의 가치잇게 하는 점이라고 생각합니다.
+이 밖에 또 字形의 고안에  대하여도 매우 고심한 形跡이 보입니다. 鄭麟趾 序文에 『象形而字古篆』이라 함이라던가 成俔이 『其字體依梵字爲之, 本國及諸國語音文字所不能者, 悉通無礙』라 함이라던가(註25) 李瀷이 『元世祖時巴思八字得佛氏遺敎制蒙古字... 凡中國字以形爲主... 蒙古字以聲爲主... 今諺文與中國字絶異, 瓚何與焉, 是時元亡纔七十九年, 其事必有未泯者, 瓚之所傳於我者, 外此更無其物也... 巴思八所傳旣云佛敎, 而元世之通行則公主之所作字非此而何, 然則與今諺字不過形別而意同者歟... 然則巴思八之餘意又可想也』라 함이라던가(註26) 東國文獻備考(註27)에 『臣謹按世宗朝訓民正音, 極唇齒喉舌之聲, 盡宮商角徵之調, 窮淸濁高下之變, 是皆推作樂之緖餘, 以賁飭乎方言則盖亦非樂而樂也, 故附之樂考之後』라 함이라던가 洪良浩가 『我世宗大王, 創制訓民正音二十八字, 以應列宿之數, 而字形則奎璧圓曲之象, 点劃則小篆分隷之體, 明白簡易, 使童婦人, 可以知之, 引而伸之, 足以盡天下之文』이라 함이라던가(註28) 性理大典字學編(?)에 『南海諸蕃書, 煞有好者, 字劃遒勁, 如古鍾鼎疑識, 諸國各不同, 風氣初開之時, 此等事到處皆有, 開其先者, 不獨中國也』라 함과 같은 기사들은 어떻케 각 방면을 고찰하여 字形고찰에 고심하엿는가를 엿보게 합니다. 즉 발성기관의 形狀을 본뜨엇다거나 古篆에 본받앗다거나 梵字에 의지하엿다거나 蒙古字를 참고하엿다거나 五音 혹은 한자의 淸濁 高下의 別을 此較하엿다거나 28宿에 應하엿다거나 奎壁의 圓典의 狀을 模倣하엿다거나 小篆 分隷의 體를 흉내내엇다거나 南海의 蕃書들까지 참고하엿다 함과 같은 것은 얼마나 字形 참고에 고심하는가를 엿보게 하는 바외다.
+이상과 같은 여러 가지로 고심 연구의 결과 묘안이 생기엇다 하러라도 실제에 응용하여 보지 않으면 공상에 돌아가기 쉽다는 것은 많은 과학자며 발명가의 역사에 의지하여 명백합니다. 그러한데 총명 賢哲하신 世宗은 이 점까지도 일즉이 주의하여서 3년 간(25년 12월로 28년 9월까지) 禁中에 諺文廳을 두고 당대에 고명한 모든 학자를 모아 韻會를 繙譯한다. 龍飛御天歌를 짓는다. 여러 가지로 討議한다 하여서 발포하기 전에 충분히 응용하고 실험하여 본 것이외다. 실록(23년 甲子 2월 丙申條)에 『命集賢殿 敎理 崔恒,＜32＞ 副校理 朴彭年, 副修撰 申叔舟, 李善老, 李塏, 敦寧府主簿 姜希顔等, 會議事廳, 以諺文 釋韻會, 東宮(文宗) 與晉陽大君環安平大君瑢, 掌其事, 其稟睿斷』이라 함이 잇고 또 東閣雜記, 東國文獻備考, 慵齌叢話, 四佳集 들에도 上이 친히 28자를 짓고 諺文廳을 禁中에 두어 申叔舟, 成三問, 崔恒들을 합하여 訓民正音을 짓게 하엿다는 의미의 기사가 잇음을 합하여 보면 世宗은 28자를 고심 제작하여 (25년 12월) 곳 발포하지 않고 闕內에 연구소를 두어 여러 학자로 하여금 그 28자의 실제 응용(韻會等繙譯에 의한)과 그 설명을 하게 한 것이외다. 諺文廳 설치의 시일은 밝히 보이지 않으나 26년 甲子 2월 丙申條에 보이는 『議事廳』이 곳 諺文廳을 가르침이라고 생각됩니다. 25년 癸亥 12월에 28자의 원문을 만들고 곳 설치 하엿거나 그러치 않으면 적어도 26년 2월 丙申 이전에 설치되엇을 것은 명백합니다. 그리하여 中宗 원년 丙寅 9월 초 3일  庚申에 『革諺文廳』(中宗實錄 元年條)이라 함같이 폐지되기 까기 62, 3년 계속된 것이라고 보입니다. 또 27년 乙丑 4월 甲辰朔 戊申에 權踶, 鄭麟趾, 安止들이 龍飛御天歌 10권 125장을  撰進핊�엿는데 이것은 正音文으로 歌詠을 지어 綱이 되게 하고 그 밑에 한문으로 그 노래를 번역하여 解詩로 삼고 그 다음에는 太祖 太宗의 덕행 사업과 列祖의 肇基 宏遠함과 왕업의 艱難함과 민간의 稱頌을 採集하고 古昔 제왕의 사적을 먼저 서술하고 註釋을 자세히 더한 것이외다. 正音으로써 綱(卽 原大文)이 되게 하고 한문으로써 해석을 한 것은 龍飛歌를 제하고는 다시 그 類例가 없는 것입니다. 실록 28년 冬條에 『11월 乙丑朔 壬申 (卽 8일) 命太祖實錄入于內遂置諺文廳, 考事迹添入龍飛詩, 春秋官啓, 實錄非史官不得見, 且諺文廳淺露, 外人出入無常, 臣等深以爲不可』라고 잇는 것은 먼저 말한 노래에 太祖의 사적을 상고하여 내어서 解詩 註釋을 添入하게 함에 대한 기사이다.
+
+이상과 같이 訓民正音의 製定은 世宗의 허다한 사업 중에 가장 중요시한 최대 사업이엇기 때문에 다른 일반 공무는 다 정부에 위임할지라도 이 연구만은 한시라도 등한히 하지 않고 힘쓴 것이외다. 世宗의 사업 중에는 많은 연구 저술과 雅樂(朴堧으로 짓게 함), 天文圖, 大小簡儀 (觀測器) 渾儀(天球儀), 測雨器, 日咎(日時計), 自擊漏(水時計), 欽敬閣渾象(玉漏機輪, 四神, 12神, 鼓人, 司辰玉女들인데 이 機械들은 인력을 빌지 않고 자동하는 것이니 名士 蔣英實을 命하여 짓게 한 것이 많음)들의 발명과 國疆開拓과 外寇討平과 같은 爀爀한 文武의 切蹟이 많으나 萬歲 不朽의 세계적 위업은 이 訓民正音이란 문자의 창작입니다.
+(註24) 世宗實錄 26년 甲子 2월 20일 條
+(註25) 成宗時人 成俔 著『慵齋叢話』
+(註26) 肅宗時人 李翼 著『星湖僿說』
+(註27) 『東國文獻備考』
+英祖46년 洪鳳漢等 奉命撰十三考.
+正祖時 李萬連 奉命增補七考合二十考.
+高宗時 朴容大 奉命校及刪削十六考.
+(註28)洪良浩 著『經世韻圖說』 ＜33＞
+＜28-33＞

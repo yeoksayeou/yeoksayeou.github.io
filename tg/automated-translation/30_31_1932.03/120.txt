@@ -1,0 +1,159 @@
+잡지명	동광 제31호
+발행일	1932년 03월 05일
+기사제목	經濟解說 六題 (Six Economic Explanations)
+필자	徐椿
+기사형태	논설 (Editorial/Commentary)
+
+Six Economic Explanations
+						Sŏ Ch'un
+
+1. America's Inflation Policy
+Recession comes not only from a collapse in prices but also from financial obstruction (金融梗塞). Of course, although spoken of as two separate things, there is a close cause-and-effect relationship between price collapse and financial obstruction. That is, if prices collapse, on the one hand, the repayment ability (償還能力) of borrowers to banks drastically decreases, leading to numerous defaults, while on the other hand, due to the decline in the value of collateral (擔保品), even among those with repayment ability, some intentionally refuse repayment. From the perspective of banks and other financial institutions, bad loans (不良貸) and fixed loans (固定貸) create a major deficiency in operating funds, eventually forcing them to close their doors. When banks close, depositors lose their accumulated wealth overnight. The result is a decline in the public's purchasing power (購買力), causing prices to collapse even further. Also, if debtors start dumping (投賣) goods (selling at low prices) to meet their obligations to the banks on time, this also becomes a cause of price collapse. Thus, the two have a close cause-and-effect relationship.
+
+Now, the so-called currency contraction policy (通貨收縮策), or deflation policy (데플레숀 政策), on the one hand, causes prices to collapse, and on the other, obstructs finance. It is said that since the Panic (恐慌), America has seen over a thousand banks close each year. Seeing this, President Hoover switched to a currency expansion policy, or inflation policy (인플레숀정책), as one measure to combat the recession.
+
+Thus, last October, he established a Credit Company (信用會社) with a capital of $500 million aimed at industrial relief (産業救濟) and conducted an initial trial. This trial seems to have achieved considerable results within its scope. Entering this year, starting with the message delivered to Congress on January 4th, a major inflation policy was initiated, the main contents of which are as follows:
+
+Reconstruction Finance Corporation (復興金融會社)=The Treasury Department provides $500 million, and $1.5 billion in corporate bonds are raised from the private sector, establishing a company with a total capital of $2 billion. Its purpose is to provide financing to banks, railroads, and other various industries. It will open soon.
+
+Home Loan Discount Bank (家屋貸付割引銀行)=The purpose is to rescue homeowners in cities and rural areas. It provides loans to local banks to enable them to offer home loans, and this can also promote new businesses.<37>
+
+Relief for Depositors of Suspended Banks (休業銀行 預金救濟)=Under the assistance of the Federal Reserve Bank, funds will be quickly repaid to depositors to the extent allowed by the assets of suspended banks. It is said that if this is realized, vitality will return to several million American households, and consequently, the sale of goods due to their increased purchasing power will also increase(?).
+
+Expansion of Rediscount Scope (再割引範圍擴大)=Under the current Federal Reserve Act, the scope of bills (手形) eligible for rediscount (再割引) is said to be extremely limited.
+This will be revised to broaden the scope, and also government bonds (政府公債) will be purchased to release funds into the financial market, the purchase rate for acceptance bills will be lowered, and there are even plans to lower the official discount rate (公定割引率) in the near future.
+
+The above is the so-called "inflation" policy aimed at combating America's domestic recession.
+
+2. Russia's New Five-Year Plan
+According to a United Press dispatch from Moscow (莫斯料) dated January 22nd, regarding the 17th Communist Party Congress, the Soviet Union (露農聯邦 - lit. Russian Worker-Peasant Federation), having completed the first plan in just four years by the end of September 1932, has formulated an even larger Second Five-Year Plan following the first, which is to be presented to the 17th Communist Party Congress convening in Moscow from January 30th. On the 22nd, Moscow newspapers published the outline of the report speeches to be delivered at the Communist Party Congress by Mr. Molotov (몰로톱), Chairman of the Council of People's Commissars of the Federation, and Mr. Kuybyshev (퀴이비씨엡), Chairman of the State Planning Committee. According to this, the contents of the Second Five-Year Plan are as follows:
+
+Mission of the Second Plan
+1. The new plan aims to completely annihilate classes themselves and, by endeavoring to increase state revenue, secure the rapid improvement and stability of the working masses (勞農大衆).
+2. It aims for the populace, by the end of the new plan, to receive at least two to three times the amount of major consumer goods and food compared to the end of the first plan.
+3. The most important economic task of the new plan, the Second Five-Year Plan, is the completion of the national economic innovation (國家經濟 革新) initiated in the first plan and providing a technological foundation across all industrial sectors.
+
+Industrial Mechanization
+However, as machine manufacturing factories (機械製造工場) are to fulfill the main task in completing the aforementioned technological renewal, it is necessary to increase the production value of the machine manufacturing industry to at least three and a half times that of the end of the first plan by the completion of the new plan. The production increases to be realized by the final year of the new plan, i.e., the end of September 1937, in various industrial sectors are as follows:
+1. Electric Power (電力)=From 17 billion kilowatt-hours (1932=hereafter same) to 100 billion kilowatt-hours (1937=hereafter same).
+2. Coal (石炭)=From 90 million tons to 250 million tons.
+3. Petroleum (石油)=Two to three times the amount of 1932.
+4. Iron (鐵)=Iron production is planned to reach 22 million tons in 1937. Furthermore, in the railway transport (鐵道運輸) sector, 25,000 to 30,000 kilometers of new lines will be laid (敷設), powerful locomotives and high-capacity freight cars will be built, and railway electrification will be realized. Other plans also mention various metals, chemical products, water transport, air routes, and automobile road construction.
+
+Technological Training of the Masses
+Recognizing the fact that solving the problem of complete technological renewal of the national economy is inseparable from the masses' acquisition of technology (技術修得), the goal is to cultivate new cadres of the technological intelligentsia from among the workers and peasants, thereby raising the cultural level of the entire working masses to a much higher degree.
+In short, the First Plan aimed to increase Russia's agricultural productivity by 1.5 times and industrial productivity by 3 times, but its achievements upon realization were in the socialization (社會化), collectivization (集團化), and mechanization (機械化) of agriculture.<38> In contrast, the current New Plan aims to achieve the mechanization, mass production, and technologization of Russian industry, thereby securing the economic independence of the Worker-Peasant Federation so that it does not become an appendage (附屬物) of the capitalist world economy. This mission is to be fully achieved.
+
+3. Outlook for the Inukai Boom (犬養景氣)
+It is necessary to consider what policy differences exist between the Inukai cabinet and the previous Wakatsuki Minseitō cabinet. Looking at this perspective, the important differences between the two are:
+1. The previous Minseitō cabinet pursued low prices and a currency contraction policy, whereas the current Seiyūkai cabinet is adopting a high price and currency expansion policy.
+2. The previous Minseitō cabinet, as a means to thoroughly implement the aforementioned low price and currency contraction policy, resolutely lifted the gold embargo (金解禁) and consistently maintained it, whereas the current Seiyūkai cabinet, as the primary means to realize the aforementioned high price and currency expansion policy, resolutely reimposed the gold export ban (金輸出再禁止).
+The fundamental reason why the previous Minseitō cabinet is called the Recession Cabinet, while the current Seiyūkai cabinet is called the Boom Cabinet, lies here. And the fundamental reason why the formation of the Minseitō cabinet on July 2, 1929, triggered a crash in the stock and major commodity speculative markets, whereas the formation of the current Seiyūkai cabinet on December 13, 1931, triggered a surge in the stock and major commodity speculative markets, also lies here.
+
+When the price of goods falls below the cost of production, industries in any sector are bound to decline and stagnate. Therefore, a high price policy, to the extent permitted by surrounding circumstances, is something to be welcomed for the promotion of a nation's industry. Now, banning gold exports enables high prices to some extent through a drop in the exchange rate (爲替低落). Also, a high price policy cannot coexist with a currency contraction policy (deflation policy). Why? Because if money circulating domestically is scarce, prices cannot rise.
+Therefore, high prices also presuppose currency expansion. Now, banning gold exports itself means detaching a nation's currency issuance from the constraints of its gold reserves, and as a result, it naturally increases the possibility of currency expansion. In other words, currency can be issued even without gold reserves. Therefore, to summarize this, the Inukai cabinet, through reimposing the gold export ban, has (1) mechanically raised prices to some extent, and (2) laid the foundation for realizing a currency expansion policy. However, regarding currency expansion, it has only laid the groundwork for the potential to issue more currency; it has not yet begun its actual implementation. Now, if the Seiyūkai party wins an absolute majority in the upcoming general election and can confidently implement its policies, then it will likely employ the active policies it has advocated for years. If that happens, although it might lack permanence, it seems reasonable to expect some improvement in the economic climate (景氣) at least for the duration of the Seiyūkai cabinet's existence. However, up to this point, we have discussed how the effects of reimposing the gold export ban can only bear fruit when the realization of long-standing policies is awaited, but one must not forget the point that the resolution of the Japan-China issue is also greatly related.
+
+4. Outlook for Rice Prices (米價)
+Rather than presenting various personal opinions on the outlook for rice prices, I wish to introduce what observations others are making.
+
+Statistics on Rice Futures (定期米)
+Looking at the monthly high price table for Tokyo rice futures, over the 20 years from Taishō 1 (1912) to Shōwa 6 (1931), the highest price was ¥52.69 in Taishō 8 (1919), the lowest price was ¥11.17 in Taishō 4 (1915), and the average is ¥31.93. Next, the average high price over the 20 years is ¥34. <39> 41, the average low price is ¥22.63, and the overall average of high and low prices is ¥28.52. Next, between Shōwa 1 (1926) and Shōwa 6 (1931), the highest price was ¥40.90, the lowest price was ¥14, and the overall average of high and low prices for each year is ¥29.19. Also, looking at the months when the highest prices occurred in the past 20 years, July appeared 7 times, December 6 times, and January 2 times. Furthermore, the average actual yield of Japanese rice during the Shōwa era is 60.8 million koku (石), but last year's 55 million koku corresponds exactly to a 9.54% decrease compared to a normal year. Therefore, momentarily setting aside the balance relationship with other commodity prices and looking only at the figures for rice, even if last year had been a normal harvest year, a market price of around ¥29 should be correct. However, since the harvest was reduced by about 10%, if we consider the market price to be 10% higher, the rice price should reach ¥32.11 by calculation. Furthermore, if we take into account the currency aspect, if the average for the 6 years including the gold embargo lifting period of Shōwa 5 and 6 was ¥29.19, then today's market price of ¥25-26, with a 30% decrease in currency value, is an unusually low price. If we calculate backwards based on the current currency value, a price of ¥45.91 would be considered normal. Therefore, from this perspective, this price might emerge around this summer, so rice futures traders (期米師) should indeed aim high. (Yomiuri Shimbun, January 26th evening edition)
+
+Pessimistic View Based on the Invocation of the Rice Law (米穀法)
+Looking only at the supply and demand relationship for rice, last year was a major crop failure (大凶作), and this year, unless 5 million koku of foreign rice (外米) are imported, prices are naturally expected to rise. Consequently, everyone probably thinks prices will reach around ¥40 by the summer season. However, general commodity prices have not risen that much yet, and there is something that must not be forgotten in determining the rice price: the power of the government, which holds the authority to invoke the Rice Law (米穀法). The maximum standard price (最高基準價格) for this year under the New Rice Law is ¥24.47. Therefore, if the polished rice market price rises above this limit, the government will sell off its owned rice (所有米) to suppress the rising trend. Since this price was based on the prices of last November, which showed extremely low levels, an argument arose within the government that it needs to be reset based on subsequent prices. However, even if it is reset, it could be raised by about ¥1 at most; no matter how much they want to raise it, they likely cannot raise it further. Moreover, while the Rice Law is very weak in its power to raise falling rice prices, its power to suppress rising trends is considerable. Currently, government-owned rice reaches 4.2 million koku, and even if it sells 10,000 koku each month, it has the capacity. If confronted with this power, any market price will inevitably face pressure. Besides this, there is also the method of importing foreign rice.
+Therefore, polished rice cannot rise above ¥24-25 this year. In that case, the futures market in Japan will also likely not be able to go beyond around ¥30. (Yomiuri Shimbun, January 28th evening edition)
+
+5. What is an Economic Blockade?
+Economic blockade (經濟封鎖) was devised as one means of so-called peaceful sanctions (平和的 制裁) against states violating the Covenant of the League of Nations (國際聯盟). Therefore, its content is stipulated in Article 16 of the League Covenant (聯盟規約). Looking at Paragraph 1 of the same article, it states: "Should any Member of the League resort to war in disregard of its covenants under Articles 12, 13 or 15, it shall ipso facto be deemed to have committed an act of war against all other Members of the League, which hereby undertake immediately to subject it to the severance of all trade (通商上) or financial (金融上) relations, the prohibition of all intercourse between their nationals and the nationals of the covenant-breaking State (違約國), and the prevention of all financial, commercial or personal intercourse between the nationals of the covenant-breaking State and the nationals of any other State, whether a Member of the League or not." According to this, there are two requirements for the application of this article. That is, (1) disregarding the commitments under the League Covenant. (In other words, commitments under articles other than the aforementioned three articles are not only disregarded, but also the fact of resorting to war is <40> required.) (In other words, without the fact of resorting to war, merely disregarding commitments does not trigger the application of this article.) Therefore, both disregarding commitments and resorting to war are requirements for the application of this article, i.e., an economic blockade. So, what is the content of this so-called "economic blockade"? All League members other than the covenant-breaking state are to prohibit financial relations with the covenant-breaking state and all intercourse between their nationals. However, such an economic blockade cannot achieve its objective unless the traffic around the covenant-breaking state is cut off seamlessly by land and sea. Here, the article establishes the provision in the latter half of Paragraph 1, stipulating that even non-League member states should take coordinated action with League member states in the economic blockade against the said covenant-breaking state. And under the premise that the use of force is also necessary to effectively carry out this economic blockade, Paragraph 2 of the same article stipulates that "It shall be the duty of the Council in such case to recommend to the several Governments concerned what effective military (陸海 又는 空軍), naval or air force the Members of the League shall severally contribute to the armed forces to be used
+
+
+---------------------------
+
+
+잡지명	동광 제31호
+발행일	1932년 03월 05일
+기사제목	經濟解說 六題
+필자	徐椿
+기사형태	논설
+
+經濟解說 六題
+						徐椿
+1. 米國의 인플레숀 政策
+不景氣는 다만 물가의 폭락으로부터서만 오는 것이 아니라 또한 金融梗塞로부터 오는 것이다. 물론 두 가지로 갈라 말햇으나 物價暴落, 金融梗塞의 兩者간에는 相因相果의 밀접한 관계가 잇는 것이다. 즉 물가가 폭락하면 일방 銀行에 대한 借金者의 償還能力이 격감하야 다수의 償還不能者를 招致하는 동시에 他方 擔保品의 價格減下로 상환능력이 잇는 자 중에서도 고의로 상환을 不肯하는 자가 생기게 된다. 此를 銀行 그 他의 金融機關側으로 보면 不良貸, 固定貸로 영업자금에 일대 결함이 생기어 드디어 문을 닫게 될 수밖에 없다. 銀行이 문을 닫으면 預金者는 累年의 蓄財를 一朝에 상실하게 된다. 그 결과는 즉 대중의 購買力의 減退를 招致하야 물가를 更一層 폭락시키고 만다. 또한 債務者가 銀行에 대한 債務를 기일에 이행하기 위하야 商品의 投賣(廉價放賣)를 개시한다 하면 此亦 물가폭락의 원인이 된다. 如斯히 兩者는 相因相果의 밀접한 관계성이 잇다.
+그런데 소위 通貨收縮策 즉 데플레숀 政策은 일면으로 물가를 폭락시키는 동시에 他方으로 金融을 경색시킨다. 米國은 恐慌 이래로 매년 千餘行식이나 문을 닫엇다고 한다. 이것을 본 「후버」大統領은 不景氣 退治의 一策으로 通貨膨脹 政策 즉 인플레숀정책으로 전환햇다.
+그리하야 去年 10월에는 資本金 5億弗의 産業救濟를 목적으로 한 信用會社를 성립시키어 于先 試驗을 햇다. 이 시험은 그 한도에서는 상당한 성적을 擧하엿든 모양이다. 금년에 들어와서는 1월 4일의 議會에 與하는 敎書로부터 발단하야 일대 『인플레숀』 政策을 개시햇으니 그 주요한 내용은 左와 같다.
+復興金融會社=財政省에서 5億弗 민간에서 15億弗의 社債를 모집하야 합 20億弗의 자금으로써 회사를 設立. 그 目的은 銀行 鐵道 그 他의 諸産業에 融通. 不遠에 開業.
+家屋貸付割引銀行=都市農村의 家屋 所有者를 구제할 목적이다. 地方銀行에 융자하야 家屋貸付에 응케 하며 이깃으로써 新事業을 促成할 수도＜37＞ 잇다.
+休業銀行 預金救濟=聯邦準備銀行援助下에 休業銀行 資産의 許하는 한도내에서 預金者에게 金을 속히 상환케 한다. 이것이 실현되면 米國 幾百萬 가정에 생기가 돌게 되고 따라서 彼等의 購買力增進에 의한 商品의 실행도 증대할(?) 것이라고 한다.
+再割引範圍擴大=현재의 聯邦準備銀行法에 의하면 再割引을 할 수 잇는 手形의 범위는 극히 제한되어 잇다고 한다.
+此를 改正하야 그 범위를 넓히며 또한 政府公債를 買上하야 금융시장에 자금을 放出하며 引受手形의 買入率을 인하하며 혹은 불원한 장래에 公定割引率을 인하할 계획까지도 잇다고 한다.
+右가 즉 米國의 국내 불경기의 퇴치를 목적으로 한 『인플레숀』 政策이라는 것이다.
+
+2. 露國의 新5個年計劃
+第17回 共産黨大會 莫斯料 1월 22일 發 聯合通信에 의하면 露農聯邦은 1932년 9월말까지에 만4개년으로써 제1차 계획에 계속하야 다시 尤大한 第2次 5個年 計劃을 편성하야 1월 30일부터 莫斯料에 개최될 제17회 共産黨大會에 上程하게 되엇다. 22일 莫斯料各紙는 聯邦人民委員會議長 「몰로톱」씨 並히 國家 計劃委員長 퀴이비씨엡씨가 共産黨大會에서 행할 報告演說綱領을 揭載햇는데 此에 의하면 第2次 5個年 計劃의 내용은 如左하다.
+
+第二次計劃의 使命
+1. 新計劃에서는 階級 자신을 완전히 전멸하며 且 國家收入의 증가를 기도함에 의하야 勞農大衆의 급속한 향상과 확보를 期한다.
+2. 民衆은 第1計劃의 終了期에 비하야 新計劃의 終了期에 際하야는 적어도 2배 내지 3배의 주요 消費財 並히 식량의 지급을 受케 되기를 期한다.
+3. 新計劃 즉 第2次 5個年 計劃의 가장 중요한 經濟的 事業은 第1次 計劃에 잇어서 개시된 國家經濟 革新의 완성 並히 全工業部門에 亙하야 技術的 기초를 與하는데 잇다.
+
+機械工業化
+그러나 右技術的 更新의 완성에 際하야 주요한 임무를 다할 자는 機械製造工場인 고로 新計劃의 완료까지에는 機械製造工業의 생산액을 第1次 計劃의 終了期에 비하야 적어도 3배반에 達케 할 필요가 잇다. 工業 각부문에 잇어서 新計劃의 최종 年度 즉 1937년 9월말일까지에 실현될 생산증가는 아레와 같다.
+1. 電力=170億 기로와트時(1932년=以下同)로부터 1,000億 기로와트時(1937년=以下同)로.
+2. 石炭=9,000萬噸으로부터 2億5,000萬噸으로.
+3. 石油=1932년의 2배 내지 3배.
+4. 鐵=鐵의 生産額은 1937년에는 2,200萬噸에 達케 할 豫定. 기타 鐵道運輸部門에 잇어서는 2萬5千基路米突 내지 3萬基路米突의 新線을 敷設하며 강력한 機關車, 積載能力의 大한 貨車를 建造하야 鐵道의 電化를 실현한다. 그 他 계획에서는 다시 각종 金屬, 化學製品, 水上運輸, 航空路, 自動車路 건설 등에도 언급햇다.
+
+大衆의 技術的 訓練
+국가경제의 완전한 技術的 更新 問題의 해결은 대중의 技術修得과 不可分의 관계에 잇는 사실에 鑑하야 勞働者 並히 농민중으로부터 技術的 知識階級의 신단체를 양성하야 全勤勞大衆의 文化的 수준을 훨신 높은 정도까지 향상시킬 목표로 한다.
+此를 요컨대 第1次 計劃은 露國의 農業生産力을 1倍半으로 공업생산력을 3배로 각각 증가하는데 잇엇으나 그 실현기에 임하여서의 성과는 農業의 社會化 集團化 並히 機械化에 잇엇다.＜38＞ 此에 대하야 금번의 新計劃은 露國工業의 機械化, 大量生産化 技術化를 圖하야 勞農聯邦의 經濟的 독립을 확보하야써 勞農聯邦이 資本主義 世界經濟의 附屬物되지 않도록 한다는 이 사명을 완전히 達하자는 데 잇다.
+
+3. 犬養景氣의 前途觀
+犬養內閣과 前若槻民政黨 內閣과의 間에 어떠한 政策의 차이가 잇는가 하는 것을 고찰할 필요가 잇다. 이러한 견지에 잇어서 兩者의 차이중 중요한 것을 들어보면
+1. 前民政黨 內閣은 저물가, 通貨收縮策이 엇는데 반하야 現政友會 內閣은 고물가 通貨膨脹政策을 취하고 잇다.
+2. 前民政黨 內閣은 前揭 저물가, 通貨收縮策을 철저히 寬現하는 수단으로 金解禁의 단행 及 그 維持策으로 終始一貫햇는데 반하야 現政友會內閣은 前揭 고물가 通貨膨脹政策을 실현하는 주요 수단으로 金輸出再禁止를 단행햇다.
+前民政黨 內閣을 不景氣 內閣이라고 하는데 대하야 現政友會 內閣은 景氣 內閣이라고 하는 근본이유도 여기 잇고 昭和 4년 7월 2일 民政黨 內閣의 組閣을 보고는 株式 及 主要商品의 투기시장이 暴落을 연출한데 반하야 금번 즉 昭和 6년 12월 13일 現政友會 內閣의 組閣을 보고는 株式 及 主要商品의 투기시장이 暴騰을 연출한 근본 이유도 여기 잇다.
+商品의 가격이 생산비 이하로 低落할 지경에 잇어는 어떠한 부문의 産業을 물론하고 衰退不振할 수밖에 없다. 고로 주위 환경의 許하는 한도까지의 고물가정책은 一國의 産業振興을 위해서는 祝福할 만한 일이다. 그런데 金輸出禁止는 『爲替低落』을 통하야 어느 정도까지의 고물가를 가능케 한다. 또한 高物價政策은 通貨收縮策(데플레숀정책)과는 兩立할 수가 없다. 何故오 하면 국내에 유통하는 돈이 귀해 가지고는 물가가 騰貴할 수가 없는 까닭이다.
+고로 고물가는 또한 通貨膨脹을 전제로 한다. 그런데 金輸出禁止는 그 자체가 一國의 通貨發行을 金準備高의 구속으로부터 이탈시키는 것을 의미하는 것인고로 그 결과는 자연히 通貨膨脹의 가능성을 증대한다. 換言하면 金準備가 없이도 通貨를 增發할 수가 잇게 된다. 고로 此를 요언하면 犬養內閣은 金輸出再禁止를 통하야 (1) 물가를 어느 정도까지 機械的으로 올려놓고 (2) 通貨膨脹策을 실현할 수 잇도록 그 기초를 닦어놓앗다. 그러나 通貨膨脹에 대하야는 통화를 增發할 수 잇는 소지를 닦어 놓앗을 뿐이요. 아직도 그 실현에 착수하지는 못햇다. 이제 만약 금번 총선거에 政友會가 절대 다수를 획득하야 안심하고 그 政策을 실현할 수 잇게 되면 그제는 積年標榜의 적극정책을 쓰게 될 것이다. 그리되면 비록 永久性은 없을는지 모르나 적어도 政友會 內閣이 존속하는 기간은 경기의 다소 호전이 잇을 것으로 보는 것이 타당할 듯 하나 여기까지는 金輸出再禁止의 효과는 積年政策의 실현을 기대려서야 비로소 奏効할 수 잇는 것을 말하엿거니와 또한 日中問題의 해결 여하가 크게 관계된다는 일점도 잊어서는 안된다.
+
+4., 米價의 前途觀
+米價의 前途에 대해서 구구한 私見을 발표하는 것보다 타인은 어떠한 觀測을 하고 잇는가를 소개하고저 한다.
+
+定期米의 統計
+東京定期米의 月別高表를 보면 大正 元年부터 昭和 6년에 至하는 20년 간에 잇어서 最高價는 大正 8년의 52원 69전 最低價는 大正 4년의 11원 17전이요, 그 평균은 31원 93전이다. 다음 20년 간의 高價 평균은 34원＜39＞ 41전, 低價 평균은 22원 63전이요. 高價 低價의 총 평균은 28원 52전이다. 다음 昭和 元年부터 同 6년에 至하는 間의 最高價는 40원 90전, 最低價는 14원으로서 각년 高價 低價의 총 평균은 29원 19전이다. 또 과거 20년 간에 잇어서 最高價가 출현한 달(月)을 보면 7월이 7회 12월이 6회, 1월이 2회이다. 또 昭和年代의 日本米實收高는 평균 6,080萬石인데 작년의 5,500萬石은 正히 平年에 비하야 9分 5厘 4毛의 減收에 해당한다. 고로 他物價와의 균형관계를 잠간 떠나서 米穀만의 數字로 보면 假使 昨年이 平年作이라고 할지라도 29원 전후의 시세는 잇어야 옳다. 그런데 1割 가량의 減收인 고로 시세를 1割高로 보면 米價는 32원 11전은 가야 될 계산이다. 다시 貨幣의 방면을 계산에 넣으면 昭和 5년 6년의 金解禁時代를 포함한 6個年 평균이 29원 19전이라 하면 貨幣價値 3割減의 금일의 시세가 25, 6원이라는 것은 여간 부당한 低時勢가 아니다. 만약 현재의 貨幣價値를 기준으로 逆算하면 45원 91전은 가야 正常한 時勢라고 할 것이다. 고로 이러한 견지로 보면 이 여름쯤 해서는 이 시세가 날른지 모르니 期米師는 모름직이 목표를 높이 둘 필요가 잇다. 云云(讀賣新聞 1월 26일 夕刊)
+
+米穀法 發動上으로 본 悲觀論
+米穀의 需給關係만으로 보면 작년은 大凶作으로서 本年은 500萬石의 外米를 輸入치 아니하면 안되게 된 고로 비싸지는 것이 당연하다. 따라서 누구나 夏節에 入하면 40원쯤은 갈 것으로 생각할 것이다. 그러나 일반 물가는 아직 그러케 騰貴치 못햇을 뿐 아니라 米價 결정상에 잊어서는 안될 것이 잇으니 그것은 즉 米穀法의 發動力을 黨握한 政府의 힘이다. 新米穀法에 의한 本年의 最高基準價格은 24원 47전이다. 따라서 正米時勢가 此限度 이상으로 騰貴하면 政府는 所有米를 放賣하야 騰勢를 물가의 極低를 示하든 작년 11월 물가에 基한 자인 고로 그 후의 물가에 基하야 此를 설정할 필요가 잇다는 論이 政府 내에 起하엿거니와 그러나 此를 설정해도 極해야 1원 가량이나 올리지 아모리 올리고 싶어도 그 이상은 올릴 수가 없을 것이다. 그리고 米穀法은 低落하려는 米價를 引上시키는 힘에 잇어서는 심히 弱하나 반대로 騰勢를 抑壓하는 힘은 상당히 크다. 현재 政府 所有米는 420萬石에 達하는데 此를 매월 1萬石식 放賣한다고 할지라도 그 실력이 잇다. 此 威力과 相衝하면 어떠한 시세라도 압박을 難免이다. 그 밖에 外米를 수입하는 방도도 잇다.
+그런 고로 正米는 금년 중은 24, 5원 이상은 騰貴할 수 없다. 그러면 정기 시장도 日本內 時勢로 30원 근방까지 밖에 더 못 갈 것이다. 云云.(讀賣新聞 1월 28일 夕刊)
+
+5. 經濟封鎖란 무엇이냐
+經濟封鎖는 國際聯盟의 聯盟規約違反國에 대한 소위 平和的 制裁의 一手段으로 案出된 것이다. 고로 그 내용은 聯盟規約 제16조에 규정되어 잇다. 同條 第1項을 보면 『(聯盟規約) 제12條, 제13條, 제15條에 의한 약속을 무시하고 戰爭에 訴한 聯盟國은 당연히 他 모든 聯盟國에 대하야 전쟁행위를 위한 것으로 간주한다. 他 모든 聯盟國은 此에 대하야 곳 通商上 又는 金融上의 관계를 단절하며 自國民과 違約國民과의 일체의 交通을 금지하고 且 聯盟國이든지 아니든지를 불문하고 他 모든 나라의 國民과 違約國民과의 간에 일절의 金融上 通商上 又는 個人的 交通을 防遏하기를 約함』이라고 잇다. 此에 의하야 보면 本條 적용의 요건은 두 가지나 잇다. 즉 (1) 聯盟에 의한 약속을 무시한 것. (此를 別言하면 前揭 3개조 이외의 條文에 의한 약속은 此를 무시햇을 뿐만 아니라 戰爭에 訴한 사실까지 잇음을＜40＞ 그 요건으로 한다. (此를 別言하면 戰爭에 訴한 사실이 없이 다만 약속을 무시한 것만으로는 本條의 적용이 없다.) 고로 약속 무시 訴於戰爭의 兩者는 本條適用 즉 經濟封鎖의 요건이다. 然則 此 소위 『經濟封鎖』란 어떠한 내용의 즛이냐? 違約國 이외의 諸聯盟國은 違約國과 金融上 관계와 違約國民과의 일체의 교통까지도 此를 금지한다는 것이다. 그런데 如斯한 의미의 經濟封鎖는 違約國의 四面 陸海 뷘틈 없이 交通을 遮斷하기 전에는 그의 목적을 達할 수가 없다. 여기서 本條는 第1項 後段 下半의 규정을 設하야 聯盟非加入國까지도 該違約國에 대한 經濟封鎖에 잇어서 聯盟加入國과 一致行動을 취하도록 할 것을 規定햇다. 그리고 此 經濟封鎖를 효과잇게 단행하는 데는 武力의 사용도 필요하다는 전제하에서 同條 第2項으로 ㊀�聯盟理事會는 前項의 경우에 잇어서 聯盟의 約束擁護를 위하야 사용할 兵力에 대한 聯盟 各國의 陸海 又는 空軍의 분담정도를 聯盟 各國政府에 제안할 의무가 잇다』하고 規定햇다.
+國際聯盟의 此經濟封鎖에 관한 規定은 표면으로는 과연 그럴 뜻이 보이나 그 실은 解釋上 實行上 여러 가지 중대한 難點을 內含한 것이다. 결국은 아직도 일차도 실지로 시험해 보지 못한 일종 空文에 불과한 것이다. 아제 그 난점의 주요한 者를 열거해 보면 이러하다.
+1. 一國이 약속을 무시하고 戰爭에 訴하면 此로써 곳 그 一國이 모든 聯盟國에 대하야 戰爭에 訴한 것으로 간주하고 經濟封鎖를 단행한다. 武力制裁를 加한다 하게 되면 언제든지 2國 간의 戰爭은 곳 世界戰爭으로 化할 것이니 이것은 戰爭防止를 목적으로 한 國際聯盟의 근본정신에 부합한다고 볼 수가 없다.
+2. 다음 『약속을 무시』, 『戰爭에 訴』 此兩者는 말은 간단하나 약속을 실로 무시햇는지 안햇는지 또는 戰爭에 訴한 사실이 잇는지 없는지(戰爭은 단순한 兵力 사용과는 此를 구별한다) 그 사실을 누가 판정하느냐에 잇어서 중대한 難點에 逢着할 수밖에 없다.
+3. 다음에 經濟封鎖의 단행을 開始햇다고 잡고 違約國과의 金融上 通商上 個人去來上의 관계에 잇어 利害 及 緊密程度가 불일치한 聯盟 각국이 步調를 일치할 수가 잇겟다고도 일대의문이려니와 그보다도 더 어떠한 방법으로 聯盟加入國으로 하여금 共同步調를 취케 할 수가 잇느냐가 근본의 又 根本的 難問題라고 할 수밖에 없다. 例하면 米國으로 하여금 억지로 참가시킬 수가 잇을까?
+4. 또한 그 領域內 及 勢力範圍內의 富源이 裕足하야 비록 封鎖를 당한다고 할지라도 하등의 痛癢을 感치 아니하는 나라 例하면 米國, 露國같은 나라에 대해서는 이러한 制裁手段은 무력하기가 짝이 없다. 이러케 보아 올 때에 소위 經濟封鎖라는 것은 거이 空文同樣의 것임을 짐작할 수 잇는 동시에 아레 引用하는 數句는 斯方面의 소식을 가장 간결하게 표한 것임을 볼 수가 잇다. 즉 經濟封鎖의 실행은 此를 당하는 나라보다 도리어 實行者 자신이 고통을 受하게 되고 결국은 不參加國을 利하는 결과에 빠지기 쉽다. 또 라파-드는 말하되
+
+『지금은 歐洲의 책임잇는 政治家로서 聯盟規約 제16조의 制裁에 하야 많은 기대를 가지는 者는 없다. 뷜나 사건과 골무島 사건에 대해서도 右制裁規定은 적용을 보지 못햇다. 평화의 番犬은 그 齒를 失햇다. 아니 도리어 怜悧해 졋다. 사람한테 달려들어 물어 뜻는 것보다도 멀리서 좆고만 잇는 것이 도리어 편한 것을 깨다른 모양이다.』
+끝으로 금번 上海事件이 확대되어 日本이 經濟封鎖를 당하면 어떠케 되느냐? 前記로 보아 此는 일종 杞憂에 속한다. 그러나 설혹 이것이 실현된다고 할지라도 日本과 貿易 及 金融上으로 가장 긴밀한 관계를 가진 聯盟非加入國인 米國과 지리적으로 隣接 관계에 잇는 非加入國 露國과의 二國이 封鎖에 참가치 아니하면 그러한 封鎖는 日本에 별로 痛痒을 感케 할 힘이 없다. 만약 최악의 경우를 假想하야 全世界가 들어서 對日經濟封鎖를 실행한다고 하면 물론 日本의 經濟組織에 一大變革을 來하야 輸出入貿易의 전환, 産業形態와 財政金融上의 변동 등 적지 않은 영향을 蒙할 것이나 비록 그때라도 東洋의 寶庫 滿蒙을 그 勢力範圍下에＜41＞ 넣고 잇는 한까지는 日本으로서는 不出 數年에 自給自足의 途를 충분히 강구할 수가 잇을 것이다. 다만 一時的으로 輸出入杜絶에 伴하는 각종 상품가격의 불균형적 暴騰落은 難免할 것이다. 例하면 수입품은 暴騰할 것이다.
+
+6. 平價切下의 意義
+評價
+몬저 『平價』란 말을 설명해 보자. 같은 金本位國 간에 잇어서 兩國 貨幣의 각각의 순금함유량을 비교하야 一國 貨幣의 일정액이 他國 貨幣의 幾何와 相等한가를 산출한 결과를 지칭하야 양국간의 平價라고 한다. 例하야 日本貨幣 100원이 포함한 純金量이 20匁요. 米國 貨幣 49弗 8分之 7(약 50弗)이 포함한 순금중량도 20匁이다. 고로 日本貨幣의 일정량 즉 100원 對 米國 弗貨 49弗 8分之 7을 日米 간의 평가라고 한다.
+
+平價切下
+前記에 의하야 우리는 日米 간의 平價가 100원 對 50弗(槪算)인 것을 알엇다. 그런데 이 計算의 기초가 어디 잇느냐 하면 몬저 日本 貨幣法에 의하면 그 제2조에 『純金의 量目2分으로써 화폐의 算位를 삼어 此를 圓이라고 칭함』이라고 잇다. 그런데 2分이 1원이면 一匁는 5원 따라서 純金 20匁는 100원이다. 그런데 米國서도 역시 이 모양으로 純金의 量目4分(槪算)을 貨幣의 단위로 하야 此를 弗이라 한다. 고로 50불이면 순금 20匁重이 되는 것이다. (고로 1弗은 日本 돈으로 2원에 해당하다는 것이다.) 그런데 이제 만약 日本이 그 貨幣法을 개정하야 순금 1分을 1원으로 한다고 하면 이 경우의 日本 돈 100원은 弗貨로 25弗과 等價關係에 잇게 된다. 何故오 하면 弗貨 25불은 純金重量으로 10匁인데 이 경우의 日本貨幣 100원도 역시 10匁이기 때문이다.
+고로 이 경우에 金 1分 6厘를 1원으로 改正하게 되면 그때의 日米 간의 平價는 『100원 對 40弗』이 되게 된다. 何故오 하면 何者의 순금함유량을 물론하고 다 각각 16匁이기 때문이다. 如斯히 원래의 평가 100원 對 50弗을 100원 對 40弗 혹은 100원 對 25弗로 감소시키는 것을 가르쳐서 平價切下하고 한다. 前者의 경우에는 2割 切下요. 後者의 경우에는 5割 切下다. 그러고 그 切下한 결과에 의하야 새로 된 평가를 원래의 평가와 대칭할 때에 此를 新平價라고 한다. 그러고 그 원래의 평가를 舊平價라고 한다.
+
+貨幣價値 引下의 手段
+그러면 平價切下는 그 나라 貨幣價値 인하의 수단이 된다. 즉 평가를 2割 切下하면 그 나라의 貨幣價値는 2割이 低落된다. 詳言하면 100원 對 50弗을 2割 切下하야 100원 對 40弗로 改正하면 日本의 화폐가치는 2割 低落한다.
+
+高物價政策의 手段
+그러면 貨幣價値는 왜 인하할 필요가 잇는냐? 國內産業을 不振沈衰의 苦難 중으로부터 구출하는 데는 高物價政策이 필요한데 此를 실현하는 簡便 且 有效한 방도는 貨幣價値를 인하하는 데 잇다. 고로 平價切下는 결국 고물가정책을 실현하는 가장 유력한 수단의 하나이다.
+
+債務輕減의 一手段
+平價切下는 또한 貨幣價値의 低落을 통하야 債務를 경감하는 一手段이 된다. 平價 즉 舊平價를 5割 切下하면 화폐가치 5割 低落을 통하야 債務負擔의 5割 輕減을 결과한다.
+
+貨幣法改正이 그 前提
+前記로 알 바와 같이 貨幣法 改正의 수속을 밟지 않고는 평가를 절하할 수가 없다. 고로 貨幣法 改正은 平價切下의 전제가 된다. (1932년 2월 9일 오전 5시반 脫稿)＜42＞
+＜37-42＞

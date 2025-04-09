@@ -1,0 +1,324 @@
+Magazine Title: 동광 제24호
+Publication Date: 1931년 08월 04일
+Article Title: 正音 以前의 조선글 2, 今日까지 전한 文字 (Korean Writing Before Chŏngŭm [Hangeul] 2: Characters Transmitted to This Day)
+Author: 金允經
+Article Type: 논설 (Editorial/Essay)
+
+Korean Writing Before Chŏngŭm [Hangeul] 2: Characters Transmitted to This Day
+						Kim Yun'gyŏng (金允經)
+
+1. Idu (吏讀). What is called Idu refers to the writing of the vernacular using the sound or meaning (訓, *hun*) of Chinese characters. Its designations are also varied, appearing as 『吏讀』 (Idu), 『吏道』 (Ido), 『吏吐』 (It'o), 『吏套』 (It'o), and 『吏札』 (Ich'al). The earliest appearing name is 『吏道』 (Ido), which appears in the postface (跋文) of the 『Great Ming Code』 (大明律) completed in the 4th year of King Yi T'aejo (李太祖) (Ming Hongwu reign, year Ŭlhae [1395]), and the next one seen is 『吏讀』 (Idu), appearing in the 26th year entry of the *Annals of King Sejong* (世宗實錄). The others are thought to be merely cases of using substitute characters (對字) with similar sounds.
+
+Examining when and by whom Idu characters were created, based on statements like the one in the *Great Ming Code* postface:
+『During the Samhan (三韓) period of our dynasty (本朝), Sŏl Ch'ong (薛聰) created vernacular characters (方言文字), called Ido (吏道). As the local customs (土俗) are known and familiar from birth, they cannot be suddenly reformed. How can we go to every house and village to teach each person? It is appropriate to read this book [the Great Ming Code] and guide them using Ido (吏道).』
+Or the one in Chŏng Inji's (鄭麟趾) preface to the *Hunminjŏngŭm* (訓民正音):
+『In the past, Sŏl Ch'ong of Silla (新羅) first created Idu (吏讀), which is still used today by government offices and the common people. However, they all borrow characters for use, sometimes awkwardly or obstructively. It is not only crude and baseless, but concerning language, it cannot convey even one ten-thousandth of it.』
+Or the one in the *Munhŏnbigo* (文獻備考) (in the *Yemungo*, entry on *Yŏktae Chŏsul* [歷代著述條]):
+『Sŏl Ch'ong of Silla used the vernacular (方言) to interpret the Nine Classics (九經), and also composed official documents (吏札, *Ich'al*) in the vernacular language (俚語), which were used in government offices and public ledgers (公簿).』
+These make it seem as if Sŏl Ch'ong, a person from the time of King Sinmun (神文王) of Silla, first created it. Perhaps the documents cited by the authors quoted above were lost because many historical records have burned up in successive wars, but in the extant old documents like the *Samguk Sagi* (三國史記) or *Samguk Yusa* (三國遺事), there is no record stating that Sŏl Ch'ong created Idu. Only, in the *Samguk Sagi*, Volume 46, entry on Sŏl Ch'ong (薛聰條), it says:
+『Ch'ong was inherently bright and sharp, naturally understanding principles. He read the Nine Classics using the vernacular (方言), instructing later generations, and scholars still venerate him today. He was also skilled in composing texts, but none are extant in the world. However, in the southern region today, there are occasionally steles (碑銘) said to have been composed by Ch'ong, but the characters are effaced and cannot be read, so ultimately we do not know what they were like.』
+And in the *Samguk Yusa*, Volume 4, entry on Wŏnhyo Pulhae (元曉不覇條), it says:
+『Ch'ong was wise and quick-witted from birth, broadly versed in the classics and histories, one of the Ten Sages of Silla. Using the local sounds (方音), he comprehended Chinese and foreign customs and names of things, interpreting the Six Classics (六經) and literature. To this day, those in the East Sea [Korea] who study the classics transmit and receive [this tradition] without interruption.』
+
+The phrases 『reading the Nine Classics using the vernacular (以方言讀九經)』 or 『Using the local sounds (方音), he comprehended Chinese and foreign customs and names of things, interpreting the Six Classics (六經) and literature (以方音通會華夷方俗物名, 訓解六經文學)』 merely state that he interpreted the Nine Classics or names of things using the vernacular or local sounds. In the writer's opinion, it is difficult to see this as meaning he created Idu at all. Furthermore, it is not clear whether the vernacular interpretation (方言 訓解) was lecturing orally or lecturing with written text. Also, phrases like 『instructing later generations (訓導後生)』 or 『transmit and receive without interruption (傳受不絶)』 make it difficult to know if it was oral transmission (口傳) or transmission via written text. Even if we view it as meaning interpretation via written text, it is hard to assert whether it was definitely written in Idu or written in ancient characters used at that time (like those appearing under the name Hyangch'al [향찰]) which are not transmitted today. However, due to the fact that the *Great Ming Code*, the preface to *Hunminjŏngŭm*, and many other later scholars viewed Sŏl Ch'ong as the creator of Idu, it seems reasonable (近理) to consider the writing Sŏl Ch'ong used when interpreting the Nine Classics to be Idu script. If interpreting the Nine Classics with Idu script is indeed a fact, even if Sŏl Ch'ong cannot be said to have created Idu script, given his status as a famous and authoritative scholar of the time, the Idu script he organized and used for the Nine Classics interpretation <39> must certainly have established a new standard for Idu script from Sŏl Ch'ong onward, just as the masterpieces of England's Chaucer or Shakespeare, or Italy's Dante, each established a new standard for their respective countries' writing. Also, in the *Tongguk T'onggam* (東國通鑑), Volume 10, entry for the 6th year of King Kyŏngdŏk (景德王), it states:
+『Kwŏn Kŭn (權近) said... In the 5th year of King Kyŏngdŏk, various doctoral posts (諸博士) were first established. At that time, people like Kangsu (强首) and Sŏl Ch'ong (薛聰) thoroughly understood principles, lectured on the Nine Classics using the vernacular (方言), and instructed later students, becoming outstanding figures (一時之傑) of the East [Korea]. In its later period, there was Ch'oe Kowun (崔孤雲), who was precise, diligent, and fond of learning, traveled to China, and his contemporaries highly praised his writings (文章).』
+From this, it is clear that Sŏl Ch'ong was not the only one who interpreted the Nine Classics using the vernacular. However, in the *Samguk Sagi*'s entry on Kangsu (强首條), it is seen that he was famous for his Chinese scholarly writing (漢學 文章), but the fact that he interpreted the Nine Classics using the vernacular is not seen. Perhaps Kwŏn Kŭn's statement was based on other sources. In any case, regarding the statement that Sŏl Ch'ong created Idu, considering various points, I want to assert that it is baseless (망설이). This is primarily because documents and stone inscriptions written in Idu already existed before Sŏl Ch'ong. In the *Dongyi Liezhuan* (東夷列傳) of the *Wei Zhi* (魏志), Idu place names and official titles are visible. Perhaps based on this, Mr. Sin Ch'aeho (申采浩) asserted that Idu was the national script (國文) of the successive dynasties of Samhan, Samguk (Three Kingdoms), Tongbukguk (Northeast Kingdoms), and Koryŏ. Furthermore, he went a step further, stating that by the early and middle periods of the Three Kingdoms, everything (凡百) came to be recorded in Idu script. (Note 18) Even today, Idu script is visible on the Silla King Chin'hŭng's (眞興王) Royal Tour Stele (巡狩碑文) standing on Pibong Peak (碑峯) of Pukhan Mountain (北漢山) (Kugi-ri, Ŭnp'yŏng-myŏn, Koyang-gun, Kyŏnggi Province). This stele is 5 *ch'ŏk* 1 *ch'on* long, 2 *ch'ŏk* 3 *ch'on* wide, 5 *pun* 5 *rin* thick, with characters in Kaishu script (楷書) of 1 *ch'on* diameter. The upper part is damaged, and the strokes are eroded, making it impossible to read completely, but transcribing only what can be read is as follows:
+『Record of the Time When King Chinhŭng the Great and His Officials Toured □□
+Proclamation □ Regarding Armored Soldiers □□□ Year □□□ Hegemon Lord □
+Place Used for High Rites to the Western Peak □□□□ Time of Rites to the Peak Silla Great King
+Yŏkdŏk Did Not Use Soldiers Thus □□□□□□□ Greatly Obtained People □□□
+□ This Tour Inspecting Border Territory □□□□□□□□ If There Be Loyalty and Sincerity
+□ May Add Reward □ Merit With □□□□□□□ Passing Through Hansŏng Ascended □
+Saw a Daoist □ Residing in Stone Cave □□□□ Carved Stone Record
+Chŏkkan Naebuji Huidae Takkak □ Chi Chapkan Namch'ŏn Kunchu □
+Taeji Kŭpkan Miji Taenae □□□□ Sahoe Kujŏng Ch'anae □□
+Pu □ Chi □ Kongch'i Chŭk □□□□□□□ Established What Was Made Not Mouth
+□ Guard Seeing □□□□ Engraved Stone □□□ Record Together』(Note 9)
+
+In this stele inscription, the fact that King Chin'hŭng toured with his officials is visible, which corresponds to the record in the *Samguk Sagi*, *Silla Annals*, 16th year of King Chin'hŭng:
+『Winter, 10th month, the King made a royal tour to Pukhan Mountain, expanding and fixing the borders.』
+Therefore, the year of the tour can be clearly known. However, since the year the stele was erected does not necessarily coincide with the year of the tour, the year of erection is difficult to determine. But Mr. Katsuragi Sueji (葛城末治) noted the phrase 『Namch'ŏn Kunchu (南川軍主)』 in the stele inscription and stated:
+『In the *Samguk Sagi*, entry for the 29th year of the same king [Chin'hŭng], it says, "Winter, 10th month, abolished Pukhan Mountain Province (北漢山州), established Namch'ŏn Province (南川州)." Since a Kunchu (軍主, Military Governor) was appointed to govern a province (州), as long as the characters 「Namch'ŏn Kunchu」 appear in the inscription, it is contradictory to view its date as before the king's 29th year. Therefore, the year the stele was erected is estimated to be the 10th month of King Chin'hŭng's 29th year, Mujin (戊子) (568 AD).』(Note 21)
+If this stele was erected in the 29th year of King Chin'hŭng, this corresponds to 124 years before the 12th year of King Sinmun (692 AD), when Sŏl Ch'ong is said to have created Idu. Therefore, the fact that Idu script was used in this stele provides more than enough evidence to refute the various claims that Sŏl Ch'ong created Idu. Such evidence is not limited to this one place; there are also King Chin'hŭng's Border Expansion Stele (拓境碑) in Ch'angnyŏng (昌寧) and King Chin'hŭng's Royal Tour Stele in Hamhŭng (咸興). Not only that, but Idu itself is clearly seen not to be something systematically created by one person at one time, but rather something that developed gradually over time as various people in different eras, driven by practical needs, arbitrarily borrowed Chinese characters, using their sounds or meanings phonetically to represent the vernacular. In the *Munhŏn Ch'waryo* (文獻撮要), it says:
+『Mun Sun'gong Pak Sech'ae (文純公朴世采) said, "Our country's oral formulas (口訣, Kugyŏl) and interpretations (釋義) for the classics are something the Central Dynasty [China] does not have. It began with Sŏl Ch'ong (薛聰) and was perfected by Chŏng P'oŭn (鄭圃隱) and Kwŏn Yangch'on (權陽村)."』
+This makes it seem as if what Sŏl Ch'ong used to interpret the Nine Classics was not Idu script but Kugyŏl script (口訣文), but this can be said to stem from equating Idu and Kugyŏl. (To be discussed later). However, this proves that the script was not <40> created all at once.
+
+Therefore, when did Idu arise? It is thought to have begun after Chinese characters were imported (i.e., between the early Three Kingdoms period and before King Chijŭng Maripkan [智証 麻立干] of Silla; thought to be imported concurrently with Buddhism, but awaiting clear archaeological evidence of Chinese character importation) and developed through the hands of many people over a long period. This is not just the author's personal arbitrary judgment but seems to be the consistent opinion of many recent scholars.
+
+Now, I wish to examine the content of Idu a bit more. There are not a few extant Idu documents. The important Idu documents are as follows:
+*Great Ming Code* (大明律) (4th year of Yi T'aejo)
+*Chŏllyul T'ongbo* (典律通補) (Compiled by Ku Yunmyŏng [具允明] during King Chŏngjo's reign, entry on "Imun" [吏文條])
+*Kogŭm Sŏngnim* (古今釋林) (Compiled by Yi Ŭibong [李儀鳳] in the 13th year of King Chŏngjo, entry on "Narae Idu" [羅麗吏讀條])
+*Yusŏ P'ilchi* (儒胥必知) (Date, author unknown)
+*Sinsik Yusŏ P'ilchi* (新式儒胥必知) (Revision of the former, 5th year of Kwangmu, by Sin Ch'onja [愼村子])
+*Samguk Yusa* (三國遺事) (14 Hyangga poems)
+*Tae Hwaŏm Sujwa Wŏnt'ong Yangjung Taesa Kyunyŏ Chŏn* (大華嚴首座圓通兩重大師均如傳) (11 Hyangga verses)
+*Wei Zhi* (魏志) (Personal names, place names, official titles, etc. in the Han section of the *Dongyi Liezhuan*)
+*Samguk Sagi* (三國史記) (Personal names, place names, official titles, etc.)
+*Idu P'yŏllam* (吏讀便覽)
+Other stone inscriptions (like King Chin'hŭng's Royal Tour Stele and Border Expansion Stele, Kalhangsa Stone Pagoda Record [葛項寺石塔記], etc.)
+
+Now let's look at one of the Hyangga from the *Samguk Yusa*, the *Ch'ŏyongga* (處容歌):
+『東京明期月良
+夜入伊遊行如可
+入良沙寢矣見昆
+脚烏伊四是良羅
+二肹隱吾下於叱古
+二肹隱誰友下焉古
+本矣吾下是如馬於隱
+奪叱良乙何如爲理古』
+This is the *Ch'ŏyongga* written in Idu script. This song is said to have been composed and chanted by Ch'ŏyong, son of the Dragon King. King Hŏn'gang (獻康王, r. 875-886), the 49th king of Silla, encountered Ch'ŏyong on his way back from Kaeunp'o (開雲浦) (southwest of Haksŏng, Ulsan [蔚山 鶴城 西南]), brought him back, made him his son-in-law, and appointed him Kŭpkan (級干) to assist in governance. Then, an evil spirit (疫神), captivated by the beauty of Ch'ŏyong's wife, transformed itself, secretly entered Ch'ŏyong's bedroom, and slept there, only to be discovered by Ch'ŏyong. Seeing the two sleeping together, Ch'ŏyong composed and sang this song. The evil spirit, upon hearing it, apologized and swore that henceforth, merely seeing Ch'ŏyong's portrait, it would never enter that house. Now, interpreting the song is as follows:
+
+『In the bright moon of Tonggyŏng (東京, i.e., Kyŏngju [慶州])
+東京明期月良 (Tonggyŏng palgŭn tar-e)
+Having roamed about until late at night
+夜入伊遊行如可 (Pam tŭri nonidaga)
+Entering and looking upon the bedding
+入良沙寢矣見昆 (Tŭrŏsŏ chari-e poni)
+Lo and behold, there are four legs
+脚烏伊四是良羅 (Karai ney-irŏra)
+Two are mine
+二肹隱吾下於叱古 (Tuhŭr-ŭn nae hae-ŏtko)
+Whose are the other two?
+二肹隱誰友下焉古 (Tuhŭr-ŭn nuguui haen-go)
+Originally they were mine, but
+本矣吾下是如馬於隱 (Pondi nae hae-ida-manŭn)
+What shall be done about the stolen one?
+奪叱良乙何如爲理古』 (Ppaeasŭm-ŭl ŏjjihalkko)
+
+Though some points are unclear, this is generally the meaning. Also, let's take an example from the *Great Ming Code* (大明律) (Yi T'aejo 4th year, 1395 AD edition):
+『Intercourse between Freeborn and Lowborn (良賤相奸) (First the Chinese text, next the Idu text showing grammatical markers added) 凡奴奸良人婦女者, 加凡奸罪一等, 良人奸他人婢者, 減一等, 奴婢相奸者, 以凡奸論. [The text implies Idu markers like '加等是乎', '減等是乎', '爲遣' were added to punctuate/parse the original Chinese text for Korean readers, e.g., "凡奴奸良人婦女者 加等是乎..." meaning roughly "Regarding a male slave violating a freeborn woman (subject marker/topic)... add one degree..."].』
+It became like this. Comparing the former [Hyangga] with this [Great Ming Code example], we can clearly see how much the writing style has changed. In the earlier song, the sounds or meanings of Chinese characters were mixed to write the entirety of the vernacular, that is, content words (名詞, 動詞, 形容詞 - nouns, verbs, adjectives) and grammatical markers (調査, 接續詞, 終止詞 - particles, conjunctions, sentence enders), or even modifiers (冠詞, 副詞, 驚嘆詞 - articles, adverbs, interjections). However, over a long time, it gradually changed, its scope of application narrowed, and by the time of the later *Great Ming Code*, it reached a point where content words were largely left as they were in Chinese characters, and only grammatical markers were written using Idu script.
+
+Now, for reference, let's list examples of words written in Idu script, from one character up to eleven characters:
+(First is Idu, next its pronunciation, finally its meaning)
+1-Character Words: 節 (chiwi)... time (ttae), 幷 (kalp)... together (aŭrŭ), 置 (tu)... place (tu), 良 (an)... that time (kŭ ttae),
+2-Character Words:
+進賜 (naara)... present/advance (naari), 白是 (salm-i)... saying (salm), 加于 (tŏuk)... moreover (tŏuk), 戈只 (kkiri)... among themselves (kkiri), 効音 (tajim)... document/oath (chŭngsŏ, sŏyak), 矣舟 (ŭimom)... that (chŏ), 是喩 (inji)... whether it is (inji), 是矣 (idwe)... although it is (idwe), 是如 (ida)... it is (ida).
+3-Character Words:
+爲良結 (haolachŏ)... please do (hayŏjiida), 是白遣 (isalpkko)... being this (isigo), 兺除良 (ppuntŏrŏ)... not only...but also (ppuntŏrŏ), 是去等 (ikŏdŭn)... if it is this (ikŏdŏn, iyŏdŏn), 爲去乎 (hakŏon).... it is that which does (hanŭn kŏsini), 爲白齊 (hasiljje)... when doing (hasiljje), 是良置 (iradu)... even if it is (irado), 典當以 (chŏndang'ŭro)... as a pledge (chŏndang'ŭro), 爲巴只 (haduruk)... so as to do (hadorok), 上白是 (sangsalm-i)... reporting (sangsal'i).
+4-Character Words:
+是白乎乃 (isalp'una)... although it is (isi'ona), 爲白乎喩 (hasaryonji)... intends to do? (haryanŭnji), 分叱不喩 (ppun'aninji)... not only...but also (ppunanira), 爲行如可 (hayŏttaga)... having done (hayŏttaga), 爲乎良以 (haon yang'ŭro)... as doing (haon yang'ŭro).
+5-Character Words:
+是白乎等以 (isalp'ondŭllo)... because it is (iapkiro), 是去有等以 (ikŏi sindŭllo)... because it is this (ikŏsin koro), 矣舟向爲良 (ŭimom an hayŏ)... facing that (chŏrŭl hyanghayŏ), 望良白去乎 (parasalpkŏon)... wishing (paraomnŭn kŏsini),
+6-Character Words:
+爲白有如乎事 (hasalp pitdaon il)... the matter said to have been done (hayŏtta haon il), 爲有置有等以 (hayŏt tuisindŭllo)... because it was done (hayŏssŭmŭro), 是去是乎等以 (ikŏsiondŭllo)... by doing thus (irŏk'ehamŭro, irŏmŭro), 敎是臥乎在亦 (isinŭon kyŏnyŏ)... because it is (isin kŏsigie).
+7-Character Words:
+望洋白內臥乎事 (paraapnŭn nuon il)... the matter wished for (paraamnŭn il), 爲臥乎所乙用良 (hanuon parŭl ssŭa).... by means of what is done (hanŭn parossŏ), 貌如使內良如敎 (chŭtta purŏda isan)... do as it seems (taero hayŏra).
+8-Character Words:
+是如爲乎乙喩良置 (ida haolchiradu)... even though it is said to be (ira haoljjirado), 是如爲白有臥乎等 (ida hasalp isinuondŭl)... even if it was said to be (ira hayŏssaondŭl).
+9-Character Words:
+令是乎爲使內在乙良 (sigio sam pari kyŏnŭllyang)... the one who intends to make someone do (sigiryŏgo hanŭn irŭrang).
+10-Character Words:
+是如爲白乎乙叱分不喩 (ida hasalp'ŭlppun aninji)... not only saying that it is (irago haolppun anira)
+11-Character Words:
+爲等如白侤音是置有等以 (hadŭrŏ salptachim idu isiniyŏ)... because it is judged/informed to be so (han chullo arweŏda. chimira hamŭro).
+
+Looking at these, we can see that the scope of application for Idu (吏讀) gradually narrowed, eventually becoming extremely rare for content words and mostly confined to grammatical markers. Perhaps because of this, Mr. Ogura Shinpei (小倉進平) stated:
+『Ultimately, although Idu provides indispensable material for researchers of Old Korean, the limitation is that its words are confined only to a portion of adverbs, auxiliary verbs, and particles, not extending widely to various parts of speech, which truly makes one endure the feeling of scratching an itch through the boot (隔靴搔痒).』(Note 3)
+However, this is thought to be a statement made either looking at later Idu (after its scope of application had narrowed) or made while equating Kugyŏl (口訣) (i.e., T'o [吐], to be discussed later) with Idu. Just as Hyangch'al (향찰) and Idu are entirely different, Idu and Kugyŏl (T'o) are also entirely different. (This will be discussed later).
+A year after writing this manuscript, Mr. Ogura's new research stated that Hyangch'al, Idu, and T'o (Kugyŏl) are fundamentally the same thing. (Note 22) However, no certain evidence for this is apparent.
+(Refer to the main text, section on "Kugyŏl" [口訣條])
+
+(Note 21) Katsuragi Sueji (葛城末治), *Chōsen Kinsekibun* (朝鮮金石文) (in *Chōsen Shi Kōza* [朝鮮史講座])
+(Note 22) Ogura Shinpei (小倉進平), *Teika oyobi Ritō no Kenkyū* (鄭歌及吏讀の硏究) <42>
+<39-42>
+
+**Summary**
+
+This article by Kim Yun'gyŏng analyzes the pre-Hangeul Korean writing system known as Idu (吏讀). Kim argues against the traditional attribution of Idu's invention solely to Sŏl Ch'ong of Silla, presenting evidence like the 6th-century King Chin'hŭng stele and mentions in Chinese records to suggest Idu originated much earlier, likely developing gradually after the introduction of Chinese characters in the Three Kingdoms era. The author traces Idu's evolution from a system capable of writing full vernacular sentences (as in Hyangga poetry) to one primarily used for adding Korean grammatical markers to Chinese texts by the late Koryŏ/early Chosŏn period. Kim emphasizes the distinction between Idu, Hyangch'al, and Kugyŏl, critiquing contemporary scholars like Ogura Shinpei for potentially conflating these distinct systems.
+
+From the perspective of Korean colonial history, this article is significant as an assertion of Korea's long and independent literary and linguistic heritage. By challenging the Sŏl Ch'ong narrative and pushing the origins of systematic Korean writing further back, Kim counters potentially diminishing colonial views of Korea's cultural history. The critical engagement with Japanese scholarship (Ogura, Katsuragi) reflects the intellectual dynamics of the period, where Korean scholars actively worked to define and defend their national history within the colonial academic context.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun'gyŏng
+李太祖	이태조	Yi T'aejo
+薛聰	설총	Sŏl Ch'ong
+鄭麟趾	정인지	Chŏng Inji
+新羅	신라	Silla
+神文王	신문왕	Sinmun Wang
+三國史記	삼국사기	Samguk Sagi
+三國遺事	삼국유사	Samguk Yusa
+元曉	원효	Wŏnhyo
+權近	권근	Kwŏn Kŭn
+景德王	경덕왕	Kyŏngdŏk Wang
+强首	강수	Kangsu
+崔孤雲	최고운	Ch'oe Kowun
+申采浩	신채호	Sin Ch'aeho
+北漢山	북한산	Pukhan San
+高陽郡	고양군	Koyang-gun
+恩平面	은평면	Ŭnp'yŏng-myŏn
+舊基里	구기리	Kugi-ri
+眞興王	진흥왕	Chin'hŭng Wang
+漢城	한성	Hansŏng
+葛城末治	카츠라기 스에지	Katsuragi Sueji
+南川	남천	Namch'ŏn
+昌寧	창녕	Ch'angnyŏng
+咸興	함흥	Hamhŭng
+朴世采	박세채	Pak Sech'ae
+鄭圃隱	정포은	Chŏng P'oŭn
+權陽村	권양촌	Kwŏn Yangch'on
+智証 麻立干	지증 마립간	Chijŭng Maripkan
+具允明	구윤명	Ku Yunmyŏng
+正祖	정조	Chŏngjo
+李儀鳳	이의봉	Yi Ŭibong
+愼村子	신촌자	Sin Ch'onja
+均如	균여	Kyunyŏ
+魏志	위지	Wei Zhi
+葛項寺	갈항사	Kalhangsa
+處容	처용	Ch'ŏyong
+憲康王	헌강왕	Hŏn'gang Wang
+開雲浦	개운포	Kaeunp'o
+蔚山	울산	Ulsan
+鶴城	학성	Haksŏng
+小倉進平	오구라 신페이	Ogura Shinpei
+
+**Glossary**
+
+吏讀	이두	Idu; system using Hanja phonetically or semantically to write Korean.
+새김	새김	Meaning, interpretation (of a Hanja character); used alongside '음' (sound). Older term for '훈' (訓).
+方言	방언	Vernacular language, dialect (here meaning Korean vs. Classical Chinese).
+對字	대자	Substitute character (using a character primarily for its sound).
+九經	구경	The Nine Classics (of Confucianism).
+訓解	훈해	Interpretation and explanation (of classical texts).
+碑銘	비명	Stele inscription.
+巡狩碑	순수비	Royal Tour Stele.
+楷書	해서	Standard script (Kaishu style of Chinese calligraphy).
+拓境碑	척경비	Border Expansion Stele.
+口訣	구결	Kugyŏl; system of symbols/abbreviated characters added to Classical Chinese texts to aid Korean reading.
+釋義	석의	Interpretation of meaning, commentary.
+吐	토	T'o; another name for Kugyŏl, referring to grammatical particles added.
+몸말	몸말	Content word (noun, verb, adjective); older grammatical term.
+토말	토말	Grammatical particle or ending; older grammatical term.
+꾸밈말	꾸밈말	Modifier (adverb, determiner); older grammatical term.
+향가	향가	Hyangga; Silla/early Koryŏ vernacular poetic form written using Hyangch'al.
+향찰	향찰	Hyangch'al; system using Hanja phonetically/semantically to write Old Korean, esp. poetry.
+잇다	있다	To be, exist (older spelling of 있다).
+녯	넷	Four (older spelling/form of 넷).
+해	것	Thing, possession (older form/dialectal variant of 것). Often appears as 下 in Idu/Hyangchal.
+누기	누구	Who (older form of 누구). Appears as 誰友 in the text's Idu.
+빼앗음	빼앗김	Being stolen (noun form). The text uses '빼앗음' (奪叱) actively.
+되엇습니다	되었습니다	Became, turned out (older spelling of 되었습니다).
+보겟습니다	보겠습니다	Will see, can see (older spelling of 보겠습니다).
+젹다	적다	To write, record (appears as '적다' in this text, but '젹다' was also common).
+하엿다	하였다	Did (older spelling of 하였다).
+-ㄹ랏다	-ㄹ러라	Exclamatory sentence ending (seen in '네히러라'). Older form.
+-ㄹ셰	-ㄹ세	Sentence ending expressing cause or reason (seen in '하실제'). Older form.
+-ㄴ들	-ㄴ들	Concessive ending ('even if...'; seen in '이신들'). Older form.
+
+
+---------------------------
+
+
+잡지명	동광 제24호
+발행일	1931년 08월 04일
+기사제목	正音 以前의 조선글 2, 今日까지 전한 文字
+필자	金允經
+기사형태	논설
+
+正音 以前의 조선글 2, 今日까지 전한 文字
+						金允經
+1. 吏讀. 이두라 하는 것은 한자의 음 혹은 새김(訓)으로 방언을 적는 것을 이름이외다. 그 명칭도 여러 가지가 잇어서 『吏讀』, 『吏道』,『吏吐』,『吏套』,『吏札』들로 들어납니다. 가장 일쯕 들어난 이름은 李太祖 4년(明洪武乙亥)에 된 『大明律』의 跋文 중에 『吏道』란 이름으로 나타난 것이고 그 다음으로 보이는 것은 세종실록 26년 條에 『吏讀』란 이름으로 나타난 것이외다. 그 밖의 것은 다 다만 비슷한 음의 對字를 씀에 불과하다고 생각되는 것이외다. 이두문자는 어느 때에 누구가 만든 것인가 상고하여 보건대 大明律 跋文에
+『本朝三韓時, 薛聰所製方言文字, 謂之吏道, 土俗生知習熟, 未能遽革, 焉得家到戶諭每人而敎之哉, 宜將是書讀之, 以吏道導之』
+라 함이라던가 훈민정음 鄭麟趾 序에
+『昔新羅薛聰始作吏讀, 官府民間至今行之, 然皆假字而用, 或澁或窒, 非但鄙陋無稽而已, 至於言語之間則不能達其萬一焉』
+이라 함이라던가 문헌비고(藝文考歷代著述條)에
+『新羅薛聰以方言解九經, 又以俚語製吏札, 行於官府公簿』
+라 한 것들을 보면 新羅 神文王때의 사람인 薛聰이 비로소 만든 것 같이 보입니다. 고래로 많은 사적이 兵火잇을 때마다 타아버린 고로 우에 인용한 저자들이 인용한 문헌도 없어짐인지는 모르나 이제까지 남아 잇는 고문헌인 삼국사기나 삼국유사들에는 薛聰이 이두를 창작하엿다는 기사는 보이지 아니합니다. 단지 삼국사기 권 제46 薛聰 條에는
+『聰性明銳, 生知道術, 以方言讀九經, 訓導後生, 至今學者宗之, 又能屬文, 而世無傳者, 但今南地, 或有聰所製碑銘, 文字缺落, 不可讀, 竟不知其何如也』
+라 하엿고 삼국유사 권4 元曉不覇條에는
+『聰生而睿敏, 博通經史, 新羅十賢中一也, 以方音通會華夷方俗物名, 訓解六經文學, 至今海東業明經者傳受不絶』
+이라 하엿을 뿐이외다. 『以方言讀九經』이라던가 『以方音通會華夷方俗物名, 訓解六經文學』이란 문구는 방언 혹은 방음으로 九經 혹은 物名을 訓解하엿다함에 지나지 않는 것이외다. 필자의 생각으로는 조곰도 그것으로 이두를 창작하엿다는 뜻으로는 보기 어렵습니다. 또 방언 訓解는 말로 강의함이엇는지 문자로 강의함이엇는지 똑똑하지 아니할뿐더러 『訓導後生』이라던가 『傳受不絶』이라함도 구전이엇눀”지 문자로 전수함이엇는지 알기 어렵고 또 그것을 문자로 訓解한 의미로 본다 할지라도 그것이 과연 吏讀로 쓴 것이엇는지 지금까지는 전하지 못하나 그 때에는 쓰던 고대문자(향찰이란 이름으로 나타남 같은)로 쓴 것이엇는지 단언하기 어렵습니다. 그러하나 大明律이라던가 훈민정음 서문이라던가 기타 후학자 다수가 설총을 이두 창작자라 본 사실로 인하여 설총이 九經을 해석할 때에 쓴 문자는 이두문이엇다고 봄이 近理하다고 생각합니다. 만일 이두문으로 九經을 訓解함이 사실이라 하면 薛聰이 이두문을 창작하엿다고는 못할찌라도 그는 당시 유명한 권위잇는 학자엿던 관계상, 그가 정리하여 九經訓解에＜39＞ 사용한 이두문은 마치 영국의 「쵸서」나 「쉑쓰피아」또는 伊太利의 「딴테」의 걸작이 각각 그 나라의 문자상 한 새표준을 세워 줌과 같이 薛聰 이래의 이두문은 한 새 표준이 되엇음에 틀림이 없다고 믿어지는 바외다. 또 東國通鑑 권10 景德王 6년 條에
+『權近曰...景德王 五年, 始置諸博士, 其時强首薛聰輩通曉義理, 以方言講九經, 訓導後學, 爲東方一時之傑, 而其季葉有崔孤雲者, 精敏好學游於中國, 同時儕輩盛稱其文章』
+이라 함을 보면 방언으로 九經을 해석한 자가 薛聰만도 아니엇던 것이 분명합니다. 그러하나 삼국사기의 强首條에는 그가 漢學 문장에 이름이 높앗던 것은 보이나 방언으로 九經을 訓解하엿다는 사실은 아니 보입니다. 權近의 말한 바는 다른대 의거하엿는지 모르겟습니다. 어찌 하엿거나 薛聰이 吏讀를 창작하엿다는 말에 대하여는 여러 가지 점으로 보아 망설이라고 단언하고 싶습니다. 이는 무엇보다 薛聰 이전에 이미 이두로 적힌 문헌이며 금석문이 잇엇는 까닭이외다. 魏志의 東夷列傳에는 이두 지명이며 직명이 보입니다. 이에 의하여선지 申采浩씨는 이두가 삼한, 삼국, 東北國, 고려 들의 역대의 국문이엇다고 단언하엿습니다. 또 씨는 한 거름 더 나아가 삼국의 초엽, 중엽에 이르러서는 이두문으로 凡百을 기록하게 되엇다고 하엿습니다.(註18) 이제까지 北漢山의 碑峯(경기도 高陽郡 恩平面 舊基里)에 서어 잇는 신라 진흥왕 巡狩碑文에도 이두문이 보입니다. 이 비는 길이 5척1촌, 가로 2척3촌, 두께 5척5분, 字徑 1촌의 楷書로 된 것인데 상부는 결손되엇을뿐더러 자획도 剝落되어 다 읽어낼 수 없으나 이제 읽어낼 만한 것만을 적으면 다음과 같읍니다.
+『眞興太王及衆臣等巡狩□□之時記
+言□令甲兵之□□□年□□□覇主□
+之所用高祀西嶽□□□□祀嶽之時新羅大王
+耀德不用兵故□□□□□□□文大得人民□□□
+□是巡狩管境□□□□□□□□如有忠信精誠
+□可加賞□功以□□□□□□衆路過漢城陟□
+見道人□居石窟□□□□刻石誌辭
+尺干內夫智喙多刻□智匝干南川軍主□
+大智及干未智大奈□□□□沙喙屈丁次奈□□
+夫□指□空齒則□□□□□□□立所造非口
+□守見□□□□刊石□□□記幷』(註九)
+이 비문에 진흥왕이 衆臣과 함께 巡狩한 사적이 보이는데 이것은 삼국사기 신라본기 진흥왕 16년 條에
+『冬十月, 王巡幸北漢山, 拓定封疆』
+이라 한 기사와 부합하는 것인 고로 巡狩의 연대는 명백히 알 수 잇게 됩니다. 그러하나 비를 세운 연대가 반드시 巡狩한 연대와 일치하는 것은 아니매 비 세운 연대는 단언하기 어렵습니다. 그러한데 葛城末治씨는 그 비문 중의 『南川軍主』에 주의하여서
+『三國史記 同王29년 條에 「冬十月廢北漢山州, 置南川州」라 한 바 州에는 軍主를 두어 통할하게 한 것인 고로 비문에 「南川軍主」란 문자가 보이는 이상, 그 연대를, 왕의 29년 이전이라고 보는 것은 모순이다. 그러한 고로 비를 세운 연대는 진흥왕 29년 戊子(서기568년)10월이라 추정한다』(註21)
+고 하엿습니다. 만일 이 비가 진흥왕 29년에 선 것이라 하면 薛聰이 이두를 만들엇다 하는 신문왕 12년(서기692년)에 견주어 124년 전에 상당합니다. 그러한 고로 이 비에 이두문이 사용되엇다고 하는 것은 薛聰이 이두를 창작하엿다는 여러 말을 타파하고도 남음이 잇다 하겟습니다. 이같은 증거는 이 한 곳 뿐 아니라 昌寧의 진흥왕 拓境碑라던지 咸興의 진흥왕 巡狩碑도 잇습니다. 그 뿐 아니라 이두 그 자체가 어떠한 사람이 한 때에 창작함과 같은 조직이 정연한 것이 아니고 다만 각 시대의 여러 사람들이 실용의 필요에 몰리어 자기 마음대로 한자를 빌어서 그 음 또는 새김을 가지고 표음식으로 방언을 표기하던 것이 세월을 지냄에 딸아서 점점 발달하여온 것이 밝히 보이는 것이외다. 文獻撮要에
+『文純公朴世采曰, 我國經書口訣釋義, 中朝所未有, 始於薛聰, 成於鄭圃隱權陽村』
+이라 함을 보면 薛聰이 九經을 訓解한 것은 이두문이 아니요 口訣文이엇던 것 같이 보이나 이는 이두와 구결을 동일시함에서 나온 말이라 하겟습니다.(나종 말할 터) 그러하나 그것으로 그 문자가＜40＞ 일시에 창작함이 아님은 증명됩니다.
+그러한 즉 吏讀은 언제 생기엇으냐 하면 한자가 수입된 뒤(즉 삼국초기 이후, 신라, 智証 麻立干 이전의 사이. 불교 수입과 동시 수입으로 생각하나 한자 수입의 명백한 고증을 기다림(에 시작되어 오란 세월을 겪는 동안에 여러 사람의 손으로 발달된 것이라고 생각합니다. 이는 필자 일개인의 독단이 아니라 근래 다수 학자의 일치한 의견인 것 같읍니다.
+이제 다시 좀 살피어 보고저 하는 것은 이두의 내용에 대하여서외다. 이두의 문헌은 이제까지 남아 잇는 것이 적지 아니합니다. 그 중요한 이두 문헌은 다음과 같읍니다.
+大明律(李太祖4년)
+典律通補(正祖時具允明編, 「吏文」條)
+古今釋林(正祖13년 李儀鳳編, 「羅麗吏讀」條)
+儒胥必知(연대, 저자 미상)
+新式儒胥必知(前者 改修, 光武5년 愼村子)
+三國遺事(향가 14편)
+大華嚴首座圓通兩重大師均如傳(향가 11수)
+魏志(東夷列傳의 韓傳 중 인명, 지명, 관명 등)
+三國史記(인명, 지명, 관명 등)
+吏讀便覽
+기타 금석문(眞興王巡狩碑 及 拓境碑, 葛項寺石塔記들 같은)
+이제 삼국유사의 향가 중의 하나인 처용가를 들어 보면
+『東京明期月良
+夜入伊遊行如可
+入良沙寢矣見昆
+脚烏伊四是良羅
+二肹隱吾下於叱古
+二肹隱誰友下焉古
+本矣吾下是如馬於隱
+奪叱良乙何如爲理古』
+이것이 이두문으로 쓴 처용가외다. 이 노래는 신라의 49대 헌강왕(서기875-886)이 開雲浦(蔚山 鶴城 西南)에서 돌아오는 도중에 용의 아들이라는 처용을 만나 함께 데리고 돌아온 뒤에 사위를 삼고 또 級干을 시키어 정사를 돕게 하엿더니 역신이 처용의 처의 아름답은 얼골에 홀리어 그 몸을 변하여가지고 가만이 처용의 침실에 들어가아 자다가 처용에게 발견되엇습니다. 처용은 두 사람이 함께 자는 것을 보고 이 노래를 지어 읊엇다고 하는 것입니다. 역신은 이것을 듣고 사죄하면서 이제부터는 당신의 화상만 보더라도 그 집에는 결코 들어가지 아니하마고 맹서하엿다고 합니다. 이제 그 노래를 해석하여 보면 다음과 같읍니다.
+『동경 밝은 달에
+東京明期月良 (東京은 慶州)
+밤들이 노니다가
+夜入伊遊行如可
+들어서 자리에 보니
+入良沙寢見昆
+가라이 녯이러라
+脚烏伊四是良羅
+두흘은 내해엇고
+二肹隱吾下於叱古
+두흘은 누기핸고
+二肹隱誰友下焉古
+본디 내 해이다마는
+本矣吾下是如馬於隱
+빼앗음을 어찌할꼬
+奪叱良乙何如爲理古』
+다소 분명치 못한 점도 잇으나 대체는 이와 같은 뜻입니다. 또 大明律(李太祖4년, 서기1395版)의 일례를 들어 보면
+『良賤相奸(먼저가 한문, 다음이 이두문)凡奴奸良人婦女者, 加凡奸罪一等, 良人奸他人婢者, 減一等, 奴婢相奸者, 以凡奸論.
+이같이 되엇습니다. 먼저의 것과 이것을 비교하여 보면 매우 그 문체가 변하여옴을 밝히 보겟습니다. 먼저의 노래에서는 한자의 음이나 새김을 섞어서 방언의 전부 즉 몸말(명사, 동사, 형용사)과 토말(조사, 접속사, 終止詞), 또는 꾸밈말(관사, 부사, 경탄사)까지 적게 되엇섯으나 오란 동안 점점 변화되어 그 활용 범위가 좁아지다가 나종의 大明律에 이르게 되어서는 자못 한문으로 된 그대로 몸말은 두고 토말만 이두문으로 씀에 불과하게 됨을 보겟읍니다.
+이제 참고하기 위하여 한 자로 된 말로부터 열 한 자로 된 말까지 이두문으로 적은 것을 들어 보면 다음과 같읍니다.
+1字語(먼저는 이두, 다음은 그 발음, 나종은 그 뜻)節(지위)...때, 幷(갋)...아으르, 置(두)...두, 良(안)...그 때,
+2字語
+進賜(나아라)...나아리, 白是(삶이)...살욈, 加于(더욱)...더욱, 戈只(끼리)...끼리, 효音(다짐)...證書, 서약, 矣舟(의몸)...저, 是喩(인지)...인지, 是矣(이되)...이되, 是如(이다)...이다.
+3字語
+爲良結(하올아저)...하여지이다. 是白遣(이삷고)...이시고, 兺除良(뿐더러)...뿐더러, 是去等(이거든)...이거던, 이어던, 爲去乎(하거온)....하는 것이니, 爲白齊(하실제)...하실쩨, 是良置(이라두)...이라도 典當以(전당으로)...전당으로, 爲巴只(하두룩)...하도록, 上白是(상삷이)...상살이.
+4字語
+是白乎乃(이삷으나)...이시오나, 爲白乎喩(하사론지)...하랴는지, 分叱不喩(뿐아닌지)...뿐아니라, 爲行如可(하엿다가)...하엿다가, 爲乎良以(하온 양으로)...하온 양으로.
+5字語
+是白乎等以(이삷온들로)...이압기로, 是去有等以(이거이신들로)...이것인 고로, 矣舟向爲良(의몸안하여)...저를 향하여, 望良白去乎(바라삷거온)...바라옵는 것이니,
+6字語
+爲白有如乎事(하삷빗다온일)...하엿다 하온 일, 爲有置有等以(하엿두이신들로)...하엿음으로, 是去是乎等以(이것이온들로)...이러케함으로, 이럼으로, 敎是臥乎在亦(이시누온견여)...이신 것이기에.
+7字語
+望洋白內臥乎事(바라압는 누온 일)...바라압는 일, 爲臥乎所乙用良(하누온 바를 쓰아)....하는 바로써, 貌如使內良如敎(즛다부러다이산)...대로하여라.
+8字語
+是如爲乎乙喩良置(이다 하올지라두)...이라 하올찌라도, 是如爲白有臥乎等(이다하삷이시누온들)...이라 하엿사온들.
+9字語
+令是乎爲使內在乙良(시기오삼바리견을량)...시기려고 하는 이를랑.
+10字語
+是如爲白乎乙叱分不喩(이다하삷을뿐 아닌지)...이라고 하올뿐 아니라
+11字語
+爲等如白侤音是置有等以(하트러삷다짐이두이신이여)...한 줄로 알외어다. 짐이라 함으로.
+이것들을 보면 史讀는 활용의 범위가 점점 좁아저서 마침내 몸말은 극히 드물게 쓰고 대부분 토말에 국한되게 됨을 보겟습니다. 이로 인함인지 小倉進平씨는
+『결국 이두란 것은 古 조선어 연구자에 대하여 필요 불가결할 자료를 공급하는 것이지마는 한되는 것은 그 말이 다만 부사, 조동사, 조사들의 일부에 국한되어서 널리 각종 품사에 및지 못함은 실로 隔靴搔痒의 감을 견디지 못하는 바라』(註3)고 하엿습니다. 그러하나 이는 후세의 이두(활용 범위가 좁아진 뒤의)를 보고 한 말이 아니면 口訣(즉 吐, 나종에 말할 터)과 이두를 동일시하고서 하는 말이라고 생각됩니다. 향찰과 이두가 전연 다름과 같이 이두와 口訣(吐)도 전연 다른 것이외다. (이에 대하여는 나종 말하겟습니다)
+이 원고를 쓴 지 1년 후에 小倉씨의 새 연구 향찰과 이두와 吐(口訣)는 근본 동일한 것이라 하엿습니다.(註22) 그러하나 이에 대한 무슨 확실한 증거는 보이지 아니합니다.
+(본론 「口訣」條 참조)
+
+(註21)葛城末治著『朝鮮金石文』(『朝鮮史講座』중의)
+(註22)小倉進平著『鄭歌及吏讀の硏究』＜42＞
+＜39-42＞

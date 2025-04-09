@@ -1,0 +1,124 @@
+Magazine Title: 동광 제5호
+Publication Date: 1926년 09월 01일
+Article Title: 대륙이 떠 다니나? 륙대주가 본시는 한 덩어리 엇섯다, 오스트리아 학자의 신학설 (Are the continents drifting? The six continents were originally one mass, a new theory from an Austrian scholar)
+Article Type: 논설 (Editorial/Article)
+
+Are the continents drifting? The six continents were originally one mass, a new theory from an Austrian scholar
+
+The six great continents were originally one mass but gradually broke apart due to the gravitational pull of the sun and moon – so claims the Austrian geologist Professor Wegener (웨게네르), surprising the world with his new theory. Thus, this theory is currently at the center of debate among various scholars. Looking at the facts he presented as evidence, first, if you spread out a map and push North and South America from the Pacific Ocean side, they fit against Europe and Africa across the Atlantic Ocean as if joining matching pieces. Besides this, one can cite many things such as the distribution of animal and plant fossils between America and Europe, the similarity in the geological formation of South America and Africa, and the structure of ancient glaciers.
+
+Definite Proof in Ten Years
+However, even more definite proof can only be known ten years from now. This is because, at last year's geological conference, scholars, in order to test this theory, recorded the meridian passage points in various regions using wireless telegraphy. By surveying again after ten years, it will be possible to know whether the continents are moving or not.
+
+Drifting is Possible
+However, the question is whether it is truly possible for continents to move. We might immediately think that continents made of rock masses are attached from the center of the Earth, so how could they drift around like ice floes floating on water? Scientists say it is possible.
+The Earth's core, as has been clearly proven, is a solid mass mixed with iron and nickel (닉겔). (The old theory that the Earth's core was molten metal has already become outdated.) The scholar Suess (수에쓰) named that solid iron core "Nife" (니폐), meaning a combination of nickel (닉겔) and ferrum (폐르) (iron). Above this core, Nife (니폐), there is a layer called "Sima" (씨마), which is made of silica (씰리카) and magnesium (막네시ウム); and above that, there is a layer called "Sial" (씨알), which is what we call the continents. The Sial (씨알) layer is lighter than the Sima (씨마) layer and floats upon it, not completely freely floating, but rather like a block of *meju* (메주ㅅ덩이, fermented soybean brick) floating in a crock of soy sauce. <25>
+
+The Driving Force is Still Unknown
+It might sound strange that rock floats on top of rock, but strictly speaking, even rock has fluid properties, so the heavier parts go down and the lighter parts come up. Just as among liquids, water sinks and oil floats, among solids, one sinks and one floats. Therefore, it is possible for the floating Sial (씨알) layer to break apart and scatter, driven by some force.
+Thus, according to this new theory, the continent, which was one mass centered around Africa in ancient times, began to break apart during the "Reptile Age" (파충(爬蟲)시대) and the "Mammal Age" (포유류(哺乳類)시대), splitting into the six continents and the Antarctic continent. So, what is the driving force that caused this separation? Professor Wegener (웨게네르) mentions the gravitational pull of the sun and moon, but scholars agree that this is insufficient. Even if the driving force is not discovered, this theory will be adopted if other evidence exists, and perhaps such a force will be discovered in the meantime. <26>
+One Continent in Ancient Times (太古時代의 一個大陸)
+
+State of Separation in the Mesozoic Era (中古時代의 分裂狀態)
+<25-26>
+
+**Summary**
+
+This 1926 article introduces Alfred Wegener's then-novel theory of continental drift to a Korean audience. It explains the core idea that the continents were once a single landmass (Pangaea, though not named) and drifted apart. Evidence cited includes the jigsaw fit of continents (Americas/Europe/Africa), fossil distribution, geological similarities, and paleoclimate indicators like glaciers. The article discusses the structure of the Earth (Nife, Sima, Sial) proposed by Suess to explain how lighter continents (Sial) could 'float' on a denser layer (Sima). It acknowledges the major uncertainty regarding the driving force, noting Wegener's suggestion of solar/lunar gravity was considered insufficient, but expresses optimism that future evidence, including precise measurements planned over ten years, might validate the theory. For historians, this piece shows the relatively quick dissemination of major Western scientific ideas (Wegener published initially in 1912/1915) into colonial Korea via popular magazines, reflecting an interest in modern science and global perspectives beyond the immediate colonial situation, even if some details (like the sun/moon gravity) were already being debated or dismissed in the West. The use of older Korean orthography is also notable.
+
+**Named Entities**
+
+오스트리아	오스트리아	Austria
+웨게네르	웨게네르	Wegener
+남북아메리카	남북아메리카	North and South America
+태평양	태평양	Pacific Ocean
+태서양	태서양	Atlantic Ocean (Older term for 대서양)
+유로파	유로파	Europe
+아프리카	아프리카	Africa
+아메리카	아메리카	America
+남아메리카	남아메리카	South America
+수에쓰	수에쓰	Suess
+남극대주	남극대주	Antarctic continent
+
+**Glossary**
+
+륙대주	육대주	Six great continents (older spelling/pronunciation of 육)
+본시	본시	Originally, in the beginning
+엇섯다	있었다	Was/existed (older spelling of 있었다)
+학설	학설	Academic theory
+디질학자	지질학자	Geologist (older spelling of 지질)
+론쟁	논쟁	Debate, controversy (older spelling of 논쟁)
+퍼쳐 노코	펼쳐 놓고	Spreading out (Map)
+붓다	붙다	To stick, adhere, join
+부절	부절	Matching tallies/pieces (implies a perfect fit)
+박게	밖에	Outside of, besides
+화석(化石)	화석	Fossil
+지질(地質)	지질	Geology, geological features
+가튼	같은	Same, similar (older spelling)
+빙하(氷河)	빙하	Glacier
+만히	많이	Many, much (older spelling)
+잇스니	있으니	Because there is/are (older spelling)
+자오션	자오선	Meridian (older spelling/transcription of 자오선)
+무션전화	무선전화	Wireless telegraphy/radio (older spelling/term for 무선)
+잇슬	있을	Will be, likely to be (older spelling)
+움즉이다	움직이다	To move (older spelling)
+디구	지구	Earth (older spelling of 지구)
+닉겔	니켈	Nickel
+석긴	섞인	Mixed
+구든	굳은	Solid, hardened
+쇠ㅅ물	쇳물	Molten metal
+구학설	구학설	Old theory
+우에는	위에는	Above, on top of (older spelling)
+씨마	시마	Sima (geological layer)
+씰리카	실리카	Silica
+막네시움	마그네슘	Magnesium
+씨알	시알	Sial (geological layer)
+곳	곧	Namely, that is (older spelling of 곧)
+가벼워서	가벼워서	Being light (older spelling)
+떠 잇는데	떠 있는데	Floating (older spelling)
+메주ㅅ덩이	메주덩이	Block of fermented soybean paste (*meju*)
+뜨듯	뜨듯이	As if floating
+들릴찌	들릴지	Whether it sounds (strange) (older spelling)
+잇서	있어	Having, possessing (older spelling)
+흐르다	흐르다	To flow
+가라안꼬	가라앉고	Sinking (older spelling of 가라앉고)
+액체(液體)	액체	Liquid
+갓다	같다	Is the same as (older spelling)
+흐터지다	흩어지다	To scatter, disperse
+태고 시대	태고 시대	Ancient times, Antiquity
+파충(爬蟲)시대	파충류 시대	Age of Reptiles
+포유류(哺乳類)시대	포유류 시대	Age of Mammals
+갈라나다	갈라지다	To split, be divided
+원동력	원동력	Driving force, motive power
+인력(引力)	인력	Gravitational pull
+불충분하다	불충분하다	To be insufficient
+체용되다	채용되다	To be adopted, accepted (older spelling of 채용)
+잇스면	있으면	If there is/are (older spelling)
+잇슬런지도	있을는지도	Might possibly be (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제5호
+발행일	1926년 09월 01일
+기사제목	대륙이 떠 다니나? 륙대주가 본시는 한 덩어리 엇섯다, 오스트리아 학자의 신학설
+기사형태	논설
+
+대륙이 떠 다니나? 륙대주가 본시는 한 덩어리 엇섯다, 오스트리아 학자의 신학설
+륙대주는 본래 한 덩어리엇섯는데 해와 달의 인력으로 차차 떨어저 나왓다.-하고 오스트리아의 디질학자 「웨게네르」 교수는 새로운 학설을 주장하여 세상을 놀래엇다. 그래서 방금 그 학설이 여러 학자의 론쟁의 중심이 되어 잇다. 그가 그 증거로 든 사실을 보자면 첫째 지도를 퍼쳐 노코 남북아메리카를 태평양 쪽에서 손으로 떠민다 하면 그것이 태서양을 건너 유로파와 아프리카에 부절을 합하듯이 가 붓는 것이요. 그 박게 아메리카와 유로파 사이의 동식물의 화석(化石) 퍼진 것이라던지 남아메리카와 아프리카의 지질(地質) 생긴 것이 가튼 것이라던지 고시대의 빙하(氷河)의 구조 가튼 것을 만히 들 수 잇다.
+
+확실한 증거는 십년 후
+그러나 그 보다도 더 확실한 증거는 지금부터 십년 후에야 알 수가 잇스니 그것은 작년 지질학대회에서 학자들이 이 학설을 검사하기 위하여 각 지방의 자오션 통과하는 지적을 무션전화로 조사하여 두엇는데 십년 후에 다시 조사한 결과 대륙이 움즉이는지 아니 움즉이는 지 알 수 잇슬 것이다.
+
+떠다니는 것은 가능하다
+그런데 문제되는 것은 과연 대륙이 움즉일 가능성이 잇는가 하는 것이다. 우리가 얼른 생각하기에 돌덩어리로 된 대륙이 디구의 중심에부터 잇는 것인데 어떠케 물에 뜬 어름조각 가티 떠돌아다닐 수가 잇슬까. 과학자의 말은 그것이 가능하다 한다.
+지구의 속은 확실히 증명된 바 가티 철과 「닉겔」이 석긴 구든 덩어리다.(옛날에 지구 속이 녹은 쇠ㅅ물이라 한 것은 벌서 구학설이 되엇다) 그 구든 쇠덩어리를 「수에쓰」라는 학자가 「니폐」라 이름을 지엇스니 그 뜻은 「닉겔」과 「폐르」(철)가 합한 것이란 말이다. 그 속덩어리인 「니폐」의 우에는 「씨마」라는 층이 잇스니 이것은 「씰리카」와 「막네시움」으로 된 것이요. 또 그 우에는 「씨알」이란 층이 잇스니 곳 우리가 말하는 대륙이 그것이다. 「씨알」층은 「씨마」층보다 가벼워서 떠 잇는데 아주 동동 떠 잇는 것이 아니라 마치 장ㅅ독에 메주ㅅ덩이 뜨듯 한 것이다.＜25＞
+
+원동력은 아직 몰라
+돌이 둘 우에 떠 잇다는 것이 이상하게 들릴찌 모르나 돌이라도 엄격히 말하면 흐르는 성질이 잇서 무거운 놈은 아래로 가고 가벼운 놈은 우로 올라 오는 것이다. 가튼 고체(固體)끼리 하나는 가라안꼬 하나는 뜨는 것이 마치 가튼 액체(液體)끼리 물은 가라안고 기름은 뜨는 것과 갓다. 그러면 그러케 떠 잇는 「씨알」층이 어떠한 힘에 의지하여 둥둥 떠서 부스러저 흐터지는 것은 가능한 일이다.
+그래서 이 신학설에 의지하면 태고 시대에 아프리카를 중심으로 한 덩어리던 대륙이 「파충(爬蟲)시대」와 「포유류(哺乳類)시대」에 와서 떨어지기 시작하여 륙대주와 남극대주로 갈라난 것이라 한다. 그러면 그러케 갈라 나게 한 원동력은 무엇인가. 「웨게네르」교수는 태양과 달의 인력(引力)을 말하나 그것은 불충분하다는 것이 학자들의 일치한 점이다. 원동력이 발견아니 되더라도 다른 증거만 잇스면 이 학설이 체용될 것이요 그러는 동안에 그런 힘이 발견될런지도 모르는 것이다.＜26＞
+太古時代의 一個大陸
+
+中古時代의 分裂狀態
+＜25-26＞

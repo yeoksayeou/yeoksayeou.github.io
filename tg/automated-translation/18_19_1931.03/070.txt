@@ -1,0 +1,842 @@
+Magazine Title: 東光 제19호
+Publication Date: 1931년 03월 01일
+Article Title: 言語의 分類(朝鮮文字의 歷史的考察 二) (Classification of Languages (A Historical Study of Korean Script 2))
+Author: 金允經
+Article Type: 논설 (Editorial/Essay)
+
+Classification of Languages
+						Kim Yun-gyŏng
+
+The languages of the world, past and present, are classified in various ways according to various standards. Among these, the most commonly adopted classification methods are systemic classification and morphological classification.
+
+I. Systemic Classification
+Systemic classification distinguishes the world's languages based on similarities and differences in structure, stems, and grammar, grouping those whose lineage can be traced back to a common ancestor into one language family. Languages with distinctly different systems are similarly grouped into their respective families. The main focus of this classification method is gathering languages belonging to the same system into one language family. While the systemic classification of world languages can vary depending on the method and perspective, linguists commonly divide them into the following eight categories:
+I. Indo-Germanic family
+II. Hamito-Semitic family
+III. Ural-Altaic family
+IV. Indo-Chinese family
+V. Malayo-Polynesian family
+VI. Bantu family
+VII. Dravidian family
+VIII. American family
+Subdividing these further gives the following:
+I. Indo-Germanic Family
+(1) Indo-Iranian languages
+(A) Indian languages
+[a] Ancient Indian languages
+(i) Vedic
+(ii) Sanskrit
+[b] Middle Indian languages
+(i) Pali
+(ii) Gatha dialect
+(iii) Prakrit
+[c] Modern Indian languages
+(i) Northwestern group (Sindhi, Kashmiri, West Panjabi)
+(ii) Central group (East Panjabi, Gujarati, Rajputani, Hindi, Pahari, Nepali)
+(iii) Eastern group (Raiswari, Bihari, Marathi, Bengali, Assam, Oriya) <25>
+(B) Iranian languages
+[a] Ancient Iranian languages (Old Persian, Avestan)
+[b] Middle Iranian languages (Persian of the Parthian and Sasanian dynasties)
+[c] Modern Persian (Persian after the Islamic invasion)
+(2) Armenian
+(A) Ancient Armenian (Grabar, the literary and church language)
+(B) Middle Armenian (From around the 11th century to the 15th century)
+(C) Modern Armenian (Language after the 15th century, with Eastern and Western branches)
+(3) Greek
+(A) Ancient Greek
+[a] Aeolic (Around 600 BC)
+[b] Doric (Around 600 BC to 250 BC)
+[c] Ionic (Roughly 750 BC to 400 BC)
+(i) Old Ionic of the Iliad and Odyssey era
+(ii) Middle Ionic represented by elegiac poets like Mimnermus
+(iii) Modern Ionic used by Herodotus, Hippocrates, etc.
+[d] Attic (Became the standard written language of Greece around the 3rd century BC)
+(B) Middle Greek (From the 11th to the 16th century)
+(C) Modern Greek (After the 16th century)
+Based on Attic, a common language called "Koine," blending various dialects, developed after Alexander the Great. Middle and Modern Greek developed from this "Koine."
+(4) Albanian
+(5) Italian (or Romanic)
+(A) Rumanian
+[a] Daco-Rumanian: Spoken in Romania and the Siebenbürgen region.
+[b] Macedo-Rumanian: Spoken in Greece.
+[c] Istro-Rumanian: Spoken in Istria.
+(B) Rheto-Romance: Language of the ancient Roman province of Rhaetia, now spoken in eastern Switzerland and areas near the Adriatic Sea.
+[a] Graubündner
+[b] Tirol
+[c] Friaul
+(C) Italian
+Narrow sense of Italian, developed from the Tuscan dialect.
+(D) French
+(E) Provençal
+Language spoken in Southern France.
+(F) Spanish
+(G) Portuguese
+(6) Celtic
+(A) Gallic
+Language used in Northern Italy and Spain, now extinct.
+(B) Cymric
+[a] Welsh: Spoken in Wales.
+[b] Breton (or Armorican): Spoken in Brittany.
+[c] Cornish: Spoken in Cornwall, now extinct. <26>
+(C) Goidelic
+[a] Erse
+Also Gaelic of the Scottish Highlands.
+[b] Irish
+Also Gaelic of Ireland.
+[c] Manx dialect (Isle of Man)
+(7) Germanic
+(A) East Germanic
+[a] West Gothic
+[b] East Gothic
+[c] Vandalic
+[d] Burgundian
+(B) North Germanic
+Called Primitive Norse (Urnordish). On one hand, Old Norse, the unified literary language of Scandinavia, Iceland, Greenland, etc., developed from it. On the other hand, Old Norwegian, Old Icelandic, Old Swedish, Old Danish, and Old Gutnish also diverged. Each became the root of its respective modern language. However, modern Norwegian did not develop from Old Norwegian but branched off from Danish relatively later.
+(C) West Germanic
+[a] English
+[b] Frisian
+Has East, West, and North branches.
+[c] Low German (Niederdeutsch) Divided into Low Franconian and Low Saxon.
+[d] High German (Hochdeutsch)
+(8) Balto-Slavonic
+(A) Baltic
+[a] Old Prussian
+[b] Lithuanian
+[c] Lettish
+(B) Slavonic
+[a] South Slavic
+Divided into Serbo-Croatian and Slovenian.
+[b] Russian
+Divided into Great Russian, White Russian, and Little Russian.
+[c] West Slavic
+Major languages include Polish, Wendish (Sorbian), Bohemian (Czech), and Slovakian.
+II. Hamito-Semitic Family
+(1) Hamitic
+(A) Ancient Egyptian: Dead language.
+(B) Demotic: Dead language.
+(C) Coptic: Dead as a spoken language, but still used as a written language. All three are Egyptian languages.
+(D) Libyan (Berber): Dead language.
+(E) Numidian: Dead language.
+(F) Somaliland language
+(2) Semitic
+(A) Aramaic
+[a] Syrian: Dead language.
+[b] Assyrian: Dead language.
+[c] Babylonian: Dead language.
+(B) Canaanitic
+[a] Hebrew: Dead as a spoken language, but used in writing.
+[b] Phoenician: Dead <27> language.
+(C) Ethiopian
+(D) Arabic
+(E) Sinaitic
+(F) Amharic
+(G) Tigre
+(H) Chaldean: Dead language.
+(I) Neo-Syriac
+III. Ural-Altaic Family
+(1) Uralic
+(A) Samoyedic
+[a] Yurak
+[b] Tagwi
+[c] Yenisei
+[d] Ostyak
+Specifically, Ostyak-Samoyed language.
+(B) Finno-Ugrian
+[a] Finnic
+(i) Suomi (i.e., Finnish language)
+(ii) Estonian
+(iii) Livonian: Dying language
+(iv) Krevinian: Almost dead language
+(v) Lapponic (Sámi)
+(vi) Cheremissian (Mari)
+(vii) Mordvinian
+[b] Permian
+(i) Siryenian (Komi-Zyrian)
+(ii) Wotyak (Udmurt)
+[c] Ugrian
+(i) Woguls (Mansi)
+(ii) Ostyak (Khanty)
+(iii) Magyars (Hungarian)
+(2) Altaic
+(A) Turkic (Turkish, Tataric)
+[a] Yakut
+[b] Uighur (回鶻)
+[c] Altaic
+[d] Barabaic
+[e] Kirghiz
+[f] Bashkir
+[g] Uzbek
+[h] Turkmen
+[i] Nogai
+[j] Kumuk
+[k] Osman (Osmanlis, Ottoman)
+(B) Mongolian
+[a] East Mongolian (Mongolian in the narrow sense)
+(i) Khalkha-Mongolian
+(ii) Shara-Mongolian
+(iii) Sharaigol-Mongolian
+[b] West Mongolian (i.e., Kalmyk)
+[c] North Mongolian (i.e., Buryat)
+(C) Tungusic
+[a] Tungusic in the narrow sense
+[b] Manchu
+[c] Korean
+[d] Japanese
+Regarding Korean and Japanese above, whether they should belong to the Ural-Altaic family is a matter of debate. Among scholars who include them, there is no consensus on whether to place them under Altaic, Tungusic, or consider them parallel to Ural-Altaic.
+IV. Indo-Chinese Family (also called Monosyllabic Language Family)
+(1) Western Indo-Chinese (i.e., Tibeto-Burman)
+(A) Tibetan (=西藏) <28>
+[a] Tibetan in the narrow sense
+[b] Nepali
+[c] Lepcha
+[d] Dhimal
+[e] North Assam languages
+[f] Bodo
+[g] Naga
+[h] Kachi (Jingpho)
+(B) Burmese
+[a] Kuki-Chin (Called "Kuki" by people in Bengal and Assam, "Chin" by Burmese people, but here also includes Meithei of Manipur, India)
+[b] Burmese in the narrow sense
+(2) Eastern Indo-Chinese (Sino-Tibetan or Siamo-Chinese)
+(A) Tai
+[a] Southern Tai
+(i) Siamese (Thai)
+(ii) Laos
+[b] Northern Tai
+(i) Ahom
+(ii) Khamti
+(iii) Shan
+(B) Karen
+(C) Chinese
+[a] Northern group (i.e., Beijing Mandarin)
+[b] Southern group
+(i) Zhejiang dialects
+(a) Shanghai dialect
+(b) Ningbo dialect
+(c) Wenzhou dialect
+(ii) Fujian dialects
+(a) Fuzhou dialect
+(b) Xiamen (Amoy) dialect
+(c) Shantou (Swatow) dialect
+(iii) Guangdong dialects
+(a) Guangzhou (Cantonese) dialect
+(b) Hakka dialect
+V. Malayo-Polynesian Family
+(1) Indonesian
+(A) Philippines languages
+(B) Celebes languages
+(C) Borneo languages
+(D) Javanese
+(E) Madurese
+(F) Balinese
+(G) Sumatran languages
+(H) Malagasy (Madagascar)
+(I) Malay
+(J) Other dialects within the range from the Batan Islands and Taiwan in the North, Lombok to New Guinea in the East, and the Simalur, Nias, and Mentawai Islands off the tip of Sumatra in the Southwest.
+(2) Polynesian
+(A) Maori
+(B) Tongan
+(C) Samoan
+(D) Rarotongan
+(E) Marquesan
+(F) Tahitian
+(G) Hawaiian
+(H) Sandwich Islands languages
+(3) Melanesian (Micro-Melanesian)
+(A) Caroline
+(B) Marshall
+(C) Gilbert (These three are Micronesian)
+(D) New Hebrides
+(E) Fiji
+(F) Solomon
+(G) New Caledonia
+(H) Loyalty
+(I) Bismarck <29>
+(J) New Guinea (These seven are Melanesian)
+VI. Bantu Family (Bantu, Chuana, Zingian, Africa)
+(1) Eastern group
+(A) Zanzibar (Swahili group)
+(B) Zambesi group
+(C) Zulu-Kafir group
+(2) Central group
+(A) Chuana (Tswana group)
+(B) Tegeza (Tsonga group)
+(3) Western group
+(A) Kongo group
+(B) Herero group
+VII. Dravidian Family
+(1) Languages of culturally developed regions
+(A) Tamil
+(B) Malayalam
+(C) Telugu
+(D) Kanarese (Kannada)
+(E) Tulu
+(F) Kudagu (Kodava)
+(2) Languages of culturally undeveloped regions
+(A) Kota
+(B) Toda
+(C) Gond
+(D) Khond (Kui)
+(E) Rajmahal (Malto)
+(F) Uraon (Kurukh)
+VIII. American Family
+This designation collectively refers to the languages of the indigenous peoples of North and South America, excluding the Eskimo tribes of the far north. Like the indigenous languages of Africa, these have not yet been thoroughly studied. Therefore, not only is a systemic classification impossible, but their exact number is also unknown. Some scholars estimate over 400 languages, while others suggest around 510. Their population is gradually decreasing, with about 10 million people estimated to survive today; it is strange that there are so many languages.
+Systematically classifying all the world's languages is extremely difficult. This is because it is impossible for even the most energetic person to know even roughly enough of the vast number of languages to classify them single-handedly. Consequently, areas with low levels of cultural development and limited social connections (like the indigenous peoples of Africa or America) remain outside the scope of linguists' research, or even if researched, their systemic affiliation remains questionable. Examples include the Basque language of Europe or the Ainu language of Japan.
+
+II. Morphological Classification
+Morphological classification divides the world's languages based on their structure, specifically looking at grammatical relationships. In the early 19th century, the linguist Friedrich von Schlegel published the book "Ueber die Sprache und Weisheit der Indier" (On the Language and Wisdom of the Indians, 1808), which greatly influenced the development of linguistics in the early 19th century. He divided world languages into (1) organic languages and (2) inorganic languages. Organic languages, like Sanskrit and its relatives, are those where the root develops organically, which he stated is evident through internal changes in the word. Schlegel called this "inflection" (Flexion). Inorganic languages, like all others, express various grammatical relationships by attaching things like prefixes or suffixes. Furthermore, Schlegel placed Sanskrit at the highest position among Indo-Germanic languages <30> and Chinese at the lowest among Indo-Chinese languages. He argued this was because in Chinese, grammatical relationships are expressed solely by the position of the word in the sentence, with no change in the word's form itself indicating grammatical relations. However, this twofold division paved the way for the later, generally accepted threefold classification of world languages based on structure.
+Friedrich Schlegel's brother, August Wilhelm Schlegel, had already divided the world's languages into (I) languages without structure indicating grammatical relations, (II) languages indicating grammatical relations through affixes, and (III) languages indicating grammatical relations through inflection.
+Franz Bopp is considered a pioneer in the comparative study of Sanskrit and European languages. His enduring masterpieces include "Ueber das Conjugationssystem der Sanskritsprachen in Vergleichung mit jenem der griechischen, lateinischen, persischen und Germanischen Sprachen" (On the Conjugation System of the Sanskrit Languages in Comparison with that of the Greek, Latin, Persian and Germanic Languages), published in 1816, and the six-volume "Vergleichende Grammatik des Sanskrit, Zend, Armenischen, Griechischen, Lateinischen, Litauischen, Altslavischen, Gotischen und Deutschen" (Comparative Grammar of Sanskrit, Zend, Armenian, Greek, Latin, Lithuanian, Old Slavic, Gothic and German), published between 1833 and 1852. In his "Comparative Grammar," he divided world languages into three types: (I) Languages lacking what can be considered true roots, lacking the power of composition, and thus deficient in mechanism ('organism') and grammar, where grammatical relations are mainly expressed by word order, such as Chinese; (II) Languages with monosyllabic roots, capable of composition, and possessing mechanism and grammar, where the main principle of word formation is the combination of verbal and pronominal roots, such as the languages of the Indo-Germanic family; and (III) Languages with bisyllabic roots having three essential consonants that alone indicate the word's meaning, such as the Semitic languages. In this type of language, grammatical relations are indicated not only by composition but also by internal sound changes within the root.
+August Schleicher classified languages into (I) Isolating, (II) Agglutinative, and (III) Inflectional. This classification method subsequently became widely known under Schleicher's name for a long time. Let me introduce the meaning of these three major categories and the language families belonging to each:
+Isolating languages (Isolierende, Isolating), also called monosyllabic languages, are those where the word form shows no variation indicating grammatical relationships, and the form of each word itself does not indicate its connection to others. For example, in Chinese, the word "善" (shàn) does not change its form whether used to mean 'good,' 'well,' 'to be good,' or 'to like.' Looking at a single word alone, one cannot tell if it is a noun, verb, or adjective. Only its position in the sentence distinguishes the word's specific function. Although the use of auxiliary particles has developed, it has not lost the characteristics of a positional language <31> even today. Besides Chinese, languages belonging to the Indo-Chinese family like Annamese (Vietnamese), Siamese (Thai), and Burmese also belong to this isolating type. However, the degree of isolation varies; Burmese, for instance, uses considerably more auxiliary particles than Chinese. Almost all isolating languages also possess the characteristic of being tonal languages (聲調語, Tone language). Taking a modern Chinese example, Beijing Mandarin distinguishes tones like upper level, lower level, rising, and falling (so-called Four Tones) as characteristics of each word, making tones, like vowels and consonants, a constituent component of each word. This type of language is called a tonal language. This might have arisen because isolating languages are generally monosyllabic, leading to a very large number of homophones, thus necessitating tones for differentiation. However, considering further, the fact that isolating languages are monosyllabic and also lack formal components indicating grammatical relations might be a primary reason that prompted the invention of using tones to aid in distinguishing word meanings.
+Agglutinative languages (Agglutinierende, Agglutinative), also called additive languages, are those that indicate grammatical relationships by attaching certain sounds or syllables—components indicating grammatical function, which may or may not have originally been independent words but have now lost their independent status—to the beginning, middle, or end of a meaning-bearing component (an independent word). A characteristic feature of agglutinative languages is that the component (particle, or 't'o') attached to the beginning, middle, or end of the meaning-bearing word (stem word) does not merge with the stem (like 'momssi'), maintaining a clear distinction. The component indicating grammatical relations (the particle) attached before the stem (noun, verb, adjective stem collectively referred to as 'momssi') is usually called a prefix (接頭辭, Prefix), and the one attached after is called a suffix (接尾辭, Suffix).
+Taking a Japanese example, not only particles (助詞, joshi) but also what are called auxiliary verbs (助動詞, jodōshi) would attach as suffixes.
+In the example "お互ひに 心もちよく 日を送つてゐる" (Otagai ni kokoromochi yoku hi o okutte iru - Getting along well with each other, passing the days pleasantly), the underlined parts (in the original, marked with O below) are components indicating grammatical relations.
+Taking a Korean example:
+In "아름답은 나비가 꽃에서 즐겁게 날아 댕긴다" (Arŭmdaŭn nabiga kkoch'esŏ chŭlgŏpke nara taengginda - A beautiful butterfly flies happily among the flowers), the underlined parts (originally marked with 0) are such components.
+An example of inserting a component indicating grammatical relations into the middle of a stem can be seen in Malay. In Malay, "dal" means 'to hit,' but to express 'to hit each other,' "pa" is inserted in the middle to make "dapal." To express 'to hit each other back,' "k" is added to make "dakpal." Such elements are called infixes (揷入辭, Infix). Prefixes, infixes, and suffixes are collectively called affixes (接辭, Affix).
+Languages belonging to this agglutinative type include Korean and Japanese, as well as the Ural-Altaic, Dravidian, and Malayo-Polynesian language families.
+Inflectional languages (Flektierende, Inflectional) are also called inflecting or fusional languages. Inflectional languages are those where the meaning-bearing component and the component indicating grammatical relations have completely fused into one, <32> or the two components are very closely bound together. This involves the root changing its internal sounds or an affix being attached to the root to indicate grammatical relations. Inflection manifested in the ending of a word is called external inflection, and inflection manifested within the stem is called internal inflection (distinguished). The languages of the Indo-Germanic and Hamito-Semitic families possess inflectional characteristics.
+While proposing this threefold classification of language morphology, Schleicher also argued that these three types actually represent three stages of language development. That is, he claimed isolating languages represent the earliest stage of language development, agglutinative languages show a slightly more advanced state, and inflectional languages represent the most developed level. However, some scholars have opposed this as an arbitrary judgment stemming from Aryan pride.
+Besides these three classifications, some scholars add two more types: incorporating and polysynthetic languages.
+Incorporating languages (Incorporating), like Mexican languages (Nahuatl) or Basque, are languages characterized by incorporating various components related to the verb within the verb itself in a sentence. For example, in a Mexican language, "ka" means 'to eat.' "Ni-k-ka" means "I-it-eat," and "Ni-naka-ka" means "I-meat-eat." However, these "ni," "k," or "naka" are by no means independent words. 'I' is "newatl," 'that' or 'it' is "jewatl," and 'meat' is "nakatl." "ni," "k," "naka" have a prefix-like relationship to the verb "ka" and could be considered agglutinative or inflectional components. However, forms like "ni-k-ka" and "ni-naka-ka" are not just considered single verbs with prefixes attached but possess a power close to that of a sentence (文, wŏl). Yet, it's not quite a relationship where one sentence is expressed by one word (單語, tanŏ). It's merely that certain components of the sentence are incorporated within one verb. A further development of this relationship is the polysynthetic language.
+Polysynthetic languages (Polysynthetic) exhibit the characteristics of incorporating languages in a more complex manner, where many components fuse together to form a single verbal complex, and further, possess the quality of forming something akin to an entire sentence. However, decomposing the aggregated components individually is often impossible. Languages of the indigenous peoples of North and South America or the Eskimo language are said to provide extreme examples of this characteristic. In Algonquin:
+"Wutappesittukgnsunnoowehtunkguoh"
+means "He falling on his knees, worshipped them."
+In Eskimo:
+"Sialugsiokhpkk"
+means "He is outside in the rain."
+And
+"Aglekkigiartrasuarnipok"
+means "He goes away hastily and exerts himself to write."
+<33>
+
+**Summary**
+
+This 1931 article by Kim Yun-gyŏng provides an overview of linguistic classification based on contemporary Western scholarship. It details the systemic (genealogical) classification, listing major language families like Indo-Germanic, Ural-Altaic, Hamito-Semitic, etc., with extensive subgroups. It then explains morphological classification (isolating, agglutinative, inflectional, incorporating, polysynthetic), citing scholars like the Schlegel brothers, Bopp, and Schleicher. The article notes the ongoing debate regarding the classification of Korean and Japanese, particularly within or alongside the Ural-Altaic family.
+
+From a historical perspective, the article is interesting as it shows the adoption and dissemination of Western linguistic theories in Korea during the colonial period. The detailed, albeit Eurocentric, classification reflects the state of linguistic knowledge accessible to Korean intellectuals then. The specific mention of the uncertain classification of Korean and Japanese highlights a point of academic interest and potential nationalistic sensitivity regarding linguistic origins during a time of suppressed national identity. Historians might find the specific terminology used (transliterations, older Korean forms) and the framework of analysis valuable for understanding intellectual trends of the era.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun-gyŏng
+Indo-germanic family	인도 쪄맨 어족	Indo-Germanic family
+India	인도	India
+Iran	이란	Iran
+Armenia	알메니아	Armenia
+Greece	헬라	Greece
+Albania	알바니아	Albania
+Italy	이탈리아	Italy
+Romania	루마니아	Romania
+Switzerland	스위쓰	Switzerland
+Adriatic Sea	아드리아해	Adriatic Sea
+France	프란쓰	France
+Spain	이쓰파니아	Spain
+Portugal	폴튜갈	Portugal
+Celtic	켈트	Celtic
+Gallia	깔리아	Gallia
+Wales	웰쓰	Wales
+Brittany	뿌리타니	Brittany
+Cornwall	코른월	Cornwall
+Scotland	스코틀랜드	Scotland
+Ireland	아일랜드	Ireland
+Isle of Man	만 섬	Isle of Man
+Germanic	쩌맨	Germanic
+Scandinavia	스캔디나삐아	Scandinavia
+Iceland	아이쓸랜드	Iceland
+Greenland	그린랜드	Greenland
+Norway	놀웨이	Norway
+Sweden	스웨덴	Sweden
+Denmark	덴말크	Denmark
+England	영어	English (used for England/English language)
+Prussia	프러시아	Prussia
+Lithuania	리드아니아	Lithuania
+Latvia	레트	Latvia
+Slavonic	슬라브	Slavonic
+Russia	러시아	Russia
+Poland	폴랜드	Poland
+Bohemia	뽀헤미아	Bohemia
+Czech	췌크	Czech
+Slovakia	슬로바키아	Slovakia
+Hamito-semitic family	함 쎔 어족	Hamito-Semitic family
+Egypt	에집트	Egypt
+Libya	리비아	Libya
+Numidia	누미디아	Numidia
+Somaliland	소말릴랜드	Somaliland
+Semitic	쎔	Semitic
+Aramaic	아라마익	Aramaic
+Syria	시리아	Syria
+Assyria	아씨리아	Assyria
+Babylonia	빠빌로니아	Babylonia
+Canaan	카나안	Canaan
+Hebrew	히부리	Hebrew
+Phoenicia	페니시아	Phoenicia
+Ethiopia	에디오피아	Ethiopia
+Arabic	아라비아	Arabic
+Sinai	시내	Sinai
+Amharic	암하리크	Amharic
+Chaldea	칼떼아	Chaldea
+Ural-Altaic family	우랄 알타이 어족	Ural-Altaic family
+Finland	괸랜드	Finland
+Estonia	에쓰토니아	Estonia
+Hungary	마지아르	Magyar (Hungarian)
+Turkey	털키	Turkey
+Uighur	위굴	Uighur
+Mongolia	몽고	Mongolia
+Manchu	만주	Manchu
+Korea	조선	Korea
+Japan	일본	Japan
+Indo-Chinese family	인도지나어족	Indo-Chinese family
+Tibet	티베트	Tibet
+Nepal	네팔	Nepal
+Assam	아쌈	Assam
+Burma	빨마	Burma
+Siam	싸이암	Siam
+China	지나	China
+Beijing	북경	Beijing
+Zhejiang	절강	Zhejiang
+Shanghai	상해	Shanghai
+Ningbo	영파	Ningbo
+Wenzhou	온주	Wenzhou
+Fujian	복건	Fujian
+Fuzhou	복주	Fuzhou
+Xiamen	하문	Xiamen
+Shantou	산두	Shantou
+Guangdong	광동	Guangdong
+Guangzhou	광주	Guangzhou
+Malayo-Polynesian family	말라요 폴리네시아 어족	Malayo-Polynesian family
+Philippines	필리핀	Philippines
+Celebes	쎌레베쓰	Celebes
+Borneo	보르네오	Borneo
+Java	짜바	Java
+Madura	마수라	Madura
+Bali	빨리	Bali
+Sumatra	수마트라	Sumatra
+Madagascar	마다가쓰가르	Madagascar
+Malay	말레이	Malay
+Taiwan	대만	Taiwan
+Polynesia	폴리네시아	Polynesia
+Maori	마오리	Maori
+Tonga	통가	Tonga
+Samoa	싸모아	Samoa
+Marquesas	말퀘사쓰	Marquesas
+Tahiti	타히티	Tahiti
+Hawaii	하와이이	Hawaii
+Sandwich Islands	쌘드위취	Sandwich Islands
+Melanesia	멜라네시아	Melanesia
+Micronesia	미크로네시아	Micronesia
+Caroline Islands	카롤린	Caroline Islands
+Marshall Islands	마샬	Marshall Islands
+Gilbert Islands	낄버트	Gilbert Islands
+New Hebrides	니우헤부릴스	New Hebrides
+Fiji	피지	Fiji
+Solomon Islands	쏠로몬	Solomon Islands
+New Caledonia	니우칼레도니아	New Caledonia
+Loyalty Islands	로얄리티	Loyalty Islands
+Bismarck Archipelago	삐스말크	Bismarck Archipelago
+New Guinea	니우끼네아	New Guinea
+Bantu family	빤투 어족	Bantu family
+Africa	아프리카	Africa
+Zanzibar	산시바르	Zanzibar
+Zambesi	삼뻬시	Zambesi
+Congo	콩고	Congo
+Dravidian family	뜨레비다 어족	Dravidian family
+America	아메리카	America
+Eskimo	에쓰키모	Eskimo
+Europe	유럽	Europe
+Basque	빠쓰크	Basque
+Ainu	아이누	Ainu
+Friedrich von Schlegel	쉴레겔 (Frielerieh von Schlegel)	프리데리히 폰 슐레겔	Friedrich von Schlegel
+August Wilhelm Schlegel	오거쓰트 윌헮 숼레겔	아우구스트 빌헬름 슐레겔	August Wilhelm Schlegel
+Franz Bopp	프란쓰 뽀프	프란츠 보프	Franz Bopp
+August Schleicher	오거쓰트 숼라이허	아우구스트 슐라이허	August Schleicher
+Mexico	멕시코	Mexico
+
+**Glossary**
+
+言語	언어	Language
+分類	분류	Classification
+系統的	계통적	Systemic; Genealogical
+形態的	형태적	Morphological
+語族	어족	Language family
+語幹	어간	Stem (linguistics)
+語法	어법	Grammar; Usage
+溯及하다	소급하다	To trace back; Go back retroactively
+先祖	선조	Ancestor
+낫다	나다	To be born; Emerge from (older form of 나다)
+모동구르다	모으다, 묶다	To gather, bundle (likely dialectal or older form for grouping)
+異同	이동	Similarities and differences
+잇으나	있으나	Although there is/are (older spelling)
+채용되는	채용되는	Adopted; Used
+세분하면	세분하면	If subdivided further
+같읍니다	같습니다	Is as follows (older spelling of 같습니다)
+잇음	있음	There is/are (noun form)
+쓰든	쓰던	Used; Wrote (older spelling)
+되엇든	되었던	Which became; Which was (older spelling)
+행하는	행하는	Practiced; Spoken in (a region)
+없어진	없어진	Extinct; Disappeared
+것임	것임	Is the one that... (formal ending)
+죽은 말	죽은 말	Dead language
+거진	거의	Almost (older form/spelling)
+比較硏究	비교연구	Comparative study
+先驅者	선구자	Pioneer
+著書	저서	Book; Written work
+까친	끼친	Influenced; Had an effect on (older spelling of 끼친)
+나누엇습니다	나누었습니다	Divided (older spelling)
+語根	어근	Root (linguistics)
+有機的	유기적	Organic
+曲折	곡절	Inflection (linguistics)
+接頭語	접두어	Prefix
+接尾語	접미어	Suffix
+결부하여서	결부하여서	By combining; By linking
+표현하는 것이라	표현하는 것이라	Is the one that expresses (formal explanatory form)
+위치로	위치로	By position
+形狀	형상	Form; Shape
+단서를 열어준	단서를 열어준	Opened the way for; Provided a clue for
+接辭	접사	Affix
+構成上	구성상	Regarding structure; Structurally
+불만한	불만한	Worthy of being called (older form)
+機制	기제	Mechanism
+올가니슴	오르가니슴	Organism (transliteration)
+결함된	결함된	Deficient; Lacking
+語詞	어사	Word; Term (linguistic context)
+갖후어	갖추어	Equipped with; Possessing (older spelling of 갖추어)
+意義	의의	Meaning; Significance
+표시하는	표시하는	Indicating; Showing
+內部	내부	Internal part; Inside
+音	음	Sound
+提唱하는	제창하는	Advocating; Proposing
+發達	발달	Development
+階段	계단	Stage; Phase
+아리안인	아리아인	Aryan people
+自負心	자부심	Pride; Self-esteem
+獨斷	독단	Arbitrary judgment; Dogma
+반대한	반대한	Opposed; Objected to
+오히려	오히려	Rather; On the contrary
+抱合語	포합어	Incorporating language
+緝合語	집합어	Polysynthetic language
+월(文)	문	Sentence (Hanja used for clarification)
+포함시키는	포함시키는	Incorporating; Including
+나아간	나아간	Advanced; Proceeded further
+뭉치어	뭉치어	Clumped together; Aggregated
+形成하며	형성하며	Forming; Constituting
+分解하기는	분해하기는	To decompose; To analyze (is difficult)
+찾아낼 수가 잇는 것이라	찾아낼 수가 있는 것이라	It is possible to find (older spelling and formal structure)
+
+
+---------------------------
+
+
+잡지명	동광 제19호
+발행일	1931년 03월 01일
+기사제목	言語의 分類(朝鮮文字의 歷史的考察 二)
+필자	金允經
+기사형태	논설
+
+言語의 分類
+						金允經
+세계 古今의 言語는 여러 가지의 標準으로 여러 가지로 분류하게 됩니다. 그 중에 가장 많이 채용되는 分類法은 系統的 分類와 形態的 分類외다.
+
+一. 系統的 分類
+系統的 分類란 것은 세계의 言語를 構造와 語幹과 語法들의 異同으로 인하여 구별하여서 그 系統을 溯及하면 동일 先祖에게서 낫다 하는 것이 발견될 만한 種族의 말을 一括하여 한 語族이라고 보는 것이외다. 그리하여 아주 系統이 다른 것은 또 따로 그 類를 모아 한 語族이라 보는 것이외다. 이 分類法은 同一 系統에 속한 것을 한 語族으로 모동구르는 일이 主眼이외다. 世界 言語의 系統的 分類는 보는 方法과 보는 입장을 따라 여러 가지로 될 수 잇으나 言語學者는 보통으로 다음의 여덟가지로 나눕니다.
+一. 인도 쪄맨 語族 (Indo-germanic family)
+二. 함 쎔 語族 (Hamito-semitic family)
+三. 우랄 알타이 語族 (Ural-altaic family)
+四. 印度支那語族 (Indo-chinese family)
+五. 말레이 폴리네시아 語族 (Malayo-polynesian family)
+六. 빤투 語族 (Bantu family)
+七. 뜨레비다 語族 (Dravidian family)
+八. 아메리카 語族 (American family)
+이것들을 다시 좀 세분하면 다음과 같읍니다.
+一. 인도 쩌맨 語族
+(1) 인도 이란(Indo-iranian)말
+(ㄱ) 인도(Indian)말
+「甲」 古代印度語
+(가) 베다(Vedic=吠陀)말
+(나) 梵語(Sanskrit)
+「乙」 中世印度語
+(가) 팔리(Pali= 巴里)말
+(나) 詩語(Gathadialekt)
+(다) 프라크리트(Prakrit)말
+「丙」 近世印度語
+(가) 西北部語(Sindhi, Kashmiri, West Panjabi.)
+(나) 中央部語(Fast Panjabi, Gujarati, Rajpntani, Hindi, Pahari, Nepali)
+(다) 東部語(Raiswari, Bihari, Marathi, Bengali, Assam, Priyn.)＜25＞
+(ㄴ) 이란(Iranian)말
+「甲」 古代 이란 말(Old Persian, Avestan)
+「乙」 中世 이란 말(팔시안 王朝, 싸사니안 王朝時代 波斯語)
+「丙」 近世波斯語(回回敎侵入후의 波斯語)
+(2) 알메니아말(Armenian)
+(ㄱ) 古代 알메니아 말(Grabar라는 文學語, 敎會語)
+(ㄴ) 中世 알메니아 말(11世紀 경으로 15世紀 경까지)
+(ㄷ) 近世 알메니아 말(15世紀경 이후의 말, 東西 2派 잇음)
+(3) 헬라말(Greek)
+(ㄱ) 古代 헬라말
+「甲」 에올리아말(Aeolic. 西曆 紀元前 600년 時代)
+「乙」 또리아말(Doric, 西紀前 600년 내지 250년경)
+「丙」 이온이아말(Ionic, 대략 西紀前 750년 내지 400년)
+(ㄱ) 일리아드 오디쎄이시대의 古이온이아말
+(ㄴ) 미무넬무쓰 같은 에레지아의 詩人으로 대표된 中世이온아아말
+(ㄷ) 헤로도터쓰 히포크리터쓰들의 쓰든 近代 이온이아말
+「丁」 아티카말(Attic, 西紀前 3세기경 헬라의 標準語 文章語되엇든 것)
+(ㄴ) 中世 헬라말(11世紀로 16세기까지)
+(ㄷ) 近世 헬라말(16世紀이후)
+아티카말이 기초가 되어 알렉산더 大王이후 여러 가지 方言이 혼합 된 『코이네』란 共通語가 발달되어 왓읍니다. 이 『코이네』에서 中世, 近世의 헬라말이 발달된 것이외다.
+(4) 알바니아말(Albanian)
+(5) 이탈리아말(Italian, or Romanic)
+(ㄱ) 루마니아말(Rumanian)
+「甲」 다코 루마니아말(Daco-Rumanian) 루마니아와 지벤부륵 地方에 행하는 말.
+「乙」 마케도루마니아말(Macedo-Rumanian) 헬라에 행하는 말.
+「丙」 이쓰트로 루마니아말(Istro-Rumanian) 이쓰토리아에 행하는 말.
+(ㄴ) 레토 로만쓰말(Rheto-Romance) 古로마帝國의 레티아(Rhactia) 地方語로서 이제의 스위쓰 東部와 아드리아海 부근지방에 행하는 말.
+「甲」 그라우뷴드네르(Graubundner)
+「乙」 티롤(Tirol)
+「丙」 프리아울(Friaul)
+(ㄷ) 이탈리아말(Italian)
+토쓰카나(Toscana) 方言이 발달하여 된 狹意의 이탈리아말
+(ㄹ) 프란쓰(France)말.
+(ㅁ) 프로반살(Provencal)말
+프란스 南方에 행하는 말.
+(ㅂ) 이쓰파니아말(Espanish)
+(ㅅ) 폴튜갈말(Portugues)
+(6) 켈트말(Celtic)
+(ㄱ) 깔리아(Gallia)말
+北部 이탈리아와 스페인에서 쓰든 말인데 이제는 없어진 말
+(ㄴ) 키므르말(Cymric)
+「甲」 웰쓰말(Walsh) 웰쓰島에 행하는 말.
+「乙」 뿌리톤말(Breton) 즉 아레모르말(Aremorican)뿌리타니에 행하는 말.
+「丙」 코른말(Cornish) 코른월에 행하든 말인데 이제 없어진 말.＜26＞
+(ㄷ) 까델말(Gadhelic)
+「甲」 엘스말(Erse)
+즉 스코톨랜드의 하일랜드 地方의 껠말(Gaelic)
+「乙」 아일랜드말(Irish)
+즉 아일랜드의 껠말
+「丙」 만 島의 方言
+(7) 쩌맨말(Germanic)
+(ㄱ) 東部 쩌맨말
+「甲」 西꼬트말(West Gothic)
+「乙」 東꼬트말(East Gothic)
+「丙」 반달말(Wandalic)
+「丁」 뿌르군드말(Burgund)
+(ㄴ) 北部쩌맨말
+原始 노르드말(Urnordish)이라는 것인데 한편으로 그것에서 스캔디나삐아, 아이쓸랜드, 그린랜드 등지의 統一的 文字語라고 할 古代 노르드 말이 발달하엿고 한편으로는 또 古代 놀웨이말(Old Norwegian) 古代 아이쓸랜드말(Old Icelandish) 古代 스웨덴말(Old Swedish) 古代 덴말크말(Old Danish) 古代 꾸드말(Old Gutnish)들이 分立하게 되엇습니다. 그리하여 각각 그 현재 言語의 근원이 된 것이외다. 그러한데 다만 오늘의 놀웨이말 만은 古代 놀웨이말의 발달된 것이 아니고 比較的 後時代에 덴말크말에서 分派된 것이외다.
+(ㄷ) 西部쩌맨말
+「甲」 영어(English)
+「乙」 프리스말(Frisian)
+東, 西, 北의 三派가 잇음.
+「丙」 低部獨逸語(Niederdeutsch, or Low German)低部 프랑크말, 低部 삭센말의 2派에 나누임.
+「丁」 高部獨逸語 (Hochdeutch, or High German)
+(8) 빨토, 슬라브말(Balto-slavonic)
+(ㄱ)빨트말(Baltic)
+「甲」 古代 프러시아말(Old Prussian)
+「乙」 리드아니아말(Lithuanian)
+「丙」 레트말(Lettish)
+(ㄴ) 슬라브말(Slavonic)
+「甲」 南部 슬라브말
+쎌보 크로아티아(Selbo-Kroatian) 슬로베니아(Slovenian)로 2分됨.
+「乙」 러시아말(Russian)
+大러시아, 白러시아, 小러시아에 3分됨.
+「丙」 西部슬라브말
+폴랜드말(Polish), 벤드말(Wends) 뽀헤미아 즉 췌크말(Bohemian, Teheek) 슬로바키아말(Slovakia)들이 그 주요한 것임.
+二. 함 쎔 語族
+(1) 함말(Hamitic)
+(ㄱ) 古代에집트말(Egyptian) 죽은 말.
+(ㄴ) 떼모트말(Demotic) 죽은 말.
+(ㄷ) 콮트말(Coptic) 口語로는 죽은 말이나 文語로는 지금도 쓰임. 이상 세 가지 말은 다 에집트말임.
+(ㄹ) 리비아말(Libyan, Berber) 죽은 말.
+(ㅁ) 누미디아말(Numidian) 죽은 말.
+(ㅂ) 소말릴랜드말(Somaliland)
+(2) 쎔말(Semitsc)
+(ㄱ) 아라마익말(Aramaic)
+「甲」 시리아말(Syrian) 죽은 말.
+「乙」 아씨리아말(Assyrian) 죽은 말.
+「丙」 빠빌로니아말(Babylonian) 죽은 말.
+(ㄴ) 카나안말(Canaantic)
+「甲」 히부리말(Hebrew) 말은 죽엇으나 글로는 쓰임.
+「乙」 페니시아말(Phoenician) 죽은＜27＞ 말.
+(ㄷ) 에디오피아말(Ethiopian)
+(ㄹ) 아라비아말(Arabic)
+(ㅁ) 시내말(Sonai)
+(ㅂ) 암하리크
+(ㅅ) 티글
+(ㅇ) 칼떼아, 죽은 말
+(ㅈ) 新시리아
+三. 우랄 알타이 語族
+(1) 우랄말(Ural)
+(ㄱ)싸모야말(Samoyed)
+「甲」 유라크말(Yurak)
+「乙」 타귀말(Tagwi)
+「丙」 예니세이말(Yenisei)
+「丁」 오쓰티야크말(Ostyak)
+즉 오쓰티야크 싸모야 말
+(ㄴ) 피노 우그리아말(Finno-Ugrian)
+「甲」 핀말(Fin)
+(一) 수오미말(Suomi) 즉 괸랜드말.
+(二) 에쓰토니아말(Esthonian)
+(三) 리보니아말(Livonian) 없어지어 가는 말
+(四) 크레비니아말(Krevinian) 거진 죽은 말
+(五) 래프말(Lapponic)
+(六) 췌레미쓰말(Chercmissian)
+(七) 몰드빈말(Mordvinian)
+「乙」 펄미아말(Permian)
+(一) 씨례니아말(Siryenian)
+(二) 우오티야크말(Wotyak)
+「丙」 우그리아말(Ugrian)
+(一) 우오굴말(Woguls)
+(二) 오쓰티야크말(Ostyak)
+(三) 마지아르말(Magyars, Hungarian)
+(2) 알타이말(Altaic)
+(ㄱ) 털키말(Turkish, Tataric, Tartsric)
+「甲」 야쿠트말(Yakut)
+「乙」 위굴말(Uigurs 回鶻)
+「丙」 알타이말(Altaic)
+「丁」 바라바이말(Barabaic)
+「戊」 키르기쓰말(Kirghis)
+「己」 빠쓰키르말(Baskir)
+「庚」 우쓰베크말(Usbeks)
+「辛」 털코만말(Turkomans)
+壬 노가이말(Nogai)
+癸 쿠무크말(Kumuks)
+子 오쓰만말(Osmans Osmanlis, Ottoman)
+(ㄴ) 蒙古語(Mongolian)
+「甲」 東蒙古語(狹意의 蒙古語)
+(一) 챨챠 蒙古語(Chalcha-Mongolian)
+(二) 샤라 蒙古語(Shara-Mongolian)
+(三) 샤라이골 蒙古語(Soharaigol-Mongolian)
+「乙」 西蒙古語(즉 칼무크말 Kalmuks)
+「丙」 北蒙古語(즉 부례드말 Buryets)
+(ㄷ) 퉁구쓰말(Tungrse)
+「甲」 狹意의 퉁구쓰말
+「乙」 滿洲語
+「丙」 朝鮮語
+「丁」 日本語
+이상 朝鮮語와 日本語는 우랄알타이 語族에 불을 것인가 아닌가가 문제로 論難도 되며 또 여기에 붙이는 학자 중에서도 이것을 알타이말 밑에 붙일 것인가 혹은 퉁구쓰말 밑에 붙일 것인가 혹은 우랄 알타이와 대립시킬 것인가가 일치되지 아니 하는 바외다.
+四. 印度支那語族(單音節語族이라고도 함)
+(1) 西部의 印度支那語(즉 Tibet-Barmese)
+(ㄱ) 티베트말(Tibet=西藏)＜28＞
+「甲」 狹意의 티베트말
+「乙」 네팔말(Nepal)
+「丙」 렢챠말(Lepeha)
+「丁」 띠말(Dhimal)
+「戊」 北아쌈말(North Assam)
+「己」 보도말(Bodo)
+「庚」 나가말(Naga)
+「辛」 카치말(Kachi)
+(ㄴ) 빨마말(Barma)
+「甲」 쿠키 틴말(뼁갈 아쌈사람들은 「쿠키」라 부르고 빨마 사람들은 「틴」이라 부르나 여기에서는 印度의 마니부르의 마이타이말 Meithei까지도 포함시킨 것임)
+「乙」 狹意의 빨마말
+(2) 東部의 印度支那語(Siamo-Chinese)
+(ㄱ) 타이말(Tai)
+「甲」 南部 타이말
+(1) 싸이암말(Siamese)
+(二) 라오말(Laos)
+「乙」 北部 타이말
+(一) 아홈말(Ahom)
+(二) 캄티말(Khamti)
+(三) 샤니말(Shani)
+(ㄴ) 카렌말(Karen)
+(ㄷ) 支那語
+「甲」 北方語(즉 北京官話)
+「乙」 南方語
+(一) 浙江方言
+(가) 上海語
+(나) 寧波語
+(다) 溫州語
+(二) 福建方言
+(가) 福州語
+(나) 厦門語
+(다) 汕頭語
+(三) 廣東方言
+(가) 廣州語
+(나) 客家語
+五. 말라요 폴리네시아 語族
+(1) 인도네시아말(Indonesian)
+(ㄱ) 필리핀말(Philipines)
+(ㄴ) 쎌레베쓰말(Celebes)
+(ㄷ) 보르네오말(Borneo)
+(ㄹ) 짜바말(Java)
+(ㅁ) 마수라말(Mazura)
+(ㅂ) 빨리말(Bali)
+(ㅅ) 수마트라말(Sumatra)
+(ㅇ) 마다가쓰가르말(Madagasgar)
+(ㅈ) 말레이말(Malay)
+(ㅊ) 기타 北은 빠탄 諸島(Batanislands)와 臺灣, 東은 롬보크(Lombok)로부터 니우끼네마까지의 사이의 諸島, 西南은 수마트라끝의 씨말루르(Simalur) 니아쓰(Nias) 멘타웨이(Mentaway)諸島에 이르기까지의 범위의 方言.
+(2) 폴리네시아말
+(ㄱ) 마오리(Maori)
+(ㄴ) 통가(Tonga)
+(ㄷ) 싸모아(Samoa)
+(ㄹ) 롤로통가(Rolotonga)
+(ㅁ) 말퀘사쓰(Marquesas)
+(ㅂ) 타히티(Tahiti)
+(ㅅ) 하와이이(Hawaii)
+(ㅇ) 쌘드위취(Sandwich)
+(3) 멜라네시아말(Melanesian, Micro Melanesian)
+(ㄱ) 카롤린(Caroline)
+(ㄴ) 마샬(Marshall)
+(ㄷ) 낄버트(Cilbert) (이상 셋은 미크로네시아)
+(ㄹ) 니우헤부릴스(New Hebrides)
+(ㅁ) 피지(Fiji)
+(ㅂ) 쏠로몬(Solomon)
+(ㅅ) 니우칼레도니아(New Caledonle)
+(ㅇ) 로얄리티(Loyality)
+(ㅈ) 삐스말크(Bismarck)＜29＞
+(ㅊ) 니우끼네아(New Guinea) (이상 일곱은 멜라네시아)
+六. 빤투 語族(Bantu, Chuana, Zingian, Africa)
+(1) 東部語
+(ㄱ) 산시바르(Zanzibar)
+(ㄴ) 삼뻬시(Zambesi)
+(ㄷ) 술루 카피르(Zuln-kafir)
+(2) 中部語
+(ㄱ) 츄아나(Chuana)
+(ㄴ) 테게사(Tegeza)
+(3) 西部語
+(ㄱ) 콩고(Kongo)
+(ㄴ) 헤레로(Herero)
+七, 뜨레비다 語族
+(1) 文化가 열린 地方의 말
+(ㄱ) 타밀(Tamil)
+(ㄴ) 말라얄람(Malayalam)
+(ㄷ) 텔루구(Telugu)
+(ㄹ) 카나리쓰(Kanarese)
+(ㅁ) 툴루(Tulu)
+(ㅂ) 쿠다야(Kudaya)
+(2) 文化가 열리지 않은 地方의 말
+(ㄱ) 코타(Kota)
+(ㅇ) 투다(Tuda)
+(ㄷ) 곤드(Gond)
+(ㄹ) 콘드(Khond)
+(ㅁ) 라지마할(Rajimahal)
+(ㅂ) 우라온(Uraon)
+八. 아메리카 語族
+이것은 極北의 에쓰키모族을 除한 南北아메리카 土人의 言語를 일괄하여 이르는 명칭이외다. 이것도 아프리카 土語와 마찬가지로 硏究의 도끼를 나리지 못한 것이외다. 그러한 고로 系統的 分類가 불가능한 것은 물론이고 그 수도 아직 분명히 알지 못합니다. 혹 400이상의 言語가 잇다 하는 學者도 잇으며 혹은 510가량이라고 하는 이도 잇습니다. 그 人口는 漸漸 줄어서 이제는 약 1,000萬人이 생존하여 잇다고 하는데 말이 이같이 많다는 것은 이상한 일이외다.
+온 세계의 言語를 잘 系統的으로 분류하기는 극히 곤란한 일입니다. 이는 아무리 精力家라 하더라도 그 많은 말을 대강이라도 알아서 혼자 능히 분류하게 되기는 불가능한 일인 까닭이외다. 그러한 고로 문화의 발달정도가 낮아서 社會的 連絡關係가 적은 地方(가령 아프리카나 아메리카 土人같은 )은 아직 言語學者의 연구범위에 들지 못한 채로 잇기도 하며 혹은 연구한 이가 잇다 하더라도 아직 所屬系統이 문제되는 것도 잇읍니다. 歐洲의 빠쓰크(Basque)말이라든지 日本의 아이누말 같은 것은 그 一例가 되는 것이외다.
+
+二. 形態的 分類
+形態的 分類란 것은 世界言語를 그 構造上으로 보아서 分類하는 것이외다. 즉 語法上의 관계를 보아서 分類하는 것이외다. 19세기 初頭의 言語學者 쉴레겔(Frielerieh von Schlegel)은 『印度人의 言語와 知識에 대하여』 (Ueber die Spraehe und Weisheit der Indier, 1808)란 著書를 발표하여 19世紀 初頭에 대한 言語學 발달에 다대한 영향을 까친 자외다. 그는 世界言語를 (1) 有機的 言語, (二) 無機的 言語의 둘로 나누엇습니다. 有機的 言語란 것은 梵語나 그 동족의 것과 같이 語根이 유기적으로 발달하는 것인데 그것은 말에 內的 變化가 생김으로 인하여 명백하다 하엿습니다. 이것을 숼레겔은 『曲折』(Flexion)이라 이름하엿습니다. 그러한데 無機的 言語는 前者 外의 모든 말 같이 接頭語라든지 接尾語같은 것을 결부하여서 종종의 語法 上의 관계를 표현하는 것이라 하엿습니다. 또 숼레겔 氏는 인도쩌맨 語族중 梵語에 최고의 지위를 ＜30＞ 주고 印度支那語族중 支那語를 最低의 地位에 두엇습니다. 支那語는 語法上 관계가 단지 그 말(單語)의 文章중 위치로 인하여 표현될 뿐이지 그 말 자신의 形狀에는 語法상의 관계를 보이는 하등의 변화도 표현되어 잇지 아니한 까닭이라 하엿습니다. 그러하나 이 二大別은 나종에 일반으로 學者間에 채용된 世界言語의 構成上 三分法의 단서를 열어준 것이외다.
+현재 이 프리더리취 숼레겔의 兄弟되는 오거쓰트 윌헮 숼레겔(August Wilhelm Schlegel)은 이미 세계의 言語를 (一) 語法上의 관계를 보이는 構造를 가지지 아니한 言語, (二) 接辭로 인하여 語法上의 관계를 보이는 言語, (三) 曲折로 인하여 語法 上의 관계를 보이는 言語로 三分하엿습니다.
+프란쓰 뽀프(Franz Bopp)는 梵語와 歐羅巴語와의 比較硏究의 先驅者라 이르는 이외다. 그의 不朽의 名著라 볼만한 것은 1816년에 발표된 『콘유가촌쓰 씨쓰템』(Ueber der Conjugationssystem der Sanskritsprachen in Vergleiehung mit jenem der grieehischen, Ialeinischen, persischen und Germanischen Sprachen)과 1833년부터 1852년까지에 출판된 『比較文典』 6卷(Vergleichende Grammatik des Sanskit, Zend, Armenischen Griechischen, Latcinischen, Litauischen, Altslavischen, Cotischen und Deutschen)이외다. 그는 그 『比較文典』 중에서 世界言語를 三分하엿습니다. 즉 (一) 확실한 語根이라 볼만한 것이 없고 合成의 힘이 없으며 따라서 機制(「올가니슴」)와 語法이 결함된 言語ㄴ데 語法上의 관계가 대체로 語詞의 위치로 인하여 표현되는 支那語 같은 것은 이에 속하는 것이며 (二) 單音節의 語根을 가지고 잇는 言語로서 合成도 되거니와 機制와 語法도 갖후어 잇는 言語ㄴ데 語詞 構成의 주요한 원칙은 動詞的 代名詞的 語根의 결부에 의하는 것이니 인도 쩌맨 語族의 言語는 이에 속하는 것이며 (三) 二音節의 語根을 가지고 세 가지 없지 못할 子音이 잇어서 그것만으로 語詞의 意義를 표시하는 言語ㄴ데 이에 속하는 것은 쎔 語族의 言語외다. 이 종류의 言語에 잇어서는 語法上의 관계는 合成의 방법으로 인하여서만이 아니고 語根의 內部의 音의 변화로 인하여서도 표시되는 것이외다.
+오거쓰트 숼라이허(August Schleicher)는 (一) 孤立語, (二) 附着語, (三) 曲折語의 셋으로 분류하엿습니다. 그 뒤로 이 分類法은 숼라이허의 이름으로 오래 세상에 행하게 되엇읍니다. 이 三大名目의 의미와 그것에 각각 속할 만한 語族을 소개하여 보면 다음과 같음니다.
+孤立語(Isolierende, Isolating)는 單綴語라고도 하는데 語詞의 形狀에 語法의 관계를 보일만한 변화가 표현되어 잇지 아니하고 語詞 각각의 자체의 형상에 다른 것과의 連絡關係가 표시되지 아니한 것을 이름이외다. 가령 中國말에서 『善』이란 말은 『좋다』 『좋게』 『좋은』 『좋아하다』들 같은 여러 가지의 어떠한 경우에든지 그 語形이 변함이 없습니다. 어느 한 말(單語)만 취하여 보아서는 그것이 名詞인지 動詞인지 形容詞인지 알 수 없는 것이외다. 월(文)중에 대한 위치로 인하여 비로소 그 말의 單語的 特質이 구별되는 것이외다. 물론 助辭를 섞어 쓰는 것이 발달되어 왓으나 오늘날까지도 아직 列位語(Position Ianguage)의 특질을 잃지 아니한 ＜31＞ 것이외다. 中國語 밖에도 印度支那語族에 속한 安南, 싸이암, 빨마의 말들은 다 이 따위의 孤立語에 속하는 것이외다. 그러하나 그 孤立的 性質은 각각 차이가 잇어서 빨마(緬甸)말 같은 것은 助辭를 씀이 中國말보다 매우 많읍니다. 孤立語에 속하는 말의 자못 전부는 동시에 또 聲調語(Tong-Ianguage)라는 성질을 가지고 잇습니다. 현대의 中國말에서 實例를 들어 말하면 北京 官話에는 上平, 下平, 上聲, 去聲같은 소위 四聲의 구별이 각 단어마다 그 特質로 되어 잇어서 마치 母音, 子音과 같이 각각 單語를 구성하는 한 成分이 되어 잇다는 그러한 性質을 가진 따위의 말을 聲調語라고 하는 것이외다. 이는 孤立語가 전체로 單音節語 즉 一語一音節인 관계상, 同音語가 비상히 많은 고로 同音語를 구별하기 위하여 생긴 것일찌나 다시 또 생각하면 孤立語는 單音節語면서 또 語法上의 관계를 보이는 形式的 成分도 缺陷되엇다는 그 사실이 調聲으로 인하여 語意의 식별을 돕겟다는 방법을 案出튕�게 한 한 主因이라고 생각하는 바외다.
+附着語(Agglutinierende, Agglutinative)는 添加語라고도 하는데 語法上의 관계가 원래 독립한 말이엇거나 아니엇거나 물론하고 현재에는 이미 독립의 자격을 잃어버린 어떠한 音, 혹은 音節, 즉 語法上의 관계를 보일만한 成分을 뜻을 보이는 成分 즉 독립한 單語의 앞에나 가온대나 뒤에 붙이어 語法上의 관계를 표시하는 따위의 말을 이름이외다. 그러한데 이 경우에 槪念 가진 單語의 앞에나 가온대나 뒤에 붙이는 成分(즉 토)된 單語는 그 軆語(몸씨같은)와 혼합함이 없고 그 구별이 判然하게 서 잇다는 것이 附着語의 특색이외다. 語法上의 관계를 보이는 成分(즉 토)이 軆語(몸씨, 즉 名詞, 動詞形容詞의 統稱)의 앞에 붙는 것을 보통으로 接頭辭(Prefix)라 하고 그 뒤에 붙는 것을 接尾辭(Suffix)라 합니다.
+日本語의 實例를 들어 말하면 助詞는 물론이고 助動詞라고 부르는 것도 接尾辭에 붙을 것이외다.
+『おたかひに 心もちよく 日を送つてねる』
+라고 하는 實例 중에 옆에 O(밑줄-국편)을 친 것은 語法上 관계를 보이는 成分이의다.
+朝鮮말에서 實例를 들면
+『아름답은 나비가 꽃에서 즐겁게 날아 댕긴다』
+에서 옆에 0친 것이 그것이외다.
+또 語法上 관계를 보이는 成分을 軆語의 중간에 넣는 實例는 말레이말에서 볼 수 잇는 것이외다. 말레이말로 “dal”은 『치다』의 뜻을 가지엇지마는 『서로 치다』의 뜻을 나타내고저 할 때에는 “pa”를 중간에 넣어서 “dapal”이라 합니다. 또 『서로 되우 치다』의 뜻을 나타내고저 할 때에는 다시 “K”를 넣어서 “dakpal”이라 합니다. 이와 같은 따위의 말을 揷入辭(Infix)라 합니다. 그리하고 接頭辭, 揷入辭, 接尾辭를 總稱하여 接辭(Affix)라 합니다.
+이 附着語에 속할 만한 것은 朝鮮語, 日本語를 위시하여 우랄알타이 語族, 뜨레삐다 語族, 말라요폴리네시아 語族의 말들이외다.
+曲折語(Flektirende Inflectional)는 屈折語 또는 曲尾語라고도 합니다. 曲折語는 뜻을 나타내는 成分과 語法上의 관계를 나타내는 성분이 아주 혼합하여 하나가 되어 버리엇거나 ＜32＞ 혹은 그 두 성분이 매우 밀접하게 결합하여 잇는 따위의 말을 이름이외다. 이것은 語法上의 관계를 보이기 때문에 語根이 그 내부의 音을 변하든지 혹은 語根에 接辭가 붙든지 하는 것이의다. 語尾의 形狀에 나타난 曲折을 外的 曲折(External inflection)이라 하고 軆語의 내부에 나타난 曲折을 內的 曲折(Inter inflection)이라 하여 구별합니다. 인도쩌맨 語族이며 함, 쎔 語族의 말들은 曲折語의 성질을 가진 것이외다.
+숼라이 허氏는 이 같은 言語形態의 三分法을 提唱하는 동시에 이 세 종류는 실로 言語發達의 三階段을 보이는 것이라 하엿습니다. 즉 孤立語는 言語發達의 가장 초기의 상태를 보인 것이며 附着語는 그보다 조금 진보된 상태를 보인 것이며 그 가장 발달된 정도를 보이는 것이 曲折語라고 주장하엿습니다. 그러하나 이것은 아리안인의 自負心으로 나아온 獨斷이라고 반대한 學者도 잇습니다.
+이상 세 가지의 分類 외에 오히려 抱合語, 緝合語의 두 종류를 더하는 學者도 잇습니다.
+抱合語(Incorporating)는 멕시코말이나 빠쓰크말들 같이 한 월(文)중의 動詞 중에 動詞關係의 여러 가지 成分을 포함시키는 성질의 말을 이름이외다. 가령 멕시코말에서 “Ka”는 『먹다』의 뜻을 가진 말인데 “Ni-k-ka”라 하면 “I-it-cat”의 뜻이 되며 “Ni-naka-ka”는 “I-meat-eat”의 뜻이 됩니다. 그러하나 이 “Ni”라든지 “K”라던지 “naka”들은 결코 독립의 단어는 아니외다. 『나』란 말은 “Newatl”이며 『저것』이나 『그것』이란 말은 “jewatl”이며 『고기(肉)란 말은 “Nakatl”이외다. “ni” “K” “Naka”는 “Ka”란 動詞에 대하여 接頭辭的 관계를 가진 것이며 附着語 혹은 曲折的의 成分이라고도 할만한 것이외다. 그러하나 이러한 “ni-k-ka”, “ni-naka-ka”와 같은 것은 接頭辭가 붙은 한 動詞라고 볼 만한 것이 아니고 한 월(文)에 가까운 힘을 가진 것이외다. 그러하나 한 월이 한 씨(單語)로 표시된다고 볼 만한 관계는 또한 아니외다. 한 動詞 중에 월의 어떠한 성분이 포함되엇다는 정도에 불과하는 것이외다. 이 관계가 좀 더 나아간 것이 緝合語란 것이외다.
+緝合語(Polysynthetic)는 抱合語의 성질이 일층 복잡히 된 것으로서 많은 성분이 서로 뭉치어 한 덩어리의 動詞를 形成하며 다시 나아가서는 한 월도 형성함과 같은 성질을 가진 말을 이름이외다. 그러하나 그 집합한 성분을 일일히 分解하기는 자못 불가능한 일이외다. 이 성질을 극단으로 나타낸 實例는 南北아메리카 土人의 言語라든지 에쓰키모 土人의 言語에 찾아낼 수가 잇는 것이라 합니다. 알곤킨 말로
+“Wutappesittukgnsunnoowehtunkguoh”
+는 “He falling on his knecs, worshipped them”을 의미하며 에쓰키모말로
+“Sialugsiokhpkk”
+은 “He is outside in the rain”
+을 의미하며 또
+“Aglekkigiartrasuarnipok”
+은 “Hw goes away hastily and exerts himself to write”
+를 意味한 말이라고 합니다.＜33＞
+＜25-33＞

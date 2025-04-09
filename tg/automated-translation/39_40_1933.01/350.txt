@@ -1,0 +1,108 @@
+Magazine Title: 동광 제40호
+Publication Date: 1933년 01월 23일
+Article Title: 新刊紹介 讀書室 (New Publication Introduction: Reading Room)
+Author: (Not explicitly stated, likely an editor or staff reviewer)
+Article Type: 문예평론 (Literary Criticism/Book Review)
+
+New Publication Introduction: Reading Room
+*The Psychology and Education of the Child* (兒童의 心理와 敎育), by Dr. Han Chijin (韓稚振)
+
+Dr. Han Chijin (韓稚振) has published many writings. Works such as *Introduction to New Psychology* (新心理學槪論), *Introduction to Logic* (論理學槪論), and *The Global Activities of the Jewish People* (猶太民族의 세계적 活躍) remain in our memory. While the latter is not, the former two are both a kind of textbook-like writing. The recently published *The Psychology and Education of the Child* also seems, upon consideration, to be intended for educational use.
+
+Being for textbook use, its content should be called a synthesis of various theories that have existed up to the present, rather than original research. Therefore, it will serve as a good reference book not only for students but also for individuals seeking introductory knowledge of child psychology. However, it is regrettable that excessively broad subject matter has been compressed into excessively narrow page space, making it uninteresting for the general reader to read, and there are many parts that are unclear or vague. In this reviewer's humble opinion (愚見), it would have better met the general demand if the scope of the subject matter had been narrowed somewhat, and instead, examples (例證) had been provided concretely to aid understanding. But of course, this would run counter to the original purpose of being compiled for teaching use, so it would be difficult to satisfy both requirements.
+
+Regarding Dr. Han's "style," this reviewer cannot but submit a protest (抗議). His sentences sometimes lack unity and coherence, and there are many errors in spelling (綴字法). Astute (怜悧) readers will surely not forgive (容赦) the many unnatural aspects in the unity and organization of the subject matter. For example.
+
+"Curiosity, inasmuch as it likes new things, has much variability and fosters an objective attitude." (Page 134)
+
+A sentence like this is one worthy of appearing on a grammar test.
+
+I will not bother citing examples one by one for the irregularity of punctuation marks (勿讀點), inconsistency in parallel writing (竝書), irregularity in word spacing, and so on. While the author's intention to use the new orthography is certainly appreciated (贊意), it is regrettable that there are many instances of types like "식힌다" [instead of 시킨다 - causative form of 'cool down' or 'make do'], "배화서" [instead of 배워서 - learning and...], "할냐고하면" [instead of 하려고 하면 - if one intends to do], and "갖인다" [instead of 가진다 - possesses/has]. Also, the presence of *gamtu munja* (감투 문자 - "hat characters," likely referring to Sino-Korean words written in Hanja) such as 作亂 (making trouble), 分間 (minute), 對答 (answer), 代身 (instead), 失手 (mistake) is also a flaw. The purpose is not to engage in nitpicking criticism (吹尾覓疵的 評).
+
+It is a fact that today's publications in Chosŏn (朝鮮) not only have many misprints and omissions (誤書落字) but also lack a definite standard method, with everyone writing according to their own rules; indeed, there are many who calmly use three or four different spellings within the same volume. This is because the level of development (發達程度) of Chosŏn culture has only reached that point, so it cannot be helped. However, we merely express our great regret that Dr. Han's work, being intended for textbook use, lacks meticulous care (綿密한 용의) in this regard. (70 Chŏn, Kyŏngsŏng Naengdong 28 Ch'ŏrhak Yŏn'gusa, Postal Transfer, Kyŏngsŏng 5960) (D) <98>
+
+**Summary**
+
+This 1933 book review critiques Dr. Han Chijin's new publication, *The Psychology and Education of the Child*. While acknowledging Han's previous works and the book's value as a synthesized textbook on child psychology, the reviewer criticizes its broad scope crammed into limited space, making it potentially dull and unclear for general readers. The primary focus of the critique, however, is Han's writing style, citing grammatical awkwardness, inconsistent punctuation and spacing, and numerous errors in applying the "new orthography" (likely referring to early attempts at standardizing Hangul spelling). The reviewer laments the overall poor state of publishing standards in colonial Korea, including inconsistent spelling and lack of editorial rigor, but holds Han's textbook to a higher standard due to its educational purpose. For historians, the article offers insight into the intellectual landscape (specifically psychology and education), the challenges of publishing and language standardization (orthography debates, coexistence of Hanja and Hangul, lack of standards) in 1930s colonial Korea, and contemporary critical standards for academic writing. The specific examples of spelling errors highlight the transitional state of written Korean.
+
+**Named Entities**
+
+韓稚振	한치진	Han Chijin
+朝鮮	조선	Chosŏn
+京城	경성	Kyŏngsŏng
+哲學硏究社	철학연구사	Ch'ŏrhak Yŏn'gusa
+
+**Glossary**
+
+著述	저술	Writings, publication
+兒童	아동	Child
+心理	심리	Psychology
+敎育	교육	Education
+槪論	개론	Introduction, outline
+猶太民族	유태민족	Jewish people
+敎科書的	교과서적	Textbook-like
+獨創的	독창적	Original, creative
+學說	학설	Theory, doctrine
+綜合	종합	Synthesis, compilation
+初步	초보	Beginning, first steps, introductory
+廣汎	광범	Broad, wide-ranging (Modern: 광범위)
+狹窄	협착	Narrow, constricted
+紙面	지면	Page space
+壓搾	압착	Compression, squeezing
+無味	무미	Tasteless, uninteresting, dull
+不明瞭	불명료	Unclear, indistinct
+어렴붓한	어렴풋한	Vague, dim, indistinct (Older spelling)
+遺憾	유감	Regret, pity
+愚見	우견	My humble opinion
+例證	예증	Illustrative example, proof
+適應	적응	Adaptation, suitability
+相馳	상치	To conflict with, run counter to
+스타일	스타일	Style (Loanword)
+抗議	항의	Protest, objection
+통일	통일	Unity, uniformity
+끝에진 데	끄트머리	End, conclusion (Colloquial/older phrasing for 'coherence')
+綴字法	철자법	Spelling, orthography
+誤謬	오류	Error, mistake
+怜悧	영리	Clever, astute (Less common Hanja for this meaning now)
+容赦	용서	Forgiveness, pardon
+勿讀點	물독점	Punctuation marks (Possibly an older/idiosyncratic term; 구두점 is standard)
+竝書	병서	Writing side-by-side, parallel writing/listing
+떼는데	떼는데	Spacing (in writing)
+贊意	찬의	Approval, agreement
+식힌다	시킨다	Cools down / Makes do (Reviewer implies this is an incorrect spelling/usage in context, possibly for 시킨다)
+배화서	배워서	Having learned (Older spelling of 배워서)
+할냐고하면	하려고 하면	If one intends to do (Older spelling)
+갖인다	가진다	Possesses, has (Older spelling/form)
+作亂	작란	Causing trouble, disturbance
+分間	분간	Minute (time); distinction
+對答	대답	Answer, reply
+代身	대신	Instead of, in place of
+失手	실수	Mistake, blunder
+감투 문자	감투 문자	"Hat characters" (Lit. official's hat character); likely refers to Sino-Korean words written prominently in Hanja.
+吹尾覓疵的	취미멱자적	Nitpicking, fault-finding (Idiomatic expression)
+誤書落字	오서낙자	Misprints and omissions (Errors in writing/printing)
+標準	표준	Standard, criterion
+發達程度	발달정도	Degree of development
+綿密	면밀	Meticulous, detailed, careful
+용의	용의	Attention, care, consideration (Here implies careful effort)
+振替	진체	Postal transfer (for payment)
+
+
+---------------------------
+
+
+잡지명	동광 제40호
+발행일	1933년 01월 23일
+기사제목	新刊紹介 讀書室
+기사형태	문예평론
+
+新刊紹介 讀書室
+韓稚振 博士 著, 『兒童의 心理와 敎育』
+
+韓稚振博士는 많은 著述을 발표하엿다. 「新心理學槪論」 「論理學槪論」 「猶太民族의 세계적 活躍」 등이 우리의 기억에 남아잇다. 後一 者는 아니지마는 前二者는 다 일종의 敎科書的 著述이다. 이번에 출간한 「兒童의 心理와 敎育」 一著도 생각건대는 敎育用으로 된 것 같다.
+敎科用이니 만치 그 내용은 獨創的 연구라 하기보다도 현재까지에 잇어온 여러 가지 學說의 綜合이라고 할 것이니 학생 이외에라도 兒童心理에 대한 初步知識을 구하는 人士들에게는 좋은 參考書가 될 것이다. 오직 너무도 廣汎한 題材를 너무도 狹窄한 紙面에 壓搾하여 넣엇으므로 일반 독자로서는 읽기에 無味하고 또 不明瞭하거나 어렴붓한 데가 많은 것이 遺憾이다. 評者의 愚見으로는 좀더 題材의 범위를 축소하고 그대신 例證을 구체적으로 들어서 이해에 도움이 되도록 하엿더면 더욱 일반의 요구에 適應하리라고 생각한다. 그러나 물론 敎授用으로 編纂된 그 원래 목적과 相馳되는 일이니 두 가지 요구에 다 들어맞도록 하기는 어려울 것이다.
+韓博士의 「스타일」에 대하야 評者는 抗議를 제출치 아니 할 수 없다. 그의 문장은 어떤 때는 통일이 없고 끝에진 데가 없으며 綴字法에도 많은 誤謬가 잇다. 題材의 통일과 조직에도 不自然한 것이 많은 것을 怜悧한 독자는 容赦하지 않을 줄 안다. 가령.
+「호기심은 새 것을 좋아하느니 만콤 변화성이 많고 客觀的 태도를 조장한다.」(134頁)
+와 같은 문장은 文法試驗에 나올만한 문장일다.
+勿讀點의 不規則, 竝書의 不統一, 단어를 떼는데 不規則한 것 등을 일일히 例證을 들고저 아니한다. 作者가 新綴字法을 사용하려고 한데는 물론 贊意를 표하나 「식힌다」든가, 「배화서」라든가 「할냐고하면」이라든가, 「갖인다」든가의 종류가 많은 것은 유감이다. 또 「作亂」 「分間」 「對答」 「代身」 「失手」 등의 감투 문자가 잇는 것도 탈이다. 吹尾覓疵的 評을 하자는 것이 목적이 아니다.
+朝鮮의 今日의 출판물이 誤書落字가 많은 것은 물론이요 일정한 표준될 방법이 업어 제각기 제 법대로 쓰는 형편이며 심지어는 같은 배속에 세 가지 네 가지의 綴字를 쓰고도 安然한 者가 많은 것이 사실이다. 이것은 朝鮮文化의 發達程度가 아직 거게 밖에 미치지 못한 까닭이매 어찌할 수 없는 일이나 韓博士의 著述은 敎科用이니 만콤 이 점에 대하야 綿密한 용의가 없는 것을 우리는 크게 유감으로 생각한다는 것 뿐이다.(70錢, 京城 冷洞28 哲學硏究社, 振替, 京城5960番)(D) ＜98＞

@@ -1,0 +1,660 @@
+잡지명	동광 제33호
+발행일	1932년 05월 01일
+기사제목	訓民正音의 起源論, 朝鮮文字의 歷史的 考察(11) (The Origin Theories of Hunminjeongeum, A Historical Study of Korean Writing (11))
+필자	金允經 (Kim Yunkyŏng)
+기사형태	논설 (Editorial/Essay)
+
+The Origin Theories of Hunminjeongeum, A Historical Study of Korean Writing
+						金允經 (Kim Yunkyŏng)
+
+6. Various Systematic and Symbolic Origin Theories
+Regarding the promulgation of Hunminjeongeum (訓民正音), Chŏng Inji (鄭麟趾), who was deeply involved, himself stated, "The creation of the Correct Sounds (正音) had no prior model (無所祖述) and arose naturally (而成於自然)." As this indicates, Hunminjeongeum did not imitate other scripts. This is evident when comparing it to any script, ancient or modern, Eastern or Western; none is identical to Hunminjeongeum. Of course, as mentioned before, it is clear from both documentary evidence and its scientific structure that various countries' scripts and existing writing systems were extensively consulted during the painstaking research for Hunminjeongeum. Chŏng Inji's statement "Its forms were patterned after the ancient seal script (象形而字倣古篆)" is ultimately nothing more than naming one aspect of this consultation. No matter how much he said "patterned after the ancient seal script (字倣古篆)," not only is it unlike the ancient seal script (古篆), but it also bears similarities to Sanskrit (梵字). If one then considers whether it was modeled after Sanskrit, it also bears similarities to Mongolian script (蒙古字). If one then considers whether it was modeled after Mongolian script, it also resembles the Hyangch'al (鄕札), the ancient script described as "like Sanskrit writing strung together (似梵書連布)." The fact that it resembles various scripts in this way proves that it was ultimately not modeled after just one. However, many scholars, both domestic and foreign, have historically advocated their own unique origin theories based on these resemblances. I will now present the important ones.
+
+First, the Ancient Seal Script Origin Theory (古篆起源說)
+This theory, based on the phrase "patterned after the ancient seal script (字倣古篆)" in Chŏng Inji's preface, has traditionally <76> been the most common and widespread. The author of the Tongguk Munhŏn Pigo (東國文獻備考) (Note 27), Yi Tŏngmu (李德懋) of Ungjŏng (雄亭) (Note 46), and Dr. Gale (께일 博士) (Note 47) are among those who supported this view. However, regarding this, Ch'oe Namsŏn (崔南善) stated, "It does not mean it was modeled on the ancient seal script, but rather that it resembles it" (Note 48), and An Kwak (安廓) argued, "Since it was made to be related to Chinese characters (漢文), it is merely a phrase implying it is as revered as Chinese characters, not that it truly imitated Chinese characters (漢字)" (Note 49). Chŏng Inji himself, who coined the phrase "patterned after the ancient seal script (字倣古篆)," also said, "The creation of the Correct Sounds had no prior model (正音之作, 無所祖述)." Even the opponents of the Hunminjeongeum promulgation, like Ch'oe Malli (崔萬里), stated, "If you claim that the vernacular script (諺文) follows ancient characters (古字) and is not a new script, then although the letter shapes may imitate ancient seal script (古之篆文), the combination of sounds and letters completely deviates from the old ways, and there is truly no basis for it (實無所據)" (Note 24). However, if we interpret the term "ancient characters (古字)" or "ancient seal script (古篆)" as referring to some script of ancient Chosŏn, the facts can be explained without contradiction.
+
+Second, the Sanskrit Origin Theory (梵字起源說).
+Doubts about the Ancient Seal Script Origin Theory and the structural characteristics [of Hunminjeongeum] led to the advocacy of the Sanskrit Origin Theory. Sŏng Hyŏn (成俔) stated, "Its letter forms were based on Sanskrit (其字體依梵字爲之), allowing it to transcribe without impediment all sounds of our country's and Qing China's languages that their scripts could not" (Note 25). Yi Sugwang (李晬光) wrote, "Our country's vernacular script (諺書) letter shapes entirely imitate Sanskrit (我國諺書字樣全倣梵字). It originated in the reign of King Sejong (世宗朝), when an office was established to compile it, and the ingenuity of the letter creation is truly attributed to the king's own calculation (實自容算云). With the emergence of the vernacular script, the sounds of all languages could be transcribed. This is what is called something only a sage could achieve (非聖人不能也)" (Note 23). However, Sŏng Hyŏn's statement lacks explanation for why this is so, and Yi Sugwang's not only lacks reasoning but also contradicts itself by saying it "entirely imitates Sanskrit (全倣梵字)" while also stating "the ingenuity of the letter creation is truly attributed to the king's own calculation (制字之巧, 實自容算云)." Furthermore, Pan Nobutomo (伴信友), referring to a private record (私記) (citing the Nihongi Shiki (日本紀私記) quoted in the Shaku Nihongi (釋日本紀): "The teacher said this book is in the Bureau of Drawings and Archives (圖書寮), but its script style greatly resembles Sanskrit (頗似梵字), though the basis for the character meanings is unclear (未詳字義所准據)"), stated regarding the claim in the Yongjae Ch'onghwa (慵齋叢話) that Eonmun (諺文) was based on Sanskrit (依梵字爲之): "As mentioned above, if Idu (吏讀) was originally modeled after Sanskrit, then the new script created by the monks (石積) modeled after Idu would naturally resemble Sanskrit as well..." (Note 50). However, this seems to confuse Idu, used since the early Three Kingdoms period, with "Eonmun" (Hunminjeongeum), created in the 28th year of King Sejong of the Yi Dynasty (李朝). The statement "based on Sanskrit (依梵字爲之)" in Sŏng Hyŏn's Yongjae Ch'onghwa refers to Hunminjeongeum, not Idu. The claim that the "New Script (新字)" supposedly created in the 11th year of Tianbu (天步) (683 AD) – "ordered Kyŏngbu (境部) and Sŏkchŏk (連石積) et al. to create anew one set of 44 scrolls of the new script (更肇俾新字一部四十四卷)" (Note 51) (its existence is a separate issue) – was based on Idu, and the claim that Hunminjeongeum was based on Sanskrit, are unrelated facts distorted by time inversion. Moreover, the assertion that Idu itself was based on Sanskrit is entirely unfounded. Nevertheless, agreeing with the general sentiment that Korean script was based on Sanskrit, and thus arguing that Japanese script, based on Korean script, also resembles Sanskrit, suggests that Pan Nobutomo can be seen as one who supported Sŏng Hyŏn's Sanskrit Origin Theory. Additionally, Kuroi Harunori (黑井治德) also stated, "The conception of the letter shapes is unique to Chosŏn, but the method of organization imitates the Sanskrit organizational method" (Note 52). Kwŏn Sangno (權相老), pen name T'oegyŏng (退耕), also advocated the Sanskrit Origin Theory (Note 53). However, since he asserted that not only Chinese characters (漢字), Mongolian script (蒙古字), Hunminjeongeum (訓民正音), and Kana (假名), but also Balhae script (渤海字), Pali script (巴利文), Burmese script (緬甸字), Siamese script (暹羅字), Ceylonese script (錫蘭字), Roman script (羅馬字), Arabic script (아라비아字) – essentially all world scripts – directly or indirectly originated from Sanskrit, his claim seems overly exaggerated and lacking a scholarly basis. Hwang Yunsŏk (黃胤錫) also stated, "The origins of our Hunminjeongeum (我訓民正音淵源) are largely based on this, and ultimately do not depart from the scope of Sanskrit (不出於梵字範圍矣)" (Note 54). In any case, this origin theory has garnered support from the largest number of scholars and remains influential even today. However, it relies more on historical verification, structural analysis of letter shapes, or the order of arrangement rather than definitive proof.
+
+Third, the Mongolian Script Origin Theory (蒙古字 起源說).
+Yi Pŏn (李瀵) forcefully argued that it evolved from Mongolian script.
+"Our nation's vernacular script (諺字) was created in the Byeongin year (丙寅) of King Sejong's reign (世宗朝). There is a letter for every sound, such that people say nothing like it has existed since Cangjie (蒼頡). <77> During the reign of Kublai Khan (元世祖), Phagspa (巴思八) received Buddhist teachings and created the Mongolian script (蒙古字). It divided the four tones (四聲) – level (平), rising (上), departing (去), entering (入) – and the initial consonants (母字) of the seven sound categories (七音) – labial (唇), dental (舌), guttural (喉), incisor (齒), molar (牙), semi-labial (半唇), semi-dental (半齒). Not a single sound was omitted. Chinese characters (中國之字) are primarily based on shape (形), thus transmitted by hand and seen by eye. Mongolian script is primarily based on sound (聲), thus transmitted by mouth and heard by ear. Yet, how could it be transmitted without extinction if it entirely lacked shape? Today, we cannot ascertain the details. If letters were created by analogy, they could circulate throughout the world, similar to our vernacular script (諺文). Perhaps this method existed in the early Ming (明初). When our country first created it, an office was established within the palace, ordering Chŏng Inji (鄭麟趾), Sŏng Sammun (成三問), Sin Sukchu (申叔舟), etc., to compile it. At that time, the imperial scholar Huang Zan (黃瓚) was exiled to Liaodong (遼東) for a crime. Sammun and others were sent to consult him, reportedly making thirteen round trips. By conjecture, since the current vernacular script is completely different from Chinese characters, what could Zan have contributed? At that time, only seventy-nine years had passed since the fall of the Yuan (元). There must have been matters not yet obscured. What Zan transmitted to us could be nothing other than this [Mongolian script knowledge]. According to the History of Koryŏ (高麗), during the reign of King Ch'ungyŏl (忠烈王), the princess, jealous of a favored consort, wrote in Uyghur script (畏吾兒字) to the Yuan, wanting others not to understand. The history states, 'She sent a letter in Huihu script (回*書) to Shèn Xíng (愼行).' In the third year of Jiading of the Song (宋嘉定三年), the Uyghur kingdom (畏吾兒國) surrendered to the Mongols (蒙古). This was Gaochang (高昌) of the Tang (唐). They resided in Ganzhou (甘州), a Western Regions (西域) kingdom that followed Buddhism (奉佛敎). Since Phagspa's transmission is said to be Buddhist teachings, and it circulated during the Yuan dynasty, what else could the princess have written in? Therefore, isn't it just that the shape is different from today's vernacular script, but the concept is the same? In Chinese writing (中國書), more than half the sounds lack characters. Why are some present and some absent, as labial, dental, guttural, incisor sounds, open mouth, clear, turbid sounds change daily? Today's vernacular Rime Dictionary (諺反切) has fourteen initials (母). There are also four categories with initials but no finals (切), the so-called entering tones (入聲). There is one category where the tongue touches the upper palate (舌帖上齶), for which our country also lacks a character. The four rhymes qīn (侵), tán (覃), yán (鹽), xián (咸) share the same final (切) as zhēn (眞) and wén (文). What we call entering tones do not exist in Chinese (中國), only the characters ér (兒) and èr (二). The three rhymes xiāo (蕭), yáo (爻), yóu (尤) have one character with two sounds; this is incomprehensible. Perhaps after the Five Barbarians (五胡), through the Northern Wei (元魏), Chinese pronunciation completely changed, and the northern sounds became like this? In our customs (我俗), the four borders have many turbid sounds (濁聲); the P'an'ch'on (泮村) in the capital is also like this. Northern people moved to Cheju Island (濟州), so their sounds are similar, which can serve as proof. The script of the Western Regions (西域之字) lacked no sound. Thus, beyond the seventeen entering tone rhymes like wū (屋), wò (沃), etc., there were likely no other sounds. What was obtained from Zan was like this. Therefore, Phagspa's remaining influence can be imagined. It can be said that later developments improved upon it. However, the letter shapes completely lack meaning, distinguished only by one or two dots. Those with one dot all originate from the tip of the tongue (舌端) as correct sounds (正音); those with two dots all originate from the right side of the tongue (舌右傍) as deviant sounds (偏音). The initial principles are now unascertainable" (Note 26 & 55).
+
+Thus, he argued that what Sŏng Sammun and others learned from Huang Zan during their thirteen trips to Liaodong was not knowledge about Chinese characters, but about Mongolian script. Yu Hŭi (柳僖) also stated, "Although the vernacular script (諺文) originated in Mongolia (蒙古), it was perfected in our East (我東)" (Note 33).
+
+Fourth, the Sanskrit and Mongolian Script Origin Theory (梵字와 蒙古字 起源說).
+Yi Nŭnghwa (李能和) stated, "It is clear that the initials of Chinese characters (漢文字母) were compiled by monks from the Western Regions (西域僧), later becoming the standard for the initial consonants (初聲) of our Eastern vernacular script (我東諺文)," indicating that Chinese phonology (韻學) originated with Western monks and later influenced the initial consonants of Hunminjeongeum. He also added, at the end of discussing the Sanskrit origin, "Synthesizing the above points, the process of creating the vernacular script (諺文) is not difficult to grasp. However, the statement that the letter style imitates ancient seal script (字体倣古篆云者) is highly doubtful. Why? While one or two letters in the greater and lesser seal scripts (大小篆) may resemble vernacular letters, the system of finals and initials linkage (反切紐關之法) and the rules of combining strokes to match sounds (合畫諧聲之規) in the vernacular script are not nearly as closely related as the relationship between Sanskrit and the vernacular script. What Chŏng Inji, Ch'oe Malli, and others called 'patterning after ancient seal script (字倣古篆)' was likely because they were all Confucian scholars (儒者) and thus avoided mentioning Sanskrit (諱言梵字), instead saying 'ancient seal script (古篆).' Therefore, later generations gradually revealed the facts. For instance, the Tonggak Chapki (東閣雜記) states, 'The vernacular script's letter style patterns after ancient seal script and Sanskrit (諺文字体倣古篆梵字).' Does this refer to both ancient Chinese seal script (漢文古篆) and Western Region Sanskrit (西域梵字)? Why is it so ambiguous? Nevertheless, compared to the previous two [theories], it adds one more element. As for the Munhŏn Pigo (文獻備考) quoting the Chibong Yusŏl (芝峰類說) stating, 'Our Eastern vernacular script entirely patterns after Sanskrit script (我東諺書, 全倣梵書),' the true nature of the script's origin in seal script and Sanskrit is fully revealed. Mr. Sŏngho's (星湖先生) statement that the letter shapes 'completely lack meaning, distinguished only by one or two dots' is also an ill-considered remark. I now cite several examples from the Siddham chapter (悉曇章) where Sanskrit letters and our vernacular letters show similarities in form and sound—
+The pronunciation system (音聲) of the vernacular script (諺文) is modeled after the Mongolian Rimes (蒙古韻會); the alphabet (字母) of the vernacular script is modeled after the Hongwu Correct Rimes (洪武正韻). Also, ancient sound characters changed from Kharosthi (佉樓), and Chinese initials originated in the Western Regions (西域). Thus, some are distant causes, some are near causes. Therefore, I say the vernacular script's system originates from Sanskrit Heaven and Earth (梵天地)" (Note 56). He also stated, "Observing the pronunciation method of the vernacular script, it all follows the Mongolian Rimes (蒙古韻含); consulting Huang Zan (黃纘) was about this. Sin Sukchu's (申叔舟) preface to the Hongwu Correct Rimes (洪武正韻序) shows the beginning of this. Also, the statement 'The vernacular script's letter style is based on Sanskrit (諺文字体倣梵字爲之)' refers to the Mongolian script (蒙古字). This Mongolian script was created by the Yuan Dynasty's State Preceptor Phagspa (元世祖國師發思八). Phagspa was a Tibetan Lama monk (西藏喇嘛僧). He created the Mongolian script based on Sanskrit (依梵字製蒙古字) and promulgated it throughout the realm, rendering great service to the state. (omitted) In the late Koryŏ period (高麗末季), from King Ch'ungyŏl (忠烈王) onwards, generation after generation married princesses [from Yuan] as queens. Mongolian script and language were used in the palace. In the old Korean palace (舊韓宮中), the term for the royal meal (御用之飯膳) was 'sura' (水剌), and the royal musicians (御用之樂工) were called 'jolhwach'i' (卒花赤), pronounced 'jorach'i' (卒兒治) in common speech. These are all Mongolian words (蒙古語), palace terms passed down from the Koryŏ era (麗代). Therefore, in the early Chosŏn period (朝鮮初葉), Mongolian translators (蒙譯) were still appointed, and Sin Sukchu was skilled in Mongolian (善蒙古語). From this, one can imagine that Mongolian was still needed at the time, and the derivation of the vernacular script's form (諺文字之脫体) is not difficult to infer" (Note 56). Thus, he argued that Hunminjeongeum was made based on the Mongolian Rimes (蒙古韻合), and since Mongolian script was created by Phagspa (發思八/巴思八) <78> based on Sanskrit (梵字), the origin of our script lies in both Sanskrit and Mongolian script. Dr. Kanazawa Shōzaburō (金澤庄三郞) also subscribed to this origin theory. "Following the example of the Yuan Phagspa (巴思巴/Pagspa) script, they might have felt the connection between national independence and a national script... According to recent research, it seems to have been academically perfected by modeling the structure of India's Devanagari (데바나가리), basing it on several Sanskrit letters, and adding unique study... That several vernacular letters were modeled on Sanskrit becomes clear at a glance when comparing vernacular ㅗ(o), ㅜ(u), ㅏ(a), ㅁ(m), ㅇ(ng/v) with Sanskrit ㅗ(o), *(u), ㅜ(a), *(m), *(*) ..." (Note 39). Later, he added, "In my opinion, the vernacular script (諺文) is based on Sanskrit and Mongolian scripts, with further special study added, and the creator was likely a Buddhist (佛徒). In Chosŏn, there is a book called 'Chinŏn Chip' (眞言集), a collection of Dharani (陀羅尼), written with Sanskrit, its Chinese character transliteration (漢字 音譯), and the vernacular script transliteration (諺文의 音譯) arranged in three lines. It seems the vernacular script was newly created as a convenient means (方便) for monks (僧侶) to easily show the pronunciation when learning Dharani spells (呪文). Religion and writing often have close relationships; Mongolian script and others were also created by monks. Furthermore, the fact that the vernacular script used Sanskrit and Mongolian script as material makes this opinion even more certain. Among the 28 vernacular letters, those representing vowels (母音) were mostly created modeled after Sanskrit, while among those representing consonants (子音), several were modeled after either Sanskrit or Mongolian script. Since Mongolian script was also fundamentally based on Sanskrit, it is acceptable to say that the vernacular script generally belongs to the Indic script family (印度系). However, the vernacular script is not merely an imitation of other scripts; it possesses a unique structure unparalleled among world scripts. It scientifically classifies speech sounds, and letters representing the same type of sound (同種類의 聲音) are developed sequentially from the same basic letter" (Note 42). This also recognizes the origin of Chŏngŭm (正音) in Mongolian and Sanskrit scripts. According to the History of Yuan (元史), Kublai Khan (元世祖) (1260-1294 AD), in the 2nd year of Zhongtong (中統) (1261 AD, 2nd year of King Wonjong of Koryŏ (高麗 元宗)), lamented the lack of a unique script for his country and had Phagspa (發思八) create the Mongolian script based on the Uyghur script (回鶻文字). The script had only about a thousand characters, with 41 letters in its alphabet, promulgated in the 6th year of Zhiyuan (至元) (1269 AD). The Yuan intended to use this new script in diplomatic documents with Koryŏ (高麗), but as stated, "First month... day Im Sul (壬戌), Yuan envoy came. The King received the edict at Sŏnŭi Gate (宣義門). The text used the newly established Mongolian script (新制蒙古字), but no one could read the characters (人無識字)" (Note 57). Due to its limited influence, the Uyghur script was commonly used. "The Princess, jealous of Consort Cho (趙妃) monopolizing favor, wrote in Uyghur script (畏吾兒字) and sent it via her attendants Laikuobuhua (瀨濶不花) and Kuokuo* (濶濶*) to the Yuan Empress Dowager. Uyghur (畏吾兒) is ancient Huihu (回鶻). The Yuan originally had no script; Phagspa (八思巴) first created the Mongolian script. Correspondence often used Uyghur script (演往來書多用畏吾兒字)" (Note 55). This not only proves the point but also offers a glimpse into the relationship between Uyghur and Mongolian scripts. The "Princess" in the cited text was a Yuan princess whom King Ch'ungsŏn (忠宣王) married when he was crown prince in Yuan during the 22nd year of King Ch'ungyŏl (忠烈王). Later, in the 24th year, the princess came to Koryŏ from Yuan, saw Consort Cho monopolizing <79> favor, became jealous, and sent a letter written in Uyghur script (畏吾兒字/回鶻字) to the Yuan Empress Dowager. Uyghur script is also called Wiujin (偉兀眞) (Note 58), and Mongolian script is called T'ieŏrwŏljin (帖兒月眞) (Note 59). However, as stated in Cho *'s * Mŏkchaebon (犟�墨鏑本), "The Mongolian script system (蒙古字法) is all a variation of Sanskrit Tianjia Lu (梵天伽盧), resembling Buddhist mantras (佛眞言)," since Mongolian script also has origins in Sanskrit, the main point of this theory is that even if Hunminjeongeum was modeled after Mongolian script, tracing it back sequentially leads ultimately to the Indic script family.
+
+Fifth, the Sŏl Ch'ong Creation Theory (薛聰 創作說).
+This theory, along with the Yohŭi Creation Theory and the Japanese Jindai Moji Origin Theory introduced below, was academically discredited long ago. There is no need to add further unnecessary remarks now, but I introduce it to show that such absurd theories existed and to alleviate confusion for first-time readers. Chŏn Pyŏnghun (全秉薰) wrote, "Sŏl Ch'ong (薛聰) said 'sound articulation (音節)' is the natural writing of heaven and earth (天地自然之文也). He thus created the national script (國文) of twenty-seven consonant and vowel letters (二十七字子母音), mutually usable, extending to tens of thousands of characters without end. This too was an ingenious divine insight (創智神見), a great virtue identical to Cangjie's (蒼頡) creation of writing. Yet, it is simple, easy to communicate, extremely convenient, incomparable to the separate script of Chinese characters (漢字別文)" (Note 60). He also stated, "Although the national script (國文) was first created by Master Sŏl (薛公), it reached perfection only after being corrected and supplemented by King Sejong (世宗)" (Note 60), thus proposing the Sŏl Ch'ong Creation Theory. However, as already mentioned (refer to the Idu section), Sŏl Ch'ong merely interpreted the Nine Classics (九經) using vernacular language, so even the claim of creating Idu is absurd; how much more absurd is the claim of creating Hunminjeongeum.
+
+Sixth, the Yohŭi Creation Theory (了義創作說).
+Pak Ŭnsik (朴殷植) asserted, "Our... script was created by the Silla monk Yohŭi (羅僧窈熙), but it failed to spread among the people and eventually fell out of use. In the 28th year of King Sejong the Great (世宗大王) of this dynasty... an office for the script (文局) was established. This was the first great opportunity for our... script's enlightenment. At that time, 28 letters (字母) were created by royal decree (御製), and Sŏng Sammun (成三問), Sin Sukchu (申叔舟), etc., were ordered to compile them, naming it Hunminjeongeum (訓民正音). Letters are formed by combining initial (初聲), medial (中聲), and final sounds (終聲). The letter style was patterned after ancient seal script and Sanskrit (字体倣古篆梵字爲之). It was divided into five sounds (五音): molar (牙), dental (舌), labial (唇), incisor (齒), guttural (喉). Labial sounds have light and heavy distinctions (輕重之殊); dental sounds have front and back distinctions (反正之別). Letter sounds also have differences: fully clear (全淸), half clear (半淸), fully turbid (全濁), half turbid (半濁), neither clear nor turbid (不淸不濁). It flawlessly records all language and things. Even the dullest person can understand it after one or two days of effort. Therefore, farmers, artisans, merchants, sellers, women – few do not understand the... script's sounds. Its use is extremely simple and widespread. Indeed, our... script (文), compared to Chinese characters (漢文), the difference in effort required cannot be measured in miles. Japan has a national script (國文), but cannot form sentences without borrowing Chinese characters (漢字). We, however, can form sentences using only the... script (文) without borrowing Chinese characters. How could its exquisite creation be like the Japanese script? Therefore, Western missionaries (西洋人傳敎) further developed our... script... only this one kind exists" (Note 61). Thus, he advocated the Yohŭi (窈熙 in the quote) Creation Theory. There is no need for further words to state that this claim is an utterly baseless, absurd theory. However, Kim T'aegyŏng (金澤榮) also wrote, "28th year, Byeongin (丙寅), the King, noting that all nations under heaven each created scripts to record their languages, while only our country lacked one, personally created the national script's 28 letters (國文字母二十八字). He established an office in the palace (開局禁中) and ordered Chŏng Inji (鄭麟趾), Sin Sukchu (申叔舟), Sŏng Sammun (成三問), Ch'oe Hang (崔恒), etc., to elaborate and compile it. At that time, the Ming (明) Hanlin scholar (翰林學士) Huang Zan (黃瓚) was exiled to Liaodong (遼束) but excelled in literature. The King sent Sammun and others to consult Zan about phonology and rhymes (音韻) thirteen times. Only then was it named Hunminjeongeum (訓民正音). Its script patterns after ancient seal script and Sanskrit (其文倣古篆及梵字). Eight final consonants (初終聲八字), eight initial consonants (初聲八字), eleven medial vowels (中聲十一字). The three sounds alternate and are used mutually. All languages and things that characters could not record became perfectly transcribable without impediment. The categories of five sounds (五音), clear and turbid (淸濁), light and heavy (輕重), level and oblique tones (平仄) were also prepared. Some say (惑曰) the national script (國文) already existed in our country's ancient times (本邦上世), transmitted and recorded by the Koryŏ monk Yohŭi (高麗僧了義), and the King elaborated and completed it (演成云)" (Note 62). Thus, he advocated the Ancient Creation, Yohŭi Transmission Theory. Note that the statement "The letter style was patterned after ancient seal script and Sanskrit (字體倣古篆及梵字爲之)" in both Pak and Kim's accounts aligns with Yi Chŏnghyŏng (李廷馨) and others in the Tonggwan Chapki (東關雜記), etc., supporting the idea that it was modeled after both ancient seal script and Sanskrit. Regarding their Yohŭi Creation Theory, the very act of making outlandish claims about the figure Yohŭi – sometimes calling him the Silla monk Yohŭi (新羅僧 窈熙), sometimes a Koryŏ monk (高麗僧) – reveals a fundamental error, making it hardly worth discussing. However, to save first-time readers from wasted effort, I will introduce Kwŏn Tŏkkyu's (權悳奎) refutation before moving on.
+"(Previous text omitted) The claim that Yohŭi (窈熙) was the creator of the Chosŏn script likely combines the story that Silla's Sŏl Ch'ong (薛聰) initiated Idu (吏讀) with the explanation of the alphabet (字母解說) at the end of the Hongwu Correct Rimes Alphabet Chart (洪武正韻 字母圖) in the preface of the Chinŏn Chip (眞言集), which mentions that the 'Hu monk' Yohŭi (胡僧 了義) first compiled the alphabet (字母). However, this too is based on hearsay, not on personally reading and consulting the postscript of the Great Ming Code (大明律 跋文), the mention of Sŏl Ch'ong in the preface of Hunminjeongeum, or the alphabet explanation in the Chinŏn Chip. If the author of the T'ongsa (痛史) [Pak Ŭnsik] had personally consulted these, he would not have mistaken Yohŭi (了義) for Yohŭi (窈熙) nor mistakenly identified Yohŭi (窈熙) as a Silla <80> person. Moreover, as clearly demonstrated in the article 'Chosŏn Script Before Chŏngŭm' in the inaugural issue of this magazine, the claim that Sŏl Ch'ong initiated Idu is itself baseless. Furthermore, the statement in the Hansa Kye Sejonggi (韓史棨世宗紀) [Kim T'aegyŏng's work] that the Chosŏn national script already existed from ancient times in this country, was recorded and transmitted by the Koryŏ monk Yohŭi (高麗僧 了義), and then elaborated and completed by the King – it is unclear what reference this is based on. This too likely repeats the error of the T'ongsa, which misinterpreted hearsay from the explanation at the end of the Hongwu Correct Rimes Alphabet Chart in the preface of the Chinŏn Chip: 'Alphabet (字母) means mother of characters (字的母). The Hu monk Yohŭi (胡僧 了義) first compiled 26 initials (母).' Let me briefly explain this alphabet explanation: Yohŭi (了義) was a person from the Northern Wei (北魏) period in China (支那), and 'Hu monk' clarifies he was not a Chinese monk (支那僧). There's nothing special to explain; until this time (Northern Wei), Chinese characters had meaning (字義) but no fixed pronunciation (定音), lacking distinctions of level, rising, departing, entering tones (平上去入) and clear/turbid sounds (淸濁). Based on the Siddham chapter (悉曇章), he first established the 36 initials (字母) of Chinese characters. These 36 initials have no relation whatsoever to the Chosŏn Correct Sounds (朝鮮 正音). However, the connection between Yohŭi (了義), the compiler of these 36 initials, and the Chosŏn script, even leading to him being named the creator of the Chosŏn script, arose because the preface of the Chinŏn Chip first presents the Hunminjeongeum – commonly called the vernacular script alphabet (俗所謂 諺文字母) – then displays the Hongwu Correct Rimes Alphabet (洪武正韻 字母), also illustrating the alphabet's sounds with Chŏngŭm examples. Following this, the alphabet explanation mentions that Yohŭi (了義) first compiled the 36 initials. People glanced at this without scrutiny, treated it as great erudition or some discovery, told others, and those who heard it also spread it without investigation, eventually leading to Yohŭi (了義) being phonetically shifted to Yohŭi (窈熙), and Yohŭi (窈熙) transforming into a Silla person. This confuses those who know and makes the ignorant even more so, raising concerns that its harmful effects might flow down to future generations. If we talk about the harm of [misinformation about] scripts, we realize its great harm in cases like this. Returning to the point, if their mistake was not due to the misunderstanding I explained, but was made knowingly, then it arose from a sense of embarrassment that their own country lacked an indigenous script in ancient times, or from discomfort that the origin of their national script was not ancient – truly stemming from patriotic thoughts (愛國) and antiquarian sentiment (好古). Needless to say, such writing itself has no value, nor is it something scholars should adopt. Therefore, it cannot be called writing born from narrow-minded patriotism or bizarre antiquarianism" (Note 63).
+This not only clearly points out the error but also goes a step further to clearly reveal the path by which the error occurred. <88>
+
+**Summary**
+
+This article by Kim Yunkyŏng examines various theories regarding the origin of the Korean alphabet, Hunminjeongeum. While acknowledging that its creators likely referenced other writing systems like Ancient Seal Script (Kojŏn), Sanskrit (Pŏmja), and Mongolian (Monggoja), the author emphasizes Chŏng Inji's statement that the alphabet "arose naturally" without a direct predecessor. The article systematically presents and critiques several major origin theories: 1) Ancient Seal Script, 2) Sanskrit, 3) Mongolian Script, 4) Combined Sanskrit and Mongolian Script, 5) Creation by Sŏl Ch'ong, and 6) Creation by a monk named Yohŭi (or transmission by him). Kim Yunkyŏng refutes the Sŏl Ch'ong and Yohŭi theories as baseless and critically evaluates the others, highlighting contradictions or lack of strong evidence, particularly regarding claims of direct imitation or borrowing, while acknowledging possible structural or phonetic influences.
+From the perspective of Korean colonial history, this article is significant as it reflects Korean intellectuals' efforts during the Japanese occupation (1932) to scientifically analyze and assert the unique and indigenous nature of their national script. By dissecting and often refuting theories suggesting heavy foreign derivation (especially from Chinese, Sanskrit, or Mongolian sources, sometimes proposed by Japanese scholars like Kanazawa), the author implicitly counters potential narratives diminishing Korean cultural originality and underscores the alphabet's scientific sophistication as a point of national pride. The detailed engagement with historical sources and different scholarly opinions demonstrates a rigorous academic approach to a cornerstone of Korean cultural identity under colonial rule.
+
+**Named Entities**
+
+鄭麟趾	정인지	Chŏng Inji
+朝鮮	조선	Chosŏn
+梵字	범자	Pŏmja (Sanskrit Script)
+蒙古字	몽고자	Monggoja (Mongolian Script)
+鄕札	향찰	Hyangch'al
+古篆	고전	Kojŏn (Ancient Seal Script)
+東國文獻備考	동국문헌비고	Tongguk Munhŏn Pigo
+李德懋	이덕무	Yi Tŏngmu
+雄亭	웅정	Ungjŏng
+께일 博士	게일 박사	Dr. Gale
+崔南善	최남선	Ch'oe Namsŏn
+安廓	안곽	An Kwak
+漢文	한문	Hanmun (Classical Chinese)
+漢字	한자	Hanja (Chinese Characters)
+崔萬里	최만리	Ch'oe Malli
+諺文	언문	Ŏnmun (Vernacular Script, referring to Hangeul)
+成俔	성현	Sŏng Hyŏn
+淸國	청국	Ch'ŏngguk (Qing China)
+李晬光	이수광	Yi Sugwang
+世宗	세종	Sejong
+伴信友	반 노부토모	Pan Nobutomo
+釋日本紀	석일본기	Shaku Nihongi
+日本紀私記	일본기사기	Nihongi Shiki
+慵齋叢話	용재총화	Yongjae Ch'onghwa
+吏讀	이두	Idu
+李朝	이조	Yi Cho (Yi Dynasty)
+境部	경부	Kyŏngbu
+連石積	연석적	Yŏn Sŏkchŏk
+天步	천보	Ch'ŏnbo (Tianbu era name)
+日本	일본	Ilbon (Japan)
+黑井治德	구로이 하루노리	Kuroi Harunori
+退耕	퇴경	T'oegyŏng (pen name of Kwŏn Sangno)
+權相老	권상로	Kwŏn Sangno
+假名	가명	Kamyŏng (Kana)
+渤海字	발해자	Parhaecha (Balhae Script)
+巴利文	파리문	P'arimun (Pali Script)
+緬甸字	면전자	Myŏnjŏnja (Burmese Script)
+暹羅字	섬라자	Sŏllamja (Siamese/Thai Script)
+錫蘭字	석란자	Sŏngnanja (Ceylonese/Sinhala Script)
+羅馬字	나마자	Namaja (Roman Script)
+아라비아字	아라비아자	Arabia-cha (Arabic Script)
+黃胤錫	황윤석	Hwang Yunsŏk
+李瀵	이분	Yi Pŏn
+蒼頡	창힐	Ch'anghil (Cangjie)
+元世祖	원세조	Wŏn Sejo (Kublai Khan)
+巴思八	파사팔	P'asap'al (Phagspa)
+中國	중국	Chungguk (China)
+明初	명초	Myŏngch'o (Early Ming Dynasty)
+成三問	성삼문	Sŏng Sammun
+申叔舟	신숙주	Sin Sukchu
+黃瓚	황찬	Hwang Ch'an
+遼東	요동	Yodong (Liaodong)
+元	원	Wŏn (Yuan Dynasty)
+高麗	고려	Koryŏ
+忠烈王	충렬왕	Ch'ungyŏl Wang
+畏吾兒字	외오아자	Oe'oaja (Uyghur Script)
+宋	송	Song (Song Dynasty)
+蒙古	몽고	Monggo (Mongols/Mongolia)
+唐	당	Tang (Tang Dynasty)
+高昌	고창	Koch'ang (Gaochang)
+甘州	감주	Kamju (Ganzhou)
+西域	서역	Sŏyŏk (Western Regions)
+五胡	오호	Oho (Five Barbarians)
+元魏	원위	Wŏn Wi (Northern Wei)
+泮村	반촌	P'an'ch'on
+濟州	제주	Cheju
+柳僖	유희	Yu Hŭi
+我東	아동	Adong (Our East, i.e., Korea)
+李能和	이능화	Yi Nŭnghwa
+西域僧	서역승	Sŏyŏksŭng (Monks from the Western Regions)
+洪武正韻	홍무정운	Hongmu Chŏngun (Hongwu Correct Rimes)
+佉樓	거루	Kŏru (Kharosthi Script)
+悉曇章	실담장	Siltamjang (Siddham Chapter)
+蒙古韻會	몽고운회	Monggo Unhoe (Mongolian Rimes)
+發思八	발사팔	Parsap'al (Phagspa)
+西藏	서장	Sŏjang (Tibet)
+舊韓宮中	구한궁중	Kuhan Kungjung (Old Korean Palace)
+蒙譯	몽역	Mongyŏk (Mongolian Translator/Translation)
+金澤庄三郞	가나자와 쇼자부로	Kanazawa Shōzaburō
+印度	인도	Indo (India)
+데바나가리	데바나가리	Devanagari
+眞言集	진언집	Chinŏn Chip (Dharani Collection)
+陀羅尼	다라니	Tarani (Dharani)
+漢字 音譯	한자 음역	Hanja ŭmyŏk (Hanja phonetic transcription)
+諺文의 音譯	언문의 음역	Ŏnmun-ŭi ŭmyŏk (Vernacular script phonetic transcription)
+元史	원사	Wŏn Sa (History of Yuan)
+中統	중통	Chungt'ong (Zhongtong era name)
+高麗 元宗	고려 원종	Koryŏ Wonjong
+回鶻文字	회골문자	Hoegol Munja (Uyghur Script)
+至元	지원	Chiwŏn (Zhiyuan era name)
+宣義門	선의문	Sŏnŭimun
+趙妃	조비	Cho Pi (Consort Cho)
+瀨濶不花	뇌활불화	Noehwalbulhwa (Laikuobuhua)
+濶濶*	활활*	Hwalhwal* (Kuokuo*)
+回鶻	회골	Hoegol (Huihu/Uyghur)
+偉兀眞	위올진	Wi'olchin (Uyghur Script name variant)
+帖兒月眞	첩아월진	Ch'ŏb'awŏljin (Mongolian Script name variant)
+梵天伽盧	범천가로	Pŏmch'ŏn Kallo (Brahmi/Kharosthi related term)
+薛聰	설총	Sŏl Ch'ong
+全秉薰	전병훈	Chŏn Pyŏnghun
+九經	구경	Kugyŏng (Nine Classics)
+了義	요의	Yohŭi (Liaoyi)
+朴殷植	박은식	Pak Ŭnsik
+羅僧窈熙	나승요희	Nasŭng Yohŭi (Silla Monk Yohŭi - name error in source)
+世宗大王	세종대왕	Sejong Taewang (King Sejong the Great)
+西洋人	서양인	Sŏyang'in (Westerner)
+金澤榮	김택영	Kim T'aegyŏng (Seems different from Kanazawa Shōzaburō)
+崔恒	최항	Ch'oe Hang
+李廷馨	이정형	Yi Chŏnghyŏng
+東關雜記	동관잡기	Tonggwan Chapki (likely 東閣雜記 Tonggak Chapki)
+高麗僧	고려승	Koryŏsŭng (Koryŏ Monk)
+權悳奎	권덕규	Kwŏn Tŏkkyu
+大明律 跋文	대명률 발문	Taemyŏngnyul Palmun (Postscript to the Great Ming Code)
+胡僧	호승	Hosŭng ('Barbarian'/Foreign Monk)
+痛史	통사	T'ongsa (Painful History - book by Pak Ŭnsik)
+韓史棨	한사계	Hansa Kye (book by Kim T'aegyŏng)
+支那	지나	China (China - older term)
+北魏	북위	Puk Wi (Northern Wei)
+朝鮮 正音	조선 정음	Chosŏn Chŏngŭm (Chosŏn Correct Sounds = Hangeul)
+
+**Glossary**
+
+訓民正音	훈민정음	Hunminjeongeum (Correct Sounds for Instructing the People; the Korean alphabet)
+起源論	기원론	Origin theory
+起源	기원	Origin
+系統的	계통적	Systematic
+象徵的	상징적	Symbolic
+發布	발포	Promulgation, announcement
+關係	관계	Relation, connection
+無所祖述	무소조술	Having no prior model to inherit from
+自然	자연	Nature; naturally
+모방하다	모방하다	To imitate, copy
+동서고금	동서고금	East and West, ancient and modern times; all times and places
+無論	무론	Of course, needless to say (Modern: 물론)
+苦心	고심	Hard effort, pains
+參考	참고	Reference, consultation
+문헌	문헌	Literature, documents
+조직	조직	Structure, organization, system
+밀우어 보다	밀어 보다	To infer, deduce (older form of 미루어 보다)
+結局	결국	Ultimately, in the end
+一端	일단	One aspect, a part
+지나지 않다	지나지 않다	To be nothing more than
+지나지 않는 것	지나지 않는 것	Something that is nothing more than
+아무리	아무리	No matter how
+古篆	고전	Ancient seal script (a style of Chinese calligraphy)
+뿐 아니라	뿐 아니라	Not only... but also
+비슷함	비슷함	Similarity
+잇으며	있으며	And there is/are (older spelling of 있으며)
+잇습니다	있습니다	There is/are (older spelling of 있습니다)
+본받다	본받다	To emulate, model after, imitate
+증거하다	증거하다	To prove, testify
+古來	고래	Since ancient times
+內外	내외	Internal and external; domestic and foreign
+學者	학자	Scholar
+맘대로	맘대로	As one pleases, arbitrarily (Modern: 마음대로)
+一家見	일가견	One's own opinion or theory
+주창하다	주창하다	To advocate, propose
+들어 보다	들어 보다	To list, enumerate; to listen
+序文	서문	Preface, introduction
+의하다	의하다	To be based on, according to
+從來	종래	Traditionally, conventionally
+보통	보통	Usually, commonly
+유행되다	유행되다	To be prevalent, widespread
+加擔하다	가담하다	To support, participate in
+이외다	이외다	(Archaic copula) is/are
+뜻	뜻	Meaning, intention
+관계 잇도록	관계 있도록	So as to be related (older spelling)
+尊崇하다	존숭하다	To revere, respect highly
+암시하다	암시하다	To imply, suggest
+불과하다	불과하다	To be merely, only
+문구	문구	Phrase, wording
+참으로	참으로	Truly, really
+模倣하다	모방하다	To imitate, model after
+古代	고대	Ancient times
+모순	모순	Contradiction
+사실	사실	Fact, truth
+설명되다	설명되다	To be explained
+보겟습니다	보겠습니다	Will see, will regard (older spelling)
+의문	의문	Doubt, question
+가지게 되다	가지게 되다	To come to have
+구조상	구조상	Structurally, from a structural point of view
+이유	이유	Reason
+뿐 아니라	뿐 아니라	Not only... but also
+制字	제자	Letter creation
+巧	교	Ingenuity, skillfulness
+容算	용산	Imperial calculation/consideration (referring to the King's involvement)
+전후	전후	Before and after; context
+혼동하다	혼동하다	To confuse, mix up
+같아 보이다	같아 보이다	To seem like, appear to be
+이름	이름	(Here) Referring to
+별문제	별문제	Separate issue
+의지하다	의지하다	To rely on, depend on
+근거없다	근거없다	To be groundless, unfounded
+하겟읍니다	하겠습니다	Will do/say (older spelling)
+대체	대체	General, overall
+의미	의미	Meaning
+贊同하다	찬동하다	To agree with, approve
+고로	고로	Therefore (older form of 그러므로)
+찬성하다	찬성하다	To agree, approve
+고유	고유	Unique, inherent
+組立	조립	Assembly, organization
+夸張的	과장적	Exaggerated
+學的	학적	Scholarly, academic
+단언하다	단언하다	To assert, declare flatly
+이만치	이만치	To this extent (older form)
+넘우	너무	Too, excessively (older spelling)
+보이지 아니하다	보이지 아니하다	Does not seem/appear
+어찌하엿거나	어찌하였거나	In any case, anyway (older spelling)
+다수	다수	Majority, large number
+유력하다	유력하다	To be influential, powerful
+학설	학설	Theory, doctrine
+고증	고증	Historical investigation, verification
+字形	자형	Letter shape
+排列	배열	Arrangement, order
+順序	순서	Order, sequence
+脫化하다	탈화하다	To evolve from, transform from
+역설하다	역설하다	To emphasize, argue forcefully
+凡	범	All, every
+莫不	막불	None that does not
+稱	칭	To call, name
+始	시	Beginning; first time
+未始有	미시유	Never before existed
+遺敎	유교	Bequeathed teachings
+四聲	사성	Four tones (of Chinese pronunciation)
+韻	운	Rhyme, rime
+分	분	To divide
+七音	칠음	Seven sounds (categories of consonants)
+母字	모자	Initial consonant letter ('mother letter')
+苛	가	(Likely a typo for 何) What, any
+遺	유	To leave behind, omit
+以形爲主	이형위주	To take shape as primary
+以手傳	이수전	To transmit by hand
+以目視	이목시	To see by eye
+以聲爲主	이성위주	To take sound as primary
+以口傳	이구전	To transmit by mouth
+以耳聽	이이청	To hear by ear
+何能	하능	How can...?
+泯	민	To be destroyed, perish
+推例	추례	To infer by analogy
+通行	통행	To circulate, be in common use
+設局	설국	To establish an office/bureau
+禁中	금중	Within the forbidden palace
+撰定	찬정	To compile and finalize
+時	시	Time, at that time
+皇朝	황조	Imperial court
+學士	학사	Scholar, academician
+罪	죄	Crime, offense
+謪	적	To be exiled
+往質	왕질	To go and consult/question
+往返	왕반	Round trip
+臆之	억지	To conjecture, guess (Classical Chinese)
+絶異	절이	Completely different
+何與焉	하여언	What involvement/contribution was there? (Classical Chinese)
+纔	재	Only, merely
+混	혼	To be obscured, confused
+外此	외차	Other than this
+按	안	According to, based on (introducing a source)
+妬	투	To be jealous
+寵	총	Favor, affection
+達于	달우	To reach, send to (Classical Chinese)
+曉	효	To understand, know
+史云	사운	History says...
+降於	강어	To surrender to
+居	거	To reside in
+奉	봉	To follow, believe in (religion)
+旣云	기운	Since it is said...
+則	즉	Then, in that case
+非此而何	비차이하	If not this, then what else? (Classical Chinese)
+不過	불과	Merely, only
+形別	형별	Difference in shape
+意同	의동	Same in concept/meaning
+半者過	반자과	More than half
+唇舌喉齒	순설후치	Labial, dental, guttural, incisor (sounds)
+開口	개구	Open mouth (sound)
+淸濁	청탁	Clear and turbid (voiced/unvoiced consonants)
+隨日異聲	수일이성	Sounds change daily
+何故	하고	Why, for what reason
+或有或無	혹유혹무	Sometimes present, sometimes absent
+反切	반절	Fanqie system (using two characters to indicate pronunciation); refers here to Hangeul spelling system
+母	모	Initial consonant ('mother')
+切	절	Final sound ('rime')
+條	조	Item, category
+入聲	입성	Entering tone
+舌帖上齶	설첩상악	Tongue touches upper palate
+亦	역	Also
+所謂	소위	So-called
+韻	운	Rhyme category
+同切	동절	Same final/rime
+不可曉	불가효	Incomprehensible
+歷	력	To pass through (time)
+華音	화음	Chinese pronunciation
+盡變	진변	Completely changed
+北方	북방	Northern region
+然者耶	연자야	Is it the case that...? (Classical Chinese interrogative)
+我俗	아속	Our customs/common ways
+四邊	사변	Four borders/regions
+都中	도중	In the capital city
+相類	상류	Similar to each other
+爲驗	위험	To serve as proof
+無音不備	무음불비	No sound is not prepared/included
+則	즉	Then
+以下	이하	Below, following
+恐	공	Perhaps, likely
+別無	별무	There is no other
+餘意	여의	Remaining influence/intent
+後出益工	후출익공	Later creations are increasingly skillful
+但	단	However, but
+全沒	전몰	Completely lacking
+意義	의의	Meaning, significance
+惟以	유이	Only by means of
+點	점	Dot
+爲別	위별	To serve as distinction
+舌端	설단	Tip of the tongue
+正音	정음	Correct sound(s); also refers to Hunminjeongeum
+舌右傍	설우방	Right side of the tongue
+偏音	편음	Deviant/lateral sound
+初	초	Beginning, initial
+凡例	범례	General principles, introductory remarks
+可考	가고	Ascertainable, verifiable
+雖創於	수창어	Although created in/by...
+成於	성어	Perfected/completed in/by...
+綜合	종합	To synthesize, combine
+以上	이상	Above(-mentioned)
+諸條	제조	Various points/items
+觀之	관지	Observing it (Classical Chinese)
+次第	차제	Process, sequence, order
+字体	자체	Letter style, font (Modern: 자체)
+不無	불무	Not without, there are some
+類似	유사	Similar
+雖然	수연	Although, however
+紐關	뉴관	Linkage, connection
+合畫	합화	Combining strokes
+諧聲	해성	Matching sounds
+規	규	Rule, regulation
+非復	비복	Not again, no longer
+酷	혹	Severe, extreme; (here) close, strong (resemblance)
+儒者	유자	Confucian scholar
+諱言	휘언	To avoid mentioning (a taboo subject)
+故	고	Therefore
+後世	후세	Later generations
+實事	실사	True facts, reality
+漸露	점로	Gradually revealed
+卽如	즉여	For instance, such as
+云	운	To say (Classical Chinese quotation marker)
+模糊	모호	Ambiguous, vague
+若是	약시	Like this, so
+較	교	Compared to
+昔	석	Past, previous
+己	기	Already (likely typo for 已)
+至於	지어	As for, regarding
+無餘	무여	Without remainder, completely
+不審	불심	Ill-considered, not carefully examined
+說	설	Saying, theory, explanation
+引	인	To cite, quote
+相類似	상유사	Mutually similar
+例	례	Example
+音聲	음성	Pronunciation, speech sound
+源出	원출	To originate from
+天地	천지	Heaven and Earth; the universe; basic principles
+按	안	According to
+發音	발음	Pronunciation
+法	법	Method, law, system
+皆	개	All, entirely
+質問	질문	To question, consult
+端緖	단서	Clue, beginning
+所謂	소위	So-called
+卽亦	즉역	Is also
+製於	제어	Made by/in
+國師	국사	State Preceptor (high-ranking Buddhist monk title)
+喇嘛僧	라마승	Lama monk
+依	의	According to, based on
+頒行	반행	To promulgate, distribute officially
+天下	천하	Under Heaven; the realm, the world
+功	공	Merit, service
+末季	말계	End period
+世世	세세	Generation after generation
+娶	취	To take a wife, marry (for men)
+后	후	Queen, empress
+語	어	Language
+用于	용우	Used in/at
+御用	어용	For imperial/royal use
+飯膳	반선	Meal (honorific)
+樂工	악공	Musician
+俗音	속음	Common pronunciation
+讀	독	To read; pronounced as
+流傳	유전	To be transmitted, passed down
+所以	소이	Therefore, for this reason
+初葉	초엽	Early period
+尙	상	Still, yet
+置	치	To establish, appoint
+善	선	To be good at, skilled in
+想見	상견	To imagine, visualize
+當時	당시	At that time
+須	수	To need, require
+脫体	탈체	Derivation of form (Modern: 탈태)
+思	사	To think, infer
+國家	국가	Nation, state
+獨立	독립	Independence
+關係	관계	Relationship, connection
+最近	최근	Recent
+研究	연구	Research, study
+數個	수개	Several
+基礎	기초	Foundation, basis
+獨特	독특	Unique, distinct
+工夫	공부	Study, effort, work
+加	가	To add
+學術的	학술적	Academically, scholarly
+完成	완성	To complete, perfect
+對照	대조	To compare, contrast
+一目瞭然	일목요연	Clear at a glance
+意見	의견	Opinion, view
+佛徒	불도	Buddhist believer
+方便	방편	Expedient means, skillful device (Buddhist term)
+呪文	주문	Incantation, spell, mantra
+容易	용이	Easy, simple
+보이다	보이다	To show
+確實	확실	Certain, sure
+材料	재료	Material, data
+數字	수자	Several numbers; (here likely) several characters
+或	혹	Or; perhaps
+根本	근본	Root, basis, fundamentally
+屬	속	To belong to
+特種	특종	Special kind, unique type
+構造	구조	Structure
+分類	분류	To classify
+同種類	동종류	Same kind/type
+聲音	성음	Speech sound
+同一	동일	Same, identical
+順次	순차	Sequentially, in order
+發達	발달	To develop
+政	정	(Likely typo for 正) Correct
+乃至	내지	And even, or even; leading to
+廢	폐	To abolish, discard
+不行	불행	Not practiced, not in use
+本朝	본조	This dynasty (referring to the Chosŏn dynasty)
+御製	어제	Composed by the Emperor/King
+字母	자모	Alphabet letters ('mother letters')
+合	합	To combine
+初聲	초성	Initial sound (consonant)
+中聲	중성	Medial sound (vowel)
+終聲	종성	Final sound (consonant)
+五音	오음	Five sounds (categories based on articulation point)
+牙舌唇齒喉	아설순치후	Molar, dental, labial, incisor, guttural
+輕重	경중	Light and heavy (distinction in some sounds)
+殊	수	Distinction, difference
+反正	반정	Front and back (distinction in dental sounds)
+別	별	Distinction, difference
+字音	자음	Letter sound; pronunciation
+全淸	전청	Fully clear (aspirated voiceless consonant)
+半淸	반청	Half clear (unaspirated voiceless consonant)
+全濁	전탁	Fully turbid (voiced consonant)
+半濁	반탁	Half turbid (tense consonant)
+不淸不濁	불청불탁	Neither clear nor turbid (nasals, liquids)
+差	차	Difference
+記事物	기사물	To record language and things
+曲當	곡당	Perfectly fitting, appropriate
+鈍	둔	Dull, slow-witted
+費	비	To spend (time, effort)
+曉得	효득	To understand, comprehend
+故	고	Therefore
+凡	범	All, generally
+農工商賣	농공상매	Farmers, artisans, merchants, sellers
+婦人女子	부인여자	Womenfolk
+鮮有不解	선유불해	Few do not understand
+爲用	위용	Its use
+至簡	지간	Extremely simple
+普遍	보편	Universal, widespread
+盖	개	Indeed, truly (Classical Chinese particle)
+較諸	교제	Compared to
+道里計	도리계	To measure in li (miles); i.e., comparable
+不假	불가	Without borrowing/relying on
+單用	단용	Using only
+成章	성장	To form sentences/writing
+製作	제작	Creation, production
+精妙	정묘	Exquisite, ingenious
+豈...哉	기...재	How could it be...? (Rhetorical question)
+是以	시이	Therefore, for this reason
+益	익	Increasingly, more
+發揮	발휘	To display, exhibit, develop
+惟此一種己耳	유차일종기이	Only this one kind exists (Classical Chinese ending)
+演撰	연찬	To elaborate and compile
+或曰	혹왈	Some say...
+上世	상세	Ancient times, antiquity
+傳	전	To transmit, pass down
+演成	연성	To elaborate and complete
+所說	소설	What is said, statement
+等	등	Etc., and others
+誤錯	오착	Error, mistake
+표시하다	표시하다	To indicate, show
+가히	가히	Worthwhile to; can (older form)
+거론하다	거론하다	To discuss, mention
+허ㅅ수고	헛수고	Wasted effort (older spelling of 헛수고)
+덜어주다	덜어주다	To lessen, alleviate for someone
+변증	변증	Refutation, counter-argument
+소개하다	소개하다	To introduce
+지나가다	지나가다	To pass by, move on
+창조자	창조자	Creator
+始作하다	시작하다	To begin, start
+卷首	권수	Beginning of a scroll/volume
+解說	해설	Explanation, commentary
+始撰	시찬	To compile for the first time
+합하다	합하다	To combine, put together
+전설	전설	Legend, tradition
+聽取하다	청취하다	To listen to, hear
+跋文	발문	Postscript
+몸소	몸소	Personally, in person
+참고하다	참고하다	To consult, refer to
+誤著	오저	To write incorrectly, miswrite
+錯認하다	착인하다	To misidentify, mistake
+본지	본지	This magazine
+창간호	창간호	Inaugural issue
+제하	제하	Under the title of
+明證하다	명증하다	To clearly prove
+바	바	Thing, fact, point
+참고한 것인지	참고한 것인지	Whether it was referenced...
+잘못	잘못	Mistake, error
+蹈襲하다	도습하다	To follow blindly, plagiarize
+조곰	조금	A little (older spelling)
+설명하건대	설명하건대	To explain... (connective form)
+밝히다	밝히다	To clarify, make clear
+특별히	특별히	Specially, particularly
+定音	정음	Fixed pronunciation
+平上去入	평상거입	Level, rising, departing, entering tones (four tones)
+별	별	Distinction
+이때	이때	This time
+한자	한자	Chinese character
+아무 관련이	아무 관련이	Any relation/connection
+심지어	심지어	Even, going so far as to
+잇게 되다	있게 되다	To come to exist/have (older spelling)
+곳	곧	Namely, that is (older spelling)
+揭하다	게하다	To post, display
+도시하다	도시하다	To illustrate, show diagrammatically
+역시	역시	Also, likewise
+예시하다	예시하다	To illustrate with examples
+붊�일 쌔	붙일 새	When attaching/adding (older form, likely 붙일 때에)
+눈껼에 보다	눈결에 보다	To glance at, see in passing
+따지다	따지다	To scrutinize, question closely
+博覽	박람	Extensive knowledge, erudition
+발견	발견	Discovery
+대하다	대하다	To face, speak to
+좇아	좇아	Following (older form of 좇아/따라)
+살핌	살핌	Scrutiny, examination
+입을 걸르어	입을 걸러	Filtering through the mouth; i.e., repeating without thinking
+맞힘내	마침내	Finally, eventually (older spelling)
+음전하다	음전하다	To be phonetically shifted/corrupted
+화하다	화하다	To transform into
+알는 이	아는 이	Those who know (older spelling)
+어지럽다	어지럽다	To be dizzy, confused
+모르는 이	모르는 이	Those who do not know
+무식하다	무식하다	To be ignorant
+폐해	폐해	Harmful effect, evil
+장차	장차	In the future
+후생	후생	Future generations
+흐르다	흐르다	To flow, spread
+걱정	걱정	Worry, concern
+일어나게 하다	일어나게 하다	To cause to arise
+깨달을 것이다	깨달을 것이다	Will realize
+돌리다	돌리다	To turn
+짐짓	짐짓	Knowingly, intentionally
+부끌이다	부끄러워하다	To be ashamed/embarrassed (older form)
+오라지 아니하다	오래지 아니하다	Not long, not ancient (older form of 오래지 않다)
+거리끼다	거리끼다	To feel uncomfortable about, hesitate over
+애국	애국	Patriotism
+好古	호고	Antiquarianism, love of antiquity
+마음	마음	Mind, heart, feeling
+일어난 것	일어난 것	Something that arose from
+그야말로	그야말로	Truly, indeed, the very
+자체	자체	Itself
+값	값	Value, worth
+취할 바	취할 바	Something to be adopted/accepted
+이러함으로	이러함으로	Therefore (older form)
+편협하다	편협하다	To be narrow-minded
+奇怪하다	기괴하다	To be strange, bizarre
+나아오다	나아오다	To come forth from (older form of 나아오다)
+
+
+---------------------------
+
+
+잡지명	동광 제33호
+발행일	1932년 05월 01일
+기사제목	訓民正音의 起源論, 朝鮮文字의 歷史的 考察(11)
+필자	金允經
+기사형태	논설
+
+訓民正音의 起源論, 朝鮮文字의 歷史的 考察
+						金允經
+6. 系統的, 象徵的 起源 諸說
+訓民正音 發布에 대하여 관계가 깊은 鄭麟趾 자신이 「正音之作, 無所祖述而成於自然」이라 함과 같이 訓民正音은 다른 문자를 모방한 것은 아닙니다. 이는 동서고금의 어느 문자와 비교할찌라도 訓民正音과 동일한 것은 없음을 보아도 명백합니다. 無論 전에도 말함과 같이 訓民正音을 苦心 연구함에 당하여 각국의 문자라던지 在來의 문자를 두로 참고하엿다는 것은 문헌에 나타나므로 보던지 그 과학적 조직으로 밀우어 보던지 명백합니다. 鄭麟趾가「象形而字倣古篆」이라 한 것도 결국 이 참고의 一端을 이름에 지나지 않는 것입니다. 아무리 「字倣古篆」이라 하엿을찌라도 古篆과 같지 아니할 뿐 아니라 梵字와 비슷함이 잇으며 또 그러하면 梵字를 본받아 만들엇는가 하고 생각하면 또한 蒙古字와 비슷함이 잇으며 또 그러하면 蒙古字를 본받아 만들은 것인가 하고 생각하면 또한 「似梵書連布」라고 한 鄕札 즉 고대문자와 비슷함이 잇습니다. 이같이 여러 문자와 비슷하다는 것은 결국 아느 한가지만 본받은 것이 아니라는 것을 증거하는 것입니다. 그러하나 古來로 內外의 많은 學者는 이 때문에 각각 맘대로 一家見의 起源說을 주창하엿읍니다. 다음에 그 중요한 것을 들어 보려고 합니다.
+
+제 1. 古篆起源說
+이것은 鄭麟趾의 序文 중의 「字倣古篆」에 의한 것으로서 從來＜76＞ 가장 보통으로 유행되던 것입니다. 東國文獻佛考 著者(주 27), 雄亭 李德懋(주 46), 께일 博士(주 47)같은 이들은다 여기에 加擔한 이외다. 그러하나 이에 대하여 崔南善氏는「古篆에 본받앗다는 뜻이 아니고 古篆과 비슷하다는 뜻이라」(주 48)하엿고 安廓氏는「漢文과 관계 잇도록 만들은 것인즉 한문과 같이 尊崇하다 암시함에 불과하는 문구요 참으로 漢字를 模倣하엿다는 것은 아니라」(주 49)하엿고 「字倣古篆」이란 말을 낸 鄭麟趾 자신도 「正音之作, 無所祖述」이라 하엿고 崔南理들(訓民正音 發布 반대자)도 「儻曰諺文背本古字, 非新字也則, 字形雖倣古之篆文, 川音合字, 盡反於古, 實無所據」(주 24)라 하엿습니다. 그러하나 이 「古字」혹은「古篆」이란 말은 古代 朝鮮의 어떠한 문자를 이름이라고 보면 前後 모순이 없이 사실이 설명되리라고 보겟습니다
+
+제 2. 梵字起源說.
+古篆起源說에 의문을 가지게 되고 또 그 구조상으로 보아 梵字起源說을 주창하게 되엇습니다. 成俔은 「其字體依梵字爲之, 本國及淸國語音文字所不能記者, 悉通無礙」(주 25)라 하엿고 李晬光은 「我國諺書字樣全倣梵字, 始於世宗朝, 設局撰出, 而制字之巧, 實自容算云, 夫諺書出, 而萬方語音無不可通者, 所謂非聖人不能也」(주 23)라 함이 그것이외다. 그러하나 成俔의 말에는 그 그러한 이유를 말함이 없고 또 李晬光의 말에는 이유가 없을 뿐 아니라 「全倣梵字」라고 하면서 「制字之巧, 實自容算云」이라고 한 것은 전후가 모순되는 것입니다. 또 伴信友는「私記(釋日本紀에 日本紀私記를 인용하여「師說此書在 圖書寮, 但其字體頗似梵字, 未 詳字義所准據」라고 함)에 其字頗似梵字, 未詳字義所准據라고 하엿지마는 저 叢話(慵齋叢話를 이름)에 諺文을 依梵字爲之라고 함에 대하여 우에서 말함과 같이 吏讀는 원래 梵字에 본받아 만들엇을 것인데 石積들이 만든 新字도 吏讀에 본받앗다 하면 이것도 자연 梵字와 같을 것이라...」(주 50)하엿으나 이것은 삼국초기 이래 사용하여 온 吏讀와 李朝 世宗 28년에 된 「諺文」(訓民正音)을 혼동하는 말 같아 보입니다. 慵齋叢話(成俔의)에 「依梵字爲之」라 함은 훈민정음을 이름이요 이두를 이름이 아닙니다. 「命境部連石積等, 更肇俾新字一部四十四卷」(주 51)이라 한 天步 11년(서기 683)에 되엇다는 「新字」(그 유무는 별문제로 하고)가 이두에 의지하여 만들엇다는 것과 훈민정음이 梵字에 의지하여 만들엇다는 것과는 시간 顚倒의 무관계한 사실일 뿐더러 이두 그것이 梵字에 의지하여 만들엇다고 하는 것은 아주 근거없는 말이라 하겟읍니다. 그러하나 그 말의 대체의 의미에서 朝鮮文 字는 梵字에 의지하여 만들엇다는 말에 贊同하여서 朝鮮文字에 의지하여 만들은 日本文字도 梵字와 비슷하다고 이르는 말인 고로 伴信友도 成俔의 梵字起源說을 찬성한 한 사람이라고 보겟읍니다. 또 黑井治德도 「字形考案은 朝鮮 고유의 것이나 組立法은 梵字組立法을 모방한 것이라」
+(주 52)하엿읍니다. 또 退耕(權相老氏)도 梵字起源說을 주장하엿습니다. (주 53) 그러하나 氏는 漢字, 蒙古字, 訓民正音, 假名은 물론하고 渤海字, 巴利文, 緬甸字, 暹羅字, 錫蘭字, 羅馬字, 아라비아字들 즉 세계문자가 다 직접간접으로 梵字에 기인하엿다고 단언한 이만치 넘우 誇張的이니 學的 근거잇는 말로는 보이지 아니합니다. 또 黃胤錫도 「我訓民正音淵源, 大抵本此, 而終不出於梵字範圍矣」(주 54)라고 하엿습니다. 어찌하엿거나 이 기원설은 가장 다수학자가 가담하엿고 또 지금까지도 유력하게 주창하는 학설입니다. 그러하나 그것은 역사적 고증으로 보다 字形의 구조상 또는 排列의 順序上으로만 말하는 것입니다.
+
+제 3. 蒙古字 起源說.
+李瀵은 蒙古字에서 脫化하여 온 것이라고 역설하엿습니다.
+「我束諺字創於世宗朝丙寅, 凡有音者莫不有字, 人稱蒼籒以來未始有也,＜77＞ 元世祖時巴思八者得佛氏遺敎制蒙古字, 上平去入四聲之韻分, 唇舍喉齒牙半唇半齒之, 七音之母字, 苛有其音者, 一無所遺, 凡中國之字以形爲主, 故人以手傳而目視也, 蒙字以聲爲主故人以口傳而耳聽也, 然全無其形又何能傳而不泯, 今無以得見其詳, 若推例爲文字, 可以通行於天下, 後世與我之諺文同科, 意者明初必有其法也, 我國之始制也, 設局禁中, 命鄭麟趾成三問中叔舟等撰定, 時皇朝學士黃瓚罪謪遼東, 使三問等往質, 凡往返十三度云, 以意臆之, 今諺文與中國字絶異, 瓚何與焉, 是時元亡纔七十九年, 其事必有未混者, 瓚之所傳於我者, 外此更無其物也, 按高麗忠烈王時, 公主妬寵作畏吾兒字達于元, 欲人之不曉也, 史云回*書于愼行云, 宋嘉定三年畏吾兒國降於蒙古, 唐高昌也, 居甘州卽西域國名而奉佛敎者也, 巴思八所傳旣云佛敎, 而元世之通行則, 公主之所作, 字非此而何, 然則與今諺字不過形別而意同者與, 凡中國書有音而無字半者過, 凡唇舌喉齒開口淸濁隨日異聲, 何故或有或無, 今諺反切凡十四母, 其有母而無切亦四條, 所謂入聲也其舌帖上齶一條, 我國亦無字, 侵覃鹽咸四韻與眞文同切, 我所謂入聲中國無有, 只有兒二兩字, 其蕭爻尤三韻一字二音, 此不可曉也, 意者五胡以後歷元魏華音盡變, 北方之音有然者耶, 我俗四邊多濁聲, 都中泮村亦然, 北民移濟州, 故其音與相類, 可以爲驗西域之字無音不備, 則屋沃以下入聲十七韻外, 恐更別無其音, 而其得於瓚者如此, 然則巴思八之餘意又可想, 可謂後出益工, 但其字形全沒意義, 惟以一點二點爲別, 一點者皆出於舌端爲正音, 二點者皆出於舌, 右傍偏音也, 其初凡例今無可考」(주26,及 55)
+
+이같이 그는 成三問들이 遼東에 열 세 번이나 왕래하면서 黃瓚에게 배운 것이 漢字에 관한 것이 아니요 蒙古字에 관한 지식이엇다고 하엿습니다. 또 柳僖도 「諺文, 雖創於蒙古而成於我東」(주 33)이라 하엿습니다.
+
+제 4. 梵字와 蒙古字 起源說.
+李能和氏는 「漢文字母, 撰於西域僧手, 後爲我東諺文之初聲標準, 則明矣」라 하여 漢文의 韻學이 처음에 서역 중의 손으로 되엇고 그것이 나종 우리 훈민정음 초성의 표준이 되엇음을 말하고 또 氏는 梵字起源을 말하는 끝에 「綜合以上諸條觀之, 造諺次第不難知也, 但字体倣古篆云者, 大有疑義, 何以然也, 大小篆中, 不無一二類似諺字者, 雖然, 諺文反切紐關之法, 合畫諧聲之規, 非復如梵諺間關係之酷也類, 鄭麟趾崔萬里等所謂, 字倣古篆者, 以皆儒者故, 諱言梵字而曰古篆也, 故後世, 實事漸露, 卽如東閣雜記所云, 諺文字体倣古篆梵字者是指漢文古篆 及西域梵字兩事乎, 何模糊若是, 雖然, 較昔兩人, 己加一事矣, 至於文獻備考云, 芝峰類說云, 「我東諺書, 全倣梵書」而後 造字篆梵之眞相, 始露出無餘矣, 星湖先生 謂字形, 全沒意義, 惟以一點二點爲別云者, 亦不審之說也, 余今引悉曇章中, 梵字與我諺字, 其形與音, 相類似者數例-
+諺文之音聲, 倣於蒙古韻會, 諺文之字母, 倣於洪武正韻, 又聲古字變於佉樓, 漢字母肇自西域, 則或爲遠因, 或爲近因, 余故曰諺文字法源出梵天地」(주 56) 라 하고 또「按諺文發音之法, 皆倣蒙古韻含,質問黃纘者卽此也, 申叔舟洪武正韻序見其端緖矣, 又所謂諺文字体倣梵字爲之者 卽亦蒙古字也, 此蒙古字, 製於元世祖國師發思八, 發思八西藏喇嘛僧也, 依梵字製蒙古字, 頒行天下, 大有功於國,(중략) 高麗末季, 自忠烈王以後, 世世娶公主爲后, 以蒙古字與語, 用于宮中, 舊韓宮中, 御用之飯膳名曰水剌, 御用之樂工名曰卒花赤 俗音讀卒兒治 等皆蒙古語, 而卽自麗代, 流傳之宮中用語也, 所以朝鮮初葉, 尙置蒙譯, 又申叔舟善蒙古語, 卽此可以想見當時, 尙須蒙語而諺文字之脫体, 不難思也」(주 56)라 하여 훈민정음은 蒙古韻合에 의지하여 만들엇고 蒙古字는 發思八(巴思八)이＜78＞ 梵字에 의지하여 만들엇는 고로 우리글의 기원이 梵字와 蒙古字에 잇음을 말하엿읍니다. 또 金澤庄三郞 박사도 이 기원설에 가담한 사람입니다.「元의 巴思巴(Pagspa)문자들의 예에 좇아서 국가의 독립과 國字와의 관계도 느끼엇을지며...최근의 연구에 의지하면 印度의 데바나가리(Devanagari)의 조직을 본받아 수개의 梵字를 기초로 하고 여기에 독특한 공부를 더하여 학술적으로 완성한 것 같다... 諺文 중의 수개가 범자에 본받은 것임은 諺文의 ㅗ(o), ㅜ(u), ㅏ(a), ㅁ(m), ㅇ(v)와 梵字의 ㅗ(o), *(u), ㅜ(a), *(m), *(*)들을 대조하여 보면 일목요연할 것이다...」(주 39)하고 그 뒤 다시 그는 「나의 생각에는 諺文은 梵字와 蒙古字들에 기초하여 다시 특별한 공부를 더한 것으로서 작자는 아마 佛徒리러고 생각한다.
+朝鮮에 「眞言集」이라는 陀羅尼를 모아놓은 책이 잇는데 梵語와 그 漢字 音譯과 諺文의 音譯을 세줄로 벌이어 적은 것입니다. 諺文은 이같이 승려가 陀羅尼들의 呪文을 배울 때에 그 음을 용이히 보이게 하기 위하여 방편으로서 새로 만들어낸 듯이 생각됩니다. 종교와 문자와는 흔히 밀접한 관계가 잇어서 몽고문자 따위도 승려의 손으로 된 것입니다. 그 뿐 아니라 諺文이 梵文이며 蒙古字를 재료로 하게 된 것이라 함은 일층 이 의견을 확실하게 합니다. 諺文 28문자중 모음을 표하는 문자는 대개 梵字를 본받아 만들은 것으로서 자음을 표시하는 문자중의 數字는  혹은 梵字, 혹은 蒙古文字에 본받아 만들은 것입니다.
+蒙古文字도 또한 梵字를 근본으로 하여 만들은 것인 고로 諺文은 대체로 印度系의 문자에 속한다 하여도 좋습니다. 그러하나 諺文은 이러케 다른 문자를 모방하기만 한 것이 아니고 세계의 문자중에 類가 없는 특종의 구조를 가지엇습니다. 그것은 성음을 과학적으로 분류하여 同種類의 聲音을 표하는 문자는 동일한 기초문자에서 順次로 발달시킨 것입니다」(주 42)하엿읍니다. 이도 蒙古字와 梵字에 정음의 기원을 인정한 것입니다. 元(蒙古)史에 의지하면 元世祖(서기 1260-1294) 中統 2년(서기 1261, 高麗 元宗 2년)에 자국에 고유한 문자 없음을 한탄하여 發思八로 하여금 回鶻문자를 기초삼아 蒙古文字를 만들게 한 것입니다. 그 字가 겨우 천여며 그 字母는 41인데 至元 6년(서기 1269)에 발포한 것입니다. 元은 高麗와 國交 문서에도 이 새 문자를 사용하려고 하엿으나 「春正月... 壬戌, 元使來, 王迎詔于, 宣義門, 其文用新制蒙古字, 人無識字」(주 57)라 함과 같이 그 세력이 미약하엿기 때문에 보통으로는 回鶻문자가 사용되엇던 것입니다. 「公主妬趙妃專寵, 作畏吾兒字, 書付隨從瀨濶不花濶濶*二人, 如元, 達于皇太后, 畏吾兒古回鶻也, 元古無字, 八思巴始制蒙古字, 演往來書多用畏吾兒字」(주 55)라 함은 이를 증명하는 동시에 回鶻문자와 몽고문자와의 관계를 엿보게 합니다. 우의 使用文 중에 公主란 것은 元의 公主로서 忠烈王 22년에 忠宣王이 세자로서 元에 가아 잇을 때 그 공주에게 장가들엇던 바 그 뒤 24년에 公主가 元에서 高麗에 와서 趙妃가 사랑을＜79＞ 독점함을 보고 猜忌하여서 畏吾兒字(回鶻字)로 편지를 써서 元의 皇太后에게 보낸 것입니다. 회골문자는 偉兀眞(주 58) 蒙古字는 帖兒月眞(주 59)이라고도 합니다. 그러한데 趙*의 犟�墨鏑本에 「蒙古字法, 皆梵天伽盧之變也, 與佛眞言相類云云」함과 같이 蒙古字도 梵字에 기원이 잇는 고로 훈민정음이 비록 蒙古字에 본받앗다 할지라도 次第로 溯究하면 결국 印度系의 문자에 속하엿다는 것이 이 학설에 요점입니다.
+
+제 5. 薛聰 創作說.
+이것은 이하에 소개하려는 了義創作說 및 日本神代文字 起源說과 한가지로 이미 학계에서 청산된지 오란 것입니다. 이제 다시 蛇足을 더할 필요는 없으나 이러한 妄說도 잇엇다는 것을 소개하여 처음 읽는 이의 迷惑을 덜고저 합니다. 全秉薰은 「薛聰曰音節, 天地自然之文也, 遂創制國文二十七字子母音, 互相通用, 至千萬字而不窮, 亦一創智神見, 與蒼頡之造書, 同一盛德也, 然簡易易通極便捷, 非漢字別文比也」(주 60)라 하고 또 「國文雖創始於薛公, 至世宗校正而補益之, 乃克完善也」(주 60)라 하여 薛聰 創作說을 내엇습니다. 그러하나 전에 이미 말한대로(吏讀條叅照) 薛聰은 방언으로 九經을 해석하엿을 뿐임으로 史讀 創作 云云까지도 妄說이라 하거던 하물며 訓民正音 創作 云云은 큰 망설이라 하겟습니다.
+
+제 6. 了義創作說.
+朴은식은 「吾...文 羅僧窈熙創之, 而不得普及於世, 乃至廢而不行矣, 本朝世宗大王二十八年, ...文局設焉, 此吾...文明之弟一佳會也, 於時御製字母二十八字, 命成三問申叔舟等撰之, 名曰訓民正音, 合初聲中聲終聲三聲成字, 字體倣古篆梵字爲之, 分五音而別之曰, 牙舌唇齒喉, 而唇音有輕重之殊, 舌音所反正之別, 字音亦有全淸半淸全濁半濁不淸不濁之差, 凡記言語事物, 無不曲當, 雖至鈍之人, 費一兩日用功, 使能曉得, 故, 凡農工商賣婦人女子, 鮮有不解... 文音, 其爲用至簡而普遍矣, 盖我... 之...文, 較諸漢文, 用力之難易不可以道里計, 日本難有國文, 而不假漢字則不能成說, 我則不假漢字, 單用...文, 亦能成章, 其製作之精妙, 豈日文之哉, 是以, 西洋人傳敎, 益發揮我...文,(중략)惟此一種己耳」(주 61)라 하여 了義(引用文 중 이른바 窈熙) 創作說을 주창한엿읍니다. 이 말은 더군다나 아무 근거도 없는 妄說임은 두말 할 필요가 없는 것입니다. 그러하나 金澤榮도「丙寅二十八年, 王以天下諸國各製文字以記其國言語, 而獨本邦無之, 乃親製國文字母二十八字, 開局禁中, 命鄭麟趾申叔舟成三問崔恒等演撰之, 時, 明翰林學士黃瓚, 謪遼束而優施文學, 王乃今三問等, 往質音韻於瓚者, 十有三, 然後, 乃定名曰訓民正音, 其文倣古篆及梵字, 初終聲八字, 初聲八字, 中聲十一字三聲轉換互相爲用, 諸言語凡文字之所不能記者, 悉通無碍, 而五音淸濁輕重平仄之類, 亦備焉, 惑曰國文自本邦上世己有之, 高麗僧了義傳而記之, 至王演成云」(주 62)이라 하매 上世創作了義傳承說을 주창하엿읍니다. 그리고 朴, 金 兩氏의 所說 중 「字體倣古篆及梵字爲之」라 함은 東關雜記 등등 李廷馨과 한가지로 古篆과 梵字를 본받아 만들엇다는 말에도 찬동한 것임을 주의할 것입니다. 이들의 了義創作說은 爲先 了義란 인물에 대하여 혹은 新羅僧 窈熙 혹은 高麗僧이라는 얼토당토 않은 말을 냄부터 근본적 誤錯을 표시하는 것임으로 가히 거론할 필요가 없으나 그것을 처음 읽는 이의 허ㅅ수고를 덜어주기 위하여 權悳奎氏의 변증을 소개하여 두고 지나가려 합니다.
+「(前略) 窈熙가 朝鮮文의 창조자라 함은 新羅의 薛聰이 吏讀를 시작하엿다는 말과 眞言集 卷首의 洪武正韻 字母圖 끝의 字母解說 중에 胡僧 了義가 字母를 始撰하엿다는 말과를 합하여 이름일 것이나 이것도 전설을 聽取한 것이요 大明律 跋文이나 훈민정음 서문 중의 薛聰 云云과 眞言集 중 宇母解說을 몸소 읽어 참고한 것이 아니라 하노니 만일 痛史 著者가 친히 참고한 것이면 了義를 窈熙로 誤著하고 또한 窈熙가 新羅ㅅ＜80＞ 사람이라 錯認하지 아니하엿을 것이다. 더구나 薛聰이 吏讀를 시작하다는 것이 妄說임은 본지 창간호의 「正音 이전의 조선글」이란 제하에 明證한 바다. 또한 韓史棨世宗紀에 朝鮮의 국문이 本邦 上世로붙어 이미 잇엇는데 高麗僧 了義가 적어 전하여 왕에 이르어 演撰하여 완성하엿다. 함은 무엇을 참고한 것인지 이것도 또한 眞言集 卷首의 公武正韻 字母圖 끝에 자모라는 것은 자의 모를 위함이라. 胡僧 了義가 비롯오 26母를 撰하엿다 함은 傳聽으로 오인한 痛史의 잘못을 蹈襲한 것일찌니 이제 이 字母 해설을 조곰 설명하건대 了義는 支那 北魏 때ㅅ 사람으로 그 胡僧 운운은 支那僧이 아님을 밝힌 것이다. 특별히 설명할 것이 없고 漢字가 이때(北魏 때)까지 字義만 잇고 定音이 없이 平上去入과 淸濁의 별이 없는 것을 悉雲章에 의하여 비롯오 한자의 자모 36자를 정한 것이라. 이 36字母는 朝鮮 正音과에 아무 관련이 없는 것이다. 그런데 이 36字母撰者 了義가 朝鮮文과의 관계가 생기고 심지어 朝鮮文의 創制者라는 이름까지 잇게 된 것은 眞言集 卷首에 훈민정음 곳 俗所謂 諺文字母를 揭하고 그 다음에 洪武正韻 字母를 도시할 쌔 역시 자모의 음을 정음으로 예시한 후 자모 해설을 붊�일 쌔 36자모를 了義가 始撰하엿다. 한 것을 눈껼에 보아 따지기도 아니하고 이것을 큰 博覽이나 한 듯이 또는 무슨 발견이나 한 듯이 남을 대하면 이야기하고 이 이야기를 듣는 者 좇아 한 살핌이 없이 입을 걸르어 전하여 맞힘내는 了義가 窈熙로 음전하고 窈熙가 新羅人으로 화하여 알는 이로 하여금 눈이 어지럽게 하고 모르는 이로 하여금 더욱 무식하게 하여 그 폐해가 장차 후생에게까지 흐르지 아니할까 하는 걱정까지 일어나게 한다. 문자의 해를 이야기한다 하면 이러한 대에도 그 해의 큰 것을 깨달을 것이다. 다시 말을 돌리어 이들의 잘못이 나의 설명한 이러한 잘못에서 그리된 것이 아니요 만일 짐짓 알고도 잘못한 것이라 하면 이는 自國 古代에 고유한 國文이 없음을 부끌이는 생각으로 또는 自國 國文의 기원이 오라지 아니한 것을 거리끼는 생각으로 일어난 그야말로 애국의 생각 好古의 마음으로 일어난 것일찌니 이는 그 글 자체의 값이 없을 것은 말할 것도 없는 것이요 또한 학자의 취할 바도 아니다. 이러함으로 편협한 애국심, 奇怪한 好古心으로 나아온 문자라 할 수 없을 것이다」(주 63)
+이것은 그 그릇됨을 밝히 지적하엿을 뿐 아니라 한걸음 더 나아가야 그 그릇되게 된 경로까지를 밝히 보인 辯駁올씨다.＜88＞
+＜76-81＞

@@ -1,0 +1,43 @@
+Magazine Title: 동광 제2호
+Publication Date: 1926년 06월 01일
+Article Title: 野球 新製法 (New Method for Making Baseballs)
+Author:
+Article Type: 잡저 (Miscellaneous writing/column)
+
+Recently, it is said that an elderly woman (孃) in America (米國) invented a way to cover a baseball with a single piece of covering, reportedly having gotten the idea by applying the principle of a tangerine peel while peeling a tangerine. <16>
+
+**Summary**
+
+This short news brief reports on an American invention: a method for covering a baseball with a single piece of material, inspired by the shape of a tangerine peel. The inventor is described, somewhat unusually, as an "elderly young lady" (노령의 孃). From a historical perspective, the article reflects the growing awareness and adoption of Western culture, specifically baseball, in colonial Korea during the 1920s. It also shows interest in Western technological innovation, even in seemingly mundane areas like sports equipment manufacturing.
+
+**Named Entities**
+
+米國	미국	America
+
+**Glossary**
+
+米國	미국	America
+노령	노령	Old age
+孃	양	Young lady, miss (older term, here used somewhat unusually with '노령' - elderly)
+야구	야구	Baseball
+씨우는	씌우는	Covering (older spelling/form of 씌우다, to cover/put on)
+공	공	Ball
+껍데기	껍데기	Peel, skin, cover
+발명하엿다	발명하였다	Invented (older spelling/conjugation)
+귤	귤	Tangerine, mandarin orange
+까다가	까다가	While peeling
+응용하야	응용하여	By applying, through application (older spelling/conjugation)
+한다	한다	It is said, they say
+
+
+---------------------------
+
+
+잡지명	동광 제2호
+발행일	1926년 06월 01일
+기사제목	野球 新製法
+기사형태	잡저
+
+野球 新製法
+최근에 米國의 노령의 孃이 야구에 씨우는 공을 한 껍데기로 씨우게 발명하엿다는데 귤을 까다가 귤 껍데기를 응용하야 발명하엿다 한다.＜16＞
+＜16＞

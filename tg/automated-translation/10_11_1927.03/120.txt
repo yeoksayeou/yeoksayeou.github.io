@@ -1,0 +1,213 @@
+**잡지명**	동광 제11호
+**발행일**	1927년 03월 05일
+**기사제목**	幷書不可論, 한글토론(3) (Argument Against Byeongseo [Doubled Consonants], Hangeul Debate (3))
+**필자**	安自山 (An Chasan)
+**기사형태**	논설 (Editorial/Argumentative Essay)
+
+**幷書不可論, 한글토론** (Argument Against Byeongseo, Hangeul Debate)
+						**安自山** (An Chasan)
+
+(1) Gentlemen, your proposal to write the tense sounds (   ) using doubled identical letters (幷書), namely (ㄲ ㄸ ㅃ ㅉ), is based on two arguments: 1. Restoring the ancient form (古形), and 2. Adhering to phonetic principles (音理). However, I present three points demonstrating why this is unacceptable.
+
+(2) Firstly, the use of Byeongseo (doubled consonants) at the time of the creation of Eonmun (諺文) was fundamentally flawed. Although there are three reasons for the origin of 'ㅅ', now is not the time to explain them all. Whatever the case, the old method is the old method, and the current method is the current method, is it not? There is no need to obstinately preserve the old ways with Confucian thinking (儒敎思想). This is the first point to consider. Secondly, at the time of creation, it was an agreement among a small number of people, but once it spread and became public property (公有物), it was publicly established (公定) by the majority of the public (公衆) using 'ㅅ'. Therefore, Byeongseo is primitive, while using 'ㅅ' is evolutionary. Thirdly, even if something is publicly recognized and established (公認公定), if it is irregular, there is a need to organize (整理) it. However, since a consistent system (範疇) using 'ㅅ' has already been achieved, what need is there to revise it again or revert to the old ways (復古)?
+
+(3) Speaking in terms of phonetic principles (音理), it is not necessarily true that only the Byeongseo form (ㄲ) is acceptable. Why? Because when the 'ㅅ' sound is attached to any consonant, it becomes a tense sound: *satgat*... ㅅㄱ, *motttuk*... ㅅㄷ, *pitppal*... ㅅㅂ, *utjip*... ㅅㅈ.
+
+(5) If you think about it, just because a drum (鼓) is made of leather (革製), it doesn't mean it can only be intensely struck <42> with leather to produce a sharp sound (激發). Whether it's iron (銕), wood (木), or even stone (石), striking it intensely with anything will produce a sharp sound. This is a phonetic principle (音理上 原則). Likewise, for the five sounds ㄱ ㄷ ㅂ ㅅ ㅈ, attaching any sound strongly transforms them into tense sounds: *sonkarak*... combination of ㄴㄱ, *samdae*... combination of ㅁㄷ, *mukppat*... combination of ㄱㅂ, *chipsin*... combination of ㅂㅅ, *yŏljip*... combination of ㄹㅈ.
+
+(6) Just because anything can become tense when strongly attached doesn't mean we should write them combined in any way. Therefore, the public has already organized this and unified it with 'ㅅ'. So why this insistence that only Byeongseo aligns with phonetic principles?
+
+(7) Except for reed organs (風琴) or certain musical instruments (樂器), it is impossible to simultaneously produce two identical sounds. This is a fundamental phonetic principle. Therefore, Byeongseo is phonetically highly unacceptable.
+
+(9) I believe you gentlemen (諸氏) hold this misunderstanding because you think of the combination of ㅅ and ㄱ like 'th' or 'ph' in English. Originally, the tense nature (激發性) of the five sounds is distinctly different from the 3-character roots of Semitic languages or the 2-character roots of Arabic. Do you know this or not?
+
+(9) The five tense sounds (5激音) are sounds without value in terms of complete structural composition (構成). That is, they are not formed by an independent physiological process of pronunciation but are a way of adjusting (¸®調 - *kinjo*, firmly adjusting) a sound without aspiration (非氣帶). Therefore, when slightly emphasizing the meaning of a word, they are merely sounds that cause a forced tone (强迫調) to produce tenseness. *koch'angi*... *kkot'ch'angi*, *palka*... *ppalka*, *torang*... *ttorang*, *chulgi*... *tchulgi*.
+
+(10) Since it is already a sound made by adjustment (調), representing it with some kind of symbol (符號) is sufficient. Therefore, 'ㅅ' is a marker (表) for tense sounds, not a phonetic transcription (寫音的 表記). Thus, using 'ㅅ' is unifying, while Byeongseo can only be called scattered (散亂的).
+
+(11) Writing <43> is not just about transcribing sound (寫音); one must also consider beauty (美) to prevent the power of familiarity (親線의 勢力) from becoming tiresome (倦怠). Therefore, when writing identical characters consecutively, there are cases where they are represented by a colon-like mark (:) for ease of writing and beauty.
+
+(12) Writing with Byeongseo looks unpleasant and crude (엉성하고), is inconvenient to write, and evokes no aesthetic sense (美的 觀念). However, writing as    ㅆ  evokes a sense of attention to rules (注意法則) and balance (均齊), and visually conveys power (勢力), making its artistic value (藝術的 價値) vastly superior to Byeongseo.
+
+(13) Let's interpret it differently. The Byeongseo of ancient times referred to the voiced sounds (濁音) of Chinese characters. The Korean language originally has no voiced sounds but has tense sounds (激音). It is a huge mistake (大誤) to foolishly apply the voiced sound method (濁音法) to tense sounds. Therefore, even from the *Yongbiŏch'ŏn'ga* onwards, Byeongseo was rarely used. Later generations realized this and did not use the voiced Byeongseo; instead, they consistently stipulated the use of 'ㅅ' for tense sounds.
+
+**文典의 整理** (Organization of Grammar Books)
+
+(1) Currently, discussions regarding the study of the Korean language (朝鮮語 硏究問題) are tumultuous (擾擾), but organizing the grammatical case system (語格法) in grammar (文法) is needed first. Only when this is organized can dictionaries (辭典) be compiled, orthography (表記法) be unified, and teaching (敎授) be corrected, right?
+
+(2) There have been over 10 types of grammar books (文典) published so far. Listing them in order of publication gives the following (their contents are each scattered and disorganized):
+Yu Kil-chun (兪吉濬) - Tae Chosŏn Munjŏn (大朝鮮文典), Taehan Munjŏn (大韓文典)
+Ch'oe Kwang-ok (崔光玉) - Taehan Munjŏn <44>
+Kim Hŭi-sang (金熙詳) - Ch'odŭng Kugŏ Ŏjŏn (初等國語語典), Chosŏn Ŏjŏn (朝鮮語典)
+Chu Si-gyŏng (周時經) - Kugŏ Munjŏn Ŭmhalk (國語文典音學), Kugŏ Munpŏp (國語文法), Mal-ŭi Sori (말의 소리)
+Kim Tu-bong (金枓奉) - Chosŏn Malbon (조선말본)
+Yi Kyu-yŏng (李奎榮) - Hyŏn'gŭm Chosŏn Munjŏn (現今朝鮮文典)
+Kwŏn Tŏk-kyu (權悳奎) - Chosŏn Ŏmun Kyŏngwi (朝鮮語文經緯)
+Yi Kyu-bang (李奎昉) - Chosŏn Ŏpŏp (朝鮮語法)
+Yi P'il-su (李弼秀) - Chosŏn Chŏngŭm Munjŏn (朝鮮正音文典)
+Besides these, there seem to be 4 or 5 mimeographed versions.
+
+(3) Regarding teaching children, first Mr. Ch'oe Kwang-ok toured various regions giving instruction, and much later Mr. Chu Si-gyŏng gave some kind of lecture (講說). Mr. Yu Kil-chun's grammar book was published in Tokyo 40 years ago from now, so the primary contributors (首功) to Korean grammar study are Mr. Yu and Mr. Ch'oe. Mr. Chu is their successor (後進). Why Mr. Chu is being promoted (推戴), I don't know if this is also the illusion created by schemers (手段家), but I hope the public is not deceived.
+
+(4) All those various grammar books are each different and lack unity (統一). For starters, even word classification (單語 分類) is chaotically inconsistent, sometimes 7, sometimes 8, sometimes 9, sometimes 6 categories. Teaching in various schools is also like that. Grammar books are not something to be authored carelessly. First, studying Paul's principles of grammar (바울씨의 文法原理) would be advisable.
+
+(5) In grammar, the standard language (標準語) should be decided first. However, even within the standard language, there must be a standard. Using vulgar (卑言) or colloquial (俗言) words like (다귀 - *ppyŏdagwi*) or (늑다리 - *nŭktari*), as exemplified in (*Chosŏn Malbon*), is unacceptable.
+
+(6) Mr. Kwŏn Tŏk-kyu's statement in *Ŏmun Kyŏngwi* that (구실 - *kusil*) should be called (구슬 - *kusŭl*) to become standard is also something to think about. <45> If everyone says (구실 - *kusil*), then (구실 - *kusil*) becomes the standard. It is unacceptable to strictly rely on ancient words (古語) or one's own ideals.
+
+(7) Originally, the logic of grammar lies in the axioms (公理) of abstract facts of language usage (語法). For example, look at the rule for causative verbs (使動詞). *an-gi-da*, *kal-gŏ-da* (likely *karida* - replace? or a typo? Translating contextually as related to causatives/passives), *chŏp-hi-da*, *mŏg-i-da*, *nŏm-gi-da*, *tŭl-li-da* (들이다/들리다), *chap-hi-da*, *chug-i-da*, *ut-ki-da*, *nal-li-da* (날이다/날리다), *nup-hi-da*, *ssŏg-i-da*. The rule is that for words ending in ㄴ, ㅁ, ㅅ stems (바팀語), (기) is added; for ㄹ stems, (리) (original says 니) is added; for ㅂ stems, (히) is added; for ㄱ stems, (이) is added. It is unacceptable to try to unify all rules with only (이) or (기) without knowing the axiom (公理). The rule is to follow analogy (類推) based on how the stem (語幹) changes. Things like trying to unify (되여 - *toeyŏ*) into (어 - *ŏ*) are not permitted by the axiom.
+
+(8) Look at the structure (조직) of proximate vowel change (近母音變化) in pronouns (大名詞). 이 (*i*) - 여긔 (*yŏgŭi*)... the sound 이 (*i*) changes to (여 - *yŏ*). 그 (*kŭ*) - 거기 (*kŏgi*)... the sound 으 (*ŭ*) changes to (어 - *ŏ*). It's not that (이어 - *iŏ*) becomes (여 - *yŏ*), nor that (그어 - *kŭŏ*) becomes (거 - *kŏ*). The proximate vowel changes directly. Therefore, the (여 - *yŏ*) in (먹혀 - *mŏkhyŏ*) is also not a combination of (이어 - *iŏ*). (이 - *i*) directly changes to (여 - *yŏ*). Thus, verb ending changes (語尾變化) have a significant relationship with pronouns. Do you know this or not? The scope of logic must be standardized based on such abstract phenomena.
+
+(9) Waking up early in the dim dawn (컴컴한 새벽), you washed your face (洗面) with five-colored water (五色水). But upon seeing each other in daylight (日光), everyone looked like a painted face (廣大 - *kwangdae*, clown/mask). You must wash your face again while looking in the mirror (面鏡).
+
+(10) The grammar books currently available are all different, crude (艾 - *ssuk*), un-unified, and without a single redeemable one (無一可取). Therefore, we must compare them anew against science (科學) and carry out a complete reorganization (一新整頓). They each establish their own school (各立門戶) and claim only theirs is correct, but when viewed against scholarship (學術), they are all varied (色色). I ask you, gentlemen, or towards me (향하야), please let me hear the logic with which you reject others. Don't just reject blindly or with insults (辱說).
+
+**表記法整理의 整理** (Organizing the Organization of Orthography)
+
+(1) Recently, facing the modern era, there's a common trend of having the blind view (盲目的 主見) that because old customs (舊習) must be improved (改良), everything must be reformed (改新). There are even cases where, after seeing some unofficial history (野史), the original title (本號) of our national founder (民祖) is privately changed (私改) from 檀 (Tan) to 壇 (Tan) and taught to students. Such reckless actions (妄發) ultimately cast doubt on the sacred name (聖號) and simultaneously raise suspicion about the truth (眞否) of the national founder's facts, leading to the destruction of the national spirit (民族的 精神) towards Tangun (檀君).
+
+(2) In Korean language research (朝鮮語硏究), too, there are efforts seeking to create a desolate scene (殺風景). Regarding the organization of orthography (表記法整理), various opinions are raised, conversely confusing the actual grammar (實際文法). Ultimately, the fundamental spirit (根本精神) is lost, leading to rumors (風說) like writing horizontally (橫書), abolishing Eonmun (諺文廢止) and writing in Roman letters (羅馬字), or that unifying with Japanese (日本語) would be easier.
+
+(3) There seem to be many teachers studying Korean now, but their mindset (精神) is strange. They clamor without considering <47> the potential impact (影響), the relationship with science (科學關係), the connection to the fundamental spirit (根本精神關係), or practical implementation (實行).
+
+(4) Let's take the single issue of revising (改定) the name Eonmun (諺文) to 'Hangeul' (한글), as proposed by you gentlemen (諸氏). Your excuse (口實) is that Chinese characters (漢文) were honorifically called Chinseo (眞書, true script) while our script (本文) was disparagingly called Eonmun (諺文, vulgar script). However, this is a misunderstanding (誤解).
+
+(5) Originally, Chinseo (眞書) was a term used by Zhao Mingcheng (趙明誠) of the Song dynasty to refer to Regular Script (楷書). It was a type of calligraphy style (書體). During the reign of King Sukjong (肅宗) of Koryŏ (高麗), there was even an examination subject called Chinseo-gwa (眞書科) in calligraphy assessment (書品). So, Chinseo is not an honorific term but a type of calligraphy (書法).
+
+(6) Eonmun (諺文) is synonymous with Hunminjeongeum (訓民正音), meaning it is not the script of a special class (特殊階級) but has the meaning of 'common' (平常的) or 'phonetic script' (音字). Therefore, even the explanation of the character 諺 (Eon) in Sŏngho Saesŏl (星湖僿說) states it refers to "common talk of the villages, close to human feelings, passed down mouth to mouth" (閭巷之常談人情之切近而口口相傳). Thus, the term Eonmun did not originate as a derogatory term (卑稱) but meant 'common script' (平常文) or 'phonetic script' (音字), making Eonmun the special noun (特別名詞) for the Korean script (朝鮮文).
+
+(7) Originally, there was a superstitious naming practice (迷信的 作名法) in Korean custom (朝鮮習慣). We should not pursue only form (形式) with such empty thoughts (浮虛한 思想). Why must we change a term (名詞) that everyone in society already knows? Even if there were instances of looking down upon it (賤視), that is an issue of treatment (待遇問題), not related to the name (名稱關係). We should now abandon vanity (虛榮心) and simply adopt practical methods (着實한 方法).
+
+(8) We should prioritize universality (普遍的). Let's cease peculiar (好奇的) or biased (一偏的), awkward (쑥스런) actions.
+
+(9) It is preferable to use the already known names for letters (字의 名稱), like (기역 - *kiyŏk*) and (디긋 - *tigŭt*). <48> There is no need to needlessly revise them and make awkward sounds like (기윽 - *kiŭk*) or (시읏 - *siŭt*). The name of a letter and its phonetic notation (記音) can be separate without any problem (拘碍). In the West too, (H) is called 'aitch', W 'double-u', and Y 'ipsilon' (original uses Greek name).
+
+(10) Even if we try to organize simply now and plan for unified implementation (一致的 實行), success seems difficult. If we revise everything uselessly and burden the spirit (精神) of the social masses (社會民衆), implementation might easily be abandoned (暴棄) out of renewed annoyance (귀찬한 생각).
+
+(11) Some argue that all initial consonant letters (初聲字) should be usable as final consonants (尾音 즉 바팀 - *batch'im*), and that grammar explanations (文法說明) must also be done this way. This is crude/wrong (쑥). I absolutely say that using all initial consonants as finals is unacceptable. If we do that, the Korean language (朝鮮語) will perish (滅亡). Regarding this, as it requires a somewhat lengthy explanation (張遑), I will not speak of it now. Also, if your proposals are not implemented, my protest (抗議) is also ineffective (無効). First, publicly disclose (公開) the reasons why your proposals are correct. Only after that will I present my view that "Using all initial consonant letters as finals will cause the Korean language to perish." Let public consensus (民衆의 公認) be sought from this point.
+
+(13) In any case, because you gentlemen view things through the colored glasses (色眼鏡) of 'reform' (改新), you deem the entire current grammar (現行 文法) a misunderstanding (誤解). Your perspective, therefore, leans more towards emotion (情的) than intellect (智的). That is why some have newly coined pure Korean terms (純朝鮮語) like (임 - *im*) for nouns (名詞) and (움 - *um*) for verbs (動詞) for explanations, and also harbor the thought of expelling (逐却) all words derived from Chinese characters (漢文). Their sincerity (誠意) <49> might be called praiseworthy (갸륵하다), but implementation is utterly impossible (到底 不可).
+
+(14) Because you see through emotional colored glasses, you drive your own fantasy (幻想) as the sole truth (惟一의 眞理). If you examine general grammar books or the explanations from Lesson 10 to Lesson 12 of Mr. Kwŏn Tŏk-kyu's *Ŏmun Kyŏngwi*, anything that contradicts your own views (自己主見) is dismissed as 'habitual sound' (習慣音). Pfft! That is the thinking of Confucianism (儒敎의 思想).
+
+(15) You gentlemen separate phonetic principles (音理) and variant sounds (變化音), calling the latter so-called 'habitual sounds' (習慣소리), but it is not like that. The principles (原則 原理) of speech sounds (語音) include original sounds (元音) and variant sounds (變音). These variant sounds also occur according to the principles of phonetics (音聲學의 原理). Changes outside these principles are phenomena of dialect generation (方言 發生의 現像). Not knowing this, you establish certain sounds as fixed like the North Star (北辰) and dismiss everything else as 'habitual sounds'. This is either crude/wrong (艾), a misunderstanding (誤解), or else ignorance (孤陋濛昧), or perhaps emotional (情的).
+
+(16) The rules (法則) by which sounds change (轉變) involve physiological causes (生理的 原因), physical causes (物理的 原因), correlational causes (相關的 原因), etc., with phonetic laws (音聲學上 法則) such as progressive assimilation (順行同化) and regressive assimilation (逆行同化). This is a phenomenon common throughout the world (世界).
+
+(17) If you don't know the rules of sound change exist and dismiss everything as 'habitual sound,' you will not be able to find the principles (法理). Because you gentlemen do not refer to these rules, you consider it a misunderstanding and propose to revise everything. Therefore, you gentlemen should first study the (Vocal-pyramid). Also, if you do not study ancient East Asian phonology (東洋 古代 音韻學), it is impossible (不能). (The explanation that '' (*arae-a*) is a combination of ㅣ and ㅡ is truly inappropriate.)
+
+(18) To conclude (結論), before we speak of organizing orthography (表記法 整理), let us first organize the muddy thoughts (흐린 생각) in our brains (腦膸). I hope you will pay deep attention (注意) and discuss this.) <50>
+
+**Summary**
+
+An Chasan argues against proposed Hangeul reforms in 1927. He defends the existing use of 'ㅅ' (siot) preceding consonants to indicate tensity (된소리) over the revival of doubled consonants (幷書, Byeongseo), citing evolutionary practice, phonetic reasoning, and aesthetics. He criticizes the proliferation of inconsistent grammar books, advocating for a unified standard based on linguistic principles rather than individual preferences or flawed interpretations. He also defends the traditional name 諺文 (Eonmun) against the proposed 'Hangeul', arguing 'Eonmun' means 'vernacular/phonetic script' not 'vulgar script', and opposes changing letter names or expanding the set of final consonants (받침). He urges reformers to adopt a more scientific, less emotionally driven approach grounded in phonetics and historical linguistics before attempting standardization.
+
+From a historical perspective, this article vividly illustrates the complex and often contentious debates surrounding Korean language standardization during the Japanese colonial period. It reveals tensions between traditionalists and reformers, differing interpretations of linguistic history and phonetics, and the underlying nationalist desire to define and codify the Korean language, even while debating the means. An Chasan's conservative stance, emphasis on practicality, and criticism of both inconsistency and radicalism provide insight into the diverse intellectual currents shaping modern Korean linguistics.
+
+**Named Entities**
+
+安自山	안자산	An Chasan
+兪吉濬	유길준	Yu Kil-chun
+朝鮮	조선	Chosŏn
+東京	동경	Tokyo
+崔光玉	최광옥	Ch'oe Kwang-ok
+金熙詳	김희상	Kim Hŭi-sang
+周時經	주시경	Chu Si-gyŏng
+金枓奉	김두봉	Kim Tu-bong
+李奎榮	이규영	Yi Kyu-yŏng
+權悳奎	권덕규	Kwŏn Tŏk-kyu
+李奎昉	이규방	Yi Kyu-bang
+李弼秀	이필수	Yi P'il-su
+趙明誠	조명성	Zhao Mingcheng (Chinese figure)
+宋	송	Song (dynasty)
+高麗	고려	Koryŏ
+肅宗	숙종	Sukjong
+星湖僿說	성호사설	Sŏngho Saesŏl (Book title by Yi Ik)
+檀君	단군	Tangun
+
+**Glossary**
+
+幷書	병서	Using doubled identical consonants (e.g., ㄲ, ㄸ)
+激音	격음	Tense sound (Modern Korean 된소리, though the author's usage sometimes seems broader)
+諺文	언문	Eonmun (Traditional name for the Korean script, Hangeul)
+古形	고형	Ancient form
+音理	음리	Phonetic principles/theory
+잇는	있는	Existing (Older spelling)
+잇스나	있으나	Although there is/are (Older spelling)
+귀태여	기어이/굳이	Obstinately, insistently (Archaic/dialectal form)
+발서	벌써	Already (Older spelling)
+公衆	공중	The public
+公定	공정	Publicly established/decided
+整理	정리	Organization, arrangement, systematization
+範疇	범주	Category, scope, framework
+復古	복고	Restoration of the old ways, revival
+업서	없어	Without, lacking (Older spelling)
+가티	같이	Like, as (Older spelling)
+달는	다른	Different (Older spelling)
+업는	없는	Non-existent, without (Older spelling)
+안이오	아니오	Is not (Older spelling)
+符號	부호	Symbol, mark
+表記	표기	Notation, transcription, orthography
+美	미	Beauty
+잇서	있어	There is/are (Older spelling)
+濁音	탁음	Voiced sound (as opposed to tense or aspirated)
+文典	문전	Grammar book
+語格法	어격법	Case system in grammar
+表記法	표기법	Orthography, writing system
+敎授	교수	Teaching, instruction; professor
+標準語	표준어	Standard language
+卑言	비언	Vulgar language, lowly speech
+俗言	속언	Colloquialism, common saying
+古語	고어	Archaic word, ancient language
+公理	공리	Axiom, principle
+바팀	받침	Final consonant in a syllable (Older spelling for 받침)
+되여	되어	Becoming (Older spelling)
+모도	모두	All, entirely (Older spelling)
+艾	쑥	Mugwort; used metaphorically to mean crude, rustic, wrong, nonsensical
+改新	개신	Reform, innovation
+橫書	횡서	Horizontal writing
+眞書	진서	Regular Script (calligraphy style); used here in contrast to Eonmun
+쑥스런	쑥스러운	Awkward, embarrassing, crude
+바팀	받침	Final consonant in a syllable (Older spelling)
+올타	옳다	To be right, correct (Older spelling/pronunciation spelling)
+터이니	터이니	Since it will be... / Because it is expected... (Grammatical ending)
+쏠녓서	쏠렸어	Leaned towards, was biased towards (Older spelling)
+먹엇서	먹었어	Ate; here: harbored (a thought) (Older spelling)
+갸륵하다	갸륵하다	Praiseworthy, commendable
+習慣音	습관음	Habitual sound (term used by reformers, criticized by author)
+音聲學	음성학	Phonetics
+法則	법칙	Law, rule, principle
+結論	결론	Conclusion
+腦膸	뇌수	Brain (specifically marrow/substance, used for mind)
+
+
+---------------------------
+
+
+잡지명	동광 제11호
+발행일	1927년 03월 05일
+기사제목	幷書不可論, 한글토론(3)
+필자	安自山
+기사형태	논설
+
+幷書不可論, 한글토론
+						安自山
+(1) 諸君이 (   )의 激音을 同字인 幷書로서의 (ㄲ ㄸ ㅃ ㅉ)로 쓰자 하는 것은 2條의 주장이 잇는 것이니 1은 古形을 回復, 2는 音理에 依準이라 하는 것이라. 그러나 나는 여긔 대하야 3條로써 그 不可함을 提해. (2)諺文 製作 當時에 幷書한 것은 根本的으로 틀녓던 것이요 (ㅅ) 由來도 3條나 잇스나 지금 그것까지 설명할 것이 안이야. 엇지 하엿던지 古法은 古法이오 現行法은 現行法이 안인가. 귀태여 儒敎思想으로 守古할 것은 안이니 第 1次 이를 생각해. (2) 製作 當時에는 小數人의 約定이나 그것이 普及되야 公有物이 된 以上은 公衆의 多數人이 (ㅅ)으로 公定한 것이라. 고로 幷書는 原始的이오 (ㅅ)은 進化的이라 할 것이라. (3) 公認公定이라도 不規則하면 整理할 필요가 잇지만은 발서 (ㅅ)으로 일치한 範疇가 된 以上은 何必 改定 또 復古할 일이 무엇인가. (3) 音理로 말하여도 꼭 (ㄲ) 幷書라야 可한 것은 안이니 何者던지 (ㅅ)音을 接하면 激音이 되느니 삿갓... ㅅㄱ, 못둑... ㅅㄷ, 빗발... ㅅㅂ, 웃집... ㅅㅈ. (5) 알고 보면 鼓는 革製라고로 꼭 革으로만 몹시 처야 激發되는＜42＞ 것이 안이오 銕이던지 木이던지 又 石이던지 何로나 몹시만 치면 激發됨은 音理上 原則이라고도 ㄱ ㄷ ㅂ ㅅ ㅈ 5音도 何音이던지 强接만 하면 激音으로 變成하느니 손가락... ㄴㄱ의 合, 삼대... ㅁㄷ의 合, 묵밧... ㄱㅂ의 合, 집신... ㅂㅅ의 合, 열집... ㄹㅈ의 合. (6) 何던지 强接한다고 何던지 合書하면 不可해. 고로 公衆은 발서 그를 整理하야 (ㅅ)으로 統一하엿나니 何必 幷書라야 音理에 合한다는 固執이 何오. (7) 風琴이나 或種의 樂器 외에 ㅁ로는 동일한 2音을 一時에 幷發하 수 업서. 이것이 音理上 原則이니 고로 幷書는 音理上 大不可한 것. (9) 諸劐�은 ㅅ ㄱ의 合을 英語의 th. ph.와 가티 생각함으로 그런 誤解를 가진 것이라 본래 5音의 激發性은 셈語의 3字根이나 아라비아語의 2字根과는 判然히 달는 것이니 知乎아 不知乎아. (9) 5激音은 一完全한 搆成上 가치가 업는 音이니 곳 獨立의 發音的 生理로 된 것이 안이오 一種의 音을 非氣帶로 ¸®調하는 者이니 고로 조곰 語意를 緊着할 時는 强迫調로 激發케 할 뿐의 音이니라. 곳창이... 창이, 발가... 가, 도랑... 랑, 줄기... 기. (10) 이믜 調로 되는 音인 以上은 일종의 符號로 記表만 하면 足해. 고로 (ㅅ)은 激音의 表오 寫音的 表記는 안이니 고로 (ㅅ)은 統一的이오 幷書는 散亂的이라 할 수 밧게 업는 것이니라. (11) 文字는＜43＞ 오직 寫音만 하는 것이 안이라 美도 取하야 親線의 勢力을 倦怠치 안이 하여야 되는 것이니 고로 同字를 連書할 時는 쓰기도 쉽고 또 美도 取하야 (:)잣지기로 表하는 일이 잇서. (12) 幷書를 하여 노흐면 보기 실코 엉성하고 또 쓰기도 불편하야 아모 美的 觀念이 나지 안이 하되    ㅆ 로 쓰면 其 중에 注意法則과 均齊의 觀念이 起케 되며 또 視覺으로써 勢力을 感케 하야 藝術的 價値가 幷書와는 至賢하니라. (13) 한 번 달니 풀어 보라. 古代의 幷書란 것은 漢字의 濁音을 指한 것이라 朝鮮語는 本是 濁音이 업고 激音이 잇스니 우습게 濁音法을 激音애 쓰는 것은 大語니라. 고로 龍飛御天歌부터도 幷書는 별로 업서 後人도 그를 覺悟하얏기로 濁音인 幷書를 쓰지 안코 激音엔 (ㅅ)으로써 一致規定한 것이니라.
+
+文典의 整理
+(1)至今 朝鮮語 硏究問題에 就하야 物議가 擾擾하나 제일 몬저 文法의 語格法을 整理하는 것이 필요해. 이것이 整理되여야 辭典도 編輯하고 表記法도 一致되고 敎授도 正할 것이 안인가. (2) 爾來文典의 出版物은 10여種이니 其 發行의 序次로써 보면 如左해 (그 內容들은 各自 散亂)
+兪吉濬  大朝鮮文典 大韓文典
+崔光玉  大韓文典＜44＞
+金熙詳  初等國語語典 朝鮮語典
+周時經  國語文典音學 國語文法 말의 소리
+金枓奉  조선말본
+李奎榮  現今朝鮮文典
+權悳奎  朝鮮語文經緯
+李奎昉  朝鮮語法
+李弼秀  朝鮮正音文典
+기타에 謄寫한 것들도 4,5種이 되는 모양. (3) 子弟들 가리치기는 先次 崔光玉씨가 각 지방에 巡回하야 敎授하엿고 훨신 뒤에 周時經씨가 무엇이라고 講說을 햇서. 兪吉濬씨의 文典은 距今 40년 전에 東京서 發刊하엿스니 朝鮮語의 首功은 兪씨와 崔씨가 제일이오 周씨는 그 後進인대 何由로 周씨를 推戴하는지 이것도 手段家의 幻弄인지 모르나 世人은 속지 말기를 바라는 것. (4) 그러케 여러 가지 文典들은 다 各 殊하야 統一이 못 되엿서. 爲先 單語 分類도 혹 7 혹 8 혹 9 혹 6으로 橫亂無定해 각 學校의 敎授도 亦然 文典이란 것은 그러케 함부로 著作하는 것이 안이니 爲先 바울씨의 文法原理를 공부하는 것이 可해. (5) 文法에는 標準語를 先決할 것이라. 그러나 標準語 중에도 또한 標準이 잇서야 되는 것이니 (조선말본)의 例와 가티 (다귀) (늑다리)가튼 卑言 俗言을 쓰는 것은 不可한 것이라. (6) 權悳奎씨의 語文經緯에 말한 (구실)을 (구슬)이라 하여야 標準이 된다 함도 한 번 생각할 일이라지.＜45＞ 世人이 다 (구실)이라 하면 (구실)이 표준되는 것이니 꼭 古語나 자기이상으로써 준거하기는 불가해 (7) 본래 문법상의 논리는 語法의 추상적 사실의 公理에 잇는 것이니 例如使動詞의 法을 보라. 안기다, 갈거다, 접히다, 먹이다, 넘기다, 들니다, 잡히다, 죽이다, 웃기다, 날니다, 눕히다, 썩이다. ㄴㅁㅅ바팀語에는 (기), ㄹ바팀語에는 (니), ㅂ바팀語에는 (히), ㄱ바팀語에는 (이)가 入하는 법이라. 公理를 아지 못하고 諸法을 다 (이)로나 (기)로나 통일코자 하는 것은 불가하다. 곳 語幹의 如何를 따라 달니되는 법은 그대로 類推하는 것이 법이니 (되여)를 (어)로 일치코자 함가튼 일은 공리가 不許하는 것이라. (8) 대명사의 近母音變化슝� 조직을 보라. 이-여긔...... 이 音이 (여)로 변화, 그-거기...... 으音이 (어)로 변화. (이어)가 (여)로 되는 것이 안이요. 또 (그어)가 (거)로 되는 것이 안이라. 직접 近母音이 변화되는 것이니 (먹혀)의 (여)도 (이어)의 合이 안이라. (이)가 직접 (여)로 변하는 것이라. 고로 동사의 語尾變化는 대명사와 큰 관계가 잇는 것이니 此를 知乎아 不知乎아. 이가티 논리의 범주를 추상적 현상으로 표준하여야 可해. (9) 컴컴한 새벽에 닐직 깨엿다고 五色水로 세면을 햇서. 그러나 日光에 相見하니 모도 廣大를 그렷서. 다시 面鏡을 보고 세면을 하여야 可해. (10) 지금 세상에 나온 文典들은 각색이오 艾오 不統一이오 無一可取 고로 우리는 다시 과학에 대조하야 一新整頓을 안이하면 不可해. 그가티 各立門戶하야 제것만 可타 하지만은 학술에 비처보면 모도 色色이라. 問컨대 제군이나 나에게 향퓀˜야 배척하는 그 논리를 좀 들너주기 바라는 것이로다. 공연히 맹목적으로만 또는 욕설로만 배척치 말고.
+
+表記法整理의 整理
+(1) 근래 시대에 닥처 구습을 개량하여야 된다하니까 일반 것을 다 改新코자 하는 맹목적 主見을 가진 일이 흔해 엇던 野史를 보고 民祖의 本號까지 고처 檀字를 壇字로 私改하야 학생을 敎授하는 일도 잇서 그런 妄發은 필경 聖號를 의심내는 동시에 民祖事實의 眞否까지 의아케 하야 檀君에 향한 민족적 정신까지 파괴하게 되다녀 (2) 조선어연구 그도 역시 살풍경을 내고자하는 일이 잇서. 표기법정리에 대하여도 별별 소리를 끄내여 反히 실제문법을 혼란케해 필경 근본정신을 상실하고 橫書로 쓰자 또는 諺文을 폐지하고 羅馬字로 쓰자 무슨 일본어로 통일함이 찰하리 쉽다하는 풍설을 약기케 되다녀 (3) 지금 조선어를 연구하는 선생은 만흔 모양인데 그들의 정신인즉 모도 이상해 영향이 엇더할지 과학관계가 엇더한지＜47＞ 또는 根本精神과의 관계가 엇더한지 實行이 엇더한지 不顧하고 떠들지. (3) 諸氏가 諺文의 名稱을 改定하야 (한글)이라 하자 하는 一事를 노코 보자. 諸氏의 口實은 漢文을 眞書라 尊稱하고 本文을 諺文이라 貶稱한 것이라 하는 것이라. 그러나 이것이 誤解니라. (5) 본래 眞書란 것은 宋의 趙明誠이 楷書를 指한 말인 바 곳 書體의 일종으로서 高麗 肅宗 時에는 書品의 眞書科를 試한 일도 잇스니 眞書란 것은 곳 尊稱이 안이오 書法의 일종이니라. (6) 諺文이란 것은 訓民正音과 同意語로서 特殊階級의 文이 안이오 平常的 또는 音字인 의미니 고로 星湖僿說의 諺字解釋도 閭巷之常談人情之切近而口口相傳이라 하엿스니 諺文이란 名詞는 곳 卑稱으로 由來된 것이 안이라 平常文 또 音字라 한 것으로서 諺文은 곳 朝鮮文의 特別名詞니라. (7) 본래 朝鮮習慣에는 迷信的 作名法이 잇섯나니 그런 浮虛한 思想으로 形式만 슷�할 것은 안이라 一般社會에서 다 아는 名詞를 何必 改定할 것이 무엇인가. 設或 賤視한 일이 잇섯다 하되 그는 待遇問題오 名稱關係는 안이니 지금 우리는 虛榮心을 바리고 着實한 방법을 採하야 나갈 뿐이니라. (8) 우리는 普遍的을 爲主함이 可하니 好奇的이나 一偏的의 쑥스런 일은 休할 지라. (9) 字의 名稱도 旣爲 다 아는 대로 (기역) (디긋)으로 하는 것이 可하고＜48＞ 空然히 改定하야 (기윽)이니 (시읏)이니 쑥스런 소리를 할 것이 안이라 字의 名稱과 記音을 各立하여도 何等 拘碍가 업나니 西洋서도 (H)를 에취 W를 따불유 Y를 입실논이라도 하나니라. (10) 지금 쉽게 整理하야 一致的 실행을 圖謀할 지라도 성공이 어려울 듯한대 쓸 대 업는 것을 모도 改定하야 社會民衆의 精神을 苦케 하면 실행은 새로히 귀찬한 생각으로 고만 暴棄하기 쉬워. (11) 尾音 즉 바팀도 初聲字를 다 쓰자 하며 又는 文法說明도 그러케 하여야 올타 하는지라 이것이 쑥이라. 나는 결코 初聲을 다 바팀으로 쓰면 不可하다 할새 만일 그러케만 하면 朝鮮語는 滅亡하고 말 것이라. 이에 대하야는 조곰 張遑하겟기로 지금 말하지 안해. 또한 諸君의 주장이 施行 안 되면 余의 抗議도 無効이니 몬저 諸君의 주장이 올타 하는 그 이유를 公開하라. 그리한 후라야 나는 (初聲字를 다 바팀으로 쓰면 朝鮮語가 滅亡하겟다.)는 見解를 표시할 터이니 民衆의 公認은 이로부터 구할 진뎌. (13) 아모커나 諸君은 改新이란 色眼鏡을 쓰고 보는 고로 現行 文法을 전부 誤解라 하는 것이니 諸君의 見解는 그럼으로 智的보다 情的으로 쏠녓서. 그러키에 名詞를 (임) 動詞를 (움)으로서의 純朝鮮語로 新造하야 설명한 이도 잇고 또한 漢文으로 된 말은 다 逐却하자는 생각을 먹엇서. 그 誠意인즉＜49＞ 갸륵하다 하되 실행은 到底 不可해. (14) 情的 色眼鏡으로 보니까 자기의 幻想으로써 惟一의 眞理로 몰아처 一般 文典 또는 權悳奎씨의 語文經緯의 第10課로부터 第12課의 설명들을 査調하면 自己主見의 틀니는 것은 모도 習慣音이라 햇서. 피! 그것이 儒敎의 思想이야. (15) 諸君는 所謂 習慣소리라 하야 音理와 變化音을 各立하지만은 그런 것이 안이야. 語音의 原則 原理는 元音도 잇고 變音도 잇는 법이야. 그 變化音이란 것도 音聲學의 原理로 되는 것이니 그 原理 외의 轉變은 方言 發生의 現像이라 이것을 아지 못하고 엇던 音을 北辰가티 싀여 노코 그 외는 다 習慣소리라 하니 이는 艾가 안이면 誤解오 不然이면 孤陋濛昧 또는 情的이라 할 것이니. (16) 音의 轉變하는 法則은 生理的 原因 物理的 原因 相關的 原因 등으로서 順行同化(progressive a.s milaion) 逆行同化(R gressive assemilation) 등으로 音聲學上 法則이 잇서 世界가 동일한 現像이니라. (17) 그 變化法則이 잇는 주를 모르고 모도 習慣音이라 하면 法理를 찻지 못할 지라. 諸君은 이 法則을 參考치 안함으로 誤解로 認定하야 모도 改定하자는 것이라. 고로 諸君은 몬저 (Vocal-pyramid)를 공부하라. 또 東洋 古代 音韻學도 연구하지 안이 하면 不能이니 (는 ㅣㅡ의 合이란 설명은 참 當치 안이 하다.) (18) 結論으로 말할 것은 우리가 表記法 整理를 말하기 前에 우리 腦膸에 잇는 흐린 생각 몬저 整理하자는 것이니 깁히 注意하야 議論하기를 바라노라.)＜50＞
+＜42-50＞

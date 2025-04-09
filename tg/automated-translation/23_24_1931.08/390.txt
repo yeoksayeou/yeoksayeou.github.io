@@ -1,0 +1,73 @@
+Magazine Title: 동광 제24호
+Publication Date: 1931년 08월 04일
+Article Title: 世界의 末日 (End of the World)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation**
+
+End of the World
+
+In T'ŏigi's (Turkey's) old capital, K'ŏnsŭt'ant'inop'ŭl (Constantinople), several thousand people recently gathered outside the city walls, waiting for the sky to break apart. This was because a certain fortune-teller had prophesied that the end of the world would come that night. It is said that an assistant at the K'ŏnsŭt'ant'inop'ŭl (Constantinople) Observatory (天文臺) could not sleep a wink all night because people kept calling by telephone, asking to see if the face of the angel who would judge the world had yet appeared in the sky.<71>
+
+**Summary**
+
+The article reports on an incident in Constantinople (modern-day Istanbul) where thousands gathered based on a fortune-teller's prophecy that the world would end that night. An observatory assistant was inundated with calls asking if the judging angel had appeared. From a Korean colonial history perspective, the article highlights the flow of international news, even seemingly trivial or sensationalist stories, into Korea during this period. It might reflect a popular interest in apocalyptic narratives, perhaps as a form of escapism or mirroring underlying societal anxieties, or simply the nature of global news dissemination at the time.
+
+**Named Entities**
+
+토이기	토이기	T'ŏigi
+컨스탄티노플	콘스탄티노플	K'ŏnsŭt'ant'inop'ŭl
+컨스탄디노플 天文臺	콘스탄티노플 천문대	K'ŏnsŭt'ant'inop'ŭl Observatory
+
+**Glossary**
+
+世界	세계	World
+末日	말일	Last day; end times
+토이기	터키	Turkey (Older transliteration)
+옛서울	옛 서울	Old capital
+컨스탄티노플	콘스탄티노플	Constantinople (Older transliteration)
+최근	최근	Recently
+수천명	수천 명	Several thousand people
+군중	군중	Crowd; multitude
+성	성	Castle; city wall
+하늘	하늘	Sky; heaven
+끊어지다	끊어지다	To be cut off; to break apart; to tear
+기다리다	기다리다	To wait
+잇엇다	있었다	Was/were (Older spelling of 있었다)
+점쟁이	점쟁이	Fortune-teller
+이날	이날	This day
+밤	밤	Night
+끝날	끝날	End day
+오리라고	오리라고	That (it) would come (Future indicative + quotative particle)
+예언하다	예언하다	To prophesy
+까닭	까닭	Reason; cause
+이엇다	이었다	Was (Copula, older spelling of 이었다)
+天文臺	천문대	Astronomical observatory
+助手	조수	Assistant
+밤새도록	밤새도록	All night long
+재판하다	재판하다	To judge; to hold a trial
+천사	천사	Angel
+얼골	얼굴	Face (Older spelling of 얼굴)
+아직도	아직도	Still; yet
+나타나다	나타나다	To appear; to show up
+않앗는가	않았는가	Has not...? (Older spelling/form of 않았는가)
+보라고	보라고	Asking to see/look (Indirect command/request form)
+전화	전화	Telephone
+뭇는	묻는	Asking (Older form/spelling of 묻는)
+사람	사람	Person
+잇어	있어	Because there is/are (Older spelling of 있어)
+한잠	한잠	A wink of sleep; a short sleep
+자지 못햇다고 한다	자지 못했다고 한다	It is said that (someone) could not sleep (Past negative potential + quotative hearsay)
+
+
+---------------------------
+
+
+잡지명	동광 제24호
+발행일	1931년 08월 04일
+기사제목	世界의 末日
+기사형태	잡저
+
+世界의 末日
+토이기의 옛서울 컨스탄티노플에서는 최근 수천명의 군중이 성 밖으로 모여서 하늘이 끊어지기를 기다리고 잇엇다. 그것은 어떤 점쟁이가 이날 밤에 세계의 끝날이 오리라고 예언한 까닭이엇다. 컨스탄디노플 天文臺의 助手는 밤새도록 세계를 재판할 천사의 얼골이 아직도 하늘에 나타나지 않앗는가 보라고 전화로 뭇는 사람이 잇어 한잠도 자지 못햇다고 한다.＜71＞

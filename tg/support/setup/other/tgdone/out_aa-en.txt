@@ -1,0 +1,300 @@
+01	010	The National Physical Improvement Movement, a Health Issue Governing Not Only Individual Life but Also the Fate of the Entire Nation	Professor Kim Ch'angse, Ph.D., Severance Medical College	Editorial/Article
+01	020	The Hero An Yongbok, a Chosŏn Diplomatic Issue from 200 Years Ago Centered on Ullŭngdo Island	Yi Yunjae	Literature/Miscellaneous
+01	030	Nature - How Do Insects Spend the Winter?	One Reporter	Miscellaneous Writing
+01	040	Characteristics of the Camel		Miscellaneous Writing
+01	050	Solon's Constitution		Miscellaneous Writing
+01	060	A Fragment of Wandering, a Memoir of the Author Who Left Shanghai with a Peculiar Resolve to Experience Labor Life in Nagasaki and Ōsaka	T'aehŏ	Memoir/Reminiscence
+01	070	Union and Separation	San'ong	Editorial/Article
+01	080	Editorial - Above All Else		Editorial/Article
+01	090	Footprints	Yohan	Poem
+01	100	New Method for Preventing Corpse Decay		Miscellaneous Writing
+01	110	What is 'I'?	Paek Sŏnguk, Ph.D. in Philosophy	Editorial/Article
+01	120	Turkey (Bird)		Miscellaneous Writing
+01	130	Beautifully Colored Goldfish		Miscellaneous Writing
+01	140	Innovation in Individual Daily Life is the Foundation of National Revival	Changbaek Sanin	Editorial/Article
+01	150	Knowledge Bank: Western Solar and Lunar Calendars		Miscellaneous Writing
+01	160	Company Announcement		Announcement/Editor's Postscript
+01	170	Language (Words)	Yŏsim	Editorial/Article
+01	180	Zoo Veterinarian, Freely Putting Hands into the Mouths of Lions and Tigers		Miscellaneous Writing
+01	190	Standards for Art Evaluation	Yi Kwangsu	Literary Criticism
+01	200	New Youth Song		Poem
+01	210	What Should I Do? - Consultation Column		Miscellaneous Writing
+01	220	Readers and Reporters		Announcement/Editor's Postscript
+02	010	Looking Down at the Naktong River	Hansaem	Poem
+02	020	Health Column: Man-Eating Flies		Miscellaneous Writing
+02	030	11 Rules for Children's Health		Miscellaneous Writing
+02	040	British People and Language, Quite Different from Expectations: Policemen, Merchants, Boys, Nurses, London, Underground Railway, Shops, Outdoors, Impressions of European Tour Part 1	Kim Ch'angse	Travelogue
+02	050	Modern Ideal Society, 'Utopia' Discourse Part 1	H. G. Wells (England)	Editorial/Article
+02	060	Nature: Where Did Humans Come From? The Origin of Life and the Laws of Evolution	Song'a	Editorial/Article
+02	070	New Baseball Manufacturing Method		Miscellaneous Writing
+02	080	The Largest Airplane		Miscellaneous Writing
+02	090	The Hero An Yongbok (Conclusion) (The Diplomatic Dispute over Ullŭngdo Island)	Yi Yunjae	Editorial/Article
+02	100	Are You the Master?	San'ong	Editorial/Article
+02	110	Let Each Person Cherish Truth in Their Heart to Build Common Trust	San'ong	Editorial/Article
+02	120	Editorial		Editorial/Article
+02	130	Uprising of Muslims		News/Report
+02	140	"On a Winter Night" (And 2 other poems from old manuscripts)	Yohan	Poem
+02	150	Heartless Society and Affectionate Society (Significance and Elements of Cultivating Kindness)	Sŏmme	Editorial/Article
+02	160	O Captain! My Captain! (From Whitman's Elegy for Lincoln)		Poem
+02	170	What is 'I'? (Continued from previous issue)	Paek Sŏnguk, Ph.D. in Philosophy	Editorial/Article
+02	180	Poem on an Orchid	Kim O'yŏn	Poem
+02	190	A Fragment of Wandering (Continued)	T'aehŏ	Memoir/Reminiscence
+02	200	Tolstoy's Fables	Translated by Song	Literature/Miscellaneous
+02	210	(Overseas News - Domestic Section)		News/Report
+02	220	Knowledge Bank		News/Report
+02	230	Founding Record of King Tongmyŏngsŏng, from the Koguryŏ Annals of the Samguk Sagi	Translated by Yi Kwangsu	Literature/Miscellaneous
+02	240	(Overseas News - Domestic Section)		News/Report
+02	250	Leaving Paehwa to Go to Tōkyō	Kim Yun'gyŏng	Literature/Miscellaneous
+02	260	Story Material		Miscellaneous Writing
+02	270	Sketch (On the Way to America)	Im Yŏngbin	Memoir/Reminiscence
+02	280	Readers and Reporters (Editor's Notes)	Editorial Staff	Announcement/Editor's Postscript
+03	010	Requirement for Union - Leaders	San'ong	Editorial/Article
+03	020	Scholarly Explanation of Personality	Kim Yun'gyŏng	Editorial/Article
+03	021	Company Announcement		Announcement/Editor's Postscript
+03	030	Our Position		Editorial/Article
+03	040	Truth		Miscellaneous Writing
+03	050	Heroine Punyang, The Sole Aide to Chŏng Ch'ungsin During the Yi Kwal Rebellion	Yi Yunjae	Literature/Miscellaneous
+03	060	Paris and Versailles, Sightseeing in France, Impressions of European Tour Part 2	Kim Ch'angse	Travelogue
+03	070	Health Column: Typhoid Fever (Pestilence), Eliminate Flies and Boil Water	 	Editorial/Article
+03	080	Health Column: If Your Teeth are Damaged, Stomach Illness, Infectious Disease, and Nervous Disease Can Occur. Cultivate Habits for Healthy Teeth.	Chu Yosŏp	Editorial/Article
+03	090	A Fragment of Wandering (Continued)	T'aehŏ	Memoir/Reminiscence
+03	100	Third-Class Cabin - "Sketch" 2 -	Im Yŏngbin	Memoir/Reminiscence
+03	110	Reappearance of Christ in Madras, India, The New Messiah is a 28-Year-Old Brahmin Named Krishnamurti	One Reporter	News/Report
+03	120	How Many Years is Smallpox Vaccination Effective?		News/Report
+03	130	World of Science	One Reporter	News/Report
+03	140	In Tan'gun Cave (Myohyangsan)	Ch'oe Namsŏn	Poem
+03	150	One Who Found Themself	Pang In'gŭn	Novel
+03	160	At the Zoo	Yohan	Poem
+03	170	Play: At Mawei Station	Translated by Yang Paekhwa	Play/Scenario
+03	180	Readers and Reporters (Editor's Remarks)		Announcement/Editor's Postscript
+04	010	Let's Depart from Emptiness and Go Towards Substance	San'ong	Social Commentary
+04	020	Cultivation of Personality, A Sound Personality is the Most Valuable Work of Art, The Significance of the Three Great Trainings as Standards for Its Cultivation	Kim Yun'gyŏng	Editorial/Article
+04	030	To a Friend		Literature/Miscellaneous
+04	040	Academic Research: Kropotkin's View of Literature and Art	Yusu	Literary Criticism
+04	050	The Tower (Guild Socialism's Utopia), Utopia Chronicles Part 3	Wich'iman	Travelogue
+04	051	Obituary		News/Report
+04	060	Comparison of British, American, French, and German National Characters	Pak Hyŏnhwan	Editorial/Article
+04	070	Brussels and The Hague, The Cities are Clean and the People are Kind	Kim Ch'angse	Travelogue
+04	080	Are the Continents Adrift? The Six Continents Were Originally One Mass, New Theory by an Austrian Scholar		Editorial/Article
+04	090	Medicinal Sunlight, Sunbeams That Help Health and Beauty and are a Doctor's Friend	Frederick Bryant	Editorial/Article
+04	100	A Fragment of Wandering (Continued), From the First Day's Earning of 1 Won 20 Chŏn to Getting Hands Crushed and Running Away	T'aehŏ	Memoir/Reminiscence
+04	110	Punyang (Continued), The Sole Aide to Chŏng Ch'ungsin During the Yi Kwal Rebellion	Yi Yunjae	Literature/Miscellaneous
+04	120	A Day in Honolulu, 'Sketch' of Crossing to America	Im Yŏngbin	Travelogue
+04	130	Lonely Dusk (3 Poems)	Kim Ansŏ	Poem
+04	140	Research on Korean Language and Script		Editorial/Article
+04	150	Things to Correct in Korean Language and Script	Han'gyŏl	Editorial/Article
+04	160	Study of Vowels, Excerpt from "New Study of the Original Script"	Ch'ŏnminja	Editorial/Article
+04	170	Chŏngŭm Grammar Facing a Period of Decisive Action, From Impressions to Proposals	Yi Chu-man	Editorial/Article
+04	180	From Troy	Kim Yŏje in America	Literature/Miscellaneous
+04	190	Knowledge Bank		Miscellaneous Writing
+04	200	Eight Months (Creative Work)	Ch'oe Sŏhae	Novel
+04	210	Kyŏngsang Province Folk Song	Hŭngsŏp from Chinju	Poem
+04	220	Balsam Flower	Tori	Poem
+04	230	Moch'ou Lake (and 3 other poems)	O'yŏn	Poem
+05	010	Suyang Tonguhoe Song		Poem
+05	020	Call for Submissions: Association Songs, School Songs - Introduction & Collection		Announcement/Editor's Postscript
+05	030	Our Position		Editorial/Article
+05	040	Personality and Unity, Without Social Life, One Cannot Expect the Completion of Personality.	Kim Yun'gyŏng	Editorial/Article
+05	050	Kropotkin's View of Morality, His Theory Based on Biology, A Philosophy Based on Sacrifice and Struggle	Translated by Yusu	Editorial/Article
+05	060	Fundamental Historical Materials for the Study of Korean History	Samch'ŏng Sanin	Editorial/Article
+05	070	The Tower (Guild Socialism's Utopia) (Conclusion), Utopia Chronicles Part 5	Wŏtch'iman	Editorial/Article
+05	071	On the Occasion of Announcing Member Regulations (Company Announcement)		Announcement/Editor's Postscript
+05	080	Health Column - Eye Hygiene, Protect Your Eyes Starting from Elementary School		Editorial/Article
+05	090	Bacteria		Miscellaneous Writing
+05	100	Nature		Editorial/Article
+05	110	Good Fortune Comes to a Smiling Gate, From "Random Notes While Summering in Tōkyō"	Han'gyŏl	Miscellaneous Writing
+05	120	Passing Through Denmark to Germany, From the European Travelogue	Kim Ch'angse	Travelogue
+05	130	A Fragment of Wandering (Part 5)	T'aehŏ	Memoir/Reminiscence
+05	140	Missing the Homeland, From a Letter by Dr. Sŏ Chaep'il		News/Report
+05	150	Knowledge Bank		Miscellaneous Writing
+05	160	Studying Abroad at Columbia University, Five Years of Hard Study in North America		Memoir/Reminiscence
+05	170	Going to the Immigration Bureau (Sketch) (6)	Im Yŏngbin	Travelogue
+05	180	Abandoned Child (Creative Work)	Chongmyŏng	Novel
+05	190	Suspension from School	Chŏng Pyŏngsun	Novel
+05	200	At the Kangso Three Tombs	Ch'oe Namsŏn	Poem
+05	210	During Hospitalization	Changbaek Sanin	Poem
+05	220	Water Waves	Yŏsim	Poem
+05	230	Thoughts Written on an Autumn Day at Wang River	Tonghae Subu	Poem
+05	240	Two Old Sijo		Poem
+05	250	The Origin of Ŏnmun (Korean Vernacular Script)	An Chasan	Editorial/Article
+05	260	Pronunciation and Notation of Ŏnmun, Excerpt from "Teaching Methods for the Korean Language Course"	Yi Kyubaek	Editorial/Article
+05	270	Readers and Reporters		Announcement/Editor's Postscript
+06	020	Carpenter		Editorial/Article
+06	030	Do Today's Work Today	San'ong	Editorial/Article
+06	040	Waste is a Sin, How Can Health, Abundance, Honor, and Happiness Come to Us? Listen to the Sincere Words of an Old Patriot	Sŏ Chaep'il	Editorial/Article
+06	050	A Remarkable Man of Modern Times, Elder Yi Sangjae, Whose Life of Courage, Conviction, and Hope is Itself a Great Undertaking (Impressions of People Part 1)	Yi Kwangsu	Profile/News
+06	060	Our Position		Editorial/Article
+06	070	Higher Education for Women in America, The Advancement of Women is the Advancement of the Nation	Studying Abroad at Columbia University	Editorial/Article
+06	080	The Person I Saw, Advocating Absolute Theory Explored Through the Truth of Life Problems Solvable by Everyone	Han Ch'ijin in America	Literature/Miscellaneous
+06	090	Classification of the Stages of Human Social Development	Kim Yun'gyŏng	Editorial/Article
+06	100	Sŏnp'a	Ch'unwŏn	Literature/Miscellaneous
+06	110	Danish Rural Villages and Education, Paradise on Earth as a Tiny Island Nation of Northern Europe, The Great Achievement of Mr. Grundtvig, Implementer of National Education	Pang T'aeyŏng	Editorial/Article
+06	120	A Brief Study of Ch'ŏngsang Folk Songs	Yi Ŭnsang	Editorial/Article
+06	130	Call the Korean Script 'Ponmun', How Can We Bear to Use the Insulting Name 'Ŏnmun'? 'Chŏngŭm' is Actually the Scholarly Name; Study of Chŏngŭm Grammar (Part 3)	Chŏngmok	Editorial/Article
+06	140	Banned Books in Red Russia	One Reporter	News/Report
+06	150	Because We Are Human	Yŏ Myŏnggu	Miscellaneous Writing
+06	160	New Lie Detector		News/Report
+06	170	Carried by a Freight Truck, (Sketch of Crossing to America 7)	Im Yŏngbin	Travelogue
+06	180	Health of the Nose and Throat, Especially as Winter Approaches		Editorial/Article
+06	181	Correction Department Newly Established		News/Report
+06	190	Knowledge Bank		Miscellaneous Writing
+06	200	A Fragment of Wandering (6), Factory Life in Ōsaka and the Miserable State of Korean Laborers, Opium Addiction and Various Meetings	T'aehŏ	Memoir/Reminiscence
+06	210	Seeing the Trees of Musashino, From Miscellaneous Notes while Studying in Tōkyō	Han'gyŏl	Literature/Miscellaneous
+06	220	Vengeful Spirit in a Foreign Land (Creative Work)	Ch'oe Sŏhae	Novel
+06	230	Anti-Red Army (Play)	Anonymous Chinese Author (Original), Yŏsim (Translator)	Play/Scenario
+06	240	Poets' Club	Kim Ansŏ	Literary Criticism
+06	241	Autumn	Yu Tosun	Poem
+06	250	Among All Winds	Robert Burns (Scotland) (Original), Yohan (Translator)	Poem
+06	260	Old Poem (From Chasan's Poetry Talks)		Poem
+06	270	My Kŏmun'go (and 2 other poems)	Yi Ŭnsang	Poem
+06	280	The Religious Significance of 'Sangsdal' and Kaech'ŏnjŏl, An Aspect of Ancient Korean History Research	Ch'oe Namsŏn	Editorial/Article
+06	290	Chinese Culture Incubated in Korea, An Aspect of Ancient Korean History Research	Kwŏn Tŏkkyu	Editorial/Article
+06	300	A Small Discovery of Tan'gun Historical Material and My Joy, An Aspect of Ancient Korean History Research	Chang Tobin	Editorial/Article
+06	310	Discovery of New Records Regarding the Historical Verification of Tan'gun, An Aspect of Ancient Korean History Research	Hwang Ŭidon	Editorial/Article
+06	320	Divine Song		Poem
+06	330	Two Major Divisions of the Ancient Korean People, An Aspect of Ancient Korean History Research	An Chasan	Editorial/Article
+06	340	The Coming of the Great Ancestor		Poem
+06	350	The Bloodline of One People	Chŏng Iru	Editorial/Article
+06	360	Remembering Tan'gun on October 3rd	Kim Tot'ae	Editorial/Article
+06	370	Reflections on National Foundation Day (Kaech'ŏnil)	Yi Yunjae	Editorial/Article
+06	380	Readers and Reporters		Announcement/Editor's Postscript
+07	010	Sending Off the Year Pyŏngin (1926)		Literature/Miscellaneous
+07	020	Korean Students Today, In Today's Korean Situation, What Spirit Should Korean Students Born as Koreans Live With?	San'ong	Editorial/Article
+07	030	Special Company Announcement		Announcement/Editor's Postscript
+07	040	Our Position	Yunjae	Literature/Miscellaneous
+07	050	If I Could Become a 20-Year-Old Youth Again		Survey/Questionnaire
+07	060	Ancient Korean Tribe and T'aegŭk	Chasan	Literature/Miscellaneous
+07	070	The Peculiar Korean	Professor Han Ch'igwan, Yŏnhŭi College	Editorial/Article
+07	080	This Year's World of Science, Nature		News/Report
+07	090	Introduction to the Study of Korean Proverbs (Draft)	Yi Ŭnsang	Editorial/Article
+07	100	'Christmas' Bell Sound, (Merry Christmas and No Christmas)	Ch'uho	Literature/Miscellaneous
+07	110	Christmas Miscellany		Miscellaneous Writing
+07	120	Changes in Korean Writing	Chŏng Pyŏngsun	Editorial/Article
+07	130	Action of Poisons	Paek T'aesŏng, Severance Medical College	Editorial/Article
+07	140	Malay Proverbs		Miscellaneous Writing
+07	150	A Fragment of Wandering (Conclusion)	T'aehŏ	Memoir/Reminiscence
+07	160	Two Old Sijo		Poem
+07	170	Research on Han'gŭl		Editorial/Article
+07	180	Founding of the Chŏngŭm Society		News/Report
+07	190	Readers and Reporters		Miscellaneous Writing
+07	200	Cold Noodles (Naengmyŏn)	Kim Nang'un	Novel
+07	210	Frightening Impression	Ch'oe Sŏhae	Novel
+07	220	O Beloved	Yang Chudong	Poem
+07	230	Homesickness	Cho Un	Poem
+07	240	Tree	Yu Tosun	Poem
+07	250	Night at a Farmhouse	Chŏng Pyŏngsun	Poem
+07	260	Reciting Autumn	Kim Namju	Poem
+07	270	Autumn at T'aep'yŏng Lake	Chŏng Tong, Peking National University	Poem
+07	280	Old Poem		Poem
+07	290	America and Americans - Miscellaneous Notes on Crossing to America	Im Yŏngbin	Literature/Miscellaneous
+07	300	The Trustworthiness of Man (Novel)	Jack London (USA)	Novel
+07	310	Acknowledgement		Announcement/Editor's Postscript
+08	010	New Year	Yohan	Poem
+08	020	The Decisiveness and Perseverance of Korean Youth	San'ong	Editorial/Article
+08	030	Our Position		Miscellaneous Writing
+08	040	From Rock Worship to Megalithic Culture	Ch'oe Namsŏn	Editorial/Article
+08	050	Warning for Yuktang (Ch'oe Namsŏn)		Miscellaneous Writing
+08	060	Individual and Society, From the Small Self to the Great Self, From Partial Mind to Whole Mind	Kim Yun'gyŏng	Editorial/Article
+08	070	An Example of How to Write Hancha Pronunciation		Miscellaneous Writing
+08	080	The Meaning of Culture, (Appendix) The Ideal of Humanity	Yi Kyŏngnyŏl	Editorial/Article
+08	090	The Philosopher Socrates	Kim Yŏngjin	Miscellaneous Writing
+08	100	Essay: The King's Treasure	John Ruskin (Original), Yŏsim (Translator)	Literature/Miscellaneous
+08	110	Master T'oegye Said...		Miscellaneous Writing
+08	120	Our National Movement as Seen from the Theater World	Hyŏn Ch'ŏl	Editorial/Article
+08	130	Chungang High Common School Song	Lyrics by Yuktang, Music by Kim Yŏnghwan	Poem
+08	140	Some Examples of Our Writing System Notation		Survey/Questionnaire
+08	150	Han'gŭl Debate		Editorial/Article
+08	160	Legends of History		Miscellaneous Writing
+08	170	This Moment is Art	Yi Chu-man	Literature/Miscellaneous
+08	180	Causes, Symptoms, and Treatment of Venereal Disease, Health Column: Hygiene Lecture	Professor Yi Yong-sŏl, Severance Medical College	Editorial/Article
+08	190	Katedro Esperanta (Esperanto Lecture)	Kim Ŏk	Miscellaneous Writing
+08	191	First List of Tonggwang Society Members (Received up to February 15, 1926) (Honorifics omitted)		Miscellaneous Writing
+08	200	Overview of the Pyŏngin (1926) Literary Scene, Bird's-Eye View of Criticism, Poetry, and Novel Circles, Completion of Korean Literature is Our Goal	Yang Chudong	Literary Criticism
+08	210	One Year in the Literary World, Common Sense Literature Theory, "New Tendency School," Chŏngŭm Commemoration, Active Combat Units	Kim Kijin	Literary Criticism
+08	220	Departed Lover	Chŏng Inbo	Poem
+08	230	Namdaemun Gate	Kim Yŏsu	Poem
+08	240	Song of Hometown (Folk Poem)	Kim Ansŏ	Poem
+08	250	Old Poem		Poem
+08	260	Loss of Truth	Yi Kiyŏng	Novel
+08	270	Farewell Address	Ch'oe Sŏhae	Novel
+08	280	Dog Food	Chu Yosŏp	Novel
+08	290	Paradise of a Moment	Pang In'gŭn	Novel
+08	300	Lovely Demon	Yi Iksang	Novel
+08	310	Nam Ch'ungsŏ (Part 1)	Yŏm Sangsŏp	Novel
+08	320	To Young Friends in the New Year		Poem
+08	330	The Lute (Play)	Gao Ming (Yuan Dynasty) (Original), Adapted by Yang Paekhwa (Korea)	Play/Scenario
+09	010	Eel and Carp		Editorial/Article
+09	020	Sense of Responsibility for Business, Conscious Businessperson is a True Businessperson, Professional Patriot is a True Patriot)	San'ong	Editorial/Article
+09	030	Practical Effort, Action, Trustworthiness, Courage: Essential Elements for Personality Completion and Unity Training	Kim Yun'gyŏng	Editorial/Article
+09	040	Our Position		Editorial/Article
+09	050	Man of Stature - Mr. Yun Ch'iho	Yi Kwangsu	Memoir/Reminiscence
+09	060	The Educator of Mankind Pestalozzi's Life and His Work, Commemorating the 100th Anniversary of Pestalozzi's Death	Yi Yunjae	News/Report
+09	070	Changes in Language Due to Habit	Yi Pyŏnggi	Editorial/Article
+09	080	On the Meaning and Form of Proverbs, Study of Korean Proverbs	Yi Ŭnsang	Editorial/Article
+09	090	Sŏnch'ŏn Myŏngsin School Song		Poem
+09	100	What is the Sokol Movement, the Essence of the Czech Nation? Physical and Mental Health Have a Great Relationship with Gaining National Freedom	Pak Ch'ŏn'gyu	News/Report
+09	110	Overview of Kropotkin's Mutual Aid, Natural Science Lecture	Translated by Yusu	Editorial/Article
+09	120	Regarding Textbooks for Korean History	Mun Ilp'yŏng	Editorial/Article
+09	130	Four Types of Human Blood Seen Through Serology	Paek Injé	Editorial/Article
+09	140	Story of Orthopedic Surgery, From Physical Correction to Psychological Correction	Professor Yi Yong-sŏl, Severance Medical College	Miscellaneous Writing
+09	150	Yŏngnam Folk Song	Hŭngsŏp	Poem
+09	160	Morning	Kang Pyŏngju	Poem
+09	170	Three Recent Stanzas	Yang Chudong	Poem
+09	180	Seagull	Uidong In from Tōkyō	Poem
+09	190	Han'gŭl Debate (2), Refuting Mr. An Kwak's Reckless Argument	Hanmoe	Editorial/Article
+09	200	Organization of Root Vowel Changes	An Chasan	Editorial/Article
+09	210	To Those Wishing for Manuscript Correction		Announcement/Editor's Postscript
+09	220	Kŏmdong'i (Children's Song)	Yuk Minch'ŏl	Poem
+09	230	Let's Go Gather Herbs (Children's Song)		Poem
+09	240	Mountain (Children's Song)		Poem
+09	250	The Girl Who Spins Thread (Children's Story)	Kim T'aeo	Novel
+09	260	Field at Dusk	Yu Tosun	Poem
+09	270	Drawing a Friend	Kim Nanch'on	Poem
+09	280	Water Mill	Chŏn Chonghwan	Poem
+09	290	Spring is Coming, But...	Hong Usŏk	Poem
+09	300	Katedro Esperanta (Esperanto Lecture Part 2)	Kim Ŏk	Miscellaneous Writing
+09	301	Company Announcement		Announcement/Editor's Postscript
+09	310	Nam Ch'ungsŏ (Part 2)	Yŏm Sangsŏp	Novel
+09	320	Low Song on New Year's Eve	Kim Ansŏ	Poem
+09	330	Ascending T'onggun Pavilion on an Autumn Day, Sent to an Old Friend (2 Poems)	Munam	Poem
+09	340	The Lute (Play)	Gao Ming (Yuan Dynasty) (Original), Adapted by Yang Paekhwa (Korea)	Play/Scenario
+09	341	November Prize Contest Answer Announcement (Continued)		News/Report
+10	010	Welcoming Spring		Literature/Miscellaneous
+10	020	Study of Ancient Korean Culture, Religious and Folkloristic Study of Ancient Korean Religion (1)	Son Chint'ae	Editorial/Article
+10	030	History of Prehistoric Painting, Art Lecture	Kwŏn Kuhyŏn	Editorial/Article
+10	040	The Anglo-Saxon Race as Seen by a Frenchman, Enjoying Supremacy and Maximum Happiness in the World	Yun Ch'iho	Editorial/Article
+10	050	Kant and Hume, On the Problem of Causality	Yi Kyŏngnyŏl	Editorial/Article
+10	060	Advocacy for Sex Education	Kim Yun'gyŏng	Editorial/Article
+10	070	Science and Hobby		Miscellaneous Writing
+10	080	Miscellaneous Views of the Yenching Suburbs, Rare Nan'gou Battle Sites in East Asian History	Yusu	Travelogue
+10	090	Blood Transfusion = How to Transfer Blood, Four Types of Human Blood Seen Through Serology (2)	Paek Injé	Editorial/Article
+10	100	Train Travel in America	Im Yŏngbin	Travelogue
+10	110	Price of the British Monarch's Crown		News/Report
+10	120	Argument Against Pyŏngsŏ (Consonant Clusters), Han'gŭl Debate (3)	An Chasan	Editorial/Article
+10	130	Let's Go Back, Back to Hometown	Karam	Poem
+10	140	Sun	Cho Un	Poem
+10	150	Comrade!	Chŏng Pyŏngsun	Poem
+10	160	To Parents - Educating Children	Pak Hyŏnhwan	Miscellaneous Writing
+10	170	Hamhŭng Naguhoe (Music Friends Association) Song	Lyrics by Hwang Un, Music by Composition Dept.	Poem
+10	180	The Goat's 60th Birthday Banquet (Children's Story)		Novel
+10	190	Youth Historical Story: Chiŭn's Filial Piety		Literature/Miscellaneous
+10	200	Gathering Herbs	Kim T'aeo	Poem
+10	210	Songdo High Common School Song	Lyrics by Yi Sangch'un	Poem
+10	220	P'yŏngyang Sungsil School Song		Poem
+10	230	Haedong Soksohak (Continuation of the Lesser Learning of Korea)		Literature/Miscellaneous
+10	240	Katedro Esperanta (Esperanto Lecture Part 2)	Kim Ŏk	Literature/Miscellaneous
+10	250	Song of Defying Heaven and 3 Other Poems	P'ain	Poem
+10	260	Wayfarer's Song and 3 Other Poems	Kim Tongmyŏng	Poem
+10	270	Masterpiece Painting "Lydia"	Kim Tongin	Novel
+10	280	Sixteen Won	Chongmyŏng	Novel
+10	290	The Lute (Play)	Gao Ming (Yuan Dynasty) (Original) Adapted by Yang Paekhwa (Korea)	Play/Scenario
+11	010	Spring Rain		Poem
+11	020	Optimism and Pessimism	San'ong	Editorial/Article
+11	030	Tan'gun of Ancient Chosŏn	Yi Nŭnghwa	Editorial/Article
+11	040	Advocacy for Sex Education (Continued)	Kim Ch'unggyŏng	Editorial/Article
+11	050	History of Prehistoric Painting (Part 2), Art Lecture	Kwŏn Kuhyŏn	Editorial/Article
+11	060	Study of Ancient Korean Culture, Religious and Folkloristic Study of Ancient Korean Religion (2)	Son Chint'ae	Editorial/Article
+11	070	Let's Speak Correctly, Common Phrases Whose Usage Should Be Improved in Light of the Times	Yi Tongwŏn	Editorial/Article
+11	080	Strengths and Weaknesses of the Chinese National Character	Haesŏng	Editorial/Article
+11	090	Shanghai Commercial Press, A Glimpse of the Chinese Business World (2), Founded with Small Capital, Now a Major Cultural Institution with Total Capital of Five Million Won after 30 Years	Ch'a Risŏk in Shanghai	News/Report
+11	100	Theory on Bargaining	Sŏ Ch'un	Editorial/Article

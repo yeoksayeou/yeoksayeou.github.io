@@ -1,0 +1,201 @@
+Magazine Title: 동광 제15호
+Publication Date: 1927년 07월 05일
+Article Title: 速修人物畵 講義 (A Crash Course Lecture on Portraiture)
+Author: 權九玄
+Article Type: 문예기타 (Arts/Miscellaneous)
+
+五. Tilting the Head Left and Right (Figure 7)
+
+A in Figure 7 shows the side view when the head (頭) is tilted to the right. As in A, the starting points of the various horizontal lines for eyebrows (眉), eyes (眼), nose (鼻), mouth (口), etc., are unchanged, and arc lines (弧線) are drawn parallel to these, heading upwards. The eyebrows, eyes, mouth, etc., tilt along this chord line (弦線). However, the angle of the arc line will naturally vary in steepness depending on the angle of the tilt. In this case, as the outer corner of the eye (外眦), wing of the nose (鼻翼), corner of the mouth (口角), etc., are raised, the nostril (鼻穴) and the bottom surface (底面) of the lower jaw (下顋) become visible. The position of the ear (耳) also naturally changes according to this proportion. C in the figure shows the side view when the head is tilted to the left; this is the exact opposite of B, with the arc line heading downwards. Consequently, the outer corner of the eye, wing of the nose, corner of the mouth, etc., point downwards, and the nostril and bottom surface of the lower jaw become completely hidden.
+
+Figure 7
+
+六. Front View of Head Tilted Forward and Backward (Figure 8)
+
+B in the figure shows the head looking up, which is called an upward-looking face (仰面). <50> However, since the principle (理法) is the same as in the previous chapter, I will omit the details, but one must pay attention that the positions of the outer corner of the eye, wing of the nose, corner of the mouth, and ear, etc., move downwards, and at the same time, each part becomes shortened compared to the level view. Furthermore, the bridge of the nose (鼻梁, 코ㅅ등) is not visible, and only the tip of the nose (鼻端) shows the base of a triangle. The forehead (額面) becomes shorter and narrower, and the area from the mouth downwards appears elongated because the bottom surface of the lower jaw is added. In such cases, the space between the eyebrows and eyes also appears particularly wide.
+
+Figure 8
+
+C is the downward-looking face (俯面圖); I believe it will be sufficiently understood without further explanation that the arc line should be drawn in the opposite direction to the upward-looking face. However, please pay particular attention to the following points:
+The outer part of the eyebrow, the outer corner of the eye, the wing of the nose, the corner of the mouth, etc., point upwards, and consequently, each part is shortened vertically, following the same principle as the upward-looking face. And the reason the area above the eyebrow position appears particularly wide is that the top part of the cranium (顱頂部, 장구리) is added. <51>
+The position of the ears is raised together on both sides, and the distance between the nose and mouth is shortened, while at the same time the nostrils (鼻穴) are hidden; people with what is commonly called a lion's nose (獅子鼻) are thought to be the best example in this position.
+
+七. Double Tilt in Three-Quarter Position (Figure 9)
+
+Here, double tilt (二重傾斜) refers to cases where the axis (樞軸) of the head forms a compound angle. A in the figure shows a single-angle tilt, B is an upward double tilt, and C is a downward double tilt. Since I think the principle (理法) can be understood by referring to the explanations for Figures 8 and 9 [Note: Likely a typo, should refer to Figures 7 and 8], I will omit the explanation.
+
+Figure 9
+
+八. General Forms of Both Sexes (Figure 10)
+
+Looking at 甲 in Figure 10, one can see the distinction between male and female. However, speaking of the characteristics individually, men are generally built more robustly (頑强하게) than women; that is, the forehead (額面), cheekbones (顴骨), lower jaw (下顎), etc., are clearly broader, revealing at a glance a dignified masculine air (男牲的 氣風). However, women, in contrast, are characterized by the fact that their overall structure is delicate and soft (纖弱柔軟).
+
+Figure 10
+
+九. Position of the Neck
+
+乙 in Figure 10 is an explanatory diagram of the neck region (頸部). The method is, in a natural position, to draw parallel horizontal lines backward from the tip of the nose (鼻端) and the lower jaw (下顋); this determines the position of the external occipital protuberance (外後頭結節, the point where the trapezius muscle attaches to the occipital bone) and the seventh cervical vertebra (第七頸椎). This is the back length of the neck.
+Draw a diagonal line from the seventh cervical vertebra towards the suprasternal notch (胸骨上窩), and then draw... a parallel diagonal line to this <52> from the external occipital protuberance; this determines the position of the front part of the neck. However, it naturally allows for expansion and contraction (伸縮) depending on how the head is tilted down, up, or sideways.
+
+十. Solid Planes of the Head (Figures 11 and 12)
+
+The positions of the head have limitless variations, but I believe the general principles have been explained accordingly. Detailed explanations for each part like eyes, nose, mouth, ears, etc., will be postponed to the next installment, but here, out of necessity, I will briefly mention the solid planes (立體面) of the head.
+
+Figure 11
+
+Knowledge of expressing three-dimensional forms (立體形) was entirely lacking (缺乏) in planar East Asian painting (東洋畵), it could be said. The main reason for this can be seen as a lack of anatomical (解剖學的) research regarding the forms of objects. I believe everyone already well knows this is particularly true for human figures, without needing further explanation. However, since an explanation for this will naturally come later, I will first briefly state the principles of the head's solid planes.
+Let's first assume the solid form of the human head is a succession of independent flat planes.
+(1) Front of the Face (顔)... Single (單)
+(2) Cheek Plane (頰面)... Pair (對)
+(3) Bottom Plane of Lower Jaw (下顎底面)... Single (單)
+(4) Temporo-cranial Plane (顳顱面)... Pair (對)
+(5) Cranium Top Plane (顱頂面)... Multiple (複)
+(6) Occipital Plane (後頭面)... Single (單) <53>
+
+Figure 12
+
+(1) The front of the face is surrounded by the cranium top plane, the left and right temporo-cranial planes, and the bottom plane of the lower jaw; the eyes, nose, mouth, etc., belong within this territory (版圖). There is some difference in height between the forehead area (額部) and its lower part, and also several small planes, but for convenience, it is considered as one plane here.
+(2) The cheek plane has an irregular diamond shape (不正菱形) and forms two planes, left and right. The upper part connects to the temporo-cranial plane via the zygomatic arch (顴骨橋), and the lower part connects to the bottom plane of the lower jaw via the lower edge of the mandible (下顎下綠). The front part is the front plane, and the rear part continues to the side of the neck (頸側).
+(3) The bottom plane of the lower jaw connects with the front plane and cheek plane via the lower edge of the mandible, and the rest connects with the front part of the neck.
+(4) The temporo-cranial plane consists of left and right planes; it connects to the front plane and cranium top plane via a semicircular line (半月狀線), and the rear edge connects with the occipital bone (後頭骨).
+(5) The cranium top plane is an aggregation (集合形) of numerous small planes, so it cannot be seen as a single flat plane. The front edge occupies the upper part of the forehead plane (額面), and the rest connects with the four surfaces: the left and right temporo-cranial planes and the occipital bone plane (後頭骨面).
+(6) The occipital bone plane is somewhat triangular; the two upper sides connect to the cranium top plane, and the apex of the triangle corresponds to the location of the occipital angle (後頭隅).
+Furthermore, the standard form (正形) of the nose is specifically composed of five small planes: namely, the front nasal bridge plane (鼻梁面), the two side planes (left and right), and one small plane between the nasal bridge plane and the bottom plane. This can be well understood by looking at Greek sculptures (希臘의 彫像).
+When beginners sketch (寫生) live models or sculptures, the place they find most confusing (迷惑) is precisely the direction of the various planes. Although it is extremely difficult (至難) to perceive clear boundaries (境界) as described above in actual objects, I believe that fully understanding (解得) the principles as stated above will be greatly beneficial (10분의 補益) for study. -To be continued- <54>
+
+**Summary**
+
+This article by Kwon Ku-hyŏn provides a technical guide for drawing the human head, focusing on how features change perspective when the head is tilted left/right, up/down (俯仰), or in a three-quarter view with a "double tilt." It discusses the proportional shifts, foreshortening, and visibility of different facial parts (like nostrils, jawline) based on angle. The author also contrasts general male and female facial structures, explains neck placement relative to facial landmarks and vertebrae, and introduces the concept of depicting the head using distinct geometric planes (立體面) for achieving a three-dimensional effect, referencing Greek sculpture as an example and noting this approach was lacking in traditional East Asian painting (東洋畵). From a historical perspective, the article is interesting as it clearly shows the adoption and teaching of Western academic art techniques (perspective, anatomical breakdown, planar analysis) in Korea during the colonial period (1927). The explicit mention of the "lack" in traditional "東洋畵" (East Asian Painting) and the reference to Greek sculpture highlight a shift towards Western artistic models and anatomical study, likely influenced by Japanese art education reforms that had already incorporated these elements.
+
+**Named Entities**
+
+權九玄	권구현	Kwon Ku-hyŏn
+
+**Glossary**
+
+速修	속수	Crash course, speedy learning
+人物畵	인물화	Portraiture, figure painting
+講義	강의	Lecture
+頭部	두부	Head region
+傾斜	경사	Tilt, slant, inclination
+側面	측면	Side view, profile
+眉	미	Eyebrow
+眼	안	Eye
+鼻	비	Nose
+口	구	Mouth
+弧線	호선	Arc line, curved line
+外眦	외眦	Outer canthus (corner of the eye)
+鼻翼	비익	Ala of the nose (wing of the nose)
+口角	구각	Corner of the mouth
+下顋	하시	Lower jaw, mandible (older term/reading for 하악)
+耳	이	Ear
+俯仰	부앙	Looking down and up; tilting forward and backward
+正面	정면	Front view
+仰面	앙면	Face looking upward
+코ㅅ등	코등	Bridge of the nose (older spelling using ㅅ)
+額面	액면	Forehead area
+俯面	부면	Face looking downward
+顱頂部	노정부	Top part of the cranium
+장구리	장구리	(Archaic/dialectal?) Top/back of the head
+二重傾斜	이중경사	Double tilt/inclination
+樞軸	추축	Axis, pivot
+兩性	양성	Both sexes
+槪形	개형	General form, outline
+頑强	완강	Robust, sturdy, stubborn
+纖弱柔軟	섬약유연	Delicate and soft
+頸部	경부	Neck region
+後頭結節	후두결절	External occipital protuberance
+頸椎	경추	Cervical vertebra
+胸骨上窩	흉골상와	Suprasternal notch
+伸縮	신축	Expansion and contraction; flexibility
+立體面	입체면	Solid plane, three-dimensional surface
+東洋畵	동양화	East Asian painting
+缺乏	결핍	Lack, deficiency
+解剖學的	해부학적	Anatomical
+頰面	협면	Cheek plane
+下顎底面	하악저면	Bottom plane of the lower jaw
+顳顬面	측두면	Temporal plane (part of 顳顱面)
+顱頂面	노정면	Cranial top plane
+後頭面	후두면	Occipital plane
+不正菱形	부정능형	Irregular rhombus/diamond shape
+顴骨橋	권골교	Zygomatic arch (cheekbone bridge)
+下顎下綠	하악하연	Lower border of the mandible
+半月狀線	반월상선	Semicircular line
+後頭骨	후두골	Occipital bone
+集合形	집합형	Aggregate form, composite shape
+後頭隅	후두우	Occipital angle
+希臘	희랍	Greece (older phonetic rendering)
+彫像	조상	Sculpture, statue
+寫生	사생	Sketching from life, drawing from nature
+迷惑	미혹	Confusion, bewilderment (here meaning difficulty/confusion for the learner)
+境界	경계	Boundary, border
+至難	지난	Extremely difficult
+解得	해득	Understanding, comprehension
+補益	보익	Benefit, help, aid (here implying significant help, 10분의 likely means 'greatly' or 'fully' rather than literally 1/10th)
+임니다	입니다	is/am/are (polite ending, older spelling)
+ㅎ지	하지	do not (contraction, older spelling)
+밋	및	and (older spelling)
+붙어	부터	from (older spelling)
+밀우고	미루고	postpone and... (older spelling)
+말슴	말씀	words, speech (deferential), statement (older spelling)
+여긔	여기	here (older spelling)
+몬저	먼저	first (older spelling)
+일우어	이루어	form, make up (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제15호
+발행일	1927년 07월 05일
+기사제목	速修人物畵 講義
+필자	權九玄
+기사형태	문예기타
+
+速修人物畵 講義
+						權九玄
+五. 頭部의 左右兩方 傾斜圖(第七圖)
+第七圖의 A는 머리(頭)를 右方에 傾斜한 側面이니 A와 如히 수평으로 된 眉, 眼, 鼻, 口등의 諸線의 起點을 변ㅎ지 않고 그대로 上方을 향하여 平行으로 된 弧線을 그린 것임니다. 眉, 眼, 口등은 이 弦線을 딸아 함께 傾斜함니다. 그러나 그 弧線의 각도는 경사의 각도에 의하여 緩急이 있을 것은 물론임니다. 이 경우에 있었어는 外眦,  鼻翼, 口角 등이 처들임을 따라서 鼻穴과 밋 下顋의 底面이 들어나게 됨니다. 耳의 位置도 이 比例에 의하여 無論變更하게 됨니다. 圖중의 C는 머리를 左方에 경사한 측면이니 이것은 B와 정반대로 弧線이 下方으로 향하게 된 것임니다. 딸아서 外毗, 鼻翼, 口角 등은 밑으로 숙게 되고 鼻穴, 下顋등의 底面은 아주 아니 보이게 되는 것임니다.
+第七圖
+
+六. 頭部를 前後로 俯仰한 正面(第八圖)
+
+圖中의 B는 仰向한 頭 즉 仰面이라고 하는 것임니다.＜50＞ 그러나 理法은 前章과 같음으로 略省 하나 外眦, 鼻翼, 口角, 及 耳 등의 위치가 나리어 오게 되는 동시에 各部가 平面時보다 단축하여진다는 것을 注意하지 않으면 아니 됨니다. 더욱이 鼻梁(코ㅅ등)은 안보이고 鼻端만이 三角의 低邊을 나타내게 되며 額面은 短狹하여지고 口位로 붙어 下部가 연장하여 보이는 것은 下顋의 底面이 添加하여지는 까닭임니다. 이런 경우에는 眉, 眼間도 특히 넓게 보임니다.
+第八圖
+C는 俯面圖니 仰面時와 반대되는 방향으로 弧線을 긋게 될 것은 다시 설명ㅎ지 않더라도 충분히 이해할 줄로 믿음니다. 그러나 左記의 諸點을 특히 주의하기 바람니다.
+眉의 外方, 外眦, 鼻翼, 口角등은 上向하게 되며 딸아서 各部가 上下로 단축하는 것은 仰面時의 그것과 같은 理法임니다. 그러고 眉位 이상이 특히 넓게 보이는 것은 顱頂部(장구리)가 첨가되는 까닭임니다.＜51＞
+耳의 위치는 左右가 함께 우로 솟게 되며 鼻, 口, 間은 단축하여지는 동시에 鼻穴은 隱蔽되는 것이니 俗 소위 獅子鼻의 人은 이 위치에 있어서 가장 標本이 되리라고 생각함니다.
+
+七. 四分之三 位置의 二重傾斜(第9圖)
+여긔에 二重傾斜라는 것은 頭部의 樞軸이 複角度를 이룰 경우를 말하는 것임니다. 圖중의 A는 單角度의 경사, B는 上向 二重傾斜요. 그러고 C는 下向二重傾斜임니다. 이 理法은 第八, 第九의 해설을 참조하면 了解할 줄로 생각함으로 설명을 略省함니다.
+第九圖
+
+八. 兩性의 槪形(第十圖)
+第十圖중의 甲을 보면 남녀의 구별을 알게 될 것임니다. 그러나 그 특징을 개별하여 말하자면 男子는 일반적으로 여자보다 頑强하게 되어 있는 것이니 즉 額面, 顴骨, 下顎등이 확연히 광대하여 一見에 곳 엄연한 男牲的 氣風이 나타나는 것임니다. 그러나 여자는 이와 반대로 제반 구조가 纖弱柔軟한 것이 그 특징이라고 볼 수 있음니다.
+第十圖
+
+九. 頸部의 位置
+第十圖의 乙은 頸部의 說明圖임니다. 이 法式은 自然的 위치에 있어서 鼻端과 下顋로붙어 後方을 향하여 並行水平線을 그으면 外後頭結節(僧帽筋의 後頭骨에 부착하는 점)과 第七頸椎의 위치를 얻게 됨니다. 이것이 頸部의 뒤ㅅ길이임니다.
+第七頸椎로붙어 胸骨上窩를 향하여 斜線을 긋고 다시 外後頭結節로붙어... 이것과＜52＞ 평행사선을 그으면 頸의 前部 위치를 정하게 됨니다. 그러나 머리를 俯仰傾斜하는 여하에 의하여 伸縮이 自在할 것은 물론임니다.
+
+十. 頭部의 立體面(第十一 及 十二圖)
+頭部의 위치는 그 변화가 제한이 없는 것이나 그 大體上 법칙은 그대로 설명된 줄로 믿음니다. 그러고 眼, 鼻, 口, 耳등 各部에 대한 상세한 설명은 次回로 밀우고 여긔에서는 필요상 잠깐 頭部의 立體面을 말슴하여 두겠음니다.
+第十一圖
+立體形을 표현하는 知識은 平面的인 東洋畵에 있어서는 전연 缺乏하였다고 하여도 가함니다. 이것의 그 주요한 원인은 物相에 대한 解剖學的 硏究가 부족한 탓이라고 볼 수 있을 것임니다. 더욱이 人物에 있어서 그러한 것은 구타여 설명을 기달일 것 없이 누구나 다 잘 알 줄로 생각함니다. 그러나 이에 대한 解說은 장차 자연이 있게 될 것임으로 위선 간단히 頭部의 立體面의 法則을 말슴하겠음니다.
+여긔서 몬저 人頭의 立體를 각각 독립한 평면의 연속으로 가정하여 둡시다.
+(1) 顔의 正面... 單
+(2) 頰面... 對
+(3) 下顎底面... 單
+(4) 顳顱面... 對
+(5) 顱頂面... 複
+(6) 後頭面... 單＜53＞
+第十二圖
+(1) 顔의 정면은 顱頂面, 左右의 顳顬面, 下顎底面 등으로 四圍되고 眼, 鼻, 口등은 이 版圖내에 속하는 것임니다. 額部와 그 하부 사이에는 다소의 고저가 있고 또 數個의 小面이 있으나 便宜上 여긔에서는 一面으로 간주하여 둠니다.
+(2) 頰面은 不正菱形으로 左右 二面을 일우어 있는 것이니 상부는 顴骨橋에 의하여 顳顬面에 접하고 하부는 下顎下綠에 의하여 下顎底面에 접하여 있음니다. 그러고 前部는 정면이오. 후부는 頸側에 連續함니다.
+(3) 下顎底面은 下顎下綠에 의하여 正面 及 頰面에 相接하고 기타는 頸의 前部와 連합니다.
+(4) 顳顬面는 左右兩面으로 된 것이니 半月狀線에 의하여 正面 及 顱頂面에 접하고 後邊은 後頭骨과 連面함니다.
+(5) 顱頂面은 다수한 小面의 集合形임으로 단일한 평면으로 볼 수는 없음니다. 前邊은 額面의 상부를 점유하고 기타는 좌우의 顳顬面 及 後頭骨面의 四面에 접함니다.
+(6) 後頭骨面은 다소 삼각형으로 된 것이니 상부의 二邊은 顱頂面에 접하고 三角의 頂點은 後頭隅의 위치에 상당함니다.
+그러고 鼻의 正形은 특별히 五個 小面으로 된 것이니 즉 정면의 鼻梁面, 左와 右의 二側面 鼻梁面과 底面간의 一小面등임니다. 이것은 希臘의 彫像같은 것을 보면 잘 이해할 수 있음니다.
+初學者가 活人이나 彫像같은 것을 寫生할 때에 第一 迷惑하는 곳은 곳 諸面의 방향임니다. 더욱이 實物에 있어서는 上述과 如히 瞭然한 境界를 인식하기 至難한 것이나 如上한 理法을 충분히 解得한 다음이면 硏究上 10분의 補益이 될 줄로 믿음니다. -未完- ＜54＞
+＜50-54＞

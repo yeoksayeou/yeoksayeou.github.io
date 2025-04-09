@@ -1,0 +1,251 @@
+Magazine Title: 동광 제27호
+Publication Date: 1931 November 10
+Article Title: 科學페지 (Science Page)
+Author: Not specified
+Article Type: 소식 (News/Updates)
+
+**Science Page**
+
+**Number of Elements**
+The number of elements discovered to date is 92. It was 160 years ago that Sweden's Scheele (쉘리) first discovered an element.
+
+**Medical Progress and Patients**
+Among the advancements of modern science, few have made such great strides as medicine. However, while medicine continuously develops, doctors also become increasingly specialized, making it easy for patients to suffer unnecessarily if they are not careful. For example, appendicitis, which could be immediately cured by surgery if examined by a surgeon, might cause months of suffering if shown to an internist. There are also cases where pyelonephritis (腎孟炎), diagnosed at a glance by a gynecologist, was misdiagnosed by an internist for several months.
+
+**Poison Gas**
+There are broadly 5 types of poison gas.
+Sneezing gas
+Tear gas
+Toxic gas
+Asphyxiating gas
+Blistering gas
+Among these, the most potent is the blistering type called "Yperite" (「입펄리트」). Just 1 kilogram of it can reliably poison large cities like Tokyo (동경) or Osaka (大阪), and only one-tenth of that amount is sufficient to cause mere anxiety and discomfort. Poison gas can be sprayed from airplanes or fired from artillery. In future wars, poison gas attacks on industrial cities will become a very important battle strategy (戰衛).
+
+**Shortwave and Ultra-Shortwave**
+In wireless telegraphy communication, it was once thought that only long wavelengths yielded good results, and wavelengths from several thousand meters up to tens of thousands of meters were used. Recently, however, communication using short wavelengths has become popular, and even more recently, ultra-shortwave communication using wavelengths below 5 meters is in vogue. This allows for a large number of non-interfering frequencies, offering the convenience (使宜) of enabling multiple simultaneous communications in the same area. This has great advantages for military use, meaning it will be utilized by infantry, artillery, and air corps.
+
+**Artificial Humans**
+The term "artificial human," robot (로보트), strangely evokes journalistic imagination and appears frequently in newspapers and magazines. However, upon reflection, this is not so surprising. The fact that an artificial human can walk, perform 20,000 different actions, or record everything said is intriguing because it is concentrated in a small machine, but its inventive novelty (嶄新性) is not that remarkable compared to other things. For instance, aren't radio-controlled airplanes, automatic telephone number dialing, radio broadcasting, or phototelegraphy (전송사진) all super-artificial humans exceeding artificial humans?
+
+**Star of Modern Industry**
+Among modern industries, the one that is the newest and shines most brilliantly like a star is likely the chemical industry. Within it, the remarkable development of the synthetic chemical industry brings humanity close to the position of the creator (造物主).
+The sectors of today's chemical industry are as follows:
+Aerial Nitrogen Fixation
+Urea Synthesis
+Artificial Dye Industry
+Artificial Fragrance Industry
+Pharmaceutical Industry
+Artificial Silk Industry
+Artificial Refined Sake (人造淸酒) Industry
+Camphor/Menthol (樟腦薄荷) Industry
+Nitrate (硝干) Industry
+Cement Industry
+Enameled Ironware (琺瑯鐵器) Industry<63>
+
+Salt Industry
+Soda Ash (曹達灰) Industry
+Bleaching Powder (晒紛) Industry
+Oil Processing/Hardened Oil Industry
+Petroleum Industry
+Pulp Industry
+Celluloid Industry
+Coal Industry
+Rubber Industry
+Liquid Oxygen Industry
+Light Metal Industry
+Photography Industry
+
+**Mechanics and Chemical Industry**
+Within the chemical industry, thanks to recent developments in mechanics, some processes have emerged that utilize high-pressure gas (高壓까쓰) to form compound gases. This high-pressure chemical industry is already widely used in practical applications, and much is expected of it now and in the future for fertilizers, explosives, and fuels.
+(1) Direct Ammonia Synthesis Method: Ammonia is obtained using water and air as basic raw materials. Chilean saltpeter (智利硝石) industry and aerial nitrogen fixation using the coal-nitrogen method have been pushed aside by this invention, and it seems that nitrogen as a raw material for future fertilizers and explosives will all come from this method.
+(2) Methanol Synthesis Method: Hydrogen and carbon monoxide are synthesized to obtain a substance identical to methyl alcohol. Will the solution to the artificial fuel problem arise from here?
+(3) Urea Synthesis Method: Urea is now directly obtained by synthesizing ammonia and carbon dioxide gas. This is said to be an artificial fertilizer possessing more than twice the nitrogen content of ammonium sulfate (硫安), the conventional artificial nitrogen fertilizer.
+
+**Automatic Hydroelectric Power Plant**
+As hydroelectric power plants develop, even waterfalls in deep mountains and remote valleys (深山窮谷) are being utilized. Since it is difficult for employees to go and reside (接住) in such deep mountains, automatic power plants have emerged that are controlled remotely using an automatic system.
+
+**Flight and Instruments**
+When flying long distances in an airplane, one obviously cannot rely solely on sight and hearing to know distance, direction, altitude, etc. Therefore, various instruments (計器) are attached to airplanes, the important ones being these:
+Altimeter: To know the vertical distance from the ground to the aircraft, i.e., the height.
+Bank Indicator (左右傾斜計), Pitch Indicator (前後傾斜計): To display the aircraft's tilt and correct the pilot's misperceptions.
+Compass (羅針盤), Clock.
+Icing Indicator (氷結警報器), Gasoline Pressure Gauge, Engine Tachometer (發動機回傳計), Coolant Thermometer (冷却水寒暖計), Oil Pressure Gauge, Airspeed Indicator.
+
+**Heatless Electric Light**
+Causing beautiful blue, red, green, yellow, etc., glows by passing high-voltage electricity through glass tubes filled with neon gas or helium gas has recently been used for advertising purposes and become famous under the name "neon sign." This is the realization of the "heatless light" that scientists previously said could only be seen in fluorescence (螢光) and called a mystery of nature. Recently, there has been research to domesticate this. That is, if an invention allows the use of low-voltage electricity to produce white light, is less dangerous, and can be used in homes, it will mark a new record in the world of illumination.
+
+**Highest and Lowest**
+The people residing at the highest point on Earth are mountain monks (山僧) living in Tibet (西藏), reportedly at an altitude (海拔) of 4610 meters. In 1875, the Frenchman Mr. Tissandier (치사진君) flew an airplane up to 8,000 meters but lost his life.
+Later, the Berlin (伯林) meteorologist Süring (쥬링), along with Professor Berson (벳슨), ascended to 10,800 meters in the *Preussen* (프로이센號) balloon; they did not die because they had an oxygen apparatus (酸素吸少器).
+An unmanned balloon carrying self-recording instruments went up to 40,000 meters (Note: text says 4천, likely typo for 4만), and free-floating balloons have been seen going up to 4,500 meters (Note: text says 4천5백米).
+Underwater, one cannot go deeper than 30 meters with a normal diving suit (潜水服), and the record even with an improved diving suit was 120 meters. Recently, Mr. Beebe (베베氏) set the deepest record of 432 meters using a special submersible sphere (特殊 沈下球) made of steel.<62>
+
+**Summary**
+
+This 1931 article presents a diverse collection of science and technology news snippets. Topics range from fundamental science (number of elements) and medicine (progress vs. specialization) to applied technologies like poison gas, radio communication (shortwave trends), robotics ("artificial humans"), advanced chemical industries (synthetics, fertilizers, fuels), automated power generation, aviation instruments, novel lighting (neon), and human/technological limits in altitude and depth exploration. The article highlights the rapid pace of innovation and its potential impacts, particularly in industry and warfare. From a historical perspective, the article reveals a keen awareness in colonial Korea of global scientific advancements. The strong emphasis on chemical industries, military applications (poison gas, radio for military use), and industrial processes reflects the era's focus on modernization, industrial power, and the looming possibility of conflict, likely mirroring the priorities and perspectives promoted by the Japanese colonial administration. Historians might note the specific examples chosen (e.g., Yperite effectiveness against Japanese cities, Chilean saltpeter replacement) and the general tone of marvel mixed with practicality as indicative of how global science was presented and understood within the colonial context.
+
+**Named Entities**
+
+瑞典	서전	Sŏjŏn
+쉘리	쉘리	Syelli
+동경	동경	Tonggyŏng
+大阪	대판	Taep’an
+智利	지리	Chiri
+伯林	백림	Paengnim
+佛國	불국	Pulguk
+프로이센號	프로이센호	P’ŭroisŏn-ho
+西藏	서장	Sŏjang
+치사진	치사진	Ch'isajin
+쥬링	쥬링	Chyuring
+벳슨	벳슨	Petsŭn
+베베	베베	Pepe
+
+**Glossary**
+
+元素	원소	Element
+今日	금일	Today (older form)
+햇다	했다	Did (older spelling)
+醫學	의학	Medicine
+長足進步	장족진보	Great strides, rapid progress
+자꼬	자꾸	Repeatedly, continuously (older spelling/colloquial)
+잇다	있다	To exist, to be (older spelling)
+잇고	있고	And there is/are (older spelling)
+腎孟炎	신우염	Pyelonephritis
+毒까쓰	독가스	Poison gas (older spelling '까쓰' for 가스)
+糜爛性	미란성	Blistering, erosive
+입펄리트	이페리트	Yperite (Mustard Gas)
+戰衛	전위	Position, front; here likely means 'strategy' or 'factor'
+短波	단파	Shortwave (radio)
+超短波	초단파	Ultra-shortwave (radio)
+잇어서	있어서	Because there is, in (older spelling)
+하야	하여	Doing, causing, letting (older spelling/form of 하여)
+使宜	사의	Convenience, expediency (less common term)
+人造人間	인조인간	Artificial human, robot
+로보트	로봇	Robot
+저날리스틱	저널리스틱	Journalistic
+嶄新性	참신성	Novelty, originality
+전송사진	전송사진	Phototelegraphy, wirephoto
+明星的	명성적	Star-like, prominent
+行勢	행세	Bearing, appearance, role; acting as
+合成	합성	Synthesis
+造物主	조물주	Creator
+空中窒素固定	공중질소고정	Aerial nitrogen fixation
+尿素	요소	Urea
+人造絹絲	인조견사	Artificial silk (rayon)
+人造淸酒	인조청주	Artificial refined sake (cheongju)
+樟腦薄荷	장뇌박하	Camphor/Menthol
+硝干	초간	Nitrates (likely intended 硝石, 초석, saltpeter)
+琺瑯鐵器	법랑철기	Enameled ironware
+曹達灰	조달회	Soda ash (소다회)
+晒紛	쇄분	Bleaching powder (표백분)
+硬化油	경화유	Hardened oil, hydrogenated oil
+液体酸素	액체산소	Liquid oxygen
+輕金屬	경금속	Light metal
+高壓까쓰	고압가스	High-pressure gas (older spelling '까쓰')
+智利硝石	지리초석	Chilean saltpeter
+되엇다	되었다	Became (older spelling)
+硫安	유안	Ammonium sulfate (abbreviation of 황산암모늄)
+自働	자동	Automatic (older Hanja form, now 자동(自動))
+深山窮谷	심산궁곡	Deep mountains and remote valleys
+接住	접주	To reside nearby, live close to
+計器	계기	Instrument, meter, gauge
+高度計	고도계	Altimeter
+傾斜計	경사계	Inclinometer, tilt meter
+羅針盤	나침반	Compass
+氷結警報器	빙결경보기	Icing indicator/warning device
+發動機回傳計	발동기회전계	Engine tachometer (older term '回傳' for 회전)
+寒暖計	한난계	Thermometer
+無熱電燈	무열전등	Heatless electric light
+헬리움	헬륨	Helium
+螢光	형광	Fluorescence
+젓거니와	졌거니와	Although it became... (older spelling)
+海拔	해발	Altitude, height above sea level
+메트르	미터	Meter (unit of length, older spelling)
+酸素吸少器	산소흡입기	Oxygen apparatus/inhaler (吸少器 is unusual, likely means 吸入器)
+潜水服	잠수복	Diving suit
+沈下球	침하구	Bathysphere, submersible sphere
+
+
+---------------------------
+
+
+잡지명	동광 제27호
+발행일	1931년 11월 10일
+기사제목	科學페지
+기사형태	소식
+
+科學페지
+元素의 數
+今日까지 발견된 元素의 數는 92개다. 지금부터 160년 전에 瑞典의 쉘리가 처음의 原素를 발견햇다.
+
+醫學進步와 病者
+근대과학의 진보중에는 醫學처럼 長足進步한 것이 드물다. 그런데 醫學이 자꼬 발달되는 반면에 의사도 자꼬 전문적으로 나가기따문에 병자가 스스로 주의하지 아니하면 잘못 고생하기가 쉽다. 가령 맹장염을 외과의에게 진찰하면 즉시 手術全治할 수 잇는 것을 내과의에게 보이어서 수개월식 고생할 수도 잇고 婦人科醫가 一見에 진단한 腎孟炎을 내과의가 수개월이나 오진햇다는 등의 例가 잇다.
+
+毒까쓰
+毒까쓰의 종류는 大別해서 5종이 잇다.
+재채기하는 까쓰
+催淚까쓰
+中毒까쓰
+窒息까쓰
+糜爛까쓰
+그 중에 가장 猛烈한 것은 糜爛性인 「입펄리트」라는 것인데 그것 1킬로그람만 가지면 동경이나 大阪같은 큰 도시를 확실히 毒化할 수 잇고 다만 不安과 불쾌만을 주려면 그 10분지 1로 넉넉하다. 毒까쓰는 비행기에서 뿌릴수도 잇고 또 대포로 쏠 수도 잇다. 장래의 전쟁에는 공업도시의 毒까쓰 공격이 매우 중요한 戰衛이 될 것이다.
+
+短波와 超短波
+無線電信의 통신에 잇어서 옛날은 長波長이라야 성적이 좋은 줄 알고 數千 메트르 내지 수만 메트르까지 사용햇으나 최근에 와서는 短波長으로 통신하는 것이 유행이 되고 다시 최근에는 5메트르 이하의 초단파 통신이 유행한다. 이것은 혼선아니되는 파장수를 많게 하야 同時 同地域에서 다수의 통신을 일시에 할 수 잇는 使宜가 잇어 軍用으로 크게 유리한 점이 잇다. 즉 보병, 포병 及 航空隊에서 이용할 것이다.
+
+人造人間
+人造人間 로보트라는 名詞는 기묘하게 저날리스틱한 상상을 이르켜서 신문잡지상에 오르고 나린다. 그러나 생각해보면 이것은 그다지 놀랄것이 못된다. 人造人間이 行步를 한다든지 2만가지의 동작을 한다든지 말하는 것을 다 기록한다든지 하는 것은 그것이 一少型의 機械에 집중되엇으니까 흥미를 끄는 것이지 그 발명적 嶄新性은 다른 것에 비하야 그리 신기할 것이 없다. 가령 비행기의 무선조종이라든가 전화번호의 자동호출이라든가 라디오 방송이라든가 전송사진이라든가 이것이 다 人造人間이상의 超人造人間이 아닌가.
+
+近代工業의 스타
+近代工業中에 가장 新進인 동시에 가장 찬란하게 明星的 行勢를 하는 것은 화학공업일 것이다. 그 중에도 합성화학공업의 현저한 발달은 사람을 조물주의 지위에 가깝게 하는 것이다.
+今日의 화학공업의 부문은 다음같다.
+空中窒素固定
+尿素合成
+人造色素工業
+人造香料工業
+製藥工業
+人造絹絲工業
+人造淸酒
+樟腦薄荷工業
+硝干工業
+세멘트工業
+琺瑯鐵器工業＜63＞
+
+食鹽工業
+曹達灰工業
+晒紛工業
+製油硬化油工業
+石油工業
+펄프工業
+셀류로이드工業
+石炭의工業
+고무工業
+液体酸素工業
+輕金屬工業
+寫眞工業
+
+機械學과 化學工業
+化學工業중에는 최근 기계학의 발달의 덕택으로 高壓까쓰를 이용하야 化合까쓰를 조성하게 된 것이 잇다. 이 高壓化學工業은 이미 실용적으로도 많이 이용되나니 肥料·火藥·燃料 등에 대하야 현재와 장래에 기대됨이 많다.
+(1) 直接 암모니아 化成法. 물과 공기를 基本原料로 해가지고 암모니아를 얻는 것이다. 智利硝石工業과 石炭窒素法에 의한 空中窒素固定法은 이 발명으로 쑥 드러가고 今後 肥料·火藥의 원료로써의 窒素는 다 이 방법으로 될 모양이다.
+(2) 메타놀 合成法. 水素와 一酸化炭素를 合成하는 것인데 메틸알콜과 동일의 물건을 얻는다. 人造燃料問題의 해결은 여기서 생길 것인가.
+(3) 尿素合成法. 암모니아와 炭酸瓦斯의 合成으로 직접 尿素를 얻게 되엇다. 이것은 종래의 인조 窒素肥料인 硫安보다도 2배 이상의 窒素量을 가진 人造肥料라고.
+
+自働水力發電所
+水力發電所가 發達됨이 따라서는 深山窮谷에 잇는 폭포까지 이용하게 되는데 그와같이 깊은 산 속에는 從業員이 가서 接住하기 곤란함으로 이것을 원거리에서 自働式으로 조종하는 自働發電所가 생겻다.
+
+飛行과 計器
+비행기를 타고 원거리를 날라단닐때에 물론 시각 청각에만 의지하고서 거리·방향 高低 등을 알 수가 없다. 그래서 비행기에는 여러 가지 계기가 부속되어 잇는데 중요한 것은 이러한 것들이다.
+高度計. 지면에서 機体까지의 수직거리 즉 높이를 아는 것.
+左右傾斜計·前後傾斜計. 機体의 傾斜를 표시하야 조종자의 착각을 矯正하는 것.
+羅針盤·時計.
+氷結警報器·가솔린 壓力計·發動機回傳計·冷却水寒暖計·油壓計·空氣速度計.
+
+無熱電燈
+네온瓦斯나 헬리움瓦斯를 충만한 유리통 속에 고압전기를 통과시켜 靑·紅·綠·黃 등의 미려한 광채를 發케 하는 것은 최근 廣告衛에 이용되어 「네온싸인」 이라는 이름으로 유명해 젓거니와 이것은 과학자가 종래에 螢光에서만 볼 수 잇다 하야 天然의 신비라고 일컷든 無熱光의 實現으로서 최근에는 이것을 家庭化하자는 연구가 잇다. 즉 高壓電氣로 하지말고 低壓電氣를 가지고 白色光을 나타내고 위험이 적어 家庭에서 사용하게 발명이 되면 照明界에 新記錄을 劃할 것이다.
+
+最高와 最低
+지구상 최고지점에 거주하는 사람은 西藏에 사는 山僧인데 海拔 4610메트르의 지점이라고 한다. 1875년에 佛國人 치사진君은 비행기를 타고 8천 메트르까지 上昇햇으나 생명을 잃고 말앗다.
+그 후 伯林라 氣象學者 쥬링은 벳슨 교수와 함께 프로이센號로 1만8백메트르까지 올라갓는데 酸素吸少器가 잇엇음으로 죽지 않앗다.
+사람이 타지않고 自記測定器를 가진 기구는 4천메트르까지 올라갓고 그냥 날려보낸 기구는 4천5백米까지 가는 것을 보앗다.
+水中에는 보통 잠수복으로 最深30메트르 이하는 못가고 개량잠수복으로도 120메트르가 기록이엇다. 최근 베베氏는 鋼鐵로 만든 特殊 沈下球를 가지고 432메트르의 最深레코드를 지엇다.＜62＞
+＜62-63＞

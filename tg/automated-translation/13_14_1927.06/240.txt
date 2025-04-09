@@ -1,0 +1,216 @@
+**Header Section:**
+Magazine Title: 동광 제14호
+Publication Date: 1927년 06월 01일
+Article Title: 速修人物畵 講義 (A Quick Course in Figure Drawing)
+Author: 權九玄
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+**Body Text Translation:**
+A Quick Course in Figure Drawing
+						Kwŏn Kujŏn (權九玄)
+
+Preface
+
+Among all the myriad forms in the universe, there is nothing that compares to the human being, not only in the beauty of color but also in the infinite changes of intellect, emotion, and will. Therefore, capturing the essence of this spiritually marvelous and mysterious color and emotion and embodying it artistically is no easy task. As you enter this path and engage in research, you will come to understand this, but once you have mastered the secrets of figure drawing, other subjects can be sufficiently accomplished with some care.
+
+Now, I will omit further explanations and proceed to the practical subject matter.
+
+I. Frontal Proportion of the Head (Figure 1)
+
+Figure 1
+Since the most important part of figure drawing is the head, I will begin the explanation with it.
+(1) First, draw a vertical line to determine the length (height) of the head. This is called the central line of the face.
+(2) Divide this line into two equal parts, and draw a horizontal line through that point to determine the height of the eye level.
+(3) Divide the upper part again into four equal sections. Draw a line parallel to the eye level line through the point three-fourths of the way down from the top. This line determines the height of the eyebrows.
+(4) Using that same point (the center of the original vertical line) as the center and the top point (vertex) as the radius, draw a semi-circular line to form the forehead area.
+(5) Using the left and right endpoints of the horizontal eyebrow line (the diameter of the semi-circle) as centers, draw semi-diagonal arc lines connecting to the bottom point of the vertical line corresponding to the chin tip (顋端). This creates an oval shape, which becomes the outline of the face.
+(6) Centered on the vertical line, divide the distance between the point between the eyebrows (glabella) and the chin tip into two equal parts to find the height of the nose tip.
+(7) Using the distance between the eye level and the point between the eyebrows as a reference, divide the space between the nose tip and the chin tip to find the position of the mouth.
+(8) Using the distance between the point between the eyebrows and the nose tip as a standard, determine the upper and lower positions of the ears on the left and right <45>.
+(9) Two-thirds of the height between the point between the eyebrows and the top of the head corresponds to the hairline (生際/髮際).
+(10) The width of an eye is one-fifth of the horizontal line established for the eye level height (i.e., dividing the total width at eye level into five parts). The space between the two eyes is also the same width.
+(11) The width of the nose wings (alae) is equal to the space between the two eyes.
+(12) The width of the mouth is the same as the distance between the pupils when looking straight ahead.
+
+The above merely illustrates one method for the proportions of a well-ordered face. Now, I will introduce another simple method as an example for beginners to apply.
+
+Second Method = Divide the vertical diameter, the central line, of an elliptical-shaped face into four equal parts to determine each position as follows:
+First part: From the top of the head to the hairline.
+Second part: From the hairline to the root of the nose (鼻根).
+Third part: From the root of the nose to the tip of the nose.
+Fourth part: From the tip of the nose to the tip of the chin.
+
+Application = Following the steps below is convenient.
+(1) Arbitrarily draw an oval shape to create the outline of the face.
+(2) Next, draw the vertical line, the central line, and divide it into two equal parts to determine the position of the eyes.
+(3) The rest is similar to the First Method, so it is omitted.
+
+One thing to note here is that when applying the above methods practically, you must absolutely not use tools like compasses, triangles, or rulers.
+You must always use your eyes as the measure, drawing what you see.
+Why is that? Because art does not require geometric accuracy. Human facial features vary greatly (千差萬別) and are not fixed; therefore, the methods described above are merely conceptual standards. Thus, when sketching a sculpture or a person, you must pay attention to their specific characteristics. That is, is the position of the eyes higher or lower than the central line? Is the nose tip higher or lower than the established line? You must observe such things closely, avoid mechanical and mathematical considerations, and determine each position intuitively and emotionally. In other words, do not adhere rigidly to any formula but execute most freely.
+
+II. Side View of the Head (Figure 2)
+
+When drawing a side view face, just as when drawing a frontal view, first create an oval shape using a vertical line and determine the positions of the various parts. Then, draw an arc line extending outward from one endpoint of the horizontal eyebrow line towards the chin tip. From this line, draw another line bending outwards to create the side profile shape of the nose, mouth, chin, etc. For the opposite side profile, draw an arc line from the top of the head (the vertex of the central line) towards the nose tip line to form the back of the head. The eyebrow positions, etc., are drawn horizontally as in the frontal view. However, the position of the ear is set approximately half the distance back from the central vertical line, and the shape of the eye changes to a triangle.
+
+In ancient Egyptian figure paintings or old Chinese paintings, one can often see frontal eyes drawn on side view faces. This is, of course, likely due <46> to a lack of understanding of perspective drawing (透視畵法). However, in childlike drawings or certain designs, such technically incorrect methods can sometimes add charm.
+
+While side view faces were popular in ancient Egyptian and Greek paintings, it is a phenomenon worth noting that frontal faces were predominantly treated in China and Chosŏn (朝鮮). However, one might speculate that the reason for this lies in the fact that the profiles of races with traditionally flat noses lack sharp definition, thus possessing less beauty in contemplation (觀照).
+Figure 2
+
+III. Three-Quarter View Position (Figure 3)
+
+Figure 3 is a top-down view of the head, its plane view. A is the side view. B is the frontal view. C is the three-quarter view position. To elaborate, it is the form when the upper head face is turned from the side view to the frontal view, and then turned again to the position three-quarters of the 90 degrees between the side and frontal views, i.e., between D and E in the diagram. How is this expressed on the picture plane? As shown in Figure 4, the same method as the frontal view is used: first draw an oval shape, draw the central line, determine the height of each part, and then, similar to the side view, revise the outline so that the upper and lower parts extend slightly outward in opposite directions. One thing to note here is that the facial vertical line, which was straight in the frontal view, becomes a curved line (孤線) in the three-quarter view. This line passes through the center of the forehead, mouth, chin, etc., thus becoming like [this curve] in the side view.
+Figure 3
+The positions of the eyes, nose, mouth, ears, etc., are as indicated <47> in Figure 4.
+Figure 4
+The aforementioned three-quarter view position is the method most favored by portrait painters and photographers alike, as this position is most suitable for expressing the characteristics of the face, naturally leading to its wide use. From a drawing perspective as well, it offers many conveniences. Therefore, it is proof of this that East Asian painters lacking anatomical training in figure drawing inevitably produce clumsy works when attempting positions other than this one.
+
+After fully mastering the methods explained above, it is best to practice immediately using sculptures or directly observing faces (models). (Charcoal or soft pencils are suitable for drawing.) That is, first, draw a simple outline to determine the position of the head, then use the central line to determine its direction. Next, determine the heights of the eyes, nose, mouth, etc., with simple lines, and then, while closely observing the structure of the real object (model), draw the shapes of the eyes, nose, mouth, etc., sequentially, aiming for the simultaneous completion of the whole.
+
+In traditional East Asian painting, the convention was to draw the internal parts like eyes, nose, and mouth first, in that order, and finally draw the outline. However, while this sequence might be convenient when trying to express the form directly without using a draft line (稿線/뗏상), it is by no means a suitable sequence for expressing accurate form and lively posture. When drawing any object, one must first establish the overall rough shape and then proceed sequentially from larger sections to smaller sections, from rough to detailed, shifting the brushstroke accordingly.
+Figure 5
+
+IV. Inclination of the Three-Quarter View Position (Figure 6)
+
+An inclined head is more expressive in its action than <48> a frontal or side view, thus requiring even more attention when drawing. However, the drawing sequence is the same as in the previous chapters (frontal or side view), so it is briefly omitted here. Nevertheless, one must note that the lower endpoint of the central arc line shifts to the chin tip. Refer to A and B in Figure 6. (Continued) <49>
+Figure 6
+
+**Summary**
+
+This article by Kwŏn Kujŏn provides a step-by-step guide to drawing the human head, focusing on frontal, side, and three-quarter views. It outlines two methods for establishing facial proportions based on dividing the head vertically and horizontally, detailing the placement of features like eyes, nose, mouth, ears, and hairline. The author emphasizes observing the model's unique features and using intuition over mechanical tools like rulers, advocating for capturing likeness freely rather than adhering rigidly to formulas. It contrasts Western-derived techniques with traditional East Asian approaches, noting the prevalence of frontal views in China and Chosŏn versus side views in ancient Egypt and Greece, and suggesting the three-quarter view is often preferred for its expressiveness and convenience, especially for artists lacking anatomical training.
+
+For historians, the article is interesting as it reflects the introduction and assimilation of Western art techniques (systematic proportion, perspective, anatomical observation) into Korea during the Japanese colonial period (1927). It highlights a conscious effort to modernize Korean art education while still valuing intuitive expression. The comparison between Western/ancient and East Asian artistic conventions, and the explicit mention of shortcomings in traditional East Asian painters due to a lack of anatomical study, points to the cultural and technical shifts occurring in the Korean art world at the time.
+
+**Named Entities**
+
+權九玄	권구현	Kwŏn Kujŏn
+埃及	애급	Egypt (older Korean term)
+希臘	희랍	Greece (older Korean term)
+中國	중국	China
+朝鮮	조선	Chosŏn (Korea)
+
+**Glossary**
+
+人物畵	인물화	Figure drawing/painting
+講義	강의	Lecture; course
+宇宙 萬像	우주 만상	All things/phenomena in the universe
+필적하다	필적하다	To compare with; to rival
+靈妙 不可思議	영묘 불가사의	Spiritually marvelous and mysterious
+情緖	정서	Emotion; sentiment
+具象化	구상화	To embody; to give concrete form
+斯道	사도	This path; this field (referring to art)
+會得하다	회득하다	To master; to grasp thoroughly
+餘分	여분	Surplus; unnecessary part
+略省하다	약성하다	To omit; to abbreviate (older usage)
+頭部	두부	Head (anatomical term)
+縱線	종선	Vertical line
+橫線	횡선	Horizontal line
+眼界	안계	Eye level
+眉	미	Eyebrow
+頭額部	두액부	Forehead area
+顋端	시단	Chin tip (Hanja reading 'si', but refers to 아래턱)
+卵形	난형	Oval shape
+顔面	안면	Face
+輪廓	윤곽	Outline; contour
+鼻端	비단	Nose tip
+鼻翼	비익	Ala (wing) of the nose
+眸子	모자	Pupil of the eye
+楕圓式形	타원식형	Elliptical shape
+生際/髮際	생제/발제	Hairline
+鼻根	비근	Root of the nose
+寸尺	촌척	Ruler; measuring stick (寸 = unit of length, 尺 = ruler)
+幾何學的	기하학적	Geometric
+千差萬別	천차만별	Innumerable differences; great variety
+彫像	조상	Sculpture; statue
+寫生	사생	Sketching from life; drawing from observation
+直觀的	직관적	Intuitive
+感情的	감정적	Emotional
+拘泥하다	구니하다	To adhere rigidly to; to be fixated on
+側面顔	측면안	Side view face
+透視畵法	투시화법	Perspective drawing method
+稚氣	치기	Childishness; immaturity
+觀照	관조	Contemplation; observation
+禿然하다	돌연하다	Abrupt; sudden (here used to mean lacking sharp definition)
+平面圖	평면도	Plane view; top-down view
+弧線	호선	Arc; curved line
+肖像畵家	초상화가	Portrait painter
+描寫	묘사	Depiction; drawing; portrayal
+拙作	졸작	Clumsy work; poor piece of art
+稿線(뗏상)	고선(뗏상)	Draft line; sketch (뗏상 is likely a vernacular term for sketch/draft)
+慣例	관례	Custom; convention
+大局	대국	Overall situation; the whole picture
+槪形	개형	Rough shape; general form
+筆鋒	필봉	Brush tip; style of writing/drawing
+傾斜	경사	Inclination; tilt
+表情的	표정적	Expressive
+
+
+---------------------------
+
+
+잡지명	동광 제14호
+발행일	1927년 06월 01일
+기사제목	速修人物畵 講義
+필자	權九玄
+기사형태	잡저
+
+速修人物畵 講義
+						權九玄
+緖言
+宇宙 萬像 중에서 색상의 美는 물론이거니와 智, 情, 意의 變化 無窮한 점으로도 人間에 필적할 자 없음니다. 딸아서 이 靈妙 不可思議한 색상과 그 情緖의 내용을 捕捉하여 이것을 藝術的으로 具象化하기까지는 容易한 문제가 아님니다. 장차 斯道에 들어오아 硏究를 하여보면 알 것이거니와 그럼으로 人物畵의 妙法을 會得한 다음이면 기타의 諸 物相은 多少의 用心으로 충분히 달성할 수 있는 것임니다.
+그러면 앞으로는 餘分의 설명은 略省하기로 하고 實題에 들어가겠음니다.
+
+一. 頭部의 正面比例(第 一圖)
+
+第一圖
+人物畵의 가장 중요한 부분이 頭部임으로 그것으로붙어 설명을 시작하겠음니다.
+(1) 처음에 한 개의 縱線을 그어서 머리(頭)의 길이(長)를 정함니다. 이것을 面의 正中線이라 함니다.
+(2) 이 線을 二等分하고 다시 그 점을 통하여 橫線을 그어서 眼界의 高位를 정함니다.
+(3) 다시 그 上部를 4등분하고 그 4분지3의 下點을 통하여 眼界의 線과 平行線을 긋음니다. 이 선은 眉의 高位를 정하는 것임니다.
+(4) 다시 同點을 중심으로 하고 頂點을 半徑으로 하여 半圓形으로 線을 그으면 頭額部를 구성함니다.
+(5) 眉部의 橫線 즉 半圓 直徑의 좌우 兩點을 중심으로 하고 半斜의 弧線을 그어서 써 顋端(아래 턱)에 상당하는 縱線의 저점에 연결하면 卵形을 일우게 되는 것이니 이것이 顔面의 輪廓이 됨니다.
+(6) 縱線을 중심으로 하고 眉間의 점과 顋端을 2등분하면 鼻端의 高位를 얻게 됨니다.
+(7) 眼界와 眉間의 距離를 比準하여 鼻端으로붙어 顯端사이를 分劃하면 口의 위치를 얻음니다.
+(8) 眉間과 鼻端의 거리를 표준하여 좌우＜45＞ 耳의 上下 위치를 정함니다.
+(9) 眉間과 頭頂사이의 3분지2의 高位는 生際(髮際)에 相當함니다.
+(10) 眼의 폭은 正中線을 2등분한 즉 眼部의 高位를 정한 橫線의 5等分之1이 되는 것이니 兩眼의 間隔도 이와 같니다.
+(11) 鼻翼(코넓이)의 폭은 兩眼의 간격과 相等함니다.
+(12) 口의 폭은 正視하는 眸子간의 거리와 同함니다.
+이상은 整齊한 顔面의 비례를 표시한 일방식에 불과한 것임니다. 그러면 앞으로는 다시 간단한 방식의 一例를 들어서 初學 諸君의 適用에 任하고저 함니다.
+第二式 = 楕圓式形으로 된 안면의 縱徑 즉 正中線을 사등분하여 좌와 같이 각 위치를 정함니다.
+第一部는 頭頂으로붙어 生際에 至함.
+第二部는 生際로붙어 鼻根에 至함.
+第三部는 鼻根으로붙어 鼻端에 至함.
+第四部는 鼻端으로붙어 顋端에 至함.
+適用 = 左의 순차에 의하면 간편함니다.
+(1) 隨意로 卵圓形을 그어서 顔面의 윤곽을 만듦니다.
+(2) 다음에 縱線 즉 正中線을 긋고 이것을 2등분하여 眼의 위치를 정함니다.
+(3)과 기타는 第一式과 比等함으로 略省함니다.
+여긔에서 한가지 注意할 것은 이상의 法式을 실제적으로 적용할 때에 決ㅎ고 콤파쓰나 삼각 혹은 寸尺같은 것을 사용하여서는 아니 됨니다.
+언제던지 눈에 보이는 대로 즉 눈을 저울 삼아서 쓰지 않으면 아니됨니다.
+웨 그러냐 하면 藝術에는 幾何學的의 정확을 요ㅎ치 않는 까닭입니다. 사람의 面相이라는 것은 千差萬別하여 一定不變하는 것이 아닌 고로 이상에 記述한 法式은 한갓 그 槪念的 표준에 불과하는 것임니다. 그럼으로 彫像이나 人物같은 것을 寫生할 때에는 반듯이 그 특징을 주의하지 않으면 아니되는 것이니 즉 눈의 위치가 中央線보다 올아 가았는가 나리어 가았는가, 또는 鼻端같은 것도 旣定線에서 올아 가았는가 나리어 가았가는 = 이와 같은 것을 細密히 관찰하는 동시에 機械的 數理的 고찰을 피하여 直觀的 感情的으로 각 위치를 정하지 않으면 아니 되는 것이니 즉 어떠한 形式에 拘泥하지 말고 가장 自由的으로 實行하란 말임니다.
+
+二. 頭部의 側面圖(第二圖)
+
+側面顔을 그릴 때에도 정면을 그릴 때와 같이 먼저 一縱線에 의하여 卵圓形을 만들고서 各部의 위치를 정함니다. 그런 다음에 다시 眉部의 橫線 一端點으로붙어 顋端을 향하여 외출한 孤線을 긋고 이 선으로붙어 또 다시 外方을 향하여 屈折한 선을 그어서 써 鼻口 顋 等의 側面形을 만듦니다. 그러고 이와 반대되는 側面은 頭上 즉 正中線의 頂點으로붙어 鼻端線을 향하여 다시 孤線을 그어서 이것으로 頭部의 후면을 만듦니다. 眉間 등은 正面圖와 같이 수평에 의하여 그럼니다. 그러나 耳部의 위치는 中央의 縱線으로붙어 略 2分之1 가량을 後方에 정하게 되고 眼의 正形은 삼각으로 변함니다.
+埃及 古代의 人物畵라던지 中國의 古畵에서는 側面顔에다가 正面眼을 그리어 놓은 것을 종종 볼 수 있음니다. 이것은 물론 透視畵法에 대한 상식이 없는＜46＞ 탓이겠지요. 그러나 稚氣를 띄인 그림이라 던지, 모양 같은 대에는 이와 같은 불합격한 수법이 돌이어 취미를 더하게 하는 수도 있음니다.
+古代 埃及과 希臘 등 古畵에는 側面顔이 유행하였음에 반하여 中國이나 朝鮮에서는 正面顔을 다수로 취급하였음은 우리의 주의하여 볼 현상이라고 하겠음니다. 그러나 이것은 推想하건대 古來 鼻底한 人種의 측면은 그 윤곽에 있어서 禿然한 즉 觀照의 美가 부족한 대에 원인이 있는가 함니다.
+第二圖
+
+三. 四分之三의 位置(第三圖)
+
+第三圖는 우에서 나리어다 본 頭面 즉 그 平面圖임니다. A는 側面. B는 正面. C는 四分之三의 위치임니다. 자세히 말하면 上部頭面을 측면으로붙어 正面에 돌리었다가, 다시 側面과 正面間 즉 圖중의 D, E간 90度의 4분지3의 위치에 돌리어 놓은 형태임니다. 이것을 畵面에 표현할 때에는 어떻게 하느냐 하면 第四圖에 표시한 것과 같이 正面圖와 동일한 방식을 취하는 것이니 먼저 卵圓形을 그리고 正中線을 그은 다음에 각부의 高位를 정하여 놓고 側面圖와 같이 上部와 下部를 서로 반대되는 방면으로 다소 外出하도록 외곽을 修訂하는 것임니다. 여긔에서 한가지 주의할 것은 正面圖에서는 직선이었던 顔部의 縱線이 4분지3의 時에는 孤線으로 변하는 이것임니다. 이 선은 額, 口, 顋 등의 중앙을 貫通하는 것인 고로 側面圖인 때에는 右와 같이 되는 것임니다.
+第三圖
+眼, 鼻, 口, 耳 등의 위치는 第四圖 중에＜47＞ 표시한 바와 같이 되는 것임니다.
+第四圖
+如上한 4分之3의 위치는 肖像畵家나 기타 사진사들이 가장 得意的으로 取擇하는 방식이니 이 위치는 顔面의 특징을 표현하기에 가장 적합한 까닭으로 자연히 넓이 통용되는 것임니다. 描寫 상으로 볼찌라도 비교적 便宜한 점이 많음니다. 그럼으로 인물에 대한 解剖學的 修練이 부족한 東洋畵家들이 이 위치 이외의 방식을 取할 때에는 반듯이 拙作을 만들고 마는 것은 이것의 實證임니다.
+이상에 설명한 法式을 충분이 會得한 다음에는 곳 彫像이나 직접 8면을 대상으로 하고 연습하는 것이 좋음니다.(用筆은 木炭 혹은 軟柔한 연필 등이 可함.) 즉 처음에는 간단한 선으로 외곽을 그리어서 頭部의 위치를 정한 다음에 正中線으로써 그 방향을 정함니다. 그러고 다시 眼, 鼻, 口 등의 高位를 간단한 선으로써 결정한 뒤에 實物(모델)의 조직을 細密히 관찰하여 가며 眼, 鼻, 口 등의 형체를 次第로 描寫하여 전체의 완성을 동시에 일우도록 하는 것임니다.
+재래 東洋畵에서는 眼, 鼻, 口의 次第로 내부의 부분 부분을 먼저 그린 다음에 끝으로 외곽을 그리는 것이 慣例이었음니다. 그러나 이 順次는 혹 稿線(뗏상)을 쓰지 않고서 바로 形象을 표현하려 할 때에는 편리할는지 모르나 정확한 형체와 생기있는 자세를 표출하려면 결ㅎ고 적당한 순차라고 할 수 없음니다. 어떠한 物象이던지 描寫할 때에는 반듯이 大局의 槪形을 먼저 정한 다음에 순서적으로 大部局으로붙어 小部局으로 조잡에서 세밀로 筆鋒을 옴기지 않으면 아니 됨니다.
+第五圖
+
+四. 四分之三 位置의 傾斜度(第六圖)
+
+傾斜한 頭面은 정면이나 측면보다는＜48＞ 그 작용이 表情的이니 만큼 묘사할 때에는 일층 주의를 요하는 것임니다. 그러나 描寫의 순서는 前章 즉 정면 혹은 側面時와 동일한 것임으로 여긔에는 略省하거니와 中央에 있는 弧線의 下端點이 顋端으로 옴기어지는 것임을 주의하지 않으면 아니됨니다. 즉 第六圖의 A, B와 加함니다.(續)＜49＞
+第六圖
+＜45-49＞

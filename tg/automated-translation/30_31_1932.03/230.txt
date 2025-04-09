@@ -1,0 +1,65 @@
+Magazine Title: 동광 제31호
+Publication Date: 1932년 03월 05일
+Article Title: 新詩의 添削 (Correction/Editing of New Poetry)
+Author: Not explicitly stated (likely editorial staff)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+Correction/Editing of New Poetry
+
+For all of you diligently striving in New Poetry (新詩), it is a delightful thing that there is remarkable progress among those receiving instruction from the poet Ansŏ (岸曙), Mr. Kim Ŏk (金億). We plan to publish the superior works among them in this magazine. Those who wish to understand poetry should first try writing poetry. We hope you will make much use of this opportunity.
+
+Regulations
+1. Poetry manuscripts will be corrected, critiqued, and returned by mail.
+1. Mr. Kim Ŏk bears all responsibility.
+1. On the envelope (皮封), address it to: Mr. Kim Ŏk, Tonggwangsa (東光社), 91 Chongno 2-ch'ŏngmok (鍾路2丁目), Kyŏngsŏngbu (京城府).
+1. Manuscript return postage must be enclosed (添付). Those without return postage will not be returned. Items with insufficient postage (郵稅 不足) will not be accepted.
+1. To limit the number of submissions (投稿數), a correction fee (添削料) of 30 *chŏn* per 50 lines is required (要함).
+1. The correction fee may be paid with postage stamps (郵票).
+1. Excellent works (우수한 작품) will be published in the pages of *Tonggwang* magazine (동광 誌上). End <72>
+
+**Summary**
+
+This article announces a poetry critique service offered by the prominent poet Kim Ŏk through *Tonggwang* magazine in 1932. It encourages aspiring poets, particularly those working in the "New Poetry" style, to submit their work for personalized feedback and correction. The announcement details the submission process, including the address, the requirement of return postage, and a fee structure (30 *chŏn* per 50 lines, payable even by stamp) to manage volume. It also incentivizes participation by promising publication in *Tonggwang* for outstanding submissions. From a historical perspective, this notice is interesting as it highlights the active cultivation of modern Korean literature (specifically *Sinsi*) during the colonial period, with established figures like Kim Ŏk mentoring new writers via popular magazines. It also provides concrete details about the practicalities and economics (submission fees, postage) involved in literary mentorship and publication at the time.
+
+**Named Entities**
+
+岸曙 金億先生	안서 김억 선생	Ansŏ Kim Ŏk Sŏnsaeng (Mr. Kim Ŏk, pen name Ansŏ)
+京城府	경성부	Kyŏngsŏngbu
+鍾路2丁目	종로2정목	Chongno 2-ch'ŏngmok
+東光社	동광사	Tonggwangsa
+
+**Glossary**
+
+新詩	신시	New Poetry (modern Korean poetry movement)
+添削	첨삭	Correction, editing, critique (of writing)
+精進하시는	정진하시는	Those who are diligently striving/devoting themselves (honorific; older verb ending)
+본지	본지	This magazine
+게재	게재	Publication (in a journal, magazine, etc.)
+皮封	피봉	Envelope
+반환료	반환료	Return fee (specifically, return postage)
+郵稅	우세	Postage
+식	씩	Each (particle indicating distribution; older spelling '식')
+添削料	첨삭료	Correction/editing fee
+郵票	우표	Postage stamp
+誌上	지상	In the pages of a magazine/journal
+
+
+---------------------------
+
+
+잡지명	동광 제31호
+발행일	1932년 03월 05일
+기사제목	新詩의 添削
+기사형태	사고·편집후기
+
+新詩의 添削
+新詩에 精進하시는 여러분을 위하야 詩人岸曙 金億先生의 敎授를 받는 諸君의 괄목할만한 진보가 잇는 것은 유쾌한 일이다. 그중 우수한 것은 본지에 게재할 작정이다. 詩를 알고저하는 이는 먼저 詩를 지어보라. 그러고 이 기회를 많이 이용하기 바란다.
+
+규정
+1. 詩의 원고를 添削批評하야 반송함.
+1. 金億선생이 모든 책임을 가짐.
+1. 皮封에는 京城府 鍾路2丁目 91 東光社交 金億선생으로.
+1. 원고반환료를 添付할 것. 반환료 없는 것은 반환치 아니함. 郵稅 不足되는 것은 받지 아니함.
+1. 投稿數를 제한하기 위하야 50行마다 30錢식의 添削料를 要함.
+1. 添削料는 郵票로도 無妨함.
+1. 우수한 작품은 동광 誌上에 게재함. 이상＜72＞

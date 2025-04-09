@@ -1,0 +1,176 @@
+Magazine Title: 동광 제16호
+Publication Date: 1927년 08월 05일
+Article Title: 短期完成 朝鮮速記術(2회) (Quick Completion Korean Shorthand Technique (Part 2))
+Author: 嚴正友
+Article Type: 잡저 (Miscellaneous Writing/Article)
+
+Principles of This Technique's Basic Characters
+
+While it is true that the languages of the world's nations differ vastly according to their peoples, they can be fundamentally divided into two types: 1) Ideographic scripts (意符文) and 2) Phonetic scripts (音符文). Thus, it is a fact that human pronunciation has been devised based on some form of shape or sound. For instance, in our Chosŏn, there is "Ka Kya" (Phonetic script); in Japan, "Iroha" (Phonetic script); in China, "Tiāndì Xuánhuáng" (天地玄黃) (Ideographic script); and in Europe and America, "ABC" (Phonetic script). Based on such differing forms, shorthand techniques also had to be devised from national standard characters or ethnic languages so that the shorthand speed could approximate the speed of pronunciation. However, examining the original plans of existing shorthand characters from various countries reveals they are almost all devised from a single circular shape, as if by agreement. Of course, we are latecomers compared to them, but there is absolutely no need for imitation. Therefore, the unique pride of our "Hangeul" adds a touch of 'gilding the lily' [i.e., enhancing something already excellent]. If the original plan from which the basic characters of this technique were derived is illustrated below, it looks much like an umbrella shape.
+
+Original Plan Diagram
+
+If this is further broken down into consonants and vowels, as illustrated, the vowels are arranged as follows: for simple vowels (ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ), four short lines (ㅏ ㅓ ㅗ ㅜ) centered around the dot (`) in Figure 1, plus the inner arc (ㅡ) and outer arc (ㅣ) appearing on the right angle in Figure 2 are prepared. The remaining four long lines (ㅑ ㅕ ㅛ ㅠ) in Figure 1 are prepared as diphthongs. Since diphthongs are combined sounds of "ㅣ" and simple vowels, they are represented by long lines twice the length of the simple vowels.
+
+For consonants, a single circle (360 degrees) is divided into four equal parts (90 degrees), and except for "ㅅ ㅇ ㅎ," they are represented by arcs relative to the right angle. However, since the aspirated consonants (ㅊ ㅋ ㅌ ㅍ) are formed by combining "ㅈ ㄱ ㄷ ㅂ" with "ㅎ," variations of "ㅈ ㄱ ㄷ ㅂ" are prepared by adding a partial form of "ㅎ" to "ㅈ ㄱ ㄷ ㅂ." The remaining consonants are simple consonants (ㅅ is a variation of ㅁ, ㅇ uses the original Hangeul form as is, and ㅎ is formed from the central large semicircle and a half-straight line).
+
+As described above, the basic characters of this technique are distinguished by the size (large, small), length (long, short), and angle inclination of two circular shapes (large and small), straight lines (直), horizontal lines (橫), vertical lines (縱), chords (弦), and arcs (弧). Furthermore, a dot-adding method (加點法) is used to achieve greater clarity, so refer to all the points of caution described below.
+
+Examples of Basic Characters for Shorthand
+
+Below are examples of basic characters for shorthand, followed by essential points of caution concerning them. <48>
+
+Examples of Basic Characters for Shorthand
+
+1.  For the 'Ah' series (아 행) only, use the vowel characters as they are.
+2.  For the first character of each series like 'Ka, Na, Ta, Ra...' (each series' first level, upper part), use the consonant character as is, but always write it in the first form (一種形).
+3.  For the second character of each series like 'Kya, Nya, Dya, Rya...' (each series' first level, lower part), write it similarly to 'Ka, Na, Ta, Ra...' also in the first form (一種形), but always attach a dot to the right side.
+4.  The so-called arae-a (ㆍ) character should be completely abolished.
+5.  The "ㅅ" or tense s (된 시옷), like ㄲ ㄸ ㅃ ㅉ, should be written as paired sounds. For instance, since ㄲ is two "ㄱ"s and ㄸ is two "ㄷ"s, use a dot in this sense: for ㄲ, attach a dot (`) to the beginning of ) to make the shape of ",", and for ㄸ, attach a dot (`) to ( to make the shape of "‘".
+6.  When consonants like ㄱ ㄴ ㄷ... combine with vowels like ㅏ ㅑ... to form one syllable, write them in the second form (2종형).
+7.  When consonants like ㄱ ㄴ ㄷ... change into final consonants (받침 글자), write them in the third form (3종형).
+8.  Consonants like ㄷ ㅈ ㅊ ㅋ ㅌ ㅍ should also be used as final consonants (받침 글자), just like ㄱ ㄴ ㅂ ㄹ ㅁ ㅅ. (This means using the entire 'Ah' series [vowel symbols] as relationals, the reason being to save effort and also for convenience in complex writing (複文).)
+
+Explanation:
+1.  Dan (段 - Level/Row): The "Ka Kya," "Na Nya," "Ta Dya"... of each series constitute the 1st level; "Kŏ Kyŏ," "Nŏ Nyŏ," "Tŏ Tyŏ"... the 2nd level; "Ko Kyo," "No Nyo," "To Tyo"... the 3rd level; "Kŭ," "Nŭ," "Tŭ," "Rŭ," "Mŭ," "Pŭ"... the 4th level; and "Ki," "Ni," "Ti," "Ri," "Mi," "Pi"... the 5th level. The upper part (上) of each level is designated as 'upper' and the lower part (下) as 'lower.'
+2.  Chong (종 - Type/Size): To distinguish the size of characters, the largest is designated as the 1st type (제 1종) (approx. 5 pun [分, unit of length]), the medium as the 2nd type (제 2종) (approx. 2 pun 5 ri [里, unit of length]), and the smallest as the 3rd type (제 3종) (1/5th of the 1st type). (Continued)
+
+Despite difficulties, a shorthand technique training institute is being established somewhere, and the author of this piece, Mr. Ŏm Chŏng'u, is being invited to serve as an instructor.<49>
+<48-49>
+
+**Summary**
+
+This article excerpt details the principles behind a new Korean shorthand system developed by Ŏm Chŏng'u in 1927. It explains how the basic symbols for vowels and consonants are derived from geometric shapes (circles, arcs, lines) inspired by, but distinct from, foreign systems and adapted specifically for Hangeul. The system uses variations in size, length, angle, and the addition of dots to represent different sounds, including simple vowels, diphthongs, basic consonants, aspirated consonants, tense consonants, and final consonants (batchim), with specific rules outlined for their application. The author emphasizes the unique suitability of Hangeul for creating an efficient shorthand and mentions plans for a training institute. From a historical perspective, this article is interesting as it reflects Korean efforts during the colonial period to modernize and systematize their own language tools, asserting cultural identity and practicality through Hangeul even while acknowledging foreign influences. The development of a distinctly Korean shorthand system highlights adaptation and innovation within the constraints of the era.
+
+**Named Entities**
+
+嚴正友	엄정우	Ŏm Chŏng'u
+朝鮮	조선	Chosŏn
+
+**Glossary**
+
+잡지명	잡지명	Magazine title
+발행일	발행일	Publication date
+기사제목	기사제목	Article title
+필자	필자	Author/Writer
+기사형태	기사형태	Article type
+잡저	잡저	Miscellaneous writing/article
+本術	본술	This technique/method
+基本文字	기본 문자	Basic characters/letters
+原理	원리	Principle
+각양 각색	각양각색	All sorts and varieties; diverse
+판이하다	판이하다	To be entirely different; distinct
+근본	근본	Root; basis; foundation
+意符文	의부문	Ideographic script
+音符文	음부문	Phonetic script
+案出하다	안출하다	To devise; invent; originate
+國定	국정	National standard; government-approved
+民族語	민족어	Ethnic language; vernacular
+속기력	속기력	Shorthand speed
+가급하다	가급하다	To approximate; come close to
+案出	안출	Devising; invention
+決ㅎ고	결코	Never; by no means (older spelling of 결코)
+모방하다	모방하다	To imitate; copy
+한글	한글	Hangeul (Korean alphabet)
+금상첨화	금상첨화	Gilding the lily; adding splendor to something already beautiful
+좌에	좌에	Below; as follows (Classical Chinese influence, 左-)
+割出하다	할출하다	To derive; divide out; carve out
+도시하다	도시하다	To illustrate; show in a diagram
+흡사히	흡사히	Just like; closely resembling (older adverbial form)
+傘形	산형	Umbrella shape
+細別하다	세별하다	To subdivide; classify in detail
+단선	단선	Short line
+직각	직각	Right angle
+內弧	내호	Inner arc
+外弧	외호	Outer arc
+단모음	단모음	Simple vowel; monophthong
+其餘	기여	The rest; remainder
+長線	장선	Long line
+중모음	중모음	Diphthong (lit. middle vowel)
+합음	합음	Combined sound
+倍大長線	배대장선	Double-length long line
+자음	자음	Consonant
+혼성 자음	혼성 자음	Mixed consonant (here refers to aspirated consonants)
+부분형	부분형	Partial form
+변형적	변형적	Variant form (adjectival)
+단성자음	단성 자음	Simple consonant
+원형	원형	Original form
+대반원	대반원	Large semicircle
+반직선	반직선	Half-straight line
+종횡	종횡	Vertical and horizontal
+현	현	Chord (geometry)
+호	호	Arc (geometry)
+경사	경사	Inclination; slant; angle
+加點法	가점법	Dot-adding method
+명료	명료	Clarity; distinctness
+기하다	기하다	To aim for; strive for
+下述	하술	Following description; described below
+긴요하다	긴요하다	To be essential; vital; crucial
+주의점	주의점	Point of caution; thing to note
+아 행	아 행	'Ah' series (syllables starting with vowel ㅇ)
+그대로	그대로	As it is; unchanged
+첫째 자	첫째 자	First character/letter
+반듯이	반드시	Without fail; certainly (older spelling potentially, but common form is 반드시)
+一種形	일종형	First form/type
+우편	우편	Right side (older term for 오른쪽)
+附하다	부하다	To attach; add
+이른바	이른바	So-called
+아레 「·」자	아래아 자	The 'arae-a' character (ㆍ)
+전폐하다	전폐하다	To abolish completely
+된 시옷	된시옷	Tense 's' sound (represented by ㅅ in this old system, distinct from modern ㅆ)
+짝소리	짝소리	Paired sound (refers to tense consonants like ㄲ, ㄸ)
+가령	가령	For example; supposing
+선두	선두	Beginning; front part
+받힘 글ㅅ자	받침 글자	Final consonant (batchim) (older spelling with ㅅ)
+변하다	변하다	To change; transform
+이울다	이루다	To form; constitute (older spelling/form of 이루다)
+2종형	이종형	Second form/type
+3종형	삼종형	Third form/type
+관련사	관련사	Relational word/particle (context suggests a grammatical function in shorthand)
+노력	노력	Effort; labor
+경제	경제	Economy; saving
+複文하다	복문하다	To write complex sentences/texts (likely specific shorthand terminology)
+편의하다	편의하다	To be convenient
+불구에	불구에	Despite difficulties (notwithstanding)
+모처	모처	Somewhere; some place
+강습소	강습소	Training institute; short course school
+설립하다	설립하다	To establish; found
+집필인	집필인	Author; writer (lit. person holding the pen)
+請聘하다	청빙하다	To invite (with courtesy, often for a position)
+교수하다	교수하다	To teach; instruct
+
+
+---------------------------
+
+
+잡지명	동광 제16호
+발행일	1927년 08월 05일
+기사제목	短期完成 朝鮮速記術(2회)
+필자	嚴正友
+기사형태	잡저
+
+短期完成 朝鮮速記術
+						嚴正友
+本術 基本文字의 原理
+세계 각국의 언어는 그 민족에 딸아 각양 각색으로 판이한 것은 사실이나 그 근본은 이중으로 난울 수 있으니 1은 意符文이요 2는 音符文이다. 이와 같이 인류의 발음은 어떠한 형상 혹은 음향에 의지하여 案出한 것은 사실이다. 곳 우리 조선에서는 「가갸」 (音符文) 일본에서는 「イロハ」 (音符文) 支那에서는 「天地玄黃」 (意符文) 歐米에서는 「ABC」 (音符文) 등으로 이와 같이 各異한 형상에 근본하여 온 것임으로 속기술도 각히 國定 문자 혹은 民族語에서 속기력이 발음의 속도에 가급하도록 案出하지 않으면 안되게 되었다. 그런데 각국 기성 속기문자의 原案을 考案하면 거의 다 의논한 것처럼 一圓形에서 案出되어 있다. 물론 우리는 그들에 비하여 後進이나 그러나 決ㅎ고 모방할 필요가 없다. 그럼으로 우리 「한글」의 독특한 자랑은 금상첨화의 감이 不無하다. 좌에 本術의 기본 문자를 割出한 原案을 도시하면 흡사히 한 傘形과 같이 뵈인다.
+原案圖形
+이것을 다시 子 母音으로 細別하면 도시와 같이 모음은 1圖의 점 (`)을 중심으로 한 단선 4개(ㅏ ㅓ ㅗ ㅜ)와 2圖의 직각상에 現한 內弧(ㅡ) 外弧(ㅣ)를 합하여 단모음(ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ)을 마련하고 其餘 1圖의 長線 4개(ㅑ ㅕ ㅛ ㅠ)는 중모음으로 마련하였으되 중모음은 「ㅣ」와 단모음의 합음인 까닭에 단모음의 倍大長線으로 표시하였다.
+그리고 자음은 1원 (360도)을 4등분 (90도) 하여 「ㅅ ㅇ ㅎ」을 제하고는 직각에 대한 호로써 표하였다. 그런데 혼성 자음(ㅊ ㅋ ㅌ ㅍ)은 「ㅈ ㄱ ㄷ ㅂ」와 「ㅎ」의 합음으로 成한 것임으로 「ㅈ ㄱ ㄷ ㅂ」에 「ㅎ」의 부분형을 합하여 「ㅈ ㄱ ㄷ ㅂ」의 변형적을 마련하였다. 그리고 其餘는 단성자음(ㅅ는 ㅁ의 변형으로 ㅇ은 「한글」의 원형 그래도 ㅎ는 중앙의 대반원과 반직선으로) 으로 마련하였다.
+이상과 같이 本術의 기본 문자는 2개의 원형(대 소)과 直, 橫, 縱, 弦, 弧 등의 大小, 長短, 角度의 경사를 구별하여 표시하고 더욱 加點法을 사용하여 일층 명료를 기하였은 즉 下述의 모든 주의를 참고하라.
+
+速記用 基本文字例
+좌에 속기용 기본 문자 예를 示하고 이에＜48＞ 대한 긴요한 주의점을 열거하면
+速記用 基本文字例
+1. 아 행에 한하여는 모음을 그대로 쓸 일.
+2. 가나다라... 등의 각 행 첫째 자 (각 행 일단의 상)는 자음자를 그대로 쓰되 반듯이 一種形으로 쓸 일.
+3. 갸냐댜랴... 등의 각 행 둘째 자 (각 행 일단의 하)는 가나다라... 등과 같이 역시 一種形으로 쓰되 반듯이 우편에 점을 附하여 쓸 일.
+4. 이른바 아레 「·」자는 전폐할 일.
+5. 「ㅅ」곳 된 시옷자는 ㄲ ㄸ ㅃ ㅉ와 같이 짝소리로 쓰되 가령 ㄲ은 「ㄱ」의 2자요 ㄸ은 ㄷ의 2자임으로 이러한 의미에서 점을 사용하되 ㄲ자는 ) 에 점 (`)을 선두에 附하여 「,」의 모양로 ㄸ자는 ( 에 점 (`)을 附하여 「‘」의 모양으로 쓸 일.
+6. ㄱ ㄴ ㄷ... 의 자음이 ㅏ ㅑ... 등의 모음에 합하여 1음을 일울 때는 2종형으로 쓸 일.
+7. ㄱ ㄴ ㄷ... 의 자음이 받힘 글ㅅ자로 변할 때는 3종형으로 쓸 일.
+8. ㄷ ㅈ ㅊ ㅋ ㅌ ㅍ 등 자음자도 ㄱ ㄴ ㅂ ㄹ ㅁ ㅅ 등과 같이 받힘 글ㅅ자로 쓸 일. (곳 아 행은 전부 관련사로 쓰자는 말인데 그 이유는 노력도 경제가 되려니와 複文하기에 편의하기 때문이다.)
+解 1. 段 = 은 각 행의 「가갸」 「나냐」 「다댜」 ... 등은 1단으로 각 행의 「거겨」 「너녀」 「더뎌」 ... 등은 2단으로 「고교」 「노뇨」 「도됴」 ... 등은 3단으로 각 행의 「그」 「느」 「드」 「르」 「므」 「브」 ... 등은 4단으로 각 행의 「기」 「니」 「디」 「리」 「미」 「비」 ... 등은 5단으로 하여 각 단의 上을 上으로 下는 下로 하였다.
+2. 종 = 은 자의 대소를 구별하기 위하여 최대를 제 1종 (약 5분) 中을 제 2종 (약 2분 5리) 최소를 제 3종 (1종의 5분 1)으로 하였다. (계속)
+
+불구에 모처에서 속기술 강습소를 설립하고 본 집필인 嚴正友씨를 請聘 교수하려는 중입니다.＜49＞
+＜48-49＞

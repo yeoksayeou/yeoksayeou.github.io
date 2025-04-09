@@ -1,0 +1,106 @@
+**Header Section:**
+Magazine Title: 동광 제1호
+Publication Date: 1926년 05월 01일
+Article Title: 칠면조 (Turkey)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+**Body Text Translation:**
+Turkey
+
+The turkey became domesticated poultry after "Columbus" discovered "America." There are theories of two or three types of wild ancestors, that is, the original stock of the domesticated species. The two types refer to the "vulgaris" found in southern "America" and the "ocellata" native to Honduras, Guatemala in Central "America," and the Yucatan in North America. The three-type theory includes this "ocellata" (also known as the ocellated turkey), the "Mexico" turkey, and the "America" turkey. The Mexico turkey is the ancestor of the current Bronze turkey. It is said to be not an independent original species but a hybrid of the "ocellata" and the "America" turkey. The plumage is almost all the same bronze color, and the tip of each feather has a black border. In size, the America [turkey] is the largest and the ocellata is the smallest. The Mexico [turkey] has a short neck and legs, and a large chest, belly, and tail.
+
+Domesticated turkeys are classified into European and North American types. (Although called European, they of course originated from those imported from "America" by the "Spanish" people). Among them, famous ones are the Spanish Pŭroseadonsŭ, Te, Aemp'idan, the English Black Norfolk breed, the Bronze Cambridge breed, the Dutch breed raised starting in Holland and in Northern Europe, the Wettŭ, and the French White breed, but these have not yet <24> been imported to the East. Almost all types can be recognized as American breeds. Regarding America's turkeys, apart from the Black breed whose ancestors were re-imported from Spain, the Bronze Narragansett, White, Slate, "Buff," Bourbon breeds, etc., were all domesticated from wild birds in "America." The distribution of the Buff and Slate colors is still narrow, and the most numerous are the Bronze and Black colors. However, as mentioned previously, there are American and British types of Bronze, British (Yŏng), American (Mi), and French (Pul) types of Black, and French (Pul), American (Mi), and British (Yŏng) (Cambridge) types of White, so without familiarity, it is difficult to distinguish them by feather color alone.
+
+Although there are many differences between turkeys and chickens, what anyone quickly notices is how the flesh of their face, head, and wattle changes color from bright red to dark white. The purpose of raising this bird is for its meat. Eggs are laid twice a year, in spring and autumn, totaling 70 to 80 eggs.<25>
+
+**Summary**
+
+This article from 1926 discusses the origins and breeds of the domestic turkey. It traces their domestication to the Americas post-Columbus, outlining theories about wild ancestors (Vulgaris, Ocellata, Mexico types) and detailing various breeds developed in Europe (Spain, UK, Holland, France) and North America (Bronze, Black, White, Narragansett, Slate, Buff, Bourbon). The text notes physical characteristics like the color-changing head/wattle and the primary purpose of raising turkeys for meat, mentioning egg production rates. From a historical perspective, the article reveals an interest in modern Western agricultural practices (specifically aviculture) within colonial Korea. The detailed listing of breeds originating from specific Western countries, contrasted with the note that these breeds had not yet been imported to "the East" (東洋), highlights Korea's awareness of global agricultural trends while indicating its peripheral position in the direct exchange networks for these specific livestock breeds at the time.
+
+**Named Entities**
+
+컬럼버스	콜럼버스	Columbus
+아메리카	아메리카	America
+불가리스	불가리스	Vulgaris
+혼쥴라스	혼두라스	Honduras
+꽈테말라	과테말라	Guatemala
+유가단	유카탄	Yucatan
+오셀라타	오셀라타	Ocellata
+멕시코	멕시코	Mexico
+구주	구주	Europe
+북미	북미	North America
+스페인	스페인	Spain
+브로세아돈스	브로세아돈스	Pŭroseadonsŭ
+데	데	Te
+앰피단	앰피단	Aemp'idan
+영국	영국	England/UK
+노폴록종	노퍽종	Norfolk breed
+겜불릿치종	케임브리지종	Cambridge breed
+화란	화란	Holland
+네델란드	네덜란드	Netherlands
+웻트	웨트	Wettŭ
+불란서	불란서	France
+동양	동양	The East / East Asia
+미국	미국	America / USA
+날라간셋트	나라간세트	Narragansett
+버프	버프	Buff
+불본	버번	Bourbon
+
+**Glossary**
+
+가금(家禽)	가금	Domestic poultry
+사육종(飼育種)	사육종	Domesticated species/breed
+원종	원종	Original stock/ancestor species
+잇슴니다	있습니다	There is/are (Older spelling of 있습니다)
+-이라 함은	-이라 함은	What is called X is... / X refers to...
+산하는	산하는	Native to / inhabiting (Derived from 産 + 하다)
+임니다	입니다	is/am/are (Older spelling of 입니다)
+현금	현금	Current / Present-day
+우모(羽毛)	우모	Plumage / Feathers
+거지반	거의 반	Almost half; Mostly (Older spelling/form)
+가튼	같은	Same / Like (Older spelling of 같은)
+적슴니다	적습니다	Is small/few (Older spelling of 적습니다)
+짜르고	짧고	Is short and... (Older spelling of 짧고)
+논와서	나눠서	Dividing / Classifying (Older spelling/form of 나누어서)
+-이라 하여도	-이라 하여도	Even if called X / Although called X
+수입한데서	수입한 데서	From where it was imported
+아니되엿슴니다	아니되었습니다	Was not done / Has not become (Older spelling of 아니되었습니다)
+조음니다	좋습니다	Is good / Fine (Older spelling of 좋습니다)
+역수입	역수입	Re-import / Import back
+발한	발한	Originating from / Stemming from
+길드린	길들인	Domesticated / Tamed (Older spelling of 길들인)
+좀고	좁고	Is narrow and... (Older spelling of 좁고)
+만흔	많은	Many / Numerous (Older spelling of 많은)
+전긔	전기	Previously mentioned / Aforementioned (Archaic form for 前記)
+가티	같이	Like / Same as (Older spelling of 같이)
+잇스니까	있으니까	Because there is/are (Older spelling of 있으니까)
+안으면	않으면	If not (Older spelling of 않으면)
+우색	우색	Feather color (羽色)
+어렵슴니다	어렵습니다	Is difficult (Older spelling of 어렵습니다)
+만흐나	많으나	Although there are many (Older spelling of 많으나)
+얼진 띄이는	얼른 띄는	Quickly noticeable / Readily apparent (얼진 is older form of 얼른; 띄이는 is older form of 띄는)
+살 쉬염	살 수염	Fleshy wattle/snood (쉬염 is older spelling of 수염, here referring to the fleshy protuberance on a turkey's head/neck)
+선적색	선적색	Bright red color (鮮赤色)
+암백색	암백색	Dark white color (暗白色); likely meaning pale or bluish-white
+-이외다	-입니다	Is (Archaic/formal sentence ending, similar to 입니다)
+일년	일 년	One year
+춘추이긔	춘추 이기	Spring and autumn, two periods (春秋二期)
+난는데	낳는데	Lays (eggs) and... (Older spelling/form of 낳는데)
+납니다	낳습니다	Lays (eggs) (Older spelling/form of 낳습니다)
+
+
+---------------------------
+
+
+잡지명	동광 제1호
+발행일	1926년 05월 01일
+기사제목	칠면조
+기사형태	잡저
+
+칠면조
+
+칠면조가 가금(家禽)이 된 것은 「컬럼버스」가 「아메리카」를 발견한 이후임니다. 야생 즉 사육종(飼育種)의 원종은 두 종류 혹은 세 종류의 설이 잇슴니다. 두 종류라 함은 「아메리카」 남방에 나는 「불가리스」와 중앙 「아메리카」의 혼쥴라스, 꽈테말라와 북미 유가단에 산하는 「오셀라타」이요 세 종류설에는 이 「오셀라타」(일명 일색칠면조)와 「멕시코」 칠면조와 「아메리카」 칠면조임니다. 멕시코 칠면조는 현금의 청동색(靑銅色) 칠면조의 조상임니다. 이는 독립한 원종이 아니라 「오세라타」와 「아메리카」의 잡종이라 함니다. 우모(羽毛)는 거지반 다 가튼 청동색이며 각우의 선단에는 거문 선 친 것(이를 覆輪이라 함)이 잇슴니다. 크기는 아메리카가 제일 크고 오세라타가 제일 적슴니다. 멕시코는 목과 다리가 짜르고 흉복과 꼬리가 큼니다.
+가금에는 칠면조를 논와서 구주산과 북미산으로 합니다.(구주산이라 하여도 물론 「스페인」 사람이 「아메리카」에서 수입한데서 나온 것이지오) 그중 이름난 것은 스페인산의 브로세아돈스, 데, 앰피단과 영국의 흑색 노폴록종, 청동색 겜불릿치종, 화란을 시작하야 북구에 기르는 네델란드, 웻트, 불란서의 백색종인데 동양에는＜24＞ 아직 수입이 아니되엿슴니다. 종류는 거지반 다 아메리카종이라고 인증하여도 조음니다. 아메리카의 칠면조는 흑색종이 스페인에서 역수입된데 조상을 발한 이의는 청동색 날라간셋트, 백색, 석반색의 「버프」색 불본 등 다 「아메리카」에서 야조로부터 길드린 것입니다. 버프색 석반색은 그 분포가 아직 좀고 제일 만흔 것은 청동색 흑색입니다. 그러나 청동색은 전긔와 가티 미국산과 영국산, 흑색에는 영, 미, 불 백색에는 불, 미, 영(겜불릿치)이 잇스니까 익숙하지 안으면 우색만으로는 판별하기가 어렵슴니다.
+칠면조가 닭과 다른 점이 만흐나 누구던지 얼진 띄이는 것은 그 얼굴 머리 살 쉬염이 선적색에서 암백색으로 변하는 것임니다. 이 새를 기르는 목적은 고기를 먹는 것이외다. 알은 일년에 춘추이긔에 난는데 합하야 7, 80개를 납니다.＜25＞
+＜24-25＞

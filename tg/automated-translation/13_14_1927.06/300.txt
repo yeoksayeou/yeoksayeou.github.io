@@ -1,0 +1,119 @@
+Magazine Title: 동광 제14호
+Publication Date: 1927년 06월 01일
+Article Title: 彈丸船 타고 月世界 探險, 科學者의 夢想 實現? (Exploring the Moon World Riding a Bullet Ship, Will Scientists' Dreams Be Realized?)
+Author: Not Specified
+Article Type: 소식 (News)
+
+Exploring the Moon World Riding a Bullet Ship, Will Scientists' Dreams Be Realized?
+
+Travel to the Moon World (月世界) is no longer fantasy; there is a possibility it will be realized. In other words, it is being considered mathematically and technologically. Professor Op'at'ŭ and Dr. Hep'ŭ of Wien (윈) University in Austria (墺國) are building a cannonball-shaped ship (船) weighing 5 tons. They are researching firing this like a cannonball, intending to ride it to reach the moon country in two days. Both gentlemen have already built small model ships and launched them several miles (哩), reportedly all successfully. This model cannonball-type ship is equipped with a parachute (落下傘), so after rising to a certain altitude, the parachute automatically opens upon descent, allowing it to land (着陸) safely.
+
+Another plan (計劃) is that of Mr. Hwara, an astronomer and aviator of Austrian (오-쓰트리아) and Bavarian (바바리아) blood. This involves launching an airship equipped with a signal flare (狼煙) device in a similar manner.
+
+These plans essentially return to the same principle (原理). The ship is shaped like a cannonball, and it gains speed through the reaction of continuous explosions of its loaded fuel (燃料). According to Professor Op'at'ŭ's design (考案), inside the ship's shell, there are three explosion chambers (爆發室) in the rear (後部); the first chamber will carry alcohol, and the other two will carry liquid hydrogen (液體水素). According to his calculations (算出), the speed is over 7 miles (哩) per second (秒). As the ship proceeds, its speed gradually increases along the way, because the outer shells of the consumed explosion chambers are shed en route, thereby reducing (減) its weight (重量).
+
+Dr. Hep'ŭ has researched an ingenious steering device (操舵機). With this, the ship's rudder (船舵) can be skillfully turned while flying through the air.
+
+How are the preparations for air travel made? The crew (乘員), because they float into the air as if like spirits (靈魂), are tightly fastened to the wall (壁) with leather straps. And necessary moisture is sucked from a bottle (甁) through a rubber nipple (乳頭). How this ship can safely arrive at the Moon World, and by what method it will return to Earth (地球), has not yet been resolved (解決).
+
+Some time ago, many astronomers (天文學者), engineers (工學者), and physicists (物理學者) gathered in Wien to establish the Universe Exploration Association (宇宙의 探險協會) to support (助力) Professor Op'at'ŭ's plan. The first item on the association's program is to launch a signal flare (狼煙) emitting a flash (閃光) towards the liver [Note: This appears to be a typo in the original, likely intended to be 'moon' (달)] and to observe its explosion with a telescope (望遠鏡). If the day comes when Moon World travel, previously seen only in novels, is realized, how thrilling (通快) would that be! <59>
+<59-59>
+
+**Summary**
+
+This 1927 article reports on early concepts for space travel to the moon, primarily focusing on proposals by Austrian researchers identified as Professor Op'at'ŭ (likely Oberth) and Dr. Hep'ŭ, along with an astronomer/aviator named Hwara (likely Valier). Their ideas involve multi-stage, liquid-fueled rockets shaped like cannonballs, launched towards the moon. The article mentions technical details like fuel types (alcohol, liquid hydrogen), achieving high speeds (7 miles/sec), shedding stages to reduce weight, steering mechanisms, life support considerations (straps for crew, drinking tubes), and the formation of a "Universe Exploration Association" in Vienna to support these efforts, including plans to launch signal flares towards the moon for observation. It notes that safe arrival and return methods remain unsolved problems. From a historical perspective, the article reveals Korean awareness of and interest in cutting-edge Western scientific and technological ideas, specifically rocketry and space exploration, even during the colonial period. It highlights the global dissemination of these speculative yet scientifically grounded concepts, showing how aspirations for reaching the moon were capturing imaginations worldwide, including in Korea, nearly two decades before the V-2 rocket and four decades before the Apollo program.
+
+**Named Entities**
+
+月世界	월세계	Wŏlsegye (Moon World)
+墺國	오국	Okuk (Austria)
+윈	윈	Win (Wien/Vienna)
+오파트	오파트	Op'at'ŭ
+헤프	헤프	Hep'ŭ
+哩	리	Ri (Mile)
+오-쓰트리아	오-쓰트리아	O-ssŭt'ŭria (Austria)
+바바리아	바바리아	Pabaria (Bavaria)
+화라	화라	Hwara
+地球	지구	Chigu (Earth)
+宇宙의 探險協會	우주의 탐험협회	Ujuŭi T'amhŏm Hyŏphoe (Universe Exploration Association)
+
+**Glossary**
+
+彈丸船	탄환선	Bullet ship (referring to a rocket/spacecraft)
+月世界	월세계	Moon World
+探險	탐험	Exploration
+科學者	과학자	Scientist
+夢想	몽상	Dream, fantasy
+實現	실현	Realization, actualization
+空想	공상	Fantasy, daydream
+數理的	수리적	Mathematical
+工學的	공학적	Technological, engineering-related
+敎授	교수	Professor
+博士	박사	Doctor (Ph.D.)
+重量	중량	Weight
+砲彈型	포탄형	Cannonball-shaped
+模型	모형	Model
+落下傘	낙하산	Parachute
+自動的	자동적	Automatic
+着陸	착륙	Landing
+計劃	계획	Plan
+狼煙	낭연	Signal fire/flare (used here likely referring to rocket propulsion/exhaust)
+空中船	공중선	Airship (used here for the spacecraft)
+組織	조직	Organization; To organize/construct
+實質的	실질적	Substantial, essential
+原理	원리	Principle
+塔載	탑재	To load, carry aboard
+燃料	연료	Fuel
+爆發	폭발	Explosion
+反應	반응	Reaction
+考案	고안	Design, invention, idea
+後部	후부	Rear part
+爆發室	폭발실	Explosion chamber
+液體水素	액체수소	Liquid hydrogen
+算出	산출	Calculation
+秒	초	Second (unit of time)
+進行	진행	Progression, advance
+增加	증가	Increase
+消費	소비	Consumption
+減	감	Decrease, reduction
+精巧	정교	Ingenious, elaborate, skillful
+操舵機	조타기	Steering device
+船舵	선타	Rudder (of a ship/vessel)
+準備	준비	Preparation
+乘員	승원	Crew member
+靈魂	영혼	Spirit, soul
+壁	벽	Wall
+解決	해결	Solution, resolution
+天文學者	천문학자	Astronomer
+工學者	공학자	Engineer
+物理學者	물리학자	Physicist
+助力	조력	Help, support, assistance
+宇宙	우주	Universe, cosmos
+協會	협회	Association
+閃光	섬광	Flash (of light)
+望遠鏡	망원경	Telescope
+通快	통쾌	Thrilling, exhilarating
+벌서	벌써	Already (older spelling)
+나리어	내려	To descend, come down (older spelling/form)
+볏기어	벗기어	To shed, take off (older spelling/form)
+딸아	따라	Following, according to (older spelling)
+붙어	부터	From (older spelling/form)
+다라날	달아날	To fly, run away (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제14호
+발행일	1927년 06월 01일
+기사제목	彈丸船 타고 月世界 探險, 科學者의 夢想 實現?
+기사형태	소식
+
+彈丸船 타고 月世界 探險, 科學者의 夢想 實現?
+月世界 여행은 이미 空想이 아니요. 實現될 가능성이 있다. 다시 말하면 數理的 또는 工學的으로 考慮하는 바이다. 墺國 윈 大學의 오파트 敎授나 헤프 博士는 5噸의 重量을 가진 砲彈型의 배(船)를 건축 중인데 이것을 砲彈과 같이 쏘아 보내는 것을 연구하여 이것을 타고 이틀 동안이면 달나라까지 가겠다는 것이다. 兩氏는 벌서 조고마한 模型의 배를 만들어 몇 마일(哩)을 리어보았는데 다 成功을 하였다고 한다. 이 모형의 砲彈型 배에는 落下傘이 달리어 있어서 일정한 한도까지 높이 올리어 가다가 나리어 올 때에는 자동적으로 낙하산이 벌어지어서 안전히 着陸하게 되었다고 한다.
+또한 計劃은 오-쓰트리아 사람과 바바리아 사람의 피를 받은 天文學者 겸 飛行家인 화라氏의 그것인데 이것은 마찬가지로 狼煙 장치한 空中船을 쏘아 올리게 조직된 것이다.
+이들의 計劃은 實質的으로 동일한 원리에 돌아간다. 배는 大砲의 탄환 모양이며 그 塔載한 燃料의 부단히 폭발하는 반응에 의하여 속력을 내는 것이다. 오파-트 敎授의 考案에 의하면 이 배 껍질 속에는 後部에 爆發室이 셋이 있어서 第一室에는 알콜, 다른 二室에는 液體水素를 塔載하게 되었다. 그 속력은 氏의 산출한 바에 의하면 일초에 7哩 이상이라고 한다. 이 배는 진행함을 딸아 도중에서 차차 속력이 증가하게 되었는데 그 이유는 소비한 폭발실의 밖앗 껍질을 도중에서 볏기어 버림으로 말미암아 重量이 減하는 까닭이다.
+헤프 博士는 精巧한 操舵機를 연구하였다. 이것으로 공중을 다라날 때에 배치(船舵)를 묘하게 돌리는 것이다.
+空中 旅行의 준비는 어떻게 하나. 乘員는 마치 영혼 모양으로 공중으로 뜨어 오르는 까닭으로 가죽끈으로 꽉 벽에다가 매어놓는다. 그러고 필요한 수분은 甁에서 고무 乳頭로붙어 빨게 된다. 이 배가 어떻게 하면 안전히 月世界에 도착되는가. 또 어떠한 방법으로 地球로 돌아올까 하는 것은 아직 해결 못되었다.
+얼마 전에 多敎의 天文學者 工學者 物理學者들이 윈에 집합하여 오파트 교수의 계획을 助力하기 위하여 宇宙의 探險協會를 설립하였다. 同協會의 푸로그람의 제일로 간을 향하여 閃光을 발하는 狼煙을 치어 올리어서 그 폭발을 望遠鏡으로 보려고 계획하였다. 지금까지 소설 외에는 보지 못하던 月世界 旅行이 실현되는 날이 있다하면 얼마나 통쾌한 일일까.＜59＞
+＜59-59＞

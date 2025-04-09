@@ -1,0 +1,46 @@
+Magazine Title: 동광 제18호
+Publication Date: 1931년 02월 01일
+Article Title: 謝告 (Notice/Apology)
+Author: N/A
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+1. The Continuing New Year issue, literally amidst a fervently enthusiastic welcome, sold out completely 12 days after publication, without a single copy remaining. Therefore, we hereby apologize via this notice for being unable to send copies to esteemed readers who requested them with advance payment and to bookstores in various regions.
+
+1. This month's issue contains content regarding the selection of higher-level schools, which is the greatest problem of distress and agony for tens of thousands of students throughout the land. If this serves even slightly as reference material for them in determining their life's course, there would be no greater satisfaction. Consequently, because articles on that topic flooded in, many of the planned articles announced in the January issue have unavoidably been allocated to the next issue. Among these, especially those of a serial nature, such as "A Historical Study of Korean Characters (朝鮮文字의 史的考察)," "International Meetings and the Activities of Koreans (國際會合과 朝鮮人의 活動)," and "An Anthology of Famous Passages from World Newspapers and Magazines (世界新聞雜誌名文精華錄)," have all been postponed. Furthermore, "The One Who Walks in the Night (밤중에 거니는 者)" could not be included even after the printing plates were made. We apologize to the writers and esteemed readers.
+
+1. The orthography used in this magazine generally follows the opinions of the "Korean Language Society (朝鮮語學會)," but regarding several points not yet finalized, our company uses its own distinct conventions. For instance, examples include not using 'ㅆ' (ss), and using '코 (kho),' '케 (khe),' '치 (chhi),' and '타 (tha)' as abbreviations for '하고 (hago),' '하게 (hage),' '하지 (haji),' and '하다 (hada),' respectively. It seems there are some among our writers who hold opposing views on this, but we ask for your patience for some time. We especially declare to the general public that the orthography in this magazine is purely the responsibility of this magazine, not the responsibility of our esteemed readers.
+
+**Summary**
+
+This editorial notice from the February 1931 issue of *Tonggwang* apologizes for the rapid sell-out of the previous New Year issue and explains the content focus of the current issue on higher education choices for students, which led to the postponement of several planned articles, including serials. It concludes by outlining the magazine's orthographic policy, stating it generally follows the Korean Language Society's guidelines but maintains unique conventions for certain undecided points (like avoiding 'ㅆ' and using specific contractions), taking full responsibility for these choices. For historians, the notice reveals reader interest in practical matters like education during the colonial period, publishing pressures, and particularly the active debates and evolving standards surrounding Korean orthography in the early 1930s, highlighting the role of publications like *Tonggwang* alongside the Korean Language Society in shaping the written language.
+
+**Named Entities**
+
+朝鮮語學會	조선어학회	Chosŏnŏ Hakhoe
+
+**Glossary**
+
+續刊	속간	Continuing publication, subsequent issue
+제위	제위	Esteemed sirs/readers (honorific plural)
+매진	매진	Sold out, sellout
+실릭	실리다	To be loaded, published, carried (older spelling of 실리다/싣다)
+작정	작정	Decision, determination
+할애	할애	Allocation, setting aside (often used for space/time)
+철자법	철자법	Orthography, spelling rules
+멫가지	몇 가지	Several kinds/types (older spelling of 몇 가지)
+략	약	Abbreviation, shortening (older form of 약)
+ㅂ라오며	바라오며	Wishing, hoping (older spelling/form of 바라며)
+
+
+---------------------------
+
+
+잡지명	동광 제18호
+발행일	1931년 02월 01일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+一. 續刊新年號는 글자그대로 狂熱的 환영리에 출간 12일로서 一冊도 남기지 안코 매진되엇습니다. 그래서 선금으로 청구하신 독자제위와 및 각지방 서점에 보내들이지 못한 것을 지상으로 謝告하옵니다.
+一. 今月號는 만천하 수만의 학생제군의 가장 큰 고통번민의 문제인 상급학교 선택에 관한 것을 실릭 되엇습니다. 이것이 조금이라도 그들의 일생을 작정하는 데 참고거리가 된다면 게서 더한 만족이 업겟습니다. 따라서 그 기사가 폭주하기 때문에 1월호에 발표한 예정기사 중 다음호로 부득이 할애한 것이 많습니다. 그 중에도 특히 연재할 성질의 것 중 「朝鮮文字의 史的考察」 「國際會合과 朝鮮人의 活動」 「世界新聞雜誌名文精華錄」 등을 다 쉬이게 되었으며 「밤중에 거니는 者」는 제판까지 하고도 못들어갓습니다. 필자와 독자제씨께 사죄합니다.
+一. 本誌에 쓰이는 철자법은 대개 「朝鮮語學會」의 의견대로 쓰는 것이나 아직 확정되지 안는 멫가지에 대하야는 본사 독특의 용법을 쓰고 잇습니다. 가령 ㅆ을 사용치 안는 것이라든지 「하고」 「하게」 「하지」 「하다」 등의 略을 「코」 「케」 「치」 「타」로 쓰는 類입니다. 필자 중에는 이에 반대의사를 가지신 이도 없지아는 모양이나 얼마동안 참으시기를 ㅂ라오며 특히 일반에 대하야 본지상의 철자법은 순전히 본지의 책임이요 독자제위의 책임이 아닌 것을 성명해 둡니다.

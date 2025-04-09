@@ -1,0 +1,300 @@
+29	080	A Big Stick for a Small Thing		Miscellaneous Writing
+29	090	Economic Commentary, Will Germany Win or Will France Win? - Outlook for the New Reparations Conference	Sŏ Ch'un	Editorial/Article
+29	100	Special Feature: Let's Know Korea Part 2, The History of Market Traders - Korea's Market System -	Paek Nam-un	Editorial/Article
+29	110	Dissection of the Korean Police - Inspection of the Use of 30 Million Yen Annually -, Involvement in Overall Administration, Exerting Absolute Power	Kim Tong-jin	Editorial/Article
+29	120	Crisis of the Irrigation Association, The Cancerous Tumor of Korean Rural Villages	Yi Hun-gu	Editorial/Article
+29	130	Taxes! Taxes!, Trends in Korean Taxation and the Burden on Koreans	Kim U-p'yŏng	Editorial/Article
+29	140	Overseas Forum, Marriage as a Profession	August Bebel	Editorial/Article
+29	150	Overseas Forum, War and the League of Nations	Maisel Gould (From the American Magazine New Masses)	Editorial/Article
+29	160	Overseas Forum, War and Women	Ellen Key	Editorial/Article
+29	170	Record of Meditation	Yi Kwang-su	Literary Etc.
+29	180	Notes from an Interview with Gandhi	Excerpted by Chang Sŏk-tae	Memoir/Personal Account
+29	190	If War Were to Begin	Ch'ŏnggwang	Survey
+29	200	Collected True Stories, Our Unjust Circumstances	Person from Paekch'on, Sŏnch'ŏn	Social Commentary
+29	210	Curious Travels in Southern China, Putuoshan, the Great Village of Two Hundred Temples	Ch'oe Ch'ang-gyu (Shanghai)	Travelogue
+29	220	Doctor Reviews (Part 2)	T'aehŏ	News/Information
+29	230	A Thousand Faces of Musicians		Cartoon/Comic
+29	240	Urgent Telegram		News/Information
+29	250	Sokol Column		Editorial/Article
+29	260	Taking Opium	Muwi Saeng	Travelogue
+29	270	A Study of American Negro Poets	Han Se-gwang (in America)	Literary Criticism
+29	280	O Great Strength! Arise!, My Song Sung from the Heart, Kneeling Sincerely at the First Dawn of the New Year	Kim Hae-gang	Poem
+29	290	Eulogy and 1 Other Poem	Ryu Pin (Author), An Sŏ (Translator)	Poem
+29	300	To He Who Goes to the Countryside, Sending Off Elder Brother Kwŏn Ku-hyŏn on His Return Home to Yŏngdong	Ch'unwŏn (Yi Kwang-su)	Poem
+29	310	Songdo Travelogue	Yi T'ak	Poem
+29	320	Warriors of the World	Song Sun-il	Poem
+29	330	Prelude (3)	Yi Hyo-sŏk	Novel/Fiction
+29	340	One Among Four	Translated by Kim Ŏk	Novel/Fiction
+29	350	First Student Work Competition Announcement (Second Installment) November Section		Literary Criticism
+29	360	Tonggwang Roundtable Conference		Editorial/Article
+29	370	Reading Room		Literary Criticism
+29	380	Branch Office New Talk		Announcement/Editor's Postscript
+29	390	A Hundred Faces of Literary Men		Cartoon/Comic
+29	400	Overseas Cartoons		Cartoon/Comic
+30	010	Respectful Notice		Announcement/Editor's Postscript
+30	020	Movements of the Great Powers Centered on China - Anglo-Japanese Cooperation or Anglo-American Alliance? -	Professor Hong Sŏng-ha (Posŏng College)	Editorial/Article
+30	030	Cause and Details of the Shanghai Incident	Kim Chang-hwan	Editorial/Article
+30	040	Overseas Forum: The Shanghai Incident and Foreigners' Attitudes (From European and American Newspapers)	Translated by a Reporter	Editorial/Article
+30	050	Luoyang, Beiping, or Nanjing? The Capital Issue Up in the Air	Chu Yo-han	Editorial/Article
+30	060	Shanghai and Koreans	Yu Kwang-nyŏl	News/Information
+30	070	Will an Economic Blockade Be Realized?	Various Authors	Survey
+30	080	Record of Meditation	Ch'unwŏn (Yi Kwang-su)	Literary Etc.
+30	090	The Safety of Overseas Compatriots Buffeted by International Turmoil		News/Information
+30	100	Why Did the Great European War Occur? Focusing on the Secret Maneuvers of Various Countries in Diplomatic History	Kim To-t'ae	Editorial/Article
+30	110	Urgent Telegram		Miscellaneous Writing
+30	120	Six Topics in Economic Explanation	Sŏ Ch'un	Editorial/Article
+30	130	Overview of Domestic and Foreign Affairs (Until February 10th)	Chu Yo-han	News/Information
+30	140	Korea Diary, Korea in January		News/Information
+30	150	Europe's Old Sore Spot, German Reparations, International War Debts, and the Position of the United States	Han Sŭng-in (New York)	Editorial/Article
+30	160	The Economic Path Forward for Koreans	Various Authors	Survey
+30	170	Heroism and Fascism, Enlightening Mr. Yi Kwang-su	Kim Myŏng-sik	Editorial/Article
+30	180	Lawyer Reviews (1)	Tonghŏja	News/Information
+30	190	That Lost Spring	Kim An-sŏ	Poem
+30	200	Song of Youth	Yu To-sun	Poem
+30	210	O You! Build Up the Capital City of New Songs.	Kim Hae-gang	Poem
+30	220	I Will Convey the Laughter of Vitality	Mo Yun-suk	Poem
+30	230	Correction/Editing of New Poems		Announcement/Editor's Postscript
+30	240	To the Graduating Brothers and Sisters	Yi Kwang-su	Editorial/Article
+30	250	The Youthful Days of an Artist, The Love of Music Saint Schubert	Musician Hyŏn Che-myŏng	Literary Etc.
+30	260	Actress Sarah Bernhardt	Georg Brandes (MS), Translated by Hong Hae-sŏng	Literary Etc.
+30	270	Recollections of Girlhood	Kim Mi-ri-sa (Kŭnhwa Girls' School)	Memoir/Personal Account
+30	280	The Mystery of Youth	Yu Sang-gyu	Editorial/Article
+30	290	A Night I Want to Hear a Song	Kim Il-yŏp	Literary Etc.
+30	300	The Secret Story of the 780,000 Won Crime, A New Record in the History of Theft	Muhojŏngin	News/Information
+30	310	Sokol Column (12), Eight Rules for Fun Morning Exercise	Coach Ch'oe Nŭng-jin (Sungsil College)	News/Information
+30	320	Hygiene for Young Men	Yang Pong-gŭn (Hyŏphwa Hospital)	Editorial/Article
+30	330	Tonggwang University Lecture 10: Social Science		Editorial/Article
+30	340	A Big Stick for a Small Thing		Social Commentary
+30	350	1st Student Work Competition Announcement, Continued from 2nd Announcement, Partial Announcement for 3rd		Literary Etc.
+30	360	(Play) The Director's Wife		Play/Scenario
+30	370	Chinese Grandmother	Qiu Feng (China, Author), Ch'oe Ch'ang-gyu (Translator)	Novel/Fiction
+30	380	Goethe Centennial Column, "Goethe" and "Shakespeare"	Chŏng In-sŏp	Editorial/Article
+30	390	Song of the Harper and 2 Other Poems	Goethe (Author), Sŏ Hang-sŏk (Translator)	Poem
+30	400	Tonggwang Roundtable Conference		Editorial/Article
+30	410	Reading Room		Literary Criticism
+30	420	A Hundred Manners of Literary Men		Cartoon/Comic
+31	010	Spring Rain	Music by An Ki-yŏng, Lyrics by Chu Yo-han	Poem
+31	020	Overview of Domestic and Foreign Affairs, Bird's-Eye View of International Trends (February-March)	Chu Yo-han	News/Information
+31	030	This Year's Fascinating U.S. Presidential Election Battle	O Ch'ŏn-sŏk	News/Information
+31	040	A Big Stick for a Small Thing		Miscellaneous Writing
+31	050	The Irish Free State's New Prime Minister Mr. de Valera and Changes in Irish Politics	Paek Nak-chun	News/Information
+31	060	"Eugenic" Theory of Racial Improvement	Hyŏn Sang-yun	Editorial/Article
+31	070	Where is Suffering China Headed? Bankruptcy? Reconstruction?		Editorial/Article
+31	080	Future Outlook for the World Economy, Is Economic Recovery Possible or Impossible?		Dialogue/Roundtable Talk
+31	090	Can U.S. Currency Inflation Restore the World Economy?	Professor Ch'oe Sun-ju (Yonhui College)	Editorial/Article
+31	100	Impressions of Figures at Home and Abroad		News/Information
+31	110	Korea Diary, Korea in February		News/Information
+31	120	Strange and Curious Tales, The World's Largest Gold Hoard Cave		News/Information
+31	130	Overseas Forum		Editorial/Article
+31	140	Flying and Crawling Friends in the 3,000 Li of Embroidered Rivers and Mountains, An Examination of Korea's Animals	Cho Pok-sŏng	Editorial/Article
+31	150	Urgent Telegram Part 1		Miscellaneous Writing
+31	160	Examination of New Divergent Theories on Hangeul Spelling		Editorial/Article
+31	170	The Nature and Value of Hunminjeongeum, Historical Study of Korean Characters (10)	Kim Yun-gyŏng	Editorial/Article
+31	180	The World's Wandering Group, the Gypsies, An Introduction	Hong Hyo-min	Editorial/Article
+31	190	Record of Meditation	Ch'unwŏn (Yi Kwang-su)	Literary Etc.
+31	200	In Modern Korea... If the Heroic Spirits from Underground Were to Awaken, What Would They Say...		Survey
+31	210	Condemning the Masked Patriot with the Pen, Personality and Principles		Literary Etc.
+31	220	My Personality as I See It (Part 1)		Survey
+31	230	Record of Grudges Against Doctors, The Sorrow of a Gentleman	Kim Tong-in	Literary Etc.
+31	240	Theory of the Uselessness of Modern Medicine, Let's Return to Natural Healing Methods	Doctor Chŏng Tŏk-kŭn (in North America)	Editorial/Article
+31	250	Essay of a Dreamer	Sang Ha	Literary Etc.
+31	260	Anecdotes of Studying Abroad in Europe and America with Hardship, The Story of Selling Incense with Black People as Customers	Han Sŭng-in (New York)	Memoir/Personal Account
+31	270	Selected Works from the Student Work Competition, 3rd Competition Section		Literary Etc.
+31	280	Selected Works from the Student Work Competition, 4th Competition Section		Literary Etc.
+31	290	Collected True Stories		Literary Etc.
+31	300	New Year's Eve Serenade and 13 Other Poems	Kim Tong-myŏng	Poem
+31	310	You and I	Kim Yŏ-je	Poem
+31	320	Poems of Youthful Days and 3 Other Poems	Han Hŭk-ku (in America)	Poem
+31	330	The Man Who Died at Sea and 1 Other Poem	Min Pyŏng-hwi	Poem
+31	340	Song of the Farmer	Hryhory Khmara (Author), Kim An-sŏ (Translator)	Poem
+31	350	If	Baki (Author), Kim An-sŏ (Translator)	Poem
+31	360	Those Melancholy People, A Sketch of a Married Life, Section 1	Yi Chong-myŏng	Novel/Fiction
+31	370	Reading Room		Literary Criticism
+31	380	My Personality as I See It (Part 2)		Miscellaneous Writing
+32	010	Sixth Anniversary of Founding	Chu Yo-han	Announcement/Editor's Postscript
+32	020	Overview of Domestic and Foreign Affairs, Bird's-Eye View of the International Situation (March 10 - April 10)	Chu Yo-han	News/Information
+32	030	The Irish Question, Shaken Once Again	Ham Sang-hun	News/Information
+32	040	Critique of Inflation: Is It the Lifeblood of the Economy or Not?		Editorial/Article
+32	050	The Growth Process of the Korean Cooperative Movement	Im Pyŏng-ch'ŏl	Editorial/Article
+32	060	Germany's Crisis and the National Socialist German Workers' Party	Hong Hyo-min	Editorial/Article
+32	070	In Dublin, Capital of Ireland	Yi Chŏng-sŏp	Literary Etc.
+32	080	Record of Meditation	Ch'unwŏn (Yi Kwang-su)	News/Information
+32	090	Where is Jiandao Headed? Special Feature on the Jiandao Issue	Yu Kwang-nyŏl	Editorial/Article
+32	100	Jiandao is This Kind of Place, Special Feature on the Jiandao Issue	Nongch'on Kŏsa (Rural Layman)	Editorial/Article
+32	110	What is the Jiandao Issue? Special Feature on the Jiandao Issue	Yun Hwa-su	Editorial/Article
+32	120	Yearning for Jiandao, Special Feature on the Jiandao Issue	Pak Ŭn-hye	Literary Etc.
+32	130	Becoming a Guest in Jiandao, Special Feature on the Jiandao Issue	Mo Yun-suk	Literary Etc.
+32	140	Urgent Telegram		Miscellaneous Writing
+32	150	People Who Influenced Me		Survey
+32	160	Correction		Announcement/Editor's Postscript
+32	170	Roundtable Conference, Urgent Protest Letter	To Yu-ho (in Germany)	Literary Etc.
+32	180	World Tour Photo Report (20), Paris's Memorial Altar "Panthéon"	Yi Chŏng-sŏp	Travelogue
+32	190	Self-Reflection Reader	O Ch'ŏn-sŏk	Literary Etc.
+32	200	Korea Diary, March 1 - April 15		News/Information
+32	210	Metaphysics' Self-Discovery, Discussing the Tragicomedy of Mr. Pak Il-hyŏng	Kim Myŏng-sik	Editorial/Article
+32	220	A Big Stick for a Small Thing		Social Commentary
+32	230	Murder Festival of African Natives		Literary Etc.
+32	240	Analysis and Outlook of Cheondogyo Amidst Problems, Its Emergence and Growth	Nam Ch'ŏl	Editorial/Article
+32	250	Advice to Tonggwang		Survey
+32	260	Lawyer Reviews (2)	Tonghŏja	News/Information
+32	270	Hold Up!, Account of Chasing the Young Man with a Pistol in Changhowŏn	Konggwŏn Saeng	Memoir/Personal Account
+32	280	Struggle for Supremacy on the Pacific: A Brief Study of Japan-U.S. Relations History, Academic Special Feature	Paek Nak-chun	Editorial/Article
+32	290	Theory on the Origin of Hunminjeongeum, Historical Study of Korean Characters (11)	Kim Yun-gyŏng	Editorial/Article
+32	300	On Korean Folk Songs	Ch'oe Yŏng-han (in Jiandao)	Editorial/Article
+32	310	Study of Possessive Case Markers and Glottalized Consonant Characters, Urgent Issues in Hangeul	Chŏng Hyŏn-gyu	Editorial/Article
+32	320	Why is Exercise the Mother of Health?, Physiological Examination of Exercise, Sokol Column: Health First	Yu Chin-dong (Medical Dept., National Tongji University, Shanghai)	Editorial/Article
+32	330	Introducing Newcomers to the New Poetry Scene	Chu Yo-han	Poem
+32	340	A Day of Activity, Watching the T'ongyŏng Citizens' Grand Athletic Meet	Nŭlsaem	Poem
+32	350	Set Fire!	P'i Ch'ŏn-dŭk	Poem
+32	360	Foreign Winds in a Strange Land, Thinking of Compatriots Suffering Disaster (and 1 other poem)	Cho Chong-hyŏn	Poem
+32	370	Spring Song (Poem Recommended by An Sŏ)	Chang Man-yŏng	Poem
+32	380	Setting Sail (Prose Poem)	Ho Che-gwang	Poem
+32	390	O Friend	Kim T'ae-o	Poem
+32	400	The Meaning of Watering Flowers	O Il-to	Poem
+32	410	Ancestral Land (and 3 Other Poems)	Yuk Ku-jŏng	Poem
+32	420	The Rebirth of Non'gae	Kim Tong-in	Novel/Fiction
+32	430	Two Instructions	Yi Mu-yŏng	Novel/Fiction
+32	440	The Fire Blazes Brightly, Two Letters	Kim Tong-sŏp	Novel/Fiction
+32	450	Notice of Thanks / Apology		Announcement/Editor's Postscript
+32	460	Sewerage Construction (Novel Recommended by Ch'unwŏn)	Madam Pak Hwa-sŏng	Novel/Fiction
+32	470	Mother	Ilsa	Novel/Fiction
+32	480	Red Light in the Darkness (Modern Chinese Play)	Xiang Peiliang (Author), Chŏng Nae-dong (Translator)	Play/Scenario
+32	490	Reading Room		Literary Criticism
+33	010	Dosan An Ch'ang-ho Arrested in Shanghai		News/Information
+33	020	Long Live Sports Korea!		News/Information
+33	030	Where is Cheondogyo Headed? The Leaders of the Re-divided Old and New Factions		News/Information
+33	040	Hooray! Hooray! Posŏng		News/Information
+33	050	Strong Power / Force		Literary Etc.
+33	060	Fundamental Morality of Old Koreans, Collectivism and Role-Based View of Life	Yi Kwang-su	Editorial/Article
+33	070	Straight Person, Straight Writing	Chu Yo-han	Editorial/Article
+33	080	Is the Founder Issue the Big Problem? The Truth Behind the Re-split of Cheondogyo's Old and New Factions	Mirimsaeng	Editorial/Article
+33	090	Continued Theory on the Origin of Hunminjeongeum, Historical Study of Korean Characters (12)	Kim Yun-gyŏng	Editorial/Article
+33	100	On Yu Chin-t'ae, President of the Chosŏn Ilbo	Yu Kwang-nyŏl	News/Information
+33	110	Modern University Entrance Exam		Miscellaneous Writing
+33	120	General Mobilization of Physical Education for the German People	Yu Chin-dong	News/Information
+33	130	The Inside Story of the Dispute Incident Leading to the Sudden Suspension of the Chungang Ilbo	Pak Sang-ho	News/Information
+33	140	Regarding the Korean Press World		Survey
+33	150	The Truth about the Romantic Relationship between Economics Graduate Madam Ch'oe Yŏng-suk and an Indian Youth	A Reporter	Miscellaneous Writing
+33	160	The Diary Left by Madam Ch'oe Yŏng-suk		Literary Etc.
+33	170	Jongno Night Tales	Pyŏgija	Social Commentary
+33	180	Bravo! Yangjŏng! Until Winning the Japanese Ekiden Race	Yi Kil-yong	News/Information
+33	190	Korea and the Conscription System: If It Were Implemented	Tonggwangsa	Survey
+33	200	Review of Old and New Korean Athletes (1)	Kim T'ae-ho	News/Information
+33	210	Collected True Stories		Literary Etc.
+33	220	Two Adorned Women	Chongmyŏng	Literary Etc.
+33	230	Short Poem Appreciating Spring (Folk Song Style)	Kim An-sŏ	Poem
+33	240	May's Waves, Father's Corpse Lying on the Seashore	Yi Kyu-wŏn	Poem
+33	250	Hotel Cone	Han Hŭk-ku (in America)	Novel/Fiction
+33	260	The Rebirth of Non'gae (2)	Kim Tong-in	Novel/Fiction
+33	270	Wanderer	Yi Hun	Novel/Fiction
+33	280	Morning - Beethoven's Story -, Novel	Helene Raff (Author), Cho Yong-man (Translator)	Novel/Fiction
+33	290	I Look into My Lump of Earth	Chŏng Ch'a-un-jo	Poem
+33	300	On New Year's Eve	Yi Ch'o-jŏk	Poem
+33	310	Traces of the Path Walked	Mua	Poem
+33	320	Light of the East, To Tonggwang	Cho Chong-hyŏn	Poem
+33	330	Rainy Evening	Kim Nu-gye	Poem
+33	340	Hwasan Mountain and Chŏksŏng River	Yang Sang-ŭn	Poem
+33	350	Autumn Ode to the Countryside	Kim Su-yŏng	Poem
+33	360	People Digging the Earth	Nowŏn	Poem
+33	370	Summer	Son Chŏng-hwa	Poem
+33	380	Thoughts of Autumn in July	Cho Ŭi-hyŏn	Poem
+33	390	New Year's Morning (and 1 other poem)	O Il-to	Poem
+33	400	Prayer for Paradise (and 2 other poems)	Towŏn Chŏng Il-su	Poem
+33	410	Tonggwang Student Literary Circle		Poem
+33	420	Tonggwang Roundtable Conference		Editorial/Article
+33	430	Modern University Entrance Exam Answers		Miscellaneous Writing
+33	440	Reading Room		Literary Criticism
+33	450	Company Notice		Announcement/Editor's Postscript
+34	010	The So-called "Plan to Save the Situation" and the New Outlook for the Economic Crisis, Will an Inflationary Boom Appear?	Sŏ Ch'un	Editorial/Article
+34	020	Modern University Entrance Exam		Miscellaneous Writing
+34	030	Trend of Plummeting Cocoon Prices, The Problem of Raw Silk Production Costs and the Evils of Joint Sales		Editorial/Article
+34	040	Straight Person, Straight Talk: Newspaper Copyrights Turned into Concessions	Chu Yo-han	Editorial/Article
+34	050	Outlook for the Japanese Political Situation Part 1, The Inside Story and Influence of Major Incidents	Hyŏn Sang-yun	Editorial/Article
+34	060	Outlook for the Japanese Political Situation Part 2, The Moribund State of Established Political Parties	Yi In	Editorial/Article
+34	070	Outlook for the Japanese Political Situation Part 3, Criticizing the Fascist Trend	Im Wŏn-gŭn	Editorial/Article
+34	080	Outlook for the Japanese Political Situation Part 4, Where Will Japanese Politics End Up?	Ok Sŏn-jin	Editorial/Article
+34	090	Overseas Forum		Editorial/Article
+34	100	What is a Cooperative? The World Cooperative Movement (1)	Han Sŭng-in (New York)	Editorial/Article
+34	110	Modern University Entrance Exam Answers		Miscellaneous Writing
+34	120	The Origin of Hunminjeongeum and Various Theories, Historical Study of Korean Characters (13)	Kim Yun-gyŏng	Editorial/Article
+34	130	Roundtable Discussion on Newspaper Management and Editing		Dialogue/Roundtable Talk
+34	140	The Founding of America and the Figures Active at That Time	Lambda Gamma Phi (?)	Memoir/Personal Account
+34	150	Pioneer of Hangeul Studies, Teacher Chu Si-gyŏng	Kim Sŏn-gi	Editorial/Article
+34	160	On An Chae-hong	Yu Kwang-nyŏl	Editorial/Article
+34	170	On Kim Tong-hwan	Kim Ki-rim	Editorial/Article
+34	180	Urgent Telegram		Miscellaneous Writing
+34	190	Impressions of Ch'ae Man-sik	Ch'ae Ko-yŏng	Editorial/Article
+34	200	Account of Visiting Yang Kŭn-hwan, To Be Released from Prison Next August	Chu T'ae-do (Tōkyō)	News/Information
+34	210	Songs Heard from the Countryside, Student Literary Circle	Kim Ch'ang-sik (Fushun Middle School)	Poem
+34	220	Notice of Thanks / Apology		Announcement/Editor's Postscript
+34	230	Woman's Essay		Literary Etc.
+34	240	Sports Commentary	Kim T'ae-ho	Editorial/Article
+34	250	Announcement for Tonggwang August 'Cooling' Issue	Tonggwangsa	Announcement/Editor's Postscript
+34	260	Student Life March		Survey
+34	270	Collected True Stories		Social Commentary
+34	280	Criticizing the Confused and Low-Key Joseon Art Exhibition	Various Artists	Art Criticism
+34	290	The Lack of Realism of Two Writers, Monthly Literary Review	Yi Mu-yŏng	Literary Criticism
+34	300	Being Good is Also a Sickness (and 1 other poem)	Song Sun-il	Poem
+34	310	O Boatman Crossing the Yellow Sea	Hwang Sun-wŏn	Poem
+34	320	Song of the Mountain Pass	Yi Ŭng-su	Poem
+34	330	Do You Remember?	Mo Yun-suk	Poem
+34	340	Short Recitations of Passing Thoughts	Yi T'ak	Poem
+34	350	A Bundle of Short Poems	Yi Sŏk-san	Poem
+34	360	Baby Born in May (and 1 other poem)	Yi Tae-yong	Poem
+34	370	Sorrowful One, Snow Falls in Springtime	Ho Che-gwang	Poem
+34	380	Your Heart That Lost Parents, To Sagang in Kyŏngwŏn on the First Road Home	Kim Cho-gyu	Poem
+34	390	A Tied-up Heart	Sambong	Poem
+34	400	Collection of Children's Poems	Yi Ho-u	Poem
+34	410	Poet Who Sings of the Soil	Kim T'ae-o	Poem
+34	420	Spring Water	Ch'a Il-lo	Poem
+34	430	Wandering	O Nak-kyo	Poem
+34	440	Student Life March Submission Guidelines		Announcement/Editor's Postscript
+34	450	The Rebirth of Non'gae (3)	Kim Tong-in	Novel/Fiction
+34	460	Notice of Thanks / Apology	Tonggwangsa	Announcement/Editor's Postscript
+34	470	The Magnanimous Lover, One Act	St. John Ervine (Ireland, Author), Chang Ki-t'ae (Translator)	Play/Scenario
+34	480	The Workhouse Ward (Full One Act), Play	Lady Gregory (Ireland, Author), Ch'oe Chŏng-u (Translator)	Play/Scenario
+34	490	Tonggwang Roundtable Conference		Social Commentary
+34	500	Reading Room		Literary Criticism
+35	010	Rural Villages on the Deadline and Their Countermeasures (Special Feature)		Editorial/Article
+35	020	Tonggwang Mental Test		Miscellaneous Writing
+35	030	The Sixth Official		News/Information
+35	040	Confucius Says...		Miscellaneous Writing
+35	050	Record of Meditation	Yi Kwang-su	Editorial/Article
+35	060	Outlook for the Saitō Cabinet's Economic Policy and Rural Relief Policy	Kim U-p'yŏng	Editorial/Article
+35	070	The Sixth Official, An Chae-hong Released on Bail		News/Information
+35	080	A Big Stick for a Small Thing (Please understand the spelling is old-fashioned due to the type)		Social Commentary
+35	090	The 5 Great Economic Blocs Born from the World Depression and Their Alignments/Divisions, The Anglo-American vs. Japan-France Confrontation and Its Global Impact	Sin Ŏn-jun	Editorial/Article
+35	100	The Sixth Official, Many Female Writers are Ill		News/Information
+35	110	The Sixth Official, An Tosan's Dentures		News/Information
+35	120	The Sixth Official, News about Posŏng College Since Then		News/Information
+35	130	The Showdown between "Hoover" and "Roosevelt", U.S. Presidential Election: Who Will Be the Next Master of the White House?	O Ch'ŏn-sŏk	Editorial/Article
+35	140	The Sixth Official, Gentlemen's Enthusiasm for Physical Education		News/Information
+35	150	The Sixth Official, Mr. Ch'oe Hŭng-jong (Teacher Obang)		News/Information
+35	160	The Lineup of the Chosŏn Ilbo		News/Information
+35	170	Worker-Peasant Russia's Preparations for War	Mr. Elias Tobenkin (Current History Magazine)	Editorial/Article
+35	180	(Straight Person, Straight Talk) What is the Donguhoe? Explaining 2 or 3 Points of Doubt	Chu Yo-han	Editorial/Article
+35	190	Historical Study of Korean Characters (14), The Process of Change in Hunminjeongeum	Kim Yun-gyŏng	Editorial/Article
+35	200	Science Fragment, The Use of Poison Gas		Miscellaneous Writing
+35	210	The Sixth Official, The Bustle of the Dong-A Ilbo		News/Information
+35	220	Science Fragment, Electric Eye		Miscellaneous Writing
+35	230	The World Cooperative Movement (2), Management Businesses within Cooperatives	Han Sŭng-in	Editorial/Article
+35	240	Science Fragment, Fireproof Lumber		Miscellaneous Writing
+35	250	True Story		Social Commentary
+35	260	Tonggwang Mental Test Answers		Miscellaneous Writing
+35	270	Student Life March: Critique of Girls' Schools		Announcement/Editor's Postscript
+35	280	Hot Water	Chŏn Sik	Poem
+35	290	I Will Depict It in Our Language	Yi Mu-gŭk	Poem
+35	300	White Clothes	Yi Wŏr-am	Poem
+35	310	May of Parting Sorrows	Chŏng Hŭng-p'il	Poem
+35	320	Sad Departure, Sending Off Kim Pong-je	Kim Tae-bong	Poem
+35	330	Two Short Pieces	Kim Yŏng-hyang (Tōkyō)	Poem
+35	340	From an Actor	Kim So-yŏp	Poem
+35	350	The Heart That Tears Down a Dugout Hut	Sin Ok	Poem
+35	360	Thinking of Mary	Yi Sŏk-san	Poem
+35	370	Fragments from a Foreign Land	Kim Sŏng-gŭn	Literary Etc.
+35	380	Leaving Jiandao Behind	Kang Kyŏng-ae	Literary Etc.
+35	390	Untitled Record, A Director's Bitter Words	Min Pyŏng-hwi	Literary Etc.
+35	400	Travel Rain in Hong Kong	Chŏng In-gwa	Literary Etc.
+35	410	(Short Story) Little Rebel	Yi Mu-yŏng	Novel/Fiction
+35	420	(Sketch) Food! Food! Food!	Hansan	Novel/Fiction
+35	430	Sŏhae as a Novelist	Kim Tong-in	Literary Etc.

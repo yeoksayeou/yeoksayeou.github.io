@@ -1,0 +1,690 @@
+**Header Section:**
+Magazine Title: 東光 (Tonggwang) 제15호
+Publication Date: 1927년 07월 05일 (July 5, 1927)
+Article Title: 都市計劃 理想的 都市는 如何한가, 科學講座 (Urban Planning: What is an Ideal City? Science Lecture)
+Author: 京西學人 (Kyŏngsŏ Hagin)
+Article Type: 論설 (Editorial/Argumentative Essay)
+
+**Body Text Translation:**
+
+Urban Planning: What is an Ideal City? Science Lecture
+						By Kyŏngsŏ Hagin
+
+The progress of modern commerce and industry has brought about the existence of things called cities. Because cities were initially left to grow naturally without any plan, their growth became entirely irregular, leading to various shortcomings in aspects such as sanitation, finance, sociology, commerce, and aesthetics. The science that arose to remedy this is called Urban Planning.
+
+I. Definition of Urban Planning and its Foundational Matters
+
+Urban Planning is the science of implementing a single plan with thorough preparation in advance, responding to the functions of each part of the city. The conditions it emphasizes are as follows:
+(a) To prepare in advance for the expansion of the city in order to enhance operational efficiency from commercial, industrial, and economic standpoints.
+(b) From a social standpoint, to enable each individual to lead a healthy and pleasant life, thereby exerting a positive influence on moral and spiritual life.
+(c) To include various facilities sufficient to satisfy the diverse requirements of citizens' cultural and aesthetic lives, thereby inspiring affection for the city and consequently patriotism.
+Therefore, Urban Planning is not merely the work of civil engineers and architects, but requires individuals with broad knowledge and research capabilities; this is why universities in Europe and America have specialized departments for it. In planning a city, for existing cities, relief measures concerning transportation, amenities, sanitation, and others should be considered. For undeveloped cities, the approach differs, anticipating several-fold population increases and preparing accordingly. However, the basic items for investigation in general urban planning are as follows: <55>
+(1) Geography and Climate
+(2) Topographical and Hydrological Characteristics
+(3) Demographic survey of population increase, distribution, health status, etc.
+(4) Physical development of the city based on past records
+(5) Regulatory methods including various laws and regulations when implementing the plan, restrictions on land and buildings, and the exercise of police power regarding health, security, morality, and welfare.
+
+II. Recent Trends
+
+Recent Urban Planning can be divided into two types: one is the Satellite City, and the other is the Zoning Plan type.
+(a) Satellite City. A Satellite City refers to several small cities, closely related to each other, surrounding a central parent metropolis. Compared to the traditional single city, it is a multi-city system, abandoning centralism and moving towards decentralism.
+(b) Zoning Plan. The Zoning Plan takes the Satellite City concept a step further, aiming to disperse the city while simultaneously designating various zones based on their nature and function. This is already being implemented in places like Boston, Chicago, New York, and Cleveland in the United States, and is spreading further to England, France, and Germany.
+This regional division is like dividing a house into a dining room, guest room, bedroom, etc., organizing the city efficiently and systematically. The divisions are typically:
+(1) Commercial Zone
+(2) Industrial Zone
+(3) Government Office Zone
+(4) Educational Zone
+(5) Recreation Zone
+(6) Residential Zone <56>
+Alternatively, it can be divided into three: (1) Commercial, (2) Industrial, (3) Residential.
+The Commercial Zone should naturally be in the city center, concentrating activities directly related to water transport and railways there. The Industrial Zone should be adjacent to rivers and railways and located far from the urban area. It is undesirable for the Government Office Zone to mix with the Retail Zone. Within the Educational Zone, schools and churches should be in areas with many residences, while libraries, art museums, and theaters are better located centrally.
+The Recreation Zone should be chosen away from the city in a place with good water and air. The Residential Zone should also prioritize health and be selected in a location with convenient transportation to the central commercial district.
+
+III. Arrangement of Various Centers
+
+The most important aspect of Urban Planning is the appropriate allocation of various centers.
+(a) Political Center. The political center is like the heart of the city; its arrangement and structure greatly affect the city's development. This center should bring together the city hall, courthouse, central post office, tax office, other government offices, banks, chambers of commerce, insurance companies, etc. Their buildings should harmonize with each other, constructed as if part of a single large compound. A large plaza should be established in the center, from which numerous arterial roads extend. Since the Political Center is the expression of the city's collective life spirit, its appearance should maintain solemnity.
+(b) Transportation Center. The Transportation Center should be located at the convergence point of railway terminals and subway, surface, and elevated tram lines, and should be considerably distant from the Government Center. Appropriate guidance facilities are necessary so that unfamiliar travelers arriving here can immediately find their way. Furthermore, to make the traveler's first impression favorable, the architecture, roads, etc., should be clean and imposing.
+(c) Social Center. The Social Center should be located near the Residential Center and should gather buildings such as museums, art galleries, libraries, exhibition halls, and exposition venues.
+(d) Entertainment Center. The Entertainment Center includes theaters, music halls, lecture halls, restaurants, etc. Sometimes a large plaza is established, with these facilities concentrated around it. Special preparation is needed for the traffic congestion during theater opening times.
+(e) Port Center. The Port, where myriad goods are gathered and dispersed, should have facilities like freight stations, piers, docks, markets, and warehouses along the riverbank or coast. A vast area should be secured to alleviate congestion. Particularly, cargo should be distinguished between goods terminating in the city and those transiting to other places, ensuring swift connection between water and land transport.
+
+IV. Streets and Their Systems
+
+Streets are the blood vessels of the city, having a fundamental relationship with security, economy, health, etc. Therefore, urban district improvement primarily involves street improvement, and cities spend enormous sums annually on street repairs.
+There are generally four types of street systems:
+(1) Irregular Type
+(2) Centralized Type
+(3) Radial Type
+(4) Grid Type
+Naturally grown cities like London are irregular; new cities like New York are built on the grid pattern. The radial type in Paris was planned by Haussmann during the time of Napoleon III. Since each of these various street systems has its pros and cons, when planning a new city, various types should be skillfully adopted according to its history and topography.
+(a) Requirements for Street Structure. Attention should be paid to street structure according to each specific zone. Major transportation arteries should radiate from the plaza in front of the train station to various locations. Streets with complex traffic must avoid the Political Center and the Residential Center. The Commercial Center, with companies and banks, should also avoid noise. In shopping streets with heavy traffic, care must be taken so that ordinary traffic is not hindered by the transport of goods.
+(b) Street Width, Gradient, and Length. The widths of famous streets are as follows:
+Champs-Élysées (Paris) 250 English Feet
+Tokyo Station Front (Tokyo) 240
+"Ribēruban" (Hamburg?) 210 <58>
+Unter den Linden (Berlin) 190
+Ringstrasse (Vienna) 185
+Whitehall (London) 120
+Parisian Boulevard (Paris) 120
+Regarding street width regulations, the London Traffic Commission determined the following in 1905:
+Main Artery 140 English Feet
+First Class Street 100
+Second Class Street 80
+Third Class Street 60
+Fourth Class Street 40-50
+Also, according to the report by Mr. John Nolen at the Third National Conference on City Planning held in Philadelphia in 1911:
+First Class Street 108 English Feet
+  Including: Freight Trucks (2 lanes) 20
+        Horse Carts (6 lanes) 48
+        Pedestrians (20 width?) 40
+Second Class Street 84
+  Including: Freight Trucks (2 lanes) 20
+        Horse Carts (4 lanes) 32
+        Pedestrians (16 width?) 32
+Local Road 48 Feet
+  Including: Horse Carts (3 lanes) 24
+        Pedestrians (12 width?) 24
+Mr. Gibson of the Royal Institute of British Architects' regulations regarding the ratio of street width to building height are as follows:
+Street Width       Ratio to Building Height   Minimum Height  Maximum Height
+40-60 English Feet   1.000                     40              60
+60-80                1.125                     67              90
+80-100               1.250                     100             125
+Street gradient should be determined by both practical transportation needs and aesthetics, demanding <59> as level a surface as possible. A gradient steeper than 1 in 70 prevents asphalt paving because vehicles and horses slip easily. Usually, 1 in 50 or 1 in 39.3 is the limit.
+Regarding street length, long straight streets are desirable for traffic, but excessive straightness becomes monotonous and can cause sandstorms depending on the season; therefore, one Korean Ri (特一里) is considered the limit.
+(c) Street Paving and Trees. Street paving materials include (1) asphalt, (2) vitulitic, (3) granite, (4) brick, (5) wooden blocks, (6) crushed stone, (7) coal tar, (8) concrete, etc. Even asphalt, the most ideal, has the drawback of melting in summer heat, causing vehicles and horses to slip.
+Street trees are said to require the following conditions:
+(1) Sufficiently leafy in summer and early leaf fall in winter.
+(2) Able to withstand dust and smoke, and not die even if branches/roots are slightly trimmed (비여도 - likely pruned).
+(3) Long-living.
+(4) Straight trunk and uniform crown.
+(5) Appropriate density of branches and leaves.
+(6) Few lower branches.
+(7) Not susceptible to pests.
+(8) Bearing no flowers or fruit.
+When planting, a spacing of 30 to 40 English feet between trees is maintained. Two rows of trees are common, but on major streets, four or more rows, up to seven, are sometimes planted.
+(d) Street Lighting. A city has a dual personality: the daytime street and the nighttime street. The quality of lighting determines the quality of the city's night view.
+Recently, for lighting, the principle is to avoid dazzling glare, use translucent glass covers, employ single-lamp posts on both sides of the street, and install them relatively low. High streetlights fail due to shadows cast by street trees or buildings.
+The lighting standard in Columbus, Ohio, USA, is as follows:
+Per square foot of street width, in Watts of electricity:
+I. Central Commercial Zone 8.0
+II. Ordinary Commercial Zone 6.0
+III. Boulevard 2.5
+IV. Residential Area on Wide Street 2.5
+V. Ordinary Residential Area 1.25
+VI. White Way Unlimited
+(e) Street Furniture. The most important street furniture includes the following:
+(1) General Service Tunnel (제네람 써비스墜道). An underground passage to organize water supply, sewage, gas, steam, pneumatic tubes (氣途管 - Kido kwan?), electric light, telephone, and telegraph cables. Its installation is expensive, but once installed, it ultimately becomes profitable, eliminating the need for constant digging and excavation of roads as seen today.
+(2) Fire Hydrant (消火栓) (3) Mailbox (郵便函), (4) Neighborhood/Street Name Sign (洞街名), (5) Signboards/Advertisements (看板廣告物), (6) Trash Can (休紙筒 - Hyujit'ong, lit. waste paper bin) (7) Safety Zone (安全地帶), (8) Electric Clock (電氣時計), (9) Fire Alarm Box (火災報知機), Public Telephone (自働電話 - Chadong Chŏnhwa, lit. automatic telephone?), Public Toilet (共同便所), Police Box (交番所 - Kyobanso), Sanitation Bucket (淸潔桶 - Ch'ŏnggyŏl T'ong?), Bench (椅子), etc. Besides these, there are issues of bridges, buildings, and parks in urban planning, but these will be deferred to the next installment. <60>
+
+**Summary**
+
+This 1927 article by "Kyŏngsŏ Hagin" introduces the concept of urban planning as a scientific discipline necessary to correct the chaotic growth of modern cities. It outlines the goals of planning (economic efficiency, social well-being, aesthetic/cultural satisfaction), foundational survey requirements, and recent trends like satellite cities and zoning (commercial, industrial, governmental, educational, recreational, residential). The author details the ideal arrangement of key urban centers (political, transportation, social, entertainment, port) and delves into street design, covering network types (irregular, centralized, radial, grid), structure, width standards (citing London, Philadelphia, RIBA), gradient limits, paving materials, appropriate street trees, and modern lighting principles (citing Columbus, Ohio). It concludes by listing essential "street furniture," notably advocating for underground utility tunnels ("General Service Tunnels"). From a historical perspective, the article is significant as it demonstrates the early introduction and discussion of advanced Western urban planning theories (zoning, satellite cities, specific technical standards from Europe/US) in colonial Korea. It reflects an awareness of global trends and a desire among Korean intellectuals (even under colonial rule, writing pseudonymously) to conceptualize ideal, modern urban environments, potentially as a response to or critique of the colonial administration's own urban development projects (like in Keijō/Seoul). The specific examples cited and the level of technical detail suggest the author was well-versed in contemporary international discourse on the subject.
+
+**Named Entities**
+
+*Original Form*	*Hangul/Kana*	*English Translation or Romanization*
+京西學人	경서학인	Kyŏngsŏ Hagin (Author pseudonym, "Scholar from West Kyŏngsŏng/Seoul")
+歐米	구미	Europe and America
+英國	영국	England/United Kingdom
+보스톤	보스톤	Boston
+쉬카고	시카고	Chicago
+뉴욕	뉴욕	New York
+클리블란드	클리블란드	Cleveland
+英	영	England/United Kingdom
+佛	불	France
+獨	독	Germany
+倫敦	런던	London
+紐育	뉴욕	New York
+巴里	파리	Paris
+나폴레온 3世	나폴레온 3세	Napoleon III
+호쓰만	호스만	Haussmann
+東京	도쿄	Tokyo
+護堡	함부르크? 호보?	Hamburg? (Most likely intended city given context and pronunciation 'Hobo')
+伯林	베를린	Berlin
+維納	비엔나	Vienna
+倫敦 交通委員會	런던 교통위원회	London Traffic Commission
+費府	필라델피아?	Philadelphia? (費府, P'ibyŏng/Hibi, is an old name for Philadelphia)
+죤 놀렌	존 놀런	John Nolen
+英國 建築學會	영국 건축학회	Royal Institute of British Architects (RIBA)
+깁슨	깁슨	Gibson (Likely referring to a member/publication associated with RIBA)
+朝鮮	조선	Korea (Implied by 朝鮮里 - Korean Ri)
+美國	미국	United States of America
+오하요	오하이오	Ohio
+골럼버스	콜럼버스	Columbus
+
+**Glossary**
+
+*Original Word*	*Standard Hangul*	*English Meaning/Explanation*
+發生ㅎ게	발생하게	to cause to occur/bring about (Older spelling using 'ㅎ' glide)
+아모	아무	any (Older spelling)
+맡기어	맡기어	entrusted to
+까닭에	까닭에	because, due to
+不規則的	불규칙적	irregular
+衛生上	위생상	from a sanitation standpoint
+財政上	재정상	from a financial standpoint
+社會學上	사회학상	from a sociological standpoint
+商業上	상업상	from a commercial standpoint
+美觀上	미관상	from an aesthetic standpoint
+各方面	각방면	various aspects/fields
+科學	과학	science
+職能	직능	function
+周到	주도	thorough, meticulous
+용의	용의	preparation, readiness (用意)
+條件	조건	condition, requirement
+商工業	상공업	commerce and industry
+經濟的	경제적	economic
+見地	견지	standpoint, viewpoint
+膨脹	팽창	expansion, swelling
+準備	준비	preparation
+健康的	건강적	healthy (modern form 건강한)
+愉快	유쾌	pleasant, cheerful
+各個人	각개인	each individual
+道德的	도덕적	moral
+精神的	정신적	spiritual, mental
+感化	감화	positive influence, inspiration
+市民	시민	citizen
+敎養的	교양적	cultural, educational
+審美的	심미적	aesthetic
+諸要件	제요건	various requirements
+滿足	만족	satisfaction
+諸般施設	제반시설	various facilities
+愛着心	애착심	affection, attachment
+愛國心	애국심	patriotism
+환기	환기	to arouse, evoke
+但히	단지	merely, only (Older form of 단지)
+土木家	토목가	civil engineer
+建築師	건축사	architect
+該博	해박	profound, extensive (knowledge)
+智識	지식	knowledge
+旣成都市	기성도시	existing city
+救濟策	구제책	relief measure, remedy
+眼中	안중	in consideration, in view
+未成都市	미성도시	undeveloped city
+幾倍	기배	several times, manifold
+豫想	예상	anticipation, expectation
+備함	대비함	preparing for (備하다)
+地理	지리	geography
+氣候	기후	climate
+地形	지형	topography
+水路學上	수로학상	hydrological
+特質	특질	characteristic, special quality
+人口增加	인구증가	population increase
+分布	분포	distribution
+健康狀態	건강상태	health status
+人口學的	인구학적	demographic
+形態調査	형태조사	form/status survey
+物理的	물리적	physical
+發達	발달	development
+實行	실행	implementation
+際하여	즈음하여	at the time of, upon
+法規	법규	laws and regulations
+土地建物	토지건물	land and buildings
+制限	제한	restriction, limit
+保安	보안	security, safety
+幸福	행복	happiness, welfare
+警察力	경찰력	police power
+運用	운용	operation, exercise (of power)
+取締方法	취체방법	regulatory method (取締 is often used in colonial context for 'control/crackdown')
+最近	최근	recent
+傾向	경향	trend, tendency
+난을 쑤 있으니	나눌 수 있으니	can be divided (Older/colloquial spelling/phrasing)
+衛星都市	위성도시	satellite city
+母體	모체	parent body
+中心	중심	center
+關係	관계	relation, connection
+數個	수개	several
+小都市	소도시	small city
+周圍	주위	surroundings
+從來	종래	conventional, traditional
+單一	단일	single
+比기어	비기어	compared to (比 - compare)
+複數都市	복수도시	multiple cities
+集中主義	집중주의	centralism
+버리고	버리고	abandoning
+散開主義	산개주의	decentralism (分散主義 is more common)
+區域計劃	구역계획	zoning plan
+再進一步	재진일보	one step further
+同時	동시	simultaneously
+性質機能	성질기능	nature and function
+特定ㅎ게	특정하게	specifically (Older spelling)
+地域的	지역적	regional
+分界	분계	division, boundary
+一家	일가	one house(hold)
+食堂	식당	dining room
+客室	객실	guest room
+寢室	침실	bedroom
+난오인	나뉜	divided (Older passive form of 나누다)
+能率的	능률적	efficient
+組織的	조직적	systematic
+區分	구분	division, classification
+普通	보통	usually, ordinary
+商業地域	상업지역	commercial zone
+工業地域	공업지역	industrial zone
+官廳地域	관청지역	government office zone
+敎育地域	교육지역	educational zone
+保養地域	보양지역	recreation/recuperation zone
+住宅地域	주택지역	residential zone
+中央	중앙	center
+水運	수운	water transport
+鐵道	철도	railway
+直接	직접	direct
+集中	집중	concentration
+河川	하천	river
+近接	근접	proximity, adjacent
+市街地	시가지	urban area
+멀리 떠난 곳	멀리 떨어진 곳	place far away
+小賣地域	소매지역	retail zone
+섞임	섞임	mixing
+學校	학교	school
+敎會	교회	church
+其外	그 외	besides that, other than that
+圖書館	도서관	library
+美術館	미술관	art museum
+劇場	극장	theater
+交通	교통	transportation
+便	편	convenient
+配置	배치	arrangement, layout
+重要	중요	important
+適當	적당	appropriate, suitable
+配當	배당	allocation, assignment
+政治中心地	정치중심지	political center
+心臟	심장	heart
+構造	구조	structure
+發展上	발전상	in terms of development
+關係	관계	relation, connection
+市廳舍	시청사	city hall building
+裁判所	재판소	courthouse
+中央郵便局	중앙우편국	central post office
+稅務所	세무서	tax office
+銀行	은행	bank
+商業會議所	상업회의소	chamber of commerce
+保險會社	보험회사	insurance company
+集合	집합	gathering, assembly
+調和	조화	harmony
+構內	구내	compound, premises
+設置	설치	establishment, installation
+廣場	광장	plaza, square
+幹線道路	간선도로	arterial road
+벋어 나가게	뻗어 나가게	to extend out (Older spelling)
+集團生活	집단생활	collective life
+精神	정신	spirit
+表現	표현	expression
+外觀	외관	appearance
+嚴肅	엄숙	solemnity
+保全	보전	preservation
+交通中心地	교통중심지	transportation center
+鐵道終點	철도종점	railway terminus
+地下	지하	underground (subway)
+地上	지상	surface (tram)
+高架電車	고가전차	elevated train/tram
+終會點	종회점	convergence point (匯集點 is more standard)
+政府中心地	정부중심지	government center
+相當	상당	considerable
+떠나 있는 곳	떨어져 있는 곳	place located apart
+未知	미지	unfamiliar
+旅客	여객	traveler, passenger
+方向	방향	direction
+案內設備	안내설비	guidance facilities
+必要	필요	necessity
+第一印象	제일인상	first impression
+威嚴	위엄	dignity, imposing manner
+社交中心地	사교중심지	social center
+博物院	박물원	museum (older term, now 박물관)
+展覽會	전람회	exhibition
+博覽會	박람회	exposition, fair
+娛樂中心地	오락중심지	entertainment center
+音樂室	음악실	music hall
+講演會場	강연회장	lecture hall
+레스토란트	레스토랑	restaurant
+開催時	개최시	at the time of opening/holding
+複雜	복잡	complexity, congestion
+豫備	예비	preparation
+埠頭中心地	부두중심지	port center
+百貨集散	백화집산	gathering and dispersal of myriad goods
+河岸	하안	riverbank
+海岸	해안	coast
+貨物驛	화물역	freight station
+設備	설비	facilities, equipment
+棧橋	잔교	pier, jetty
+船渠	선거	dock
+市場	시장	market
+倉庫	창고	warehouse
+廣闊	광활	vast, extensive
+地域	지역	area, region
+混雜	혼잡	congestion, crowding
+緩和	완화	alleviation, mitigation
+貨物	화물	cargo, freight
+떠러지는 게과	떨어지는 것과	things that arrive/terminate (Older spelling/grammar)
+中繼	중계	relay, transit
+區分	구분	distinction, division
+水陸	수륙	water and land
+連絡	연락	connection, liaison
+迅速	신속	swiftness, speed
+街路	가로	street
+血管	혈관	blood vessel
+根本的	근본적	fundamental
+市區改正	시구개정	urban district improvement/revision
+街路改正	가로개정	street improvement/revision
+年年	연년	year after year
+巨額	거액	enormous sum
+費用	비용	cost, expense
+들이는	들이는	spending
+系統	계통	system
+集中型	집중형	centralized type
+放射型	방사형	radial type
+碁盤型	기반형	grid pattern (碁盤 - Go board)
+自然生長的	자연생장적	naturally grown
+新都市	신도시	new city
+沿革	연혁	history, development
+地形	지형	topography
+巧妙	교묘	skillfully, cleverly
+採用	채용	adoption, use
+街路構造	가로구조	street structure
+要件	요건	requirement
+地域別	지역별	by zone/area
+딸아	따라	according to (Older spelling)
+重要	중요	important
+交通幹線	교통간선	transportation artery
+停車場	정거장	station (Train station context here)
+複雜	복잡	complex, intricate
+반듯이	반드시	certainly, without fail
+避하게	피하게	to make avoid
+會社	회사	company
+騷音	소음	noise
+繁劇	번극	busy, heavy (traffic)
+商店街	상점가	shopping street
+商品運搬	상품운반	goods transport
+因하여	인하여	due to
+妨碍³되지 않도록	방해되지 않도록	so as not to hinder/obstruct (妨碍 is Hanja for 방해, ³ possibly typo/notation)
+注意	주의	care, attention
+幅員	폭원	width
+句配	구배	gradient, slope (勾配)
+길이	길이	length
+著名	저명	famous, well-known
+英尺	영척	English foot (unit)
+規程	규정	regulation, rule
+報告	보고	report
+貨物自動車	화물자동차	freight truck
+幅	폭	lane width / number of lanes (used ambiguously here)
+內	내	within, including
+荷車	하차	horse cart, wagon
+步行人	보행인	pedestrian
+地方道路	지방도로	local road
+建物	건물	building
+高	고	height
+比率	비율	ratio
+最低限度	최저한도	minimum limit
+最高限度	최고한도	maximum limit
+實際上	실제상	practically, in reality
+美觀	미관	aesthetic appearance
+決定	결정	determination, decision
+平坦	평탄	level, flat
+要求	요구	demand, requirement
+分之	분지	fraction ('1 in X')
+미끄러지기	미끄러지기	slipping
+制限	제한	limit
+直線街路	직선가로	straight street
+넘어	너무	too (excessively)
+單調	단조	monotonous
+季節	계절	season
+바람	바람	wind
+砂廛	사진	sand and dust (沙塵 is standard)
+불어 오는 고로	불어 오는 고로	because it blows in (Older conjunction '고로')
+特一里	특일리	specifically one Ri (Korean unit of distance, approx. 393m)
+限定	한정	limit
+鋪裝	포장	paving
+鋪裝料	포장료	paving material (料 can mean material)
+아스팔트	아스팔트	asphalt
+비튤리틱	비튤리틱	vitulitic (Likely refers to 'vitrified brick' or a similar paving material)
+花崗石	화강석	granite
+煉瓦	연와	brick (煉瓦 is Japanese Kanji term, Korean is 벽돌)
+木製불록	목제블록	wooden block (paving)
+碎石	쇄석	crushed stone
+콜탈	콜타르	coal tar
+콩크리트	콘크리트	concrete
+理想的	이상적	ideal
+여름	여름	summer
+더위	더위	heat
+녹아서	녹아서	melting
+弊	폐	drawback, disadvantage
+街路樹木	가로수목	street tree(s)
+以下	이하	following
+備한	구비한	equipped with, possessing
+充分	충분	sufficiently
+무성하고	무성하고	leafy, luxuriant
+겨울	겨울	winter
+일쯕이	일찍이	early
+落葉	낙엽	leaf fall
+砂塵煤煙	사진매연	sand, dust, soot, and smoke
+능히	능히	capably, well
+견듸며	견디며	withstanding, enduring (Older spelling)
+技根	지근	branch and root? (枝根?) - context suggests pruning branches/roots
+若干	약간	slightly, somewhat
+비여도	베어도	even if cut/pruned (Older form of 베다 - to cut)
+枯死	고사	to wither and die
+長生	장생	long-living
+幹	간	trunk (of a tree)
+直하고	곧고	straight
+樹冠	수관	crown (of a tree)
+均齊	균제	uniform, symmetrical
+枝葉	지엽	branches and leaves
+繁茂	번무	luxuriance, density
+適當	적당	appropriate, suitable
+下枝	하지	lower branches
+별로	별로	particularly, not much
+害蟲	해충	harmful insect, pest
+붙지 안는	붙지 않는	that do not attach/infest
+花實	화실	flowers and fruit
+심을 때에는	심을 때에는	when planting
+나무사이	나무사이	between trees
+間隔	간격	interval, spacing
+樹列	수열	row of trees
+以上	이상	more than
+列	열	row
+심으는 일이 있다	심는 일이 있다	there are cases where (they) are planted (Older verb ending)
+街路照明	가로조명	street lighting
+二重人格	이중인격	dual personality
+晝間	주간	daytime
+夜間	야간	nighttime
+善不善	선불선	goodness or badness, quality
+夜景	야경	night view
+良不良	양불량	goodness or badness, quality
+근자에	근자에	recently
+눈부시는	눈부시는	dazzling, glaring
+光線	광선	ray of light
+피하고	피하고	avoiding
+半透明	반투명	translucent
+硝子	초자	glass (Used in older Korean, now 유리)
+싸서	싸서	wrapping, covering
+兩側	양측	both sides
+一燈式	일등식	single-lamp type
+燈柱	등주	lamp post
+使用	사용	use
+比較的	비교적	relatively
+낮게	낮게	lowly
+달는 것	다는 것	attaching, installing (Older spelling)
+原則	원칙	principle
+陰影	음영	shadow
+失敗	실패	failure (here context implies 'causes problems' or 'is negatively affected')
+標準	표준	standard
+一街路廣一英尺	일가로광일영척	per one English foot of street width (Seems to combine 廣 'width' and the unit)
+電力	전력	electric power
+왓트	와트	Watt (unit of power)
+中央商業地帶	중앙상업지대	central commercial zone
+普通商業帶	보통상업대	ordinary commercial zone
+불발	불러바드	boulevard (phonetic rendering)
+廣街	광가	wide street
+住宅地	주택지	residential area
+화이트 웨이	화이트 웨이	White Way (Term for brightly lit commercial streets)
+無制限	무제한	unlimited
+街路附設物	가로부설물	street furniture/ancillary facilities
+제네람 써비스墜道	제너럴 서비스 터널? 지하도?	General Service Tunnel (Phonetic rendering + 墜道 potentially 'underground way/tunnel')
+上下水道	상하수도	water supply and sewage system
+瓦斯	가스	gas (Older rendering, now 가스)
+스틤	스팀	steam (Phonetic rendering)
+氣途管	기도관	pneumatic tube? (氣 'air' + 途 'way' + 管 'pipe')
+電燈	전등	electric light
+電話	전화	telephone
+電信用	전신용	for telegraph use
+케볼	케이블	cable (Phonetic rendering)
+整理	정리	organization, arrangement
+地下道	지하도	underground passage, tunnel
+布設	부설	installation, laying
+經費	경비	expense, cost
+結局	결국	ultimately, in the end
+利益	이익	profit, benefit
+今日	금일	today (more formal/older than 오늘)
+道路	도로	road
+不絶	부절	constantly, incessantly (不絶)
+파고 들출	파고 들출	digging up and exposing
+必要	필요	need, necessity
+消火栓	소화전	fire hydrant
+郵便函	우편함	mailbox
+洞街名	동가명	neighborhood and street name
+看板廣告物	간판광고물	signboard/advertisement objects
+休紙筒	휴지통	waste paper bin, trash can
+安全地帶	안전지대	safety zone
+電氣時計	전기시계	electric clock
+火災報知機	화재보지기	fire alarm box
+自働電話	자동전화	public telephone? (lit. automatic telephone, possibly referring to coin-operated or direct-dial phones if available, or just a standard phone booth)
+共同便所	공동변소	public toilet
+交番所	교번소	police box (Kōban - Japanese term used in colonial Korea)
+淸潔桶	청결통	sanitation bucket? (清掃用 bucket?)
+椅子	의자	bench, chair
+以外	이외	besides this
+橋梁	교량	bridge
+公園	공원	park
+問題	문제	problem, issue
+下回	하회	next installment/issue
+밀기로 한다	미루기로 한다	to postpone, defer
+
+
+---------------------------
+
+
+잡지명	동광 제15호
+발행일	1927년 07월 05일
+기사제목	都市計劃 理想的 都市는 如何한가, 科學講座
+필자	京西學人
+기사형태	논설
+
+都市計劃 理想的 都市는 如何한가, 科學講座
+						京西學人
+현대의 商工業의 진보는 도시라는 물건을 發生ㅎ게 하였다. 都市는 최초에 아모 계획이 없이 自然生長에 맡기어 둔 까닭에 그 生長이 전혀 不規則的으로 되어 衛生上, 財政上, 社會學上, 商業上, 美觀上, 각방면에 있어서 여러 가지 결점을 가지게 되었다. 이를 구제하기 위하여 일어난 것이 都市計劃이란 일종의 과학이다.
+
+一. 都市計劃의 定義와 그 基礎事項
+都市計劃은 도시의 各部의 職能에 응하여 미리 周到한 용의로서 한 개의 계획을 실시하는 과학이니 그 치중하는 조건이 다음과 같다.
+(가) 商工業 내지 經濟的 견지에 있어서 活動能率을 증진하게 하기 위하여 그 도시의 膨脹에 대하여 미리 준비할 것.
+(나) 社會的 見地에 있어서 건강과 유쾌한 생활을 各個人이 할 수 있으며 딸아서 道德的 精神的 생활에 좋은 感化를 일으키게 할 것.
+(다) 市民의 敎養的 밑 審美的 생활의 諸要件을 만족시킬 만한 제반시설을 포함하여 市에 대한 愛着心, 딸아서 愛國心을 환기할 만한 것 등이다.
+그럼으로 都市計劃은 但히 土木家, 建築師의 事業이 아니라 該博한 智識과 연구를 가진 사람이라야 될 것이니 歐米에서 각 大學에 이에 대한 專門科가 있음은 이 까닭이다. 都市를 계획함에는 旣成都市에 대하여는 交通, 慰安, 衛生, 其他에 대한 救濟策을 眼中에 둘 것이요. 未成都市에 대하여는 人口가 幾倍로 증가할 것을 예상하고 이에 備함으로 그 태도가 각기 다르나 일반 都市計劃의 기초적 調査要項은 다음 같다.＜55＞
+(1) 地理와 氣候
+(2) 地形 及 水路學上의 特質
+(3) 人口增加, 分布, 健康狀態등의 人口學的 形態調査
+(4) 過去의 기록을 기초로 한 都市의 물리적 발달
+(5) 計劃을 실행함에 際하여 諸 法規, 土地建物에 대한 制限, 健康, 保安, 道德, 幸福에 대한 警察力의 運用등을 포함한 取締方法
+
+二. 最近의 傾向
+최근의 都市計劃은 두 가지로 난을 쑤 있으니 하나는 衛星 都市요. 하나는 區域 計劃式이다.
+(가) 衛生都市. 衛星都市라 함은 母體인 大都市를 중심으로 하고 서로 關係 깊은 數個의 小都市가 그 주위를 둘러 쌓은 것이니 종래의 단일 都市에 비기어 複數都市요 集中主義를 버리고 散開主義로 나아가는 것이다.
+(나) 區域計劃. 區域計劃은 衛星都市를 再進一步하여 도시를 散開하는 동시에 그 性質機能에 의한 各種區域을 특정ㅎ게 하자는 것으로 이미 英國의 「보스톤」 「쉬카고」 「뉴욕」 「클리블란드」등에서 실시되고 다시 英, 佛, 獨으로 퍼지어 가는 중이다.
+이 地域的 分界는 마치 一家가 식당, 객실, 침실 등으로 난오인 것 같이 도시를 能率的 組織的으로 구분함인데 그 구분은 普通
+(1) 商業地域
+(2) 工業地域
+(3) 官廳地域
+(4) 敎育地域
+(5) 保養地域
+(6) 住宅地域＜56＞
+으로 난우고 혹은 (1) 商, (2) 工, (3) 住宅의 三者로 난우기도 한다.
+商業地域은 물론 市의 중앙으로 하고 오직 水運 及 鐵道와 직접 관계있는 것은 그리로 집중할 것이요. 工業地域은 河川, 鐵道와 근접하고 市街地에서 멀리 떠난 곳으로 할 것이다. 官廳地域이 小賣地域과 섞임이 재미없고 敎育地域중 學校와 敎會는 住宅 많은 곳에 其外에 圖書館, 美術館, 劇場은 중앙이 좋다.
+保養地域은 市에서 떠나 물 좋고 공기 좋은 곳을 택할 것이며 住宅地域도 건강을 주로 하고 중앙 상업대에 교통 편한 곳을 택할 것이다.
+
+三. 各中心地의 配置
+都市計劃의 가장 중요한 것은 각 中心을 적당히 배당하는 것이다.
+(가) 政治中心地. 정치중심은 都市의 심장과 같은 것이니 그 配置와 구조는 市의 發展上 크게 관계되는 바니 이 중심에는 市廳舍, 裁判所, 中央郵便局, 稅務所, 기타 官廳과 은행, 상업회의소, 보험회사 등을 집합하되 그 건물들이 서로 조화되어 일개의 큰 構內와 같이 지을 것이요. 중앙에는 큰 광장을 설치하고 그리로서 幾多의 幹線 道路가 벋어 나가게 할 것이다. 政治中心은 그 市의 集團生活 精神의 표현이니까 외관으로도 엄숙을 보전하도록 할 것이다.
+(나) 交通中心地. 交通中心은 鐵道終點과 地下, 地上, 高架電車등의 終會點에 있어야 하고 政府中心地에서는 상당히 떠나 있는 곳이라야 한다. 또는 미지의 旅客이 여긔 나리더라도 곳 방향을 알 쑤 있게 적당한 案內設備가 필요하고 또 旅客의 제일 인상을 좋게 하기 위하여 建築道路등을 깨끗하고 위엄있게 할 것이다.
+(다) 社交中心地. 社交中心地는 住宅中心地와 가깝은 곳에 博物院, 美術館, 圖書館, 展覽會와 博覽會등의 건물을 집합하게 한다.
+(라) 娛樂中心地. 娛樂中心地에는 劇場, 音樂室, 講演會場, 레스토란트등을 포함하고 혹은 대광장을 설치하고 그 주위에 집중하게도 하며 특히 극장 개최시의 交通複雜에 예비할 필요가 있다.
+(마) 埠頭中心地. 百貨集散되는 埠頭는 河岸 及 海岸에 貨物驛의 설비와 棧橋船渠, 市場, 倉庫등을 설치하고 광활한 지역을 잡아 혼잡을 완화하며 특히 화물 중에도 그 도시에 떠러지는 게과 中繼하여 다른 곳으로 보내는 것과를 구분하여 水陸의 연락을 신속하게 할 것이다.
+
+四. 街路와 그 系統
+街路는 都市의 혈관이니 保安, 經濟, 健康등에 근본적 관계가 있는 것임으로 市區改正은 주로 街路改正이 되고 年年 市는 街路修繕에 거액의 비용을 들이는 것이다.
+街路 계통은 대개 4종이 있으니
+(1) 不規則型
+(2) 集中型
+(3) 放射型
+(4) 碁盤型
+이다. 倫敦같은 自然生長的 都市 不規則的이요. 紐育같은 新都市는 碁盤型으로 되었다. 巴里의 放射型은 「나폴레온」3世때에 「호쓰만」의 計劃한 바다. 이 여러 종류의 街路系統은 다 一長一短이 있음으로 새로 都市를 계획함에는 그 沿革과 地形을 딸아 巧妙히 各型을 채용할 것이다.
+(가) 街路構造의 要件. 街路의 構造는 各其 地域別에 딸아 注意할 것이 있으니 重要 交通幹線은 停車場 前의 廣場을 中心으로하여 各地로 퍼지어야 하며 交通複雜한 街路는 반듯이 政治中心地와 住宅中心地를 避하게 할 것이다. 會社 銀行 등이 있는 商業中心地도 騷音을 避하게 할 것이요. 交通繁劇한 商店街는 商品運搬으로 因하여 普通 交通이 妨嬀³되지 않도록 注意할 것이다.
+(나) 街路의 幅員 句配 及 길이. 著名 街路의 幅圓은 다음 같다.
+「샨젤리제」 (巴里)  250英尺
+東京驛前 (東京)  240
+「리베르번」 (護堡)  210＜58＞
+「운테트덴린던」 (伯林)  190
+「링 스트랏세」 (維納)  185
+「화이트 흘」 (倫敦)    120
+「파리쟌 붙발」 (巴里)  120
+街路幅員에 관한 규정은 1905년 倫敦 交通§”員會에서 左와 같이 정하였다.
+大街  140英呎
+一等街 100
+二等街 80
+三等街 60
+四等街 40-50
+또 1911년 費府에 열린 第三回 都市計劃大會에서 「죤 놀렌」씨의 보고에 의하면
+一等街路 108英呎
+貨物自動車 2幅 20
+內 荷車 6幅 48
+步行人 20幅 40
+二等街路 84
+貨物自動車 2幅 20
+內 荷車4幅 32
+步行者 16幅 32
+地方道路 48呎
+內 荷車 3幅 24
+步行者 12幅 24
+街路의 幅員과 건물의 高에 대한 英國 建築學會 「깁슨」氏의 규정은 다음 같다.
+街路幅員
+40-60英呎
+60-80
+80-100
+建物商의 比率
+1,000
+1,125
+1,250
+最低限度
+40
+67
+100
+最高限度
+60
+90
+125
+街路의 句配는 교통의 實際上 필요와 美觀 두 가지로서 決定될 것인데 될 수 있는＜59＞ 대로 평탄한 것을 요구한다. 70分之1 이상의 句配는 「아스팔트」를 깔 수 없는 것이니 車馬가 미끄러지기 쉬운 까닭이다. 보통 50分之1 혹은 39. 3分1이 제한이다.
+街路의 길이는 交通上으로는 될 수 있는 대로 긴 直線街路를 요구하나 넘어 직선이 길면 단조하고 또 계절 딸아는 바람으로 인하여 砂廛을 불어 오는 고로 特一里(朝鮮里)를 한정으로 한다.
+(다) 街路 鋪裝과 樹木. 街路의 鋪裝料는 (1) 아스팔트, (2) 비튤리틱, (3) 花崗石 (4) 煉瓦 (5) 木製불록 (6) 碎石 (7) 콜탈 (8) 콩크리트 등이 있는데 가장 理想的이 아스팔트도 여름에는 더위에 녹아서 車馬가 미끄러지는 弊가 있다.
+街路樹木은 이하의 요건을 備한 것이라 한다.
+(1) 여름에는 충분히 무성하고 겨울에는 일쯕이 낙엽되는 것.
+(2) 砂塵煤煙에 능히 견듸며 技根을 약간 비여도 枯死아니 하는 것.
+(3) 長生하는 것.
+(4) 幹이 直하고 樹冠이 均齊한 것.
+(5) 枝葉의 繁茂가 적당한 것.
+(6) 下枝가 별로 없는 것.
+(7) 해충이 붙지 안는 것.
+(8) 花實이 없는 것.
+심을 때에는 나무사이에 30英尺으로 40英尺까지의 간격을 두고 또 樹列은 2列이 보통이나 大街에는 4列이상 7列까지 심으는 일이 있다.
+(라) 街路照明. 都市는 二重人格을 가지었으니 晝間의 街路와 夜間의 街路가 이것이라. 照明의 善不善은 都市의 夜景의 良不良을 결정하는 것이다.
+照明에는 근자에 눈부시는 광선을 피하고 반투명의 硝子로 싸서 街路兩側에 一燈式 燈柱를 사용하고 비교적 낮게 다는 것을 원칙으로 한다. 높은 街燈은 街路樹 혹은 건물의 陰影을 실패한다.
+美國 「오하요」에 「골럼버스」市의 照明標準은 다음 같다.
+一街路廣一英尺에 대하여 電力 「왓트」로
+一. 中央商業地帶 8,0
+二. 普通商業帶 6,0
+三. 「불발」 2,5
+四. 廣街의 住宅地 2,5
+五. 普通住宅地 1,25
+六. 화이트 웨이 無制限
+(九) 街路附設物. 가장 중요한 街路附設物은 다음 같다.
+(1) 제네람 써비스墜道. 上下水道, 瓦斯, 스틤, 氣途管, 電燈, 電話, 電信用의 케볼 등을 정리하기 위한 地下道니 그 布設은 경비가 많이 드나 한번 布設한 후는 결국 이익이 되어 금일같이 道路를 불절히 파고 들출 필요가 없어진다.
+(2) 消火栓 (3) 郵便函, (4) 洞街名, (5) 看板廣告物, (6) 休紙筒 (7) 安全地帶, (8) 電氣時計, (9) 火災報知機, 自働電話, 共同便所 交番所, 淸潔桶, 椅子 등 이밖에 都市計劃에 대하여는 橋梁과 建物 及 公園의 문제가 있지마는 下回로 밀기로 한다.＜60＞
+＜55-60＞

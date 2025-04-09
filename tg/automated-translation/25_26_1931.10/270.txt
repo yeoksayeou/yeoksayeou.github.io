@@ -1,0 +1,180 @@
+Magazine Title: 동광 제26호
+Publication Date: 1931년 10월 04일
+Article Title: 科學行進 (Science March)
+Author: N/A
+Article Type: 소식 (News)
+
+Science March (科學行進)
+
+Germany's Pocket Battleship (獨逸의 소형전투함)
+What is the fearsome destructive power of Germany's pocket battleship *Deutschland*, which France aims to make a target of fear and included among the conditions for repeal in the recent war debt payment plan?
+Normally using diesel engines, the maximum speed is 20 knots, but this *Deutschland* possesses a speed of 26 knots.
+Secondly, because the steel plates were joined using electric welding, one million rivets were omitted, removing 550 tons of weight. It is said that only the German navy has used this method on warships so far.
+Its armament consists of six 11-inch guns, with three each in turrets fore and aft. These cannons can fire a 670-pound shell. In contrast, a French cruiser of the same ten thousand tons can only fire a shell of barely 271.5 pounds with its 8-inch guns.
+One strange thing is that its construction cost amounted to 4 million dollars. While Britain's largest battleship costs $240 per ton, this one averages $400 per ton, which is a strange point.
+
+The Marvelous Progress of Science (과학의 경이적 진보)
+Chandrasekhara Venkata Raman, Nobel Prize winner from India (印度), has proved that light, composed of extremely tiny molecules previously only considered theoretically, possesses movement with an additional angle.
+Dr. Einstein, in a lecture in Berlin (伯林), announced a dynamic concept of the universe where its size changes with time, contrary to the old static view where the universe's volume was fixed.
+Dr. Stille, a scientist in Berlin (伯林), is said to have completed a device that records telephone conversations over long distances within the city or across oceans.
+Dr. Wilhelm Grothe announced at the German Coal Association (獨逸石炭協會) that protein can be extracted from coal. One cannot help but feel that the development of human knowledge is infinite.
+
+The Crow's Antics (가마귀의 곡)
+It is often seen that birds perform aerial acrobatics when courting. According to a report by Mr. Evershed in the British science journal *Nature*, he saw crows performing such acrobatics to satisfy their mates.
+"Two crows were initially flying very close together. This is a habit of crows. As the two passed by me, the one closer to me suddenly, without any warning, rolled sideways and dropped about six feet below the bird flying alongside it, lying flat on its back with its belly to the sky. Lying like this, it flew on without losing its horizontal position. To be more precise, it was flying horizontally while flapping its wings, still lying on its back. It flew like this for some time at the same speed as its companion, but the companion paid no attention and continued flying as before.
+After flying on its back like this for a while, the crow turned itself over again. Of course, in turning over, it couldn't help but drop further towards the ground while flapping its wings. By this time, the birds had gone quite far, making observation difficult, but the last thing seen before they disappeared from view was the two flying side-by-side again."
+
+Desert and Mice (사막과 쥐)
+Mice living in the desert can survive drinking less water than mice living elsewhere. This was researched and announced by Dr. Sumner of the Scripps Institution of Oceanography (스크립스大洋學協會). The water required by one type of desert mouse relative to its body weight is significantly less than the amount required by the same type of mouse living in other regions. And this difference, as a result of comparative research on various types of mice, was found to be hereditary. <79>
+
+Fish Living with a Severed Neck (목을 따고 사는 생선)
+A fish was discovered that not only continued to live after its throat was cut with a knife but also used the cut place instead of a mouth.
+An exhibit recently displayed at the Erie Museum (에리박물원) in America (미국) is a fish that injured its throat when young, pierced by a knife or something similar, but not only did it not die because of it, but it clearly used the resulting hole as a second mouth.
+This second mouth, of course, lacks constrictor muscles (縮約筋), so it seems it could never close. However, the evidence that it used this as a mouth is clear: when this fish was caught by angling, it came out biting the hook with this second mouth. According to scientists, such cases have been recorded several times in the past.
+
+Atoms and New Units (元子와 新單位)
+Scientists have found it necessary to abandon the traditional fundamental unit of matter and seek a new atomic unit. The unit chemists used in the past was the weight of the oxygen atom (酸素元子), which has been called 16.
+
+According to Dr. Aston of Trinity College (트리니티대학) in England, since it has now been discovered that there are three types of oxygen atoms with atomic weights (원자량) of 16, 17, and 18, the actual molecular weight of oxygen is about one twelve-thousand-five-hundredth (1/12500) more than the 16 that chemists have used up to now.
+
+Even if chemists can continue with the current unit, for physicists who require an accuracy of one part in ten thousand, a more precise unit is needed.
+
+Therefore, candidates for the new unit include the proton (양성핵) of hydrogen, the neutral hydrogen atom (중성수소원자), one-fourth of the neutral helium atom (중성헬리움원자), and one-sixteenth of the neutral oxygen atom (중성산소원자), but it is said that all have their pros and cons. <78>
+<79-78>
+
+**Summary**
+
+This article compiles various science news items from 1931. It covers German naval advancements (the *Deutschland* battleship), fundamental physics discoveries (Raman effect, Einstein's dynamic universe), technological innovations (long-distance call recording, protein from coal), peculiar biological observations (crow courtship flight, desert mice adaptation, a fish using a wound as a mouth), and the debate surrounding the need for a new atomic mass unit due to the discovery of oxygen isotopes. From a historical perspective, the article shows the keen interest in contemporary Western scientific and technological progress within colonial Korea, ranging from military technology relevant to international power dynamics (Germany vs. France/UK) to cutting-edge physics and chemistry, alongside more anecdotal nature stories. It reflects the global dissemination of scientific news and the awareness of figures like Einstein and Nobel laureates during that era.
+
+**Named Entities**
+
+獨逸	독일	Germany
+佛蘭西	불란서	France
+더이취란드號	더이취란드호	Deutschland (ship)
+印度	인도	India
+찬드라세카라 ·벤가다	찬드라세카라 벤가다	Chandrasekhara Venkata Raman
+아인스타인	아인스타인	Einstein
+伯林	백림	Pŏllin (Berlin)
+스틸레	스틸레	Stille
+윌헴·그루드	윌헴 그루드	Wilhelm Grothe
+獨逸石炭協會	독일석탄협회	German Coal Association
+영국	영국	England/Britain
+네추어	네추어	Nature (journal)
+에버세드	에버세드	Evershed
+스크립스大洋學協會	스크립스대양학협회	Scripps Institution of Oceanography
+섬너	섬너	Sumner
+미국	미국	United States
+에리박물원	에리박물원	Erie Museum
+트리니티대학	트리니티대학	Trinity College
+아스턴	아스턴	Aston
+
+**Glossary**
+
+소형전투함	소형전투함	Pocket battleship (lit. small-type warship)
+戰債支拂案	전채지불안	War debt payment plan
+철폐	철폐	Abolition, repeal
+디젤기관	디젤기관	Diesel engine
+海理	해리	Nautical mile
+전기용접법	전기용접법	Electric welding method
+鐵釘	철정	Rivet (lit. iron nail)
+噸	톤	Ton (unit of weight)
+무장	무장	Armament
+砲塔	포탑	Gun turret
+吋砲	인치포	Inch gun (referring to caliber size)
+포환	포환	Cannonball, shell
+순양함	순양함	Cruiser (warship)
+건조비	건조비	Construction cost
+極微分子	극미분자	Extremely tiny molecule
+靜的	정적	Static
+動的	동적	Dynamic
+遠距離	원거리	Long distance
+大洋	대양	Ocean
+電話會話	전화회화	Telephone conversation
+단백질	단백질	Protein
+유출	유출	Extraction, derivation
+인지	인지	Human knowledge, intellect
+곡예	곡예	Acrobatics
+배우	배우	Mate, spouse (here, referring to bird mate)
+예고	예고	Warning, notice
+수평	수평	Horizontal
+동행자	동행자	Companion
+안계	안계	Field of vision (older term, now 시야)
+사막	사막	Desert
+수분	수분	Moisture, water content
+유전적	유전적	Hereditary, genetic
+목아지	목아지	Neck/throat (colloquial/slightly dated)
+진렬	진렬	Display, exhibition (older spelling of 진열)
+縮約筋	축약근	Constrictor muscle
+재래	재래	Conventional, traditional, existing
+단위	단위	Unit
+酸素元子	산소원자	Oxygen atom
+원자량	원자량	Atomic weight
+양성핵	양성핵	Proton (lit. positive nucleus)
+중성수소원자	중성수소원자	Neutral hydrogen atom
+중성헬리움원자	중성헬륨원자	Neutral helium atom
+중성산소원자	중성산소원자	Neutral oxygen atom
+잇다	있다	To be, exist (older spelling)
+햇다	했다	Did (older spelling)
+가젓다	가졌다	Possessed, had (older spelling)
+안는다	않는다	Does not (older spelling)
+하엿음으로	하였으므로	Because (it) did (older spelling/form)
+폰드	파운드	Pound (unit of weight)
+드럿다	들었다	Cost (lit. entered) (older spelling)
+갓다	갔다	Went (older spelling)
+떠러지면서	떨어지면서	While falling/dropping (older spelling)
+갓을	갔을	When (it) went (older spelling)
+가즈런히	가지런히	Neatly, side-by-side (older spelling)
+잇을	있을	Will be, existing (older spelling)
+따문에	때문에	Because of (older spelling/form)
+뚤린	뚫린	Pierced, perforated (older spelling)
+다믈지	다물지	To close (mouth/lips) (older spelling)
+낙시	낚시	Fishing, fishing hook (older spelling)
+햇다는	했다는	That (it) did (older spelling)
+하드래도	하더라도	Even if (one) does (older spelling/dialectal form of 하더라도)
+잇어서는	있어서는	For, regarding (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제26호
+발행일	1931년 10월 04일
+기사제목	科學行進
+기사형태	소식
+
+科學行進
+獨逸의 소형전투함
+佛蘭西가 공포의 목표를 삼고 이번 戰債支拂案에도 철폐 조건에 들어간 獨逸의 소형전투함 더이취란드號의 공포할 괴력은 무엇인가.
+보통 디젤기관을 사용해서 최고 속력이 일시에 20海理인데 이 더이취란드는 26海理의 속력을 가젓다.
+둘재로는 전기용접법으로 철판을 접하엿음으로 100만개의 鐵釘을 생략해서 550噸의 중량을 除한 것이다. 아직까지 戰鬪艦에 이 법을 쓴 것은 獨逸 해군 뿐이라 한다.
+무장으로는 砲塔 전후에 3개식 잇는 6문의 11吋砲다. 이 대포는 670폰드의 포환을 발사할 수 잇다. 같은 일만噸이라도 佛蘭西의 순양함이 8吋砲로 겨우 271폰드 반의 탄환을 발사함에 지나지 안는다.
+한가지 이상한 것은 그  건조비가 400만 불이나 들엇다는 것이다. 영국 최대의 전함이 1톤에 240불인데 이것은 1톤에 400불 평균이니 이상한 점이다.
+
+과학의 경이적 진보
+印度와 노벨과학상 획득자 찬드라세카라 ·벤가다씨는 지금까지 이론상으로만 생각하는 極微分子로 된 광선이 附加的 角度 잇는 동작을 소유해 잇다는 것을 증명햇다.
+아인스타인 박사는 伯林에서의 강연에서 우주의 용적이 고정되어 잇다는 昔日의 靜的 우주관과 반대로 시간과 함께 그 크기가 변화한다는 우주의 動的 개념을 발표햇다.
+伯林의 과학자 스틸레 박사는 시내 遠距離 혹은 大洋을  隔한 電話會話를 기록하는 장치을 완성햇다 한다.
+윌헴·그루드 박사는 獨逸石炭協會에서 석탄에서 단백질을 유출할 수 잇다는 발표를 햇다. 인지의 발달은 무한이란 감이 不無하다.
+
+가마귀의 곡
+새들이 연애를 할 때에 공중곡예를 하는 것은 늘 보는  일이다. 영국 과학잡지 「네추어」에 에버세드씨가 보고한 바에 의하면 가마귀들이 그 배우를 만족시키기 위하야 그런 곡예를 행하는 것을 보앗다 한다.
+「두 가마귀는 처음에 매우 가까이 날고 잇엇다. 이것은 가마귀의 버릇이다. 그 두 마리가 옆을 지나 갈때에 내게 가까이 잇든 놈이 갑작이 아모 예고도 없이 옆으로 굴더니 같이  날던 새보다 한 6자 가량 떠러지면서 배를 하늘로 두고 반듯이 누엇다. 이러케 누어서 수평을 잃어버리지 않고 그냥 날라갓다. 좀더 정확히 말하자면 그대로 누은 채로 날개를 펄덕거리면서 수평적으로 날고 잇엇다. 이러케 얼마 동안을 동행자와 같은 속도로 날고 잇는데 동행하는 놈는 본체만체하고 역시 날던 대로 날고 잇엇다.
+이러케 누어서 얼마를 날든 가마귀는 다시 몸을 뒤집엇다. 몸을 뒤집노라고는 물론 날개르 펏득거리며 얼마간 더 땅으로 떠러지지 않을 수가 없엇다. 이때는 벌서 새들이 매우 멀리 갓을 때이므로 관찰하기가 곤란햇으나 최종으로 眼界에서 벗어나기 전에 본 것은 두 놈이 다시 가즈런히 날러가는 것이엇다.
+
+사막과 쥐
+사막의 사는 쥐는 다른데 사는 쥐보다 물을 덜 마시고도 살수잇다. 이것은 스크립스大洋學協會의 섬너 박사가 연구 발표한 것이다. 사막에 사는 쥐의 일종이 그 체중에 비하야 요구하는 수분은 같은 종류의 쥐로서 타지방에 사는 것의 요구 분량에 비하야 훨신 적다. 그리고 이 차이는 여러 종류의 쥐를 다 비교 연구한 결과  유전적임이 발견되엇다. ＜79＞
+
+목을 따고 사는 생선
+칼로 목아지를 따도 그냥 살아 잇을 뿐 아니라 그 목딴 자리를 입대신으로 쓰든 생선이 발견되엇다.
+미국 에리박물원에 최근 진렬된 생선 하나는 어렷을 적에 칼이나 무엇에 찔리어 목을 상햇는데 그것 따문에 죽지 않엇을 뿐 아니라 그 뚤린 구멍을 第二의 입으로 사용하야 온 것이 분명하다 한다.
+이 제2의 입은 물론 縮約筋이 없음으로 다믈지는 영 못한 모양이다. 그러나 이것을 입으로 사용햇다는 증거는 분명하니  이 생선을 낙시로 잡앗을 때에 보니까 이 第二의 입으로 낙시를 물고 나오 것이엇다. 과학자의 말을 들으면 이런 실례는 과거에도 여러 번 기록에 남아 잇다고 한다.
+
+元子와 新單位
+과학자들은 재래의 물질의 근본 단위를 버리고 새로운 원자 단위를 구하지 않으면 안되게 되엇다. 화학자가 과거에 사용하든 단위는 酸素元子의 중량인데 이것을 16이라고 불러왓다.
+
+영국 트리니티대학의 아스턴 박사의 설에 의하면 현재에 이미 산소의 원자가 16 17 18의 원자량을 가진 三種이 잇는 것이 발견된 이상 사실상의 산소의 분자량은 화학자가 입때까지 써 오는 16보다 약 만 분지 일. 125가량이 많다 하엿다.
+
+화학자가 현재의 단위로 그냥 지낼수 잇다 하드래도 만분지일의 정확을 요하는 물리학자에게 잇어서는 더 정확한 단위가 필요하다는 것이다.
+
+그래서 새로운 단위의 후보자로는 수소의 양성핵, 중성수소원자, 중성헬리움원자의 4분1, 중성산소원자의 16분지1 등이 잇으나 다 一短一長이 잇다한다. ＜78＞
+＜79-78＞

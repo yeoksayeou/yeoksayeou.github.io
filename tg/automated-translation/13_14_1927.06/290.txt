@@ -1,0 +1,118 @@
+Magazine Title: 동광 제14호
+Publication Date: 1927년 06월 01일
+Article Title: 呑棗냐 搆說이냐, 한글토론(6) (Swallowing Whole or Fabrication? The Hangeul Debate (6))
+Author: 安自山 (An Chasan)
+Article Type: 논설 (Editorial/Argument)
+
+Swallowing Whole or Fabrication? The Hangeul Debate
+						An Chasan
+
+I. This column allows Korean language researchers to present their unique opinions.
+II. This column also publishes assertions, rebuttals, or questions and answers regarding Korean language research.
+III. Spelling or punctuation methods differing from this company's assertions are permitted only in this column, exactly as they appear in the original manuscript.
+
+Regarding the May issue, Mr. Chŏng Yŏlmo's challenging piece directed at me was published. Intuitively judging its content, one cannot determine if it is insult (揮辱) or outrageous behavior (駭擧), but upon detailed examination, it is either swallowing whole (呑棗) or fabrication (搆說).
+
+He said, "Secondly, the issue of etymology you mentioned is too lofty for me to understand."
+
+He also said, "Unfortunately, I do not know Sanskrit."
+
+He also said, "[You] occasionally use Sanskrit that others do not know."
+
+While thus confessing his lack of qualification to interpret my words, the fact that he raised various points of contention must be considered a theory born of "swallowing whole" (呑棗)—this is an intuitive judgment, but the tone is indeed that of "swallowing whole."
+
+That the tone is one of "swallowing whole" lies in his fabrication (搆陷) concerning my words.
+
+You said, "Where did you see that ㅑ, ㅕ, and ㅛ are absolutely pure vowels (絶粹한 母音)?" ... I have never called ㅑ, ㅕ, and ㅛ pure vowels; see the February issue (9).
+
+You also said, "<55> Originally, conjugation (활용) refers to the change in formal meaning of the same word, not a change in substantial meaning. How could a clever person like you not have known this earlier?" ... I already analyzed this in the February issue (14), so what is this slander (讒訴) saying I did not know?
+
+You also said, "Considering even '띄' [tti] as a conjugation of '뜨' [ttŭ] reveals your lack of grammatical knowledge. Sir, do not be surprised. Isn't '뜨' intransitive and '띄' transitive?" ... In that article, my main point was not conjugation; rather, I was speaking of the organizational change of root vowels in any word... Therefore, a verb changing into a noun follows the same pattern... 뜨 [ttŭ] 띄 [tti] - (to wear/carry, 帶)... An adjective changing into a noun also follows the same pattern... 크 [k'ŭ]-킈 [k'ŭi] (height, 身長)... An example of a pronoun changing... 그 [kŭ]-거긔 [kŏgŭi]... 이 [i]-여긔 [yŏgŭi]... Similarly, how can you fabricate (搆說) that my explanation of root vowel changes is about the system of conjugation?
+
+You also said, "Since '잣지기' [chatsjigi] is used, like you said, when writing the same character consecutively, isn't this an affirmation of consonant doubling (幷書)? Why do you say things that contradict each other like this?" ... This too is fabrication (搆說)... The statement in the March issue's section on consonant doubling (11)(12) was that when doubling any character, for aesthetics, (*) is sometimes used, so why bother doubling consonants unpleasantly?... How can you fabricate (搆說) that I affirmed consonant doubling and claim contradiction, resisting the point? <56>
+
+You also said, "Saying 'The consonant doubling at the time of the creation of Eonmun (諺文) was fundamentally wrong'—where does such insolence come from? Just because... society lacks public opinion, can one chirp recklessly?" ... This is intimidation (威挾), the extreme of framing (搆陷). What is this mindset that later generations cannot critique the deeds of ancient sages and must absolutely obey? Is this not flunkeyism (事大主義) that ignores theoretical discourse and imposes dominance through power? If critique is thus forbidden, what is the fundamental spirit behind our current efforts to organize and decide whether to use [forms] well or poorly?
+
+Those people always resort to insults if not plotting (謀陷). If they intend to counter with such slander (讒訴) or malicious talk (惡說), wouldn't it be better to engage in wrestling (角抵) with brute force?
+
+Originally, you gentlemen have a habit of fabrication (搆說), even claiming in newspaper advertisements that I am an opponent of 정리 (reorganization/standardization) of Eonmun (諺文)... Anyone should know that my discussions are precisely about organizing it genuinely and purely, so why do they slander (讚訴) me as an opponent of reorganization?... If they intend to frame me like this, the new academic world will again be driven into the whirlwind (回旋風) of the Four Color Factional Strife (四色黨爭). Oh, heavens! What kind of human affair is this!
+
+If you have questions regarding the Korean spelling system (new final consonant style) used in this magazine, please ask. (Postcard only) We will provide answers in this column. <57>
+
+**Summary**
+
+An Chasan defends himself against criticisms made by Chŏng Yŏlmo in the previous issue concerning An's views on Korean linguistics and Hangeul orthography. An accuses Chŏng of either misunderstanding his points ("swallowing whole") or deliberately misrepresenting them ("fabrication"), refuting specific claims about pure vowels, conjugation vs. root vowel changes, consonant doubling (byeongseo), and the legitimacy of critiquing historical linguistic practices. An decries Chŏng's tone as resorting to slander, intimidation, and ad hominem attacks, warning that such methods recall the destructive factionalism of the past (Sasaektangchaeng). The article reveals the intense and often personal nature of debates surrounding Korean language standardization during the colonial period, highlighting the clash between different linguistic theories and the sensitivity around critiquing tradition versus pursuing modernization and 'purity' in the language under external pressures. Historians might find the passionate defense, the specific linguistic points debated (vowel purity, conjugation, byeongseo), and the invocation of historical factionalism (Sasaektangchaeng) indicative of the broader intellectual and nationalistic currents shaping language policy discussions at the time.
+
+**Named Entities**
+
+安自山	안자산	An Chasan
+鄭烈模	정렬모	Chŏng Yŏlmo
+
+**Glossary**
+
+呑棗	탄조	Swallowing a date whole; metaphor for accepting something uncritically or without understanding.
+搆說	구설	Fabrication, misrepresentation, slander.
+撥文	발문	A written challenge, rebuttal, critique.
+揮辱	휘욕	Insult, defamation.
+駭擧	해거	Startling or outrageous behavior/statement.
+料亮	요량	Consideration, judgment, understanding (older usage).
+絶粹	절수	Absolutely pure.
+업다	없다	To not exist, to lack (older spelling).
+햇서	했어	Did (older spelling/colloquial form).
+몰낫는고	몰랐는고	Did not know? (older spelling and archaic interrogative ending).
+活用	활용	Conjugation, inflection (linguistic term).
+缺乏	결핍	Lack, deficiency.
+나태낸	나타낸	Showed, revealed (apparent older spelling/typo for 나타낸).
+根母音	근모음	Root vowel.
+엇지 하야	어찌하여	How, why (older spelling).
+幷書	병서	Writing consonants side-by-side (e.g., ㄲ, ㄸ); consonant doubling.
+是認	시인	Acknowledgement, affirmation, approval.
+矛盾	모순	Contradiction.
+諺文	언문	Eonmun (archaic term for Hangeul).
+威挾	위협	Intimidation, threat.
+事大主義	사대주의	Flunkeyism, servility towards a larger power/authority.
+評論	평론	Critique, review, commentary.
+시방	시방	Now, currently (dialectal/older form of 지금).
+謀陷	모함	Plotting, framing, false accusation.
+讒訴	참소	Slander, false accusation.
+角抵	각저	Wrestling; metaphor for physical confrontation.
+잇스니	있으니	Because there is/are (older spelling).
+어널	것이거늘	Although it is the case that... (older spelling/contraction).
+整理	정리	Organization, arrangement, standardization.
+讚訴	참소	Slander, false accusation (likely a typo in the original for 讒訴, ch'amso).
+四色黨爭	사색당쟁	Four Color Factional Strife (Joseon Dynasty political infighting).
+回旋風	회선풍	Whirlwind.
+했음니다	했습니다	Did (older formal spelling).
+
+
+---------------------------
+
+
+잡지명	동광 제14호
+발행일	1927년 06월 01일
+기사제목	呑棗냐 搆說이냐, 한글토론(6)
+필자	安自山
+기사형태	논설
+
+呑棗냐 搆說이냐, 한글토론
+						安自山
+一. 本欄은 朝鮮語 硏究家로서 독특한 의견을 발표하게 함.
+二. 本欄은 朝鮮語 硏究에 관하여 主張, 反對 혹은 質疑 解答 등도 기재함.
+三. 本社의 主張과 틀린 綴字法, 句讀法이라도 本欄에만 限하여 다만 原稿 그래도 함.
+
+5월號에 就하야 鄭烈模君의 나에 향한 撥文이 記載된 것은 其 內容이 直觀的으로 보면 揮辱인지 駭擧인지 料亮을 못할지나 詳察한 즉 呑棗가 안이면 讚說이라.
+말하되 그 다음 둘재로 말한 語源의 문제이란 것은 너무 高尙하여 알 수도 업다 햇서.
+또 말하되 나는 不幸히 샌스크리트를 모르기는 한다 마는 이라 햇셔.
+또 하되 남모르는 샌스크리트를 각금 한다 햇서.
+그러케 記下의 한 말을 解釋할 자격이 업슴을 자백하면서 여러 가지 論難을 킨 것은 모도 呑棗의 說이라 안이 할 수 업겟다 하는 것은 直覺的 評이지만은 其 語調는 사실이 呑棗라.
+其 語調가 呑棗됨은 記下의 말을 搆陷함에 잇서
+君이 말하되 君은 어데서 ㅑ ㅕ ㅛ 가 絶粹한 母音이라는 것을 엇어 보앗는가 하엿스니... 記下는 결코 ㅑ ㅕ ㅛ를 純母音이라 한 일이 업스니 2월號(9)를 보라.
+또 말하되＜55＞ 본시 활용이란 것은 가튼 말의 形式的 意義 變化를 이르는 것이지 實質的 意義 變化를 말하지 안는 것임을 聰明한 君이 웨 일직이 몰낫는고 햇서... 記下는 발서 2월號(14)에 分析하엿는대 몰낫다고 讒訴한 것은 무슨 소린가.
+또 말하되 「띄」까지를 「뜨」의 활용으로 보는 것은 君의 文法上 智識이 缺乏한 것을 나태낸 것이다. 君아 놀내지 마라. 「뜨」는 自働이오 「띄」는 他働이 안인가 햇서... 記下는 그 글에 活用法을 主論한 것이 안이라 아모 말이라도 根母音의 變化組織을 말한 것이라... 고로 動詞가 변하야 名詞됨도 역시 同例... 뜨 띄 - (帶)... 形容詞가 변하야 名詞됨도 역시 同例... 크-킈(身長)... 代名詞의 변하는 例... 그-거긔... 이-여긔 그와 가티 根母音 變化 說明을 엇지 하야 活用法 組織이라고 搆說함은 何오.
+또 말하되 「잣지기」는 君의 말과 마찬가지로 同字를 連書하는 경우에 쓰는 것인즉 幷書를 是認하는 것 안인가. 웨 이러케 전후가 모순되는 말을 한담이라 햇서... 이 역시 搆說이라... 3월號 幷書論條에 (11)(12)한 말은 아모 文字라도 同字를 幷書할 時에는 美를 取하야 (*)로 하는 일이 잇는데 귀태여 美感이 업게 幷書할 것이 무엇인가...한 말인데 엇지하야 幷書를 是認하얏다고 搆說을 하고 矛盾이라 반항하는가.＜56＞
+또 말하되 「諺文創作 당시에 幷書한 것은 根本的으로 틀녓던 것이요」 하는 말버릇이 어대 당한 소리이냐 아모리...輿論 업는 사회라고 함부루 지저귀어서 될 것인가라 햇서...이는 搆陷의 극단인 威挾이라. 後人은 도모지 古聖人의 한 일을 批評도 못하고 절대 服從하라는 心思는 무엇인가. 이것은 理論學說을 背하고 勢力으로 專制하는 事大主義가 안인가. 만일 그 가티 評論을 못하게 하면 시방 잘 쓰자 못 쓰자 하야 정리하자는 根本精神은 무엇인가.
+彼輩는 항상 욕설을 안이하면 謀陷하나니 만일 그와 가티 讒訴나 惡說로 대항코자 하면 腕力으로 角抵를 하는 것이 可치 안한가...
+본래 諸君은 搆說하는 습관이 잇스니 신문광고까지 記下를 言文整理의 反對者라 햇서... 記下의 토의하는 것은 곳 實際 純正으로 정리하자는 것은 아모라도 알 것이어널 엇지하야 整理反對者라고 讚訴하는지... 그와 가티 모함코자 하면 新學界는 다시 四色黨爭하던 回旋風에 驅入되고 말 것이니 鳴呼蒼天아. 斯何人事오!
+
+本誌에 사용하는 우리글 綴字法(新式 받힘)에 관하여 疑問處가 있거든 물어 주시오.(但 葉書로) 本欄으로서 해답을 하여 들이겠음니다. ＜57＞
+＜55-57＞

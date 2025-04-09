@@ -1,0 +1,131 @@
+Magazine Title: 동광 제25호
+Publication Date: 1931년 09월 04일
+Article Title: 科學短信 (Science Briefs)
+Author: None mentioned
+Article Type: 소식 (News/Briefs)
+
+**Science Briefs**
+
+**Fish Better Than Humans**
+Regarding differences in fish, it is said to be the established theory among current scholars that they are far superior to humans, at least concerning the sense of taste.
+According to research published by the zoologist Mr. Frisch of Munich, Germany, fish perceive the same sweetness as humans for sugar and all kinds of sweet substances that humans sense as sweet.
+
+**Why Do Insects Like Sugar?**
+Whether insects like sugar because they truly recognize its sweetness, or whether they require it instinctively for life as an indispensable element for fatigue recovery rather than taste, is unknown, as there has been no systematic research yet.
+
+**Artificial Silk from Pine Resin**
+Until now, artificial silk (rayon) was made by creating pure cellulose from fibrous material and forming it into fine threads in an acid precipitation tank. Recently in France, a method for making artificial silk from resin (樹脂) has received an exclusive patent. This is reportedly drawing attention because it is less flammable than conventional artificial silk and also has greater resistance to moisture. It seems likely that in the near future, various types of artificial silk, such as pine resin artificial silk or cherry tree resin artificial silk, will emerge.
+
+**The Blessing of Earthquakes**
+Dr. Powi argues that the more earthquakes there are, the more fortunate it is for humanity.
+Currently, there are over 8,000 earthquakes worldwide each year; this is the total sum including minor earthquakes recorded by sensitive seismographs. If these seismographs were installed more densely, the number of recorded earthquakes would be even higher. Although it sounds somewhat paradoxical, the more earthquakes there are, the better it is for humanity, because the more frequent the earthquakes, the lesser their intensity becomes. Earthquakes occur due to the fracturing of rocks within the Earth. It is better for this fracturing to happen little by little over many instances; if stress accumulates and a major earthquake occurs all at once, the loss of human life will increase. Therefore, the more small earthquakes there are, the fewer large earthquakes there will be.
+
+**The Inconvenience for Female Scientists**
+In the United States, female scientists have been emerging in recent years, but a significant inconvenience has arisen for them: their names change from their maiden name upon marriage. Because the signatures on papers published before marriage differ from those published after marriage, it often causes trouble for both themselves and others. Consequently, a movement has reportedly started recently advocating for female scientists to continue using their maiden names on their publications.
+
+**Inability to Have Children Due to Spousal Compatibility**
+According to research by Professors K'ulchŭ and Rokrip of the Columbia University research laboratory, if a perfectly healthy man and woman marry improperly and are incompatible (性이 不合하면), a person capable of having children may become unable to do so. If that man had married a different woman, or if that woman had married a different man, they might have been able to have children, but they become unable to conceive because the spouses are poorly matched. Therefore, it is sometimes the case that when a childless couple separates and remarries, both partners subsequently have offspring.
+These scholars, after studying male semen and the female uterus, report that when incompatible elements meet, the uterus contracts and does not accept the semen, whereas only when compatible elements meet does the uterus expand and accept the semen.
+However, these scholars have not yet discovered a method to identify incompatible men and women in advance.<71>
+
+**Summary**
+
+This collection of science briefs from 1931 covers diverse topics: the superior sense of taste in fish compared to humans, the unknown reason for insects' attraction to sugar, a new French patent for making artificial silk from resin, the paradoxical idea that frequent small earthquakes are beneficial by preventing large ones, the practical problem American female scientists face with name changes upon marriage, and research suggesting biological incompatibility between spouses as a cause of infertility. From a historical perspective, the article showcases the flow of international scientific news (Germany, France, USA) into colonial Korea and contemporary interests in biology, material science, geology, and social issues within science. The reporting on female scientists' naming conventions and the biological basis for infertility provides insight into specific social and scientific discussions of the era reaching a Korean audience.
+
+**Named Entities**
+
+독일 뮨헨시	독일 뮌헨시	Munich, Germany
+프리슈	프리슈	Frisch
+불란서	불란서	France
+보위	보위	Powi
+미국	미국	United States
+컬럼비아 대학	컬럼비아 대학	Columbia University
+쿨즈	쿨즈	K'ulchŭ
+록립	록립	Rokrip
+
+**Glossary**
+
+미각	미각	sense of taste
+잇어만은	있어서만은	only in regards to (older spelling)
+앞섯다	앞섰다	surpassed (older spelling)
+정설	정설	established theory
+同樣	동양	same manner, likewise
+깨닷는다	깨닫는다	realize, perceive (older spelling)
+웨	왜	why (older spelling)
+불가결	불가결	indispensable
+생활본능	생활본능	life instinct
+계통적	계통적	systematic
+송진	송진	pine resin
+인조견	인조견	artificial silk, rayon
+섬유질	섬유질	fibrous material
+섬유소	섬유소	cellulose
+침전조	침전조	precipitation tank
+細絲形	세사형	fine thread form
+수지	수지	resin
+人絹	인견	artificial silk, rayon
+전매특허	전매특허	patent
+재래	재래	conventional
+연소성	연소성	flammability
+저항성	저항성	resistance
+주목	주목	attention
+솔나무진	소나무 진	pine resin (older form)
+벗나무진	벚나무 진	cherry tree resin (older form)
+은덕	은덕	blessing, grace
+지진계	지진계	seismograph
+計錄	기록	record (older Hanja usage)
+합산	합산	sum total
+조밀	조밀	dense
+일층	일층	even more
+역설적	역설적	paradoxical
+잦을스록	잦을수록	the more frequent (older spelling)
+강도	강도	intensity
+암석	암석	rock
+파괴	파괴	destruction
+조곰식	조금씩	little by little (older spelling)
+싸이다	쌓이다	to pile up (older spelling)
+일시	일시	at one time
+살상	살상	casualties
+배출	배출	producing (people) in succession
+처녀명	처녀명	maiden name
+달르기	다르기	being different (older spelling)
+자타	자타	oneself and others
+곤란	곤란	difficulty
+配偶	배우	spouse
+性이 不合하다	성이 불합하다	to be incompatible (biologically/physiologically)
+정액	정액	semen
+자궁	자궁	uterus
+수축	수축	contraction
+팽창	팽창	expansion
+不合性	불합성	incompatibility
+
+
+---------------------------
+
+
+잡지명	동광 제25호
+발행일	1931년 09월 04일
+기사제목	科學短信
+기사형태	소식
+
+科學短信
+사람보다 나은 생선
+어류가 다른 점은 몰라도 미각에 잇어만은 인류보다 훨신 앞섯다는 것이 현재 학자의 정설이라 한다.
+독일 뮨헨시의 동물학자 프리슈씨의 연구발표에 의하면 어류는 사탕과 및 인류가 달다고 감각하는 모든 탕류에 대하여 사람과 同樣의 감미를 깨닷는다고 한다.
+
+벌레는 웨 사탕을 좋아하나
+벌레가 사탕을 좋아하는 까닭은 과연 단맛을 알아서 그런지 혹은 맛이라기 보다도 피로회복의 불가결할 요소인 탕류에 대하야 생활본능상으로 이것을 요구하는지 알 수 없으니 아직 계통적 연구가 없다.
+
+송진에서 인조견
+인조견이라 하하면 아직까지는 섬유질에서 순수한 섬유소를 만들어 산성 침전조에 넣어 細絲形으로 만든 것이엇는데 최근 불란서에서는 樹脂에서 人絹을 만드는 법이 전매특허가 되엇다. 이것은 재래의 人絹보다 연소성이 적고 또 수분에도 저항성이 많음으로 주목된다 한다. 머지 않은 장래에 솔나무진 人絹이라든가 벗나무진 人絹 등의 각색 人絹이 생길 것 같다.
+
+지진의 은덕
+지진이란 것은 많으면 많을스록 인류에게는 행복이라고 보위 박사는 주장한다.
+현재 세계에는 매년 약 8천번 이상의 지진이 잇는데 이것은 세밀한 지진계에 計錄되는 소지진을 다 합산한 것이다. 만일 이 지진계가 더 조밀하게 설치되엇으면 기록되는 지진의 수는 일층 많을 것이다. 좀 역설적이지마는 지진은 많을스록 인류에게는 좋은 것이니 지진이 잦을스록 그 강도는 줄어드는 까닭이다. 지진의 원인은 지구 속에 잇는 암석이 파괴됨으로 생기는 것인데 이것이 조곰식 여러 번에 파괴되어야지 만일 싸이고 싸이어서 일시에 대지진이 나면 인명의 살상이 많아질 것이다. 그러므로 조고만 지진이 많이 잇을스록 큰 지진은 적을 것이다.
+
+여자 과학자의 불편
+미국서는 근년에 여자 과학자가 배출하는데 그들에게 대단히 불편한 일이 한 가지 생겻으니 곳 처녀 때 이름과 결혼 뒤 이름이 바뀌는 까닭이다. 그래서 처녀 때에 발표한 논문과 결혼 뒤에 발표한 논문에 서명이 달르기 때문에 자타가 곤란한 때가 많음으로 최근에 여자과학자는 그 논문에 처녀명을 그대로 쓰도록 하자는 운동이 일어낫다 한다.
+
+配偶관계로 아이 못낳는 수가 잇다
+컬럼비아 대학 연구실의 쿨즈 록립 兩 교수의 연구에 의하면 아모 탈 없는 남녀가 결혼을 잘못하야 性이 不合하면 아이 날 수 잇는 사람이 못 낳게 되는 수가 잇다 한다. 만일 그 남자가 다른 여자에게 장가들엇거나 그 여자가 다른 남자에게 시집갓드라면 아이를 날 수 잇섯을 터인데 배우가 잘못 맞기 따문에 못 낳게 되는 것이다. 그런 고로 아이 없든 부부가 갈리어서 재혼을 하면 둘이 다 자손을 가지게 되는 수가 잇다.
+이 학자들은 남자의 정액과 여자의 자궁을 가지고 연구한 결과 서로 합치아니하는 것이 만나면 자궁이 수축하야 정액을 받아드리지 않고 서로 맞는 것끼리 만나야만 자궁이 팽창하야 정액을 받아 드린다 한다.
+그러나 이 학자들은 아직도 그 不合性되는 남녀를 미리 발견하는 방법을 아직 알아내지 못햇다.＜71＞

@@ -1,0 +1,112 @@
+Magazine Title:	동광 제26호
+Publication Date:	1931년 10월 04일
+Article Title:	樂壇雜感 (Miscellaneous Thoughts on the Music Scene)
+Author:	權泰浩
+Article Type:	문예평론 (Literary Criticism/Arts Commentary)
+
+Miscellaneous Thoughts on the Music Scene
+						Kwŏn T'ae-ho
+
+This is the first time I have taken up the pen like this. I do not intend to speak of any music theory, nor do I intend to unfold any particular theory regarding the music scene. I merely wish to write down a few things I have seen and felt concerning our music scene as someone whose profession is music.
+
+Regarding Criticism
+In the June issue of this magazine (Tonggwang), under the title "Casual Critique of Peninsula Musicians (半島樂人漫評)," a critique of musicians, the first I had ever seen, was published. Since it was not the critique of a music expert, and moreover, it was a "casual critique," it wasn't exactly a responsible piece of criticism, but as someone who sang (or rather, for anyone with common sense about music), it was not just unpleasant to read, but shamefully embarrassing, making one's face flush. To critique a piece without knowing its content is an absurdly naive act. It is something to be deeply avoided. I now wish to write a few words specifically regarding the part of that casual critique concerning the author (myself). (Since a specific piece was designated concerning the author, I intend to write about its content.)
+
+Grieg's "Solveig's Song" is extracted from the songs for the great writer Ibsen's play "Peer Gynt." This song was not originally written by the composer but is a song compiled from collected folk songs.
+
+The critique stated, "This is a song for a woman to sing." This "Solveig" is a woman's name. And it is a song often sung by women (sopranos).
+However, songs, like human clothing, do not have a distinction of gender. Song (music) is not such a narrow art form. Simply put, depending on the timbre, sopranos and tenors can sing songs of the same nature, and altos and basses can sing songs of the same nature, and they do.
+
+The critique stated, "The tempo (拍子) was wrong." For beginners or young children to easily hear and learn the melody and accompaniment, there are arrangements where each note is clearly laid out in four or two parts just for harmony. However, the greater the piece, the harder it becomes to discern how the melody and accompaniment are connected. Being able to discern this indicates one has considerable knowledge (of music). The melody and accompaniment of this "Solveig's Song" cannot be said to be overly complex, but there is not a single measure where the accompaniment supports the melody directly. Instead, the accompaniment piece solely maintains a harmonic connection to the melody. Therefore, for a critic unaware of this, it is easy to hear it as if the time (tempo) is wrong. Especially since the melody and accompaniment of this song mostly take the form of syncopated notes.<71> That is, the stresses are offset from each other, with the melody often consisting of 8th notes while the accompaniment continues with half notes. Thus, for the critic unaware of this connection between melody and accompaniment, stating the rhythm was wrong is an honest confession [of their ignorance].
+
+The critique stated, "The high notes were all pianissimo." This song is mostly meant to be sung pianissimo, and in the high notes, the marking PP is written. So, despite the PP marking, was singing it pianissimo wrong?
+
+The critique stated, "[It] was close to falsetto (가성)." Music, of course, is based on sound, so the first principle for any instrument is to bring out its timbre well. Therefore, the foundation of vocal music is the method of voice production (발성법). Time and space do not permit a full explanation of this vocal method, so I will mention only a few particularly necessary points:
+1. To make the beauty of the naturally produced voice faithful. 2. To make the dynamics (loudness and softness) of the voice free. 3. To make the music clear. 4. To make even soft music audible from afar. 5. To be able to sustain the voice without change for a long time, etc. Thus, when vocalizing, one studies and researches voice production under several conditions: keeping the throat relaxed, opening the mouth spatially so the sound emerging from within comes out unimpeded while simultaneously making the pronunciation of the lyrics clear, breathing sufficiently, and resonating the entire facial structure. Though I am still immature (未熱), I have studied this vocal method for 5 or 6 years and have received favorable reviews from experts and critics in this field (斯界). (One might misunderstand this as self-promotion, but I write about my actual experience because it is so baffling how the critic could call it 'falsetto,' and I hope you understand.)
+From these few points, one can see that the content of the "casual critique" was too irresponsible. (I came to write this piece not because I was provoked by that critique, but because many readers (friends of Tonggwang) asked, "How could a so-called expert sing with the wrong rhythm?" As I cannot answer each one individually, I write it here.)
+We still do not have a single music critic. This is truly regrettable. I sincerely hope that an authority in this field (斯界) will emerge soon. At the same time, those who wish to write critiques of songs should first learn about (study) songs.
+
+Regarding Composition
+As someone whose experience in the music scene is shallow, having left student life not long ago, another thing I find surprising is related to composition. At the very least, a composer must be proficient in harmony (和聲學). And their spirit must emerge from a thorough appreciation and deep feeling for a particular poem or song, becoming a living melody. Only after the melody is formed should the accompaniment be added. Looking at the songs of several individuals now, the melody and the sentiment of the poem are disparate, and the connection between melody and accompaniment is so weak; one sees far too many instances of this. I think it would be good if they undertook composition after accumulating more study. We cannot yet say we have many songs worth singing. Therefore, while there might be some justification in recognizing the need for mass production (if one merely aims to establish the form, dozens of compositions can be made in a day) and attempting prolific work, doing so lowers the value of songs too much. The general public desires good songs more than many songs.
+
+Regarding Traditional Chosŏn Music
+We certainly have the duty and responsibility to revive Chosŏn music. In this sense, it is welcome news that the Ewha Womans College Music Department (梨專音樂科) has begun research on this.
+However, due to various related issues, I do not think this will be easily achieved. It is difficult to find teachers and books. Furthermore, if one asks whether the songs included in the so-called Chosŏn Folk Song Collection published by the Ewha Womans College Music Department truly convey the sentiment of Chosŏn folk songs, it becomes very awkward to say yes. Folk song choruses that are neither Western music nor Chosŏn music are like lukewarm water, neither hot nor cold; far from singing them, one develops an aversion (厭症) even listening to them. Originally, Chosŏn music differs from Western music in its fundamental form. Therefore, trying to fully express its pitches (high and low) and durations (long and short) (doing so brings out the characteristics of Chosŏn folk songs) using the Western system of do, re, mi, fa, and time signatures like 3/4, 4/4... etc., is difficult, perhaps even impossible.<72> Therefore, Chosŏn music must, to the very end, carry the sentiment of Chosŏn. To do so, it should follow the fundamental form of Chosŏn music, rather than being forced into the unsuitable form of Western music. As someone with no knowledge regarding Chosŏn music, I feel ashamed and regretful that I cannot present any substantial discussion. I raise both hands, hoping that dedicated researchers will emerge and quickly bring this work to completion.
+
+Musicians
+There are many musicians in Chosŏn. It seems that if one can roughly sing a few popular tunes (유행 小曲) and perhaps some slightly more difficult pieces, they and others publicly acknowledge them as splendid vocalists. There are quite a few bogus vocalists who cannot find the pitch or keep time (rhythm) if the accompaniment doesn't guide them. If one gets halfway through Czerny's piano exercise book No. 30 or taps out a few "oom-pah oom-pah" pieces, they become a pianist; if they finish Hohmann's violin method book volume 3, they become a violinist (提琴家). Truly, this sort of thing is unheard of and unseen in foreign countries.
+Given our circumstances where everything is meager, how could we expect abundance? Yet, among these, we feel the poverty of our music scene even more acutely. I put down my pen, hoping that many new musicians with real ability will emerge to beautifully adorn (裝飾하기) the Peninsula's music scene.
+-1931.8.15- <73>
+
+**Summary**
+
+Kwŏn T'ae-ho, a musician, critiques the state of the Korean music scene in 1931. He laments the lack of knowledgeable music critics, citing an uninformed and embarrassing review of his own performance of Grieg's "Solveig's Song." He criticizes composers for lacking proficiency in harmony and failing to connect melody with poetic sentiment, urging for quality over quantity. Kwŏn expresses concern over attempts to adapt traditional Korean music using Western notation and forms, arguing it strips the music of its essence and calling for research grounded in Korean musical principles. Finally, he deplores the low standards for musicianship, where minimal training suffices for one to be considered a vocalist, pianist, or violinist, highlighting the overall poverty of the field. Historically, the article reveals the challenges faced by Korean musicians in adopting Western classical music while simultaneously trying to preserve and develop their own traditions under colonial rule. It highlights the tension between Westernization and cultural nationalism, the desire for professional standards, and the perceived lack of artistic depth in the contemporary scene, offering valuable insight into the cultural anxieties and aspirations of the time.
+
+**Named Entities**
+
+權泰浩	권태호	Kwŏn T'ae-ho
+半島	반도	Pan-do (Korean Peninsula)
+그리익	그리그	Grieg
+입샌	입센	Ibsen
+쏠베이지	솔베이지	Solveig
+베루균트	페르귄트	Peer Gynt
+조선	조선	Chosŏn
+梨專音樂科	이전음악과	I-chŏn Ŭmak-kwa (Ewha Womans College Music Department)
+
+**Glossary**
+
+樂壇	악단	Music world; music scene
+樂理	악리	Music theory
+漫評	만평	Casual critique; light commentary (often used for cartoons today, but here refers to unserious criticism)
+쏘ㄹ베이지	솔베이지	Solveig (Older phonetic transcription)
+뻬스	베이스	Bass (Older phonetic transcription)
+멜노디	멜로디	Melody (Older spelling/transcription)
+切分音符	절분음부	Syncopated note
+未熱	미열	Immature; unskilled (Lit. 'not yet feverish/passionate', used humbly)
+斯界	사계	This field; this world (Referring to the music world)
+和聲學	화성학	Study of Harmony
+厭症	염증	Aversion; disgust; weariness (Lit. 'inflammation symptom' but used metaphorically)
+쩔은	짧은	Short (Older spelling of 짧은)
+어대까지던지	어디까지든지	To whatever extent; thoroughly (Older spelling)
+마츨	맞출	To fit; to match; to adjust (Older spelling of 맞출)
+提琴家	제금가	Violinist (Lit. 'stringed instrument family/expert')
+裝飾하기	장식하기	To decorate; to adorn
+
+
+---------------------------
+
+
+잡지명	동광 제26호
+발행일	1931년 10월 04일
+기사제목	樂壇雜感
+필자	權泰浩
+기사형태	문예평론
+
+樂壇雜感
+						權泰浩
+내가 이러케 붓을 들기는 이번이 처음이다. 나는 무슨 樂理를 말하려 함이 아니고 또는 樂壇에 관한 어떠한 이론을 전개하려 함도 아니다. 다만 음악을 직업으로 하고 잇는 사람으로써 우리 樂壇에 관하야 보고 느끼게 되는 바 몇 가지를 쓰고저 한다.
+
+비평에 관하야
+本誌 (東光) 6월호에 「半島樂人漫評」이라는 題下에 나로써는 처음 보게 되는 樂人批評이 발표되어 잇다. 그것이 음악 전문가의 평이 아니요 더구나 漫評이니까 그러케 책임잇는 평문은 아니엇으나 노래를 부른 사람으로써 (아니 음악의 상식이 잇는 사람이면) 보기에 너머나 불쾌하다는 것보다 얼골이 확근거릴만큼 부끄러운 일이엇다. 曲의 내용을 모르고서 그 곡의 관한 평을 하는 것은 언어도단의 철없는 일이다. 깊이 삼갈 바이다. 나는 이제 그 漫評 중 특히 필자에 관한 것에 대하야 몇 마디 쓰고저 한다. (필자에게 대하여 특히 어떠한 곡을 지정하엿기 때문에 거기 대한 내용을 쓰고저 함이다 )
+그리익(Grieg)의 쏠베이지(Salveigs) 노래는 문호 입샌(Ibsen)작의 베루균트(peer Gunt)극의 대한 노래 중에서 빼인 것인바 이 노래는 작곡자의 독창적으로 쓴 것이 아니고 민요를 表集해 지은 노래다.
+評文이 『이것은 여자가 부를 노래다』하엿다. 이 쏠베이지라는 것이 여자의 일름이다. 그리고 여자(소프라노)가 흐니 부르는 노래다.
+그러나 노래라는 것은 사람의 의복과 같은 양성의 別이 잇는 것이 아니다. 노래(음악)란 그러케 범위가 좁은 예술이 아니다. 간단하게 말하면 그 음색을 따라 즉 소프라노와 테너가 같은 성질의 노래를 부를 수 잇으며 알토와 뻬스가 같은 성질의 노래를 부를 수 잇는 것이며 부르고 잇다.
+評文나 『拍子가 틀리엇다.』 멜노디와 반주를 초보자에게나 어린 아해들이 듣기 쉽게 배우기 쉽게 하기 위하야 그 음을 일일히 똑똑히 드러나게 4부로 혹은 2부로 화성만 되게 작성한 것도 잇지마는 大曲이 될수록 멜로디와 반주가 어떠케 연락이 된 것을 알기가 어려우며, 이것을 알게 된다면 그는 상당한 상식(음악)이 잇는 이라고 할 수 잇다. 이 쏠베이지 노래의 멜노디와 반주는 그다지 복잡하다고는 못하겟으나 이 노래는 멜로디를 짚어 주는 반주는 한 소절도 없고, 모다 伴奏曲은 伴奏曲으로 멜로디에 대하야 화성적 연락만 취하고 잇음으로 이것을 모르는 사람으로써는 타임(拍子)이 틀리는 것처럼 들리기 쉬운 것이다. 그 중에도 더욱 이 노래의 멜로디와 반주는 거이 切分音符의 형식을 가지고＜71＞ 잇다. 즉 강약의 차가 서로 엇끌리며 멜로디는 8分音符로 꽃이는대 반주는 2分音符로 연속하고 잇는 것이다. 그럼으로 이러한 멜로디와 반주의 연락을 모르는 評者로써 박자가 틀리엇다고 한 것이 솔직한 고백이다.
+評文다 『고음은 모다 피아니스모로』이 노래는 거의 피아니스모로 부르게 되어 잇고 높은 음에 가서는 PP라는 기호가 기재되어 잇다. 그러면 PP기호가 잇음에 불구하고, 피아니스모로 부른 것이 잘못이란 말인가?
+評文라 『가성에 가까웟다.』 음악이라는 것은 물론 음이 기초가 되는 것임으로 어떠한 악기를 물론하고 각각 그 음색을 잘 발하게 하는 것이 첫재일이다. 그러므로 성악에도 그 기초가 되는 것이 발성법이다. 이 발성법을 다 설명할 시간과 지면이 허치 않음으로 그 중에 특히 필요한 것만 몇 가지를 말하자면
+1. 자연히 나오는 음성의 미를 충실케 하며 2. 음성의 강약을 자유로 하며 3. 음악을 명백히 하며 4. 적은 음악이로되 능히 멀리 들리게 하며 5. 오랫동안 변함이 없이 음성을 계속할 수 잇게 하는 등등이다. 그리하야 발성할 때에는 목을 부드럽게 가질 것과 입을 空間되게 벌려서 속에서 우러나오는 소래가 거침없이 나오게 하는 동시에 가사에 발음을 명백히 할 것이며 호흡을 충분히 할 것이며 全顔面의 공명을 시키는 것들 몇 가지 조건 아래서 발성법을 공부하고 연구하게 되는 것이다. 필자는 未熱하나마 이 발성법을 5, 6년 간 공부하엿고 斯界의 전문가 비평가로부터 호평을 받엇다. (이것을 자기 선전이라고 오해할런지 모르나 평자도 무엇으로써 「가성」이라고 하엿는지 너머나 어이가 없음으로 필자의 경험 사실을 쓰게 되는 것을 이해하기 바란다)
+이상 몇 가지로써 漫評의 내용이 너무 무책임하엿슴을 알 수 잇다. (이 一文을 쓰게 됨은 그 評文에 어떤 剌戟이 잇엇다는 것이 아니요 독자 (東光) 知友 중에서 「소위 전문가로써 박자가 틀리게 노래를 불럿단 말이냐」라는 물음이 많기 때문에 일일히 대답할 수 없음으로 여기에 쓰게 되엇다)
+아직 우리는 한사람의 음악평론가를 가지지 못하엿다. 이것은 펵 안타까운 일이다. 斯界의 권위가 속히 나타나기를 衷心으로 바라는 바이다. 동시에 노래의 평을 쓰고저 하는 이는 먼저 노래를 알기(배우기) 바란다.
+
+작곡에 관하야
+학창생활을 떠난 지 얼마 안 되는 樂壇의 경험이 천박한 필자로써 또 한가지 놀라웁게 느끼게 되는 것은 작곡에 관한 것이다. 적어도 작곡자로는 和聲學이 능통하여야 된다. 그리고 그 정신이 어떤 詩歌에 대한 철저한 음미와 철저한 느낌 속에서 우러나오는 생명 잇는 멜로디라야 되고 멜로디가 되어진 후에 반주를 붙이게 되는 것이다. 이제 몇 분들의 노래를 본다면 멜로디와 詩의 감상이 판이하며 멜로디와 반주의 연락이 어찌 그리 빈약한지 그러한 것을 너머 많이 보게 된다. 좀 더 연구를 싸흔 후에 작곡에 착수하엿으면 좋으리라고 생각한다. 우리에게는 아직 부를 만한 노래가 많다고 할 수 없다. 그러므로 대량생산의 (겨우 형식만 성립되게 하려면 하로에도 수십 개의 작곡을 할 수 잇다) 할 필요를 認하고 多作을 試하는 것도 일리는 잇으려니와 그러케 되면 노래의 값이 너머 낮게 된다. 일반 민중은 많은 노래보다도 좋은 노래가 나오기를 더욱 바라는 바이다.
+
+조선 재래의 음악에 관하야
+우리는 마땅이 조선 음악을 재생시킬 의무와 책임이 잇다. 이 의미에 잇어서 梨專音樂科에서 이것을 연구하게 된 것은 반가운 일이다.
+그런대 이것은 여러 가지 관계상 쉽게 되리라고는 생각지 안는다. 선생과 서적을 얻기 어려운 것이다. 그리고 梨專音樂科에서 발행한 소위 조선민요집에 실린 노래가 실로 조선 민요의 정서가 흘러잇느냐 하면 그러타고 하기가 심히 거북스러웁게 된다. 서양음악도 아니요 조선음악도 아닌 민요 합창은 뜨겁지도 차지도 아니한 맹물과 같아야 부르기는 커냥 듣기에는 厭症이 생기게 된다. 원래 조선음악이란 근본형식부터 서양음악과 상위함이 잇기 때문에 그 높고 낮으며 길고 쩔은(이러케 하여야 조선 민요의 특성이 나게 된다) 것을 도, 래, 미, 파, 나 3/4 4/4... 등등 박자법으로써 완전히 표현하기에는 어렵다는 것보다 불가능한 일이라고＜72＞ 하겟다. 그러므로 조선음악은 어대까지던지 조선의 정서가 흘러야 될 터인대 그러케 함에는 맞지 안는 서양음악의 형식에 마츨 것이 아니라 조선음악의 근본형식에 따라서 하여야 될 줄 안다. 조선음악의 관한 아모 상식이 없는 필자로써 어떤 내용 잇는 論을 발표할 수 없음을 부끄러이 생각하며 유감으로 생각한다. 두 손을 들어러서 이것을 위한 전문연구가가 나서 속히 완성하여 놓기를 바란다.
+
+음악가
+조선에는 음악가가 많다. 유행 小曲 몇 개와 조곰 더 나가 어려운 곡을 대강 부르게 되면 그만 훌륭한 성악가인 줄 자타가 공인하는 모양이다. 반주를 짚으면 음정과 타임(박자)를 찾지 못하는 엉터리 성악가가 적지 않다. 채루니라는 피아노 교본 30번 반을 지나고 또는 뿡빵  뿡빵하는 피스曲이나 몇 개 짚으면 그만 피아니스트, 호만 3권(바이올린 교본)만 지나면 그만 提琴家가 되는 모양이다. 실로 이러한 것은 외국서는 도저히 들을 수도 볼 수도 없는 일이다.
+모든 것이 빈약한 우리들의 형편인 만큼 어찌 넉넉함을 바랄 수 잇으랴마는 그 중에도 더욱 우리 악단의 빈약을 느끼게 된다. 실력 잇는 새로운 樂人들이 많이 나와서 半島 樂壇을 곱게 裝飾하기 바라고 붓을 놓는다.
+-1931.8.15- ＜73＞
+＜71-73＞

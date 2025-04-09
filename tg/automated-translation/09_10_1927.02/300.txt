@@ -1,0 +1,114 @@
+Magazine Title: 동광 제10호 (東光 第10號)
+Publication Date: 1927년 02월 01일 (February 1, 1927)
+Article Title: Katedro Esperanta(에쓰페란토 講座 第2回) (Esperanto Lecture Series No. 2)
+Author: 金億 (Kim Ŏk)
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+Katedro Esperanta
+						Kim Ŏk
+
+5. Pronunciation (Elparolado). The principle of pronunciation in Esperanto is that one letter has one sound; you pronounce it as written and write it as pronounced. There are absolutely no silent letters (silences). Like the pronunciation of any language, combining vowels and consonants in Esperanto is exactly the same as in Korean. Combining vowels and consonants now looks like this:
+
+ba (ㅂ and ㅜ) 바 [ba] be (ㅂ and ㅔ) 베 [be] bi (ㅂ and ㅣ) 비 [bi] bo (ㅂ and ㅗ) 보 [bo] bu (ㅂ and ㅜ) 부 [bu]
+da (ㄷ and ㅏ) 다 [da] de (ㄷ and ㅔ) 데 [de] di (ㄷ and ㅣ) 디 [di] do (ㄷ and ㅗ) 도 [do] du (ㄷ and ㅜ) 두 [du]
+ca (ㅊ and ㅏ) 차 [cha] ce (ㅊ and ㅖ) 쳬 [chye] ci (ㅊ and ㅣ) 치 [chi] co (ㅊ and ㅗ) 초 [cho] cu (ㅊ and ㅜ) 추 [chu]
+
+This is how consonants and vowels are combined. c^a (취 and ㅏ) 취아 [chwia],
+fa (ㅍ and ㅏ) 파 [pa], ga (ㄱ and ㅏ) 가 [ga], g^a (ㅉ and ㅏ) 짜 [jja], ha (ㅎ and ㅏ) 하 [ha],
+h^a (ㅋㅎ and ㅏ) ㅋ하 [kha], ja (ㅣ and ㅏ) 야 [ya], j^a (쥐 and ㅏ) 쥐아 [zhwia], ka (ㅋ and ㅏ) 카 [ka],
+la (ㄹ and ㅏ) 라 [ra], ma (ㅁ and ㅏ) 마 [ma], na (ㄴ and ㅏ) 나 [na], pa (ㅍ and ㅏ) 파 [pa],
+ra (으ㄹ and ㅏ) 으라 [eura], sa (ㅆ and ㅏ) 싸 [ssa], s^a (쉬 and ㅏ) 쉬아 [shwia], ta (ㅌ and ㅏ) 타 [ta]
+u^a (ㅜ and ㅏ) 와 [wa], va (ᅄ and ㅏ) ㅘ [va], za (ㅈ and ㅏ) 자 [ja]. Thus it will be; I will not list them all but write just one line from the Korean script (諺文).
+
+ha (ㅎ and ㅏ) 하 [ha], hja (ㅎ and ㅣ and ㅏ) 햐 [hya], he (ㅎ and ㅔ) 헤 [he], hje (ㅎ and ㅣ and ㅔ) 혜 [hye], ho (ㅎ and ㅗ) 호 [ho], hjo (호 and ㅣ and ㅗ) 효 [hyo], hu (ㅎ and ㅜ) 후 [hu], hju (ㅎ and ㅣ and ㄱ) 휴 [hyu], h (ㅎ) 흐 [heu], hi (ㅎ and ㅣ) 히 [hi].
+
+This is how it becomes, but among these, "허" [heo] and "혀" [hyeo] cannot be written. Why is this? It is because the Esperanto vowels do not have "ㅓ" [eo] and "ㅕ" [yeo], but only "ㅔ" [e] and "ㅖ" [ye]. Also, "흐" [heu] cannot be written; this is also because there is no vowel "ㅡ" [eu], so inevitably, only "ㅎ" [h] as 'h' must be pronounced as "흐" [heu], which is not a complete pronunciation.
+
+Note: In Esperanto, it was stated that vowels cannot be combined with vowels; only consonants and vowels can be combined. This can be clearly seen by looking at the combined sounds of i and j, u and u^.
+ja (consonant and vowel) ㅑ [ya]     u^a (consonant and vowel) 와 [wa]
+ia (vowel and vowel) 이아 [i-a]  ua (vowel and vowel) 우아 [u-a]
+jo (consonant and vowel) ㅛ [yo]    u^o (consonant and vowel) 워 [wo]
+io (vowel and vowel) 이오 [i-o]  uo (vowel and vowel) 우오 [u-o]
+ju (consonant and vowel) ㅠ [yu]    u^e (consonant and vowel) 웨 [we]
+iu (vowel and vowel) 이우 [i-u]    ue (vowel and vowel) 우애 [u-ae]
+Therefore, to produce the diphthong "ㅑ" [ya], one must write 'ja', and if one writes 'ia', the pronunciation becomes "이아" [i-a].
+
+6. Pronunciation of Isolated Consonants. When a consonant that could not participate in forming a complete sound by combining with a vowel is left isolated, the vowel "ㅡ" [eu] is always added for pronunciation, but of course, this is not <68> a complete pronunciation.
+For example, let's say there is something like "libro" (리ㅂ로) in Korean. In such cases, because the consonant "ㅂ" [b] without a vowel remains alone, one must inevitably add the vowel "ㅡ" [eu] and pronounce it "브" [beu], or alternatively, pronouncing it "륍로" [ryupro] is also acceptable. However, it is understood to be best to pronounce the "ㅂ" [b] sound as lightly as possible. In cases like the 's' (ㅆ) in vidas (삐다ㅆ) [pidass], the vowel "ㅡ" [eu] is added to pronounce it "쓰" [sseu].
+
+Furthermore, there are three letters used as complete final consonants (받침): l, m, and n.
+Kelka (케ㄹ카) = 켈카 [kelka], Kampo (카ㅁㅍㅗ) = 캄포 [kampo], Kanto (카ㄴㅌㅗ) = 칸토 [kanto].
+
+7. Syllable (Silabo). A syllable refers to a sound produced by a vowel alone, or a complete sound formed by the combination of a consonant and a vowel. In the Korean word "사람" [saram], "사" [sa], formed by combining a consonant and vowel, is one syllable, and "람" [ram], formed by combining the consonant and vowel "라" [ra] with the final consonant "ㅁ" [m], is another syllable, making "사람" [saram] a two-syllable word in total.
+
+(1) Examples of single-syllable words include:
+En (엔) [en], Sur (쑤르) [ssureu], g^is (찌쓰) [jjisseu], E^c (에취) [echwi], C^ar (취아르) [chwiareu], Nun (눈) [nun], Mi (미) [mi], Ni (니) [ni], G^i (찌) [jji], Nu (누) [nu], Al (알) [al], A^u (아우) [au], Vin (빈) [bin], Sep (쎄프) [ssepeu], Na^u (나우) [nau].
+
+Note: Words like Sur, G^is, Na^u, Sep, when pronounced in Korean, may seem like two syllables, but since there is only an isolated consonant after the combination of consonant and vowel, they are only one syllable. Why is this? It is because an isolated consonant cannot form a complete sound.
+
+(2) Examples of two-syllable words include:
+Homo (호모) [ho-mo], Hundo (훈도) [hun-do], Vento (벤토) [ben-to], Kurso (쿠ㄹ쏘) [kul-sso], Balda^u (발다우) [bal-da-u], Inko (인코) [in-ko], Mia (미아) [mi-a], Kiom (키옴) [ki-om], Plumo (플루모) [peul-ru-mo], Floro (로로) [peul-ro-ro], Vera (라) [be-ra], Bela (벨라) [bel-ra].
+
+Note: To avoid confusion between the pronunciation of L and R, although it is not an official rule in Esperanto pronunciation, it might be good to pronounce L twice, as in Bela (벨라) [bel-la], and R once, as in Vera (라) [be-ra].
+
+(3) Examples of three-syllable words include:
+Printempo (프린템포) [peurin-tem-po], Au^tuno (아우투노) [a-u-tu-no], Inkujo (인쿠요) [in-ku-yo], Somero (쏘메로) [sso-me-ro], Julio (율리오) [yul-ri-o], Rakonto (으라콘토) [eura-kon-to], Patrino (파트으리노) [pa-teu-ri-no], Vizag^o (쪼) [bi-jang-jjo], Meznokto (메노크토) [me-jeu-nok-to], Verkisto (르키쓰토) [be-reu-ki-sseu-to], J^urnalo (쥐우르날로) [zhwi-u-reu-nal-ro], Arbaro (아르바로) [a-reu-ba-ro].
+
+8. Accent (Akcento). Accent refers to pronouncing one syllable of a word with two or more syllables louder. The accent in Esperanto is fixed on the second-to-last syllable (whether it's a vowel or a consonant-vowel combination). Thus, in Homo (호모), the accent is on 'ho', making 'ho' higher than the other syllable. Here
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	Katedro Esperanta(에쓰페란토 講座 第2回)
+필자	金億
+기사형태	잡저
+
+Katedro Esperanta
+						金億
+5. 發音. (Elparolado) 에쓰語의 發音上 原則이라 할만한 것은 1字1音으로 쓴대로 發音하고 發音한대로 쓰면 그만임니다. 그러고 黙音(싸일렌스) 가튼 것은 절대로 업슴니다. 아무 語學의 發音이나 다 그러치마는 에쓰語의 發音에는 母音과 子音을 合해 놋는 것이 朝鮮의 그것과 꼭 갓슴니다. 이제 母音과 子音을 合해 노흐면
+ba(ㅂ와 ㅜ) 바 be(ㅂ와 ㅔ) 베 bi(ㅂ와 ㅣ) 비 bo(ㅂ와 ㅗ) 보 bu(ㅂ와 ㅜ) 부
+da(ㄷ와 ㅏ) 다 de(ㄷ와 ㅔ) 데 di(ㄷ와 ㅣ) 디 do(ㄷ와 ㅗ) 도 du(ㄷ와 ㅜ) 두
+ca(ㅊ와 ㅏ) 차 ce(ㅊ와 ㅖ) 쳬 ci(ㅊ와 ㅣ) 치 co(ㅊ와 ㅗ) 초 cu(ㅊ와 ㅜ) 추
+이 모양으로 子母音이 合해 짐니다. c^a(취와 ㅏ) 취아,
+fa(ㅍ와 ㅏ) 파, ga(ㄱ와 ㅏ) 가, g^a(ㅉ와 ㅏ) 짜, ha(ㅎ와 ㅏ) 하,
+h^a(ㅋㅎ와 ㅏ) ㅋ하, ja(ㅣ와 ㅏ) 야, j^a(쥐와 ㅏ) 쥐아, ka(ㅋ와 ㅏ) 카,
+la(ㄹ와 ㅏ) 라, ma(ㅁ와 ㅏ) 마, na(ㄴ와 ㅏ) 나, pa(ㅍ와 ㅏ) 파,
+ra(으ㄹ와 ㅏ) 으라, sa(ㅆ와 ㅏ) 싸, s^a(쉬와 ㅏ) 쉬아, ta(ㅌ와 ㅏ) 타
+n^a(ㅜ와 ㅏ) 와, va(ᅄ와 ㅏ) , za(ㅈ와 ㅏ) 자  이러케 될 것이니 전부를 다 들지 아니하고 다만 朝鮮 諺文 한 줄만 써보겟슴니다.
+ha(ㅎ와 ㅏ) 하, hja(ㅎ와 ㅣ와 ㅏ) 햐, he(ㅎ와 ㅔ) 헤, hje(ㅎ와 ㅣ와 ㅔ) 혜, ho(ㅎ와 ㅗ) 호, hjo(호와 ㅣ와 ㅗ) 효, hu(ㅎ와 ㅜ) 후 hju(ㅎ와 ㅣ와 ㄱ) 휴, h(ㅎ) 흐, hi(ㅎ와 ㅣ) 히.
+이러케 되는데, 그 중에 「허」와 「혀」는 쓸 수가 업게 됨니다. 웨 그런고 하니, 에쓰語 母音에 「ㅓ」와 「ㅕ」가 업고 다만 「ㅔ」와 「ㅖ」가 잇을 뿐이기 때문임니다. 그러고, 「흐」도 못쓰게 되니, 이것도 「ㅡ」라는 母音이 업기 때문에 엇지 할 수 업시 「ㅎ」인 h만으로 「흐」하고 發音하게 되니, 이것은 완전한 發音이 아니외다.
+備考 에쓰語에서는 母音과 母音은 合하지 못하고 字音과 母音이라야 合한다고 하엿슴니다. 지금 i와 j, u와 ^u의 合音을 보면 잘 알게 됨니다.
+ja(子音과 母音) ㅑ     n^a(子音과 母音) 와
+ia(母音의 母音) 이아  ua(母音과 母音) 우아
+jo(子音과 母音) ㅛ    u^o(子音과 母音) 워
+io(母音과 母音) 이오  uo(母音과 母音) 우오
+ju(子音과 母音) ㅠ    u^e(子音과 母音) 웨
+iu(母音 母音) 이우    ue(母音과 母音) 우애
+그러기에 「ㅑ」라는 重母音을 내이랴고 하면 반듯시 ja를 써야 하고, ia라 쓰면 그 發音은 「이아」가 됨니다.
+6. 單獨된 子音의 發音, 子母音이 合하여 완전한 發音을 내일 때에 그것에 참여하지 못하고 單獨히 떠러진 子音에는 언제던지 「ㅡ」라는 母音을 너허서 發音하게 되나, 물론 이것은＜68＞ 완전한 發音이 아니외다.
+가령 朝鮮 말에 「리ㅂ로」(libro)와 가튼 것이 잇다고 하고 이러한 경우에는 母音 업는 子音 「ㅂ」만이 혼자 남아 잇기 때문에 엇지 할 수 업시 母音 「ㅡ」를 너허서 「브」하고 發音하든가, 그러치 아니하면 「륍로」하고 發音하여도 조씀니다. 그러나 될 수 잇는대로 「ㅂ」音을 가비얍게 내이는 것이 조흘 줄로 암니다. vidas(삐다ㅆ)의 s(ㅆ)와 가튼 때에도 母音 「ㅡ」를 너허서 「쓰」하고 發音함니다.
+그러고 완전한 바침으로 쓰는 글字는 3字이니 l, m, n와 가튼 것이외다.
+Kelka(케ㄹ카)=켈카, Kampo(카ㅁㅍㅗ)=캄포, Kanto(카ㄴㅌㅗ)=칸토.
+7. 音節(Silabo) 音節이라는 것은 母音 혼자서 내이는 音이나, 또는 子母音이 合하여 된 완전한 소리를 가르치는 것이외다. 朝鮮 말에 「사람」하면 子母音이 合해 된 「사」가 한 音節이고, 子母音이 合하여 된 「라」에 바침 「ㅁ」가 들어 「람」이 한 音節로, 「사람」은 전체가 두 節로 된 것임니다.
+(1) 單音節로 된 것을 들어 보면;
+En(엔) Sur(쑤르) g^is(찌쓰) E^e(에취) C^ar(취아르) Nun(눈) Mi(미) Ni(니) G^i(찌) Nu(누) Al(알) A^u(아우) Vin(빈) Sep(쎄프) Na^u(나우)와 가튼 것이외다.
+注意 Sur, G^is, Na, Sep 가튼 것은 朝鮮 말로 發音된 것을 보면, 두 音節 가티 보이나, 子母音이 合한 뒤에, 單獨된 子音이 잇을 뿐임으로 한 音節 밧게 못됨니다. 웨 그런고 하니, 單獨된 子音은 완전한 조리가 되지 못하기 때문이외다.
+(2) 두 音節로 된 것을 보면;
+Homo(호모) Hundo(훈도) Vento(벤토) Kurso(쿠ㄹ쏘) Balda^u(발다우) Inko(인코) Mia(미아) Kiom(키옴) Plumo(플루모) Floro(로로) Vera(라) Bela(벨라)
+注意 L와 R의 發音을 混同치 안키 위하여 에쓰語 發音上 원칙을 아니나마 L는 Bela(벨라)와 가티 두 번 發音하는 것이 조코, R은 Vera(라)와 가티 한 번 發音하는 것이 조흘가 함니다.
+(3) 세 音節로 된 것을 보면;
+Printempo(프린템포), Au^tuno(아우투노), Inkujo(인쿠요), Somero(쏘메로), Julio(율리오), Rakonto(으라콘토), Patrino(파트으리노), Vizag^o(쪼), Meznokto(메노크토), Verkisto(르키쓰토), J^urnalo(쥐우르날로), Arbaro(아르바로)
+8. 楊音節(Akcento) 楊音節이라는 것은 두 音節 이상 되는 말의 한 音節을 소리 놉게 發音하는 것이니, 에쓰語의 楊音節은 일정하여 맨 끗흐로부터 둘재되는 音節 (母音이건, 子母音 合한 것이건)에 잇슴니다. 그리하여 Homo(호모)하면 ho에 잇서 ho를 다른 音節보다 노핌니다. 다음에 (')로 楊音節을 표함니다.
+Ho'mo(호'모), Hun'do(훈’도), Bo'na(보'나), Oku'lo(오쿨’로), Ven'to('토), Vi'das(’다쓰), gus'ta(구쓰'타), ku'ne(쿠’네), Morte'ma(모르테'마), C^am'bro(취암’브로).
+9. 二重韻(Diftongo) 에쓰語의 發音上으로 보면, 二重韻이란 것은 잇을 것이 못됨니다. 이는 에쓰語에는 子音 아니면 母音으로 소위 半母音이란 업기 때문이외다. 그러나 J와 U^를 半母音이라고 許할 때에는 二重韻이란 것이 잇게 되는데, 두 개의 母音이 각각 떨어져 獨立的 發音을 내이지＜69＞ 아니하고, 相助相依하여 한 音節의 發音을 내이는 것이외다. Aj(ㅏ와 ㅣ)아이, Uj(ㅜ와 ㅣ)우이, Ej(ㅔ와 ㅣ)에이, Au^(ㅏ와 ㅜ)아우, Oj(ㅗ와 ㅣ)오이, Eu^(에와 ㅜ)에우
+母音에 딸린 子音이기 때문에 또는 한 音節 밧게 아니되기 때문에 楊音節의 위치는 결코 변치 안슴니다.
+Bal'dau^(발’다우), Pa'laj(팔’라이), Bala'u(발라’우), Bala'i(발라’이), Ami'ko(아미’코), Faj'ro(이’로), Ami'koj(아미’코이), Soi'fi(쏘이’). 와 갓게 됨니다.
+
+發音練習1
+Ma-jo, Si-a, Ajn, I-e, I-om, Tu-ja, Ki-o, An-kau, Te-a-tro, Kan-bi-no, Frau^-li-no, Prin-tem-po, A-di-au^, Ba-la-u, Sin-jo-ro, Kur-te-no, G^ar-de-no, C^ag-re-ni, Tro-e, S^pa-ri, Trank-vi-lo, Gen-toj, A-mi-koj, Vin-tro, Li-ber-tem-po, Ves-pe-ro, O-ri-en-ta, Lu-mo, Se-maj-no, S^a-tas, Plen-di, Jus-ta, Lin-gvo, Plej-A-mo, E^u-ro-po, Au^-tu-no, Lip-ha-roj, In-dig-noj, He-ro-o.
+
+發音練習2
+Lue, Hole, Pale, Traire, Pasie, Metio, Ing^eniero, Insekto, Reservi, Rezervi, Citrono, Cento, Cikanino, Inko, Siajn, C^lelo, Rug^ig^i, Koreujo, Fremda, Monujo, Senmovema, Sag^a, Dorm-etonte, J^urnalisto, Nevideblaj^o, Pereu, Nubaj^o, Funda, Tro-malfruege, Ec^, Ema, Trouzebla, Sumo, Zumo, Katedro, Ne-niom, Jes, Amerikanino, C^evalac^o, Anglujo, Franco.＜70＞
+＜68-70＞

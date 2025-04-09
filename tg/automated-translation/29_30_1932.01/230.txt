@@ -1,0 +1,40 @@
+**Header Section**
+Magazine Title: 동광 (東光)
+Publication Date: 1932년 01월 25일
+Article Title: 音樂家千態 (Various Types of Musicians)
+Author: 金亨俊
+Article Type: 만화 (Cartoon/Comic)
+
+**Body Text Translation**
+(No body text provided for translation. The input only contains metadata.)
+
+**Summary**
+
+This document provides the metadata for a cartoon titled "Various Types of Musicians" (音樂家千態) by Kim Hyŏngjun (金亨俊), published in the 30th issue of the magazine *Tonggwang* (東光) on January 25, 1932. As only the title and metadata are available, the content of the cartoon itself is unknown, but it likely satirizes or depicts different kinds of musicians prevalent in Korea at the time. For historians, this entry is interesting as it documents a piece of visual culture (a cartoon) from a colonial Korean magazine, offering potential insights into contemporary social commentary, artistic styles, and perceptions of musicians during that period, even without the visual content itself. The name Kim Inje (金仁堤) also appears, possibly indicating another contributor or related individual.
+
+**Named Entities**
+
+金亨俊	김형준	Kim Hyŏngjun
+金仁堤	김인제	Kim Inje
+
+**Glossary**
+
+동광	동광	*Tonggwang* (Magazine Name, lit. Eastern Light)
+音樂家千態	음악가천태	Various Types of Musicians (Article Title)
+音樂家	음악가	Musician
+千態	천태	Thousand forms; various types/aspects
+만화	만화	Cartoon, comic
+
+
+---------------------------
+
+
+잡지명	동광 제30호
+발행일	1932년 01월 25일
+기사제목	音樂家千態
+기사형태	만화
+
+音樂家千態
+金亨俊
+
+金仁堤

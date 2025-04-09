@@ -1,0 +1,154 @@
+잡지명	동광 제21호
+발행일	1931년 05월 01일
+기사제목	窓없는 집, 建築界의 新 「에팍」 (Windowless Houses, A New 'Epoch' in the Architectural World)
+필자	吳楨洙
+기사형태	소식 (News Report)
+
+Windowless Houses, A New 'Epoch' in the Architectural World
+						O Chŏng-su
+
+The 'Simonds' Company (『싸이몬』會社), a leader in the American saw manufacturing industry, recently began construction on a new $1.5 million factory. To increase the factory's efficiency, it is being built entirely without windows. Seeing such a large sum invested, it is certain this is not being done merely out of curiosity or as an experiment. The company authorities do not just speculate that eliminating windows and doors might be advantageous; they are moving forward with the firm conviction and prediction that it will increase factory efficiency by about 30%.
+
+Conventionally, it was believed that having as many windows as possible to let ample sunlight into a place yielded higher factory efficiency. What is the basis for this new idea, which is the exact opposite of that intention?
+
+Whether it be factories or residences, the greatest difficulty is the seasonal fluctuation of temperature and humidity. Winter cold is generally controlled using radiators, but methods to guard against the extreme heat of summer are still incomplete. While there are ice-making coolers and mist sprayers, meaning methods to control temperature and humidity are not entirely absent, it is economically unfeasible because numerous windows and doors allow too much ventilation with the outside air. A windowless building is advantageous in this respect. It benefits the workers, of course, and helps their efficiency, which is why windows are being eliminated.
+
+Other reasons for eliminating windows (廢窓) are to block out external dust, noise, and sunlight. Dust can be sufficiently controlled using air filters (空氣瀘過機), but in rooms ventilated with the outside, this is also economically impractical. It becomes feasible only if there are no windows, hence the elimination of windows.
+
+Noise also fatigues people through the auditory nerves. Windows are eliminated to block noise coming from the outside.
+
+Excluding sunlight, a good disinfectant and beneficial remedy, is somewhat disadvantageous, but since glass generally filters out the health rays (健强線) of sunlight anyway, excluding it can be seen as not a major issue. This is the convenience of substituting electric light for sunlight.
+
+Because sunlight changes its intensity and direction of emission moment by moment, the optic nerves, which must constantly adjust accordingly, actually become fatigued comparatively faster than when under artificial light coming from a uniform intensity and fixed direction.
+
+Thus, after building an insulated, windowless 'darkroom factory' and ideally controlling temperature and humidity uniformly throughout spring, summer, autumn, and winter with steam heaters, coolers, and mist sprayers; purifying the indoor air with filters; and providing uniform light 24 hours a day with electric lights no less effective than sunlight, it is said that the workers' physical and mental comfort will increase, leading to an approximately 30% rise in efficiency. Manufacturers in various fields, as well as architects and even ordinary people, are watching this experiment with interest (滋味잇게). If this windowless factory provides greater health and comfort to workers due to its lack of windows, thereby yielding a 30% increase in efficiency, then windows may disappear from future factories, and gradually even residences will take on a new appearance. With this, the architectural world will enter a new 'epoch'. <55>
+
+**Summary**
+
+This 1931 article reports on the construction of a revolutionary $1.5 million windowless factory by the Simonds Saw and Steel Company in the United States. The author, O Chŏng-su, explains the rationale: eliminating windows allows for complete control over internal temperature, humidity, air purity (using filters), noise, and lighting (using uniform electric light). This controlled environment is expected to increase worker comfort and boost efficiency by 30%, challenging the traditional belief that natural sunlight maximized productivity. The article concludes that if successful, this experiment could mark a new epoch in industrial and potentially residential architecture. For historians, this piece reveals Korean awareness of and interest in cutting-edge Western industrial architecture and technology during the colonial period. It reflects the global spread of ideas about scientific management, efficiency, and the potential of technology to control and improve upon natural conditions, even fundamental ones like sunlight and air, as perceived through a Korean lens in 1931.
+
+**Named Entities**
+
+美國	미국	Miguk
+『싸이몬』會社	사이몬 회사	Ssaimon Hoesa (Simonds Company)
+吳楨洙	오정수	O Chŏng-su
+
+**Glossary**
+
+동광	동광	Tonggwang (Magazine Name: Eastern Light)
+에팍	에팍	Epoch (loanword)
+魁首	괴수	Leader, chief
+近者	근자	Recently (older form)
+着手	착수	To start, commence
+增殖	증식	Increase, multiply, proliferate
+키 위하야	-기 위하여	In order to (older spelling/form of 기 위하여)
+짓는다	짓는다	Builds (standard form)
+거액	거액	Large sum of money
+好奇的	호기적	Curious(ly)
+試驗的	시험적	Experimental(ly)
+안는	않는	Not doing (older spelling of 않는)
+當局者	당국자	Authorities, persons concerned
+폐지함	폐지함	Eliminating, abolishing
+利하리라	이하리라	Will be advantageous (older grammatical form)
+確斷的	확단적	Conclusive, definite
+預測	예측	Prediction, forecast
+잇다	있다	To exist, have (older spelling of 있다)
+在來	재래	Conventional, traditional
+두어	두어	Placing, installing (standard form, contextually: having)
+들임	들임	Letting in
+낸다고	낸다고	Yields, produces (standard form)
+溫濕度	온습도	Temperature and humidity
+節期的	절기의	Seasonal
+變遷	변천	Change, fluctuation
+冬節	동절	Winter season
+放熱機	방열기	Radiator
+調節	조절	Control, regulate
+夏節	하절	Summer season
+酷炎	혹염	Extreme heat
+防備	방비	Defense, guard against
+製氷冷却機	제빙냉각기	Ice-making cooler/refrigerator
+잇으니	있으니	Since there is/are (older spelling of 있으니)
+噴霧機	분무기	Mist sprayer, atomizer
+無함	없음	Absence, lack (older form of 없음)
+아니로되	아니로되	Although it is not
+門窓	문창	Doors and windows
+通氣	통기	Ventilation
+됨으로 因하야	되므로 인하여	Because it becomes, due to (older spelling/form of 되므로 인하여)
+便宜	편의	Convenience, advantage
+職工	직공	Worker, factory hand
+其外	기외	Besides that, other
+廢窓	폐창	Elimination of windows
+外界	외계	Outside world, external environment
+塵埃	진애	Dust
+騷亂	소란	Noise, disturbance
+排斥	배척	Exclusion, rejection
+코자 함	-고자 함	Intending to do (older spelling/form of -고자 함)
+空氣瀘過機	공기여과기	Air filter
+넉넉히	넉넉히	Sufficiently, enough
+제어	제어	Control, suppress
+실시	실시	Implementation, carrying out
+노릇	노릇	Thing, matter, affair (colloquial)
+耳神經	이신경	Auditory nerve
+殺菌劑	살균제	Disinfectant, germicide
+良藥	양약	Good medicine
+日光	일광	Sunlight
+불허함	불허함	Not permitting, disallowing
+琉璃	유리	Glass
+健强線	건강선	Health rays (likely referring to beneficial components of sunlight like UV)
+瀘除	여제	Filter out
+電光	전광	Electric light
+대신함	대신함	Substituting
+時刻	시각	Time, moment
+光度	광도	Light intensity, luminosity
+發射方面	발사방면	Direction of emission
+視神經	시신경	Optic nerve
+균일한	균일한	Uniform, even
+고정한	고정한	Fixed, stationary
+方向	방향	Direction
+광선	광선	Ray of light
+아레	아래	Below, under (older spelling of 아래)
+比較的	비교적	Comparatively
+疲困	피곤	Fatigue, exhaustion
+絕緣壁	절연벽	Insulating wall
+暗室工場	암실공장	Darkroom factory
+蒸汽暖爐	증기난로	Steam heater/stove
+冷脚機	냉각기	Cooler, cooling machine (same as 冷却機)
+理想	이상	Ideal
+春夏秋冬	춘하추동	Spring, summer, autumn, winter
+균일하게	균일하게	Uniformly
+正히	정히	Properly, cleanly, purely (older form, here meaning 'purify')
+일광만 못치 안은	일광만 못지않은	Not inferior to sunlight, as good as sunlight
+심신	심신	Mind and body
+안일케	안일케	Comfortably, peacefully (older form of 안일하게)
+滋味잇게	재미있게	Interestingly, with interest (older spelling of 재미있게)
+지키고 잇다	지키고 있다	Are watching, observing (older spelling of 지키고 있다)
+만일에	만일에	If, in case
+건강	건강	Health
+안위	안위	Comfort, well-being
+今后	금후	Henceforth, from now on (older form of 금후)
+서서히	서서히	Gradually
+주택	주택	Residence, housing
+新面目	신면목	New appearance, new phase
+作할	작할	To make, create (older grammatical form, modern form 만들/이룰)
+入할	입할	To enter (older grammatical form, modern form 들어갈)
+
+
+---------------------------
+
+
+잡지명	동광 제21호
+발행일	1931년 05월 01일
+기사제목	窓없는 집, 建築界의 新 「에팍」
+필자	吳楨洙
+기사형태	소식
+
+窓없는 집, 建築界의 新 「에팍」
+						吳楨洙
+美國 톱(鉅)製造界의 魁首인 『싸이몬』會社는 近者 150만弗의 新工場建設을 착수하엿다. 공장의 能率을 增殖키 위하야 窓은 전혀 없이 짓는다. 이같이 거액을 들여 짓는 것을 보면 단순히 好奇的으로나 試驗的으로 하지 안는 것은 확실하다. 이 會社 當局者들은 門窓을 폐지함이 利하리라는 것만 오직 추측함이 아니다. 確斷的으로 나가 공장능률을 약 3割 增殖시키리라고까지 預測하고 잇다.
+在來에는 될 수 잇는 대로 창을 많이 두어 장소에 日光을 많이 들임이 工場能率을 많이 낸다고 믿엇다. 그 意思와 정반대되는 이 새 생각은 그 根據가 어데 잇는가?
+공장이나 주택을 물론하고 제일 많은 곤란을 주는 바는 溫濕度의 節期的 변천이다. 冬節의 추위는 대개 放熱機를 써서 調節하지마는 아직까지 夏節의 酷炎은 방비하는 방법이 불완전하다. 製氷冷却機가 잇으며 噴霧機가 잇으니 溫度와 濕度를 조절하는 방법이 無함은 아니로되, 門窓이 많아 실외와 通氣가 너무 많이 됨으로 인하야 經濟上 불가능한 것이다. 창없는 家屋이 이 점에서 보아 便宜한 것이다. 직공의 便宜는 물론 직공의 능률을 돕는 것이니 고로 窓을 폐지함이다.
+其外에 廢窓하는 이유는 外界의 塵埃, 騷亂과 日光들을 排斥코자 함이다. 空氣瀘過機를 使用하면 塵埃를 넉넉히 제어할 수 잇으나 外界와 通氣되는 房은 역시 經濟上 실시할 수 없는 것이다. 窓만 없으면 가능한 노릇이니 고로 廢窓을 하게 된 것이다.
+소란도 耳神經을 통하야 사람을 피곤케 한다. 外界에서 오는 소란을 금키 위하야 窓을 廢하는 것이다.
+좋은 殺菌劑요, 또 良藥인 日光을 불허함은 좀 불리한 일이나 대개 琉璃가 日光의 健强線을 瀘除하는 이상 이를 불허함이 큰 일은 아니로 볼 수 잇다. 日光을 電光으로 대신함의 편리는 이것이다.
+日光은 時刻마다 光度와 發射方面을 변함으로 그를 따라 조절하여야만 되는 視神經은 균일한 光度와 고정한 방향에서 오는 광선 아레 잇는 것보다 비교적 속히 疲困해 짐이 사실이다.
+이같이 窓을 폐지하고 絶緣壁의 暗室工場을 진 후 蒸汽暖爐, 冷脚機 噴霧機들로 溫濕度를 理想대로 春夏秋冬 균일하게 조절하며, 瀘過機로서 실내의 공기를 正히 하며, 일광만 못치 안은 전등으로써 24시간 균일한 광선을 주어, 職工들의 심신을 안일케 하면, 직공의 능률이 약 3할 增殖되리라고 한다. 각계 製造家들은 물론, 建築家들과 凡人까지도 이 實驗을 滋味잇게 지키고 잇다. 만일에 이 창없는 공장이 창없음으로 인하야 직공들에게 건강 안위를 더 주며, 인하야 3割의 能率增殖을 준다 하면, 今後의 공장에는 창을 볼 수 없을 것이며 서서히 주택까지도 新面目을 作할 것이다. 建築界는 이로써 新 『에팍』에 入할 것이다. ＜55＞

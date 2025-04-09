@@ -1,0 +1,66 @@
+Magazine Title: 동광 제4호
+Publication Date: 1926년 08월 01일
+Article Title: 社告 (Publisher's Notice)
+Author: 東光社 (Tonggwang Company)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Publisher's Notice
+
+As this magazine is still published according to the Publication Law (出版法), the scope of articles is restricted by said law to the four categories of academics (學術), arts/crafts (技藝), statistics (統計), and advertisements (廣告). Therefore, items outside this scope, such as current affairs (時事) and political commentary (政論), cannot be included. We ask for the understanding of our esteemed readers and contributors.
+
+August 1, 1926
+Tonggwang Company
+
+<10>
+
+**Summary**
+
+This publisher's notice from the magazine *Tonggwang* informs readers and contributors that due to restrictions imposed by the Publication Law (出版法), the magazine's content is limited to academics, arts/crafts, statistics, and advertisements. Consequently, articles on current events or political commentary cannot be published. This notice clearly reflects the censorship environment in colonial Korea under Japanese rule, where publications faced legal constraints limiting their scope, particularly regarding politically sensitive topics. Historians would find this a direct example of the press controls implemented by the Government-General and how publishers communicated these limitations to their audience.
+
+**Named Entities**
+
+東光社	동광사	Tonggwangsa
+
+**Glossary**
+
+本誌	본지	This magazine
+아직지	아직까지	Still (older spelling)
+出版法	출판법	Publication Law
+依하야	의하여	According to (older spelling/form)
+刊行	간행	Publication
+關係上	관계상	Due to the circumstances of
+記事	기사	Article
+範圍	범위	Scope, range
+學術	학술	Academics, learning, science
+技藝	기예	Arts and crafts, technical skills
+統計	통계	Statistics
+廣告	광고	Advertisement
+四種	사종	Four types/kinds
+該法	해법	Said law, the relevant law
+制限	제한	Restriction, limitation
+잇슴으로	있으므로	As there is, because it is (older spelling)
+其範圍外	기범위외	Outside that scope
+時事	시사	Current affairs
+政論	정론	Political commentary
+실릴수업슴니다	실릴 수 없습니다	Cannot be included/published (older spelling/form)
+讀者	독자	Reader
+諸位	제위	You (honorific plural), esteemed people
+投稿	투고	Submission (of an article/manuscript)
+여러분	여러분께	To everyone (older particle form '' instead of '께')
+諒解	양해	Understanding, comprehension
+求함니다	구합니다	To seek, ask for (older spelling)
+白	백	States, reports (used after an entity name)
+
+
+---------------------------
+
+
+잡지명	동광 제4호
+발행일	1926년 08월 01일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+本誌는 아직지 出版法에 依하야 刊行되는 關係上 記事의 範圍가 學術, 技藝, 統計, 廣告의 四種으로 該法에 依하야 制限되어 잇슴으로 其範圍外에 나가는 時事, 政論等은 실릴수업슴니다. 讀者되시는 諸位와 投稿하시는 여러분 諒解를 求함니다.
+一九二十六年八月一日 東光社白
+＜10＞

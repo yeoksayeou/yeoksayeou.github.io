@@ -1,0 +1,48 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 科學斷片, 時計의 進化 (Science Fragment, The Evolution of Clocks)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+**Body Text Translation**
+
+Science Fragment, The Evolution of Clocks
+
+While water clocks, sand clocks, and sundials were also used in the East (동양), it was only in the 13th century that the current clock indicating twelve hours was invented in the West (서양). The Roman Empire (로마제국) used water clocks, and in England (영국), time was told by candles. <54>
+
+**Summary**
+
+This short piece briefly outlines the history of timekeeping devices. It mentions traditional East Asian methods like water, sand, and sundials, contrasting them with the mechanical clock developed in the West in the 13th century. It also notes the use of water clocks in the Roman Empire and candle clocks in England. From a historical perspective, the article reflects the introduction of Western concepts of time and technology into Korea during the colonial period. It simplifies the history of technology, positioning the modern mechanical clock as a Western invention arriving relatively late compared to older methods used globally, including in the East. This comparison between "East" and "West" technology is interesting for historians studying cultural exchange and perceptions of modernity in colonial Korea.
+
+**Named Entities**
+
+동양	동양	Tongyang
+서양	서양	Sŏyang
+로마제국	로마제국	Roma cheguk
+영국	영국	Yŏngguk
+
+**Glossary**
+
+물시게	물시계	Water clock (older spelling of 시계)
+모래시게	모래시계	Sand clock (older spelling of 시계)
+해시게	해시계	Sundial (older spelling of 시계)
+썻거니와	썼거니와	Used, and... (older spelling and conjunction form)
+시게	시계	Clock/watch (older spelling)
+알앗섯다	알았었다	Knew, told, found out (older past perfect tense form)
+斷片	단편	Fragment
+進化	진화	Evolution
+발명	발명	Invention
+겨우	겨우	Barely, only, just
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	科學斷片, 時計의 進化
+기사형태	잡저
+
+科學斷片, 時計의 進化
+동양에서도 물시게, 모래시게, 해시게들을 썻거니와 서양서도 현재의 열두시간 가르키는 시게가 발명된 것은 겨우 13세기에 와서야 된 일이다. 로마제국에서는 물시게를 썻고 영국서는 촛불로 시간을 알앗섯다.＜54＞
+＜54＞

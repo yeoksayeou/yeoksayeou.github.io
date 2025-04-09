@@ -1,0 +1,49 @@
+Magazine Title: 동광 제4호
+Publication Date: 1926년 08월 01일
+Article Title: 우두의 효력은 몃 해 (How Many Years is Cowpox Vaccination Effective?)
+Author: Not Specified
+Article Type: 소식 (News/Information)
+
+How Many Years is Cowpox Vaccination Effective?
+
+Smallpox (天然痘) is a disease that originally came from India (印度), having first occurred there 2,000 years ago. That we do not fear this disease so much now is thanks to the grace of Dr. Jenner (젠나선생). However, receiving vaccination (種痘) once does not mean one is safe for life. The effectiveness of vaccination (種痘) varies somewhat depending on a person's constitution and the vaccination itself. On average, it is reliably effective for 2 or 3 years, but after 10 years, the effect disappears, so it is safe to do it once every 5 years. During a smallpox (天然痘) epidemic, even if one received it last year, one feels uneasy if not vaccinated again. For young children (아니), spring and autumn are the best times. <45>
+
+**Summary**
+
+This short article from 1926 informs readers about the effectiveness duration of the smallpox vaccine (cowpox vaccination, 우두). It states that while the vaccine, credited to Dr. Jenner, significantly reduced the threat of smallpox (which originated in India), its protection is not lifelong. The article advises that immunity lasts reliably for 2-3 years, wanes significantly after 10 years, and recommends revaccination every 5 years for safety, or even annually during outbreaks. It also suggests spring and autumn as optimal vaccination times for children. From a historical perspective, this piece highlights the dissemination of Western medical knowledge (vaccination) and public health guidance in colonial Korea during the 1920s. It reflects the contemporary understanding of vaccine efficacy and the efforts to manage infectious diseases through regular preventive measures.
+
+**Named Entities**
+
+印度	인도	India
+젠나선생	젠나선생	Chenna Sŏnsaeng (Dr. Jenner)
+
+**Glossary**
+
+우두	우두	Cowpox vaccination (smallpox vaccine)
+몃	몇	How many (older spelling)
+天然痘	천연두	Smallpox
+녀김	여김	Considering, regarding (older spelling/form of 여기다)
+젠나선생	젠나선생	Dr. Jenner (Edward Jenner)
+種痘	종두	Vaccination (specifically smallpox vaccination)
+하엿다고	하였다고	Saying that one did (older spelling)
+아니외다	아닙니다/아니외다	Is not (older polite negative copula ending)
+잇슴니다	있습니다	There is/are (older spelling)
+업서지니까	없어지니까	Because it disappears (older spelling)
+한번식	한 번씩	Once each time, every (older spelling/spacing)
+넛다	넣다	To put in, inject (here: vaccinate) (older spelling/form)
+넛치안으면	넣지 않으면	If one does not put in/inject (vaccinate) (older spelling/form)
+아니	아이	Child (older spelling)
+좃슴니다	좋습니다	Is good (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제4호
+발행일	1926년 08월 01일
+기사제목	우두의 효력은 몃 해
+기사형태	소식
+
+우두의 효력은 몃 해
+天然痘는 원래 印度에서 들어온 것인대 2천년 전에 印度에서 처음 발생한 병임니다. 우리가 이 병을 지금은 그러케 무섭게 녀김은 젠나선생의 은덕임니다. 그러나 種痘를 한번 하엿다고 평생 안전한 것은 아니외다. 種痘의 효력은 사람의 체질이나 種痘하는대 다소의 差가 잇슴니다. 평균 2, 3년 간은 확실히 효력이 잇스나 10년이나 지나면 효과가 업서지니까 5년만에 한번식 함이 안전함니다. 天然痘의 유행 시에는 가령 작년에 넛다 하여도 또 넛치안으면 불안심이 됨니다. 어린 아니는 春秋로 넘이 가장 좃슴니다.＜45＞
+＜45＞

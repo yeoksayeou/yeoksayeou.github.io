@@ -1,0 +1,119 @@
+Magazine Title:	동광 제26호
+Publication Date:	1931년 10월 04일
+Article Title:	一行科學 (One-Line Science/Science Snippets)
+Author:	
+Article Type:	소식 (News/Items)
+
+One-Line Science
+
+Among the copper ore dug from American mines last year, there was a copper chunk weighing as much as 35 tons.
+
+A newborn baby begins to follow moving objects with its eyes at 34 weeks.
+
+Manganese was also used extensively in the Egyptian era. It was used to apply purple coloring to pottery and glass.
+
+According to an announcement by a certain hygiene technician, strengthening the body with exercise and cold baths does not prevent colds.
+
+As a result of experiments, pure water, meaning water without fine ice fragments or bacterial crystal bodies (nucleation sites), does not freeze at zero degrees but freezes at 1.9 degrees [Celsius, assumed].
+
+A certain American chicken farmer built his chicken coop in the style of an apartment house and raises 3,000 chickens in his own backyard.
+
+A British biologist states that there are 50,000 existing species of mollusks alone.
+
+At Cornell University in the United States, they built a two-story cow barn, installed steam heating, and raise cattle, and the calves are growing well.
+
+Just as there are different types of oak trees, the acorns they bear are all different.
+
+In the United States, each person uses an average of 6 pencils per year.
+
+On the threshold of the library door of the Egyptian King Ramesses II in Thebes, this motto is written: "Hospital of the Soul."
+
+An uncut diamond, at first glance, is indistinguishable from an ordinary pebble, and the average person cannot tell it is a diamond.
+
+Last year, Russia's (露國) wheat production increased by 400 million bushels. The cultivating and harvesting machines used for that increased yield were almost all American-made.
+
+Bats hibernate during the winter season, sleeping hanging upside down from beginning to end.
+
+It is said that the first grain cultivated by humankind was barley. <78>
+
+**Summary**
+
+This article presents a collection of brief, unrelated facts spanning science, nature, history, and contemporary statistics from 1931. Topics include large copper finds in the US, infant development, ancient Egyptian use of manganese, skepticism about cold prevention methods, the freezing point of pure water, large-scale American farming (chickens, cattle at Cornell), mollusk diversity, oak tree variety, US pencil consumption, an inscription at Ramesses II's library, identifying rough diamonds, increased Russian wheat production using US machinery, bat hibernation, and the origins of barley cultivation. From a historical perspective, the article reveals the kind of information considered noteworthy and modern in colonial Korea during the 1930s. It prominently features examples of American scale, technology, and scientific activity (mining, agriculture, university research, manufacturing exports to Russia), alongside facts about European science and ancient history, reflecting a flow of Western knowledge into Korea. The specific mention of American machinery boosting Russian agricultural output is particularly interesting given the geopolitical landscape of the era.
+
+**Named Entities**
+
+미국	미국	United States
+埃及	애급	Egypt
+미국	미국	United States
+영국	영국	United Kingdom
+미국 코넬 대학	미국 코넬 대학	Cornell University, United States
+미국	미국	United States
+테베	테베	Thebes
+埃及王 라메세스 2세	애급왕 라메세스 2세	Egyptian King Ramesses II
+미국	미국	United States
+露國	노국/로국	Russia
+미국	미국	United States
+
+**Glossary**
+
+一行科學	일행과학	One-Line Science; Science Snippets (Article Title)
+銅鑛	동광	Copper ore
+톤	톤	Ton (loanword)
+딸아단닌다	따라다닌다	Follows (older spelling/form of 따라다니다)
+埃及	애급	Egypt (older term)
+만간	망간	Manganese
+자색칠	자색칠	Purple coloring/paint
+衛生學技師	위생학기사	Hygiene Technician/Engineer
+단련	단련	Training, strengthening (body/mind)
+細氷片	세빙편	Fine ice fragments
+細菌結晶體	세균결정체	Bacterial crystal bodies (likely refers to nucleation sites)
+結氷	결빙	Freezing, ice formation
+養鷄家	양계가	Chicken farmer
+아파트멘트·하우쓰	아파트먼트 하우스	Apartment house (loanword, older transliteration)
+후원	후원	Backyard
+소오양깐	소 외양간	Cow shed, barn (older spelling/spacing)
+증기난로	증기난로	Steam heater/stove
+목우	목우	Raising cattle
+상수리나무	상수리나무	Oak tree
+도토리	도토리	Acorn
+매인	매인	Per person (每人)
+씨워잇다	쓰여 있다	Is written (older spelling/form of 쓰여 있다)
+갈지 아니한	갈지 않은	Unground, uncut (older negative form)
+다아아몬드	다이아몬드	Diamond (older transliteration)
+조약돌	조약돌	Pebble
+露國	노국/로국	Russia (older term)
+麥생산고	맥생산고	Wheat production volume
+부셀	부셸	Bushel (loanword)
+增收	증수	Increased harvest/yield
+경작기	경작기	Cultivator, plowing machine
+수확기	수확기	Harvester
+거이다	거의 다	Almost all (older spelling/form)
+동절	동절	Winter season
+동면	동면	Hibernation
+大麥	대맥	Barley
+
+
+---------------------------
+
+
+잡지명	동광 제26호
+발행일	1931년 10월 04일
+기사제목	一行科學
+기사형태	소식
+
+一行科學
+작년에 미국 광산에서 파낸 銅鑛 중에는 35噸이나 되는 銅덩어리가 잇엇다.
+갓난애는 34주일 만에는 動하는 물체를 눈동자로 딸아단닌다.
+埃及시대에도「만간」을 만히 사용햇다. 자기와 유리에 자색칠을 하는데 썻다.
+모 衛生學技師의 발표에 의하면 체조와 냉수욕으로 신체를 「단련」하는 것이 감기에 대한 예방이 못된다고.
+실험의 결과 순수한 물 즉 細氷片이나 細菌結晶體가 없는 물은 영도에서 결빙하지 않고 1.9度에서 結氷한다고.
+미국 모 養鷄家는 닭집을 아파트멘트·하우쓰식으로 지엇는데 자기 집 후원에다가 3천 마리의 닭을 길른다고.
+영국 생물학자가 가르되 연체동물의 종류가 현존한 것만  5만종이라고.
+미국 코넬 대학에서는 소오양깐을 이층으로 짓고 증기난로를 피우고 목우를 하는데 송아지들이 잘 큰다고.
+상수리나무는 종류가 다르니만치 맺히는 도토리도 다 다르다고.
+미국에서는 매인 평균 매년 6개의 연필을 사용한다.
+테베에 잇는 埃及王 라메세스 2세의 도서실문 턱에는 이러한  표어가 씨워잇다. 「영혼의 병원」
+갈지 아니한 다아아몬드는 얼른 보기에 보통 조약돌과 구별이 없어 보통 사람은 다이아몬드인 줄을 알 수가 없다.
+작년도의 露國의 麥생산고는 4억 부셀이 증가햇다. 그 增收에 사용된 경작기와 수확기는 다 거이다 미국 생산이다.
+박쥐는 동절에는 동면을 하는데 처음부터 끝까지 거꾸로 매달려서 잔다.
+인류가 맨 먼저 심은 곡식은 大麥이라고. ＜78＞

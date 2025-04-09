@@ -1,0 +1,245 @@
+Magazine Title: 동광 제6호
+Publication Date: 1926년 10월 01일
+Article Title: 朝鮮史 硏究의 根本史料 (Fundamental Historical Sources for the Study of Korean History)
+Author: 三淸山人
+Article Type: 논설 (Editorial/Article)
+
+Fundamental Historical Sources for the Study of Korean History
+						Samch'ŏng Sanin
+
+One who studies history, regardless of which history it is, must begin their research with its fundamental historical sources, that is, the primary and paramount written records.
+Therefore, one who studies Korean history must also first seek out and study the fundamental historical sources of Korean history. So, what are the fundamental historical sources of Korean history? Although it is difficult to list each and every one, I wish to introduce just a few of the most important ones.
+
+*Samguk Sagi* and *Samguk Yusa*
+For the fundamental sources of the Three Kingdoms period and the North-South States period, that is, ancient history, one cannot fail to mention the two records, *Samguk Sagi* (三國史記) and *Samguk Yusa* (三國遺事). The *Samguk Sagi* was authored by the scholar Kim Pusik (金富軾) in the 23rd year of King Injong (仁宗) of Koryŏ, 782 years ago from today. As the oldest extant official history (正史) among records by Koreans, no matter how incomplete its contents may be said to be, one must first read it when studying ancient history. Next, one must read the *Samguk Yusa*. It is an unofficial history (野史) authored by the monk Illyŏn (一燃) during the reign of King Ch'ungnyŏl (忠烈王) of Koryŏ, about 650 years ago from today. Although at first glance it may seem to consist only of absurd mythological records, it is a record most necessary for supplementing the deficiencies (缺陷) of the *Samguk Sagi*, whether as historical material concerning the period before the Three Kingdoms, such as the Tan'gun Era (檀君時代) or the Confederated Kingdoms Era (列國時代), or as historical material concerning various aspects of the Three Kingdoms period like popular sentiment, customs, literature, and art. At the same time, it can be said to form a pair with the *Samguk Sagi* among ancient historical sources.
+
+*Koryŏsa* and *Yi Dynasty Sillok*
+For the fundamental sources of the middle period, that is, the Koryŏ Dynasty (高麗朝), one must mention the *Koryŏsa* (高麗史), authored by Chŏng Inji (鄭麟趾). It was based on the veritable records (*sillok*) of successive reigns of the Koryŏ Dynasty, compiled under the hand of Chŏng Tojŏn (鄭道傳) during the time of Yi Dynasty's T'aejo (李朝太祖), and then revised under the hand of Chŏng Inji (鄭麟趾) around the time of King Sejong (世宗), approximately 520 years ago from today. It is the sole official history of the Koryŏ Dynasty, and one cannot study the history of the Koryŏ Dynasty without it.
+And for the history of the Yi Dynasty (李朝史), the *Kukcho Sillok* (國朝實錄), compiled by the hands of successive historian-officials (史官) of the Yi Dynasty, will naturally be the sole fundamental historical source.
+
+Supplementary Material is Epigraphy (金石文)
+Therefore, anyone intending to study Korean history must first thoroughly read and deeply study the aforementioned *Samguk Sagi*, *Samguk Yusa*, *Koryŏsa*, and *Kukcho Sillok*.
+However, it is an unavoidable fact that even these fundamental sources listed above contain many errors (착오) and flaws (결함). Furthermore, something like the *Samguk Sagi* was not based on veritable records directly written during the Three Kingdoms period; rather, it was based on meager (僅少) records that were altered (變作) or erroneously recorded (誤記) by people in the late Silla period and transmitted down. Thus, it can be said that there are quite a few points mistaken to the extent that they are hard to believe.
+Therefore, to correct (訂正) and supplement (補充) them, one must read epigraphy (金石文), which are the most trustworthy records from that time. Accordingly, as the sole collection of epigraphy, one should read the recently published "Kŭmsŏk Ch'ongnam" (金石總覽).
+
+Writings by Foreigners
+Furthermore, among writings by foreigners, records concerning Korea within the Chinese 24 Histories (支那24史), which were recorded as a result of direct contact at the time, can naturally be called historical sources more trustworthy (信憑) than records by Koreans written later. Also, the *Nihon Shoki* (日本書記), much of which can be said to have been written by the brush of Paekche people, will also be of considerable reference (참조). Thus, without reading all of these as well, it will be difficult to study Korean history in its true aspect (진면목).
+And besides these, it goes without saying that many unofficial histories (野史), collected works (文集), and other such documents should be consulted, but as this discussion would become overly lengthy (장황함으로), I will stop here.
+
+24 Histories
+Title | Volumes | Period | Author(s)
+------- | -------- | -------- | --------
+Shiji (史記) | 130 | Western Han (西漢) | Sima Qian (司馬遷)
+Han Shu (漢書) | 120 | Eastern Han (東漢) | Ban Gu (班固)
+Hou Han Shu (後漢書) | 120 | Liu Song (宋) | Fan Ye (范曄)
+Sanguo Zhi (三國志) | 65 | Jin (晋) | Chen Shou (陳壽)
+Jin Shu (晋書) | 130 | Tang (唐) | Fang Xuanling (房玄齡) et al.
+Song Shu (宋書) | 100 | Southern Qi (齊) | Shen Yue (沈約)
+Qi Shu (齊書) | 59 | Liang (梁) | Xiao Zixian (蕭子顯)
+Liang Shu (梁書) | 56 | Tang (唐) | Yao Silian (姚思廉)
+Chen Shu (陳書) | 36 | Tang (唐) | Yao Silian (姚思廉)
+Wei Shu (魏書) | 114 | Northern Qi (北齊) | Wei Shou (魏收)
+Bei Qi Shu (北齊書) | 50 | Tang (唐) | Li Baiyao (李百藥)
+Zhou Shu (周書) | 50 | Tang (唐) | Linghu Defen (令狐德棻) et al.
+Sui Shu (隋書) | 85 | Tang (唐) | Wei Zheng (魏徵) et al.
+Nan Shi (南史) | 80 | Tang (唐) | Li Yanshou (李延壽) et al.
+Bei Shi (北史) | 100 | Tang (唐) | Li Yanshou (李延壽) et al.
+Jiu Tang Shu (舊唐書) | 200 | Later Jin (後晋) | Liu Xu (劉昫) et al.
+Xin Tang Shu (新唐書) | 255 | Song (宋) | Ouyang Xiu (歐陽修) et al.
+Wudai Shi (五代史) | 150 | Song (宋) | Xue Juzheng (薛居正) et al.
+Wudai Ji (五代記) | 75 | Song (宋) | Ouyang Xiu (歐陽修)
+Song Shi (宋史) | 496 | Yuan (元) | Toghto (脫脫) et al.
+Liao Shi (遼史) | 116 | Yuan (元) | Toghto (脫脫) et al.
+Jin Shi (金史) | 136 | Yuan (元) | Toghto (脫脫) et al.
+Yuan Shi (元史) | 210 | Ming (明) | Song Lian (宋濂) et al.
+Ming Shi (明史) | 332 | Qing (淸) | Zhang Tingyu (張延玉) et al.<17>
+<16-17>
+
+**Summary**
+
+The author, Samch'ŏng Sanin, outlines the essential primary sources for studying Korean history. For ancient history (Three Kingdoms, North-South States), the *Samguk Sagi* and *Samguk Yusa* are crucial, with the latter supplementing the former's gaps, especially concerning mythology, folklore, and pre-Three Kingdoms periods. For the Koryŏ period, the *Koryŏsa* is the key official history. For the Chosŏn (Yi) Dynasty, the *Chosŏn Wangjo Sillok* (referred to as *Ijo Sillok* or *Kukcho Sillok*) is indispensable. The author stresses the need to critically engage with these texts, acknowledging their potential errors and incompleteness (particularly the *Samguk Sagi*), and advocates using epigraphy (金石文), such as found in the *Kŭmsŏk Ch'ongnam*, for correction and supplementation. Additionally, relevant records in the Chinese 24 Histories and the Japanese *Nihon Shoki* are recommended as valuable external perspectives, alongside various unofficial histories and literary collections. The article concludes with a list of the Chinese 24 Histories.
+
+From the perspective of Korean colonial history, this article (published in 1926) is interesting as it represents a Korean intellectual's effort to define and promote the study of Korean history based on primary Korean sources during a period of Japanese rule. While acknowledging the value of Chinese and Japanese records, the core emphasis is on Korean-authored texts like the *Samguk Sagi*, *Samguk Yusa*, *Koryŏsa*, and the *Sillok*. The critical approach advocated, including the use of epigraphy and acknowledging potential biases or errors in canonical texts, reflects emerging modern historical methodologies within Korea, resisting potentially Japan-centric historical narratives while still engaging with necessary external sources. Historians might find the specific selection and evaluation of sources, and the implicit assertion of Korean historical scholarship's autonomy, significant for understanding intellectual trends of the period.
+
+**Named Entities**
+
+三國史記	삼국사기	Samguk Sagi
+三國遺事	삼국유사	Samguk Yusa
+金富軾	김부식	Kim Pusik
+仁宗	인종	Injong
+朝鮮	조선	Chosŏn
+高麗	고려	Koryŏ
+忠烈王	충렬왕	Ch'ungnyŏl Wang
+一燃	일연	Illyŏn
+檀君時代	단군시대	Tan'gun Sidae
+列國時代	열국시대	Yŏlguk Sidae
+高麗史	고려사	Koryŏsa
+李朝實錄	이조실록	Ijo Sillok
+鄭麟趾	정인지	Chŏng Inji
+高麗朝	고려조	Koryŏ Dynasty
+李朝太祖	이조태조	Yi Dynasty T'aejo
+鄭道傳	정도전	Chŏng Tojŏn
+世宗	세종	Sejong
+李朝	이조	Yi Dynasty
+國朝實錄	국조실록	Kukcho Sillok
+金石文	금석문	Kŭmsŏk Mun
+金石總覽	금석총람	Kŭmsŏk Ch'ongnam
+支那24史	지나24사	China 24 Histories
+日本書記	일본서기	Nihon Shoki
+百濟	백제	Paekche
+史記	사기	Shiji
+西漢	서한	Western Han
+司馬遷	사마천	Sima Qian
+漢書	한서	Han Shu
+東漢	동한	Eastern Han
+班固	반고	Ban Gu
+後漢書	후한서	Hou Han Shu
+宋	송	Liu Song
+范曄	범엽	Fan Ye
+三國志	삼국지	Sanguo Zhi
+晋	진	Jin Dynasty
+陳壽	진수	Chen Shou
+晋書	진서	Jin Shu
+唐	당	Tang Dynasty
+房玄齡	방현령	Fang Xuanling
+宋書	송서	Song Shu
+齊	제	Southern Qi
+沈約	심약	Shen Yue
+齊書	제서	Qi Shu
+梁	양	Liang Dynasty
+蕭子顯	소자현	Xiao Zixian
+梁書	양서	Liang Shu
+姚思廉	요사렴	Yao Silian
+陳書	진서	Chen Shu
+魏書	위서	Wei Shu
+北齊	북제	Northern Qi
+魏收	위수	Wei Shou
+北齊書	북제서	Bei Qi Shu
+李百藥	이백약	Li Baiyao
+周書	주서	Zhou Shu
+令狐德棻	영호덕분	Linghu Defen
+隋書	수서	Sui Shu
+魏徵	위징	Wei Zheng
+南史	남사	Nan Shi
+李延壽	이연수	Li Yanshou
+北史	북사	Bei Shi
+舊唐書	구당서	Jiu Tang Shu
+後晋	후진	Later Jin
+劉昫	유구	Liu Xu (Note: Original has 晌, corrected to 昫 based on historical record)
+新唐書	신당서	Xin Tang Shu
+宋	송	Song Dynasty
+歐陽修	구양수	Ouyang Xiu
+五代史	오대사	Wudai Shi
+薛居正	설거정	Xue Juzheng
+五代記	오대기	Wudai Ji
+宋史	송사	Song Shi
+元	원	Yuan Dynasty
+脫脫	탈탈	Toghto
+遼史	요사	Liao Shi
+金史	금사	Jin Shi
+元史	원사	Yuan Shi
+明	명	Ming Dynasty
+宋濂	송렴	Song Lian
+明史	명사	Ming Shi
+淸	청	Qing Dynasty
+張延玉	장정옥	Zhang Tingyu
+
+**Glossary**
+
+근본	근본	Fundamental, root, basis
+사료	사료	Historical materials, sources
+붙어	부터	From (Older spelling/form of 부터)
+아니하여서는 안될 것이다	아니하여서는 안될 것이다	Must, should (Emphatic grammatical construction indicating necessity)
+낯낯이	낱낱이	Individually, one by one (Older spelling)
+ㅎ고저	하고자	Intending to, wishing to (Older spelling/form of 하고자)
+距今	거금	Ago from the present time
+正史	정사	Official history (as opposed to 野史)
+-ㄹ찌라도	-ㄹ지라도	Even if, although (Older spelling/form of -ㄹ지라도)
+野史	야사	Unofficial history, popular history
+缺陷	결함	Defect, shortcoming, flaw
+補充	보충	Supplement, complement
+쌍벽	쌍벽	A pair of walls; rivals, equals, two great pillars
+中古	중고	Middle Ages (in this context, referring to the Koryŏ period)
+의거하여	의거하여	Based on, according to
+編修	편수	Compile, edit (historical records)
+改修	개수	Revise, amend
+유일의	유일의	Sole, only, unique
+사관	사관	Historian-official (in traditional Korean/Chinese government)
+익히	익히	Thoroughly, familiarly, well
+착오	착오	Error, mistake
+결함	결함	Flaw, defect, shortcoming
+면치 못할	면치 못할	Unavoidable
+더구나	더구나	Moreover, furthermore, besides
+變作	변작	Alteration, fabrication, distortion
+誤記	오기	Erroneous record, miswriting
+유전한	유전한	Handed down, transmitted
+僅少의	근소의	Meager, scant, few
+-ㄹ만치	-ㄹ만큼	To the extent that, enough to (Older spelling/form of -ㄹ만큼)
+그릇된	그릇된	Wrong, mistaken, erroneous
+訂正	정정	Correction, revision
+보충함에는	보충함에는	In supplementing, for supplementing
+金石文	금석문	Epigraphy; inscriptions on metal and stone
+蒐集書	수집서	Collected writings, collection
+信憑	신빙	Trustworthiness, credibility
+참조	참조	Reference, consultation
+진면목	진면목	True face, real nature, actual condition
+장황함으로	장황함으로	Because it is lengthy/verbose/diffuse
+
+
+---------------------------
+
+
+잡지명	동광 제6호
+발행일	1926년 10월 01일
+기사제목	朝鮮史 硏究의 根本史料
+필자	三淸山人
+기사형태	논설
+
+朝鮮史 硏究의 根本史料
+						三淸山人
+역사를 연구하는 사람은 어떠한 역사를 물론하고 먼저 그의 근본 사료 곳 최초 최고의 저작인 기록으로 붙어 연구하지 아니하여서는 안될 것이다.
+딸아서 조선사를 연구하는 사람도 또한 조선사의 근본 사료를 찾아서 먼저 연구하지 아니하여서는 안될 것이다. 그러면 조선사의 근본 사료가 무엇일까? 그를 낯낯이 들어쓰기 어렵으나 가장 중요한 몇가지만 들어 소개ㅎ고저 하는 바다.
+
+三國史記 三國遺事
+三國時代와 南北朝時代 이상 곳 上古史의 근본 사료로는 三國史記와 三國遺事와의 두 기록을 들지 아니할 수 없다. 三國史記는 고려 仁宗 23년 곳 距今 782년 전에 文人 金富軾의 저작한 바로서 조선인의 기록으로서 현재한 중에는 가장 최고의 正史임으로 그의 내용이 아무리 불완전하다 할찌라도 고대사를 연구하려면 먼저 그를 읽지 아니할 수 없는 바이다. 그 다음에는 三國遺事를 읽지 아니하여서는 안될 것이다. 그는 고려 忠烈王 時 距今 약 650년 전에 僧 一燃의 저작한 野史로서 언뜻 보면 황당한 신화적 기록뿐인 듯 하나 삼국 이전 곳 檀君時代 列國時代의 사료로던지 삼국시대 민정, 풍속, 문학, 미술 등 여러 방면에 관한 사료로던지 삼국사기의 缺陷을 補充하기에 가장 필요한 기록인 동시에 三國史記와 같이 고대 사료에 쌍벽이라 할만한 것이다.
+
+高麗史 李朝實錄
+中古시대 곳 高麗朝의 근본 사료로는 鄭麟趾의 저작인 高麗史를 들지 아니하여서는 안될 것이다. 그는 高麗朝 歷代實錄을 의거하여 李朝太祖 時에 鄭道傳의 손으로 編修하였던 바를 世宗時 곳 距今 520년 경에 鄭麟趾의 손으로 改修한 바로서 麗朝유일의 正史인 동시에 그를 놓고서는 麗朝史를 연구하지 못할 것이다.
+그러고 李朝史로는 李朝 역대 史官의 손으로 붙어 편수된 國朝實錄이 물론 유일의 근본사료가 될 것이다.
+
+補充材料는 金石文
+그러면 조선사를 연구하려는 사람은 먼저 이상에 열거한 三國史記, 三國遺事, 高麗史, 國朝實錄을 익히 읽고 깊이 연구하지 아니하여서는 안될 것이다.
+그러나 이상에 열거한 근본 사료도 또한 착오와 결함이 많은 것은 면치 못할 사실이다. 더구나 三國史記와 같은 것은 삼국시대에 직접으로 기록한 실록에 의거한 것이 아니요. 신라 말년 사람의 손에서 變作 또는 誤記가 되어 유전한 僅少의 기록을 의거하여 된 것임으로 믿기 어렵을만치 그릇된 점이 적지 않다 할만하다.
+그럼으로 그를 訂正하고 그를 보충함에는 그 당시의 기록으로써 가장 믿을만한 金石文을 읽지 아니하여서는 안될 것이다. 딸아서 金石文의 유일의 蒐集書로서는 최근 발행의 「金石總覽」을 읽어야 할 것하다.
+
+外國人의 著作
+그러고 외국인의 저작으로서도 당시에 직접으로 접촉됨에 딸아서 기록된 支那24史 중에 조선에 관한 기록 같은 것은 물론 追後하여 기록된 조선인의 기록 이상으로 信憑할만한 사료라 할만한 것이요. 또는 대부분이 백제 사람의 붓으로 되었다 할만한 日本書記도 적지 않은 참조가 될 것이다. 그러면 그도 다 한번 읽어보지 아니하여서는 조선사를 진면목으로 연구하기 어렵을 것이다.
+그러고 그 외에도 많은 野史, 文集 등의 書類를 참조하여야 될 것은 물론이지마는 말이 넘우 장황함으로 이에 그치고 마는 바이다.
+
+24史
+書名 卷數 時代 著者
+史記 130권 西漢 司馬遷
+漢書 120권 東漢 班固
+後漢書 120권 宋 范曄
+三國志 65권 晋 陳壽
+晋書 130권 唐 房玄齡 等
+宋書 100권 齋 沈約
+齊書 59권 梁 蕭子顯
+梁書 56권 唐 姚思廉
+陳書 36권 唐 姚思廉
+魏書 114권 北齊 魏收
+北齊書 50권 唐 李百藥
+周書 50권 唐 令狐德棻 等
+隋書 85권 唐 魏徵 等
+南史 80권 唐 李延壽 等
+北史 100권 唐 李延壽 等
+舊唐書 200권 後晋 劉晌 等
+新唐書 255권 宋 歐陽修 等
+五代史 150권 宋 薛居正 等
+五代記 75권 宋 歐陽修
+宋史 496권 元 脫脫 等
+遼史 116권 元 脫脫 等
+金史 136권 元 脫脫 等
+元史 210권 明 宋濂 等
+明史 332권 淸 張延玉 等＜17＞
+＜16-17＞

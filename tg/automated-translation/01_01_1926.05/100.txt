@@ -1,0 +1,51 @@
+**Header Section:**
+Magazine Title: 동광 제1호
+Publication Date: 1926년 05월 01일
+Article Title: 시체 썩지 안는 新法 (A New Method for Preventing Corpse Decomposition)
+Author: Unknown
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+**Body Text Translation:**
+A New Method for Preventing Corpse Decomposition
+
+Egyptians supposedly removed the internal organs from dead bodies, wrapped them with spices, and prevented them from decaying for several thousand years. Things like the undecayed body of King Tutankhamun, which appeared years ago, are at least over four thousand years old. Some time ago, a 20th-century method of corpse preservation was invented. The method is nothing special: first, all the internal organs of the corpse are removed, and it is first soaked in honey or paraffin. Then, to allow electricity to pass through, its surface is coated with graphite (黑鉛), and just like plating everyday objects, it is immersed in a copper (銅) solution, and electricity is passed through it. In a short time, it becomes a new-style mummy (木乃耳). If money is not a concern, one doesn't necessarily have to use copper; it can be done with gold, silver, or even platinum. <21>
+
+**Summary**
+
+The article describes a "new" 20th-century method for preserving corpses, contrasting it with ancient Egyptian mummification. The modern technique involves removing organs, immersing the body in honey or paraffin, coating it with graphite, and then electroplating it with copper. The author notes that more precious metals like gold, silver, or platinum could be used if cost is not an issue. From a historical perspective, the article reflects the Korean interest in Western scientific advancements and technologies during the colonial period, presented alongside historical references like Tutankhamun. The mention of using precious metals also subtly touches upon ideas of modernity and wealth.
+
+**Named Entities**
+
+에집트	에집트	Egypt
+트탄카멘	트탄카멘	T'ŭt'ank'amen
+
+**Glossary**
+
+시태	시체	Corpse (Older spelling)
+안는	않는	Not (Older spelling of the negative verb ending)
+멧	몇	Several, some (Older spelling)
+-담니다	-답니다	(Sentence ending indicating reported speech or information, older polite form)
+년전	년 전	Years ago (Older spacing)
+시테	시체	Corpse (Alternative older spelling)
+얼만 전	얼마 전	Some time ago (Older spelling)
+이십세긔	20세기	20th Century (Older spelling/rendering)
+시톄	시체	Corpse (Another older spelling variation in the text)
+양밀	양밀	Honey (possibly beeswax, used alongside paraffin)
+것을	겉을	The surface, the outside (Likely older spelling/typo for 겉)
+멈미-	미라	Mummy (Using Hanja 木乃耳 transliteration, older term)
+악갑지 안으면	아깝지 않으면	If not regrettable/wasteful (regarding money); If one can afford it (Older spelling of 아깝다)
+하필	하필	Necessarily, of all things
+잡저	잡저	Miscellaneous writing, essay
+
+
+---------------------------
+
+
+잡지명	동광 제1호
+발행일	1926년 05월 01일
+기사제목	시체 썩지 안는 新法
+기사형태	잡저
+
+시체 썩지 안는 新法
+에집트 사람은 사람 죽은 시태를 내장을 빼고 향료로 싸아서 멧 천년식 썩지 안케 하엿담니다. 년전에 나타난 트탄카멘 왕의 썩지 안은 시테가튼 것은 적어도 사천년 이상을 지난 것이외다. 얼만 전에 이십세긔 식 시톄 보존법이 발명되엇다. 그 방법은 별 것 아니라 먼저 시톄의 내장을 다 뽑아 내고 먼저 양밀이나 「파라핀」으로 담것다가 다시 전긔를 통케 하기 위하여 흑연(黑鉛)으로 것을 발르고 지명에 도금하듯 동(銅)용액에 담그고 전긔를 통하면 잠시 동안에 신식멈미-(木乃耳)가 됨니다. 만일 금전이 악갑지 안으면 하필 구리쇠로 하지 말고 금이던지 은이던지 백금이라도 할 수 잇는 것이외다.＜21＞
+＜21＞

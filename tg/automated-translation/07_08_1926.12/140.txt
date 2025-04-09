@@ -1,0 +1,101 @@
+**Header Section**
+Magazine Title: 동광 제8호
+Publication Date: 1926년 12월 01일
+Article Title: 멜레人의 格言 (Proverbs of the Malay People)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+**Body Text Translation**
+Proverbs of the Malay People
+
+To hang without a rope = To abandon one's wife without a letter of divorce (休書).
+
+An ant dies in a pond = The end of a hedonist.
+
+An owl laments looking at the moon = A person full of delusions and fantasies.
+
+A bird returning to its hometown = Came empty-handed, goes empty-handed.
+
+To light a lamp in broad daylight = An honest gentleman.
+
+Is there anyone who would expose salt to the rain? = No one reveals their own faults.
+
+The sun cannot be hidden = Great sins must eventually be revealed.
+
+It is better to be the enemy of a wise person than the friend of a foolish person.
+
+If you love your son, you will often make him cry.
+
+If you want to love your wife, you must part frequently.
+
+Though the wound heals, the scar (fault) remains.
+
+If you try to block a river with a writing brush, the crocodile laughs.<50>
+
+**Summary**
+
+This short article presents a list of Malay proverbs, each followed by a brief Korean interpretation of its meaning. The proverbs cover topics such as divorce, hedonism, delusion, the cycle of life, honesty, self-preservation, the inevitability of truth, relationships, parenting, marriage, and the futility of weak efforts against powerful forces. For historians, this piece offers a small window into Korean interest in other Asian cultures during the colonial period (1926). It reflects an effort to understand and interpret foreign wisdom literature, potentially as a way to draw parallels or contrasts with Korean values, or simply out of intellectual curiosity prevalent in magazines like *Donggwang* (동광). The interpretations themselves reveal contemporary Korean understanding and framing of these concepts.
+
+**Named Entities**
+
+멜레人	멜레인	Malay people
+
+**Glossary**
+
+줄	줄	Rope; line
+업시	없이	Without (older spelling of 없이)
+목맨다	목매다	To hang (by the neck)
+休書	휴서	Letter of divorce
+棄妻	기처	Abandoning one's wife
+개미	개미	Ant
+못	못	Pond
+快樂主義者	쾌락주의자	Hedonist
+末路	말로	The end (of one's life); final fate
+올배미	올빼미	Owl (likely older or dialectal form of 올빼미)
+탄식한다	탄식하다	To lament; sigh
+妄想妄念者	망상망념자	A person full of delusions and fantasies
+空手	공수	Empty-handed
+대나제	대낮에	In broad daylight (older spelling/form)
+밧는다	밝히다	To light up; brighten (interpreted meaning in context, lit. 'receives')
+正直君子	정직군자	Honest gentleman
+소곰	소금	Salt (older spelling of 소금)
+마치는	맞히는	To expose to (rain, etc.); hit (older form/usage, related to 맞다)
+홈	흠	Fault; flaw
+드러내는	드러내다	To reveal; expose
+업슴	없음	Non-existence; lack (older spelling of 없음)
+가리운다	가리다	To cover; hide; conceal
+어진 이	어진 이	Wise person; virtuous person
+미욱한 이	미욱한 이	Foolish person; ignorant person
+벗	벗	Friend
+낫다	낫다	To be better
+안해	아내	Wife (older term, still used but less common than 아내)
+리별하여야	이별하여야	Must part; must separate (older spelling/form of 이별해야)
+나하도	나아도	Even if it heals (older spelling/form of 나아도)
+허물	허물	Fault; blame; scar (can mean both physical scar and moral fault)
+진다	지다	To remain; set (sun); bear (responsibility); get (a scar)
+붓대	붓대	Writing brush handle; writing brush
+악어	악어	Crocodile
+
+
+---------------------------
+
+
+잡지명	동광 제8호
+발행일	1926년 12월 01일
+기사제목	멜레人의 格言
+기사형태	잡저
+
+멜레人의 格言
+줄 업시 목맨다=休書(離婚할 때에 주는 글) 업시 棄妻.
+개미가 못에서 죽는다=快樂主義者의 末路.
+올배미가 달 보고 탄식한다=妄想妄念者.
+고향에 돌아가는 새=空手로 왓다 空手로 감.
+대나제 등불 밧는다=正直君子.
+소곰을 비 마치는 이도 잇슬까=제 홈을 드러내는 이 업슴.
+太陽은 못 가리운다=큰 죄는 나타나야 만다 함.
+어진 이의 원수되는 것이 미욱한 이의 벗되는 것보다 낫다.
+아들을 사랑하면 늘 울게 된다.
+안해를 사랑하려면 자주 리별하여야 된다.
+상처는 나하도 허물은 진다.
+붓대로 강물을 막으면 악어가 웃는다.＜50＞
+＜50＞

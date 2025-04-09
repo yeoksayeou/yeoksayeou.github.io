@@ -1,0 +1,409 @@
+**Header Section**
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일 (August 1, 1932)
+Article Title: 朝鮮文字의 역사적 考察(14), 訓民正音의 변천과정 (A Historical Study of Korean Characters (14), The Process of Change in Hunminjeongeum)
+Author: 金允經 (Kim Yunkyŏng)
+Article Type: 논설 (Editorial/Article)
+
+**Body Text Translation**
+A Historical Study of Korean Characters
+Kim Yunkyŏng
+
+7. Overview of Changes Since Promulgation
+
+As already mentioned, Hunminjeongeum (訓民正音) overcame countless difficulties and was finally announced to the world in the 9th month of the year Pyŏngin (丙寅), the 28th year of King Sejong (世宗). If so, did it thereafter follow a smooth path under favorable circumstances, or did it traverse a difficult road through adverse circumstances? I wish to write a little about this. However, a regrettable fact is that general historical materials and cultural assets of Korea were often burned in the flames of war (兵火) or stolen by foreign enemies (外敵), resulting in considerable loss. That is, many historical accounts and documents from the Tan'gun era (檀朝), passed down through Puyŏ (扶餘) and Koguryŏ (高句麗), were translated and published, but when Silla (新羅), together with Tang (唐) forces, destroyed Koguryŏ, not only were its archives set ablaze, but even materials scattered among the populace were gathered and burned. Puyŏ's book collection (藏書) was passed down to Parhae (渤海), but the Jin (金) followed the same path as Silla and Tang. Paekche (百濟) also met its demise at the hands of Silla and Tang, and Sabi Castle (泗沘城) was burned down. When Silla, in turn, was destroyed by Later Paekche (後百濟), its thousand years of Veritable Records (實錄) were lost at the hands of Kyŏn Hwŏn (甄萱). Fortunately, what had been preserved publicly and privately despite such calamities was ordered by King Sejo (世祖), Yejong (睿宗), and Sŏngjong (成宗) of the Yi Dynasty (李朝) to be gathered and kept by the Governors (觀察使) of the Eight Provinces, but this too disappeared in the Imjin War (壬辰亂) and other fires (兵火). In the 5th month of the year Chŏngch'uk (丁丑), the 3rd year of Sejo (1457 AD):
+
+『Decree to the Governors of the Eight Provinces: Documents such as Kojosŏn Pesa (古朝鮮祕詞), Taebyŏnsŏl (大辯說), Chodaegi (朝代記), Chigonggi (誌公記), P'yohun Ch'ŏnsa (表訓天詞), Samsŏng Milgi (三聖密記), Anham No Wŏn Tong Chung Samsŏnggi (安含老元蕫仲三聖記), Tojŭnggi (道證記), Tongch'ŏllok (動天錄), T'ongch'ŏllok (通天錄), Chihwarok (地華錄), etc., should not be hidden in private places (不宜藏於私處). If any possess them, let them be permitted to present them to the throne (進上). Widely announce (廣諭) this to public and private (公私) entities, as well as temples and shrines (寺社).』(Note 66 - original text)
+
+And in the 9th month of the year Kich'uk (己丑), the first year of Yejong (1469 AD):
+
+『Transmitted to the Ministry of Rites (禮曹): Regarding the books Chigonggi (誌公記), P'yohun Ch'ŏnsa (表訓天詞), Samsŏng Milgi (三聖密記), Tojŭnggi (道證記), Chihwarok (地華錄) held in private homes; within the capital, the deadline is the last day of the 10th month, submit (呈) to the Royal Secretariat (承政院); for nearby outer provinces (外方近道), the last day of the 11th month; for distant provinces (遠道), the last day of the 12th month, submit (納) at the local administrative town. Those who submit will be promoted two ranks (超2階). Those who do not submit may be reported by others (許人陳告). Reporters will be rewarded according to the stipulation above (依上頂 論賞). Hiders will be executed (匿者處斬). Quickly inform (速諭) those inside and outside the capital (中外).』(Note 68 - original text)
+
+And in the 12th month of the year Kich'uk (己丑), the year of Sŏngjong's ascension (1469 AD): <38>
+
+『Issued a decree instructing the Provincial Governors: Previously, an order was given regarding the search for, collection, and sending up of the books Chigonggi (誌公記), P'yohun Ch'ŏnsa (表訓天詞), Samsŏng Milgi (三聖密記), Tojŭnggi (道證記), Chihwarok (地華錄). For books already collected, send them up according to the previous decree. For remaining books, do not collect further (勿更收納).』(Note 68 - original text)
+
+Thus they were gathered, but burned in public fires (公火 - perhaps fires in official buildings/archives?) or accidental fires (화재) like those during the Imjin War. In this way, historical materials have met with calamity numerous times, and now countless (부지기수외다) works exist only by name, their actual contents unseen. How many more must have disappeared without even their names being passed down? The more one thinks about it, the harder it is to bear the regret (유감됨).
+
+For the Yi Dynasty (李朝) period history, there are the Veritable Records (實錄) of successive reigns. These are records where historiographers (史官), immediately after a king's death, relied on contemporary daily records like the *Kigŏju* (起居注 - Records of the King's Daily Activities), *Sijŏnggi* (時政記 - Records of Government Administration), and *Illyŏk* (日曆 - Daily Records) to write directly and factually about all events of the king's reign, without reservation, for posterity. Regulations forbade the succeeding king from viewing them. The records for the 16 reigns from T'aejo (太祖) to Injo (仁jo) were compiled by the Office of Annals Compilation (春秋館), while for the 9 reigns from Hyojong (孝宗) to Ch'ŏlchong (哲宗), a temporary Office of Veritable Records Compilation (實錄廳) was specially established for full-time (專任) compilation. For the records prior to Myŏngjong (明宗), after compilation, four copies were printed (인쇄하여) and stored separately (分藏하여) in the Ch'unch'ugwan and the three historical archives (史庫) in Sŏngju (星州), Chŏnju (全州), and Ch'ungju (忠州). However, during the Imjin (壬辰) calamity of war (兵禍) under King Sŏnjo (宣祖) (1592 AD), the copies in the Ch'unch'ugwan, Sŏngju, and Kwangju (光州 - likely a mistake for 忠州 or another location, as Kwangju wasn't one of the original four repositories) archives were all lost. Only the one kept in Chŏnju survived and was moved to places like Haeju (海州) and Nyŏngbyŏn (寧邊), and after the war, it was moved to Kanghwa (江華). If even this surviving copy (잔본) had not been preserved then, the very year and month of the creation and promulgation of the Correct Sounds (正音 - Hunminjeongeum) might have been lost along with many other cultural assets. Fortunately, that just one set survived can be called good fortune amidst misfortune (불행 중에도 행이라 하겟습니다). In the year Pyŏngo (丙午), the 39th year of Sŏnjo (1606 AD), concerned that this surviving copy was the only one, despite the financial difficulties after the war, four copies were republished (重刊하여) based on the surviving set. They were stored separately in the Ch'unch'ugwan and the three archives at T'aebaek Mountain (太白山), Odae Mountain (五臺山), and Myohyang Mountain (妙香山). The original copy, the Chŏnju Archive version, was placed (장치하엿습니다) in the Mani Mountain (摩尼山) Archive on Kanghwa Island. Later, the Myohyang Mountain copy was moved to Chŏksang Mountain (赤裳山), and the Mani Mountain copy was moved to Chŏngjok Mountain (鼎足山) in the same county. The Ch'unch'ugwan copy was later involved in a fire. In modern times (근대), during the reign of King Kojong (高宗), as there was a great need to consult the Veritable Records, the Kanghwa copy was moved to the Kyujanggak (奎章閣). After Kyŏngsul (庚戌 - 1910), the T'aebaek copy was placed in the former Kyujanggak, now the Education Section branch office (學務課 分室), along with the Kanghwa copy. The Chŏksang copy was moved to the Office of the Yi Royal Household (李王職), and the Odae Mountain copy was taken to Tokyo Imperial University (東京帝國大學), where it burned down in the great earthquake disaster some years ago. What remains today are the Chŏksang Mountain copy held by the Yi Royal Household Office and the Kanghwa and T'aebaek Mountain copies held by the Education Section branch office. The books that were in the Education Section branch office were moved to Keijō Imperial University (京城帝國大學 - now Seoul National University) some years ago. Among these three sets of Veritable Records, the records after Sŏnjo are all the same, but for the records before Myŏngjong, the Kanghwa original (江華原本) is the most valuable item (귀중품), so when permission for perusal (열람) is granted, the T'aebaek copy is used. (Note 69 - original text)
+
+In this way, the official history (正史), the Veritable Records, barely (간신히) escaped annihilation (泯滅), but it is easy to imagine that specialized (전문적) historical materials related (관계잇는) to Hunminjeongeum, along with many other documents, were lost. Therefore, it is difficult to consult detailed information <39> regarding the changes in Hunminjeongeum. Furthermore, even with the surviving historical materials, due to a lack of both leisure time during my studies (학창의 여가) and corresponding ability (힘이 아울러 밎지 못함으로), I intend to supplement this at a later date (후일을 기다리어 보충할 셈 대고). For now, I intend only to briefly introduce facts generally known (which do not require individual verification).
+
+1. King Sejong's Promotion of Implementation
+
+King Sejong, as already mentioned, disregarded the labor of research and the difficulties of opposition, not only establishing and promulgating Hunminjeongeum but also using various methods to encourage its practical implementation (실행장려). First, the Great King personally (친히) used Hunminjeongeum in official documents (공문서). This is proven by incidents such as when, that winter, he wrote out the faults (잘못) of the Office of the Censor General (臺諫) in Hunminjeongeum and had the eunuch (宦官) Kim Tŭkcho (金得祚) show this to the State Tribunal (義禁府) and the Royal Secretariat (承政院). Also, at the end of that year, there are many examples (예가 많습니다) such as his order to the Ministry of Personnel (吏曹) that henceforth, Hunminjeongeum should be tested in the civil service examination's technical branch (吏科) and the personnel selection test (吏典取才), and that even if candidates were not versed in principles (의리), those who could combine the letters (字) well should be selected (뽑게 함). Thus, its use was encouraged more and more (더욱더욱) thereafter.
+
+Also, he ordered Sin Sukchu (申叔舟), Ch'oe Hang (崔恒), Sŏng Sammun (成三問), Pak P'aengnyŏn (朴彭年), Yi Kae (李愷), Kang Hŭian (姜希顔), Yi Hyŏllo (李賢老), Cho Sŏban (曺燮安), and Kim Chŭng (金曾) to discuss and decide (議定하여) the sounds (자음) of Korean and translate the *Hongwu Zhengyun* (洪武正韻). As this was completed (완성된 고로) in the 9th month of the year Chŏngmyo (丁卯), the 29th year (1447 AD), it was soon published (간행하게 되엇고) under the name *Tongguk Chŏngun* (東國正韻). In the first month of the following year, the 30th year:
+
+『Distributed the *Tongguk Chŏngun* to the various provinces (諸道) and the Sŏnggyun'gwan (成均館) and the Four Schools (四部學堂), then instructed saying (仍敎日): The people of our country have long been accustomed to popular rhymes (習熱俗韻己久), it cannot be suddenly changed (不可猝變). Do not teach forcefully (勿强敎), let scholars do as they please (使學者隋意爲之).』(Note 70 - original text)
+
+The promulgation (頒布) as described here was also one measure (一策) to encourage Hunminjeongeum. Since this book was lost early on (일쯕이), the details of its content (내용의 상세) are difficult to know, but glimpsing a part (일단을 엿보면) through Sin Sukchu's preface (서문) to the same work (included in the *Sejong Sillok*), it appears that the usage method (용법) of Hunminjeongeum mainly followed the regulations (규정) of Hunminjeongeum itself, and other sounds (기타의 음) were not used. That is:
+
+『Moreover, the making of letters harmonizes with sounds only (且字母之作諧於聲耳). Categories like tongue-tip, upper lip, heavy lip, light lip, tooth-tip, proper tooth (舌頭上脣重脣輕齒頭正齒之類), cannot be distinguished in our country's character sounds (於我國字音未可分解). One should also follow their natural state (亦當因其自然). Why must we rigidly adhere to the thirty-six letters (何必泥於三十六字乎)?』
+
+And also, at the end (말단) of the same preface:
+
+『Thus, adjusted with the four tones (調以四聲), fixed as ninety-one rhymes and twenty-three initials (定爲九十一韻二十三母). Their sounds were fixed using the Imperially Made Hunminjeongeum (以御制訓民正音定其音). Also, for rhymes like *kye* (啓) and *mul* (勿), the *l* initial (來) was supplemented with the zero initial (影), following custom to return to correctness (以影補來因俗歸正). Old mistaken habits were completely reformed by this point (舊習譌謬至是而悉革矣).』
+
+If we cross-reference (照應하여 보면) this, these 23 initials likely result from nothing other than abolishing the distinction between two types each for the aforementioned (前述의) tongue sounds (舌音), lip sounds (脣音), and tooth sounds (齒音). Besides this book (본서 외에도), King Sejong also ordered Sin Sukchu to compile the *Sasŏng T'onggo* (四聲通考) and the *Hongmu Chŏngun T'onggo* (洪武正韻通考), completed around the time of King Munjong's (文宗) reign, but it is extremely regrettable that these too were lost early on. According to the preface of the *Sasŏng T'onghae* (四聲通解), which revised and enlarged (증보개정한) the *Sasŏng T'onggo*, King Sejong had earlier created Hunminjeongeum and ordered the translation of the *Hongwu Zhengyun* (i.e., *Tongguk Chŏngun*), but worried that it was too vast and difficult to read (浩穬難閱), he again ordered Sin Sukchu to compose the *Sasŏng T'onggo*. Also, the preface to the *Hongmu Chŏngun T'onggo* (remaining in Sin Sukchu's collected works, *Poaljaejip* (保閑齋集)) states that King Sejong had previously (먼접번에) ordered various officials (제신) to translate the *Hongwu Zhengyun* (i.e., *Tongguk Chŏngun*), but because the corruption of sounds (어음의 轉訛) was severe, he again ordered Sin Sukchu and others <40> to travel back and forth (왕복) to Liaodong (遼東) repeatedly (누누히) (reaching 7 or 8 times) to inquire about and correct (質正하고) the sounds with Chinese people (支那人), revising the manuscript (稿를 고침이) more than 10 times over 8 years. Upon King Munjong's ascension to the throne (즉위함에 및어), Sin Sukchu, No Ch'am (魯參 - possibly a title or partial name?), Kwŏn In (權引), and Im Wŏnjun (任元濬) were put in charge of collation (讎校의 任에 당하게 하여), and it was published (간행하여) and widely distributed to the world (세상에 광포한 것); this was the *Hongmu Chŏngun T'onggo*. Also,
+
+『Recalled Kim Ku (金鉤), the Magistrate of Sangju (尙州). Ku had been in Sangju less than half a year. At that time, the Chiphyŏnjŏn (集賢殿) was translating the Four Books (四書) using Eonmun (諺文 - vernacular script/Hangul), with Vice-Director Kim Mun (金汶 - interpretation based on context, original says 金判主之, 汶死集賢殿薦鉤 meaning Kim P'an was in charge, Mun died, Chiphyŏnjŏn recommended Ku) in charge. When Mun died, the Chiphyŏnjŏn recommended Ku, so he was specially recalled. Soon after, he was appointed Master of Ceremonies at the Chongbusi (宗簿寺事).』(Note 71 - original text)
+
+As seen here, he also had the Four Books translated using Hunminjeongeum, but these too are not transmitted today (오늘에 전하지 못합니다). Also,
+
+『Our East, being overseas (海外), its language differs from China's (言語與中國異), and only through translation can communication occur (因譯乃通)... Our Kings Sejong and Munjong lamented this (慨念於此). Having created Hunminjeongeum, the sounds under heaven first became entirely writable (天下之聲始無不可書矣). Thus, the *Hongwu Zhengyun* was translated to correct Chinese pronunciation (以正華音). Also, the *Tongjasŭp* (童子習 - Child's Primer) was translated with direct explanations (直解), translated commentaries (譯訓評話?), becoming the gateway to learning the Chinese language (乃學華語之門戶). He ordered the current Right Vice-Secretary (右副承旨) Sin Sukchu (臣申叔舟), Sŭngmunwŏn Compiler (承文院校理) Cho Sŏban (臣曺燮安), acting Yejo Assistant Section Chief (行禮曹佐郞) Kim Chŭng (臣金曾), and acting Sajŏng (行司正) Son Susan (臣孫壽山) to translate the Chinese readings using Chongum (以正音譯漢訓), writing finely below each character (細書逐字之下), and also used vernacular language (方言) to explain the meaning (以解其義).』(Note 72 - original text)
+
+As seen here, the *Tongjasŭp* was also translated using Hunminjeongeum. Furthermore,
+
+『King Sejong naturally loved learning (天性好學)... In his later years, tired of diligence, he did not hold court (晩年倦勤不視朝), yet he was especially concerned about (尤所軫念) matters of literature (文學之事). He ordered Confucian officials (命儒臣) to divide into bureaus and compile various books (分局撰次諸書), such as the *Koryŏsa* (高麗史), *Ch'ip'yŏng Yoram* (治平要覽), *Pyŏngyo* (兵要), *Ŏnmun* (諺文 - works in Hangul), *Unso* (韻書 - rhyme books), *Oryeŭi* (五禮儀), *Sasŏ Ogyŏng Ŭmhae* (四書五經音解 - Sound Explanations of the Four Books and Five Classics). All were compiled simultaneously, and he personally edited and completed the books (皆經[親?]裁成書 - 經준裁成書, '준' likely archaic/typo for 親 'personally'), being able to peruse dozens of scrolls a day (一日御覽可數十卷). This can indeed be called "Heaven's movement is strong, pure and unceasing" (其可謂天行健純亦不已也 - quote from I Ching).』(Note 73 - original text)
+
+and
+
+『Sound Explanations of the Classics (經書音解): During King Sejong's reign, Confucian officials were ordered to establish a bureau and compile (設局撰次) these to facilitate punctuation and reading (以便句讀).』(Note 27 - original text)
+
+As seen here, the *Kyŏngsŏ Ŭmhae* (經書音解) was also compiled. The *Wŏrin Ch'ŏn'gang Chi Kok* (月印千江之曲 - Songs of the Moon's Reflection on a Thousand Rivers), also known as *Wŏrin Sŏkpo* (月印釋譜), was also compiled and translated (撰譯하게 하신 것입니다) by order of King Sejong given to Prince Suyang (首陽大君) (later King Sejo). This occurred when Prince Suyang, having suffered the bereavement (상을 당하고) of his mother (모친), Queen Soheon (昭憲王后) (Lady Sim - 沈氏), in the year Pyŏngin (丙寅) (28th year of Sejong), compiled and translated the *Sŏkpo* (釋譜 - Buddhist Genealogy/Stories) by King Sejong's command, wrote it in Hunminjeongeum, titled it *Sŏkpo Sangjŏl* (釋譜詳節 - Detailed Genealogy of Śākyamuni), and presented it (올린 것을). King Sejong then gave it the name (이름 준 것입니다) *Wŏrin Ch'ŏn'gang* (月印千江). Prince Suyang personally authored (저작한 것인데) it after inquiring (문의하여서) with contemporary scholars (당시 석학) such as Sinmi (信眉), Sumi (守眉), Sŏlchun (雪峻), Hongjun (弘濬), Hyoun (曉雲), Chihae (智海), Haech'o (海超), Saji (斯智), Hagyeol (學悅), Hakcho (學祖), Kwean (乖岸), and Kim Suon (金守溫). Seeing that Prince Suyang's preface is dated the 25th day of the 7th month, Chŏngmyo (丁卯), the 29th year of Sejong, it seems to have been completed (완성되엇다고 보입니다) that year. It appears (모양입니다) to have been published later, in the year Kimyo (己卯), the 4th year of Sejo (1459 AD). This work is not only a great treasure (重寶) in terms of Korean Buddhist literature (불교문헌), but also, as it is the origin (효시가 되는 고로) of Buddhist hymn texts (佛敎歌詞) written in Hunminjeongeum, it is the most valuable (重寶) among the oldest literature (최고 문헌) of Hunminjeongeum. Besides these examples, there must have been various other methods King Sejong used to encourage the implementation of Hunminjeongeum, but even from these generally known facts presented above, one can observe (살피어집니다) how meticulously (周密하게) he endeavored (노력하엿는가).
+(The orthography used by Mr. Kim Yunkyŏng in the original text has been entirely changed to the orthography used by Tonggwang, please understand. - A reporter) <41>
+
+**Summary**
+
+This article segment by Kim Yunkyŏng discusses the history of Hunminjeongeum (the Korean alphabet) following its promulgation by King Sejong in 1446. It laments the extensive loss of historical Korean documents due to wars and deliberate destruction, citing examples from pre-Chosŏn times up to the Imjin War. However, it highlights the fortunate survival of the Chosŏn Dynasty Veritable Records (Sillok), detailing the history of their compilation, storage, loss, and preservation, emphasizing their crucial role in confirming details about Hunminjeongeum's creation. The article then focuses on King Sejong's active efforts to promote the script's use through personal example, inclusion in state examinations, and commissioning major works like the *Tongguk Chŏngun* dictionary and translations of Chinese classics, primers like *Tongjasŭp*, and the significant Buddhist work *Wŏrin Ch'ŏn'gang Chi Kok*. From a colonial history perspective, the article, written in 1932, underscores a Korean nationalist sentiment by emphasizing the loss of ancient Korean heritage and celebrating the creation and promotion of the indigenous script, Hunminjeongeum, as a key cultural achievement. The detailed account of the Sillok's preservation and the listing of lost ancient texts would be of particular interest to historians studying Korean historiography, cultural resilience, and the challenges of reconstructing pre-modern history. The mention of moving archives to Japanese institutions (Tokyo Imperial University) and the subsequent loss of one set in the Great Kanto Earthquake is also historically significant.
+
+**Named Entities**
+
+訓民正音	훈민정음	Hunminjŏngŭm
+世宗	세종	Sejong
+新羅	신라	Silla
+唐	당	Tang (Dynasty)
+高句麗	고구려	Koguryŏ
+扶餘	부여	Puyŏ
+渤海	발해	Parhae
+金	금	Jin (Dynasty)
+百濟	백제	Paekche
+泗沘城	사비성	Sabi Castle (Sabi-sŏng)
+後百濟	후백제	Later Paekche (Hu Paekche)
+甄萱	견훤	Kyŏn Hwŏn
+李朝	이조	Yi Dynasty (Chosŏn)
+世祖	세조	Sejo
+睿宗	예종	Yejong
+成宗	성종	Sŏngjong
+壬辰亂	임진란	Imjin War (Imjin Nan)
+古朝鮮祕詞	고조선비사	Kojosŏn Pesa
+大辯說	대변설	Taebyŏnsŏl
+朝代記	조대기	Chodaegi
+誌公記	지공기	Chigonggi
+表訓天詞	표훈천사	P'yohun Ch'ŏnsa
+三聖密記	삼성밀기	Samsŏng Milgi
+安含老元蕫仲三聖記	안함노원동중삼성기	Anham No Wŏn Tong Chung Samsŏnggi
+道證記	도증기	Tojŭnggi
+動天錄	동천록	Tongch'ŏllok
+通天錄	통천록	T'ongch'ŏllok
+地華錄	지화록	Chihwarok
+禮曹	예조	Ministry of Rites (Yejo)
+承政院	승정원	Royal Secretariat (Sŭngjŏngwŏn)
+太祖	태조	T'aejo
+仁祖	인조	Injo
+春秋館	춘추관	Office of Annals Compilation (Ch'unch'ugwan)
+孝宗	효종	Hyojong
+哲宗	철종	Ch'ŏlchong
+實錄廳	실록청	Office of Veritable Records Compilation (Sillokch'ŏng)
+明宗	명종	Myŏngjong
+星州	성주	Sŏngju
+全州	전주	Chŏnju
+忠州	충주	Ch'ungju
+宣祖	선조	Sŏnjo
+海州	해주	Haeju
+寧邊	영변	Nyŏngbyŏn
+江華	강화	Kanghwa
+太白山	태백산	T'aebaek Mountain (T'aebaeksan)
+五臺山	오대산	Odae Mountain (Odaesan)
+妙香山	묘향산	Myohyang Mountain (Myohyangsan)
+摩尼山	마니산	Mani Mountain (Manisan)
+赤裳山	적상산	Chŏksang Mountain (Chŏksangsan)
+鼎足山	정족산	Chŏngjok Mountain (Chŏngjoksan)
+高宗	고종	Kojong
+奎章閣	규장각	Kyujanggak
+李王職	이왕직	Office of the Yi Royal Household (I Wangjik)
+東京제국대학	동경제국대학	Tokyo Imperial University
+京城제국대학	경성제국대학	Keijō Imperial University (Seoul National University)
+金得祚	김득조	Kim Tŭkcho
+義禁府	의금부	State Tribunal (Ŭigŭmbu)
+吏曹	이조	Ministry of Personnel (Ijo)
+吏科	이과	Civil Service Exam Technical Branch (Igwa)
+吏典取才	이전취재	Personnel Selection Test (Ijŏn Ch'wijae)
+申叔舟	신숙주	Sin Sukchu
+崔恒	최항	Ch'oe Hang
+成三問	성삼문	Sŏng Sammun
+朴彭年	박팽년	Pak P'aengnyŏn
+李愷	이개	Yi Kae
+姜希顔	강희안	Kang Hŭian
+李賢老	이현로	Yi Hyŏllo
+曺燮安	조섭안	Cho Sŏban
+金曾	김증	Kim Chŭng
+洪武正韻	홍무정운	Hongwu Zhengyun
+東國正韻	동국정운	Tongguk Chŏngun
+成均館	성균관	Sŏnggyun'gwan
+四聲通考	사성통고	Sasŏng T'onggo
+文宗	문종	Munjong
+洪武正韻通考	홍무정운통고	Hongmu Chŏngun T'onggo
+四聲通解	사성통해	Sasŏng T'onghae
+保閑齋集	보한재집	Poaljaejip
+魯參	노참	No Ch'am (Uncertain Name/Title)
+權引	권인	Kwŏn In
+任元濬	임원준	Im Wŏnjun
+遼東	요동	Liaodong
+支那人	지나인	Chinese people (common term at the time)
+尙州	상주	Sangju
+金鉤	김구	Kim Ku
+集賢殿	집현전	Hall of Worthies (Chiphyŏnjŏn)
+金汶	김문	Kim Mun (Inferred name based on context)
+童子習	동자습	Tongjasŭp (Child's Primer)
+申叔舟	신숙주	Sin Sukchu (Referenced again as official)
+曺燮安	조섭안	Cho Sŏban (Referenced again as official)
+金曾	김증	Kim Chŭng (Referenced again as official)
+孫壽山	손수산	Son Susan
+高麗史	고려사	Koryŏsa (History of Koryŏ)
+治平要覽	치평요람	Ch'ip'yŏng Yoram
+兵要	병요	Pyŏngyo (Military Essentials)
+諺文	언문	Ŏnmun (Vernacular Script/Hangul - referring to works)
+韻書	운서	Unso (Rhyme Books)
+五禮儀	오례의	Oryeŭi (Book of Five Rites)
+四書五經音解	사서오경음해	Sasŏ Ogyŏng Ŭmhae (Sound Explanations of the Four Books and Five Classics)
+月印千江之曲	월인천강지곡	Wŏrin Ch'ŏn'gang Chi Kok
+月印釋譜	월인석보	Wŏrin Sŏkpo
+首陽大君	수양대군	Prince Suyang
+昭憲王后	소헌왕후	Queen Soheon
+沈氏	심씨	Lady Sim
+釋譜詳節	석보상절	Sŏkpo Sangjŏl
+信眉	신미	Sinmi
+守眉	수미	Sumi
+雪峻	설준	Sŏlchun
+弘濬	홍준	Hongjun
+曉雲	효운	Hyoun
+智海	지해	Chihae
+海超	해초	Haech'o
+斯智	사지	Saji
+學悅	학열	Hagyeol
+學祖	학조	Hakcho
+乖岸	괴안	Kwean
+金守溫	김수온	Kim Suon
+
+**Glossary**
+
+考察	고찰	Historical study; investigation
+변천과정	변천 과정	Process of change; transition process
+發布	반포	Promulgation; announcement
+順境	순경	Favorable circumstances
+역경	역경	Adverse circumstances; hardship
+사료	사료	Historical materials; sources
+문화재	문화재	Cultural assets; cultural properties
+兵火	병화	Flames of war; destruction by war
+외적	외적	Foreign enemy
+도적마자	도적맞아	(Passive form) To be stolen; plundered (Older grammatical form)
+산재한	산재한	Scattered; dispersed
+藏書	장서	Book collection; library
+전철을 밟은 것입니다	전철을 밟은 것입니다	Followed the same path; repeated the same mistake (Idiomatic expression)
+實錄	실록	Veritable Records; annals (Official historical records of Chosŏn Dynasty kings)
+재액	재액	Calamity; disaster
+공사간에	공사 간에	Publicly and privately
+간직하엿던	간직하였던	(Thing that was) kept; stored (Older spelling: 하엿 vs. 하였)
+살아지게 되엇습니다	사라지게 되었습니다	Disappeared; got lost (Older expression/spelling: 살아지게 vs 사라지게, 되엇 vs 되었)
+諭	유	Decree; instruction (from the King)
+觀察使	관찰사	Provincial Governor
+不宜藏於私處	부의장어사처	(Classical Chinese) Should not be hidden in private places
+進上	진상	To present (to the throne)
+廣諭	광유	To announce widely
+寺社	사사	Temples and shrines
+呈	정	To submit; present (documents)
+納	납	To submit; deliver; pay
+匿者處斬	닉자처참	(Classical Chinese) Those who hide (it) will be executed
+걷우어 모앗으나	거두어 모았으나	Gathered; collected (but...) (Older spelling: 걷우어 vs 거두어, 모앗 vs 모았)
+부지기수외다	부지기수외다	Countless; innumerable (Older sentence ending: -외다)
+유감됨	유감됨	Being regrettable; regrettable thing (Noun form of 'regrettable')
+견디기 어렵습니다	견디기 어렵습니다	It is difficult to endure/bear
+正史	정사	Official history
+史官	사관	Historiographer; official historian
+직필하여	직필하여	Writing directly; writing frankly
+세후에	세후에	After death (of a king)
+규정	규정	Regulation; rule
+편찬하고	편찬하고	Compiled (and...)
+分藏하여	분장하여	Storing separately (and...)
+兵禍	병화	Calamity of war
+잔본	잔본	Surviving copy; remaining volume
+소실될뻔 하엿습니다마는	소실될 뻔 하였습니다마는	Almost lost (but...) (Older spelling: 하엿 vs 하였)
+重刊하여	중간하여	Republishing; reprinting (and...)
+장치하엿습니다	장치하였습니다	Installed; placed (Older spelling: 하엿 vs 하였)
+근대	근대	Modern times; modern era
+열람	열람	Perusal; reading; inspection (of documents)
+귀중품	귀중품	Valuable item; precious object
+간신히	간신히	Barely; narrowly
+泯滅을 면하엿지마는	민멸을 면하였지마는	Escaped annihilation/destruction (but...) (Older spelling: 하엿 vs 하였)
+전문적	전문적	Specialized; expert
+관계잇는	관계있는	Related; relevant (Older spelling: 잇는 vs 있는)
+후일	후일	Later day; the future
+보충할 셈 대고	보충할 셈 대고	Intending to supplement; planning to add later (Older phrasing)
+일일히	일일이	One by one; individually
+고증할	고증할	To verify historically; authenticate
+소개하여 두려고 합니다	소개하여 두려고 합니다	Intend to introduce (and leave it at that for now)
+실행장려	실행 장려	Promotion of implementation
+친히	친히	Personally; in person
+공문서	공문서	Official document
+사용하시엇습니다	사용하시었습니다	Used (honorific, older spelling: -시엇- vs -시었-)
+臺諫	대간	Office of the Censor General
+잘못	잘못	Fault; mistake; error
+宦官	환관	Eunuch
+보이심	보이심	Showing (honorific noun form)
+증명하는 것입니다	증명하는 것입니다	(It) proves; demonstrates
+吏科	이과	Civil service examination branch (technical/administrative)
+吏典取才	이전취재	Personnel selection test (for lower officials)
+시험하게 하되	시험하게 하되	Making them test (but...); have them tested (and...)
+의리	의리	Principles; righteousness; meaning
+字를 잘 합할 수만 잇는 자면	자를 잘 합할 수만 있는 자면	If one can only combine the letters well (Older spelling: 잇는 vs 있는)
+뽑게 함	뽑게 함	Making (someone) select; causing to be selected
+더욱더욱	더욱더욱	More and more; increasingly
+자음	자음	Consonant; sound (in this context, likely referring to phonetic values/sounds)
+議定하여	의정하여	Discussing and deciding (and...)
+번역하게 하신바	번역하게 하신 바	The occasion/fact of having ordered translation
+완성된 고로	완성된 고로	Because it was completed
+간행하게 되엇고	간행하게 되었고	Came to be published (and...) (Older spelling: 되엇 vs 되었)
+頒布	반포	Promulgation; distribution
+諸道	제도	Various provinces
+學堂	학당	Local school; academy (during Chosŏn)
+仍敎日	잉교왈	(Classical Chinese phrasing) Then instructed, saying...
+不可猝變	불가졸변	(Classical Chinese) Cannot be suddenly changed
+勿强敎	물강교	(Classical Chinese) Do not teach forcefully
+一策	일책	One measure; one plan
+일쯕이	일찍이	Early on; previously (Older spelling)
+내용의 상세	내용의 상세	Details of the content
+알기 어렵지마는	알기 어렵지마는	Although it is difficult to know
+서문	서문	Preface; foreword
+일단을 엿보면	일단을 엿보면	If one glimpses a part; looking at one aspect
+용법	용법	Usage method; how to use
+규정	규정	Regulation; rule
+쫓고	좇고	Following (Older spelling: 쫓고 used for 좇고)
+기타의 음	기타의 음	Other sounds
+사용하지 않앗다고 보입니다	사용하지 않았다고 보입니다	It seems they were not used (Older spelling: 않앗 vs 않았)
+즉	즉	That is; namely; i.e.
+字母	자모	Letters (of an alphabet); initials and finals
+因其自然	인기자연	(Classical Chinese) Follow their natural state
+何必泥於三十六字乎	하필이어삼십육자호	(Classical Chinese) Why must one rigidly adhere to the 36 letters?
+말단	말단	End part; extremity
+調以四聲	조이사성	(Classical Chinese) Adjusted with the four tones
+定爲	정위	(Classical Chinese) Fixed as; established as
+母	모	Initial consonant (in phonology)
+御制	어제	Imperially made; composed by the king
+因俗歸正	인속귀정	(Classical Chinese) Following custom to return to correctness
+舊習譌謬	구습와류	Old mistaken habits; erroneous customs
+悉革矣	실혁의	(Classical Chinese) Were completely reformed/changed
+照應하여 보면	조응하여 보면	If cross-referenced; comparing with
+前述의	전술의	Aforementioned
+구별을 폐지한	구별을 폐지한	Abolished the distinction
+不外하리라	불외하리라	Likely nothing more than; is probably just
+추측합니다	추측합니다	Guess; surmise; conjecture
+본서 외에도	본서 외에도	Besides this book; in addition to this work
+증보개정한	증보 개정한	Revised and enlarged
+浩穬難閱	호확난열	(Classical Chinese) Vast and difficult to read/peruse
+짓게 하엿다 함이 잇고	짓게 하였다 함이 있고	It is said that (he) had (him) compose it (Older spelling: 하엿 vs 하였, 잇고 vs 있고)
+먼접번에	먼젓번에	Previously; the time before (Older spelling/form)
+제신	제신	Various officials; all the retainers
+어음의 轉訛	어음의 전화	Corruption/change of sounds/pronunciation
+누누히	누누이	Repeatedly; frequently
+왕복	왕복	Traveling back and forth; round trip
+質正하고	질정하고	Inquiring and correcting (and...)
+稿를 고침이	고를 고침이	Revising the manuscript (the act of)
+세월을 쓰어 된 것을	세월을 쓰여 된 것을	What was made using years of time (Older spelling: 쓰어 vs 쓰여)
+즉위함에 및어	즉위함에 미처	Upon ascending the throne
+讎校	수교	Collation; proofreading and comparing texts
+任에 당하게 하여	임에 당하게 하여	Making (them) take charge of the duty/task
+간행하여	간행하여	Publishing (and...)
+광포한 것	광포한 것	What was widely distributed/spread
+四書	사서	The Four Books (Confucian texts)
+오늘에 전하지 못합니다	오늘에 전하지 못합니다	Is not transmitted/passed down today
+海外	해외	Overseas
+言語與中國異	언어여중국이	(Classical Chinese) Language differs from China
+因譯乃通	인역내통	(Classical Chinese) Only through translation can communicate
+慨念於此	개념어차	(Classical Chinese) Lamented this; felt regret about this
+天下之聲	천하의 성	Sounds under heaven; all sounds in the world
+不可書矣	불가서의	(Classical Chinese) Became writable; could be written
+以正華音	이정화음	(Classical Chinese) To correct Chinese pronunciation
+直解	직해	Direct explanation; vernacular translation
+譯訓評話	역훈평화	Translated explanations and commentaries(?) (Meaning somewhat archaic/specific)
+乃學華語之門戶	내학화어지문호	(Classical Chinese) Is the gateway to learning the Chinese language
+正音譯漢訓	정음역한훈	Translate Chinese readings/meanings with Chongum (Hunminjeongeum)
+細書逐字之下	세서축자지하	(Classical Chinese) Write finely below each character
+方言	방언	Vernacular language; dialect (here likely meaning Korean vs. Chinese)
+天性好學	천성호학	(Classical Chinese) Naturally loved learning; innate love of study
+晩年倦勤不視朝	만년권근불시조	(Classical Chinese) In later years, tired of diligence, did not hold court
+文學之事	문학지사	Matters of literature and learning
+尤所軫念	우소진념	(Classical Chinese) Especially concerned about; particularly worried about
+命儒臣	명유신	(Classical Chinese) Ordered Confucian officials
+分局撰次諸書	분국찬차제서	(Classical Chinese) Divide bureaus to compile various books in sequence
+經[親?]裁成書	경[친?]재성서	Personally edited and completed books (準/준 might be typo for 親/친)
+御覽	어람	Imperial perusal; king's reading
+天行健純亦不已也	천행건순역불이야	(Classical Chinese quote from I Ching) Heaven's movement is strong, pure and unceasing
+經書音解	경서음해	Sound Explanations of the Classics
+設局撰次	설국찬차	(Classical Chinese) Establish bureau and compile in sequence
+以便句讀	이편구두	(Classical Chinese) To facilitate punctuation and reading
+撰譯하게 하신 것입니다	찬역하게 하신 것입니다	Had (him) compile and translate
+모친	모친	Mother (formal)
+상을 당하고	상을 당하고	Suffering bereavement; mourning a death
+올린 것을	올린 것을	What was presented/submitted (upwards)
+이름 준 것입니다	이름 준 것입니다	Gave the name
+당시 석학	당시 석학	Scholars of the time; contemporary eminent scholars
+문의하여서	문의하여서	Having inquired; after asking
+저작한 것인데	저작한 것인데	Authored (it, and...)
+서가 잇음을 보면	서가 있음을 보면	Seeing that there is a preface (Older spelling: 잇음 vs 있음)
+당년에	당년에	That year; in the same year
+완성되엇다고 보입니다	완성되었다고 보입니다	It seems to have been completed (Older spelling: 되엇 vs 되었)
+모양입니다	모양입니다	It appears; seems like
+불교문헌	불교 문헌	Buddhist literature
+重寶	중보	Great treasure; highly valued object
+佛敎歌詞	불교 가사	Buddhist hymn text; Buddhist song lyrics
+효시가 되는 고로	효시가 되는 고로	As it is the origin/first example (of its kind)
+최고 문헌	최고 문헌	Oldest literature; earliest documents
+周密하게	주밀하게	Meticulously; carefully; thoroughly
+노력하엿는가	노력하였는가	How (he) endeavored/strived (Question form, older spelling: 하엿 vs 하였)
+살피어집니다	살펴집니다	Can be observed; becomes apparent (Passive, older spelling: -어지- vs -여지-)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	朝鮮文字의 역사적 考察(14), 訓民正音의 변천과정
+필자	金允經
+기사형태	논설
+
+朝鮮文字의 역사적 考察
+						金允經
+7. 發布 이래의 변천의 개요
+이미 말함과 같이 訓民正音은 萬難을 헤치고 마침내 世宗 28년 丙寅 9월에 천하에 발표하게 된 것입니다. 그러하면 그 뒤로는 과연 順境에서 종시 평탄한 길을 밟아 왓는가 혹은 역경에서 난관의 길을 통하여 왓는가 조금 적어 보고저 함니다. 그러하나 아까운 일은 조선의 일반 사료라던지 문화재가 여러 번 兵火에 타고 또 외적에게 도적마자 자못 없어지엇다는 일이 그것입니다. 즉 檀朝의 고사와 문헌은 扶餘와 高句麗에 유전되어 번역 간행한 것이 많앗으나 新羅가 唐兵과 함께 高句麗를 滅할 때에 그 書庫를 불질럿을 뿐 아니라 민간에 산재한 것 까지도 다 거두어 불사루엇고 扶餘의 藏書는 渤海에 유전되엇으나 金이 羅, 唐의 전철을 밟은 것입니다. 百濟도 羅唐에게 망할 때 또한 泗沘城이 불타고 말앗습니다. 新羅가 또한 後百濟에게 망하게 되매 그 천년의 實錄은 甄萱의 손에 없어지고 말앗습니다. 이러한 재액에도 다행이 공사간에 보존되어 전하여 오던 것은 李朝의 世祖, 睿宗, 成宗의 때에 八道의 觀察使에게 명하여 모다 간직하엿던 것이 또 壬辰亂 기타 兵火에 살아지게 되엇습니다. 世祖 3년 丁丑(서기 1457) 5월에
+『諭八道觀察使曰, 古朝鮮祕詞, 大辯說, 朝代記, 誌公記, 表訓天詞, 三聖密記, 安含老元蕫仲三聖記, 道證記, 動天錄, 通天錄, 地華錄 등 문서, 不宜藏於私處, 如有藏者, 許令進上, 其廣諭公私及寺社』(註66-원문)
+라 함이 잇고 睿宗 원년 己丑(서기 1469) 9월에
+『傳于禮曹曰, 誌公記, 表訓天詞, 三聖密記, 道證記, 地華錄諸書家藏者, 京中, 限 10월 晦日, 呈承政院, 外方近道, 11월 晦日, 遠道, 12월 晦日, 納所居邑, 納者, 超2階, 不納者, 許人陳告, 告者, 依上頂, 論賞, 匿者處斬, 其速諭中外』(註68-원문)
+라 함이 잇고 또 成宗 즉위 己丑(서기 1469) 12월에＜38＞
+『下書諭請道觀察使曰, 前者, 誌公記, 表訓天詞, 三聖密記, 道證記, 地華錄諸書, 武遺搜覓, 上送事, 曾己下諭矣, 其己收冊者, 依前諭上送, 餘書, 勿更收納』(註68-원문)
+이라 함과 같이 걷우어 모앗으나 壬辰亂들의 公火 혹은 화재에 타버린 것입니다. 이같이 사료는 여러번 재액을 만난 때문에 이제는 書名만 전하고 그 실물은 볼 수 없이 된 것이 부지기수외다. 하물며 書名까지도 전하지 못하고 없어진 것은 얼마나 많겟습니까. 생각하면 생각할쓰록 유감됨을 견디기 어렵습니다.
+李朝時代史로서는 역대의 實錄이란 것이 잇습니다. 그것은 제왕의 일대의 온갖 事蹟을 그의 돌아간 직후에 史官이 당대의 起居注時政記 及 日曆 등 書에 의지하여 무엇이나 거리낌 없이 사실을 직필하여 세후에 전한 것입니다. 후계의 왕에게는 보기를 허락하지 아니하는 규정입니다. 太祖로부터 仁祖까지의 16대의 실록은 사관인 春秋館에서 편찬하고 孝宗 이후 哲宗까지의 9대는 특히 實錄廳을 임시로 설치하고 專任 編修하엿으며 明宗 이전 실록은 編修한 후 4부를 인쇄하여 春秋館과 星州, 全州, 忠州의 3處 史庫에 分藏하여 보관하엿엇는데 宣祖 壬辰(서기 1592) 兵禍에 春秋館, 星州, 光州史庫의 것은 다 없어지고 다만 全州에 둔 것만 남아 전하여 海州, 寧邊 등지에 옴기엇다가 亂 후에 江華에 옴기어 두게 된 것입니다. 만일 그때 이 잔본까지 보존하지 못하엿던들 正音의 제작, 공포하던 년월까지도 다른 많은 문화재와 함께 소실될뻔 하엿습니다마는 다행이 한 벌 만이 전하게 됨은 불행 중에도 행이라 하겟습니다. 宣祖 39년 丙午(서기 1606)에 이 잔본이 단본임을 염려하여 전란 후 재정난이 잇음에도 불구하고 그 잔본을 기초삼아 4부를 重刊하여 春秋館과 太白山, 五臺山, 妙香山의 세 史庫에 分藏하고 원본 즉 全州藏本은 江華 摩尼山史庫에 장치하엿습니다. 그뒤에 妙香山本은 赤裳山으로, 摩尼山本은 同郡 鼎足山으로 옴기어 두고 春秋館本은 그 뒤 화재에 걸리엇습니다. 근대 高宗朝에서는 실록참고의 필요가 많으므로 강화본을 奎章閣에 옴기어 두고 庚戌 후에 太白本은 예적 奎章閣 즉 지금의 學務課 분실에 江華本과 함께 장치하고 赤裳本은 李王職에 옴기어 두고 五臺山本은 東京제국대학에 옴기어 갓다가 年前 大震 災 때에 타버리엇고 지금에 남은 것은 李王職 소장의 赤裳山本과 學務課 분실 소장의 江華本과 太白山本입니다. 學務課 분실에 잇던 서적은 年前에 京城제국대학으로 옴기게 되엇습니다. 이 세벌의 실록 중에 宣祖 이후의 실록은 다 같으나 明宗 이전의 실록은 江華原本이 가장 귀중품이므로 혹 열람을 허락할 때는 太白本을 쓰게 하엿습니다.(註69-원문)
+이같이 正史인 실록만은 간신히 泯滅을 면하엿지마는 그밖의 많은 문헌과 함께 正音의 전문적 혹은 그것에 관계잇는 사료도 없어지엇다 하는 것은 상상하기에 넉넉합니다. 그러한 고로 正音 변천에 대한 자세한＜39＞ 것을 참고하기 어렵습니다. 또 전하여진 사료라 할찌라도 학창의 여가와 힘이 아울러 밎지 못함으로 그것은 후일을 기다리어 보충할 셈 대고 이제는 다만 일반이 다 알만한 사실(일일히 고증할 필요가 없는)만이라도 간단히 소개하여 두려고 합니다.
+
+1. 世宗의 실행장려
+世宗은 이미 말한대로 연구의 노고와 반대의 곤란에도 관계하지 않고 그에 訓民正音을 제정 발포하시엇을 뿐 아니라 실행장려에도 여러 가지의 방법을 쓰신 것입니다. 먼저 대왕은 자기 친히 訓民正音을 공문서에 사용하시엇습니다. 이것은 그해 겨울에 臺諫의 잘못을 正音으로 쓰시어서 宦官 金得祚로 하여금 이것을 義禁府, 承政院에 보이심 같은 것이 그것을 증명하는 것입니다. 또 그해 끝에는 吏曹에 대하여 금후 吏科와 吏典取才 때에는 訓民正音을 시험하게 하되 의리에는 통하지 못하더라도 字를 잘 합할 수만 잇는 자면 이를 뽑게 함을 명하심 같은 따위의 그 예가 많습니다. 그리하여 그 뒤 더욱더욱 그것의 사용을 장려한 것입니다.
+또 申叔舟, 崔恒, 成三問, 朴彭年, 李愷, 姜希顔, 李賢老, 曺燮安, 金曾들에게 명하여 조선의 자음을 議定하여 洪武正韻을 번역하게 하신바 29년 丁卯(서기 1447) 9월에 완성된 고로 東國正韻이란 이름으로 곳 간행하게 되엇고 그 다음해인 30년 정월에
+『頒東國正韻于諸道及 成均館四部學堂, 仍敎日, 本國人民習熱俗韻己久, 不可猝變, 勿强敎, 使學者隋意爲之』(註70-원문)
+라 함과 같이 發布한 것도 正音 장려의 一策이엇습니다. 본서는 일쯕이 없어지고 말앗으므로 그 내용의 상세를 알기 어렵지마는 同書의 申叔舟 서문(世宗實錄에 실림)에 의하여 그 일단을 엿보면 正音의 용법은 주로 훈민정음의 규정에 쫓고 기타의 음은 사용하지 않앗다고 보입니다. 즉
+『且字母之作諧於聲耳, 如舌頭上脣重脣輕齒頭正齒之類, 於我國字音未可分解, 亦當因其自然, 何必泥於三十六字乎』
+라 함이 잇고 또 同序의 말단에
+『於是調以四聲, 定爲九十一韻二十三母, 以御制訓民正音定其音, 又於啓勿諸韻以影補來因俗歸正, 舊習譌謬至是而悉革矣』
+라 함을 照應하여 보면 이 23母란 것은 前述의 舌音, 脣音, 齒音에 각각 2종씩의 구별을 폐지한 결과에 不外하리라 추측합니다. 世宗은 본서 외에도 또 四聲通考와 文宗朝 경에 된 洪武正韻通考도 申叔舟에게 명하여 편찬하게 하시엇지마은 이것도 다 일쯕이 없어지게 된 것은 매우 아깝은 일이외다. 四聲通考를 증보개정한 것인 四聲通解의 서문에 의하면 世宗이 일쯕이 訓民正音을 창제하고 洪武正韻을 번역하기(즉 東國正韻)를 명하시엇으나 그것이 너무 浩穬難閱임을 염려하여 다시 申叔舟에게 명하여 四聲通考를 짓게 하엿다 함이 잇고 또 洪武正韻通考의 序(申叔舟 저 保閑齋集 중에 남은)에는 世宗이 먼접번에 제신에게 명하여 洪武正韻을 번역하게 하심(즉 東國正韻)이 잇으나 실은 어음의 轉訛가 심하므로 다시 申叔舟들에게 명하여＜40＞ 누누히 遼東에 왕복(7, 8차에 이름)하게 하여 支那人에게 음을 質正하고 稿를 고침이 10여차에 8년의 세월을 쓰어 된 것을 文宗이 즉위함에 및어 申叔舟, 魯參
+權引, 任元濬들로 하여금 讎校의 任에 당하게 하여 이를 간행하여 세상에 광포한 것이 이 洪武正韻通考라 하엿습니다. 또
+『驛召尙州使金鉤, 鉤爲尙州未半年, 時集賢殿奉敎以諺文譯四書, 直提學金判主之, 汶死集賢殿薦鉤, 故特召之, 尋拜制宗薄寺事』(註71-원문)
+라 함과 같이 四書도 正音으로 번역하게 하시엇으나 이것도 오늘에 전하지 못합니다. 또
+『我東方在海外, 言語與中國異, 因譯乃通, ...我世宗文宗慨念於此, 旣作訓民正音, 天下之聲始無不可書矣, 於是譯洪武正韻, 以正華音, 又以直解童子習譯訓評話, 乃學華語之門戶, 命今右副承旨臣申叔舟承文院校理臣曺燮安行禮曹佐郞臣金曾行司正臣孫壽山, 以正音譯漢訓, 細書逐字之下, 又用方言以解其義』(註72-원문)
+라 함과 같이 童子習도 正音으로 번역하게 하엿으며 또
+『世宗天性好學, ...晩年倦勤不視朝 然於文學之事, 尤所軫念命儒臣, 分局撰次諸書, 曰高麗史, 曰治平要覽, 曰兵要, 曰諺文, 曰韻書, 曰五禮儀, 曰四書五經音解, 同時撰修皆經준裁成書, 一日御覽可數十卷, 其可謂天行健純亦不已也』(註73-원문)
+와
+『經書音解, 世宗朝命儒臣設局撰次, 以便句讀』(註27-원문)
+라 함과 같이 經書音解도 編修하게 하신 것입니다. 月印千江之曲(일명 月印釋譜)도 世宗大王이 首陽大君(나종의 世祖)에게 명하여 撰譯하게 하신 것입니다. 이는 首陽大君이 丙寅年(世宗 28년)에 그 모친인 昭憲王后(沈씨)의 상을 당하고 世宗의 명으로 釋譜를 찬역하여 正音으로 쓰고 『釋譜詳節』이라 하여 올린 것을 世宗이 『月印千江』이라 이름 준 것입니다. 信眉, 守眉, 雪峻, 弘濬, 曉雲, 智海, 海超, 斯智, 學悅, 學祖, 乖岸, 金守溫들의 당시 석학에게 문의하여서 首陽君 친히 저작한 것인데 世宗 29년 丁卯 7월 25일 首陽君의 序가 잇음을 보면 당년에 완성되엇다고 보입니다. 그리하여 그 뒤 世祖 4년(서기 1459) 己卯에 간행된 모양입니다. 이것은 조선 불교문헌 상에 대하여서만 重寶가 될 뿐 아니라 正音으로 쓴 佛敎歌詞의 효시가 되는 고로 正音의 최고 문헌으로서 가장 重寶가 되는 것입니다. 世宗大王이 訓民正音의 실행을 장려한 것은 이밖에도 여러 가지 방법이 잇을 터이나 일반에게 전하여진 이상의 사실만으로도 얼마나 周密하게 노력하엿는가 살피어집니다
+(본문에 쓰는 金允經씨의 철자법은 전부 東光에서 쓰는 철자법대로 고첫으니 海諒하시기 바람니다.-일기자)＜41＞
+＜38-41＞

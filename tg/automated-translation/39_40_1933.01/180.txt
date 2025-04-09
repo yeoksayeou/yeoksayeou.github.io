@@ -1,0 +1,161 @@
+잡지명	동광 제40호
+발행일	1933년 01월 23일
+기사제목	中國航空界의 現勢 (The Current State of China's Aviation World)
+필자	在南京 金鍊器
+기사형태	소식 (News/Report)
+
+The Current State of China's Aviation World
+					Kim Ryŏn'gi, in Nanjing
+
+Map of China's Aviation
+
+Regarding the aviation facilities in neighboring China, currently, apart from those under the direct control of the Nationalist government in Nanjing, there are entities called Aviation Offices (航空處) in Yunnan, Guangdong, Sichuan, Changsha, etc., possessing a total of 230 aircraft. Among these, Yunnan and Guangdong even have aviation schools, but they have no connection to the Nationalist government and operate independently. Yunnan established its aviation school and aviation office 12 years ago, inviting several French aviation instructors as leaders. At that time, they purchased over 20 Breguet (부레게-) 300-horsepower land reconnaissance aircraft and over 10 Caudron (고드롱) 80-horsepower training aircraft from France. Thus, after three years, they achieved the prosperous state of producing over 100 graduates, and quite a few still serve in the Yunnan Aviation Unit and the Central Aviation Unit today. The current Yunnan Aviation School has produced 300 graduates and possesses 70 aircraft.
+
+The Guangdong Aviation School has 120 aircraft, and the number of pilots reaches 250. Among them are many <50> who studied abroad, and it is said that, in reality (其實), the Guangdong Aviation Unit's performance is significantly better than that of the Central Aviation Unit. Additionally, Sichuan Province is said to have over 30 aircraft and over 30 pilots, while Changsha has over 10 aircraft and over 10 pilots.
+
+The Central Nationalist Government has a Military Government Aviation Administration (軍政府 航空署), which handles all affairs related to aviation. The Central Aviation Unit consists of the 1st, 2nd, 3rd, 4th, 5th, 6th, and 7th Units. Each unit has a commander and 22-23 officers below him, the total number of pilots is 160-170, and the number of aircraft reaches 200. The ranks within the Aviation Administration are Director (署長) - Lieutenant General, Deputy Director (副署長) - Major General, and each Unit Commander (隊長) - Colonel. Among the pilots, there are various ranks such as Lieutenant Colonel, Major, and Captain. Mr. Chiang Kai-shek (蔣介石氏) was formerly the principal of the Hangzhou Aviation School, but now the principal is also of Lieutenant General rank. Among the pilots in each aviation unit, there are personnel from various countries such as Britain, America, Germany, France, and Japan.
+
+Currently, the Central Aviation Unit oversees the Aviation Administration, the Aviation School, the 7 Aviation Units, the Aviation Pursuit Unit, the Aviation Arsenal, the Capital Aviation Repair Factory, the Nanhu Aircraft Repair Shop, the Aviation Protection Battalion, the Aviation Radio Communication Unit (航空無線電信耭), the Aviation Materials General Depot, Aviation Stations, and the Nanjing Second-Class Aviation Weather Station. There are as many as 30 airfields, including Nanjing, Shanghai, Hankou, Zhengzhou, Nanchang, Changsha, Pingxiang, Anqing, Jiujiang, Zhumadian, Baoding, Kaifeng, Bengbu, Nanyuan, Xuzhou, Hangzhou, Xinyang, Jinan, Luoyang, Shenyang (襲陽 - likely Shenyang), Longhua, Hefei. The aircraft number around 200, including over 100 new fighter planes purchased from Britain, America, Germany, and France, plus other training aircraft.
+
+Next, there are three postal flight routes, as follows (refer to map):
+1. Shanghai-Hankou Line (Daily except Sunday, one round trip)
+Shanghai Departs 7:00 AM -> Hankou Arrives 2:10 PM
+Hankou Departs 9:00 AM -> Shanghai Arrives 4:10 PM
+Stops en route: Nanjing, Wuhu, Anqing, Jiujiang
+
+1. Hankou-Yichang Line (Every Tue, Thu, Sat)
+Hankou departure once; Every Wed, Fri Yichang departure once
+Hankou Departs 2:45 PM
+Yichang Arrives 5:18 PM
+Yichang Departs 6:00 AM -> Hankou Arrives 8:25 AM
+Stop en route: Shashi
+
+1. Nanjing-Beiping Line (Daily except Monday, one round trip)
+Nanjing Departs 8:00 AM -> Beiping Arrives 3:00 PM
+Beiping Departs 6:30 AM -> Nanjing Arrives 1:30 PM
+Stops en route: Xuzhou, Jinan, Tianjin <51>
+
+**Summary**
+
+This 1933 report by Kim Ryŏn'gi from Nanjing describes the fragmented state of Chinese aviation. While the central Nationalist government controls around 200 aircraft and associated institutions (schools, factories, weather stations) centered in Nanjing, significant independent air forces exist in regions like Yunnan and Guangdong, with the latter considered more effective. The report details aircraft numbers, pilot counts, foreign involvement (instructors, pilots, aircraft procurement from Europe/US/Japan), the organizational structure of the central air administration, and lists numerous airfields and the three main postal air routes. From a Korean colonial history perspective, the article is noteworthy for its Korean author reporting from China on Chinese military modernization. This reflects Korean interest in developments in China, potentially viewing it as a neighboring power navigating modernization and foreign influence, themes relevant to Korea's own situation under Japanese rule. Historians might find the detailed account of Chinese military capacity and fragmentation, reported by a Korean observer in Nanjing, valuable.
+
+**Named Entities**
+
+中國	중국	China
+南京	남경	Nanjing
+金鍊器	김련기	Kim Ryŏn'gi
+雲南	운남	Yunnan
+廣東	광동	Guangdong
+四川	사천	Sichuan
+長沙	장사	Changsha
+航空處	항공처	Aviation Office(s)
+佛蘭西	불란서	France
+國民政府	국민정부	Nationalist Government
+中央航空隊	중앙항공대	Central Aviation Unit
+廣東航空學校	광동항공학교	Guangdong Aviation School
+中央國民政府	중앙국민정부	Central Nationalist Government
+軍政府 航空署	군정부 항공서	Military Government Aviation Administration
+航空署	항공서	Aviation Administration
+蔣介石氏	장개석씨	Mr. Chiang Kai-shek
+抗州 航空學校	항주 항공학교	Hangzhou Aviation School (Note: 抗州 likely a typo/older form for 杭州 Hangzhou)
+英	영	Britain
+米	미	America
+獨	독	Germany
+佛	불	France
+日本	일본	Japan
+航空學校	항공학교	Aviation School
+航空隊	항공대	Aviation Unit(s)
+航空驅逐隊	항공구축대	Aviation Pursuit Unit
+航空工廠	항공공창	Aviation Arsenal
+首都航空修理工廠	수도항공수리공창	Capital Aviation Repair Factory
+南湖飛機修理廠	남호비기수리창	Nanhu Aircraft Repair Shop
+航空掩護大隊	항공엄호대대	Aviation Protection Battalion
+航空無線電信耭	항공무선전신기	Aviation Radio Communication Unit
+航空材料總庫	항공재료총고	Aviation Materials General Depot
+航空站	항공참	Aviation Station(s)
+南京二等航空測候所	남경이등항공측후소	Nanjing Second-Class Aviation Weather Station
+上海	상해	Shanghai
+漢口	한구	Hankou
+鄭州	정주	Zhengzhou
+南昌	남창	Nanchang
+萍鄕	평향	Pingxiang
+安慶	안경	Anqing
+九江	구강	Jiujiang
+駐馬店	주마점	Zhumadian
+保定	보정	Baoding
+開封	개봉	Kaifeng
+蚌埠	방부	Bengbu
+南苑	남원	Nanyuan
+徐州	서주	Xuzhou
+杭州	항주	Hangzhou
+信陽	신양	Xinyang
+濟南	제남	Jinan
+洛陽	낙양	Luoyang
+襲陽	습양	Xiyang (possibly Shenyang/瀋陽)
+龍華	용화	Longhua
+合肥	합비	Hefei
+宜昌	의창	Yichang
+沙市	사시	Shashi
+北平	북평	Beiping (Beijing)
+天津	천진	Tianjin
+
+**Glossary**
+
+現勢	현세	Current state/situation
+直轄	직할	Direct control/jurisdiction
+航空處	항공처	Aviation Office (an organizational unit)
+잇어	있어	(archaic spelling) There is/are; possessing
+초빙하엿섯다	초빙하였었다	(archaic spelling/past perfect) Had invited
+구입하얏든	구입하였던	(archaic spelling) Had purchased; which was purchased
+성황	성황	Prosperous state; flourishing condition
+복무하는	복무하는	Serving (in military/official capacity)
+달하며	달하며	Reaching; amounting to
+其實	기실	In reality; actually
+낫다고 한다	낫다고 한다	Is said to be better (Note: 낫다, not 낮다)
+비행사	비행사	Pilot; aviator
+항공서	항공서	Aviation Administration (short form of 航空署)
+관직	관직	Official rank; government position
+階級	계급	Rank; class (implied for 中將級)
+출신	출신	Origin; person from (a country/school)
+관할한다	관할한다	To have jurisdiction over; to control; to oversee
+비행장	비행장	Airfield; airport
+購入한	구입한	Purchased
+郵便飛行線	우편비행선	Postal flight route; airmail route
+매일	매일	Every day
+上下	상하	Up and down; round trip (context of routes)
+途中	도중	En route; on the way
+停留
+
+---------------------------
+
+
+잡지명	동광 제40호
+발행일	1933년 01월 23일
+기사제목	中國航空界의 現勢
+필자	在南京 金鍊器
+기사형태	소식
+
+中國航空界의 現勢
+					在南京 金鍊器
+中國航空圖
+
+隣邦 中國의 航空施設로는 현재 南京 즉 국민정부의 直轄를 제한 외에는 雲南 廣東 四川 長沙 등지에 航空處라는 것이 잇어 비행기가 230대에 달한다. 其中 雲南과 廣東에는 항공학교까지 잇으나 국민정부와는 하등관계가 없고 각기 독립하고 잇다. 雲南은 이미 12년 전에 항공학교와 항공처가 설립되어 지도자로 佛蘭西 航空敎官 數名을 초빙하엿섯다. 당시 佛國으로부터 「부레게-」식 300마력 陸上偵察機 20여 대와 「고드롱」 80마력 練習機 10여 대를 구입하얏든 것이다. 이리하야 3년 후에는 1백여 명의 졸업생을 내이는 성황을 이루어 지금까지 雲南航空隊와 中央航空隊에서 복무하는 이도 적지 않다. 현재의 雲南航空學校는 그 졸업생이 3백명에 달하며 비행기는 70대를 가지고 잇다.
+
+廣東航空學校에는 비행기 120대가 잇고 飛機師는 250명에 달하며 이 중에는＜50＞ 外國留學生도 많아 其實에 잇어서 廣東航空隊는 中央航空隊에 비하여 훨신 성적이 낫다고 한다. 기타 四川省에는 비행기 30여 대 비행사 30여 명, 長沙에는 비행기 10여 대 비행사 10여 명이라 한다.
+中央國民政府에는 軍政府 航空署가 잇어 항공에 관한 一切 사무를 항공서에서 보게 되엇으며 中央航空隊는 제1 제2 제3 제4 제5 제6 제7 隊까지 잇는데 각 隊에는 隊長 이하 22,3명의 장교가 잇고 비행사의 총수는 160,70명이며 비행기는 2백대에 달한다. 航空署의 관직은 署長中將 副署長은 小將 각 隊의 隊長은 大佐이며 비행사에는 中佐 少佐 大尉 등 여러 층이다. 抗州 航空學校에는 이전 蔣介石氏가 校長으로 잇엇으나 지금은 역시 中將級의 校長이다. 항공 각 隊의 비행사 중에는 英 米 獨 佛 日本 등 각국 출신이 잇다.
+
+현재 中央航空隊는 航空署, 航空學校, 航空隊 7개隊, 航空驅逐隊, 航空工廠, 首都航空修理工廠, 南湖飛機修理廠, 航空掩護大隊, 航空無線電信耭, 航空材料總庫, 航空站, 南京二等航空測候所 등을 관할한다. 비행장은 南京 上海 漢口 鄭州 南昌 長沙 萍鄕 安慶 九江 駐馬店 保定 開封 蚌埠 南苑 徐州 杭州 信陽 濟南 洛陽 襲陽 龍華 合肥 등 30處나 된다. 비행기는 英米獨佛에서 購入한 新戰鬪機 1백여 대와 기타 연습기 등을 합하여 약 2백대에 달한다.
+
+다음 郵便飛行線은 3線이 잇는데 다음과 같다.(지도참조)
+1. 上海 漢口線.(日曜 이외 매일 上下 각 1회 ) 上海 上午 七時發 漢口 下午 二時十分着
+漢口 上午 九時發 上海 下午 四時十分着
+途中南京 蕪湖 安慶 九江停留
+一. 漢口 宜昌線 每 火木土
+漢口發一回 每 水金 宜昌發一回
+漢口 下午 二時四十五分發
+宜昌 下午 五時十八分着
+宜昌 上午 六時發 漢口 上午 八時二十五分着 途中 沙市停留
+一.南京北平線 月曜以外 每日 上下 各一回
+南京 上午 八時發 北平 下午 三時着
+北平 上午 六時半發 南京 下午 一時半着 途中徐州 濟南 天津停留＜51＞
+＜50-51＞

@@ -1,0 +1,498 @@
+Magazine Title: 동광 제10호
+Publication Date: 1927년 02월 01일
+Article Title: 俚諺의 意義와 밋 그 形式에 關하여, 朝鮮 俚諺의 硏究 (Regarding the Meaning and Form of Proverbs, A Study of Korean Proverbs)
+Author: 李殷相
+Article Type: 논설 (Essay/Editorial)
+
+Regarding the Meaning and Form of Proverbs, A Study of Korean Proverbs
+						Yi Ŭn-sang
+
+1. The Meaning of Proverbs (俚諺)
+
+As I attempt to discuss the meaning of proverbs (俚諺), dozens, even hundreds, of definitions already explained in various ways appear before my eyes.
+
+However, as the theories clash back and forth and amount to quite a large number, I not only think there is no need to list all those incomplete theories here one by one, but I also believe that glancing at the character breakdown and etymology and then estimating the elements of proverbs will lead to a clearer understanding of their meaning than quoting convoluted and tedious definitions. Therefore, I intend to discuss this chapter in the order of "Character Breakdown, Etymology, Elements."
+
+A. Character Breakdown and Etymology
+
+First, looking into the character breakdown, for the character "俚" (ri), the Kangxi Dictionary (康熙字典) contains the phrase "野人歌曰俚" (The song of the rustic people is called ri) and also provides the definition "鄙俗" (vulgar, common). Furthermore, in the encomium of Sima Qian's (司馬遷) biography in the Former Han annals, there is the phrase "質而不俚" (simple but not vulgar), which Sima Zhen (司馬貞) interpreted as "俚卽鄙也" (Ri means vulgar). Not only is there the phrase "詞旨俚淺" (The meaning of the words is vulgar and shallow) in the *Liji* (禮志), used in a contemptuous sense, but the instances where "俚" is recorded with negative interpretations such as 下俚 (lowly), 鄙俚 (vulgar), 野俚 (rustic/wild), 蕪俚 (crude/weedy) are numerous. From this, it is clear that the character "俚" has generally been used to mean 鄙 (base/dirty) and 賤 (lowly).
+
+Next, regarding the character "諺" (eon), dictionaries like the *Guangyun* (廣韻) offer the definition "俗言也" (It is common speech). Even though records state "俚語曰諺" (Vulgar speech is called eon), showing traces of contempt as before, if one looks at the definition "傳言也" (It is transmitted speech) used in the *Shuowen Jiezi* (說文) or the definition "諺者直語也" (Eon means straightforward speech) recorded in the *Wenxin Diaolong* (文心雕龍), one can also see that there are positive interpretations, not just negative ones.
+
+Looking further, the presence of "諺所謂 老將至而耄及之" (As the proverb says, 'Old age is coming, and senility arrives with it') in the *Zuo Zhuan* (左傳, First Year of Duke Zhao) makes it clear not only that proverbs were used since ancient times but also that there were scholars who regarded them quite highly. Seeing "彦章常爲俚語" (Yanzhang often used vulgar speech) in the biography of Wang Yanzhang (王彦章), or "不惜陽春和俚歌" (I don't begrudge harmonizing spring sunshine with a rustic song) in Su Shi's (蘇軾) poetry, allows us to see even more clearly the respect ancient sages held for proverbs.
+
+With this, I will briefly conclude the glance at the character breakdown. Now, I will try to examine the etymology of the Western word for proverb.
+
+The English "Proverb" and the French "Proverbe" both trace their origin to the Latin (羅甸語) word "Proverbium."
+
+This Latin word is composed of "Pro," meaning "before, public," and "Verbum," meaning "word." Thus, it means "a word that goes before" or "a publicly circulating word." <28>
+
+Now, based on the examination of the character breakdown of the Hanja term 俚諺 and the etymology of the equivalent Latin word "Proverbium," we should understand that a proverb is something frequently recited (膾炙) on the lips of the populace and is used in daily life as a form of publicly circulating speech in any kind of conversation.
+
+B. Elements of Proverbs
+
+I mentioned that the definitions of proverbs are numerous, counting in the dozens or hundreds, and similarly, the theories about their elements are also tediously many.
+
+However, here I will not enumerate the many theories of elements but will instead borrow Howell's (an Englishman of the 17th century) three-element theory, which has received the most recognition and is considered the most fitting among them, to briefly estimate and help understand the meaning of proverbs.
+
+Howell's three elements are these:
+1. Shortness
+2. Sense
+3. Salt
+
+Let me briefly consider the validity of this three-element theory.
+
+In China (中國), there is a long proverb: 『執斧不伐, 賊人將來, 涓涓不塞, 將爲江河, 焱焱不救, 炎炎奈何, 兩葉不去, 將用斧柯, 爲趣弗摧, 行將爲蛇』 (If you hold an axe but don't cut, thieves will come; if a trickle isn't stopped, it will become a river; if a small flame isn't put out, what can be done about a blaze?; if twin leaves aren't removed, an axe handle will be needed; if a sprout isn't destroyed, it will soon become a snake). Also in the West, primarily among English (英國) proverbs, there is a long one like "To travel safely through the world, a man must have a falcon's eye, an ass's ears, an ape's face, a merchant's words, a camel's back, a hog's mouth, and a hart's legs." And among Arabian (亞剌比亞) proverbs, there is a long one like "They said to the camel-bird (i.e., the ostrich) 'Carry'; it answered, 'I can't, for I am a bird.' they said; 'Fly'; it answered 'I can't, for I am a camel.'"
+
+In our country (우리나라) too, there are long proverbs like 『입부지도 안흔 남의 며누리가 삿갓쓰고 어스럼 달밤에 나섯다』 (Someone else's daughter-in-law, not even familiar with the entrance, went out on a dimly moonlit night wearing a bamboo hat) or 『아홉섬 추수한 사람이 한섬 추수한 사람 보고 그 한섬마자 채워서 내한테 열섬을 만들어 노핫스면 조켓다』 (A person who harvested nine soms told a person who harvested one som, 'I wish you'd give me that one som too, so I can make it ten soms'). Such long proverbs exist, a few in every nation.
+
+Therefore, one might think that proverbs are expressed in such long forms.
+
+However, in reality, such long forms are merely exceptions, and in any country, proverbs value conciseness and abhor tediousness.
+
+Essentially, the vast majority (it seems no exaggeration) of any country's proverbs are in short form, and there are many excellent examples of short expression.
+
+To give examples of short forms, from China, there are 『舐糖及米』 (Licking the sugar reaches the rice) or 『禽因覆車』 (Birds because of an overturned cart); from England, "Haste makes waste," "Extremes meet," "Fore-warned, forearmed," etc. Among our country's proverbs, the shortest and most meaningful ones include 『시작이 절반』 (Starting is half the job), 『군불에 밥짓기』 (Cooking rice on a side fire), 『절ㅅ간에 간 색시』 (A bride who went to the temple), 『칼물고 뜀뛰기』 (Jumping while holding a knife in the mouth), 『박쥐 구실』 (Playing the bat's role), 『요령 도적놈』 (A bell thief), 『꿩대신 닭도 쓴다』 (Use a chicken instead of a pheasant), 『송도 외장수』 (A melon seller from Songdo), 『좁쌀 요호』 (Millet fox), 『제 버릇 개주나』 (Can you give away your habits?), 『모개 한 장뎅이』 (One leg of a mosquito), 『누어 떡 먹기』 (Eating rice cake while lying down), 『동리ㅅ북』 (The village drum), 『사모쓴 도적놈』 (A thief wearing an official's hat), 『빗진 종』 (A debtor slave), 『줄쓰록 냠냠』 (Munching while 줄쓰록 [meaning unclear, perhaps related to lining up or shrinking]), 『두더쥐 혼인』 (A mole's wedding), 『신축년 남편 찻듯』 (Like searching for a husband in the Sinchuk year)... etc.
+
+Why are long proverbs few and most short, and why must we, like Howell,<29> even say that shortness is an essential element? I think it is primarily because conciseness (簡勁) makes them convenient to remember, and therefore easy to use frequently in daily life.
+
+Therefore, mentioning Shortness first among Howell's three elements is, above all, a point that captures the essence, which cannot be denied.
+
+However, looking again, no matter how concise the short form of expression, if the implied meaning (Sense) is not beautiful, it is difficult to call it excellent, and moreover, it would have no value worthy of being passed down through generations.
+
+No matter how short a proverb is, if its meaning does not carry the value to be frequently recited by the populace and used in daily life, it has no reason to exist as a proverb and will soon disappear.
+
+This point can be understood without further lengthy explanation, and regarding "Sense," which Howell called the second element, I cannot help but agree as with the previous point.
+
+Furthermore, no matter how short and how beautiful the meaning, if it lacks a certain satirical flavor or a kind of saltiness (Salt) (that is, the "taste of words" found in symbolism or suggestion), it would also be difficult for it to be favored by the populace. If the pleasure (the fun of words) associated with using proverbs is lost, its transmissibility weakens, and it will surely fade into oblivion.
+
+From this perspective, Howell's third element, Salt, can also be seen as a pertinent element.
+
+So, are Howell's three elements sufficient for the elements of a proverb?
+
+Here, I have discovered the lack of one indispensable element.
+
+When tracing the reason why Howell's own 500-odd created proverbs, which did not violate these three elements, number only 200-300 today, it clearly emerges that the one element I am about to mention was deficient.
+
+What is the one element that must exist besides those three? It is Popularity (通俗性).
+
+If we disregard this Popularity and assume there is a proverb possessing only the three elements mentioned above, it will just disappear like Howell's own 500 created proverbs did.
+
+Since the proverb itself is a product of the populace and its existential meaning is established and its effect occurs only when it is frequently recited among the populace, it must necessarily be accompanied by this Popularity.
+
+Therefore, I wish to state the elements of a proverb as four elements:
+1. Shortness
+2. Sense
+3. Salt
+4. Popularity (通俗性).
+I propose these four elements as the elements of a proverb, and following this discussion, I believe the meaning of proverbs has also been glimpsed.
+
+2. The Form of Proverbs
+
+From here, I intend to examine the form of proverbs, and this form<30> essentially refers to the form of expression.
+
+Generally, all types of literature acquire a kind of rational form when expressing their content.
+
+Proverbs, too, when expressing their inner meaning, acquire a form of expression that corresponds mutually with the nature of the proverb itself.
+
+As will become clear when explaining this form, even without explicit mention, as stated in the introduction, viewed from its inner meaning, it is the philosophy and religion of the populace, and viewed from its formal arrangement, it can be said to possess a kind of literary flavor.
+
+First, let's briefly look at the forms of foreign proverbs that are absent in our country.
+
+Looking at types with end rhyme (尾韻) - from China, there are 『當斷不斷, 反受其亂』 (If one doesn't cut when one should cut, one will suffer disaster instead), 『終身讓車, 不狂一舍』 (Yielding the road for a lifetime doesn't cost even one *shè* [approx. 30 li]), 『從善如登, 從惡如崩』 (Following good is like climbing, following evil is like collapsing). And from England, "East, west, home is best," "Slow help is no help." These are such examples.
+
+Looking at types with alliteration (頭韻) - from English proverbs, "No cross, no crown," "Out of debt, out of danger." These are such examples. And looking at what could be called types with repetition (反覆律) - from Chinese proverbs, 『貴其所以貴者貴』 (Value that by which the valued is valued), 『作者不居, 居者不作』 (The doer does not dwell, the dweller does not do). These can be considered examples.
+
+As can be seen just from here, the form of proverbs can be proven to have the same arrangement as the form of poetry.
+
+The reason why the proverb form is arranged like the form of poetry will be explained in detail below, but it is thought to be because many proverbs originate from borrowing a phrase from poetic songs (詩歌의 謠詞), and also because the pleasure of sound provides convenience for memory.
+
+As I will discuss in detail in the later chapter on the origin and transition of proverbs, it is a historically evidenced fact that not a few proverbs were borrowed from poetic songs.
+
+In Greece (希臘), after Homer (흠머), the famous ancient poet Hesiod (헤시오드, around the 8th century BCE), in turning people's hearts from praising war to speaking of the virtue of diligence, said, "Do not be ashamed of diligence; laziness is shame." This phrase circulated directly among the people and became a Greek proverb. In Rome (羅馬), a line from the mime writer Laberius (라페리어스), "He whom many fear, fears many," became a Roman proverb. Besides these, what is said to be from the works of the sage Seneca (세네카, 4 BCE - 65 CE), "Fortune is like glass; the brighter it shines, the more easily it is broken," is heard today as a famous Western European (西歐) proverb.
+
+Also, looking just within our country, the proverb 『9만리 長空에 너만 나느냐』 (Do only you fly in the 90,000-li high sky?) is likely a corruption of the middle verse of a *sijo* attributed to Yi T'aek (李澤), a military commander during the reign of King Chungjong (中宗朝):
+『감장새 작다 하고 大鵬아 웃지 마라. (Don't laugh, great Peng bird, saying the black tit is small.)
+9만리 長空에 너도 날고 나도 난다. (In the 90,000-li high sky, you fly and I fly too.)
+두어라 一般 飛鳥니 제오내오 다르랴.』 (Leave it be, we are both birds; how different could coming and going be?)
+It is clearly a corruption of the middle verse (中章) of this *sijo*. Also, the satirical proverbs 『가마귀 먹칠해 검엇다더냐』 (Did they say the crow is black because it was painted with ink?) or 『헤오리 나이 80이라 히더냐』 (Did they say the heron is white because it's 80 years old?) are factually corruptions of the first verse (初章) of an anonymous *sijo*:
+『가마귀 칠하여 검으며 해오라비 늙어 히랴』 (Is the crow black from being painted, or the heron white from being old?).
+
+Here, I wish to prove this by citing a fact I witnessed directly.
+Some time ago (spring 1926), when I was staying in a place called Ōtsuka (大塚) in Tokyo (東京), Japan (日本),<31> a Japanese *waka* poem by a certain Satō (佐藤某) was published in the literary section of the Tokyo Yorozu Chōhō (東京 萬朝報) newspaper. The full text was 『人の家一間を借りて住むことの心苦しさ子は知らちらん』 (The child probably doesn't know the heartache of living by renting a single room in someone else's house).
+When I had the landlady read this, she began to use the phrase frequently, and I witnessed it developing into a trend, like a proverb, among the women living in rented houses nearby.
+
+Considering this, I believe it is likely that quite a few proverbs are formed when a line from a poem, either in its original form or slightly corrupted, becomes popular. Therefore, I will not repeat this point at length, but I believe one cannot help but acknowledge that the relationship between poetry and proverbs is quite significant.
+
+From here, I will boldly proceed with an examination of the external rhythmic form (外調形) of Korean proverbs. The point where I have dwelled much thought here is the form of our country's traditional poems and songs (詩謠). Why is that? As mentioned above, not only is the connection between the forms of poetry and proverbs quite deep, but specifically with our proverbs, I discovered that their form coincides with that of our poems and songs.
+
+Thus, as has been repeatedly stated that the basic traditional form (在來形) of Korean folk songs (朝鮮 歌謠) is the 4-4 rhythm (4 4 調), I intend to set the basic form of proverbs also to the 4-4 rhythm and examine their forms as observed through studying proverbs.
+(A). 4-4 Rhythm Type (Here, the meaning of the word 'rhythm' (調) absolutely does not mean the number of syllables, but the number of beats (拍子). Therefore, if one were to attach the word 'rhythm' based on syllable count, one could distinguish between 4-5, 5-4, 4-3, 3-4, 3-3, 5-5... etc. rhythms, but I have placed them all together in this 4-4 rhythm type.)
+(B). 7-5 Rhythm Type (Although in poetry, this 7-5 rhythm might be considered not originally a Korean rhythm, when viewing the 7-5 rhythm as a form close to the 4-4 rhythm, I wish to count it as a rhythm worth mentioning alongside it).
+(C). Single Phrase Rhythm Type (There might be an issue with the characters [meaning unclear, possibly referring to the term 1句 成調 itself], but the meaning is that it consists of just one phrase).
+(D). Mixed Rhythm Type (Meaning irregular rhythm or prose rhythm, referring to those formed with mixed rhythms that cannot fit into any of the above three types).
+
+Let me provide examples for each:
+(A). 4-4 Rhythm Type.
+『누어서도 찌르는소』 (A bull that gores even when lying down) 『얽은궁게 슬긔든다』 (Wisdom enters a pockmarked beggar)
+『천냥빗에 말이비단』 (Words are silk to a thousand nyang debt) 『문연놈이 문닷는다』 (The one who opened the door closes the door)
+『되로주고 말로밧기』 (Giving by the *doe* and receiving by the *mal*) 『업더진놈 꼭뒤치기』 (Hitting the back of a fallen person's head)
+『아비만한 아들업다』 (No son is as good as his father) 『굴둑막던 덕석갓다』 (Like a straw mat used to block a chimney)
+『개는개편 도아준다』 (A dog helps its own kind) 『내밋들어 남보이기』 (Showing others by my example [meaning unclear, possibly related to standards])
+-(Looking at long 4-4 rhythms)-
+『녀름불도 쪼이다가 물러나면 섭섭하다』 (Even summer fire feels missed when you move away after warming yourself)
+『이리해라 저리해라 그런자리 춤못춘다』 (You can't dance well in a place where people tell you 'do this, do that')
+『마방집이 망하려면 당나귀만 들어온다』 (When a stable is about to go bankrupt, only donkeys come in)
+『상여메는 사람이나 가마메는 사람이나』 (Whether a person carrying a funeral bier or a person carrying a palanquin)
+『마음한번 잘먹으면 북두성이 내려본다』 (If you make up your mind firmly once, you can look down on the Big Dipper)
+-(Additionally, examples of 3-4, 4-3, 4-5, 5-4, 3-3, 5-5 rhythms)-
+『개밥에 토토리알』 (An acorn in dog food) 『세조하 인심이지』 (It's the fickle public sentiment)
+『심사가 꽁지버테』 (Disposition is at the tail end) 『닭대신 꿩도쓴다』 (A pheasant is used instead of a chicken)
+『굿뒤에 장고친다』 (Beating the drum after the shaman rite) 『철나자 망녕난다』 (Becoming senile just as one matures)
+『매우에 장사잇나』 (Is there a strong man against a beating?)
+『집과게 사긔거릇 맛나면 소리난다』 (Pottery dishes from house and shop clatter when they meet) <32>
+『동냥도 아니주고 쪽박만 께트린다』 (Doesn't even give alms, just breaks the gourd dipper)
+『호미로 막을것을 가래로 막게된다』 (What could be blocked with a *homi* ends up needing a spade)
+(Above are 3-4 Rhythm)
+『등잔머리 어둡다』 (It's dark under the lamp) 『일가싸움 개싸움』 (A family fight is a dog fight)
+『둥구남게 낫걸기』 (Hanging a sickle on a round tree) 『금잘치는 徐順同』 (Sŏ Sun-dong who strikes gold well [idiom for finding fortune?])
+『얌체업는 趙發莫』 (Shameless Cho Pal-mok) 『우물고누 첫수라』 (The first move in well *konu* [a board game])
+『쌀애기밥 먹어도 말잘하는 판수라』 (Even eating leftover rice, a smooth-talking fortune teller)
+『열판수가 모여도 눈뜬놈은 업스리』 (Even if ten fortune tellers gather, there won't be one with open eyes)
+『지게지고 벌어도 열냥주어 집사고』 (Earning by carrying an A-frame, spend ten nyang to buy a house)
+『품팔아서 모아도 쉰냥주어 장가라』 (Saving by selling labor, spend fifty nyang to get married)
+(Above are 4-3 Rhythm)
+『칼도날이 서야만쓴다』 (A knife is useful only when its blade is sharp) 『어둔밤에 눈깜작이기』 (Winking in the dark night)
+『절에가면 중되고십다』 (If you go to a temple, you want to become a monk) 『죽은자식 나세어보기』 (Counting the age of a dead child)
+『흘러가는 냇물퍼주기』 (Ladling out flowing stream water) 『세코집신 제날이조타』 (Even straw sandals with three strands have their day)
+『송굿으로 재끌어내듯』 (Like pulling out ashes with an awl) 『쑥떡먹고 쓴소리한다』 (Eating mugwort rice cake and making bitter remarks)
+『내울음이 정울음이냐』 (Is my crying real crying?) 『거미줄도 줄은줄이다』 (Even a spider web is a line)
+(Above are 4-5 Rhythm)
+『화약을지고 불로간다』 (Carrying gunpowder and going towards fire) 『베주머로니 바람잡기』 (Catching wind with a hemp pouch)
+『멍석도업시 당그래질』 (Raking without even a straw mat) 『호랑이한테 개꾸인셈』 (Like lending a dog to a tiger)
+『눌자리보고 발뻐더라』 (Stretch your legs after seeing where you'll lie down) 『마른나무에 좀먹드시』 (Like termites eating dry wood)
+『바눌구녕에 황소바람』 (A gale through a needle hole) 『바로못가면 둘러가지』 (If you can't go straight, go around)
+『사람이자지 돈이자나』 (Is it the person or the money?) 『체수를보고 옷지어라』 (Make clothes according to the measurements)
+(Above are 5-4 Rhythm)
+『빗조흔 개살구』 (A good-looking wild apricot) 『집신에 정분칠』 (Polishing straw shoes)
+『바닥다 보앗다』 (Saw the bottom) 『삿갓에 쇄자질』 (Padlocking a bamboo hat)
+『꿩먹고 알먹기』 (Eating the pheasant and eating the egg) 『잔나비 밥짓듯』 (Like a monkey cooking rice)
+『꼿픠자 님온다』 (Flowers bloom and the beloved comes) 『독갑이 쓸개다』 (A goblin's gallbladder)
+『개발에 놋다갈』 (Brass nails on a dog's paws) 『쥐脯肉 장사라』 (A seller of dried rat meat)
+(Above are 3-3 Rhythm)
+『가마귀날자 배떠러진다』 (A crow flies up and a pear falls) 『비지국먹고 용트림한다』 (Eating bean-curd dregs soup and burping like a dragon)
+『물방구리에 쥐드나들듯』 (Like mice going in and out of a water bucket) 『눈은잇서도 망울이업다』 (Has eyes but no pupils)
+『발업는말이 천리를간다』 (A word without feet travels a thousand li) 『말만흔집은 장맛도쓰다』 (A house with many words has bitter soy sauce)
+『밋는 나무에 곰이 피었다』 (Mold grew on the trusted tree) 『게으른 선비 책장넴기기』 (A lazy scholar turning pages)
+『접시물에도 빠저죽는다』 (Drowns even in dishwater) 『시집갈때야 등창이난다』 (Gets a boil on the back just when getting married)
+(Above are 5-5 Rhythm)
+These are collectively included in the 4-4 Rhythm type.
+
+And providing examples of the 7-5 Rhythm:
+(B). 7-5 Rhythm Type
+『부뚜막에소곰도 처야만짜다』 (Salt on the hearth is salty only when you add it)
+『손바닥도맛처야 소리가난다』 (Even palms make a sound only when clapped together)
+『멀리잇는형보다 가까운이웃』 (A close neighbor is better than a distant brother)
+『지렝이도누르면 구불렁한다』 (Even an earthworm squirms when pressed)
+『개암이도기어간 자취가잇다』 (Even an ant leaves a trail where it crawled)
+『참새도죽을때는 짹소리친다』 (Even a sparrow chirps when it dies)
+『애배한둑겁이가 돌에치엿다』 (An innocent toad got hit by a stone)
+『동서끼리싸움에 뇨강장수라』 (A chamber pot seller in a fight between wives of brothers)
+『원님이나간뒤에 뒷주라불기』 (Blowing the trumpet after the magistrate has left)
+『한집안에金別監 성도모른다』 (Don't even know the surname of Inspector Kim in the same house)
+Of course, besides this, if one were to categorize rhythms by syllable count, there could be 6-7, 6-6, 7-4, 6-4... countless possibilities. However, rather than discussing it so complicatedly, I wish to distinguish those whose nature fits into the 4-4 rhythm or the 7-5 rhythm and classify them broadly into (A) and (B) above. <33>
+
+And next,
+(C). Single Phrase Rhythm (Consisting of one phrase)
+『갈모형제』 (Rain hat brothers) 『용정공이갓다』 (Like Yongjŏngkong [meaning unclear, perhaps a person known for something]) 『요령도적놈』 (Bell thief)
+『조비비듯』 (Like rubbing millet) 『倉氏庫氏라』 (Mr. Chang and Mr. Ko [pun on warehouse/storehouse]) 『송도외장수』 (Melon seller from Songdo)
+『중놈의빗(梳)』 (A monk's comb)  『좁쌀여호』 (Millet fox) 『박쥐구실』 (Bat's role)
+『두더쥐혼인』 (Mole's wedding)
+
+(D). Irregular Rhythm (Mixed Rhythm) - Formed like prose -
+『뒷바테 호박 따러갓다가 반디ㅅ불 보고 십리나 갓더냐.』 (Did you go ten li chasing a firefly after going to pick pumpkins in the back field?) (3 7 5 6)
+『모로가도 서울만가면 그뿐이지.』 (As long as you get to Seoul, it doesn't matter if you go sideways.) (4 5 4)
+『하룻강아지 범 무서운줄 모른다.』 (A day-old puppy doesn't know to fear a tiger.) (5 5 3)
+『큰고기는 기픈물에잇다.』 (Big fish are in deep water.) (4 6)
+『물에빠진놈 건저노니까 봇짐내라고 관가에 시비간다.』 (Saved a drowning man, and he goes to the government office demanding his bundle.) (5 5 5 3 4)
+『점쟁이도 저죽을날은 모른다.』 (Even a fortune teller doesn't know the day he will die.) (4 5 3)
+『무는호랑이는 뿔이업다.』 (A biting tiger has no horns.) (6 4)
+『아저씨 아저씨 부르면서 길ㅅ짐지운다.』 (Calling 'Uncle, Uncle' while making him carry the road luggage.) (3 3 4 5)
+『열손구락 깨물어 아니아픈 것업다.』 (Bite all ten fingers, there's none that doesn't hurt.) (4 3 7)
+『죄는 진대로가고 道는 닥근대로간다.』 (Sin goes where it's committed, the Way goes where it's cultivated.) (2 5 2 6)
+... etc.
+
+Having provided these examples, I will now write a few words about the reason why proverbs are divided into these rhythms and why they are examined in this way, like poetic forms.
+
+Proverbs, unlike other literature, are directly used in the daily lives of the populace. Recording them in books is a secondary or tertiary issue; the primary consideration is directly uttering them by mouth, appropriately according to each situation.
+
+Therefore, firstly, memorization (暗誦) is necessary, and for this memorization, there is a psychological condition, which is interest or fun (趣味).
+
+Of course, the saltiness (醎味) of the inner meaning (內意) plays a large role in aiding this interest (refer to The Meaning of Proverbs), but the external rhythmic form (外調形) also has much relation, because if the rhythm is orderly for oral recitation (口誦), it adds excitement to its use.
+
+Therefore, I think the external rhythmic form of proverbs has become somewhat musical like poetic forms, and I even think there is a need to intentionally make them this way. <34>
+
+**Summary**
+
+This essay by Yi Ŭn-sang analyzes Korean proverbs (俚諺). It defines proverbs by examining the etymology of the Sino-Korean term (俚諺) and the Latin "proverbium," concluding they are common, publicly circulating sayings. The author critiques Howell's three elements of proverbs (Shortness, Sense, Salt) and proposes adding a fourth, "Popularity" (通俗性), arguing that proverbs must resonate with the populace to survive. The essay then explores the form of proverbs, highlighting their connection to poetry, citing examples where poetic lines became proverbs in Greece, Rome, and Korea. It categorizes Korean proverbs based primarily on rhythmic patterns analogous to Korean poetic meters, mainly the 4-4 beat rhythm, but also acknowledging 7-5, single-phrase, and irregular prose-like forms, arguing this rhythmic quality aids memorization and use.
+
+From a historical perspective, the article is interesting for its systematic linguistic and literary analysis of a folk genre during the colonial period, asserting the value and unique characteristics of Korean proverbs. The author's engagement with both East Asian classical sources (Chinese dictionaries, histories, literature) and Western linguistic/literary concepts (Latin etymology, Howell's elements, comparison with English/Greek/Roman proverbs) reflects the intellectual currents of the time, attempting to position Korean culture within a broader global context while simultaneously analyzing its indigenous forms based on traditional poetic rhythms.
+
+**Named Entities**
+
+李殷相	이은상	Yi Ŭn-sang
+康熙字典	강희자전	Kangxi Dictionary
+司馬遷	사마천	Sima Qian
+司馬貞	사마정	Sima Zhen
+禮志	예지	Liji (Book of Rites component)
+廣韻	광운	Guangyun
+說文	설문	Shuowen Jiezi
+文心雕龍	문심조룡	Wenxin Diaolong
+左傳	좌전	Zuo Zhuan
+王彦章	왕언장	Wang Yanzhang
+蘇軾	소식	Su Shi
+羅甸語	나전어	Latin Language
+호웰	호웰	Howell
+中國	중국	China
+英國	영국	England
+亞剌比亞	아라비아	Arabia
+우리나라	우리나라	Our country (Korea)
+希臘	희랍	Greece
+흠머	흠머	Homer
+헤시오드	헤시오드	Hesiod
+羅馬	나마	Rome
+라페리어스	라페리어스	Laberius
+세네카	세네카	Seneca
+西歐	서구	Western Europe
+中宗朝	중종조	King Chungjong's reign
+李澤	이택	Yi T'aek
+日本	일본	Japan
+東京	동경	Tokyo
+大塚	대총	Ōtsuka
+東京 萬朝報	동경 만조보	Tokyo Yorozu Chōhō
+佐藤某	좌등모	Satō so-and-so
+徐順同	서순동	Sŏ Sun-dong
+趙發莫	조발막	Cho Pal-mok
+
+**Glossary**
+
+俚諺	이언	Proverb (lit. vulgar/common sayings)
+밋	및	And (older spelling)
+잇다	있다	To exist, to be (older spelling)
+업다	없다	To not exist, to not be (older spelling)
+아페	앞에	In front of, before (older spelling)
+여긔에	여기에	Here (older spelling)
+가튼	같은	Same, like (older spelling)
+만콤	만큼	As much as, to the extent that (older spelling)
+밧게	밖에	Outside of, except for, only (older spelling)
+忖度	촌탁	To conjecture, to estimate, to infer
+支離煩劇	지리번극	Convoluted and tedious
+膾炙	회자	To be on everyone's lips (lit. minced meat and roasted meat - delicacies)
+鹹味	함미	Saltiness, witty flavor, biting taste
+通俗性	통속성	Popularity, quality of being common or easily understood by the masses
+外調形	외조형	External rhythmic form
+詩謠	시요	Poems and songs/ballads
+在來形	재래형	Traditional form, conventional form
+拍子	박자	Beat, tempo (in music or rhythm)
+녀름불	여름불	Summer fire (older spelling for 여름)
+토토리알	도토리알	Acorn (older spelling for 도토리)
+께트린다	깨뜨린다	To break (older spelling)
+남게	나무에	On a tree (older spelling/form)
+판수	판수	Blind fortune teller or shaman
+집신	짚신	Straw shoes (older spelling)
+송굿	송곳	Awl, gimlet (older spelling)
+구녕	구멍	Hole (older spelling)
+밋는	믿는	Believing, trusting (older spelling)
+넴기기	넘기기	Turning over (pages) (older spelling/dialectal form)
+빠저죽는다	빠져 죽는다	To drown (older spelling)
+갓더냐	갔더냐	Did you go? (older interrogative form)
+봇짐	보따리짐	Bundle carried on the back or shoulder
+닥근대로	닦은 대로	As one has cultivated/polished (older spelling for 닦은)
+안터라도	않더라도	Even if not (older spelling/form)
+되겟거니와	되겠거니와	Although it will be/become (older connective form)
+안흐려	않으려	Intending not to (older spelling)
+기플뿐만	깊을 뿐만	Only deep (older spelling for 깊을)
+웨	왜	Why (older spelling)
+너흘만한	넣을 만한	Worth putting in, suitable for including (older spelling for 넣을)
+부틸찐댄	붙일진댄	If one were to attach/call it (older conditional form)
+깨물어	깨물어서	By biting (older form, potentially implies sequence/cause)
+
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	俚諺의 意義와 밋 그 形式에 關하여, 朝鮮 俚諺의 硏究
+필자	李殷相
+기사형태	논설
+
+俚諺의 意義와 밋 그 形式에 關하여, 朝鮮 俚諺의 硏究
+						李殷相
+1. 俚諺의 意義
+俚諺의 意義를 말해보려 하매 이미 가지가지로 說明되어 잇는 수십수백의 定義說이 눈아페 나타난다.
+그러나 甲論乙駁하여 그 說이 자못 多數를 計算케 되매 구지 여긔에 그 不完全한 說들을 일일히 枚擧할 필요도 업다고 생각할뿐더러 나는 그 支離煩劇한 定義說을 引用하는 것보다 그 字解와 語源만을 一瞥하고 俚諺의 要素를 忖度해 보는 것이 오히려 俚諺의 意義를 더 簡明히 알게 될 것이라고 밋기 때문에 本章을 『字解, 語源, 要素』 이와 가튼 順序로 말해 보려 한다.
+
+ㄱ. 字解와 語源
+먼저 字解를 뒤처 보매 「俚」란 字에 잇서서 康熙字典에 『野人歌曰俚』란 말이 쓰이어 잇고 또한 「鄙俗」이란 解가 달리어 잇스며 前漢 司馬遷傳 贊에 『質而不俚』란 文句가 잇서 司馬貞이 가로되 『俚卽鄙也』라고 解한 것이 잇고 輕蔑히 여기는 意味에서 禮志에도 『詞旨俚淺』이란 것이 잇슬 뿐 더러 「俚」란 것을 下俚, 鄙俚, 野俚, 蕪俚 이와 가튼 惡解로 記錄한 대가 다만 한 두 곳이 아닌 것을 보아 대개로 이 「俚」란 字를 鄙(더럽고)와 賤(나즌 것)이란 意味로 써 온 것이 分明하다.
+그리고 다음으로 「諺」이란 字에 잇서서는 廣韻 가튼 데에 『俗言也』라 解한 것이 잇고 傳에도 『俚語曰諺』이라 하여 如前히 輕蔑히 여긴 痕迹이 업지 안흐나 說文에 쓰인 『傳言也』란 解를 보던지 文心雕龍에 記錄된 『諺者直語也』란 解를 보면 惡解한 것이 아니라 오히려 善解한 것이 잇슴도 볼 수 잇다.
+다시 한 번 더 살피어 보아 左傳(昭元年)에 『諺所謂 老將至而耄及之』란 것이 잇슴을 보건댄 옛날부터 俚諺을 使用하엿슴이 분명할 뿐 아니라 學者들 중에서도 상당히 尊重히 여긴 이가 잇섯던 것이다. 王彦章傳에 나타난 『彦章常爲俚語』란 것을 보던지 蘇軾의 詩에 잇는 『不惜陽春和俚歌』라는 것을 보면 더욱 더 古賢의 俚諺 尊重心을 밝히 볼 수 잇다.
+이것만으로 간단히 그 字解의 一瞥은 마치려 하거니와 이에 다시 俚諺이란 西洋語의 語源을 상고해 보려 한다.
+英語의 "Proverb"이나 佛語의 “Proverbe"나 다 가티 그 語源을 羅甸語의 "Proverbum"이란 말에 두엇다.
+이 羅甸語는 "Pro"라는 「前, 公」의 意味와 ”Verbum"이라는 「詞」의 意味로 合成된 말이니 즉 『前行言詞』 『公行言詞』라는＜28＞ 말이다.
+이제 以上에 俚諺이란 漢字의 字解와 同議의 Proverbum이라는 羅甸語의 語源을 考察한 바대로 俚諺이란 民衆의 口端에 膾炙되는 것임과 어떠한 談話에서던지 公行言詞의 格으로 日常生活에 使用되는 것임과를 알게 되엿슬 것이다.
+
+ㄴ. 俚諺의 要素
+俚諺의 定義說이 수십수백의 多數를 計算할 만콤 만타는 말을 하엿거니와 이 要素에 대한 說도 또한 同樣으로 번거롭게 만타.
+그러나 여긔에 나는 數만흔 要素說을 枚擧치 안코 다만 그 중에 가장 認定을 바다왓고 또 그 說 중에서는 가장 맛당함을 어덧다 할만한 호웰(英國 17世紀 人)의 3要素說을 끌어와 俚諺의 意義를 알게 하기 위하여 잠간 忖度해 보려 한다.
+호웰의 3要說은 이것이다.
+1. 短形 (Shortness)
+2. 意義 (Sense)
+3. 鹹味 (Salt)
+이 3 要素說의 是非를 잠간 생각해 보련다.
+中國에 『執斧不伐, 賊人將來, 涓涓不塞, 將爲江河, 焱焱不救, 炎炎奈何, 兩葉不去, 將用斧柯, 爲趣弗摧, 行將爲蛇』란 長形의 俚諺이 잇고 또한 西歐에서도 爲先 英國의 俚諺 중에 "To travel safely through the world, a man must have a falcon's eye, an ass's ears, an ape's face, a merchant's words, a camel's back, a hog's mouth, and a hart's legs." 이와 가튼 長諺이 잇고 또 亞剌比亞의 俚諺좀‘에도 "They said to the ca-mel-bird(i. e., the ostrich) 'Carrry'; it answered, 'I can't, for I am a bird.' they said; 'Fly'; it answered "I can't, for I am a camel." 이와 가튼 長形의 것이 잇다.
+우리나라에도 『입부지도 안흔 남의 며누리가 삿갓쓰고 어스럼 달밤에 나섯다』 라는 것이라던지 『아홉섬 추수한 사람이 한섬 추수한 사람 보고 그 한섬마자 채워서 내한테 열섬을 만들어 노핫스면 조켓다』와 가튼 이러한 長形의 俚諺이 어느 民族을 물론하고 몃 개식은 다 가지고 잇다.
+그럼으로 俚諺이란 이러케 長形 表現이 아닌가 하고 생각할 수도 잇다.
+그러나 實尙 이와 가티 長形으로 된 것은 한 例外에 둘 것 뿐이요 어느 나라던지 俚諺에 잇서서는 簡潔을 尙하고 冗漫을 厭하는 것이다.
+本是로 어느 나라의 俚諺이던지 그 全部(過言이 아닐 듯)가 短形으로 되엿고 또한 短形 表現에 佳者가 만흔 것이다.
+矩形의 例를 들건댄 中國의 『舐糖及米』라던지 『禽因覆車』 등 英國의 "Haste makes waste." "Extremes meet." "Fore-warned, forarmed." 등 우리나라의 俚諺중에서도 가장 짧고 含蓄잇는 것을 보면 『시작이 절반』 『군불에 밥짓기』 『절ㅅ간에 간 색시』 『칼물고 뜀뛰기』 『박쥐 구실』 『요령 도적놈』 『꿩대신 닭도 쓴다』 『송도 외장수』 『좁쌀 요호』 『제 버릇 개주나』 『모개 한 장뎅이』 『누어 떡 먹기』 『동리ㅅ북』 『사모쓴 도적놈』 『빗진 종』 『줄쓰록 냠냠』 『두더쥐 혼인』 『신축년 남편 찻듯』 ...등이다.
+웨 俚諺에 長形이 적고 거진 短形이며 또한 호웰과 가티＜29＞ 必然的 要素라고까지 말할 수 밧게 업느냐 하면 무엇보다도 簡勁하니 記憶에 便宜가 잇고 그런 고로 日常生活에 자주 使用하기에 容易하기 때문이라고 생각한다.
+그럼으로 호웰의 3要素說 중 第1에 短形을 말하엿슴은 무엇보다도 妙를 어든 점이라고 말하지 안흘 수 업는 것이다.
+그러나 또 다시 보면 아무리 簡勁한 短形式의 表現일 망정 거긔에 內包된 辭意(意義)가 아름답지 못한 때에는 佳者라 일컷기가 어려울 뿐만 아니라 世世에 相傳될 아무 價値도 업슬 것이다.
+如何히 短形으로 된 俚諺일 망정 그 意義가 民衆의 口端에 膾炙될 만콤 日常生活에 使用할 만한 價値를 附帶치 안코는 俚諺으로 써의 存在 必要가 업는 동시에 곳 업서지고 말 것이다.
+이 점은 더 長皇히 說明치 아니 하더라도 알겟거니와 호웰의 第 2要素라고 한 「意義」에 대하여도 前條와 가티 同感할 수 밧게 업다고 생각한다.
+또한 如何히 短形이요 如何히 아름다운 意義를 가진 것이라고 할찌라도 一種의 諷刺味라던지 一種의 鹹味(즉 말하자면 一種의 象徵이나 暗示에서 잇는 「말의 맛」)에 缺하고 보면 그 또한 民衆에게서 愛用되기가 어려운 것이며 俚諺 使用에 대한 趣味(말의 재미)를 일코 보면 傳來性도 薄弱해지는 동시에 곳 湮滅되고 말 것이 분명하다.
+이 점에서 호웰의 第 3要素說 곳 鹹味라는 것도 妥當的 要素라고 볼 수 밧게 업다.
+그러면 俚諺의 要素로는 이 호웰의 3要素說만으로 만족하고 말겟느냐는 것이다.
+이에 잇서서 업지 못할 한 要素가 缺如되어 잇는 것을 발견한 것이 잇다.
+이 세 가지의 要素를 어기지 아니한 호웰 자신의 俚諺(創作) 500餘首가 今日에 잇서서는 不過 2,3백首라 하거니와 傳來되지 못한 그 이유를 더듬어 찻는 때에 내°€ 이제 말하려는 한 要素가 缺陷되엇던 것이 분명히 나타난다.
+그 3要素 외에 반듯이 잇서야 할 한 要素는 무엇인고 하니 通俗性이란 것이다.
+만일 이 通俗性을 閑却히 여이고 單純히 以上에 말한 3要素만 가진 俚諺이 잇다고 하면 호웰 자신의 創作 俚諺 500餘首가 업서지듯이 업서지고 말 것 뿐이다.
+俚諺 그 자신이 民衆的 産物이요 民衆 간에서 膾炙되어야만 그 存在意義가 成立되고 效果가 發生되는 以上이면 必然的으로 이 通俗性을 附帶하여야만 할 것이다.
+그럼으로 나는 俚諺의 要素를 4要素로 말하고 십다.
+1. 短形
+2. 意義
+3. 鹹味
+4. 通俗性. (Popularity)
+이 4要素說로 俚諺의 要素를 삼고저 하는 바요 딸아 이만콤 말해오는 동안에 俚諺의 意義도 엿살펴 젓스리라고 밋는다.
+
+2. 俚諺의 形式
+이로부터 俚諺의 形式을 檢討해 보려 하거니와 이 形式은＜30＞ 要컨댄 表現의 形式을 이름이다.
+一般으로 文學類는 어느 것이나 그 內容을 表現하는 때에 一種 合理的인 形式을 가추게 되는 것이다.
+이 俚諺도 역시 그 內意를 表現하는 때에 俚諺이란 그 자체의 性質과 互相照合하여 一個의 表現形式을 가지게 되는 것이다.
+이 形式에 대한 설명을 진행하는 때에는 말치 안터라도 알게 되겟거니와 序論에서도 말한 바와 가티 그 內意로 보아 民衆의 哲學이요 宗敎며 또한 그 形式 配置로 보아 一種의 文學味를 띄고 잇는 것이라고 말할 수 잇다.
+爲先 우리나라에서는 업는 外國 俚諺의 形式을 一瞥해 보자.
+尾韻의 類를 보건댄- 中國의 『當斷不斷, 反受其亂』 『終身讓車, 不狂一舍』 『從善如登, 從惡如崩』 이와 가튼 것과 英國의 "East, west, home is best." "Slow help is no help." 이와 가튼 것이다.
+頭韻의 類를 보건댄- 英諺의 "No cross, no crown." "Out of debt, out of danger." 이와 가튼 것들이며 反覆律의 類라 할만한 것을 보건댄- 中國 諺의 『貴其所以貴者貴』 『作者不居, 居者不作』 가튼 것이라 할 수 잇다.
+爲先 여긔서만 보아도 알겟거니와 俚諺의 形은 詩의 形과 가튼 配置로 된 것을 證明할 수 잇다.
+이와 가티 諺形이 詩形과 가튼 配置로 된 이유는 以下에 자세히 설명하려니와 詩歌의 謠詞에서 1節을 割取하여 된 것이 만흘 뿐 안이라 聲音의 快味로부터 記憶의 便宜를 엇게 되는 所以라고 생각한다.
+後章 俚諺의 發生과 그 變遷에 잇서서 詳密히 말해 보려 하거니와 詩歌의 謠詞에서 割取된 俚諺이 不少한 것은 史證하는 사실이다.
+希臘 흠머 以後로 유명한 古代 詩人 헤시오드는(紀元前 8世紀 頃) 戰爭讚美로부터 人心을 轉回시키어 勤勉의 德을 말한데 『부즈런함을 부끄러워 말라. 게으름이 부끄러움 일다』란 말은 그냥 그대로 民間에 流行되어 곳 希臘 俚諺이 된 것이며 羅馬의 黙劇 作家 라페리어스의 『세상이 두려워 하는 사람은 세상을 두려워 한다』란 詩의 1句는 그 곳 羅馬 俚諺이 되어 온 것이요 其外에 賢人 세네카(前 4年-後 5年)의 作中에서 라고 傳하는 바 『幸運은 거울과 갓다. 가장 번쩍일 때에 가장 부서지기 쉬운 것이다』라는 것이 오늘에 한 西歐의 名諺으로 들리어 오는 것이다.
+또한 우리나라에서만 볼 찌라도 『9만리 長空에 너만 나느냐』라는 俚諺은 생각컨댄-中宗朝 兵使 李澤의 所作인
+『감장새 작다 하고 大鵬아 웃지 마라.
+9만리 長空에 너도 날고 나도 난다.
+두어라 一般 飛鳥니 제오내오 다르랴.』
+이 時調의 中章의 轉訛인 것이 분명하며 또한 『가마귀 먹칠해 검엇다더냐』란 것이나 『헤오리 나이 80이라 히더냐』라는 諷刺諺은 분명히 失名씨의 時調 중의 初章
+『가마귀 칠하여 검으며 해오라비 늙어 히랴』란 것의 轉訛일시 사실이다.
+여긔에 나는 내 눈으로 직접 본 사실 하나를 들어 이것을 證明코저 한다.
+내가 얼마 前(1926年 봄) 日本 東京 大塚이란 곳에 滯留하엿슬＜31＞ 때에 東京 萬朝報라는 新聞의 文藝欄에 佐藤某의 日本 和歌 1首가 揭載되엿는데 그 全文은 『人の家一間を借りて住むことの心苦しさ子は知らちらん』이라는 것이다.
+이 말을 보고 食主人 여자에게 읽히엇더니 厥女로부터 이 말이 愛用되어 近家 貰ㅅ집살이하는 여인네들 사이에 한 俚諺의 傾向이 일우어지는 것을 본 일이 잇다.
+생각컨댄 아마 이리하여 詩句의 1節이 혹은 그 全文대로 혹은 약간 轉訛되어 俚諺이 되는 것도 不少하다고 밋는 것이다. 이에 나는 이 말을 더 길게 重言치 안흐려 하거니와 詩와 俚諺의 관계가 자못 가늘지 안타는 것은 首肯할 수 밧게 업는 것이라고 밋는다.
+이로부터 大膽히 朝鮮 俚諺의 外調形의 檢討에 붓을 달리려 하거니와 여긔에서 특히 생각을 만히 머물은 곳은 우리나라의 傳來 詩謠의 형이다. 웨 그런고하니 이상에 말한 대로 詩와 俚諺이란 그 형식의 交涉이 자못 기플뿐만 아니라 至於 우리 俚諺하여는 우리의 詩謠와 그 形이 가튼 점에서 一致하는 것을 發見한 所以다.
+그리하여 朝鮮 歌謠의 在來形의 基本이 4 4 調라 함을 누누히 말한 바 잇거니와 이 俚諺에서도 基本形을 4 4 調에 두려 하며 그리고 俚諺을 考察해 본대로 形을 檢討해 보고저 하는 바다.
+(甲). 4 4 調의 類(여긔에서 이 調라고 하는 말의 意味는 절대로 字數를 意味함이 아니요 拍子 數를 意味함이다. 그럼으로 만일 字數로써 調란 말을 부틸찐댄 4 5 調, 5 4 調, 4 3, 3 4, 3 3, 5 5 ...등 調 이러케라도 區別할 쑤 잇겟스나 總合하여 나는 이 4 4 調의 類에 配置하엿다.)
+(乙) 7 5 調의 類(詩에 잇서서도 이 7 5 調란 것을 本來의 朝鮮 調가 아니라고 할 쑤 잇지마는 나는 이 7 5調도 4 4調와 近似形이라고 보는 때에 함께 손곱을 만한 調子라고 일컷고 십다).
+(丙). 1句 成調의 類(文字의 *가 잇슬는지 모르겟스나 그 意味인 즉 단 한 마디로 될 것이란 말이다).
+(丁). 混調의 類(즉 亂調 散文調란 意味로 쓴 것이니 以上 3개 調의 類 중 어느 것에도 들어가지 못할 만콤 雜調로 된 것을 말함니다).
+各其 例를 들어 보이건댄-.
+(甲). 4 4 調의 類.
+『누어서도 찌르는소』 『얽은궁게 슬긔든다』
+『천냥빗에 말이비단』 『문연놈이 문닷는다』
+『되로주고 말로밧기』 『업더진놈 꼭뒤치기』
+『아비만한 아들업다』 『굴둑막던 덕석갓다』
+『개는개편 도아준다』 『내밋들어 남보이기』
+-(長形 4 4 調를 보면)-
+『녀름불도 쪼이다가 물러나면 섭섭하다』
+『이리해라 저리해라 그런자리 춤못춘다』
+『마방집이 망하려면 당나귀만 들어온다』
+『상여메는 사람이나 가마메는 사람이나』
+『마음한번 잘먹으면 북두성이 내려본다』
+-(其外에도 3 4, 4 3, 4 5, 5 4, 3 3, 5 5 등 調를 例示컨댄)-
+『개밥에 토토리알』 『세조하 인심이지』
+『심사가 꽁지버테』 『닭대신 꿩도쓴다』
+『굿뒤에 장고친다』 『철나자 망녕난다』
+『매우에 장사잇나』
+『집과게 사긔거릇 맛나면 소리난다』＜32＞
+『동냥도 아니주고 쪽박만 께트린다』
+『호미로 막을것을 가래로 막게된다』
+(以上 3 4 調)
+『등잔머리 어둡다』 『일가싸움 개싸움』
+『둥구남게 낫걸기』 『금잘치는 徐順同』
+『얌체업는 趙發莫』 『우물고누 첫수라』
+『쌀애기밥 먹어도 말잘하는 판수라』
+『열판수가 모여도 눈뜬놈은 업스리』
+『지게지고 벌어도 열냥주어 집사고』
+『품팔아서 모아도 쉰냥주어 장가라』
+(以上 4 3 調)
+『칼도날이 서야만쓴다』 『어둔밤에 눈깜작이기』
+『절에가면 중되고십다』 『죽은자식 나세어보기』
+『흘러가는 냇물퍼주기』 『세코집신 제날이조타』
+『송굿으로 재끌어내듯』 『쑥떡먹고 쓴소리한다』
+『내울음이 정울음이냐』 『거미줄도 줄은줄이다』
+(以上 4 5 調)
+『화약을지고 불로간다』 『베주머로니 바람잡기』
+『멍석도업시 당그래질』 『호랑이한테 개꾸인셈』
+『눌자리보고 발뻐더라』 『마른나무에 좀먹드시』
+『바눌구녕에 황소바람』 『바로못가면 둘러가지』
+『사람이자지 돈이자나』 『체수를보고 옷지어라』
+(以上 4 5 調)
+『빗조흔 개살구』 『집신에 정분칠』
+『바닥다 보앗다』 『삿갓에 쇄자질』
+『꿩먹고 알먹기』 『잔나비 밥짓듯』
+『꼿픠자 님온다』 『독갑이 쓸개다』
+『개발에 놋다갈』 『쥐脯肉 장사라』
+(以上 3 3 調)
+『가마귀날자 배떠러진다』 『비지국먹고 용트림한다』
+『물방구리에 쥐드나들듯』 『눈은잇서도 망울이업다』
+『발업는말이 천리를간다』 『말만흔집은 장맛도쓰다』
+『밋는 나무에 곰이 피었다』 『게으른 선비 책장넴기기』
+『접시물에도 빠저죽는다』 『시집갈때야 등창이난다』
+(以上 5 5 調)
+이와 가튼 것들을 總合하여 4 4 調에 含入시키엇다.
+그리고 7 5 調의 예를 들건댄-
+(乙). 7 5 調의 類
+『부뚜막에소곰도 처야만짜다』
+『손바닥도맛처야 소리가난다』
+『멀리잇는형보다 가까운이웃』
+『지렝이도누르면 구불렁한다』
+『개암이도기어간 자취가잇다』
+『참새도죽을때는 짹소리친다』
+『애배한둑겁이가 돌에치엿다』
+『동서끼리싸움에 뇨강장수라』
+『원님이나간뒤에 뒷주라불기』
+『한집안에金別監 성도모른다』
+물론 이 밧게도 調를 字數에 의하여 부틴다 할찐댄 6 7, 6 6, 7 4, 6 4 ... 부티기 대로 얼마던지 잇슬 것이다. 그러나 그러케 煩雜히 論함보다 그 性質이 4 4 調에 너흘만한 것이거나 혹은 7 5 調에 너흘만한 것을 區別하여 以上＜33＞ (甲) (乙)로 大別코저 하는 것이다.
+그리고 그 다음으로
+(丙). 1句 成調 (한 마디로 된 것)
+『갈모형제』 『용정공이갓다』 『요령도적놈』
+『조비비듯』 『倉氏庫氏라』 『송도외장수』
+『중놈의빗(梳)』  『좁쌀여호』 『박쥐구실』
+『두더쥐혼인』
+(丁). 亂調(混調)-散文으로 된 것-
+『뒷바테 호박 따러갓다가 반디ㅅ불 보고 십리나 갓더냐.』 (3 7 5 6)
+『모로가도 서울만가면 그뿐이지.』 (4 5 4)
+『하룻강아지 범 무서운줄 모른다.』 (5 5 3)
+『큰고기는 기픈물에잇다.』 (4 6)
+『물에빠진놈 건저노니까 봇짐내라고 관가에 시비간다.』 (5 5 5 3 4)
+『점쟁이도 저죽을날은 모른다.』 (4 5 3)
+『무는호랑이는 뿔이업다.』 (6 4)
+『아저씨 아저씨 부르면서 길ㅅ짐지운다.』 (3 3 4 5)
+『열손구락 깨물어 아니아픈 것업다.』 (4 3 7)
+『죄는 진대로가고 道는 닥근대로간다.』 (2 5 2 6)
+... 등이다.
+이만콤 例示도 해 노핫거니와 인저는 俚諺이 이러케 調로 난우어저 잇슴과 또 이러케 詩形처럼 區別해 보는 그 이유를 몃마디 쓰련다.
+俚諺이란 다른 文學과 달라 직접으로 民衆의 日常生活에 使用되는 것이며 書冊에 記錄해 둔다는 것은 第 2義 第 3義的인 問題요 第 1義로 보아야 할 것은 직접 입으로 짓그리어 境遇境遇 딸아 適當히 使用하는 것이다.
+그럼으로 첫째 暗誦이 必要하고 이 暗誦에는 心理學的 條件이 잇스니 그것이 곳 趣味라는 것이다.
+물론 이 趣味를 돕는 대에는 그 內意의 醎味에 큰 관계를 가지고 잇스나(俚諺의 意義 叅照) 이 外調形에도 만흔 관계를 가지엇스며 口誦키에 그 調子가 整然한 것은 一層 使用함에 興을 가지게 되는 것인 때문이다.
+그럼으로 俚諺의 外調形이 詩形과 가티 一種 音調的으로 되엇다고 생각하며 故意로라도 이러케 할 必要가 잇다고까지 생각한다.＜34＞
+＜28-34＞

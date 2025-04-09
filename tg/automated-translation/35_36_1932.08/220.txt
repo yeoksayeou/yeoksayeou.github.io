@@ -1,0 +1,51 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 科學斷片, 電氣眼 (Science Fragment, Electric Eye)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+Science Fragment, Electric Eye
+
+The world is in the "Robot" age.
+Work that people used to do is increasingly being done by machines. The recently invented "electric eyeball" (전기눈깔) uses electrical action to distinguish between good and bad products.
+
+Experimentally, let's say this electric eyeball is attached to a machine that wraps candy packages. The machine wraps the candy package and attaches a yellow-colored label on top of it. The package with the label attached is placed on a belt and undergoes inspection by the electric eye. If a package comes along without a label attached, electricity flows due to the color action [i.e., sensing the lack of the specific color], and immediately a long arm comes down and pushes aside the incorrectly wrapped package. <41>
+
+**Summary**
+
+This short piece from 1932 introduces the concept of an "electric eye" (photoelectric sensor) as an example of increasing automation, characterizing the era as the "Robot Age." It describes an experimental setup where the electric eye inspects candy packages on a conveyor belt, identifying and rejecting those missing a yellow label through "color action." From a historical perspective, the article is interesting as it demonstrates awareness and discussion of advanced automation concepts like sensors and quality control machinery in colonial Korea during the early 1930s, reflecting the global dissemination of technological news. It shows how such futuristic ideas were presented to a Korean readership.
+
+**Named Entities**
+
+(No named entities were identified in the text)
+
+**Glossary**
+
+科學斷片	과학단편	Science Fragment (older Hanja usage)
+電氣眼	전기안	Electric Eye (older Hanja usage)
+로보트	로보트	Robot
+긔게	기계	Machine (older spelling)
+전기눈깔	전기눈깔	Electric eyeball (colloquial term for electric eye/sensor)
+부처	붙여	Attach (older spelling/form of 붙이어)
+우에	위에	On top of (older form)
+누른 빛	누른 빛	Yellowish color/light
+아니 부친	안 붙인/붙이지 않은	Not attached (older negative form)
+색채작용	색채작용	Color action/operation (referring to color sensing)
+로	-로	By means of, due to (particle, older usage/spelling context)
+나려와	내려와	Comes down (older spelling/form of 내려오아)
+떼밀어	떼밀어	Push aside
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	科學斷片, 電氣眼
+기사형태	잡저
+
+科學斷片, 電氣眼
+세상은 「로보트」시대다.
+사람이 하든 일을 점점 긔게가 하게 된다. 최근에 발명된 전기눈깔이란 것은 전기작용으로 상품에 좋고 나뿐 것을 구별한다.
+실험적으로 가령 과자봉지를 싸는 기게에 이 전긔눈깔을 부처 놓는다 하자. 과자봉지를 기게가 싸고 그 우에 누른 빛의 상표를 부친다. 그 상표 붙은 봉지가 혁대 우에 놓여서 전기눈의 검사를 받게 되는데 만일 상표를 아니 부친 봉지가 올 것 같으면 색채작용 로전기가 통하야 즉시 기다란 팔이 나려와 그 잘못 싼 봉지를 떼밀어 버린다. ＜41＞
+＜41＞

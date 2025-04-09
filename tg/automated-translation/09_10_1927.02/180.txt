@@ -1,0 +1,87 @@
+**Header Section:**
+Magazine Title: 동광 제10호
+Publication Date: 1927년 02월 01일
+Article Title: 갈맥이 (Seagull)
+Author: 東京에서 牛耳洞人 (U-i-dong-in from Tokyo)
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Seagull
+						U-i-dong-in from Tokyo
+
+Splashing, splashing, wave-beating
+Upon the wide sea
+The bird wandering in a flock
+Is the homeless seagull.
+
+Because it is a sad body without a home
+Whether morning or evening
+Floating upon the sea's waves
+It cries sorrowfully.
+
+The swallows from Kangnam (south of the river)
+Have built nests in the lighthouse
+But the seagull with no place to build a home
+Cries day and night, being too sad.
+
+Splashing, splashing, wave-beating
+Upon the wide sea
+The bird wandering in a flock
+Is the homeless seagull.
+(March 1926) <55>
+
+**Summary**
+
+This poem uses the image of a homeless seagull endlessly crying on the vast sea as a central metaphor. Contrasted with swallows that have built nests, the seagull represents profound sadness and rootlessness. Written by a Korean residing in Tokyo ("U-i-dong-in from Tokyo"), the poem likely reflects the feelings of displacement, sorrow, and lack of belonging experienced by Koreans under Japanese colonial rule, particularly those living away from their homeland. Historians might find this poem significant as an expression of the emotional burden and sense of alienation prevalent among Koreans during the colonial period, especially those within Japan itself.
+
+**Named Entities**
+
+東京	동경	Tokyo
+牛耳洞人	우이동인	U-i-dong-in
+강남	강남	Kangnam
+
+**Glossary**
+
+갈맥이	갈매기	Seagull (Older spelling)
+물껼	물결	Wave (Older spelling)
+우에	위에	On, upon (Older spelling/dialectal form)
+업는	없는	Without, lacking (Older spelling)
+설은	서러운	Sad, sorrowful (Older spelling/form)
+이던지	이든지	Whether it be... or... (Older form)
+우노람니다	웁니다 / 울고 있습니다	Cries, is crying (Older literary/poetic form)
+지엇건만	지었건만	Although (they) built (Older spelling)
+넘우	너무	Too, very (Older spelling)
+밤낫	밤낮	Day and night (Older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	갈맥이
+필자	東京에서 牛耳洞人
+기사형태	시
+
+갈맥이
+						東京에서 牛耳洞人
+철싹철싹 물껼치는
+넓은 바다 우에
+무리 지어 떠도는 새는
+집도 업는 갈맥이람니다.
+집도 업는 설은 몸이길래
+아침이던지 저녁이던지
+바다의 물껼 우에 떠서
+슬피 우노람니다.
+
+강남서 온 제비들은
+등대 집에다 집을 지엇건만
+집도 지을 곳이 업는 갈맥이는
+넘우 슬퍼서 밤낫 우노람니다.
+
+철싹철싹 물껼 치는
+넓은 바다 우에
+무리 지어 떠도는 새는
+집도 업는 갈맥이람니다.
+(1926年 3月)＜55＞
+＜55＞

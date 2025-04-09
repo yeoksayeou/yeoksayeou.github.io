@@ -1,0 +1,114 @@
+**Header Section**
+Magazine Title: 東光 第26호
+Publication Date: 1931 October 04
+Article Title: 結核病의 原因과 豫防, 健康欄 (Causes and Prevention of Tuberculosis, Health Section)
+Author: 韋博士 (Dr. Wui/Wei)
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation**
+Causes and Prevention of Tuberculosis, Health Section
+						By Dr. Wui/Wei
+(In Japan, it is said that 1 out of every 25 people is afflicted with tuberculosis, causing the Home Ministry to raise an alarm. How is it in Chosŏn? Although there are no statistics yet, it is a fact that the victims are numerous. This text was written by an American doctor, but it is something we can understand.)
+
+In America, one out of every twelve people dies from tuberculosis. However, this does not mean that your chance of contracting tuberculosis is one in twelve. Depending on your parents, environment, past health condition, and current occupation, your likelihood of contracting tuberculosis can be higher or lower.
+Tuberculosis is caused by microbes called tubercle bacilli. These microbes are found almost everywhere in the civilized world. Consequently, almost everyone living in the civilized world acquires some tubercle bacilli before the age of twenty. However, simply having the tubercle bacilli enter the body does not immediately mean one contracts tuberculosis. Up to ninety percent of the population in civilized countries carries tubercle bacilli, but among them, only ten percent show immediate symptoms of tuberculosis, indicating that even if one carries the bacilli, it does not cause immediate harm.
+
+How does everyone come to carry tubercle bacilli? It happens in various ways. Let's say a newborn baby comes into the world. Firstly, if there is a pulmonary tuberculosis patient among the parents, the tubercle bacilli can be transmitted from them. When the mother or father sneezes or coughs, the bacilli enter the baby's mouth and nose along with the droplets (ch'um). They also enter through kissing.
+As the baby grows and starts crawling, it touches the floor with its hands and puts whatever it grabs into its mouth. Then, if the parents' sputum containing bacilli is on its fingers or other objects, or if sputum from people coming from outside is present, the baby ingests the bacilli.
+When the child grows a bit older and plays outside on the street, they might drop balls, sticks, or many other things on the ground (tta) and pick them up. If a patient's sputum has splattered there, the bacilli first get on the hands, and when those hands go to the mouth or nose, the bacilli enter the body. Tubercle bacilli that enter the body go into the lymph nodes and multiply. That is why we sometimes see swollen lymph nodes (imp'asŏn) in the neck or armpits. However, this much usually does not have a significant impact. The number of bacilli is small, and even receiving bacilli multiple times does not necessarily lead to the disease developing. This is because we all have resistance to tuberculosis. However, if our body weakens or another illness occurs, our resistance decreases, and consequently, the bacilli confined in the lymph nodes grow, causing lymphadenitis, and eventually entering the lungs to cause pulmonary tuberculosis. <74>
+A low standard of living is a cause that leads to tuberculosis. Due to poor nutrition and deficiencies in clothing, housing, and medical treatment, children's health cannot be adequately maintained, making them susceptible to tuberculosis.
+Among adults, the most common form of tuberculosis is pulmonary tuberculosis. If a small tuberculous lesion (chongch'ŏ) forms near a blood vessel, it can rupture the vessel. Then, blood comes out from the lungs. This is a common symptom of lung disease (p'yebyŏng). Pulmonary tuberculosis can arise when bacilli acquired in childhood take advantage of the body's weakened resistance, or it can develop through continuous, prolonged association with someone who has lung disease. People who do excessively strenuous physical labor are also prone to lung disease, as are those in occupations involving inhaling a lot of dust. Among the most common causes of lung disease are having many opportunities for transmission by spending a long time continuously with someone who has tuberculosis, or living below the minimum standard necessary for health.
+
+To prevent tuberculosis, the first step is to kill and eliminate all tubercle bacilli. People with tuberculosis should not spit carelessly but should disinfect their sputum before disposing of it. Also, those with chronic, long-standing lung disease should definitely be admitted to an infectious disease hospital. In the past, if there was a pulmonary tuberculosis patient in a household, the entire family would die one by one from lung disease. Nowadays, because patients are kept separately in hospitals, such occurrences are prevented.
+A sanatorium, that is, a tuberculosis treatment center, is not a place to isolate chronic pulmonary tuberculosis patients, but a place to treat those in the early stages (ch'ogi) of lung disease. If admitted in the early stages, most people recover their health and leave; the notion that lung disease is an incurable illness is outdated. Even for those who have been completely cured (wanch'i) and discharged from the treatment center, the tubercle bacilli have not entirely disappeared. It is only that the lesions (chongch'ŏ) caused by those bacilli have all healed, allowing them to return to their usual occupations. Such individuals must always pay attention to their health, ensure good nutrition intake (sŏpch'wi), and always maintain appropriate clothing and working hours. <75>
+
+**Summary**
+
+This 1931 article by "Dr. Wui/Wei," identified as American, discusses tuberculosis (TB) causes and prevention for a Korean audience. It explains that TB is caused by ubiquitous tubercle bacilli, often acquired in childhood, but disease only develops when bodily resistance is low due to factors like poor living standards, malnutrition, or other illnesses. Pulmonary TB is common in adults, exacerbated by strenuous labor, dust inhalation, and close contact with infected individuals. Prevention focuses on hygiene (disinfecting sputum), isolating chronic patients, and early treatment in sanatoriums, which are presented as effective for recovery, contrary to the old belief that TB was incurable. Recovered patients must remain vigilant about their health. Historically, the article is interesting as it reflects the state of public health knowledge dissemination in colonial Korea, relying on foreign expertise (American doctor) to educate the populace. It highlights the awareness of TB as a major health crisis (contrasting US and Japanese statistics while noting the lack of Korean data), links the disease explicitly to low socioeconomic conditions prevalent in the colony, and promotes modern medical approaches like sanatoriums and hygiene, contrasting them with past fatalism.
+
+**Named Entities**
+
+日本	일본	Japan
+朝鮮	조선	Chosŏn
+美國	미국	America
+韋博士	위박사	Wui Paksa (Dr. Wui/Wei)
+내무성	내무성	Naemusŏng (Home Ministry, likely Japanese)
+
+**Glossary**
+
+結核病	결핵병	Tuberculosis
+豫防	예방	Prevention (older Hanja usage)
+미균	미균	Microbe, germ
+따문에	때문에	Because of (older spelling)
+죄다	죄다	All, entirely (colloquial/older usage)
+조곰식	조금씩	Little by little, some (older spelling)
+잇다	있다	To exist, to have (older spelling)
+잇으나	있으나	Although there is/are (older spelling)
+일활	일할	Ten percent (1割, older Sino-Korean usage)
+구활	구할	Ninety percent (9割, older Sino-Korean usage)
+그러케	그렇게	Like that, so (older spelling)
+갓난아이	갓난아이	Newborn baby
+아부지	아버지	Father (dialectal/older form)
+춤	침	Saliva, sputum (likely dialectal/older form, usually 침)
+애기	아기	Baby (colloquial/older form)
+마촤도	맞춰도	Even if matched (here contextually means 'kissing') (older spelling/usage)
+단니다	다니다	To go around, attend (older spelling)
+방바닭	방바닥	Room floor (older spelling)
+가저가다	가져가다	To take, carry (older spelling)
+손고락	손가락	Finger (older spelling)
+묻엇으면	묻었으면	If it was smeared/묻다 (older spelling)
+빨아드리다	빨아들이다	To suck in, absorb (older spelling)
+따	땅	Ground, land (older spelling/contraction)
+떠러트리다	떨어뜨리다	To drop (older spelling)
+튀엇섯으면	튀었었으면	If it had splattered/튀다 (older spelling)
+임파선	임파선	Lymph node
+가쳣든	갇혔던	Which had been confined/갇히다 (older spelling)
+나종에는	나중에는	Later, eventually (older spelling)
+페	폐	Lungs (older spelling)
+잘못하고	잘못하고	Doing wrong (here contextually 'malnutrition/improperly')
+충분이	충분히	Sufficiently (older spelling)
+못되다	못되다	Cannot become (here 'cannot be maintained')
+조고만	조그만	Small, little (older spelling)
+종처	종처	Sore, lesion, ulcer
+터치다	터뜨리다	To burst, rupture (older spelling)
+사괴다	사귀다	To associate with, make friends with (older spelling)
+긔회	기회	Opportunity (older spelling/Hanja reading)
+배앝다	뱉다	To spit (older spelling)
+내버리다	내버리다	To throw away, dispose of
+만성	만성	Chronic
+입원케 하다	입원케 하다	To cause to be hospitalized (older grammatical form)
+잇으면	있으면	If there is/are (older spelling)
+잇엇다	있었다	There was/were (older spelling)
+초긔	초기	Early stage (older spelling/Hanja reading)
+나가나니	나가니	Goes out, so... (older grammatical ending)
+불치	불치	Incurable
+말미아마	말미암아	Due to, resulting from (older spelling)
+생겻든	생겼던	Which had occurred/appeared (older spelling)
+섭취	섭취	Intake, ingestion
+
+
+---------------------------
+
+
+잡지명	동광 제26호
+발행일	1931년 10월 04일
+기사제목	結核病의 原因과 豫防, 健康欄
+필자	韋博士
+기사형태	논설
+
+結核病의 原因과 豫防, 健康欄
+						韋博士
+(日本에서는 人口 每25명에 1인이 결핵병에 들렷다 하야 내무성에서 야단이 낫다. 조선은 어떠한가. 아직 통계가 없지마는 그 희생자가 많은 것만은 사실이다. 이 글은 미국 의사가 쓴 것이지마는 우리가 알아들을 만한 것이다.)
+
+미국에서는 인구 열두 사람에 하나식 결핵병으로 죽는다. 그러타고 그대의 결핵 걸릴 가능성이 열둘에 하나라고 하는 것이 아니다. 그대의 부모와 환경과 이전의 건강 상태와 현재의 직업 등을 따라 결핵 걸릴 가능성이 많기도 하고 적기도 하다.
+결핵병은 결핵균이라고 하는 미균따문에 생긴다. 이 미균은 문명세계에는 없는 곳이 별로 없다. 따라서 문명세계에 사는 사람은 스무살 전에 죄다 결핵균을 조곰식은 가지게 된다. 그러나 결핵균이 몸에 들어온다고 곳 결핵병에 걸리는 것은 아니다. 문명국의 인구는 구활까지가 결핵균을 가지고 잇으나 그 중에서 당장 결핵병의 증세를 보이는 사람은 일활밖에 아니 되는 것을 보면 비록 결핵균을 가젓더라도 당장 해되는 것은 아니다.
+
+어째서 그러케 모든 사람이 결핵균을 가지게 되나. 여러 가지로 된다. 갓난아이가 세상에 나왓다고 하자. 첫재로 만일에 부모 중에 페결핵 환자가 잇으면 그에게서 결핵균을 전염할 수 잇다. 어머니나 아부지가 재채기를 하거나 기침을 하면 그 춤에 따라서 애기의 입과 코로 결핵균이 들어간다. 입을 마촤도 들어간다.
+애기가 자라서 기어단니게 되면 방바닭에 손을 집고 단니며 잡히는 대로 입으로 가저간다. 그러면 손고락이나 또는 다른 물건에 부모의 균 잇는 춤이 묻거나 혹은 밖에서 오는 사람의 춤이 묻엇으면 역시 균을 빨아드리게 된다.
+좀더 커서 거리에 나가서 놀게 되면 공이나 막대기나 그밖에 많은 물건을 따에 떠러트리기도 하고 따에서 집기도 한다. 거기 환자의 춤이 튀엇섯으면 우선 균은 손에 묻고 그 손이 다시 입이나 코로 갈 때에 균은 몸 속으로 들어간다. 몸 속에 들어간 결핵균은 임파선으로 들어가서 번식을 한다. 그래서 목이나 겨드랑이에 가끔 두들럭한 임파선을 보게 된다. 그러나 그만쯤으로는 별로이 큰 영향이 없다. 균의 수효도 적고 여러 번 균을 받드라도 결코 병이 발생하지 않는다. 우리는 다 결핵에 대한 저항력이 잇는 까닭이다. 그러다가 우리 신체가 혹 약해지거나 다른 병이 생기면 저항력이 적어지고 따라서 임파선에 가쳣든 균들이 작고 자라나서 임파선염이 되고 나종에는 페로 들어가 페결핵을 이룬다. ＜74＞
+생활 정도의 낮은 것이 결핵병을 생기게 하는 원인이다. 영양을 잘못하고 의복, 거처, 의약의 치료가 다 부족하야 아동의 건강은 충분이 유지가 못되고 결핵병에 걸리기 쉽게 된다.
+어른이 되면 결핵병 중에 제일 잘 걸리는 것이 페결핵이다. 혈관 근방에 조고만 결핵종처가 생기면 그것이 혈관을 터칠 수가 잇다. 그러면 페에서 피가 나온다. 이것이 페병의 보통적 증상이다. 페결핵은 어려서 받은 균이 신체의 저항력이 적은 틈을 타서 생기기도 하며 혹은 페병 잇는 사람과 게속하야 오래 사괴는 중에서 생기기도 한다. 너무 육체적으로 고된 일을 하는 사람도 페병의 걸리기 쉽고 또 먼지를 많이 마시는 직업을 가진 사람이 걸리기 쉽다. 페병의 원인 중 가장 많은 것은 결핵병 잇는 사람과 오래 게속해서 같이 지남으로 전염의 긔회를 많이 주는 것과 또는 건강에 필요한 최저 한도보다도 더 낮은 생활을 하는데서 생긴다.
+
+결핵병을 예방하는데는 결핵균을 다 죽여 없이하는 것이 첫재다. 결핵병을 가진 사람은 춤을 함부로 배앝지 말고 꼭 소독을 해서 내버릴 것이다. 그리고 페병이 오래되어서 만성이 된 사람은 반드시 전염병원으로 입원케 할 것이다. 옛날은 집안에 페병환자가 잇으면 온 집안이 하나식 하나식 다 페병에 죽는 일이 잇엇다. 지금은 환자를 병원에 따로 두기 따문에 그런 일은 없게 되엇다.
+사나토리엄, 즉 페병치료원은 만성 페병환자를 격리하는 곳이 아니요 페병 초긔에 잇는 사람을 치료하는 곳이다. 초기에 입원하면 대개는 다 건강을 회복하여 나가나니 페병이 불치의 병이라는 것은 옛날 말이다. 치료원에서 완치가 되어 나온 사람이라 할지라도 페병균이 아주 없어진 것은 아니다. 오직 그 균으로 말미아마 생겻든 종처가 다 치료되엇음으로 다시 보통 직업으로 돌아가기를 허락하는 것뿐이다. 이런 사람은 자기의 건강을 항상 주의하야 영양을 잘 섭취하고 의복과 노력의 시간을 항상 정당하게 할 것이다.＜75＞
+＜74-75＞

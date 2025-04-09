@@ -1,0 +1,230 @@
+**Header Section**
+Magazine Title: 東光 제23호
+Publication Date: 1931년 07월 05일
+Article Title: 東光大學講座, 제4강 勞働農民篇-勞働問題槪觀 (Tonggwang University Lecture, 4th Lecture, Laborer-Farmer Section - Overview of Labor Issues)
+Author: Not specified
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation**
+Tonggwang University Lecture, 4th Lecture, Laborer-Farmer Section - Overview of Labor Issues
+
+Recent labor issues have seen great progress (長足進步) due to the conscious activities of workers and international movements to improve labor conditions, such as those by the International Labour Organization. In countries like the Labor-Farmer Federation (勞農聯邦, i.e., the Soviet Union), where workers directly hold political power, there is no need for further mention. Even in other countries that are not like that, the rights and treatment of workers are beyond comparison to the past (昔日의 比). In Chosŏn (朝鮮, Korea), the labor movement arose only very recently, and as general politics are semi-autocratic (半專制的), labor conditions have barely escaped a primitive state. With the recent deepening of the economic downturn, strikes have become frequent (頻頻하야). Since these are also naturally occurring (自然發生的), the right to strike or the right to organize are not guaranteed, and the conditions primarily concern wage issues. Of course, under the guidance of the intelligentsia (識者階級), various demands for improved treatment arise, but these are seen as having more of an educational effect than an expectation of practical results. Issues like the minimum wage system, the 8-hour workday, and various others seem a long way off (前途遙遠) under Chosŏn's current circumstances. Now, under the current system (現制度下), I intend to outline the issues concerning the rights and interests of workers that have been acquired by workers in advanced nations. Labor issues are broadly encompassed within the following five areas:
+
+Right to organize and right to strike
+Minimum wage and limitation of working hours
+Insurance for old age/infirmity and unemployment
+Accident compensation and health
+Protection of child and female labor
+
+1. Right to Organize (團結權) and Right to Strike (罷業權)
+Today's capitalism holds the freedom of contract as a sacred and inviolable principle. However, between scattered individual workers and employers (雇主), the employer has the freedom to hire (雇入) people, but the worker only has the freedom to quit. Therefore, the employer can employ workers under harsh labor conditions as much as their greed desires. In response, workers realized that individual resistance yielded no result other than dismissal. Thus, they learned that organization (단결) is their only (唯一) weapon. Through the power of organization, they demand improvement or maintenance of treatment, and if their demands are not met, they conduct a collective strike (同盟罷業) to temporarily halt the employer's production, thereby forcing submission. The employer can, of course, fire those workers and hire others, but if all workers engaged in the same occupation maintain solid unity, and if all workers nationwide engaged in various occupations unite and do not fall for the employer's schemes, the workers will achieve victory. Seeing the effectiveness of struggle through organization <90> in this way, it is self-evident that they would perpetuate (永續化) that organization and form associations (結社) like unions.
+
+However, regarding workers organizing occupationally in this manner, government authorities initially prohibited it, mostly citing infringement of the "freedom of contract." But as workers continued to form associations and carry out strikes despite the prohibition, such prohibitive laws were gradually abolished. In the latter half of the 19th century, the freedom of workers' association and strike became recognized to some extent in various European and American countries (歐米各國), and the labor movement advanced vigorously (猛然히).
+
+Consequently, workers within a single factory first organized unions, then federations (聯孟體) of various unions emerged, national industrial organizations of workers arose, and finally, even international federations came into being.
+As labor unions grew in this manner, the idea arose that the state should not just tolerate them but take a step forward, legally recognize them, and regulate their actions; this is the essence of labor union laws. In drafting (立案) these labor union laws, countries around the world have adopted different stances; some are relatively advantageous to workers, while others are designed to severely restrict workers' actions. The most crucial point in this legislation is, of course, whether or not the workers' right to collective strike is recognized. Today, among civilized nations, there is no place that does not recognize the right to collective strike in principle.
+
+Collective strikes employ two main tactics: completely halting work, or slowing down work (怠業) without stopping entirely. Of course, acts of violence or destruction of equipment are subject to criminal penalties, but orderly strikes are legally recognized. In response, the employer side has counter-tactics such as production restrictions and factory closures. The state also enacts Labor Dispute Mediation Acts (爭議調停法) to attempt arbitration (仲裁), and enforces it when necessary.
+Thus, the right to organize (結社權) and the right to strike (罷業權) belong to the vested rights (旣得權) of workers in advanced nations today. The current status of union organization in major countries worldwide is as follows:
+(End of 1924)
+[Translator's Note: The text implies a table or list followed here, but it is missing in the provided source.]
+There are also three types of international federations of labor unions:
+International Federation of Trade Unions (Amsterdam) 13,133,004 members
+International Federation of Christian Trade Unions (Utrecht) 2,112,109 members
+Red International of Labour Unions (Moscow) 19,000,000 members
+
+2. Minimum Wage and Working Hour Limitations
+Workers have acquired the minimum wage system and working hour regulations through centuries (數世紀에 亘하는) of struggle. Today, it is a fact that in countries implementing factory acts, these systems are recognized in principle. Although the situation in various Asian countries still involves the unchecked exploitation (酷使) of workers, the International Labour Conference is striving to implement these measures in Asia as well.
+
+The protective provisions regarding wages in factory acts generally include these few points:
+(1) Wages must absolutely be paid in cash; payment by check (小切手), promissory note (手形), or <91> in the form of meals, alcohol, or other goods is not permitted.
+(2) Wages must be paid at least once a month. In foreign countries, it is common to stipulate payment once a week.
+(3) Deductions from wages for compulsory savings require government approval.
+(4) Fines (罰金) or damages cannot be deducted from wages. However, wages may be reduced for lateness (遲刻) and equipment damage. Penalties (過怠金) can be imposed, but the maximum reduction cannot exceed half of one day's wages. These penalties are generally used for the welfare of the workers, not as income for the factory owner.
+(5) The minimum wage system (最低賃金制) was established to prevent the extreme lowering of living standards due to free competition among workers and to prevent unfairly low wages for classes like cottage industry workers, female workers, and child laborers, who find it difficult to bargain collectively with employers. The Treaty of Paris (巴里平和條約) [Translator's Note: Likely refers to the labor provisions within the Treaty of Versailles, 1919, which established the ILO] sets forth the general principle of "providing the employee (피고자) with a wage sufficient to maintain a standard of living considered reasonable in that country at that time (期時其國)." According to the laws of various states in the United States (米國), the minimum wage is the cost required for ordinary living and sufficient to maintain health and happiness. Thus, a country establishes a certain standard by investigating these living costs through public institutions, and this becomes law, which factory owners nationwide must comply with (準行해야 하는 것이다). If a factory owner secretly pays lower wages, they will face legal judgment.
+If there are factories unable to sustain themselves due to the minimum wage, such factories would only exist by pushing workers below the subsistence level; such factories are worse than having none at all.
+Working hours in the early days of factories reached 15 or 16 hours a day. Then, as workers began asserting their rights and interests, the principle of an 8-hour day and a 48-hour week became established as today's standard. Ideally, some advocate for a 6 or 7-hour workday. The International Labour Convention also includes a provision stating, "Grant one continuous 24-hour break per week to all types of workers," which establishes the holiday system. There is also a movement to include not only Sunday as a public holiday (日曜公休) but also a Saturday half-holiday (土曜半休) in factory acts. The Soviet Union (蘇聯) has adopted a system of one day off every five days.
+This 8-hour day and holiday system is, of course, intended to protect workers' health, but it is not yet strictly implemented in various Asian countries.
+The enforcement of such working hour limitations and holiday systems provides workers with leisure time. Consequently, advanced countries have various recreational facilities established for workers to spend their leisure time usefully.
+
+3. Relief for Old Age/Infirmity (老廢) and Unemployment (失業)
+When workers lose their ability to work due to old age or becoming infirm (폐인), or face unemployment due to production cutbacks, leaving them abandoned on the streets to starve is considered a social injustice. Thus, relief measures, however minimal, are being devised.
+For old age/infirmity, there is the so-called Pension Law (恩給法), which provides a fixed sum until death to those who retire after serving beyond a certain number of years (年限). However, these pensions are generally limited to teachers, officials, soldiers, etc., and do not typically extend to general employees (피고인). This led to the development of insurance systems. Private insurance companies exist, but they are not accessible to general workers. Even simple insurance (簡易保險) plans, with their maturity payouts of 300-400 won, cannot realistically guarantee sustenance in old age.
+Germany (獨逸) has an Old Age and Disability Insurance Law (老廢保險法) applicable to all manual laborers. It designates the employee (被用人) as the insured person (被保險者), with the employer and the employee each paying half the premium, supplemented by a state subsidy (國庫補助金), to provide pensions after disablement (廢疾) or after age 65.
+Unemployment insurance systems are similarly structured. During employment, the worker, <92> employer, and government contribute premiums, and starting from the sixth day of unemployment, unemployment benefits are paid. Taking the example of the United Kingdom (英國), if one pays 36 *jŏn* [Translator's Note: A sub-unit of the Korean Won/Yen] per week in premiums, after becoming unemployed, one receives 20 times that amount, 7 won and 20 *jŏn*, weekly. Of course, those with dependents receive slightly more. Concurrent with unemployment insurance, job placement centers are well-established, where the unemployed go each morning to either find work or receive unemployment benefits.
+Although these two insurance systems may not be perfect, they are implemented to some extent in renowned European and American countries. Besides these, the Factory Act stipulates that when a worker falls ill or gets injured while performing (遂行하다) their job, they should receive temporary disability assistance (休業扶助料). It also mandates severance pay (退職手當金) upon retirement. The period for temporary disability assistance is 180 days, after which it can be halved. Alternatively, a lump-sum payment equivalent to b03 [Translator's Note: Seems like a typo or reference code - likely meant to be a number like '50'] 50 days' wages or more can be provided. The minimum severance pay is equivalent to 14 days' wages or more.
+
+4. Accident Compensation and Health
+As industry becomes more complex (複雜化), the potential for accidents increases, and many unhealthy (非健康的) conditions arise. To prevent these, the Factory Act has established various restrictions.
+Prohibiting women and minors from cleaning (掃除) or oiling machinery while it is in motion; requiring firewalls in workplaces; mandating at least two emergency exits; requiring workers operating machinery where clothing can easily get caught to wear special uniforms – these types of regulations exist in the Factory Act to prevent accidents.
+When a worker is injured or falls ill due to their work, family support payments (家族扶助金) must be provided. The types of assistance include: (1) medical treatment (施療) or recuperation expenses (요양비), (2) temporary disability assistance (休業扶助料), (3) disability compensation (장해 부조료), (4) survivor benefits (유족 부조료), (5) funeral expenses (葬祭料), (6) lump-sum assistance (一時扶助料). Regarding these, even if the injury was due to the worker's negligence (過失), this assistance must be provided. This aims to eliminate the abuse where employers unjustly try to avoid paying assistance by exploiting the weakness of penniless workers and prolonging legal proceedings.
+Many tuberculosis patients emerge from mines and factories, and depending on the type of factory, poisoning cases are also frequent. Because of this, laws exist to improve sanitation facilities within factories, and health insurance is available, where regular premium payments ensure completely free medical treatment when one falls ill.
+Beyond this, the socialization of medicine is advocated, promoting the establishment of free clinics and cost-price institutions (實費機關).
+
+5. Protection of Child (少年) and Female (女子) Labor
+The key point in protecting child labor is that boys and girls under 14 cannot be employed in factories. This is because that age is naturally the period for compulsory education. Subsequently, for minors aged 15 to 18, dangerous tasks are prohibited, and they are legally entitled to more break time than adult men (壯丁). Depending on the country, factory owners also have an obligation to provide vocational supplementary education (實業補習敎育) to these boys and girls. Female labor receives special protection because it particularly relates to childbirth, child-rearing, and the physique of the second-generation citizens. Important conditions of this protection include:
+(1) Prohibition of work inside mine pits (鑛山坑內)
+(2) Prohibition of night work (심야업)
+(3) Prohibition of employment for 5 to 8 weeks postpartum (産後)
+(4) Right to 1 month leave prepartum (産前)
+(5) System for delivery expenses (分娩費) and childbirth allowances (출산수당금)
+Besides these, to protect the infants (嬰兒) of women working in factories, break times for nursing are provided. All this pre- and post-partum protection is given regardless of whether the child is illegitimate or not.
+Above, I have introduced the global situation regarding labor issues very briefly. Finally, it must be noted that in Chosŏn, almost none of these facilities and systems have been adopted yet, and the lives of the working class exhibit the extremes of misery (悲慘의 極을 呈하고 잇다). <93>
+<90-93>
+
+**Summary**
+
+This 1931 article provides an overview of labor rights and protections established in "advanced nations" (primarily Western countries and the Soviet Union) as a benchmark against which the situation in colonial Korea (Chosŏn) is contrasted. It outlines five key areas: the right to organize and strike, minimum wage and working hours, old age/unemployment insurance, accident compensation/health, and protection for child/female labor. The author details the principles and mechanisms behind these rights, such as collective bargaining, factory acts, social insurance schemes, and specific protections for vulnerable groups, while repeatedly emphasizing that such standards are almost entirely absent in Korea, leaving workers in a "primitive" and "miserable" state under a "semi-autocratic" political system.
+
+From a historical perspective, the article is significant for highlighting the growing awareness of international labor standards among Korean intellectuals during the colonial period. It implicitly criticizes the colonial government and employers for failing to implement basic worker protections common elsewhere. The detailed description of rights like the 8-hour day, minimum wage, social insurance, and specific protections for women and children provides a clear picture of the aspirations of the nascent Korean labor movement and the stark reality of exploitation faced by Korean workers. Historians would find the comparison with international standards, the mention of specific international labor bodies, and the pessimistic assessment of the Korean situation under Japanese rule particularly interesting.
+
+**Named Entities**
+
+勞農聯邦	노농연방	Nonong Yŏnbang (Labor-Farmer Federation / Soviet Union)
+朝鮮	조선	Chosŏn (Korea)
+歐米各國	구미각국	Kumi Kakkuk (European and American countries)
+암스텔담	암스테르담	Amsŭt'erdam (Amsterdam)
+우트레히트	위트레흐트	Wit'ŭrehŭt'ŭ (Utrecht)
+모스코	모스크바	Mosŭk'ŭba (Moscow)
+巴里平和條約	파리평화조약	P'ari P'yŏnghwa Choyak (Treaty of Paris / Treaty of Versailles labor provisions)
+米國	미국	Miguk (United States)
+獨逸	독일	Togil (Germany)
+英國	영국	Yŏngguk (United Kingdom)
+蘇聯	소련	Soryŏn (Soviet Union)
+
+**Glossary**
+
+勞働	노동	Labor (Older spelling/Hanja form)
+勞働問題	노동문제	Labor issues/problems
+槪觀	개관	Overview
+長足進步	장족진보	Great progress, rapid advance
+勞農聯邦	노농연방	Labor-Farmer Federation (term often used for the Soviet Union)
+昔日의 比	석일의 비	Comparison to the past/former days (比 = comparison)
+半專制的	반전제적	Semi-autocratic, semi-despotic
+頻頻하야	빈빈하여	Frequently (Older spelling/particle usage)
+自然發生的	자연발생적	Naturally occurring, spontaneous
+識者階級	식자계급	Intelligentsia, the educated class
+前途遙遠	전도요원	Long way to go, distant future prospects
+現制度下	현제도하	Under the current system
+團結權	단결권	Right to organize, right of association
+罷業權	파업권	Right to strike
+雇主	고주	Employer
+唯一	유일	Only, sole
+同盟罷業	동맹파업	Collective strike, union strike
+永續化	영속화	Perpetuation, making permanent
+結社	결사	Association, society, organization
+歐米各國	구미각국	European and American countries
+猛然히	맹렬히	Fiercely, vigorously (히 is adverbial suffix)
+聯孟體	연맹체	Federation, league body (Older form of 연맹체)
+立案	입안	Drafting (a plan or law)
+怠業	태업	Slowdown strike, work-to-rule, sabotage
+爭議調停法	쟁의조정법	Labor Dispute Mediation Act
+仲裁	중재	Arbitration, mediation
+旣得權	기득권	Vested rights, established rights
+亘하다	긍하다	To span, extend over, cover (Used with 에: ~에 긍하다)
+酷使	혹사	Exploitation, working someone hard, overuse
+小切手	소절수	Check, cheque (Sino-Korean term)
+手形	수형	Promissory note, bill (Sino-Korean term)
+遲刻	지각	Lateness, tardiness
+過怠金	과태금	Fine, penalty for neglect/delay
+最低賃金制	최저임금제	Minimum wage system
+期時其國	기시기국	At that time, in that country (Archaic phrase used in quoting treaty text)
+피고자	피용자	Employee (Older term, now 피용자 or 근로자 used)
+準行하다	준행하다	To comply with, follow, adhere to (a standard or law)
+公休	공휴	Public holiday
+土曜半休	토요반휴	Saturday half-holiday
+老廢	노폐	Old age and infirmity/disability
+恩給法	은급법	Pension law
+年限	연한	Term, period of years
+簡易保險	간이보험	Simple/simplified insurance
+廢疾	폐질	Disability, infirmity, crippling disease
+被用人	피용인	Employee (Formal/legal term)
+被保險者	피보험자	Insured person
+國庫補助金	국고보조금	State subsidy, treasury grant
+扶助料	부조료	Assistance payment, aid money
+遂行하다	수행하다	To perform, carry out, execute (a task)
+家族扶助金	가족부조금	Family support payment/allowance
+施療	시료	Medical treatment (Sino-Korean term)
+療養費	요양비	Recuperation expenses
+葬祭料	장제료	Funeral expenses
+一時扶助料	일시부조료	Lump-sum assistance payment
+過失	과실	Negligence, fault, error
+非健康的	비건강적	Unhealthy
+掃除	소제	Cleaning (Older pronunciation/spelling, now 청소)
+坑內	갱내	Inside a mine pit
+심야업	심야업	Night work, late-night shift
+産後	산후	Postpartum, after childbirth
+産前	산전	Prepartum, before childbirth
+分娩費	분만비	Delivery expenses, childbirth costs
+嬰兒	영아	Infant, baby
+呈하다	정하다	To present, show, exhibit (a state or condition)
+悲慘	비참	Misery, wretchedness
+
+
+---------------------------
+
+
+잡지명	동광 제23호
+발행일	1931년 07월 05일
+기사제목	東光大學講座, 제4강 勞働農民篇-勞働問題槪觀
+기사형태	논설
+
+東光大學講座, 제4강 勞働農民篇-勞働問題槪觀
+최근의 노동문제는 노동자의 자각적 활동과 국제노동국 등의 국제적 노동조건 개선운동으로 인하야 長足進步가 잇엇다. 勞農聯邦과 같은 나라는 노동자가 직접 정권을 잡고 잇으니까 더 말할 필요도 없고 그러치 아니한 다른 나라들에 잇어서도 노동자의 권리와 대우는 昔日의 比가 아니다. 朝鮮에서는 극히 최근에 와서야 노동운동이 일어 낫고 또 일반 정치가 半專制的임에 따라 노동조건은 극히 원시적인 상태를 벗어나지 못하고 잇다. 최근 불황의 심각화 함을 따라 파업이 頻頻하야 이 역시 자연발생적임으로 파업의 권리, 또는 단결의 권리도 보장됨이 없고 그 조건은 대개가 임금에 관한 문제가 주요한 것이 되어 잇다. 물론 識者階級의 지도에 의해서는 그 중에 여러 가지 대우개선 조건이 나오기도 하나 이것은 실제적으로 효과가 잇기를 기대하기보다도 교육적 효과가 잇다고 볼 것이다. 최저임금제라든가 8시간 노동제라든가 기타 여러 가지 문제가 朝鮮의 현상에 잇어서는 前途遙遠의 감이 업지아니하다. 이제 現制度下에 잇서서 先進諸國의 노동자가 획득해 잇는 노동자의 권익문제에 윤곽을 그려 보려 한다. 노동문제는 大凡 左記 5개의 범위 안에 포괄된다.
+단결권과 파업권
+최저임금과 노동시간제한
+老廢와 실업의 보험
+재해보상과 보건
+소년 及 여자 노동보호
+
+1. 團結權과 罷業權
+今日 자본주의는 계약의 자유라는 것을 신성불가침의 원칙으로 하고 잇다. 그러나 산산히 흐터저 잇는 노동자와 雇主사이에서는 雇主가 사람을 雇入하는 자유가 잇지마는 노동자는 오직 일을 그만두는 자유밖에 없다. 그러므로 雇主는 자기의 욕심대로 얼마든지 가혹한 노동조건으로 노동자를 사용할 수 잇게 되엇다. 이에 대해서 노동자는 개인개인이 반항을 햇자 실직 밖에는 아무 결과가 없는 것을 깨다랏다. 그래서 그들은 단결이 唯一의 무기인 것을 알앗다. 단결의 힘으로 대우개선 혹은 유지를 요구하고 듣지 아니하면 동맹파업을 해서 雇主의 생산을 일시정지 시킴으로서 그를 항복받는 것이다. 雇主는 물론 그 노동자를 해고하고 다른 노동자를 雇備할 수 잇으나 만일 同職業에 종사하는 노동자 전체가 단결을 굳게 하야 잇고 또 각 직업에 종사하는 전국 노동자가 다 일치단결해서 雇主의 꾀임에 빠지지 아니한다 하면 노동자는 승리할 것이다. 이와 같이 단결에 의한 투쟁의 효과가 잇는 것을 ＜90＞ 볼 때에 그 단결을 永續化하야 조합과 같은 결사를 조직하게 될 것은 자명한 이치다.
+그런데 이와 같이 노동자가 직업적으로 結社를 조직하는데 대하야 처음에는 정부당국이 대개는 「계약의 자유」를 침범한다는 이유로 금지하엿섯다. 그러나 노동자는 그 금지에도 불구하고 결사를 조직하고 파업을 속행하게 됨으로 점차로 그러한 금지 법율이 폐지되어 19세기 후반에 잇어서는 歐米各國에서 노동자의 結社와 파업의 자유가 어느 정도까지 공인되어 노동운동이 猛然히 진보되게 되엇다.
+그리하야 우선 한 공장 안에 잇는 노동자가 단결하야 조합을 조직하고 다음에는 각 조합의 연맹체가 생기며 전국적 노동자의 산업별 조직이 생기게 되고 최후로는 국제적 연합까이 생기게 되엇다.
+이 같이 노동조합이 성대해 지는 동시에 국가는 이것을 묵인만 하지 말고 일보 進하야 이것을 법적으로 공인하고 그 행동을 통제하자는 생각이 생기나니 이것이 곳 노동조합법의 자유다. 이 노동조합법을 立案함에 잇어서는 세계 각국이 각각 그 태도가 달라 혹은 노동자에게 비교적 유리하게 된 것도 잇고 아주 노동자의 행동을 제한하도록 만든 것도 잇다. 이 입법에 잇어서 가장 중요한 것은 물론 노동자의 동맹파업권을 인정하느냐 아니 하느냐 하는 점에 잇거니와 今日 文明諸國에 잇어서는 원칙상으로 동맹파업권을 인정치 않는 곳은 없다.
+동맹파업은 작업을 전혀 중지하는 방법과 또는 중지는 아니하고 怠業함으로서 하는 두 가지 전술이 잇다. 물론 폭력행위라든가 기구 파괴 행위 같은 것은 형법상으로 제재를 받는 것이지마는 질서정연한 파업은 이를 법률적으로 시인하는 것이다. 이에 대하야 雇主側은 생산제한, 공장폐쇄라는 대항전술이 잇고 또 국가로서는 爭議調停法을 제정하야 그 仲裁를 꾀하며 필요가 잇는 때는 이를 강요하기도 한다.
+이와 같이 結社權과 罷業權은 현재 선진제국 노동자의 旣得權에 속한다. 세계주요 각국의 조합조직 현황은 다음과 같다.
+(1924년 말)
+또 노동조합의 국제적 연합으로는 3종이 잇다.
+노동조합 국제연합(암스텔담) 13,133,004인
+기독교 노조 국제연합(우트레히트) 2,112,109인
+적색노조 국제연합(모스코) 19,000,000인
+
+2. 최저임금과 시간제한
+노동자는 수세기에 亘하는 분투로서 최저 임금제와 노동시간제를 획득햇다. 금일 적어도 공장법을 실시하는 나라에 잇어서는 이 제도가 원칙상으로 시인되어 잇는 것이 사실이다. 아직 동양각국의 상황은 노동자의 무제한 酷使가 근절되지 않은 현상이나 국제노동회의는 이것을 동양에도 실시하기 위하야 노력 중이다.
+
+공장법에 임금에 관한 보호규정은 대개 이 멫 가지다.
+(1) 임금은 절대로 현금으로 지불하고 小切手, 手形, 혹은 ＜91＞ 식사, 주류 기타의 형으로 지불치 못한다.
+(2) 임금은 적어도 매월 1회 이상 지불해야 된다. 외국에서는 1주 1회로 규정한 것이 보통이다.
+(3) 강제저축하기 위하야 임금에서 떼어 내는 것은 관청의 인가가 잇어야 된다.
+(4) 罰金 또는 손해배상 등을 임금에서 削除하지 못한다. 단 遲刻, 及 설비파손에 대하야는 임금을 감할 수 잇게 되엇다. 과태금은 받을 수 잇으나 減額의 최고를 1일분의 반 이상을 넘지 못한다. 이 과태금은 공장주의 수입으로 하지 아니하고 대개 직공의 福利를 위해서 사용한다.
+(5) 최저임금제는 노동자의 자유경쟁에 의한 극단의 생활정도 저락을 방지하며 또는 가내공장, 여자 소아노동 등과 같이 雇主와 단결대항하기 어려운 계급에 대하야 부당히 싼 임금을 주는 것을 방지키 위하야 생긴 것이다. 巴里平和條約에 『期時其國에서 상당하다고 인정하는 생활정도를 유지하는데 족한 임금을 피고자에게 줄 것』을 일반원칙으로 한다. 米國各州의 법률에 의하면 최저임금은 일반 통상의 생활에 드는 비용과 및 건강과 행복을 유지하기에 족한 비용이라 햇다. 이리하야 1국가는 공공기관으로 이 생활비를 조사해서 일정한 표준을 세우면 이것이 법률이 되어 가지고 전국의 공장주는 이를 準行해야 하는 것이다. 만일 몰래 싼 임금을 준 공장주가 잇으면 그는 법의 재판을 받게 된다.
+최저임금 따문에 공장을 유지 못하는 곳이 잇다 하면 이런 공장은 노동자를 生活水準 이하로 떠러터리고야 존재할 것이니 그런 것은 잇는 것이 없는 것만 못한 공장일 것이다.
+노동시간 공장초기에 잇어서는 1일 15, 6시간에 및엇섯다. 그러다가 노동자가 자기의 권익을 주장하기 시작하므로부터 1일 8시간, 1週 48시간제라는 것이 今日의 원칙으로서 서게 되엇다. 理想으로는 6시간 7시간제를 주장하는 사람도 잇다. 국제노동조약에는 또 「1週 1回 계속 24시간의 휴가를 一切各種의 노동자에게 주라」는 조항이 잇으니 이는 곳 휴일제도다. 한거름 더 나가서 日曜公休外에 土曜半休까지 공장법에 넣자는 운동도 잇으며 蘇聯에서는 5일 1休 制度를 채용하고 잇다.
+이 8시간제며 휴일제도 노동자의 건강을 보호하기 위함은 물론이어니와 아직 동양 각국에는 엄격히 실행이 못되고 잇다.
+이러한 시간제한과 휴일제의 단행은 1노동자에게 여가를 주게 됨으로 진보된 나라에는 그 여가를 유용하게 보낼 각종의 휴양설비가 되어 잇다.
+
+3. 老廢失業의 救濟
+노동자가 노쇠하거나 폐인이 되어 노동력을 잃어버리거나 또는 생산의 감축으로 실업을 하게 될 때에 그들을 街頭에 그냥 내버려 두어 餓死하게 한다는 것은 사회적 불공평이라 하야 이에 대한 구제방법이 다소간이라도 강구되고 잇다.
+노쇠에 대하야는 소위 恩給法이 잇으니 이것은 일정한 年限 이상 봉사하고 퇴직한 사람에게 대하야 그 年數에 응하야 죽을 때까지 일정한 금액을 주는 법이다. 그러나 이 恩給은 대개 교원, 관리, 군인 등에 한하고 일반 피고인에게까지 및지 못하는 것이 사실이다. 이에서 보험제도가 발달되게 되엇다. 사설 보험회사가 잇으나 이것은 일반 노동자의 이용할 바 못되고 簡易保險 같은 것도 그 3, 400원의 만기금이 노쇠의 생활보장이 못 되는 것이 사실이다.
+獨逸에는 육체적 노동자 전부에 대하야 적용되는 老廢保險法이 잇다. 그것은 被用人을 被保險者로 하고 雇主와 當者가 보험료를 반식 내고 거기 國庫補助金을 첨부해서 廢疾된 뒤와 65세 이후의 노인에게 연금을 주도록 되어 잇다.
+실업보험제도도 이와 비슷하게 되어 잇어서 有職時에 노동자와 ＜92＞ 雇主와 정부가 보험료는 내다가 실직한 지 6일부터 실업수당을 주는 것이다. 英國의 예를 들자면 1週에 36錢식 보험료를 물어 가면 실업 한 뒤에는 그 20배 되는 7원 20전식 받는다. 물론 부양할 가족이 잇으면 좀 더 받게된다. 이같이 실업보험이 잇는 동시에는 직업소개소가 완비되어 실업자는 매일 아츰 직업소개소에 가서 직업을 받거나 실업수당을 받거나 하게된다.
+이 두 가지 보험제도가 비록 완전하지는 못하다하나 어느 정도까지 歐米 名國에는 시행이 되고 잇다. 그밖에 工場法은 노동자가 직업을 遂行하다가 질병에 걸리거나 부상을 받을 때는 休業扶助料를 주게 되엇고, 또 퇴직할 때에는 退職手當金을 주게 되어잇다. 休業扶助期間은 180일이요, 그 뒤에는 半減할 수 잇고 또 일시금으로 b03 吳斗煥, ＜＜韓國近代貨幣史＞＞, 韓國硏究院,0일분 이상의 급료를 줄 수도 잇다. 퇴직수당은 14일분 이상의 최소한도다.
+
+4. 재해보상과 보건
+공업이 複雜化함을 딸아 재해의 가능성이 많아지고 또 非健康的 상태가 많이 생긴다. 이것을 방지하기 위하야 工場法은 여러 가지 제한을 設햇다.
+여자 及 소년을 운동 중의 기계의 掃除, 기름주기 등을 못시킨다든가, 작업장에는 防火壁이 잇어야 한다든가, 避難口를 2개 이상 두어야 한다든가, 의복이 물려드러가기 쉬운 기계에서 作工하는 工人은 특수한 제복을 입혀야 한다든가ㅡㅡ이런 종류의 규정이 工場法에 잇으니 이는 재해를 방지하기 위함이다.
+職工이 업무상으로 부상을 하거나 병에 걸릴 때는 家族扶助金을 주어야하게 되어 잇다. 그 부조의 종류는 (1) 施療 혹은 요양비 (2) 休業扶助料 (3) 장해 부조료 (4) 유족 부조료 (5) 葬祭料 (6) 一時扶助料 등이 잇다. 이에 대하야 비록 부상의 과실이 노동자에게 잇다 하드라고 이 扶助料를 주도록 되어 잇으니 이것은 雇主가 부당하게 扶助料를 아니 주려고 돈 없는 노동자의 약점을 이용하야 재판을 오래 꿀게 하는 페단을 없이 하려 함이다.
+폐병 환자가 광산과 공장에서 많이 나며 공장의 종류를 쫓아서는 중독이 생기는 것도 많다. 이 때문에 공장 내의 위생설비를 개선하는 법률이 잇는 것이 사실이며 또 건강보험이 잇어서 평상시에 보험료를 내 두면 병에 걸릴 때에는 전연 무료로 치료를 받게 된다.
+이 밖에 의료의 사회화를 주창하야 무료 치료소, 實費機關의 출현을 促成하고 잇다.
+
+5. 少年及女子 勞働保護
+소년 노동보호의 요점은 14세 이하의 소년 소녀는 공장에서 사용을 못하게 되어 잇다. 그 연령에는 물론 의무교육을 받어야 할 시기인 까닭이다. 그 다음에 15세 이상 18세까지의 소년에 대해서는 위험한 공작을 못 시키며 또 휴계시간을 壯丁보다 더 맣이 주는 법이다. 그리고 나라에 따라서는 이 소년 소녀에게 대해서는 공장주가 實業補習敎育을 시켜 줄 의무가 잇다. 여자 노동은 그것이 특히 출산, 육아, 제2세 국민의 체질에 관계되는 것이기 때문에 특수한 보호가 잇다. 그 보호의 조건 중 중요한 것은
+(1) 鑛山坑內의 작업금지
+(2) 심야업 금지
+(3) 産後 5주간 내지 8주간 취업 금지
+(4) 産前 1개월 휴업의 권리
+(5) 分挽費 及 출산수당금 제도
+등이 잇다. 이 밖에 공장에 다니는 여자의 嬰兒를 보호하기 위하야 보육키 위한 휴계시간을 주며 이 모든 産前後의 보호는 사생아거나 아니거나를 막론하고 주도록 되어 잇다.
+이상 극히 간단하게 노동문제에 관한 세계의 現勢를 소개햇다. 끝으로 주의할 것은 朝鮮에는 아직 이러한 시설과 제도가 거이 하나도 채용됨이 없어 노동계급의 생활은 비참의 極을 呈하고 잇다고 하는 사실이다. ＜93＞
+＜90-93＞

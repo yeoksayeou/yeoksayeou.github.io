@@ -1,0 +1,100 @@
+Magazine Title:	동광 제4호
+Publication Date:	1926년 08월 01일
+Article Title:	참 (Truth)
+Author:	None specified
+Article Type:	잡저 (Miscellaneous Writing)
+
+Truth
+Falsehood is on the surface, and truth is deep within. (Goethe)
+
+Falsehood is most successful when it uses truth as bait. (Colton)
+
+Falsehood is cowardly. Truth is brave. (Ballou)
+
+Falsehood is easy, but truth is difficult. (Eliot)
+
+Truth in the heart is better than truth on the lips. (Proverb)
+
+Failure is the school that tempers truth and makes it stronger. (Beecher)
+
+Truth is strange. Stranger than fiction. (Byron)
+
+Truth may weaken, but it never perishes. (Proverb)
+
+Truth is the body of heaven, and light is its shadow. (Plato)
+
+Truth shines brighter when it wears plain clothes. (Pope)
+
+There is nothing stronger than truth, and nothing stranger than truth. (Webster)
+
+The greatest truths are usually simple. (Malesherbes) <15>
+
+**Summary**
+
+This article is a compilation of aphorisms and proverbs centered on the nature of truth ("참") versus falsehood ("거즛"). It draws quotes from various Western thinkers (Goethe, Colton, Ballou, Eliot, Beecher, Byron, Plato, Pope, Webster, Malesherbes) and includes traditional proverbs. The recurring themes emphasize that truth is profound, brave, difficult, enduring, powerful, often simple, and ultimately superior to falsehood, which is superficial, cowardly, easy, and deceptive. For historians, this piece reflects the intellectual currents among Korean elites during the colonial period, particularly their engagement with Western philosophical ideas and universal concepts like 'truth'. The selection of quotes emphasizing truth's strength and endurance might subtly reflect a desire for underlying truths or national identity to persevere despite the difficult political reality of colonization.
+
+**Named Entities**
+
+괴테	괴테	Goethe
+콜론	콜론	Colton
+발루	발루	Ballou
+엘이옷	엘이옷	Eliot
+바이처	바이처	Beecher
+바이론	바이론	Byron
+플라토	플라토	Plato
+포프	포프	Pope
+웹스터	웹스터	Webster
+멜서브스	멜서브스	Malesherbes
+
+**Glossary**
+
+거즛	거짓	Falsehood (Older spelling)
+것헤	겉에	On the surface; outside (Older spelling/form)
+기픈	깊은	Deep (Older spelling)
+잇나니라	있느니라	Exists; Is (Older grammatical form/spelling)
+미끼	미끼	Bait
+겁나니라	겁나느니라	Is cowardly (Older grammatical form/spelling)
+용감이니라	용감이니라	Is brave (Older grammatical form/spelling)
+어렵도다	어렵도다	Is difficult (Archaic/literary ending)
+§ˆ음	마음	Heart; mind (Symbol §ˆ likely represents 마; Older spelling variation)
+입셜귀	입술귀	Lips (Older spelling/form, 귀 might be suffix or part of compound)
+나흐니라	나으니라	Is better (Older spelling/form)
+단련하야	단련하여	Tempering; training; forging (Older spelling/form)
+굿세게	굳세게	Strongly; firmly (Older spelling)
+괴상하다	괴상하다	Strange; odd; eccentric
+쇠할	쇠할	To weaken; decline
+결코	결코	Never
+망하지는	망하지는	Perish; be destroyed (Followed by negative)
+안는다	않는다	Does not (Older spelling/form)
+…¸래	발가벗은? 알몸?	Nakedness; bareness (…¸ symbol unclear, context suggests 'plain' or 'naked' like 알몸)
+닙으면	입으면	If one wears (Older spelling)
+빗난다	빛난다	Shines (Older spelling)
+힘센	힘센	Strong; powerful
+업고	없고	And there is not (Older spelling/form of 없고)
+업다	없다	There is not (Older spelling/form of 없다)
+대개	대개	Usually; generally; for the most part
+단순하다	단순하다	Simple
+
+
+---------------------------
+
+
+잡지명	동광 제4호
+발행일	1926년 08월 01일
+기사제목	참
+기사형태	잡저
+
+참
+거즛은 것헤 잇고 참은 기픈 속에 잇나니라.(괴테)
+거즛은 참으로 미끼를 삼을 때에 가장 성공하나니라.(콜론)
+거즛은 겁나니라. 참은 용감이니라.(발루)
+거즛은 쉬우나 참은 어렵도다.(엘이옷)
+§ˆ음 속의 참이 입셜귀의 참보다 나흐니라.(속담)
+실패는 참을 단련하야 더 굿세게 하는 학교니라.(바이처)
+참은 괴상하다. 소설보다도 더 괴상하다.(바이론)
+참은 쇠할 때도 잇스나 결코 망하지는 안는다.(속담)
+참은 하늘의 몸이오 비츤 그 그림자로다(플라토)
+참은 …¸래의 옷을 닙으면 더욱 빗난다.(포프)
+참처럼 힘센 것이 다시 업고 참처럼 이상한 것이 또 업다.(웹스터)
+가장 큰 참은 대개 단순하다.(멜서브스)＜15＞
+＜15＞

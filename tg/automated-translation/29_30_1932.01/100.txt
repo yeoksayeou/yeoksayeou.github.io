@@ -1,0 +1,566 @@
+Magazine Title: 동광 제30호
+Publication Date: 1932-01-25
+Article Title: 特輯 朝鮮을 알자 其二, 장꾼의 來歷- 朝鮮의 市場制度 - (Special Feature: Let's Know Chosŏn, Part 2: The History of Market Traders - Chosŏn's Market System -)
+Author: 白南雲 (Paek Namun)
+Article Type: 논설 (Editorial/Essay)
+
+1
+
+Chosŏn's market system is directly related to the development history of the economic life of the Chosŏn people. In other words, it can be seen as constituting a historical category concerning the economic development of the Chosŏn people. Therefore, it is a matter that draws significant interest from the perspective of economic history or social history.
+To speak more concretely, at the developmental stage of the social life of the Chosŏn people, it served as a crucial turning point that cannot be overlooked economically, politically, or culturally, involving the transition between natural economy and monetary economy, the abnormal rise and fall of the monetary economy, the class-based formation of the urban economy, the primitive accumulation of commercial capital, the hidden prevalence of usurious capital, the feudalistic exactions of the ruling class, and trade relations with foreign countries. However, as analyzing the entirety of the market system here is too broad, I intend only to discuss its important outlines.
+
+2.
+
+Chosŏn's markets can be historically divided into three types: *Kyŏngsi* (Capital Markets), *Hyangsi* (Rural Markets), and *Kwansi* (Border Markets).
+*Kyŏngsi* refers to government-established markets in the royal capital. According to historical records, its origin seems to be the *Kyŏngsa si* (Capital City Market) established in the 12th year of King Soji of Silla (490 CE). <24> This was renamed *Tongsi* (East Market) in the 10th year of King Chijŭng (509 CE), and it is said that *Sŏsi* (West Market) and *Namsi* (South Market) were additionally established in the 4th year of King Hyoso (695 CE). Furthermore, it is said that supervisory government offices, the *Tongsijŏn*, *Sŏsijŏn*, and *Namsijŏn*, were established. These likely handled matters concerning market opening and closing times, standards for weights and measures (*sŭngdu*), disputes among merchants, crime, collection and delivery of public goods, and tax collection. Also, it is said that each *sijŏn* (market office) had officials called *Sigam* (Market Supervisor, 2 persons) and *Sain* (Clerk, 2 persons), indicating a system of trade licensing and allowing us to infer the ruling relationship of the official class over merchants. Silla culture was the pinnacle of ancient Chosŏn, and its cultivation was necessarily rooted in the class-based development of economic productivity. Its government-established markets must have truly been exhibition halls of the total productive forces.
+
+3.
+
+Entering the Koryŏ period, a time of decentralized aristocratic politics, societal productive capacity and industrial technology adapted to class-based demand developed accordingly. High-quality goods such as porcelain, gold and silver crafts, lacquerware, and silk fabrics were increasingly produced. Thus, the government-licensed market districts (*sijŏn*) in Kaesŏng are said to have collectively formed long corridors of over a thousand bays (*yŏng*). This sufficiently allows us to imagine the prosperity of the capital markets. A *Kyŏngsisŏ* (Capital Market Office) was established, staffed with one *Yŏng* (Director) and two *Sŭng* (Deputies). We can discern similarities to the medieval European market system in aspects like price assessment, commercial trademarks, and tax collection.
+
+4.
+
+In the Yi Dynasty (Chosŏn) period, the *Kyŏng sijŏn* (Capital Licensed Market) is said to have first been established in the first year of King Chŏngjong (1399 CE). The left and right covered corridors (*haengnang*) extending from Hyejŏng Bridge to the entrance of Ch'angdŏk Palace neighbourhood reached over 800 *kan* (bays), and these corridors were divided into individual shops (*chŏnp'o*). Among these, the most famous were the Six Licensed Stores (*Yukchŏn*). These were the Silk Store (*Sŏnjŏn*, commonly called *Ipchŏn*), Cotton Cloth Store (*Myŏnp'ojŏn*, also called *Ŭnmokchŏn*), Silk Pongee Store (*Myŏnchujŏn*), Inner Fish Market Store (*Naeŏmuljŏn*), Blue Cloth Store (*Ch'ŏngp'ojŏn*), Paper Store (*Chijŏn*), and Ramie Cloth Store (*Chŏp'ojŏn*). Because they were collectively called *Yukchubi-jŏn* (六注比廛), they were later also called *Yugŭijŏn* (六矣廛), using the *hun* (semantic reading) of the Hanja characters. Besides these, there were nearly 90 shops, such as the Tobacco Store (*Yŏnch'ojŏn*), Wooden Chest Store (*Sangjŏn*), Fresh Fish Store (*Saengsŏnjŏn*), Clothing Store (*Ŭijŏn*), Rice Store (*Mijŏn*), Silver Store (*Ŭnjŏn*), Spoon and Chopstick Store (*Sijŏjŏn*), Long Wood Store (*Changmokchŏn*), Ironware Store (*Ch'ŏlmuljŏn*), Fur Store (*Mojŏn*), Cooling Platform Store (*Nyangdaejŏn*), Side Dish Store (*Chwabanjŏn*), Cattle Store (*Ujŏn*), Live Pheasant Store (*Saengch'ijŏn*), Bridal Headpiece Store (*Chokturijŏn*), Birch Bark Store (*Hwap'ijŏn*), etc., each specializing in selling only the single item listed in its respective licensed store register (*chŏnan*). The fact that they were specialized permanent shops differs slightly from what is commonly called a market, but this was the basic form of the Yi Dynasty's capital market system. The Ihyŏn Market and the market outside Soŭimun Gate were established later. There was also a supervisory office, the *P'yŏngsisŏ* (Market Stabilization Office), with officials including one *Yŏng* (Director), one *Chikchang* (Registrar), and one *Pongsa* (Attendant), which had the same functions as the Koryŏ Dynasty's *Kyŏngsisŏ*: managing the licensed stores, inspecting weights and measures, regulating prices, requisitioning public goods, collecting taxes, and so on.
+The aforementioned three markets of Kyŏngju, the long-corridor licensed markets of Kaesŏng, and the *Yugŭijŏn* of Kyŏngsŏng (Seoul) truly form the historical axis of Chosŏn's capital market system.
+
+5.
+
+*Hyangsi* refers to officially recognized markets scattered throughout the provinces, and their origins are likely the oldest. As their opening dates are the 1st and 6th, 2nd and 7th, 3rd and 8th, 4th and 9th, and 5th and 10th days of the month, occurring every five days, they are sometimes called *O-il si* (Five-Day Markets). Even today, with the strengthening of foreign capitalism, medieval-style *Hyangsi* are scattered throughout all provinces of Chosŏn, numbering over 1,300 locations, and their total sales value is said to reach over 178 million Won. This shows the importance of the *Hyangsi* and, at the same time, allows us to understand the unique characteristics of the Chosŏn economy.
+
+6.
+
+The most interesting figures appearing in the *Hyangsi* are probably the *Pobusang* (Package and Back-rack Merchants). *Posang* (Package Merchants) were traveling merchants (*yŏsang*) who wrapped goods like cloth, silk, and miscellaneous items in bundles (*pottari*), carried them on their backs (*tŭnge ŏlmego*), and traveled through various markets selling them retail. *Pusang* (Back-rack Merchants) were peddlers (*haengsang*) who carried goods like pottery, lacquerware, salt, straw shoes, dried fish, and other daily necessities on A-frames (*chige*) and visited the five-day markets in various places. These *Pobusang* were caravan merchants (*taesang*) who dared the risks of pursuing profit while also possessing a sense of camaraderie forged through friendship and loyalty. Thus, they displayed their collective power as <25> protectors of the royal house on more than one occasion. Ultimately, their political influence culminated in the dramatic spectacle they staged in confrontation with the Independence Club faction in November 1898 as a conservative, nationalist group. The blatant, daytime robbery-like extortion of *Hyangsi* merchants by officials of the *Sangniguk* (Bureau of Commerce), the headquarters of the *Pobusang*, and its successor, the *Sangmusa* (Office of Commercial Affairs), under the pretext of the "one-percent tax" (*paegilse*), embodied the death throes of a collapsing feudal society, where the ruling groups pushed the *Pobusang* to the forefront to exploit the working masses.
+
+7.
+
+A type of *Hyangsi* called *Yangnyŏngsi* (Herbal Medicine Market) exists. It differs slightly from ordinary markets in that it opens only once or twice a year, the opening period lasts for more than a month, and the traded goods are mostly medicinal herbs. Therefore, this *Yŏngsi* is perhaps similar to the periodic fairs (Fairs) of Europe. The Taegu *Yangnyŏngsi* is the most famous. Regarding its origin, it is said that the first ones were established by government order in the 9th year of King Hyojong of the Yi Dynasty (1658 CE) in Taegu, Chŏnju, and Wŏnju as central markets for the three provinces that were major producers of medicinal herbs: Kyŏngsang, Chŏlla, and Kangwŏn. Later, markets were also opened in places like Kongju, Ch'ŏngju, Chinju, Ch'ungju, and Taejŏn, but they all failed to thrive, and only the Taegu and Chŏnju *Yangnyŏngsi* remain today.
+The Taegu *Yangnyŏngsi* previously opened mostly in spring and autumn, but now it only opens for one month during the 12th lunar month. The Chŏnju *Yangnyŏngsi* opens from the 10th day of the 11th lunar month until the end of the 12th lunar month, or sometimes until the end of the 2nd lunar month of the following year. According to recent surveys of the medicinal herbs and sales value at the *Yangnyŏngsi*, the Taegu *Yangnyŏngsi* reached over 6,172,000 Won, and the Chŏnju *Yangnyŏngsi* reached approximately 4,199,000 Won. However, due to the development of transportation infrastructure, the spread of new Western medicine, and the increase in permanent shops, the future of the *Yangnyŏngsi* will likely only follow a path of decline.
+
+8.
+
+*Kwansi* (Border Markets) are special markets where trade institutions were officially established in specific zones for the purpose of mutual trade with foreign countries, exchanging domestic and foreign local products based on trade agreements. The *Hosi* (mutual market) system found in literature refers precisely to this. Its origins date back to the Three Han period, and thereafter, through the successive dynasties of Silla, Koryŏ, and Yi, it followed a winding path according to the ebb and flow of external political relations.
+Among these, the most notable aspect of Chosŏn's trade history is likely the sea and land trade conducted with various foreign countries such as Song, Liao, Jin, Mongol, and Japan throughout the Koryŏ Dynasty. In maritime trade (*haesang*), Koryŏ maintained peaceful and trustworthy sea trade relations with Song, with contacts continuing uninterrupted every year. During the reigns of King Hyŏnjong and Munjong, government facilities like the Yŏngbingwan, Hoesŏngwan, Obingwan, Ch'ŏnghagwan, and Chojonggwan were established in Kaesŏng to welcome and send off foreign trade envoys, negotiate foreign trade policies, and trade respective local products. In land trade (*yuksang*), trade with Liao was important. The *Yoguk Muyŏgwŏn* (Liao Trade Office), established by the government in the 16th year of King Munjong (1062 CE), is one example, and the so-called *Kwŏnjang* was a licensed monopoly market granted to Liao and Jin land merchants.
+In short, sea and land trade flourished most through the *Kwansi*, and besides this legal *Hosi*, there was also much illicit trade (*milsang*). Thus, if one were to speak of the prosperous period of Chosŏn's foreign trade, it would be the Koryŏ Dynasty, and if one were to speak of the accumulation of commercial capital by merchants from Kaesŏng and Ŭiju, it would also be during this time.
+
+9.
+
+Entering the Yi Dynasty, the establishment of trade posts (*muyŏkso*) in Kyŏngsŏng and Kyŏngwŏn in the 6th year of King T'aejong (1406 CE) marked the beginning of *Kwansi*. In the 26th year of King Sŏnjo (1593 CE), as a measure to regulate food supplies during wartime, the opening of the Chunggang market (*Chunggang kaesi*) was requested to import rice from Liaodong. Later, in the 24th year of King Injo (1646 CE), the periods for the Chunggang market were set for the 3rd and 9th lunar months, and trade primarily involved goods like cattle, horses, salt, <26> and iron. However, the types and quantities of trade goods changed somewhat through successive reigns. According to the regulations (*chŏngnye*) during King Yŏngjo's reign, they were as follows:
+Cattle: 200 head; Kelp (*haedae*): 15,795 *kŭn* (斤); Sea cucumber (*haesam*): 2,300 *kŭn*; Cotton cloth (*myŏnp'o*): 373 *p'il* (匹); Hemp cloth (*po*): 175 *p'il*; White paper (*paekchi*): 8,400 rolls (*kwŏn*, 卷); Heavy paper (*changji*): 600 rolls; Salt (*yŏm*): 310 *sŏk* (石); Plowshares (*posip*, 犁口): 194 units; Pottery (*sagi*): 330 *chuk* (竹, 1 *chuk* = 10 pieces), etc.
+The payment for the above goods was reportedly received in equivalent value (*chŏlka*) using Qing Dynasty blue cloth (*ch'ŏngp'o*). However, after the official regulated trade concluded, private merchants engaged in secret buying and selling; this was called the *Chunggang Husi* (Post-Chunggang Market). Furthermore, after the envoys heading to Beijing passed through the border gate (*P'engmun*), merchants from Ŭiju and Songdo (Kaesŏng) followed secretly; this was called the *P'engmun Husi* (Post-Gate Market).
+The Northern Border Market (*Pukkwan kaesi*) is said to have started after the 15th year of King Injo (1637 CE). Among these, Hoeryŏng held a market annually, while Kyŏngwŏn held one every other year. The regulations for the Hoeryŏng market (*Hoesi*) were: Cattle 140 head, Plows (*yŏ*, 犁) 2,600 units, Cauldrons (*pu*, 釜) 55 units. "The regulations for the Kyŏngwŏn market (*Wŏnsi*) were: Cattle 50 head, Plows 46 units, Cauldrons 55 units." At that time, the trading merchants at the Northern Border Market reached 600, and the number of horses, cattle, and camels was counted at over 1,140, allowing us to imagine the prosperity of the trade. Although the regulated goods were traded at the guesthouse (*kaekkwan*) under the supervision of dispatched officials (*ch'agwan*, *ch'asaewŏn*) and local officials, we can easily surmise that the abuses related to providing for the visiting merchants from afar were severe. Not only that, but considering that the value of the common people's produce like salt, iron, cattle, and farming tools was exchanged for items like sheepskin coats, deerskin, and blue cloth, it appears that only the clothing of the ruling class shone, while the working masses suffered double exploitation.
+
+10.
+
+Regarding the Japanese Enclave Market (*Waegwan kaesi*) during the Yi Dynasty period, the opening of the Three Ports (*Samp'o*: Pusanp'o - Pusan, Chep'o, Yŏmp'o) during King Sejong's reign is said to be the first instance. Subsequently, throughout the successive reigns, it was fraught with issues, the Three Ports Disturbance (*Samp'o Waeran*) of the 5th year of King Chungjong (1510 CE) being a prominent example. After the Imjin War, it was completely severed, but in the first year of King Kwanghae (1609 CE), the Pusanp'o market was finally reopened. At the same time, 20 annual trade ships (*segyŏnsŏn*) were permitted, and it is said that those without a certificate from the Tsushima lord and those who used sea routes other than Pusanp'o were charged as pirates.
+Thus, Japanese merchants could enter and exit the Japanese enclave (*Waegwan*) only with a permit (*t'ŭkhŏp'ae*) from the Magistrate of Tongnae (*Tongnaebusa*). On specific market days (*kaesiil*), under the supervision of officials such as the *Hundo* (Instructor), *Pyŏlch'agwan* (Special Envoy), *Susegwan* (Tax Collector), and *Kamsigwan* (Market Inspector), various items were traded at a special institution called the *Waep'o Taech'ŏng* (Japanese Shop Administrative Hall). Afterward, everyone had to leave the hall (*ilche t'oech'ŏng*) and return to the enclave area, and clandestine trade (*chamsang*) was strictly prohibited. Recalling the mutual trade (*hosi*) system of the *Waegwan si* today, when foreign capitalism is turning the mountains and rivers of the peninsula into a market, there is indeed much poignant reflection on the changing circumstances of the nation. However, the inevitability of history proceeds through the process of market negation! <27>
+
+**Summary**
+
+This 1932 article by Paek Namun provides a historical overview of the Korean market system, categorizing it into capital markets (*Kyŏngsi*), rural markets (*Hyangsi*), and border/trade markets (*Kwansi*). It traces their origins and development from the Silla period through Koryŏ to the late Yi Dynasty (Chosŏn), highlighting key institutions like the licensed stores (*sijŏn*), the five-day markets (*O-il si*), specialized markets like the *Yangnyŏngsi* (herbal medicine market), and official trade posts/enclaves for foreign exchange (*muyŏkso*, *Waegwan*). The author emphasizes the market system's deep connection to Korea's economic, social, and political history, including class formation, capital accumulation, and foreign relations. The piece notes the persistence of traditional *Hyangsi* even in 1932, underscores the role and complex history of *pobusang* merchants, and frames historical foreign trade, particularly during Koryŏ and the later restricted trade with China and Japan under the Yi Dynasty, as crucial but often exploitative processes. The article concludes with a reflection on the transformation of Korean markets under encroaching capitalism, suggesting an inevitable historical progression away from these traditional forms.
+
+From the perspective of Korean colonial history, the article is interesting for several reasons. Firstly, it was written by a prominent Korean Marxist historian, Paek Namun, offering insights into how Korean intellectuals analyzed their economic past during the Japanese occupation, emphasizing class dynamics, exploitation, and the transition between economic stages (natural vs. monetary, feudal vs. capitalist). Secondly, the detailed account of traditional market structures (*Kyŏngsi*, *Hyangsi*, *Kwansi*) and associated groups like the *pobusang* provides valuable information on pre-modern and early modern Korean economic life, highlighting the resilience of indigenous systems even as they faced external pressures. Historians might find Paek's interpretation of the *pobusang*'s political role and the exploitative nature of late Chosŏn trade relations particularly noteworthy, reflecting a critical perspective on the waning dynasty and the conditions preceding colonization. The final sentence hinting at "market negation" under capitalism suggests a critique of the contemporary economic transformation driven by external forces.
+
+**Named Entities**
+
+白南雲	백남운	Paek Namun
+朝鮮	조선	Chosŏn
+新羅	신라	Silla
+炤智王	소지왕	Soji Wang
+京師	경사	Kyŏngsa
+智證王	지증왕	Chijŭng Wang
+東市	동시	Tongsi
+孝昭王	효소왕	Hyoso Wang
+西市	서시	Sŏsi
+南市	남시	Namsi
+東市典	동시전	Tongsijŏn
+西市典	서시전	Sŏsijŏn
+南市典	남시전	Namsijŏn
+高麗	고려	Koryŏ
+開城	개성	Kaesŏng
+京市署	경시서	Kyŏngsisŏ
+歐羅巴	구라파/유럽	Yurŏp'a (Europe)
+李朝	이조	Yi Cho (Yi Dynasty)
+定宗	정종	Chŏngjong
+惠政橋	혜정교	Hyejŏnggyo
+昌德宮洞口	창덕궁동구	Ch'angdŏkkung Tonggu
+六注比廛	육주비전	Yukchubijŏn
+六矣廛	육의전	Yugŭijŏn
+梨峴市場	이현시장	Ihyŏn Sijang
+昭義門 外 市場	소의문 외 시장	Soŭimun Oe Sijang
+平市署	평시서	P'yŏngsisŏ
+慶州	경주	Kyŏngju
+京城	경성	Kyŏngsŏng
+獨立協會	독립협회	Tongnip Hyŏphoe
+商理局	상리국	Sangniguk
+商務社	상무사	Sangmusa
+孝宗	효종	Hyojong
+慶尙	경상	Kyŏngsang
+全羅	전라	Chŏlla
+江原	강원	Kangwŏn
+大邱	대구	Taegu
+全州	전주	Chŏnju
+原州	원주	Wŏnju
+公州	공주	Kongju
+淸州	청주	Ch'ŏngju
+晉州	진주	Chinju
+忠州	충주	Ch'ungju
+大田	대전	Taejŏn
+宋	송	Song
+遼	요	Yo
+金	금	Kŭm
+蒙古	몽고	Monggo (Mongol)
+日本	일본	Ilbon (Japan)
+迎賓舘	영빈관	Yŏngbingwan
+會仙舘	회선관	Hoesŏngwan
+娛賓舘	오빈관	Obingwan
+淸河舘	청하관	Ch'ŏnghagwan
+朝宗舘	조종관	Chojonggwan
+遼國貿易院	요국무역원	Yoguk Muyŏgwŏn
+義州	의주	Ŭiju
+太宗	태종	T'aejong
+鏡城	경성	Kyŏngsŏng
+慶源	경원	Kyŏngwŏn
+宣祖	선조	Sŏnjo
+遼東	요동	Yodong (Liaodong)
+中江	중강	Chunggang
+仁祖	인조	Injo
+英祖	영조	Yŏngjo
+淸國	청국	Ch'ŏngguk (Qing China)
+北京	북경	Peiching/Pukkyŏng (Beijing)
+棚門	봉문	P'engmun/Pongmun (Border Gate)
+松都	송도	Songdo (Kaesŏng)
+會寧	회령	Hoeryŏng
+世宗	세종	Sejong
+富山浦	부산포	Pusanp'o
+釜山	부산	Pusan
+薺浦	제포	Chep'o
+鹽浦	염포	Yŏmp'o
+中宗	중종	Chungjong
+壬辰亂	임진란	Imjinran (Japanese Invasions of 1592-1598)
+光海	광해	Kwanghae
+東萊府	동래부	Tongnaebu
+倭舘	왜관	Waegwan (Japanese Enclave)
+倭舖大廳	왜포대청	Waep'o Taech'ŏng
+
+**Glossary**
+
+市場制度	시장제도	Market system
+經濟生活	경제생활	Economic life
+發展史	발전사	Development history
+歷史的 範疇	역사적 범주	Historical category
+自然經濟	자연경제	Natural economy
+貨幣經濟	화폐경제	Monetary economy
+轉換關係	전환관계	Transition relationship
+畸形的 消長	기형적 소장	Abnormal rise and fall
+階級的	계급적	Class-based
+商業資本	상업자본	Commercial capital
+原始的 蓄積	원시적 축적	Primitive accumulation
+高利貸資本	고리대자본	Usurious capital
+潛行的 跋扈	잠행적 발호	Hidden prevalence/rampancy
+支配階級	지배계급	Ruling class
+封建的 誅歛	봉건적 주렴	Feudalistic exaction/levy
+通商關係	통상관계	Trade relations
+看過	간과	Overlook
+輪廓	윤곽	Outline
+區分	구분	Division; classification
+京市	경시	Capital market
+鄕市	향시	Rural/provincial market
+關市	관시	Border/trade market
+王都	왕도	Royal capital
+官設市場	관설시장	Government-established market
+史乘	사승	Historical records
+徵據	징거	Base upon evidence; cite
+開設	개설	Establishment; opening
+增設	증설	Additional establishment
+監督官廳	감독관청	Supervisory government office
+市典	시전	Market administrative office (Silla)
+市場開閉	시장개폐	Market opening and closing
+升斗	승두	Measuring containers (for grain/liquid); measure standards
+紛爭	분쟁	Dispute
+公需物	공수물	Publicly needed goods; government supplies
+徵納	징납	Collection and payment (of taxes/goods)
+收稅	수세	Tax collection
+市監	시감	Market supervisor (Silla official)
+舍人	사인	Clerk (Silla official)
+交易	교역	Trade; exchange
+特許制度	특허제도	Licensed system; patent system
+官吏階級	관리계급	Official class; bureaucracy
+古代	고대	Ancient times
+精華	정화	Pinnacle; essence
+培養	배양	Cultivation; fostering
+生産力	생산력	Productive forces
+展覽會場	전람회장	Exhibition hall
+分權的	분권적	Decentralized
+貴族政治	귀족정치	Aristocratic politics
+需用	수용	Demand; need
+工業技術	공업기술	Industrial technology
+磁器	자기	Porcelain; ceramics
+金銀細工品	금은세공품	Gold and silver crafts
+漆器	칠기	Lacquerware
+絹帛	견백	Silk fabrics
+官設市廛	관설시전	Government-established licensed shops/market district
+集團的	집단적	Collective; group
+長廊	장랑	Long corridor
+殷盛	은성	Prosperity; flourishing
+京市署	경시서	Capital Market Office (Koryŏ, Chosŏn)
+令	영	Director (official title)
+丞	승	Deputy (official title)
+物價	물가	Prices (of goods)
+評定	평정	Assessment; evaluation
+標識	표식	Mark; sign; trademark
+徵稅	징세	Tax collection
+市廛	시전	Licensed government shops (esp. in the capital)
+行廊	행랑	Covered walkway; corridor attached to a building
+廛舖	전포	Shop; store (esp. licensed)
+著名	저명	Famous; well-known
+縇廛	선전	Silk store
+立廛	입전	Standing store (common name for Sŏnjŏn)
+綿布廛	면포전	Cotton cloth store
+銀木廛	은목전	Silver(-traded) cotton store (alternative name for Myŏnp'ojŏn)
+綿紬廛	면주전	Cotton pongee/silk store
+內魚物廛	내어물전	Inner fish market store
+靑布廛	청포전	Blue cloth store
+紙廛	지전	Paper store
+苧布廛	저포전	Ramie cloth store
+六注比廛	육주비전	The Six Licensed Stores (original Hanja)
+六矣廛	육의전	The Six Licensed Stores (later Hanja, phonetic/semantic borrowing)
+煙草廛	연초전	Tobacco store
+床廛	상전	Wooden chest/furniture store
+生鮮廛	생선전	Fresh fish store
+衣廛	의전	Clothing store
+米廛	미전	Rice store
+銀廛	은전	Silver store
+匙箸廛	시저전	Spoon and chopstick store
+長木廛	장목전	Long wood/lumber store
+鐵物廛	철물전	Ironware store
+毛廛	모전	Fur/wool store
+凉臺廛	양대전	Cooling platform/bench store
+佐飯廛	좌반전	Side dish store
+牛廛	우전	Cattle store
+生雉廛	생치전	Live pheasant store
+簇頭里廛	족두리전	Bridal headpiece (*chokturi*) store
+樺皮廛	화피전	Birch bark store
+廛案	전안	Register/ledger of licensed shops
+專賣	전매	Monopoly sale; specialization
+分科的	분과적	Specialized by category
+常設廛舖	상설전포	Permanent licensed shop
+基本形態	기본형태	Basic form
+增設	증설	Additional establishment
+平市署	평시서	Market Stabilization Office (Chosŏn)
+直長	직장	Registrar (official title)
+奉事	봉사	Attendant (official title)
+監理	감리	Supervision; management
+斗量	두량	Weights and measures
+檢察	검찰	Inspection
+調節	조절	Regulation; adjustment
+應徵	응징	Requisition; levy
+職能	직능	Function; role
+機軸	기축	Axis; pivot
+散在	산재	Scattered
+公認市場	공인시장	Officially recognized market
+起源	기원	Origin
+오랠	오랠/오래일	(Archaic form) Be old; long time
+5日市	오일시	Five-day market
+外來 資本主義	외래 자본주의	Foreign capitalism
+强大化	강대화	Strengthening
+中世紀的	중세기적	Medieval-style
+全道	전도	Entire province(s); the whole country
+箇 所	개소	Place; location; counter for places
+賣買總額	매매총액	Total sales value
+達하다	달하다	Reach; amount to
+特殊性	특수성	Unique characteristic; particularity
+登場人物	등장인물	Characters (appearing on stage); figures
+興味	흥미	Interest
+褓負商人	보부상인	Package (*posang*) and back-rack (*pusang*) merchants
+布木	포목	Cloth goods
+紬緞	주단	Silk fabrics
+雜貨	잡화	Miscellaneous goods
+褓	보	Wrapping cloth; bundle (*pottari*)
+얼메고	얽매고/짊어지고	(Archaic/Dialect form) Tie and carry on the back; shoulder
+循歷	순력	Travel around; tour
+散賣	산매	Retail sale; selling in small quantities
+旅商	여상	Traveling merchant
+陶器	도기	Pottery; earthenware
+漆器	칠기	Lacquerware
+食鹽	식염	Salt (edible)
+草鞋	초혜	Straw shoes
+乾魚	건어	Dried fish
+日用品	일용품	Daily necessities
+지게	지게	A-frame carrier
+巡訪	순방	Visit in turn; make rounds
+行商	행상	Peddling; peddler
+追利	추리	Pursuit of profit
+冒險	모험	Risk; adventure
+敢行	감행	Dare to do; carry out boldly
+友誼	우의	Friendship
+忠義	충의	Loyalty; faithfulness
+鍜鍊	단련	Forging; training; tempering
+同類意識	동류의식	Sense of fellowship; group consciousness
+隊商	대상	Caravan; group of traveling merchants
+王室	왕실	Royal family; royal house
+落屛	낙병	(Meaning unclear, context suggests 'protector' or 'support') Possibly relates to folding screen (병풍) used for protection/support? Context implies acting as a shield/support for the royalty.
+團體的	단체적	Collective; group-based
+威勢	위세	Power; influence; authority
+發揮	발휘	Demonstration; display
+保守的	보수적	Conservative
+國粹團體	국수단체	Nationalist group; ultranationalist group
+對峙	대치	Confrontation; standoff
+劇的 光景	극적 광경	Dramatic scene/spectacle
+演出	연출	Staging; production; enactment
+政治的 威勢	정치적 위세	Political power/influence
+終幕	종막	Final act; conclusion
+總本部	총본부	Headquarters
+商理局	상리국	Bureau of Commerce (Pobusang HQ)
+後身	후신	Successor body
+商務社	상무사	Office of Commercial Affairs (Successor to Sangniguk)
+官員輩	관원배	Officials; functionaries (often implies contempt)
+白畫	백화	Broad daylight
+大道 上	대도 상	On the main street
+公公然	공공연	Openly; publicly
+百一稅	백일세	One-percent tax (lit. one-hundred-one tax, possibly a levy)
+名目	명목	Name; pretext
+强盜的 掠奪	강도적 약탈	Robbery-like plunder/extortion
+崩壞	붕괴	Collapse; ruin
+轉落期	전락기	Period of decline/fall
+臨하다	임하다	Face; be confronted with
+封建社會	봉건사회	Feudal society
+支配群	지배군	Ruling group
+압장	앞장	Forefront; lead
+勤勞大衆	근로대중	Working masses
+搾取	착취	Exploitation
+斷末魔的	단말마적	Death throes; agony
+一面相	일면상	One aspect; one facet
+具現	구현	Embodiment; realization
+藥令市	약령시	Herbal medicine market
+回數	회수	Number of times; frequency
+不過	불과	Only; merely
+期間	기간	Period; duration
+藥品	약품	Medicinal goods; pharmaceuticals
+定期市	정기시	Periodic market; fair
+著名	저명	Famous; notable
+官府	관부	Government office
+命令	명령	Order; command
+藥材	약재	Medicinal ingredients/herbs
+主要産地	주요산지	Major production area
+中心市場	중심시장	Central market
+不振	부진	Slump; stagnation; inactivity
+現存	현존	Existing; extant
+春秋	춘추	Spring and autumn
+陰曆	음력	Lunar calendar
+翌年	익년	Following year
+調査	조사	Survey; investigation
+依하다	의하다	According to; based on
+交通機關	교통기관	Means of transportation
+發達	발달	Development
+新醫藥	신의약	New medicine (Western medicine)
+普及	보급	Spread; dissemination
+常設商舖	상설상포	Permanent shop
+增加	증가	Increase
+前途	전도	Future prospects
+衰退	쇠퇴	Decline; decay
+交互通商	교호통상	Mutual trade; reciprocal commerce
+特殊地帶	특수지대	Special zone/area
+通商機關	통상기관	Trade institution/agency
+公設	공설	Publicly established
+互約	호약	Mutual agreement/treaty
+本國	본국	Home country
+土産物	토산물	Local products
+文獻上	문헌상	In literature; according to documents
+互市制度	호시제도	Mutual market system; official border trade system
+3韓時代	삼한시대	Three Han period
+歷代	역대	Successive generations/dynasties
+對外的	대외적	External; foreign
+政治關係	정치관계	Political relations
+消長	소장	Waxing and waning; rise and fall
+迂曲	우곡	Winding; meandering; twists and turns
+顯著	현저	Remarkable; conspicuous
+海陸通商	해륙통상	Sea and land trade
+一大異彩	일대이채	A great spectacle; a unique brilliance
+海商	해상	Maritime trade; sea merchant
+平和	평화	Peaceful
+信義	신의	Trust; faith; integrity
+海路通商	해로통상	Sea route trade
+每年	매년	Every year
+連絡不絶	연락부절	Uninterrupted contact
+顯宗	현종	King Hyŏnjong (Koryŏ)
+文宗	문종	King Munjong (Koryŏ)
+迎賓舘	영빈관	Guest house for envoys (lit. Welcoming Guest Hall)
+會仙舘	회선관	(Name of a Koryŏ guesthouse)
+娛賓舘	오빈관	(Name of a Koryŏ guesthouse, lit. Entertaining Guest Hall)
+淸河舘	청하관	(Name of a Koryŏ guesthouse)
+朝宗舘	조종관	(Name of a Koryŏ guesthouse)
+通商使節	통상사절	Trade envoy/mission
+送迎	송영	Seeing off and welcoming
+商政	상정	Commercial policy/administration
+條約	조약	Treaty; agreement
+陸商	육상	Land trade; land merchant
+貿易院	무역원	Trade office/institute
+一端	일단	One aspect; a part
+權場	권장	Licensed market area (esp. for Liao/Jin merchants)
+特許	특허	Special permission; license; patent
+專賣市場	전매시장	Monopoly market
+要컨대	요컨대	In short; to summarize
+合法的	합법적	Legal; lawful
+密商	밀상	Illicit trade; smuggling
+繁榮期	번영기	Prosperous period
+蓄積	축적	Accumulation
+貿易所	무역소	Trade post/office
+命置	명치	Order to establish
+戰亂期	전란기	Wartime period
+食糧調節策	식량조절책	Food supply regulation measure
+輸入	수입	Import
+爲하야	위하여	(Archaic form) For the sake of
+中江開市	중강개시	Opening of the Chunggang market
+定하다	정하다	Set; decide; determine
+牛馬	우마	Cattle and horses
+物貨	물화	Goods; commodities
+種類	종류	Type; kind
+數量	수량	Quantity
+變更	변경	Change; alteration
+定例	정례	Established regulation; routine rule
+海帶	해대	Kelp; seaweed (*kombu*)
+海蔘	해삼	Sea cucumber
+綿布	면포	Cotton cloth
+布	포	Cloth (esp. hemp or ramie)
+白紙	백지	White paper
+壯紙	장지	Heavy paper; thick paper
+犁口	이구	Plowshare (also 보습 - posŭp)
+沙器	사기	Pottery; earthenware (often coarse)
+竹	죽	Unit for counting bowls/pottery (usually 10)
+代價	대가	Price; payment; value
+折價	절가	Calculate equivalent value; convert price
+公式定例交易	공식정례교역	Official regulated trade
+私商	사상	Private merchant; illicit trader
+密賣買	밀매매	Secret buying and selling; smuggling
+中江後市	중강후시	Post-Chunggang market (unofficial)
+使節	사절	Envoy; mission
+國境	국경	National border
+棚門	봉문	Border gate (specifically referring to the gate on the Chosŏn-Qing border)
+通過	통과	Pass through
+潛行	잠행	Secret travel; moving stealthily
+棚門後市	봉문후시	Post-Gate Market (unofficial trade near border gate)
+北關開市	북관개시	Northern border market opening
+會市	회시	Market at Hoeryŏng
+源市	원시	Market at Kyŏngwŏn
+釜	부	Cauldron; large pot
+坐	좌	Counter for large items like cauldrons/buildings
+駝	타	Camel
+差官	차관	Dispatched official
+差使員	차사원	Envoy; messenger official
+地方官	지방관	Local official
+監視下	감시하	Under supervision/surveillance
+客舘	객관	Guesthouse; inn
+遠來	원래	Coming from afar
+客商	객상	Visiting merchant
+支供	지공	Provision; supply (of necessities)
+弊端	폐단	Abuse; malpractice; evil practice
+甚하다	심하다	Be severe; extreme
+推測	추측	Guess; infer; surmise
+民衆	민중	The populace; the common people
+生産物	생산물	Produce; product
+農器	농기	Farming tools
+等屬	등속	Etc.; and the like
+羊裘	양구	Sheepskin coat
+鹿皮	녹피	Deerskin
+衣裳	의상	Clothing; attire
+빛나다	빛나다	Shine; glitter
+2重	이중	Double; twofold
+當하다	당하다	Suffer; encounter; undergo
+倭關開市	왜관개시	Opening of the Japanese enclave market
+3浦	삼포	The Three Ports (Pusanp'o, Chep'o, Yŏmp'o)
+叛亂	반란	Rebellion; revolt
+杜絶	두절	Severance; cessation; cutting off
+歲船	세견선	Annual trade/tribute ships (from Japan)
+島主	도주	Lord of the Island (referring to the Sō clan of Tsushima)
+證明書	증명서	Certificate; proof
+船路	선로	Sea route; shipping lane
+海賊	해적	Pirate
+論罪	논죄	Prosecute; condemn for a crime
+特許牌	특허패	Permit plaque; license token
+出入	출입	Entry and exit
+特定	특정	Specific; particular
+開市日	개시일	Market day
+訓導	훈도	Instructor (official title)
+別差官	별차관	Special envoy/commissioner
+收稅官	수세관	Tax collection official
+監市官	감시관	Market inspection official
+特殊機關	특수기관	Special institution/organization
+倭舖大廳	왜포대청	Japanese Shop Administrative Hall (within Waegwan)
+各目	각목	Each item/category
+一齊退廳	일제퇴청	Leave the hall all at once
+舘區內	관구내	Within the enclave area
+潛商	잠상	Secret/illicit merchant; smuggler
+嚴禁	엄금	Strict prohibition
+半島	반도	Peninsula
+山河	산하	Mountains and rivers; the land
+市場化	시장화	Marketization; turning into a market
+回想	회상	Recollection; reminiscence
+果然	과연	Indeed; truly
+國情	국정	National situation/circumstances
+戀幻	연환	(Likely a typo or obscure term) Context suggests change/transformation. Perhaps meant to be 流轉 (yujŏn - change/flow) or 變幻 (pyŏnhwan - change/transformation)? Given context, 'transformation' or 'vicissitudes' fits.
+必然性	필연성	Inevitability; necessity
+否定	부정	Negation; denial
+過程	과정	Process
+
+
+---------------------------
+
+
+잡지명	동광 제30호
+발행일	1932년 01월 25일
+기사제목	特輯 朝鮮을 알자 其二, 장꾼의 來歷- 朝鮮의 市場制度 -
+필자	白南雲
+기사형태	논설
+
+特輯 朝鮮을 알자 其二, 장꾼의 來歷- 朝鮮의 市場制度 -
+						白南雲
+1
+
+朝鮮의 市場制度는 朝鮮人의 經濟生活의 發展史와 直接關係를 맺고 잇는 것이다. 다시 말하면 朝鮮人의 經濟的 發展에 關한 歷史的 範疇를 構成한 것으로 볼 수 잇는 것이다. 그러므로 經濟史나 社會史 方面으로 보아서 重大한 關心을 끄으는 問題이다.
+더 具體的으로 말하자면 朝鮮사람의 社會生活 發展의 階段에 잇어서 自然經濟와 貨幣經濟와의 轉換關係 貨幣經濟의 畸形的 消長, 都市經濟의 階級的 形成, 商業資本의 原始的 蓄積, 高利貸資本의 潛行的 跋扈, 支配階級의 封建的 誅歛, 外國에 對한 通商關係 等等 經濟的 으로나 政治的으로나 또는 文化的으로나 決코 看過할 수 없는 重大한 契機를 지은 것이라 아니할 수 없다. 그러나 여기에서 市場制度의 全豹를 分析하기는 너무도 廣汎한 것인 故로 다만 其 重要한 輪廓을 論述하려 한다.
+
+2.
+
+朝鮮의 市場은 歷史的으로 보아서 3種으로 區分할 수 잇는 것이니 京市와 鄕市와 關市가 卽 그것이다.
+京市라는 것은 王都에 잇는 官設市場이니 其 起源을 史乘에 徵據한다면 新羅 炤智王 12年(西曆 490年)에 開設된 京師市라는 ＜24＞ 것이 最初인 듯하며 이것을 智證王 10年(西曆509年)에 이르러 東市라 改稱하얏고 孝昭王4年(西曆 695年)에 이르러 西市와 南市를 增設하얏다 한다. 또한 其 監督官廳인 東市典과 西市典과 南市典을 두엇다 하니 市場開閉의 時刻, 升斗의 水準, 商人間이 紛爭, 犯罪, 公需物의 徵納, 收稅 等에 關한 것을 處理하얏을 것이다. 또한 各市典에는 其 官吏인 市監 2人과 舍人 2人을 두엇다 하니 交易의 特許制度임을 알 수 잇는 同時에 官吏階級의 商人에 對한 支配關係를 推想할 수 잇는 것이다. 新羅文化는 朝鮮古代의 精華이니 其 文化의 培養은 반드시 經濟的 生産力의 階級的 發展에 뿌리를 박은 것이며 其 官設 市場은 實로 總生産力의 展覽會場이엇을 것이다.
+
+3.
+
+高麗時代에 이르러는 分權的 貴族政治時代인 만큼 社會的 生産力이 또한 階級的 需用에 適應한 工業技術이 發展되엇든 것이니 磁器, 金銀細工品, 漆器, 絹帛 等 高級品이 더욱 生産되엇든 것이다. 그리하야 開城의 官設市廛은 集團的으로 千餘楹의 長廊을 이루엇다 한다. 이것으로써 넉넉히 官市의 殷盛하얏든 것을 想像할 수 잇으며 京市署를 두고 令 1人과 丞 2人을 配置하얏으며 物價의 評定, 商業의 標識, 徵稅 等等 歐羅巴의 中世紀的 市場制度와 類似한 것을 看破할 수 잇는 것이다.
+
+4.
+
+李朝時代에 잇어서는 定宗元年(西曆 1399年)에 비로소 京市廛을 두엇다 하며 惠政橋로부터 昌德宮洞口에 이르기까지 左右 行廊이 8百餘 間에 達하얏고 其 行廊은 各各 廛舖로 區分하얏든 것이니 其 中에 가장 著名한 것이 6廛이다. 縇廛(俗稱立廛), 綿布廛(或稱 銀木廛), 綿紬廛, 內魚物廛, 靑布廛, 紙廛, 苧布廛이 卽 그것이니 군 두목으로 六注比廛이라 稱한 것인 故로 後에 漢字의 訓을 떠서 6矣廛이라고도 稱한 것이다. 以外에 煙草廛, 床廛, 生鮮廛, 衣廛, 米廛, 銀廛, 匙箸廛, 長木廛, 鐵物廛, 毛廛, 凉臺廛, 佐飯廛, 牛廛, 生雉廛, 簇頭里廛, 樺皮廛 等等 90에 가까운 廛舖가 잇엇으며 各各 廛案에 記載된 單一한 物品만 專賣한 것이다. 分科的 常設廛舖인 點이 普通 말하는 바 市場과는 조곰 다르나 李朝 京市制度의 基本形態이며 梨峴市場과 昭義門 外 市場은 後에 增設한 것이다. 또한 監督官廳으로서 平市署가 잇고 其 官吏로서 令 1人 直長 1人 奉事 1人이 잇어서 市廛의 監理 斗量의 檢察物價의 調節 公需物의 應徵 收稅 등등 高麗朝의 京市署와 同一한 職能을 가젓든 것이다.
+以上에 말한 바 慶州의 3市와 開城의 長廊市廛과 京城의 6矣廛 等은 實로 朝鮮의 京市制度의 歷史的 機軸를 이루운 것이다.
+
+5.
+
+鄕市라는 것은 地方에 散在한 公認市場인대 其 起源이 가장 오랠 것이다. 그 開市日字는 16, 27, 38, 49, 50 等, 5日만인 고로 或은 5日市라고도 稱하는 것이다. 外來 資本主義가 强大化하는 今日에 잇어서도 中世紀的 鄕市가 朝鮮全道에 散在하야 1千3百餘 箇 所를 算하게 되며 其 賣買總額이 1億7千8百 餘 萬 圓에 達한다 하니 鄕市의 重要性을 알 수 잇는 同時에 朝鮮經濟의 特殊性을 理解할 수 잇는 것이다.
+
+6.
+
+鄕市의 登場人物로서 가장 興味를 끄으는 것은 褓負商人일 것이다. 褓商은 布木, 紬緞, 雜貨 等屬을 褓에 싸서 등에 얼메고 各 市場을 循歷하면서 散賣하는 旅商이며 負商은 陶器, 漆器, 食鹽草鞋, 乾魚, 其他 日用品을 「지게」에 지고 各地에 5日市를 巡訪하는 行商이다. 이 褓負商은 追利의 冒險을 敢行하는 同時에 友誼의 謀忠에 鍜鍊한 同類意識을 가진 隊商이다. 그리하야 王室의 ＜25＞ 落屛으로서 團體的 威勢를 發揮한 것이 한두 번이 아니엇든 것이니 結局에는 保守的 國粹團體로서 1898年 11月에 獨立協會派와 對峙하야 劇的 光景을 演出한 것이 其 政治的 威勢의 終幕이엇든 것이며 褓負商의 總本部인 商理局과 其 後身인 商務社의 官員輩가 白畫 大道 上에서 公公然하게 百一稅의 名目으로 鄕市의 商人을 强盜的 掠奪한 것은 崩壞의 轉落期에 臨한 封建社會의 支配群이 褓負商을 압장으로 내세워 勤勞大衆을 搾取하는 斷末魔的 1面相을 具現한 것이다.
+
+7.
+
+鄕市의 1種인 藥令市라는 것이 잇으니 開市의 回數가 1年 1,2回에 不過한 것과 開市 期間이 1箇月 以上인 것과 賣買商品이 대개 藥品인 것, 이러한 點이 普通市場과 조곰 다른 것이다. 그러므로 이 令市는 歐羅巴의 定期市(Fair)와 類似함즉한 것인대 大邱令市는 가장 著名한 것이다. 其 起源을 말한다면 李朝 孝宗9年(西曆 1658年)에 官府의 命令으로써 藥材의 主要産地인 慶尙, 全羅, 江原, 3道의 中心市場으로서 大邱, 全州, 原州에 令市를 開設한 것이 最初이라 하며 그 후에 公州, 淸州, 晉州, 忠州, 大田 等地에도 開市한 일이 잇엇으나 모다 不振하얏고 現存한 것은 大邱令市와 全州令市 뿐이다.
+大邱令市는 以前에는 대개 春秋로 開市하는 것이엇으나 지금은 다만 陰曆 12月 한달 동안 開市할 뿐이고 全州令市는 陰曆 11月 10日로부터 12月 末日까지 或은 翌年 2月 末日까지 開市하는 것이다. 令市에 나오는 藥材와 賣買額을 最近 調査에 依하야 보면 大邱令市는 617萬2千 餘 圓 全州令市는 約 419萬9千 餘 圓에 達하얏다 한다. 그러나 交通機關의 發達과 新醫藥의 普及과 常設商舖의 增加로 因하야 令市의 前途는 衰退의 길을 밟을 뿐일 것이다.
+
+8.
+
+關市라는 것은 外國과 交互通商할 目的으로 特殊地帶에서 通商機關을 公設하고 通商의 互約에 依하야 本國과 外國과의 土産物을 交易하는 特殊市場이니 文獻上의 互市制度는 卽이것이다. 其 起源으로 말하면 3韓時代부터 始作된 후 新羅, 高麗, 李朝 各 歷代를 通하야 對外的 政治關係의 消長을 따라 迂曲의 길을 밟어온 것이다.
+그중에 가장 顯著한 것은 高麗朝를 通하야 宋, 遼, 金, 蒙古, 日本 等 諸外國과 海陸通商한 것이 朝鮮의 通商史上의 一大異彩일 것이다. 海商으로는 宋과 가장 平和스러운 信義로운 海路通商에 每年 連絡不絶하얏든 것이니 顯宗, 文宗 年間에는 開城에 迎賓舘, 會仙舘, 娛賓舘, 淸河舘, 朝宗舘 等을 官設하야 外國의 通商使節을 送迎하는 同時에 對外商政을 條約하고 各其 土産物을 交易하얏든 것이며 陸商으로는 對遼交易이 重要하얏든 것이니 文宗 16年(西曆 1062年)에 官設한 遼國貿易院은 其 一端이며 所謂 權場이라는 것은 遼, 金, 陸商에게 特許한 專賣市場이엇든 것이다.
+要컨대 關市를 通하야 海陸通商에 가장 殷盛하얏고 이러한 合法的 互市以外에 密商도 또한 많엇섯다. 그리하야 萬一 朝鮮의 對外通商의 繁榮期를 말한다면 高麗朝일 것이며 開城 及 義州商人의 商業資本의 蓄積을 말한다면 또한 이때일 것이다.
+
+9.
+
+李朝에 이르러는 太宗 6年(西曆 1406年)에 鏡城과 慶源에 貿易所를 命置한 것이 關市의 始作이며 宣祖 26年(西曆 1593年)에 戰亂期의 食糧調節策으로서 遼東의 米穀을 輸入키 爲하야 中江開市를 請하얏으며 그 후 仁祖 24年(西曆 1646年)에 이르러는 中江開市期를 3月과 9月로 定하고 대개 牛, 馬, 鹽, ＜26＞ 鐵 等으로써 交易하얏든 것이다. 그러나 交易物貨의 種類와 數量은 歷代를 따라 多少 變更이 잇엇으니 英祖年間의 定例에 依하면 다음과 같다.
+牛屬 2百 隻, 海帶 1萬5千7百95斤, 海蔘 2千3百 斤, 綿布 373匹, 布 175匹, 白紙 8千4百 卷, 壯紙 6百 卷, 鹽 3百10石, 犁口(보십)194箇, 沙器 330竹(1竹은 10箇) 等等.
+以上의 物貨代價는 淸國産靑布로 折價하야 받엇다 한다. 그러나 公式定例交易이 끝난 후 私商의 密賣買가 잇엇으니 이것을 中江後市라 稱하는 것이며 北京行 使節이 國境의 棚門을 通過한 후 義州 及 松都商人이 뒤를 이어 潛行을 行하얏으니 이것을 棚門後市라고 稱하는 것이다.
+北關開市는 仁祖 15年 以後에 始作되엇다 한다. 그 중에 會寧은 每年 開市하얏고 慶源은 일년 걸려 開市하얏으며 會市의 定例는 牛 1百40首, 犁 2千6百箇, 釜 55坐. 「源市의 定例는 牛 50首, 犁 46箇, 釜 55坐」라 하얏다. 當時 北關市의 交易商이 6百名에 達하고 馬, 牛, 駝가 1千140餘匹을 算하얏다 하니 交易의 殷盛을 想像할 수 잇으며 差官, 差使員, 地方官 等의 監視下에서 客舘에서 定例의 物貨를 交易하얏으나 遠來의 客商에 對한 支供의 弊端이 甚하얏을 것을 넉넉히 推測할 수 잇는 것이다. 그뿐만 아니라 民衆의 生産物인 鹽, 鐵, 牛, 農器 等屬에 對한 값을 羊裘, 鹿皮, 靑布 等으로 折價한 것을 보면 다만 支配階級의 衣裳이 빛나고 勤勞大衆은 2重의 搾取를 當하얏을 뿐이다.
+
+10.
+
+倭關開市는 李朝時代에 잇어서는 世宗年間에 3浦(富山浦-釜山-薺浦-鹽浦) 開市가 最初이라 하며 그 후 歷代를 通하야 問題가 多端하얏으니 中宗5年(西曆 1510年)의 3浦叛亂은 그 顯著한 것이며 壬辰亂 後에는 全然 杜絶되엇다가 光海 元年(西曆 1609年)에 비로소 釜山浦를 開市하고 歲船 20隻을 特許하는 同時에 島主의 證明書가 없는 者와 釜山浦 以外의 船路를 밟은 者는 海賊으로 論罪하얏다 한다.
+그리하야 倭商들은 東萊府使의 特許牌를 가지고라야 倭舘을 出入하얏으며 特定한 開市日에는 訓導 別差官, 收稅官, 監市官 等의 監視 下에 特殊機關인 倭舖大廳에서 各目의 物貨를 交易한 후 1齊退廳하야 舘區內로 돌아가게 하고 潛商은 一切嚴禁하얏다 한다. 外來 資本主義가 半島의 山河를 市場化하는 今日에 倭舘市의 互市制度를 回想하건대 果然 國情의 戀幻이 甚한 바 잇다. 그러나 歷史의 必然性은 市場否定의 過程으로! ＜27＞
+＜24-27＞

@@ -1,0 +1,127 @@
+잡지명	동광 제11호
+발행일	1927년 03월 05일
+기사제목	Katedro Esperanta (에쓰페란토 講座 第2回)
+필자	金億
+기사형태	문예기타
+
+Katedro Esperanta
+						金億
+第2課 文法
+1. 名詞(Nomo, 또는 Substantivo) 이름은 엇더한 것을 물론하고 그 語尾가 O로 끗이 남니다.
+Homo 사람, No*to 夜, Domo 집, Seoulo 서울, Vojo 길.
+注意 語根과 語尾, 語根이란 변치 안는 것이요, 語尾란 변하는 것이니 朝鮮 말에 「간다」는 것을 보면 가다, 가기, 가겟다, 갓다, 간다, 가는 것, 간 사람, 갈 사람와 가티 변하나 「가」 하나만은 변치 아니하야 이것을 語根이라 하고 그 밧게 것은 변키 때문에 語尾임니다.
+
+2. 複數(Multenombro) 複數란 것은 2개 이상의 數를 이름이니, 朝鮮 말의 「개들」 「사람들」의 「들」과 가튼 것임니다. 그런데 複數에는 J가 붓슴니다.
+┌╴ Homo 한 사람, hundo 개(한 마리), domo 집 하나
+└╴ Homoj 사람들, hundoj 개들(2개 이상), domoj 집들
+
+3. 客格(Akuzativo) 客格이란 朝鮮 말의 「사람을」 「개를」의 「을」과 「를」로 客格에는 n를 부팀니다.
+┌╴ Birdo 새(는, 가), Homo 사람(은, 이), Vojo 길(은, 이)
+└╴ Birdon 새를, Homon 사람을, Vojon 길을
+
+4. 名詞가 複數요 客格(들은)일 때에는 jn를 부팀니다.
+┌╴ Floro 꼿(은, 이), Libro 책(이, 은), Frato 형제(가, 는)
+└╴ Florojn 꼿들을, Librojn 책들을 Fratojn 형제들을
+
+譯解
+Homo kaj hundo. 사람과 개
+homo 人; kaj 와, 과, 하고, 그리하고; hundo 개
+Estas domo. 집이 잇다.
+estas 잇다(有); domo 집.
+Leono estas besto. 獅子는 즘생이다.
+leono 獅子; estas 잇다; besto 즘생.
+Rozo estas floro. 장미는 꼿이요.
+rozo 장미; floro 꼿.
+Kolombo estas birdo kaj hundo estas besto. 비둘기는 새요 그러고 개는 짐승이요.
+kolombo 비둘기; birdo 새; kaj 고, 그러고; hundo 개; besto 짐승.
+Mi vidas leonon. 내가 獅子를 본다.
+mi 내가, 나는;vidas 본다;leonon 獅子를.
+Mi acetas domoju.
+내가 집들을 산다.
+mi 내가, 나는; a^cetas 買한다; domojn 집들을.
+Cu vi havas livrojn? 당신이 책들을 가젓슴니까?
+cu 닛가(問辭); vi 당신이(은); havas 가진다; livrojn 책들을.＜58＞
+Jen estas plumo. 여긔 鐵筆이 잇다.
+jen 여긔(注意시키는 말); plumo 鐵筆.
+Libroj estas sur la tablo. 책들이 이 책상 우에 잇슴니다.
+libroj 책들이(은); sur 우에(表面에); la 冠詞(이, 그, 저); tablo 책상.
+
+第3課 文法
+5. 形容詞(Adjektivo) 形容詞의 語尾는 a로 끗이 남니다.
+Blanka 힌, Bela 곱은, Alta 노픈, Longa 긴, Ruga 붉은, Bona 조흔.
+注意 形容詞는 名詞의 前後 어떠한 곳에 두어도 관계치 안슴니다.
+┌╴ Ru^ga floro 붉은 꼿 Bona homo 조흔 사람 Alta monto 노픈 山
+└╴ Floro ru^ga         Homo bona           Monto alta
+그러기에 「꼿이 붉다」고 하려면 Floro estas ruga(floro) 하여야 함니다. 웨 그런고 하니, a로 끗낫 모든 形容詞는 名辭 우에만 (朝鮮 말로 볼 때에는) 잇게 되는 것이기 때문에, 꼿이 붉다 하는 말은 꼿이 붉은 꼿이요의 뜻으로 Floro estas ruga floro가 되어 estas + 形容詞한 것이 아니고는 名詞說明 形容할 수가 업슴니다.
+┌╴ Ru^ga floro, Floro ru^ga 붉은 꼿
+└╴ Floro estas ru^ga(floro) 꼿이 붉다
+┌╴ Homo hona, Bona homo 조흔 사람
+└╴ Homo estas bona(homo) 사람이 조타
+
+6. 形容詞는 名詞의 數와 格과 일치됨니다.
+┌╴ Alta monto, Monto alta 노픈 山.
+└╴ Altaj montoj, Montoj altaj 노픈 山들.
+┌╴ Bela domo, Domo bela 곱은 집.
+└╴ Belaj domoj, Domoj belaj 곱은 집들.
+┌╴ Longaj vojoj, Vojoj longaj 긴 길들.
+└╴ Longajn vojojn, Vojojn longajn 긴 길들을.
+┌╴ Libroj bonaj, Bonaj libroj 조흔 책들.
+└╴ Librojn bonajn, Bonajn librojn 조흔 책들을.
+注意 다음과 가튼 用法이 잇스니, 形容詞를 名詞의 前後 어떠한 곳에 둘 것을 注意해야 함니다.
+┌╴ Bona homo kaj hundo 조흔 사람과 개  A×B+C
+└╴ Bonaj homo kaj hundo 조흔 사람과 조흔 개  A×(B+C)
+┌╴ Homoj Bouaj kaj hundoj 조흔 사람들과 개들  A×B+C
+└╴ Bonaj homoj kaj hundoj 조흔 사람들과 조흔 개들  A×(B+C)
+
+7. 動詞(Verbo) 動詞의 본래의 語尾는 I로 끗이 남니다. 이것은 그 用法이 決定的이 아니기 때문에 不定法이라 함니다.
+Veni 오다, 오기 Man^gi 먹다, 먹기, Kanti 노래하다, 노래하기, Vidi 보다, 보기, Skribi 쓰다, 쓰기, Kuri 다라나다, 다라나기.
+動詞에 3法과 3時가 잇으니, 아레와 가틈니다.
+1 不定法의 語尾 I  Iri 가다, 가기.
+2 假定法의 語尾 Us  Irus 갈 듯하다, 갈찌 몰은다.
+3 命令法의 語尾 U  Iru 가거라, 가시오.
+4 現在時의 語尾 As  Iras 감니다, 간다, 가오.
+5 未來時의 語尾 Os  Iros 가겟슴니다, 가겟소.
+6 過去時의 語尾 Is  Iris 갓슴니다, 갓다.
+
+譯解
+Li estas bona(homo) 그는 조흔 사람이요.
+li 그이는가; bona 조흔.＜59＞
+La floro estis blanka. 그 꼿이 히엇다.
+la 冠詞(이, 저, 그; floro 꼿; blanka 힌.
+Mi sidis kaj skribas. 나는 안자서 글을 씀니다.
+mi 나; sidis-sid (坐)의 過去; kaj 자서; skribas-skrib (書)의 現在
+Infano ne estas matura homo. 어린애는 成熟한 사람이 아니다.
+infano 어린애; ne 아니; matura 成熟한; homo 사람.
+Mi ne amas obstinajn homojn. 나는 頑固한 사람들을 사랑치 안는다.
+amas-ami 의 現在 사랑한다; obstina 頑固한; homojn 사람들을.
+La dentoj de leono estas akraj. 獅子의 齒들이 날카롭다.
+dentoj 齒(複數); de 의; akraj 날카롭은(複數).
+Angla, franca kaj rusa lingvoj estas malfacilaj(lingvoj) 英, 佛, 露語들은 어렵다.
+angla 英國의; franca 佛國의; rusa 露國의; lingvoj 言語(複數); mal-facilaj 어렵은(複數); estas malfacilaj 에렵기를 하다, 어렵다.
+Ni estas koreaj kaj ili estas ^hinoj. 우리는 朝鮮 사람들이요 그이들은 中國 사람들이외다.
+ni 우리; koreoj 朝鮮 사람들; ili 그이들; ^hinoj 中國 사람들.
+Venu al mi, mi petas. 부대 내게로 옵시오.
+venu-veni 의 命令 오시오; al 게로; petias-peti 의 現在 빈다, 請한다 mi petas 부대, 아모조록
+Hiera^u estis diman^co kajhania^u estas lundo kaj morga^u estos mar-do. 어제는 日曜日이엇고, 오날은 月曜日이요 明日은 火曜日이겟슴니다.
+hiera^u 昨日; diman^co 日曜; hodia^u 今日; lundo 月曜; morga^u 明日; mardo 火曜日; estis (有) -esti 의 過去; estas-esti 의 現在; estos-esti 의 未來.
+^Cu li venus hodia^u? 그이가 오늘 올 듯함니까?
+^cu 니까; venus-veni (오다)의 假定을 뜻한다; hodia^u 오늘.
+Mi havas bonajn plumon kaj krajonon. 내가 조흔 鉛筆과 조흔 空冊을 가젓음니다.
+havas-havi (持)의 現在; bonajn 조흔 (複數와 客格); plumon 鉛筆을; krajonon 空冊을.
+Eble si vin konus. 아마 그 여자가 당신을 알 걸.
+eble 아마; si 그 여자; vin 당신을; konus-koni (知)의 假定.
+Se vi venus al mi, vi povus vidi lin. 만일 당신이 나한태로 왓드라면, 당신이 그이를 보앗을 것을.
+se 만일; venus-veni (來)의 假定; al 한태로; povus-povi (能)의 假定 할 수 잇을 걸; vidi 보기; lin 그이를.
+Donu al la birdo akvon, ^car gi volas trinki. 새에게 물을 줍시요. 그것이 마시고 시퍼하니.
+donu-doni (주다)의 命令; al 에게; birdo 새; akvon 물을; ^car 하니(그 理는...이다); gi 그것이; volas-voli (십다)의 現在 시퍼한다; trinki 마시기; volas triki 마시기를 시퍼한다, 마시고 시퍼한다; vo-las legi 읽고 시퍼한다; volas iri 가고 시퍼한다.
+Ni vidas per la okuloj kaj'a^ndas per la oreloj. 우리는 눈으로 보고 귀로 듯슴니다.
+ni 우리는; vidas 본다; okuloj 目를; per 로, 를 가지고; a^ndas 듯는다; oreloj 耳를.
+Ludoviko, donu al mi panon. 두도비코야, 내게 밥을 다구.
+ludoviko 人名; donu 다우; al 에게; panon *을.
+La bona knabo iras al la lernejo. 그 조흔 아이가 학교로 간다.
+bona 조父; knabo 少年; iras 간다; lernejo. 학교; al 로.
+La patro legas kaj la frato skribas. 아바지는 글을 읽고 형제는 글을 씀니다.
+patro 父; legas 讀書한다; frato 형제; skribas 書한다.
+Floroj ru^gaj kaj blankaj estas en la gardeno. 붉은 꼿들과 힌 꼿들이 花園 안에 잇슴니다.
+floroj 꼿들; ru^gaj 赤; blankaj 白; en 안에; gardeno 花園.＜60＞
+＜58-60＞

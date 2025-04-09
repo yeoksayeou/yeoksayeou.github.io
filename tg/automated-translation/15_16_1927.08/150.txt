@@ -1,0 +1,92 @@
+Magazine Title: 동광 제16호
+Publication Date: 1927-08-05
+Article Title: 어찌하여 ㅇ ㄹ ㅅ은 二音을 겸하였다 하는가, -文三平씨에게-, 한글토론(8) (Why is it said that ㅇ, ㄹ, and ㅅ combine two sounds? -To Mr. Mun Samp'yŏng-, Hangeul Discussion (8))
+Author: 한결 (Han'gyŏl)
+Article Type: 논설 (Editorial/Argument)
+
+Why is it said that ㅇ, ㄹ, and ㅅ combine two sounds? -To Mr. Mun Samp'yŏng-, Hangeul Discussion
+						Han'gyŏl
+
+1.  This column allows researchers of the Korean language to publish their unique opinions.
+2.  This column also carries assertions, refutations, or questions and answers regarding Korean language research.
+3.  Even if spelling or expression methods differ from this company's standard, manuscripts will be printed as is, limited to this column only.
+
+Sir, not only have I not had the pleasure of meeting you, but I also do not know what kind of person you are; I only came to know of you through your article titled "Various Types of East Asian Scripts" (東洋 文字의 種種) in the July issue of "Hyŏndae P'yŏngnon" (現代評論). It may be somewhat rude for an unknown friend to ask questions of another unknown friend like this, but as there were points in your writing that caused me doubt, I have dared to take up my pen. In item (26) therein, you state:
+
+「The fundamental value of Ŏnmun (언문 - Vernacular Script/Hangeul) is extremely superb, worthy of being called number one among the world's scripts. However, there are flaws in its sound combination: (1) Its sentence structure follows conceptual assimilation, primarily recording sounds rather than describing words, similar to the writing style of the Basque people in the Pyrenees mountains, making it awkward to read. (2) It is not an independent script but a dependent one, as vowels are not used alone; when using a vowel alone, ㅇ must always be combined, making ㅇ a kind of linking letter, which results in many irregularities arising in suffix changes, thereby causing much controversy in discussions of spelling reform. (3) The three letters ㅇ, ㄹ, and ㅅ each combine two sounds: ㅇ is (a, ng), ㄹ is (r, l), and ㅅ is (s, d), making the pronunciation rules irregular. (4) Sound combination occurs both vertically and horizontally, making it awkward to write. (5) It lacks cursive forms and aesthetic curves, being square-shaped, making it inconvenient to write.」
+
+Among these points, (4), the awkwardness of the writing system combining sounds both vertically and horizontally, is something anyone who looks at our script with intention likely feels similarly. However, your claim in (3) that the three letters ㅇ, ㄹ, and ㅅ each combine two sounds seems to be a great misunderstanding. Firstly, regarding the claim that the sound ㅇ represents both the English 'a' and 'ng' – in what case does it sound like 'a'? I simply cannot understand this at all. It seems you have only seen the explanation in the foreword of Ch'oe Sejin's (崔世珍) *Hunmong Chahoe* (訓蒙字會) and not King Sejong's *Hunminjŏngŭm* (訓民正音). The *Hunminjŏngŭm* states, 「ㅇ is like the initial sound of the character 欲 (yok)」. The initial sound of the character 欲 is, in fact, nothing at all. This merely serves to fill the position when a vowel occurs as the initial sound. In today's usage, the sounds starting the 'a, ya' (아야) row are examples of this. However, what is used today as the 'iŭng batch'im' (이응 받힘 - final consonant ㅇ) is different from this; it is distinct, and it is absolutely not the case that one character makes two sounds. The one attached to the left of the 'a, ya' row originally had a perfectly round shape (ㅇ), while the 'iŭng batch'im' originally had a shape with a small dot attached above the circle (ㅇ). Thus, ㅇ represents no sound, like the initial sound of 欲, merely filling an empty space, whereas ㅇ, as shown in the *Hunminjŏngŭm*, is 「like the initial sound of the character 業 (ŏp)」. However, while the present-day pronunciation of 業 is 'ŏp' (ub), the pronunciation at that time was 'ngŏp' (ngub). This is precisely the sound of the iŭng (ㅇ) used only as a final consonant today, and it is entirely different from the one (ㅇ) in the 'a, ya' row, which is the initial sound of 欲. Therefore, since there are two distinct shapes, ㅇ and ㅇ, and two distinct sounds, the null sound (空) and the sound like English 'ng', why do you only acknowledge ㅇ and claim that this single character combines the sounds 'a' and 'ng'? This is deeply puzzling. Furthermore, where is the case where ㅇ sounds like 'a'? I don't know. <50> ㅇ represents no sound, and 'a' corresponds to various sounds in our script like ㅏ, ㅖ, ㅐ, ㅗ... Which of these is the same sound as ㅇ? This is the first time I have heard such a thing. Secondly, let's look at ㄹ. You claimed it makes two sounds, R and L, but ㄹ is only like R and not at all like L. This is because L corresponds to the sound of two ㄹs, namely ㄹㄹ. And thirdly, looking at ㅅ, the claim that it represents the two English sounds 's' and 'd' is also incorrect. There is no exact English equivalent to ㅅ; one might only say it is close to a soft 's' or 'z' sound. It seems you likely considered the sound of ㅅ used initially as 's' and the sound of ㅅ used finally as 'd', but our script originally pronounces it as one sound only; there is absolutely no rule for pronouncing it in two or more ways. It is merely that the sound changes depending on the ease or difficulty of the articulatory organs' initial and final configurations. For instance, when saying 'sa' (사), the ㅅ can be pronounced according to its original sound, but when saying 'at' (앗), the final consonant ㅅ sound cannot be properly produced and is heard changed to a ㄷ sound instead. However, when the vowel 'a' (아) is added below 'at' (앗) to make 'asa' (앗아), the final ㅅ moves to the initial position and is pronounced, thus returning to its proper ㅅ sound. Your failure to examine this phonological principle and claim that ㅅ combines the two English sounds 's' and 'd' and is therefore irregular feels like either an overly hasty conclusion or a biased view.
+
+While randomly flipping through the July issue of "Hyŏndae P'yŏngnon," my eyes fell upon this page of yours, and I briefly took up my pen, wondering if there might be readers who would misunderstand or have doubts, more so than you yourself, and thus presented my humble opinion.
+
+July 11th, amidst intermittent rain
+In Kyŏngsŏng
+
+Postscript
+After writing this short piece, a certain gentleman next to me, reading your main article, saw the part "...Ŏnmun was not imitated from others but is a unique creation of the Korean people. Views among scholars both domestic and foreign on its origins are divided, but recently Mr. An Kwak's (安廓) explanation of it as 'musical theoretical symbolism' (樂理的 상징) was particularly noteworthy," laughed and remarked, "Heh! Self-praise is no recommendation!" When I asked, "Why do you say that?" he replied, "Because this Mr. Mun Samp'yŏng (文三平) is one and the same as An Kwak (安廓)!" Had I known this from the beginning, I would not have taken up my pen. Why? Because there is a social consensus about the position he holds regarding methodology research, and thus there is no value or need for renewed debate or attack. However, since it is already written, and since many may not know they are the same person, I thought I would publish it as is. <51>
+
+**Summary**
+
+Han'gyŏl refutes Mun Samp'yŏng's claims made in "Hyŏndae P'yŏngnon" that the Hangeul letters ㅇ, ㄹ, and ㅅ each represent two distinct sounds (ㅇ as /a/ and /ŋ/, ㄹ as /r/ and /l/, ㅅ as /s/ and /d/). Citing the *Hunminjŏngŭm*, Han'gyŏl argues that the initial ㅇ is silent, distinct from the final consonant ㅇ (/ŋ/), which originally had a different shape (ㅇ vs. ㆁ). He asserts ㄹ is only /r/ (not /l/, which corresponds to ㄹㄹ), and ㅅ represents a single phoneme whose pronunciation varies allophonically (/t/ in final position) but reverts to /s/ before a vowel. The postscript reveals the author later discovered Mun Samp'yŏng is a pseudonym for An Kwak, a figure whose views Han'gyŏl implies are not worth debating due to established opinions about his scholarly standing, but publishes the critique anyway for the benefit of other readers.
+
+This article is interesting for historians as it showcases active linguistic debate and refinement of Hangeul understanding during the Japanese colonial period, reflecting a form of cultural nationalism focused on the uniqueness and systematic nature of the Korean script. The reference to the *Hunminjŏngŭm* demonstrates reliance on foundational texts for linguistic authority, while the discussion of phonetics and allophones reveals a sophisticated level of linguistic analysis. The personal element involving Mun Samp'yŏng/An Kwak also hints at the personalities and perhaps rivalries within the Korean intellectual circles of the time.
+
+**Named Entities**
+
+文三平	문삼평	Mun Samp'yŏng
+현대평론	현대평론	Hyŏndae P'yŏngnon
+崔世珍	최세진	Ch'oe Sejin
+訓蒙字會	훈몽자회	Hunmong Chahoe
+訓民正音	훈민정음	Hunminjŏngŭm
+安廓	안곽	An Kwak
+경성	경성	Kyŏngsŏng
+
+**Glossary**
+
+동광	동광	Tongkwang (Magazine Name: "Eastern Light")
+씨에게	씨에게	To Mr. (polite address suffix)
+본란	본란	This column (in a publication)
+조선어	조선어	Korean language (older term)
+함	함	Act of doing/saying (noun form of 하다)
+잇서	있어	Being/existing (older spelling of 있어)
+하야	하여	Doing/being (older spelling/form of 하여)
+안코	않고	Not doing (older spelling of 않고)
+잇는	있는	Existing/which is (older spelling of 있는)
+빌네네 산간	빌네네 산간	Pyrenees mountains (phonetic rendering)
+업고	없고	Not having/lacking (older spelling of 없고)
+함니다	합니다	Does/do (deferential polite ending, older spelling of 합니다)
+바외다	바외다	Is the case/fact (older form combining 바 + 이외다)
+외다	외다	Is (copula, older literary form of 이다)
+겷고	결코	Never, by no means (older spelling of 결코)
+듯는	듣는	Hearing/listening (older spelling of 듣는)
+어대	어디	Where (older spelling/dialectal form of 어디)
+딸아	따라	According to, following (older spelling of 따라)
+넘우	너무	Too, excessively (older spelling of 너무)
+모군	모 군	A certain gentleman/person (모 = certain/unspecified, 군 = Mr./suffix for male)
+
+
+---------------------------
+
+
+잡지명	동광 제16호
+발행일	1927년 08월 05일
+기사제목	어찌하여 ㅇ ㄹ ㅅ은 二音을 겸하였다 하는가, -文三平씨에게-, 한글토론(8)
+필자	한결
+기사형태	논설
+
+어찌하여 ㅇ ㄹ ㅅ은 二音을 겸하였다 하는가, -文三平씨에게-, 한글토론
+						한결
+1. 본란은 조선어 연구가로서 독특한 의견을 발표하게 함.
+2. 본란은 조선어 연구에 관하여 주장, 반박 혹은 질의 해답 등도 기재함.
+3. 본사의 주장과 틀린 綴字法, 表現法이라도 본란에만 한하여 다만 원고 그대로 토함.
+
+군은 누구신지 아직 면식도 없음은 물론이고 어떠한 이신지도 필자는 모르거니와 「현대평론」 7월호에서 군의 「동양 문자의 種種」이란 제목을 통하여서만 알게 되었음니다. 이같이 미지의 벗으로서 미지의 벗에게 물음이 좀 실례가 될 찌 모르나 그 글 중에 의아한 점이 있기에 감히 붓을 들었음니다. 그 (26)項에
+「언문은 其 기초적 가치는 극히 훌륭하야 세계 문자 중에 잇서 제1위 된다 하여도 가한 것이라. 그러나 그 합음에는 결점이 이잇스니 (1) 문장법이 관념 영합 작용으로 되야 語를 主하야 기술치 안코 음을 主하야 기록하니 빌네네 산간에 잇는 종족 Bausque 人의 문장체와 비슷하야 讀하기 거북한 것이라. (2) 동위문이 아니오 종속문으로서 모음을 독용치 안하는 지라 모음을 독용할 시에는 반다시 ㅇ을 합하야 쓰매 ㅇ은 일종 연문이 됨으로 어미 변화에 잇서는 불규칙이 多生하게 된 것이니 그로 인하야 철자법 개량론의 말성이 만흔 것 (3) ㅇ ㄹ ㅅ 3자는 1자가 2음을 겸하니 ㅇ (a ng)이오 ㄹ(r l)이오 ㅅ(s d)라고도 철음법이 불규칙한 것 (4) 합음이 종횡 양방으로 되야 쓰기 거북한 것. (5) 초서와 곡선미가 업고 방형으로 되야 쓰기 불편하니라.」
+함이 있는 바 그 중의 (4) 즉 철법이 종횡 양방으로 된 거북함은 누구던지 우리 글을 뜻 두고 보는 이의 한갈 같이 느끼는 바라 하겠음니다마는 (3)의 ㅇ ㄹ ㅅ 3자는 1자가 2음을 겸한다 함은 큰 오해라고 생각됨니다. 첫째 ㅇ음이 영문의 a와 ng의 둘로 난다 함은 어떠한 경우에 a로 나는지? 도무지 알 수 없는 바외다. 이는 崔世珍의 訓蒙字會 범례의 설명만 보았지 세종의 訓民正音은 보지 못하신 말씀인 듯 함니다. 訓民正音에 「ㅇ 如欲字初發聲」이라 한 바 欲字初發聲은 아무것도 나지 아니하는 것이외다. 이는 모음이 첫 소리 되는 때에 그 자리를 채우는 것에 불과한 것이외다. 이제 쓰는 것에서 「아야」 ㅅ 줄로 되는 소리들이 그것이외다. 그러하나 오늘에 쓰는 「이응 받힘」이라는 것은 이것과 다른 것 딴 것이요 한 가지가 두 가지 소리를 내는 것은 겷고 아니외다. 「아야」 ㅅ 줄 왼쪽에 붙인 것은 그 형상이 원래 아주 똥그람이 (ㅇ)요 「이응 받힘」이란 것은 그 형상이 원래 똥그람이 우에 적은 점이 붙은 것 (ㅇ)이외다. 그리하여 ㅇ 이것은 欲字初發聲 같이 아무 소리도 없고 빈 자리 채움에 지나지 아니하는 것이로되 ㅇ 이것은 訓民正音에 보임과 같이 「業字初發聲」이외다. 그러한데 業의 오늘날 부르는 소리는 「업」 (ub)이지마는 그 때 부르던 소리는 「ㅇ」 (ngub)이었음니다. 곳 오늘날 받힘으로만 쓰이는 이응(ㅇ)의 소리요 欲字初發聲인 「아야」 ㅅ 줄의 그것 (ㅇ)과는 아주 다른 것이외다. 그러하면 형상도 ㅇ과 ㅇ의 다른 둘이 따로 따로 있고 소리도 없는 것 (空)과 영문의 「ng」와 같은 것과의 다른 둘이 따로 따로 있는데 어찌하여 ㅇ 이것만 인정하여 놓고 그 하나가 a와 ng 소리를 겸한다 하는지 심히 訝感한 일이외다. ꊷ�리하고 또 ㅇ 이것이 a로 나는 경우가 어대 있는지 모르겠소이다.＜50＞ ㅇ 이것은 없는 소릴뿐더러 a는 우리글의 ㅏ ㅖ ㅐ ㅗ ... 들의 여러 소리로 나는데 그 어는 것이 ㅇ 이것과 같은 소린지 처음 듯는 말이외다. 또 둘째 ㄹ 이것을 좀 봅시다. 군께서는 R과 L 두 소리로 낸다 하였으나 ㄹ은 R과 같을 뿐이요 L과는 도무지 같지 아니함니다. L은 두 ㄹ 곳 ㄹㄹ 소리가 되는 까닭이외다. 그리고 또 셋째 ㅅ을 보면 이것도 영문의 s와 d의 두 소리로 난다함이 그릇된 것이외다. ㅅ과 꼭같은 영문음은 없고 다만 연한 s나 z 소리에 가깝다 할 뿐이겠음니다. 군은 아마 첫 소리로 쓸 때의 ㅅ 소리를 s로 보고 끌진 소리로 쓸 때의 ㅅ소리를 d로 본 듯 하나 오리 글은 원래 한 소리로 낼 뿐이요 둘 이상으로 내는 법이 겷고 없음니다. 다만 발성 기관의 초종 형세의 편불편을 딸아 그 음이 변할 뿐이외다. 가령 「사」할 때에는 ㅅ 본음 대로 낼 수 있으나 「앗」 할 때에는 그 받힘 ㅅ 소리가 제대로 나지 못하고 ㄷ 소리로 바뀌어 들리는 것 뿐이외다. 그러하나 「앗」 밑에 모음 「아」를 달아 「앗아」할 때에는 받힘 ㅅ 이 첫 소리로 나리어 가아 나게 됨으로 다시 ㅅ 제 소리대로 나게 되는 것이외다. 군은 이 음리를 살피지 못하고 ㅅ을 영문의 s d 두 소리를 겸한다고 하여 불규칙하다고 함은 넘우 급한 속단이 아니면 편견인가 느끼어짐니다.
+우연히 「현대 평론」 7월호를 뒤적거리다가 군의 이 「페지」에 착목되었기에 잠시 붓을 잡아 군보다도 독서 중에 오해나 의아를 가질 이가 있을까 하여 管見을 들어 낸 것이외다.
+陰雨가 오락가락하는 7월 11일
+경성에서
+
+붙이는 말
+이 단문을 쓰고 나니까 옆에서 모군이 군의 본편을 읽다가 「... 언문은 他를 모조한 것이 아니오 조선인의 독창이니 그 연원은 내외 학자의 견해가 분분하나 최근에 安廓씨의 樂理的 상징이란 해설이 특별하더라.」함을 보고 웃으면서 「흥! 자화자찬이로군!」 하기에 필자가 「웨 그리하오?」 물은 즉 「이 文三平씨란 이가 내나 동일한 安廓씨니까 말이오!」 하였음니다. 만일 애초에 필자가 이것을 알았더면 붓을 들지 아니하였겠음니다. 웨 그러냐 하면 그는 방법 연구상 어떠한 지위에 있는 이라는 사회적 정평이 있는 까닭에 새삼스럽게 변론이나 공박을 할 가치나 필요가 없는 까닭이외다. 그러하나 이왕 쓴 것이요 또 그 동일인 됨을 모르는 이도 많음으로 그대로 발표할까 한 것이외다.＜51＞
+＜50-51＞

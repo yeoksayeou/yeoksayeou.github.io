@@ -1,0 +1,109 @@
+잡지명	동광 제1호
+발행일	1926년 05월 01일
+기사제목	色 조흔 金鮒魚 (Goldfish of Fine Color)
+기사형태	잡저 (Miscellaneous Writing)
+
+色 조흔 金鮒魚 (Goldfish of Fine Color)
+
+Where did they originate, and who are their ancestors?
+
+The goldfish is said to have originated about 2,000 years ago near present-day Jiangxi Province in South China.
+In our language, we call it *kŭmbung'ŏ* (goldfish), and in recent years, it has become clear through serum precipitation tests that, zoologically, it is a variant of the crucian carp (*pung'ŏ*). Recently, a red crucian carp incidentally appeared among black crucian carp, its tail changed, and it became the goldfish. Such occurrences, where a "changed thing" suddenly emerges from one species, are frequently observed in various animals. Many actual examples have been clarified through research, but the first person to study this was Professor de Vries of Holland, whose theory in evolutionary terms is called the "mutation theory." From these suddenly appearing original types, through selection or crossbreeding, the many varieties existing today have arisen.
+
+When goldfish lay eggs, they exhibit quite an interesting phenomenon. The male develops what are called *ch'usŏng* (nuptial tubercles); these are like a man's beard, appearing due to the seminal vesicles, and are a type of protrusion. When the male chases the female, he stimulates her with these *ch'usŏng* while spraying sperm onto the laid eggs. After achieving the purpose, the *ch'usŏng* fall off. The female does not lay all her eggs at once but lays them multiple times during one spawning season, which is why goldfish have terms like *ilbŏnja* (first batch) and *ibŏnja* (second batch). As the batch number increases to the fourth or fifth, more inferior offspring are produced; this is a characteristic of goldfish.
+
+Regarding the goldfish's food, wheat flour is mainly used as artificial feed (*i*), but bran or soybean meal (*kanjangpaek*), which appropriately combines the elements of protein, fat, carbohydrates, and inorganic salts, and includes vitamins, is also necessary. If goldfish suffer from vitamin deficiency (*p'inbŏp*), their skin peels off<26> and they get sick. Therefore, artificial feed must have animal and plant matter well combined. Fish do not find food by looking for it with their eyes but by smelling it with their noses, so even if blind, they can be raised, but if their nose is blocked, they cannot be raised. For this reason, flavor and aroma are necessary in the feed.
+
+For the water in which goldfish are kept, oxygen is, needless to say, most essential. As the water temperature rises, oxygen decreases, so waterweed (*sujo*) should be added to allow oxygen to remain in the water through photosynthesis; however, adding too much is not good because it produces carbon dioxide gas (*t'ansanwasŭ*) at night.
+When adding water for goldfish, the temperature must be matched considerably; if the temperature is wrong, it won't do.
+
+Goldfish also get diseases. Skin diseases are common. White spots appearing on the body are caused by protozoan parasites. Those that do not attach to the heads of varieties like Ranchu cause no severe harm, but those covering the entire body are bad. Scales standing up are caused by bacteria attaching between the scales (*in'gan*), and this is contagious. Bubbles forming on the body are called gas bubble disease (*kip'obyŏng*), and there are many others besides these. For treating diseases, it is good to add a little salt finely dissolved, or apply diluted mercury sublimate (*sŭnghong*) or potassium permanganate (*kwamank'ansan'gari*) to the affected area.
+
+When inexperienced people raise goldfish and they die, it is due to carelessness in changing the water, feeding, and putting too many fish in a small space. If only these three things are carefully attended to, goldfish do not die easily.
+
+Goldfish (*kŭmŏ*) are ornamental animals and are not eaten. It has also been said since ancient times that they are not eaten. However, eating them causes no harm at all; even the Chinese *Bencao Gangmu* (*Ponch'ogangmok*) states, "Eating them is not harmful, and rather, they are medicinal for diarrhea, burns, fever, etc." Recently, the heart of the goldfish (*kŭmŏ*) is often used as a folk remedy for pneumonia. <27>
+
+**Summary**
+
+This 1926 article provides practical advice on raising goldfish (*kŭmbung'ŏ*), covering their origins in China, their development through mutation (citing de Vries), breeding behavior (nuptial tubercles, multiple spawnings), dietary needs (including vitamins), water quality management (oxygen, temperature, plants), common diseases and treatments (parasites, bacteria, using salt, mercury sublimate, potassium permanganate), and common reasons for failure by beginners. It also notes that while primarily ornamental, goldfish are considered edible and even medicinal according to the Chinese *Bencao Gangmu*, with modern folk uses for pneumonia. For historians, the article reflects the popularization of hobbies like aquarium-keeping and the dissemination of Western scientific concepts (evolutionary theory, vitamins, bacteriology) alongside traditional East Asian knowledge (Bencao Gangmu) in colonial Korea. The language, mixing Hanja and older Hangul orthography, is also indicative of the period.
+
+**Named Entities**
+
+남중국 江西省	남중국 강서성	South China Jiangxi Province
+和蘭	화란	Holland (Netherlands)
+드브리스	드브리스	de Vries
+중국 本草綱目	중국 본초강목	China Bencao Gangmu
+
+**Glossary**
+
+조흔	좋은	Good, fine (older spelling of 좋은)
+金鮒魚	금붕어	Goldfish
+구누	누구	Who (older form/dialectal spelling of 누구)
+距今	거금	From now (referring to time ago)
+낫다	나왔다/태어났다	Came out, was born (older form of 나왔다/태어났다)
+變程	변종	Variant, variety (older term for 변종)
+되엇다	되었다	Became (older spelling of 되었다)
+만흔	많은	Many (older spelling of 많은)
+잇는	있는	Existing, that exists (older spelling of 있는)
+낫타나는	나타나는	Appearing (older spelling of 나타나는)
+날 적에는	낳을 때에는	When laying (eggs) (older form)
+쪼처	쫓아	Chasing (older spelling of 쫓아)
+나흔	낳은	Laid (eggs) (older spelling of 낳은)
+떠러진다	떨어진다	Falls off (older spelling of 떨어진다)
+낫치	낳지	Does not lay (eggs) (older spelling of 낳지)
+낫는고로	낳는고로	Because (it) lays (eggs) (older grammatical form)
+番子	번자	Batch (of offspring)
+만아짐을 딸아	많아짐에 따라	As it increases (older spelling/form)
+낫븐	나쁜	Bad, inferior (older spelling of 나쁜)
+만히	많이	Many, much (older spelling of 많이)
+餌	이	Feed, bait
+含水化物	함수화물	Carbohydrate
+貧乏하면	빈핍하면/부족하면	If deficient/lacking
+찻차	찾아	Finding, looking for (older spelling of 찾아)
+마타서	맡아서	By smelling (older spelling of 맡아서)
+놉하지면	높아지면	If it becomes high (temperature) (older spelling of 높아지면)
+너허	넣어	Putting in (older spelling of 넣어)
+넘우	너무	Too (much) (older spelling of 너무)
+炭酸瓦斯	탄산가스	Carbon dioxide gas
+조치 안타	좋지 않다	Is not good (older spelling/form)
+마춰	맞춰	Matching (older spelling of 맞춰)
+아니된다	아니 된다	Does not do, is not okay (older form)
+만코	많고	Are many, and (older spelling of 많고)
+힌 것	흰 것	White thing (older spelling of 흰)
+부틈은	붙음은	Attachment, the attaching of (older spelling of 붙음은)
+업스나	없으나	Although there is not (older spelling of 없으나)
+이러나는	일어나는	Standing up (scales) (older spelling of 일어나는)
+돗는	돋는	Sprouting, appearing (bubbles) (older spelling of 돋는)
+짜잔케	자잔하게/잘게	Finely, into small pieces (older form/spelling)
+소곰	소금	Salt (older spelling of 소금)
+昇汞	승홍	Mercury sublimate (bichloride of mercury)
+過만칸酸加里	과망간산칼리	Potassium permanganate (mixture of Hangul and Hanja spelling)
+조타	좋다	Is good (older spelling of 좋다)
+조고만한데다가	조그마한 데다가	In a small place (older spelling/form)
+넛는	넣는	Putting in (older spelling of 넣는)
+용이히	용이히	Easily (older spelling of 용이하게)
+조곰치도	조금치도	Even a little bit (older form/spelling)
+업스니	없으니	As there is not (older spelling of 없으니)
+하엿스며	하였으며	Stated, and (older spelling of 하였으며)
+
+
+---------------------------
+
+
+잡지명	동광 제1호
+발행일	1926년 05월 01일
+기사제목	色 조흔 金鮒魚
+기사형태	잡저
+
+色 조흔 金鮒魚
+나키는 어대서 祖先는 구누
+金붕어는 距今 2천년 전에 지금 남중국 江西省 부근에서 낫다 한다.
+우리말로 금붕어라고 하는데 근년에 와서 동물학상으로 鮒魚의 變程이라 하는 것이 血淸沈澱에 의한 시험의 결과로 명백하게 되엇다. 최근 검은 鮒魚 중에서 붉은 은鮒魚가 우연히 나서 꼬리가 변화하여 금붕어가 된 것이다. 이와 같이 어느 한 종류에서 돌연히 『변한 물건』이 되는 것은 여러 가지 동물에 누누히 잇는 것이며 연구의 결과로 만흔 실례가 명백하나 이를 최초에 연구한 이는 和蘭의 『드브리스』교수인데 진화론으로는 『돌연변이의 설』이라고 한다-이 突如히 낫타나는 原種에서 도태나 교배에 의하여 지금에 만흔 종류가 난 것이다.
+금붕어가 알을 날 적에는 꽤 재미잇는 현상을 보인다. 그것은 雄이 『追星』이라하는 것이 생기는 것이니 이는 정낭에 의하여 나타나는 남자의 수염 가튼 것인데 일종의 돌기다. 雄이 雌를 쪼처 다닐 적에 이 『追星』으로 刺激을 주면서 나흔 卵에 精虫을 뿌려 준다. 목적을 달한 뒤에는 『追星』은 떠러진다. 雌도 卵을 한꺼번에 낫치 아니하고 1산란기에 여러 번 낫는고로 금붕어에는 1番子, 2番子라 하는 것이 잇다. 4番子, 5番子 회수가 만아짐을 딸아 낫븐 새끼가 만히 생기나니 이는 금붕어의 특색이다.
+금붕어의 먹는 것은 인공의 餌로는 밀가루를 초로 쓰나 단백질, 지방, 含水化物 무기 염류의 요소가 적당히 배합되며 『비타민』을 포함한 겨나 간醬粨도 필요하다. 금붕어도 『비타민』이 貧乏하면 피부가 벗겨지며＜26＞ 병이 든다. 그러니까 인공의 餌에는 동물질, 식물질을 잘 배합하여 주지 안으면 안된다. 魚는 餌를 먹는데 눈으로 찻차 보아서 먹는 것이 아니라 코로 마타서 먹는 고로 눈은 멀어도 기를 수 잇지마는 만일 코가 막히면 못 기른다. 이런 고로 餌에는 향미가 필요하다.
+금붕어를 기르는 물은 더 말할 것 업시 산소가 제일 필요하다. 수온이 놉하지면 산소가 감하는 고로 水藻를 너허 동화작용에 의하여 수중에 산소가 그대로 남아 잇게 할 것이나 넘우 만히 너흐면 밤에 炭酸瓦斯를 내는 고로 조치 안타.
+금붕어에 물을 주는데 상당히 온도를 마춰 주어야지 온도를 잘못하면 아니된다.
+금붕어도 또한 병이 잇다. 피부병이 만코 몸에 힌 것이 부틈은 기생충이 原動物에 발생한 것인데 란츄 등 머리에 안 붓는 것은 지독한 해는 업스나 전신에 붓는 것는 안되엇다. 鱗이 이러나는 것은 『박테리아』가 鱗間에 붓는 것인데 이는 전염한다. 몸에 방울이 돗는 것은 기포병이라 하고 이외에도 또 만히 잇다. 병의 구제법에는 그러케 짜잔케 소곰을 너허 주거나 昇汞, 過만칸酸加里 엷게 하야 환부에 칠하여 줌이 조타.
+익숙하지 못한 사람이 금붕어를 기르다가 죽이는 것은 물을 갈아줌과 餌를 주는 것과 조고만한데다가 만히 집어 넛는 것이 부주의하는데 잇다. 이 세 가지만 주의하면 금붕어는 용이히 죽지 아니 한다.
+金魚는 관상동물이어서 먹지는 아니 한다. 또 옛적부터 먹지 안는다고 하여왓다. 그러나 먹어도 조곰치도 관계는 업스니 중국 『本草綱目』에도 『먹어도 해는 아니 되고 오히려 下痢 화상 발열 등에 약이 된다』고 하엿스며 근래 폐렴의 俗間 요법으로 金魚의 심장이 만히 쓰인다.＜27＞
+＜26-27＞

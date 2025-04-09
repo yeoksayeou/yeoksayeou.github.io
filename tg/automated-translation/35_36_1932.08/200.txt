@@ -1,0 +1,77 @@
+**Header Section**
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 科學斷片, 毒瓦斯의 이용 (Science Fragments, The Use of Poison Gas)
+Author: [Not Provided]
+Article Type: 잡저 (Miscellaneous writing/article)
+
+**Body Text Translation**
+Science Fragments, The Use of Poison Gas
+
+Poison gas, which kills people during wartime, is also utilized in various ways during peacetime.
+
+Banks and jewelry stores install tear gas devices. When a robber enters, this gas is stealthily released, and no matter how strong the robber is, they end up covering their eyes and fleeing. It is said that the holes from which the gas emerges are extremely small, making it difficult to quickly discern where they are embedded, so the thief cannot block them beforehand.
+
+If household gas is faulty and leaks out, people can inhale it and die. To prevent this, gas companies mix in sneeze-inducing poison gas. Then, if the gas leaks, sneezing occurs, providing a warning and waking even sleeping people.
+
+Various types of poison gas are also used on farms to exterminate harmful insects. <39>
+
+**Summary**
+
+This short article from 1932 discusses the peacetime applications of poison gas, originally developed for warfare. It highlights its use in security systems for banks and jewelers (tear gas), as a safety measure by adding sneeze-inducing gas to household gas supplies to warn of leaks, and for pest control in agriculture. From a historical perspective, the article is interesting as it reflects the normalization and perceived utility of a potent weapon technology for civilian purposes during the Japanese colonial period in Korea. It showcases how technologies associated with modern warfare were being integrated into everyday life and commercial applications, potentially indicating shifts in societal attitudes towards security, safety, and technological solutions promoted during that era.
+
+**Named Entities**
+
+[None]
+
+**Glossary**
+
+科學斷片	과학단편	Science fragment(s)
+毒瓦斯	독가스	Poison gas (Older spelling: 毒까쓰)
+이용	이용	Use, utilization (Older spelling: 리용)
+평화시절	평화 시절	Peacetime
+방면	방면	Area, field, aspect
+눈물나는	눈물 나는	Tear-inducing
+장치하고	장치하고	Install, set up
+슬그먼이	슬그머니	Stealthily, secretly (Older spelling)
+터트려	터뜨려	To burst, release, set off
+제아모리	제아무리	No matter how much, however much (Older form)
+싸매고	싸매고	To wrap up, cover up (here: cover eyes)
+달아난다	달아난다	To flee, run away
+내보내는	내보내는	Letting out, emitting
+구멍	구멍	Hole, opening
+아초	아주	Very, extremely (Older form/spelling)
+박이어 잇는지	박혀 있는지	Where it is embedded/fixed (Older spelling/grammar)
+얼는	얼른	Quickly, promptly (Older spelling)
+막을 수가 없다	막을 수가 없다	Cannot block/prevent
+가정	가정	Household, home
+사용하는	사용하는	Using
+잘못되어	잘못되어	To go wrong, be faulty
+새어 나오면	새어 나오면	If it leaks out (Older spelling: 새여 나오면)
+마시고	마시고	To drink, inhale
+방지하기 위하야	방지하기 위하여	In order to prevent (Older spelling: 위하야)
+재채기 하는	재채기하는	Sneeze-inducing
+섞어	섞어	To mix (Older spelling)
+경고하고	경고하고	To warn
+잠들엇든	잠들었던	Who were sleeping (Older spelling: 잠들엇든)
+깨어나게 된다	깨어나게 된다	To be woken up (Older spelling: 깨여나게)
+농원	농원	Farm, plantation
+해로운	해로운	Harmful (Older spelling: 해로은)
+벌레	벌레	Insect, bug
+구제하는데도	구제하는 데에도	Also in exterminating (Older spelling: 구졔하는데도)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	科學斷片, 毒瓦斯의 이용
+기사형태	잡저
+
+科學斷片, 毒瓦斯의 이용
+전쟁 때에 사람 죽이는 독까쓰가 평화시절에도 여러 가지 방면으로 리용이 된다.
+은행이나 보석상점에서는 눈물나는 독까쓰를 장치하고 강도가 들어오면 슬그먼이 이 까쓰를 터트려 노으며 제아모리 강도라도 그만 눈을 싸매고 달아난다. 그 까쓰 내보내는 구멍이 아초 적어서 어디 박이어 잇는지 얼는 알 수 없는고로 도적이 미리 막을 수가 없다 한다.
+가정에서 사용하는 까쓰가 잘못되어 새어 나오면 사람이 마시고 죽는다. 이것을 방지하기  위하야 까쓰회사에서는 재채기 하는 독까쓰를 섞어 보낸다. 그러면 까쓰가 새어나오면 재채기가 나서 경고하고 잠들엇든 사람도 깨어나게 된다.
+농원에서 해로운 벌레를 구제하는데도 각 종류의 독까쓰를 사용한다. ＜39＞
+＜39＞

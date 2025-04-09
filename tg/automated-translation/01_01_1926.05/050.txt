@@ -1,0 +1,80 @@
+Magazine Title:	동광 제1호
+Publication Date:	1926년 05월 01일
+Article Title:	솔론의 憲法 (Solon's Constitution)
+Author:	Not specified
+Article Type:	잡저 (Miscellaneous writing/Essay)
+
+Solon's Constitution
+Origin of the "Fourth Class"
+
+Solon (솔론) was one of the Seven Sages of Greece (希臘 七賢人). These were all famous figures from the early history of Greece (希臘史 初期), rich in common sense, and possessed of a harmonious spirit (調和的 精神).
+
+Solon's constitution was created in 594 BC. Following the needs of Greece at the time, it aimed to equalize the rights of the common people without causing great suffering to the wealthy nobility, ultimately reforming society to prevent extreme upheaval. It transformed the traditional aristocracy (貴族政治) into a plutocracy (金力政治). That is, it divided the citizens into four classes based on the amount of income from real estate (不動産), distributing rights and duties in direct proportion (正比例) to their class. The fourth class included those without property. Sovereignty (主權) resided in the National Assembly (Ehklesia - 국민회), composed of all male citizens over twenty years of age. This assembly elected officials (官吏) and decided yes or no on submitted legislative bills (法律案) and other major affairs of state. Such agenda items (議案) were decided in advance by a preliminary council (豫審會) composed of 400 members (議員) elected from those belonging to the upper three classes (上三級) and aged 30 or older. The nine "Archons" (알곤), the heads of administration (行政 首長), also remained, and the right to be elected (被選權) to this office was limited to people of the first class. The "Areopagus" (살오바고스) also still retained its supervisory (監督權) and judicial powers (裁判權), but major crimes were to be handled by the "Heliaia" (Heliair - 헬리에이아), composed of 6,000 members (議員) elected from among the citizens. In wartime (戰時):
+
+1.  People of the upper two classes served as cavalry at their own expense.
+2.  People of the upper three classes served as heavy infantry (hoplites) at their own expense.
+3.  The fourth class served as light infantry at public expense or became crew members on warships.
+4.  The first class was required to provide warships at their own expense.<11>
+
+**Summary**
+
+This article outlines Solon's constitutional reforms in ancient Athens around 594 BC. It explains how Solon replaced aristocracy with plutocracy, dividing citizens into four classes based on wealth (property income). This classification determined political rights (eligibility for office, participation in councils) and military obligations (cavalry, heavy/light infantry, providing ships), with the assembly (Ekklesia) holding ultimate sovereignty but pre-screened by a council (Boule) drawn from the upper classes. The lowest class, without property, had limited political rights but served in the military at public expense. For historians of colonial Korea, this article is interesting as it reflects an engagement with Western political history, particularly democratic and constitutional concepts, during a period of Japanese rule. The focus on class structure based on wealth and the calibrated distribution of rights and duties might have served as an indirect commentary on social stratification or political rights issues within colonial Korea itself, possibly framing aspirations for different forms of governance or representation through a historical lens.
+
+**Named Entities**
+
+솔론	솔론	Solon
+희랍	희랍	Hŭirap (Greece)
+국민회 (Ehklesia)	국민회	Kungminhoe (Ekklesia)
+예심회	예심회	Yesimhoe (Preliminary Council / Boule)
+알곤	알곤	Algon (Archon)
+살오바고스	살오바고스	Saropagosŭ (Areopagus)
+헬리에이아 (Heliair)	헬리에이아	Hellieia (Heliaia)
+
+**Glossary**
+
+憲法	헌법	Constitution
+칠현인 (七賢人)	칠현인	Seven Sages
+죠화젹 (調和的)	조화적	Harmonious (older spelling)
+귀죡정치 (貴族政治)	귀족정치	Aristocracy (rule by nobility)
+금력정치 (金力政治)	금력정치	Plutocracy (rule by wealth)
+부동산 (不動産)	부동산	Real estate
+사급	사급	Four classes/ranks
+졍비레 (正比例)	정비례	Direct proportion (older spelling)
+쥬권 (主權)	주권	Sovereignty (older spelling)
+국민회 (國民會)	국민회	National Assembly
+관리 (官吏)	관리	Government official
+의안 (議案)	의안	Agenda item, bill
+상삼급 (上三級)	상삼급	Upper three classes
+의원 (議員)	의원	Member (of an assembly/council)
+예심회 (豫審會)	예심회	Preliminary deliberative council
+행졍 (行政)	행정	Administration (older spelling)
+수쟝 (首長)	수장	Head, chief (older spelling)
+피선권 (被選權)	피선권	Right to be elected, eligibility for office
+감독권 (監督權)	감독권	Supervisory power/right
+재판권 (裁判權)	재판권	Judicial power/right
+긔병	기병	Cavalry
+중보병	중보병	Heavy infantry
+경보병	경보병	Light infantry
+승죠원	승조원	Crew member (of a ship) (older spelling)
+죵래 (從來)	종래	Traditional, conventional (older spelling)
+업는	없는	Without, lacking (older spelling)
+잇서서	있
+
+---------------------------
+
+
+잡지명	동광 제1호
+발행일	1926년 05월 01일
+기사제목	솔론의 憲法
+기사형태	잡저
+
+솔론의 憲法
+「제4계급」의 출처
+
+솔론(Solon)은 희랍 칠현인(希臘 七賢人)중에 한 사람이외다. 이들은 다 희랍사 초기 史 初期)의 명사요 상식이 풍부하며 죠화젹 정신(調和的 精神)이 만족한 사람이외다.
+솔론의 헌법은 기원전 594년에 지엇는데 당시 희랍의 필요를 따러서 평민의 권리를 평균하게 하고 부유한 귀죡에게 대 고통을 아니 주며 결국 사회의 극변이 나지 안케 개혁(改革)하야 죵래의 귀죡정치(貴族政治)를 금력정치(金力政治)로 변한 것이외다. 즉 부동산(不動産) 수입의 다과에 의하야 국민을 사급으로 분하여 그 권리 의무의 경중을 졍비레(正比例)로 분담케 하엿습니다. 제사급은 재산 업는 자를 포함하엿더람니다. 쥬권(主權)은 전국 이십세 이상의 남자로 된 국민회(Ehklesia)에 잇서서 이 회에서 관리(官吏)를 선거하며 제출된 법률안(法律案) 긔타 국가의 대사에 대하야 가부를 결졍하엿습니다. 이런 의안 (議案)은 상삼급(上三級)에 속하며 연녕 30세 이상의 사람으로 선거한 의원議員) 400인으로 된 예심회(豫審會)에서 미리 결졍됨니다. 행졍(行政)의 수쟝(首長)인 구인의 「알곤」도 여전히 남엇고 그 피선권(被選權)을 제일급의 사람에 한하게 하엿습니다. 「살오바고스」도 여전히 그 감독권(監督權)과 재판권(裁判權)은 가지고 잇스나 큰 죄는 국민 중에서 선거한 의원(議員) 6,000인으로 된 「헬리에이아」)(Heliair)에 의하여 집행하기로 되엿습니다. 전시(戰時)에는
+1. 상이급의 사람은 자비로 긔병이 됨니다.
+1. 상삼급은 자비로 중보병이 됨니다.
+1. 제사급은 공비로 경보병이 되며 혹은 군함의 승죠원이 됨니다.
+1. 제일급은 자비로 군함을 내게 되엇슴니다.＜11＞
+＜11＞

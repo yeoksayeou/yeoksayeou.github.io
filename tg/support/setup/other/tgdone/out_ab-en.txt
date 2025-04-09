@@ -1,0 +1,300 @@
+11	110	Korea as Seen from America	Im Yŏngbin	Travelogue
+11	120	Should Korean Writing Not Use Double Vowels?, Hangeul Debate (4)		Essay/Editorial
+11	130	The Homeland of Natural Man is the Mongolian Desert, How Evolutionists View the Human Intestines	(USA) H. F. Osborn	Essay/Editorial
+11	140	Science and Religion, Know Scientifically and Act Religiously	Kim Ch'angse	Essay/Editorial
+11	150	Promote the Livestock Industry	(North America) Myŏng Sunjo	Essay/Editorial
+11	160	Korea's Drinking Water and Water Quality	Yun Towŏn	Essay/Editorial
+11	170	Cheongju Cheongnam School Song	Late Mr. Kim Chongwŏn (Composer)	Poem
+11	180	Pyongyang Sungdeok School Song		Poem
+11	190	How Much Rice Do We Eat?		Miscellaneous Writing
+11	200	Haedong Sok Sohak (Continued Elementary Learning of Korea) (2)	Pak Chaehyŏng (Original Author)	Literary Other
+11	210	When the Wind Blows (Children's Song)	Kŭmjandi	Poem
+11	220	Needlework Dream (Ch'imsŏnmong), Fairy Tale		Literary Other
+11	230	The Honorable Yi Sunsin to Be Respected and Emulated		Literary Other
+11	240	Leaving the School Window, Athletes from Various Schools in Gyeongseong		Miscellaneous Writing
+11	250	Katedro Esperanta (Esperanto Lecture Session 4)	Kim Ŏk	Miscellaneous Writing
+11	260	A Small Judgment	Tokkyŏn	Novel/Fiction
+11	270	New Poetry Movement	Yohan	Literary Criticism
+11	280	Chasan's Poetry Talks	An Kwak	Literary Criticism
+11	290	The Lute Story (Pipa Ji) (Play)	Yuan Dynasty Gao Dongjia (Original Author), Chosŏn Yang Paekhwa (Translator/Adapter)	Play/Scenario
+12	010	Company Notice		Notice/Editorial Postscript
+12	020	First Birthday Feast		Poem
+12	030	A Study of the Mugunghwa (Rose of Sharon) (Part 1)	U Hoik	Essay/Editorial
+12	040	What is New Humanism?, Explaining Dr. Schiller's Theory	USA Han Ch'ijin	Essay/Editorial
+12	050	Art Lecture - History of Prehistoric Painting (Session 3), Art Lecture	Kwŏn Kuhyŏn	Essay/Editorial
+12	060	Knowledge Treasury		Miscellaneous Writing
+12	070	Opinions of Various Notables Regarding Donggwang		Survey/Questionnaire
+12	080	May	Yi Ŭnsang	Poem
+12	090	Heart of a Storm	Kwŏn Kuhyŏn	Poem
+12	100	Untitled Poem	Yŏboch'ul So'wŏn	Poem
+12	110	Bride and 5 Others	Yohan	Poem
+12	120	Strawberry and 1 Other	Chŏng Pyŏngsun	Poem
+12	130	A Consideration on Freedom	Kim Yun'gyŏng	Essay/Editorial
+12	140	List of Donggwang Society Friends		Notice/Editorial Postscript
+12	150	Special Slang and Common Slang, A Study of Korean Slang	Yi Ŭnsang	Essay/Editorial
+12	160	To Mr. An Kwak, Hangeul Debate (5)	Chŏng Yŏlmo	Essay/Editorial
+12	170	The Purpose of Physical Education, Sports Column	Chin Tongsŏng	Essay/Editorial
+12	180	The Cowardly Rabbit, Youth Section	Kim T'aeo	Literary Other
+12	190	Haedong Sok Sohak (Continued Elementary Learning of Korea) (3)	Pak Chaehyŏng (Original Author)	Literary Other
+12	200	Spider, Children's Song	Chŏgŭni	Poem
+12	210	Youth Composition		Literary Other
+12	220	Katedro Esperanto (Esperanto Lecture Session 5)	Kim Ŏk	Essay/Editorial
+13	010	Notice of Thanks		Notice/Editorial Postscript
+13	020	Wish, Thought, and Diligence		Literary Other
+13	030	A Study of Ancient Korean Culture, A Religious Studies and Folklore Study of Ancient Korean Religion (3)	Son Chint'ae	Essay/Editorial
+13	040	Chosun Ilbo Chief Editor An Chaehong		News/Information
+13	050	Leading Figure of the Educational World, Mr. Choe Gyu-dong, An Exemplary Modern Figure Consistently Devoted to Education for Over Ten Years		News/Information
+13	060	The World's Great Landowner, the British Empire (Overseas Colonies)		News/Information
+13	070	Dong-A Ilbo Chief Editor Song Chin-u		News/Information
+13	080	Jungoe Ilbo Editor-in-Chief Min T'aewŏn		News/Information
+13	090	Norway's Great Poet Who Spoke Thoroughly of Truth, On the Centennial of Henrik Ibsen	Paengmin	Literary Other
+13	100	Fishing Village Boy Becomes Britain's Prime Minister, The Turbulent Half-Life of MacDonald	Songsaeng	Literary Other
+13	110	Kropotkin's View on Education, Fostering Talents Who Combine Scholar, Mechanic, and Laborer	Pang Miae	Essay/Editorial
+13	120	Sudori	Hwasŏ	Novel/Fiction
+13	130	Folk Song (Popular in Gangwon Province)	Kim Sŏwŏl	Poem
+13	140	Folk Song (Popular in Gapyeong, Gyeonggi Province)	Chŏn Chonghwan	Poem
+13	150	Sorrowful Love	Yŏsim	Poem
+13	160	Song of the Mountain Maiden	Kuhyŏn	Poem
+13	170	Seoul and 1 Other	Chŏng Pyŏngsun	Poem
+13	180	The Korean Railway Under New Planning, Said to Become 3,500 Miles After 20 Years		News/Information
+13	190	Product Display Method and Use of Advertising, Commercial Knowledge	Sŏ Ch'un	Essay/Editorial
+13	200	Hwimun High Common School Song	Ch'oe Namsŏn (Lyricist)	Poem
+13	210	Historical Examination of the Changes in Educational Ideals	Cho Tongsik	Essay/Editorial
+13	220	Dong-A Ilbo President Kim Sŏngsu		News/Information
+13	230	Chosun Ilbo Managing Director Sin Sŏgu		News/Information
+13	240	Quick Study Lecture on Portrait Painting	Kwŏn Kuhyŏn	Miscellaneous Writing
+13	250	Einstein's Theory of Relativity, Fundamental Reform of Concepts like Time, Space, and Universal Gravitation	Kyŏngsŏ Hagin	Essay/Editorial
+13	260	Dong-A Ilbo Editor-in-Chief Yi Kwangsu		News/Information
+13	270	Jungoe Ilbo Manager Yi Sanghyŏp		News/Information
+13	280	Rise and Fall in the Insect World, A Comprehensive Look at the Honeybee Kingdom	Paek Namdu	Essay/Editorial
+13	290	Swallowing Whole or Constructing Theory?, Hangeul Debate (6)	An Chasan	Essay/Editorial
+13	300	Exploring the Moon World in a Bullet Ship, Realization of a Scientist's Dream?		News/Information
+13	310	Knowledge Treasury		News/Information
+13	320	Idle Talk Amidst Busyness		Miscellaneous Writing
+13	330	Ideal Sports Competition Volleyball (Ppalleppol), Simple Equipment, Absolutely No Danger, Enjoyable for Young and Old Alike, Easy Technique	Chin Pŏm	Essay/Editorial
+13	340	Chosun Ilbo Director Paek Kwansu		News/Information
+13	350	Mr. Jean-Jacques Rousseau, Pioneer of Innovative Literature and Representative of the Theory of Liberty and Equality		Literary Other
+13	360	Moon and Star	Pak Ch'anmyo	Literary Other
+13	370	My Star	Yuk Minch'ŏl	Poem
+13	380	Haedong Sok Sohak (Continued Elementary Learning of Korea) <4>	Pak Chaehyŏng (Original Author)	Literary Other
+13	390	Katedro Esperanta (Esperanto Lecture Session 6)	Kim Ŏk	Miscellaneous Writing
+14	010	Our Assertion		Essay/Editorial
+14	020	A Study of the Mugunghwa (Rose of Sharon) (Part 2)	B.A. U Hoik	Essay/Editorial
+14	030	Three Chapters on Homecoming	Yi Ŭnsang	Poem
+14	040	Your Face and 1 Other	Kim Nanch'on	Poem
+14	050	Prayer Offered from the Seaside and 1 Other	Chin Uch'on	Poem
+14	060	Castle Ruins and 1 Other	Yi Ŭngsu	Poem
+14	070	Short Verse on an Old Palace	Simok	Poem
+14	080	Nation and National Language	Jiandao Chŏng Chaemyŏn	Essay/Editorial
+14	090	Let's Travel to an Unknown Country for Summer Vacation, Summer Vacation Special Feature	Gyemyeongsa Ch'oe Namsŏn	Literary Other
+14	100	With a Firm Sense of Responsibility for Farmer Education, Summer Vacation Special Feature	Joseon Farmer Company Hwang Yŏnghwan	Literary Other
+14	110	Vacation is Not a Time for Play for Students Returning to Farming Villages, Summer Vacation Special Feature	Central YMCA Rural Department Hong Pyŏngsŏn	Literary Other
+14	120	Guidelines for Summer Children's Bible School, Summer Vacation Special Feature	Korea Summer Children's Bible School General Manager Han Sŏgwŏn	Literary Other
+14	130	Camping Life During Summer Vacation, Summer Vacation Special Feature	Boy Scouts Korea Federation Vice Secretary-General Chŏng Sŏngch'ae	Literary Other
+14	140	Cultivation in the Heat: Mountain Climbing and Swimming, Summer Vacation Special Feature	Chosun Ilbo Company Yi Kiryong	Literary Other
+14	150	To Female Students Going Home - Let's Help with Housework, Summer Vacation Special Feature	Gyeongseong Girls' High Common School Im Sunbun	Literary Other
+14	160	A Study of Ancient Korean Culture, A Religious Studies and Folklore Study of Ancient Korean Religion (4)	B.A. Son Chint'ae	Essay/Editorial
+14	170	Yonhi College Dean Yu Ŏkkyŏm		News/Information
+14	180	Severance Medical College Dean O Kŭngsŏn		News/Information
+14	190	Bosung High Common School Principal Ch'oe Myŏnghwan		News/Information
+14	200	Bosung College President Pak Sŭngbin		News/Information
+14	210	A Civilized World?	Yosŏp	Social Commentary
+14	220	How Many Children Do You Want to Have?		News/Information
+14	230	Historical Changes in Educational Ideals	Cho Tongsik	Essay/Editorial
+14	240	Jung'ang High Common School Principal Ch'oe Tuson		News/Information
+14	250	Paejae High Common School Head of Academic Affairs Kim Tonghyŏk		News/Information
+14	260	Gyeongsin School Head of Academic Affairs Ch'oe T'aeyŏng		News/Information
+14	270	Customer Treatment Method, Commercial Knowledge	Sŏ Ch'un	Essay/Editorial
+14	280	New Method for Increasing Longevity, Do This If You Want to Live 15 Years Longer		Miscellaneous Writing
+14	290	Short-Term Completion Korean Shorthand (Session 1)	Ŏm Chŏngu	Essay/Editorial
+14	300	Seeing the Usage Example of 'ㅅ' in Donggwang, Hangeul Debate (7)	Yi T'ak	Essay/Editorial
+14	310	Hangeul Inquiry		Miscellaneous Writing
+14	320	Quick Study Lecture on Portrait Painting	Kwŏn Kuhyŏn	Literary Other
+14	330	Urban Planning: What is an Ideal City?, Science Lecture	Kyŏngsŏ Hagin	Essay/Editorial
+14	340	Long Night (Play)	Yŏsim	Play/Scenario
+14	350	Yangjeong High Common School Principal Ŏm Chuik		News/Information
+14	360	Mr. Garibaldi		Literary Other
+14	370	Mother's Soul	Sogŭmjaeng'i	Poem
+14	380	Haedong Sok Sohak (Continued Elementary Learning of Korea) <5>	Pak Chaehyŏng (Original Author)	Literary Other
+14	390	The Lute Story (Pipa Ji) (Play)	Yuan Dynasty Gao Dongjia (Original Author), Chosŏn Yang Paekhwa (Translator/Adapter)	Play/Scenario
+14	400	Katedro Esperanta (Esperanto Lecture Session 7)	Kim Ŏk	Miscellaneous Writing
+15	010	Company Notice		Notice/Editorial Postscript
+15	020	World's Most Scenic View, Manmulcho, Summer Cooling Special Feature: Full of Refreshment	Ch'oe Namsŏn	Travelogue
+15	030	Impressions from Visiting the Ming Tombs - Zhu Yuanzhang's 500-Year Delusion, Summer Cooling Special Feature: Full of Refreshment	Haesŏng	Travelogue
+15	040	Summer Night, Summer Cooling Special Feature: Full of Refreshment	Yŏm Sangsŏp	Literary Other
+15	050	As the Brush Goes, Summer Cooling Special Feature: Full of Refreshment	Yi Ŭnsang	Literary Other
+15	060	Du Fu Poem		Poem
+15	070	"Summer" and "I", Summer Cooling Special Feature: Full of Refreshment	Ch'oe Sŏhae	Literary Other
+15	080	Recording a Poem from "Water Margin"	Yang Kŏnsik	Poem
+15	090	Miscellaneous Thoughts on Homecoming - From Tokyo to Gyeongseong-, Summer Cooling Special Feature: Full of Refreshment	Mumyŏng Sanin	Literary Other
+15	100	A Study of the Mugunghwa (Rose of Sharon) (Middle Part Continued)	B.A. U Hoik	Essay/Editorial
+15	110	A Study of Ancient Korean Culture, A Religious Studies and Folklore Study of Ancient Korean Religion (5)	B.A. Son Chint'ae	Essay/Editorial
+15	120	Cool Evening Miscellaneous Talk, My Most Gratifying Moment		Literary Other
+15	130	Report on Visiting Overseas Chinese	P'alpan Tong'in	News/Information
+15	140	Short-Term Completion Korean Shorthand (Session 2)	Ŏm Chŏngu	Miscellaneous Writing
+15	150	Why is it Said that ㅇ ㄹ ㅅ Combine Two Sounds?, -To Mr. Mun Samp'yŏng-, Hangeul Debate (8)	Han'gyŏl	Essay/Editorial
+15	160	Hangeul Inquiry		Miscellaneous Writing
+15	170	Diary of a Madman	China Lu Xun	Novel/Fiction
+15	180	North Pass Young Lady (Folk Song Poem) and 2 Others	Kim Ansŏ	Poem
+15	190	Heart Received from Thee	Chin Uch'on	Poem
+15	200	Plowing Preparation (Folk Song Poem)	Pak Aji	Poem
+15	210	Collected Folk Songs and Children's Songs Published		Poem
+15	220	Flesh and Blood (Original Work)	Yi Yŏngsŏp	Novel/Fiction
+15	230	New Poetry Movement	Yohan	Literary Criticism
+15	240	The Lute Story (Pipa Ji) (Play)	Ming Dynasty Gao Zecheng (Original Author), Chosŏn Yang Paekhwa (Translator/Adapter)	Play/Scenario
+16	010	Message on Resuming Publication		Notice/Editorial Postscript
+16	020	Current Topics	Yi Kwangsu	Essay/Editorial
+16	030	A Topic on the Recession: When Will the Recession in Korea and the World Recover?		Essay/Editorial
+16	040	Record of the Search for Truth, Autobiography of the Saintly Hero Gandhi		Memoir/Recollection
+16	050	High-Spirited 'If I Were' Record, If I Were Chiang Kai-shek	Dong-A Ilbo President Song Chin-u	Survey/Questionnaire
+16	060	Taiwan's Past and Present, Its Political and Industrial Status	Hwanggang	News/Information
+16	070	Twenty-Year-Old Song	Sŏktong	Poem
+16	080	Historical Examination of Korean Writing (Preface)	Kim Yun'gyŏng	Essay/Editorial
+16	090	Reports on Visits to Newly Rising Nations (Part 1), Prosperous Persia - Politics and Industry Progressing Simultaneously	Paengmin	Essay/Editorial
+16	100	High-Spirited 'If I Were' Record, If I Were a Newspaper Reporter	Gaebyeoksa Cha Sangch'an	Survey/Questionnaire
+16	110	Grand View of Home and Abroad, Objective Record of Political and Economic Trends in Korea and the World Over the Past Month	Chu Yohan	News/Information
+16	120	Spring Sentiments in Seongbuk	Cho Chonghyŏn	Poem
+16	130	Anthology of Masterpieces from World Newspapers and Magazines		Essay/Editorial
+16	140	The Road Seen Turning Back	Cho Un	Poem
+16	150	Endurance	Yi Kwangsu	Literary Other
+16	160	Hearing About the Resumption of Donggwang		Miscellaneous Writing
+16	170	People		Memoir/Recollection
+16	180	High-Spirited 'If I Were' Record, If I Were Zhang Xueliang	P'yŏngyang Kim Tongwŏn	Survey/Questionnaire
+16	190	High-Spirited 'If I Were' Record, If I Were a Man	Women's Christian Youth Federation General Secretary Kim Sŏngsil	Survey/Questionnaire
+16	200	High-Spirited 'If I Were' Record	Youth Association Federation Secretary Yi Taewi	Survey/Questionnaire
+16	210	Greeting the Sinmi Year (1931)		Survey/Questionnaire
+16	220	Kim Ok-gyun's Tomb and 1 Other	P'ain	Poem
+16	230	The Sinmi Revolution (1811) and the Sinmi Western Disturbance (1871) (1), Hong Gyeong-nae and Choe Nan-heon	Yi Yunjae	Essay/Editorial
+16	240	International Conferences and Korean Activities (Session 1)	Il Kija	News/Information
+16	250	Hard to Find a Man with Heart, A Strange Story	Yun Paengnam	Literary Other
+16	260	Random Talks on Literature and Art	Ch'unwŏn	Literary Criticism
+16	270	The Fearsome Syphilis, Its Cause, Treatment, and Prevention Method, A Warning to Pure Youth	M.D. O Wŏnsŏk	Essay/Editorial
+16	280	Curable Disabilities, Incurable Disabilities	Doctor of Medicine Yi Yongsŏl	Essay/Editorial
+16	290	Korea Reflected in Foreign Eyes		Miscellaneous Writing
+16	300	The Autumn Season in the Central Music Scene	Hong Nanp'a	Literary Criticism
+16	310	Reading Room		Literary Criticism
+17	010	Notice of Thanks		Notice/Editorial Postscript
+17	020	New Figures, New Leaders		Miscellaneous Writing
+17	030	Grand View of Home and Abroad: Explanation and Criticism, Where is the World Going? (December)		News/Information
+17	040	On the Emergence of the Argument for Dissolving the Sin'ganhoe	Sin'ganhoe Central Executive Committee Chairman Kim Pyŏngno	Essay/Editorial
+17	050	Regarding the Indo-British Round Table Conference	Ham Sangh'un	Essay/Editorial
+17	060	An Appeal to the Youth, Regarding Character Perfection and Unity Training	San'ong	Essay/Editorial
+17	070	Visiting Pak Yeon Falls	Chŏng Inbo	Poem
+17	080	A Comprehensive View of Cheondogyo Leader Chŏng Kwangjo	Yi Kwangsu	News/Information
+17	090	Father of the Czech Nation, Dr. Tomáš Masaryk	Ph.D. Paek Nakchun	News/Information
+17	100	The Anarchist of Noble Birth, Mr. Li Shizeng, Biographies of Modern Chinese Thinkers (Part 1)	Sin Chun'ŏn	News/Information
+17	110	Sickbed Moanings and Others	Chŏn Mugil	Poem
+17	120	The Origin of the Coexistence of the Two Korean Methodist Churches and the Full Story of Their Merger	Yu Hyŏnggi	News/Information
+17	130	Activities of New Women in Revolutionary China	Nanjing Kŏsa	News/Information
+17	140	Life of Service	Yi Kwangsu	Literary Other
+17	150	Gandhi's Autobiography, Gandhi in His Youth: How Did He Overcome Temptation?		Memoir/Recollection
+17	160	Dawn	Kim T'aeo	Poem
+17	170	Korea Reflected in Foreign Eyes, Russian Literary Giant Garin's Korean Travels of 1898	Kim Tongjin	Travelogue
+17	180	The Sinmi Revolution (1811) and the Sinmi Western Disturbance (1871) (II)	Yi Yunjae	Essay/Editorial
+17	190	Special Feature on the School Selection Problem, Presenting This Issue to All Parents, Guardians, and Graduates of Various Schools		Survey/Questionnaire
+17	200	Stories of School Selection Experiences	Sŏnbae Chesi	News/Information
+17	210	Anemia and Its Treatment	M.D. Im Myŏngjae	Essay/Editorial
+17	220	Reading Room, Two Translations: Two Champions of Pacifism		Literary Criticism
+17	230	Donggwang Round Table Conference		Miscellaneous Writing
+18	010	Notice of Thanks		Notice/Editorial Postscript
+18	020	Unfortunate Incident in the Academic World: Student Strikes and Countermeasures		Survey/Questionnaire
+18	030	Reminiscence of the Gapsin Coup (1884), Story of Meeting Mr. Pak Yŏnghyo	Yi Kwangsu	Interview/Discussion
+18	040	Masaryk in the Nation-Building Era, Father of the Czech Nation Dr. Tomáš Masaryk (Continued from Previous Issue)	Paek Nakchun	News/Information
+18	050	Gandhi's Repentance, Regarding Smoking and Theft in His Youth "From Gandhi's Autobiography 'Record of the Search for Truth'"		Memoir/Recollection
+18	060	Self-Reflection Reader		Literary Other
+18	070	Classification of Languages (Historical Examination of Korean Writing II)	Kim Yun'gyŏng	Essay/Editorial
+18	080	Korea Reflected in Foreign Eyes, Russian Literary Giant Garin's Korean Travels (II)	Kim Tongjin (Translator)	Travelogue
+18	090	Yeonggwang School Song		Poem
+18	100	The Public's Sense of Hearing as Seen by a Musician	Hong Nanp'a	Literary Other
+18	110	Biography of Mr. Anonymous (Part 1) A's Brief History (1), Serialized Long Story	Ch'unwŏn	Novel/Fiction
+18	120	Woodpecker	Yu Kŭnsŏk	Poem
+18	130	Go Away, Turncoat! A Young Fighter Wife's Letter of Severance to Her Turncoat Husband	Kim Haegang	Poem
+18	140	Cooled Heart	Chŏn Pongje	Poem
+18	150	Snowy Night (Sijo)	Cho Chonghyŏn	Poem
+18	160	One Who Walks at Midnight, Original Work	Yu Chino	Novel/Fiction
+18	170	Wonsan Lui-si Girls' High Common School Song		Poem
+18	180	Reading Room		Literary Criticism
+19	010	Editorial Postscript		Notice/Editorial Postscript
+19	020	Study of Unity		Essay/Editorial
+19	030	Grand View of Home and Abroad, Explanation Rather Than Criticism, Reference Not Endorsement (Appendix)... Record of World Famous Writings		News/Information
+19	040	Overseas Review		News/Information
+19	050	Agricultural Panic and the Process of Farmer Ruin, Rural Problem Special Feature	Mamyŏng	Essay/Editorial
+19	060	The Korean Rural Social Problem, Rural Problem Special Feature	Im Pyŏngch'ŏl	Essay/Editorial
+19	070	Water Tax Deferred Payment Movement and Record of the Mirim Water Cooperative Resistance, Rural Problem Special Feature	O Kiyŏng	Essay/Editorial
+19	080	The True Situation of the Mass Arrest of the Jeongpyeong Farmers' Union, Looking Back at 10 Years of Struggle History, Rural Problem Special Feature	Im Pongsun	Essay/Editorial
+19	090	Rural Projects and Christian Youth, Rural Problem Special Feature	Hong Pyŏngsŏn	Essay/Editorial
+19	100	Theory and Practice of the Cheondogyo Farmers' Movement, Rural Problem Special Feature	Kim Ildae	Essay/Editorial
+19	110	Where is the Countryside Headed? What is the Minimum Requirement for Rural Emergency Relief? What is the Most Urgent Matter for the Rural Movement?		Survey/Questionnaire
+19	120	Theory of Non-Violence	Yi Kwangsu	Essay/Editorial
+19	130	Exemption from Compulsory Education is a Special Privilege for Korean Children, Discussing the General Situation of World Elementary Education and Lamenting the Current State of Korea	Chu Yosŏp	News/Information
+19	140	Recent Verses	Chŏn Uhan	Poem
+19	150	Han Sang-ryong and the Dong-u Club, What is Their True Identity?	Kwanghwamun Saeng	News/Information
+19	160	Banks of the Legendary Tumen River, From Russian Literary Giant Garin's Korean Travels (III)	Kim Tongjin	Travelogue
+19	170	Humor		Miscellaneous Writing
+19	180	My Attitude as a Writer	Yi Kwangsu	Literary Criticism
+19	190	Quiet Thoughts Continued and Several Other Chapters, Quietly I think of it, Awake and grieving, I beat my breast (Poem, Beifeng)	Yang Chudong	Poem
+19	200	That the Oil is Dried Milk and 1 Other	Yi Kyuwŏn	Poem
+19	210	Han River Water, Life, Secret, Eternity	Cho Chonghyŏn	Poem
+19	220	Praise (Yŏ)	Yi Ŭngsu	Poem
+19	230	Rural Scene	Song Sun'il	Poem
+19	240	Biography of Mr. Anonymous A's Brief History (II)	Ch'unwŏn	Novel/Fiction
+19	250	Reading Room		Literary Criticism
+19	260	Flare		Literary Other
+19	270	Modern March		News/Information
+19	280	Donggwang Round Table Conference		Miscellaneous Writing
+20	010	Notice of Thanks		Notice/Editorial Postscript
+20	020	Our Will	Ch'unwŏn	Poem
+20	030	The Past and Future of Silver	Sŏ Ch'un	Essay/Editorial
+20	040	Outlook for the Worldwide Economic Panic and Korea's Agricultural Panic	Ch'ul” Sanghae	Essay/Editorial
+20	050	The Origin of Hu Hanmin's Imprisonment and His Personality	Sin Chun'ŏn	Essay/Editorial
+20	060	Grand View of Home and Abroad	Chu Yohan	Essay/Editorial
+20	070	Overseas Review		News/Information
+20	080	Flare		Social Commentary
+20	090	Special Characteristics of the Ural-Altaic Language Family, Historical Examination of Korean Writing (3)	Kim Yun'gyŏng	Essay/Editorial
+20	100	Cultivation of the Spirit of Self-Sacrifice	San'ong	Essay/Editorial
+20	110	Return to the Wild Beast, Youth, Let's Unite and Fight the Evils of the Age	Ch'unwŏn	Essay/Editorial
+20	120	Self-Reflection Reader	Ilchu	Essay/Editorial
+20	130	Humor		Miscellaneous Writing
+20	140	Big Shots Behind Iron Bars		News/Information
+20	150	May Day and Korea	Yu Ch'ŏlsu	Essay/Editorial
+20	160	From Anguished Germany, Old Man Tagore's Visit to Germany, Flood of American Goods, Expansion of Unemployment	To Yuho	Literary Other
+20	170	Windowless House, New Epoch in the Architectural World	O Chŏngsu	News/Information
+20	180	Impression of the New Capital Nanjing	Yi Hun'gu	Memoir/Recollection
+20	190	Modern March		News/Information
+20	200	Biography of Mr. Anonymous, A's Brief History (III)	Ch'unwŏn	Novel/Fiction
+20	210	Theory of Poetry Translation (Part 1)	Kim Ansŏ	Literary Criticism
+20	220	Music, Entertainment, Fine Arts - Korean Folk Songs and Their Musical Notation	Ewha Womans College Music Dept. An Kiyŏng	Essay/Editorial
+20	230	General Critique of Korean Painters	Yi Hagwan	Literary Criticism
+20	240	Crossing Gapal Pass, Russian Literary Giant Garin's Korean Travels (IV)	Kim Tongjin (Translator)	Travelogue
+20	250	Colored Clothes Song	Ch'unwŏn (Composer)	Poem
+20	260	In 1950...		Survey/Questionnaire
+20	270	Wild Boys' Army, Play (One Act, Three Scenes)	Ch'ae Mansik	Play/Scenario
+20	280	Sexual Hygiene	Yi Yongsŏl	Essay/Editorial
+20	290	Reading Room		Literary Criticism
+20	300	To My Sworn Sister, Eulnam	An P'ilsŭng	Poem
+20	310	You and I	Yu Kŭnsŏk	Poem
+20	320	Throwing Crumbling Castle Stones	Kim Pongje	Poem
+20	330	Feeling of Recollection (Prose Poem)	Kim T'aeo	Poem
+20	340	Spring Has Come	Mok Ilsin	Poem
+20	350	Spring	Pak Sŭnghyu	Poem
+20	360	Spring Night, One Moment of a Spring Night is Worth a Thousand Pieces of Gold	Yi Ŭngsu	Poem
+20	370	If I Were a Sinner	Yŏngp'ung Hŏ Ch'ok	Poem
+21	010	Editorial Remarks		Notice/Editorial Postscript
+21	020	Persistent Sacrifice		Essay/Editorial
+21	030	The World Situation and Korea's Future	Song Chin-u	Essay/Editorial
+21	040	Will it Rise or Fall? This Autumn's Rice Price Forecast, Still Continuing Decline - Rice Price Raising Policy Has Failed.-	Kim Tŭkchin	Essay/Editorial
+21	050	Korean Population Dynamics by Occupation	Kim Up'yŏng	Essay/Editorial
+21	060	Current Topics	Chu Yohan	News/Information
+21	070	Overseas Forum, Future Prospects of the Panic - Recovery Still Hopeless		Essay/Editorial
+21	080	Modern March!		News/Information
+21	090	Ancients and Moderns		Essay/Editorial
+21	100	Science Essay, The Illusion of the Three Elements Time, Space, Matter - Universe, Human Life, Human Living, Individual, Natural Talent, Science and Knowledge	Yi Man'gyu	Literary Other
+21	110	Historical Examination of Korean Writing (4)	Kim Yun'gyŏng	Essay/Editorial
+21	120	Random Critique of People in the Peninsular Music Scene	Hong Chong'in	Literary Criticism
+21	130	One Night Inside Hoeryeong Fortress, Russian Literary Giant Garin's Korean Travels (5)	Kim Tongjin (Translator)	Travelogue
+21	140	Biography of Mr. Anonymous A's Brief History (4)	Ch'unwŏn	Novel/Fiction
+21	150	Sportsmanship, Sporting Spirit and Morality	Ch'oe Nŭngjin	Essay/Editorial
+21	160	Hygiene During Maidenhood, Health Column	T'aehŏ	Essay/Editorial
+21	170	Self-Reflection Reader	Ilchu	Essay/Editorial
+21	180	Flare		Social Commentary
+21	190	Theory of Poetry Translation (Part 2)	Kim Ŏk	Literary Criticism

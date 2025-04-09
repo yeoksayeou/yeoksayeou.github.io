@@ -1,0 +1,373 @@
+Magazine Title: 동광 제23호
+Publication Date: 1931년 07월 05일
+Article Title: 正音以前의 조선글, 이 논문은 朝鮮文字의 역사적 고찰 제2편 本論의 시작이다 (Korean Writing Before the Correct Sounds (Hunminjŏngŭm), This Treatise is the Beginning of Part 2, Main Discussion, of the Historical Study of Korean Letters)
+Author: 金允經 (Kim Yun'gyŏng)
+Article Type: 논설 (Editorial/Treatise)
+
+Korean Writing Before the Correct Sounds (Hunminjŏngŭm), This Treatise is the Beginning of Part 2, Main Discussion, of the Historical Study of Korean Letters
+						Kim Yun'gyŏng
+
+1. Un-transmitted Scripts
+
+1. Samhwang Naemun (三皇內文). According to several researchers cited by Mr. Kwŏn Tŏkkyu, even the Eight Trigrams (八卦), said to have been first created by T'ai-hao Fu-hsi (太昊伏羲氏) of ancient China (支那), have deep origins related to Korean script (註5). However, this is too vague, so let us set it aside. Nonetheless, the Pao-p'u-tzu (抱朴子) states, "Huang Ti (黃帝) traveled east to Ch'ŏnggu (靑丘), passed P'ungsan (風山), met Master Tzu-fu (紫府先生), and received the Samhwang Naemun (三皇內文)..." (註6). This Samhwang Naemun provides evidence for the existence of ancient Korean script. If so, as Mr. Kwŏn Tŏkkyu (註5) and Mr. Ch'oe Hyŏnbae (註7) have also stated, it can be speculated that the Chinese characters, which Ts'ang Chieh (蒼頡), a contemporary of Huang Ti, began to create after seeing bird tracks (鳥跡), also have some connection (脉絡) to the Samhwang Naemun.
+
+2. Sinji Pijamun (神誌秘詞文). In the bibliography (書名) section of the Arts and Literature chapter (藝文考) of the Munhŏn Pigo (文獻備考), "Sinji Pisa" (神誌秘詞) appears. Also, the Taedong Unok (大東韻玉) states, "Sinji (神誌), a person from Tan'gun's (檀君) time, called himself an immortal (仙人)," and "The Secret Records of the Sŏwŏn'gwan (書雲觀秘記) contains the Nine Transformations Chindan Diagram (九變震檀之圖); Chosŏn (朝鮮) is Chindan (震檀)." Furthermore, the annotations (註) to the Yongbiŏch'ŏn'ga (龍飛御天歌) state, "The Nine Transformations Diagrammatic Configuration (九變圖局) is the name of a divination text (圖讖) composed by Sinji, a person from Tan'gun's time. It speaks of the capitals of successive East Asian dynasties changing nine times, and also discusses the matter of this Chosŏn receiving the mandate and establishing its capital." Additionally, in Volume 3 of the Samguk Yusa (三國遺事), the section on Pojang Pongno Podŏk Iam Cho (寶藏奉老普德移庵條), an interlinear note (割註) reads: "The T'ang Shu (唐書) says, Kae Somun (蓋蘇文) called himself Mangniji (莫離支), which is like the Chungsŏryŏng (中書令). Also, according to the preface of the Sinji Pisa (神誌秘詞), Somun Taeyŏng Hong composed the preface and annotations (蘇文大英弘序並註). Thus, Somun (蘇文) is an official title, for which there is textual evidence (文證). However, tradition says the literary figure So Yŏnghong (蘇英弘) wrote the preface, but it is unclear which is correct." Furthermore, the Sillok of King Sejo (世祖實錄) contains an entry for the 5th month of the 3rd year of Sejo (1457): "An edict (諭) to the governors (觀察使) of the Eight Provinces states: Documents such as the Kojosŏn Pisa (古朝鮮秘詞), Taebyŏnsŏl (大辯說), Chodaegi (朝代記), Chigonggi (誌公記), P'yohunch'ŏnsa (表訓天詞), Samsŏng Milgi (三聖密記), Anham No Wŏn Tongjung Samsŏnggi (安含老元董仲三聖記), Tojŭnggi (道證記), Tongch'ŏllok (動天錄), Chihwallok (地華錄), etc., should not be kept in private places. If anyone possesses them, they are permitted to submit them. Widely announce this to public and private individuals, as well as temples and shrines." There were also similar royal commands (勅命) issued to collect such old books, as recorded in the Sillok of King Yejong (睿宗實錄) for the 9th month of Kich'uk (1469) and the Sillok of King Sŏngjong (成宗實錄) for the 12th month of Kich'uk (1469). Based on these various documents, it is clear that the Sinji Pisa of the Tan'gun era (壇朝) was transmitted until the recent Yi Dynasty (李朝). If so, this Sinji Pisa proves that writing existed in the Tan'gun era. However, since the script from that time is not extant today, there is no way to examine what kind of script it was, which is regrettable. Mr. Kwŏn Tŏkkyu stated, "Taeyŏng Hong (大英弘) of Kuryŏ (句麗, Goguryeo) translated the Sinji Pisa into Chinese characters and added a preface and annotations" (註8). This seems to be based on the previously cited passage from the Samguk Yusa. If so, based solely on that passage, it is difficult to assert definitively that it was translated into Chinese characters. Also, looking at the content described in the annotations of the Yongbiŏch'ŏn'ga regarding Sinji's Nine Transformations Diagrammatic Configuration, there are points that raise suspicion as to whether it might have been created by people of a much later era. Furthermore, the P'yŏngyangji (平壤誌) states, "At Pŏpsu Bridge (法首橋) in P'yŏngyang (平壤), there is an old stele (古碑). It is not vernacular script (諺), nor Sanskrit (梵), nor seal script (篆). No one can decipher it." It also says, "In the 2nd month of Kyemi (癸未, this is the 16th year of Sŏnjo, 1583), the aforementioned stele buried at Pŏpsu Bridge was excavated. When examined, it was broken into three pieces. The stele inscription (碑文) is not clerical script (隷字), but resembles Chu script (楚書樣). Some say this was written by Sinji in the time of Tan'gun. <32> It has been lost over the long years." This, along with the previously mentioned records of Sinji Pisa, leads one to acknowledge that writing existed in the Tan'gun era.
+
+3. Wang Munmun (王文文). The Yu Munhwabo (柳文化譜) states, "Wang Mun (王文) wrote characters (文字), which resembled seal script (篆) or talismans (符). Mun was the father of Kyŏng (競)." Since this Wang Mun was a person from Puyŏ (扶餘) around the 12th century BC, there is no doubt that his script was the Puyŏ script. Regarding this, Mr. Kwŏn Tŏkkyu speculated whether the inscription on the Pŏpsu Bridge stele in P'yŏngyang, said to be written by Sinji, or the rock inscription (岩石刻文) on Namhaedo (南海島), traditionally attributed to Sŏ Si's (徐市) inscription (題名) (註9), might be the same as Wang Mun's script. He also deduced that the so-called Temiya (手宮) script from Ezo (蝦夷, Hokkaido), Japan (日本), was likely an ancient script used in northern continental Chosŏn. (註 10, 註 8, 註 5)
+
+4. Kŏngmokmun (刻木文). The Liang Shu (梁書), referring to Silla (新羅), states, "[Their customs] are similar to Koryŏ (高麗, Goguryeo). They have no script (無文字), use notched wood for tallies (刻木爲信). Their language is understood only after passing through Paekche (百濟)." The phrase "no script" is a typical expression of arrogant Chinese people who do not recognize peoples outside their own as human (examples include calling others Nanman (南蠻), Peiti (北狄), Hsijung (西羌), Tung-i (東夷)), and consequently do not recognize the culture of non-Chinese peoples as culture. Therefore, any script other than their own Chinese characters, no matter how excellent, would never appear as script in their eyes. Thus, when they saw Silla's script, which was different from Chinese characters, they simply said "no script," and only mentioned "using notched wood for tallies." If so, the symbol for expressing intent called "using notched wood for tallies" clearly seems to refer to Silla's native script, or a script passed down from the Tan'gun and Puyŏ eras. The Samguk Sagi (三國史記), in the entry for King Chijŭng Maripkan (智證麻立干) of Silla, states: "Winter, 10th month of the 4th year, the assembled ministers submitted a memorial, saying: 'Since the founder established the state, the country's name has not been fixed. It is sometimes called Sara (斯羅), sometimes Saro (斯盧), or sometimes Silla (新羅). We believe that Silla implies that the state's virtue (德業) is daily new (日新), and 'ra' (羅) has the meaning of encompassing (網羅) the four directions. Thus, it is fitting as the state name. Also, observing states from ancient times, all rulers were called 'Ti' (帝) or 'Wang' (王). From our founder's establishment of the state until now, 22 generations later, rulers have only been called by vernacular terms (方言), lacking an honored title (尊號). Now, the assembled ministers, with one mind, respectfully bestow the honored title, King of Silla (新羅國王).' The king complied." This clearly shows that for 560 years, spanning 22 generations from the founding of the state until the time of King Chijŭng Maripkan, they used vernacular language, or what the Ta Hwaŏm Sujwa Wŏnt'ong Yangjung Taesa Kyunyŏ Chŏn (大華嚴首座圓通兩重大師均如傳) calls Hyangch'al (鄕札). However, with the introduction of Chinese characters, at some point, they seem to have created the script called Idu (吏讀) by borrowing the sound or meaning of Chinese characters and started using it instead. However, as cited above, by the time of King Chijŭng Maripkan, the influence of Chinese writing had become very strong, and they seem to have already become addicted to it. This is evident in their abandoning the rulers' honored titles like Kŏsŏgan (居西干), Ch'ach'aung (次次雄), Isagŭm (尼師今), and Maripkan (麻立干) and adopting "Wang" (王). Also, the state name was changed from the vernacular pronunciation to one based on the literal textual meaning of Chinese characters: "Silla" (新羅) meaning "Virtue daily new (德業日新), encompassing the four directions (綱羅四方之義)." Furthermore, during the reign of King Chinhŭng (眞興王), "Ich'an Isabu (伊飡異斯夫) submitted a proposal, saying: 'State history (國史) records the good and evil deeds of ruler and ministers, <33> showing praise and blame (褒貶) to myriad generations. If it is not compiled (修撰), what will later generations observe?' The king deeply agreed and ordered Taeach'an Kŏch'ilbu (大阿飡居柒夫) and others to widely gather scholars and have them compile it." (註11) As seen here, it seems that Chinese characters came to be used instead of Hyangch'al for the compilation of the state history and perhaps even for general official documents. Thereafter, successive statesmen (爲政家) increasingly revered Chinese writing and looked down upon (賤視) the national script. During the reign of King Kyŏngdŏk (景德王), even the place names throughout the country were changed to Chinese characters (註12), eventually leading the Chinese (支那人) to say, "Silla's script is the same as China's (新羅文字同於中國)." (註13)
+
+5. Koguryŏ Script (高句麗文字). The Samguk Sagi, in the entry for King Hŏn'gang (憲康王) of Silla, states: "Spring of the 12th year, the northern garrison reported: 'People from a Tik-kuk (狄國, barbarian state) entered the garrison, hung a wooden slip (片木) on a tree, and left. It was retrieved and presented. The wood had 15 characters written on it, saying: The people of Poroguk (寶露國) and Hŭksuguk (黑水國) together approach the state of Silla for harmonious relations.'" Also, the same work, in the entry for the 11th year of King Yŏngyang (嬰陽王) of Koguryŏ (高句麗), states: "An edict ordered the University Doctor (大學博士) Yi Munjin (李文眞) to condense the old history (古史) into a New Compilation (新集) of 5 volumes. When the state first began using script (國初始用文字), there was a record of events in 100 volumes, called the Yugi (留記). At this time, it was edited and revised." This is documentary evidence proving the existence of script in northern Koguryŏ. If we connect this statement with the fact that Puyŏ had script, it becomes even clearer. If Puyŏ had script, it is obvious that its direct descendant, Koguryŏ, would also have script, and the statement "When the state first began using script" further confirms this. Also, the script on the wooden slip is thought to have been Koguryŏ script because the regions of Poro (寶露) and Hŭksu (黑水) were both once under Koguryŏ's control and thus bathed in its culture. If the script on the wooden slip was Koguryŏ script, then the country that could understand it, namely Silla, is acknowledged to have used the same script as Koguryŏ.
+
+6. Paekche Script (百濟文). The Samguk Sagi, in the entry for the 30th year of King Kŭn Ch'ogo (近肖古王) of Paekche, states: "The Kogi (古記, Old Records) says: Since the founding of Paekche, there were no written records of events (未有文字記事). At this time, they obtained the scholar (博士) Kohŭng (高興), and only then began to have written records (始有書記). However, Kohŭng is not prominent in other texts, so it is unknown who he was." But the Hsin T'ang Shu (新唐書) states, "Paekche had script and records (百濟有文字籍記)." These two seem contradictory, but the meaning of "no written records of events" is not that there was no script, but that written records did not exist until this time. Mr. Hosoi Hajime (細井肇) stated, "Considering that if it is true Koguryŏ possessed script from its founding, then looking at the geographical relationship between the two states of Koryŏ (Koguryŏ) and Paekche, or looking at their relationship by bloodline, it can be inferred that Paekche also possessed script from ancient times and used it for recording everyday matters. However, it is appropriate to view the official records of the state, that is, the Paekche Sŏgi (百濟書紀, Records of Paekche), as beginning to be properly established only after obtaining the scholar Kohŭng" (註14). This is considered a reasonable view. If we combine Koguryŏ's "When the state first began using script" and Paekche's [King Kaero's statement] "We and Koguryŏ originate from Puyŏ; in the time of our ancestors, we deeply revered the old ties" (註15), it becomes even more believable.
+
+7. Hyangch'al (鄕札). In the biography (傳) of Master Kyunyŏ (大師均如), a person from the time of King Sindŏk (神德王) of Silla, it is written: "The talented individuals and renowned figures of our country (我邦) can understand and recite Tang poems (唐什), but the great Confucian scholars and virtuous sages (鴻儒碩德) of that land (彼土, i.e., China) cannot understand our native songs (鄕謠). Furthermore (矧復), while Tang writing (唐文) is like an emperor's net spread out (帝綱交羅), easily read in our country, Hyangch'al (鄕札), resembling consecutively laid out Sanskrit letters (似梵書連布), is difficult for them to decipher (彼土難暗)" (註16). This statement provides stronger evidence than anything else for the existence of Silla's unique script. The description of Hyangch'al's appearance as "resembling consecutively laid out Sanskrit letters" serves as counter-evidence that it was not the same script as Sanskrit, and simultaneously proves it was not Chinese characters either. It is only natural that the arrogant Chinese, who did not see peoples outside their own as human, would describe such a unique Silla script, Hyangch'al, as "no script, using notched wood for tallies." The statement in the Kyunyŏ Chŏn describing Hyangch'al as "resembling consecutively laid out Sanskrit letters"; the P'yŏngyangji account stating "At Pŏpsu Bridge in P'yŏngyang, there is an old stele. It is not vernacular script (諺), nor Sanskrit (梵), nor seal script (篆). No one can decipher it," and "The stele inscription is not clerical script (隷字), but resembles Sanskrit script (梵書樣). Some say this was written by Sinji in the time of Tan'gun"; the Yu Munhwabo account stating "Wang Mun wrote characters, which resembled seal script (篆) or talismans (符)"; and the fact that the rock face carving (岩面刻字) on Namhaedo (縱 1尺 5寸, 橫 3尺 2寸), traditionally attributed to Sŏ Si (註9), is distinctly different from Qin's seal script—all these combined allow us to assert definitively that a unique native script existed in ancient Chosŏn and that this ancient script was one and the same. Furthermore, regarding the strange carved characters in the Temiya Cave (洞穴, determined to be a burial cave) in Otaru (小樽), Hokkaidō (北海道), Japan, Dr. Nakame Akira (中目覺博士) stated that they are ancient Turkic (土耳其) script carved vertically, that the language expressed by the script is that of the Suksin (肅愼) tribe who lived in the Ussuri River (烏蘇里江) region, and that the meaning is <34> "Leading my subordinates, I crossed the great sea... fought... entered this cave..." Dr. Nakame also discussed the east-west migration of the Turkic peoples due to climate change in Central Asia around the beginning of the 7th century AD, mentioned that the Suksin adapted and used that script, and stated that Hokkaidō was a colony of the Suksin, concluding that the Temiya Cave script indicates the site is the tomb of a chieftain of Suksin immigrants (註17). Regarding this, Mr. Ch'oe Hyŏnbae commented, "If this research (考証) and decipherment are accurate, it means that around 1270 years ago, in northern Chosŏn (Chosŏn and Suksin are identical names), Turkic script was somewhat modified and used to write the native language. If so, the Temiya script ultimately cannot be said not to be an ancient script created by our own hands" (註7). Thus, this can also be seen as further confirming the previous conclusion. One more point I wish to add here concerns the error of confusing and identifying Hyangch'al with Idu. Mr. Sin Ch'aeho (申采浩氏) stated, "Idu script (吏讀文) was so named because it was used by clerks (胥吏) in later times, but in Silla it was called Hyangsŏ (鄕書), and in Paekche it seems to have been called Kamyŏng (假名, borrowed names/characters)" (註18). Mr. Kwŏn Tŏkkyu also stated, "This Hyangch'al, namely Idu script, is a type of script created by taking the full sound or full meaning, or half sound or half meaning, of Chinese characters" (註19). However, I find it difficult to consider these views appropriate. Hyangsŏ, i.e., Hyangch'al, was a script that looked like consecutively laid out Sanskrit letters and did not borrow Chinese characters, whereas Idu involved borrowing Chinese characters to write the vernacular language using their sound or meaning. Therefore, I believe they are entirely different types.
+
+8. Parhae Script (渤海文字). As previously mentioned (See Parhae section in Introduction), Parhae (渤海) arose from the Malgal (靺鞨), originally a Koguryŏ tributary tribe. The people called Malgal are recorded in Chinese history under the names Siksin (息愼) during the reigns of Yao and Shun (唐虞代), Suksin (肅愼) or Chiksin (稷愼) during the Yin Dynasty (殷國代), Ilu (挹婁) from the Han Dynasty (漢代) onwards, Mulgil (勿吉) during the Northern and Southern Dynasties (南北朝, Northern Wei 元魏 era), and Malgal (靺鞨) during the Sui and Tang Dynasties (隋唐代). This is clear from the Hou Han Shu (後漢書, Vol. 115) stating "Ilu is the ancient land of Suksin," the Wei Shu (魏書, Vol. 100) stating "Mulgil state is the ancient Suksin state," and the Sui Shu (隋書, Vol. 81) stating "Malgal are the ancient Suksin clan." Thus, these Malgal belong to the same lineage as the later Jurchen (女眞) and Manchu (滿洲) peoples. This is the so-called Tungusic (通古斯) group. Regarding script, documentary evidence includes the Chiu T'ang Shu (舊唐書) stating, "Their customs (風俗) are the same as Koryŏ (Goguryeo) and Khitan (契丹). They possess some script (文字) and records (書紀)." Also, the Koryŏsa (高麗史) states, "During the time of Empress Wu of Tang (唐武后), Tae Choyŏng (大祚榮), a man of Koguryŏ, fled and secured Liaodong (遼東). Emperor Ruizong (睿宗) enfeoffed him as Prince of Parhae Commandery (渤海郡王), whereupon he called his state the Parhae Kingdom (渤海國). It incorporated more than 10 states including Puyŏ and Suksin. They had script (文字) and ritual music (禮樂)." The Wang Ch'en Ts'ung T'an (王塵叢談) and Ku Chin Ch'i Kuan (古今奇觀) contain the same story, the gist of which is: "During the T'ien-pao (天寶) era of the T'ang (唐), a state letter (國書) from Parhae arrived in T'ang. However, no one in the T'ang court could decipher the script. Emperor Hsüan-tsung (玄宗) of T'ang was greatly worried. The Director of the Palace Library (秘書監), Ho Chih-chang (賀知章), recommended Li T'ai-po (李太白), who entered the Chin-luan Hall (金巒殿), deciphered and read this text, and drafted the reply. Kao Li-shih (高力士) removed his boots, and Yang Kuei-fei (楊貴妃) ground the ink." Also, according to the Complete Works of Li T'ai-po (李太白 全集), Yueh Shih's (樂史) preface to the Li Han-lin Pieh-chi (李翰林別集序) states, "T'ang Hsüan-tsung summoned Li T'ai-po to draft a letter replying to the barbarians (和蕃書), and his thoughts flowed like a rushing river." Ch'u Chien's (築建) Stele Inscription for Master Li (李君碣記) states, "Hsüan-tsung summoned Li Po (李白) as Hanlin Academician Attendant (翰林待詔) and had him draft the letter replying to the barbarians." <35> Fan Chung-cheng's (范仲正) preface also states, "When Li T'ai-po drafted the reply letter to the barbarians (答蕃書), his eloquence (辯) was like a rushing river." This "letter replying to the barbarians" (和蕃書, 答蕃書) refers to the reply to the aforementioned Parhae state letter. However, the Old and New T'ang Annals (新舊唐書), while recording even the fact that Li T'ai-po was summoned to write the Ch'ing-p'ing Verses (淸平詞) praising Yang Kuei-fei, make no mention whatsoever of this Parhae state letter incident. Furthermore, the Complete Works of Li T'ai-po, while recording the event of the reply letter, does not include the text of the reply itself. The statements "possess some script and records" mentioned earlier, the fact that no one except Li T'ai-po knew the 'barbarian script' (蕃書), and the fact that the reply letter text was not recorded—these prove that the script of the state letter that came from Parhae was different from Chinese characters, meaning it was Parhae's unique script. Moreover, simply considering that they were the successors of Koguryŏ, it is doubtless that they would have had script. The only remaining question is whether Parhae's script was Hyangch'al or some other kind of script. Regarding this, Mr. Kwŏn Tŏkkyu said, "Since Parhae succeeded Koguryŏ, it is natural that they would have used the Idu script (吏讀文) used by Kuryŏ (Goguryeo). Some explain this further, saying that since the Khitan destroyed Parhae and modeled their Five Capital administrative system after Parhae's, it is doubtless that the Khitan script, made by taking half-pieces of clerical script characters, imitated Parhae's Kugyŏl (口訣). Also, the fact that the Jurchen destroyed the Khitan and created the Jurchen script modeled after the Khitan script must surely be a transmission of Parhae's Kugyŏl. Thus, it is a fact that the Three Kingdoms and Parhae used Kugyŏl. However, to hastily conclude that they only used Kugyŏl or Idu script and had no other script besides that is a very rash judgment. ...In any case, I wish to state that a separate script existed from the Tan'gun era through the Koryŏ dynasty." (註 19)(註 10)(註5) However, while it is clear that an ancient script existed and was transmitted to later times, I hesitate to assert whether Parhae's script was Idu script, Kugyŏl script, or the now un-transmitted ancient script. Regarding the 'barbarian script' story, Mr. Kwŏn further stated, "Is this truly a fictional text from a novel? No. Parhae was a great dynasty that recovered the old territory of Kuryŏ, conquered the Shantung Peninsula, and avenged Kuryŏ's humiliation. It is impossible that they lacked script. Furthermore, considering the implication of the text's existence, even though it seems fictional as transmitted by the self-concealing Han Chinese, its reality cannot be denied. In recent years, steles with Parhae script (or Jurchen script) have often been discovered north of Hamgwan, so there is no reason to debate the existence of Parhae script anymore." (註5) Mr. Sin Ch'aeho also stated, "Perhaps the Parhae state letter was written in Parhae script, which was Idu or Kugyŏl, which is why the T'ang people could not decipher it. And Li T'ai-po's reply letter was also done in Parhae script, which is why the text could not be included in the Collected Works of Li T'ai-po. Some may say, 'The above facts do not appear in the Old or New T'ang Annals, only in novels, so how can they be trusted?' But sometimes novels are perhaps more trustworthy than historical chronicles." (註 18) And, "'Hŏ P'ansŏ' (和蕃書) and 'Tap P'ansŏ' (答蕃書) both refer to the state letter replying to Parhae. The matter of drafting this state letter reply was the proudest achievement of Li T'ai-po's entire life. Why then do the Old and New T'ang Annals only mention that Li T'ai-po was summoned to compose the Ch'ing-p'ing Verses praising Yang Kuei-fei, without a word about the state letter replying to Parhae? Why does the Complete Works of Li T'ai-po only record the fact of the reply but not the reply itself? And why do famous anthologies like T'ang Wen Yüan Ying Hua (唐文苑英華) or Ch'üan T'ang Wen Ch'ao (全唐文抄), which include even Li T'ai-po's ordinary poems and writings, omit his proudest work, the letter replying to Parhae? The T'ien-pao era of T'ang Hsüan-tsung was after Parhae's King Mu (武帝) and the beginning of King Mun's (文宗) reign. During King Mu's time, Naval Commander Chang Munhyu (張文休) was sent to enter Shantung Province (山東省) and kill the T'ang governor of Teng-chou (登州), Wei Chün (韋俊). In areas like Liaodong, the large army of T'ang general Kao K'an (高侃) and others was defeated. As Parhae's national prestige overwhelmed (壓) T'ang's, Parhae finally broke (破) precedent <36> and sent a state letter written in Parhae script to T'ang. T'ang Hsüan-tsung's ruler and ministers were suddenly (卒然) unable to decipher the script and worried, until they finally found Li T'ai-po, a scholar of Parhae script, had him draft the reply, and resolved the diplomatic dilemma of the time. However, since China (支那) anciently had no precedent of exchanging international correspondence in another's script, opening this new precedent with Parhae was an infinite shame. Is this why the T'ang Annals omitted the fact, and the Complete Works of Li T'ai-po wrote vaguely about the fact but did not include the text?" (註18) I resonate with the views of Messrs. Kwŏn and Sin as being appropriate, and there is no need to add superfluous comments (蛇足). However, I believe the reason for omitting it from the Old and New T'ang Annals was less about shame over setting a precedent for using foreign script, and more about shame from being insulted by a foreign enemy they had always disregarded.
+
+9. Koryŏ Script (高麗文字). It is common knowledge that besides Chinese characters, Idu (吏讀) and Kugyŏl (口訣), which are transmitted to this day, existed during the Koryŏ (高麗) period, so there is no need to elaborate now. However, traces suggesting that an ancient script, not transmitted today, was also used can be found. According to what is transmitted through Yi Tŏngmu's (李德懋) Ch'ŏngbirok (淸脾錄), Chang Yu (張儒, style name Chinsan 晉山, later Minister of Revenue 戶部尙書 during King Hyŏnjong's reign), a person from King Kwangjong's (光宗) time, was in Chiang-nan (江南), China (during the Wuyue Qian 吳越錢氏 period) on a state mission. At that time, a zither (瑟) inscribed with the Hansongjŏng Kok (寒松亭曲, Song of Hansong Pavilion) from a contemporary anthology (樂府), set adrift on the sea by some enthusiast (好事者) in Koryŏ, drifted ashore (漂着) there. The people of Chiang-nan could not decipher it when they saw it, so they brought it to Chang Yu. Chang Yu immediately translated it into a Chinese poem (漢詩): "Moon white over cold pines at night (月白寒松夜), Waves calm at Kyŏngp'o in autumn (波安鏡浦秋), Calling mournfully, coming and going again (哀鳴來又去), The faithful single sand gull (有信一沙鷗)." (The Korean original poem (sijo) is still extant). From this, we can infer that the original text of the Hansongjŏng Kok was written in Koryŏ's native script. Also, the character "오" [*] on the reverse side of a Koryŏ-cast Wŏnyu T'ongbo (元祐通寶) coin, resembling the modern Hangul vowel 'ㅗ' [o], shows that Koryŏ's unique script was used. Furthermore, Sin Kyŏngjun (申景濬) stated, "In the East, there anciently existed commonly used vernacular script (東方舊有俗用文字), but its characters were insufficient in number (其數不備), and their forms lacked structure (其形無法), inadequate to represent the sounds of the region or serve the needs of the region" (註 20). This statement "anciently existed commonly used vernacular script" clearly attests to the existence of a pre-existing script, while simultaneously indicating <37> it was neither Idu nor Kugyŏl, which borrowed Chinese characters, but some other script. Why is this so? If it referred to Idu or Kugyŏl, which could borrow limitless Chinese characters, it would be impossible to say "its characters were insufficient in number," nor would it be possible to say "their forms lacked structure." Moreover, since Sin Kyŏngjun was a person from King Yŏngjo's (英祖) time, hundreds of years after the promulgation and implementation of Hunminjŏngŭm (訓民正音), this proves that the old script was still transmitted until that time. If it was transmitted until King Yŏngjo's time, it is doubtless that this script already existed during the Koryŏ period. Considering this, the question arises: why are there no clear traces left today of that script which was transmitted for so long, until such recent times? No matter how many wars and fires there were, it is hard to believe. Regarding this, Mr. Kwŏn Tŏkkyu stated that the precursor to Hunminjŏngŭm was precisely this old script (註 10 及 5). He viewed King Sejong (世宗) as having merely researched and organized the old script, and promulgated and implemented it with state power.
+
+(Footnotes)
+(註 5) Kwŏn Tŏkkyu, 『Chosŏn Ŏmun Kyŏngwi』 (The Warp and Woof of Korean Language and Writing)
+(註 6) Hong Kal (Ge Hong), 『Pao-p'u-tzu』; Tongbang Sak (Dongfang Shuo), Sinigyŏng (Shen yi jing); Han Ch'iyun, 『Haedong Yŏksa』 Vol. 1
+(註 7) Ch'oe Hyŏnbae, 『Kodae Munhak Non』 (Treatise on Ancient Literature) (『Hyŏndae P'yŏngnon』 Vol. 2, No. 1)
+(註 8) Kwŏn Tŏkkyu, 『Chosŏn Yugi Sang』 (Ancient Records of Chosŏn, Part 1), p. 63
+(註 9) Chosŏn Government-General (朝鮮總督府) ed., 『Chosŏn Kŭmsŏk Ch'ongnam』 (Complete Collection of Korean Epigraphy)
+(註 10) Chosŏnŏ Yŏn'guhoe (Korean Language Research Society) ed., 『Han'gŭl』 No. 1
+(註 11) 『Samguk Sagi』 Vol. 4, King Chinhŭng, 6th year entry
+(註 12) Ibid., Vol. 9, King Kyŏngdŏk, 16th year entry
+(註 13) 『Sui Shu』; 『Haedong Yŏksa』
+(註 14) Hosoi Hajime, 『Chosŏn Munhwasa Ron』 (Treatise on Korean Cultural History)
+(註 15) 『Samguk Sagi』 Paekche, King Kaero, 18th year entry
+(註 16) Hyŏngnyŏn Chŏng (He Lian-ting), Koryŏ Mun-jong era poet, 『Tae Hwaŏm Sujwa Wŏnt'ong Yangjung Taesa Kyunyŏ Chŏn』 (Biography of the Great Hwaŏm Head Seated Meditation Master Wŏnt'ong Yangjung, Master Kyunyŏ) (Master Kyunyŏ was from the time of King Sindŏk of Silla)
+(註 17) Dr. Nakame Akira, 『Otaru no Kodai Moji』 (The Ancient Script of Otaru)
+
+What is the prized possession of the 21st Century? It's "A person who still hasn't lost their job." A satire on a world full of unemployment. (From a foreign magazine)
+(註 18) Sin Ch'aeho, 『Chosŏn Korae ŭi Munja wa Siga ŭi Pyŏnch'ŏn』 (Changes in Korea's Ancient Script and Poetry) (Tong-a Ilbo, New Year's edition onwards, 1929)
+(註 19) Kwŏn Tŏkkyu, 『Chŏngŭm Ijŏn ŭi Chosŏn Kŭl』 (Korean Writing Before the Correct Sounds) (Chungoe Ilbo, Oct. 24, 1927)
+(註 20) Sin Kyŏngjun, 『Hunminjŏngŭm Tohae』 Preface <38>
+<32-38>
+
+**Summary**
+
+This article by Kim Yun'gyŏng, published in 1931, argues for the existence of various indigenous Korean writing systems prior to King Sejong's creation of Hunminjŏngŭm (Hangul). The author compiles evidence from Chinese and Korean historical texts (like *Samguk Sagi*, *Samguk Yusa*, *Pao-p'u-tzu*) and interpretations by contemporary scholars (like Kwŏn Tŏkkyu, Ch'oe Hyŏnbae, Sin Ch'aeho) to discuss potential scripts like Samhwang Naemun, Sinji Pijamun, Puyŏ script, Silla's Hyangch'al (distinct from Idu), Koguryŏ script, Paekche script, Parhae script, and even a persistent ancient Koryŏ script. The author interprets vague references, inscriptions (like the P'yŏngyang stele and Namhaedo carving), and even foreign accounts (like the *Liang Shu*'s "notched wood") as proof of these lost scripts, often arguing against the Sinocentric view that dismissed non-Chinese writing. The article concludes by suggesting that Hunminjŏngŭm was likely a systematization of these older, pre-existing native scripts. From a colonial history perspective, the article is highly revealing of the nationalist intellectual currents seeking to establish a long, independent cultural history for Korea, particularly in the realm of writing, countering Japanese colonial narratives and historical Chinese cultural dominance. Historians might find the specific textual interpretations, the synthesis of disparate pieces of evidence (some highly speculative), and the explicit articulation of a pre-Hangul indigenous writing tradition valuable for understanding Korean cultural nationalism and historical consciousness during this period.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun'gyŏng
+權悳奎	권덕규	Kwŏn Tŏkkyu
+支那	지나	China
+太昊伏羲氏	태호복희씨	T'aeho Pokhŭissi
+朝鮮	조선	Chosŏn
+抱朴子	포박자	Pao-p'u-tzu
+黃帝	황제	Huang Ti
+靑丘	청구	Ch'ŏnggu
+風山	풍산	P'ungsan
+紫府先生	자부선생	Chabu Sŏnsaeng
+三皇內文	삼황내문	Samhwang Naemun
+崔鉉培	최현배	Ch'oe Hyŏnbae
+蒼頡	창힐	Ch'ang Chieh
+神誌秘詞	신지비사	Sinji Pijamun
+文獻備考	문헌비고	Munhŏn Pigo
+大東韻玉	대동운옥	Taedong Unok
+神誌	신지	Sinji
+檀君	단군	Tan'gun
+書雲觀秘記	서운관비기	Sŏwŏn'gwan Pigye
+龍飛御天歌註	용비어천가주	Yongbiŏch'ŏn'ga Chu
+三國遺事	삼국유사	Samguk Yusa
+寶藏奉老普德移庵條	보장봉로보덕이암조	Pojang Pongno Podŏk Iam Cho
+武陽王	무양왕	Muyang Wang
+蓋金	개금	Kae Kŭm
+蘇文	소문	Somun
+唐書	당서	T'ang Shu
+莫離支	막리지	Mangniji
+中書令	중서령	Chungsŏryŏng
+大英弘	대영홍	Taeyŏng Hong
+世祖實錄	세조실록	Sejo Sillok
+古朝鮮秘詞	고조선비사	Kojosŏn Pisa
+大辯說	대변설	Taebyŏnsŏl
+朝代記	조대기	Chodaegi
+誌公記	지공기	Chigonggi
+表訓天詞	표훈천사	P'yohunch'ŏnsa
+三聖密記	삼성밀기	Samsŏng Milgi
+安含老元董仲三聖記	안함로원동중삼성기	Anham No Wŏn Tongjung Samsŏnggi
+道證記	도증기	Tojŭnggi
+動天錄	동천록	Tongch'ŏllok
+地華錄	지화록	Chihwallok
+睿宗實錄	예종실록	Yejong Sillok
+成宗實錄	성종실록	Sŏngjong Sillok
+句麗	구려	Kuryŏ
+平壤誌	평양지	P'yŏngyangji
+平壤法首橋	평양법수교	P'yŏngyang Pŏpsu Kyo
+宣祖	선조	Sŏnjo
+王文	왕문	Wang Mun
+柳文化譜	유문화보	Yu Munhwabo
+扶餘	부여	Puyŏ
+徐市	서시	Sŏ Si
+南海島	남도	Namhaedo
+日本	일본	Ilbon
+蝦夷	하이	Ezo
+手宮	수궁	Temiya
+梁書	양서	Liang Shu
+新羅	신라	Silla
+高麗	고려	Koryŏ
+百濟	백제	Paekche
+南蠻	남만	Namman
+北狄	북적	Pukchŏk
+西羌	서강	Sŏgang
+東夷	동이	Tong'i
+三國史記	삼국사기	Samguk Sagi
+智證麻立干	지증마립간	Chijŭng Maripkan
+斯羅	사라	Sara
+斯盧	사로	Saro
+居西干	거서간	Kŏsŏgan
+次次雄	차차웅	Ch'ach'aung
+尼師今	이사금	Isagŭm
+麻立干	마립간	Maripkan
+眞興王	진흥왕	Chinhŭng Wang
+伊飡異斯夫	이찬이사부	Ich'an Isabu
+大阿飡居柒夫	대아찬거칠부	Taeach'an Kŏch'ilbu
+景德王	경덕왕	Kyŏngdŏk Wang
+隨書	수서	Sui Shu
+憲康王	헌강왕	Hŏn'gang Wang
+狄國	적국	Tik-kuk
+寶露國	보로국	Poroguk
+黑水國	흑수국	Hŭksuguk
+嬰陽王	영양왕	Yŏngyang Wang
+李文眞	이문진	Yi Munjin
+留記	유기	Yugi
+近肖古王	근초고왕	Kŭn Ch'ogo Wang
+古記	고기	Kogi
+高興	고흥	Kohŭng
+新唐書	신당서	Hsin T'ang Shu
+細井肇	세이조	Hosoi Hajime
+盖鹵王	개로왕	Kaero Wang
+神德王	신덕왕	Sindŏk Wang
+大師均如	대사균여	Taesa Kyunyŏ
+赫連挺	혁련정	Hyŏngnyŏn Chŏng
+大華嚴首座圓通兩重大師均如傳	대화엄수좌원통양중대사균여전	Tae Hwaŏm Sujwa Wŏnt'ong Yangjung Taesa Kyunyŏ Chŏn
+北海道	북해도	Hokkaidō
+小樽手宮	소준수궁	Otaru Temiya
+中目覺	중목각	Nakame Akira
+土耳其	토이기	T'oigi
+烏蘇里江	오소리강	Usuri Kang
+肅愼	숙신	Suksin
+申采浩	신채호	Sin Ch'aeho
+吏讀	이두	Idu
+鄕書	향서	Hyangsŏ
+假名	가명	Kamyŏng
+渤海	발해	Parhae
+靺鞨	말갈	Malgal
+唐虞	당우	Tang Yao & Yu Shun
+息愼	식신	Siksin
+殷國	은국	Ŭn'guk
+稷愼	직신	Chiksin
+漢代	한대	Han-dae
+挹婁	읍루	Ŭmnu
+南北朝	남북조	Nambukcho
+元魏	원위	Wŏn Wi
+勿吉	물길	Mulgil
+隋唐	수당	Su-Tang
+後漢書	후한서	Hou Han Shu
+魏書	위서	Wei Shu
+隋書	수서	Sui Shu
+女眞	여진	Yŏjin
+滿洲	만주	Manju
+通古斯	통고사	T'unggusa
+舊唐書	구당서	Chiu T'ang Shu
+契丹	계단	Kyedan
+高麗史	고려사	Koryŏsa
+唐武后	당무후	T'ang Wu Hou
+大祚榮	대조영	Tae Choyŏng
+遼東	요동	Yodong
+睿宗	예종	Yejong (of Tang)
+王塵叢談	왕진총담	Wang Ch'en Ts'ung T'an
+古今奇觀	고금기관	Ku Chin Ch'i Kuan
+唐	당	T'ang
+天寶	천보	Ch'ŏnbo
+玄宗	현종	Hyŏnjong (of Tang)
+秘書監	비서감	Pisŏgam
+賀知章	하지장	Ha Chijang
+李太白	이태백	Yi T'aebaek
+金巒殿	금만전	Kŭmmanjŏn
+高力士	고력사	Koryŏksa
+楊貴妃	양귀비	Yang Kwibi
+李太白 全集	이태백 전집	Yi T'aebaek Chŏnjip
+樂史	악사	Ak Sa
+李翰林別集序	이한림별집서	Yi Hallim Pyŏljip Sŏ
+築建	축건	Ch'uk Kŏn
+李君碣記	이군갈기	Yi Kun Kalgi
+范仲正	범중정	Pŏm Chungjŏng
+淸平詞	청평사	Ch'ŏngp'yŏngsa
+渤海 武帝	발해 무제	Parhae Muje
+文宗	문종	Munjong (of Parhae - *error in text, likely means Munwang*)
+張文休	장문휴	Chang Munhyu
+山東省	산동성	Sandongsŏng
+登州	등주	Tŭngju
+韋俊	위준	Wi Chun
+高侃	고간	Ko Kan
+唐文苑英華	당문원영화	T'ang Munwŏn Yŏnghwa
+全唐文抄	전당문초	Chŏn Tang Munch'o
+口訣	구결	Kugyŏl
+李德懋	이덕무	Yi Tŏngmu
+淸脾錄	청비록	Ch'ŏngbirok
+光宗	광종	Kwangjong (of Koryŏ)
+張儒	장유	Chang Yu
+晉山	진산	Chinsan
+顯宗	현종	Hyŏnjong (of Koryŏ)
+戶部尙書	호부상서	Hobu Sangsŏ
+江南	강남	Kangnam
+吳越錢氏	오월전씨	O-Wŏl Chŏn-ssi
+寒松亭曲	한송정곡	Hansongjŏng Kok
+瑟	슬	Sŭl
+鏡浦	경포	Kyŏngp'o
+沙鷗	사구	Sagu
+元祐通寶	원우통보	Wŏnyu T'ongbo
+申景濬	신경준	Sin Kyŏngjun
+英祖	영조	Yŏngjo
+訓民正音圖解	훈민정음도해	Hunminjŏngŭm Tohae
+世宗	세종	Sejong
+洪葛	홍갈	Hong Kal
+東方朔	동방삭	Tongbang Sak
+神異經	신이경	Sinigyŏng
+韓致奫	한치윤	Han Ch'iyun
+海東繹史	해동역사	Haedong Yŏksa
+朝鮮語文經緯	조선어문경위	Chosŏn Ŏmun Kyŏngwi
+現代評論	현대평론	Hyŏndae P'yŏngnon
+朝鮮留記	조선유기	Chosŏn Yugi
+朝鮮總督府	조선총독부	Chosŏn Ch'ongdokpu
+朝鮮金石總覽	조선금석총람	Chosŏn Kŭmsŏk Ch'ongnam
+한글	한글	Han'gŭl (magazine name)
+朝鮮文化史論	조선문화사론	Chosŏn Munhwasa Ron
+小樽の古代文字	소준の고대문자	Otaru no Kodai Moji
+東亞日報	동아일보	Tong-a Ilbo
+中外日報	중외일보	Chungoe Ilbo
+
+**Glossary**
+
+正音	정음	Correct Sounds (refers to Hunminjŏngŭm)
+조선글	조선글	Korean writing/script (older term)
+淵源	연원	Origin, source
+考證	고증	Textual research, verification
+脉絡	맥락	Connection, context
+書名	서명	Book title
+圖讖	도참	Apocryphal texts, divination charts
+割註	할주	Interlinear note, annotation
+勅命	칙명	Royal decree, imperial command
+碑文	비문	Stele inscription
+諺	언	Vernacular script (often Hangul, context implies older native script here)
+梵	범	Sanskrit, Indian
+篆	전	Seal script (Chinese calligraphy style)
+隷字	예자	Clerical script (Chinese calligraphy style)
+岩石刻文	암석각문	Rock inscription
+刻木爲信	각목위신	Notching wood for communication/tallies
+方言	방언	Vernacular language (used somewhat pejoratively for native Korean terms/titles)
+尊號	존호	Honorific title (for a ruler)
+鄕札	향찰	Hyangch'al (Silla writing system)
+褒貶	포폄	Praise and blame (in historiography)
+修撰	수찬	Compile, edit (history)
+爲政家	위정가	Statesman, politician
+賤視	천시	Look down upon, despise
+片木	편목	Wooden slip, tablet
+書記	서기	Written records; secretary
+博士	박사	Scholar, doctor (official title)
+鴻儒碩德	홍유석덕	Great Confucian scholars and virtuous sages
+鄕謠	향요	Native folk songs, local ballads
+唐什	당십	Tang poetry
+矧復	신부	Furthermore, moreover (archaic)
+連布	연포	Laid out consecutively
+考証	고증	Verification, research
+吏讀	이두	Idu system
+胥吏	서리	Petty government clerk
+假名	가명	Borrowed name/character (likely referring to borrowed Hanja)
+口訣	구결	Kugyŏl system
+風俗	풍속	Customs, manners
+書紀	서기	Written records
+國書	국서	State letter, diplomatic document
+海軍大將	해군대장	Naval Commander, Admiral
+判史	판사	Governor, Prefect (older title)
+壓	압	Overwhelm, suppress
+破	파	Break, violate
+卒然	졸연	Suddenly, abruptly
+好事者	호사자	Enthusiast, dilettante
+樂府	악부	Music Bureau; type of poem/song
+瑟	슬	Se (large ancient zither)
+漂着	표착	Drift ashore
+鑄造	주조	Casting (metal)
+俗用文字	속용문자	Commonly used vernacular script
+不備	불비	Insufficient, incomplete
+無法	무법	Without form/structure, irregular
+蛇足	사족	Superfluous addition (lit. snake feet)
+잇다	있다	To exist, to have (older spelling '잇다')
+만들엇다	만들었다	Made, created (older spelling/form)
+하엿으나	하였으나	Did, however (older spelling/form)
+그러타	그렇다	To be so, yes (older spelling '그러타')
+뵈다	보이다	To seem, to be seen (older spelling '뵈다')
+엿던가	였던가	Was it...? (older spelling/form)
+되다	되다	To become (older spelling '되다')
+일즉이	일찍이	Early on, previously (older spelling '일즉이')
+엿으리라	였으리라	Would have been (older spelling/form)
+쓰다	쓰다	To write, to use (older spelling '쓰다')
+모른다	모르다	To not know (older spelling '모른다')
+왓다	왔다	Came (older spelling '왓다')
+없엇다	없었다	Did not exist, did not have (older spelling '없엇다')
+듯하다	듯하다	To seem like (older spelling '듯하다')
+되엇음으로	되었으므로	Because it became/was (older spelling/form)
+빼엇느냐	뺐느냐	Why was it omitted? (older spelling/form)
+엿던	였던	Which was (older spelling/form)
+쓰다	쓰다	To write (older spelling '쓰다')
+그러한고	그러한가	Why is it so? (older spelling/form)
+이르다	이르다	To say, to call (older spelling '이르다')
+
+
+---------------------------
+
+
+잡지명	동광 제23호
+발행일	1931년 07월 05일
+기사제목	正音以前의 조선글, 이 논문은 朝鮮文字의 역사적 고찰 제2편 本論의 시작이다
+필자	金允經
+기사형태	논설
+
+正音以前의 조선글, 이 논문은 朝鮮文字의 역사적 고찰 제2편 本論의 시작이다
+						金允經
+1. 傳하지 못한 文字
+1. 三皇內文. 몇몇 考證學者의 말이라고 權悳奎氏는 支那 古代의 太昊伏羲氏가 처음으로 만들엇다는 八卦라는 것도 朝鮮文字와 淵源이 深密하다고 하엿으나(註5) 이것은 너무 막연하니 그만 두더라도 拘朴子에 『黃帝東到靑丘, 過風山, 見紫府先生, 受三皇內文... 』(註6)이라 한 三皇內文은 朝鮮古代의 문자 잇음을 증거하는 것이외다. 그러타 하면 權悳奎氏와(註5) 崔鉉培氏도(註7) 이른 바와 같이 黃帝때 사람 蒼頡이 새발의 자욱(鳥跡)을 보고 짓기 시작하엿다는 한자도 三皇內文과 무슨 脉絡이 잇다고 추측됩니다.
+
+2. 神誌秘詞文. 文獻備考의 藝文考의 書名에 『神誌秘詞』가 보이고 또 大東韻玉에 『神誌, 檀君時人, 自號仙人』이라 하엿으며 또 『書雲觀秘記, 有九變震檀之圖, 朝鮮卽震檀』이라 하엿는데 龍飛御天歌註에는 『九變圖局, 檀君時人神誌所撰圖讖之名, 言東國歷代定都凡九變其局, 並言本朝鮮受命建都之事』라 하엿고, 三國遺事 卷3의 寶藏奉老普德移庵條에는 『時武陽王聞其賢(割註略) 徵入爲臣, 自稱姓蓋名金, 位至蘇文, 乃侍中職也』의 割註에는 『唐書云, 蓋蘇文自謂莫離支, 猶中書令, 又按神誌秘詞序云, 蘇文大英弘序並註, 則蘇文乃職名有文證, 而傳云, 文人蘇英弘序, 未詳熟是』라고 하엿으며, 또 世祖實錄에 『世祖3년 丁丑 5월, 諭8道 관찰사 曰, 古朝鮮秘詞, 大辯說, 朝代記, 誌公記, 表訓天詞, 三聖密記, 安含老元董仲三聖記, 道證記, 動天錄, 地華錄等 文書, 不宜藏於私處, 如有藏者, 許令進上, 其廣諭公私及寺社』라 함이 잇고 또 睿宗實錄 己丑 9월 條와 成宗實錄 己丑12월 條에도 같은 勅命을 나리어 그러한 古書를 찾아 들이게 한 일이 잇엇는데 이 여러 문헌에 의하여 壇朝의 神誌秘詞가 최근 李朝때까지 전하던 것임을 밝히 알겟습니다. 그러하면 그 神誌秘詞는 곳 檀君時代에 문자가 잇엇던 것을 증명하는 것이외다. 그러하나 이제 그때의 글이 전하지 아니하니 그 문자는 어떠한 文字 엿던가를 살필 길이 없음이 유감이외다. 權悳奎氏는 『句麗의 大英弘은 神誌秘詞를 한문으로 번역하고 또 序와 註를 더하엿다』(註8)고 하엿는데 이는 아마 전에 인용한 三國遺事의 기사에 근거한 말인 듯 합니다. 만일 그러타 하면 그 기사만으로는 한문으로 번역한 것이라고 단언하기는 어렵다고 생각됩니다. 또 龍飛御天歌 註에 들어난 祊�誌의 九變圖局이란 것의 내용을 말한 것을 보면 극히 後代人의 손으로 된 것이 아닌가 의심되는 점도 없지 아니합니다. 또 平壤誌에 『平壤法首橋有古碑, 非諺, 非梵, 非篆, 人莫能曉』라고, 또 『癸未(이는 宣祖16년)2월, 掘覺右碑之埋于法首橋者, 出而視之, 則折爲三段, 碑文非隷字, 如楚書樣, 或謂此是檀君時神誌所書云, ＜32＞ 歲久遺失』이라 함을 보면 전에 神誌秘詞 云云의 기사와 아울러서 檀君時代에 문자가 잇엇다는 것을 시인하게 합니다.
+
+3. 王文文. 柳文化譜에 『王文 書文字, 而如篆, 文卽受競之父』라 하엿습니다. 이 王文이라는 사람은 西曆 기원전 12세기경의 扶餘 사람이엇섯은 즉 그 문자는 扶餘文字엿던 것이 틀림 없읍니다. 이에 대하여 權悳奎氏는 神誌의 쓴 것이라는 平壤法首橋를 碑文이라던가 또는 徐市의 題名이라고 전하여 오는 南海島에 잇는 岩石刻文(註9)이 王文 文字와 같은 것이 아닌가 추측하엿으며 또 日本 蝦夷땅의 手宮 文字란 것도 아마 북부 大陸朝鮮에 행하던 고대문자라고 推斷하엿읍니다. (註 10, 註 8, 註 5)
+
+
+4. 刻木文. 梁書에 新羅를 가르치어서 『與高麗相類, 無文字, 刻木爲信, 言語待百濟而後通焉』이라 하엿는데 그 『無文字』라 함은 자만한 支那 사람의 입버릇으로서 자기들 밖에는 사람을 사람으로 인정하지 아니하며(南蠻, 北狄, 西羌, 東夷라 함은 그 一例) 또 따라서 자기네 밖의 민족의 문화는 문화라고 인정하지 아니하는 터라 자기네의 한문 이외의 문자야 그것이 아무리 훌륭하다 할찌라도 그들의 눈에 문자로 보일 리 萬無한 일이외다. 그리하여 한문과 다른 新羅의 문자를 볼 때에 곳 『無文字』라 하고 다만 『刻木爲信』이라 한 것입니다. 그러하면 그 『刻木爲信』이라 이른바 의사발표의 符號는 곳 新羅 고유의 또는 壇朝와 扶餘朝 以來의 문자를 가르치어 이름이 분명하야 보입니다. 三國史記 新羅 智證麻立干條에 『4년 冬10月, ,群臣上言, 始祖創業以來, 國名 未定, 或稱 斯羅, 或稱 斯盧, 或言 新羅, 臣等以爲新羅德業日新, 羅者網羅四方之義則, 其爲國號宜矣, 又觀自古有國家者, 皆稱帝稱王, 自我始祖立國至今22世, 但稱方言未有尊號, 今群臣一意謹上尊號, 新羅國王, 王從之』라 함을 보면 建國以來 智證 麻立干 때까지 22代, 560년간은 방언 혹은 大師均如傳의 이른바 鄕札을 쓰어 오던 것이 명백합니다. 그러하나 한문이 수입되므로부터 어느 때부턴가 한자의 音 혹은 뜻을 빌어서 吏讀이라는 문자를 만들어 그것에 대신하여 쓰게 된 것이라고 생각됩니다. 그러하나 우에 인용함과 같이 智證麻立干 때에 이르어서는 한문의 세력이 매우 세게되어 이미 그것에 중독이 되엇다고 보이는 것은 居西干, 次次雄, 尼師今, 麻立干 들으로 부르던 統治者의 尊號도 버리고 『王』이라 하며, 또 國號도 방언의 音대신으로 한문의 문자적 핊�석의 뜻을 붙이어 『德業日新, 綱羅四方之義』로 『新羅』라 한다고 하엿습니다. 또 眞興王때에 이르어서는 『伊飡異斯夫奏曰, 國史者, 記君臣之善惡,＜33＞ 示褒貶於萬代, 不有修撰, 後代何觀, 王深然之, 命大阿飡居柒夫等, 廣集文士, 俾之修撰』(註11)이라 한 대로 國史의 編簒 或은 일반 공용 문서에까지 鄕札 대신으로 한문을 쓰게된 것 같읍니다. 그 뒤로 역대의 爲政家는 점점 한문을 숭상하고 國文을 賤視하며 景德王 때에는 전국의 지명까지 다 한문으로 바꾸어서 (註12) 마침내 支那人으로 하여금 『新羅文字同於中國』 (註13) 이라고 말하게 함에 이른 것이외다.
+
+5. 高句麗文字. 三國史記 新羅 憲康王條에 『12年 春, 北鎭奏, 狄國人 入鎭, 以片木掛樹而歸, 遂取以獻, 其木書15字云寶露國與黑水國人, 共向新羅國和通』이라 하엿고, 또 同書 高句麗 嬰陽王 11年 條에는 『詔大學 博士 李文眞, 約古史爲新集5卷, 國初始用文字, 時有人記事100卷, 名日留記, 至是刪修』라 하엿습니다. 이것은 北方 高句麗의 문자 잇엇음을 증명하는 문헌이외다. 만일 扶餘에 문자 잇엇다 함과 이 말을 연락하여 생각하면 더욱 명백하다 하겟습니다. 만일 扶餘에 문자 잇엇다하면 그 直系인 高句麗에도 文字 잇을 것이 분명한데 『國初始用文字』라 하엿으니 더욱 그것을 確證하게 되는 것이외다. 또 그 片木書 문자도 高句麗文字 엿으리라고 생각되는 것은 그 寶露, 黑水의 地方이 다 일쯕이 高句麗의 節制를 받고, 또 그 문화에 沐浴하게된 까닭이외다. 이같이 그 片木書 文字가 高句麗文이라하면 그것을 알게 되는 나라, 즉 新羅도 高句麗와 같은 文字를 쓴 것이 인정되는 것이외다.
+
+6. 百濟文. 三國史記 百濟 近肖古王 30年 條에 『古記云, 百濟開國以來, 未有文字記事, 至是得博士高興, 始有書記, 然高興未嘗顯於他書, 不知其何許人也』라 하엿는데 新唐書에는 『百濟有文字籍記』 라고 보입니다. 이 둘은 서로 모순됨 같이 보이나 『未有文字記事』의 뜻은 문자가 없다는 것이 아니요 문자의 기록이 이때까지 없엇다는 것이외다. 細井肇氏가 『생각하건대 高句麗가 그 建國 때부터 문자를 가짐이 사실이라 하면 麗濟兩國의 지리적 관계로 보던지 또 그 혈통적 관계로 보던지 百濟도 예ㅅ적부터 문자를 가지고 日用 凡百을 적는대 쓰엇으리라고 살피어 집니다. 그러하나 한 國家로서의 기록은 즉 博士 高興을 얻은 뒤부터 百濟書紀가 비롯오 구비되게 된 것이라고 봄이 타당할 것입니다』 (註14)한 것은 온당한 견해라고 생각됩니다. 高句麗의 『國初始用文字』와 百濟의 『臣與高句麗源出扶餘, 先世之時, 篤崇舊疑』(註15)을 합하여 보면 더욱 분명히 그러하다고 믿게 되는 것이외다.
+
+7. 鄕札. 新羅 神德王 때의 사람 大師均如의 傳에 『我邦之才子名公, 解吟唐什, 彼土之鴻儒碩德, 莫解鄕謠, 矧復唐文, 如帝綱交羅, 我邦易讀, 鄕札似梵書連布, 彼土難暗』 (註16) 이라한 것은 新羅의 고유문자 잇음을 무엇보다도 힘잇게 증거 세우는 말이외다. 이 鄕札의 형상이 『似梵書連布』라 한 것은 梵書와는 같은 글이 아님을 反証하는 것이며 또 동시에 漢字도 아님을 증거세우는 말이외다. 이 같은 新羅 固有의 文字鄕札을 보고서 『無文字 刻木爲信』이라 한 것도 자기네 외에는 서람을 사람으로 보지 아니하는 자만한 支那人으로서는 당연한 筆法이라 할만한 것이외다. 이 『鄕札 似梵書連布』라 한 均如傳의 기사와 『平壤法首橋有古碑, 非諺, 非梵, 非篆, 人莫能曉』와 『碑文非隷子, 如梵書樣, 或謂此是檀君時神誌所書云』이라한 平壤誌記事와 『王文書文字, 而如篆如符』라 한 柳文化譜외 기사와 徐示의 題名이라고 전하는 南海島의 岩面刻字(縱 1尺 5寸, 橫 3尺 2寸)(註9)가 秦의 篆書와 판이한 일들은 합하여 확실히 朝鮮 古代의 고유 문자가 잇엇다는 일과 그 古代文字는 동일한 한가지 엿섯다는 일을 단언하게 하는 것이외다. 또 日本北海道 小樽手宮의 洞穴(墓穴이라고 판명 됨)에 잇는 이상한 조각의 문자에 대하여 中目覺博士는 그것이 古代 土耳其의 문자를 縱으로 새긴 것이라 하고 또 그 문자로 표현된 말은 烏蘇里江 地方에 살던 肅愼族의 말이며 그 뜻은 ＜34＞ 『나는 부하를 데리고 大海를 건느어서... 싸우어...이 洞穴에 들엇다... 』함이라 하고, 또 박사는 그 이유에 대하여 西曆紀元 제7세기초에 中央亞細亞의 기후의 변동으로 인하여 突厥族의 東西 이동이 일어남을 말하고, 肅愼이 그 문자를 변하여 씀을 말하고, 다슋� 北海道가 肅愼의 식민지엿음을 말하여서 手宮洞穴의 문자는 그 곳이 肅愼 移民의 추장의 墓 됨을 보인 것이라 하엿습니다. (註17) 이에 대하여 崔鉉培氏는 『만일 이 考証과 독파를 정확하다 하면 距今 1270년 전경에 北部朝鮮(朝鮮과 肅愼과는 동일 명칭)에서 土耳文字를 다소 변형하여 자국어를 적음에 쓴 것이라 할 것이외다. 그러하다면 手宮文字는 결국 우리의 손으로 창작된 古代文字가 아니라고 못할 것이외다』(註7)하엿습니다. 그러하면 이것도 전의 결론을 더욱 확실하게 하는 것이라고 볼만한 것이외다. 여기에 한 말 더하여 두고 싶은 것은 鄕札과 吏讀을 혼동하여 동일시하는 오류에 대하여서외다. 申采浩氏는 『吏讀文은 후세에 胥吏들이 사용하엿기 때문에 이름인데 新羅에서는 鄕書라 이르고 百濟에서는 혹은 假名이라 한 듯하다』(註18)하엿고, 또 權悳奎氏도 『이 鄕札 卽 吏讀文은 한문의 全音 혹은 全義, 半音 혹은 半意를 취하여 만든 일종의 문자라』(註19)하엿으나, 필자는 그것이 온당하다고 보기 어렵습니다. 鄕書, 즉 鄕札은 梵書를 連布한 것 같이 된 문자요 한자를 빌어쓴 것이 아니지마는 吏讀는 한자를 빌어서 그 음 혹은 그 뜻으로 방언을 적게 된 것임으로 아주 딴 종류라고 생각합니다.
+
+
+8. 渤海文字. 渤海는 본디 高句麗의 1부족인 靺鞨에서 일어난 것임은 전에 이미 말하엿거니와 (緖論 中 渤海條 叅照)靺鞨이란 민적은 唐虞代에는 息愼, 殷國代에는 肅愼 또는 稷愼, 漢代 以後에는挹婁, 南北朝(元魏)代에는 勿吉, 隋唐代에는 靺鞨이라는 이름으로 支那史에 전하는 것이외다. 後漢書(권 115)의 『挹婁古肅愼之地』와 魏書(권 100)의 『勿吉國古肅愼國也』와 隋書(권 81)의 『靺鞨卽古肅愼氏也』들을 보아 명백합니다. 그리하여 이 靺鞨은 나종의 女眞, 滿洲族과도 동일 계통에 속하는 것이외다. 이른바 通古斯族이 이것입니다. 문자에 관한 문헌으로서는 舊唐書에 『風俗與高麗及契丹同, 頗有文字及書紀』라 함이 잇고, 또 高麗史에 『唐武后時, 高句麗人大祚榮走保遼東, 睿宗封爲渤海郡王, 因自號渤海國, 幷有扶餘肅愼等 10餘國, 有文字禮樂』이라 하엿습니다. 王塵叢談과 古今奇觀에는 동일 기사가 잇어서 그 의미는 대략 『唐의 天寶年間에 渤海의 國書가 唐에 왓다. 그러나 唐朝에서는 그 문자를 해득할 사람이 없엇다. 唐의 玄宗은 비상히 염려하고 잇엇는데 秘書監 賀知章이 李太白을 薦하여 金巒殿에 들어 이 글을 풀어 읽고 그 答書를 草할제 高力士가 신을 벗고 楊貴妃가 먹을 갈앗다』함이외다. 또 李太白 全集에 의하면 樂史의 李翰林別集序에 이르기를 『唐玄宗이 李太白을 부르어 和蕃書를 草하는데 생각이 懸河와 같앗다』하엿고 築建의 李君碣記에는 『玄宗이 李白을 翰林待詔로 부르어 和蕃書를 草하엿다』＜35＞ 하엿고, 范仲正의 序文에도 「李太白이 答蕃書를 草할 쌔 辯이 懸河와 같앗다』하엿습니다. 이 『和蕃書』, 『答蕃書』는 다 前記 渤海 國書에 대한 答書를 이름이외다. 그러하나 新舊唐書에는 李太白읊� 부르어 楊貴妃를 기리는 淸平詞를 쓴 사실까지 기재하면서도 이 渤海國書 事件은 전연 기재하지 아니하엿고 또 李太白 全集에도 答書의 사건만은 기입하면서 그 答書文은 기입하지 아니하엿습니다. 前記의 『頗有文字 及 書記』와 이 蕃書를 李太白 외에는 아무도 모른 사실과 그 答書文이 기재되지 아니한 사실들은 그 渤海에서 온 國書文字가 한문과 다른 문자 즉 渤海 고유의 문자 엿던 것을 증명하는 것이외다. 또 高句麗의 후계자 되는 민족이라는 점만으로도 문자가 잇을 만한 일은 의심없읍니다. 다만 의문으로 남는 것은 渤海의 문자가 鄕札이엇던가 혹은 그 밖의 어떠한 문자엿던가 함이외다. 이에 대하여 權悳奎氏는 『渤海는 高句麗의 繼體로 句麗의 쓰던 吏讀文을 썻을 것은 의례인데 어떤 이는 이를 좀 설명적으로 말하여 契丹이 渤海를 滅하고 그 官制를 본받아 五京官制를 세웟은 즉 隷書字의 半片을 떼어 만든 契丹字가 渤海의 口訣을 본받음이 의심 없고 女眞이 契丹을 滅하고 契丹字를 본떠 女眞字를 만들엇다는 것도 반듯이 渤海 口訣의 유전일 것이라고 하기도 한다. 이러케 三國이나 渤海가 口訣을 쓴 것은 사실이다. 그러타고 口訣이나 吏讀文을 쓴 대에 그치고 그 밖의 다른 무슨 글이 없엇으리라 속단하는 것은 매우 경솔한 일이라 한다. ...아무러턴지 나는 壇朝로부터 高麗朝가지 따로 글이 잇엇다는 것을 말하고저 한다』(註 19)(註 10)(註5)하엿습니다. 그러하나 古代文字가 잇어서 後代까지 전하엿다는 것은 명백하나 渤海의 문자가 吏讀文이엇는지 口訣文이엇는지, 이제 전하지 못한 古代文字엿는지 이를 단언하기는 주저되는 바외다. 또 權氏는 蕃書의 기사에 대하여 『이것이 果爲 소설적 허구의 문자ㄹ까. 아닊�라, 渤海는 句麗의 舊疆을 復하고 山東半島를 정복하고 句麗의 恥辱을 雪하던 大朝라 문자 없을 리 的無하며 더욱 그 文意의 然함을 보아 漢族의 自家蔽久으로 허구인 듯이 전한 문자로되 실재로 아니볼 수 없는데 근년에 咸關以北에서 渤海字(或 女眞字)碑가 往往히 발견되매 다시 渤海文의 유무를 의논할 까닭이 없다』(註5)하엿습니다. 또 申釆浩氏는 『이미 아마 渤海의 國書가 吏讀 혹은 口訣의 渤海字로 되엇음으로 唐人이 이를 해독하지 못함이요 李太白의 答書도 渤海字로 한 것인 고로 그 글월이 李太白集에 게재되지 못함이라. 或曰 右의 사실이 新舊兩唐書에 보이지 않고 오직 소설 중에 보일 뿐이니 어찌 遵信하리오 하나 어느 때는 소설이 혹 史冊보다 遵信할 가치가 잇는 것이라』(註 18)하고 또 『和蕃書와 答蕃書는 다 渤海에 답한 國書를 가르침이라. 무릇 李太白 평생의 득의가 이 國書 答章의 件이어늘 어찌하여 新舊 兩唐書에는 李太白을 부르어 楊貴妃를 讚한 淸平詞를 지엇다 할 뿐이요 渤海에 答한 國書의 一件에는 말도 없으며 李太白 全集에는 그 答書한 사실만 적고 또한 그 答書는 적지 않앗으며 唐文苑英華나 全唐文抄 等 名書에는 李太白의 尋常한 詩와 文까지 수록하면서 돌이어 그 득의의 作인 渤海에 답한 글을 빼엇느냐. 唐 玄宗의 天寶年間은 渤海 武帝의 後요 文宗의 初라. 武帝의 때에 海軍大將 張文休를 보내어 山東省에 들어가 唐의 登州判史 韋俊을 죽이고 遼東 等地에서 唐將 高侃等의 大兵을 함락하여 渤海의 국위가 唐을 壓한 고로 渤海가 드디어 전례를 ＜36＞ 破하고 渤海字로 쓴 國書를 唐에 보내매 唐 玄宗의 君臣이 卒然히 그 글을 해독할 이가 없어서 걱정하다가 마침 渤海字의 학자 李太白을 얻어 이를 草答하여 당시의 외교의 難題를 해결하게 되엇으나 그러하나 支那 古代의 남의 글로 국제에 왕래한 일이 없다가 이제 渤海에 대하여 新例를 열은 것이 무한의 수치인 고로 唐書에는 그 사실을 빼엇으며 李太白 全集에는 그 사실은 모호하게 썻으나 그 문자는 게재하지 아니함인가 하노라』(註18)하엿습니다. 이상 權, 申 兩氏이 견해는 적절하다고 共鳴하는 바라 다시 蛇足을 더할 필요는 없으나 新舊唐書에 빼어버린 이유는 외국문자의 새 예를 끼침을 부끄럽게 생각함보다도 늘 무시하여 오던 외적에게 모욕을 당함을 부끄럽게 앎으로 그리하엿으리라고 생각합니라.
+
+9. 高麗文字. 高麗時代에 한자 이외에 이제까지 전하는 吏讀와 口訣이 잇음은 다 알고 잇는 일임으로 이제 새삼스럽게 말할 필요도 없으나 이제 전하지 아니한 古代文字도 사용하엿던 證迹을 찾아볼 수 잇습니다. 李德懋의 淸脾錄을 통하여 전하는 바를 보면 光宗때 사람 張儒(號는 晉山 나종 顯宗때 戶部尙書)가 나라의 사명을 띠고 支那의 江南(吳越錢氏時代)에 가 잇을 때에 일쯕 高麗에서 어느 好事者가 그때 樂府의 寒松亭曲을 瑟의 밑에 새기어 바다에 흘리어 보낸 것이 그 곳에 漂着하엿는데 江南의 사람들이 이것을 보아도 알아낼 수 없음으로 이것을 張儒에게 가지고 온 고로 張儒는 곳 이를 漢詩로 번역하여 『月白寒松夜, 波安鏡浦秋, 哀鳴來又去, 有信一沙鷗』라 하엿다 하는 바 (지금도 그 朝鮮말 시조가 전함) 寒松亭曲의 원문은 高麗固有의 문자로 적은 것이엇음을 살필 수 잇습니다. 또 高麗 鑄造의 元祐通寶의 昔面文字 『*』은 이제 쓰는 한글의 『오』와 같음을 보아도 高麗의 고유문자를 사용함이 잇음을 알겟읍니다. 또 申景濬은 『東方舊有俗用文字, 而其數不備, 其形無法, 不足形一方之言, 而備一方之用也』(註 20)라 함을 보면 그 『舊有俗用文字』라 함은 在來의 문자가 잇음을 밝히 증거하는 동시에 그것은 한자를 ＜37＞ 차용하는 吏讀도 아니요 口訣도 아닌 어떠한 문자가 잇음을 보이는 것이외다. 왜 그러한고 하면 만일 그것이 吏讀나 口訣을 가르침이라면 얼마던지 빌어 쓸 수 잇는 한자를 『其數不備』라 할 리 만무하고 또 『其形無法』이라 할 리도 만무한 것이외다. 그리고 申景濬은 英祖때의 사람인 고로 訓民正音이 제정 실행된 지 수백 년 뒤 됨에도 불구하고 그 때 까지도 舊文字가 전하엿던 것을 증 명하여 주는 것이외다. 英祖때까지 전하엿다 하면 高麗時代에 이미 그 문자가 잇엇을 것은 無疑한 일이외다. 이러케 고찰하여 오고 본 즉 이처럼 최근까지 오래 전하여 오던 그 문자가 웨 이제는 흔적도 똑똑히 남아 잇지 않은가 하는 의문이 일게 됩니다. 아무리 兵亂 火災가 많앗다 할찌라도 믿기 어렵습니다. 이에 대하여 權悳奎氏는 訓民正音의 前身이 즉 舊文字라 하엿습니다. (註 10及5) 그리고 世宗은 다만 舊文字를 연구하고 정리하고 또 국력으로 發布 실행시킨 것이라 보앗습니다.
+
+(註 5) 權悳奎著 『朝鮮語文經緯』
+(註 6) 洪葛著 『抱朴子』, 東方朔神異經, 韓致奫著 『海東繹史』卷1
+(註 7) 崔鉉培著 『古代文學論』 (『現代評論』 제2권 제1호)
+(註 8) 權悳奎著 『朝鮮留記上』63
+(註 9) 朝鮮總督府編 『朝鮮金石總覽』
+(註 10) 조선어 연구회 編 『한글』 제1호
+(註 11) 『三國史記』 권4 眞興王 6年 條
+(註 12) 同 右 권9 景德王 16년 條
+(註 13) 『隨書』, 『海東繹史』
+(註 14) 細井擊著 『朝鮮文化史論』
+(註 15) 『三國史記』百濟盖鹵王 18년 條
+(註 16) 高麗文宗詩人赫連挺著 『大華嚴首座圓通兩重大師均如傳』(均如大師는 新羅 神德王時人)
+(註 17) 中目覺博士著 『小樽の古代文字』
+
+第二十一世紀의 貴物은 무엇이냐. 卽 「아직도 失職하지않은 사람」 失業많은 世上을 諷刺한 것이다.(外誌에서)
+(註 18) 申釆浩著 『朝鮮古來의 문자와 詩歌의 변천』(東亞日報 申子元朝號以下)
+(註 19) 權悳奎著 『正音以前의 朝鮮 글』 (中外日報 丁卯10월 24일호)
+(註 20) 申景濬著 『訓民正音圖解』序文 ＜38＞
+＜32-38＞

@@ -1,0 +1,48 @@
+Magazine Title: 동광 제13호
+Publication Date: 1927년 05월 01일
+Article Title: 거미, 童謠 (Spider, Children's Song)
+Author: 적은이 (Writer/Anonymous)
+Article Type: 시 (Poem)
+
+The electric light is bright,
+Attaching line to line,
+A single spider.
+
+Along the lines it rides,
+Going up and down,
+Working even at night. <71>
+
+**Summary**
+
+This short children's poem describes a spider diligently spinning its web under a bright electric light, continuing its work even at night. The poem uses simple language suitable for children. From a historical perspective, the mention of an "electric light" (전긔ㅅ불) indicates the presence of modern technology in 1927 Korea. The theme of the spider working diligently ("밤에도 일하네") could potentially reflect broader societal values or expectations emphasized during the colonial period, although presented here in an innocent context. The older orthography used (e.g., 전긔ㅅ불) is also of linguistic interest to historians studying language change.
+
+**Named Entities**
+
+(None found in the article text)
+
+**Glossary**
+
+전긔ㅅ불	전깃불	Electric light (Older spelling of 전깃불, using ㅅ as a genitive marker)
+줄매는	줄매는	Tying lines; spinning a web (From 줄 (line) + 매다 (to tie))
+오르락 내리락	오르락내리락	Going up and down
+일하네	일하네	Works; is working (From 일하다 (to work) + informal sentence ending -네)
+
+
+---------------------------
+
+
+잡지명	동광 제13호
+발행일	1927년 05월 01일
+기사제목	거미, 童謠
+필자	적은이
+기사형태	시
+
+거미, 童謠
+						적은이
+전긔ㅅ불은 밝은데
+줄에다 줄매는
+거미 한마리
+
+줄줄줄 줄타고
+오르락 내리락
+밤에도 일하네. ＜71＞

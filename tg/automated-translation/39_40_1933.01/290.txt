@@ -1,0 +1,80 @@
+**Header Section**
+Magazine Title: 동광 (東光) 제40호
+Publication Date: 1933년 01월 23일
+Article Title: 科學斷片, 太陽班點과 라디오 (Scientific Fragments, Sunspots and Radio)
+Author: 吳楨洙 (O Chŏng-su)
+Article Type: 소식 (News/Report)
+
+**Body Text Translation**
+Scientific Fragments, Sunspots and Radio
+					O Chŏng-su
+
+It has long been said in Chosŏn that in years when a comet appears, rebellions break out or strange diseases prevail. Although a scientific explanation could not be given and it was recognized as superstition, similar theories have recently become popular in the West. It is said that timber felled during the moonlit period (around the time of the full moon) has better durability than that felled during the dark moon period (around the time of the new moon). Since this theory emerged, even large lumber mills reportedly strive to fell timber during the moonlit period as much as possible.
+
+The interpretive basis for this theory seems to be that different bacteria flourish during the moonlit and dark moon periods, thus the state of the moon's brightness or darkness at the time of felling affects the speed of the felled timber's decay. As it is a new theory, the interpretation is insufficient.
+
+Recently, figures like Coldwell and Seton of the United States (米國) and Professor Elton of Oxford University in the United Kingdom (英國) advocate that there is a close relationship between sunspots and the proliferation of wild animals. The number of spots visible on the sun fluctuates year by year. In some years, many spots are visible, and in others, few are seen. According to astronomers, the number of sunspots increases and decreases with an 11-year cycle. This year, 1932, is the period of maximum sunspots. In five and a half years from now, i.e., the end of 1937, will be the period of minimum sunspots, and 11 years from now, i.e., 1943, sunspots will again become most numerous. Examining records from the past 70-odd years confirms that sunspots fluctuate according to the principle described above. The naturalist Seton discovered that the proliferation of wild animals also fluctuates with an 11-year cycle. Studying the life of wild rabbits revealed that their periods of peak population and decline arrive once every 11 years. When calculating the number of wild rabbits, weasels, and foxes caught annually by a large fur company over 60 years, it was found that this also reached maximum and minimum periods once every 11 years, just like the sunspot count. Assuming the number of traps (捕獲機) and the effort in trapping are similar year to year, the number caught can certainly indicate the degree of wild animal proliferation in that year. The period of wild animal population fluctuation and the period of sunspot fluctuation are inversely proportional. In years with many sunspots, wild animals are few, and in years with few sunspots, wild animals are numerous.
+
+Sunspots are holes on the surface of the sun. Through these holes, ultraviolet rays (紫外光線) from the sun's center pass through (通出). Therefore, in years when many spots are visible, the sunlight contains a lot of ultraviolet rays. These ultraviolet rays seem beneficial to human life but are apparently disadvantageous to the proliferation of wild animals.
+
+Botanists wonder if sunspots are also related to the growth of plants. Tree growth rings (生長環) are also said to grow larger and smaller in an 11-year cycle. Scholars are emerging who claim that the water depth of large ponds, rice harvests, and even commercial and industrial economic conditions have a close relationship with sunspots. It is widely acknowledged that there is a close relationship between sunspots and radio wave transmission (波送). This year, the period of maximum sunspots, daytime radio wave transmission is extremely difficult (곤난).<68>
+
+**Summary**
+
+This 1933 article by O Chŏng-su discusses emerging Western scientific theories correlating natural cycles with earthly phenomena, contrasting them implicitly with older Korean beliefs about comets. It focuses on the 11-year sunspot cycle, citing research linking it inversely to wild animal populations (attributed to ultraviolet radiation), and possibly to tree growth, water levels, harvests, and economic cycles. The author notes the accepted difficulty in radio transmission during the current (1932-1933) sunspot maximum. For historians, the article is interesting as it shows the reception and popularization of Western scientific ideas (astronomy, biology, physics) in colonial Korea, the attempt to connect these ideas to local observations (like lumber durability and moon phases, or animal populations), and the awareness of modern technologies like radio and their connection to solar activity. It reflects a period of integrating global scientific discourse into Korean intellectual life.
+
+**Named Entities**
+吳楨洙	오정수	O Chŏng-su
+朝鮮	조선	Chosŏn
+米國	미국	Miguk
+콜드왤	콜드왤	Coldwell
+셋톤	셋톤	Seton
+英國	영국	Yŏngguk
+「옥쓰포트」대학	옥스퍼드 대학	Oxford University
+엘톤	엘톤	Elton
+
+**Glossary**
+慧星	혜성	Comet
+怪疾	괴질	Strange disease; epidemic of unknown cause
+잇엇다	있었다	There was/were (older spelling of 있었다)
+月明期	월명기	Moonlit period (around the full moon)
+伐	벌	Felling (trees); cutting down
+月暗期	월암기	Dark moon period (around the new moon)
+낫다고	낫다고	To be better (potentially older conjugation/spelling related to 낫다)
+勵行	여행	To strive to practice; endeavor to carry out
+繁盛	번성	Flourishing; thriving; prospering
+고로	고로	Therefore; thus (older connective form)
+其	기	Its; that; the (Sino-Korean demonstrative pronoun/adjective)
+班點	반점	Spot; speckle (here used for sunspot)
+뵈는	보이는	Visible; seen (older form of 보이는)
+만엇다 적엇다	많았다 적었다	Was numerous, was few (older spelling of 많았다 적었다)
+술한	서술한	Described; stated (abbreviated or older form of 서술한)
+繁衺	번쇠	Rise and fall; waxing and waning; fluctuation in prosperity/population
+알엇다	알았다	Knew; found out (older spelling of 알았다)
+닷치엿다	닥치었다/닥쳤다	Arrived; befell; occurred (older spelling/form of 닥쳤다)
+紫外光線	자외광선	Ultraviolet rays
+通出	통출	To pass through; emerge from
+利한	이(로운)	Beneficial; advantageous (Hanja + 한 indicating adjective form)
+불리한	불리(한)	Disadvantageous; unfavorable
+生長環	생장환	Growth ring (of a tree)
+컷다 적엇다	컸다 작았다	Was big, was small (older spelling of 컸다 작았다)
+波送	파송	Wave transmission; broadcasting
+곤난	곤란	Difficulty; hardship; trouble (alternate Hanja spelling of 困難)
+
+
+---------------------------
+
+
+잡지명	동광 제40호
+발행일	1933년 01월 23일
+기사제목	科學斷片, 太陽班點과 라디오
+필자	吳楨洙
+기사형태	소식
+
+科學斷片, 太陽班點과 라디오
+					吳楨洙
+自來도 朝鮮에도 慧星이 뜨는 해에는 亂이 나거나 怪疾이 성행한단 말이 잇엇다. 과학적 설명을 할 수 없으되 미신으로 인정하엿지마는 근래 서양에도 그 비슷한 論說이 유행한다. 材木은 月明期(陰暮望項)에 伐한 것이 月暗期(陰曆晦頃)에 伐한 것보다 耐久性이 낫다고 한다. 이 논설이 나자 큰 製材所에서도 가급적 月明期에 伐材하기를 勵行한다고 한다.
+月明期와 月暗期에 繁盛하는 細菌이 다른 고로 伐材時 月의 暗明狀態다. 其 伐材의 腐敗는 속도에 영향을 주는 듯하다는 것이 其 논설의 근거적 해석이다. 新 논설이니 만큼 해석이 불충분하다.
+최근 米國의 콜드왤(Coldwell) 셋톤(Seton) 及 英國 「옥쓰포트」대학의 엘톤 敎授(Elton)같은 이들의 태양의 班點과 野獸의 번식가 밀접한 관계가 잇다고 주창을 한다. 태양 중에 뵈는 반점은 數가 年年 변동된다. 어떤 해에는 點數가 많히 뵈고 어떤 해에는 적게 뵌다. 천문학자들의 말에 의하면 태양의 數班點數는 11년을 1期로 만엇다 적엇다 한다고 한다. 금년 즉 1932년 이 태양 반점의 最多期다. 今後 5년 반 즉 1937년 말에는 太陽班의 最少期가 되고 今後 11년 즉 1943년에는 태양 반점이 또다시 가장 많아질 것이다. 과거 70여 년의 기록을 고찰해 본 결과 태양의 반점은 이상의 술한 원칙대로 변동이 된다. 自然學者 썻톤은 野獸의繁衺가 역시 11년 期로 변동됨을 발견하얏다. 野兎의 생활을 연구해본 결과 最盛期와 최퇴기가 11년만에 일차식 도래함을 알엇다. 어떤 큰 毛皮회사의 60년간 잡은 野兎 족잽이 及 여호의 數를 연별 계산해 본즉 此亦 태양의 반점수와 같이 11년에 1차식 最多最少의 期가 닷치엿다. 年年히 추랩(捕獲機)의 數와 포획의 誠意가 비슷한 이상 포획수가 물론 當年의 野獸繁盛程度를 지시한다 할 수 잇다. 野獸의 繁衰期와 태양반점의 繁衰期는 반비례로 되어 잇다. 태양의 반점의 많은 해는 野獸가 적고 태양의 반점이 적은 해는 野獸가 많다.
+태양의 반점은 태양의 표면에 잇는 穴孔이다. 此 穴孔으로는 태양 중심의 紫外光線이 通出한다. 고로 반점이 많이 뵈는 해는 太陽光線에 紫外線이니 많이 포함된 것이다. 此 紫外光線이 人生에는 利한 듯 하나 야수의 번식에는 필경 불리한 모양이다.
+植物學者들은 태양의 반점이 초목의 생장에도 관계가 잇지 않은가 한다. 나무의 生長環도11년을 1期로 컷다 적엇다 한다. 大池의 水深, 米穀의 收穫 及 상공업의 景氣도 태양의 반점과 밀접한 관계가 잇다는 학자들도 생긴다. 태양반점과 라디오波送에 밀접한 관계가 잇는 것은다 인정하는 바이다. 태양 반점의 最盛期인 금년은 晝間 라디오 波送은 심히 곤난하다.＜68＞

@@ -1,0 +1,62 @@
+Magazine Title: 동광 제10호
+Publication Date: 1927년 02월 01일
+Article Title: 산 (Mountain)
+Author: Unknown
+Article Type: 시 (Poem)
+
+Mountain
+
+Mother, you say
+That mountain is high, so high,
+Just how high is it?
+
+If you were to walk up it,
+It would take a whole day.
+
+If that takes a whole day,
+Mother, my finger,
+How many days would it take? (2.3)<65>
+
+**Summary**
+
+This short children's poem (童謠 - tongyo) depicts a simple dialogue between a child and their mother about the height of a mountain. The child asks how high the mountain is, and the mother replies it would take a day to climb. The child then innocently compares this scale to their own finger, asking how many days it would take for their finger to "climb" it, showcasing a child's naive perspective on size and time. From a historical perspective, this piece offers insight into the simple themes and language used in children's literature during the colonial period in Korea. It reflects an innocent curiosity and a focus on everyday observations, potentially serving as a gentle, apolitical piece within the context of the time.
+
+**Named Entities**
+
+*(No named entities identified in the text)*
+
+**Glossary**
+
+산	산	Mountain
+높다고	높다고	Saying (it is) high
+하시니	하시니	Because (you) say (honorific)
+얼마나	얼마나	How much; To what extent
+높은가요	높은가요	How high is it? (polite question form)
+걸어 오르면	걸어 오르면	If (one) walks up
+하로	하루	One day (Older/dialectal spelling of 하루)
+걸린단다	걸린단다	(They say/It is said) it takes
+저것이	저것이	That thing (subject)
+손까락은	손가락은	Finger (topic) (Note: 까락 is an older/non-standard spelling of 가락)
+몇칠	며칠	How many days (Older spelling of 며칠)
+
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	산(童謠)
+기사형태	시
+
+산
+어머니 저 산이
+높다고 높다고 하시니
+얼마나 높은가요?
+
+네가 걸어 오르면
+하로는 걸린단다.
+
+저것이 하로 걸리면
+어머니 내 손까락은
+몇칠이나 걸릴까요? (2.3)＜65＞
+＜65＞

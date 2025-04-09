@@ -1,0 +1,68 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 朝鮮日報의 陳容 (The Situation/Appearance of the Chosŏn Ilbo)
+Article Type: 소식 (News/Tidings)
+
+The fight between the Chosŏn Ilbo and Im Kyŏngnae (林景來) became quite the topic for the gossips around town, eventually leading to Mr. Im moving the publishing office to Meiji-chō (明治町) and putting out a 4-page paper, primarily using lithography (平版), seemingly just to save face by showing it was still being published. Everyone knows that this completely disregards the losses involved and is ultimately just a stubborn effort by Mr. Im for the sake of appearances.
+
+Now, hearing about the lineup of the said company (該社), it is said that Im Kyŏngnae is Vice President, Sin Ir-yong (辛日鎔) is Chief Editor, Kim Hyŏngwŏn (金炯元) is Head of the Editorial Department and concurrently Head of the Society Desk, Yi Chŏngsŏp (李晶燮) is Head of the Politics and Economics Desk, Paek Taejin (白大鎭) is Head of the Provincial Desk, Yang Paekhwa (梁白華) is Head of the Arrangement Department (整理部長), among other gentlemen. Also, there was a rumor that a certain gentleman, "an overseas student from America (米國) and moderate (溫建) in thought (思想)," would take office as President, but as of this writing, no announcement has been made. <32>
+
+**Summary**
+
+This news brief reports on the aftermath of a conflict between the Chosŏn Ilbo newspaper and Im Kyŏngnae. Im Kyŏngnae has relocated the publishing operations to Meiji-chō and is issuing a small, lithographed paper, an action seen as a costly face-saving measure rather than a viable venture. The article lists the new editorial staff under Im and mentions unconfirmed rumors of a moderate, US-educated individual potentially becoming the new president. For historians, this article offers a glimpse into the internal struggles and financial fragility of major Korean media outlets during the colonial period. The mention of specific staff members and the rumored appointment of a "moderate" president potentially acceptable to or desired by certain factions (or even the authorities) provides insight into the complex political and social dynamics influencing the Korean press at the time.
+
+**Named Entities**
+
+朝鮮日報	조선일보	Chosŏn Ilbo
+林景來	임경래	Im Kyŏngnae
+明治町	명치정	Meiji-chō
+辛日鎔	신일용	Sin Ir-yong
+金炯元	김형원	Kim Hyŏngwŏn
+李晶燮	이정섭	Yi Chŏngsŏp
+白大鎭	백대진	Paek Taejin
+梁白華	양백화	Yang Paekhwa
+米國	미국	Miguk (USA)
+
+**Glossary**
+
+陳容	진용	Situation; lineup; appearance (of an organization)
+싸움	싸움	Fight; conflict; dispute
+되드니	되더니	Became (older spelling/form of 되더니)
+발행소	발행소	Publishing office
+平版	평판	Lithography; lithographic printing
+체면	체면	Face; dignity; honor
+위하야	위하여	For the sake of (older spelling/form of 위하여)
+내보내엿다	내보냈다	Sent out; put out; published (older spelling/form of 내보냈다)
+도외시한	도외시한	Disregarded; ignored
+면목	면목	Face; honor; countenance
+억지	억지	Stubbornness; obstinacy; forced effort
+該社	해사	The said company; the company in question (formal/written style)
+듣건대	듣건대	Hearing that...; According to what is heard...
+주필	주필	Chief editor; editor-in-chief
+編輯部長	편집부장	Head of the Editorial Department
+社會部長	사회부장	Head of the Society Desk/Department
+政經部長	정경부장	Head of the Politics and Economics Desk/Department
+地方部長	지방부장	Head of the Provincial/Local Desk/Department
+整理部長	정리부장	Head of the Arrangement/Organization Department (possibly Circulation or Administration)
+기타	기타	Others; etc.
+사장	사장	President (of a company)
+유학생	유학생	Student studying abroad
+사상	사상	Thought; ideology; ideas
+온건한	온건한	Moderate; mild
+취임한다	취임한다	To take office; assume a post
+풍설	풍설	Rumor; hearsay
+잇엇으나	있었으나	Although there was/were (older spelling/form of 있었으나)
+아니되고	아니 되고	Does not become; is not (older spelling/form, often written together as 아니되다)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	朝鮮日報의 陳容
+기사형태	소식
+
+朝鮮日報의 陳容
+朝鮮日報 對 林景來 간의 싸움은 한참 장안 참새들의 말거리가 되드니 결국 林씨가 발행소를 明治町으로 이전하고 우선 平版으로 발행한다는 체면만이라도 세우기 위하야 4頁를 내보내엿다. 이것이 전혀 손실을 도외시한 것이요, 결국 林씨가 면목을 위한 억지의 일일 것은 누구나 다 알 것이다.
+이제 該社의 陳容을 듣건대 부사장에 林景來, 주필에 辛日鎔, 편집부장 겸 사회부장에 金炯元, 정경부장에 李晶燮, 지방부장 白大鎭, 整理部長 梁白華 기타 諸氏라고 한다. 그리고 사장은 「米國 유학생이요, 사상 온건한」 某씨가 취임한다는 풍설이 잇엇으나 이 글 쓸 때 까지는 발표가 아니되고 말앗다.＜32＞

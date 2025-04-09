@@ -1,0 +1,101 @@
+**Header Section:**
+Magazine Title: 東光 제20호
+Publication Date: 1931년 04월 01일
+Article Title: 기림 (譽) (Praise/Acclaim)
+Author: 李應洙
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Praise (譽)
+						Yi Ŭng-su
+
+Because the people weep, because my land is ravaged, you bustled about east and west,
+Abandoning parents, turning your back on wife and home.
+Into prison (囹圄), and out beyond the national border (國境), coming and going restlessly,
+In that vast field, lonely under the starlight at midnight (夜半三更),
+Though there was the devotion of praying and praying for the cause, making my eyes tear up—
+Seeing your figure walking away, step by step, I deeply bowed my head
+And offered a silent tribute (黙禮).
+
+Oh—my beloved you, what is this?
+That worldly thing called fame (名聲), from the moment it ensnared you—
+That you seek out that sea of praise, the place I so refused!
+
+Praise long ago broke the integrity (節槪) of loyal ministers (干城之臣)!
+Praise long ago smashed the test tube (試驗管) of the scientist (科學者)!
+Praise long ago cut short the contemplation (思索) of the philosopher (哲學者)!
+Praise long ago dried up the blood of the patriot (志士)!<88>
+
+**Summary**
+
+This poem, "Praise" by Yi Ŭng-su, expresses sorrow and disillusionment directed at an unnamed individual ("you") who was once deeply admired for their dedication and sacrifices for the Korean nation ("겨레"). The speaker recounts the person's past struggles—imprisonment, exile, abandoning family—undertaken for the national cause. However, the speaker now laments that this individual has succumbed to the lure of worldly fame ("기림"), depicted as a destructive force that compromises the principles of even the most dedicated figures, including loyal officials, scientists, philosophers, and patriots. From a historical perspective, the poem is interesting as it reflects potential tensions and disillusionment within the Korean independence movement during the colonial era. It highlights the moral conflict between selfless devotion to the cause and the temptations of personal recognition or perhaps even collaboration, offering a glimpse into the internal critiques and varying paths taken by activists under Japanese rule.
+
+**Named Entities**
+
+李應洙	이응수	Yi Ŭng-su
+
+**Glossary**
+
+기림	기림	Praise, acclaim, fame (譽). Central theme, viewed negatively.
+겨레	겨레	One's people, nation, ethnic group.
+헐리다	헐리다	To be torn down, ravaged, demolished. Used here for the land.
+동분서주	동분서주	Bustling about; running east and west busily.
+저버리다	저버리다	To abandon, betray, forsake.
+어시	아씨/아내(?)	Likely 'wife' or 'woman/loved one'. Archaic term/spelling. Context suggests 'wife'.
+등젓겟다	등졌겠다	Would have turned one's back on. Older spelling of 등졌겠다.
+囹圄	영어	Prison, jail.
+國境	국경	National border.
+어수선이	어수선히	Chaotically, restlessly, distractedly. Older adverbial form.
+夜半三更	야반삼경	Dead of night, midnight (Hano-Korean idiom).
+너른	넓은	Wide, vast. Older form of 넓은.
+터전	터전	Site, ground, foundation, field.
+위하야	위하여	For the sake of. Older spelling of 위하여.
+잇엇것만하야	있었건만	Although there was/were. Older spelling/phrasing.
+눈물겨웁게	눈물겹게	Tearfully, movingly. Older spelling of 눈물겹게.
+거러가는	걸어가는	Walking. Older spelling of 걸어가는.
+뒷모양	뒷모습	Figure seen from behind. Older term for 뒷모습.
+黙禮	묵례	Silent bow, silent tribute.
+마지 안엇것만	마지 않았건만	Did not refuse, offered willingly; although... Older grammatical construction/spelling.
+울예이자부터	얽매이자부터(?)	From the moment of being bound/ensnared. Interpretation of an unclear older form.
+마다하든	마다하던	(Which one) used to refuse/dislike. Older spelling of 마다하던.
+일즉	일찍	Early, long ago. Older spelling of 일찍.
+干城之臣	간성지신	Loyal, key ministers protecting the state (lit. 'shield and rampart ministers').
+節槪	절개	Integrity, fidelity, principles.
+꺾엇고나	꺾었구나	Alas, it broke! / Indeed, it broke! Older spelling and exclamatory ending (-고나).
+科學者	과학자	Scientist.
+試驗管	시험관	Test tube.
+부섯고나	부쉈구나	Alas, it smashed! / Indeed, it smashed! Older spelling and exclamatory ending (-고나).
+哲學者	철학자	Philosopher.
+思索	사색	Contemplation, philosophical thought.
+순잘랏고	숨 잘랐고(?)	Cut short (lit. perhaps 'cut the breath'). Interpretation of an unclear older form, meaning interrupted or stopped.
+志士	지사	Man of high purpose, patriot, often implying willingness to sacrifice oneself.
+말렷고나	말렸구나	Alas, it dried up! / Indeed, it dried up! Older spelling and exclamatory ending (-고나).
+
+
+---------------------------
+
+
+잡지명	동광 제20호
+발행일	1931년 04월 01일
+기사제목	기림(譽)
+필자	李應洙
+기사형태	시
+
+기림
+						李應洙
+겨레가 운다고 내 흙이 헐린다고, 그대 동분서주
+어버이를 저버리고 어시와 집을 등젓겟다.
+囹圄의 속으로 또 國境의 밖으로 어수선이 드나들며,
+夜半三更 별빛 외로운 저 너른 터전에서
+일을 위하야 빌고 또 비는 정성이 잇엇것만하야 내 눈물겨웁
+게 뚜벅 뚜벅 거러가는 그대 뒷모양을 보고 고개를 깊이 숙여
+黙禮를 마지 안엇것만
+오- 나의 사랑하는 그대여 그 어인 일인가.
+세상의 가튼 名聲이란게 그대를 울예이자부터
+내 그리도 마다하든 기림의 바다 그곳을 찾아들다니
+
+기림은 일즉 干城之臣의 節槪를 꺾엇고나
+기림은 일즉 科學者의 試驗管을 부섯고나
+기림은 일즉 哲學者의 思索을 순잘랏고
+기림은 일즉 志士의 피를 말렷고나.＜88＞
+＜88＞

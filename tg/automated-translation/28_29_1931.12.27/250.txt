@@ -1,0 +1,163 @@
+잡지명	동광 제29호
+발행일	1931년 12월 27일
+기사제목	生物學과 長生不老 (Biology and Immortality)
+필자	醫學博士 兪日濬 (Yu Il-chun, M.D.)
+기사형태	논설 (Editorial/Essay)
+
+Biology and Immortality
+						By Yu Il-chun, M.D.
+
+1
+Having a beginning and an end, having life and having death, must be a law of the natural universe. Being born under this law and living within its confines, it is the sole path we humans tread that we must die to uphold this law. Because our vitality is thus subject to an irresistible temporal limit, our attachment to life grows stronger, while we instinctively feel a fear of death. However, there is a sense that the inquiry into the duration for which our vitality persists, or the reasons for its cessation, has not been particularly enthusiastic. If one thinks about this problem casually, it seems extremely easy, but upon careful examination, it is a most difficult problem in which many obstacles lie hidden. I believe that if this problem could be clarified, even somewhat, it would be of great help in our practical lives. When the Popular Medicine Lecture Series was held at the Ch'ŏndogyo Memorial Hall last autumn, I had the opportunity to give a lecture on this issue. At that time, I received a request from Tonggwangsa and promised to publish the lecture's content in this magazine, but due to my great laziness, I deeply apologize for having dragged it out for so long.
+
+2
+Regarding the duration for which our human vitality persists (lifespan), despite much research by predecessors, a precise conclusion has not yet been reached. According to our daily life experience, like the old poem stating "Since ancient times, reaching 70 has been rare," our lifespan can be seen as not exceeding 70 or 80 years. However, since it is difficult to obtain a correct view solely through such empirical observation, I believe that thinking based on materials collected from biological and historical perspectives will be closest to the facts.
+
+Facts Seen from a Biological Perspective. In the biological field, those who have extensively studied this problem include Rubner, Hufeland, Buffon, Weismann, etc., but in terms of experimental results and methods, the most interesting <96> would likely be the research results of Rubner. To determine the lifespan of general animals, he comparatively studied the relationship between the developmental period and the total lifespan of animals, obtaining the fact that animals with long developmental periods have long lifespans, and reached the conclusion that the lifespan duration is 6 to 8 times the developmental period. If we accept the result obtained from this statistical observation, the human lifespan, being 6 to 8 times the developmental period of 25 years, would indeed be 150 to 200 years. This figure can be seen as consistent with Hufeland's often advocated 200-year theory. Rubner, not satisfied with this conclusion, further measured the amount of energy consumed within the bodies of general animals and obtained statistics showing that the total energy consumed from birth to the end of the developmental period is one-fourth of the amount consumed during the entire lifespan. However, calculating human lifespan based on this research result yields only 75 to 80 years, showing a large discrepancy with the previously mentioned result. Therefore, we are in a state of not knowing which result should be accepted as correct.
+
+Besides this, research attempting to determine lifespan based on the structure of the animal's body or the method of reproduction is also believed to be informative for us. For example, there is the observation that the longer the large intestine, the shorter the lifespan, or research showing that among oviparous animals, those species that produce a large number of eggs, and whose eggs are large compared to the mother's body, have longer lifespans.
+
+However, focusing solely on such various research results gives the impression that we are in a position unable even to hope to solve this problem. In short, it is likely a fact that biological research on human lifespan is still incomplete.
+
+Facts Seen from a Historical Perspective. As mentioned above, since biological observation, thought to be the most accurate, is still inconclusive, referring historically to the facts we have experienced so far is believed to be helpful in addressing this problem.
+Referring to ancient literature, it is said that China's Tianhuang shi (天皇氏) or Dihuang shi (地皇氏) lived for 18,000 years, and in the Old Testament era, Adam lived for 930 years, and his descendants for several generations each lived 700-800 years. Since this record is nothing more than a legend, it cannot be trusted. However, looking at records after the development of human civilization, Kentigern of England lived to 185, Petran of Hungary also lived to 185, and Shiga Zui of Japan is said to have lived to 160. The fact that Li Zhenyuan, living in Shandong Province, China, lived to 235 years until last year, having been widowed 32 times, suggests that perhaps this Mr. Li's lifespan might be representative of the human life duration limit. When we look at such empirical facts, we can finally believe that Rubner's 150- to 200-year theory might be the most accurate conclusion in biological research. However, the lifespan we can actually live is merely 60-70 years, and furthermore, when averaged including the lifespans of those who die early, it shrinks to around 40 years. Therefore, if we accept 200 years as our lifespan, the loss of lifespan amounts to the dreadful figure of 160 years. There are two causes for such a shortening of lifespan: one is the abnormal acceleration of the aging phenomenon, and the other is the affliction of various diseases. It is a plausible conjecture that if the invasion of diseases is prevented beforehand and the abnormal acceleration of aging is eliminated, anyone could enjoy a lifespan close to 200 years. To realize this ideal, accurate knowledge about the aforementioned two causes will naturally be necessary.
+Among various diseases, the types that are the sole cause of lifespan shortening are various infectious diseases. However, such diseases can be adequately prevented by cultivating detailed knowledge about the various bacteria that are their pathogens. Only the abnormal acceleration of the aging phenomenon is difficult to sufficiently eliminate even with the medical <97> knowledge or sanitary facilities we possess today. In this regard, we see the need for fundamental research into what the cause of aging is and what causes the acceleration of this phenomenon.
+
+3
+The Cause of Aging. Research on this problem is not only very extensive in scope, but the research results and proposed theories are so convoluted that it is extremely difficult to cover everything in just a few lines. However, I wish to present a few of the most credible theories for the reference of the readers.
+
+1. Theory of Intoxication by Metabolic Waste Products. We consume various foods to maintain our lives, but when the initially ingested food is absorbed from the digestive organs, it undergoes specific chemical changes to replenish the consumed parts of the body, while also burning within tissues to generate a certain amount of heat, becoming the driving force of bodily life. Thus, while the life of body tissues is maintained by the chemical and physiological actions of absorbed nutrients, the various metabolic waste products produced due to the decomposition of nutrients act extremely harmfully on tissue cells. These harmful substances are immediately excreted outside the body due to the body's marvelous physiological functions, but a small portion always remains within the body, unknowingly harming the tissue cells over time. Receiving this harmful action, the physiological function of the cells is damaged, and simultaneously, the external form of the cells inevitably takes on a certain transformation. We call the appearance of this transformation the phenomenon of aging, and we recognize the cessation of the cell's physiological function due to the accumulation of toxic effects as so-called physiological death. Therefore, just as the bestowal of life force upon living beings lies in food, the cause of the demise of those living beings can also be seen to lie in food. In other words, living to eat, and having no choice but to die because of eating, can be seen as the entire life course of general living beings. To verify whether this view of ours is indeed an undeniable fact, I think it is necessary to provide a few experimental examples.
+
+Experimental Example 1. An American scholar named Woodruff, to explain the intoxication theory, cultured Paramecium protozoa. When a single protozoan is placed in a test tube and given suitable nutrient solution once daily, one can see vigorous growth of the protozoan after a few days, but if more than 7 days pass, the protozoan eventually perishes. However, if the old nutrient solution is completely removed and fresh nutrient solution is added, it is said that no change in its vitality was observed even after several months or years had passed. Since a single small protozoan has a simple body structure and can completely excrete the toxic substances formed within its body to the outside, it is possible to avoid the toxic effects caused by the protozoan's metabolic waste products merely by removing the toxins discharged into the test tube. However, because the human body's structure is complex, it cannot completely discharge the toxic substances formed within the body outside, which is why, unlike the experiment with the protozoan, eternal vitality cannot be obtained. This point can be seen as the only drawback where we humans fall short of a single protozoan.
+
+Experimental Example 2. Recently, with the extreme development of bacteriology and pathology, as a method of studying the relationship between the pathological effects of various pathogens and the physiological functions of human cells, attention is not limited to changes within the human body as before, but human tissue cells are removed, placed in test tubes, and kept alive artificially to study their relative relationship with the pathological effects of various pathogens. This new discovery in this field <98> can be seen as having made a great contribution to practically proving this intoxication theory. If a portion of body cells is excised, placed in a test tube, and cultured by providing a specific nutrient solution, vigorous growth of the cells can be observed after a few days, but if the old nutrient solution is not removed, even if new nutrient solution is added, they eventually perish. However, if the old nutrient solution is completely removed, it can be experimentally demonstrated that the vitality of the cells continues indefinitely.
+Despite confirming that even cells as highly evolved as ours in the human body can sustain their vitality forever, the fact that the human body as a whole inevitably succumbs to aging seems to be one piece of evidence supporting the intoxication theory.
+
+2. Metchnikoff's Theory of Colon Bacteria Intoxication. Examining the morphology of the gastrointestinal tracts of various animals reveals significant differences in the length of the large intestine depending on the animal species. From a physiological perspective, the current trend is that the large intestine is not very necessary, and it can be observed that animals with long large intestines generally have short lifespans, while conversely, animals with short large intestines have long lifespans. Among birds, species that do not dwell on the ground lack a large intestine and bladder, putting them in an extremely convenient position for aerial life. Not only that, but it is also a fact that birds dwelling on the ground possess a large intestine and their lifespan is much shorter than that of aerial species. Metchnikoff, noting this strange phenomenon, first examined the bacteria in the large intestines of various animals and discovered the presence of countless E. coli (大腸菌) that produce toxins harmful to the body. At the same time, it is said that bats, which are the longest-lived among birds, lack a large intestine, and thus not a single E. coli could be detected.
+
+Based on this fact, he concluded that the cause accelerating the aging of general animals lies in the colon bacteria. He added that the reason Bulgarians are the longest-lived among world populations is because they eat a food called yogurt. Yogurt is made by adding lactic acid bacteria to milk, so when consumed, countless lactic acid bacteria enter the large intestine, proliferate, and eliminate the colon bacteria. His explanation for this truly reveals the inflexible shortcoming of a scholar.
+
+3. Theory of Hormones, the Secretions of Endocrine Glands. It is likely true that hormones are deeply related to aging, but since the theory is still not precise, omitting it leaves a slightly regrettable feeling.
+
+4
+Causes of Abnormal Acceleration of Aging. Examining the causes of aging, we cannot be satisfied solely with the internal cause, the toxic effect of metabolic waste products, as the mechanism through which the aging process appears. Furthermore, completely eliminating this internal cause is one of the very difficult tasks. Therefore, the part necessary for our practical lives can be seen to lie in external causes.
+However, presenting this rambling text to the readers and causing unnecessary fatigue is also one of the author's sources of unease, so I wish to conclude by merely listing the items that are causes abnormally accelerating the aging phenomenon. Changes in air, unsuitable housing and clothing, excessive physical labor and agitation of mental functions, excessive use of bodily organs, abuse of stimulants and items of preference (嗜好品), intake of food and drink lacking quantitative balance or intake of incomplete nutrients, carelessness in skin hygiene, etc., are all major causes preventing us from reaching our ideal lifespan, as everyone knows. Creating scientifically concrete plans for all such points and completing the theories and practical facilities to rationalize them into our real lives is believed to be our greatest hope. <99>
+
+**Summary**
+
+This 1931 article by Dr. Yu Il-chun explores the gap between the potential human lifespan (estimated biologically at 150-200 years based on researchers like Rubner) and the actual average lifespan (around 40-70 years). Yu attributes this discrepancy primarily to diseases (especially infectious ones, which he believes are preventable with knowledge of bacteriology) and the "abnormal acceleration of aging." He discusses theories for aging, focusing on the buildup of metabolic toxins (supported by cell culture experiments showing potential cell immortality) and Metchnikoff's theory linking colon bacteria toxins to aging, mentioning yogurt's supposed benefit for Bulgarians. While acknowledging hormonal influences, he deems the theory underdeveloped. He concludes by listing external factors that accelerate aging (environment, lifestyle, diet, hygiene) and expresses hope for scientific advancements to help humans achieve their potential lifespan.
+
+From a historical perspective, the article is interesting as it reflects the introduction and popularization of Western biological and medical concepts (cell theory, bacteriology, specific researchers like Rubner and Metchnikoff) in colonial Korea through accessible publications like *Tonggwang*. It highlights contemporary concerns about public health, disease prevention, and lifespan extension during a period of significant social change and nascent modernization, framing longevity as a scientific problem solvable through rational inquiry and improved hygiene/lifestyle, moving away from purely traditional views.
+
+**Named Entities**
+
+東光社	동광사	Tonggwangsa
+天道敎紀念館	천도교기념관	Ch'ŏndogyo Kinyŏmgwan (Ch'ŏndogyo Memorial Hall)
+兪日濬	유일준	Yu Il-chun
+루뿌너	루프너	Rubner
+프페란드	후펠란트	Hufeland
+뿌폰	뷔퐁	Buffon
+바이쓰만	바이스만	Weismann
+支那	지나	China
+英國	영국	United Kingdom (England mentioned in text)
+겐티간	켄티건	Kentigern
+匈牙利	헝가리	Hungary
+페루란도	페트란	Petran (Possibly Petrán?)
+日本	일본	Japan
+志賀隨	시가 스이	Shiga Zui
+山東省	산둥성	Shandong Province
+李珍元	리전위안	Li Zhenyuan
+아담	아담	Adam
+우돌프	우드러프	Woodruff
+메치니코프	메치니코프	Metchnikoff
+불가리아	불가리아	Bulgaria
+
+**Glossary**
+
+生物學	생물학	Biology
+長生不老	장생불로	Immortality, eternal youth
+有始有終	유시유종	Having a beginning and an end
+有生有死	유생유사	Having life and death
+法則	법칙	Law, principle
+不可抗力	불가항력	Irresistible force, force majeure
+愛着心	애착심	Attachment, affection
+期限	기한	Period, duration, term
+追究	추구	Investigation, inquiry
+依囑	의촉	Request, commission (older term/usage)
+壽命	수명	Lifespan
+發育期	발육기	Growth period, developmental period
+是認	시인	Acknowledgement, recognition, acceptance
+舊約時代	구약시대	Old Testament era
+早死者	조사자	Person who dies young/prematurely
+老衰現象	노쇠현상	Phenomenon of aging, senescence
+奇形的 促進	기형적 촉진	Abnormal/deformed acceleration
+疾病	질병	Disease, illness
+傳染性	전염성	Infectious, contagious
+細菌	세균	Bacteria, germ
+豫防	예방	Prevention (Older spelling of 예방)
+新陳代謝物	신진대사물	Metabolic products/waste
+中毒說	중독설	Intoxication theory
+消化器	소화기	Digestive organs
+營養素	영양소	Nutrient
+排泄	배설	Excretion
+原蟲	원충	Protozoa
+培養	배양	Culture (biological)
+陳舊	진구	Old, stale
+病理學	병리학	Pathology
+病原體	병원체	Pathogen
+大腸菌	대장균	Colon bacillus (often refers to E. coli)
+乳酸菌	유산균	Lactic acid bacteria
+內分泌線	내분비선	Endocrine gland
+호로몬	호르몬	Hormone (loanword)
+臟器	장기	Internal organ
+嗜好品	기호품	Items of preference (often implies tobacco, alcohol, coffee, etc.)
+興奮劑	흥분제	Stimulant
+攝取	섭취	Intake, ingestion
+實生活	실생활	Real life, practical life
+學理	학리	Theory, scientific principle
+
+
+---------------------------
+
+
+잡지명	동광 제29호
+발행일	1931년 12월 27일
+기사제목	生物學과 長生不老
+필자	醫學博士 兪日濬
+기사형태	논설
+
+生物學과 長生不老
+						醫學博士 兪日濬
+1
+有始有終과 有生有死는 宇宙自然의 한 法則일 것이다. 이 法則아래에 나고 이 要約안에 生活하는 가운데에 이 法則을 지키기 爲하야 죽지 않으면 아니 되는 것이 우리 人生의 밟어가는 唯一한 途程이다. 이와 같이 우리의 生活力에는 不可抗力의 時間的 制限이 잇으므로 因하야 우리의 生活에 對한 愛着心이 더욱 커지는 同時에 죽엄에 對한 恐怖를 本能的으로 느끼게 되는 것이다. 그러나 우리들의 生活力이 持續되는 期限에 對하야서나 또는 生活力이 停止되는 理由에 對한 追究는 그다지 熱中的이 아닌 것 같은 感想이 잇다. 이 問題를 平凡히 생각하면 極히 容易한 것 같으나 愼重히 살피어 볼 때에는 많은 難關이 潛伏한 가장 困難한 問題이다. 이 問題를 多少間이나마 鮮明케 할 수가 잇다면 우리들 實生活에 잇어서 많은 도음이 될 줄로 믿는 바이다. 昨秋 通俗醫學講演會가 天道敎紀念館內에 開催되엇을 때에 나는 이 問題에 관한 講述를 하게 되엇섯다. 그 當時에 東光社의 依囑을 받어서 그 講述內容을 本誌에 發表하기로 約束은 하얏으나 나의 큰 게으름으로 因하야 너무 오래 동안 끌게 된 點을 깊이 陳謝하는 바이다.
+
+2
+우리 人類의 生活能力이 持續되는 期限(壽命)은 先進의 이에 對한 硏究가 많이 잇음에 不拘하고 아즉 正確한 斷定을 얻지 못한 狀態에 잇다. 우리들의 日常生活 經驗에 依하면 人生70古來稀라는 古詩와 같이 우리의 壽命은 7, 80歲에 지나지 못하는 것이라고 볼 수가 잇다. 그러나 이와 같은 經驗的 考察로만은 正當한 見解를 얻기 어려울 것임으로 生物學的 方面과 歷史的 方面에서 取集한 材料를 基礎로 하야 생각하는 것이 가장 事實에 가까울 줄로 믿는 바이다.
+生物學 方面으로 본 事實. 生物學的 方面에 잇어서 이 問題를 많이 硏究한 사람은 루뿌너, 프페란드, 뿌폰, 바이쓰만 等이 잇으나 實驗結果에 잇어서나 實驗方式에 잇어서 가장 趣味를 끄는 것은 ＜96＞ 루뿌너의 硏究結果일 것이다. 同氏는 一般動物의 生活期限을 判斷하기 爲하야 動物의 發育期와 全 壽命과의 關係를 比較硏究한 結果 發育期가 긴 動物은 그의 壽命이 길다는 事實을 얻게 되는 同時에 發育期限의 6倍 乃至 8倍가 壽命의 持續期限이라는 結論를 얻게 되엇다. 이 統計的 觀察로 얻는 바 結果를 是認하는 때에는 人類의 壽命은 그의 發育期인 25歲의 6倍 乃至 8倍로서 實로 150年 乃至 200年이 될 것이다. 이 數字는 푸페란드가 日常主唱하는 200年說과 서로 合致가 된다고 볼 수가 잇다. 루뿌너는 이 結論에 滿足지 않고 다시 一般 動物體內에서 消耗되는 에네르기의 分量을 測定하야 出生後로부터 發育期까지의 消耗되는 에네르기全量은 全生活期限內에 消費되는 分量의 4分之1이라는 統計를 얻게 되엇으나 이 硏究結果로써 人類의 壽命을 計算하면 75歲 乃至 80歲에 지나지 못함으로 前記한 結果와는 큰 差異가 나게 된다. 그럼으로 어떤 成績을 是認하여야 옳을지 모르는 狀態에 잇다.
+이밖에 動物의 身體構造如何를 따라서 또는 生殖方式如何를 따라서 壽命을 判斷하랴는 硏究도 우리들에게 한 參考가 될 줄로 믿는 바이다. 例컨대 大腸이 길면 길스록 壽命이 짤다는 觀察이라든지 卵生動物에 잇어서는 産出된 卵子의 數가 많고 그 卵子가 母體에 比較하야 큰 種類의 動物은 壽命이 길다는 것과 같은 硏究가 이것이다.
+그러나 이와 같은 各種 硏究結果만에 着眼할 때에는 더욱 더욱 이 問題를 解決할 餘望조차 가지지 못할 處地인 感想이 난다. 要컨대 人類壽命에 對한 生物學的 硏究는 아즉 完決되지 못한 것만은 事實일 것이다.
+
+歷史的 方面으로 본 事實. 上述한 바와 같이 가장 正確할 줄로 생각되는 生物學的 觀察이 아즉 不定見함으로써 우리가 지금까지에 經驗한 事實을 歷史的으로 參考하야 보는 것이 이 問題를 取扱함에 한 도음이 될 줄로 믿는다.
+예전 文獻을 參考하면 支那의 天皇氏나 地皇氏는 18,000歲를 살엇다 하얏고 舊約時代의 아담은 930歲를 살고 그의 子孫은 몇 代를 連하야 各各 7, 8百年式을 살앗다고 記載되어잇다. 이 記錄은 한 개의 傳說에 지나지 못함으로써 이 記錄을 信用할 수가 없는 것이다. 그러나 人類의 文化가 開發된 以後의 記錄을 보면 英國의 겐티간은 185歲를 살고 匈牙利의 페루란도 185歲를 살앗으며 日本의 志賀隨는 160歲를 살앗다한다. 支那山東省에 사는 李珍元은 昨年까지 235歲를 사는 동안에 32回나 喪妻를 하엿다는 事實로 보아서 아마 이 李氏의 壽命이 人類의 生活持續 期限의 代表的이 될 줄로 믿는다. 이와 같은 經驗的 事實을 볼 때에 비로소 루뿌너의 150 乃至 200年說이 生物學的 硏究에 잇어서의 가장 正確한 結論이라고 볼 수 잇을 줄 믿는다. 그러나 우리가 實地에 잇어서 살 수 잇는 年限은 6, 70年에 지나지 못할 뿐 아니라 早死者의 壽命을 合하야 平均할 때는 40內外로 短縮되고 마는 것이다. 그러므로 200年을 우리의 壽命으로 是認한다면 壽命의 損失은 실로 160年이라는 끔직한 數字를 내게 된다. 이와 같은 壽命의 短縮의 原因은 두 가지가 잇으니 한 가지는 老衰現象의 奇形的 促進이요 또 한 가지는 모든 疾病의 患難일 것이다. 疾病의 侵入을 未然에 豫防하고 老衰의 奇形的 促進을 除去하는 때에는 누구나 200年에 가까운 壽命을 누릴 수 잇다는 것이 우리 想像에 가까운 推測일 것이다. 이 理想을 實現시키자면 勿論 前記의 두 가지 原因의 對한 正確한 知識이 必要할 것이다.
+여러 가지 疾病가운데에 壽命短縮의 唯一한 原因이 되는 種類는 各種 傳染性 疾病이다. 그러나 此種 疾病은 그 病原體인 여러 가지 細菌의 對한 仔細한 智識을 素養함으로써 能히 豫防할 수 잇는 것이다. 老衰現象의 奇形的 促進만은 今日 우리들의 가진 바 醫學的 ＜97＞ 智識이나 衛生的 施設로도 能히 除去키 어려운 것이다. 이 點에 잇어서 더욱 우리는 老衰의 原因이 무엇이며 이 現象의 促進이 무슨 原因으로 나타나는 것인가에 對한 根本的 硏究가 必要하다고 볼 수 잇다.
+
+3
+老衰의 原因. 이 問題에 對한 硏究는 그 範圍가 매우 廣汎할 뿐 아니라 硏究된 成績과 考案된 學說이 너무 錯亂하야 簡單히 몇 줄로써 다하기 極難한 것은 勿論이나 가장 信用할 만한 몇 가지의 學說을 記載하야 讀者 諸氏의 參考에 바치고자 한다.
+
+1. 新陳代謝物의 中毒說. 우리들은 우리의 生命을 維持하기 爲하야 各種植物을 攝取하는 것이나 1次 攝取된 食物은 消化器로부터 吸收되는 때에 一定한 化學的 變化를 받어서 身體內의 消耗되는 部分을 補充하는 同時에 組織內에서 燃燒되어 一定量의 熱을 形成하야 身體生活의 原動力이 되는 것이다. 이와 같이 체내에 흡수된 영양소의 화학적 생리작용으로 인하야 신체조직의 生命을 維持하게 되는 同時에 營養素의 分解作用으로 因하야 産出된 各種 新陳代謝物은 組織細胞에 對하야 極히 有害하게 作用하는 것이다. 이 有害物은 身體의 奇妙한 生理的 作用으로 因하야 卽時 體外에 排泄되는 것이나 그러나 少量의 一部分은 恒常 體內에 殘餘되어 不知中에 組織細胞를 害롭게 함에 이르는 것이다. 이 有害作用을 받아서 細胞의 生理的 機能이 損傷되는 同時에 그 細胞의 外形에 반드시 一定한 變態를 띄게 되는 것이다. 이 變態의 出現을 우리는 老衰現象이라하며 毒性作用의 蓄積으로 因한 細胞의 生理的 機能의 停止를 所謂 生理的 죽엄이라고 認定하는 것이다. 그러므로 生物의 生活力의 賦與가 食物에 잇는 同時에 그 生物의 死滅의 原因이 亦是 食物에 잇다고 볼 수 잇다. 다시 말하면 살기 爲하야 먹고 먹음으로 因하야 죽지 아니하면 아니 되는 것이 一般生物의 全生活 途程이라고 볼 수가 잇는 것이다. 이와 같은 우리의 見解가 果然 틀림이 없는 事實인가. 아닌가를 實證함에는 몇 가지의 實驗例를 들 必要가 잇다고 생각한다.
+
+實驗例1. 米國 「우돌프」라는 學者는 中毒說을 說明하기 爲하야 파라메지움原蟲을 培養하야 보앗다. 一個의 原蟲을 試驗管內의 넣고 每日 一次式 適合한 營養液을 줄 때에는 幾日을 지나지 않아서 原蟲의 旺盛한 發育을 볼 수가 잇으나 7日以上을 經過할 時는 드디어 그 原蟲은 死滅함에 이르는 事實을 보앗다 한다. 그러나 陳舊한 營養液을 全部 除去한 後에 새로운 營養液을 느어줄 때에는 幾個月, 幾個年을 經過하여도 그 生活力의 何等 變化를 보지 못하엿다 한다. 一個의 小原蟲은 身體構造가 簡單하야서 그 體內에 形成된 毒性物質을 完全히 體外로 排泄시킬 수 잇으므로써 試險管內의 排出된 毒物만을 除去할 뿐으로 能히 그 原蟲의 新陳代謝物로 因한 中毒作用을 避케 할 수 잇는 것이나 인체는 그 구조가 복잡한 만큼 체내의 형성된 독성물질을 完全히 體外로 排出시키지 못하는 点으로 因하야 原蟲에 對한 實驗과 같이 永遠한 生活力을 얻지 못하는 것이라고 한다. 이 点은 우리 人類로서도 一個 原蟲에 및이지 못하는 唯一한 缺点으로 볼 수가 잇다.
+
+實驗例2. 近時 細菌學과 病理學의 發達에 極致에 이르러서 各種 病原體의 病的 作用과 人體細胞의 生理的 作用과의 關係를 硏究하는 한 方法으로 從來와 같이 人體內의 變化만에 注意치 않고 人體組織細胞를 떼어서 試驗管內에 넣고 그 組織을 人工的으로 살려가면서 各種 病原體의 病的 作用과의 相對的 關係를 硏究하게 되엇다. 이 方面의 새러운 發見은 이 中毒說을 實地로 ＜98＞ 證明하기에 큰 貢獻이 되엇다고 볼 수가 잇다. 身體細胞의 一部分을 切取하야 試驗管內에 넣고 一定한 營養液을 賦與하야 培養하야 보면 幾日後에는 그 細胞의 旺盛한 發育을 볼 수가 잇으나 陳舊한 營養液을 除去치 아니하는 境遇에는 비록 새로운 營養液을 加入하여도 드디어 死滅에 이르는 것이다. 그러나 만일 陳舊한 營養液을 完全히 除去하는 때에는 그 細胞의 生活力이 無限히 繼續되는 事實을 實驗할 수 잇는 것이다.
+우리 인체와 같이 극도로 진화된 세포일지라도 영원히 그 生活力을 持續할 수 잇음을 確證함에 不拘하고 人體全體로서는 드디어 老衰에 빠지지 않으면 아니 되는 点은 中毒說을 是認케 하는 한 가지의 證據가 되는 것이라고 보고 싶다.
+
+2. 메치니코프氏의 大腸菌中毒說. 널리 動物胃腸의 形體를 살피어 보면 動物의 種類에 따라서 大腸의 長短이 顯着이 差異가 난다. 生理的 作用으로 보아서 大腸은 그다지 必要가 없다는 것이 今日의 趨勢일뿐더러 大腸이 긴 動物은 일반적으로 壽命이 짧고 이와 反對로 大腸이 짧른 動物은 壽命이 긴 事實을 발견할 수가 잇는 것이다. 鳥類 中에는 地上에 捿息치 안는 種類가 大腸이 없고 膀胎이 없어서 空中生活을 營爲하기에 至極히 便利한 處地에 잇다. 그 뿐 아니라 地上에 捿息하는 鳥類는 大腸을 가젓을 뿐 아니라 그의 壽命이 空中捿息하는 種類보다 훨신 短命인 것도 事實이다. 메치니코프氏는 이 奇異한 現象에 着目한 後 먼저 各種 動物의 大腸內에 잇는 細菌을 檢査한 結果 身體에 有害한 毒素를 産出하는 大腸菌이 無數히 寄生함을 發見하엿다. 그와 同時에 鳥類中에서 가장 長壽하다는 蝙蝠은 大腸이 없으므로 1個의 大腸菌도 檢出치 못하엿다 한다.
+
+同氏는 이 事實로 보아서 一般動物의 老衰를 促進하는 原因이 大腸菌에 잇다고 斷定하엿다. 불가리아人이 世界 人種 中에 가장 長壽하는 것은 요구르드라는 食物을 먹기 때문이라고 附言하엿다. 요구르드는 半乳에 乳酸菌을 넣어서 맨든 것임으로 이것을 먹을 때에는 無數한 乳酸菌이 大腸內에 들어가서 繁殖하야 大腸菌을 消滅시키는 까닭이라고 說明한 것은 實로 學究者의 融通性 없는 缺点을 나타나게 한 것이라고 볼 수 이다.
+
+3. 內分泌線의 分泌物인 所謂 호로몬의 學說. 호로몬이 老衰와 關係가 깊은 것은 事實일 것이나 그의 理論이 아즉 正確치 못함으로 省略함은 좀 섭섭한 感이 잇다.
+
+4
+老衰의 奇形的 促進의 原因. 老衰의 原因을 檢討하야 볼진대 우리는 老衰作用이 出現되는 機轉이 新陳代謝物의 中毒作用인 內部的 原因으로만 滿足할 수가 없을 것이다. 그 뿐 아니라 이 內部的 原因을 完全히 除去함은 매우 困難한 일의 하나이다. 그러므로 우리의 實生活에 잇어서 필요한 部分은 外部的 原因에 잇다고 볼 수가 잇다.
+그러나 讀者諸氏에게 支離한 이 글을 바치어서 無益한 疲勞를 드림도 筆者의 未安한 생각의 하나가 됨으로 다만 老衰現象을 完形的으로 促進하는 原因의 條目만을 記述하야 끝을 맺고자 한다. 空氣의 變化, 住宅과 衣服의 不適, 過度의 肉體的 勞働과 精神作用의 激動, 身體 臟器의 過度의 使用, 嗜好品과 興奮의 濫用, 分量의 均衡을 잃은 飮食物의 攝取나 不完全한 營養物의 攝取, 皮膚衛生의 不注意 等은 모다 우리의 理想的 壽命에 達치 못하는 큰 原因이 되는 것은 누구나 다 아는 바이다. 이와 같은 모든 点에 對한 科學的 具體案을 作成하야 우리의 實生活에 合理化시킬 學理와 實地的 施設의 完成은 吾人의 最大 希望일 줄로 믿는다. ＜99＞
+＜96-99＞

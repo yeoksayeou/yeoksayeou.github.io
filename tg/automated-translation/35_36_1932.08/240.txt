@@ -1,0 +1,50 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 科學斷片, 불 안타는 材木 (Science Fragment, Fire-Resistant Lumber)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing/Article)
+
+Now, when building houses, one should use lumber that does not catch fire. This too was invented in America; it involves adding chemicals to ordinary lumber to make it non-flammable. The chemical treatment consists of three parts: the first is a chemical that generates fire-extinguishing gas when fire approaches; the second is a chemical that fills up all the fine pores of the lumber; and the third is a chemical that forms a protective outer shell.
+
+As for how these chemicals are infused into the lumber, the lumber is placed inside a large steel container, and after completely extracting the air for an hour and a half using an air-ejecting machine, the chemical solution is sprayed in, allowing the chemicals to permeate into the core of the lumber.<43>
+
+**Summary**
+
+This short article introduces a recent American invention for making wood fire-resistant through a three-part chemical treatment. The process involves impregnating lumber with chemicals under vacuum: one releases fire-suppressing gas, another seals wood pores, and the third creates a protective coating. From a historical perspective, the article highlights the keen interest in Western (specifically American) technological advancements within colonial Korea during the 1930s. It reflects a desire to modernize and adopt new technologies, even in everyday materials like building lumber, showcasing the flow of technical information and aspirations for progress during that period.
+
+**Named Entities**
+
+미국	미국	Miguk
+
+**Glossary**
+
+科學斷片	과학단편	Science fragment
+材木	재목	Lumber, timber
+안타는	안 타는	Non-burning (older spelling of 안 타는)
+가하야	가하여	By adding (older spelling/form of 가하여)
+안붙게	안 붙게	So it doesn't catch fire (older spelling of 안 붙게)
+첫재	첫째	First (older spelling of 첫째)
+까쓰	가스	Gas (older spelling/transcription of 가스)
+둘재	둘째	Second (older spelling of 둘째)
+메꾸어	메꾸어/메워	To fill in, plug up (메꾸다 is still used, but 메우다 is more standard for 'fill')
+셋재	셋째	Third (older spelling of 셋째)
+껍더기	껍데기	Shell, husk, outer layer (older spelling of 껍데기)
+어떠케	어떻게	How (older spelling of 어떻게)
+넣는냐	넣느냐	How to put in (question form; older spelling/form of 넣느냐)
+강철통	강철통	Steel container/cylinder
+기게	기계	Machine (older spelling of 기계)
+약물	약물	Chemical solution, liquid medicine
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	科學斷片, 불 안타는 材木
+기사형태	잡저
+
+科學斷片, 불 안타는 材木
+이제부터는 집을 지을려면 불 안붙는 재목을 써야하겟다. 이것도 미국서 발명한 것인데 보통 재목에다가 약품을 가하야 불 안붙게 만든 것이다. 그 약은 세가지로 되엇는데 첫재는 불이 가까히 하면 불끄는 까쓰를 발생하는 약이요, 둘재는 재목의 가는 구멍들을 다 메꾸어 버리는 약이요, 셋재는 겉으로 보호하는 껍더기를 이루는 약이다.
+이 약품을 어떠케 재목에 넣는냐 하면 큰 강철통 속에 재목을 넣고 한시간 반동안 공기 뿜는 기게로 공기를 말끔 뽑은 뒤에 약물을 뿜어 넣으면 재목 중심까지 악물이 배어든다.＜43＞
+＜43＞

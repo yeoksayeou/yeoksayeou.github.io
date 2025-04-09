@@ -1,0 +1,111 @@
+Magazine Title: 동광 제7호
+Publication Date: 1926년 11월 01일
+Article Title: 새로운 검파긔 (A New Detector)
+Article Type: 소식 (News/Information)
+
+A New Detector
+
+If someone says a new detector has been invented, you might laugh and say, "Oh, another one!" It has become a habit to tinker this way and that with the same type of detector and sell it as new, so even when called a new detector, people don't believe it. However, the detector mentioned here is completely different from those that have existed until now.
+
+First, what is a detector? It is a machine that inspects the radio waves of wireless telephony. Radio waves have alternating current (交流) oscillations, where the wave goes down once and then up once, alternating. However, the receiver (수신긔) that receives wireless telephone signals is different; it only receives waves going in one direction to achieve reception. To change alternating current (交流) to direct current (直流), a detector must be used to block the current flowing in one direction. Beginners in radio (라듸오) all know that machines performing this function include the coherer (코히러), the crystal detector (광석 검파긔), and the vacuum tube (진공관).
+
+Now, the newly emerged detector is completely different. Copper oxide (酸化銅) is spread on a piece of copper, and then a piece of lead (鉛) is placed on top, after which it is tightly fastened with a screw (라사 못). The copper oxide is made by heating the copper sheet (銅片) in the air, allowing the air to oxidize the copper. After this is done, the copper oxide on one side is scraped off with a file. When tightening with the screw, it is, of course, necessary to insulate the copper and lead with a non-conductor (不導體).
+
+Structure of the New Detector
+[Image Caption] The painted area is the insulated non-conductor, and the dotted area is the copper oxide.
+
+This detector was presented by a person named L.O. Grondahl (L.O.그란들) at the American Physical Society (미국 물리학회). Its distinctive feature, unlike other detectors, is that it operates even at very low voltages and also works with very small currents.
+
+Not only that, but an interesting point is that it might work not only with copper and lead but also with other metals. Therefore, those with an interest in invention may experiment in various ways. Just keep in mind as a principle <45> that it uses two kinds of metal and one kind of metal oxide.
+
+Catching Bugs
+[Image Caption] Spraying pesticide to catch bugs in the soybean field (콩밧헤); several 'mal' can be sprayed in a single day (하로).
+
+Machines and Farming
+
+[Image Caption] Radish (무우) pulling machine: This machine pulls, trims, and stacks radishes by itself.
+
+An era has come where farming is done from seeding to harvest without a single human hand touching the crops. Moreover, the amount of farming one person can do has increased manifold, and it seems the day is coming when what one person used to plow in two days can be done in ten or twenty days.
+
+The land is America (미국), and the tools are steam (증긔) and gas engine vehicles (까스 긔관차). There's an old Korean saying about a puppy that digs with its front paws, sows with its back paws, and covers with its tail, but the steam motor-driven "Universal" cultivator (유니버살 경작긔), although it can't sow seeds, first turns over the soil with a large spade, and then rotating hoes underneath break it up smoothly, creating a perfect field (바틀). The most developed are the harvesting machines (추수하는 긔게); while cutting the grain, they simultaneously thresh it, putting it either into sacks or storing it in tanks. Even pulling this through the field is now done by automobile. The leftover straw (지프) after threshing was originally a headache for harvesters, but recently, harvesting machines used in the Kansas (칸사스) region are equipped with machines to spread the straw and machines to screen it. By applying such machines, immense labor is saved, and agricultural efficiency is increased. <46>
+
+[Image Caption] This picture shows a harrow (쇠스랑) that levels dozens of furrows at once, operated by an automobile; the length of the harrow is about one hundred and eight British feet (백여덜영척).
+<45-46>
+
+**Summary**
+
+The text consists of two main parts. The first introduces a new type of radio wave detector invented by L.O. Grondahl, utilizing copper, copper oxide, and lead. It highlights its novelty compared to existing coherers, crystal detectors, and vacuum tubes, emphasizing its ability to function at low voltages and currents. The second part discusses the rapid mechanization of agriculture, particularly citing examples from America (the "Universal" cultivator, advanced harvesters used in Kansas). It marvels at how steam and gas engines are replacing manual labor, drastically increasing farming efficiency from plowing to harvesting. For colonial history, these articles reveal a keen interest among Koreans in contemporary Western technological advancements in both electronics (radio) and heavy industry (agricultural machinery) during the 1920s. They reflect an awareness of global trends and implicitly contrast modern, efficient methods (associated with America) with potentially less developed local practices, showcasing the era's aspirations and the perceived gap in technological development.
+
+**Named Entities**
+
+L.O.그란들	L.O. 그란들	L.O. Kŭrandŭl
+미국 물리학회	미국 물리학회	Miguk Mullihakhoe (American Physical Society)
+미국	미국	Miguk (United States)
+칸사스	칸사스	K'ansassŭ (Kansas)
+
+**Glossary**
+
+검파긔	검파기	Detector (older spelling of 기)
+낫구먼	났구먼	It has appeared/come out again (colloquial, older spelling)
+밋지를 안케	믿지를 않게	To not believe (older spelling/phrasing)
+밧는	받는	Receiving (older spelling)
+바다야	받아야	Must receive (older spelling)
+됨니다	됩니다	Becomes; is necessary (older spelling/formality)
+잇고	있고	There is/are (and)... (older spelling)
+라듸오	라디오	Radio (older phonetic transcription)
+우에	위에	On top of (older spelling)
+노흔 후	놓은 후	After placing (older spelling)
+라사 못	나사못	Screw (likely older term/spelling for 나사못)
+달와서	달궈서	By heating (older spelling)
+부도체	부도체	Non-conductor, insulator
+잇스니	있으니	Since there is/are (older spelling)
+원측	원칙	Principle (older spelling)
+밧헤	밭에	In the field (older spelling)
+리는데	뿌리는데	Spraying (older spelling using 아래아 vowel)
+하로	하루	One day (older spelling/pronunciation)
+여러말직이	여러 말씩이	Several 'mal' (unit of volume) each (older spelling/phrasing)
+무우	무	Radish (older spelling)
+는긔게	뽑는 기계	Pulling/harvesting machine (older spelling)
+싸하놋는다	쌓아 놓는다	Stacks up (older spelling/phrasing)
+아니대고	아니 대고	Without touching (older spacing)
+증긔	증기	Steam (older spelling)
+긔관차	기관차	Engine vehicle/tractor (older spelling of 기)
+미테	밑에	Underneath (older spelling)
+잇서서	있어서	Because there is/are (older spelling)
+만드러놋소	만들어 놓소	Makes and leaves it (older spelling/ending)
+버히며	베며	Reaping/cutting (older spelling)
+지프	짚	Straw (older spelling)
+한번에	한꺼번에	All at once (older spelling)
+쇠스랑	쇠스랑	Harrow (agricultural tool)
+영척	영척	British foot (unit of length, 營尺)
+
+
+---------------------------
+
+
+잡지명	동광 제7호
+발행일	1926년 11월 01일
+기사제목	새로운 검파긔
+기사형태	소식
+
+새로운 검파긔
+새로운 검파긔가 발명되엇다하면 『응 또 낫구먼!』하고 웃으시리다. 가튼 타입의 검파긔를 가지고 이리 뜻고 저리 뜻어 새것이라고 파는 것이 습관이 되어서 새로운 검파긔라 하여도 밋지를 안케 된 것이오. 그러나 여긔 말하는 검파긔는 지금까지 잇던 것과는 아주 딴판이오.
+대체 검파긔가 무엇인가. 무선 전화의 전파를 검사하는 긔게니 무선 전파는 그 파동이 교류(交流)가 되어 파동이 한 번은 나려가고 한 번은 올라가 서로 엇박귀게 되는데, 무선 전화를 밧는 수신긔는 이와 달라 오직 한 편으로 가는 파동을 바다야 수신이 되오. 교류(交流)를 직류(直流)로 변하는대는 검파긔를 사용하여 한 편으로 흐르는 전류는 막아버려야 됨니다. 이런 일을 하는 긔게로 「코히러」도 잇고 광석 검파긔도 잇고 진공관도 잇는 것은 「라듸오」의 초학자는 다 아는 것이오.
+인제 새로 난 검파긔는 그와 아주 달라 구리조각 우에 산화동(酸化銅)을 펴고 또 그 우에 납(鉛) 조각을 노흔 후 라사 못으로 꽉 잡아맨 것이오. 산화동은 그 동편(銅片)을 불에 달와서 공긔로 하여금 동을 산화하게 하여 만들고 그러케 된 뒤에 한 편은 줄로 산화동을 쓸어버림니다. 라사못으로 조일 때는 물론 동과 납에서 부도체(不導體)로 절연을 시킴이 필요하오.
+새 검파기의 구조
+은칠한곳은 절연한 부도체요 점은 것은 산화동이라
+
+이 검파긔는 「L.O.그란들」이란 이가 미국 물리학회에서 발표한 것인데 그 특색은 다른 검파긔와 달라 아주 나즌 전압에서라도 작용하며 또 아주 적은 전류에서도 되는 것이오.
+그 뿐 아니라 재미잇는 일은 비단 동이나 납뿐 아니라 혹 다른 금속으로 하여도 될 수 잇스니 발명에 취미를 가진 사람은 여러가지로 실험하는 것이 가하오. 다만 원측으로＜45＞ 마음에 두어야 할 것은 두 가지 금속과 한 가지 산화 금속을 쓰는 것이오.
+
+버레잡이
+콩밧헤 버레잡기위하야 약을 리는데 하로에도 여러말직이를 릴수잇다.
+
+긔게와 농사
+
+무우 는긔게 이긔게는 혼자서 무우를 고 다듬고 싸하놋는다
+씨뿌릴 때부터 곡식 거둘 때까지 한 번도 사람의 손을 아니대고 농사하는 세상이 되엇소. 그리고도 한 사람이 하는 농사의 분량이 여러갑절 늘어서 한 사람이 이틀 가리하던 것이면 열흘가리 수무날 가리를 하게 될 날이 되어가는가 보오.
+땅은 미국이요 긔구는 증긔와 까스 긔관차요. 우리나라 옛 말에 압발로 파고 뒷발로 뿌리고 꼬리로 덥는 강아지가 잇섯다 하거니와 증긔 「모터」로 돌리는 「유니버살」 경작긔는 씨까지는 못뿌려도 위선 큰 가래로 흙을 파넘기면 그 미테 돌아가는 호미가 잇서서 보드럽게 부스러터려 완전무결한 바틀 만드러놋소. 가장 발달된 것은 추수하는 긔게들이니 곡식을 일변 버히며 일변 두드려서 혹은 자루에 너코 혹은 탕크에 저축하게 되엇는데 이것을 바트로 끄을고 다니는대도 자동차로 하게 되엇소. 뚜드리고 남은 지픈 본래 추수꾼의 두통꺼리엇지마는 근래 「칸사스」 지방에서 쓰는 추수긔게에는 지플 펴치는 긔게와 그것을 가리는 긔게가 부속되엇소. 이런 긔게를 응용하야 무한한 노력을 생각하고 농업의 능률을 증진시킴니다. ＜46＞
+
+이그림은 한번에 수십이랑의 흙을 고르는 쇠스랑을 자동차로 운전하는것이니 쇠스랑기리가 백여덜영척이다
+＜45-46＞

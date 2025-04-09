@@ -1,0 +1,49 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 科學斷片, 미역농사 (Scientific Fragment, Seaweed Farming)
+Author: None specified
+Article Type: 잡저 (Miscellaneous Writing/Article)
+
+Scientific Fragment, Seaweed Farming
+
+Because merely picking and eating the seaweed (미역) that grows naturally in the sea is not satisfactory, seaweed farming has recently begun in America. Although Americans may not know to eat seaweed soup even when they have a child, they instead extract iodine (요도) and potassium (가리) from seaweed, thus valuing it highly. Recently, however, it has been discovered that it becomes good feed when fed to horses and cows.
+
+Therefore, a machine for harvesting seaweed on a large scale from within the sea has recently been invented. <58>
+
+**Summary**
+
+This short article from 1932 reports on the development of seaweed farming in America. It contrasts the American approach—initially valuing seaweed for extracting iodine and potassium, and later discovering its use as animal feed—with the Korean custom of eating seaweed, specifically mentioning seaweed soup after childbirth. The piece notes the recent invention of a machine for large-scale seaweed harvesting in the US. From a historical perspective, the article is interesting as it shows the transmission of information about Western agricultural and industrial practices into colonial Korea. It highlights the differing cultural and economic valuations of the same natural resource (seaweed) and reflects contemporary interest in scientific advancements and resource utilization, including alternative animal feed sources.
+
+**Named Entities**
+
+미국	미국	Miguk
+
+**Glossary**
+
+科學斷片	과학단편	Scientific fragment
+미역농사	미역 농사	Seaweed farming
+성차지 안는다	성에 차지 않는다	Is not satisfactory (Older expression/spelling)
+요새	요새	Recently, nowadays
+짖게 되엇다	짓게 되었다	Came to farm/build (Older spelling)
+나아도	낳아도	Even when giving birth (Older spelling)
+요도	요오드	Iodine (Likely referring to Iodine, 요오드, though written as 요도)
+가리	칼리/칼륨	Potassium (Older term for Potassium, 칼륨)
+여기엇는데	여겼는데	Considered it, but... (Older spelling)
+발견햇다	발견했다	Discovered (Older spelling)
+추수하는	추수하는	Harvesting
+기게	기계	Machine (Older spelling/pronunciation)
+발명되엇다	발명되었다	Was invented (Older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	科學斷片, 미역농사
+기사형태	잡저
+
+科學斷片, 미역농사
+바다에서 저절로 자라나는 미역을 따다가 먹기는 성차지 안는다고 요새 미국서는 미역농사를 짖게 되엇다. 미국사람들은 아이를 나아도 미역국을 먹을 줄은 모르되 그 대신 미역에서 요도와 가리를 채취하므로 매우 귀중히 여기엇는데 요새 와서는 이것을 말과 소에게 먹이면 좋은 식량이 되는 것을 발견햇다.
+그래서 바다 속에 미역을 대규모로 추수하는 기게가 최근 발명되엇다. ＜58＞
+＜58＞

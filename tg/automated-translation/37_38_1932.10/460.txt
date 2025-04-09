@@ -1,0 +1,57 @@
+Magazine Title: 동광 제38호
+Publication Date: 1932년 10월 01일
+Article Title: 석양에 (At Sunset)
+Author: 雨泉
+Article Type: 시 (Poem)
+
+At Sunset
+						Uch'ŏn (雨泉)
+
+When I see the clouds swirling around the blue sky,
+Something in my heart feels longing.
+The sunlight in the high sky
+Is drying the young lady's laundry you hung out.
+
+Crossing mountains and streams, autumn seems to have arrived.
+The bright-eyed young autumn—
+Wanting to see its eyes,
+I wait for the moon to rise, round and bright. <70>
+
+**Summary**
+
+This short poem by Uch'ŏn (雨泉) captures a moment of quiet contemplation at sunset. The speaker observes the sky and feels a sense of longing, associating the sunlight with laundry drying. The poem then shifts to the arrival of autumn, personified as a young entity with bright eyes, and expresses anticipation for the moonrise. From a historical perspective, the poem offers a glimpse into personal sentiment and lyrical expression during the colonial period, using older Korean spellings and forms ("하날," "너신," "왓나보이," "보과저"). It reflects a connection to nature and seasonal change, themes common in Korean poetry, presented in the language conventions of the early 1930s.
+
+**Named Entities**
+
+雨泉	우천	Uch'ŏn
+
+**Glossary**
+
+휩싸도는	휩싸도는	Swirling around, enveloping (Older form/spelling)
+하날	하늘	Sky (Older spelling of 하늘)
+너신	너는/널은	Drying (Combines 널다 'to hang out/dry' + grammatical elements; describes the laundry being dried)
+왓나보이	왔나보오/왔나보다	Seems to have come / Must have come (Older dialectal/poetic ending)
+보과저	보고자	Wanting to see / In order to see (Older spelling/form of 보고자)
+두리둥둥	두리둥실/둥실둥실	Floatingly, roundly (Mimetic word describing the moon rising)
+
+
+---------------------------
+
+
+잡지명	동광 제38호
+발행일	1932년 10월 01일
+기사제목	석양에
+필자	雨泉
+기사형태	시
+
+석양에
+						雨泉
+푸른 하늘 휩싸도는 구름을 보면
+무엇인가 내 맘엔 그립습니다.
+높은 하날 해빛은
+아가씨 너신 빨래 날리옵노니.
+
+산 넘고 내 넘어 가을이 왓나보이.
+영농한 어린 가을
+눈동자 보과저
+두리둥둥 달뜨기를 기다립니다.＜70＞

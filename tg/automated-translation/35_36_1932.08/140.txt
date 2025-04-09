@@ -1,0 +1,84 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 第6官, 紳士들의 體育熱 (The Sixth Sense, Gentlemen's Enthusiasm for Physical Training)
+Article Type: 소식 (News/Dispatch)
+
+Whether influenced by the spread of enthusiasm for physical training throughout all of Chosŏn, an eagerness for physical activity has arisen among the gentlemen of Seoul, and one can see respected elders with beards carrying athletic wear. At the Chosŏn Yŏnmugwan (朝鮮演武館) in Susong-dong (壽松洞), under the guidance of instructor Mr. Yi Kyŏngsŏk (李景錫), a training group has been organized and has held its first and second training sessions. Participants include Dr. Yi Kŭngno (李克魯) and Mr. Kim Sŏn'gi (金善琪) of the Korean Language Dictionary Compilation Society (朝鮮語辭典編纂會), along with Mr. Yi Kwan'gu (李寬求) and Dr. Kim Hyŏnjun (金賢準) of Posŏng College (普專), Professor Ok Sŏnjin (玉선珍), storyteller Mr. Kim Chin'gu (金振九), chief editor of the *Tongbang P'yŏngnon* (東方評論) Mr. Paek Kwansu (白寬洙), physician Dr. Yi Kapsu (李甲秀), Doctor of German Philosophy An Hosang (安浩相), and others.
+
+Furthermore, at the special class of the Central Physical Training Research Institute (中央體育硏究所), besides the aforementioned Mr. Paek Kwansu and Dr. Yi Kapsu, Professor Yi Yongsŏl (李容卨) of Severance Medical College (世專), as well as Messrs. Yi Yŏsŏng (李如星), Hong Ch'ang'yu (洪昶裕), Yi Chŏngnae (李晶來), Yi Il (李一), Yi Hŏnyŏng (李軒永) (of Hwimun - 徽文), and various other gentlemen are said to be learning skills they couldn't learn in their youth under the guidance of Mr. Sŏ Sangch'ŏn (徐相天).<30>
+
+**Summary**
+
+This news article from August 1932 reports on a growing trend among prominent gentlemen and intellectuals in Seoul taking up physical training. It highlights two specific groups: one training in martial arts at the Chosŏn Yŏnmugwan under Yi Kyŏngsŏk, and another special class at the Central Physical Training Research Institute led by Sŏ Sangch'ŏn. The article lists numerous notable figures involved, including academics, doctors, editors, and writers, suggesting a burgeoning interest in physical fitness and perhaps nationalistic physical culture among the Korean elite during the colonial period. For historians, this piece is interesting as it documents the participation of specific, well-known Korean intellectuals and professionals (like Yi Kŭngno, Paek Kwansu, An Hosang) in organized physical activities during the 1930s. It reflects a broader social trend and potentially hints at undertones of national consciousness-building through physical culture, a common phenomenon in colonized nations seeking self-strengthening. The specific names, institutions, and the framing of "learning skills they couldn't learn in their youth" offer valuable social history data.
+
+**Named Entities**
+
+전조선	전조선	Chŏn Chosŏn
+서울	서울	Sŏul
+壽松洞	수송동	Susong-dong
+朝鮮演武館	조선연무관	Chosŏn Yŏnmugwan
+李景錫	이경석	Yi Kyŏngsŏk
+朝鮮語辭典編纂會	조선어사전편찬회	Chosŏnŏ Sajŏn P'yŏnch'anhoe
+李克魯	이극로	Yi Kŭngno
+金善琪	김선기	Kim Sŏn'gi
+普專	보전	Pojŏn
+李寬求	이관구	Yi Kwan'gu
+金賢準	김현준	Kim Hyŏnjun
+玉선珍	옥선진	Ok Sŏnjin
+金振九	김진구	Kim Chin'gu
+東方評論	동방평론	Tongbang P'yŏngnon
+白寬洙	백관수	Paek Kwansu
+李甲秀	이갑수	Yi Kapsu
+獨逸	독일	Togil
+安浩相	안호상	An Hosang
+中央體育硏究所	중앙체육연구소	Chungang Ch'eyuk Yŏn'guso
+世專	세전	Sejŏn
+李容卨	이용설	Yi Yongsŏl
+李如星	이여성	Yi Yŏsŏng
+洪昶裕	홍창유	Hong Ch'ang'yu
+李晶來	이정래	Yi Chŏngnae
+李一	이일	Yi Il
+李軒永	이헌영	Yi Hŏnyŏng
+徽文	휘문	Hwimun
+徐相天	서상천	Sŏ Sangch'ŏn
+
+**Glossary**
+
+體育熱	체육열	Enthusiasm for physical training/sports
+紳士	신사	Gentleman
+發興	발흥	Rising up, becoming popular
+鬚髯	수염	Beard
+버치다	버치다	To have (grown), wear (likely referring to beards here); an older verb form/usage.
+나리	나리	Respected elder, nobleman, sir (honorific for older men)
+단니다	다니다	To go around, attend (older spelling of 다니다)
+잇다	있다	To be, exist (older spelling of 있다)
+演武館	연무관	Martial arts training hall
+師範	사범	Instructor, master
+修練團	수련단	Training group
+爲始하다	위시하다	To start with, including (often appears as ~를 위시하여)
+博士	박사	Doctor (PhD or honorary title)
+教授	교수	Professor
+野談家	야담가	Storyteller (of popular folk tales/histories)
+主幹	주간	Chief editor, publisher
+醫師	의사	Medical doctor
+哲學	철학	Philosophy
+前記	전기	Aforementioned
+諸氏	제씨	Various gentlemen, Messrs.
+指導	지도	Guidance, instruction
+못배운	못 배운	Unlearned, didn't learn (older spacing/spelling)
+재주	재주	Skill, talent, knack
+하야	하여	Doing so, and so (older conjunctive form of 하다)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	第6官, 紳士들의 體育熱
+기사형태	소식
+
+第6官, 紳士들의 體育熱
+전조선으로 체육열이 퍼저나가는 영향을 받음인지 서울에는 신사들 중에 체육열이 발흥하야 수염을 버친 나리들이 운동복을 끼고 단니는 것을 볼 수 잇다. 壽松洞에 잇는 朝鮮演武館에는 사범 李景錫씨의 지도 하에 수련단이 조직되어 1회, 2회의 수련을 햇는데 거기 참가한 사람들은 朝鮮語辭典編纂會의 李克魯 박사, 金善琪 군을 위시하야 普專의 李寬求씨, 金賢準 박사, 玉선珍 교수 등이며 野談家 金振九씨, 東方評論 主幹 白寬洙씨, 의사 李甲秀씨, 獨逸哲學博士 安浩相씨 등등이라고.
+그리고 中央體育硏究所 특별반에는 前記 白寬洙, 李甲秀씨 외에 世專의 李容卨 교수며 李如星, 洪昶裕, 李晶來, 李一, 李軒永(徽文) 기타 諸氏가 徐相天씨의 지도 하에 어려서 못배운 재주들을 배우고 잇다 한다.＜30＞
+＜30＞

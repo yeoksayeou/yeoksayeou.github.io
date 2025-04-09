@@ -1,0 +1,195 @@
+**Header Section:**
+Magazine Title: 동광 제6호
+Publication Date: 1926년 10월 01일
+Article Title: 자연 (Nature)
+Author: [Not specified in the provided text]
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation:**
+
+Nature
+
+The various dreams of astronomers, those who desire high mountains, those who dream of deserts, better photographic equipment, better telescopes.
+
+Astronomers have just as many dreams as artists. Although astronomy is the oldest science, possessing the most complete instruments, and employing the most precise thing called mathematics as its servant, there are still many unknown problems and many unsatisfactory matters. However, their dreams are readily different from what ordinary people think.
+
+For example, let's consider a scholar studying the eight planets (八行星). He directly observes those planets through a telescope every night. We might think he would probably demand a larger telescope, one that shows things twice as large as the current one, but if you actually ask him, his greatest wish is for one that shows things more "clearly." No matter how large it appears, if the air is foggy or the wind blows, making it impossible to see clearly, it's of no use. As the telescope gets larger, blurry things also become larger, rendering a large telescope useless. To see clearly, the weather must be clear and good, but since one cannot control the weather at will, the only option is to build an observatory on a mountain that rises above the clouds. However, even the peak of the Himalayas won't do; not only is living there inconvenient, but the winds blowing through the mountain valleys disturb the air, making clear observation impossible. Therefore, it must be a plateau region or, if a mountain, one that is somewhat lower than other nearby mountains.
+
+Let's say another astronomer observes the path of a star over a long period. If that person misses the star's position for even one day, they will completely lose it, so there cannot be even one cloudy or rainy night. Where would such a place be? There is nowhere but the desert. However, it is said that even deserts rarely have ideal conditions.
+
+The Dreams of Astrophysicists
+Next, there are astronomers who study the physical properties of stars; their instruments are the "spectroscope" and the "photometer." Of course, when studying the sun, there's no worry about insufficient light, but if one is not careful, the heat and wind can disturb the air, so the observatory still needs to be in a high place. When studying stars and nebulae (별구름), the biggest problem is the lack of light. While a telescope can make stars appear larger, it cannot make them brighter, so even a very large telescope cannot see stars that are inherently<28> faint. However, since the invention of photography, even the smallest amount of light can accumulate and appear clearly on a photographic plate, making research extremely convenient. Therefore, astronomers demand photographic plates that are even more sensitive than now. How much more convenient would it be if a star could be captured in one night, rather than keeping the instrument open every night for a whole week just to capture one star? For this reason, photographic researchers in countries around the world put much effort into improving these plates.
+
+The photographic plate consists of silver bromide (弗化銀) powder suspended in gelatin colloid; its principle belongs to colloid chemistry, one of the newest fields within chemistry. Astronomers become indebted to chemists.
+
+The Silver-Disc Pyrheliometer (銀板日光檢測器) and its inventor, Dr. Charles Abbott. This instrument measures the heat of solar radiation.
+
+Troublesome Mathematical Calculations
+Besides telescopic observation, there are also many dream-like imaginations in the mathematical study of star movements. The study of stellar motion involves looking not just at individual stars, but at the average of many stars. It's about knowing the direction and speed of motion for not just a hundred or a thousand stars, but ten thousand or a hundred thousand, and finding their average. For this, they record the movements of stars daily for many decades (even a lifetime), examine the many records left by others, and if they cannot finish, they pass the calculations down through generations. As a result, today, the path of the moon, for example, is calculated so perfectly that we can know exactly where the moon will be on a certain day, at a certain hour, minute, and second, without error. Now, if we were to try to calculate the paths of the many thousands of minor planets (asteroids - 아스테로이즈) in the same way, it would be utterly beyond the dreams of current astronomy, but perhaps some patient scholar will emerge in the future to accomplish it.<29> Even astronomy, said to be the most developed of the sciences, cannot escape the feeling of being just one grain of sand on the seashore. The sea of knowledge also seems distant and endless.
+
+Newly Discovered Element "Illinium" (Number 61, Discoverer: Hopkins (USA))
+◇Mr. Hopkins, Discoverer of the New Element◇ and his laboratory
+
+It is an unavoidable fact that while America is famous for scientific inventions, it has lagged somewhat in pure scientific research. Amidst this, Professor B. S. Hopkins of the University of Illinois recently discovered a new element, gaining the honor of being America's sole discoverer of an element. He named the new element "Illinium" after his university. His discovery of this element was by no means accidental, nor was his research approach haphazard. The existence of this element had already been predicted. The Russian chemist Mendeleev (멘델레쁘) systematically arranged all the elements known today, thereby enabling the prediction of the numbers and properties of yet undiscovered elements. Later, an Englishman named Moseley (모슬리) invented another method, proving that element number 61 was missing and stating that if discovered, its properties would be such-and-such. Thus, Mr. Hopkins studied the mineral monazite (모나지트), which is used in gas mantles (까스 틀). This mineral yields elements 60 and 62, so (거인 로) he tested whether 61 might also be present within it. By creating an ultraviolet (얼트라 비올렛) arc from this mineral<30> and performing spectrum analysis, the spectral lines predicted by Moseley appeared. Then, testing again with X-rays (엑쓰 광션), he clearly proved the existence of element 61.
+
+Earth and Moon Were Originally One Body; The Pacific Ocean is the Scar Left by the Moon's Departure
+Another piece of evidence for Wegener's theory
+The new geological theory, Wegener's (웨게네르) theory, which posits that America, Europe (유롭), Asia (아시아), and Africa (아쁘리카) were originally one landmass that broke apart in the middle and gradually drifted to their current positions, with the rift becoming the Atlantic Ocean (태서양), has already been introduced.
+That the Earth's crust is composed of two layers, Sial (씨알) and Sima (씨마), with the lighter Sial floating on the heavier Sima and being able to drift, is considered proven. Also, the fact that the coastlines (니가) of North and South America fit into those of Europe and Africa serves as evidence for this theory.
+Be that as it may, what was the cause of the continent splitting into two pieces? Wegener could not explain it, but an American named Pickering (픽커링) recently solved it. According to him, the Earth and Moon were originally one body. By chance, another planet passed near the Earth, and its gravitational pull (引力) tore away three-quarters of the Earth's crust (껍더기). These torn three-quarters formed a ring around the Earth, which gradually coalesced to become the current Moon.
+
+The Volume of the Oceans and the Moon are Equal
+As evidence, the current specific gravity (比重) of the Moon is exactly the same as the specific gravity of the Earth's crust. Also, the volume (容積) of the Moon is exactly equal to the volume obtained by taking the area of the Earth's oceans (대양물) and assuming a depth of 36 miles. And indeed, the thickness (둑게) of the Earth's crust is exactly 36 miles.
+Therefore, originally, the Earth's crust was relatively smooth (믹근하게), and water covered it evenly (고로히). Then, when three-quarters of the crust broke off and left to become the Moon, the water gathered into that empty space, forming the current oceans, and the remaining one-quarter emerged as land (륙지). At the same time, that landmass split in two. The two pieces gradually drifted apart, becoming the Old and New Hemispheres (신구 두 반구) as they are today.
+Wegener's theory has gained another supporter here. If this story is true, then the fact that we became humans instead of fish (생선) is also thanks to the Moon. If the Moon hadn't separated (분가) from the Earth, there would have been no land on Earth, so how could humans have arisen?<31>
+<28-31>
+
+**Summary**
+
+This 1926 article discusses the aspirations and challenges within astronomy and related sciences. It covers the practical needs of observational astronomers (clear skies, stable air, sensitive photographic plates), the mathematical complexities of calculating celestial mechanics, the recent discovery of the element Illinium (element 61) by American chemist B.S. Hopkins based on predictions by Mendeleev and Moseley, and finally, it presents Pickering's theory supporting Wegener's continental drift hypothesis, suggesting the Moon was formed from Earth's crust, leaving the Pacific basin and allowing continents (and ultimately land life) to emerge. From a historical perspective, the article reveals an engagement with contemporary international scientific advancements (astronomy, chemistry, geology) within colonial Korea. It highlights the reliance on Western science (mentioning American, Russian, British scientists and specific theories/discoveries) and implicitly contrasts American practical invention with perceived European strength in "pure science," while celebrating a recent American discovery. The mention of the specific equipment and chemical processes involved indicates a desire to convey detailed scientific understanding to the Korean readership.
+
+**Named Entities**
+
+Himalayas	히말라야	Himalayas
+Charles Abbott	찰스·아봇트	Ch'alsŭ Abott'ŭ
+USA	미국	Miguk
+Illinois	일리노이	Illinoi
+B S Hopkins	B S 헙킨스	B. S. Hŏpk'insŭ
+Illinium	일리넘	Illinŏm
+Russia	루시아	Rusia
+Mendeleev	멘델레쁘	Mendellepp'ŭ
+England	영국	Yŏngguk
+Moseley	모슬리	Mosŭlli
+Wegener	웨게네르	Wegehnerŭ
+America	아메리카	Amerika
+Europe	유롭	Yurop
+Asia	아시아	Asia
+Africa	아쁘리카	Appŭrik'a
+Atlantic Ocean	태서양	T'aesŏyang
+Pickering	픽커링	P'ik'ŏring
+Pacific Ocean	태평양	T'aep'yŏngyang
+
+**Glossary**
+
+긔게	기계	Machine, instrument (older spelling)
+아니맞는	안 맞는	Unsuitable, unsatisfactory (older spelling/form)
+행성 (行星)	행성	Planet
+천문경	천문경	Telescope (astronomical mirror)
+똑똑이	똑똑히	Clearly (older spelling/adverbial form)
+일긔	일기	Weather (older spelling)
+박게	밖에	Only, outside of (older spelling)
+어대	어디	Where (older spelling)
+리상적	이상적	Ideal (older spelling)
+광션	광선	Light ray, beam (older spelling)
+높다랗ㄴ	높다란	High, lofty (older spelling/form)
+별구름	성운	Nebula (lit. star cloud)
+박이기	박히기	To be imprinted, captured (image) (older spelling/form)
+세게	세계	World (older spelling)
+원판	원판	Photographic plate (original plate)
+쁘롬 은 (弗化銀)	브롬화 은	Silver Bromide (AgBr) (older phonetic spelling and Hanja representation)
+화학가	화학자	Chemist (older term)
+은판일광검측긔	은판일광검측기	Silver-Disc Pyrheliometer (instrument name, older spelling '긔')
+씨끄럽은	시끄러운	Noisy, troublesome (older spelling)
+게산	계산	Calculation (older spelling)
+들이어다	들여다	To look into, peer at (older spelling)
+모를	모를	Unknown (adjective form)
+얼른	얼른	Readily, quickly
+꼭댁이	꼭대기	Peak, summit (older spelling)
+놓지었다는	놓쳤다가는	If one misses (older spelling/form)
+스펙트로스콥	스펙트로스코프	Spectroscope (loanword, older spelling)
+뽀토미터	포토미터	Photometer (loanword, older spelling)
+열긔	열기	Heat (older spelling)
+흔리니까	흐리니까	Because it's disturbed/blurry (older spelling)
+뵈일	보일	To be seen (older spelling)
+쌓이고 쌓이어	쌓이고 쌓여	Accumulating, piling up (older spelling/form)
+젤라틴	젤라틴	Gelatin (loanword)
+콜로이드	콜로이드	Colloid (loanword)
+리치	이치	Principle, reason (older spelling)
+하로	하루	One day (older spelling)
+대대 손손히	대대손손이	From generation to generation (older spelling)
+알ㄹ	알	To know (older spelling, ㄹ ending before consonant)
+소행성	소행성	Asteroid, minor planet
+아스테로이즈	아스테로이드	Asteroids (loanword, older spelling)
+일리넘	일리늄	Illinium (element name, older spelling)
+헙킨스	홉킨스	Hopkins (name, older phonetic spelling)
+루시아	러시아	Russia (older phonetic spelling)
+멘델레쁘	멘델레예프	Mendeleev (name, older phonetic spelling)
+규측적	규칙적	Systematic, regular (older spelling)
+배렬	배열	Arrangement (older spelling)
+까스 틀	가스 맨틀	Gas mantle (older term/spelling)
+모나지트	모나자이트	Monazite (mineral name, loanword)
+거인 로	~것이므로 / ~거 이므로	Because it is the thing that... (likely archaic connective/typo)
+얼트라 비올렛	울트라바이올렛 (자외선)	Ultraviolet (loanword, older spelling)
+엑쓰 광션	엑스 광선 (엑스선)	X-ray (loanword, older spelling)
+웨게네르	베게너	Wegener (name, older phonetic spelling)
+유롭	유럽	Europe (older phonetic spelling)
+아쁘리카	아프리카	Africa (older phonetic spelling)
+태서양 (太西洋)	대서양	Atlantic Ocean (lit. Great Western Ocean)
+거죽	거죽	Surface, crust (outer skin)
+씨알	시알	Sial (geological term, loanword)
+씨마	시마	Sima (geological term, loanword)
+뜨어서	떠서	Floating (older spelling)
+니가	이가 / 이음새가	Seam, joint, fit (likely intended meaning in context, older form/spelling)
+픽커링	피커링	Pickering (name, older phonetic spelling)
+슬치고	스치고	Passing by, grazing (older spelling)
+인력 (引力)	인력	Gravity, attractive force
+껍더기	껍데기	Crust, shell, husk (older spelling)
+사분 삼	사분의 삼	Three-fourths
+둘ㄹ러싼	둘러싼	Surrounding (older spelling)
+뭉치어서	뭉쳐서	Coalescing, clumping together (older spelling)
+비중 (比重)	비중	Specific gravity
+용적 (容積)	용적	Volume
+대양물	대양의 물	Ocean water
+둑게	두께	Thickness (older spelling)
+믹근하게	매끈하게	Smoothly (older spelling)
+고로히	고르게	Evenly (older spelling)
+덮히었었소	덮여 있었소	Was covered (older spelling/tense form)
+남저지	나머지	Remainder (older spelling)
+륙지	육지	Land (older spelling)
+쪼개지었소	쪼개졌소	Was split (older spelling/form)
+신구 두 반구	신구 두 반구	Old and New Hemispheres
+여긔	여기	Here (older spelling)
+생선	생선	Fish (used metaphorically for sea creature/primitive life)
+분가	분가	Separation (of family members to set up new house, used metaphorically for moon/earth)
+
+
+---------------------------
+
+
+잡지명	동광 제6호
+발행일	1926년 10월 01일
+기사제목	자연
+기사형태	논설
+
+자연
+
+천문학자의 가지각색의 꿈, 높은 산을 원하는 이 사막을 꿈꾸는 이,  더 좋은 사진긔게 더 좋은 망원경
+천문학자도 예술가 만치나 꿈을 많이 가지었소. 가장 오랜 과학이요 가장 완전한 긔게를 가지었고 가장 정확한 수학이란 물건을 종으로 부리는 과학이었마는 아직도 아직도 모를 문제도 많고 맘에 아니맞는 일도 많소. 그러나 그들의 꿈은 얼른 보통 사람이 생각하는 바와는 다르오.
+가령 팔행성(八行星)을 연구하는 학자를 두고 봅시다. 그는 매일 밤마다 천문경으로 그 행성을 직접 들이어다 보오. 그러면 우리 생각에 아마 더 큰 천문경 지금보다도 배나 더 크게 보이는 천문경을 요구할 듯 하지마는 실상 물어보면 그것보다도 더 「똑똑이」 보이는 것이 무엇보다 소원이라 하오. 아무리 크게 보이더라도 공중에 안개가 끼이고 바람이 불어 똑똑이 보이지 않으면 아무 소용이 없소. 천문경이 크면 클쓰록 흐린 것도 크어지는 고로 큰 천문경이 소용없는 것이오. 똑똑이 보려면 일긔가 맑고 좋아야 할 터인데 일긔를 맘대로 곧힐수는 없고 오직 구름 위로 솟은 산에다가 천문대를 짓는 수 박게 없소. 그렇다고 히말라야산 꼭댁이도 될 수 없으니 살기 불편한 것도 문제려니와 산곡으로 불는 바람이 공긔를 어지럽게 하여 관측을 분명히 할 수 없게 됨이오. 그런고로 고원지나 산이라도 함께 선 다른 산보다 좀 낮은 산이라야 되오.
+또 어떤 천문가는 별의 가는 길을 오래 두고 관찰한다 합시다. 그 사람은 하로라도 별의 위치를 놓지었다는 그만 잃어버릴 터인고로 하로 밤이라도 흐리거나 비가 오아서는 아니되오. 그런지 방이 어대겠음니까. 사막 밖에는 없소. 그러나 사막에도 아주 리상적으로 된 곳이 적다고 하오.
+
+천문 물리 학자의 꿈
+다음에도 별의 물리적 성질을 연구하는 천문가들이 있으니 그들의 장긔는 「스펙트로스콥」과 「뽀토미터」요. 물론 해를 연구하게 되면 광션이 적어서 걱정될 것은 없지마는 까딱하면 열긔와 바람에 공긔가 흔리니까 역시 높다랗ㄴ 곳에 관측대가 있어야 하고 별이고 별구름을 연구하게 되면 무엇보다도 문제가 광선이 적은 것임니다. 천문경을 가지고 별을 크게 뵈일 수는 있으나 더 밝게 보일 수는 없은즉 아무리 큰 천문경이라도 원래가＜28＞ 희미한 별은 볼 수가 없는 것이오. 그러나 사진이란 것이 발명된 후로 아무리 적은 광션이라도 쌓이고 쌓이어 사진 원판에 분명히 나타나게 되는 고로 연구에 대단히 편하게 되었소. 그런 고로 천문학자들은 지금보다도 더 민첩한 원판을 요구하오. 별 한 개를 박이기 위하여 일주일식이나 밤마다 긔게를 열어 놓느니보다 하로밤 사이에 박힐 수 있다면 얼마나 편리할까요. 그 때문에 세게 각국 사진 연구가는 이 원판 개량에 정력을 많이 들임니다.
+원판은 「젤라틴」의 「콜로이드」에 「쁘롬 은」(弗化銀)의 가로를 띄운 것이니 그 리치는 화학중에도 가장 새롭은 「콜로이드」화학에 속하오. 천문가가 화학가에게 신세를 지게 됨니다.
+은판일광검측긔(銀板日光檢測器)와 그 발명자 찰스·아봇트박사 이긔계는 태양광선의 열긔를 측정함니다
+
+
+씨끄럽은 수학상 게산
+이 밖에도 천문경의 관찰과 떠나아 수학적으로 연구하는 별의 운동 같은 것에도 꿈 같은 공상이 많이 있소. 별의 운동을 연구함에는 별 하나 하나만 가지고 연구하는 것이 아니라 여러 별의 평균을 보는 것이오. 백개나 천개의 별만 아니라 만개 십만개의 운동 방향과 속도를 알아 그 평균을 보자는 것이오. 그를 위하여는 여러 십년(일생까지라도) 두고 별들의 운동을 매일 긔록하며 또 다른 사람이 남기고 간 만흔 긔록을 들치어 보고 하다가 못하면 대대 손손히 물리어 가면서 게산을 하오. 그 결과로 오늘날은 달의 행로 같은 것은 아주 완전하게 게산되어 어느날 어느 시 몇 분 몇 초에 달이 어대 있을 것을 틀림없이 알ㄹ 수 있소. 이제 가령 달은 말고 여러 천개가 된다 하는 소행성(아스테로이즈)의 가는 길을 그 같이 게산하자면 아직까지의 천문학으로는 도저히 꿈도 못 꿀 일이지마는 장차 어떤 참을성 많은 학자가 나아서 그것을＜29＞ 만들른지도 모르오. 과학중에 가장 발달되었다는 천문학도 바다가의 모래 한 알인 감이 없지 아니하오. 지식의 바다도 멀고 끝이 없는 듯 함니다.
+
+새로 발견된 원소 「일리넘」(번호는 61 발견자는 『헙킨스』(미국)
+◇새원소를 발명한◇「헙킨스씨」와 그의 실험실
+
+미국이 과학적 발명으로 유명한 대신에 순 과학적 연구에는 뒤떨어진 감이 있은 것은 면ㅎ지 못할 사실이오. 그런중에 이번에 「일리노이」 대학교수 「B S 헙킨스」씨가 새로히 원소 한 가지를 발견하여 미국에 오직 하나인 원소 발견가의 명예를 얻게 되었소. 그는 새 원소를 자긔학교의 이름을 딸아 「일리넘」이라 하였소. 그가 이 원소를 발견하게 된 것은 결단ㅎ고 우연히 된 것도 아니요. 또한 그 연구의 방침도 함부로 한 것이 아님니다. 이 원소가 발견될 것은 벌서붙어 예언된 것이오. 「루시아」의 화학자 「멘델레쁘  현재 우리 알는 모든 원소를 규측적으로 배렬하여 놓고 딸아서 아직 발견이 아니된 원소들의 호수와 성질을 능히 예언할 수 있게 하였소. 그뒤에 「모슬리」라는 영국 사람이 또 법을 발명하여 원소 제 61호가 빠진 것을 증명하고 그것이 발견되면 성질이 이러이러 하리라고 말하였소. 그래서 「헙킨스」씨는 「까스  틀」에 씨우는 「모나지트」라는 광석을 연구하였소. 이 광석은 원소 60과 원소 62를 낳는 거인  로 그 속에 61도 있는가고 시험한 것이오. 그 광석으로＜30＞ 「얼트라 비올렛」아크를 만들어 「스펙트럼」 분석을 한 결과 「모슬리」의 예언한 「스펙트럼」선이 나타나았소. 그러고 다시 「엑쓰 광션」으로 시험하여 그 원소 61을 분명히 증명하였소.
+
+지구와 달은 본시 한 덩어리,태평양이 달 떨어지어 간 자취
+「웨게네르」 학설의 또 한가지 증거
+「아메리카」와 「유롭」 「아시아」 「아쁘카」가 다 본시 한 덩어리ㄴ데 그것이 가운대가 떨어지어 차차 갈라나아서 지금과 같이 되고 갈라난 자리는 태서양이 되었다 하는 것이 지질학상의 새 학설인 「웨게네르」설임은 이미 소개한 것이오.
+지구의 거죽이 「씨알」과 「씨마」의 두 층으로 되어 가볍은 「씨알」이 무겁은 「씨마」우에 뜨어서 다닐 수 있다 하는 것은 증명된 것이라 하고 또 남북 「아메리카」가 「유롭」과 「아뿌리카」에 니가 들어 맞는 것도 그 학설의 증거가 되는 것이오.
+그것은 그렇다 하더라도 대륙이 두 덩어리로 찢어진 원인이 어대 있나. 「웨게네르」는 그 설명을 못하였는데 미국의 「픽커링」이란 사람이 근일에 그것을 해결하였소. 그 말에 의지하면 본래 지구와 달은 한 덩어리었소. 마침 어떤 다른 행성 하나가 지구 근방을 슬치고 달아나면서 그 인력(引力)으로 지구 껍더기의 사분 삼을 찢어 가았소. 그 찢긴 사분 삼이 지구를 둘ㄹ러싼 고리가 되었다가 차차 뭉치어서 지금 달이 된 것이오.
+
+대양과 달의 용적이 같애
+그 증거로는 현재 달의 비중(比重)이 지구 껍덕이의 비중과 꼭 같고 또 달의 용적(容積)이 지구상에 있는 대양물의 면적을 36「마일」 깊이로 잡은 용적과 꼭 같소. 그런데 지구 껍더기는 둑게가 꼭 36「마일」이오.
+그러니까 본래 지구는 껍더기가 비교적 믹근하게 되고 그 우에 물이 고로히 덮히었었소. 그러다가 껍더기의 사분 삼이 떨어지어 나아가 달이 될 때에 그 빈 자리로 물이 모이어 가아서 현재의 대양이 되고 남저지 사분 일은 륙지가 되어 나타나았소. 그 동시에 그 륙지는 둘로 쪼개지었소. 쪼개진 두 조각이 차차 떠나가아 지금 같이 신구 두 반구(半球)가 된가보오.
+「웨게네르」의 학설은 여긔 편을 또 하나 얻었소. 만일 그 이야기가 사실이라면 우리가 생선 노릇을 아니하고 사람 노릇을 하게 된 것도 달의 덕택이지오. 달이 지구에서 분가를 아니하였더면 지구 우에 륙지가 없었을 터이니까 어떻게 사람이 생기었겠소?＜31＞
+＜28-31＞

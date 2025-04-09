@@ -1,0 +1,379 @@
+Magazine Title:	동광 제38호
+Publication Date:	1932년 10월 01일
+Article Title:	中國 農業經濟의 組織과 推移, 農村 破産은 여기도 (Organization and Transition of China's Agricultural Economy, Rural Bankruptcy is Here Too)
+Author:	吳南基
+Article Type:	논설 (Editorial/Article)
+
+Organization and Transition of China's Agricultural Economy, Rural Bankruptcy is Here Too
+						O Nam-gi
+
+The rural problem in China is truly at the core of China's social problems at present. This can be readily surmised from the fact that the agricultural population accounts for over 80% of the total national population, without needing further lengthy explanation. Therefore, to understand the perplexing social problems of China, which are like riddles, it is naturally necessary first to grasp the reality of the rural economy, which is its core. However, because numerical data is extremely scarce and incomplete, fully grasping this reality is not just difficult but almost impossible. Nevertheless, to discover greater accuracy, I intend to avoid abstract theories and rely solely on incomplete numerical data, however imperfect, to answer the main question.
+
+1. China's Cultivated Land Area
+According to statistics from the former Beijing Government's Ministry of Agriculture and Commerce, the total cultivated land area of China is as follows: <28>
+According to the table above, the total area of national cultivated land is 1,545,738,000 mu (畝).
+
+2. Relationship between Cultivated Land Area and Farm Households
+Dividing cultivated land into two categories: "paddy fields" (畓) for cultivating the five grains, and "dry fields" (田) for cultivating mulberry, hemp, tea, etc., a multi-year comparative table of these two with the number of farm households is listed as follows.
+According to these statistics, the number of farm households in China is approximately 42 million to 59 million, which is close to the 52 million households surveyed years ago by the Kuomintang Farmers' Department.
+Also, the area of cultivated dry fields (田地) is over 1.3 billion mu, so anything not accounted for in that figure must have become wasteland (荒地).
+
+3. Agricultural Management Forms
+According to the statistical tables from the 6th year of the former Beijing Government's Ministry of Agriculture, small farmers (小農) constitute the majority in Chinese agricultural management, followed by middle farmers (中農). This is shown as follows: <29>
+
+[Note] In the table above, the statistics for Hubei (湖北), Hunan (湖南), and Guangdong (廣東) are said to be incomplete, and Sichuan (四川), Guangxi (廣西), Yunnan (雲南), Guizhou (貴州) [雲揚 貴妙 appears to be a typo/misreading for 雲南 貴州] four provinces are not included.
+Looking at these statistics, farm households with less than 10 mu of cultivated land account for more than one-third of the total households. Furthermore, among the inland provinces, excluding the six provinces of Shanxi (山西), Jiangxi (江西), Sichuan (四川), Yunnan (雲南), Guangxi (廣西), and Guizhou (貴州), households with less than 10 mu also constitute the largest number, followed by households with 10 to 30 mu and 30 to 50 mu. Among households with 50 mu or more, there are few owner-cultivators (自作農) and many tenant farmers (小作農), while households with 100 mu or more account for only 5 percent of the total farm households. From this, we can see that the management of Chinese agriculture is dominated by small and middle farmers.
+
+4. Trend of Agricultural Management Forms
+Looking now at the trend in farm household management, there is a clear tendency for large farmers (大農) to decline into middle farmers, and middle farmers to decline further into small farmers.
+
+According to statistics from Hebei (河北) and 9 other provinces/districts covering the four years from the 6th year of the Republic to the 9th year, farm households with less than 10 mu and 10 mu or more [Translator's Note: The text says '10 mu or more' here, which seems contradictory to the point about decline. It likely means '10-30 mu' or intended to contrast the increase in *very* small farms (<10mu) with the decrease in larger ones] have markedly increased <308>, while households with 50 to 100 mu or more show a general tendency to decrease, except in places like Hebei (河北), Henan (河南), and Chahar (察哈爾). Synthesizing the reasons for this increase in small farmers (both above and below 10 mu) [Translator's Note: Again, the phrasing '10 mu 이상 및 10 mu 미만' (10 mu or more and less than 10 mu) is slightly confusing but implies a polarization towards smaller farms], they are nothing more than the following:
+A. The influence of the invasion of XX-ism (XX主義 侵略).
+B. The development of commerce and industry in southern Chinese cities pressures the rural economy, causing land fragmentation.
+C. Large farmers becoming middle farmers due to the instability of civil wars (內亂).
+D. Middle farmers being unable to hold onto their land and transforming into small farmers. And so on.
+
+5. Land Distribution Patterns
+Among the total number of agricultural households, how many own cultivated land, and how many do not? According to statistics from the 6th year of the Republic by the former Beijing Ministry of Agriculture and Commerce, the land distribution situation is as shown in the table below.
+<Note> In the table above, the statistics for Hubei (湖北) and Hunan (湖南) provinces are said to be inaccurate, and those for Sichuan (四川), Guangxi (廣西), Yunnan (雲南), Guizhou (貴州) [貴谷 likely typo for 貴州] are not included.
+
+Based on these statistics, we can see that among the total farm households, owner-cultivators (自作農) account for about 50%, tenant farmers (小作農) about 28%, and part-owner/part-tenant farmers (自作兼 小作農) about 22%. In provinces like Fujian (福建), Zhejiang (浙江), Hunan (湖南), and Guangdong (廣東), tenant farmers outnumber owner-cultivators. In provinces like Fengtian (奉天), Jilin (吉林), Jiangsu (江蘇) [江蘚 likely typo for 江蘇], Anhui (安徽), Jiangxi (江西), Hubei (湖北), tenant farmers account for more than one-third. In reality, among the so-called owner-cultivators, excluding those with 30 mu or less, the vast majority are landlords who do not cultivate the land themselves (不自作하는 지주). Including such non-cultivating landlords among owner-cultivators cannot but be called a very misleading (糊塗) survey method, and attention must be paid to this. <309>
+
+6. Actual Situation of Cultivated Land Ownership
+The actual situation of cultivated land ownership can be sufficiently inferred from the statistics in the various sections above. However, to present it more concretely, let's look at the statistics concerning national cultivated land ownership investigated by the Wuhan Central Farmers' Department (武漢中央農民部).
+Among the farmers owning cultivated land mentioned above, those owning 1 to 30 mu constitute 66% of the total number, but the cultivated land they own accounts for merely 19% of the total cultivated land. The concentration of land can thus be generally inferred from this.
+
+7. Rise and Fall of Owner-Cultivators and Tenant Farmers
+As the bankruptcy of the rural economy is currently in progress, the decline of small and middle owner-cultivators into tenant farmers is an inevitable trend. According to materials from the China Yearbook (中國年鑑) published by the Japanese East Asia Common Culture Society (日本東亞同文會), the rise and fall of owner-cultivators and tenant farmers in the 7th and 8th years of the Republic were as follows.
+
+Although the statistics cited above are only a comparison over one year, the decrease in owner-cultivators and part-owner/part-tenant farmers, and the increase in tenant farmers, are quite astonishing in their proportions. While natural disasters (天災) and the calamities of war (兵禍) are certainly not negligible causes, the development of capitalism cannot but be the main reason. For example, in places like Guangdong (廣東), the number of tenant farmers is far greater than that of owner-cultivators.
+
+Regarding the trend of decreasing middle farmers and increasing tenant farmers, let's also look at the following statistics.
+Nantong (南通) and Kunshan (崑山) are areas adjacent to industrial cities, and the rate of increase in tenant farmers over 10 years is like this, which also deserves attention. (Reference: "耕者要有其田" [The tiller must have his field])
+
+8. Increase in National Wasteland Area
+Based on materials from the China Yearbook (中國年鑑) published by the Japanese East Asia Common Culture Society (日本東亞同文會), the trend of increase in the national wasteland (荒地) area is shown as follows.
+
+According to these statistics, the wasteland area increased by over 490 million mu in 5 years.<310> The devastation of the countryside is truly alarming (吃篤).
+
+9. Decrease in Agricultural Population
+Now, based on statistics from the former Beijing Ministry of Agriculture and Commerce from 1919, the trend of decrease in the agricultural population is shown as follows.
+Although these statistics cover 22 provinces and 3 special districts, they are extremely incomplete. For 1914, Guizhou (貴州) province statistics are missing; for 1915, Yunnan (雲南) province; for 1916, Guizhou (貴州), Yunnan (雲南), Sichuan (四川) 3 provinces; for 1917, Yunnan (雲南), Guizhou (貴州), Sichuan (四川), Guangxi (廣西) 4 provinces; for 1918, Yunnan (雲南), Guizhou (貴州), Sichuan (四川), Guangxi (廣西), Hunan (湖南) 5 provinces; and for 1919, Yunnan (雲南), Guizhou (貴州), Sichuan (四川), Guangxi (廣西), Hunan (湖南), Guangdong (廣東), Jiangxi (江西), Zhejiang (浙江), Hubei (湖北), Gansu (甘肅), Xinjiang (新疆), Fengtian (奉天), Heilongjiang (黑龍江), Suiyuan (綏遠) [緩遠 likely typo for 綏遠] 14 provinces' statistics are not included. However, it is an undeniable fact that the agricultural population is gradually decreasing.
+
+10. Increase in Food Imports
+It is regrettable that recent statistical materials could not be obtained. The situation of net food imports from the 1st year of the Republic to the 14th year is shown as follows (Unit: Haikwan Tael - 海關兩).
+
+Although China is originally an agricultural country, according to the statistics presented above, it actually relies on foreign countries for food.
+Furthermore, in a year like the 12th year of the Republic, the import surplus reached a high amount of over 100 million Haikwan taels. The extent of the agricultural economy's bankruptcy can be sufficiently guessed from this.
+
+As mentioned above, the statistics are far too incomplete, but nevertheless, with what has been listed, without adding further supplementary explanations, I hope the reader has been able to grasp, at least in outline, the organization and trends of the vast Chinese agricultural economy. With this, I lay down my pen. (End) <311>
+<306-311>
+
+**Summary**
+
+This 1932 article by O Nam-gi analyzes the precarious state of China's agricultural economy, arguing it's the core issue behind China's broader social problems. Despite acknowledging severe data limitations, the author uses available statistics (mostly from the former Beijing government and other sources like the Kuomintang and Japanese publications) to illustrate trends: dominance of small/middle farmers, increasing land concentration, a shift from owner-cultivation to tenancy (especially near industrializing areas), rising amounts of wasteland, a decreasing agricultural population, and paradoxically for an agricultural nation, a growing reliance on food imports. The author attributes this rural decline to factors like "XX-ism's invasion" (likely imperialism), urban industrial pressure, land fragmentation, civil war, and the impacts of capitalism. For historians of colonial Korea, this article is interesting as it shows a Korean intellectual analyzing a major neighboring country's systemic problems, drawing parallels ("Rural Bankruptcy is Here Too"). It reflects contemporary concerns about agrarian distress, land tenure issues, and the impact of external economic forces (capitalism/imperialism), topics highly relevant to Korea's own situation under Japanese rule, even though Korea itself isn't the direct subject. The use of Japanese sources (East Asia Common Culture Society) also hints at the information networks available during the colonial period.
+
+**Named Entities**
+
+中國	중국	China
+吳南基	오남기	O Nam-gi
+北京政府 農商部	북경정부 농상부	Beijing Government Ministry of Agriculture and Commerce
+國民黨 農民部	국민당 농민부	Kuomintang Farmers' Department
+湖北	호북	Hubei
+湖南	호남	Hunan
+廣東	광동	Guangdong
+四川	사천	Sichuan
+廣西	광서	Guangxi
+雲南	운남	Yunnan
+貴州	귀주	Guizhou
+山西	산서	Shanxi
+江西	강서	Jiangxi
+河北	하북	Hebei
+河南	하남	Henan
+察哈爾	찰합이	Chahar
+福建	복건	Fujian
+浙江	절강	Zhejiang
+奉天	봉천	Fengtian
+吉林	길림	Jilin
+江蘇	강소	Jiangsu
+安徽	안휘	Anhui
+武漢中央農民部	무한중앙농민부	Wuhan Central Farmers' Department
+日本東亞同文會	일본동아동문회	Japanese East Asia Common Culture Society (Nihon Tōa Dōbunkai)
+南通	남통	Nantong
+崑山	곤산	Kunshan
+甘肅	감숙	Gansu
+新疆	신강	Xinjiang
+黑龍江	흑룡강	Heilongjiang
+綏遠	수원	Suiyuan
+
+**Glossary**
+
+잡지명	잡지명	Magazine name
+발행일	발행일	Publication date
+기사제목	기사제목	Article title
+필자	필자	Author
+논설	논설	Editorial; article; discourse
+目下	목하	Currently; at present
+核心	핵심	Core; nucleus
+呶呶하다	노노하다	To talk lengthily; to prattle on (used here somewhat ironically)
+占하다	점하다	To occupy; to account for
+넉넉히	넉넉히	Sufficiently; readily
+짐작하다	짐작하다	To guess; to surmise; to infer
+了解하다	요해하다	To understand; to comprehend (Sino-Korean term)
+포착하다	포착하다	To grasp; to capture
+數字	수자	Numerical data; figures (older form of 숫자)
+원체	원체	Originally; fundamentally; extremely (colloquial/older form)
+희귀	희귀	Scarce; rare
+且	차	And; also (Hanja conjunction)
+불완전하다	불완전하다	To be incomplete; imperfect
+難事	난사	Difficult matter/task
+거이	거의	Almost; nearly (older spelling of 거의)
+的確性	적확성	Accuracy; exactness
+爲하야	위하여	For the sake of; in order to (older spelling/form of 위하여)
+추상적	추상적	Abstract
+理論	이론	Theory
+오로지	오로지	Solely; only; exclusively
+本題	본제	Main topic; subject of discussion
+해답케 하다	해답게 하다	To cause to answer; to make answer (causative form)
+경지면적	경지면적	Cultivated land area
+前	전	Former; previous
+農商部	농상부	Ministry of Agriculture and Commerce
+統計	통계	Statistics
+如左	여좌	As follows (lit. 'like the left', referring to text/table following)
+畝	무	Mu (Chinese unit of area, approx. 1/15 hectare or 1/6 acre)
+穀	곡	Grain
+栽種하다	재종하다	To cultivate; to plant
+畓	답	Paddy field (for rice)
+桑麻茶	상마차	Mulberry, hemp, tea
+田	전	Dry field (non-paddy)
+類	류	Category; type
+分하다	분하다	To divide
+兩者	양자	Both; the two
+農家	농가	Farm household
+戶口	호구	Household; census register (here implies 'household count')
+累年	누년	Over several years; multi-year
+비교표	비교표	Comparison table
+열거하다	열거하다	To list; to enumerate
+大約	대약	Approximately; roughly
+乃至	내지	From... to...; or
+年前	년전	Years ago
+근사하다	근사하다	To be similar; close
+경작하다	경작하다	To cultivate; to farm
+田地	전지	Farmland; fields (specifically dry fields or farmland in general)
+計上되다	계상되다	To be counted; accounted for
+擧皆	거개	All; entirely; wholly
+荒地	황지	Wasteland; uncultivated land
+化하다	화하다	To become; turn into (-ize)
+경영형태	경영형태	Management form; operational structure
+小農	소농	Small farmer/peasant
+最多	최다	The most numerous; majority
+其次	기차	Next; secondly; followed by
+中農	중농	Middle farmer/peasant
+表示하다	표시하다	To show; indicate; display
+附記	부기	Addendum; note; postscript
+及	급	And (Hanja conjunction)
+列入되다	열입되다	To be included in a list
+戶數	호수	Number of households
+占하엿고	점하였고	Occupied; accounted for (older past tense form of 점하다)
+內地	내지	Inland; interior
+各省	각성	Each province
+除外하다	제외하다	To exclude
+최다수	최다수	Largest number; majority
+次位	차위	Next rank; second place
+至	지	To; until (used for ranges, e.g., 10 至 30)
+自作農	자작농	Owner-cultivator; farmer who owns and works their land
+小作農	소작농	Tenant farmer
+겨우	겨우	Barely; only; just
+점유하다	점유하다	To occupy; possess
+推移	추이	Transition; change; development
+漸落하다	점락하다	To gradually fall/decline
+뵈이다	보이다	To show; appear (older passive/causative form of 보다)
+同	동	Same; the aforementioned (used with year numbers)
+增加되다	증가되다	To be increased
+其外	기외	Other than that; besides that
+等處	등처	Places like; et cetera (referring to locations)
+대략	대략	Generally; approximately
+減少되다	감소되다	To be decreased
+경향	경향	Tendency; trend
+示하다	시하다	To show; indicate
+綜合하다	종합하다	To synthesize; put together
+不外하다	불외하다	To be nothing other than; not go beyond
+XX主義	XX주의	XX-ism (likely referring to Communism or Imperialism)
+侵略	침략	Invasion; aggression
+影響	영향	Influence; effect
+南部	남부	Southern part
+都市	도시	City
+商工業	상공업	Commerce and industry
+發達	발달	Development; progress
+壓迫하다	압박하다	To pressure; oppress
+써	써	By means of; using (postpositional particle, older form)
+土地的	토지적	Relating to land
+分裂	분열	Division; fragmentation
+招致케 하다	초치케 하다	To cause; bring about; incur (causative)
+內亂	내란	Civil war; internal strife
+不靖	부정	Instability; unrest
+保持하다	보지하다	To hold; maintain; keep
+轉變하다	전변하다	To change into; transform
+等	등	Etc.; and so on
+分配合	분배	Distribution
+形態	형태	Form; shape; pattern
+所有하다	소유하다	To own; possess
+戶數	호수	Number of households
+自作兼 小作農	자작겸 소작농	Part-owner, part-tenant farmer
+諸省	제성	Various provinces
+非自作的	비자작적	Non-cultivating (referring to landlords)
+地主	지주	Landlord
+糊塗하다	호도하다	To be misleading; muddled; careless (often implies deliberate obfuscation)
+窺知하다	규지하다	To infer; discern; spy out
+實際狀況	실제상황	Actual situation/condition
+具體的	구체적	Concrete; specific
+武漢中央農民部	무한중앙농민부	Wuhan Central Farmers' Department
+關하다	관하다	Regarding; concerning
+集中	집중	Concentration
+狀態	상태	State; condition
+一般	일반	General aspect; overview
+消長	소장	Rise and fall; fluctuation
+繼續	계속	Continuation; continuity
+進行되다	진행되다	To be in progress
+필연	필연	Inevitability; necessity
+轉落되다	전락되다	To decline into; fall into (a lower status)
+日本東亞同文會	일본동아동문회	Japanese East Asia Common Culture Society (Nihon Tōa Dōbunkai)
+出版	출판	Publication
+中國年鑑	중국연감	China Yearbook
+素材	소재	Material; data
+如하다	여하다	To be like; as follows
+비록	비록	Although; even though
+비율	비율	Ratio; proportion
+퍽으나	퍽으나	Quite; very; considerably (emphatic form)
+놀날 만하다	놀랄 만하다	To be surprising; astonishing (older spelling of 놀랄)
+天災	천재	Natural disaster
+兵禍	병화	Calamities of war
+물론	물론	Of course; certainly
+輕視하다	경시하다	To neglect; disregard; make light of
+資本主義的	자본주의적	Capitalistic
+發展	발전	Development
+主要하다	주요하다	To be main; principal; chief
+例하면	예하면	For example (contraction of 예를 들면)
+훨신	훨씬	Much more; far (older spelling of 훨씬)
+接近하다	접근하다	To be adjacent; close to
+區域	구역	Area; zone; district
+注意에 値하다	주의에 치하다	To be worthy of attention
+參照	참조	Reference; consultation
+全國	전국	The whole country; national
+荒地	황지	Wasteland
+面積	면적	Area (geometric)
+吃篤않다	흘독않다	To be alarming; serious (archaic/rare term, 吃篤 itself means 'critical/serious condition')
+황폐	황폐	Devastation; ruin; desolation
+農業人口	농업인구	Agricultural population
+單位	단위	Unit
+項下	항하	Under the heading/item of
+計入되다	계입되다	To be included in the count
+極히	극히	Extremely; exceedingly
+夫人하다	부인하다	To deny
+事實	사실	Fact; truth
+하겟다	하겠다	Will do; intend to do; may say (expresses intention or mild assertion)
+食糧	식량	Food; provisions
+輸入	수입	Import
+最近	최근	Recent; latest
+遺憾	유감	Regret; pity
+民國	민국	Republic (referring to the Republic of China)
+元年	원년	First year
+入超	입초	Import surplus; excess of imports over exports
+情況	정황	Situation; circumstances
+單位	단위	Unit
+海關兩	해관량	Haikwan Tael (a unit of currency/silver weight used for customs duties in China)
+本是	본시	Originally; fundamentally
+임에도 불구하고	임에도 불구하고	Despite being...; in spite of...
+上揭	상게	Above-mentioned; listed above
+도리어	도리어	Rather; on the contrary; instead
+外國	외국	Foreign country
+依賴하다	의뢰하다	To rely on; depend on
+더욱이	더욱이	Furthermore; moreover
+高額	고액	Large amount (of money)
+達하다	달하다	To reach; attain
+程度	정도	Degree; extent
+얼마나 한가	얼마나 한가	How much it is (question form)
+足히	족히	Sufficiently; enough
+添足的	첨족적	Supplementary (lit. 'adding feet', often implies unnecessary addition, but here likely means supplementary)
+解說	해설	Explanation; commentary
+않드래도	않더라도	Even if not doing so; without doing so (older spelling/form of 않더라도)
+巨大하다	거대하다	Huge; vast; enormous
+及	급	And
+輪廓的	윤곽적	Outline; roughly; in general outline
+라마나	나마	Even if only; at least
+擱筆하다	각필하다	To lay down one's pen; stop writing
+
+
+---------------------------
+
+
+잡지명	동광 제38호
+발행일	1932년 10월 01일
+기사제목	中國 農業經濟의 組織과 推移, 農村 破産은 여기도
+필자	吳南基
+기사형태	논설
+
+中國 農業經濟의 組織과 推移, 農村 破産은 여기도
+						吳南基
+中國 농촌문제는 실로 目下 中國社會問題의 핵심이 되어 잇다. 그는 呶呶할 것도 없이 농업 인구가 전국 총 인구의 약 80% 이상을 占하고 잇다는 것으로써 넉넉히 짐작할 수 잇다. 따라서 수수꺽기와 같이 추측키 어려운 중국 사회문제를 了解할려면 먼저 그 핵심인 농촌경제의 진상을 포착하여야 할 것도 물론이다. 그러나 數字가 원체 희귀 且 불완전하므로 그 진상을 완전히 포착키는 여간 難事라느니 보다 거이 불가능한 일이지만 좀 더 的確性을 발견키 위하야 추상적 이론을 피하고 불완전한 數字나마 오로지 그로 하여금 本題를 해답케 하고저 한다.
+
+1. 中國의 경지면적
+중국 전체의 경지 면적은 前北京政府 農商部의 통계에 의하면 如左하다.＜28＞
+右表에 의하면 전국 경지의 총 면적은 15억 4,573만 8,000畝이다.
+
+2. 경지면적과 農家戶口와의 관계
+경지를 다시 5穀을 栽種하는 「畓」과 桑麻茶 등을 재배하는 「田」의 2類로 分하야 이에 兩者와 농가 호수의 累年 비교표를 열거하면 이러하다.
+右統計에 의하면 中國의 농가 호수는 大約 4,200만 내지 5,900萬戶이니 年前 國民黨 農民部의 조사한 5,200萬戶와 근사하다.
+또 경작하고 잇는 田地面積이 13억여 畝이니 그에 計上되지 않은 것은 擧皆 荒地化한 것일 것이다.
+
+3. 농업의 경영형태
+前 北京政府 農業部 제6년의 통계표에 의하면 中國의 농업경영은 小農이 最多하고 其次가 中農이니 이에 표시하면 如左하다.＜29＞
+
+「附記」 右表中 湖北 湖南 及 廣東의 統計는 不完全하다고 하여 四川 廣西 雲揚 貴妙 四省은 列入되지 안햇다.
+右統計로 보면 경지 10畝 미만의 농가가 전체 戶數의 3분지 1 이상을 占하엿고 且 內地 各省中 山西 江西 四川 雲南 廣西 貴州 等 6省을 제외하고는 역시 10畝 미만의 농가가 최다수를 占하엿으며 그 次位로 가는 것이 10畝 至 30畝와 30畝 至 50畝의 농가이다. 그리고 50畝 이상의 농가 중에는 자작농이 적고 소작농이 많으며 100畝 이상의 농가는 겨우 全農家 戶數의 100분지 5를 占하고 잇다. 이에서 우리는 中國農業의 경영은 小農과 中農의 경영이 최다세력을 점유하고 잇음을 알 수 잇다.
+
+4. 농업 경영형태의 추이
+이제 농가 경영의 추이 상황을 보면 현저히 大農은 中農으로 中農은 다시 小農으로 漸落하는 추세를 뵈이고 잇다.
+
+우에 든 民國 6년으로부터 同 9년까지 4년간의 河北 等 10省區의 통계로 보면 10畝 미만과 10畝 이상의 農戶는 현저히 증가되고＜308＞ 잇으며 其外 50畝 至 100畝 이상의 農戶는 河北 河南 察哈爾 等處를 제외하고는 대략 감소되는 경향을 示하고 잇다. 그리고 이처럼 10畝 이상 및 10畝 미만의 小農이 증가되는 원인을 종합해 보면 다음의 몇 가지에 不外할 것이다.
+A. XX主義 侵略의 영향.
+B. 中國 남부 도시의 상공업 발달이 농촌 경제를 압박하야써 土地的 분열을 招致케 한다.
+C. 내란의 不靖으로 인한 大農의 中農化.
+D. 中農이 토지를 保持치 못하고 小農으로 轉變하게 된 것. 등등이라 하겟다.
+
+5. 경지의 분배 형태
+全農業 戶數 中 경지를 소유한 戶數는 얼마나 되며 소유치 못한 戶數는 얼마나 되는가. 이제 民國 6년 전 北京 農商部의 통계에 의하면 경지 분배의 형상은 左表와 같다.
+＜附記＞ 右表 중 湖北 湖南 兩省의 통계는 的確치 못하다 하며 四川 廣西 雲南 貴谷 등의 것은 列入되지 안햇다.
+
+右 통계에 의하야 우리는 全農家戶數 中 자작농이 약 50% 소작농이 약 28% 자작겸 소작농이 약 22%을 占하엿고 福建, 浙江, 湖南, 廣東 等 諸省에는 소작농이 자작농보다 많으며 奉天, 吉林, 江蘚, 安徽, 江西, 湖北 등 제성에는 소작농이 그 3분지 1 이상을 占하고 잇음을 알 수가 잇다. 그리고 실제에 잇어 소위 자작농 중에는 30畝 이하된 자를 제외하고는 不自作하는 지주가 그 대다수를 占하고 잇다. 이처럼 非自作的 지주를 자작농 중에 列入한 것은 그 조사방법이 너무 糊塗하다고 안할 수 없으며 이에 주의하여야 할 것이다.＜309＞
+
+6. 耕地所有의 實際狀況
+경지소유의 실제상황은 이상 各項의 통계로써 넉넉히 窺知할 수 잇슬 것이다. 그러나 좀 더 구체적으로 표시하기 위하야 이제 다시 武漢中央農民部에서 조사한 전국 경지 소유에 관한 통계를 보면 이러하다.
+이상의 경지소유 농민 중 1畝 至 30畝 소유의 인원수는 그 전체의 66%를 占하엿지만 소유한 그 경지는 게우 全耕地의 19%를 占하엿으니 토지의 집중상태는 이로써 그 일반을 窺知할 수 잇다.
+
+7. 자작농과 소작농의 消長
+농촌경제의 파산이 正히 계속 진행되는 상태에 잇어 자작농 중의 中小農이 소작농으로 전락되는 것은 필연의 추세이니, 이제 日本東亞同文會 출판인 中國年鑑의 소재에 의하면 民國 7, 8 兩年의 자작농과 소작농의 消長은 左와 如하다.
+
+우에 든 통계는 비록 1년 동안의 비교이지만 자작농 及 자작 겸 소작농의 감소와 소작농의 증가는 그 비율에 잇어 퍽으나 놀날 만하다. 그 원인은 天災 兵禍도 물론 경시할 수 없는 것이겟지만 그 보다도 자본주의적 발전이 그 주요한 원인이 아닐 수 없으니 例하면 廣東 같은 곳은 어디 보어 소작농의 수가 자작농의 그것보다 훨신 많다는 것이다.
+
+中農 감소와 소작농 증가의 경향에 관하야 이제 또한 통계를 들어보면 如左하다.
+南通과 崑山은 공업도시와 接近한 구역인데 10년간 소작농 증가의 비율이 이 같으니 또한 주의에 値한다. (「耕者要有其田」 參照)
+
+8. 全國 荒地 면적의 증가
+日本 東亞同文會 출판의 中國年鑑의 소재에 의하야 전국 荒地面 증가의 추세를 표시하면 이러하다.
+
+
+右 統計에 의하면 5년간 荒地面積이 4억9천만 畝 이상이나 증가되엇으니＜310＞ 농촌의 황폐는 실로 吃篤않을 수 없다.
+
+9. 농업인구의 감소
+이제 1919년 전 北京農商部의 통계에 의하야 농업인구 감소의 추세를 표시하면 如左하다.
+右 통계는 비록 22省 及 3特別區를 단위로 하엿으나 1914년 項下에 貴州省의 통계가, 1915년 項下에 雲南省의 통계가, 1916년 項下에 貴州 雲南 四川 3省의 통계가, 1917년 頃卜에 雲南 貴州 四川 廣西 4省의 통계가, 1918년 項下에 雲南 貴州 四川 廣西 湖南 5省의 통계가, 1919년 頃下에 雲南 貴州 四川 廣西 湖南 廣東 江西 浙江 湖北 甘肅 新疆 奉天 黑龍江 緩遠 等 14省의 통계가 計入되지 못한 극히 불완전한 통계이지만 그래도 농업 인구의 점차 감소되고 잇는 것만은 부인할 수 없는 사실이라 하겟다.
+
+10. 식량 수입의 증가
+최근의 통계 재료를 얻지 못한 것은 유감이다. 民國 元年으로부터 同 14년까지의 식량 入超의 정황을 표시하면 如左하다.(단위 海關兩)
+
+中國은 본시 농업국임에도 불구하고 上揭 통계로 보면 식량을 도리어 외국에 의뢰하고 잇다.
+더욱이 民國 12년 같은 해에는 그 수입초과액이 1억여 海關兩의 고액에 달하엿으나 농업경제 파산의 정도가 얼마나 한가는 이로써 족히 짐작할 수 잇다.
+
+우에서도 말한 바와 같이 통계로는 너무도 불완전하지만 그래도 이상에 열거한 것으로써 添足的 해설은 다시 더 않드래도 거대한 중국농업경제의 조직 及 그 추이를 윤곽적으로나마 독자로 하여금 了解케 되엇으면 하고 이만 擱筆한다. (끝)＜311＞
+＜306-311＞

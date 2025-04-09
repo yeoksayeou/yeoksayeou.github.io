@@ -1,0 +1,236 @@
+Magazine Title: 동광 제25호
+Publication Date: 1931년 09월 04일
+Article Title: 朝鮮 古文字로서의 口訣, 朝鮮文字의 歷史的 考察(7) (Kugyŏl as Ancient Korean Script, A Historical Study of Korean Writing (7))
+Author: 金允經
+Article Type: 논설 (Editorial/Article)
+
+朝鮮 古文字로서의 口訣, 朝鮮文字의 歷史的 考察
+						金允經
+Kugyŏl as Ancient Korean Script, A Historical Study of Korean Writing
+						Kim Yun-gyŏng
+
+2. 口訣 (i.e., 吐)
+Kugyŏl (구결) is also called T'o (토) or Sŏgŭi (석의). T'o refers to the practice of borrowing Chinese characters (whole characters or abbreviated forms) to write Korean particles ( 조사, 접속사, 종지사 - postpositions, conjunctions, sentence-ending suffixes) and auxiliary verb stems based on the Korean verb 'ha' (하) attached to each phrase when reading Classical Chinese (Hanmun), in order to make the meaning easier to understand. It is like the 'okurigana' (送假名) of Japan's "Tenïwoha" (天爾遠波). In the 10th year annals of the *Veritable Records of King Sejong* (세종실록), it is written, "The King (上) spoke to Pyŏn Kye-ryang (卞季良), saying, 'In the past, King T'aejong (太宗) commanded Kwŏn Kŭn (權近) to write the *T'o for the Five Classics* (五經吐)'" and its note (註) states, "When reading books, marking phrase breaks with vernacular language (諺語) is commonly called 'T'o' (吐)," making its meaning clear. Furthermore, the same *Veritable Records* mention that Chŏng Mong-ju (鄭夢周) and Kwŏn Kŭn added Kugyŏl or Sŏgŭi to the Confucian Classics (經書), proving that T'o, Kugyŏl, and Sŏgŭi all have the same meaning. Also, the *Yongje Ch'onghwa* (慵齋叢話) states, "Yangch'on (陽村, i.e., Kwŏn Kŭn) established the Kugyŏl for the Four Books and Five Classics (四書五經口訣), and also wrote works like the *Ch'ŏn'gyŏllok Ip'ak Tosŏl* (淺見錄入學圖說), making significant contributions," proving that T'o and Kugyŏl are the same by referring to what the *Veritable Records* called T'o as Kugyŏl. Additionally, the *Munhŏn Ch'waryo* (文獻撮要) states, "MunSun'gong Pak Se-ch'ae (文純公朴世采) said, 'Our country's Kugyŏl Sŏgŭi (口訣釋義) for the Classics (經書), which Middle Kingdom (中朝 - China) does not have, began with Sŏl Ch'ong (薛聰) and was perfected by Chŏng P'oŭn (鄭圃隱 - Chŏng Mong-ju) and Kwŏn Yangch'on (權陽村 - Kwŏn Kŭn),'" demonstrating that Sŏgŭi, like Kugyŏl, is not a term referring to the script itself but means interpretation or lecture (講義). That is, it merely means "interpreted with Kugyŏl (구결로 釋義한 것)." However, the *Chŭngbo Tongguk Munhŏn Pigo* (增補東國文獻備考) contains the following:
+"In Kyehae (癸亥, referring to the 9th year of King Sukchong's reign), [Pak Se-ch'ae] also reported at the Royal Lecture (筵奏), 'Your Majesty ordered me (臣, referring to Pak Se-ch'ae) to revise the *Simgyŏng Kugyŏl* (心經口訣). At that time, I proposed using the Kugyŏl of MunSun'gong Yi Hwang (文純公臣李滉) and the family-held copy of Munsŏnggong Yi I (文成公臣李珥), comparing them for the revision. My thinking was based on the explanation in rhyme books (韻會) that reading is when the writing stops but the meaning continues (文斷而意不斷爲讀), and a sentence (句) is when both writing and meaning stop (文義俱斷爲句). Extrapolating from this, even our country's Kugyŏl must properly be placed below the Chinese punctuation (句讀) to be correct.'" It continues below:
+"However, since the *Ŏnhae* (vernacular translations - 諺解) of the Four Books and Three Classics (四書三經), characters like '然' (yŏn), '故' (ko), '而' (i), '則' (chŭk) are sometimes separated and sometimes connected without a clear standard. In the Kugyŏl of Yi Hwang and Yi I, '然' and '故' must have the Kugyŏl marker attached below (懸訣), while '而' and '則' must be read connectedly (連讀). But when it came to the late Minister Song Chun-gil (故判書臣宋俊吉), '然' and '故' were also read connectedly like '而' and '則', making it impossible to establish a rule. If my method were applied, much of this book's Kugyŏl would need revision. For now, I have only carefully examined Song Chun-gil's version of the Kugyŏl. Where unavoidable changes or additions were needed, I have cautiously referred to Yi Hwang's Kugyŏl and Yi I's *Kŭnsa* Kugyŏl (近思口訣) for revision and supplementation."
+From this, it appears that "Simgyŏng Kugyŏl" refers to Yi T'oegye's (李退溪 - Yi Hwang) "Simgyŏng Sŏgŭi" (心經釋義), showing that Sŏgŭi was also used with the same meaning as Kugyŏl. We can also glimpse what Kugyŏl was like. Furthermore, the preface to the *Myobŏp Yŏnhwa Kyŏng Ŏnhae* (妙法蓮華經諺解 - Vernacular Translation of the Lotus Sutra, 8th year of King Sejong) states, "The mind translates directly based on the Hanmun text (心譯直於據漢文), while Kugyŏl subtly conveys the native vernacular (口訣曲宣於國諺)," and the preface to the *Wŏn'gak Kyŏng Ŏnhae* (圓覺經諺解 - Vernacular Translation of the Sutra of Perfect Enlightenment, 10th year of King Sejong) says, "We subjects, Hwang Su-sin (黃守身) and others, respectfully present the newly carved and printed Imperially Fixed Kugyŏl, Translated Sutra of Great Vaipulya Perfect Enlightenment (臣黃守身等, 謹將新彫印御定口訣, 翻譯大方廣圓覺修多羅了義經)." From these, it seems Kugyŏl was also used to mean translation (번역).
+
+Now, the question arises: when did Kugyŏl originate? Mr. Sin Ch'ae-ho (申采浩) stated:
+"People today say Sŏl Ch'ong created Idu script (吏讀文), but this is complete nonsense... The *Samguk Sagi* (三國史記), in the biography of Sŏl Ch'ong, says, 'Ch'ong used the vernacular language (方言) to read (讀, pronounced 'tu') the Nine Classics (九經) and instruct later generations, and scholars still follow him today (聰以方言讀九經訓導後生至今學者宗之).' Pak Se-ch'ae said, 'The Kugyŏl Sŏgŭi for the Classics... originated with Sŏl Ch'ong and was perfected by Chŏng Mong-ju and Kwŏn Kŭn (經書口訣釋義...始發於薛聰成於鄭夢周權近).' Thus, Sŏl Ch'ong read the Nine Classics using Kugyŏl, not Idu. However, saying Kugyŏl was Sŏl Ch'ong's creation... is a hasty conclusion. Sŏl Ch'ong *read* the Nine Classics with Kugyŏl; he did not *create* Kugyŏl. In any case, it is certain that Kugyŏl already existed in Sŏl Ch'ong's time." (Note 18)
+Thus, he recognized the origin of Kugyŏl as predating Sŏl Ch'ong. This seems to be entirely based on Pak Se-ch'ae's statement "Our country's Kugyŏl Sŏgŭi for the Classics originated with Sŏl Ch'ong" <27>, but if so, it is quite questionable why he made such a definitive assertion based solely on the words of Pak Se-ch'ae, a later figure, despite the absence of the term Kugyŏl in the oldest documents like the *Samguk Sagi* or *Samguk Yusa* (三國遺事). In my humble opinion (淺見), I am inclined to believe that the script Sŏl Ch'ong used when interpreting the Nine Classics must have been Idu (吏讀). If I say this, some might retort, "Then, does the term Idu appear in the *Samguk Sagi* or *Samguk Yusa*?" However, statements like Chŏng In-ji's (鄭麟趾) "Sŏl Ch'ong first created Idu" (薛聰始作吏讀, from the preface to the *Hunminjŏngŭm* - 正音序), the postface to the *Great Ming Code* (大明律跋文) stating "The vernacular characters devised by Sŏl Ch'ong are called Ido (吏道)," the fact that many later scholars closely linked Sŏl Ch'ong with Idu (though I do not believe, as mentioned before, that he actually created it), and the evidence from King Chinhŭng's stele (眞興王 비문) showing that Idu was already created and widely used (though the use of Kugyŏl is hard to believe) – don't all these strongly suggest that Sŏl Ch'ong used Idu in his interpretation of the Nine Classics? Therefore, it is difficult to believe that Sŏl Ch'ong used Kugyŏl. Consequently, it is also difficult to believe that Kugyŏl was created before Sŏl Ch'ong (as long as no actual evidence of Kugyŏl script predating Sŏl Ch'ong is discovered). Furthermore, Mr. Ŏ Yun-jŏk (魚允迪) stated:
+"In the mid-Silla period, a person named Sŏl Ch'ong created something called Idu script. For example, 'haya' (하야) was written as 'ヤ'. This is because 'ソ' is the top part (頭冠) of the character '爲' (wi), read 'ha', and 'つ' is the top part of the character '也' (ya), read 'ya'. Combining the reading (訓 - kun) and sound (音 - eum), it became 'haya'. Later, using this Idu, adding sound and meaning readings, they even composed songs in Silla. Thus, although cumbersome (窘塞), this Idu script was used for 700 years, and even after the creation of Chŏngŭm (正音 - Hunminjŏngŭm), it was used until the Kabo year (甲午年 - 1894). Using this Idu, books were even translated; in the early Yi Dynasty (李朝), the *Great Ming Code* (大明律) was translated using Idu, and at one time, the state examination (科擧) was even conducted using it. Therefore, until recently, clerks (吏屬) in various regions studied this extensively." (Note 23)
+Here, he considers Idu to be Sŏl Ch'ong's creation and also seems to equate Idu and T'o (吐). Consequently, he ultimately views T'o as something created by Sŏl Ch'ong. Also, Mr. Ogura Shinpei (小倉進平), citing the theory of a Korean scholar that "T'o is likely from the Yi Dynasty or later," stated that "T'o was invented about 400-500 years ago." (Note 2) Thus, there are various theories, but I believe the origin of Kugyŏl (i.e., T'o) is hinted at in the *Munhŏn Ch'waryo*'s statement: "Our country's Kugyŏl for the Classics began with Sŏl Ch'ong and was perfected by Chŏng P'oŭn and Kwŏn Yangch'on (我國經書口訣始於薛聰成於鄭圃隱權陽村)." However, regarding the interpretation of its meaning, while previous scholars often take it to mean that Kugyŏl itself began in Sŏl Ch'ong's time and was completed in the time of Chŏng Mong-ju and Kwŏn Kŭn, I think it is more correct to interpret it as meaning that the *work* of translating or interpreting the Classics began in Sŏl Ch'ong's time and was completed during the time of Chŏng and Kwŏn. Since Kugyŏl involves borrowing the sound or meaning of Chinese characters to append the grammatical endings (吐) of the translated words below the punctuation marks (句讀 - in rhyme books defined as "文斷而意不斷爲讀文義俱斷爲句," meaning 'reading' is where the text breaks but meaning continues, 'sentence' is where both text and meaning break) of Classical Chinese texts like the Classics, I believe that this special script called Kugyŏl developed as the translation work of Hanmun Classics flourished. Why? Because it did not arise from the need to represent the vernacular language (邦言) itself, but purely due to Hanmun translation, which is why Kugyŏl cannot express thoughts independently without Hanmun. Consequently, we realize that Kugyŏl was not completed at a single point in time, and also why it is difficult to determine a clear date for its creation. In short, I believe it is largely correct to view Kugyŏl as a byproduct of the Hanmun translation work that occurred from Sŏl Ch'ong's time through to Chŏng and Kwŏn. In other words, I think Kugyŏl is a script that emerged during the Koryŏ Dynasty (高麗朝) (at least before the Kugyŏl of Chŏng Mong-ju and Kwŏn Kŭn).
+
+Next, I want to discuss the distinction between Idu and Kugyŏl. As mentioned earlier, Mr. Ŏ Yun-jŏk regarded Kugyŏl as identical to Idu, and Mr. Ogura Shinpei also <28>
+stated, "T'o, especially that written with Chinese characters, bears a very strong resemblance to the aforementioned Idu. However, many Korean scholars draw a distinction between them... Ultimately, it seems reasonable to view Idu and T'o not as fundamentally different from the beginning, but as having undergone some changes over time." (Note 3) Thus, he also considered them as one entity with only differences due to temporal changes. However, apart from the shared aspect of borrowing Chinese characters, I find that Idu and T'o are entirely different in all other respects. Below, I will list these differences.
+First, Idu can be seen as an independent script representing entire words ('씨' - ssi, various parts of speech) (as seen in the hyangga (향가) in the *Kyunyŏ Chŏn* (均如傳) of the *Samguk Yusa*), whereas T'o is an auxiliary script attached to Hanmun, used only by appending grammatical markers like particles (겻 - kyŏt), conjunctions (잇 - it), and sentence enders (맺 - maet) below the punctuation marks (句讀) of Hanmun (as seen in Classics Kugyŏl - 經書口訣).
+Second, Idu originated around the early Three Kingdoms period, while T'o originated in the Koryŏ period.
+Third, Idu is phonetically oriented, meaning reading it yields Korean speech, but T'o, like Hanmun itself, is ideographically oriented, so reading it results in something unintelligible as Korean except for the T'o parts.
+Fourth, although it is true that the scope of Idu's usage narrowed after the hyangga period, it was never read backward against the word order like Hanmun. However, since T'o uses Hanmun as is, it often requires reading backward (역독 - yŏktok) to make sense in Korean. Comparing the Idu text of the *Great Ming Code* (大明律), an early Yi Dynasty Idu document, with a hypothetical Kugyŏl version:
+(Hanmun) 『凡奴奸良人婦女者, 加凡奸罪一等, 良人奸他人婢者, 減一等, 奴婢相奸者, 以凡奸論.』
+(Idu Text) 『凡奴子亦 良人矣 婦女乙 犯姦爲在乙良 凡姦罪良中 加一等齊, 良人亦 他矣 婢子乙 行姦爲在乙良 減一等齊, 奴婢亦 相姦爲在乙良 凡姦例以 論爲乎事』
+(Kugyŏl Text) 『凡奴奸良人婦女者面 加凡奸罪一等爲古 良人奸他人婢者面 減一等爲古 奴婢相奸者面 以凡奸論爲羅』
+Thus, the Idu text breaks Hanmun grammar, whereas the Kugyŏl text (T'o) preserves Hanmun grammar, merely adding T'o below the punctuation marks.
+Fifth, Idu was initially used generally, but in modern times (Yi Dynasty), its use was restricted to official documents by clerks (吏屬), petitions (上書), complaints (訴狀), contracts (契約文), certificates (證書), etc. In contrast, Kugyŏl was used only by the scholar class associated with Hanmun studies in institutions like the Sŏnggyun'gwan (성균관), Hyanggyo (향교), Sŏwŏn (서원), and private village schools (私塾), having no relation to the general populace. That is, the former was a general script, while the latter was a script of a special class, which is why they could coexist without interfering (妨害) with each other until 37 years ago, the Kabo year (甲午 - 1894) (and until the Yunghŭi era - 隆熙 - 1907-1910 in private use). Consequently, Idu script mixed with daily language and is still used frequently today. Writings like 『上白是』 (sangbaek si), 『於音』 (ŏŭm), 『細音』 (seŭm), 『結卜』 (kyŏlbok) are examples.
+Sixth, Idu borrows full Chinese characters (全字) to write phrases like 『是如』 (ida - 'is'), 『叱分除良』 (ppundŏrŏ - 'not only...but also'), 『是去等』 (igŏdŭn - 'if it is'), 『是如爲在乙)』 (idahagŏnŭl - 'although it is'), whereas Kugyŏl has three forms: full characters, abbreviated characters (略字), and Hunminjŏngŭm characters (訓民正音字). Full characters include 『隱』, 『面』, 『爲是尼』; abbreviated characters include 『膺』, 『厂』, 『ソ寸ヒ』; and Hunminjŏngŭm characters include 『은』 (or 『는』), 『면』, 『하시니』.
+Seventh, even words with the same meaning are written differently. For instance, Idu writes 『是如』, 『是去等』, 『是矣』, 『亦』, 『以』, 『爲在乙良』, 『良中』, while Kugyŏl writes the same meanings as 『是多』, 『是乎隱』, 『乎大』, 『是』, 『奴』 (or 『乙奴』), 『是於等』, 『厓』.
+These various points prove that Idu and Kugyŏl are entirely different things.
+
+Next, let's examine the forms of Kugyŏl. There are the following three types:
+First is the use of full Chinese characters (全字). For example, in 『天地之間萬物之中厓 唯人是 最貴爲尼所貴乎人者隱 以其有五倫也是羅』, the circled characters are Kugyŏl. Among these, 厓, 尼, 隱, 羅 are read using their sound (음 - eum), while 是, 爲 are read using their meaning (새김/訓 - hun).
+Second is the use of abbreviated Chinese characters (略字). For example, in 『夫爲人子者膺 出必告召 反必面ソ厼 所遊乙 必有常ソ厼 所習乙 必有業ソ厼 恒言厂 不稱老ヒ*』, the circled characters are abbreviated Kugyŏl. Among these, 膺 (abbreviation of 隱), 口 (abbreviation of 古), ソ厼 (abbreviation of 紹), 乙, 厂 (abbreviation of 厓), 匕 (abbreviation of 尼), * (abbreviation of 羅) are read using their sound, while ソ (abbreviation of 爲) is read using its meaning.
+Third is the use of Hunminjŏngŭm (訓民正音). For example, in 『飽食暖衣하야 逸居而無敎면 則近於禽獸니라』, the circled parts are T'o written in Chŏngŭm (訓民正音).
+Korean grammatical rules often require different particles (토씨 - t'ossi, i.e., postpositions, conjunctions, sentence enders used as T'o) depending on whether the preceding stem word (몸씨 - momssi, i.e., noun, adjective, verb) ends in a consonant (닿소리 - tasori) or a vowel (홀소리 - holsori). However, Kugyŏl does not create separate forms for these cases and uses a single form universally, leading <29> to discrepancies with actual pronunciation (어음). For example, 『隱』 (ŭn) is used without distinction after both vowel-ending stems like 『君子』 (kunja) and consonant-ending stems like 『君臣』 (kunsin), but actual pronunciation distinguishes between 'kunja-nŭn' (군자는) and 'kunsin-ŭn' (군신은). 『乙』 (ŭl) is also used without distinction in 『所遊乙』 (soyu-ŭl) and 『所習乙』 (sosŭp-ŭl), but actual usage distinguishes 'soyu-rŭl' (소유를) and 'sosŭp-ŭl' (소습을). Similarly, 『是』 (si/i/ga) is used without distinction in 『孟子是』 (Maengja-si) and 『唯人是』 (yuin-si), but actual grammar distinguishes 'Maengja-ga' (맹자가) and 'yuin-i' (유인이) as a rule.
+
+Finally, I would like to briefly introduce some literature related to Kugyŏl. Although no records of Kugyŏl Sŏgŭi applied to the Classics seem to have been discovered in literature from the Silla period through Koryŏ, it is clearly seen in the *Veritable Records* and also mentioned in the *Yongje Ch'ongdam* (慵齋叢談 - "Yangch'on established the Kugyŏl for the Four Books and Five Classics") and *Munhŏn Ch'waryo* (文獻撮要 - "Kugyŏl Sŏgŭi for the Classics... perfected by Chŏng P'oŭn and Kwŏn Yangch'on") that Chŏng Mong-ju (P'oŭn) and Kwŏn Kŭn (Yangch'on), authorities in Confucianism from the late Koryŏ to early Yi Dynasty, authored oral interpretations (口談) or commentaries (釋義) on the Classics. Later, during the reign of King Sejong, although no authors are mentioned specifically under the name of Kugyŏl or Sŏgŭi, the *P'irwŏn Chapki* (筆苑雜記) states:
+"King Sejong was naturally fond of learning... In his later years, weary of diligence, he did not hold morning audiences, yet he was particularly concerned about literary matters. He ordered Confucian officials to divide into bureaus and compile various books, such as the *History of Koryŏ* (高麗史), *Essentials of Governance* (治平要覽), *Military Essentials* (兵要), *Vernacular Script* (諺文 - Hunminjŏngŭm), *Rhyme Books* (韻書), *Manual of the Five Rites* (五禮儀), and *Sound and Meaning Glosses for the Four Books and Five Classics* (四書五經音解). All were compiled simultaneously and finalized through royal review (睿裁). He could review several dozen volumes in a single day. It can truly be said, 'As Heaven moves with vigor, so the superior man ceaselessly strengthens himself.'"
+Regarding the *Sound and Meaning Glosses for the Four Books and Five Classics* mentioned here, the *Tongguk Munhŏn Pigo* (東國文獻備考) states:
+"Sound and Meaning Glosses for the Classics (經書音解): During King Sejong's reign, Confucian officials were ordered to establish a bureau to compile these to facilitate punctuation and reading (句讀)."
+Furthermore, the same source, explaining the compilation of the *Sajŏngjŏn Hunŭi* (思政殿訓義 - Interpretations from Sajŏng Hall, 17th year of King Sejong), says:
+"King Sejong had always paid attention to Sima Guang's (溫公) *Zizhi Tongjian* (資治通鑑), but was concerned that its commentaries were incomplete and the punctuation unclear. He ordered Confucian officials to broadly gather various books and insert annotations (夾註) according to the events to facilitate viewing. Thus, based on Hu Sanxing's (胡三省) *Sound Glosses* (音註) and works like *Yuanwei Shiwen Jilan* (源委釋文集覽), they edited and refined it. Where deficiencies remained, they supplemented by widely gathering other books. Moreover, for passages where the writing was convoluted and the meaning difficult, they annotated the full sentence from the original history or wrote the character '句' (ku - phrase/sentence) below the phrase mark to aid punctuation. They were thorough down to character explanations (字釋) and pronunciation glosses (翻音), all subject to royal review. It was named *Sajŏngjŏn Hunŭi*. The *Gangmu Tonggam* (網目通鑑 - Outline and Digest of the Comprehensive Mirror) was treated similarly. The precision of these interpretations (訓義) is unparalleled, past or present."
+This shows the compilation of documents related to Kugyŏl. Also, Hunminjŏngŭm, created at that time, was the seed for the so-called "Ŏnhae" (vernacular translations); since the Ŏnhae texts were all produced in parallel with Kugyŏl, even if not directly called Kugyŏl after King Sejong, the Sŏgŭi (interpretations) in Ŏnhae included Kugyŏl. Furthermore, King Sejo, feeling dissatisfied that the existing Kugyŏl merely transmitted errors, had his officials revise it. According to the *Veritable Records of King Sejo* (세조실록), on the Kyŏngsin day (庚申) of the 9th month of the 11th year of Sejo's reign, he summoned Chŏng Cha-yong (鄭自英), Yu Hŭi-ik (兪希益), Han Kye-hŭi (韓繼禧), No Sa-sin (慮思愼), and Kang Hŭi-maeng (姜希孟) to discuss the *Kugyŏl of the Book of Changes* (周易 口訣) until late at night. On the Ŭryu day (乙酉) of the 11th month, he summoned Chŏng Nan-jong (鄭蘭宗) and others to discuss the same Kugyŏl. On the Pyŏngsin day (丙申) of the same month, he ordered the Ministry of Rites (예조) to widely seek out the Kugyŏl for the Four Books and Five Classics established by earlier Confucian scholars of our country (本國 先儒 所定), as well as Chŏng Mong-ju's *Kugyŏl for the Book of Songs* (詩 口訣). On the Kimi day (己未) of the same month, he had the Confucian officials of the Hall of Worthies (藝文舘 儒臣) debate the *Kugyŏl of the Changes* (易 口訣). On the Kyŏngin day (庚寅) of the 12th month, he summoned the same officials and personally inquired about the *Kugyŏl of the Changes*. In the 2nd month of the following year (12th year), on the Sinha day (辛巳), he even instigated debates between the initial determiners of the Kugyŏl and the reviewers, making the losers drink penalty cups (罰盃). He also instructed various scholars to compose Kugyŏl for the Four Books, Five Classics, and the *Zuo Zhuan* (左傳 口訣), and then had these revised again. The *P'irwŏn Chapki* refers to this, stating:
+"King Sejo once lamented that the pronunciation of Eastern scholars (東方學者 - Korean scholars) was incorrect and their punctuation unclear. Although there existed the Kugyŏl of earlier scholars Kwŏn Kŭn and Chŏng Mong-ju, errors were still numerous, and corrupt Confucians and vulgar scholars perpetuated these mistakes. He thus ordered senior officials and established scholars to be assigned the Four Books and Five Classics, to examine the old and verify the present, and collaboratively determine the Kugyŏl. He also convened literary Confucians to discuss differences, with the King personally adding his royal judgment. Munjŏng (文靖 - Sin Suk-ju's posthumous name) was always by his side, frequently consulted. He analyzed matters minutely, responding like an echo. The King listened tirelessly, saying to those around him, 'Nŭngsŏng (寧城 - Sin Suk-ju's title) is truly a genius.'"
+Besides this, the *Tongbang Munhŏn Pigo* (東方文獻備考) states:
+"Vernacular Translation of the Seven Military Classics (武經七書諺解): Initially, when King Sejo was a prince (潛邸時), he received King Munjong's (文宗) command to compile Kugyŏl for military texts (兵書口訣) but could not complete the book. Upon ascending the throne, he ordered Sin Suk-ju (申叔舟), Kwŏn Nam (權擥), Ch'oe Hang (崔恒), etc., to determine the Kugyŏl and provide annotations and explanations (定口訣校註解)."
+This shows that Sejo also had Kugyŏl compiled for military texts. Besides Kugyŏl, various Ŏnhae (including Kugyŏl in Hunminjŏngŭm) were also compiled. In the 8th year annals of the *Veritable Records of King Sejo*:
+"On the Musin day (戊午), the first day (丁巳朔) of the ninth month, the Directorate for Sutra Publication (刊經都監) presented the newly published *Lotus Sutra* (法華經)." This *Lotus Sutra* likely refers to the extant vernacular translation, *Myobŏp Yŏnhwa Kyŏng* (妙法蓮華經), published in the 8th year of Sejo. Also, in the *Veritable Records of King Sejo*, 10th year, 3rd month, Pyŏngjin day (丙辰):<30>
+"Grand Prince Hyoryŏng (孝寧大君) had previously proofread the *Sutra of Perfect Enlightenment* (圓覺經). Now that the work was finished, the King held a banquet at Ŭnjŏng Hall (恩政殿) to console him."
+And in the same *Veritable Records*, 10th year, 4th month, Kyemi day (癸未):
+"Wŏn'gak Temple (圓覺寺) was completed, and a celebratory assembly (慶讚會) was held. 128 monks attended, examining the Imperially Fixed Kugyŏl, Translated Sutra of Perfect Enlightenment (御定口訣翻譯圓覺修多羅了義經). 20,000 monks providing external support were fed. On this day, the King visited Wŏn'gak Temple."
+The Ŏnhae of the *Sutra of Perfect Enlightenment* mentioned here, along with the Ŏnhae of the *Diamond Sutra* (金剛經) mentioned in the same *Veritable Records*, 10th year, 2nd month, Kyŏngin day (庚寅):
+"Ordered Minister of Works Kim Su-on (工曹判書金守溫), Insun Prefecture Governor Han Kye-hŭi (仁順府尹韓繼禧), Chief Royal Secretary No Sa-sin (都承旨慮思愼), etc., to translate the *Diamond Sutra*."
+And the Ŏnhae translations of the *Śūraṅgama Sūtra* (楞嚴經) and *Yongga Chip* (永嘉集) seen in other literature, as well as the *Wŏrin Ch'ŏn'gang Chi Kok* (月印千江之曲, also known as *Wŏrin Sŏkpo* - 月印釋譜), an Ŏnhae composed by King Sejong and annotated by King Sejo, were also compiled. After Sejo, works interpreted using Kugyŏl became less common, while purely Ŏnhae translations increased. An introduction to these will be provided later in the section on Hunminjŏngŭm literature, so I will omit it here.
+
+The above summarizes the scripts that existed before the promulgation of Hunminjŏngŭm, the script we use today. Briefly, I see three types of script:
+(1) Ancient script (whose actual content is not clearly transmitted)
+(2) Idu script (whose content is transmitted to this day)
+(3) Kugyŏl (T'o) script (whose content is also transmitted to this day).
+(Note 13) Ŏ Yun-jŏk, "History and Hunminjŏngŭm" (역사와 訓民正音), lecture published in Chosun Ilbo (조선일보), Pyŏngin (丙寅 - 1926), Nov. 14 issue. <31>
+
+**Summary**
+
+This article by Kim Yun-gyŏng, part of a larger series on the history of Korean writing published in 1931, focuses on Kugyŏl (口訣), also known as T'o (吐). Kim defines Kugyŏl as a system using full or abbreviated Chinese characters, or later Hunminjŏngŭm, to add Korean grammatical markers when reading Classical Chinese texts, primarily Confucian classics and Buddhist sutras, to aid comprehension. He discusses various historical references to Kugyŏl/T'o/Sŏgŭi, arguing they refer to the same system. Kim critically examines the traditional attribution of Kugyŏl's origin to Silla scholar Sŏl Ch'ong, suggesting Sŏl Ch'ong likely used Idu (吏讀) for interpreting classics, and posits Kugyŏl emerged later, during the Koryŏ Dynasty, as a byproduct of increased Hanmun translation activity, reaching maturity under Chŏng Mong-ju and Kwŏn Kŭn in late Koryŏ/early Chosŏn. He strongly distinguishes Kugyŏl from Idu based on seven points: Kugyŏl's auxiliary nature vs. Idu's independence, their different origins, phonetic vs. ideographic orientation (partially), reading method, scope of usage (scholarly vs. administrative/general), script forms (Kugyŏl includes abbreviations and Hangul), and specific character choices. The article details the three forms of Kugyŏl (full Hanja, abbreviated Hanja, Hunminjŏngŭm) and notes its grammatical simplification compared to spoken Korean. It concludes by listing key figures (Sejong, Sejo, scholars) and texts involved in the development, standardization, and use of Kugyŏl and related Ŏnhae (vernacular translations).
+
+From a colonial history perspective, the article is interesting as it represents Korean linguistic scholarship attempting to systematically analyze and assert the history of its own writing systems during Japanese rule. Kim Yun-gyŏng engages with Japanese scholarship (Ogura Shinpei) but firmly argues for the distinct identity and historical trajectory of Kugyŏl, differentiating it from Idu and pushing back against potentially simplistic or inaccurate attributions (like Sŏl Ch'ong creating Kugyŏl). The detailed discussion distinguishing Idu and Kugyŏl, and tracing Kugyŏl's development through specific historical figures and royal projects (especially under Sejong and Sejo), highlights an effort to establish a rigorous, evidence-based narrative of Korea's unique linguistic heritage. Historians might find valuable the author's synthesis of historical sources (Sillok, classical commentaries, private writings) and his arguments regarding the relationship between different pre-Hangul writing practices.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun-gyŏng
+卞季良	변계량	Pyŏn Kye-ryang
+太宗	태종	T'aejong
+權近	권근	Kwŏn Kŭn
+鄭夢周	정몽주	Chŏng Mong-ju
+陽村	양촌	Yangch'on (Kwŏn Kŭn's pen name)
+朴世采	박세채	Pak Se-ch'ae
+薛聰	설총	Sŏl Ch'ong
+鄭圃隱	정포은	Chŏng P'oŭn (Chŏng Mong-ju's pen name)
+權陽村	권양촌	Kwŏn Yangch'on (Kwŏn Kŭn)
+中朝	중조	Chungjo (China)
+肅宗	숙종	Sukchong
+李滉	이황	Yi Hwang
+李珥	이이	Yi I
+宋俊吉	송준길	Song Chun-gil
+李退溪	이퇴계	Yi T'oegye (Yi Hwang's pen name)
+黃守身	황수신	Hwang Su-sin
+申采浩	신채호	Sin Ch'ae-ho
+新羅	신라	Silla
+鄭麟趾	정인지	Chŏng In-ji
+眞興王	진흥왕	King Chinhŭng
+魚允迪	어윤적	Ŏ Yun-jŏk
+李朝	이조	Yi Dynasty (Chosŏn)
+小倉進平	-	Ogura Shinpei
+高麗朝	고려조	Koryŏ Dynasty
+均如	균여	Kyunyŏ
+孟子	맹자	Maengja (Mencius)
+世宗	세종	Sejong
+高麗史	고려사	Koryŏsa (History of Koryŏ)
+胡三省	호삼성	Hu Sanxing
+思政殿	사정전	Sajŏngjŏn (Hall)
+世祖	세조	Sejo
+鄭自英	정자영	Chŏng Cha-yong
+兪希益	유희익	Yu Hŭi-ik
+韓繼禧	한계희	Han Kye-hŭi
+慮思愼	여사신	No Sa-sin
+姜希孟	강희맹	Kang Hŭi-maeng
+周易	주역	Chuyŏk (Book of Changes)
+鄭蘭宗	정난종	Chŏng Nan-jong
+藝文舘	예문관	Yemungwan (Hall of Worthies)
+左傳	좌전	Chwa Chŏn (Zuo Zhuan)
+文靖	문정	Munjŏng (Sin Suk-ju's posthumous name)
+寧城	영성	Nŭngsŏng (Sin Suk-ju's title)
+文宗	문종	Munjong
+申叔舟	신숙주	Sin Suk-ju
+權擥	권람	Kwŏn Nam
+崔恒	최항	Ch'oe Hang
+刊經都監	간경도감	Kan'gyŏng Togam (Directorate for Sutra Publication)
+法華經	법화경	Pŏphwa Kyŏng (Lotus Sutra)
+妙法蓮華經	묘법연화경	Myobŏp Yŏnhwa Kyŏng (Lotus Sutra title)
+孝寧大君	효령대군	Grand Prince Hyoryŏng
+圓覺經	원각경	Wŏn'gak Kyŏng (Sutra of Perfect Enlightenment)
+恩政殿	은정전	Ŭnjŏngjŏn (Hall)
+圓覺寺	원각사	Wŏn'gaksŏ (Temple)
+金剛經	금강경	Kŭmgang Kyŏng (Diamond Sutra)
+金守溫	김수온	Kim Su-on
+仁順府	인순부	Insunbu (Prefecture)
+楞嚴經	능엄경	Nŭngŏm Kyŏng (Śūraṅgama Sūtra)
+永嘉集	영가집	Yongga Chip
+月印千江之曲	월인천강지곡	Wŏrin Ch'ŏn'gang Chi Kok
+月印釋譜	월인석보	Wŏrin Sŏkpo
+
+**Glossary**
+
+口訣	구결	Kugyŏl; system of annotation using Hanja/Hangul to add Korean grammatical elements to Hanmun texts.
+吐	토	T'o; synonym for Kugyŏl, literally 'to spit out' or 'to add' grammatical endings.
+釋義	석의	Sŏgŭi; interpretation, commentary; often used interchangeably with Kugyŏl in the context of annotating classics.
+吏讀	이두	Idu; system using Hanja to represent Korean phonetically and semantically, primarily used for administrative texts and hyangga. Distinct from Kugyŏl.
+한문	한문	Hanmun; Classical Chinese writing as used in Korea.
+조선말	조선말	Chosŏnmal; Korean language (older term).
+경서	경서	Kyŏngsŏ; Confucian Classics.
+실록	실록	Sillok; Veritable Records, official annals of the Chosŏn Dynasty.
+諺語	언어	Ŏnŏ; Vernacular language, often referring to Korean in contrast to Hanmun.
+句讀	구두	Kudu; punctuation and phrasing in reading Classical Chinese.
+全字	전자	Chŏnja; Full/unabbreviated Chinese character.
+畧字	약자	Yakcha; Abbreviated Chinese character (used in Kugyŏl).
+送假名	-	Okurigana; Japanese grammatical endings written in kana following a kanji. Mentioned for comparison.
+方言	방언	Pang'ŏn; Vernacular speech/language (here referring to Korean).
+正音	정음	Chŏngŭm; Correct Sounds, referring to Hunminjŏngŭm (Hangul).
+언해	언해	Ŏnhae; Vernacular translation/interpretation, typically of Hanmun texts into Korean using Hangul, often including Kugyŏl-like principles.
+향가	향가	Hyangga; Silla-era native Korean songs/poems, often written using Idu.
+몸씨	몸씨	Momssi; Stem word (noun, verb, adjective). Older grammatical term.
+토씨	토씨	T'ossi; Grammatical particle/ending (postposition, suffix, etc.). Older grammatical term corresponding to Kugyŏl markers.
+닿소리	닿소리	Tasori; Consonant (older linguistic term).
+홀소리	홀소리	Holsori; Vowel (older linguistic term).
+새김	새김	Saegim; Meaning-based reading (訓讀, hundok) of a Hanja character, as opposed to its sound-based reading (音讀, ŭmdok).
+音解	음해	Ŭmhae; Sound and meaning glosses/explanations for Hanja characters in texts.
+訓義	훈의	Hunŭi; Interpretations and meanings (of texts).
+訓民正音	훈민정음	Hunminjŏngŭm; The original name for the Korean alphabet (Hangul), promulgated in 1446.
+
+
+---------------------------
+
+
+잡지명	동광 제25호
+발행일	1931년 09월 04일
+기사제목	朝鮮 古文字로서의 口訣, 朝鮮文字의 歷史的 考察(7)
+필자	金允經
+기사형태	논설
+
+朝鮮 古文字로서의 口訣, 朝鮮文字의 歷史的 考察
+						金允經
+2. 口訣(즉 吐)
+구결은 吐 혹은 釋義라고도 합니다. 吐란 것은 한문을 읽을 때에 그 뜻을 알기 쉽게 하기 위하여 어구마다 조선말의 동사「하」에 토(吐) 붙인 어구와 토(조사, 접속사, 종지사)들을 한자(全字 혹은 畧字)를 빌어서 쓰는 것인데 마치 일본의 『天爾遠波』의 「送假名』과 같은 것이외다. 세종실록 10년조에 『上語卞季良曰, 昔太宗命權近著五經吐』라 하고 그 註에 『凡讀書以諺語節句讀者, 俗謂之吐』라 함을 보면 그 의미가 명백하여집니다. 그러한데 그 실록상에는 또 鄭夢周, 權近들이 經書에 구결 또는 釋義를 더하엿다함이 잇음으로 吐, 구결, 釋義는 다 같은 뜻임이 증명됩니다. 또 慵齋叢話에는 『陽村(곳 權近)定四書五經口訣, 又作淺見錄入學圖說等書, 羽翼之功不少』라 하여 전례의 실록에 吐라 한 것을 구결이라 하여 吐와 구결이 같은 것임을 증명하엿으며 또 文獻撮要에는 『文純公朴世采曰, 我國經書口訣釋義, 中朝所未有, 始於薛聰, 成於鄭圃隱權陽村』이라 하여 釋義는 구결과 같이 문자를 의미하는 명칭이 아니고 해석 혹은 講義의 뜻임을 증명하엿습니다. 즉 『구결로 釋義한 것』이라 함에 불과한 것이외다. 그러하나 增補東國文獻備考에는
+『癸亥(肅宗 9년을 가르침)又筵奏曰, 令臣(朴世采를 가르침)改修心經口訣, 臣於其時, 以當用文純公臣李滉口訣及文成公臣李珥家藏本, 參互修進之意仰白矣, 臣意以爲韻會有文斷而意不斷爲讀, 文義俱斷爲句之說, 以此推之, 雖我國口訣, 必當懸於中國句讀之下, 然後方爲合義矣』라 하고 또 그 밑에
+『然自四書三經諺解之後, 然·故·而·則等字, 或斷或連無所准測, 至於李滉李珥口訣, 然·故必懸訣, 而·則二字則必連讀, 及至故判書臣宋俊吉, 然·故二字亦與而·則同側連讀, 莫可取裁, 蓋若用臣法則, 此書口訣勢當多改, 今只詳考宋俊吉本訣, 其有不得已當改, 當添者則謹以李滉訣, 李珥近思口訣, 參改改添而已』
+라한 것을 보면 그 『心經口訣』이란 것은 李退溪의 『心經釋義』를 가르친 것임으로 釋義도 口訣과 같은 뜻으로 씀이 보입니다. 또 구결이 어떠한 것인가도 엿보입니다. 또 妙法蓮華經諺解(세종 8년)의 序에 『心譯直於據漢文, 口訣曲宣於國諺』이라 함이 잇고 圓覺經諺解(세종10년)의 序에 『臣黃守身等, 謹將新彫印御定口訣, 翻譯大方廣圓覺修多羅了義經』이라 함이 잇음을 보면 口訣을 번역의 뜻으로도 쓴 것 같습니다.
+
+그러하면 이제는 口訣은 언제 생긴 것인가 함이 문제외다. 申采浩씨는
+『今人이 薛聰이 吏讀文을 지엇다 하나 이는 완전한 妄說이라...三國史記 薛聰傳에 가로되 「聰以方言讀(音두)九經訓導後生至今學者宗之」라 하고 朴世采가 가로되 「經書口訣釋義...始發於薛聰成於鄭夢周權近」이라 하니 薛聰은 口訣로써 九經을 讀한 자요 吏讀로써 한 자가 아니니라. 그러나 口訣을 薛聰의 作이라 함은...속단이라. 薛聰이 口訣로써 九經을 讀함이요 口訣을 作함이 아니다. 하여간 口訣이 薛聰의 때에 이미 존재함은 확증할지라』(주 18)
+고 하여 口訣의 기원을 薛聰 이전에 인정하엿습니다. 이것은 아마 朴世采의 『我國經書口訣釋義發於薛聰』에＜27＞ 전혀 근거를 둔 말같이 생각되나 그러타면 웨 三國史記나 三國遺事들 같은 가장 오란 문헌에 구결이라 함이 보이지 아니함에 불구하고 다만 그 뒤 사람인 朴世采의 말을 믿어 단언까지 하엿는가는 자못 의문이외다. 필자의 淺見으로는 薛聰이 九經을 해석할 때에 쓴 문자가 吏讀엿엇으리라는 것만은 믿고 싶읍니다. 이같이 말하면 혹 『그러하면 三國史記나 三國遺事들에 吏讀란 문자는 잇느냐』고 할 이가 잇을는지 모르나 鄭麟趾의 『薛聰始作吏讀』(正音序)라던가 大明律跋文의 『薛聰所製方言字謂之吏道』라던가 기타 후학자의 다수가 薛聰과 吏讀를 밀접히 관련시킨 일(그 말대로 제작 운운까지는 전에 말한 대로 믿지 않으나)과 眞興王 비문이 증거하는대로 吏讀가 이미 만들어지어서 盛히 사용된 일(구결이 사용됨은 믿기 어렵지마는)은 薛聰의 九經 해석에 吏讀를 썻다는 것을 힘잇게 증거함이 아닌가 생각합니다. 고로 薛聰이 口訣을 사용하엿다는 것은 믿기 어렵습니다. 딸아서 薛聰 이전에 구결이 제작되엇다는 것도 믿기 어렵습니다.(薛聰 이전 口訣文의 實跡이 발견되지 않는 이상은). 또 魚允迪씨는
+『신라 중엽에 薛聰이라 하는 이가 吏讀文이라는 것을 만들엇으니 예하면 「하야」라는 것을 「ヤ」이러케 셋으니 그것은 「ソ」는 「하위(爲)자」의 頭冠이며 「つ」는 「이끼야(也)자」의 頭冠임으로 그것을 訓과 音을 붙이어서 「하야」라 하는 것과 같이한 것입니다. 그 후에는 그 吏讀를 넣어 音과 訓을 붙이어 가지고 신라에서는 노래까지 짓은 일이 잇엇습니다. 그리하여 窘塞하나마 이 吏讀文을 7백년 동안을 사용하엿으며 또한 正音이 생긴 후에도 갑오년까지 이것을 썻습니다. 그리하여 이 吏讀로 서적까지 번역한 일이 잇엇으니 李朝 초에 大明律을 吏讀로 번역하엿으며 일시는 이것으로 과거까지 보이엇엇음으로 近者까지도 각 지방의 吏屬들이 이 工夫를 많이 하엿엇소』(주 23)
+라고 하여 이두를 薛聰의 짓음이라 보고 또 吏讀와 吐를 동일시한 것이 보입니다. 그리하여 결국 吐는 薛聰의 만들은 것이라 본 것이외다. 또 小倉進平씨는 『吐는 아마 李朝 이후의 것이리라』하는 조선학자의 학설을 인용하여 『吐는 이제부터 4, 5백년 전에 발명된 것이라』(주2)하엿습니다. 이와 같이 여러 가지 학설이 잇으나 口訣(즉 吐)의 기원은 文獻撮要의 『我國經書口訣始於薛聰成於鄭圃隱權陽村』이 암시하여 준다고 생각합니다. 그러한데 그 의미의 해석에 잇어서는 전에 말한 학자들이 흔히는 口訣 그것이 薛聰 때에 시작되어 鄭夢周, 權近 때에 완성되엇다고 하나 필자는 經書의 번역 또는 解譯의 사업이 薛聰 떄에 시작되어 鄭, 權 양씨 때에 완성되엇다는 뜻으로 봄이 옳다고 생각합니다. 口訣이란 것은 經典 기타의 한문 고전을 읽을 때에 한문의 句讀(韻會에 「文斷而意不斷爲讀文義俱斷爲句」라 함) 밑에 한자의 音이나 訓을 빌어 번역된 말의 吐를 달음인 고로 漢文經典의 번역사업이 성행함에 따라 口訣이라는 특별한 문자가 발달하여 온 것이라고 생각합니다. 웨 그러하냐 하면 邦言을 표시하기 때문에 생긴 것이 아니고 순전히 한문 번역 때문에 생긴 것인 고로 口訣을 한문 없이 독립으로는 의사를 발표할 수가 없는 까닭이외다. 따라서 口訣은 한 때에 완성된 것이 아니라는 것도 살피게 되며 또한 그 때문에 명백한 그 창작연대도 정하기 어려운 것도 살피어집니다. 즉 薛聰 이래로 鄭, 權 양씨에 이르는 동안 한문 번역 사업의 파생물이 口訣이라고 보아도 큰 틀림은 없으리라고 생각합니다. 다시 말하면 口訣은 高麗朝(적어도 鄭夢周, 權近의 口訣 이전)에 생긴 글이라고 생각합니다.
+
+다음에 또 말하고 싶은 것은 吏讀와 口訣의 구별에 대하여서외다. 이미 말함과 같이 魚允迪씨는 口訣을 吏讀와 동일한 것으로 간주하엿고 小倉進平씨도
+『吐 특히 한자로 된 것은 우에 말한 吏讀와 매우 비슷한 점을 가지엇다. 그러하나 조선의 많은 학자는 그 사이에 구별을 세운다...결국, 吏讀라던지 吐라는 것은 본디부터 근본적 차이가 잇는 것이 아니고 시대로 인하여 다소의 변화를 이르킨 것이라 볼만한 것이리라.』(주 3)고 하여 역시 한 가지로서 시대적 변화의 차가 잇음에 불과한 것으로 인정하엿습니다. 그러하나 吏讀와 吐는 한자를 빌어 씀이 같은 것 외에는 모든 점에서 아주 다름을 발견하게 됩니다. 다음에 그 다른 점을 들어 보려합니다.＜28＞
+첫째로, 吏讀는 각종 단어(「씨」라 함)전체 (三國遺事, 均如傳 중의 향가에 보임과 같이)를 표시하는 독립의 문자로 보겟으나 吐는 조사(겻), 접속사(잇), 終止詞(맺)들만 (經書 口訣에 보임같이)을 한문의 句讀 밑에 붙이어서만 소용되는 한문 부속의 문자임.
+둘째로 吏讀는 삼국 초기경에 된 것이나 吐는 고려시대에 된 것임.
+썻째로, 吏讀는 표음적이어서 이것을 읽으면 곳 조선 말이 되나 吐는 한문 본래의 성질대로 표의적이어서 읽어도 吐의 부분 외에는 조선 말과는 다른 때문에 알아 듣지 못하게 됨.
+넷째로, 吏讀는 향가 시대보다 후대에는 그 활용 범위가 축소된 것은 사실이로되 결코 한문 문체와 같이 가꾸로 거스리어 새기어 읽는 일이 없으나 吐는 한문을 그대로 쓰는 고로 조선말이 되게 함에는 가꾸로 거스리어 읽지 아니하면 아니 됨이 많음. 李朝 초의 吏讀文인 大明律에 대하여 둘을 서로 비교하면
+(한문)『凡奴奸良人婦女者, 加凡奸罪一等, 良人奸他人婢者, 減一等, 奴婢相奸者, 以凡奸論.』
+(吏讀文)『凡奴子亦 良人矣 婦女乙 犯姦爲在乙良 凡姦罪良中 加一等齊, 良人亦 他矣 婢子乙 行姦爲在乙良 減一等齊, 奴婢亦 相姦爲在乙良 凡姦例以 論爲乎事』
+(口訣文)『凡奴奸良人婦女者面 加凡奸罪一等爲古 良人奸他人婢者面 減一等爲古 奴婢相奸者面 以凡奸論爲羅』
+이같이 이두문은 한문 문법을 깨트리어버리게 되나 口訣文(吐)은 한문 문법을 깨트리지 않고 句讀 밑에 토를 붙일 뿐임.
+다섯째로, 吏讀는 처음에는 일반으로 사용된 것이엇으나 근대(李朝)에는 관리의 공문서, 上書, 소장, 계약문 증서 따위에만 사용한 것이로되 口訣은 성균, 향교, 서원, 私塾 들에서 한문 학자 계급에서만 사용한 것이요 일반 민중에게는 아무 관계가 없는 것임. 즉 전자는 일반적 문자엿으나 후자는 특수적 계급의 문자인 때문에 서로 개김(妨害) 없이 둘이 다 함께 37년전 갑오까지(민간에서는 隆熙 때까지) 공용되엇음. 그러하여 吏讀文은 日用 언어에 혼합되어 이제까지 쓰임이 많음. 『上白是』, 『於音』, 『細音』, 『結卜』같이 적음이 그것임.
+여섯째로, 吏讀는 한자의 全字를 빌어서 『是如』(이다), 『叱分除良』(뿐더러), 『是去等』(이거든), 『是如爲在乙)(이다하거늘), 들과 같이 적지마는 口訣은 한자의 全字, 略字, 訓民正音字들의 세 가지가 잇어서 全字로는 『隱』, 『面』, 『爲是尼』, 약자로는 『膺』, 『厂』, 『ソ寸ヒ』, 訓民正音字로는 『은』(혹은 『는』), 『면』, 『하시니』같이 적음.
+일곱째로, 같은 뜻의 말이라도 서로 다르게 적음. 가령, 吏讀로는 『是如』, 『是去等』, 『是矣』, 『亦』, 『以』, 『爲在乙良』, 『良中』같이 적으되 口訣로는 그것을 『是多』, 『是乎隱』, 『乎大』, 『是』, 『奴』, (혹은 『乙奴』), 『是於等』, 『厓』들과 같이 씀.
+이 여러 가지는 吏讀와 口訣이 전연 別 것임을 증거하는 것이외다.
+그 다음으로 구결의 내용을 살피어 보면 다음의 세 가지가 잇습니다.
+첫째는 한자 全字를 빌어 씀이니 가령 『天地之間萬物之中厓 唯人是 最貴爲尼所貴乎人者隱 以其有五倫也是羅』에서 똥구람이를 친 것이 口訣인데 그 중에서 厓, 尼, 隱, 羅들은 그 음을 취하여 읽고 是, 爲들은 그 새김(訓)을 취하여 읽는 것임.
+둘째는 한자의 약자를 빌어 씀이니 가령 『夫爲人子者膺 出必告召 反必面ソ厼 所遊乙 必有常ソ厼 所習乙 必有業ソ厼 恒言厂 不稱老ヒ*』에서 똥구람이 친 것이 약자 口訣인데 膺(隱의 略), 口(古의 略), ソ厼(紹의 略), 乙, 厂(厓의 略) 匕(尼의 略), *(羅의 略)들은 그 음을 빌어 읽는 것이고 ソ(爲의 略)는 새김을 빌어 읽는 것임.
+셋째는 訓民正音을 빌어 씀이니 가령 『飽食暖衣하야 逸居而無敎면 則近於禽獸니라』에서 똥구람이친 것이 正音의 吐로 된 것임.
+조선 말의 규칙에는 우에 잇는 몸씨(명사, 형용사, 동사)의 끝소리가 닿소리(子音)가 홀소리(母톱)가에 따라서 그 밑에 오는 토씨(吐되는 낯말 즉 조사, 접속사, 終止詞)를 달리하는 경우가 많은데 이 口訣에는 이것을 따로 만들지 아니하고 하나만으로 통용하는 고로＜29＞ 실제의 어음과는 맞지 아니함이 잇습니다. 가령 『隱』(은)은 홀소리로 끝된 『君子(군자)』에나 닿소리로 끝된 『君臣(군신)』에나 구별 없이 통요하게 하엿지마는 실제의 어음은 『군자는』이라 하고 『군신은』이라 하여 구별하는 것이 한 법칙이 된 것입니다. 『乙』도 『所遊習乙』, 『所乙』이라 하여 구별 아니하나 실제에는 『소유를』, 『소습을』로 구별하며 『是』도 『孟子是』, 『唯人是』하여 구별 없이 쓰나 실제의 어법에는 『맹자가』, 『유인이』라 하여 구별함이 한 법칙이외다.
+
+끝으로 口訣의 문헌을 좀 소개하여 두고 싶습니다. 신라 이후 고려에 이르기까지에는 經書에 口訣釋義같은 것이 잇엇다는 기사가 문헌상에 아직 발견되니 아니하나 고려 말엽부터 李朝 초에 걸치어서 유학의 권위엿던 鄭夢周(圃隱)와 權近(陽村) 두 분이 經書에 대한 口談 또는 釋義를 저작하엿다는 것은 실록 상에도 밝히 보이고 慵齋叢談(『陽楊定四書五經口訣』), 文獻撮要(『經書口訣釋義...成於鄭圃權陽村』)들에도 보입니다. 그 뒤 세종조에 이르러서는 口訣 또는 釋義의 이름으로는 저자가 보이지 아니하나 筆苑雜記에
+『世宗天性好學...晩年倦勤不視朝, 然於文學之事, 尤所軫慮, 命儒臣分局撰次諸書, 曰高麗史, 曰治平要覽, 曰兵要, 曰諺文, 曰韻書, 曰五禮儀, 曰四書五經音解, 同時修撰, 皆經睿裁成書, 一日御覽可數十卷, 其可謂天行健純亦不已也』
+라 한 중에 四書五經音解에 대하여 東國文獻備考에
+『經書音解, 世宗朝命儒臣設局撰次, 以便句讀』
+라 하엿고 또 同書에 思政殿訓義(世宗17년)의 편찬 유래를 말하기를
+『世宗嘗留意於溫公資治通鑑, 患其箋釋未盡句讀不明, 命儒臣博採群書隨事夾註, 以便觀覽, 於是據胡三省音註及源委釋文集覽等書, 刪潤之, 有未盡處, 旁採他書以補, 且文學回互難深處, 輒註本史全句, 或書句字於句下, 以便句讀, 以至字釋翻音莫不詳備, 皆取睿裁, 名之曰思政殿訓義, 網目通鑑亦如是, 其訓義之精今古所無.』
+라 하엿으니 口訣관계의 서류를 저작한 것이외다. 또 당시에 창제된 훈민정음은 이른바 『언해』의 싹이 트인 것이니 언해들은 다 口訣과 병행으로 저작된 것인 고로 世宗 이후는 직접 口訣이라고는 하지 아니하엿을 찌라도 언해의 釋義에는 口訣이 포함된 것입니다. 또 世祖는 종래의 구결이 오류를 전승함에 불만을 느끼어 諸臣으로 하여금 그것을 수정하게 하엿습니다. 즉 세조실록에 의하면 세조 11년 9월 庚申에는 鄭自英, 兪希益, 韓繼禧, 慮思愼, 姜希孟들을 부르어 周易 口訣을 밤들도록 강론하게 하엿고 同11월 乙酉에는 鄭蘭宗들을 부르어 同 口訣을 강론하게 하엿고 同月 丙申에는 예조에 명하여 本國 先儒 所定의 四書五經 口訣과 鄭夢周의 詩 口訣을 널리 求케 하엿고 同月 己未에는 藝文舘 儒臣으로 하여금 易 口訣을 論難하게 하고 同12월 庚寅에는 同舘 儒臣들을 부르어 친히 易 口訣을 무러보고 익년(12년)2월 辛巳에는 최초의 口訣 決定者와 校閱者의 사이에 토론을 일으키어 진 사람에게는 罰盃를 받게 함과 같은 일을 하기도 하엿으며 또 諸儒에게 분부하여 四書五經 及 左傳 口訣을 짓게 하고 다시 이것을 교정하게 하엿습니다. 筆苑雜記에 이것을 가르치어서
+『世祖嘗嘆東方學者語音不正句讀不明, 雖有先儒權近鄭夢周口訣, 紕繆尙多腐儒俗士傳訛承語, 遂命老臣宿儒, 分授四書五經, 考古證今, 參定口訣, 又會文儒講異同, 上親加睿裁, 文靖常在左右, 每承顧問, 毫分縷析應對如響, 上聽之斖斖不厭, 語左右曰, 寧城眞天才也』
+라 함이 잇습니다. 이 밖에 東方文獻備考에
+『武經七書諺解, 初世祖潛邸時, 承文宗命, 纂兵書口訣, 未克成書, 及登極, 命申叔舟權擥崔恒等, 定口訣校註解』
+라고 함을 보면 世祖는 兵書의 口訣도 撰定하게 함을 알겟습니다. 口訣 외에 각종의 諺解(訓民正音의 口訣도)도 撰定한 것이외다. 世祖實錄 8년條에
+『九月丁巳朔戊午, 刊經都監進新刊法華經』이라 한 법화경은 이제까지 전하는 동서의 언해『妙法蓮華經』(世祖 8년 출판)을 이름일 것이외다. 또 世祖實錄 10년 3월 丙辰條에＜30＞
+『孝寧大君補嘗讎校圓覺經, 至是事訖, 上御恩政殿, 設宴慰之.』
+라 함이라던가 同實錄 10년 4월 癸未條에
+圓覺寺成, 設慶讚會, 赴會僧一百二十八, 披覽御定口訣翻譯圓覺修多羅了義經, 飯外護僧二萬, 是日幸圓覺寺』
+라 함이라한 圓覺經의 諺解와 同實錄 10년 2월 庚寅條에
+『命工曹判書金守溫 仁順府尹韓繼禧 都承旨慮思愼等 譯金剛經』
+이라 한 金剛經의 諺解와 기타 문헌에 보이는 楞嚴經 永嘉集의 諺解, 月印千江之曲(일명 「月印釋譜」)의 諺解(世宗御製데 世祖가 纂衛註解한 것)들도 撰定한 것이외다. 世祖 이후에는 口訣로 해석한 저작이 별로 보이지 아니하고 순수한 諺解가 많아지게 되엇는데 이에 대한 소개는 나종에 訓民正音의 문헌에서 소개하겟기에 여기에는 略하려 합니다.
+
+이상은 이제 우리가 쓰는 글 訓民正音이 제정 발포되기 전에 된 문자의 개요를 말한 것입니다. 이를 간단히 말하면 3종의 문자가 잇엇다고 본 것이외다. 즉
+(1)고대문자(실지 내용이 똑똑이 전하지 못한)
+(2)吏讀문자(이것은 이제까지 내용이 전한 것)
+(3)口訣(吐)문자(이것도 이제까지 내용이 전한 것)들이 그것이외다.
+(주 13)魚允迪著 『역사와 訓民正音』(조선일보 丙寅 11월 14일호 所載, 氏의 강연)＜31＞
+＜27-31＞

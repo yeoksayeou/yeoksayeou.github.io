@@ -1,0 +1,60 @@
+Magazine Title: 동광 제9호
+Publication Date: 1927년 01월 01일
+Article Title: 漢字音 쓰는 法의 一例 (An Example of How to Write Sino-Korean Pronunciations)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+It is impossible to count how many of our words have disappeared due to Hanmun (Classical Chinese writing). Also, because of Hanmun, there are not a few cases where we cannot write our words according to their proper sounds. If things continue this way, our language will eventually become Sinicized (漢語化). Therefore, when writing, we resolve to write strictly according to the National Pronunciation (國音).
+
+Scholars of Chinese Classics (漢學者) might perhaps say this is wrong, but we are resolutely carrying this out for the purpose of defending our language (我語擁護). Here are a few examples:
+
+Writing 리상 (理想) as 이상 (isang)
+Writing 륜리 (倫理) as 율리 (yulli)
+Writing 독립 (獨立) as 독닙 (tongnip)
+Writing 텬디 (天地) as 천지 (ch'ŏnji) <31>
+
+**Summary**
+
+This article argues for writing Sino-Korean words based on their actual contemporary Korean pronunciation (referred to as 國音, National Pronunciation) rather than strictly adhering to the theoretical sounds represented by each Hanja character, which was influenced by traditional Hanmun scholarship. The author expresses concern that the dominance of Hanmun has led to the loss of native Korean words and prevents the accurate representation of Korean sounds, warning that continued adherence to older norms will lead to the Sinicization (漢語化) of the Korean language. The piece frames this orthographic reform as an act of language defense (我語擁護) and provides examples like '이상' (ideal), '율리' (ethics), '독닙' (independence), and '천지' (heaven and earth) to illustrate the proposed changes, reflecting common phonological shifts in Korean. From a historical perspective, this article is interesting as it showcases the active debates surrounding Korean language standardization and orthography reform during the Japanese colonial period. It reflects a growing linguistic nationalism and a conscious effort to assert Korean linguistic identity by prioritizing native pronunciation over traditional Sino-centric conventions, even potentially contradicting established Hanja scholarship.
+
+**Named Entities**
+
+None found in the text.
+
+**Glossary**
+
+漢字音	한자음	Sino-Korean pronunciation (sound of Hanja characters in Korean)
+漢文	한문	Classical Chinese writing/text
+消滅된	소멸된	Disappeared, extinguished
+이루	이루	(Adverb) Fully, completely (often used with negatives, e.g., 이루 셀 수 없다 - cannot possibly count)
+제 音대로	제 음대로	According to its own/proper sound
+적지 아니함니다	적지 아니합니다	Is not few (older polite verb ending for 아니다)
+이러구러	이러구러	If things go on like this and that (older connective phrase)
+필경	필경	Eventually, in the end
+漢語化	한어화	Sinicization; becoming like the Chinese language
+반듯이	반드시	Necessarily, must (Note: In modern Korean, this spelling usually means 'straightly', while '반드시' means 'necessarily'. Here, it means 'necessarily' despite the spelling.)
+國音	국음	National Pronunciation (standard Korean pronunciation)
+漢學者	한학자	Scholar of Chinese Classics / Sinologist
+我語擁護	아어옹호	Defense/Protection of Our Language
+단행하게 됨니다	단행하게 됩니다	To come to carry out decisively (older polite verb ending for 되다)
+리상	이상	Ideal (older spelling reflecting pre-reform initial sound rules for Sino-Korean words)
+륜리	윤리	Ethics (older spelling reflecting pre-reform initial sound rules for Sino-Korean words)
+독닙	독립	Independence (spelling reflecting phonetic assimilation [ŋn] rather than standard orthography)
+텬디	천지	Heaven and Earth (older spelling before palatalization /t/ > /ch/ before /i/ or /y/ was reflected in orthography)
+
+
+---------------------------
+
+
+잡지명	동광 제9호
+발행일	1927년 01월 01일
+기사제목	漢字音 쓰는 法의 一例
+기사형태	잡저
+
+漢字音 쓰는 法의 一例
+漢文으로 말미암아 우리말의 消滅된 것이 얼마나 많은지 이루 셀 수도 없음니다. 또 한문 그것 때문에 우리말을 제 音대로 쓰지 못하는 것도 적지 아니함니다. 이러구러 가면 우리말은 필경 漢語化되고 말 것임니다. 그로 쓸 때는 반듯이 國音대로만 쓰기로 함니다. 漢學者는 혹 이를 잘못이라 할 이도 있을는지 모르나 我語擁護의 뜻으로 우리는 이를 단행하게 됨니다. 몇가지 例를 들면 아래와 같습니다.
+리상(理想)을 이상으로
+륜리(倫理)를 율리로
+독립(獨立)을 독닙으로
+텬디(天地)를 천지로＜31＞
+＜31＞

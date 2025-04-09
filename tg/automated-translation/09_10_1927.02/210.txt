@@ -1,0 +1,91 @@
+**Header Section:**
+Magazine Title: 동광 제10호
+Publication Date: 1927년 02월 01일
+Article Title: 글의 添削을 願하는 이에게 (To Those Who Wish for Manuscript Correction)
+Author: 李光洙, 朱耀翰 (Listed as Selectors)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation:**
+To Those Who Wish for Manuscript Correction (글의 添削을 願하는 이에게)
+
+Many submissions come in from readers (讀者). To look at each one individually takes time, but to just leave them be is regrettable to those who wrote them with sincerity (情誠). Therefore, we have established a Correction Department (添削部) with the following regulations (規定).
+
+Correction Department Regulations (添削部 規定)
+
+1.  Manuscripts (原稿) should be written on one side only, leaving plenty of blank space (餘白), and "Correction" (添削) should be written in red ink (朱書) on the envelope (皮封).
+2.  Address and Name must be written at the very end (末端) of the manuscript.
+3.  For each manuscript page (20 characters x 10 lines), the enclosure (同封) of 10 *chŏn* (銭) (either postage stamps (郵票) or a postal money order (郵換)) is required (要함). This covers (充함) the correction fee and return postage (返送費).
+4.  Manuscripts will be corrected, critiqued (批評), and returned (返送) within 30 days from the date of arrival (到着日).
+5.  If registered mail (登記) is required upon return, an additional 10 *chŏn* for the registration fee must be sent along (添送).
+6.  This company (本社) bears no responsibility (責任) for loss (遺失) due to mail issues or natural disasters (郵便 天災).
+7.  Among the submissions (投稿), if there is an excellent piece (佳作), it may be published (揭載) in this magazine (本誌上).
+
+Selectors (選者)
+Yi Kwangsu (李光洙)
+Chu Yohan (朱耀翰)
+<63>
+
+**Summary**
+
+This article from the February 1927 issue of *Tonggwang* magazine announces the establishment of a manuscript review and correction service for readers. It details the specific rules for submission, including formatting, providing contact information, the fee (10 *chŏn* per page via stamps or money order), the 30-day turnaround time, options for registered return mail, and disclaimers regarding postal loss. It also mentions that outstanding submissions might be published, and lists prominent contemporary writers Yi Kwangsu and Chu Yohan as the selectors/reviewers. From a historical perspective, this piece is interesting as it shows a formal mechanism for literary mentorship and feedback operating on a paid basis during the colonial period. It highlights the practical costs involved, the reliance on the postal system, and the significant role figures like Yi Kwangsu and Chu Yohan played not just as writers but also as gatekeepers or mentors within the literary scene.
+
+**Named Entities**
+
+李光洙	이광수	Yi Kwangsu
+朱耀翰	주요한	Chu Yohan
+本社	본사	This company (referring to the magazine/publisher)
+
+**Glossary**
+
+添削	첨삭	Correction, revision (of writing)
+讀者	독자	Reader
+만흔	많은	Many (older spelling)
+옴니다	옵니다	Come (older spelling/polite ending)
+업고	없고	Lacking, without (older spelling)
+미안함니다	미안합니다	Sorry (older spelling/polite ending)
+가튼	같은	Same as, like (older spelling)
+되엇슴니다	되었습니다	Has become (older spelling/polite ending)
+原稿	원고	Manuscript, draft
+만히	많이	Much, many (older spelling)
+皮封	피봉	Envelope (겉봉투)
+朱書	주서	Writing in red ink
+郵票	우표	Postage stamp
+郵換	우환	Postal money order
+要함	요함	To require (older verb ending)
+充함	충함	To cover costs, allocate (older verb ending)
+返送	반송	Return mail
+登記	등기	Registered mail
+添送	첨송	To send additionally, enclose
+遺失	유실	Loss, misplacement
+本社	본사	Head office, this company
+投稿	투고	Submission, contribution (of writing)
+佳作	가작	Fine work, excellent piece
+잇슬	있을	If there is (older spelling)
+本誌上	본지상	In this magazine
+揭載	게재	Publication, insertion (in a journal/magazine)
+得함	득함	Can obtain, is allowed (older verb ending)
+選者	선자	Selector, judge, reviewer
+
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	글의 添削을 願하는 이에게
+기사형태	사고·편집후기
+
+글의 添削을 願하는 이에게
+讀者에게서 만흔 投書가 들어 옴니다. 그것을 일일히 보자 하니 시간이 업고 그냥 두자니 情誠들이어 쓰신 분에게 미안함니다. 그래서 아레와 가튼 規定으로 添削部를 두게 되엇슴니다.
+
+添削部 規定
+1. 原稿는 1面에만 쓰고 餘白을 만히 남기고 皮封에 添削이라 朱書할 것.
+2. 住所 姓名 반듯이 原稿 末端에 記入할 것.
+3. 原稿 한 장(20字 10行)에 대하여 10錢式(郵票 혹 郵換)의 同封을 要함. 단 이것은 添削料 밋 返送費로 充함.
+4. 原稿는 到着日부터 30日 內에 添削 批評하여 返送함.
+5. 返送時에 登記를 要하면 登記料 10錢을 添送할 것.
+6. 郵便 天災로 인한 遺失은 本社에서 責任을 지지 아니함.
+7. 投稿 중 佳作이 잇슬 때는 本誌上에 揭載함을 得함.
+選者 李光洙
+朱耀翰＜63＞
+＜63＞

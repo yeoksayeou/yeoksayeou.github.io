@@ -1,0 +1,127 @@
+잡지명	동광 제11호
+발행일	1927년 03월 05일
+기사제목	칸트와 흄, 因果問題에 대한 (Regarding Kant, Hume, and the Problem of Causality)
+필자	李庚烈
+기사형태	논설 (Editorial/Article)
+
+칸트와 흄, 因果問題에 대한
+						李庚烈
+
+This article is a translation of a section discussing the relationship between Kant and Hume—particularly concerning the problem of epistemology, and within that, the law of causality—from a paper titled "Kant's Philosophy" by Mr. Paul Carus, which criticized Kant's philosophy. It is thought that this allows one to glimpse the relationship between Kant and Hume, and simultaneously, is sufficient to examine Mr. Carus's view on the law of causality. Although this is always true everywhere, one feels it is especially necessary when trying to understand Kant to broadly explore, compare, and study the attitudes of philosophers before and contemporary to Kant, who posed problems for him, as well as the trends and criticisms in philosophy after Kant. In this sense, reading this paper is thought to be of help in understanding Kant.
+
+Kant's philosophy marks a new epoch in the development of human thought by starting through the form of fundamental problems of thought and heading towards a proper direction for their solution. However, Kant did not provide a final solution.
+
+Kant was awakened from his dogmatic slumber by Hume's skepticism. And what opened a new path for him regarding the concept of philosophical problems was Hume's question about the nature of the law of causality.
+
+Kant gave Hume's problem a new face. He did this by conceptualizing the problem and recognizing that the concept of the law of causality belongs to the same category as mathematics and logic, all being purely formal knowledge. The significance of formal thought and its ability to provide *a priori* knowledge is Kant's unique problem.
+
+However, it is generally acknowledged <22> that while Kant solved Hume's problem, he did not solve his own problem.
+
+Due to a kind of misunderstanding regarding the nature of form and the non-objectivity of that form, he entered into his so-called idealism, which is not far removed from the subjectivism he considered characteristic of Berkeley's philosophy. The difference between these two, according to Kant's opinion, is as follows: According to Kant, the world itself is real, but as it appears in the forms of time and space, it is a phenomenon. And he says that according to Berkeley, the world itself is an illusion. Kant insists that the world as it appears is purely phenomenal, but it is not an amorphous illusion; rather, it is governed by laws that give necessity to all its parts.
+
+Kant's great achievement is the strict distinction between pure form and sensation. This distinction clarified that pure form, as a principle, is universal and necessary, whereas sensation is contingent and concrete or particular. However, because he failed to apply the same distinction to the concept of experience and the object of experience, he limited form to the subjective. Yet, it is clear that there is a universal aspect of all existence that is simultaneously subjective and objective, and it is the connection between these existences (subjective and objective) that makes objective knowledge, i.e., science, possible.
+
+We (this refers to Mr. Carus himself; hereafter, "we" or "I" refers to Mr. Carus's standpoint) must, before examining Kant's points, briefly investigate Hume's problem and present Kant's solution in its formal aspect. Doing so will make it easier to point out the error that prevented Kant from establishing a clear and final doctrine regarding the nature of form, which should be the basis for all scientific inquiry and could make philosophy a clear science like mathematics, logic, or even physics.
+
+Locke opposed the doctrine of innate ideas by asserting that all ideas are products of sensory impressions, but he made an exception for one idea: the law of causality, the principle of necessary connection. Hume, however, accepted Locke's sensationalism. <23> But by taking that theory further, Hume went so far as to deny even the idea of cause and effect as a necessary connection. He concluded that what we experience is constant succession, not necessity. He argued that due to habit, we come to expect that each cause will be followed by its corresponding effect, but there is absolutely no basis for assuming the causal relationship as a universal and necessary principle of objective certainty. Hume saw in the relationship between cause and effect a conjunction he called "the succession of two things." However, if this is merely a conjunction or simple succession, then the connection between cause and effect is contingent, and Hume's assertion that our view of it as necessary is merely habit would be justified. The true meaning of the causal relationship is not the succession of two things where one follows another, but a process (Proces) which is motion, a change of position. This motion, in its simplest form, involves at least three aspects (or states) of things within the scope, the system, in which the motion occurs. First, the original condition (simply put, a relative equilibrium). Second, the motion that disrupts that equilibrium, causing one or several elements within that scope to seek a new position. Third, the new stability (simply put, a re-established equilibrium). We call the first state the condition, the second state the cause, and the third state the effect. Cause and effect are not mixed into a unity by forcing a law of necessary connection upon them. They are two phases of one and the same process. The duality of cause and effect is a product of abstraction; their unity is the original fact. From this, we understand that the law of causality is merely another way of expressing the law of conservation of matter and energy. Naturalists say that matter and energy are indestructible, and therefore, every process occurring in nature is merely its transformation. Hume denied this, but in our opinion, the causal relationship is ultimately based on the logical principle of identity, A is A. That is, the causal relationship extends this principle of identity to the state of motion.
+
+Therefore, a cause is not an objective thing but always an event. That is, some kind of motion. We <24> cannot say the bullet is the cause and death the effect, nor that mercury is the cause and paralysis the effect, nor further, as Georg Lewes said, that water and alcohol are the cause of liquor.
+
+We distinguish between cause and reason (Cause and Reason). Reason is a certain law that serves as the basis for integrating facts to explain the effectiveness of a certain cause (Abridged translation of original note... The distinction between these two words becomes clearer when comparing the etymology in various European languages. That is, a cause is a specific event that generates a process. Reason is the general principle explaining it, i.e., a natural law. These two concepts are easily confused, which readily leads to contradictions and inconsistencies).
+
+Following Hume's proposal, Kant devoted special attention to this problem of the law of causality. However, he settled the issue merely by asserting that the law of causality is an *a priori* concept and thus belongs to the same category of truth as mathematical and logical theorems. Thus, he did not even attempt to explain the truth of this law of causality. He left its proof, as well as the demonstration of its universality and necessity, untouched. Mathematicians know it is necessary to prove theorems, but Kant strangely did not attempt to deduce the law of causality from simpler truths or analyze it into its elements. If Kant had followed the attitude of logicians or mathematicians and attempted to analyze the causal relationship to prove its certainty, with his sharp insight into physical laws and the nature of natural science, he would surely have become a forerunner (先見者) in the discovery of the law of conservation of matter and energy. Furthermore, he would have escaped the error of his subjectivism, which influenced his entire system of thought.
+
+(As mentioned at the beginning, this is Mr. Carus's critique of Kant's philosophy. Through this, we can see the relationship between Kant and Hume regarding the problem of causality, and simultaneously, Mr. Carus's own position on the interpretation of the law of causality. The translator originally wondered if there might be errors in Mr. Carus's view of Kant's philosophy, and consequently, there might be points where the translated discourse here does not hit the mark. However, the sole intention was simply to present the existence of such a critique of Kant's philosophy by Mr. Carus.) <25>
+
+**Summary**
+
+This article, translated by Yi Kyŏng-nyŏl from Paul Carus's "Kant's Philosophy," discusses Kant's response to Hume's skepticism about causality. Carus credits Kant with recognizing causality as an *a priori* formal concept like logic or math, but criticizes him for failing to explain its objective validity, thus falling into a subjectivism similar to Berkeley's. Carus argues Kant mistakenly confined 'form' to the subjective realm. Carus himself posits that causality isn't just succession but a single process (condition-cause-effect) representing the transformation of matter/energy, ultimately grounded in the principle of identity (A=A). Historically, the article reveals the engagement of Korean intellectuals like Yi Kyŏng-nyŏl with complex Western philosophical debates (Kant, Hume, Carus) in the 1920s, translating and critically assessing these ideas for a Korean audience during the colonial period. This demonstrates an effort to participate in global intellectual currents despite colonial constraints.
+
+**Named Entities**
+
+칸트	칸트	Kant
+흄	흄	Hume
+Paul Carus	폴 케러스	Paul Carus
+李庚烈	이경렬	Yi Kyŏng-nyŏl
+뻑클리	버클리	Berkeley
+롴	로크	Locke
+Georg Lewes	조지 루이스	Georg Lewes
+
+**Glossary**
+
+因果問題	인과문제	Problem of Causality
+哲學	철학	Philosophy
+批判	비판	Critique
+論文	논문	Thesis/Paper
+認識問題	인식문제	Epistemological Problem/Problem of Knowledge
+因果律	인과율	Law of Causality
+譯出	역출	Translation (act of translating and publishing)
+見解	견해	Viewpoint/Opinion
+理解	이해	Understanding
+獨斷論	독단론	Dogmatism
+懷疑論	회의론	Skepticism
+概念	개념	Concept
+數學	수학	Mathematics
+論理學	논리학	Logic
+純粹	순수	Pure
+形式的	형식적	Formal
+先天的	선천적	A priori
+主觀論	주관론	Subjectivism
+觀念論	관념론	Idealism
+實在	실재	Real/Reality
+現象	현상	Phenomenon
+必然性	필연성	Necessity
+法則	법칙	Law/Principle
+感覺	감각	Sensation
+經驗	경험	Experience
+對象	대상	Object
+客觀的	객관적	Objective
+科學	과학	Science
+感覺印象	감각인상	Sensory Impression
+本有觀念	본유관념	Innate Ideas
+連結	연결	Connection
+連續	연속	Succession/Continuity
+引續	인속	Following/Succession (older term)
+過程	과정	Process
+條件	조건	Condition
+釣合	조합	Balance/Equilibrium (older usage, now 균형)
+恒存律	항존율	Law of Conservation
+同一原理	동일원리	Principle of Identity
+定理	정리	Theorem
+縯繹	연역	Deduce/Deduction
+分析	분석	Analysis
+思索	사색	Contemplation/Speculation
+誤謬	오류	Error/Fallacy
+解義	해의	Interpretation/Explanation
+立場	입장	Stance/Position
+正鵠	정곡	Bullseye/Core Point
+-ㅁ니다	-ㅂ니다	Formal polite sentence ending (older spelling)
+-옴/움	-음/-ㅁ	Noun-forming suffix (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제11호
+발행일	1927년 03월 05일
+기사제목	칸트와 흄, 因果問題에 대한
+필자	李庚烈
+기사형태	논설
+
+칸트와 흄, 因果問題에 대한
+						李庚烈
+이 글은 칸트哲學을 批判한 폴 케러스(Paul Carus)씨의 "Kants Philosophy"란 論文중에서 칸트와 흄의 관계-특히 認識問題 그 중에도 因果律에 대한-를 論述한 節을 譯出한 것임니다. 이것으로써도 칸트와 흄의 관계를 엿볼 수 있움과 동시에 因果律에 대한 케러스씨의 見解를 살피기에 足하다 생각됨니다. 언제나 어대서나 아니 그런 것이 아니지마는 더욱이 칸트를 理解하려면 칸트에게 문제를 일으키어 준 칸트 前時代 및 그와 同時代와 있었던 哲學者들의 태도와 및 칸트 以後 哲學의 趨勢와 批判을 널리 探索하고 비교하여 연구하지 안으면 안될 것을 느끼게 됨니다. 이러한 의미에 있어서 이 論文을 一讀함이 칸트를 理解함에 한 도움이 되리라고 생각함니다.
+
+칸트의 哲學은 思考의 根本問題의 형식을 통하여 그리고 그 해결에 대한 정당한 方面을 향하여 출발한 것으로 人類思想 발전의 新紀元을 지은 것이 된다. 그러나 칸트는 終局的 해결을 주지 않앗다.
+칸트는 흄의 懷疑論으로 말미암아 그의 獨斷論的 잠(睡眠)에서 깨어났다. 그리고 그로 하여곰 哲學問題의 개념에 대하여 새롭은 길을 열어 준 것이 因果律의 성질에 대한 흄의 문제였다.
+칸트는 흄의 문제에 새롭은 面目을 주었다. 그것은 그 문제를 槪念化시키고 또 因果律의 개념이 數學, 論理學과 同類인 것으로써 그것들은 다 같이 純粹한 形式的 지식인 것을 認識함으로 한 것이다. 形式的 思考의 意義와 그것이 先天的 認識을 제공하는 능력과가 칸트의 獨特한 문제다.
+그런데 칸트는 흄의 문제는 해결하였으나 자기의 문제는 해결하지 못하였다는＜22＞ 것은 一般이 인정한다.
+形式의 성질에 관한 一種의 誤解와 그 形式의 非客觀性으로 인하여 그가 뻑클리의 哲學의 特色이라고 생각한 主觀論과 거리가 멀지 않은 그의 所謂 觀念論으로 들어갔다. 이 兩者의 相異는 칸트의 의견에 의할 것 같으면 이와 같은 것이다. 곳 칸트에 의하면 世界 自體는 實在한 것이지마는 시간 공간의 形式으로 나타나는 그것은 現象이라고 한다. 그리고 그는 그런데 뻑클리에 의할 것 같으면 世界自體가 한 幻影이라고 하는 것이다. 그리고 칸트는 나타나는 것으로의 世界는 純粹히 現象이지마는 그것은 不定形의 幻影이 아니고 그 모든 부분에 必然性을 주는 법칙으로 지배를 받는 것이라고 주장한다.
+칸트의 위대한 功勞는 純粹한 形式과 感覺과를 嚴正하게 구별한 것이다. 이 구별은 그 純粹한 形式은 원리로서 普遍的이며 必然的인 것임에 反하여 감각은 偶然的이며 具體的 혹은 特殊的이라는 것을 明示한 것이다. 그러나 그는 그 동일한 구별을 經驗의 개념과 經驗의 對象과에 應用하지 못하였기 때문에 그는 그 形式을 主觀에 限하였다. 그러나 모든 존재의 主觀的임과 동시에 客觀的인 것의 普遍相이 있는 것은 명백한 것으로 客觀的 認識 곳 科學을 가능하게 하는 連絡이 그 存在間(主觀 客觀)에 있는 것이다.
+우리(이는 케러스씨 자신을 말함이니 以下에 우리 혹은 나라 한 것은 다 케러스씨의 立場을 말임니다)는 칸트의 論點을 考察하기 前에 간단하게라도 흄의 문제를 탐구하여서 거긔 대한 칸트의 그 形式으로의 해결을 제시하여야 되겠다. 이와 같이 하면 모든 科學的 요구의 根據가 되어야 할 것이고 또 哲學으로 하여곰 數學, 論理學 乃至 物理學과 같이 명확한 科學이 되게할 수 있는 그 形式의 성질에 관하여 칸트로 하여곰 명확하고 終局的인 學說을 세우지 못하게 한 그 錯誤를 지적하기 容易할 것이다.
+롴(Locek)은 모든 관념은 다 感覺印象의 産物이라고 주장함으로 本有觀念(Inn-ateideas)의 學說을 반대하였으나 그는 必然的 連結의 原理인 因果律이라는 觀念 하나만은 例外로 하였다. 그런데 흄은 롴의 感覺論을 받아 가지었다. 그러나 흄은＜23＞ 그 說에서 더 나아감으로 말미암아 必然的 連結로의 原因 結果의 관념까지도 否定하는대 이르었다. 그는 우리가 經驗하는 것은 不絶하는 連續이고 必然性은 아니라고 論斷하였다. 습관으로 말미암아 우리는 각 원인에는 거긔 당한 결과가 딸으리라고 기대하게 된 것이지 결코 因果關係를 客觀的 確實性의 普遍的 必然的 원칙으로 假定할 論據가 없다고 하였다. 흄은 원인과 결과사이의 관계에서 『두 事物의 引續』이라고 부르는 한 결합을 보았다. 그런데 이것이 한 결합 혹은 단순히 引續 뿐일 것 같으면 원인과 결과사이의 연결은 偶然的이고 그것이 必然的이라고 하는 우리의 見解는 다만 습관 뿐이라고 하는 흄의 論說은 정당한 것이겠다. 因果關係의 眞義는 한 事物이 다른 한 事物을 딸으는 그 두 事物의 引續이 아니고 運動인 곳 위치의 변화인 한 過程(Proces)으로써 이 운동의 가장 단순한 것은 적어도 그 운동이 現出하는 그 범위 그 體系 內에 있는 事物의 3方面(혹은 狀態)을 포함하는 것이다. 첫째는 본래의 條件(간단히 말하자면 相對的 釣合에 있다고 할)이고 둘째는 그 범위 안에 있는 一 혹 數多의 要素로 하여곰 새 위치를 찾게까지 하게 하는 그 釣合을 깨트리는 운동이고 셋째는 새 安定(간단히 말하자면 다시 釣合이 되었다고 할 것)이다. 第1狀態는 條件이라고 하며 第2狀態는 원인이라고 하며 第3狀態는 결과라고 우리가 부르는 것이다. 원인과 결과는 必然的 연결의 법칙을 억지로 세슚�는 것에 의하여 單一에 混合되지 않는 것이다. 그것은 동일한 과정의 2面(Two Phases of one ond the same process)이다. 원인과 결과의 二元性은 抽象의 産物이고 그 둘의 單一性은 본래의 事實(Original Oact)이다. 여긔서 우리는 因果律은 物質과 勢力의 恒存律을 다른 말(言語)로 표시한 것에 불과한 것인 줄을 알다. 自然論者는 物質과 勢力은 不滅하는 것이고 딸아서 自然界에 運行되는 각 과정은 그 變形 뿐이라고 말한다. 흄은 이것을 否定하였지마는 하여간 우리의 의견으로 보면 因果關係는 결국인 즉 甲은 甲이라고 하는 論理學上 同一原理에 基礎한 것이다. 곳 因果關係는 이 同一原理를 운동의 상태에까지 擴張한 것이다.
+그럼으로 원인은 客觀物이 아니고 항상 한 事件이다. 곳 或種의 운동이다. 우리는＜24＞ 彈丸이 원인이고 죽음이 결과라고 할 수 없으며 汞이 원인이고 痲痺가 결과라고 할 수 없으며 더 나아 가아서 Georg Lewes가 말한 것처럼 물과 「알콜」이 酒의 원인이라고 할 수 없는 것이다.
+우리는 원인과 이유(Cause and Reason)를 구별한다. 이유는 일정한 원인의 効果性을 설명하기 위하여 한 사실을 統合하는 根據가 되는 일정한 법칙이 된다(原註의 略譯... 이 두 말의 구별은 歐洲 각 國語의 語源을 비교하면 더 명백하다. 곳 원인은 한 과정을 발생케 하는 특수한 사건이다. 이유는 그것을 설명하는 原理一般 즉 自然法則이다. 이 두 개념은 混同하기 쉽은 것이며 그로 말미암아 矛盾과 撞着에 일으기 쉽은 것이다).
+흄의 이 提案을 딸아 칸트는 이 因果律 문제에 특별한 주의를 注入하였다. 그러나 그는 이 因果律은 先天的 개념이고 딸아서 數學的과 論理學的 定理와 같은 동일한 진리의 종류에 속한 것이라고만 단순하게 주장함으로 이 문제를 결정하였다. 이렇게 되어 그는 이 因果律의 진리를 설명하려고는 하여 보지도 않았다. 그 證明도 또는 그 普遍性과 必然性의 論證도 그대로 내버려 두었다. 數學者들은 定理를 證明하는 것이 必然한 것인 줄로 아는데 칸트는 이상하게도 因果理係의 법칙을 더 단순한 진리로붙어 縯繹하려고도 또는 그것을 그 要素로 分析하려고도 아니 하였다. 만일에 칸트가 論理學者나 數學者의 태도를 딸아 그 確實性을 證明하기 위하여 因果關係를 分析하려고 하였었더면 物理學的 법칙과 自然科學의 성질에 대한 그의 銳利한 見解로서 그는 반듯이 물질과 勢力의 恒存律 발견의 앞잡이(先見者)가 되었을 것이다. 그리고 한 걸음 더 나아가아 그의 思索 全 系統에 影響을 준 그의 主觀論의 誤謬에서 벗어 났을 것이다.
+(처음에도 말하였거니와 이것은 케러스씨의 칸트哲學批判인데 이것으로 因果問題에 대한 칸트와 흄의 관계를 봄과 동시에 케러스씨 자신의 因果律 解義에 대한 立場을 볼 것임니다. 원래 譯者는 칸트哲學에 대한 케러스씨의 見解에 誤錯이 없지 않은가 하며 딸아서 여긔 譯載한 論述도 그것이 正鵠을 맞히지 않은 것 같은 점이 없지 않으나 칸트哲學에 대한 이러한 케러스씨의 批判이 있는 것만을 보고저 함이 唯一의 所期이었음니다.)＜25＞
+＜22-25＞

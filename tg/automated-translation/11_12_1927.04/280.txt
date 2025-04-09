@@ -1,0 +1,254 @@
+잡지명	동광 제12호
+발행일	1927년 04월 01일
+기사제목	自山詩話 (Chasan's Poetic Discourse)
+필자	安廓
+기사형태	문예평론 (Literary Criticism)
+
+外篇 (Outer Part)
+
+My *Sihwa* (Poetic Discourse) was originally divided into two parts: Inner and Outer. The Inner Part discussed works recited in the Korean language since ancient times, while the Outer Part appraises and discusses poems written in Chinese characters (漢字詩 - Hansi), generally comprising miscellaneous notes on literary history.
+
+The Outer Part has already been published three times. In those instances, I presented only the intrinsic quality of the poems without adding any critique, intending to adopt a form of non-verbal evaluation (無言的의 評隲). However, this seems prone to causing misunderstanding among readers. Therefore, starting from this issue, I intend to add brief appraisals.
+
+Historically, selections of Hansi include works like *Tongmun Sŏn* (東文選) and *Kiga* (箕雅), and poetic discourses include types like *P'ahan Chip* (破閑集), *Tongin Sihwa* (東人詩話), and *Sohwa Sip'yŏng* (小華詩評). However, these are all critiques concerned with the art of form (形), and regarding true thought (想), there has been none for a thousand years. Some knowledgeable individuals (有道者) have dismissed Hansi as valueless things, mere playful compositions (庾詞戱號). However, if one looks closely, among the 1,200 collected works, there are truly interesting pieces. One can observe the changes in thought over time and occasionally find distinctive East Asian characteristics. My purpose in writing this is to explore somewhat what previous scholars have not addressed.
+
+There have been those who evaluated poetic thought before. There is the satirical critique of a monk's poetic style using the three terms *tudanghŭn* (豆蕩㾗 - bean-dregs scar), *sasusuchek* (捨水滴 - water-discarding drop), and *sosunki* (蔬笋氣 - vegetable-shoot air); this is found in the *P'ohan Chip* (補閑集) and attributed to Mr. Yun U-il (尹于一氏) of the Koryŏ period. However, <96> this was said satirically, mimicking the tone (口氣) of Su Tung-p'o (蘇東坡), and is not a proper poetic discourse.
+
+Because they did not know that conception (着想) is paramount in poetry, even Yi Chi-bong (李芝峰) said, "Literary composition (文詞者) is merely a skill (一技); even if skillful, it is without benefit (無益). Doing it is acceptable, not doing it is also acceptable." The *Wŏlsa Chip* (月沙集) also states, "Literature (文章者) is a skill (一技), and only after specialization (專) can one become proficient (工)." Otherwise, there were also those who subordinated poetry to morality (道德); the prefaces to Kim Chong-jik's (金宗直) *Pyŏltong Chip* (別洞集) and Ma Lin-sun's (馬麟淳) *Lakchae Chip* (樂齋集), et cetera, are examples of this. Besides these, in Yi Kyu-bo's (李奎報) *Yujahu Munjil P'yŏng* (柳子厚文質評 - Critique of Liu Zongyuan's Substance and Form), Sŏ Kŏ-jŏng's (徐居正) preface to the *T'aejae Chip* (泰齋集), and Chang Yŏ-gan's (張旅幹) *Munsŏl* (文說 - Discourse on Literature), there are mentions comparing thoughts, but in their critiques, they did not make thought (想) the primary focus.
+
+Even looking at poetic form (詩形), if one were to sift through the roughly eight thousand collected works (文集), there are only about 8 or 9 poetry collections that can be said to have achieved the standard of Hansi style (漢詩格). Why is this? It seems to be because Koreans inherently use a polysyllabic language (複音語), making it difficult to master the tonal patterns (聲律) of the monosyllabic Chinese language (單音語). Therefore, Yi Chong-jun (李宗準) stated in his *Yongjae Yugo* (慵齋遺稿): "Since our East (吾東方), Korea, has a different language and pronunciation (語音殊異) from China, we do not understand their so-called *yüeh-fu* (樂府 - music bureau poems). We merely distinguish the level (平) and oblique (側) tones of characters and the length of phrases, arranging them by rhyme. This is all what is called 'making poetry into lyrics' (以詩爲詞者). Like the beauty Hsi Shih knitting her brows in imitation (捧心而顰), the villagers (里祗) only see its ugliness (醜陋). For this reason, even great literary masters (文章巨公) dared not force themselves to compose [in this style], not because their talent was insufficient (才之不逮). Similarly, if a Chinese person were made to compose verses like *Chŏng Kwajŏng* (鄭瓜亭) or *So Tanggye* (小唐雞 - Korean song titles), it would surely make people clap their hands and break their bindings [with laughter]... From this, one knows that people cannot undertake this casually (造次). Even if we do not know *yüeh-fu*, it is not a detriment to our country's literature (我國文章之累)."
+
+Originally, the tonal harmony (聲調) of Hansi was subtly organized according to the rhythm (口拍子) of speech after Lu Chi (陸機) and P'an Yüeh (潘岳) of the Wei-Jin (魏晋) era developed parallelism (對偶法), and Shen Yüeh (沈約), Hsieh T'iao (謝眺), Wang Jung (王融), and Chou Yung (周顒) of the Six Dynasties (六朝) established the four tones (四聲). <97> The method, to give one example, involves techniques like alliteration (雙聲) and assonance/rhyming (疊韻), sharing vowels (母音) and consonants (子音), and matching the melody (旋律) according to the five articulatory positions (五音): velar (牙), alveolar (舌), labial (唇), dental (齒), and glottal (喉). This method is easy to understand, but the ancients mostly failed to grasp it (領悟치 못햇서). Even now, it would be advisable for Hansi poets to learn this method; once understood, it is not difficult. Therefore, the *Sangch'on Chip* (象村集) also says: "The reason people of our court (我朝人) cannot compose lyrics (詞言) is thought to be because our sounds (聲音) differ from China's, so even if forced, it will inevitably not resemble theirs. I (余), however, believe this is not so. Sounds arise naturally (自然), not limited by being Chinese or foreign. Though language (言詞) differs, rhyming (押韻) is the same. By extrapolating from one, it can be achieved (推一而可及)."
+
+When evaluating poetry, it is advisable to consider the national character (民族性) as well. Sŏng Sam-mun's (成三問) poem on the Po I and Shu Ch'i Shrine (夷齊廟詩):
+"Even blades of grass were moistened by the rain and dew of Chou (周雨露), / I am ashamed you still ate the ferns of Shouyang (首陽微)."
+This is generally praised (賞讚). However, while its intention (立意) seems transcendent (超越), its style (風格) reflects the disposition (性味) of the Korean people, being overly meticulous (曲盡) to the point of nearly harming the original intent (本志) of Po I and Shu Ch'i (夷齊). Koreans cannot express the profound, numinous charm (深邃한 神韻) like the Chinese line "Gathering chrysanthemums by the eastern hedge, / Leisurely I gaze upon the southern mountains" (採菊東離下 悠然見南山); instead, they grasp things elementally (骨子的). In a way, it seems narrow-minded (便狹). Thus, Sin Hŭm (申象村) also said: "Eastern people (東方人) have a narrow and shallow temperament (氣稟褊淺). If they acquire even a small skill (少有取長), they immediately become self-satisfied (卽自足). Therefore, those who achieve greatness in virtue, deeds, and literature (德業文章成就者) are few, and even when they occasionally appear (間有之), they are never truly great (皆不大)." However, it's not that they possess a congenitally narrow nature (褊淺한 天性), but because they grew up in mountain valleys (山谷), the national character (民性) became mountainous (山谷的). Looking at Korean civilization, it was born in the mountain valleys and grew up in the mountain valleys. The utilization of foreign cultures (外文化) is also the same. Whether Buddhism or Confucianism, once imported, it did not change or develop, <98> but was rigidly adhered to (膠守) and left to decay (썩혓서). Because of this trait, the poetry emerging from such thought either pushes single-mindedly in one direction or merely imitates (模倣) others. Therefore, I once recited impromptu (口號) at Paektu Mountain (白頭山):
+"Ascending Hamsan (咸山) once, I gaze over the Eight Provinces (八道), / Water murmurs, mountains overlap, houses spaced here and there.
+For myriad years, countless people have been here, / But ask, how many truly vital men (活達男兒) are there?"
+
+Besides national character, evaluation must inevitably consider the author's individuality (個性) and the spirit of the age (時代相). Therefore, those who can properly be accorded historical value are perhaps Ch'oe Ko-un (崔孤雲 - Ch'oe Ch'i-wŏn), Yi Kyu-bo (李奎報), Wŏn Ch'ŏn-sŏk (元天錫), and Kim Si-sŭp (金時習), these four or five individuals.
+
+Commonly, the poetry of Ŭpch'wihŏn (挹翠軒 - Yi Tal) is called the ultimate masterpiece (絶唱), but while he was a genius, a childlike quality (兒態) flows through it. Also, Chŏng P'oŭn (鄭圃隱 - Chŏng Mong-ju) is considered heroic and strong (雄健), but his spiritedness (豪氣) adds a political flavor, giving it rather a base feeling (卑한 기색). In his poem upon entering the capital of Ming China (入明國京城詩):
+"Entering within, midday, suddenly the summons was relayed, / Rushing up Dragon Knoll (龍堀) towards the imperial banquet.
+The sagely instructions (聖訓) heard closely, heaven merely inches away, / Magnanimous grace (寬恩) extending far to the Eastern Sea's edge (海東邊).
+Retiring, unaware of tears flowing down both cheeks, / Moved, I only know to wish [His Majesty] ten thousand years (祝萬年).
+Henceforth, the Three Han states (三韓), receiving the Emperor's strength (帝力), / Will plow fields, dig wells, and all sleep peacefully (耕田鑿井摠安眠)."
+This truly shows a distinct servile nature (卑屈性).
+
+Ikchae (益齋 - Yi Che-hyŏn), Kajŏng (稼亭 - Yi Kok), and Mogŭn (牧隱 - Yi Saek) were poets of great renown in their time, but they merely participate in the ranks of poets. Wŏn Ch'ŏn-sŏk (元天錫) is truly representative of the late Koryŏ (高麗) period. In his *Un'gok Chip* (耘谷集), the lines:
+"The fundamental ways of the Three Teachings (三敎宗風) are not different, / Arguing wrong and right, chaotic as frogs (亂如蛙).
+Generally, this nature (是性) is entirely without obstruction (俱無礙), / Why Buddhist, why Confucian, why Taoist (何釋何儒何道耶)?"
+This is the soul of intellectual history (思想史). The unification of the Three Teachings (三敎統一) over several thousand years was advocated solely by Un'gok (耘谷), and the conflict among the Three Teachings in late Koryŏ can be lamented through this poem (可慈할걸). <99>
+
+**Summary**
+
+This article by An Kwak critiques the historical evaluation of Sino-Korean poetry (Hansi), arguing that previous critics focused too much on form rather than intellectual content or "thought" (想). An Kwak proposes evaluating Hansi based on the depth of thought, reflections of national character, individual authorial style, and historical context. He finds much of Korean Hansi lacking, attributing this partly to the linguistic challenges of mastering Chinese prosody for native Korean speakers and partly to what he perceives as a Korean national trait of "narrowness" or "mountain-valley mentality" (山谷的), leading to rigid adherence to imported ideologies like Buddhism and Confucianism rather than adaptation. He highlights a few poets like Ch'oe Ch'i-wŏn and Wŏn Ch'ŏn-sŏk as historically significant while criticizing canonical figures like Chŏng Mong-ju for political servility. From the perspective of Korean colonial history, the article is revealing for its attempt to define and critique a Korean "national character" and its relationship to cultural reception, reflecting the intense self-examination and nationalist discourse prevalent among Korean intellectuals trying to understand their past and present under Japanese rule. Historians might find the author's specific judgments on poets and his theories about cultural stagnation ("膠守") particularly interesting.
+
+**Named Entities**
+
+自山	자산	Chasan (Author's pen name)
+安廓	안곽	An Kwak
+朝鮮	조선	Chosŏn (Korea)
+東文選	동문선	Tongmun Sŏn (Anthology title)
+箕雅	기아	Kiga (Anthology title)
+破閑集	파한집	P'ahan Chip (Book title)
+東人詩話	동인시화	Tongin Sihwa (Book title)
+小華詩評	소화시평	Sohwa Sip'yŏng (Book title)
+尹于一	윤우일	Yun U-il
+高麗	고려	Koryŏ (Dynasty/Period)
+蘇東坡	소동파	Su Tung-p'o (Su Shi)
+李芝峰	이지봉	Yi Chi-bong (Yi Su-gwang's pen name)
+月沙集	월사집	Wŏlsa Chip (Collected works of Yi Chŏng-gwi)
+金宗直	김종직	Kim Chong-jik
+別洞集	별동집	Pyŏltong Chip (Kim Chong-jik's work)
+馬麟淳	마린순	Ma Lin-sun
+樂齋集	악재집	Lakchae Chip (Ma Lin-sun's work)
+李奎報	이규보	Yi Kyu-bo
+柳子厚	유자후	Yu Chahu (Liu Zongyuan)
+徐居正	서거정	Sŏ Kŏ-jŏng
+泰齋集	태재집	T'aejae Chip (Sŏ Kŏ-jŏng's work)
+張旅幹	장여간	Chang Yŏ-gan
+李宗準	이종준	Yi Chong-jun
+慵齋遺稿	용재유고	Yongjae Yugo (Yi Chong-jun's work)
+中國	중국	Chunguk (China)
+鄭瓜亭	정과정	Chŏng Kwajŏng (Korean song title)
+小唐雞	소당계	So Tanggye (Korean song title)
+魏晋	위진	Wei-Jin (Period)
+陸機	육기	Lu Chi
+潘岳	반악	P'an Yüeh
+六朝	육조	Six Dynasties (Period)
+沈約	심약	Shen Yüeh
+謝眺	사조	Hsieh T'iao
+王融	왕융	Wang Jung
+周顒	주옹	Chou Yung
+象村	상촌	Sangch'on (Sin Hŭm's pen name)
+象村集	상촌집	Sangch'on Chip (Collected works of Sin Hŭm)
+申欽	신흠	Sin Hŭm (Implied by Sangch'on)
+成三問	성삼문	Sŏng Sam-mun
+夷齊	이제	I Che (Po I and Shu Ch'i)
+周	주	Chou (Dynasty)
+首陽	수양	Suyang (Shouyang Mountain)
+東方	동방	Tongbang (The East, referring to Korea)
+白頭山	백두산	Paektu San (Mount Paektu)
+咸山	함산	Hamsan (A mountain name, likely near Paektu)
+八道	팔도	P'alto (Eight Provinces of Korea)
+崔孤雲	최고운	Ch'oe Ko-un (Ch'oe Ch'i-wŏn's pen name)
+崔致遠	최치원	Ch'oe Ch'i-wŏn (Implied by Ko-un)
+元天錫	원천석	Wŏn Ch'ŏn-sŏk
+金時習	김시습	Kim Si-sŭp
+挹翠軒	읍취헌	Ŭpch'wihŏn (Yi Tal's pen name)
+李達	이달	Yi Tal (Implied by Ŭpch'wihŏn)
+鄭圃隱	정포은	Chŏng P'oŭn (Chŏng Mong-ju's pen name)
+鄭夢周	정몽주	Chŏng Mong-ju (Implied by P'oŭn)
+明國	명국	Myŏngguk (Ming China)
+海東	해동	Haedong (East of the Sea, referring to Korea)
+三韓	삼한	Samhan (Three Han states, referring to Korea)
+益齋	익재	Ikchae (Yi Che-hyŏn's pen name)
+李齊賢	이제현	Yi Che-hyŏn (Implied by Ikchae)
+稼亭	가정	Kajŏng (Yi Kok's pen name)
+李穀	이곡	Yi Kok (Implied by Kajŏng)
+牧隱	목은	Mogŭn (Yi Saek's pen name)
+李穡	이색	Yi Saek (Implied by Mogŭn)
+耘谷	운곡	Un'gok (Wŏn Ch'ŏn-sŏk's pen name)
+耘谷集	운곡집	Un'gok Chip (Collected works of Wŏn Ch'ŏn-sŏk)
+
+**Glossary**
+
+詩話	시화	Poetic discourse; commentary on poetry
+外篇	외편	Outer Part/Volume
+內篇	내편	Inner Part/Volume
+漢字詩	한자시	Poetry written in Chinese characters (Hansi)
+品論	품론	Appraisal and discussion; critique
+批論	비론	Critique; criticism
+評隲	평질	Evaluation; judgment
+疑訝	의아	Doubt; suspicion (older form/usage)
+選集	선집	Selection; anthology
+詩格	시격	Poetic style; standard of poetry
+諷諭	풍유	Satire; allegory; indirect criticism
+口氣	구기	Tone of voice; manner of speaking
+숭내내어	흉내 내어	Imitating (older spelling/form)
+着想	착상	Conception; idea; motif
+文詞	문사	Literary composition; writing
+一技	일기	A skill; a technique
+無益	무익	Useless; without benefit
+專	전	To specialize in
+工	공	Skillful; proficient
+道德	도덕	Morality; ethics
+云云	운운	Et cetera; and so on
+主觀	주관	Subjectivity; main focus
+꼰치 아니하엿더라	꼬집지 아니하였더라	Did not point out; did not criticize (older verb form/spelling)
+複音語	복음어	Polysyllabic language
+單音語	단음어	Monosyllabic language
+聲律	성률	Tonal patterns; prosody (in Chinese poetry)
+樂府	악부	Yüeh-fu (Music Bureau poems/style)
+引聲唱曲	인성창곡	Drawing out sounds and singing melodies
+平側	평측	Level and oblique tones (in Chinese phonology)
+句之長短	구지장단	Length of phrases
+協之而韻	협지이운	Harmonizing them with rhyme
+以詩爲詞者	이시위사자	Those who treat poetry as song lyrics
+捧心而顰	봉심이빈	Holding the heart and knitting the brows (allusion to Hsi Shih)
+里祗	이지	Villagers; common people (classical term)
+醜陋	추루	Ugliness
+巨公	거공	Great master; prominent figure
+不敢强作	불감강작	Dare not force oneself to compose
+不逮	불체	Not reaching; insufficient
+造次	조차	Hastily; casually
+對偶法	대우법	Parallelism (literary device)
+四聲	사성	Four tones (of Middle Chinese)
+口拍子	구박자	Rhythm of speech; cadence
+雙聲	쌍성	Alliteration (initial consonant repetition)
+疊韻	첩운	Assonance/Rhyming (vowel/final repetition)
+母音	모음	Vowel
+子音	자음	Consonant
+牙舌 唇齒喉	아설 순치후	Velar, Alveolar, Labial, Dental, Glottal (5 places of articulation)
+旋律	선율	Melody
+領悟치 못햇서	영오치 못했어	Failed to grasp; did not understand (older spelling/form)
+學得함이 可하니	학득함이 가하니	It is advisable to learn (older grammatical form)
+賞讚	상찬	Praise; admiration
+立意	입의	Intention; purpose; theme
+超越	초월	Transcendence
+風格	풍격	Style; manner
+性味	성미	Disposition; temperament
+曲盡	곡진	Meticulous; exhaustive; detailed (can imply narrowness)
+本志	본지	Original intention; true aim
+害함에 가까웟서	해함에 가까웠어	Was close to harming (older spelling/form)
+深邃	심수	Profound; deep
+神韻	신운	Numinous charm; sublime atmosphere
+骨子的	골자적	Fundamental; essential; skeletal
+取헤	취해	To grasp; to take (older spelling/form)
+便狹	편협	Narrow-minded; parochial
+氣稟	기품	Temperament; disposition
+褊淺	편천	Narrow and shallow
+少有取長	소유취장	Acquire even a small skill/merit
+卽自足	즉자족	Immediately become self-satisfied
+德業	덕업	Virtue and deeds
+成就者	성취자	One who achieves success/greatness
+間有之	간유지	Occasionally there are some
+皆不大	개불대	All are not great
+山谷	산곡	Mountain valley
+生長	생장	Grow up
+民性	민성	National character; folk character
+山谷的	산곡적	Mountain-valley-like; mountainous (implying isolation/narrowness)
+膠守	교수	To rigidly adhere to; conservative adherence
+썩혓서	썩혔어	Let it decay; caused it to rot (older spelling)
+模倣	모방	Imitation; copying
+口號	구호	Impromptu verse; slogan
+挹翠軒	읍취헌	Ŭpch'wihŏn (Yi Tal's pen name)
+絶唱	절창	Ultimate masterpiece; superb poem/song
+兒態	아태	Childlike manner; immaturity
+雄健	웅건	Heroic and strong; vigorous
+豪氣	호기	Spiritedness; heroism; magnanimity
+卑屈性	비굴성	Servility; obsequiousness
+歷歷해	역력해	Clearly visible; distinct (older spelling)
+代表的	대표적	Representative
+耘谷集	운곡집	Un'gok Chip (Collected works of Wŏn Ch'ŏn-sŏk)
+三敎宗風	삼교종풍	Fundamental ways/spirit of the Three Teachings (Buddhism, Confucianism, Taoism)
+較非爭是	교비쟁시	Arguing wrong and right
+亂如蛙	난여와	Chaotic as frogs
+一般是性	일반시성	Generally this nature/essence
+俱無礙	구무애	Entirely without obstruction/hindrance
+何釋何儒何道耶	하석하유하도야	Why Buddhist? Why Confucian? Why Taoist? (釋=Buddhism, 儒=Confucianism, 道=Taoism)
+提唱	제창	Advocacy; proposal
+相爭	상쟁	Mutual conflict; strife
+可慈할걸	가자할걸	Can be lamented; pitiable (older form/contraction)
+
+
+---------------------------
+
+
+잡지명	동광 제12호
+발행일	1927년 04월 01일
+기사제목	自山詩話
+필자	安廓
+기사형태	문예평론
+
+自山詩話
+						安廓
+外篇
+余의 詩話는 本外 2篇으로 傳別한 바 內篇은 古來 朝鮮語로 哦한 것을 말한 것이요 外篇은 漢字詩를 品論한 것으로서 通히 文學史의 閑珊을 지은 것이라.
+外篇을 이미 3회나 발표햇섯서. 거긔는 詩의 本品만 보이고 何等의 批論을 키지 아니한 바로서 특별히 無言的의 評隲를 取코저 하엿더니 反히 讀者의 疑訝를 사기 쉬운듯 해. 고로 이번부터는 조곰식 品評을 걸까하노라.
+自來 漢詩를 選集 한것은 東文選, 箕雅가튼 것이 잇고 詩話로는 破閑集, 東人詩話, 小華詩評 가튼 종류가 더러 잇서. 그러나 그는 모도 形의 예술에 아랑곳 되는 評이요 참 想에 비처서는 천년간에 하나도 업섯서. 혹시 有道者는 漢詩를 庾詞戱號인 無價値한 것으로 돌려 버렷서. 그러나 자세히 보면 일천이백 종 文集 중에는 참 흥미잇는 작품도 잇서. 시대의 사상변화도 볼 수 잇고 東洋的 특징도 더러 잇서. 나는 이에 就하야 前人未發을 좀 개척코저 할 딴으로서 이를 지은 것이라.
+전에도 詩想을 評한 이가 잇섯서. 僧의 詩格을 豆蕩㾗, 捨水滴, 蔬笋氣 3으로 諷諭한 것이니 이는 補閑集에 보이는 高麗時 尹于一氏의 말이라. 그러나＜96＞ 이는 蘇東坡의 口氣를 숭내내어 諷刺的으로 한 말이요 정당한 詩話는 아니야.
+詩는 着想이 위주됨을 모른 고로 李芝峰도 말하되 「文詞者, 止於一技, 雖工無益, 爲之亦可,不爲亦可」라 햇서. 月沙集에도 「文章者, 一技也, 而必專而後工」이라 햇서. 그러치 아니하면 詩를 도덕에 부틴 이도 잇스니 金宗直의 別洞集序, 馬麟淳의 樂齋集序 등의 云云이 그것이라. 其外에 李奎報의 柳子厚文質評 徐居正의 泰齋集序 張旅幹의 文說 가튼대는 사상을 비겨 말한 것도 잇스나 評에 잇서는 다 想을 主觀으로 꼰치 아니하엿더라.
+詩形으로 보아도 팔천여책의 文集을 골라대면 漢詩格에 得한 것이라고는 8,9人의 詩集 밧게 업서. 그것은 何故오하면 朝鮮人은 본시 複音語를 사용함으로 單音語인 漢語의 聲律을 마치기 어려운 까달긴 듯 해. 고로 李宗準 慵齋遺稿에 말하되 「吾東方, 旣與中國, 語音殊異, 於其所謂樂府者不知, 引聲唱曲, 只分字之平側句之長短, 而協之而韻, 皆所謂以詩爲詞者, 捧心而顰其里祗見其醜陋耳, 是以, 文章巨公, 皆不敢强作, 非才之不逮也, 亦如使中國人, 若作鄭瓜亭小唐雞之辭則, 必且使人撫掌絶縷矣...以此, 知人不可造次爲之, 雖未知樂府, 亦非我國文章之累也」라 햇서.
+본래 漢詩의 聲調는 魏晋時代에 陸機, 潘岳 등이 對偶法을 내고 六朝의 沈約, 謝眺, 王融, 周顒 등이 4聲을 정한 후로＜97＞ 언어의 口拍子가 미묘하게 조직된 것이니 其法은 一例를 들면 雙聲 疊韻등으로 母音 子音을 共同히 하고 牙舌 唇齒喉 5音을 딸아 旋律에 맛게 하는 것이라 이 法은 알기가 쉬운데 古人은 모두 領悟치 못햇서 지금이라도 漢詩家는 이 法을 學得함이 可하니 알고보면 어렵지 안은 것이라. 고로 象村集에도 「我朝人, 不得爲詞言者, 以爲, 聲音與中國異, 雖强爲之, 必不似余, 則以爲不然聲音出於自然, 非有中國外國之限, 言詞殊, 而押韻則同, 推一而可及」이라 햇서.
+詩를 評함에는 一方으로 민족성을 參照함이 可해. 成三問의 夷齊廟詩에
+寸草亦霑周雨露 愧君猶食首陽微
+라 한 것은 일반으로 賞讚하는 것이다. 그러나 그 立意가 초월한 듯하되 風格은 朝鮮人의 性味로서 넘우 曲盡하야 夷齊의 本志를 害함에 가까웟서. 朝鮮人은 中國人의 「採菊東離下 悠然見南山」가타 深邃한 神韻을 부리지 못하고 骨子的  取헤. 어찌 보면 便狹한 듯헤. 고로 申象村도 말하엿스되 「東方人, 氣稟褊淺, 少有取長, 卽自足故, 德業文章成就者, 少間有之, 皆不大」라 햇서. 그리하되 褊淺한 天性을 가진 것이 아니라 山谷에서 生長한 고로 民性이 山谷的으로 되엇서 朝鮮의 문명을 보아도 山谷에서 나서 山谷에서 자섯서. 外文化를 이용함도 亦然. 佛敎던지 儒敎던지 한번 수입하면 變化發達하지 안코＜98＞ 고대로 膠守하야 썩혓서. 그런 성질이 잇는 고로 그 사상으로 나온 詩는 모도 一便으로 몰아처 나갈 뿐. 不然이면 남의 것을 模倣할 뿐. 그럼으로 나는 前日 白頭山에서 口號로
+一上咸山望八道 水潺山疊間間家
+萬年此地人無數 活達男兒問幾家
+냐 한일도 잇섯노라.
+民族性 외에는 作者의 개성 時代相 등으로 꼰을 수 밧게 업서. 고로 제법 史的 가치를 허락할 者는 崔孤雲, 李奎報, 元天錫, 金時習 4,5人을 지목하기 可헤.
+보통 挹萃軒時를 絶唱이라 하나 천재는 천재로되 兒態가 흘러. 又 鄭圃隱을 雄健타 하나 그 豪氣가 정치의 맛을 더하야 고만 卑한 기색이 잇스니 入明國京城詩에
+內入日午忽傳宣 走上龍堀向御筵.
+聖訓近聞天咫尺 寬恩遠及海東邊.
+退來不覺流雙涕  感激唯知祝萬年.
+從此三韓蒙帝力  耕田鑿井摠安眠.
+이란 것은 참 卑屈性이 歷歷해.
+益齋
+稼亭
+牧隱은 一時의 壯한 시인이라 하나 그저 詩人席에 참여할 뿐. 元天錫은 實相 高麗末年의 대표적이니 그 耘谷集에
+三敎宗風本不差 較非爭是亂如蛙.
+一般是性俱無礙 何釋何儒何道耶.
+아 한것은 思想史의 魂이라. 數千年來 三敎統一은 오직 耘谷의 提唱이요 또 高麗末에 三敎相爭은 이 詩로 可慈할걸.＜99＞
+＜96-99＞

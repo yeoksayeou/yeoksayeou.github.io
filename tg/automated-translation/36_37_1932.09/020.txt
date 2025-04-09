@@ -1,0 +1,227 @@
+Magazine Title: 동광 제37호
+Publication Date: 1932년 09월 01일
+Article Title: 朝鮮小作令案의 反動性, 封建制度의 法律化와 小作人들의 立場如何 (The Reactionary Nature of the Korean Tenant Farming Ordinance Draft, the Legalization of the Feudal System, and the Position of Tenant Farmers)
+Author: 裵成龍 (Pae Sŏngnyong)
+Article Type: 논설 (Editorial/Opinion Piece)
+
+1
+It has been heard for a long time now that a Tenant Farming Ordinance (小作令) is to be enacted in Korea (朝鮮). Whether this will actually be enacted and implemented this autumn is something we cannot know for certain. Furthermore, it is said that a Tenant Dispute Mediation Ordinance is also being considered concurrently, so perhaps they might be implemented simultaneously, but what form these will actually take is something that cannot be conjectured today, when even the draft has not yet been publicly announced.
+Reportedly, the Korean Tenant Farming Ordinance is said to be enacted taking into consideration Japan's Tenant Farming Bill, the survey of Korean tenant farming customs (朝鮮小作慣行調査), and the response from the Korean Provisional Tenant Farming Investigation Committee (朝鮮臨時小作調査委員會). Also, based on fragments of opinions heard from authorities, one truly feels apprehensive even now about how much bias towards the interests of various rural strata this will impose.
+
+2
+Japan's Tenant Farming Bill is opposed by all of Japan's (日本) farmers and farmers' organizations; <2> Korea's tenant farming customs are based on the tenant farming system of the feudal era, combined with the harsh exploitative nature of capitalism; and the response from the Korean Provisional Tenant Farming Investigation Committee merely expresses the government's (官邊) attitude under the guise of improving tenant farming customs. Considering these various factors, there is no need to debate here whether the resulting Korean Tenant Farming Ordinance will guarantee the advantage of landlords (地主) or the advantage of tenant farmers (小作人). Especially in Korea, considering the 'special circumstances' of Korea when enacting any system means nothing more than inheriting feudal remnants (封建的遺習). Although Japan's Tenant Farming Bill faces opposition from farmers, the Korean Tenant Farming Ordinance draft, which uses it as reference material, proclaims consideration for Korea's age-old 'special circumstances,' making it certain that landlords' feudal rights will gain strong guarantees. Key points worth mentioning from Japan's Tenant Farming Bill are as follows:
+
+1.  Real Rightification of Tenancy Rights (小作權의 物權化): From now on, the tenancy relationship will not be one of lease (賃貸借), but will possess the nature of a real right (物權的 性質). A right called 'tenancy right' (小作權) will be established, which, even without undergoing special registration procedures, can be asserted against third parties at any time once the tenant land (小作地) is handed over.
+2.  Transfer and Sublease of Tenancy Rights (小作權의 讓渡 及 轉貨): Transferring tenancy rights to another person requires the landlord's consent, and subleasing (轉貨) is absolutely prohibited.
+3.  Right of First Refusal for Tenant Land (小作地의 優先買受權): When a landlord intends to sell tenant land, the tenant is granted the right of first refusal (先買權), requiring the landlord to notify the tenant with a set deadline.
+4.  Duration of Tenancy Rights (小作權의 存續期限): The minimum tenancy period is set at 5 years. If the landlord wishes to terminate the contract, they must notify the tenant of refusal to renew or changes in conditions between 6 months and 1 year before the expiration date.
+5.  Cancellation of Tenancy Rights (小作權의 取消): If one year's rent is in arrears, or if parts of each year's rent are continuously in arrears for two years, the landlord can demand payment with a deadline of at least 2 months. If the majority of the overdue rent is not paid within that period, the contract can be terminated (解除).
+6.  Compensation for Tenancy Rights (小作權의 賠償): When the contract is terminated and the tenant land is returned, the tenant can claim reimbursement for beneficial expenses (有益費) such as land improvement work (limited to those approved by the landlord). Also, if there are crops on the land at the time of return, the tenant can demand the landlord purchase the crops (作物買受). Furthermore, under the name 'miscellaneous work fee' (雜作料), if the landlord terminates the contract or refuses renewal, they must pay the tenant compensation for vacating the land (退耕料) within the range of 1 month's to 1 year's rent (1/12th of a year's rent).
+7.  Reduction and Exemption of Rent (小作料 減額 及 免除): Regarding rent, requests for reduction or exemption due to decreased harvest caused by unavoidable circumstances like crop failure <3> must be made at least 15 days before the start of harvest. The determination of fair rent is entrusted to the tenancy committee (小作委員會), crop inspection (檢見) cannot be refused, and if agreement is not reached, the method decided by the tenancy official (小作官) will be followed.
+8.  Revision of Rent (小作料 改定): As a method for determining permanent rent reduction and other tenancy conditions, the tenancy committee is tasked with this, and its decided conditions become the content of the contract for both parties. If there is dissatisfaction, the decision can be changed by a court (裁判所).
+9.  Other: Landlord's seizure (差押) of crops and prohibition of entry (禁入) to the land can be stopped or cancelled by the tenant depositing a reasonable amount of money (公託). Even if possession of the tenant land is terminated, to avoid losses related to crop harvesting, if the tenant provides a reasonable security deposit (保證金), they can engage in necessary activities for land use, harvesting, and management under a special provision for crop management (耕作物管理特別設置).
+
+If Korea's Tenant Farming Ordinance draft is to be based on this Japanese Tenant Farming Bill while considering Korea's actual customs, it will be nothing more than adding Korea's remaining feudal relationships (封建的關係) to the content of the Japanese bill. The differences between the two drafts are not yet known, but one example is that the minimum duration for tenancy rights is 5 years in the Japanese law, whereas the Korean ordinance draft is said to set it at a minimum of 3 years. It is unknown if such differences exist in other conditions. The tenancy committee [in Japan] is a purely autonomous body of tenants and landowners, serving as the final dispute resolution body. In Korea, it seems a government-appointed neutral committee system (官選中立委員制) will emerge under the Tenant Dispute Mediation Ordinance, likely enabling county chiefs (郡守) or police chiefs (警察署長) to enforce mediation. How large and numerous such differences will be cannot be known until after it is promulgated.
+
+3
+Now, even looking at the Japanese Tenant Farming Bill which serves as its basis, there is a great distance from the assertions of tenant farmers. The real rightification of tenancy rights has already been recognized in urban house lease (借家) issues for some time, so there is a sense that it is rather late. Regarding the most important condition in the tenancy issue, the rent rate (小作料率), there is no determination of a statutory rate, nor is there any decision on payment in kind (物納) or cash (金納). This acknowledges that there is no illegality whatsoever, no matter how high a rent the landlord demands. At the same time, payment in kind perpetuates the custom of the land tax payment in kind system (地租物納制度) under feudal rule, completely separating profit from land from capitalist investment activities and creating grounds for exorbitant collection (暴徵), which tenant farmers strongly oppose.
+Furthermore, regarding the issue of rent reduction or exemption, it only emphasizes mediation by a third party, completely disregarding the tenant farmer's livelihood issue as an entrepreneur (企業者). Therefore, tenant farmers argue from their entrepreneurial standpoint that when the tenant farmer cannot support their family, the rent should be fully exempted, or even if the harvest exceeds the tenant family's necessary food supply, the rent should not exceed that surplus amount.
+
+4
+In essence, the right of first refusal for tenant land (小作地 先買權) offers no benefit whatsoever to propertyless tenant farmers (無産小作人), and the deposit system (公託制度) against seizure (差押) and prohibition of entry (禁入) is nothing more than a 'pie in the sky' (畵中之餠). Moreover, all disputes between landlords and tenants are to be resolved only by government-appointed committees or direct government authority (官權). This merely clarifies the connection with the currently enforced Civil Code (民法) and does not constitute a <4> separate system as a tenant farming ordinance; even without a special decision, the place to receive judgment is already the court (裁判所). On top of that, if Korean tenant farming customs are considered at every turn, this amounts to nothing more than legalizing the landlord's rights under the existing system. This clashes (相刻) with the trends of the times and cannot be seen as a proper land relations system.
+Furthermore, a particularly problematic aspect even in the Japanese Tenant Farming Bill is that tenant disputes, which entirely arise as collective struggles (集團的 싸움), are treated solely as individual legal battles centered on contracts between individual landlords and tenants, completely ignoring the existence of tenant unions (小作組合) despite their growing power and strong confrontational stance. There is not a single word about collective agreements (團體協約), which is evidence (證左) of completely ignoring the actual existence of the farmer's movement (農民運動). It is not thought that the rights of tenant farmers will be guaranteed by the implementation of this ordinance (令). In essence, in the current land problem, the landlord is nothing more than a capital investor (資本投下者), and the actual entrepreneur (企業家) is the tenant farmer. Therefore, the so-called absolute right (絕對權) over land has always infringed upon the tenant farmer's entrepreneurial position. If a tenant farming ordinance is to be enacted, it must, in accordance with the trends of the times, at least approach the essence of capitalism. Despite this, being preoccupied only with borrowing feudal remnants (封建期의 遺習), legalizing and organizing them, and guaranteeing their continuation is indeed the absurdity of trying to handle everything through inertia (惰勢). At the very least, for a tenant farming ordinance to meet even the slightest expectations of tenant farmers, it must determine a maximum rent amount, stipulate payment in cash (金納), clearly guarantee protection against disasters, and recognize the right to collective agreement (團體協約權) and the right to dispute (爭議權). Furthermore, the right to cultivate (耕作權) should be for at least 7 or 8 years, and provisional measures like crop seizure (耕作物差押) and prohibition of entry to land (土地禁入) must be strictly forbidden. Only then can it be seen as an ordinance that clarifies the tenant farmer's actual position against the landlord's despotism based on feudal remnants, seeking the essence of capitalism. If feudal remnants are legalized, the means of controlling tenant farmers will become stronger, yet their traditional obligations remain unchanged; one wonders if this will not become another factor further intensifying future tenant problems. <5>
+
+**Summary**
+
+This 1932 editorial by Pae Sŏngnyong critiques the impending Korean Tenant Farming Ordinance proposed by the Japanese colonial government. Pae argues the ordinance is reactionary, merely legalizing feudalistic landlord-tenant customs under the guise of considering "Korean special circumstances." He points out its basis, the Japanese Tenant Farming Bill, already fails tenants by lacking rent caps, favoring payment-in-kind (reminiscent of feudal tribute), and ignoring collective bargaining rights crucial for tenant unions. The Korean version, expected to be even worse (e.g., shorter minimum tenancy duration), is seen as solidifying landlord power and offering illusory protections like the right of first refusal or deposit against seizure, ultimately doing little to improve the tenant farmer's precarious position as the actual agricultural entrepreneur and likely exacerbating rural conflict.
+
+From a historical perspective, the article offers a contemporary critique of Japanese colonial agrarian policy. It reveals the tension between the colonial state's attempt to manage rural unrest through legal means and the farmers' demands for fundamental changes rooted in capitalist principles (fixed cash rent, secure tenure, collective rights) rather than codified feudal practices. Historians would find Pae's analysis valuable for understanding the perceived inadequacies of colonial reforms, the persistence of feudal elements within the colonial economy, and the articulated grievances of the Korean tenant farmer class facing exploitation from both traditional structures and colonial capitalism.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+日本	일본	Ilbon
+裵成龍	배성룡	Pae Sŏngnyong
+
+**Glossary**
+
+小作令案	소작령안	Tenant Farming Ordinance Draft
+反動性	반동성	Reactionary nature
+封建制度	봉건제도	Feudal system
+法律化	법률화	Legalization
+小作人	소작인	Tenant farmer
+立場如何	입장여하	What is the position/stance? (Sino-Korean interrogative structure)
+벌서	벌써	Already (Older spelling of 벌써)
+들리는 바이다	들리는 바이다	It is heard that... (Formal narrative structure)
+하야	하여	Doing/And (Older conjunctive form of 하다)
+의중이라 하니	의중이라 하니	It is said to be under consideration
+오날	오늘	Today (Older spelling of 오늘)
+잇어	있어	Being/Existing (Older spelling of 있어)
+불허하는 바이다	불허하는 바이다	It does not permit/allow (Formal negative)
+듣건대	듣건대	Reportedly / According to what is heard
+참작하야	참작하여	Taking into consideration (Older form)
+쪼각쪼각으로	조각조각으로	Piece by piece / Fragmentarily
+얼마만치나	얼마만치나	How much / To what extent (Slightly archaic form)
+官邊	관변	Government side / Official circles
+有利	유리	Advantage / Benefit
+물론하고	물론하고	Regardless of / Not to mention
+遺習	유습	Lingering custom / Old habits / Remnants
+조우하고	조우하고	Encountering / Meeting with (often implies confrontation)
+잇지마는	있지마는	Although there is (Older spelling/form)
+묵고 묵은	묵고 묵은	Old and old / Age-old
+표방	표방	Claim / Advocacy / Professing
+小作權	소작권	Tenancy right
+物權化	물권화	Real rightification (Granting property-like rights)
+임대차	임대차	Lease / Renting
+何時에나	하시에나	At any time (Slightly archaic form)
+讓渡	양도	Transfer / Assignment
+轉貨	전화	Sublease (Specific term, often distinguished from 양도)
+優先買受權	우선매수권	Right of first refusal / Preemptive purchase right
+선매권	선매권	Right of first refusal (Abbreviated form)
+存續期限	존속기한	Duration period / Term of existence
+갱신거절	갱신거절	Refusal to renew
+發치	발치	Issue / Send out (Older grammatical form)
+取消	취소	Cancellation / Revocation
+체납하엿든지	체납하였든지	Whether (rent) was in arrears (Older verbal ending)
+催告	최고	Demand / Urging (Legal term)
+解除	해제	Termination / Cancellation (of contract)
+賠償	배상	Compensation / Damages
+有益費	유익비	Beneficial expenses (Expenses increasing asset value)
+상환	상환	Repayment / Reimbursement
+작물매수	작물매수	Purchase of crops
+雜作料	잡작료	Miscellaneous work fee (Specific term for compensation)
+解契	해계	Contract termination
+退耕料	퇴경료	Compensation for vacating farmland
+減額	감액	Reduction (in amount)
+免除	면제	Exemption
+수획고	수확고	Harvest amount / Yield
+늦어도	늦어도	At the latest
+檢見	검견	Crop inspection (Often for assessing rent)
+不調	부조	Disagreement / Failure to reach agreement
+小作官	소작관	Tenancy official
+改定	개정	Revision / Amendment
+영구적	영구적	Permanent
+위시하야	위시하여	Including / Starting with (Older form)
+此에	차에	To this / Regarding this (Archaic demonstrative)
+재판소	재판소	Court / Courthouse
+差押	차압	Seizure / Attachment (Legal)
+禁入	금입	Prohibition of entry
+공탁	공탁	Deposit (Legal)
+취소	취소	Cancellation
+경작물관리	경작물관리	Crop management
+점유	점유	Possession / Occupancy
+보증금	보증금	Security deposit
+업무	업무	Duty / Work / Business
+不外할 것이다	불외할 것이다	Will be nothing more than / Amount to no more than
+兩案	양안	Both drafts/proposals
+差違	차위	Difference / Discrepancy
+아즉	아직	Yet / Still (Older spelling of 아직)
+官選	관선	Government-appointed
+中立委員制	중립위원제	Neutral committee system
+군수	군수	County chief
+경찰서장	경찰서장	Police chief
+借家	차가	Rented house / House lease
+小作料率	소작료율	Tenant rent rate
+법정료율	법정료율	Statutory rate / Legally fixed rate
+물납	물납	Payment in kind
+금납	금납	Payment in cash
+地租物納制度	지조물납제도	Land tax payment in kind system
+暴徵	폭징	Exorbitant collection / Excessive levy
+도외시한 바다	도외시한 바다	It has disregarded / ignored (Formal)
+기업자	기업자	Entrepreneur / Enterpriser
+지지할	지지할	To support / Sustain
+전면	전면	Entirety / Full scope
+초과할지라도	초과할지라도	Even if it exceeds
+요컨대	요컨대	In short / In essence
+무산소작인	무산소작인	Propertyless tenant farmer
+畵中之餠	화중지병	Pie in the sky (Lit: picture of a rice cake) - idiom for something unrealistic
+관권	관권	Government authority / Official power
+相刻	상각	To clash / Conflict / Be contradictory
+넘지 않는 것이니	넘지 않는 것이니	As it does not exceed / As it is no more than
+集團的	집단적	Collective / Group-based
+싸움	싸움	Fight / Struggle / Dispute (Slightly older nuance, also means 'war')
+小作組合	소작조합	Tenant union / Tenant farmer association
+신장되고	신장되고	Is expanding / growing
+강경함에	강경함에	In being strong/firm/uncompromising
+불구하고	불구하고	Despite / Nevertheless
+개개	개개	Individual
+중심한	중심한	Centered on / Focused on
+개별적	개별적	Individual (adj.)
+단체협약	단체협약	Collective agreement / Collective bargaining agreement
+일언반구	일언반구	A single word or half phrase / Any mention
+삽언	삽언	Insertion of words / Mention
+證左	증좌	Evidence / Proof (Older form of 증거)
+令	령	Ordinance / Decree
+자본 투하자	자본 투하자	Capital investor
+실제	실제	Actual / Real
+기업가	기업가	Entrepreneur
+所爲	소위	So-called
+절대권	절대권	Absolute right
+침해하엿다	침해하였다	Violated / Infringed upon (Older ending)
+준하야	준하여	In accordance with / Following (Older form)
+닷지	닿지	To reach / Touch (Older spelling of 닿지)
+借來하기에	차래하기에	In borrowing (from past)
+급급하고	급급하고	Being preoccupied with / Hurrying about
+惰勢	타세	Inertia / Force of habit / Laziness
+만사	만사	All matters / Everything
+요리하랴는	요리하려는	Intending to manage/handle
+기함일 것이다	기함일 것이다	It will likely be strange/absurd
+적어도	적어도	At least
+최고 소작료액	최고 소작료액	Maximum tenant rent amount
+재해	재해	Disaster / Calamity
+단체협약권	단체협약권	Right to collective agreement
+쟁의권	쟁의권	Right to dispute / Right to strike
+경작권	경작권	Right to cultivate
+가처분	가처분	Provisional disposition / Temporary injunction (Legal)
+엄금하지	엄금하지	Strictly prohibit
+아니하면 안될 것이니	아니하면 안될 것이니	Must / It is necessary that... (Double negative emphasis)
+그리하야만	그리하여만	Only by doing so
+전제	전제	Despotism / Tyranny
+밝히는	밝히는	Clarifying / Revealing
+본질	본질	Essence / True nature
+구한 것	구한 것	Thing sought / What was pursued
+제어력	제어력	Controlling power / Power of restraint
+재래	재래	Traditional / Conventional / Pre-existing
+의무	의무	Duty / Obligation
+격화시키는	격화시키는	Intensifying / Aggravating
+재료	재료	Material / Factor / Ingredient
+
+
+---------------------------
+
+
+잡지명	동광 제37호
+발행일	1932년 09월 01일
+기사제목	朝鮮小作令案의 反動性, 封建制度의 法律化와 小作人들의 立場如何
+필자	裵成龍
+기사형태	논설
+
+朝鮮小作令案의 反動性, 封建制度의 法律化와 小作人들의 立場如何
+						裵成龍
+1
+조선에서 소작령이 제정된다는 것은 벌서 오래전부터 들리는 바이다. 이것이 과연 금년 가을에 제정 실시될는지는 우리의 꼭 알 수 없는 것이다. 그리고 또 소작쟁의 조정령도 병행하야 의중이라 하니 혹은 동시에 실시 될는지도 모르는 것이지마는 이가 과연 어떠한 형태를 가지고 나타날는지는 아직 그 초안이 공표되지도 아니한 오날에 잇어 추단을 불허하는 바이다.
+듣건대 조선의 소작령은 일본의 소작법안과 조선 소작관행 조사와 조선 임시 소작조사 위원회의 답신서 등을 참작하야 제정한다는 것이요 또 당국자의 의견으로써 쪼각쪼각으로 들리는 바에 의하면 그가 과연 농촌과 각 층의 이해에 얼마만치나 편파를 강제하게 될는지 실로 지금부터 무서움을 느끼는 바다.
+
+2
+日本의 소작법안은 日本의 농민, 농민단체의 모다 반대하는 바요,＜2＞ 조선의 소작관행은 봉건시대의 소작제도를 골자로 하야 자본주의의 가혹한 수탈성을 가미한 것이며 조선의 임시소작조사 위원회의 답신서는 소작관행을 개량한다는 의미로 官邊의 태도를 그대로 표명한 것이니 이 여러 가지를 참작하야 그에서 생겨나려는 조선 소작령이 지주의 有利를 보장할 것인지 또는 소작인의 有利를 보장할 것인지는 이에서 논의할 필요를 느끼지 않는 바다. 특히 조선에서는 어떠한 제도의 제정을 물론하고 조선의 특수사정을 참작한다는 것은 즉 봉건적 遺習을 계승한다는 의미 밖에는 아무것도 아니다. 日本의 소작법안이 농민들의 반대에 조우하고 잇지마는 그를 참고재료로 한다는 조선의 소작령안은 조선의 묵고 묵은 특수사정을 참작한다는 표방이 잇는 것만큼 지주들의 봉건적 권리가 유력한 보장을 얻게 될 것이 확실할 것이다. 이제 日本 소작법안의 골자로써 擧할 만한 것을 示하면 이러하다.
+
+1. 小作權의 物權化=지금부터의 소작관계는 임대차의 관계가 아니요 물권적 성질을 대하야 소작권이라는 권리가 확립되어 그는 특별한 등기수단을 밟지 않어도 소작지가 인도만 되면 何時에나 제삼자에게 대항한다는 것이다.
+2. 小作權의 讓渡 及 轉貨=소작권을 타인에게 양도할 시에는 지주의 승낙을 요하고 전화는 절대로 불허한다는 것이다.
+3. 小作地의 優先買受權=지주가 소작지를 매각하려 할 시에는 선매권을 부여하되 일정한 기한을 부하야 催告케 하는 것이다.
+4. 小作權의 存續期限=소작의 최단기한을 5개년으로 하되 지주가 계약을 종료하고저 할 시에는 기한 만료 전 6개월 내지 1년 전에 소작인에 대하야 갱신거절 又는 조건변경의 통지를 發치 아니하면 안된다.
+5. 小作權의 取消=1년분의 소작료를 체납하엿든지 2년을 계속하야 각년 소작료의 일부분을 체납하엿을 때에 지주는 2개월 이상의 기한을 부하야 납부를 催告하고 그 기한 내에 체납한 소작료의 대부분을 납부치 않을 시에는 계약을 해제할 수 잇다.
+6. 小作權의 賠償=계약을 해제하야 소작지를 반환할 시에 소작인은 토지개량공사 등 有益費(지주의 승낙한 것에 한함)의 상환을 청구할 수 잇고 또 소작지 반환 시에 작물이 잇으면 소작인은 지주에 대하야 작물매수를 청구할 수 잇다. 그러고 또 雜作料라 하야 지주가 解契, 갱신을 거절할 시에 소작인에 대하야 소작료 1년분 내지 1개월분(1년분의 12분지 1) 이상의 범위 내에서 退耕料를 지불케 한다.
+7. 小作料 減額 及 免除=소작료에 대하야는 흉작 등 불가항력에 의한 수획고에 감소를 이유로하야 소작료의 감액, 又는 면제를 요구하는 것은＜3＞ 수획착수일로부터 늦어도 15일 이전이라야 된다. 그리고 공정한 소작료의 결정은 소작위원회에 일임하되 檢見은 거절할 수가 없으며 협정이 不調할 시에는 소작관의 정하는 방법에 의한다.
+8. 小作料 改定=소작료의 영구적 감액을 위시하야 기타 소작조건을 결정하는 방법으로 소작위원회가 그 任에 당케하는 그 결정조건이 쌍방의 계약내용이 되게 하엿고 此에 불복하면 재판소에서 결정 변경할 수 잇게 되엇다.
+9. 기타=지주의 경작물 차압과 토지금입에 대하야는 소작인의 상당 금액 공탁으로 정지, 又는 취소할 수 잇다. 경작물관리 특별설치로는 소작지의 점유를 해제하얏을지라도 경작물 수획에 대한 손실을 피하기 위하야 소작인이 상당액의 보증금을 제공하면 토지의 사용, 수획, 及 관리상 필요한 업무에 종사할 수 잇는 것이다.
+
+조선의 소작령안은 이러한 日本 소작법안을 기초로 하야 조선의 실제관행을 참작하려는 것이면 이는 日本 소작법안의 내용에다가 조선의 잔존한 봉건적 관계를 가미하는 것에 不外할 것이다. 그 兩案의 差違로 드러나는 것을 아즉 모르는 바나 그 일례로써 소작권의 존속기한이 日本法은 최단 5년인데 조선령안은 최단 3년으로 되엇다 한다. 기타 제 조건에도 이러한 차이가 잇는지도 알 수 없으며 소작위원회는 소작인과 토지의 純자치단체인데 그가 최후에 분쟁조정기관이 되어 잇다. 조선에서는 관선 중립위원제가 소작조정령에 의하야 나타나서 군수나 경찰서장들이 강제조정이 가능할 모양이다. 그러한 차이가 얼마나 크고 많을는지는 그가 공포된 이후가 아니면 알 수 없을 바이다.
+
+3
+이제 우리는 그 기초로 한 日本 소작법안을 보기로 할지라도 소작인의 주장과는 큰 거리가 잇는 것이니 소작권의 物權化는 도시의 借家문제에 잇어 벌서부터가 인정되는 바이라 오이려 늦은 감이 없지 아니한 것이다. 그 소작문제에 잇어 최중요한 조건인 소작료율에 대하야 그 법정료율의 결정이 없고 또 물납 혹은 금납에 대하야 어떠한 결정이 없으니 이는 지주가 아무리 고율의 소작료를 받으려 할지라도 하등의 불법이 아님을 시인한 것인 동시에 물납은 봉건치하의 地租物納制度의 관습을 그대로 존속하는 것이라 토지에 대한 수익을 자본주의의 투자행위와는 아주 분리하야 暴徵을 자행하는 근거를 지어주고 잇는 것이니 소작인들의 크게 반대하는 바다.
+그리고는 소작료액의 감면문제에 잇어서도 오직 제삼자의 조정만을 중시할 뿐이요, 소작인을 한 기업자로서의 생활문제를 전연 도외시한 바다. 그러므로 소작인들은 그 기업자적 입장에서 소작인이 일가 생활을 지지할 수 없을 때에는 소작료를 전면 또는 수획이 소작인 일가의 필요식량을 초과할지라도 소작료는 그 초과액을 초과하지 못할 것을 주장하는 것이다.
+
+4
+요컨대 소작지 先買權은 무산소작인에게 아무런한 이익도 되지 못하는 것이요, 차압, 금입에 대한 공탁제도 일종의 畵中之餠에 不外하는 것이다. 그리고 지주 대 소작인의 모든 분쟁은 그 해결을 관선위원 또는 직접의 관권에서만 구하게 되엇으니 이런 것은 이미 현행되어 잇는 민법과의 연락을 좀 더 밝게 함에 불과한 것이요 소작법령으로의＜4＞ 別한 제도는 되지 못하는 것이며 또 특별한 결정이 없드래도 그 판결을 받을 곳은 재판소가 되어 잇는 것이다. 그런데다가 곳곳마다 조선의 소작관행을 참작한다면 이는 현행 제도에 의한 지주의 권리를 그대로 법률화 한 것에 넘지 않는 것이니 시대의 추향에 相刻하고 토지관계제도로는 볼 수 없는 것이다.
+그리고 또 日本 소작법안에서도 특히 문제 되는 바는 소작쟁의로 그 전부가 집단적으로 일어나는 싸움이라 소작조합의 세력이 신장되고 그의 대항적 세력은 매우 강경함에 불구하고 그의 존재를 완전히 무시하면서 오직 조작분쟁을 개개의 지주 대 소작인의 계약을 중심한 개별적의 법률싸움으로 보게 된 것이다. 단체협약에 대한 것은 일언반구의 삽언도 없는 터이니 이가 농민운동의 실제적 존재를 전연 무시한 證左이라 할 것이다. 그의 令의 실시가 소작인의 권리가 보장되리라고는 생각되지 안는다. 요컨대 현재의 토지문제에 잇어 지주는 한 자본 투하자에 넘지 않는 것이요, 실제의 기업가는 소작인이다. 그러므로 토지에 대한 所爲의 절대권은 늘 소작인의 기업자적 입장을 침해하엿다. 소작법령의 제정이 잇다면 그는 시대의 추향에 준하야 자본주의의 본성에라도 다 닷지 아니할 수 없는 것임에 불구하고 오직 봉건기의 遺習을 借來하기에 급급하고 그를 법률화하고 조직화하야 그의 존속를 보장한다는 것이야말로 惰勢로써 만사를 요리하랴는 것의 기함일 것이다. 적어도 소작령으로써 소작인의 조금이라도 기대하는 바가 되랴면 최고 소작료액을 결정하고 금납으로 되며 재해에 대한 보장이 분명하며 단체협약권, 쟁의권을 인정하여야 될 것이다. 그리고 또 경작권은 짧어도 7, 8년 이상으로 할 것이며 경작물차압, 토지금입 등 가처분을 엄금하지 아니하면 안될 것이니 그리하야만 봉건적 遺習에 의한 지주의 전제로부터 소작인의 현실적 입장을 밝히는 법령으로써 자본주의 본질을 구한 것으로 볼 수 잇을 것이다. 봉건적 遺習이 법률화하면 소작인의 제어력은 더 강해지고도 그 재래의 의무에는 변함이 없다 하면 앞으로 소작 문제를 더욱 격화시키는 한 재료가 되지 않을까 한다.＜5＞
+＜2-5＞

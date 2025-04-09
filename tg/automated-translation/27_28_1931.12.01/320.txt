@@ -1,0 +1,51 @@
+Magazine Title: 동광 제28호
+Publication Date: 1931년 12월 01일
+Article Title: 黨員인 줄 알고 密會者의 檢束 (Arrest of Secret Meeters Mistaken for Party Members)
+Author: Not specified
+Article Type: 소식 (News/Report)
+
+Arrest of Secret Meeters Mistaken for Party Members
+
+At a time when a wave of arrests was raging due to the Chosŏn Communist Party reorganization incident centered around Kyŏngsŏng Imperial University students, one day on Kwanghwamun Avenue (光化門通), a certain detective from the Pon-ch'o Police Station (本町署), having received advance intelligence that a "report" (레포) exchange was to happen there, spotted a certain higher common school student standing waiting for someone. Without a moment's hesitation, he seized the student and escorted him to the Pon-ch'o Police Station. After thoroughly investigating him amidst much commotion, the words that came out of the young man's mouth were reportedly the confession of a secret meeting (密會): he had been waiting for his girlfriend, a certain female student. <95>
+
+**Summary**
+
+This short news report describes an incident during a crackdown on suspected communist activity in colonial Seoul. A police detective, acting on intelligence about a clandestine meeting related to the Chosŏn Communist Party reorganization, arrested a high school student on Kwanghwamun Avenue. However, upon investigation, it was discovered the student was merely waiting to secretly meet his girlfriend. This anecdote highlights the atmosphere of suspicion and the heavy-handed policing during the period, where even innocent rendezvous could be mistaken for subversive political activity. For historians, it illustrates the pervasive nature of colonial surveillance and the paranoia surrounding communist movements, impacting everyday life and leading to potentially arbitrary arrests.
+
+**Named Entities**
+
+京城帝大學	경성제대학	Kyŏngsŏng Imperial University
+朝鮮共産黨	조선공산당	Chosŏn Communist Party
+光化門通	광화문통	Kwanghwamun Avenue
+本町署	본정서	Pon-ch'o Police Station
+
+**Glossary**
+
+黨員	당원	Party member
+密會者	밀회자	Person having a secret meeting; secret meeter
+檢束	검속	Arrest, detention, round-up
+再組織事件	재조직사건	Reorganization incident
+檢擧風	검거풍	A wave/trend of arrests
+맹렬하든	맹렬하던	Was fierce/raging (Older spelling/form of 맹렬하던)
+偵探	정탐	Spying, detective work, intelligence gathering
+刑事	형사	Detective (police)
+레포	레포	Report; likely refers to a clandestine exchange of information or a planned meeting/rendezvous (loanword origin unclear, possibly 'rapport' or 'report')
+高普學生	고보학생	Higher Common School student (equivalent to high school)
+猶餘	유여	Hesitation, delay, leeway
+부뜰어	붙들어	Seize, grab hold of (Older spelling/form of 붙들어)
+押送	압송	Escorting someone under arrest; transfer (of a prisoner)
+하야	하여	Doing; and then (Older connective form of 하여)
+잇엇다는	있었다는	That he was (Older spelling/form of 있었다는)
+密會	밀회	Secret meeting, rendezvous, tryst
+
+
+---------------------------
+
+
+잡지명	동광 제28호
+발행일	1931년 12월 01일
+기사제목	黨員인 줄 알고 密會者의 檢束
+기사형태	소식
+
+黨員인 줄 알고 密會者의 檢束
+京城帝大學生을 중심으로 한 朝鮮共産黨再組織事件으로 檢擧風이 맹렬하든 때, 어떤 날 光化門通. 거기서 「레포」가 서로 만난다는 것을 미리 偵探한 本町署 某 刑事는 때마츰 사람을 기다리고 서 잇는 某 高普學生을 보고 일분의 猶餘도 없이 부뜰어 本町署로 押送하엿다. 그리고 가진 야단을 다 하야 조사하여 본 결과 그 청년의 입에서 나온 말은 애인 某 女學生을 기다리고 잇엇다는 密會의 고백이엇다고. ＜95＞

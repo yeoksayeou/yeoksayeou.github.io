@@ -1,0 +1,119 @@
+**Header Section:**
+Magazine Title: 동광 (東光) 제9호
+Publication Date: 1927년 01월 01일
+Article Title: Katedro Esperanta (에쓰페란토講座) (Esperanto Lecture)
+Author: 김억 (金億)
+Article Type: 잡저 (Miscellaneous writing/Essay)
+
+**Body Text Translation:**
+<91>
+Esperanto Lecture
+Kim Ŏk
+
+(Translator's Note: The text below appears to be the introductory part of a serialized Esperanto lesson.)
+
+**Word Endings**
+
+One of the fundamental principles of Esperanto is that parts of speech are distinguished by fixed endings. This is a very important rule and one of the main reasons why learning Esperanto is easy. That is:
+
+All nouns end in -o.
+All adjectives end in -a.
+All derived adverbs end in -e.
+
+For example:
+*patro* (father, noun) — *patra* (fatherly, adjective) — *patre* (fatherly, adverb)
+*frato* (brother) — *frata* (brotherly) — *frate* (brotherly)
+*knabo* (boy) — *knaba* (boyish) — *knabe* (boyishly)
+*tablo* (table) — *tabla* (of a table) — *table* (like a table)
+*sano* (health) — *sana* (healthy) — *sane* (healthily)
+*beleco* (beauty) — *bela* (beautiful) — *bele* (beautifully)
+
+**Plural**
+
+The plural form is made by adding the ending -j to the singular form. For example:
+
+*patro* (father) — *patroj* (fathers)
+*patra* (fatherly) — *patraj* (fatherly, plural adjective)
+*knabo* (boy) — *knaboj* (boys)
+*knaba* (boyish) — *knabaj* (boyish, plural adjective)
+*tablo* (table) — *tabloj* (tables)
+*tabla* (of a table) — *tablaj* (of tables, plural adjective)
+*bela knabo* (beautiful boy) — *belaj knaboj* (beautiful boys)
+*granda tablo* (large table) — *grandaj tabloj* (large tables)
+
+<92>
+**Cases**
+
+Esperanto has only two cases: the nominative (subjective) case and the accusative (objective) case. All other cases are formed using prepositions. The nominative case is the basic form of the word itself. The accusative case is formed by adding the ending -n to the nominative case. For example:
+
+*La patro amas la filon.* (The father loves the son.)
+(Here, *patro* is the subject, so it is in the nominative case. *filon* is the object, so it is in the accusative case, formed by adding -n to *filo* (son).)
+
+*Mi vidas la patron.* (I see the father.)
+(Here, *patron* is the object, so it takes the accusative ending -n.)
+
+*Mi vidas la patrojn.* (I see the fathers.)
+(*patroj* is plural, and *patrojn* is the plural accusative.)
+
+*La patro donas libron al la filo.* (The father gives a book to the son.)
+(*libro* (book) is the direct object, so *libron*. *filo* (son) is the indirect object, indicated by the preposition *al* (to), so it remains in the nominative case.)
+
+*La filo donas la libron de la patro al sia amiko.* (The son gives the father's book to his friend.)
+(*libro* (book) is the direct object, so *libron*. *patro* (father) shows possession using the preposition *de* (of). *amiko* (friend) is the indirect object, indicated by *al* (to).)
+
+Adjectives agree in case and number with the noun they modify. That is, if the noun is plural, the adjective must also be plural (add -j); if the noun is in the accusative case, the adjective must also be in the accusative case (add -n). For example:
+
+*Mi vidas la bonan patron.* (I see the good father.)
+(*bonan* is the accusative singular of *bona* (good).)
+
+*Mi vidas la bonajn patrojn.* (I see the good fathers.)
+(*bonajn* is the accusative plural of *bona*.)
+
+*Mi legas bonajn librojn.* (I read good books.)
+(*bonajn* is accusative plural, *librojn* is accusative plural of *libro* (book).)
+
+**Summary**
+
+This article is the beginning of an Esperanto lesson by the prominent Korean poet Kim Ŏk, published in the magazine *Tonggwang* in 1927. It introduces fundamental Esperanto grammar points: the use of specific endings (-o for nouns, -a for adjectives, -e for adverbs), the formation of plurals (-j), and the use of the accusative case (-n). The lesson emphasizes the logical structure and ease of learning Esperanto. For historians, this piece is significant as it demonstrates the engagement of Korean intellectuals with internationalist ideas and movements, like Esperanto, during the Japanese colonial period. It reflects an aspiration for global communication and alternative cultural connections beyond the confines of the colonial reality and the Japanese linguistic sphere.
+
+**Named Entities**
+
+金億	김억	Kim Ŏk
+
+**Glossary**
+
+에쓰페란토	에스페란토	Esperanto (Older phonetic transcription)
+講座	강좌	Lecture, course
+어미	어미	Word ending, suffix
+법칙	법칙	Rule, principle
+명사	명사	Noun
+형용사	형용사	Adjective
+부사	부사	Adverb
+이러케	이렇게	Like this, in this way (Older spelling)
+복수	복수	Plural
+만드는법	만드는 법	How to make, method of formation
+격	격	Grammatical case
+주격	주격	Nominative case
+목적격	목적격	Accusative case (Objective case)
+전치사	전치사	Preposition
+사랑한다	사랑하다	To love
+본다	보다	To see
+준다	주다	To give
+책	책	Book
+읽는다	읽다	To read
+일치	일치	Agreement, concord (grammar)
+쉽다	쉽다	Easy
+
+
+---------------------------
+
+
+잡지명	동광 제9호
+발행일	1927년 01월 01일
+기사제목	Katedro Esperanta(에쓰페란토講座)
+필자	金億
+기사형태	잡저
+
+Katedro Esperanta
+						金億
+＜91-92＞

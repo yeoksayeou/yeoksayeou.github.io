@@ -1,0 +1,319 @@
+Magazine Title: 동광 제17호
+Publication Date: 1931-01-01
+Article Title: 不况一題 朝鮮의 不况은 世界의 不况은 언제 回頭? (One Topic on Depression: When Will the Depression in Chosŏn and the World Turn Around?)
+Author: 徐椿 (Sŏ Ch'un), 金佑枰 (Kim U-p'yŏng)
+Article Type: 논설 (Editorial/Op-ed)
+
+One Topic on Depression: When Will the Depression in Chosŏn and the World Turn Around?
+Will the Depression Recover in 1931? Sŏ Ch'un, Economics Editor, Tong-A Ilbo
+
+What are the causes of the depression assaulting Chosŏn (朝鮮)? Will those causes be eliminated next year? When will this severe depression begin to enter a recovery period? These are questions vexing everyone's mind today. What is Mr. Sŏ Ch'un's answer?
+
+1. Introduction
+The question, "Will the economic downturn recover in 1931?" is undoubtedly one that all of us, who have suffered through the downturn for many years, wish to know the answer to. However, this question itself belongs to the nature of prophecy, and as people who do not know the future, we cannot confidently assert and declare a perfectly accurate answer.
+
+Even so, since the future always proceeds in a chain relationship with the past and present, it is not entirely impossible to roughly guess what the future will be like by investigating the phenomena of the past and present. However, I would like to particularly emphasize the point that this is merely a guess about what the future holds, not a prophecy that it will definitely happen, and then proceed to roughly speculate on what the economic world will be like next year.
+
+2. A Rough Estimation of Next Year's Economy
+The phenomenon of an economic downturn does not just occur without any reason or cause; it necessarily arises from causes. It is like how an illness in the human body does not occur without a cause. <4> Therefore, just as an illness is cured when its cause is eliminated, it is a clear principle that the economic world will leave the downturn and head towards prosperity only when the causes of the downturn are removed. Here, just as doctors examine a patient, identify the cause, and then determine whether the cause can be eliminated, whether the patient can recover, cannot recover, or how long it will take to recover, we must first examine the causes of the current depression in Japan (日本), and consequently in Chosŏn. Then, regardless of how many causes there are, we need to see whether the majority of those causes are of a nature that can be eliminated by the end of this year or by the beginning of next year. This will be the closest way to roughly estimate, even if we cannot prophesy, whether the depression will recover in 1931 or not.
+
+3. Various Causes of the Recent Economic Downturn
+So, first, the need arises to investigate the causes of the economic downturn. Based on what I have heard and seen, I can summarize them as follows.
+There are five major causes of the depression that has struck Japan, and consequently Chosŏn.
+(1) The impact of lifting the gold embargo (金解禁). (2) The Hamaguchi (濱口) Cabinet's austerity policy (긴축정책) and encouragement of consumption reduction. (3) The global, especially the United States' (米國), economic downturn. (4) The decline in Japan's trade with East Asia (東洋) accompanying the crash in silver prices (銀價暴落). (5) The crash in rice prices (米價) due to an unprecedentedly large harvest. These are the five causes.
+
+4. The Impact of Lifting the Gold Embargo
+(1) Rise in Exchange Rate = Conversely, Fall in Prices
+From the establishment of the Hamaguchi Cabinet in July last year until January last year, due to the preparation for and implementation of lifting the gold embargo, the value of the Japanese Yen rose by about 12%. That is, 100 Japanese Yen, which was equivalent to 43 and 3/40 US dollars in July last year, became equivalent to 49 and a half US dollars after the embargo was lifted. In other words, the value of Japanese money rose by about 12% in about half a year. Such an increase in the value of money means, conversely, that prices will fall by about 12% due to this cause. To put it simply in terms of imported goods (輪入物品), before the embargo, 100 Japanese Yen could only buy US goods worth $43 and 3/40, but after the embargo, the same 100 Yen could buy goods worth $49 and a half, so don't imported goods fall by that much? And for this reason, exported goods (輪出品) also fall in price. As imported and exported goods fall, ordinary goods unrelated to import/export cannot avoid falling in price either.
+
+(2) Currency Contraction Accompanying Gold Outflow
+Most of the money used in Japan is Bank of Japan notes (日本은행권) (paper money) issued by the Bank of Japan. These Bank of Japan notes circulate as substitutes for the approximately 1.08 billion Yen (current amount at the time of lifting the embargo) worth of gold coins (金貨) and gold bullion (金塊) stored in the vaults of the Bank of Japan. Therefore, if gold flows out to foreign countries, the Bank of Japan notes are destined, in principle, to decrease by the amount of the outflow. Why do I say "in principle"? Because there is a so-called "system of issuance beyond the limit" (限外發行制度) that allows Bank of Japan notes to be issued to some extent without gold backing. <5> Therefore, there are cases where gold flows out to foreign countries, yet the circulation amount of Bank of Japan notes does not decrease. However, even issuance beyond the limit, under the current system, cannot be done limitlessly while completely ignoring the gold reserve ratio (金準備率). Consequently, when gold flows out, the paper money circulating within Japan inevitably decreases. Since the lifting of the gold embargo, about 300 million Yen worth of gold from Japan has already flowed out to foreign countries. As mentioned earlier, due to the system of issuance beyond the limit, the Bank of Japan notes circulating in the world have not decreased proportionally, but they have decreased somewhat.
+Thus, when currency (circulating money = mostly Bank of Japan notes) contracts accompanying gold outflow, it is a fixed principle that prices fall in a money-scarce world. So, the fall in prices also has a cause in this aspect. Furthermore, when money becomes scarce, not only does the interest rate tend to rise, but there are also many cases where money cannot be borrowed even by paying high interest. This is the fundamental reason why today's small and medium-sized merchants and manufacturers with weak credit (信用) and poor financial resources (자력) face financial difficulties (금융난).
+
+(3) Decrease in the Valuation of National Wealth
+The fact that prices fell while the value of the Japanese Yen (money) rose due to the lifting of the gold embargo means, in other words, that the valuation of Japan's national wealth (國富) decreased by about 12%. National wealth consists of two types: wealth in the form of 'money' and things representing 'money', and national wealth in the form of goods. This is just like how an individual's total assets include cash and wealth in things that can become money or represent money, as well as wealth in the form of goods. Now, if we assume Japan's national wealth is 13 billion Yen, wealth in the form of money is less than 2 billion Yen, and the rest is wealth in the form of railways, land, commodities, and other goods. If prices fall by about 12% due to the lifting of the gold embargo, this means that Japan's national wealth of 13 billion Yen decreases by about 10%, or 1 billion Yen. Therefore, as national wealth decreases like this, the wealth of each individual decreases correspondingly, leading to a decrease in general consumption power, i.e., purchasing power for goods. A decrease in consumption power will naturally lead (招致) to a fall in prices.
+Among the impacts of lifting the gold embargo, I will only mention the above three points.
+
+5. Austerity Policy and Consumption Reduction
+Reducing national finances is called fiscal austerity (재정긴축), and reducing individual finances is called consumption reduction (소비절약). However, whether reducing national finances or individual finances, the way it manifests outwardly is inevitably through not employing people who were previously employed or reducing the consumption of goods that were previously consumed. Not employing people who were employed results in job loss (실직) and unemployment (실업), and reducing the consumption of goods previously consumed leads to a decrease in consumption power for goods. Therefore, viewed from either perspective, it is a major cause of the economic downturn.
+
+6. Global, Especially the United States', Economic Downturn
+Currently, the economic downturn is not limited to Japan and Chosŏn; it is said to be a global downturn. There are reportedly three major causes for the global downturn. First, there is an overproduction (過剩) of various goods throughout the world. <6> Second, gold, the international currency, is concentrated (偏在) in only about 6 or 7 countries among the world's nations. Third, nations around the world are competing with each other to impose high tariffs (高率의 관세) on foreign goods to protect their own commerce and industry.
+Anyway, all these causes have led to a global economic downturn, and among them, the US economic downturn has the most significant impact on Japan. The US downturn has unique causes besides the common ones mentioned above, but there is no room to elaborate on them here. So why does the US downturn particularly affect Japan so much? Raw silk (生糸), the mainstay of Japan's export industry, accounts for a total export value of about 8-9 billion Yen, and the vast majority, over 90%, is exported to the United States. However, raw silk itself is close to a luxury item in any country, so its consumption decreases during times of depression. The price of raw silk, which was 1,300-1,400 Yen per 100 kin last year, plummeted to only 500-600 Yen this year. While lifting the gold embargo is one reason, the US economic downturn is also greatly related. Consequently, Chosŏn also felt the impact, and cocoons (繭), which cost 7-8 Yen per kwan last year, dropped to below 2 Yen this year.
+
+7. Decline in Japan's Trade with East Asia Due to the Silver Price Crash
+In East Asia, there are two major countries that use silver as currency: China (中國) and India (인도). China is a customer that buys about 400 million Yen worth of Japanese goods annually, and India is also a country that buys over 100 million Yen worth of Japanese goods. However, the crash in silver prices led to a fall in the currency value of these countries, which in turn reduced their purchasing power for Japanese goods. Consequently, this dealt a huge blow to Japan's trade with East Asia.
+
+8. Unprecedentedly Large Harvest
+Farmers are always in a socially weak position, lacking organizational power, and agricultural products, due to their natural characteristics, cannot have their production increased or decreased at will. Therefore, when prices fall, they tend to fall much more steeply than other industrial goods. This year, due to the economic downturn stemming from the aforementioned various causes, prices for cocoons (繭價), cotton (棉花價), vegetables (蔬菜價), etc., fell慘落 indescribably. Adding insult to injury, an unprecedentedly large harvest occurred throughout Japan and Chosŏn, causing rice prices to plummet慘落 to less than half of last year's level. Thus, in Chosŏn, polished rice (正米), which cost about 25 Yen per sŏk last year, is now in the 15-16 Yen range, and unhulled rice (正租), which cost about 7-8 chŏn per kŭn last year, is now only 3-4 chŏn per kŭn. According to what I hear, the total loss for farm households in Japan due to the crash in prices of major agricultural products like rice and cocoons amounts to about 700-800 million Yen, and in Chosŏn, it amounts to about 200 million Yen.
+
+9. Conclusion
+The effects of lifting the gold embargo are not of a nature to end in just one year. The austerity policy should be seen as continuing as long as this cabinet remains in power. There is no reason whatsoever to believe that the global economic downturn will recover in a short period. Unless special measures are <7> devised and implemented to drastically increase the demand for silver, there is little hope for silver prices to rise in the future. India might adopt a gold exchange standard starting next year, but that does not mean the fall in silver prices is not a blow to India. The effects of the global, especially the US, economic downturn and the fall in rice prices due to the unprecedentedly large harvest will likely manifest their impact more practically throughout most of next year rather than this year. From this standpoint, I believe that next year will also see a continuation of the economic downturn, at a level no less severe than this year. This is, ultimately, my personal speculation, so I am not asserting it with confidence that it will definitely happen.
+
+10. Postscript
+Then, the question naturally follows: around when will the economic recovery occur? This is an extremely difficult question. However, one thing that can be said refreshingly about this is that if, like the previous World War, a large-scale war breaks out in some corner of the world even now, while some may be crushed, an extraordinary boom might occur in another corner.
+Otherwise, an extraordinary boom is utterly unattainable. However, currently in Japan, measures such as (1) promotion of export trade, (2) development of the shipping industry, (3) attracting foreign tourists, (4) reducing production costs through industrial rationalization, and (5) unemployment relief measures are being devised and implemented. Perhaps when all these measures begin to show effects, the economy might improve slightly. However, even for these measures to yield results, it might be 2-3 years from now – this is also just a guess. (November 19, 1930, 1:00 AM)
+
+Where is the US Depression Headed? Kim U-p'yŏng, Bachelor of Economics (USA)
+
+1. Foreword
+Over the past 1-2 years, the tide of economic depression has swept relentlessly, engulfing not only the lands of Europe but also America and East Asia. Indeed, the stagnation of international trade is a reality, and the ranks of the unemployed in each country only grow day by day. Interest rates have fallen, and prices have dropped. Thus, the pressing issue in every country is when the economic prosperity will reappear. Facing 1931, what will become of the US economy, which holds the utmost importance in the international economic sphere? Until last summer, there were many optimists regarding the depression. It was said that if only this autumn's agricultural situation maintained a normal state, the economy would recover. However, agricultural prices continue <8> their downward trend, and the instability of the stock market persists unchanged, so the "this autumn" theory has turned into "next autumn." It seems likely that such predictive theories are mostly self-serving "anticipations" hoping for prosperity. Research methods have not yet advanced enough to realize so-called economic control. Therefore, in drafting this discussion, I intend only to discuss the causes and phenomena of the depression and point out the "tendencies" of the economic world.
+
+2. Causes of the Economic Downturn
+Since 1893, the United States has experienced four major economic crises. Generally, they repeated the same historical course (道程). In 1907, it was a minor one, with general industrial activity decreasing by 14% compared to normal conditions, but in 1920, being the post-war crisis, it decreased by as much as 27%. Averaging these gives 19.3%. However, the current crisis is estimated to be about a 20% decrease as of August this year.
+Furthermore, considering the duration of these four downturns, calculating the period from the peak of the economy to the trough, the one like 1907 lasted only 13 months, while the longest, like 1921, lasted 23 months. Averaging the duration of these four downturns gives about 19-odd months. So, what about the duration of the current downturn? Since it started in June 1929 [Note: The text says 1927, but context suggests 1929, leading into the crash], based on the depression records of the past 40 years, compared to the shortest duration of 19 months, the recovery period should be January 1931; compared to the longest duration of 23 months, it should be May 1931.
+Such duration issues vary depending on the economic circumstances of the time, making it difficult to generalize (논단). This is because the causes of the downturns differ. The 1921 downturn was primarily caused by the influence of the commodity market, while the current slump originated in the stock market. That is, the commodity market crash of 1921 is incomparable to the current one. The lowest price level in June 1921 was a 44% drop compared to May of the previous year, but the price level in August this year is merely a 14% drop compared to the same period last year. As for the stock market, in 1920, the stock price decline took a full year, whereas in 1929, the crash occurred within one month. In other words, the 1920 downturn resulted from the expansion (팽창) of the commodity market, while this time, high stock market prices were the direct cause of the crisis (現出). Therefore, it seems true that credit tightening (신용의 긴축) and interest rate cuts (금리 인하) were realized more rapidly (급속히) compared to 1921.
+Let's show again through statistical figures that this current crisis originated not in the commodity market but in the stock market.
+According to the excellent American economic magazine, the Annalist:
+Price Index (1913=100)
+August 1929 148.6
+September 147.6
+October 145.5
+November 141.8
+December 141.3
+January 1930 139.8
+February 137.4 <9>
+March 134.0
+April 133.6
+May 132.1
+June 128.5
+July 123.0
+August 122.8
+
+According to the table above, compared to August last year, August this year shows only a 17.3% decrease.
+Now let's compare the stock price index.
+Stock Price Index (Monthly Average 1926=100)
+[Table data missing in the provided text]
+According to the table above, indeed the degree of decline reaches 30% to 40%. [Note: Referring to the missing table data]
+Thus, considering the statistical figures above, it is proven that the cause of the current crisis lies not in the commodity market but in the stock market.
+
+3. Phenomena of the Economic Downturn
+So, what is the state of the US economic downturn brought about (초래된) by the turmoil (동요) in the stock market? Let's examine it.
+(1) Industrial Production Index (Manufacturing & Mining)
+[Table data missing in the provided text]
+This statistic is based on the Federal Reserve Bulletin, calculated with 1923-25=100.
+Now, let's look at the statistics for the business cycle index.
+(2) Business Cycle Index, 1913=100
+According to the Annalist magazine <10>
+[Table data missing in the provided text]
+According to the table above, compared to the lowest point of 83.9 in 1924, the lowest point until August 1930 is 82.1. Compared to March 1921, which is said to be the 'record' low of the crisis period, with an index of 81.6, there is not much difference. Based on both the industrial production index and the general business cycle index tables, one can easily infer the current extent of the US depression. Expressed numerically, it is said to be about a 15% decline.
+
+4. Trends in the Economic World
+Based on all the statistical tables discussed above, let's discuss the bright and dark sides of the general economic world. On the bright side, although the stock market turmoil is still ongoing, it is gradually entering a period of stability. Large banks in major cities are in a sound (건전한) state, and interest rates have dropped significantly. Although the number of failures (파탄) among regional banks is said to be considerable, compared to the stock market crash, sluggish foreign markets, and difficulties in the agricultural market (곤란), it is not that critical (치명적이 아닌). Particularly, the securities market (증권시장) is solid (건실하야), with great absorption capacity (소화력이 多大하며) for high-grade securities, and ample availability of funds (자금의 여유가 綽綽하다). Conversely, the depression started in the stock market and has spread (及하얏다) to various industrial sectors. Thus, due to the slump (부진) in the construction industry (건축업), decrease in automobile production, and reduced profits across all sectors of society (제반사회), the number of unemployed is increasing daily and monthly. Furthermore, the difference (差違) between wholesale prices (도매물가) and retail prices (소매물가) is severe. Wholesale prices have decreased by about 15% compared to last year, but retail prices have not even reached half of that decrease. Due to fluctuations in domestic prices and the global market downturn, foreign trade performance for the first 8 months of this year, compared to last year, shows a 22.3% decrease in exports and a 27.8% decrease in imports. Thus, the total trade volume shows a 24.9% decrease. While general business is like this, the agricultural market situation is even more severe. The 'famine of abundance' (豊의 흉년) has become a headache in the US as well, and it is a fact that rural purchasing power has become extremely weakened (쇠약하게), further deepening the depression.
+The bright and dark sides discussed above merely analyze the current economic dynamics (동태). In a word, it means that the 'balance' (『뺄랜스』) of the industrial world has not yet been established. The recovery of the economy will be determined by how the industrial 'balance' settles. In this sense, it is said that the arrival of economic recovery will likely be around next autumn. (1930, 11, 13) <11>
+
+**Summary**
+
+The article, comprised of two parts by Sŏ Ch'un and Kim U-p'yŏng, analyzes the severe economic depression gripping Chosŏn (Korea), Japan, and the world, particularly the US, in late 1930. Sŏ Ch'un attributes the depression affecting Chosŏn and Japan to five main factors: Japan's lifting of the gold embargo (raising the yen's value, causing deflation and currency contraction), the Hamaguchi cabinet's austerity policies (reducing spending and employment), the global downturn (especially impacting Japanese silk exports to the US), the crash in silver prices (hurting trade with China and India), and plummeting agricultural prices due to bumper crops. He pessimistically predicts the downturn will continue through 1931, seeing no short-term relief for these causes, suggesting recovery might take 2-3 years barring a major war. Kim U-p'yŏng focuses on the US depression, arguing it originated primarily from the 1929 stock market crash, unlike the 1921 recession which stemmed from commodity markets. He presents statistical data showing significant drops in stock prices and industrial/business indices, noting falling trade, unemployment, and the severe impact of low agricultural prices, despite stable banks and low interest rates. He concludes the US economy is still unbalanced and recovery likely won't begin until the autumn of 1931.
+
+From a historical perspective, the article is significant as it provides a detailed contemporary economic analysis by Korean intellectuals during the colonial period. It clearly shows how Chosŏn's economy was perceived as directly tied to and impacted by Japanese policy (gold standard, austerity) and global events filtered through Japan. The specific discussion of causes like the gold embargo, silver crash, and agricultural price collapse affecting Chosŏn offers valuable insight into the lived economic realities and analytical frameworks used by Koreans under Japanese rule. The pessimism about recovery reflects the deep impact of the Great Depression on the colony.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+東亞日報	동아일보	Tong-A Ilbo
+徐椿	서춘	Sŏ Ch'un
+日本	일본	Japan
+濱口內閣	하마구치 내각	Hamaguchi Cabinet
+米國	미국	United States / America
+東洋	동양	East Asia / The Orient
+中國	중국	China
+인도	인도	India
+金佑枰	김우평	Kim U-p'yŏng
+Annalist	애날리스트	Annalist
+聯邦準備公報	연방준비공보	Federal Reserve Bulletin
+
+**Glossary**
+
+不况	불황	Economic depression, recession
+回頭	회두	To turn around, recover (lit. turn head)
+回復	회복	Recovery (used alongside 恢復)
+恢復	회복	Recovery (used alongside 回復)
+엄습하는	엄습하는	Assaulting, raiding (older spelling/form of 엄습하다)
+제거	제거	Removal, elimination
+推究	추구	Investigation, inquiry
+대강	대강	Roughly, generally, outline
+斟酌	짐작	Guess, speculation, estimation
+明年	명년	Next year
+景氣	경기	Economic condition, business climate
+金解禁	금해금	Lifting the gold embargo
+긴축정책	긴축정책	Austerity policy
+소비절약	소비절약	Consumption reduction, saving
+銀價暴落	은가폭락	Silver price crash
+米價	미가	Rice price
+襲來	습래	To strike, attack, raid
+爲替	위체	Foreign exchange rate (Older Korean reading/usage for 환율)
+騰貴	등귀	Sharp rise in price/value
+低落	저락	Fall, drop (in price/value)
+輪入	윤입	Import (Older term/Hanja for 수입)
+輪出	윤출	Export (Older term/Hanja for 수출)
+金流出	금유출	Gold outflow
+通貨收縮	통화수축	Currency contraction
+日本은행권	일본은행권	Bank of Japan notes (paper money)
+限外發行	한외발행	Issuance beyond the limit (referring to currency issuance exceeding reserves)
+유통액	유통액	Amount in circulation
+금융난	금융난	Financial difficulties, credit crunch
+國富	국부	National wealth
+평가	평가	Valuation, assessment
+招致	초치	To cause, lead to, invite
+실직	실직	Losing one's job
+실업	실업	Unemployment
+過剩	과잉	Excess, surplus, overproduction
+偏在	편재	Uneven distribution, concentration in one area
+高率	고율	High rate (e.g., tariff)
+관세	관세	Tariff, customs duty
+生糸	생사	Raw silk
+고치(繭)	고치	Cocoon (繭 is Hanja for cocoon)
+正米	정미	Polished rice
+正租	정조	Unhulled rice (rice before polishing)
+의연히	의연히	Still, persistently, as before
+주식시장	주식시장	Stock market
+공황	공황	Crisis, panic (economic)
+최정상	최정상	Highest peak, summit
+최저	최저	Lowest point, minimum
+여하	여하	How things are, circumstances, conditions
+상이하다	상이하다	To be different
+폭락	폭락	Crash, steep fall (price)
+팽창	팽창	Expansion, inflation
+現出	현출	Appearance, manifestation
+신용의 긴축	신용의 긴축	Credit tightening
+금리 인하	금리 인하	Interest rate cut
+급속히	급속히	Rapidly, quickly
+지수	지수	Index (numerical indicator)
+초래된	초래된	Brought about, caused
+동요	동요	Turmoil, unrest, fluctuation
+건전한	건전한	Sound, healthy
+파탄	파탄	Failure, bankruptcy, collapse
+곤란	곤란	Difficulty, hardship
+치명적	치명적	Fatal, critical, deadly
+증권시장	증권시장	Securities market
+건실하야	건실하여	Being solid, sound (older spelling conjugation of 건실하다)
+소화력	소화력	Absorption capacity (market context)
+綽綽하다	작작하다	To be ample, abundant
+及하얏다	급하였다	Reached, extended to, affected (older spelling/form of 급하다/미치다)
+건축업	건축업	Construction industry
+부진	부진	Slump, stagnation, sluggishness
+제반사회	제반사회	All aspects of society
+도매물가	도매물가	Wholesale price
+소매물가	소매물가	Retail price
+差違	차위	Difference, disparity (older term/Hanja for 차이)
+쇠약하게	쇠약하게	Weakened, enfeebled
+동태	동태	Dynamics, movement, state (of affairs)
+뺄랜스	밸런스	Balance (loanword, older phonetic spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제17호
+발행일	1931년 01월 01일
+기사제목	不况一題 朝鮮의 不况은 世界의 不况은 언제 回頭?
+기사형태	논설
+
+不况一題 朝鮮의 不况은 世界의 不况은 언제 回頭?
+1931年에는 不况이 回復될까?     東亞日報 經濟部長 徐椿
+
+朝鮮을 엄습하는 불황의 원인이 어디 잇는가? 그 원인은 明年에는 제거가 될까? 언제부터나 이 심각한 불황이 회복기에 드러갈까. 이런 문제는 오늘 모든 사람의 머리를 썩이는 문제다. 徐椿君의 해답이 果如何.
+
+1. 題首
+『1931년에는 불경기가 회복될까?』하는 문제는 多年을 두고 불경기 속에서 시달려 오는 우리로서는 누구나 다 알고 싶어하는 문제인 것만은 틀림이 없을 것이올시다. 그러나 이 문제는 그 자체의 성질이 일종 예언에 속하는 것으로서 앞 일을 모르는 사람으로서는 도저히 적중하게 마쳐낸다는 자신을 가지고 단언해 말슴드릴수는 없는 것이올시다.
+비록 그러타고 할 지라도 장래는 항상 과거와 및 현재와 연쇄관계를 가지고 진행하는 것인 즉 과거와 현재의 事象을 推究해 가지고 장래가 어떠케 되리라는 것을 대강 짐작해 볼 수가 도모지 없는 것은 아닐 것이라는 것이올시다. 그러나 이것은 어디까지든지 將來事如何에 대한 짐작에 지나지 못하는 것이요 꼭 그러리라고 하는 예언은 아니라는 一點에 대해서 특히 주의의 말슴을 드리고 나서 明年의 경제계가 어떠케 될까를 대강 짐작해서 말슴드려볼까 합니다.
+
+2. 明年景氣에 對한 大綱의 斟酌
+불경기의 현상은 그저 아무 이유와 및 원인이 없이 생기는 것이 아니라 반듯이 원인이 잇어 생기는 것이올시다. 마치 사람의 몸에 나는 병이 원인 없이는 아니 생기는 것과 같읍니다.＜4＞따라서 병의 원인이 제거되어야 병이 낫는 모양으로 불경기의 원인이 제거되어야 경제계가 불경기로부터 떠나서 호경기로 향할 것은 명백한 이치올시다. 여기서 마치 저 의사들이 환자를 진찰해 가지고 그 원인을 알아본 후에 그 원인이 제거될 가능성의 유무를 보아 가지고 나올 수 잇다든가 못 낫는다든가 또는 낫기까지에는 시일이 얼마나 걸린다든가 하는 모양으로 우리는 몬저 현재의 日本, 따라서 朝鮮의 불경기의 원인을 살펴본 후에 다음 그 원인이 멫이든지 그것은 막론하고 그 원인의 대부분이 금년의 年末 이내 혹은 明年初 까지에 제거될 수 잇는 성질의 것인가 아닌가를 보면 이것이 즉 1931년에는 불경기가 恢復될까 아니될까를 예언까지는 못한다 할지라도 대강을 짐작하는 가까운 길일 것이올시다.
+
+3. 最近의 不景氣의 諸原因
+그러면 먼저 불경기의 원인을 進究해 볼 필요가 생기는데 이에 대해서 내가 혹은 듣고 혹은 본 것을 종합해 말해보면 이러하오이다.
+日本, 따라서 朝鮮에 襲來한 불경기는 大別해서 다섯가지를 들 수가 잇습니다.
+(1) 金解禁의 영향. (2) 濱口內閣의 긴축정책과 밋 소비절약의 장려. (3) 세계적 특히 米國의 불경기. (4) 銀價폭락에 伴하는 日本의 對 동양무역의 減退. (5) 未曾有의 대농작에 의한 米價의 폭락 등등의 다섯가지 올시다.
+
+4. 金解禁의 影響
+(1) 爲替의 騰貴=그 反面은 物價의 低落
+작년 7월 濱口內閣의 성립 이래로 작년 1월까지의 金解禁의 準備及斷行에 의하야 日本의 圓貨가치가 약 1割 2分가량 올라갓습니다. 즉 작년 7월에는 米國弗貨로 43弗4分之3과 맞먹든
+日本원화 100원이 解禁 후에는 49弗 반과 맞먹도록 되엇습니다. 즉 약 반년 동안에 日本돈이 약 1割 2分가량이나 가치가 올라갓습니다. 이와 같이 돈의 가치가 올라가는 것은 즉 그 반면에 잇어 물가가 이것을 원인으로 약 1할 2분 가량 低落할 것을 의미하는 것이올시다. 얼른 알기 쉽게 輪入物品에 대해서 말슴드리면 解禁 전 같으면 日本돈 100원 가지고는 米國 물품의 43弗40分之3 짜리 밖에 더 못 사든 것인데 解禁 후에는 같은 100원으로 49弗 반어치나 살 수 잇게 되는 것이니까 輪入物品이 그만치 떠러지지 아니합니까. 그러고 이러한 이유에 의하야 輪出品도 低落됩니다. 如斯히 輪入品과 輪出品이 低落하면 이에 따라서 輪出入에 관계없는 보통물품도 低落됨을 면치 못하는 것이올시다.
+
+(2) 金流出에 伴한 通貨收縮
+日本에서 씨우는 돈의 대부분은 日本은행에서 발행한 日本은행권(지폐)이올시다. 이 日本은행권은 日本은행 창고 속에 잠기어 잇는 약 10억 8천만원(解禁 당시의 現在高)에 상당한 金貨及金塊의 대신으로 나와 도는 것이올시다. 그런고로 금이 외국으로 유출 해버리면 유출하는 그만치 日本은행권이 원칙상 감소될 운명을 가지고 잇습니다. 왜 『원칙상』이라고 하는고 하니 그 어느 정도까지는 『금』이 없이도 日本은행권을 발행할 수 잇다는 소위 『限外發行制度』라는 것이 잇기 때문으로 금은 외국으로 유출하고도 日本은행권의＜5＞유통액은 줄지 아니하는 경우가 잇기 때문이올시다. 그러나 限外發行이라는 것도 현 제도에 잇어서는 金準備率을 전혀 무시하고 무제한으로 발해할 수는 없는 고로 결국은 금이 유출하면 日本 내에 유통하는 지폐가 감소함을 면치 못하는 것이올시다. 그런데 金解禁 이래 지금까지 日本의 금은 발서 약 3억원이나 외국으로 유출 햇습니다. 아까도 말한 바와 같이 限外發行制가 잇기 때문으로 세상에 도라 다니는 日本은행권은 이에 비례해서 줄지는 안앗지마는 그도 다소간 줄어들엇습니다.
+如斯히 금유출에 伴해서 통화(유출화폐=그 대부분은 日本은행권)가 축소되면 돈바른 세상에 물가가 低落되는 것은 정한 이치이니까 물가의 低落은 이 방면에도 원인이 잇는 것이요. 또한 돈이 바르게 되면 금리가 올나가는 경향을 가질 뿐 아니라 아모리 금리를 비싸게 주고도 돈을 얻어 쓸 수 없는 경우가 많아집니다. 이것이 즉 신용이 薄弱하고 자력이 貧乏한 今日의 중소상공업자가 금융난을 당하는 근본의 이유올시다.
+
+(3) 國富의 評價減少
+金解禁에 의하야 日本의 원화(돈)가치가 올라가는 반면로으 물가가 低落되엇다는 말은 환언하면 日本의 국부의 평가가 약 1할 2분 가량 감소하는 것을 의미하는 것이올시다. 國富에는 『돈』과 밋 『돈』을 대표하는 것으로서 된 富와 물건으로 된 國富와의 두 가지가 잇습니다. 마치 一個人의 재산을 통트러 가지고 보면 그 중에 현금과 밋 돈이 될 수 잇는, 돈을 대표하는 것으로 된 富와 물건으로 된 富가 잇는 것이나 다름이 없습니다. 그런데 日本의 國富를 가령 130억원으로 잡는다고 하면 그 중에는 돈으로 된 富는 20억원 미만이요 그 외에는 전부 철도, 토지, 상품 그他의 물건으로 된 富올시다. 그런데 金解禁에 의하야 물가가 약 1할 2분 가량 低落된다고 하면 이것은 곳 日本의 國富 130억원이 그 약 1할의 10억원이나 감소하는 것을 의미합니다. 그러니까 如斯히 國富가 감소하니만치 각 개인의 富도 그만치 감소해 지는 고로 일반의 소비력 즉 상품에 대한 구매력이 그만치 감소하는 것이올시다. 소비력의 감소는 물가의 低落을 招致할 것은 물론이올시다.
+金解禁의 경향 가운데서는 上記 세 가지만 들고 말겟습니다.
+
+5. 緊縮政策과 消費節約
+국가의 살림을 주리는 것을 재정긴축이라고 하고 개인의 살림을 주리는 것을 소비절약이라고 합니다. 그런데 국가의 살림을 주리든 개인의 살림을 주리든 그것이 표면으로 나타나는 것을 보면 쓰든 사람을 아니 쓰거나 소비하든 물건을 주려 쓰는 것으로 나타날 수 밖에 없습니다. 그런데 쓰든 사람을 아니쓰면 그것은 실직 及 실업을 結果하고 소비하든 물건을 주려쓰면 그것은 상품에 대한 소비력의 감소로 되어 나오이 것이니까 어느 편으로 보나 불경기의 一大 원인이올시다.
+
+6. 世界的 特히 米國의 不景氣
+지금은 日本과 朝鮮만에 불경기가 잇는 것이 아니라 세계적으로 불경기하다고 합니다. 그런데 세계적 불경기에는 大別하야 3大원인이 잇다고 합니다. 그 1은 세계를 통하야＜6＞각종 상품의 생산이 過剩하다는 것이요. 그 2는 국제적 화폐인 금이 세계 열국 중 어떤 6,7개국에만 몰리워서 偏在하다는 것이요. 그 3은 세계 열국이 각각 자국의 상공업을 보호하기 위하야 외국품에 대해서는 高率의 관세를 매는 것을 서로 경쟁한다는 것이올시다.
+하여간 이러한 모든 원인에 의하야 세계적 불경기를 招致하얏는데 그 중에서도 日本에 가장 많은 영향을 주는 것은 米國의 불경기올시다. 米國의 불경기에는 상기 공통원인 밖에 독특한 원인도 잇지마는 茲에는 이것을 詳說할 여유가 없습니다. 그러면 어찌하야 米國의 불경기가 특히 日本에 많은 영향을 주느냐. 日本 輪出業의 太宗인 生糸는 총 輪出額이 약 89억 되는데 그 대부분 즉 9할 이상이 米國으로 輪出되는 것이올시다. 그런데 그 生糸는 그 자체가 어느 나라에서나 이것이 사치품에 가까운 것인 고로 불경기 시대에는 소비가 감소합니다. 작년에는 每百斥, 1천3,4백원하든 生糸가 금년에는 5,6백원밖에 더 못 가도록 폭락된 데는 金解禁이라는 원인도 잇지마는 또한 米國의 불경기에도 크게 관계가 된 것이올시다. 그리하야 朝鮮서도 그 영향을 받아서 작년에는 每貫 7-8원가든 고치(繭)가 금년에는 2원 이하로까지 떨어지게 되엇습니다.
+
+7. 銀價暴落에 依한 日本의 對東洋貿易의 減退
+동양에는 은을 돈으로 쓰는 2大國이 잇는데 그것은 中國과 인도올시다. 그런데 中國은 매년 약 4억원어치나 日本물품을 사 주는 고객이요 인도 역시 1억원 이상의 日本물품을 사 주는 나라올시다. 그런데 銀價의 폭락은 此等 여러나라의 화폐가치의 低落을 招致하고 다시 그것은 이 여러나라의 日本물품에 대한 구매력을 감소시켯습니다. 딿아서 日本의 東洋貿對易에 막대한 타격이 되엇습니다.
+
+8. 未曾有의 大豐作
+농민은 항상 사회적으로 약한 지위에 처해 가지고 단결력도 없는 데다가 농산품은 그 자연의 성질상 增感을 임의로 할 수도 없는 것인 고로 물가가 떨어질 때에는 다른 공업품보다 월등히 대폭으로 떨어지는 것인데 금년에는 前記諸 원인으로부터 오는 불경기 때문으로 繭價, 棉花價, 蔬菜價 할 것 없이 형언할 수 없이 慘落한 데다가 업친데 덮치기로 日本 朝鮮을 통하야 미증유의 대풍작을 만난고로 쌀값은 작년의 반이하로 慘落 되엇습니다. 그리햐야 朝鮮내의 시세로 작년에는 1石 약 25원가든 正米가 금년에 15,6원대에 잇게되고 正租는 작년에는 약7,8전 가든 것이 금년에는 斤3,4전에 지나지 못하게 되엇습니다. 듣는데 의하면 日本서는 米繭등 주요 농산물의 폭락으로 농가전체의 손해총액이 약 7-8억원에 달한다고 하고 朝鮮서도 약 2억원 내외에 달한다 합니다.
+
+9. 結論
+金解禁의 영향도 단 1년으로 그칠 성질의 것이 아니올시다. 긴축정책은 이 내각에 계속하는 限까지는 계속할 것으로 보아야 합니다. 세계적 불경기도 단시일에 恢復될 것으로 볼 何等의 이유가 없습니다. 은의 필요를 激增시킬 특별한 방도가＜7＞講究實施되지 아니하는 限까지는 銀價도 前途에 올라갈 餘望이 적습니다. 인도가 아마 내년부터는 金爲替制를 쓰게 될 것이지마는 그러타고 銀價의 低落이 인도에 대한 타격이 아니라고 할 수 없습니다. 세계적, 특히 米國의 불경기와 未曾有의 대풍작에 의한 米價低落의 영향은 사실 금년보다도 내년의 대부분을 통하야 그 영향이 실제로 나타날 것이라고 보는 것이 옳을 것이올시다. 나는 이러한 견지에 서서 내년 1년도 역시 금년보다 못지 아니한 정도로 불경기가 계속될 것으로 봅니다. 이것은 어듸까지든지 나 一個人의 짐작이니까 꼭 그러리라는 자신을 가지고 단언하는 것은 아니올시다.
+
+10. 附言
+그러면 경기의 恢復은 어느 때 쯤이냐 하는 의문이 뒤를 이어 생길 것은 정한 이치인데 이것은 지극히 어려운 문제올시다. 그러나 여기 대헤서 한마듸 快하게 할 수 잇는 말은 이제라도 마치 전자의 세계대전 모양으로 세계의 어느 한 모퉁이에 대규모의 전쟁이 이러난다 하면 찌껴지는 놈은 찌껴저도 다른 한 모통이에는 非常한 호경기가 이러 날 것이올시다.
+그러치 아니한 限에 잇어서는 非常한 호경기는 도저히 바랄 수 없으나 현재 日本에 잇어서도 (1)輪出貿易의 증진책. (2)해운업의 발전책. (3)外客誘致策. (4)산업합리화에 의한 생산원가의 減下策. (5)실업구책의 대책 등을 講究 실시하는 중에 잇으니까 이 모든 대책이 효과를 나타낼 때 쯤하면 경기가 약간은 호전하리라고 볼 수 잇을지오. 그런데 이 모-든 대책이 효과를 내는것도 역시 일로부터 2,3년 후일 것으로 보면 어떠할가 하고 역시 짐작만 합니다. (1930년 11월 19일 오전 1시)
+
+米國의 不况은 어디로 가나      米國經濟學士 金佑枰
+
+1. 머릿말
+과거 1,2년내 潮水와 같이 밀리는 불경기의 바람은 그칠 바를 모르고 歐洲천지는 물론, 米洲 及 동양까지 휩쓰러 버렷다. 즉 국제무역의 부진도 사실이려니와 각국의 실업군은 날로 증가할 뿐이다. 금리도 低落되엇스며 물가도 낙하되엇다. 그리하야 각국을 통하야 경제계의 호황은 何時에나 출현될까 하는 것이 現下의 현실문제라 한다. 이에 국제경제계의 最중요성을 가진 米國의 경제계가 1931년을 당하면 어떠케 될 것인가? 去夏節까지도 불황에 관한 낙관논자가 다수이엇다. 만일 今秋 農形이 평상적 상태만 유지하게 된다면 경기는 회복되리라 하얏섯다. 그러나 농산물가는 의연히＜8＞낙하의 추세를 보이며 주식시장의 불안정도 如一하게 지속되는 고로 今秋論이 변하야 來秋가 되고 말엇다. 이러한 推斷論이 모두 호황을 기대하는 아전인수격의 『앤티씨페이숀』인 것이 사실일가 한다. 아즉 그 소위 경제적 통제를 실현할 만큼 연구방법이 진보되지 못하얏다. 이에 본론을 草함에 다만 불황의 원인과 현상을 논하야 경제계의『텐덴시』를 지적함에 그치려 한다.
+
+2. 不景氣의 原因
+米國에는 1893년爾來 4회의 중요한 경제공황이 잇섯다. 그리하야 대개는 동일한 역사적 도정을 반복하얏다. 1907년에는 경미한 그것으로서 일반산업적 활동은 평시상태에 비하야 1할4분이 감소하얏섯으나 1920년은 즉 전후공황이 엇슴으로 2할7분이나 감소되엇든 것이다. 此等을 평균하면 1割9分3厘 라고 한다. 그러나 금번의 공황은 금년 8월 계산으로 약2할減이라고 한다.
+更히 此等 4개 불경기의 기한을 고찰하건대 즉 경기의 최정상으로부터 최저까지의 기간을 계산하건대 1907년도와 如한 것은 13개월에 불과하얏고 1921년도와 如한 최장기로 말하면 23개월간이나 되엇다. 此等 4개의 불경기간을 평균하면 약 19개월强이라 한다. 그러면 금번 불경기의 기한은 何如한가. 1927년 6월부터 시작이니까 과거 40년의 불경기 기록에 의하야 최단기 19개월에 비하면 1931년 1월이 회복기가 되어야 하며 최장기인 23개월에 비하면 1931년 5월이 되어야 할 것이다.
+如斯한 기한문제는 그 당시의 경제적 사정여하에 의하야 차이가 잇으매 일률적으로 논단하기 難한 것이다. 즉 불경기의 원인이 각각 상이하다는 때문이다. 1921년의 불경기로 말하면 중요한 원인이 상품시장의 영향으로 인하얏스며 금번의 불황은 주식시장에 기인한 바이다. 즉 1921년 상품시장의 폭락은 금번 그것에 비하야 문제도 되지 못한다. 1921년 6월의 최저물가는 전년 5월에 비하야 4할 4분이 하락되엿으나 금년 8월 물가는 전년 同期의 물가에 비교하야 겨우 1할 4분의 低落에 불과하다. 주식시장으로 말하면 1920년도에는 주가하락이 1개년을 要하얏섯으나 1929년도에는 1개월간에 폭락이 되엇다. 즉 1920년도는 상품시장의 팽창결과로 불황이 現出되엇으며 금번에는 주식시장의 高値가 공황의 직접원인이 된 것이다. 그럼으로 신용의 긴축과 금리 인하가 1921년도에 비하야 급속히 실현된 것도 사실일까 한다.
+다시금 금번 공황이 상품시장에 기인된 것이 아니라 주식시장 그것에 의함이라는 것을 통계적 數字에 의하야 표시하면 이러하다.
+米國의 우수한 경제잡지(Annalist)에 의하건대-
+물가지수(1913년을 100으로 정함)
+1929년 8월  148.6
+
+9월  147.6
+
+10월  145.5
+
+11월  141.8
+
+12월  141.3
+
+1930년 1월  139.8
+
+2월  137.4 ＜9＞
+
+3월  134.0
+
+4월  133.6
+
+5월  132.1
+
+6월  128.5
+
+7월  123.0
+
+8월  122.8
+
+右表에 의하건대 작년 8월에 비하야 금년 8월은 1할 7분 3리의 저하에 불과하다.
+이에 주식가격지수를 비교하야 보면 이러하다.
+주식가격지수(1926년 매월 평균을 100으로)
+右表에 의하건대 실로 그 하락의 정도는 3할 내지 4할에 달한다.
+如斯히 이상 統計數字에 의하야 고찰하건대 금번 공황의 원인이 상품시장에 잇지안코 주식시장에 잇다는 것이 증명되는 바이다.
+
+3. 不景氣의 現象
+그러면 주식시장의 동요에 의하야 초래된 米國의 불경기의 현상은 何如한 정도에 在한가 검토하야 보자.
+(1)산업생산지수(제조공업 及 광업)
+右 통계는 聯邦準備公報(Federal Reserve Bulletin)에 의한 것으로서 1923-25년을 100으로 하야 算定한 것이다.
+이에 경기지수의 통계를 말하면 이러하다.
+(2)경기지수, 1913년을 100으로 정함
+『애날리스트』지에 의함＜10＞
+右表에 의하건대 1924년의 최저 83.9에 비하야 1930년 8월까지의 최저는 82.1이며 1921년의 3월은 공황기의『레코드』라 하는데 그 지수 81.6에 비하야 大差가 無하다. 이에 산업생산지수와 일반경기지수의 양표에 의하건대 現下 米國 불황의 정도를 용이하게 추측할 수 잇을 것이다. 數字로 이것을 표시한다면 약 1할 5분의 低落이라고 한다.
+
+4. 經濟界의 趨勢
+右에 논한 바 모든 통계표를 토대로 일반경제계의 光明面과 暗黑面을 논하면 이러하다. 光明面으로 말하면 주식시장의 동요는 아즉도 계속중이나 점차 안정기에 入하게 되엇으며 대도시의 대은행은 건전한 상태로서 금리는 극히 저하 되엇다. 지방 은행의 파탄이 상당한 수에 달한다고 하나 주식의 폭락, 외국시장의 부진, 농산시장의 곤란에 비하야 그다지 치명적이 아닌 것이다. 특히 증권시장은 건실하야 고급증권이면 소화력이 多大하며 자금의 여유가 綽綽하다. 이에 반하아 불경기는 주식시장에서 시작하야 각 방면산업에 及하얏다. 그리하야 건축업의 부진, 자동차 생산의 감소라든지 제반사회의 이익감소로 인하야 실업자의 수가 日加月增하는 것이다. 뿐만 아니라 도매물가와 소매물가와의 差違가 심한 것이다. 卸賣物價는 작년에 비하야 약 1할 5분 減이나 소매물가는 此의 半分에도 及하지 못하얏다. 내국물가의 변동 及 국제시장의 불경기로 인하야 외국무역에 잇어 금년 8개월간의 성적을 작년 그것에 비하건대 輪出에 잇어서 2할 2분 3리 減이며 輪入은 2할 7분 8리 減이다. 그리하야 輪出入 총계에 의한다면 2할 4분 9리의 감소이다. 일반실업계는 이러하거니와 더욱히 심한 것은 농산물 시장일다. 豊의 흉년은 米國에서도 두통거리가 되어 농촌구매력이 극도로 쇠약하게 된 것이 사실이며 불경기를 更一層 심각하게 한다고 한다.
+이에 이상 논한 바 光明面과 暗黑面은 다만 現下의 경제적 동태를 분석하얏습에 불과한 것이다. 一言으로 논한다면 산업계의 『뺄랜스』가 아즉도 잡히지 못하얏다는 의미일까. 경기의 회복은 산업계의 『뺄랜스』여하에 의하야 결정될 것이다. 이러한 의미에서 경기의 도래는 來秋頃이 되리라고 한다.(1930, 11, 13)＜11＞
+＜4-11＞

@@ -1,0 +1,91 @@
+Magazine Title: 동광 제32호 (東光 第32號)
+Publication Date: 1932-04-01
+Article Title: 米國의 通貨膨漲은 世界景氣를 回復할 수 잇을까 (Can US Inflation Restore the World Economy?)
+Author: 延禧專門敎授 崔淳周 (Professor Ch'oe Sun-ju, Yonhui Professional School)
+Article Type: 논설 (Editorial/Treatise)
+
+Can US Inflation Restore the World Economy?
+						Professor Ch'oe Sun-ju, Yonhui Professional School
+
+It is believed that US inflation might restore the US domestic economy somewhat. However, even if the US economy recovers, it does not seem likely that the world depression will be turned around overnight. In October last year, the US President had private bankers organize a National Credit Corporation (전국 金融會社) with $500 million to rescue failed banks. As this plan did not yield significant results, the second measure for economic recovery involves establishing the Reconstruction Finance Corporation (復興金融會社) with a capital of $2 billion, revising the Federal Reserve regulations to expand the scope of rediscounting, and liberalizing lending. While the National Credit Corporation was initiated by private bankers, this time, with the Reconstruction Finance Corporation, the state is acting directly. Furthermore, the scope of relief has been broadened to encompass banks, railways, commerce, agriculture, and other general businesses. First, let's examine the details of this policy.
+
+Tariff Barriers
+
+1. Following the Purchasing Power Theory
+There are two main arguments in academia regarding economic recovery measures: (1) The Economic Equilibrium Theory <33> and (2) The Purchasing Power Theory. The basis of the former is that economic life will proceed smoothly and satisfactorily if the activities in various economic sectors maintain equilibrium. However, imbalances between consumption and production, manufactured goods and agricultural products, production costs and prices, imports and exports, and prices and finance manifest as economic depression. For example, if the production of agricultural goods increases while the output of manufactured goods using these as raw materials decreases, the result is a depression. On the other hand, proponents of the Purchasing Power Theory argue that to overcome the depression, the central bank should use a low-interest-rate policy to expand financial credit and lower the rediscount rate for ordinary banks to encourage lending. Consequently, monetary inflation occurs, increasing the purchasing power of the public. Manufacturers, in order to keep up with purchasing power, can expand.
+
+2. Reasons for Monetary Inflation
+Those who adhere to the aforementioned Purchasing Power Theory implement monetary inflation to restore the economy. As the US proceeds with this policy now, European financiers adopt an attitude of fear and skepticism. The reason is that after the last Great European War, Germany and France implemented severe monetary inflation policies, resulting in the abandonment of the currency used before the war and the adoption of new currencies, leading to a complete renewal of their financial systems. However, US authorities justify the current policy by stating that it aims to prevent further price declines rather than promoting price hikes through inflation. They claim that current prices have fallen below pre-war levels and are still trending downward. They say they will implement monetary inflation within the limits of this so-called objective of preventing price declines. Thus, they claim they will not repeat the bitter experiences that various European countries went through last time.
+
+3. Being US-Centric
+As the US President stated in his message sent to Congress on January 4th, the US believes it can restore its financial world independently of the situations in other countries around the world due to its vast resources. Also, simultaneous with implementing this policy, they establish a high tariff policy to block the influx of foreign goods. Therefore, even if the US achieves its intended objectives using the monetary inflation policy, it will likely not bring about the heaven-sent gospel of prosperity to the global economic world.
+
+Therefore, it is difficult for a policy attempting to control prices through artificial means and based on US-centric principles, established temporarily, to overcome the severe global depression. Rather, wouldn't the path to recovering from the crisis be to internationally break down high tariff barriers to allow free trade, preserve the equilibrium of the economic structure so that prices govern production, and completely extinguish war debts and reparations to rescue Germany? <34>
+<33-34>
+
+**Summary**
+
+Professor Ch'oe Sun-ju analyzes the US policy of monetary expansion (inflation) under the Hoover administration, intended to combat the Great Depression. He explains it's based on the "Purchasing Power Theory" but expresses skepticism about its effectiveness for global recovery. While acknowledging it might help the US domestically, he argues the policy is inherently US-centric, especially when coupled with high tariffs, and ignores the need for international economic equilibrium. He contrasts this with the negative experiences of inflation in post-WWI Europe (Germany, France). Ch'oe suggests that true global recovery requires international cooperation, including lowering tariffs for free trade, stabilizing economic structures, and resolving war debts and reparations, particularly for Germany. From a Korean colonial history perspective, the article is interesting as it shows a Korean academic at a prominent institution (Yonhui) engaging with complex global economic issues and US policy debates during the Japanese occupation. It reveals an internationally aware perspective critical of nationalistic economic policies and advocating for global solutions, reflecting a sophisticated level of discourse present in colonial Korea despite the political constraints.
+
+**Named Entities**
+
+米國	미국	Miguk (United States)
+歐洲	구주	Kuju (Europe - inferred from 歐洲財政家)
+獨逸	독일	Togil (Germany)
+佛蘭西	불란서	Pŭllansŏ (France - older name)
+延禧專門	연희전문	Yŏnhŭi Chŏnmun (Yonhui Professional School)
+崔淳周	최순주	Ch'oe Sun-ju
+全國 金融會社	전국금융회사	Chŏn'guk Kŭmyung Hoesa (National Credit Corporation)
+復興金融會社	부흥금융회사	Puhŭng Kŭmyung Hoesa (Reconstruction Finance Corporation)
+聯邦銀行	연방은행	Yŏnbang Ŭnhaeng (Federal Reserve Bank)
+
+**Glossary**
+
+通貨膨漲	통화팽창	Monetary inflation
+景氣	경기	Economic condition, business cycle (here referring to depression/recovery)
+回復	회복	Recovery, restoration
+挽回	만회	Recovery, retrieval (used similarly to 回復)
+잇을까	있을까	Will there be? / Can it? (Older spelling of 있을까)
+하야	하여	Doing, in order to (Older spelling/form of 하여)
+코저 하엿다	하고자 하였다	Tried to, intended to (Older spelling/form of -고자 하였다)
+購買力論	구매력론	Purchasing Power Theory
+經濟均衡論	경제균형론	Economic Equilibrium Theory
+均衡	균형	Equilibrium, balance
+不景氣	불경기	Economic depression, recession
+再割引	재할인	Rediscount (banking term)
+貸出	대출	Loan, lending
+物價高騰	물가고등	Price surge, high inflation
+物價下落	물가하락	Price decline, deflation
+戰前	전전	Pre-war
+米國本位	미국본위	US-centric principle, America-first
+關稅障壁	관세장벽	Tariff barrier
+招來치	초래치	Will not bring about/invite (Older form combining 초래하다 + 않다)
+戰債	전채	War debt
+賠償	배상	Reparations, compensation
+蕩滅	탕멸	Extinguish, wipe out, eradicate
+
+
+---------------------------
+
+
+잡지명	동광 제32호
+발행일	1932년 04월 01일
+기사제목	米國의 通貨膨漲은 世界景氣를 回復할 수 잇을까
+필자	延禧專門敎授 崔淳周
+기사형태	논설
+
+米國의 通貨膨漲은 世界景氣를 回復할 수 잇을까
+						延禧專門敎授 崔淳周
+米國의 通貨膨漲은 米國內 景氣를 多少 回復할 줄 안다. 그러나 米國景氣가 挽回된다면 世界不景氣가 一朝에 轉回될 것 같지 않다. 작년 10月에 米大統領이 民間銀行家를 시켜 5億弗의 전국 金融會社를 組織하야 破綻된 銀行들을 救濟코저 하엿다. 이 계획이 큰 효과를 못낸고로 第2次 景氣挽回策으로 資本金 20億弗의 復興金融會社設立과 聯邦銀行규정을 改定하야 再割引의 범위를 擴張하고 貸出을 자유로 하자는 것이다. 전국 金融會社는 民間銀行家의 率先으로 된 것이지만 今般 復興金融會社는 國家가 직접 활동하는 것이다. 또는 救濟範圍를 넓혀 銀行, 鐵道, 商業, 農業, 기타 全般事業에 미치게 하엿다. 먼저 이 政策 내용을 살피면,
+關稅障壁
+
+1. 購買力論을 追從
+景氣挽回策으로 學界에 두 가지 주장이 잇다. (1) 經濟均衡論과＜33＞ (2) 購買力론이다. 前者의 論據는 經濟 각방면의 활동이 均衡을 保持하면 經濟生活이 平坦하고 만족한 진행을 할 것이다. 그러나 消費와 生産, 製造品과 農産品, 生産費用과 物價, 輸入과 輸出, 物價와 金融의 不均衡이 不景氣의 現象을 나타낸다. 實例를 들면 農産物의 생산은 증가하는데 이것을 原料로 사용하는 製造品의 産出이 감소하면 그 결과가 不景氣가 되는 것이다. 그 反面에 購買力論者는 주장하기를 不景氣를 打開하려고하면 中央銀行이 低金利政策을 써 金融信用을 擴張하며 普通銀行의 再割引率을 低下하야 貸付를 助長할 것이다. 따라 通貨膨漲이 되어 民間의 購買力이 증가된다. 製造家는 購買力에 追從키 위하여 擴張할 수 잇다는 것이다.
+
+2. 通貨膨漲의 理由
+上述한 購買力論을 信奉하는 이들이 景氣를 回復코저 通貨膨漲을 시킨다. 今般에 米國이 이 政策을 진행하자 歐洲財政家들은 恐怖와 懷疑의 태도를 취한다. 그 이유는 去番 歐洲大戰 后 獨逸, 佛蘭西에서 激甚한 通貨膨漲策을 행한 결과 戰前에 사용하던 通貨를 抛棄하고 新貨幣를 採用하매 그 나라들의 金融制度를 전부 更新하기에 이르럿다. 그런데 米國當局者는 現政策을 辯明하기를 通貨를 膨漲하야 物價高騰을 助長함보다 下落을 방지코저 함이다. 現時物價는 戰前보다 더 下落되엇고 아즉도 下向되는 중이라 한다. 이 소위 物價下落 防止 목적의 限度內에서 通貨膨漲을 하겟다 한다. 그리하야 去番 歐洲 各國에서 지난 쓰라린 경험을 反覆치 않겟다 한다.
+
+3. 米國本位인 것
+米大統領이 1月 4日에 議會에 보낸 敎書에 말한 바와 같이 米國은 무릇 廣汎한 資源이 잇으므로 他世界 各國情勢에 獨立하야 財界를 回復할 수 잇다는 것을 믿는다. 또 이 政策을 행하는 동시 高關稅政策을 세워 外國商品侵入을 막는다. 그러므로 米國이 通貨膨漲政策을 써서 所期의 목적을 達한다고 그러케 世界經濟界에 天來福音인 繁榮을 招來치 못하겟다.
+그러므로 人爲的 政策으로 物價를 지배코저 하는 점과 米國本位를 基礎로 하야 臨時로 세운 政策이 深刻한 世界的 不景氣를 打開키는 어렵다. 차라리 國際的으로 高關稅障壁을 打破하야 自由貿易이 行케 하며 經濟組織의 均衡을 보전하야 物價가 생산을 좌우케 하며 戰債와 賠償을 전혀 蕩滅하야 獨逸을 救濟함이 恐慌挽回策이 아닐까.＜34＞
+＜33-34＞

@@ -1,0 +1,540 @@
+Magazine Title: 동광 제27호
+Publication Date: 1931년 11월 10일
+Article Title: 訓民正音의 本文, 朝鮮文字의 歷史的 考察(9) (The Text of Hunminjŏngŭm, A Historical Study of Korean Script (9))
+Author: 金允經 (Kim Yun'gyŏng)
+Article Type: 논설 (Editorial/Essay)
+
+The Text of Hunminjŏngŭm, A Historical Study of Korean Script
+						Kim Yun'gyŏng
+
+4. The Text of Hunminjŏngŭm
+
+It is difficult to know when the study of the Correct Sounds (正音, Jŏngŭm) began, but as mentioned before, it was completed in the 12th month of the year Kyeyu (癸亥), the 25th year [of King Sejong's reign] (1443 AD). It was then sent down to the Vernacular Script Office (諺文廳, Ŏnmun ch'ŏng) for three years, where it underwent discussion, experimentation, and interpretation by various renowned scholars of the time. It was promulgated when it was deemed "sufficiently complete." That is, in the 9th month of the year Pyŏngin (丙寅), the 28th year of King Sejong (1446 AD), Hunminjŏngŭm was promulgated to the world and implemented for the entire nation. The Annals of King Sejong (世宗實錄, Sejong Sillok), under the entry for the 9th month, Autumn, of the 28th year, records the following:
+
+"This month, the Correct Sounds for the Instruction of the People (訓民正音, Hunminjŏngŭm) was completed. The royal preface states: The sounds of our country's language are different from those of China (中國, Chungguk) and are not mutually intelligible with Chinese script. Therefore, among the ignorant populace, there have been many who, having something they wish to say, have ultimately been unable to express their feelings. I, feeling pity for this, have newly created twenty-eight letters, wishing to enable everyone to learn them easily and use them conveniently for daily life.
+ㄱ Guttural sound (牙音), like the initial sound of the character 君 (kun). Written doubled, like the initial sound of the character 蚪 (kyu).
+ㅋ Guttural sound, like the initial sound of the character 快 (k'wae).
+ Guttural sound, like the initial sound of the character 業 (ŏp).
+ㄷ Lingual sound (舌音), like the initial sound of the character 斗 (tu). Written doubled, like the initial sound of the character 覃 (tam).
+ㅌ Lingual sound, like the initial sound of the character 呑 (t'an).
+ㄴ Lingual sound, like the initial sound of the character 那 (na).
+ㅂ Labial sound (脣音), like the initial sound of the character * [Asterisk in original, likely 彆 (pyŏl)]. Written doubled, like the initial sound of the character 步 (po).
+ㅍ Labial sound, like the initial sound of the character 漂 (p'yo).
+ㅁ Labial sound, like the initial sound of the character 彌 (mi).
+ㅈ Dental sound (齒音), like the initial sound of the character 卽 (chŭk). Written doubled, like the initial sound of the character 慈 (cha).
+ㅊ Dental sound, like the initial sound of the character 侵 (ch'im).
+ㅅ Dental sound, like the initial sound of the character 戌 (sul). Written doubled, like the initial sound of the character 邪 (sa).
+ᅙ Glottal sound (喉音), like the initial sound of the character 挹 (ŭp).
+ㅎ Glottal sound, like the initial sound of the character 虛 (hŏ). Written doubled, like the initial sound of the character 洪 (hong).
+ㅇ Glottal sound, like the initial sound of the character 欲 (yok).
+ㄹ Semi-lingual sound (半舌音), like the initial sound of the character 閭 (ryŏ).
+ Semi-dental sound (半齒音), like the initial sound of the character * [Asterisk in original, likely 穰 (yang)].
+ Like the medial sound (中聲) of the character 呑 (t'an).
+ㅡ Like the medial sound of the character 卽 (chŭk).
+ㅣ Like the medial sound of the character 侵 (ch'im).
+ㅗ Like the medial sound of the character 洪 (hong).
+ㅏ Like the medial sound of the character 覃 (tam).
+ㅜ Like the medial sound of the character 君 (kun).
+ㅓ Like the medial sound of the character 業 (ŏp).
+ㅛ Like the medial sound of the character 欲 (yok).
+ㅑ Like the medial sound of the character * [Asterisk in original, likely 穰 (yang)].
+ㅠ Like the medial sound of the character 戌 (sul).
+ㅕ Like the medial sound of the character * [Asterisk in original, likely 彆 (pyŏl)].
+Final sounds (終聲) reuse the initial sounds (初聲). If ㅇ [Original uses ㆁ (옛이응) represented as ] is written consecutively below a labial sound, it becomes a light labial sound (脣輕音). If initial sounds are used together, they are written side by side (並書). The same applies to final sounds. , ㅡ, ㅗ, ㅜ, ㅛ, ㅠ are attached below the initial sound. ㅣ, ㅓ, ㅏ, ㅑ, ㅕ are attached to the right. All characters must be combined to form a sound. Adding one dot to the left indicates the departing tone (去聲); two dots indicate the rising tone (上聲); no dots indicate the level tone (平聲). The entering tone (入聲) uses the same dot system but is abrupt and fast (促急)."
+
+Furthermore, immediately following this, the preface by Chŏng Inji (鄭麟趾), the Minister of Rites (禮曹判書), is published.
+
+"Where there are the natural sounds of Heaven and Earth, there must naturally be the writing corresponding to them. Therefore, the ancients created writing based on sounds to communicate the feelings of all things and carry the Way of the Three Powers (Heaven, Earth, Man), and later generations could not change this. However, as the customs and lands of the four directions differ, the breath of sounds also varies accordingly. Generally, the languages of foreign countries have sounds that exist [in Chinese] and sounds that do not. Borrowing Chinese characters to communicate their usage is like fitting a handle * [Asterisk in original] to a hoe; how can it be achieved without * [Asterisk in original]? It is essential that names follow local conventions and find ease <81>, and they cannot be forced into uniformity. Our East (吾東方, O Tongbang) [*樂文物 - Asterisk in original] rites and artifacts emulate those of China (華夏, Hwahsia), but our regional dialects and common speech are not the same. Those learning writing worry about the difficulty of understanding the meaning and purpose, and those administering justice suffer from the difficulty of communicating the intricate details. In the past, Sŏl Ch'ŏng (薛聽) of Silla (新羅) first created Idu (吏讀), which is still used today in government offices and among the common people. However, these are all borrowed characters, sometimes awkward, sometimes obstructive, not merely vulgar and unfounded, but also unable to convey even one ten-thousandth of the spoken language. In the winter of Kyeyu (癸亥), His Majesty (我殿下, A Chŏnha) created the twenty-eight letters of the Correct Sounds, briefly presented examples and meanings, and named it Hunminjŏngŭm (訓民正音). The letter shapes imitate ancient seal script (古篆) [Original says 古豪, likely a typo for 古篆], and the sounds harmonize according to pronunciation. The principles of the Seven Modes (七調) and Three Ultimates (三極), the subtleties of the two vital energies (二氣), are all encompassed. With these twenty-eight letters, transformations are endless. They are simple yet essential, precise yet versatile. Therefore, the wise can understand them before the morning is over, and the ignorant can learn them within ten days. Using this to interpret books, one can know their meaning; using this in hearing legal cases, one can grasp the true situation. In character rhymes, the clear and muddy sounds can be distinguished; in music and song, the pitches (律呂) can be harmonized. There is no use for which it is not prepared, no place it cannot reach. Even the sound of the wind, the cry of cranes, the crowing of chickens, and the barking of dogs can all be written. His Majesty commanded us, your subjects, to add explanations and interpretations to instruct everyone, hoping that observers may understand on their own without a teacher. As for the profound origins and subtle meanings, they are beyond what we subjects can elaborate upon. Respectfully reflecting, His Majesty, with his heaven-sent sagacity, established systems and implemented measures surpassing the hundred kings. The creation of the Correct Sounds, derived from nature without relying on any prior models, is surely because its ultimate principles are omnipresent and not the product of human artifice. Truly, our Eastern country has existed for no short time, yet the great wisdom to develop things and complete tasks has awaited this day. Ode."
+
+Additionally, there is the "Hunminjŏngŭm Ŏnhae" (訓훈民민正졍音), which seems to have been promulgated as a standalone book written entirely in Hunminjŏngŭm. Its full text is as follows:
+(Notes 10 & 29)
+
+"Hunminjŏngŭm Ŏnhae (訓훈民민正音) Hun (訓훈) means 'to teach,' Min (民민) means 'the people' (百姓), Ŭm (音) means 'sound,' so Hunminjŏngŭm (訓훈民민正音) means 'Correct Sounds to Teach the People' (百姓 치시논 正 소리라).
+國귁之징語音이 Kuk (國귁) means 'country.' Chi (之) is a particle [genitive]. Ŏ (語) means 'speech.'
+Our country's speech (나랏말미)
+異乎中國귁야 I (異) means 'to be different.' Ho (乎) is a particle used in comparison. Chungguk (中國귁) is the country where the Emperor* (皇帝*겨신) resides; in our country's common talk (常談땀애), it is called Kangnam (江강南남).
+being different from China (中國귁에 달아),
+與文문字로不相流*通씨 Yŏ (與) is a particle meaning 'and' or 'with.' Mun (文문) means 'writing' or 'letters.' Pul (不) means 'not.' Sang (相샹) means 'mutually.' Yu*t'ong (流*通) means 'to flow and connect.'
+does not mutually connect with written characters (文문字와로 서로 디 아니씨).
+故로愚民민이 有*所欲욕言언야도 Ko (故) means 'reason' or 'cause.' U (愚) means 'to be ignorant.' Yu* (有*) means 'to exist.' So (所) means 'place' or 'that which.' Yok (欲욕) means 'to desire.' Ŏn (言언) means 'to speak.'
+For this reason, even if ignorant people (百姓) have something they wish to say (니르고져 배이셔도),
+而終不得득伸신其情者-多矣 라 I (而) is a particle [connective]. Chong (終) means 'finally' or 'in the end.' Tŭk (得득) means 'to attain' or 'to be able.' Sin (伸신) means 'to express' or 'to stretch out.' Ki (其) means 'one's own.' Chŏng (情) means 'feelings' or 'intentions.' Cha (者) means 'person.' Ta (多당) means 'many.' Ŭi (矣) is a sentence-ending particle.
+there are many who ultimately cannot express their feelings (내 제 들 시러펴디 몯 노미 하니라).
+予-爲此 憫민然야 Yŏ (予) means 'I' [royal pronoun]. Ch'a (此) means 'this.' Minyŏn (憫민然) means 'to feel pity.'
+I, for this (이 야), feeling pity (어엿비너겨),
+新신制 二十씹八字노니 Sin (新신) means 'new.' Che (制) means 'to make' or 'create.' Isipp'al (二十씹八) means 'twenty-eight.'
+newly make twenty-eight letters (새로 스믈여듧字 노니).
+欲욕使人人로 易習씹야 便뼌於日用용耳니라 Sa (使) means 'to cause' or 'to enable.' In (人) means 'person.' I (易) means 'to be easy.' Sŭp (習씹) means 'to learn' or 'practice.' Pyŏn (便뼌) means 'to be convenient.' Ŏ (於) is a particle indicating location or time. Il (日) means 'day.' Yong (用용) means 'to use.' I (耳) means 'only' or 'merely.'
+Wishing to enable people (사과 다) to learn them easily (수니겨) and use them conveniently day by day (날로매 便뼌安킈고져 라미니라).
+ㄱ is a guttural sound (牙音), like (如) the initial sound (初發聲) of the character 君 (kun)ㄷ; written side-by-side (並뼝書), it is like the initial sound of the character 蚪* (kyu*).
+A (牙) means 'molar.' Yŏ (如) means 'like.' Ch'ojŏn palsŏng (初發聲) means 'first spreading-out sound.' Pyŏngsŏ (並뼝書) means 'writing side-by-side.'
+ㄱ is a molar sound (엄쏘리니), like the first spreading-out sound of the character 君 (kun)ㄷ (君군ㄷ字처펴 나아 소리니); written side-by-side (면), it is like the first spreading-out sound of the character 蚪* (kyu*) (蚪*字처펴아 나 소리 니라) <82>.
+ㅋ is a guttural sound (牙音), like the initial sound of the character 快* (k'wae*)ᅙ.
+ㅋ is a molar sound (엄쏘리니), like the first spreading-out sound of the character 快* (k'wae*) (快*字처펴아 나 소리니라).
+ is a guttural sound (牙音), like the initial sound of the character 業 (ŏp).
+ is a molar sound (엄쏘리니), like the first spreading-out sound of the character 業 (ŏp) (業字처펴아 나 소리니라).
+ㄷ is a lingual sound (舌音), like the initial sound of the character 斗* (tu*); written side-by-side, it is like the initial sound of the character 覃 (tam)ㅂ.
+Sŏl (舌) means 'tongue.'
+ㄷ is a tongue sound (혀쏘리니), like the first spreading-out sound of the character 斗* (tu*) (斗*字처펴아나 소리니); written side-by-side (면), it is like the first spreading-out sound of the character 覃 (tam)ㅂ (覃땀ㅂ字처펴아 나 소리 니라).
+ㅌ is a lingual sound (舌音), like the initial sound of the character 呑 (t'an).
+ㅌ is a tongue sound (혀쏘리니), like the first spreading-out sound of the character 呑 (t'an) (呑字처펴아 나 소리니라).
+ㄴ is a lingual sound (舌音), like the initial sound of the character 那 (na)ᅙ.
+ㄴ is a tongue sound (혀쏘리니), like the first spreading-out sound of the character 那 (na)ᅙ (那ᅙ字처펴아 나 소리니라).
+ㅂ is a labial sound (脣쓘音), like the initial sound of the character 彆 (pyŏl); written side-by-side, it is like the initial sound of the character 步 (po)ᅙ.
+Sun (脣쓘) means 'lips.'
+ㅂ is a lip sound (입시울쏘리니), like the first spreading-out sound of the character 彆 (pyŏl) (彆字처펴 나아 소리니); written side-by-side (면), it is like the first spreading-out sound of the character 步 (po)ᅙ (步ᅙ字처펴아 나 소리 니라).
+ㅍ is a labial sound (脣쓘音), like the initial sound of the character 漂* (p'yo*).
+ㅍ is a lip sound (입시울쏘리니), like the first spreading-out sound of the character 漂* (p'yo*) (漂*字처펴아 나 소리니라).
+ㅁ is a labial sound (脣쓘音), like the initial sound of the character 彌 (mi)ᅙ.
+ㅁ is a lip sound (입시울쏘리니), like the first spreading-out sound of the character 彌 (mi)ᅙ (彌ᅙ字처펴아 나 소리니라).
+ㅈ is a dental sound (齒音), like the initial sound of the character 卽 (chŭk)즉; written side-by-side, it is like the initial sound of the character 慈 (cha).
+Ch'i (齒) means 'teeth.'
+ㅈ is a tooth sound (니쏘리니), like the first spreading-out sound of the character 卽 (chŭk)즉 (卽즉字처펴 나아 소리니); written side-by-side (면), it is like the first spreading-out sound of the character 慈 (cha) (慈字처펴아 나 소리 니라).
+ㅊ is a dental sound (齒音), like the initial sound of the character 侵 (ch'im)침ㅂ.
+ㅊ is a tooth sound (니쏘리‹ˆ), like the first spreading-out sound of the character 侵 (ch'im)침ㅂ (侵침ㅂ字처펴아 나 소리니라).
+ㅅ is a dental sound (齒音), like the initial sound of the character 戌 (sul); written side-by-side, it is like the initial sound of the character 邪 (sa)ᅙ.
+ㅅ is a tooth sound (니쏘리니), like the first spreading-out sound of the character 戌 (sul) (戌字처펴 나아 소리니); written side-by-side (면), it is like the first spreading-out sound of the character 邪 (sa)ᅙ (邪ᅙ字처펴아 나 소리 니라).
+ᅙ is a glottal sound (喉*音), like the initial sound of the character 挹 (ŭp).
+Hu (喉*) means 'throat.'
+ᅙ is a throat sound (목소리니), like the first spreading-out sound of the character 挹 (ŭp) (挹字처펴아 나 소리니라).
+ㅎ is a glottal sound (喉*音), like the initial sound of the character 虛 (hŏ)ᅙ; written side-by-side, it is like the initial sound of the character 洪 (hong)ㄱ.
+ㅎ is a throat sound (목소리니), like the first spreading-out sound of the character 虛 (hŏ)ᅙ (虛ᅙ字처펴 나아 소리니); written side-by-side (면), it is like the first spreading-out sound of the character 洪 (hong)ㄱ (洪ㄱ字처펴아 나 소리 니라).
+ㅇ is a glottal sound (喉*音), like the initial sound of the character 欲 (yok)욕.
+ㅇ is a throat sound (목소리니), like the first spreading-out sound of the character 欲 (yok)욕 (欲욕字처펴아 나 소리니라).
+ㄹ is a semi-lingual sound (半반舌音), like the initial sound of the character 閭 (ryŏ)ᅙ.
+ㄹ is a half-tongue sound (半반혀쏘리니), like the first spreading-out sound of the character 閭 (ryŏ)ᅙ (閭ᅙ字처펴아 나 소리니라).
+ is a semi-dental sound (半반齒音), like the initial sound of the character 穰 (yang)ㄱ.
+ is a half-tooth sound (半반니쏘리니), like the first spreading-out sound of the character 穰 (yang)ㄱ (穰ㄱ字처펴아 나 소리니라).
+ is like the medial sound (中聲) of the character 呑 (t'an)ㄷ.
+Chung (中듕) means 'middle.'
+ is like the middle sound of the character 呑 (t'an)ㄷ (呑ㄷ字 가온 소리니라) <83>.
+ㅣ is like the medial sound of the character 侵 (ch'im)침ㅂ.
+ㅣ is like the middle sound of the character 侵 (ch'im)침ㅂ (侵침ㅂ字 가온 소리니라).
+ㅗ is like the medial sound of the character 洪 (hong)ㄱ.
+ㅗ is like the middle sound of the character 洪 (hong)ㄱ (洪ㄱ字 가온 소리니라).
+ㅏ is like the medial sound of the character 覃 (tam)땀ㅂ.
+ㅏ is like the middle sound of the character 覃 (tam)땀ㅂ (覃땀ㅂ字 가온 소리니라).
+ㅜ is like the medial sound of the character 君 (kun)군ㄷ.
+ㅜ is like the middle sound of the character 君 (kun)군ㄷ (君군ㄷ字 가온 소리니라).
+ㅓ is like the medial sound of the character 業 (ŏp).
+ㅓ is like the middle sound of the character 業 (ŏp) (業字 가온 소리니라).
+ㅛ is like the medial sound of the character 欲 (yok)욕.
+ㅛ is like the middle sound of the character 欲 (yok)욕 (欲욕字 가온 소리니라).
+ㅑ is like the medial sound of the character 穰 (yang)ㄱ.
+ㅑ is like the middle sound of the character 穰 (yang)ㄱ (穰ㄱ字 가온 소리니라).
+ㅠ is like the medial sound of the character 戌 (sul).
+ㅠ is like the middle sound of the character 戌 (sul) (戌字 가온 소리니라).
+ㅕ is like the medial sound of the character 彆 (pyŏl)볋.
+ㅕ is like the middle sound of the character 彆 (pyŏl)볋 (彆볋字 가온 소리니라).
+ㅡ is like the medial sound of the character 卽 (chŭk)즉.
+ㅡ is like the middle sound of the character 卽 (chŭk)즉 (卽즉字 가온 소리니라).
+If  [Original uses ㆁ (옛이응)] is written consecutively (連련書) below (下) a labial sound (脣쓘音), then (則즉) it becomes (爲윙) a light labial sound (脣쓘輕音).
+Ryŏn (連련) means 'to connect.' Ha (下) means 'below.' Chŭk (卽즉) is a particle meaning 'if/then.' Wi (爲) means 'to become.' Kyŏng (輕) means 'light.'
+If  is connected below a lip sound (입시울쏘리아래니 면), it becomes a light lip sound (입시울 가야소리외니라).
+If initial sounds (初聲) are used combined (合用용디면), then write them side-by-side (竝뼝書). Final sounds (終聲) are also the same (同).
+Hap (合) means 'to combine.' Tong (同똥) means 'same.'
+If the first sound is used combined (첫소리 어울워 디면), write them side-by-side (방라). Final sounds (乃 終 ㄱ소리도) are also the same ( 가지라).
+, ㅡ, ㅗ, ㅜ, ㅛ, ㅠ are written below... [Text breaks off]... at the right* (於右*라). U* (右*) means 'right side.'
+ㅣ, ㅏ, ㅓ, ㅑ, ㅕ are attached to the right side (올녀긔 브텨라).
+All (凡뻠) characters (字) must (必) be combined (合) to form (成쎵) a sound (音).
+Pŏm (凡뻠) means 'all' or 'generally.' P'il (必) means 'must' or 'certainly.' Sŏng (成쎵) means 'to form' or 'achieve.'
+All characters must necessarily combine to form a sound (믈윗字-모로매 어우러소리이니).
+If one (一) dot (點뎜) is added (加강) to the left (左장), then it is the departing tone (去컹聲셩).
+Chwa (左장) means 'left.' Ka (加) means 'to add.' Il (一) means 'one.' Kŏsŏng (去컹聲셩) means 'departing tone' (highest pitch).
+If one dot is added to the left side (완녀긔 點뎜을 더으면), it is the highest pitch sound (노 소리오).
+Two (二) dots mean the rising tone (上쟝聲).
+I (二) means 'two.' Sangsŏng (上쟝聲셩) means 'rising tone' (low then high pitch).
+If there are two dots (點뎜이 둘히면), it is the rising tone (上쟝聲셩이오) <84>.
+No (無뭉) dots means the level tone (平병聲셩).
+Mu (無뭉) means 'none.' Pyŏngsŏng (平뼝聲셩) means 'level tone' (lowest pitch).
+If there are no dots (點뎜이 업스면), it is the level tone (平뼝聲셩이오).
+For the entering tone (入聲셩), the adding of dots (加강點뎜) is the same (同똥), but (而) it is abrupt and fast (促쵹急급).
+Ipsŏng (入聲셩) means 'entering tone' (abruptly cut-off sound). Ch'okkŭp (促쵹急급) means 'fast' or 'urgent.'
+For the entering tone (入聲셩), the adding of dots is the same, but it is fast (點뎜 더우믄 가지로 니라).
+In Chinese sounds (漢한音), dental sounds (齒칭聲셩) have* (有*) the distinction (別) between Ch'idu* (齒칭頭*) and Chŏngch'i (正齒).
+Han'ŭm (漢한音) means 'Chinese sound.' Tu* (頭*) means 'head.' Pyŏl (別) means 'distinction.'
+In Chinese sounds, the old tooth sounds have a distinction between Ch'idu* (齒頭*) and Chŏngch'i (正齒) (中國귁 소리 옛니 쏘리 齒頭*와 正齒왜요미잇니).
+The letters ㅈ, ㅊ, ㅉ, ㅅ, ㅆ are used (用용於) for Ch'idu* (齒칭頭*) sounds.
+This sound, in our country's sounds, is thin; the tongue tip touches the upper front teeth (이 소리 우리나랏 소리예셔 열니 혓그티 웃닛머리예 다니라).
+The letters ㅈ, ㅊ, ㅉ, ㅅ, ㅆ are used for Ch'idu* sounds (齒칭頭*ㅅ 소리예고).
+The letters ᅎ, ᅔ, ᅏ, ᅑ, ᅕ [Not explicitly listed, but implied counterparts] are used for Chŏngch'i (正齒) sounds.
+This sound, in our country's sounds, is thicker; the tongue tip touches below the lower teeth (이 소리 우리나랏 소리예벼두터 니혓그티 아랫닛 브유메 다니라).
+The letters ᅎ, ᅔ, ᅏ, ᅑ, ᅕ are used for Chŏngch'i sounds (正齒ㅅ 소리 예니).
+The letters for guttural (牙), lingual (舌), labial (脣쓘), and glottal (喉*) sounds are used universally (通用) in Chinese sounds (漢한音).
+The letters for molar, tongue, lip, and throat sounds are used universally in Chinese sounds (엄과 혀와 입시울와 목소리 옛 字 中듕國귁 소리예 通통히 니라).
+Hunminjŏngŭm (訓훈民민正졍音)"
+
+This [the text presented above] is based on the Hangul Sa edition, which compared three versions: the standalone woodblock print owned by Mr. Pak Sŭngbin (朴勝彬); the woodblock version included at the beginning of *Wŏrin Ch'ŏn'gangjigok* (月印千江之曲) owned by the Kwangmunhoe (光文會); and a manuscript copy of the version held by the Japanese Imperial Household Ministry (日本 宮內省), owned by Mr. Ŏ Yunjŏk (魚允迪). As a result of the comparison, the versions owned by Mr. Pak and Mr. Ŏ were entirely identical, and the Kwangmunhoe version was also identical to those two except for the first and second leaves. Therefore, a photographic reproduction was made by combining the first and second leaves of the Kwangmunhoe version (from which the four characters "世宗御製" - Sejong Ojye, 'Made by King Sejong' - in the first line were carved out) and the third leaf onwards from Mr. Pak's version. (Note 3)
+
+Besides this, many records and praises regarding the creation of Hunminjŏngŭm can be seen in literature. Let me introduce a few examples. The *Yongje Ch'onghwa* (慵齋叢話) states:
+"King Sejong established the Vernacular Script Office (諺文廳), ordering Sin Koryŏng (申高靈) [Possibly Sin Sukchu of Koryŏng], Sŏng Sammun (成三問), etc., to create the vernacular script (諺文). There were eight initial and final sounds, eight initial sounds [Note: repetition/discrepancy in the quote], and twelve medial sounds. The form of the letters was based on Sanskrit characters. It could universally record the sounds and scripts of our country and various other countries which could not be written before, without fatigue [? perhaps 無礙 'without hindrance']." (Note 25)
+
+The *Tonggak Chapki* (東閣雜記) states:
+"Twenty-eight letters were created by the King (御製), named Vernacular Script (諺文). An office was established within the palace (禁中), and Sin Sukchu (申叔舟), Sŏng Sammun (成三問), Ch'oe Hang (崔恒), etc., were ordered to determine them, named Hunminjŏngŭm (訓民正音)." (Note 30)
+
+The *Akko* (樂考, Section on Music) in the *Tongguk Munhŏn Pigo* (東國文獻備考) states:
+"In the 28th year of King Sejong of our dynasty (本朝), Hunminjŏngŭm was created by the King (御製). His Majesty believed that while various countries each created scripts to record their national dialects, our country uniquely lacked one. Thus, he created 28 mother and son letters, named Vernacular Script (諺文). An office was opened in the palace (禁中), and Chŏng Inji (鄭麟趾), Sin Sukchu (申叔舟), Sŏng Sammun (成三問), Ch'oe Hang (崔恒), etc., were ordered to compile and finalize it. It generally imitated ancient seal script (古篆), divided into initial, medial, and final sounds. Although the letters are simple, they are easy, their transformations are endless, and they can universally record all speech sounds that other scripts cannot, without hindrance. The Ming Dynasty (明朝) Hanlin Academy scholar (翰林學士) Hwang Ch'an (黃瓚), who was exiled to Liaodong (遼東) at the time, was consulted; Sŏng Sammun and others were ordered to meet Hwang Ch'an to inquire about phonology, traveling back and forth to Liaodong a total of thirteen times." (Note 27)
+
+The *Saga Chip* (四佳集) states:
+"At that time, His Majesty first created the Vernacular Script (諺文). The various scholars of the Hall of Worthies (集賢殿) jointly submitted memorials arguing against it, and there were even those who submitted strongly worded remonstrances. His Majesty ordered Ch'oe Hang (崔恒) and others to compose the Hunminjŏngŭm." (Note 31)
+
+The preface to the *Kyŏngse Undosŏl* (經世韻圖說序) states:
+"Our King Sejong the Great (世宗大王) created the twenty-eight letters of Hunminjŏngŭm, corresponding to the number of the constellations. The shapes of the letters resemble the round and curved forms of the constellations Kui and Bi (奎璧); the dots and strokes follow the style of lesser seal (小篆) and clerical (分隷) scripts. They are clear, simple, and easy, enabling even children and women to know them. Expanding upon them is sufficient to express all the writings under Heaven." (Note 28)
+
+The *Sŏngho Sasŏl* (星湖辭說) states:
+"Our Eastern vernacular characters (諺字) were created in the year Pyŏngin (丙寅) during the reign of King Sejong. For everything that has a sound, there is no corresponding character lacking. People say nothing like it has existed since Cang* [Cangjie - 蒼頡, asterisk in original]." (Note 26)
+
+The *Chibong Yusŏl* (芝峰類說) states:
+"The style of our country's Vernacular Script (諺書) completely imitates Sanskrit characters. It began in the reign of King Sejong; an office was established, and it was compiled, but the ingenuity of the letter creation is said to have truly come from His Majesty's sagacious mind (睿算). Indeed, with the advent of the Vernacular Script, there are no speech sounds from any direction that cannot be communicated. This is what is called something impossible for anyone but a sage." (Note 32)
+
+(Note 29) King Sejo's Royal Composition "Wŏrin Ch'ŏn'gangjigok" (月印千江之曲)
+(Note 30) Yi Chŏnghyŏng (李廷馨) author "Tonggak Chapki" (東閣雜記) (in "Taedong Yasŭng" 大東野乘)
+(Note 31) Sŏ Kŏjŏng (徐居正) author "Saga Chip" (四佳集)
+(Note 32) Yi Sugwang (李晬光) author "Chibong Yusŏl" (芝峰類說) <85>
+
+**Summary**
+
+This article excerpt details the creation and promulgation of the Korean script, Hunminjŏngŭm, by King Sejong. It quotes the King's preface from the *Annals of King Sejong*, explaining the motivation (linguistic difference from Chinese, inability of commoners to express themselves) and listing the 28 letters with examples. It also includes Chŏng Inji's detailed preface praising the script's natural basis, systematic design, ease of learning, and superiority over borrowing Chinese characters (Idu). The article presents the full text of the *Hunminjŏngŭm Ŏnhae*, the vernacular explanation of the script, and cites various historical documents (*Yongje Ch'onghwa*, *Tonggak Chapki*, *Tongguk Munhŏn Pigo*, etc.) that describe the creation process, the scholars involved (Sin Sukchu, Sŏng Sammun, Ch'oe Hang, etc.), the script's features (based on sound, shape, ancient/Sanskrit scripts), and the consultations with Chinese scholar Hwang Ch'an.
+
+From a colonial history perspective, this 1931 article is significant for its focus on the unique origin and scientific nature of the Korean script, implicitly asserting Korean cultural identity and intellectual achievement separate from both China and Japan. By meticulously presenting primary sources like the *Sillok*, Chŏng Inji's preface, and the *Ŏnhae*, the author reinforces the historical legitimacy and sophistication of the Korean language and writing system during a period when Korean culture was suppressed under Japanese rule. The emphasis on the script's ability to represent *Korean* sounds distinct from Chinese ("國之語音, 異乎中國") and its ease of learning for the common people ("愚民," "人人易習") resonates with nationalist sentiments promoting literacy and cultural preservation.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun'gyŏng
+諺文廳	언문청	Ŏnmun ch'ŏng
+世宗	세종	Sejong
+世宗實錄	세종실록	Sejong Sillok
+中國	중국	Chungguk
+鄭麟趾	정인지	Chŏng Inji
+天地	천지	Ch'ŏnji (Heaven and Earth - general place/concept, arguably not specific enough, but included for completeness of references)
+三才	삼재	Samjae (Three Powers - concept)
+四方	사방	Sabang (Four Directions - general place)
+外國	외국	Oeguk (Foreign Countries - general place)
+吾東方	오동방	O Tongbang (Our East/Korea)
+華夏	화하	Hwahsia (China)
+新羅	신라	Silla
+薛聽	설청	Sŏl Ch'ŏng (Likely error in source for 薛聰 Sŏl Ch'ong)
+吏讀	이두	Idu
+殿下	전하	Chŏnha (His Majesty)
+訓民正音	훈민정음	Hunminjŏngŭm
+訓民正音諺解	훈민정음 언해	Hunminjŏngŭm Ŏnhae
+江강南남	강남	Kangnam
+朴勝彬	박승빈	Pak Sŭngbin
+月印千江之曲	월인천강지곡	Wŏrin Ch'ŏn'gangjigok
+光文會	광문회	Kwangmunhoe
+日本 宮內省	일본 궁내성	Ilbon Kungnaesŏng (Japanese Imperial Household Ministry)
+魚允迪	어윤적	Ŏ Yunjŏk
+慵齋叢話	용재총화	Yongje Ch'onghwa
+申高靈	신고령	Sin Koryŏng (Possibly Sin Sukchu, ambiguity in source)
+成三問	성삼문	Sŏng Sammun
+梵字	범자	Pŏmcha (Sanskrit Characters)
+東閣雜記	동각잡기	Tonggak Chapki
+申叔舟	신숙주	Sin Sukchu
+崔恒	최항	Ch'oe Hang
+禁中	금중	Kŭmjung (Royal Palace)
+東國文獻備考	동국문헌비고	Tongguk Munhŏn Pigo
+樂考	악고	Akko
+本朝	본조	Ponjo (Our Dynasty/Chosŏn)
+明朝	명조	Myŏngjo (Ming Dynasty)
+翰林學士	한림학사	Hallim Haksa (Hanlin Academy Scholar)
+黃瓚	황찬	Hwang Ch'an
+遼東	요동	Yodong (Liaodong)
+四佳集	사가집	Saga Chip
+集賢殿	집현전	Chiphyŏnjŏn (Hall of Worthies)
+經世韻圖說序	경세운도설 서	Kyŏngse Undosŏl Sŏ
+世宗大王	세종대왕	Sejong Taewang (King Sejong the Great)
+奎璧	규벽	Kyubyŏk (Constellations Kui and Bi)
+星湖辭說	성호사설	Sŏngho Sasŏl
+蒼*	창*	Ch'ang* (Likely 蒼頡 Cangjie, asterisk in source)
+芝峰類說	지봉유설	Chibong Yusŏl
+李廷馨	이정형	Yi Chŏnghyŏng
+徐居正	서거정	Sŏ Kŏjŏng
+李晬光	이수광	Yi Sugwang
+
+**Glossary**
+
+언제붙어	언제부터	From when
+나리어	내리어	To send down, bestow (older form)
+거치어	거치어	To pass through, undergo
+發布	발포	Promulgation, announcement
+御製	어제	Royal composition
+語音	어음	Language sounds, pronunciation
+異乎	이호	To be different from (Classical Chinese influence)
+文學	문학	Writing, literature (here referring to written Chinese characters)
+流通	유통	To circulate, be mutually intelligible
+愚民	우민	Ignorant people (term used by elite)
+欲言	욕언	Wish to speak
+伸其情	신기정	To express one's feelings
+憫然	민연	Pityingly, compassionately
+新制	신제	Newly made/created
+易習	이습	Easy to learn
+便於日用	편어일용	Convenient for daily use
+並書	병서	Writing side-by-side (used for doubled consonants or clusters)
+初發聲	초발성	Initial sound (older term for 초성)
+中聲	중성	Medial sound (vowel)
+終聲	종성	Final sound (consonant)
+復用	부용	To use again, reuse
+連書	연서	Writing consecutively (vertically, for labial light sounds)
+合用	합용	Using together, combined use (consonant clusters)
+附書	부서	To attach writing (how vowels attach to consonants)
+凡字	범자	All characters, every character
+必合而成音	필합이성음	Must combine to form a sound
+加一點	가일점	Add one dot (for tone marks)
+去聲	거성	Departing tone
+上聲	상성	Rising tone
+平聲	평성	Level tone
+入聲	입성	Entering tone
+促急	촉급	Abrupt and fast
+序文	서문	Preface
+因聲	인성	Based on sound
+風土	풍토	Natural features and climate, local customs
+聲氣	성기	Breath of sounds, phonetic characteristics
+假中國之字	가중국지자	Borrow China's characters
+鄙陃無稽	비루무계	Vulgar and unfounded
+創判	창판	To create (used for royal creation)
+象形	상형	Pictographic principle
+字倣古篆	자방고전	Characters imitate ancient seal script
+因聲而音	인성이음	Based on sound, the pronunciation harmonizes
+轉換無窮	전환무궁	Transformations are endless
+簡而要	간이요	Simple yet essential
+精而通	정이통	Precise yet versatile
+不崇朝而會	불숭조이회	Understand before morning ends (quickly)
+浹旬而學	협순이학	Learn within ten days
+淸濁	청탁	Clear and muddy (voiced/unvoiced consonants)
+律呂	율려	Musical pitches/scale
+無所用而不備	무소용이불비	Prepared for every use
+無所往而不達	무소왕이불달	Reaching everywhere
+天縱之聖	천종지성	Heaven-sent sagacity
+制度施爲	제도시위	Establishing systems and implementation
+超越百王	초월백왕	Surpassing the hundred kings
+無所祖述	무소조술	Without relying on prior models
+成於自然	성어자연	Achieved through nature
+치다	가르치다	To teach (older spelling)
+百姓	백성	The people, populace (older spelling/Hanja usage)
+나라히라	나라이다	It is the country (older form)
+말미	말씀이	Speech, language (honorific, older form)
+다씨라	다름이라	It is different (older form + 씨라 ending)
+겨체	에게	To/from (particle, older form)
+다	하다	To do, to be (older spelling)
+디라	뜻이라	It is the meaning/will (older spelling)
+니르고져	이르고자	Wishing to say (older spelling)
+배이셔도	할 바 있어도	Even if there is something to do/say (older spelling)
+미라	마침내	Finally, in the end (older spelling)
+시러펴디	실어 펴지	To load and spread, i.e., express fully (older spelling)
+몯	못할	Unable to do (older spelling)
+노미 하니라	놈이 많으니라	There are many people who... (older spelling + 'nom' used neutrally)
+어엿비 너겨	어여삐 여겨	Finding pitiful, feeling pity for (older spelling)
+노니	만드노니	As I make (older spelling)
+수 니겨	쉽게 익혀	Learning easily (older spelling)
+날로매	날로 씀에	In using daily (older spelling)
+고져 라미니라	하고자 할 따름이니라	It is only that I wish to do so (older spelling)
+엄쏘리	어금닛소리	Molar sound (guttural)
+혀쏘리	혓소리	Tongue sound (lingual)
+입시울쏘리	입술소리	Lip sound (labial)
+니쏘리	잇소리	Tooth sound (dental)
+목소리	목소리	Throat sound (glottal)
+니	같으니	Is like (older spelling)
+쓰다	나란히 쓰다	To write side-by-side (older verb form)
+가온	가운데	Middle (older spelling)
+니씨라	이음이라	It is connecting (older form)
+아래니면	아래에 이어 쓰면	If written connected below (older spelling)
+가야 소리	가벼운 소리	Light sound (older spelling)
+어울워	어울러	Combined (older form)
+가지라	한가지라	Is the same (older spelling)
+브텨쓰라	붙여 쓰라	Write attached (older spelling)
+모로매	모름지기	Necessarily, certainly (older form)
+어우러	어우러져야	Must combine (older form)
+왼녀긔	왼쪽에	On the left side (older spelling)
+더으면	더하면	If added (older spelling)
+ 노 소리	가장 높은 소리	Highest sound (older spelling)
+갑고	낮고	Being low (older spelling)
+업스면	없으면	If there is not (older spelling)
+니라	빠르니라	It is fast (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제27호
+발행일	1931년 11월 10일
+기사제목	訓民正音의 本文, 朝鮮文字의 歷史的 考察(9)
+필자	金允經
+기사형태	논설
+
+訓民正音의 本文, 朝鮮文字의 歷史的 考察
+						金允經
+4. 訓民正音의 本文
+正音의 연구는 언제붙어 시작되엇는지 알기 어렵지마는 이미 말함같이 25년 癸亥(서기 1443) 12월에 끝난 것을 다시 3년간 諺文廳에 나리어 거기서 당시 高名한 여러 학자들의 토의와 실험과  해석을 거치어 「그만하면 완전하다」고 생각되는 때에 發布하게 된 것이외다. 즉 世宗 28년 丙寅(서기 1446) 9월에 訓民正音은 세상에 發布되어 전 국민에게 시행하게 된 것이외다. 世宗實錄 28년 秋 9월 條에 다음과 같이 기록되엇읍니다.
+「是月, 訓民正音成, 御製曰, 國之語音, 異乎中國, 與文學不相流通, 故愚民有所欲言, 而終不得伸其情者多矣, 予, 爲此憫然, 新制二十八字, 欲使人人易習便於日用耳.
+ㄱ 牙音, 如君字初發聲, 並書如蚪字初發聲.
+ㅋ 牙音, 如快字初發聲.
+ 牙音, 如業字初發聲.
+ㄷ 舌音, 如斗字初發聲, 並書如覃字初發聲.
+ㅌ 舌音, 如呑字初發聲.
+ㄴ 舌音, 如那字初發聲.
+ㅂ 脣音, 如*字初發聲, 並書如步字初發聲.
+ㅍ 脣音, 如漂字初發聲.
+ㅁ 脣音, 如彌字初發聲.
+ㅈ 齒音, 如卽字初發聲, 並書如慈字初發聲.
+ㅊ 齒音, 如侵字初發聲.
+ㅅ 齒音, 如戌字初發聲, 並書如邪字初發聲.
+ᅙ 喉音, 如挹字初發聲.
+ㅎ 喉音, 如虛字初發聲, 並書如洪字初發聲.
+ㅇ 喉音, 如欲字初發聲.
+ㄹ 半舌音, 如閭字初發聲.
+ 半齒音, 如*字初發聲.
+ 如呑字中聲.
+ㅡ 如卽字中聲.
+ㅣ 如侵字中聲.
+ㅗ 如洪字中聲.
+ㅏ 如覃字中聲.
+ㅜ 如君字中聲.
+ㅓ 如業字中聲.
+ㅛ 如欲字中聲.
+ㅑ 如*字中聲.
+ㅠ 如戌字中聲.
+ㅕ 如*字中聲.
+終聲復用初聲, 連書脣音之下則爲脣輕音, 初聲合用則並書. 終聲同,  ㅡ ㅗ ㅜ ㅛ ㅠ 附書初字之卜, ㅣ ㅓ ㅏ ㅑ ㅕ 附書於右, 凡字必合而成音, 左加一點則去聲二則上聲, 無則平聲, 入聲加點仝而促急.」
+또 그 아래로 잇대어 禮曹判書 鄭麟趾의 이에 대한 序文이 揭載되어 잇읍니다.
+「有天地自然之聲則必有天地自然之文, 所以古人因聲判, 以通萬物之情, 以載三才之道, 而後世不能易也, 然四方風土區別, 聲氣亦隨而異焉, 盖外國之語有其聲無其聲, 假中國之字以通其用, 是猶柄*之鉏鋙也, 豈能達而無*乎, 要皆名隨所處而安＜81＞, 不可强之使同也, 吾東方*樂文物侔擬華夏, 但方言俚語不與之同, 學書者患其旨趣之難曉, 治獄者病其曲折之難通, 昔新羅薛聽始作吏讀, 官府民間至今行之, 然皆假字而用, 或澁或窒, 非但鄙陃無稽而己, 至於言語之間則不能達其萬一焉, 癸亥冬我殿下創判正音二十八字, 略揭例義以示之, 名曰訓民正音, 象形而字倣古豪, 因聲而音叶, 七調三極之義, 二氣之妙, 莫不該括以二十八字而轉換無窮, 簡而要, 精而通, 故智者不崇朝而會, 愚者可浹旬而學, 以是解書, 可以知其義, 以是聽訟, 可以得其情, 字韻則淸濁之能辨, 樂歌則律呂之克諧, 無所用而不備, 無所往加不達, 雖風聲鶴淚鷄鳴狗吠, 皆可得而書焉, 途命臣等評加解釋, 以喩諸人, 庶使觀者, 不師而自悟, 若其淵源義精之妙則非巨等之所能發揮也, 恭撿我殿下, 以天縱之聖, 制度施爲超越百王, 正音之作, 無所祖述而成於自然, 豈以其至理之無所不在而非人爲之私也, 夫東方有國, 不爲不久而開物成務之大智, 盖有待於今日也歌.」
+또 전부 訓民正音으로 써서 단행본으로 發布된 것 같이 생각되는 「訓훈民민正졍音」이 잇는데 그 全文은 다음과 같읍니다.
+註(10及29)
+「訓훈民민正音  訓훈은 칠씨오 民민 百姓이오 音은 소리니 訓훈民민正音은 百姓 치시논 正 소리라
+國귁之징語音이  國귁 나라히라 之 임겨지라 語는 말미라
+나랏말미
+異乎中國귁야  異 다씨라 乎 아모그에 논 겨체는 字-라 中國귁 皇帝*겨신 나라히니 우리나랏 常 談땀애 江강南남이라니라
+中國귁에 달아
+與文문字로不相流*通씨  與는 이와 *와 겨체난 字-라 文문은 글와리라 不은 아니논 디라 相샹 서르논 디라 流*通 흘러씨라
+文문字와로 서로 디 아니씨
+故로愚民민이 有*所欲욕言언야도  故 젼라 愚는 어릴씨라 有*는 이실씨라 所 배라 欲욕 고져 씨라 言언은 니를씨라
+이런 젼로 어린 百姓이 니르고져 배이셔도
+而終不得득伸신其情者-多矣 라
+而 입겨지라 終은 미라 得득은 시를씨라 伸신 펼씨라 其 제라 情은 디라 者 노미라 多당 할씨라 矣  말  입겨지라
+내 제 들 시러펴디 몯 노미 하니라
+予-爲此 憫민然야 予는 내시논 디시니라 此이라 憫민然은 어엿비 너기실씨라
+내 이 야 어엿비너겨
+新신制 二十씹八字노니 新신 새라 制  실씨라 二十씹八 스믈여들비라
+새로 스믈여듧字 노니
+欲욕使人人로 易習씹야 便뼌於日用용耳니라
+使 여논마리라 人 사미라 易 쉬씨라 習씹 니길씨라 便뼌은 便뼌安씨라 於는 아모 그에논 겨체는 字-라 日 나리라 用용 씨라 耳 미라 는 디라
+사과 다수니겨 날로매 便뼌安킈고져 라미니라
+ㄱ 牙音이니 如君군ㄷ字初發聲니 並뼝書면如蚪*字初發聲니라.
+牙 어미라 如는 씨라 初發聲은 처펴 나아 소리라 並뼝書는 쓸씨라
+ㄱ 엄쏘리니 君군ㄷ字처펴 나아 소리니 면 蚪*字처펴아 나 소리 니라＜82＞.
+ㅋ 牙音이니 如快*ᅙ字初發聲니라
+ㅋ 엄쏘리니 快*字처펴아 나 소리니라
+ 牙音이니 如業字初發聲니라
+ 엄쏘리니 業字처펴아 나 소리니라
+ㄷ 舌音이니 如斗*字初發聲니 並뼝書면如覃땀ㅂ字初發聲니라.
+舌은 혀라
+ㄷ 혀쏘리니 斗*字처펴아나 소리니 면 覃땀ㅂ字처펴아 나 소리 니라
+ㅌ 舌音이니 如呑字初發聲니라
+ㅌ 혀쏘리니 呑字처펴아 나 소리니라
+ㄴ 舌音이니 如那ᅙ字初發聲니라
+ㄴ 혀쏘리니 那ᅙ字처펴아 나 소리니라
+ㅂ 脣쓘音이니 如彆字初發聲니 並뼝書면如步ᅙ字初發聲니라.
+脣쓘은 입시우리라
+ㅂ 입시울쏘리니 彆字처펴 나아 소리니 면 步ᅙ字처펴아 나 소리 니라
+ㅍ 脣쓘音이니 如漂*字初發聲니라
+ㅍ 입시울쏘리니 漂*字처펴아 나 소리니라
+ㅁ 脣쓘音이니 如彌ᅙ字初發聲니라
+ㅁ 입시울쏘리니 彌ᅙ字처펴아 나 소리니라
+ㅈ 齒音이니 如卽즉字初發聲니 並뼝書면如慈字初發聲니라.
+齒 니라
+ㅈ 니쏘리니 卽즉字처펴 나아 소리니 면 慈字처펴아 나 소리 니라
+ㅊ 齒音이니 如侵침ㅂ字初發聲니라
+ㅊ 니쏘리‹ˆ 侵침ㅂ字처펴아 나 소리니라
+ㅅ 齒音이니 如戌字初發聲니 並뼝書면如邪ᅙ字初發聲니라.
+ㅅ 니쏘리니 戌字처펴 나아 소리니 면 邪ᅙ字처펴아 나 소리 니라
+ᅙ 喉*音이니 如挹字初發聲니라
+喉*는 모기라
+ᅙ 목소리니 挹字처펴아 나 소리니라
+ㅎ 喉*音이니 如虛ᅙ字初發聲니 並뼝書면如洪ㄱ字初發聲니라.
+ㅎ 목소리니 虛ᅙ字처펴 나아 소리니 면 洪ㄱ字처펴아 나 소리 니라
+ㅇ 喉*音이니 如欲욕字初發聲니라
+ㅇ 목소리니 欲욕字처펴아 나 소리니라
+ㄹ 半반舌音이니 如閭ᅙ字初發聲니라
+ㄹ 半반혀쏘리니 閭ᅙ字처펴아 나 소리니라
+ 半반齒音이니 如穰ㄱ字初發聲니라
+ 半반니쏘리니 穰ㄱ字처펴아 나 소리니라
+ 如呑ㄷ字中聲니라
+中듕은 가온라.
+ 呑ㄷ字 가온 소리니라＜83＞
+ㅣ 如侵침ㅂ字中聲니라
+ㅣ 侵침ㅂ字 가온 소리니라
+ㅗ 如洪ㄱ字中聲니라
+ㅗ 洪ㄱ字 가온 소리니라
+ㅏ 如覃땀ㅂ字中聲니라
+ㅏ 覃땀ㅂ字 가온 소리니라
+ㅜ 如君군ㄷ字中聲니라
+ㅜ 君군ㄷ字 가온 소리니라
+ㅓ 如業字中聲니라
+ㅓ 業字 가온 소리니라
+ㅛ 如欲욕字中聲니라
+ㅛ 欲욕字 가온 소리니라
+ㅑ 如穰ㄱ字中聲니라
+ㅑ 穰ㄱ字 가온 소리니라
+ㅠ 如戌字中聲니라
+ㅠ 戌字 가온 소리니라
+ㅕ 如彆볋字中聲니라
+ㅕ 彆볋字 가온 소리니라
+ㅡ 如卽즉字中聲니라
+ㅡ 卽즉字 가온 소리니라
+連련書脣쓘音之下면則즉爲윙脣쓘輕音니라
+連련은 니씨라 下 아래라 卽즉은 아리 면 겨체 字-라 爲 읠씨라 輕은 가야씨라
+ 입시울쏘리아래니 면 입시울 가야소리외니라
+初聲을 合用용디면 則즉 竝뼝書라 終聲도同니라
+合 어울씨라 同똥 가지라 논디라
+첫소리 어울워 디면 방라 乃 終 ㄱ소리도  가지라
+ㅡㅗㅜㅛㅠ란 府뿡書셩.... 於右*라 右*는 올녀기라
+ㅣ와 ㅏ와 ㅓ와 ㅑ와 ㅕ와란 을 녀긔브텨라
+凡뻠字必合而成쎵音니
+凡뻠은 몰읫논매디라 必 모로 논 디라 成쎵은일씨라
+믈윗字-모로매 어우러소리이니
+左장加강一點뎜면 則즉去컹聲셩이오
+左장 왼니기라 加 더을씨라 一 나히라 去컹聲셩은 노 소리라
+완녀긔 點뎜을 더으면 노 소리오
+二則즉上쟝聲이오
+二 둘히라 上쟝聲셩은 처미 갑고 乃냉終즁이 노 소리라
+點뎜이 둘히면 上쟝聲셩이오＜84＞
+無뭉則즉平병聲셩이오
+無뭉 업슬씨라 平뼝聲셩은 가소리라
+點뎜이 업스면 平뼝聲셩이오
+入聲셩은 加강點뎜이 同똥而促쵹急급니라
+入聲셩은 리긋 소리라 促쵹急급은 씨라
+入聲셩은 點뎜 더우믄 가지로 니라
+漢한音齒칭聲셩은 有*齒칭頭*正齒之別니
+漢한 音은 中듕國귁 소리라 頭*는 머리라 別은 힐씨라
+中國귁 소리 옛니 쏘리 齒頭*와 正齒왜요미잇니
+ㅈ ㅊ ㅉ ㅅ ㅆ 字 用용於齒칭頭*고
+이 소리 우리나랏 소리예셔 열니 혓그티 웃닛머리예 다니라
+ㅈ ㅊ ㅉ ㅅ ㅆ 字 齒칭頭*ㅅ 소리예고
+ㅈ ㅊ ㅉ ㅅ ㅆ 字 用용於正齒니
+이 소리 우리나랏 소리예벼두터 니혓그티 아랫닛 브유메 다니라
+ㅈ ㅊ ㅉ ㅅ ㅆ 字 正齒ㅅ 소리 예니
+牙舌脣쓘喉*之字 通用於漢한音니라
+엄과 혀와 입시울와 목소리 옛 字 中듕國귁 소리예 通통히 니라
+訓훈民민正졍音」
+이 것은 한글 社版에 의한 것인데 이는 그 社에서 單本刻版인 朴勝彬씨 藏本과 月印千江之曲의 卷首에 編入된 木刻板인 光文會藏本과 日本 宮內省 藏本의 抄本인 魚允迪씨 藏本의 3종을 비교한 결과, 朴, 魚 兩氏의 藏本은 전연 동일하고 또 光文會 本도 제 1 제 2葉의 외에는 그 兩本과 동일하엿는 고로 제 1행의 「世宗御製」의 4字를 깎아 버린 光文會본의 제 1, 2葉과 제 3葉 이하의 朴씨 本을 합하여 사진판으로 한 것이외다. (註 3)
+이 밖에 訓民正音의 제작에 대한 記事와 讚辭가 文獻에 많이 보입니다. 그 몇가지만 들어 볼까합니다. 慵齋叢話에는
+「世宗設諺文廳, 命申高靈成三問等 製諺文, 初終聲八字 初聲八字 中聲十二字 其字軆依梵字爲之, 本國及諸國語音文字所不能記者香通無疲」(註25)
+라 하엿고 東閣雜記에는
+「御製二十八字, 名曰諺文, 設廳禁中, 命申叔舟成三問崔恒等摵定, 名曰訓民正音」(註30)
+이라 하엿고 東國文獻備考의 樂考에는
+「本朝世宗二十八年 御製訓民正音, 上以爲諸國各製文字, 以記其國之方言, 獨我國知之, 遂製子母二十八字, 名曰諺文, 開局禁中, 命鄭麟趾 申叔舟
+成三問
+崔恒等 撰定之, 盖倣無篆, 分爲初中終聲, 字雖簡, 易轉換無窮, 諸語音文字所不能記者 悉通無礙 明朝翰林學士黃瓚, 時謫遼東, 命三問等見瓚, 質問音韻, 凡往來遼東十三度」(註27)
+라 하엿고 四佳集에는
+「時上, 初製諺文, 集賢殿諸儒,合辭陳其不可, 至有抗疏極論者, 上命崔恒等作訓民正音」(註31)
+이라 하엿고 經世韻圖說序에는
+「我世宗大王, 創判訓民正音二十八字, 以應列宿之數, 而字形則奎璧圓曲之象, 點畫則小篆分隷之軆, 明白簡易, 使童婦人, 可以知, 引而伸之, 足以盡天下之文」(註28)
+이라 하엿고 星湖辭說에는
+「我東諺字創於世宗朝丙寅, 凡有音者莫不有字, 人稱蒼*以來未始有也」(註26)
+라 하엿고 芝峰類說에는
+「我國諺書 樣全倣梵字, 始於世宗朝, 設局撰出, 而制字之巧實自睿算云, 夫諺書出而萬方語音無不可通者, 所謂非聖人不能也」(註32)
+라 하엿읍니다.
+(註29) 世祖御撰「月印千江之曲」
+(註30) 李廷馨著「東閣雜記」(「大東野乘」中)
+(註31) 徐居正 著 「四佳集」
+(註32) 李晬光著 「芝峰類說」＜85＞
+＜81-85＞

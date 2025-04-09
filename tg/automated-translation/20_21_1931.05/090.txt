@@ -1,0 +1,191 @@
+**Header Section:**
+Magazine Title: 동광 제21호
+Publication Date: 1931-05-01
+Article Title: 우랄알타이 語族의 特質, 朝鮮文字의 歷史的 考察(3) (Characteristics of the Ural-Altaic Language Family, A Historical Study of Korean Writing (3))
+Author: 金允經
+Article Type: 논설 (Editorial/Article)
+
+**Body Text Translation:**
+Characteristics of the Ural-Altaic Language Family, A Historical Study of Korean Writing
+						Kim Yun'gyŏng (金允經)
+
+The above might seem to have strayed too far into linguistics, but this was to first understand the nature or lineage of the Korean language. Through this, we can know that our language belongs systematically to the Ural-Altaic language family and morphologically belongs to agglutinative languages. Since the nature of agglutinative languages was somewhat explained during our classification introduction, here I intend to briefly introduce only the characteristics of the Ural-Altaic language family.
+
+One. Vowel Selection (Vowel Harmony or Vowel Assimilation Law, Vocal Harmony)
+This refers to the sound phenomenon where vowels contained within content words (實辭) such as substantives (體言; noun-like words) and predicatives (用言; verb-like and adjective-like words), cause the vowels in subsequent function words (虛辭) like particles (吐; postpositions, endings, connectors) to change to the same or similar sounds as themselves. For example, in the Yakut-Turkic language, the vowels a, o, u, i are called strong vowels (hard vowels), and Ö, ç, ï are called weak vowels (soft vowels). If there is a strong vowel in the content word, the vowel in the function word also changes to a strong vowel; if there is a soft vowel in the content word, the vowel in the function word also becomes a soft vowel. One example showing a complete change to the same vowel is that the plurals of ogo (child), ÖsÖ (bear), aga (father) become ogo-lor, ÖsÖ-lÖr, aga-lar. An example of becoming a strong vowel is ogo-nu (child + accusative marker) and aga-ni (father + accusative marker). An example following the change of a soft vowel is something like ÖsÖ-nü (bear + accusative marker). Strong vowels cause changes among strong vowels, and soft vowels cause changes among soft vowels; the hard and soft sounds do not mix. This vowel selection (Vowel Harmony) is a characteristic feature of the Ural-Altaic language family, though in some languages today it seems to have [missing text] ****, and in others, the rule has become disordered. In Japanese, it is difficult to find sufficient traces, but from ancient times, calling 『渡』 (crossing) 『ワタリ』 (Watari) or 『ホトリ』 (Hotori), 『撓』 (bending) 『タワワ』 (Tawawa) or 『トヲヲ』 (Towowo), 『亂』 (disorder) 『ワワク』 (Wawaku) or 『ヲヲク』 (Wowoku), 『心』 (heart) 『ココロ』 (Kokoro) or 『ケケレ』 (Kekere), and 『標』 (trembling) 『ワナナク』 (Wanauaku) or 『ヲノノク』 (Wononoku) can be seen as vestiges of this rule's phenomenon. In the Korean language, the phenomenon of this vowel selection is quite abundant.
+
+panjjak (반짝)   palttak (발딱)
+
+pŏnjjŏk (번쩍)   pŏlttŏk (벌떡)
+
+palkata (밝아타)   allangallang (알랑알랑)
+
+pŏlkuta (벎어타)   ŏllŏngŏllŏng (얼렁얼렁)
+
+namsangnamsang (남상남상)  arongarong (아롱아롱)
+
+nŏmsŏngnŏmsŏng (넘성넘성) ŏrungŏrung (어룽어룽)
+
+All such examples involve attaching a vowel that is the same as the vowel used initially. Also, when the vowel in a predicative is 'ㅗ' or 'ㅏ', the following vowel particle becomes 'ㅏ', and when the vowel in the predicative is other than 'ㅗ' or 'ㅏ', the vowel particle becomes 'ㅓ'; this can also be seen as this phenomenon. For example:
+
+po- (보, see): a (Bo-a) asŏ (Bo-asuh) ara (Bo-ara) atta (Bo-asda)
+
+nol- (놀, play): a (Nor-a) asŏ (Nor-asûh) ara (Nor-ara) atta (Nor-asda) ＜34＞
+
+ka- (가, go): a (Ga-a) asŏ (Ga-asûh) ara (Ga-ara) atta (Ga-asda)
+
+kalk- (갉, scrape): a (Garg-a) asŏ (Garg-asûh) ara (Garg-ara) atta (Garg-asda)
+
+yŏl- (열, open): ŏ (Yûr-û) ŏsŏ (Yûr-ûsuh) ŏra (Yûr-ûra) ŏtta (Yûr-ûsda)
+
+kŏl- (걸, hang): ŏ (Gur-û) ŏsŏ (Gûr-ûsûh) ŏra (Gûr-ura) ŏtta (Gûr-ûsda)
+
+chu- (주, give): ŏ (J-*) ŏsŏ (J-*sûh) ŏra (J-ƍra) ŏtta (J-ƍsda) [forms like 주어 (줘), 주어서 (줘서), 주어라 (줘라), 주었다 (줬다)]
+
+nŭl- (늘, increase): ŏ (Neur-*) ŏsŏ (Neur-*sûh) ŏra (Neur-ƍra) ŏtta (Neur-ƍsda) [forms like 늘어, 늘어서, 늘어라, 늘었다]
+
+ip- (입, wear): ŏ (Ib-û)  ŏsŏ (Ib-*sûh) ŏra (Ib-ƍra) ŏtta (Ib-ƍsda) [forms like 입어, 입어서, 입어라, 입었다]
+
+toe- (되, become): ŏ (Doi-*) ŏsŏ (Doi-*sûh) ŏra (Doi-ƍra) ŏtta (Doi-ƍsda) [forms like 되어 (돼), 되어서 (돼서), 되어라 (돼라), 되었다 (됐다)]
+
+Furthermore, there are very many cases where content words ending in a vowel take a specific, different particle than content words ending in a consonant (子音). This can also be seen as a phenomenon of vowel selection. For example, words like kae (개, dog), so (소, cow), sae (새, bird), chwi (쥐, mouse) take the particle 『가』 (-ka), while talk (닭, chicken), mal (말, horse), tot (돛, sail), kkwŏng (꿩, pheasant) take the particle 『이』 (-i).
+
+Two. Consonant Law (子音法則). First, consonants (子音) are, in principle, always used in combination with vowels (母音), and consonant clusters (連合音) like kr, pt are seen as having developed later. The Japanese language does not tolerate doubled consonants, so if a foreign word with doubled consonants, such as 'Cutlet', enters the language, it is pronounced as 『カツレツ』 (Katsuretsu), inserting a vowel between t and l. Also, because Japanese has absolutely no syllables ending in a consonant (子音), even a final t sound must be pronounced with an attached vowel. However, the Korean language uses not only doubled consonants but also clusters of three consonants.
+For example, the 『ᄁ』 in 『kkaji』 (까지) and the 『ᆰ』 (represented as ƍ) in 『talk』 (닭) are doubled consonants, and words like 『pukta』 (붉다, to be red) or 『ŭpta』 (읊다, to recite) use clusters of three or four consonants like 『ᆰ ㄷ』 (lg d) or 『읊 ㄷ』 (represented as ㅍ-ㅂㅎ d). Second, originally, consonants were only voiceless sounds (淸音), but voiced sounds (濁音) developed later.
+
+Three. Initial Sound Rule (頭音法則) (Law of initial sound). The initial sound refers to the sound that comes at the very beginning of a word. Depending on the type of language, certain sounds can be used as initial sounds, while others cannot. When a sound that cannot be used initially appears in the initial position, it is changed to another sound. Now, let's list the important initial sound rules generally recognized for the Ural-Altaic language family:
+(a) Avoidance of voiced sounds initially. Languages like Yurak-Samoyed and Finnish avoid having voiced sounds (有聲音) initially. The Taugy language does not use b or dj, and the Enisei-Samoyed language reportedly does not use any voiced sounds initially except for g and d. In Japanese as well, purely Japanese words beginning with voiced sounds are quite few. The Korean language not only avoids using voiced sounds initially but also has very few voiced sounds overall.
+(b) Avoidance of consonant clusters of two or more sounds initially. Languages like Samoyed and Finnish are examples. Therefore, when foreign words with initial consonant clusters entered these languages, various changes were made. For example, (1) the word Streni becomes Ranta in Suomi (Finnish) and Rand in Estonian, and Glas becomes Lasi in Suomi and lass in Estonian; these cases drop the initial consonants. (2) Floren becoming Forint in Magyar (Hungarian) is an example of dropping the second consonant. (3) Stall becoming Istallo in Magyar is an example of adding a vowel at the beginning. (4) Prior becoming Pejel in Magyar is an example of inserting a vowel in the middle. Looking at Japanese, the Portuguese (葡萄牙) words Christo (基督, Christ) and Frasco (甁, flask) become 『キリスト』 (Kirisuto) and 『フラスコ』 (Furasuko), respectively; ＜35＞ the Dutch (和蘭) words Grofgrein (a type of fabric) and Blik (tinplate) become 『吳綿福林』 (Gorofukurin) and 『ガリキ』 (Gariki), splitting the consonant clusters and inserting vowels for pronunciation. In Korean as well, these are pronounced as 『그리스도』 (Kŭrisŭdo), 『프라쓰크』 (P’ŭrasŭk’ŭ), 『그로프그린』 (Kŭrop’ŭgŭrin), 『쁘릥크』 (Ppŭringk’ŭ), inserting a vowel in the middle of the initial consonant cluster before pronunciation. However, it is not the case that Korean absolutely disallows initial consonant clusters. Tensed consonants (짝거듭; ㄲ, ㄸ, ㅃ, ㅆ, ㅉ, etc.) and aspirated consonants (섞임거듭; ㅊ, ㅋ, ㅌ, ㅍ etc.) are pronounced well. It's just that in Western phonetics, these types were not recognized as consonant clusters. (c) Avoidance of initial r (ㄹ) sound. Altaic languages do not use the /l/ or /r/ (ㄹ) sound at the beginning of words. Native Japanese words also lack words starting with the ra-column (ラ行) sounds, which is why Russia (露西亞) used to be called 『オロシヤ』 (Orosia). Recently, however, due to efforts to create such pronunciation habits through education, it has become 『ロシヤ』 (Rosia). Thus, like with other foreign languages, much effort was expended in learning its pronunciation even in Sino-Japanese readings (漢文). Korean also does not use the /l/ or /r/ sound initially. Consequently, when foreign words with that initial sound enter the language, the initial ㄹ sound is either dropped, as in 『이가』 (Iga) from 『李哥』 (Riga), or changed to ㄴ (n), as in 『노인』 (Noin) or 『나주』 (Naju) from 『老人』 (Noin, old person) or 『羅州』 (Naju, city name).
+
+Four. Final Sound Rule (末音法則, Law of final sound). The "final sound" refers to the sound at the end of a word. Similar to the initial sound rule, there are various restrictions depending on the type of language. For the Ural-Altaic language family, it is not very complex, but the important point is that the final sound of a word is, in principle, a vowel or a single consonant (單子音). Sometimes, consonant clusters (連合子音) are used. Languages like Japanese and Manchu particularly favor ending words only with vowels. However, Korean is not concerned with which sound appears finally, and moreover, often uses consonant clusters as final sounds. Grammatically, there are cases of using two or more consonants clustered at the end, but they cannot all be pronounced as such until a particle beginning with a vowel comes along, at which point they combine with it. For example, the word 『핥』 (hal, lick) is like Haldh (Halt), but when pronounced alone or followed by a particle starting with a consonant, only Hal or Hald is pronounced. However, when followed by a particle starting with a vowel, the very last consonant combines with the initial vowel of the particle and is fully realized. Words like kaps (값, price), nŏks (넋, soul), ŭlp’ (옲/읊, recite), ŏps (없, nonexistent) are all like this.
+
+Five. Sentence Construction Method (文의 構成法). First, the sentence structure (月의 構造) having agglutinative characteristics; second, the subject (主語; owner) being at the very beginning, the object (客語; noun bound to a transitive verb) being next, and the predicate (述語; explanation) being at the very end; third, modifying phrases (限定의 語句) being placed before the phrases they modify – these are major characteristics of the Ural-Altaic language family. Besides these, the absence of articles (冠詞), gender (性別), and relative pronouns (關係代名詞) must also be seen as major characteristics. Both Korean and Japanese possess the characteristics of these conditions. Although the question of where Korean and Japanese belong is debated among some scholars (學者), the five characteristics of the Ural-Altaic language family mentioned above are more powerful in affirming than denying the commonality suggesting that Korean and Japanese belong to this language family. <36>
+
+**Summary**
+
+This article by Kim Yun'gyŏng discusses the linguistic features characterizing the Ural-Altaic language family, arguing for Korean's inclusion within it. Key features highlighted include vowel harmony (with examples from Yakut-Turkic, Japanese, and extensive Korean illustrations), consonant rules (preference for CV structure, initial consonant restrictions like avoidance of voiced sounds, clusters, and initial /r/), final sound rules (allowing diverse endings in Korean unlike Japanese/Manchu), and sentence structure (agglutinative nature, SOV word order, modifiers preceding modified words, absence of articles, gender, relative pronouns). The author concludes that these shared traits strongly support classifying both Korean and Japanese within the Ural-Altaic family. From a historical perspective, the article is interesting as it represents Korean linguistic scholarship during the Japanese colonial period. It asserts Korean's linguistic lineage and characteristics using Western linguistic frameworks (Ural-Altaic theory) while drawing parallels and contrasts with Japanese, the colonizer's language. This act of classifying and analyzing the Korean language, even within a framework that groups it with Japanese, can be seen as an effort to scientifically define and understand Korean identity through its language, potentially a subtle form of cultural assertion or academic positioning within the constraints of the era. Historians might note the detailed engagement with linguistic typology and the specific examples used to demonstrate Korean linguistic phenomena in the 1930s.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun'gyŏng
+우랄알타이	우랄알타이	Ural-Altaic
+야쿠트터키	야쿠트터키	Yakut-Turkic
+日本	일본	Nihon
+朝鮮	조선	Chosŏn
+유라크싸모예드	유라크사모예드	Yurak-Samoyed
+핀랜드	핀란드	P'inraendŭ
+타우지	타우지	Taugy
+에니세이싸모예드	에니세이사모예드	Enisei-Samoyed
+스오미	스오미	Suomi
+에쓰트니아	에스토니아	Esŭt'ŭnia
+마지얄	마쟈르	Majiyal
+葡萄牙	포르투갈	P'ut'ogal (Portugal)
+和蘭	네덜란드	Nedŏllandŭ (Holland/Netherlands)
+露西亞	러시아	Rŏsia (Russia)
+李哥	이가	Iga
+老人	노인	Noin
+羅州	나주	Naju
+滿洲	만주	Manju (Manchu)
+
+**Glossary**
+
+語族	어족	Language family
+系統	계통	Lineage; system
+形態的	형태적	Morphological(ly)
+附着語	부착어	Agglutinative language
+母音調和	모음조화	Vowel harmony
+體言	체언	Substantive (noun, pronoun, numeral)
+用言	용언	Predicative (verb, adjective)
+實辭	실사	Content word (carries lexical meaning)
+虛辭	허사	Function word (carries grammatical meaning)
+홀소리	홀소리	Vowel (native Korean term, older spelling)
+닿소리	닿소리	Consonant (native Korean term, older spelling)
+고룸	고름	Selection; choosing (here referring to vowel harmony)
+임씨	임씨	Noun-like word (Author's term for 體言)
+얻씨	얻씨	Verb-like word (Author's term for part of 用言)
+움씨	움씨	Adjective-like word (Author's term for part of 用言)
+겻씨	겻씨	Postpositional particle-like word (Author's term for part of 吐)
+잇씨	잇씨	Connective ending-like word (Author's term for part of 吐)
+맺씨	맺씨	Final ending-like word (Author's term for part of 吐)
+吐	토	Particle; ending (Author's term for 虛辭 like postpositions, endings)
+子音	자음	Consonant (Sino-Korean term)
+母音	모음	Vowel (Sino-Korean term)
+頭音法則	두음법칙	Initial sound law
+末音法則	말음법칙	Final sound law
+連合音	연합음	Consonant cluster (lit. combined sound)
+淸音	청음	Voiceless sound
+濁音	탁음	Voiced sound
+월	문	Sentence (used for 文)
+主語	주어	Subject
+客語	객어	Object (specifically object of transitive verb)
+述語	술어	Predicate
+限定	한정	Modification; limitation
+冠詞	관사	Article
+性別	성별	Gender (grammatical)
+關係代名詞	관계대명사	Relative pronoun
+學者	학자	Scholar
+잇읍니다	있습니다	There is/are; It is (older polite ending form)
+알읍겟니다	알겠습니다	Will know; understand (older future/volitive polite ending form)
+하엿는 故로	하였으므로/했으므로	Because (one) did (older causal connective form)
+이외다	입니다	It is (older formal ending, slightly less common than -ㅂ니다)
+예쩍붙어	예로부터/옛적부터	From ancient times; from of old (older form)
+벎어타	벌겋다/붉다?	To be reddish (likely relates to 벌겋다, older spelling/form)
+넘성넘성	넘실넘실?	Ripplingly; undulatingly (older onomatopoeia/mimetic word form)
+
+
+---------------------------
+
+
+잡지명	동광 제21호
+발행일	1931년 05월 01일
+기사제목	우랄알타이 語族의 特質, 朝鮮文字의 歷史的 考察(3)
+필자	金允經
+기사형태	논설
+
+우랄알타이 語族의 特質, 朝鮮文字의 歷史的 考察
+						金允經
+以上은 너무 言語學的 으로 달아낫다고 생각될는지 모르나 이는 朝鮮말의 性質 또는 系統을 먼저 알아보기 때문이엇읍니다. 그것으로 因하여 우리는 우리말이 系統的으로는 우랄알타이 語族에 불고 形態的으로는 附着語에 붙은 것을 알읍겟니다. 우리 分類 紹介 中에서 附着語의 性質에 對하여서는 좀 說明하엿는 故로 여기에서는 우랄알타이 語族의 特質에 對하여서만 조곰 紹介하여 두려고 합니다.
+一. 홀소리의 고룸(母音調和 또는 協韻法, Vocal Harmony)
+이것은 體言(임씨), 用言(얻씨와 움씨)같은 實辭 中에 包含되어 잇는 母音(홀소리)이 그 다음에 오는 吐(겻씨, 잇씨, 맺씨)같은 虛辭 中의 母音을 自己와 同一하거나 또는 類似한 소리로 變化케 하려는 소리의 現象을 이름이외다. 가령 『야쿠트터키』말에서 a o u i 들의 홀소리를 强母音(센 홀소리)이라 하고 Ó ç ï 들의 홀소리를 弱母音(연한 홀소리)이라 하는데 實辭中에 센 홀소리가 잇으면 虛辭 中의 홀소리도 센 홀소리로 바꾸며, 實辭 中에 연한 홀소리가 잇으면 虛辭 中의 홀소리도 연한 홀소리로 되게 합니다. 그 中에 完全히 같은 홀소리로 바꾸는 한 본보기를 보이면 ogo(子), ÓsÓ(熊), aga(交)들의 複數는 ogo-lor, ÓsÓ-lÓr, aga-lar로 되는 따위며 또 센 홀소리로 되는 본보기로는 ogo-nu(子를) aga-ni(父를)로 되는 따위가 잇다고 합니다. 또 연한 홀소리의 變化에 쫓는 것으로는 ÓsÓ-n��(곰을)라 함 같은 것이 잇읍니다. 센 홀소리는 센 홀소리의 사이에서, 연한 홀소리는 연한 홀소리의 사이에서 變化를 일으키는 것이지 세고 연한 두 소리가 서로 섞임이 없읍니다. 이 홀소리의 고룸(母音 調和)은 『우랄알타이』語族의 한 特徵이고 그 중의 어떠한 말에는 오늘날에 그것 **** 같기도 하고 또 어떠한 말에는 그 規則이 어지럽게 된 것도 잇읍니다. 日本 말에서는 그 充分한 자취를 찾기는 어렵지마는 예쩍붙어 『渡』를 『ワタリ』(Watari) 또 『ホトリ』(Hotori)라 하고, 『撓』를 『タワワ』(Tawawa) 또는 『トヲヲ』(Towowo)라하며, 『亂』을 『ワワク』(Wawaku) 또는 『ヲヲク』(Wowoku)라 하고, 『心』을 『ココロ』(Kokoro) 또는 『ケケレ』(Kekere)라 하며, 『標』를 『ワナナク』(Wanauaku) 또는 『ヲノノク』(Wononoku)라 하는 따위는 이 法則의 現象의 한 끝이라고 볊�만한 것이외다. 朝鮮말에서는 이 홀소리의 고룸의 現象이 퍽 많습니다.
+반짝(Banjak)   발딱(Baldak)
+
+번쩍(Bonjuk)   벌떡(Bolduk)
+
+밝아타(Balgata)   알랑알랑(Alangalang)
+
+벎어타(Bolguta)   얼렁얼렁(Ulongolong)
+
+남상남상(Namsangnamsang)  아롱아롱(Arongarong)
+
+넘성넘성(Nomsongnonisong) 어룽어룽(Urungorung)
+
+같은 것들은 다 첫 번에 쓰인 홀소리와 같은 홀소리를 그 다음에 붙이어 쓰는 것이외다. 또 用言 中의 홀소리가 『ㅗ』나 『ㅏ』 될 때에는 그 밑에 오는 홀소리 토는 『ㅏ』가 되며, 用言의 홀소리가 『ㅗ』 『ㅏ』 밖의 것인 때에는 홀소리 토는 『ㅓ』가 되는 것도 이 現象으로 볼만한 것이외다. 가령
+
+보(見): 아(Bo-a) 아서(Bo-asuh) 아라(Bo-ara) 앗다(Bo-asda)
+
+놀(遊): 아(Nor-a) 아서(Nor-asûh) 아라(Nor-ara) 앗다(Nor-asda) ＜34＞
+
+가(往): 아(Ga-a) 아서(Ga-asûh) 아라(Ga-ara) 앗다(Ga-asda)
+
+갉(剔): 아(Garg-a) 아서(Garg-asûh) 아라(Garg-ara) 앗다(Garg-asda)
+
+열(開): 어(Yûr-û) 어서(Yûr-ûsuh) 어라(Yûr-ûra) 엇다(Yûr-ûsda)
+
+걸(掛): 어(Gur-û) 어서(Gûr-ûsûh) 어라(Gûr-ura) 엇다(Gûr-ûsda)
+
+주(與): 어(J-*) 어서(J-*sûh) 어라(J-ƍra) 엇다(J-ƍsda)
+늘(增): 어(Neur-*) 어서(Neur-*sûh) 어라(Neur-ƍra) 엇다(Neur-ƍsda)
+
+입(服): 어(Ib-û)  어서(Ib-*sûh) 어라(Ib-ƍra) 엇다(Ib-ƍsda)
+
+되(成): 어(Doi-*) 어서(Doi-*sûh) 어라(Doi-ƍra) 엇다(Doi-ƍsda)
+
+또 이 밖에 홀소리로 끝된 實辭밑에는 닿소리 (子音)로 끝된 實辭 밑에 쓰이는 토와 다른 一定한 토를 달아 쓰게 됨이 퍽 많은데, 이것도 홀 소리의 고룸의 現象이라 볼 것이외다. 가령 개, 소, 새, 쥐... 들 밑에는 『가』토가 달리고 닭, 말, 돛, 꿩... 들 밑에는 『이』 토가 달리는 것과 같은 따위가 그것이외다.
+二. 닿소리 法則(子音法則). 첫재, 닿소리(子音)는 原則으로는 늘 홀소리(母音)와 結合되어 쓰이는 것이고 kr, pt같은 連合音은 後世에 發達된 것이라 보는 것이외다. 日本말에서는 거듭된 닿소리를 容納하지 아니하는 때문에 만일 거듭된 外國말 가령 Cutlet 같은 말이 들어 올 때에는 이것을 『カツレツ』(Katsuretsu)라 하여 t와 l 사이에 홀 소리를 집어 넣어 發音하게 됨니다. 또 日本말에는 닿소리 (子音)로 끝막게 되는 音節이 도무지 없기 때문에 t 끝소리도 홀소리를 붙이어내게 되는 것이외다. 그러하나 朝鮮말에서는 둘까지 거듭된 닿소리는 勿論이고 셋까지 거듭된 것도 쓰임니다.
+가령 『까지』의 『ᄁ』, 『닭』의 『ƍ』같은 것은 닿소리 둘씩이 거듭된 것이고 『붉다』 『읊다』같은 말들은 『 ㄷ』또는 『  ㄷ』(ㅍ-ㅂㅎ)같은 셋 또는 넷의 닿소리가 거듭되어 쓰이는 것이외다. 또 둘째로는 元來 닿소리가 淸音뿐이나 後世에 濁音이 發達되게 된 것이외다.
+三. 첫소리 規則(頭音法則)(Law of initial sound). 첫소리란 것은 말의 맨 처음에 오는 소리를 이름이외다. 말의 種類에 딸아서는 어떠한 소리는 첫소리로 쓰일 수 잇고 어떠한 소리는 첫소리로 쓰일 수 없는 것이 잇어서 첫소리로 쓰일 수 없는 소리가 첫 소리로 쓰이게 될 때에는 다른 소리를 바꾸어 쓰는 것이외다. 이제 『우랄알타이』語族의 첫소리 規則으로 一般이 認定하는 重要한 것을 들어 보이면 다음과 같읍니다.
+(ㄱ) 첫소리에 濁音을 避하는 일. 『유라크싸모예드말』과 『핀랜드』말에서는 첫소리에 濁音(有聲音)이 오는 것을 避합니다. 『타우지』말은 b dj를 아니 쓰고 『에니세이싸모예드』말은 g d 以外의 모든 濁音을 다 첫소리에 아니 쓴다고 합니다. 日本말에서도 純粹한 日本말로서는 語頭에 濁音을 쓰는 것이 자못 적습니다 朝鮮말에는 첫소리에 濁音이 쓰이지 아니할 뿐 아니라 全體로 濁音이 자못 없읍니다.
+(ㄴ) 첫소리에 둘 이상의 거듭 닿소리를 避하는 일. 『싸모예드』말과 『핀랜드』말 같은 것이 그것이외다. 그러한 故로 거듭 닿소리를 첫소리로 가진 外國말이 들어올 때에는 이에다 여러 가지 變化를 시키엇습니다. 가령 (一) Streni 란 말은 『스오미』말로는 Ranta, 『에쓰트니아』말로는 Rand 라하며, Glas 란 말은 『스오미』말로는 Lasi, 『에쓰트니아』말로는 lass라 함 같은 것은 첫머리의 닿소리들을 떼어 버리는 것이며, (二) Floren을 『마지얄』말로는 Forint라함 같은 것은 둘째 닿소리를 떼어 버린 것이며 (三) Stall을 『마지얄』말로는 Istallo라 함 같은 것은 첫머리에 홀소리를 더하여 내는 것이며, (四) Prior를 『마지얄』말로는 Pejel이라 함 같은 것은 中間에 홀소리를 집어넣은 것이외다. 또 日本말에서 보면 『葡萄牙』말의 Christo(基督), Frasc(甁)를 『キリスト』(Kirisuto) 『フラスコ』(Furasuko)라 하며＜35＞ 『和蘭』말의 Grofgrein(織物의 이름)과 Bjik(양철)를 『吳綿福林』(Gorofukurin)과 『ガリキ』라 하여 그 거듭된 닿소리의 中間을 트고 홀소리를 집어넣어서 發音하는 것입니다. 『朝鮮』말에서도 이것을 『그리스도』 『프라쓰크』 『그로프그린』 『쁘크』라고 하게 되어, 그 거듭된 첫 닿소리의 中間에 홀소리를 집어넣고야 發音하게 되는 것이외다. 그러하나 朝鮮말에서는 절대로 첫소리에는 거듭닿소리를 용납지 아니함은 아니외다. 짝거듭(ㄲ, ᄄ, ㅃ, ㅆ, ㅉ, 따위)과 섞임거듭(ㅊ, ㅋ, ㄸ, ㅍ 따위)은 잘내게 되는 것이외다. 다만 西洋語音에서 이 따위가 거듭소리로 認定되지 아니 하엿을 따름이외다. (ㄷ) 첫소리에 r(ㄹ)音을 避하는 일. 『알타이』말에는 말 첫 머리에 (ㄹ) 音을 쓰는 일이 없읍니다. 日本말에도 固有한 日本말로는 『ラ≪�行의 첫소리를 씀이 없기 때문에 『露西亞』(Russia)를 『オロシヤ』(Orosia)로 부르던 것이나, 近者에 그러한 發音 習慣을 敎育의 힘으로 만들기 때문에 『ロシヤ』(Rosia)로 하게 되엇습니다. 또 그리하여 漢文에도 다른 外國말에서 처럼 매우 힘들이어 그 發音을 배우게 된 것이외다. 朝鮮말에도 첫소리는 아니 씁니다. 그리하여 外國말에서 그 첫소리 가진 말이 들어 올 것 같으면 『李哥』(리가)를 『이가』라 함 같이, 그 ㄹ첫소리를 뻬어버리거나 或 『老人』(로인)이나 『羅州』(라주)를 『노인』이나, 『나주』라 함 같이 ㄴ(n)으로 바꾸게 되는 것이외다.
+四. 끝소리 規則(末音法則, Law of final sound). 「끝소리」라 함은 말의 끝에 붙는 소리를 이름이외다. 이것도 첫소리 規則과 마찬가지로 말의 種類에 따라 여러 가지 制限이 잇읍니다. 『우랄알타이』語族의 그것은 그리 複雜하지는 아니하나 그 重要한 것을 들면 말의 끝소리는 原則으로 홀소리 또는 홋 닿소리 (單子音)로 됩니다. 或時 거듭 닿소리(連合子音)를 쓰는 것이 잇읍니다. 『日本』말, 『滿洲』말 같은 것은 特히 母音으로만 끝소리로 함을 좋아하는 것이외다. 그러하나 朝鮮말에서는 어느 소리나 關係하지 아니할 뿐 아니라 거듭된 닿소리도 끝소리로 씀이 많읍니다. 文法上으로 보면 끝소리에 둘 以上의 닿소리를 거듭하여 씀이 잇으나, 그대로 發音은 다 되지 못하다가 홀소리 첫소리를 가진 토가 오게 될 때에 거기에 結合되어 들어가게 되는 것이외다. 가령 『핥』(舐)이란 말은 Haldh(Halt 같음)와 같은 것이나 그것만 으로나 또는 그 밑에 닿소리를 첫소리로 가진 토가 올때에는 Hal 또는 Hald만 發音하게 되는 것이외다. 그러하나 그 밑에 홀소리를 첫소리로 가진 토가 올 때에는 맨 끝의 닿소리가 그 토의 첫 홀소리와 結合이 되어, 다 들어 나게 되는 것이외다. 값(價), 넋(魂), 옲(咏), 없(無), 따위도 다 그러한 것이외다.
+五. 월(文)의 構成法. 첫째, 월의 構造가 附着的 性質을 가지엇고 둘째, 主語(임자)가 맨 처음에 잇고 客語(他動詞에 매이어 쓰이는 名詞)가 그 다음에 잇고, 述語(풀이)가 맨 뒤에 잇으며, 셋째, 限定의 語句는 限定받을만한 語句 우에 놓이는 일들은 『우랄알타이』 語族의 主要한 性質이외다. 그 밖에 이 말에는 冠詞(Artiele)가 없으며 性(Gender)別과 關係代名詞(Relative Pronoun)가 없는 것도 그 主要한 性質로 보지 아니하면 아니될 만한 것이외다. 朝鮮말이나 日本말들은 다 이 條件들의 性質을 가지고 잇는 것 이외다. 一部의 學者間에는 朝鮮말과 日本말이 어대 屬할 것인가를 問題삼고 잇으나 以上 다섯 가지의 『우랄알타이』語族의 特質은 朝鮮말과 日本말이 이 語族에 屬할 만한 共通性을 否定하는 것보다 肯定하게 하기에 더 有力합니다.＜36＞
+＜34-36＞

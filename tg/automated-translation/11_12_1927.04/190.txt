@@ -1,0 +1,111 @@
+Magazine Title: 동광 제12호
+Publication Date: 1927년 04월 01일
+Article Title: 우리가 먹는 쌀이 얼마나 낫는가? (How Much Rice Do We Produce?)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous article)
+
+How Much Rice Do We Produce?
+
+Last year's actual rice yield for All Korea (全 朝鮮) was reported as 15,297,442 *sŏk*, which is said to be an increase of 524,340 *sŏk* compared to the year before last. Dividing this by province:
+
+1. South Chŏlla Province (全羅南道): 2,298,746 *sŏk*
+
+2. North Kyŏngsang Province (慶尙北道): 2,213,175 *sŏk*
+
+3. South Kyŏngsang Province (慶尙南道): 2,055,980 *sŏk*
+
+4. North Chŏlla Province (全羅北道): 1,764,054 *sŏk*
+
+5. Kyŏnggi Province (京畿道): 1,595,871 *sŏk*
+
+6. South Ch'ungch'ŏng Province (忠淸南道): 1,452,309 *sŏk*
+
+7. Hwanghae Province (黃海道): 843,607 *sŏk*
+
+8. Kangwŏn Province (江原道): 726,809 *sŏk*
+
+9. North Ch'ungch'ŏng Province (忠淸北道): 612,924 *sŏk*
+
+10. North P'yŏngan Province (平安北道): 612,649 *sŏk*
+
+11. South P'yŏngan Province (平安南道): 605,315 *sŏk*
+
+12. South Hamgyŏng Province (咸鏡南道): 443,167 *sŏk*
+
+13. North Hamgyŏng Province (咸鏡北道): 112,876 *sŏk*
+
+Total: 15,297,442 <67>
+
+**Summary**
+
+This short article reports Korea's total rice production for the previous year (likely 1926, given the 1927 publication date) as nearly 15.3 million *sŏk*, noting an increase of over 524,000 *sŏk* from the prior year. It then provides a detailed breakdown of the rice yield by each of Korea's thirteen provinces, listing them in descending order of production. For historians, this piece offers precise agricultural statistics from the colonial period, highlighting regional production capacities and disparities (e.g., the high yields in southern provinces compared to northern ones). It reflects the colonial administration's focus on tracking and increasing agricultural output, particularly rice, which was a key commodity.
+
+**Named Entities**
+
+全 朝鮮	전 조선	Chŏn Chosŏn (All Korea)
+全羅南道	전라남도	Chŏlla-namdo (South Chŏlla Province)
+慶尙北道	경상북도	Kyŏngsang-pukto (North Kyŏngsang Province)
+慶尙南道	경상남도	Kyŏngsang-namdo (South Kyŏngsang Province)
+全羅北道	전라북도	Chŏlla-pukto (North Chŏlla Province)
+京畿道	경기도	Kyŏnggi-do (Kyŏnggi Province)
+忠淸南道	충청남도	Ch'ungch'ŏng-namdo (South Ch'ungch'ŏng Province)
+黃海道	황해도	Hwanghae-do (Hwanghae Province)
+江原道	강원도	Kangwŏn-do (Kangwŏn Province)
+忠淸北道	충청북도	Ch'ungch'ŏng-pukto (North Ch'ungch'ŏng Province)
+平安北道	평안북도	P'yŏngan-pukto (North P'yŏngan Province)
+平安南道	평안남도	P'yŏngan-namdo (South P'yŏngan Province)
+咸鏡南道	함경남도	Hamgyŏng-namdo (South Hamgyŏng Province)
+咸鏡北道	함경북도	Hamgyŏng-pukto (North Hamgyŏng Province)
+
+**Glossary**
+
+낫는가	나는가	How much is produced/yielded? (Older spelling/form of 나는가)
+실수액	실수액	Actual yield; actual amount harvested
+재작년	재작년	The year before last
+비하면	비하면	Compared to
+증수	증수	Increase in harvest/yield
+각 도별로	각 도별로	By each province
+난우면	나누면	If divided (Older spelling/form of 나누면)
+석	석	*Sŏk* (A traditional unit of volume, approx. 180 liters, commonly used for grain)
+총계	총계	Grand total
+
+
+---------------------------
+
+
+잡지명	동광 제12호
+발행일	1927년 04월 01일
+기사제목	우리가 먹는 쌀이 얼마나 낫는가?
+기사형태	잡저
+
+우리가 먹는 쌀이 얼마나 낫는가?
+작년도 全 朝鮮에서 쌀의 실수액이 15,297,442석이라는데 재작년도에 비하면 524,340석이 增收라 한다. 이를 각 도별로 난우면
+1, 全羅南道 2,298,746石
+
+2, 慶尙北道 2,213,175
+
+3. 慶尙南道 2,055,980
+
+4. 全羅北道 1,764,054
+
+5. 京畿道 1,595,871
+
+6. 忠淸南道 1,452,309
+
+7. 黃海道 843,607
+
+8. 江原道 726,809
+
+9. 忠淸北道 612,924
+
+10. 平安北道 612,649
+
+11. 平安南道 605,315
+
+12. 咸鏡南道 443,167
+
+13. 咸鏡北道 112,876
+
+總計 15,297,442 ＜67＞
+
+＜67＞

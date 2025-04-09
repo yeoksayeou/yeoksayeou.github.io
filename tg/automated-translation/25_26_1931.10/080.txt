@@ -1,0 +1,301 @@
+Magazine Title: 동광 제26호
+Publication Date: 1931년 10월 04일
+Article Title: 米專賣問題 (The Rice Monopoly Issue)
+Author: 徐椿
+Article Type: 논설 (Editorial)
+
+The Rice Monopoly Issue
+						Sŏ Ch'un
+
+I. History of the Rice Monopoly Issue
+
+Japan's Rice Monopoly issue arose during the Terauchi Cabinet era (formed October 9, 1916, lasted 1 year, 11 months, 20 days) when Agriculture Minister Nakashōji attempted government intervention in rice prices. That is, the observation was that thoroughly implementing government control over rice would sooner or later necessitate the implementation of a rice monopoly system. Later, in April 1921, the Rice Law was enacted, and a stopgap measure aimed at adjusting the quantity and price of rice through government rice purchases was implemented, causing this issue to naturally subside in the interim. However, in 1929, when the Hamaguchi Cabinet established the Rice Investigation Committee with the goal of revising the Rice Law, some committee members passionately argued for the implementation of a monopoly system. The fundamental reasons for advocating a rice monopoly were:
+
+I. It is inappropriate to leave rice, a staple food for the entire nation, to price determination by free competition.
+II. To achieve price control, there is no suitable method other than the state grasping monopolistic power.
+III. As a result of the monopoly, the government would sell it at an average price, which would also be greatly beneficial to consumers.
+IV. By setting an appropriate purchase price, improvements in agriculture and the promotion of its rational management can be expected.
+And so on.
+
+However, this proposal for implementing a monopoly system was buried due to opposition from a majority of the Rice Investigation Committee members, ultimately leading to the enactment of the Revised Rice Law – the current Rice Law implemented from July 1st of this year – which adjusts rice prices based on the standard of the "Trend Rice Price" (率勢米價). Yet, according to the statements made by each committee member, the opposition of the majority to the monopoly system was not fundamentally against the rice monopoly system itself, but mainly stemmed from the difficulty of implementing <22> the system. Let us list the main points of opposition:
+
+I. A monopoly necessitates comprehensive control over rice production, and the state absolutely cannot withstand such complex efforts.
+II. Furthermore, a rice monopoly would naturally expand to encompass miscellaneous grains like barley and millet, making it even more impossible for the state to endure the effort.
+III. Since purchases would be made at high prices and sales at low prices, state expenditures would further increase.
+IV. Implementation becomes difficult during times of poor harvest.
+V. Calculating production costs is impossible during localized or regional poor harvests.
+VI. If purchases are based on the standard of rice production costs, it would dull the farmers' diligence, lower the quality of rice, and also hinder the development of new land.
+These were the reasons for opposition. (Excerpt from an editorial in the Ōsaka Asahi, August 23rd of this year)
+
+Thus, the Rice Monopoly issue, which had temporarily subsided, reignited when the Nōseikai (農政會), composed of Seiyūkai members related to rural affairs, resolved on July 30th of this year to push for the implementation of a Rice Monopoly System. Consequently, it has now become a major issue in Japanese agricultural policy requiring resolution sooner or later.
+
+II. Reasons for the Resurgence of the Rice Monopoly Issue
+
+Rice is the staple food for the Japanese people, an essential commodity that the vast majority of the 50 million population cannot go a day without consuming. Simultaneously, even today, when Japan is known as a commercial and industrial nation, more than half of its total population consists of farmers who produce rice. Herein lies the fundamental reason why the rice issue holds significant meaning in Japan. That is, if rice prices become unreasonably high, hardship arises for the majority of the nation's people, and if rice prices fall excessively, the livelihood of Japanese farmers becomes difficult. The former case brings hardship to the entire nation, while the latter brings hardship to more than half of the nation. Therefore, to maintain order and preserve peace in Japan, and to pursue development both as a nation and for individuals, rice prices must neither be too high nor too low. Hence, even during the Tokugawa Shogunate era in Japan, the government expended considerable effort on rice regulation. However, speaking only of the most recent events, in 1918, due to a major poor harvest and soaring rice prices accompanying general price inflation, a major unfortunate incident known as the "Rice Riots" occurred. A year later, in 1920, a bumper harvest and a crash in general prices led to a collapse in rice prices, causing considerable damage to rural villages.
+
+At this point, discussions became clamorous (喧囂) both inside and outside the government, arguing that rice could not be left to price determination by natural competition as usual and that some government measure was necessary.
+As a result, the old Rice Law came into effect in April 1921. The main focus of the old Rice Law was:
+I. Its purpose was to adjust the quantity or market price of rice.
+II. One method was government purchase and sale (拂下) of rice.
+III. Another method was the regulation of foreign rice imports by Imperial Ordinance (勅令).
+
+To aid understanding of this main focus, let us excerpt the necessary parts from the old Rice Law as follows:
+Article 1: The government, when deemed necessary to adjust the quantity or market price of rice, may purchase, sell, exchange, process, or store rice.
+Article 2: The government, when deemed particularly necessary to adjust the quantity or market price of rice, may, by Imperial Ordinance, designate a period to increase, decrease, or exempt the import duty on rice, or restrict its import or export.
+
+However, while the regulation of foreign rice under Article 2, whether increasing/decreasing/exempting import duties or restricting import/export quantities, could be achieved through a single piece of legislation, the primary method of adjusting rice quantity and market price – rice purchase – is impossible without purchase funds. Accordingly, alongside the old Rice Law, the "Rice Supply and Demand Adjustment Special Account Law" (米穀需給調節特別會計法) was simultaneously implemented, setting the maximum limit for rice funds <23> at 200 million yen. Therefore, using these rice funds, capped at a maximum of 200 million yen, the quantity and price of rice after 1921 were adjusted.
+
+Looking at the results thereafter, due to two reasons – (1) relatively frequent bumper crops and (2) the continuous decline of rice prices accompanying the fall in general prices – the government, as a measure to prevent this decline, was unable to sell the rice it had already purchased and only continued to buy. Consequently, the government's Rice Supply and Demand Special Account suffered huge losses due to (1) losses from the price decline of stored government rice (price drop loss), (2) losses from insect damage, volume reduction, etc., of stored rice, and (3) administrative cost losses. That is, in the approximately 7 years since the implementation of the Rice Law until 1928, a loss of 70 million yen was incurred. Inevitably, in 1928, the maximum limit for rice funds was increased by another 70 million yen, from the previous 200 million yen to 270 million yen.
+
+However, since 70 million yen had already become a loss, even after the increase, the actual rice funds amounted to only 200 million yen. Furthermore, subtracting the portion tied up in previously purchased rice, the liquid capital available for deployment for rice purchases when needed was less than 100 million yen.
+
+But by around 1929, less than 10 years after the implementation of the old Rice Law, it became apparent not only that (1) a major change had occurred in the supply and demand situation for rice within Japan, but also that (2) the old Rice Law itself had a major flaw.
+
+First, speaking of the changes over the 7-8 years since implementation, the fact is the sharp increase in the volume of Korean rice exported (移出) to Japan. Around 1921, when the Rice Law was implemented, the export of Korean rice to Japan was only about 2 million koku (石), but in the following 7-8 years, this increased sharply, reaching an annual export volume of 7 million koku. Consequently, whereas previously rice prices in Japan were determined solely by the situation of Japanese rice, by this time, rice prices within Japan became significantly influenced by the fluctuating situation of Korean-produced rice. That is, the sharp increase in the annual export volume of Korean rice became a significant threat (脅威) to the rice market situation within Japan.
+
+Moreover, the bumper crops in Japan and Korea after 1921 were not merely chance occurrences (偶作) due to favorable weather, but resulted from increases in cultivation area for rice farming and rapid advancements in fertilization (施肥) and agricultural techniques, leading to increased rice yields. Therefore, the trend of falling rice prices due to "oversupply of rice" gained considerable persistence, which also became a major factor hindering the operation of the Rice Law.
+
+Next, the sharp increase in Korean rice exports to Japan was not solely caused by (1) increased rice production due to land improvement alone; a larger contributing factor was (2) the pitiful fact of a decline in the number of rice-eating classes due to the rapid deterioration of Korean livelihoods. That is, Koreans who previously ate rice gradually became impoverished in their material lives, resulting in them being unable to eat rice anymore and instead consuming millet or other miscellaneous grains. Consequently, regardless of harvest conditions, the amount of Korean-produced rice needing export has increased sharply year after year.
+
+To put it simply, (1) the increase in Japanese-produced rice due to increased arable land area and agricultural improvements, and (2) the sharp increase in exports of Korean-produced rice to Japan due to land improvement and Korean impoverishment – these two facts newly emerged in the 7-8 years after the implementation of the old Rice Law and are major causes that have continuously pushed Japanese rice prices downward. Next, what is the flaw inherent in the old Rice Law itself?
+
+(I) The old Rice Law stipulated that when rice prices fell unduly, rice should be purchased (買上) as a measure to prevent price decline for the benefit of rice producers (farmers), and conversely, when rice prices soared unduly, government rice should be sold as a measure to prevent soaring prices for the benefit of rice consumers (the general public). However, a major flaw was the absence of price standards for both purchase and sale (拂下). That is, because there were no regulations specifying how low the price should fall before buying or how high it should rise before selling, purchases and sales were entirely left to the arbitrary decisions of the government authorities at the time, leading to various abuses. One of the biggest abuses was that government officials at the time exploited this for election purposes, sometimes disregarding the interests of rice consumers to curry favor with farmers by carrying out purchases, and at other times disregarding the interests of farmers to gain the support of urban residents <24> by selling off rice.
+
+(II) Furthermore, the regulations for adjusting foreign rice were incomplete. According to the old law, whenever necessary, an Imperial Ordinance had to be issued each time, designating a period to regulate the import of foreign rice. This caused significant inconvenience in terms of procedures and other aspects during times like the past 2-3 years when restrictions on foreign rice imports became necessary not just temporarily but on a more permanent (恒久性) basis.
+
+Considering the aforementioned changes in Japan's internal rice supply and demand situation along with the flaws of the Rice Law itself, anyone can generally guess that maintaining the old Rice Law as is would make it impossible to achieve its fundamental spirit – the adjustment of rice quantity and market price.
+
+Hence, in 1929, when the Hamaguchi Cabinet took office, it inherited the Rice Investigation Committee established during the previous Tanaka Cabinet era and planned to renew rice countermeasures.
+As briefly mentioned in the History section above, among the Rice Investigation Committee members at that time, the issue arose that thorough national control over rice could only be achieved by adopting a Rice Monopoly System. However, that proposal ultimately met with opposition and was buried, leading to the drafting of the Revised Rice Law based on the "Trend Rice Price" (率勢米價).
+
+The main points of improvement in the Revised Rice Law compared to the old Rice Law are:
+I. It stipulated a standard price upon which the activation of the Rice Law would be based. This is the so-called Trend Rice Price. This aimed to eradicate (根絶) the abuse of government authorities arbitrarily activating the Rice Law. (See Revised Law Articles 4 and 5)
+II. It thoroughly implemented the control and management of foreign rice. That is, the old law adopted a laissez-faire principle towards foreign rice, only restricting it via Imperial Ordinance whenever necessary, whereas the new law, conversely, adopted a principle of restricting foreign rice. (See Revised Law Articles 2 and 3)
+
+Thus, the Revised Rice Law, along with the Revised Rice Supply and Demand Special Account Law, passed the 59th Diet session in March 1928, and both laws were implemented from July 1st last year.
+And the main point of this revision to the Rice Supply and Demand Special Account Law was to increase the maximum limit of rice funds by another 80 million yen, from the previous 270 million yen to 350 million yen. Like the previous revision, this increase matched the 80 million yen loss incurred from 1928 until last year. Therefore, ultimately, the rice funds, including the fixed portion, amount to only 200 million yen, meaning the available liquid capital for rice purchases is only around 100 million yen.
+
+From the above, it can be generally inferred without difficulty that even with the operation of the revised Rice Law, there are circumstances making it difficult to fully achieve the fundamental spirit of the Rice Law – the adjustment of quantity and market price. Now, let's list those difficulties:
+
+I. Although the Trend Rice Price sets a standard for activating the Rice Law, the price range between the minimum value triggering purchases and the maximum value triggering sales is too wide. For example, this year the minimum value is 18 yen 28 sen, and the maximum value is 27 yen 42 sen, a difference of over 9 yen. Allowing a commodity like rice, which has such significant implications for the entire nation, to fluctuate within such a wide price range must be seen as a major flaw of the new Rice Law. However, if the price range were narrowed, the government would likely be unable to withstand the frequent (頻繁) purchases and sales of rice.
+II. Even with the Revised Rice Law, there is no way to avoid losses in rice funds due to the same reasons and causes as before. And since a loss of 150 million yen has already been incurred since the implementation of the Rice Law, it is utterly impossible to continue incurring such enormous losses permanently.
+These are the difficulties.
+
+Because of these various difficulties, Japan's Rice Law faces only two paths: either abolish it and leave the rice trade entirely to free competition, or devise and implement a different, more effective rice countermeasure.
+However, even among those who speak of the Rice Law's incompetence, few advocate leaving the rice trade entirely to free competition. <25>
+
+So, what is a more effective rice countermeasure than the Rice Law? Based on the teachings of theory and experience to date, it seems there is nothing other than the Rice Monopoly System. Consequently, while the current Rice Law is destined to be abolished sooner or later, it can be surmised that the Rice Monopoly System will one day be adopted in its place.
+
+For these reasons, the trend towards the Rice Monopoly System becoming a practical issue sooner or later was strong. However, there must be a specific reason why this issue was already being advocated and drawing public attention at the end of last July, less than a month after the implementation of the revised Rice Law. So, what is that reason?
+
+It is the fact that due to the economic panic since the year before last and the bumper crop last year, rice prices collapsed, bringing the rural economy close to ruin. Today's rural villages, near ruin, cannot be saved merely by the price decline prevention measures under the current Rice Law. In other words, the current Rice Law does not guarantee that rice can be sold for at least its production cost. Because of this, farmers easily incurred losses. And a major cause of the ruin of rural villages today lies in the decline of rice prices. From this situation, Japanese farmers desperately demanded a more effective rice countermeasure as an immediate relief measure from imminent ruin. It is because of these circumstances that the Rice Monopoly Issue has become a relatively quickly actualized problem.
+Therefore, the rice monopoly issue was reignited, triggered by the resolution of the Nōseikai, organized by Seiyūkai members related to rural affairs.
+
+III. The Seiyūkai Plan
+
+This has not yet been decided as the Seiyūkai party's official stance but was merely drafted by the party's Policy Affairs Research Council's Special Committee. The fate of this plan remains to be seen, but first, let's look at its outline:
+
+(I) The purpose of rice trading is to achieve fair price determination and complete quantity adjustment. Therefore, contrary to the tobacco monopoly, it is based on a non-revenue-generating principle for fiscal purposes.
+(II) The rice monopoly aims to secure and stabilize producers' income while simultaneously supplying consumers with staple food at a fixed, low price, thereby eliminating the instability of farm household economies and ensuring the stability of the general public's livelihood.
+
+Method.
+(I) Compensation for Private Businesses
+(1) The government shall compensate those who lose their business due to the implementation of the rice monopoly, such as rice collection points, wholesalers, and retailers.
+(2) The compensation price shall be determined through deliberation by a Compensation Committee.
+(3) Compensation shall be made through the issuance of public bonds (公債), but those former wholesalers and retailers designated as primary distributors (元賣捌人) or retailers under the rice monopoly shall not be compensated.
+(4) A rough estimate of the compensation amount for private businesses is as follows: Exchange compensation amount 27.627 million yen (paid-in capital of exchanges fully compensated). Brokerage compensation 9.35 million yen (compensated at a rate of 5 sen per koku based on exchange trading volume of 187.35 million koku). Rice vendor compensation amount 64.14 million yen (based on Japanese rice trading volume of 32.7 million koku at 25 yen per koku, assuming a 20% profit, totaling 160.35 million yen, with 60% of this amount considered for those designated as primary distributors and retailers). The total compensation for private businesses, 101 million yen, will be handled with 5% interest-bearing public bonds amortized over 20 years.
+
+(II) Scope of the Rice Monopoly
+(1) For Japanese rice, excluding the amount consumed by farm households themselves, the rest shall be under government monopoly.
+(2) The import (移入) of Korean rice and Taiwanese rice, the import of foreign rice, and the export/transfer (輸移出) of Japanese rice shall belong to the government's monopoly rights.
+
+(III) Rice Collection, Storage, and Sale
+(1) Rice collection (收納) shall be conducted through Rice Delivery Associations, with each city, town, or village in the production area forming one district.
+(2) The collection price shall be determined based on covering the production cost of rice.
+(3) For rice collection, the government shall issue securities, and payment of cash for these securities shall be made from the proceeds of rice sales.
+(4) Rice shall be stored using national granaries, agricultural warehouses, private warehouses, and individual granaries of producing farmers.
+(5) The government shall purchase brown rice (玄米) and sell polished rice (白米). Rice sales shall be conducted through primary distributors (元賣捌引) to retailers. <26>
+(6) The selling price shall be determined within a range calculated by adding polishing fees (精白料), transport costs, and other miscellaneous expenses to the purchase price.
+
+(IV) Rice Monopoly Organization
+(1) A Rice Monopoly Bureau shall be established centrally, with branches in each prefecture, and sub-branches in other necessary locations to manage affairs related to rice inspection, collection, polishing, sales, imports (移入, 輸入), and exports (移出, 輸出).
+(2) A Council (評議員會) shall be established within the Rice Monopoly Bureau to deliberate on the determination of rice collection prices, selling prices, and other matters.
+
+The above is the outline.
+Now, there are many interpretations and various questions regarding the above outline. Furthermore, there are quite a few points among them that I still do not understand. Therefore, I would like to select and mention just a couple of points that might attract our interest.
+
+(1) Explanation of Objective 2: Objective 2 states, "The rice monopoly aims to secure and stabilize producers' income while simultaneously supplying consumers with staple food at a fixed, low price, thereby eliminating the instability of farm household economies and ensuring the stability of the general public's livelihood."
+However, to fully achieve this objective, there should logically be a way to purchase rice from producers at a higher price than before (before the rice monopoly system) and supply it to consumers at a lower price than currently (also before the rice monopoly system). To rephrase this, only if there is a way to buy high and sell low (cheaply) can the producers' income be secured and stabilized while ensuring the stability of the livelihood of consumers, the general public.
+So, can rice really be bought at a higher price than before and sold at a lower (cheaper) price than before? The response from proponents of the rice monopoly is as follows:
+"Currently, the standard market price at the Tokyo Fukagawa Standard Rice Market (東京深川正米市長) is around 20 yen 30-40 sen per koku. However, the farm gate price varies by region, but generally, it is 2-3 yen lower than this market price, selling for around 18 yen. Yet, the retail price for 1 koku of polished rice purchased by Tokyo citizens from polished rice merchants ranges from 27 yen to 30 yen, resulting in a difference of about 10 yen from the farm gate price. Now, the cost to buy rice from the farm, transport it to Tokyo City, polish it (精米), and supply it to citizens is only about 3 yen. Let's be generous and estimate this at 4 yen. Therefore, rice purchased from farms at 18 yen can be provided to citizens as polished rice for 22 yen. Now, if the purchase price from farms is based on production costs, the national average rice production cost for 1930, according to the Ministry of Agriculture and Forestry (農林省) survey, is 21 yen 35 sen per koku. Therefore, using this as the purchase price and adding 4 yen for intermediate expenses, the price of 1 koku of polished rice that can be provided to citizens becomes 25 yen 35 sen. Compared to the current free market system, it is possible to purchase rice from farms for 3 yen more per koku and provide it to consumers for 3 yen less."
+
+(2) Status of Korean Rice: The status of Korean rice relative to Japan currently holds an intermediate position between Japanese rice and foreign rice, but if anything, it receives treatment relatively closer to that of Japanese rice. To put this concretely, Korean rice, unlike Japanese rice, is not eligible for purchase under the Rice Law, making its treatment inferior to Japanese rice. However, when Japanese rice is purchased in Japan, the price of Korean rice also rises accordingly, allowing it to share in the advantageous treatment. And although Korean rice is subject to some export hindrance called "Export Control" (移出統制), it is not subject to strict restrictions requiring permits for import (移入) like foreign rice. In essence, it holds an intermediate status between Japanese rice and foreign rice.
+However, looking at the Seiyūkai plan now, it states, "The import (移入) of Korean rice and Taiwanese rice, the import of foreign rice, and the export/transfer (輸移出) of Japanese rice shall belong to the government's monopoly rights," thereby demoting Korean rice to the same rank as foreign rice.
+Therefore, if such a system were implemented:
+(1) Korean rice would only have the potential to be exported (移出) to the extent needed to supplement the shortfall in rice consumption within Japan.
+(2) Its price would be controlled by the monopoly power, with increases and decreases entirely dependent on the intentions of the government authorities at the time.
+Consequently, in years when Japan has a bumper harvest and can meet domestic consumption needs solely with Japanese rice, not a single grain of Korean rice might be exported. Furthermore, even if some export occurs, there might be times when policies are adopted to purchase Japanese rice above production cost while purchasing Korean rice – which lacks the guarantee of being "purchased based on production cost" – below production cost to average out the highs and lows and provide it cheaply to consumers. Thus, at least on the day the Seiyūkai plan is realized, the status of Korean rice must be seen as worsening compared to before.
+(Written September 8, 1931) <27>
+
+**Summary**
+
+This 1931 editorial by Sŏ Ch'un discusses the resurgent debate in Japan over establishing a government monopoly on rice. It traces the history of rice control measures, including the flawed Rice Law, and explains why the monopoly idea regained traction: severe economic depression, falling rice prices devastating farmers, and the perceived inadequacy of existing laws. The article details the arguments for the monopoly (price stability, farmer support, consumer benefit) and against it (implementation difficulties, cost, potential negative impacts). It outlines the Seiyūkai party committee's specific monopoly proposal, including compensation for existing businesses and mechanisms for purchase and sale based on production costs plus expenses. From a Korean colonial history perspective, the article is highly revealing. It explicitly notes the sharp increase in Korean rice exports to Japan, driven not just by agricultural improvements but also by the impoverishment of Koreans forced to switch from rice to cheaper grains, thereby creating a surplus for export. Most significantly, it highlights how the proposed Seiyūkai monopoly plan would relegate Korean rice to the status of foreign rice, potentially severely restricting its export to Japan based on Japanese needs and allowing discriminatory pricing below production costs, thus worsening Korea's economic position within the empire. Historians would find the frank discussion of colonial economic dynamics, the impact of Japanese policy on Korean livelihoods, and the explicit plan to subordinate Korean rice interests to Japanese ones particularly valuable.
+
+**Named Entities**
+
+寺內內閣	데라우치 내각	Terauchi Naikaku
+仲小路農相	나카쇼지 농상	Nakashōji Nōshō
+濱口內閣	하마구치 내각	Hamaguchi Naikaku
+米穀調査委員會	미곡조사위원회	Rice Investigation Committee
+大阪 朝日	오사카 아사히	Ōsaka Asahi
+政友會	정우회	Seiyūkai
+農政會	농정회	Nōseikai
+德川幕府	도쿠가와 막부	Tokugawa Shogunate
+朝鮮	조선	Chosŏn
+田中內閣	다나카 내각	Tanaka Naikaku
+農林省	농림성	Ministry of Agriculture and Forestry (Japan)
+東京深川正米市長	도쿄 후카가와 정미 시가	Tokyo Fukagawa Standard Rice Market Price
+대만	대만	Taeman
+
+**Glossary**
+
+米專賣問題	미전매문제	Rice Monopoly Issue
+沿革	연혁	History, development
+米價	미가	Rice price
+買上	매상	Purchase (by the government)
+拂下	불하	Sale (by the government)
+率勢米價	솔세미가	Trend Rice Price (a standard price benchmark)
+勘耐	감내	To endure, withstand (used with 노력 'effort')
+沈熄	침식	To subside, die down
+再燃	재연	To reignite, flare up again
+喧囂	훤효	Noisy, clamorous discussion
+摘記	적기	To note down, excerpt
+勅令	칙령	Imperial edict/ordinance
+會計法	회계법	Accounting law
+齎來	재래	To bring about, cause (used with 변천 'change')
+移出	이출	Export (specifically from colony like Korea/Taiwan to Japan)
+騰落	등락	Fluctuation (rise and fall)
+脅威	협위	Threat, menace
+偶作	우작	Chance crop (good harvest due to luck/weather, not skill)
+施肥	시비	Fertilization
+恒久性	항구성	Permanence, enduring nature
+根絶	근절	Eradication, elimination
+頻繁	빈번	Frequent
+公債	공채	Public bond
+收納	수납	Receipt, collection (of goods like rice)
+賣捌人	매팔인	Wholesaler, distributor (older term; 元賣捌人 primary wholesaler)
+玄米	현미	Brown rice
+精白	정백	Rice polishing/milling (精白料 polishing fee)
+評議員會	평의원회	Council, advisory board
+잇엇다	있었다	Was/existed (older spelling)
+하얏다	하였다	Did (older spelling)
+왓섯다	왔었다	Came/had come (older spelling)
+되엇다	되었다	Became (older spelling)
+햇섯다	했었다	Did/had done (older spelling)
+끄을게	끌게	To attract/draw (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제26호
+발행일	1931년 10월 04일
+기사제목	米專賣問題
+필자	徐椿
+기사형태	논설
+
+米專賣問題
+						徐椿
+一. 米專賣問題의 沿革
+日本의 米專賣問題는 寺內內閣時代(大正5년 10월 9일 組閣, 存續期間은 1년 11개월 20일)에 仲小路農相이 米價에 대한 정부 간섭을 試하든 당시부터 이러낫든 것이다. 즉 米에 대한 정부의 통제를 철저히 하는데는 早晩米專賣制度를 실시할 수 밖에 없다는 관측이엇섯다. 그후 大正 10년 4월에 米穀法을 실시하야 정부의 米穀買上이라는 米穀의 數量 及 價格調節을 목적으로 한 便法이 행하게 되자 이 문제는 중간에 자연히 소멸되엇다. 그러다가 昭和 4년에 와서 濱口內閣이 米穀法의 개정을 목적으로 하야 米穀調査委員會를 설치하기에 至하야 위원 중에는 열심으로 專賣制度의 실시를 주장하는 者가 잇엇다. 米專賣를 주장하는 근본 이유는
+一. 一國民의 주요식량인 米에 대하야 此를 自由競爭에 의한 價格決定에 방임해 두는 것은 적당치 아니하다.
+二. 그런데 가격의 통제를 圖하는데는 국가의 손에 독점력을 파악할 수밖에 달리 적당한 방법이 없다.
+三. 專賣의 결과로 정부는 此를 평균가격으로써 매각하게 되는 故로 소비자에게도 큰 이익이 잇다.
+四. 買上價格을 적당히 하는 때는 농업의 개선과 및 그 합리적 경영의 촉진을 期할 수가 잇다.
+등등에 잇엇다.
+그런데 此 專賣制度實施의 주장은 米穀調査委員 중 다수의 반대에 의하야 매장을 당하고 결국 『率勢米價』라는 표준을 가지고 米價를 조절하는 改正米穀法 즉 금년 7월 1일부터 실시된 현행 米穀法이 실시되기에 至하얏다. 그러나 專賣制度에 대한 다수위원의 반대 의견도 각 위원의 陳述한 바에 의하면 결국 米專賣制度 자체에 대한 본질적 반대는 아니요, 주로 그＜22＞ 제도의 實行難에 잇는 모양이다. 이제 그 반대의 주요점을 들어보면
+一. 專賣는 米의 생산에 관하야 일절의 統制管 伴함을 要하는 故로 국가는 도저히 그 緊雜한 노력에 勘耐할 수 없다.
+二. 또한 米의 專賣는 자연히 麥粟과 같은 雜穀類의 專賣에까지 확대되고야 말것이니까 국가는 더구나 그 노력에 勘耐할 수가 없다.
+三. 買上은 高價로 賣却은 廉價로 하게 되는 故로 국가의 비용은 更히 증대한다.
+四. 凶作時에는 실행 곤란에 陷한다.
+五. 局部的, 地方的 흉작에 際하야 생산비의 산정이 불가능하다.
+六. 米의 생산비를 표준으로 하야 買上한다고 하면 농민의 勤勉力을 鈍케 하야 米의 品位를 저하하며 또한 新土地 開發이 장해가 된다.
+등등이 그 반대 이유이엇섯다. (이상 大阪 朝日 今年 8월 23일 부 社說의 일부를 인용)
+이리되어 일시 沈熄되엇든 米專賣문제는 금년 7월 30일에 政友會 農村關係의 위원으로 조직된 農政會가 米專賣制度의 斷行案을 결의한 것을 계기로 하야 다시 再燃하엿다. 그리하야 今日에 와서는 早晩解決을 要할 日本 農政上의 일대 문제가 되어가지고 잇는 중이다.
+
+二. 米專賣問題 再燃의 理由
+米穀은 日本國民의 주요식량으로서 5천만 대중의 대다수가 하로도 소비치 않고는 않될 필수품인 동시에 商工業國의 稱을 듣는 今日에도 일본 전인구의 반수이상은 米穀을 생산하는 농민이다. 米穀問題가 日本에 잇어서 중대한 의의를 가지는 근본이유는 여기잇다. 즉 그런 故로 米價가 부당히 비싸지면 국민 대다수의 생활난이 생기고 米價가 부당히 繼落하게 되면 日本農民의 생활이 곤란하게 된다. 前者의 경우에는 국민전체의 곤란이요 후자의 경우에는 一國民의 半數이상의 곤란이다. 故로 日本의 秩序를 유지하며 안녕을 保持하며 국가 及 개인으로서의 발전을 圖하는데는 米價가 너무 비싸도 안되고 너무 低落해도 아니된다. 故로 日本서는 일즉 德川幕府 時代에 잇어서도 정부는 米穀調節에 대하야 적지 않은 애를 써 왓든 것이다. 그러나 極最近의 일만을 가지고 말하면 大正 7년에는 大凶作 及 一般物價暴騰에 伴한 米價의 폭등으로 인하야 결국 『米騷動』이라는 一大 不祥事가 생기엇고 그후 1년을 지난 大正 9년에와서는 豐作 及 一般物價의 暴落에 의한 米價의 暴落으로 인하야 농촌의 打擊이 不少하엿다.
+여기서 米穀은 自然競爭에 의한 가격결정의 狀慣대로 방임할 수 없고 반드시 정부의 힘을 비러서 何等의 대책이 잇어야 되겟다는 의논이 朝野에 喧囂하기에 至하엿다.
+그 결과로 大正 10년 4월에 舊米穀法의 실시를 보게 되엇다. 舊米穀法의 主眼은
+一. 그 목적은 米穀의 數量 又는 市價를 조절하는데 잇엇다.
+二. 그 방법의 하나는 정부의 米買上 及 拂下에 잇고
+三. 그 방법의 또 한가지는 勅令에 의한 外米輸入의 조절에 잇엇다.
+이제 이 主眼에 대한 이해에 도옴이 되게하기 위하야 舊米穀法 중에서 필요만 부분을 摘記해 보면 如左하다.
+第1條 정부는 米穀의 數量 又는 市價를 조절하기 위하야 필요잇다고 認하는 時는 米穀의 買入, 賣渡, 交換, 加工, 又는 貯藏함을 得함
+第2條 정부는 米穀의 數量 又는 市價를 조절하기 위하야 특히 필요잇다고 認하는 時는 勅令으로써 기간을 指定하여 米穀의 輸入稅를 增減 혹은 免除하며 又는 그 수입 혹은 수출을 제한함을 得함.
+그런데 本法 제2조에 의한 外米조절에는 輸入稅의 增減免除나 또는 輸出入數量의 제한이나를 물론하고 다 一編의 法令으로써 가능한 것이지마는 米의 數量 及 市價를 조절하는 주요방법인 米의 買上은 買上資金이 없이는 안될 문제다. 따라서 舊米穀法과 아울러서 『米穀需給調節特別會計法』이라는 것을 동시에 실시하야 米穀資金의 最大 限度를 ＜23＞ 2억원으로 하엿섯다. 故로 此 2억원을 최대한도로 하는 米穀資金을 運用하야 大正 10년 이후의 米穀의 數量 及 가격을 조절해 왓섯다.
+그런데 그후의 성적을 보면 (一)풍작이 비교적 많엇고 (二) 一般 物價의 低落에 伴하야 米價도 繼續低落 一方이엇든 등 두가지 이유에 의하야 정부는 此 低落防止策으로 이미 買上한 米穀을 팔지는 못하고 계속해 사기만 햇섯다. 따라서 정부 貯藏米의 價格低落에 의한 損失 (値下損) (2) 貯藏米의 虫蝕 量感 등에 의한 손실 (3) 경비손실 등의 원인에 의하야 정부와 米穀需給特制會計는 大損失을 보앗다. 즉 米穀法 실시 이래 昭和 3년까지의 약 7년 동안에 7천만원의 손실을 보앗다. 여기서 할 수 없이 昭和 3년에 와서 米穀資金의 최대한도를 다시 7천만원 增額하야 종래의 2억원으로부터 2억7천만원으로 하엿다.
+그러나 이미 7천만원을 손실로 되어버렷기 때문에 증액 후에도 그 實米穀資金은 2억원 밖에 아니되며 게다가 旣 買上米에 고정된 分을 控除하고 보면 一且 필요한 時 米買上에 출동할 수 잇는 유동자금은 1억원 미만에 불과하엿다.
+그러나 舊米穀法을 실시한지 10년이 채 되지 못한 昭和 4년경에 와서 (1) 日本內의 米의 需給事情에 一大 變遷이 齎來되엇을 뿐만이 아니라 (2) 舊米穀法 자체에 일대 결함이 잇다는 것을 알게 되엇다.
+먼저 실시이래 7,8년간의 변천을 말하면 朝鮮米移出量의 激增이라는 사실이 그것이다. 米穀法을 실시하든 大正 10년경에 잇어서는 朝鮮米의 日本 移出은 약 2백만石 내외에 불과하든 것인데 이것이 그후 약 7,8년 동안에 激增하야 年移出額이 700만石에 달하게 되엇다. 따라서 前日 동안에는 日本米의 사정만으로 米價의 高下가 결정되엇섯는데 이때에 와서는 日本內의 米價는 朝鮮産米의 騰落事情의 영향을 적지 않게 받게 되엇다. 즉 朝鮮米의 年移出額激增이라는 한 사정은 日本內의 米時勢에 대하야 막대한 脅威를 주게되엇다.
+그뿐아니라 大正 10년 이후에 잇어서의 日本 及 朝鮮의 풍작은 다만 天候順調에 의한 偶作이 아니요 米作에 대한 경작면적의 증가 及 施肥 농업기술의 급격한 발달에 의한 米穀增收이엇기 때문으로 『米의 供給過剩』에 의한 米價低落의 勢는 繼續性이 풍부하게 되엇다는 一事實도 米穀法의 運用을 방해하는 일대 원인을 지엇다.
+다음 朝鮮米의 日本移出의 激增은 (1) 다만 토지개량에 의한 産米增加만이 그 유일한 원인이 아니요 그보다도 더 큰 원인의 하나로 (2) 朝鮮人 생활의 급격한 저하로 인한 米食階級의 數의 감소하는 가련한 사실이 잇다. 즉 朝鮮人은 그전 같으면 쌀을 먹든 사람으로서 점차 그 물질적 생활이 貧困化한 결과로 오늘에 와서는 발서 米食을 못하고 粟食 그 他 잡곡을 먹게 되기 때문으로 이에 따라서 豐凶如何에 불구하고 輸移出을 要할 朝鮮産米가 年年히 激增해 왓다는 것이다.
+此를 간단히 말하면 (一) 경지면적의 증가와 및 農事改良에 의한 日本産米의 증가 (二) 土地改良 及 朝鮮人貧困化에 의한 朝鮮産米의 日本移出의 激增 등 두가지 사실은 舊米穀法 실시 이후 7,8년간에 새로 생긴 사실로서 日本의 미가를 면면히 저락 일방으로 치우처 모라온 중대 원인이다. 다음 舊米穀法 자체에 內含한 결점이라는 것은 어떠한 것인가 하면
+(一) 舊米穀法에는 米價가 부당히 저락될 때에는 米의 생산자인 농민을 위하야 米價의 低落防止策으로 사고(買上) 이와 반대로 米價가 부당히 暴騰할 때에는 米의 소비자인 일반 국민을 위하야 暴騰防止策으로 政府米를 팔라고만 규정해 놓앗지 買上 拂下 兩方에 다 가격의 표준이 없엇든 것이 일대 결점이엇다. 즉 얼마나 나려가면 사고 얼마나 올라가면 팔라는 규정이 없엇기 때문으로 買上 拂下는 전여 그때의 정부당국자의 專斷에 마끼게 되어 그간에 여러 가지 폐단이 생기게 되엇다. 그 폐단의 가장 큰 것의 하나로 그때 그때의 정부당국자가 此을 選擧對策으로 악용하야 혹은 농민의 歡喜를 사기 위하야 米消費者의 이익을 무시하고 買上을 斷行하기도 하고, 또 혹은 都市住民의 贊同을 얻기 위하야 농민의＜24＞ 이익을 무시하고 米의 拂下하는 등이 그것이다.
+(二) 또한 外米調節規定이 不徹底하다는 것이다 즉 舊法에 의하면 필요가 잇으면 필요가 잇는 그때 그때마다 번번히 勅令으로 기간을 정해가지고야 外米의 수입을 조절할 수가 잇게 되기 때문으로 과거 2,3년과 같이 外米의 수입제한이 일시적 필요에 잇지 않고 恒久性을 가지게 된 시대에 와서는 手續 그 他에 심한 불편이 잇다는 것이다.
+여기서 前記 日本內의 米穀需給事情의 변천과 米穀法 자체의 결함과를 아울러 생각하면 舊米穀法을 그대로 두어가지고는 그 근본정신인 米穀의 數量 及 市價調節의 목적을 달할 수가 없는 것을 누구나 대개 짐작할 수 잇을 것이다.
+여기서 昭和 4년에 와서 濱口內閣이 들어서면서 그전 田中內閣時代에 설치된 米穀調査委員會라는 것을 繼承해 가지고 米穀對策의 更新을 계획하엿섯다.
+그리하야 前記 沿革에서 잠간 말한바와 같이 당시의 米穀調査委員 중에는 이때 米의 국가적 통제를 철저히 하는데는 米專賣制度를 채용할 수 밖에 없다는 문제까지 이러낫으나 결국 그 안은 반대에 逢着하야 埋沒되고 『率勢米價』를 표준으로 하는 改正米穀法을 立案하게 되엇다.
+改正米穀法이 舊米穀法에 비하야 일층 개량된 主眼點은
+一. 米穀法 發動에 의거할 기준가격을 규정햇다. 所謂 率勢米價라는 것이 즉 그것이다. 此에 의하야 정부당국자가 米穀法 發動을 任意로 하는 폐단을 根絶하기를 期한 것이다.(改正法 제4조 及 제5조 參照)
+二. 外米의 統制管理를 철저히 햇다. 즉 舊法은 外米에 대하야 원칙상 放任主義를 쓰고 다만 필요잇을 때 마다 勅令으로 此를 제한하든 것인데 新法은 이와 반대로 원칙상 外米制限主義를 채용햇다.(改正法 제2조 及 3조 參照)
+그리하야 改正米穀法은 改正米穀需給特別會計法과 아울러서 昭和 3년 3월 제59議會를 통과하야 兩法이 다 去 7월 1일 부터 실시되엇다.
+그러고 米穀需給特別會計法의 금번 개정의 요점은 米穀資金을 종래의 최대한도 2억 7천만원으로부터 다시 8천만원 增額하야 3억5천만원으로 햇다는 것이다. 此亦 요전번의 개정 모양으로 昭和 3년 이래로 작년까지에 8,000만원의 損을 보고 그만치 增額한 것이니까 결국은 米穀資金은 固定의 分을 아울러서 2억원밖에 못되니까 따라서 米買上에 쓸 수 잇는 流動資金은 약 1억원내외 밖에 못된다.
+이상을 보면 개정 米穀法의 運用을 가지고도 米穀法의 근본정신인 數量 及 市價調節의 목적을 완전히 달하기가 곤란한 사정이 잇다는 것은 대개 此를 推知하기에 곤란치 않을 것으로 생각하거니와 이제 그 難點을 들어보면,
+一. 率勢米價로서 米穀法 발동에 의거할 표준을 정햇으나 買上에 의거할 最低値와 拂下에 의거할 最高値와의 사의의 値幅이 너무 크다. 예하면 금년은 最低値가 18원 28錢이요 最高値가 27圓 42錢이니 그간의 値幅이 실로 9원 이상에 달한다. 米와 같이 일국민 전체에 중대한 이해관계를 가진 상품을 如斯히 넓은 値幅의 간을 당래 변동케 하는 것은 此를 新米穀法의 중대한 결점으로 볼 수밖에 없다. 그러타고 그 値幅울 적게 하면 정부는 米穀의 買上 及 拂下의 頻繁에 勘耐하지 못할 것이다.
+二. 비록 改正米穀法을 가지고도 종래와 같은 이유 及 원인에 의한 米穀資金이 손실은 此를 피할 도리가 없다. 그러고 米穀法 실시 이래로 이미 1억5천만원의 손실을 보앗은즉 如此 巨額의 손실을 도저히 영구히 계속해 갈 수는 없는 것이다.
+등등이 그것이다.
+이러한 諸難點이 잇기 때문으로 日本의 米穀法은 此를 폐지하고 米매매를 전혀 自由競賣에 방임하고 말거나 그러치 않으면 달리 보다 유효한 米穀對策을 講究 실시하거나 두가지 길 밖에 없다.
+그런데 비록 米穀法의 무능을 말하는 者라도 米賣買를 전혀 자유경쟁에 방임하고 可하다는 주장을 가진 이는 드물다.＜25＞
+그런데 米穀法보다 유효한 미곡대책이 무엇이냐 하면 今日까지의 學理와 경험이 가르치는 바를 토대로 하야 생각하면 그것은 米專賣制밖에 없다. 따라서 현재의 米穀法은 早晩廢止될 운명을 가지는 반면으로 米專賣制는 米穀法의 대신으로 채용될 날이 잇을 것을 추측할 수가 잇다.
+如斯한 이유에 의하야 米專賣制는 早晩 실제문제화할 경향이 농후하엿다. 그러나 그러타고 이 문제가 개정 米穀法을 실시할지 한달이 채 못된 去 7월 末日에 잇어서 발서 唱道되어 世人의 주의를 끄을게 된데는 특별한 이유가 달리 잇어야 할 것이다. 그러면 그 이유는 무엇이냐?
+그것은 즉 재작년 이래의 經濟恐慌과 작년의 풍작으로 米價가 暴落하야 농촌경제가 거이 파멸에 가깝다는 사실이다. 破滅에 가까운 금일의 농촌은 여간 현재 米穀法에 의한 低落防止策만 가지고는 구제할 수가 없다. 換言하면 현행 米穀法은 米가 적어도 생산비 이상으로 팔릴 것을 보증치 못햇다. 그러기 때문으로 농민은 손실을 보기가 쉽게 되엇다. 그런데 금일 농촌의 파멸의 일대 원인은 米價低落에 잇다. 여기서 日本農民은 당면의 급박한 破滅救濟의 一策으로 보다 유효한 米穀對策을 절실히 요구하게 되엇다. 즉 이러한 사정이 잇기 때문으로 米專賣問題는 비교적 속히 문제화한 것이다.
+고로 미전매문제는 政友會 농촌관계의원으로 조직된 農政會의 결의를 계기로 하여 재연된 것이다.
+
+三. 政友會案
+이것은 아직 政友會의 黨議로 결정된 것은 아니요 다만 同會 政務調査會 特別委員會에서 입안한 것이다. 이 안의 운명은 장래를 보아야 알것이어니와 우선 그 안의 要綱을 보면 如左하다.
+(一) 米賣買는 가격의 공정한 결정과 수량의 완전한 조절을 圖하기를 목적함. 따라서 煙草專賣와는 정반대로 재정적 非收益主義에 의함.
+(二) 米專賣에 의하야 생산자의 수익을 확실안전케 함과 함께 소비자에게도 一定 廉價의 식량을 공급하야써 농가경제의 불안을 일소하는 時에 일반국민생활의 안정„ 확보함.
+方法.
+(一) 民米의 賠償
+(1) 米穀收引所, 都賣商, 소배상 등 米專賣의 실시에 의하야 업무를 失하는 者에게 대하야 정부는 此를 賠償함.
+(2) 賠償價格은 賠償委員의 심의에 의하야 此를 결정함.
+(3) 賠償金은 交附公債로써 하되 원래 도매상, 소매상 이 두 者로써 米專賣의 元賣捌人 又는 小賣人으로 지정된 者에 대하야는 此를 賠償치 아니함.
+(4) 民業賠僨額을 槪算해 보면 이러하다. 取引所賠償額 2,762만 7,000원 (取引所拂込은 全額賠僨) 同仲買商賠償 935만원 (取引所賣買高 1억 8,735만 石에 대한 手數料 1石 5錢의 比率로 賠僨) 米穀販賣業者賠償額 6,414만원 (日本米賣買高 3,270만 石을  石 25원으로 하야 그 이익을 2割로 보고 그 금액 1억 6,035만원내 그 6割은 元賣捌入 及 小賣人으로 지정한 著로 간주함) 右民業賠償額 합계 1억 100만원은 5分利附交付公債 20個年 消却으로 함.
+(二) 米專賣의 範圍
+(1) 日本米는 농가 자신의 소비량을 공제하고 그 他는 정부의 專賣로 함.
+(2) 朝鮮米 及 대만미의 移入, 外國米의 輸入 並히 日本米의 輸移出은 정부의 專賣權에 속함
+(三) 米의 收納保管과 賣拂
+(1) 米의 收納은 생산지의 市町村을 1區域으로 하는 米納入者組合을 통하야 행함.
+(2) 收納價格의 결정은 米의 생산비를 보상하는 것을 표준으로 함.
+(3) 米의 收納에 대하야 정부는 증권을 발행하고 증권에 대한 現金의 지불은 米의 賣拂代金으로써 함.
+(4) 米는 國立食庫의 農業食庫 민영창고 並히 생산농가의 개인 食庫를 이용하야 보관함.
+(5) 정부는 玄米를 買入하야 白米를 賣拂함. 米의 賣拂은 元賣捌引을 經하야 小賣人 에게 행케함. ＜26＞
+(6) 賣拂價格은 買入價格에 精白料 運貸 그他 諸雜費를 加算한 범위내에서 결정함.
+(四) 米專賣의 機關
+(1) 중앙에 米專賣局, 各 府縣에 支局, 그 他 필요한 장소에 출장소를 設하야 米의 검사, 수납, 精白賣拂, 移入, 移出, 輸入, 輸出에 관한 사무를 掌理함.
+(2) 米專賣局에 評議員會를 설치하고 米의 收納價格, 賣拂價格의 결정 그 他를 審議함.
+右가 그 要綱이다.
+그런데 右 要綱에 대한 해석과 및 諸種 의문을 다 말하자면 심히 많다. 그뿐야니라 그 가운데는 내가 아직 모르는 점도 상당히 많다. 故로 그 중에서 우리의 흥미를 끄을만한 것을 골라서 두어가지만 말해 보고저 한다.
+(1) 目的 第2의 說明 목적 第2에서는 『米專賣에 의하야 생산자의 수익을 확실안전하게 하는 동시에 소비자에게도 일정 염가의 식량을 공급하야써 농가경제의 불안을 一掃하며 일반 국민생활의 안정을 확보함』이라고 하엿다.
+그런데 이 목적을 완전히 달하는 데는 米의 생산자로부터는 從前(米專賣制 실시 이전)보다 고가로 買入하야 소비자에게는 현재보다(역시 米專賣制 실시 이전) 廉價로, 米를 공급하는 道理가 잇어야 될 것이다. 此를 換言하면 비싸게 사가지고 싸(廉)게 파는 도리가 잇어야 비로소 米의 생산자의 수익을 확실안전케 하는 동시에 소비자인 일반 국민의 생활안정을 확보할 수가 잇을 것이다.
+그러면 과연 사기는 종전보다 비싸고 팔기는 종전보다 싸(廉)게 팔 수가 잇느냐? 이에 대한 米專賣論者의 답변은 이러하다. 즉
+『현재 東京深川正米市長의 표준 중 시세는 1石에 20원 3, 40錢이다. 그런데 농가에서 팔리는 원산지 시세는 지방에 의하야 다르나 대체로 보아 이 시세보다 2,3원 저렴하야 18원 정도로 팔린다. 그런데 東京市民이 白米商으로부터 買入하는 白米 1石의 小賣時勢는 27원으로부터 30원까지로서 농가의 원산지 시세와의 차이가 약 10원이나 된다. 그런데 농가로부터 米를 買하야 此를 東京市까지 運搬하야 精米하야 此를 시민에 공급하는데 3원 정도밖에 안된다. 그러나 이제 이것을 좀 많이 잡어서 4원으로 보자. 따라서 18원으로 농가에서 買上한 米는 白米로하야 此를 22원으로써 시민에게 제공할 수가 잇다. 그런데 농가로부터의 買上價格을 생산비에 의한다고 하면 農林省調査의 昭和 5년 전국 平均米 생산비는 1石 21원 35전이다. 故로 此를 買上價格으로 하야 此에 4원의 중간경비를 가산하면 시민에게 제공할 수 잇는 白米 1石의 가격은 25원 35전으로 되어 현재의 自由賣買制度에 의하는 것보다 米 1石에 대하냐 농가로부터는 3원이나 비싸게 買入하야 소비자에게는 3원이나 저렴하게 제공할 수가 잇다』
+(2) 朝鮮米의 地位 朝鮮米의 日本에 대한 지위는 지금은 日本米 外米의 중간적 지위를 가지되 어느 편이냐 하면 日本米편에 비교적 가까운 대우를 받고 잇다. 此를 구체적으로 말한면 朝鮮미는 日本米모양으로 米穀法에 의한 買上의 대상이 되지못하느니만치 日本米보다 대우가 통하다. 그러나 日本에서 日本米를 買上하면 朝鮮米의 가격도 따라서 올라가는이만치 그 유리한 대우에 均霑할 수가 잇다. 그러고 朝鮮米는 所謂 移出統制라는 약간의 移出障碍를 받으나 저 外米모양으로 移入에 허가를 요한다고 철저한 제한을 받지 아니한다. 즉 日本米와 外米와의 중간적 지위다.
+그런데 이제 政友會案을 보면 「朝鮮米 及 대만미의 移入 外國 米의 輸入並히 日本米의 輸移出은 정부의 專賣權에 속함.」이라하야 朝鮮米를 外米와 同列의 지위로 떠러트리고 말엇다.
+따라서 이러한 제도가 실시된다고 하면
+(1) 朝鮮米는 日本내의 米消費量의 부족을 보충하는 정도로만 移出될 가능성을 가지는 동   시에
+(2) 그 가격은 독점권에 지배되어 올리고 내리는 것이 전혀 그때 그때의 政府當局者의 의   사에 달리게 된다.
+따라서 日本에 풍년이 들어서 日本米만으로 일본 내의 소비를 채울 수가 잇는 해에는 朝鮮米는 一粒의 移出도 보지 못할 것이요 또한 다소의 移出을 볼지라도 때를 따라서는 日本米를 생산비 이상으로 買入하고 「생산비를 표준하야 買入」 한다는 보증을 가지지 못한 朝鮮米는 생산비 이하로 買入하야 고하를 평균하야 此를 소비자에게 염가로 제공하는 策을 쓸 때도 없지 아니할 것인즉 적어도 政友會案이 실현을 보는 날이면 朝鮮米의 지위는 종전보다 惡化할 것으로 볼 수밖에 없다.
+( 1931. 9월 8일 筆) ＜27＞
+＜22-27＞

@@ -1,0 +1,457 @@
+**Header Section:**
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 死線에 선 農村과 그 對策(특집) (Rural Villages on the Death Line and Countermeasures Thereto (Special Feature))
+Author: 함상훈 (Ham Sanghun), 김광진 (Kim Kwangjin), 임병철 (Im Pyŏngch'ŏl)
+Article Type: 논설 (Editorial/Commentary)
+
+**Body Text Translation:**
+
+Rural Villages on the Death Line and Countermeasures Thereto
+
+What should be done about the rural villages? This is a critical issue that speaks to the rise, fall, life, and death of all Chosŏn. At a time when the rural village problem is becoming a major issue across Japan, the problem of rescuing Chosŏn's rural villages also requires deep study. In this special feature, we introduce three essays by scholars in this field to provide a starting point for discussion.
+
+Critiquing the Chosŏn Authorities' Rural Relief Measures
+Ham Sanghun
+
+1. The Call for Rural Relief
+After the May 15th Incident, the call for rural relief grew louder day by day in Japan. Over 46,000 representatives from Nagano Prefecture submitted a petition to the House of Representatives Petitions Committee containing three articles: 1. A three-year moratorium on farm household debt payments, 2. A fertilizer subsidy of 1 Won per *tan* (approx. 0.245 acres), 3. A grant of 50 million Won in subsidies for migration to Manchuria and Mongolia. The Seiyūkai party passed a currency devaluation proposal. Scholars and public intellectuals broke their silence, loudly denouncing the situation and demanding rural relief, while newspapers and magazines featured extensive coverage, stirring public opinion for rural relief. Swept up in this social atmosphere, the 62nd Diet unanimously passed a Resolution for National Salvation, including: 1. Smoothing currency circulation, 2. Organizing debt in rural villages and elsewhere, 3. Thorough implementation of public works, 4. Control of agricultural products and other key industries, etc. In short, the aim was the urgent relief of rural villages. Subsequently, the Ministries of Home Affairs, Finance, Agriculture & Forestry, Commerce & Industry, and Colonial Affairs are each drafting specific plans for their related areas. Perhaps awakened by this clamor in Chosŏn as well, the Government-General began discussing rural relief plans<2>. These included: postponement of repayment or interest reduction for the 89 million Won debt of Water Utilization Associations (水利組合); interest reduction or repayment postponement for approximately 4 million Won in fertilizer funds; partial free distribution of paddy rice seeds; extension of relief projects for the destitute, etc. However, these relief plans are still just broad outlines, and their specific methods are said to be drafted after seeing the relief plans decided upon in Japan, so one cannot discuss them prematurely. But since the issue of rural relief has begun to be discussed by the authorities, the rural problem has inevitably become significant. So, how severe has this rural problem become, and can the relief measures mentioned by the authorities truly be effective?
+
+2. The State of Rural Poverty
+It is estimated that the debt of Chosŏn's rural villages amounts to 500 million Won. Therefore, the average debt per farming household in Chosŏn is over 178 Won. However, this 500 million Won debt includes debts incurred by wealthy farmers for investment purposes, as well as debts incurred by poor farmers for sustenance. Therefore, it cannot be said to fully explain the state of rural poverty. Yet, there is no detailed data investigating the living conditions of farming households, so there is no other evidence to present. Thus, we have no choice but to cite the relatively fragmented investigation of farming household living conditions conducted by the Government-General. The following presents two individuals from an investigation of the living conditions of 10 households each from the upper, middle, and lower classes in Kujŏng-ri, Kujŏng-myŏn, Kangnŭng-gun, Kangwŏn-do. While Kangnŭng-gun may not be representative of all Chosŏn rural villages, we believe it allows a glimpse into the general situation of Chosŏn's rural villages.
+
+A. Eom O-yŏng (Age 55), Kujŏng-ri, Kujŏng-myŏn, Kangnŭng-gun
+
+
+B. Yun O-yŏp (Age 50), Kujŏng-ri, Kujŏng-myŏn, Kangnŭng-gun
+
+
+Eom O-yŏng rents out 2 *tan* 5 *myo* (approx. 0.61 acres) of dry fields (*chŏn*), cultivates 1 *tan* (approx. 0.245 acres) of paddy fields (*tap*) and 5 *tan* (approx. 1.23 acres) of dry fields himself, and also tenant farms 3 *tan* (approx. 0.74 acres) of paddy fields, yet earns a surplus of only 17 Won 55 *chŏn*. Of course, his own and his family's labor costs are not included here. Consequently, he cannot afford to send even one child to primary school, and eats rice only about 40% of the time, limited to spring, autumn, and winter. In the case of Yun O-yŏp, the household head plus four others labored throughout the year but incurred a deficit of 74 Won 40 *chŏn*. And because they experienced the death of his mother, they incurred a debt of 65 Won. The debt can only increase year by year. If this is the situation for middle-class farmers (*chungnong*), there is no need to elaborate on the situation for small farmers (*sonong*). And considering this was in January of Shōwa 5 (1930), before the bumper harvest depression occurred, one can imagine the extent to which income failed to cover expenditures (*suji pulsangchang*) during the depression today.
+As owner-farmers (*chajak nong*) like this face deficits, they have nowhere to go but become tenant farmers (*sojak nong*). And the result of increasing numbers of tenant farmers is the mass production of poor peasants (*pinnong*), causing the emergence of destitute people (*kungmin*) everywhere. There are no detailed statistics to know the number of destitute people in all of Chosŏn, but looking at the number of poor in just Taedong-gun, a county with convenient land and water transport and abundant agricultural products, out of a total county population of 27,207 households, there are 14,333 needy households (*semin*), 30,374 destitute people (*kungmin*), and 151 beggars (*kŏlsik*). The total is 17,858 households, which is 65%. One can infer how many poor peasants there are throughout Chosŏn.
+From middle farmer to small farmer, from small farmer to poor farmer, and then becoming a beggar—those whose fate does not even allow that have no choice but to seek industrial markets overseas or embark on a path of aimless wandering. Now, look, don't be shocked, at the number of people who couldn't find a way to live in Chosŏn and left for overseas during the five years from Taishō 14 (1925) to the end of Shōwa 5 (1930): 360,000 people, an annual average of 72,000. The following statistics show the state of Chosŏn's rural villages through population dynamics over five years.
+
+Survey of Population Dynamics by Japanese/Korean/Foreigner (5-year period)
+
+3. Causes of Rural Devastation
+Since the rural villages are devastated like this, rescuing them<4> is the urgent task of the moment. However, superficial, temporary measures will not be effective in rescuing them; one must investigate the underlying causes and eradicate the root causes.
+Various items can be listed as causes of rural devastation, but one can count (1) disadvantages inherent in agriculture itself, (2) disadvantages in the trading system, (3) excessive land rent (*chidae*), (4) high interest rates, (5) lack of secure tenancy rights (*sojak kwŏn*), (6) excessive taxes and public levies (*chose, kongkwa*), etc. (1) The inherent nature of agriculture itself refers to natural obstacles to agricultural production and others. Unlike industry, agriculture is affected by natural disasters such as wind, rain, cold, and heat, causing planned production volumes to change. Also, once cultivated land area is expanded, it cannot be immediately reduced like in industry, making production adjustment difficult. Besides this, the fact that invested capital can only be recovered after a year, at harvest time, is a disadvantage compared to industry. This is a common disadvantage faced by agriculture not only in Chosŏn but also in the United States, Germany, etc. (2) Disadvantages in the trading system refer to disadvantages that Chosŏn particularly possesses. For example, countries like the United States, Germany, and France have established tariff systems to maintain high prices for agricultural products, but in Chosŏn, products must be exported according to Japan's demand. Therefore, when Japan does not need them, or when there is a need for conscious control, Chosŏn grain prices are forced down, inevitably making them lower than those in Japan. It is already a well-known fact that the joint sales system for silkworm cocoons, cotton, oats, etc., infringes upon the interests of farming households. (3) The harshness of Chosŏn's land rent can be inferred from the fact that the Government-General's survey on tenant farming practices found places where it reached 90%. The average land rent in Chosŏn is 50%; even low rates are 40%, while high rates reach 60%, 70%, up to 90%. How can tenant farmers ever have a surplus under this extortionate collection (*karyŏm*)? (4) High interest rates are also a characteristic of Chosŏn. The interest rate of Financial Cooperatives (金融組合), considered relatively low, is 3 *chŏn* 4 *ri* (0.34%) to 4 *chŏn* (0.4%) per day for ordinary loans, and 15% per year even for long-term loans. When it comes to the interest rates of private moneylenders, the financial institutions for the vast majority of tenant farmers, one cannot help but be appalled. The highest interest rate among Koreans is 4 *pun* 2 *ri* (4.2%) per month, the lowest is 2 *pun* (2%), and the usual is 2 *pun* 8 *ri* (2.8%). Market interest (*sijang hwa*, jangbyeon) is highest at 8 *pun* 2 *ri* (8.2%), lowest at 4 *pun* 5 *ri* (4.5%), and usually 5 *pun* 7 *ri* (5.7%). (5) The lack of secure tenancy rights allows landlords (*chiju*) to transfer cultivation rights (*chak kwŏn*) at will, becoming a major condition causing rural devastation and desolate scenes. Statistics prove that the biggest cause of tenancy disputes lies here. (6) The burden of taxes and public levies has also long been decried in practice. It is self-evident that when agricultural product prices fall, taxes and levies should be reduced accordingly, but taxes have never decreased, and water association fees (水組費, *sujo pi*), agricultural association fees (農會費, *nonghoe pi*), other miscellaneous labor duties (*puyŏk*), etc., have not been reduced either. How could rural households not become devastated by this?
+
+4. The Limits of Rural Relief Measures
+Now, comparing the causes of rural devastation with the so-called relief measures, one can see the striking difference between them. That is, the rural relief measures are either policies that alleviate the burden of some landlords within the Water Utilization Association districts, such as payment moratoriums or interest reductions for association debts, or temporary relief measures for the already destitute, like Destitute Relief Works (*kungmin kuje kongsa*). While fundamentally changing the inherent nature of agriculture is utterly hopeless, improving the tariff system, joint sales system, tenancy system, interest rate system, tax and public levy system<5> could be achieved if only the authorities had the will. Yet, trying to alleviate the burden of some landlords and rescue the already destitute is like trying to treat a festering wound with a plaster. Moreover, it is uncertain whether the refinancing of Water Utilization Association debts from high to low interest will cover the entire amount, and the extent of the Destitute Relief Works is still unknown. I hear that the Bureau of Home Affairs plans a second phase of Destitute Relief Works costing about 100 million Won, following the first phase. However, looking at past Destitute Relief Works, even when large budgets were spent to initiate projects, due to multi-layered subcontracting systems, hiring of high-paid technicians, and voucher systems, the income reaching the destitute was often only around 30 *chŏn* per day. The following table is an example of the actual conditions of various laborers on construction sites in Chosŏn, surveyed by the Chōsen Civil Engineering and Construction Association (朝鮮土木建築協會). If even a single person cannot make ends meet on a daily wage of 70 *chŏn*, how can a family survive on an income of around 30 *chŏn*?
+
+Korean Laborer Age 28 Yongsan Han River Embankment Project (龍山漢江堤防工事)
+
+Direct Management Civil Engineering Surveyed July 23, Shōwa 3 (1928)
+
+Daily Wage Standard 70 *chŏn* Daily Payment
+
+Calculated by subtracting the wages for 26 workdays from the living expenses for 30 days.
+Therefore, the Destitute Relief Works fail to be relief works for the destitute and instead tend to become a source of resentment (*wŏnbu*). Thus, if the rural relief measures currently being planned by the authorities do not go beyond the scope described above, they can only be called temporary stopgap measures (*toho chaek*). (July 5th)
+
+Diagnosis of the Disease Source in Chosŏn's Rural Villages
+Kim Kwangjin
+
+Today, Chosŏn's agricultural production faces a crisis.
+Why has it come to this? It is because Chosŏn's agriculture has numerous structural flaws. Let's briefly explain a few important ones.
+
+1. Small-Scale Farming System
+The greatest characteristic of Chosŏn's land relations is that its agricultural management<6> is small-scale (*yŏngse nong*) and consequently allows feudal remnants (*ponggŏnjŏk yuje*) to persist. That is, the cultivated area per farming household is 5 *tan* 7 *myo* (approx. 1.4 acres) for paddy fields (*tap*), and 1 *chō* 5 *myo* (approx. 2.57 acres) for dry fields (*chŏn*) and slash-and-burn fields (*hwajŏn*), totaling 1 *chō* 6 *tan* 2 *myo* (approx. 4.0 acres). (According to "Agriculture of Chosŏn," Shōwa 7 (1932) edition, published by the Chosŏn Government-General). As such, Chosŏn's agricultural management is based on an excessively small farm system, rare in the world, so farmers are all hungry for land. Furthermore, looking at agricultural economic types, small-scale tenant farming and owner-tenant farming (*chajak kyŏm sojak*) occupy the vast majority, and the number of farmers demanding land cultivation is inversely proportional to the concentrated ownership of land by a few individuals. This situation, as of the end of each year, is as follows:
+
+Number of Households by Business Type (Unit: Thousand Households)
+Note: Chōsen Government-General, Bureau of Industrial Development, "Agriculture of Chōsen"
+
+This trend towards smaller farms intensifies the farmers' competition for arable land due to the constant demand for land, always causing tenancy fees (*sojak ryo*) to rise. Therefore, landlords can collect "starvation rent" (*kia chidae*) amounting to 50% to 70% of the total harvest. Not only that, but landlords can also impose all sorts of feudal remnants like offerings (*ch'anmul*) and labor services (*puyŏk*) on tenants.
+Thus, the high rate of tenancy fees, heavily tinged with feudal characteristics, has caused the price of land, which capitalizes these fees, to soar. And this high land price, in turn, acts to maintain the high tenancy fees. Consequently, after delivering the majority of the harvest to the landlord, the remaining income is not even enough to cover the wages paid to oneself, threatening the profitability of farm management, making the reproduction of agricultural capital difficult, and accumulating consumptive debt among farmers.
+
+2. Exploitation by Capitalist Industry
+The self-sufficient economy based on the "unity of agriculture and handicraft" that existed before the invasion of capitalism has been crushed, and the various side jobs farmers used to have were plundered by the emerging capitalist industry. As a result, everyday necessities—from cotton fabrics and farm tools to even rubber shoes—all had to be obtained from capitalist industry.
+The inevitable consequences of this are, first, that farmers' labor power becomes seasonally imbalanced, leading to a lack of work during the so-called slack season (*nonghan ki*), plunging them into unemployment for half the year.
+Second, industrial goods such as daily necessities and fertilizers that rural villages obtain from capitalist industry are mostly controlled by cartels or trusts. Therefore, their prices always maintain a higher level than agricultural products, and the price gap gradually widens. This so-called price scissors (쉐레, *swere* - from German 'Schere') represents the loss borne by farmers for the profit of monopoly capitalists. Not only that, but farmers, facing various payments such as tenancy fees, taxes, water taxes (*suse*), debts, fertilizer costs, etc., during the harvest season, are forced to sell off the majority of their rice holdings in November and December, when rice prices are lowest throughout the year. Local purchasing merchants use various deceptive practices to snatch agricultural products from farmers' hands at unbelievably low prices (*hyŏlga*). These various forms of capitalist [censored] [censored] accelerate the ruin of rural villages.
+
+3. Inherent Structural Flaws
+As the first inherent structural flaw of agriculture,<7> one must mention its excessive dependence on nature. This has become even more significant because the diversified self-sufficient economy was destroyed after the invasion of capitalism. Rural villages have transformed into mostly rice-centric single-crop production, and the impact of good or bad harvests is determined more by the weather than by supply and demand dynamics. Consequently, farmers are forced to sell their products only at prices dictated by natural and social forces.
+The second inherent structural flaw of agriculture lies in the fact that capital is fixed in land. Agriculture, being dependent on land, has about 70% of its capital fixed in land, leading to a shortage of working capital for farming households. This is unseen in other industries, and the lack of liquid capital signifies financial difficulties, a reality proven by the impoverishment of the agricultural economy. Furthermore, because "land capital" constitutes the overwhelming portion of agricultural capital, the payment of taxes and high tenancy fees is enforced, becoming a cause that further impoverishes small farmers.
+(The title requested by the editor was "The Causes of Rural Ruin and its Prospects," and the author also intended to address this, but regrets being unable to touch upon the prospects due to haste.)
+
+Chosŏn Rural Villages Demand This
+Im Pyŏngch'ŏl
+
+Today's rural village problem has moved beyond being a social issue to become a critical national and global problem.
+The development of capitalism rested on rural [censored] (*ch'wikwa* - likely 搾取, exploitation), and rural villages became faithful slaves for the construction of capitalist civilization. As an inevitable result, rural villages reached the extreme of poverty and collapsed. This is referred to as rural ruin, rural collapse.
+This rural collapse finally shook the foundations of national destiny and, moreover, brought about the crisis of world capitalism.
+The cries for rural relief and rural revitalization (*nongch'on kaengsaeng*) heard now have become the biggest issue for capitalist states in this sense.
+
+1. Causes of Chosŏn's Rural Collapse
+The poverty and collapse of the Chosŏn rural villages lying before us have been driven into a near-death state with accelerating speed by adding Chosŏn's specific circumstances to the global causes of rural devastation. Therefore, the causes of Chosŏn's rural collapse are the result of the interconnectedness of globally common causes and Chosŏn-specific causes, shaping the Chosŏn rural villages of today.
+If we were to briefly list the causes of Chosŏn's rural devastation:
+(1) The development of a deformed capitalism that invaded Chosŏn. Above all, since the establishment of land ownership rights, the rapid consolidation of land (*t'oji kyŏmbyŏng*), and under a profit-oriented capitalist organization, rural villages lost their degree of self-sufficiency (*chajak chagŭp*). Consequently, they had to monetize their own produce to repurchase goods and even lost the opportunity to process the raw materials they produced. Not only that, but all organizations and facilities were centered on cities, gathering the lifeblood (*kohyŏl*) of the countryside into the cities through [censored] [censored]. Examples include the concentration of all finance, education, medical care, etc., in cities.<8>
+(2) The collapse of rural prices. This fact is too well known. In the last 2-3 years, prices of agricultural products, rice cocoons, and all other by-products have plummeted, reducing the cash income of rural villages by half or more.
+(3) Essential goods for farm households, rent quotas (*punjo*), and public levies (*kongkwa*) remained stubbornly high. In other words, while income halved, expenditures remained the same. No, absolutely, they remained the same. But relatively speaking, they have rather increased.
+(4) Consequently, we see an increase in inescapable high-interest debt (*kori, ch'agŭm*). This result shows the figure of 500 million Won in debt for all Chosŏn farmers.
+Within the scope of such causes and such debt, we also cannot omit the tragic circumstances of tenant farmers who are excluded.
+In direct proportion to this increase in debt, displaced people (*yurimin*) from rural villages are wandering. Besides these, if we were to meticulously dig into the causes, it would be difficult to list every single item.
+Since this short essay focuses on introducing the current state of Chosŏn farmers, especially the reality of their debt-ridden lives, rather than the causes, I will stop here and proceed to discuss the plight of Chosŏn farmers next.
+
+(2) The State of Life in Chosŏn Rural Villages
+We can observe the current state of Chosŏn rural villages in various ways. In this essay, I intend to examine it through four categories: (1) land ownership by farm households, (2) farmer life viewed through income and expenditure, (3) farmer debt, and (4) famine (*kigŭn*).
+
+(1) Farmer Land Ownership
+The collapse of owner-farmers, the increase in tenant farmers, and the fact that land is shifting away from our hands, causing the breakdown of farmer livelihoods, have been discussed several times even through these pages. Therefore, I will omit it here and move on to discuss farmer life viewed through income and expenditure.
+
+(2) Farmer Life Viewed Through Income and Expenditure
+We often say that one cannot survive in the countryside. This statement can be interpreted in many ways, but it means that the income and expenditure of farmer life do not match.
+Previously, one sold half a *mal* (approx. 9 liters) of rice to buy a pair of rubber shoes, but now one must sell a full *mal*. That's how cheaply farmers' produce is sold. While farmers' produce sells cheaply, the costs of clothing, taxes, fertilizers, and other things bought from others and paid for have all relatively increased more than twofold.
+Thus, even owner-farmers who were relatively comfortable before are now crying out that they cannot survive.
+(There is no need to further discuss the tenant class, who lack sufficient funds after paying tenancy fees and other debts even after the harvest. Here, I will limit the discussion to owner-farmers.)
+As a practical example, let's look at the farm household income and expenditure statement for owner-farmers in Kujŏng-ri, Kujŏng-myŏn, Kangnŭng-gun below.<9>
+
+Farm Household Economy Summary Table (Surveyed January, Shōwa 5 [1930])
+Kujŏng-ri, Kujŏng-myŏn, Kangnŭng-gun (Chōsen Government-General Living Conditions Survey Part 3, Survey Data No. 32, Kangnŭng-gun)
+
+
+As seen in Table 1 and Table 2, "1 Person" refers to the survey of one owner-farmer family, "10 Person Total" is the calculation for 10 owner-farmer households, and the average across those 10 households is the "Average Total."
+
+Looking at the "1 Person Total" in Table 1, even a farm household owning 5 *pan* (likely *tan*, approx. 1.23 acres) of dry fields and 14 *pan* (likely *tan*, approx. 3.43 acres) of paddy fields, with 36 Won in receivables, and 6 people engaged in farming, having an annual income of 597 Won, ends up with a deficit after spending 608 Won. In Table 2, someone owning over 4-5 *pan* (tan) of fields and 2 *pan* (tan) of paddy fields, while tenant farming 3 *pan* (tan), with an annual income of 282 Won, ultimately shows a deficit of 78 Won after expenditures.
+Even looking at the average for 10 people in Table 1, balancing income and expenditure shows a surplus of merely 38 Won, while Table 2 shows a deficit of 4 Won.
+Looking at the "1 Person Calculation" in Tables 1 and 2, there are clear items for income and expenditure. Let's look at them:
+
+Income and Expenditure Statement for Owner-Farmer Household (Cited from the same source)
+This is the situation.
+Income is fixed, but expenses for clothing, taxes, food, education, loan interest, tenancy fees, fertilizer, and others represent the farmer's life, which cannot be reduced further. From this, we can see the phenomenon of income not covering expenditure (*suji pulsalsang*) in rural villages.
+In today's Chosŏn rural villages, from owner-farmers down to owner-tenants, tenants, and slash-and-burn farmers (*hwajŏnmin*), life is wandering in an inescapable pit of ruin. Thus, even if only the landlord class, 5.7% of all Chosŏn, can make a living, the remaining 94.3% of Chosŏn farm households below the owner-farmer level are struggling in debt or the hell of famine, revealing the tragic state of today's rural villages.
+
+(3) Farmer Debt
+According to the most recent survey by the Bureau of Industrial Development (殖産局), the current debt of Chosŏn rural villages is said to be 500 million Won.
+Dividing it up, it is as follows:
+
+Water Utilization Association Burden 89,000,000 Won
+
+Fertilizer Funds 4,000,000 Won
+
+Small Farmer Fund Loans 2,400,000 Won
+
+Village Financial Cooperative Loans 101,000,000 Won
+
+Real Estate Secured Bank Loans 238,000,000 Won
+
+Private Debts 101,112,620 Won
+
+(Tonga Ilbo,発表 [Announcement] Nov 11, Shōwa 7 [1932], includes breakdown by province)
+
+We cannot analyze this enormous figure item by item. Now, looking just at the debt from village financial cooperatives below:
+
+Kyŏngnam (South Kyŏngsang) farmer debt: 77.22 million Won. Distributed among the total provincial population, it's 37 Won 60 *chŏn* per person; distributed among total households, it's 192 Won per household.
+Kyŏngbuk (North Kyŏngsang) debt of members of 78 Financial Cooperatives: 10.17 million Won. 149 Won per member among 60,000 members; other debts also 73 Won.
+Chŏnnam (South Chŏlla): 80,000 members in 62 village Financial Cooperatives owe 19.11 million Won. These 80,000 members are 20% of the entire province.
+Hambuk (North Hamgyŏng) Financial Cooperative debt: 2.77 million Won, 149 Won per household.
+
+As clearly shown by the statistics above, financial [cooperatives] generally cover more than 20% of the total provincial population. The debt they incurred just from the financial cooperatives amounts to several hundred Won each, so if you add debts from water utilization associations, fertilizers, etc., the average debt per household would likely be around 300 Won.
+How can we believe that a rural village burdened with such debt is sound?
+If we think one step further,<11> it is reasonable to assume that farm households capable of shouldering the level of debt mentioned above are generally owner-farmers or belong to the landlord class. The remaining owner-tenants and tenants, comprising 86% of all Chosŏn farmers, lack even the qualification to take on such high-level debt. They have no collateral whatsoever to offer. They only have empty hands.
+These farmers borrow grain or money by pledging their upcoming harvest to the landlord in advance. Thus, they borrow, for instance, two *sŏk* (approx. 360 liters) of rice, promising to repay four *sŏk* at harvest time, effectively paying double in interest.
+In this way, Chosŏn's rural villages, from top to bottom, are crushed by debt, unable to breathe.
+The final path they take is the hell of famine.
+
+(4) Famine
+Not to mention the tenant farmers (41.58% of all Chosŏn farm households) and owner-tenants (35.20%), even the owner-farmers (19.51%) whose incomes do not cover expenditures constitute our rural villages. And the landlord class (5.71%) is also weighed down by debt. Even if we exclude the owner-farmers whose incomes don't match expenditures from the famine-stricken population, the owner-tenants and tenants below them, 76.78%, are people plunged into famine. Furthermore, the 240,000 households (1.21 million people) of Chosŏn's slash-and-burn farmers (*hwajŏnmin*) go without saying.
+Although we lack accurate statistics on famine-stricken people for each province, we can guess the overall situation by looking at the numbers of famine-stricken farmers reported piecemeal in the Tonga Ilbo newspaper.
+Kyŏngnam (South Kyŏngsang) Displaced people (*yurimin*): 17,024 households, 52,538 people (last year). From Jan to Apr this year: 7,719 households, 24,459 people.
+Hwanghae-do Farm households requiring emergency aid: 95,116 households, 475,825 people. 40% of the entire province.
+Hamnam (South Hamgyŏng) Destitute people (*kungmin*): 12,306 households, 66,840 people.
+Kyŏngbuk (North Kyŏngsang) 34,000 slash-and-burn farmers in famine conditions. Even grass roots and tree bark are insufficient.
+Sinhŭng-gun, Hawŏnch'ŏn-myŏn: 4,500 famine-stricken people.
+Kangnŭng-gun: 3,000 households requiring emergency aid, over 100 households migrating due to destitution (*kungyŏsŏn imin*).
+
+While overall statistics are unavailable, even the examples listed above allow us to grasp the famine situation. Tens of thousands of households within a single county (*kun*), several thousand households within a single township (*myŏn*), are falling into the hell of famine. Although relief societies were organized in various villages to provide emergency aid, it was merely a drop in the ocean (*ch'anghae ilsok*). Furthermore, destitute relief projects, civil engineering works, etc., themselves failed to produce satisfactory results. They performed 13-14 hours of<12> labor for a daily wage of 30-40 *chŏn*. Yet, they could not escape famine. Trying to relieve this famine cannot help but be compared to trying to stop a flood.
+
+(3) The Demands of Rural Villages
+In such circumstances, what are Chosŏn's rural villages crying out for and urgently demanding now? Below, I will only list the items, but these are not permanent measures for rural relief.
+
+(1) Enactment of Tenancy Law (小作法 制定) - Protect tenant farmers through the enactment of a Tenancy Law. Today's tenant farmers have nothing left after paying tenancy fees and debts at the threshing ground (*t'ajak madang*). Therefore, at the very least, land taxes (*chise*) etc., should be borne by the landlord, and distribution should be legally mandated to favor the tenant at a ratio of 7:3, or at least 6:4.
+
+(2) Crackdown on Malicious Landlords and Usurers - Malicious landlords and evil employers (*aksaŭm*), using the transfer of cultivation rights as their sole weapon, demand labor services and other extra tributes beyond the fixed tenancy fees. Furthermore, rural usury is at its peak, constituting the primary cause of rural ruin. Legal sanctions should be imposed on those demanding interest exceeding the legal rate.
+
+(3) Reduction of Farm Household Burdens - As seen in the example of Kangnŭng, a farm household with an income of 597 Won pays 41 Won in land taxes and public levies (*kongkwa*); including other labor duties, one-tenth of the total income goes to taxes. The burden on farm households must be reduced to lighten their load.
+
+(4) Moratorium on Debt Repayment - Grant a three-year payment moratorium to those unable to meet imminent debt repayments and pay debt interest. Also, measures against those delinquent in tax payments should be relaxed.
+
+(5) Living Assistance for Destitute Farmers (*kungnong*) - Distribute living necessities to destitute farmers, provide opportunities for labor to allow repayment through effort, and provide low-interest, unsecured funds for farming.
+
+(6) Opening of State Forests for Chosŏn's Destitute Farmers, Creation of Owner-Farmers - These are the demands of today's farmers who have nowhere to turn.
+Finally, all facilities and projects until now have been primarily for the benefit of the landlord class. Future relief projects, too, can easily become relief measures that neglect the interests of the tenant farmer class and below if not handled carefully. Therefore, I believe it must not be forgotten that relief measures must be primarily for the benefit of tenant farmers and below, and for the benefit of the Chosŏn people. (End)<13>
+<2-13>
+
+**Summary**
+
+This 1932 special feature from *Tongkwang* magazine presents three essays analyzing the severe crisis in Korean rural villages under Japanese rule. The authors (Ham Sanghun, Kim Kwangjin, Im Pyŏngch'ŏl) detail the extreme poverty, crushing debt (estimated at 500 million Won total), exploitative tenancy conditions (rents up to 90%), unfavorable market structures tied to Japan's economy, high taxes, usurious interest rates, and lack of secure land rights driving farmers into destitution, migration, or famine. They critique the colonial government's relief efforts as superficial stopgaps benefiting landlords rather than addressing root causes like the exploitative land system, distorted market prices (price scissors), and capitalist penetration disrupting traditional self-sufficiency. The authors collectively demand fundamental reforms, including a tenancy law protecting farmers, crackdowns on usury, reduced taxes, debt moratoriums, direct aid and land access (opening state forests) for poor farmers, emphasizing that solutions must prioritize ordinary Korean farmers, especially tenants.
+
+For historians, this article is valuable as a contemporary Korean intellectual critique of colonial agricultural policy and its devastating socio-economic impact. It highlights the specific mechanisms of exploitation perceived by Koreans (land tenure, market dependency, debt cycles) and reveals the limited effectiveness and perceived bias of official relief measures. The detailed, albeit sometimes anecdotal or based on official data used critically, accounts of farmer finances, debt, poverty, and migration provide rich source material on lived experiences during the Depression era in colonial Korea, alongside demands for specific, farmer-centric reforms.
+
+**Named Entities**
+
+동광	동광	Tongkwang
+咸尙勳	함상훈	Ham Sanghun
+日本	일본	Ilbon (Japan)
+長野縣	나가노현	Nagano Prefecture
+滿蒙	만몽	Man-Mō (Manchuria and Mongolia)
+衆議員	중의원	House of Representatives (Japan)
+政友會	정우회	Seiyūkai
+內務省	내무성	Ministry of Home Affairs (Japan)
+大藏省	대장성	Ministry of Finance (Japan)
+農林省	농림성	Ministry of Agriculture & Forestry (Japan)
+商工省	상공성	Ministry of Commerce & Industry (Japan)
+拓務省	척무성	Ministry of Colonial Affairs (Japan)
+朝鮮	조선	Chosŏn (Korea)
+總督府	총독부	Government-General
+水利組合	수리조합	Water Utilization Association
+江原道	강원도	Kangwŏn-do
+江陵郡	강릉군	Kangnŭng-gun
+邱井面	구정면	Kujŏng-myŏn
+邱井里	구정리	Kujŏng-ri
+嚴O永	엄O영	Eom O-yŏng
+尹O燁	윤O엽	Yun O-yŏp
+昭和	쇼와	Shōwa (Japanese era name)
+大同郡	대동군	Taedong-gun
+大正	다이쇼	Taishō (Japanese era name)
+朝日外人	조선인/일본인/외국인	Korean/Japanese/Foreigner (Implied by context - 朝=Chosŏn, 日=Nihon)
+米國	미국	Miguk (USA)
+獨逸	독일	Togil (Germany)
+佛國	불국	Pulguk (France)
+朝鮮土木建築協會	조선토목건축협회	Chōsen Civil Engineering and Construction Association
+龍山	용산	Yongsan
+漢江	한강	Han River
+金洸鎭	김광진	Kim Kwangjin
+殖産局	식산국	Bureau of Industrial Development
+林炳哲	임병철	Im Pyŏngch'ŏl
+東亞日報	동아일보	Tonga Ilbo
+慶南	경남	Kyŏngnam (South Kyŏngsang Province)
+慶北	경북	Kyŏngbuk (North Kyŏngsang Province)
+全南	전남	Chŏnnam (South Chŏlla Province)
+咸北	함북	Hambuk (North Hamgyŏng Province)
+黃海道	황해도	Hwanghae-do
+咸南	함남	Hamnam (South Hamgyŏng Province)
+新興郡	신흥군	Sinhŭng-gun
+下元川面	하원천면	Hawŏnch'ŏn-myŏn
+
+**Glossary**
+
+死線	사선	Death line; critical point
+農村	농촌	Rural village, countryside
+對策	대책	Countermeasure, plan
+聲浪	성랑	Clamor, outcry (older usage)
+總督府	총독부	Government-General (of Korea under Japanese rule)
+窮民	궁민	Destitute people, the poor
+窮乏相	궁핍상	State of poverty/destitution
+自作農	자작농	Owner-farmer
+小作農	소작농	Tenant farmer
+豪農	호농	Wealthy farmer
+貧農	빈농	Poor farmer/peasant
+細民	세민	Needy people, lower class (nuance distinct from 궁민)
+걸식	걸식	Begging, beggar
+피폐	피폐	Devastation, exhaustion, impoverishment
+地代	지대	Land rent
+高貴	고귀	High-priced, expensive (here referring to interest rates, older/formal usage)
+公課	공과	Public levies, imposts
+苛歛	가렴	Extortionate collection/levies
+作權	작권	Cultivation rights (tenant's right)
+塗糊策	도호책	Stopgap measure, temporary fix (lit. plastering measure)
+病源	병원	Source of disease/illness
+遺制	유제	Remnant system, legacy system (often feudal)
+饌物	찬물	Offerings (food items given to landlord by tenant)
+賦役	부역	Corvée labor, labor service demanded by authorities or landlords
+수탈	수탈	Exploitation, plunder
+歇價	헐가	Extremely low price, giveaway price (older usage for 헐값)
+기근	기근	Famine, starvation
+流離民	유리민	Displaced people, refugees, vagrants
+債務	채무	Debt
+高利	고리	High interest, usury
+取締	취체	Crackdown, control, regulation (used in Japanese context, adopted into Korean)
+體納	체납	Delinquency in payment (esp. taxes)
+創定	창정	Establishment, creation (used for creating owner-farmers)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	死線에 선 農村과 그 對策(특집)
+기사형태	논설
+
+死線에 선 農村과 그 對策
+농촌을 어떠게 할가. 이것은 조선 전체의 盛衰死活을 말하는 重大問題다. 농촌문제가 일본 전국적으로 중대문제가 되는 이때 조선의 농촌을 구원하는 문제도 한번 깊이 연구할 필요가 잇다. 이제 우리는 이 특집에 斯界學者의 三論文을 소개하야 토론의 단서를 제공코저 한다.
+
+朝鮮 당국자의 농촌구제책을 비판함
+咸尙勳
+
+1. 농촌구제의 聲
+5.15사건 후 日本서는 농촌구제의 聲이 날로 높아갓다. 長野縣 대표 4만6천여 인은 1. 농가부채 3개년 지불유예, 2. 비료자금 段당 1원 보조, 3. 滿蒙이주비 5천만원 보조금 下附의 3개조를 含한 청원을 衆議員 청원위원회에 제출하고 政友會는 평가절하안을 가결하얏다. 학자와 정론가가 침묵을 깨트리고 농촌구제를 대성질타 하얏으며 신문, 잡지가 대서특서하야 농촌구제의 여론을 이르켯다. 이 사회적 분위기에 휩쌓여 제62 의회도 만장일치로써 시국匡 救決議案을 통과시키니 1. 통화유통의 원활, 2. 농촌 기타의 부채정리, 3. 공공사업의 철저 실시, 4. 농산물 기타 중요산업의 통제 등등, 요컨대 농촌을 시급히 구제하자 함이엇섯다. 그후 內務, 大藏, 農林, 商工, 拓務 등 諸省은 각각 當該 관계방면의 구체안을 편성 중이거니와 朝鮮서도 이 聲浪에 잠을 깨엇음인지 총독부에서 농촌구제안을 논하게＜2＞ 되엇다. 曰 水利組合 부채 8천9백만원의 상환연기, 又는 이자경감, 曰 비료자금 약 4백만원의 이자경감, 又는 상환연기, 曰 水稻종자의 일부 무료배급, 曰 窮民구제사업 연장 등등. 그러나 이 구제안이란 者 아즉 광범한 『아울라인』에 불과하고 그 구체적 방법에 잇어서는 日本서 결정되는 구제안을 보고 작성하리라 하니 미리 왈가왈부를 말할 수 없다. 그러나 농촌구제문제가 당국자의 입으로부터 떠들기 시작햇느니 만큼 농촌문제는 중대화 햇다 않을 수 없다. 그러면 이 농촌문제는 얼마나 심각화 햇으며 과연 당국의 운운하는 구제책은 그 효과를 나타낼 수 잇을까.
+
+2. 농촌의 窮乏相
+朝鮮농촌의 부채는 5억원이라 槪算한다. 그러므로 조선농가 1호당 평균부채는 178원 强이다. 그러나 이 5억원이란 부채는 豪農의 투자를 목적한 부채도 섞엿으려니와 빈농의 양식을 위한 부채도 섞엿 잇다. 그러므로 농촌의 궁핍상을 여실히 설명하는 것이라고 할 수는 없다. 그러타고 농가의 자세한 생활상태를 조사한 자료도 없으므로 이러타고 내세울 증거도 없다. 그리하야 우리는 비교적 단편적이나마 총독부에서 조사한 농가의 생활상태를 인용하지 않을 수 없다. 다음 것은 江原道 江陵郡 邱井面 邱井里 상, 중, 하 각 10호의 생활상태를 조사한 중의 2인을 들은 것인데 江陵郡이 조선농촌의 대표적은 못되나 조선농촌의 일반을 엿볼 수는 잇으리라 믿는다.
+A. 江陵郡 邱井面 邱井里 嚴O永(연령 55)
+
+
+B. 江陵郡 邱井面 邱井里 尹O燁(연령 50)
+
+
+嚴O永은 토지, 田 2段5畝를 소작시키고 畓 1段步, 田 5段步를 자작하며 畓 3段步 소작하면서도 겨우 17원55전의 잉여를 얻는다. 물론 이곳에서는 자기 及 가족의 노임이 들지 않엇다. 그런고로 보통학교에 1인의 자녀를 보내지 못하고 米食은 사계 중 춘추동에 한하야 4割 가량 밖에 못 먹는다. 尹O燁에 잇어서는 戶主 외 4인이 1년 중 노동하면서 74원40전의 부족을 招致하얏다. 그리고 母喪을 당하얏기 때문에 65원의 부채를 젓다. 부채는 년년 증가될 밖에 없다. 中農이 이미 이러하다. 소농에 잇어서는 더 말할 여지가 없다. 그리고 이것이 昭和 5년  1월인 풍년 공황도 오기 전해인 것을 생각하면 공황의 今日에 여하히 收支不相償을 당한 가를 알 수 잇을 것이다.
+이와 같이 自作農이 수지의 不相償을 초래하므로 자작농의 소작농으로 밖에 갈 곳이 없다. 그리고 소작농이 많아가는 결과로는 빈농을 다수 조출하야 처처에 窮民을 발생케 한다. 전조선의 窮民 수효를 알기에는 자세한 통계가 없으나 수륙교통이 편하고 농산물이 풍부한 大同郡 一郡의 貧者 수만 보아도 全郡 호구 2만 7천 207호 중 細民 1만 4천 333호, 궁민 3만374호, 걸식 151호. 합 1만 7천 858호 즉 6割5分이다. 전조선의 빈농이 얼마나 많은가를 추측할 수가 잇다.
+中農으로부터 細農, 細農으로부터 窮農, 그리고 다시 걸인이 되엇다가 그것도 못할 팔자의 사람은 해외로 산업시장을 구해 가거나 막연히 표랑의 길을 떠나지 않을 수 없다. 이제 大正 14년 來로부터 昭和 5년 말까지의 5개년간 조선서 살길을 못찾아  해외로 떠난 사람을 보면 놀라지 말라. 36만인, 연평균 7만2천인이다. 다음 통계는 5년간 인구동태로 본 조선농촌상이다.
+
+朝日外人別 人口動態調(5개년간)
+
+3. 농촌피폐의 원인
+이와 같이 농촌이 피폐햇으므로 농촌을 구제하는＜4＞ 것은 目下의 급무다. 그러나 이것을 구제함에는 표면적, 일시적 대책이 効를 奏할 것이 아니라 그 유래하는 원인을 구명하야 그 根因을 艾除치 않으면 안 된다.
+농촌피폐의 원인으로는 종종의 종목을 들 수 잇으나 (1) 농업 자체 성질상의 불리, (2) 매매제도의 불리, (3) 地代의 과중, (4) 금리의 고귀, (5) 소작권의 불확립, (6) 조세, 공과의 과중 등을 헤일 수 잇다. (1) 농업 자체의 성질이라 함은 농업생산의 자연적 장해, 기타를 말한다. 농업은 공업과 달라서 風, 雨, 寒, 暑 등 천재지변에 영향되어 예정 생산액이 변경된다. 그리고 一次 확장한 경지면적은 공업과 같이 즉시에 단축할 수가 없어 생산의 조절이 곤란하다. 이 밖에 一次 투자한 자금을 수확기인 1년 후에야 회수할 수밖에 없는 점은 공업보다 불리한 점이다. 이것은 朝鮮 뿐 아니라 米國, 獨逸 할 것 없이 농업이 당하는 공동한 불리점이다. (2) 매매제도의 불리라 함은 朝鮮이 특히 많이 갖고 잇는 불리다. 예컨대 米國, 獨逸, 佛國 같은 국가는 농산물의 가격을 고가로 유지하기 위하야 관세제도를 설정하얏으나 朝鮮서는 日本의 수요에 의하야 移出할 밖에 없으므로 日本이 불필요로 인할 때, 혹은 의식적 견제의 필요가 잇을 때는 朝鮮 穀價의 저하를 꾀하므로 항상 日本의 그것보다 저렴하지 않을 수 없다. 蠶虅, 목화, 燕麥 등의 공동판매제도가 농가의 이익을 침해한다 하는 것은 이미 주지의 사실로 되어 잇다. (3) 朝鮮 地代의 가혹한 것은 총독부 소작관행조사에 잇어서 9割이란 곳이 잇다는 것으로 미루어 알 수 잇다. 朝鮮의 地代는 평균 5割이요, 적은 곳도 4割, 많은 곳은 6割, 7割 내지 9割이다. 이 苛歛에 소작인이 언제 여유가 생길 수 잇으랴. (4) 금리의 高貴한 것도 朝鮮의 특징이다. 비교적 저리라 할 금융조합의 금리도 普通貸付에 日步 3錢4厘 내지 4錢이요, 長期貸付에도 연 1割5厘이다. 소작민 다대수의 금융기관인 개인 대금업자의 ꊸ�리에 이르러서는 경악치 않을 수 없다. 조선인 간의 최고금리는 월 4分2厘, 최저 2分이며 보통 2分8厘이다. 市場貨(장변)은 최고 8分2厘, 최저 4分5厘, 보통 5分7厘이다. (5) 소작권의 불확립은 作權의 이동을 지주의 자의대로 하게 하야 농촌의 피폐 밎 살풍경을 초래하는 중대한 조건이 되엇다. 소작쟁의의 최대 원인이 여기에 잇는 것은 통계의 증명하는 바다. (6) 조세 及 公課의 과중도 실제로써 절규된 지 오래다. 농산물이 저락하면 그에 비하야 조세와 公課가 경감되어야 할 것은 자명한 이치나 조세는 내려본 일이 없고 水組費, 農會費, 기타 부역 등도 경감되지 않엇다. 이로써 어찌 농가의 피폐가 오지 않으리오.
+
+4. 농촌구제책의 한계
+이제 농촌이 피폐되는 원인과 그 구제책이란 것과를 대조해 보면 그간에 차이의 현격한 것을 알 수가 잇다. 즉 농촌구제책에 의하면 水組借金의 지불유예, 又는 이자의 저하 같은 水組구역 내의 일부 지주의 부담을 경감케 하는 策이거나 이미 발생한 窮民의 일시적 구제책인 窮民救濟工事 같은 것이다. 농업의 가진 근본적 성질을 고치기는 도저히 바랄 수 없거니와 관세제도, 공동판매제도, 소작제도, 금리제도, 조세 及 公課制度는＜5＞ 당국에 성의만 잇으면 될 것이어늘 일부 지주의 부담을 경감케 하며 이미 발생한 窮民을 구제하랴 함은 化膿한 환자를 고약으로써 치료하랴 하는 것이다. 況 水組借金은 이미 고리를 저리로 借換햇다 하야 전부에 亘할 것인지, 미지수라 하며 窮民救濟工事란 것이 아즉 어떤 정도의 공사인지 알지 못함에랴. 듣건대 內務局은 제1차 窮民救濟工事에 계속하야 약 1억원으로써 제2차 窮民救濟工事를 계획한다 한다. 그러나 종래의 窮民救濟工事를 보면 기껏 거액의 예산을 들여 공사를 이르켜도 이중삼중의 청부제도와 고급기술자의 채용과 전표제도 때문에 窮民에게 수입되는 것은 30錢 내외의 곳이 많다. 다음 표는 朝鮮土木建築協會의 조사한 조선 공사용 각종 노동자의 실상의 일례인데 독신이면서 일일 임금 70錢으로도 생계가 부족하거늘 況 30錢 내외의 수입으로 일가족의 생계가 어찌되랴.
+조선인 인부    연령 28      龍山漢江堤防工事
+
+直營           토목         昭和 3년 7월 23일調
+
+1일 貸金    常備   70전   日拂
+
+생활비 30일분에서 노동일수 26일분의 임금을 공제하고 산출함.
+그러므로 窮民救濟工事는 窮民救濟工事가 못되고 도리어 怨府가 되는 감이 잇다. 그러므로 당국에서 계획 중인 농촌구제책이 如上의 범위를 넘지 못한다 하면 그는 일시적 塗糊책이라 밖에 칭하지 못할 것이다.(7월 5일 記)
+
+朝鮮농촌의 病源 진단
+金洸鎭
+
+금일 朝鮮 농업생산은 위기에 臨하엿다.
+왜 그와 같이 되엇나? 그것은 조선 농업에 幾多한 기구적 결함이 잇는 까닭이다. 그 중요한 몇가지를 약설하여 보자.
+
+1. 영세농제도
+朝鮮 토지관계의 최대특질은 그 농업경영이＜6＞ 영세농적이고 따라서 봉건적 遺制를 그냥 잔존케 함에 잇다. 즉 농가 1호당 경작면적은 畓에 잇어서 5段7畝, 田 及 火田에 잇어서 1町5畝, 합하여 1町 6段2畝이다.(조선총독부 발행 昭和 7년판 「조선의 농업」에 의함) 이와 같이 조선의 농업경영은 세계에 稀有한 過小農制이므로 농민은 모다 토지에 주리고 잇다. 그리고 또 농업경제 형태별로 보면 소규모의 소작농과 자작 겸 소작이 그 대부분을 점령하여 토지의 경작을 요구하는 농민의 수는 소수인의 토지의 집중적 소유화와 반비례하여 간다. 이러한 사실을 각 연도 말 현재로 보면 다음과 같다.
+
+기업 형태별 戶數(단위 千戶)
+備考 朝鮮總督府 殖産局 「朝鮮의 農業」
+
+이와 같은 소농화 경향은 토지에 대한 부단의 수요로 농민으로 하여금 경작지의 쟁탈을 격심케 하여 항상 소작료를 인상케 한다. 그러므로 전 수확고에 대하여 5割 내지 7割이란 「기아지대」를 지주들은 징수할 수가 잇다. 또 그 뿐만 아니고 지주들은 饌物, 부역 등의 모든 봉건적 遺制를 소작인들에게 강요할 수가 잇다.
+이와 같이 봉건적 색채가 농후한 고율의 소작료는 그것을 자본화한 토지가격을 등귀케 하엿으며 또 그 고가의 토지가격은 반작용하여 고율의 소작료를 유지케 한다. 이리하여 전 수확의 대부분을 지주에게 納上하고 남은 소득은 자기자신에게 지불하는 노임도 되지 못하므로 농사경영의 採算을 위협하여 농업자본의 재생을 곤란케 하며 농민의 소비적 부채를 누적케 한다.
+
+2. 자본주의 산업으로부터의 수탈
+자본주의 침입 전의 「농업과 수공업의 통일」을 기초로 한 자급자족 경제는 분쇄하여 버리고 농민들이 가지고 잇든 여러 가지 부업은 신흥자본주의 산업에게 수탈되엇다. 그리하여 일상생활 필수품-면직물, 農具 심지어 고무신 등에 이르기까지 그 모든 것을 자본주의적 산업에 구하게 되엇다.
+이 필연적 결과로 제 1에 농민의 노동력은 계절적으로 불균형하게 되어 소위 농한기에는 일깜이 없어지고 1년의 반분을 실업상태에 빠지게 한다.
+제2에 농촌이 자본주의 산업에 구하는 생활필수품과 비료 등의 공업품은 대개 칼텔 혹은 트러스트로 통제되어 잇으므로 그 가격은 항상 농산물보다 고위를 보지하고 잇고 점차 그 가격차는 확대하여 간다. 이러한 소위 협상가격차(쉐레)는 독점자본가의 이윤을 위하여 농민이 부담하는 손실이다. 그 뿐 아니고 농민들은 추수기를 당하여 소작료, 조세, 水稅, 채무, 비료대 등의 여러 가지 지불을 하기 위하여 1년 중 제일 米價가 저락한 시기인 11월, 12월에 그 소유 米의 大半을 賣放하게 되고 지방 매출상인배는 여러 가지 기만을 다하여 말할 수 없는 歇價로 농산물을 농민의 수중에서 빼앗고 잇다. 이러한 여러 가지의 자본주의적 XX은 농촌의 파멸을 촉진케 한다.
+
+3. 선천적 機構의 결함
+농업의 선천적 機構의 결함으로 제1에 말할＜7＞ 것은 자연에 대한 의존성이 늬무 많은 까닭이다. 이것도 자본주의 침입 후의 다각적 자급자족 경제가 파괴한 때문에 그 중요성은 더욱 현저하게 되엇다. 농촌은 거진 米作 중심의 단일 생산으로 변하여 그 흉풍은 수급관계의 여하 보담도 天候의 지배를 받는 정도가 더욱 커젓다. 그리하여 농민은 다만 자연적, 사회적으로 강요하는 가격으로 그 생산물을 팔게 된다.
+농업의 선천적 機構결함의 제 2는 자본이 토지에 고정화 되어 잇는데 잇다. 토지에 의존하여 잇는 농업은 그 자본의 약 7割이 토지에 고정되어 농가의 활동자본은 결핍하게 된다. 이것은 타 산업에서는 보지 못하는 바이며 유동자본의 결핍은 금융난을 의미하는 것이며 농업경제의 궁핍화를 현실이 입증하는 것이다. 또 농업자본 중 「토지자본」이 압도적 부분을 점령하고 잇기 때문에 조세로써의 공납과 고율의 소작료의 공납은 강제하여 소농민을 더욱 곤궁케 하는 원인이 되는 것이다.
+「추기 편집자의 요구한 제목은 「농촌파멸의 원인과 그 전망」이엇고 필자도 그 의도를 가지고 잇엇으나 怱怱하여 그 전망에 언급치 못한 것은 유감으로 생각한다.)
+
+朝鮮 농촌은 이것을 요구한다
+林炳哲
+
+금일의 농촌문제는 한 사회문제로부터 떠나서 전국적 또는 전세계적 중대문제가 되엇다.
+자본주의 발전은 농촌X取에 잇엇고 농촌은 자본주의 문화건설을 위하여 충실한 노예가 되엇든 것이다. 이에 필연의 결과로 농촌은 궁핍의 극에 달하여 꺼꾸러지고 알엇다. 이것을 가르처 농촌파멸, 농촌몰락이라고 이른다.
+이 농촌의 몰락은 마츰내 국운의 기초를 동요시키고 그리고 오히려 세계 자본주의의 위기를 짓고야 말엇다.
+지금 부르짓는 농촌구제, 농촌갱생은 이러한 의미에서 자본주의 국가의 최대의 문제가 되엇다.
+
+1. 조선 농촌몰락의 원인
+우리 앞에 놓인 조선농촌의 궁핍, 몰락은 세계적 농촌피폐의 원인에 또다시 조선 특수상이 加하야 가속도적으로 빈사의 境으로 몰아 넣엇다. 그러므로 조선농촌의 몰락의 원인을 전세계의 공통된 원인과 조선 특수의 원인이 상호 연결하여 금일의 조선농촌을 빚어낸 것이다.
+이제 구태여 조선농촌 피폐의 원인을 간단히 든다고 하면
+(1) 조선에 침입한 기형적 자본주의의 발전이다. 무엇보다도 토지소유권 확립 이후 토지 兼倂의 급진, 영리적 자본주의 조직 하에서 농촌은 자작자급의 정도를 상실하엿다. 그리하여 자기 소산의 생산품을 화폐화 하여 재구입 하고 소산의 원료를 가공하여 쓸 기회까지 잃게 된다. 그 뿐만 아니라 모든 조직, 모든 시설을 도시 중심으로 하여 농촌의 苦血을 XX, 도시로 모으게 된다. 그 예로는 모든 금융, 교육, 의료 등의 도시 집중이 그것이다.＜8＞
+(2) 농촌물가의 폭락. 이 사실에 대하여는 너무나 잘 아는 것이다. 2, 3년 내 농산물, 米繭, 기타 모든 부산물까지 폭락하여 농촌의 현금 수입을 반감 혹 그 이상으로 하엿다.
+(3) 농가의 필수품, 分租 公課는 의연 不落하엿다. 다시 말하면 수입은 반감하엿으나 지출은 여전하다는 것이다. 아니다. 절대적으로는 여전하다. 그러나 상대적으로는 오히려 등귀하여젓다.
+(4) 그리하여 다시 벗어날 수 없는 고리, 借金의 증가를 보게 되엇다. 이 결과는 전조선 농민부채 5억원이라는 수자를 보여주고 잇다.
+우리는 이와 같은 원인과 이와 같은 부채의 권내에서 제외된 소작농들의 慘境을 또한 뺄 수 없다.
+이 부채의 증가와 정비례하여 농촌의 流離民은 헤매이고 잇다. 이 밖에도 우리는 세세히 그 원인을 캐면 일일히 그 요목을 들기가 곤란할 것이다.
+이 소론은 그 원인보다 조선농민의 현상, 특히 부채생활의 진상소개에 잇으므로 이에 끄치고 다음에 조선농민의 窮狀을 들어보려 한다.
+
+(2) 조선농촌의 생활상
+조선농촌의 현상에 대하야 우리는 여러 가지로 관찰할 수 잇다. 이 소론에서는 (1) 농가의 토지소유 (2) 수지 상으로 본 농민생활 (3) 농민부채 (4) 기근의 네 가지로 분류하여 보려 한다.
+
+(1) 농민토지소유
+자작농의 몰락, 소작농의 증가라든지 토지가 우리의 손에서 이동되어 농민생활의 破綻을 이르키는 사실은 본 지면을 통하여서도 수차 논하엿다. 그러므로 이에 略하고 그다음 收支 上으로 본 농민생활부터 논하려 한다.
+
+(2) 수지 상으로 본 농민생활
+우리는 쉽게 농촌에서는 살 수가 없다고 한다. 그 말은 여러 가지로 해석할 수 잇지마는 그 말은 농민생활이 수지가 맛지 않는다는 의미이다.
+그 전에는 고무신 한켜리 사기 위하야 쌀 반말을 팔엇지마는 지금은 한말을 팔어야 된다. 그만큼 농민의 생산물은 헐갑에 팔린다. 농민의 생산물은 헐값에 팔리는 반면에 피복비, 조세, 비료, 기타 남의 손에서 사서 쓰고 물어 줄 것은 모다 상대적으로 배 이상 증가되엇다.
+이리하야 종전에는 그래도 넉넉하든 자작농까지 금일에 와서는 살 수 없다고 웨치게 되엇다.
+(추수를 하엿다고 해야 소작료, 기타 부채를 물고나면 모자라는 소작계급은 더 논할 여지가 없다. 이에서는 자작농에만 한하여서 논하려 한다.)
+우리는 그 실례로 아례에서 江陵郡 邱井面 邱井里의 자작농의 농가수지표를 들어보려 한다.＜9＞
+
+農家經濟總括表(昭和 5년 1월 조사)
+江陵郡 邱井面 邱井里(조선총독부 생활상태 조사 其三 조사자료 제32집 江陵郡)
+
+
+제1표와 제2표에서 보는 바와 같이 1인이라 함은 자작농 일가의 조사요, 10인 計는 자작농 10호의 계산이요, 그 10호를 통틀어 본 것이 평균계다.
+
+1표의 1인 計를 보면 5反의 田, 14反의 畓을 소유하고 채권이 36원이 잇고 경작에 종사하는 사람이 6인으로 수입이 597원의 연수입을 가진 농가로서도 지출 608원을 하고 나면 부채가 제 2표에서도 4, 5反 이상, 畓 2反을 소유하고 3反을 소작하는 자로 연수입 282원의 지출을 내고 보면 결국 부족이 78원의 결손을 내고 잇다.
+1표 10인의 평균으로 보더라도 수지를 마추어 보면 겨우 38원의 남저지요, 2표에서는 4원의 부족을 보여주고 잇다.
+그 1, 2표의 1인 계산을 보면 수입에 잇어서나 지출에 잇어서 명확한 조목이 잇다. 그를 보면
+
+自作農家의 收支表(同處 인용)
+이러하다.
+수입은 일정한데 피복, 조세, 식량, 교육, 차금이자, 소작료, 비료, 기타의 비용은 더 축소할 수 없는 농가의 생활이다. 이에서 우리는 농촌의 수지 不相殺의 현상을 볼 수 잇다.
+금일의 조선농촌에서 자작농 이하 자작 겸 소작을 비롯하야 소작, 화전민의 생활은 여지 없는 파멸의 구렁이에서 헤매인다. 그리면 전조선의 지주계급인 5.7%만이 생활을 할 수 잇어도 자작농 이하 전조선 농가의 94.3%는 부채생활 혹은 기근지옥에서 헤매이는 금일의 농촌 慘境을 나타내고 잇다.
+
+(3) 농민부채
+현재 조선농촌의 부채를 殖産局의 최근 조사에 의하야 5억원이라고 한다.
+그를 구분하여 보면 다음과 같다.
+
+水利組合負擔        89,000,000
+
+肥料資金             4,000,000
+
+小農資金貸付         2,400,000
+
+村落金組貸出       101,000,000
+
+不動産擔保銀行貸出 238,000,000
+
+個人間負債         101,112,620
+
+(동아일보 昭和 7년 11일 발표 각 道別까지)
+
+우리는 이 엄청나는 수자를 일일히 분석할 수 없다. 이제 아레에서 촌락 금융조합의 부채만을 보면
+
+慶南의 농민부채 7,722만원인데 이를 同道 총인구에 분배하면 1인당 37원 60전, 총호수에 분배하면 1호당 192원.
+慶北 78金組員의 부채 1,017만원, 6만조합원 每人當 149원, 기타 부채도 73원.
+全南 62村 金組 조합원 8만명에 1,911만원. 조합원 8만은 全道의 2할.
+咸北 金組의 부채 277만원, 每戶當 149원.
+
+이상의 통계에서 여실히 보는 바와 같이 금융이 대개로 全道 인구의 2割 이상을 점하엿다고 볼 수 잇다. 그들이 금융조합에서만 쓴 빗이 백수십원식이 되니 그 외에 수리조합부채, 비료 등의 부채를 합하여 평균하면 每戶 數300원의 부채일 것이다.
+이와 같은 부채를 걸머진 농촌이 어찌 건전하기를 우리가 믿을 수가 잇으랴.
+우리는 한 거름 나아가 생각하면 이상의＜11＞ 부채를 걸머질 만한 정도의 농가는 대개 자작농 이상 지주계급이라고 보는 것이 정당하다. 그 밖에 자작 겸 소작, 소작 즉 전조선 농민의 86%는 이러한 고등부채를 질 자격까지 없다. 그들은 담보로 제공할 아모런 꺽대기도 가지지 못하엿다. 빈손 뿐이다.
+이러한 농민들은 앞으로 올 추수를 미리 지주에게 걸고 혹은 농량 혹은 돈으로 빗을 얻어 쓴다. 그리하여 벼 2석이면 추수기에 4석의 고리로 얻어 쓰게 된다.
+이리하야 조선의 농촌은 우으로 아레까지 부채에 눌리워 숨을 쉬지 못하는 현상에 처하엿다.
+그들이 최후로 가는 길은 기근지옥이다.
+
+(4) 기근
+전조선 농가의 41.58%인 소작, 35%20인 자작 겸 소작은 말할 것도 없고 19.51%인 자작농이 수지가 맛지 않는 우리의 농촌이다. 그리고 지주계급인 5.71%도 부채에 눌리워 잇다. 우리가 수지 맞지 안는 자작농을 기근민 속에 넣지 않는다 하더라도 그 이하 겸 소작, 소작 76. 78%는 기근에 빠진 사람이다. 더구나 조선 화전민 24萬戶, 인구 121만명은 더 말할 것도 없다.
+우리는 이제 각 도별의 정확한 기근민 통계를 알 수 없으나 東亞日報紙 상에 부분부분 발표된 기근 농민 수를 보고 그 전체를 짐작할 수 잇다.
+慶南 流離民 17,024戶, 인구 52,538명(작년 1년간) 금년 1월부터 4월까지 7,719戶, 24,459명.
+黃海道 要求急 농가 95,116戶, 475,825명. 全道의 4割.
+咸南 窮民 12,306戶, 66,840명.
+慶北 3만 4000 화전민의 飢饉群. 草根木皮도 부족.
+新興郡 下元川面 4,500명의 기근민.
+江陵郡 내 3천戶 요구급, 窮餘線 이민 100여 호.
+
+전체적 통계는 알 수 없으나 이상에 든 것으로도 우리는 그 기근상을 알 수 잇다. 1郡 내에 수만호, 1면 내에 數三千戶가 기근지옥에 빠지고 잇다. 이들을 구하기 위하야 면면 농촌에서 구제회를 조직하야 구급하엿다고 하나 그 亦 滄海一粟에 지나지 못하엿고 또한 窮民구제, 토목공사 등 그 자체도 씨원한 효과를 주지 못하엿다. 매일 3, 40전의 임금으로 13, 4시간의＜12＞ 노동을 하엿다. 그러나 그들의 기근은 역시 면할 수 없엇다. 이 기근을 구할려는 것은 마치 홍수를 막으려는 것과 다름이 없다하지 않을 수 없다.
+
+(3) 농촌의 요구
+이같은 처지에서 조선농촌이 지금 부르짓고 시급히 요구하는 것이 무엇인가. 아레에 조목만을 들어 놓으려고 하거니와 이것은 영구적 농촌구제책으로서는 아니다.
+
+(1) 소작법 제정-小作法 制定으로
+
+소작농을 보호할 것. 금일의 소작인은 타작마당에서 소작료와 부채를 물고 나면 아모 것도 없다. 그러므로 적어도 지세 등을 지주부담으로 하고 7, 3의 比, 적어도 6, 4의 比로 소작인에게 유리하게 분배하도록 법령으로 제정할 것.
+
+(2) 악지주 及 고리업자 取締
+악지주와 惡舍音은 정한 소작료 외에 作權이동을 유일의 무기로 하여 부역, 기타 증물을 요구한다. 그리고 농촌의 고리대금업은 그 전성을 극하여 농촌파멸의 제일 원인을 짓고 잇거니와 이를 取締함에 잇어서 법정이자 이상을 요구하는 자에게 법적 제재를 가할 일.
+
+(3) 농가부담 경감
+우에 江陵의 예를 보더라도 597원 수입의 1농가에 지세, 公課가 41원, 기타 부역을 합하면 전 수입의 10분지 1은 稅로 나간다. 농가의 부담을 경감시켜 부담을 輕하게 하여주지 않으면 안될 것이다.
+
+(4) 채무상환 지불유예
+상환기일이 절박한 채무의 이행, 부채이자 지불의 불가능한 자에게는 3년간의 지불유예를 줄 일. 그러고 조세체납자에 대한 처분도 완화하게 할 일.
+
+(5) 窮農에서 생활자료
+窮農에서 생활자료를 分級하고 노동의 기회를 주어 노력으로 회수하고 利低의 무담보 자금을 융통하여 주어 영농케 할 일.
+
+(6) 조선인 窮農 본위의 국유림 개방 자작농 創定
+等이 금일 의지할 길 없는 농민들의 요구이다.
+끝으로 지금까지의 모든 시설, 사업은 지주계급 본위의 사업이엇다. 금후의 구제사업도 조금만 잘못하면 소작인 이하 계급의 이익을 떠난 구제책이 되기 쉽다. 그러므로 마즈막으로 구제책은 반드시 소작인 이하 농민 본위 그리고 조선인 본위라는 것을 잊어서는 안될 줄 믿는 바이다.(完)＜13＞
+＜2-13＞

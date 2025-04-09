@@ -1,0 +1,84 @@
+**Header Section**
+Magazine Title: 동광 第34호
+Publication Date: 1932년 06월 02일
+Article Title: 모던대학 입학시험 (Modern University Entrance Exam)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous Article/Feature)
+
+**Body Text Translation**
+Modern University Entrance Exam
+
+1 point per question, 8 points or more for honors, 5 points or more to pass, below 5 points is failure.
+Submissions Welcome—We welcome submissions from our readers.
+
+1.  How many years ago was Tan'gun born as of this year?
+2.  In which Province is the place name “Ch’ŏngsong” (靑松) located?
+3.  What are the Three Principles of the People (三民主義)?
+4.  How many years ago from now was the Hunminjŏngŭm promulgated?
+5.  List the four counties of North Kando (北間島).
+6.  What nationality is Kemal Pasha?
+7.  State the names of the cities at both ends of the Kilhoe Railway.
+8.  In which country is Geneva located?
+9.  Does celluloid burn or not?
+10. How many ch’ŏk (尺) and ch’on (寸) are in one meter (메돌)?
+
+(Answers on page 92) <23>
+
+**Summary**
+
+This article presents a ten-question mock "Modern University Entrance Exam" published in the Korean magazine *Tonggwang* in 1932. Each question is worth one point, with grading criteria provided. The questions cover a range of topics including Korean history (Tan'gun, Hunminjŏngŭm), Korean and regional geography (Ch'ŏngsong, Bukgando, Kilhoe Railway), international politics and figures (Three Principles of the People, Kemal Pasha, Geneva), and basic science/general knowledge (celluloid flammability, metric conversion). The magazine also invites readers to submit their own questions. For historians, this piece offers insight into the perceived scope of general knowledge expected of educated Koreans during the colonial period, blending national history and geography with awareness of contemporary international affairs (China, Turkey, Europe) and practical knowledge like the metric system's relation to traditional units. The inclusion of questions about Tan'gun, Hunminjŏngŭm, and Bukgando specifically highlights areas pertinent to Korean national identity and territorial awareness within the context of Japanese rule.
+
+**Named Entities**
+
+檀君	단군	Tan'gun
+靑松	청송	Ch’ŏngsong
+三民主義	삼민주의	Three Principles of the People (Sanmin Zhuyi)
+訓民正音	훈민정음	Hunminjŏngŭm
+北間島	북간도	North Kando (Bukgando)
+케말파샤	케말파샤	Kemal Pasha
+吉會철도	길회철도	Kilhoe Railway (Jilin-Hoeryeong Railway)
+제네바	제네바	Geneva
+셀류로이드	셀룰로이드	Celluloid
+
+**Glossary**
+
+檀君탄생	단군 탄생	Birth of Tan'gun
+幾年	기년	How many years
+道	도	Province
+地名	지명	Place name
+무엇무엇인가	무엇무엇인가	What are they (plural)?
+發布	반포	Promulgation
+멫해전	몇 해 전	How many years ago (older spelling of 몇)
+列擧하라	열거하라	List; Enumerate
+何國人	하국인	What nationality person (older/formal form)
+兩端	양단	Both ends
+都市名	도시명	City name
+어느나라	어느 나라	Which country
+잇는가	있는가	Is located; exists (older spelling)
+아니타는가	아니 타는가	Does it not burn? (older spacing/form)
+메돌	미터	Meter (likely transliteration/loanword)
+幾尺幾寸	기척기촌	How many ch’ŏk (feet) and ch’on (inches) (traditional units)
+答案	답안	Answers
+
+
+---------------------------
+
+
+잡지명	동광 제34호
+발행일	1932년 06월 02일
+기사제목	모던대학 입학시험
+기사형태	잡저
+
+모던대학 입학시험
+每問에 1點式, 8點以上 우등 5點以上及第, 5點以下 落第
+出題환영―讀者諸氏의 出題를 환영합니다.
+1. 今年이 檀君탄생 幾年인가.
+2. 「靑松」이 어느 道에 잇는 地名인가.
+3. 三民주의는 무엇무엇인가.
+4. 훈민정음 發布가 지금부터 멫해전인가.
+5. 北間島 4縣을 列擧하라.
+6. 케말파샤는 何國人인가.
+7. 吉會철도의 兩端의 都市名을 말하라.
+8. 제네바는 어느나라에 잇는가.
+9. 셀류로이드가 불에 타는가 아니타는가.
+10. 一메돌은 幾尺幾寸인가. (答案은 第92頁에)＜23＞

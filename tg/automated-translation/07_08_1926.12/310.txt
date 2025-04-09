@@ -1,0 +1,76 @@
+**Header Section:**
+Magazine Title: 東光 第8號 (Tonggwang Issue 8)
+Publication Date: 1926년 12월 01일 (December 1, 1926)
+Article Title: 謝告 (Apology/Notice)
+Author: Not specified (likely editorial staff)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation:**
+Apology Notice
+
+Since the previous month's issue, this magazine has endeavored to increase its page count and enrich its content, and the unexpectedly favorable reviews and kind attention from the public (江湖) have truly moved us, the staff of this company, beyond measure. Henceforth, we intend to redouble our efforts with even greater sincerity to live up to, even in the smallest measure, the expectations of general society.
+
+However, the reason the page count for this month's issue has been reduced compared to what was planned is that several articles, including the character profile "Elder Yi Sŭnghun (李昇薰翁)," were unexpectedly subjected to deletion. This was fundamentally beyond the reach of human power (人力), so we ask for your deep understanding.
+
+Furthermore, the previously announced "Esperanto (에스페란토)" course has been postponed to the New Year issue due to editorial circumstances. From the New Year issue onwards, we also plan to include several other interesting courses besides this, so please anticipate that it will become good reading material helpful for practical benefit (實益) and self-cultivation (修養).<94>
+
+**Summary**
+
+This editorial notice from *Tonggwang* magazine apologizes to readers for the reduced page count in the December 1926 issue. It explains that this reduction was unavoidable because several articles, most notably a profile of Yi Sŭnghun, were censored ("deleted"). The editors express gratitude for positive reader feedback on recent improvements and promise continued efforts. They also announce the postponement of a planned Esperanto course until the New Year issue, which will feature additional new columns aimed at practical benefit and self-cultivation. The most historically significant aspect is the explicit mention of censorship ("deletion") of specific content (the Yi Sŭnghun profile), directly referencing the constraints placed on publishing under Japanese colonial rule. This provides concrete evidence of the pressures faced by Korean periodicals during this era.
+
+**Named Entities**
+
+李昇薰翁	이승훈옹	Yi Sŭnghun Ong (Elder Yi Sŭnghun)
+에스페란토	에스페란토	Esperanto
+
+**Glossary**
+
+謝告	사고	Apology/Notice
+本誌	본지	This magazine
+前月號	전월호	Previous month's issue
+붙어	부터	From (older spelling)
+紙數增大	지수증대	Increase in page count
+內容充實	내용충실	Enrichment of content
+厲行	여행	To strictly implement
+江湖	강호	Society, the public (lit. rivers and lakes)
+熱評	열평	Enthusiastic reviews
+眷注	권주	Kind attention, favor
+本社同人	본사동인	Our company's colleagues/staff
+感格	감격	Deeply moved
+견디지 못하는 바외다	견디지 못하는 바입니다	Cannot endure (older polite ending)
+倍加奮勵	배가분려	To redouble efforts
+촉망	촉망	Expectations
+仰副	앙부	To live up to, meet (expectations)
+하나이다	합니다	Do/will do (older polite ending)
+本月號	본월호	This month's issue
+축소	축소	Reduction
+인물평론	인물평론	Character critique/profile
+삭제	삭제	Deletion, censorship
+까닭이외다	까닭입니다	Is the reason (older polite ending)
+인력	인력	Human power/ability
+所及	소급	Reach, extent
+아니오니	아니오니	Is not, so... (older conjunctive ending)
+양해하여 주소서	양해하여 주소서	Please understand (older polite imperative)
+예고한	예고한	Announced, previewed
+강좌	강좌	Lecture, course
+편집사정상	편집사정상	Due to editorial circumstances
+新年號	신년호	New Year issue
+밀우엇사오며	미루었사오며	Has been postponed, and... (older spelling and polite ending)
+취미있는	흥미있는/재미있는	Interesting (lit. having taste/hobby)
+實益	실익	Practical benefit
+修養	수양	Cultivation, self-improvement
+資賴	자뢰	To rely on for resources/help
+好讀物	호독물	Good reading material
+豫諒하소서	예량하소서	Please anticipate/understand (older polite imperative)
+
+
+---------------------------
+
+
+잡지명	동광 제8호
+발행일	1926년 12월 01일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+本誌는 前月號붙어 紙數增大, 內容充實을 厲行하여온 바 分에 넘치는 江湖의 熱評이 의외에 眷注하와 本社同人은 진실로 감격하여 견디지 못하는 바외다. 이 앞으로는 더욱 성의껏 倍加奮勵하여 일반사회의 촉망을 만일이라도 仰副하고저 하나이다. 그런데 本月號는 紙數가 예정보다 이렇게 축소된 것은 인물평론 李昇薰翁 이외 數篇이 의외에 삭제를 당하게 된 까닭이외다. 이가 原是 인력의 所及이 아니오니 깊이 양해하여 주소서. 또 이미 예고한 「에스페란토」강좌는 편집사정상 新年號로 밀우엇사오며 그러고 新年號붙어는 이밖에 취미있는 강좌 여럿을 두려하오니 實益과 修養을 資賴함에 好讀物이 될 것을 豫諒하소서.＜94＞

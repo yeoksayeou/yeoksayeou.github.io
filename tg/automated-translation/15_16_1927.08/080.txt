@@ -1,0 +1,69 @@
+Magazine Title: 동광 제16호
+Publication Date: 1927년 08월 05일
+Article Title: 錄「水滸」詩一首 (Recording a Poem from "Water Margin")
+Author: 梁建植
+Article Type: 시 (Poem)
+
+The members of the Tonggwang Sa (東光社同人) were about to compile the "Cooling Off the Heat" issue (滌署號) and requested a humble manuscript (拙稿) from me. It was difficult to refuse their words repeatedly, so I agreed. However (顧), the heat grew more intense (暑益熾), and my affairs grew busier (事益忙), making me unable to keep my word (踐言). Yet, their demands for it became daily more diligent (索之日益勤). Who knew that the debt of one word regarding "Cooling Off the Heat" (滌署) would conversely turn into an ordeal of agonizing heat and intense sweat (苦炎劇汗)? Having no choice (不得已), I am recording and sending one poem from *Water Margin* (水滸傳), which I have cherished reading throughout my life. Whether it feels like boiling soup or waving a fan (湯煮扇搖), I leave it entirely to the reader to decide (一任覽者處焉).
+
+The red sun blazes like fire,
+Half the grain stalks in the fields are withered and scorched.
+Within the farmer's heart, it feels like boiling soup,
+While the sons of lords and grandsons of kings wave their fans. <18>
+
+**Summary**
+
+The author, Liang Kŏn-sik, apologizes to the editors and readers of *Tonggwang* magazine for submitting a quoted poem from the Chinese classic *Water Margin* instead of an original piece for their special summer issue. He explains he was prevented by the intense heat and his busy schedule, despite the editors' persistent requests. The chosen poem starkly contrasts the suffering of farmers under the scorching sun with the indifference of the idle elite. From a colonial history perspective, this piece is interesting as it shows an intellectual under pressure to contribute to a Korean cultural publication. The selection of this specific poem, highlighting social disparity and the suffering of the agricultural class versus the comfort of the elite, could be interpreted as an indirect commentary on the socioeconomic conditions in colonial Korea, where peasant hardship was widespread while colonial administrators and collaborating elites often lived in relative ease. The use of a classical Chinese text provides a seemingly apolitical vehicle for potentially resonant social critique.
+
+**Named Entities**
+
+梁建植	양건식	Liang Kŏn-sik
+東光社	동광사	Tonggwang Sa
+
+**Glossary**
+
+동인 (同人)	동인	Members, colleagues (of a group)
+집 (輯)	집	To compile, gather
+滌署號 (滌暑號)	척서호	"Cooling Off the Heat" issue (Special summer issue; 署 is likely used for 暑 'heat')
+졸고 (拙稿)	졸고	Humble manuscript (polite self-deprecation)
+중위 (重違)	중위	To repeatedly go against (a request)
+기낙 (旣諾)	기낙	Having already promised/agreed
+고 (顧)	고	However, looking back, considering
+서익치 (暑益熾)	서익치	The heat grows more intense
+사익망 (事益忙)	사익망	Affairs/matters grow busier
+천언 (踐言)	천언	To keep one's word/promise
+삭지일익근 (索之日益勤)	삭지일익근	The demands (for it) become daily more diligent
+번성 (飜成)	번성	Turn into, become conversely
+고염극한 (苦炎劇汗)	고염극한	Agony of fierce heat and intense sweat
+부득이 (不得已)	부득이	Having no choice, unavoidably
+애독 (愛讀)	애독	To love reading, favorite (book)
+수호전 (水滸傳)	수호전	*Water Margin* (Chinese classic novel)
+탕자 (湯煮)	탕자	Boiling like soup
+선요 (扇搖)	선요	Waving a fan
+일임 (一任)	일임	To leave entirely to, entrust completely
+람자 (覽者)	람자	Reader, viewer
+처언 (處焉)	처언	Deal with it, handle it (Classical Chinese phrasing)
+적일 (赤日)	적일	Red sun, scorching sun
+염염 (炎炎)	염염	Blazing, scorching
+화첨 (禾忝)	화첨	Grain stalks (忝 possibly variant/error for 苗 seedling/sprout)
+고초 (枯焦)	고초	Withered and scorched
+농부 (農夫)	농부	Farmer
+심내 (心內)	심내	Within the heart
+공자왕손 (公子王孫)	공자왕손	Sons of lords and grandsons of kings; the elite
+
+
+---------------------------
+
+
+잡지명	동광 제16호
+발행일	1927년 08월 05일
+기사제목	錄「水滸」詩一首
+필자	梁建植
+기사형태	시
+
+錄「水滸」詩一首
+						梁建植
+東光社同人 將欲輯滌署號 請拙稿一篇 重違其言 旣諾之矣 顧暑益熾 事益忙 未能踐言 而索之日益勤 誰知滌暑 一言之債 飜成苦炎劇汗之劑 不得已 錄生平愛讀之 水滸傳中 一首詩 而送之 湯煮扇搖 一任覽者處焉.
+
+赤日炎炎似火燒, 田中禾忝半枯焦. 農夫心內如湯煮 公子王孫把扇搖.＜18＞
+＜18＞

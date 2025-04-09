@@ -1,0 +1,65 @@
+Magazine Title: 동광 제35호
+Publication Date: 1932년 07월 03일
+Article Title: 謝告 (Apology Notice)
+Author: Not specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Apology Notice
+
+The results from the Student Literary Circle (학생文壇) are poor. Please strive harder and submit works of great effort (力作). The following articles could not be published due to our unavoidable circumstances.
+
+Short Story: Death of a Cat... Waseda Middle School Extramural Student... Pak Rohong
+Poem: Wounded Wings... Ch'angsin School... Kim Sŏngdo
+Poem: Waves of the Yalu River (鴨綠江)... P'yŏngyang Sungjung... Kim Ch'angsik
+Poem: Father, Please Come Out Quickly... Fushun Middle School... Hwang Sŏngsu<63>
+
+**Summary**
+
+This is an editorial notice from the magazine *Tonggwang* apologizing for not being able to publish several submissions from students. The editors state that the overall quality of submissions to the "Student Literary Circle" section has been poor and urge students to submit better work. They list four specific pieces (one short story, three poems) by named students from various schools (including one in Fushun, Manchuria, and an extramural student from Waseda Middle School) that were not published due to "unavoidable circumstances." For historians, this brief notice highlights the existence and encouragement of student literary activities in colonial Korea, reveals the geographical reach of the magazine's contributors (including Manchuria and potentially students associated with Japanese institutions), and hints at potential editorial constraints or censorship, common during the period, masked by the phrase "unavoidable circumstances."
+
+**Named Entities**
+
+박로홍	박로홍	Pak Rohong
+早稻田중학	조도전중학	Waseda Middle School
+校外生	교외생	Extramural Student
+金聖道	김성도	Kim Sŏngdo
+敞新학교	창신학교	Ch'angsin School
+金窓軾	김창식	Kim Ch'angsik
+平壤崇中	평양숭중	P'yŏngyang Sungjung (Likely P'yŏngyang Sungsil Middle School)
+鴨綠江	압록강	Amnokkang (Yalu River)
+黃聖秀	황성수	Hwang Sŏngsu
+撫順중학	무순중학	Fushun Middle School
+
+**Glossary**
+
+謝告	사고	Apology notice
+학생文壇	학생 문단	Student literary circle/section
+成績	성적	Results, performance, record
+분발하야	분발하여	Striving harder, exerting oneself (older spelling/form of 하여)
+力作	역작	Work of great effort, masterpiece
+投稿하시오	투고하시오	Submit (your work) (imperative form, 하시오 is a formal command)
+左記	좌기	The following (items listed below/to the left)
+萬부득이한	만부득이한	Absolutely unavoidable, inevitable
+揭載치	게재치	Not publish (Contraction of 게재하지)
+죽엄	죽음	Death (older spelling)
+校外生	교외생	Extramural student, non-matriculated student
+나래	날개	Wing (poetic or older form)
+傷한	상한	Wounded, injured (Hanja 傷 + 하다 verb ending)
+물껼	물결	Wave (older spelling)
+나오서요	나오세요	Please come out (older spelling/dialectal form of 나오세요)
+
+
+---------------------------
+
+
+잡지명	동광 제35호
+발행일	1932년 07월 03일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+학생文壇은 成績이 좋지 못합니다. 더욱 분발하야 力作을 投稿하시오. 左記 記事는 우리의 萬부득이한 사정으로 揭載치 못하옵니다.
+短文 고양의 죽엄... 早稻田중학 校外生... 박로홍
+詩 나래 傷한 몸... 敞新학교... 金聖道
+詩 鴨綠江의 물껼... 平壤崇中... 金窓軾
+詩 아버지 어서 나오서요... 撫順중학... 黃聖秀＜63＞

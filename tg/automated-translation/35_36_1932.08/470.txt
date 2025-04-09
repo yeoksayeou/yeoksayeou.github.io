@@ -1,0 +1,65 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 至急電報 (Urgent Telegram)
+Article Type: 잡저 (Miscellaneous writing/column)
+
+(Regarding Type 6 font size, due to font limitations, the old orthography is used)
+
+To Learn Children's Song Notation
+"Question" I wish to learn children's song notation (童謠音譜), please provide a simple explanation. Of course, I am a complete beginner (純初學).
+"Answer" Whether it's children's songs or general songs, if you are learning for the very first time, you must first learn how to read sheet music (악보). To read sheet music even somewhat accurately, you need to learn with some kind of musical instrument. Get a specific instrument, learn to read sheet music using that instrument, and while doing so, it seems good to start with children's songs as well. Instruments have corresponding instruction manuals (敎則本). (Hong Chongin (洪鍾仁))
+
+Regarding the Literature Page
+"Question" Mr. Chu (朱先生)! Please sacrifice a bit more for the readers regarding the literature pages (문예 페지) of Tonggwang (東光) and Sin Tong-a (新東亞). If readers also have the right to be writers (집필자), why is the discriminatory treatment (차별대우) so severe? (An apprentice/student (一弟子) from P'yŏngyang (平壤))
+"Answer" Tonggwang and Sin Tong-a are different magazines. I am only involved with "Tonggwang." Regarding the reader literature section (독자 문예란) of "Tonggwang," I will consider it appropriately (고려하겟습니다). (Chu Yohan (주요한))<106>
+
+**Summary**
+
+This article features two Q&A segments from the reader mail section "Urgent Telegram." The first asks how a beginner can learn children's song notation, and Hong Chongin advises learning basic music reading with an instrument first. The second is a complaint from a reader in P'yŏngyang directed at Chu Yohan, asking for fairer treatment of reader submissions in the literature sections of *Tonggwang* and *Sin Tong-a*. Chu Yohan clarifies he only works for *Tonggwang* and promises to consider the matter for that magazine's reader literature section. From a historical perspective, the article reveals interest among Koreans in Western musical notation for children's songs during the colonial period, and it highlights the active engagement between readers and prominent intellectual editors like Chu Yohan, including reader demands for greater participation and fairer treatment in literary outlets.
+
+**Named Entities**
+
+洪鍾仁	홍종인	Hong Chongin
+朱	주	Chu
+東光	동광	Tonggwang
+新東亞	신동아	Sin Tong-a
+平壤	평양	P'yŏngyang
+주요한	주요한	Chu Yohan
+
+**Glossary**
+
+童謠	동요	Children's song
+音譜	음보	Musical notation, score (often simplified for specific contexts like children's songs here)
+純初學	순초학	Complete beginner
+악보	악보	Sheet music
+악기	악기	Musical instrument
+敎則本	교칙본	Instruction manual, textbook
+잇습니다	있습니다	There is / It exists (Older spelling of 있습니다)
+의하야	의하여	By means of, according to (Older spelling/form of 의하여)
+문예	문예	Literature and arts
+페지	페이지	Page (Loanword, older spelling/transcription)
+독자	독자	Reader
+집필자	집필자	Writer, author
+웨	왜	Why (Older spelling of 왜)
+차별대우	차별대우	Discriminatory treatment
+고려하겟습니다	고려하겠습니다	I will consider it (Older spelling of 고려하겠습니다)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	至急電報
+기사형태	잡저
+
+至急電報
+(6호 활자는 활자관계상 舊철자법에 의함)
+
+童謠音譜를 배울려면
+「問」  소생이 동요 음보를 배우려고 하는데 간단히 알려주십시오. 물론 純初學입니다.
+「答」  동요던지 일반 가요던지 아주 처음으로 배우시려면 우선 악보를 읽는 법을 배워야 합니다. 악보를 다소라도 정확히 읽을려면 어떤 악기고 악기를 가지고 배워야 합니다. 일정한 악기를 가지고, 그 악기에 의하야 악보를 읽도록 하시고 그러하면서 동요도 시작해 보시는 것이 좋을 것 같습니다. 악기에는 그것에 따르는 敎則本이 잇습니다.(洪鍾仁)
+
+문예 페지에 대하야
+「問」  朱선생님! 東光과 新東亞의 문예 페지를 독자를 위하야 좀 더 희생하여 주십시오. 독자인 동시에 집필자가될 권리가 잇다면 웨 그러케 차별대우가 심합니까.(平壤 一제자)
+「答」  東光과 新東亞는 다른 잡지오. 나는 「東光」에만 관계합니다. 「東光」의 독자 문예란에 대해서는 적당히 고려하겟습니다.(주요한)＜106＞

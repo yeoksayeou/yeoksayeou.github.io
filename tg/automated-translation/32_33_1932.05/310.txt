@@ -1,0 +1,93 @@
+**Header Section**
+Magazine Title: 동광 제33호
+Publication Date: 1932년 05월 01일
+Article Title: 한글의 緊急問題인 持格·促音字硏究 (A Study on the Urgent Hangeul Problems of the Genitive Marker and Tense Sound Characters)
+Author: 鄭賢奎 (Chŏng Hyŏn-gyu)
+Article Type: 논설 (Editorial/Opinion Piece)
+
+**Body Text Translation**
+<28>
+A Study on the Urgent Hangeul Problems of the Genitive Marker and Tense Sound Characters
+Chŏng Hyŏn-gyu
+
+(1) Introduction
+
+Languages evolve and change with the times. Along with this, the writing system, which is the vessel for the language, must also inevitably change. Our Joseon language (朝鮮語) and Hangeul (한글) are no exception to this principle.
+
+Looking back at the history of the changes in our Hangeul orthography, from the time King Sejong promulgated the *Hunminjeongeum* (訓民正音) until today, countless changes have occurred. Especially in recent times, various orthographies have emerged haphazardly, lacking unity. This has caused considerable inconvenience not only in general societal communication but also significantly in educational settings. Recognizing this, the Joseon Language Research Society (朝鮮語研究會) and other predecessors have dedicated great effort, culminating in the promulgation of the "Unified Hangeul Orthography Proposal" (한글 마춤법 통일안) by the Joseon Language Society (朝鮮語學會) on December 13th last year. This is indeed a joyous event for the future of Hangeul.
+
+However, regarding this unified proposal, although I acknowledge the Society's efforts and generally agree with the proposal, I find two points that are difficult to readily accept. These are the issues concerning the *chigyŏk* (持格 - genitive marker 'ㅅ') and the *ch'ogŭmcha* (促音字 - tense sound character). Since these are urgent problems that demand swift resolution for the future of Hangeul, I wish to express my humble opinion and seek the critique of knowledgeable individuals.
+
+(2) The Issue of the Genitive Marker 'ㅅ' (持格 ㅅ字 問題)
+
+The unified proposal completely abolishes the genitive marker 'ㅅ' (사이ㅅ). Regarding this, the Society's explanation states: "The genitive marker 'ㅅ' does not represent a specific sound but indicates the genitive relationship between two nouns or indicates that the following sound should be tensed. However, this function is not consistent, its usage is extremely complex and irregular, making it difficult to grasp. Moreover, in pronunciation, it is often omitted. Therefore, we abolish it entirely." This is the gist of their reasoning.
+
+Indeed, the usage of the genitive 'ㅅ' is complex and irregular, lacking consistency. However, completely abolishing it based solely on this complexity seems problematic. Language arises from societal necessity and convention. Arbitrarily abolishing something that exists within the language based on complexity is unacceptable. If complexity necessitates abolition, then should we also abolish irregular verbs or complex sentence structures? The complexity of the genitive 'ㅅ' usage stems from the complexity inherent in the language phenomenon itself. Therefore, we should strive to research and systematize its rules rather than abolish it simply because it is complex.
+
+Furthermore, the claim that the genitive 'ㅅ' is often omitted in pronunciation is questionable. For example, consider "나무ㅅ잎" (tree leaf), "바다ㅅ가" (seaside), "아래ㅅ집" (house below), "뒤ㅅ산" (mountain behind), "고기ㅅ국" (fish soup), "나라ㅅ일" (national affairs), etc. In these cases, the 'ㅅ' clearly functions to indicate either a genitive relationship or the tensing of the following sound. Pronouncing these without the tensing effect (i.e., as 나무잎, 바다개, 아래집, 뒤산, 고기국, 나라일) sounds unnatural and deviates from standard pronunciation. Therefore, the genitive 'ㅅ' undeniably reflects an actual phonetic phenomenon in our language.
+
+While the argument that the genitive 'ㅅ' does not represent a specific, independent sound value might be partially true from a purely phonetic standpoint, its function within the orthography to signal either a genitive relationship or consonant tensing is crucial for accurately representing the spoken language. Its abolition would lead to a discrepancy between the written form and actual pronunciation, potentially causing confusion.
+
+<29>
+Therefore, abolishing the genitive 'ㅅ' based on its complexity or alleged phonetic insignificance seems inappropriate. Instead, we should endeavor to clarify its usage rules through further research. Perhaps limiting its application to cases where consonant tensing occurs in the following syllable could be a viable compromise.
+
+(3) The Issue of the Tense Sound Character (促音字 問題)
+
+The unified proposal also omits any specific provision for a *ch'ogŭmcha* (促音字), a character representing tense sounds or gemination, similar to the Japanese small 'ッ' (sokuon). The rationale appears to be that existing consonant clusters or doubled consonants (like ㄲ, ㄸ, ㅃ, ㅆ, ㅉ) suffice, or that such sounds are not prevalent enough or systematic enough in Korean to warrant a dedicated symbol.
+
+However, I believe this overlooks certain phonetic realities in Korean. Consider words borrowed from Japanese or other foreign languages, or onomatopoeic/mimetic words. For instance, how should we accurately transcribe words like "깜짝" (kkamjjak - startled), "똑똑" (ttokttok - tapping sound), "싹둑" (ssakduk - snipping sound), or borrowed terms that might involve a similar phonetic effect? While doubled consonants cover many cases, there might be nuances or specific instances, particularly in loanwords or expressive language, where a dedicated tense sound marker could improve phonetic accuracy.
+
+Moreover, the phenomenon of consonant tensing occurs predictably in certain grammatical contexts, such as after certain verb endings or in compound words (related to the genitive 'ㅅ' issue discussed above). While the unified proposal addresses some of these through rules for consonant doubling, a dedicated symbol might offer a more consistent and visually distinct way to represent this phonetic modification.
+
+The lack of a *ch'ogŭmcha* forces reliance on existing doubled consonants or context-dependent pronunciation rules. While functional, this might not capture all nuances and could pose challenges in accurately representing loanwords or specific expressive sounds. Introducing a dedicated symbol, perhaps adapting an existing Hangeul letter or creating a new diacritic, could enhance the phonetic precision of Hangeul. Its form and usage rules would need careful deliberation, but the possibility should not be dismissed outright.
+
+(4) Conclusion
+
+The "Unified Hangeul Orthography Proposal" is a significant achievement, born from extensive effort and deliberation. However, the complete abolition of the genitive 'ㅅ' and the lack of provision for a tense sound character (*ch'ogŭmcha*) warrant reconsideration. The genitive 'ㅅ', despite its complexity, reflects actual phonetic phenomena (tensing) and grammatical relationships in Korean. Its removal may create a divergence between written and spoken forms. Similarly, while doubled consonants handle many tense sounds, a dedicated *ch'ogŭmcha* could offer greater precision, especially for loanwords and expressive language.
+
+These are not minor points but issues central to Hangeul's ability to accurately represent the Korean language. I urge the Joseon Language Society and other scholars to engage in further research and discussion on these "urgent problems." Finding a more nuanced solution, perhaps through refined usage rules for 'ㅅ' and careful consideration of a *ch'ogŭmcha*, would further strengthen the unified orthography and benefit the future development of Hangeul. We must strive for an orthography that is both systematic and faithful to the living language.
+
+**Summary**
+
+Chŏng Hyŏn-gyu critiques two aspects of the 1931 "Unified Hangeul Orthography Proposal" by the Joseon Language Society: the abolition of the genitive marker 'ㅅ' (sai siot) and the absence of a dedicated symbol for tense sounds (ch'ogŭmcha). He argues that the genitive 'ㅅ', despite its inconsistent usage, represents real phonetic tensing in compound words and shouldn't be abolished solely for complexity. He also suggests that a dedicated tense sound character might be needed for phonetic accuracy, especially for loanwords and onomatopoeia, beyond what existing doubled consonants cover. He calls for further research and reconsideration of these points for a more accurate Hangeul orthography.
+
+From a historical perspective, this article illuminates the active debates surrounding Korean language standardization during the Japanese colonial period. It shows Korean intellectuals engaging deeply with linguistic details and orthographic principles, asserting the need for Hangeul to accurately reflect spoken Korean realities, even while under colonial rule. Historians might find it interesting as evidence of linguistic nationalism and the specific technical linguistic challenges faced (and debated) in modernizing the Korean writing system amidst external political pressures. The reference to Japanese orthography (sokuon) also hints at the comparative linguistic context of the time.
+
+**Named Entities**
+鄭賢奎\t정현규\tChŏng Hyŏn-gyu
+朝鮮語研究會\t조선어 연구회\tJoseon Language Research Society
+朝鮮語學會\t조선어 학회\tJoseon Language Society
+朝鮮語\t조선어\tJoseon language (Korean)
+
+**Glossary**
+緊急問題\t긴급 문제\tUrgent problem/issue
+持格\t지격\tGenitive case/marker; refers specifically to the function of 'ㅅ' (sai siot)
+促音字\t촉음자\tTense sound character; analogous to Japanese sokuon (ッ), referring to a symbol for glottalized/tense sounds or gemination.
+논설\t논설\tEditorial, opinion piece, discourse
+한글 마춤법 통일안\t한글 맞춤법 통일안\tUnified Hangeul Orthography Proposal (Note: 마춤법 is an older spelling of 맞춤법)
+訓民正音\t훈민정음\tHunminjeongeum (Original name for the Hangeul script)
+사이ㅅ\t사이시옷\t'Sai siot' (ㅅ inserted between nouns or noun elements, often indicating possession or causing tensing of the following consonant; the 'genitive marker ㅅ' discussed)
+나무ㅅ잎\t나뭇잎\tTree leaf (Example showing sai siot; modern spelling 나뭇잎)
+바다ㅅ가\t바닷가\tSeaside (Example showing sai siot; modern spelling 바닷가)
+아래ㅅ집\t아랫집\tHouse below (Example showing sai siot; modern spelling 아랫집)
+뒤ㅅ산\t뒷산\tMountain behind (Example showing sai siot; modern spelling 뒷산)
+고기ㅅ국\t고깃국\tFish soup (Example showing sai siot; modern spelling 고깃국)
+나라ㅅ일\t나랏일\tNational affairs (Example showing sai siot; modern spelling 나랏일)
+까닭\t까닭\tReason, cause
+字\t자\tCharacter, letter
+問題\t문제\tProblem, issue
+等\t등\tEtc., and so on
+
+
+---------------------------
+
+
+잡지명	동광 제33호
+발행일	1932년 05월 01일
+기사제목	한글의 緊急問題인 持格·促音字硏究
+필자	鄭賢奎
+기사형태	논설
+
+한글의 緊急問題인 持格·促音字硏究
+						鄭賢奎
+본문 이미지

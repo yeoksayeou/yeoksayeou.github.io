@@ -1,0 +1,190 @@
+Magazine Title: 동광 제27호
+Publication Date: 1931 November 10
+Article Title: 勞働者의 收支 (Income and Expenditure of Laborers)
+Author: Not specified
+Article Type: 논설 (Editorial/Article)
+
+Income and Expenditure of Laborers (勞働者收支)
+
+How can one clearly understand the income and expenditure situation of laborers? This is no easy task. Firstly, there should be no omissions regarding types of occupations. Secondly, the number of people surveyed should be at least about one-tenth of the total number of laborers. Thirdly, the survey period must not only cover the four seasons but also extend until average figures for various statistical years, including years of good harvest, prosperity, and depression, can be obtained. However, we have not yet discovered survey statistics obtained under such rational conditions. Therefore, let us first examine a glimpse of the situation based on the investigation conducted by the Railway Business Related Investigation Committee in July of Shōwa 3 (1928), although it is insufficient.
+
+This investigation selected 38 types of occupations and surveyed the personal income and expenditure of 426 Koreans, 123 Japanese, and 64 Chinese, totaling 613 individuals. Compiling a table with average figures by occupation type and ethnicity yields the following: <29>
+
+Daily Income and Expenditure of Laborers by Ethnicity
+
+Net Income △ Korean 1.788 [Won/Yen assumed]
+△ Japanese 1.437
+△ Chinese 1.109
+
+(Remarks)
+△ Readers are particularly advised to note that the average labor wage figure in the total of this table is not the average labor wage received by an individual laborer, but the average wage figure for each type of labor. In other words, the average figure in the total of this table is the Ethnic Group Specific Occupation Relative Average Wage / Number of Ethnic Group Specific Occupations, and not the Total Labor Wage for Each Ethnic Group in All Korea divided by the Total Number of Laborers for Each Ethnic Group in All Korea. Therefore, it is not the actual distributed amount per laborer. Consequently, the actual average wage for Korean laborers, the vast majority of whom are low-wage laborers, is significantly lower than the average wage in the statistics of this table.
+△ "Sentiments about Organizations" (團体所感) refers to a survey of the laborers' own feelings about 'Trade Associations and Other Organizations' (同業組合과 其他 團体), divided into two categories: Hopeful and Indifferent.
+△ Average daily actual income is the remaining amount after deducting daily living expenses from the daily wage.
+△ Calculated based on figures from the Railway Business Related Investigation Committee, Part 4, Survey of September, Shōwa 3 (1928).
+
+According to the above, the average daily wage for each of the 38 occupations for Korean laborers is 2 Won 2 Chŏn 3 Rin, ranking second among the ethnic groups. However, the percentage of consumption relative to the daily wage is:
+--------- Wage / Consumption
+
+Korean Laborer / 100 / 61%
+Japanese Laborer / 100 / 55%
+Chinese Laborer / 100 / 43%
+
+As shown, because they rank highest [in consumption percentage], we can find that their actual amount [saved] is 22 Chŏn 1 Rin less even than Chinese laborers whose wages are lower.
+
+One interesting point drawn from the table above is the investigation into what kind of sentiments laborers themselves hold towards organizations like trade associations. According to the table, the vast majority of laborers hope for such trade organizations. Among them, it is particularly interesting that Korean and Chinese laborers, whose labor conditions are relatively poorer, hope for them even more. Out of the 613 people surveyed, 444 were those who hoped for or approved of such organizations. The remaining 153 were indifferent, but considering that there was not a single objector, even among Japanese laborers (Note), what else could this be but a clear statement of the overall anxiety of the laboring class within Korea?
+(Note) The original Railway Business Related Investigation report divided responses into Hopeful, Neutral (평범), and Indifferent, but for convenience, I have combined Neutral into the Indifferent category, resulting in two categories: Hopeful and Indifferent.
+
+Thus far, we have compared the daily income and expenditure of laborers by ethnicity. However, because this sought the net income based on the occupational average of wages received and daily consumption, without accounting for days of unemployment, there is a significant difference from the actual monthly income of laborers. Therefore, we must now examine their total monthly income and expenditure.
+
+Monthly Income and Expenditure of Laborers <31>
+
+(Table omitted - by Ku K'ŭk-p'yŏn [National Institute of Korean History])
+
+Because wages for unemployed days are deducted from the monthly income and expenditure of laborers, we find that their actual income is not 30 times the daily actual income, but considerably lower.
+
+The average monthly actual income by occupation type for Korean laborers is 11 Wŏn 57 Chŏn 8 Rin, which is 11 Wŏn 35 Chŏn 1 Rin less than the Japanese figure of 22 Wŏn 92 Chŏn 9 Rin, and 13 Wŏn 31 Chŏn 7 Rin less than the Chinese figure of 24 Wŏn 89 Chŏn 5 Rin. Thus, it is natural that the misery of Korean laborers is more than double that of other laborers. Although Korean laborers' wages may be comparable to those of Chinese laborers, they cannot avoid having the smallest actual income because their unemployment rate is the highest among all laborers within Korea. If this were calculated not by occupational average but, as mentioned above, by subtracting total consumption from total wages and then dividing by the total number of laborers, it is doubtful that the average monthly net income of a single Korean laborer would not be 'minus' (마이너쓰). To give one example, among the 'Ordinary Laborers' (普通人夫), who constitute the largest group among Korean occupations, an investigation of the monthly net income of 104 individuals found that 71 had an average income deficit of 4 Wŏn 77 Chŏn 9 Rin, while only 33 had an average surplus of 3 Wŏn 1 Chŏn 4 Rin, resulting in an overall average income deficit of 2 Wŏn 30 Chŏn 6 Rin per person. (Calculated based on the Railway Business Related Investigation). Therefore, even if the 'plus' (풀너쓰) net income of skilled laborers (熟鍊勞働者) is added to this, because they are a small number (小數), it is clear that the overall net income will be significantly lower than the net income based on the occupational average mentioned above. <32>
+<29-32>
+
+**Summary**
+
+This 1931 article analyzes the income and expenditure of Korean, Japanese, and Chinese laborers in colonial Korea, based on a 1928 railway worker survey covering 38 occupations. It highlights that while Korean laborers had the second-highest average daily wage (after Japanese, before Chinese), their high consumption rate (61% of wages) and significantly higher unemployment rates resulted in the lowest actual monthly net income, often falling into deficit, especially for ordinary laborers. The article also notes a strong desire among laborers, particularly Koreans and Chinese, for trade organizations, with no surveyed worker opposing the idea. For historians, this article offers valuable quantitative (albeit limited, as the author acknowledges) and qualitative insights into the economic hardships, ethnic disparities in wages and living standards, high unemployment, and emerging labor consciousness among Korean workers under Japanese colonial rule. The explicit mention of calculation methods and data sources (Railway Business Related Investigation Committee) adds to its research value.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+日本人	일본인	Ilbonin (Japanese person)
+中國人	중국인	Chunggugin (Chinese person)
+昭和	쇼와	Shōwa
+鐵道業務關係調査委員會	철도업무관계조사위원회	Ch'ŏlto Ŏmmu Kwangye Chosa Wiwŏnhoe (Railway Business Related Investigation Committee)
+
+**Glossary**
+
+勞働者	노동자	Laborer
+收支	수지	Income and expenditure
+어떠케하면	어떻게 하면	How can one... (older spelling)
+잇을까	있을까	Will there be... (older spelling)
+첫재	첫째	Firstly (older spelling)
+둘재	둘째	Secondly (older spelling)
+셋재	셋째	Thirdly (older spelling)
+遺漏	유루	Omission
+업종별	업종별	By type of occupation
+10분지 1	10분의 1	One-tenth (older phrasing)
+4계	사계	Four seasons
+平均數字	평균 숫자	Average figure
+나어가지	나아가지	Proceed, advance (older spelling)
+아즉	아직	Yet, still (older spelling)
+위선	우선	First of all, for now
+一斑	일반	Glimpse, part
+들추어	들추어	To look into, reveal
+實得	실득	Actual gain, net income
+備考	비고	Remarks, notes
+勞働賃	노동임	Labor wage
+一個人	일개인	One individual
+독자	독자	Reader
+總計	총계	Total sum
+相對的	상대적	Relative
+全朝鮮	전조선	All of Korea (Chosŏn)
+總額	총액	Total amount
+總數	총수	Total number
+제한 것	제한 것	Divided by (older usage for 나눈 것)
+實際	실제	Actual, real
+分配額	분배액	Distributed amount
+低賃勞働者	저임 노동자	Low-wage laborer
+최대다수	최대다수	Largest majority
+훨신	훨씬	Much, far (older spelling)
+저하된다	저하된다	Becomes lower, decreases
+團体所感	단체 소감	Sentiments about organizations
+同業組合	동업 조합	Trade association, guild
+其他	기타	Other
+노나	나누어	Dividing (older form of 나누어)
+生活費	생활비	Living expenses
+공제한	공제한	Deducted
+잔액임	잔액임	Is the remaining balance
+採算함	채산함	Calculated (older grammatical ending)
+每業	매업	Each occupation
+厘	리	Rin (monetary unit, 1/1000 Won/Yen)
+百分比	백분비	Percentage
+低廉한	저렴한	Inexpensive, low (price/wage)
+실액	실액	Actual amount
+동업자	동업자	Person in the same trade
+단체	단체	Organization, group
+감상	감상	Sentiment, feeling
+最多數	최다수	Largest number, majority
+其餘	기여	The rest, remainder
+무관심자	무관심자	Indifferent person
+반대자	반대자	Opponent, objector
+不安	불안	Anxiety, unrest
+여실히	여실히	Clearly, vividly
+평범	평범	Neutral, ordinary (used here for survey response)
+부류	부류	Category, class
+失業日數	실업 일수	Number of unemployment days
+치지않고	치지 않고	Without counting/considering
+찾고저	찾고자	In order to find (older spelling)
+개월간	개월간	For the duration of months
+살펴 보아야 하겟다	살펴 보아야 하겠다	Must examine (older spelling/form)
+떠러저	떨어져	Falling, dropping (older spelling)
+비참한	비참한	Miserable, wretched
+比眉할만하다	비미할 만하다	Be comparable to (archaic/rare term)
+실업률	실업률	Unemployment rate
+소액	소액	Small amount
+면치 못하엿다	면치 못하였다	Could not avoid (older spelling)
+減한 뒤	감한 뒤	After subtracting
+除하여	제하여	By dividing
+마이너쓰	마이너스	Minus (loanword, older transcription)
+一例	일례	One example
+普通人夫	보통 인부	Ordinary laborer
+수입부족	수입 부족	Income deficit
+剩餘	잉여	Surplus
+통트러	통틀어	Altogether, in total (older spelling)
+告케 되엇다는	고하게 되었다는	Came to report/state (older form)
+熟鍊勞働者	숙련 노동자	Skilled laborer
+풀너쓰	플러스	Plus (loanword, older transcription)
+小數	소수	Small number
+명백하다	명백하다	Is clear, evident
+
+
+---------------------------
+
+
+잡지명	동광 제27호
+발행일	1931년 11월 10일
+기사제목	勞働者의 收支
+기사형태	논설
+
+勞働者의 收支
+勞働者收支
+노동자들의 수지관계를 어떠케하면 밝게 알 수 잇을까. 이것은 여간 어려운 일이 아니다. 첫재 업종별에 잇어서 遺漏됨이 없어야 될 것이요. 둘재 조사인원수가 전 노동자 수의 적어도 10분지 1 가량은 되어야 할 것이며 셋재 조사기간에 잇어서 4계는 물론이요 풍년과 호황 불황 등 제 統計年의 平均數字를 얻게 될데까지 나어가지 않으면 안될 것이다. 그러나 우리는 이같은 합리한 조건하에서 얻은 조사통계는 아즉 발견하지 못한 바이니 불충분하나마 昭和 3년 7월 鐵道業務關係調査委員會에서 조사한 것에 의거하야 위선 그 一斑을 들추어 보기로 하자.
+同調査는 업종으로 38종을 선택하야 朝鮮人 426인, 日本人 123인, 중국인 64인, 합계 613인의 개인의 수지관계를 조사한 것인데 그것을 업종별, 민족별로 平均數字를 얻어 표를 꾸며보면 다음과 같다.＜29＞
+民族別 勞動者의 1日 收支
+
+實得 △朝鮮人 1,788
+△日本人 1,437
+△中國人 1,109
+(備考)
+△본 표˜ 총계 중 勞働賃 平均數字는 一個人 勞働者의 받는 勞働賃平均數字가 아니라 각 勞働의 平均勞賃數字인 것을 독자는 특히 주의하기를 바란다. 다시 말하면 본 표의 總計中 平均數字는 民族別各業種相對的平均勞賃/民族別各業種數 이나 全朝鮮各民族別勞働賃總額에 全朝鮮 各民族別 勞働者 總數를 제한 것이 아님으로 一勞働者의 실제 分配額이 아니다. 따라서 低賃勞働者가 최대다수인 朝鮮勞働者 실제의 平均勞賃은 본 표 통계의 平均勞賃보다 훨신 저하된다.
+△團体所感이ž€ 것은 『同業組合과 其他 團体』에 대한 노동자 자신의 감상을 희망 무관심 등 2종으로 노나 조사한 것이다.
+△1일 평균 실제수입이란 것은 1일 賃金에서 1일 생활비용을 공제한 잔액임.
+△鐵道業務關係調査會 제 4부 昭和 3년 9월 調의 數字에 의하야 採算함
+
+이상에 의하면 朝鮮勞働者 38업종의 每業 1일 평균 勞賃은 2圓2錢3厘로서 민족별로 보아 제 2위를 점하고 잇는 셈이나 그 1일 勞賃에 대한 소비액의 百分比는
+---------  賃金 / 消費
+
+朝鮮勞働者 / 100 / 61%
+
+日本勞働者 / 100 / 55%
+
+中國勞働者 / 100 / 43%
+
+
+이와같이 최고위를 점한 까닭에 賃銀이 일층 低廉한 중국노동자보다도 22錢1厘나 그 실액이 적은 것을 발견할 수 잇다.
+그리고 右表에 한가지 흥미를 끌게하는 것은 노동자 자신이 동업자 단체 등에 어떠한 감상을 가지고 잇는가 하는 것을 조사하여 본 것이니 同表에 의하면 노동자의 最多數가 다 同業者團體를 희망하고 잇는바 그 중에도 특히 노동조건이 비교적 低廉한 朝, 中 노동자가 더욱 많이 그것을 희망하고 잇는 것은 퍽 흥미잇는 일이다. 조사인원 613인 중 444인이 그러한 단체를 희망 찬성하는 者이요. 其餘 153인이 무관심자이나 일본인 노동자에 이르기까지도 一人의 반대자가 없엇든 것을 보면 (註) 朝鮮內 勞動階級 全體의 不安을 여실히 말하는 것이 아니고 무엇일까.
+(註) 鐵道業務關係調査原本에는 희망, 평범, 무관심 세가지로 노낫으나 편의상 나는 희망, 무관심 두 가지로 하야 평범을 무관심의 부류에 집어넣엇다.
+
+우리는 지금까지 勞働者 一日 수지관계를 민족별로 비교하여 보앗으나 그것은 失業日數를 치지않고 그 받는 임금과 一日 消費額의 업종평균으로 그 實得을 찾고저 한 것 임으로 노동자의 일개월간 실제소득과는 많은 차이가 잇게 된 것이니 우리는 이제로부터 그들의 일개월간 총 수지관계를 반드시 한 번 살펴 보아야 하겟다.
+
+勞働者의 一個月收支＜31＞
+
+(표 생략 - 국편)
+勞働者의 一個月 收支는 失業日의 賃金이 공제되어잇는 까닭에 그 實際所得額은 一日實際所得額의 30배가 아니며 그보다 훨신 떠러저 잇는 것을 발견한다.
+朝鮮 勞働者의 月業種別平均實際收入은 11圓57錢8厘로서 日本人 22圓92錢9厘보다 11圓35錢1厘가 적으며 中國人 24圓89錢5厘보다는 13圓31錢7厘가 떠러지는 셈이니 朝鮮人 勞働者의 비참한 것도 다른 노동자보다 배 이상에 달할 것은 물론이다. 조선 노동자는 賃銀에 잇어서 비록 中國勞働者와 比眉할만하다 하지마는 朝鮮內 다른 어느 노동자보다도 실업률이 가장 높음을 따라 그 실제소득은 가장 소액임을 면치 못하엿다. 만일 이것을 업종평균으로 따지지 않고 상술한 바와 같이 賃銀總額에 消費總額을 減한 뒤 勞働者 總數로 除하여 본다면 朝鮮勞働者 1인의 月平均實得은 『마이너쓰』 안될 것이 의문이다. 그 一例를 들자면 조선 勞働者 業種중 최다수를 점한 『普通人夫』 중 그 104인의 一個月實得 調査에 71인이 평균 4圓77錢9厘의 수입부족이요 겨우 33인이 평균 3圓1錢4厘의 剩餘가 잇을뿐으로 통트러 一人 평균 2圓30錢6厘의 수입부족을 告케 되엇다는 것이다. (鐵道業務關係調査에 의하야 採算함) 그런즉 거기다가 비록 熟鍊勞働者의 『풀너쓰』 實得을 加한다 할지라도 그것이 小數이기 때문에 全體로 보아 그 實得이 상술한 업종별 평균의 實得보다는 무척 低下될 것이 명백하다.＜32＞
+＜29-32＞

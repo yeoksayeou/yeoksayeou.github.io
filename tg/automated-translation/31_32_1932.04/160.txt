@@ -1,0 +1,576 @@
+Magazine Title: 동광 제32호
+Publication Date: 1932년 04월 01일 (April 1, 1932)
+Article Title: 한글綴字에 대한 新異論 檢討 (Review of New Dissenting Opinions on Hangul Orthography)
+Article Type: 논설 (Editorial/Article)
+
+Review of New Dissenting Opinions on Hangul Orthography
+
+Korean language grammar is not yet unified, so dissenting opinions regarding Hangul expression are rampant, and the path to unification is unknown. This is an unavoidable phenomenon in the process of unification, but we must continue our utmost efforts towards this resolution through sincere research based on practical reality. We now present two or three central issues among the dissenting opinions regarding Hangul and seek the strict opinions of esteemed scholars in this field, hoping this will serve as a starting point to promote the Hangul unification movement.
+
+1.  The theory that conjunct writing like ㄲ, ㄸ, ㅃ, ㅉ is unacceptable, and it is acceptable to use the tense 's' (된시옷) formalized as a symbol.
+2.  The opinion that 'ㅎ' cannot be used as a final consonant (받침).
+3.  The opinion that '먹' (食) and '믿' (信) should not be considered the roots (語根), but rather '머그' and '미드' should be considered the roots, with '먹, 머거' and '믿, 미더' regarded as their variations.
+4.  Other opinions.
+
+Regarding the above, we sought strict critiques from Messrs. Pak Sŭngbin, Kim Yunkyŏng, Yi Sangch'un, Paek Namgyu, Yi Kŭngno, Ch'oe Hyŏnbae, Cho Yunjŏ, Kim Chaech'ŏl, Yi Kyubang, Sin Myŏnggyun, Kwŏn Tŏkkyu, Kim T'aejun, Yi Yunjae, and Yi Hŭisŭng (no particular order), but we will only publish the responses received here. Although we could not seek critiques from all seniors and esteemed scholars in the field individually, we earnestly hope that they will contribute many opinions and critiques regarding Hangul in the future. Manuscripts are presented in order of arrival.<54>
+
+Why Make an Issue of What's Already Common Sense?
+Kim Yunkyŏng
+
+The editor speaks as if a significant new issue has been raised, stating, "Dissenting opinions like those noted separately are emerging in the Hangul research community..." However, the ideas that '먹' and '믿' should not be the roots, but '머그' and '미드' should be; that the 'tense s' (된시옷) should be used; and that the 'ㅎ' final consonant is unacceptable, are things Mr. Pak Sŭngbin has uniquely advocated for a long time. Recently, as he has advocated and promoted these ideas even more zealously, even establishing a separate research society despite the Chosŏnŏ Hakhoe (朝鮮語學會) already existing as a Hangul research institution with a history of over ten years, these ideas have merely become known to the general public. Therefore, I think it is neither a particularly new issue nor a particularly important one.
+
+As the writer is currently ill, it is difficult to write down detailed theories, but the reasons why ㄲ, ㄸ, ㅃ, ㅉ cannot be replaced by the 'tense s' are: even if the tense 's' (된시옷) 'ㅅ' is formalized as a symbol, its very name includes 'ㅅ', making it easy to mistake it for a phonetic character; ㄲ, ㄸ, etc., are historical notations; and they accord with phonetic principles. Also, regarding the claim that 'ㅎ' cannot be used as a final consonant, there is a self-contradiction: acknowledging final consonants like ㅊ, ㅌ, ㅋ, ㅍ while denying the 'ㅎ' final consonant is a contradiction like eating rice while denying the existence of rice grains. Furthermore, more than anything, I believe that to deny the 'ㅎ' final consonant, one must first eradicate all uses of the 'ㅎ' final sound (終聲) from our daily conversation. The argument that '머그' and '미드' should be the roots for '먹' and '믿', with '머거' and '미더' as their conjugations, stems from the idea of forcibly fitting Korean language rules into the Japanese grammar's conjugation system (段活用法). However, science (whether natural or normative) is about discovering naturally hidden laws, not creating them, and the scientist's duty is discovery, not creation. Korean language must always be respectfully recognized as its own entity, and the natural characteristics and unique features it possesses must be discovered. Therefore, trying to force the existence of Japanese-style conjugations, which are absent in Korean, is unreasonable. If '머그' and '미드' were the roots, then at least one person in a thousand, or one in ten thousand, should pronounce words as '머그다', '머그고', '머그다가', '미드다', '미드고', '미드다가'. But since not a single person ever uses them this way, how can these be called the roots? When asked about this, the proponent's answer typically involves citing instances where young children learning to speak might do so, or citing dialects from Pukch'ŏng (北靑), and nothing more. Furthermore, if roots were defined this way, then just as '먹으니' would be written '머그니' and '믿으니' as '미드니',
+'삶으니' would have to be written '사ᇚ으니'
+'넓으니' as '너ᇚ으니'
+'긁으니' as '그ᇰ으니'
+'꺾으니' as '꺼끄니'
+'없으니' as '어으니'
+'훑으니' as '후ᇐ으니'
+'읊으니' as '으ᇡ으니'
+'옳으니' as '옳으니'.
+This is not finding and establishing the inherent laws of the Korean language, but rather destroying laws that are clearly evident.
+
+Now, as my mind is hazy and elaborating further on academic principles already well-known <55> would be excessive rambling beyond common sense, I shall lay down my pen.
+
+Not Worth Listening To
+Yi Kyubang (Posŏng Kobo)
+
+I believe the issues you have inquired about this time are dissenting opinions not particularly worth listening to.
+
+1.  I cannot understand the reason why conjunct writing of ㄲ, ㄸ, ㅃ, ㅉ is deemed unacceptable. It has now become almost popularized and widely used, so it would be good to stop these useless dissenting opinions.
+
+2.  If 'ㅎ' is not used as a final consonant, isn't that denying so-called grammar? For instance, when using similar adjectives,
+    크다, 크고, 크지 (big, big and, big isn't it) and 작다, 작고, 작지 (small, small and, small isn't it)
+    높다, 높고, 높지 (high, high and, high isn't it) and 좁다, 좁고, 좁지 (narrow, narrow and, narrow isn't it)
+    are written this way, but if only the word 「좋다」 (good) is written as
+    조타, 조코, 조치,
+    what kind of contradiction is this?
+
+3.  Our Korean language does not have verb ending conjugations like Japanese. For example, the character 「負」 (carry on back) in Japanese has endings that conjugate as
+    オハ, オヒ, オフ, オヘ (oha, ohi, ofu, ohe).
+    However, in our language, there is always the root (語源) 「업」 (ŏp), and particles (토) are attached below it.
+    Don't we write 업는다 (carry), 업엇다 (carried), 업겟다 (will carry), 업고 (carry and), 업지 (carry not), 업으니 (because carry), 업으면 (if carry), 업어서 (carrying so)?
+    How ridiculous would it be to write these as
+    어브니, 어브면, 어버서?
+    Thinking it correct to write like in the old days when grammar was disregarded, such as
+    (高) 높다, 높고, 노프니 (high, high and, because high)
+    (樹) 남기, 남글 (tree nom., tree acc.)
+    is a big misunderstanding. In any case, insisting on verb ending conjugations just like Japanese and writing
+    먹는다, 먹고, 머그니, 머거서 (eats, eats and, because eats, eating so)
+    can only be called anachronistic nonsense (時代逆行의 語不成說).
+
+Not Even Worth Responding To
+Yi Yunjae
+
+What is this unexpected, useless chatter? Taking something fundamentally unreasonable as a topic and debating this way or that. Although I know it's a common tactic of magazine publishers to fill pages by dragging out pointless facts to attract readers' curiosity, it seems your magazine is also quite short on manuscripts. If Hangul were to be written haphazardly as before, just however it comes out, then it might be different, but if we are to write it correctly with rules and order, things like this shouldn't even be mentioned. Especially today, when no academic argument can be established without logical reasoning based on scientific grounds. Furthermore, at this time when our Hangul is achieving rational organization based on linguistic and grammatical foundations and is about to enter a period of unification, such dissenting opinions cannot exist within the Hangul research community. Even if they do, <56> they would surely be the idiosyncratic assertions of some individuals in a faction, and I believe such dissenting opinions are unlikely to gain traction in society. Therefore, the examples presented here are entirely unworthy of criticism. If the reasons for insisting on writing that way were laid out, I would address them point by point with sharp rebuttals based on accurate academic theory, but what is there to critique in response to such a muddled question? However, since you went to the trouble of asking, it's difficult to completely ignore it, so I will briefly state a few words on why it is unacceptable and stop there. A full theoretical discussion would be very lengthy, but due to space limitations and the lack of need for it here, I will only state the main points briefly.
+
+1.  The conjunct writing method (並書法) aligns with phonetic principles and was already established in King Sejong's Hunminjŏngŭm (訓民正音), so following it is correct. Since 'ㅅ' is one of the basic consonants (닿소리/子音), it is difficult to regard it as a mere symbol (符號). Our language's tense sounds (硬音) are sufficiently represented by conjunct writing; there is absolutely no reason to deliberately use cumbersome symbols. Although Japanese Kana has an example of using the voiced sound mark (濁音符號) 「゛」 commonly for the k, s, t, h rows (ヵサタハ 各 行), given the different nature of the writing systems, insisting on imitating that seems distasteful. (Because there are often those among the proponents of using the tense 's' who argue this way).
+
+2.  If one were to write according to the practice of using only 8 characters for both initial and final sounds (初聲 終聲を通用) as advocated by Ch'oe Sejin (崔世珍), like in recently used writing, it might be different. However, now that all consonants (닿소리/子音) are used as final consonants (받침), what reason is there to specifically exclude only the 'ㅎ' final consonant? For the sake of grammatical organization (語法整理) and representing the customary sounds of Korean (朝鮮語의 習慣音), the use of the 'ㅎ' final consonant will be indispensable. There will be a separate discussion (別論) on this later, so the theoretical details are omitted here.
+
+3.  In ancient orthography (古代綴字), such writing methods sometimes existed. As orthography (綴字法) gradually develops with the progress of time, the distinction between stem (語幹) and ending (語尾) becomes increasingly concrete. Why should we regress and return to ancient orthography instead of developing further? And writing purely phonetically like that would be quite inconvenient to read. Let's write it out and compare:
+    A. 수나마학교에갈시가니느저쓰니소키바블머거라. (Sunama haggyoe gal sigani nŭjŏssŭni sokhi pabŭl mŏgŏra.)
+    B. 그사라믄무어시나소기지아니하니그마를미더라. (Kŭ saramŭn muŏsina sogiji anihani kŭ marŭl midŏra.)
+    a. 수남아 학교에 갈 시간이 늦었으니 속히 밥을 먹어라. (Sunam-a hakkyo-e kal sigan-i nŭjŏssŭni sokhi pap-ŭl mŏgŏra. - Sunam, you're late for school, so eat your meal quickly.)
+    b. 그 사람은 무엇이나 속이지 아니하니 그 말을 믿어라. (Kŭ saram-ŭn muŏt-ina sogiji anihani kŭ mal-ŭl midŏra. - That person doesn't deceive in anything, so believe those words.)
+    Compared to A and B, in a and b above, the concept of individual words (單語의 觀念) is clearly revealed, making them easy to read. All further theoretical arguments are omitted.
+
+Strict Critique at a Later Date
+Yi Kŭngno
+
+This issue cannot be resolved with a few brief words of explanation. A considerably long thesis would need to be written. I will state in advance that a detailed and strict critique will appear soon in the "Hangul" (한글) magazine, and for now, I will just mention here that using 'ㅅ' as a tense sound symbol, claiming 'ㅎ' cannot be used as a final consonant, and viewing '머그' (食) and '미드' (信) as the roots are incorrect.
+
+Grammatically Unreasonable
+Ch'oe Hyŏnbae
+
+1.  It is incorrect to formalize the tense 's' (된시옷) as a symbol and use it as before. Originally, all characters are a type of symbol (符號), so 'ㅅ' is also <57> already a symbol. Proposing to use this again as a different kind of symbol means establishing one character as two types of symbols within a single writing system. In other words, it is duplicating the symbol (符號를 二重化). If symbols are duplicated, various unreasonable harms will arise.
+
+2.  'ㅎ' can also be used as a final consonant (받힘). Those who say it cannot be used seem to have excessively misinterpreted what a final consonant is. Explaining the theory in detail would become lengthy, so I will refrain. However, without using 'ㅎ' as a final consonant, our grammar (우리말본) cannot be explained smoothly (順坦하게).
+
+3.  Viewing '머그' as the root (語根) is a forced fabrication (强作僞造의 說) that completely deviates from the linguistic intuition (語感) of modern Koreans. From our Korean linguistic intuition, it is correct to say that '먹' is the stem (語幹) (calling it a root/語根 is inappropriate) and '먹어, 먹은' are its changed forms (變化한 형식). Of course, how one "regards" (看做) it is each individual's freedom, but I believe personal opinion and academic truth (學術의 眞理) are separate issues.
+
+4.  How can I write about "Other opinions" (其他의 意見) all at once? For now, this is my response.
+    1932. 3. 9
+
+From a Researcher's Stance
+Kim T'aejun
+
+Editor, I will write my impressions of the Korean language research community along with responses to your questions about Hangul.
+
+In the 9th year of Kwangmu (1905, Meiji 38), the New Standard National Script (新訂國文) was promulgated based on a proposal by Chi Sŏgyŏng (池錫永), head of the Medical School (醫學校長). In the 11th year (1907), the National Script Research Institute (國文硏究所) was established, with Chang Hŏnsik (張憲植), Yi Nŭnghwa (李能和), Hyŏn Ŭn (玄檃), Kwŏn Posang (權輔相), Chu Sigyŏng (周時經), Uemura Masami (上村正己), Ŏ Yunjŏk (魚允迪), Yi Ok (李億), Yi Chongil (李鍾一) and others serving as important research members. They conducted substantial research, and it must be lauded that Hangul research, compared to other fields, was the most pioneered, and the achievements of this research were very significant. At a time when everything was in a state of decline, stagnation, and standstill (沒落 沈滯 停頓의 狀態), the fact that only this field showed considerable progress is something to be celebrated for the academic world, and we cannot but be grateful for the efforts of the preceding scholars (先進 諸氏).
+
+Should We Worship Them Like Idols?
+However, I do not wish to worship the preceding scholars like idols (偶像처럼 崇拜). Why? Because they – Messrs. Chi Sŏgyŏng and Chu Sigyŏng – were all people with physical bodies. They were not omniscient and omnipotent gods; they were simply primates, "people" (人格) with souls, who appeared on Earth a little earlier than us and studied Hangul. And they were people in the early stages of Hangul research – in other words, in the first stage of development (第1期的 發展過程) of Korean language research. Therefore, their theories and assertions inevitably contain many errors (誤謬) and contradictions (矛盾), and consequently, I do not wish to blindly follow (盲從) every single word and phrase (片言隻句) spoken by these predecessors. This can be said not only of the theories of Messrs. Chi Sŏgyŏng and Chu Sigyŏng but can be traced back (遡及) to the Hunmongjahoe (訓蒙字會) and Hunminjŏngŭm (訓民正音). <58> The true meaning lies in improving even the Hunminjŏngŭm for use. Furthermore, regarding the theories of modern linguists, while greatly admiring their conviction and passion (熱) to never yield their beliefs (自己所信を屈코저 하지 아니하는 뱃심), one cannot help but deliver a sharp blow (一頭棒を痛打) to the narrow-mindedness (偏狹한 胸襟) and stubborn folly (固陋한 愚擧) of shallow scholars (俗學者) who refuse to yield even an inch on their heterodox theories and distorted arguments (邪說曲論). Even if the theories of Hunminjŏngŭm, Hunmongjahoe, Chu Sigyŏng, and current Hangul researchers were sacred texts (天符玉書), we possess the right (權利) to critique them. It is proper for them too to wisely assess the strengths and weaknesses (長短を料量) of themselves and others, engage in mutual refinement (切磋琢磨), and gradually perfect what is incomplete (未備).
+
+Creating New Words is Meaningless
+When observing our Korean linguistics field as an outsider (門外漢), what is pleasing is the unexpected number of scholars and prominent figures (名士) involved. As a result, grammar books written by Koreans have already reached about 30 types, and linguistic research groups (語學硏究團體) such as
+Sup'yo-dong (水標町) - Chosŏnŏ Hakhoe (朝鮮語學會)
+Kemyŏng Kurakpu (계명구락부) - Chosŏnŏhak Yŏn'guhoe (朝鮮語學硏究會)
+T'aep'yŏng-dong (太平通) - Chosŏnŏ XXXhoe
+Chae-dong (齋洞) - Chosŏnŏ XXhoe
+have emerged. Thus, all have established their banners with considerable aspirations (抱負). However, the world says that only the Chosŏnŏ Hakhoe encompasses the so-called prominent figures and shallow scholars (名士俗學) and has seniority (年歲); the others are just greenhorns (靑二才). But scholarship is scholarship; prominence, shallow learning, and age are not things to boast about. They always call linguistics "malgal" (말갈) and when classifying parts of speech, invariably say imssi (임씨) (noun/名詞), umssi (움씨) (verb/動詞)... ... hol-sori (홀소리) (vowel), tah-sori (닿소리) (consonant), ssikkeutpakkum (씨끝바꿈) (ending change/語尾變化), making it indistinguishable whether it's horse sounds (말소리/馬聲) or chicken sounds (닭소리/鷄聲). They call 'attention' (주의) "chabi" (잡이) and 'notification' (통지) "turual'i" (두루알이). These are the elders who create (創作) new idioms (新熟語). They defend (辯護) their misguided actions by saying, "Hunminjŏngŭm says this," and "Mr. Chu Sigyŏng said that." While full praise and respect (滿腔의 讚辭와 敬意) should be expressed for Mr. Chu's research achievements (研究功績), where is the basis (根據) for believing every word of Mr. Chu as golden rules (金科玉條)? If there can be absolutely no one like Confucius after Confucius – how did Aristotle's (아리스토를) broad scholarship (廣汎한 學問) emerge after Socrates (소크라데쓰)? When we say Noun (名詞) or Verb (動詞), children and youths receiving dual education (二重敎育) (learning Japanese and English before learning Korean grammar) in the future will sufficiently understand what concepts these words represent. Why then create words like "umssi" and "imssi"? They argue (말호되) that Noun (名詞) and Verb (動詞) are not Korean words. Then what country's words are "myŏngsa" (명사=名詞) and "dongsa" (동사=動詞)? Chinese? – No, in Chinese they would be "míngcí" (밍쓰) and "dòngcí" (등쓰). Japanese? – No, they would be "meishi" (메이시) and "dōshi" (도-시). Not only that, but words like umssi, imssi, malgal... are awkward to pronounce (발음이 군색하여), far removed [ꊱ�리 -> 거리?] from currently used Korean words that have reached today through natural selection (自然淘汰), and give an artificial, unnatural feeling (人爲的 不自然한 느낌). (Perhaps this is just my personal subjective feeling/臆感). Thus, I always want to hear the reasons for this "malgal" faction's revival of archaic words (古語復用) and creation of new words (新語創製).
+
+The "White Hair Three Thousand Leagues Long" Style is Also Laughable
+It is refreshing that the Kemyŏng Kurakpu's (啓明俱樂部) Chosŏnŏhak Yŏn'guhoe (朝鮮語學硏究會), which broke away (分家) in decided opposition (斷然 반대) to this, exists. However, the points of difference (異同點) between the Chosŏnŏ Hakhoe and the Chosŏnŏhak Yŏn'guhoe are surely not limited to the point mentioned above, but also include the four opinions widely queried by Tonggwang-sa this time – conjunct writing (幷書), 'ㅎ' final consonant (「ㅎ」바침), whether to regard '먹' and '믿' as roots (「먹」 「믿」의 語根으로서의 看做與否), and the method of classifying parts of speech (品詞分類法). Furthermore, while admiring the scholars' passion (熱誠), there's a feeling that they would have been much more respected (敬仰) without the base tone (卑陋한 口調) of "I have researched for 30 years" or "As a result of my many years of research, I submitted it again to the XXXX staff meeting and got it passed, etc..." If this is the "long-winded speech" (長廣舌) of the "White Hair Three Thousand Leagues Long" (白髮三千丈式) style typical of Oriental studies (東洋學) researchers, then it's not an issue, and making an issue <59> of it might itself invite criticism for being petty (卑陋).
+
+In any case, the Hangul movement, in reality, is about needing to use a unified tool to record our thoughts (思想), making it an urgent task (焦眉의 急務) above all else. Thus, it is a laughable shame (羞耻) that after frogs and snails quarreled (蛙鶔이 相爭) and comrades turned on each other (同志가 相賊), they ended up gathering under someone else's roof (남의 집웅 아레 뫃여서) and only then establishing a revised orthography (改正綴字法) under that political background (政治的 背景).
+
+Therefore, knowing that detailed academic theoretical debates will likely never cease, we must not cling stubbornly to preconceived notions (臆見) indefinitely but must strive to disseminate within a scope appropriate to reality as much as possible. To do this, we seek unification of purpose consciousness (目的意識):
+1.  It must be easy to popularize among the masses (大衆的).
+2.  Although I believe there will be much debate in the future about orthography for horizontal writing (橫書) and Romanization (羅馬字), for now, it must be convenient from various aspects.
+3.  The unique characteristics (特質) of the Korean language and its inherent grammar (固有한 文法) must not be entirely disregarded (全然 무시).
+
+Support for '먹' and '믿'
+Taking the two characters '먹' (食) and '믿' (信) as examples, if one completely denies final consonants (終聲) in Korean, it's a separate issue (別問題). However, just as the old saying goes "Initial sounds reused as final sounds" (初聲復用終聲), initial sounds can generally be used as final sounds. Since the Hunminjŏngŭm also lacks specific explanation about final sounds, we can see that initial sounds can be entirely substituted for final sounds. Moreover, when analyzing the two characters '먹' and '믿' grammatically (文法的으로 解剖) and exploring verb variation and conjugation (動詞의 변화와 활용), they can be explained by the simplest rules, like verbs in other Ural-Altaic languages (우랄 알타이系 語). What reason (那邊) is there to create makeshift terms (姑息的 用語) like "original stage" (原段) '머그, 미드' and "changed stage" (變動段) '머거, 미더', further obscuring (糊塗) and confusing (混亂) this field of study (斯學)? Furthermore, viewing '먹' and '믿' as abbreviated sounds (略音) is not as fitting as considering '먹' and '믿' the roots from the perspective of our pronunciation stages (發音階段). Also, since simpler grammar is convenient for mass education (大衆敎育) or literacy campaigns (文盲啓發), I oppose the creation of "original stage" and "changed stage" – which only complicate (複雜) the grammar – found nowhere else in the world, and side with (右袒) the existing theory (在來學說) for '먹' and '믿'.
+
+Opposition to 'ㅎ' Final Consonant
+Personally, I wish to oppose the use of the 'ㅎ' final consonant (바침). Both ㅇ and ㅎ are guttural sounds (喉音). ㅇ has long ceased to be used as a final consonant. Regarding 'ㅎ', it does not actually appear in pronunciation (實際上 발음하는데 나타나지 아니하니). While retaining the "dead" final consonant 'ㅎ' (죽은 바침) might not be a major error from the perspective of grammatical control's (文法上 統制) rationale (老婆心), considering the benefit of practical usage in living language (活語實用의 便益) and the ongoing development process (發展過程) of language itself, it seems better to omit (略하는 것) the 'ㅎ' final consonant.
+Example:
+그러하게 = 그러케 (그렇게) (like that) 조켓다 (좋겟다) (would be good)
+I believe it would suffice to explain '케' and '켓다' using the formula ㅋ = ㄱ + ㅎ.
+
+Support for ㄲ, ㄸ, ㅃ, ㅉ Conjunct Writing
+In Hunminjŏngŭm, the reading (訓) for the character 用 is written as '' or '쓰'. Also, in various books like Yongbiŏch'ŏn'ga (龍飛御天歌), Wŏrinch'ŏn'gangjigok (月印千江曲), Hunmongjahoe (訓蒙字會), and Tusiónhae (杜詩諺解), characters like '' and '' are used. Since this was still the early period of Hangul systematization (整頓의 初期), it seems things were not yet fixed (일정치 아니한 듯). Whether representing Chinese sounds (漢音) or not, ㄲ, ㄸ, ㅃ, ㅆ, ㆅ, ㅉ represent tense, hard sounds (濃硬한 音) like ㅺ, ㅼ, ㅾ, ㅄ. Therefore, also from a historical perspective (歷史上 意味), I support the conjunct writing (幷書) of 'ㄲ, ㄸ, ㅉ, ㅃ'.<60>
+
+Furthermore, while some argue that using the traditional 된시옷 forms like 'ㅺ, ㄸ, ㅄ, ㅾ' is more popular (大衆的), I think conjunct writing will be better for future educational efficiency (敎育能率). Although it's said that sequences like '악가, 앗가, 압가' (akka, akka, apka) all change to sound like '아' (akka), what reason is there among the many initial consonants to specifically choose 'ㅅ' and formalize it as a symbol to apply to the representation of tense hard sounds? If conjunct forms like ㄸ, ㅃ are inconvenient to write, devising abbreviated characters (略字) like ㄸ, ㅃ, or agreeing on new symbols (新符號) like 「“」 to substitute for the 'tense s' (된시옷) would be a separate issue. Otherwise, formalizing 'ㅅ' as the 'tense s' symbol has no academic meaning (學的 意味) and is also aesthetically displeasing (美的으로도 보이지 않는다). Given the name 'tense s' (된시옷), if forms like ᄸ, ㅼ, ㅄ, ㅾ were used, there is a concern that the 'ㅅ' () could evoke association with the initial 's' sound, leading to confusion like =sk, =st, =sb. I support conjunct writing and resolutely oppose (徹頭徹尾로 斷然 반대) the formalization of 'ㅅ' as the 'tense s' symbol.
+
+Three Hopes
+As I wrote these presumptuous (狂慢) words, the tone strayed completely from the topic. Since we are in a position where we must manage and stand on our own (自營自立), we must firmly cooperate (提携) and support (援助) each other towards a unified goal.
+1.  Researchers should broaden their scholarly minds (學者的 胸襟), establish institutions for supra-factional research (超派的으로 연구하는 機關), and quickly consolidate and unify (集中統一) the theories of all scholars.
+2.  Quickly unify grammar (語法을 통일), aim for mass enlightenment (大衆敎化), and promote the use of the newly revised orthography (新改正綴字法) in dictionary compilation (辭典編纂), media outlets (言論機關), and other publications (出版物).
+3.  Research methods should not lean too heavily towards Japanese or English grammar, nor should they stubbornly (孤陋하게) try to study Korean only within its constant [?] confines (恒席 조선語을 연구하랴고만 하지 말고). Instead, conduct comparative research (比較 硏究) with various world languages.
+
+I fear much criticism (批難) from the esteemed figures (斯界大方) of this field for these very presumptuous (僭越) and reckless (粗妄) words, but criticism from esteemed figures was something I was prepared for (覺悟). If even the single word (一言) of a common man (匹夫) can perhaps provide some impetus (衝動), I would be fortunate (多幸).
+(32. 3. 1)<61>
+
+**Summary**
+
+This 1932 article from *Tonggwang* magazine gathers opinions from prominent Korean linguists on contentious Hangul orthography issues. The main points of debate are: 1) Using doubled consonants (ㄲ, ㄸ, ㅃ, ㅉ) versus the older 'tensifying ㅅ' (된시옷, e.g., ㅺ, ㅼ). 2) Whether the final consonant 'ㅎ' should be allowed. 3) Whether verb stems should be represented as shorter forms ending in consonants (e.g., '먹-', '믿-') or longer forms ending in 'ㅡ' (e.g., '머그-', '미드-'). Most respondents strongly reject the 'tensifying ㅅ', the exclusion of final 'ㅎ' (except Kim T'aejun), and the longer verb stems, defending the positions that largely align with modern standard orthography as being more historically grounded, phonetically accurate, grammatically consistent, and reflective of native speaker intuition, while dismissing the alternatives as artificial, influenced by Japanese grammar, or impractical. Kim T'aejun offers a broader critique, lamenting academic infighting, criticizing the creation of unnatural neologisms, and urging practical unification focused on mass education and linguistic principles without blind adherence to tradition or foreign models.
+
+For historians of colonial Korea, this article is significant as it reveals the intense intellectual ferment and internal conflicts surrounding the standardization of the Korean language during a period of cultural suppression and national identity formation. It highlights the scholars' efforts to establish a rational, scientific basis for Hangul orthography, navigate influences from both traditional Korean linguistics and Japanese/Western models, and overcome factionalism (e.g., the explicit mention of Chosŏnŏ Hakhoe vs. Kemyŏng Kurakpu's group) to achieve a unified national script crucial for education and cultural preservation. Kim T'aejun's critical tone towards established figures and his call for practicality and comparative linguistics offer insight into the generational or methodological tensions within the nascent field of modern Korean linguistics under colonial constraints. The reference to establishing rules under "someone else's roof" hints at the political context influencing linguistic standardization efforts.
+
+**Named Entities**
+
+Original Form	Hangul	English Translation or Romanization
+朴勝彬	박승빈	Pak Sŭngbin
+金允經	김윤경	Kim Yunkyŏng
+李常春	이상춘	Yi Sangch'un
+白南奎	백남규	Paek Namgyu
+李克魯	이극로	Yi Kŭngno
+崔鉉培	최현배	Ch'oe Hyŏnbae
+趙潤濟	조윤제	Cho Yunjŏ
+金在喆	김재철	Kim Chaech'ŏl
+李奎昉	이규방	Yi Kyubang
+申明均	신명균	Sin Myŏnggyun
+權悳奎	권덕규	Kwŏn Tŏkkyu
+金台俊	김태준	Kim T'aejun
+李允宰	이윤재	Yi Yunjae
+李熙昇	이희승	Yi Hŭisŭng
+朝鮮語學會	조선어학회	Chosŏnŏ Hakhoe (Korean Language Society)
+北靑	북청	Pukch'ŏng (Place name)
+普成高普	보성고보	Posŏng Kobo (Posung College/High School)
+世宗	세종	Sejong (King Sejong)
+崔世珍	최세진	Ch'oe Sejin
+池錫永	지석영	Chi Sŏgyŏng
+醫學校	의학교	Ŭihakkyo (Medical School)
+國文硏究所	국문연구소	Kungmun Yŏn'guso (National Script Research Institute)
+張憲植	장헌식	Chang Hŏnsik
+李能和	이능화	Yi Nŭnghwa
+玄檃	현은	Hyŏn Ŭn
+權輔相	권보상	Kwŏn Posang
+周時經	주식영	Chu Sigyŏng
+上村正己	우에무라 마사키	Uemura Masami
+魚允迪	어윤적	Ŏ Yunjŏk
+李億	이억	Yi Ok
+李鍾一	이종일	Yi Chongil
+訓蒙字會	훈몽자회	Hunmongjahoe (Textbook)
+訓民正音	훈민정음	Hunminjŏngŭm (The original Hangul proclamation)
+水標町	수표정	Sup'yo-jŏng / Sup'yo-dong (Place name, likely in Seoul)
+계명구락부	계명구락부	Kemyŏng Kurakpu (Keimyung Club)
+朝鮮語學硏究會	조선어학연구회	Chosŏnŏhak Yŏn'guhoe (Korean Language Research Society)
+太平通	태평통	T'aep'yŏng-tong (Place name, likely in Seoul)
+齋洞	재동	Chae-dong (Place name, likely in Seoul)
+孔子	공자	Confucius
+소크라데쓰	소크라테스	Socrates
+아리스토를	아리스토텔레스	Aristotle
+東光社	동광사	Tonggwang-sa (Publisher of the magazine)
+龍飛御天歌	용비어천가	Yongbiŏch'ŏn'ga (Songs of the Dragons Flying to Heaven)
+月印千江曲	월인천강곡	Wŏrinch'ŏn'gangjigok (Songs of the Moon's Reflection on a Thousand Rivers)
+杜詩諺解	두시언해	Tusiónhae (Vernacular Korean Translation of Du Fu's Poetry)
+
+**Glossary**
+
+Original Word	Standard Hangul	English Definition/Explanation
+綴字	철자	Orthography; spelling (older term)
+異論	이론	Dissenting opinion; different theory
+幷書	병서	Conjunct writing (writing consonants side-by-side, e.g., ㄲ, ㄸ)
+된시옷	된시옷	'Tense s'; refers to the older orthographic practice of using 'ㅅ' before a consonant (e.g., ㅺ, ㅼ) to indicate tensing.
+符號化	부호화	Formalizing as a symbol; symbolization
+바침	받침	Final consonant in a syllable block (older spelling of 받침)
+語根	어근	Root (linguistic term)
+看做	간주	To regard as; consider as
+篤學者	독학자	Esteemed scholar; devoted scholar
+擡頭	대두	To emerge; rise; gain prominence
+主唱	주창	To advocate; champion (an idea)
+音理	음리	Phonetic principles
+否認	부인	Denial; rejection
+終聲	종성	Final sound/consonant in a syllable
+段活用法	단활용법	Graded conjugation method (referring to Japanese verb conjugation patterns)
+個體	개체	Individual entity; individuality
+사투리	사투리	Dialect
+活用	활용	Conjugation; inflection (linguistic term)
+眼中	안중	In one's eyes; consideration (as in 'not consider important')
+語源	어원	Etymology; origin of a word (used here slightly loosely for 'root')
+토	토	Grammatical particle (older/colloquial term, similar to 조사)
+時代逆行	시대 역행	Anachronism; going against the times
+語不成說	어불성설	Nonsense; absurdity; illogical statement
+수작	수작	Chatter; talk (often implies idle or unwelcome talk)
+話題	화제	Topic; subject of discussion
+아여	아예	(Emphatic) At all; altogether; from the outset (older spelling of 아예)
+根據	근거	Basis; grounds; foundation
+立論	입론	To establish an argument; make a case
+言語學的	언어학적	Linguistic
+文法學的	문법학적	Grammatical
+基礎	기초	Foundation; basis
+合理的	합리적	Rational; reasonable
+整理	정리	Organization; arrangement; systematization
+統一期	통일기	Period of unification
+批判	비판	Critique; criticism
+逐條	축조	Article by article; point by point
+痛棒	통봉	Sharp criticism; severe rebuke (lit. painful beating stick)
+要領	요령	Main point; gist; summary
+硬音	경음	Tense sound (like ㄲ, ㄸ, ㅃ, ㅆ, ㅉ)
+子音	자음	Consonant
+濁音符號	탁음 부호	Voiced sound mark (referring to Japanese dakuten゛)
+初聲	초성	Initial sound/consonant in a syllable
+習慣音	습관음	Customary sound; habitual pronunciation
+古代綴字	고대 철자	Ancient orthography
+綴字法	철자법	Orthography; spelling rules
+語幹	어간	Stem (linguistic term)
+語尾	어미	Ending (linguistic term)
+具體化	구체화	Making concrete; embodying
+退化	퇴화	Regression; degeneration
+純表音式	순표음식	Purely phonetic style
+單語	단어	Word; vocabulary item
+觀念	관념	Concept; idea; notion
+또려시	또렷이	Clearly; distinctly (older spelling of 또렷이)
+잡지	잡지	Magazine
+말본	말본	Grammar (native Korean term promoted by Ch'oe Hyŏnbae)
+順坦하게	순탄하게	Smoothly; without difficulty
+强作僞造	강작위조	Forced fabrication; artificial creation
+語感	어감	Linguistic intuition; feel for the language
+형식	형식	Form; format; type
+新訂國文	신정 국문	New Standard National Script (promulgated 1905)
+頒布	반포	Promulgation; official announcement
+開拓	개척	Pioneering; opening up (a field)
+功績	공적	Achievement; contribution; merit
+沒落	몰락	Downfall; ruin; decline
+沈滯	침체	Stagnation; slump
+停頓	정돈	Standstill; deadlock
+狀態	상태	State; condition
+偶像	우상	Idol
+崇拜	숭배	Worship; adoration
+萬善萬能	만선만능	Omnibenevolent and omnipotent
+初葉	초엽	Early period; beginning stage
+誤謬	오류	Error; mistake
+矛盾	모순	Contradiction; inconsistency
+必然的	필연적	Inevitable; necessary
+片言隻句	편언척구	A single word or phrase; fragments of speech
+盲從	맹종	Blind obedience; unquestioning following
+遡及	소급	Tracing back; retroactive application
+改良	개량	Improvement; reform
+眞義	진의	True meaning; real intention
+自己所信	자기 소신	One's own belief; personal conviction
+屈코저	굽히고자	Intending to bend; yield (older spelling/form)
+뱃심	뱃심	Guts; nerve; conviction (colloquial)
+熱	열	Fever; zeal; passion
+歎賞	탄상	Admiration; praise
+邪說曲論	사설곡론	Heterodox theories and distorted arguments
+偏狹	편협	Narrow-mindedness
+胸襟	흉금	Mind; heart; generosity (of mind)
+固陋	고루	Stubborn adherence to old ways; hidebound; conservative
+愚擧	우거	Foolish act; folly
+痛打	통타	Severe blow; sharp criticism
+天符玉書	천부옥서	Sacred text from heaven; infallible scripture
+權利	권리	Right; authority
+賢明	현명	Wise; sagacious
+自他	자타	Oneself and others
+長短	장단	Strengths and weaknesses; merits and demerits
+料量	요량	Assessment; consideration; judgment
+切磋琢磨	절차탁마	Mutual encouragement and criticism for improvement (lit. cut, file, grind, polish)
+未備	미비	Incompleteness; inadequacy
+門外漢	문외한	Layman; outsider; person outside the field
+名士	명사	Prominent figure; celebrity; person of renown
+語學硏究團體	어학 연구 단체	Linguistic research group/organization
+抱負	포부	Aspiration; ambition
+旗幟	기치	Banner; flag (figurative: stance, principles)
+俗學	속학	Shallow learning; superficial knowledge
+年歲	연세	Age (honorific); seniority
+靑二才	청이재	Greenhorn; novice; young inexperienced person (often derogatory)
+말갈	말갈	Linguistics (neologism criticized by Kim T'aejun)
+品詞	품사	Part of speech
+임씨	임씨	Noun (neologism: from 이름 'name')
+움씨	움씨	Verb (neologism: from 움직이다 'move')
+홀소리	홀소리	Vowel (native Korean term)
+닿소리	닿소리	Consonant (native Korean term)
+씨끝바꿈	씨끝바꿈	Ending change; conjugation (neologism)
+맨든다	만든다	To make; create (older spelling of 만든다)
+잡이	잡이	Attention (neologism criticized by Kim T'aejun, perhaps related to 'catch')
+두루알이	두루알이	Notification (neologism: from 'know widely')
+新熟語	신숙어	New idiom; neologism
+創作	창작	Creation; invention
+辯護	변호	Defense; justification; advocacy
+金科玉條	금과옥조	Golden rules; inviolable laws
+根據	근거	Basis; evidence; grounds
+廣汎	광범	Broad; extensive; wide-ranging
+二重敎育	이중 교육	Dual education (learning multiple languages/systems)
+兒童	아동	Child; children
+靑年	청년	Youth; young person
+槪念	개념	Concept; idea; notion
+군색하여	군색하여	Being awkward; constrained; unnatural (of pronunciation)
+自然淘汰	자연 도태	Natural selection
+現用	현용	Currently used
+人爲的	인위적	Artificial; man-made
+不自然	부자연	Unnatural
+臆感	억감	Subjective feeling; personal hunch
+古語復用	고어 복용	Revival and use of archaic words
+新語創製	신어 창제	Creation of new words; neologism coining
+分家	분가	Setting up a separate household; branching off (figurative)
+啓明俱樂部	계명구락부	Kemyŏng Kurakpu (Keimyung Club - an organization)
+異同點	이동점	Points of similarity and difference
+熱誠	열성	Zeal; enthusiasm; earnestness
+卑陋	비루	Base; mean; vulgar
+口調	구조	Tone of voice; manner of speaking
+敬仰	경앙	Reverence; respect; admiration
+東洋學	동양학	Oriental studies
+白髮三千丈式	백발삼천장식	Style of "White hair three thousand leagues long" (hyperbole, exaggeration)
+長廣舌	장광설	Long-winded speech; harangue
+批評	비평	Criticism; review; critique
+현실	현실	Reality; actuality
+思想	사상	Thought; idea; ideology
+道具	도구	Tool; instrument; means
+焦眉의 急務	초미의 급무	Urgent task at hand (lit. urgent matter singeing the eyebrows)
+蛙鶔相爭	와조상쟁	Frogs and snails fighting (idiom for petty squabbles)
+同志相賊	동지상적	Comrades harming each other
+집웅 아레	지붕 아래	Under the roof (older spelling/form)
+뫃여서	모여서	Gathering; assembled (older spelling of 모여서)
+政治的 背景	정치적 배경	Political background
+改正綴字法	개정 철자법	Revised orthography
+羞耻	수치	Shame; disgrace; humiliation
+臆見	억견	Preconceived notion; prejudice; personal opinion
+고집	고집	Stubbornness; obstinacy
+보급	보급	Dissemination; popularization; propagation
+目的意識	목적 의식	Sense of purpose; awareness of objectives
+大衆的	대중적	Popular; for the masses
+橫書	횡서	Horizontal writing
+羅馬字	로마자	Roman alphabet; Romanization
+論戰	논전	Debate; polemic; controversy
+위선	우선	First; for the time being; above all (older spelling of 우선)
+特質	특질	Special characteristic; distinctive quality
+全然	전연	Completely; entirely; utterly (older spelling of 전연)
+無視	무시	Disregard; ignore
+初聲復用終聲	초성부용종성	Principle that initial consonants can be reused as final consonants
+文法的	문법적	Grammatical
+解剖	해부	Dissection; analysis
+변화	변화	Change; variation
+우랄 알타이系 語	우랄 알타이계 어	Ural-Altaic languages
+原段	원단	Original stage/level (term used in the criticized theory)
+變動段	변동단	Changed stage/level (term used in the criticized theory)
+姑息的	고식적	Makeshift; temporary; stopgap
+用語	용어	Term; terminology
+斯學	사학	This field of study
+糊塗	호도	Obscuring; confusing; glossing over
+混亂	혼란	Confusion; chaos; disorder
+那邊	나변	Where; which side (archaic interrogative)
+略音	약음	Abbreviated sound; weakened sound
+發音階段	발음 계단	Pronunciation stage/level
+大衆敎育	대중 교육	Mass education
+文盲啓發	문맹 계발	Literacy campaign; enlightenment of the illiterate
+複雜	복잡	Complex; complicated
+在來學說	재래 학설	Existing theory; conventional doctrine
+右袒	우탄	To side with; support (lit. bare the right shoulder)
+喉音	후음	Guttural sound
+實際上	실제상	Actually; in reality; practically
+죽은 바침	죽은 받침	Dead final consonant (referring to unpronounced or archaic finals like ㅎ)
+統制	통제	Control; regulation
+合理	합리	Rationality; reason; logic
+老婆心	노파심	Unnecessary solicitude; excessive worry (lit. old woman's heart)
+活語實用	활어 실용	Practical use in living language
+便益	편익	Benefit; convenience; advantage
+言語自體	언어 자체	Language itself
+發展過程	발전 과정	Development process
+略하는 것	생략하는 것	Omitting; leaving out
+用字	용자	Character usage
+訓	훈	Native Korean reading/meaning of a Hanja character
+整頓	정돈	Systematization; arrangement; putting in order
+初期	초기	Early period; initial stage
+일정치 아니한	일정치 아니한	Not fixed; not definite; unsettled
+漢音	한음	Sino-Korean pronunciation (pronunciation of Hanja)
+何如間	하여간	In any case; anyway (older form of 하여간)
+濃硬한 音	농경한 음	Tense, hard sound
+歷史上 意味	역사상 의미	Historical meaning/significance
+敎育能率	교육 능률	Educational efficiency
+聯想	연상	Association (of ideas)
+混同視	혼동시	To regard as the same; confuse
+徹頭徹尾	철두철미	Thoroughly; from beginning to end; completely
+狂慢	광만	Arrogant; presumptuous
+論調	논조	Tone (of argument); line of reasoning
+題目	제목	Title; topic; subject
+自營自立	자영자립	Self-management and self-reliance
+提携	제휴	Cooperation; partnership; tie-up
+援助	원조	Support; aid; assistance
+超派的	초파적	Supra-factional; non-partisan
+集中統一	집중 통일	Centralized unification
+大衆敎化	대중 교화	Mass enlightenment; popular education
+너머	너무	Too; excessively (older spelling of 너무)
+孤陋하게	고루하게	Stubbornly adhering to old ways; in isolation
+恒席	항석	Constant seat/position (meaning unclear in context, possibly 'confines' or 'domain')
+比較 硏究	비교 연구	Comparative research/study
+僭越	참월	Presumptuousness; audacity
+粗妄	조망	Reckless; careless; crude
+斯界大方	사계 대방	Esteemed figures in this field
+批難	비난	Criticism; reproach; blame
+覺悟	각오	Preparedness; readiness; resolution
+匹夫	필부	Common man; ordinary person
+一言	일언	A single word
+衝動	충동	Impetus; impulse; urge
+多幸	다행	Fortunate; lucky
+
+
+---------------------------
+
+
+잡지명	동광 제32호
+발행일	1932년 04월 01일
+기사제목	한글綴字에 대한 新異論 檢討
+기사형태	논설
+
+한글綴字에 대한 新異論 檢討
+朝鮮語 文法은 아직 통일되지 못하야 한글표현에 대한 異論은 분분하고 그 통일될 바를 아지 못한다. 이것은 統一過程의 一現象으로 不可避한 일이나 우리는 實地에 則한 眞摯한 연구로 이 해결을 위하야 최대의 노력을 계속하야 하겟다. 이제 한글에 대한 異論의 中心問題 중 左記 2,3을 제시하고 斯界 篤學者 諸位의 嚴正한 의견을 구하엿으니 이것을 비롯하야 한글統一運動의 촉진을 期하고저 한다.
+1. ㄲ ㄸ ㅃ ㅉ 등 幷書가 不可하고 된시옷을 符號化하야 사용함이 可하다는 說.
+2. 「ㅎ」를 바침으로 쓸 수가 없다는 의견.
+3. 「먹」(食), 「믿」(信)을 語根으로 看做할 것이 아니라 「머그」, 「미드」를 語根으로 看做하      고 「먹, 머거」 「믿, 미더」를 그 變化로 看做할 것이라는 의견.
+4. 기타의 의견.
+右에 대하야 朴勝彬, 金允經, 李常春, 白南奎, 李克魯, 崔鉉培, 趙潤濟, 金在喆, 李奎昉, 申明均, 權悳奎, 金台俊, 李允宰, 李熙昇 등 諸氏(無順)에게 嚴正한 비판을 구하얏는데 回答을 주신 분만 左에 揭載하기로 한다. 斯界의 先輩, 篤學者 諸氏에게 미처 일일이 비판을 구하지 못하엿으나 日後라도 한글에 대하야 많은 의견과 비판을 寄稿하여 주시기를 바라마지 안는다. 原稿到着順＜54＞
+
+이미 常識化한 것을 웨 또 問題 삼는가
+金允經
+
+『한글 硏究界에 別記같은 異論이 擡頭한다...』하여 무슨 중대한 새문제가 제출된 듯이 取扱하여 編輯者는 말슴하시엇으나 『먹』, 『믿』을 語根으로 하지 말고 『머그』 『미드』를 語根으로 하자, 또 『된시옷』을 쓰자, 『ㅎ』 받힘은 不可하다 하는 말은 이미 오래전부터 朴勝彬씨가 獨特히 主唱하던 바외다. 그러한데 近者에 그 분이 더욱 熱心으로 主唱하고 선전하며 이미 한글硏究機關으로 朝鮮語學會가 십수년의 歷史를 가지고 잇음에도 불구하고 別로 硏究會를 創立까지 하게되매 一般에게 알리어진 것 뿐입니다. 그러한즉 무슨 별로 새로운 문제도 아니고 별로 중대한 문제도 아니라고 생각합니다.
+이제 筆者가 病席에 잇는지라 자세한 理論을 적기는 어렵습니다마는 ㄲ, ㄸ, ㅃ, ㅉ 들을 『된시옷』으로 하지 못할 까닭은 된시옷 『ㅅ』을 아무리 符號化한다 하여도 그 이름부터가 『ㅅ』인만치 한 音字로 알게되기 쉽은 것과 ㄲ, ㄸ 들이 歷史的 記法임과 音理에 합하므로써외다. 또 『ㅎ』를 받힘으로 못한다 함에는 自家矛盾이 잇음은 ㅊ ㅌ ㅋ ㅍ 들의 받힘을 是認하면서 『ㅎ』받힘을 否認함은 밥을 먹으면서 쌀을 否認함과 같은 矛盾이외다. 또한 무엇보다도 『ㅎ』받힘을 否認하려면 먼저 우리의 日常會話 중에 쓰히는 『ㅎ』終聲을 전부 撲滅하고야 할 말이라고 생각합니다. 『먹』, 『믿』을 『머그』, 『미드』로 語根으로 하고 『머거』, 『미더』를 그 活用으로 하자는 말은 朝鮮語法則을 억지로 日本文法의 段活用法에 집어끼우자는 생각에서 나아온 것이나 科學(自然科學이나 規範科學을 물론하고)이라는 것은 自然으로 숨어 존재한 법칙을 발견하는 것이요 법칙을 創造하는 것은 아니며 또 科學者의 任務로 법칙의 발견이지 創造는 아닌 줄로 알옵니다. 朝鮮語는 어대까지던지 朝鮮語 그 個體를 존중히 인정하여 놓고 그 個體가 가진 自然性, 特性을 발견하여야 할 것입니다. 그러한즉 朝鮮語에 없는 段活用을 억지로 잇게하려 함은 無理라고 생각합니다. 『머그』, 『미드』가 語根이라 할 것 같으면 1,000사람에 하나나 10,000사람에 하나라도 『머그다』, 『머그고』, 『머그다가』, 『미드다』, 『미드고』, 『미드다가』라고 發音하는 이가 잇어야겟는데 한 사람이 한 번도 쓰는 이 없으니 어찌 이를 語根이라 하리까. 이 質問에 대한 氏의 對答을 들으면 어린아이가 말 배울 때에 혹 그리 되는 것을 引證하며 北靑의 사투 리를 引證하는 것 밖에는 없습니다. 또한 그러케 語根을 규정한다 하면
+『먹으니』를 『머그니』
+『믿으니』를 『미드니』
+로 적는 것 같이
+『삶으니」를 『사ㅡ니』
+『넓으니』를 『너ㅡ니』
+『긁으니』를 『그ㅡ니』
+『꺾으니』를 『꺼끄니』
+『없으니』를 『어니』
+『훑으니』를 『후 ㅡ니』
+『읊으니』를 『으 ㅡ니』
+『옳으니』를 『오ᄚㅡ니』
+로 적지 아니하면 아니되게 되니 이는 朝鮮語의 고유한 법칙을 찾아 세움이 아니라 一目瞭然하게 들어나는 법칙을 깨트리는 것이라고 아니 할 수 없습니다.
+이제 精神도 아득하거니와 이미 다 알고 잇는 學理를 이보다＜55＞ 더 말하면 常識에 지나치는 군소리가 되겟기에 그만 붓을 던집니다.
+귀 기우릴 것 없다
+普成高普 李奎昉
+
+이번 물으신 말슴은 별로 귀를 기우릴 것이 없는 異論이라고 생각합니다.
+1. ㄲ ㄸ ㅃ ㅉ의 幷書가 不可하다고 하는 이유는 암만 하여도 이해할 수가 없습니다. 인제    는 거이 大衆化하여 쓰게 되엇사오니 쓸데 없는 異論은 그만 두엇으면 좋을 듯 합니다.
+2. ㅎ를 받힘으로 안쓰면 소위 文法을 否定하는 것이 아닙니까. 가령 같은 形容詞를 쓰는데
+크다, 크고, 크지. 작다, 작고, 작지.
+높다, 높고, 높지. 좁다, 좁고, 좁지.
+와 같은 것은 이러케 쓰고, 다만 「좋다」란 말만을
+조타, 조코, 조치.
+로 쓴다면 이 무슨 모순입니까.
+3. 우리 朝鮮말은 日本말과 같이 動詞의 語尾活用이 잇는 것이 아닙니다. 가령 「負」字를 日    本서는
+オハ, オヒ, オフ, オヘ
+로 語尾가 活用합니다. 그러나 우리말에는 언제든지 「업」이라는 語源이 잇고 그 아레 토    가 붙습니다.
+업는다, 업엇다, 업겟다, 업고, 업지, 업으니, 업으면, 업어서와 같이 쓰지 않습니까? 이것    을
+어브니, 어브면, 어버서
+로 쓰면 얼마나 웃읍겟습니까. 예전에 文法이라는 것을 眼中에 두지 앓을 적에
+(高) 높다, 높고, 노프니
+(樹) 남기, 남글 들과 같이 쓴 것을 옳다고 생각하면 큰 誤解올시다. 어쨋던지 우리말을     곳 日本語와 같이 語尾活用을 주장하여 가지고
+먹는다, 먹고, 머그니, 머거서로 쓴다는 것은 可謂 時代逆行의 語不成說이라고 아니 할 수    없습니다.
+
+對答할 나위도 없다
+李允宰
+
+뜻밖에 이건 무슨 쓸대 없는 수작이야. 당초에 이유에 닿지도 않는 걸 가지고 話題로 하여 이러냐 저러냐고 하는구려. 공연히 아무 소용도 없는 사실을 늘여 놓아 雜誌의 面數나 채워 가지고 讀者들의 好奇心을 끌려하는 것이 본대 雜誌業者의 常套임을 알지마는 아마 貴誌에도 原稿가 많이 모자라는 모양인 것 같다. 한글을 이왕처럼 아무러케나 그저 되는대로 쓴다면 모르되 규칙잇고 條理잇게 바로잡아 쓰기로 한다면 이런 것이야 아여 입에 걸지도 않을 것이다. 더구나 오늘날은 어떠한 學術이든지 科學的 根據의 論理가 아니면 立論하지 못함에서랴. 또 우리 한글이 이제 와서 言語學的 文法學的 基礎 우에서 合理的 整理를 이루고 바야흐로 統一期에 들어가려는 이때에 한글 硏究界 중에서는 그러한 異論이 잇을 리가 없다. 설혹 잇다 하드라도＜56＞ 그것이야 一部에서 어떤 개인의 獨自主張일지니 그따위 異論 같은 것이 世間에 擡頭될 리가 없으리라고 믿는다. 그러므로 이제 여기에 例示함과 같은 따위는 도모지 批判할 가치도 없다. 만일 꼭 그러케 써야 한다는 이유를 늘여 놓을 것 같으면 그것을 逐條하여 하나씩 들어서 眞確한 學理的 理論으로 痛棒을 내리겟지마는 그저 어리삥삥하게 이러케 묻는대 대하여서야 무엇을 批判할 것이 잇느냐 말이다. 그러나 모처럼 물음에 대하여 아주 쓸어 덮어두기도 어려우므로 대강이라도 멫 마디만 그 不可를 論하고 그치려 한다. 이것을 全體的으로 理論하려면 매우 길어야 하겟지마는 紙面의 제한도 잇고 또 여기에서 그러케 할 까닭도 없으므로 다만 간단히 그 要領만 말하기로 한다.
+1. 並書法은 音理에 맞고 世宗의 訓民正音에도 이미 정하여 둔 것이니 그대로 하는 것이 옳다. ㅅ이 근본 닿소리(子音) 중에 한 字로 되어 잇은즉 符號로 看做하기 어렵다. 우리글 硬音은 並書면 그만일걸 가지고 일부러 그러케 거북하게 符號까지 쓸 아무 이유도 없다. 日本 假名에는 濁音符號 「゛」을 ヵサタハ 각 行에 공통하여 쓰는 例가 잇지마는 문자의 성질이 다른 이상, 구태어 그것을 본받자는 것은 얄미운 것 같다. (된시옷 쓰자 주장하는 자 중에 흔히 이러케 말하는 ´가 잇는 고로)
+2. 요새 쓰는 글과 같이 崔世珍의 주장대로 初聲 終聲을 8字로 通用하자는 例를 쫓아 쓴다면 모르되 지금 닿소리(子音)를 바침으로 다 쓰게 된 바에는 하필 「ㅎ」 바침만 빼어 둘 까닭이 무엇인가. 語法整理上 또 朝鮮語의 習慣音을 위하여서는  「ㅎ」 바침을 쓰지 아니할 수 없을 것이다. 여기에 대하여는 다음에 別論이 잇겟기로 이에 理論은 略한다.
+3. 古代綴字는 그러케 쓰는 수도 잇엇다. 시대의 진보를 따라 綴字法이 차차 발달하여가므로 語幹과 語尾를 구별하여 쓰는 것이 점점 具體化하여 가거늘 더 발달하기는 새로에 도루 退化하여 古代綴字로 돌아가잘 것은 없을 것이다. 그러고 純表音式으로 그러케 쓰면 읽기에 여간 불편하지 않을 것이다. 가령 이러케 써 놓고 비교하여 보자.
+A. 수나마학교에갈시가니느저쓰니소키바블머거라.
+B. 그사라믄무어시나소기지아니하니그마를미더라.
+a. 수남아학교에갈시간이늦엇으니속히밥을먹어라.
+b. 그사람은무엇이나속이지아니하니그말을믿어라.
+이 우에 잇는 말에 a b는 A B에 비하여 單語의 觀念이 또려시 들어나므로 읽기 쉬운 것이다. 모든 理論은 다 畧한다.
+
+後日에 嚴正批判
+李克魯
+
+이 문제는 몇 마디 말로 간단히 설명하야 풀 수는 없다. 상당히 긴 論文을 써야 하겟는데 으래지 않아 「한글」잡지에 자세한 또 嚴正한 批判이 날 것을 미리 말하고 이제 여기에는 다만 ㅅ을 된소리 부호로 쓴다는 것과 ㅎ를 바침으로 쓸 수가 없다는 것과 머그(食) 미드(信)를 語根으로 본다는 것이 그른 것을 말하야 둔다.
+
+語法上 不合理
+崔鉉培
+
+1. 된시옷을 符號化하야서 그대로 전과 같이 쓰자는 것은 옳지 몯합니다. 원래 문자는 다 一種의 符號인즉 「ㅅ」도 역시＜57＞ 이미 한 符號이다. 그런데 이것을 다시 別種의 符號로 쓰자는 것은 한 體系의 문자 자체의 안에다가 한 가지의 문자를 두 가지의 符號로 삼자는 것이다. 다시 말하면 符號를 二重化하는 것이다. 만약 符號를 二重化할 것 같으면 여러 가지 不合理한 弊害가 생깁니다.
+2. 「ㅎ」도 받힘으로 쓸 수가 잇습니다. 이것을 못 쓴다고 하는 사람은 받힘이라는 것을 넘어 曲解한 때문이라고 생각합니다. 그 理論을 자세히 말하랴면 장황해 지겟으니까 그만둡니다 마는 ㅎ를 받힘으로 안 쓰고는 우리말본을 順坦하게 설명할 수 없습니다.
+3. 「머그」를 語根으로 보자는 것은 도모지 현대 朝鮮사람의 語感이 아닌 强作僞造의 說이라 하겟습니다. 우리의 朝鮮語感으로 본다면 「먹」이 語幹(語根이라 함은 不可)이고 「먹어 먹은」는 그 변화한 형식이라 함이 옳습니다. 물론 아모러케 「看做」하든지 그것은 각 개인의 자유이겟지요 마는 의견의 자유와 學術의 眞理와는 別問題이라고 생각합니다.
+4. 「其他의 意見」이야 어떠케 다 한거번에 쓸 수가 잇습니까. 위선 이만 대답합니다.
+1932. 3. 9
+
+硏究者的 態度에서
+金台俊
+
+編輯子 足下 부탁하신 朝鮮語 硏究界에 대한 感想을 한글에 대한 貴 設問과 아울러 쓰기로 합니다.
+
+光武 9年(明治 38年)에 醫學校長 池錫永씨의 疏에 의하야 新訂國文이 頒布되고 同 11年에는 國文硏究所가 設立되어 張憲植, 李能和, 玄檃, 權輔相, 周時經, 上村正己, 魚允迪, 李億, 李鍾一 등이 중요한 硏究委員이 되어 質實하게 연구하야 한글 연구가 다른 部門에 비교하야 가장 開拓되고 또 연구의 功績도 매우 많앗든 것을 讚揚치 아니할 수 없다. 모든 것이 沒落 沈滯 停頓의 狀態에 잇을 적에 다만 이 방면이 적지 아니한 진보가 잇엇다는 것은 學界를 위하야 祝賀치 아니할 수 없으며 또 先進 諸氏의 노력에 感謝치 아니할 수 없다.
+
+偶像처럼 崇拜할까
+그러나 나는 先進 諸氏를 偶像처럼 崇拜하고 싶지 아니하다. 웨? 그들-池錫永
+周時經씨들은 모다 육체를 가진 사람이엇기 때문이다. 그들은 萬善萬能한 神이 아니엇고 그들은 다만 우리보담 조금 몬저 地球上에 나타나서 「한글」을 연구한 靈長類의 「사람」(人格)으로서 존재하엿섯다. 그리고 그들은 한글 연구의 初葉-다시 말하면 朝鮮語 연구의 第1期的 發展過程에 잇든 사람이다. 그러므로 그들의 論說과 주장에도 誤謬와 矛盾이 必然的으로 많을 것이며 따라서 나는 先進의 말한 片言隻句까지 일일히 盲從하고 싶지는 아니하다. 이것은 다만 池錫永
+周時經씨들의 理論에서만 아니라 訓蒙字會와 訓民正音에까지 遡及하야 이러하게＜58＞ 말할 수 잇으며 訓民正音까지도 改良하야 쓰는데 眞義가 잇을 것이요. 더구나 현대의 語學者의 學說에 이르러서는 어대까지 自己所信을 屈코저 하지 아니하는 뱃심과 熱만은 크게 歎賞하면서도 자기의 邪說曲論을 一步도 사양코저 아니하는 俗學者의 偏狹한 胸襟과 固陋한 愚擧에는 一頭棒을 痛打하지 아니할 수 없다. 訓民正音 訓蒙字會 周時經 現今 한글 硏究家들의 理論이 天符玉書라 할 지라도 우리는 批判하여 볼 權利를 가진 것이며 또 그들도 賢明하게 自他의 長短을 料量하야 切磋琢磨해서 점점 未備한 것을 완성시켜가는 것이 마땅하다고 믿는다.
+
+新語創製는 無意味
+우리의 조선어학계를 한 門外漢으로서 밟아볼 적에 즐겨하는 것은 이에 대한 學者와 名士가 뜻밖에 많은 것이다. 그리하야 벌서 조선사람의 손에 된 文法書類도 30種에 達하게 되엇고 語學硏究團體도
+水標町 - 조선어학회
+계명구락부 - 조선어학연구회
+太平通 - 조선어XXX회
+齋洞 - 조선어XX회
+등이 잇게 되엇다. 그리하야 모다 상당한 抱負를 갖고 旗幟를 세우고 잇다. 그러나 세상에서 말하기를 소위 名士俗學을 網羅하고 年歲가 많기는 朝鮮語學會 뿐이요 다른 것은 靑二才들이라고 한다. 그러나 學問은 學問이요 名士俗學과 年齡이란 것이 자랑할 것이 되지 못한다. 그들은 항상 語學을 「말갈」이라 하고 品詞를 분류하면 반다시 임씨(名詞) 움씨(動詞)... ...라고 하고 홀소리 닿소리 씨끝바꿈(語尾變化)이라고 말하야 말소리(馬聲)인지 닭소리(鷄聲)인지 구별할 수 없게 맨든다. 주의는 「잡이」라고 하고 通知를 「두루알이」라고 한다. 그리하야 新熟語를 創作하여 내는 어룬들이다. 그들은 자기네의 잘못된 행동을 辯護호되 訓民正音에는 이러하고 周時經씨는 이러하다고 한다. 周時經씨의 硏究功績에 대하야 滿腔의 讚辭와 敬意는 表할 것이로되 周씨의 말을 일일히 金科玉條로 믿어야 할 根據가 어데 잇을까? 孔子 이후에는 絶對的으로 孔子같은 사람 없다면-소크라데쓰 이후에 어떠케 「아리스토를」의 廣汎한 學問이 되어 낫을까? 우리는 名詞나 動詞라고 하면 今後 二重敎育(日語 英語를 배운 후에 조선어 文法을 배움)을 받는 兒童 靑年은 모다 名詞와 動詞라는 말은 무슨 槪念을 표현하는 單語라는 것을 넉넉히 알 것인데 어째서 「움씨 임씨」라는 말을 맨드느냐. 그들은 말호되 名詞와 動詞는 조선말이 아니라고 한다. 그러면 「名詞=명사 動詞=동사」는 어느 나라 말이드냐. 中國語냐?-아니다 中語로는 「밍쓰 등쓰」라고 할 터이다. 日語이냐?-아니다 「메이시 도-시」라고 할 것이다. 그 뿐 아니라 움씨 임씨 말갈... 등의 말은 발음이 군색하여 自然淘汰로서 今日에 이른 現用 조선어와는 ꊱ�리가 멀고 人爲的 不自然한 느낌을 준다. (나 개인의 臆感인지 모르나) 그리하야 나는 항상 이 말갈派들의 古語復用, 新語創製의 이유를 듣고 싶다.
+
+白髮三千丈式도 可笑
+이에 斷然 반대하야 分家한 啓明俱樂部
+朝鮮語學硏究會만은 통쾌하다. 그러나 朝鮮語學會와 朝鮮語學硏究會의 異同點은 물론 우에 말한 一點에서 만이 아니요 東光社가 今番 넓게 물은 4개 의견-幷書 「ㅎ」바침 「먹」 「믿」의 語根으로서의 看做與否 品詞分類法 등일 줄로 믿는다. 그뿐 아니라 學者님의 熱誠에는 歎하면서도 「내가 30年 연구를 하엿다는 등」 혹은 「내가 多年 연구한 결과 다시 XXXX 職員會議에 제출하야 통과시켜 云云...」의 卑陋한 口調가 없드라도 훨신 더 남의 敬仰한 바 되엇을 것을... 하는 느낌이 잇다. 이는 東洋學 硏究者의 「白髮三千丈式」의 長廣舌이라면 문제될 것 없고 문제를＜59＞ 삼는 것이 도리어 卑陋하다는 批評을 받을 지도 모른다.
+
+하여간 한글運動도 현실에 잇어 우리의 思想을 기록하는 통일된 道具를 사용하여야 하겟다는 의미에서 무엇보담도 焦眉의 急務에 잇는 것인즉 蛙鶔이 相爭하고 同志가 相賊하다가 그쫓아 아무 해결된 事業이 없이 남의 집웅 아레 뫃여서 그 政治的 背景 밑에 비로소 改正綴字法을 정하얏다는 것도 우습다란 羞耻다.
+
+그러면 우리는 세밀한 學的 理論은 영원히 그치지 아니할 줄을 아는 이상 원제까지든지 臆見을 고집하지 아니하고 될수록 현실에 적절한 범위에서 보급시킬 운동을 하지 아니하면 안된다. 그리 하랴면 目的意識의 통일을 구하나니
+1. 大衆的으로 보급되기 쉬워야 할 것.
+2. 장래에는 橫書, 羅馬字로서의 綴字法에 대한 論戰이 많이 나리라고 믿지마는 위선 각 방면으로 보아서 편리하여야 할 것.
+3. 조선어의 特質 또 조선語 고유한 文法을 全然 무시하지 아니할 것.
+등일 것이다.
+
+「먹」 「믿」은 贊成
+가령 「먹」(食) 「믿」(信) 이라는 두 字를 例로 들고 볼 적에 만일 조선語의 終聲을 全然 否認한다면 別問題려이와 「初聲復用終聲」이라는 옛말도 잇는 것과 같이 初聲은 일일히 終聲에 쓸 수가 잇는 것이요 訓民正音에도 終聲에 대한 특별한 설명이 없은 이상 初聲은 終聲에 전혀 代用할 수 잇는 것을 알 수 잇다. 더구나 「먹」 「믿」 2字를 文法的으로 解剖하야 動詞의 변화와 활용을 시겨 볼 적에도 다른 「우랄 알타이」系 語의 動詞와 같이 가장 간단한 법칙으로 설명할 수 잇으되 이에 原段 「머그 미드」과 變動段 「머거」 「미더」와 같은 姑息的 用語를 創製하야 斯學을 더욱 糊塗케 混亂케 할 이유가 那邊에 잇을가? 하물며 「먹」 「믿」을 略音이라고 본 것은 우리의 發音階段으로 보아 「먹」 「믿」을 語根으로 하는 것만 같지 못하며 또 文法이 간단하여야 大衆敎育이나 혹은 文盲啓發에도 편할 것인죽 세계에 없는 原段, 變動段을 (도리어 文法을 複雜하게만 하면서) 새로 짖는데 반대하고 「먹」 「믿」의 在來學說에 右袒한다.
+
+「ㅎ」바침은 反對
+「ㅎ」바침을 쓰는 데는 나 개인으로서는 반대하고 싶다. ㅇ   ㅎ는 모다 喉音이어서 ㅇ  는 벌서 終聲으로 쓰지 않는 지가 오래고 「ㅎ」에 잇어서도 實際上 발음하는데 나타나지 아니하니 「ㅎ」라는 죽은 바침은 文法上 統制에 合理하다는 老婆心으로서 보면 대단한 잘못은 없으나 活語實用의 便益과 言語自體의 發展過程에 잇는 것을 비최어 보아 「ㅎ」바침은 略하는 것이 좋겟다.
+例
+그러하게=그러케(그렇게) 조켓다(좋겟다)
+그리하야 ㅋ=ㄱ+ㅎ의 式으로써 「케」와 「켓다」를 설명하엿으면 되리라고 믿는다.
+
+ㄲ ㄸ ㅃ ㅉ 幷書 贊成
+訓民正音에도 用字의 訓을 「」 혹은 「쓰」로 쓰고 혹은 龍飛御天歌, 月印千江曲, 訓蒙字會, 杜詩諺解 諸書에도 「」 「」 字가 쓰여 잇으니 이때는 아즉도 한글 整頓의 初期인 만큼 아죽도 일정치 아니한 듯 하며 ㄲ, ㄸ, ㅃ, ㅆ, , ㅉ, 는 漢音을 표할 때든지 표치 아니할 때든지 何如間에 , , , , 등의 濃硬한 音을 표시하는 것인즉 나는 歷史上 意味로 보아서도 「ㄲ, ㄸ, ㅉ, ㅃ」의 幷書에 찬성한다.＜60＞
+
+그뿐 아니라 在來의 쓰든 대로 「, ㄸ, , 」 대로 쓰는 것이 大衆的이라고 하지만 今後 敎育能率에 잇어서는 幷書하는 편이 좋을 듯 하며 「악가, 앗가, 압가」 등 列도 「아까, 아, 아」로 변하야 모다 「아」와 같이 발음한다 하지마는 그러면 數多한 初聲 속에서 구태여 「ㅅ」를 擇해서 符號化하여 濃硬音의 표시에 적용할 이유는 어대 잇을가-차라리 ㄸ ㅃ의 幷書가 쓰기에 불편하다면 ㄸ, ㅃ, 와 같은 略字를 考案하거나 「“」와 같은 新符號를 約定하야 「된시옷」에 代用한다면 別問題려니와 그러치 아니하면 「ㅅ」의 「된시옷」 符號化는 아무 學的 意味가 없는 동시에 美的으로도 보이지 않는다. 「된시옷」이라는 名稱을 가진 이상, 만일 ᄸ, , , 를 쓴다면 그 「」는 「S」 音의 初聲을 聯想케 하야 =sk, =st, =sb로 混同視하게 될 念慮도 잇다. 나는 幷書여 찬성하고 「ㅅ」의 된시옷 符號化에는 徹頭徹尾로 斷然 반대코저 한다.
+
+希望條件 세 가지
+狂慢한 말슴을 쓰다가 보니 論調가 題目과는 全然 다른 방면으로 달아가고 말앗다. 어대까지든지 自營自立하여 가여야 할 처지에 잇는 우리로서는 어떠한 통일된 목표를 향하야 굳게 提携 援助하여 나가지 아니하면 안 되겟으며
+1. 硏究者는 각각 學者的 胸襟을 넓게 하고 超派的으로 연구하는 機關을 두고 빨리 모든 學들의 理論을 集中統一케 할 것.
+2. 빨리 語法을 통일하야 大衆敎化를 목표로 辭典編纂 言論機關 기타 出版物에 新改正綴字法을 사용하게 할 것.
+3. 硏究方法은 너머 日本文法이나 英國文法이나 어느 편에 기우러지지 말고 그러타고 孤陋하게 조선語 속에 恒席 조선語을 연구하랴고만 하지 말고 世界 각 國語와 比較 硏究할 것.
+
+아주 僭越하고 粗妄한 말로써 斯界大方의 많은 批難이 잇을가 두려워 하나 大方의 批難은 覺悟하엿든 일이엇고 匹夫의 一言도 혹 무슨 衝動이 된다면 多幸이다.
+(32. 3. 1)＜61＞
+＜54-61＞

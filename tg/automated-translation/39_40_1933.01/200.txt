@@ -1,0 +1,40 @@
+Magazine Title: 동광 제40호
+Publication Date: 1933년 01월 23일
+Article Title: 取消 (Cancellation/Retraction)
+Author: None specified
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+Cancellation
+
+The article "Record of Male Student Reputations" (『男學生評判記』) published on page 73 of this magazine's November issue last year contained factual errors and is therefore fully retracted. <55>
+
+**Summary**
+
+This is a brief notice from the editors of *Tonggwang* magazine retracting an article titled "Record of Male Student Reputations" published in the previous November issue. The reason cited for the retraction is factual errors within the article. For historians, this notice is interesting as it indicates editorial oversight and the correction of errors, potentially hinting at the sensitivity or controversial nature of evaluating students publicly ("評判記" implies reputation or critique) during the colonial period, which might have led to complaints or pressure necessitating a retraction.
+
+**Named Entities**
+
+男學生評判記	남학생평판기	Record of Male Student Reputations
+
+**Glossary**
+
+取消	취소	Cancellation, Retraction
+本誌	본지	This magazine
+게재	게재	Publication, Posting
+사실	사실	Fact
+착오	착오	Error, Mistake
+잇으므로	있으므로	Because there is (older spelling of 있으므로)
+全文	전문	Full text
+取消함	취소함	Retract (older verb ending, equivalent to 취소합니다 or 취소한다)
+
+
+---------------------------
+
+
+잡지명	동광 제40호
+발행일	1933년 01월 23일
+기사제목	取消
+기사형태	사고·편집후기
+
+取消
+本誌 작년 11월호 73항 게재 『男學生評判記』는 사실에 착오가 잇으므로 全文取消함.＜55＞

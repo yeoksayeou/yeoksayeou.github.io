@@ -1,0 +1,300 @@
+21	200	Various Thoughts on Social Reform		Editorial/Article
+21	210	What is the Three Principles of the People?		Editorial/Article
+21	220	Development of the Latest Science	Tonggwangsa	Editorial/Article
+22	010	Special Notice		Notice/Editorial Postscript
+22	020	The Poems and Songs of Yi Sun-sin		Poem
+22	030	Record of Yi Chungmugong (Part 1)	Yi Pun (Original Author), Yi Kwang-su (Translator)	Memoir/Reminiscence
+22	040	On Leaders	Yi Kwang-su	Editorial/Article
+22	050	Examination Regarding the Increase and Decrease of Chosŏn's Wealth	Kim Myŏng-sik	Editorial/Article
+22	060	Soul of Youth! Blood of Youth! Flag Stained in Blood!	Chŏn Pong-je	Poem
+22	070	The Dissolution of the Sin'ganhoe and the Future Prospects of the Movement Line	Hwanggam	Editorial/Article
+22	080	The Past and Present of the Chosŏn Cooperative Movement	Ham Sang-hun	Editorial/Article
+22	090	Funeral Procession, O Powerless "Mummy," Return to Your Grave.	Yi Kyu-wŏn	Poem
+22	100	Measures Following the Sin'ganhoe Dissolution	Ko Yŏng-hwan	Editorial/Article
+22	110	British-Indian Round Table Interlude, New Delhi London Karachi	Inwangsanin	News/Information
+22	120	Poetry Talk		Social Commentary
+22	130	Korean Script Before the Correct Sounds (Hunminjŏngŭm), This treatise is the beginning of Part 2, Main Discussion, of the Historical Study of Korean Script	Kim Yun-gyŏng	Editorial/Article
+22	140	Emphasizing a Strong Life-ism.		Literary Miscellany
+22	150	The Woman Staying Aloft on Ŭlmiltae, Interview with Female Fighter Kang Chu-ryong	Muhotŏngin	Interview/Discussion
+22	160	July Musings, A Hundred Flowers in Full Bloom	Various Authors	Literary Miscellany
+22	170	Self-Reflection Reader		Editorial/Article
+22	180	Flare		Social Commentary
+22	190	Honesty, The Essence of the Sporting Spirit	Ch’oe Nŭng-jin	Editorial/Article
+22	200	Chosŏn Film People en Parade	Sim Hun	News/Information
+22	210	Modern March		Miscellaneous Writing
+22	220	Memoir Written in Blood, The Young Doctor and the Three Fighters	T’aehŏ	Memoir/Reminiscence
+22	230	Fragments of German Life, Discourse on Jews and Injury Diary	To Yu-ho	Literary Miscellany
+22	240	Song of the Iron Doll, Poem and Sijo	Chŏng Il-su (Inwon)	Poem
+22	250	Posin'gak Bell, Poem and Sijo	Cho Chong-hyŏn	Poem
+22	260	June and 1 Other Poem, Poem and Sijo	Hinsol	Poem
+22	270	My Dream, Poem and Sijo	Hwang Sun-wŏn	Poem
+22	280	O Dawn, Poem and Sijo	Mok Il-sin	Poem
+22	290	Field of Curses, Poem and Sijo	Yi Ŭng-su	Poem
+22	300	Young Idealist, Poem and Sijo	Pak Sŭng-gŏl	Poem
+22	310	No fire broke out, no thief appeared, nothing happened at all.		Novel/Fiction
+22	320	Tonggwang University Lecture Series, Lecture 4 Labor-Peasant Section - Overview of Labor Issues		Editorial/Article
+22	330	Reading Room		Literary Criticism
+23	010	Special Notice		Notice/Editorial Postscript
+23	020	O Friend	Kim Yŏ-je	Poem
+23	030	Outline of National Socialism	Song Man	Editorial/Article
+23	040	If My Love Calls	Sin Sŏk-chŏng	Poem
+23	050	Roosevelt's Chosŏn Policy, Hidden Facts Amidst the Tumultuous Late Korean Empire	Paek Nak-chun	Editorial/Article
+23	060	O Castle Wall Hit by a Stray Bullet, P'aesŏng Old Battlefield	Yi Kyu-wŏn	Poem
+23	070	Solutions I've Seen for the Problem of Koreans in Manchuria	Various Authors」	Editorial/Article
+23	080	Examination of the Salary Bonus Issue, Discriminatory Treatment in the Official World	Ham Sang-hun	Editorial/Article
+23	090	Examination of the Salary Bonus Issue, Fundamental Investigation of the "Salary Bonus"	Kim Hyŏng-sik	Editorial/Article
+23	100	Biographies of Modern Chinese Thinkers (Part 4), The Philosopher of Experimentalism Ho Chŏk	Sin Ŏn-jun	Editorial/Article
+23	110	Will it Rise or Fall? This Autumn's Rice Price Outlook, 3 Chŏn 9 Ri per Kŭn?	Sŏ Ch’un	Editorial/Article
+23	120	Fruit	Kim An-sŏ	Poem
+23	130	Current Talk		Social Commentary
+23	140	Record of Yi Chungmugong (Part 2)	Yi Pun (Original Author), Yi Kwang-su (Translator)	Literary Miscellany
+23	150	Memory	Chŏn U-han	Poem
+23	160	Is There Such a Thing as a Superior Race? Overcoming Theories of Racial Inferiority	Philosophy PhD Ch’oe Yun-ho	Editorial/Article
+23	170	Korean Script Before the Correct Sounds 2, Scripts Passed Down to Today	Kim Yun-gyŏng	Editorial/Article
+23	180	Youth of Chosŏn, Transcend Yourselves	Yi Kwang-su	Editorial/Article
+23	190	Gandhi's Autobiography (Continued), Braving Expulsion from Caste to Study Abroad in London		Literary Miscellany
+23	200	Flare		Social Commentary
+23	210	Modern March		Miscellaneous Writing
+23	220	Casual Reflections on the Time of Annexation		Memoir/Reminiscence
+23	230	Willow Shade (August Essay), Sleepless Prisoner Behind Iron Bars	Chosŏn Ilbo An Chae-hong	Literary Miscellany
+23	240	Willow Shade (August Essay), Defiling Natural Beauty	Lawyer Yi In	Literary Miscellany
+23	250	Willow Shade (August Essay), Ten Miscellaneous Verses at Lights Out	Writer Chŏn Mu-gil	Poem
+23	260	Willow Shade (August Essay), Three Playful Chapters	Muae	Poem
+23	270	Willow Shade (August Essay), Youth Soul	Miss Ko Hwang-gyŏng	Literary Miscellany
+23	280	Willow Shade (August Essay), The Nation's Efficiency	O Chŏng-su (P'yŏngyang)	Literary Miscellany
+23	290	Willow Shade (August Essay), Impression of Mr. O	Hyŏnmin	Literary Miscellany
+23	300	Willow Shade (August Essay), Across the Pacific	Ku Yŏng-suk (Severance Union Medical College)	Poem
+23	310	Willow Shade (August Essay), As the Autumn Wind Blows	Poet Kim An-sŏ	Literary Miscellany
+23	320	Willow Shade (August Essay), A Tiny International Competition	Chang Kŏn-sik (Texas Company)	Literary Miscellany
+23	330	Willow Shade (August Essay), Lonely Shadow in a Foreign Land	Ok Kwan-bin (Shanghai)	Literary Miscellany
+23	340	Willow Shade (August Essay), Casual Talk Under the Trees	Miss Kim Wŏn-ju	Literary Miscellany
+23	350	Casual Critique of Magazine Reporters	Kim Man	Editorial/Article
+23	360	Self-Reflection Reader		Literary Miscellany
+23	370	Record of Traversing Paektu Mountain Thirty Years Ago, From the Diary of Russian Writer Garin (Part 6)	Kim Tong-jin (Translator)	Travelogue
+23	380	Swimming, How Not to Drown and How to Survive When You Fall In	Ch’oe Nŭng-jin	Miscellaneous Writing
+23	390	The End of the World		Miscellaneous Writing
+23	400	Wedding Ceremony	Kim Tong-in	Novel/Fiction
+23	410	Tonggwang University Lecture 5 Chosŏn Section, The Current State of the Chosŏn Tenant Farming System	Yi Sŏng-hwan	Editorial/Article
+23	420	Tonggwang University Lecture 6 Social Issues Section, Theory of Sexual Liberation (Acquiring Healthy Sexual Freedom)	Yu Ch’ŏl-su	Editorial/Article
+23	421	Fundamental Investigation of the Salary Bonus		Editorial/Article
+23	430	Reading Room		Literary Criticism
+23	440	Weaver Girl's Lament (and 1 other poem)	Kwak Chong-su	Poem
+23	450	Modern March		News/Information
+24	010	Respectful Notice		Notice/Editorial Postscript
+24	020	Will of Steel		Editorial/Article
+24	030	Comprehensive Talk on the Manchurian Problem, Special Feature on the Problem of Koreans in Manchuria	Chu Yo-han	Editorial/Article
+24	040	The Chinese People Hold Favorable Views Towards Koreans, Special Feature on the Problem of Koreans in Manchuria	Yonyŏng Oegyo Hyŏphoe	Editorial/Article
+24	050	The Chosŏn-Chinese Conflict Incident as Seen by Japanese, Special Feature on the Problem of Koreans in Manchuria		Editorial/Article
+24	060	Ethnic Conflict and the Manchuria-Chosŏn Incident, Special Feature on the Problem of Koreans in Manchuria	Hasegawa Manjirō (Japan)	Editorial/Article
+24	070	Retrospective on the P'yŏngyang Riot Incident, Special Feature on the Problem of Koreans in Manchuria	O Ki-yŏng	Memoir/Reminiscence
+24	080	Song Carved on a Coffin, Comrades Remain, If You Must Go, Go Well	Yi Kyu-wŏn	Poem
+24	090	The Development of British Capitalism within India and Changes in its Policy	Yi Hyo-p’il (from USA)	Editorial/Article
+24	100	Unchanging Heart	Kim An-sŏ	Poem
+24	110	Peasant Movements in the Balkan Peninsula Countries	K’ŭrisŭt’ŭ Kabakuch’ip’ŭ	Editorial/Article
+24	120	Current Talk		Social Commentary
+24	130	Monthly Review of Persons, On Kim Sŏng-su	Yi Kwang-su	Editorial/Article
+24	140	How My Heart Burns	Song Sun-il	Poem
+24	150	Bird of Peace	Song Sun-il	Poem
+24	160	Kugyŏl as Ancient Korean Script, Historical Study of Korean Script (7)	Kim Yun-gyŏng	Editorial/Article
+24	170	Three Short Pieces	P’i Ch’ŏn-dŭk	Poem
+24	180	True Story - The Unjust Situation in Farming Villages		Memoir/Reminiscence
+24	190	Story of What Almost Was, What Kind of Ambition Did I Have in My Boyhood		Memoir/Reminiscence
+24	200	Story of What Almost Was, What Kind of Ambition Did I Have in My Boyhood		Memoir/Reminiscence
+24	210	Overseas Forum		Editorial/Article
+24	220	Flower Garden	Sŏnu Ki-sŏng	Poem
+24	230	Flare		Social Commentary
+24	240	Modern March		Miscellaneous Writing
+24	250	Humor		Miscellaneous Writing
+24	260	Eccentric Thinker of Aestheticism Dr. Chang Kyŏng-saeng, Biographies of Modern Chinese Thinkers	Sin Ŏn-jun (Nanjing)	Editorial/Article
+24	270	Gandhi's Autobiography, Gandhi as a Vegetarian Student in London		Memoir/Reminiscence
+24	280	Tongbong Kim Si-sŭp, Famous as a Child Prodigy	Han’gyŏl	Literary Miscellany
+24	290	Diary of Studying Abroad in Germany	To Yu-ho (from Germany)	Literary Miscellany
+24	300	Yi Saeng and Ch'oe Nang, Strange Tales from Kŭmo Sinhwa	Han'gyŏlsaeng (Translator)	Novel/Fiction
+24	310	Brain Health, The First Thing to Learn is How to Study	Chu Yo-sŏp	Editorial/Article
+24	320	Treatment for External Injuries	Yu Sang-gyu (Medical College Hospital)	Editorial/Article
+24	330	Health Q&A		Miscellaneous Writing
+24	340	Story of What Almost Was - What Kind of Ambition Did I Have in My Boyhood		Memoir/Reminiscence
+24	350	Science Page		Editorial/Article
+24	360	Science News Briefs		News/Information
+24	370	Visiting Kangso Yaksu (Mineral Spring)	Yun Kŭn (P'yŏngyang)	News/Information
+24	380	Disappearing Shadow (Overture and 1 Act), Play	Ch'ae Man-sik	Play/Scenario
+24	390	Journey to Puyŏ	Kim Sŏl-gang	Poem
+24	400	Another Ode After Rain	Kim Su-yŏng	Poem
+24	410	Ten Painful Chants Under the Scorching Sun	Chŏn Mu-gil	Poem
+24	420	Son! Don't Be Afraid	Hwang Sun-wŏn	Poem
+24	430	Comrade	Im U	Poem
+24	440	Who Makes Mother Cry? (Act 1), Play	Kim Ki-rim	Play/Scenario
+24	450	Shall I Go Like This?	Cho Chong-hyŏn	Poem
+24	460	My Mother	Yi Wŏn-jo	Poem
+24	470	Significance and Current Status of Birth Control, Tonggwang University Lecture 7 Social Issues Section		Editorial/Article
+24	480	Story of What Almost Was, What Kind of Ambition Did I Have in My Boyhood		Memoir/Reminiscence
+24	490	Fascism, Tonggwang University Lecture 8 Social Issues Section		Editorial/Article
+24	500	Reading Room		Literary Miscellany
+25	010	Respectful Notice		Notice/Editorial Postscript
+25	020	Preparation of the Foundation	Ch’unwŏn	Editorial/Article
+25	030	Japan-China Relations in Manchuria and Mongolia and Their Prospects	Kim Il-sŏng	Editorial/Article
+25	040	Proposing the Organization of a Consultative Body Regarding the Problem of Koreans in Manchuria	Sin Ŏn-jun	Editorial/Article
+25	050	The Problematic Pacific Conference: Its Purpose, History, Turmoil, etc.	Chu Yo-han	Editorial/Article
+25	060	Overseas Review (Part 1)		News/Information
+25	070	How Should We Utilize the Pacific Conference? How Should Koreans in Manchuria Survive?	Various Authors (Manuscripts in order of arrival)	Survey/Questionnaire
+25	080	The Rice Monopoly Problem	Sŏ Ch’un	Editorial/Article
+25	090	The Creation of Hunminjŏngŭm, Historical Study of Korean Script (8)	Kim Yun-gyŏng	Editorial/Article
+25	100	Those Seen in Court, The Silent Ch'oe Yun-suk	Hong Chong-in	Memoir/Reminiscence
+25	110	Recollections of That Time		Memoir/Reminiscence
+25	120	Trotsky's Life as a Merchant in Kunbu	Ham Tae-hun	Editorial/Article
+25	130	Gandhi's Autobiography, The Pain of Pretending to be Single, Episodes from Student Days		Memoir/Reminiscence
+25	140	Overseas Review (Part 2)		News/Information
+25	150	Current Talk		Editorial/Article
+25	160	Visiting the Old House of the Poet Goethe, Diary of Studying Abroad in Germany	To Yu-ho	Literary Miscellany
+25	170	True Story from Recruitment, Being Close to the People		Literary Miscellany
+25	180	Overseas Forum		Editorial/Article
+25	190	Flare	Chŏnsyoja	Social Commentary
+25	200	Side View of Writer-Reporters	Ayŏnja	News/Information
+25	210	Modern March		News/Information
+25	220	Miscellaneous Thoughts on the Music Scene	Kwŏn T’ae-ho	Literary Criticism
+25	230	110,000 War Widows Remarry		News/Information
+25	240	Causes and Prevention of Tuberculosis, Health Column	Dr. Wi	Editorial/Article
+25	250	The Chemical Value of Plants, Health Column	An Yang-saeng (in China)	Editorial/Article
+25	260	One-Line Science		News/Information
+25	270	Science March		News/Information
+25	280	Play: Let's Go See (Complete 1 Act)	Cho Yong-man	Play/Scenario
+25	290	Author of Tragedy	Yi Ŭng-su	Poem
+25	300	Five Poems for Passing Time (Rhymed) and 4 Others	Kim An-sŏ	Poem
+25	310	What Should I Do If I Wake That Dream?	Sin Sŏk-chŏng	Poem
+25	320	Song of the Old Rustic, Reading An-sŏ's Translated Poetry Criticism	Chonghan	Poem
+25	330	Kangsŏllu Pavilion	Chŏn Pong-je	Poem
+25	340	Autumn Ripening Over Vast Yellow Waves	Kim Hae-gang	Poem
+25	350	Wounded Soldier, Get Up, Get Up and Receive Your Welcome	Yi Kyu-wŏn	Poem
+25	360	Moonlit Night on the Kŭmgang River	Anonymous	Poem
+25	370	Faint Hum of Waiting Insects	Yi T'ak	Poem
+25	380	Sorrowful Memory	Cho Chong-hyŏn	Poem
+25	390	Miscellaneous Chants of Mountain Dwelling	T'aebaeksanin	Poem
+25	400	Reading Room		Literary Criticism
+26	010	Respectful Notice		Notice/Editorial Postscript
+26	020	Praise of Power	Ch’unwŏn	Poem
+26	030	Prediction? World War II!!, Original title: Will a Great War Break Out? Which Countries Will Be Opponents?		Survey/Questionnaire
+26	040	Overseas Review (Part 1)		News/Information
+26	050	Brief History of Japan-China Relations in Manchuria	Chu Yo-han	Editorial/Article
+26	060	Overseas Review (Part 2)		News/Information
+26	070	America's Manchuria Policy and the Changes in the Open Door Policy	Hwanggam	Editorial/Article
+26	080	Mother's Firm Words, On the Night Sending Older Brother Off	Cho Chong-hyŏn	Poem
+26	090	The Sino-Japanese Conflict and Sino-Russian Relations	Pak Wŏn-il	Editorial/Article
+26	100	From Economic Crisis to Political Crisis	Kim Kwang	Editorial/Article
+26	110	Modern March (Part 1)		News/Information
+26	120	New Turkey on the Road to Revival, Course of the Revolution and Recent Status of New Construction	Sin Ŏn-jun	Editorial/Article
+26	130	Workers' Income and Expenses		Editorial/Article
+26	140	School Excursions and the Athlete System, Two Major Problems in the Education World	Chu Yo-sŏp	Editorial/Article
+26	150	Three Major Problems in the Education World, 1. Pros and Cons of School Excursions 2. Pros and Cons of the Athlete System 3. Actual Results of Exam Abolition		Survey/Questionnaire
+26	160	The Activities of Spy Mata Hari, The Dramatic End of the World-Famous Femme Fatale	Ch’ŏnggwang	News/Information
+26	170	Chosŏn, Paradise of the Demon of Illness	T’aehŏ	Social Commentary
+26	180	(Health Column) The Need for a Public Health Movement	Severance Professor Yi Yong-sŏl	Editorial/Article
+26	190	The Young Person's Heart		Literary Miscellany
+26	200	Blacksmith, Poem of the Youthful Soul Gazing at the Forge	.Yi Kyu-wŏn (Poem), .Chŏn Pong-je (Cut/Illustration)	Poem
+26	210	Bullfight	Nŭlsaem	Poem
+26	220	Poet of the Narrative Period	Yi Ŭng-su	Poem
+26	230	First Experience	Hyŏnmin	Novel/Fiction
+26	240	Wilting Flower		Novel/Fiction
+26	250	Sickbed Chant on an Autumn Night	Chŏn U-han	Poem
+26	260	Reading Room		Literary Criticism
+26	270	(Special Appendix) Collection of Treaties on Far Eastern International Relations, (Appended) Comparative Table of World Powers' Armaments		Miscellaneous Writing
+26	280	Local Color of Prisons, Pusan·Taegu·Sŏdaemun·Haeju·P'yŏngyang		Memoir/Reminiscence
+26	290	Urgent Notice to Koreans in Manchuria	Yi Kwang-su	Editorial/Article
+26	300	Overseas Forum		Editorial/Article
+26	310	Thinking of the Exiles	Ch’unwŏn	Memoir/Reminiscence
+26	320	Modern March (Part 2)		News/Information
+26	330	Flare	Chŏnsyoja	Social Commentary
+26	340	Science Page		News/Information
+26	350	On Kim Tong-in, Comprehensive Talk on Literary Figures (Part 1)	Kim An-sŏ	News/Information
+26	360	Impressions of Chinese Diplomatic Figures Coming and Going Amidst Turmoil	Han Ch’ŏngsan	Memoir/Reminiscence
+26	370	Magazine Business Operators and Personality Critiques, Especially Regarding "On Kim Sŏng-su"	Editorial Bureau Iposaeng	News/Information
+26	380	Transitional Family Tragedies and Their Countermeasures	Chu Yo-han	Editorial/Article
+26	390	Stern Criticism of Family Tragedies	Various Authors	Survey/Questionnaire
+26	400	German University Student Life, Fencer Men and Women, Nude Life, Cutting-Edge Romance	To Yu-ho	Miscellaneous Writing
+26	410	Advancement of Women		News/Information
+26	420	The Text of Hunminjŏngŭm, Historical Study of Korean Script (9)	Kim Yun-gyŏng	Editorial/Article
+26	430	Revolutionary Poet Heine (1), The Dual Suffering of Reason and Romance, and Philosophy		Literary Criticism
+27	010	Respectful Notice		Notice/Editorial Postscript
+27	020	Re-recognition of Power	Ch’unwŏn	Literary Miscellany
+27	030	1931 Final Settlement, Global Trends Over the Past Year	Kim Chang-hwan	Editorial/Article
+27	040	1931 Final Settlement, Overview of the First Anniversary of the World Depression	Pak In-su	Editorial/Article
+27	050	1931 Final Settlement, The Chosŏn Women's Movement Over the Past Year	U Pong-un	Editorial/Article
+27	060	1931 Final Settlement, Literature and Arts Over the Past Year	Asea	Literary Criticism
+27	070	1931 Final Settlement, Retrospective on the Chosŏn Music Scene in '31	Hong Chong-in	Literary Criticism
+27	080	1931 Final Settlement, Mourning 1931	Songa	Literary Miscellany
+27	090	Britain's General Election and the Future of its Political Situation		Editorial/Article
+27	100	Flare	Chŏnsyoja	Social Commentary
+27	110	Discussion of Problems Regarding Sex (Part 1), Sexual Knowledge, Sex Education, Male-Female Relations	Various Authors	Survey/Questionnaire
+27	120	Discussion of Problems Regarding Sex (Part 2), Ideal Family System, Abolition of Kisaeng	Various Authors	Survey/Questionnaire
+27	130	Various Problems Regarding Sex	Chu Yo-han	Editorial/Article
+27	140	Proletarian Literature and Love	Hyŏnmin	Literary Criticism
+27	150	Literature/Arts and Love Triangles	An-sŏ	Literary Criticism
+27	160	On the Corruption of Student Morals	Chu Yo-sŏp	Editorial/Article
+27	170	On Female Students	Pang In-gŭn	Editorial/Article
+27	180	Argument for the Abolition of Kisaeng	Han Ch’ŏngsan	Editorial/Article
+27	190	Urgent Telegram No. 1		Miscellaneous Writing
+27	200	Overseas Forum		Editorial/Article
+27	210	First Middle School Student Works Publication Contest (October Results Announcement)		Literary Miscellany
+27	220	History of Korean Newspapers, Focusing on Changes in Thought	Yi Chong-su	Editorial/Article
+27	230	Comprehensive Talk on the Korean Newspaper World	Mumyŏng Kŏsa	Miscellaneous Writing
+27	240	Overseas Review		Miscellaneous Writing
+27	250	Newspaper Reporter's Failure Story, The Auction Incident of Chungmugong's Memorial Land	Pak Kŭm (Tonga Ilbo Reporter)	Memoir/Reminiscence
+27	260	The New Lineup of the Chungang Ilbo Going Strong	Ch’ŏnggwang	News/Information
+27	270	The Lineups of the Three Newspapers		News/Information
+27	280	Complaints and Demands Regarding the Newspaper World		Survey/Questionnaire
+27	290	My Errors Regarding the National Problem	To Yu-ho	Literary Miscellany
+27	300	Revolutionary Poet Heine (2), The Dual Suffering of Reason and Romance, and Philosophy	Sin Nam-ch’ŏl	Editorial/Article
+27	310	Divorce Market, Reno City		News/Information
+27	320	Arrest of Secret Meeting Participants Mistaken for Party Members		News/Information
+27	330	New Work Road, To CO	Kim An-sŏ	Poem
+27	340	Rivers and Mountains at Year's End	Cho Chong-hyŏn	Poem
+27	350	Your Face Etched in Blood!	Mo Yun-suk	Poem
+27	360	Inside the Night Tram	Han Hŭk-ku (in America)	Poem
+27	370	Mountain Song	Yohan	Poem
+27	380	That Woman and Us (Meditation)	Kim Mu-gil	Literary Miscellany
+27	390	Prelude, Here Too is an Overture.	Yi Hyo-sŏk	Novel/Fiction
+28	010	Respectful Notice		Notice/Editorial Postscript
+28	020	Chosŏn and the Activities of Big Capital	Hong Sŏng-ha	Editorial/Article
+28	030	Dissection of the Chosŏn Rural Problem, Mainly Regarding Agricultural Policy	Im Pyŏng-ch’ŏl	Editorial/Article
+28	040	Dialects of the Korean Language	Yi Kŭk-no	Editorial/Article
+28	050	Number Play in Korean Folk Songs	Ch’ŏnt’aesanin	Editorial/Article
+28	060	Ten Great Wars in Korean History	Mun Il-p’yŏng	Editorial/Article
+28	070	The Fundamental Meaning of the State and the Freedom of the People	Kim Pyŏng-no	Editorial/Article
+28	080	Our Minimum Demands on the Legal Front, Explanation of Proposals from the Lawyers' Conference	Yi In	Editorial/Article
+28	090	From the Anglo-Japanese Alliance to Anglo-Japanese Confrontation, The Economic Basis of Britain's Far East Policy	Sin Ŏn-jun (Nanjing)	Editorial/Article
+28	100	On the Prostitution System, Examining Various Opinions on Abolishing the Kisaeng System	O Ki-yŏng	Editorial/Article
+28	110	To Those Who Desire Correction of New Poems		Notice/Editorial Postscript
+28	120	East-West Past-Present Figures Roundtable Discussion		Interview/Discussion
+28	130	100 Faces of Writers		Cartoon/Comics
+28	140	1000 Poses of Musicians		Cartoon/Comics
+28	150	Mental Tests of Figures from Various Fields		Survey/Questionnaire
+28	160	Public Recommendations for the World's Top 10 Figures	Various Authors	Survey/Questionnaire
+28	170	General Mobilization of the Newspaper Front, Public Election of Executives for the "Great Unified Daily," If the 3 Korean-Language Newspapers Were All Dissolved and One Great Ideal Newspaper Appeared...		Survey/Questionnaire
+28	180	Record of Doctors' Reputations (Part 1)	T’aehŏ	News/Information
+28	190	New Women's New Year New Signal		Literary Miscellany
+28	200	Youth's Dream, Students' New Year Spirit		Literary Miscellany
+28	210	Chosŏn's 10 Great Athletes/Activists, Sokol Column	Public Recommendations by Various Authors	Survey/Questionnaire
+28	220	Health First, Starting with the Worker's Strong Body, My Health Method	Various Authors	Survey/Questionnaire
+28	230	Popularity Poll for Chosŏn's 10 Great Athletes/Activists		Notice/Editorial Postscript
+28	240	Rising Denmark and the Niels Bukh Gymnastics Method	Pak Ch’ang-ha (Chungang Kobo)	News/Information
+28	250	Biology and Immortality	Medicine PhD Yu Il-chun	Editorial/Article
+28	260	First Middle School Student Works Publication Contest, First Announcement Continued		Literary Miscellany
+28	270	Humorous Jottings		Miscellaneous Writing
+28	280	Old Man from the Homeland Ten Thousand Li Overseas, Night on the Ou River	Ch’omin (Nanjing)	Literary Miscellany
+28	290	Winter, To Yohan	An-sŏ	Poem
+28	300	Fragment	An-sŏ	Poem
+28	310	Puppet, To Tong-in	An-sŏ	Poem
+28	320	Korean Autumn	By Joan S. Grigsby, Translated Excerpt by Han Se-gwang (in USA)	Poem
+28	330	1932, With Great Sincerity Greeting the New Year, I Send This Poem to All the Youth of This Land.	Kim Hae-gang	Poem
+28	340	O Frail Boatman, Hurry and Pass By.	Yi Kyu-wŏn (Poem), Chŏn Pong-je (Cut/Illustration)	Poem
+28	350	The Toes Resemble Each Other	Kim Tong-in	Novel/Fiction
+28	360	Prelude (2)	Yi Hyo-sŏk	Novel/Fiction
+28	370	German Student's Sophistry	Nangnimsanin	Novel/Fiction
+28	380	Tonggwang Roundtable Conference	Sŏ Sang-il	Literary Miscellany
+28	390	Reading Room		Literary Criticism
+29	010	Respectful Notice		Notice/Editorial Postscript
+29	020	Song of Condolence and Consolation for Koreans in Manchuria	Lyrics by Yi Ŭn-sang	Poem
+29	030	Europe's Five-Cornered Confrontation, Reconnaissance of the Great Powers' Front in '32	Sin Ŏn-jun	Editorial/Article
+29	040	The Manchurian Incident and the Chinese Revolution	Pak Wŏn-il	Editorial/Article
+29	050	Three Foundational Tasks of the Korean National Movement	Yi Kwang-su	Editorial/Article
+29	060	Rural Education for Chosŏn's Revival, Publication of Miss Kim Hwal-lan's Doctoral Dissertation	Translated by Il Kija	Editorial/Article
+29	070	Grand View of Internal and External Affairs - Current Events Commentary	Chu Yo-han	News/Information

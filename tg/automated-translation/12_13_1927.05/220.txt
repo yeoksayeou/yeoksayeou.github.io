@@ -1,0 +1,43 @@
+Magazine Title: 동광 제13호
+Publication Date: 1927년 05월 01일
+Article Title: Katedro Esperanto(에쓰페란토講座 제5회) (Esperanto Lecture Series No. 5)
+Author: 金億
+Article Type: 논설 (Editorial/Essay)
+
+<72-74>
+[The main body text of the article, corresponding to pages 72-74, was not provided in the input. Therefore, a translation cannot be generated.]
+
+**Summary**
+
+[A summary cannot be provided as the main text content of the article is missing.]
+
+**Named Entities**
+
+金億	김억	Kim Ŏk
+
+**Glossary**
+
+동광	동광	Donggwang (Magazine Name: "Eastern Light")
+제_호	제_호	Issue number (e.g., 제13호 = Issue No. 13)
+발행일	발행일	Publication date
+기사제목	기사제목	Article title
+에쓰페란토	에스페란토	Esperanto (Note: Older spelling convention)
+講座	강좌	Lecture, course
+필자	필자	Author, writer
+논설	논설	Editorial, essay, discourse
+
+
+---------------------------
+
+
+잡지명	동광 제13호
+발행일	1927년 05월 01일
+기사제목	Katedro Esperanto(에쓰페란토講座 제5회)
+필자	金億
+기사형태	논설
+
+Katedro Esperanto
+						金億
+
+
+＜72-74＞

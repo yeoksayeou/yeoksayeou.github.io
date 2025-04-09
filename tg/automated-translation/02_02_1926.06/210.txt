@@ -1,0 +1,71 @@
+Magazine Title: 동광 제2호
+Publication Date: 1926년 06월 01일
+Article Title: (해외소식-국편) (Overseas News - Domestic Section)
+Author:
+Article Type: 소식 (News)
+
+The recently constructed massive 35,000-ton motor ship, Sata-ho, was built in 150 days, approximately 20 weeks, breaking shipbuilding records. The ship carries 2,280 passengers and 26,500 tons of cargo.
+
+Discovery of anomaly in Earth's magnetic force. Recently, Russian scientists, researching anomalies affecting the Earth's magnetic force, discovered its cause. This principle was confirmed when measuring the Kursk region (쿨쓱 지방) in Southern Russia (南露西亞), based on the fact that a layer of approximately 20 billion tons of pure iron ore (純鐵층) exists in that region.
+
+Part of a dead chick's heart has been living for over 13 years.<43> In Dr. Alexis Carrel's (알렉씨쓰, 카렐박사) laboratory, a small part of a chick's heart tissue has been cultured using artificial nutrition since 1913. It is said there is confidence that, if well-maintained, this heart can be kept from dying indefinitely into the future. Because it doubles in size daily, it is reportedly trimmed every day. If it hadn't been trimmed from the beginning, it is estimated it would now be as large as New York City (뉴욕시).
+
+According to a recent survey in the United States, 20 million automobiles are in use, an increase of 2,366,070 compared to last year, equating to one car per five people. The number of automobiles produced annually in various US car factories is 4 million, with an export value of 250 million [dollars].
+
+Recently, a new coolant called "Dry Ice" (乾氷) is being sold in the United States. This is carbon dioxide (炭酸瓦斯) made solid, resembling a cake made of clean snow. Its weight is three times that of regular ice, and since it turns directly into a gaseous state when it melts, it is not dangerous at all. Placing this "Dry Ice" underneath after making ice cream keeps it cold for a long time.<44>
+<43-44>
+
+**Summary**
+
+This news section from June 1926 covers several international developments: the record-breaking construction of a large motor ship, a Russian scientific discovery linking Earth's magnetic anomalies to iron deposits in Kursk, an ongoing experiment keeping chick heart tissue alive for over 13 years, rising automobile ownership statistics in the US, and the commercial introduction of Dry Ice as a new coolant. From a historical perspective, this article is interesting as it shows the topics of global science, technology, and industry being reported to a Korean audience during the colonial period. It reflects an awareness of international advancements in shipbuilding, physics, biology, and consumer products like cars and refrigeration, indicating Korea's connection to global information flows despite its political situation.
+
+**Named Entities**
+
+사타-호	사타호	Sata-ho
+露西亞	러시아	Russia
+南露西亞	남러시아	Southern Russia
+쿨쓱 지방	쿨스크 지방	Kursk region
+알렉씨쓰, 카렐박사	알렉시스 카렐 박사	Dr. Alexis Carrel
+뉴욕시	뉴욕시	New York City
+미국	미국	United States
+
+**Glossary**
+
+噸	톤	Ton (unit of weight, using Hanja)
+하엿스며	하였으며	and did (Older spelling/form of 하였다/했다)
+싼는다	싣는다	Loads/carries (Older spelling/form of 싣다)
+자력	자력	Magnetic force
+변칙	변칙	Anomaly, irregularity
+純鐵층	순철층	Pure iron layer
+잇다	있다	To be, to exist (Older spelling)
+길너왓다	길러 왔다	Has been raising/culturing (Older spelling/form of 기르다)
+잘아기	자라기	Growing (Older spelling/form of 자라다)
+맨들은	만든	Made (Older spelling/form of 만들다)
+갓다	같다	Is like, resembles (Older spelling)
+乾氷	건빙	Dry Ice
+炭酸瓦斯	탄산가스	Carbon dioxide gas (Uses Hanja for gas)
+묵에	무게	Weight (Older spelling)
+어름	얼음	Ice (Older spelling)
+直時	즉시	Immediately (Uses Hanja)
+밋헤다	밑에다	Underneath (Older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제2호
+발행일	1926년 06월 01일
+기사제목	(해외소식-국편)
+기사형태	소식
+
+최근 건조된 3만5천噸의 거대한 모-터선 사타-호는 150일 약 20주간에 건조하여 조선계의 기록을 파하엿스며 同船은 2천2백80인의 선객과 2만6천5백噸의 船荷를 싼는다.
+
+지구자력의 변칙-현상을 발견. 今回 露西亞 과학자 등은 지구상의 자력에 미치는 변칙의 현상을 연구한 결과 그 원인을 발견하엿는데 이 원리는 南露西亞의 쿨쓱 지방을 측정할 제 該 지방에 약 2백억噸의 純鐵층이 존재한 사실에 의하야 확증된 것이다.
+
+죽은 병아리의 심장의 일부가 13년이＜43＞ 넘도록 살고 잇다.
+알렉씨쓰, 카렐박사의 실험실에는 1913년이래 병아리 심장조직의 일소부분을 인공영양법으로 길너왓다. 그런데 잘 길으기만 하면 이 심장은 금후 얼마까지던지 죽지 안케 할 확신이 잇다 한다. 1주야에 倍式이나 잘아기 때문에 매일 잘라버린다 한다. 만일 최초부터 잘으지 안코 두엇더면 지금은 뉴욕시만치 컷슬 세음이라고.
+
+미국 최근의 조사에 의한즉 2천만대의 자동차가 사용되니 작년도에 비한즉 236만 670대의 증가로 5인에 1대식이다. 매년 미국 각 자동차공장에서 된 자동차의 수는 4백만인데 수출가격이 2억 5천만.
+
+근래 미국서 乾氷이란 이름을 가진 새 냉각제가 팔린다. 이는 炭酸瓦斯를 고체로 한 것인데 깩긋한 눈으로 떡을 맨들은 것 갓다. 묵에는 보통 어름의 3배이며 녹어도 直時 瓦斯態가 됨으로 조곰도 위험하지 안으며 아이스크림을 맨든 뒤에 밋헤다 이 「乾氷」을 너면 오래도록 간다.＜44＞
+＜43-44＞

@@ -1,0 +1,141 @@
+**Header Section:**
+Magazine Title: 동광 제12호
+Publication Date: 1927년 04월 01일
+Article Title: 朝鮮文은 複母를 쓰지 안을 것인가, 한글토론(4) (Should Korean Script Not Use Double Vowels? Hangul Discussion (4))
+Author: Not specified
+Article Type: 논설 (Editorial/Opinion Piece)
+
+**Body Text Translation:**
+Should Korean Script Not Use Double Vowels? Hangul Discussion
+1. This column allows Korean language researchers to present unique opinions.
+2. This column also includes assertions, refutations, or questions and answers regarding Korean language research.
+3. Even if the orthography or punctuation differs from this company's preferred style, manuscripts in this column only will be printed as originally written.
+
+Double vowels (複母) mean using vowels complexly. Looking at the convention of how our script has been written, it has been mistakenly established as a rule that vowels cannot be used complexly, which is truly regrettable. Even for those who conduct research upon research with many misconceptions, perfection is elusive; how much more so for our profound and incomparable script? Since modern times began, the Correct Sounds (正音, *Jeongeum*, i.e., Hangul) have been called the Vulgar Script (諺文, *Eonmun*), relegated merely for the use of women and children, while great scholars dismissed it as a trivial thing unworthy of attention, not placing particular importance on it. This is truly lamentable. Furthermore, for some time, it was hidden away among secluded monks (靑山白衲) becoming their exclusive property, unable to emerge beyond the mountains. Consequently, the methods of using vowels and consonants were not employed according to proper rules; instead, individuals asserted their private views, failing to respectfully uphold the original intent of the sagacious King Sejong (聖王) who possessed profound depth. Therefore, sound waves became complex and inconsistent, lacking clarity in pitch (high/low) and length (long/short). Only the customs handed down from Chinese characters (漢字) were adopted, <48> while the original meaning hidden within the Correct Sounds was not revealed. This cannot but be considered the fault of Korean scholars. Now, if we look at the method of representing Chinese characters, there are the four tones (4聲) of Level (平), Rising (上), Departing (去), and Entering (入), each having a mark: the Level tone mark is O, the Rising tone mark is ●, the Departing tone mark is *, and the Entering tone mark is *. By recording these like this, to find the Level tone also in Rising, Rising in Departing, and Departing in Entering, marks according to the four tones were placed beside the character. Also, because the Level tone can become Rising, Rising become Departing, and Departing become Entering, following the sound produced, adding one dot (一點) to the left of the character makes it Departing tone, adding two dots (二點) to the left makes it Rising tone, the Level tone has no dot, and the Entering tone has the same dot usage [as Departing/Rising, implying one dot] but the sound becomes abrupt (急促). It was stated that in the Correct Sounds too, this Chinese character example is used: adding one dot to the left makes it Departing tone, no dot to the left makes it Level tone, and the Entering tone has a dot and an abrupt sound. For example, for *nun* (眼, eye) there is no dot, but for *nun* (雪, snow) there is a dot, written as 눈 with a dot; for *pal* (足, foot) there is no dot, but for *pal* (簾, screen/blind) there is a dot, written as 발 with a dot; for *kam* (甘, sweet) there is no dot, but for *kam* (柿, persimmon) there is a dot, written as 감 with a dot. Considering this, our customs have been quite meticulous yet unable to break free from the foundation of Chinese characters, discarding the inherent freedom (自在) of our native script and instead adopting cumbersome and unclear methods—this can truly be called slavishness (奴性). Now, concerning consonants, they are used complexly according to sound, both same (同性) and different (異性) types being used complexly. In the initial position (初聲), same consonants like ㄲ <49> ㄸ ㅃ ㅆ ㅉ are doubled (疊用). In the final position (終聲) too, different consonants like ㄹㄱ ㄹㅂ ㄹㅁ ㄹㅍ are used in clusters (疊用). Because of this, our language is comprehensive and complete, lacking no sound that cannot be recorded, to the extent that even the sounds of wind, cries of cranes (風聲鶴唳), crowing of roosters, and barking of dogs (鷄鳴犬吠) can all be recorded. This is because the usage of vowels and consonants is exceedingly thorough (周備). Why then should it be definitively asserted that only vowels cannot be used complexly? Since the time of Mr. Ch'oe Sejin (崔世軫氏), the method of writing consonants has also been severely restricted, mistakenly decreeing (謬斷) that only these 8 letters—ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ (옛이응)—can be used in the final position (終聲), and these 6 letters—ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ—cannot be used in the final position. Arbitrarily suppressing the infinite undulations and flexibility (屈曲伸縮) of sound waves for the sake of consonants is quite lamentable, and for vowels to also suffer this collateral damage (池魚之殃) is an even more regrettable matter for vowels. Now, let me present the method of using double vowels: when intending to produce a high and long (高長) sound, if one repeats the vowel once more while reading, one can naturally produce a high and long syllable. For instance, to make the ㅏ sound high and long, write ㅏㅏ; to make the ㅓ sound high and long, ㅓㅓ; for the ㅗ sound, ㅗㅗ; for the ㅜ sound, ㅜㅜ; for the ㅡ sound, ㅡㅡ; and for the ㅣ sound, ㅣㅣ. Even if written this way, the method is simple, easy, and systematic, such that anyone in the country who sees it cannot but approve. Why then is the inherent freedom within the grammar of the Correct Sounds not applied? Instead, it causes foreigners learning our language <50> to observe the lack of high/low and long/short distinctions in the script and frame it as an underdeveloped script. Furthermore, by adopting foreign writing, namely the Chinese character method, it became indescribably cumbersome. Recently, even the esteemed Mr. Yi Nŭnghwa (李能和氏), perhaps also rejecting this method of adopting Chinese characters, used a long vowel mark when the sound was high and long in his writings. This long vowel mark was the character '-'. For *saram* (person), he wrote *sa-ram*; for *Yi Sŏbang* (Mr. Yi), *Yi-sŏbang*; for *kama-kyo* (palanquin bridge?), *ka-ma*. While this can be said to be more convenient than the Chinese dotting method, it also does not escape being cumbersome. In my opinion, it is best to discard all such irregular methods and reintroduce the unique and inherent freedom (獨特自在) of our script to the world. Often in linguistic circles, I have seen the use of double vowels. For example, when translating the Chinese language (支那語), it became unavoidable: 朋友 (friend) was written as *p'ingi*ㅜ, 高麗 (Koryŏ) as *kka*ㅗ*ri*, 九點 (nine o'clock) as *chi*ㅜ*den*, and 城裡頭 (inside the city) as *ch'yŏngnit'ŏ*ㅜ. Thus, the two letters ㅗㅜ were frequently used complexly. Writing like this allowed for accurate transcription of the speech. Why then, when recording our own language, are double vowels not used complexly, and if someone mentions it, they react with great alarm (大驚小怪) and pay no attention? I hope that all esteemed members of the academic world (學界 諸位) will reconsider this matter carefully (三復致思). It is not that they are entirely unused in our script. The two letters ㅘ and ㅝ are formed with double vowels, and there are many precedents of their common use in our language. But why must it stop at only the two letters ㅘ and ㅝ? Why can other vowels not be used complexly? Now, the method of using double vowels is recorded below: <51>
+
+이월 (February) as 이ㅣ월
+사월 (April) as 사ㅏ월
+오월 (May) as 오ㅗ월
+구월 (September) as 구ㅜ월
+한양 (Hanyang) as 하ㅏㄴ양
+대구 (Taegu) as 대ㅐ구
+이천 (Ich'ŏn) as 리ㅣ쳔 (note: older spelling/pronunciation for 이)
+의주 (Ŭiju) as 의ㅢ쥬
+진천 (Chinch'ŏn) as 지ㅣㄴ천
+공자 (Confucius) as 고ㅗㅇ자
+맹자 (Mencius) as 매ㅐㅇ자
+원서 (Application/Petition) as 워ㅝㄴ서
+난로 (Stove) as 라ㅏㄴ로
+호구 (Household) as 호ㅗ구
+진정 (Calm down/Settle) as 지ㅣㄴ져ㅕㅇ
+먼산 (Distant mountain) as 머ㅓㄴ산
+근자 (Recently) as 그ㅡㄴ자
+두권 (Two volumes) as 두ㅜ궈ㅝㄴ
+네권 (Four volumes) as 너ㅓ궈ㅝㄴ
+아홉권 (Nine volumes) as 아ㅏ호ㅗㅂ궈ㅝㄴ
+
+Above (이ㅣ자ㅏㅇ에), a few examples have been given, but the rest can be inferred by analogy (類推). Seeing it for the first time, it might seem strange (이ㅣ상한듯하나), but once it becomes customary (습과ㅏㄴ이), it will be very beautiful (매오 아람다울지니), and no one will be able to deny it. Also, recently (그ㅡㄴ일), literary figures (文學諸公) are advocating for writing our script horizontally (횡서하자). If we are to write horizontally, it will be difficult to write high and long sounds (高長音) without adopting this method. I earnestly hope and pray (深望切祝하니이다) that everyone will not dismiss these humble words (蒭言) as strange (怪오에) but will research and try using it. <52>
+
+**Summary**
+
+This 1927 editorial argues passionately for the adoption of double vowels (e.g., ㅏㅏ, ㅓㅓ) in Korean writing to represent long or high-pitched sounds, replacing the cumbersome and "slavish" reliance on methods derived from Chinese characters, such as tone marks (side dots). The author critiques the historical neglect of Hangul (dismissed as *Eonmun*) and the arbitrary restriction of final consonants attributed to Ch'oe Sejin. Citing the existing use of complex vowels like ㅘ and ㅝ, and examples from transcribing Chinese, the author proposes extending the principle systematically. The piece concludes by linking this orthographic innovation to the contemporary movement towards horizontal writing, suggesting double vowels are essential for representing vowel length/pitch in that format.
+
+From a historical perspective, this article is interesting as it reflects the intense linguistic nationalism and desire for orthographic reform in colonial Korea. It shows a conscious effort to purify the Korean script from perceived foreign (Chinese) influence and establish a uniquely Korean system based on the script's own internal logic. The critique of past scholarly neglect and the reference to Yi Nŭnghwa's alternative (the '-' mark) highlight ongoing debates about standardization. Furthermore, the connection made to the nascent discussion of horizontal writing reveals early considerations of how script directionality might impact orthographic conventions.
+
+**Named Entities**
+
+崔世軫氏	최세진씨	Ch'oe Sejinssi (Mr. Ch'oe Sejin)
+李能和氏	이능화씨	Yi Nŭnghwassi (Mr. Yi Nŭnghwa)
+漢陽	한양	Hanyang
+大邱	대구	Taegu
+利川	이천	Ich'ŏn
+義州	의주	Ŭiju
+鎭川	진천	Chinch'ŏn
+孔子	공자	Kongja (Confucius)
+孟子	맹자	Maengja (Mencius)
+支那語	지나어	Chinaŏ (Chinese language)
+漢字	한자	Hanja (Chinese characters)
+高麗	고려	Koryŏ
+
+**Glossary**
+
+複母	복모	Double vowel / Complex vowel (the article's main topic, proposed as repeating a vowel like ㅏㅏ)
+정음	정음	Correct Sounds (Hunminjeongeum, the original name for Hangul)
+언문	언문	Vulgar Script (derogatory term for Hangul)
+맥겨	맡겨	Entrusted to (older spelling)
+안엇으니	않았으니	Because (subject) did not (older spelling/form)
+하얏다	하였다	Did (older spelling/form)
+그래셔	그래서	Therefore / So (older spelling)
+안코	않고	Not doing X and... (older spelling)
+찬난 법	찾는 법	Method of finding/representing (older spelling for 찾는)
+소래나난	소리 나는	Sound-producing / The sound that occurs (older spelling)
+쓰어	써	Writing / Using (older spelling)
+아니랄슈	아닐 수	Cannot be said that it isn't / Must be (older spelling/form)
+굿태여	구태여	Adversely /굳이 (older spelling)
+쓰난	쓰는	Writing / Using (older spelling)
+믓함	묻함	Being buried / suppressed (older spelling/form of 묻히-)
+되엿으니	되었으니	Because it became (older spelling)
+하겟도다	하겠다	Will do / Seems likely (older ending)
+내랴	내랴(고)	Intending to produce/make (sound) (older form)
+옷지하야	어찌하여	Why / How (older spelling)
+배호난	배우는	Learning (older spelling)
+되엿더니	되었더니	It had become / It turned out that (older spelling)
+곳	곧	Namely / That is (older spelling of 곧)
+읽엇으니	읽었으니	Because (subject) read (older spelling)
+可타	가하다	Is possible / acceptable (Hanja term 可 + older verb ending)
+하노라	하노라	I declare / state (older declarative ending)
+흔이	흔히	Often / Commonly (older spelling)
+보왓으니	보았으니	Because (subject) saw (older spelling)
+긔록하난데난	기록하는데는	In recording / As for recording (older spelling/form)
+만치만은	많지만은	Although there are many (older form)
+이ㅣ자ㅏㅇ에	이상에	Above / In the preceding (example of proposed double vowel use + older spelling of 이상)
+몃	몇	Several / How many (older spelling)
+습과ㅏㄴ이	습관이	Habit / Custom (example of proposed double vowel use + older spelling of 습관)
+매오	매우	Very (older spelling)
+아람다울지니	아름다울지니	Will be beautiful (older spelling + ending)
+그ㅡㄴ일	근일	Recently / These days (example of proposed double vowel use + older spelling of 근일)
+횡서	횡서	Horizontal writing
+노코는	놓고는	Putting aside / Without (older spelling)
+돌이지	돌리지	Turning / Attributing / Dismissing (older spelling)
+하야써	하여서	Doing and so / Because of doing (older spelling/form)
+深望切祝	심망절축	Earnestly hope and sincerely pray (Hanja phrase)
+
+
+---------------------------
+
+
+잡지명	동광 제12호
+발행일	1927년 04월 01일
+기사제목	朝鮮文은 複母를 쓰지 안을 것인가, 한글토론(4)
+기사형태	논설
+
+朝鮮文은 複母를 쓰지 안을 것인가, 한글토론
+1. 本欄은 조선어 연구가로서 독특한 의견을 발표하게 함
+2. 本欄은 조선어 연구에 관하여 주장, 반박 혹은 質疑 解答 등도 記載함
+3. 本社의 주장과 틀린 綴字法, 句讀法이라도 本欄에만 한하여 다만 원고 그대로 함
+
+複母는 모음을 複用함이니 우리 글의 써어온 관례를 보면 모음은 複用하지 못하난 것으로 謬例를 삼엇으니 참 可惜하도다. 가장 착각이 만은 사람으로서 연구에 연구를 가하야도 완전함을 엇지 못하거던 하물며 深奧無比한 우리 글이리요. 근세 이래로 정음을 언문이라하야 한갓 婦幼에게 맥겨 사용함에 지내지 못하고 碩學大傳들은 一笆離邊物로 경시하야버리고 별로 치중치 안엇으니 실로 한심한 일이며 또 얼마 동안은 靑山白衲속에 감추여 승려의 전용물이 되고 山外를 나와보지 못하얏다. 그래셔 모음 사용하는 법과 자음 사용하는 법을 법대로 사용하지 안코 각각 私見을 주장하야 淵深하신 聖王의 本意를 奉承하지 못하얏도다. 그런 故로 音波가 複雜不一하야 고저와 장단이 분명치 못하고 다만 漢字의 전하야＜48＞온 습관을 인용할 뿐이고 정음속에 감추여 있난 본뜻은 들어내지 못하얏으니 朝鮮 學者의 허물이 아니랄슈 없도다. 이제 漢字의 글자 찬난 법(法)을 보면 平, 上, 去, 入의 4聲이 있어 각각 표가 有하니 平聲票는 O, 上聲票는 ●, 去聲票는 *, 入聲票는 *. 이러케 記하야 平聲을 上聲에도 찻고 上聲을 去聲에도 찻고 去聲을 入聲에 차지랴면 글자 옆에 4聲을 따라 표를 두고 또 平聲이 上聲도 되고 上聲이 去聲도 되고 去聲이 入聲도 되난 故로 그 소래나난 것을 좇아 글자의 左에 一點을 加하면 去聲이 되고 左에 二點을 가하면 上聲이 되고 平聲은 점이 없이며 入聲은 加點이 같고 음이 急促하게 되나니 정음에도 이 漢字例를 쓰어 左에 一點을 더하면 去聲이 되고 左에 점이 없으면 平聲이 되며 入聲은 점이 같고 음이 急促하다 하얏으니 그 예를 들면 눈(眼)하면 점이 없고 눈(雪)하면 점이 있어 눈 이러케 쓰며 발(足)하면 점이  없고 발(簾)하면 점이 있어 발 이러케 쓰고 감(甘)하면 점이 없고 감(柿)하면 점이 있어 감 이러케 쓰라 함이라. 이로 由하야 보면 우리 습관이 퍽 구구하야 한자의 기반을 벗지 못하고 邦文의 自在한 법을 내여버리고 굿태여 苟且하고 분명치 못한 법을 인용함은 참 奴性이라 할 슈 있도다. 이졔 자음에 있어서 난 음을 따라 複用하야 同性異性을 다 複用하나니 初聲에 있어서 ㄲ＜49＞ ㄸ ㅃ ㅆ ㅉ 등 同性을 疊用하고 終聲에 있어서도 ㄹㄱ ㄹㅂ ㄹㅁ ㄹㅍ 등 異性을 疊用하기도 하나니 그러함으로 우리말이 구비하고 완전하야 기록지 못할 음이 없이 至於風聲鶴唳와 鷄鳴犬吠까지라도 다 기록할 슈 있게 됨은 모음과 자음의 용도가 퍽 周備한 까닭이어늘 何故로 모음만은 複用치 못한다고 단정할 슈 있으리오. 우리 글이 崔世軫氏 이후로 자음쓰난 법도 몹시 축소하야 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ *(옛이응-국편) 此 8字만 終聲에 쓰게 되고 ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ 此 6字는 終聲에 쓰지 못한다고 謬斷하기 때문에 무한한 음파의 굴곡 신축을 임의로 믓함은 자음을 위하야 퍽 애석한 바인대 모음에 이르러서도 이런 池魚의 殃을 입게 되엿으니 모음을 위하야 더욱 恨事라 하겟도다. 이제 複母쓰난 법을 들면 이러하니 음을 高長하게 내랴 할 제 모음을 한 번 더하야 읽으면 자연 高長한 음절을 낼 슈 있으니 가령 ㅏ音을 高長하게 하면 ㅏㅏ 하고 ㅓ音을 高長하게 하여 ㅓㅓ 하고 ㅗ音을 高長하게 하면 ㅗㅗ하고 ㅜ音을 高長하게 하면 ㅜㅜ하고 ㅡ音을 高長하게 하면 ㅡㅡ하고 ㅣ 音을 高長하면 ㅣㅣ 이러케 쓸지라도 그 법이 단순하고 간이하며 또 규칙적이여셔어나 나라사람이 보던지 찬성치 안을 슈 없거늘 옷지하야 정음 문법상에 自在한 것을 적용치 안코 도늦�혀 우리말을 배호난 외국인으로 하야금 글의 高低長短이 없음을＜50＞보고 발전되지 못한 글이라고 구실을 짓게되며 또 외국문 곳 漢字法을 인용하야 구구하기 말할슈 없이 되엿더니 近日 尙云 李能和氏도 역시 이 漢字 인용법을 부인하얏던지 그 저술한 것을 보면 음이 高長할 때에 장음표을 더하야 읽엇으니 그 장음표는 곳 모음의-字라 사람ㅅ하면 사-람 리서방 이서방 하면 리-서방 가마교 하면 가-마 이러케 쓰라 하엿으니 이는 한자의 점치는 법보다 편리타할 슈 있으나 또한 구구함을 면치 못한지라. 내 생각에는 이런 불규칙한 법을 다 버리고 우리 글의 獨特自在한 법을 다시 들어내여 세상에 소개함이 可타 하노라. 왕왕히 어학계에 있어서 흔이 複母쓰난 것을 보왓으니 그 예를 말하면 支那語를 번역할 제안이 쓸 슈 없게 되여 朋友를 핑이ㅜ라하고 高麗를 까ㅗ리라하고 九點을 지ㅜ덴 이라 하고 城裡頭를 쳥리터ㅜ라 하야 흔이 ㅗㅜ 兩字를 複用하얏으니 리러케 씀으로 그 말을 잘 번력할 슈 있게 되엿거늘 하필 우리 말을 긔록하난데난 모음을 複用치 안코 혹 이를 말하면 大驚小怪하야 주의치 안으니 學界 諸位는 三復致思하시기를 바라나이다. 우리 글에도 쓰지 안음은 아니다. ㅘ ㅝ 이 두글자는 複母로 되며 우리 말에 흔이 쓰어온 전례가 만치만은 하필 ㅘ ㅝ 두 자에만 긋치고 다른 모음은 외 複用치 못하나요. 이제 複母 쓰난 법을 下에 기록하야＜51＞ 보면
+
+이월 2月을 이ㅣ월로
+사월 4月을 사ㅏ월로
+오월 5月을 오ㅗ월로
+구월 9月을 구ㅜ월로
+한양 漢陽을 하ㅏㄴ양으로
+대구 大邱를 대ㅐ구로
+리천 利川을 리ㅣ쳔으로
+의쥬 義州를 의ㅢ쥬로
+진천 鎭川을 지ㅣㄴ천으로
+공자 孔子를 고ㅗㅇ자로
+맹자 孟子를 매ㅐㅇ자로
+원서 願書를 워ㅝㄴ서로
+란로 暖爐를 라ㅏㄴ로로
+호구 戶口를 호ㅗ구로
+진졍 鎭定을 지ㅣㄴ져ㅕㅇ으로
+먼산 遠山을 머ㅓㄴ산으로
+근자 近者를 그ㅡㄴ자로
+두권 2卷을 두ㅜ궈ㅝㄴ으로
+네권 4卷을 너ㅓ궈ㅝㄴ으로
+아홉권 9卷을 아ㅏ호ㅗㅂ궈ㅝㄴ으로
+
+이ㅣ자ㅏㅇ에 몃 가지를 들엇으나 남아지는 類推하야 볼 것이다. 쳣 번 보니까 이ㅣ상한듯하나 습과ㅏㄴ이 될 것 같으면 매오 아람다울지니 누구나 긍정치 안을 슈 없일 것이다. 또 그ㅡㄴ일 文學諸公들의 주창하는 것은 우리 글을 횡서하자 함이니 만일 가로 쓸 것 같으면 이 법을 노코는 高長音을 쓰기 어려우니 여러분은 蒭言을 怪오에 돌이지 말으시고 연구하야써 보시기 深望切祝하니이다. ＜52＞
+＜48-52＞

@@ -1,0 +1,91 @@
+Magazine Title: 동광 제25호
+Publication Date: 1931년 09월 04일
+Article Title: 健康問答 (Health Q&A)
+Article Type: 잡저 (Miscellaneous Writing)
+
+Cold Water Before Meals
+
+<Question> I hear it is good to drink water before meals. Is this true, and is cold or hot water better?
+<Answer> In the morning, when we wake up and haven't yet eaten breakfast, there is nothing in the stomach except for about half an ounce of gastric juice (胃液). Since we generally tend to drink too little water, drinking a couple of glasses of water in the early morning is certainly not a bad thing. It will replenish the water our body lacks. However, it cannot be said that drinking water before meals necessarily improves digestion. Therefore, drinking water occasionally throughout the entire day, not just before meals, will likely have the same effect as drinking it before meals.
+Also, water that is too hot or too cold is not good for the body, so it is best to drink water at a suitable temperature. Furthermore, slightly cool water may be more effective than hot water in stimulating bowel movements.
+
+Tuberculosis and Marriage
+
+<Question> A certain young woman suffered from tuberculosis (페병) but has now recovered. How much longer should she wait before getting married? Also, after marriage, if she becomes pregnant, is there a risk that the tuberculosis will return?
+<Answer> The almost unanimous "Golden Rule" (金言) among doctors who study tuberculosis is: "A young woman with tuberculosis should not marry. A wife with tuberculosis should avoid pregnancy. A pregnant woman with tuberculosis should have an abortion." However, if she is said to have recovered from tuberculosis, marriage may be acceptable, but to be certain of recovery, one should observe for at least 2 years. Regarding pregnancy, it is difficult to answer without considering each individual's physical constitution (체질). If the lungs have completely recovered, pregnancy may not be an issue, but if there is even a slightly incompletely healed area, it is dangerous. Why is this? Because during the six weeks after childbirth (해산) when the uterus (자궁) contracts, the uterus releases toxins (독소) harmful to the lungs. Due to these toxins, the tubercle bacilli (페균), taking advantage of the weakened lung tissue (조직), become active again, causing the tuberculosis to relapse. <68>
+
+**Summary**
+
+This 1931 article provides health advice in a Q&A format. It discusses the benefits of drinking water, suggesting regular intake throughout the day is more important than just before meals for hydration, and noting moderately cool water aids bowel movements. The second section strongly warns against marriage and especially pregnancy for women with tuberculosis, even after apparent recovery, citing medical consensus. It details the risk of relapse postpartum due to toxins released during uterine contraction, recommending a minimum two-year waiting period after recovery before marriage and cautioning against pregnancy unless recovery is total. From a historical perspective, the article reflects contemporary public health concerns and medical understanding in colonial Korea, particularly the grave danger posed by tuberculosis, a major health issue at the time. The stark advice regarding TB, marriage, and childbirth highlights the limited treatment options and the perceived severity of the disease, offering insight into social attitudes and medical practices related to women's health and infectious diseases during that period.
+
+**Named Entities**
+
+*(No specific named people, places, or organizations were mentioned in the text.)*
+
+**Glossary**
+
+식전	식전	Before meal (食前)
+냉수	냉수	Cold water (冷水)
+아츰에	아침에	In the morning (Older spelling)
+아니 먹엇을	아니 먹었을 / 먹지 않았을	When one has not eaten (Older spelling/form)
+아모	아무	Any (Older spelling)
+으직	아직	Still, yet (Older spelling)
+반온스	반 온스	Half an ounce (半 + loanword)
+위액	위액	Gastric juice (胃液)
+들마시는	덜 마시는	Drinking less (than enough) (Older spelling/form)
+하로	하루	One day (Older spelling)
+너머	너무	Too, very (Older spelling)
+장의	장의	Intestinal (腸-)
+페병	폐병	Tuberculosis, lung disease (肺病)
+나앗는데	나았는데	Has recovered but... (Older spelling)
+잇다가	있다가	After being/waiting (Standard spelling, often written closer in older texts)
+도루	도로	Again, back (Older spelling/colloquialism)
+염려가	염려가	Worry, concern (憂慮-)
+거이	거의	Almost (Older spelling)
+金言	금언	Golden saying, maxim
+안해는	아내는	Wife is (Older spelling/form)
+임신	임신	Pregnancy (妊娠)
+임부	임부	Pregnant woman (妊婦)
+낙태수술	낙태 수술	Abortion surgery (落胎手術)
+무방하겟는데	무방하겠는데	It would be acceptable, but... (無妨-)
+알자면	알려면	If one wants to know
+년	년	Year (年)
+체질	체질	Physical constitution (體質)
+아조	아주	Very, completely (Older spelling)
+완전히	완전히	Completely (完全-)
+하드라도	하더라도	Even if one does (Older spelling/form)
+관게	관계	Relation, connection; concern (關係 - missing 'ㄴ' sound in writing)
+조곰이라도	조금이라도	Even a little (Older spelling)
+불완전히	불완전히	Incompletely (不完全-)
+위태합니다	위태합니다	It is dangerous (危殆-)
+웨	왜	Why (Older spelling)
+해산	해산	Childbirth (解産)
+자궁	자궁	Uterus (子宮)
+수축되는	수축되는	Contracting (收縮-)
+주일	주일	Week (週日)
+독소	독소	Toxin (毒素)
+퍼칩니다	퍼뜨립니다 / 퍼칩니다	Spreads (Older form/spelling)
+따문에	때문에	Because of (Older spelling)
+조직	조직	Tissue (組織)
+페균	폐균	Tubercle bacillus (肺菌)
+활동하야	활동하여	Becoming active (活動-) (Older spelling)
+재발케	재발케 (하다)	To cause relapse (再發-)
+
+
+---------------------------
+
+
+잡지명	동광 제25호
+발행일	1931년 09월 04일
+기사제목	健康問答
+기사형태	잡저
+
+健康問答
+식전 냉수
+＜문＞ 식전에 물을 마시는 것이 좋다고 하니 참말이며 냉수와 더운물이 어느 것이 더 좋습니까.
+＜답＞ 아츰에 우리가 일어나서 아직 조반을 아니 먹엇을 때에는 위에는 아모 것도 없고 으직 반온스 가량의 위액(胃液)이 잇을 뿐입니다. 그런데 우리는 대개가 물을 들마시는 까닭에 새벽에 물을 두어 잔 마시는 것은 결코 나쁜 일이 아닙니다. 그것은 우리 몸에 부족한 물을 보충할 것입니다. 그러나 물론 식전에 물을 마신다고 소화작용이 더 잘 된다고는 할 수 없겟습니다. 그러니까 비단 식전이 아니라 하로 종일 가면서 때때로 물을 마시는 것은 식전에 마시는 것과 마찬가지의 효과가 잇을 것입니다.
+그리고 너머 더운물이나 너머 찬물은 다 몸에 좋지 못하니까 알맞은 물을 마시는 것이 좋겟고 또 좀 찬물이 장의 운동을 자극하는 데는 더운물보다 효과가 잇을 것입니다.
+
+페병과 결혼
+＜문＞ 어떤 처녀가 페병으로 앓다가 지금은 나앗는데 얼마나 더 잇다가 결혼하는 것이 좋겟습니까. 또 결혼한 뒤에 임신하면 페병이 도루 생길 염려가 잇을까요.
+＜답＞ 페병을 연구하는 의사들이 거이 일치해서 가지는 金言은 『페병 가진 처녀는 시집가지 말라. 페병가진 안해는 임신을 피하라. 페병 가진 임부는 낙태수술을 하라』는 것입니다. 그러나 페병이 나앗다고 하면 결혼해도 무방하겟는데 나앗다는 것을 확실히 알자면 적어도 2 년은 보아야 될 것입니다. 그리고 임신에 관해서도 각각 개인의 체질을 보지 않고는 대답하기 어렵습니다. 페가 아조 완전히 나앗으면 임신하드라도 관게 없으나 만일 조곰이라도 불완전히 나은 곳이 잇으면 위태합니다. 웨 그러냐 하면 해산을 한 뒤에 자궁이 수축되는 6주일 동안 자궁에서는 페에 해가 되는 독소를 퍼칩니다. 그래서 그 독 따문에 페의 조직이 약한 틈을 타서 페균이 다시 활동하야 페병을 재발케 합니다.＜68＞

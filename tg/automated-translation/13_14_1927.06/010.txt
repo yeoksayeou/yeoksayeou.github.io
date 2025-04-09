@@ -1,0 +1,78 @@
+**Header Section**
+Magazine Title: 동광 제14호
+Publication Date: 1927년 06월 01일
+Article Title: 謝告 (Apology Notice)
+Author: None specified (likely editorial staff)
+Article Type: 사고·편집후기 (Notice/Editorial Postscript)
+
+**Body Text Translation**
+Apology Notice
+
+Last time, the May issue received unexpectedly high praise and was completely sold out within just one week of publication, causing much inconvenience to several hundred new readers who had requested advance payment. What is even more distressing is that we were even unable to send copies to our contributing writers. Therefore, for those who wish to subscribe to this magazine, requesting it in advance via "Postal Transfer Kyŏngsŏng No. 4" (振替京城4番) is the safest method.
+
+Furthermore, at the time of the May issue's publication, due to the post office's extremely meticulous handling, the dispatch was unavoidably delayed by several days. We apologize for this as well.
+
+Mr. U Hoik's (禹浩翊) "Mugunghwa ko" (無窮花考 - Study on the Rose of Sharon) has unavoidably been temporarily suspended, and the same applies to "P'ip'agi" (琵琶記 - Tale of the Pipa). However, we will definitely publish them starting from next month's issue.
+
+**Summary**
+
+This editorial notice apologizes to readers and contributors because the previous month's issue (May 1927) sold out extremely quickly, preventing many from obtaining a copy, including advance subscribers and even writers. It encourages readers to subscribe in advance via postal transfer to ensure they receive future issues. The notice also apologizes for a mailing delay caused by "extremely meticulous handling" at the post office and announces the temporary postponement of two articles, promising their publication in the next issue. For historians, the notice highlights the magazine's popularity despite potential distribution challenges. The mention of postal delays due to "meticulous handling" is particularly interesting, potentially hinting at scrutiny or censorship by colonial authorities, a common experience for Korean publications during this period.
+
+**Named Entities**
+
+禹浩翊	우호익	U Hoik
+京城	경성	Kyŏngsŏng
+
+**Glossary**
+
+謝告	사고	Apology Notice
+예상외	예상외	Unexpected(ly)
+대호평	대호평	Great praise, rave reviews
+발행	발행	Publication, issue
+불과	불과	Only, merely
+全數	전수	The entire quantity, all copies
+매진	매진	Sold out
+先金請求	선금청구	Request for advance payment (prepayment)
+신독자	신독자	New reader(s)
+제씨	제씨	Messrs., Ladies and Gentlemen (polite plural suffix)
+미안	미안	Sorry, apologetic
+불안	불안	Uneasy, distressing (here: regrettable)
+기고	기고	Contribution (of an article)
+보내들이지	보내드리지	(Unable) to send (honorific, older form of 보내드리지)
+本誌	본지	This magazine
+구독	구독	Subscription
+振替	진체	Postal transfer (system)
+밀이	미리	In advance (older spelling of 미리)
+안전	안전	Safe, secure
+당시	당시	At that time
+우편국	우편국	Post office
+까다로운	까다로운	Difficult, strict, meticulous, fussy
+취급	취급	Handling, treatment
+말미암아	말미암아	Due to, because of
+발송	발송	Dispatch, sending, mailing
+지연	지연	Delay
+아울러	아울러	In addition, along with
+사과	사과	Apology
+들임니다	드립니다	Offer, give (humble, older form of 드립니다)
+無窮花考	무궁화고	Study on the Rose of Sharon (Mugunghwa)
+부득이	부득이	Unavoidably, inevitably
+휴게	휴게	Suspension, temporary cessation (of publication)
+琵琶記	비파기	Tale of the Pipa (a type of lute)
+그리하었사오나	그리하였사오나	Although it was so (older, formal conjugation)
+來月號	내월호	Next month's issue
+붙어는	부터는	Starting from (older form of 부터는)
+게재	게재	Publication (in print), carrying (an article)
+
+
+---------------------------
+
+
+잡지명	동광 제14호
+발행일	1927년 06월 01일
+기사제목	謝告
+기사형태	사고·편집후기
+
+謝告
+지난번 5월호는 예상외의 대호평으로 발행된지 불과 1주간에 全數 매진되었음으로 인하여 先金請求하신 수백 신독자 제씨에게 대하여 미안한 일이 매우 많았음니다. 더욱이 불안한 것은 기고하신 여러분에게 보내들이지 못하기까지 하였음이외다. 그런즉 本誌를 구독하실 분은 「振替京城4番」으로 밀이 청구하여 두시는 것이 가장 안전함니다.
+더욱이 5월호 발행 당시에는 우편국에서의 몹시 까다라운 취급으로 말미암아 할 수 없이 발송이 幾日  지연되었음니다. 이에 아울러 사과들임니다.
+禹浩翊씨의 「無窮花考」는 부득이 잠깐 休揭하게 되었사오며 「琵琶記」도 그리하었사오나 來月號붙어는 꼭 게재하겠음니다.

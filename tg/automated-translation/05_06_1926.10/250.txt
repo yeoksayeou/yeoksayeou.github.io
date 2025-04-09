@@ -1,0 +1,240 @@
+**Header Section:**
+Magazine Title: 동광 제6호
+Publication Date: 1926 October 01
+Article Title: 諺文의 出處 (The Origin of Ŏnmun)
+Author: 安自山 (An Chasan)
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation:**
+The Origin of Ŏnmun
+						An Chasan
+
+Recently, those who speak of the origins of Ŏnmun (Korean vernacular script) are not few in number. Among Westerners, there are Messrs. Scott, Hulbert, Aston, and Gale. Among Japanese, there are Messrs. Shiratori (白鳥) and Kanazawa (金澤). Among Koreans, none have yet emerged, and perhaps only I have mentioned it several times.
+
+That the value of Ŏnmun is quite remarkable has already been brought to the world's attention by Mr. Gale, and scholars around the world praise it highly, saying it is much better made than the scripts of various other countries. However, concerning its origin, various theories are circulating, and it is a subject that scholars are deeply pondering.
+
+Examining the various circulating theories at this time, there are two main ones: one is that it was based on Indian script, and the other is that it modeled Chinese characters (漢字). The Indian script theory has already been thoroughly refuted by Mr. Gale in the English-language magazine "Korea," so I have nothing further to add. However, concerning the Hanja theory school, I wish to argue slightly.
+
+Mr. Gale, while comparing Sin Kyŏngjun's (申景濬) T'aegŭk theory, also brought up the preface of the Kangxi Dictionary (康熙字典) and suggested it seemed to have come from Hanja. I say, disregarding the fact that the Kangxi Dictionary was compiled several centuries after the promulgation of Ŏnmun, claiming that King Sejong modeled it after Hanja is difficult to accept as correct. Although Chŏng Inji's (鄭麟趾) preface originally contained the phrase "characters modeled on ancient seal script (字倣古篆)," this is merely a suggestive phrase implying that King Sejong created Ŏnmun with a connection to Hanja, so do not oppose it but revere it alongside Hanja. It was not truly made by imitating Hanja. Therefore, even looking at the words of Confucian scholars who opposed it at the time of its promulgation, saying, "If one claims Ŏnmun is entirely based on ancient characters and not new characters, then although the character shapes may imitate ancient seal script, the use of sound to combine characters is completely contrary to the ancient ways, truly without basis (儻曰諺文 皆本古字 非新字也則 字形雖倣古之篆文 用音合字 盡反於古 實無所據)" (from the *Sejong Sillok* 世宗實錄), one can infer that it was definitely not made by modeling Hanja. Furthermore, if one selects from books like *Hapbyŏngjip'un* (合併集韻), *Kogŭm Unhoe Kŏyo* (古今韻會擧要), *Sŏlmun Chahae* (說文字解), etc., there are indeed characters similar to Ŏnmun letters like ㅠ, ㄹ, ㄷ, *, ㄴ, ㅣ, ㅗ, ㄱ, ㅍ, ㅂ, ㅇ, ㆍ, ㄹ, ㅌ. However, their sounds and meanings do not match, and their combinatorial structures are entirely different. If one were to discuss lineage based solely on character shape, disregarding sound, meaning, and combinatorial structure, why limit it to Hanja? The scripts of various countries have many similarities; following these similarities, couldn't one even say it derived from today's Roman alphabet? We declare that arguing based solely on form through such intuitive views is utterly inappropriate. <65>
+
+The *Sejong Sillok* states, "His Majesty (上) considered that while various countries each create characters to record their national languages and dialects, only our country lacked this. Therefore, he finally created 28 basic letters (子母二十八字) and named them Ŏnmun (名曰諺文)." From this document, we can sufficiently know that King Sejong consulted the scripts of various countries and created Ŏnmun to be outstanding among them. The scripts of various countries visible at that time were Mongolian (蒙古), Manchu (滿洲), Jurchen (女眞), Hanja (漢字), Arabic/Persian? (大食), Turkish (土耳其), Western Xia (西厦), Khitan (契丹), Luoluo? (玀猓), Japanese (日本), Tibetan (西藏), and Indian (印度), totaling 12 types. Thus, one can glimpse that Ŏnmun was created uniquely, unlike these 12 types of script.
+
+Then, where lies the basis for its unique creation? It is none other than this: As stated by Sin Sukchu (申叔舟), one of the committee members for the establishment of Ŏnmun at the time, in the *Pohanjip* (保閑集), "King Sejong the Great (世宗莊憲大王) paid attention to phonology (音韻學), thoroughly researched its depths (窮硏底蘊), and created several Hunminjŏngŭm letters (創制訓民正音若干字). The sounds of all things, none cannot be obtained (萬物之聲 無不可得)." It is clear that King Sejong first researched based on phonology. What phonological studies existed at that time? Besides the *Chamo To* (字母圖) and *Hongmu Un* (洪武韻), of course, there were:
+
+*   *Chaŭm Sasŏng Chŏrun* (字音 四聲切韻)
+*   *Sasŏng Po* (四聲譜)
+*   *Sasŏng Non* (四聲論)
+*   *Chŏrun* (切韻)
+*   *Kwangun* (廣韻)
+*   *Kyŏngjŏn Sŏgŭm* (經典釋音)
+*   *Kyŏngjŏn Chibŭm* (經典集音)
+*   *Ŭmgyŏl* (音訣)
+*   *Unhae Kamywŏn* (韻海鑑源)
+*   *Kwang Chŏrun* (廣切韻)
+*   *Chŏrun Chinam* (切韻指南)
+*   *Tang Kwangun* (唐廣韻)
+*   *Chŏrun Chijang To* (切韻指掌圖)
+*   *Unbo* (韻補)
+*   *Kun'gyŏng Ŭmbyŏn* (群經音辨)
+*   *Chibun* (集韻)
+*   *Kugyŏng Unbo* (九經韻補)
+*   *Yebu Unnyak* (禮部韻略)
+*   *Ch'irŭm Yak* (七音略)
+*   *Oŭm Chibun* (五音集韻)
+*   *Sasŏng P'yŏnhae* (四聲編海)
+*   *Kogŭm Unhoe* (古今韻會)
+
+There were 25 or 26 types, many of which can still be obtained and viewed today. What is the logical interpretation of this phonology? It all asserts the principles of musical theory (樂理), that is, the principles of music. Therefore, the phonology King Sejong researched was based on musical theory, which can be known. In other words, I assert that he created Ŏnmun based on musical theory. Originally, King Sejong first organized music, completing it in the 17th year of his reign, and subsequently began creating Ŏnmun. Even examining the sequence of these projects, one can understand how closely music and Ŏnmun were linked.
+
+Delving deeper into research from this perspective, one will find that the composition of Ŏnmun's character shapes was certainly symbolized from musical theory. In the interpretation of the *Hongwu Chŏng'un* (洪武正韻), the pronunciation diagrams for guttural (牙), lingual (舌), labial (唇), dental (齒), and velar (喉) sounds correspond to the musical scale notes of Gong (宮), Shang (商), Jiao (角), Zhi (徵), and Yu (羽).
+
+[Table showing correspondence between articulation points (牙, 舌, 唇, 齒, 喉), musical notes (宮, 商, 角, 徵, 羽), and basic Hangul consonant shapes (ㄱ, ㄴ, ㅁ, ㅅ, ㅇ)]
+
+Looking at this table, one can discover how systematically the character shapes were formed. Interpreting it now, the basic shapes of the characters lie in the five letters (ㅣ, ㄴ, ㅁ, ㅅ, ㅇ) [Note: the author seems to list vowels/consonants inconsistently here vs. the table/later explanation; the core consonants discussed are ㄱ, ㄴ, ㅁ, ㅅ, ㅇ], and the others were made by adding one (一) or two (二) strokes to these five letters. <66>
+
+Composition of Initial Consonant Characters (初聲字)
+
+ㅣ [Note: seems typo for ㄱ]……ㄱㅋ
+ㄴ……ㄷㅌ
+ㅁ……ㅂㅍ
+ㅅ……ㅈㅊ
+ㅇ……ᅙㅎ
+
+Where do these five basic shapes originate? They came from symbolizing musical theory.
+(1) ㅇ........ is a guttural sound (喉音) belonging to the Gong (宮) note. Therefore, it is based on the principle of Gong: "Gong means center (宮 中也). It resides in the center, extending to the four directions (居中央 暢四方). Its * [character missing, likely 性 'nature'] is round (圓)."
+(2) ㄱ [Original uses non-standard symbol ]........ is a velar sound (牙音) belonging to the Jiao (角) note. Therefore, it is based on the principle of Jiao: "Jiao means touch/angle (角 觸也). Its nature is straight (其性 直)." Why is the basic character ㄱ [] and not 一? This is none other than because its sound is voiced. Therefore, like adding ㅇ to 一 [?] to make ㄱ [], it was created thus. (Initial sound of the character 業) [Note: The explanation here is somewhat convoluted and possibly contains typos or non-standard symbols].
+(3) ㄴ....... is a lingual sound (舌音) belonging to the Zhi (徵) note. Since it cannot be formed following the nature of Zhi, it is based on the interpretation in the *Ch'ŏrun To* (切韻圖): "To know Zhi, the tongue touches the teeth (欲知徵 舌柱齒)." Thus, it is formed from the nature of Zhi, 'bright and distinguishing things' (明 而辨物), resulting in (ㄴ).
+(4) ㅅ...... is a dental sound (齒音) belonging to the Shang (商) note. The nature of Shang is originally described as square (方). However, if drawn as square, it would match the Yu character [ㅁ]. Therefore, it was specifically made using the shape of the teeth (齒). The diagram for teeth has been drawn as ㅅ since ancient times, and the ancient seal character for teeth (齒) was also written as *. [Character missing]
+(5) ㅁ....... is a labial sound (脣音) belonging to the Yu (羽) note. Its nature is the opposite of Gong (宮); thus, it was assumed to be the opposite of round (圓), which is square (方), and formed accordingly.
+
+Regarding the semi-vowel characters (半音字), they were made by combining the characters from the two related sides:
+ㄹ....... is an intermediate sound between velar and lingual (牙舌の間音), so (ㄱㄷ) were combined.
+ㅿ [Original uses non-standard symbol ]....... is an intermediate sound between dental and lingual (齒舌の間音), so (ㅅㄴ) were combined. [Note: ㅿ is generally considered purely dental/sibilant, not intermediate].
+
+The composition of initial consonant characters can be generally interpreted as above. Furthermore, analyzing the structure of medial vowel characters (中聲字), it generally becomes as follows:
+ㅡ.......ㅗㅛㅜㅠ (imagining the movement of the lips, 唇)
+ㅣ.......ㅏㅑㅓㅕ (imagining the movement of the oral cavity, 口腔)
+
+The basic shapes of the medial vowel characters are the horizontal line (ㅡ) and the vertical line (ㅣ). The origin of these vertical and horizontal lines also comes from musical theory. In works like the *Hwang'gŭk Kyŏngse Sŏ* (皇極經世書) and *Siak Hwasŏng* (詩樂和聲), it is stated, "Sound constitutes the Lǜ (聲爲律), Tone constitutes the Lǚ (音爲呂). One warp (經), one weft (緯); one vertical (縱), one horizontal (橫), and the complete number of sounds and tones is equipped (而聲音之全數 具矣)." Thus, they were formed according to this. The dot (ㆍ) [Original uses non-standard symbol ] seems to affirm the vertical and horizontal as yin and yang (陰陽) to correspond to the T'aegŭk (太極). There is evidence in music books (樂書) stating, "The length of the Huangzhong pipe is called the One T'aegŭk (黃鐘之長曰 一太極)."
+Therefore, I call Ŏnmun a symbolism of musical theory (樂理적 상징).
+
+Origin of the Five Notes (五聲)
+The Yellow Emperor (黃帝) sent Ling Lun (伶倫) to retrieve bamboo from Xiegu (解谷). He took pieces that grew naturally hollow with uniform thickness, cut them, and blew into them to establish the Huangzhong pitch pipe (黃鐘之害). By adding and subtracting lengths, he created twelve pipes (十二筩) to form the twelve chromatic pitches (十二律). From these, the five notes (五聲) were derived, called Gong (宮), Shang (商), Jiao (角), Zhi (徵), and Yu (羽). They were distinguished by clarity and turbidity, high and low pitch. For example, Gong is the lowest and most turbid, Shang is the next lowest/turbid, Jiao is between clear/turbid and high/low, Zhi is next higher/clearer, and Yu is the highest and clearest. (From *T'onggo* 通攷) <67><65-67>
+
+**Summary**
+
+An Chasan argues against prevailing theories that Hangul (Ŏnmun) originated from Indian scripts or was merely adapted from Chinese characters (Hanja). He refutes the Hanja-origin theory by highlighting the temporal gap between Hangul's creation and the Kangxi Dictionary, citing King Sejong's explicit aim to create a unique script (*Sejong Sillok*), and noting that despite superficial resemblances, the sound values and combinatorial principles differ entirely from Hanja. Instead, An proposes that King Sejong, a scholar of phonology (음운학) and music theory (樂理), derived Hangul's shapes systematically from articulatory phonetics (positions of throat, tongue, lips, etc.) symbolized through the five notes of the traditional East Asian musical scale (Gong, Shang, Jiao, Zhi, Yu) and principles like yin-yang and T'aegŭk. This article, written during the Japanese colonial period (1926), is significant for its assertion of the unique, scientific, and indigenous origins of the Korean alphabet, implicitly countering colonial narratives that might diminish Korean cultural achievements. Historians might find the detailed engagement with specific linguistic and musical theories, the rebuttal of foreign scholars' views, and the emphasis on Sejong's independent innovation particularly interesting as an example of Korean intellectual discourse defending national identity through cultural heritage under colonial rule.
+
+**Named Entities**
+
+Scott	-	Scott
+헐벗	헐버트	Hulbert
+Aston	-	Aston
+재일	게일	Gale
+白鳥	백조	Shiratori (Kurakichi?)
+金澤	김택	Kanazawa (Shōzaburō?)
+安自山	안자산	An Chasan
+申景濬	신경준	Sin Kyŏngjun
+康熙字典	강희자전	Kanghŭi Sajŏn (Kangxi Dictionary)
+鄭麟趾	정인지	Chŏng Inji
+世宗大王	세종대왕	Sejong Taewang (King Sejong the Great)
+世宗實錄	세종실록	Sejong Sillok
+蒙古	몽고	Monggo (Mongolia)
+滿洲	만주	Manju (Manchuria)
+女眞	여진	Yŏjin (Jurchen)
+漢字	한자	Hanja (Chinese Characters)
+大食	대식	Taesik (Arabia/Persia?)
+土耳其	토이기	T'oigi (Turkey) [Note: Older Korean term for Turkey]
+西厦	서하	Sŏha (Western Xia)
+契丹	거란	Kŏran (Khitan)
+玀猓	라라	Nara (Luoluo/Yi people?) [Note: 玀猓 is an old exonym]
+日本	일본	Ilbon (Japan)
+西藏	서장	Sŏjang (Tibet)
+印度	인도	Indo (India)
+申叔舟	신숙주	Sin Sukchu
+保閑集	보한집	Pohanjip
+洪武韻	홍무운	Hongmu Un (Hongwu Yun)
+黃帝	황제	Hwangje (Yellow Emperor)
+伶倫	영륜	Yŏngnyun (Ling Lun)
+解谷	해곡	Haegok (Xiegu)
+
+**Glossary**
+
+諺文	언문	Ŏnmun (Vernacular script; older term for Hangul)
+出處	출처	Origin; source
+근래	근래	Recently (older spelling sometimes used like 'keullae')
+안타	않다	Is not (Older negative verb ending form of 아니하다)
+잇섯는지라	있었는지라	As there was/were (Older spelling/form of 있다)
+들레어	들려	Being heard; circulating (Older spelling/form of 들리다)
+기피	깊이	Deeply (Older spelling)
+궁리하는	궁리하는	Pondering; deliberating
+시처 보면	시처 보면	Examining; looking into (Possibly archaic or dialectal form)
+本바닷다	본받았다	Modeled after; imitated (Older spelling/form of 본받다)
+부인하엿슴으로	부인하였으므로	Because (he) denied/refuted (Older spelling/form)
+論難코지	논란하고자	Intending to argue/dispute (Older spelling/form)
+비기어	본떠/비교하여	Modeled after; compared to (Older form)
+올타하기	옳다 하기	To say it is correct (Older spelling/form)
+尊崇하여라	존숭하여라	Revere; hold in high esteem (Imperative form)
+模倣하여	모방하여	Imitating; copying
+유생들	유생들	Confucian scholars
+닷지 안코	같지 않고	Not being the same as; different from (Older form of 같지 않다)
+부팀새	붙임새	Structure; way of combining/attaching (Possibly archaic)
+도저	도저히/아주	Utterly; completely
+엿볼 수	엿볼 수	Can glimpse; can get a peek at
+非他라	비타라	Is none other than (Formal, archaic expression)
+제정	제정	Establishment; enactment
+留意音韻學	유의음운학	Paying attention to phonology
+窮硏底蘊	궁연저온	Thoroughly researching the depths/fundamentals
+樂理	악리	Musical theory; principles of music
+可知할지라	가지할지라	Can be known (Older grammatical form)
+연쇄된	연쇄된	Linked; connected in series
+자형 구성	자형 구성	Character shape composition/structure
+상징된	상징된	Symbolized
+발음 도해	발음 도해	Pronunciation diagram/illustration
+音階	음계	Musical scale
+合符하엿나니	합부하였나니	Corresponds to; matches (Older spelling/form)
+원형	원형	Original form; prototype
+가하여	가하여	Adding (a stroke)
+喉音	후음	Guttural sound
+宮聲	궁성	Gong note/sound (Lowest note in pentatonic scale)
+牙音	아음	Velar sound
+角聲	각성	Jiao note/sound (Middle note)
+舌音	설음	Lingual sound
+徵聲	치성	Zhi note/sound (Second highest note)
+齒音	치음	Dental/Sibilant sound
+商聲	상성	Shang note/sound (Second lowest note)
+脣음	순음	Labial sound
+羽聲	우성	Yu note/sound (Highest note)
+間音	간음	Intermediate sound
+中聲字	중성자	Medial sound character (Vowel)
+횡선	횡선	Horizontal line
+종선	종선	Vertical line
+縱橫	종횡	Vertical and horizontal; warp and weft
+음양	음양	Yin and Yang
+태극	태극	Taegeuk; Supreme Ultimate
+應合한	응합한	Corresponding to; agreeing with
+證據	증거	Evidence; proof
+余	여	I; me (Formal, literary pronoun)
+통고	통고	Comprehensive study/reference (likely refers to 文獻通考)
+
+
+---------------------------
+
+
+잡지명	동광 제6호
+발행일	1926년 10월 01일
+기사제목	諺文의 出處
+필자	安自山
+기사형태	논설
+
+諺文의 出處
+						安自山
+근래 諺文의 연원을 말한 이들은 그 수효가 적지 안타. 구미인으로는 스코트(Scott), 헐벗(Hulbert), 아스톤(Aston), 재일(Gale) 諸씨들이요. 일본인으로는 白鳥, 金澤 諸씨들이요. 조선인으로는 아직 나지안코 오로지 내가 여러 번 일른 일만 잇섯는지라.
+언문의 금새가 얼마콤 훌륭하다는 것은 이미 게일씨가 세계에 일깨엇슴으로 세계의 학자들은 칭찬을 만히하여 여러 나라의 글ㅅ자들보다 매우 잘된 것이라고 하는 것이라. 그러나 그출처에 대하여는 여러가지 말이 들레어 학자들이 기피 궁리하는 바이라.
+時方 그 여러가지 들레는 말을 시처 보면 두 가지인데 一은 印度字를 本바닷다 하는 것이요. 一은 한자를 模뜬것이라 하는 것이라. 그 印度字說은 이미 게일씨가 英字로 발행하는 「朝鮮」이란 잡지에 대하여 자세히 부인하엿슴으로 나는 다시 말할 것이 업거니와 漢字說 派에 대하여는 조곰 論難코지 하노라.
+게일씨는 申景濬씨의 太極說을 비기는 동시에 康熙字典의 序文을 들이대어 漢字로 나온 것인 듯하게 소리하엿는지라. 필자는 말하되 康熙字典의 저술 년대가 언문 발행 이후 근 수백년의 차이되는 것은 불구하고 세종대왕이 한자를 비기어 만들엇다 함은 올타하기 어려운일이라. 본래 鄭麟趾 序文에 『字倣古篆』이라 한 일이 잇스나 이는 세종께서 언문을 한자와 관계가 잇게 만들엇스니 반대하지 말고 한자와 한가지로 尊崇하여라 하는 암시에 불과한 문구요. 정말 한자를 模倣하여 만든 것이 아니니 그럼으로 발표 당시에 유생들이 반대하여 말하되 『儻曰諺文 皆本古字 非新字也則 字形雖倣古之篆文 用音合字 盡反於古 實無所據』라 한 말(世宗實錄)을 볼지라도 결코 漢字를 비기어 만들지 안흔 것을 짐작할 것이라. 또한 合倂集韻, 古今韻會擧要, 說文字解 등 書에 골라보면 아무렴 ㅠ  ㄷ *  ㄴ ㅣ ㅗ ㄱ ㅍ ㅂ   ㄹ ㅌ 들과 한 가지로 언문과 비슷한 글ㅅ자가 잇는지라. 그러나 그 音意가 닷지 안코 그 부팀새도 전부 틀니는지라. 만약 그 音意와 그 부팀새를 不顧하고 다못 자형만 가지고 그 계통을 의논할진대 하필 한자뿐일까 각국의 글ㅅ자는 다 서로 비슷한 것이 만흐니 그 비슷한 것을 조차 말하면 대기에 잇서 今日 羅馬字에서 나왓다 하여도 可치 아니할까. 우리는 그가티 직관적 견해로 형상만 들어 말하기는 도저 부당한 일이라 하노라.＜65＞
+世宗實錄에 『上 以爲 諸國 各製文字 以記其國文方言 獨我國無之 遂製子母二十八字 名曰諺文』이라 하엿스니 世宗이 각국의 문자를 다 참고하시고 그 중에 뛰어나게 언문을 만드신 것은 족히 이 文書로써 알 것이라. 그 당시에 보이던 각국 문자는 蒙古字, 滿洲字, 女眞字, 漢字, 大食字, 土耳其, 西厦, 契丹, 玀猓, 日本, 西藏, 印度 등 12종이니 諺文은 곳 이 12종 문자에 닷지안케 독특하게 지으신 것을 가히 엿볼 수 잇는 것이라.
+그러면 그 독특하게 지으신 근거는 어대 잇는가. 이는 非他라. 당시 언문 제정의 위원 중 1인이던 申叔舟의 말한 바 保閑集에 『世宗莊憲大王 留意音韻學 窮硏底蘊 創制訓民正音若干字 萬物之聲 無不可得』이라 한 것과 가티 세종이 먼저 音韻學을 근거하여 연구하신 것이 분명한 일이라. 그 때에 잇던 音韻學은 무엇이냐 하면 字母圖, 洪武韻은 물론이요.
+字音 四聲切韻
+四聲譜 四聲論
+切韻 廣韻
+經典釋音 經典集音
+音訣 韻海鑑源
+廣切韻 切韻指南
+唐廣韻 切韻指掌圖
+韻補 群經音辨
+集韻 九經韻補
+禮部韻略 七音略
+五音集韻 四聲編海
+古今韻會
+25, 6종이 잇섯는데 이 책들은 지금도 만히 어더 볼 수 잇는 것이라. 이 음운학의 논리 해석이 어떠하냐 하면 모도 樂理 곳 음악의 이치를 주장하여 노흔 것이라. 그런즉 세종이 연구하신 음운학은 곳 樂理에 기초한 것을 可知할지라 다시 말하면 樂理에 근거하여 언문을 만드신 줄로 주장하노니 본래 세종이 먼저 음악을 정리하여 그 17년에 마치시고 因하여 언문 짓기를 시작하셧스니 그 사업의 順序를 살필지라도 音樂과 諺文의 관계가 얼마콤 연쇄된 줄을 알 것이라.
+이로써 점점 기피 들어가 연구하면 언문의 자형 구성이 확실히 樂理에서 상징된 줄을 알 것이라. 洪武正韻 해석에 牙, 舌, 唇, 齒, 喉의 발음 도해를 宮, 商, 角, 徵, 羽의 樂音階에 合符하엿나니
+
+
+이 표를 노코보면 그 자형의 구성이 어떠케 규칙적으로 된 것을 발견할지니 지금 해석하여 말하면 字의 원형은(ㅣㄴㅁㅅㅇ) 5자에 잇고 기타는 이 5字에 (一) 혹 (二)를 가하여 만든 것이라.＜66＞
+
+初聲字의 構成
+
+ㅣ……ㄱㅋ
+ㄴ……ㄷㅌ
+ㅁ……ㅂㅍ
+ㅅ……ㅈㅊ
+ㅇ……ᅙㅎ
+
+그 원형의 5자는 그 출처가 어대 잇는냐 하면 곳 樂理를 상징함에서 나온 것이라.
+(1) ㅇ........字는 喉音으로서 宮聲에 속한 것이라. 고로 宮의 理 『宮 中也 居中央 暢四方 其* 圓』이라함에 의하여 된 것.
+(2) ........字는 牙音으로서 角聲에 속한 것이라. 고로 角의 理 『角 觸也 其性 直』이라 함에 의하여 된 것. 그런데 本字가 -가 아니요. 이 됨은 何오 이는 非他라. 그 음이 곳 유성음이라 고로   등과 가티 -에 ㅇ을 가하여 으로 지은 것이니라.(業字 初發聲)
+(3) ㄴ.......字는 舌音으로서 徵聲에 속한 것인데 이는 徵性을 從하면 구성키 불능함으로 切韻圖에 『欲知徵 舌柱齒』라 한 해석에 의하여 徵의 性 明 而辨物이란 곳(ㄴ)으로 된 것.
+(4) ㅅ......字는 齒音으로서 商聲에 속한 것인데 商性은 본시 方이라 한 바 만일 方으로 畵하면 羽字와 서로 마침으로 특히 齒의 形으로써 지으니 齒의 圖는 古로부터 ㅅ으로 지은 바 齒의 古篆字도 *로 書하엿나니라.
+(5) ㅁ.......字는 脣음으로서 羽聲에 속한 것이니 羽의 性이 宮과 반대된 것 곳 圓의 반대 方으로 가정하여 된 것이니라.
+기타 半音字에 대하여는 그 半音의 관계된 兩方의 字를 合하여 만든 것이니
+ㄹ.......牙舌의 間音이라 고로 (ㄱㄷ)를 합
+.......齒舌의 間音이라 고로 (ㅅㄴ)을 합
+初聲字의 구성은 대개 右와 가티 해석할지요. 또한 中聲字의 구조를 폴어 보면 대개 下와 가티 되나니라.
+ㅡ.......ㅗㅛㅜㅠ(唇의 동작을 가상)
+ㅣ.......ㅏㅑㅓㅕ(口腔의 동작을 가상)
+中聲字의 원형은 (ㅡ) 횡선 (ㅣ) 종선으로 된 것이니 그 종횡의 출처도 역시 樂理에서 나온 것이니 皇極經世書, 詩樂和聲 등에 『聲爲律 音爲呂 一經一緯一縱一橫 而聲音之全數 具矣』라 함에 의하여 된 것이요. 은 곳 縱橫을 음양으로 긍정하여 써 태극을 應合한 것인가 하노니 樂書에도 『黃鐘之長曰 一太極』이라 한 證據가 잇나니라.
+이로써 余는 諺文을 樂理적 상징이라 하노라.
+
+五聲의 出處
+黃帝使伶倫, 取竹於解谷, 生而空竅厚薄均者, 斷而吹之 以爲黃鐘之害, 增損長短之制十二筩, 以成十二律, 於是, 文之而五聲, 曰宮商角徵羽, 以淸濁下分之, 如宮爲最濁, 商次下濁, 角在淸濁高下之間, 徵次高次淸, 羽最高最淸是也(通攷) ＜67＞＜65-67＞

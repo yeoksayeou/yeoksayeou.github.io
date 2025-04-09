@@ -1,0 +1,92 @@
+Magazine Title: 동광 제8호
+Publication Date: 1926년 12월 01일
+Article Title: 古朝鮮族과 太極 (The Ancient Chosŏn People and the Taegeuk)
+Author: 自山 (Chasan)
+Article Type: 문예기타 (Literature/Miscellaneous)
+
+The Ancient Chosŏn People and the Taegeuk
+						Chasan
+
+I have repeatedly published explanations dividing the Ancient Chosŏn people (古朝鮮族) into three types: East, West, and Central. I have also previously described how the Eastern Chosŏn people (東朝鮮族), that is, the Main Chosŏn people (本朝鮮族), were further divided into two parts, North and South. The Northern tribes (北族) were arranged in an L-shape (ㄱ자형), comprising the five states of Northern Puyŏ (北扶餘), Eastern Puyŏ (東扶餘), Suksin (肅愼), Okchŏ (沃沮), and Yemaek (濊貊). The Southern tribes (南族) were arranged in an L-shape (ㄴ자형), comprising the Three Han (三韓): Mahan (馬韓), Pyŏnhan (弁韓), and Chinhan (辰韓).
+
+Now, if one were to artistically depict the arrayed state (列立狀態) of these Eastern Chosŏn people, I believe it closely resembles the shape of the Taegeuk (太極).
+
+Therefore, although the depiction of the Taegeuk on the later national flag (國旗) originally descended from its use as a military banner (纛旗), considered from another perspective, the Taegeuk symbol perhaps represents the state of ethnic distribution (民族分布) implicitly impressed (暗然히 印象되엇다가) upon the inner depths (奧底) of the national spirit, gradually manifesting as a representative symbol (代表的 符號). It was not accidental. Though its origin (緣起) may be said to come from Confucianism (儒道), the spirit in which it was adopted (取採한 精神) seems to be a natural synthesis (自然히 化合된 것) stemming from a long-held impression in the mind (頭腦). Thus, I believe the Taegeuk is a symbol (象徵) of the distribution of the Main Chosŏn people. <28>
+
+Arrayed State of the Eastern Chosŏn People
+<28>
+
+**Summary**
+
+The author, Chasan, argues that the geographical distribution of the ancient "Eastern Chosŏn" tribes (Northern groups like Puyŏ, Suksin, Okchŏ, Yemaek forming a ㄱ shape, and Southern groups, the Three Han, forming a ㄴ shape) visually resembles the Taegeuk symbol. While acknowledging the Taegeuk flag's origins as a military banner and its connection to Confucianism, the author posits that its adoption reflects a deeper, unconscious recognition of this ancient tribal arrangement, making the symbol an inherent representation of the Korean people's historical distribution. From a colonial history perspective, this article is interesting as an example of constructing national identity by projecting modern symbols (the Taegeuk flag) onto ancient history, seeking deep-rooted, essentialist connections between geography, ethnicity, and national symbolism during a period of suppressed sovereignty. Historians might find it useful for studying nationalist interpretations of history and the symbolic meaning imbued in the national flag during the colonial era.
+
+**Named Entities**
+
+古朝鮮族	고조선족	Kochosŏnjok
+東西	동서	Tong-Sŏ (East-West - used contextually for tribal divisions)
+東朝鮮族	동조선족	Tong Chosŏnjok
+本朝鮮族	본조선족	Pon Chosŏnjok
+南北	남북	Nam-Puk (South-North)
+北族	북족	Pukchok
+北扶餘	북부여	Puk Puyŏ
+東扶餘	동부여	Tong Puyŏ
+肅愼	숙신	Suksin
+沃沮	옥저	Okchŏ
+濊貊	예맥	Yemaek
+南族	남족	Namchok
+馬韓	마한	Mahan
+弁韓	변한	Pyŏnhan
+辰韓	진한	Chinhan
+三韓	삼한	Samhan
+太極	태극	T'aegŭk
+儒道	유도	Yudo (Confucianism)
+自山	자산	Chasan (Author's pen name)
+
+**Glossary**
+
+予	나(저)	I, me (archaic pronoun)
+屢屢히	누누히	Repeatedly, frequently (older adverb form)
+發布하엿던	발포하였던	Had published (older verb conjugation/spelling)
+分立된	분립된	Divided, separated
+列立狀態	열립상태	State of being arrayed/lined up
+美術的	미술적	Artistic
+吸似	흡사	Closely resemble, be similar to
+思惟홈	사유함	I think/believe (older declarative verb ending '-ㅁ')
+後世	후세	Later generations, posterity
+國旗	국기	National flag
+本是	본시	Originally, essentially
+軍事上	군사상	Militarily, in terms of military affairs
+纛旗	독기	Large ceremonial banner, often used by military commanders
+一方	일방	On the one hand, from one perspective
+表	표	Representation, symbol
+民族分布	민족분포	Ethnic distribution
+精神	정신	Spirit, mind
+奧底	오저	Inner depths, bottom, core
+暗然히	암연히	Implicitly, unconsciously, latently
+印象되엇다가	인상되었다가	Was impressed (upon), left an impression and then... (older grammar/spelling)
+代表的	대표적	Representative
+符號	부호	Symbol, sign, mark
+表現된	표현된	Expressed, manifested
+偶然한	우연한	Accidental, coincidental
+緣起	연기	Origin, history, provenance
+取採한	취채한	Adopted, selected, gathered
+頭腦	두뇌	Brain, mind
+化合된	화합된	Combined, synthesized, chemically bonded
+象徵	상징	Symbol
+
+
+---------------------------
+
+
+잡지명	동광 제8호
+발행일	1926년 12월 01일
+기사제목	古朝鮮族과 太極
+필자	自山
+기사형태	문예기타
+
+古朝鮮族과 太極
+						自山
+予가 古朝鮮族의 區別을 東西 3種으로 설명한 일은 屢屢히 發布하엿던 일이라. 東朝鮮族 곳 本朝鮮族은 다시 南北의 2부로 분립된 바 北族은 ㄱ자형으로 北扶餘, 東扶餘, 肅愼, 沃沮, 濊貊 등 5國이 벌려 잇섯고 南族은 ㄴ자형으로 馬韓, 弁韓, 辰韓 등 三韓이 벌려 잇섯다한 설명도 역시 旣述한 일이라. 그런데 그 東朝鮮族의 列立狀態를 美術的으로 그려 보면 흡사 太極의 모양으로 된다 思惟홈.
+그럼으로 후세 國旗를 太極으로 그린 것은 本是 軍事上 纛旗로서 나려온 것이나 一方으로 생각하면 太極의 表는 民族分布의 상태가 民族 精神의 奧底에 暗然히 印象되엇다가 점점 대표적 符號로 표현된 바 우연한 것이 아니니 그의 緣起는 비록 儒道에서 나온 것이라 하되 그를 取採한 精神은 頭腦의 오랜 印象이 자연히 化合된 것이라 고로 太極은 本朝鮮族 分布의 象徵이라고 予는 思惟하노라.＜28＞
+東朝鮮族의 列立狀態
+＜28＞

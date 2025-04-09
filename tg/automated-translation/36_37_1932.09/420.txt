@@ -1,0 +1,64 @@
+Magazine Title: 동광 제37호
+Publication Date: 1932년 09월 01일
+Article Title: 말마르오(民謠體) (Don't Speak (Folk Song Style))
+Author: 李月岩
+Article Type: 시 (Poem)
+
+Don't Speak
+						Yi Wŏr'am
+
+Don't speak, don't speak,
+Don't speak of this world.
+Speak one word, it goes a hundred li,
+Speak two words, it goes a thousand li,
+Don't speak of this world.
+
+Don't speak, don't speak,
+Don't speak of this world.
+A word that went a hundred li is said to have gone a thousand li,
+A word that went a thousand li is said to have gone ten thousand li,
+Don't speak of this world. <95>
+
+**Summary**
+
+This short poem, written in a folk song style, warns against speaking carelessly about the world or others. It uses the traditional Korean distance unit 'li' to illustrate how words travel far and become exaggerated exponentially with each retelling. The poem advises silence as a way to avoid the harm caused by gossip and rumors. For historians, the poem reflects social anxieties about speech and reputation in colonial Korea. Its folk song style (민요체) and use of older grammatical forms and spellings like "말마르오," "철리," and "말리" offer linguistic insights into the period.
+
+**Named Entities**
+
+李月岩	이월암	Yi Wŏr'am
+
+**Glossary**
+
+말마르오	말 마시오	Don't speak; stop speaking (Older imperative form)
+이세상	이 세상	This world
+한말	한 말	One word
+백리	백 리	One hundred li (A traditional unit of distance)
+두말	두 말	Two words
+철리	천 리	One thousand li (Older pronunciation/spelling of 천리)
+갓다는	갔다는	Is said to have gone (Older spelling)
+말리	만 리	Ten thousand li (Older pronunciation/spelling of 만리)
+말마르요	말 마시오	Don't speak; stop speaking (Variant older imperative form)
+
+
+---------------------------
+
+
+잡지명	동광 제37호
+발행일	1932년 09월 01일
+기사제목	말마르오(民謠體)
+필자	李月岩
+기사형태	시
+
+말마르오
+						李月岩
+말마르오 말마르오
+이세상을 말마르오
+한말하며 백리가고
+두말하며 철리가는
+이세상을 말마르요.
+
+말마르오 말마르오
+이세상을 말마르오
+백리간말 철리갓다는
+철리간말 말리갓다는
+이세상을 말마르오. ＜95＞

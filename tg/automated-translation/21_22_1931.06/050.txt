@@ -1,0 +1,173 @@
+**Header Section:**
+Magazine Title: 동광 제22호 (東光 第22號)
+Publication Date: 1931년 06월 01일 (June 1, 1931)
+Article Title: 業別로 본 朝鮮人口動態 (Population Dynamics of Chosŏn Viewed by Occupation)
+Author: 金佑枰 (Kim U-p’yŏng)
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation:**
+
+Population Dynamics of Chosŏn Viewed by Occupation
+						Kim U-p’yŏng
+
+1. Presentation of the Problem
+
+According to 1929 statistics, the total nominal capital of the so-called modern money-making institutions within Chosŏn—unlimited partnerships (合名會社), limited partnerships (合資會社), and stock companies (株式會社)—is said to be 616,079,754 wŏn, and the paid-in capital is 310,620,787 wŏn. Looking at this by ethnicity, the nominal capital of companies managed by Koreans is said to be 42,512,883 wŏn, and the paid-in capital is 19,877,512 wŏn. While this might show signs of striving forward with great effort (奮戰力進) considering the current economic knowledge and environment of Koreans, how can this possibly meet the essential material needs of our 20 million people today? Taking a step further, comparing this situation to that of the Japanese within Chosŏn, it corresponds to one-eighth of the nominal capital and is merely about one-tenth of the paid-in capital. Is this not a deplorable state of affairs?
+
+The progress and development of production institutions centered around food, clothing, and shelter dictate the level of civilization of a nation. The industrial policies of the traditional powers prove this, and is not the current Five-Year Plan of Labor-Farmer Russia (勞農露西亞) also proof of this? Therefore, the primary factor governing the welfare (休戚) of a nation is efficient labor. To obtain efficient labor, one cannot avoid the organization of production institutions. Therefore, this is our prerequisite problem, and only by solving this can we begin to solve our general problems. From this perspective, I have discussed the capital of organized industrial institutions of Koreans currently, and recognized that the resulting inadequacy is beyond comparison. Consequently, we cannot help but admit that our labor is extremely uneconomical from the perspective of market value. In other words, because organized production institutions are immature, the market value of labor is low; it does not mean that Korean labor itself is inferior. It also means that, from a productive standpoint, the rationalization of labor, that is, efficient labor, is scarce among us. Thinking about how to realize nationally efficient labor, we cannot avoid examining our current population dynamics by occupation. To rationalize our labor, we must organize our productive institutions and thus plan for the progress and development of commerce and industry. As basic data for such a great task, we must examine how uneconomical our labor is and study its rationalization. That is, we should examine the occupational population dynamics of Koreans and strive for the rationalization of the occupational distribution of the population. It is in this sense that I draft this essay.
+
+2. State of Occupational Population Distribution
+(1) General Examination <7>
+
+According to 1929 statistics, the Korean population is said to be 18,784,437. Among them, agriculture, forestry, and animal husbandry comprise 15,371,281 people, accounting for 81 percent of the total population. Fishing and salt manufacturing (製盥業) comprise 288,100 people, 1 percent of the total population. Industry comprises 408,215 people, 2.1 percent. Commerce and transportation comprise 1,183,586 people, 6.3 percent. Public service and liberal professions comprise 465,599 people, 2.5 percent. Those listed under 'other employed persons' number 810,909, 4.3 percent. And the unreported number 256,747, accounting for 1.3 percent of the total population.
+
+(2) Population Dynamics Viewed by Primary Occupation
+
+Above, the occupational status across the entire population was discussed. As this is the occupational status based on household registration and not based on the workers themselves, the data cannot be said to be particularly reliable. However, through this, we might be able to grasp the main points through inference. Therefore, to understand the reality of the working population relatively better, I intend to examine the occupational population dynamics of Chosŏn centering on those with a primary occupation (主業者).
+
+(a) Agriculture, Forestry, Animal Husbandry
+Agriculture, Forestry, Animal Husbandry
+Based on the figures cited above, the rate of increase or decrease is inconsistent, regardless of the number of males or females. In 1921, the number was 4,236,729, but by the following year, it had decreased by nearly 30,000. Thereafter, until 1925, although there were some fluctuations, there was generally a decreasing trend (遞減的 傾向). However, in 1926, it reached a high of 4,357,320 people, before once again taking a downward curve. Females also generally show the same numerical trend. Looking at the minimum and maximum numbers, the lowest for males was 4,191,819 in 1925, and for females, 2,989,256 in 1921. The highest was 4,357,320 males in 1926 and 3,413,780 females in 1929. Thus, the actual numerical difference between the lowest and highest is 165,501 for males and 424,524 for females, a large difference rate for both.
+According to 1929 statistics, if we subtract the number of 'those concurrently engaged in other occupations' and the number of unemployed persons from the total population in agriculture, forestry, and animal husbandry (15,371,281 people), the number of primary workers (主業者數) corresponds to merely half.
+
+(b) Fishing and Salt Manufacturing (漁業 及 製盥業)
+The statistics for the number of primary workers are as follows.
+Fishing and Salt Manufacturing
+Workers in fishing and salt manufacturing (漁業及製盥業), like those in agriculture, forestry, and animal husbandry, generally show an increasing curve. The lowest number of males was 54,194 in 1922, and the highest was 72,276 in 1929. Thus, the difference between the lowest and highest numbers is 18,082. Furthermore, comparing the total number of unemployed persons (117,800) with the number of primary workers (based on the 1929 total), it is only just over 4,800, accounting for 4.0 percent [translator's note: this percentage seems incorrect based on the numbers provided, potentially a typo in the original text, maybe meant 40% or compared to a different total] of the total population in this sector.
+
+(c) Industry (工業)
+Industry
+The industrial population also formed a somewhat fluctuating curve, but the general trend shows an increasing curve. Comparing the lowest and highest numbers over 9 years, for males, the lowest was 80,355 in 1921, and the highest was 100,900 in 1929. For females, the lowest was 35,090 in 1921, and the highest was 42,076 in 1925. Thus, the difference between high and low is 20,545 for males and 6,986 for females. Furthermore, examining the ratio of increase between the highest and lowest [translator's note: the calculation method '0.79' is unclear from the text], it is 0.79, which is lower than the Japanese rate of 0.83, meaning the rate of increase is smaller than that of the Japanese.
+
+(d) Commerce and Transportation (商業 及 交通業)
+Commerce and Transportation
+The population in commerce and transportation also uniformly shows an increasing curve. The minimum number was 239,475 males in 1921, the maximum number <9> was 286,167 in 1928. Thus, there was an increase of 46,692 people. While this could be considered a bright spot, taking a step further, looking at the number of unemployed persons based on 1929 figures, there were 239,083 males and 358,238 females, totaling 597,321. Thus, compared to the total population in this sector, more than half are unemployed, meaning less than half are engaged in the actual occupation.
+
+(e) Public Service and Liberal Professions (公務 及 自由業)
+Public Service and Liberal Professions
+Unlike other occupations, public service and liberal professions showed a curve of yearly increase. The minimum number was 80,678 in 1921, and the maximum number was 108,971 in 1929. Thus, the actual numerical difference is 28,293. Females showed the same trend. However, the number of unemployed persons in this sector is also considerable; based on 1929 figures, there were 102,518 males and 159,923 females. Thus, they account for more than half of the total sector population of 465,599.
+
+(f) Other Employed Persons (其他 有業者)
+
+Other Employed Persons
+The number of other employed persons, like those in public service and liberal professions, also showed a curve of yearly increase. However, here too, the number of unemployed persons accounted for more than half.
+
+3. Comparative Examination of Distribution Status
+Above, the occupational population dynamics have been numerically analyzed and examined. What results have been obtained?
+(1) Generally, across all occupations, the number of unemployed persons (無業者) is greater than that of employed persons (有業者). Expressing this phenomenon numerically, subtracting the number of unemployed persons (7,814,110) from the total Korean population (18,784,437), the number of those with a primary or other occupation is merely 10,969,817, which is 58 percent, meaning 42 percent are unemployed. The meaning of unemployed includes the elderly, children, students, and pupils. <10>
+Across all of Chosŏn, the number of students and pupils in various schools is said to reach 678,376. This number is, of course, included among the unemployed, but as they are the most reliable future producers, a word has been added.
+
+(2) Based on the most recent statistics available, those from 1929, calculating only male primary workers: agriculture, forestry, and animal husbandry 4,202,894; fishing and salt manufacturing 72,276; industry 100,900; commerce and transportation 284,842; public service and liberal professions 108,971; other employed persons 199,895; totaling 4,969,778. Examining the occupational percentages again: agriculture 0.84 (84%), fishing and salt manufacturing 0.01 (1%), industry 0.02 (2%), commerce and transportation 0.05 (5%), public service and liberal professions 0.02 (2%), other employed 0.04 (4%).
+The agricultural population reaches 84 percent but shows a gradually decreasing trend. The number of 'those with other occupations' also decreases, but the number of unemployed increases.
+Should we hastily conclude that this phenomenon signifies the migration of the agricultural population to cities and a shift (轉稼) to other occupations, as well as an increase in children due to economic余裕 (leisure/surplus)? Examining the population dynamics of other various occupations, primary workers, those with concurrent jobs (with exceptions), and the unemployed are all showing an increasing curve. As long as this is factual, the author wishes to take this form of deduction. Namely, (1) the increase in unemployed persons and the miscellaneous population within agriculture is due to the natural increase of the population, and the decrease in primary agricultural workers can be attributed to the migration of farmers to Manchuria (滿洲). The extremely gradual increase rate of the population in occupations other than agriculture, amounting to no more than the natural population growth rate, serves as proof of this.
+
+(3) Looking at population dynamics by unemployment status, agriculture shows a decreasing trend, and fishing has also followed the same curve as agriculture for the past 6-7 years. Other sectors like industry, commerce, and transportation are also generally declining [in terms of the unemployed proportion, likely]. While this phenomenon could be explained as awareness regarding occupations becoming clearer, the reality is likely that the influx of large foreign capital into Chosŏn leads people to factory labor, thus reducing the number of unemployed. On the other hand, the reason for the increase in the number of unemployed among public service and liberal professionals cannot but be attributed to the need to supplement (補得) their swelling (澎大) living expenses, which increase year by year.
+
+(4) Viewed by primary occupation, agriculture occupies 84 percent, meaning the population in all other occupations accounts for merely 16 percent. Despite this irrational distribution of the occupational population, Koreans who manage to make a living through agriculture must surely be magicians. However, this is not truly ingenious magic living, but can only be called the devilish life of debt. Given that our lives are like this, it is a fact that capital accumulation cannot occur, and consequently, unemployment [translator's note: likely meant 'employment' or 'new jobs' here, context implies lack of job creation] cannot arise. Is it not a fact that the population in commerce and industry cannot take any curve other than that of natural increase?
+
+Conclusion
+Above, I have analyzed and examined the occupational dynamics of the Korean population. Of course, this cannot be called a detailed study. It merely serves to present to the readers that such a problem exists. And among these points, I wish to state that the distribution status of our working population, the population that produces the nation's wealth, is extremely irrational, and the economics or non-economics of labor is a secondary issue; with such a phenomenon, it is impossible to sustain our national life. Although there are occupational shifts (業的 轉變) and consequent increasing/decreasing curves, these are all merely natural trends, and I want to inform you that there are no signs of artificial effort, nor organized and planned vibrant expression. <11>
+
+**Summary**
+
+This 1931 article by Kim U-p’yŏng analyzes the occupational distribution of the Korean population based on 1929 statistics. It highlights the overwhelming dominance of agriculture (84% of primary workers) and the minuscule proportion engaged in industry (2%) and commerce/transport (5%). Kim contrasts the small scale of Korean-owned capital with Japanese capital in Chosŏn, lamenting the lack of organized production and efficient labor, which he deems essential for national progress. He notes trends like the slow decrease in agricultural workers (partly attributed to migration to Manchuria) and a general increase in other sectors mostly due to natural population growth rather than economic development, alongside a large proportion of "unemployed" (including dependents). Kim concludes that the occupational structure is highly irrational, hindering economic development and capital accumulation, and calls for awareness and planned efforts towards rationalizing labor distribution. For historians, the article offers valuable quantitative data (despite the author's caveats about its precision) on the colonial economy's structure from a Korean perspective. It starkly reveals the lack of industrialization among Koreans, the economic disparity with the Japanese colonizers, contemporary concerns about migration, and the intellectual discourse framing economic issues in terms of national survival and efficiency, reflecting anxieties under colonial rule.
+
+**Named Entities**
+
+朝鮮	조선	Chosŏn
+日本人	일본인	Japanese people
+勞農露西亞	노농노서아	Labor-Farmer Russia (Soviet Union)
+滿洲	만주	Manchuria
+金佑枰	김우평	Kim U-p’yŏng
+
+**Glossary**
+
+業別	업별	By occupation
+人口動態	인구동태	Population dynamics
+公稱資本	공칭자본	Nominal capital
+拂込資本金	불입자본금	Paid-in capital (older term/Hanja usage)
+奮戰力進	분전역진	Striving forward with great effort
+休戚	휴척	Welfare; joys and sorrows
+능률	능률	Efficiency
+遞減的	체감적	Decreasing (trend)
+커브	커브	Curve (loanword)
+主業者	주업자	Person with a primary occupation
+無業者	무업자	Person without an occupation (includes elderly, children, students, unemployed)
+製盥業	제관업	Salt manufacturing (likely typo for 製鹽業, cheyŏmŏp)
+工業	공업	Industry
+交通業	교통업	Transportation industry/sector
+公務	공무	Public service/official duties
+自由業	자유업	Liberal professions (e.g., doctors, lawyers)
+轉稼	전가	Shifting (occupations)
+澎大	팽대	Swelling, expanding, inflating
+補得	보득	To supplement, make up for (older usage)
+業的 轉變	업적 전변	Occupational shift/transformation
+
+
+---------------------------
+
+
+잡지명	동광 제22호
+발행일	1931년 06월 01일
+기사제목	業別로 본 朝鮮人口動態
+필자	金佑枰
+기사형태	논설
+
+業別로 본 朝鮮人口動態
+						金佑枰
+1. 問題의 提示
+1929년 통계에 의하건대 朝鮮內 그 소위 신식 돈버는 기관이라는 合名, 合資, 株式會社의 公稱資本 總額은 616,079,754원이라 하며 拂込資本金은 310,620,787원이라 한다. 이것을 민족별로 본다면 조선인 경영 회사의 公稱資本金은 42,512,883이며 拂込資本은 19,877,512원이라 한다. 이것이나마 現下 朝鮮人의 경제지식으로나 환경에 비하여 奮戰力進의 形跡은 보인다고 할지나 어찌 이것이 현대 我 2천만 민족의 물질적 필수욕구에 응할 수 잇겟느냐. 更一步를 進하여 如斯한 상태를 朝鮮內 日本人의 그것에 비하건대 公稱資本金에 잇어서는 8분지 1에 상당하며 拂込資本金에 비하면 약 10분지 1에 불과하니 이 어찌 한심한 바 아니랴.
+의식주를 중심으로 생산기관이 진보 발달 여하가 一民族의 문명 여하를 지배하고 잇는 것이다. 在來 열강의 산업정책이 이를 증명하며 현하 勞農露西亞의 5개년 계획이 또한 이를 증명하는 바가 아닌가. 그러므로 일민족의 休戚을 지배하는 것은 제일로 능률잇는 노동일 것이다. 능률잇는 노동을 취득하려면 생산기관의 조직화에 의하지 아니할 수 없다. 그러므로 이것이 우리의 선결문제며 이것을 해결하여가므로 비로소 우리의 일반 문제를 해결할 수 잇을 것이다. 이러한 견지에서 現下 朝鮮人의 조직된 산업기관의 자본금을 거론하엿으며 그 결과로 빈약함이 비할바 없다는 것을 인식하엿다. 따라서 우리의 노동이 시장적 가치로 보아 지극히 불경제적이라는 것을 自認하지 안을 수 없다. 다시 말하자면 조직된 생산기관이 幼穉하므로 인하여 노동의 시장적 가치가 저열하다는 것이며 朝鮮人의 노동이 저열하다는 것은 아니다. 또한 우리에게는 생산적 입장에서 노동의 합리화 즉 능률잇는 노동이 귀하다는 것을 의미한 것이다. 어찌하면 민족적으로 능률잇는 노동을 실현할가 생각함에 現下 우리의 業別的 인구동태를 고찰하지 아늘 수 없는 것이다. 우리의 노동을 합리화하려면 우리의 생산적 기관을 조직화하여야 할 것이며 따라서 상공업의 진보와 발달을 도모하여야 할 것이다. 如斯한 大業의 기초자료로 우리의 노동이 얼마 불경제적인가를 고찰하여 이것의 합리화를 연구하여야 할 것이다. 즉 朝鮮人의 業別的 인구동태를 고찰하여 業別的 인구 분포의 합리화에 노력하자는 것이다. 이러한 의미에서 본론을 草하는 바다.
+
+2. 業別的 人口의 分布狀態
+(1) 一般的 考察  ＜7＞
+
+1929년 통계에 의하건대 朝鮮人 人口는 18,784,437이라 한다. 그리하여 그 중 농업, 임업, 및 목축업이 15,371,281인으로서 全人口의 81퍼센트라 하며 어업 및 제조업이 288,100인으로서 全人口의 1퍼센트며 공업이 408, 215인으로서 2.1퍼센트며 상업 및 교통업이 1,183,586인으로서 6.3퍼센트며 공무 및 자유업이 465,599인으로서 2.5퍼센트며 기타 有業者의 명목이 810,909인으로서 4.3퍼센트며 불신고자가 256,747인으로서 全人口의 1.3퍼센트를 점하엿다고 한다.
+
+(2) 主業別로 본 人口動態
+
+이상에 인구 전체에 亙한 業別狀態를 논하엿다. 이것이 戶口別에 의한 業別狀態며 노동자 본위의 그것이 아니므로 그다지 자료가 신통하다고는 할 수 없다. 그러나 此에 의하여 推理의 형식으로 그 요점을 探得할 수 잇을 것이다. 그러므로 비교적 노동하는 인구의 실체를 알기 위하여 主業者를 중심으로 業別的 朝鮮 人口動態를 고찰하려하는 바다.
+
+(가) 農業, 林業, 牧畜業
+農業 林業 牧畜業
+이상에 擧한 바 數字에 의하건대 남자나 여자의 수를 막론하고 그 增減率이 일정하지 못하다. 1921년에는 4,236,729人이든 것이 그 익년에 이르러는 근 3萬人이 감소되엇섯다. 그 후 1925년까지 다소의 가감은 잇엇으나 일반적으로 遞減的 傾向이 잇엇다. 그러나 1926년에는 4,357,320人이란 다수에 달하엿다가 再1次 遞減의 『커브』를 취하고 잇다. 여자도 역시 일반적으로는 동일한 數字的 傾向性을 가지고 잇다. 그리하여 증감의 최저최고를 보건대 남자로는 1925년의 4,191,819人 여자로는 1921년의 2,989,256人이 최저며 1926년의 남자 4,357,320人과 여자로는 1929년의 3,413,780人이 最高數를 표하엿다. 그리하여 최저최고의 實數的 差로 말하면 남자가 165,501人이며 여자는 424,524人으로서 兩者 共히 차율이 大하다.
+1929년 통계에 의하건대 『其他業을 兼한 者』 及 無業者數를 농업, 입업, 及 목축 총인구수 15,371,281人에서 減하면 主業者數는 불과 2분지 1에 상당하다.
+
+(나) 漁業 及 製盥業
+主業者數의 통계는 이러하다.
+漁業及製盥業
+漁業 及 製盥業者는 농업, 임업, 及 목축업자와 같이 일반적으로 증가의 「커브」를 취하고 잇다. 남자 최저인수는 1922년의 54,194人이며 최다인수는 1929년의 72,276人이라 한다. 그리하여 최저최고수의 差는 18,082人이나 된다. 다시 無業者 總數 117,800人을 主業者數와 비하면 (1929년 총계) 4,800餘人에 불과하며 總業口의 4,000퍼센트를 占하엿다.
+
+(다) 工業
+工業
+공업인구도 다소 고저의 「커브」를 作하엿으나 일반적 경향으로 말하면 증가의 「커브」를 취하고 잇다. 9년간 최저최고 수를 비하건대 남자로는 1921년의 80,355人이 최저 수이며 1929년의 100,900人이 최고 수다. 여자로 말하면 1921년의 35,090人이 최저 수이며 1925년의 42,076人이 최고 수일다. 그리하여 그 고저의 차로 말하면 남자는 20,545人이며 여자는 6,986人이다. 다시 최고 최저의 증가 비율을 고찰하면 0.79로서 日本人의 0.83에 비하여 日本人보다 증가율이 적다.
+
+(라) 商業 及 交通業
+商業 及 交通業
+商業 及 交通人口도 역시 다 一樣으로 증가의 커브를 취하고 잇다. 最小 數 1921년의 남자 239,475人, 最高 數는 ＜9＞ 1928년의 286,167人이다. 그리하여 46,692人이 증가된 셈이다. 이것은 一種 光明面이라 하겟으나 更一步를 進하여 無業者數를 보면 1929년을 토대로 남자가 239,083人이며 여자가 358,238人으로서 합계 597,321人이다. 그리하여 總業口에 비하여 반 이상이 無業으로 반 이하가 現業에 종사하는 셈이다.
+
+(마) 公務 及 自由業
+公務 及 自由業
+公務 及 自由業에 잇어서는 他業과 달라 逐年 증가의 「커브」를 취하엿다. 1921년의 80,678人이 最小 人이며 1929년의 108,971人이 最高 數다. 그리하여 其實 數的 差로 말하면 28,293人이다. 여자에 잇어서도 동일한 경향성을 취하엿다. 그러나 斯業에도 無業者의 수는 상당하야 1929년을 토대로 남자가 102,518人이며 여자가 159,923人이라 한다. 그리하여 總業口 465,599人의 반 이상을 占하고 말엇다.
+
+(바) 其他 有業者
+
+其他有業者
+其他有業者의 數도 公務 及 自由業者와 같이 逐年 증가의 「커브」를 취하엿다. 그러나 이에도 無業者의 數는 반 이상을 점하엿다.
+
+3. 分布狀態의 比較的 考察
+이상에 業別的 人口動態를 數字的으로 분석 고찰한다. 어떠한 결과를 收得하엿는가.
+(1) 일반적으로 各業을 통하여 無業者가 有業者보다. 많은 것이다. 이 현상을 숫자적으로 표시하건대 朝鮮人口 總數 18,784,437人에서 無業者 7,814,110人을 감하면 主業 及 其他業을 有한 者 數는 겨우 10,969,817人으로서 58퍼센트며 42퍼센트가 無業者라고 한다. 無業者라는 의미는 老幼라든지 학생 及 생도를 가리침이다. ＜10＞
+全朝鮮을 통하야 各 學校의 학생 及 생도 수는 678,376人에 달한다고 한다. 그러면 이 숫자도 물론 無業者 中에 합병된 것이나 將來當의 생산자로서 가장 신뢰할  부분인 고로 一言을 가한 바다.
+
+(2) 최근통계이라고 할 만한 1929년의 數字에 의하야 남자 主業者만을 계산하건대 농업, 임업 及 목축업 4,202,894人, 어업 及 製鹽業 72,276, 공업 100,900人, 상업 及 교통업, 284,842人, 公務 及 自由業, 108,971, 기타 有業者, 199,895人으로서 총계 4,969,778人이라 한다. 다시 業別的 퍼센테이지를 고찰하건대 이러하다. 농업이 0.84, 어업 及 製鹽業이 0.01, 공업 0.02 상업 及 교통업 0.05, 공무 及 자유업 0.02, 기타 有業이 0.04퍼센트다.
+농업인구는 84퍼센트에 달하나 점차 체감적 경향이 잇으며 『其他 業을 有한 者』數도 감소되나 無業者의 數는 증가한다.
+이 같은 현상이 과연 농업인구의 도시이주 及 他業에의 轉稼를 의미하는 동시에 경제적 여유로 인하야 자녀가 증가되는 것이라고 속단하고 말 것인가. 기타 諸業 人口의 동태를 고찰하건대 主業, 兼業者(예외도 잇다) 及 無業者가 共히 증가의 「커브」를 취하고 잇다. 이것이 사실인 이상 필자는 이 같은 推斷의 형식을 취하고 한다. 곳 (1) 인구의 자연증가에 의하야 농업인구의 무업자 및 기타 인구가 증가하는 것이며 농업 주업자의 감소는 농업자의 滿洲 이주에 의한 것이라 하겟다. 농업인구 이외의 諸業 人口의 증가율을 고찰하건대 극히 漸增的으로서 인구의 자연증가율에 불과한 것이 이를 증명하는 것이라 아니할 수 없다.
+
+(3) 無業者別로 본 인구동태로 말하면 농업에 잇어서는 체감적 경향을 보이며 어업도 또한 과거 6, 7년간 농업과 동일한 「커브」들 취하고 잇다. 기타 공업이라든지 상업 及 교통업도 일반적으로 감퇴되는 중이다. 이 같은 현상은 곳 직업에 대한 인식이 명확하여 지는 것이라고 설명할 수도 잇으나 외래 대자본이 朝鮮에 침입하므로 인하여 공장노동을 하게 되는 고로 無業이 감소되어 가는 것이라고 하는 것이 그 실상이라 하겟다. 그 반면으로 공무 及 자유업자 중 無業者 數가 증가하는 所致는 逐年 澎大하여가는 彼等의 생활비를 補得하기 위함이라 아니할 수 없다.
+
+(4) 主業別로 보아 농업이 84퍼센트를 占하엿으니 기타 諸業人口로 말하면 겨우 16퍼센트를 占하고 잇는 셈이다. 이 같이 業別的 人口의 분포상태가 불합리하게 되엇음에도 불구하고 능히 농업에 의하야 생계를 謀하는 朝鮮ºº이야 말로 마술사라고 할 것이다. 그러나 이것이 그야말로 기발적 마술생활이 아니라 負債의 마귀적 생활이라고 밖에 할 수 없다. 우리의 생활이 이러함에 자본의 축적도 잇을 수 없으며 따라서 無業도 생기지 못할 것이 사실인 이상 상공업 인구가 자연 증가 이외에 他의 「커브」를 취하지 못할 것이 사실일가 한다.
+
+結論
+필자는 이상에 朝鮮人口의 業別的 動態를 분석 고찰하엿다. 물론 이것이 세밀한 연구라고 하지는 못할 것이다. 다만 독자 諸賢에게 이 같은 문제가 잇다는 것을 제시한대 불과한 것이다. 그리하여 就中에도 우리의 노동인구 곳 민족의 부를 산출하는 인구의 분포상태가 극히 不合理하야 노동의 經濟不經濟는 제2문제로 이 같은 현상으로는 우리의 민족적 생활을 지속하기 불가능하다는 것을 말하는 바다. 業的 轉變이라든지 따라서 나는바 增減的 「커브」는 잇으나 이것이 전부 자연적 추세에 불과하며 인위적 努力性이라든지 따라서 조직적이며 계획적인 생동적 표현이 보이지 안는다는 것을 알리우고 싶다. ＜11＞
+＜7-11＞

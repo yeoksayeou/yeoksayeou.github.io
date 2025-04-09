@@ -1,0 +1,86 @@
+**Header Section:**
+Magazine Title: 동광 제13호
+Publication Date: 1927년 05월 01일
+Article Title: 五月 (May)
+Author: 李隱想
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+May
+						Yi Ŭnsang
+
+Drooping, hanging willows,
+On every branch, it is May.
+The cuckoo's quick cries,
+What do they herald?
+Orchids blooming below the wall,
+Summer is coming too.
+
+Scent of grass clinging to their bodies,
+Groups of children herding cows.
+On every mountain, amid the green shade (록음속에),
+When were the swings (추천) hung?
+Now and then, standing up on the ropes,
+They forget to come down.
+
+The long day, not seeming long,
+Plum fruits (매화열매) ripen.
+Receiving the warm, steamy earth-vapor (땅김),
+Barley, are you ripening now?
+In every field, the savory smell
+Cannot be hidden.<32>
+
+**Summary**
+
+This poem by Yi Ŭnsang vividly paints scenes of rural Korea in May. It captures the essence of late spring transitioning into summer through imagery of blooming nature (willows, orchids, plums, barley), the sounds of birds (cuckoos), the activities of children (herding cows, playing on swings), and the pervasive scents of grass and ripening fields. The poem evokes a sense of tranquil beauty and the steady progression of the seasons. From a colonial history perspective, the poem is notable for its focus on pastoral lyricism and nature, seemingly detached from the political realities of 1927 Korea under Japanese rule. This adherence to traditional themes of nature and rural life could be interpreted either as escapism or as a subtle affirmation of Korean identity and connection to the land during a period when overt nationalistic expression was suppressed.
+
+**Named Entities**
+
+李隱想	이은상	Yi Ŭnsang
+
+**Glossary**
+
+에휘어	에휘어	Bending low, drooping (likely related to modern 휘다; older form/spelling)
+잰울음	잰울음	Quick cries/songs (from 재다 'quick' + 울음 'crying/sound')
+긔	그것이	That thing, it (archaic pronoun form)
+퓌는	피는	Blooming (older spelling of 피는)
+울밑	울밑	Below the fence/wall (contraction of 울타리 밑)
+록음	녹음	Green shade, verdure (Hanja: 綠陰)
+추천	추천	Swing (Hanja: 秋千; less common than 그네 today)
+매화열매	매화열매	Plum fruit (梅花열매; usually 매실)
+흣흣한	흣흣한	Warm and steamy, damp (related to 훗훗하다 or descriptive)
+땅김	땅김	Earth-steam, vapor from the ground
+네 익느냐	네 익느냐	Are you ripening? (addressing the barley; older spelling/grammar)
+
+
+---------------------------
+
+
+잡지명	동광 제13호
+발행일	1927년 05월 01일
+기사제목	五月
+필자	李隱想
+기사형태	시
+
+五月
+						李隱想
+에휘어 느린 버들
+가지마다 오월일네
+두견이 잰울음은
+긔 무엇을 알리나니
+울밑에 퓌는 난초도
+여름이고 나오네
+
+풀향내 몸에 감고
+소 먹이는 아이떼들
+산마다 록음속에
+추천 언제 매었고나
+이따금 줄에 올아선
+내릴 줄을 모르네
+
+긴날을 길다않고
+매화열매 익어가네
+흣흣한 땅김받아
+보리 한창 네 익느냐
+들마다 구수한 냄새
+감추지를 못하네＜32＞

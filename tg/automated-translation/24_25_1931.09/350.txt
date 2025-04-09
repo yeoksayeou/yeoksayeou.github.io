@@ -1,0 +1,187 @@
+**Header Section:**
+Magazine Title: 동광 제25호
+Publication Date: 1931년 09월 04일
+Article Title: 과학페지 (Science Page)
+Article Type: 논설 (Editorial/Essay)
+
+**Body Text Translation:**
+Science Page
+When Will All the Coal Disappear from the Earth? - Where Will Civilization Get its Power?
+
+At the latest, by the year 2500 AD, not a single piece of coal will remain on Earth. Scientists have been making this prediction for decades now. They have been warning governments, industrialists, and society about this fact. And they are striving to discover or invent substitutes for coal.
+
+If coal disappears and no substitute is found, this civilized world will suddenly become a dark, frozen world; all transportation, communication, shipping, commerce – in other words, modern civilization itself – will become a corpse. Trains and steamships will become immobile; electric lights, electric power, and gas will also mostly cease. Smoke will completely vanish from the chimneys of large and small factories worldwide, and only cobwebs will gather.
+
+How important coal is can be seen from the fact that there are clauses regarding coal in the Treaty of Paris. Within the next 100 years, the coal of the Old World will be exhausted, and thereafter, those who will reign as the kings of coal will be China and the Antarctic continent. However, before 1,000 years pass, that coal will also be gone, and the time will come when it becomes technologically impossible to dig out the coal buried deeper.
+
+Then, what methods will civilization devise to save itself? For the past 50 years, scientists have been active with the goal of discovering new sources of power (源力). The things their imagination has unearthed so far include geothermal heat (地心熱), tidal power (潮水), the temperature difference in the deep sea (심해의 溫差), wind power (풍력), solar heat (태양열), and atomic energy (원자력).
+
+Utilizing Geothermal Heat
+(1) We know that it gets hotter as we dig deeper into mines. Thus, after a mine reaches a certain depth, it becomes impossible to dig further down. Then, couldn't we try to run engines by directly using that heat? The famous British inventor (i.e., the inventor of the turbine engine) Mr. Parsons proposes this idea. Suppose we drill 30 *ri* towards the center of the Earth. Then, we might be able to mine previously unseen radioactive minerals (放射광물), gold, and other precious metals, but we could also obtain infinite (literally infinite) power using the hot geothermal heat. The cost of drilling down 30 *ri* is 50 million to 200 million won, and the time required is about 80 years. Workers (工夫) would wear work clothes prepared with refrigerated air, and steel pipes that won't burst under enormous pressure would have to be invented. Also, preparations to pump out subterranean boiling water (地下 沸騰水) would be necessary.
+If this plan succeeds, laborers (工人) who currently commute 10 or so *ri* by streetcar to large industrial cities might commute more than 20 *ri* underground.
+
+Tidal Power is Also Promising
+(2) However, before this geothermal heat company is established, there is a high possibility that a Tidal Power Generation Company (潮水發動會社) might emerge first. Just as the sun created coal in ancient times, the moon lifts and releases the water on Earth by 10, 20, or even more than 30 *ch'ŏk* twice a day (하로). We call this the tide (潮水), and if we were to run engines using the power of the rising and ebbing tidal water, and utilize all coastlines with large tidal ranges <69>, we could obtain enormous power. The idea of storing this in storage batteries to be used when needed has also been around for a long time. As of yet, it hasn't been realized because the cost of installing these water wheels along coastlines where the 10, 20, 30 *ch'ŏk* height difference is small but the length is long, and the cost of making storage batteries capable of holding so much electricity, are enormous. However, whenever this is realized, the west coast of Chosŏn (朝鮮) is said to become one of the world's leading tidal power regions.
+
+Waterfalls are Already Used
+(3) Why can't we use water falling from a bit higher than the tides, that is, rainwater gathering to form waterfalls? In fact, hydroelectricity has made great strides in recent years. The efficiency of "hydro turbines" has advanced remarkably, making it possible to convert over 90% of hydraulic power into motive power. We have seen the waterfalls of Kŭmgangsan (금강산) and Changjin (長津) become the electric lights in our homes, and the day will come when the deep forests of Africa are developed, and industrial cities like Pittsburgh or Manchester spring up rapidly.
+
+Temperature Difference of Seawater
+(4) Mr. Claude, the great French (佛國) inventor famous for air liquefaction, artificial nitrogen, neon lights, etc., is experimenting with using the temperature difference between the sea surface and the deep bottom (심저) to run machines. Near the tropics, the surface temperature of seawater reaches 70 or 80 degrees Fahrenheit. If this is put into a reduced-pressure engine via a vacuum pipe, it can become steam. If this is then brought down to the seabed and brought into contact with cold water near freezing point, the steam will condense and become water again, simultaneously sucking down the steam from above, so the rushing steam can certainly move the engine (檄關 - likely 機關 'engine' intended).
+This principle is not mere fantasy, as there is already a small engine built by Mr. Claude operating in Belgium (白耳義). On the day this invention is perfected, at least three of the vast Five Oceans (五大洋) will become sources of power.
+
+Capturing Storms Too
+(5) Today, storms (폭풍우) are recognized only as a major disaster for humanity, but if we were to build enormous windmills and completely harness wind power, it too would provide us with immense energy. Of course, the problem is the method of storing this huge amount of power; today's storage batteries are useless. New, simple storage batteries with large storage capacity must be invented. According to Mr. Haldane's imaginative sketch, when earth-shaking typhoons turn giant-hand-like windmills, the power generated causes high-voltage electricity, and that voltage is passed through water to split the water into hydrogen and oxygen. Then, on calm days when power is needed, the two gases (까쓰) can be recombined to obtain electricity. Liquid hydrogen is one of the most powerful known sources of energy. Capturing the wind to produce liquid hydrogen could yield inexhaustible power.
+
+Directly from the Sun
+(6) Wind, waterfalls, ocean heat, coal – the source (근원) of all power ultimately comes from the sun.
+Then, instead of indirectly using the sun's products (소산물), can't we directly utilize solar heat? Calculating the solar heat received in a tropical region (熱帶 地力) in one day, the heat falling on one square mile is said to be equivalent to burning 7,407 tons (屯) of coal. If we invent a huge convex mirror (凸面鏡) and concentrate this heat onto one point, boiling water would be an easy task. Mr. Ericsson's "Monitor" engine realized this. Mr. Schuman improved this machine (기게) and went to Egypt (埃及) to run pumps for irrigation projects (관개사업).
+When solar power becomes our final remaining power source (動源), we will surely listen to the noise of machinery against the brilliant starlight (灼然한 星光) of the universe. The coal civilization of the temperate zone (溫寒帶) will collapse, and humanity will once again migrate to the tropical desert regions (熱帶沙漠). New urban centers (新都會) will arise in the Sahara and Gobi deserts.
+The sun emits not only heat but also light (光). All plants on Earth digest that light to make starch (澱粉) and fiber (纖維). If humanity could improve that process to make trees that grow in 10 years grow in a month, and make crops (여름 - likely 열매 'fruit/crops') that ripen in ten months ripen in a day (하로)... going one step further, if we could directly use light to create synthetic wood (合成木材) and synthetic sugars (合成사탕) <70>, our fuel problem would be solved.
+
+The Secret of the Atom
+(7) Finally, we cannot help but be astonished when we think of the great power hidden within the atom (原子). If we could break hydrogen to make helium (헬리움), we would know that the motive power released then is enormous. A cup (곱부) of water could generate enough power to make a Pacific steamship go back and forth.
+Unfortunately, according to Professor Millikan's measurements, to split (分壞) the atom by human power (人力) requires hundreds of millions of tons (누억만屯) of pressure and millions of degrees (누백만도) of high temperature (高溫). Such pressure and temperature proceed in the great cosmic furnace (大宇宙의 熔鑛爐) of the heavens (天空), but they are too immense to be produced by human power.
+Therefore, the secret of the atom will probably remain a permanently closed secret, and we humans seeking a substitute for coal have no choice but to devise appropriate methods from wind, tides (潮水), waterfalls, the ocean (海洋), the sun, synthetic chemistry (合成化學), and thermodynamics (熱動學). <71>
+
+**Summary**
+
+This 1931 article predicts the exhaustion of coal reserves within centuries and explores various potential alternative energy sources being considered by scientists. These include geothermal, tidal, hydroelectric, ocean thermal energy conversion (OTEC), wind, direct solar energy (thermal and potentially photosynthetic mimicry), and atomic power. While acknowledging the immense potential of atomic energy, the author deems it currently infeasible due to the extreme conditions required, concluding that humanity must focus on harnessing wind, tides, water, oceans, the sun, and chemical synthesis.
+From a historical perspective, the article is interesting as it shows Korean intellectuals actively engaging with global scientific discussions and future-oriented technological speculation during the Japanese colonial period. The specific mentions of Korea's potential for tidal power ("Chosŏn's west coast") and existing hydroelectric projects ("Kŭmgangsan and Changjin") highlight a sense of national resource awareness and potential development, even within the constraints of colonial rule. It reflects both the adoption of modern scientific discourse and a subtle assertion of Korea's place within that future landscape.
+
+**Named Entities**
+
+파리	파리	Paris
+중국	중국	China
+남극 대륙	남극 대륙	Antarctic Continent
+파손씨	파손 씨	Parsons
+조선	조선	Chosŏn
+금강산	금강산	Kŭmgangsan
+장진	장진	Changjin
+아프리카	아프리카	Africa
+피츠벅	피츠벅	Pittsburgh
+만체스터	만체스터	Manchester
+佛國	불국	France
+클로드씨	클로드 씨	Claude
+白耳義	백의의	Belgium
+오대양	오대양	Five Oceans
+삼대양	삼대양	Three Oceans
+할데인씨	할데인 씨	Haldane
+에릭슨씨	에릭슨 씨	Ericsson
+슈만씨	슈만 씨	Schuman
+埃及	애급	Egypt
+사하라 사막	사하라 사막	Sahara Desert
+꼬비 사막	고비 사막	Gobi Desert
+태평양	태평양	Pacific Ocean
+밀리칸 교수	밀리칸 교수	Professor Millikan
+
+**Glossary**
+
+석탄	석탄	Coal
+어드랴는가	얻으려는가	Intends to obtain (older form of 얻으려고 하는가)
+왓다	왔다	Came (older spelling)
+굴둑	굴뚝	Chimney (older spelling)
+舊세계	구세계	Old World
+무처 잇는	묻혀 있는	Buried (older spelling/form)
+위하야	위하여	For the sake of (older spelling)
+源力	원력	Source of power
+地心熱	지심열	Geothermal heat (lit. Earth-heart heat)
+潮水	조수	Tide, tidal current
+溫差	온차	Temperature difference
+뚤어	뚫어	To drill, pierce (older spelling)
+갈스록	갈수록	As one goes further (older spelling)
+나려가는	내려가는	Going down (older spelling)
+工夫	공부	Worker, laborer (less common usage today, usually means 'study')
+工人	공인	Laborer, worker
+하로	하루	One day (older spelling)
+식	씩	Each, apiece (older spelling)
+일컷거니와	일컫거니와	Is called, is referred to as (older grammatical form)
+찌는 물	지는 물	Ebbing water (tide going out)
+이용하야	이용하여	By using (older spelling)
+그러케	그렇게	Like that, so (older spelling)
+따문에	때문에	Because of (older spelling)
+즘	좀	A little, somewhat (older spelling)
+떠러지는	떨어지는	Falling (older spelling)
+웨	왜	Why (older spelling)
+보앗거니와	보았거니와	As we have seen (older grammatical form)
+佛國	불국	France (lit. Buddha country, older term)
+심저	심저	Deep bottom (of the sea)
+白耳義	백의의	Belgium (older phonetic transcription)
+움즈길	움직일	To move (older spelling)
+까쓰	가스	Gas (older transcription)
+함으로	함으로	By doing so (older form of 함으로써)
+알리어진	알려진	Known (older passive form)
+소산물	소산물	Product, output
+凸面鏡	철면경	Convex mirror
+기게	기계	Machine (older spelling)
+埃及	애급	Egypt (older name)
+動源	동원	Source of power/motion
+灼然	작연	Brilliant, clear (Hanja term)
+마추어	맞추어	In time with, according to (older spelling)
+溫寒帶	온한대	Temperate zone
+熱帶沙漠	열대 사막	Tropical desert
+新都會	신도회	New urban centers/societies
+光線	광선	Light ray
+澱粉	전분	Starch
+纖維	섬유	Fiber
+여름	열매	Fruit, crops (contextual meaning, usually means 'summer')
+合成木材	합성 목재	Synthetic wood
+合成사탕	합성 사탕	Synthetic sugar/sweetener (lit. synthetic candy)
+깨트러서	깨뜨려서	By breaking/smashing (older spelling)
+헬리움	헬륨	Helium
+곱부	코프	Cup (likely loanword 'cup', older transcription)
+分壞	분괴	Destruction, splitting (of atom)
+人力	인력	Human power
+누억만屯	수억만 톤	Hundreds of millions of tons (older prefix '누' for large numbers)
+누백만도	수백만 도	Millions of degrees (older prefix '누')
+高溫	고온	High temperature
+天空	천공	The heavens, sky
+大宇宙	대우주	The great universe
+熔鑛爐	용광로	Furnace, smelter
+熱動學	열동학	Thermodynamics (likely intended, lit. heat-motion-study)
+없겟다	없겠다	Will not have, will likely not exist (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제25호
+발행일	1931년 09월 04일
+기사제목	과학페지
+기사형태	논설
+
+과학페지
+지구상에서 석탄이 다 없어질 때는?-문명은 어디서 동력을 어드랴는가
+늦어도 서기 2,500년에는 지구상에 一片의 석탄도 없어질 것이다. 과학자들은 이 예언을 벌서 수십 년째 해 온다. 그들은 정부와 실업가와 사회를 위해서 이 사실을 경고해 왓다. 그리고 석탄 대용품을 발견 혹 발명하기 위해서 애를 쓰고 잇다.
+석탄이 없어지고 그 대용품이 발견 안 된다 하면 이 문명 세상은 졸지에 암흑 냉동 세계가 될 것이요 모든 교통, 통신, 운수, 상업- 다시 말하면 현대의 문명 그 물건이 시체가 되어 버리고 말 것이다. 기차와 기선은 요지부동이 될 것이요, 전등, 전력, 瓦斯도 대부분 정지가 될 것이다. 전 세계의 대소공장 굴둑에는 연기가 뚝 끊지고 거미줄만 쓸게 될 것이다.
+석탄이 얼마나 중요한가 하는 것은 파리평화조약에 석탄에 관한 조문이 잇는 것을 보아도 알 것이다. 이제부터 1백년 내로 舊세계의 석탄은 盡하고 그 다음에 석탄으로 왕을 칭할 자는 중국과 남극 대륙일 것이다. 그러나 1천년이 다 못되어 그 석탄도 다 없어지고 더 깊이 무처 잇는 석탄을 파내기는 공학적으로 불가능할 때가 당도할 것이다.
+그러면 문명은 자기를 구원하기 위하야 어떠한 방법을 강구할 것인가. 이미 과거 50년 동안을 과학자들은 새 源力의 발견을 목표로 활동하고 잇다. 그들의 상상력이 오늘날까지에 들추어 낼 것들은 地心熱, 潮水, 심해의 溫差, 풍력, 태양열, 원자력 등이 잇다.
+
+지열을 이용
+(1) 우리가 광산을 깊이 뚤어 드러가면 갈스록 더워지는 것을 안다. 그래서 광산이 어느 정도까지 깊이 드러간 뒤에는 더 밑으로 뚜를 수가 없게 된다. 그러면 그 열기를 직접 이용해서 발동기를 돌려볼 수가 없을가. 영국의 유명한 발명가(즉 터빈 기관을 발명한)파손씨가 이 안을 제출한다. 만일 우리가 지구의 중심을 향하야 30리만 뚤러 보자. 그러면 우리는 거기서 전에 못 보든 放射광물이며 금과 기타의 귀금속도 채굴할 수 잇겟지마는 그 뜨거운 지열을 이용해서 무한의(글자 그대로 무한의) 동력을 얻을 수가 잇다. 30리를 뚤러 나려가는 비용은 5천만원 내지 2억원이요 시일은 약 80년. 工夫들은 냉동공기에 추겨 낸 작업복을 입고 일을 할 것이요 거대한 압력에도 터지지 않을 철통이 발명되어야 할 것이다. 그리고 지하 沸騰水를 퍼낼 준비도 잇어야겟다.
+만일 이 계획이 성공된다 하면 금일 대공업 도시에서 10여 리식을 전차로 통근하는 工人들은 지하로 20리 이상식을 통근하게 될 것이다.
+
+潮水도 유망
+(2) 그러나 이 지하열회사가 생기기 전에 아마 潮水發動會社가 먼저 생겨날 가능성이 많다. 태양이 석탄을 태고시대에 만들어 준 것 같이 달님께서는 하로에 두 번식 지구상에 잇는 물을 10척 20척, 30척 이상을 끌어 올렷다 놓아 준다. 이것을 우리가 潮水라고 일컷거니와 潮水로 올라오는 물과 찌는 물의 힘을 이용하야 발동기를 돌린다 하면 그리고 조석의 차가 많은 해안선을 다 이용한다＜69＞ 하면 거대한 동력을 얻을 것이다. 이것을 축전지에 저장해 가지고 필요할 때에 내 쓰자는 안도 서 잇는지 오래다. 아직까지는 그 10척, 20척, 30척의 높이는 얼마 못되고 기리만 긴 해안선에 이 수차를 설비하는 비용, 축전지를 그러케 많은 전력을 간직하도록 만드는 비용이 엄청나기 따문에 실현이 못되고 잇다. 그러나 언제든지 이것이 실현될 때는 朝鮮의 서해안선은 세계에서도 유수한 潮水 동력지가 되리라고 한다.
+
+폭포는 旣用
+(3) 潮水보다도 즘 더 높이서 떠러지는 물, 즉 빗물이 모여서 폭포가 되는 것을 웨 이용 못할까. 사실 수력 전기는 근년에 장족 진보를 하고 잇다. 「수력 터빈」의 능률이 비상히 진보되어 이미 수력의 9할 이상을 동력으로 化할 가능성이 잇다. 우리는 금강산과 長津의 폭포수가 우리 집의 전등불이 되는 것을 보앗거니와 아프리카의 깊은 숲들이 개척되고 피츠벅이나 만체스터같은 공업 도시가 쑥쑥 생길 날도 잇을 것이다.
+
+해수의 溫差
+(4) 공기의 액화, 인조질소, 네온등 등으로 유명한 佛國의 대발명가 클로드씨는 해수의 표면과 심저의 온도의 차이를 이용해 가지고 기계를 돌릴 실험을 하고 잇는 중이다. 열대 근방의 해수는 표면 온도가 화씨 7, 80도나 된다. 이것을 진공 파이프로 압력이 감하한 기관 속에 넣으면 증기가 될 수 잇겟고 그것을 다시 해저로 가저다가 거이 빙점에 가까운 찬물에 접촉시키면 증기가 응결하야 도루 물이 되는 동시에 상부의 증기를 빨아 내릴 것이니 몰려 오는 증기는 능히 檄關을 움즈길 수 잇다.
+이 이치는 아주 공상은 아닌 것이 白耳義에는 이미 클로드씨가 만든 조고만 엔진이 잇어 활동을 하고 잇는 것이다. 이 발명이 완성되는 날에는 넓으나 넓은 오대양 중 적어도 삼대양은 동력의 근원이 될 것이다.
+
+폭우도 잡아
+(5) 오늘날 폭풍우는 인류에게 일대 재해로밖에 인정되지 않지마는 만일 우리가 거대한 풍차를 건설하야 풍력을 완전히 굴레씨운다 하면 그 역시 거대한 동력을 우리에게 제공할 것이다. 물론 문제는 이 거대한 동력을 저장하는 방법인데 금일의 축전지는 소용이 없다. 새로운 간편하고도 저장력이 큰 축전지가 발명되어야 할 것이다. 할데인씨의 상상도에 의하면 천지를 뒤흔드는 태풍이 거인의 손과 같은 풍차를 돌리면 그 동력은 고압의 전력을 발동케 하야 그 전압을 물로 통하야 물을 수소와 산소로 분절을 한다. 그랫다가 일기가 온화한 날에 동력이 필요하면 그 두 까쓰를 다시 화합케 함으로 전력을 얻을 수 잇다는 것이다. 액체수소는 금일까지 알리어진 모든 동력의 源 중에 가장 힘잇는 것의 하나다. 바람을 잡아서 액체수소를 제조하면 무진장의 동력을 얻을 수 잇다는 것이다.
+
+직접 태양으로
+(6) 바람도, 폭포수도, 해수의 열도, 석탄도-모든 동력의 근원은 결국 태양에서 온 것이다.
+그러면 우리는 태양의 소산물을 간접으로 이용하기보다도 직접으로 태양열을 이용할 수는 없는가. 열대 地力에서 하로 동안에 받는 태양열을 계산한다면 1평방마일에 나리는 열이 석탄 7407屯을 때는 것과 같다고 한다. 만일 우리가 거대한 凸面鏡을 발명해 가지고 이 열을 1점에 집중한다고 하면 물을 끄리는 것 쯤은 용이한 일이다. 에릭슨씨의 「모니터」라는 기관은 이를 실현한 것이다. 슈만씨는 이 기게를 개량해가지고 埃及에 가서 관개사업에 양수기를 돌렷다.
+태양력이 최후로 남은 우리의 動源이 될 때에야말로 우리는 우주의 灼然한 星光에 마추어 기계의 소음을 드를 것이다. 溫寒帶의 석탄문명은 궤멸하고 인류는 다시 한 번 열대사막 지방으로 이민할 것이다. 사하라 사막과 꼬비 사막에 신도회가 발생할 것이다.
+태양은 열만 발사하는 것이 아니라 光을 放射한다. 지구상의 모든 식물은 그 광선을 소화해서 전분을 만들고 섬유를 만든다. 만일 인류가 그 작용을 개량하야 10년에 자라는 나무를 한 달에 자라게 하고 열 달 익는 여름을 하로에 익게 한다면...그보다 일층 나가서 광선을 직접 이용하야 합성목재와＜70＞ 합성사탕을 만들어 낸다면 우리의 연료문제는 해결될 것이다.
+
+원자의 비밀
+(7) 최후로 우리는 원자 속에 숨어 잇는 위대한 힘을 생각할 때에 경탄을 아니할 수 없다. 만일 우리가 수소를 깨트러서 「헬리움」을 만든다 하면 그 때에 발사되는 원동력은 거대한 것을 알 것이다. 곱부 한 잔의 물이 능히 태평양의 기선을 왕복하게 할 힘을 발할 수가 잇는 것이다.
+불행히 밀리칸 교수의 측정에 의하면 원자를 人力으로 分壞시키자면 누억만屯의 압력과 누백만도의 고온이 필요하니 그런 압력과 온도가 천공의 대우주의 용광로에서는 진행이 되지마는 人力으로 제조하기에는 너무도 엄청난 것이다.
+그러므로 원자의 비밀은 아마도 영구히 문닫친 비밀일 것이요 석탄의 대용품을 찾는 우리 인류는 바람과, 潮水와, 폭포와, 해양과, 태양, 합성화학과 열동학에서 적당한 방법을 강구해볼 밖에 없겟다.＜71＞
+＜69-71＞

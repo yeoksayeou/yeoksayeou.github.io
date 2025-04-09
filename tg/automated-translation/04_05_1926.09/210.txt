@@ -1,0 +1,134 @@
+**Header Section:**
+Magazine Title: 동광 제5호
+Publication Date: 1926년 09월 01일
+Article Title: 경상도민요 (Gyeongsang Province Folk Songs)
+Author: 진주 흥섭
+Article Type: 시 (Poem)
+
+**Body Text Translation:**
+Gyeongsang Province Folk Songs
+						Chinju Hŭngsŏp
+
+1
+Crows and magpies gather in flocks,
+settling down to sleep in the young pine field.
+Where has my beloved one gone,
+not knowing to come to sleep?
+
+2
+Raising a daughter, raising her beautifully,
+will I send her far away to another province?
+Does the swallow raise its young,
+only to send them to Cheju or Kangnam?
+
+3
+A blue skirt, a blue *topo* hung on one line,
+I don't know which is longer.
+Six-warp and four-warp hemp cloths taken off together,
+I don't know which is longer.
+
+4
+The sailor returning from Sŏul,
+did our sailor arrive?
+He comes, indeed he comes, but
+carried upon a bier (칠성판).
+
+5
+At the spring where the water turns at Chwado Yŏngsan,
+that big girl washing lettuce,
+pluck off the leaves and put them in your basket,
+and give the stalks to me.
+
+6
+The boat that used to sail on the Amnok River (鴨綠江)
+carried my love away and is gone.
+Let’s go find my love, let’s go find my love,
+Let’s go down to the Amnok River. <75>
+
+**Summary**
+
+This article presents six short verses categorized as Gyeongsang Province folk songs, penned or collected by Hŭngsŏp from Chinju. The verses capture poignant moments of rural life and common emotions: longing for an absent loved one, parental anxiety about a child leaving home, ambiguity or comparison, the sorrow of a loved one's death, a playful request between genders, and separation caused by distance, symbolized by the Yalu River. From a historical perspective, these folk songs offer insight into the everyday feelings and social fabric of Koreans in the 1920s under Japanese rule. The themes are timeless, yet their collection and publication in a Korean magazine during this period highlight efforts to preserve and value local culture amidst colonial pressures. The references to specific locations like Seoul and the Yalu River may also reflect contemporary realities of migration, travel, or border consciousness.
+
+**Named Entities**
+
+경상도	경상도	Kyŏngsangdo
+진주	진주	Chinju
+서울	서울	Sŏul
+좌도 영산	좌도 영산	Chwado Yŏngsan
+鴨綠江	압록강	Amnokkang
+
+**Glossary**
+
+바테	밭에	In the field (older spelling/dialect)
+어듸	어디	Where (older spelling)
+모르는고	모르는고/모르는가	Does not know? / Doesn't he/she know? (older/dialectal interrogative form)
+타도 타관	타도 타관	Other province, other district (idiomatic for a faraway place)
+보낼소냐	보낼소냐/보내겠는냐	Will I send? (rhetorical question, older form)
+색기	새끼	Young, offspring (can be slightly coarse depending on context, but common in folk songs)
+모르것네	모르겠네	I don't know (dialectal/older phonetic spelling)
+육날	육날	Six-warp (refers to fine hemp or ramie cloth)
+사날	사날	Four-warp (refers to coarser hemp or ramie cloth)
+한테	한데/함께	Together (older spelling/usage)
+선부	선부	Sailor, boatman
+오시든가	오시던가	Did (he/she) come? (honorific, older interrogative form)
+오네마는	오네마는/오지마는	He/she comes, but... (older connective form)
+칠성판	칠성판	Bier (literally 'seven-star board', board used to carry a corpse)
+돌아진	돌아진/휘돌아진	Winding, turning (describing a spring or path)
+아가	아가	Young lady, girl (often used familiarly or endearingly)
+입풀랑	잎(을)랑은/잎이랑은	The leaves (object marker + emphasis particle; older/dialectal form)
+훌터	훑어	To strip (leaves from a stem); pluck off
+광저리	광주리	(Woven) basket
+줄거릴낭	줄거리(를)랑/줄거리는	The stalks (object marker + emphasis particle; older/dialectal form)
+다고	다오	Give me (imperative, older/dialectal form, contraction of 달라)
+노던	놀던	That used to play/sail/be active (older verb ending)
+업네	없네	Is not here, is gone (older/dialectal spelling)
+차저	찾아	To find, look for (older/dialectal spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제5호
+발행일	1926년 09월 01일
+기사제목	경상도민요
+필자	진주 흥섭
+기사형태	시
+
+경상도민요
+						진주 흥섭
+1
+까마귀 까치 떼를 모와
+잔솔 바테 잠자로 드네
+그리운 님은 어듸를 가고
+잠자로 올 줄 모르는고.
+
+2
+딸을 딸을 곱게 키워
+타도 타관 보낼소냐
+제비란 놈 색기 키워
+제주 강남 보낼소냐.
+
+3
+청치마 청도포 한 줄에 걸어
+어느 긴 줄 모르것네
+육날 사날 한테 벗어
+어느 긴 줄 모르것네.
+
+4
+서울 갓다 오는 선부
+우리 선부 오시든가
+오기는 오네마는
+칠성판에 실려 오네.
+
+5
+좌도 영산 돌아진 샘에
+상추 씻는 저 큰 아가
+입풀랑은 훌터 네 광저리 담고
+줄거릴낭 나를 다고.
+
+6
+鴨綠江에 노던 배는
+님을 실코 가고 업네
+님 차저 가자 님 차저 가자
+鴨綠江에 처저 가자. ＜75＞
+＜75＞

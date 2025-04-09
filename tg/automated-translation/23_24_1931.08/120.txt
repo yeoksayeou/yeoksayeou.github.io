@@ -1,0 +1,62 @@
+**Header Section**
+Magazine Title: 동광 제24호
+Publication Date: 1931년 08월 04일
+Article Title: 열매 (Fruit)
+Author: 金岸曙
+Article Type: 시 (Poem)
+
+**Body Text Translation**
+Fruit
+						Kim Ansŏ
+
+On the rough shore of a lonely island in the distant sea,
+Every new spring, white flower clusters bloom,
+When the wind blows, petals fall upon the water,
+In summer, the fruit ripens redly.
+
+When the song of the water coming and going in the distant sea is high,
+Sailors (異國 船人) from foreign lands, coming and going with the waves,
+Stop by the island, mindlessly pick the fruit,
+And follow the water somewhere, going again.<27>
+
+**Summary**
+
+This poem by Kim Ansŏ depicts a lonely island where beautiful flowers bloom in spring and bear fruit in summer. However, foreign sailors passing by casually take the fruit and leave. The poem uses natural imagery to evoke a sense of isolation and perhaps exploitation, where the island's bounty is taken away indifferently by outsiders. From a historical perspective, the poem could be interpreted allegorically, representing Korea (the lonely island) during the colonial period, whose resources or cultural products (the fruit) were being taken or exploited by foreign powers (the sailors). The tone of passive observation might reflect the perceived helplessness or resignation felt by some Koreans at the time.
+
+**Named Entities**
+金岸曙	김안서	Kim Ansŏ
+
+**Glossary**
+외론	외로운	lonely (older form)
+거츤	거친	rough (older form)
+하야케	하얗게	white (adverb, older spelling)
+꽃닢	꽃잎	flower petal (older spelling)
+우에	위에	on top of, upon (older spelling)
+발하케	발갛게	redly, ruddily (older spelling)
+드나는	드나드는	coming and going (older spelling/form)
+異國	이국	Foreign country
+船人	선인	Sailor, boat person
+무심히	무심히	indifferently, carelessly
+어듸론지	어디론지	to somewhere (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제24호
+발행일	1931년 08월 04일
+기사제목	열매
+필자	金岸曙
+기사형태	시
+
+열매
+						金岸曙
+난 바다의 외론 섬 거츤 기슭에
+새 봄마다 하야케 피는 꽃송이,
+바람 부니 꽃닢은 물 우에 지고
+여름에는 열매가 발하케 익네.
+
+난 바다 드나는 물 노래 높을 제,
+물결 따라 오가는 異國 船人네
+섬에 들려 무심히 열매 따들고
+어듸론지 물 따라 또 다시 가네.＜27＞

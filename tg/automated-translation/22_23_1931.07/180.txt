@@ -1,0 +1,85 @@
+**Header Section:**
+Magazine Title: 동광 제23호
+Publication Date: 1931년 07월 05일
+Article Title: 照明彈 (Flare/Spotlight)
+Author: Not specified
+Article Type: 세태비평 (Social Commentary)
+
+**Body Text Translation:**
+Flare (照明彈)
+
+Of course, there is only one broadcasting station in Sŏul. That is JODK, standing atop Chŏngdong. However, would some people be surprised if I were to say that 照明子 (Chomyŏngja - likely a pen name or simply 'the illuminator/writer') knows there are several other broadcasting stations besides that one?
+
+Naturally, if you go to the countryside, there is at least one such broadcasting station in every village. The gathering spots of fast-mouthed women by the well or the storytelling sessions of old men smoking tobacco in the shade of willow trees serve as the exchange posts, amplification centers, and broadcasting stations for all the "sensational news" of that village.
+
+Perhaps the esteemed gentlemen residing in Sŏul might take offense at being compared to these fast-mouthed country wives or idle village elders, but it cannot be denied that Sŏul also has its share of such idle fellows. Thus, countless broadcasting stations have sprung up in every alley of Sŏul. Among them, the stations that are fastest with news and broadcast the most damaging information become the most trusted and interesting ones for those social operators (정치객들). Furthermore, the characteristic of such broadcasting stations—a special program (푸로그람) that permits no imitation by others—is precisely their skill in creating cutting-edge "news."
+
+There is a proverb, "Will smoke rise from a chimney without a fire?" (불 안땐 굴뚝에 연기가 나랴), but indeed, these broadcasting stations boast a strange skill when it comes to concocting utter fabrications (당선). They possess a creative ability that even a decent novelist might aspire to. To dismiss such things outright as lies is a hasty judgment by someone severely lacking in the power of observation regarding the human psyche.
+
+Why is that?
+
+Firstly, if we consider all worldly matters philosophically, can we truly say that a clear border has been drawn between the territory <52> of "truth" and the territory of lies? Even when someone insists they saw something with their own eyes, it is difficult for us to believe it as absolute "truth." For example, imagine a robber suddenly breaks into the place where you are sitting, points a revolver (륙혈포) at everyone's chest, and demands all your wallets and watches. When the detectives from Chongno Police Station (종로서 형사), arriving after a phone call, question you after the guest has left, will your descriptions of the guest's clothes, face, the size of his nose, and his height truly match? If one of you insists he wore a black jacket (웃옷) and grey trousers, and another claims that's not right, that the trousers were blue, you couldn't doubt the conscience (량심) of either person, could you? Yet, you couldn't believe both statements are true, could you? It wouldn't be strange if a third person among you thought to themselves that his trousers were yellow and chuckled inwardly, would it?
+
+That's not all. Secrets possess an inherent necessity to leak out. If I were to whisper something to a friend here—one with a good complexion and clear, lively eyes like a calf—under the absolute condition of secrecy, adding a request never to tell anyone else, wouldn't I be confident that within the next twelve hours, that whisper would have spread at a rate of at least one person per hour?
+
+Gossip (꼬싶) is one of life's natural gifts. Refraining from saying what one wants to say is difficult for anyone less than a sage or saint. Moreover, the more disadvantageous the news is to someone else, the greater the desire to broadcast it. We have no choice but to forgive human weaknesses generously. However, when that thoughtless wagging of tongues causes immense harm to others or is exploited by those with malicious intent (악의), we feel the need to cry out to people, warning them to beware of baseless stray shots (헷방총).
+
+Discerning truth from falsehood is truly difficult. And speaking only the truth is even more difficult. <53>
+<52-53>
+
+**Summary**
+
+This article uses the metaphor of "broadcasting stations" to critique the pervasive nature of rumor and gossip in 1931 Sŏul, comparing the city's rumor mills run by "idle fellows" and "operators" to those found in rural villages. The author reflects on the difficulty of distinguishing truth from lies, citing the unreliability of eyewitness accounts and the inherent human tendency to spread secrets and gossip, especially negative information. While acknowledging gossip as a human frailty, the author warns against the harm caused by baseless rumors ("stray shots") when spread carelessly or maliciously. For historians, the article offers insight into social dynamics and communication patterns in colonial Sŏul before widespread mass media, highlighting concerns about information control, the power of rumor, and the perceived differences (or lack thereof) between urban elites and rural folk in their propensity for gossip. The use of loanwords like "sensational news" and "program" is also indicative of cultural shifts.
+
+**Named Entities**
+
+JODK	JODK	JODK (Broadcasting Station Call Sign)
+貞洞	정동	Chŏngdong
+서울	서울	Sŏul
+종로서	종로서	Chongno-sŏ (Chongno Police Station)
+
+**Glossary**
+
+잇다	있다	To exist, to be (older spelling of 있다)
+녀인	여인	Woman (older spelling/term)
+이애기	이야기	Story, talk (older spelling of 이야기)
+엇구수한	어수선한/구수한	Could mean 'savory/hearty' (구수한) or possibly 'disorderly/noisy' (어수선한); context suggests 'interesting/engaging' stories.
+센세슈날	센세이셔널	Sensational (loanword, older phonetic transcription)
+뉴쓰	뉴스	News (loanword, older phonetic transcription)
+푸로그람	프로그램	Program (loanword, older phonetic transcription)
+불 안땐 굴뚝에 연기가 나랴	불 안 땐 굴뚝에 연기 날까	Proverb: "Will smoke rise from a chimney without a fire?" (lit. "Will smoke rise from an unlit chimney?") Meaning: There's no effect without a cause; no smoke without fire. (땐 is contraction of 때지 않은)
+당선	당선	Usually 'election victory', but here used contextually to mean 'fabrications' or 'concoctions'.
+령토	영토	Territory (older spelling/pronunciation likely influenced by Hanja 領土)
+륙혈포	육혈포	Revolver (lit. 'six-hole gun')
+웃옷	윗옷	Upper garment, jacket, coat (older spelling of 윗옷)
+량심	양심	Conscience (older spelling/pronunciation likely influenced by Hanja 良心)
+그러타고	그렇다고	Even so, nevertheless (colloquial contraction/spelling)
+셋재	셋째	Third (older spelling of 셋째)
+엿다고	였다고	(He) said it was... (Reported speech ending, older form)
+햇다고	했다고	(He) said he did... (Reported speech ending)
+잇지 아니한가	있지 아니한가	Isn't it?; Is it not that... (Rhetorical question form)
+꼬싶	가십	Gossip (likely an older or dialectal term, possibly related to modern 가십 'gossip')
+이면 소식일스록	-ㄹ수록	The more X, the more Y. (Older form of -(으)면 -(으)ㄹ수록)
+웨처 둘	외쳐 둘	To cry out, to shout out (and leave it at that)
+헷방총	헛방총	Stray shot; baseless talk/rumor (헛 meaning 'empty/false', 방총 meaning 'gunshot')
+
+
+---------------------------
+
+
+잡지명	동광 제23호
+발행일	1931년 07월 05일
+기사제목	照明彈
+기사형태	세태비평
+
+照明彈
+서울에 방송국은 물론 하나밖에 없다. 貞洞 꼭대기에 서 잇는 JODK가 그것이다. 그러나 照明子는 그밖에도 여러 군대의 방송국이 잇는 것을 안다...고 하면 놀랄 사람이 더러 잇는가.
+시골을 가면 물론 촌마다 그따위 방송국이 하나 이상 잇다. 우물까에 모여드는 입빠른 녀인들이나 버드나무 그늘에 담배 피우는 노인들의 엇구수한 이애기 터 같은 것이 그 동리의 모든 「센세슈날」한 「뉴쓰」의 교환소요, 확대처요, 방송국이 되는 것이다.
+적어도 서울에 사시는 유지신사 제군을 이런 입빠른 시굴 여편네나 한가한 촌 부자들에게 비긴다 하야 노여워할지 모르지만은 서울이라고 그런 일없는 친구들이 없으란 법이 없으렷다. 이리하야 무수한 방송국이 서울의 골목마다 생겨 잇게된다. 그 중에도 가장 소식이 빠르고 또 가장 치명적인 소식을 많이 방송하는 방송국 이야말로 그들 정치객들의 가장 신뢰하고 또 가장 흥미를 느끼는 방송국이 된다. 또 그런 방송국의 특색ㅡㅡ다른 방송국의 追隨를 不許하는 특별 푸로그람은 곳 그들이 최첨단적 「뉴쓰」를 創造하는 기술을 가진 것이다.
+불 안땐 굴뚝에 연기가 나랴하는 속담이 잇지마는 실로 엉터리도 없는 당선을 지어내는대 잇어서 이 방송국들은 묘한 기술을 자랑한다. 그들은 여간한 소설가가 가저볼 뻔도 못한 창조적 능력을 가지고 잇다. 이런 것을 가리켜서 一言之下에 거짓말이라고 하는 것은 人生의 심리에 대한 관찰력이 극히 부족한 사람의 조급한 판단이다.
+웨 그러냐.
+첫재로 결국 우리가 철학적으로 세상만사를 고찰한다하면 「참말」의 령토와 거짓말의 령토가 어디에 확연한 국경선이 그어젓다고 할 수 없는 ＜52＞ 것이 아닌가. 확실히 내 눈으로 본 것이라고 떠드는 사람이라도 우리는 그것을 참말로 「참」이라고 믿기가 어렵다. 가령 여러분이 앉아 잇는 이 자리에 갑자기 강도가 들어와서 모든 사람의 가슴에 륙혈포를 겨누고 돈지갑과 시계를 다 기부 받아 갓다고 생각하자. 그 손님이 지나간 뒤에 전화를 받고 온 종로서 형사가 여러분을 심문할 때에 그 손님의 옷과, 얼굴과 코의 크고 적음과, 키의 길고 짜름에 대하야 여러분의 대답이 과연 일치될 것이냐. 만일 여러분 중의 한사람이 그가 검은 웃옷에 회색바지를 입엇드라고 주장하고 다른 한사람이 그러치 아니하다. 바지는 푸른바지라고 주장한다고 하면 여러분은 그 두 사람의 량심을 의심할 수 없겟지. 그러타고 그 두 사람의 말이 둘 다 참말이라고는 믿지 못하겟지. 여러분 중에 제 셋재 사람이 그의 바지는 누런 바지엿다고 속으로 생각하고 픽 웃는다 해도 해괴할 것이 없겟지.
+그뿐 아니다. 비밀이라는 것은 새어나갈 필연성을 가지고 잇는 것이다. 내가 만일 여기 어떤 헐색 좋고 눈 정기가 맑아 송아지 같이 들먹거리는 친구를 향해서 이것은 절대 비밀이라는 조건부로 귓속을 하고 절대로 다른 사람에게 알리지 말라는 부탁을 첨가햇다고 하면 나는 다음 열두 시간 안에 그 귓속이 적어도 한시간에 한사람의 비례로 전파되엇을 것을 확신할 수 잇지 아니한가.
+「꼬싶」은 인생의 천품 중의 하나다. 말하고 싶은 것을 참는 것은 성현군자가 아니고는 어려운 일이다. 더구나 그것이 다른 사람을 불리하게 하는 소식이면 소식일스록 그 방송의 욕망은 더 큰 것이다. 우리는 사람의 약점을 너그러이 용서할 수밖에 없다. 그러나 그 철없은 입놀림이 다른 사람에게 막대한 해를 입히고 또는 악의를 품은 사람의 리용하는 바가 될 때에 우리는 사람들을 향하야 근거 없는 헷방총을 주의하라고 웨처 둘 필요를 느낀다.
+참과 거짓을 분간하는 것은 실로 어려운 일이다. 그리고 참말만을 입에서 내기는 더 어려운 일이다. ＜53＞
+＜52-53＞

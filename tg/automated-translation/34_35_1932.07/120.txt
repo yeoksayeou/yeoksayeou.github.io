@@ -1,0 +1,215 @@
+Magazine Title	동광 제35호
+Publication Date	1932년 07월 03일
+Article Title	訓民正音의 起源과 諸學說, 朝鮮文字의 歷史的 考察(13) (The Origin of Hunminjŏngŭm and Various Theories, A Historical Study of Korean Script (13))
+Author	金允經
+Article Type	논설 (Editorial/Treatise)
+
+Eighth, The Pictographic Origin Theory
+This is the theory that posits Hunminjŏngŭm was created based on the shapes of the speech organs: the molars (牙), tongue (舌), lips (唇), teeth (齒), and throat (喉). Also included here are ideas that the letter shapes resemble the forms of astronomical phenomena (奎壁圓曲之象) or that the dots and strokes (點畫) follow the style of Lesser Seal (小篆) and Clerical (分隷) scripts. Proponents of this theory include Sin Kyŏngjun (申景濬, 1712-1781), author of the *Hunminjŏngŭm Tohae* (訓民正音圖解); Hong Yangho (洪良浩, 1724-1802), author of the *Kyŏngse Chŏngŭm Tosŏl* (經世正音圖說); and Kang Chang (姜璋), author of *Ŭijŏng Kungmun Chamo Punhae* (擬定國文字母分解) written in the 6th year of King Kojong's reign. Furthermore, Chi Sŏgyŏng (池錫永), who proposed the draft for the *New Revised National Script* (新訂國文) promulgated by the Ministry of Education (學部) in July of the 9th year of Kwangmu (光武, 1905), also agreed with this view in his *Oŭm Sanghyŏng Pyŏn* (五音象形辨 - Discrimination of the Five Sounds based on Pictographs), stating things like "The velar sound ㄱ (牙音) resembles the shape of the molar (象牙形)" and "The lingual sound ㄴ (舌音) resembles the shape of the tongue (象舌形)." Mr. Yi Yunjae (李允宰) also supported this, citing the *Hunminjŏngŭm Ch'osŏng Sangahyŏng To* (훈민정음 초성 상아형도 - Diagram of Hunminjŏngŭm Initial Consonants Resembling Molar Shapes: ㄱ resembles molar shape, ㄴ resembles tongue shape, ㄷ resembles flapping tongue shape, ㅂ resembles half-open ㅁ shape, ㅍ resembles open ㅁ shape, ㅅ resembles tooth shadow, ㅈ resembles gingiva shadow, ㅇ resembles throat shape, ㅎ resembles throat shadow, ㄹ resembles rolled tongue shape, △ resembles half-open tooth shape, etc.) and stating, "Based on this, we can see that our Correct Sounds (正音) were not derived from other scripts or any object shapes, but were simply created by modeling the shapes of human speech organs: molars, tongue, lips, teeth, and throat." (Note 64)
+
+Ninth, The Musical Theory Origin
+This theory can be considered essentially the same as the aforementioned Pictographic Theory, differing only in name. The Pictographic Theory matches the names of the seven sounds (7音) to the speech organs—velar (牙), lingual (舌), labial (唇), dental (齒), guttural (喉), semi-lingual (半舌), semi-dental (半齒)—and asserts that the letter shapes were modeled after each of them. In contrast, this Musical Theory matches the names of the seven sounds to the names of the musical scale—*kung* (宮), *sang* (商), *kak* (角), *ch'i* (徵), *u* (羽), *pyŏnjing* (變徵), *pyŏn'gung* (變宮)—and claims the letter shapes were created to symbolize each of them. However, just as there is little actual resemblance between the velar sound ㄱ (牙音) and the shape of a molar (牙), if asked why ㄱ symbolizes the *kak* (角) note, there is no explanation. If this were the case, it might be even better to say they were made corresponding to the currently popular Western musical scale: Do, Re, Mi, Fa, Sol, La, Ti. Such ideas seem like East Asian metaphysical fantasies (東洋의 역학적 空想). That is, like the concepts of the Five Elements (五行), Five Sounds (五音), Five Constants (五常), or Five Directions (五方), merely because the count of items happens to be the same, they are forcefully linked as if there were some causal relationship, which seems nothing more than a product of unscientific thought (非料學的 思想). <37> Pak Sŏngwŏn (朴性源, 1697-1767), author of the *Hwadong Chŏngŭm T'ongsŏk Un'go* (華東正音通釋韻考, also known as *Chŏngŭm T'ongsŏk* 正音通釋), published in the 11th year of King Chŏngjo (正祖, 1787), explained the five initial consonant sounds (5音初聲) by saying, "The five sounds combined with two variations become seven sounds" (五音合二變爲七音), and listed them as:
+"Kak (角, Velar sound 牙音) ㄱㅋㆁ; Ch'i (徵, Lingual sound 舌音) ㄷㅌㄴ; Pyŏnjing (變徵, Semi-lingual sound 半舌音) ㄹ (classified as Semi-Ch'i Semi-Sang 半徵半商 in the Hongwu Rhymes 洪武韻); Sang (商, Dental sound 齒音) ㅈㅊㅅ; U (羽, Labial sound 唇音) ㅂㅍㅁ◇; Kung (宮, Guttural sound 喉音) ㅇㅎ; Pyŏn'gung (變宮, Semi-guttural sound 半喉音) ㅿ (classified as Semi-Ch'i Semi-Sang 半徵半商 in the Hongwu Rhymes 洪武韻)." He also described the articulation of the seven sounds (七音出聲, from Ch'ul Wŏnŭm T'ongsŏk 出元音通釋):
+"Kak is the velar sound; the sound comes out reaching the molars, the tongue retracts and leaps, the teeth spread and the lips well up, round, solid, blunt, emerging flatly forward. Ch'i is the lingual sound; the sound comes out reaching the tongue, teeth closed and lips open, circling, diffuse, relaxed, slow, alternately vibrating to arise, descending obliquely. Sang is the dental sound; the sound comes out reaching the teeth, the mouth gate and palate spread, soaring upwards and returning to the center, clear, distinct, firm, strong, seeming to linger even as it exits. U is the labial sound; the sound comes out reaching the lips, teeth open, clearly gathered, pure, resonant, brightly echoing, fluttering and rising, lingering as it departs. Kung is the guttural sound; the sound emerges from the throat, the mouth closed but passage open, broad, deep, resonant, imposing, the tongue resting in the middle, rising straight from within. Pyŏnjing is the semi-lingual sound; open the mouth and release air, half resonating at the tongue, the tongue adheres and rises inversely toward the throat, and the throat vibrates. Pyŏn'gung is the semi-guttural sound; align the teeth and release air, the resonance starts at the throat, the throat is still, emerging lightly from the throat, and the tongue moves gently."
+Furthermore, the *Tongguk Munhŏn Pigo* (東國文獻備考), as mentioned before, states "[The letters] imitate ancient seal script" (倣古篆), seeming like the Ancient Seal Script Theory, but also in its *Akko* (樂考 - Study of Music) section, it says:
+"Your humble servant respectfully notes: During King Sejong's reign, the Hunminjŏngŭm perfected the sounds of lips, teeth, throat, and tongue, exhausted the modes of *kung, sang, kak, ch'i*, explored the variations of clear and muddy, high and low sounds. All this was derived from the remnants of music-making (推作樂之緖餘) to adorn the vernacular language (方言). Thus, though not music itself, it is related to music. Therefore, it is appended after the Study of Music." This suggests it could belong to this [Musical Theory]. An Kwak (安廓) also published in various places under the title "The Origin (or Source) of Ŏnmun" (諺文의 淵源 혹은 出處), stating: "On what is the foundation of the script's structure? Commentators say it is an abstract delineation (抽象的 획出) of music, which becomes the aesthetic form of natural, ultimate principles (自然的 至理), matched to points of modulation in pronunciation. In other words, the origin of Ŏnmun is a musical-theoretical abstraction (樂理的 추상)." (Note 49) He even proposed theories ranging from the T'aegŭk origin (太極기원설) to Yin-Yang theory (陰陽說) for the medial vowels (中聲, 母音), making his views difficult to pin down.
+
+Tenth, The 28 Lunar Mansions Origin Theory
+This cannot be particularly recognized as a distinct school of thought, but Hong Yangho (洪良浩), in the preface to his *Kyŏngse Chŏngŭm Tosŏl* (經世正音圖說), wrote, "Our Great King Sejong created the twenty-eight letters of Hunminjŏngŭm to correspond to the number of the lunar mansions (列宿之數)." This can be seen as expressing this opinion. However, immediately below that, he states, "And the letter shapes resemble the forms of Kyu and Pyŏk, round and curved (奎璧圓曲之象), while the dots and strokes follow the style of Lesser Seal and Clerical scripts (點劃則小篆分隷之體)," which makes him seem to advocate for the Pictographic Theory or perhaps the Chinese Character Theory, making his statement ambiguous.
+
+Eleventh, Origin in Ancient Script
+Having briefly introduced the origin theories of various scholars, the final point I wish to add regarding the origin of Hangeul is that its origin lies in our ancient script (古代文字, mentioned earlier). Although this, of course, requires further investigation (後考) and is difficult to assert definitively, I believe it holds more certainty than the various origin theories listed before and is likely not too rash a judgment (妄斷). This is based on:
+One. As examined above, although the actual details are hard to ascertain, the existence of an ancient script itself is a factual matter.
+Two. As stated in the preface of Sin Kyŏngjun's *Hunminjŏngŭm Tohae* (訓民正音圖解): "In the East, there were commonly used scripts (俗用文字) from antiquity, but their number was incomplete (不備), their forms lacked structure (其形無法), insufficient to represent the speech of a region or serve its needs." This indicates that a part of that ancient script, albeit incomplete, was transmitted down to his time (Sin lived during King Yŏngjo's reign 英祖).
+Three. Regarding the inscription on the Pŏpsugyo Stele (法首橋 碑文) in P'yŏngyang (平壤), excavated in the second month of the 16th year of King Sŏnjo (宣祖), Kye-mi (癸未, 1583): "At Pŏpsugyo in P'yŏngyang, there is an ancient stele (古碑); [the script is] not Ŏnmun (非諺), not Sanskrit (非梵), not Seal Script (非篆), no one can decipher it." And also, "In the second month of Kye-mi, the stone stele buried at Pŏpsugyo was excavated and examined; it was broken into three pieces. The inscription (碑文) was not Clerical script (非隷字), but resembled Sanskrit writing (如梵書樣). Some say this was written by Sinji (神誌) in the time of Tan'gun (檀君), lost over the long years." (Note 64) This states the characters were neither Ŏnmun, nor Seal Script, nor Sanskrit, nor Clerical Script, but resembled Sanskrit. Furthermore, Hyangch'al (鄕札) was described as "resembling connected Sanskrit letters" (似梵書連布) (Note 16), indicating ancient script resembled Sanskrit. Now, since our Hunminjŏngŭm <38> also has resemblances to Sanskrit, leading to the advocacy of a Sanskrit Origin Theory, this proves a strong similarity between the ancient script and Hunminjŏngŭm.
+Four. Haengji (行智, a monk from Mt. Hiei 叡山僧, second son of Fujiwara Takayoshi? 藤隆能), in his *Hunsŏk Ŏnmunhae* (訓釋諺文解) (Note 65), stated: "This script has ancient and modern forms (古今二體). The ancient form (古體) was initially created and transmitted from the time of the Three Han states (三韓國). The modern form (今體) was created when the Yi Dynasty's (李朝) King Sejong revised and trimmed the ancient script (改削古文). Currently, in that country (卽今其國), the transmission of the ancient script is lost (古文失其傳), and only the modern script is used (但行今文). The ancient script is what is now transmitted as the writing of the Hwiin (肥人書是也, possibly referring to Jurchen/Manchu or another group?). The ancient script also has two forms, one like ******** etc., one like ***** etc. [Text missing/illegible] The Koryŏ (高麗) root-cast Won'gakt'ongsil Sŏngmun (根鑄元祏通實昔文*) character, like the modern script's 오 (o) character, ancient writings (前代遺文) can be seen as evidence (可以實見)."
+Five. In the memorial submitted by Ch'oe Malli (崔萬理) and others opposing Hunminjŏngŭm, they argued: "If you say that Ŏnmun is entirely based on ancient characters (皆本古字), not [newly invented] characters (非[新]字也), then although the letter shapes imitate the ancient Seal Script (字形雖倣古之篆文), the use of sound combination to form syllables (用音合字) completely deviates from the ancient ways (盡反於古)." Comparing this with Chŏng Inji's (鄭麟趾) statement in his preface, "The letters imitate Ancient Seal Script" (字倣古篆), it becomes clear that it was based on ancient script. However, the mention of "Ancient Seal Script" contradicts the facts [according to Kim Yun'gyŏng], suggesting it was merely a statement to appease the pedantic Confucian scholars (腐儒) addicted to Chinese characters at the time, while the reality was clearly indicating some indigenous script (固有한 문자) from the past.
+Synthesizing these points, I believe Hunminjŏngŭm was created by taking the incomplete ancient script as a foundation and adding the deepest scholarly research and broad reference to the scripts of various countries. Regarding this, Mr. Kwŏn Tŏkkyu (權悳奎) has already expressed a generally similar opinion: "The era when the Korean script was created was either the Silla (羅朝) or Koryŏ (麗朝) dynasty, this much is clear, and its creation predates Hunminjŏngŭm. King Sejong (世宗임검), along with various scholars, merely has the merit of having corrected its sounds (音を正) and promulgated it to the people with state power (國力으로 國民에게 頒布). However, the revival of the Korean script is entirely thanks to King Sejong. If not for the Sejong era, it would not have become the so-called Correct Sounds (正音). The Sejong era represents the Sage (聖人) who synthesized and perfected (集大成) the Korean script, a great light in our cultural history." (Note 5)
+
+However, it goes without saying that even if Hunminjŏngŭm was created with reference to some script, the glory of King Sejong's creation and invention remains completely unchanged. If we were to say that because it originated from something else, it is not a creation or invention, then today's numerous inventors, creators, and discoverers in science and art would all have to abandon their honor. Why? Because none of them have failed to borrow from the thoughts of their predecessors or contemporaries. <39>
+
+(Note 64) *P'yŏngyangji* (平壤誌)
+(Note 65) Haengji's (行智) *Hunsŏk Ŏnmunhae* (訓釋諺文解) is re-cited from Mr. Kwŏn Tŏkkyu's (權悳奎) *Chosŏn Ŏmun Kyŏngwi* (朝鮮語文經緯) and Mr. Kwŏn Sangno's (權相老) *Segye Munja wa Pulgyo ŭi Kwangye* (世界文字와 佛敎의 關係) (published in *Pulgyo* [佛敎] No. 49), but since the only known work by Haengji seems to be the *Kana Yūkoi* (假名遺古意) from July, Bunka 6 (文化六年, 1809), there is still doubt, pending further investigation (後考). (References: *Nihon Jinmei Daijiten* [日本人名大辭典], etc.) <39>
+<37-39>
+
+**Summary**
+
+This article by Kim Yun'gyŏng, part 13 of a series on Korean script history published in 1932, critiques various theories on the origin of Hunminjŏngŭm (Hangeul). It dismisses theories based on pictographs of speech organs, musical principles (likened to unscientific fantasy), and the 28 lunar mansions as inadequately explained or speculative. The author strongly advocates for the theory that Hunminjŏngŭm was derived from a pre-existing, albeit incomplete, ancient Korean script, citing historical records mentioning non-standard scripts (like the P'yŏngyang stele inscription and Haengji's account) and interpreting passages from Sin Kyŏngjun, Ch'oe Malli, and Chŏng Inji to support this. While acknowledging King Sejong's paramount role in researching, systematizing, and promulgating the script, the author argues this achievement built upon an earlier indigenous foundation, similar to how modern discoveries build on prior work. From a colonial history perspective, the article is interesting for its assertion of an *indigenous* origin for Hangeul, countering Sinocentric or externally-derived theories (like Sanskrit or Phagspa origins, though Sanskrit is mentioned in relation to the ancient script) and emphasizing Korean cultural continuity and ingenuity through figures like Sejong, even while acknowledging potential reference to other scripts. This reflects a nationalist sentiment common in Korean intellectual discourse during the Japanese occupation, seeking to establish the unique and ancient roots of Korean culture. Historians might find the specific historical sources cited (P'yŏngyang stele, Haengji's contested text) and the explicit dismissal of metaphysical explanations in favour of a historical lineage noteworthy.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun'gyŏng
+申景濬	신경준	Sin Kyŏngjun
+洪良浩	홍양호	Hong Yangho
+姜璋	강장	Kang Chang
+高宗	고종	Kojong
+池錫永	지석영	Chi Sŏgyŏng
+學部	학부	Hakpu (Ministry of Education)
+光武	광무	Kwangmu (era name)
+李允宰	이윤재	Yi Yunjae
+朴性源	박성원	Pak Sŏngwŏn
+正祖	정조	Chŏngjo
+東國文獻備考	동국문헌비고	Tongguk Munhŏn Pigo
+世宗	세종	Sejong
+安廓	안곽	An Kwak
+平壤	평양	P'yŏngyang
+法首橋	법수교	Pŏpsugyo
+宣祖	선조	Sŏnjo
+檀君	단군	Tan'gun
+神誌	신지	Sinji
+行智	행지	Haengji
+叡山	예산	Yeisan (Mt. Hiei)
+藤隆能	등륭능	Fujiwara Takayoshi (possible reading, not given in text)
+三韓	삼한	Samhan
+李朝	이조	Yi Cho (Yi Dynasty)
+高麗	고려	Koryŏ
+崔萬理	최만리	Ch'oe Malli
+鄭麟趾	정인지	Chŏng Inji
+權悳奎	권덕규	Kwŏn Tŏkkyu
+羅朝	나조	Na Cho (Silla Dynasty)
+麗朝	여조	Yŏ Cho (Koryŏ Dynasty)
+李德懋	이덕무	Yi Tŏngmu
+崔南善	최남선	Ch'oe Namsŏn
+東亞日報	동아일보	Tong-a Ilbo
+時代日報	시대일보	Sidae Ilbo
+朝鮮史學	조선사학	Chosŏn Sahak
+伴信女	반신녀	Ban Nobutomo
+日本書紀	일본서기	Nihon Shoki
+天武天皇	천무천황	Tenmu Tennō
+黑井治德	흑정치덕	Kuroi Harunori
+朝鮮	조선	Chosŏn (magazine name, also country)
+權相老	권상로	Kwŏn Sangno
+佛敎	불교	Pulgyo (magazine name, also Buddhism)
+黃胤錫	황윤석	Hwang Yunsŏk
+忠宣王	충선왕	Ch'ungsŏn Wang
+薊國大長公主	계국대장공주	Kyeguk Taejang Kongju
+李能和	이능화	Yi Nŭnghwa
+元宗	원종	Wonjong
+太宗	태종	T'aejong
+司譯院	사역원	Sayŏgwŏn
+偰長壽	설장수	Sŏl Changsu
+全秉薰	전병훈	Chŏn Pyŏnghun
+太白狂奴	태백광노	T'aebaek Kwangno (pen name of Pak Ŭnsik)
+박은식	박은식	Pak Ŭnsik
+金澤榮	김택영	Kim T'aegyŏng
+
+**Glossary**
+
+訓民正音	훈민정음	Hunminjŏngŭm (Correct Sounds for Instructing the People; original name for Hangeul)
+起源	기원	Origin
+諸學說	제학설	Various theories
+考察	고찰	Study, consideration, investigation
+象形	상형	Pictograph, based on shape
+發聲器官	발성기관	Speech organs
+牙舌唇齒喉	아설순치후	Technical terms for places of articulation: velar, lingual, labial, dental, guttural
+主唱者	주창자	Proponent, advocate
+引用	인용	To cite, citation
+樂理	악리	Music theory
+音階	음계	Musical scale
+宮商角徵羽	궁상각치우	Traditional East Asian pentatonic scale notes
+象徵	상징	To symbolize, symbol
+空想	공상	Fantasy, idle fancy, speculation
+非料學的	비료학적	Unscientific (older form, modern is 비과학적)
+産物	산물	Product, result, outcome
+刊行	간행	To publish, publication
+初聲	초성	Initial consonant (in a Hangul syllable block)
+中聲	중성	Medial vowel (in a Hangul syllable block)
+倣	방	To imitate, to model after
+古篆	고전	Ancient Seal Script (a style of Chinese calligraphy)
+緖餘	서여	Remnants, byproduct, remainder
+賁飭	분식/비칙	To adorn, to embellish
+方言	방언	Vernacular language, dialect (here referring to Korean vs. Chinese)
+淵源	연원	Origin, source, fountainhead
+抽象的	추상적	Abstract
+획出	획출	To delineate, to draw out
+相合	상합	To correspond, to match, to be in accord with
+乃至	내지	Or even, up to, ranging from...to...
+列宿	열숙	Lunar lodges, constellations (in East Asian astronomy)
+古代文字	고대문자	Ancient script/writing
+後考	후고	Further study, later consideration
+妄斷	망단	Rash judgment, arbitrary conclusion
+列擧	열거	To list, to enumerate
+俗用文字	속용문자	Commonly used script/letters (vernacular script)
+不備	불비	Incomplete, inadequate, not fully equipped
+形無法	형무법	Lacking form/structure, formless (lit. 'shape has no law')
+發堀	발굴	Excavation
+碑文	비문	Stele inscription, epigraph
+梵	범	Sanskrit, Indian, Brahmanical
+檀君	단군	Legendary founder of Gojoseon
+神誌	신지	Legendary figure credited with inventing script in Tan'gun's time
+遺失	유실	Lost, missing
+鄕札	향찰	Hyangchal (early Korean writing system using Hanja for sound and meaning)
+反對上疏	반대상소	Memorial/Petition of opposition submitted to the throne
+固有	고유	Inherent, indigenous, unique to
+慰撫	위무	To console, to appease, to placate
+腐儒	부유	Pedantic/decadent Confucian scholar (derogatory)
+頒布	반포	To promulgate, to announce, to distribute officially
+集大成	집대성	To synthesize, to compile comprehensively, culmination
+聖人	성인	Sage, saintly person
+만들엇다고	만들었다고	(He/She/They) said it was made (older spelling of 만들었다고)
+하엿습니다	하였습니다	Did, Was (formal polite ending; older spelling of 하였습니다)
+잇엇다는	있었다는	That existed/which existed (older spelling of 있었다는)
+잇는	있는	Existing, which exists (older spelling of 있는)
+잇음이	있음이	Existence (subject marked); that it exists (older spelling of 있음이)
+만치	만큼	As much as, to the extent that (older spelling/dialect form of 만큼)
+그럿타하면	그렇다면	If that is so, then (older spelling of 그렇다면)
+되매	되므로/되어서	Because it becomes/is, As it becomes/is (older grammatical form)
+조곰도	조금도	Even a little bit (older spelling of 조금도)
+잇다함이외다	있다 함입니다	It is said that it exists (older formal ending)
+
+
+---------------------------
+
+
+잡지명	동광 제35호
+발행일	1932년 07월 03일
+기사제목	訓民正音의 起源과 諸學說, 朝鮮文字의 歷史的 考察(13)
+필자	金允經
+기사형태	논설
+
+訓民正音의 起源과 諸學說, 朝鮮文字의 歷史的 考察
+						金允經
+第八, 象形기원설
+이것은 대개 發聲기관인 牙舌唇齒喉 들의 형상에 의지하여 훈민정음을 만들엇다고 보는 학설이외다. 또한 奎壁圓曲의 象인 字形이라던가 小篆分隷의 體인 點畫이라던가 이름도 여기에 속한 八것입니다. 訓民正音圖解 筆者 申景濬(西紀 1962-1781) 經世正音圖說 著者 洪良浩(西紀 1724-1802) 擬定國文字母分解 著者 姜璋(高宗 6년 著)들은 이 學說의 主張者외다. 또 池錫永는 光武 9년(西紀 1905) 7월 學部 發布의 이 新訂國文의 本案을 提議한 인데 그 5音象形辨을 보면 『「牙音象牙形』이라던가 『ㄴ舌音象舌形』이라 하여 역시 이 말에 贊同한 것입니다. 李允宰氏도 훈민정음 初聲象牙形圖(ㄱ象牙形, ㄴ象舌形, ㄷ象掉舌形, ㅂ象半開ㅁ形, ㅍ象開ㅁ形, ㅅ象齒影, ㅈ象齒齦影, ㅇ象喉形,  象喉치影, ㄹ象卷舌形, △象半啓齒形, 등)를 引用하면서 『이에 의지하여 보면 우리 正音은 다른 문자라던가 혹은 어떠한 物形에 의지하여 된 것이 아니고 단순히 사람의 발음기관인 牙舌唇齒喉 들의 모양을 본뜨어 만들은 것임을 알겟다』(註64)고 하여 여기에 찬성하엿습니다.
+
+第九. 樂理起源說
+이 學說은 앞서 말한 象形說과 실제는 같고 명칭만 다른 것에 불과하다고 보아도 좋은 것입니다. 象形說은 7音의 各稱을 發聲기관인 牙舌唇齒喉 半舌 半齒에 배합하여서 그 字形이 各各 그것들에 본뜨어 만들엇다. 이르는 것이지마는 이 樂理說은 7音의 명칭을 음악의 음계의 명칭인 宮 商 角 徵 羽 變徵 變宮에 배합하여서 그 字形이 各各 그것들에 상징하여 만들엇다고 하는 것입니다. 그러하나 牙音의 ㄱ이 牙의 형상이라 하되 실제에는 조곰도 같은 점이 없음과 마찬가지로 ㄱ이 角音에 상징하여 만들엇다 하되 어찌하여 그러한가 물으면 설명이 없습니다. 만일 그러타하면 오늘날 盛行되는 西洋음악의 도레미바솔라씨에 應하여 만들엇다고 함이 더욱 좋을는지도 모를 것입니다. 이러한 말은 東洋의 역학적 空想이라고 생각됩니다. 즉 5行이라던가 5音이라던가 5常이라던가 5方이라 함 따위와 같이 다만 우연이 名數만 같으면 억지로 결부하여 무슨 因果관계나 잇는 듯이 생각하는 非料學的 思想의 産物에 불과한다고 생각됩니다.＜37＞ 正祖 11년(西紀 1787)에 刊行된 華東正音通釋韻考(혹은 正音通釋) 著者 朴性源(西紀1697-1767)은 5音初聲을 설명하되 『5音合二變爲7音』이라 하여
+『角(牙音) ㄱㅋㆁ, 徵(舌音) ㄷㅌㄴ, 變徵(半舌音) ㄹ(洪武韻作半徵半商) 商(齒音) ㅈㅊㅅ, 羽(唇音) ㅂㅍㅁ◇, 宮(喉音) ㅇㅎ, 變宮(半喉音) ㅿ(洪武韻作半徵半商)』이라 하고 또 『7音出聲(出元音通釋)』이라 하여
+『角爲牙音, 聲出至牙, 縮舌而躍, 張齒湧吻 通圓實撲, 平出於前. 徵爲舌音, 聲出至舌, 齒合唇啓, 回漫舒遲, 迭振以起, 自邪降出. 商爲齒音, 聲出至齒, 口門齶張, 騰上歸中, 明達堅剛, 雖出若留, 羽爲唇音, 聲出至唇, 齒開昭聚, 淸徵廻亮, 飄振以擧, 若留以去. 宮爲喉音, 聲出於喉, 合口而通, 鹿大沉雄, 舌則居中, 自內直上. 變徵爲半舌音, 開口發氣, 半響於舌, 而舌帖逆升於喉, 而喉舞. 變宮爲半喉, 齊齒發氣起響於喉, 而喉靜, 輕出於喉, 而舌謠』라고 설명하엿습니다. 또 東國文獻備考에는 먼저에도 말한대로 『倣口古』이라 하여 古篆說같이 보이나 또 그 樂考에
+『臣謹按世宗朝 訓民正音 極唇齒喉舌之聲, 盡宮商角徵之調, 窮淸濁高下之變, 是皆推作樂之緖餘, 以賁飭乎方言, 則盖亦非樂而樂也, 故, 附之樂考之後云,』이라 함을 보면 여기에 속할 만합니다. 또 安廓氏도 『諺文의 淵源(혹은 出處)』이란 제목으로 이곳 저곳 발표하기를 『字體조직의 기초가 何에 잇나뇨. 論者는 여기 대하여 말하되 자연적 至理의 美化物되는 음악을 추상적으로 획出하여 發音上 調節點에 相合한것이라 하니 更言하면 諺文의 起源은 樂理的 추상이라』 (註49)고 하엿습니다. 그리고 그는 또 中聲 (母音은 심지어 太極기원설 乃至 陰陽說까지 말하엿으므로 종잡을 수 없습니다.
+
+第十. 28宿 起源說
+이것은 별로 一家說이라 인정할 것은 못되나 洪良浩가 그의 經世正音圖說의 序에 『我世宗大王, 創制訓民正音二十八字, 以應列宿之數』라 한 것은 이 의견의 표시라고 보겟습니다. 그러하나 그는 곳 그 밑에 『而字形則 奎璧圓曲之象, 點劃則小篆分隷之體』라 한 것을 보면 혹은 象形說, 또 혹은 漢字說을 주창한 것같이도 보이매 애매한 말이라 하겟습니다.
+
+第十一. 古代文字에 起源됨
+以上 여러 학자의 起源說을 대강 소개하엿습니다. 한글의 起源에 대하여 끝으로 한마디 부치고 싶은 것은 그 起源이 우리의 古代文字(이미 말함)에 잇다함이외다. 이것은 물론, 아직 後考를 기다리는 바인 고로 확실히 단언하기는 어렵다 할찌라도 전에 列擧한 여러 起源說보다는 오히려 확실성이 잇어서 과히 妄斷은 아닐까 생각합니다. 이는
+一. 이미 우에서 考察함과 같이 그 실제 내용이 똑똑이 알기는 어렵다 할찌라도 古代문자가 잇엇다는 것만은 사실인 일.
+二. 申景濬의 訓民正音圖解 序에 『東方舊有俗用文字, 而其數不備, 其形無法, 不足以形一方之言, 而備一方之用也』라 함과 같이 불완전은 하나마 그 古來의 문자의 일부분이 그 시대(申은 英祖때 사람)까지 전하던 일.
+三. 宣祖 16년 癸未(西紀 1583) 2월에 發堀된 平壤 法首橋 碑文에 대하여 『平壤法首橋, 有古碑, 非諺非梵非篆, 人莫能曉』라 하고 또 『癸未二月, 掘覺石碑之理于法首橋者, 出而視之, 則折爲三段, 碑文, 非隷字, 如梵書樣, 或謂此是檀君時神誌所書云, 歲久遺失』(註64)이라 하여 字가 諺文도 아니요 篆文도 아니요 梵文도 아니요 그 文隷字도 아닌데 梵書와 비슷하다 하엿고 또 『鄕札, 似梵書連布』(註16)라 하여 古代의 문자가 梵書와 비슷하다 하엿는데 이제 우리의 훈민정음도 ＜38＞ 梵字起源說을 주창할 일이 만치 梵字와 비슷함이 잇는 고로 古代文字와 훈민정음과는 매우 같은 점이 잇음이 증명된 일.
+四. 行智(叡山僧, 藤隆能의 2男)가 訓釋諺文解(註65)에 『此文有古今二體, 古體則自三韓國, 初製傳, 今體則李朝世宗時改削古文, 卽今其國, 古文失其傳, 但行今文, 古文卽今所傳肥人書是也, 古文亦有二體, 一則 ********等, 一則 ***** 등 高麗根鑄元祏通實昔文*字, 如今文오字, 前代遺文, 可以實見』이라 한 일.
+五. 崔萬理들의 훈민정음 反對上疏 중에 『儻曰諺文皆本古字, 非字也則, 字形雖倣古之篆文, 用音合字, 盡反於古』라 한 것을 鄭麟趾의 序文중에 『字倣古篆』이라 한 것과 합하여 본 즉 古文字에 의지하여 만든 것이 분명한데 거기에 古篆云云한 것은 사실과 상반됨을 보아 그것이 다만 한자에 중독된 당시 腐儒들을 慰撫하는 말에 불과하고 사실인 즉 從事의 무슨 固有한 문자를 가르침이 분명한 일.
+들을 종합하면 훈민정음은 古來의 불완전한 문자를 기본 삼아 거기에다 가장 깊은 학술적 연구와 넓은 各國 문자의 참고를 더하여 만들엇다고 생각합니다. 이에 대하여는 權悳奎氏도 이미 대략 동일한 의견을 발표함이 잇습니다. 『朝鮮文의 창조된 世期가 羅朝던지 麗朝던지 분명하고 그 창조는 훈민정음 이전에 잇은 것이요 世宗임검은 여러 학자로 더부러 그 音을 正하여 국력으로 국민에게 頒布한 功이 잇을 뿐이라. 그러나 朝鮮문자의 부흥은 온전히 世宗임검께 말미한 것이니 世宗朝가 아니더면 이른바 正音이 되지 못하엿을찌요 世宗朝는 朝鮮文을 집대성한 聖人으로 우리 文化史上에 큰 빛이니라』 (註5)
+
+그러하나 훈민정음을 어떠한 문자를 참고하여 만들엇다 할찌라도 世宗임검의 창작 발명의 영광에는 조곰도 변함이 없다는 것은 두말할 필요도 없습니다. 만일 무엇에 起源하여 만들엇다고 하여서 창작 발명이 아니라 한다면 오늘날 과학上, 예술上, 許多한 발명가, 창작가, 발견가는 다 그 명예를 버리지 않으면 아니될 것입니다. 왜 그러하냐 하면 그들은 누구던지 前人의 혹은 옆의 사람의 思索을 빌지 아니한 사람은 하나도 없는 까닭이외다.＜39＞
+
+(註46) 李德懋 著 『靑莊館全書』 중의 『益葉記』
+(註47) Dr. G. S. Gale; “The Korea"
+(註48) 崔南善 著 『朝鮮史上의 世界的 事實』 第二回(丙寅 1월 1일 東亞日報 所載)
+(註49) 安廓 著 『諺文의 出處』 (丙寅 10월 東光 제6호. 혹은 『諺文의 淵源』이란 제목으로 乙丑 5월 12일 時代日報 또는 『朝鮮史學』 제1호에 발표함이 잇음)
+(註50) 伴信女 著 『假字本末』
+(註51) 『日本書紀』 天武天皇 11년條
+(註52) 黑井治德 著 『諺文組立法の起源に就いて』(大正 15년 8월 『朝鮮』 제135호 所載)
+(註53) 權相老 著 『世界文字와 佛敎의 關係』 (『佛敎』 제49호 所載)
+(註54) 黃胤錫 著 『韻學本源』
+(註55) 『高麗史』 卷89 忠宣王 薊國大長公主條
+(註56) 李能和 著 『朝鮮佛敎通史』 上編 世宗丙寅條, 及 下編 諺文字法源出梵天條
+(註57) 『高麗史』 元宗 14년條
+(註58) 『太宗實錄』 3년 11월條 (司譯院提調偰長壽上書中)
+(註59) 『世宗實錄』 5년 春條
+(註60) 全秉薰 著 『精神哲學通編』 中編 卷4 제8장 『朝鮮道德始開化』條
+(註61) 太白狂奴(박은식) 著 『韓國통史』 제3편 60장 『世宗大王國文之敎』條
+(註62) 金澤榮 著 『韓史綮世宗紀』
+(註63) 權德奎 著 『잘못 고증된 正音創造者』 ((한글) 제4호 所載)
+(註64) 『平壤誌』
+(註65) 行智 著 『訓釋諺文解』는 權德奎씨의 『朝鮮語文經緯』와 權相老씨의 『世界文字와 佛敎의 關係』(『佛敎』 제49호 所載)에서 재인용하엿으나 行智의 저서로서는 文化 6년 7월에 된 『假名遺古意』라는 것 밖에는 보이지 아니하므로 아직 의문이 잇어서 後考를 기다림. (日本人名大辭典 등 참조) ＜39＞
+＜37-39＞

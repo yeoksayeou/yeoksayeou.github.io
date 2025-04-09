@@ -1,0 +1,200 @@
+잡지명	동광 제25호
+발행일	1931년 09월 04일
+기사제목	外傷治療法 (First Aid for External Injuries)
+필자	醫專病院 劉相奎
+기사형태	논설 (Editorial/Article)
+
+First Aid for External Injuries
+						Medical College Hospital, Yu Sang-gyu
+
+Nowadays, the enthusiasm for sports among the people of Chosŏn is considerable. I know it will become even more vigorous in the future. Consequently, just as a new bride is prone to breaking dishes, there are many occasions for getting hurt inadvertently. I know there will be even more in the future. Getting injured—depending on the cause, severity, and location of the injury, some may appear fine externally but be severely damaged internally, while conversely, others may look gruesome externally but are actually not serious. Thus, tragedies occur where one suffers unexpected pain, becomes disabled, or even loses their life because they did not take it seriously, and comedies occur where one gets frightened first, is startled, and even faints.
+
+If these injuries that produce comedy and tragedy were like comets that return once every few decades or centuries, or were unavoidable things influenced by sunspots, or existed only in the Western Hemisphere and not in the Eastern Hemisphere, then perhaps it would be beyond our control. However, since they are things that can happen to anyone among us, not only occurring daily but also capable of happening without producing comedy or tragedy, we should strive to make it so as soonest possible.
+
+One day, a student entered the examination room supported by his classmates. One of his legs dangled unusually. Looking at it, his leg was broken. The school authorities, knowing his leg was broken, immediately called a car and sent him to the hospital. Although he recovered smoothly, reflecting on the attitude taken by the authorities at that time, aside from the kindness of providing a car in an emergency, the rest seemed to amount to zero. First aid for the fracture should have come first. What if it had not been a leg fracture, but a severed major blood vessel? Wouldn't his tenuous thread of life, hanging by a moment, have ended due to this ignorance before reaching the hospital?
+
+Getting injured. When injured, a wound may appear on the surface, or it may not. One with a surface wound is called an open wound (創傷, ch'angsang), and one without is called a contusion (挫傷, chwasang). Even among open wounds, the name and appearance differ according to the cause, and there are many types. For example, a cut from a sharp object like a knife blade is called an incised wound (切創, chŏlch'ang), where the wound is linear; one caused by being pierced by a pointed object like a spear tip is called a puncture wound (刺傷, chasang), where the opening is small but deep; and one caused by being struck and crushed by a blunt object like a bat is called a contused wound (挫創, chwach'ang), where the wound edges are irregular, etc. However, a contusion (挫傷, not 挫創) refers to an injury caused by striking, collision, falling, falling from a height, being hit by a stone, or a horse's hoof (or a person's foot during soccer), where the skin is intact, but the underlying tissue is damaged. It is often difficult to discern the severity and danger of this type, and it does not require as much emergency treatment, so I will focus only on open wounds (創傷).
+
+1.  A wound appears (Wound shape). As already mentioned, its appearance varies greatly depending on the cause, severity, direction, and location.
+2.  Bleeding occurs (Hemorrhage). This is because blood vessels are also damaged simultaneously. Reddish blood welling up like pressing a sponge soaked in red ink is capillary bleeding; dark red blood flowing continuously is venous bleeding; bright red (scarlet) blood spurting out is arterial bleeding. (However, if the end is obscured, it is unclear.) If an artery or a large vein is damaged, a large amount of blood pours out, leading to death in a short time. However, with bleeding from small arteries and veins, the blood pressure gradually decreases, the severed ends contract, and <65> blood clots on one side, leading to natural hemostasis. But one cannot be complacent, as when blood pressure recovers, the clot may rupture, causing renewed bleeding (secondary hemorrhage).
+3.  It hurts (Pain, 疼痛). This depends on the individual; sensitive people feel more pain, insensitive people feel less, and those with strong endurance can tolerate it. However, what needs attention here is that with injuries like contused wounds (挫創) and gunshot wounds (銃創), pain may not be felt due to temporary wound shock. Also, areas like the lips, tongue, and fingertips are extremely painful even with minor injuries, whereas areas like the back and buttocks are less painful even with significant injuries. Therefore, one should not dismiss it lightly just because it hurts less, nor make a fuss just because it hurts severely.
+4.  General condition. If important internal organs are damaged, specific symptoms will appear. Due to major hemorrhage or severe injury, collapse or shock symptoms occur.
+Acute anemia resulting from significant blood loss presents as follows: the skin and mucous membranes become pale; pulse and respiration become weak and rapid; headache and dizziness occur; vision flashes; ringing occurs in the ears; fear arises; nausea occurs. If this worsens, consciousness is lost, breathing difficulties arise, pupils dilate, fecal and urinary incontinence occurs, and seizures happen, leading to death. Regarding collapse and shock, in addition to the above symptoms of acute anemia, hiccups, cold sweats, and staring fixedly at one spot may occur; if the heart's strength does not recover, death ensues.
+
+When an external force acts upon injury, if it extends beyond the skin, muscles, or blood mentioned above and further causes the underlying bone to bend beyond its inherent elastic limit, the bone breaks. This fracture, of course, can occur without damaging the skin, or it can simultaneously damage the skin and other soft tissues, which affects the significance of the treatment.
+
+There are many types of fractures: bursting fracture, torsion fracture, comminuted fracture, as well as transverse, longitudinal, oblique fractures, T-shaped fractures, etc. If it is an open fracture where the bone pierces the skin, it is easy to recognize at a glance, but otherwise, it can be overlooked, and treatment can be careless. Consequently, what was initially just a simple bone fracture often leads to damage to blood vessels, nerves, or even important internal organs. It is necessary to know what symptoms arise when a fracture occurs.
+
+1.  Pain (疼痛). Subjectively or objectively, the broken ends hurt or hurt more. When the femur (thigh bone) is broken, tapping the knee can reveal the fracture site.
+2.  Bleeding. Due to the strong external force, even when the skin is not broken, there is always internal bleeding, causing swelling.
+3.  Functional impairment. Depending on the type of bone, there may be no impairment, but it is always present in limb fractures. However, even in limbs like the forearm or lower leg (shin) where there are two bones, if only one is broken or if the broken pieces interlock, the impairment may not be obvious or may be slight.
+4.  Sometimes the fracture can be felt by touching the fractured area (Palpation of the fracture site).
+5.  If completely broken, it dangles loosely (Abnormal mobility).
+6.  When moved, a grating sound (Crepitus) occurs as the bone ends rub against each other.
+7.  It bends or becomes crooked (Deformity). However, this may be absent in incomplete fractures or when soft tissue is interposed between the fragments.
+
+Emergency Treatment
+Besides the injuries mentioned above, joint dislocation is also an important injury of the musculoskeletal system, but compared to others, the need for emergency treatment is not as great, so I will omit it.
+Emergency treatment, it goes without saying, is about saving a life from the brink when the patient's safety and survival hang in the balance, using truly rational, situational measures. However, even if life is not in immediate danger, some treatment must be given, and the measures taken when a doctor is unavailable are also a form of emergency treatment.
+What requires great attention here is that whether the injury is fatal or minor, one should not be satisfied with temporary treatment but should promptly seek medical care. This is because even a seemingly trivial wound can allow dangerous germs to enter; for example, if the tetanus bacillus (파상풍균) enters, in severe cases, death can occur within 4 or 5 days. This bacterium can <66> commonly invade people who get injured while exercising outdoors. Therefore, people in such situations, and even those who are not, should always keep in mind that even a minor injury (微傷) can lead to various misfortunes, including loss of life, and that emergency treatment is not fundamental or definitive. Truly rational emergency treatment is a guide at a crossroads. In essence, the core of the problem lies in the wound itself and the damage to major blood vessels that occurs simultaneously with the wound.
+
+(1) Wound Treatment
+As briefly mentioned above, the most important aspect concerning wound treatment is 'wound infection'. However, the human body has antibacterial properties that kill invading germs, so unless the number of germs is large, their virulence is strong, or there is a local or systemic predisposition to infection, the entry of germs does not necessarily cause infection. Even if germs cause infection, they do not multiply immediately; there is an incubation period of 5-6 hours, and significant multiplication usually occurs 24 hours to 2-3 days later.
+Therefore, minor wounds often heal naturally if left alone, but since one cannot know if potentially dangerous germs have entered, and even if they have, it takes considerable time for them to establish their characteristic strength, appropriate treatment within that time can prevent the worst misfortunes. It is extremely simple.
+For minor wounds, apply alcohol or iodine tincture (沃度丁幾) around the area, and cover it with adhesive tape, or simply apply 10% iodoform-collodion (요도폼콜로디음). However, for somewhat larger wounds, do not apply adhesive tape directly; place (sterilized) gauze or absorbent cotton over it, then apply tape or wrap with a bandage.
+For large wounds, if in a hairy area, trim the hair with scissors as much as possible. Clean the surrounding area thoroughly with alcohol-soaked gauze. If dirt is embedded, remove it with tweezers (『핀세트』). Apply 10% iodine tincture generously around the wound and sparingly on the wound itself. Then perform the hemostasis method described below, but if bleeding is severe, the hemostasis method must be performed first. I often see patients where charcoal powder or iodoform (요도폼) powder has been sprinkled; this might be acceptable for minor wounds, but for large, recent wounds that could be neatly stitched closed, such powders often hinder healing.
+
+(2) Hemostasis Method
+Here too, since it is emergency treatment for bleeding, i.e., temporary hemostasis, there is no need to consider sterility. However, after managing the immediate crisis, sterile hemostasis, i.e., permanent hemostasis, should be performed as soon as possible.
+1. Take a nearby face towel, handkerchief, or if unavailable, wad up paper tightly, press it onto the bleeding wound, and tie it firmly over the top with a towel or belt. Unless a major blood vessel is damaged, this can stop the bleeding. If the wound is deep or if there is a nosebleed (衄血), pack it tightly with cotton or cloth scraps.
+2. If a large blood vessel in an arm or leg is damaged and bleeding heavily, use a rubber band (꼬무줄) if available; if only a belt or other strap is available, roll up a handkerchief or face towel underneath it and tie it tightly, or tie a towel-like cloth and insert a stick between the knot and the limb, twisting it slowly until the bleeding stops. For massive bleeding from the lower abdomen or leg, the abdomen can also be tightly constricted with something like a rubber band.
+3. When a large blood vessel like the femoral artery (股動脉) in the leg is severed and bleeding, pressing the main trunk of the vessel with fingers can immediately stop the bleeding. This cannot be done without prior knowledge of the anatomical location of the blood vessels, nor can pressure be maintained for a long time. One cannot learn the anatomical locations of blood vessels overnight, but if you gently press with fingertips on either side of the Adam's apple (갓거리) at the front of the neck, the pulsating vessel is the carotid artery (頸動脉); pressing in the armpit, the pulsating vessel is the axillary artery (腋窩動脉); following this down gives the brachial artery (上膊動脉); lying flat and palpating the midpoint of the boundary between the abdomen and the leg reveals the pulsating femoral artery (股動脉). If these arteries rupture, severe blood loss can endanger life within moments, but methods 2 and 3 can effectively stop the bleeding. However, it is necessary to remember regarding method 2 above, that leaving a limb tightly constricted for more than 3-4 hours risks causing the tissue below the constriction to die and necrotize.
+
+(3) Fracture Treatment
+If a fracture seems likely, it is better to cut the clothes off with scissors <67> rather than removing them. Moving the broken part back and forth while removing clothes can enlarge the wound with sharp bone ends or easily cause new damage (to skin, blood vessels, nerves, internal organs). Treat wounds and bleeding according to their respective methods. If the position has not changed, leave it as is; if it has changed, hold the parts above and below the fracture, pull straight while simultaneously pressing the fracture site firmly to realign it. Then (for limbs), apply a splint if available; otherwise, use a walking stick (집팽이나) or umbrella (양산이나), place it alongside, and wrap it.
+
+(4) Collapse and Shock
+Lower the head, keep the body warm, give alcoholic beverages (i.e., wine, soju, refined rice wine) to drink. If the pulse is absent, place the palm over the heart area (just at the left nipple), and rub firmly and rhythmically at a rate of about 120 times per minute until the pulse returns, while waiting for medical treatment.
+
+First Aid Supplies
+Alcohol, Iodine Tincture (沃度丁幾), bandages, absorbent cotton, gauze (꺼-쓰), adhesive tape, wine, scissors, tweezers (『핀세트』), etc.
+It should be said that being bold and not trembling, being calm and not rushing, and being agile and not sluggish are essential requirements for the person administering first aid. <68>
+
+**Summary**
+
+This 1931 article by Yu Sang-gyu from the Medical College Hospital provides practical first-aid instructions for external injuries (外傷, oesang). It distinguishes between open wounds (創傷, ch'angsang) and contusions (挫傷, chwasang), details types of wounds and bleeding, and describes symptoms including pain and shock. The core of the article focuses on emergency procedures: wound cleaning and dressing, various methods for stopping bleeding (direct pressure, tourniquets, pressure points), immobilizing fractures, and managing shock. It stresses the importance of seeking professional medical care after initial first aid, warning specifically about the risk of tetanus (파상풍균) from outdoor injuries. The article concludes with a list of essential first-aid supplies and emphasizes the need for calmness and decisiveness in rescuers.
+
+From a historical perspective, the article highlights the growing popularity of sports in colonial Chosŏn and the associated rise in injuries. It reflects an effort towards public health education, disseminating basic medical knowledge beyond professional circles. The critique of the school's handling of a fracture suggests potential shortcomings in institutional emergency preparedness during the period. The specific mention of tetanus prevention points to contemporary health concerns. The mix of Hanja and Hangul, along with older Korean spellings, provides linguistic data for the era.
+
+**Named Entities**
+
+醫專病院	의전병원	Ŭijŏn Pyŏngwŏn (Medical College Hospital)
+劉相奎	유상규	Yu Sang-gyu
+조선	조선	Chosŏn
+
+**Glossary**
+
+外傷	외상	External injury
+醫專病院	의전병원	Medical College Hospital (likely Keijō/Seoul Medical College Hospital)
+걸풋하면	걸핏하면	Readily, easily (older spelling/form)
+며누리	며느리	Daughter-in-law (older spelling)
+곯는	곯는	To fester, rot inwardly
+역이지	여기지	Consider, regard (older spelling/form of 여기다)
+做出	주출	To produce, create, bring about
+뚜염뚜염	띄엄띄엄	Sporadically, sparsely (older spelling)
+잇고	있고	To be, exist (older spelling)
+잇는	있는	To be, exist (older spelling)
+곳	곧	Immediately (older spelling)
+태와서	태워서	To put someone in (a vehicle) (older spelling/form)
+먼서야	먼저여야	Should be first (older spelling/form)
+말엇을가	말았을까	Would have ended (older spelling/form)
+創傷	창상	Open wound, trauma
+挫傷	좌상	Contusion, bruise
+일컨는다	일컫는다	Is called, is named (older spelling/form)
+버진	베인	Cut (by a sharp object) (older spelling/form of 베이다)
+切創	절창	Incised wound
+뾰죽한	뾰족한	Pointed, sharp (older spelling)
+찔러	찔러	To pierce, stab
+구녁	구멍	Hole (older spelling)
+『빼트』	배트	Bat (loanword)
+맟어	맞아	Struck, hit (older spelling/form of 맞다)
+으스러진	으스러진	Crushed
+挫創	좌창	Contused wound (wound with bruising/crushing)
+創緣	창연	Wound edge
+顚倒	전도	Falling down
+결단나는	결딴나는	To be ruined, damaged (older spelling/form)
+상채기	상처	Wound, injury (dialectal or older term)
+쏘다짐으로	쏟아짐으로	Because it pours out (older spelling/form)
+글어지어서	엉기어서/굳어져서	Coagulating, clotting (older spelling/form, likely related to 엉기다 or 굳어지다)
+후출혈	후출혈	Secondary hemorrhage
+疼痛	동통	Pain
+헷바닥	혓바닥	Tongue surface (older spelling)
+들	덜	Less (older spelling)
+虛脫	허탈	Collapse, prostration
+『쇼크』	쇼크	Shock (loanword)
+말미아마	말미암아	Due to, because of (older spelling/form)
+잃고	잃고	To lose
+이러나서	일어나서	To occur, arise (older spelling/form)
+捻捩	염려	Torsion, twisting (technical term for fracture type)
+분쇄골절	분쇄골절	Comminuted fracture
+뚫고	뚫고	To pierce through
+粗略	조략	Carelessness, roughness
+붓잡고	붙잡고	Holding onto (older spelling/form)
+곧추잡아	곧추잡아	Holding straight
+단니면서	다니면서	While pulling (older spelling/form of 당기면서)
+드러맞게	들어맞게	To fit into place (older spelling/form)
+부목	부목	Splint
+집팽이	지팡이	Walking stick, cane (older spelling)
+꺼-쓰	거즈	Gauze (loanword, older phonetic transcription)
+『핀세트』	핀셋	Tweezers, forceps (loanword)
+沃度丁幾	옥도정기	Iodine tincture (older term)
+요도폼	요오도포름	Iodoform
+衄血	뉵혈	Nosebleed (Sino-Korean term)
+꼬무줄	고무줄	Rubber band (older spelling)
+졸가 매면	졸라매면	If tied tightly (older spelling/form)
+졸가 매든지	졸라매든지	Whether tied tightly (older spelling/form)
+股動脉	고동맥	Femoral artery
+頸動脉	경동맥	Carotid artery
+腋窩動脉	액와동맥	Axillary artery
+上膊動脉	상박동맥	Brachial artery
+버히는	베는	Cutting (older spelling/form of 베다)
+모름직이	모름지기	Indeed, surely, ought to (older spelling)
+덤베지를	덤비지를	To rush into, act rashly (older spelling/form of 덤비다)
+굼뜨지를	굼뜨지를	To be sluggish, slow (older spelling/form of 굼뜨다)
+
+
+---------------------------
+
+
+잡지명	동광 제25호
+발행일	1931년 09월 04일
+기사제목	外傷治療法
+필자	醫專病院 劉相奎
+기사형태	논설
+
+外傷治療法
+						醫專病院 劉相奎
+오늘날 조선 사람의 운동열은 대단하다. 앞으로 더욱 왕성해질 줄 안다. 따라서 새 며누리의 그릇 잘 깨트리는 셈으로 걸풋하면 다칠 일이 많다. 앞으로 더욱 많아질 줄 안다. 다친다, 다치면 그 원인, 정도, 부위를 따라서 겉으로 보기엔 멀정하면서도 속으로 다단히 곯는 것도 잇고 그와 반대로 외관은 끔찍하면서도 其實은 대단치 않은 것도 잇다. 그래서 대수럽게 역이지 않앗든 탓으로 의외의 고통을 당하게 된다든지 불구자가 된다든지 혹은 생명까지도 잃어버리는 비극이 생기기도 하고 먼저 겁부터 집어 먹고 깜작 놀래는 바람에 그는 실신까지도 되는 희극이 생기기도 한다.
+이 희극과 비극을 做出하는 다침이 수십 년 수백 년에 한 번식 도라오는 혜성 모양으로 뚜염뚜염 잇는 것이라든지 태양의 흑점의 영향을 받는 불가항력의 것이라든지 서반구에만 잇고 동반구에는 없는 것이라든지 한 것이면 도모지 우리의 누구나 당할 수 잇는 것이로되, 날마다 잇는 것일 뿐 아니라 희비극을 연출하지 않고도 될 수 잇는 것이라면 하로라도 속히 그러도록 하여야할 것이다.
+어떤 날 동모들의 부축을 받으면서 진찰실로 들어온 학생이 잇엇다. 그의 한편 다리는 유난히도 건드렁거렷다. 보매 그의 그 다리는 부러젓다. 그의 다리가 부러질 줄을 안 학교 당국자는 곳 자동차를 불러 태와서 병원으로 보낸 것이다. 순조로 낫기는 하엿지만 이 때의 당국자의 취한 태도에서 자동차에 태는 비상시에만 나는 친절이란 것을 빼면 그 남어지는 0이라고 생각하엿다. 먼저 골절에 대한 응급 처치를 먼서야 옳다. 만일 그것이 다리의 골절이 아니오 큰 혈관의 끊어진 것이라고 하자 경각을 사이하고 붙어 잇든 그의 一縷의 명맥은 이 무지로 하여 병원에 도착되기 전에 끝나고 말엇을 것이 아니엇을가.
+
+다친다. 다치면 표면에 상처가 나기도 하고 안나기도 한다. 상처가 난 것을 創傷이라 불르고 그러치 안은 것을 挫傷이라고 일컨는다. 創傷으로 말하여도 원인을 따라 이름과 모양이 각각 달러서 其 종류가 한 두 가지가 아니다. 예를 들면 칼날 같은 날카라운 것에 버진 것을 切創이라 하여 상처가 직선상이오 투창 끝같은 뾰죽한 것에 찔러 난 것을 刺傷이라 하여 속이 구녁은 적으나 깊고 『빼트』같은 두리뭉실한 것에 맟어 으스러진 것은 挫創이라 하여 創緣이 불규칙적인 등등. 그러나 挫傷(挫創이 아님)으로 말하면 打撲, 충돌, 顚倒, 추락, 투석, 馬蹄(축구 찰 때의 人足) 등으로 해서 생기는 것으로 피부는 멀정하면서도 피부의 아래에 잇는 조직만이 결단나는 것을 가르치는 것이다. 이것은 좀처럼 해서는 그 정도와 위험성을 분간하기가 힘도 들도 그다지 응급 처치를 요하는 것도 아님으로 創傷에 관한 말만 하기로 한다.
+1. 상채기(創形)가 난다. 그 원인, 정도, 방향과 부위를 따라 각양 각색임은 이미 말한 바와 같다.
+2. 피가 난다(출혈). 이것은 동시에 혈관도 상하는 까닭이다. 붉으스럼한 피가 마치 海綿을 적색 잉크에 등거내서 꾹 눌늘 적 모양으로 고여 올느는 것은 모세관성 출혈이오 검붉은 피가 연속적으로 좔좔 나오는 것은 정맥성 출혈이오 새빩안(선홍색) 피가 쭉쭉 내뿜는 것은 동맥성 출혈이다.(그러나 끝이 가리워지면 분명치 않다.) 동맥과 큰 정맥이 상하면 피가 많이 쏘다짐으로 단시간 안에 죽게 된다. 그러나 적은 동맥과 정맥의 출혈은 차차 혈압이 적어지며 끈어진 끝이 줄어들며 一邊으로＜65＞ 피가 글어지어서 자연 지혈이 된다. 그러치만 안심할 수 없는 것은 혈압이 회복되는 때는 엉긔엇든 것이 터지면서 다시 출혈(후출혈)이 되는 수가 잇다.
+3. 아프다(疼痛). 이것은 개인성을 따라서 민감인 사람은 더 아퍼하고 둔감인 사람은 들 아퍼하며 인내력이 강한 사람은 참기도 하지만 여기서 주의할 것은 挫創, 銃創같은 것은 일시적 創傷 마비라는 것으로 하여 아픔을 모르는 것과 입술, 헷바닥, 손끝 같은 데는 조곰만 다처도 몹시 아픔에 반하여 잔등, 볼기같은 데는 많이 다처도 들 아픔으로 들 아퍼한다고 심상히 여길 것이 아니요 심히 아퍼한다고 떠들 것이 못된다는 것이다.
+4. 전신상태. 중요한 내장이 상하면 특유한 증상이 들어날 것이오 큰 출혈 또는 중상으로 말미아마 虛脫 『쇼크』증이 생긴다.
+많은 출혈이 잇어 생기는 급성 빈혈증은 이러하다. 피부와 점막이 창백색이 되고 맥과 호흡이 적고 빨라지며 두통, 현기가 나며 눈에서 번쩍거리며 귀에서 소리가 나고 무서운증이 생기고 구역질이 난다. 이것이 좀 더 심하면 정신을 잃고 호흡곤란이 생기고 눈동자가 커지며 대소변 失禁이 되고 몸에 쥐가 이러나서 죽는다. 虛脫과 『쇼크』로 말하면 이상의 급성 빈혈증 이외에 딸꾹질, 식은땀이 나며 한 곳만 쇠-보는 등 증세가 잇어서는 심장의 힘이 회복되지 않으면 그냥 죽어버리고 만다.
+
+다칠 때에 그 작용하는 外力이 이상에 말한 피부라든지 근육이라든지 血에만 및지 아니하고 일층 더 나아가서 그 밑에 잇는 뼈로 하여금 고유한 탄력성 한계 넘어서 이것을 굴곡케 하는 때는 뼈가 부러진다. 이 골절에도 물론 피부는 상함 없이 생기는 것과 동시에 피부와 기타 軟組織까지도 상하게 하는 것이 잇어 처치의 의의를 달리하는 것이다.
+골절에 종류가 많다. 파열골절 捻捩골절, 분쇄골절이며 橫, 縱, 斜골절, 丁字狀골절 등등. 만일 피부까지 뚫고 나온 개방골절이면 일견에 알기가 쉬읍지만 그러치 안은 것은 부주의하게도 되고 처치에 粗略이 잇게 된다. 따라서 처음에는 단순히 뼈만 부러젓든 것이 도리어 혈관, 신경, 내지는 중요 장기까지도 상하게 되는 일이 많다. 골절이 되면 어떠한 증상이 생기는지를 알 필요가 잇다.
+1. 疼痛 자각적으로나 타각적으로나 부러진 끝이 아프거나 더 아프다. 대퇴골(넙적다리 뼈)이 부러젓을 때 무릅을 치바처 보면 부러진 곳을 알 수 잇다.
+2. 출혈 강한 外力이 작용한 까닭에 피부에 상처가 나지 안는 때라도 속에는 반드시 출혈이 되어 부어 오른다.
+3. 기능장애. 뼈의 종류를 따라 아모 장애가 없는 수도 잇지만 사지의 골절은 늘 나타난다. 그러나 사지라도 前肢이나 下腿(정갱이) 모양의로 뼈 두 개가 잇는 중에서 하나이 부러지거나 부러저가지고도 서로 맛물면 똑똑치 않거나 輕하다.
+4. 골절부를 만지어서 부러진 것을 알 수 잇는 것이 잇고(골절부의 觸知).
+5. 완전히 불어진 것이면 건드렁거리며(이상운동)
+6. 음직이어 보면 뼈 끝이 서로 닿는 갈그적거리는 소리(軋轢音)가 나고
+7. 굽으러지거나 삐뚜러진다(변형). 그러나 불완전 골절이라든지 두틈에 살이 들어가 끼인 적에는 또한 缺하는 것이다.
+
+응급처치
+이상에 말한 손상 외에 運動器의 손상으로 關節脫臼도 중요한 것의 하나이지만 다른 것에 비하여 응급적 처치를 하여야만 할 필요는 그리 크지 않음으로 略하기로 한다.
+응급처치라는 것은 환자의 안위존망이 間一髮에 잇을 때에 그야말로 합리적 임기응변으로써 구사에 일생을 구해내는 것임은 말할 것도 없다. 그러나 비록 생명은 경각에 잇지 안을지라도 어떠케나 처치 안할 수는 없고 마침 의사도 없고 한 때에 취하는 조처도 또한 응급처치의 하나이다.
+여긔서 크게 주의할 것은 그 손상이 치명상이건 경상이건 일시적 처치에 만족할 것이 아니라 곳 醫治를 받도록 하여야 한다는 것이다. 그것은 설사 심상한 상처일지라도 그리로 무서운 균이 들어갈 수 잇어서 가령 파상풍균이라는 것이 드려가면 심한 때는 4, 5일 내로 죽어버리는데 이 균은 옥외에서 운동하는 사람으로 상하면＜66＞ 흔이 침입될 수 잇는 것이다. 그럼으로 微傷이라도 생명을 빼앗기까지의 여러 가지의 많은 불행을 줄 수 잇는 것과 응급 처치라는 것이 근본적이오 究意的이 아님을 이런 경우에 잇는 사람이건 아니건 늘 염두에 두어야 한다. 실로 합리적 응급처치라는 것은 기로에 서 잇는 안내자이다. 요컨데 문제의 중심은 創傷 자신과 밋 創傷과 동시에 생기는 대혈관의 손상에 잇다.
+(1)創傷의 처치
+우에 대강 말한 바와 같이 創傷의 처치에 관해서 가장 중요한 것은 『創傷전염』이라는 것이다. 그러나 사람의 몸 속에는 침입한 균을 멸살시키는 항균작용이라는 것이 잇어 균의 수효가 많거나 毒力이 강하거나 혹은 전염에 대한 국부적으로나 전신적으로 素因이 잇기 전에는 균이 드러간다고 반드시 전염을 이르키는 것은 아니다. 그런데 균이 전염될지라도 곳 증식되는 것이 아니오 5, 6시간의 잠복기라는 것이 잇어가지고 그것이 가장 주의를 끄을만치 증식되기는 대개 24시간 후 2, 3일간이다.
+그럼으로 적은 創傷은 그냥 내버려 두어도 흔이는 자연히 나어버리고 말지만 혹시 어떠한 위험성을 가진 균이 들어갓는지 알 수 없고 들어갓다고 할 지라도 고유한 세력을 펴기 전까지는 상당한 시간을 요하게 됨으로 그 안에 적합한 처치를 하면 불행중의 불행은 면할 수 잇는 것이다. 그것은 극히 단순하다.
+적은 創傷은 酒精이나 沃度丁幾를 주위에 발르고 其 우에 반창고를 부치거나 그냥 10% 『요도폼콜로디음』을 발으면 고만이다. 그러나 저으기 큰 것이면 직접 반창고를 부치지 말고 (소독한)면사나 탈지면을 대이고 그 우에 무치거나 붕대로 감을 것이다.
+큰 創傷은 모발이 잇는 부분이면 할 수 잇는 대로 가위로 털을 베이고 酒精에 적신 면사로 그 주위를 깨끗이 씻은 후 더러운 것이 끼어 잇으면 『핀세트』로 끄집어 내고 10%의 沃度丁幾를 주위에는 충분히 當處에는 약간 발르고 다음에 말할 지혈법을 행하되 출혈이 심한 때는 무엇보다도 몬저 지혈법을 행하여야 한다. 목탄 가루나 『요도폼』분말을 뿌린 환자를 왕왕 보는데 적은 것이면 무방도 하되 큰 것이오 상한 지 얼마 안된 것은 꽤매면 감쪽같이 붙어버릴 것이 그런 것으로 해서 도리어 방해가 되는 수가 많다.
+(2)지혈법
+여긔도 출혈에 대한 응급처치 즉 일시적 지혈법임으로 소독 여부를 고려할 필요가 없다. 그러나 一時之急을 면한 후에는 할 수 잇는대로 속히 무균적 지혈 즉 영구적 지혈을 해야 한다.
+1. 그 당장에 잇는 세수 수건 손수건 그것도 없으면 조희 조박을 꽁꽁 뭉치어서 출혈하는 상처에 대이고 수건이라든지 허리띠로 그 우를 단단히 졸가 매면 큰 혈관의 상한 것만 아니면 이것으로 지혈될 수가 잇다. 만일 상처가 깊다든지 코피(衄血)가 흘르는 때는 솜이나 헌겁 등으로 깍 트러 막도록 할 것이다.
+2. 팔, 다리의 큰 혈관이 상해서 출혈이 많이 되는 때는 그 출혈되는 상부를 꼬무줄이 잇으면 크것만으로, 허리띄나 다른 끈만이면 손수건이나 세수수건을 둥글레 말어서 밑에 대이고 힘잇게 졸가 매든지 수건 같은 것을 졸가 매인 후에 두 사이에 나무대기를 넣어 가지고 지혈이 되기까지 서서히 비틀도록 할 것이다. 하복부나 다리에서 대출혈이 되는 때는 꼬무줄 같은 것으로 배를 힘껏 졸가 매기도 한다.
+3. 다리의 股動脉같은 큰 혈관이 끊어저 출혈될 때에 그 혈관의 원 줄기를 손가락으로 압박하면 곳 지혈이 될 수가 잇다. 이것은 혈관의 해부할적 위치를 미리 알기 전에는 할 수가 없고 또는 장시간 눌르고 잇을 수가 없다. 一旦一夕에 혈관의 해부학적 위치를 알 수는 없지만 이제 목 앞에 잇는 갓거리(일명 아담씨 돌기)의 좌우쪽을 손 끝으로 가만이 눌르면 튀는 것이 頸動脉이오 겨드랑을 눌러 보아서 튀는 것은 腋窩動脉, 이것을 조차 내러 오면 上膊動脉 반듯이 누어서 배와 다리의 경계선의 중앙 바로를 짚어 보아 튀는 것은 股動脉이다. 이 동맥들이 터지면 잠시 동안에 많은 실혈로 생명이 위태하나 2.及 3.방법으로 능히 지혈될 수 잇는 것이다. 그런데 이상의 제2법에서 단단히 비끄러맨 것을 3, 4시간 이상 내버려두면 其 이하부가 죽어서 썩게될 염려가 잇는 것을 생각할 필요가 잇다.
+(3)골절의 처치
+골절이 된 모양 같으면 옷을 벗기지 말고＜67＞ 가위로 버히는 것이 좋다. 옷을 벗기노라고 부러진 부분을 이리저리 흔들 때 첨예한 뼈끝으로 해서 상처가 커지기도 하고 없는 손상(피부, 혈관, 신경, 내장의 손상)을 내이기 쉽다. 創傷, 출혈은 각각 제 법대로 처치를 하고, 위치가 변하지 안엇으면 그대로, 변한 때는 골절부의 우아래를 붓잡고 곧추잡아 단니면서 동시에 골절부를 꾹 눌러 제 자리에 드러맞게 한 후에 (사지인 때)부목이 잇으면 좋고 그러치 않으면 집팽이나 양산이나 같은 것을 대이고 돌려 감을 것이다.
+(4)虛脫과 『쇼크』
+머리를 낮게 하고 몸을 덥게 하고 酒精음료(즉 포도주, 소주, 약주)를 마시게 하며 맥이 뛰지 안을 때는 손바닥을 심장부(좌측 젖꼭지 잇는 바로에)대이고 1분 동안에 약120회 가령의 속도로 규칙 정연하게 힘써 문지르기를 맥이 놀 때까지 하면서 醫治를 기다릴 밖에 없다.
+
+구급용품
+酒精, 沃度丁幾, 붕대, 탈지면, 면사(꺼-쓰) 반창고 포도주, 가위, 『핀세트』 등.
+구급에 당한 사람은 모름직이 대담해서 떨지를 안어야 하고 침착해서 덤베지를 안어야 하고 기민해서 굼뜨지를 안어야 할 것도 구급의 필수조항이라 하겟다.＜68＞
+＜65-68＞

@@ -1,0 +1,251 @@
+Magazine Title: 동광 제10호
+Publication Date: 1927년 02월 01일
+Article Title: 根母音變化의 組織 (The System of Root Vowel Change)
+Author: 安自山
+Article Type: 논설 (Editorial/Essay)
+
+The System of Root Vowel Change
+						An Chasan
+
+(1) Having seen the opinions expressed by everyone, I find many points that do not align with my humble views. As I now wish to state, for the first time, the system of root vowel change, the time for an absolute explanation is still premature, so I intend to open the discussion with relative observations.
+
+(2) The influence of the Sanskrit language is not only found in its Near Eastern neighbors like Iranian and Armenian languages but should also be compared with the distant Korean language. I cannot know if this is merely my own far-fetched, narrow view, but considering the history of revering Buddhism and translating Buddhist scriptures from the Three Kingdoms period to the era of King Sejo of the Yi Dynasty, it cannot be casually overlooked.
+
+(3) Setting aside for now the fact that many Korean consonants are remarkably similar to Sanskrit consonants, the grammatical role of vowel change needs to be compared against the rules of Sanskrit. Why? Because, as Ogede(?) said, if one does not know foreign languages, one cannot study the nature of one's own language. Therefore, explaining Korean seems likely to become clear only by comparing it with languages similar to it.
+
+(4) The esteemed opinions of the 18 scholars seem to aim at establishing a new rule that destroys the system of root vowel change, which is the grammatical function in forms like `되여` [to become], `그려` [to draw], `막혀` [to be blocked], etc., and unifies them with the sound (어). However, I believe this is decidedly unacceptable, whether from a logical category or a grammatical category.
+
+(5) The ending varies depending on the type of stem. This grammatical function is reminiscent of Sanskrit grammar. While this system has various distinctions, let me first show just one type. For stems ending in a vowel of a normal syllable, they change using forms like `아, 여, 어, 이`. Its grammatical function is organized by analogy into four types: `ㅏ, ㅕ, ㅓ, ㅣ`.
+
+(1) Grammatical System of ㅏ Stems
+┌╴ 가 (go)  X  X ╴┐ No imperative sound derived this way
+
+└╴ 사 (buy)  X  X ╴┘ No causative sound derived this way
+
+┌╴ 자 (sleep)  X  재 ╴┐
+
+└╴ 나 (emerge)  X  내 ╴┘ No imperative sound derived this way
+
+
+(2) Grammatical System of ㅣ, ㅚ, ㅟ Stems
+┌╴ 되 (become) 되여 X ╴┐
+
+└╴ 괴 (prop up) 괴여 X ╴┘ No causative sound derived this way
+
+┌╴ 쥐 (grasp) 쥐여 X ╴┐
+
+└╴ 휘 (brandish) 휘여 X ╴┘ Same as above
+
+┌╴ 이 (carry on head) 여   X   ╴┐
+
+|  치 (strike) 쳐   X    |   No causative sound derived this way
+
+|  그리 (draw) 그려 X  |
+
+└╴ 이 (decorate) 려 X ╴┘
+
+
+(3) Grammatical System of ㅔ, ㅐ Stems also Same as Above
+┌╴ 메 (carry on shoulder) 메여  X ╴┐
+
+└╴ 태 (burn) 태여  X ╴┘ No causative sound derived this way
+
+┌╴ 재 (put to sleep) 재여  X ╴┐
+
+|  내 (put out/issue) 내여  X  | Same as above
+
+└╴ 배 (conceive) 배여  X ╴┘
+
+
+(4) Grammatical System of ㅡ Stems
+┌╴  (float)     ╴┐
+
+|  스 (stand) 서  싀   |
+
+|  트 (burst open) 터  틔  | Refer to Revised Korean Grammar (修正 朝鮮文法)
+
+└╴ 쓰 (use)  써  씌 ╴┘
+
+
+(5) Grammatical System of ㅗ Stems
+┌╴ 오 (come)  와  X ╴┐
+
+└╴ 호 (sew)  와  X ╴┘ No causative sound derived this way
+
+┌╴ 보 (see)  보아  보어         ╴┐
+
+└╴ 밧고 (exchange)  밧고아,  밧고어  ╴┘
+
+Among these, the ones where the root vowel changes are systems of monosyllabic stems, and those where the ㅇ sound enters involve polysyllabic, i.e., double vowel, organization. This grammatical system ultimately has the same value as inflection (曲折). If one destroys this grammar and writes `되어` [twee], `그리어` [kŭrie], this is not proper language; words like `되어`, `그리어`, `가아서` [kaasŏ] do not exist anywhere in Korea.
+
+(6) The few rules above represent the grammatical function of the change system, forming a definite category. If one now abolishes this and unifies everything with `어`, it becomes a foreign language with no actual examples in Korean. Who among Koreans says `되어` or `스이어` [sŭiŏ]?
+
+(7) Root vowel change occurs according to the stem in Sanskrit or English as well. Examples of the same nature include the change in Greek from *Leipo* to *Leloipa*, in German *Binden* to *Band*, in Sanskrit *ecwo* to *ecwa*, and also the 3rd person singular active form *bhereti* whose middle form becomes *bherete*.
+
+(8) Looking at the system of base vowels in simple English, *Lie* becomes *Lying* in the present [participle], and *tie* becomes *tying* in the present [participle]. The change of *ie* to *y* is a fixed rule. For the past tense of *want*, *ed* is added, while for *live*, only *d* is added. Thus, because it changed to a Y sound<58>, *y* is written, and because it changed [in a way represented by] *ed*, *e* is additionally included [note: this English analysis seems slightly confused]. Similarly in Korean, what becomes `여` is written as `여`, and the change of `스` [sŭ] to `서` [sŏ] is written as `서`. Why is this said not to be a rule?
+
+(9) It seems you gentlemen insist on this based on the illusory viewpoint and definition that `ㅕ` is a combination of `ㅣ + ㅓ` and `과` [kwa] is a combination of `ㅗ + ㅏ`. `ㅕ` and `ㅘ` are not diphthongs (複母音) but changed vowels (化母音), that is, palatalized sounds and labialized sounds. Explaining `ㅕ` as resulting from the combination of `ㅣ` and `ㅓ` is not an explanation based on the physiology of sound; it relates to the momentary transitional sound (涉音 geide?) that arises at the point of connection (續合處). And `ㅘ` does not necessarily result only from combining `ㅗ + ㅏ`; it can also result from combining `ㅜ + ㅏ`. For instance, `무안` (無顔 - shameless) can be pronounced `뫈` [mwan], and `주악餠` (chuak cake?) can be called `좍` [chwak]. If one defines sounds based on such effects of connection, a consistent explanation cannot be established. `하여` [hayŏ] is also pronounced `해` [hae], so couldn't `ㅐ` be a combination of `ㅏ + ㅕ`? In Japanese, `けう` [keu] is pronounced `きょ` [kyo], so couldn't `ㅛ` be a combination of `ㅔ + ㅜ`?
+
+(10) In Korean grammar, it is the correct rule that the system of change for stems characterized by changed vowels (化母音性) also results in changed vowels. If, as you gentlemen say, both `ㅚ` and `ㅕ` are considered diphthongs, then it is the correct rule that for a diphthong stem like `되` [toe], a diphthong like `여`, i.e., a sound of the same nature, enters: `되여` [toeyŏ], `쥐여` [chwiyŏ], `메여` [meyŏ], `내여` [naeyŏ], `의여` [ŭiyŏ?], `그려` [kŭryŏ], `와쳐` [wach'yŏ?], `괴여` [koeyŏ]. Such rules of change are the most exquisite rules in world grammar. If this is called vowel harmony, it is even more advanced than the harmony rules of Turkish. Why would one want to destroy such a well-formed grammar?
+
+(11) The second condition proposed by you gentlemen seems to be that since other types of stems all take the `어` sound, `되` should also be unified with `어`. However, since the change of the ending follows the type of stem and differs accordingly, unifying them uniformly is impossible. For example, when verbs with a final consonant stem (假合フ終聲?) potentially form a [passive/causative?] form, they all use `히` [hi], resulting in `먹히다` [mŏkhida - to be eaten], `썩히다` [ssŏkhida - to let rot], `녹히다` [nok'ida - to melt (trans.)]. But for `죽` (死 - die), it does not become `죽히다` [chuk'ida]. Adjectives like `좁다` [chopta - narrow] become verbs `좁히다` [chop'ida - to narrow (trans.)], and `둥글다` [tunggulda - round] becomes `둥글니다` [tunggülnida? - to make round?], but `희` (白 - white) and `적` (小 - small) do not become verbs this way. Particles (助詞) like `가/이` and `로/으로` also attach differently depending on the type of stem they follow: `집이` [chibi], `소가` [soga], `집으로` [chibŭro], `소로` [soro]. Would you gentlemen unify all these uniformly based on your assertion?
+
+(12) Seeking to trim everything uniformly without employing such analogical reasoning (頻推?) is incompatible with my foolish opinion. I wish to hear your esteemed views again.
+
+(13) Even if `ㅕ` were a combination of `ㅣ + ㅓ`, insisting on writing the source `이어` instead of `여` belongs to etymological explanation, not grammatical explanation. It is improper to write the two characters `2, 1` where the character `3` should be written, just because `2 + 1` equals `3`. In natural science, one only uses axioms as standards; asking why `2 + 1` becomes `3` does not foster logic. Endings organized with `여` should be recognized as axiomatic without needing to discuss their origin; it is sufficient to state that the change system for such-and-such stems involves the entry of the `여` sound. If one searches for and writes the origin, it violates natural science; by what means could one find that origin? To rephrase, even for the same meaning, different sounds enter according to the word form. One explains and organizes by stating that for words with a final consonant (有尾音語), the particles (吐) `이/과` enter, and for words without a final consonant (無尾音語), `와/가` enter. One cannot find the origin of `이/가` and `와/과` to reorganize them anew.
+
+(14) Some gentlemen even call `어` a particle (助詞) or a *t'o* (吐). It would be rude to say they can't tell fish from Lü (魚魯不辯 - i.e., are ignorant), but I think their word classification is underdeveloped. A particle is a meaningful dependent word that agglutinatively (膠着的) helps form the case of another word. `어` is a meaningless sound belonging to the ending changes of verbs, adjectives, and auxiliary verbs. Furthermore, `어` changes in various ways to express different logical meanings (各理意味?):
+┌╴ ㅅ-다
+
+|  보다 [poda - see]
+
+먹어 [mŏgŏ - eat and...] ╴┤  서다다 [sŏda...da?]
+
+|  지다 [chida - become]
+
+└╴ ㅅ-서ㅅ-다 [...sŏs...ta?]
+
+The `으` [ŭ] sound is also similar. This is precisely a rule similar to the examples in Sanskrit where verbs change by using the augment (加張法) and attaching special affixes (特殊의 接辭). Even particles like `이/가` can change according to the form of the stem; how much more so for the grammatical function of the ending change system? (Refer to my Revised Korean Grammar [拙著의 修正朝鮮文法])
+
+(15) As Kim Chongjik (金宗直) wrote in the preface to the *Pyŏltongjip* (別洞集序), "When principle and writing fuse within my chest, they emerge as language (理與文融會於吾之胸中則其發而爲言語)." Language is the organ through which we express our thoughts. In exchanging the new thoughts of a new era, organizing the notation method of grammar is the first step in academic work. I hope we will discuss this sufficiently and reach a decision. Sacrificing the private for the public good should be the spirit of discussion.<59>
+
+**Summary**
+
+An Chasan argues strongly against simplifying Korean verb conjugations, specifically defending the complex variations involving vowel changes like `ㅣ/ㅚ/ㅟ/ㅔ/ㅐ` stems combining with endings to produce forms like `되여`, `그려`, `메여` instead of regularizing them to `되어`, `그리어`, `메어` by simply adding `어`. He draws parallels between these Korean root vowel changes and inflectional systems in Sanskrit, Greek, German, and English, suggesting Korean possesses a sophisticated, rule-based system comparable to inflection, which he terms "化母音" (changed vowel) phenomena. He dismisses the idea that sounds like `ㅕ` are mere combinations (`ㅣ+ㅓ`) and criticizes the push for uniformity as illogical and contrary to actual Korean usage and grammatical principles observed even in particle attachment.
+
+This article is interesting historically as it showcases early 20th-century linguistic debates in Korea during the colonial period. It reflects the influence of Western and Indo-European comparative linguistics (especially Sanskrit studies, possibly linked through Buddhist studies) on Korean intellectuals analyzing their own language. An's defense of complex, existing forms against simplification highlights a nationalist undertone—cherishing the perceived intricacy and "exquisiteness" of Korean grammar—while engaging with international linguistic theories to validate his claims. The focus on establishing systematic rules and proper notation underscores the broader project of modernizing and standardizing the Korean language at the time.
+
+**Named Entities**
+
+安自山	안자산	An Chasan
+朝鮮	조선	Chosŏn (Korea)
+샌스크리토	샌스크리트	Sanskrit
+伊蘭	이란	Iran
+아르메니아	아르메니아	Armenia
+三國時代	삼국시대	Three Kingdoms Period
+李朝	이조	Yi Dynasty
+世祖	세조	King Sejo
+希臘	희랍	Greece
+獨逸	독일	Germany
+英語	영어	English (language)
+金宗直	김종직	Kim Chongjik
+別洞集	별동집	Pyŏltongjip (Collection from Pyŏltong)
+
+**Glossary**
+
+根母音變化	근모음변화	Root vowel change
+組織	조직	System, structure, organization
+鄙見	비견	My humble opinion (formal/modest)
+不齒	불치	Not align with, disagree with (lit. not be counted among)
+陳述	진술	To state, explain, set forth
+尙早	상조	Premature, too early
+附會	부회	Forced reasoning, far-fetched association
+姑措	고조	To set aside for now, leave aside temporarily
+酷似	혹사	To resemble closely, be strikingly similar
+轄然	할연	Clearly, distinctly
+語幹	어간	(Verb/adjective) stem
+語尾	어미	(Verb/adjective) ending
+髣髴	방불	To resemble, be similar to
+曲折	곡절	Inflection (linguistic term)
+範疇	범주	Category
+化母音	화모음	Changed vowel (Author's term, possibly referring to glides like ㅕ, ㅘ resulting from fusion/palatalization/labialization)
+複母音	복모음	Diphthong (Contrasted with 化母音)
+續合處	속합처	Point of connection, juncture (where sounds meet)
+涉音	섭음	Transitional sound (at juncture)
+正則	정칙	Correct rule, standard rule
+頻推	빈추	Analogical reasoning, inference by comparison (likely meaning here)
+語源說明	어원설명	Etymological explanation
+公理	공리	Axiom, self-evident truth
+有尾音語	유미음어	Word ending in a final consonant (받침)
+無尾音語	무미음어	Word ending in a vowel (no 받침)
+吐	토	Particle (older or alternative term for 조사)
+膠着的	교착적	Agglutinative
+加張法	가장법	Augment (linguistic term, borrowed from Sanskrit grammar)
+接辭	접사	Affix
+
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	根母音變化의 組織
+필자	安自山
+기사형태	논설
+
+根母音變化의 組織
+						安自山
+(1) 여러분의 意見發表를 拜見하니 鄙見과는 서로 不齒한 점이 만하. 지금 第 1次로 根母音變化의 組織을 陳述코자 할 새 絶對的 說明時期가 尙早함으로 相對的 觀察로써 開論코자 해. (2) 샌스크리토 語의 影響은 그 近東인 伊蘭語 아르메니아 語에만 잇는 것이 아니라 멀니 朝鮮語에도 견줘 볼 일. 이는 余의 附會한 局見인지 알 수 업스나 三國時代로부터 李朝 世祖時代까지 佛敎를 崇尙하고 그 佛經을 譯出한 관계로 보아도 汎然하게 看過할 수 업서. (3) 朝鮮語의 子音이 샌스크리트 語의 子音과 酷似한 것이 만흠은 姑措하고 母音變化의 文法上 任務는 샌스크리트 語의 法則에 對照할 필요가 잇서 何者 오게데가 말함 가티 外國語를 모르면 自國語의 性質을 연구하기 不能함으로 朝鮮語의 설명은 그와 近似한 語로 비교하여야 轄然할 듯. (4) 18先生의 高見은 거의 「되여」 「그려」 「막혀」 등의 文法上 任務인 根母音變化의 組織을 破壞하고 (어)란 音으로 통일하는 新規를 立코자 하나 그는 결코 論理上 範疇던지 文法上 範疇던지 斷然 不可하다고 拙者는 생각해. (5) 語尾는 語幹의 種類에 의하야 여러 가지로 다르게 되니 이 文法上 任務는 샌스크리트 語法과 髣髴한 것이라 이 組織은 여러 區別이 잇스나 爲先 1種만 보이건대 보통 音節의 母音으로 終하는 語幹에는 「아여어이」 등으로 變化될 새 그 文法上 任務는 「ㅏㅕㅓㅣ」 4種으로 類推하야 組織되엿나니
+
+(1) ㅏ 語幹의 文法上 組織
+┌╴ 가(往)  X  X ╴┐ 命令音이 無
+
+└╴ 사(買)  X  X ╴┘ 使動音의 無
+
+┌╴ 자(ㅚ)  X  재 ╴┐
+
+└╴ 나(出)  X  내 ╴┘ 命令音이 無
+
+
+(2) ㅣㅟㅟ 語幹의 文法上 組織
+┌╴ 되(爲) 되여 X ╴┐
+
+└╴ 괴(支) 괴여 X ╴┘  使動音이 無
+
+┌╴ 쥐(執) 쥐여 X ╴┐
+
+└╴ 휘(揮) 휘여 X ╴┘ 上同
+
+┌╴ 이(載) 여   X   ╴┐
+
+|  치(打) 쳐   X    |   使動音이 無
+
+|  그리(畵) 그려 X  |
+
+└╴ 이(飾) 려 X ╴┘
+
+
+(3) ㅔㅐ 語幹의 文法上 組織도 上同
+┌╴ 메(擔) 메여  X ╴┐
+
+└╴ 태(煮) 태여  X ╴┘ 使動音이 無
+
+┌╴ 재(寐) 재여  X ╴┐
+
+|  내(出) 내여  X  | 上同
+
+└╴ 배(孕) 배여  X ╴┘
+
+
+(4) ㅣ 語幹의 文法上 組織
+┌╴ (浮)     ╴┐
+
+|  스(立) 서  싀   |
+
+|  트(通)  터  틔  |  修正 朝鮮文法 參照
+
+└╴ 쓰(用)  써  씌 ╴┘
+
+
+(5) ㅗ 語幹의 文法上 組織
+┌╴ 오(來)  와  X ╴┐
+
+└╴ 호(縫)  와  X ╴┘ 使動音이 無
+
+┌╴ 보(見)  보아  보어         ╴┐
+
+└╴ 밧고(換)  밧고아,  밧고어  ╴┘
+
+其中에 根母音이 變成되는 것은 單音節의 組織이오 ㅇ音이 入하는 것은 復音節 즉 重母音으로 組織되는 것이니 이 文法上 組織은 畢竟 曲折과 同價値로 되는 것이라 만일 이 文法을 破壞하고 「되어」 「그리어」라 하면 이는 語法이 안이니 「되어」 「그리어」 「가아서」란 말은 朝鮮天下에 업는 것이다. (6) 以上의 멧가지 法則은 變化組織의 文法上 任務로서 一定한 範疇어널 今에 이를 廢止하고 어로 통일한다 하면 그는 朝鮮語에 實例업는 外國語니 朝鮮 사람으로서 누가 「되어」 「스이어」라 말하는가. (7) 根母音의 變化는 샌스크리트 語던지 英語로 보아도 다 語幹대로 되나니 希臘語에 Leipo, Leloipa로 變함과 獨逸語 Bunden, Bu-ndano.와 샌스크리트語 ecwo. ecwa. 와 또 第 3人稱 單數의 能相의 形은 bhereti인데 그 再歸相의 形은 bhereti로 되는 것이 다 同性의 例니라. (8) 쉬운 英語의 法母音의 組織을 보아도 Lie의 現在는 Lying으로 tie의 現在는 tying으로 되는 바 ie는 y로 換함은 一定한 法則이오 want의 過去는 ed가 入하고 Live의 過去는 D만 入하니 곳 Y音으로 변한 고로＜58＞ y로 쓰고 ed로 변한 고로 c를 더 加入하는 것이라 朝鮮語도 「여」로 되는 것은 「여」로 「스」가 서로 변함은 「서」로 쓰는 것인대 이것을 엇지 하야 法이 안이라 하나뇨. (9) 諸氏는 第一 「ㅕ」는 「ㅣㅓ」의 合音 「과」는 「ㅗㅏ」의 合音이라는 幻想的 한 見解로서의 定義에 인하야 그리 주장하는 것인 듯 「ㅕ」와 「ㅘ」는 複母音이 안이오 化母音 즉 口蓋化音 唇化音이라 ㅣㅓ가 合하야 ㅕ로 됨은 音의 生理上 설명이 안이라 續合處에서 起하는 瞬間的 涉音 geide의 관계며 ㅘ는 何必 ㅗㅏ만 合하야 되는 것이 안이라 ㅜㅏ를 合하여도 되나니 「無顔무안」을 「뫈」 「주악餠」을 「좍」이라고도 하나니 그러케 續合上 作用으로 音의 定義를 나리면 일정한 설명을 세지 못해. 「하여」를 「해」라고도 하니 「ㅐ」는 ㅏㅕ의 合이라도 可하며 日語의 「게우」를 「교」라 하니 ㅛ는 ㅔㅜ의 合이라도 可치 안한가. (10) 朝鮮語의 文法은 化母音性으로 된 語幹의 變化組織은 역시 化母音으로 되는 것이 正則이라 諸氏의 말과 가티 ㅚ와 ㅕ를 다 複母音이라 하면 「되」란 複母音 語幹에는 「여」란 複母音 즉 同性間 音이 入하는 것이 正則이니 되여, 쥐여, 메여, 내여, 의여, 그려, 와쳐, 괴여 이와 가튼 變化法則은 世界語法上 제일 絶妙한 規則이라 이를 母音調和라 하면 土耳 其語의 調和法보다도 一層 進步된 것이어늘 그러케 잘된 文法을 何由로 破壞코자 하나뇨. (11) 諸氏의 第 2條件은 他種 語幹에는 모도 「어」音이 入하니 「되」에도 「어」로 통일하자는 것인 듯 하다. 그러나 語尾의 變化는 語幹의 種類에 從하야 各異함으로 一律로 一致하기는 不可能한 일이니 假合フ終聲인 語幹의 動詞가 혹 法으로 될 때는 모도 「히」로서 「먹히다」 「썩히다」 「녹히다」로 되는대 「죽 死」에는 「죽히다」로 되지 안이 하며 形容詞가 「좁히다」 「둥글니다」로 動詞가 다 되는대 「희 白」 「적 小」은 안되며 「집이」 「소가」 「집으로」 「소로」하는 助詞 「가이」 「로으로」 등도 다 그 語幹의 種類에 從하야 各異하게 入하는 것인대 諸氏의 주장으로 이를 다 一律로 통일할가. (12) 그가티 頻推를 取치 안코 一律로 다듬고자 하는 것을 余의 愚見과 不合한 일이니 다시 諸氏의 高見을 듯고자 해. (13) 설령 ㅕ가 ㅣㅓ의 合이라 할 지라도 「여」를 쓰지 안코 그 根源인 「이어」로 쓰자는 것은 語源說 明에 속한 것이오 文法學說明은 안이야. 2,1의 合이 3이라고 3字 쓸데도 2,1의 2字를 쓰자는 것은 不當해. 自然科學에 잇서는 公理를 標準할 뿐이니 2,1의 合이 3이라 하는데 何由로 3이 되느냐 하는 것은 論理를 키지 못해. 「여」로 組織된 語尾는 그 根源을 論할 필요가 업시 公理로 認定하고 何何 語幹의 變化組織은 여 音이 入하는 法이라 하면 足해. 만일 그 根源을 차저 쓴다 하면 自然科學의 違反이니 무슨 수로 그 根源을 찻겟나뇨 更言하면 同一意라도 語形을 따라 各異한 音이 入하는 바 有尾音語에는 「이과」吐가 入하고 無尾音語에는 「와,가」가 入한다고 설명하고 또 그러케 整理할 뿐이야. 「이, 가」 「와, 과」의 根源을 차저 一新하게 整理할 수는 업는 일. (14) 或氏는 「어」를 助詞니 吐니 하는 先生님도 잇서. 그는 魚魯不辯이라면 失言이지만은 單語分類가 들된다고 拙者는 생각해. 助詞는 有意味의 非獨立語로서 他語의 格을 膠着的으로 助成하는 것이오 「어」는 無意味의 音으로서 動詞 形容詞 助動詞 등의 語尾變化에 속한 것이라고도 「어」는 다시 여러 가지로 변하야 各理意味를 發하는 것이니
+┌╴ ㅅ-다
+
+|  보다
+
+먹어 ╴┤  서다다
+
+|  지다
+
+└╴ ㅅ-서ㅅ-다
+
+「으」音도 亦然이니 이는 곳 샌스크트 語 動詞의 加張法과 特殊의 接辭를 付하야 변화하는 例와 恰似한 法則이라 助詞라도 「이, 가」와 가티 語幹의 形에 從하야 변할 수 잇거던 而况語尾變化組織의 文法上 任務일가.(拙著의 修正朝鮮文法 參照) (15) 金宗直別洞集序에 理與文融會於吾之胸中則其發而爲言語라 함가티 言語는 吾人의 思想을 발표하는 機關인 바 新時代의 新思想을 交換함에 잇서는 語法의 表記法을 整理함이 學術上 第 1步의 사업이니 우리는 충분히 論議하야 裁定하기 바라는 바 私를 獻하고 公을 위함은 討議의 精神일가 해.＜59＞
+＜58-59＞

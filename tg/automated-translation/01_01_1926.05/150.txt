@@ -1,0 +1,83 @@
+**Header Section:**
+Magazine Title: 동광 제1호
+Publication Date: 1926년 05월 01일
+Article Title: 智識庫, 西洋의 太陽曆과 太陰曆 (Knowledge Bank, The Western Solar and Lunar Calendars)
+Author: Not Specified
+Article Type: 잡저 (Miscellaneous Writing/Essay)
+
+**Body Text Translation:**
+I. Egypt's Solar Calendar
+Although it is not known in detail how many years before the common era the solar calendar (太陽曆) was invented, scholars' theories on the founding year of Egypt's First Dynasty (第一 王朝) differ; the earliest estimate is 3,900 B.C.E., and the latest is 3,200 B.C.E., so it was likely somewhere in between. However, the date confirmed by clear evidence from stone inscriptions is from the beginning of the Fourth Dynasty, said to be 2,500 B.C.E. Therefore, the invention of the solar calendar would have been after that.
+The inventors were priests (僧侶), and it was an astonishingly <30> advanced development. They made one year twelve months and one month thirty days, and even obtained five supplementary days separately. Later, the Roman Julian calendar (Julian calender) emerged, which had many points lacking compared to the Egyptian calendar. The Julian calendar placed one extra year in a 1,460-year period; looking at it this way, it is clear that the Egyptians from that time knew that 365 days constituted one year and were aware of the one-quarter day discrepancy.
+
+II. Babylon's Lunar Calendar
+At the same time that the Egyptian priests invented the solar calendar, the Babylonian priests are said to have invented the lunar calendar. They stated the daily movement (運行) of the moon (月) as thirteen degrees, ten minutes, thirty-five seconds (十三度 十分 三十五秒) (this was also invented in the East); compared to the results of current scholars' observations (觀測), there is only a difference of several seconds (數秒). <31>
+<30-31>
+
+**Summary**
+
+This article briefly explains the origins and basics of the Egyptian solar calendar and the Babylonian lunar calendar. It notes the Egyptian system of 12 months, 30 days per month, plus 5 supplementary days, highlighting its relative accuracy compared to the later Julian calendar's leap year system. It also mentions the Babylonian lunar calendar's calculation of the moon's daily movement, remarking on its impressive accuracy even by modern standards. From a historical perspective, this piece, published in colonial Korea, demonstrates an effort to disseminate Western scientific and historical knowledge, specifically regarding fundamental systems like timekeeping. It reflects an intellectual interest in understanding the foundations of Western civilization and science during a period of modernization and engagement with global knowledge systems, contrasting or complementing traditional East Asian calendrical knowledge.
+
+**Named Entities**
+
+에집트	에집트	Ijip't'ŭ (Egypt)
+로마	로마	Roma (Rome)
+유리안 력	유리안 력	Yurian ryŏk (Julian calendar)
+바빌론	바빌론	Pabillon (Babylon)
+
+**Glossary**
+
+긔원전(紀元前)	기원전	Before Common Era (B.C.E.)
+멧	몇	How many (older spelling)
+지세히	자세히	In detail (older spelling)
+업스나	없으나	Although there is not (older spelling)
+왕조인(王朝-)	왕조인	Being a dynasty
+노픈	높은	High (older spelling)
+나즌	낮은	Low (older spelling)
+즘	쯤	Approximately (older spelling)
+어듬은	얻음은	The obtaining (of) (older spelling/form)
+초긔(初期)	초기	Early period
+년대(年代)	연대	Era, period
+함니다	합니다	Does/is (formal polite ending, older spelling)
+승려(僧侶)	승려	Priest (here referring to ancient Egyptian/Babylonian priests)
+놀랜만한	놀랄 만한	Surprising, astonishing (older spelling)
+십이개월(十二個月)	십이 개월	Twelve months
+삼십일(三十日)	삼십 일	Thirty days
+보충일(補充日)	보충일	Supplementary day(s)
+엇습니다	얻습니다	Obtains, gets (older spelling)
+낫섯는데	나섰는데	Appeared, came about (older spelling)
+만흔	많은	Many (older spelling)
+일개년(一個年)	일 개년	One year
+두는데	두는데	Placing, establishing
+이로 인하여 본즉	이로 인하여 본즉	Looking at it this way, based on this
+알미	앎이	The knowing (noun form of 알다 + subject marker)
+명백함니다(明白-)	명백합니다	Is clear, is evident (older spelling)
+동시에(同時-)	동시에	At the same time
+발명하엿더랍니다	발명하였더랍니다	(It is said that) invented (older/narrative form)
+운행(運行)	운행	Movement, revolution (astronomical)
+삽십오초(三十五秒)	삼십오 초	Thirty-five seconds
+직금(卽今)	지금	Now, currently
+관측(觀測)	관측	Observation
+비한 즉	비한즉	Compared to which
+수초(數秒)	수초	Several seconds
+잇슬	있을	To be, exist (future/potential modifier form, older spelling)
+따름이외다	따름입니다	Is only, merely (older polite ending)
+잡저(雜著)	잡저	Miscellaneous writing, essay
+
+
+---------------------------
+
+
+잡지명	동광 제1호
+발행일	1926년 05월 01일
+기사제목	智識庫, 西洋의 太陽曆과 太陰曆
+기사형태	잡저
+
+智識庫, 西洋의 太陽曆과 太陰曆
+一. 집의트의 太陽曆
+태양력(太陽曆)은 긔원전(紀元前) 멧 년에 발명하엿는지는 지세히 알 수 업스나 에집트의 제일 왕조인(第一 王朝)가 선 연대는 학자의 설이 다 각각이나 제일 노픈 것은 기원전 3,900년이라 하고 제일 나즌 것은 3,200년이라 하니 아마 이 중간즘 되겟습니다. 그런데 석비로 확실한 증거를 어듬은 제사 왕조 초긔의 년댄데 긔원전 2,500년이라 함니다. 그러니까 태양력을 발명하기는 그 후가 되겟습니다.
+이를 발명한 이는 승려(僧侶)인데 놀랜만한＜30＞ 진보된 것이외다. 일년을 십이개월로 하고 일개월을 삼십일로 하여 따로 오일의 보충일아지 엇습니다. 그 뒤 로마적 유리안 력(Julian calender)이 낫섯는데 이는 에집트 력보다 부족한 점이 만흔 것이외다. 이 유리안 력은 1,460년 되는 해에 여분의 해 일개년을 두는데 이로 인하여 본즉 에집트인은 그때부터 365일을 일년이라 하고 사분지 일의 부족함을 알미 명백함니다.
+
+二. 바빌론의 太陰曆
+에집트의 승려가 태양력을 발명하는 동시에 바빌론의 승려는 태음력을 발명하엿더랍니다. 이는 월(月)의 일일(一日)의 운행(運行)을 십삼도 십분 삽십오초(十三度 十分 三十五秒)라 하는데(동양에서도 이를 발명함) 직금 학자의 관측(觀測)의 결과에 비한 즉 수초(數秒)의 차가 잇슬 따름이외다. ＜31＞
+＜30-31＞

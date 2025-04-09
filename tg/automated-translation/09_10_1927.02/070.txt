@@ -1,0 +1,1998 @@
+Magazine Title: 동광 제10호
+Publication Date: 1927-02-01
+Article Title: 말의 習慣으로 된 變化 (Changes Resulting from Linguistic Habits)
+Author: 李秉岐
+Article Type: 논설 (Editorial/Essay)
+
+Changes Resulting from Linguistic Habits
+By Yi Pyŏnggi
+
+Language is constantly changing. It changes continuously according to time or region. However, it does not necessarily change to conform to phonetic principles or grammatical rules. Here, changes that do not align with phonetic principles nor follow grammatical rules, found in old language (古語), contemporary language (今語), and regional dialects (地方語), are categorized into four types: Transformation of Vowels and Consonants, Reduction of Vowels and Consonants, Vowel Gemination and Addition of Vowels/Consonants, and Transformation of the Original Word.
+
+1. Transformation of Vowels and Consonants
+There are cases where vowels change among themselves and consonants change among themselves. These are divided into Vowel Transformation and Consonant Transformation, with examples provided below.
+
+(1) Vowel Transformation
+Vowels ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ ㅐ ㅖ ㅚ ㅟ change among themselves, such as ㅏ and ㅗ, ㅓ and ㅗ, ㅓ and ㅜ, ㅗ and ㅜ, ㅗ and ㅡ, ㅜ and ㅏ, ㅜ and ㅡ, ㅡ and ㅏ, ㅡ and ㅓ, ㅡ and ㅜ, ㅣ and ㅓ, ㅡ and ㅜ, ㅣ and ㅐ, ㅚ and ㅐ ㅔ ㅟ changing into each other.
+
+Examples of ㅏ ㅓ:
+하고 -> 허고 (and)
+발서 -> 벌서 (already)
+남 -> 넘 (other person)
+나물 -> 너물 (greens/herbs)
+악지 -> 억지 (-쓰다) (stubbornness, being obstinate)
+이마작 -> 이마적 (just now)
+사리다 -> 서리다 (to coil, form)
+짜르다 -> 쩌르다 (to cut, be salty)
+마리 -> 머리 (head)
+달달떨다 -> 덜덜떨다 (to tremble violently)
+사랍 -> 서랍 (drawer)
+말ㅅ본세 -> 말ㅅ본새 (manner of speaking)
+살강 -> 설겅 (shelf)
+다숩다 -> 더웁다 (warm -> hot)
+밧꼴 -> 벗꼴 (外貌) (appearance) <16>
+
+Examples of ㅏ ㅗ:
+말 -> 몰 (馬) (horse) Yŏnggwang, Old Korean
+깔 (Chŏlla, Ch'ungch'ŏng) -> 꼴 (芻) (fodder) ditto
+사매 (Uljin Old Korean) -> 소매 (sleeve)
+남 -> 놈 (person/fellow - often derogatory)
+맞 -> 몾 (伯) (eldest brother) Yŏnggwang
+파리 -> 포리 (fly) ditto
+팟 -> 폿 (red bean) ditto
+팔ㅅ둑 -> 폴ㅅ둑 (forearm) Yŏnggwang
+달라다 -> 돌라다 (to ask for) Chŏlla, Kyŏngsang
+낞우다 -> 녾우다 (to divide/share)
+낳다 -> 놓다 (生) (to give birth) Kyŏngsang Province
+바듯이 -> 보듯이 (as one sees) Namwŏn
+짝아리 -> 쪽아리 (piece, fragment)
+갑절 -> 곱절 (double)
+눈바라 -> 눈보라 (snowstorm)
+
+Examples of ㅓ ㅗ:
+엄마 -> 옴마 (mommy) Chŏnju 오마니 (grandmother) Chŏnju
+버선 -> 보선 (襪) (Korean socks) Kyŏngsang, Chŏlla, Hamgyŏng
+버굿 -> 보곳 (tree bark like scales)
+번의 -> 본의 (inner skin of fruit)
+먼저 -> 몬저 (first) Kyŏngsang, Hamgyŏng
+번대기 -> 본도기 (silkworm pupa)
+눈석임 -> 눈속임 (deception)
+
+Examples of ㅓ ㅜ:
+얼 (芽) -> 움 (sprout)
+벅국이 -> 국국이 (布穀) (cuckoo)
+엉덩이 -> 궁둥이 (buttocks)
+벅적벅적 -> 북적북적 (bustling, crowded)
+껄떨껄떡 -> 꿀떨꿀떡 (gulping sound)
+먹다 -> 묵다 (to eat) Kyŏngsang Province
+멁다 -> 묽다 (to be watery/thin)
+억이다 -> 욱이다 (to bend/force down)
+
+Examples of ㅗ ㅜ:
+Old Korean -> Old Korean
+매오 -> 매우 (very)
+되오 -> 되우 (very)
+다보록 -> 다부룩 (bushy, compact)
+소복이 -> 수북이 (heaped up)
+눈통이 -> 눈퉁이 (area around the eye)
+다독거리다 -> 다둑거리다 (to pat gently)
+다로다 -> 다루다 (to treat, handle)
+녹다 -> 눅다 (to melt, become soft)
+속이다 -> 숙이다 (to bow/lower - one's head...)
+나모 -> 나무 (tree)
+아오 -> 아우 (younger sibling)
+낞오다 -> 낞우다 (to divide/share)
+걷오다 -> 걷우다 (to collect/gather)
+배호다 -> 배우다 (to learn)
+싸호다 -> 싸우다 (to fight)
+사괴다 -> 사귀다 (to make friends)
+독 -> 팔ㅅ둑 (forearm)
+목 -> 멱 (項) (neck)
+These are examples where Old Korean ㅗ is pronounced as ㅜ in Contemporary Korean.
+
+Examples of ㅗ ㅡ:
+Old Korean -> Contemporary Korean
+알옴 -> 알음 (knowing, acquaintance)
+옴 -> 갈음 (易) (substitute, replacement)
+잡옴 -> 잡음 (noise, 잡다 'to catch' + nominalizer)
+들옴 -> 들음 (hearing, 듣다 'to hear' + nominalizer)
+말옴 -> 말음 (不) (stopping, 말다 'to stop/not do' + nominalizer)
+놀옴 -> 놀음 (play, amusement)
+밀옴 -> 밀음 (pushing, 밀다 'to push' + nominalizer)
+헐옳힘 -> 헐을힘 (strength to demolish)
+열호로 -> 열으로 (十-) (by ten)
+밖오로 -> 밖으로 (outside)
+하여곰 -> 하여금 (to make/let someone do)
+새곰하다 -> 시금하다 (sourish)
+아논일 -> 아는일 (work one knows)
+족옴 -> 족음 (a little bit)
+These are examples where Old Korean ㅗ is pronounced as ㅡ in Contemporary Korean.
+
+Examples of ㅜ ㅏ:
+부득부득 -> 바닥바닥 (stubbornly)
+부스대다 -> 바스대다 (to rustle)
+부스러지다 -> 바스러지다 (to crumble)
+부적거리다 -> 바작거리다 <17> (to make a rustling sound)
+부적부적 -> 바작바작 (rustling)
+심부름 -> 심바람 (errand)
+장수 -> 장사 (merchant)
+
+Examples of ㅜ ㅣ: This section seems mislabeled, the examples show ㅜ -> ㅡ.
+Old Korean -> Contemporary Korean
+낮움 -> 낮음 (lowness)
+구룸 -> 구름 (cloud)
+힘쑤다 -> 힘쓰다 (to exert effort)
+뚜다 -> 뜨다 (開) (to open - eyes)
+죽움 -> 죽음 (death)
+흐루다 -> 흐르다 (to flow)
+얼운 -> 어른 (長) (adult)
+물우니 -> 물으니 (because one asks)
+넘우니 -> 넘으니 (because one crosses)
+우움 -> 웃음 (laughter)
+These are examples where Old Korean ㅜ is pronounced as ㅡ in Contemporary Korean.
+
+Examples of ㅡ ㅏ:
+슬슬 -> 살살 (gently, stealthily)
+슬그먼이 -> 살그먼이 (stealthily)
+슬쩍슬쩍 -> 살짝살짝 (stealthily, slightly)
+슬기롭다 -> 살가롭다 (wise -> friendly, affectionate)
+슬어지다 -> 살아지다 (to fall down -> to disappear)
+뜨뜻하다 -> 땃땃하다 (lukewarm)
+뜨겁다 -> 따갑다 (hot -> stinging, prickly)
+긁어먹다 -> 깕어먹다 (to scrape and eat)
+스록 -> 사록(*) (gradually?) [*Note: Meaning unclear/archaic]
+반듯이 -> 반닷이 (straight, surely)
+오즉 -> 오작 (only)
+무슴 -> 무삼 (what - archaic form)
+말슴 -> 말삼 (words, speech - archaic polite form)
+가슴 -> 가삼 (chest - archaic form)
+아츰 -> 아참 (morning - archaic form)
+맞흠 -> 맞함 (matching - archaic form)
+
+Examples of ㅡ ㅓ:
+그저 -> 거저 (just, for free)
+슳음 -> 섫음 (sadness - archaic form of 슬픔)
+으슬렁으슬렁 -> 어슬렁어슬렁 (loiteringly, strolling)
+으스름달ㅅ밤 -> 어스름달ㅅ밤 (dusky moonlit night)
+흩다 -> 헡다 (散) (to scatter)
+흔어지다 -> 헌어지다 (to become scattered/messy)
+부스름 -> 부스럼 (boil, skin trouble)
+죽음 -> 죽엄 (death - older form)
+묻음 -> 묻엄 (burial - older form)
+헤음 -> 헤엄 (swimming)
+세음 -> 세엄 (counting)
+뛰음 -> 뛰엄 (jumping, skipping)
+
+Examples of ㅡ ㅜ: This section seems mislabeled, the examples show ㅡ -> ㅜ, ㅡ -> ㅓ. The note says ㅡ -> ㅓ. Let's assume the note is correct for the intention.
+Old Korean -> Contemporary Korean
+끄럼이 -> 꾸럼이 (包) (bundle)
+바느실 -> 바누실 (needle and thread)
+며느리 -> 며누리 (daughter-in-law)
+믈 -> 물 (水) (water)
+플 -> 풀 (草) (grass)
+서 -> 서울 (Seoul)
+므슴 -> 무슴 (what - archaic)
+믈읫 -> 무릇 (凡) (generally, all)
+므거이 -> 무거이 (重히) (heavily)
+These are examples where Old Korean ㅡ is pronounced as ㅓ in Contemporary Korean. [Translator's note: Many examples actually show ㅡ changing to ㅜ or staying ㅡ becoming ㅜ/ㅜ. The final note states ㅡ to ㅓ, which aligns with 슳음 -> 섫음 etc. but not the main list here like 믈 -> 물. There seems to be an inconsistency in the original text's examples vs. explanation for this section.]
+
+Examples of ㅣ ㅏ:
+아침 -> 아참 (morning)
+맞힘 -> 맞함 (matching)
+가지 -> 가장이 (branch)
+아기 -> 아가 (baby)
+장시 -> 장사 (merchant, business)
+일씨 -> 일싸 (early)
+실엉 -> 살강 (shelf)
+오직 -> 오작 (only)
+칩다 -> 찹다 (cold)
+집다 -> 잡다 (to pick up, catch)
+앗기 -> 아갑다 (to be precious/regrettable -> 아깝다)
+밧기 -> 반갑다 (to be glad to see)
+지질어진다 -> 자질어진다 (to become torn/tattered)
+
+Examples of ㅣ ㅓ:
+히묽다 -> 허여멁엏다 (whitish and watery -> very whitish?)
+지질지질 -> 지적지적 (chattering, chirping -> pecking sound?) <18>
+늣기다 -> 늣겁다 (to feel -> delightful? related to 느끼다?)
+슬기 -> 슬겁다 (wisdom -> delightful? related to 즐겁다?)
+즐기다 -> 즐겁다 (to enjoy -> delightful)
+These often involve a change in meaning as well.
+
+Examples of ㅣ ㅜ:
+자시하다 -> 지수하다 (detailed -> ?) [Meaning obscure]
+시미다 -> 수미다 (潛) (to permeate -> to dive/hide?)
+밧이다 -> 밧우다 (to receive -> ?)
+붓이다 -> 붓우다 (to pour -> ?)
+미섭다 -> 무섭다 (scary)
+
+Examples of ㅣ ㅐ:
+빕새 -> 뱁새 (볍새) (crow-tit)
+빌엉방이 -> 밸엉방이 (beggar)
+질알 -> 잴알 (seizure, fuss)
+아비 -> 아배 (father - dialect)
+어미 -> 어매 (mother - dialect)
+아지 -> 아재 (uncle - dialect)
+아히 -> 아해 (child - archaic)
+보비 -> 보배 (treasure)
+선비 -> 선배 (scholar -> senior)
+미친놈 -> 매친놈 (crazy guy)
+미섭다 -> 매삽다 (scary -> fierce/sharp?)
+미지근하다 -> 매지근하다 (lukewarm -> ?)
+싱글싱글 -> 생글생글 (smilingly)
+시암 -> 새암 (spring/well - archaic)
+견디다 -> 견대다 (to endure)
+부디 -> 부대 (please -> ?)
+소리 -> 소래 (sound - archaic/dialect)
+가시 -> 가새 (荊) (thorn)
+잔치 -> 잔채 (feast, party)
+짐치 -> 짐채, 침채 (kimchi)
+어찌 -> 어째 (how, why)
+진들어시다 -> 잰들어지다 (to be crushed/spoiled -> ?)
+
+Examples of ㅚ and ㅐ ㅔ ㅟ:
+열쇠 -> 열쇄, 열대 (key)
+뫼 -> 메 (山) (mountain - archaic)
+뵈 -> 베 (布) (hemp cloth)
+바회 -> 바위 (rock)
+사외 -> 사위 (son-in-law)
+알외다 -> 알위다 (to inform - archaic 알리다)
+삐최다 -> 삐취다 (疲勢) (to be exhausted/stagger -> ?)
+빛외다 -> 빛위다 (to shine -> ?)
+
+(2) Consonant Transformation
+Consonants change to other different consonants or among similar consonants. Examples include: ㄱ and ㅂ, ㄱ and ㅅ, ㄱ and ㅈ, ㄱ and ㅇ, ㄴ and ㄹ, ㄴ and ㅁ, ㄴ and ㆁ (ng), ㄷ and ㅅ, ㄷ and ㅈ, ㄹ and ㄴ, ㄹ and ㅅ, ㅁ and ㅂ, ㅅ and ㄴ, ㅅ and ㅂ, ㅈ and ㅂ, ㅎ and ㅅ changing mutually; and within similar consonants: ㄱ and ㅋ, ㄷ and ㅌ, ㅂ and ㅍ, ㅈ and ㅊ, ㄱ and ㄲ, ㄷ and ㄸ, ㅂ and ㅃ, ㅈ and ㅉ changing mutually.
+
+(a) Change to Different Consonants
+
+Examples of ㄱ ㅂ:
+꼭대기 -> 뽁대기 (summit, peak) Iksan (mountain-)
+꾸꾸시 (Koryŏng) -> 뿌뿌시 (-욱은다) (crouching/shrunken) Iksan
+족박 (Ch'ungnam) -> 좁박 (gourd dipper) Ch'ungnam, Chŏlla
+속 -> 솝 (裡) (inside) Old Korean
+북 -> 붑 (鼓) (drum) ditto
+거북 -> 거붑 (龜) (turtle) ditto
+부억 -> 부업 (廚) (kitchen) ditto
+곡생초 -> 곱생초 (bent grass?)
+곡두선 -> 곱장선, 꼽장선 (crooked line?)
+낙거미 (Chŏlla, Ch'ungch'ŏng) -> 납거미 (spider) Kyŏngsŏng (Seoul)
+
+Examples of ㄱ ㅅ:
+Old Korean -> Contemporary Korean
+반드기 -> 반듯이 (straight, surely)
+번드기 -> 번듯이 (clearly, plainly)
+비슥하다 -> 비슷하다 (to be similar)
+믄드기 -> 문듯 (忽) (suddenly)
+
+Examples of ㄱ ㅈ:
+기삼이 -> 지삼이 (hemp cloth?)
+귤 -> 쥴 (橘) (tangerine)
+길삼 -> 질삼 (紡績) (weaving)
+매겻다 -> 매짓다 (呌鶉) (to cry like a quail?)
+구겨내 -> 구지내 (鶙) (thrush?)
+기아 -> 지와, 지새 (roof tile)
+김제 -> 짐제 (金堤) <19> (Kimje)
+김승 -> 짐숭 (beast, animal - archaic form of 짐승)
+김치 -> 짐치, 짐채 (kimchi)
+깃 -> 짓 (羽) (feather)
+견헌 -> 진헌 (甄萱) (Kyŏn Hwŏn)
+
+Examples of ㄱ ㅇ (ng sound):
+바닥 -> 바당 (발...)바탕 (sole... base, foundation)
+그럭저럭 -> 그렁저렁 (somehow or other)
+갈악이 -> 갈앙이 (바짓-) (crotch of pants)
+들석들석 -> 들성들성 (lifting slightly and repeatedly)
+오르락나리락 -> 오르랑나리랑 (going up and down repeatedly)
+들컥들컥 -> 들컹들컹 (clattering, rattling)
+올막졸막 -> 올망졸망 (small and gathered together)
+
+Examples of ㄴ ㄹ:
+한아버지 -> 할아버지 (grandfather)
+한머니 -> 할머니 (grandmother)
+언마나 -> 얼마나 (how much/many)
+곤마리 -> 골마리 (pus forming in a boil)
+언청이 -> 얼청이 (harelip)
+
+Examples of ㄴ ㅁ:
+무슨 -> 무슴 (what kind of - archaic)
+안 -> 암 (inside)
+손씨 -> 솜씨 (skill, dexterity)
+몬지 -> 몸지 (thing - archaic form of 뭔지)
+세간살이 -> 세감살리 (household goods)
+잔자리 -> 잠자리 (蜻蜓) (dragonfly)
+
+Examples of ㄴ ㅇ (ng sound):
+들큰들큰 -> 들컹들컹 (rattling)
+물큰물큰 -> 물컹물컹 (soft and mushy)
+불근불근 -> 불겅불겅 (bulging)
+언덕 -> 엉덕 (hill)
+오면가면 -> 오명가명 (coming and going)
+안요냐 -> 앙오냐 (isn't it?) Kyŏngsang Province
+
+Examples of ㄷ ㅅ:
+Old Korean -> Contemporary Korean
+ -> 뜻 (meaning, intention)
+곧 -> 곳 (place)
+자몯 -> 자못 (頗) (quite, rather)
+몯 -> 못 (cannot)
+벋 -> 벗 (友) (friend)
+빋 -> 빗 (債) (debt)
+This applies when ㄷ and ㅅ are used as final consonants (받침), they are pronounced similarly.
+
+Examples of ㄷ ㅈ:
+Old Korean -> Contemporary Korean
+디새 -> 지새 (瓦) (roof tile)
+딘이다 -> 진이다 (守) (to carry, bear)
+아디몯하다 -> 아지못하다 (to not know)
+낙디 -> 낙지 (小八稍魚) (small octopus)
+디 -> 지는해 (setting sun)
+하딕 -> 하직 (辭) (farewell)
+디다 -> 지다 (落) (to fall, set)
+토디 -> 토지 (土地) (land)
+This involves ㄷ changing to ㅈ before the vowel ㅣ (palatalization).
+뎡자 -> 정자 (亭子) (pavilion)
+됴상 -> 조상 (吊喪) (condolence visit)
+
+Examples of ㄹ ㄴ:
+라주 -> 나주 (羅州) (Naju)
+루수 -> 누수 (漏水) (water leak)
+로송나무 -> 노송나무 (old pine tree)
+로인 -> 노인 (老人) (old person)
+This involves ㄹ changing to ㄴ at the beginning of a word before vowels ㅏ ㅓ ㅗ ㅜ.
+
+Examples of ㄹ ㅅ:
+걸다 -> 것다 (步) (to walk)
+물다 -> 뭇다 (問) (to ask)
+질 -> 짓 (quality, nature)
+탈 -> 탓 (fault, reason)
+얼청이 -> 엇청이 (harelip)
+불다 -> 붓다 (脹) (to swell)
+달다 -> 닷다 (走) (to run)
+길다 -> 깃다 (長) (to be long)
+닐컬다 -> 닐컷다 (to be called, named)
+올바시 -> 옷바시 (type of early rice?)
+올빠미 -> 옷바미 (owl?)
+올아비 -> 옷바 (man who remarried?)
+홀 -> 홋 (單) (single)
+얼 -> 엇 (斜) (slanting, diagonal)
+갈모 -> 갓모 <20> (cone-shaped rain hat worn over 갓)
+곳갈 -> 곳갓 (冠) (cone-shaped hat) Old Korean: 古褐
+설달 -> 섯달 (last month of the lunar year)
+열쇠 -> 엿쇄 (key)
+
+Examples of ㅁ ㅂ:
+맛이다 -> 밧이다 (to drink -> to receive?) [** Meaning unclear]
+눈망울 -> 눈방울 (eyeball)
+멋 (Old *) -> 벗 (率子) (companion, friend?) [*Note: Original unclear]
+다 (Kyŏngsang Province) -> 없다 (to not exist/be)
+굼실굼실 -> 굽실굽실 (bowing repeatedly, pliable)
+무름쓰다 (Chŏlla, Ch'ungch'ŏng) -> 무릅쓰다 (to brave, risk) Kyŏngsŏng
+멋 -> 뻣 (...낸다) (style, airs -> stiffen?)
+덤석 -> 덥석 (...물다) (suddenly, snatchingly - grab/bite)
+두름나물 -> 두릅나물 (fatsia shoots)
+잠오아 -> 잡으러 (to catch) Kyŏngsang Province
+
+Examples of ㅅ ㄴ:
+엇청이 -> 언청이 (harelip)
+엇치 -> 언치 (말...) (saddle pad)
+못한다 -> 몬한다 (cannot do) Kyŏngsang Province
+맛보다 -> 만보다 (to taste -> to look down on?) ditto
+
+Examples of ㅅ ㅂ:
+짓 (Old Korean) -> 집 (家) (house)
+헌 것 -> 헌겁 (old thing -> old cloth, rag)
+겻말 -> 겹말 (謎話) (riddle, complex word?)
+
+Examples of ㅈ ㅅ:
+듣자오니 -> 듣사오니 (as I hear - humble form)
+받자오니 -> 받사오니 (as I receive - humble form)
+감쪼으다 -> 감쏘시다 (보시다) (to see - honorific?) [Meaning obscure]
+의자 -> 의상 (chair -> clothes?) [Likely 의사 (doctor) -> 의상?]
+붓적붓적 -> 붓석붓석 (crumbly, powdery?)
+밧작밧작 -> 밧삭밧삭 (crispy?)
+쩍다 -> 쐬다 (*...) (to expose to? *arrow?)
+
+Examples of ㅎ ㅅ:
+힘 -> 심 (力) (strength)
+헴 -> 셈 (counting)
+혀 -> 셔 (舌) (tongue)
+효 -> 쇼 (孝) (filial piety)
+힌머리 -> 센머리 (white hair)
+해ㅅ것 -> 새것 (new thing)
+혀케 -> 셔캐 (nit, louse egg?)
+휴지 -> 슈지 (故紙) (waste paper)
+
+(b) Change Among Similar Consonants.
+
+Examples of ㄱ ㅋ:
+고 (Old Korean) -> 코 (nose)
+갈 (Old Korean) -> 칼 (knife)
+건갈이 -> 건컬이 (dry plowing)
+안개 -> 암캐 (female dog)
+한간 -> 한칸 (one section/room)
+시금시금 -> 시큼시큼 (sourish)
+수것 -> 수컷 (male animal)
+
+Examples of ㄷ ㅌ:
+하나도 -> 하나토 (even one)
+문대다 -> 문태다 (to rub hard)
+도막 -> 토막 (piece, chunk)
+돕 (Old Korean) -> 톱 (爪) (saw, claw)
+한데 -> 한테 (together, to someone)
+암닭 -> 암탉 (hen)
+수닭 -> 수탉 (rooster)
+사당 -> 사탕 (shrine -> candy)
+바당 -> 바탕 (base, foundation)
+
+Examples of ㅈ ㅊ:
+짐채 -> 침채 (kimchi)
+재축하다 -> 채출하다 (to urge, press)
+혼자 -> 혼차 (alone)
+만지다 -> 만치다 (to touch -> ?)
+지접은하다 -> 추접은하다 (dirty, messy)
+송아지 -> 송아치 (calf)
+시절 (Old Korean) -> 시칠 -> 사철 (four seasons)
+장아지 -> 장아치 (pickled vegetables)
+잔작하다 -> 잔착하다 (to estimate -> ?)
+점 -> 첨 (하-) (point -> ?)
+양지물 -> 양치물 (gargling water)
+먼저 -> 먼처 (first)
+꽂앙이 -> 꽃앙이 (skewer)
+곶 (Old Korean) -> 꽃 (花) (flower)
+
+Examples of ㅂ ㅍ:
+벌 -> 펄 (原野) (field, plain)
+변하다 -> 편하다 (to change -> to be comfortable) <21>
+마바람 -> 마파람 (south wind)
+휘바람 -> 휘파람 (whistle)
+안밖 -> 안팎 (inside and outside)
+조밥 -> 조팝 (foxtail millet rice -> bridal wreath spirea)
+바삭바삭 -> 파삭파삭 (crispy, brittle)
+북이 -> 푹이 (最人) (deeply?) [Meaning obscure]
+
+Examples of ㄱ ㄲ:
+곱을곱을 -> 꼽을꼽을 (curly, winding)
+갈칠하다 -> 깔칠하다 (rough, coarse?)
+강둥강둥 -> 깡뚱깡뚱 (waddling, short and stumpy?)
+곶 (Old Korean) -> 꽃 (flower)
+고돌고돌 -> 꼬돌꼬돌 (firmly dried, chewy)
+긑 (Old Korean) -> 끝 (終) (end)
+
+Examples of ㄷ ㄸ:
+다스하다 -> 따듯하다 (warm)
+데꾼하다 -> 떼꾼하다 (drowsy?)
+돌돌 -> 똘똘 (smartly, rolled up)
+듸글듸글 -> 띄글띄글 (boiling thick?)
+둘둘 -> 뚤뚤 (rolling up)
+
+Examples of ㅂ ㅃ:
+벋다 -> 뻗다 (to stretch out)
+바틋하다 -> 빠듯하다 (tight, barely sufficient)
+벅국새 -> 뻑국새 (cuckoo)
+번적번적 -> 뻔쩍뻔쩍 (glittering, flashing)
+번들번들 -> 뻔들뻔들 (shiny, greasy)
+불휘 (Old Korean) -> 뿌리 (根) (root)
+
+Examples of ㅅ ㅆ:
+살 (Kyŏngsang Province) -> 쌀 (rice)
+석다 (Old Korean) -> 썩다 (to rot)
+싯다 (Old Korean) -> 씻다 (to wash)
+스다 (Old Korean) -> 쓰다 (書) (to write)
+시름 -> 씨름 (worry -> Korean wrestling)
+
+Examples of ㅈ ㅉ:
+장아지 -> 장아찌 (pickled vegetables) Koryŏng
+가지 -> 까지 (茄子) (eggplant) Chŏnju
+자르다 -> 짜르다 (to cut)
+족악 -> 쪽악 (piece, fragment)
+질기다 -> 찔기다 (to be tough, chewy)
+
+2. Reduction of Vowels and Consonants
+There are cases where vowels or consonants are reduced (deleted) before or after vowels and consonants. These are divided into three types: Reduction of Vowels, Reduction of Consonants, and Reduction of Both Vowels and Consonants, with examples provided below.
+
+(1) Reduction of Vowels
+A vowel is reduced when it meets the same vowel or a different vowel.
+
+(a) Reduction after meeting the same vowel.
+
+Examples of ㅏ:
+저리 가았다 -> 저리갔다 (went that way)
+책을 사아보다 -> 책을 사보다 (to buy and see a book)
+내암새 -> 냄새 (smell)
+새암 -> 샘 (泉) (spring/well)
+빼어먹다 -> 빼먹다 (to take out and eat, omit)
+내어 버리다 -> 내 버리다 (to throw out)
+매어 달다 -> 매달다 (to hang up)
+
+Examples of ㅓ:
+발우 서어라 -> 발우 서라 (stand straight)
+자리를 펴어라 -> 자리를 펴라 (spread the mat)
+헤엄 -> 헴 (游泳) (swimming)
+억어지 쓴다 -> 억지 쓴다 (to be stubborn)
+
+Examples of ㅗ:
+저걸 보오 -> 저걸 보 (look at that)
+이리 오오 -> 이리 오 (come here)
+야조오개 -> 야조개 (夜照峴) (Yajogae Pass)
+
+Examples of ㅜ:
+편히 누우시오 -> 편히 누시오 (lie down comfortably)
+무우 -> 무 (蘿蔔) (radish)
+누구 -> 누 (誰) (who)
+
+Examples of ㅡ:
+흐으르다 (Old Korean) -> 흐르다 (流) (to flow)
+드르 (Old Korean) -> 들 (野) (field)
+
+Examples of ㅣ:
+래일 -> 랠 (來日) (tomorrow)
+제일 -> 젤 (第) (the first, number one)
+며리치 -> 멸치 (anchovy) Chŏlla, Ch'ungch'ŏng <22>
+소리개 -> 솔개 (kite - bird)
+자리개 -> 잘개 (mat?) Kyŏngsang Province
+
+(b) Reduction after meeting a different vowel
+
+Examples of ㅜ reduction:
+시원하다 -> 시언하다 (cool, refreshing)
+훤츨하다 -> 헌츨하다 (tall and handsome)
+남원 -> 남언, 남안 (南鴈) (Namwŏn)
+워대 -> 어대 (where)
+
+Examples of ㅡ reduction:
+건느어 가다 -> 건너 가다 (to cross over)
+뜨어 가다 -> 떠 가다 (to float away)
+트어 졌다 -> 터졌다 (burst open)
+가을 -> 갈 (autumn)
+마을 -> 말 (village)
+다음 -> 담 (next)
+마음 -> 맘 (mind, heart)
+마르는 (Old Korean) -> 마는 (하지...) (but, don't...)
+더음 -> 덤 (extra, bonus)
+겨을 -> 결 (winter)
+여을 -> 열 (fever, heat)
+모으다 -> 모다 (to gather)
+고을 -> 골 (district, county)
+노을 -> 놀 (靄) (sunset glow)
+호을로 -> 홀로 (alone)
+살음 -> 삶 (life)
+거믜 -> 거미 (spider)
+아자븨 -> 아자비 (uncle - archaic)
+나븨 -> 나비 (butterfly)
+이믜 -> 이미 (旣) (already)
+픠다 -> 피다 (發) (to bloom)
+여희다 -> 여히다(*) (to part with - archaic form of 여의다)
+글픠 -> 글피 (two days after tomorrow)
+븨다 -> 비다 (空) (to be empty)
+이긔다 -> 이기다 (勝) (to win)
+억의다 -> 억이다 (違) (to go against)
+싀 -> 시 (酸) (sour)
+굽의 -> 굽이 (bend, curve)
+가막의 -> 가막이 (crow)
+믜요니 -> 미우니 (憎) (because one hates)
+우븨다 -> 후비다 (穵掘) (to dig out, pick)
+나의 -> 내 (my)
+너의 -> 네 (your)
+오의 -> 외 (胡爪) (cucumber)
+누의 -> 뉘 (whose)
+우의 -> 위 (top, above)
+
+Examples of ㅣ reduction:
+우렁이 -> 우렁 (田螺) (river snail)
+더욱이 -> 더욱 (moreover)
+가득이 -> 가득 (fully)
+아니가다 -> 안가다 (to not go)
+
+Examples of ㅣ ㅏ reduction:
+아니하다 -> 않다 (to not do/be)
+같지 아니하다 -> 같챦다 (to be trivial, insignificant)
+하지 아니하다 -> 하쟎다 (trivial, insignificant - from 하다 + 아니하다) (The note says 하다는 is common in Old Korean)
+
+(2) Reduction of Consonants
+Consonants are reduced from the initial or final position.
+
+Examples of ㄱ reduction:
+아기 -> 아이 (baby)
+배고개 -> 배오개 (梨峴) (Paeogae Pass)
+애고개 -> 애오개 (阿峴) (Aeogae Pass)
+야조고개 -> 야조오개, 야조개 (夜照峴) (Yajogae Pass)
+배개 -> 배애 (梨浦) (Paee Port?)
+모래고개 -> 모래오개 (沙峴) (Moraeogae Pass)
+하고개 -> 해오개 (鶴峴) (Haeogae Pass)
+보기 -> 보이 (example)
+갈가지 -> 갈아지 (범) (type of tiger?)
+실겅 -> 실엉 (shelf)
+단기다 -> 단이다 (to go, attend)
+쓸개 -> 쓸애 (膽) (gallbladder) Ch'ungbuk
+공이 -> 옹이 (節) (knot in wood)
+뚜께 -> 뚜에 (lid?)
+발자국 -> 발자옥 (footprint)
+벙긋거리다 -> 벙읏거리다 (smiling faintly)
+날개 -> 날애 (wing)
+어간 -> 어안 (-이 벙벙하다) (dumbfounded) <23>
+개금 -> 가얌 (襟-) (front opening of clothes?)
+육월 -> 유월 (6月) (June)
+백천 -> 배천 (白川) (Paech'ŏn)
+얼게빗 -> 얼에빗 (coarse comb)
+진기다 -> 진이다 (守) (to carry, bear)
+승검초 -> 승엄초 (當歸) (Korean angelica)
+
+Examples of ㄹ reduction:
+솔나무 -> 소나무 (pine tree)
+버들나무 -> 버드나무 (willow tree)
+불나비 -> 부나비 (moth)
+선달님 -> 선다님 (term for a scholar who passed the lower civil service exam)
+딸님 -> 따님 (daughter - honorific)
+날날이 -> 나날이 (day by day)
+갈나니 -> 가나니 (because one goes)
+들나들이 -> 드나들이 (going in and out)
+물넘기 -> 무넘기 (spillway)
+바눌실 -> 바누실 (needle and thread)
+불손 -> 바손 (disrespectful?) [Meaning unclear]
+불담기 -> 부담기 (burden?)
+밀닫이 -> 미담이 (sliding door?)
+갈다 -> 가다 (밭을-) (to plow a field)
+불득이 -> 부득이 (不得己) (unavoidably)
+부실 -> 부실 (不實) (insolvency, weakness)
+불지 -> 부지 (不知) (unknowingly)
+「량반 -> 양반 (兩班) (aristocratic class)
+려 -> 여 (呂) (family name Yeo/Ryeo)
+륙월 -> 유월 (6月) (June)
+료리ㅅ집 -> 요리ㅅ집 (restaurant)
+류 -> 유 (劉, 柳) (family name Yu/Ryu)
+리 -> 이 (李)」 (family name Yi/Lee)
+As shown above, ㄹ is dropped before ㅑ ㅕ ㅛ ㅠ ㅡ because initial ㄹ does not occur in standard Korean pronunciation rules [at the time].
+
+Examples of ㅂ reduction:
+우방 -> 우엉 (牛蒡) (burdock)
+을벼 -> 을예 (type of early rice?)
+밭 -> 앝 (田) (field)
+십월 -> 시월 (10月) (October)
+십방 -> 시상 (十方) (ten directions - Buddhist term)
+
+Examples of ㅅ reduction:
+못자라다 -> 모자라다 (to be insufficient)
+버릇장이 -> 버르장이 (person with a habit)
+비슴 -> 비음 (설-) (nasal sound?)
+모시 -> 모이 (닭-) (chicken feed)
+머슴 -> 머음 (male servant)
+아시 -> 아이 (初) (beginning)
+무슴일 -> 무음일 (what matter)
+과실 -> 과일 (果實) (fruit)
+깃음 -> 기음 (weeding)
+무수 -> 무 (radish)
+여수 -> 여으 (fox)
+가슬 -> 가을 (autumn)
+겨슬 -> 겨을 (winter)
+마슬 -> 마을 (village)
+꼴악시니 -> 꼴악우니 (sight, appearance - negative?)
+살외다 -> 알외다 (白) (to inform)
+시들시들 -> 이들이들 (witheringly)
+지새 -> 지아, 기아 (roof tile)
+자새 -> 자애 (묵-) (spool for thread?)
+장시 -> 장이 (artisan, suffix for person)
+부스름 -> 부으름 (boil, swelling)
+웃음 -> 우음 (laughter)
+닛으니 -> 니으니 (because one connects/follows)
+나수 -> 나우 (더) (more)
+구슈 -> 구유 (桶) (manger, trough)
+즈슴 -> 즈음 (際) (around the time of)
+어서 -> 어여 (quickly)
+송사리 -> 송아리 (minnow)
+
+Examples of ㅈ reduction:
+먼저 -> 먼여 (first)
+자죽 -> 자욱 (발-) (trace, track - foot-)
+웃적웃적 -> 웃역웃역 (crunching sound?)
+쭉을쭉을 -> 욱을욱을 (wrinkling, shriveling)
+광주리 -> 광우리 (basket)
+쭉을이다 -> 욱을이다 (to wrinkle, shrivel)
+옹잘옹잘 -> 옹알옹알 (mumbling, babbling)
+오락지 -> 오락이 (scrap, piece?)
+검정이 -> 검엉이 (black thing/person)
+웅절웅절 -> 웅얼웅얼 <24> (mumbling)
+눌엉지 -> 눌엉이 (scorched rice)
+남저지 -> 남어지 (remainder - archaic form of 나머지)
+그림자 -> 그림애, 그름애 (影) (shadow) Old Korean
+
+Examples of ㅎ reduction:
+부헝이 (Old Korean) -> 부엉이 (owl)
+가히 -> 가이, 개 (dog)
+조희 -> 조의 (紙) (paper - archaic)
+닐흠 (Old Korean) -> 니름 (name - archaic)
+바희 (Old Korean) -> 바의, 바위 (rock)
+안해 -> 안애 (wife)
+후비다 -> 우비다 (to dig out, pick)
+놓이다 -> 노이다, 뇌다 (to be placed, put)
+방하 -> 방아 (mill)
+여흘 -> 여을 (rapids)
+사희 -> 사의, 사위 (son-in-law)
+아히 -> 아이, 애 (child)
+창호장이 -> 창오장이 (paper door maker)
+낞우다 -> 난우다 (to divide)
+
+(3) Reduction of Both Vowels and Consonants
+Examples:
+줄으니 -> 주니 (because it decreases)
+굴으니 -> 구니 (because it rolls)
+갈으니 -> 가니 (밭을-) (because one plows a field)
+길으니 -> 기니 (because it is long)
+넣으니 -> 너니 (because one puts in)
+놓으니 -> 노니 (because one places/lets go)
+좋으냐 -> 조냐 (is it good?)
+마마님 -> 마님 (madam, lady)
+스승님 -> 스님 (Buddhist monk - from teacher)
+딸기 -> 딸 (strawberry)
+생원님 -> 샌님 (生員님) (term for scholar -> naive/effeminate man)
+이것을 보라 -> 이걸 보라 (look at this)
+이것이 어떠하냐 -> 이게 이떠냐 (how is this?)
+그리하여(야)도 -> 그래도 (even so, nevertheless)
+그런다하여(야)도 -> 그런데도 (even so, nevertheless)
+그리하였(았)다 -> 그랬다 (did so)
+옷을 정하게 닙어라 -> 옷을 정히 닙어라 (wear clothes neatly)
+관계를 하지 아니하다 -> 관겧쟎다 괞쟎다 (to not be related -> it's okay/doesn't matter)
+The vowel ㅏ of "하" (ha) is often reduced before any vowel or consonant, and its consonant ㅎ (h) remains as a final consonant (받침). For example, 「그러하다」 (kŭrŏhada - to be so) becomes 「그렇다」 (kŭrŏt'a), 「그러하게」 (kŭrŏhage - so that) becomes 「그렇게」 (kŭrŏk'e), 「그러하고」 (kŭrŏhago - and so) becomes 「그렇고」 (kŭrŏk'o). Similarly, 「正하다」 (chŏnghada - to be correct) becomes 「正ㅎ다」 (chŏngt'a), 「正하게」 (chŏnghage - correctly) becomes 「正ㅎ게」 (chŏngk'e), 「正하고」 (chŏnghago - and correct) becomes 「正ㅎ고」 (chŏngk'o).
+
+3. Vowel Gemination and Addition of Vowels/Consonants
+There are cases where vowels geminate (repeat) or are added, and consonants are added after vowels or consonants.
+
+(1) Vowel Gemination [Translator's note: The title says gemination, but the examples show vowel coalescence or diphthongization, specifically with ㅣ.]
+The vowel ㅣ often merges with other vowels ㅏ ㅢ ㅗ ㅜ ㅡ. Examples include:
+아이 -> 애 (child)
+가이 (Ch'ungch'ŏng Province) -> 개 (犬) (dog)
+사이 -> 새 (間) (interval, between)
+지나이다 -> 지내다 (to pass time, live)
+닿이다 -> 대다 (to touch, reach)
+자이다 -> 재다 (to measure)
+차이다 -> 채다 (to be kicked, snatched)
+짜이다 -> 째다 (to be squeezed, torn)
+타이다 -> 태다 (to be burned)
+터이니 -> 테니 (올-) (because it will...)
+더이다 -> 데다 (합-) (to be added -> ?)
+버이다 -> 베다 (to cut)
+쏘이다 -> 쐬다 (to be exposed to)
+쪼이다 -> 쬐다 (to bask in sun/fire)
+모이다 -> 뫼다 (to gather)
+보이다 -> 뵈다 (to be seen, meet - humble)
+쓰이다 -> 쐬다 (to be used)
+그이 -> 긔 (he/she - archaic)
+뜨이다 -> 띄다 (to be noticeable)
+
+(2) Addition of Vowels
+The vowel ㅣ is sometimes added after its own sound or after other vowels <25>. Examples include:
+
+(a) Added after its own sound [Translator's note: These examples mostly show a change from ㅣ to ㅐ or ㅔ, often interpreted as adding an ㅣ sound, leading to diphthongization or palatalization effects.]
+
+자미 -> 재미 (滋味) (fun, interest)
+홀아비 -> 홀애비 (widower)
+홀어비 -> 홀에비 (widower)
+곰팡이 -> 공팽이 (mold)
+놈팡이 -> 놈팽이 (fellow, guy - derogatory)
+짚앙이 -> 짚앵이 (straw object?)
+놀앙이 -> 놀앵이 (yellowish thing?)
+괴앙이 -> 괴앵이 (cat - dialect?)
+이악이 -> 이액이 (story?)
+앉은방이 -> 앉은뱅이 (cripple)
+빌엉방이 -> 빌엉뱅이 (beggar)
+다리 -> 대리 (bridge? leg?)
+단기다 -> 댄기다 (to attend, go?)
+창호장이 -> 창호쟁이 (paper door maker)
+밭장이 -> 밭쟁이 (farmer)
+고추박이 -> 고추백이 (red pepper pattern?)
+나박이 -> 나백이 (radish kimchi?)
+삼키다 -> 상키다, 생키다 (to swallow)
+소나기 -> 쇠나기, 쇠내기 (rain shower)
+꾸미다 -> 뀌미다 (to decorate)
+벗기다 -> 벳기다 (to undress, peel)
+먹이다 -> 멕이다 (to feed)
+박이다 -> 백이다 (to be embedded, stuck)
+막히다 -> 맥히다 (to be blocked)
+가슴팍이 -> 가슴팩이 (chest area)
+
+(b) Added after other vowels
+
+아까 -> 아깨 (a while ago)
+조용이 -> 죄용이 (quietly)
+헛노릇 -> 헷노릇 (useless act)
+만들다 -> 맨들다 (to make)
+열마 -> 열매 (fruit, berry)
+족음 -> 죅음 (a little bit)
+온통 -> 왼통 (wholly, entirely)
+온갖 -> 왼갖 (all sorts of)
+
+(3) Addition of Consonants
+Consonants ㄹ ㅅ ㅇ are sometimes added after their own sound or after other vowels/consonants. Examples include:
+
+Addition of ㄹ:
+니르어 -> 니르러 (upon reaching)
+푸르어 -> 푸르러 (being blue/green)
+잠오아 -> 잠오라 (come to sleep?)
+마루 -> 말루 (wooden floor)
+교육 -> 교륙 (敎育) (education) Yŏnggwang
+공교로 -> 공굘로 (skillfully, elaborately) ditto
+날아가다 -> 날러가다 (to fly away)
+물어오다 -> 물러오다 (退來) (to step back, retreat)
+버레 -> 벌레 (worm, insect)
+흐레 -> 흘레 (mating - animals)
+굴에 -> 굴레 (앝-) (bridle?)
+기에 -> 길래 (하-) (doing?)
+
+Addition of ㅅ:
+먹읍니다 -> 먹습니다 (eat - formal polite ending)
+좋읍니다 -> 좋습니다 (good - formal polite ending)
+젖읍니다 -> 젖습니다 (wet - formal polite ending)
+받읍니다 -> 받습니다 (receive - formal polite ending)
+줏읍니다 -> 줏습니다 (밤을-) (pick up - chestnuts - formal polite ending)
+
+Addition of ㅇ (ng sound):
+따 -> 땅 (地) (land, ground)
+버위리 (Old Korean) -> 벙어리 (mute person)
+허겁 -> 헝겁 (cloth, fabric)
+질바 -> 질방 (bridle strap?)
+매아지 -> 망아지 (foal, colt)
+쇠아지 -> 송아지 (calf)
+조희 -> 종의 (paper)
+개울 -> 갱골 (stream, brook)
+뫼아리 (Old Korean) -> 멩아리(*) (echo?)
+매ㅅ돌 -> 망ㅅ돌 (millstone)
+갈애 -> 갈앙이 (crotch)
+대가리 -> 대강이 (head - derogatory)
+아가리 -> 아강이 (mouth - animal/derogatory)
+꼬리 -> 꽁지 (tail end)
+
+4. Transformation of the Original Word
+The original word might have sounds added while the meaning remains unchanged <26>, or sounds might be added or subtracted, causing the meaning to change. Examples include:
+
+(1) Only Sound Added (Meaning Unchanged)
+김 (Old Korean) -> 김웅 (柱) (pillar?)
+서 (ditto) -> 섯가ㄹㄹ애 (椽) (rafter)
+천 (ditto) -> 천량 (財) (wealth?)
+엄 (ditto) -> 엄니 (牙) (tooth - dialect/childish)
+납 (ditto) -> 잔납이 (猿) (monkey)
+고곰 (ditto) -> 며누리고곰 (痎疫) (malaria?)
+삼태 (ditto) -> 삼태미 (*斗) 삼태기 (straw basket)
+망태 -> 망태기 (net bag)
+괴 (Old Korean) -> 괴앙이 (cat)
+고 -> 검은고 (琴) (kŏmun'go - zither)
+가슴 -> 가슴팍이 (chest area)
+눈 -> 눈깔, 눈퉁이 (eye - derogatory)
+니 -> 닛발이 (tooth - derogatory)
+뼈 -> 뼈따귀 (bone - often derogatory)
+팔 -> 팔따지, 팔대기, 팔ㅅ둑, 팔ㅅ죽지 (arm, forearm)
+저 -> 저ㅅ가락, 저봄 (chopsticks)
+목 -> 목아지, 목정강이 (neck - derogatory)
+배 -> 배아지, 배ㅅ대기, 배퉁이 (belly - derogatory)
+뜽 -> 잔뜽이, 뜽ㅅ덜미, 등ㅅ덜이, 등성이, 등어리 (back)
+꼬리 -> 꼴앙이, 꼴앙지, 꽁당이, 꽁지 (tail)
+ (時) -> 끼니 (한-) (meal)
+것다 (Old Korean) -> 꺾다 (折) (to break, snap)
+닷다 (ditto) -> 닦다 (修) (to wipe, polish, cultivate)
+엿 (ditto) -> 엿보다 (窺) (to peek, spy)
+긑 (ditto) -> 끝 (end)
+옇 (ditto) -> 옇대 (今, 지금껒) (until now?)
+긋다 (ditto) -> 끊다 (斷) (to cut, sever)
+
+(2) Meaning Changed
+깃다 (悅) (Old Korean - to be pleased) -> 깃브다 (to be happy - 기쁘다)
+믿다 (to believe) -> 믿브다 (to be reliable - 미쁘다)
+낮다 (to be low) -> 낮브다 (to be humble? - archaic?)
+앓다 (to be sick) -> 앓브다 (related to sickness? - archaic?)
+슳다 (to be sad) -> 슳브다 (to be sad - 슬프다)
+지르 (臨) (Old Korean - to reach) -> 다지르다 (to arrive?)
+하리 (談) (ditto - speech) -> 하소연 (complaint, appeal)
+깃 (巢) (ditto - nest) -> 깃들이다 (to nestle, dwell in)
+남진 (ditto - husband) -> 남편 (husband)
+꾀다 (忌) (ditto - to avoid) -> 꺼리다 (to be reluctant, avoid)
+몬 (物) (ditto - thing) -> 몬지 (thing - archaic)
+고 (*) (ditto) -> 고ㅅ불 (penis?) [*Original obscure]
+번지 (磟碡) (roller) -> 돌번지 (stone roller)
+재여리 (媒) (Old Korean - matchmaker) -> 여리ㅅ군 (matchmaker?)
+가시 (妻,女子) (ditto - wife, woman) -> 가시네 (girl - dialect/derogatory), 가시집 (妻子) (wife and children)
+가시어미 (丈母) (mother-in-law) -> 가시아비 (丈人) (father-in-law)
+솝 (裡) (ditto - inside) -> 솝니 (裡里) (inner village name?)
+한 (大) (ditto - big) -> 한밭 (太田) (Taejŏn - lit. 'big field'), 한아버지 (grandfather)
+실 (谷) (ditto - valley) -> 참실 (眞谷) (Ch'amsil), 달이실 (月谷) (Wŏlgok)
+울 (谷) (ditto - fence/boundary -> valley?) -> 여수울 (六谷) (Yuksugol?), 띄울 (茅谷) (Ttiul?)
+치 (魚) (ditto - fish suffix) -> 암치 (female fish), 멸치 (anchovy), 갈치 (cutlassfish), 준치 (herring), 황치 (yellow croaker?)
+죽 (death) -> 죽엄 (corpse, death)
+묻 (burial) -> 묻엄 (grave)
+헤 (swimming) -> 헤엄 (swimming)
+뛰 (jumping) -> 뛰엄 (jumping, skipping)
+쉬 (resting) -> 쉬엄쉬엄 (leisurely, taking breaks)
+마루 (宗) (main ridge, top) -> 마루턱이 (頂上) (summit), 마루ㅅ대 (棟木) (ridgepole), 말개미 (large ant), 말거머리 (large leech), 말잠자리 (large dragonfly), 말벌 (hornet)
+가람 (江, 湖) (river, lake - archaic) -> 내ㅅ갈 (stream branch?)
+나이 (白木) (plain wood) -> 나이하다 (무영짜다) (to weave cotton?)
+베 (麻布) (hemp cloth) -> 베옷 (hemp clothes), 베실 (hemp thread), 베틀 (loom)
+맞 (match, counterpart) -> 맞음 (-나간다) (matchmaking?)
+집 (house) -> 집웅 (roof)
+-End- <27>
+
+**Summary**
+
+This article by Yi Pyŏnggi meticulously documents various types of sound changes in the Korean language based on usage ("habit"). It categorizes these changes into transformations (vowel/consonant swaps), reductions (elimination of sounds), additions (insertion of sounds), and semantic shifts accompanying phonetic changes. The author provides extensive examples drawn from Old Korean, contemporary standard Korean of the 1920s, and various regional dialects (Chŏlla, Kyŏngsang, Ch'ungch'ŏng, Hamgyŏng, etc.), illustrating phenomena like vowel harmony shifts, palatalization, consonant weakening/strengthening, deletion, and epenthesis.
+
+From the perspective of Korean colonial history, this article is significant as a work of Korean linguistics conducted by a Korean scholar during Japanese rule. Its detailed focus on the nuances, history, and regional variations of the Korean language itself, using Korean linguistic terminology and older Hangul orthography, represents an academic assertion of Korean linguistic identity and scholarship. Historians might find the systematic classification and wealth of dated linguistic examples (including archaic forms and dialectal variations from 1927) invaluable for studying the evolution of the Korean language and the state of linguistic research within Korea during the colonial period, a time often marked by language assimilation policies.
+
+**Named Entities**
+
+李秉岐	이병기	Yi Pyŏnggi
+全羅	전라	Chŏlla
+忠淸	충청	Ch'ungch'ŏng
+蔚珍	울진	Uljin
+靈光	영광	Yŏnggwang
+慶尙	경상	Kyŏngsang
+南原	남원	Namwŏn
+全州	전주	Chŏnju
+咸鏡	함경	Hamgyŏng
+益山	익산	Iksan
+高靈	고령	Koryŏng
+忠南	충남	Ch'ungnam
+京城	경성	Kyŏngsŏng
+金堤	김제	Kimje
+甄萱	견훤	Kyŏn Hwŏn
+羅州	나주	Naju
+忠北	충북	Ch'ungbuk
+白川	백천	Paech'ŏn
+梨峴	이현	Paeogae (Ihyŏn)
+阿峴	아현	Aeogae (Ahyŏn)
+夜照峴	야조현	Yajogae (Yajohyŏn)
+沙峴	사현	Moraeogae (Sahyŏn)
+鶴峴	학현	Haeogae (Hakhyŏn)
+太田	태전	Taejŏn
+眞谷	진곡	Ch'amsil (Chin'gok)
+月谷	월곡	Wŏlgok
+六谷	육곡	Yuksugol (Yukkok)
+茅谷	모곡	Ttiul (Mogok)
+
+**Glossary**
+
+古語	고어	Old Korean; Archaic language
+今語	금어	Contemporary language (of the time, 1927)
+地方語	지방어	Regional dialect
+子母音	자모음	Consonants and Vowels
+轉換	전환	Transformation; Change; Conversion
+줄음	줄음	Reduction; Contraction; Shortening
+겹침	겹침	Overlapping; Gemination (used here for coalescence/diphthongization)
+덧붙임	덧붙임	Addition; Appending
+轉變	전변	Transformation; Change
+딿아	따라	According to (older spelling of 따라)
+찾어	찾아	Finding; Looking for (older spelling of 찾아)
+낞워	나누어	Dividing (older spelling of 나누어)
+돌어	들어	Lifting; Citing (older spelling of 들어)
+밧꼴	바깥꼴	Appearance; Outer form (older form/spelling)
+사매	소매	Sleeve (Uljin dialect/old form)
+폴ㅅ둑	팔뚝	Forearm (Yŏnggwang dialect/old form)
+오마니	할머니	Grandmother (Chŏnju dialect)
+몬저	먼저	First (dialect/older spelling)
+본도기	번데기	Silkworm pupa (dialect/older spelling)
+벅국이	뻐꾹이	Cuckoo (older spelling)
+묵다	먹다	To eat (Kyŏngsang dialect)
+멁다	묽다	To be watery/thin (older spelling)
+나모	나무	Tree (older spelling)
+아오	아우	Younger sibling (older spelling)
+배호다	배우다	To learn (older spelling)
+사괴다	사귀다	To make friends with (older spelling)
+알옴	앎	Knowing; Knowledge (nominalized form, older spelling)
+하여곰	하여금	Making/letting someone do (older spelling)
+심바람	심부름	Errand (dialectal variation)
+얼운	어른	Adult (older spelling)
+므슴	무슨	What kind of (older spelling)
+믈	물	Water (older spelling)
+플	풀	Grass (older spelling)
+서	서울	Seoul (older spelling)
+아츰	아침	Morning (older spelling)
+슳음	슬픔	Sadness (older spelling)
+헤음	헤엄	Swimming (older spelling)
+빕새	뱁새	Crow-tit (older spelling)
+아히	아이	Child (older spelling)
+새암	샘	Spring; Well (older spelling)
+소래	소리	Sound (older spelling/dialect)
+짐치	김치	Kimchi (older spelling/dialect)
+뫼	메	Mountain (older spelling)
+뵈	베	Hemp cloth (older spelling)
+바회	바위	Rock (older spelling)
+사외	사위	Son-in-law (older spelling)
+솝	속	Inside (older spelling)
+붑	북	Drum (older spelling)
+거붑	거북	Turtle (older spelling)
+부업	부엌	Kitchen (older spelling)
+낙거미	거미	Spider (dialectal variation)
+믄드기	문득	Suddenly (older spelling)
+쥴	귤	Tangerine (older spelling)
+질삼	길쌈	Weaving (older spelling)
+지와	기와	Roof tile (older spelling)
+짐숭	짐승	Animal; Beast (older spelling)
+	뜻	Meaning; Intention (older spelling)
+자몯	자못	Quite; Rather (older spelling)
+몯	못	Cannot (older spelling)
+벋	벗	Friend (older spelling)
+빋	빚	Debt (older spelling)
+디새	기와	Roof tile (older spelling)
+딘이다	지니다	To carry; Possess (older spelling)
+닐컬다	일컫다	To call; Name (older spelling)
+섯달	섣달	Last month of the lunar year (older spelling)
+두름나물	두릅나물	Fatsia shoots (older spelling)
+심	힘	Strength; Force (older spelling)
+헴	셈	Counting (older spelling)
+셔	혀	Tongue (older spelling)
+쇼	효	Filial piety (older spelling)
+갈	칼	Knife (older spelling)
+암캐	암캐	Female dog (older spelling, note ㄱ -> ㅋ change not primary meaning)
+한칸	한 칸	One room/space (older spelling, note ㄱ -> ㅋ change not primary meaning)
+돕	톱	Saw (older spelling)
+불휘	뿌리	Root (older spelling)
+석다	썩다	To rot (older spelling)
+싯다	씻다	To wash (older spelling)
+스다	쓰다	To write (older spelling)
+래일	내일	Tomorrow (older spelling)
+며리치	멸치	Anchovy (older spelling/dialect)
+흐으르다	흐르다	To flow (older spelling)
+드르	들	Field (older spelling)
+거믜	거미	Spider (older spelling)
+나븨	나비	Butterfly (older spelling)
+이믜	이미	Already (older spelling)
+픠다	피다	To bloom (older spelling)
+글픠	글피	Two days after tomorrow (older spelling)
+븨다	비다	To be empty (older spelling)
+이긔다	이기다	To win (older spelling)
+싀	시다	To be sour (older spelling)
+가막의	까마귀	Crow (older spelling)
+같챦다	같잖다	To be trivial; Insignificant (older form)
+하쟎다	하찮다	To be trivial; Insignificant (older form)
+솔나무	소나무	Pine tree (older form)
+량반	양반	Aristocratic class (older spelling)
+륙월	유월	June (older spelling)
+료리ㅅ집	요리집	Restaurant (older spelling)
+우방	우엉	Burdock (older spelling)
+십월	시월	October (older spelling)
+과실	과일	Fruit (older spelling)
+가슬	가을	Autumn (older spelling)
+겨슬	겨을	Winter (older spelling)
+마슬	마을	Village (older spelling)
+즈슴	즈음	Around the time of (older spelling)
+광우리	광주리	Basket (older spelling)
+그림애	그림자	Shadow (older spelling)
+부헝이	부엉이	Owl (older spelling)
+조희	종이	Paper (older spelling)
+닐흠	이름	Name (older spelling)
+바희	바위	Rock (older spelling)
+방하	방아	Mill (older spelling)
+여흘	여울	Rapids (older spelling)
+사희	사이	Between; Relationship (also son-in-law context) (older spelling)
+마님	마님	Madam; Lady (contracted form)
+스님	스님	Buddhist monk (contracted form)
+샌님	샌님	Naive man (contracted form of 생원님)
+관겧쟎다	괜찮다	It's okay; Doesn't matter (older contracted form)
+괴앙이	고양이	Cat (older form/dialect)
+닛발이	이빨	Tooth (slightly derogatory, older form)
+뼈따귀	뼉다귀	Bone (derogatory)
+저ㅅ가락	젓가락	Chopsticks (older spelling)
+목아지	모가지	Neck (derogatory)
+배아지	배때지	Belly (derogatory)
+잔뜽이	잔등	Back (older form)
+꼴앙지	꼬랑지	Tail (derogatory/colloquial)
+끼니	끼니	Meal
+것다	꺾다	To break; Snap (older form)
+닷다	닦다	To wipe; Polish (older form)
+엿보다	엿보다	To peek; Spy (older form)
+긑	끝	End (older spelling)
+긋다	끊다	To cut; Sever (older form)
+깃브다	기쁘다	To be happy (older form)
+믿브다	미쁘다	To be reliable; Trustworthy (older form)
+슳브다	슬프다	To be sad (older form)
+남진	남편	Husband (older form)
+가시네	계집아이	Girl (dialect/derogatory)
+솝니	속	Inside; Inner part (used in place name context)
+한밭	대전	Taejŏn (lit. 'big field')
+가람	강	River (archaic)
+집웅	지붕	Roof (older spelling/form)
+
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	말의 習慣으로 된 變化
+필자	李秉岐
+기사형태	논설
+
+말의 習慣으로 된 變化
+						李秉岐
+言語는 자꾸 변하는 것이다. 時代나 地方을 딿아 자꾸 변하는 것이다. 그러나 그것은 반듯이 音理에 맞게 또는 規則이 바르게 변하는 것만이 아니다. 이에 音理에도 맞지 않고 規則도 바르지 않게 변한 것을 古語에나 今語에나 地方語에서 찾어 네 가지로 낞워 子母音의 轉換, 子母音의 줄음, 母音의 겹침과 子母音의 덧붙임, 原語의 轉變이라 하여 말한다.
+
+1. 子母音의 轉換
+母音은 母音끼리 子音은 子音끼리 서로 바뀌어 나는 것이 있으니 이를 母音의 轉換, 子音의 轉換 두 가지에 낞워 그 例를 돌어 적으면.
+
+(1) 母音의 轉換
+母音의 ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ ㅐ ㅖ ㅚ ㅟ 들이 서로 바뀐 것, 곳 ㅏ와 ㅗ, ㅓ와 ㅗ, ㅓ와 ㅜ, ㅗ와 ㅜ, ㅗ와 ㅡ, ㅜ와 ㅏ, ㅜ와 ㅡ, ㅡ와 ㅏ, ㅡ와 ㅓ, ㅡ와 ㅜ, ㅣ와 ㅓ, ㅡ와 ㅜ, ㅣ와 ㅐ, ㅚ와 ㅐ ㅔ ㅟ가 서로 바뀐 것.
+
+ㅏ ㅓ의 例
+하고   허고
+발서   벌서
+남     넘
+나물   너물
+악지   억지(-쓰다)
+이마작  이마적
+사리다  서리다
+짜르다  쩌르다
+마리   머리
+달달떨다  덜덜떨다
+사랍   서랍
+말ㅅ본세  말ㅅ본새
+살강   설겅
+다숩다  더웁다
+밧꼴   벗꼴(外貌)＜16＞
+
+ㅏ ㅗ의 例
+말    몰(馬) 靈光, 古語
+깔 全羅 忠淸  꼴(芻) 同
+사매 蔚珍古語  소매
+남    놈
+맞    몾(伯) 靈光
+파리   포리 同
+팟    폿 同
+팔ㅅ둑  폴ㅅ둑 靈光
+달라다  돌라다 全羅, 慶尙
+낞우다  녾우다
+낳다   놓다(生) 慶尙道
+바듯이  보듯이 南原
+짝아리  쪽아리
+갑절   곱절
+눈바라  눈보라
+
+ㅓ ㅗ의 例
+엄마   옴마 全州 오마니(祖母) 全州
+버선   보선(襪) 慶尙, 全羅, 咸鏡
+버굿   보곳(비눌과 같은 나무껍질)
+번의   본의(果實內皮)
+먼저   몬저 慶尙, 咸鏡
+번대기  본도기(누에-)
+눈석임  눈속임
+
+ㅓ ㅜ의 例
+얼(芽)   움
+벅국이  국국이(布穀)
+엉덩이  궁둥이
+벅적벅적  북적북적
+껄떨껄떡  꿀떨꿀떡
+먹다   묵다 慶尙道
+멁다   묽다
+억이다  욱이다
+
+ㅗ ㅜ의 例
+古語    古語
+매오    매우
+되오    되우
+다보록  다부룩
+소복이  수북이
+눈통이  눈퉁이
+다독거리다 다둑거리다
+다로다  다루다
+녹다    눅다
+속이다  숙이다(고개를... )
+나모    나무
+아오    아우
+낞오다  낞우다
+걷오다  걷우다
+배호다  배우다
+싸호다  싸우다
+사괴다  사귀다
+독    팔ㅅ둑
+목      멱(項)
+이는 古語의 ㅗ를 今語의 ㅜ로 내는 따위.
+
+ㅗ ㅡ의 例
+古語     今語
+알옴    알음
+옴    갈음(易)
+잡옴    잡음
+들옴    들음
+말옴    말음(不)
+놀옴    놀음
+밀옴    밀음
+헐옳힘  헐을힘
+열호로  열으로(十-)
+밖오로  밖으로
+하여곰  하여금
+새곰하다 시금하다
+아논일  아는일
+족옴    족음
+이는 古語의 ㅗ를 今語의 ㅡ로 내는 따위.
+
+ㅜ ㅏ의 例
+부득부득   바닥바닥
+부스대다   바스대다
+부스러지다 바스러지다
+부적거리다 바작거리다＜17＞
+부적부적   바작바작
+심부름     심바람
+장수       장사
+
+ㅜ ㅣ의 例
+古語     今語
+낮움     낮음
+구룸     구름
+힘쑤다   힘쓰다
+뚜다     뜨다(開)
+죽움     죽음
+흐루다   흐르다
+얼운     어른(長)
+물우니   물으니
+넘우니   넘으니
+우움     웃음
+이는 古語의 ㅜ를 今語의 ㅡ로 내는 따위.
+
+ㅡ ㅏ의 例
+슬슬      살살
+슬그먼이  살그먼이
+슬쩍슬쩍  살짝살짝
+슬기롭다  살가롭다
+슬어지다  살아지다
+뜨뜻하다  땃땃하다
+뜨겁다    따갑다
+긁어먹다  깕어먹다
+스록      사록(*)
+반듯이    반닷이
+오즉      오작
+무슴      무삼
+말슴      말삼
+가슴      가삼
+아츰      아참
+맞흠      맞함
+
+ㅡ ㅓ의 例
+그저         거저
+슳음         섫음
+으슬렁으슬렁 어슬렁어슬렁
+으스름달ㅅ밤 어스름달ㅅ밤
+흩다         헡다(散)
+흔어지다     헌어지다
+부스름       부스럼
+죽음         죽엄
+묻음         묻엄
+헤음         헤엄
+세음         세엄
+뛰음         뛰엄
+
+ㅡ ㅜ의 例
+古語     今語
+끄럼이   꾸럼이(包)
+바느실   바누실
+며느리   며누리
+믈       물(水)
+플       풀(草)
+서     서울
+므슴     무슴
+믈읫     무릇(凡)
+므거이   무거이(重히)
+이는 古語의 ㅡ를 今語의 ㅓ로 내는 따위.
+
+ㅣ ㅏ의 例
+아침       아참
+맞힘       맞함
+가지       가장이
+아기       아가
+장시       장사
+일씨       일싸
+실엉       살강
+오직       오작
+칩다       찹다
+집다       잡다
+앗기       아갑다
+밧기       반갑다
+지질어진다 자질어진다
+
+ㅣ ㅓ의 例
+히묽다   허여멁엏다
+지질지질 지적지적
+늣기다   늣겁다＜18＞
+슬기     슬겁다
+즐기다   즐겁다
+이는 뜻도 바뀌어 씌는 따위.
+
+ㅣ ㅜ의 例
+자시하다  지수하다
+시미다    수미다(潛)
+밧이다    밧우다
+붓이다    붓우다
+미섭다    무섭다
+
+ㅣ ㅐ의 例
+빕새       뱁새(볍새)
+빌엉방이   밸엉방이
+질알       잴알
+아비       아배
+어미       어매
+아지       아재
+아히       아해
+보비       보배
+선비       선배
+미친놈     매친놈
+미섭다     매삽다
+미지근하다 매지근하다
+싱글싱글   생글생글
+시암       새암
+견디다     견대다
+부디       부대
+소리       소래
+가시       가새(荊)
+잔치       잔채
+짐치       짐채, 침채
+어찌       어째
+진들어시다 잰들어지다
+ㅚ와 ㅐ ㅔ ㅟ의 例
+열쇠   열쇄, 열대
+뫼     메(山)
+뵈     베(布)
+바회   바위
+사외   사위
+알외다 알위다
+삐최다 삐취다(疲勢)
+빛외다 빛위다
+
+(2) 子音의 轉換
+子音이 다른 子音으로나 또는 같은 子音끼리 서로 바뀐 것 곳. 다른 子音의 ㄱ와 ㅂ, ㄱ와 ㅅ, ㄱ와 ㅈ, ㄱ와 ㅇ, ㄴ와 ㄹ, ㄴ와 ㅁ, ㄴ와 , ㄷ와 ㅅ, ㄷ와 ㅈ, ㄹ와 ㄴ, ㄹ와 ㅅ, ㅁ와 ㅂ, ㅅ와 ㄴ, ㅅ와 ㅂ, ㅈ와 ㅂ, ㅎ와 ㅅ가 서로 바뀌며 같은 子音의 ㄱ와 ㅋ, ㄷ와 ㅌ, ㅂ와 ㅍ, ㅈ와 ㅊ, ㄱ와 ㄲ, ㄷ와 ㄸ, ㅂ와 ㅃ, ㅈ와 ㅉ가 서로 바뀐 것.
+
+(ㄱ) 다른 子音으로 바뀜
+
+ㄱ ㅂ의 例
+꼭대기       뽁대기 益山(산-)
+꾸꾸시 高靈  뿌뿌시(-욱은다)益山
+족박 忠南    좁박 忠南, 全羅
+속           솝(裡)古語
+북           붑(鼓)同
+거북         거붑(龜)同
+부억         부업(廚)同
+곡생초       곱생초
+곡두선       곱장선, 꼽장선
+낙거미 全羅 忠淸  납거미 京城
+
+ㄱ ㅅ의 例
+古語     今語
+반드기   반듯이
+번드기   번듯이
+비슥하다 비슷하다
+믄드기   문듯(忽)
+
+ㄱ ㅈ의 例
+기삼이   지삼이
+귤       쥴(橘)
+길삼     질삼(紡績)
+매겻다   매짓다(呌鶉)
+구겨내   구지내(鶙)
+기아     지와, 지새
+김제     짐제(金堤)＜19＞
+김승     짐숭
+김치     짐치, 짐채
+깃       짓(羽)
+견헌     진헌(甄萱)
+
+ㄱ ㅇ의 例
+바닥         바당(발...)바탕
+그럭저럭     그렁저렁
+갈악이       갈앙이(바짓-)
+들석들석     들성들성
+오르락나리락 오르랑나리랑
+들컥들컥     들컹들컹
+올막졸막     올망졸망
+
+ㄴ ㄹ의 例
+한아버지  할아버지
+한머니    할머니
+언마나    얼마나
+곤마리    골마리
+언청이    얼청이
+
+ㄴ ㅁ의 例
+무슨     무슴
+안       암
+손씨     솜씨
+몬지     몸지
+세간살이 세감살리
+잔자리   잠자리(蜻蜓)
+
+ㄴ ㅇ의 例
+들큰들큰  들컹들컹
+물큰물큰  물컹물컹
+불근불근  불겅불겅
+언덕      엉덕
+오면가면  오명가명
+안요냐    앙오냐 慶尙道
+
+ㄷ ㅅ의 例
+古語   今語
+     뜻
+곧     곳
+자몯   자못(頗)
+몯     못
+벋     벗(友)
+빋     빗(債)
+이는 ㄷ ㅅ이 받힘만으로 그칠 때는 다 같이 내는 것임.
+
+ㄷ ㅈ의 例
+古語      今語
+디새      지새(瓦)
+딘이다    진이다(守)
+아디몯하다 아지못하다
+낙디      낙지(小八稍魚)
+디    지는해
+하딕      하직(辭)
+디다      지다(落)
+토디      토지(土地)
+이는 ㄷ가 우에서 ㅈ로 바뀐 따위
+뎡자   정자(亭子)
+됴상   조상(吊喪)
+
+ㄹ ㄴ의 例
+라주     나주(羅州)
+루수     누수(漏水)
+로송나무 노송나무
+로인     노인(老人)
+이는 ㄹ가 ㅏ ㅓ ㅗ ㅜ 우에서 ㄴ로 바뀌는 따위
+
+ㄹ ㅅ의 例
+걸다    것다(步)
+물다    뭇다(問)
+질      짓
+탈      탓
+얼청이  엇청이
+불다    붓다(脹)
+달다    닷다(走)
+길다    깃다(長)
+닐컬다  닐컷다
+올바시  옷바시
+올빠미  옷바미
+올아비  옷바
+홀      홋(單)
+얼      엇(斜)
+갈모    갓모＜20＞
+곳갈    곳갓(冠)古褐
+설달    섯달
+열쇠    엿쇄
+
+ㅁ ㅂ의 例
+맛이다       밧이다(**)
+눈망울       눈방울
+멋 古*      벗(率子)
+다 慶尙道  없다
+굼실굼실     굽실굽실
+무름쓰다 全羅, 忠淸 무릅쓰다 京城
+멋           뻣(...낸다)
+덤석         덥석(...물다)
+두름나물     두릅나물
+잠오아       잡으러 慶尙道
+
+ㅅ ㄴ의 例
+엇청이  언청이
+엇치    언치(말...)
+못한다  몬한다 慶尙道
+맛보다  만보다 同
+
+ㅅ ㅂ의 例
+짓 古語  집(家)
+헌 것    헌겁
+겻말     겹말(謎話)
+
+ㅈ ㅅ의 例
+듣자오니  듣사오니
+받자오니  받사오니
+감쪼으다  감쏘시다(보시다)
+의자      의상
+붓적붓적  붓석붓석
+밧작밧작  밧삭밧삭
+쩍다      쐬다(*...)
+
+ㅎ ㅅ의 例
+힘     심(力)
+헴     셈
+혀     셔(舌)
+효     쇼(孝)
+힌머리 센머리
+해ㅅ것 새것
+혀케   셔캐
+휴지   슈지(故紙)
+
+(ㄴ) 같은 子音끼리 바뀜.
+
+ㄱ ㅋ의 例
+고 古語   코
+갈 古語   칼
+건갈이    건컬이(마른갈이)
+안개      암캐
+한간      한칸
+시금시금  시큼시큼
+수것      수컷
+
+ㄷ ㅌ의 例
+하나도  하나토
+문대다  문태다
+도막    토막
+돕 古語 톱(爪)
+한데    한테
+암닭    암탉
+수닭    수탉
+사당    사탕
+바당    바탕
+
+ㅈ ㅊ의 例
+짐채      침채
+재축하다  채출하다
+혼자      혼차
+만지다    만치다
+지접은하다 추접은하다
+송아지    송아치
+시절      시칠 古語 사철
+장아지    장아치
+잔작하다  잔착하다
+점        첨(하-)
+양지물    양치물
+먼저      먼처
+꽂앙이    꽃앙이
+곶 古語   꽃(花)
+
+ㅂ ㅍ의 例
+벌        펄(原野)
+변하다    편하다
+마바람    마파람＜21＞
+휘바람    휘파람
+안밖      안팎
+조밥      조팝
+바삭바삭  파삭파삭
+북이      푹이(最人)
+
+ㄱ ㄲ의 例
+곱을곱을  꼽을꼽을
+갈칠하다  깔칠하다
+강둥강둥  깡뚱깡뚱
+곶 古語   꽃
+고돌고돌  꼬돌꼬돌
+긑 古語   끝(終)
+ㄷ ㄸ의 例
+다스하다  따듯하다
+데꾼하다  떼꾼하다
+돌돌      똘똘
+듸글듸글  띄글띄글
+둘둘      뚤뚤
+
+ㅂ ㅃ의 例
+벋다      뻗다
+바틋하다  빠듯하다
+벅국새    뻑국새
+번적번적  뻔쩍뻔쩍
+번들번들  뻔들뻔들
+불휘 古語 뿌리(根)
+
+ㅅ ㅆ의 例
+살 慶尙道  쌀
+석다 古語  썩다
+싯다 古語  씻다
+스다 古語  쓰다(書)
+시름       씨름
+
+ㅈ ㅉ의 例
+장아지  장아찌 高靈
+가지    까지(茄子)全州
+자르다  짜르다
+족악    쪽악
+질기다  찔기다
+
+2. 子母音의 줄음
+母音이나 子音이 子母音 우에서나 알에서 준 것이 있으니 이를 母音의 줄음 子音의 줄음, 子母音의 다 같이 줄음 세 가지에 낞어 그 例를 들어 적으면.
+
+(1) 母音의 준 것
+母音이 같은 母音을 맞나거나 다른 母音을 맞나거나 하여 한 母音만 준 것이 있으니
+
+(ㄱ) 같은 母音을 맞나 준 것.
+
+ㅏ의 例
+저리 가았다    저리갔다
+책을 사아보다  책을 사보다
+내암새         냄새
+새암           샘(泉)
+빼어먹다       빼먹다
+내어 버리다    내 버리다
+매어 달다      매달다
+
+ㅓ의 例
+발우 서어라   발우 서라
+자리를 펴어라  자리를 펴라
+헤엄          헴(游泳)
+억어지 쓴다   억지 쓴다
+
+ㅗ의 例
+저걸 보오  저걸 보
+이리 오오  이리 오
+야조오개   야조개(夜照峴)
+
+ㅜ의 例
+편히 누우시오  편히 누시오
+무우           무(蘿蔔)
+누구           누(誰)
+
+ㅡ의 例
+흐으르다 古語  흐르다(流)
+드르 古語      들(野)
+
+ㅣ의 例
+래일    랠(來日)
+제일    젤(第)
+며리치  멸치 全羅, 忠淸＜22＞
+소리개  솔개
+자리개  잘개 慶尙道
+
+(ㄴ) 다른 母音을 맞나 준 것
+
+ㅜ의 例
+시원하다  시언하다
+훤츨하다  헌츨하다
+남원      남언, 남안(南鴈)
+워대      어대
+
+ㅡ의 例
+건느어 가다  건너 가다
+뜨어 가다    떠 가다
+트어 졌다    터졌다
+가을         갈
+마을         말
+다음         담
+마음         맘
+마르는 古語  마는(하지...)
+더음         덤
+겨을         결
+여을         열
+모으다       모다
+고을         골
+노을         놀(靄)
+호을로       홀로
+살음         삶
+거믜         거미
+아자븨       아자비
+나븨         나비
+이믜         이미(旣)
+픠다         피다(發)
+여희다       여히다(*)
+글픠         글피
+븨다         비다(空)
+이긔다       이기다(勝)
+억의다       억이다(違)
+싀           시(酸)
+굽의         굽이
+가막의       가막이
+믜요니       미우니(憎)
+우븨다       후비다(穵掘)
+나의         내
+너의         네
+오의         외(胡爪)
+누의         뉘
+우의         위
+
+ㅣ의 例
+우렁이    우렁(田螺)
+더욱이    더욱
+가득이    가득
+아니가다  안가다
+
+ㅣ ㅏ의 例
+아니하다       않다
+같지 아니하다  같챦다
+하지 아니하다  하쟎다(하는 古語에 많다는 말)
+
+(2) 子音의 준 것
+子音이 첫 소리로나 끝소리로서 준 것이 있으니
+
+ㄱ의 例
+아기    아이
+배고개    배오개(梨峴)
+애고개    애오개(阿峴)
+야조고개  야조오개, 야조개(夜照峴)
+배개      배애(梨浦)
+모래고개  모래오개(沙峴)
+하고개    해오개(鶴峴)
+보기      보이
+갈가지    갈아지(범)
+실겅      실엉
+단기다    단이다
+쓸개      쓸애(膽)忠北
+공이      옹이(節)
+뚜께      뚜에
+발자국    발자옥
+벙긋거리다 벙읏거리다
+날개      날애
+어간      어안(-이 벙벙하다)
+개금      가얌(襟-)＜23＞
+육월      유월(6月)
+백천      배천(白川)
+얼게빗    얼에빗
+진기다    진이다(守)
+승검초    승엄초(當歸)
+
+ㄹ의 例
+솔나무   소나무
+버들나무 버드나무
+불나비   부나비
+선달님   선다님
+딸님     따님
+날날이   나날이
+갈나니   가나니
+들나들이 드나들이
+물넘기   무넘기
+바눌실   바누실
+불손     바손
+불담기   부담기
+밀닫이   미담이
+갈다     가다(밭을-)
+불득이   부득이(不得己)
+부실     부실(不實)
+불지     부지(不知)
+「량반    양반(兩班)
+려       여(呂)
+륙월     유월(6月)
+료리ㅅ집 요리ㅅ집
+류       유(劉, 柳)
+리       이(李)」
+우와 같이 ㄹ이 ㅑ ㅕ ㅛ ㅠ ㅡ 우에 서주는 것은 朝鮮 말에 ㄹ 첫 소리가 없는 까닭이다.
+
+ㅂ의 例
+우방   우엉(牛蒡)
+을벼   을예
+밭     앝(田)
+십월   시월(10月)
+십방   시상(十方)佛家
+
+ㅅ의 例
+못자라다  모자라다
+버릇장이  버르장이
+비슴      비음(설-)
+모시      모이(닭-)
+머슴      머음
+아시      아이(初)
+무슴일    무음일
+과실      과일(果實)
+깃음      기음
+무수      무
+여수      여으
+가슬      가을
+겨슬      겨을
+마슬      마을
+꼴악시니  꼴악우니
+살외다    알외다(白)
+시들시들  이들이들
+지새      지아, 기아
+자새      자애(묵-)
+장시      장이
+부스름    부으름
+웃음      우음
+닛으니    니으니
+나수      나우(더)
+구슈      구유(桶)
+즈슴      즈음(際)
+어서      어여
+송사리    송아리
+
+ㅈ의 例
+먼저      먼여
+자죽      자욱(발-)
+웃적웃적  웃역웃역
+쭉을쭉을  욱을욱을
+광주리    광우리
+쭉을이다  욱을이다
+옹잘옹잘  옹알옹알
+오락지    오락이
+검정이    검엉이
+웅절웅절  웅얼웅얼＜24＞
+눌엉지    눌엉이
+남저지    남어지
+그림자    그림애, 그름애(影)古語
+
+ㅎ의 例
+부헝이 古語 부엉이
+가히        가이, 개
+조희        조의(紙)
+닐흠 古語   니름
+바희 古語   바의, 바위
+안해        안애
+후비다      우비다
+놓이다      노이다, 뇌다
+방하        방아
+여흘       여을
+사희       사의, 사위
+아히       아이, 애
+창호장이   창오장이
+낞우다     난우다
+
+(3) 子母音의 다 같이 준 것
+그 例
+줄으니      주니
+굴으니      구니
+갈으니      가니(밭을-)
+길으니      기니
+넣으니      너니
+놓으니      노니
+좋으냐      조냐
+마마님      마님
+스승님      스님
+딸기        딸
+생원님      샌님(生員님)
+이것을 보라  이걸 보라
+이것이 어떠하냐  이게 이떠냐
+그리하여(야)도  그래도
+그런다하여(야)도  그런대도
+그리하였(았)다  그랬다
+옷을 정하게 닙어라  옷을 정히 닙어라
+관계를 하지 아니하다  관겧쟎다 괞쟎다
+「하」의 母音 곳 ㅏ는 어느 子母音 앞에서는 흖이 줄고 그 子音 곳 ㅎ만 넘아 받힘이 되나니 니를터면 「그러하다」를 「그함다」로 「그러하게」를 「그렇게」로, 「그러하고」를 「그렇고」로, 「正하다」를 「正ㅎ다」로, 「正하게」를 「正ㅎ게」로, 「正하고」를 「正ㅎ고」로 하는 때위도 있다.
+
+3. 母音의 겹침과 子母音의 덧붙임
+母音은 母音끼리 겹치거나 또는 덧붙이거나 하는 것도 있으며 子音은 子母音 알에 덧붙이는 것이 있다.
+
+(1) 母音의 겹침
+母音의 ㅣ가 다른 母音의 ㅏ ㅢ ㅗ ㅜ ㅡ들과 잘 겹치나니 그 例를 들면
+아이        애
+가이 忠淸道 개(犬)
+사이        새(間)
+지나이다    지내다
+닿이다      대다
+자이다      재다
+차이다      채다
+짜이다      째다
+타이다      태다
+터이니      테니(올-)
+더이다      데다(합-)
+버이다      베다
+쏘이다      쐬다
+쪼이다      쬐다
+모이다      뫼다
+보이다      뵈다
+쓰이다      쐬다
+그이        긔
+뜨이다      띄다
+
+(2) 母音의 덧붙임
+母音의 ㅣ가 제소리 우에나 다른 母音＜25＞ 알에 덧붙임이 있으니 그 例를 들면
+
+(ㄱ) 제소리 우에 덧붙임.
+
+자미     재미(滋味)
+홀아비   홀애비
+홀어비   홀에비
+곰팡이   공팽이
+놈팡이   놈팽이
+짚앙이   짚앵이
+놀앙이   놀앵이
+괴앙이   괴앵이
+이악이   이액이
+앉은방이 앉은뱅이
+빌엉방이 빌엉뱅이
+다리     대리
+단기다   댄기다
+창호장이 창호쟁이
+밭장이   밭쟁이
+고추박이 고추백이
+나박이   나백이
+삼키다   상키다, 생키다
+소나기   쇠나기, 쇠내기
+꾸미다   뀌미다
+벗기다   벳기다
+먹이다   멕이다
+박이다   백이다
+막히다   맥히다
+가슴팍이 가슴팩이
+
+(ㄴ) 다른 母音 알에 덧붙임
+
+아까    아깨
+조용이  죄용이
+헛노릇  헷노릇
+만들다  맨들다
+열마    열매
+족음    죅음
+온통    왼통
+온갖    왼갖
+
+(3) 子音의 덧붙임
+子音의 ㄹ ㅅ ㅇ들이 제소리 알에나 또는 다른 子母音 알에 덧붙임이 있으니 그 例를 들면
+
+ㄹ의 덧붙임.
+니르어   니르러
+푸르어   푸르러
+잠오아   잠오라
+마루     말루
+교육     교륙(敎育)靈光
+공교로   공굘로 仝
+날아가다 날러가다
+물어오다 물러오다(退來)
+버레     벌레
+흐레     흘레
+굴에     굴레(앝-)
+기에     길래(하-)
+ㅅ의 덧붙임
+먹읍니다  먹습니다
+좋읍니다  좋습니다
+젖읍니다  젖습니다
+받읍니다  받습니다
+줏읍니다  줏습니다(밤을-)
+
+ㅇ의 덧붙임
+따          땅(地)
+버위리 古語 벙어리
+허겁        헝겁
+질바        질방
+매아지      망아지
+쇠아지      송아지
+조희        종의
+개울        갱골
+뫼아리 古語 멩아리(*)
+매ㅅ돌      망ㅅ돌
+갈애        갈앙이
+대가리      대강이
+아가리      아강이
+꼬리        꽁지
+
+4. 原語의 轉變
+原語가 그대로 소리만 더하고 뜻은 바뀌지＜26＞ 않거나 또는 그대로나 소리를 덜고 더하거나하여 뜻이 바뀐 것이 있으니 그 例를 들면.
+
+(1) 소리만 더한 것
+김 古語  김웅(柱)
+서 仝    섯가ㄹㄹ애(椽)
+천 仝    천량(財)
+엄 仝    엄니(牙)
+납 仝    잔납이(猿)
+고곰 仝  며누리고곰(痎疫)
+삼태 仝  삼태미(*斗)삼태기
+망태     망태기
+괴 古語  괴앙이
+고       검은고(琴)
+가슴     가슴팍이
+눈       눈깔, 눈퉁이
+니       닛발이
+뼈       뼈따귀
+팔       팔따지, 팔대기, 팔ㅅ둑, 팔ㅅ죽지
+저       저ㅅ가락, 저봄
+목       목아지, 목정강이
+배       배아지, 배ㅅ대기, 배퉁이
+뜽       잔뜽이, 뜽ㅅ덜미, 등ㅅ덜이, 등성이, 등어리
+꼬리     꼴앙이, 꼴앙지, 꽁당이, 꽁지
+(時)    끼니(한-)
+것다 古語 꺾다(折)
+닷다 仝  닦다(修)
+엿 仝    엿보다(窺)
+긑 仝    끝
+옇 仝    옇대(今, 지금껒)
+긋다 仝  끊다(斷)
+
+(2) 뜻이 바뀐 것
+깃다(悅)古語  깃브다
+믿다          믿브다
+낮다          낮브다
+앓다          앓브다
+슳다          슳브다
+지르(臨)古語  다지르다
+하리(談)仝     하소연
+깃(巢)仝       깃들이다
+남진 仝        남편
+꾀다(忌)仝     꺼리다
+몬(物)仝       몬지
+고(*)仝       고ㅅ불
+번지(磟碡)     돌번지
+재여리(媒)古語 여리ㅅ군
+가시(妻,女子)仝 가시네, 가시집(妻子)
+가시어미(丈母)  가시아비(丈人)
+솝(裡)仝       솝니(裡里)
+한(大)仝       한밭(太田) 한아버지
+실(谷)仝       참실(眞谷), 달이실(月谷)
+울(谷)仝       여수울(六谷), 띄울(茅谷)
+치(魚)仝       암치, 멸치, 갈치, 준치, 황치
+죽             죽엄
+묻             묻엄
+헤             헤엄
+뛰             뛰엄
+쉬             쉬엄쉬엄
+마루(宗)       마루턱이(頂上), 마루ㅅ대(棟木), 말개미, 말거머리, 말잠자리, 말벌
+가람(江, 湖)    내ㅅ갈
+나이(白木)     나이하다(무영짜다)
+베(麻布)       베옷, 베실, 베틀
+맞            맞음(-나간다)
+집            집웅
+-끝-＜27＞
+＜16-27＞

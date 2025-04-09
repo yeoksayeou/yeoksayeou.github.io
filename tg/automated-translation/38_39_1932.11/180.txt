@@ -1,0 +1,54 @@
+Magazine Title: 동광 제39호
+Publication Date: 1932년 11월 01일
+Article Title: 科學斷片(其一) (Scientific Fragments (Part 1))
+Author: None mentioned
+Article Type: 잡저 (Miscellaneous writing)
+
+Scientific Fragments
+
+The Neighbor-Killing Nature of the Walnut Tree (胡桃)
+
+Other plants do not thrive well near walnut trees. When examining plants that have died in the vicinity of a walnut tree, it is found that they all came into contact with the fine roots (細根) of the walnut. Seeing that every plant that comes into contact with the fine roots of the walnut withers and dies (枯死), it appears that the fine roots of this tree contain a neighbor-killing toxic fluid. Whether the walnut is the only plant that secretes (汾泌) a neighbor-killing toxic fluid, or if other plants also exist, is said to be research material (硏究材) and a matter of interest (興味件) for botanists (植物學者).<37>
+
+**Summary**
+
+This short article discusses the observation that plants near walnut trees often die. It attributes this phenomenon to a toxic substance seemingly secreted by the walnut tree's fine roots upon contact. The piece concludes by noting that botanists are interested in determining if this "neighbor-killing nature" (allelopathy) is unique to walnut trees or if other plants possess similar characteristics. From a historical perspective, this article demonstrates the introduction and popularization of Western scientific concepts in colonial Korea through periodicals. The specific observation about walnut trees (Juglans regia) and allelopathy, although not using the modern term, shows an engagement with contemporary botanical findings, presented in a mixture of Hangul and Hanja typical of the period.
+
+**Named Entities**
+
+None
+
+**Glossary**
+
+科學斷片	과학단편	Scientific fragments
+胡桃	호두	Walnut tree
+殺隣性	살린성	Neighbor-killing nature (allelopathy)
+近處	근처	Vicinity, nearby area
+盛치 못 하다	성하지 못하다	Does not thrive/flourish (older conjugation/spelling)
+近方	근방	Vicinity, nearby area
+檢査	검사	Examination, inspection
+細根	세근	Fine roots, rootlets
+接觸	접촉	Contact
+되엇다	되었다	Became (older spelling)
+枯死	고사	To wither and die
+잇는	있는	That exists/has (older spelling)
+貌樣	모양	Appearance; seems like (older spelling/Hanja usage)
+汾泌	분비	Secretion
+오직	오직	Only
+잇나	있나	Is there/are there (older spelling)
+植物學者	식물학자	Botanist
+硏究材	연구재	Research material/topic
+興味件	흥미건	Matter of interest
+
+
+---------------------------
+
+
+잡지명	동광 제39호
+발행일	1932년 11월 01일
+기사제목	科學斷片(其一)
+기사형태	잡저
+
+科學斷片
+胡桃의 殺隣性
+胡桃나무 近處에는 다른 草木이 盛치 못 한다. 胡桃나무 近方에서 죽은 草木을 檢査해 보면 胡桃의 細根과 다 接觸이 되엇다. 胡桃의 細根이 接觸된 草木마다 枯死하는 것을 보면 이 나무의 細根에는 殺鄰性의 毒液이 잇는 貌樣이라 한다. 殺鄰性의 毒液을 汾泌는 草木이 오직 胡桃뿐이냐 또는 다른 草木도 잇나 하는 것이 植物學者들의 硏究材요 興味件이라 한다.＜37＞

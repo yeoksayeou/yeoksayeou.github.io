@@ -1,0 +1,63 @@
+**Header Section:**
+Magazine Title: 동광 第十五號 (Tonggwang Che sip'oho)
+Publication Date: 1927년 07월 05일 (July 5, 1927)
+Article Title: 당신은 아이를 몇사람이나 두고 싶음니까 (How many children do you want to have?)
+Article Type: 소식 (News/Report)
+
+**Body Text Translation:**
+How many children do you want to have?
+
+At Dartmouth University in England [sic, Dartmouth College is in the USA], 80 university students were asked the question, "How many children do you want to have?" The results of surveying general opinion were as follows:
+
+People who want none ... 1 person
+Only one person ... 2 people
+Only two people ... 38 people
+About two or three ... 19 people
+Only three people ... 15 people
+About three or four ... 3 people
+Only four people ... 6 people
+About four or five ... 1 person
+Only five people ... 3 people
+About five or six ... 1 person
+Up to ten people ... 10 people <34>
+
+**Summary**
+
+This short news piece reports the results of a survey conducted among 80 university students at Dartmouth University (mistakenly placed in England) regarding their desired number of children. The overwhelming preference was for two children (38 students), followed by "two or three" (19 students) and exactly three (15 students). Smaller numbers preferred one, four, or five children, while one student wanted none, and a notable group of 10 students desired up to ten children. For historians, this article reflects a contemporary interest in social trends and family planning, even referencing a Western survey within a Korean publication during the colonial period. It potentially highlights changing attitudes towards family size, possibly influenced by Western ideas filtering into Korea, contrasting with traditional norms, and provides a snapshot of desired demographics among an educated group (albeit foreign students cited as an example).
+
+**Named Entities**
+
+영국	영국	England/UK
+따-르몬드 대학	따르몬드 대학	Dartmouth University
+
+**Glossary**
+
+몇사람	몇 사람	How many people (older spacing)
+두고 싶음니까	두고 싶습니까	Do you want to have/keep (older grammatical ending form of -ㅂ니까/-습니까)
+-더라	-더라	Narrative past tense ending indicating reported information or recollection.
+人	인	Person (Hanja character used for counting people)
+쯤	쯤	About, approximately
+
+
+---------------------------
+
+
+잡지명	동광 제15호
+발행일	1927년 07월 05일
+기사제목	당신은 아이를 몇사람이나 두고 싶음니까
+기사형태	소식
+
+당신은 아이를 몇사람이나 두고 싶음니까
+영국 따-르몬드(Dartmonth) 대학에서 대학생 80명에게 『당신은 아이를 몇 사람이나 두고 싶음니까?』 라는 문제를 내어 걸고 일반의 의사를 물은 바 결과는 다음과 같더라.
+한사람도 싫은 사람 ... 1人
+한 사람만 ... 2人
+두 사람만 ... 38人
+둘이나 셋쯤 ... 19人
+세 사람만 ... 15人
+셋이나 넷쯤 ... 3人
+네 사람만 ... 6人
+넷이나 다섯쯤 ... 1人
+다섯 사람만 ... 3人
+다섯이나 여섯쯤 ... 1人
+열 사람까지 ... 10人 ＜34＞
+＜34＞

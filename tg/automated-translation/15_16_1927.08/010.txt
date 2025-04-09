@@ -1,0 +1,84 @@
+**Header Section:**
+Magazine Title: 東光 제16호
+Publication Date: 1927년 08월 05일
+Article Title: 社告 (Editorial Announcement)
+Author: Not specified (likely Editorial Staff)
+Article Type: 사고·편집후기 (Announcement/Editorial Postscript)
+
+**Body Text Translation:**
+Editorial Announcement
+
+As this magazine has been striving to innovate its content since the previous issue, we anticipate showing new colors with each succeeding issue.
+
+We often fail to obtain the freedom to publish our editorials and biographical critiques every time, and thus we always end up causing inconvenience to our readers (諸氏).
+
+This issue, in particular, has been primarily focused on providing something to read as a pastime (消遺꺼리) during the summer heat, so contributions from our readers (諸氏) have all been postponed to the next issue.
+
+Regarding the youth section, we initially planned to fill it solely with works by young people, but as not many youth submissions have been gathered, we have decided to discontinue it from now on.
+
+The serialized Esperanto course is unavoidably suspended for this issue only.
+
+The serialized novel "Diary of a Madman" (狂人日記) is a work by Mr. Zhou Zuoren (周作人), famous as a modern writer of the Republic (民國); it is renowned as a social satire that breaks traditional, conventional customs.
+
+Regarding "Pipa Ji" (琵琶記), which is serialized in this magazine, some readers might find it tedious. However, Chinese drama (中國劇) has the characteristic that each act (每齣, 每幕) possesses the nature of a modern Western one-act play (一幕劇). In this sense, it is worth reading as drama. Also, regarding its content, although it speaks merely of so-called loyalty and filial piety (忠孝), which are fundamental East Asian (東洋) morals, we believe there is a need for us, standing apart from this ethical view (倫理觀) as third parties, to calmly consider how events related to loyalty and filial piety unfold before us and how they reach their conclusion (終局). Furthermore, it is a work worth reading through to the end simply for its entertainment value. <1>
+
+**Summary**
+
+This editorial announcement from *Donggwang* magazine outlines several changes and updates. The editors apologize for the frequent inability to publish opinion pieces and biographies, hinting at external pressures. The current issue focuses on lighter content for summer reading, delaying reader contributions. The youth section is discontinued due to lack of submissions, and the Esperanto course is temporarily suspended. The editors introduce two serialized works: Zhou Zuoren's "Diary of a Madman," highlighting its role as modern social satire against tradition, and the Chinese play "Pipa Ji," encouraging readers to look beyond its traditional themes of loyalty and filial piety and appreciate it as drama and entertainment. From a historical perspective, the text offers glimpses into editorial challenges potentially related to censorship ("자유를 얻지 못하여"), the practicalities of magazine publishing (discontinuing sections due to low participation), and the introduction of significant modern Chinese literature alongside reflections on traditional East Asian values during the colonial period.
+
+**Named Entities**
+
+周作人	주작인	Zhou Zuoren
+民國	민국	Republic (of China)
+琵琶記	비파기	Pipa Ji
+中國	중국	China
+東洋	동양	East Asia / The Orient
+西洋	서양	The West
+
+**Glossary**
+
+前號붙어	전호부터	Since the previous issue (older particle usage '붙어' instead of '부터')
+바오니	바이니	Being the case that... (older copula form)
+딸아서	따라서	Following, According to (older spelling)
+豫期합니다	예기합니다	Expect, Anticipate
+諸氏	제씨	You gentlemen/readers (honorific plural pronoun)
+끼치고 맙니다	끼치고 맙니다	End up causing (trouble/inconvenience)
+消遺꺼리	소일거리	Pastime, something to kill time (slightly older term)
+밀우었읍니다	미루었습니다	Postponed (older spelling and verb form)
+休揭합니다	휴게합니다	To suspend publication (of an article/series)
+在來	재래	Traditional, conventional
+깨트리는	깨뜨리는	Breaking (older spelling)
+지리하다는	지루하다는	(Saying that it is) boring, tedious (older form/spelling)
+게시겠으나	계시겠으나	Although there may be (honorific, older spelling '게시다' vs. '계시다')
+每齣	매출	Each act/scene (in traditional Chinese drama)
+每幕	매막	Each act/scene
+一幕劇	일막극	One-act play
+忠孝	충효	Loyalty and filial piety
+윤리관	윤리관	View of ethics, moral viewpoint
+終局	종국	End, conclusion, finale
+앏니다	압니다	Know (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제16호
+발행일	1927년 08월 05일
+기사제목	社告
+기사형태	사고·편집후기
+
+社告
+본지는 前號붙어 내용 쇄신을 힘쓰는 바오니 호를 딸아서 새로운 색채를 나타낼 것을 豫期합니다.
+
+우리 주장 언론과 인물 평전 같은 것은 번번히 게재하는 자유를 얻지 못하여 늘 독자 諸氏에게 미안만 끼치고 맙니다.
+
+이번 호는 특히 여름 더위에 한 消遺꺼리로 읽으실 것을 주로 하였음으로 諸氏의 기고는 다 다음 호로 밀우었읍니다.
+
+소년란은 당초에 소년의 작품만으로 채울 작정이었으나 소년 작품이 많이 모이지 아니함으로 이제붙어 그만두기로 합니다.
+
+연재하던 에쓰페란토 강좌는 부득이 이번만 休揭합니다.
+
+소설 「狂人日記」는 현대 民國 작가로 유명한 周作人씨의 작품이니 이는 在來 전통적 인습을 깨트리는 사회 풍자 소설로 유명한 것입니다.
+
+본지에 연재하는 琵琶記는 혹 독자 중에 지리하다는 생각을 두실 분이 게시겠으나 중국극이란 每齣(每幕)마다 서양 근대의 一幕劇의 성질을 가진 것이니 이 의미에 있어 극으로서 읽을만한 것이요 또 그 내용에 있어서도 동양의 한 기본 도덕인 소위 충효라는 것을 말한 것에 지나지 못하나 우리는 이 윤리관을 떠나서 제3자로서 충효로 관련된 사건이 우리 앞에 어떻게 전개되며 어떻게 終局을 마치나 하는 것을 한번 냉정히 생각해볼 필요가 있을 줄 앏니다. 그러고 재미있다는 것으로도 한번 끝까지 읽어보실 작품입니다.＜1＞
+＜1＞

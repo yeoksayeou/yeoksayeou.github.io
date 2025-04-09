@@ -1,0 +1,73 @@
+Magazine Title: 동광 제5호
+Publication Date: 1926년 09월 01일
+Article Title: 智識庫 (Knowledge Repository)
+Author: None specified
+Article Type: 잡저 (Miscellaneous Writing)
+
+Knowledge Repository (智識庫)
+
+In America, which boasts of having the world's best in everything, the Maroro-ho (마로로號), currently under construction at the Kŭrap’ŭ shipyard (그라프 조선소) in Ppilladelppia (삘라델삐아), has a length of 582 ch’ŏk (呎) [feet] and a tonnage (噸數) of 22,050 tons. This steamship (기선) is expected to be completed next year and used on the T’aep’yŏngyang (Pacific Ocean) route.
+
+However, the Ppat’ellandŭ-ho (빠텔란드號), built in Hamp’uk (함붉), Togil (獨逸) [Hamburg, Germany] in 1914, was a steamship (기선) with a displacement (排水) of 63,000 tons and a length of 905 ch’ŏk (呎) [feet].
+
+According to the latest research, the total number of stars up to the 20th magnitude (20等星) is as many as one billion (10억).
+
+The hardest wood in the world is said to be the “*ch’angmok*” (瘡木) [likely Lignum vitae], found in the tropical regions of Namyang (南洋) [South Seas/Southeast Asia], which even mice with sharp teeth (니) reportedly cannot easily gnaw.
+
+A large locomotive recently manufactured in the eastern United States is said to have used two hundred tons (2백돈) of steel (鋼鐵). The world's largest locomotive.<69>
+
+**Summary**
+
+This article presents a collection of trivia focused on "world's best" or largest items: the new American passenger ship SS Malolo (though noting the older German SS Vaterland was larger), the estimated number of stars, the hardness of Lignum vitae wood, and a massive new American locomotive. From a historical perspective, the article reveals a Korean interest in global technological advancements and superlatives, particularly from the West (USA, Germany), during the colonial period. It reflects an outward-looking curiosity about modern scale and power beyond the immediate confines of the Japanese Empire.
+
+**Named Entities**
+
+미국	미국	Miguk
+삘라델삐아	필라델피아	Ppilladelppia
+그라프 조선소	그라프 조선소	Kŭrap’ŭ Chosŏnso
+마로로號	마로로호	Maroro-ho
+태평양	태평양	T’aep’yŏngyang
+독일	독일	Togil
+함붉	함부르크	Hamp’uk
+빠텔란드號	파터란트호	Ppat’ellandŭ-ho
+남양	남양	Namyang
+미국 동부	미국 동부	Miguk Tongbu (Eastern United States)
+
+**Glossary**
+
+智識庫	지식고	Knowledge repository/storehouse
+잡저	잡저	Miscellaneous writing; jottings
+목하	목하	Currently; at the present time
+건조 중	건조 중	Under construction
+呎	척	Ch'ŏk (East Asian foot unit, often used for 'feet')
+噸數	톤수	Tonnage
+기선	기선	Steamship
+모양이다	모양이다	It seems/appears that; is expected to
+排水	배수	Displacement (of a ship)
+等星	등성	Magnitude (of a star)
+총수	총수	Total number
+억	억	Hundred million (100,000,000)
+남양	남양	South Seas; often referring to Southeast Asia
+瘡木	창목	Lignum vitae (a type of very hard wood)
+니	이	Teeth (older spelling of 이)
+바쉰다고	바순다고 (추정)	Reportedly cannot gnaw well (older/unclear verb; context suggests 'gnaw' or 'bite through')
+기관차	기관차	Locomotive
+썻다고	썼다고	Used (older spelling of 썼다고)
+강철	강철	Steel
+
+
+---------------------------
+
+
+잡지명	동광 제5호
+발행일	1926년 09월 01일
+기사제목	智識庫
+기사형태	잡저
+
+智識庫
+무엇이던지 세계제일이라고 자랑하는 미국서는 목하 삘라델삐아의 그라프 조선소에서 건조 중인 마로로號는 배의 길이는 582呎이고 噸數가 22,050톤인데 이 기선은 내년에 완성이 되어 태평양항로에 사용할 모양이다.
+그러나 1914년 독일 함붉에서 건조한 빠텔란드號는 排水 6만 3천톤, 배의 길이가 905呎의 기선도 있었다.
+최신의 연구에 의하면 20等星까지의 별의 총수는 10억이나 된다.
+세계에서 제일 딱딱한 나무는 남양의 열대지방에 있는 「*瘡木」이라고 하는데 날카로운 니를 가진 쥐도 잘 못 바쉰다고.
+최근 미국 동부에서 제조된 대형 기관차는 2백돈의 강철을 썻다고. 세계최대의 기관차.＜69＞
+＜69＞

@@ -1,0 +1,60 @@
+**Header Section:**
+Magazine Title: 동광 제16호
+Publication Date: 1927년 08월 05일
+Article Title: 한글問議 (Hangul Inquiry)
+Author: 永川 安秉瑞씨 (Mr. An Pyŏng-sŏ from Yŏngch'ŏn)
+Article Type: 잡저 (Miscellaneous Writing)
+
+**Body Text Translation:**
+Hangul Inquiry
+
+(Question) How should the following characters be written?
+For 「友」 (friend), which among 「벗」, 「벋」, and 「벝」 is correct? For 「外」 (outside), which among 「밧」, 「받」, and 「밭」 is correct?
+And why is 「有」 (to have/exist) written as 「있」?
+(From Mr. An Pyŏng-sŏ of Yŏngch'ŏn)
+
+(Answer) For 「友」, 「벗」 is correct. You should try attaching the particles that follow nouns, namely 「이」, 「을」, 「에게」, below 「벗」 and reading it aloud; it must match the sound of the spoken word. For 「外」, writing it as 「밖」 is correct. You can also understand this by attaching the particles 「에」, 「은」, 「으로」 below it and reading it aloud. Furthermore, final consonants like 「ㄷ」 and 「ㅌ」 are used like this: for instance, 「處」 (place) is written as 「곧」, and 「田」 (field) as 「밭」. The reason 「有」 is written as 「있」 is that, although when attaching the particle 「고」 below it, writing it as 「잇」 might suffice, if attaching the particle 「으니」, the sound of 「잇」 becomes strong, requiring two 「ㅅ」s. Therefore, even when writing it as before, as 「잇스니」, since there is no particle like 「스니」, when the particle 「으니」 is attached and written, the 「ㅅ」 from 「스」 attaches to 「잇」, resulting in 「있」. <51>
+<50>
+
+**Summary**
+
+This article is a question-and-answer piece addressing specific Hangul spelling queries from a reader in 1927. It clarifies the correct final consonants for the words meaning "friend" (벗) and "outside" (밖), explains how to verify them by adding grammatical particles, and provides a rationale for the double 'ㅆ' final consonant in "있" (to have/exist) based on pronunciation changes with certain endings, referencing an older particle form "스니". From a historical perspective, this article is interesting as it reflects the ongoing process and public interest in standardizing Korean orthography during the colonial period, predating the major standardization efforts of the 1930s. It shows grassroots engagement with linguistic normalization and reveals specific points of confusion among contemporary speakers/writers regarding final consonant rules and morphophonemic changes.
+
+**Named Entities**
+
+永川 安秉瑞씨	영천 안병서씨	Mr. An Pyŏng-sŏ from Yŏngch'ŏn
+
+**Glossary**
+
+한글問議	한글문의	Hangul inquiry/question
+아레	아래	Below, under (older spelling)
+글ㅅ자	글자	Letter, character (older spelling with genitive ㅅ)
+~ㅁ니까	~ㅂ니까	Interrogative ending (older form)
+벗	벗	Friend
+토	토	Grammatical particle (older/scholarly term for 조사)
+붙이어	붙여	Attaching (older spelling/form)
+받힘	받침	Final consonant (batchim) (older spelling)
+곳	곳	Place (處)
+밭	밭	Field (田)
+따위	따위	Such as, the like (spelled 따윕니다 in text)
+~는 고로	~는 고로	Because ~ (older connective ending, modern ~므로 / ~기 때문에)
+그전대로	예전대로	As before (older form)
+아달쓰게	달아쓰게	Attaching and writing (older form)
+
+
+---------------------------
+
+
+잡지명	동광 제16호
+발행일	1927년 08월 05일
+기사제목	한글問議
+기사형태	잡저
+
+한글問議
+(問) 아레와 같은 글ㅅ자를 어떻게 쓰어야 함니까.
+「友」는 「벗」 「벋」 「벝」 중에 어느 것이 맞으며 「外」는 「밧」 「받」 「밭」 중에 어느 것이 맞으며
+「有」 어찌하여 「있」으로 씁니까.
+(永川 安秉瑞씨)
+
+(答) 「友」는 「벗」이 맞습니다. 「벗」 아레에다 명사 아레 달리는 토 즉 「이」 「을」 「에게」를 붙이어 읽어 보아서 말의 소리와 틀림이 없어야 합니다. 「外」는 「밖」이라 쓰는 것이 맞습니다. 이도 또한 그 아레에 「에」 「은」 「으로」의 토를 붙이어 읽어보면 알 것입니다. 그리고 「ㄷ」 받힘과 「ㅌ」 받힘 같은 것은 이렇게 쓰입니다. 곳 「處」를 「곧」으로 「田」을 「밭」으로와 같은 따윕니다. 「有」를 「있」으로 쓰는 것은 그 아레에 「고」 토를 달 때에는 「잇」이라 쓰어도 되겠지마는 만일 「으니」라는 토를 달 때에는 「잇」의 소리가 강하게 나는 고로 「ㅅ」이 둘이라야 합니다. 그럼으로 그전대로 쓰는 대도 「잇스니」라 쓰데는 토에는 「스니」라는 것이 없은 즉 「으니」라는 토를 아달쓰게 되는 때에 「스」의 「ㅅ」이 「잇」에 붙어서 「있」으로 되는 것입니다.＜51＞
+＜50＞

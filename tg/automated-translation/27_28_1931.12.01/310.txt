@@ -1,0 +1,51 @@
+**Header Section:**
+Magazine Title: 동광 제28호
+Publication Date: 1931년 12월 01일
+Article Title: 離婚市場 레노市 (Divorce Market, Reno City)
+Author: None Specified
+Article Type: 소식 (News/Dispatch)
+
+**Body Text Translation:**
+Divorce Market, Reno City
+
+News regarding Reno City, where anyone can get a divorce by staying for just six weeks. It has been half a year since the divorce law was implemented, and during that time, the number of divorce applications reached 3,234, with 3,217 granted. The highest number handled in one day was 189. Lawyers' income during this period was $482,550, averaging $150 per case. The court's income was $128,580. Furthermore, with gambling also openly conducted, the total income of the entire city is said to be one million dollars per week. <95>
+
+**Summary**
+
+This short news piece reports on the city of Reno, Nevada, which became famous for its lenient divorce laws allowing divorce after only a six-week residency. It notes the high volume of divorce cases (over 3,200 applications in six months), the significant income generated for lawyers and the courts, and the contribution of legalized gambling to the city's overall weekly revenue, estimated at one million dollars. For historians of colonial Korea, this article is interesting as it shows an awareness of and interest in specific social and legal developments in the United States, even seemingly niche ones like Reno's divorce industry. It reflects a globalizing perspective in Korean media, reporting on the economic aspects (lawyer fees, court income, gambling revenue) of a social phenomenon far removed from Korea, perhaps offering a contrast or curiosity piece for readers under Japanese rule.
+
+**Named Entities**
+
+레노市	레노시	Reno City
+
+**Glossary**
+
+離婚市場	이혼시장	Divorce market
+滯在	체재	Stay, sojourn
+實行	실행	Implementation, carrying out
+申請者數	신청자수	Number of applicants
+허가	허가	Permission, approval
+取扱	취급	Handling, processing
+辯護士	변호사	Lawyer, attorney
+收入	수입	Income, revenue
+其間	기간	During that period (Older form of 그동안/그 사이)
+弗	불	Dollar (representing the currency symbol '$')
+賭博業	도박업	Gambling business
+公公然	공공연	Openly, publicly
+全市	전시	The entire city
+合하면	합하면	If combined, adding up
+一週日	일주일	One week (Older/formal form)
+잇다는	있다는	That there is/are (Older spelling of 있다는)
+되엇는데	되었는데	Became, has become (Older spelling of 되었는데)
+
+
+---------------------------
+
+
+잡지명	동광 제28호
+발행일	1931년 12월 01일
+기사제목	離婚市場 레노市
+기사형태	소식
+
+離婚市場 레노市
+六週間만 滯在하면 누구나 離婚할 수 잇다는 레노市의 그 後 消息. 離婚法이 實行된 지가 지금까지 半年이 되엇는데 그 동안의 離婚申請者數 3,234件, 허가된 수 3,217件, 1日 取扱 最高 記錄 189件. 그런데 辯護士의 收入이 其間 482,550弗이라하니 1件 平均 150弗, 재판소의 수입은 128,580弗, 그 밖에 賭博業까지 公公然하니 全市의 收入이 合하면 一週日에 百萬弗이라 한다. ＜95＞

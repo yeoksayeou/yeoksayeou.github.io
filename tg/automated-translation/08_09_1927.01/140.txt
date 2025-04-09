@@ -1,0 +1,551 @@
+Magazine Title:	동광 제9호
+Publication Date:	1927 January 01
+Article Title:	우리글 表記例의 몇몇 (Some Examples of Our Writing Notation)
+Article Type:	설문 (Survey)
+
+Some Examples of Our Writing Notation
+
+The way we write our language today is quite disorderly. Anyone with even a little concern cannot help but sigh over the fact that we are unable to refine and use the best script in the world, instead using it in such a confused and non-unified manner. We know that it is not only natural but also, more than anything, a matter of great urgency for us to now manage and correct our writing.
+
+However, the task of improving the national script is truly not something that can be accomplished quickly through the assertion of one person at one time. Therefore, it is said that a day will eventually come when it is corrected, requiring the research efforts of many people over a long period. Nevertheless, we first urgently selected a few examples of usage in our writing notation that must be corrected and used without delay. We sought answers from various teachers in charge of our language at professional schools and higher common schools in the capital, as well as from several elders deeply knowledgeable in this field. Fortunately, we received earnest responses from many who have long cherished this journal.
+
+This is not about investigating the fundamental principles of research on our script; it merely concerns a few minor examples of character usage. However, we believe that through this, the path to its application in our daily use of writing will be very significant. We believe that readers will also find it interesting to compare and contrast the research from these various perspectives, freely adopting or discarding aspects to deduce a correct model. - Reporter -
+
+(Readers might perhaps reproach us, asking why we use such non-unified writing styles, each person different. However, this is because we have presented the manuscripts exactly as written by the contributors in this column, so please understand.) <54>
+
+Questions
+
+1.  Regarding vowels, should the letter  be abolished?
+    For example, would it be acceptable to write ‘달’ (tal) and ‘마음’ (maŭm) instead of ‘’ and ‘’?
+2.  How about writing the so-called reinforced consonants     etc. using the doubled consonant forms ㄲ ㄸ ㅃ ㅉ?
+    For example, would it be acceptable to write ‘꿈’ (kkum), ‘때’ (ttae), ‘뿔’ (ppul), ‘짝’ (tchak) instead of ‘’, ‘’, ‘’, ‘’?
+3.  Should we stop using characters that combine complex vowels like ㅑ ㅕ ㅛ ㅠ with consonants in the ㄷ ㅅ ㅈ ㅊ ㅌ series?
+    For example, would it be acceptable to write ‘저긔’ (chŏgŭi), ‘조선’ (Chosŏn), ‘천상’ (ch'ŏnsang) instead of ‘뎌긔’ (彼處 - there), ‘죠션’ (朝鮮 - Korea), ‘턴샹’ (天上 - heaven)?
+4.  When a word begins with a consonant from the ㄴ series, should it be changed to use ㅇ?
+    For example, would it be acceptable to write ‘여름’ (yŏrŭm), ‘이르’ (irŭ) instead of ‘녀름’ (夏 - summer), ‘니르’ (至 - reach)?
+5.  For final consonants (받침), besides ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ, should ㄷ ㅈ ㅊ ㅋ ㅌ ㅎ also all be used?
+    For example, would it be acceptable to write characters like ‘받’ (受 - receive), ‘찾’ (尋 - find), ‘좇’ (從 - follow), ‘같’ (如 - like), ‘높’ (高 - high), ‘좋’ (好 - good), ‘앉’ (坐 - sit), ‘옳’ (可 - correct), ‘핥’ (舐 - lick), ‘읊’ (詠 - recite)?
+6.  One writes ‘드러가’ (tŭrŏga), ‘거러가’ (kŏrŏga), ‘버서’ (pŏsŏ), but also ‘들어가’ (tŭrŏga - enter), ‘걸어가’ (kŏrŏga - walk), ‘벗어’ (pŏsŏ - take off). Which should be the standard?
+7.  One writes ‘되여서’ (toeyŏsŏ), ‘막혀서’ (mak'yŏsŏ), ‘그려서’ (kŭryŏsŏ), but also ‘되어서’ (toeŏsŏ - become), ‘막히어서’ (mak'iŏsŏ - be blocked), ‘그리어서’ (kŭriŏsŏ - draw). Which should be the standard?
+8.  One writes ‘더우니’ (tŏuni), ‘지으니’ (chiŭni), ‘우니’ (uni), but also ‘덥으니’ (tŏbŭni - because it's hot), ‘짓으니’ (chisŭni - because [s/he] builds), ‘울니’ (ulni - because [s/he] cries). Which should be the standard?
+9.  How about writing even Sino-Korean words according to the standard Korean pronunciation?
+    For example, when writing words like ‘십월’ (十月 - October), ‘녀’ (女子 - woman), ‘리천’ (利川 - Ich'ŏn) in Korean, would it be acceptable to write them as ‘시월’ (siwŏl), ‘여자’ (yŏja), ‘이천’ (Ich'ŏn)?
+10. The following words are written in three or more ways. Which should be the standard?
+    한울 (hanul) / 하늘 (hanŭl) / 하날 (hanal) (天 - heaven/sky)
+    일음 (irŭm) / 이름 (irŭm) / 일홈 (irhom) (名 - name)
+    아희 (ahŭi) / 아이 (ai) / 아해 (ahae) (兒 - child)
+
+Kim Chin-ho (金鎭浩), Teacher at Paichai Higher Common School (培材高等普通學校敎諭)
+Examples of Correct Script Application
+
+1.  The character  is a combined sound of ‘ㅣ’ and ‘ㅡ’, not the same as ㅏ. We should wait until there is a ‘이으’ sound in our language; removal is unacceptable. <55>
+2.  Reinforced final consonants (된밧침) should always be pronounced with their own sound. ㄱ is pronounced as ㄱ, ㄷ as ㄷ, so why would we use ㅅ, whose nature is different, for the reinforced final consonant? Therefore, it is acceptable to write them with their own sounds doubled: ㄲ ㄸ ㅃ .
+3.  We cannot abolish the combination of ㅑ ㅕ ㅛ ㅠ with the ㄷ ㅅ ㅊ ㅌ series. This is because such intermediate sounds exist.
+4.  Changing the initial ㄴ sound to an initial ㅇ sound is unacceptable. ㅇ is like having nothing, while ㄴ belongs to the medial sounds (介音), having a different nature.
+5.  The 14 characters ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ were designated for use in both initial and final positions at the time of the promulgation of the Correct Sounds (正音 發佈當時). Therefore, using them in both initial and final positions is acceptable.
+6.  ‘드러가’ should be corrected to ‘들어가’, ‘거러가’ to ‘걸어가’, and ‘버서’ to ‘벗어’.
+7.  The characters ‘여’, ‘혀’, ‘려’, etc., are contractions: ‘여’ from ‘이어’, ‘혀’ from ‘이허’, ‘려’ from ‘이러’. Both contraction and expansion are acceptable.
+8.  ‘더’, ‘지’, and ‘우’ cannot form nouns on their own, whereas ‘덥’, ‘짓’, and ‘울’ can all be nouns, adjectives, or verbs. Therefore, the latter should be preferred.
+9.  Since many Chinese characters have become Korean words, the standard Korean pronunciation should be the basis, but the correct character (當字) must be used. October as ‘십월’ (sipwŏl) or ‘시월’ (siwŏl), woman as ‘녀’ (nyŏja), Ich'ŏn as ‘리천’ (Rich'ŏn).
+10. These nouns are not particularly problematic. They vary by region and custom; we should wait for a standard term to emerge.
+
+Kim Chi-hwan (金智煥), Teacher at Paehwa Girls' Higher Common School (培花女子高普校敎諭)
+
+Question 1. There are occasional arguments for abolishing the  sound, claiming it doesn't exist in current pronunciation. However, at this time when we are searching for our language, I wonder about abruptly abolishing a sound that existed. Since it is said that this pronunciation can still be made in the Chŏlla South Province region (全南地方), its abolition seems even more inappropriate. Therefore, my opinion is that it is preferable not to abolish it, waiting for a time when its proper pronunciation is found and used.
+Question 2. It is appropriate to write them using the doubled consonant forms (並書體).
+Question 3. Based on the standard central dialect (中央語), it might seem unnecessary. However, since a definite rule for the vernacular script (言文) has not been established and we are trying to set one now, this should be left to scholars of Korean phonology (國音學者). Shouldn't we consider widely investigating and using what can be referenced even from regional dialects (in P'yŏngan Province dialect (平安道 지방), ‘감사’ (kamsa - thanks) is pronounced ‘감샤’ (kamsya), ‘장’ (chang - chapter) as ‘쟝’ (chyang), ‘당’ (tang - party) as ‘댱’ (tyang), ‘창가’ (ch'angga - song) as ‘챵가’ (ch'yangga))?
+Question 4. As mentioned several times above, if a pronunciation exists in any region, even just one, I believe it is worth considering. This pronunciation is also currently used, not just pronounced, in the P'yŏngan Province region. For instance, if someone in North P'yŏngan Province (平安北道 지방) says ‘여름’ (yŏrŭm), they wouldn't understand it as ‘夏’ (summer) but would immediately think of tree fruit (fruit is also called 여름 - yŏrŭm). Therefore, rather than hastily changing these two words, how about considering them once more before deciding whether to adopt or discard them?
+Question 5. Despite the clear statement in the original Hunminjeongeum (訓民正音) that "Final sounds reuse initial sounds" (終聲은 다시 初聲을 쓴다) and the fact that there was an era when it was used that way, this is a mistake that arose later due to the errors in the Hunmongjahoe (訓蒙字會). Once we realize our mistake, it is right to correct it immediately. Therefore, using all of them is acceptable.
+Questions 6 & 8. Since ‘들’ (tŭl), ‘걸’ (kŏl), ‘벗’ (pŏt), ‘덥’ (tŏp), ‘짓’ (chit), ‘울’ (ul) are the word roots (語根), <56> and ‘들’ (tŭl), ‘거’ (kŏ), ‘버’ (pŏ), ‘러’ (rŏ), ‘지’ (chi), ‘우’ (u) are not word roots, I think it is acceptable to write ‘들어가’ (tŭrŏga), ‘걸어가’ (kŏrŏga), ‘벗어’ (pŏsŏ), ‘덥으니’ (tŏbŭni), ‘짓으니’ (chisŭni), ‘울니’ (ulni).
+Question 7. Writing ‘되어서’ (toeŏsŏ), ‘막히어서’ (mak'iŏsŏ), ‘그리어서’ (kŭriŏsŏ) is acceptable.
+Question 9. It is a great regret that Chinese writing (漢文) overwhelmed our language, causing us to lose much of our own. Now that we know this is wrong, how can we not correct it? Therefore, it is appropriate to write based on our national pronunciation (國音), not based on Chinese characters (漢字).
+Question 10. I believe 하늘 (hanŭl), 아이 (ai), 일홈 (irhom) are correct.
+
+[Anonymous] Teacher at Paehwa Girls' Higher Common School (培花女子高普校敎諭)
+
+1.  The character ‘’ cannot be used for the ‘ㅏ’ sound. It is best used as a mixed sound of ‘ㅣ’ and ‘ㅡ’. The reasons are, firstly, it is clear that ‘’ is a mixed sound of ‘ㅣ’ and ‘ㅡ’ (Refer to Chu Si-gyŏng's (周時經) *Munbŏp Ŭmhaka* - Grammar Phonology). Secondly, there is clearly a mixed sound of ‘ㅣ’ and ‘ㅡ’ in our language. Some researchers interpret the mixed ‘ㅣ’-‘ㅡ’ sound as a long or rising tone of ‘ㅕ’ and suggest writing it by adding a long vowel mark to ‘ㅕ’. This requires further investigation (考究).
+2.  They should be written as doubled consonants (並書). ‘ㄱ’ is a sound produced as the tongue root touches the soft palate (軟口盖 - near the uvula) and air passes through the gap. If the tongue root touches more firmly, it naturally becomes ‘ㄲ’. However, ‘ㅅ’ is produced by the tongue tip touching the hard palate (硬口盖 - front palate) and releasing air. To produce ‘’, one would need to adopt the state of trying to make a sound with the tongue tip raised and attached to the hard palate, then lower the tongue tip again, and newly attach the tongue root to the soft palate. Setting aside the unnaturalness, the sound cannot even be formed (成音). The same applies to ‘’, ‘’, ‘’.
+3.  They should be used for transcribing foreign words (e.g., Shakuhachi (샤꾸하찌), Johnson (쬰손), etc.) or for accurately depicting regional and individual dialects in novels and plays. We must break free from the constraints of Sino-Korean pronunciation (漢字音).
+4.  I will answer this along with Question 9.
+5.  All must be used. Firstly, this aligns with the fundamental spirit of the Correct Sounds (正音). Secondly, if not used, there is a risk of grammatical particles (조사) becoming confused (錯亂) and disorganized. Thirdly, using them offers the convenience of quickly grasping the meaning upon seeing the characters.
+6.  ‘들’ (tŭl), ‘가’ (ka), ‘걸’ (kŏl), and ‘벗’ (pŏt) are all verbs. ‘어’ (ŏ) acts as a connecting particle (連接助詞) between two verbs, forming ‘들어가’ (tŭrŏga), ‘걸어가’ (kŏrŏga), ‘벗어...’ (pŏsŏ...). ‘러’ (rŏ) is a particle indicating an intended future action, and ‘서’ (sŏ) might perhaps be a subject particle. Therefore, ‘드러가’ (tŭrŏga), ‘버서’ (pŏsŏ), etc., can be called utterly chaotic writing (亂筆). Thus, the latter forms presented in the question are correct.
+7.  These are words formed by combining the incomplete verb ‘되’ (toe), the verb ‘그리’ (kŭri), and the passive form ‘막히’ (makhi) with the connecting particle ‘어서’ (ŏsŏ). The latter forms are correct.
+8.  Since ‘덥’ (tŏp), ‘짓’ (chit), ‘울’ (ul) are the word roots (語根), it is better to use the latter forms. Changes due to euphonic shifts (音便) should be marked separately.
+9.  Since ours is a phonetic script (發音文字), it should be written according to pronunciation, and using the Seoul dialect (京城말) as the standard (準用) would be good. (Standardizing based on the capital's language (首府語) is done in every country.) <57>
+10. ‘하날’ (hanal) and ‘하늘’ (hanŭl) seem to have diverged due to an issue with the character ‘’. In speech, calling it ‘하눌’ (hanul) seems common, so writing it as ‘하눌’ is good. However, there is no need to write it as ‘한울’ (hanul). Unless ‘한’ (han) or ‘울’ (ul) has some specific meaning, there is no need to add an extra ‘ㅇ’ character. The word ‘일음’ (irŭm) seems not widely used, so writing it as ‘이름’ (irŭm) would be good. For the same reason I opposed writing ‘한울’, I oppose writing ‘일음’. When ‘아이’ (ai - child) is shortened, it becomes ‘애’ (ae). There is evidence (略 - abbreviation) that ‘아이’ changes to ‘애’, but inserting an ‘ㅎ’ between ‘ㅏ’ and ‘ㅣ’ and then shortening it cannot result in ‘애’. Therefore, writing it as ‘아이’ is good.
+
+Teacher at Chungdong School (中東學校敎諭)
+
+Respectfully replying: Regarding the notation of our script you asked about, I have indeed had thoughts about it, but caught between the two directions of respecting history and prioritizing practical use, I have yet to form a definite opinion. This is because both directions have equally valid reasons. Therefore, it is not something to be decided by individual arbitrary judgment (擅斷). A standard that everyone can rely on should be established through public discussion and consensus (衆議公見). Unfortunately, we lacked such an institution, so it is no accident that we see the current state of our language today. Now that your company (貴社) has taken the lead (先鞭) in organizing and implementing our language, those concerned about our language cannot but congratulate your courageous decision (勇斷), and our sincere desire (衷情) to cooperate with your great intention (盛意) is also earnest (懇切). Here, regarding the questions, I will state my humble opinions (愚見) item by item. The general spirit is to respect the current state (現狀) of our language within the bounds of not contradicting scholarly principles (學理), and not to deviate from practical use (實用), rather than relying solely on historical or etymological grounds (語源的 依據).
+
+Notes
+One. Regarding the sound of , scholars like Yuktang (六堂 - Ch'oe Nam-sŏn) seem to call it a primitive sound or whatnot, but since we cannot recognize the existence of such a sound in our language today, it is naturally acceptable to abolish it. If a situation arises where it is used for a sound like the one mentioned by Mr. Chu Si-gyŏng (周時經先生), perhaps representing it as ‘이으’ would be better.
+Two. Of course, writing them as ㄲ ㄸ ㅃ ㅉ aligns with the original intention of the creators of our script and seems rational (合理的).
+Three. I lean towards not using them. How much unnecessary effort (精力) is wasted trying to use them?
+Four. The general assertion is to write according to the phonetic phenomena (發音現象). Let's keep words like ‘녀름’ (nyŏrŭm) and ‘니로’ (niro) in a museum.
+Five. When speaking, we distinguish between ‘낫’ (nat - 鎌 - sickle), ‘낮’ (naj - 晝 - daytime), and ‘낱’ (nat - 箇 - item), but when writing with a brush, we lump them all together as ‘낟’. Where else is there such an irrationality (不合理)? To write as the language originated (말생긴대로), ㄷ ㅈㅊㅋㅌㅍㅎ should also be used as final consonants (바침).
+Six. They should be written as ‘들어가’ (tŭrŏga), ‘걸어가’ (kŏrŏga), ‘벗어버리’ (pŏsŏbŏri). This is because our assertion is to clarify the word stem (말몸) and establish meaningful words (單語). However, let's read them as ‘거러가’ (kŏrŏga), ‘드러가’ (tŭrŏga), ‘버서버리’ (pŏsŏbŏri). Oops, this is unnecessary chatter (군소리).
+Seven. Only ‘되여서’ (toeyŏsŏ) is a different issue from ‘막혀서’ (mak'yŏsŏ) and ‘그려서’ (kŭryŏsŏ). According to the assertion made in item six, ‘막혀서’ and ‘그려서’ should be changed to ‘막히여서’ (mak'iyŏsŏ) and ‘그리여서’ (kŭriyŏsŏ). However, ‘되여서’ itself is an irregularity (變則). Like "‘되어서’(toeŏsŏ), ‘하여서’(hayŏsŏ), ‘뛰여서’(ttwiyŏsŏ), ‘데여서’(teyŏsŏ), ‘태여서’(t'aeyŏsŏ)" and "‘오앗’(owat), ‘돌아서’(torasŏ), ‘갈아서’(karasŏ), ‘가아서’(kaasŏ), ‘잡아서’(chabasŏ)" and "‘두어서’(tuŏsŏ), ‘뜨어서’(ttŭŏsŏ), ‘얻어서’(ŏdŏsŏ), ‘묵어서’(mugŏsŏ), ‘썩어서’(ssŏgŏsŏ)", there are cases used in three ways: ‘여’(yŏ), ‘아’(a), ‘어’(ŏ). Since there are established linguistic habits (말외 버릇) that are difficult to change, how about leaving them as exceptions for now?
+Eight. It is good to have both forms, writing both ‘더우니’(tŏuni), ‘지으니’(chiŭni) and ‘덥고’(tŏpko), ‘짓고’(chitko). Let's write ‘울니’(ulni) and just pronounce it ‘우니’(uni).
+Nine. Of course, the national pronunciation (國音) should be the standard. Therefore, for Chinese characters (漢子), one character should have multiple pronunciations. For example, 利川 (Ich'ŏn) vs. 大利 (Taeri).
+Ten. For ‘天’ (heaven), following the ideal, ‘한울’ (hanul).
+For ‘名’ (name), following the etymology (語源), ‘이름’ (irŭm).
+For ‘兒’ (child), following the common word (恒語), ‘아이’ (ai) is good.
+
+Kwŏn Tŏk-kyu (權悳奎), Central Higher Common School (中央高等普通學校論)
+
+One. Regarding vowels, the character  is considered unsuitable for practical use today.
+Two. ㅺㅼㅽㅾ should be written as ㄲㄸㅃㅉ. They could also be used in final consonants (받힘) or other explanations.
+Three. For Sino-Korean pronunciations (漢字音) where complex vowels in the ㄷㅅㅈㅊㅌ series are pronounced as single vowels, abolition might be acceptable. However, when correct language requires the actual sound (實際音), I think abolition is not possible.
+Four. When a word's initial sound (頭音) is ㄴ, write it as is. If ㄴ is not pronounced as the initial sound, that's sufficient.
+Five. For final consonants (받힘), all consonants (子音) should be used.
+Six. It seems best to standardize as ‘들어가’ (tŭrŏga), ‘걸어가’ (kŏrŏga), ‘벗어’ (pŏsŏ).
+Seven. Among ‘되여서’ (toeyŏsŏ), ‘막혀서’ (mak'yŏsŏ), ‘그려서’ (kŭryŏsŏ), ‘되여서’ is a variation of ‘되어서’ (toeŏsŏ). It is not formed overlappingly like ‘막히어서’ (mak'iŏsŏ), ‘그리어서’ (kŭriŏsŏ). If ‘되여서’ is exactly the same as ‘되어서’, that's fine. For ‘막히어서’, ‘그리어서’ versus ‘막혀서’, ‘그려서’, the common usage (通俗) is also considered theoretically sound.
+Eight. Consider ‘더우니’ (tŏuni) from ‘덥으니’ (tŏbŭni) as an irregularity (變則) (i.e., when the ㅂ final consonant changes to ㅜ, the ‘으니’ attached below a consonant naturally becomes ‘니’ below a vowel). Consider the habit of pronouncing ‘짓으니’ (chisŭni) as ‘지으니’ (chiŭni) as the habit of dropping ㅅ. Consider ‘우니’ (uni) as the habit of dropping ㄹ from ‘울니’ (ulni). Even if left to individual phonetic standards (語音의 標準), it seems unlikely to cause any issues.
+Nine. Pronouncing 十月 (October) and 六月 (June) as 시월 (siwŏl) and 류월 (yuwŏl) are special cases. Pronouncing 女子 (woman) as ‘여자’ (yŏja) reflects the fact that the initial ㄴ sound is not pronounced in our language; handle it as in Question 4. Regarding pronouncing 利川 (Ich'ŏn) as ‘이천’ (Ich'ŏn), ㄹ changes to ㄴ when it appears initially above vowels ㅏㅓㅗㅜ (e.g., 羅氏 (Na ssi), 盧氏 (No ssi), 漏水 (nusu)), or drops (above ㅡ and other vowels, e.g., 利川 (Ich'ŏn), 李氏 (I ssi), 兩班 (yangban), 呂氏 (Yŏ ssi), 料理 (yori), 柳ㆍ劉氏 (Yu ssi)). I think initial sounds can be handled by these two rules, i.e., habits.
+Ten. The native word for 天 (Heaven) is ‘한울’ (hanul).
+For 名 (Name) - ‘니름’ (nirŭm) seems a good standard.
+For 兒 (Child), our word is - ‘아이’ (ai) -> ‘애’ (ae). Since there are two Sino-Korean terms for 兒 <65> ‘兒戱’ (ahŭi) and ‘兒孩’ (ahae), the native word (原語) standard would be ‘아이’. ‘兒戱’ and ‘兒孩’ are loanwords (外來語), i.e., Sino-Korean idioms (熟語). Perhaps it is good to distinguish between 아이, 兒戱, and 兒孩.
+
+Yi Kyu-pang (李奎昉), Posŏng Higher Common School (普成高等普通學校敎論)
+
+One. Regarding the abolition of the vowel ,. Since in pure Korean words, ‘、’ has mostly changed to ‘ㅡ’, it might be fine not to use it. However, from a literary perspective (文學上), it cannot be completely abolished, so it seems good to teach it when teaching grammar (文法 敎授).
+Two. I believe there is no question that ㅺㅼㅽ etc. should be written using the doubled consonant forms ㅾㄲㄸㅃㅉ.
+Three. In the standard language (標準語), it might be acceptable not to use characters combining ㅑㅕㅛㅠ with the ㄷㅅㅈㅊㅌ series. However, when verbs, adjectives, etc., connect to the particle ‘어’ (ŏ) and are shortened, I believe they must be used.
+(Example) 오시어서 (osiŏsŏ) = 오셔서 (osyŏsŏ)
+가지어서 (kajiŏsŏ) = 가져서 (kajyŏsŏ) etc.
+Four. Although ‘냐녀뇨뉴’ (nya nyŏ nyo nyu) are pronounced as ‘야여요유이’ (ya yŏ yo yu i) at the beginning of words, it seems better to write them according to their original form. The reason is that they retain their original sound (本音) within words.
+(Example) If ‘올녀름’ (olnyŏrŭm - this coming summer) and ‘앞니’ (amni - front tooth) were written as ‘올여름’ (olyŏrŭm) and ‘앞이’ (api), they would be pronounced ‘오려름’ (oryŏrŭm) and ‘아피’ (ap'i).
+Five. For final consonants (받힘), of course, ㄷㅈㅊㅋㅌㅍㅎ etc. must all be used. If these are not used, the language and grammar (文法) will not match, and learning will become more difficult (困難).
+(Example) In ‘山이’ (sani - mountain + subj.) and ‘물이’ (muri - water + subj.), ‘이’ is a particle (토). In ‘먹어서’ (mŏgŏsŏ - eat and then) and ‘접어서’ (chŏbŏsŏ - fold and then), ‘어서’ is also a particle. Then, in ‘꽃이’ (kkoch'i - flower + subj.), ‘닢이’ (nip'i - leaf + subj.), ‘젖어서’ (chŏjŏsŏ - get wet and then), ‘덮어서’ (tŏp'ŏsŏ - cover and then), ‘이’ and ‘어서’ are undoubtedly particles. If other final consonants are used, the original sound (本音) will be lost, and consequently, the word will become meaningless.
+Six. Write them as ‘들어가’ (tŭrŏga), ‘걸어가’ (kŏrŏga), ‘벗어’ (pŏsŏ). ‘어’ is a connecting particle (接續하는 토) used after verbs or adjectives and cannot be irregularly changed (變則).
+Seven. Write them as ‘되어서’ (toeŏsŏ), ‘막히어서’ (mak'iŏsŏ), ‘그리어서’ (kŭriŏsŏ). ‘어서’ is a connecting particle. ‘여서’ (yŏsŏ) is used only exceptionally in cases like ‘하여서’ (hayŏsŏ - do and then), and not elsewhere. When ‘어’ comes after an ‘ㅣ’ sound, phonetically (音의 原理上), ‘어’ tends to be pronounced as ‘여’ (yŏ), but it should not be written as ‘여’. To write regularly, it should be ‘막히어’ (mak'iŏ), ‘그리어’ (kŭriŏ).
+Eight. There is a custom (習慣) of not pronouncing ‘ㅂ’ and ‘ㅅ’ when they occur before a vowel. Once established as a rule in grammar, it seems better to write the original word (原말) and pronounce it according to habit. Of course, since these sounds still remain in the Yŏngnam (嶺南) and Kwanbuk (關北) regions today, it would be even more convenient. The ‘우’ (u) in ‘더우니’ (tŏuni - because it's hot) and ‘추우니’ (ch'uuni - because it's cold) is a sound inserted unnecessarily when omitting the ‘ㅂ’. From a grammatical perspective, it cannot be considered correct.
+(Example) It seems better to write ‘덥어서’(tŏbŏsŏ), ‘덥으니’(tŏbŭni), ‘짓어서’(chisŏsŏ), ‘닛어서’(nisŏsŏ), ‘짓으니’(chisŭni), ‘닛으니’(nisŭni) and just pronounce them ‘더어서’(tŏŏsŏ), ‘더으니’(tŏŭni), ‘지어서’(chiŏsŏ), ‘니어서’(niŏsŏ), ‘지으니’(chiŭni), ‘니으니’(niŭni). <66>
+Writing ‘우니’ (uni) as ‘울니’ (ulni) is considered incorrect. Among verbs, there are many with an ‘ㄹ’ final consonant (받힘) where the ‘ㄹ’ is dropped only before ‘ㄴ’. Examples follow:
+(Example) 운다 (unda), 우니 (uni), 운즉 (unjŭk). 울고 (ulgo), 울지 (ulji), 울어 (urŏ). 산다 (sanda), 사니 (sani), 산즉 (sanjŭk). 살고 (salgo), 살지 (salji), 살어 (sarŏ). 준다 (chunda), 주니 (chuni), 준즉 (chunjŭk). 줄고 (chulgo), 줄지 (chulji), 줄어 (churŏ).
+Nine. Among Korean words derived from Chinese characters (漢字), I believe some should be written according to Korean pronunciation (國音) and others according to Sino-Korean pronunciation (漢音). For example, it's good to write ‘十月’(October), ‘六月’(June), ‘白川’(Paekch'ŏn) as ‘시월’(siwŏl), ‘류월’(yuwŏl), ‘배천’(Paech'ŏn), but I believe it's right to write ‘女子’(woman), ‘利川’(Ich'ŏn) as ‘녀자’(nyŏja), ‘리천’(Rich'ŏn). This is because they are pronounced correctly within other words.
+(Example) 남녀(男女 - namnyŏ), 고리(高利 - kori)
+Ten. (天) = 하늘 (hanŭl)
+(名) = 일음 (irŭm) (이름 - irŭm also acceptable)
+(兒) = 아이 (ai)
+Writing them this way seems good. In old texts (古文), it was written ‘하’ (hanʌl). Looking at examples where vowels ‘、’ and ‘ㅡ’ were used interchangeably, ‘하’ and ‘하늘’ (hanŭl) are the same. Also, considering that today (即 今天) is written as ‘오늘’ (onŭl), writing it as ‘하늘’ seems good. As for others like ‘일음’ (irŭm) and ‘아이’ (ai), I think everyone knows how to use them well now without needing much explanation.
+
+Chang Ŭng-jin (張膺震), Teacher at Kyŏngsŏng Girls' Higher Common School (京城女子高等普通學校敎論)
+
+The Hunminjeongeum (訓民正音), invented to express the complete pronunciation of our language without omission, was mistreated (虐待) for a long time. It was not taught or learned systematically, but rather left to be learned haphazardly (되는대로) by women and children. As a result, errors compounded errors (誤錯에 誤錯), and distortions (訛傳) were repeated, ultimately leading to the loss of many of the original correct sounds (原發音의 正音). We now see the kind of confused and irregular usage (錯雜 不規則한 用法) as exists today. Correcting (訂正) this and making it consistent is a highly beneficial endeavor for cultural development (文化發展上) and also an extremely important issue (甚히 重大한 問題) in education (敎育上). However, this is not something that can be easily implemented (容易히 實行) through the assertions of one or two individuals or a few groups. At the very least, starting with the compilation (編纂) of elementary school textbooks (初等敎育의 敎科書), it must be implemented simultaneously (一齊히 施行) in school education, as well as in newspapers and magazines. Therefore, this is something that cannot be easily hoped for unless it is a national project (國家的 事業).
+
+However, given the difficult circumstances (事情) in Korea (朝鮮) today, if the private sector (民間側) were to manage this project, at the very least, various organizations (several groups - 朝鮮語硏究 團體 - Korean language research groups, starting with education-related personnel, newspaper and magazine personnel, etc.) should unite (聯合). Under a fixed policy (一定한 方針), the first step (第一着) should be the publication (刊行) of a Korean language dictionary (朝鮮語辭典) and holding workshops (講習會) to promote general dissemination (普及) and unification (統一). Isn't this the urgent issue (緊急한 問題)? Even if we decide on the usage of a few nouns or verbs now, looking at the whole picture, this is merely a drop in the ocean (九牛의 一毛에 不過) and seems unlikely to have any significant effect (別한 큰 効果). Therefore, I earnestly hope that those interested (有意) in this field will focus (着眼) on the fundamental policy (根本方針).
+
+However, as I cannot remain silent on the issues raised separately, and being someone originally without any research (何等의 硏究가 없는 사람) on the Correct Sounds (正音), I will just write a few words based on common sense (常識的). If there are errors (誤錯), I hope you will forgive me. <67>
+
+One. Abolishing the vowel , is acceptable (無妨).
+Originally in Hunminjeongeum, 、 was a combined sound (合音) of ㅣ and ㅡ, different from ㅏ. In the interim, it was misused (誤用), leading to 、 and ㅏ being seen as identical. However, even thinking with common sense, among the few vowels, there is absolutely no reason (萬無) to have two characters for the same sound. Due to misuse in the interim, the pronunciation of 、 has been almost lost (失) today, so abolition is acceptable.
+Two. Writing ㅺㅼㅽㅾ etc. using the doubled consonant forms (並書體) like ㄲㄸㅃㅉ is acceptable (可).
+This was the original usage (原用法) in Hunminjeongeum.
+Three. Deciding not to use ㅑㅕㅛㅠ in the ㄷㅅㅈㅊㅌ series cannot be simply determined (簡單하게 決定키 難함). There is a clear difference (確實히 差異) in pronunciation between ㅏㅓㅗㅜ etc. and ㅑㅕㅛㅠ etc. Recently, due to frequent mixing (混用), distinguishing and using them has become extremely difficult (甚히 困難). Therefore, it would be convenient (便利) to abolish them and unify, but in the Western provinces (西道地方 - P'yŏngan provinces), the distinction between the two sounds still exists (아즉 兩音의 區別있음).
+Four. Changing words starting with the ㄴ series to start with ㅇ is unacceptable (不可).
+In current Seoul (京城) pronunciation, the initial ㄴ sound seems absent, but in the Western provinces pronunciation, the distinction still exists (至今도 區別이 있음).
+Five. For final consonants (終聲), besides ㄱㄴㄹㅁㅂㅇ, it is acceptable (可) to use ㄷㅈㅊㅌㅍㅎ etc. as well.
+Hunminjeongeum stated "Final sounds reuse initial sounds" (終聲은 復用初聲) and they were actually used. Using them also provides phonetic accuracy (正確) and convenience (便利).
+Six. It seems acceptable (可할뜻함) to write ‘드러가’(tŭrŏga), ‘거러가’(kŏrŏga), ‘버서’(pŏsŏ) as ‘들어가’(tŭrŏga), ‘걸어가’(kŏrŏga), ‘벗어’(pŏsŏ).
+Since 들 (tŭl - enter), 벗 (pŏt - take off), etc., are verb roots (語根), considering the roots of general verbs and their conjugations (變化) should make this clear (明白).
+Seven. Since the combined sound (合音) of ㅣ and 니 is ㅕ, it seems acceptable (可할뜻 함니다) to decide on one and use it based on phonetic usage (音使).
+Eight. For adjectives with a ㅂ final consonant like ‘덥’(tŏp - 暑 - hot), ‘춥’(ch'up - 寒 - cold), ‘묵업’(mugŏp - 重 - heavy), etc., it is customary (習慣上) not to pronounce the ㅂ before ‘어’(ŏ), ‘으’(ŭ), ‘이’(i), etc. Therefore, writing according to euphonic change (音便) is acceptable (可).
+Nine. Even for words originally from Chinese characters (漢字), once they have completely become Korean words (完全한 朝鮮말을 成한 以上), writing them as commonly pronounced (普通에 發音하는대로) would be convenient (便利). However, this too is difficult to decide (定하기 難함) based on the opinions of one or two individuals.
+Ten. It seems good to write 名 (name) as ‘이름’ (irŭm), 兒 (child) as ‘아희’ (ahŭi), and 天 (heaven) as ‘하늘’ (hanŭl). However, regarding 天, recently some people write it as ‘한울’ (hanul) based on meaning (意味上). This too is difficult to determine (定하야지기가 어렵고) by the assertion of one or two individuals and should likely be decided (定하여야 羅常할뜻함) through consultation (協議) among many scholars (多數 學者).
+
+Yi Sang-ch'un (李常春), Teacher at Songdo Higher Common School (松都高等普通學校敎論)
+
+Here are my thoughts:
+One. Abolish the ‘、’ sound? Rather than abolishing it, it cannot be used and there is no place to use it. ‘、’ is a combined sound of ㅡ and ㅣ. However, it is not pronounced that way, but read as ㅏ, 니, or ㅡ. It is better to write according to the sound produced.
+Two. How about using the doubled consonant form for reinforced consonants (된시옷)? Not only did Hunminjeongeum specify writing them doubled like ‘ㄲㄸㅃㅆㅉ’ (並書), but doubled consonants also align with phonetic principles (音理). The reinforced 'sios' form (된시옷) is incorrect (잘 몯이다).
+Three. Should ㄷㅅㅈㅌㅊ <68> also combine with ㅑㅕㅛㅠ? Below ㄷㅅㅈㅌㅊ, ㅑㅕㅛㅠ are pronounced as ㅓㅢㅗㅜ. There are no words requiring this combination (except for abbreviations like ‘합쇼’(hapsyo), ‘괜챦’(kwaench'an)). However, for Sino-Korean words, it is better to write ‘뎌됴티튜’ (tyŏ dyo t'i t'yu) as ‘저조처추’ (chŏ cho ch'ŏ ch'u).
+Four. How about changing the initial consonant ㄴ to ㅇ at the beginning of words? There is a habit (習慣) where ㄴ drops and is not pronounced only above ㅣㅑㅕㅛㅠ (while it always remains above ㅏㅓㅗㅜㅡ) (e.g., ‘님검, 냠냠하넌 놈’ (nimkŏm, nyamnyamhanŏn nom) becoming ‘임검 냠냠하 연놈’ (imkŏm, nyamnyamha yŏnnom)). However, just because the habit exists, we cannot write ‘임검 냠냠 연놈’.
+Five. Should ㄷㅈㅎㅋㅌㅍㅊ also be used as final consonants (받힘)? Yes. All consonants (子音) must be used as final consonants. Only then can writing align with phonetic principles (音理) and represent speech sounds accurately (말소리대로).
+Six. Which is correct: ‘들어가’(tŭrŏga)/‘드러가’(tŭrŏga) and ‘벗어’(pŏsŏ)/‘버서’(pŏsŏ)? ‘들어가’ and ‘벗어’ are correct. ‘드러가’ and ‘버서’ are errors resulting from failing to distinguish the original word (元語) and the particle (토). ‘들어가’ is an idiom (熟語) formed by the verb ‘들’ (tŭl), particle ‘어’ (ŏ), and verb ‘가’ (ka). ‘벗어’ is formed by adding the particle ‘어’ to the verb ‘벗’ (pŏt).
+Seven. What is the standard for ‘막히어서’(mak'iŏsŏ)/‘막혀서’(mak'yŏsŏ), ‘그리어서’(kŭriŏsŏ)/‘그려서’(kŭryŏsŏ), and ‘되어서’(toeŏsŏ)/‘되여서’(toeyŏsŏ)? ‘막히어서’, ‘그리어서’, ‘되어서’ are correct. ‘막혀서’ and ‘그려서’ are errors of mixing (混綴) the original word and the particle. ‘막히’ (mak'i) and ‘그리’ (kŭri) are verbs; ‘어서’ (ŏsŏ) is a particle. Although ‘어서’ is sometimes written as ‘여서’ (yŏsŏ), if the meaning is the same and the sound is not distant, it is better to consistently use only ‘어서’ and write ‘되어서’ instead of ‘되여서’.
+Eight. What is the standard for ‘덥으니 짓으니 울니’ (tŏbŭni chisŭni ulni) versus ‘더우니 지으니 우니’ (tŏuni chiŭni uni)? ‘덥으니 짓으니 울니’ is correct. ‘덥으니’ becoming ‘더우니’ is due to the habit (習慣) where the ‘ㅂ’ of adjectives with a ‘ㅂ’ final consonant changes to ‘우’ before a vowel. ‘짓으니’ being read as ‘지으니’ is due to the habit (버릇) of ‘ㅅ’ dropping between two vowels. ‘울니’ becoming ‘우니’ is due to the habit of verbs or adjectives with an ‘ㄹ’ final consonant dropping the ‘ㄹ’ before a particle starting with ‘ㄴ’. While habits cannot be ignored (侮視) to some extent, one cannot blindly follow (좋을수는 없다) habits either.
+Nine. How about standardizing words derived from Chinese characters (漢字) based solely on our pronunciation (우리 音)? The lifeblood (生命) of a phonetic script (音符文字) is writing according to sound. Regardless of Chinese or English characters, just writing according to the word's sound is sufficient. (For example, ‘시월(十月)’, ‘이천(利川)’, ‘천지(天地)’, ‘나주(羅州)’, like this). However, it is better to write words like ‘녀자(女子)’, ‘년령(年齡)’ as they are. (Refer to Article 4).
+Ten. What is the standard for ‘한울 하늘 하날’ (hanul hanŭl hanal), ‘이름 일음 일흡’ (irŭm irŭm irhŭp), ‘아이 아희 아해’ (ai ahŭi ahae)? ‘한울’ (hanul), ‘니름’ (nirŭm - not 이름), ‘아이’ (ai) are correct. ‘한울’ is a word with ‘한’ (han - meaning big) as its head. ‘니름’ is formed by adding ‘ㅁ’ to the verb ‘니르’ (niru - to name/call) to make it a noun. ‘아이’ is standardized based on the speech of all of us (우리 몯은 이의 말). ‘아해’ (ahae) is an error influenced by the Chinese characters 兒孩. ‘아희’ (ahŭi) seems to be a secondary error from ‘아해’.
+My explanations became too simple. For details, please refer to my humble work (拙著) "Chosŏnŏ Munbŏp Cheilp'yŏn" (朝鮮語文法 第一編 - Korean Grammar Volume 1).
+
+Ŏ Yun-jŏk (魚允迪), Professor at Kyŏngsŏng Imperial University (京城帝國大學敎授)
+
+Respectfully replying: Although I have studied (硏究) our vernacular script (我 言文) for many years (多年), I have not yet reached a level where I can determine anything with self-confidence (自信). Therefore, I dare not (不敢) publish even slight research. However, due to the gravity (鄭重) of your inquiry (貴問), I offer my views (所見) up to now as follows. Regarding this point, I earnestly hope (切望) for your understanding (涵諒).
+One. The character 、 in the medial sounds (中聲) is the point of origin (發源 基點) for all medial sound characters. Therefore, its abolition is unacceptable (不可). At the same time, if this is abolished, it is said that language rules (語法) and grammar (文法) can hardly be organized (殆히 整頓수가 없다). (I call these inherent initial, medial, and final sounds (固有 初中終聲) and dislike calling them unattached consonants and vowels (不襯着 子母音).)
+Two. For reinforced consonants (돈시옷), both doubled same characters (同字 竝書) and different characters (異字 竝書) are stipulated (規定) in Hunminjeongeum, and the situations (境遇) where they are used differ (各異). It seems right to use both (竝用) according to the situation.
+Three. Not using the combination of initial sounds ㄷㅅㅈㅊㅌ with medial sounds ㅑㅕㅛㅠ would seem to destroy the common phonetic tone (共通的 音調) of East and West and cause defects (缺陷) in the precise meaning (精義) of the Correct Sounds (正音).
+Four. Words starting with ㄴ (ㄴ頭) are pronounced like those starting with ㅇ (ㅇ初). However, this is the same as words
+
+---------------------------
+
+
+잡지명	동광 제9호
+발행일	1927년 01월 01일
+기사제목	우리글 表記例의 몇몇
+기사형태	설문
+
+우리글 表記例의 몇몇
+오늘날 우리들의 우리 글 쓰는 법이 퍽 不精함니다. 세계에 둘도 없는 가장 좋은 글을 더 좋게 만들어 쓰지 못하고 이렇게 錯雜不統一하게 쓰는대 대하여는 누구나 적이 맘이 있다면 한숨하지 아니하지 못할 것이외다. 이제 우리가 우리 글을 좀 다스리고 바루잡아 쓰도록 함이 당연한 일일뿐더러 무엇보담도 크게 急務인 줄 앎니다.
+그런데 원래 國字 改良의 사업이란 것이 진실로 一時一人의 主張으로써 그리 얼른 되는 것이 아니매 이로붙어 다수한 時日을 두고 다수한 사람의 연구의 힘으로 써라야 필경 바루잡힐 날이 있을 것이라 함니다. 그러나 爲先 하로 바삐 곧히어 쓰지 아니하면 안될 우리 글 表記함에 용례 몇몇을 뽑아서 都下 전문학교 고등보통학교에 우리말 담임하여 게신 여러 선생님께와 및 斯界에 造詣가 깊으신 몇분 어른에게 해답을 구하였던바 다행히 일쯕붙어 本誌를 사랑하여 주신 여러분께로붙어 懇篤한 回答이 오았음니다.
+이것으로 말하면 우리 글 연구의 근본원리를 알아보는대 관한 것이 아니요 다만 幾箇 些小한 用字의 實例에 그치고 말은 것이로되 이로써 우리 日常 文字 使用上에 그 응용의 길이 매우 크리라 생각하나이다. 독자 여러분은 이 各方面의 연구를 서로 比較對照하며 자유자재로 取捨選擇하여 바른 본 하나를 尋繹하시기에 또한 흥미가 없지 아니할 줄 아나이다. -記者-
+(독자께서 혹시 웨 이렇게 各人 各軆의 不統一한 書法을 사용하느냐고 나무람도 있을 것이외다. 마는 本欄에는 다만 집필하신 여러분의 쓰신 原稿 그대로 하였기 때문이오니 諒*하소서.) ＜54＞
+
+問題
+1. 母音中 字를 廢用 與否?
+例하면 「」 「」을 「달」 「마음」으로 씀이 어떨가 함.
+2. 된시옷이라 일컷는     等을 ㄲ ㄸ ㅃ ㅉ의 並書體로 씀이 如何?
+例하면 「」 「」 「」 「」 等을 「꿈」 「때」 「뿔」 「짝」으로 씀이 어떨가 함.
+3. ㄷ ㅅ ㅈ ㅊ ㅌ 行에 ㅑ ㅕ ㅛ ㅠ 등의 複母音을 합용하는 等字를 쓰지 아니할 與否?
+例하면 「뎌긔」(彼處) 「죠션」(朝鮮) 「턴샹」(天上) 등을 「저긔」 「조선」 「천상」으로 씀이 어떨가 함.
+4. 말의 頭字가 ㄴ行으로 될 때 ㅇ로 改用하게 할 與否?
+例하면 「녀름」(夏) 「니르」(至) 등을 「여름」 「이르」로 씀이 어떨가 함.
+5. 받힘은 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ 이외에 ㄷ ㅈ ㅊ ㅋ ㅌ ㅎ 등도 다 사용하여야 할 與否?
+例하면 「받」(受) 「찾」(尋) 「좇」(從) 「같」(如) 「높」(高) 「좋」(好) 「앉」(坐) 「옳」(可) 「핥」(舐) 「읊」(詠) 等字를 씀이 어떨가 함.
+6. 「드러가」(入去) 「거러가」(步行) 「버서」(脫)라도 쓰고 「들어가」 「걸어가」 「벗어」라도 쓰니 어느 것을 標準?
+7. 「되여서」(爲) 「막혀서」(防) 「그려서」(畵)라도 쓰고 「되어서」 「막히어서」 「그리어서」라도 쓰니 어느 것을 標準?
+8. 「더우니」(暑) 「지으니」(作) 「우니」(嗚)라도 쓰고 「덥으니」 「짓으니」 「울니」라도 쓰니 어느 것을 標準?
+9. 우리말을 漢字로 된 말까지라도 다 國音을 標準하여 씀이 如何?
+例하면 「십월」(十月) 「녀」(女子) 「리천」(利川) 등을 우리말로 쓸 때에 「시월」 「여자」 「이천」으로 씀이 어떨가 함.
+10. 아레와 같은 말은 3種이상으로 쓰니 어느 것을 標準?
+한울(天)     하늘     하날
+일음(名)     이름     일홈
+아희(兒)     아이     아해
+
+培材高等普通學校敎諭 金鎭浩
+正音應用例
+1. 字는 「ㅣ」 「ㅡ」의 合音이오 ㅏ와 갓지 아니한 지라 우리 말에 「이으」의 音이 있기를 기다릴지오 除去는 不可함. ＜55＞
+2. 된밧침은 항상 제 音으로 發하여야 될지니 ㄱ는 ㄱ로 ㄷ는 ㄷ로 발음하겠거늘 웃지 성질이 不同한 ㅅ으로만 된 밧침을 하리오. 고로 제 音끼리 ㄲ ㄸ ㅃ  이러케 씀이 可함.
+3. ㄷ ㅅ ㅊ ㅌ 행에 ㅑ ㅕ ㅛ ㅠ 合用을 廢치 못할 것이외다. 그런 間音이 있기 때문에.
+4. ㄴ 初聲을 ㅇ 初聲으로 改用함은 不可하니 ㅇ는 有若無이오. ㄴ는 介音에 속하야 성질이 不同함.
+5. ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ 14字는 正音 發佈當時에 初終聲에다 쓰라고 하얏으니 初終에 並用함이 可함.
+6. 「드러가」를, 「들어가」로, 「거러가」를, 「걸어가」로, 「버서」를 「벗어」로 곷일 것.
+7. 「여」 「혀」 「려」等 字는 「이어」의 合 「여」요 「이허」의 合이 「혀」요 「이러」의 合이 「려」라 縮用도 伸用도 다 無妨함.
+8. 「더」와 「지」와 「우」가 다 명사를 일울 슈 없고 「덥」 「짓」 「울」 等字는 다 명사 혹 형, 動이 될 슈 있는 까닭으로 後者를 主함.
+9. 漢字가 朝鮮語된 것이 만으니 國音을 표준하되 當字를 쎠어야 됨니다. 10月을 「십월」 혹 「시월」로, 여자를 「녀」로 利川을 「리천」으로.
+10. 이런 명사들은 별로 관계가 없임니다. 디방을 따라서 다르기도 하고 풍속을 따라셔 다르기도 하야 일졍한 述語가 나기를 기다릴 것이 올시다.
+
+培花女子高普校敎諭 金智煥
+一問. 現時 우리 發音中에 字의 發音이 없다하여 廢用說이 가끔 있으나 우리 말을 찾아 나아가는 이때에 있던 말을 갑작히 廢함이 어떠할가 하는 생각이 있음니다. 全南地方에서는 이 발음을 現今도 할 수 있다하니 더욱 廢함이 불가할 듯 함니다. 그럼으로 나의 의견으로는 제 發音을 찾아 쓸 때가 있기를 기다리고 廢用하지 아니함이 可할 둣 함니다.
+二問. 並書體로 쓰어야 마땅함니다.
+三問. 中央語를 표준으로 하고 보면 무용하다고 생각될넌지 몰으나 원래 言文에 일정한 법이 서지 못하여 지금 이것을 셰우려고 하는 중에 있으며 이는 國音學者에게 맡기어 地方語 중에서라도 (平安道 지방에서 「감사」를 「감샤」로, 「장」을 「쟝」으로, 「당」을 「댱」으로, 「창가」를 「챵가」로, 발음함) 可히 참고될 것은 널리 控求하여 사용할 수 있는 것을 생각함이 가하지 아니할가 함니다.
+四問. 우에 수차 말한 바와 같이 어떠한 지방에서도 한 지방에서 발음하는 것이 있으면 우리는 그것을 한번 생각할 가치가 있으리라고 함니다. 이도 또한 現今 平安道 지방에서 발음할 뿐만 아니라 사용함니다. 萬一 平安北道 지방에서 「여름」이라고 하면 「夏」라고 듯지 못하고 곳 나무 열매(열매를 여름이라고도 함)를 연상하게 됨니다. 그럼으로써 이 두말도 속히 改用함보다 더 한번 생각하여 본 뒤에 取捨함이 어떠할가 함니다.
+五問. 원래 訓民正音에 『終聲은 다시 初聲을 쓴다』한 명언이 있음과 또 그렇게 사용하였던 시대가 있었음도 불구하고 그 뒤에 訓蒙字會의 잘못으로 생긴 過失이니 우리는 잘못함을 깨다른 뒤에는 곳 곷는 이것이 마땅함니다. 그럼으로 다 사용하는 것이 可함니다.
+六問. 八問. 「들」 「걸」 「벗」 「덥」 「짓」 「울」등이 語根이오＜56＞ 「들」 「거」 「버」 「러」 「지」 「우」 등이 語根이 아님으로 하여서 「들어가」 「걸어가」 「벗어」 「덥으니」 「짓으니」 「울니」로 쓰는 것이 가한 줄로 생각함니다.
+七問. 「되어서」 「막히어서」 「그리어서」라고 쓰는 것이 可함니다.
+九問. 漢文이 우리 말을 壓倒하여 우리 것을 다 일허버리고 말은 것이 우리의 큰 遺憾인데 이제 또 그른 것을 알고서야 어찌 곷이지 아니하겠음니까. 그럼으로 漢字를 표준하여 발음할 것이 아니라 우리 國音을 표준하여 씀이 마땅함니다.
+十問. 하늘 아이 일홈이 옳은 줄로 생각됨니다.
+
+培花女子高普校敎諭
+1. 「」字는 「ㅏ」音으로는 쓰지 못합니다. 「ㅣ」 「ㅡ」의 混音으로 쓰는 것이 좋습니다. 그 이유는 첫재는 「」가 「ㅣ」 「ㅡ」의 混音됨이 분명함이오. (周時經著 文典音學을 참고). 둘재는 우리말에 「ㅣ」 「ㅡ」의 混合音이 분명히 있읍니다. 硏究家 중에 「ㅣ」 「ㅡ」의 混音을 「ㅕ」의 長音 혹 上聲으로 해석하야 長音標를 「ㅕ」에 붙이어 쓰랴하는 이가 있으니 이것은 좀 더 考究할 필요가 있습니다.
+2. 並書로 쓸 것임니다. 「ㄱ」는 혀뿌리가 軟口盖(목젓 가깝게)에 닿고 그 새이로 갈리어 나오는 음인데 혀뿌리가 좀 세게 닿으면 「ㄲ」가 되는 自然態를 가지었습니다. 그런데 「ㅅ」는 혀끝이 硬口盖(前口盖)에 닿아 갈리어 나는 것이니 「」를 내이랴면 혀끝이 硬口盖에 올나붙어 갈리는 음을 내랴는 상태를 취하다가 다시 혀끝이 네리어 오고 혀뿌리가 새로히 軟口盖에 붙어야 할 것이니 不自然은 姑捨하고 도모지 음이 成音이 몯되는 것임니다. 「」 「」 「」도 다 이와 같습니다.
+3. 外國語 取音(例 샤꾸하찌 쬰손 等) 혹 소설 극본에서 지방 及 개인의 사투리를 잘 묘사하기 위하여 쓰어야 할 것임니다. 漢字音의 구속에서는 벗어나야 합니다.
+4. 九問과 같이 말하겠습니다.
+5. 다 사용하여야 합니다. 첫재는 正音의 근본 정신이 그러하고 둘재는 아니 쓰면 文法上 조사가 錯亂하여 정리가 아니 될 염려가 있고 셋재는 쓰면 글자를 보고 얼는 그 뜻을 會得할 수 있는 便宜도 없지 아니합니다.
+6. 「들」과 「가」와 「걸」과 「벗」은 다 동사인데 「어」가 두 동사 새이에서 連接助詞가 되야 「들어가」 「걸어가」 「벗어...」로 된 것입니다. 「러」는 장차 하랴는 態의 助詞이고 「서」는 혹 주어의 助詞가 될 듯한 것뿐인즉 「드러가」 「버서」 등은 아주 亂筆이라고 할 수 있읍니다. 그러함으로 문제에 나종 쓴 것이 옳습니다.
+7. 不完全動詞 「되」와 동사 「그리」와 被動 變態인 「막히」아래에 連接助詞 「어서」가 합하야 성립되는 말덜이니 나종 것이 옳습니다.
+8. 「덥」 「짓」 「울」덜이 語根인즉 나종의 것을 쓰는 것이 좋고 音便의 변화된 것은 따루 표를 하여 쓰도록 함이 좋겠습니다.
+9. 發音文字인 우리의 글인즉 발음대로 쓰고 京城말을 準用함이 좋을 것임니다. (首府語 표준은 나라마다 하는 것이니까.) ＜57＞
+10. 「하날」 「하늘」은 「」字에서 병이 들어 갈린 것 같습니다. 말에는 「하눌」이라고 부름이 보통인 듯하니 「하눌」노 씀이 좋슴니다. 그런데 「한울」이라고 쓸 필요는 없읍니다. 「한」이라던가 「울」이라는대 무슨 의미가 있다면 몰르거니와 그러하지 아니하면 「ㅇ」字 하나를 더 쓸 필요가 없습니다. 「이름」이란 말은 만히 쓰이지 아니 하는 듯하니 「이름」이라고 씀이 좋겠습니다. 「한울」의 쓰는 법을 반대한 것과 같은 이유로 「일음」이라고 쓰는 것은 반대합니다. 아이는 줄이어 말할 때에 「애」라고 합니다. 「아이」는 「애」로 변할 증거가 (略)있으나 「ㅏ」와 「ㅣ」간에 「ㅎ」가 끼인 것이 줄인다고 「애」로 변할 수는 없습니다. 그러하므로 「아이」로 씀이 좋습니다.
+
+中東學校敎諭
+敬復者 물어 주신 우리 글 표기에 대하여 평소에 생각하는 바 없지 아니하였사오나 혹은 역사를 존중하고저 하고 혹은 실용을 위주하고저 하는 두 방향에 이앗기여 아즉 일정한 主見을 세우지 못하여 오았읍니다. 그것은 두 방향이 대등한 이유를 가지고 있는 까닭이올시다. 그러므로 개인의 擅斷으로 할바 아니다. 衆議公見으로 일반이 의거할 표준을 협정하여야 할 것이올시다. 그러나 불행히 우리에게는 그리할 기관이 없었으니 오날의 우리말의 현상을 보게 된 것이 우연한 일이 아니거니와 이제 貴社에서 우리말 정리 실행에 先鞭을 지으시었으니 우리말을 걱정하는 사람으로 그 勇斷을 경하하지 아니할 수 없는 바오며 그 盛意를 協贊하려는 衷情이 또한 懇切하여이다. 이에 質疑에 대하며 條目을 딸아 愚見을 말슴하오려니와 大體의 精神 歷史的 或은 語源的 依據보다도 學理를 둥지지 아니하는 範園에서 우리말의 現狀을 尊重하고 實用에 버성기지 아니하게 하자는 것이 올시다.
+
+記
+一. 音을 六堂같은 이는 原始音이니 무엇이니 하는 것 같으나 이제 우리말 가온대 그런 音의 實在를 認定할수 없으니 勿論 廢止하는 것이 可하지요. 萬一 周時經先生의 말슴하신 것 같은 音으로 使用될 境遇가 있다면 차라리 「이으」로 表示하는 것이 좋을가합니다.
+二 勿論 ㄲ ㄸ ㅃ ㅉ로 쓰는 것이 우리글 지으신 어른의 本意에 맞고 또 合理的일 것 같습니다.
+三 쓰지 아니하는 편에 加擔합니다. 도모지 그것 아 쓰기에 공연한 精力을 얼마나 허비하게요.
+四 大體가 發音現象대로 쓰자는 主張이올시다. 「녀름」「니로」같은 말은 博物館에나 모시어 둡시다.
+五 입으로 말할때는 「낫」(鎌)「낮」(晝)「낱」(箇)으로 區別하면서 붓으로 쓸적에는 「낟」하나로 휩싸버리니 그런 不合理한 일이 어대 있겠습니까. 말생긴대로 쓰자면 ㄷ ㅈㅊㅋㅌㅍㅎ도 바침으로 쓰어야지요.
+六 「들어가」「걸어가」「벗어버리」로 쓰여야지요. 우리 主張은 말몸을 밝이어서 뜻있는 單語를 세우자는 것인 까닭이올시다. 그러나 읽을적에는 「거러가」「드러가」「버서버리」로 읽힙시다. 아차 이것은 군소리 올시다.
+七 「되여서」만은 「막혀서」「그려서」와 問題가 다릅니다. 「막혀서」「그려서」는 六項에 말슴한 主張으로 보아 「막히여서」「그리여서」로 갈아을 것이나「되여서」는 그 自體가 한 變則이니 『「되어서」「하여서」「뛰여서」「데여서」「태여서」와「오앗」「돌아서」「갈아서」「」가아서「잡아서」와「두어서」「뜨어서」「얻어서」「묵어서」「썩어서」』와 같이「여」「아」「어」세길로 쓰이는 것이 있어 이미 말외 버릇을 고치기 어려운 것이 있으니 아즉한 例外로 그대로 두는 것이 어떨가요.
+八「더우니」「지으니」로도 쓰고 「덥고」「짓고」로도 쓰여서 두몸을 두는 것이 좋습니다. 「울니」로 쓰고 「우니」로 發音만 시기지요.
+九 勿論 國音을 標準할 것이올시다. 그렇기 때믄 漢子에는 한字에 여러 音을 두어야 합니다. 가령 利川(이천) 大利(대리)와 같이.
+十 「天」은 理想을 딿아 「한울」
+「名」은 語源을 딿아 「이름」
+「兒」는 恒語를 딿아 「아이」로 하는 것이 좋지요.
+
+中央高等普通學校論 權悳奎
+一 母音中、字는 現今 實用에는 適當치 못하다 생각함.
+二 ㅺㅼㅽㅾ은 ㄲㄸㅃㅉ으로 쓸 것. 받힘이나 다른 說明으로는 쓸수도 있음.
+三 ㄷㅅㅈㅊㅌ行에 複母音을 單母音으로 내는 漢字音은 廢止하여도 좋으나 바른말로 實際音을 要求할 때는 廢止할수 없다 생각.
+四 말의 頭音이 ㄴ일때에 쓰기는 그대로 쓰고 ㄴ이 頭音으로 날때에 發音치 아니한다하면 그만.
+五 받힘은 子音을 全部 쓸 것.
+六 「들어가」「걸어가」「벗어」를 標準으로 함이 좋을뜻.
+七 「되여서」「막혀서」「그려서」中에 「되여서」는 「되어서」의 變한 것이요 「학히어서」「그리어서」처럼 겹치어 되는 것은 아니며 「되여서」가 「되어서」와 꼭 같다 하면 그만이요 「막히어서」「그리어서」를 「막혀서」「그려서」와 같이 通俗으로 理論에도 틀림이 없다 생각.
+八 「덥으니」를 더우니로 하는 變則이 있다 하고(곳 ㅂ 받힘이 ㅜ로 變하는 때에 子音 밑에 달리는 「으니」로는 自然 母音 밑에 「니」가 될 것)「짓으니」는 지으니로 부르는 習慣 곳 ㅅ이 주는 習慣으로 보고 「우니」도 「울니」의 ㄹ이 죽는 習慣으로 보아 個人의 語音의 標準으로 맡기드라도 아무 關係가 없을뜻.
+九 十月ㆍ六月을 시월ㆍ류월로 내는 特例로 하고 女子를 「여자」라 하는 것은 ㄴ頭音을 우리말에 내지 아니하는 것이라 「」「四問」과 같이 處理하고 利川을 「이천」이라하는 것에 對하야는 ㄹ이 母音의 우에서 처음 날 때에 ㄴ으로 變하(ㅏㅓㅗㅜ의 우에서 例하면 羅氏를「나씨」盧氏로「노씨」漏水를 「누수」라 하는 따위)든지 줄(ㅡ외 우에서 例하면 利川ㆍ李氏를 「이천」「이씨」兩班을 「양반」呂氏를 「여씨」料理를 「요리」柳ㆍ劉氏를「유」(兪)씨라 하는 따위)든지 하는 두 規則 곳 習慣이 있으니 첫소리는 이 두 規則으로 處理할수 있다고 생각함.
+十 天의 我語는 「한울」
+名――니름으로 標準이 좋을뜻
+兒의 우리말은――「아이」――「애」요 兒의 漢文語는＜65＞「兒戱」「兒孩」두가지가 있은즉 우리말의 原語로는 「아이」 標準이 되겠고 兒戱와 兒孩는 外來語 곳 漢文語의 熟語인 즉 아이와 兒戱 兒孩를 區別하야 보는 것이 좋을가 합니다.
+
+普成高等普通學校敎論 李奎昉
+一 母音中, 字를 廢用與否. 純全한 朝鮮말에는 大部分「、」가 「一」로 變하였은즉 쓰지 않더라도 좋으나 文學上으로는 아주 廢止할수 없으니 文法 敎授할 때에는 敎授함이 좋을 듯 합니다.
+二 ㅺㅼㅽ等은 ㅾㄲㄸㅃㅉ의 並書體로 쓰는 것은 問題될것이 없는 줄 압니다.
+三 標準語에서는 ㄷㅅㅈㅊㅌ行에 ㅑㅕㅛㅠ를 合用하는 等字를 쓰지 안이 함도 좋으나 動詞ㆍ形容詞等이 接續하는 토「어」에 連할 때에 줄이어 쓰는 데는 꼭 쓰어야 될줄 압니다.
+(例)오시어서=오셔서
+가지어서=가져서 等
+四 「냐녀뇨뉴」가말 우에서는 「야여요유이」로 發音 되나 쓰기는 근본대로 바로 쓰는 것이 좋을줄 압니다. 그 理由는 말아래에서는 本音을 내는 까닭이 올시다.
+(例)「올녀름」ㆍ「앞니」等을 만일 「올여름」「앞이」로 쓰면 「오려름」「아피」로 發音되는 까닭이요.
+五 받힘은 勿論 ㄷㅈㅊㅋㅌㅍㅎ 等도 다 쓰어야 합니다. 이런 것들을 안이 쓰면 말과 文法이 맞지 않고 도리어 學習하기에 困難합니다.
+(例)「山이」「물이」하는 「이」는 토요「먹어서」「접어서」하는 「어서」도 토울시다. 그러면 「꽃이」「닢이」「젖어서」「덮어서」에도 母論「이」「어서」가 토가 되는 것인즉 다른 받힘으로 使用하면 本音을 잃을 것이요 因하여 말이 안되고 말것이올시다.
+六 「들어가」「걸어가」「벗어」와 같이 쓸것이니 「어」는 動詞나 形容詞 밑에 쓰이는 接續하는 토가 되는 接로 變則할수 없는 것이올시다.
+七 「되어서」「막히어서」「그리어서」로 쓸것이니 「어서」는 接續하는 토요 「여서」는 「하여서」라 하는데만 例外로 스고 다른데는 쓰지 안는 것이며 「ㅣ」音 아래에 「어」가 오면 音의 原理上「어」는 「여」로 發音되기 쉽으나 「여」로 쓰지는 몯할것이요 規則 있게 쓰랴면 「막히어」「그리어」로 쓸것이올시다.
+八 「ㅂ」「ㅅ」를 母音 우에서 習慣으로 發音하지 안는 것이 있으니 文法上에 規則으로 制定한 以上에는 原말대로 쓰고 發音만 習慣대로 함이 좋을 듯 합니다. 勿論 지금도 嶺南이나 關北地方에는 그대로 남어 있으니 더욱 편리할듯하며 「더우니」「추우니」의 「우」는 「ㅂ」을 略하는 同時에 空然히 들어가는 音이니 文法上으로 보면 옳다할수 없는 것이올시다.
+(例)「덥어서」「덥으니」「짓어서」「닛어서」「짓으니」「닛으니」로 쓰고 發音만 「더어서」「더으니」「지어서」「니어서」「지으니」「니으니」로 함이 좋을듯하외다.＜66＞
+「우니」를 「울니」라고 쓰는 것은 틀림으로 압니다. 動詞中에는 「ㄹ」받힘을 붙이는 말로서 「ㄴ」우에서만 그 「ㄹ」받힘을 빼는 것이 많습니다 다음에 그 例를 들겠습니다.
+(例)운다 우니 운즉. 울고 울지 울어. 산다 사니 산즉. 살고 잘지 살어. 준다 주니 준즉. 줄고 줄지 줄어.
+九 우리말이 漢字로 된 말 中에는 國音대로 쓸 것도 있고 漢音대로 쓰어야 할 것도 있는줄 압니다. 假令「十月」「六月」「白川」같은 것은 「시월」「류월」「배천」과 같이 씀이 좋으나 「女子」「利川」같은 것은 「녀자」「리천」으로 씀이 옳을 줄 믿습니다. 그것은 다른 말 아래에서는 잘 되는 까닭이요.
+(例)남녀(男女) 고리(高利)
+十 (天)=하늘
+(名)=일음 (이름도 可)
+(兒)=아이
+로 씀이 좋을듯합니다. 古文에는 「하」로 쓰었는데 母音「、」와「ㅡ」를 混同하여 쓴 例를 보면 「하」이나 「하늘」이 같은 것이요 또 今日 即 今天을「오늘」이라고 쓰는 것을 보더라도 「하늘」로 씀이 좋을듯하며 其他 「일음」「아이」와 같은 것은 別로 理由를 말하지 않더라도 지금 다 잘 쓸줄 아는 것인듯합니다.
+
+京城女子高等普通學校敎論 張膺震
+우리말의 完全한 發音을 遺憾없이 發表하도록 發明된 訓民正音이 오랫동안 虐待를 받아 規則的으로 가르치며 배으지를 못하고 다만 婦女와 아희들의 되는대로 學習함에 放任하야온 結果 誤錯에 誤錯이 생기고 訛傳을 거듭하야 畢竟 原發音의 正音까지도 많이 잃어버리고 今日과 같은 錯雜 不規則한 用法을 보게 되엿으니 이것을 訂正하야 一定하게 하는 것은 文化發展上에 크게 有益한 事業이오 敎育上에도 甚히 重大한 問題임니다. 그러나 이것은 一二個人이나 數三團體의 主張으로 容易히 實行될 것은 안이오 적어도 初等敎育의 敎科書 編纂으로 붙어 爲始하야 學校敎育에는 勿論, 新聞 雜誌 같은데서 一齊히 施行을 하도록 하여야 될것인즉 이것은 國家的 事業이 안이면 容易히 바랄수가 업는 것임니다.
+그러나 今日 朝鮮의 形便이 그러케 되기가 어려운 事情에 잇은즉 民間側에서 이 事業을 經營하야 보랴면 적어도 여러 團體(朝鮮語硏究 團體로 爲始하야 敎育關係者 新聞雜誌 關係者等)가 聯合을 하야가지고 一定한 方針下에서 爲先 第一着으로 朝鮮語辭典을 刊行하며 講習會같은 것을 開催하야 一般의 普及과 統一을 圖하는 것이 緊急한 問題가 안일ㅅ가 함니다. 今에 數三個의 名詞나 動詞의 用法 같은 것을 定한다 한들 全體로 보면 이것은 九牛의 一毛에 不過한 것이라 別한 큰 効果가 잇을 것 같지도 안사오니 이 方面에 有意하신 분들은 아모록 根本方針에 着眼이 게시기를 懇切히 바라는 바임니다.
+그러나 別項 提出된 問題에 對하야 一言이 없을수 없는 中에 나는 元來 正音에 對하야 何等의 硏究가 없는 사람임으로 다만 常識的의 멧마듸 말을 적는 것이 온 則 誤錯이 잇으면 容恕하야 주시기를 바라나이다.＜67＞
+一 母音中 、字는 廢止함이 無妨함.
+、는 元來 訓民正音에 ㅣ와 ㅡ의 合音이라. ㅏ와는 不同한 것인데 中間에 誤用이 되야 、와 ㅏ를 同一한 것으로 보게 되엿으나 常識으로 생각하야도 멧字 안되는 母音中에 同一한 音을 두字씩 둘理는 萬無한 것이오 中間에 誤用으로 因하야 今日에 와서는 、의 發音은 거의 失하야 버렷은 則 廢止함이 無妨.
+二 ㅺㅼㅽㅾ等은 ㄲㄸㅃㅉ等의 並書體로 씀이 可함
+訓民正音 原用法이 그러함.
+三 ㄷㅅㅈㅊㅌ行에서 ㅑㅕㅛㅠ를 쓰지 안는다 함은 簡單하게 決定키 難함. ㅏㅓㅗㅜ等과 ㅑㅕㅛㅠ等은 發音上에 確實히 差異가 잇는 것인데 近來 흔이 混用한 結果 此를 區別하야 쓰기가 甚히 困難한 則 寧히 廢止를 하고 統一을 하얏으면 便利는 할뜻하나 西道地方에서는 아즉 兩音의 區別있음.
+四 말의 頭字가 ㄴ行으로 될 때 ㅇ로 改作함은 不可함.
+現今 京城 發音에는 頭字에는 ㄴ의 發音이 업는 듯하나 西道地方 發音에는 至今도 區別이 있음.
+五 終聲은 ㄱㄴㄹㅁㅂㅇ 以外에 ㄷㅈㅊㅌㅍㅎ等도 다 使用함이 可함.
+訓民正音에도 終聲은 復用初聲이라 하야 實際에 使用하엿고 또 使用하면 發音上 正確과 便利가 있음.
+六 「드러가」「거러가」「버서」는 「들어가」「걸어가」「벗어」로 씀이 可할뜻함.
+들(入)벗(脫)等이 動詞의 語根인 則 此外에도 一般 動詞의 語根을 생각하고 變化를 시켜 보면 明白하야질ㅅ것갓음니다.
+七 ㅣ니의 合音이 ㅕ인 則 音使으로 어느 것이나 作定하야 쓰면 可할뜻 함니다.
+八 「덥」(暑)「춥」(寒)「묵업」(重)等과 같이 終聲에 ㅂ이 잇는 形容詞는「어」「으」「이」等의 上에서는 習慣上 ㅂ을 不發하는 것인則 音便을 딸아 씀이 可함.
+九 元來 漢字로 된 말이라도 完全한 朝鮮말을 成한 以上에는 普通에 發音하는대로 씨는 것이 便利하갯으나 此亦 一二個人의 意見으로 定하기 難함.
+十 名은 「이름」, 兒는 「아희」, 天은「하늘」이라고 쓰는 것이 좋을뜻하나 天에 對하야는 近來 意味上으로 보아서 「한울」이라고 쓰는 사람도 잇은則 此亦 一二個人의 主張으로는 定하야지기가 어렵고 多數 學者의 協議로 定하여야 羅常할뜻함.
+
+松都高等普通學校敎論 李常春
+이러합니다.
+一 「、」音을 廢하랴? 廢한다기보다 쓸수도 없고 쓸대로 없다. 「、」는 ㅡ ㅣ의 겹소리이다. 그러나 그 소리대로 내지 않코 ㅏ나 니나 ㅡ로 닑으니 소리의 나는대로 쓰는 것이 좋다.
+二 된시옷을 並書體로 함이 如何? 訓民正音에 「ㄲㄸㅃㅆㅉ」와 같이 並書하라 하얐을뿐 아니라 並書가 音理에 맞는 것이다. 된시옷은 잘 몯이다.
+三 ㄷㅅㅈㅌㅊ를 ㅑㅕㅛㅠ에도 合用하랴? ㄷㅅㅈㅌㅊ＜68＞의 아래의 ㅑㅕㅛㅠ는 ㅓㅢㅗㅜ로 난다. 合用할 말이 없다(「합쇼」「괜챦」 따위의 略語 에는」. 다만 漢字語의 「뎌됴티튜」는 「저조처추」로 쓰는 것이 좋다.
+四 말의 頭字의 子音이 ㄴ일 때에 ㅇ로 改用함이 如何? ㄴ가 ㅣㅑㅕㅛㅠ의 위에서만은(ㅑㅓㅗㅜㅡ의 위에서는 언제든지 제대로 남)줄고 나지 않는 習慣이 (「님검, 냠냠하넌 놈」을 「임검 냠냠하 연놈」과 같이)있다. 그러나 習慣을 좋아「임검 냠냠」연놈」할 수는 없다.
+五 ㄷㅈㅎㅋㅌㅍㅊ도 받힘으로 쓸까? 그렇다.몯은 子音은 다 받힘으로 쓰어야 한다. 그리한뒤에야만 글씨를 音理에 맞게 말소리대로 쓸수가 있다.
+六 「들어가」「드러가」와 「벗어」「버서」가 어느것이 옳으냐? 「들어가」「벗어」가 옳다. 「드러가」「버서」는 元語와 토를 區別하지 몯함의 잘몯이다. 「들어가」는 動詞「들」助詞「어」動詞「가」가 모이어 된 熟語이요 「벗어」는 動詞「벗」에 助詞「어」를 달아 된 것이다.
+七 「막히어서」「막혀서」나 「그리어서」「그려서」와 「되어서」「되여서」의 標準이 어느 것이냐? 「막히어서」「그리어서」「되어서」가 옳다. 「막혀서」「그러서」는 元語와 토를 混綴한 잘몯이다. 「막히」「그리」는 動詞이요 「어서」 助詞이다. 「어서」를 「여서」로 쓰기도 하나 그러나 뜻이 같고 音이 멀지 아니한 바에는 「어서」로만 오로지 쓰어 「되여서」라 말고 「되어서」라 씀이 좋다.
+八 「덥으니 짓으니 울니」나 「더우니 지으니 우니」나의 標準이 如何? 「덥으니 짓으니 울니」가 옳다. 「덥으니」가 「더우니」로 됨은 「ㅂ」받힘의 形容詞의 「ㅂ」가 母音로 위에서 「우」로 變하는 習慣이 있음이요 「짓으니」가 「지으니」로 닑힘은 두 母音 사이에서 「ㅅ」가 줄는 버릇이 있음이요. 「울니」가 「우니」로 됨은 「ㄹ」받힘의 動詞나 形容詞가 「ㄴ」첫소리 토의 위에서 「ㄹ」를 줄이는 習慣이 있음이다. 어떤 程度까지는 習慣을 侮視할 수가 없지마는 그렇다고 덮어놓고 習慣을 좋을수는 없다.
+九 漢字로 된 말은 우리 音만을 標準함이 如何? 글씨를 소리 나는대로 쓰는 것이 音符文字의 生命이다. 漢字ㆍ英字를 뭇지 말고 말의 소리대로만 쓰면 그만이다. (例하면「시월(十月)」「이천(利川)」「천지(天地)」「나주(羅州)」이렇게) 다만 「녀자(女子)」「년령(年齡)」위는 그대로 쓰는 것이 좋다.(第四條 參照)
+十 「한울 하늘 하날」「이름 일음 일흡」「아이 아희 아해」의 標準이 어느 것이냐? 「한울」「니름(이름은 말고)아이」가 옳다. 「한울」은 「한」곳 크다는 말로 머리을 삼은 말이요 「니름」은 「니르」란 動詞에 「ㅁ」를 더하야 名詞로 變한 것이요 「아이」는 우리 몯은 이의 말을 標準함이다. 「아해」는 兒孩란 漢字에 종된이의 잘몯이요. 「아희」는 「아해」의 二種 잘몯인가 한다.
+말이 넘우 簡單하게 되었다. 詳細는 拙著「朝鮮語文法 第一編」에 參照하기를 바란다.
+
+京城帝國大學敎授 魚允迪
+敬復者 本人이 我  言文을 硏究지 多年이오나 아즉도 自信으로도 確定만 程度지 達얏온즉 若＜69＞干의 硏究라도 發表기 不敢오나 貴問이 鄭重심으로 至今지의 所見만은 左와 이 奉答오니 此點에 對야 涵諒심을 切望이다.
+一 中聲中字 ㆍ中聲 諸字의 發源 基點으로 ■으로 廢이 不可 同時에 此 廢면 語法 文法을 殆히 整頓수가 없다(■은 固有 初中終聲이라 稱고 不襯着 子母音이라 謂키 싫이다.)
+二 돈시옷은 同字나 異字의 竝書가 俱히 訓民正音에 規定되고 又 用는 境遇가 各異니 境遇를 隨야 竝用이 옳을뜻.
+三 ㄷㅅㅈㅊㅌ 初聲을 ㅑㅕㅛㅠ 中聲에 合用을 쓰지 않이면 東西 共通的 音調 破壞고 正音 精義上 缺陷을 致뜻.
+四 ㄴ頭의 말에 ㅇ初와 이 發音되나 此 ㄹ頭의 말이 ㅇ初와 이 發音과 同히 다 말리에 있을  ㅇ初로 發은 即 我音의 自然的 音調이어 遽然히 ㅇ로 換用면 中間에 在  ㄴ本音을 發揮하 境遇에 奈何오 頭에 在할 때 自然이라 야 그대로 두 것이 當然.
+五 終聲은 七十初 다 使用치 않으면 正音의 神妙 埋沒고 我 語法은 野晴에 歸뜻.
+六 「들어가」「걸어가」「벗어」라고 쓰는 것이 옳을뜻. 「들」「걸」「벗」들이 語根인 문.
+七 「되여셔」「막히여셔」「그리여서」하고 쓰는 것이 옳을뜻「되」「막히」「그리」가 語根인 문.
+八 「더웋으니」「짓으니」「옳니」라고 쓰 것이 옳을뜻. ■이 ■輕音인 故로 或發或消고 △終이 半齒音인 故로 或發或消 或發硬音고 ■終은 ㄹ音이 或發 或消 문.
+九 漢字 熟語지 國音만으로 쓰 젓도 無妨뜻.
+十 「하」「일홈」「아」라고 쓰는 것이 좋을뜻. 「」이 「늘」「눌」과 이 「」가 「희」와 이 發音되 문.
+語法이 아즉 確定되지 않고 諸家 學說이 各異니 質對키 難나 鄙見은 아즉 如此이다.
+
+兪新學校敎論 張志暎
+一答 字는 그 소리가 ㅏ와 같지 않습니다. 여러 가지로 밀우어 보아 ㅣ와 ㅡ의 合音인줄 알게 됨니다. 그럼으로 녜ㅅ글에도 「아」「며리」「기」이라고 쓴것도 「」은 소리가 「들」에 갓갑게 쓰고 「」은 「름」에 갓갑게 쓴 것이니 어찌했던 는 ㅡ에 갓갑고 그렇다고 바로 ㅡ도 아닙니다. 그럼으로 우리 말에 빛우어 ㅣㅡ의 合音을 쓸 일이 있을때에는 、를 씀이 옳을 것이나 「사람」「」「」「들」과 같이 분명히 ㅏ로 發音하는 말에 、를 씀은 굻습니다.
+二答 ㄱㄷㅅㅈ들의 소리는 ㄲㅃㄸㅆㅉ로 씀은 訓民正音에 밝게 말하였을뿐 아니라 音理로도 어렇게 써야만 맞을 것입니다. ㄲㅽㅼㅽㅄ는 언제부터 그리되었는지 분명치 못하나 이도 꽤 오래되었는데 어느때에 잘못된 것이 그만 버릇이 되어 오늘까지 나러 오았으나 이제부터는 곧혀야 될 것입니다.
+三答 우리는 ㄷㅈㅊㅌ가 ㅑㅕㅛㅠ에 合할 때에 그 소리를 제 소리 대로 바르게 내지를 못하얐습니다. 그리하야 댜뎌됴듀를 자저조주와 같게 탸텨툐튜를 차처초추와 같게＜70＞
+또 샤셔쇼슈를 사서소수와 같게 쟈져죠쥬를 자저조주와 같게 챠쳐초츄를 차처초추와 같게 내어 왔습니다. 그럼으로 이 소리들을 막 뒤섞어 써 왔습니다. 이 여러 소리의 本音을 잘 가리어 쓰면 아무 어려움이 없을 것입니다.
+四答 이것도 우리가 實際하는 말의 소리를 잘 가리어 제 소리대로 씀이 좋습니다.
+五答 訓民正에 終聲復用初聲이라 하얏을뿐 아니라 實際 말에 ㄷㅈㅊㅋㅌㅍㅎ를 받힘으로 쓰지 않고는 法 있는 글이될수 없으니 「味」의 우리말은 「맛」이오 「適」의 우리말은 「맞」오 「任」의 우리말은 「맡」이며 「脫」의 우리말은 「벗」이요 「延」의 우리말은 「벋」이 올시다.
+六答 들(入)걸 或 것(步) 벗(脫)은 語體이오 여긔에 吐「어」를 붙인 것임으로 「들어가」「걸어가」「벗어」라고 쓰어야 옳습니다.
+七答 이것들도 語體「되」「막히」「그리」에다가 吐「어서」를 붙인 것인데 「막히」「그리」들의 끝소리가 ㅣ인 까닭에 「어서」와 連發할 때에 우의 소리를 무릅쓰게도 되며 合하게도 되어서 「되여서」「막혀서」「그려서」와 같이 들리나 글도 쓸 때에는 「되어서」「막히어서」「그리어서」라고 씀이 옳습니다.
+八答 덥다는 말은 우리말에 「덥」과 「더우」의 두가지를 가지고 쓴다고 볼수 있으니 「춥」「추우」「맵」「매우」「굽」「구우」들 같은 例이오 「짓」은 그 알에 「어서」「으니」「으면」과 같은 토를 달려 할 때에는 ㅅ을 빼는 버릇이 있는데 이를 글로 쓸 때에는 「짓으니」「짓으면」이라고 씀이 좋을뜻 합니다. 「낫」(病이 快差)과 「닛」(連)들도 한가집니다. 「울」은 「울다」「울고」라 할 때에는 「울」하다가 「우니」「운」할따에는 「ㄹ」을 빼는데 大槪 ㄹ받힘 있는 形容詞와 動詞는 다 한 規模로 그렇게 됩니다. 이를 만일 「울니」라고 쓴다면 말과 넘어 멀어짐으로 말에 맞후어 「우니」라고 씀이 좋을 뜻합니다.
+九答 우리말 가온대 漢字로 된 말 例하면 책(冊)방(房)학교(學校)  따위는 비록 그 말들이 漢字로 되었다 할지라도 그 音은 漢字의 本産地인 中國의 音이 아니고 우리나라에서 따로 쓰는 音인즉 이는 곳 말이 올시다. 그럼으로 이를 만일 아니 쓰고 버린다 하면 이는 곳 우리말을 줄이는 것이니 이제 우리는 그런 말들에서 漢字는 떼어내고 그 소리만 取하야 아주 든든한 우리말을 맨드는 것이 좋을줄 압니다. 그러나 우리말이 따로 있는데 그 말을 쓰지 아니하고 漢字로 된 말을 쓰는 것은 힘써 곧히어야 할 것입니다 「어버이」를 「父母」라 하며 「집」을 「家宅」이라 하며 「속셈」을 「內容」或「腹案」이라 하며 「버릇」을 「習慣」이라 하는 따위들은 어대까지 좋지 않습니다.
+十答 이런 말들을 이야기하자면 좀 길겠습니다 마는 이제 쉽게 말하면 그 語源을 좀 생각하면 곳 알게 됩니다.
+한울「한」은 크다는 말이오. 「울」은 어 싸았다는 말이니 「한울」이라고 씀이 語源으로 보아서 좋습니다.
+니름 니르다라는 動詞에 ㅁ을 붙이어 名詞 맨든 것이니 「니름」이라고 씀이 좋습니다.
+아이 이것은 漢字音을 取한 것이 아니고 본대 우리말인데 이를 漢字에 억지로 붙이고자 하야 「아해」로 씀＜71＞이니 「생각」을 「生覺」이라고 함이나 「생기」를 「生起」라고 함과 같은 버릇입니다. 이는 우리가 힘쓰고 힘써서 말아야 할것입니다.
+
+東京 한결
+본지 九월호에 쓴바 있음으로 필짜의 의견의 자세한 것은 그리 밀우고 간단히 대답하여 들이려합니다.
+一 「、」는 ㅣ와 ㅡ의 거듭이요 ㅏ와는 다를뿐더러 우리 말에는 그러한 말의 소리가 없으니 쓸 필요가 없음니다.(외국말을 적는대는 딴문제로 할찌라도)
+二 ㅺㅼㅽㅾ들은 본디 「훈민정음」에 「並書」하라고 한것의 그릇 전함일뿐더러 음(音)의 학니(學理)상 ㄲㄸㅃㅉ들과 매우 다름니다. 가령 「ㅺ」와 「ㄲ」의 다름을 보려면 「아」는 「앗가」라는 소리와 같고 「아까」는 「악가」라는 소리와 같음니다. 곳 「앗가」에서 우로 「아」와알로「ㅏ」의 소리를 빼고 남아지가 「ㅺ」의 소리요 「악가」에서 우로 「아」와 알로 「ㅏ」의 소리를 빼고 남아지가 「ㄲ」의 소리외다. 그러한데 어느 경우에던지 된소리(激音)를 낼 때에는 다 「ㄲ」의 소리요 「ㅺ」의 소리는 아니외다. 마찬가지로 ㄷㅂㅈ의 된소리도 「ㄸ」「ㅃ」「ㅉ」의 소리요. 「ㅼ」「ㅽ」「ㅾ」의 소리로는 내지 아니함니다. 그러한고로 훈민정음에 규정 한 대로 병서(並書)함이 옳은 일이외다.
+三 ㄷㅅㅈㅊㅌ行에 ㅑㅕㅛㅠ를 붙이어서 말할 때 쓰인다면 모르되 다만 한문의 음(우리 땅에 들어온 뒤 여러번 변한)에 그러하나 그대로 쓰자할 까닭은 도모지 없음니다. 본디 우리말에는 「오시어서」가 합하여 「오셔서」로 되는 것 같은 따위 밖에는 그러한 소리가 아니 쓰임니다.
+四 ㄴ첫소리가 ㅑㅕㅛㅠㅣ와 합할 때에는 말할 때에 ㄴ의 소리를 냄이 없으니 그러한 때에는 쓸 필요가 없음니다.
+五 ㄷㅈㅋㅌㅍㅎ뿐 아니라 그 밖의 어떠한 소리라도 현재 말에 쓰이는 이상은 아니 쓸수 없음니다. 가령 「앞」(前)이란 말에 ㅍ받힘을 씀이 아니면 「앞」이라는 뜻없는 말 또는 딴 뜻의 말이 되어버리는 까닭이외다.
+六 「들어가」「걸어가」「벗어」따위를 「드러가」「거러가」「버서」로 쓸수 있으랴 하는 것은 문제도 될것이 아니외다. 마치 「먹어라」「잡아라」를 「머거라」「자바라」라 함과 같은 비문법적(非文法的)이 되고 말아버릴 것인 까닭이외다.
+七 「되어서」「막히어서」「그리어서」를 「되여서」라 할 까닭은 없고 「막혀서」「그려서」라 함도 한 줄임으로 볼찌언정 본보기라고는 못할 것이외다.
+八 「덥으니」「짓으니」「울니」(「울으니」의 줄임)는 문법적이요 「어우니」「지으니」「우니」는 비문법적이니 먼저의 것으로 본보기를 삼을 것이외다.
+九 한문에서 온 말 중에 우리말과 다른 소리가 있을 때에는 다 우리의 말할 때에 스는 소리대로 적을 것이외다. 섞갈림을 막고 말과 글의 한갈같게 하기에 필요한 까닭이외다.
+十 「하눌」「이름」「아이」같이 여러 가지로 말함이 있는 경우에는 그 가장 많이 쓰이는 말로써 본보기말을 삼을 것이외다.
+넘우 급하게 되고 넘우 간단하게 대답하려니까 넉넉히 그＜72＞ 까닭을 말할수 없고 설명할 수도 없이 됨니다.
+―――十一월 二十六일―――
+
+白定木
+一 母音中 、字를 廢用 不可니다.
+〔理由〕「、」 訓民正音 十一 中聲中 首位예 居야 「ㅡ」「ㅣ」兩音과 共히 母音엣 三大 宗音을 作 者―니 ㅛㅑㅠㅕ에 對「ㅣ」와 ㅜㅓ에 對「ㅡ」와 如히 ㅗㅜ애 「、」 目애 綱과 影에 形입니다. 大意는 訓民正音 配列이 明示 배어나와 詳例는 龍飛御天歌 用法이 不謬 거시야셔 그 字規 字順이 整然과 文例 文法의 嚴肅 하마 超人的 知慧로 制定된다 시픕니다.(此字애 關 音理上ㅅ 位置와 文法上 ㅅ作用 本誌 九月號中 拙論「母音硏究」를 參照시믈 望니다)難者 或曰시되 音理와 文法上로 그러타 더라도 此-가 濟州島애셔와 湖南앳 西南海岸 一隅에셔 殘影을 保存 니오 半島앳 大部에셔 이믜 死滅되얏거니 强히 此 使用케며 諳記케 學者 有限 腦力을 無益 時間애 費미라 실런디 몰되 此 五十笑百앳 議論입니다. 京畿예셔 「ㅚ」가 「게」예「기」가 「ㅜ이」예 同音이라 야 淸北地方애셔 「ㅚ」가 「ㅙ」예 「기」가 「ㅜ이」예 同音이라 야 「ㅚ」「기」의 廢用 許거신가요 嶺南ㅅ方言에 「ㅡ」-가「ㅢ」에 「ㅐ」「ㅚ」가 ㅔ예「기」가「ㅣ」예 同音이라 야 ㅡㅐㅚ기 諸字 廢用 容認 거신가요 、字 廢用論애셔 一步 進면 右와 如 結論애 歸着니다. 尙且 外國音 對譯에 此字 必要者-가 有니 英語에 ■■ 等母音은 「、」字-가 아니고 眞音을 寫得디 몯 者ㅂ니다.
+二 外國音과 漢字音을 譯註매 同素複――ㄲㄸㅃㅉㅆ――을 用고 國語를 記錄매 古典을 尋究며 語源을 考覆야 異素複――ㅺㅼㅽㅾ外예 尙且ㅲㅳㅶㅄㅺ지――을 用미 可니다.
+〔理由〕國語엣 初聲에 異素複이 잇는 거슨 此―가 語源的인 줄로 얇니다 一例를 擧자면 北風을 「놉새=노새」라 東風은 「동브새」라 며 訓蒙字會예 芣苣를 「이」로 書얏 俗語에는 「빕보징이」로 呼니 「노」「이」가 正語-ㄹ딘「동브새」「빕보장이」는 其 延音語-ㄹ디며 「동브새」「빕보장이」가 正語-ㄹ딘「노」「이」는 그 約音語-ㄹ거시오  (米)이란 總名詞-가 有야 「니=닙」「조=좁」「=맵」「=」「술=숣」「풀=풃」이란 分名詞 生고「(開 醱酵)」「(躍)」等 原語에 基야 「부르=브릅드」「들=듧드」「=뒤」等慣語-가 成것等이 其證인 거시며 訓民正音에 字 끵其 十 뼌便 꿈魁 땀覃 舌 쓘層 等과 如히 漢字 音은 꼭 同素並書로 야 시메 反야 (用) (義ㆍ情) (而己)  (急)等異素並書와 말(語)여(使) 엄쏘리(牙音) 방스(並書)等 同素並書를 並用과 如 거시 這箇ㅅ消息을 藏 字-ㅂ니다.
+三 ㅅㅈㅊㅌ에 ㅑㅕㅛㅠ를 合用하야 쓰디 아니 理由-가 어 잇습닛가.
+〔理由〕中南部ㅅ地方애셔 「뎌(彼)」를 「저」로 「티(打)」를＜73＞ 「치」로 「셔(立)」를 「서」 或 「스」로 發音 舌頭音의 舌腰音火과 舌腰音(卽齒音)의 二重擧舌 厭忌作用에 因야 譌發되면 거십니다. 平壤語 就中에도 淸北 地方애셔는 一毫不錯로 正發니다. 만일 셔울말로 標準語를 삼기 爲야 그리다 면 終애 音理와 語源을 硏究 必要로 認티 안다 結論애 至고 말거십니다. 元來 舌系音이 變化ㅅ性이 富거슨 事實입니다. 그러타 야 兩南ㅅ地方애셔는 舌根音(卽牙音의 舌腰音(卽齒音)化 譌謬를 容認야 「기키」等을 「지치」로 書 許 거십닛가
+四 말의 頭字가 ㄴ行으로 될 때 ○로 改用미 不可니다.
+〔理由〕中南部ㅅ地方애서 「녀름」을 「여름」으로 「니르」를 「이르」로 發 거슨  舌系音엣 變化ㅅ性에셔 出 譌音인 거십니다. 今에 其 譌變 經路 細究면 그 曲折이 二重的이야셔 『니(Ni)』가 一轉야 「譌(適音文字에 ■i)」를 成고 「니(■i)」가 再轉야 다시 「이(Yi)」를 成 거십니다.
+五 받■은 ㄱㄴㄷㄹㅁㅂㅅㅇ以外에 ㄷㅈㅊㅋㅌㅍㅎ等도 다 使用자  訓民正音 例義예 據던디 龍飛御天歌 用例를 考더라도 全部 使用 거시 을씁니다. 그러나 發音 規則에와 文法에 定論이 決디 아니동안 해 八終聲만 쓰는 것(ㄱㄴㄹㅁㅂㅅㅇ에 ㄷ을 加야)도 不得已 이립니다.
+六 「드러가」「거러가」「버서」도 아니고 「들어가」「걸어가」「벗어」도 아니고 標準될 用法은 로 이실줄로 앏니다. 그러나 둘 다 標準이 몯될 바애 아직동안 歷史的 用例오  發音上 合法인 前者 取 거시 便法일 거십니다.
+〔理由〕愚考건대 讀(卽吐)앳 「아」「어」는 「야」「여」(야(■) 야(如) 디나야(過) 업드여(伏) 건너여(渡)와 「라」「러」(도라디(兀然)잦라디(顚沛)니르러(至)프르러(靑)」와 가지로 古 吏讀ㅅ字「良」音에셔 分派된 者-니 「良」앳 原音은 佛蘭西音엣 語尾-音과 類似 者로셔 訓民正音 以前에 原音은 이미 死滅되고 遺音이 大部-가「아」「어」를 成고 若干 「야여」「라러」로 變 거신 듯 니다. 就中에도 「良」ㅅ字 原音에 장 類近 者 「야」「여」-라 게시니 吏讀文 本鄕인 新羅 舊都 一帶ㅅ地方애셔는 至今에도 「드러여(드르여)」「거러여(거르여)」「(버서여)버스여」「오여(來)」「머거여(喫)」等엣 語-가 行야 「야여」勢力이 反히 「아어」보다 優越미 其 證입니다. 「良」ㅅ字 初發聲에 關야 다시 詳論 機會가 有려니와 按컨대 「良」ㅅ字 吏讀ㅅ讀애 該當 者 訓民正音에셔는 「펴아」一語 龍飛御天歌애셔는 「싸호아」一語(第六十九章)等 極少數엣 例를 遺고 統히 母音「ㅏㅓ」만 用야 徹底 寫音主義를 取 거십니다. 故로 此 理想的으로 쓰자면 「드르어가」「거르어가」「버스어」로 쓰는 거시 原則일거십니다.
+七 前問에서 述 「良」ㅅ字 吏讀ㅅ讀애 關 分別ㅅ法이 確定되기지는 아직동안 歷史的 用例예 依야 「되야셔」「막켜셔」「그려셔」로 쓰는 거시 便法이줄 앏니다. 「드르어가」「거르어가」「버스어」等으로 쓰이도록 前問에 對 文法 決定이 理想境에 到達되야셔 비로소 本問도 「되아셔」＜74＞「」「막키어셔」「그리어셔」로 쓰이게 解決이 될 者ㅂ니다. 다 「되어서」로
+디 말고 「되아셔」로  것과 「막히어서」로 디 말고 「막키어셔」로  것 卽 「어서」對「아셔」問題「히」對「키」問題는 此 解釋자면 張皇 未免이겟고  本問의 直接要求 者-아닌줄로 認야 略니다.
+八 前 二者애 對야 訓民正音엣 脣輕音과 半齒音을 復用야 「더븡니」「지■니」로 쓰고 後一者애 對야 用法에 新例를 創야 우리로 書기 外예는 모도 用法의 完全 期키 不能니 學論이 定기지는 아직동안 「더우니」「지오니」「우니」로 書 거시 使用歷史 最長로 보아  大多數ㅅ地方앳 發音으로 보아 此-가 稍勝 便法일 거십니다.
+九「十月」을 「시월」이라 야 「十」音에 「ㅂ」終聲을 略 漢人의 入聲不能으로 由 漢音을 그채로 輸入 者로셔 此-가 歷史的으로 遂 原語-니 原語는 그대로 는 거시 可니다. 「女子」「利川」을 「여자」「이천」이라야「ㄴ」「ㄹ」이 「○變」 舌系音엣 變化ㅅ性에셔 來譌音인 거시니 譌音은 그대로 쓰미 不可니다.
+十 天은 「하」이라고 쓰는거시 正音이니「하」「天」文에 屬 體言이 所存 通例와 如히 「ㄹ語尾」가 語根「한」에 添 終聲이 「ㄹ」前不複作用로 因야「한」이 「ㄹ」을 合야 「할」 作디 몯로 「ㄴ」後「ㄹ」前에 例옛「朗音停入」이 行 者인 朗音은 「表態音」인 「一母」 不取고 「裡態音」인 「、母」 取거슨 語根「한」이 본「裡態」옛「ㅏ母」-므로 朗音이 「母音 順勢」規則을 從야 同態예 出 달깁니다. 그러므로 母音엣「、一同法」作用로「하」은「하늘」로도 通用 되거시오. 「하늘」이 다시「하눌」로 或 呼되매 就야 愚究컨대「하눌」엣「한」이 본「환」이야셔 此애「ㄹ語尾」를 添야 作「할」이 一轉야「화」로 再轉야「화늘」로 成고 三轉에는 此-가「開合母勿位」作用로 「애하눌」로 된 거실디니 崔六堂 壇君論애「桓國」은 「天」을 意味 古語로서「桓」앳音「환」 光明엣 義를 表象 語-오 此-가 卽「환울」로 稱던 거스로셔 後來예「한울」로 轉 原語-ㄹ 거시다 과 가짓 마립니다.(本說明中)「表態音」「裡態音」에 關야셔와 「、一同法」에 關야 셔는 本誌 九月號中 拙論「母音硏究」를 參照시기를 라며「ㄹ前不複」「朗音停人」「母音順勢」「開合母易位」等에 關야셔는 別로 詳論 機會 待니다)
+「名」ㅅ字ㅅ國語는 龍飛御天歌(第六十一章과 第六十二章)애 據면「일홈」이라고 쓰여시니「일훔」이 正語ㅂ니다. 元來「일훔」은 「語根」「잃」에 語尾「舌」이 添 者인「體言ㅅ法」에 「韻律作用」로「잃」엣「ㅎ」終韻을 爲야 「ㅁ」前에 特히 「ㅜ母」-가 來 者-니 恒庸애 「일훔」로 쓰이문  母音엣 「ㅗㅜ同法」作用애 基 相通音인 故ㅂ니다「잃」語根엣「ㅎ韻」加添옛 當否에 關야 疑惑 두실 부니계실디 몰나 此와 同源語-ㄴ「일」(或)「일」(稱)이 「잃」과「曰」이 相加야 成慣 語ㄴ거슬 思 時는 「잃」엣「ㅎ韻」添在 不動앳 鐵則입니다. (本 說明中「體言ㅅ法」「韻律作用」等 用語에 關야 別로 說明 機會 待니다니다.)
+(兒)「」라 미 正語日 理由는 簡單니 漢字「兒孩」옛 音이 語源인 달깁니다. 或혀 孺孩옛 我語＜75＞ 「아기」와 音이 近似매 據야 「아이」或「애」가 正語-라고 主張시는 이가 계시는디도 몰거니와 此 偶然的으로 致 近似音인 거십니다.
+統論면 「天」「名」「兒」等에 對 我語를 「하」「일훔又일홈」「」等으로 書기는 오랜 歷史 가진 者-오  相當 內容 具者-야셔 吾人은 硏究를 加록 先人의 用例가 나도 杜撰이 아닌 거슬 切實히 늣기게 되니 믈읫 此等과 如한 거세 對야 그 誤診의 的確 거슬 發見야셔 他애 異說이 出디 몯기 지예는 先人의 用例예 輕히 改■ 云謂 거시 아닌 줄로 앏니다.
+
+普成專門學校長 朴勝彬
+一 「、」를 存眞함이 可함.
+理由 母音「、」字는 子音「ㅇ」(ㅇ과 달른 字)字와 運命을 함할 字입니다. 發聲原理를 闡明하기 爲하야서는 此를 存眞할 必要가 잇고 實用의 便宜를 圓함에는 此를 廢止함이 可합니다. 「ㅇ」를 仍用하는 今日에는 「、」도 存眞될것입니다. 但 그 發音은 習俗에 從하고「ㅏ」와 使用의 區別을 强要치 말지니이다.
+二 硬(된)音은 並書로 卽「ㄲㆍㄸㆍㅃ」이러케 쓰는 것보담 된시읏 卽「ㅺㆍㅼㆍㅽ」이러케 씀이 可함.
+理由「ㄲㆍㄸㆍㅽ」도 硬音이 發합니다. 「ㅺㆍㅼㆍㅽ」도 硬音이 發합니다. (여긔「ㅅ」은 子音「ㅅ」이 아니고 한 硬音의 符號입니다. 古時로브터 그러하게 써 왓습니다. 그러나  「ㄲㆍㄸㆍㅃ」은 우리 言語中 硬音을 發하는 모든 境遇에 다 適用되지 못하는 音이 「ㅺㆍㄸㆍㅽ」은 그 모든 境遇에 適用되는 音입니다, 그러함으로 當分間 卽 새로 硬音 符號를 設定할 時지 舊에 依하야 「ㅅ」을 그 代用으로 씀이 無妨합니다.
+三 「ㄷㆍㅅㆍㅈㆍㅊㆍㅌ」ㅅ行에 拗音 卽「ㅏㆍㅕㆍㅛㆍㅠ」를 不用한다 함은 不可함.
+理由 發音上 또 文法上으로 그 字를 要합니다. 故로 有를 無라고 할수 없음니다.
+四 「ㄴ」을 頭音으로하여 成立된 말을 고쳐서 「ㅇ」를 頭音으로한 말로 한다 함은 不可함.
+理由 有를 無라고 함은 不可함니다.
+五 「ㄷㆍㅈㆍㅊㆍㅋㆍㅌㆍㅍ」은 終聲(바팀)으로 씀이 可함.
+理由 發音  文法上으로 그 字를 要합니다. 故로 有를 無라고 함은 不可함니다. 「ㅎ」는 바팀으로 스지 못합니다. 理由「ㅎ」는 喉音인 故로 바팀 될 作用이 업스니 無를 有라고 할 수는 업습니다. 「ㅎ」도 바팀으로 쓰자는 設은 朝鮮語法에 動詞의 語尾變化를 否認하고 助詞의 語頭에 「으ㆍ어」가 加入된다는 見解를 取하고 그 主張을 貫徹하기 爲하야 此를 唱道함인데 나는 此를 그 硏究의 經路가 錯誤된 것으로 미듭니다.
+六 「드러가」「거러가」「버서」가 울흠.
+理由 나는 「드러가」「버서」中의 「ㅓ」지가 그 動詞에 부튼 音이라고 미듭니다. 朝鮮語法 學習者 多數의 設에 依하면 그 「ㅓ」音은 動詞에 부튼 音이 아니고 그 ㄷ음 말인 助詞에 冠한 音이라 하야「들어가」「벗어」라고 씀이 可하다 하나 나는 朝鮮語 法則上으로 首肯할수 엄슴니다.＜76＞
+七 「막혀서」「그러서」가 울흠.
+理由「막혀」는 「마그」의 變動格(英語法「페시이스」)인데 그 助動詞의 原段「히」가 「혀」로 變動된 것이고 「그려」는 그 動詞의 尾의 原段「리」가 「려」로 變動된것입니다. 發音으로 보면「히어」又는「리어」를 壓搾하야 一音으로 發하면 「혀」又는 「려」로 되는 故로 兩者는 音의 元素는 同一하고 一音인가 二音인가의 區別만 달릅니다. 그러한데 그 中「ㅓ」音이 그 우ㅅ말(英語워드)에 부튼 音이고(前項「六」參照) 且 우리 多數의 發音이 「혀ㆍ려」로 되야 잇고 古時에도 「혀ㆍ려」의 音으로 쓰혀 왓는 故로 此를 二音으로 分離하야「히어」「리어」로 變更할 理由가 無합니다.
+「되야서」가 울홈. 理由「하야서」라는 말과 가티 添尾動詞의 分類에 爲한 말로 미듭니다. 發音上「하야서」를 「헤서」라 하고 「되야서」를 「돼서」라고 함으로 써 證明합니다.
+八「더우니」「지으니」가 울홈.
+理由「더우니」「지으니」라 하는 確實히 잇는 言語를 어케 또 웨 廢止하랴고 할가. 朝鮮語 學者中 者는 「덥」, 作은 「짓」이 그 形容詞 又는 動詞의 原子로 誤認하고 助詞「니」의 頭에「오ㆍ어」가 加入된다는 說을 主張하고 그 說을 維持하기 爲하야「더우」「지으」라는 言語를 否認하고자 하는 者가 多數입니다. 그러나 나의 見解에 依하면 助詞 及 形容詞의 語尾는 此가 變動되는 法則이 잇는데 「우」가 語尾된 말은「ㅂ」으로 「오」가 語尾된 말은 「ㅅ」(硬音符號)으로 變動되는 法則이 이습니다.  그러케 變動되는 發音原理上의 理由도 이습니다.  地方에 라서 「더브니」「지스니」라는 言語가 밋드라도 그러타고 「더우니」「지오니」라는 말을 否認할 수는 업습니다. 「지으니」라는 말을 쓰는 者는 現在로 朝鮮人의 大多數이고  世宗大王 時代로브터쓴 말입니다. 이것이 廢止될 理는 萬 無합니다.
+「우(鳴)니」는 「우르니」或은「울니」又는 「우-니」이러케 쓰면 어할가요.
+理由 이 動詞는 語尾라 行인 字인데 라行은 半舌音ㅅ行인 故로 喉音으로 化하야 長音만을 發하는 것입니다. 그런데 現用에는 「ㄹ」을 喉音으로 表示하는 方法도 업ㅅ고  單히 長音을 表示하는 方法도 업슨즉 어도 할 수가 엄습니다.
+九 漢文系 朝鮮語는 漢文으로 써도 조흡니다.
+理由 나는 漢字 全廢論에 賛同하지 못합니다. 故로 漢字消化論을 主唱합니다. 故로 固有 朝鮮語이라도 쓰기만은 漢字로 써도 조타고 開放하자는 主張을 합니다. 그러함으로 漢文系 朝鮮語(漢字의 音讀이 朝鮮語된것)에 漢字의 使用을 禁制할 必要가 업ㅅ는 줄도 생각합니다. 勿論 諺文으로 써서는 못된다는 말은 아닙니다.
+十 「하늘」(天)「이름」(名)「아이」(兒)이러케 씀이 조흘가함.
+理由 此等 名詞 用法을 잘 알지 못함니다. 오직 그 標準을 定함에는 第一로 現在 多數의 發音에 依하고 第二로 古代로 브터 傳한 用例에 依하고 第三으로 簡便한 方法에 依할것으로 생각합니다. 前記中「아이」와 「아해」의 區別은 單히 發音上 區別에 그치는 것이 아니고 此가 固有 朝鮮語인가 漢文系 朝鮮語인가를 區別함이 됩니다. 그런데 「아이」는 古代로 브터 잇는 固有 朝鮮語라고 하는 말을 歷史頭＜77＞學 崔南善氏로 브터 드러습니다. 그러면 그 豊富치 못함을 恨하는 朝鮮 原語를 하나이라도 漢文系 語에 化함은 萬萬不可합니다.
+附言
+第五項中「ㅎ」를 바팀으로 쓸 與否.
+第六項 「ㄷ,라 기」「거러 가」「버서」와 「들 어가」「걸 어가」「벗 어」의 用法의 相異
+第七項 「되야 서(되여 서)」「막 혀서」「그 려서」와 「되어서」「막히 어서」「그리 어서」의 用法의 相異.
+以上 諸 問題 다 互相 牽連되야 合一로 歸決될 性質을 가진 것이고 各各 部分的으로 解決되지 못할 것입니다.
+周時經 先生 系統으로 朝鮮語法을 硏究하는 現在 多數의 學說에 依할지면 動詞語尾의 變動을 否認하고 「으ㆍ어」其下에 在한 助詞의 頭字의 添加라 主張합니다. 余의 見解에 依하면 語尾 變動을 是認함에 在합니다 고 分岐되는 一點의 差異로 左와 如한 相異한 結果가 생기는 것입니다.
+從來 學說에 依하면
+「ㅎ」가 終聲으로 發音됨.
+들(助詞)(어) 가(動), 걸(動)(어)가 (動).
+벗(動)어 로 씀이 옳음.
+되(動)어서 막히(動)어서.
+그리(動)어서.
+덥(動)요니, 짓(動)으니.
+
+余의 改良한 見解
+「ㅎ」는 終聲으로 發音되지 못함.
+드러(動) 가(動), 거러(動)가
+버서(動).
+되야(動)서 막혀(動)서.
+그러(動)서
+더우(動)니, 지으(動)니.
+
+■文高等普通學校敎論 李秉岐
+一 母音 가운데 、字는 이전 버릇으로 「알에ㅏ」라 하여 부를 것 같으면 미미 「우의아」가 있으니 쓸 것이 없고 만일 「이으」의 거듭소리라 하면 제소리대로 찾어 쓸대가 더러 있으나 아즉 이것을 널리 알릴수가 없으며 만일 이것을 「이으」의 거듭소리도 아니고 ㅏ字의 몯은 母音을 通用하는 字라 할것같으면 닁큼 악퀴를 질수 없어 우리말을 좀처럼 整理 할수 없을 것이니 찰아리 아니 쓸수 에 없다.
+二 된시옷이라 닐컷는 ㅺㅼㅼㅾ들은 워낙 訓民正音規則에도 없는 것을 그 뒤에 그릇하여 써 온 것인즉 맞당이 正音用例를 좇아 ㄲㄸㅃㅉ의 並書體를 쓸 것이다.
+三 말의 頭字가 ㄴ行으로 될 때에는 그 소리가 다 제소리를 못 내는 것이 아니라 다만 -의 우에서 처음 날 때에 소리가 줄음이 있으니 니름을 이름이라 하며 또한 「냠냠」을 「얌얌」ㆍ「녜」를 「예」라 하는 따위다. 그런데 이것도 훊이 첫소리는 분간하기 어러우니 무슨 말밑에 붙여 닑어 보면 「닌」가 「인」가를 잘 알 것이다.
+四 ㄷㅅㅈㅊㅌ行에 ㅕㅕㅛㅠ를 合用할 때에 ㄷㅌ들과는 別로 쓸데가 었지마는 ㅅ는 「하시엇다」를 「하셧다」로 ㅈ는 「늘어지었다」를 「늘어졌다」로 ㅊ는 「깨치었다」를 「깨쳤다」로 하자면 아니 쓸수 없다.
+五 正音規例에 니른바 乃終소리는 다시 첫소리를 쓴다하는 것을 좇아 몯은 子音을 몯아 받힘으로 쓸수 있으니 ㄷㅈㅊㅌㅍㅎ들도 받힘으로 하여 제소리를 찾어 써야 할것＜78＞이다.
+六 우리 말을 함부로 쓸 것 같으면 모르되 진실로 법있게 쓰자면 무른 單語의 種類를 낞어 가령 動詞는 動詞 助詞는 助詞로 따져 써야 할것이니 딿아서 「드러가」「거러가」「버서」따위를 「들어가」「걸어가」「벗어」라 써야 할 것이다.
+七「막히어서」「그러어서」를 「막혀서」「그러서」로 쓰는 것은 다만 그 소리가 語勢로 말미암아 겹쳐 질뿐이요 법에는 억으러질 것이 없으나 「되여서」는 쓸데 없는-소리가 더하여 ㅕ로 되었으니 그건「되어서」로 씀이 맞당하다.
+八 「더우니」「지으니」「우니」「덥으니」「짓으니」「울으니」들은 각기 쓰는 境遇가 아 不規則하기는 하나 어느것을 꼭 標準이라 하여 작정할 수는 없다.
+九 「녀자」「리천」을 「여자」「이천」으로 부르는 理由는 우에 말한 바어니와 ㄴ이 첫소리로 ㅣ우에서만 죽는 것이 니이걸 標準할수 없으며 「十月」을 「시월」이라 하는 것만은 特殊한 것이니 그대로 아니 쓸수 없다.
+十 「한울」은 「한울」로, 「일음」은 「니름」으로, 「아희」는 「아이」로 標準語를 定함이 좋을듯합니다. 말하자면 「한울」의 「한」은 「크다」라는 뜻이요 「울」은 「울」이라는 뜻이니 뜻도 좋을뿐더러 소리도 좋아서 一般的으로 많이 부르는 까닭이며 「니름」「아이」는 「일음」「일흠」「아희」「아해」보다 現代的 文法的이다. 곳 古語에서 많이 쓰이든 「ㅎ」 따위가 現代語에서는 흖이 줄어지고 아니 쓰이는 一例다. ――끝――
+
+李起奭
+一 母音中 、字 廢棄는 不賛成함으로 그 本音을 速히 公用하도록 願함.
+二 된시옷은 並書體가 字形上 優美할 줄로 思함
+三 此를 分用 함은 조곰 困難하나 漢字音지는 區分치 안이할지라도 原音은 不廢함을 望함
+四 ㄴ과 ㅇ에 對하야는 ㅇ로 用하야도 無妨할줄로 思함
+五 밧침은 我語源을 밝히기 爲하야 ㅈㅊ……………等도 用하기를 望함.
+六 아즉 意見이 未定함
+七 「되여서」「막혀서」로 씀이 조흘 줄로 思함
+八 이는 前者로 쓰기를 賛成함
+九 본음으로 쓰기는 조곰도 困難하오나 本音으로 쓰기를 願함
+十 三種中 何者가 正하다 云키 難하나 「한울」「일음」「아」라 씀을 願.
+
+培材高等普通學校敎論 姜邁
+一 母音中 、音은 由來로 母音中 ㅏ音과 混用하여 왓지마는 이는 無分別하기 甚한지라 今日에 와서는 、音이 ㅣㅡ의 間音으로 分別되엿슨즉 朝鮮語中 、音을 使用하기에 適當한 곳에는 使用할것이오 廢用함은 理論上 不可하다 합니다.
+二 이는 訓民正音 頒布 當時에 『初聲合用則並書終聲同』이라 하고 此가 論理上 무슨 缺点이 없는 以上 並書體로 함이 合當합니다.
+三 이는 名字도 原音을 使用하기에 適當한 곳에는 使用＜79＞할 것이라합니다.
+四 「녀름」「니르」等 發音을 「여름」「이르」들노 發함이 있으나 그 原音대로 發할수도 있은 則 改用은 不可하다 합니다.
+五 이는 正音 頒布 當時에 分明히 記하기를 『終聲復用初聲』이라 하엿슨즉 適當히 使用할 것이라 합니다
+六 이는 各 動詞의 몸을 決定하면 自然 明白할 것이니 例하건대 漢字로 「入」이라는 우리말 몸은 「들」이라 하면 「들어」라 使用함이 可합니다.(具體的 解答은 紙面 關係로 保留함)
+七 「되여서」는 「되이어서」의 줄인 것이오 「그려서」는 「그리어서」의 줄인 것인즉(各語亦同)兩存함도 無妨할듯합니다.
+八 이는 한 形字나 動字의 몸을 잡는 것으로 써 分別 할지니 例컨대 漢字「溫」이라는 우리말 몸을 덥이라 하면 덥으니가 適當할 것입니다. (各字도 同)
+九 國音을 標準함이 合當합니다.
+十 「하늘」「이름」「아이」를 標準함이 適當하다고 생각합니다.(이러케 된 理由는 紙面關係로 말하지 못함)
+
+延禧專門學校敎授 崔鉉培
+물으심에 對한 저의 생각은 이러함니다.
+一 「、」는 廢用이 可. 그 本音대로 쓰히기도 아니하며 또 現今 우리말에는 「、」소리가 없는 때문에.
+二 된시옷을 없이고 같은 소리를 나란히 씨는 것이 좋겟음. 이는 音理에 맞으며 또 訓民正音에 明示한 記法이기 따문에.
+三 그런 말 소리가 絶對로 없는 것은 아니니까 그것은 아조 안 쓴다고 할 것은 없겟지오.
+四 그것은 一律로 작졍하기보다 말을 딸아서 생각도 해야 하겟지오.
+五 使用함이 可. 이는 訓民正音에 明示한 記法일뿐 아니라 實際의 말에 適合하니까.
+六 「들어가ㆍ걸어가ㆍ벗어」이라고 씨는 것이 좋음. 이는 말의 理法에 맞은 것이기 따문에.
+七 두쪽이 다 좋겟음니다. 잘못된 것은 (다만「되여서」는 빼고)다 없겟지오.
+八 이것은 여기에 얼른 말슴 못하겟음니다.
+九 國音만을 標準하여 씀이 좋겟음. 우리는 우리말로 적기로 原則을 삼는 것이 좋겟기에.
+十 「하늘」「이름」「아이」가 좋겟음니다. 그것이 純然한 우리말이고 또 만히 行하기 따문에.
+每每히 貴問에 對答하지 못함을 探謝하옵고 이번에도 亦是 時間上 關係로 從容히 充分히 씨지 못하엿음을 謝罪함니다. 容恕하여 주심을 바람니다.
+――一九二六ㆍ一二ㆍ九 午前零時半――
+
+新少年社主筆 申明均
+一 母音中「、」字를 已往ㅅ 사람들은 무엇이라고 發音을 하얏든지 지금와서는 朝鮮語音을 記錄하는 대로 何等의＜80＞ 必要가 없은즉 廢하는 것이 當然함니다.
+二 音理로도 ㅅ과 ㄱㄷㅂㅈ들이 나는 것이 아니라 ㄱㄷㅂㅈ들이 단단하게 날뿐이오 또 先聖의 뜻도 繼承하는 것이 되닛가 ㄲㅃㅉ로 씀이 좋겠음니다.
+三 오셔서 가져오 가르쳐들 같이 朝鮮語의 境遇에는 發音도 제대로 내고 語法에도 틀리지 않으닛가 좋겠지만 漢ㅅ字音인 境遇에는 當然히 廢止하는 것이 좋겠습니다(理由는 九에)
+四 ㄴ行이 問題되는 것은 『이야여요유예』들 같이 「이」가 첫소리 될 때뿐이올시다. 元來 ㄴ와 ㅣ는 發音上 舌의 位置가 近似한 關係로 單獨 頭音으로 날 때에는 제 소리대로 나도 다른 子音과 連續될 때에는 우의 子音의 影響을 입어가지고 「이」가 「니」로 되는 것이닛가 ㄴ行으로 할 必要는 없음니다.(詳細한 說明은 約함)
+五 오늘까지 우리 朝鮮은 綴字라 하면 의례히 한 表音ㅅ字를 綴字하는 것으로만 알었고 어느 意味를 가진 한 表音ㅅ字를 綴字하는 것은 몰랐기 때문에 朝鮮의 文ㅅ字는 發達되지 못하야서 朝鮮文은 一見에 文의 大意를 잡을 수가 없을뿐만 아니라. 또 元來 訓民正音의 『初聲復用終聲』도 必要를 모르게 된 것이닛가. 使用하는 것이 當然합니다.
+六 五의 理由에 依하야 後者가 標準이 되겠음니다.
+七 「되여서」와 「막혀서ㆍ그려서」두가지로 分類하야 말슴하겠음니다. 위선 「막혀서」「그려서」는 元來「막히」「그리」하는 動詞 밑에 「어서」라는 토가 連續될 때에 動詞의 ㅣ가 토의 ㅓ로 더불어 合音이 되는 것이닛가 「그리어」는 法대로 쓴 것이오 「그려」는 줄여서 쓴 것인즉 勿論 標準이야 前者이겠지마는 그렇다고 後者를 버릴 것은 아닙니다. 「되여서」는「되」라는 動詞 밑에 「어서」라는 토가 動詞의 ㅣ의 影響을 받어서 「되여서」가 된 것이닛가 「되어」가 옳겠습니다.
+八 元來 標準語는 多少의 參酌은 없지 못하야도 規則보다도 統計 問題가 더 重大하닛가 「덥으니」「짓으니」가 아모리 法에도 맞고 또 使用하는 地方이 있지마는 統計上 그것이 到底히 標準될 수는 없습니다.
+九 現今 漢ㅅ字를 中國ㆍ朝鮮ㆍ日本이 通用하되 그 音이다 다른 것을 보면 漢ㅅ字의 本音이 自己가 所有한 國音에 不合하기 문에 漢ㅅ字 及 自國音에 同化된 것을 알겠고 또 朝鮮만으로 말하드래도 訓民正音이나 月印千江曲이나 訓蒙字會나 現代 字曲에 記錄된 字音이 相異한 것을 보면 音이란 變遷하는 것을 알 것이올시다. 그러닛가 나는 漢ㅅ字音 全部를 表音式으로 하는 것이 合理的이라고 主張합니다.
+十 天은 「하늘」로 하는 것이 現 發音과 歷史에도 맞겠고 名은 「이름」으로 하고 兒의「아이」는 朝鮮語로「아해」는 漢語로 區別하는 것이 좋겠습니다.
+
+綜合統計
+以上 各解答을 綜合하여 보건대 그 可否 數爻가 大略 아레와 같슴니다. 斷定하여서 말슴 아니 하신 이가 있기 때문에 가다가 빠진 것도 있음니다. 이것으로 文法上 斷案을 내리자는 것은 아니나 專門學者들의 意見의 主流는 發見할수 있는가 합니다.＜81＞
+
+回答總數十八案中
+一, 母音中, 字廢止가 可하다는 이………八
+否하다는 이………………………………………八
+條件附로 可하다는 이…………………………二
+二, ㄲㄸㅃㅉ等의 並書軆……………………一五
+ㅺㅼㅆㅾ等의 된시옷이 可하다는 이………一
+條件附로 並書軆가 可하다는 이………………二
+三, 댜샤쟈탸……等 廢止가 可하다는 이……二
+不可하다는 이…………………………………………十
+條件附로 可하다는 이………………………………六
+四, 「여름」「이르」가 可하다는 이…………六
+「녀름」「니르」가 可하다는 이……………十一
+五, ㄷㅈㅊㅋㅌㅍㅎ等도 다 받힘으로 씀이 可하다는 이……十八
+不可하다는 이…………………………………………無
+六, 「들어가」「걸어가」「벗어」가 可하다는 이……十六
+「드러가」「거러가」「버서」가 可하다는 이……二
+七, 「되어서」「그리어서」「막히어서」가 可하다는 이……八
+「되여서」「그려서」「막혀서」가 可하다는 이…………四
+「되여」「막히여」가 可하다는 이…………一
+兩便다 可하다는 이………………………………四
+八, 「덥으니」「울니」「짓으니」가 可하다는 이……八
+「더우니」「우니」「지으니」가 可하다는 이……五
+兩便 다 可하다는 이………………………………三
+其他………………………………………………………一
+九, 國音을 좇자는 이가…………………………十一
+漢音을 좇자는 이가…………………………………五
+十, 하늘………………六   이름………………八    아이………………十三
+한울………………六   니름………………三   아………………二
+하눌………………二   일음………………二   아희………………一
+하………………二   일홈………………一   ………………一
+하놀………………一   닐름………………一
+일훔………………一
+以上＜82＞
+＜65-82＞

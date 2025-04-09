@@ -1,0 +1,272 @@
+Magazine Title: 동광 제20호
+Publication Date: 1931-04-01
+Article Title: 朝鮮農村社會問題, 農村問題特輯 (Chosŏn Rural Social Problems, Special Feature on Rural Problems)
+Author: 林炳哲
+Article Type: 논설 (Editorial/Opinion Piece)
+
+(I) Agriculture and Capitalism
+
+Since the Industrial Revolution, following the industrial development of the World Powers, labor problems have occupied the majority of social issues.
+Conversely, in backward agricultural nations, which serve as raw material production sites and food supply areas for industrial countries, rural social problems have become the important ones. Although the agricultural sector is a primitive industry and the application of machinery is less than in industry, thus receiving less influence from capitalism, agriculture itself, along with its technical or economic characteristics, has already entered the vortex (渦中) of the capitalist economic organization from the feudal economic sphere. Therefore, agricultural social problems, alongside labor social problems, have become significant. In the primitive farming era, there were no problems that could be called rural social problems.<30>
+In Chosŏn, during the era of the land commune system based on forced organization, or since the unification of Silla, when Tang culture was imported during the reign of King Munmu, transforming the previous communes into the *kongjŏn* (公田 - public field) system, marking the feudal era of public land ownership, there were no issues qualifying as social problems.
+Rural social problems are issues that arose after the collapse of the feudal system and the implementation of private land ownership. In Chosŏn, this began from the end of Koryŏ, when *kongjŏn* started being passed down to descendants, and powerful figures began annexing *kongjŏn*, leading to the practice of private ownership. That is, from the time this state land ownership system was destroyed, rural social problems began to arise. As the capitalist economic organization gradually developed, rural social problems became even more problematic. Here, I intend to briefly outline the key points regarding the relationship between agriculture and capitalism that has created these problems.
+
+(1) Agriculture moving beyond self-sufficiency to become commodity production for the exchange economy.
+Before trade became widespread, agricultural products were merely for producing food necessary for one's own livelihood. Thus, in those times, a good harvest meant farmers lived abundantly. However, moving away from a self-sufficient economy into an era of exchange economy meant producing food as a commodity. Consequently, production not only had to be qualitatively good and quantitatively large, but prices also fluctuated based on market supply and demand. Therefore, under the capitalist economic organization, is it only advantageous if production is of good quality and large quantity? Not necessarily. There are times when it is advantageous for the enterprise even if production is small, as last year's bumper crop panic (豊作恐慌) demonstrates. Capitalism forced farmers to sell their agricultural products on the market to pay for their goods, fertilizer, farm tools, and private debts (私入金), plunging them into hardship within the monetary economy.
+
+(2) Capitalism's tendency towards bipolar decomposition also dividing agriculture into large farms and tenant farming.
+Just as capitalism in industry leads large enterprises to merge with small ones, ultimately dividing society into capitalists and laborers, this decomposition process also occurs in agriculture. The sound middle stratum of owner-farmers either becomes large farmers or tenant farmers, eventually leaving only wealthy farmers (豪農) and tenant farmers (小作農). Ultimately, unable even to cover production costs, they take the path of displacement, revealing the tragic state of the countryside. This is an internal contradiction of capitalist society and signifies the gravity of rural social problems.
+In other words, the economic status of farmers engaged in commodity food production, the class structure of farmers resulting from land annexation, the consequent tenant disputes (小作爭議), and all farmer movements constitute the rural problem and are also social problems.
+Now, I intend to briefly describe all these problems in Chosŏn.
+
+(II) Class Structure in Agriculture
+
+We have briefly seen the characteristics of agriculture under capitalism and the land system of Chosŏn. In Chosŏn, the transition from the collapsed feudal public land system to a modern private land ownership form occurred from Meiji 43 (1910), i.e., after the annexation.
+Until this time, there were no precise land ownership rights. Therefore, the Provisional Land Survey Bureau (臨時土地 調査局) was established, and based on the principle of declaration (申告主義), the survey began over eight years from March 18, Meiji 45 (1912), when the Chosŏn Civil Ordinance (朝鮮民事令) was enacted by Decree. Thus, private fields (私田) were assigned to private owners, and public fields (公田) became state land, marking the beginning (嚆矢) of land division in Chosŏn.<31>
+In the twenty-odd years since then, under various arrangements involving individuals, companies, and others, the land of Chosŏn has undergone intense division. Today, it has achieved a class structure, a division, that is in no way inferior to that of highly capitalized countries.
+Lenin (레닌) explained the class structure of agriculture by dividing it into six categories: (1) agricultural proletariat, (2) poor peasants (零細農), (3) small peasants (小農), (4) middle peasant class (中農階級), (5) rich peasant class (大農階級), and (6) large landlords (大地主).
+It would be good if we could obtain such complete statistics for research, but this is unattainable. According to statistics from the Government-General (總督府):
+
+Class-Based Farm Household Statistics (Unit: Thousands)
+
+[Table showing statistics for Landlord (지주), Owner-Farmer (自作), Owner-Tenant (自作兼小作), Tenant (小作) households for Taishō 8 (1919), Taishō 12 (1923), Taishō 15 (1926), Shōwa 3 (1928), Shōwa 4 (1929)]
+
+The statistics are as shown above.
+Of course, below the tenant farmers are the destitute farmers (窮農), who are the agricultural proletariat selling farm labor. Let us now glimpse the state of Chosŏn's agricultural class structure from these statistics.
+Looking at the percentage of landlords, it gradually increased from 100 in Taishō 8 (1919) to 170 in Shōwa 4 (1929). Tenant farmers increased even more sharply than landlords, from 100 to 127. While both landlords and tenants show an increase, the increase in landlords represents an increase in the propertied class, whereas the increase in tenants shows an increase in the propertyless class, revealing a fundamental difference in the nature of their growth. Furthermore, the middle stratum, the supposedly sound stratum (健實層) of owner-farmers, gradually diminished from 100 to 97, and owner-tenants decreased even more sharply than owner-farmers, from 100 down to 84.
+In other words, the wealthy and poor strata increased, while the middle stratum declined, as the numbers clearly demonstrate. This shows that all the characteristics of capitalist society are being realized in Chosŏn. I will defer discussing all the causes facilitating this decomposition<32> to another opportunity.
+
+(III) The Economic Status of Farmers
+
+Having left the realm of self-sufficiency and entered the era of the exchange economy, how devastating is the economic position farmers find themselves in? Of course, technical, economic, or social reasons likely underlie this. Although this short essay will not point out specific reasons, in essence, agriculture in Chosŏn is in the position of being a primitive industry and a food supply region.
+In such a disadvantageous position, farmers starve when production is low, and as seen last year, even with abundant harvests, they look up at the sky and curse. We have witnessed firsthand the precarious economic status of farmers.
+Now, let's examine the economic condition of Chosŏn farmers as revealed by numbers.
+
+Average Income and Expenditure per Chosŏn Farm Household (Based on "資料ニ關スル農家經濟" - Materials Regarding Farm Household Economy, Taishō 14 - 1925)
+
+[Table showing Income (수입), Expenditure (지출), and Balance (殘額) for Landlord (지주), Owner-Farmer (自作), Owner-Tenant (自作兼小作), and Tenant (小作) households]
+
+The statistics above are old. However, I believe they can serve as a reference. Income includes harvest, side jobs (副業), and other miscellaneous income. Expenditures include living expenses, cultivation costs, public charges (公課), tenant fees (소작료), and miscellaneous expenses. After offsetting income and expenses, even at that time, landlords had a surplus of 544 Wŏn, owner-farmers 85 Wŏn, and owner-tenants 25 Wŏn, showing that even owner-tenants had a surplus living. Only tenant farmers showed a debt of 11 Wŏn.
+These statistics are old and are from a Government-General (總督府) survey. Therefore, they cannot be considered a detailed investigation.
+Now, let's look at the results of a survey on the annual household finances of owner-farmers conducted last year by the Yŏnji Irrigation Association (蓮地水利組合) in Ch'ŏngju-gun (淸州郡) (per *tanbo* - 一反步, approx. 0.245 acres):
+
+O Income
+  Money 17 Wŏn 14 Chŏn 5 Ri
+  Polished Rice 2 Sŏk 4 Mal 5 Sŭng (1 Sŏk @ 6 Wŏn 75 Chŏn)
+  Money 2 Wŏn 25 Chŏn (Straw 45 Kwan, 1 Kwan @ 5 Ri)
+  Total 19 Wŏn 39 Chŏn 5 Ri
+O Expenditure
+  Money 2 Wŏn       Compost Cost
+  Money 4 Wŏn       Soybean Cake Cost
+  Money 6 Wŏn 80 Chŏn Labor Cost
+  Money 8 Wŏn       Association Fee
+  Money 1 Wŏn       Public Charges (公課費)
+  Total 21 Wŏn 80 Chŏn
+Deficit 2 Wŏn 45 Chŏn 5 Ri
+
+Such figures represent the reality of owner-farmer life. Of course, this calculation was made when polished rice prices were high, hence this level of deficit. Not only this statistic, but also the Tonga Ilbo (東亞日報) New Year issue's investigation into rural conditions, based on a survey in P'yŏngyang,<33> showed a similar deficit of 1 Wŏn 92 Chŏn. While there might be adjustments to make to these calculations, generally, there likely isn't a huge difference. And the fall in grain prices will cause a decrease in income, leading to further losses.
+In short, even the supposedly sound stratum (健實層) of Chosŏn's owner-farmers is struggling in a pit of debt.
+Now, let's look at the annual income and expenditure status of farm households surveyed by the Ansŏng-gun Office (安城郡廳) last year:
+
+O Average Cultivated Land per Farm Household: 1 Chŏng 5 Tan (approx. 3.675 acres)
+O Average Income per Farm Household: 853 Wŏn
+O Income per Person in Farm Household: 28 Wŏn 3 Chŏn
+O Daily Income per Person in Farm Household: 7 Chŏn 6 Ri
+
+These figures starkly reveal the economic ruin of Chosŏn's rural villages. That is, converted into monetary value under the current exchange economy, it shows the astonishing figure of a daily income per person of 7 Chŏn 6 Ri.
+We are witnessing the tragic economic status of Chosŏn farmers, seeing our farmers crying out and finally taking the path of displacement.
+
+(IV) Tenant Disputes (小作爭議)
+
+As discussed above, in Chosŏn's rural areas, the middle class, the sound stratum, is collapsing, leaving only landlords and tenant farmers (小作人), with the decomposition process continuing unabated. Economically, even owner-farmers face a life of debt, let alone stable living, so what about tenant farmers? Thus, the number of displaced farmers grows daily, and tenant disputes, which are nothing more than a final desperate struggle, increase year by year, becoming a grave Chosŏn social problem, as everyone acknowledges.
+Looking at the dispute statistics up to Shōwa 4 (1929):
+
+Tenant Disputes
+
+[Table showing Number of Cases (件數) and Number of Participants (人員) for Taishō 8 (1919) through Shōwa 4 (1929)]
+
+We can see figures like these.
+Since Taishō 8 (1919), along with the thought movement (思想運動), there were youth or groups guiding farmers, and as the statistics clearly show, disputes increased significantly, reaching 206 cases in Taishō 14 (1925).
+However, this did not last long, meeting the same fate as all movements. Since Shōwa 1 (1926), disputes decreased both quantitatively and qualitatively, but this was not a fundamental decrease but resulted from temporary severe pressure (高壓). Therefore, the number of cases and participants gradually increased again. This indicates that no matter what mediation or suppression (高壓) occurs, disputes will eventually erupt. These are likely numbers representing outbursts after enduring unbearable conditions, not actions instigated by temporary incitement from some leading elements.
+In Shōwa 4 (1929), there were 432 cases involving over 5,400 farmers. Quantitatively and qualitatively, the social impact was significant. The dispute at the Pui Sŏsŏn Farm (不二西鮮農場) in Yongch'ŏn (龍川), P'yŏngbuk (平北), which is still unforgettable,<34> was also one of these.
+Compared to Shōwa 3 (1928), this shows an increase of 286 cases and 1,522 participants. As discussed above, this can be seen as arising from the farmers themselves based on their economic interests, without leadership figures. The causes include transfer of cultivation rights (作權移動), excessive rent (作料過重), and landlord/overseer tyranny (舍音橫暴). How can this not be considered a social problem of great importance?
+In short, tenant disputes in Chosŏn since Shōwa 1 (1926) generally seem to lack an ideological background or leading elements, arising from the farmers' own economic crisis as they fall into ruin (零落). From this, we understand that resolving the disputes themselves is not the social issue; we must address the root cause of their ruin.
+
+(V) Peasant Movement (農民運動)
+
+In this short essay, the peasant movement cannot be omitted sequentially. However, due to the difficulty in obtaining research materials and space limitations, this issue must await a future opportunity. Like all movements in Chosŏn that began around 1920, the Chosŏn Nongmin Ch'ongdongmaeng (朝鮮農民總同盟 - Korean Farmer General Alliance), possessing over 200 cell organizations (細胞團軆), was founded in 1927, intensifying the peasant movement. However, due to bans on assembly, it could not fulfill its role. Since then, the peasant movement in Chosŏn has stagnated. Today, there are peasant movements operating through a couple of organizations' Farmer Societies (農民社), but they are generally focusing on farmer education and promoting practical economic awakening. Recently, youth groups from various religious organizations (宗敎團軆), witnessing the devastating state of rural villages, have turned their attention to education and similar projects, but they likely cannot escape the current status of the peasant movement in Chosŏn.
+
+Conclusion
+
+In short, the significance of Chosŏn's rural social problems is found less in the fact that 80% of the entire Chosŏn populace is engaged in farming, and more in the decomposition of the middle owner-farmer class, the sound stratum, resulting in either a small number of landlords or a vast majority becoming tenant farmers struggling in poverty. It is also found in the frightening fact that even the supposedly sound owner-farmers cannot avoid a deficit of over 2 Wŏn per *tanbo*.
+Furthermore, the vast majority of these tenant farmers are Chosŏn people, while the landlords are a few individuals or, overwhelmingly, large capitalist conglomerates (大資本閥), and moreover, these large capitalist conglomerates operate systematically (計劃的). This is why we cannot help but view it with great concern.
+Thus, the farmers of Chosŏn, despite sweating blood, earn an income of 7 Chŏn 5 Ri per day. This is the stable life of the farmers who make up 80% of the Chosŏn people. The conflict arising from this instability is called tenant disputes. How can one dismiss these disputes with a single word as unacceptable? How can establishing one or two tenant officials (小作官) eliminate this conflict? Isn't this merely a drop in the ocean (滄海一粟)?
+We are just watching these grave rural social problems of Chosŏn, indeed, the grave problems of the entire nation, like a fire across the river (對岸の火). How can this be our proper course of action? This fire is engulfing everything, so it is our fate that we cannot avoid wandering in this instability and ruin. Can we be satisfied with today's peasant movement? Can it sufficiently rescue us from this anxiety? I earnestly hope for a more progressive (猛進的) and more powerful peasant movement of ours to arise as a final wish.<35>
+
+Is the income and expenditure of Chosŏn farmers truly balancing out year after year? Tenant farmers certainly cannot, but what about owner-farmers? What about landlords? What is the development process of the tenant movement? What is the focal point of the Rural Revitalization Movement? Read this article. <33>
+<30-35>
+
+***
+
+**Summary**
+
+This 1931 article by Im Pyŏngch'ŏl analyzes the severe social and economic problems facing Korean farmers under Japanese colonial rule and the encroaching capitalist system. The author argues that the shift from subsistence farming to commodity production, coupled with the breakdown of traditional land systems and privatization, led to extreme class polarization. The intermediate owner-farmer class is collapsing, swelling the ranks of impoverished tenant farmers, while land ownership concentrates in the hands of a few landlords and large (often Japanese) capitalist enterprises. Even owner-farmers face debt, with statistics showing meager daily incomes. This economic distress fuels rising tenant disputes (小作爭議), seen not as instigated incidents but as desperate outbursts against unbearable conditions. The author criticizes the inadequacy of existing peasant movements and calls for a more vigorous, progressive movement to address the root causes of rural ruin, which affects 80% of the Korean population.
+
+For historians, this article offers a valuable contemporary perspective on the socio-economic impact of Japanese colonialism and capitalism on rural Korea. It provides statistical data (though acknowledged as potentially biased or incomplete) illustrating class stratification, farmer indebtedness, and income levels. The analysis of tenant disputes as a symptom of systemic economic crisis, the critique of colonial land policies, and the call for a strengthened peasant movement reflect the growing social tensions and nationalist undertones of the period. It highlights the perceived link between capitalist development, colonial exploitation, and the impoverishment of the Korean peasantry.
+
+***
+
+**Named Entities**
+
+林炳哲	임병철	Im Pyŏngch'ŏl
+朝鮮	조선	Chosŏn
+世界列强國	세계열강국	World Powers
+新羅	신라	Silla
+文武王	문무왕	King Munmu
+唐	당	Tang
+高麗	고려	Koryŏ
+明治	명치	Meiji
+臨時土地 調査局	임시토지 조사국	Provisional Land Survey Bureau
+朝鮮民事令	조선민사령	Chosŏn Civil Ordinance
+레닌	레닌	Lenin
+總督府	총독부	Ch'ongdokpu
+大正	대정	Taishō
+昭和	소화	Shōwa
+淸州郡	청주군	Ch'ŏngju-gun
+蓮地水利組合	연지수리조합	Yŏnji Irrigation Association
+東亞日報	동아일보	Tonga Ilbo
+平壤	평양	P'yŏngyang
+安城郡廳	안성군청	Ansŏng-gun Office
+平北	평북	P'yŏngbuk
+龍川	용천	Yongch'ŏn
+不二西鮮農場	부이서선농장	Pui Sŏsŏn Nongjang
+朝鮮農民總同盟	조선농민총동맹	Chosŏn Nongmin Ch'ongdongmaeng
+
+***
+
+**Glossary**
+
+列强國	열강국	World Powers
+後進農業國	후진농업국	Backward agricultural nation
+封建制度的	봉건제도적	Feudalistic
+渦中	와중	Vortex; midst of turmoil
+公田制度	공전제도	Public field system
+騰落	등락	Fluctuation (rise and fall)
+豊作恐慌	풍작공황	Bumper crop panic/crisis
+兩極分解性	양극분해성	Tendency towards bipolar decomposition/polarization
+豪農	호농	Wealthy farmer; large farmer
+小作農	소작농	Tenant farmer
+嚆矢	효시	Origin; beginning (lit. 'whistling arrow')
+零細農	영세농	Petty farmer; poor peasant
+窮農	궁농	Destitute farmer; impoverished peasant
+健實層	건실층	Sound/solid stratum (referring to middle-class owner-farmers)
+漸滅	점멸	Gradual decline/extinction
+副業	부업	Side job; sideline business
+藁	고	Straw (older form/Hanja reading used for 볏짚)
+作權移動	작권이동	Transfer of cultivation rights
+作料過重	작료과중	Excessive rent/tenant fees
+舍音橫暴	사음횡포	Tyranny/atrocities by landlord or overseer (舍音 likely refers to landlord/manager)
+細胞團軆	세포단체	Cell organization (in context of a movement)
+對岸の火	대안의 화	Fire across the river (idiom: someone else's problem, indifference)
+滄海一粟	창해일속	A drop in the ocean (idiom: insignificant amount)
+猛進的	맹진적	Aggressive; forceful; progressive; charging forward
+
+
+---------------------------
+
+
+잡지명	동광 제20호
+발행일	1931년 04월 01일
+기사제목	朝鮮農村社會問題, 農村問題特輯
+필자	林炳哲
+기사형태	논설
+
+朝鮮農村社會問題, 農村問題特輯
+						林炳哲
+(一) 農業과 資本主義
+산업혁명 이후 世界列强國의 공업발전을 따라 노동문제는 사회문제의 대부분을 점령하얏다.
+이 반면에 工業國의 原料生産地요 食糧供給地인 後進農業國에서는 농촌사회문제가 그 중요한 자가 되엇으니 비록 농업이란 산업부문이 원시적 산업이오 기계의 응용이 공업만 못하야 자본주의의 영향을 받음이 적다하더라도 이미 농업도 그 자체의 기술상 또는 경제상 특성과 아울너 封建制度的 經濟領域에서 資本主義 經濟組織 渦中에 드럿기 따문에 농업사회문제도 노동사회문제와 함께 중대성을 띠게 되엇다. 원시적 농경시대에 잇어서는 농촌사회문제란 문제가＜30＞ 없엇다.
+朝鮮에 잇어서는 强制組織에 의한 土地共有制度 時代에 라든지 新羅統一이래 文武王때 唐의 文化를 수입하야 종래의 共有를 公田制度로 하야 封建的 土地公有時代로 하얏을 때까지 사회문제로서의 문제가 없엇다.
+농촌사회문제란 봉건제도가 문허지고 토지사유가 행하여 진 이후의 문제니 朝鮮에 잇어서는 高麗末葉 이후 公田을 자손에게 傳承하고 權力者가 公田을 兼倂하여 私有가 행하여지게 되엇다. 즉 이 土地國有制度 파괴된 때부터 농촌사회문제는 일기를 시작하엿다. 그리하야 차츰 자본주의 경제조직이 발달하여 감에 따라 농촌사회문제는 더욱 문제화하게 되엇으니 이에서 문제를 빚어낸 농업과 자본주의의 관계를 두어 요점을 들어 略述하려고 한다.
+(1) 농업이 自作自給의 영역을 떠나 交換經濟의 목적물인 상품생산업이 된 것.
+교역이 널리 행하여지기 전에 농산물은 自家生活에 필요한 식량생산에 불과하엿다. 그리하야 그때에는 豊年이 들면 農民이 풍족한 생활을 하엿거니와 自足經濟에서 떠나 交換經濟 시대에 들어와서는 상품으로서의 식량생산을 하게 되엇다. 그리하여 생산은 질적으로 좋고 양적으로 다량을 생산하여야 될 뿐 아니라 시장의 수급관계에 의하야 가격이 騰落하게 된다. 그럼으로 자본주의 경제조직하에서는 생산이 良質이고 多量이라야만 유리하냐 하면 그러치 않다. 비록 생산이 적을지라도 企業上 유리한 때가 잇으니 작년의 豊作恐慌이 實例다. 자본주의는 농민으로 하여금 농산물을 시장에 팔아 그 産物, 비료, 農具, 私入金 등을 물게하는 화폐경제 그 속에 넣어 곤경을 겪게 하엿다.
+(2) 자본주의의 兩極分解性에 의하야 농업도 大農과 小作으로 분해시킨 것.
+자본주의는 공업에 잇어서도 대기업이 小企業을 병합하야 결국 자본가와 노동자로 나누어 놓지마는 농업에 잇어서도 이 分解作用이 행하여저서 健實層인 자작농은 大農化하든지 小作化하든지 하야 결국 豪農과 小作農만 남아 최후로 생산비도 빼지 못하여 流離의 길을 떠나는 농촌의 참상을 나타내고 잇으니 이 자본주의사회의 내적 모순인 동시에 농촌사회문제로서의 중대성을 의미하는 것이다.
+다시 말하면 상품으로서의 식량생산업을 하는 농민의 경제적 지위가 또는 토지겸병으로 인한 농민의 계급구성이 농촌의 문제며 이로 인한 小作爭議며 농민의 모든 운동이 또한 사회적 문제일 것이다.
+이제 朝鮮의 이 모든 문제를 簡明하게 述하려 한다.
+
+(二) 農業의 階級構成
+자본주의 아래에서 농업이 가진 바 특징과 朝鮮의 토지제도도 그 일단을 보엿다. 朝鮮에 잇어서 봉건적 토지공유제가 문허진 뒤에 근대적 토지사유형태로 一轉하기는 明治 43년 즉 合倂이후로부터다.
+이때까지 정확한 토지 소유권이 없엇다. 그럼으로 臨時土地 調査局을 設하야 8년간 계속으로 申告主義에 의하야 조사를 착수하기가 明治 45년 3월 18일 制令으로써 朝鮮民事令을 시행한 때부터다. 그리하야 私田에 대하야 私有權者로 하고 公田은 國有地로 하야 이로부터 朝鮮의 토지는 分離의＜31＞ 嚆矢를 짓게 되엇다.
+이 이후 20여 년간 혹은 개인, 혹은 회사, 기타 여러 가지 방식하에 朝鮮의 토지는 격렬한 分離作用을 하여 금일에는 극도의 자본주의화한 나라에 비하야 조곰도 지지 안을 分離 즉 계급구성을 이루고 말앗다.
+「레닌」은 농업의 계급구성으로 (1) 농업 푸로레타리아 (2) 零細農, (3) 小農, (4) 中農階級 (5) 大農階級, (6) 大地主 여섯가지로 구분하야 설명을 하얏다.
+이같이 완전한 통계를 얻어 연구하엿으면 좋켓지마는 이는 얻을 수 없는 것이다. 이제 總督府 통계에 의하면
+
+階級別 農家 戶數統計(千 단위)
+
+이상 통계와 如하다.
+물론 小作農 이하로 窮農이 잇으니 이는 농업노동을 파는 농업 푸로레타리아다. 이제 이 통계에서 朝鮮의 농업계급상태를 엿보자.
+지주의 百分比를 보면 大正 8년 百에서 점차 증가하야 昭和 4년에는 170에 달하얏엇고 小作은 百에서 地主의 比보다 度數를 좀 더 강하게 증가하야 127에 달하엿다. 지주나 小作이 마찬가지의 증가를 보이나 지주의 증가는 有産者의 증가요 小作의 증가는 無産層의 증가를 보여주고 잇으니 그 증가의 성질에 근본적 차이를 우리는 알 수가 잇다. 그리고 中間層 즉 健實層이라고 할만한 自作은 100에서 漸滅되어 97에 달하얏고 自作兼小作은 100에서 自作보다 좀더 강조로 84로 減下를 보여주고 잇다.
+다시 말하면 貧富兩層은 증가하고 中間層의 몰락을 數字가 여실히 증명하고 잇으니 朝鮮에 잇어서는 자본주의사회의 모든 특징이 실현되고 잇음을 알 것이다. 이에서 다시 붓을＜32＞ 돌려 이 分離作用을 조력하는 모든 원인에 대한 것은 다른 기회로 미루려 한다.
+
+(三) 農民의 經濟的 地位
+自作自給의 영역을 떠나 교환경제시대에 드러와서 농민의 경제적 지위란 그 얼마나 참패적 지위에 처하얏는가? 물론 이에는 기술적, 경제적, 또는 사회적, 이유가 潛在하야 잇을 것이다. 이 小論에서 구체적 이유를 지적치 않거니와 요컨대 朝鮮의 농업이란 산업으로서의 원시적인 농업, 식량공급지로서의 농업, 이러할 지위에 처하엿다.
+이러한 불리한 지위에서 생산이 적어도 굼고, 작년같이 많아도 하늘을 우러러 咀呪하고 잇는 농민의 불안한 경제지위를 우리는 實例로 보앗다.
+이제 다음에서 數字上으로 나타난 朝鮮農民의 경제상태를 考察하려 한다.
+
+朝鮮農家 1戶當 收支平均表(대정 14년도 「農家經濟ニ關スル資料」에 의하다)
+
+이상 통계는 조사한 年數가 오라다. 그러나 이도 한 참고는 될 줄 믿는다. 수입에는 수확, 副業, 기타 雜收入이 잇고 지출에는 생활비, 경작비, 公課, 소작료, 雜支出 등이 잇다. 이러한收支計算 相殺를 하고서도 그때는 지주 544원, 自作 85원, 兼 小作 25원이어서 自作 兼 小作도 여분의 생활을 하엿다는 것을 보여주고 小作만이 11원의 부채를 가젓다는 것을 보여주고 잇다.
+이는 年數도 오랏고 또 總督府 調査다. 그래서 세밀한 조사라고 할 수 없다.
+이제 작년 중의 淸州郡 蓮地水利組合에서 행한 自作農에 대한 1년간 농가생활 조사통계를 보면(一反步에 대하야)
+
+O 收入
+金  17圓 14錢 5厘
+正租 2石 4斗 5升(1石 6원 75전)
+金   2원 25전(藁 45貫, 1貫 5厘)
+計  19원 39전 5리
+O 支出
+金 2원       堆肥代
+金 4원       大豆粕代
+金 6원 80전  勞役費
+金 8원       組合費
+金 1원       公課費
+計 21원 80전
+差引 不足 2원 45전 5리
+
+이와 같은 數字가 自作農의 生活裏面이다. 물론 이 통계는 正租가 高價인 시기의 계산이니 이 만콤한 부족이다. 이 통계 뿐 아니라 東亞日報 新年號 農村實情調査에 平壤의 조사에＜33＞ 의하여도 이 조사와 비슷한 1원 92전이 부족이엇다. 물론 이 계산에 加減할 곳이 잇을 것이나 대체로 보아 큰 차는 없을 것이다. 그리고 穀物價 하락은 즉 수입의 감소를 이르킬 것이니 이에서 더욱 損을 볼 것이다.
+요컨대 健實層이라고 할 朝鮮의 自作農도 이같이 부채의 구렁이에서 헤매게 되엇다.
+이제 다시 작년 중 安城郡廳에서 조사한 農家 1년간 收支狀態를 보면
+
+O 農家平均耕地 1戶 1町 5反
+O 農家 1戶 평균수입 853원
+O 農家 1人 收入 28원 3전
+O 農家 1人 1日 수입 7전 6厘
+
+이러한 數字로써 절실히 朝鮮農村의 경제적 파멸상을 나타내고 잇다. 즉 교환경제의 현상에 잇어서 화폐가치로써 환산하면 1일 1인 수입 7錢 6厘라는 놀라운 數字를 보여 주고 잇다.
+이같이 참담한 朝鮮農民의 경제적 지위를 우리는 보고 잇으며 우리 농민들의 울부짓고 마츰내 流離에 길을 떠나는 광경을 보고 잇다.
+
+(四) 小作爭議
+朝鮮의 농촌에는 이상에서 논한 바와 같이 中間階級인 健實層은 몰락하야 지주와 小作人만을 남기고 分解作用이 끊질사이 없고 경제적으로 自作農까지도 생활안정은 고사하고 부채의 생활을 하니 小作農에 잇어서랴. 이리하야 날로 늘어나는 것은 流離農民이어니와 최후의 발악에 지나지 안는 小作爭議는 년년 증가하야 朝鮮社會問題의 중대한 것이 되어 잇음은 누구나 시인하는 바이다.
+이제 昭和 4년까지의 爭議統計를 보건대
+
+小作爭議
+
+이와 같은 數字를 볼 수 잇다.
+大正 8년 이후 思想運動과 함께 農民指導靑年 혹 단체가 잇어 현저히 통계에서 보는 바와 같이 爭議는 증가하야 大正 14년에는 206회의 件數를 내엇다.
+그러나 이는 長久한 시일을 가지 못하야 모든 운동과 마찬가지 운명에 이르럿다. 이래 昭和元年부터는 양적으로나 질적으로나 爭議가 감소되엇으나 이는 근본적 감소가 아니라 一時的 高壓에 의한 것이기 따문에 차츰차츰 그 건수나 참가인수가 증가되어 간다. 이는 비록 어떠한 中裁 혹은 高壓이 잇더라도 마츰내 터진 爭議일 것이니 어떠한 指導分子의 일시적 충동에 의한 것이 아니라 참다 참다 못하야 터지고 만 그것들의 數일 것이다.
+昭和 4년도는 건수로 432건이오 人物로 5,400여 농민이 움지겻으니 양적으로나 질적으로 그 사회적 파동은 컷든 것이니 지금도 기억에 사라지지 안는 平北 龍川 不二西鮮農場의＜34＞ 爭議도 亦 이 중에 하나일 것이다.
+이것을 同 3년에 비하면 件數로 286件, 人數로 1,522人의 증가를 보인다. 이는 이상에서도 論하엿지마는 指導人數도 없이 농민자신들이 경제적 이익선상에서 이러난 것으로 볼 수 잇다. 그 원인에 잇어서는 作權移動, 作料過重, 舍音橫暴 등이니 이 어찌 사회문제로써 중요성을 가진 자 아닐까.
+요컨대 朝鮮의 小作爭議는 昭和 元年 이후로는 대체 사상적 배경도 없고 指導分子도 없이 이러나는 농민자신들의 경제적 위기에서 零落에 빠지는 그때에 이러난 것이라고 볼 것이다. 이에서 우리는 爭議 자체만을 해결함이 사회문제가 아니라 그 零落의 근본에 드러가지 안아서는 안 될 것이다.
+
+(五) 農民運動
+이 小論에 잇어서 순서로 농민운동을 뺄 수는 없다. 그러나 조사자료를 얻기 어려움과 紙面關係로 이 문제는 후일을 待할 수밖에 없다. 1920년경부터 이러난 朝鮮의 모든 運動과 같이 同 27년에는 200여 細胞團軆를 가진 朝鮮農民總同盟이 창립되어 농민운동이 격렬화하엿으나 그러나 집회금지로 말미암아 그의 역할은 다 하지 못하엿다. 이래 朝鮮의 농민운동은 침체되엇다. 금일에 잇어서 두어 기관의 農民社를 통한 농민운동이 잇으나 대체는 農民敎養과 實際經濟的 覺醒促進運動에 전력하고 잇다. 또한 최근에는 각 宗敎團軆의 靑年團에서 농촌의 破滅相을 보고 이에 교양 등 사업에 着目하고 잇으나 실로 朝鮮의 농민운동의 지위에서 떠나지 못할 것이다.
+
+結論
+요컨대 朝鮮의 농촌사회문제는 全朝鮮民族의 8割이 농사에 종사함에서 그 중요성을 발견하는 것보다도 차라리 중간 自作農 즉 健實層의 分解作用에 의하야 小數의 지주가 아니면 多大數가 빈궁의 지위에서 헤매이는 小作農이 되는 것에서이며 또한 健實層이라고 이를 自作農까지 一段步에 2원여의 부담을 지지 안을 수 없다는 무서운 사실에서 우리는 중대성을 발견한다.
+그리고 그 多大數의 小作農이란 전부가 朝鮮人이며 지주란 幾人의 개인이오 그 多大數가 大資本閥임에서 이며 더욱 그 大資本閥은 계획적임에서 우리는 중대시하지 안을 수 없다.
+이리하여 朝鮮의 농민은 비지땀을 흘리고도 하로에 7전 5厘라는 수입을 얻게 되니 이 朝鮮民族의 8割인 농민의 생활 안정이다. 이 불안 속에서 이러나는 충돌을 이름하야 小作爭議라 한다. 어찌 一言으로써 이 爭議를 不可라 하며 어찌 한두 小作官을 두어서 이 충돌을 없애랴함은 滄海의 一粟에 지나지 못할 것이 아니랴.
+이러한 중대한 朝鮮의 농촌사회문제, 아니 全民族의 중대문제를 우리는 對岸의 火처럼 보고만 잇을 뿐이다. 이 어찌 우리의 할 바 일이며 이 불이 전체를 휩쓸고 잇으니 이 불안과 파멸에 모다 헤매지 안을 수 없는 운명이다. 이에서 우리는 금일의 농민운동으로써 만족할 수 잇으며 넉넉히 이 불안을 구할 수 잇으랴. 보다 猛進的이고 보다 힘잇는 우리의 농민운동이 이러나기를 마지막으로 바란다.＜35＞
+
+조선농민의 收支는 과연 年年히 收支相殺가 되어 가는가. 小作人은 물론 안되겟지마는 自作農은 어떠한가 지주는 어떠한가. 소작운동의 발달과정은 어떠한가. 農村甦生運動의 중심점은 무엇인가 이 논문을 읽으라.＜33＞
+＜30-35＞

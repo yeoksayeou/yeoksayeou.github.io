@@ -1,0 +1,60 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 第六官 (The Sixth Official/Sense - likely referring to the wife's influence or intuition)
+Author: Unspecified
+Article Type: 소식 (News/Tidings)
+
+The Sixth Official/Sense
+Why Mr. Yi Kwangsu Cannot Leave Home
+
+Ch’unwŏn (春園 - Yi Kwangsu's pen name) had published a statement in the Tonga Ilbo announcing that he would discontinue the first part of his novel "Hŭk" (흙 - Earth), which he had been serializing in the paper, and would instead leave for a Tan’gun Historical Site Expedition (檀君遺跡探査). However, before long, Ch’unwŏn did not go, and instead, Mr. Hyŏn Chin-gŏn (玄鎭健), the newspaper's Social Affairs Section Chief, went in his place, and the serialization of "Hŭk" resumed.
+
+While there are various speculations about the reason for this change, investigation reveals it was because his wife allegedly made a fuss, asking how a person missing one kidney could possibly climb mountains.
+
+Furthermore, it is said that behind his wife's determined efforts to stop him lies the strong indication that she will soon be blessed with a precious baby boy (옥동자?). Gossiping friends are abuzz, saying that since Ch’unwŏn already has three sons, if he gains one daughter this time, his fortune regarding descendants (子孫福) will fit the standard pattern perfectly.
+
+**Summary**
+
+This short news piece reports that the famous writer Yi Kwangsu (pen name Ch'unwŏn) canceled his planned expedition to Tan'gun historical sites, which he had announced in the Tonga Ilbo, where he was serializing his novel "Hŭk". The article attributes the cancellation primarily to his wife's strong objections due to his health (missing a kidney) and her apparent pregnancy. Instead of Yi, Hyŏn Chin-gŏn, the newspaper's social affairs chief, undertook the trip. Friends speculate about the expected child, hoping for a daughter to balance his three sons. From a colonial history perspective, the article offers a glimpse into the personal life and public image management of a major intellectual figure like Yi Kwangsu, revealing how personal matters (health, family pressures) intersected with public activities (writing, nationalist-tinged expeditions like the Tan'gun search) and were subject to public discussion and gossip even under colonial rule. It also subtly shows the workings of the press (Tonga Ilbo) and the interactions between prominent literary figures.
+
+**Named Entities**
+
+李光洙	이광수	Yi Kwangsu
+春園	춘원	Ch'unwŏn
+동아일보	동아일보	Tonga Ilbo
+玄鎭健	현진건	Hyŏn Chin-gŏn
+檀君	단군	Tan’gun
+
+**Glossary**
+
+第六官	제육관	The Sixth Official/Sense (Metaphorical title, likely referring to the wife's influence)
+게재하든	게재하던	used to publish/serialize (Older verbal ending form -든 instead of -던)
+중지하고	중지하고	stopping, discontinuing
+遺跡探査	유적탐사	historical site expedition/exploration
+떠나겟노라	떠나겠노라	(I) declare I will depart (Older emphatic declarative ending -겠노라)
+未久	미구	soon, before long (Sino-Korean term, less common now than 머지않아)
+나니가고	안 가고 / 나서지 않고	did not go (Likely archaic phrasing or typo for 안 가고)
+腎臟	신장	kidney
+裡面	이면	behind the scenes, the inner reason/story
+近近에	근간에	recently, soon (Older form, now 근간에 or 가까운 시일 내에)
+옥동자(?)	옥동자	precious son (often used for an expected baby boy; the '?' indicates speculation)
+徵兆	징조	sign, indication, omen
+따문이라	때문이라	is because (Older spelling/pronunciation of 때문이라)
+잇으니	있으니	since there is/are (Older spelling of 있으니)
+득하면	득하면	if (one) obtains/gets
+子孫福	자손복	fortune/blessing regarding descendants
+格대로	격대로	according to the standard/pattern/rule
+분분하다	분분하다	to be diverse (of opinions); buzzing (with talk/gossip)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	第六官
+기사형태	소식
+
+第六官
+李光洙씨가 집을 못떠나는 까닭
+春園이 지난 날에 동아일보에 게재하든 소설 흙은 上篇으로 중지하고 檀君遺跡探査로 떠나겟노라는 성명을 紙上에다 실리더니 未久에 춘원이 나니가고 그 대신 同社 社會部長 玄鎭健君이 가게 되고 「흙」이 다시 오르게 되엇다. 그리된 까닭에 여러 가지로 추측되지마는 탐사한 바에 의하면 令夫人께서 腎臟 한쪽 없는 사람이 산에를 어떠케 오르느냐고 야단을 친 까닭이라 한다. 그리고 부인께서 한사코 만류하는 裡面에는 近近에 옥동자(?)를 얻으실 징조가 농후하기 따문이라 한다. 뒷공론하는 친구들은 춘원이 이미 3男이 잇으니 이번에 1女만 득하면 子孫福은 格대로 타는 셈이라고 분분하다.

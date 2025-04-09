@@ -1,0 +1,85 @@
+**Header Section**
+Magazine Title: 동광 제27호
+Publication Date: 1931년 11월 10일
+Article Title: 모던 行進曲(其二) (Modern March (Part 2))
+Author: None specified
+Article Type: 소식 (News)
+
+**Body Text Translation**
+Modern March
+
+Trans-Pacific Flight Success – Flying Across the Vast Expanse
+Americans Mr. Pangborn and Mr. Herndon, riding the airplane "Miss Veedol" (미스비들), departed Sabishiro (淋代), Japan at 7:00 AM on October 4th. After flying across the Pacific for 41 hours, they finally conquered the 4,700-*ri* blue sky and safely arrived in Wenatchee, USA. It is said that tears of emotion flowed from the eyes of Pangborn's mother when she saw her son's airplane in the sky.
+
+World Speed Record for a Train at 85 Miles Per Hour
+The special express train "Cheltenham Flyer" (체르레남푸라이야) running between London and Swindon to its west is said to have set a new world speed record by traversing the 77 and 1/4 *ri* [miles] between London and Swindon in 1 hour. When the train arrived in London, its speed was an astonishing 85 *ri* [miles per hour]. If this train were placed between Kyŏngsŏng and P'yŏngyang, the 162 *ri* [miles] distance could be covered back and forth in merely 2 hours. <60>
+
+**Summary**
+
+This article reports two technological achievements: the first non-stop trans-Pacific flight by Americans Clyde Pangborn and Hugh Herndon Jr. in the "Miss Veedol" airplane, and a new world speed record set by the British "Cheltenham Flyer" train. The flight covered 4,700 *ri* [miles] in 41 hours from Japan to the US, while the train reached 85 mph between London and Swindon. The article relates the train's speed to the distance between Kyŏngsŏng (Seoul) and P'yŏngyang, suggesting the 162-mile journey could be done in under two hours. For historians, the article highlights the keen interest in modern Western technology (aviation, railways) within colonial Korea and the attempt to contextualize these advancements by comparing them to Korean geographical scales (Kyŏngsŏng-P'yŏngyang distance), possibly reflecting aspirations or anxieties about modernity and speed during that era.
+
+**Named Entities**
+
+광본	광본	Pangborn
+헌돈	헌돈	Herndon
+미스비들	미스비들	Miss Veedol
+일본	일본	Japan
+淋代	임대/림대	Sabishiro
+太平洋	태평양	Pacific Ocean
+미국	미국	United States
+웨나치	웨나치	Wenatchee
+倫敦	런던	London
+스윈든	스윈든	Swindon
+체르레남푸라이야	체르레남푸라이야	Cheltenham Flyer
+京城	경성	Kyŏngsŏng
+平壤	평양	P'yŏngyang
+
+**Glossary**
+
+行進曲	행진곡	March (music genre, used metaphorically here for progress)
+太平洋	태평양	Pacific Ocean
+橫斷	횡단	Crossing, traversing
+成功	성공	Success
+萬里長空	만리장공	Vast expanse of sky (lit. ten-thousand-ri long sky)
+비행기	비행기	Airplane
+출발하야	출발하여	Departing (older spelling/form of 하여)
+시간	시간	Hour(s)
+드디어	드디어	Finally, at last
+蒼空	창공	Blue sky, the azure
+征服	정복	Conquest, conquering
+무사히	무사히	Safely, without incident
+도착하엿다	도착하였다	Arrived (older spelling of 하였다)
+감격	감격	Deep emotion, being moved
+時速	시속	Speed per hour
+哩	리	Mile (unit of distance, transliterated)
+汽車	기차	Train (steam train)
+世界的	세계적	World-class, global
+新記錄	신기록	New record
+特別急行列車	특별급행열차	Special express train
+사이	사이	Between
+주파하야	주파하여	Traversing, covering (distance) (older spelling/form of 하여)
+지엇다	지었다	Set, established (a record) (older spelling of 지었다)
+임시에는	때에는	At the time when (older form/usage)
+速力	속력	Speed
+勿驚	물경	Approximately, astonishingly (used here for emphasis)
+之間	지간	Between (distance)
+갓다 놓면	갖다 놓으면	If one were to place/put (older spelling)
+불과	불과	Merely, only, just
+왕복	왕복	Round trip
+가능	가능	Possible
+
+
+---------------------------
+
+
+잡지명	동광 제27호
+발행일	1931년 11월 10일
+기사제목	모던 行進曲(其二)
+기사형태	소식
+
+모던 行進曲
+太平洋橫斷成功 萬里長空을 날아지고
+미국인 「광본」, 「헌돈」 량씨는 비행기 「미스비들」호를 타고 10월 4일 오전 7시에 일본 淋代를 출발하야 太平洋을 날기를 41시간 드디어 4천7백리의 蒼空을 征服하고 무사히 미국 웨나치에 도착하엿다. 공중에 아들이 탄 비행기를 본 광본의 어머니의 눈에는 감격의 눈물이 흘럿다 한다.
+
+時速85哩 汽車의 世界的新記錄
+倫敦과 그 서방에 잇는 「스윈든」 사이의 특별급행열차 「체르레남푸라이야」호는 倫敦과 스윈드 간 77리 4분 1을 1시간에 주파하야 세계적 新速記錄을 지엇다 한다. 그 기차가 倫敦에 달 임시에는 그 速力 勿驚 85哩. 京城, 平壤之間 이 汽車를 갓다 놓면 162哩는 불과 2시간에 왕복이 가능.＜60＞

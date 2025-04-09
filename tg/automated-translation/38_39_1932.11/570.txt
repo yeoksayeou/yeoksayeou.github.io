@@ -1,0 +1,85 @@
+Magazine Title	東光 제39호
+Publication Date	1932년 11월 01일
+Article Title	(詩調)田園에 드는 가을, 가을볓 아레서 (Sijo: Autumn Entering the Countryside, Under the Autumn Sun)
+Author	趙宗玄
+Article Type	시 (Poem)
+
+Cho Chonghyŏn
+Corn ripens. In the warm early autumn sun,
+Early rice also matures. Yesterday and today are different.
+Walking by the edge of the field, is it only my heart that is this happy?
+
+This single grain of rice is blood and sweat.
+Will the one who shed blood and sweat harvest it? I do not know.
+As the years change and come around, the moon is eaten in the middle.
+
+Twelve months a year, on which day can hands and feet rest?
+Awake or asleep, day and night, the only worry is the thought of farming.
+To think that after diligently farming, one ends up unable to eat it oneself.
+
+When you look at it, all the things earned through effort are for naught.
+They fly away from the threshing floor like sparks flying from a fire.
+Ah, this reality of ours is like this, indeed it is. <124>
+
+**Summary**
+
+This Sijo by Cho Chonghyŏn contrasts the beauty of the autumn harvest season in the countryside with the harsh reality faced by farmers. While the poet initially feels joy seeing the ripening crops, the poem quickly turns somber, reflecting on the farmers' toil ("blood and sweat") and questioning whether they will enjoy the fruits of their labor. The final stanza laments the farmer's plight, where their hard work yields nothing for themselves, suggesting exploitation and hardship. From a colonial history perspective, the poem is significant as it subtly depicts the economic struggles and potential exploitation faced by Korean farmers, likely tenant farmers, during the Japanese colonial period, where much of the agricultural output benefited landlords or the colonial regime rather than the cultivators themselves.
+
+**Named Entities**
+
+趙宗玄	조종현	Cho Chonghyŏn
+
+**Glossary**
+
+詩調	시조	Sijo (traditional Korean poetic form)
+田園	전원	Countryside, rural area
+가을볓	가을볕	Autumn sunlight (older spelling)
+아레서	아래서	Under (older spelling)
+여물 든다	여물 들다	To ripen, bear fruit
+따순볓	따순 볕	Warm sunlight (older spelling/dialectal form)
+올베	올벼	Early rice
+달려진다	달라진다	To become different, change (older form/spelling)
+밭귀	밭귀	Edge of a field
+내만이리	나만 이러하리	Is it only I who is like this? (older form/contraction)
+피요	피와	Blood and (older particle form)
+거둘가	거둘까	Will (they) harvest? (older interrogative ending)
+몰라라	몰라라	I don't know (emphatic or archaic form)
+달은 중정 먹히네	달은 중정 먹히네	The moon is eaten in the middle (Figurative phrase, perhaps implying loss or exploitation before completion/distribution; '중정' might mean 'middle' or 'courtyard', exact nuance is debated)
+재우려	재우려	Intending to let rest
+벗으론	-	Appears related to effort/diligence in context ("애써서 벗으론 농사" - farming done diligently), precise grammatical function/origin unclear, possibly archaic or dialectal.
+제	제	Oneself, self (pronoun)
+볼작시면	볼작시면	If one looks (older conditional form of 보다)
+모다	모두	All (older form)
+불틔	불티	Sparks (older form)
+날러간다	날아간다	Flies away (older form/spelling)
+것차다	거참	Exclamation of resignation, regret, or emphasis ('Ah!', 'Alas!', 'Indeed!')
+정상	정상	Situation, circumstances, reality
+이러함네	이러하네	It is like this (older declarative ending)
+그리여	그러하여	Yes, indeed, it is so (older affirmative form/contraction)
+
+
+---------------------------
+
+
+잡지명	동광 제39호
+발행일	1932년 11월 01일
+기사제목	(詩調)田園에 드는 가을, 가을볓 아레서
+필자	趙宗玄
+기사형태	시
+
+趙宗玄
+옥수수 여물 든다. 초가을 따순볓에
+올베도 익어간다. 어제 오늘 달려진다.
+밭귀에 거니는 마음 내만이리 기쁜가.
+
+곡식 이 한톨 이대로 피요 땀을
+피, 땀 흘린 이가 거둘가 내 몰라라
+해마다 바뀌어 오면 달은 중정 먹히네.
+
+일년 열두달을 어느날에 손, 발 재우려
+자나깨나 주야걱정 농사 지을 마음뿐이
+애써서 벗으론 농사 제 못먹고 말다니
+
+없고 볼작시면 애써 번 것 모다 헛것
+타작 마당에 불틔 날 듯 날러간다.
+것차다 우리네 정상 이러함네 그리여.＜124＞

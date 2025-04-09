@@ -1,0 +1,173 @@
+Magazine Title	동광 제24호
+Publication Date	1931년 08월 04일
+Article Title	오를까 내릴까 今秋의 米價觀, 1斤 3錢 9厘乎 (Will it Rise or Fall? A View on This Autumn's Rice Price, 1 Kŭn for 3 Chŏn 9 Ri?)
+Author	徐椿
+Article Type	논설 (Editorial/Commentary)
+
+Will it Rise or Fall? A View on This Autumn's Rice Price, 1 Kŭn for 3 Chŏn 9 Ri?
+						Sŏ Ch'un
+
+1. Significance of "This Autumn's Rice Price"
+
+It has already been about three months since *Tonggwang* asked me to write an article forecasting "This Autumn's Rice Price." It wasn't that I didn't want to write it, but dragged along by various circumstances, I haven't been able to write until now (July 9th), when I finally take up my pen.
+
+"Forecasting the Rice Price" – this is an audacious plan, bold, and consequently, fraught with danger. As the Japanese proverb goes, "An inch ahead is darkness" (一寸先は闇), and people generally do not know what tomorrow holds. Therefore, claiming to know the unknown is firstly audacious, and not only that, but such endeavors are substantially accompanied by risk. Despite this, why have I dared to take up my pen? The answer is as follows.
+
+It is impossible to know for sure what the price of rice, currently 1 *sŏk* for 15 *wŏn* 30 *chŏn*, will be in *wŏn* and *chŏn* six months from now in November. It is also impossible to accurately predict what the price of 1 *kŭn* of unhulled rice (正租), currently 4 *chŏn* 2 *ri* per *kŭn*, will be in *chŏn* and *ri* when the new grain comes to market. However, it is not entirely impossible to roughly guess whether it will rise or fall compared to the present, or if it rises, by how much, and if it falls, by how much. In other words, this level of conjecture is not entirely impossible by grounding it in the past or considering the current situation. Therefore, I have taken up my pen with only this much confidence, and I feel obliged to particularly note that this will merely serve as a reference point for those who have a significant stake in the rise and fall of rice prices.
+
+Next, regarding the phrase "This Autumn's Rice Price forecast," what does "This Autumn" (今秋) refer to? It is necessary to clarify this beforehand as well. "This Autumn" refers to the upcoming period when new grain comes to market. In calendar terms, it refers to the rice price from November onwards. As most people know, the rice fiscal year begins each November and ends the following October. Therefore, October is the month when the old grain is nearly exhausted, and the new grain is about to emerge; in modern Japanese terminology, this is called the "transitional period" (端境期).
+
+By this point, readers may have developed a suspicion. What suspicion? The suspicion is, "If you are going to write a rice price forecast anyway, why omit the four months from this June until the transitional period in October?" The reasons for this omission are as follows.
+
+(1) These four months are the final "one-third" of the rice fiscal year, and regardless of whether the economic situation (景氣) is good or bad, it is customary for rice prices to rise somewhat. Even if negative economic factors emerge causing futures rice (期米) prices to fall, unless it is a drastic plunge amounting to a crash, it is customary for hulled rice (正米) and retail prices not to fall accordingly. (Of course, when futures rice prices soar, hulled rice and retail prices sensitively follow suit, but at this year's prices, unless there is a natural disaster predicting a major crop failure, there are no factors whatsoever to induce a rise in futures rice prices. The reasons for this will become clear below.) <24>
+
+(2) Also, the rice price during these four months is heavily influenced by the weather conditions, and regarding weather conditions, even the weather observatory is more often wrong than right; moreover, as someone ignorant in this field, I am in no position to know.
+
+(3) What the Korean farmers, who have suffered indescribable blows from the collapse of rice prices for two consecutive years, want to know is the question, "Won't the future rice price rise somewhat?" This is the focal point of our discussion. However, the term "future" in this phrase, which is the concern of the vast majority of Korean farmers, does not include these four months at all. Why? Because during these four months, all the rice or unhulled rice has already left the hands of the majority of farmers and is in the hands of a small number of wealthy farmers (豪農) and rice merchants (米商). Consequently, during this period, the majority of farmers are also on the consumer side of rice and unhulled rice, so a rise in rice prices would only cause hardship for ordinary farmers, just like for general consumers.
+
+For these reasons, I intend to omit the rice prices for the intervening four months and begin the forecast focusing on the rice prices from November onwards, the period when the new grain comes to market.
+
+2. This Autumn's Rice Price from the Perspective of the General Economic Situation
+
+From the perspective of the general economic situation, there is only a path of pessimism for this autumn's rice price. What are the reasons for reaching such a conclusion?
+
+(1) Deepening of the Global Recession
+Factors such as 1. The concentration of gold in two countries, the US and France (米佛). 2. The collapse of silver prices. 3. The dumping of agricultural products by Worker-Peasant Russia (勞農露西亞). 4. Germany's (獨逸) excessive burden of reparations. 5. European nations' (歐洲列國) war debts to the US. 6. Mass unemployment accompanying industrial rationalization. 7. Overproduction due to rapid advances in agricultural and industrial technology and organizational improvements. 8. Tariff wars among nations (列國). 9. Industrialization of underdeveloped countries, etc., contribute to the global recession (世界적 불경기), which still shows no signs of recovery but rather continues to deepen. Consequently, there is a high risk that the price of wheat, the staple food of Western countries, will fall further in the future. If wheat falls, even if rice alone does not fall, it will eventually lead some rice-eating populations to consume wheat, ultimately forcing the rice price level down to the same "level" as the wheat price level.
+
+(2) Chronic Overproduction of Rice
+The overproduction of rice in Japan (日本) and Korea (朝鮮) is not merely the result of a temporary bumper crop like last year's example, but possesses a chronic characteristic due to the increase in cultivated land area. This has become a major factor driving rice prices down even more severely amidst the recession of the last two rice fiscal years. According to the calculations of the Japanese economist Mr. Takahashi Kamekichi (高橋龜吉), "Excluding the bumper crop year, the average yield per *tanbo* (反步, approx. 0.1 hectare) from Showa 2 (1927) to Showa 4 (1929) was 1 *koku* 9 *to* (石9斗). Multiplying this by the rice cultivation area in Japan in Showa 5 (1930), which was 3,239,000 *chō* (町), the average annual harvest yield is 61,545,000 *koku* (石). On the other hand, the net import (移入) from Korea and Taiwan (臺灣) is about 8 million *koku*. Therefore, the total supply even in an average year is 69,545,000 *koku*. Comparing this to the rice consumption within Japan in year 5 (Showa 5), which was 68,930,000 *koku*, there is a supply surplus of 620,000 *koku*." Of course, Mr. Takahashi's calculation does not include the so-called ideal carryover of 5 million *koku* per year. However, since that is carried over from the previous year and then carried over again to the next year, it ultimately cancels out. However, Mr. Takahashi estimates the imports from both regions at 8 million *koku*, which is less than the actual amount. Why? Because in recent years, Korean rice alone accounts for about 8 million *koku*, and imports from Taiwan also amount to over 2 million *koku*. Furthermore, imports of foreign rice, amounting to at least 200,000-300,000 *koku*, are also not included in Mr. Takahashi's calculation. Thus, even when comparing supply and demand based on Japan's average harvest, underestimating the imports from Korea and Taiwan and completely omitting foreign rice imports, we still see a slight supply surplus. This reveals that the current rice overproduction throughout Japan and Korea is not merely the result of a temporary bumper crop but is indeed chronic overproduction resulting from increased cultivated land area and advancements in agricultural technology. Consequently, the current collapse in rice prices is not solely the result of a temporary bumper crop but stems from this chronic overproduction. Therefore, (1) it can be understood that rice prices were destined to fall somewhat even without the recession <25> since the year before last, and (2) it can also be understood that last year's drop in rice prices, even considering factors related to rice itself, was not simply the result of a bumper crop alone.
+
+(3) Salary Reductions and Other Major Administrative and Financial Reorganizations
+Suppose administrative and financial reorganization leads to job losses. It is not difficult to surmise that this will reduce rice consumption. Suppose salary cuts lead to people abstaining from alcohol or buying fewer snacks for their children. Rice is the raw material for both alcohol and snacks. Thinking this way, it is not difficult to surmise that the administrative and financial reorganization, including salary cuts, intended to be carried out soon, will reduce rice consumption and consequently cause rice prices to fall further in the future, unless there is a major famine.
+
+(4) As the Populace Impoverishes, the Rice-Eating Class Gradually Shifts to a Mixed-Diet Class
+Due to the severe recession starting from the end of the year before last throughout Japan and Korea, unemployment is rapidly increasing, and poverty is gradually worsening. Consequently, the traditional rice-eating class is gradually shifting to a class that consumes mixed grains. This will naturally cause a decrease in demand for rice, becoming a major factor pushing rice prices further down the path of decline. Due to these four factors, it is viewed that rice prices are facing a situation where they will fall even further. Particularly, the effects of salary cuts and administrative/financial reorganization, judging by the current situation, will likely become apparent about three months from now. Three months from now is almost near the new grain marketing period. Also, the impoverishment of the masses is becoming more evident this year than last year. Koreans, who traditionally shifted from eating rice to millet (粟食), are, starting this year, losing the ability even to sustain a millet diet and are shifting to foods even lower than millet. The reason why imports of Manchurian millet (滿粟) decreased by half by May this year compared to last year cannot be entirely attributed solely to last year's bumper crop. While some people may have shifted back to eating rice due to the good harvest, the majority must be seen as having fallen below even the level of sustaining a millet diet. Thus, viewed from the perspective of the general economic trend, the future of rice prices holds only a path of pessimism. Therefore, if the price of 1 *sŏk* of rice was 13 *wŏn* during last year's new grain period, it might fall even lower than that during this year's new grain period, potentially leading to a situation where 1 *kŭn* of unhulled rice falls below 3 *chŏn*. However, this is speaking from the perspective of the general economic trend; the actual situation regarding this autumn's rice price is different. The reason lies entirely in the revision and implementation of the Rice Control Law (米穀法). Here, I wish to describe the relationship between the implementation of the revised Rice Control Law and rice prices to serve as a reference for the general public.
+
+3. Relationship Between the Revised Rice Control Law and Rice Prices
+
+Among the laws passed by the 59th Diet last March, those holding significant relevance for rice price regulation from Showa 6 (1931) onwards are 1. The revision of the Rice Control Law (米穀法) and 2. The revision of the Special Account Act for Rice Supply and Demand Adjustment (米穀需給調節特別會計法). With the revision of the former, (1) control and regulation of foreign rice imports became more thorough compared to before, and (2) the standard rice price, which triggers action under the Rice Control Law, was stipulated. With the revision of the latter, the Special Account Act for Rice Supply and Demand Adjustment, rice funds became abundant. That is, they increased by another 80 million *wŏn* from the previous 270 million *wŏn*, reaching 350 million *wŏn*. Although the spirit of the Rice Control Law is to ensure neither surplus nor deficit in rice quantity and neither excessively high nor excessively low rice prices, achieving moderation in both quantity and price, in the current situation since the year before last, where hardship is faced due to the collapse of rice prices, preventing price decline and eliminating surplus rice supply have become almost the sole objectives. In such times, the implementation of the revised Rice Control Law and the revised Special Account Act for Rice Supply and Demand Adjustment—which 1. thoroughly restricts foreign imports, 2. stipulates a minimum price based on the Rice Control Law to mandate government purchases of rice, and 3. increases the rice fund by 80 million *wŏn* to enable ample rice purchases—is undoubtedly a very advantageous policy for rice prices from Showa 6 (1931) onwards, when these laws take effect. This is a clearly evident fact.
+
+To explain this in more detail, from Showa 6, when both laws were implemented, (1) except for a small amount of foreign rice from countries with reciprocal treaties, all imports require permission, making the restriction of foreign rice import volume more effective. <26> (2) The revised Rice Control Law stipulates a minimum price based on the standard rice price, so if the rice price reaches a point where it might fall below this minimum price, the government will definitely carry out rice purchases. Therefore, the rice price cannot fall below that minimum price. Of course, the standard rice price differs each year. However, the standard rice price to be applied from July 1st to November of Showa 6 is 22 *wŏn* 85 *chŏn*. And based on this standard price, the minimum price (20% below the standard price) is 18 *wŏn* 28 *chŏn*, and the maximum price (20% above the standard price) is 27 *wŏn* 42 *chŏn*. That is, between July 1st and November this year, if the rice price falls below 18 *wŏn* 28 *chŏn*, the government will execute purchases, and if it rises above 27 *wŏn* 42 *chŏn*, the government will release its owned rice. Therefore, regardless of market conditions, the rice price during this period cannot fall below the minimum price and cannot rise above the maximum price. That is, it will stay within the range of 18 *wŏn* 28 *chŏn* and 27 *wŏn* 42 *chŏn*.
+
+This is, of course, based on the price of Fukagawa (深川) hulled rice in Tokyo (東京). It is also standardized based on Japanese-produced hulled rice. Furthermore, since Article 1 of the Rice Control Law has not yet been implemented in Korea (朝鮮), the object of purchase is limited to Japanese rice. However, if the revision of both laws has such an impact on the price of Japanese rice, it will exert an almost equivalent indirect influence on Korean rice as well. For example, taking the rice price in Inch'ŏn (仁川), Korea, as an example, in principle, the minimum price in Inch'ŏn would be the aforementioned minimum price minus the price difference (價差) between Tokyo hulled rice market price and Inch'ŏn hulled rice market price. For instance, if there is a price difference of 3 *wŏn* between Tokyo and Inch'ŏn for hulled rice, the minimum price for Inch'ŏn hulled rice in Showa 6 would be 18 *wŏn* 28 *chŏn* minus 3 *wŏn*, which is 15 *wŏn* 28 *chŏn*. Therefore, as long as the price difference between the two locations is 3 *wŏn*, this year's Inch'ŏn hulled rice price should not fall below 15 *wŏn* 20 *chŏn* [sic, likely typo for 15.28]. However, since Korea has some disadvantageous circumstances such as export controls (移出 통제), it might not strictly follow this principle. But it will certainly be in this vicinity.
+
+Therefore, calculating the price of 1 *kŭn* of unhulled rice would be as follows. Assuming 1 *sŏk* of hulled rice requires 330 *kŭn* of unhulled rice, and also assuming the milling cost (精米費) for 1 *sŏk* is 2 *wŏn* 50 *chŏn*, the calculated price of 1 *kŭn* of unhulled rice is 3 *chŏn* 9 *ri*. Therefore, this autumn, the price of Korean unhulled rice is generally expected not to fall much below the vicinity of 3 *chŏn* 9 *ri*, and this is the effect of the revised Rice Control Law.
+
+4. Recent Economic Situation
+
+Although rice is a special food limited to Japan and Korea and can be said to be relatively less affected by the global economy, it is ultimately affected significantly. This can be seen from the aforementioned causes of the rice price decline. If the global recession caused the decline in rice prices, then an improvement in the global economy will naturally cause a rise in rice prices. Since Mr. Hoover's (후버) proposal for a moratorium on war debts and reparations was made on the 20th of last month, over the approximately 20 days until today, futures rice prices in Tokyo, Osaka (大阪), and Inch'ŏn have seen a rise of about 1 *wŏn*, and hulled rice prices have also risen by about 1 *wŏn*. Among the reasons for this rise, Hoover's moratorium proposal is the most potent factor. This rise anticipates that if the implementation of the Hoover Plan improves Japan's economy, various business sectors in Japan will also experience an upturn, consequently leading to a natural increase in rice consumption. Therefore, it is said that when studying future rice prices, it is necessary to constantly pay attention to the trend of the Hoover Plan. (July 9, 1931, End of writing) <27>
+
+**Summary**
+
+This 1931 article by Sŏ Ch'un analyzes the prospects for rice prices in Korea for the upcoming autumn harvest season. The author initially presents a pessimistic outlook based on the deepening global depression, chronic rice overproduction in Japan and Korea, impending government austerity measures reducing consumption, and the impoverishment of the populace leading to dietary shifts away from rice. However, the author argues that the recently revised Japanese Rice Control Law, which strengthens import controls, establishes a minimum price floor for government purchases (indirectly affecting Korean prices), and increases government funds for market intervention, will prevent prices from collapsing further. The author tentatively forecasts that the price of unhulled rice in Korea will likely stabilize around 3 *chŏn* 9 *ri* per *kŭn* due to this law, while also noting the potential positive impact of recent international economic developments like the Hoover Moratorium.
+
+From a historical perspective, the article is significant for revealing the direct impact of the Great Depression and Japanese colonial economic policies on Korean farmers. It highlights the structural problem of rice overproduction within the colonial system (driven by Japanese needs but causing price collapses detrimental to Korean producers), the farmers' desperate economic situation, and their dependence on Japanese government intervention (the Rice Control Law) for price stability. The detailed discussion of price calculations, consumption patterns (shifting from rice to millet and even lower), and the specific mechanisms of the Rice Control Law offers valuable insights into the colonial economy and the lived experiences of Koreans during this period.
+
+**Named Entities**
+
+徐椿	서춘	Sŏ Ch'un
+日本	일본	Ilbon (Japan)
+朝鮮	조선	Chosŏn (Korea)
+米佛	미불	Mi-Pul (USA-France)
+勞農露西亞	노농노서아	Nonong Nosia (Worker-Peasant Russia / Soviet Union)
+獨逸	독일	Togil (Germany)
+歐洲列國	구주열국	Yuju Yŏlguk (European Nations)
+高橋龜吉	다카하시 가메키치	Takahashi Kamekichi
+臺灣	대만	T'aiwan (Taiwan)
+東京	동경	Tonggyŏng (Tokyo)
+深川	심천	Simch'ŏn (Fukagawa)
+仁川	인천	Inch'ŏn
+후버	후버	Hubŏ (Hoover)
+大阪	오사카	Osaka
+
+**Glossary**
+
+今秋	금추	This autumn (referring to the upcoming harvest season)
+米價	미가	Rice price
+1斤	일근	One *kŭn* (unit of weight, approx. 600g)
+錢	전	*Chŏn* (monetary unit, 1/100th of a *wŏn*)
+厘	리	*Ri* (monetary unit, 1/1000th of a *wŏn*)
+1石	일석	One *sŏk* (unit of volume, approx. 180 liters; also read as *koku* in Japanese context)
+圓	원	*Wŏn* (primary monetary unit, equivalent to Japanese Yen)
+正租	정조	Unhulled rice; paddy rice
+新穀	신곡	New grain; the new harvest
+出廻期	출회기	Period when goods (esp. grain) come into the market
+端境期	단경기	Transitional period between harvests (when old grain runs out and new grain is not yet available)
+예상기	예상기	A written forecast or outlook
+검방진	검방진	Audacious, presumptuous (older/dialectal form)
+여지껏	여지껏	Until now, up to this point (colloquial/older form)
+나릴까	내릴까	Will it fall/decrease? (older spelling of 내릴까)
+떠러지다	떨어지다	To fall, drop (in price, etc.) (older spelling of 떨어지다)
+잇다	있다	To be, to exist (older spelling of 있다)
+햇스니	했으니	Since (one) did/said (older spelling of 했으니)
+하야	하여	Doing, causing (older spelling/form of 하여)
+景氣	경기	Economic climate, business conditions
+期米	기미	Futures rice; rice traded on the futures market
+正米	정미	Hulled rice; polished rice ready for consumption
+騰貴	등귀	Price increase; soaring prices
+低落	저락	Price decline; fall in prices
+豪農	호농	Wealthy farmer; landlord farmer
+米商	미상	Rice merchant
+不景氣	불경기	Recession, economic depression, hard times
+生産過剩	생산과잉	Overproduction
+反步	반보	*Tanbo* (Japanese unit of area, approx. 0.1 hectare)
+町	정	*Chō* (Japanese unit of area, 10 *tanbo*, approx. 1 hectare)
+移入	이입	Importation; transfer in (esp. from colony to mainland)
+移出	이출	Exportation; transfer out (esp. from colony)
+外米	외미	Foreign rice
+粟食	속식	Eating millet as a staple
+滿粟	만속	Manchurian millet
+米穀法	미곡법	Rice Control Law (Japanese law regulating rice supply and price)
+수급	수급	Supply and demand
+매상	매상	Purchase (esp. government purchase for price control)
+불하	불하	Selling off government property/stock
+價差	가차	Price difference; margin
+精米費	정미비	Rice milling cost
+
+
+---------------------------
+
+
+잡지명	동광 제24호
+발행일	1931년 08월 04일
+기사제목	오를까 내릴까 今秋의 米價觀, 1斤 3錢 9厘乎
+필자	徐椿
+기사형태	논설
+
+오를까 내릴까 今秋의 米價觀, 1斤 3錢 9厘乎
+						徐椿
+1. 『今秋米價』의 의의
+『東光』은 나더러 『今秋米價예상기』를 써 보라고 한 지가 발서 약 3개월 지내엿다. 쓰고 싶은 마음이 없엇든 것은 아니나 이럭저럭 사정에 끌리어서 여지껏 못쓰고 잇다가 지금(7월9일)에야 겨우 붓을 잡앗다.
+『米價의 예상』 이것은 검방진 계획이요 대담, 따라서 위험천만한 일이다. 일본 속담에 『一寸先は闇』라는 말도 잇거니와 사람이란 대개 내일 일은 모르는 법이다. 그러니까 모를 것을 안다는 것이 첫재 검방진 일이요 그 뿐 아니라 이러한 일에는 위험이 다분으로 부수하는 것이다. 그런데도 불구하고 감히 붓을 든 이유가 어데 잇느냐 하면 그 대답은 이러하다.
+금일 1石15圓 30錢하든 쌀이 금후 6개월을 지난 11월에 가서 幾圓 幾十錢할는지 그것을 확실히 알 수는 없으며 금일 每斤 4錢2厘하는 正租 1斤의 가격이 오는 新穀 出廻期에 가서 幾錢幾厘할는지 그것을 정확이 마칠 수는 없으나 그 때에 가서는 현재보다 더 오를까 또는 나릴까 또는 오르면 얼마나한 정도로 오르며 나리면 얼마나 한 정도로 나릴 뜻하냐? 한 정도의 추측은 대개 전연 불가능한 일은 아니다. 환언하면 이만한 정도의 추측은 혹은 과거를 토대로 하며 혹은 현재의 정세를 고찰하야 추측할 수가 전연 없는 것도 아니라 따라서 이만한 자신을 가지고 붓을 든 것에 불과한 것이니까 이것은 실제에 잇어서 米價의 騰落에 막대한 이해관계를 가진 여러분한데는 단순히 한 참고거리밖에 안된다는 일언을 특히 주의해 둘 의무를 感하는 것이다.
+다음 『今秋米價예상기』라 햇스니 그 『今秋』라는 것은 무엇을 가르치는 것이냐? 이 대답도 미리부터 명확히 해 둘 필요가 잇다. 『今秋』란 來新穀出廻期를 가르치는 것이다. 曆月로 말하면 양력11월 이후의 米價를 가르치는 것이다. 누구나 대개 아는 바와 같이 米穀년도는 매년 11월에 시작하야 익년 10월에 마치는 것이다. 고로 10월은 舊穀將盡, 新穀將出의 달로서 신식의 일본 문자로는 此를 『端境期』라고 한다.
+이만치 오는 동안에 독자한데는 이런 의심이 한 가지 생겻을 것이다. 무슨 의심인고 하니 『기왕 米價 예상기를 쓴다고 하면서 此6월부터 端境期인 10월에 至하는 4개월간의 米價에 대해서는 왜 이것을 생략하느냐?』하는 의심이다. 이것을 생략하는 이유는 이러하다.
+(1)이 4개월간은 米價년도로 보면 최후의 『3분지1』년도로서 景氣의 好不好를 막론하고 米價는 다소 오르는 것이 상례이다. 설사 景氣의 악화 재료가 出하야 期米가 低落할지라도 그것이 폭락이라고 할 정도의 대폭 低落이 아니면 正米와 밋 小賣시세는 이에 따라서 低落하지 아니함을 상례로 한다.(물론 期米가 膽貴할 때에는 正米 及 小賣시세가 이에 따라서 민감하게 騰貴하지마는 금년 시세로는 대흉작을 예상시킬만한 天災가 잇기 전에는 期米의 騰貴를 招致할 하등의 재료가 없다. 물론 그 이유는 下述을 보면 알 것이다.)＜24＞
+(2)또한 이 4개월간의 米價는 天候여하의 지배를 많이 받는데 天候여하는 測候所에서도 마치는 때보다 못 마치는 때가 많은 현상에 잇어서 더구나 이 방면을 모르는 나로서는 알 배가 못되는 것이다.
+(3)連 2년을 두고 米價의 폭락으로서 형언할 수 없는 타격을 받은 조선 농민이 알고저 하는 것은 『장래의 米價가 좀 오르지 못하겟느냐?』하는 문제다. 이것이 우리가 문제로 하는 바의 초점이다. 그러나 대다수의 조선 농민이 문제로 하는 바 이 1句에 잇는 『장래』라는 말가온데는 이 4개월간은 전연 포함되지 아니하엿다. 何故오하면 이 4개월은 쌀 혹은 正租의 전부가 이미 대다수의 농민의 손을 떠나서 소수의 豪農 及 米商의 손에 드러잇는 때다. 따라서 이 기간은 농민의 다수도 역시 米 及 正租의 소비자 측에서는 고로 米價의 騰貴는 도리어 일반 소비자와 같이 일반 농민에게도 고통이 될 따름인 까닭이다.
+이러한 이유 밑에서 중간 4개월간의 米價여하를 생략하고 新穀出廻期인 11월 이후의 米價를 목표로 예상을 시작하고저 하는 것이다.
+
+2. 경제계의 대세로 본 今秋의 米價
+경제계의 대세로 본 今秋의 米價에는 다만 비관의 一途가 잇을 따름이다. 무엇을 이유로 하야 그런 결론을 하느냐?
+
+(1)세계적 불경기의 심각화
+1. 米佛 2국에의 金의 偏在. 2. 銀價의 폭락. 3. 勞農露西亞의 농산물 投賣. 4. 독일의 과도한 배상의무의 부담. 5. 歐洲列國의 對米戰債. 6. 산업 합리화에 수반하는 대중의 실업. 7. 농공기술의 장족 진보와 조직 개선에 의한 생산과잉. 8. 列國의 關稅戰 9. 후진국의 공업화 등에 의한 세계적 불경기의 度는 아직도 그 심각의 度를 더해갈지언정 조금도 회복되어가는 兆徵이 보이지 아니한다. 따라서 서양 諸國의 주식물인 소맥 가격은 일로 앞날에도 더 떠러질 우려가 많다. 소맥이 떠러지는데 米만이 홀로 아니 떠러진다하면 米食國民의 일부가 麥食을 하게 되는 계단을 밟아가지고라도 米價 수준을 麥價 수준과 같은 『레벨』까지 떠러치고야 말 것이다.
+
+(2)米의 항구적 생산과잉
+일본 及 조선의 米의 생산과잉은 결코 작년의 예로 본 바와 같은 일시적 농작의 결과가 아니요 경지면적 증가에 의한 항구적 성질을 가지고 잇다는 것이 작금 兩 米穀년도와 같은 불경기 속에 잇어 米價를 더욱 심하게 떠러트리는 일대 원인이 되어가지고 잇다. 일본의 경제학자 高橋龜吉씨의 계산에 의하면 『풍작의 작년을 除하고 昭和2년으로부터 4년까지의 평균 1反步당의 수확량을 보면 1石9斗다. 此를 昭和5년의 일본 내의 米作付反別 323만9천여町에 乘하면 그 평년작 수확량은 6천154만5천石이 된다. 他方 조선, 臺灣으로부터의 純移入高는 약8백만石이다. 그러니까 이상 공급합계가 평년에도 6,954만석이다. 此를 5년도의 일본내 米消費量 6천893만石에 비하면 差引 62만石의 공급 과잉에 해당하다』 물론 高橋씨의 이 계산에는 년 5백만 石움˜ 소위 이상적 持越이 들지 아니하엿다. 그러나 그것은 매년 전년도에서 넘어오는 것으로 다시 익년으로 넘기고 말게 되는 것이니까 결국 상쇄가 되고 말 것이다. 그런데 高橋씨는 兩地로부터의 移入高를 8백만 石으로 보니만치 실제보다 적게 잡앗다. 何故오하면 근년에 와서는 조선 米만으로도 약 8백만 石이 되고 臺灣米의 移入도 2백여만 石이 되는 까닭이다. 게다가 적어도 2,30만 石은 되는 外米의 輸入高도 高橋씨의 계산에는 들지 아니하엿다. 如斯히 조선 臺灣으로부터의 移入高룀¼ 實收보다 적게 잡고 또한 外米의 輸入高를 전혀 계산에 넣지 않고 일본의 평년작을 표준으로 하야 공급과 수요를 대조해 보아도 오히려 다소의 공급과잉을 볼 지경이라 하면 금일 일본 조선을 통하야의 米의 생산과잉이 결코 일시적 풍작의 결과가 아니요 실로 경지면적의 증가와 농업기술의 발달에 의한 항구적 샊�산과잉인 것을 알 수가 잇다. 따라서 금일의 米價의 폭락은 결코 일시적 풍작에서의 결과가 아니요 此 항구적 생산과잉에 기인한 것임을 알 수가 잇다. 따라서 (1)재작년 이래의 불경기가 없어도＜25＞ 米價는 다소 低落해야 될 운명에 잇엇다는 것을 알 수가 잇고 (2)또한 작년의 米價低落이 米 자체의 원인에 잇어서도 결코 단순한 풍작의 결과만이 아닌 것을 알 수가 잇다.
+
+(3)減俸 그 他 行財政의 대정리
+行財政의 정리로 실직자가 생긴다 하자. 이것이 米의 소비를 감소시킬 것은 대개 추측키에 곤란치 아니하다. 감봉으로 금주자가 생기며 애들한데 과자를 덜 사주게 된다고 하자. 술의 원료도 쌀이요 과자의 원료도 쌀이다. 이러케 생각해 보면 감봉을 위시하야 장차 행하려는 行財政의 정리가 米의 소비를 감소시키며 따라서 대흉년이 아닌 이상, 금후의 米價를 低落시킬 것은 대개 추측키에 곤란치 아니한 일이다.
+
+(4)대중의 빈곤화에 대하야 米食계급은 점차 雜食계급으로 옮아간다
+일본, 조선을 통하야 재작년 말부터의 심각한 불경기로 인하야 실업자가 격증해가며 빈곤이 점차 극심해간다. 따라서 종래의 米食계급은 점차 잡곡을 먹는 계급으로 옮아간다. 이것이 米의 需要減을 招致하야 米價를 점점 低落의 一路로 모라넣는 일대 원인이 될 것은 물론이다. 이 네 가지의 원인이 잇기 따문에 米價는 더욱 低落할 정세에 처햇다고 보는 것이다. 특히 감봉과 및 行財政 정리의 영향은 목하의 정세로 보면 지금부터 3개월 후에 현실로 나타날 것이다. 지금부터 3개월 후에면 그것은 거의 新穀出廻期에 가까운 것이다. 또한 대중의 빈곤화는 작년보다 금년에 더 현실로 나타나고 잇다. 조선 사람은 종래는 米食으로부터 粟食으로 옮아 오더니 금년부터는 粟食을 유지할 힘조차 없어서 粟보다 더 한 층 떠러지는 食物로 옮아가고 잇다. 금년 5월까지의 滿粟 輸入高가 작년에 비하야 반감한 원인은 결코 그 전부를 작년 풍작의 一事에 歸하고 말 수는 없는 것이다. 풍작으로 인하야 米食으로 옮아간 사람도 다소 잇겟지마는 그 대부분은 역시 粟食조차 유지 못하고 그 아레 계급으로 떠러진 것으로 볼 수 밖에 없다. 如斯히 경제계의 대세로 본 米價의 전도에는 다만 비관의 一路가 잇을 따름이다. 따라서 작년 新穀期의 米 1石價가 13원이라 하면 금년 新穀期에는 그 이하로 더 나려갈는지도 모르는 형세며 따라서 正租 1근이 3전 이하로 나려갈는지 모르는 정세다. 그러나 이것은 경제계의 대세로 본 말이오 今秋의 米價에 대한 사실인즉 그러치 아니하다. 그 까닭은 전혀 米穀法의 개정 실시라는 一事에 잇다. 여긔서 개정 米穀法의 실시와 米價와의 관계를 서술하야 일반의 참고거리를 삼고저 한다.
+
+3. 개정 米穀法과 米價와의 관계
+지난 3월 제59의회를 통과한 법률 중에서 昭和 6년 이후의 米價 조절상 중대한 관계를 가진 것은 1. 米穀法의 개정이요 2. 米穀 수급조절 특별회계법의 개정이다. 전자의 개정으로 (1)外米 수입의 관리 통제가 종래에 비하야 철저하게 되며 (2)米穀法에 의거하야 출동할 기준 米價가 규정되엇고 후자 즉 米穀 수급조절 특별회계법의 개정으로 米穀 자금이 풍부해젓다. 즉 종래의 2억7천만 원으로부터 다시 8천만 원 증가되어 3억5천만 원으로 되엇다. 물론 米穀法의 정신은 米穀 수량에 과불급이 없이하며 米價에 過高過低가 없이 하야 수량, 가격 양자가 공히 중용을 얻게 하는데 잇지마는 米價 폭락으로 곤경을 당하는 재작년 이래의 현상에 잇어서는 米價의 低落 방지와 米穀의 공급 과잉 배제가 거의 유일한 목적이 되다싶이 되엇는데 이런 시대에 잇어서 개정 米穀法과 개정 米穀 수급조절 특별회계법이 실시되어 1. 외래의 수입제한을 철저히 하며 2. 米穀法에 의한 米의 매상을 단행할 최저가격을 규정하며 3. 米 매상을 풍부히 할 수 잇도록 米穀 자금을 8천만 원이나 증액한 것은 此法을 실시한 昭和 6년도 이후의 米價에 대해서는 퍽 유리한 정책인 것은 두 말 할 것 없이 명백한 사실이다.
+이제 이것을 좀 더 자세히 말하면 兩法이 실시된 昭和 6년도부터는 (1)호혜조약관계에 잇는 소수의 外國米를 제한 외에는 일체로 그 수입에 허가를 要케된 관계로 外米 수입량의 제한을 일층 유효하게＜26＞ 할 수가 잇고 (2)개정 米穀法에는 기준 米價에 의한 최저가격이 규정되어 잇어가지고 米價가 그 최저가격 이하로 나려갈 지경이면 정부의 米 매상이 단행될 것인 고로 米價는 그 최저가격 이하로 나려가지를 못한다. 물론 기준 米價는 해마다 다르다. 그런데 昭和 6년 7월1일부터 同 11월까지에 의거할 기준 米價는 22원 85전이다. 그러고 此 기준 米價에 의거한 최저가격(기준 가격보다 2할 下値)은 18원 28전이요 최고가격(기준가격보다 2할 上値)은 27원 42전이다. 즉 금년 7월1일부터 11월까지의 사이에는 米價가 18원 28전 이하로 떠러지게 되면 정부에서 매상을 단행하고 27원 42전 이상으로 올라가게 되면 정부에서 소유 米의 불하를 단행할 것인 고로 米價는 경기 여하에 불구하고 이 기간 중에는 최저가격 이하로 나려갈 수 없고 최고 가격 이상으로 올라갈 수 없는 것이다. 즉 18원 28전과 27원 42전의 범위 내에 잇게 되는 것이다.
+이것은 물론 東京의 深川正米의 가격을 기준한 것이다. 또는 일본산의 正米를 표준한 것이다. 또한 米穀法 제1조가 아직도 조선에 실시되지 못한 까닭으로 매상의 대상은 日本米에 한한다. 그러나 兩法의 개정이 일본산 米價에 이만한 영향을 미친다 하면 朝鮮米에도 이와 거이 비등한 정도의 간접 영향을 미치게 되는 것이다. 가령 조선 인천의 米價를 일례로 들어 말하면 원칙상 前記 최저가격에서 東京 正米 시세와 인천 正米 시세와의 價差를 減除한 가격이 인천에서의 최저가격이 될 것이다. 가령 東京과 인천과의 간의 正米 시세에 3원의 價差가 잇다고 하면 인천 正米의 昭和 6년도 최저가격은 18원 28전에서 3원을 감한 액 즉 15원 28전이 될 것이다. 고로 兩地간의 價差가 3원인 한에 잇어서는 금년의 인천 正米 시세는 15원 20전 이하로 떠러지지 아니할 것이다. 그러나 조선에는 移出 통제 그 他의 약간 불리한 사정이 잇는 고로 꼭 이 원칙대로는 되지 못할 것이다. 그러치만 이 근방에 잇을 것은 물론이다.
+따라서 正租 1근의 가격이 얼마일 것을 타산해 보면 이러하다. 正米 1石에는 正租 330근을 要한다고 하고 또한 1石의 精米費를 2원 50전으로 잡고서 正租 1근의 가격을 타산해 보면 1근 3전 9리다. 고로 今秋에는 대개 조선 正租 가격은 3전 9리 근방 이하로 퍽 떠러지지는 않을 것으로 볼 것인데 이것은 개정 米穀法의 효과다.
+
+4. 최근의 경제 사정
+米穀은 일본 及 조선에 한한 특수 식량인 고로 비교적 세계 경기의 영향을 덜 받는다고 할 수 잇으나 역시 결국은 그 영향을 적지 않게 받는 것이다. 이것은 前擧한 米價 低落의 원인을 보아도 알 것이다. 이미 세계적 불경기가 米價 低落의 원인을 지엇다 하면 세계 경기의 호전이 米價 등귀의 원인을 지을 것은 물론이다. 去 20일 후버씨의 戰債 배상 연기안이 제창된 이후로 금일까지 약 20일간에 東京 大阪 인천을 통하야 期米는 약 1원 가량 正米도 약 1원 가량의 등귀를 보앗는데 此 등귀 원인 중에는 후버의 연기안이 가장 유력한 원인이 되는 것이다. 이것은 후버 案의 실시 영향에 의하야 일본의 경기까지 호전되면 일본의 各般 사업계도 따라서 활황을 정할 것인 고로 이에 따라서 米의 소비량도 자연히 증가할 것을 예기하고 오르는 것이다. 고로 금후의 米價를 연구하는 데 후버 案의 趣勢 여하를 항상 주목할 필요가 잇다고 한다.(1931년 7월 9일 擱筆)＜27＞
+＜20-27＞

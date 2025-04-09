@@ -1,0 +1,330 @@
+Magazine Title: 동광 제8호
+Publication Date: 1926년 12월 01일
+Article Title: 한글의 연구 (Research on Hangeul)
+Author: 記者 (Reporter), 安廓 (An Kwak)
+Article Type: 논설 (Editorial/Article)
+
+Research on Hangeul
+This journal, recognizing the urgent need for the unification of the Korean language and script, has for some time established a "Research Section on Jeong'eum Grammar" (正音文法硏究欄) and has been publishing research on our script and language by various specialists in successive issues, with plans to continue this for some time to come. Through this, we intend to correct the current habit of writing our script in various diverging ways, find a single correct standard, and aim for unification based on it. We would be pleased to receive contributions sent to our company from anyone who shares this intention, regardless of their research methodology.
+
+Furthermore, we know that our script is extremely mixed and inconsistent, with writing methods differing individually, and consequently, research approaches will also differ. If we are to establish one correct standard among these to use, we should not blindly follow the arguments of just one person, nor should we stubbornly insist only on our own opinions. Instead, we must synthesize the opinions of many people. We should proceed by researching, criticizing, discussing, and refuting various aspects of a single issue until we find one correct standard.
+
+The essay by Mr. An Kwak (安廓氏) published this time is the first with a deliberately discussion-oriented meaning. Although its thesis greatly diverges from our own assertions, we cannot but publish it as one aspect of research. From this, we anticipate much criticism, discussion, and refutation from all of you who love our script. (Reporter)
+
+The Real Task of Korean Language Research
+An Kwak (安廓)
+
+One. Abandon Emotion and Be Scientific
+Lately, the call to research the Korean language is heard everywhere. However, that research is entirely emotional and not academic. Therefore, the writings published as research typically adhere to viewpoints such as "Let's write Eonmun (諺文) correctly," "Let's not use words derived from Classical Chinese," or "Let's avoid common explanations in grammar," merely driven by reactive sentiments against external pressure, tinged with a certain political mood, preventing the research from having absolute value. If research proceeds based on such principles, not only will it be impossible to find the true value of the Korean language, but it will increasingly cause division, making things more difficult, achieving no practical effect, and instead only becoming an obstacle to unification.
+
+Such experiences are common in the linguistic academic circles of various Western countries. In Germany (獨逸), police were dispatched even to theaters to regulate the grammar of performers, and in England (英國), Shakespeare (쉑스피아) and Queen Victoria (빅토리아 여왕) put much effort into expelling foreign words, but ultimately failed to achieve results. Today, we blindly respect individual ideals and try to unify within the scope of self-insistence.<56> How vulgar and unrefined is this? Scholarship is researched for the sake of its own value, not as a means to an end; this is something scholarship itself does not permit.
+
+Therefore, abandoning emotion and scientifically researching its true value is the right path. For instance, the idea that because the etymology of the term Eonmun (諺文) originates from self-deprecation (自俾), we should avoid the word Eonmun and use Jeong'eum (正音) or Bonmun (本文) instead, is such an example. Even if it is called Eonmun, it does no harm whatsoever to the value of Eonmun itself, nor does it have any relation to grammar. Isn't creating trouble over nothing just hindering the time for genuine research? Also, consider the common name for the letter ㄱ, kiyeok (기억); the call to create a new name that fits phonetic principles is truly pathological argumentation. Such superfluous talk is decidedly unrelated to grammar research. From now on, I hope we improve upon such old habits of thought—empty formalities and ritualism (虛文褥禮)—and research newly and scientifically. What I want to say now is to ask a few questions on topics to consider scientifically.
+
+Two. The Problem of Etymology
+Past scholars often attributed the etymology of Korean words to Classical Chinese, but some recent individuals try to make it independent, interpret it in a Korean way, and expel all foreign words. Truly, both past and present assertions are inappropriate for linguistics. We must first study linguistics and research academically. Let me provide one example here.
+
+The Korean language has many words formed symbolically:
+Original Form ... Indicative Form
+(i) 'tooth' ... (yo) 'awl/gimlet' [Likely referring to shape symbolism]
+(deoreop) 'dirty' ... (dareop) [Dialectal/Archaic variant?]
+(miryeon) 'foolish' ... (maeryeon) [Dialectal/Archaic variant?]
+Such structures are numerous. While things like a German child (獨逸小兒) calling a large chair (大倚子) 'Lukul' and a small chair (小倚子) 'Likil' exist, words formed as systematically as in Korean are rare in the world. Also, looking at symbolism in final consonants (尾音), there are many instances where ㅅ and ㄹ are swapped to create antonyms:
+kos (串 'skewer/spit') ... kol (谷 'valley')
+nŭs (晩 'late') ... nŭl (廷 'always/stretch') [廷 is likely 늘이다 'stretch']
+tos (昇 'rise') ... tol (廻 'turn/rotate')
+mus (陸 'land') ... mul (水 'water')
+us (笑 'laugh') ... ul (哭 'cry')
+hŭs (散 'scatter') ... hŭl (流 'flow')
+That is, closed sounds (密閉音) [unreleased stops] form words with static meanings, and lingual sounds (動舌音) [liquids/flaps] form words with dynamic meanings. Although this is indeed a personal view resulting from my research (管見), there is much ground to cover in etymological research. What is the relationship with Manchu-Mongolian languages? What is the relationship with Chinese and Japanese? What are the principles of change between ancient and modern language? Viewed through linguistics, there is much to pioneer, so it is necessary to avoid making issues out of pointless emotional arguments.
+
+Three. The Problem of Phonetics
+In various grammar books, explanations of speech sounds (語音說明) are not based on the principles of phonetics but are argued using emotional interpretations and the manner of external changes in connected speech (連音上 外變). For example:
+(ㅑ) is a combination of (ㅣ + ㅏ)
+(ㅕ) is a combination of (ㅣ + ㅓ)
+(ㅛ) is a combination of (ㅣ + ㅗ) [Typo in original: (ㅛ)는 (ㅣ ㅛ)의 合]
+This is an inappropriate explanation. The definition of ㅑ should be how the speech organs (發音기관), specifically the oral cavity (口腔), are adjusted to produce the sound, not that it is a combination of certain sounds. That is not a phonetic explanation. If explained based on connected speech, a fixed explanation cannot be established. Therefore, we should analyze based on the principles of phonetics. For example, Korean vowels are highly developed, numbering over 20, the highest among world languages. Thus, phonetically, there are many intermediate sounds:
+keom (黑 'black') ... intermediate sound between ㅓ and ㅡ
+teol (減 'less') ... intermediate sound between ㅓ and ㅡ
+som (棉 'cotton') ... intermediate sound between ㅗ and ㅡ
+tŭn (錢 'money') ... intermediate sound between ㅗ and ㅡ [Probably 돈?]
+tak (닭 'chicken'), palp (밟 'step on'), etc., are intermediate consonant sounds. Although this is my personal view, if examined individually, there are actually many potential new research discoveries.
+
+Four. The Problem of Grammar
+Writing grammar is not establishing laws like compiling statutes (法律 編纂); abstract description is the principle of grammar studies (文法學). Recently, grammar teachers and authors of grammar books all explain legalistically, like codifiers, with a coercive attitude (壓制的 氣分) trying to make people submit to their own new rules. It is common practice to write down and teach things not found in actual language use (實際 語法).
+Writing (와서) as...(오아서) [waseo -> oaseo]
+Writing (되여) as...(되어) [toeyŏ -> toeŏ]
+Writing (누어) as...(눕어) [nuŏ -> nupŏ]
+Writing (니어) as...(닛어) [niŏ -> nisŏ] [니῟다->잇다]
+They often do this. Regarding classification, some posit the existence of articles (冠詞), and some explain gender (性, 암수 'male/female') in nouns (名詞), resulting in many inappropriate explanations. Ural-Altaic languages (우랄알티이語族) lack articles like English 'a, the,' and noun gender<57> has no function in grammar. Yet, they write about it pointlessly. Merging pronouns, which have different functions (職能), with nouns; dividing particles (吐) with the same function into various types; calling meaningless interstitial sounds (間音) auxiliary verbs (助動詞); calling non-independent (와, 과) independent conjunctions (接續詞)—there are countless childish arguments (幼穉의 論端). It seems better for us to discard such unscientific methods (口法) and begin researching based on the principles of grammar studies.
+
+Five. The Problem of Spelling Reform (綴字法改良問題)
+Recently, when grammar is discussed, it typically revolves around claims about writing spelling (綴字法) correctly; this is a chaotic situation (亂狀) confusing grammar and orthography (文字). Originally, spelling reform is not that easy, and orthography (文字法) should be studied separately from grammar. Grammar scholars have no right to disrupt the consensus of the entire populace (全民衆 共認) and simultaneously muddy the waters of the grammar world based merely on theoretical personal opinions. They suddenly say: (1) "Correct the etymology (語源)," but etymology is the responsibility of dictionaries (字典), not related to grammar. (2) "Final consonants (바틤) must be written correctly," but this correctness is theoretical and unrelated to grammar, which emphasizes actual usage (實地). For example, not using ㅈ, ㅊ, ㅌ, ㄷ, ㅍ, ㅎ as final consonants has already become grammar (i.e., a grammatical fact of pronunciation/usage). Why abolish the grammar commonly used by the people and issue a new one? Even speaking theoretically, using new final consonants changes the words and requires writing more characters in sentences, leading to inefficiency (不經濟). (3) "The five letters ㅺ, ㅼ, ㅽ, ㅆ, ㅉ [obsolete forms related to 된소리] are pronounced twice as hard, so let's write them doubly as ㄲ, ㄸ, ㅃ, ㅆ, ㅉ." This is inappropriate. The tense 's' (된시옷 - likely referring to the ㅅ in ㅺ, ㅼ, ㅽ or perhaps ㅆ itself representing tenseness) serves as a marker for aspirated/tense sounds (激音) following a fixed rule [referring perhaps to morphology or historical sound changes]. Why must they be written doubly? Even phonetically, they claim it's "twice as hard," but is the frequency of vibration (振動數) truly double that of the base sound (本音)? Such unscientific explanations are difficult for people of this civilized era (文明時代人) to accept. (4) "댜, 탸 are read as 자, 차, so let's read the original characters (本字) as 듸야, 틔야." This is also their assertion. However, this palatalization is a universal characteristic (通性), a natural tendency (自然傾向) of sounds across all nations (萬國聲音), a principle of phonetics. Yet, unaware of this universality, they seek only to reform. This too is unscientific. Furthermore, reading 댜, 탸 as 자, 차 has become grammar; why establish new grammar and try to reform anew the language of the people? Of course, the theory might be plausible, but grammar certainly does not rely on theory; this is not the established rule (定則) in grammar studies.
+
+In a nutshell (蔽一言), the explanations of recent grammar proponents are unscientific, emotional, or stem from minds unable to shed the old habits of Confucian thought (儒敎思想)—Sadaejuui (事大主義 'serving the great'), revivalism (復古主義), formalism (虛禮主義), etc. We new scholars (新學問家) should discard such corrupt thoughts (腐敗한 思想) and first build foundational knowledge (基礎的 智識) in
+Grammar Studies (文法學), Phonetics (音聲學)
+Linguistics (言語學), Orthography (文字學)
+and then hope to begin scientific research. <58>
+
+[Note at bottom of page 58] Contributors to this section generally have differing views on the research methods for our script, so for this section only, the usage of our script does not adhere to the specific style guide of this company (本社 特定文件).
+<56-58>
+
+**Summary**
+
+An Kwak argues strongly against the prevailing emotional and nationalistic approaches to Korean language research in 1926. He advocates for a strictly scientific methodology based on linguistics, phonetics, and descriptive grammar, rather than prescriptive rules derived from individual ideals, etymological purity concerns, or attempts to "reform" established usage like spelling and pronunciation based on flawed theories. He criticizes contemporary scholars for confusing grammar with orthography, ignoring linguistic principles, and being influenced by outdated "Confucian" thinking (revivalism, formalism). He urges scholars to acquire foundational knowledge in linguistic sciences before attempting research. From a historical perspective, the article reveals the intense debates surrounding Korean language standardization during the colonial period. It highlights the tension between burgeoning nationalism driving language purification and unification efforts, and a call for objective, "scientific" linguistic analysis influenced by Western academic models. Historians might find An Kwak's critique of "emotionalism" and "Confucian thought" interesting, as well as his specific linguistic arguments (e.g., on etymology, phonetics, spelling) which reflect the early stages of modern Korean linguistics grappling with descriptive versus prescriptive approaches under Japanese rule.
+
+**Named Entities**
+
+安廓	안곽	An Kwak
+獨逸	독일	Germany
+英國	영국	England
+쉑스피아	쉑스피아	Shakespeare
+빅토리아 여왕	빅토리아 여왕	Queen Victoria
+朝鮮	조선	Chosŏn (Korea)
+滿蒙	만몽	Manchuria-Mongolia
+中日	중일	China-Japan
+우랄알티이	우랄알타이	Ural-Altaic
+
+**Glossary**
+
+本誌	본지	This journal/magazine
+朝鮮語文	조선어문	Korean language and script
+正音文法硏究欄	정음문법연구란	Research Section on Jeong'eum (Hangeul) Grammar
+專門家	전문가	Specialist, expert
+統一	통일	Unification
+期圖	기도	To plan, intend, aim for
+混雜不一	혼잡불일	Mixed and inconsistent
+標準글	표준글	Standard script/writing
+立論	입론	Argument, thesis
+盲從	맹종	Blind obedience/following
+綜合	종합	Synthesis, integration
+批判	비판	Criticism
+討論	토론	Discussion, debate
+反駁	반박	Refutation, rebuttal
+論旨	논지	Thesis, main point
+背馳	배치	To diverge from, contradict
+豫期	예기	Anticipation, expectation
+實題	실제	Real topic/task
+感情的	감정적	Emotional
+學術的	학술적	Academic, scholarly
+諺文	언문	Eonmun (Vernacular script, older term for Hangeul)
+漢文	한문	Classical Chinese
+外壓的 反感	외압적 반감	Reactive sentiment against external pressure
+政治的 氣分	정치적 기분	Political mood/atmosphere
+絶對的 價値	절대적 가치	Absolute value
+實價値	실가치	True value, real worth
+分裂	분열	Division, split
+實効	실효	Practical effect, efficacy
+防害	방해	Obstruction, hindrance (modern: 방해)
+言語學界	언어학계	Linguistic academic circles
+外來語	외래어	Loanword, foreign word
+逐出	축출	Expulsion, driving out
+畢竟	필경	Ultimately, in the end
+効果	효과	Effect, result (modern: 효과)
+盲目的	맹목적	Blindly
+自己固執	자기고집	Self-insistence, stubbornness
+汚濶	오활	Vulgar, crude, ignorant
+未鍊	미련	Unrefined, inexperienced (modern: 미련하다 - foolish, lingering attachment)
+學術自身	학술자신	Scholarship itself
+手段	수단	Means, method
+許諾	허락	Permission, consent
+眞價値	진가치	True value
+科學的	과학적	Scientific
+正道	정도	The right path
+語源	어원	Etymology
+自俾	자비	Self-deprecation
+何等	하등	Any kind of, whatsoever
+말성	말썽	Trouble, dispute (modern: 말썽)
+音理	음리	Phonetic principles
+病的	병적	Pathological, morbid
+衍文	연문	Superfluous words/talk
+虛文褥禮	허문욕례	Empty formalities and excessive ritualism
+舊習思想	구습사상	Old customary ways of thinking
+改善	개선	Improvement
+멧 가지	몇 가지	A few kinds/types (older spelling)
+惑者	혹자	Some people
+獨立	독립	Independence
+放逐	방축	Expulsion, banishment
+不合當	불합당	Inappropriate, unsuitable
+玆	자	Here (Classical Chinese character used in Korean text)
+상징적	상징적	Symbolic
+규칙적	규칙적	Systematic, regular
+尾音	미음	Final consonant sound (batchim)
+象徵	상징	Symbolism (modern: 상징)
+反對語	반대어	Antonym
+密閉音	밀폐음	Closed sound (likely unreleased stop)
+靜的	정적	Static
+動舌音	동설음	Lingual sound (sound made with the tongue, likely liquid/flap)
+動的	동적	Dynamic
+管見	관견	Personal view (humble expression)
+滿蒙語	만몽어	Manchu-Mongolian languages
+中日語	중일어	Sino-Japanese languages (or Chinese and Japanese)
+古今語	고금어	Ancient and modern language
+變遷	변천	Change, transition
+法則	법칙	Principle, law
+開拓	개척	Pioneering, developing
+空然히	공연히	Pointlessly, needlessly (modern: 공연히)
+音聲學	음성학	Phonetics
+原理原則	원리원칙	Principles
+連音	연음	Liaison (in phonetics)
+發音기관	발음기관	Speech organs
+口腔	구강	Oral cavity
+調節	조절	Adjustment, regulation
+定義	정의	Definition
+依持	의지	To rely on, depend on (modern: 의지하다)
+母音	모음	Vowel
+發達	발달	Development
+數爻	수효	Number, count
+音調	음조	Tone, intonation, sound quality
+中間音	중간음	Intermediate sound
+자음	자음	Consonant
+箇箇히	개개히	Individually (modern: 개개이)
+發明거리	발명거리	Material for discovery/invention
+多有	다유	To exist in abundance
+文法	문법	Grammar
+著述	저술	Writing, authorship
+法律	법률	Law, statute
+編纂	편찬	Compilation
+抽象的 記載	추상적 기재	Abstract description
+立法的	입법적	Legislative, law-making
+服從	복종	Submission, obedience
+壓制的 氣分	압제적 기분	Coercive/oppressive atmosphere or attitude
+實際 語法	실제 어법	Actual language usage
+冠詞	관사	Article (grammar)
+名詞	명사	Noun
+性(암수)	성(암수)	Gender (male/female)
+不當	부당	Unjust, inappropriate
+우랄알티이語族	우랄알타이어족	Ural-Altaic language family
+作用	작용	Function, effect
+空然히	공연히	Pointlessly, needlessly (modern: 공연히)
+職能	직능	Function (esp. grammatical)
+代名詞	대명사	Pronoun
+吐	토	Particle (grammatical); postposition (older term)
+分立	분립	To separate, establish separately
+助動詞	조동사	Auxiliary verb
+接續詞	접속사	Conjunction
+幼穉	유치	Childish, immature
+論端	논단	Argument, point of discussion
+捨	사	To discard, abandon (Classical Chinese character used in Korean text)
+됴흘 듯	좋을 듯	Seems good (older spelling/pronunciation)
+綴字法改良	철자법개량	Spelling reform
+綴字法	철자법	Spelling, orthography
+文字	문자	Script, writing system, characters
+혼동	혼동	Confusion
+亂狀	난상	Chaotic situation
+本來	본래	Originally
+容易	용이	Easy
+以外	이외	Besides, apart from
+文字法	문자법	Orthography, rules of writing
+全民衆	전민중	The entire populace
+共認	공인	Common recognition, consensus
+毁破	훼파	To destroy, break down (modern: 훼파)
+混濁	혼탁	To make muddy, confuse
+權利	권리	Right, authority
+彼等	피등	They, them (somewhat archaic/formal term)
+문듯	문득	Suddenly, unexpectedly
+字典	자전	Dictionary (esp. character dictionary)
+責任	책임	Responsibility
+바틤	받침	Final consonant (older spelling of 받침)
+올타	옳다	To be correct, right (older spelling/form)
+實地	실지	Actual practice, reality
+廢止	폐지	Abolition
+何必	하필	Why necessarily
+行文	행문	Writing sentences, prose
+不經濟	불경제	Inefficiency, uneconomical
+된시옷	된시옷	Tense 's' sound/symbol (ㅆ, or potentially related complex initials)
+激音	격음	Aspirated or tense sound (context dependent)
+振動數	진동수	Frequency (of vibration)
+本音	본음	Base sound
+배수	배수	Multiple (times)
+文明時代人	문명시대인	Person of the civilized era
+댜탸	댜, 탸	Archaic syllables, palatalized before 'j, ch' sounds
+닐그니	읽으니	Because (one) reads (older spelling of 읽으니)
+本字	본자	Original character/letter
+讀	독	To read (Hanja used for 'read')
+萬國聲音	만국성음	Sounds of all nations' languages
+自然傾向	자연경향	Natural tendency
+通性	통성	Universal characteristic, common property
+一新改良	일신개량	To reform anew
+定則	정칙	Established rule, standard principle (modern: 정칙)
+蔽一言	폐일언	In a nutshell, to sum up in one word
+儒敎思想	유교사상	Confucian thought
+事大主義	사대주의	Sadaejuui ('serving the great', flunkeyism towards powerful nations)
+復古主義	복고주의	Revivalism, restorationism
+虛禮主義	허례주의	Formalism, excessive adherence to etiquette
+舊習	구습	Old customs, old habits
+腦	뇌	Brain, mind
+意思	의사	Intention, idea
+新學問家	신학문가	New scholar, proponent of new learning
+腐敗	부패	Corruption, decay
+基礎的 智識	기초적 지식	Foundational knowledge
+닥근 後	닦은 후	After polishing/cultivating (older spelling of 닦은)
+
+
+---------------------------
+
+
+잡지명	동광 제8호
+발행일	1926년 12월 01일
+기사제목	한글의 연구
+기사형태	논설
+
+한글의 연구
+本誌는 朝鮮語文의 統一이 가장 急務임을 알아서 얼마 前붙어 「正音文法硏究欄」을 두고 여러 專門家의 우리 글과 말에 대한 硏究를 號를 딸아 發表하여 오았으며 이 앞으로 얼마 더 繼續할 預定이외다. 그리하여 우리 글의 오늘같이 여러 갈래로 쓰는 버릇을 곧히고 한가지 바른 본을 찾아서 그로써 統一하기로 期圖하는 바외다. 이에 대하여 뜻이 같으신 분은 그 硏究의 方法이 어떠한 것임을 不拘하고 많이 本社로 보내어 주시면 반가히 받겠음니다.
+그러고 또 우리글은 가장 混雜不一하여 그 쓰는 法이 다 각기 다르니 딸아서 硏究도 다 각기 다를 줄 앎이다. 그 중에서 바른 것 한가지를 標準글로 정하여 쓰려고 할찐대 다만 한 사람의 立論을 고대로 盲從하여 딸아갈 것이 아니며 또 자긔의 意見만 고집하여 세울 것도 아니라 반듯이 여러 사람의 意見을 綜合하여야 할찌니 한가지 問題를 가지고 批判도 하며 討論도 하며 反駁도 하여 바른 본 하나 찾도록 硏究하여 나아갈 것이외다.
+今番에 실린 安廓氏의 論文이 처음으로 討論的 意味로 된 것이외다.  그 論旨가 비록 우리들의 主張과는 대단히 背馳되나 연구의 一方面으로 실지 아니할 수 없게 됨니다. 이로붙어 우리 글을 사랑하시는 여러분의 많은 批評과 討論과 反駁이 있을 것을 豫期함니다. (記者)
+
+朝鮮語硏究의 實題
+安廓
+
+一. 感情을 버리고 科學的으로
+近來 朝鮮語를 硏究하자는 소리는 四面에 들녀. 그러나 그 硏究라 하는 것은 다 感情的이오 學術的이 안이야. 그럼으로 그 硏究라고 써내는 글발들은 諺文을 바로 쓰자 漢文으로 된 말은 쓰지 말자 또는 文法說明도 通例를 피하자 이러한 主見들로써 常套를 삼아 한갓 外壓的 反感의 動機로서 엇던 政治的 氣分을 띄여 그 硏究를 絶對的 價値가 잇게 하지 안하는 모양이 된지라 그런 主義로써 硏究를 하여나가면 朝鮮語의 實價値를 차질수도 업슬뿐 안이라 점점 分裂를 식히여 어렵게만 만들게 되고 아모 實効도 업시 도리혀 統一의 防害를 짓게 될 뿐이라.
+이런 經驗은 西洋 各國 言語學界에서 만히 지내본 事實이니 獨逸서는 巡査를 演劇場에까지 派送하야 廣大들의 語法을 檢束하엿고 英國서는 쉑스피아와 빅토리아 여왕이 나서 外來語를 逐出하기에 애를 만히 쓴 일이 잇섯스되 畢竟 効果를 成就치 못하엿서. 오늘날 우리는 盲目的으로 個人의 理想만 尊重히 하여 自己固執의 範圍 안으로 統一코자＜56＞ 하니 그 엇지 汚濶하고 또 未鍊한 일이라 안이할가 學術은 學術自身의 價値를 爲하야 硏究하는 것이오 엇던 手段으로 할 것은 안이야 이는 學術其者가 許諾치 안는 일이라.
+그런 故로 우리는 感情을 버리고 그 眞價値를 科學的으로 硏究함이 正道니 假令 諺文이란 名詞의 語源이 自俾에서 나온 것이니 諺文이란 말을 피하고 正音 또는 本文이라 하자 하는 생각 가튼 것이 그런 例라. 가령 諺文이라 하엿다고 諺文其者의 價値에는 何等損害가 업는 일이며 文法에도 또한 何等關係가 업는 것을 공연히 말성을 만들어 眞硏究의 시간만 防害할 뿐이 안인가. 또 보건대 ㄱ자의 名稱은 기억이라 통칭하는대 其 명칭까지 音理에 맛게 새로 지어 부르자 하는 소리는 참 病的의 論難이라. 그런 衍文의 소리는 결코 文法硏究의 關係가 업는 일이니 只今부터는 그런 虛文褥禮의 舊習思想을 改善하고 새롭고 科學的으로 硏究하기를 바라는 것이니 只今 말하고자 하는 것은 이 科學的으로 생각하여보자는 제목을 멧 가지 물어 보자함에 잇노라.
+
+二. 語源의 問題
+前者의 學者들은 만히 朝鮮語의 語源을 漢文에 들어 대기로 하엿는대 近日의 惑者들은 아모조록 獨立을 식이여 朝鮮的으로 解釋하고 外來語는 다 放逐하자고 하니 참 前後의 소리가 다 言語學에는 不合當한 일이라. 우리는 몬저 言語學을 硏究하여 學術的으로 硏究할 것이니 一例를 玆에 드노라.
+朝鮮語는 상징적으로 된 말이 만흐니
+原格     指格
+(이)를 ... (요)
+(더럽)를 ... (다럽)
+(미련)를 ...(매련)
+이라 하는 조직은 만흐니 獨逸小兒가 大倚子를 Lukul 小倚子를 Likil이라 함과 가튼 일은 잇스나 朝鮮語 가티 이러게 규칙적으로 된 말은 世界에 드믄 일이라. 또 尾音의 象徵으로 된 것을 본 즉 ㅅ ㄹ를 밧고어 反對語를 지은 일이 만흐니
+곳(串) ... 골(谷)
+늣(晩) ... 늘(廷)
+돗(昇) ... 돌(廻)
+뭇(陸) ... 물(水)
+웃(笑) ... 울(哭)
+흣(散) ... 흘(流)
+곳 密閉音으로써 靜的 意味의 語를 짓고 動舌音으로써  動的 意味의 語를 지엇서. 이런 것은 實相 予의 硏究한 結果인 管見이라 하겟지만은 語源의 硏究는 참 거리가 만흐니 滿蒙語와의 關係는 여하, 中日語와의 관계는 如何, 古今語의 變遷上 法則은 如何, 言語學에 비처보면  開拓할 것이 매우 만흐니 空然히 感情的으로 쓸데업는 말은 問題삼지 마는 것이 必要하다흠.
+
+三. 音聲의 問題
+種種의 文法冊에는 語音說明은 音聲學의 原理原則으로 말하지 안코 感情的 解釋法으로써 連音上 外變하는 態度로써 論難하엿나니 例컨대
+(ㅑ)는 (ㅣ ㅏ)의 合
+(ㅕ)는 (ㅣ ㅓ)의 合
+(ㅛ)는 (ㅣ ㅛ)의 合
+이라해. 이것이 不合宜한 說明이라 ㅑ는 發音기관 곳 口腔이 如何히 調節되여 나오는 것이라 함이 定義가 될지오 何何音의 합이다 하는 것은 發音說明이 못되나니 만일 連音上으로 說明하면 一定의 解說을 세울 수가 업나니라. 고로 우리는 音聲學의 原則에 依持하여 풀어 볼 것이니 例컨대 朝鮮語의 母音은 크게 發達하여 世界語音보다 第一가는 數爻로서 20餘箇가 되다. 고로 音調上에는 中間音이 만흐니
+검(黑) ...ㅓ ㅡ의 中間音
+덜(減) ...ㅓ ㅡ의 中間音
+솜(棉) ... ... ... ..ㅗ ㅡ의 中間音
+든(錢) ... ... ... ..ㅗ ㅡ의 中間音
+닭, 밟, 등은 자음의 中間音. 이것은 予의 管見이나 箇箇히 풀어보면 實相 新硏究의 發明거리가 多有할지니라.
+
+四. 文法의 問題
+文法의 著述은 法律의 編纂과 가티 法을 세우는 것이 안이라 抽象的 記載가 文法學의 原則이라. 近來 文法敎師들이나 文法書著述者들은 다 法典家와 가티 立法的으로 說明하여 아모조록 自己新法에 服從케하는 壓制的 氣分이 잇서. 곳 實際 語法에 업는 것을 써 노코 가리치기가 一手라
+(와서)을...(오아서)
+(되여)를...(되어)
+(누어)를...(눕어)
+(니어)를...(닛어)
+라 하기를 곳잘하며 分類에 對하여도 冠詞가 잇다하기도 하며 名©ž의 性(암수)도 說明하기도 하야 不當의 說明이 만흐니 우랄알티이語族에는 英語의 (a, the)가튼 冠詞가 업스며 名詞의 性(암수)가튼＜57＞ 것도 語法上 何等의 作用이 업는 것을 空然히 써노흐며 職能´ 다른 代名詞를 名詞에 合하기 職能이 가튼 吐를  여러 가지로 分立하기 더욱 無意味의 間音을 助動詞라 하기 非獨立性의(와, 과)¥¼ 獨立性의 接續詞라 하기 別別 幼穉의 論端이 만해. 우리들은 그런 非科學的의 口法을 捨하고 文法學의 原理原則으로써 硏究하기를 시작함이 됴흘 듯.
+
+五. 綴字法改良問題
+近來 文法이라 하면 依例件 ** 잘쓰는 것으로써 主張을 삼나니 이것이 文法과 文字를 혼*하는 亂狀이라. 本來 綴字法의 改良은 그러케 容易한 것도 안이려니와 文法 以外에 文字法을 특별히 硏究할 것이라. 空然히 理論上 個人의 意見을 가지고 全民衆의 共認을 毁破하는 同時에 文法界를 混濁케 하는 權利는 文法家의 일이 안이라 彼等이 문듯 말하되 (1)語源을 바로한다 하나 語源問題는 字典의 責任이오 文法의 關係는 안이라. (2)바틤을 잘써야 올타 하나 이 올타는 것은 理論이오 實地를 主張하는 文法과는 無關係라 假令 ㅈㅊㅌㄷㅍㅎ 등 바틤을 안쓰는 것이 벌서 文法이 되엿는대 何必 民衆共用의 文法을 廢止식이고 새 文法을 낼 것이 무엇이뇨. 理論上으로 말할지라도 새 바틤을 쓰면 말이 變하여지고 또 行文의 글자를 더 쓰게되여 不經濟의 일이 생기나니라. (3)ㅆㅉ 5字는 그 發音이 둘만콤 단단하게 나오는 것이니 雙으로 ㄲ ㄸ ㅃ ㅆ 로 쓰자 하나니 이것이 不當하다. 된시옷은 激音의 表로서 一定한 法則이 되엿는대 何必 雙으로 쓸 것이 무엇인가. 發音으로 말할지라도 둘만콤 단단하다 하나 그 振動數가 과연 本音의 배수로 發音되는 것인가. 그런 非科學的 說明은 今日 文明時代인의 듯기십지 안한 것이라. (4)댜탸는 자차로 닐그니 本字는 듸야틔야로 讀하자는 것이 또한 彼等의 主張이라. 그러나 이는 萬國聲音의 自然傾向인 通性의 音聲學上 原則이 어널 그 通性은 아지 못하고 改良하기로만 하니 이것도 非科學的이오 또한 댜탸를 자차로 讀하는 것이 文法이 되엿거널 엇지 새 文法을 세워 民衆의 語를 一新改良코자 하나뇨. 물론 理論은 可하다하나 文法은 결코 理論에 依持하여 말하는 것이 文法學上 定則이 안이니 라.
+
+蔽一言하고 近來 文法論者의 說明은 科學的이 안이오 感情的 또는 儒敎思想의 事大主義, 復古主義, 虛禮主義 등 舊習의 腦를 가싀지 못한 고로 그런 意思를 가지고 잇는 것인 줄 알지니 우리 新學問家는 그런 腐敗한 思想을 버리고 몬저
+文法學 音聲學
+言語學 文字學
+等의 基礎的 智識을 닥근 後에 科學的으로 硏究하기를 바라노라. ＜58＞
+
+본란에 기고하는 이는 대개 다 우리글 연구방면의 주장이 각히 다르으겠음로 여긔만 한하여 우리글의 용법을 本社 特定文件에 의지하지 아니함,
+＜56-58＞

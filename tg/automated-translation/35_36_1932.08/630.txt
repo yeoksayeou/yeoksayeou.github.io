@@ -1,0 +1,51 @@
+Magazine Title: 동광 제36호
+Publication Date: 1932년 08월 01일
+Article Title: 科學斷片, 새의 健翼 (Scientific Fragment, The Strong Wings of Birds)
+Author: Not specified
+Article Type: 잡저 (Miscellaneous writing)
+
+Scientific Fragment, The Strong Wings of Birds
+
+A young tern (새색기), caught and tagged on its leg in Labrador (라브라도) on July 22, 1927, was caught in France (불란서) on October 1st of that year. That is to say, a bird born just three months prior flew 2,500 miles. The following year, a bird caught and marked in Kitson (깃손) was caught in the Natal (나탈) region of South Africa (남아프리카); born just four months prior, it had flown 9,415 miles.
+
+Normally, when birds fly, they do not rise higher than 3,000 feet, but the highest record is 29,000 feet. The speed of a small bird is about 60 to 100 Korean li (조선 리수) per hour. Geese go 120 to 180 li per hour. Recently, an aviator raced a swallow and found it went at a speed of 200 li per hour.<55>
+
+**Summary**
+
+This short article highlights the remarkable flight capabilities of birds, citing two examples of long-distance migration by young terns (Labrador to France, and "Kitson" to South Africa). It also notes typical and maximum flight altitudes, and provides speed comparisons for small birds, geese, and swallows, measured in Korean 'li' per hour, even comparing a swallow's speed to that of an airplane. From a historical perspective, the piece reflects the popularization of Western scientific knowledge (ornithology, specifically bird migration and physiology) in colonial Korea during the 1930s. The use of both Western units (miles, feet) and the traditional Korean unit 'li' is also noteworthy, illustrating the blending of measurement systems during this period.
+
+**Named Entities**
+
+라브라도	라브라도	Labŭrado
+불란서	불란서	Pullansŏ
+깃손	깃손	Kitson
+남아프리카	남아프리카	Namap'ŭrik'a
+나탈	나탈	Nat'al
+조선	조선	Chosŏn
+
+**Glossary**
+
+科學斷片	과학단편	Scientific fragment; short scientific piece
+健翼	건익	Strong wings
+새색기	새새끼	Baby bird; young bird (Older spelling/form of 새끼)
+표를 달아	표를 달아	Attaching a tag/marker
+잡혓다	잡혔다	Was caught (Older spelling/passive form of 잡히다)
+표적한	표적한	Marked; targeted (Likely used here to mean 'tagged' or 'marked' for identification, an older or less common usage compared to 표지한)
+척	척	Feet (unit of measurement, used here for altitude likely referring to the English foot)
+조선 리수	조선 리수	Korean li distance (Traditional Korean unit of distance, approx. 0.393 km)
+경주를 해보앗는데	경주를 해 보았는데	Raced; tried racing (Older spelling of 해 보았는데)
+가드라고	가더라고	(I observed/heard that it) went; traveled (Colloquial observational ending, older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제36호
+발행일	1932년 08월 01일
+기사제목	科學斷片, 새의 健翼
+기사형태	잡저
+
+科學斷片, 새의 健翼
+1927년 7월 22일에 「라브라도」에서 잡아서 다리에 표를 달아 놓아준 「테튼」이란 새색기가 그해 10월 1일에 불란서에서 잡혓다. 즉 난지 석달 된 새로서 2,500마일을 날라온 것이다. 그 이듬해에 역시 「깃손」에서 잡아 표적한 새 한놈을 남아프리카 「나탈」지방에서 잡앗스니 난지 넉달 전에 9,415마일을 날라간 것이다.
+보통 새들이 날 적에는 3,000척 이상 높이 뜨지 아니하나 최고 기록으로는 2만9천척을 뜬 것이다. 조고만 새의 속력은 한시간에 조선 리수로 60리로 백리 가량 간다. 기러기는 120리로 180리까지 간다. 최근 어떤 비행사가 제비와 경주를 해보앗는데 한시간에 200리의 속도로 가드라고.＜55＞
+＜55＞

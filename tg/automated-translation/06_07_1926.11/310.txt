@@ -1,0 +1,113 @@
+Magazine Title: 동광 제7호
+Publication Date: 1926년 11월 01일 (November 1, 1926)
+Article Title: 檀君考證에 對한 新記錄의 發見, 朝鮮古代史硏究一端 (Discovery of a New Record Regarding the Verification of Tangun, A Glimpse into Ancient Korean History Research)
+Author: 黃義敦 (Hwang Ŭi-don)
+Article Type: 논설 (Editorial/Essay)
+
+Discovery of a New Record Regarding the Verification of Tangun, A Glimpse into Ancient Korean History Research
+						By Hwang Ŭi-don
+
+Recently, among scholars seeking to research Korean history, discussions about Tangun (檀君) seem to be quite vigorous. Japanese scholars, without exception, are united in asserting that Tangun is an unbelievable, legendary figure. Furthermore, some scholars seem to go a step further, claiming that his legend first emerged after the time the *Samguk Sagi* (三國史記) was written (1145 AD) and before the *Samguk Yusa* (三國遺事) was written (between 1275 AD and 1308 AD).
+
+Conversely, among Korean scholars, the majority seem to believe and assert that he, the founder of the Korean nation (國祖), was a real figure, and some seem to be striving to prove his existence. However, regardless of any country's history, its founding ancestor is often a vague, legendary figure for whom it is difficult to provide precise proof, while at the same time, it is difficult to easily deny them. Accordingly, regarding Tangun, the founder of Korea, I have not yet attained the research or courage to make any definitive judgment, and furthermore, I intend not to take up my brush concerning his fundamental issue. However, whether from the side of Japanese scholars who deny Tangun's existence or from the side of Korean scholars who defend Tangun's existence, when listing evidentiary records based on classical texts, they merely cite the line in the *Samguk Sagi*, 21st year of King Tongch'ŏn's (東川王) reign, stating, "P'yŏngyang (平壤) was originally the house of the *sŏnin* Wanggŏm (仙人王儉)," and then discuss using passages recorded in books like the *Samguk Yusa*, the Geography section of the *Koryŏsa* (高麗史地理志), and the Geography section of the *Sejong Sillok* (世宗實錄地理志). They seem unaware that besides these, there is another most important evidentiary record.
+
+Feeling no small regret about this, I wish to present that record below to provide it to various colleagues researching the Tangun problem. It is found in the epitaph (墓誌銘) of Cho Yŏn-su (趙延壽), Holder of the Concurrent Posts of Attendant Gentleman of the Chancellery Secretariat and Minister of Works (尙書司空), composed by Historiographer Yi Suk-ki (李叔琪) in the 12th year of King Ch'ungsuk (忠肅王) of Koryŏ (高麗) (1325 AD, cyclical year Ŭlch'uk), about 10 years after the composition of the *Samguk Yusa*. It reads:
+
+"The progenitor of P'yŏngyang (平壤之先) was the *sŏnin* Wanggŏm (仙人王儉). His surviving descendants to this day (至今遺民), the imposing Minister of Works (堂堂司空). The nobleman of P'yŏngyang (平壤君子) existed before the Three Han (在三韓前). His lifespan exceeded one thousand (壽過一千), he grew old and became an immortal (胡考且仙). Appointed to the border command (拜之藩宣), his lineage continues unbroken (其系蟬聯)." (Remainder omitted - original text)
+
+It is written thus. Since the *Samguk Sagi* states, "P'yŏngyang was originally the house of the *sŏnin* Wanggŏm," and the *Samguk Yusa* writes "Tan'gun Wanggŏm (檀君王儉)," it is known through correlation that Tan'gun (檀君 or 壇君) is Wanggŏm, and Wanggŏm is Tan'gun.
+
+However, what kind of figure was this Wanggŏm? The record in the *Samguk Sagi* is too brief, and the record in the *Samguk Yusa* is too vague (朦朧), making it difficult to clearly understand his substance. Having obtained and read the aforementioned epitaph, it can be said that the outline of his substance has finally become clear.
+
+This epitaph is included in the *Chosŏn Kŭmsŏk Ch'ongnam* (朝鮮金石總覽), but its text seems to have some errors. Thus, I intended to investigate the original stone slab at the Kyŏngsŏng Museum (경성 박물관), but due to a busy life, I have not yet found the opportunity. However, the epitaph consists entirely of 12 phrases. The lower 10 phrases all use rhymes from the '先' (sŏn) category, so it is unlikely that only the upper 2 phrases would use different rhymes like '儉' (kŏm) and '空' (kong). Upon careful <97> examination, it seems likely that the first phrase, "The progenitor of P'yŏngyang was the *sŏnin* Wanggŏm (平壤之先 仙人王儉)," is an inversion of the original text which read, "*Sŏnin* Wanggŏm, progenitor of P'yŏngyang (仙人王儉 平壤之先)." And the second phrase, "His surviving descendants to this day, the imposing Minister of Works (至今遺民 堂堂司空)," not only does the character '空' (kong) not fit the '先' rhyme category, but the meaning is not smooth. And the phrase, "Appointed to the border command, his lineage continues unbroken (拜之藩宣 其系蟬聯)," not only is the meaning incoherent, but since both '宣' (sŏn) and '聯' (lyŏn) are rhymes from the '先' category, using two identical rhymes in one phrase is unprecedented among epitaph writers. It seems that during the publication of the *Chosŏn Kŭmsŏk Ch'ongnam*, there was an error where "his lineage continues unbroken (其系蟬聯)" was attached after "His surviving descendants to this day (至今遺民)," and "the imposing Minister of Works (堂堂司空)" was attached before "Appointed to the border command (拜之藩宣)." If we correct it again, it should probably read:
+
+"*Sŏnin* Wanggŏm (仙人王儉), progenitor of P'yŏngyang (平壤之先).
+His surviving descendants to this day (至今遺民), their lineage continues unbroken (其系蟬聯).
+The nobleman of P'yŏngyang (平壤君子), existed before the Three Han (在三韓前).
+His lifespan exceeded one thousand (壽過一千), he grew old and became an immortal (胡考且仙).
+The imposing Minister of Works (堂堂司空), appointed to the border command (拜之藩宣)."
+
+Thus, analyzing its contents again: "*Sŏnin* Wanggŏm, progenitor of P'yŏngyang" has the same meaning as the phrase recorded in the *Samguk Sagi*, "P'yŏngyang was originally the house of the *sŏnin* Wanggŏm," stating that *Sŏnin* Wanggŏm was the primogenitor of the people of P'yŏngyang and that P'yŏngyang was the place where *Sŏnin* Wanggŏm existed. "His surviving descendants to this day, their lineage continues unbroken" means that the surviving people in the Koryŏ (高麗) era were all descendants of *Sŏnin* Wanggŏm, and Cho Yŏn-su of the P'yŏngyang Cho clan was also his descendant. "The nobleman of P'yŏngyang" refers to *Sŏnin* Wanggŏm. "Existed before the Three Han (三韓)" states that the era of *Sŏnin* Wanggŏm was before the Three Han. "His lifespan exceeded one thousand, he grew old and became an immortal" means that *Sŏnin* Wanggŏm's lifespan passed one thousand years, and then he aged and became an immortal (*sŏnin*). "The imposing Minister of Works, appointed to the border command" means that Cho Yŏn-su, the Minister of Works (司空) (official position) with imposing dignity (威儀), served in the office of *pŏnsŏn* (藩宣, likely referring to a provincial or border official role).
+
+Reading it with this interpretation, it is sufficient to supplement the shortcomings of the brief *Samguk Sagi* record and the obscure *Samguk Yusa* record, and it can be said that its outline becomes even clearer. In other words, it can be known that *Sŏnin* Wanggŏm was a figure worshipped and believed in as the founder (敎祖) of the Kukson Kyo (國仙敎) (distinct from Chinese Daoism (支那 仙敎)), the religion followed by Koreans during the ancient primitive era of theocratic unity (敎政一致時代) — the very religion Ch'oe Ch'i-wŏn (崔致遠) described as "The kingdom possesses a profound Way... encompassing the Three Teachings (儒彿仙; Confucianism, Buddhism, Daoism/Sŏn)" — and simultaneously the founding ancestor (國祖) of the nation.
+
+What has been stated above merely introduces a passage from an evidentiary record concerning Tan'gun Wanggŏm. A deeper analysis of its content and a definitive judgment on its validity await another day, and I conclude here for now. <98> <97-98>
+
+**Summary**
+
+The author, Hwang Ŭi-don, addresses the contemporary debate (1926) about the historicity of Tangun, Korea's legendary founder. He notes the divide between Japanese scholars dismissing Tangun as myth and Korean scholars defending his existence. Hwang introduces a newly discovered source, an epitaph for the Koryŏ official Cho Yŏn-su dated 1325, which mentions "*Sŏnin* Wanggŏm" (仙人王儉), identified with Tangun. He analyzes and reconstructs the epitaph text, arguing it provides a clearer picture of Wanggŏm/Tangun than the *Samguk Sagi* or *Samguk Yusa*, portraying him as the progenitor of P'yŏngyang, living before the Three Han period, attaining great age and immortality, and possibly being the founder of an indigenous Korean religion (Kukson Kyo). From a colonial history perspective, the article is significant as it represents a Korean intellectual directly engaging with and countering Japanese historical narratives that diminished Korean antiquity and national identity. Hwang's use of epigraphy attempts to ground the Tangun legend in concrete historical evidence accessible through traditional scholarship, implicitly resisting colonial interpretations.
+
+**Named Entities**
+
+檀君	단군	Tangun
+黃義敦	황의돈	Hwang Ŭi-don
+三國史記	삼국사기	Samguk Sagi
+東川王	동천왕	Tongch'ŏn-wang
+平壤	평양	P'yŏngyang
+王儉	왕검	Wanggŏm
+三國遺事	삼국유사	Samguk Yusa
+高麗史地理志	고려사지리지	Koryŏsa Chiriji (Geography Section of the History of Koryŏ)
+世宗實錄地理志	세종실록지리지	Sejong Sillok Chiriji (Geography Section of the Veritable Records of King Sejong)
+高麗	고려	Koryŏ
+忠肅王	충숙왕	Ch'ungsuk-wang
+李叔琪	이숙기	Yi Suk-ki
+趙延壽	조연수	Cho Yŏn-su
+朝鮮金石總覽	조선금석총람	Chosŏn Kŭmsŏk Ch'ongnam (Compendium of Korean Epigraphy)
+경성 박물관	경성 박물관	Kyŏngsŏng Pangmulgwan (Keijō Museum)
+三韓	삼한	Samhan
+崔致遠	최치원	Ch'oe Ch'i-wŏn
+支那	지나	China
+
+**Glossary**
+
+요새	요새	Recently, nowadays (older form/usage)
+밋다	믿다	To believe (older spelling)
+잇다	있다	To exist, to be (older spelling)
+나리다	내리다	To issue, make (a decision, judgment) (older spelling/usage)
+안흐려	않으려	Not intending to (older spelling/contraction)
+붓	붓	Brush (writing implement, i.e., pen)
+잇슴	있음	Existence, being (older nominalization spelling)
+質려	질려	Based on, grounded in (Hanja borrowing, 質=basis)
+버릇하여	비롯하여	Including, starting from (likely a typo or older form for 비롯하여)
+들이서	들어서	Citing, quoting, bringing up (older spelling)
+어더	얻어	Obtaining, finding (older spelling)
+비롯오	비로소	For the first time (older spelling)
+들어내게	드러나게	To be revealed, become clear (older spelling)
+써잇는	쓰여 있는	Is written (older spelling/phrasing)
+넘우	너무	Too, excessively (older spelling)
+업슬	없을	Will not be, nonexistent (older spelling)
+부텃던	붙었던	Was attached (older spelling)
+가티	같이	Like, as (older spelling)
+몽매한	몽매한	Obscure, ignorant, unenlightened (also 朦朧 used earlier means vague/dim)
+족한	족한	Sufficient, enough
+들어낸다	드러낸다	Reveals, shows (older spelling)
+알만 하도다	알 만하도다	Is knowable, can be understood
+國仙敎	국선교	Kukson Kyo (Name of an ancient Korean religious/philosophical tradition)
+敎政一致	교정일치	Theocratic unity, unity of religion and state
+기피	깊이	Deeply (older spelling)
+끄치는	그치는	Ending, stopping (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제7호
+발행일	1926년 11월 01일
+기사제목	檀君考證에 對한 新記錄의 發見, 朝鮮古代史硏究一端
+필자	黃義敦
+기사형태	논설
+
+檀君考證에 對한 新記錄의 發見, 朝鮮古代史硏究一端
+						黃義敦
+요새 朝鮮史를 연구하려는 학자들 사이에서는 檀君에 대한 의논이 매우 왕성한 모양이다. 일본인 학자들은 누구를 물론하고 다 檀君을 미들 수 없는 일종의 전설적 인물이라 주장함에 일치한 동시에 한 걸음을 더 나아가서 그의 전설이 三國史記 저작 시대(서기 1145년) 이후 三國遺事 저작(서기 1275년-동1308년간) 이전에 처음 난 것이라고까지 주장하는 학자도 잇는 모양이다.
+그의 반대로 조선학자 중에 다대수는 조선의 國祖인 그가 실재적 인물임을 밋고 주장하는 동시에 그의 실재를 변증하려고 애쓰는 사람도 잇는 모양이다. 마는 어느 나라 역사를 물론하고 그의 國祖가 다 막연한 전설적 인물로서 정확한 증명을 나리기 어려운 동시에 그를 용이히 부인하기도 어려운 것이다. 딸아서 조선의 國祖인 檀君 그에 대하여서도 나는 아직 어떠한 단안을 나릴만한 연구와 용기를 갓지 못한 동시에 차라리 그의 근본문제에 대하여서는 붓을 들지 안흐려 한다. 마는 檀君의 존재를 부인하는 일본인 학자측에서던지 檀君의 존재를 변호하는 조선인 학자측에서던지 다 각기 고전에 질려 잇는 증거적 기록을 열거함에는 오직 三國史記 東川王 21년條에 『平壤者 本仙人王儉之宅也』라 한 一條를 버릇하여 三國遺事, 高麗史地理志, 世宗實錄地理志 등 書에 기재된 문구를 들이서 논단할 뿐. 그 외에도 가장 중요한 증거적 기록이 잇슴을 발견하지 못하는 모양이다.
+그에 대하여 적지안흔 유감을 가진 나는 그의 기록을 左記에 들어서 檀君問題를 연구하려는 여러 동지에게 제공코저 하는 바다. 그는 곳 高麗 忠肅王 12년(서기 1325년 乙丑) 三國遺事 저작 後 약 10여년 경에 修史官 李叔琪의 所撰인 尙書司空 趙延壽 墓誌銘에
+平壤之先 仙人王儉 至今遺民 堂堂司空 平壤君子 在三韓前 壽過一千 胡考且仙 拜之藩宣 其系蟬聯(下略-원문)
+이라 써잇는 것이다. 三國瑚記엔 『平壤者 本仙人王儉之宅也』라 써잇고 三國遺事엔 「檀君王儉」이라 써 잇슴에 인하여 檀 壇)君이 곳 王儉이요 王儉이 곳 檀君임을 聯絡이여 아는 바다.
+그러나 王儉 그는 어떠한 인물인가? 三國史記의 기록은 넘우 간단하고 三國遺事의 기록은 넘우 朦朧하여 그의 내용을 밝게 알기 어렵던 바 前記의 墓誌銘을 어더 읽음에 비롯오 그의 내용적 윤곽이 명확히 들어내게 되엇다 할 만하다.
+그의 墓誌銘은 朝鮮金石總覽에 실린 바로서 그의 문구가 多少 착오된 점이 잇는 듯하다. 그리하여 경성 박물관에 잇는 그의 원석을 조사하여 보려하엿스나 분망한 생활 중임으로 아직 그의 틈을 엇지 못하엿다. 마는 그의 誌銘이 전부 12句로서 下端 10句는 다 先字部韻을 달앗스되 上端 2句뿐 儉, 空 등의 딴 韻을 달앗슬 리가 업슬 것이다. 그를 자세히＜97＞ 검사하여 보면 아마 首句에 『平壤之先 仙人王儉』이라 함이 『仙人王儉 平壤之先』이라 한 원문의 倒植인 듯 하다. 그러고 제2句에 『至今遺民 堂堂司空』이라 함은 空字가 先字部韻에 적합치 안흘뿐 아니라 文意가 順通치 못하엿고 제 句에 『拜之藩宣 其系蟬聯』이라 함은 또한 文意가 不通될 뿐 아니라 宣, 聯 2字가 다 先字 部韻인즉 一句에 동일한 兩韻을 달음은 銘家에 전례가 업는 바인즉 아마 『至今遺民』의 下에 『其系蟬聯』이 붓고 『拜之藩宣』의 위에 『堂堂司空』이 부텃던 原文을 金石總覽 출판시에 착오가 된듯하다. 그를 다시 정정하여야 써 보면
+仙人王儉, 平壤之先. 至今遺民, 其系蟬聯. 平壤君子, 在三韓前. 壽過一千, 胡考且仙. 堂堂司空, 拜之藩宣.
+이라 할 것이다.
+따라서 다시 그의 내용을 해부하여 보면 『仙人王儉, 平壤之先』이라 함은 三國史記에 실린『平壤者 本仙人 王儉之宅也』라 한 문구와 동일한 의의로서 仙人 王儉이 平壤 사람의 始祖인 동시에 곳 平壤이 仙人 王儉의 잇던 곳임을 말함이요. 『至今遺民, 其系蟬聯』이라 함은 곳 高麗 時代에 유민이 다 仙人 王儉의 후손으로서 平壤 趙씨인 趙延壽도 또한 그의 후손이란 말이요. 『平壤君子』라 함은 仙人 王儉을 지칭함이요. 『在三韓前』이라 함은 仙人 王儉의 시대가 三韓 이전에 잇섯슴을 말함이요. 『壽過一千, 胡考且仙』이 라함은 仙人 王儉의 壽限이 一千年을 지나자 늙어서 仙人이 되엇단 말이요. 『堂堂司空, 拜之藩宣』이라 함은 威儀가 堂堂한 司空(官位) 趙延壽가 藩宣 벼슬을 하엿단 말이다.
+이와가티 解釋하여 읽어보매 간단한 三國史記의 기록과 몽매한 三國遺事의 기록에 대하여 그의 결점을 보충하기 족한 동시에 그의 윤곽이 일층 명확히 들어낸다 할말만하다. 다시 말하면 仙人 王儉은 太古 原始 敎政一致時代에 朝鮮人의 신앙하던 國仙敎(支那 仙敎의 別異) 곳 崔致遠 所謂 『國有玄妙之道... 包含三敎(儒彿仙)』라 하던 宗敎의 敎祖인 동시에 創國의 國祖로 信仰하고 崇拜하여 오던 인물임을 알만 하도다.
+以上에 말한 바는 다만 檀君王儉에 대한 고증적 기록의 一節을 소개하엿슬 뿐으로서 그의 내용을 기피 해부하고 그의 肯否를 단안함에는 異日을 기다리고 이만 끄치는 바다. ＜98＞ ＜97-98＞

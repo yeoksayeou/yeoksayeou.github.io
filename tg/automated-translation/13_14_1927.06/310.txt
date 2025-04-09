@@ -1,0 +1,123 @@
+Magazine Title: 東光 제14호
+Publication Date: 1927년 06월 01일
+Article Title: 智識庫 (Knowledge Store)
+Author: None specified
+Article Type: 소식 (News/Information)
+
+Knowledge Store
+
+In Germany, they have reportedly succeeded in the wireless transmission of checks (小切手現送) from Pŏllin to Laip'ŭch'ihŭi. This isn't sending the check amount electronically, but placing the actual check on the telegraph machine and transmitting it exactly like a photograph via telegraphy (寫眞電送).
+
+American women use 55,000,000 pairs of silk stockings (明紬洋襪) annually; adding artificial silk brings the total to 200,000 pairs [Translator's Note: This figure seems contradictory or possibly a typo in the original, 200,000 is much smaller than 55 million. Perhaps it means 200,000 *additional* pairs, or refers to a different unit]. The total amount spent by all Americans on socks/stockings (벼선) is $350 million per year.
+
+In the United States, 200 newspapers sought answers to the following questions regarding religion,<59> resulting in 125,000 responses. The percentage breakdown of the answers is as follows:
+
+One. Do you believe in the existence of God? Yes 91 No 9
+
+Two. Do you believe in eternal life/immortality? Yes 88 No 12
+
+Three. Do you believe in prayer that communicates with God? Yes 88 No 12
+
+Four. Do you believe in the divinity of Jesus? Yes 85 No 15
+
+Five. Do you believe the Bible is uniquely inspired above all other books? Yes 85 No 15
+
+Six. Are you a member of a church? Yes 77 No 23
+
+Seven. Do you attend worship services? Yes 76 No 24
+
+Eight. Would you be willing to raise your children where there is no church? Yes 13 No 87
+
+Nine. Do you observe daily family prayer meetings? Yes 42 No 58
+
+Ten. Were you raised in a religious home? Yes 87 No 13
+
+Eleven. Do you send your children to an institution for religious education? Yes 72 No 28
+
+Twelve. Is religion necessary for the individual and society? Yes 87 No 13 <60>
+
+**Summary**
+
+This article presents three unrelated pieces of information as a "Knowledge Store": Germany's successful phototelegraphic transmission of checks between Berlin and Leipzig, the vast quantities and cost of silk and artificial silk stockings consumed by American women and Americans overall, and detailed results from a large-scale survey on religious beliefs and practices among Americans conducted via newspapers. From a historical perspective, the article reveals Korean interest in Western technological advancements (phototelegraphy), consumer culture (American spending habits), and social trends (religious statistics) during the colonial period. For historians, it showcases the kind of foreign information being disseminated to Korean readers in the 1920s, reflecting global interconnectedness and potentially highlighting perceived differences or similarities between Korea and the West.
+
+**Named Entities**
+
+獨逸	독일	Germany
+伯林	백림	Pŏllin (Berlin)
+「라입치히」	라이프치히	Laip'ŭch'ihŭi (Leipzig)
+美國	미국	Miguk (United States)
+
+**Glossary**
+
+智識庫	지식고	Knowledge store, repository of information
+無線電信	무선전신	Wireless telegraphy
+小切手	소절수	Check (financial instrument)
+現送	현송	Present sending; here refers to transmitting the physical item's image
+額面	액면	Face value (of a check)
+寫眞電送	사진전송	Phototelegraphy, transmitting images via telegraph
+明紬洋襪	명주양말	Silk stockings (明紬 = silk, 洋襪 = Western socks)
+人造	인조	Artificial, man-made
+커레	켤레	Pair (Older spelling/form of 켤레)
+벼선	버선	Socks/Stockings (Older term, often refers to traditional Korean socks, but used here for Western stockings)
+宗敎	종교	Religion
+左記	좌기	Written below, the following items
+강구하다	강구하다	To seek, devise, find (a solution or answer)
+百分比	백분비	Percentage
+存在	존재	Existence
+永生不死	영생불사	Eternal life, immortality
+交通	교통	Communication, interaction
+祈禱	기도	Prayer
+神格	신격	Divinity, divine nature
+聖經	성경	Bible
+靈感	영감	Inspiration (spiritual)
+加入	가입	Joining, becoming a member
+禮拜	예배	Worship service
+참예하다	참예하다	To participate, attend (Older form of 참여하다)
+자녀	자녀	Children
+敎育	교육	Education
+機關	기관	Institution, organization
+個人	개인	Individual
+社會	사회	Society
+필요한	필요한	Necessary
+
+
+---------------------------
+
+
+잡지명	동광 제14호
+발행일	1927년 06월 01일
+기사제목	智識庫
+기사형태	소식
+
+智識庫
+獨逸서는 伯林서 「라입치히」까지 無線電信으로 小切手現送에 성공하였다고. 이것은 小切手額面을 電送하는 것이 아니라 아주 그 小切手를 電信機에 놓고 그대로 寫眞電送하는 것이다.
+
+美國 女子가 1년에 사용하는 「실크스탁킹」(明紬洋襪)이 5,500萬이요 거긔다 人造실크까지 집어넣으면 20萬커레가 된다. 美國人 전체가 사용하는 벼선 값은 1년에 3億 5千萬弗이라고.
+
+美國의 新聞 200종에서 宗敎에 관한 左記 문제에 대한＜59＞ 해답을 강구한 결과 12萬5千명이 대답하였는데 그 해답의 百分比는 다음 같다.
+
+一. 神의 존재를 믿는가.                                   然 91  否 9
+
+二. 永生不死를 믿는가.                                     然 88  否  12
+
+三. 神과 交通하는 祈禱를 믿는가.                           然 88  否 12
+
+四. 耶蘇의 神格을 믿는가.                                 然 85  否 15
+
+五. 聖經이 모든 책 중 뛰어나게 靈感을 준다고 믿는가.        然 85  否 15
+
+六. 敎會에 加入하였는가.                                  然 77  否 23
+
+七. 禮拜에 참예하는가.                                    然 76  否 24
+
+八. 敎會가 없는 곳에서 자녀를 敎育할 맘이 있는가.         然 13  否 87
+
+九. 매일 家庭 祈禱會를 보는가.                             然 42  否 58
+
+十 宗敎的 家庭에서 자라났는가.                          然 87  否 13
+
+十一. 자식에게 宗敎敎育을 주기 위하여 그런 機關에 보내는가. 然 72  否 28
+
+十二. 宗敎가 個人 及 社會를 위하여 필요한 물건인가.      然 87  否 13  ＜60＞
+
+＜59-60＞

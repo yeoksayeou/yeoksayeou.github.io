@@ -1,0 +1,139 @@
+**Magazine Title:** 동광 제38호
+**Publication Date:** 1932-10-01
+**Article Title:** 朝鮮文字의 歷史的 考察(16), 韓末風雲과 訓民正音 (A Historical Study of the Korean Script (16), The Turbulent End of the Korean Empire and Hunminjŏngŭm)
+**Author:** 金允經 (Kim Yun'gyŏng)
+**Article Type:** 논설 (Editorial/Article)
+
+**A Historical Study of the Korean Script**
+						**Kim Yun'gyŏng**
+
+5. The Newly Established National Script (新訂國文)
+
+The Tonghak Peasant Revolution (東學의 내란), which occurred in the 32nd year of King Kojong's reign, Kapo year (甲午, 1894 AD), triggered the Sino-Japanese War and consequently led to the so-called 'Kapo Reforms' (甲午改革). The Uijŏngbu's (議政府) Six Ministries (6曹) – Ministry of Personnel (吏曹), Ministry of Revenue (戶曹), Ministry of Rites (禮曹), Ministry of War (兵曹), Ministry of Punishments (刑曹), and Ministry of Public Works (工曹) – which had a history spanning hundreds of years, were abolished. In their place, new departments (衙門) were established: Internal Affairs (內務), Finance (度支), Military Affairs (軍務), Justice (法務), Education (學務), and Public Works (工務). Additionally, the Office for Negotiations (交涉衙門) was renamed the Ministry of Foreign Affairs (外務衙門), and the traditional title P'ansŏ (判書) was changed to Minister (大臣). The following year, the Uijŏngbu was again renamed the Cabinet (내각), and the various departments (衙門) were renamed Ministry of Internal Affairs (내부), Ministry of Foreign Affairs (외부), Ministry of Finance (度支部), Ministry of War (군부), Ministry of Justice (법부), and Ministry of Education (학부). Although minor changes occurred occasionally thereafter, this system was generally maintained until the annexation. Due to these Kapo Reforms, the traditional civil service examination system (過去制) was entirely abolished. Looking at the ordinances concerning the appointment and dismissal of officials at that time, it was initially stated on June 28th of the 503rd year [of the Chosŏn Dynasty, meaning 1894, Kapo year]: "Breaking down the barriers of lineage and class distinctions (門閥班常等級), disregarding noble or common status in selecting personnel." Also, on July 3rd of the same year: "Regarding the selection of officials through examination essays, although it is the established system of this court, it is difficult to recruit practical talent through empty formalities; the examination system (科擧之法), having received royal approval for modification, will be changed, and separate election regulations will be established later." Concurrent with these reforms, the light of self-awareness began to shine in various fields. Consequently, there was an awakening regarding the national language and script. Scholars began advocating that Chŏngŭm (正音, i.e., Hangeul) was Korea's inherent script and that it stood on a scientific foundation. What had been called Ŏnmun (諺文, vernacular script) came to be called Kukmun (國文, national script), and the Korean language (朝鮮語) came to be called Kugŏ (國語, national language). Furthermore, since the Kapo Reforms, the government began using a mixed script style (國漢文體), blending Chinese characters and Chŏngŭm, instead of only Chinese characters, in official and private documents. Individuals like Mr. Yi Nŭnghwa (李能和) submitted proposals to the Ministry of Education (學部) regarding the compilation of dictionaries (字典, 事典). Mr. Chu Sigyŏng (周時經)＜34＞ (details to follow later), a pioneer in the scientific study of Korean grammar (朝鮮文法), specialized in studying the national script. He dedicated himself to promoting its revival, establishing a National Script School (國文學校) to educate the youth, and publishing various works on the national script. Thus, both the government and the private sector initiated a new movement concerning the national script. A petition regarding the national script by Mr. Chi Sŏgyong (池錫永), then principal of the medical school, was deemed by royal decree (聖旨) to be extremely important for education. The Ministry of Education was instructed to deliberate on it, leading to the promulgation of the "Matter of Implementing the Newly Established National Script (新訂國文 實施의 件)" in July of the 9th year of Kwangmu (光武), Ŭlsa year (乙巳, 1905 AD).
+
+*Explanation of the Five Sounds' Pictographic Basis in the Newly Established National Script (新訂國文 5音象形辯)*
+
+ㄱ Molar sound, depicts the shape of a molar (牙形). ㅋ Molar sound, doubled sound. ㆁ [ng] Molar-throat sound, depicts the shape of the uvula (喉扇形). ㅇ Sound has lost its original value, temporarily omitted.
+ㄴ Lingual sound, depicts the shape of the tongue (舌形). ㄷ Lingual sound, depicts the shape of the flicking tongue (掉舌形). ㅌ Lingual sound, doubled sound. ㄹ Semi-lingual sound, depicts the shape of the curled tongue (捲舌形).
+ㅁ Labial sound, depicts the shape of the mouth (口形). ㅂ Labial sound, depicts the shape of a half-open mouth (半開口形). ㅍ Labial sound, depicts the shape of an open mouth (開口形).
+ㅅ Dental sound, depicts the shape of a tooth (齒形). ㅈ Dental-lingual sound, depicts the shape of the gums (齒齦形). ㅊ Dental sound, doubled sound.
+ㅿ Semi-dental sound, depicts the shape of half-opened teeth (半啓齒形). ㅇ Sound has lost its original value, temporarily omitted. ㅇ Shallow throat sound, depicts the shape of the throat (喉形).
+ㆆ Glottal-dental sound, depicts the shape of throat contact (喉觸形). Sound has lost its original value, temporarily omitted. ㅎ Deep throat sound.
+
+*The Three Sounds (Initial, Medial, Final) in the Newly Established National Script (新訂國文 初中終 3聲)*
+
+8 Characters used for both initial and final sounds:
+ㄱ (kiyŏk) ㄴ (niŭn) ㄷ (tiŭt) ㄹ (riŭl) ㅁ (miŭm) ㅂ (piŭp) ㅅ (siot) ㆁ (iŭng)
+ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㆁ These 8 characters are used in the initial position (用於初聲)
+윽 은 읃 을 음 읍 읏 응 These 8 [syllables showing the final consonant sound] are used in the final position (用於終聲) [Note: The text incorrectly states 用於初聲 (used in initial position) here, it should mean final position.]
+
+6 Characters used only for initial sounds:
+ㅈ (chi) ㅊ (ch'i) ㅋ (k'i) ㅌ (t'i) ㅍ (p'i) ㅎ (hi)
+
+11 Characters used only for medial sounds (vowels):
+ㅏ (a) ㅑ (ya) ㅓ (ŏ) ㅕ (yŏ) ㅗ (o) ㅛ (yo) ㅜ (u) ㅠ (yu) ㅡ (ŭ) ㅣ (i) ㆍ (arae a) - [The text shows 'ᆖ 이으합음 -이' which seems corrupted or misprinted, likely intending to list 'ㅣ (i)' and 'ㆍ(arae a)' or discuss compound vowels.]
+
+*Explanation of Syllable Combination in the Newly Established National Script (新訂國文合字辯)*
+Combine the initial consonant ㄱ (k) with the medial vowel ㅏ (a) to form the syllable 가 (ka). Add the final consonant ㅇ (ng) to 가 (ka) to make 강 (kang). The rest follow this pattern (餘倣此).
+
+*Explanation of Pitch in the Newly Established National Script (新訂國文高低辯)*
+For the rising tone (上聲) and departing tone (去聲), add one dot to the right. As per our Eastern customs (我東俗等), there is no particular distinction between rising and departing tones. The level (平聲) and entering (入聲) tones have no dots. For words with drawn-out final sounds (凡徵語之曳聲), also add one dot.
+*Pitch Marking Examples (字音高低標)*
+動 (tong, to move), 同 (tong, same), 禦 (ŏ, to defend), 魚 (ŏ, fish) types of examples. The rest follow this pattern (餘倣此).
+*Drawn-out Sound Marking Examples (做語曳聲標)*
+廉 (yŏm > ryŏm/nyŏm, integrity?), 足 (chok > chok, foot?), 列 (yŏl > ryŏl, arrange?), 損 (son > sŏn, loss/damage?) types of examples. The rest follow this pattern (餘倣此). [Note: The initial '발' or '버릴' seems to be an instruction or comment, perhaps meaning 'pronounce as'. The specific examples are unclear without more context on the intended pronunciation distinction.]
+
+*Explanation of Redundant Sound Deletion and Correction in the Newly Established National Script (新訂國文疊音刪正辯)*
+The 14 characters ㅺ, ㅻ, ㅼ, ㅽ, ㆂ, ㆄ, ㅾ, ㆀ, ㆆ, ㆅ, ㅋ, ㅌ, ㅍ, ㅎ [Note: The text lists ', , , , , , , , , , , , , '. These are likely older forms representing consonant clusters or variations used as redundant representations of 가나
+
+---------------------------
+
+
+잡지명	동광 제38호
+발행일	1932년 10월 01일
+기사제목	朝鮮文字의 歷史的 考察(16), 韓末風雲과 訓民正音
+필자	金允經
+기사형태	논설
+
+朝鮮文字의 歷史的 考察
+						金允經
+5. 新訂國文
+高宗 32년 甲午(西曆 1894)에 일어난 東學의 내란은 日淸戰爭을 일으키고 따라서 이른바 『甲午改革』을 일으키게 되엇습니다. 수백 년의 역사를 가진 議政府의 吏, 戶, 禮, 兵, 刑, 工의 6曹가 폐지되고 새로 內務, 度支, 軍務, 法務, 學務, 工務의 각 衙門이 설치되고 또 交涉衙門을 고치어 外務衙門이라 하고 종래의 判書를 大臣이라 고치엇습니다. 그 이듬해에는 다시 議政府를 내각이라 고치고 각 衙門을 내부, 외부, 度支部, 군부, 법부, 학부라 고치엇습니다. 그 뒤에도 일부분의 변경은 때때로 잇엇으나 병합되기까지는 대체로 이 제도를 쓰게 되엇습니다. 이 甲午改革으로 인하여 종래의 과거제는 전혀 폐지되엇는데 당시의 관리 任免의 법령을 보매 처음에는 『503년(곳 甲午) 6월 28일 劈破門閥班常等級, 不拘貴賤選用事』라 하엿고 또 『同 7월 3일 凡 科文取士係是朝家定制, 而難以虛文收用實才, 科擧之法奏蒙上裁, 變通後另定選擧條例事』라 함이 잇습니다. 이러한 개혁과 동시에 각 방면에 자각의 광명이 빛이게 되엇습니다. 따라서 국어, 국문에 대하여서도 각성이 잇게 되어 학자 중에는 正音이 朝鮮固有의 문자 임과 그리고 그것이 과학적 기초 우에 선 것임을 主唱하고 諺文이란 것을 國文, 朝鮮語를 國語라 하게 되엇습니다. 또 정부에서도 甲午改革 이래로 공사 문서에 비롯오 한자 대신으로 한자와 正音을 섞은 문체, 즉 國漢文體를 사용하게 되엇습니다. 또 李能和氏와 같은 이는 자전, 사전의 제정에 관한 의견서를 學部에 제출한 일이 잇으며 朝鮮文法의 과학적 연구의 선구자 周時經氏＜34＞ (나종 자세이 말하겟음)와 같은 이는 국문을 전문으로 연구하면서 혹은 부흥의 선전에 몸을 바치어 國文學校를 새로 세 우어 子弟의 교육에 종사하며 혹은 국문에 관한 여러 가지 저서도 발표하엿습니다. 그리하여서 정부에서나 민간에서나 국문에 대한 신 운동을 일으키게 되엇습니다. 당시 의학교장 池錫永氏의 국문에 관한 상소는 교육상에 관계됨이 지극히 크다는 聖旨로 인하여 學部로 하여금 이것을 審義하게 하여 光武 9년 乙巳(西曆 1905) 7월에 『新訂國文 實施의 件』을 發布하게 되엇습니다.
+
+新訂國文 5音象形辯
+
+ㄱ 牙音象 牙形  ㅋ 牙音 重音  牙喉間音象喉扇形 ㅇ音失其眞今姑闕之
+ㄴ 舌音象 舌形  ㄷ 舌音象 掉舌形  ㅌ 舌音 重音  ㄹ 半舌音象 捲舌形
+ㅁ 唇音象 口形  ㅂ 唇音象半 開口形  ㅍ 唇音象 開口形
+ㅅ 齒音象 齒形  ㅈ 齒舌間音 象齒齦形  ㅊ 齒音 重音
+ᅀ 半齒音象 半啓齒形 ㅇ音失其眞今姑闕之.  ㅇ 淺喉音 象喉形
+ᅙ 喉齒間音象喉觸形 音失其眞今姑闕之.  ㅎ 深喉音.
+
+新訂國文 初中終 3聲
+
+초성 종성 통용 8자
+ㄱ 기윽 ㄴ 니은 ㄷ 지읃 ㄹ 리을 ㅁ 미음 ㅂ 비읍 ㅅ 시읏  이응
+ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ  8자난 用於初聲
+윽 은 읃 을 음 읍 읏 응 8자난 用於初聲
+初聲獨用 6자
+ㅈ 지  ㅊ 치  ㅋ 키  ㅌ 티  ㅍ 피  ㅎ 히
+中聲獨用 11자
+ㅏ 아  ㅑ 야  ㅓ 어  ㅕ 여  ㅗ 오  ㅛ 요  ㅜ 우  ㅠ 유  ㅡ 으  ᆖ 이으합음 -이
+新訂國文合字辯
+초성 ㄱ字를 중성 ㅏ字에 倂하면, 가 字를 成하고, 종성 ㅇ字를 가字에 합하면, 강字가 되나니 餘倣此하니라.
+新訂國文高低辯
+上聲 去聲은 右加1點我東俗等에 上去聲이 별로 차등이 無함이라 하고 平入 兩聲은 無點이요, 凡徵語之曳聲 亦加1點하니라.
+字音高低標
+動 움즉일 동, 同 한가지 동, 禦 막을 어, 魚 고기 어 之類, 餘倣此하니라.
+做語曳聲標
+廉발렴, 足발 족, 列 벌릴 렬, 損 버릴 연 之類 餘倣此하니라.
+新訂國文疊音刪正辯
+, , , , , , , , , , , , ,  14字가, 가나다라마바사아자차카타파하 字의 疊音으로 用하기에 刪正함이라.
+
+新訂國文重聲釐正辯
+ㄲ ㄸ ㅃ ㅆ ㅉ 난 ㄱ ㄷ ㅂ ㅅ ㅈ 의 重聲이라. 古昔에 까 따 빠 싸 짜로 행하더니, 挽近에 漢文疊字字를 倣하야    싸 로 用함이 還屬便易로대, 以字를 로 釋함은 無由하기 傍에 ㅂ를 倂用함을 폐지함이라』
+이 新訂國文은 별로 새 연구가 포함된 것은 없고 다만 통속적으로 쓰이는 대로 정리한 것에 지나지 못합니다. 그러하나 그대로 실행함에는 이르지 못하엿습니다. 이 池氏의 案은 마침내 法令으로 발포는 되엇을지라도 학자간에는 반대가 많고 특히 「」를 폐지하고＜35＞ 「二」의 새 글씨를 刱製함은 論難의 관혁이 된 때문에 이것을 동기 삼아 光武 11년 丁未(西曆 1907) 7월에 그 때의 學部大臣 李載崑의 청으로 國文硏究所가 설치되엇습니다. 그 위원장에는 그 때의 學務局長 尹致旿, 위원들에는 (때로 변천은 잇으나) 張憲植, 李能和, 玄檃, 權輔相, 周時經, 上村正己, 魚允迪, 李鍾一, 李億, 尹敦求, 宋綺用, 柳苾根, 李敏應, 池錫永 諸氏가 뽑히게 되어 隆熙 元年 丁未(西曆 1907) 9월로부터 同 3년 12월에 이르기까지 23회의 회의를 거듭하면서 다음과 같은 여러 문제에 대한 연구를 진행하엿습니다.
+1. 諺文의 淵源 및 자체 발육의 沿革.
+2. 初聲 ᅙᅀ*ᄝᅗᄬ 8자 復用의 當否.
+3. 초성에 대한 ㄱ ㄷ ㅂ ㅅ ㅈ ㅎ 6자 並書의 書法一定.
+4. 중성 「二」字를 刱製하고 「  」字를 폐지하는 당부.
+5. 종성 ㄷ ㅅ 二字의 용법 및 ㅈ ㅊ ㅋ ㅌ ㅍ ㅎ 6자를 종성에도 통용하는 당부.
+6. 字母의 7음과 淸濁과의 區別如何.
+7. 4聲標의 用否 및 朝鮮語音의 고저.
+8. 字母의 음독 일정.
+9. 字順行順의 일정.
+10. 철자법.
+이 문제들에 대한 연구의 결과는 통일 종합되어 연구소의 의견도 첨부하여 內閣에 제출되엇섯으나 아직 공포되기 전에 學部大臣의 更迭과 함께 有耶 無耶 중에 묻히어 버리고 말게 된 것은 생각할쓰록 섭섭히 여기는 바외다. 그러하나 그 연구소의 중심인물이던 周時經氏의 연구며 의견은 그 뒤 그의 여러 저서로 발표되엇든 고로 다음에 그 학설의 요령과 공적을 조금 소개하여 보려 합니다.
+
+6. 周時經氏의 연구와 공적
+周時經(西曆 1876-1914)氏는 朝鮮 문법의 과학적 연구의 원조며 또 훈민정음의 부흥과 선전의 은인입니다. 필자도 선생의 恩賜로 正音에 대한 눈을 뜨게 된 이의 한 사람입니다 마는 선생으로 말미암아 『한글 운동』이 시작되고 또 성행하게 되엇다는 것은 숨길 수 없는 사실입니다. 선생은 17세 때부터 조선어 연구에 着目하엿습니다. 그리하여 그 연구에 희생이 되엇다 하리만치 전심 전력으로 빈곤과 과로의 害가 잇음도 不顧하엿습니다. 선생의 연구의 자세한 것을 여기에서 소개하기는 너무 煩多한 일이지마는 간단히 소개하여 보려고 합니다. 자세한 것은 그의 저서(註 77)를 참고하여 주시기 바랍니다. 선생의 연구의 내용은 소리갈(音學), 기난갈(씨갈, 單語學), 짬듬갈(월갈, 文章組織學)의 세 부분으로 나뉘엇습니다.
+소리갈
+읏듬소리(나종에 홀소리로 고침)는 自發하는 음을 이름이라 하여 ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ 따위를 포함시키엇고 붙음소리(나종에 닷소리로 고침, 곳 닿소리)는 읏듬소리에 附發하는 음을 이름이라 하여 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅎ 따위를 포함시키엇습니다. 읏듬소리의 거듭은 前記 읏듬소리의 흣 ㅏ ㅓ ㅗ ㅜ ㅡ ㅣ 들이 여러 모양으로 거듭 된 ㅑ ㅕ ㅛ ㅠ, ㅐ ㅔ ㅚ ㅟ ㅓ 따위를 이름이요 붙음 소리의 거듭은 前記 붙음소리의 홋 ㄱ ㄴ ㄷ ㄹ ㅁ ㅂ ㅅ ㅇ ㅈ ㅎ 들이 여러 모양으로 거듭 된 ㅋ ㅊ ㅌ ㅍ  하 ᄚ   ㄲ ㄸ ㅃ ㅆ ㅉ 따위를 이름이외다. 이 거듭 닷소리는＜36＞ 섞임거듭(ㅋ ㅊ ㅌ ㅍ 따위)과 짝거듭(ㄲ ᄔ ㄸ 따위)과 덧거듭(    따위)으로 나누엇습니다. 그리고 음의 誤用의 辨證, 음의 역사상, 변천, 읏듬소리(곳 홀소리)의 長短, 읏듬소리의 先後合의 차이, 붙음소리(곳 닿소리)의 先後合의 차이 「  」가 1의 거듭 되는 증명, 붙음소리(닿소리)의 接變, 읏듬 붙음 連接의 차이, 붙음소리의 初終의 형세, 습관 소리, 記習들을 구명하엿습니다.
+지난갈(씨갈)
+기를 아홉으로 나눔이 다음과 같습니다.
+1. 임. 여러 가지 몬과 일을 이름하는 기(씨)를 다 이름이라. (본) 사람, 개, 나무, 돌, 흙, 물, 뜻, 잠, 아침.
+2. 엇(얻). 여러 가지 어떠함을 이르는 기를 다 이름이라. (본) 히, 크, 단단하, 착하, 이르, 이러하.
+3. 움. 여러 가지 움즉임을 이르는 기를 다 이름이라. (본) 가, 날, 자, 먹, 따리, 잡, 먹이, 잡히,.
+4. 겻. 임기의 만이나 움기의 자리를 이르는 여러 가지 기를 다 이름이라. (본) 가, 이, 를, 을, 도, 는, 에, 에서, 로, 으로.
+5. 잇. 한 말에 잇어지게 함을 이르는 여러 가지 기를 다 이름이라. (본) 와, 과, 고, 면, 으면, 이면, 나, 으나, 이나, 다가, 는데, 아, 어.
+6. 언. 어떠한 (임기)이라 이르는 여러 가지 기를 다 이름이다. (본) 이, 저, 그, 큰, 적은, 무슨, 이른, 착한, 귀한, 두, 세.
+7. 억. 어떠하게(움)라 이르는 여러 가지 기를 다 이름이라. (본) 다, 잘, 이리, 저리, 그리, 천천이, 꼭, 정하게, 매우, 곳, 크게, 착하게.
+8. 놀. 놀라거나 느끼어 나는 소리를 이르는 기를 다 이름이라. (본) 아, 하, 참.
+9. 끗(맺). 한 말을 다 맞게 함을 이르는 여러 가지 기를 다 이름이라. (본)다이다, 냐, 이냐, 아라, 어라, 도라, 오, 소.
+짬들갈(곳 월갈)
+월(文)의 짜임(조직)을 분석할 때에 임이붙이(主語所屬), 씀이붙이(目的語所屬) 남이붙이(說明語所屬)로 나누고 다음과 같이 또 가르엇습니다.
+임이붙이―임이금=어떠한 (임이)이라 함을 이름이라.
+―임이=한월의 임자 노릇하는 말을 이름이라.
+―임이빗=어느 말을 임이 되게 하는 토를 이름이라.
+씀이붙이―씀이금=어떠한 (씀이)이라 함을 이름이라.
+―씀이=어느 남이에 쓰이는 말을 이름이라.
+―씀이빗=어느 말을 씀이 되게 하는 토를 이름라.
+가령 「아기가 자라오』를 나누어 본다면 『아기』는 임이, 『가』는 임이빗, 『자라』는 남이, 『오』는 남이빗. 또 『저 소가 푸른 풀을 잘 먹소』를 나누어 보면 『소』는 임이, 『풀』은 씀이, 『먹』은 남이, 『가』는＜37＞ 임이빗, 『을』은 씀이빗, 『소』는 남이빗, 『저』는 임이금, 『푸른』은 씀이금, 『잘』은 남이금, 『소가』는 임이듬(主格), 『풀을』은 씀이듬(客格), 『먹소』는 남이듬(說明格), 『저 소가』는 임이붙이, 『푸른 풀을』은 씀이붙이, 『잘 먹소』는 남이붙이라 함이외다.
+
+오늘날 우리 한글 學界에 이름을 들어 낸 이 치고서 선생의 門人 아닌 이가 없을 만치 선생의 이 학설은 널리 씨를 뿌리고 깊이 뿌리를 박아 놓은 것입니다. 그 학설을 받은 여러 門人 중에서 선생의 학설을 더 깊이 闡明한 이는 아마 金枓奉氏라 하겟습니다.
+
+金氏의 『조선말본』은 周先生의 학설보다 더 깊이 들어갓고 또 필자의 생각으로는 아직까지 발표된 朝鮮文法學으로서는 이에 지날만한 체계를 세운 이가 없다고 생각합니다. 그러하나 그 근거 學理에 잇어서는 周先生의 것으로 터를 잡은 것임은 물론입니다. 周先生 在世 당시에도 手下 門人中에서 혹 難問題를 물으면 선생은 설명하다가 『그 자세한 것은 金枓奉 선생에게 물어 보시오. 그가 나보다 더 잘 알으십니다』하는 때가 잇엇습니다. 이 『조선말본』과 일치하면서도 초보 학자에게 개념 얻게 하기 적당하게 된 것으로서는 故 李奎榮氏의 『現今朝鮮文典』이라 하겟습니다.
+그 외에도 선생의 문인으로 현재 한글 운동을 전개시키어 상당한 수확을 얻게 한 여러 분이 배출하엿습니다. 선생은 이미 소개한 학설 외에 가로쓰기(橫綴)방법도 연구 主唱하엿습니다. (註 78) 선생은 학부 안에 설치된 國文硏究會 밖에도 많은 연구회며 일요강습회며 야학 따위를 설립하고 지도 선전하엿으며 또 당시 京城 안에 잇는 각 중등학교의 국어과는 선생이 도맡아 가르치게 되엇으며 또 외국인의 韓語硏究會에까지 분주히 돌아단기게 되엇고 또 『朝鮮光文會』가 崔南善氏의 경영인 新文舘 안에 설립되매 선생은 조선어문에 관한 문서교정과 말모이(사전) 편찬(丁卯 6월부터 啓明俱樂部에서 사전 편찬을 경영하게 될 때 이것을 인계하여 간 것)에 힘을 다하고 잇엇습니다. 그 저서로서는 『國語文典音樂』(隆熙 2년 11월 6일) 『국어문법』(융희 4년 4월 15일, 합병 후 『朝鮮語文法』이란 이름으로 고치어 再版함이 잇음), 『말의 소리』 (大正 3년 4월 3일)들이 잇습니다.
+
+이와 같은 선생의 노력은 헛되지 않아서 『한글 운동의 선봉이 되엇고 침체되엇던 훈민정음의 부흥자가 되게 된 것입니다. 그리하고 선생의 뒤를 잇대어 金枓奉, 故 李奎榮, 權德奎, 張志映, 李允宰, 李秉岐, 申明均, 李常春, 崔鉉培, 鄭烈模, 기타 數多의 연구자가 배출하여 선생의 못다하신 한글의 연구와 통일과 발전을 위하여 여러 방면으로 한글 운동을 진행하고 잇습니다. 이에 故 周時經 先生의 공적을 감사하지 않을 수 없습니다.＜38＞
+＜34-38＞

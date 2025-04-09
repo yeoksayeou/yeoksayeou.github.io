@@ -1,0 +1,97 @@
+Magazine Title: 동광 제38호
+Publication Date: 1932년 10월 01일
+Article Title: 科學斷片 (Science Fragments)
+Article Type: 소식 (News)
+
+Science Fragments
+
+Invention of the Hot Water Engine
+An English engineer named Melln has invented a prime mover that can be operated with hot water. Without using the boiler and condenser, which are parts of a steam engine, water is put into the prime mover itself and heated, making the machine operate. It is said that once water is put in, it circulates and is used repeatedly, so water replenishment is only needed once every one or two years. Tests by credible scientists have shown this machine's efficiency to be three to four times that of a steam engine. While the efficiency of a steam engine is about 8 percent, the hot water engine's efficiency is 27 percent. Like the steam engine, this machine is suitable for power generation, ships, and railways, but because it requires little water replenishment, it is said to be particularly suitable for desert regions and maritime use. It can truly be called an invention that threatens the steam engine.
+
+Invention of an Electric Mosquito Extermination Machine
+Mr. Thomson of the American company G.E. has invented a method to exterminate mosquitoes using electricity. An electromagnetic sound generator produces the sound of a female mosquito <48>, causing male mosquitoes to swarm. By passing hot air through the key path where they gather, the male mosquitoes can be exterminated. If most male mosquitoes are removed, the reproduction rate of mosquitoes will naturally decrease. It is said that it might even be possible to exterminate all mosquitoes in the vicinity.
+
+Invention of the Music Score Typewriter
+A German named Lunstaedter has invented a music score typewriter, making the task of writing music scores as fast and accurate as typing text with a typewriter from now on. Although not a few people have endeavoured to invent a music score typewriter to solve the difficulty of music score copying (樂譜膽寫), this is said to be the first time a practical machine has been invented.
+
+Acupuncture Doctors in the West Too
+A French doctor named de Morant is said to be recently researching and promoting Eastern acupuncture methods. As a result of his investigations and tests, he has reportedly seen various serious illnesses and acute pains calmed by receiving acupuncture. Although mistakes are occasionally made in administering acupuncture, he believes this is due to a lack of skill in the medical art, not because the acupuncture method itself is wrong. He believes there is a need for scientific research into acupuncture techniques. <49>
+
+**Summary**
+
+This article presents four brief reports on recent technological and medical developments from around the world: a highly efficient hot water engine invented in Britain, an electric mosquito exterminator developed in the US, a practical music score typewriter from Germany, and the study and promotion of East Asian acupuncture by a French doctor. These snippets highlight global innovation in engineering and health. From a colonial Korean historical perspective, the article reflects an interest in disseminating news of Western scientific progress, potentially serving to inform the Korean readership about modernization trends abroad. The mention of a Western doctor validating and researching acupuncture, an Eastern medical practice, is particularly interesting, possibly offering a point of cultural validation or suggesting a potential East-West scientific exchange, even amidst colonial rule.
+
+**Named Entities**
+
+英國	영국	Yŏngguk
+맬논	맬논	Melln
+美國	미국	Miguk
+G, E, 社	지이 사	G. E. Sa (General Electric Company)
+탐손	탐손	T'amson
+獨逸	독일	Togil
+런스태터	런스태터	Rŏnsŭt'aet'ŏ
+佛蘭西	불란서	Pullansŏ
+드모린	드모린	Tŭmorin (likely de Morant)
+
+**Glossary**
+
+科學斷片	과학단편	Science Fragments/Snippets
+湯水元動機	탕수원동기	Hot Water Engine
+元動機	원동기	Prime Mover, Engine
+발명하얏다	발명하였다	Invented (older spelling '하얏다' for '하였다')
+보일너	보일러	Boiler (older loanword spelling)
+칸덴서	콘덴서	Condenser (older loanword spelling)
+되엇다고 한다	되었다고 한다	Is said to have become (older spelling '되엇다' for '되었다')
+補水	보수	Replenishing water
+次式	차씩	Times each (older usage combining 次 and 식)
+아니하게 되엇다고 한다	아니하게 되었다고 한다	Is said to have become unnecessary (older spelling/grammar)
+능률	능률	Efficiency
+가량인대	가량인데	About, Approximately (older spelling '인대' for '인데')
+뿐 외라	뿐 외에	Not only... but also... (older form '외라' for '외에')
+고로	고로	Therefore (older, slightly archaic connector)
+滅殺機	멸살기	Extermination Machine
+雌蚊聲	자문성	Female mosquito sound (雌 female, 蚊 mosquito, 聲 sound)
+雄蚊	웅문	Male mosquito (雄 male)
+군집하야든다	군집하여 든다	Swarm, Gather together (older spelling '하야' for '하여')
+要路	요로	Key path, Chokepoint
+통하야	통하여	Through (older spelling '하야' for '하여')
+잇겟다 한다	있겠다고 한다	Is said that it would be possible (older spelling '잇겟다' for '있겠다')
+樂譜打字機	악보 타자기	Music Score Typewriter
+樂譜膽寫	악보 필사	Music score copying (膽寫 likely archaic or misprint for 筆寫, copying by hand)
+곤란	곤란	Difficulty, Hardship
+해결키	해결하기	To solve (older verbal ending '-키' for '-기')
+위하야	위하여	For the purpose of (older spelling '하야' for '하여')
+不少하나	적지 아니하나	Not few, Many (Hanja reading: 不 not, 少 few)
+금번이	금번이	This time
+針醫	침의	Acupuncture doctor; Acupuncture medicine
+近者에	근자에	Recently (slightly older form)
+연구선전	연구 선전	Research and promotion/publicizing
+보앗다 한다	보았다고 한다	Is said to have seen (older spelling '보앗다' for '보았다')
+잇으나	있으나	Although there is/are (older spelling '잇으나' for '있으나')
+능치 못한	능하지 못한	Not skilled, Incompetent (older form '능치 못한')
+연고요	연고이고	Being the reason/cause (older form/spelling '연고요')
+잇다고	있다고	That there is (older spelling '잇다고')
+믿고 잇다	믿고 있다	Believes (progressive form, older spelling '잇다' for '있다')
+
+
+---------------------------
+
+
+잡지명	동광 제38호
+발행일	1932년 10월 01일
+기사제목	科學斷片
+기사형태	소식
+
+科學斷片
+湯水元動機의 발명
+英國의 기사 맬논(Melln)이라는 이는 더운 물 가지고 운전할 수 잇는 元動機를 발명하얏다. 蒸氣元動機의 1부분인 보일너와 칸덴서는 사용치 아니하고 元動機 자체에다 물을 넣고 가열하면 기계가 운전되게 만들엇다. 물도 1차 넣면 그것을 순환시켜 거듭쓰므로 補水」는 1, 2년에 1次式 밖에 하지 아니하게 되엇다고 한다. 신용할 만한 과학가들이 시험하야 본 결과 이 기계의 능률은 蒸氣元動機 보다 3, 4배나 된다고 한다. 증기기계의 능률은 8퍼센트 가량인대 湯水元動機의 능률은 27퍼센트나 된다. 이 기계의 용도는 증기기계와 같이 發電用, 선박용, 철로용에 적당할 뿐 외라 補水量이 적은 고로 특별히 사막지대 及 해상용에 적당하다 한다. 실로 蒸汽元動機를 위협하는 발명이라 할 수 잇다.
+
+전기모기(蚊)滅殺機 發明
+美國 G, E, 社 탐손 옹은 전기로 모기 멸살하는 방법을 발명하얏다. 電磁發聲器로 雌蚊聲을＜48＞ 나게 하면 雄蚊들이 군집하야든다. 모여드는 要路에 더운 공기를 통하야 雄蚊을 멸살시킬 수 잇는 것이다. 雄蚊을 多部分 제거하면 自然雄蚊의 생식률이 적어질 것이다. 近處 蚊類 전부를 전멸할 수까지 잇겟다 한다.
+
+樂譜打字機의 발명
+獨逸人 런스태터라는 이는 악보타자기를 발명하야 今後로는 악보 쓰는 일이 문자를 타자기로 쓰는 것과 꼭 같이 신속하고 정확하게 되엇다고 한다. 樂譜膽寫의 곤란을 해결키 위하야 악보타자기 발명에 노력한 사람은 不少하나 실용될 만한 기계를 발명하기는 금번이 처음이라 한다.
+
+西洋에도 針醫
+佛蘭西의 드모린이라하는 의사는 近者에 동양 침醫法을 연구선전 중이라 한다. 그이는 조사하고 시험해 본 결과 여러 가지의 중병과 急痛이 침 맞음으로 진정됨을 보앗다 한다. 간혹 침 놓아 실수하는 일이 잇으나 그는 의술에 능치 못한 연고요 針醫法 그 자체가 틀려 그런 것은 아니라고 그는 믿는다. 그는 침술의 과학적 연구을 할 필요가 잇다고 믿고 잇다.＜49＞
+＜48-49＞

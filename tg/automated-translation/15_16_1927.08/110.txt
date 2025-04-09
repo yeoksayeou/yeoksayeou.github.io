@@ -1,0 +1,419 @@
+Magazine Title: 동광 제16호
+Publication Date: 1927년 08월 05일
+Article Title: 朝鮮上古文化의 硏究, 朝鮮 古代 宗敎의 宗敎學的 土俗學的 硏究(5) (A Study of Ancient Korean Culture, Religious and Folkloric Study of Ancient Korean Religion (5))
+Author: 문학사 孫晉泰 (Munhaksa Son Chin-t'ae)
+Article Type: 논설 (Editorial/Essay)
+
+A Study of Ancient Korean Culture, Religious and Folkloric Study of Ancient Korean Religion
+Munhaksa Son Chin-t'ae
+
+Section 2: Exorcism of Evil Spirits (惡精靈 驅禳)
+
+In our current folklore, passive methods to avoid evil spirits include taboos (Tabu) like the "kŏmsjul" (검ㅅ줄 - sacred rope), waist charms (護符) shaped like gourds (瓢박形, made of white bronze or silver), and amber charms (호박꼭지) worn on clothing ties during epidemics. While taboos, cursed objects (呪物), and charms might belong to a type of passive magic, materials regarding cursed objects and charms are scarce not only in literature but also in folklore. It's possible that cursed objects and charms were not highly developed in Korea since ancient times. As the "kŏmsjul" was discussed in detail in Chapter 6, Section 2, it will be omitted here. This section will only discuss active magic, specifically the exorcism of evil spirits (惡精靈 驅禳).
+
+Magic is generally employed to exorcise evil spirits. However, as exceptions, if the possessing spirit is respectable or a great personality, methods of prayer (祈禱) and lamentation (哀怨法) may be used. Although great ancestors or noble deceased souls (死魂) belong to the category of evil spirits when they possess a human body and cause illness, primitive people, believing in reincarnation (繼生說), dared not take an exorcistic attitude towards such spirits as they would towards miscellaneous ghosts. This will also be discussed in Chapter 5 and is omitted here.
+
+There are two types of methods for exorcising evil spirits: those performed in ordinary times and those performed during illness. These two types can be further classified into various methods, such as adopting a threatening (威嚇的) attitude, demonstrating power with objects or sounds possessing magical force, and threatening with incantations (呪語).
+
+Since Chinese influence is considerable in Korean exorcism methods (驅精法), let's mention the representative *Na* ceremony (儺儀). The *Koryŏsa* (高麗史), volume 64, under "Funeral Rites" (凶禮), has an entry titled "Grand *Na* Ceremony of the Last Winter Month" (季冬大儺儀). Its content is largely similar to the entry on *Na* in the "Treatise on Rites and Ceremonies" (禮儀志) of the *Book of the Later Han* (後漢書), volume 15:
+
+"For the rite of the Great *Na*, the day before, the officials in charge report. Boys aged twelve to sixteen are selected as *ch'inja* (侲子). They wear masks and red cloth trousers and jackets (赤布袴褶). Twenty-four form a troupe, six in a line, making two troupes in total. Twelve attendants (執事者) wear red caps (赤幘) and ritual garments (褠衣) and carry whips. There are twenty-two musicians (工人). One plays *Pangsangssi* (方相氏), wearing a mask with four golden eyes, draped in bearskin, with a black upper garment and red lower garment (玄衣朱裳), holding a halberd (戈) in the right hand and a shield (楯) in the left. Another acts as the lead chanter (唱帥), wearing a mask and leather clothes, holding a staff (棒). A military band (鼓角軍) of twenty forms a troupe, with four flag bearers, four horn blowers, and twelve drummers, to chase evil spirits (惡鬼) from the forbidden palace... The lead chanter leads the *ch'inja* in chanting: 'Kapchak (甲作) eats *nau* (硇), Hyŏkchu (赫冑) eats epidemics (疫), Ungbaek (雄伯) eats sprites (魅), Tŭnggan (騰簡) eats misfortune (不祥), Namje (覽諸) eats calamities (咎), Paekki (伯奇) eats dreams (夢), Kangnyang (强梁) and Chomyŏng (祖明) together eat the quartered and exposed (磔), Sa (死), Kisaeng (寄生), and Wi (委) together eat corpses awaiting burial (隨), Ch'oktan (錯斷) eats giants (巨), Kunggi (窮奇) and Tŭnggŭn (騰根) <27> together eat noxious poisons (蠱). Employing all twelve gods (十二神), pursue the evil demons and misfortunes, strike your bodies, tear your livers and joints, dissect your muscles, pull out your lungs and intestines. If you do not leave quickly, you will become food for those who follow.' After shouting this around, they exit with drums and clamor. Each troupe heads towards a gate to leave the palace and stops outside the walls, and so on."
+
+According to this, the *Na* ceremony involves masked and armed exorcists borrowing the power of twelve gods to drive out evil spirits and other calamities from the palace using threatening incantations and attitudes. The attendants, *Pangsangssi*, lead chanter, and military band, along with the 48 *ch'inja* (2 troupes), seem to chant the incantation starting "Kapchak eats *nau*," etc. The twelve gods likely refer to Kapchak, Hyŏkchu, Ungbaek (whose identity is unclear), and others. However, records from the Yi Dynasty (李朝) show some changes. Volume 1 of the *Yongje Ch'onghwa* (慵齋叢話) states:
+
+"The *Na* exorcism (驅儺) is managed by the Bureau of Astronomy (觀象監). On the night before New Year's Eve, they enter the courtyards of Ch'angdŏk (昌德) and Ch'anggyŏng (昌慶) Palaces. The setup involves: one musician as the lead chanter (唱師), wearing red clothes and a mask; four *Pangsangssi*, with four golden eyes, draped in bearskin (態皮), holding halberds and striking shields; five military commanders (指軍), in red clothes and masks, wearing painted hats (畵笠); five officials (判官), in green clothes and masks, wearing painted hats; four Kitchen Gods (竈王神), in blue robes, black silk hats (幞頭), wooden tablets (木笏), wearing masks; several *Somae* (小梅), wearing female jackets (女袗) and masks, with upper and lower garments all in red and green, holding long poles with banners (幢); twelve gods, each wearing the mask of their respective deity, like the Rat god (子神) wearing a rat shape, the Ox god (丑神) wearing an ox shape, etc. Also, ten-odd musicians follow, holding peach branches (桃茢). Several tens of children are chosen, dressed in red clothes and red caps, wearing masks, to act as *ch'inja*. The lead chanter shouts: 'Kapchak eats *nau*, Pulchu (佛冑) eats tigers (虎), Ungbaek eats sprites, Tŭnggan eats misfortune, Namje eats calamities (姑), Paekki eats dreams, Kangnyang and Chomyŏng together eat the quartered and exposed (시磔), Sa, Kisaeng, and Wi together eat corpses in coffins (櫬), Ch'oktan eats obstacles (拒), Kunggi and Tŭnggŭn together eat noxious poisons. Oh you twelve gods, leave quickly, do not linger! If you tarry, your bodies will be struck, your joints torn, your flesh dissected, your livers and intestines pulled out. Do not regret it!' The *ch'inja* reply 'Understood (喩),' kowtow, and confess their sins. The various performers chant, beat drums and gongs, and chase them out."
+
+Ignoring minor differences, the presence of four Kitchen Gods, several *Somae* dressed as women, and individuals wearing masks of the twelve zodiac animal gods (十二干支 動物神) is markedly different from the Koryŏ period. Furthermore, this description is very ambiguous. The twelve gods seem to be the twelve zodiac animal gods, yet at the end, the chant says, "Oh you twelve gods, leave quickly, do not linger," chasing away the twelve zodiac gods instead of the evil spirits and objects like tigers, sprites, misfortune, calamities, dreams, *nau*, corpses in coffins, obstacles, and poisons, which seems illogical. Also, it appears the *ch'inja* take on the role of the twelve evil gods (or spirits), rather than chanting the exorcism along with the lead chanter. It is also illogical that the *ch'inja* kowtow and confess sins while others wear the masks of the twelve zodiac gods separately. Regardless, it seems there were some changes in the *Na* ceremony between Koryŏ and the Yi Dynasty. However, the fundamental meaning of a masked and armed group performing the *Na* ritual on the night before New Year's Eve to drive out evil spirits nesting in the palace remained unchanged. The general form of this ritual is undoubtedly an imitation of the *Na* ceremony seen in the "Treatise on Rites and Ceremonies" of the *Book of the Later Han*, and it appears in records even before the Later Han. For example, the following passage, with commentary by Koyu (高誘), appears in the "Annals of the Third Month" (季春 三月紀), Chapter 3 of the *Lüshi Chunqiu* (呂氏春秋):
+
+"The people of the state perform the *Na* ceremony at the nine gates, offering sacrifices to expel the lingering spring vapors. *Na* is read as in the *Analects* passage about village *Na* ceremonies. The people of the state are ordered to perform *Na*, searching the hidden corners and dark places within the palace, beating drums and shouting loudly to drive out misfortune. This is like the expulsion rites of the New Year today."
+
+Later, in the *Jingchu Suishi Ji* (荊楚歲時記) by Tsung Lin (宗懍) of the Jin (晉) dynasty (found in the *Shuofu* 說郛 collection):
+
+"The eighth day of the twelfth month is the *La* day (臘日). A proverb says, 'When the *La* drums sound, spring grass grows.' Villagers all tie small drums to their waists, wear barbarian heads (胡頭), and masks of Vajrapani (金剛力士) to chase away epidemics. According to the *Book of Rites* (禮記), the *Na* performers are for chasing away pestilent ghosts (厲鬼). The commentary in the *Lüshi Chunqiu*, "Annals of the Last Month of Winter" (季冬紀), notes: 'Today, people on the day before *La* tie drums and drive out epidemics, calling it *zhuchu* (逐除 - expulsion)...' The *Rhapsody on the Eastern Capital* (東京賦) says: 'At year's end, the Great *Na* expels the multitude of pestilences. *Pangsang* wields axes, shamans (巫覡) grasp reeds (茢), ten thousand *ch'inja* boys with red heads and black robes, peach bows (桃弧) and thorn arrows (棘矢), shooting without limit.'"
+
+Looking at these Chinese records or the treatises on rites in other official Chinese histories, there is no instance where the *ch'inja* play the role of evil spirits. Therefore, the *ch'inja* embodying evil spirits must be a specific change that occurred within Korea <28>.
+
+Among other seasonal events influenced by China, Volume 2 of the *Yongje Ch'onghwa* mentions:
+
+"There are many events held on seasonal festival days. On the day before New Year's Eve, several tens of young boys, called *ch'inja*, are gathered, dressed in red clothes and red caps, and brought into the palace. The Bureau of Astronomy provides drums and flutes, and *Pangsangssi* drives them out at dawn. Common people also imitate this event; although without *ch'inja*, they make brooms from green bamboo leaves, purple bush clover branches, motherwort stems, and east-facing peach branches, strike the lattice doors randomly, beat drums and cymbals, and drive them out the gate, calling it 'releasing the *mae* ghosts' (放枚鬼). Early in the morning, pictures are painted on doors, windows, and screens, such as Ch'ŏyong (處容), horned demons (角鬼), Chung K'uei (鍾馗), officials in black silk hats (幞頭官人), Generals of the Guard (介曹將軍), women holding treasures (擎珍寶婦人), paintings of chickens (畵鷄), and paintings of tigers (畵虎)... In the New Year... children gather mugwort and burn it in gardens; on the *hae* day (亥日), it's called 'smoking the boar's snout' (薰豭喙), on the *cha* day (子日), 'smoking the rats' (薰鼠)... The third day of the third month is called *Sangsa* (上巳)... Also, new mugwort leaves are picked to make snow cakes (雪糕) and eaten... The fifth day of the fifth month is called *Tano* (端午); mugwort tigers (艾虎) are hung on the gate, calamus (菖蒲) is floated in wine, children weave belts of mugwort and calamus, and calamus roots are picked to make 'beards' (鬚)... Red bean porridge (豆粥) on the winter solstice, etc."
+
+The various events marked with ○ are all imitations of Chinese practices or originated from the influence of Chinese thought. However, verifying and comparing each of these is not the task at hand and will be deferred to a later opportunity. Returning to the main topic, let's explain inherently Korean magic:
+
+1. Threatening Methods (威嚇的 방법)
+
+Threatening actions are mostly done with weapons. For example, Korean shamans (샤-만) usually carry knives. When the possessing spirit is a minor ghost, the sick person is seated in the front yard or courtyard, and the shaman—or a family shaman using a kitchen knife (食刀)—lunges as if to stab the patient while chanting an incantation. Lunging as if to stab the patient is, of course, a threat (威赫) intended to stab the evil spirit attached to the patient.
+
+"Ho-sae! You damned ghost, where else could you find a place to attach yourself but this house? Considering your deeds, I shouldn't give you anything, but out of pity for your circumstances, I offer this water and rice. Eat this and leave quickly. If you don't, I'll chop you into ten, twenty pieces and kill you, throw you into a fifty-gil deep cauldron of boiling oil, boil you to death, roast you to death! Well? Will you leave immediately or not? Ho-sae!" - Account from an unnamed person in Pusan (부산 失名 씨 談)
+
+Then, the female shaman (무녀) or family shaman throws the knife (or kitchen knife) they were holding towards the main gate. If the knife tip points outwards, it signifies the ghost has retreated. If it points inwards, it indicates refusal to retreat, prompting even fiercer repeated threats. When retreat is finally agreed upon, rice and vegetables wrapped in house paper (집꾸럼지) are thrown outside the gate or by a stream.
+
+For someone suffering from a tumor (腫氣), the swollen area (腫膨部) is aimed at with a knife while threatening the evil spirit. This is based on the belief that the evil spirit resides within the swollen part, causing it to swell. The decay (腐敗) of the swollen area is sometimes thought to be caused by the evil spirit eating it.
+
+For someone with a headache (頭痛), it is believed that an evil spirit is inside the head, so the head is threatened with a knife. This demonstration is the simplest method, but shamans (*munyŏ*) and male shamans (*paksa*, 男巫) in P'yŏngan (평안), Hwanghae (황해), and Kyŏnggi (경기도) provinces possess armor (甲冑) and spears and arrows (槍矢). For seriously ill patients, believed to be possessed by strong evil spirits, the shaman (巫覡) arms themselves with armor, spear, and arrows, then challenges the evil spirit on horseback. In Hwanghae and P'yŏngan provinces, this is called "Changsu's kŏri kut" (將帥ㅅ거리굿), and the shaman reportedly exerts all their strength. <29>
+
+Furthermore, female shamans possess the *chŏnbok* (典服), which was the ceremonial robe of civil officials. The *Chŭngbo Munhŏn Pigo* (增補文獻備考), volume 137, "Examination of Clothing" (服考), "Abolished Laws" (廢律), under "Exile to a Remote Island" (絶島定配), states:
+
+"A female shaman illicitly entered the palace, secretly put on the royal dragon robe (袞衣), and performed spirit rites. This practice began in the *muin* year of King Sukchong's reign (肅廟戊寅) and was abolished in the *kapcha* year of King Yŏngjo's reign (英廟甲子)."
+
+This recounts that female shamans possessed dragon robes (龍袍). Even today, some great female shamans (大巫女) in Hwanghae, P'yŏngan, and Kyŏnggi provinces are said to possess dragon robes. While the *chŏnbok* is regularly worn by female shamans during general rituals and exorcisms (*kut*, 禳式), its original meaning likely derived from its use when the venerated spirit was a civil official or scholar. The dragon robe would have been used when the venerated spirit was a high-ranking official. That is, the shaman demonstrated power through official rank (官的 階級) to the venerated spirit, aiming to subjugate it. As evidence, when the venerated evil spirit is female, the female shaman or male shaman (*paksa*) wears green upper and red lower garments (綠衣紅裳) (in P'yŏngan and Hwanghae provinces). When the evil spirit is a young master ("toryŏngnim," 도령님), the shaman wears a formal robe (*topo*, 道袍) and official hat and belt (*kwandae*, 冠帶) (in P'yŏngan and Hwanghae provinces). Shamans in Hwanghae and P'yŏngan provinces today perform the *Chesŏk kut* (帝釋굿) without understanding its meaning, but this likely originated during the Koryŏ period or earlier when Buddhism flourished, performed when the venerated evil spirit was a Buddhist monk. During the *Chesŏk kut*, the shaman wears a long robe (*changsam*, 長袗), drapes a Buddhist stole (*kasa*, 袈裟), holds a six-ringed staff (*yukwhanjang*, 六環杖), and wears a peaked hat (*kokkal*, 고깔). They then perform a monk's dance (*sŭngmu*, 僧舞) while carrying out the exorcism (退鬼). Also, in P'yŏngan province, if the venerated spirit is female, the shaman sometimes performs the exorcism (禳祓) dressed in male attire. In short, changing costumes according to the situation and adopting appropriate attitudes is determined by the nature of the opposing evil spirit, and the shaman must always be stronger than the evil spirit. This, too, is a form of threat (威嚇).
+
+Furthermore, to demonstrate their power to the evil spirit, female shamans may hold a heavy brass basin (놋동이) in their mouths or ride on straw cutters (*chaktu*, 작두). Shamans perform these feats during cases of serious illness or during "unbelief festivals" (불신祭, possibly referring to rituals for spirits not normally venerated or whose identity is unknown). Today's shamans seem to perform these acts merely as demonstrations of skill, unaware of their original meaning as a display of power against evil spirits, but the origin was undoubtedly a magical method. Although the brass basin weighs only about 30 *kŭn* (근, approx. 18 kg), it is made of brass (眞鍮), making it impossible for ordinary people to lift with their mouths. However, excited by the sounds of the hourglass drum (*changgo*), gong (*ching*), cymbals (*ch'ŏlch'ŏri*), and small gong (*kkwaenggwari*) played by the shaman's husband (巫夫) or assistants (助承), the shaman begins dancing wildly and attempts to lift the basin. The audience's nerves tense simultaneously. After several failed attempts, when the shaman finally lifts the basin, the instruments play more fiercely, and the audience throws money and cloth (錢帛) into the basin. This is meant to help the shaman by adding weight, causing her to drop the basin. Blood flows from the shaman's mouth. According to shamans, only great shamans (큰 무당) can perform this basin lifting, and after performing it once, they are usually unable to get up for 3-4 days due to exhaustion.
+
+There are two types of "riding the straw cutter" (작두 타기): "single straw cutter riding" (單 작두 타기) and "double straw cutter riding" (쌍 작두 타기), but the single version exists only in name, and no shamans actually perform it (according to shaman Yun Pok-sŏng (尹福成) of Chunghwa County (中和郡), South P'yŏngan Province (平南)). According to shaman Yun's explanation, a wooden mortar (도구통, 木臼) is placed down, a wooden box (木箱) is put on top, a mat (자리) is spread over the box, and then a square measuring box (*kakto*, 角斗) filled with rice is placed on top. Two straw cutters are placed side-by-side on this structure, and the shaman rides them barefoot. When lifting the brass basin, 6 or 7 dining tables (食床) are stacked to reach the shaman's chest height, the basin is placed on top, and the shaman performs a spinning dance (뺑뺑이 춤, 旋舞) while attempting to bite and lift it.
+
+Such threatening exorcism techniques (威嚇的 禳鬼術) are abundant among neighboring peoples. Citing a few examples specifically from ancient Chinese texts, the *Shiwen Leiju* (事文類聚), 38, "Shamans" (巫者) and the *Yuanjian Leihan* (淵鑑類函), "Occult Arts Section" (方術部), "Shamans" (巫) <30> mention:
+
+"In the house of Liu Zhijing (劉之靖), there were frequent strange occurrences. A shaman was summoned. At night, with disheveled hair and a knife held in the mouth, [the shaman] performed exorcism rites (禳厭)."
+
+This, seen in the *Liao Zhi* (遼志) by Ye Jiangli (葉降禮) of the Song (宋) dynasty (in *Lidai Xiaoshi* 歷代小史 61):
+
+"On the first day of the first month, twelve master shamans (師巫) circle outside the tents, shaking bells (鈴), holding arrows (箭), chanting and shouting. Inside the tents, salt is exploded (爆塩) in all the stoves, and ground rats (地△鼠) are burned, which is called 'startling the ghosts' (驚鬼)."
+
+This seems to have a meaning similar to the *Na* ceremony. Exploding salt would likely frighten evil spirits with sound, similar to Chinese firecrackers. From the *Heilongjiang Waiji* (黑龍江外記) by Xiqing (西淸), volume 6:
+
+"Among the Daur (達呼爾)... the *saman* (薩瑪, shaman) sips sheep blood, chews carp, holds knives, spears, forks, and poles, points at the sick person's abdomen, draws symbols, and silently recites, etc."
+
+And from the *Heilongjiang Shulüe* (黑龍江述略) by Xu Zongliang (徐宗亮), volume 6:
+
+"Shamanism (巫風) is prevalent. When someone in the family is ill, ignorant of medicine, they immediately summon a shaman. The shaman enters the room, recites scriptures (誦經), dresses like *Pangsang*, accompanied by a drum, and dances leapingly to the rhythm, etc."
+
+Or the entry under "Customs" (風俗) in Fang Shiji's (方式濟) *Longsha Jilüe* (龍沙紀畧):
+
+"The spirit-descending shaman is called *sama* (薩麻). The hat is like a helmet (兜鍪)... When encountering illness, it is as if flesh is trapped and must be pulled out. With one shake, all the joints crackle, and the illness departs."
+
+These likely represent threatening exorcism methods (威嚇的 禳壓法) among the Han Chinese, Mongols, and Manchus. The *Sanguozhi* (三國志), 31, "Account of the Wuhuan" (烏丸傳), stating: "When sick... sometimes, according to the location of the pain, a knife is used to cut open blood vessels and let blood flow, etc."
+likely originated from the idea that an evil spirit was attached to the painful spot, thus warranting stabbing it with a knife.
+
+2. Objects, Light, and Sound Possessing Magical Power (魔術力)
+
+As mentioned earlier, ancient Korean beliefs considered weapons like swords (劒), spears (槍), and arrows (矢) as objects possessing magical power. Since weapons kill enemies, they believed these could also drive out evil spirits. By similar reasoning, armor (甲冑), ceremonial robes (*chŏnbok*), scholar's robes (*topo*), dragon robes (*yongp'o*), Buddhist robes (*changsam*), etc., were believed to possess a kind of magical power depending on the identity of the entity being confronted.
+
+Next, among our common folk, metals like gold (金), silver (銀), copper (銅), and iron (鐵), as well as red coral (赤珊瑚), are thought to possess magical power that frightens evil spirits. Therefore, gold and silver rings (*chihwan*, 지환) and hairpins (*pinyŏ*, 비녀), and hair-rod pins (*tonggot*, 동곳) made of gold, silver, or coral are believed to be feared by evil spirits. Since evil spirits fear the sound of metal, nighttime travelers or those journeying through mountains are said to always hang bells on their horse's neck (馬頸) (according to blind man Ch'oe (崔 맹인) of Tongnae County (동래군), South Kyŏngsang Province (경남)). Shamans (巫覡) are said to strike various metal implements during a *kut* (according to shaman Yun). Regarding the magical power of red coral, Professor Perry explains it through red color worship, which originated from blood (赤液) worship. Blood worship arose because primitive people considered blood deficiency one cause of death, deduced from the fact that those killed by enemy spears and arrows lost much blood and died. (Note 5) Regarding the magical power of gold, Professor E. Smith has a famous theory. Gold, abandoned and ignored in the Egyptian desert, acquired religious value as a "Giver of Life" after being used to imitate cowries (Cowry, a type of shell resembling female genitalia, likely called *malssip chogae* (말씹 조개) in Korea). It simultaneously replaced shells, the primitive currency, becoming used as money. Cowry belief arose from womb worship, which itself arose from fertility worship. (Note 6) According to Professor Smith, primitive reasoning always proceeds by the logic of "same form, different substance" (同形異質) or "same substance, different form" (同質異形). <31> In other words, because the womb possesses fertility, primitive people who worshiped fertility came to worship the womb. Since the "horse-vulva shell" (*malssip chogae*) has the same form as the womb, it came to be worshiped as equivalent to the womb. Therefore, extrapolating from the professor's theory, one could say that all metals acquired magical power after gold, being of the same substance (同質), gained religious value. However, this might be too mechanical a reasoning.
+
+In my view, while we might follow Perry's or Smith's theories regarding the magical power of gold and red coral, the magical power of copper and iron likely arose when primitive people began using them for weapon making. They were struck with awe (崇畏) by the astonishing power these metals possessed compared to previous stone or wooden tools, and simultaneously concluded that evil spirits, too, must fear copper and iron weapons more than anything. Thus, primitive people discovered the great magical power inherent in copper and iron. Not just copper and iron, but any sharp material suitable for weapons evoked a sense of awe and reverence in primitive people. For instance, the *Jin Shu* (晉書), 97, "Account of the Sushen" (肅愼傳), states:
+"In the northeast of their country, there is a mountain that produces stone sharp enough to cut iron. To obtain it, they must first pray to the spirits." This is an apt example; they likely prayed to the spirit of that sharp stone, capable of cutting even iron, to kill enemies and evil spirits and help them catch many wild beasts.
+
+Next, folk belief holds that whale bones (鯨骨), crab shells (蟹殼), pine branches (松枝), gourds (박), and white dog blood (白犬血) are things evil spirits fear. For example, in the fishing village of Ch'ŏndo (川島), about 5 *ri* (里, approx. 2 km) from Hongwŏn town (洪原邑) in South Hamgyŏng Province (咸南), until a few years ago, whale bone *sotdae* (蘇塗, sacred poles) stood in pairs at the village entrance, and their remnants still exist. According to villagers, they were meant to block the invasion of evil spirits. This belief undoubtedly arose from combining the great power of the whale with the *sotdae*.
+
+Also, traveling through Hamgyŏng Province (함경도), one often sees crab shells hung on the gates of private houses. This might be a type of "kŏmsjul," but its religious meaning is likely not taboo (禁忌) like the "kŏmsjul," but rather magic demonstrating the crab's pinching power to evil spirits. The difference between taboo and magic lies in being passive versus active. The area within a "kŏmsjul" is a sacred place, a tabooed region forbidding entry to impure beings or evil spirits. Primitive people generally never trespassed on others' property or territory, so the "kŏmsjul" arose from such boundary concepts. This "kŏmsjul" is usually temporary and lacks a demonstrative meaning. However, crab shells are permanent, and allow general entry, making it clear they are a magical demonstration against evil spirits.
+
+Also, pine needles ("songch'im," 松針) are often hung on the gates of houses in P'yŏngan and Hwanghae provinces. Pine branches are hung either permanently or temporarily. This, too, is not meant as a taboo but originally as a magical demonstration. According to people in those regions, pine needles can ward off evil spirits. This is similar to the passage in *Yongje Ch'onghwa*, Volume 2, under seasonal events: "On the first day of the second month, *Hwajo* (花朝), pine leaves (松葉) are scattered at the gate and courtyard at dawn. It is commonly said that this is done because noxious insects (臭蟲) dislike their smell, and the needles ward them off." This is likely magic (매직, Magic) performed based on the belief that evil spirits or noxious insects fear the piercing power of pine needles.
+
+In Hamgyŏng Province, there is a common custom of permanently hanging gourds (*pak*, 박) near the gate lintel of houses. This too is likely magic, not taboo. To explain the magical power of the gourd, one must borrow the unique research of Professor Nishimura Shinji <32> (西村眞次) on ancient ships and gourds. According to Nishimura's theory (Note 7), gourds were attached to the bottom or sides of ancient vessels like rafts (*ttae bae*, 筏船) to provide buoyancy. Thus, gourds were believed to possess magical power to protect sailors' lives and ward off evil things. Therefore, in Japanese folklore, gourds are always related to the sea, and wearing a gourd charm (瓢符) is believed to prevent drowning and ensure safe voyages. The fact that the woodcutter protagonist of the Korean Swan Maiden legend (선녀 전설, White Bird legend 白鳥傳說) ascends to heaven riding a gourd is likely a product of primitive thought confusing space and the ocean. Due to this gourd belief, our folk culture produced gourd charms (표박 호부) and gourd stem charms (박꼭지호부). The Kyŏngsang dialect calling a gourd *hanul subak* (하늘수박, sky watermelon) is surely not coincidental. The magical belief that hanging such gourds on the gate prevents evil spirits from entering is easily understood.
+
+Furthermore, our folk belief holds that evil spirits fear the blood of white horses (백마) or white dogs (白犬). When epidemics spread, meaning evil spirits are rampant, or when calamities caused by evil spirits persist, sprinkling white horse or white dog blood on the gate and the four walls (四垣) is said to prevent evil spirits from entering. This exists in beliefs and tales, but actually killing a white horse is rare due to economic reasons, while killing white dogs can occasionally be seen. Blood worship exists among all peoples worldwide, so detailed discussion is omitted, but the specific belief that spirits fear white horse or white dog blood arises from the primitive belief in white color worship (백색 숭배). Regarding white color worship, citing Eastern materials, the *Weilüe* (魏略) (cited in *Sanguozhi* 三國志 30) states: "In Puyŏ (夫餘), during mourning, both men and women wear pure white." This custom of white clothing (白衣) has been transmitted to us even today. The *Jiu Tangshu* (舊唐書), 199, Part 1, "Account of Paekche" (百濟傳), mentions: "In the eighth month of the second year of Linde (麟德二年八月, 665 CE), [Puyŏ] Yung (隆) arrived at Ungjin Fortress (態津城, likely Ungjin). With King Pŏmmin (法敏) of Silla (新羅), they swore an oath over a sacrificed white horse (刑白馬而盟). They first sacrificed to the spirits of heaven and earth (神祗) and the spirits of rivers and valleys (川谷之神), and then drank the blood (歃血), etc." This recounts how Puyŏ Yung, the Paekche king appointed by Tang as Ungjin governor, and the Silla king swore an oath by drinking the blood of a white horse. Drinking blood together has a separate meaning in religious studies: it signifies becoming brothers or kin by sharing blood, an alliance. This has transformed into our current emphasis on "eating rice from the same pot" (한 가마의 밥을 먹는다). However, the fact that a white horse was specifically killed for a crucial alliance between kings likely stems from the primitive reverence for the color white. For example, seen in Ye Longli's (葉隆禮) *Liao Zhi* (遼志):
+
+"When raising troops, they must kill gray oxen and white horses, sacrificing to Heaven and Earth and the spirit of Muyeshan (木葉山神)."
+"On the eighth day of the eighth month, the ruler kills a white dog seven steps in front of his sleeping tent, buries its head leaving the snout exposed. After seven days, the sleeping tent is moved over the buried dog head. The northerners call this festival *Danhenai* (擔褐嬭). Han Chinese translate this as *danhe* (擔褐) meaning dog, and *nai* (嬭) meaning dog." [Note: This translation seems repetitive/erroneous in the original quote.]
+"On the first day of the first month, the ruler mixes glutinous rice flour with white sheep marrow, making balls the size of fists, and scatters forty-nine of them inside each tent, etc."
+
+And from both the *Liao Zhi* and the *Qidan Guozhi* (契丹國志), 27, "Seasonal Miscellaneous Records" (歲時 雜記):
+
+"On the winter solstice, the people of the state kill white sheep, white horses, and white geese, take their fresh blood, mix it with wine, etc."
+
+This speaks to white color worship among the Mongol peoples, simultaneously signifying their blood worship, and specifically, they seem to have believed in the protective power of the white dog. Since dogs guard houses, primitive people believed in the dog's protective power and thought it would also defend against evil spirits <33>, which led to sprinkling white dog blood on walls. Similar customs existed in ancient China. For example, Ying Shao's (應劭) *Fengsu Tongyi* (風俗通義) from the Han (漢) dynasty, "Sacrifices" (祀典), section "Sheep" (羊八) [Note: section title seems mismatched with content], states:
+
+"Killing a dog and displaying its parts at the four gates of the town (殺狗磔邑四門). Sima Qian's *Records* (太史公記, i.e., *Shiji*) says Duke De of Qin (秦德公) first killed dogs and displayed them at the four town gates to ward off disasters (疊蓄). Today, people kill white dogs and smear the blood (血題) on doorways. In the first month, white dog blood dispels misfortune (辟除不祥). This practice takes its model from that."
+
+This is one example. Duke De of Qin being the first to kill dogs is surely legendary; such ideas are products of primitive times. Further examples of Chinese reverence for white can be found in the *Lüshi Chunqiu*, Vol. 7, "Annals of the Seventh Month" (七月紀):
+
+"In the first month of winter (孟冬之月)... its Emperor is Shaohao (少皞), its spirit is Rushou (着收)... its sacrifices are at the gate (門祭), offering liver first (先肝)... The Son of Heaven resides in the left chamber of Zongzhang (總章左个), rides the war chariot (戎路). The war chariot is a white chariot (白路也). It is drawn by white horses with black manes (白賂駥), carries white banners (白旂), [the Emperor] wears white clothes (白衣), and adorns himself with white jade (白玉), etc."
+
+This is clear evidence of white color worship. Also, Tao Zongyi's (陶宗儀) *Nancun Chuogeng Lu* (南村輟耕錄) from the Ming (明) dynasty, Vol. 1, entry on *Baidaozi* (白道子), states: "The state custom esteems white (國俗尙白), considering white auspicious (以白爲吉), etc." This is another proof. The fact that the Puyŏ people, Koreans, and Jurchens (女眞人) — broadly speaking, Manchurians and Koreans — have favored white clothes since ancient times likely originates from white color worship. Jurchen white clothing is clearly stated in Yuwen Maozhao's (宇文懋昭) *Da Jin Guozhi* (大金國志) from the Song (宋) dynasty, 39, "Male and Female Official Attire" (男女 관복): "Jin (金) custom favors white clothing (好衣白)... women wear white (婦人衣白), etc."
+
+The question of why white was considered sacred, without needing explanations from anthropologists, is a product of primitive thought that favored light and disliked darkness. Daylight was white. At that time, all evil spirits and harmful things hid, and human perception functioned clearly. Therefore, primitive people thought white was a great entity that expelled evil spirits. The Chinese association of the east with white also stems from the sun rising in the east, turning the world white. In this sense, white color worship was a byproduct of sun worship.
+
+Next, it is said that evil spirits fear light (光) and sound (音響). For example, those walking at night should carry lanterns (登籠), pine torches (松明), or firebrands (횃ㅅ불). Clothing and utensils stored away should occasionally be exposed to sunlight (曝射). This is believed to drive away the evil (邪, evil spirits) that accumulates in stored items. This idea that evil spirits fear firelight or sunlight aligns with the belief that the sun's rays drive away evil spirits. When one has light, even in dark nights, perception becomes somewhat clearer, making one feel more secure than in darkness. Feeling secure means hallucinations are less active. If hallucinations are inactive, spirits do not arise. Primitive people inferred from this that evil spirits feared firelight or sunlight and fled.
+
+Furthermore, according to the previously mentioned shaman Yun and blind man Ch'oe, spirits fear the sound of metal, drumbeats, hourglass drum sounds, and all kinds of noises. Therefore, travelers hang bells on horse necks, shamans possess gongs, cymbals, hourglass drums, etc., and blind men carry divination sticks (*pok*, 복, possibly referring to *sanmok* 算木 or similar divination tools that might make sound). When entering a dark privy, an empty house, or any dark place, one must cough three times to chase away any evil spirits present. The reasoning that spirits fear sound likely stems firstly from the fact that humans and animals, when in a quiet state, almost reflexively turn towards the source of a sudden loud noise <34> and feel a kind of fear. Primitive people thought evil spirits would also be startled by sound and flee. Secondly, sound induces mental tension in people. In a quiet state, consciousness is scattered and prone to hallucinations, but sound tenses and unifies it, making hallucinations less active. Consequently, evil spirits become invisible to them. Primitive people interpreted this as evil spirits fearing sound and escaping. Thirdly, their evil spirits were all static entities—concluded because spirits always appeared in quiet dreams or deserted houses and caves, and their actions were never accompanied by sound—leading them to infer that spirits would especially fear sound. The "exploding salt" (爆塩) mentioned in the *Liao Zhi*, the firecrackers (爆竹) in Tsung Lin's *Jingchu Suishi Ji* ("On the first day of the first month... rise at cockcrow. First, set off firecrackers in the courtyard to ward off mountain spirits and evil demons"), and the idea in the same work ("On the night of the first *mu* day (木日) of the first month, shine reed torches (蘆炬火) into wells and privies, and the hundred ghosts will flee") are likely products of the aforementioned primitive thought.
+
+3. Cockcrow (鷄聲)
+
+Our folk belief holds that ghosts fear the sound of a rooster crowing. Therefore, ancestral rites (祖先의 제사) are sometimes said to need completion before cockcrow. Also, goblins (*tokkaebi*, 독개비) and ghosts (鬼物) that roam at night are said to scatter immediately upon hearing the cockcrow. Examples of this are found countless times in folk tales. This belief also exists in China. For example, the *Jingchu Suishi Ji*, under the entry for the first day of the first month (正月旦), states:
+
+"Paste pictures of chickens (帖畵鷄) on the door. Hang reed ropes (懸葦索) above it. Insert peach wood charms (揷桃符) beside it. The hundred ghosts fear them." Wang Zinian's (王子年) *Shiyi Ji* (拾遺記) from the Jin (晉) dynasty elaborates: "Emperor Yao (堯) reigned for seventy years... The country of Zhizhi (祗支之國) presented the Chongming bird (重明之鳥), also called Double-Pupil (雙晴), meaning it had two pupils in each eye. It looked like a chicken (鷄) and sounded like a phoenix (鳳)... It could drive away fierce beasts, tigers, and wolves, avert disasters (技妖災), and prevent harm from evil beings. It was fed jade paste (瓊膏). Sometimes it came several times a year, sometimes not for several years. The people of the country would sweep their doorways clean, hoping for the Chongming bird to arrive. When it hadn't arrived, the people would carve wood or cast iron or gold into the shape of this bird and place it between their doors (門戶之間). Then demons and monsters (魑魅醜佰) would naturally retreat in fear. The fact that people today, on New Year's Day (元日), carve wood, cast metal, or paint pictures of chickens on their windows and doors (覑戶之上) is a relic of this image."
+
+This recounts that the chicken depicted on Chinese doors originated from the Chongming bird, feared by all ghosts. However, this is surely a later legend and a Chinese exaggeration; the original form was likely the ordinary chicken. Chickens announce the dawn (晨), and dawn's light expels evil spirits, leading primitive people to think that chickens themselves drove away ghosts.
+
+4. Incantations (呪語)
+
+Besides the exorcism incantations mentioned earlier, I have not discovered other complete incantations. Some shamans, like blind fortune-tellers (맹인), recite Buddhist *dharani* (주문) in their original language, but I cannot ascertain their content. They are presumably successions of phrases threatening evil spirits (威嚇하는 呪句), but the degree of development and specific content remain unknown.
+
+According to what has been described in this chapter, when an evil spirit possesses a person, it is always considered stronger than the possessed individual. Thus, while weaker spirits cannot possess a strong person, <35> stronger spirits can. Consequently, everyone feared evil spirits. Furthermore, since spirits are invisible entities, they possessed a strength surpassing humans. Primitive people lived in constant anxiety, never knowing when they might be attacked by a spirit. However, the spirit's power was not absolute; people believed they could repel various evil spirits through their magical power. They believed they could exorcise them with weapons, or with light, sound, and other objects feared by evil spirits. The method of such exorcism is magic (Magic). Therefore, in magical thought, spirits were not supernatural or superhuman beings; humans and spirits existed on the same level. This is where magic differs from religion.
+
+However, in a broad sense, everyone possessed magical power. Driving away ghosts with light and sound is something anyone can do. But because this is so common, not everyone is called a magician. The magician in religious studies refers to someone possessing more specialized magical power than ordinary people. Who, then, were the first individuals accepted by society as such magicians (shamans)? In other words, what was the state of the original shaman? It is difficult to imagine, as Professor Kroeber suggested, that it suddenly arose when some enthusiast in a tribe claimed they could communicate with spirits and exorcise evil spirits (see Chapter 1). Kroeber's theory of sudden emergence might apply to professional shamans, but it's hard to believe that shamans were professional and individualistic from the very beginning.
+
+For primitive people, the social environment and the imagined environment were on the same level. Thus, someone powerful in society was likely thought to be powerful against evil spirits as well. However, one cannot assert that the strongest person (e.g., chief, head of household) necessarily became the magician. While such examples (the unity of ritual and rule, 제정 일치) exist, counterexamples also exist. That is a separate issue, but regardless, the inference that individuals with considerable social power were considered magicians—or at least possessors of the most magical power—seems plausible. If so, who were these initial magicians, or shamans? What were their types, characteristics, development, and changes within Korea? That is the task for the next chapter. (End of this chapter)
+
+Notes
+(1) Edward B. Tylor, Anthropology, pp. 350-1.
+(2) Czaplicka, Aboriginal Siberia, p. 164.
+(3) E. G. Ravenstein, Russians on the Amur, p. 385.
+(4) Ibid, p. 397.
+(5) W. J. Perry, The Origin of Magic and Religion, London, 1923, pp. 8-10.
+(6) Eliot Smith, The Evolution of the Dragon, Manchester, 1918, pp. 150-3.
+(7) S. Nishimura, A study of the Ancient ship of Japan, part Ⅱ, "The Gourd ship". 及 Nishimura Shinji (西村眞次) "Theory of Cultural Movement" (文化移動論) pp. 209-210 <36>
+
+**Summary**
+
+This article segment by Son Chin-t'ae discusses methods of actively exorcising evil spirits (驅禳) in Korean folk belief, contrasting them with passive avoidance (taboos, charms). It details threatening methods (威嚇), including verbal threats, brandishing weapons, shamanic performances involving knives, armor, symbolic clothing (official robes, dragon robes), feats of strength (lifting brass basins, riding straw cutters), and compares these with Chinese *Na* ceremonies and other regional shamanic practices (Mongol, Manchu). The article then explores the use of objects, light, and sound believed to possess magical power (魔術力) to repel spirits, such as metals (gold, silver, copper, iron), red coral, whale bones, crab shells, pine needles, gourds, white dog/horse blood, firelight, sunlight, and various noises (bells, drums, gongs, coughing). It links beliefs like white color worship and the fear of cockcrow to broader primitive concepts like sun worship and the association of light/sound with dispelling darkness/spirits. Finally, it briefly touches on incantations (呪語) and poses questions about the origin and nature of the first shamans, setting up the next chapter. From a historical perspective, the article is valuable for its detailed documentation of Korean folk exorcism practices in the 1920s, attempting to distinguish indigenous elements from Chinese influences, a common theme in nationalist scholarship during the colonial period. Historians might find interest in the specific ethnographic details, the comparative approach referencing Chinese and Siberian practices, and the author's framework distinguishing magic from religion based on the perceived power dynamic between humans and spirits.
+
+**Named Entities**
+
+孫晉泰	손진태	Son Chin-t'ae
+朝鮮	조선	Chosŏn
+支那	지나	China
+高麗	고려	Koryŏ
+後漢	후한	Later Han
+李朝	이조	Yi Dynasty
+高麗史	고려사	Koryŏsa
+後漢書	후한서	Later Han Shu (Book of the Later Han)
+方相氏	방상씨	Pangsangssi
+慵齋叢話	용재총화	Yongje Ch'onghwa
+觀象監	관상감	Kwansanggam
+昌德	창덕	Ch'angdŏk
+昌慶	창경	Ch'anggyŏng
+竈王神	조왕신	Chowangsin (Kitchen God)
+呂氏春秋	여씨춘추	Yŏssi Ch'unch'u (Lüshi Chunqiu)
+高誘	고유	Koyu (Gao You)
+晉	진	Chin (Jin Dynasty)
+宗懍	종림	Chong Im (Zong Lin)
+荊楚歲時記	형초세시기	Hyŏngch'o Sesigi (Jingchu Suishi Ji)
+說郛	설부	Sŏlbu (Shuofu)
+東京賦	동경부	Tonggyŏng Pu (Dongjing Fu / Rhapsody on the Eastern Capital)
+處容	처용	Ch'ŏyong
+鍾馗	종규	Chong Kyu (Zhong Kui)
+부산	부산	Pusan
+평안	평안	P'yŏngan
+황해	황해	Hwanghae
+경기도	경기도	Kyŏnggi-do
+增補文獻備考	증보문헌비고	Chŭngbo Munhŏn Pigo
+肅廟	숙묘	Sukchong (King Sukchong)
+英廟	영묘	Yŏngjo (King Yŏngjo)
+尹福成	윤복성	Yun Pok-sŏng
+中和郡	중화군	Chunghwa County
+平南	평남	South P'yŏngan Province (P'yŏngnam)
+事文類聚	사문유취	Samun Yuch'wi (Shiwen Leiju)
+淵鑑類函	연감유함	Yŏn'gam Yuhan (Yuanjian Leihan)
+劉之靖	유지정	Yu Chi-jŏng (Liu Zhijing)
+宋	송	Song (Song Dynasty)
+葉降禮	섭강례	Yŏp Kang-nye (Ye Jiangli) - Note: Name might be 葉隆禮 (Ye Longli/Yŏp Yung-nye) as mentioned later.
+遼志	요지	Yoji (Liao Zhi)
+西淸	서청	Sŏch'ŏng (Xiqing)
+黑龍江外記	흑룡강외기	Hŭngnyonggang Oegi (Heilongjiang Waiji)
+達呼爾	달호이	Talhoil (Daur people)
+薩瑪	살마	Salma (Saman/Shaman)
+徐宗亮	서종량	Sŏ Chong-nyang (Xu Zongliang)
+黑龍江述略	흑룡강술략	Hŭngnyonggang Sullyak (Heilongjiang Shulüe)
+方式濟	방식제	Pang Sik-che (Fang Shiji)
+龍沙紀畧	용사기략	Yongsa Kiryak (Longsha Jilüe)
+三國志	삼국지	Samgukchi (Sanguozhi / Records of the Three Kingdoms)
+烏丸	오환	Owan (Wuhuan)
+Perry	퍼-리	Perry (W. J. Perry)
+E. Smith	쓰미드	Smith (G. Elliot Smith)
+埃及	애급	Aegŭp (Egypt)
+晉書	진서	Chin Sŏ (Jin Shu / Book of Jin)
+肅愼	숙신	Suksin (Sushen)
+咸南	함남	South Hamgyŏng Province (Hamnam)
+洪原邑	홍원읍	Hongwŏn-ŭp
+川島	천도	Ch'ŏndo
+함경도	함경도	Hamgyŏng-do
+西村眞次	서촌진차	Sŏch'on Chin-ch'a (Nishimura Shinji)
+魏略	위략	Wiryak (Weilüe)
+夫餘	부여	Puyŏ
+舊唐書	구당서	Kutang Sŏ (Jiu Tangshu / Old Book of Tang)
+百濟	백제	Paekche
+麟德	인덕	Indŏk (Linde era)
+夫餘隆	부여륭	Puyŏ Yung
+新羅	신라	Silla
+法敏	법민	Pŏmmin (King Munmu)
+態津城	태진성	T'aejin-sŏng (Ungjin Fortress) - Note: 態津 is likely a mistake for 熊津 (Ungjin).
+葉隆禮	섭륭례	Yŏp Yung-nye (Ye Longli)
+契丹國志	거란국지	Kŏran Kukchi (Qidan Guozhi)
+漢	한	Han (Han Dynasty)
+應劭	응劭	Ŭng So (Ying Shao)
+風俗通義	풍속통의	P'ungsok T'ongŭi (Fengsu Tongyi)
+秦	진	Chin (Qin Dynasty)
+德公	덕공	Tŏkkong (Duke De)
+明	명	Myŏng (Ming Dynasty)
+陶宗儀	도종의	To Chong-ŭi (Tao Zongyi)
+南村輟耕錄	남촌철경록	Namch'on Ch'ŏlgyŏngnok (Nancun Chuogeng Lu)
+女眞	여진	Yŏjin (Jurchen)
+宇文懋昭	우문무소	Umun Muso (Yuwen Maozhao)
+大金國志	대금국지	Tae Kŭm Kukchi (Da Jin Guozhi)
+王子年	왕자년	Wang Cha-nyŏn (Wang Zinian)
+拾遺記	습유기	Sŭbyugi (Shiyi Ji)
+堯	요	Yo (Emperor Yao)
+祗支之國	기지지국	Kijiji Kuk (Zhizhi Country)
+Kroeber	크뢰버	Kroeber (Alfred Kroeber)
+
+**Glossary**
+
+惡精靈	악정령	Evil spirit
+驅禳	구양	Exorcism; driving out evil spirits
+검ㅅ줄	검줄	Sacred rope used to mark off taboo areas (older spelling of 검줄)
+금기	금기	Taboo
+護符	호부	Amulet, charm, talisman
+呪物	주물	Cursed object, object used in magic/curses
+토속상	토속상	In folklore, from a folkloric perspective
+祈禱	기도	Prayer
+哀怨法	애원법	Method of lamentation or appeal
+死魂	사혼	Soul of the dead
+繼生說	계생설	Belief in reincarnation or rebirth
+威嚇的	위혁적	Threatening, intimidating
+儺儀	나의	*Na* ceremony (court ritual for exorcising evil spirits)
+侲子	진자	Boys participating in the *Na* ceremony
+方相氏	방상씨	Masked figure leading the *Na* ceremony exorcism
+唱帥	창수	Lead chanter in the *Na* ceremony
+竈王神	조왕신	Kitchen God
+干支	간지	The sexagenary cycle (Heavenly Stems and Earthly Branches)
+退鬼	퇴귀	Expelling ghosts/spirits
+샤-만	샤먼	Shaman (transliteration)
+굿	굿	Korean shamanic ritual
+甲冑	갑주	Armor
+놋동이	놋동이	Brass basin or large bowl
+작두	작두	Straw cutter; used in shamanic rituals for riding on
+마술	마술	Magic
+동곳	동곳	Hair-rod pin (worn by men with topknots)
+蘇塗	소도	*Sotdae*; sacred pole, often with bird figures, marking sacred areas
+송침	송침	Pine needles (used metaphorically for pine branches used as charms)
+백마	백마	White horse
+白犬	백견	White dog
+登籠	등롱	Lantern
+松明	송명	Pine torch
+횃ㅅ불	횃불	Torch, firebrand (older spelling)
+曝射	폭사	Exposing to sunlight
+독개비	도깨비	Korean goblin or monster (*dokkaebi*)
+呪語	주어	Incantation, magical spell
+崇憑	숭빙	Possession (by a spirit)
+巫女	무녀	Female shaman
+巫覡	무격	Shaman (general term for male/female)
+박사	박수	Male shaman (*paksu*)
+典服	전복	Ceremonial robe worn by civil officials; also worn by shamans
+龍袍	용포	Dragon robe (worn by royalty); also worn by shamans
+道袍	도포	Scholar's robe (worn by Confucian scholars); also worn by shamans
+冠帶	관대	Official hat and belt; formal attire
+帝釋굿	제석굿	Shamanic ritual dedicated to Indra (originally Buddhist, adapted)
+長袗	장삼	Long Buddhist robe; also worn by shamans
+袈裟	가사	Buddhist stole (*kāṣāya*)
+六環杖	육환장	Six-ringed staff (Buddhist monk's staff)
+고깔	고깔	Peaked hat, often worn in rituals or folk performances
+僧舞	승무	Monk's dance
+禳祓	양불	Exorcism, purification ritual
+불신祭	불신제	Ritual for miscellaneous or unknown spirits (lit. 'unbelief festival')
+眞鍮	진유	Brass
+지환	지환	Ring (for finger)
+비녀	비녀	Hairpin (ornamental, for women)
+馬頸	마경	Horse's neck
+타부-	타부	Taboo (transliteration)
+木臼	목구	Wooden mortar
+角斗	각두	Square measuring container (for grain)
+旋舞	선무	Spinning dance
+爆塩	폭염	Exploding salt (used for noise in exorcism)
+桃弧	도호	Peach wood bow (used in exorcism)
+棘矢	극시	Thorn arrow (used in exorcism)
+血題	혈제	Smearing blood (on doors, etc.)
+鷄鳴	계명	Cockcrow
+
+
+---------------------------
+
+
+잡지명	동광 제16호
+발행일	1927년 08월 05일
+기사제목	朝鮮上古文化의 硏究, 朝鮮 古代 宗敎의 宗敎學的 土俗學的 硏究(5)
+필자	문학사 孫晉泰
+기사형태	논설
+
+朝鮮上古文化의 硏究, 朝鮮 古代 宗敎의 宗敎學的 土俗學的 硏究
+						문학사 孫晉泰
+제2절 惡精靈 驅禳
+지금의 우리 민속상으로 말하면 악정령으로붙어 피하고저 하는 소극적 수단에는 「검ㅅ줄」과 같은 금기(Tabu)와 瓢박形(白銅 又는 銀製)의 腰間 護符며 유행병 전염병의 있을 때에 옷고름에 차는 「호박꼭지」의 호부 등이 있다. 금기와 呪物 護符 같은 것은 일종의 소극적 마술에 속할 바인지  수 없으나 특히 呪物과 護符에 관하여는 문헌상에는 물론 토속상에도 재료를 많이 발견할 수 없다. 조선에서는 昔日붙어 呪物 護符가 발달되지 아니하였는지도 알 수 없다. 그리고 「검ㅅ줄」에 대해서는 6장 2절에 상술하였음으로 생략하기로 하고 이 節에서는 다만 적극적 마술 즉 惡精靈 驅禳에 관해서만 논술하고저 한다.
+악정령을 驅禳함에는 대체로 魔術을 취한다. 하지마는 예외로서는 所崇한 정령이 존경할 만한 자이던지 위대한 인격인 경우에는 祈禱 哀怨法을 취하기도 한다. 위대한 祖先이나 고귀의 死魂도 그것이 人軆에 崇付하여 병을 주는 이상 악정령의 부류에 속할 바이지마는 繼生說의 信者인 원시인들은 그러한 정령에 대하여 감히 잡귀와 같이 驅禳的 태도를 취하지 못하였다. 이것도 5장에서 논술하겠음으로 역시 생략한다.
+악정령을 驅禳하는 방법에는 평시에 행하는 것과 病時에 행하는 것이 2종이 있다. 다시 이 2종의 방법은 威嚇的 태도를 취하는 것과 마술력을 가진 물체 음향으로 시위하는 것과 呪語로서 위협하는 등 諸 방법으로 분류할 수 있다.
+조선의 驅精法에는 支那의 감화가 허다함으로 그 중에서 대표적인 儺儀에 대하여 一言하면 「高麗史」 64 凶禮에는 季冬大儺儀라는 條가 있다. 그 내용을 보면 「後漢書」 15 禮儀志 儺의 條와 대동소이한 文으로
+「大儺之禮, 前一日, 所司奏聞, 選人年十二以上, 十六以下, 爲侲子, 著假面, 衣赤布袴褶, 二十四人爲一隊, 六人作一行, 凡二隊, 執事者十二人, 着赤幘褠衣, 執鞭, 工人二十二人, 其一方相氏, 著假面, 黃金四目, 蒙熊皮, 玄衣朱裳, 右執戈 左執楯, 其一爲唱帥, 著假面, 皮衣執棒, 鼓角軍二十爲一隊, 執旗四人, 吹角四人, 持鼓十二人, 以逐惡鬼于禁中... 唱率侲子和曰, 甲作食硇, 赫冑食疫, 雄伯食魅, 騰簡食不祥, 覽諸食咎, 伯奇食夢, 强梁祖明, 共食磔, 死寄生委, 隨食觀, 錯斷食巨, 窮奇騰根,＜27＞ 共食蠱, 凡使十二神, 追惡鬼凶, 赫汝軀, 拉汝肝節解汝肌肉, 抽汝肺膓, 汝不急去, 後者爲粮, 周呼訖, 前後鼓譟而出, 諸隊各趣門, 以出出郭而止, 云云」
+이라고 있다. 이에 의하면 가면 무장한 驅禳者들이 12신의 위력을 빌어 악귀 기타의 흉악을 궁중으로붙어 驅追하는 것이 -威嚇的 呪語 태도로서- 儺儀다. 그러고 執事者 方相氏 唱師鼓角軍들은 48인(2대)의 侲子와 함께 「甲作食硇」운운의 呪語를 부르는 모양이며 12신이란 것은 甲作 赫冑 雄伯(무슨 신인지 알 수 없으나) 등을 가르친 모양이다. 한데 李朝의 기록을 보면 다소의 변화가 있다. 「慵齋叢話」 1권은
+「驅儺之事, 觀象監主之, 除夕前夜, 入昌德, 昌慶闕庭, 其爲制也, 樂工一人爲唱師, 朱衣着假面, 方相氏四人, 黃金四目, 蒙態皮, 執戈擊析, 指軍五人, 朱衣假面, 着畵笠, 判官五人, 綠衣假面, 着畵笠, 竈王神四人, 靑袍幞頭木笏, 着假面, 小梅數人, 着女袗假面, 上衣下裳, 皆紅綠, 執長竿幢, 十二神各着其神假面, 如子神着鼠形, 丑神着牛形也, 又樂工十餘人, 執桃茢從之, 揀兒童數十, 朱衣朱巾, 着假面, 爲侲子, 唱師呼曰, 甲作食硇, 佛冑食虎, 雄伯食魅, 騰簡食不祥, 攬諸食姑, 伯奇食夢, 强梁祖明, 共食시磔, 死寄生委, 陷食櫬, 錯斷食拒, 窮寄騰根, 共食蠱, 惟爾十二神, 急去莫留, 如或留連, 當嚇汝軀, 拉汝幹節, 解汝肉, 抽汝肝腸, 其無悔, 侲子曰喩, 叩頭服罪, 諸人唱鼓鑼, 時驅逐出之.」
+라고 한다. 細少한 차이는 막론하더라도 竈王神 4人 女服한 小梅  數人 12干支의 動物神 假面을 착용한 者 등이 현저히 高麗와는 다르다. 그러고 이 표현은 매우 애매하여 12神이란 것이 12간지 동물 神이면서도 최후에 「惟爾十二神, 急去莫留」라 하여 흉 虎 魅 不祥 姑 夢 硇 櫬 拒 蠱 등의 惡精 惡物을 驅逐하지 않고 12간지 신을 좇는 것은 불합리한 일이다. 하고 侲子가 唱師와 함께 驅惡을 하지 않고 12惡神(鬼)의 소임을 담당한 모양이다. 12干支 신의 가면을 쓴 자가 따로 있으면서 侲子가 叩頭 服罪한다 함도 불합리한 일이다. 그것은 여하간 고려와 李朝 사이에는 儺儀에 다소의 변천이 있었던 모양이다. 하나 가면 무장한 一群이 제야 전야에 궁중에 巢居하는 惡精靈을 退驅하는 의식으로서 儺을 행하였던 근본 의미에는 변화가 없었다. 이 의식의 대체는 물론 「後漢書」 禮儀志에 보이는 儺儀의 모방일 것이며 後漢書 전의 기록에도 보인다. 예하면 高誘訓解의 「呂氏春秋」 권3 季春 3월紀 내에 보이는 다음의 글이 그것이다.
+「國人儺九門, 磔禳以畢春氣 儺讀論. 語鄕人儺同. 命國人, 儺索宮中區隅幽闇之處. 擊鼓大呼. 驅逐不祥. 如今之正歲逐除是也.」
+그 후세의 晉, 宗懍의 「荊楚歲時記」(說郛)에도
+「十二月 八日 爲臘日. 諺言臘鼓鳴, 春草生. 村人竝繫細腰鼓. 戴胡頭, 及金剛力士. 以逐疫. 按禮記云, 儺人所以逐厲鬼也. 呂氏春秋季冬紀注云, 今人臘前一日, 繫鼓驅疫. 謂之逐除... 東京賦云, 卒歲大儺, 歐除群厲方相秉鉞. 巫覡操茢. 侲子萬童. 丹首玄製. 桃弧棘矢. 所發無臬.」
+이라고 있다. 이러한 支那의 기록을 보던지 기타 支那 正史의 禮儀志를 보아도 侲子가 악귀의 소임을 당하는 예는 보이지 않는다. 그러면 侲子가 惡鬼現되는 것은 이미 조선＜28＞ 내에서의 특수한 변천일 것이다.
+기타의 歲時 행사 중에 支那의 감화로붙어 생긴 것을 보면 「慵齋叢話」 권2 내에
+「歲時名日所擧之事非一, 除夜前日, 聚小童數十, 名爲侲子, 被紅衣紅巾, 納于宮中, 觀象監備鼓笛, 方相氏臨曉驅出之, 民間亦倣此事, 雖無侲子, 以綠竹葉, 紫荊枝, 益母莖, 桃東枝, 合面作箒, 亂擊欞戶, 鳴鼓鈸面驅出門外, 曰放枚鬼, 淸晨畵物於門戶窓屛, 如處容, 角鬼, 鍾馗, 幞頭官人, 介曹將軍, 擎珍寶婦人, 畵鷄, 畵虎之類也,.. 新歲... 兒輩聚蒿草, 燒園苑, 亥日曰薰豭喙, 子日曰薰鼠... 三月三日曰上巳... 又採新艾葉, 作雪糕而食... 五月五日曰端午, 懸艾虎於門, 泛菖蒲於酒, 兒童編艾菖蒲作帶, 又採蒲根, 以爲鬚... 冬至豆粥, 云云.」
+이라고 있는 바 ○으로 표시한 잀œ종의 행사는 모도 支那의 모방 又는 支那 사상의 감화에서 발생된 것이지마는 이것을 일일히 고증 비교함은 당면의 일이 아님으로 다음의 기회로 밀우고 본론으로 들어가서 조선 고유한 마술을 설명하여 보면
+
+一. 威嚇的 방법
+威嚇的 행동은 대개 무기로서 한다. 예하면 조선의 「샤-만」은 대개 칼을 가지고 있다. 所崇한 精靈이 잡귀일 때에는 병인을 뜰 앞에나 庭 중에 앉히고 칼로서 -가족적 샤만이면 食刀로서- 병인을 찌를 듯이 덤비면서 주문을 웨친다. 병인을 찌를 듯 덤비는 것은 물론 병인에 붙은 악정령을 찌르겠다는 威赫이다.
+「호-ㅅ새- 이놈의 귀신 어대가 붙을 곳이 없어서 이 집에 와 붙었느냐. 所爲를 생각하면 아무 것도 주지 않겠지마는 情狀이 불상해서 이 물과 밥을 주는 것이니 이것을 먹고 한시 바삐 떠나지 아니하면 열토막 스무토막에 아서 죽여 쉰 길 가마 속에 펄펄 끓는 기름 속에 넣어 덜덜 끓여 죽여 덜덜 볶아 죽이리라. 자- 썩 물러 가겠느냐 아니 하겠느냐? 훗새-」 - 부산 失名 씨 談
+하면서 무녀나 가족 샤-만은 들었던 칼(혹 식도)을 대문 앞으로 던진다. 칼 끝이 문 밖으로 향하면 귀신이 물러간다는 의미지마는 문 안으로 향하면 퇴각을 不應하는 표시임으로 그때는 일층 맹렬한 위협을 반복한다. 필경 퇴각을 승낙하면 집꾸럼지에 밥과 나물을 싸서 문 밖에나 계천ㅅ가에 던저주는 것이다.
+腫氣로 고통하는 자에게는 腫膨部를 칼로 견주면서 악정령을 위협하기도 한다. 그것은 악정의 瞳部 내에 들어 있음으로 그 부분이 팽창하는 까닭이라고 믿음이다. 腫部가 부패하는 것은 그것을 악정령이 먹는 까닭이라고 생각하기도 한다.
+頭痛하는 자는 頭部에 악정령이 들어 있는 까닭이라 하여 頭部를 칼로 威嚇하기도 한다. 이러한 시위는 가장 단순한 방법이지마는 평안 황해 경기도의 무녀 박사(男巫)들은 甲冑 槍矢까지를 가졌다. 중병인에게는 강한 악정령이 붙은 까닭이라 하여 巫覡은 甲冑 槍矢로 무장한 뒤에 馬上에서 악정령에게 도전한다. 이것을 黃平道에서는 「將帥ㅅ거리굿」이라 하여 巫覡은 필사의 힘을 내는 모양이다.＜29＞
+또 무녀는 文官의 예복이었던 典服을 가졌으며 「增補文獻備考」 137, 服考, 廢律, 絶島定配는
+「巫女冒入闕內, 潛着袞衣, 設行神祀者, 肅廟戊寅始用. 英廟甲子廢」
+라 하며 巫女의 龍袍가졌던 것을 전한다. 지금도 黃平 경기도의 大巫女 중에는 용포를 가진 자가 있다고 한다. 典服은 일반 祭式 禳式 (굿) 時에 무녀들이 항상 착용하는 바이지마는 원래의 의미는 所崇한 정령이 문관 혹 문사였을 때 사용하였던 것일 터이다. 그러고 용포는 所崇 정령이 고관이었을 때 사용하였을 것이다. 즉 官的 階級으로서 所崇 정령에게 시위하며 그것을 굴복시키고저 함에 源義가 있었을 것이다. 그 증거로서는 所崇한 악정령이 여성일 때에는 무녀나 「박사」(覡)가 綠衣紅裳을 著用하며(평안 황해도) 악정령이 도령님일 때에는 巫覡이 道袍冠帶를 한다.(평안 황해도) 帝釋굿이란 것을 지금 黃平道의 巫覡들은 무의미하게 하지마는 이것은 아마 불교의 성하였던 고려시대나 그 이전에 발생된 것으로 所崇 악정령이 승려이었을 때에 집행하였던 것일 것이다. 帝釋굿 때의 巫覡은 長袗을 입고 袈裟를 매며 六環杖을 짚고 고깔을 쓴다. 그러고 僧舞를 추면서 退鬼를 한다. 또 평안도에서는 崇鬼가 여성인 경우에는 巫覡이 男服으로서 禳祓하는 수도 있다. 요하건대 이렇게 경우를 딸아 服飾을 바꾸며 그에 적당한 태도를 취하는 것은 對衆인 악정령의 어떠한 자임에 의하여 결정되는 것이며 巫覡은 항상 악정령보다 강한 자가 되어야 하는 것이었다. 이것도 역시 威嚇의 일종이다.
+
+또 무녀는 자기의 강력함을 악정령에게 시위하기 워하여 무거운 「놋동이」를 입에 물기도 하며 「작두」를 타기도 한다. 무녀는 중병인이 생겼을 때나 「불신祭」 때에 이러한 시위를 한다. 금일의 무녀들은 그것을 악정령에 대한 시위라고 의식하지 않고 무녀의 기술 자만으로 하는 모양이지마는 源意는 물론 마술적 방법이었을 것이다. 놋동이는 30근 쭝의 중량 밖에 가지지 아니하였으나 그것이 眞鍮製인 까닭에 보통 사람으로서는 입으로 물어 올리기가 불가능하다. 하지마는 무녀는 巫夫나 助承들의 울리는 장고, 징, 철철이, 괭괄이 소리에 흥분되어 난무를 주면서 동이를 물기 시작하면 관중의 신경도 동시에 긴장된다. 몇 번이나 실패한 뒤에 겨우 동이를 물어 올리면 악기는 더욱 맹렬히 울며 관중은 동이ㅅ 속에 錢帛을 넣어 준다. 錢帛의 중량으로 동이를 떨어트려 무녀를 구하고저 하는 의미다. 무녀의 입에서는 피가 흐르게 된다. 무녀들의 말에 의하면 큰 무당이라야 능히 이 놋동이 물기를 한다고 한다고 하며 한 번 하면 대개 3, 4일간은 피로로 인하여 일어나지 못하는 것이라고 한다.
+「작두 타기」에는 「單 작두 타기」와 「쌍 작두 타기」가 있지마는 單 작두 타기는 말로만 있고 實際하는 무당은 없다고 한다. (平南 中和郡 무녀 尹福成씨 말) 尹 무녀의 설명에 의하면 도구통 (木臼) 우에 木箱을 놓고 木箱 우에 자리를 깐뒤에 그 우에는 다시 角斗에 쌀을 담아서 앉고 그 말 우에 작두 2개를 並置하고 무녀는 맨발로 그것을 탄다고 하며 놋동이를 물 때에는 食床 6, 7개를 疊積하여 그 높이가 무녀의 흉부에 당하도록 한 뒤에 그 우에 놋동이를 두고 무녀는 뺑뺑이 춤 (旋舞) 을 추면서 그것을 무는 것이라고 한다.
+이러한 威嚇的 禳鬼術은 주위 민족 사이에도 허다히 있다. 특히 支那 古籍에서 수 例를 들으면 「事文類聚」 38 巫者와 「淵鑑類函」方術部 巫에는＜30＞
+「劉之靖家. 數有怪. 召巫 夜披髮銜刀. 爲禳厭.」
+이란 것이 보이며 宋 葉降禮의 「遼志」 (역대 小史 61)에 보이는
+「正月一日, 使令師巫十二人. 外邊遶帳. 撼鈴執箭唱呌. 於帳內諸火爐內 爆塩. 幷燒地△鼠. 謂之驚鬼.」
+란 것은 儺와 유사한 의미를 가진 모양이다. 하고 爆塩은 支那의 폭죽과 비슷하여 음향으로서 악정령을 놀래게 하는 방법일 것이다. 西淸의 「黑龍江外記」 권6의
+「達呼爾 ... 薩瑪則啜羊血嚼鯉. 執刀槍叉挺. 卽病者腹上. 指畵而黙誦之. 云云」
+이란 것이며 徐宗亮의 「黑龍江述略」 권6의
+「巫風盛行. 家有病者. 不知醫藥之事. 輒招巫. 入室誦經. 裝束如方相狀. 以鼓隨之. 應聲跳舞. 云云」
+이란 것이라던지 方式濟의 「龍沙紀畧」 풍속의 條가
+「降神之巫曰薩麻. 帽如兜鍪... 遇病, 則陷肉不可不拔. 一振蕩之. 骨節皆鳴. 而病去矣.」
+란 것은 漢族, 몽고족, 만주족 사이에 있는 威嚇的 禳壓法일 것이다. 「三國志」 31 烏丸傳이 「有病 ... 或隨痛病處. 以刀決血脉出血. 云云」
+이라는 것도 그 源意는 痛病處에 악정령이 붙어 있다 하여 거긔를 칼로서 찌른 것일 터이다.
+
+2. 魔術力을 가진 物軆, 光, 音響
+前述한 바와 같이 조선의 상고 신앙은 劒 槍 矢 등 무기를 마술력을 가진 물체라고 생각하였다. 무기는 적을 죽이는 것임으로 그것이 악정령도 驅逐할 수 있다고 그들은 신앙하였다. 유사한 의미로서 甲冑 典服 도포 용포 장삼 기타도 그것이 상대자의 누구임에 의하여 일종의 마력을 가졌다고 믿은 모양이다.
+다음에 우리 민간에서는 金 銀 銅 鐵과 같은 금속이며 赤산호도 악정령을 공포하게 하는 마력을 가졌다고 생각한다. 함으로 금은의 지환 비녀와 금은 산호의 동곳은 그것을 악귀가 무서워 한다고 한다. 악귀는 금속의 소리를 무서워 함으로 밤ㅅ중의 여행자나 산중을 여행하는 자는 반듯이 말의 목 (馬頸)에 방울을 다는 것이라고 하며 (경남 동래군 崔 맹인의 말) 巫覡은 금속제의 諸種 기물을 「굿」 할 때에 울리는 것이라고 한다 (尹 무녀 說). 적산호의 마술력에 관하여 「퍼 - 리」 (Perry) 교수는 그것을 적색 숭배로서 설명하고 적색 숭배는 赤液 숭배에 기인하였으며 혈액 숭배는 원시인이 사람의 사인의 하나를 혈액의 결핍으로 생각하였으며 그 추론은 적의 槍矢에 찔려 죽은 자가 많이 혈액을 흘리고 죽는 사실로서 귀납되었다고 한다.(주5) 금의 마술력에 관하여는 「쓰미드」 (E. Smith) 교수의 유명한 설이 있다. 埃及 사막 중에 방치 不顧되었던 황금이 Cowry (여성의 생식기와 흡사한 일종의 패류인데 이것을 조선서는 아마 「말씹 조개」라고 할 것이다.) 모조용에 사용된 뒤로 「生命賦與者」 (Giver of life)로서의 종교적 가치를 획득하고 동시에 원시인의 화폐이던 패류의 지위를 대신하게 되어 通貨로서 통용하게 된 것이며 Cowry의 신앙은 자궁 숭배로 일어나고 자궁 숭배는 생식 숭배로 일어난 것이라고 주장하였다.(주6) Smith 교수의 설에 의하면 원시인의 추리는 항상 「同形異質」 「同質異形」의 법칙으로 변천된다고＜31＞ 함이다. 다시 말하면 자궁은 생식성을 가졌음으로 생식을 숭배하는 원시인은 자궁을 숭배하게 되었으며 「말씹 조개」는 그것이 자궁과 동형임으로 자궁과 等價的으로 숭배하게 된 것이라는 논법이다. 함으로 교 수의 설을 敷衍하면 모든 금속은 그와 동질인 황금이 종교적 가치를 획득한 뒤에 如上한 마술력을 얻게 된 것이라고도 말할 수 있을 것이다. 하나 그것은 넘우나 기계적 추리일 것이다.
+나의 생각하는 바에 의하면 황금과 적산호의 마술력에 관하여는 Perry나 Smith 교수의 설을 쫓는다 하더라도 동철의 마력은 아마 원시인이 동철의 무기 제작용에 사용하였을 때에 그것이 종래 석기나 목기에 비하여 可驚할 위력을 가졌음에 崇畏의 감을 가지는 동시에 악정령도 동철의 무기를 무엇보다 무서워 하리라고 단정하였을 것이다. 이렇게 해서 원시인들은 동철에 위대한 마술력의 있음을 발견하였을 것이다. 동철뿐 아니라 무기 재료로서 예리한 자면 원시인은 그것에 崇畏의 念을 일으키었던 것이다. 예하면 「晉書」 97 肅愼傳이
+「其國東北有山. 出石. 其利入鐵. 將取之, 必先祈神.」이란 것은 적절한 예요 철이라도 끊을 수 있는 利石 그것의 정령에게 적과 악정령을 죽이고 야수를 많이 잡게 하여 달라고 기원하였을 것이다.
+다음에 鯨骨 蟹殼 松枝 박 白犬血같은 것도 악정령의 무서워하는 바라고 민간 신앙은 말한다. 예하면 咸南 洪原邑의 약 5리 許에 있는 川島란 어촌의 동구에는 수 년 전까지 鯨骨의 蘇塗가 쌍립하여 있었으며 지금도 그 잔해가 남아있다. 촌 사람의 말에 의하면 그것은 악귀의 침입을 막기 위함이라고 한다. 물론 고래의 위대한 힘과 蘇塗가 결합되어 산출된 신앙 형식일 것이다.
+또 함경도를 여행하면 우리는 종종 민가 문전에 「게껍질」의 달아맨 것을 볼 수 있다. 일종의 「검ㅅ줄」이겠지마는 그 종교적 의미는 「검ㅅ줄」과 같이 「금기」 (Taboo)가 아니요 게의 집는 위력을 악귀에게 시위하는 마술일 것이다. 「금기」와 마술의 差違는 소극적임과 적극적임에 있다. 「검ㅅ줄」 域 내는 신성한 장소임으로 그것은 부정한 자나 악정령의 출입을 금하는 「타부 - 」 된 지역이다. 원시인은 상시로는 절대로 남의 소유물이나 영역을 범하지 아니하였음으로 그러한 경계 관념에서 「검ㅅ줄」이 발생된 것이며 그 「검ㅅ줄」은 보통 일시적이요, 별로 시위적 의미는 없지마는 게 껍질은 상시적이요, 일반인의 출입을 허하는 것을 보면 악정령에 대한 마술적 시위일 것이 분명하다.
+또 평안 황해도 민가의 문전에는 종종 「松針」이란 것이 달려 있다. 松枝를 상시적 혹 일시적으로 단 것이다. 이것도 역시 「타부 - 」의 의미가 아니요 원래는 마술적 시위일 것이다. 該 지방 사람의 말을 들으면 송침은 악귀를 피할 수 있다고 한다. 이것은 「慵齋叢話」 2권 가 세시행사 내에 「二月 初 一日 花朝. 乘曉散松葉於門庭. 俗言, 惡其臭蟲. 而作針辟.」
+라고 한 것과 같이 송침의 찌르는 힘을 악귀나 臭蟲이 무서워 할 것이라고 생각하여 행하는 「매직」 (Magic)일 것이다.
+함경도 민가의 문전에는 흔이 「박」을 문ㅅ간에 상시적으로 매달아 두는 풍습이 있다. 이것도 「타부 - 」의 의미가 아니요, 마술일 것이다. 박의 마술력을 설명ㅎ고저 함에는 西村眞次＜32＞ 교수의 독보적 연구인 고대선박과 박에 관한 설명을 빌지 않을 수 없다. 西村씨의 설에 의하면(주7) 박은 「때배」 (筏船)와 같은 고대 선박에 부력을 주기 위하여 배의 하부 혹은 측부에 결부하였던 것이라고 한다. 해서 박은 항해자의 생명을 수호하며 귀물을 방지할 수 있는 마술력을 가진 것이라고 신앙되었음으로 일본 토속상의 박은 항상 바다와 관계를 가져 박의 호부를 차면 익사를 면하고 안전한 항해를 할 수 있다고 믿는 것이라고 한다. 조선의 白鳥 전설 (선녀 전설)의 주인공인 樵夫가 박을 타고 승천하는 것은 아마 공간과 해양을 혼동한 원시 사상의 산물인 것이다. 이렇게 발생된 박의 신앙으로 인하여 우리 민간은 표박 호부 박꼭지호부 등을 산출하였을 것이며 경상도의 방언이 표박을 「한울수박」이라 함도 결ㅎ고 우연한 일은 아닐 것이다. 그러한 박을 문전에 달아 두면 악귀가 침입ㅎ지 못할 것이라고 믿는 마술적 신앙은 그 이유를 용이히 알 수 있을 것이다.
+다시 우리 민간 신앙은 백마 피나 白犬 피를 악귀가 무서워한다고 한다. 전염병이 유행할 때 즉 악귀가 횡행할 때 혹은 누누이 악귀의 災病이 不絶할 때에 백마 피나 白犬 피를 문전과 四垣에 뿌려두면 악귀가 들어오지 못한다고 한다. 이것은 신앙상이나 설화상에만 존재하고 실제로 백마를 죽이는 일은 드물지마는 그것은 경제 관계로 인함이요 白犬을 죽이는 일은 때때로 볼 수 있다. 혈액 숭배는 세계 어느 민족 사이에도 있는 것임으로 煩論을 피하나 특히 백마 白犬의 피를 귀물이 무서워한다는 것은 백색 숭배의 원시 신앙에서 일어난 것이다. 백색 숭배에 대하여 동방의 재료로서 數言하면 「魏略」 (三國志 30)에는 「夫餘其俗... 居喪, 男女皆衣純白.」 이라 하여 이 白衣의 풍습은 지금까지도 우리에게 전승되어 있으며 「舊唐書」 199 上 百濟傳 중에는 「麟德二年八月. 隆到態津城. 與新羅王法敏. 刑白馬而盟. 先祀神祗 及川谷之神. 而後歃血. 云云」 이라 하여 당시 態津 도독으로 당에서 임명되었던 백제왕 夫餘隆과 신라왕이 더불어 백마의 피를 먹으면서 맹서하였던 것을 전한다. 피를 같이 마시는 것은 종교학상으로 보아 딴 의미가 있다. 즉 혈액을 같이 한다는 의미로 형제나 동족이 된다는 의미의 동맹이다. 이것이 변해서 지금 우리들은 「한 가마의 밥을 먹는다」는 것을 매우 중대시한다. 하지마는 국왕과 국왕 사이의 중대한 동맹에 백마를 반듯이 죽인 것은 백색을 신성시한 원시 사상의 소산이었을 것이다. 예하면 宋 葉隆禮의 「遼志」 중에 보이는
+「時擧兵. 必殺灰牛白馬. 祀天地及木葉山神.」
+「八月八日 國主殺白犬於寢帳前七步. 埋其頭露其嘴. 後七日 移寢帳於埋狗頭上. 北呼此節 爲擔褐嬭. 漢人譯云 擔褐是狗 嬭是狗.」
+「正月一日 國主以糯米飯. 白羊髓相和. 爲團如拳大. 於逐帳內. 各散四十九箇. 云云」
+이며 「遼志」와 「契丹國志」 27, 歲時 雜記 중의
+「冬至日國人殺白羊白馬白鴈. 各取生血和酒. 云云」
+이란 것은 몽고족 사이의 백색 숭배를 말하는 동시에 그들의 혈액 숭배를 의미하는 것이며 특히 白犬의 수호력을 그들은 신앙하였던 모양이다. 개는 집을 지키는 동물임으로 원시인들은 개의 수호력을 신앙하는 동시에 그것이 악정령도＜33＞ 방위하리라고 생각하였음으로 白犬의 피를 담에 뿌리던 것이었다. 고대 支那에서도 그러한 민속이 있었다. 예하면 漢, 應劭의 「風俗通義」 祀典 羊八은
+「殺狗磔邑四門. 太史公記 秦德公始殺狗. 磔邑四門. 以禦疊蓄. 今人殺白犬. 以血題門戶. 正月 白犬血. 辟除不祥. 取法於此也.」
+라고 하는 것이 그것이다. 秦 德公이 처음으로 개를 죽였다는 것은 물론 전설일 것이오, 이러한 사상은 원시 시대의 산물일 것이다. 支那人이 백색을 숭배한 수 例를 他에 구하면 「呂氏春秋」 권7 7월 紀에 있는
+「孟冬之月... 其帝少皞. 其神着收... 其祀門祭先肝... 天子居總章左个. 乘戎路. 戎路 白路也. 駕白賂駥. 載白旂. 衣白衣. 服白玉. 云云」
+이란 것은 분명히 백색 숭배의 證跡이며 明, 陶宗儀의 「南村輟耕錄」 권1 白道子의 條가 「國俗尙白. 以白爲吉. 云云」 이란 것도 그 一證이다. 부여인 조선인 女眞人 - 개괄적으로 말하면 만주인이나 조선인이 昔日로붙어 백의를 좋아한 것은 아마 백색 숭배가 그 기원적 의미일 것이다. 女眞人의 백의는 宋, 宇文懋昭의 「大金國志」 39 남녀 관복이 「金俗, 好衣白... 婦人衣白. 云云」이라고 명백히 말하였다.
+웨 백색을 신성시하였느냐 하는 문제는 인류학자의 설명을 들을 여지도 없이 광명을 좋아하고 암흑을 싫어하던 원시 사상의 산물이다. 日中은 백색이었다. 그 때에는 모든 악귀 악물이 자취를 감추고 사람의 인식 작용이 명료히 활동되는 때었다. 함으로 백색은 악정령을 구축하는 위대한 존재라고 원시인들은 생각하였다. 支那人이 동방을 백색이라 함도 태양이 동방으로붙어 일어나서 세계가 백색으로 화하는 점에서 생각한 것이었다. 이러한 의미로서 백색 숭배는 태양 숭배의 부산물이었다.
+다음에 악정령이 무서워하는 것은 光과 음향이라고 한다. 예하면 밤ㅅ중에 행보하는 자는 登籠이나 松明 횃ㅅ불 같은 것을 가져야 되며 閉藏하였던 의복 기물은 때때로 일광에 曝射하여야 된다고 한다. 그러면 閉藏物에 생기던 邪 (악정령)가 달아난다고 한다. 악정령이 이렇게 火光이나 일광을 무서워한다는 사상은 물론 태양의 광선이 악정령을 쫓는다는 사상과 일치하는 것이며 광명을 가지면 아무리 暗夜라도 인식 작용이 다소간 명료하여 짐으로 암흑 중 보다는 마음이 든든해지는 것이다. 마음이 든든해진다는 것은 환각이 활동하지 아니함을 의미함이요 환각이 활동하지 않으면 정령이 발생되지 아니함으로 원시인들은 火光이나 일광을 무서워해서 악정령들이 도망하는 것이라고 추론하였다.
+다시 전술한 尹 무녀와 崔 맹인의 말에 의하면 귀신은 금속의 음향을 무서워하며 북ㅅ소리와 장고 소리며 모든 음향을 무서워한다고 한다. 함으로 여행자는 馬頸에 방울을 달며, 巫覡은 鑼 鈸 장고 등을 가졌으며 맹인은 복을 가진 것이라고 한다. 어두운 뒤ㅅ간에 들어갈 때나 비인 집에 들어갈 때나 모든 어두운 곳에 들어갈 때는 반듯이 기침을 세 번하여 거긔 있는 악귀를 쫓는 필요가 있다고 한다. 정령이 음향을 무서워한다는 추리는 첫째로 사람이나 동물은 정숙한 상태에서 돌연히 고음을 들으면 거위 반사적으로 음향의＜34＞ 나는 곳을 향할 뿐 아니라 일종 공포감을 느끼는 것임으로 원시인들은 악정령도 음향에 놀라아 달아날 것이라고 생각하였을 것이며 둘째로는 음향은 사람에게 의식의 긴장을 준다. 함으로 정숙한 상태에서는 의식이 산만하여 환각이 일어나기 쉽지마는 음향으로 그것이 긴장 통일되면 환각이 그렇게 활동되지 않는다. 그레서 그들에게는 악정령이 보이지 아니하었다. 이것을 원시인들은 악정령이 음향을 무서워해서 도피하는 것이라고 추리하였다. 셋째로 그들의 악정령은 모도 정적 존재임으로 - 정적 존재인 것은 정령이 항상 정숙한 몽중이나 폐가 洞穴 내에 출몰하고 그 행동에도 일절 음향을 伴하지 아니함으로 결론되었을 것이다. - 더욱 음향을 무서워할 것이라고 추론하였을 것이다. 「遼志」의 소위 爆塩이며 晋, 宗懍의 「荊楚歲時記」가
+「正月一月... 鷄鳴而起. 先於庭前爆竹, 以辟山臊惡鬼」라는 폭죽이며 宗懍의 同書가 「正月木日夜, 蘆炬火. 照井厠中. 則百鬼走」
+라는 사상도 전술한 원시 사상의 산물일 것이다.
+
+3. 鷄聲
+우리 민간에서는 닭소리를 귀신이 무서워한다고 한다. 함으로 祖先의 제사는 鷄鳴 전에 畢하도록 하여야 된다고 하기도 하며 밤ㅅ중에 횡행하던 독개비 鬼物같은 것도 鷄鳴聲만 들으면 四散하여 버린다고 한다. 이러한 예는 민간 설화중에 수없이 발견할 수 있다. 支那에도 이러한 신앙이 있다. 예하면 「荊楚歲時記」가 正月旦의 條에
+「帖畵鷄戶上. 懸葦索於其上. 揷桃符其傍. 百鬼畏之」 라고 한 것을 晋, 王子年의 「拾遺記」는 다시 상술하여 「堯在位七十年... 有祗支之國. 獻重明之鳥. 一名雙晴. 言雙晴在目. 狀如鷄. 鳴似鳳... 能搏逐猛獸虎狼. 技妖災. 群惡不能爲害. 飴以瓊膏. 或一歲數來. 或數歲不至. 國人莫不掃酒門戶. 以望重明之集. 其未至之時. 國人或刻木或鐵金. 爲此鳥之狀. 置於門戶之間. 則魑魅醜佰. 自然退伏. 今人每歲元日. 刻木鑄金. 或圖畵爲鷄於覑戶之上者. 此之遺像也.」
+라고 하여 支那人이 門戶 上에 그려 붙이는 닭의 기원형은 重明鳥라 하며 百鬼가 그 새를 무서워한다고 전한다. 하나 이것은 물론 후세의 전설이요 支那식의 과장일 것이며 원형은 보통의 닭일 것이다. 닭은 晨을 고하고 晨은 그 광선으로서 악정령을 驅逐함으로 원시인들은 닭이 악귀를 쫓는 것이라고 생각하였을 것이다.
+
+4. 呪語
+前述한 退鬼時의 呪語의 외에 나는 다른 완전한 呪語를 발견하지 못하였다. 巫覡 중에는 맹인과 같이 불경의 주문을 원어로 읽는 자도 있으나 나로서는 그것의 내용이 어떠한 것인지 알 수 없다. 물론 악정령을 威嚇하는 呪句의 연속으로 된 것이겠지마는 발달의 정도와 내용 여하는 알 수 없다.
+
+본장에서 기술한 바에 의하면 악정령은 그것이 사람에게 崇憑할 경우에는 崇憑된 사람보다 항상 강하다고 생각되었다. 해서 강한 사람에게는 그보다 약한 정령은 붙지 못하지마는＜35＞ 그보다 더 강한 정령은 崇憑할 수 있음으로 결국 사람은 모도 악정령을 무서워하였다. 하고 정령이란 눈에 보이지 아니하는 존재인 것 맛치 사람보다는 强味를 가젔으며 원시인들은 언제 정령에게 습격을 당할는지 알 수 없음으로 전전긍긍한 생활을 하였다. 하나 정령의 힘은 졀대적이 아니요 사람은 그들의 마술력으로서 諸惡精을 退穰할 수도 있다고 믿었다. 혹은 무기로서 혹은 諸 악령의 공포하는 光 音 기타의 물체로서 驅穰할 수 있다고 하였다. 이렇게 驅穰하는 방법이 마술(Magic)이다. 함으로 마술 사상에서는 정령은 초자연적 또는 초인간적 존재가 아니요 사람과 정령은 동일한 수준 상에 있었다. 이것이 종교과는 다른 점이다.
+한데 넓은 의미로 보면 사람은 모도 마술력을 가졌었다. 光과 音으로서 악귀를 驅逐하는 것은 아무라도 할 수 있는 일이다. 하나 그것은 넘우 보편적인 까닭에 모든 사람을 마술자라고는 하지 않는다. 종교학자의 마술자란 것은 일반 사람보다는 더 특별한 마술력을 가진 자를 가르침이다. 그런데 최초에 그러한 마술자(샤-만)로 사회에서 容許한 자는 누구었겠는가? 다시 말하면 기원적 「샤-만」의 상태는 어떠하였겠는가? 그것은 Kroeber 교수가 상상한 바와 같이 부족 중에 어떤 열정자가 제가 정령과 교통할 수 있으며 악정령을 驅穰할 수 있다고 주장하여 (1장 참조) 돌연 발생한 것이라고는 생각하기 어렵다. 교수의 돌연 발생설은 직업적 「샤-만」에는 적용될지 모르겠으나 「샤-만」이 최초붙어 직업적 개인적이었을 것이라고는 믿기 어렵다.
+원시인에게는 사회적 환경이나 상상 上의 환경이 동일 수준 상에 있었다. 해서 사회상에서 유력한 자는 악정령에 대하여서라도 유력하리라고 생각하였을 것이다. 하나 가장 강한 자 (예하면 추장 가장 등)가 반듯이 마술자가 되었으리라고는 단언ㅎ기 어렵다. 그러한 예(제정 일치)도 있지마는 그렇지 않은 예도 있다. 그것은 별 문제로 하더라도 여하간 상당한 사회적 힘을 가진 자가 마술자로 - 적어도 마술력을 가장 많이 가진 자라고 생각되지 아니하였는가 하는 추리가 용납될 수 있을 것이다. 하면 그 최초의 마술자 즉 「샤-만」은 어떠한 자였으며 그 종류와 성질 발달 변천은 조선 내에서 어떠하였는가? 그것은 다음 장의 할 일이다. (본장 완결)
+
+註
+(1) Edward B. Tylor, Anthropology, pp. 350-1.
+(2) Czaplicka, Aboriginal Siberia, p. 164.
+(3) E. G. Ravenstein, Russians on the Amur, p. 385.
+(4) Ibid, p. 397.
+(5) W. J. Perry, The Origin of Magic and Religion, London, 1923, pp. 8-10.
+(6) Eliot Smith, The Evolution of the Dragon, Manchester, 1918, pp. 150-3.
+(7) S, Nishimura, A study of the Ancient ship of Japan, part Ⅱ, "The Gourd ship". 及 西村眞次 「文化移動論」 209-210頁＜36＞
+＜27-36＞

@@ -1,0 +1,310 @@
+Magazine Title: 동광 제8호
+Publication Date: 1926년 12월 01일
+Article Title: 朝鮮文의 變遷 (The Evolution of Korean Writing)
+Author: 鄭昞淳
+Article Type: 논설 (Editorial/Article)
+
+The Evolution of Korean Writing
+						By Chŏng Pyŏngsun
+
+If we ask when Korean writing began, some say our script existed since the ancient Paedal era, and that there were even writings by Sinji. However, as there is no accurate evidence for this yet, let us set it aside and speak according to the records.
+
+1.  *Idu* script (吏讀文), said to have been created by Sŏl Ch'ong during the Silla period.
+2.  *Kugyŏl* (口訣), an abbreviated form of *Idu* script.
+3.  *Ŏnmun* (諺文), created by King Sejong of the Yi Dynasty.
+
+1. *Idu* Script
+*Idu* script (also *Ido*, 吏道) is a method of writing our language by borrowing the sounds and meanings of Chinese characters (漢字). For example, in the *Song of Ch'ŏyong* (處容歌) from the *Samguk Yusa* (三國遺事):
+
+東京明期月良 (Tonggyŏng palkŭn tar-e) [In the bright moon of Tonggyŏng (Gyeongju)]
+夜入伊遊行如何 (pam tŭri nonidaga) [Having caroused late into the night]......
+
+It is this kind of writing.
+In the postface to the *Great Ming Code* (大明律 跋文) from the 4th year of Yi Dynasty's King T'aejo (Hongmu 乙亥), it is written:
+
+"During the Three Han (三韓) period of the Yi Dynasty (李朝), the writing system created by Sŏl Ch'ong was called *Idu*..."
+
+Based on this, people today generally believe Sŏl Ch'ong created *Idu* script. However, the *Samguk Sagi* (三國史記) *Biographies* (列傳) state, "[He] explained the Nine Classics using the vernacular language (以方言解九經)." Thus, Ch'ong merely read the Nine Classics in the vernacular language (方言); he did not create *Idu* script.
+Although it is unknown who the creator of *Idu* script was, it is a fact that it flourished from the Samhan period through the middle period of the Three Kingdoms – until King Kyŏngdŏk of Silla translated place names into Sino-Korean (漢譯).
+Examining the place names, personal names, or official titles found in the *Samhanjŏn* (三韓傳), *Samguk Sagi*, or *Samguk Yusa*, such as:
+
+Piri (卑離) (pul) Mori (牟離) (mul)
+Kuya (狗耶) (kol) Saro (斯盧) (sal)
+Sarŏri (沙熱伊) (sŏnŭri) Talguhwa (達句火) (Taegubul)
+Mosan (母山) (ŏmmö) Soji (炤智) (pich'i)
+Imgŏl (壬乞) (im'gŏm) Hwŏngbu (荒夫) (kŏch'iru)
+Kakkwan (角干) (soebbulhan) Sin'yuji (臣遺智) (sigŏnch'i)
+
+Words like these clearly demonstrate they were all rendered in *Idu*. This later became the script used by clerks and minor officials (吏胥), thus acquiring the name *Idu* (吏讀).
+
+2. *Kugyŏl* Script
+*Kugyŏl* script (口訣文) simplified the strokes (字晝) of Chinese characters to write *Idu* script more concisely (簡捷). For example:
+
+ヘ (i) *(nal) ソ(ha) ヌ(no) ㅁ(ko) (ra)
+
+These are examples.
+*Kugyŏl* script seems to have been widely used during the late Three Kingdoms period and the North-South States period (南北朝). <47>
+In the *Kŭmgo Kigwan* (今古奇觀), the section "Li T'aipo Writes the Barbarian Letter While Drunk" (李謫仙醉草嚇蠻書) allows us to guess that the state letters (國書) of Parhae (渤海) were written in *Kugyŏl*.
+The *History of Jin* (*Kŭm Sa*, 金史) *Biographies* (列傳) state:
+
+"The Jurchen (女眞) initially had no script. After defeating Liao (遼) and capturing Khitans (契丹)... Wanyan Hŭi'i (完顔希伊) modeled Jurchen script (女眞字) after the Khitan script (契丹字)."
+
+Since the Khitans destroyed Parhae and imitated its culture and institutions (문물), the fact that the Jurchen destroyed the Khitans and created the Jurchen script based on the Khitan script must surely be an inheritance (遺傳) from Parhae's *Kugyŏl*.
+Regarding Japanese *kana* (假名), there is a saying that it was first transmitted to Tsushima Province (對馬國) by the Paekche (百濟) monk Ni Pŏmmyŏng (尼 法明). Moreover, in Tomo Nobutomo's (伴信友) *Kajabonmal* (假字本末), Volume 2:
+
+㉨ Abbreviation of 須, also sometimes written as *, abbreviation of this form 盖. 寸 Full form of 寸. 爪 Abbreviation of 衆, ancient form of 衆 written as 依盖, this is a cursive variant.
+* Abbreviation of 世, same as cursive *kana*. セ Same as above, currently common use. ヒ Same as above, abbreviation of O, common in various texts 世佐. キ Same as above, abbreviation of cursive 者.
+戈 Same as above, with added dot.
+
+Looking at this, it seems *kana* is also likely an inheritance from our *Kugyŏl*.
+However, in our Chosŏn (朝鮮), due to the flourishing of Chinese characters (漢字), neither *Idu* nor *Kugyŏl* developed further. They gradually diminished, eventually being used only as grammatical markers (吐) for Chinese characters. Now, only remnant forms (殘形) like this remain:
+
+人-有禮則安ソロ 無禮則危ソコ 故ヌ曰禮者卩不可學者ソコ
+(In-yurye chŭk an solo murye chŭk wi soko ko nu wal yeja p pulkahak cha soko sa)
+
+3. *Ŏnmun*
+*Ŏnmun* (諺文) is the national script (國字) we use today.
+
+ㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣ
+ㄱㄴㄷㄹㅁㅂㅅㅈㅊㅋㅌㅍㅎㅇ
+
+It consists of eleven vowels (母音) and thirteen consonants (子音) like these. The *Veritable Records of King Sejong* (*Sejong Sillok*, 世宗實錄) states:
+
+"His Majesty believed that while various nations each created scripts to record their national vernaculars (方言), our country alone lacked one. Thus, he created 28 letters, naming them *Ŏnmun* (諺文)."
+
+As this indicates, *Ŏnmun* was newly created by King Sejong of this dynasty (本朝) and promulgated (公布) under the name *Hunminjŏngŭm* (訓民正音).
+Regarding the origin (起源) of *Ŏnmun*, there are several theories (學說):
+
+Ancient Seal Script Origin Theory (古篆起源說): *Ang'yŏp Yipki* (盎益葉記) by Yi Tŏngmu (李德懋)
+Sanskrit Script Origin Theory (梵字起源說): *Yongje Ch'onghwa* (慵齋叢記) by Sŏng Hyŏn (成俔); *Chibong Yusŏl* (芝峰賴說) by Yi Su-gwang (李晬光)
+Mongolian Script Origin Theory (蒙古字起源說): *Sŏngho Sasŏl* (星湖僿說) by Yi Ik (李瀷)
+Speech Organs Pictograph Theory (發音器官象形說): *Hunminjŏngŭm Tohae* (訓民正音圖解) by Sin Kyŏngjun (申景濬); *Kyŏngse Chŏngŭm Tosŏl* (經世正音圖說) by Hong Yangho (洪良浩); *Ŭijŏng Kungmun Chamo Punhae* (擬定國文字母分解) by Kang Wi (姜瑋)
+
+In any case, at that time, there were institutions for foreign language learning (外國語 學習機關), and the scripts of various countries like Mongolia (蒙古), Manchu (滿洲), Jurchen (女眞), Khitan (契丹), Uyghur (回鶻), and Japan (日本) were studied. Sin Suktan's (申叔丹 - likely Sin Sukchu) *Pohanjip* (保閒集) states:
+
+"King Sejong the Great (世宗莊憲大王) paid attention to phonology (音韻), deeply researched its principles (窮硏底蘊), and created the several letters of *Hunminjŏngŭm*..."
+
+Thus, it is a fact that King Sejong created it based especially on phonology (音韻學), referencing the scripts of various countries.
+However, *Ŏnmun* also suffered the conquest (征服) of Hanmun (漢文) and failed to develop. The groups addicted (中毒) to Chinese learning (漢學) treated their own script with utmost contempt (賤待), and the very name *Ŏnmun*, meaning vulgar script (상말 글), actually arose from this contempt. (End) <48>
+
+**Summary**
+
+This 1926 article by Chŏng Pyŏngsun outlines the history of Korean writing systems, starting with doubts about legendary origins and focusing on recorded systems: Idu, Kugyŏl, and Ŏnmun (Hangŭl). The author disputes Sŏl Ch'ong as the creator of Idu, presenting it as an older system used for transcription. Kugyŏl is described as an abbreviation of Idu, potentially influencing Jurchen script and Japanese Kana. Ŏnmun is attributed to King Sejong, created based on phonology and referencing other scripts, but its development was suppressed by the dominance of Hanmun and the disdain of the elite, leading to its derogatory name. From a historical perspective, the article reflects early 20th-century Korean nationalist scholarship attempting to establish a long history for Korean writing distinct from Chinese influence, while also acknowledging the historical marginalization of the indigenous script (Hangŭl). The connections drawn between Kugyŏl, Jurchen, and Kana, and the explicit discussion of the term "Ŏnmun" as derogatory, are particularly interesting for understanding colonial-era perspectives on linguistic identity and history.
+
+**Named Entities**
+
+鄭昞淳	정병순	Chŏng Pyŏngsun
+倍達	배달	Paedal
+神誌	신지	Sinji
+新羅	신라	Silla
+薛聰	설총	Sŏl Ch'ong
+吏讀文	이두문	Idu script
+口訣	구결	Kugyŏl script
+李朝	이조	Yi Dynasty (Chosŏn)
+世宗	세종	Sejong
+諺文	언문	Ŏnmun
+三國遺事	삼국유사	Samguk Yusa
+處容	처용	Ch'ŏyong
+東京	동경	Tonggyŏng (Gyeongju)
+太祖	태조	T'aejo
+大明律	대명률	Taemyŏngnyul (Great Ming Code)
+三國史記	삼국사기	Samguk Sagi
+九經	구경	Nine Classics
+景德王	경덕왕	King Kyŏngdŏk
+三韓	삼한	Samhan
+卑離	비리	Piri
+牟離	모리	Mori
+狗耶	구야	Kuya
+斯盧	사로	Saro
+沙熱伊	사열이	Sarŏri
+達句火	달구화	Talguhwa
+母山	모산	Mosan
+炤智	소지	Soji
+壬乞	임걸	Imgŏl
+荒夫	황부	Hwŏngbu
+角干	각간	Kakkwan
+臣遺智	신유지	Sin'yuji
+南北朝	남북조	North-South States period
+今古奇觀	금고기관	Kŭmgo Kigwan
+李謫仙	이적선	Yi Chŏksŏn (Li Bai / Li T'aipo)
+渤海	발해	Parhae
+金史	금사	Kŭm Sa (History of Jin)
+女眞	여진	Yŏjin (Jurchen)
+遼	요	Yo (Liao)
+契丹	계단	Kyedan (Khitan)
+完顔希伊	완안희이	Wanyan Hŭi'i (Wan-yen Hsi-yin)
+日本	일본	Japan
+假名	가명	Kana
+百濟	백제	Paekche
+尼 法明	니 법명	Ni Pŏmmyŏng
+對馬國	대마국	Taemaguk (Tsushima Province)
+伴信友	とも のぶとも	Tomo Nobutomo
+假字本末	かじほんまつ	Kajabonmal
+朝鮮	조선	Chosŏn (Korea)
+訓民正音	훈민정음	Hunminjŏngŭm
+李德懋	이덕무	Yi Tŏngmu
+盎益葉記	앙엽익기	Ang'yŏp Yipki
+成俔	성현	Sŏng Hyŏn
+慵齋叢記	용재총화	Yongje Ch'onghwa
+李睟光	이수광	Yi Su-gwang
+芝峰賴說	지봉유설	Chibong Yusŏl
+李瀷	이익	Yi Ik
+星湖僿說	성호사설	Sŏngho Sasŏl
+申景濬	신경준	Sin Kyŏngjun
+訓民正音圖解	훈민정음도해	Hunminjŏngŭm Tohae
+洪良浩	홍양호	Hong Yangho
+經世正音圖說	경세정음도설	Kyŏngse Chŏngŭm Tosŏl
+姜瑋	강위	Kang Wi
+擬定國文字母分解	의정국문자모분해	Ŭijŏng Kungmun Chamo Punhae
+蒙古	몽고	Monggo (Mongol)
+滿洲	만주	Manju (Manchu)
+回鶻	회골	Hoegol (Uyghur)
+申叔丹	신숙단	Sin Suktan (Likely a typo for 申叔舟, Sin Sukchu)
+保閒集	보한집	Pohanjip
+
+**Glossary**
+
+朝鮮文	조선문	Korean writing/literature
+變遷	변천	Changes, transitions
+잇섯는가	있었는가	Was there (Older spelling of 있었는가)
+上古	상고	Ancient times
+업스니	없으니	Since there is not (Older spelling of 없으니)
+吏讀文	이두문	Idu script (using Hanja for sound/meaning)
+口訣	구결	Kugyŏl script (simplified characters for grammatical elements)
+諺文	언문	Ŏnmun (Vernacular script, early/sometimes derogatory name for Hangŭl)
+音訓	음훈	Sound and meaning (of Hanja characters)
+가튼	같은	Like, same as (Older spelling of 같은)
+方言	방언	Vernacular language, dialect (here referring to native Korean as opposed to Classical Chinese)
+旺盛	왕성	Flourishing, prosperous
+漢譯	한역	Translation into Chinese characters/Sino-Korean
+상고해 보다	상고해 보다	To examine, to consider, to investigate (historical context)
+뒤ㅅ날	뒷날	Later days, the future (Older spelling with medial ㅅ)
+吏胥	이서	Clerks, minor government functionaries
+簡捷	간첩	Simple and concise
+字晝	자획	Character strokes (Older term, usually 획)
+省略	생략	Omission, abbreviation
+末葉	말엽	End period, later stage
+만히	많이	Many, much (Older spelling of 많이)
+國書	국서	State letter, official diplomatic document
+模倣	모방	Imitation, copying
+遺傳	유전	Inheritance, transmission (of tradition/culture)
+융성	융성	Prosperity, flourishing
+發達	발달	Development, progress
+줄어지어서	줄어져서	Becoming smaller, diminishing, declining (Older verb form)
+吐	토	Grammatical markers (particles, endings) attached to Hanja in Kugyŏl style
+殘形	잔형	Remnant form, vestige
+國字	국자	National script
+母音	모음	Vowel
+子音	자음	Consonant
+公布	공포	Promulgation, official announcement
+起源	기원	Origin
+學說	학설	Theory, scholarly hypothesis
+古篆	고전	Ancient seal script (Chinese calligraphy style)
+梵字	범자	Sanskrit script (often referring to Siddham script in East Asian Buddhism)
+蒙古字	몽고자	Mongolian script
+發音器官	발음기관	Organs of speech
+象形	상형	Pictograph, representing shapes (principle of character formation)
+學習機關	학습기관	Learning institution
+音韻學	음운학	Phonology
+參考	참고	Reference, consultation
+征服	정복	Conquest, subjugation (here, metaphorical dominance of Hanmun)
+漢學	한학	Chinese Classics studies, Sinology
+中毒	중독	Poisoning, addiction (here, metaphorical excessive devotion)
+賤待	천대	Contempt, disdain, looking down upon
+상말	상말	Vulgar speech, common language (as opposed to refined or literary language)
+
+
+---------------------------
+
+
+잡지명	동광 제8호
+발행일	1926년 12월 01일
+기사제목	朝鮮文의 變遷
+필자	鄭昞淳
+기사형태	논설
+
+朝鮮文의 變遷
+						鄭昞淳
+朝鮮글이 언제부터 잇섯는가 하면 上古 倍達 때부터 벌서 우리 글이 잇섯고 神誌의 저서까지 잇섯다고 하나 아직 그에 대한 正確한 근거가 업스니 그만 두기로 하고 記錄에 잇는대로 말하면
+1. 新羅 때 薛聰이 지엇다는 吏讀文과
+2. 吏讀文의 略字인 口訣과
+3. 李朝 世宗꼐서 지으신 諺文이 있다.
+
+1. 吏讀文
+吏讀文(혹은 吏道)은 漢字의 音訓을 빌어서 우리의 말을 적은 것이니 예를 들면 三國遺事 處容歌에
+
+東京明期月良(동경 밝은 달에)
+夜入伊遊行如何(밤 들이 노니다가)......
+
+이 가튼 것이다.
+李朝 太祖 4년(洪武 乙亥) 大明律 跋文에
+
+李朝三韓時 薛聰所製文字 謂之吏讀...
+
+라고 적히엇다고 지금 사람들은 대개 薛聰이 吏讀文을 지은 줄로 아나 三國史記 列傳에 『以方言解九經』이라고 하엿스니 聰은 方言으로 九經을 읽엇슬 뿐이요 吏讀文을 지은 일은 업다.
+吏讀文의 작자가 누구인지는 알 수 업스나 三韓 때부터 삼국의 中葉까지 - 新羅 景德王이 지명을 漢譯할 때- 旺盛하엿던 것은 사실이다.
+三韓傳中이나 三國史記나 三國遺事에 보인 地名 人名 혹 官名을 상고해 보면
+
+卑離(불) 牟離(물)
+狗耶(골) 斯盧(살)
+沙熱伊(서늘이) 達句火(대구불)
+母山(엄뫼) 炤智(비치)
+壬乞(임검) 荒夫(거칠우)
+角干(쇠뿔한) 臣遺智(시건치)
+
+이 가튼 말이 모도 吏讀로 된 것을 잘 증명한다. 이것이 뒤ㅅ날 吏胥들이 쓰는 글이 되어 吏讀란 이름을 얻게 된 것이다.
+
+2. 口訣文
+口訣文은 吏讀文을 簡捷하게 쓰기 위하여 漢字의 字晝을 省略한 것이니 예를 들면
+
+ヘ(이) *(날) ソ(하) ヌ(노) ㅁ(고) (라)
+
+이와 가튼 것이다.
+口訣文은 三國의 末葉과 南北朝 때에 만히 사용된 듯하다.＜47＞
+今古奇觀에
+
+李謫仙醉草嚇蠻書
+
+는 渤海의 國書가 口訣로 되엇던 것을 짐작할 수 잇고 金史列傳에
+
+女眞初無文字 及破遼獲契丹... 完顔希伊 倣契丹字 製女眞字
+
+라고 하엿스니 契丹이 渤海를 滅하고 문물을 模倣하엿슨즉 女眞이 契丹을 멸하고 契丹字를 본따서 女眞字를 지엇다는 것은 반듯이 渤海 口訣의 遺傳일 것이다.
+日本의 假名은 百濟의 尼 法明이 처음으로 對馬國에 전하엿다는 말도 잇거니와 伴信友의 假字本末 下卷에
+
+㉨ 須之省, 又按衆或作*盖此軆之省   寸 寸之全部   爪 衆之省, 按衆古体 作依盖此草變
+* 世之省, 草假字同   セ 同上今通用   ヒ 同上省O諸本世佐通用   キ 同上草者之省
+戈 同上加點
+
+이것을 보면 假名이 역시 우리 口訣의 遺傳인 듯하다.
+그러나 우리 朝鮮에서는 吏讀나 口訣이 漢字의 융성으로 말미암아 發達되지 못하고 점점 줄어지어서 漢字의 吐로만 쓰이다가 지금은
+
+人-有禮則安ソロ 無禮則危ソコ 故ヌ曰禮者卩不可學者ソコ
+
+이 가튼 殘形만 남기어 노코 말앗다.
+
+3. 諺文
+諺文은 지금 우리가 쓰는 國字니
+
+ㅏㅑㅓㅕㅗㅛㅜㅠㅡㅣ
+ㄱㄴㄷㄹㅁㅂㅅㅈㅊㅋㅌㅍㅎㅇ
+
+이와 가튼 母音 열한자와 子音 열석자로 된 것이다. 世宗實錄에
+
+上 以爲諸國 各制文字 以記其國方言 獨我國無之 遂制子母二十八字 名曰諺文
+
+이라 한 것 가티 諺文은 本朝 世宗께서 새로 지으시고 訓民正音이란 이름으로 公布한 것이다
+諺文 起源에 關하여는 여러지가 學說이 잇다.
+
+古篆起源說 盎益葉記(李德懋)
+梵字起源說 慵齋叢記(成俔) 芝峰賴說(李晬光)
+蒙古字起源說 星湖僿說(李瀷)
+發音器官象形說 訓民正音圖解(申景濬) 經世正音圖說(洪良浩) 擬定國文字母分解(姜瑋)
+
+어쨋던지 이때에 外國語 學習機關이 잇섯고 蒙古, 滿洲, 女眞, 契丹, 回鶻, 日本 여러 나라 文字를 硏究하엿고 申叔丹의 保閒集에
+
+世宗莊憲大王 留意音韻 窮硏底蘊 創製訓民正音若干字...
+
+라 하엿스니 世宗께서 여러 나라 文字를 叅考하시고 특별히 音韻學을 근거로 지으신 것은 사실이다.
+그러나 諺文도 漢文의 征服을 바다 발달되지 못하고 漢學에 中毒된 무리가 제 글을 賤待하기 여지 업섯스며 상말 글 곳 諺文이란 名稱도 실상 그 賤待 밧는 가온대로서 나온 것이다.(끗) ＜48＞
+＜47-48＞

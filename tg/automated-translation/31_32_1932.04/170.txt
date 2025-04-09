@@ -1,0 +1,510 @@
+Magazine Title: 동광 제32호
+Publication Date: 1932-04-01
+Article Title: 訓民正音의 性質과 價値, 朝鮮文字의 歷史的 考察(10) (The Nature and Value of Hunminjŏngŭm, A Historical Study of Korean Writing (10))
+Author: 金允經 (Kim Yun'gyŏng)
+Article Type: 논설 (Editorial/Article)
+
+The Nature and Value of Hunminjŏngŭm, A Historical Study of Korean Writing
+						Kim Yun'gyŏng
+
+Regarding the content, that is, the structure or nature of Hunminjŏngŭm, it has been clearly revealed in the main text mentioned before, but now I would like to think about it a little more.
+
+First, the total of twenty-eight letters were divided into 3 sounds (聲). This refers to dividing one syllable into 'Initial Sound' (初聲), 'Medial Sound' (中聲), and 'Final Sound' (終聲). The Initial Sound refers to the consonants used at the beginning of a syllable, the Medial Sound refers to the vowels in the middle of a syllable, and the Final Sound refers to the consonants at the end of a syllable. If a syllable consists only of a Medial Sound, i.e., a vowel, without an Initial or Final Sound, a null placeholder, ㅇ, is placed in that position and considered the Initial or Final Sound. For example, the syllable '阿' (A) consists only of the Medial Sound (vowel) 'ㅏ', but the Initial and Final Sounds are filled with ㅇ to write '아ㅇ'. The syllable '家' (Ka) consists only of an Initial and Medial Sound, but ㅇ is attached in the Final Sound position, writing it as '가ㅇ'. However, nowadays, when the Final Sound (called *pach'im*) position is empty, ㅇ is not attached, and it has become the custom to use ㅇ only when the initial sound is not a consonant but a vowel, like in '아'. Using ㅇ as a final consonant has come to mean  [ng]. However, this distinction of 3 sounds gives names to the order of sounds within a syllable, not their properties. If we classify the 28 letters of Hunminjŏngŭm using today's phonological terms, the Initial Sounds (also used as Final Sounds) correspond to consonants, and the Medial Sounds correspond to vowels. Also, it should be understood that Initial or Final Sounds are names commonly used for single and doubled consonants, and Medial Sounds are names commonly used for single and doubled vowels.
+
+Second, the 17 Initial Sounds were divided into 7 phonetic categories (音). Namely, Velar (牙), Alveolar (舌), Labial (唇), Dental (齒), Glottal (喉), Semi-alveolar (半舌), and Semi-dental (半齒). This belongs to a classification based on the relationship between the place and manner of articulation in phonetics. Compared to today's classification, there might be some inadequate points, but considering that today's linguistics established itself as a science only recently in the 19th century, this Hunminjŏngŭm from over 480 years ago must be considered the oldest phonological research.
+
+Third, besides the 17 Initial Sounds, 'Labial Light Sounds' (唇輕音) as Initial Sounds are defined. These are , ᅗ, ᄝ, which are formed by writing ㅇ below the labial sounds ㅂ, ㅍ, ㅁ. However, while the pronunciation of the original 17 Initial Sounds is explained, there is no explanation for these. <62> From later explanations like 'pronounce by blowing air out while about to close the lips but not quite closing them' (將合勿合而吹氣出聲), we can guess their pronunciation. I don't know a comparable sound for ᄝ, but  could be said to be close to the English V or German W, and ᅗ close to F or ph.
+
+Fourth, besides the 17 Initial Sounds, doubled sounds (並書音) of ㄱ, ㄷ, ㅂ, ㅈ, ㅅ, ㅎ are also defined. These are ㄲ, ㄸ, ㅃ, ㅉ, ㅆ, . These are doubled consonants called the 'tense sounds' (된소리) of their respective single sounds. Since European scripts cannot distinguish between such single and doubled sounds, these sounds are probably unique to us.
+
+Fifth, while the above mentioned the doubling of the same type of Initial Sound, doubling by combining different types of Initial Sounds was also prescribed. This is referred to as 'When Initial Sounds are used together, write them side-by-side, same for Final Sounds' (初聲合用則並書終聲同). There is no restriction on this. It's a rule stating that the 17 Initial Sounds can be combined according to the sounds of words, so their number is unlimited. Examples include , ,  , , , ... Thus, we can see that the Initial Sounds (consonants) of Hunminjŏngŭm, besides the original 17 letters, include the Labial Light Sounds , ᅗ, ᄝ, the doubled sounds ㄲ, ㄸ, ㅃ, ㅉ, ㅆ, , and also the combined sounds like , , ... mentioned just now. Therefore, the consonants of Hunminjŏngŭm are truly abundant. However, I think that the Labial Light Sounds or sounds like  ,  were created to transcribe foreign sounds, not for writing our language.
+
+Sixth, the 4 tones (聲) are defined. Namely, 'Departing Tone' (去聲), 'Rising Tone' (上聲), 'Level Tone' (平聲), and 'Entering Tone' (入聲). However, since our language only has distinctions of length, the fact that distinctions including pitch were prescribed is thought to be for transcribing the sounds of Chinese characters (漢文). In a phonetic script like ours, there is little risk of confusing words with the same sound, so it's irrelevant. But in Chinese, which is an ideographic and monosyllabic language, there are many words with different meanings but the same sound, leading to much confusion. Therefore, without such complex distinctions of the 4 tones, it's impossible to distinguish between words. Thus, when Hunminjŏngŭm was created during a time of close interaction with Chinese characters, the 4 tones were prescribed under its influence. This distinction of 4 tones is a regulation concerning the length and pitch of the Medial Sound rather than the Initial Sound. For the Departing Tone, one dot is added to the left; for the Rising Tone, two dots are added; for the Level Tone, there is no mark; and for the Entering Tone, dots are added similarly, but it is described as abrupt.
+
+The Sole Weakness of the Correct Sounds (正音)
+Seventh, two rules were established for writing sounds sequentially. That is, mixing horizontal sequencing (橫綴) and vertical sequencing (縱綴). There is vertical writing like , 그, 고, 구, 교, 규, specified by ', ㅡ, ㅗ, ㅜ, ㅛ, ㅠ, attach below the Initial Sound' (, ㅡ, ㅗ, ㅜ, ㅛ, ㅠ, 附書初聲之下). Simultaneously, there is also horizontal writing like 가, 거, 가, 갸, 겨, specified by 'ㅣ, ㅓ, ㅏ, ㅑ, ㅕ, attach to the right' (ㅣ, ㅓ, ㅏ, ㅑ, ㅕ, 附書於右). Also, as mentioned before, 'When Initial Sounds are used together, write them side-by-side, same for Final Sounds' (初聲合用則並書終聲同) prescribes that consonants combined should be written horizontally side-by-side. Although the main text doesn't specify how to write combined Medial Sounds (vowels), looking at the writing style actually used at the time, it seems that, similar to the rule for combining with Initial Sounds, , ㅡ, ㅗ, ㅜ, ㅛ, ㅠ were attached below other Medial Sounds when combined, and ㅣ, ㅓ, ㅏ, ㅑ, ㅕ were attached to their right. For example, combining ㅏ and ㅗ resulted in ᅶ, combining ㅏ and ㅜ resulted in ᅷ (vertical writing), while ㅗ and ㅣ became ㅚ, and ㅓ and ㅣ became ㅔ (horizontal writing).
+
+Although Hunminjŏngŭm may be praiseworthy in all other aspects, this feature of mandating a mix of horizontal and vertical writing cannot but be called a major flaw (缺陷). Then, why did such a significant flaw occur in the writing method when all other aspects were studied meticulously to the point of being almost perfectly flawless? This is a major question. However, this too cannot but be attributed to the influence of Chinese characters (漢文). <63> Chinese characters are a most difficult and peculiar script. Since one block (塊), i.e., one cluster (綴), represents one syllable and also one word (單語), i.e., one character (字), arranging these 'characters' into squares and writing them vertically downwards is quite beautiful and convenient. However, despite Hunminjŏngŭm being different from this, it is thought that it imitated the arrangement method of Chinese characters, establishing a confusing and irrational writing method that mixes horizontal and vertical writing in an attempt to fit into a square shape. For example, if '닭' (chicken) were written as 'ㄷㅏㄹㄱ' [horizontally] or 'ㄷㅏㄹㄱ' [vertically? - context implies linearity], it would be very difficult to make it square like a Chinese character. Hunminjŏngŭm not only has the flaw of mixing horizontal and vertical writing within a single syllable but also the major flaw of writing meaningless syllables as single blocks instead of writing a single word (씨) as a single block. This is also thought to be due to the influence of Chinese characters for the same reason. Chinese characters have the nature of 1 sound (聲) = 1 word (語) = 1 cluster (綴), but in our script, some words consist of one sound (1聲), some of two sounds, and some of three, four... sounds. Therefore, writing one word as one block like in Chinese makes it impossible to fit into a square shape. Thus, it is thought that the rule was established to abandon writing one word (1語) as one block (1綴) and instead define one sound (1音) as one block (1綴) to achieve a square shape (正方劽� - typo, likely 正方形). However, while this writing method might look beautiful, it causes considerable difficulty in reading and understanding the meaning. Thus, this has become a major issue today. Anyone who thinks a little about our script advocates for:
+(1) Breaking the method of sometimes writing horizontally and sometimes vertically, and writing everything horizontally. (i.e., changing mixed vertical/horizontal clusters (縱橫綴) to purely horizontal clusters (純橫綴))
+(2) Breaking the method of writing one sound as one block and writing one word as one block. (i.e., abandoning 1 sound, 1 cluster (1聲 1綴) and adopting 1 word, 1 cluster (1語 1綴)).
+
+Eighth, there are single sounds and compound sounds. Single sounds are basic unit sounds that cannot be further divided; compound sounds are formed by combining single sounds. Although Hunminjŏngŭm does not explicitly state this, in Medial Sounds (vowels), the six single sounds ㅏ, ㅓ, ㅗ, ㅜ, ㅡ, ㅣ serve as elements, and by combining them, various compound sounds are created. For example, ㅣㅏ becomes ㅑ, ㅣㅓ becomes ㅕ, ㅣㅗ becomes ㅛ, ㅣㅜ becomes ㅠ, ㅣㅡ becomes , also ㅏㅣ becomes ㅐ, ㅓㅣ becomes ㅔ, ㅗㅣ becomes ㅚ, ㅜㅣ becomes ㅞ, ㅡㅣ becomes ㅢ, ㅗㅏ becomes ㅘ, ㅣㅗㅏㅣ becomes ㅛㅐ, ㅣㅜㅓㅣ becomes ᆐ, and so on. Thus, the compounding of Medial Sounds is limitless. Also, in Initial Sounds (consonants), the ten single sounds ㄱ, ㄴ, ㄷ, ㄹ, ㅁ, ㅂ, ㅅ, ㅇ, ㅈ, ㅎ serve as elements, and by combining them, various compound sounds are created. For example, ㄱㄱ becoming ㄲ, ㄷㄷ becoming ㄸ... ; or ㅈㅎ becoming ㅊ, ㄱㅎ becoming ㅋ, ㄷㅎ becoming ㅌ, ㅂㅎ becoming ㅍ... ; or ㄹㄱ becoming , ㅂㅅ becoming , ㄴㅈ becoming ... ; they can be combined as needed limitlessly. Also, sounds like  ,  and the Labial Light Sounds , ᅗ could be included as single sounds, but they are sounds not used in our language today.
+Now, showing this with a diagram would be as follows: [Diagram description not provided in the text]
+
+Recognition of the Value of the Correct Sounds (正音價値의 認識)
+Above, we have briefly examined the structure of Hunminjŏngŭm. Consequently, we can understand what kind of script it is and what value it holds. Although it was disdained for hundreds of years by unaware, ignorant rulers and scholars of Chinese classics (漢學者), its value was never ignored or buried by true scholars, both domestic and foreign, ancient and modern. Let's look at a few critiques.
+
+Chŏng Inji (鄭麟趾) (Preface)
+
+『Based on shapes, the letters imitate ancient seal script; based on sounds, the pronunciation matches the seven modes. The principles of the three ultimates and the marvels of the two energies (yin/yang) are all encompassed. With twenty-eight letters, transformations are endless. Simple yet essential, precise yet versatile. Therefore, the wise can grasp it before morning ends, and the foolish can learn it within ten days. Using this to understand books, one can know their meaning; using this to hear legal cases, one can grasp the circumstances. In character rhymes, clarity and turbidity can be distinguished; in music and song, pitches can be harmonized. There is nowhere it cannot be used and fully equipped, nowhere it cannot reach and be understood. Even the sound of wind, the cry of cranes, the crowing of chickens, the barking of dogs—all can be written down.』
+
+Yi Ik (李瀷) (Sŏngho 星湖)
+
+『Everything that has a sound now has a letter; it is said that nothing like this has existed since Cangjie (倉頡) and Shizhou (史籀).』 (Note 26)
+
+Yi Kwangsa (李匡師) (Wŏn'gyo 圓嶠)
+
+『The complete works compiled at that time were lost during the Imjin War (壬辰之亂). During the reigns of Hyejong and Chŏngjo (惠莊朝), Buddhist scriptures were translated into vernacular (諺解), strictly following this sound system, and are found throughout temples. Examining them now, they perfectly match the correct sounds of rhyme dictionaries (切韻) and Chinese rhyme books (華人韻書). Is this not the teaching of phonology from our holy dynasty, which can serve as a law for the East for ten thousand years?』 (Note 27)
+
+Sin Kyŏngjun (申景濬) (Yŏam 旅菴)
+
+『The letters are not many, but their usage is extremely thorough. Writing is very convenient, and learning is very easy. Thousands and tens of thousands of words can be described in detail. Even women, children, and servants can use it to express their words and communicate their feelings. This is something the ancient sages could not achieve through research, and it is unparalleled in the world.』 (Note 20 - *Note number seems incorrect, likely should be related to Sin Kyŏngjun*)
+
+Yu Hŭi (柳僖) (Pangbyŏnja 方便子)
+
+『Vernacular writing (諺文) is the most marvelous thing in the world. Compared to Chinese characters (漢字), its refinement has two aspects. Chinese characters, made according to the six principles (六義), have scattered shapes, and one example cannot be used to infer myriad forms. Vernacular writing, however, links the medial to the initial, and the final to the medial, each having clear connections, arranged neatly both vertically and horizontally. Women and children can all instantly grasp its transformations. It is almost like the hexagram lines of the Great Changes (大易), intertwining back and forth, each following its sequence; this is the refinement of its structure (體). As for Chinese characters, besides the phonetic compounds (諧聲) of the ancients, added radicals (偏房) gradually increased over time. Besides the derivative characters (轉註) of the ancients, later literary figures arbitrarily changed pronunciations to fit rhymes, as cited in various poems and prose in dictionaries like Zihui (字彙), causing confusion and constant disputes. As for vernacular writing, unless the entire system is moved, can the shape of a single letter be mistaken? Can the sound of a single letter be changed? This is the refinement of its usage (用).』 (Note 33)
+
+Yi Kyugyŏng (李圭景) (So'un 嘯雲)
+
+『Vernacular writing (諺文)... creates characters vertically and horizontally... to translate the sounds of myriad things difficult to describe. It forms characters by combining phonetic components (反切). There are a total of 6,340 characters (文 - likely refers to syllables/combinations). It is truly a wondrous script of heaven and earth... If characters were formed according to sound, how many would be added? They would generate endlessly. Even if Cangshi (倉史) created characters, how could it be like this? All nations under heaven each have their own script... none are as easy and understandable as our Eastern vernacular script (東諺字).』 (Note 46)
+
+Sŏng Hyŏn (成俔) (Yongjae 慵齋)
+
+『King Sejong established the Vernacular Script Office (諺文廳)... and created the vernacular script (諺文). Eight initial/final sounds, eight initial sounds, twelve medial sounds. Its letter shapes were based on Sanskrit letters (梵字). Sounds of our country and various nations that could not be written with [other] characters are all communicated without hindrance.』 (Note 25)
+
+Yi Sugwang (李睟光) (Chibong 芝峴)
+
+『The form of our country's vernacular script (諺書) completely follows Sanskrit letters (梵字). It began in King Sejong's reign; an office was established, and it was compiled, but the ingenuity of the character creation is said to truly come from His Majesty's wise calculation (睿算). Indeed, with the emergence of the vernacular script, the sounds of myriad directions can all be communicated. This is what is called impossible except by a sage.』 (Note 32)
+
+Tongguk Munhŏn Pigo (東國文獻備考) (Akko 樂考 - Section on Music)
+
+『Generally imitating ancient seal script, divided into initial, medial, and final sounds. Though the letters are simple and easy, transformations are endless. Sounds of various nations that could not be written with [other] characters are all communicated without hindrance. It exhausts the sounds of lips, teeth, throat, and tongue; fulfills the modes of *kung, sang, kak, ch'i* (宮商角徵); covers the variations of clear/muddy, high/low. All this was derived from the surplus efforts of music composition to adorn the vernacular language (方言); thus, it is indeed music, though not music.』 (Note 27 - *Same note number as Yi Kwangsa, likely refers to this source*)
+
+Sejong Sillok (世宗實錄) (Veritable Records of King Sejong) (12th Month, Kyehae Year - 1443)
+
+『The letters imitate ancient seal script, divided into initial, medial, and final sounds. Only when combined do they form a character. All concerning characters and the vernacular language of our country can be written. Though the letters are simple and essential, transformations are endless.』
+
+Hong Yangho (洪良浩) (Kyŏngse Yundo Sŏl - 經世韻圖說)
+
+『Our Great King Sejong created the Hunminjŏngŭm's twenty-eight letters, corresponding to the number of constellations. The character shapes resemble the round and curved forms of the constellations Kui (奎) and Bi (壁); the dots and strokes follow the style of small seal (小篆) and clerical (分隷) scripts. Clear, simple, and easy, enabling even children and women to know it. Extending and developing it is sufficient to cover all writings under heaven.』 (Note 28)
+
+A Script to Boast of to the World (世界의 자랑할 글)
+Chu Sigyŏng (周時經) (As heard directly by the author)
+
+『Our script is the most advanced, scientifically structured writing system worthy of boasting to the world. This is not my assertion alone; foreigners recognized its value well before we did. Recently, I was called upon by Dr. Kyeil (께일 博士 - likely Dr. James Scarth Gale). The Doctor, who always studied our history, <65> asked various questions about the creation of Hunminjŏngŭm among King Sejong's achievements, and then I heard him say, "Sejong was a praiseworthy king who made great contributions not only to the East but to the world. He had many great achievements, but above all, the invention of the script is a world-class boast." However, it is truly regrettable that we, on the contrary, do not know the value of our own script.』 (Note 34)
+
+Kwŏn Tŏkkyu (權悳奎)
+
+『There are three conditions for which the Korean script (朝鮮글) deserves special pride compared to others' scripts: first, the clear distinction between vowels (母音/홀소리) and consonants (子音/닿소리); second, its scholarly organization; third, its successful promulgation by decree. There was an instance during China's (支那) First Revolution when 36 characters were newly created but failed...』 (Note 35)
+
+Yi Yunjae (李允宰)
+
+『The structure of our Correct Sounds' (正音) letter forms truly reaches the extreme of beauty and cannot be compared to the script of any country in the world. Originally, Hunminjŏngŭm was organized with 3 sounds (Initial, Medial, Final) and 5 phonetic categories (Velar, Alveolar, Labial, Dental, Glottal), consisting of 28 letters. It is also perfectly equipped with doubled letters (並書), Labial Light Sounds (唇輕音), and the 4 tones (上去平入 - Rising, Departing, Level, Entering), achieving utmost perfection (盡善盡美).』 (Note 36)
+
+Ch'oe Hyŏnbae (崔鉉培)
+
+『First, let's look at the content of the script. Scripts around the world have developed through various stages in terms of content, and our Han'gŭl belongs to the highest stage in the history of script development (文字 發迀”史上 - typo likely means 文字 發達史上). Script development has the following four stages:
+One. Knot records (結繩文字). Ex: Quipu belts of North American natives.
+Two. Pictograms (繪畵文字). Ex: Pictures used as documents among North American natives (土藩 - possibly typo for 土民 'natives'), and other primitive tribes.
+Three. Ideograms (意義文字). Primitive forms of Chinese (支那), Egyptian (埃及) hieroglyphs.
+Four. Phonetic scripts (表意文字 - This term usually means ideographic, but contextually means Phonetic Script/表音文字). This has the following 3 sub-stages:
+1. One character, one word. Ex: Phonetic compound characters (諧聲文字) within Chinese characters.
+2. One character, one syllable. Ex: Japanese Kana script (日本 假名文字).
+3. One character, one sound. Ex: Roman script (로마音), Han'gŭl.
+Although scripts anywhere in the world do not necessarily develop following the above stages, it is clear that content-wise, these stages exist. Our Han'gŭl belongs to the most advanced stage among phonetic scripts.
+Second, looking at its creation, whereas the vast majority of world scripts developed naturally, our Han'gŭl was created artificially at one time. This artificial creation itself is not necessarily an amazing boast. However, the fact that this artificial creation possesses the most scholarly organization, rich sounds, and orderly form is supreme in the world.
+
+A Script for the Liberation of the Masses (民衆的 解放文字)
+Third, looking at its original intention, world scripts were originally the possession of the privileged class. Writing only had the mission of guarding knowledge and satisfying the desire for dominance. Then, due to the progress of the times and the awakening of the masses, the mission of writing was liberated from the limited privileged class. However, our Han'gŭl was born from the beginning with the mission of the edification and welfare of the masses, and the clear expression of the popular will (民意). This was clearly declared by Great King Sejong at the very beginning of Hunminjŏngŭm.
+Fourth, looking at the writing format, world writing formats can roughly be divided into vertical writing (縱書) and horizontal writing (橫書). However, vertical scripts are limited to a very small number like Mongolian (蒙古), Manchu (滿洲), Chinese (支那), Japanese (日本), Korean (朝鮮), etc., while all other scripts are horizontal. Even among vertical scripts, some like Manchu and Mongolian are written from left to right, while others like Chinese characters (漢文) and Kana (假名) are written from top to bottom, right to left. Among horizontal scripts, some like Arabic (아라비아) are written from right to left, while others like Roman script (로마文字) are written from left to right. Our Han'gŭl is currently written vertically (세로글씨/縱書) from right to left. <66> However, Han'gŭl also possesses the potential (性能) to change to horizontal writing (가로글씨/橫書). This is a point of superiority where our script differs from vertical scripts like Chinese and Japanese writing (日本文). This adaptability (自存性) to change and apply according to the times is a corresponding characteristic of our Han'gŭl, born with the great mission of mass edification. My advocacy for horizontal writing of our script and research into its typeface (書體) is aimed at fully accomplishing this significant meaning of Han'gŭl.
+Based on what has been briefly stated above, I believe it has become clear what uniqueness and points of superiority our Han'gŭl possesses in world literary history (文學上 - likely means 'script history' here). That is, whether by the developmental stage in world script history, scholarly organization, mission of mass edification, or the versatility of changing between vertical and horizontal writing, our script is sufficiently a perfect script globally. Our people (겨레), possessing such a splendid script, should strive with splendid ideals and splendid effort not to be ashamed of being the masters of this script.』 (Note 37)
+
+Sin Myŏnggyun (申明均)
+
+『Just as we hold the pride that Korean writing (朝鮮文) is the best in the world, if asked whether Korean writing is truly ideal, the current situation makes it difficult to affirm this. In terms of mere visual convenience, no script may surpass Chinese characters (漢字); in terms of ease of learning alone, nothing may surpass Japanese Kana (日本 假名); in terms of printing simplicity, nothing may surpass the English alphabet (英字). However, Chinese characters are perhaps unparalleled in the world for their inconvenience in learning and printing. Kana, though relatively easy to learn, also has drawbacks in appearance and printing. Although the English alphabet, compared to Chinese characters or Kana, possesses various advantages more evenly, its non-scientific organization makes its rules messy, also likely unparalleled in the world. However, our Korean script (朝鮮文字), as stated in the preface of Great King Sejong's Hunminjŏngŭm, the phrase "making it easy for everyone to learn and convenient for daily use" (使人人易習, 便於日用耳), matches name and reality (名實이 相副하게), having excellence among world scripts, just as we pride ourselves.』 (Note 38)
+
+Crown Jewel Among East Asian Scripts (東洋文字 中 白眉)
+Ogura Shimpei (小倉進平)
+
+『The vernacular script (諺文), even viewed from today's scholarly perspective, can certainly be called excellent. However, what were the intentions of scholars and the general populace when it was about to be promulgated and at the time it was promulgated? According to our imagination today, one might think it received a great welcome from the general populace and came into common use without any hindrance, but in reality, that was not necessarily the case.』 (Note 3)
+
+Kanazawa Shōzaburō (金澤庄三郞)
+
+『...It consists of 28 letters (子母), and is called the most advanced among East Asian scripts. ...In the 28th year of the 4th King of the Yi Dynasty Chosŏn (李氏朝鮮), Sejong, the national script (國字) was newly established. Sejong is called the Yao or Shun of the East Sea (海東), a wise ruler, and the essence of the Yi Dynasty (李朝) was largely concentrated in this era. The establishment of the vernacular script (諺文制定) was indeed one of this king's projects. Following the example of the Yuan dynasty's (元) Pagspa script (巴思巴文字), he likely felt the connection between national independence and a national script, but also, notably, the invention of metal movable type (金屬活字) in the 3rd year of T'aejong (太宗) (1403 AD) (Note 40) seems to have accelerated the momentum for creating the vernacular script. ... According to recent research, it seems to have been academically perfected by modeling the structure of India's (印度) Devanagari (『데바나아가리』), using several Sanskrit letters (梵字) as a basis, and adding unique innovations.』 (Note 39) And also, 『Since the invention of this perfect phonetic script, the Korean language (朝鮮語) has expanded into all sorts of matters, and its materials have become quite abundant.』 (Note 41) And also, 『The vernacular script (諺文) is one of the newest scripts in the world, and unlike Chinese characters (漢字) or Kana (假字), it is a purely alphabetic phonetic script. ...The vernacular script... has a unique structure unparalleled among the world's scripts. That is the scientific classification of sounds (聲音), where characters representing the same type of sound are sequentially developed from the same basic letter. For example, making ㅈ(ch) from ㅅ(s)<67> and making ㄷ(T) and ㄹ(R) from ㄴ(N). In this respect, the vernacular script constitutes a special stage in the history of writing and is one of the intellectual products of the Korean people's (朝鮮人) past worthy of boasting to the world.』 (Note 42)
+
+Ch'oe Malli (崔萬理)
+
+『We, your subjects, humbly behold the vernacular script (諺文); its creation is truly marvelous (神妙), creating things and employing wisdom (創物運智), far surpassing all antiquity (夐出千古).』
+
+H. Miller (휴·밀러) (Min Hyu 閔休)
+
+『I believe the Korean script (朝鮮文) is easy to remember, wide in application, also simple, and its structural ingenuity (纖巧함) is perhaps without peer (儔匹) among alphabets in the world.』 (Note 44)
+
+Paul Monroe (포올·몬로)
+
+『During the Silla period (新羅時代) (8th Century), Korea's (朝鮮) greatest scholar Sŏl Ch'ong (薛聰) created the Idu script (吏讀文字) using Chinese characters (漢字), which was quite convenient for expressing the vernacular language (邦言). Later, a Korean statesman (政事者) created what is called Ŏnmun (諺文), which is a true phonetic alphabet (表音的 『알파베트』) based on the speech organs (發聲器官), and is one of the most excellent in the world. It is composed of 11 vowels (母音) and 14 consonants (子音) made of straight lines and circles. Scripts of the Idu (이두) system are used concurrently. The 199 syllables (音節) synthesized from these letters are memorized by children without any interpretation or analysis (分折 - likely typo for 分析). Private letters (私信) are written in this common style (通俗文體), and novels read by women and youth are printed. Because it was so easy to learn and served as a popular medium (通俗的 媒介物), Ŏnmun was rejected (排斥) by scholars. Discarded as useless surplus (無用의 長物) by the scholar class (學者階級) for centuries, when Western missionaries (西洋의 宣敎師) entered, they gladly applied the script to education (敎育) and mission work (宣敎), leading to its general use. Just like in Japan (日本), 3 or 4 types of language styles are still prevalent: first, pure classical Chinese style (純 漢文體); second, a style mixing Chinese words (漢文 單語) into Korean writing (조선글); third, the common style (通俗體) written purely in Korean script (조선글); fourth, the epistolary style (書信文體).』 (Note 45)
+
+Besides these, many critiques could likely be found in various Western dictionaries, series, histories, or linguistic literature, but due to lack of time and the difficulty in easily obtaining such reference materials, I will stop here for now.
+
+(Note 33) Yu Hŭi (柳僖), Author, 『Ŏnmunji (諺文誌)』
+(Note 34) Words heard directly by the author from Teacher Chu Sigyŏng (周時經先生) during lecture time around the Sinhae year (辛亥年 - 1911).
+(Note 35) Mr. Kwŏn Tŏkkyu's (權悳奎氏) 『History of Hunminjŏngŭm (訓民正音沿革)』 (Published in Chosŏn Ilbo (朝鮮日報), November 16, Pyŏngin year - 丙寅 - 1926)
+(Note 36) Mr. Yi Yunjae's (李允宰氏) 『Sejong and Hunminjŏngŭm (世宗과 訓民正音)』 (Published in Tonga Ilbo (東亞日報), November 25, Chŏngmyo year - 丁卯 - 1927)
+(Note 37) Mr. Ch'oe Hyŏnbae's (崔鉉培氏) 『The Position of Our Han'gŭl in World Scripts (우리 한글의 世界文字上 地位)』 (Published in Chungoe Ilbo (中外日報), October 24, Chŏngmyo year - 丁卯 - 1927)
+(Note 38) Mr. Sin Myŏnggyun's (申明均氏) 『Korean Writing in a Period of Adjustment (整理期의 朝鮮文)』 (Published in Chosŏn Ilbo (朝鮮日報), October 24, Chŏngmyo year - 丁卯 - 1927)
+(Note 39) Mr. Kanazawa Shōzaburō's (金澤庄三郞氏) entry 『Ŏnmun (諺文)』 (In the Japanese Encyclopedia - 日本 百科大辭典)
+(Note 40) The first mention of movable type printing in literature is the printing of 28 copies of 『Sangjŏng Yemun (詳定禮文)』 in the 21st year of King Kojong of Koryŏ (高麗 高宗) (1234 AD). (Yi Sangguk chip - 李相國集) Also, the establishment of the Sŏjŏgwŏn (書籍院) and printing of books with movable type in the 4th year of King Kongyang (恭讓王) (1392 AD) (Koryŏsa - 高麗史) precedes the printing with movable type in the 3rd year of T'aejong (太宗).
+(Note 41) Mr. Kanazawa Shōzaburō's (金澤庄三郞氏) entry 『Korean Language (朝鮮語)』 (In the Japanese Encyclopedia - 日本 百科大辭典)
+(Note 42) Mr. Kanazawa Shōzaburō's (金澤庄三郞氏) 『General Introduction to National Language Studies (國語學通論)』, Appendix.
+(Note 43) 『Sejong Sillok (世宗實錄)』, 26th year, Kapcha (甲子 - 1444) entry, from Ch'oe Malli's (崔萬理) memorial opposing Hunminjŏngŭm.
+(Note 44) Mr. H. Miller's (휴·밀러(H. Miller)氏) (Missionary of the British and Foreign Bible Society in Kyŏngsŏng - 京城大英聖書公會宣敎師) 『Korean Writing and Christianity (朝鮮文과 耶穌敎)』 (Published in Chosŏn Ilbo (朝鮮日報), November 10, Pyŏngin year - 丙寅 - 1926)
+(Note 45) Dr. Paul Monroe (포울·몰로(Paul Monroe)氏), Professor of History of Education at Teachers College, Columbia University (米國 컬럼비아 大學 師範科의 敎育史 擔任 敎授). Paul Monroe; "Cyclopedia of Education" (Entry on "Korea, Education in-")
+(Note 46) Yi Kyugyŏng (李圭景), Author, 『Oju Yŏnmun Changjŏn San'go (五洲衍文長箋散稿)』<68>
+
+**Summary**
+
+This 1932 article by Kim Yun'gyŏng meticulously examines the structure and perceived value of Hunminjŏngŭm (later Hangul). It details the script's phonetic principles, including the division into initial, medial, and final sounds, consonant categories, special sounds like labial light sounds and doubled consonants, and the tonal system (influenced by Chinese). The author praises its scientific design and comprehensiveness but criticizes the mixed vertical/horizontal writing and syllable-block (rather than word-block) structure as impractical flaws derived from imitating Chinese characters. The article compiles extensive praise for the script from historical Korean scholars (Chŏng Inji, Yi Ik, Sin Kyŏngjun, etc.), contemporary Korean linguists (Chu Sigyŏng, Kwŏn Tŏkkyu, Ch'oe Hyŏnbae), and foreign observers (Gale, Ogura, Kanazawa, Miller, Monroe), emphasizing its superiority, ease of learning, adaptability, and democratic intent.
+
+From a colonial history perspective, the article is highly significant. Written under Japanese rule, its fervent praise for Hunminjŏngŭm/Hangul serves as a strong assertion of Korean cultural identity and intellectual achievement, implicitly resisting Japanese assimilation policies that often marginalized the Korean language and script. The discussion on modernizing the script (horizontal writing, word-based spacing), reflects active efforts by Korean intellectuals to adapt their language for contemporary use and national strengthening, portraying the script not just as a historical artifact but as a vital tool for the future. The citation of both Japanese and Western scholars validating the script's value further bolsters this nationalistic pride and counters potential colonial narratives of Korean cultural inferiority.
+
+**Named Entities**
+
+金允經	김윤경	Kim Yun'gyŏng
+阿	아	A (Chinese character example)
+家	가	Ka (Chinese character example)
+英	영	England/English
+獨逸	독일	Germany/German
+歐文	구문	European writing
+漢文	한문	Chinese writing/Classical Chinese
+支那	지나	China (older term)
+鄭麟趾	정인지	Chŏng Inji
+李瀷	이익	Yi Ik
+星湖	성호	Sŏngho (Yi Ik's pen name)
+倉籒	창힐/사주	Cangjie/Shizhou (legendary inventors of Chinese characters)
+李匡師	이광사	Yi Kwangsa
+圓嶠	원교	Wŏn'gyo (Yi Kwangsa's pen name)
+壬辰之亂	임진지란	Imjin War (Japanese invasions of 1592-98)
+惠莊朝	혜장조	Reigns of Hyejong and Chŏngjo (Likely refers to King Chŏngjo period for Buddhist texts)
+切韻	절운	Qieyun (Chinese rhyme dictionary)
+華人	화인	Chinese people
+申景濬	신경준	Sin Kyŏngjun
+旅菴	여암	Yŏam (Sin Kyŏngjun's pen name)
+柳僖	유희	Yu Hŭi
+方便子	방편자	Pangbyŏnja (Yu Hŭi's pen name)
+大易	대역	Great Changes (I Ching/Book of Changes)
+字彙	자휘	Zihui (Chinese dictionary)
+李圭景	이규경	Yi Kyugyŏng
+嘯雲	소운	So'un (Yi Kyugyŏng's pen name)
+倉史	창사	Cangshi (Likely Cangjie)
+東方	동방	The East
+東諺字	동언자	Eastern vernacular script (Korean script)
+成俔	성현	Sŏng Hyŏn
+慵齋	용재	Yongjae (Sŏng Hyŏn's pen name)
+世宗	세종	King Sejong
+諺文廳	언문청	Vernacular Script Office
+梵字	범자	Sanskrit letters
+李睟光	이수광	Yi Sugwang
+芝峴	지봉	Chibong (Yi Sugwang's pen name)
+諺書	언서	Vernacular script (Hangul)
+東國文獻備考	동국문헌비고	Tongguk Munhŏn Pigo (Reference Compilation of Documents on Korea)
+樂考	악고	Akko (Section on Music)
+方言	방언	Vernacular language/Dialect
+世宗實錄	세종실록	Sejong Sillok (Veritable Records of King Sejong)
+洪良浩	홍양호	Hong Yangho
+經世韻圖說	경세운도설	Kyŏngse Yundo Sŏl (Title of Hong Yangho's work)
+周時經	주시경	Chu Sigyŏng
+께일 博士	게일 박사	Dr. Kyeil (Likely James Scarth Gale)
+東洋	동양	The East/Orient
+權悳奎	권덕규	Kwŏn Tŏkkyu
+朝鮮글	조선글	Korean script
+朝鮮日報	조선일보	Chosŏn Ilbo (Newspaper)
+李允宰	이윤재	Yi Yunjae
+東亞日報	동아일보	Tonga Ilbo (Newspaper)
+崔鉉培	최현배	Ch'oe Hyŏnbae
+北米	북미	North America
+埃及	애급	Egypt (older term)
+日本	일본	Japan
+假名文字	가나문자	Kana script (Japanese)
+로마音	로마음	Roman script/sound
+蒙古	몽고	Mongolia
+滿洲	만주	Manchuria
+아라비아	아라비아	Arabia/Arabic
+로마文字	로마문자	Roman script
+日本文	일본문	Japanese writing
+中外日報	중외일보	Chungoe Ilbo (Newspaper)
+申明均	신명균	Sin Myŏnggyun
+朝鮮文	조선문	Korean writing/script
+朝鮮文字	조선문자	Korean script/letters
+漢字	한자	Chinese characters
+日本 假名	일본 가나	Japanese Kana
+英字	영자	English letters/alphabet
+小倉進平	오구라 신페이	Ogura Shimpei
+諺文	언문	Vernacular script (Hangul)
+金澤庄三郞	가나자와 쇼자부로	Kanazawa Shōzaburō
+李氏朝鮮	이씨조선	Yi Dynasty Chosŏn
+國字	국자	National script
+海東	해동	Haedong (Korea, lit. East of the Sea)
+堯舜	요순	Yao and Shun (legendary wise Chinese emperors)
+李朝	이조	Yi Dynasty
+元	원	Yuan Dynasty (Mongol)
+巴思巴(Pagspa)文字	파스파 문자	Pagspa script
+太宗	태종	King T'aejong
+金屬活字	금속활자	Metal movable type
+印度	인도	India
+데바나아가리 (Devanagari)	데바나가리	Devanagari
+朝鮮語	조선어	Korean language
+假字	가자	Kana (Japanese)
+朝鮮人	조선인	Korean people
+崔萬理	최만리	Ch'oe Malli
+휴·밀러 (閔休)	휴 밀러 (민휴)	H. Miller (Min Hyu)
+朝鮮文과 耶穌敎	조선문과 예수교	Korean Writing and Christianity (Article Title)
+京城大英聖書公會	경성대영성서공회	Kyŏngsŏng British and Foreign Bible Society
+포올·몬로	폴 먼로	Paul Monroe
+新羅時代	신라시대	Silla Period
+朝鮮	조선	Korea/Chosŏn
+薛聰	설총	Sŏl Ch'ong
+吏讀文字	이두문자	Idu script
+이두	이두	Idu
+西洋	서양	The West/Occident
+컬럼비아 大學 師範科	컬럼비아 대학 사범과	Columbia University Teachers College
+李圭景	이규경	Yi Kyugyŏng
+五洲衍文長箋散稿	오주연문장전산고	Oju Yŏnmun Changjŏn San'go (Title of Yi Kyugyŏng's work)
+高麗 高宗	고려 고종	King Kojong of Koryŏ
+詳定禮文	상정예문	Sangjŏng Yemun (Title of a Koryŏ text)
+李相國集	이상국집	Yi Sangguk chip (Collected Works of Yi Kyubo)
+恭讓王	공양왕	King Kongyang (Last king of Koryŏ)
+書籍院	서적원	Sŏjŏgwŏn (Koryŏ Publications Office)
+高麗史	고려사	Koryŏsa (History of Koryŏ)
+
+**Glossary**
+
+訓民正音	훈민정음	Hunminjŏngŭm (Correct Sounds for the Instruction of the People; original name for Hangul)
+性質	성질	Nature; character; property
+價値	가치	Value; worth
+考察	고찰	Study; investigation; examination
+組織	조직	Structure; organization; system
+音節	음절	Syllable
+初聲	초성	Initial consonant sound (of a syllable)
+中聲	중성	Medial vowel sound (of a syllable)
+終聲	종성	Final consonant sound (of a syllable); batchim (받침)
+닿소리	닿소리	Consonant (Native Korean term)
+홀소리	홀소리	Vowel (Native Korean term)
+空位	공위	Empty position; null placeholder (referring to 'ㅇ')
+바침	받침	Final consonant (Modern spelling: 받침)
+聲音學	성음학	Phonetics; phonology
+未洽	미흡	Inadequate; insufficient
+唇輕音	순경음	Labial light sounds (obsolete Korean consonants like ㅸ, ㆄ, ㅹ)
+連書	연서	Writing characters consecutively below each other (as in ㅸ)
+並書	병서	Writing characters side-by-side (as in ㄲ, ㄸ, or consonant clusters like ㅺ)
+된소리	된소리	Tense consonant (e.g., ㄲ, ㄸ, ㅃ, ㅉ, ㅆ)
+홋소리	홑소리	Single sound (as opposed to doubled or compound) (Modern spelling: 홑소리)
+거듭	거듭	Repeated; doubled; compound
+外國音	외국음	Foreign sound
+四聲	사성	Four Tones (from Middle Chinese phonology)
+去聲	거성	Departing tone
+上聲	상성	Rising tone
+平聲	평성	Level tone
+入聲	입성	Entering tone
+長短	장단	Length (long/short distinction in vowels)
+高低	고저	Pitch (high/low distinction)
+表音文字	표음문자	Phonetic script
+表意文字	표의문자	Ideographic script (Author uses this term oddly for phonetic script in one instance, but generally correctly)
+單綴語	단철어	Monosyllabic language (lit. single-cluster language)
+橫綴	횡철	Horizontal clustering/writing
+縱綴	종철	Vertical clustering/writing
+附書	부서	Attach writing; append
+缺陷	결점	Flaw; defect; weakness (Modern spelling: 결점)
+模倣	모방	Imitation; copying (Modern spelling: 모방)
+正方形	정사각형	Square shape
+씨	씨	Word (Native Korean term, often used alongside Sino-Korean 단어)
+곤난	곤란	Difficulty; hardship (Modern spelling: 곤란)
+깨트리다	깨뜨리다	To break; shatter (Modern spelling: 깨뜨리다)
+要素	요소	Element; factor
+賤待	천대	Contempt; disdain; looking down upon
+埋沒	매몰	Burying; suppression
+象形	상형	Pictograph; resembling shape
+古篆	고전	Ancient seal script
+七調	칠조	Seven modes (musical/phonetic term)
+三極	삼극	Three Ultimates (philosophical concept)
+二氣	이기	Two energies (Yin-Yang)
+轉換無窮	전환무궁	Endless transformations; infinitely versatile
+簡而要	간이요	Simple yet essential
+精而通	정이통	Precise yet versatile
+智者	지자	Wise person
+愚者	우자	Foolish person
+浹旬	협순	Ten days
+聽訟	청송	Hear legal cases
+淸濁	청탁	Clear vs. Muddy sounds (voiced/voiceless distinction in older phonology)
+律呂	율려	Musical pitches/harmony
+諺解	언해	Vernacular translation/explanation (esp. of Buddhist or Confucian texts)
+婦孺	부유	Women and children
+童駛	동사	Children and servants
+反切	반절	Fanqie system (Chinese method of indicating pronunciation)
+梵字	범자	Sanskrit letters
+睿算	예산	Imperial/Royal calculation/wisdom
+表音的	표음적	Phonetic
+發聲器官	발성기관	Speech organs
+通俗文體	통속문체	Popular/common writing style
+排斥	배척	Rejection; exclusion; boycott
+宣敎師	선교사	Missionary
+自負	자부	Pride; self-confidence
+首肯	수긍	Nodding assent; affirmation
+非科學的	비과학적	Unscientific
+名實이 相副	명실상부	Name and reality match; be worthy of the name
+子母	자모	Letters (lit. child-mother, referring to consonants and vowels)
+國字	국자	National script
+獨特	독특	Unique; peculiar
+考案	고안	Idea; design; innovation
+標音文字	표음문자	Phonetic script
+構造	구조	Structure; construction
+智的 産物	지적 산물	Intellectual product
+神妙	신묘	Marvelous; mysterious; ingenious
+纖巧	섬교	Delicate skill; ingenuity; finesse
+儔匹	주필	Match; equal; peer
+邦言	방언	Local tongue; dialect; vernacular language
+政事者	정사자	Statesman; politician (Older term)
+媒介物	매개물	Medium; intermediary
+無用의 長物	무용지물	Useless thing; surplus item (Idiomatic)
+學者階級	학자계급	Scholar class
+
+
+---------------------------
+
+
+잡지명	동광 제32호
+발행일	1932년 04월 01일
+기사제목	訓民正音의 性質과 價値, 朝鮮文字의 歷史的 考察(10)
+필자	金允經
+기사형태	논설
+
+訓民正音의 性質과 價値, 朝鮮文字의 歷史的 考察
+						金允經
+訓民正音의 내용 즉 組織이라던가 性質에 대하여는 앞에 들은 本文에 밝히 들어낫으나 이제 다시 좀 더 생각하여 보려고 합니다.
+첫째, 總數 스물여덟 字는 3聲으로 나누엇습니다. 이는 한 音節을 「初聲」, 「中聲」, 「終聲」으로 나눔이 그것이외다. 初聲이란 것은 한 音節의 처음에 쓰이는 닿소리(Consonants)를 이름이고 中聲이란 것은 한 音節 가운데의 홀소리(Vowels)를 이름이고 終聲이란 것은 한 音節 끝에 잇는 닿소리를 이름이외다. 만일 初聲이나 終聲이 없이 다만 中聲 즉 홀소리만으로 한 音節이 된 경우에는 空位 즉 ㅇ 이것을 그 자리에 두어 그것을 初聲이나 終聲으로 보아주는 것이외다. 가령 『阿』의 音節은 『ㅏ』라 하는 中聲(홀소리) 뿐이나 初聲과 終聲은 ㅇ 이것을 채우어 『아ㅇ』라 하고 『家』의 音節은 初聲과 中聲만으로 된 것이지마는 終聲의 자리에 ㅇ 이것을 붙이어 『가ㅇ』라고 적는 것입니다. 그러하나 오늘날에는 終聲(바침이라 함)이 빈 때에는 ㅇ 이것을 붙히지 아니하고 다만 『아』ㅈ 줄 같이 처음 소리가 닿소리가 아니고 홀소리로 된 경우에만 ㅇ 이것을 쓰는 버릇이 되어 버리엇습니다. 바침에 ㅇ 이것을 쓰면  이것으로 알게 되엇습니다. 그러한데 이 3聲의 구별은 한 音節에 대한 소리의 차례를 이름 준 것이요 그 성질을 이름 줌은 아닙니다. 오늘날 聲音學上 이름으로 訓民正音 28字를 분류한다면 그 初聲(終聲 通用)은 닿소리 그 中聲은 홀소리에 상당한 것입니다. 또 初聲이나 終聲에는 닿소리의 홋과 거듭에 通用하고 中聲은 홀소리의 홋과 거듭에 通用한 이름임을 알 것입니다.
+둘째, 初聲  17字는 7音으로 나누엇습니다. 즉, 牙, 舌, 唇, 齒, 喉, 半舌, 半齒가 그것입니다. 이것은 聲音學上 調音의 部位와 作用의 관계에 의한 분류에 속한 것으로서 오늘의 분류에 비기면 多少 未洽한 점이 잇을찌나 오늘의 言語學이란 것이 한 科學으로 서게 된 것이 최근 19세기의 일이라 함을 생각한다면 480餘年 前의 이 訓民正音은 聲音學的 연구의 가장 오랜 것이라 아니할 수 없겟습니다.
+셋째, 17 初聲 밖에 『唇輕音』이라는 初聲이 규정되어 잇습니다. 이는 唇音, ㅂ, ㅍ, ㅁ에 ㅇ를 連書한 , ᅗ, ᄝ이 그것입니다. 그러한데 元 17 初聲에는 그 발음이 설명되엇지마는 이것은 설명이 없습니다.＜62＞ 後人의 설명한 바 『將合勿合而吹氣出聲』이라 함을 보면 그 발음이 짐작됩니다. ᄝ는 此較할만한 것을 모르겟으나 은 英字의 V 혹은 獨逸의 W에 近似하다 하겟고 ᅗ은 F 혹은 ph에 近似하다 하겟습니다.
+넷째, 17 初聲 밖에 또 ㄱ, ㄷ, ㅂ, ㅈ, ㅅ, ㅎ 들의 並書音이 규정되어 잇습니다. 곳 ㄲ, ㄸ, ㅃ, ㅉ, ㅆ,  들이 그것입니다. 이는 각각 그 홋소리의 『된소리』라고 부르는 거듭 닿소리 ㄴ데 歐文에서는 이러한 홋과 거듭의 구별이 不可能한즉 아마 이 소리는 우리의 獨特한 소리라 할 것입니다.
+다섯째, 우에는 같은 따위 初聲의 並書로 됨을 말함이엇으나 그 밖에 또 다른 따위의 初聲의 並書로 된 거듭소리로 규정되엇습니다. 『初聲合用則並書終聲同』이라 함이 그것이외다. 이것에는 제한이 없습니다. 17初聲을 말의 소리에 따라 서로 합하여 쓴다는 규정인즉 그 數가 限定이 없습니다. , ,  , , , ... 들의 따위가 그것입니다. 그러한즉 訓民正音의 初聲(닿소리)은 元 17字 외에 , ᅗ, ᄝ 의 唇輕音과 ㄲ, ㄸ, ㅃ, ㅉ, ㅆ,  의 並書音과 또 이제 말한 , ,  ... 따위의 並書音들이 잇는 것을 알겟습니다. 그러한즉 訓民正音의 닿소리는 참말 얼마나 豊富한지 모르겟습니다. 그러하나 唇輕音이라던지  ,  따위는 外國音을 적기 위하여 만들 것이지 우리말을 적기 위하여 만들 것은 아니엇다고 생각됩니다.
+여섯째, 4聲이 규정되어 잇습니다. 곳 『去聲』, 『上聲』, 『平聲』, 『入聲』이 그것입니다. 그러하나 우리말은 長短의 구별 밖에 없으되 高低까지 구별하게 규정한 것은 漢文의 音을 적기 위함이라고 생각됩니다. 우리 글 같은 表音文字에서는 같은 소리(말의)의 混同될 念慮가 적은 고로 관계없으나 表意文字요 또 單綴語인 支那 말에서는 말의 뜻 다르고 소리 같은 것이 매우 많아서 混同됨이 많은 고로 이 같은 까다롭은 4聲의 구별이 없으면 도무지 말의 다름을 구별할 수가 없습니다. 그러한데 이러한 漢文과 密接히 交涉되던 당시에 訓民正音을 만듦에 당하여 또한 그 영향으로 4聲을 규정하게 된 것이외다. 이 4聲의 구별은 初聲보다도 中聲의 長短高低에 대한 규정입니다. 去聲에는 왼쪽에 한 점을 더하고 上聲에는 두 점을 더하고 平聲에는 아무 표도 없고 入聲에는 점을 더함은 같으되 急할 뿐이라 하엿습니다.
+
+正音 唯一의 缺點
+일곱째, 소리버리어 적음에 두 가지의 규정을 세우엇습니다. 곳 가로 벌이어 적기(橫綴)와 세로 벌이어 적기(縱綴)를 섞음이 그것이외다. 『, ㅡ, ㅗ, ㅜ, ㅛ, ㅠ, 附書初聲之下』라 하여 , 그, 고, 구, 교, 규, 같이 세로 적게 함이 잇는 동시에 『ㅣ, ㅓ, ㅏ, ㅑ, ㅕ, 附書於右』라 하여 가, 거, 가, 갸, 겨, 같이 가로 적게 함도 잇습니다. 또 前에 말함 같이 『初聲合用則並書終聲同』이라 하여 닿소리끼리도 합하여 쓰려면 가로 벌이어 적음을 규정하엿습니다. 또 中聲(홀소리)끼리 합하면 어떠케 적는다는 것에 대하여는 本文에 규정한 바가 없으나 당시에 實用된 文體를 보면 初聲과 합하여 쓸 때에 쓰는 규정과 같이 , ㅡ, ㅗ, ㅜ, ㅛ, ㅠ 들은 다른 中聲과 합할 때 그 밑에 붙이어 쓰고 ㅣ, ㅓ, ㅏ, ㅑ, ㅕ 들은 그 오른 쪽으로 붙이어 쓰기로 함같이 보입니다. 가령 ㅏ와 ㅗ를 합하려면 ᅶ, ㅏ와 ㅜ를 합하려면 ᅷ같이 세로 적고 ㅗ와 ㅣ는 ㅚ, ㅓ와 ㅣ는 ㅔ같이 가로 적음이 그것입니다.
+訓民正音이 다른 모든 점에 대하여서는 다 讚美할만 하게 되엇다 할 지라도 이같이 가로적기, 세로적기를 뒤섞어 쓰게 마련한 점에 대하여서는 큰 缺陷이라고 아니할 수 없습니다. 그러하면 다른 모든 점에서는 그처럼 자못 完全無缺하다 할만치 세밀한 점까지 周密하게 연구하엿는데 왜 적는 법에는 그처럼 큰 缺點을 끼치게 되엇는가 이것은 한 큰 의문입니다. 그러하나 이것도 漢文의 영향이라고 아니 할＜63＞ 수 없습니다. 漢文은 가장 어렵고 이상한 文字외다. 한 덩이 곳 1綴이 한 音節이며 또 한 單語 곳 1字가 되는 고로 그 한『字』를 正方形으로 만들어 이것을 나리 벌이어 적는 것은 매우 아름답기도 하고 또 便宜하게 되엇습니다. 그러하나 訓民正音은 이것과 틀림에도 불구하고 그 漢文의 벌이어 적는 법을 模倣하여 正方形에 들게 하노라고 가로도 적고 세로도 적는 混雜한 不合理한 적는 법을 세운 것이라고 생각합니다. 가령 『닭』을 「ㄷㅏㄹㄱ』이라 적던지 『ㄷㅏㄹㄱ』이라 적는다면 도저히 漢文字처럼 正方形되게 하기는 어렵겟습니다. 訓民正音은 이같이 한 音節 안에 가로적기, 세로적기가 뒤섞이게 한 缺點이 잇을 뿐 아니라 한 單語(씨)를 한 덩이로 적지 아니하고 뜻 없는 한 音節을 한 덩이로 적게 된 큰 缺點도 잇습니다. 이것도 똑같은 이유도 漢文의 영향이라고 생각합니다. 漢文은 1聲 1語 1綴의 성질로 되엇지마는 우리 글은 한 소리(1聲)가 한 씨된 것도 잇고 두 소리가 한 씨된 것도 잇고 또는 세 소리 네 소리...들로 된 씨도 잇는 고로 漢文같이 한 씨를 한 덩이로 적어서는 도무지 正方形에 들어가게 지을 수가 없습니다. 그러하므로 한 씨(1語)의 한 덩이(1綴)를 벌이고 한 소리(1音)의 한 덩이(1綴)로 규정하여 正方劽�되도록 한 것이라고 생각됩니다. 그러하나 이 같이 적는 법은 보기에는 아름답게 보일는지 모르나 읽어서 그 뜻을 알아내기에는 여간 큰 곤난을 주는 것이 아닙니다. 그리하여 이것이 오늘의 한 큰 문제가 되는 것이외다. 우리 글에 대하여 좀 생각하는 이는 다
+(1) 가로 적다가 세로 적다가 하는 법을 깨트리고 전부 가로 적자. (즉 縱橫綴을 純橫綴로       하자)
+(2) 한 소리를 한 덩이로 적는 법을 깨트리고 한 씨를 한 덩이로 적자. (즉 1聲 1綴를 버       리고 1語 1綴로 하자)고 주장하는 것입니다.
+여덟째, 소리의 홋과 거듭이 잇습니다. 홋소리는 들 더되논 소리로 가를 수 없는 基本單位되는 소리요 거듭 소리는 홋소리가 서로 모이어 된 소리외다. 訓民正音에는 이것을 말하지 아니 하엿으나 中聲(홀소리)에는 ㅏㅓㅗㅜㅡㅣ 들의 여섯 홋소리가 要素가 되어서 그것들이 서로 합하여 여러 가지 거듭소리가 생기게 되엇습니다. 가령 ㅣㅏ는 ㅑ, ㅣㅓ는 ㅕ, ㅣㅗ는 ㅛ, ㅣㅜ는 ㅠ, ㅣㅡ는 , 또 ㅏㅣ는 ㅐ, ㅓㅣ는 ㅔ, ㅗㅣ는 ㅚ, ㅜㅣ는 ㅞ, ㅡㅣ는 ㅢ, ㅗㅏ는 ㅘ, ㅣㅗㅏㅣ는 ㅛㅐ, ㅣㅜㅓㅣ는 ᆐ가 되는 따위외다. 이 같이 中聲의 거듭은 限이 없습니다. 또 初聲(닿소리)에는 ㄱㄴㄷㄹㅁㅂㅅㅇㅈㅎ 들의 열 홋소리가 要素가 되어서 그것들이 합하여 여러 가지 거듭 소리가 생기게 되엇습니다. 가령 ㄱㄱ은 ㄲ, ㄷㄷ은 ㄸ... 됨 같은 것이라던지 ㅈㅎ는 ㅊ, ㄱㅎ는 ㅋ, ㄷㅎ는 ㅌ, ㅂㅎ는 ㅍ됨 같은 것이라던지 ㄹㄱ은  ㅂㅅ은 , ㄴㅈ은 ... 됨 같은 것이라던지 필요에 따라 얼마던지 합하여 쓸 수 잇음이 그것이외다. 또  ,  따위와 唇輕音 , ᅗ 따위로 홋소리에 넣을 것이나 이제 우리말에는 쓰이지 아니하는 소리외다.
+이제 이것을 그림으로 보이면 다음과 같습니다.
+
+正音價値의 認識
+이상에 訓民正音의 組織을 대강 살피어 보앗습니다. 따라서 어떠한 성질의 글이라는 것과 어떠한 가치를 가진 글이라는 것을 알겟습니다. 여러 100年 동안 自覺없는 無知한 主權者나 漢學者에게 賤待되엇섯습니다마는 內外 古今의 참學者에게는 결코 그 가치가 無視되거나 埋沒되지 아니하엿던 것입니다. 그 몇몇 批評을 들어보려 합니다.
+
+鄭麟趾 (序文)
+
+『象形而字倣古篆, 因聲而音協, 七調三極之義二氣之妙, 莫該括焉以二十八字, 而轉換無窮, 簡而要, 精而通, 故智者不崇朝而會, 愚者可浹旬而學, 以是解書, 可以知其義, 以是聽訟, 可以得其情, 字韻則淸濁之能辨, 樂歌則律呂之克諧, 無所用而不備, 無所往而不達, 雖風聲鶴唳鷄鳴狗吠, 皆可得而書焉』
+
+李瀷 (星湖)
+
+『凡有音者, 莫不有字, 人稱倉籒以來未始有也』 (註 26)
+
+李匡師 (圓嶠)
+
+『其時所撰全書失於壬辰之亂, 惠莊朝作佛經諺解, 一遵是音, 遍在寺刹, 今取考之, 與切韻及華人韻書之正音, 無所不合, 是豈非我, 聖朝聲律之敎, 可爲東方萬歲法乎』 (註 27)
+
+申景濬 (旅菴)
+
+『其爲字不多, 而其爲用至周, 書之甚便, 而學之甚易, 千言萬語, 繊悉形容, 雖婦孺童駛, 皆得而用之, 以達其辭, 以通其情, 此古聖人之未及硏得, 而通天下所無者也』 (註 20)
+
+柳僖 (方便子)
+
+『諺文, 世間至妙之物, 比之漢字, 其精有二, 漢字則制以六義, 爲形散亂, 不可以一例推萬狀, 諺文則以中係初, 以終係中, 各有條脈, 縱橫整齊, 婦人孺子, 咸能頓悟其變化, 殆如大易之爻, 錯綜往來, 無不各從其次序, 此體之精也, 漢字則古人諧聲之外, 偏房之加, 漸久漸多, 古人轉註之外, 後來詞客, 任意變讀, 以協其押韻, 如字彙所引諸詩賦, 令人涽眩, 恒起訟辨, 諺文則若移動全部則己, 欲誤一字之形得乎, 欲改一字之音, 得乎, 此, 用之精也』 (註 33)
+
+李圭景 (嘯雲)
+
+『諺文... 縱橫作字... 以翻萬物難狀之音, 蓋以反切, 合以成字, 凡六千三百四十文, 寔天地之奇文也... 若隨聲成字則增衍幾何字, 生生不窮焉, 雖使倉史製字, 何以如此, 天下萬國, 各有其國之書... 俱不如我東諺字之間易易曉也』 (註 46)
+
+成俔 (慵齋)
+
+『世宗設諺文廳... 製諺文, 初終聲八字, 初聲八字, 中聲十二字, 其字體依梵字爲之, 本國及諸國語音文字所不能記者, 悉通無礙』 (註 25)
+
+李晬光 (芝峴)
+
+『我國諺書字樣, 全倣梵字, 始於世宗朝, 設局撰出, 而制字之巧, 實自睿算云, 夫諺書出, 而萬方語音, 無不可通者, 所謂非聖人不可能者也』 (註 32)
+
+東國文獻備考 (樂考)
+
+『盖倣古篆, 分爲初中終聲, 字雖簡易, 轉換無窮, 諸國語音文字所不能記者, 悉通無礙, 極唇齒喉舌之聲, 盡宮商角徵之調, 窮淸濁高下之變, 是皆推作樂緖餘, 以賁飭乎方言, 則盖亦非樂而樂也』 (註 27)
+
+世宗實錄 (癸亥 12月 條)
+
+『其字倣古篆, 分爲初中終聲, 合之然後乃成字, 凡于文字及本國俚語, 皆可得而書, 字雖簡要, 轉換無窮.』
+
+洪良浩 (經世韻圖說)
+
+『我世宗大王, 創制訓民正音二十八字, 以應列宿之數, 而字形則奎壁圓曲之象, 點劃則小篆分隷之體, 明白簡易, 使童婦人, 可以知之, 引而伸之, 足以盡天下之文』 (註 28)
+
+世界의 자랑할 글
+周時經 (筆者가 직접 들은 바에 의함)
+
+『우리 글은 세계에 자랑할 만한 가장 진보한 科學的 組織을 가진 글입니다. 이것은 나의 獨斷이 아니라 外國人이 우리보다도 먼저 그 가치를 잘 인정하는 바외다. 요前에 나는 께일 博士의 부름을 받아 갓던 일이 잇엇습니다. 博士는 늘 우리 歷史를 상고하던 인고로 世宗의 事蹟＜65＞ 중 訓民正音의 創制에 대하여 여러 가지로 물은 뒤에 『世宗은 東洋 뿐 아니라 세계에 큰 貢獻을 한 갸륵한 王입니다. 여러 가지 위대한 事蹟이 많으나 무엇보다도 文字의 발명은 世界的 자랑이외다』 함을 들엇습니다. 그러하나 도리어 우리는 우리의 文字의 가치를 알지 못함은 크게 섭섭한 일이외다.』 (註 34)
+
+權悳奎
+
+『朝鮮글이 남의 글보다 특별히 자랑할 만한 條件이 세 가지가 잇는데 그 첫째는 母音(홀소리)과 子音(닿소리)이 분명한 것, 둘째는 組織이 學術的인 것, 셋째는 法令으로 頒布한 것이 잘 되는 것들입니다. 支那 第1革命 때 36字를 新制하엿다가 못한 일도 잇으며...』 (註 35)
+
+李允宰
+
+『우리 正音의 字形의 結構는 실로 美妙를 極하여 세계 어느 나라 文字하고 견주어 말할 수도 없는 것이다. 본디 訓民正音은 初中終 3聲과 牙舌唇齒喉 5音으로 組織되어 28字母로 이루엇고 또 並書와 唇輕音과 및 上去平入 4聲으로 盡善盡美하게 俱備하여 잇다.』 (註 36)
+
+崔鉉培
+
+『첫째 文字의 內容上으로 보자. 세계의 文字는 內容上으로 여러 階段으로 발달하여 온 것인데 우리 한글은 文字 發迀”史上 최고 階段에 속한 것이다. 文字의 발달은 다음의 네 階段이 잇다.
+一. 맺음말(結繩文字). 例, 北米 土人의 員殼帶 같은 것.
+二. 그림글(繪畵文字). 例, 北米 土藩, 기타 未開, 種族 사이에 행하는 文書의 用을 하는 그       림.
+三. 뜻글(意義文字). 支那, 埃及의 象形文字의 原始的의 것.
+四. 소리글(表意文字). 이에는 다음의 3小段이 잇다.
+1. 1字 1語의 것. 漢字 중의 諧聲文字 같은 것.
+2. 1字 1音節의 것. 日本 假名文字 같은 것.
+3. 1字 1音의 것. 로마音, 한글 같은 것.
+세계 어데에던지 文字라는 것은 반드시 우에 階段을 좇아 발달하는 것은 아니지마는 內容上으로는 반드시 우와 같은 階段이 잇는 것은 분명하다. 그러한데 우리 한글은 소리글 가온대서도 가장 진보된 階段에 속한 것이다.
+둘째 製作上으로 보건대 세계의 大多數의 文字는 自然的으로 발달하여 온 것임에 대하여 우리 한글은 一時的으로 創造된 것이다. 이 一時的 製作임은 그리 놀랍은 자랑은 될 것이 아니다. 그러하나 一時的 製作이 가장 學術的 組織과 豊富한 소리와 整齊한 형식을 具備한 것은 세계에 冠할 것이다.
+
+民衆的 解放文字
+셋째 本意上으로 보건대 世界文字는 본래 特權階級의 所有엿다. 文字는 그 글의 知識을 秘藏하고 支配慾을 만족시킬 使命을 가지엇을 뿐이엇다. 그리하다가 時代의 進步와 民衆의 覺醒으로 인하여 文字의 使命이 局限된 特權階級에서 解放된 것이다. 그러한데 우리 한글은 애초부터 民衆의 敎化의 福利, 民意의 暢達을 使命을 삼고 誕生된 것이다. 이는 訓民正音의 劈頭에 世宗大王께서 명백히 宣布하신 바다.
+넷째 書式上으로 보건대 世界文字의 書式은 大略 縱書와 橫書와 두 가지로 나눌 수가 잇다. 그러한데 縱書文字는 蒙古, 滿洲, 支那, 日本, 朝鮮 등 極少數에 지나지 못하고 그 밖의 모든 文字가 다 橫書다. 縱書에도 滿洲, 蒙古 文字 모양으로 왼쪽에서 옳은 쪽으로 쓰어 오는 것도 잇고 漢文, 假名 모양으로 오른쪽에서 왼쪽으로 쓰어 가는 것도 잇다. 橫書에도 아라비아 文字 모양으로 오른쪽에서 왼쪽으로 쓰어 가는 것도 잇고 로마文字 모양으로 왼쪽에서 오른쪽으로 쓰어 오는 것도 잇다. 우리 한글은 방금은 세로글씨(縱書)의 오른쪽에서 왼쪽으로 쓰어＜66＞ 가는 것이다. 그러하나 한글은 가로글씨(橫書)로 변화할 性能을 또한 가지고 잇다. 이것이 우리 글이 저 漢文, 日本文 등 縱書와는 다른 優越한 점이다. 이 時代를 따라 變化應用의 自存性이 저 民衆敎化의 大使命을 가지고 난 우리 한글의 相應한 特性이다. 내가 우리 글의 가로쓰기를 主唱하고 그 書體를 연구함은 이 한글의 중대한 意義를 完遂하게 하기 위함이다.
+以上에 아주 간단히 말한 바에 의하여 우리 한글이 세계 文學上에 어떠한 特異性과 優越點을 가지고 잇는가가 밝아진 줄로 생각한다. 즉 世界文字의 發達史的 階段으로나 學術的 組織的으로나 民衆敎化의 使命으로나 縱橫書 變化 自在性으로나 넉넉히 우리 글은 世界的으로 완전한 文字다. 이러틋 훌륭한 글을 가진 우리 겨레는 훌륭한 理想과 훌륭한 勞力으로써 이 文字의 主人됨에 부끄럽지 아니하도록 하여야 할 것이다.』 (註 37)
+
+申明均
+
+『우리가 朝鮮文은 세계에 제일이다 하는 自負를 가지고 잇는 것처럼 朝鮮文이 과연 理想的이냐 하면 오늘날 現狀으로 도저히 이를 首肯할 수 없는 바다. 보기에만 편리한 점으로는 漢字를 덮을 文字가 없을 것이요 배우기에만 쉬운 편으로는 日本 假名에 지나는 것이 없을 것이요 印刷의 簡便으로는 英字에 지나는 것이 없을 터지마는 漢字같은 것은 學習과 印刷에 불편하기로는 아마 세계에 그 類가 없을 것이고 假名같은 것은 배우기는 比較的 쉬워도 보기와 印刷에는 역시 短處를 가지고 잇다. 그러하나 英字와 같은 것은 漢字나 假名들에 비하여 比較的 모든 長處를 골고루 가지고 잇지마는 그 組織이 非科學的이어서 그 法이 지저분하기로는 또 세계에 類가 없을 것이다. 그러하나 우리 朝鮮文字는 世宗大王 訓民正音 序文에도 잇는 바와 같이 『使人人易習, 便於日用耳』라는 한 句節이 우리가 自負하는 바와 같이 名實이 相副하게 世界文字 중 卓越한 바가 잇다.』 (註 38)
+
+東洋文字 中 白眉
+小倉進平
+
+『諺文은 오늘의 學術上으로 보아도 확실히 훌륭한 것이라고 할 수 잇다. 그러하나 이것이 發布되려 할 때와 發布된 當時의 學者 乃至 一般國民의 意向은 어떠하엿섯는가. 오늘날 우리의 想像으로 말하면 一般國民의 大歡迎을 받아 아무 거침없이 通用되엇스리라고 생각되지마는 實際에는 반드시 그러치 못하엿섯다.』 (註 3)
+
+金澤庄三郞
+
+『...子母 28字로 되엇는데 東洋文字 중 가장 진보한 것이라 일컫는다. ...李氏朝鮮의 第 4世 世宗 28年에 새로 國字를 制定하게 되엇다. 世宗은 海東의 堯舜이라 일컫는 明君인데 李朝의 精華는 자못 이 時代에 集中되엇다. 諺文制定 같은 것도 실로 이 王의 事業 중의 하나로서 元의 巴思巴(Pagspa)文字 돌의 例에 의하여 國家의 獨立과 國字와의 관계도 느끼엇을 것이지마는 또 특히 太宗 3年(西紀 1403)에 金屬活字의 發明(註 40)됨은 諺文製作의 機運을 促進함과 같다. ... 최근 연구에 의하면 印度 『데바나아가리』(Devanagari)의 組織을 본받아 數 個의 梵字를 基礎로 하고 여기에다 獨特한 考案을 더하여 學術的으로 완성한 것 같다』 (註 39) 하고 또 『... 이 완전한 標音文字의 발명이 잇으므로부터 朝鮮語는 百般의 事項에 뻗히어 그 材料가 자못 豊富하게 되엇다』 (註 41) 하고 또 『諺文은 세계의 文字 중 가장 새로운 것의 하나로서 漢字나 假字와 달라서 純然한 「알파베트」式의 表音文字다. ...諺文은... 세계의 文字 중에 類없는 特種의 構造를 가지엇다. 그것은 聲音을 科學的으로 분류하여 同種類의 聲音을 表하는 文字는 同一한 基礎文字에서 順次로 발달시킨 일이다. 가령 스(S)에서＜67＞ ㅈ(ch), ㄴ(N)에서 ㄷ(T)와 ㄹ(R)을 만들음과 같은 따위가 그것이다. 이 점에서 諺文은 文字의 歷史 중에 특별한 한 階段을 짓는 것이며 朝鮮人의 과거에 대한 智的 産物 중 세계에 자랑할만한 것이다.』 (註 42)
+
+崔萬理
+
+『臣等伏覩諺文, 制作至爲神妙, 創物運智, 夐出千古』
+
+휴·밀러 (閔休)
+
+「朝鮮文이 기억하기 쉽고도 活用이 넓으며 또한 簡便하고 組織의 纖巧함이 『알파베트』로는 두리건대 세계에 그 儔匹이 없는가 합니다.』 (註 44)
+
+포올·몬로
+
+『新羅時代(第 8世紀)에 朝鮮의 최대 學者 薛聰이 漢字로 吏讀文字를 만들어 그 邦言을 표현하기에 꽤 편리하엿다. 그 뒤에 朝鮮의 한 政事者가 諺文이란 것을 만들엇는데 그것은 진정한 表音的 『알파베트』로써 發聲器官에 基礎하여 만든 것이며 세계 중 가장 훌륭한 것의 하나다. 直線과 圓으로 만든 11母音과 14子音으로 구성되엇다. 이두 系統의 文字가 倂行된다. 그 文字를 여러 가지로 合成한 199音節은 아무 解釋이나 分折이 없이 어린이들에게 외오게 한다. 이 通俗文體로 私信이 쓰이며 여자와 청년이 읽는 小說이 印刷된다. 배우기에 그처럼 매우 쉽고 通俗的 媒介物이 된다고 하여서 諺文은 學者들에게 排斥되엇다. 여러 世紀 동안 學者階級에게 無用의 長物로 버리어지엇더니 西洋의 宣敎師들이 들어가아 그들은 기쁘게 그 글을 敎育과 宣敎에 應用하게 되자 一般으로 사용하게 된 것이다. 日本과 마찬가지로 3,4種의 말의 형식이 아직도 流行되는데 그 첫째는 純 漢文體, 둘째는 조선글에 漢文 單語를 섞은 體, 셋째는 純 조선글로 적는 通俗體, 넷째는 書信文體가 그것이다.』 (註 45)
+
+이 밖에도 여러 西洋 辭書라던가 叢書라던가 歷史라던가 言語學的 文獻에서 많은 批評을 찾을 ㅅ수 잇겟으나 餘暇가 없고 그러한 參考書들을 손쉽게 얻을 수도 없는 고로 위선 아직 이만 그치려 합니다.
+
+(註 33) 柳僖 著 『諺文誌』
+(註 34) 辛亥年 間에 筆者가 周時經先生께 敎授時間에 직접 들은 말.
+(註 35) 權悳奎씨의 『訓民正音沿革』 (丙寅 11月 16日 朝鮮日報 所載)
+(註 36) 李允宰씨의 『世宗과 訓民正音』 (丁卯 11月 25日 東亞日報 所載)
+(註 37) 崔鉉培씨의 『우리 한글의 世界文字上 地位』 (丁卯 10月 24日 中外日報 所載)
+(註 38) 申明均씨의 『整理期의 朝鮮文』 (丁卯 10月 24日 朝鮮日報 所載)
+(註 39) 金澤庄三郞씨의 『諺文』 條 (日本 百科大辭典 중)
+(註 40) 活字의 印刷에 대한 記事가 처음으로 文獻에 나타난 것은 高麗 高宗 21年(西紀     1234)에 『詳定禮文』 28本을 印刷하엿다는 것임. (李相國集)
+또 그 뒤 恭讓王 4年(西紀 1392)에 書籍院을 두고 活字로 書籍을 印刷하엿다는 것도 (高麗史) 太宗 3年에 活字로 印刷하엿다는 것보다는 먼저 됨.
+(註 41) 金澤庄三郞씨의 『朝鮮語』 條 (日本 百科大辭典 중)
+(註 42) 金澤庄三郞씨의 『國語學通論』의 附錄 중.
+(註 43) 『世宗實錄』 26年 甲子 條 崔萬理의 訓民正音 反對上疏文 중.
+(註 44) 휴·밀러(H. Miller)씨(京城大英聖書公會宣敎師)의 『朝鮮文과 耶穌敎』 『丙寅 11月 10日 朝鮮日報 所載)
+(註 45) 哲學博士 포울·몰로(Paul Monroe)씨는 米國 컬럼비아 大學 師範科의 敎育史 擔任 敎授.
+Paul Monroe; "Cyclopedia of Education"
+(Korea, Education in-의 條”)
+(註 46) 李圭景 著 『五洲衍文長箋散稿』＜68＞
+＜62-68＞

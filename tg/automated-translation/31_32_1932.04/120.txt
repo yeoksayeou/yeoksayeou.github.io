@@ -1,0 +1,71 @@
+**Header Section:**
+Magazine Title: 동광 (東光) 제32호
+Publication Date: 1932년 04월 01일
+Article Title: 珍事奇談, 世界最大의 藏金窟 (Rare and Strange Tales, The World's Largest Gold Vault)
+Author: Not specified
+Article Type: 소식 (News/Report)
+
+**Body Text Translation:**
+Rare and Strange Tales, The World's Largest Gold Vault
+In the Bank of Paris, Capital of France
+
+Today, among the nations of the world, the countries storing the most gold bullion are the United States and France. Speaking of the Bank of France (프랜쓰銀行) located in Paris (巴里), the capital of France (法京), its architecture is also one of the world's famous structures. While its magnificent structure and solemn grandeur are unsurpassed, the underground vault constructed for storing gold truly makes one gasp. Digging 80 *ch'ŏk* deep into the subterranean levels, a lake was created, and an island was formed in its center, where the gold bullion storage was placed. Strong walls (堅墻) surround its perimeter, and at the entrance/exit, an iron door weighing as much as 7 tons is installed, ensuring strict defense. Should a theft occur unexpectedly, activating a certain device causes the lake to overturn, resulting in the gold storage being submerged within the lake. As for the quantity of gold bullion accumulated in this underground vault, it is indeed enormous. According to a recent survey, the value is said to be 4.06 billion won in gold currency (金貨), and it is reportedly all kept crafted into brilliant gold bars (金條).<39>
+
+**Summary**
+
+This 1932 article reports on the immense gold reserves held by the Bank of France in Paris, describing it as one of the world's largest gold vaults alongside the United States'. It details the vault's elaborate security: an underground structure 80 *ch'ŏk* deep featuring an artificial lake with the vault on a central island, protected by strong walls, a 7-ton iron door, and a mechanism to flood the entire vault in case of attempted theft. The value of the gold, stored as bars, is stated as 4.06 billion won in gold currency. From the perspective of Korean colonial history, this article is interesting as it showcases Korean awareness of and fascination with the wealth and advanced engineering (particularly security technology) of major Western powers during a period of Japanese rule. For historians, it reflects the flow of international news into colonial Korea and provides a contemporary perspective on how the economic power and perceived sophistication of nations like France were presented to a Korean audience, potentially serving as a point of comparison or aspiration amidst their own subjugated reality. The sheer scale of wealth mentioned would have been particularly stark against the economic backdrop of 1930s Korea.
+
+**Named Entities**
+
+世界	세계	World
+美國	미국	Miguk
+法國	법국	Pŏpkuk
+法京 巴里	법경 파리	Pŏpkyŏng Pari
+프랜쓰銀行	프랜쓰은행	P’ŭraenssŭ Ŭnhaeng (Bank of France)
+
+**Glossary**
+
+珍事奇談	진사기담	Rare and Strange Tales
+藏金窟	장금굴	Gold vault; Place where gold is hidden/stored
+法京	법경	Capital of France (older term)
+巴里	파리	Paris (older phonetic transcription)
+金塊	금괴	Gold bullion; Gold ingots
+貯藏	저장	Storage; Storing
+結構	결구	Structure; Framework; Construction
+氣象	기상	Atmosphere; Spirit; Magnificence
+壯嚴	장엄	Solemnity; Majesty; Grandeur
+築造	축조	To build; To construct
+地下窟	지하굴	Underground cave; Underground vault
+尺	척	*Ch'ŏk* (traditional Korean/East Asian unit of length, approx. 30.3 cm)
+湖水	호수	Lake
+堅墻	견장	Strong wall; Solid wall
+噸	톤	Ton (older phonetic transcription)
+鐵門	철문	Iron gate; Iron door
+防守	방수	Defense; Guarding
+嚴密히	엄밀히	Strictly; Tightly; Rigorously
+一朝	일조	Suddenly; In case of emergency (lit. 'one morning')
+盜難	도난	Theft; Robbery
+裝置	장치	Device; Mechanism; Apparatus
+飜覆되여	번복되어	To be overturned; To be flooded (older verb ending form of 번복되다)
+淹沒	엄몰	Submersion; Inundation
+藏積	장적	To store up; To accumulate
+數量	수량	Quantity; Amount
+엄청난다	엄청나다	To be enormous; To be tremendous (older conjugation/form)
+金貨	금화	Gold coin; Gold currency
+燦爛한	찬란한	Brilliant; Radiant; Resplendent
+金條	금조	Gold bar
+지워서	지어서	Having made; Having built (here context implies 'cast' or 'formed into bars', older spelling/usage of 짓다)
+두엇다	두었다	Placed; Kept; Stored (older spelling)
+
+
+---------------------------
+
+
+잡지명	동광 제32호
+발행일	1932년 04월 01일
+기사제목	珍事奇談, 世界最大의 藏金窟
+기사형태	소식
+
+珍事奇談, 世界最大의 藏金窟
+法京 巴里銀行에
+오늘 世界各國 중 金塊를 제일 많이 貯藏한 나라는 美國과 法國이다. 法京 巴里에 잇는 프랜쓰銀行으로 말하면 그 건축으로도 世界에 유명한 것 중 하나이니 그 結構의 위대함과 氣象의 壯嚴함도 더할 데 없거니와 藏金하기 위하야 築造한 地下窟로 말하면 실로 혀를 빼지 않을 수 없다. 地下層으로 80尺을 깊게 파고 湖水를 만든 후에 그 중앙에 한 섬을 만들고 거기에 金塊貯藏所를 두엇는대 그 周園에는 堅墻을 두루고 出入口에는 重이 7噸이나 되는 鐵門을 달아 防守를 嚴密히 하엿다. 만일 一朝에 盜難이 생기는 경우에는 어떤 裝置를 動하면 그 湖水가 飜覆되여 藏金所가 湖중에 淹沒되고 만다. 이 地下高에 藏積한 金塊의 數量으로 말하면 과연 엄청난다. 최근 조사에 의하면 價格이 金貨 40억 6,000만원이라 하는대 이것을 모도 燦爛한 金條로 지워서 두엇다 한다.＜39＞

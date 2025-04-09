@@ -1,0 +1,262 @@
+Magazine Title: 동광 제10호
+Publication Date: 1927년 02월 01일
+Article Title: 血淸學上으로 본 人類血液의 四型別 (The Four Types of Human Blood Viewed Serologically)
+Author: 白麟濟
+Article Type: 논설 (Editorial/Article)
+
+The Four Types of Human Blood Viewed Serologically
+						Paek Inje
+
+- Isohemagglutination Reaction - Blood Transfusion - Blood Type Distribution and Anthropological Considerations - Bloodstain Identification - Blood Type Inheritance and Forensic Applications - My Experiments and Humble Opinions on the Physiological Application of Hemagglutination Reactions.
+
+Regarding Blood Research - specifically the Isohemagglutination Reaction in Human Blood - having read books and conducted my own research from time to time over the years, I venture to use this valuable space, endeavoring to write something that will hopefully not draw criticism from readers as excessively tedious and useless. As this originally belongs to a highly specialized field, I know my brief article and shallow knowledge may not adequately meet expectations. However, if through this, some readers, including so-called scientists and medical scholars, can grasp what applied science generally entails, and understand the approaches, perspectives on natural phenomena, interpretation methods, and efforts towards application in their so-called research process, it would truly be my great fortune.
+
+1. Isohemagglutination Reaction (The 4 Types of Human Blood)
+This time, I will first briefly introduce what the isohemagglutination reaction is and how human blood is classified into 4 types based on it, and then proceed to describe the various topics listed in the heading in subsequent installments. Therefore, although it may be somewhat lengthy, I will explain using the following several points for clear understanding.
+
+Agglutination Reaction-. Originally, various agglutinins exist in animal blood. Depending on the agglutinable substance that is agglutinated by these agglutinins, there are names like bacterial agglutinin and hemagglutinin. Also, depending on whether they are naturally present from birth or acquired later, either naturally or artificially, there is a distinction between physiological (congenital) agglutinins and immune (acquired, artificial) agglutinins. The phenomenon where agglutinable substances like bacteria or blood cells clump together due to the action of agglutinins in a serum is called the agglutination reaction. This reaction, similar to various chemical reactions described by chemists, is an extremely necessary and frequently used term in serology.
+
+Interpretation of the Nature of Agglutination Reaction-. Although our current knowledge cannot fully demonstrate and explain how these various agglutination reactions occur, comprehensively observing the characteristics of various agglutination reactions <46> based on research facts accumulated over several decades reveals the discovery of a consistent, rigid rule common among them. Relying on this rule allows for the demonstration of various agglutination reaction phenomena in serology one by one, making it clear that this rule is indeed the only knowledge we currently possess for interpreting the nature of agglutination reactions. This is the famous side-chain theory by Mr. Ehrlich. To explain simply, the conditions for an agglutination reaction to occur necessitate the presence of so-called agglutinins possessing both a haptophore (結合簇) and an agglutinophore (凝集簇), and side-chains, i.e., receptors (受體), that have the property of binding with the haptophore of these agglutinins. That is, the receptors possessed by cells, whether bacteria or blood cells, must bind with the haptophore of the agglutinins in the serum applied to these cells for the agglutinophore of these agglutinins to agglutinate the cells. Therefore, even if cells possess various receptors, if the serum lacks agglutinins capable of binding with them, or conversely, even if the serum contains various agglutinins, if the cells lack receptors to bind with them, the agglutination reaction can never occur. Consequently, the various agglutination reactions mentioned above all possess specific characteristics unique to their agglutinins or receptors. That is,
+Bacterial Agglutinin and Hemagglutinin
+are distinct, and naturally, their corresponding receptors also have different properties. Furthermore, even among bacterial agglutinins, each is specific according to the nature of the bacteria. For example, just as the dysentery bacillus agglutinin and the cholera vibrio agglutinin are different, so too are hemagglutinins for different species' blood cells and same-species blood cells distinct. Simultaneously, among different species' blood cells, the agglutinins for their blood cells differ, especially as the species are more distantly related in evolutionary terms.
+
+Diagram of the Mechanism of Agglutination Reaction Establishment
+(To explain the mechanism of agglutination reaction establishment in detail, it is as illustrated above) <47>
+As briefly described above, the agglutination reaction is one of the extremely important phenomena in serology, and research on the agglutination reactions of various bacteria and blood cells
+has undoubtedly made significant contributions
+in biology, medicine, and especially in diagnostics and therapeutics. However, previous research, across various animals and humans, had asserted that there was no hemagglutination reaction among individuals of the same species. This was partly because theoretical reasoning suggested such serological reactions wouldn't occur within an individual, closely related individuals, or the same species, and also because the inconclusive, fragmentary experimental results of a few scholars showed negative results consistent with this assumption. However, in 1901, research by Mr. Landsteiner shattered this previous misconception. He demonstrated and discovered the phenomenon of hemagglutination reaction between individuals within the human species, which is the origin of the term isohemagglutination reaction. According to his research, this reaction allows for the broad classification of human blood into 3 types. However, subsequent follow-up experiments by 4 or 5 scholars confirmed the existence of a 4-type classification, which I will now introduce in detail.
+
+(1) Blood Typing and Typing Method
+Within human serum, there are two types of hemagglutinins, tentatively named α and β. Correspondingly, blood cells possess two types of receptors, called A and B, respectively. However, blood containing α in the serum lacks A in the blood cells, and blood containing β in the serum lacks B in the blood cells. Therefore, the 4 types of human blood are structured as shown in the following table.
+
+Blood Typing and Typing Method Table
+That is, the naming of the A, B, AB, O types is
+based on the receptors present in their respective
+blood cells. Looking at the structure in the table above, the agglutination reaction relationships can be explained as follows:
+Type A {Serum... Agglutinates blood cells of Type B and Type AB.
+Blood cells... Are agglutinated by serum of Type B and Type O.
+Type B {Serum... Agglutinates blood cells of Type A and Type AB.
+Blood cells... Are agglutinated by serum of Type A and Type O.
+Type AB {Serum... Cannot agglutinate blood cells of any other type.
+Blood cells... Are agglutinated by serum of any other type.
+Type O {Serum... Agglutinates blood cells of any other type.
+Blood cells... Are not agglutinated by serum of any other type.
+Looking at the table above, the relationships are explained very simply. Type A and Type B, and Type AB and Type O, respectively, have opposite relationships regarding the possession of agglutinins and receptors. <48>
++ indicates a positive reaction (agglutination occurred)
+- indicates a negative reaction (no agglutination occurred)
+
+(2) Method for Identifying Unknown Blood
+Now, to determine which of the 4 types anyone belongs to, one can simply observe the reaction relationship of their
+blood cells with both Type A and Type B sera.
+These A and B sera are called standard sera, and by preserving them, one can easily identify the blood type anytime, anywhere. That is, by observing whether an individual's blood cells show an agglutination reaction with these A and B standard sera, whether they agglutinate only with A serum, or conversely, only with B serum, one can determine which of the 4 types the blood cells belong to by referring to the table shown above. It is as shown in the table to the left.
+That is, if agglutination occurs only with B serum among the A and B sera, it is Type A; conversely, if only with A serum, it is Type B; if with both, it is Type AB; and if with neither, it is clearly Type O.
+Table for Testable Unknown Blood
+
+(3) Method for Selecting Standard Sera
+To identify the blood type of an unknown person, as described above, using
+both Type A and Type B standard
+sera is the simplest and most complete method. How are these standard sera selected? Approximately 20 individuals' blood is collected, a few [units, perhaps drops?] (數 8式?) each. A small portion of each is added to a sodium citrate solution to prevent coagulation and make a blood cell suspension. The remaining larger portion is allowed to coagulate to collect serum. Then, the serum and blood cells of these 20 individuals are reacted sequentially with the serum and blood cells of the others. The positive/negative relationship of the reactions can be immediately judged against the structure table mentioned above to determine which of the 4 types
+each belongs to instantly.
+From these, based on the relationship of A, B, α, β in the blood cells and serum, selecting both A Type and B Type individuals provides the standard sera. Whenever needed, blood can be drawn from these A and B type individuals to obtain the serum.
+
+(4) Experiment Regarding Inductive Proof for Isohemagglutination Reaction
+It is certain that the hemagglutination reaction of human blood, as described above, clearly applies to each individual and allows for the distinct division into 4 types. Explaining the nature of this reaction, as previously mentioned, through the serological structure of blood cells and serum—that is, the presence or absence <49> of the two types of receptors A and B and the corresponding two types of
+agglutinins α and β—
+is extremely appropriate based on the general laws of agglutination reactions, leaving no room for doubt. However, if the nature is indeed so, inductive proof that can explain it point by point is necessary. And it must certainly be inducible. The experiment we should conduct is undoubtedly the agglutinin absorption test on serum.
+The absorption test involves taking serum assumed to contain agglutinin α, or β, or both α and β, and reacting it with blood cells assumed to possess the corresponding receptors A, or B, or both A and B, thereby absorbing or removing
+some or all of the agglutinins,
+experimentally demonstrating that the serum becomes entirely devoid of α and β, like AB type serum. To describe one example method: Take a certain amount of O type serum, assumed to contain both α and β agglutinins, place it in a precipitation glass tube, first add an excess amount of B type blood cells assumed to possess the A receptor (Note: this seems incorrect, should be A type cells for A receptor to absorb α), shake well and mix, place in an incubator for 30 minutes, then centrifuge to completely precipitate the agglutinated
+blood cells at the bottom of the tube.
+Take the supernatant and test for agglutination reaction; it demonstrates that the supernatant has lost all of the α agglutinin from the original α and β pair, possessing only β. That is, this serum is no longer O type serum but has become B type serum (Note: Following the logic, if A cells were used, it should become B type serum containing only β. If B cells were used, it would become A type serum containing only α). Next, transfer this supernatant to another glass tube, and this time, add an excess amount of B type blood cells (Note: Should be A type cells if the previous step yielded B type serum, or B type cells if the previous step yielded A type serum) that will bind with the β agglutinin (Note: Should be α agglutinin if previous step yielded A type serum), perform the same procedure as before, and then examine the supernatant. It has lost both α and β agglutinins entirely, and its properties are exactly like AB type serum, unable to agglutinate any other type of blood cells. However, if this final supernatant is applied
+to rabbit or sheep blood cells,
+it is still observed to agglutinate them. This is analogous to how AB type serum, despite lacking the human hemagglutinins α and β, possesses agglutinins for heterologous blood cells like rabbit and sheep, thus demonstrating that this absorption test is methodologically sound.
+The results of this absorption test are successful not only in stepwise converting O type serum into A type, B type (Note: should be A type then AB, or B type then AB based on correction above), and AB type serum, but it is also experimentally proven that, by the same logic, A type or B type can be converted into AB type.
+Conversely to this absorption test, it has also been experimentally shown that we can obtain counter-evidence by mixing and adjusting various types of serum or blood cells (the principles of this absorption test and counter-evidence were applied in other experiments I conducted, which will be described later; it is a very interesting phenomenon).
+Above, I believe I have fully explained what the isohemagglutination reaction is and how human blood can be classified into 4 types based on it. Truly, this phenomenon is undoubtedly a splendid natural phenomenon, no different from the great natural phenomena of the four seasons and the cycle of day and night. Furthermore, although it is unknown whether its influence on us is quantitatively the same as the aforementioned great natural phenomena, it is not difficult to imagine that it has effects that cannot be overlooked. <50>
+
+**Summary**
+
+This 1927 article by Paek Inje explains the scientific basis of the four human blood types (A, B, AB, O) based on the isohemagglutination reaction discovered by Landsteiner. It details the underlying serological principles involving agglutinins (α, β) in serum and receptors (A, B) on red blood cells, explaining how their combinations define the four types and their interaction patterns. The text describes methods for identifying an individual's blood type using standard A and B sera, how to select these standard sera, and confirms the theory using agglutinin absorption tests, demonstrating how serum characteristics can be experimentally altered. Paek emphasizes this blood group system as a fundamental natural phenomenon with significant implications. From a colonial history perspective, this article is significant as it showcases a prominent Korean intellectual, Paek Inje, engaging with and disseminating advanced Western medical science (serology) in the Korean language during the Japanese colonial period. It reflects the efforts to modernize Korean scientific understanding and potentially laid groundwork for applications in medicine and forensics within Korea, despite the colonial constraints.
+
+**Named Entities**
+
+白麟濟	백인제	Paek Inje
+에ㄹ리히	에르리히	Ehrlich
+란드스타이나	란드슈타이너	Landsteiner
+
+**Glossary**
+
+血淸學	혈청학	Serology
+人類血液	인류혈액	Human blood
+四型別	사형별	Four types/categories
+同種 血球 凝集 反應	동종 혈구 응집 반응	Isohemagglutination reaction (agglutination reaction between blood cells of the same species)
+輸血	수혈	Blood transfusion
+人種學的	인종학적	Anthropological
+血痕鑑定	혈흔감정	Bloodstain identification
+法醫學的	법의학적	Forensic medical
+卑見	비견	Humble opinion/view (modest term)
+짬짬히	짬짬이	From time to time, in spare moments (older spelling)
+敢用하여	감용하여	Daring to use, venturing to use
+專門的	전문적	Specialized, technical
+淺識	천식	Shallow knowledge
+取扱하는	취급하는	Dealing with, handling (older connective form)
+途程	도정	Process, course, path
+如何한 것인가	여하한 것인가	What kind of thing it is, what it is like
+會得하는	회득하는	Grasping, understanding
+幸甚	행심	Great fortune, extreme happiness
+爲先	우선	First of all (older spelling/Hanja usage)
+記述코저	기술코자	Intending to describe (older volitional form)
+冗長하지만	용장하지만	Although lengthy/verbose
+便키	편키	To be convenient (older adverbial form)
+左記	좌기	Written below/following
+凝集素	응집소	Agglutinin
+被凝集物	피응집물	Agglutinable substance
+生來로	생래로	Naturally, innately, from birth
+後天的	후천적	Acquired, postnatal
+生理的	생리적	Physiological
+免疫	면역	Immune
+互相凝集	호상응집	Mutual agglutination
+結塊하는	결괴하는	Clumping, forming masses
+術語	술어	Technical term
+本體	본체	True nature, essence, substance
+如實히	여실히	Truthfully, accurately, as it is
+屢 10년 來	수십년래	For the past several decades
+徵하여	징하여	Based on, according to
+綜合	종합	Synthesize, integrate
+觀察할진대	관찰할진대	Observing, upon observation (older conjunctive form)
+此間에	차간에	Among these, herein
+整然한	정연한	Orderly, systematic
+鐵則	철칙	Iron rule, rigid principle
+依支하여	의지하여	Relying on, based on
+側鎖說	측쇄설	Side-chain theory
+結合簇	결합족	Haptophore (binding group)
+凝集簇	응집족	Agglutinophore (agglutinating group)
+受體	수체	Receptor
+別樣	별양	Different kind, distinct
+異種血球	이종혈구	Heterologous blood cells (blood cells of different species)
+同種血球	동종혈구	Homologous blood cells (blood cells of same species)
+遠隔할쓰록	원격할수록	The more distant (older spelling `ㅆ` for `ㅅ`)
+誤測	오측	Misconception, incorrect assumption
+깨트린 바 되엇스니	깨뜨린 바 되었으니	Was shattered (older spelling `트리` vs `뜨리`, `되엇` vs `되었`)
+沿源	연원	Origin, source
+追試實驗	추시실험	Follow-up experiment, verification experiment
+搆造	구조	Structure, constitution
+假稱하면	가칭하면	If tentatively named
+呼稱한다	호칭한다	Is called, is termed
+何者에	하자에	To which one
+屬한가를	속한가를	Belongs to
+判識함에는	판식함에는	In identifying/determining
+標準血淸	표준혈청	Standard serum
+照徵하여	조징하여	By referencing, comparing against
+自明하다	자명하다	Is self-evident, obvious
+選出法	선출법	Selection method
+數 8式	수 팔식	(?) Uncertain meaning, possibly 'several units/portions' or a specific quantity notation of the time.
+拘椽酸曹達	구연산소다	Sodium citrate (older Hanja rendering)
+投하여	투하여	Adding, putting into
+凝固치	응고치	Not coagulate (older negative form)
+其 餘大部	그 여대부	The remaining large part
+順列式으로	순렬식으로	Sequentially, in order
+卽 坐로	즉좌로	Immediately, on the spot
+歸納的	귀납적	Inductive
+疑念	의념	Doubt, suspicion
+置할 餘地가 업슬 터이다	치할 여지가 없을 터이다	There should be no room to place (doubt)
+吸收 試驗	흡수 시험	Absorption test
+假定하는	가정하는	Assumed, hypothesized
+振盪混合	진탕혼합	Shake and mix
+孵卵器	부란기	Incubator
+遠心器	원심기	Centrifuge
+管底	관저	Bottom of the tube
+上淸	상청	Supernatant
+奪失하고	탈실하고	Having lost, being deprived of
+別個의	별개의	Separate, distinct
+檢하매	검하매	Upon examining (older conjunctive form)
+異種血球	이종혈구	Heterologous blood cells
+同然한 바니	동연한 바니	Being the same as, just like
+反證	반증	Counter-evidence, refutation
+施行한	시행한	Carried out, performed
+輪環되는	윤환되는	Cycling, revolving
+모름즉이	모름지기	Indeed, truly, certainly (often implies 'should be')
+等閑히	등한히	Negligently, carelessly
+
+
+---------------------------
+
+
+잡지명	동광 제10호
+발행일	1927년 02월 01일
+기사제목	血淸學上으로 본 人類血液의 四型別
+필자	白麟濟
+기사형태	논설
+
+血淸學上으로 본 人類血液의 四型別
+						白麟濟
+- 同種 血球 凝集 反應 - 輸血 - 血型分布와 人種學的 考察 - 血痕鑑定 - 血型 遺傳과 法醫學的 應用 - 血球 凝集反應의 生理學的 應用에 대한 余의 實驗과 卑見.
+
+血液硏究 -人類血液의 同種血液 凝集 反應-에 就하여 年來 짬짬히 책도 읽고 스스로 연구도 하여 본대서 귀중한 紙面을 敢用하여 讀者 여러분에게 過히 冗雜 無用의 非難을 밧지 안흘 것으로 써 보려고 힘쓴 것이 이것이다. 원래 넘우 專門的 사실에 속한 것이라 短文淺識으로 능히 기대에 副치 못할 줄을 아나 혹 이로 인하여 讀者 여러 분 가운대 소위 科學者 醫學者가 取扱하는 應用科學이 대개 어떠한 것이며 彼等의 소위 연구하는 途程 自然現象에 대한 着眼, 解釋方法 應用에 대한 노력이 如何한 것인가를 會得하는 이가 잇다 하면 실로 筆者의 幸甚일까 한다.
+
+1. 同種血球 凝集反應(人類血液의 4型別)
+이번에는 爲先 同種 血球 凝集反應이란 어떤 것인가 어떠케 하여 人類 血液을 4型으로 分類하느냐에 대하여 간단히 소개함에 그치고 다음다음 頭書한 여러 項目에 就하여 記述코저 한다. 그럼으로 좀 冗長하지만 확실히 理解하기에 便키 위하여 左記 數 項을 들어 설명코저 한다.
+凝集反應-. 원래 동물의 血液중에는 여러 가지 凝集素가 잇나니 이 凝集素에 의하여 凝集되는 被凝集物에 딸아 細菌凝集素, 血球凝集素의 名稱이 잇고 또 生來로 가지고 잇는 것과
+後天的으로 혹은 人工的
+으로 생기게 한 것을 딸아 生理的(先天的) 凝集素 免疫(後天的, 人工的)凝集素의 구별이 잇다. 그러고 細菌이나 血球 등의 被凝集物이 어떤 血淸의 凝集素의 작용으로 互相凝集 結塊하는 現象을 凝集反應이라 하나니 이 反應은 化學者의 일컷는 諸種 化學反應과 同樣으로 血淸學上에 극히 필요하고 頻用되는 術語다.
+凝集反應의 本體에 대한 解釋-. 이런 여러 가지 凝集反應이란 어떠케 되어 일어나느냐에 대하여는 지금 吾人의 가진 智識으로 이것을 如實히 證明 解說할 쑤 업스나 그러나 諸種 凝集反應의＜46＞ 性質이
+屢 10년 來의 硏究한 事實
+에 徵하여 이를 綜合 觀察할진대 此間에 整然한 鐵則이 공통되어 잇음을 발견하엿나니 이 法則에 依支하여 血淸學上의 諸種 凝集反應 現象을 一一 證明할 쑤가 잇슴을 보아 이 法則이야말로 아직껏 吾人의 가진 凝集反應의 本體 解釋에 유일한 智識임이 확실하다. 곳 저 유명한 에ㄹ리히Ehrich씨의 側鎖說이 이것이다. 간단히 설명할찐대 무릇 凝集反應의 成立條件엔 結合簇과 凝集簇을 가진 소위 凝集素와 이 凝集素의 結合簇과 結合하는 性質을 가진
+側鎖 卽 受體 잇슴이 必要
+하다. 곳 細菌이나 血球를 물론하고 細胞가 가진 受體가 이 細胞에 작용시킨 血淸 중의 凝集素의 結合簇과 結合하여야 이 凝集素의 凝集簇이 이 細胞를 凝集시키나나니 고로 細胞에 여러 가지 受體가 잇더라도 血淸중에 이와 結合性이 잇는 凝集素가 업던지 혹은 血淸중에 여러 가지 凝集素가 잇더라도 細胞에 이와 結合할 受體가 업는 때 결코 凝集反應은 成立되지 못한다. 그럼으로 上述한 여러 가지 凝集反應은 그 凝集素로나 受體로나 다 特有한 固有性이 잇다. 곳
+細菌凝集素 血球凝集素
+가 각각 別樣인 同時 이에 대한 受體도 別個 性質임이 물론이어니와 細菌 凝集素에도 각 細菌의 性質을 딸아 각각 特有한 者니 가령 赤痢菌 凝集素와 虎列刺菌 凝集素가 다 別樣임과 가티 血球 凝集素에도 異種血球와 同種血球에 대한 凝集素가 別樣임과 동시에 異種血球에도 각 동물 특히 進化學上 種族이 遠隔할쓰록 그 血球에 대한 凝集素가 別樣이 된다.
+凝集反應 成立 機轉圖
+(凝集 反應 成立 機轉을 자세히 설명하려면 우의 圖示함과 가틈)＜47＞
+以上에 略述한 바와 가티 凝集反應은 血淸學上 극히 중요한 現象의 하나며 各種 細菌과 血球
+凝集反應에 대한 硏究는
+生物學上, 醫學上 더구나 診斷, 治療學上 실로 貢獻이 莫少함은 물론이다. 그러나 從來의 연구로는 各種 동물 밋 人類를 통하여 同種族 간의 血液에는 血球 凝集反應이 업다고 하여 왓스니 이는 理論上 이런 血淸學的 反應이 1個體 밋 近族, 同種族간에 成立되지 안흘 것을 추측할 쑤 잇는 것과 또 2,3學者의 不徹底한 斷片的 實驗成績이 이런 추측에 符合하는 陰性 成績을 示한 까닭이엇다. 그러나 1901年 란드스타이나 Land-steiner씨의 연구에 의하여 실로 從前의 誤測은 깨트린 바 되엇스니 곳 人類 血淸에는 互相間에 血球 凝集反應의 現象이 잇슴을 證明 發見한 것이니 이 곳 同種 血球 凝集反應의 名稱이 생긴 沿源이다. 同씨의 연구에 의하면 이 反應으로 人類 血液을 3種으로 大分할 쑤 잇다 하엿다. 그러나 其後 4,5學者의 追試實驗으로 인하여 4型別이 잇슴을 확인케 되엿나니 이제 그 자세한 것을 소개하려 한다.
+
+(1) 血液의 型別 及 分型法
+人類의 血淸중에는 2種의 血球凝集素가 잇나니 이를 α, β라 假稱하면 血球에는 此에 대하여 2種의 受體가 잇스니 각각 A, B라 呼稱한다. 그런데 血淸중에 α를 가진 血液은 血球에 A가 업고 血淸중에 β를 가진 血液은 血球에 B가 업고. 그럼으로 人類 血液의 4型은 次表와 가튼 搆造로 成穀‹된다.
+血液의 型別 및 分型法
+즉 A, B, AB, O 4型의 命名은
+各其 血球의 有한 受體에
+딸아 假稱한 것이니 이제 右表의 搆造로 보아 그 凝集反應의 관계를 설명하면
+A型 {血淸...B型 及 AB型의 血球를 凝集함.
+血球...B型 及 O型의 血淸에 의하여 凝集됨.
+B型 {血淸...A型 及 AB型의 血球를 凝集함.
+血球...A型 及 O型의 血淸에 의하여 凝集됨.
+AB型 {血淸...他 如何한 型의 血球도 凝集치 못함.
+血球...他 如何한 型의 血淸에 의하여서도 凝集됨.
+O型 {血淸...他 如何한 型의 血球나 다 凝集함.
+血球...他 如何한 型의 血淸에 의하여서도 凝集되지 안흠.
+上表로 보아 그 관계가 극히 簡明하게 解釋될찌니 A型과 B型 AB型과 O型은 각각 그 凝集素와 受體의 所有關係가 相反되엇다.＜48＞
++는 양성반응(응집반응이 일어난 것)
+-는 음성반응(응집반응이 업는 것)
+
+
+(2) 未知 血液 判識法
+이제 누구던지 그이가 4型 중 何者에 屬한가를 判識함에는 A型 밋 B型이 兩種 血淸에 대한 그이의
+血球의 反應關係를 보아
+간단히 이를 判識할찌니 이 A, B 兩種 血淸을 標準血淸이라하여 此를 保存하여 두면 何時 何處에서던지 容易히 이 型別을 判識할 수 잇다. 곳 或人의 血球가 이 A, B 兩種 標準血淸에 의하여 凝集反應이 잇느냐 업느냐. 또 A血淸에게만 凝集되느냐 반대로 B血淸에게만 凝集 되느냐를 보면 上示한 表에 照徵하여 그 血球가 4型중 何者임이 判明되나니 곳 左表와 갓다.
+곳 A, B 兩 血淸 中 B 血淸에게만 凝集되면 A型이요 반대로 A血淸에게만 凝集되면 B型이요 兩者에게 다 凝集되면 AB型이요 兩者에게 다 凝集되지 아니 하면 O型임이 自明하다.
+可檢未知血液表
+
+(3) 標準血淸 選出法
+未知人의 血型을 判識함에는 上述함과 가티
+A型 及 B型의 兩種 標準
+血淸을 사용함이 제일 簡易 完全하다. 이 標準血淸은 어떠케 選出하느냐 하면 약 20人의 血液을 각 數 8式 採取하여 各其 少部를 拘椽酸曹達 溶液에 投하여 凝固치 못하게 하여 血球液을 만들고 그 餘大部를 凝固케 하여 血淸을 取한다. 그러고 이 20人의 血淸과 血球를 順列式으로 각각 他人의 血淸과 血球에게 反應을 시키어 보면 그 反應의 陰陽關係는 곳 上述한 搆造表에 照合하여 4型 중
+何에 屬함을 卽 坐로 判斷
+할 수 잇나니 이 중 血球, 血淸 중의 A, B, α, β 소위 關係에 딸아 A型 B型 兩者를 選出하면 곳 標準血淸을 어들찌니 何時던지 이 A, B型의 人으로부터 採血하여 血淸을 取하면 그만이다.
+
+(4) 同種 血液 凝集反應에 대한 歸納的 証明에 관한 室驗
+人類 血液의 血球 集反應이 上述한 바와 가티 明然히 각 人種에게 適合되고 이로써 4型別을 분명히 난우게 됨이 확실하니 이 反應의 本體를 前述함과 가티 血球와 血淸의 血淸學的 搆造 곳 A, B 兩種의 受體와 이에 대한 α, β 兩種의
+凝集素의 所有與否로써
+＜49＞ 이를 설명하려 함이 一般 凝集反應의 法則으로 보아 극히 至當하니 이에 대하여 1點의 疑念을 置할 餘地가 업슬 터이다. 그러나 그 本體가 과연 그럿타 하면 일일히 이를 설명할 수 잇는 歸納的 證明이 필요하다. 또 반듯이 歸納이 되어야 할 것이다. 吾人의 取할 實驗은 두말 할것 업시 血淸에 대한 凝集素 吸收 試驗이다.
+吸收試驗이라 함은 ‡集素 α 혹은 β 혹은 α, β를 有한다고 假定하는 血淸을 此等에 대한 受體 A 혹은 B 혹은 A, B를 有한다고 假定하는 血球를 작용시어 此 중의 一部 혹은 全部의
+凝集素를 吸收 奪取하여
+그 血淸으로 하여곰 AB型의 血淸과 가티 전혀 α, β를 無케 하는 것을 實驗的으로 證明함이니 그 방법의 1例를 擧述하면 血淸중에 α 及 β 兩種의 凝集素를 具有한다고 假定하는 O型의 血淸 一定量을 取하여 沈澱 硝子管에 넛코 먼저 此에 A受體를 有한다고 假定하는 B型 血球의 過剩量을 두어 잘 振盪混合하여 30분간 孵卵器 內에 置하엿다가 이를 遠心器에 걸어 凝集된
+血球를 全部 管底에 沈澱
+케한 후 그 上淸을 取하여 凝集反應을 試하매 그 上淸은 前의 α, β 兩種 凝集素 중 α를 全部 奪失하고 β만을 有함을 證明한다. 곳 이 血淸은 O型 血淸이 아니고 B型 血淸이 된 것이다. 다음에 이 上淸을 또 別個의 硝子管에 옴기고 이번앤 β凝集素와 結合할 B型 血球를 過剩量으로 前同標의 操作을 加한 후 그 上淸을 檢하매 α, β 兩種의 凝集素 全部를 失하여 그 性質이 꼭 AB型 血淸과 가티 전혀 다른 모든 型의 血球를 凝集치 못하게 되엇다. 그러나 이 最後의 上淸은 이를
+兎 又는 羊의 血球에 作用
+시키면 오히려 此等을 凝集함을 보나니 이는 AB型 血淸이 α, β 兩種의 人類 血球 凝集素가 업슴에 불구하고 兎, 羊 등 異種血球 凝集素를 有함과 同然한 바니 이로 보아 이 吸收試驗이 方法的 錯誤가 업슴을 證하는 바다.
+이 吸收試驗의 成績은 非但 O型 血淸을 階段的으로 A型 B型 AB型의 血淸으로 만드는 대에 성공할 뿐 아니라 이와 同理로 A型 또는 B型을 AB型으로 만들 쑤 잇슴도 實驗된다.
+이 吸收 試驗의 반대로 吾人은 각 型 血淸 또는 血球를 混合 加減함으로 인하여 이 反證을 어들 수 잇슴도 實驗되엇다(이 吸收試驗과 反証의 모든 實驗은 後述하려는 余가 施行한 다른 實驗에 그 原理가 應用되엇나니 대단히 興味잇는 現象이다).
+以上에 나는 同種 血球 凝集反應이 어떠한 것이며 또 이로 인하여 人類 血液을 4型으로 分類할 쑤 잇슴을 盡述하엿다고 밋는다. 진실로 이 現象이야말로 4季와 晝夜의 輪環되는 大自然現象과 조곰도 다름이 업는 훌륭한 自然現象의 하나임이 確實할 뿐 아니라 그 現象이 吾人이게 주는 影響도 물론 前記한 大自然現象과 同量的인지는 모름즉이 等閑히 못할 것이 잇슴은 想像키 不難한 바다.＜50＞
+＜46-50＞

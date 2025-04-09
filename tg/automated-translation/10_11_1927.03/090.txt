@@ -1,0 +1,142 @@
+**Header Section:**
+Magazine Title: 동광 제11호 (東光 第11號)
+Publication Date: 1927년 03월 05일
+Article Title: 輸血=피 옴기는 법, 血淸學上으로 본 人類 血液의 四型別(2) (Blood Transfusion = The Method of Transferring Blood, Humankind's Four Blood Types Viewed Serologically (2))
+Author: 白麟濟 (Paek Inje)
+Article Type: 논설 (Nonsŏl) (Editorial/Article)
+
+**Body Text Translation:**
+Blood Transfusion = The Method of Transferring Blood, Humankind's Four Blood Types Viewed Serologically
+						By Paek Inje
+
+What is Blood Transfusion? When the world hears "blood transfusion," it commonly conjures up a kind of mystical meaning, thinking of the so-called filial sons or devoted wives from old tales who, when their parents or husbands were critically ill and near death, would share their fresh blood to restore life, cutting their fingers or skin (斷指切膚) to offer their flowing blood in a tearful manner, or imagining such things. However, the term "blood transfusion" as used in medicine today, which I intend to discuss, does not carry such a meaning at all. Not only is the method entirely different, but its meaning is not mystical but scientific, and its purpose is not resurrection from death but rather a therapeutic method akin to taking medicine or receiving injections. One must first clearly understand that its fundamental nature is entirely different.
+
+Blood transfusion refers to the extremely rational method of directly or indirectly transporting the blood of a healthy person into the blood vessels of a patient to attempt the cure of their pathological condition. Blood is essentially a type of colloid fluid composed of blood cells (血球) and blood serum (血淸), circulating ceaselessly and without gaps within our circulatory organs, becoming the source of life for all body tissues and the driving force enabling all metabolic functions. Generally, how is blood generated? Various blood cells are constantly produced from human bone marrow cells (骨格 細胞), while aged blood cells are gradually destroyed and processed in the spleen (脾臟), liver (肝臟), etc., forming blood cells. To this, body fluid containing ions suitable for our life mechanisms is added, creating blood serum. Therefore, blood cells and blood serum each have different but equally essential functions. Blood cells are not only the formative elements necessary for the blood to maintain the mechanical action of the circulatory system, but through the unique action of hemoglobin (血色素), they also reach the lungs, acquire oxygen, and excrete carbon dioxide gas (炭酸 瓦斯), truly fulfilling blood's most crucial mission. <41>
+
+Blood serum, through its inherent mysterious action in our digestive tract (消化管), digests and breaks down all kinds of food into simple structures suitable for our own body tissues, absorbs all these nutrients (營養素), distributes and supplies them to all tissue cells, and also transports all waste products (廢頹物), which are metabolic byproducts from tissue cells, to the kidneys (賢臟) for excretion. These most important and prominent functions of blood cells and blood serum are things you all learned early on in secondary school physiology. If only we could produce blood with such weighty functions using our scientific knowledge (chemical technology), wouldn't we want to try applying it in various ways quite easily?
+
+Furthermore, besides these prominent functions just mentioned, blood contains various wondrous actions that we eagerly anticipate in therapeutics. Although we cannot enumerate all the therapeutic (醫治的) actions of blood, the most prominent ones, not to mention the various actions obtained by supplementing blood components, include blood's bactericidal action (殺菌作用), toxin neutralization action (毒素中和作用), hemostatic action (止血作用), and hematopoietic organ stimulating action (造血器刺戟作用) – effects truly unattainable by ordinary medicine. Since there is no way to create such blood, or even if not exactly blood, any other medicinal fluid (藥液) that is similar or even close, what choice do we have? Thus, the effort to transfer healthy blood into the patient's body, keeping it as unchanged as possible, led to the discovery of the blood transfusion method.
+
+Therefore, the ideal of the blood transfusion method lies in transferring blood with its composition and biological functions as unchanged as possible.
+
+Dangers of Blood Transfusion and the History of its Development. As mentioned above, it is extremely natural to strive to apply the noble functions of blood for the purpose of treating illness, and indeed, many attempts have been made since long ago. However, success was slow and stagnant because of the various difficulties and dangers accompanying blood transfusion. The first difficulty and danger is the coagulability (凝固性) of blood. Blood has the property of coagulating within a few minutes whenever it leaves the blood vessels for any other place. If even slightly coagulated blood is injected into a blood vessel, it causes extreme danger. At the end of the 19th century, Crile succeeded in the first blood transfusion. <42> He succeeded by surgically anastomosing (吻合) an artery and a vein, allowing direct transport of blood. However, that surgery was exceedingly difficult. It was definitely not practical for real-world application. The blood transfusion method began to be seriously discussed and emphasized in therapeutics from 1914, first applied during the European Great War (歐洲 大戰), which could be called a great success. This was based on the discovery and report by four scholars from France (佛國) and North America (北美), almost simultaneously, that sodium citrate (拘椽酸曹達) has the action of preventing blood coagulation. Initially, France did not apply this to blood transfusion, but when the American (美國) army joined the war, they learned the method from American military doctors and began to apply it widely. It is said that the German army (獨軍), particularly, imported this method from America even earlier and implemented it on the battlefield.
+
+In any case, the blood transfusion method had already passed its experimental stage during the Great War, and after the war, it firmly secured an important position in therapeutics.
+
+That blood coagulation is a major difficulty and danger in transfusion was mentioned above, but besides this, there is another extremely complex and hard-to-understand difficulty: what serology calls blood incompatibility (不相容性). This incompatibility means that although blood types might not differ much in their chemical composition, due to differences detectable only through serological reactions – differences that cannot be analyzed by the power of chemistry – when such blood is introduced, it not only fails to exert its function as blood and gets destroyed, but it can also consequently bring about various regrettable dangers. The fact that in the past in the West, attempts to transfuse animal blood into humans all ended in failure was precisely due to this incompatibility. Such transfusion is called the heterologous transfusion method (異種性 輸血法); that this method is ineffective and dangerous is a fact known throughout the world. Nobody employs it now.
+
+However, this blood incompatibility exists not only between different species but also among the same human race. The first person to discover this was Shattock. He advocated that incompatibility could exist even between close relatives, like father and son, surprising many scholars who had until then believed that transfusion between father-son or siblings was relatively safe. This directly prompted the discovery of the isohemagglutination reaction (同種 血球凝集 反應), and with the discovery of this reaction phenomenon, it became clear that human blood <43> could be classified into four types: A, B, AB, and O [Translator's Note: The text uses 'C' (or possibly 'O' represented by 'C' shape in older printing?) where modern convention uses 'O']. This clarified the relationship of blood incompatibility.
+
+Relationship between Blood Transfusion and Isohemagglutination Reaction. That the isohemagglutination reaction exists even among the same human race was explained in detail previously, and we observed that based on the interrelationship of these agglutination phenomena, human blood can be divided into 4 types. Therefore, it can be readily imagined that this phenomenon expresses the blood incompatibility mentioned above. Among blood of the same human race, if transfusion occurs between the same type – A type to A type, B type to B type – naturally, there will be no agglutination reaction, and consequently, no hemolysis phenomenon (溶血 現象) will occur, meaning there is no blood incompatibility whatsoever. This is called compatible transfusion (同屬性 輸血), and it is indeed the safest and most effective method of transfusion. However, conversely, if transfusion occurs between different types, such as A type and B, or AB type and O type [C type in original], then a not-so-easy phenomenon occurs: the introduced blood cells will be completely agglutinated by the recipient's existing serum, causing occlusion (栓塞) in capillaries and inviting danger. Also, hemolysis will occur, releasing hemoglobin and inducing toxic phenomena. It is not only harmful and dangerous, but the newly introduced blood cells are all destroyed, yielding no effect whatsoever. However, is this incompatible transfusion (異屬性 輸血) necessarily dangerous? Not always. If, after careful consideration of the blood types of the donor (與血者) and recipient (受血者), the relationship is such that the transfused blood cells will not be agglutinated by the recipient's existing serum, then it is irrelevant. For example, like O type [C型液 in original] fluid, although its serum agglutinates all other blood cells, its own blood cells are not agglutinated by any serum. Therefore, this O type blood can be transfused to any type. However, it cannot receive blood from other types. Conversely, AB type blood, whose serum does not agglutinate the blood cells of other blood types, can receive blood from any type, but since its blood cells are agglutinated by the serum of any blood type, it cannot donate blood to anyone.
+
+In this way, even if it is not strictly compatible transfusion, incompatible transfusion can still be performed by avoiding the manifestation of incompatibility.
+
+Saying this might raise a question. For example, if O type [C型 in original] blood is transfused into an A type person, the introduced O type blood cells will certainly not be agglutinated by the existing A type serum and will circulate well, fulfilling the original mission of blood cells. But won't the simultaneously introduced O type serum agglutinate and hemolyze the existing A type <44> blood cells, causing great danger? This is the question. However, in actual experiments, this danger is entirely absent. The reason can be explained as follows: the injected serum is diluted by the recipient's existing blood, quickly becoming a solution diluted several tens of times.
+
+[Diagram 1: Blood Agglutination Reactions]
+[Diagram 2: Possible Transfusions Diagram]
+
+Diagram 1 illustrates the agglutination reaction relationships between the serum and blood cells of the 4 blood types. In this diagram, each test tube (試驗管) represents the blood of each of the 4 types, divided into serum and blood cells. The direction of the arrow (矢) indicates the agglutination and hemolysis action triggered when that serum is added to the blood cells in the direction of the arrow. From this relationship, a diagram of possible incompatible transfusions (異屬 輸血啚) can be created, as shown in Diagram 2. That is, the direction of the arrow indicates the direction of transfusion.
+
+Above, I have provided a very broad outline (大綱) explanation of blood transfusion, and also fully described (盡述하엿다) how, by carefully considering the serological incompatibility between blood types through the isohemagglutination reaction, it is possible to avoid it to some extent when performing transfusions. In summary, I have described how blood transfusion is one of the therapeutic methods currently occupying a quite important position in therapeutics, and what its latest developmental course is like. With today's knowledge, performing transfusions under this level of consideration is the most updated (刷新한) method. Currently, it is performed most frequently in various Western countries, especially America, and in Japan too, it has begun to be attempted occasionally in recent years, but it is not yet prevalent (盛行치 못한다). Judging from the results I have obtained performing it in our country for the past several years, I can confirm that when performed using rational methods based on the theories described above, not only are its effects good (佳良) and indispensable (不可棄할), but there are certainly no dangers that should be feared (可忌할).<45>
+
+**Summary**
+
+This 1927 article by Dr. Paek Inje explains the scientific principles of blood transfusion, contrasting it with traditional folk practices involving bloodletting. It details the discovery of blood's functions, the historical challenges of transfusion (coagulation, incompatibility), the development of anticoagulants like sodium citrate (spurred by WWI), the discovery of human blood groups (A, B, AB, O/C) by Shattock and others, and the rules for safe transfusion based on serological compatibility. Paek notes the growing adoption of the procedure, particularly in the US, its nascent use in Japan, and his own successful experiences performing transfusions in Korea, emphasizing its safety and efficacy when done correctly. For historians, this article is significant as it showcases the introduction and practice of advanced Western medical techniques like blood transfusion by a Korean doctor (Paek Inje, a prominent surgeon) in colonial Korea. It reflects the modernization efforts within the Korean medical community and the global transmission of scientific knowledge, even mentioning specific international developments and figures (Crile, Shattock, WWI, US/France/Germany).
+
+**Named Entities**
+白麟濟	백인제	Paek Inje
+Crile	크릴	Crile
+佛國	불국	France
+北美	북미	North America
+美國	미국	America / United States
+歐洲	구주	Europe
+獨軍	독군	German Army
+Shattock	섀톡	Shattock
+
+**Glossary**
+輸血	수혈	Blood transfusion
+血淸學	혈청학	Serology
+四型別	사형별	Four types classification
+엣날	옛날	Old days (older spelling)
+斷指切膚	단지절부	Cutting finger/skin (folk practice)
+코로이드	코로이드	Colloid
+업시	없이	Without (older spelling)
+循環器	순환기	Circulatory system
+體組織	체조직	Body tissue
+代謝機能	대사기능	Metabolic function
+骨格 細胞	골격 세포	Likely means bone marrow cells (lit. 'skeleton cells')
+不斷히	부단히	Constantly
+脾臟	비장	Spleen
+肝臟	간장	Liver
+賦形的 要素	부형적 요소	Formative element (older term)
+血色素	혈색소	Hemoglobin
+炭酸 瓦斯	탄산 가스	Carbon dioxide gas (瓦斯=gas)
+消化管	소화관	Digestive tract
+營養素	영양소	Nutrient
+廢頹物	폐퇴물	Waste product
+賢臟	신장	Kidney (Uses 賢 instead of modern 腎)
+醫治的	의치적	Therapeutic
+枚擧치	매거치	Enumerate (verb ending 치 instead of 하다)
+殺菌作用	살균작용	Bactericidal action
+毒素中和作用	독소중화작용	Toxin neutralization action
+止血作用	지혈작용	Hemostatic action
+造血器刺戟作用	조혈기자극작용	Hematopoietic organ stimulating action
+企及치	기급치	Reach/attain (verb ending 치 instead of 하다)
+凝固性	응고성	Coagulability
+吻合	문합	Anastomosis (surgical connection)
+拘椽酸曹達	구연산소다	Sodium Citrate (曹達 = Soda)
+基因함이다	기인함이다	Is caused by / originates from
+不相容性	불상용성	Incompatibility
+異種性 輸血法	이종성 수혈법	Heterologous transfusion method (between different species)
+同種 血球凝集 反應	동종 혈구응집 반응	Isohemagglutination reaction (within the same species)
+溶血 現象	용혈 현상	Hemolysis phenomenon
+同屬性 輸血	동속성 수혈	Compatible transfusion (same type)
+異型間 輸血	이형간 수혈	Incompatible transfusion (between different types)
+栓塞	전색	Embolism / Occlusion
+異屬性 輸血	이속성 수혈	Incompatible transfusion (general term, used like 異型間)
+與血者	여혈자	Blood donor
+受血者	수혈자	Blood recipient
+稀釋	희석	Dilution
+試驗管	시험관	Test tube
+矢	시	Arrow
+大綱	대강	Outline / Summary
+盡述하다	진술하다	State fully / Explain in detail
+刷新한	쇄신한	Renewed / Updated / Modern (adjective form)
+盛行치	성행치	Not be prevalent (verb ending 치 instead of 하다)
+佳良	가량	Good / Fine
+不可棄할	불가기할	Cannot be discarded / Indispensable
+可忌할	가기할	Should be avoided / Taboo / Feared
+
+
+---------------------------
+
+
+잡지명	동광 제11호
+발행일	1927년 03월 05일
+기사제목	輸血=피 옴기는 법, 血淸學上으로 본 人類 血液의 四型別(2)
+필자	白麟濟
+기사형태	논설
+
+輸血=피 옴기는 법, 血淸學上으로 본 人類 血液의 四型別
+						白麟濟
+輸血이란 무엇? 輸血이라 하면 世間에선 곳 一種 神秘的 의미를 가진 엣날부터 傳해 오는 所謂 孝子, 篤婦가 그 兩親이나 남편이 重病으로 臨死한 때에 그 鮮血을 分與하여 생명을 돌이킨다 하여 斷指切膚하여 流血을 歉眼케 하는 것을 의미하거나 혹은 그런 것을 發想함이 보통이다. 그러나 내가 말하려는 지금 醫學上 所謂 輸血이란 述語는 그 眞意가 결코 그런 것이 아니다. 그 방법이 全然 不同할 뿐 아니라. 그 의미가 神秘的이 아니요 科學的이며 그 목적이 起死回生的이 아니요 寧히 服藥, 注射 등과 同然 一種 治療 手段임에서 그 本體가 全然 不同함을 爲先 잘 이해하여야 한다.
+輸血이라 함은 극히 合理的 手段으로써 健康人의 血液을 혹 病者의 血管 內에 직접 혹은 간접으로 輸送하여써 그 病的 現象의 治癒를 圖하는 것을 말함니다. 무릇 血液이라 하면 血球와 血淸으로 된 一種 「코로이드」液으로 吾人의 循環器 內를 **업시 빈틈업시 循環하여 모든 體組織의 生活源力이 되고 모든 代謝機能을 營爲케 하는 原動力이 되나니 대개 血液은 어떠하여 生成되느냐 하면 사람의 骨格 細胞에서 不斷히 各種 血球를 製出하는 一方 陳古한 血球는 脾臟 肝臟 등에서 점점 破壞 處理하여 血球를 成하고 이에 吾人의 生活 機轉에 適合할만한 「이온」을 가진 體液이 加入되어 血淸을 生한다. 고로 血球와 血淸은 각각 그 작용이 다로게 맛찬가지로 必須한 물건이다. 곳 血球는 血液이 循環器의 機械的 작용을 保有함에 필요한 賦形的 要素도 되는 동시에 血色素의 特有한 작용으로 肺臟에 이르러 酸素를 엇고 炭酸 瓦斯를 排泄하는 실로 血液의 최대 중요한 任命도＜41＞ 다한다.
+血淸은 吾人의 消化管에서 그 固有한 神秘的 작용으로 인하여 萬般 음식물을 消化 分解하여 자기 固有體 組織에 適合하도록 單一한 搆造로 맨들어 놓은 모든 營養素를 攝取하여 이를 모든 組織細胞에 分與 供給하고 또 組織細胞로부터 代謝産物인 모든 廢頹物을 賢臟에 運搬 排泄케 하는 작용을 營爲한다. 이 血球 血淸의 가장 중요하고 顯著한 작용이야 諸君이 일쯕 中等生理學에서 배운 바일찌니 단지 이런 負重한 작용을 가진 血液을 吾人의 科學的 智識(化學技術)으로 製出할 수 잇다 하면 이것만으로도 얼마나 손쉽게 여러 가지 應用을 해보려고 하지 안켓는가.
+하믈며 지금 말한 이 顯著한 작용 이외에 血液 중에는 여러 가지 우리가 治療學上 가장 기대하여 마지 아니하는 神妙한 작용이 잇슴에랴.
+血液의 모든 醫治的 작용을 일일히 枚擧치 못할찌나 그 가장 顯著한 것을 말하면 血液 成分의 補充으로 의하여 어들 여러 작용은 말할 것도 업고 血液의 殺菌作用 毒素中和作用 止血作用, 造血器刺戟作用 등 실로 普通醫藥으로 企及치 못할 効能이 잇나니 이런 血液을 아니 반듯이 血液이 아니라도 조흐나 이와 가튼 혹은 近似라도 한 다른 무슨 藥液을 만들어 낼 길이 업슴에야 어찌 하리오 이에 健康血液을 그대로 될 수 잇는대로 變化치 안토록 病者의 體內에 移入하려 함이 輸血法을 발견함에 이른 것이다.
+그럼으로 輸血法의 理想을 血液을 그 搆成으로나 그 生物學的 作用으로나 可及的 변함 업시 移入함에 잇다.
+輸血의 危險 輸血法의 발달된 來歷. 우에 말한 바와 가티 血液의 高貴한 작용을 病治療의 목적에 應用하려고 애쓰려 함은 至極히 당연한 일이니 벌써 以前부터 만히 試驗되엇다. 그러나 그 성공이 遲遲不進하엿나니 그 원인은 輸血에 伴來하는 諸種 難關과 위험이 잇기 때문이다. 第一 難關이오 위험한 것은 血液의 凝固性이 이것이다. 血液은 血管 以外의 다른 如何한 곳이라도 나오기만 하면 數 分 內에 凝固되는 性質을 가지엇나니 만약 조곰이라도 凝固된 血液을 血管에 注入하면 非常한 위험을 惹起한다. 19世紀 末葉에 첨으로 輸血에 성공한 이가＜42＞ 잇스니 Crile씨다. 이 이는 動脈 靜脈을 手術的으로 吻合시키어 血液을 그대로 직접 輸送함에 성공하엿다. 그러나 그 手術이야말로 대단히 難行한 手術이다. 도저히 實地에 應用될 것이 못 되엇다. 輸血法이 비롯오 治療學上에 論議 置重케 된 것은 1914년부터니 歐洲 大戰 當時의 첨 應用이요 또 큰 성공이라 하겟다. 곳 佛國 及 北美 兩國의 4學者가 殆히 동시에 拘椽酸曹達이 血液凝를 防止하는 작용 잇슴을 發見 報告함에 基因함이다. 처음에 佛國서는 이것을 輸血에 應用치 못하엿더니 美國 軍隊가 參戰하게 됨에 美 軍醫의 방법을 學得하여 비롯오 盛히 應用하엿고 獨軍은 특히 이에 先하여 美國서 이 法을 輸入하여 戰陣에서 施行하엿다 한다.
+左右間 輸血法은 大戰 時에 발써 그 試驗 時代를 지내서 大戰 후부터는 確然 治療學上 一重要한 地步을 점하게 되엇다.
+血液凝固 作用이 輸血의 一大 難關이요 위험임은 上述한 바어니와 이 외에 또 가장 複雜 難解한 難關이 잇스니 이는 血淸學 所謂 血液의 不相容性 Ilmcompalibility이 이것이다. 이 不相容性이라 함은 血液과 血液이 그 化學的 成分이야 별로 다름이 잇스랴마는 이 化學의 힘으로 分折해내지 못할 相異性 때문에 즉 血淸學的 反應으로만 알아낼 수 잇는 相異性 때문에 이를 輸入하면 血液으로의 작용을 發揮치 못하고 消滅되어 버릴 뿐 아니라 돌이어 이로 인하며 種種의 可怨할 위험을 招來함을 云함이니 엣날 西洋서 첫음에 동물의 血液을 人類의게 輸血하엿다가 다 실패에 歸하엿다 함은 즉 이 不相容性 때문이엇던 것이다. 이런 輸血을 異種性 輸血法이라 하나니 이 法이 無効危險함은 天下周知의 사실이라. 이제 이를 採用하는 이가 업다.
+그런데 이 血液의 不相容性은 非但 異種 血液 間에만 잇는 것이 아니라. 人類 同族 가운대도 잇나니 이를 처음으로 발견한 이가 shattock씨다. 이 이는 近族, 父子 間이라도 或間 不相容性이 잇음을 唱導하여 여태까지 父子, 同胞 間 輸血이 比較的 안전하다고 미더오던 여러 學者를 놀래게 하엿다. 이것이 곳 同種 血球凝集 反應의 발견을 促한 바 되고 또 이 反應 現象의 발견되자 이로 인하여 人類 血液이＜43＞ A, B, AB 4型으로 分類되는 것을 明白히 함으로 이 血液 不相容性의 관계가 明瞭하게 되엇다.
+輸血과 同種 血球 凝集反應과의 關係. 가튼 人類 사이에도 同種 凝集反應이 잇다 함은 前番에 仔細히 설명하엿고 또는 그 凝集 現象의 相互關係로 人類 血液을 4種으로 分할 수 잇다는 것까지 觀察하엿슨 즉 이 現象이 우에 말한 血液 不相容性을 표현한 것임은 곳 상상될 것이다. 가튼 人類의 血液이라도 A型이면 A型, B型이면 B型끼리 곳 同型 間의 輸血이면 물론 凝集反應도 업슬 것이오 딸아서 溶血 現象도 아니 일어나나니 何等 血液의 不相容性이 업다. 이를 同屬性 輸血이라고 하나니 이야말로 제일 안전하고 有効한 輸血法이다. 그러나 반대로 A型과 B, 혹은 AB型과 O끼리 곳 異型間 輸血을 하게 되면 이에 容易치 아다한 現象이 일어나나니 輸入된 血球는 在來의 血淸에 의하여 아주 凝集되어 毛細血管에 栓塞을 일우어 위험을 招來할찌요 또 溶血作用이 일어나 血色素가 遊離되어 中毒現象을 惹起할찌니 有害 위험이 잇슬 뿐이요 新入 血球는 다 消滅되어 何等 効果를 보지 못한다. 그러나 이 異屬性 輸血이 밧듯이 위험하냐 하면 그러치 아니 하다. 與血者와 受血者의 血型을 잘 考察하여 輸血할 血球가 受血者 在來의 血淸에 의하여 凝集되지 아니할 관계면 無關하다. 例하면 O型液과 가티 그 血淸은 비록 다른 모든 血球를 凝集하나 그 血球는 어떠한 血淸에게던지 凝集되지 아니 하나니 고로 이 O型 血液은 아무 型에게나 輸血할 수 잇다. 그러나 다른 型의 血液을 受血치 못한다. 또 이와 반대료 AB型 血液은 그 血淸이 다른 血型의 血球를 凝集치 아니 함으로 어떤 血液이던지 受血할 수 잇스나 그 血球는 어떤 血型의 血淸에게던지 凝集됨으로 아무에게던지 與血할 수 업다.
+이 모양으로 반듯이 同屬性 輸血이 아니라도 異屬性 輸血이라도 不相容性의 發揮를 피하여 이를 施行할 수 잇는 것이다.
+이러케 말하면 이에 의문이 일어나리라. 例하면 C型 血液을 A型人에게 輸血하엿다 하면 輸入된 O型 血球는 물론 A型 在來의 血淸에게 凝集되지 아니하고 잘 循環하여 血球 본래의 使命을 다 하겟지마는 동시에 輸入된 O型 血淸은 A型＜44＞ 在來의 血球를 凝集, 溶血하여 一大 위험을 惹起하지 아니 할까 하는 의문이다. 그러나 이 위험은 實際 實驗上 전혀 업다. 그 이유는 注入된 血淸은 受血者 在來의 血液에게 稀釋되어 곳 몃 10배 稀釋液이 되고마는 까닭이라 설명할 수 잇다.
+혈액의 응집반응도
+
+수혈이 가능한 수혈도
+
+4種 血液의 血淸과 血球와의 凝集反應 관계를 圖示하면 第1啚와 갓다. 이 그림에서 각 個의 試驗管은 각각 4型의 血液을 表한 것으로 血淸과 血球로 난우어 잇다. 矢의 방향은 그 血淸을 그 矢의 방향의 血球에 加한 때에 惹起되는 凝集 及 溶血作用을 表함이다. 이 관계로부터 輸血 가능한 異屬 輸血啚를 作製하면 第2啚와 갓다. 즉 矢의 방향이 輸血의 방향을 示함이다.
+以上에 輸血에 대하여 극히 大綱을 따서 설명을 加하엿고 또 그 輸血法 施行에 考慮치 아니하면 아니 될 血液 相互間의 血淸學的 不溶性에 대하여 同種 血球凝集 反應을 잘 考察할찐대 어떤 정도까지 이를 피할 수 잇다는 것을 盡述하엿다. 要言하면 輸血이란 現下 治療學上 꽤 중요한 地位를 점하고 잇는 治療法의 하나로 그 最新한 發達途程이 어떠타는 것을 記述하엿다. 今日의 智識으론 이만한 考慮 下에 輸血이 施行되는 것이 제일 刷新한 法이니 目下 歐美 各國 특히 美國에서 가장 만히 施行되고 日本서도 近年 2, 3 試行하게 되엇스나 아직 盛行치 못한다. 내가 우리 나라에서 數 3년 來로 施行하여 온 成績으로 볼찐대 上述한 理論 아레서 合理的 방법으로 行하면 그 効能의 佳良 不可棄할 者 만흠은 물론 何等 可忌할 위험이 업슴을 確知할 수 잇다.＜45＞
+＜41-45＞
