@@ -5,8 +5,6 @@ function getUrlParam(param) {
 }
 
 // Load appropriate data file based on translation toggle
-// Load appropriate data file based on translation toggle
-// Load appropriate data file based on translation toggle
 function loadDataFile() {
   // Remove any existing data script
   const existingScript = document.getElementById('data-script');
@@ -19,37 +17,101 @@ function loadDataFile() {
     window.ARTICLES = undefined;
   }
   
-  // Create new script element
-  const dataScript = document.createElement('script');
-  dataScript.id = 'data-script';
-  
   // Check if translations toggle is on
   const useTranslations = document.getElementById('translation-toggle').checked;
   
   // Set source based on toggle state
-  dataScript.src = useTranslations ? 'support/data_en.js' : 'support/data.js';
+  const dataFilePath = useTranslations ? 'support/data_en.js.gz' : 'support/data.js.gz';
   
-  // Handle load event
-  dataScript.onload = function() {
-    console.log(`Loaded ${dataScript.src}`);
-    
-    // Now that we have the data, initialize filters
-    initializeFilters();
-    
-    // If search is active, re-run it with new data
-    if (document.querySelector('.results-header .results-per-page').style.display === 'block') {
-      performSearch();
-    }
-  };
+  console.log(`Loading compressed data from: ${dataFilePath}`);
   
-  // Handle error
-  dataScript.onerror = function() {
-    console.error(`Failed to load ${dataScript.src}`);
-    alert(`Error loading data file: ${dataScript.src}. Please refresh the page.`);
-  };
+  // Show loading indicator (optional)
+  // statsDiv.innerHTML = `<div class="loading">${translations[currentLanguage].loading}</div>`;
   
-  // Add script to document
-  document.body.appendChild(dataScript);
+  // Fetch the gzipped file
+  fetch(dataFilePath)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error(`Failed to fetch ${dataFilePath}: ${response.status} ${response.statusText}`);
+      }
+      return response.arrayBuffer();
+    })
+    .then(compressedData => {
+      // Decompress the gzipped data
+      return new Promise((resolve, reject) => {
+        try {
+          // Use DecompressionStream API (modern browsers)
+          const ds = new DecompressionStream('gzip');
+          const decompressedStream = new Blob([compressedData])
+            .stream()
+            .pipeThrough(ds);
+          
+          new Response(decompressedStream).text().then(text => {
+            resolve(text);
+          }).catch(err => {
+            reject(err);
+          });
+        } catch (err) {
+          reject(new Error(`Decompression failed: ${err.message}`));
+        }
+      });
+    })
+    .then(jsCode => {
+      // Execute the data.js code to define ARTICLES
+      try {
+        // Create a temporary script element to execute the code
+        const script = document.createElement('script');
+        script.id = 'data-script';
+        script.textContent = jsCode;
+        document.body.appendChild(script);
+        
+        console.log(`Successfully loaded and executed ${dataFilePath}`);
+        
+        // Now that we have the data, initialize filters
+        initializeFilters();
+        
+        // If search is active, re-run it with new data
+        if (document.querySelector('.results-header .results-per-page').style.display === 'block') {
+          performSearch();
+        }
+      } catch (err) {
+        console.error(`Error executing decompressed JavaScript: ${err.message}`);
+        alert(`Error loading data file: ${dataFilePath}. Please refresh the page.`);
+      }
+    })
+    .catch(err => {
+      console.error(`Error loading compressed data: ${err.message}`);
+      
+      // Fallback to uncompressed version if compressed version fails
+      console.log(`Falling back to uncompressed data file`);
+      
+      // Create new script element for uncompressed version
+      const fallbackScript = document.createElement('script');
+      fallbackScript.id = 'data-script';
+      fallbackScript.src = useTranslations ? 'support/data_en.js' : 'support/data.js';
+      
+      // Handle load event
+      fallbackScript.onload = function() {
+        console.log(`Loaded fallback ${fallbackScript.src}`);
+        
+        // Now that we have the data, initialize filters
+        initializeFilters();
+        
+        // If search is active, re-run it with new data
+        if (document.querySelector('.results-header .results-per-page').style.display === 'block') {
+          performSearch();
+        }
+      };
+      
+      // Handle error
+      fallbackScript.onerror = function() {
+        console.error(`Failed to load fallback ${fallbackScript.src}`);
+        alert(`Error loading data file: ${fallbackScript.src}. Please refresh the page.`);
+      };
+      
+      // Add script to document
+      document.body.appendChild(fallbackScript);
+    });
 }
 
 // Check if English language mode is active
@@ -147,6 +209,12 @@ function validateYearRange() {
 function initializeFilters() {
   const types = new Set();
   
+  // Make sure ARTICLES is defined before trying to access it
+  if (typeof ARTICLES === 'undefined' || !ARTICLES) {
+    console.error('ARTICLES not defined when initializing filters');
+    return;
+  }
+  
   // Get min and max years for the year range inputs
   let minYear = 3000;
   let maxYear = 1000;
@@ -178,6 +246,13 @@ function initializeFilters() {
 // Populate select dropdowns
 function populateSelect(id, options) {
   const select = document.getElementById(id);
+  
+  // Clear existing options (except the first one which is "All Types")
+  while (select.options.length > 1) {
+    select.remove(1);
+  }
+  
+  // Add new options
   options.forEach(option => {
     const optionElement = document.createElement('option');
     optionElement.value = option;
