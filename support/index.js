@@ -37,6 +37,56 @@ function generateFooter() {
     `;
 }
 
+document.addEventListener('keydown', function(e) {
+    // Skip if user is in a form field
+    if (document.activeElement.tagName === 'INPUT' || 
+        document.activeElement.tagName === 'TEXTAREA' || 
+        document.activeElement.tagName === 'SELECT') {
+        return;
+    }
+    
+    if (e.key === 'ArrowLeft') {
+        // First check for article navigation
+        const articleLink = document.querySelector('.nav-article-link.nav-link-prev');
+        if (articleLink) {
+            e.preventDefault();
+            const path = articleLink.getAttribute('data-path');
+            if (path) {
+                displayArticle(path);
+                return;
+            }
+        }
+        
+        // Then check for issue navigation
+        const issueLink = document.querySelector('.nav-link-prev:not(.nav-article-link):not(.nav-link-disabled)');
+        if (issueLink) {
+            e.preventDefault();
+            issueLink.click();
+            return;
+        }
+    } 
+    else if (e.key === 'ArrowRight') {
+        // First check for article navigation
+        const articleLink = document.querySelector('.nav-article-link.nav-link-next');
+        if (articleLink) {
+            e.preventDefault();
+            const path = articleLink.getAttribute('data-path');
+            if (path) {
+                displayArticle(path);
+                return;
+            }
+        }
+        
+        // Then check for issue navigation
+        const issueLink = document.querySelector('.nav-link-next:not(.nav-article-link):not(.nav-link-disabled)');
+        if (issueLink) {
+            e.preventDefault();
+            issueLink.click();
+            return;
+        }
+    }
+}, true); 
+
 function formatIssueForDisplay(issue) {
     // First replace underscores with spaces
     let displayIssue = issue.replace(/_/g, " ");
@@ -150,10 +200,6 @@ function initLanguageToggle() {
     }
 }
 
-function loadDataScript() {
-    // No longer needed
-}
-
 // Get all unique issues sorted
 function getAllSortedIssues() {
     if (typeof ISSUE_LIST !== 'undefined') {
@@ -251,20 +297,21 @@ function displayIssueList() {
     
     issueListHTML += `</ul>`;
     
-    // Add site info if available
-    // if (window.SITE_INFO) {
-    //     issueListHTML += `
-    //         <div class="info-footer">
-    //             <p>Source: <a href="${sourceLink}" target="_blank">${sourceName}</a></p>
-    //             <p>Last updated: ${lastUpdated}</p>
-    //         </div>
-    //     `;
-    // }
-
-// Add the new site footer
-issueListHTML += generateFooter();
+    // Add dummy navigation buttons for arrow keys in TOC view.
+    issueListHTML += `
+        <div class="issue-navigation">
+            <a href="javascript:void(0)" class="nav-link-prev">← Previous Issue</a>
+            <a href="javascript:void(0)" class="nav-link-next">Next Issue →</a>
+        </div>
+    `;
+    
+    issueListHTML += generateFooter();
     
     contentDiv.innerHTML = issueListHTML;
+    
+    // Ensure the content container is focusable and receives focus for keyboard navigation in Firefox.
+    contentDiv.setAttribute('tabindex', '-1');
+    contentDiv.focus({preventScroll: true});
 }
 
 // Display articles in a specific issue
@@ -396,10 +443,10 @@ function displayIssueArticles(issueName, pushState = true) {
                 </div>
             `;
             articleListHTML += generateFooter();
-            
+
             // Apply fade transition
             contentDiv.classList.add('fade-out');
-            
+
             setTimeout(() => {
                 contentDiv.innerHTML = articleListHTML;
                 contentDiv.classList.remove('fade-out');
@@ -414,6 +461,15 @@ function displayIssueArticles(issueName, pushState = true) {
                         }
                     });
                 });
+                
+                // Add keyboard navigation indicators to issue navigation buttons
+                addIssueNavigationIndicators();
+                
+                
+                // Set focus to the content div to enable keyboard navigation without clicking
+                // contentDiv.setAttribute('tabindex', '-1');
+                // contentDiv.focus({preventScroll: true});
+                enableUniversalKeyboardNavigation();
             }, 150);
         }
         
@@ -426,6 +482,56 @@ function displayIssueArticles(issueName, pushState = true) {
             );
         }
     });
+}
+
+function addIssueNavigationIndicators() {
+    // Use multiple selector patterns to ensure we find the elements
+    const prevLinkSelectors = [
+        '.nav-link-prev:not(.nav-article-link)',
+        '.nav-pagination .nav-link-prev'
+    ];
+    
+    const nextLinkSelectors = [
+        '.nav-link-next:not(.nav-article-link)',
+        '.nav-pagination .nav-link-next'
+    ];
+    
+    // Try to find the previous link using our selectors
+    let prevLink = null;
+    for (const selector of prevLinkSelectors) {
+        const element = document.querySelector(selector);
+        if (element && !element.classList.contains('nav-article-link') && 
+            !element.classList.contains('nav-link-disabled')) {
+            prevLink = element;
+            break;
+        }
+    }
+    
+    // Try to find the next link using our selectors
+    let nextLink = null;
+    for (const selector of nextLinkSelectors) {
+        const element = document.querySelector(selector);
+        if (element && !element.classList.contains('nav-article-link') && 
+            !element.classList.contains('nav-link-disabled')) {
+            nextLink = element;
+            break;
+        }
+    }
+    
+    // Add indicators if found and not already having indicators
+    if (prevLink && !prevLink.querySelector('.keyboard-shortcut-indicator')) {
+        const indicator = document.createElement('span');
+        indicator.className = 'keyboard-shortcut-indicator';
+        indicator.textContent = '←';
+        prevLink.appendChild(indicator);
+    }
+    
+    if (nextLink && !nextLink.querySelector('.keyboard-shortcut-indicator')) {
+        const indicator = document.createElement('span');
+        indicator.className = 'keyboard-shortcut-indicator';
+        indicator.textContent = '→';
+        nextLink.appendChild(indicator);
+    }
 }
 
 // Display a specific article
@@ -794,43 +900,6 @@ function initializeDisplay() {
     }
 }
 
-// Swipe support and left right arrow:
-
-// Function to set up keyboard navigation
-function setupKeyboardNavigation() {
-    document.addEventListener('keydown', function(e) {
-        // Only respond to arrow keys if not in an input field
-        if (document.activeElement.tagName === 'INPUT' || 
-            document.activeElement.tagName === 'TEXTAREA' || 
-            document.activeElement.tagName === 'SELECT') {
-            return;
-        }
-        
-        // Left arrow key for previous article
-        if (e.key === 'ArrowLeft') {
-            const prevLink = document.querySelector('.nav-article-link.nav-link-prev');
-            if (prevLink) {
-                e.preventDefault();
-                const path = prevLink.getAttribute('data-path');
-                if (path) {
-                    displayArticle(path);
-                }
-            }
-        }
-        
-        // Right arrow key for next article
-        if (e.key === 'ArrowRight') {
-            const nextLink = document.querySelector('.nav-article-link.nav-link-next');
-            if (nextLink) {
-                e.preventDefault();
-                const path = nextLink.getAttribute('data-path');
-                if (path) {
-                    displayArticle(path);
-                }
-            }
-        }
-    });
-}
 
 // Variables for swipe detection
 let touchStartX = 0;
@@ -860,29 +929,43 @@ function setupSwipeNavigation() {
             return;
         }
         
-        // Check if we're viewing an article (not an issue list)
-        const isArticleView = document.querySelector('.nav-article-link') !== null;
-        if (!isArticleView) {
-            return;
-        }
-        
         if (swipeDistance > 0) {
-            // Swipe right: go to previous article
-            const prevLink = document.querySelector('.nav-article-link.nav-link-prev');
-            if (prevLink) {
-                const path = prevLink.getAttribute('data-path');
+            // Swipe right: go to previous article or issue
+            
+            // First try article navigation
+            const prevArticleLink = document.querySelector('.nav-article-link.nav-link-prev');
+            if (prevArticleLink) {
+                const path = prevArticleLink.getAttribute('data-path');
                 if (path) {
                     displayArticle(path);
+                    return;
                 }
             }
+            
+            // If no article navigation or not on article page, try issue navigation
+            const prevIssueLink = document.querySelector('.nav-link-prev:not(.nav-article-link)');
+            if (prevIssueLink && !prevIssueLink.classList.contains('nav-link-disabled')) {
+                prevIssueLink.click();
+                return;
+            }
         } else {
-            // Swipe left: go to next article
-            const nextLink = document.querySelector('.nav-article-link.nav-link-next');
-            if (nextLink) {
-                const path = nextLink.getAttribute('data-path');
+            // Swipe left: go to next article or issue
+            
+            // First try article navigation
+            const nextArticleLink = document.querySelector('.nav-article-link.nav-link-next');
+            if (nextArticleLink) {
+                const path = nextArticleLink.getAttribute('data-path');
                 if (path) {
                     displayArticle(path);
+                    return;
                 }
+            }
+            
+            // If no article navigation or not on article page, try issue navigation
+            const nextIssueLink = document.querySelector('.nav-link-next:not(.nav-article-link)');
+            if (nextIssueLink && !nextIssueLink.classList.contains('nav-link-disabled')) {
+                nextIssueLink.click();
+                return;
             }
         }
     }
@@ -890,31 +973,6 @@ function setupSwipeNavigation() {
 
 // Add visual indicators for keyboard navigation (optional but helpful)
 function addKeyboardNavigationIndicators() {
-    const style = document.createElement('style');
-    style.textContent = `
-        @media (min-width: 768px) {
-            /* Only show on desktop/laptop */
-            .keyboard-shortcut-indicator {
-                display: inline-block;
-                font-size: 0.8em;
-                background-color: #f1f1f1;
-                color: #666;
-                padding: 2px 6px;
-                border-radius: 3px;
-                margin-left: 5px;
-                vertical-align: middle;
-            }
-        }
-        
-        @media (max-width: 767px) {
-            /* Hide on mobile */
-            .keyboard-shortcut-indicator {
-                display: none;
-            }
-        }
-    `;
-    document.head.appendChild(style);
-    
     // Add indicators to the navigation links when they're created
     const prevLink = document.querySelector('.nav-article-link.nav-link-prev');
     const nextLink = document.querySelector('.nav-article-link.nav-link-next');
@@ -934,8 +992,71 @@ function addKeyboardNavigationIndicators() {
     }
 }
 
+function universalKeyHandler(e) {
+    // Skip for form elements
+    if (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA' || e.target.tagName === 'SELECT') {
+        return;
+    }
+    
+    if (e.key === 'ArrowLeft') {
+        // Try article navigation first
+        const articleLink = document.querySelector('.nav-article-link.nav-link-prev');
+        if (articleLink) {
+            e.preventDefault();
+            const path = articleLink.getAttribute('data-path');
+            if (path) {
+                displayArticle(path);
+                return;
+            }
+        }
+        
+        // Then try issue navigation
+        const issueLink = document.querySelector('.nav-link-prev:not(.nav-article-link):not(.nav-link-disabled)');
+        if (issueLink) {
+            e.preventDefault();
+            issueLink.click();
+            return;
+        }
+    } 
+    else if (e.key === 'ArrowRight') {
+        // Same pattern for right arrow
+        const articleLink = document.querySelector('.nav-article-link.nav-link-next');
+        if (articleLink) {
+            e.preventDefault();
+            const path = articleLink.getAttribute('data-path');
+            if (path) {
+                displayArticle(path);
+                return;
+            }
+        }
+        
+        const issueLink = document.querySelector('.nav-link-next:not(.nav-article-link):not(.nav-link-disabled)');
+        if (issueLink) {
+            e.preventDefault();
+            issueLink.click();
+            return;
+        }
+    }
+}
+
+function enableUniversalKeyboardNavigation() {
+    
+    // Remove any existing handlers to prevent duplicates
+    document.removeEventListener('keydown', universalKeyHandler, true);
+    
+    // Add a single consistent handler at document level with capture phase
+    document.addEventListener('keydown', universalKeyHandler, true);
+    
+    // Ensure document or body has focus for Firefox
+    if (navigator.userAgent.indexOf("Firefox") !== -1) {
+        document.body.setAttribute('tabindex', '0');
+        document.body.focus();
+    }
+}
+
 // Run when page loads
 window.onload = function () {
+    
     initLanguageToggle();
     
     // Set document title from site info if available
@@ -946,19 +1067,88 @@ window.onload = function () {
     // Add event listener for browser back/forward buttons
     window.addEventListener('popstate', handlePopState);
     
-    // Set up keyboard and swipe navigation
-    setupKeyboardNavigation();
     setupSwipeNavigation();
+    
+    // Capture keys even when window isn't explicitly focused
+    window.addEventListener('focus', function() {
+        // Check if we have navigation elements and reinitialize if needed
+        const hasNavElements = 
+            document.querySelector('.nav-article-link.nav-link-prev') || 
+            document.querySelector('.nav-article-link.nav-link-next') ||
+            document.querySelector('.nav-link-prev:not(.nav-article-link)') ||
+            document.querySelector('.nav-link-next:not(.nav-article-link)');
+        
+    });
+    
+    
+    
+    document.addEventListener('keydown', function(e) {
+        // This will capture all keydown events regardless of focus
+        if ((e.key === 'ArrowLeft' || e.key === 'ArrowRight') && 
+            document.querySelector('.nav-link-prev, .nav-link-next')) {
+            // Force focus on the content to activate navigation
+            const contentDiv = document.getElementById('content');
+            if (contentDiv) {
+                contentDiv.setAttribute('tabindex', '-1');
+                contentDiv.focus({preventScroll: true});
+            }
+        }
+    }, true); // Using capture phase to catch events early
+
+    // Try to set initial focus to capture keyboard events
+    window.focus();
+    document.body.focus();
 
     const pdfScript = document.createElement('script');
     pdfScript.src = 'data/pdfs.js';
     pdfScript.onload = () => {
-        initializeDisplay(); // only run after PDFs are available
+        initializeDisplay(); 
+        
+        // After a delay, check navigation elements
+        setTimeout(() => {
+            const hasNavElements = 
+                document.querySelector('.nav-article-link.nav-link-prev') || 
+                document.querySelector('.nav-article-link.nav-link-next') ||
+                document.querySelector('.nav-link-prev:not(.nav-article-link)') ||
+                document.querySelector('.nav-link-next:not(.nav-article-link)');
+            
+            if (hasNavElements) {
+                // Make the container focusable
+                const contentDiv = document.getElementById('content');
+                if (contentDiv) {
+                    contentDiv.setAttribute('tabindex', '-1');
+                    contentDiv.focus({preventScroll: true});
+                }
+                
+            }
+        }, 500);
     };
     pdfScript.onerror = () => {
         console.warn('⚠️ Failed to load pdfs.js. PDF links may not appear.');
-        initializeDisplay(); // proceed anyway
+        initializeDisplay();
+        
+        // Same delay check even if PDF loading failed
+        setTimeout(() => {
+            const hasNavElements = 
+                document.querySelector('.nav-article-link.nav-link-prev') || 
+                document.querySelector('.nav-article-link.nav-link-next') ||
+                document.querySelector('.nav-link-prev:not(.nav-article-link)') ||
+                document.querySelector('.nav-link-next:not(.nav-article-link)');
+            
+            if (hasNavElements) {
+                // Make the container focusable
+                const contentDiv = document.getElementById('content');
+                if (contentDiv) {
+                    contentDiv.setAttribute('tabindex', '-1');
+                    contentDiv.focus({preventScroll: true});
+                }
+                
+            }
+        }, 500);
     };
 
     document.body.appendChild(pdfScript);
+    enableUniversalKeyboardNavigation();
+    setTimeout(enableUniversalKeyboardNavigation, 500);
+
 };
