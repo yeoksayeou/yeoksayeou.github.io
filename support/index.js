@@ -691,7 +691,7 @@ window.onload = function () {
     }
 
     const pdfScript = document.createElement('script');
-    pdfScript.src = '../support/pdfs.js';
+    pdfScript.src = 'data/pdfs.js';
     pdfScript.onload = () => {
         initializeDisplay(); // only run after PDFs are available
     };
