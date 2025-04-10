@@ -922,14 +922,14 @@ function addKeyboardNavigationIndicators() {
     if (prevLink) {
         const indicator = document.createElement('span');
         indicator.className = 'keyboard-shortcut-indicator';
-        indicator.textContent = '← key';
+        indicator.textContent = '←';
         prevLink.appendChild(indicator);
     }
     
     if (nextLink) {
         const indicator = document.createElement('span');
         indicator.className = 'keyboard-shortcut-indicator';
-        indicator.textContent = '→ key';
+        indicator.textContent = '→';
         nextLink.appendChild(indicator);
     }
 }

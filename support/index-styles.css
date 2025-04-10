@@ -265,7 +265,8 @@ hr {
 
 /* Regular Korean mode paragraph styles */
 .article-content p {
-    margin-bottom: 1.5em;
+    margin-top: 0;
+    margin-bottom: 0.9em; /* 1.5em; */
 }
 
 .poetry {
