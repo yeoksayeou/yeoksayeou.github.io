@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Search</title>
-  <link rel="stylesheet" href="support/styles.css">
-  <script src="support/overview.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>개벽 Search</title>
+  <link rel="stylesheet" href="../support/styles.css">
 </head>
 <body>
   <div class="header-links">
@@ -15,7 +15,7 @@
     </div>
   </div>
   
-  <h1>Search</h1>
+  <h1>개벽 Search</h1>
   
   <div class="search-container">
     <input type="text" id="searchBox" placeholder="Enter search term..." class="">
@@ -29,7 +29,7 @@
           <input type="checkbox" id="translation-toggle">
           <span class="slider round"></span>
         </label>
-        <span class="toggle-label">Search/Link English Translations</span>
+        <span class="toggle-label">English Translations</span>
       </div>
     </div>
 
@@ -122,22 +122,11 @@
 
   <!-- Load the required JavaScript files -->
   <!-- <script src="support/data.js"></script> -->
-
-  <script src="support/lang.js"></script>
-  <script src="support/utils.js"></script>
-  <script src="support/search.js"></script>
-  <script src="support/display.js"></script>
-  <script src="support/perform-search.js"></script>
-  <script src="support/main.js"></script>
-  <script>
-    // Update title and heading with magazine name from overview.js
-    document.addEventListener('DOMContentLoaded', function() {
-      // Update the page title
-      document.title = SITE_INFO.title + ' Search';
-      
-      // Update the H1 heading
-      document.querySelector('h1').textContent = SITE_INFO.title + ' Search';
-    });
-  </script>
+  <script src="../support/lang.js"></script>
+  <script src="../support/utils.js"></script>
+  <script src="../support/search.js"></script>
+  <script src="../support/display.js"></script>
+  <script src="../support/perform-search.js"></script>
+  <script src="../support/main.js"></script>
 </body>
 </html>
