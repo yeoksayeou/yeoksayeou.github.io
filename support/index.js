@@ -10,6 +10,18 @@ function generateFooter() {
     let lastUpdated = "";
     let sourceLink = "https://db.history.go.kr/modern/";
     let sourceName = "국사편찬위원회";
+    let siteTitle = "";
+    
+    if (window.SITE_INFO) {
+        lastUpdated = window.SITE_INFO.lastUpdated || "";
+        sourceLink = window.SITE_INFO.sourceLink || sourceLink;
+        sourceName = window.SITE_INFO.sourceName || sourceName;
+        
+        // Extract the first word from the title if available
+        if (window.SITE_INFO.title) {
+            siteTitle = window.SITE_INFO.title.split(' ')[0];
+        }
+    }
     
     if (window.SITE_INFO) {
         lastUpdated = window.SITE_INFO.lastUpdated || "";
@@ -20,7 +32,7 @@ function generateFooter() {
     return `
         <footer class="site-footer">
             <p><a href="../index.html">Project Home</a> - <a href="https://github.com/yeoksayeou/yeoksayeou.github.io">Project Repository</a></p>
-            <p>${lastUpdated ? `Last updated: ${lastUpdated}` : ''} ${lastUpdated ? ' | ' : ''}Source: <a href="${sourceLink}" target="_blank">${sourceName}</a></p>
+            <p>${lastUpdated ? `Last updated: ${lastUpdated}` : ''} ${lastUpdated ? ' | ' : ''} Source of texts for ${siteTitle}: <a href="${sourceLink}" target="_blank">${sourceName}</a></p>
         </footer>
     `;
 }
@@ -256,9 +268,12 @@ issueListHTML += generateFooter();
 }
 
 // Display articles in a specific issue
-function displayIssueArticles(issueName) {
+function displayIssueArticles(issueName, pushState = true) {
     const contentDiv = document.getElementById('content');
     const showAll = getUrlParam('all') === 'yes';
+
+    // Show loading indicator
+    contentDiv.innerHTML = `<div class="loading">Loading...</div>`;
 
     loadIssueScript(issueName, (issueArticles) => {
         const pdfPath = getPdfPath(issueName);
@@ -325,7 +340,15 @@ function displayIssueArticles(issueName) {
 
             allArticlesHTML += `<p><a href="${createUrl('index.html')}">&laquo; Back to all issues</a></p>`;
             allArticlesHTML += generateFooter();
-            contentDiv.innerHTML = allArticlesHTML;
+            
+            // Apply fade transition
+            contentDiv.classList.add('fade-out');
+            
+            setTimeout(() => {
+                contentDiv.innerHTML = allArticlesHTML;
+                contentDiv.classList.remove('fade-out');
+            }, 150);
+            
         } else {
             let articleListHTML = `
                 <div class="article-header">
@@ -343,7 +366,7 @@ function displayIssueArticles(issueName) {
                 articleListHTML += `
                     <li>
                         <div class="article-list-title">
-                            <a href="${createUrl('index.html', {path: article.path})}">${article.title}</a>
+                            <a href="${createUrl('index.html', {path: article.path})}" class="article-item-link" data-path="${article.path}">${article.title}</a>
                         </div>
                         <div class="article-list-meta">
                             ${authorLinksHTML ? `${authorLinksHTML} <span class="meta-separator">|</span> ` : ''}
@@ -373,13 +396,40 @@ function displayIssueArticles(issueName) {
                 </div>
             `;
             articleListHTML += generateFooter();
-            contentDiv.innerHTML = articleListHTML;
+            
+            // Apply fade transition
+            contentDiv.classList.add('fade-out');
+            
+            setTimeout(() => {
+                contentDiv.innerHTML = articleListHTML;
+                contentDiv.classList.remove('fade-out');
+                
+                // Add click event listeners to article items
+                document.querySelectorAll('.article-item-link').forEach(link => {
+                    link.addEventListener('click', function(e) {
+                        e.preventDefault();
+                        const path = this.getAttribute('data-path');
+                        if (path) {
+                            displayArticle(path);
+                        }
+                    });
+                });
+            }, 150);
+        }
+        
+        // Update the browser history if this is a new navigation
+        if (pushState) {
+            window.history.pushState(
+                { issue: issueName, displayType: 'issue', showAll: showAll },
+                `Issue: ${displayIssueName}`,
+                createUrl('index.html', showAll ? {issue: issueName, all: 'yes'} : {issue: issueName})
+            );
         }
     });
 }
 
 // Display a specific article
-function displayArticle(articlePath) {
+function displayArticle(articlePath, pushState = true) {
     const contentDiv = document.getElementById('content');
     const match = articlePath.match(/^(.+?)\//);
     if (!match) {
@@ -388,6 +438,9 @@ function displayArticle(articlePath) {
     }
 
     const issueName = match[1];
+    
+    // Show loading indicator while content loads
+    contentDiv.innerHTML = `<div class="loading">Loading...</div>`;
 
     loadIssueScript(issueName, (issueArticles) => {
         const article = issueArticles.find(item => item.path === articlePath);
@@ -448,13 +501,13 @@ function displayArticle(articlePath) {
                     </div>
                     <div style="margin-top: 10px; color: #999; font-size: 0.9em;">
                         ${prevArticle ? 
-                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
+                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" class="nav-article-link" data-path="${prevArticle.path}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
                             prevIssue ? 
                                 `<a href="${createUrl('index.html', {issue: prevIssue})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Issue</a>` :
                                 ``
                         }
                         ${nextArticle ? 
-                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
+                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" class="nav-article-link" data-path="${nextArticle.path}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
                             nextIssue ? 
                                 `<a href="${createUrl('index.html', {issue: nextIssue})}" style="color: #999; text-decoration: none;">Next Issue »</a>` :
                                 ``
@@ -503,13 +556,13 @@ function displayArticle(articlePath) {
                     </div>
                     <div style="margin-top: 10px; color: #999; font-size: 0.9em;">
                         ${prevArticle ? 
-                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
+                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" class="nav-article-link" data-path="${prevArticle.path}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Article</a>` : 
                             prevIssue ? 
                                 `<a href="${createUrl('index.html', {issue: prevIssue})}" style="color: #999; text-decoration: none; margin-right: 15px;">« Previous Issue</a>` :
                                 ``
                         }
                         ${nextArticle ? 
-                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
+                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" class="nav-article-link" data-path="${nextArticle.path}" style="color: #999; text-decoration: none;">Next Article »</a>` : 
                             nextIssue ? 
                                 `<a href="${createUrl('index.html', {issue: nextIssue})}" style="color: #999; text-decoration: none;">Next Issue »</a>` :
                                 ``
@@ -526,13 +579,13 @@ function displayArticle(articlePath) {
                     <a href="${createUrl('index.html', {issue: article.issue})}" class="nav-link-issue">&laquo; Back to ${displayIssue}</a>
                     <div class="nav-pagination">
                         ${prevArticle ? 
-                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" class="nav-link-prev">Previous Article</a>` : 
+                            `<a href="${createUrl('index.html', {path: prevArticle.path})}" class="nav-article-link nav-link-prev" data-path="${prevArticle.path}">Previous Article</a>` : 
                             prevIssue ? 
                                 `<a href="${createUrl('index.html', {issue: prevIssue})}" class="nav-link-prev">Previous Issue</a>` :
                                 `<span class="nav-link-disabled">Previous Article</span>`
                         }
                         ${nextArticle ? 
-                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" class="nav-link-next">Next Article</a>` : 
+                            `<a href="${createUrl('index.html', {path: nextArticle.path})}" class="nav-article-link nav-link-next" data-path="${nextArticle.path}">Next Article</a>` : 
                             nextIssue ? 
                                 `<a href="${createUrl('index.html', {issue: nextIssue})}" class="nav-link-next">Next Issue</a>` :
                                 `<span class="nav-link-disabled">Next Article</span>`
@@ -542,8 +595,68 @@ function displayArticle(articlePath) {
             </div>
         `;
 
-        contentDiv.innerHTML = articleHTML;
+        // Fade out, update content, then fade in
+        contentDiv.classList.add('fade-out');
+        
+        setTimeout(() => {
+            contentDiv.innerHTML = articleHTML;
+            
+            // Add event listeners to article navigation links
+            addArticleNavigationListeners();
+            
+            // Add keyboard navigation indicators
+            addKeyboardNavigationIndicators();
+            
+            // Fade back in
+            contentDiv.classList.remove('fade-out');
+            
+            // If this is client-side navigation, scroll to top
+            window.scrollTo(0, 0);
+        }, 150);
+
+        // Update the URL if this is client-side navigation
+        if (pushState) {
+            window.history.pushState(
+                { path: articlePath, displayType: 'article' }, 
+                `${article.title}`, 
+                createUrl('index.html', {path: articlePath})
+            );
+        }
     });
+}
+
+function addArticleNavigationListeners() {
+    // Find all navigation links for articles
+    const articleLinks = document.querySelectorAll('.nav-article-link');
+    
+    // Add click event listeners to each link
+    articleLinks.forEach(link => {
+        link.addEventListener('click', function(e) {
+            e.preventDefault();
+            const path = this.getAttribute('data-path');
+            if (path) {
+                displayArticle(path);
+            }
+        });
+    });
+}
+
+function handlePopState(event) {
+    if (event.state) {
+        if (event.state.displayType === 'article' && event.state.path) {
+            // User navigated back/forward to an article
+            displayArticle(event.state.path, false);
+        } else if (event.state.displayType === 'issue' && event.state.issue) {
+            // User navigated back/forward to an issue list
+            displayIssueArticles(event.state.issue, false);
+        } else {
+            // Default: reload the page to handle other states
+            window.location.reload();
+        }
+    } else {
+        // No state information, reload the page
+        window.location.reload();
+    }
 }
 
 // Display articles by a specific author
@@ -681,6 +794,146 @@ function initializeDisplay() {
     }
 }
 
+// Swipe support and left right arrow:
+
+// Function to set up keyboard navigation
+function setupKeyboardNavigation() {
+    document.addEventListener('keydown', function(e) {
+        // Only respond to arrow keys if not in an input field
+        if (document.activeElement.tagName === 'INPUT' || 
+            document.activeElement.tagName === 'TEXTAREA' || 
+            document.activeElement.tagName === 'SELECT') {
+            return;
+        }
+        
+        // Left arrow key for previous article
+        if (e.key === 'ArrowLeft') {
+            const prevLink = document.querySelector('.nav-article-link.nav-link-prev');
+            if (prevLink) {
+                e.preventDefault();
+                const path = prevLink.getAttribute('data-path');
+                if (path) {
+                    displayArticle(path);
+                }
+            }
+        }
+        
+        // Right arrow key for next article
+        if (e.key === 'ArrowRight') {
+            const nextLink = document.querySelector('.nav-article-link.nav-link-next');
+            if (nextLink) {
+                e.preventDefault();
+                const path = nextLink.getAttribute('data-path');
+                if (path) {
+                    displayArticle(path);
+                }
+            }
+        }
+    });
+}
+
+// Variables for swipe detection
+let touchStartX = 0;
+let touchEndX = 0;
+const MIN_SWIPE_DISTANCE = 50; // Minimum distance in pixels to register as a swipe
+
+// Function to set up swipe navigation for mobile
+function setupSwipeNavigation() {
+    const contentDiv = document.getElementById('content');
+    
+    // Add touch event listeners to the content div
+    contentDiv.addEventListener('touchstart', function(e) {
+        touchStartX = e.changedTouches[0].screenX;
+    }, false);
+    
+    contentDiv.addEventListener('touchend', function(e) {
+        touchEndX = e.changedTouches[0].screenX;
+        handleSwipe();
+    }, false);
+    
+    // Function to determine swipe direction and navigate accordingly
+    function handleSwipe() {
+        const swipeDistance = touchEndX - touchStartX;
+        
+        // Ignore small movements to prevent accidental navigation
+        if (Math.abs(swipeDistance) < MIN_SWIPE_DISTANCE) {
+            return;
+        }
+        
+        // Check if we're viewing an article (not an issue list)
+        const isArticleView = document.querySelector('.nav-article-link') !== null;
+        if (!isArticleView) {
+            return;
+        }
+        
+        if (swipeDistance > 0) {
+            // Swipe right: go to previous article
+            const prevLink = document.querySelector('.nav-article-link.nav-link-prev');
+            if (prevLink) {
+                const path = prevLink.getAttribute('data-path');
+                if (path) {
+                    displayArticle(path);
+                }
+            }
+        } else {
+            // Swipe left: go to next article
+            const nextLink = document.querySelector('.nav-article-link.nav-link-next');
+            if (nextLink) {
+                const path = nextLink.getAttribute('data-path');
+                if (path) {
+                    displayArticle(path);
+                }
+            }
+        }
+    }
+}
+
+// Add visual indicators for keyboard navigation (optional but helpful)
+function addKeyboardNavigationIndicators() {
+    const style = document.createElement('style');
+    style.textContent = `
+        @media (min-width: 768px) {
+            /* Only show on desktop/laptop */
+            .keyboard-shortcut-indicator {
+                display: inline-block;
+                font-size: 0.8em;
+                background-color: #f1f1f1;
+                color: #666;
+                padding: 2px 6px;
+                border-radius: 3px;
+                margin-left: 5px;
+                vertical-align: middle;
+            }
+        }
+        
+        @media (max-width: 767px) {
+            /* Hide on mobile */
+            .keyboard-shortcut-indicator {
+                display: none;
+            }
+        }
+    `;
+    document.head.appendChild(style);
+    
+    // Add indicators to the navigation links when they're created
+    const prevLink = document.querySelector('.nav-article-link.nav-link-prev');
+    const nextLink = document.querySelector('.nav-article-link.nav-link-next');
+    
+    if (prevLink) {
+        const indicator = document.createElement('span');
+        indicator.className = 'keyboard-shortcut-indicator';
+        indicator.textContent = '← key';
+        prevLink.appendChild(indicator);
+    }
+    
+    if (nextLink) {
+        const indicator = document.createElement('span');
+        indicator.className = 'keyboard-shortcut-indicator';
+        indicator.textContent = '→ key';
+        nextLink.appendChild(indicator);
+    }
+}
+
 // Run when page loads
 window.onload = function () {
     initLanguageToggle();
@@ -689,6 +942,13 @@ window.onload = function () {
     if (window.SITE_INFO && window.SITE_INFO.title) {
         document.title = window.SITE_INFO.title;
     }
+
+    // Add event listener for browser back/forward buttons
+    window.addEventListener('popstate', handlePopState);
+    
+    // Set up keyboard and swipe navigation
+    setupKeyboardNavigation();
+    setupSwipeNavigation();
 
     const pdfScript = document.createElement('script');
     pdfScript.src = 'data/pdfs.js';

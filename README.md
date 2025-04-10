@@ -32,6 +32,14 @@ In conclusion: the translations provided here have not been reviewed for accurac
 
 The translations were produced by Gemini 2.5 Experimental when it was free and had unlimited usage via the API. When this ended, Pyŏlgŏn'gon had to switch to having translations done by Gemini 2.0 flash, which was affordable, but of lesser quality. It struggled to understand the prompt (included in the repository as prompt.txt) and include all its components so the summary and glossary were left out. Another version of these translations with OpenAI 4o-mini will be included in the repository for anyone who wants to compare the quality of the translations. 
 
+**Messy Data in the Translations** 
+
+Related to the problem of translation errors, the large language model did not always return data consistently. This means that, when viewing the English version you may find the following:
+
+- sometimes metadata is missing because it was returned in an inconsistent format
+- sometimes the articles were very long, longer than the output token limits for the  large language model and these were skipped. You will then usually just see the original article instead.
+- Sometimes it didn't follow the instructions on the sub-section below the main translation so you may see some variation there.
+
 **Technical Notes** 
 
 You may browse the raw files online here via the [site](https://yeoksayeou.github.io/), but inj the files here are not well optimized for rapid online browsing and searching. To make this as easy as possible to download and browse for anyone offline, there is no database, and raw data text files have been simply merged into data files through a build process. 
@@ -39,3 +47,7 @@ You may browse the raw files online here via the [site](https://yeoksayeou.githu
 The search script loads the entire collection of articles from a journal into memory, while the browsing page loads whole issues into memory. Be patient before your first search as this may take a few seconds to load. This goes relatively fast offline, but is slower when hosted remotely. 
 
 There is no reason this can't be easily transformed into a far faster database driven version. Anyone is of course free to make a more efficient version and fork this repository. All the scripts here were written by Claude Sonnet 3.7, with some ChatGPT 4o and Gemini 2.5.
+
+**Shortcuts**
+
+When viewing an article you can use the left or right arrows on your keyboard to move quickly from one article to another inside a given issue. On a mobile device you can swipe left or right to do the same. 

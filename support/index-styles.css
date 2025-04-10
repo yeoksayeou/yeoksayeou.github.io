@@ -614,3 +614,25 @@ input:checked + .slider:before {
 .site-footer a:hover {
     text-decoration: underline;
 }
+
+/* Smooth transition for article content */
+.content-container {
+    transition: opacity 0.10s ease-in-out;
+}
+
+.fade-out {
+    opacity: 0.4;
+}
+
+/* Improve the appearance of navigation links */
+.nav-article-link {
+    transition: color 0.1s ease, background-color 0.1s ease;
+}
+
+.nav-article-link:hover {
+    color: #3498db !important;
+}
+
+.nav-link-prev:hover, .nav-link-next:hover {
+    background-color: #2980b9;
+}
