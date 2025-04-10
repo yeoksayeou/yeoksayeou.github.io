@@ -16,7 +16,7 @@ The other and perhaps most important added feature of this project is an experim
 
 *Does the usefulness of these translations outweigh problems they pose? How bad or good are they? What do they struggle with and what do they do well? These are questions I hope that students and researchers will consider as they explore the translations included here.*
 
-For some of the translations here, the LLM was asked to extract a list of named entitites, a glossary of vocabulary, and a short summary. The LLM used was Gemini 2.5 for three of the journals, and Gemini 2.0 for *Pyŏlgŏn'gon*, which produced poorer quality translations.
+For some of the translations here, the LLM was asked to extract a list of named entities, a glossary of vocabulary, and a short summary. The LLM used was Gemini 2.5 for three of the journals, and Gemini 2.0 for *Pyŏlgŏn'gon*, which produced poorer quality translations.
 
 The LLM translation exhibit all the usual problems of large language models. Be on the look out for hallucinations as well as a host of mistakes based on its incorrect translation of words from the Korean colonial context. These translations should not be quoted without first checking their accuracy and correcting them accordingly.
 
