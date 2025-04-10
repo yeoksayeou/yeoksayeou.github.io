@@ -8,7 +8,13 @@ The articles displayed here are transcriptions of Korean colonial period magazin
 
 The institute's [Database of Korean History: Modern Korea](https://db.history.go.kr/modern/) contains a huge array of important historical materials related modern Korean history, including transcriptions of articles for a number of journals such as those reassembled here. This website does not fully reproduce the rich functionality of the original database, which often includes links to images of the original files and allows convenience saerch across all of its holdings. 
 
-So why create this site if they are already online? This site makes it easy to conveniently download a *full* local collection of these specific files for those who want to explore them quickly on their own computer for purposes of study and research. To do this, download the entire [repository](https://github.com/yeoksayeou/yeoksayeou.github.io) for this website and open the webpage locally on your own machine. Open the "index.html" file and you should see this same content and things will run much faster. Also note that each journal has, in its footer, a link to the specific journal home page on the 국사편찬위원회. Warm thanks to them for making their materials open and accessible to researchers everywhere.
+So why create this site if they are already online? This site makes it easy to conveniently download a *full* local collection of these specific files for those who want to explore them quickly on their own computer for purposes of study and research. 
+
+To do this, download the entire [repository](https://github.com/yeoksayeou/yeoksayeou.github.io) for this website and open the webpage locally on your own machine. You can find a zipped version of the entire thing on the releases page here:
+
+[Releases](https://github.com/yeoksayeou/yeoksayeou.github.io/releases/)
+
+Open the "index.html" file and you should see this same content and things will run much faster. Also note that each journal has, in its footer, a link to the specific journal home page on the 국사편찬위원회. Warm thanks to them for making their materials open and accessible to researchers everywhere.
 
 **Notes on the Translations**
 
